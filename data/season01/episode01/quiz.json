@@ -1,0 +1,146 @@
+{
+  "questions": [
+    {
+      "type": "word",
+      "value": "photon",
+      "definition": "光の粒子",
+      "scriptContext": "So if a photon is directed through a plane with two slits...",
+      "translation": "もし光子が2つのスリットのある平面を通過するなら…",
+      "options": [
+        "電子",
+        "光子",
+        "ニュートリノ",
+        "陽子"
+      ],
+      "correctAnswer": "光子"
+    },
+    {
+      "type": "word",
+      "value": "phylum",
+      "definition": "分類学上の門",
+      "scriptContext": "…move your finger… phylum, which makes fourteen across Port-au-Prince.",
+      "translation": "『phylum』は分類学上の『門』を意味する。",
+      "options": [
+        "種",
+        "門",
+        "界",
+        "綱"
+      ],
+      "correctAnswer": "門"
+    },
+    {
+      "type": "word",
+      "value": "fraud",
+      "definition": "詐欺",
+      "scriptContext": "We are committing genetic fraud.",
+      "translation": "我々は遺伝的詐欺を行っている。",
+      "options": [
+        "正直",
+        "詐欺",
+        "偽造",
+        "犯罪"
+      ],
+      "correctAnswer": "詐欺"
+    },
+    {
+      "type": "word",
+      "value": "fractional",
+      "definition": "一部分の、断片的な",
+      "scriptContext": "…a little extra money to get fractional T1 bandwidth…",
+      "translation": "少しの追加費用で部分的なT1帯域幅を得るために…",
+      "options": [
+        "完全な",
+        "不十分な",
+        "一部分の",
+        "過剰な"
+      ],
+      "correctAnswer": "一部分の"
+    },
+    {
+      "type": "word",
+      "value": "bandwidth",
+      "definition": "通信容量、帯域幅",
+      "scriptContext": "…fractional T1 bandwidth in the apartment.",
+      "translation": "アパートのT1帯域幅を少しだけ…",
+      "options": [
+        "速度",
+        "容量",
+        "帯域幅",
+        "周波数"
+      ],
+      "correctAnswer": "帯域幅"
+    },
+    {
+      "type": "word",
+      "value": "yearn",
+      "definition": "切望する",
+      "scriptContext": "I do yearn for faster downloads.",
+      "translation": "より速いダウンロードを切望している。",
+      "options": [
+        "望む",
+        "必要とする",
+        "切望する",
+        "嫌う"
+      ],
+      "correctAnswer": "切望する"
+    },
+    {
+      "type": "word",
+      "value": "integral",
+      "definition": "積分（数学用語）",
+      "scriptContext": "…if he should use an integral…",
+      "translation": "もし彼が積分を使うべきなら…",
+      "options": [
+        "微分",
+        "積分",
+        "対数",
+        "指数"
+      ],
+      "correctAnswer": "積分"
+    },
+    {
+      "type": "word",
+      "value": "differential",
+      "definition": "微分（数学用語）",
+      "scriptContext": "…or a differential to solve the area under a curve.",
+      "translation": "曲線の下の面積を求めるために微分を使うかどうか。",
+      "options": [
+        "微分",
+        "積分",
+        "導関数",
+        "差分"
+      ],
+      "correctAnswer": "微分"
+    },
+    {
+      "type": "word",
+      "value": "protocol",
+      "definition": "手続き、規則",
+      "scriptContext": "What’s the protocol for leaving?",
+      "translation": "退出するための手続きは何ですか？",
+      "options": [
+        "手続き",
+        "規則",
+        "約束",
+        "儀式"
+      ],
+      "correctAnswer": "手続き"
+    },
+    {
+      "type": "word",
+      "value": "reneged",
+      "definition": "約束を破る",
+      "scriptContext": "I’ve never reneged on a proffer of sperm before.",
+      "translation": "今まで精子の提供に関する約束を破ったことはない。",
+      "options": [
+        "約束を守る",
+        "約束を破る",
+        "拒否する",
+        "遅延する"
+      ],
+      "correctAnswer": "約束を破る"
+    }
+  ]
+}
+
+ 

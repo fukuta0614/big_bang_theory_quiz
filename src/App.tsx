@@ -1,35 +1,73 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import './App.css'
+import './App.css';
+import QuizScreen from './components/QuizScreen';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [season, setSeason] = useState('');
+  const [episode, setEpisode] = useState('');
+  const [showQuiz, setShowQuiz] = useState(false);
+
+  const handleSeasonChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    setSeason(event.target.value);
+  };
+
+  const handleEpisodeChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    setEpisode(event.target.value);
+  };
+
+  const handleStartQuiz = () => {
+    setShowQuiz(true);
+  };
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      {!showQuiz ? (
+        <div>
+          <h1>The Big Bang Theory Quiz</h1>
+          <div>
+            <label htmlFor="season">シーズン:</label>
+            <select id="season" value={season} onChange={handleSeasonChange}>
+              <option value="">選択してください</option>
+              <option value="1">シーズン1</option>
+              <option value="2">シーズン2</option>
+              <option value="3">シーズン3</option>
+              <option value="4">シーズン4</option>
+              <option value="5">シーズン5</option>
+              <option value="6">シーズン6</option>
+              <option value="7">シーズン7</option>
+              <option value="8">シーズン8</option>
+              <option value="9">シーズン9</option>
+              <option value="10">シーズン10</option>
+              <option value="11">シーズン11</option>
+              <option value="12">シーズン12</option>
+            </select>
+          </div>
+          <div>
+            <label htmlFor="episode">エピソード:</label>
+            <select id="episode" value={episode} onChange={handleEpisodeChange}>
+              <option value="">選択してください</option>
+              {season &&
+                Array.from({ length: 24 }, (_, i) => i + 1).map((episodeNumber) => (
+                  <option key={episodeNumber} value={episodeNumber}>
+                    エピソード{episodeNumber}
+                  </option>
+                ))}
+            </select>
+          </div>
+          <button
+            disabled={!season || !episode}
+            onClick={handleStartQuiz}
+          >
+            開始
+          </button>
+        </div>
+      ) : (
+        <QuizScreen />
+      )}
     </>
-  )
+  );
 }
 
-export default App
+export default App;
