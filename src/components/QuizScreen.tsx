@@ -1,11 +1,50 @@
-import React, { useState } from 'react';
-import quizData from '../../data/season01/episode01/quiz.json';
+import React, { useState, useEffect } from 'react';
 import './QuizScreen.css';
+import Question from './Question';
 
-const QuizScreen: React.FC = () => {
+interface QuizScreenProps {
+  season: string;
+  episode: string;
+  onGoHome: () => void;
+}
+
+interface QuestionData {
+  type: string;
+  value: string;
+  definition: string;
+  scriptContext: string;
+  translation: string;
+  options: string[];
+  correctAnswer: string;
+}
+
+interface QuizData {
+  questions: QuestionData[];
+}
+
+const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) => {
+  const [quizData, setQuizData] = useState<QuizData | null>(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [showResult, setShowResult] = useState(false);
+
+  useEffect(() => {
+    const fetchQuizData = async () => {
+      try {
+        const response = await fetch(`../../data/season${season}/episode${episode}/quiz.json`);
+        const data: QuizData = await response.json();
+        setQuizData(data);
+      } catch (error) {
+        console.error('Error fetching quiz data:', error);
+      }
+    };
+
+    fetchQuizData();
+  }, [season, episode]);
+
+  if (!quizData) {
+    return <div>Loading...</div>;
+  }
 
   const currentQuestion = quizData.questions[currentQuestionIndex];
 
@@ -22,33 +61,30 @@ const QuizScreen: React.FC = () => {
 
   return (
     <div className="quiz-container">
-      <h1>Quiz Screen</h1>
-      <div className="question-container">
-        <h2>{currentQuestion.value}</h2>
-        <p className="definition">{currentQuestion.definition}</p>
-        <p className="script-context">
-          ヒント: {currentQuestion.scriptContext}
-        </p>
-      </div>
-      <ul className="options-list">
-        {currentQuestion.options.map((option) => (
-          <li key={option} className="option-item">
-            <button
-              className="option-button"
-              onClick={() => handleAnswerClick(option)}
-              disabled={showResult}
-            >
-              {option}
-            </button>
-          </li>
-        ))}
-      </ul>
+      <p>シーズン: {season} エピソード: {episode}</p>
+      <Question
+        question={currentQuestion.value}
+        scriptContext={currentQuestion.scriptContext}
+        options={currentQuestion.options}
+        onAnswerClick={handleAnswerClick}
+        showResult={showResult}
+      />
       {showResult && (
         <div className="result-container">
           {selectedAnswer === currentQuestion.correctAnswer ? (
-            <p className="correct-answer">正解！</p>
+            <>
+              <p className="correct-answer">正解！</p>
+              <p className="definition">
+                {currentQuestion.definition}
+              </p>
+            </>
           ) : (
-            <p className="incorrect-answer">不正解！</p>
+            <>
+              <p className="incorrect-answer">不正解！</p>
+              <p className="definition">
+                {currentQuestion.definition}
+              </p>
+            </>
           )}
           <p className="translation">
             {currentQuestion.translation}
@@ -65,8 +101,9 @@ const QuizScreen: React.FC = () => {
       ) : (
         <p className="quiz-finished">クイズは終了しました。</p>
       )}
+      <button onClick={() => onGoHome()}>Homeに戻る</button>
     </div>
   );
-};
+}
 
 export default QuizScreen;
