@@ -18,7 +18,7 @@ const Question: React.FC<QuestionProps> = ({
   return (
     <div className="question-container">
       <h2>{question}</h2>
-      <p className="definition" dangerouslySetInnerHTML={{ __html: "ヒント: " + definition }} />
+      <p className="definition" dangerouslySetInnerHTML={{ __html: definition }} />
       <ul className="options-list">
         {options.map((option) => (
           <li key={option} className="option-item">
