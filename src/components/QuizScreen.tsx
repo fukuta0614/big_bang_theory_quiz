@@ -58,15 +58,9 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) =>
         let context = '';
         for (let i = 0; i < scriptLines.length; i++) {
           if (scriptLines[i].includes(questionValue)) {
-            const start = Math.max(0, i - 2);
-            const end = Math.min(scriptLines.length - 1, i + 2);
-            for (let j = start; j <= end; j++) {
-              let line = scriptLines[j];
-              if (line.includes(questionValue)) {
-                line = line.replace(questionValue, `<strong>${questionValue}</strong>`);
-              }
-              context += line + '<br />';
-            }
+            let line = scriptLines[i];
+            line = line.replace(questionValue, `<strong>${questionValue}</strong>`);
+            context += line + '<br />';
             break;
           }
         }
