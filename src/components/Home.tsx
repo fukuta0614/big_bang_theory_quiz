@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
+// Remove Link import
 
 interface HomeProps {
   onStartQuiz: (season: string, episode: string) => void;
+  onStartReview: () => void; // Add onStartReview prop
 }
 
-const Home: React.FC<HomeProps> = ({ onStartQuiz }) => {
+const Home: React.FC<HomeProps> = ({ onStartQuiz, onStartReview }) => { // Destructure onStartReview
   const [season, setSeason] = useState('01');
   const [episode, setEpisode] = useState('01');
 
@@ -44,6 +46,22 @@ const Home: React.FC<HomeProps> = ({ onStartQuiz }) => {
         </select>
       </div>
       <button onClick={handleStartQuiz}>開始</button>
+      {/* Change Link to button calling onStartReview */}
+      <button onClick={onStartReview} className="home-button">
+        復習モード
+      </button>
+      {/* Add button to clear localStorage */}
+      <button
+        onClick={() => {
+          if (window.confirm('復習データをクリアしますか？ (Clear review data?)')) {
+            localStorage.removeItem('incorrectQuestions');
+            alert('復習データをクリアしました。(Review data cleared.)');
+          }
+        }}
+        style={{ marginLeft: '10px', backgroundColor: '#ffcccc' }} // Add some styling
+      >
+        復習データをクリア
+      </button>
     </div>
   );
 };
