@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './QuizScreen.css';
 import Question from './Question';
-import quizDataJson from '../../data/season01/episode01/quiz.json';
 
 interface QuizScreenProps {
   season: string;
@@ -30,19 +29,18 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) =>
   const [showResult, setShowResult] = useState(false);
 
   useEffect(() => {
-    // const fetchQuizData = async () => {
-    //   try {
-    //     const response = await fetch(`../../data/season${season}/episode${episode}/quiz.json`);
-    //     const data: QuizData = await response.json();
-    //     setQuizData(data);
-    //   } catch (error) {
-    //     console.error('Error fetching quiz data:', error);
-    //   }
-    // };
+    const fetchQuizData = async () => {
+      try {
+        const response = await fetch(`../../data/season${season}/episode${episode}/quiz.json`);
+        const data: QuizData = await response.json();
+        setQuizData(data);
+      } catch (error) {
+        console.error('Error fetching quiz data:', error);
+      }
+    };
 
-    // fetchQuizData();
+    fetchQuizData();
 
-    setQuizData(quizDataJson as QuizData);
 
   }, [season, episode]);
 
