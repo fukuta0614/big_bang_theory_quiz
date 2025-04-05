@@ -1,146 +1,1204 @@
 {
   "questions": [
     {
-      "type": "word",
-      "value": "photon",
-      "definition": "光の粒子",
-      "scriptContext": "So if a photon is directed through a plane with two slits...",
-      "translation": "もし光子が2つのスリットのある平面を通過するなら…",
+      "id": 1,
+      "value": "reneged on",
       "options": [
-        "電子",
-        "光子",
-        "ニュートリノ",
-        "陽子"
+        "遅らせる",
+        "参加する",
+        "破棄する",
+        "忘れる"
       ],
-      "correctAnswer": "光子"
+      "correctAnswer": "破棄する",
+      "explanation": "「renege」は、約束や契約を破る、履行しないという意味です。特にフォーマルな状況や、道徳的な義務がある場合に用いられます。「renege on」という形で、具体的な約束の内容を伴って使われることが多いです。\n\n例：He reneged on his promise to help her move. (彼は彼女の引っ越しを手伝うという約束を破った。)"
     },
     {
-      "type": "word",
-      "value": "phylum",
-      "definition": "分類学上の門",
-      "scriptContext": "…move your finger… phylum, which makes fourteen across Port-au-Prince.",
-      "translation": "『phylum』は分類学上の『門』を意味する。",
+      "id": 2,
+      "value": "proffer",
       "options": [
-        "種",
-        "門",
-        "界",
-        "綱"
+        "拒否",
+        "提供",
+        "要求",
+        "隠蔽"
       ],
-      "correctAnswer": "門"
+      "correctAnswer": "提供",
+      "explanation": "「proffer」は、何か（申し出、助け、情報など）を進んで提供または提示することを意味します。やや形式ばった言葉で、自発的な行為を強調する際に使われます。\n\n例：He proffered his assistance to the elderly woman. (彼はその老婦人に援助を申し出た。)"
     },
     {
-      "type": "word",
-      "value": "fraud",
-      "definition": "詐欺",
-      "scriptContext": "We are committing genetic fraud.",
-      "translation": "我々は遺伝的詐欺を行っている。",
+      "id": 3,
+      "value": "off by",
       "options": [
-        "正直",
-        "詐欺",
-        "偽造",
-        "犯罪"
+        "正確に",
+        "わずかにずれて",
+        "完全に一致して",
+        "大幅に異なって"
       ],
-      "correctAnswer": "詐欺"
+      "correctAnswer": "わずかにずれて",
+      "explanation": "「off by」は、あるべき基準や目標からわずかに外れている、または間違っていることを意味します。数値や量に関して使われることが多いです。\n\n例：The estimate was off by a few dollars. (見積もりは数ドルずれていた。)"
     },
     {
-      "type": "word",
+      "id": 4,
+      "value": "clavicle",
+      "options": [
+        "鎖骨",
+        "肋骨",
+        "肩甲骨",
+        "脊椎"
+      ],
+      "correctAnswer": "鎖骨",
+      "explanation": "「clavicle」は、鎖骨を指す医学用語です。体の構造や医学的な文脈で使用されます。\n\n例：He broke his clavicle in the accident. (彼は事故で鎖骨を骨折した。)"
+    },
+    {
+      "id": 5,
+      "value": "boarding school",
+      "options": [
+        "予備校",
+        "全寮制学校",
+        "専門学校",
+        "夜間学校"
+      ],
+      "correctAnswer": "全寮制学校",
+      "explanation": "「boarding school」は、生徒が学校の敷地内で生活する全寮制の学校を指します。多くの場合、伝統的な教育や特別なカリキュラムを提供します。\n\n例：She was sent to boarding school at the age of 13. (彼女は13歳で全寮制学校に送られた。)"
+    },
+    {
+      "id": 6,
+      "value": "transvestite",
+      "options": [
+        "旅行者",
+        "異性装者",
+        "翻訳者",
+        "トランペット奏者"
+      ],
+      "correctAnswer": "異性装者",
+      "explanation": "「transvestite」は、異性の服装をすることを好む人、または異性の服装をしている人を指します。現代では、より包括的な用語である「cross-dresser」が使われることもあります。\n\n例：The show featured a famous transvestite performer. (そのショーには有名な異性装のパフォーマーが出演した。)"
+    },
+    {
+      "id": 7,
+      "value": "sometime",
+      "options": [
+        "いつでも",
+        "いつか",
+        "毎日",
+        "すぐに"
+      ],
+      "correctAnswer": "いつか",
+      "explanation": "「sometime」は、未来の不特定の日時を指し、「いつか」という意味合いで使用されます。具体的な時間や日付が不明な場合に使われます。\n\n例：Let's have coffee sometime. (いつかコーヒーでも飲みましょう。)"
+    },
+    {
+      "id": 8,
+      "value": "commentary",
+      "options": [
+        "コマーシャル",
+        "解説",
+        "ドラマ",
+        "アニメ"
+      ],
+      "correctAnswer": "解説",
+      "explanation": "「commentary」は、特定の出来事や作品に対する解説や批評を意味します。映画やスポーツ中継などで、背景情報や分析を提供する際に用いられます。\n\n例：The DVD includes director's commentary. (そのDVDには監督の解説が含まれている。)"
+    },
+    {
+      "id": 9,
+      "value": "widen",
+      "options": [
+        "狭める",
+        "広げる",
+        "隠す",
+        "変える"
+      ],
+      "correctAnswer": "広げる",
+      "explanation": "「widen」は、文字通りには何かを広くすること、比喩的には範囲、視野、関係などを広げることを意味します。\n\n例：We need to widen our circle of friends. (私たちは友達の輪を広げる必要がある。)"
+    },
+    {
+      "id": 10,
+      "value": "to what end",
+      "options": [
+        "最終的に",
+        "何のために",
+        "いつものように",
+        "簡単に"
+      ],
+      "correctAnswer": "何のために",
+      "explanation": "「to what end」は、「何のために」「どんな目的で」という意味の表現です。ある行動や計画の目的や理由を尋ねる際に使用されます。しばしば、その行動や計画の妥当性や有効性に疑問を呈するニュアンスが含まれます。\n\n例：We're spending all this money, but to what end? (これだけお金を使っているが、一体何のために？)"
+    },
+    {
+      "id": 11,
       "value": "fractional",
-      "definition": "一部分の、断片的な",
-      "scriptContext": "…a little extra money to get fractional T1 bandwidth…",
-      "translation": "少しの追加費用で部分的なT1帯域幅を得るために…",
       "options": [
-        "完全な",
-        "不十分な",
-        "一部分の",
-        "過剰な"
+        "全体的な",
+        "部分的な",
+        "追加の",
+        "架空の"
       ],
-      "correctAnswer": "一部分の"
+      "correctAnswer": "部分的な",
+      "explanation": "「fractional」は「部分的な」「断片的な」という意味です。全体の一部、または分割された状態を指します。ここでは、完全なT1回線ではなく、その一部の帯域幅であることを示しています。\n\n例：fractional ownership（共有所有権）"
     },
     {
-      "type": "word",
-      "value": "bandwidth",
-      "definition": "通信容量、帯域幅",
-      "scriptContext": "…fractional T1 bandwidth in the apartment.",
-      "translation": "アパートのT1帯域幅を少しだけ…",
-      "options": [
-        "速度",
-        "容量",
-        "帯域幅",
-        "周波数"
-      ],
-      "correctAnswer": "帯域幅"
-    },
-    {
-      "type": "word",
+      "id": 12,
       "value": "yearn",
-      "definition": "切望する",
-      "scriptContext": "I do yearn for faster downloads.",
-      "translation": "より速いダウンロードを切望している。",
       "options": [
-        "望む",
-        "必要とする",
+        "軽蔑する",
         "切望する",
-        "嫌う"
+        "無視する",
+        "嫌悪する"
       ],
-      "correctAnswer": "切望する"
+      "correctAnswer": "切望する",
+      "explanation": "「yearn」は「切望する」「強く望む」という意味で、何かを手に入れたい、または何かを経験したいという強い願望を表します。しばしば感情的なニュアンスを伴います。\n\n例：She yearned to see him again. (彼女は彼に再び会うことを切望した。)"
     },
     {
-      "type": "word",
+      "id": 13,
+      "value": "wind up with",
+      "options": [
+        "計画する",
+        "結果として～になる",
+        "避ける",
+        "開始する"
+      ],
+      "correctAnswer": "結果として～になる",
+      "explanation": "「wind up with」は「最終的に～になる」「結果として～を持つことになる」という意味です。意図したわけではない結果や状況に陥ることを表します。\n\n例：If you keep spending like this, you'll wind up with nothing. (もし君がこんなふうに使い続ければ、何も残らなくなるだろう。)"
+    },
+    {
+      "id": 14,
       "value": "integral",
-      "definition": "積分（数学用語）",
-      "scriptContext": "…if he should use an integral…",
-      "translation": "もし彼が積分を使うべきなら…",
       "options": [
-        "微分",
         "積分",
-        "対数",
-        "指数"
+        "微分",
+        "合計",
+        "平均"
       ],
-      "correctAnswer": "積分"
+      "correctAnswer": "積分",
+      "explanation": "「integral」は数学用語で「積分」を意味します。ここでは、数学的な知識の有無を問う文脈で使用されています。\n\n例：He is studying integral calculus. (彼は積分微積分を勉強している。)"
     },
     {
-      "type": "word",
+      "id": 15,
       "value": "differential",
-      "definition": "微分（数学用語）",
-      "scriptContext": "…or a differential to solve the area under a curve.",
-      "translation": "曲線の下の面積を求めるために微分を使うかどうか。",
       "options": [
-        "微分",
         "積分",
-        "導関数",
-        "差分"
+        "微分",
+        "合計",
+        "平均"
       ],
-      "correctAnswer": "微分"
+      "correctAnswer": "微分",
+      "explanation": "「differential」は数学用語で「微分」を意味します。ここでは、数学的な知識の有無を問う文脈で使用されています。\n\n例：The equation involves differential calculus. (その方程式は微分積分を含んでいる。)"
     },
     {
-      "type": "word",
+      "id": 16,
       "value": "protocol",
-      "definition": "手続き、規則",
-      "scriptContext": "What’s the protocol for leaving?",
-      "translation": "退出するための手続きは何ですか？",
       "options": [
-        "手続き",
-        "規則",
-        "約束",
-        "儀式"
+        "協定",
+        "議定書",
+        "手順",
+        "通信規約"
       ],
-      "correctAnswer": "手続き"
+      "correctAnswer": "手順",
+      "explanation": "「protocol」は「手順」「作法」「儀礼」という意味です。特定の状況における正しい行動や手続きを指します。ここでは、精子バンクから退出する際の手順を尋ねています。\n\n例：Security protocol must be followed. (セキュリティプロトコルは守られなければならない。)"
     },
     {
-      "type": "word",
-      "value": "reneged",
-      "definition": "約束を破る",
-      "scriptContext": "I’ve never reneged on a proffer of sperm before.",
-      "translation": "今まで精子の提供に関する約束を破ったことはない。",
+      "id": 17,
+      "value": "evidently",
       "options": [
-        "約束を守る",
-        "約束を破る",
-        "拒否する",
-        "遅延する"
+        "偶然に",
+        "明らかに",
+        "おそらく",
+        "秘密裏に"
       ],
-      "correctAnswer": "約束を破る"
+      "correctAnswer": "明らかに",
+      "explanation": "「evidently」は「明らかに」「一見したところ」という意味です。何かが明白であるか、または表面的な証拠から判断できることを示します。\n\n例：Evidently, they are having some problems. (明らかに、彼らは何か問題を抱えているようだ。)"
+    },
+    {
+      "id": 18,
+      "value": "improvement",
+      "options": [
+        "悪化",
+        "改善",
+        "安定",
+        "停滞"
+      ],
+      "correctAnswer": "改善",
+      "explanation": "「improvement」は「改善」「向上」という意味です。何かが以前の状態よりも良くなっていることを示します。ここでは、以前の隣人と比較して、新しい隣人がより好ましいという意味で使われています。\n\n例：There's been a significant improvement in her health. (彼女の健康状態には著しい改善が見られた。)"
+    },
+    {
+      "id": 19,
+      "value": "across the hall",
+      "options": [
+        "向かいの部屋に",
+        "隣の部屋に",
+        "下の階に",
+        "上の階に"
+      ],
+      "correctAnswer": "向かいの部屋に",
+      "explanation": "「across the hall」は「廊下を挟んで向かい側」という意味です。同じ建物内で、廊下を挟んだ反対側に位置することを指します。\n\n例文: We live across the hall from each other.(私たちは廊下を挟んで向かい側に住んでいます。)"
+    },
+    {
+      "id": 20,
+      "value": "beauty of it",
+      "options": [
+        "それの美しさ",
+        "それの魅力",
+        "それの醜さ",
+        "それの欠点"
+      ],
+      "correctAnswer": "それの魅力",
+      "explanation": "「beauty of it」は「それの素晴らしいところ」「それの魅力」という意味です。ある物事や状況の利点や肯定的な側面を強調する際に用いられます。この文脈では、会ったことのないMyspaceの友達がいることの利点を指しています。\n\n例文: The beauty of it is that you don't have to leave your house.(素晴らしいことに、家から出る必要がないのです。)"
+    },
+    {
+      "id": 21,
+      "value": "make her feel welcome",
+      "options": [
+        "彼女を歓迎する",
+        "彼女を邪魔する",
+        "彼女を無視する",
+        "彼女を怖がらせる"
+      ],
+      "correctAnswer": "彼女を歓迎する",
+      "explanation": "「make her feel welcome」は「彼女を歓迎する」「彼女が心地よく感じるようにする」という意味です。新しい人や訪問者を温かく迎え、安心感を与えることを指します。友好的な態度や行動を通じて、その人が受け入れられていると感じさせるように努めることを意味します。\n\n例文: We should make her feel welcome in our group.(私たちは彼女を私たちのグループに歓迎すべきです。)"
+    },
+    {
+      "id": 22,
+      "value": "Louis-slash-Louise",
+      "options": [
+        "中性的な名前",
+        "性別の曖昧な人",
+        "一般的な名前",
+        "古い名前"
+      ],
+      "correctAnswer": "性別の曖昧な人",
+      "explanation": "「Louis-slash-Louise」は、ルイ/ルイズという名前をスラッシュで繋げることで、その人が男性とも女性とも区別できない、または両方の側面を持っていることを示唆する表現です。ここでは、性別が曖昧な人物を指しています。\n\n例文: I don't know if that person is a Louis-slash-Louise.(その人がルイなのかルイズなのか分からない。)"
+    },
+    {
+      "id": 23,
+      "value": "offline",
+      "options": [
+        "オフラインで",
+        "オンラインで",
+        "現実世界で",
+        "仮想世界で"
+      ],
+      "correctAnswer": "オフラインで",
+      "explanation": "「offline」は「オフラインで」「インターネットに接続されていない状態で」という意味ですが、ここでは「現実世界で」という意味合いで使われています。\n\n例文: Let's meet offline sometime.(いつかオフラインで会いましょう。)"
+    },
+    {
+      "id": 24,
+      "value": "appropriate",
+      "options": [
+        "不適切な",
+        "適切な",
+        "予想外の",
+        "ありえない"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "「appropriate」は「適切な」「ふさわしい」という意味です。特定の状況や目的に対して、適切またはふさわしい行動、発言、服装などを指します。\n\n例文: That joke was not appropriate for the situation.(その冗談はその状況には適切ではありませんでした。)"
+    },
+    {
+      "id": 25,
+      "value": "to that end",
+      "options": [
+        "その結果",
+        "そのため",
+        "その目的のために",
+        "偶然に"
+      ],
+      "correctAnswer": "その目的のために",
+      "explanation": "「to that end」は「その目的のために」「そのために」という意味です。特定の目標や目的を達成するために行われる行動や手段を導入する際に用いられます。\n\n例文: We need to invest more money in research to that end.(その目的のために、私たちは研究にもっとお金を投資する必要があります。)"
+    },
+    {
+      "id": 26,
+      "value": "undergoing",
+      "options": [
+        "経験している",
+        "避けている",
+        "分析している",
+        "完了している"
+      ],
+      "correctAnswer": "経験している",
+      "explanation": "「undergo」は、特に変化や苦難、検査など、何らかの経験や過程を経ることを意味します。ここでは、ストレスを経験している状態を指します。例文: The company is undergoing a major restructuring. (その会社は大規模な再編を経験している。)"
+    },
+    {
+      "id": 27,
+      "value": "laxative",
+      "options": [
+        "睡眠薬",
+        "鎮痛剤",
+        "下剤",
+        "利尿剤"
+      ],
+      "correctAnswer": "下剤",
+      "explanation": "「laxative」は、便秘を解消するために用いられる薬や食品、つまり下剤を意味します。ここでは、カレーが自然な下剤としての効果を持つことを述べています。例文: He took a laxative to relieve his constipation. (彼は便秘を解消するために下剤を飲んだ。)"
+    },
+    {
+      "id": 28,
+      "value": "bowel movement",
+      "options": [
+        "深呼吸",
+        "瞑想",
+        "排便",
+        "ストレッチ"
+      ],
+      "correctAnswer": "排便",
+      "explanation": "「bowel movement」は、排便、つまり腸の内容物を排出する行為を指します。やや直接的な表現なので、フォーマルな場では避けるべきです。例文: Regular bowel movements are important for good health. (規則的な排便は健康にとって重要である。)"
+    },
+    {
+      "id": 29,
+      "value": "make yourself at home",
+      "options": [
+        "くつろいでください",
+        "手伝ってください",
+        "急いでください",
+        "遠慮しないでください"
+      ],
+      "correctAnswer": "くつろいでください",
+      "explanation": "「make yourself at home」は、相手に自分の家のようにリラックスして過ごしてほしいときに使う決まり文句です。例文: Please, make yourself at home. There's plenty of food and drinks. (どうぞ、くつろいでください。食べ物や飲み物はたくさんあります。)"
+    },
+    {
+      "id": 30,
+      "value": "doodling around the edges",
+      "options": [
+        "中心に集中して",
+        "詳細に分析して",
+        "周辺に落書きして",
+        "完全に無視して"
+      ],
+      "correctAnswer": "周辺に落書きして",
+      "explanation": "「doodle」は、特に目的もなく、無意識に線や模様を描くことを意味します。「around the edges」は、周辺や端の方にという意味です。例文: He was doodling in his notebook during the meeting. (彼は会議中にノートに落書きしていた。)"
+    },
+    {
+      "id": 31,
+      "value": "spoof",
+      "options": [
+        "真面目な研究",
+        "詳細な分析",
+        "パロディ",
+        "独創的な理論"
+      ],
+      "correctAnswer": "パロディ",
+      "explanation": "「spoof」は、既存の作品やスタイルを風刺的に模倣したものを指します。ここでは、特定の科学的近似を面白おかしく模倣していることを意味します。例文: The movie is a spoof of classic spy films. (その映画は古典的なスパイ映画のパロディだ。)"
+    },
+    {
+      "id": 32,
+      "value": "holy smokes",
+      "options": [
+        "つまらない",
+        "素晴らしい",
+        "退屈だ",
+        "理解できない"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「holy smokes」は、驚きや感嘆を表す口語的な表現です。驚くほど素晴らしいものを見たときなどに使われます。例文: Holy smokes, that's an amazing car! (うわー、なんてすごい車だ！)"
+    },
+    {
+      "id": 33,
+      "value": "derivative",
+      "options": [
+        "独創的な",
+        "派生的な",
+        "基本的な",
+        "複雑な"
+      ],
+      "correctAnswer": "派生的な",
+      "explanation": "「derivative」は、他のものから派生した、つまり独創性に欠けるという意味合いを持ちます。ここでは、既存の知識の焼き直しであることを示唆しています。例文: His ideas are derivative and lack originality. (彼のアイデアは派生的で独創性に欠ける。)"
+    },
+    {
+      "id": 34,
+      "value": "scribbled",
+      "options": [
+        "丁寧に書かれた",
+        "美しく描かれた",
+        "走り書きされた",
+        "詳細に記録された"
+      ],
+      "correctAnswer": "走り書きされた",
+      "explanation": "「scribble」は、急いで、または乱雑に書くことを意味します。ここでは、MITの男子トイレの壁に走り書きされた内容を指しています。例文: He scribbled a note on a napkin. (彼はナプキンにメモを走り書きした。)"
+    },
+    {
+      "id": 35,
+      "value": "come out",
+      "options": [
+        "解決する",
+        "明らかになる",
+        "隠される",
+        "無視される"
+      ],
+      "correctAnswer": "解決する",
+      "explanation": "ここでは、計算結果がうまく合う、つまり理論が矛盾なく成立するという意味で使われています。例文: The truth will come out eventually. (真実はいつか明らかになるだろう。)"
+    },
+    {
+      "id": 36,
+      "value": "cross breeze",
+      "options": [
+        "強い風",
+        "そよ風",
+        "向かい風",
+        "横風"
+      ],
+      "correctAnswer": "そよ風",
+      "explanation": "「cross breeze」は、窓やドアなどを通って部屋を通り抜けるそよ風のことを指します。ここでは、Sheldonが座る場所の快適さを説明するために使われています。例文: Opening the windows created a pleasant cross breeze in the room. (窓を開けると、部屋に心地よいそよ風が吹いた。)"
+    },
+    {
+      "id": 37,
+      "value": "parallax distortion",
+      "options": [
+        "音響歪み",
+        "視差歪み",
+        "時間的歪み",
+        "色彩歪み"
+      ],
+      "correctAnswer": "視差歪み",
+      "explanation": "「parallax distortion」は、視差によって生じる見え方のずれ、歪みを意味します。ここでは、テレビを見る角度が大きすぎると、視覚的な歪みが生じることを指しています。例文: The telescope corrects for parallax distortion. (その望遠鏡は視差歪みを補正する。)"
+    },
+    {
+      "id": 38,
+      "value": "resent",
+      "options": [
+        "感謝する",
+        "後悔する",
+        "憤慨する",
+        "期待する"
+      ],
+      "correctAnswer": "憤慨する",
+      "explanation": "「resent」は、不当だと感じることで腹を立てる、憤慨するという意味です。例文: She resented being treated unfairly. (彼女は不当な扱いを受けることに憤慨した。)"
+    },
+    {
+      "id": 39,
+      "value": "antisocial implication",
+      "options": [
+        "社会的な影響",
+        "反社会的な意味合い",
+        "文化的な背景",
+        "経済的な効果"
+      ],
+      "correctAnswer": "反社会的な意味合い",
+      "explanation": "「antisocial」は、社会の規範や慣習に反する、または他人との交流を避けるという意味です。「implication」は、暗示、意味合いを指します。例文: His behavior had antisocial implications. (彼の行動は反社会的な意味合いを持っていた。)"
+    },
+    {
+      "id": 40,
+      "value": "arbitrarily defined constellations",
+      "options": [
+        "科学的に定義された星座",
+        "恣意的に定義された星座",
+        "古代から伝わる星座",
+        "最新技術で発見された星座"
+      ],
+      "correctAnswer": "恣意的に定義された星座",
+      "explanation": "「arbitrarily」は、恣意的に、つまり根拠や理由なく勝手に決められたという意味です。ここでは、星座の区切り方が人間によって恣意的に決められたものであることを指しています。例文: The rules were applied arbitrarily. (その規則は恣意的に適用された。)"
+    },
+    {
+      "id": 41,
+      "value": "effects your personality",
+      "options": [
+        "性格を改善する",
+        "性格を悪化させる",
+        "性格に影響を与える",
+        "性格を無視する"
+      ],
+      "correctAnswer": "性格に影響を与える",
+      "explanation": "「effect」は、ここでは動詞として使われており、影響を与えるという意味です。例文: Diet effects your personality. (食生活は性格に影響を与える。)"
+    },
+    {
+      "id": 42,
+      "value": "lactose intolerant",
+      "options": [
+        "乳糖不耐症",
+        "グルテン不耐症",
+        "カフェイン中毒",
+        "アルコール依存症"
+      ],
+      "correctAnswer": "乳糖不耐症",
+      "explanation": "「lactose intolerant」は、乳糖を消化できない、つまり乳糖不耐症であることを意味します。牛乳や乳製品を摂取すると、腹痛や下痢などの症状が出ることがあります。例文: Many adults are lactose intolerant. (多くの大人は乳糖不耐症である。)"
+    },
+    {
+      "id": 43,
+      "value": "winds up",
+      "options": [
+        "出発する",
+        "計画する",
+        "結局〜になる",
+        "成功する"
+      ],
+      "correctAnswer": "結局〜になる",
+      "explanation": "「wind up」は、最終的に〜になる、という意味のイディオムです。意図しない結果や状況に陥るニュアンスが含まれます。例文: He wound up working as a taxi driver. (彼は結局タクシー運転手として働くことになった。)"
+    },
+    {
+      "id": 44,
+      "value": "based on",
+      "options": [
+        "基づいて",
+        "反して",
+        "関係なく",
+        "隠して"
+      ],
+      "correctAnswer": "基づいて",
+      "explanation": "「based on」は、〜に基づいている、という意味です。例文: The movie is based on a true story. (その映画は実話に基づいている。)"
+    },
+    {
+      "id": 45,
+      "value": "right?",
+      "options": [
+        "そうでしょう？",
+        "違うの？",
+        "どうして？",
+        "本当？"
+      ],
+      "correctAnswer": "そうでしょう？",
+      "explanation": "「right?」は、相手に同意や確認を求める際に使われる口語的な表現です。文末につけることで、軽い調子で相手に同意を促す効果があります。例文: It's a beautiful day, right? (いい天気だよね？)"
+    },
+    {
+      "id": 46,
+      "value": "fell in love with",
+      "options": [
+        "尊敬する",
+        "恋に落ちた",
+        "友情を育んだ",
+        "軽蔑する"
+      ],
+      "correctAnswer": "恋に落ちた",
+      "explanation": "「fall in love with」は、〜に恋をする、という意味の一般的な表現です。例文: She fell in love with him at first sight. (彼女は彼に一目惚れした。)"
+    },
+    {
+      "id": 47,
+      "value": "a jerk",
+      "options": [
+        "正直者",
+        "親切な人",
+        "嫌なやつ",
+        "賢い人"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「jerk」は、不快な行動や態度をとる人、つまり嫌なやつ、という意味です。軽蔑的なニュアンスがあります。例文: He's such a jerk for treating her that way. (彼は彼女にあんな態度をとるなんて、本当に嫌なやつだ。)"
+    },
+    {
+      "id": 48,
+      "value": "trusted",
+      "options": [
+        "疑った",
+        "信頼した",
+        "恐れた",
+        "無視した"
+      ],
+      "correctAnswer": "信頼した",
+      "explanation": "「trust」は、信頼するという意味です。例文: I trusted him with my secrets. (私は彼に秘密を打ち明けた。)"
+    },
+    {
+      "id": 49,
+      "value": "say something",
+      "options": [
+        "黙っている",
+        "何か言う",
+        "歌う",
+        "踊る"
+      ],
+      "correctAnswer": "何か言う",
+      "explanation": "「say something」は、何か言う、発言するという意味の一般的な表現です。例文: I wanted to say something, but I didn't know what. (何か言いたかったけど、何を言えばいいかわからなかった。)"
+    },
+    {
+      "id": 50,
+      "value": "make it worse",
+      "options": [
+        "改善する",
+        "悪化させる",
+        "無視する",
+        "維持する"
+      ],
+      "correctAnswer": "悪化させる",
+      "explanation": "「make it worse」は、状況を悪化させるという意味です。例文: Don't make it worse by lying. (嘘をついて状況を悪化させないで。)"
+    },
+    {
+      "id": 51,
+      "value": "pathetic",
+      "options": [
+        "同情的な",
+        "哀れな",
+        "情熱的な",
+        "共感的な"
+      ],
+      "correctAnswer": "哀れな",
+      "explanation": "「pathetic」は、哀れで同情を誘うような状態を表します。人や状況が惨めで、弱々しく、無力であるというニュアンスを含みます。例えば、失敗や不幸に見舞われた人に対して使われます。\n\n例：He looked so pathetic after losing the game. (彼は試合に負けた後、とても哀れに見えた。)"
+    },
+    {
+      "id": 52,
+      "value": "guts",
+      "options": [
+        "勇気",
+        "内臓",
+        "直感",
+        "決意"
+      ],
+      "correctAnswer": "内臓",
+      "explanation": "ここでは「guts」は比喩的に使われ、嫌悪感を強調するために用いられています。「I hate his lying, cheating guts」は「彼の嘘をつき、騙す魂（内臓）を憎む」という意味合いで、強い嫌悪感を示しています。通常、「guts」は勇気や根性を意味することが多いですが、ここでは感情的な強調表現として使われています。"
+    },
+    {
+      "id": 53,
+      "value": "paradox",
+      "options": [
+        "模範",
+        "逆説",
+        "パラメーター",
+        "段落"
+      ],
+      "correctAnswer": "逆説",
+      "explanation": "「paradox」は、一見すると矛盾しているように見えるが、よく考えると真実を含んでいる可能性がある文や状況を指します。論理的な思考を刺激し、深い洞察を促す効果があります。\n\n例：The paradox of thrift suggests that saving money can hurt the economy. (倹約のパラドックスは、貯金がお金を経済に悪影響を与える可能性があることを示唆する。)"
+    },
+    {
+      "id": 54,
+      "value": "on top of everything else",
+      "options": [
+        "何よりもまず",
+        "さらに悪いことに",
+        "すべてを考慮して",
+        "基本的に"
+      ],
+      "correctAnswer": "さらに悪いことに",
+      "explanation": "「on top of everything else」は、「それに加えてさらに悪いことに」という意味で、既に問題がある状況に加えて、さらに別の問題が発生したことを強調する際に使用されます。事態が悪化している状況を表すのに役立ちます。\n\n例：I lost my job, and on top of everything else, my car broke down. (私は仕事を失い、さらに悪いことに、車が故障した。)"
+    },
+    {
+      "id": 55,
+      "value": "development",
+      "options": [
+        "開発",
+        "発展",
+        "出来事",
+        "退化"
+      ],
+      "correctAnswer": "出来事",
+      "explanation": "ここでは「development」は「発展」という意味ではなく、「出来事」や「展開」という意味で使用されています。特定の状況や事態の変化を指し、新しい情報や状況が明らかになったことを示します。\n\n例：The latest development in the case is quite surprising. (事件の最新の展開は非常に驚くべきものだ。)"
+    },
+    {
+      "id": 56,
+      "value": "episode",
+      "options": [
+        "挿話",
+        "出来事",
+        "エピソード",
+        "病状"
+      ],
+      "correctAnswer": "出来事",
+      "explanation": "「episode」は、特定の出来事や事件を指します。特に、連続した物語や一連の出来事の中の一つの部分を指すことが多いです。ここでは、アルツハイマー病の祖母が起こした特定の出来事を指しています。\n\n例：She had an episode of memory loss this morning. (彼女は今朝、記憶喪失の発作を起こした。)"
+    },
+    {
+      "id": 57,
+      "value": "rip our eyes out",
+      "options": [
+        "目を覚ます",
+        "目をそらす",
+        "目を疑う",
+        "目を覆う"
+      ],
+      "correctAnswer": "目を覆う",
+      "explanation": "「rip our eyes out」は、文字通りには「目を引き剥がす」という意味ですが、ここでは非常に不快なものを見たときに、その光景から目を背けたくなるほどの嫌悪感を表現する比喩的な表現です。非常に強い嫌悪感や不快感を示す際に用いられます。\n\n例：The movie was so bad, I wanted to rip my eyes out. (その映画はとてもひどくて、目を覆いたくなった。)"
+    },
+    {
+      "id": 58,
+      "value": "accomplish",
+      "options": [
+        "達成する",
+        "成し遂げる",
+        "遂行する",
+        "完了する"
+      ],
+      "correctAnswer": "達成する",
+      "explanation": "「accomplish」は、目標や計画を首尾よく完了させる、または目的を達成することを意味します。努力やスキルを要するタスクを成功裏に終えることを強調します。\n\n例：He accomplished his goal of running a marathon in under four hours. (彼は4時間以内でマラソンを走るという目標を達成した。)"
+    },
+    {
+      "id": 59,
+      "value": "engage in",
+      "options": [
+        "従事する",
+        "参加する",
+        "没頭する",
+        "関与する"
+      ],
+      "correctAnswer": "参加する",
+      "explanation": "「engage in」は、特定の活動や行為に積極的に参加することを意味します。しばしば、時間やエネルギーを費やす活動や議論、交渉など、何らかの関与が必要な状況で使われます。\n\n例：They engaged in a lively debate about politics. (彼らは政治について活発な議論を交わした。)"
+    },
+    {
+      "id": 60,
+      "value": "hypotheticals",
+      "options": [
+        "理論",
+        "仮説",
+        "現実",
+        "可能性"
+      ],
+      "correctAnswer": "仮説",
+      "explanation": "「hypotheticals」は、仮定の状況やシナリオを指します。現実には起こっていない、または起こるかどうか不明な状況について考える際に用いられます。議論や思考実験でよく使われます。\n\n例：Let's consider some hypotheticals to understand the problem better. (問題をより良く理解するために、いくつかの仮説を考えてみましょう。)"
+    },
+    {
+      "id": 61,
+      "value": "carnal relationship",
+      "options": [
+        "親密な関係",
+        "肉体関係",
+        "精神的な関係",
+        "ビジネス関係"
+      ],
+      "correctAnswer": "肉体関係",
+      "explanation": "「carnal relationship」は、肉体的な欲望や性的な関係を指します。しばしば、愛情や感情的なつながりよりも肉体的な満足を重視する関係を指すことがあります。フォーマルな文脈で使用されることが多いです。\n\n例：The novel explores the complexities of carnal relationships. (その小説は肉体関係の複雑さを探求している。)"
+    },
+    {
+      "id": 62,
+      "value": "hindered",
+      "options": [
+        "助けられた",
+        "妨げられた",
+        "促進された",
+        "改善された"
+      ],
+      "correctAnswer": "妨げられた",
+      "explanation": "「hinder」は、何かの進行や達成を遅らせる、妨げるという意味です。障害物や困難を作り出し、目標達成を難しくする状況を表します。しばしば受動態で使用されます。\n\n例：The storm hindered our progress. (嵐が私たちの進行を妨げた。)"
+    },
+    {
+      "id": 63,
+      "value": "defect",
+      "options": [
+        "亡命する",
+        "欠陥",
+        "拒否する",
+        "感染する"
+      ],
+      "correctAnswer": "亡命する",
+      "explanation": "「defect」は、自国や所属する組織、政党などから離反し、敵対する側や別の場所に移ることを意味します。政治的な意味合いで使われることが多いです。ここでは、Joyce Kimが北朝鮮に亡命したという状況を表しています。\n\n例：He defected to the West during the Cold War. (彼は冷戦時代に西側に亡命した。)"
+    },
+    {
+      "id": 64,
+      "value": "anticipating",
+      "options": [
+        "予期する",
+        "反対する",
+        "参加する",
+        "分析する"
+      ],
+      "correctAnswer": "予期する",
+      "explanation": "「anticipate」は、何か future の出来事や行動を予測し、それに対して準備または期待することを意味します。期待感や準備のニュアンスが含まれます。\n\n例：We are anticipating a large crowd at the event. (イベントには大勢の人が集まることを予想している。)"
+    },
+    {
+      "id": 65,
+      "value": "coitus",
+      "options": [
+        "会話",
+        "性交",
+        "協力",
+        "競争"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交を意味するフォーマルな言葉です。生物学や医学的な文脈で使われることが多く、日常会話ではあまり一般的ではありません。\n\n例：The study examined the effects of coitus on hormone levels. (その研究は性交がホルモンレベルに与える影響を調査した。)"
+    },
+    {
+      "id": 66,
+      "value": "coitus interruptus",
+      "options": [
+        "中断された会話",
+        "中断された性交",
+        "協力の中断",
+        "競争の中断"
+      ],
+      "correctAnswer": "中断された性交",
+      "explanation": "「coitus interruptus」は、性交中に射精前に性器を膣から引き抜く避妊法を指します。医学的な文脈で使われることが多く、日常会話ではあまり一般的ではありません。\n\n例：Coitus interruptus is not a reliable method of contraception. (中断された性交は信頼できる避妊法ではありません。)"
+    },
+    {
+      "id": 67,
+      "value": "Enchante Madamoiselle",
+      "options": [
+        "はじめまして、お嬢さん",
+        "さようなら、お嬢さん",
+        "お元気ですか、お嬢さん",
+        "おめでとうございます、お嬢さん"
+      ],
+      "correctAnswer": "はじめまして、お嬢さん",
+      "explanation": "「Enchante Madamoiselle」は、フランス語で「はじめまして、お嬢さん」という意味です。男性が若い女性に対して自己紹介する際に使う丁寧な表現です。フォーマルな状況や、相手に好印象を与えたい時に用いられます。\n\n例：Enchante Madamoiselle, je m'appelle Pierre. (はじめまして、お嬢さん、私はピエールと申します。)"
+    },
+    {
+      "id": 68,
+      "value": "sentiment",
+      "options": [
+        "感情",
+        "意見",
+        "感謝",
+        "後悔"
+      ],
+      "correctAnswer": "感情",
+      "explanation": "「sentiment」は、感情、意見、または態度を意味します。特に、理性よりも感情に基づいた考えや感じ方を指すことが多いです。ここでは、HowardがPennyに「良いシャワーを」と言う感情を指しています。\n\n例：There is a growing sentiment that the war is unnecessary. (その戦争は不必要だという感情が高まっている。)"
+    },
+    {
+      "id": 69,
+      "value": "chain of causality",
+      "options": [
+        "偶然の連鎖",
+        "因果関係の連鎖",
+        "責任の連鎖",
+        "出来事の連鎖"
+      ],
+      "correctAnswer": "因果関係の連鎖",
+      "explanation": "「chain of causality」は、ある出来事が次の出来事を引き起こし、それがさらに次の出来事を引き起こすという一連の因果関係を指します。原因と結果が連鎖的に繋がっている状態を表します。\n\n例：Understanding the chain of causality is crucial for solving complex problems. (複雑な問題を解決するには、因果関係の連鎖を理解することが重要です。)"
+    },
+    {
+      "id": 70,
+      "value": "aforementioned",
+      "options": [
+        "前述の",
+        "言及しなかった",
+        "以下の",
+        "重要な"
+      ],
+      "correctAnswer": "前述の",
+      "explanation": "「aforementioned」は、すでに言及された、または前に述べられたものを指すフォーマルな言葉です。法律文書や学術的な文章でよく使用され、繰り返し同じ言葉を使うことを避けるために用いられます。\n\n例：The aforementioned document contains confidential information. (前述の文書には機密情報が含まれています。)"
+    },
+    {
+      "id": 71,
+      "value": "proximal cause",
+      "options": [
+        "根本原因",
+        "近位原因",
+        "遠位原因",
+        "間接原因"
+      ],
+      "correctAnswer": "近位原因",
+      "explanation": "「proximal cause」は、直接的で最も近い原因を指します。問題や出来事が起こる直接的な理由を特定する際に用いられます。医学や科学の分野でよく使われます。\n\n例：The proximal cause of the accident was the driver's failure to brake. (事故の直接的な原因は、運転手がブレーキを踏まなかったことだ。)"
+    },
+    {
+      "id": 72,
+      "value": "distal cause",
+      "options": [
+        "根本原因",
+        "近位原因",
+        "遠位原因",
+        "間接原因"
+      ],
+      "correctAnswer": "遠位原因",
+      "explanation": "「distal cause」は、直接的な原因ではなく、より根本的で間接的な原因を指します。問題や出来事が起こる背景にある要因を特定する際に用いられます。社会科学や医学の分野でよく使われます。\n\n例：Poverty can be a distal cause of crime. (貧困は犯罪の遠位原因となりうる。)"
+    },
+    {
+      "id": 73,
+      "value": "in contradistinction to",
+      "options": [
+        "～と対照的に",
+        "～と同様に",
+        "～に加えて",
+        "～を支持して"
+      ],
+      "correctAnswer": "～と対照的に",
+      "explanation": "「in contradistinction to」は、「～と対照的に」という意味で、二つの事柄を比較し、その違いを強調する際に使用されます。フォーマルな文脈で用いられることが多いです。\n\n例：His actions are in contradistinction to his words. (彼の行動は彼の言葉とは対照的だ。)"
+    },
+    {
+      "id": 74,
+      "value": "hit on",
+      "options": [
+        "攻撃する",
+        "口説く",
+        "当たる",
+        "非難する"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「hit on」は、誰かを口説く、または恋愛対象としてアプローチすることを意味する口語的な表現です。性的な関心を示唆するニュアンスが含まれます。\n\n例：He was trying to hit on her at the bar. (彼はバーで彼女を口説こうとしていた。)"
+    },
+    {
+      "id": 75,
+      "value": "no-more-tears",
+      "options": [
+        "涙を止める",
+        "涙が止まらない",
+        "涙を誘う",
+        "涙とは無縁の"
+      ],
+      "correctAnswer": "涙を止める",
+      "explanation": "「no-more-tears」は、特に子供向けのシャンプーや石鹸でよく使われる表現で、「目にしみない」という意味合いです。刺激が少なく、涙が出にくいことをアピールするために用いられます。ここでは、Leonardのシャンプーが子供向けであることをからかうために使われています。\n\n例：This shampoo is no-more-tears, so it's perfect for babies. (このシャンプーは目にしみないので、赤ちゃんに最適です。)"
+    },
+    {
+      "id": 76,
+      "value": "mend her broken heart",
+      "options": [
+        "過去を思い出す",
+        "心を癒す",
+        "秘密を打ち明ける",
+        "仕事を探す"
+      ],
+      "correctAnswer": "心を癒す",
+      "explanation": "「mend a broken heart」は、失恋や悲しい出来事によって傷ついた心を癒す、または慰めるという意味です。文字通りに心が壊れるわけではなく、比喩的な表現です。"
+    },
+    {
+      "id": 77,
+      "value": "dispute",
+      "options": [
+        "議論",
+        "沈黙",
+        "同意",
+        "平和"
+      ],
+      "correctAnswer": "議論",
+      "explanation": "「dispute」は、意見の相違、論争、紛争という意味です。フォーマルな状況でよく用いられ、しばしば法的な文脈やビジネスの交渉などで見られます。"
+    },
+    {
+      "id": 78,
+      "value": "custody",
+      "options": [
+        "保護",
+        "無視",
+        "放棄",
+        "自由"
+      ],
+      "correctAnswer": "保護",
+      "explanation": "「custody」は、保護、管理、監督という意味です。法律用語としては、特に子供の親権や、逮捕された人の拘留を指します。"
+    },
+    {
+      "id": 79,
+      "value": "have a scene with",
+      "options": [
+        "議論をする",
+        "仲良くする",
+        "無視する",
+        "パーティーをする"
+      ],
+      "correctAnswer": "議論をする",
+      "explanation": "「have a scene with」は、誰かと公の場で感情的な口論や騒ぎを起こすという意味です。ドラマや映画の「シーン」のように、感情的な状況が展開されるイメージです。"
+    },
+    {
+      "id": 80,
+      "value": "ergo",
+      "options": [
+        "それゆえに",
+        "例えば",
+        "それにもかかわらず",
+        "したがって"
+      ],
+      "correctAnswer": "それゆえに",
+      "explanation": "「ergo」は、したがって、それゆえにという意味のラテン語由来の言葉です。論理的な結論を導く際に使われ、フォーマルな文脈や哲学的な議論でよく見られます。"
+    },
+    {
+      "id": 81,
+      "value": "hitch",
+      "options": [
+        "小さな障害",
+        "大きな成功",
+        "完全な同意",
+        "予期せぬ幸運"
+      ],
+      "correctAnswer": "小さな障害",
+      "explanation": "「hitch」は、小さな障害、問題、または一時的な遅れという意味です。計画や進行における小さなつまずきを指すことが多いです。"
+    },
+    {
+      "id": 82,
+      "value": "in the aftermath of",
+      "options": [
+        "直後に",
+        "前に",
+        "原因で",
+        "結果として"
+      ],
+      "correctAnswer": "直後に",
+      "explanation": "「in the aftermath of」は、ある出来事の直後、特にそれが災害や危機などの否定的な出来事であった場合に、その後に続く状況や結果を指します。影響や余波を強調する際に用いられます。"
+    },
+    {
+      "id": 83,
+      "value": "my apologies",
+      "options": [
+        "申し訳ありません",
+        "ありがとうございます",
+        "どういたしまして",
+        "おめでとうございます"
+      ],
+      "correctAnswer": "申し訳ありません",
+      "explanation": "「my apologies」は、謝罪の意を表すフォーマルな表現です。軽い謝罪よりも丁寧で、深刻な状況や相手に敬意を払う必要がある場合に使われます。"
+    },
+    {
+      "id": 84,
+      "value": "privilege",
+      "options": [
+        "特権",
+        "義務",
+        "責任",
+        "才能"
+      ],
+      "correctAnswer": "特権",
+      "explanation": "「privilege」は、特権、特典、特別な権利という意味です。一般的には、特定の人々やグループだけが享受できる有利な立場や機会を指します。"
+    },
+    {
+      "id": 85,
+      "value": "combined IQ",
+      "options": [
+        "合計IQ",
+        "平均IQ",
+        "最低IQ",
+        "最高IQ"
+      ],
+      "correctAnswer": "合計IQ",
+      "explanation": "「combined IQ」は、複数の人のIQ（知能指数）を合計した数値です。個々の知能を合わせた全体の知的能力を示すために使われます。"
+    },
+    {
+      "id": 86,
+      "value": "muscle",
+      "options": [
+        "腕力",
+        "知力",
+        "リーダーシップ",
+        "勇気"
+      ],
+      "correctAnswer": "腕力",
+      "explanation": "「muscle」は、ここでは腕力、体力、または力仕事をする人を指す口語的な表現です。知的な作業ではなく、物理的な力が必要な場面で使われます。"
+    },
+    {
+      "id": 87,
+      "value": "pantsing",
+      "options": [
+        "ズボンを下ろす",
+        "服をたたむ",
+        "靴を磨く",
+        "帽子をかぶる"
+      ],
+      "correctAnswer": "ズボンを下ろす",
+      "explanation": "「pantsing」は、人のズボンを故意に引き下げるといういたずら行為を指します。主にアメリカの学校などで見られる、子供っぽい行為です。"
+    },
+    {
+      "id": 88,
+      "value": "motives",
+      "options": [
+        "動機",
+        "結果",
+        "計画",
+        "感情"
+      ],
+      "correctAnswer": "動機",
+      "explanation": "「motives」は、行動や決断の背後にある理由や目的を指します。人がなぜ特定の行動を取るのかを説明する際に用いられます。"
+    },
+    {
+      "id": 89,
+      "value": "out of my league",
+      "options": [
+        "高嶺の花",
+        "手が届く",
+        "同じレベル",
+        "相性が良い"
+      ],
+      "correctAnswer": "高嶺の花",
+      "explanation": "「out of my league」は、自分にはふさわしくない、または手が届かないという意味です。恋愛関係において、相手が自分よりも魅力的、成功している、または社会的地位が高いと感じる場合に使われます。"
+    },
+    {
+      "id": 90,
+      "value": "kick back",
+      "options": [
+        "リラックスする",
+        "攻撃する",
+        "運動する",
+        "集中する"
+      ],
+      "correctAnswer": "リラックスする",
+      "explanation": "「kick back」は、リラックスする、くつろぐという意味の口語的な表現です。特に、仕事や活動の後に休息を取る状況で使われます。"
+    },
+    {
+      "id": 91,
+      "value": "quest",
+      "options": [
+        "探求",
+        "逃避",
+        "競争",
+        "休憩"
+      ],
+      "correctAnswer": "探求",
+      "explanation": "「quest」は、探求、冒険、または困難な目標を達成するための旅を意味します。しばしば英雄的な物語やファンタジーの世界で用いられます。"
+    },
+    {
+      "id": 92,
+      "value": "hang out",
+      "options": [
+        "たむろする",
+        "競争する",
+        "議論する",
+        "逃げる"
+      ],
+      "correctAnswer": "たむろする",
+      "explanation": "「hang out」は、誰かと一緒に時間を過ごす、たむろするという意味の口語的な表現です。特に目的もなく、リラックスした雰囲気で過ごすことを指します。"
+    },
+    {
+      "id": 93,
+      "value": "smooth",
+      "options": [
+        "洗練された",
+        "粗野な",
+        "不器用な",
+        "無礼な"
+      ],
+      "correctAnswer": "洗練された",
+      "explanation": "「smooth」は、ここでは洗練された、スムーズな、または巧みなという意味で使われています。特に、人の行動や話し方がスムーズで、相手を惹きつけるような魅力を指します。"
+    },
+    {
+      "id": 94,
+      "value": "sends his regards",
+      "options": [
+        "よろしく伝えて",
+        "悪口を伝えて",
+        "無視して",
+        "感謝して"
+      ],
+      "correctAnswer": "よろしく伝えて",
+      "explanation": "「send one's regards」は、誰かに挨拶や好意を伝えるという意味です。フォーマルな状況や、直接会えない人にメッセージを送る際に使われます。"
+    },
+    {
+      "id": 95,
+      "value": "self-explanatory",
+      "options": [
+        "自明の理",
+        "説明が必要",
+        "誤解を招く",
+        "複雑"
+      ],
+      "correctAnswer": "自明の理",
+      "explanation": "「self-explanatory」は、説明を必要としない、明白なという意味です。状況や物事が容易に理解できる場合に用いられます。"
+    },
+    {
+      "id": 96,
+      "value": "valid hypothesis",
+      "options": [
+        "妥当な仮説",
+        "誤った仮説",
+        "不明確な仮説",
+        "複雑な仮説"
+      ],
+      "correctAnswer": "妥当な仮説",
+      "explanation": "「valid hypothesis」は、妥当な仮説、つまり、証拠や論理に基づいて支持される可能性のある仮説を指します。科学的な研究や議論において重要な概念です。"
+    },
+    {
+      "id": 97,
+      "value": "terrific",
+      "options": [
+        "素晴らしい",
+        "ひどい",
+        "普通",
+        "退屈"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、素晴らしい、すごい、非常に良いという意味です。肯定的な感情を強調するために使われます。"
+    },
+    {
+      "id": 98,
+      "value": "not to mention",
+      "options": [
+        "言うまでもなく",
+        "言及しない",
+        "重要なこと",
+        "どうでもいいこと"
+      ],
+      "correctAnswer": "言うまでもなく",
+      "explanation": "「not to mention」は、言うまでもなく、さらに〜という追加の情報を付け加える際に使われます。既に述べた事柄に加えて、別の重要な点を強調する効果があります。"
+    },
+    {
+      "id": 99,
+      "value": "gastronomically redundant",
+      "options": [
+        "食通にとって無駄",
+        "栄養満点",
+        "見た目が美しい",
+        "健康に良い"
+      ],
+      "correctAnswer": "食通にとって無駄",
+      "explanation": "「gastronomically redundant」は、食通の観点から見て冗長である、つまり、似たような味や食材が重複していて、食事としての多様性や面白みに欠けるという意味です。ここでは、カレー料理が続くことを指して使われています。"
+    },
+    {
+      "id": 100,
+      "value": "veritable",
+      "options": [
+        "真の",
+        "偽りの",
+        "未知の",
+        "ありふれた"
+      ],
+      "correctAnswer": "真の",
+      "explanation": "「veritable」は、真の、本物のという意味です。強調のために用いられ、名詞を修飾して、その名詞が実際にそうであることを強調します。例えば、「veritable genius」（真の天才）のように使われます。"
     }
   ]
 }
-
- 

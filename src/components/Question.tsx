@@ -5,7 +5,7 @@ interface QuestionProps {
   options: string[];
   onAnswerClick: (answer: string) => void;
   showResult: boolean;
-  definition: string;
+  scriptContext: string;
 }
 
 const Question: React.FC<QuestionProps> = ({
@@ -13,12 +13,12 @@ const Question: React.FC<QuestionProps> = ({
   options,
   onAnswerClick,
   showResult,
-  definition,
+  scriptContext,
 }) => {
   return (
     <div className="question-container">
       <h2>{question}</h2>
-      <p className="definition" dangerouslySetInnerHTML={{ __html: definition }} />
+      <p className="scriptContext" dangerouslySetInnerHTML={{ __html: scriptContext }} />
       <ul className="options-list">
         {options.map((option) => (
           <li key={option} className="option-item">

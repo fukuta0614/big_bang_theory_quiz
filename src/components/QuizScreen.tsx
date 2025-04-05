@@ -10,13 +10,11 @@ interface QuizScreenProps {
 }
 
 interface QuestionData {
-  type: string;
+  id: number;
   value: string;
-  definition: string;
-  scriptContext: string;
-  translation: string;
   options: string[];
   correctAnswer: string;
+  explanation: string;
   season: string; // Add season
   episode: string; // Add episode
 }
@@ -170,28 +168,25 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
         options={currentQuestion.options}
         onAnswerClick={handleAnswerClick}
         showResult={showResult}
-        definition={scriptContext}
+        scriptContext={scriptContext}
       />
       {showResult && (
         <div className="result-container">
           {selectedAnswer === currentQuestion.correctAnswer ? (
             <>
               <p className="correct-answer">正解！</p>
-              <p className="definition">
-                {currentQuestion.definition}
+              <p className="scriptContext">
+                {currentQuestion.explanation}
               </p>
             </>
           ) : (
             <>
               <p className="incorrect-answer">不正解！</p>
-              <p className="definition">
-                {currentQuestion.definition}
+              <p className="scriptContext">
+                {currentQuestion.explanation}
               </p>
             </>
           )}
-          <p className="translation">
-            {currentQuestion.translation}
-          </p>
         </div>
       )}
       {currentQuestionIndex < quizData.questions.length - 1 ? (

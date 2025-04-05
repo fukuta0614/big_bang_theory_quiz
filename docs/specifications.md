@@ -123,32 +123,16 @@ data/
 {
   "questions": [
     {
-      "type": "word",
-      "value": "serendipity",
-      "definition": "幸運な偶然",
-      "scriptContext": "It was serendipity that we met.",
-      "translation": "私たちが会ったのは幸運な偶然でした。",
+      "id": 1,
+      "value": "reneged on",
       "options": [
-        "計画",
-        "偶然",
-        "運命",
-        "必然"
+        "遅らせる",
+        "参加する",
+        "破棄する",
+        "忘れる"
       ],
-      "correctAnswer": "偶然"
-    },
-    {
-      "type": "idiom",
-      "value": "break a leg",
-      "definition": "幸運を祈る",
-      "scriptContext": "You are going on stage? Break a leg!",
-      "translation": "ステージに上がるの？頑張って！",
-      "options": [
-        "足を折る",
-        "頑張って",
-        "休憩する",
-        "あきらめる"
-      ],
-      "correctAnswer": "頑張って"
+      "correctAnswer": "破棄する",
+      "explanation": "「renege」は、約束や契約を破る、履行しないという意味です。特にフォーマルな状況や、道徳的な義務がある場合に用いられます。「renege on」という形で、具体的な約束の内容を伴って使われることが多いです.\n\n例：He reneged on his promise to help her move. (彼は彼女の引っ越しを手伝うという約束を破った。)"
     },
     ...
   ]
