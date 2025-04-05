@@ -17,15 +17,14 @@ function App() {
   };
 
   return (
-    <>
-      <Header />
+    <div>
       {!showQuiz ? (
-        <Home onStartQuiz={handleStartQuizFromHome} />
+        <><Header /><Home onStartQuiz={handleStartQuizFromHome} /></>
       ) : (
         <QuizScreen season={season} episode={episode} onGoHome={() => setShowQuiz(false)} />
       )}
       <Footer />
-    </>
+    </div>
   );
 }
 

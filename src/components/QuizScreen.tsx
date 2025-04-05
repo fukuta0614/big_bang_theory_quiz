@@ -27,6 +27,7 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) =>
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [showResult, setShowResult] = useState(false);
+  const [scriptContext, setScriptContext] = useState<string>('');
 
   useEffect(() => {
     const fetchQuizData = async () => {
@@ -40,9 +41,46 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) =>
     };
 
     fetchQuizData();
-
-
   }, [season, episode]);
+
+  useEffect(() => {
+    const fetchScriptContext = async () => {
+      if (!quizData) return;
+      const currentQuestion = quizData.questions[currentQuestionIndex];
+      const scriptPath = `../../data/season${season}/episode${episode}/script.txt`;
+
+      try {
+        const response = await fetch(scriptPath);
+        const scriptText = await response.text();
+        const questionValue = currentQuestion.value;
+        const scriptLines = scriptText.split('\n');
+
+        let context = '';
+        for (let i = 0; i < scriptLines.length; i++) {
+          if (scriptLines[i].includes(questionValue)) {
+            const start = Math.max(0, i - 2);
+            const end = Math.min(scriptLines.length - 1, i + 2);
+            for (let j = start; j <= end; j++) {
+              let line = scriptLines[j];
+              if (line.includes(questionValue)) {
+                line = line.replace(questionValue, `<strong>${questionValue}</strong>`);
+              }
+              context += line + '<br />';
+            }
+            break;
+          }
+        }
+        setScriptContext(context);
+      } catch (error) {
+        console.error('Error fetching script context:', error);
+        setScriptContext('ヒントの取得に失敗しました。<br />');
+      }
+    };
+
+    if (quizData) {
+      fetchScriptContext();
+    }
+  }, [quizData, currentQuestionIndex, season, episode]);
 
   if (!quizData) {
     return <div>Loading...</div>;
@@ -66,10 +104,10 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) =>
       <p>シーズン: {season} エピソード: {episode}</p>
       <Question
         question={currentQuestion.value}
-        scriptContext={currentQuestion.scriptContext}
         options={currentQuestion.options}
         onAnswerClick={handleAnswerClick}
         showResult={showResult}
+        definition={scriptContext}
       />
       {showResult && (
         <div className="result-container">

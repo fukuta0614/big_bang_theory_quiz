@@ -2,25 +2,23 @@ import React from 'react';
 
 interface QuestionProps {
   question: string;
-  scriptContext: string;
   options: string[];
   onAnswerClick: (answer: string) => void;
   showResult: boolean;
+  definition: string;
 }
 
 const Question: React.FC<QuestionProps> = ({
   question,
-  scriptContext,
   options,
   onAnswerClick,
   showResult,
+  definition,
 }) => {
   return (
     <div className="question-container">
       <h2>{question}</h2>
-      <p className="script-context">
-        ヒント: {scriptContext}
-      </p>
+      <p className="definition" dangerouslySetInnerHTML={{ __html: "ヒント: " + definition }} />
       <ul className="options-list">
         {options.map((option) => (
           <li key={option} className="option-item">
