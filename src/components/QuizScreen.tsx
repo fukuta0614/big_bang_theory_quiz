@@ -6,6 +6,7 @@ interface QuizScreenProps {
   season: string;
   episode: string;
   onGoHome: () => void;
+  review?: boolean;
 }
 
 interface QuestionData {
@@ -16,24 +17,37 @@ interface QuestionData {
   translation: string;
   options: string[];
   correctAnswer: string;
+  season: string; // Add season
+  episode: string; // Add episode
 }
 
 interface QuizData {
   questions: QuestionData[];
 }
 
-const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) => {
+const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, review }) => {
   const [quizData, setQuizData] = useState<QuizData | null>(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
+  const [userAnswers, setUserAnswers] = useState<string[]>([]);
   const [showResult, setShowResult] = useState(false);
   const [scriptContext, setScriptContext] = useState<string>('');
 
   useEffect(() => {
     const fetchQuizData = async () => {
       try {
-        const response = await fetch(`../../data/season${season}/episode${episode}/quiz.json`);
-        const data: QuizData = await response.json();
+        let data: QuizData;
+        if (review) {
+          const storedQuestions = localStorage.getItem('incorrectQuestions');
+          if (storedQuestions) {
+            data = { questions: JSON.parse(storedQuestions) };
+          } else {
+            data = { questions: [] };
+          }
+        } else {
+          const response = await fetch(`../../data/season${season}/episode${episode}/quiz.json`);
+          data = await response.json();
+        }
         setQuizData(data);
       } catch (error) {
         console.error('Error fetching quiz data:', error);
@@ -41,13 +55,23 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) =>
     };
 
     fetchQuizData();
-  }, [season, episode]);
+  }, [season, episode, review]);
+
+  useEffect(() => {
+    if (quizData) {
+      setUserAnswers(new Array(quizData.questions.length).fill(null));
+    }
+  }, [quizData]);
 
   useEffect(() => {
     const fetchScriptContext = async () => {
-      if (!quizData) return;
+      if (!quizData || !quizData.questions || quizData.questions.length === 0) return; // Add check for empty questions
       const currentQuestion = quizData.questions[currentQuestionIndex];
-      const scriptPath = `../../data/season${season}/episode${episode}/script.txt`;
+      // Use the season/episode from the question data if available (for review mode),
+      // otherwise use the props (for normal mode)
+      const questionSeason = currentQuestion.season || season;
+      const questionEpisode = currentQuestion.episode || episode;
+      const scriptPath = `../../data/season${questionSeason}/episode${questionEpisode}/script.txt`;
 
       try {
         const response = await fetch(scriptPath);
@@ -77,12 +101,23 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) =>
       }
     };
 
-    if (quizData) {
+    if (quizData && quizData.questions && quizData.questions.length > 0) { // Add check for empty questions
       fetchScriptContext();
     }
+    // Add currentQuestion as a dependency to refetch when it changes
   }, [quizData, currentQuestionIndex, season, episode]);
 
-  if (!quizData) {
+  // Add a check for empty questions after loading
+  if (!quizData || !quizData.questions || quizData.questions.length === 0) {
+    // Handle the case where there are no questions (e.g., review mode with no incorrect answers)
+    if (review) {
+      return (
+        <div>
+          <p>復習する問題はありません。</p>
+          <button onClick={onGoHome}>Homeに戻る</button>
+        </div>
+      );
+    }
     return <div>Loading...</div>;
   }
 
@@ -91,6 +126,12 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) =>
   const handleAnswerClick = (answer: string) => {
     setSelectedAnswer(answer);
     setShowResult(true);
+    // Update userAnswers array with the selected answer
+    setUserAnswers(prevAnswers => {
+      const newAnswers = [...prevAnswers];
+      newAnswers[currentQuestionIndex] = answer;
+      return newAnswers;
+    });
   };
 
   const handleNextQuestionClick = () => {
@@ -141,7 +182,37 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome }) =>
       ) : (
         <p className="quiz-finished">クイズは終了しました。</p>
       )}
-      <button onClick={() => onGoHome()}>Homeに戻る</button>
+      <button onClick={() => {
+        if (review) {
+          // Remove correctly answered questions from local storage
+          const storedQuestions = localStorage.getItem('incorrectQuestions');
+          if (storedQuestions) {
+            let questions: QuestionData[] = JSON.parse(storedQuestions);
+            // Filter out correctly answered questions
+            questions = questions.filter((question, index) => {
+              return userAnswers[index] !== question.correctAnswer;
+            });
+            localStorage.setItem('incorrectQuestions', JSON.stringify(questions));
+          }
+        } else {
+          // Save incorrect questions to local storage, including season and episode
+          const incorrectQuestions = quizData ? quizData.questions
+            // Only consider questions that were actually answered AND were incorrect
+            .filter((question, index) => userAnswers[index] !== null && userAnswers[index] !== question.correctAnswer)
+            .map(q => ({ ...q, season, episode })) // Add season/episode to each incorrect question
+            : [];
+          const storedQuestions = localStorage.getItem('incorrectQuestions');
+          const questions: QuestionData[] = storedQuestions ? JSON.parse(storedQuestions) : [];
+          // Add new incorrect questions, avoiding duplicates based on season, episode, and value
+          incorrectQuestions.forEach(newQuestion => {
+            if (!questions.find(q => q.season === newQuestion.season && q.episode === newQuestion.episode && q.value === newQuestion.value)) {
+              questions.push(newQuestion);
+            }
+          });
+          localStorage.setItem('incorrectQuestions', JSON.stringify(questions));
+        }
+        onGoHome();
+      }}>Homeに戻る</button>
     </div>
   );
 }
