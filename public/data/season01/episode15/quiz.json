@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "swallow up",
+      "options": [
+        "飲み込む",
+        "吐き出す",
+        "見上げる",
+        "無視する"
+      ],
+      "correctAnswer": "飲み込む",
+      "explanation": "「swallow up」は、文字通りには「飲み込む」という意味ですが、比喩的には「完全に覆い隠す」「吸収する」「消滅させる」といった意味合いで使われます。物理的なものだけでなく、時間やお金などが何かによって消費される状況も表現できます。"
+    },
+    {
+      "id": 2,
+      "value": "crybabies",
+      "options": [
+        "勇敢な人",
+        "泣き虫",
+        "賢い人",
+        "怠け者"
+      ],
+      "correctAnswer": "泣き虫",
+      "explanation": "「crybaby」は、些細なことで泣いたり不満を言ったりする人を指す軽蔑的な言葉です。特に子供に対して使われることが多いですが、大人に対しても、弱虫や不満ばかり言う人を揶揄する際に用いられます。"
+    },
+    {
+      "id": 3,
+      "value": "no guts, no glory",
+      "options": [
+        "危険を冒さなければ、成功は得られない",
+        "失敗は成功のもと",
+        "急がば回れ",
+        "石橋を叩いて渡る"
+      ],
+      "correctAnswer": "危険を冒さなければ、成功は得られない",
+      "explanation": "「No guts, no glory」は、「危険を冒さなければ、栄光は得られない」という意味の格言です。成功するためには、リスクを恐れずに挑戦することが重要であるという考えを表します。"
+    },
+    {
+      "id": 4,
+      "value": "agoraphobia",
+      "options": [
+        "閉所恐怖症",
+        "広場恐怖症",
+        "高所恐怖症",
+        "先端恐怖症"
+      ],
+      "correctAnswer": "広場恐怖症",
+      "explanation": "「agoraphobia」は、広場恐怖症のことです。特定の場所や状況から逃れることが難しい、または助けが得られないかもしれないという不安や恐怖を感じる精神疾患です。公共交通機関の利用、広い場所、人混みなどが含まれます。"
+    },
+    {
+      "id": 5,
+      "value": "obsessive compulsive disorder",
+      "options": [
+        "統合失調症",
+        "解離性同一性障害",
+        "強迫性障害",
+        "注意欠陥多動性障害"
+      ],
+      "correctAnswer": "強迫性障害",
+      "explanation": "「Obsessive-Compulsive Disorder (OCD)」は、強迫性障害のことです。強迫観念（不要な考えやイメージが繰り返し浮かぶ）と、それによって引き起こされる不安を打ち消すための強迫行為（手洗いや確認など）を特徴とする精神疾患です。"
+    },
+    {
+      "id": 6,
+      "value": "nonchalant",
+      "options": [
+        "無関心な",
+        "熱心な",
+        "友好的な",
+        "敵対的な"
+      ],
+      "correctAnswer": "無関心な",
+      "explanation": "「nonchalant」は、無関心、冷静、平然とした態度を表す形容詞です。特に、実際には内心動揺しているにもかかわらず、表面上は落ち着いている様子を指します。さりげない態度や、物事に動じない様子を演出する際に使われます。"
+    },
+    {
+      "id": 7,
+      "value": "frankly",
+      "options": [
+        "率直に言って",
+        "簡単に言って",
+        "幸運にも",
+        "残念ながら"
+      ],
+      "correctAnswer": "率直に言って",
+      "explanation": "「frankly」は、「率直に言って」「正直に言って」という意味の副詞です。自分の意見や感情を隠さずに、ストレートに伝えたいときに使います。ただし、相手を傷つけたり、不快にさせたりする可能性があるため、注意が必要です。"
+    },
+    {
+      "id": 8,
+      "value": "measurable",
+      "options": [
+        "測定可能な",
+        "記憶に残る",
+        "想像できる",
+        "耐えられない"
+      ],
+      "correctAnswer": "測定可能な",
+      "explanation": "「measurable」は、「測定可能な」「評価できる」という意味の形容詞です。数量的に把握できる性質や、客観的な基準で判断できるものを指します。抽象的な概念や感情に対して、その度合いを測れるかどうかを議論する際にも用いられます。"
+    },
+    {
+      "id": 9,
+      "value": "droll",
+      "options": [
+        "退屈な",
+        "奇妙で面白い",
+        "深刻な",
+        "感動的な"
+      ],
+      "correctAnswer": "奇妙で面白い",
+      "explanation": "「droll」は、「奇妙で面白い」「ひょうきんな」という意味の形容詞です。ユーモラスでありながら、どこか風変わりで、人をくすっと笑わせるようなニュアンスがあります。言葉や行動だけでなく、人の外見や性格に対しても使われます。"
+    },
+    {
+      "id": 10,
+      "value": "estate",
+      "options": [
+        "不動産",
+        "財産",
+        "状態",
+        "地位"
+      ],
+      "correctAnswer": "財産",
+      "explanation": "「estate」は、主に「財産」「遺産」という意味で使用されます。特に、人が亡くなった後に残された財産全体を指すことが多いです。不動産、現金、有価証券、動産など、あらゆる種類の資産が含まれます。"
+    },
+    {
+      "id": 11,
+      "value": "bowel movements",
+      "options": [
+        "腸の動き",
+        "筋肉の痙攣",
+        "精神的な動揺",
+        "心臓の鼓動"
+      ],
+      "correctAnswer": "腸の動き",
+      "explanation": "「bowel movement」は、「排便」を意味する婉曲表現です。医学的な文脈や、排便の頻度や状態について話す際に使われます。日常会話では、もう少し直接的な表現が用いられることもあります。"
+    },
+    {
+      "id": 12,
+      "value": "settled",
+      "options": [
+        "解決した",
+        "興奮した",
+        "混乱した",
+        "拒否された"
+      ],
+      "correctAnswer": "解決した",
+      "explanation": "「settled」は、ここでは「（問題などが）解決した」「決着した」という意味で使用されています。議論や交渉などが終わり、合意に至った状態を表します。また、「落ち着いた」「安定した」という意味もあります。"
+    },
+    {
+      "id": 13,
+      "value": "substrates",
+      "options": [
+        "基板",
+        "添加物",
+        "触媒",
+        "化合物"
+      ],
+      "correctAnswer": "基板",
+      "explanation": "「substrate」は、科学や工学の分野で「基板」という意味で使用されます。電子部品などを製造する際に、その部品を支持する土台となる材料のことです。また、生物学では、酵素が作用する対象となる物質を指すこともあります。"
+    },
+    {
+      "id": 14,
+      "value": "integrated circuits",
+      "options": [
+        "集積回路",
+        "個別部品",
+        "真空管",
+        "抵抗器"
+      ],
+      "correctAnswer": "集積回路",
+      "explanation": "「integrated circuit (IC)」は、「集積回路」のことです。トランジスタ、抵抗、コンデンサなどの電子部品を小型の半導体チップ上に集積したものです。電子機器の小型化、高性能化に大きく貢献しています。"
+    },
+    {
+      "id": 15,
+      "value": "pharmacology",
+      "options": [
+        "薬学",
+        "心理学",
+        "社会学",
+        "生物学"
+      ],
+      "correctAnswer": "薬学",
+      "explanation": "「pharmacology」は、「薬理学」を意味します。薬物の作用、効果、体内動態などを研究する学問分野です。新薬の開発や、既存の薬物の適切な使用方法の確立などを目指します。"
+    },
+    {
+      "id": 16,
+      "value": "bulletin board",
+      "options": [
+        "掲示板",
+        "黒板",
+        "ホワイトボード",
+        "電子掲示板"
+      ],
+      "correctAnswer": "掲示板",
+      "explanation": "「bulletin board」は、「掲示板」のことです。情報を共有するために、紙などを貼り付けて表示する場所です。学校、会社、地域社会など、さまざまな場所で見られます。オンラインの掲示板も存在します。"
+    },
+    {
+      "id": 17,
+      "value": "briefs",
+      "options": [
+        "ブリーフ",
+        "概要",
+        "法律文書",
+        "命令"
+      ],
+      "correctAnswer": "ブリーフ",
+      "explanation": "この文脈では、「briefs」は下着のブリーフのことです。下着のブリーフと、法律用語の「brief（概要、要約）」をかけて、下品なジョークを言っています。"
+    },
+    {
+      "id": 18,
+      "value": "bam",
+      "options": [
+        "突然",
+        "ゆっくり",
+        "静かに",
+        "慎重に"
+      ],
+      "correctAnswer": "突然",
+      "explanation": "「bam」は、何かが突然起こる様子や、強調を表す擬音語です。予期せぬ出来事や、勢いよく何かをする状況を描写する際に用いられます。会話の中で、注目を集めたり、ユーモラスな効果を狙ったりする目的で使用されることもあります。"
+    },
+    {
+      "id": 19,
+      "value": "swell",
+      "options": [
+        "素晴らしい",
+        "悪い",
+        "普通",
+        "退屈"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「swell」は、ここでは「素晴らしい」「申し分ない」という意味で使用されています。古風な言い方で、現代ではあまり一般的ではありませんが、肯定的な感情や評価を表します。特に、相手への賛辞や好意を示す際に用いられます。"
+    },
+    {
+      "id": 20,
+      "value": "destiny",
+      "options": [
+        "運命",
+        "偶然",
+        "努力",
+        "選択"
+      ],
+      "correctAnswer": "運命",
+      "explanation": "「destiny」は、「運命」という意味の名詞です。人の人生や出来事が、あらかじめ定められているという概念を表します。個人の意志や行動を超えた力によって、将来が決定されるという考え方に基づいています。"
+    },
+    {
+      "id": 21,
+      "value": "rush hour",
+      "options": [
+        "ラッシュアワー",
+        "休憩時間",
+        "営業時間",
+        "閑散期"
+      ],
+      "correctAnswer": "ラッシュアワー",
+      "explanation": "「rush hour」は、「ラッシュアワー」「通勤時間帯」という意味です。交通機関が最も混雑する時間帯を指します。特に、朝夕の通勤時間帯によく使われます。交通渋滞や遅延が発生しやすいため、多くの人が避ける時間帯です。"
+    },
+    {
+      "id": 22,
+      "value": "classic",
+      "options": [
+        "典型的な",
+        "新しい",
+        "奇妙な",
+        "退屈な"
+      ],
+      "correctAnswer": "典型的な",
+      "explanation": "「classic」は、ここでは「典型的な」「お決まりの」という意味で使用されています。特定の特徴や行動が、その人物や状況を代表するものであることを表します。また、「古典的な」「不朽の」という意味もあります。"
+    },
+    {
+      "id": 23,
+      "value": "take up on",
+      "options": [
+        "利用する",
+        "無視する",
+        "拒否する",
+        "諦める"
+      ],
+      "correctAnswer": "利用する",
+      "explanation": "「take someone up on something」は、「（申し出や提案）に乗る」「受け入れる」という意味のイディオムです。相手の提案や申し出を承諾し、それを利用することを意味します。"
+    },
+    {
+      "id": 24,
+      "value": "looking for",
+      "options": [
+        "探している",
+        "見つけた",
+        "忘れた",
+        "避けている"
+      ],
+      "correctAnswer": "探している",
+      "explanation": "「look for」は、「探している」という意味の句動詞です。何か特定の物や人、情報を探す際に使われます。物理的なものだけでなく、抽象的な概念や解決策を探す場合にも用いられます。"
+    },
+    {
+      "id": 25,
+      "value": "send home",
+      "options": [
+        "帰宅させる",
+        "招待する",
+        "匿う",
+        "引き留める"
+      ],
+      "correctAnswer": "帰宅させる",
+      "explanation": "「send home」は、「帰宅させる」「家に帰す」という意味の句動詞です。誰かを自宅に帰らせる行為を指します。病気や怪我の場合や、仕事や学校が終わった場合など、さまざまな状況で使用されます。"
+    },
+    {
+      "id": 26,
+      "value": "insistence on",
+      "options": [
+        "主張",
+        "拒否",
+        "無関心",
+        "依存"
+      ],
+      "correctAnswer": "主張",
+      "explanation": "「insistence on」は、「～に対する主張、要求」という意味です。ここでは、妹が自分の部屋に入ってくることを主張したことを指しています。例文：Her insistence on having her own way caused problems. (彼女が自分のやり方を主張したことが問題を引き起こした。)"
+    },
+    {
+      "id": 27,
+      "value": "next thing you know",
+      "options": [
+        "次に知っておくべきこと",
+        "気が付いたら",
+        "当然の結果",
+        "予期せぬ幸運"
+      ],
+      "correctAnswer": "気が付いたら",
+      "explanation": "「next thing you know」は、「気が付いたら」「次に起こったことは」という意味で、予期せぬ出来事が起こったことを表す際に使われます。例文：I was just standing there, and the next thing you know, a car crashed into the building. (私はただそこに立っていたら、気が付いたら車が建物に突っ込んだ。)"
+    },
+    {
+      "id": 28,
+      "value": "rendered you quizzical",
+      "options": [
+        "あなたを批判的にした",
+        "あなたを混乱させた",
+        "あなたを冷静にした",
+        "あなたを喜ばせた"
+      ],
+      "correctAnswer": "あなたを混乱させた",
+      "explanation": "「render」は「～の状態にする」という意味で、「quizzical」は「困惑した、不思議そうな」という意味です。したがって、「rendered you quizzical」は「あなたを困惑させた」という意味になります。例文：The strange noise rendered the dog quizzical. (その奇妙な音は犬を困惑させた。)"
+    },
+    {
+      "id": 29,
+      "value": "polish up",
+      "options": [
+        "磨きをかける",
+        "隠す",
+        "無視する",
+        "捨てる"
+      ],
+      "correctAnswer": "磨きをかける",
+      "explanation": "「polish up」は、「～を磨く、向上させる」という意味です。ここでは、自分の趣味の道具を磨くという比喩的な表現として使われています。例文：I need to polish up my resume before applying for the job. (仕事に応募する前に履歴書を磨く必要がある。)"
+    },
+    {
+      "id": 30,
+      "value": "crossbow hunting",
+      "options": [
+        "クロスボウでの狩猟",
+        "クロスボウの販売",
+        "クロスボウの修理",
+        "クロスボウのコレクション"
+      ],
+      "correctAnswer": "クロスボウでの狩猟",
+      "explanation": "「crossbow hunting」は、「クロスボウを使った狩猟」という意味です。例文: Crossbow hunting is regulated in many areas to ensure fair chase and conservation. （クロスボウでの狩猟は、公平な追跡と保護を確実にするために多くの地域で規制されています。）"
+    },
+    {
+      "id": 31,
+      "value": "no more alike than",
+      "options": [
+        "～よりも似ている",
+        "～と全く同じ",
+        "～よりは似ていない",
+        "～と非常によく似ている"
+      ],
+      "correctAnswer": "～よりは似ていない",
+      "explanation": "「no more alike than」は、「～と…が似ていないのと同様に似ていない」という意味で、2つのものが全く似ていないことを強調する際に使われます。例文：These two paintings are no more alike than chalk and cheese. (これらの2つの絵は月とすっぽんほど似ていない。)"
+    },
+    {
+      "id": 32,
+      "value": "pathological shyness",
+      "options": [
+        "病的な恥ずかしさ",
+        "健康的な恥ずかしさ",
+        "一時的な恥ずかしさ",
+        "社会的な恥ずかしさ"
+      ],
+      "correctAnswer": "病的な恥ずかしさ",
+      "explanation": "「pathological shyness」は、「病的な恥ずかしさ、極度の内気」という意味です。社会不安障害など、医学的な治療が必要なレベルの恥ずかしさを指します。例文：His pathological shyness prevented him from making friends. (彼の病的な恥ずかしさは、彼が友達を作るのを妨げた。)"
+    },
+    {
+      "id": 33,
+      "value": "side effects",
+      "options": [
+        "副作用",
+        "良い効果",
+        "主な効果",
+        "治療効果"
+      ],
+      "correctAnswer": "副作用",
+      "explanation": "「side effects」は、「副作用」という意味です。薬や治療によって引き起こされる、意図しない影響を指します。例文：One of the side effects of this medication is drowsiness. (この薬の副作用の一つは眠気です。)"
+    },
+    {
+      "id": 34,
+      "value": "exotic subcontinent",
+      "options": [
+        "未知の亜大陸",
+        "エキゾチックな亜大陸",
+        "貧しい亜大陸",
+        "近代的な亜大陸"
+      ],
+      "correctAnswer": "エキゾチックな亜大陸",
+      "explanation": "「exotic subcontinent」は、「エキゾチックな亜大陸」という意味です。ここでは、インド亜大陸を指し、異国情緒あふれる場所として表現されています。例文：Many travelers are drawn to the exotic subcontinent of India for its rich culture and history. (多くの旅行者は、その豊かな文化と歴史を求めて、エキゾチックなインド亜大陸に惹かれています。)"
+    },
+    {
+      "id": 35,
+      "value": "ride a hog",
+      "options": [
+        "豚に乗る",
+        "高級車に乗る",
+        "バイクに乗る",
+        "自転車に乗る"
+      ],
+      "correctAnswer": "バイクに乗る",
+      "explanation": "「hog」は大型バイク、特にハーレーダビッドソンを指すスラングです。「ride a hog」は「大型バイクに乗る」という意味になります。例文：He loves to ride his hog on the open road. (彼は広い道で大型バイクに乗るのが大好きです。)"
+    },
+    {
+      "id": 36,
+      "value": "two cylinder scooter",
+      "options": [
+        "二気筒スクーター",
+        "高級スクーター",
+        "最新スクーター",
+        "改造スクーター"
+      ],
+      "correctAnswer": "二気筒スクーター",
+      "explanation": "「two cylinder scooter」は、「二気筒スクーター」という意味です。エンジンの種類を表しています。例文：A two-cylinder scooter is less powerful than a four-cylinder motorcycle. (二気筒スクーターは四気筒バイクよりも力が弱い。)"
+    },
+    {
+      "id": 37,
+      "value": "wonder who wrote the book of love",
+      "options": [
+        "愛の本を書いた人が誰なのか知りたい",
+        "愛の本の内容を理解したい",
+        "愛の本を書きたい",
+        "愛の本を読むのが好きだ"
+      ],
+      "correctAnswer": "愛の本を書いた人が誰なのか知りたい",
+      "explanation": "これは歌の歌詞の一部を引用したもので、「愛の本を書いた人が誰なのか知りたい」という意味合いです。Kama Sutraとの関連で、ユーモラスに表現されています。例文：The old song makes you wonder who wrote the book of love. (その古い歌は、誰が愛の本を書いたのかを知りたいと思わせる。)"
+    },
+    {
+      "id": 38,
+      "value": "staring",
+      "options": [
+        "凝視する",
+        "微笑む",
+        "話しかける",
+        "無視する"
+      ],
+      "correctAnswer": "凝視する",
+      "explanation": "「staring」は、「じっと見つめる、凝視する」という意味です。興味や関心を持って見ている様子を表します。例文：It's rude to stare at people. (人をじろじろ見るのは失礼だ。)"
+    },
+    {
+      "id": 39,
+      "value": "gherkins",
+      "options": [
+        "キュウリのピクルス",
+        "オニオンリング",
+        "チョコレート",
+        "ポテトチップス"
+      ],
+      "correctAnswer": "キュウリのピクルス",
+      "explanation": "「gherkins」は、「小ぶりのキュウリのピクルス」という意味です。軽食やおつまみとして食べられます。例文：I love gherkins with cheese. (私はチーズと一緒にガーキンを食べるのが好きだ。)"
+    },
+    {
+      "id": 40,
+      "value": "onion dip",
+      "options": [
+        "オニオンディップ",
+        "チョコレートディップ",
+        "サルサディップ",
+        "チーズディップ"
+      ],
+      "correctAnswer": "オニオンディップ",
+      "explanation": "「onion dip」は、「オニオンディップ」という意味です。スナックや野菜などにつけて食べるソースの一種です。例文：Onion dip is a popular party snack. (オニオンディップは人気のあるパーティーのスナックだ。)"
+    },
+    {
+      "id": 41,
+      "value": "You're welcome",
+      "options": [
+        "どういたしまして",
+        "おはようございます",
+        "さようなら",
+        "おめでとう"
+      ],
+      "correctAnswer": "どういたしまして",
+      "explanation": "「You're welcome」は、「どういたしまして」という意味です。感謝の言葉に対する返答として使われます。例文：\"Thank you for your help.\" \"You're welcome.\"(「助けてくれてありがとう。」「どういたしまして。」)"
+    },
+    {
+      "id": 42,
+      "value": "back off",
+      "options": [
+        "後退する",
+        "支援する",
+        "攻撃する",
+        "無視する"
+      ],
+      "correctAnswer": "後退する",
+      "explanation": "「back off」は、「手を引く、邪魔しない、干渉しない」という意味です。ここでは、女性に対するアプローチを控えるように促しています。例文：The police told the protesters to back off. (警察は抗議者たちに後退するように言った。)"
+    },
+    {
+      "id": 43,
+      "value": "How do I have Penny?",
+      "options": [
+        "どうすればペニーを手に入れられるのか",
+        "なぜ私がペニーを持っているのか",
+        "どうやってペニーと知り合ったのか",
+        "ペニーとどういう関係なのか"
+      ],
+      "correctAnswer": "ペニーとどういう関係なのか",
+      "explanation": "これは皮肉を込めた表現で、「なぜ自分がペニーと付き合っている（または所有している）と言えるのか？」という意味です。実際には、ペニーと特別な関係ではないことを強調しています。例文：I have no idea how people think I have her."
+    },
+    {
+      "id": 44,
+      "value": "Hell, no!",
+      "options": [
+        "絶対にいやだ",
+        "もちろん",
+        "多分ね",
+        "どうでもいい"
+      ],
+      "correctAnswer": "絶対にいやだ",
+      "explanation": "「Hell, no!」は、「絶対にいやだ！」「とんでもない！」という意味の強い否定を表す口語表現です。例文：\"Are you going to lend him money?\" \"Hell, no!\" (\"彼にお金を貸すつもり？\" \"絶対にいやだ！\")"
+    },
+    {
+      "id": 45,
+      "value": "interject",
+      "options": [
+        "挿入する",
+        "削除する",
+        "無視する",
+        "強調する"
+      ],
+      "correctAnswer": "挿入する",
+      "explanation": "「interject」は、「口を挟む、割り込む」という意味です。会話や議論に突然参加する際に使われます。例文：She interjected a comment into the conversation. (彼女は会話にコメントを挟んだ。)"
+    },
+    {
+      "id": 46,
+      "value": "okay with",
+      "options": [
+        "問題ない",
+        "反対する",
+        "興味がない",
+        "賛成する"
+      ],
+      "correctAnswer": "問題ない",
+      "explanation": "「okay with」は、「～に同意する、～を気にしない」という意味です。提案や計画に対して、承諾や容認の意を示す際に使われます。例文：Are you okay with eating Italian tonight? (今夜イタリア料理を食べるのは大丈夫？)"
+    },
+    {
+      "id": 47,
+      "value": "cheeseless",
+      "options": [
+        "チーズなし",
+        "チーズ味",
+        "チーズたっぷり",
+        "チーズ風味"
+      ],
+      "correctAnswer": "チーズなし",
+      "explanation": "「cheeseless」は、「チーズなしの」という意味です。料理や食品からチーズを取り除いた状態を表します。例文：I'd like a cheeseless pizza, please. (チーズなしのピザをお願いします。)"
+    },
+    {
+      "id": 48,
+      "value": "Lactose intolerance",
+      "options": [
+        "乳糖不耐症",
+        "牛乳アレルギー",
+        "チーズ中毒",
+        "ヨーグルト好き"
+      ],
+      "correctAnswer": "乳糖不耐症",
+      "explanation": "「Lactose intolerance」は、「乳糖不耐症」という意味です。乳製品に含まれる乳糖を消化できない体質を指します。例文：People with lactose intolerance often experience bloating and discomfort after consuming dairy products. (乳糖不耐症の人は、乳製品を摂取した後、お腹が張ったり不快感を感じたりすることが多い。)"
+    },
+    {
+      "id": 49,
+      "value": "fancy",
+      "options": [
+        "高級な",
+        "普通の",
+        "安い",
+        "伝統的な"
+      ],
+      "correctAnswer": "高級な",
+      "explanation": "ここでは皮肉的に使われており、実際には「高級」ではないことを示唆しています。例文：A fancy restaurant."
+    },
+    {
+      "id": 50,
+      "value": "foreskin",
+      "options": [
+        "包皮",
+        "皮膚",
+        "筋肉",
+        "骨"
+      ],
+      "correctAnswer": "包皮",
+      "explanation": "「foreskin」は、「包皮」という意味です。男性器の一部を指す医学用語です。ここでは、割礼を受けているかどうかという話題で使われています。例文：Circumcision involves the removal of the foreskin. (割礼は包皮の除去を伴う。)"
+    },
+    {
+      "id": 51,
+      "value": "deems",
+      "options": [
+        "考慮する",
+        "見なす",
+        "無視する",
+        "拒否する"
+      ],
+      "correctAnswer": "見なす",
+      "explanation": "「deem」は、～と見なす、判断するという意味です。ある特定の視点や基準に基づいて評価する際に使われます。フォーマルな文脈でよく用いられます。\n\n例：The committee deemed the proposal unacceptable. (委員会はその提案を受け入れられないと判断した。)"
+    },
+    {
+      "id": 52,
+      "value": "noteworthy",
+      "options": [
+        "注目に値する",
+        "取るに足らない",
+        "秘密の",
+        "ありふれた"
+      ],
+      "correctAnswer": "注目に値する",
+      "explanation": "「noteworthy」は、注目すべき、特筆に値するという意味です。重要な点や興味深い事柄を指摘する際に使用されます。\n\n例：A noteworthy achievement in the field of medicine. (医学分野における注目すべき業績。)"
+    },
+    {
+      "id": 53,
+      "value": "rhetorical",
+      "options": [
+        "修辞的な",
+        "直接的な",
+        "非論理的な",
+        "無関係な"
+      ],
+      "correctAnswer": "修辞的な",
+      "explanation": "「rhetorical」は、修辞的な、言葉巧みなという意味です。効果的なコミュニケーションや説得を目的とした表現方法を指します。\n\n例：A rhetorical question is not meant to be answered. (修辞疑問は答えを求めるものではない。)"
+    },
+    {
+      "id": 54,
+      "value": "detour",
+      "options": [
+        "回り道",
+        "近道",
+        "直進",
+        "停止"
+      ],
+      "correctAnswer": "回り道",
+      "explanation": "「detour」は、回り道、迂回という意味です。文字通り道が工事などで通行できない場合の迂回だけでなく、話が本題からそれる場合にも使われます。\n\n例：Let's take a detour to avoid the traffic. (渋滞を避けるために迂回しよう。)"
+    },
+    {
+      "id": 55,
+      "value": "thesis",
+      "options": [
+        "論文",
+        "要点",
+        "序論",
+        "結論"
+      ],
+      "correctAnswer": "要点",
+      "explanation": "「thesis」は、論文、主張、テーマという意味です。ここでは議論の中心となるテーマや主張を指します。\n\n例：The main thesis of his argument was that... (彼の議論の主なテーマは～ということだった。)"
+    },
+    {
+      "id": 56,
+      "value": "uterus",
+      "options": [
+        "子宮",
+        "胃",
+        "心臓",
+        "肺"
+      ],
+      "correctAnswer": "子宮",
+      "explanation": "「uterus」は、子宮という意味です。生物学的な文脈で使われる単語です。"
+    },
+    {
+      "id": 57,
+      "value": "suitable",
+      "options": [
+        "適切な",
+        "不適切な",
+        "不要な",
+        "高価な"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "「suitable」は、適切な、ふさわしいという意味です。特定の目的や状況に合致していることを指します。\n\n例：This film is not suitable for children. (この映画は子供には適していません。)"
+    },
+    {
+      "id": 58,
+      "value": "mate",
+      "options": [
+        "配偶者",
+        "友人",
+        "敵",
+        "助手"
+      ],
+      "correctAnswer": "配偶者",
+      "explanation": "「mate」は、配偶者、つがいという意味です。動物や人間に関わらず、繁殖のために結びつく相手を指します。\n\n例：The birds are looking for a mate. (鳥たちはつがいを探している。)"
+    },
+    {
+      "id": 59,
+      "value": "remote",
+      "options": [
+        "わずかな",
+        "近い",
+        "重要な",
+        "一般的な"
+      ],
+      "correctAnswer": "わずかな",
+      "explanation": "「remote」は、遠い、隔たったという意味の他に、可能性が低い、わずかなという意味もあります。\n\n例：There's a remote chance of success. (成功の可能性は低い。)"
+    },
+    {
+      "id": 60,
+      "value": "resting in her loins",
+      "options": [
+        "腰に負担がかかる",
+        "腰に宿る",
+        "腰を休める",
+        "腰を痛める"
+      ],
+      "correctAnswer": "腰に宿る",
+      "explanation": "「loins」は腰、生殖器を指す古風な表現で、ここでは「子孫を宿す」という意味合いです。やや文学的な表現です。"
+    },
+    {
+      "id": 61,
+      "value": "posterity",
+      "options": [
+        "子孫",
+        "祖先",
+        "現代",
+        "過去"
+      ],
+      "correctAnswer": "子孫",
+      "explanation": "「posterity」は、子孫、後世という意味です。未来の世代を指すフォーマルな言葉です。\n\n例：We must preserve our planet for posterity. (我々は子孫のために地球を守らなければならない。)"
+    },
+    {
+      "id": 62,
+      "value": "genetic integrity",
+      "options": [
+        "遺伝的完全性",
+        "遺伝的多様性",
+        "遺伝的欠陥",
+        "遺伝的変化"
+      ],
+      "correctAnswer": "遺伝的完全性",
+      "explanation": "「genetic integrity」は、遺伝的完全性という意味です。遺伝情報が損なわれず、本来の状態を保っていることを指します。"
+    },
+    {
+      "id": 63,
+      "value": "offspring",
+      "options": [
+        "子孫",
+        "親",
+        "兄弟",
+        "友人"
+      ],
+      "correctAnswer": "子孫",
+      "explanation": "「offspring」は、子孫、子供という意味です。生物学的な文脈でよく使われます。\n\n例：Their offspring inherited their intelligence. (彼らの子孫は彼らの知性を引き継いだ。)"
+    },
+    {
+      "id": 64,
+      "value": "fallopian tubes",
+      "options": [
+        "卵管",
+        "血管",
+        "神経",
+        "筋肉"
+      ],
+      "correctAnswer": "卵管",
+      "explanation": "「fallopian tubes」は、卵管という意味です。医学的な文脈で使われる単語です。"
+    },
+    {
+      "id": 65,
+      "value": "juvenile",
+      "options": [
+        "未熟な",
+        "成熟した",
+        "知的な",
+        "洗練された"
+      ],
+      "correctAnswer": "未熟な",
+      "explanation": "「juvenile」は、未熟な、幼稚なという意味です。子供っぽい行動や考え方を指す際に使われます。\n\n例：Juvenile delinquency is a serious problem. (少年非行は深刻な問題だ。)"
+    },
+    {
+      "id": 66,
+      "value": "squabbling",
+      "options": [
+        "口論",
+        "合意",
+        "協力",
+        "沈黙"
+      ],
+      "correctAnswer": "口論",
+      "explanation": "「squabbling」は、口論、言い争いという意味です。些細なことで騒々しく言い争う様子を指します。\n\n例：The siblings were always squabbling over toys. (兄弟姉妹はいつもおもちゃのことで口論していた。)"
+    },
+    {
+      "id": 67,
+      "value": "flatulent",
+      "options": [
+        "おならが出やすい",
+        "食欲旺盛な",
+        "健康的な",
+        "無口な"
+      ],
+      "correctAnswer": "おならが出やすい",
+      "explanation": "「flatulent」は、おならが出やすいという意味です。医学的な文脈で使われることもあります。"
+    },
+    {
+      "id": 68,
+      "value": "medication",
+      "options": [
+        "薬",
+        "食事",
+        "運動",
+        "休息"
+      ],
+      "correctAnswer": "薬",
+      "explanation": "「medication」は、薬、薬剤という意味です。治療のために使用される物質を指します。\n\n例：He is on medication for his high blood pressure. (彼は高血圧の薬を服用している。)"
+    },
+    {
+      "id": 69,
+      "value": "mocha",
+      "options": [
+        "混血",
+        "純血",
+        "貧困",
+        "富裕"
+      ],
+      "correctAnswer": "混血",
+      "explanation": "ここでは人種的な多様性を指す比喩として使われています。コーヒーのモカに由来し、異なるものが混ざり合っていることを意味します。"
+    },
+    {
+      "id": 70,
+      "value": "latte",
+      "options": [
+        "ラテ",
+        "エスプレッソ",
+        "カプチーノ",
+        "コーヒー豆"
+      ],
+      "correctAnswer": "ラテ",
+      "explanation": "ここでは家族構成をコーヒーに例えて表現しています。ラテはミルクとコーヒーが混ざった飲み物であることから、人種的な多様性を加えることを提案しています。"
+    },
+    {
+      "id": 71,
+      "value": "pharmaceuticals",
+      "options": [
+        "医薬品",
+        "食品",
+        "化粧品",
+        "農薬"
+      ],
+      "correctAnswer": "医薬品",
+      "explanation": "「pharmaceuticals」は、医薬品、製薬という意味です。病気の治療や予防に使用される物質を指します。\n\n例：The pharmaceutical industry is highly regulated. (製薬業界は厳しく規制されている。)"
+    },
+    {
+      "id": 72,
+      "value": "pimping me out",
+      "options": [
+        "私を売る",
+        "私を助ける",
+        "私を隠す",
+        "私を励ます"
+      ],
+      "correctAnswer": "私を売る",
+      "explanation": "「pimp out」は、売春斡旋するという意味ですが、ここでは比喩的に、自分を商品のように扱って誰かと関係を持たせようとしている、という意味で使われています。"
+    },
+    {
+      "id": 73,
+      "value": "mediocre",
+      "options": [
+        "平凡な",
+        "優れた",
+        "創造的な",
+        "魅力的な"
+      ],
+      "correctAnswer": "平凡な",
+      "explanation": "「mediocre」は、平凡な、可もなく不可もなくという意味です。平均的な水準であることを指し、やや否定的なニュアンスがあります。\n\n例：The food was mediocre. (その料理は平凡だった。)"
+    },
+    {
+      "id": 74,
+      "value": "prone to",
+      "options": [
+        "～しやすい",
+        "～を避ける",
+        "～に強い",
+        "～に反対する"
+      ],
+      "correctAnswer": "～しやすい",
+      "explanation": "「prone to」は、～しやすい、～の傾向があるという意味です。好ましくない事柄について使われることが多いです。\n\n例：He is prone to getting colds in the winter. (彼は冬に風邪をひきやすい。)"
+    },
+    {
+      "id": 75,
+      "value": "coitus",
+      "options": [
+        "性交",
+        "睡眠",
+        "食事",
+        "運動"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交という意味です。医学的、生物学的な文脈で使われるフォーマルな言葉です。"
+    },
+    {
+      "id": 76,
+      "value": "limping",
+      "options": [
+        "急いで",
+        "楽しんで",
+        "足を引きずって",
+        "踊って"
+      ],
+      "correctAnswer": "足を引きずって",
+      "explanation": "「limping」は、怪我や病気のために足を引きずって歩く様子を表します。一時的な怪我から慢性的な疾患まで、様々な原因で使用されます。例：He was limping after he twisted his ankle. (彼は足首を捻挫した後、足を引きずっていた。)"
+    },
+    {
+      "id": 77,
+      "value": "hitting on",
+      "options": [
+        "無視する",
+        "からかう",
+        "口論する",
+        "ナンパする"
+      ],
+      "correctAnswer": "ナンパする",
+      "explanation": "「hit on」は、誰かに恋愛感情を持って近づき、気を引こうとすることを意味します。下品なニュアンスを含むこともあります。例：He was hitting on her at the bar. (彼はバーで彼女をナンパしていた。)"
+    },
+    {
+      "id": 78,
+      "value": "deluded",
+      "options": [
+        "賢い",
+        "怒っている",
+        "混乱した",
+        "妄想を抱いた"
+      ],
+      "correctAnswer": "妄想を抱いた",
+      "explanation": "「deluded」は、真実ではないことを信じている、または誤った考えに囚われている状態を表します。自己欺瞞や現実逃避のニュアンスが含まれます。例：He is deluded if he thinks she's interested in him. (彼女が彼に興味を持っていると思っているなら、彼は妄想を抱いている。)"
+    },
+    {
+      "id": 79,
+      "value": "bastard",
+      "options": [
+        "友人",
+        "正直者",
+        "困った人",
+        "嫌なやつ"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「bastard」は、不快な、または憎むべき人物を指す言葉です。非常に強い侮辱の言葉であり、使用には注意が必要です。文字通りの意味の「私生児」の意味合いは薄れています。例：He's such a bastard for cheating on her. (彼は彼女を裏切るなんて、本当にひどい奴だ。)"
+    },
+    {
+      "id": 80,
+      "value": "natural selection at work",
+      "options": [
+        "自然淘汰の終わり",
+        "仕事での自然な選択",
+        "自然淘汰が機能している",
+        "自然環境での選択"
+      ],
+      "correctAnswer": "自然淘汰が機能している",
+      "explanation": "「natural selection at work」は、ダーウィンの進化論における自然淘汰の概念を指し、ここでは比喩的に、競争に負ける者が淘汰される状況を表しています。例：In the corporate world, it's natural selection at work; only the strong survive. (企業の世界では、自然淘汰が機能しており、強い者だけが生き残る。)"
+    },
+    {
+      "id": 81,
+      "value": "catching up",
+      "options": [
+        "風邪をひく",
+        "捕まえる",
+        "近況報告",
+        "休憩する"
+      ],
+      "correctAnswer": "近況報告",
+      "explanation": "「catch up」は、久しぶりに会う人に近況を尋ねたり、情報交換をしたりすることを意味します。例：I'm just catching up with old friends. (旧友たちと近況報告をしているところだ。)"
+    },
+    {
+      "id": 82,
+      "value": "anticipate",
+      "options": [
+        "期待する",
+        "反対する",
+        "急ぐ",
+        "忘れる"
+      ],
+      "correctAnswer": "期待する",
+      "explanation": "「anticipate」は、何か起こるであろうことを予想したり、予期したりすることを意味します。良いことにも悪いことにも使えます。例：We anticipate a large crowd at the event. (イベントには多くの人が集まるだろうと予想している。)"
+    },
+    {
+      "id": 83,
+      "value": "in for a treat",
+      "options": [
+        "治療を受ける",
+        "特別な扱いを受ける",
+        "騙される",
+        "困難に直面する"
+      ],
+      "correctAnswer": "特別な扱いを受ける",
+      "explanation": "「in for a treat」は、これから何か素晴らしいこと、楽しいことが起こることを期待させる表現です。例：If you like chocolate, you're in for a treat. (チョコレートが好きなら、きっと気に入るよ。)"
+    },
+    {
+      "id": 84,
+      "value": "behold",
+      "options": [
+        "隠す",
+        "疑う",
+        "見る",
+        "信じる"
+      ],
+      "correctAnswer": "見る",
+      "explanation": "「behold」は、注意を引くために使われる古風な表現で、「見よ」という意味です。驚きや感動を伴うことが多いです。例：Behold, the majestic mountains! (見よ、雄大な山々を！)"
+    },
+    {
+      "id": 85,
+      "value": "apprec...",
+      "options": [
+        "非難する",
+        "感謝する",
+        "評価する",
+        "拒否する"
+      ],
+      "correctAnswer": "感謝する",
+      "explanation": "「appreciate」は、感謝の気持ちを表す言葉です。Rajは言葉に詰まってしまっていますが、感謝の意を伝えようとしています。例：I appreciate your help. (あなたの助けに感謝します。)"
+    },
+    {
+      "id": 86,
+      "value": "wearing off",
+      "options": [
+        "着古す",
+        "始まる",
+        "薄れる",
+        "強くなる"
+      ],
+      "correctAnswer": "薄れる",
+      "explanation": "「wear off」は、薬や効果、感情などが徐々に弱まる、または消えていくことを意味します。例：The painkiller is starting to wear off. (鎮痛剤の効果が薄れてきた。)"
+    },
+    {
+      "id": 87,
+      "value": "put him down",
+      "options": [
+        "褒める",
+        "元気づける",
+        "落ち着かせる",
+        "安楽死させる"
+      ],
+      "correctAnswer": "安楽死させる",
+      "explanation": "動物に対して「put down」を使うと、苦痛を和らげるために安楽死させるという意味になります。例：We had to put our old dog down. (私たちは年老いた犬を安楽死させなければならなかった。)"
+    },
+    {
+      "id": 88,
+      "value": "pass along",
+      "options": [
+        "無視する",
+        "伝える",
+        "通過する",
+        "忘れる"
+      ],
+      "correctAnswer": "伝える",
+      "explanation": "「pass along」は、情報やメッセージなどを人に伝えることを意味します。例：Please pass along my thanks to your mother. (お母さんに感謝の気持ちを伝えてください。)"
+    },
+    {
+      "id": 89,
+      "value": "refocused",
+      "options": [
+        "集中",
+        "再集中",
+        "混乱",
+        "忘れ"
+      ],
+      "correctAnswer": "再集中",
+      "explanation": "refocusは、注意や努力の焦点を変更または調整することを意味します。 新しい目標や優先順位に対応するために行われます。例：After the project failed, the team refocused their efforts on a new strategy.(プロジェクトが失敗した後、チームは新しい戦略に努力を再集中しました。)"
+    },
+    {
+      "id": 90,
+      "value": "other than",
+      "options": [
+        "同様に",
+        "代わりに",
+        "〜を除いて",
+        "〜に加えて"
+      ],
+      "correctAnswer": "〜を除いて",
+      "explanation": "「other than」は、「～以外に」という意味で、例外を示す際に使用します。例：Other than that one mistake, the presentation was perfect. (あの1つのミスを除けば、プレゼンテーションは完璧だった。)"
+    },
+    {
+      "id": 91,
+      "value": "half heartedly",
+      "options": [
+        "完全に",
+        "熱心に",
+        "不完全に",
+        "冷静に"
+      ],
+      "correctAnswer": "不完全に",
+      "explanation": "「half-heartedly」は、熱意や関心がない状態で何かを行うことを意味します。中途半端な気持ちで行う様子を表します。例：He agreed to help, but only half-heartedly. (彼は手伝うことに同意したが、乗り気ではなかった。)"
+    },
+    {
+      "id": 92,
+      "value": "bragging",
+      "options": [
+        "謝罪",
+        "秘密",
+        "自慢",
+        "質問"
+      ],
+      "correctAnswer": "自慢",
+      "explanation": "「bragging」は、自分の能力や所有物などを大げさに話して自慢することを意味します。しばしば不快感を与える行為です。例：He's always bragging about his new car. (彼はいつも自分の新しい車について自慢している。)"
+    },
+    {
+      "id": 93,
+      "value": "toll taker",
+      "options": [
+        "税金徴収人",
+        "料金所の作業員",
+        "物語の語り手",
+        "自由を求める人"
+      ],
+      "correctAnswer": "料金所の作業員",
+      "explanation": "toll takerは、道路、橋、トンネルなどの通行料金を徴収する人を指します。これは、Sheldonが自分の職業を軽く見られていると感じていることを示すジョークです。例：The toll taker smiled as I handed him the money.(私が料金を渡すと、料金所の作業員は笑いました。)"
+    },
+    {
+      "id": 94,
+      "value": "settle this",
+      "options": [
+        "これを解決する",
+        "これを開始する",
+        "これを無視する",
+        "これを隠す"
+      ],
+      "correctAnswer": "これを解決する",
+      "explanation": "「settle this」は、問題や紛争を解決するという意味です。話し合いや交渉を通じて合意に達することを目指します。例：We need to settle this argument once and for all. (私たちはこの議論をきっぱりと解決する必要がある。)"
+    },
+    {
+      "id": 95,
+      "value": "apparently",
+      "options": [
+        "明らかに",
+        "秘密に",
+        "おそらく",
+        "確かに"
+      ],
+      "correctAnswer": "明らかに",
+      "explanation": "「apparently」は、聞いた情報や見た状況から判断して、どうやら～らしいという意味を表します。確信がない場合に用いられます。例：Apparently, he's not coming to the party. (どうやら彼はパーティーに来ないらしい。)"
+    },
+    {
+      "id": 96,
+      "value": "the honourable way",
+      "options": [
+        "名誉ある方法",
+        "秘密の方法",
+        "簡単な方法",
+        "不正な方法"
+      ],
+      "correctAnswer": "名誉ある方法",
+      "explanation": "「the honourable way」は、正当で公平な方法、道徳的に正しい方法という意味です。尊敬されるべき行動や態度を指します。例：Let's resolve this dispute in the honourable way. (この紛争を名誉ある方法で解決しましょう。)"
+    },
+    {
+      "id": 97,
+      "value": "I weep for humanity",
+      "options": [
+        "人類に乾杯",
+        "人類を誇りに思う",
+        "人類を軽蔑する",
+        "人類を悲しむ"
+      ],
+      "correctAnswer": "人類を悲しむ",
+      "explanation": "「I weep for humanity」は、人類の愚かさや堕落を嘆き悲しむという意味です。しばしば皮肉を込めて使われます。例：When I see people littering, I weep for humanity. (人々がゴミをポイ捨てするのを見ると、人類を悲しむ。)"
+    },
+    {
+      "id": 98,
+      "value": "sweet",
+      "options": [
+        "苦い",
+        "不快",
+        "甘い",
+        "酸っぱい"
+      ],
+      "correctAnswer": "甘い",
+      "explanation": "「sweet」は、ここでは「親切な」「優しい」という意味で、相手の申し出に対する感謝の気持ちを表す際に使われます。例：That's so sweet of you to offer your help. (手伝ってくれるなんて、あなたはとても親切だ。)"
+    },
+    {
+      "id": 99,
+      "value": "descending",
+      "options": [
+        "上昇する",
+        "落下する",
+        "踊る",
+        "待機"
+      ],
+      "correctAnswer": "落下する",
+      "explanation": "descendingは下降または低下することを意味します。 高い場所から低い場所に移動する動作を指します。例：The plane was descending for landing. (飛行機は着陸のために降下していました。)"
+    },
+    {
+      "id": 100,
+      "value": "Theoretical physicist",
+      "options": [
+        "宇宙飛行士",
+        "ロケット科学者",
+        "理論物理学者",
+        "天文学者"
+      ],
+      "correctAnswer": "理論物理学者",
+      "explanation": "理論物理学者は、数学的モデルと理論を使用して宇宙の法則を研究する科学者です。実験物理学者とは異なり、彼らは実験を行いません。例：Albert Einstein was a famous theoretical physicist.(アルバート・アインシュタインは有名な理論物理学者でした。)"
+    }
+  ]
+}

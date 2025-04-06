@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "What the heck was all that about?",
+      "options": [
+        "それは一体何だったんだ？",
+        "それはどうでもいいことだ",
+        "それは素晴らしいことだ",
+        "それはどういう意味ですか？"
+      ],
+      "correctAnswer": "それは一体何だったんだ？",
+      "explanation": "「What the heck...?」は、「一体全体...?」という軽い驚きや不満を表す口語的な表現です。より強い表現である「What the hell...?」を和らげた言い方です。ここでは、長い時間をかけてやってきたカタツムリが、待ち続けた相手に不満をぶつけるというジョークのオチとして使われています。"
+    },
+    {
+      "id": 2,
+      "value": "second base",
+      "options": [
+        "二塁",
+        "軽い性的接触",
+        "食事",
+        "映画鑑賞"
+      ],
+      "correctAnswer": "軽い性的接触",
+      "explanation": "野球の塁を性的な進展の段階に例えた表現です。second baseはキスや軽い性的接触を意味します。類似の表現として、first base（キス）、third base（より深い性的接触）、home run（性行為）があります。"
+    },
+    {
+      "id": 3,
+      "value": "stand-up comedian",
+      "options": [
+        "直立不動のコメディアン",
+        "お笑い芸人",
+        "司会者",
+        "物まね芸人"
+      ],
+      "correctAnswer": "お笑い芸人",
+      "explanation": "「stand-up comedian」は、通常一人でステージに立ち、マイクを使って観客にジョークやユーモラスな話をするコメディアンのことです。日本では「漫談家」に近いイメージです。"
+    },
+    {
+      "id": 4,
+      "value": "one-night stand",
+      "options": [
+        "一夜限りの関係",
+        "一晩中立ち続けること",
+        "短い休憩",
+        "一晩の旅行"
+      ],
+      "correctAnswer": "一夜限りの関係",
+      "explanation": "「one-night stand」は、性的関係を持つことが目的で、その夜限りの関係を意味します。将来的な関係を期待しない、気軽な関係を指すことが多いです。"
+    },
+    {
+      "id": 5,
+      "value": "chicken or fish on an airplane?",
+      "options": [
+        "飛行機での食事の選択",
+        "二択の質問",
+        "簡単な選択",
+        "難しい選択"
+      ],
+      "correctAnswer": "二択の質問",
+      "explanation": "これは、飛行機内でよくある食事の選択肢（チキンか魚か）を比喩として使っています。ここでは、簡単な二択問題であることを示唆しています。つまり、Bernadette は Howard に対して「関係を求めるか、一夜限りの関係を求めるか」という明確な答えを求めており、他の選択肢はないということを伝えています。"
+    },
+    {
+      "id": 6,
+      "value": "not unheard of",
+      "options": [
+        "聞いたことがない",
+        "珍しいことではない",
+        "秘密にされている",
+        "忘れられている"
+      ],
+      "correctAnswer": "珍しいことではない",
+      "explanation": "「not unheard of」は、直訳すると「聞いたことがないわけではない」となり、「珍しいことではない」「ありえないことではない」という意味になります。可能性が低いかもしれないが、起こりうることを示唆する際に使われます。"
+    },
+    {
+      "id": 7,
+      "value": "figure it out",
+      "options": [
+        "計算する",
+        "理解する、解決する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "理解する、解決する",
+      "explanation": "「figure out」は、問題や状況を理解したり、解決策を見つけたりすることを意味する一般的な句動詞です。ここでは、Howard が自分の気持ちやBernadetteとの関係についてどうしたいのかを「見つけ出す」ことを求めています。"
+    },
+    {
+      "id": 8,
+      "value": "leave them wanting more",
+      "options": [
+        "もっと欲しがらせる",
+        "置き去りにする",
+        "不満を残す",
+        "多くを与えすぎる"
+      ],
+      "correctAnswer": "もっと欲しがらせる",
+      "explanation": "「leave them wanting more」は、相手に満足感を与えつつも、もっと何かを期待させる、またはもっと見たいと思わせるようにするという意味です。ショービジネスやデートなどで、良い印象を残して次につなげるために用いられる戦略です。"
+    },
+    {
+      "id": 9,
+      "value": "struck out",
+      "options": [
+        "ストライクアウト",
+        "失敗した",
+        "成功した",
+        "幸運だった"
+      ],
+      "correctAnswer": "失敗した",
+      "explanation": "野球のストライクアウトを比喩的に用いて、試みが失敗に終わったことを意味します。ここでは、Howard が Bernadette との関係でうまくいかなかったことを指しています。"
+    },
+    {
+      "id": 10,
+      "value": "threshold",
+      "options": [
+        "敷居",
+        "境界線、限界点",
+        "入り口",
+        "頂点"
+      ],
+      "correctAnswer": "境界線、限界点",
+      "explanation": "「threshold」は、ある状態や状況に変化するための境界線や限界点を意味します。ここでは、3回目のデートがセックスに発展する可能性が高まる「境界線」として使われています。"
+    },
+    {
+      "id": 11,
+      "value": "hooked up",
+      "options": [
+        "フックで繋いだ",
+        "性的な関係を持った",
+        "仲良くなった",
+        "喧嘩した"
+      ],
+      "correctAnswer": "性的な関係を持った",
+      "explanation": "「hook up」は、カジュアルな性的関係を持つことを意味する口語的な表現です。必ずしも深い感情的なつながりを伴わない関係を指すことが多いです。"
+    },
+    {
+      "id": 12,
+      "value": "keep her options open",
+      "options": [
+        "選択肢を広げておく",
+        "秘密にする",
+        "正直に話す",
+        "約束を守る"
+      ],
+      "correctAnswer": "選択肢を広げておく",
+      "explanation": "「keep one's options open」は、将来のために様々な可能性を残しておく、特定の選択に縛られないようにするという意味です。ここでは、PennyがLeonardとの関係を深くコミットせず、他の可能性も探っていたことを示唆しています。"
+    },
+    {
+      "id": 13,
+      "value": "out of respect for convention",
+      "options": [
+        "慣習を尊重して",
+        "秘密裏に",
+        "個人的な意見として",
+        "急いで"
+      ],
+      "correctAnswer": "慣習を尊重して",
+      "explanation": "「out of respect for convention」は、社会的な慣習やルールを尊重するために、特定の行動を控えるという意味です。Sheldon は、皆が会話を終えるのを待ってから自分の発表をしようとしています。"
+    },
+    {
+      "id": 14,
+      "value": "cultural paradigm",
+      "options": [
+        "文化的な模範",
+        "文化的パラダイム",
+        "文化的な冗談",
+        "文化的な遺産"
+      ],
+      "correctAnswer": "文化的パラダイム",
+      "explanation": "「cultural paradigm」は、ある文化において広く受け入れられている考え方や価値観、行動様式などの基本的な枠組みを意味します。ここでは、3回目のデートでセックスをするという「通念」を指しています。"
+    },
+    {
+      "id": 15,
+      "value": "scratching the bottom of the barrel",
+      "options": [
+        "樽の底を引っ掻く",
+        "人材不足",
+        "最高のものを探す",
+        "無駄な努力"
+      ],
+      "correctAnswer": "人材不足",
+      "explanation": "「scraping the bottom of the barrel」は、利用できる最良のものがすでに使い果たされ、質の低いものや役に立たないものに頼らざるを得ない状況を指します。ここでは、NPRがゲストを選ぶ際に、質の低い人物を選ばざるを得ない状況をKripkeが皮肉っています。"
+    },
+    {
+      "id": 16,
+      "value": "rhetorical",
+      "options": [
+        "修辞的な",
+        "反語的な",
+        "質問を必要としない",
+        "重要な"
+      ],
+      "correctAnswer": "質問を必要としない",
+      "explanation": "「rhetorical」は、質問が答えを求めるものではなく、意見や感情を強調するために使われることを意味します。ここでは、KripkeとSheldonの質問がどちらも答えを期待していないことを示しています。"
+    },
+    {
+      "id": 17,
+      "value": "goose the ratings",
+      "options": [
+        "視聴率を上げる",
+        "ガチョウを飼う",
+        "評価を下げる",
+        "宣伝する"
+      ],
+      "correctAnswer": "視聴率を上げる",
+      "explanation": "「goose the ratings」は、視聴率や評価を意図的に上げる、または刺激するという意味です。ここでは、NPRがSheldonをインタビューすることで、番組の視聴率を上げようとしていることを指しています。"
+    },
+    {
+      "id": 18,
+      "value": "convene",
+      "options": [
+        "招集する",
+        "解散する",
+        "延期する",
+        "避ける"
+      ],
+      "correctAnswer": "招集する",
+      "explanation": "「convene」は、会議や集会のために人々を正式に集めるという意味です。ここでは、Sheldonの母親が聖書研究グループを彼のラジオ出演を聞くために集めることを指しています。"
+    },
+    {
+      "id": 19,
+      "value": "Bible study group",
+      "options": [
+        "聖書研究グループ",
+        "読書グループ",
+        "祈りの会",
+        "ボランティア団体"
+      ],
+      "correctAnswer": "聖書研究グループ",
+      "explanation": "「Bible study group」は、聖書を読み、解釈し、議論するために集まる人々のグループです。宗教的な学習と交流を目的としています。"
+    },
+    {
+      "id": 20,
+      "value": "pray for my soul",
+      "options": [
+        "魂のために祈る",
+        "成功を祈る",
+        "健康を祈る",
+        "富を祈る"
+      ],
+      "correctAnswer": "魂のために祈る",
+      "explanation": "「pray for someone's soul」は、その人の霊的な救済や幸福を神に祈ることを意味します。ここでは、Sheldonの母親が彼の行動や考えが正しい方向へ向かうように祈ることを示唆しています。"
+    },
+    {
+      "id": 21,
+      "value": "To be honest",
+      "options": [
+        "正直に言うと",
+        "秘密にしておく",
+        "冗談で言うと",
+        "嘘をつくと"
+      ],
+      "correctAnswer": "正直に言うと",
+      "explanation": "「To be honest」は、自分の本当の気持ちや考えを率直に述べ始める際に使われるフレーズです。相手に対して誠実であることを伝えようとする意図があります。"
+    },
+    {
+      "id": 22,
+      "value": "Never mind",
+      "options": [
+        "気にしないで",
+        "覚えておいて",
+        "よく考えて",
+        "秘密にして"
+      ],
+      "correctAnswer": "気にしないで",
+      "explanation": "「Never mind」は、言ったことや質問を取り消したり、相手に気にしないように促したりする際に使われる表現です。重要でないことや、話す必要がなくなったことを示します。"
+    },
+    {
+      "id": 23,
+      "value": "My pleasure",
+      "options": [
+        "どういたしまして",
+        "喜んで",
+        "残念です",
+        "気にしないで"
+      ],
+      "correctAnswer": "どういたしまして",
+      "explanation": "「My pleasure」は、感謝の言葉に対する返答として使われ、「どういたしまして」という意味を表します。相手の感謝を受け入れ、喜んで手助けしたという気持ちを伝える丁寧な表現です。"
+    },
+    {
+      "id": 24,
+      "value": "So-called",
+      "options": [
+        "いわゆる",
+        "本当の",
+        "非常に",
+        "全く"
+      ],
+      "correctAnswer": "いわゆる",
+      "explanation": "「so-called」は、一般的に信じられている、またはそのように呼ばれているが、実際にはそうではないかもしれないものに対して使われる表現です。ここでは、磁気単極子の発見が実際には疑わしいものであることを示唆しています。"
+    },
+    {
+      "id": 25,
+      "value": "Depriving me of the opportunity",
+      "options": [
+        "機会を奪う",
+        "機会を与える",
+        "機会を創出する",
+        "機会を無視する"
+      ],
+      "correctAnswer": "機会を奪う",
+      "explanation": "「Depriving me of the opportunity」は、誰かが自分に与えられるはずだった機会を奪った、または邪魔したという意味です。ここでは、KripkeがSheldonの発表の機会を奪ったことを指しています。"
+    },
+    {
+      "id": 26,
+      "value": "phrase that pays",
+      "options": [
+        "お金を払うフレーズ",
+        "幸運をもたらすフレーズ",
+        "価値のあるフレーズ",
+        "広告のキャッチフレーズ"
+      ],
+      "correctAnswer": "幸運をもたらすフレーズ",
+      "explanation": "「phrase that pays」は、ラジオやテレビのクイズ番組などでよく使われる表現で、特定のフレーズを言うと賞金がもらえるという意味です。ここでは、ラジオ局のクイズで特定のフレーズを言うことで賞金がもらえる企画に参加したことを表しています。"
+    },
+    {
+      "id": 27,
+      "value": "talking points",
+      "options": [
+        "話題の場所",
+        "議論のポイント",
+        "旅行の目的地",
+        "秘密の場所"
+      ],
+      "correctAnswer": "議論のポイント",
+      "explanation": "「talking points」は、議論やプレゼンテーションなどで使用される主要なポイントや話題を指します。ここでは、NPRのインタビューのために、話すべき内容を事前に準備していることを表しています。類似の表現としては、'key issues'や'main arguments'があります。"
+    },
+    {
+      "id": 28,
+      "value": "look this over",
+      "options": [
+        "これを見下す",
+        "これを見渡す",
+        "これを無視する",
+        "これを確認する"
+      ],
+      "correctAnswer": "これを確認する",
+      "explanation": "「look over」は、何かをざっと確認する、目を通すという意味の句動詞です。ここでは、Howardにインタビューのポイントを確認してもらうように依頼しています。類似の表現としては、'check'や'review'があります。"
+    },
+    {
+      "id": 29,
+      "value": "unclear",
+      "options": [
+        "不親切",
+        "不明確",
+        "不公平",
+        "不可能"
+      ],
+      "correctAnswer": "不明確",
+      "explanation": "「unclear」は、明確でない、はっきりしないという意味です。ここでは、インタビューのポイントが聴衆にとって理解しやすいかどうかをHowardに確認してもらおうとしています。明確さの度合いに応じて、'vague', 'ambiguous', 'obscure'などの類義語があります。"
+    },
+    {
+      "id": 30,
+      "value": "master's degree",
+      "options": [
+        "学士号",
+        "修士号",
+        "博士号",
+        "専門学校卒業"
+      ],
+      "correctAnswer": "修士号",
+      "explanation": "「master's degree」は、大学院で特定の分野を深く研究し、一定の単位を取得した後に授与される学位です。学士号（bachelor's degree）よりも高度な学位であり、専門的な知識やスキルを証明するものとなります。"
+    },
+    {
+      "id": 31,
+      "value": "thesis",
+      "options": [
+        "要約",
+        "論文",
+        "詩",
+        "手紙"
+      ],
+      "correctAnswer": "論文",
+      "explanation": "「thesis」は、特に大学や大学院で研究成果をまとめた論文を指します。修士論文（master's thesis）や博士論文（doctoral thesis/dissertation）といった形で使われます。研究の目的、方法、結果などを詳細に記述し、学術的な貢献を示すものです。"
+    },
+    {
+      "id": 32,
+      "value": "screw with",
+      "options": [
+        "ねじ込む",
+        "からかう",
+        "修理する",
+        "混乱させる"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「screw with」は、誰かをからかう、いたずらをするという意味のスラングです。ここでは、PennyがRajをからかっている場面で使われています。より丁寧な表現としては、'tease'や'joke with'があります。"
+    },
+    {
+      "id": 33,
+      "value": "commitment",
+      "options": [
+        "約束",
+        "献身",
+        "委託",
+        "関与"
+      ],
+      "correctAnswer": "献身",
+      "explanation": "「commitment」は、約束や責任を果たすこと、または特定の目標や価値観に献身することを意味します。ここでは、BernadetteがHowardに対して、より真剣な関係を求めていることを表しています。恋愛関係においては、'serious relationship'と同義で使われることがあります。"
+    },
+    {
+      "id": 34,
+      "value": "settle down",
+      "options": [
+        "落ち着く",
+        "和解する",
+        "解決する",
+        "沈殿する"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「settle down」は、落ち着いて生活を始める、特に結婚して家庭を持つという意味で使われます。ここでは、HowardがBernadetteとの関係で将来を考えると、自分の理想とは違うと感じていることを示しています。類似の表現としては、'start a family'や'put down roots'があります。"
+    },
+    {
+      "id": 35,
+      "value": "holding out for",
+      "options": [
+        "耐える",
+        "主張する",
+        "期待する",
+        "保留する"
+      ],
+      "correctAnswer": "期待する",
+      "explanation": "「hold out for」は、何かを期待して待つ、要求を曲げないという意味です。ここでは、Howardが理想の女性を求めて、Bernadetteとの関係に踏み切れないことを表しています。類似の表現としては、'waiting for'や'expecting'があります。"
+    },
+    {
+      "id": 36,
+      "value": "settled",
+      "options": [
+        "解決した",
+        "落ち着いた",
+        "和解した",
+        "沈殿した"
+      ],
+      "correctAnswer": "落ち着いた",
+      "explanation": "「settled」は、「settle」の過去分詞形で、ここでは「妥協した」という意味合いで使われています。PennyがLeonardとの関係で、理想を追い求めるのをやめて現実を受け入れたと解釈できる場面です。類似の表現としては、'compromised'や'accepted'があります。"
+    },
+    {
+      "id": 37,
+      "value": "judge a book by its cover",
+      "options": [
+        "本の表紙で判断する",
+        "外見で判断する",
+        "本の内容を理解する",
+        "隠れた才能を見抜く"
+      ],
+      "correctAnswer": "外見で判断する",
+      "explanation": "「judge a book by its cover」は、外見だけで中身を判断するという意味のイディオムです。Pennyは、Leonardの外見にとらわれず、内面を見ていると主張しています。このイディオムは、外見だけでなく、第一印象や表面的な情報に基づいて人を評価することへの戒めとして使われます。"
+    },
+    {
+      "id": 38,
+      "value": "interject",
+      "options": [
+        "挿入する",
+        "拒否する",
+        "提案する",
+        "翻訳する"
+      ],
+      "correctAnswer": "挿入する",
+      "explanation": "「interject」は、会話や議論に口を挟む、割り込むという意味です。SheldonがPennyとHowardの会話に割り込もうとする場面で使われています。類似の表現としては、'interrupt'や'chime in'があります。"
+    },
+    {
+      "id": 39,
+      "value": "propagation",
+      "options": [
+        "伝播",
+        "繁殖",
+        "宣伝",
+        "遅延"
+      ],
+      "correctAnswer": "繁殖",
+      "explanation": "「propagation」は、生物の繁殖や増殖、または情報やアイデアの伝播という意味です。ここでは、SheldonがHowardの遺伝子を次世代に伝えることについて言及しています。科学的な文脈でよく使われる単語です。"
+    },
+    {
+      "id": 40,
+      "value": "rigged up",
+      "options": [
+        "修理された",
+        "仕掛けられた",
+        "改造された",
+        "盗まれた"
+      ],
+      "correctAnswer": "仕掛けられた",
+      "explanation": "「rig up」は、何かを即席で組み立てる、仕掛けを作るという意味の句動詞です。ここでは、Kripkeがヘリウムタンクを使っていたずらをするために、チューブを仕掛けたことを表しています。類似の表現としては、'set up'や'arrange'があります。"
+    },
+    {
+      "id": 41,
+      "value": "wioit",
+      "options": [
+        "暴動",
+        "面白い",
+        "静か",
+        "悲しい"
+      ],
+      "correctAnswer": "面白い",
+      "explanation": "Kripkeが「riot」を吃音混じりに言ったものです。つまり、非常に面白い出来事が起こるだろう、という皮肉を込めた表現です。Kripke特有の言い回しです。"
+    },
+    {
+      "id": 42,
+      "value": "monopole",
+      "options": [
+        "単独",
+        "独占",
+        "単極",
+        "一極化"
+      ],
+      "correctAnswer": "単極",
+      "explanation": "「monopole」は、単極子という意味で、磁石においてN極またはS極のいずれか一方だけを持つ仮想的な粒子です。通常の磁石は必ずN極とS極を両方持ちますが、理論上は単極子が存在しうるとされています。SheldonがNPRのインタビューでこの単極子について説明しています。"
+    },
+    {
+      "id": 43,
+      "value": "Arctic Circle",
+      "options": [
+        "南極圏",
+        "北極圏",
+        "赤道",
+        "砂漠"
+      ],
+      "correctAnswer": "北極圏",
+      "explanation": "「Arctic Circle」は、北極圏を指し、北緯66度33分以北の地域を指します。Sheldonが単極子を探しに北極圏へ探検に行ったという話が出てきます。極寒の地であり、科学的な探検や研究が行われる場所として知られています。"
+    },
+    {
+      "id": 44,
+      "value": "said",
+      "options": [
+        "言った",
+        "前述の",
+        "書いた",
+        "考えた"
+      ],
+      "correctAnswer": "前述の",
+      "explanation": "「said」は、法律用語やフォーマルな文脈で「前述の」「例の」という意味で使われます。ここでは、Sheldonが「said particles（前述の粒子）」という形で、以前に言及した単極子を指しています。日常会話ではあまり使われません。"
+    },
+    {
+      "id": 45,
+      "value": "masturbatory fantasies",
+      "options": [
+        "自慰的な幻想",
+        "英雄的な幻想",
+        "芸術的な幻想",
+        "科学的な幻想"
+      ],
+      "correctAnswer": "自慰的な幻想",
+      "explanation": "「masturbatory fantasies」は、自慰行為中に抱く性的または空想的なイメージを指します。ここでは、HowardがKatee Sackhoffを相手にしている状況が、彼の空想であることを示唆しています。やや露骨な表現ですが、コメディとして使われています。"
+    },
+    {
+      "id": 46,
+      "value": "class act",
+      "options": [
+        "一流の行為",
+        "授業の場面",
+        "犯罪行為",
+        "喜劇"
+      ],
+      "correctAnswer": "一流の行為",
+      "explanation": "「class act」は、洗練された、上品な、一流の行為や人を指す表現です。ここでは、Katee SackhoffがHowardの自慰行為を皮肉って、「一流の行為」と呼んでいます。実際には逆の意味で使われており、皮肉や嫌味を込めて使われることがあります。"
+    },
+    {
+      "id": 47,
+      "value": "string theory",
+      "options": [
+        "ひも理論",
+        "環理論",
+        "超弦理論",
+        "量子論"
+      ],
+      "correctAnswer": "超弦理論",
+      "explanation": "「string theory」は、素粒子を点ではなく、非常に小さなひも（弦）として捉える物理学の理論です。すべての物質と力を統一的に説明しようとする試みであり、M-theoryはその拡張版です。非常に複雑な理論であり、未だ実験的な検証が難しいとされています。"
+    },
+    {
+      "id": 48,
+      "value": "uneducated",
+      "options": [
+        "教育を受けていない",
+        "礼儀正しくない",
+        "経験不足",
+        "無関心"
+      ],
+      "correctAnswer": "教育を受けていない",
+      "explanation": "「uneducated」は、教育を受けていない、知識が不足しているという意味です。SheldonはNPRの聴衆に対して、皮肉を込めて「最も教育を受けていない人でも知っているように」と発言しています。より丁寧な表現としては、'less educated'や'unschooled'があります。"
+    },
+    {
+      "id": 49,
+      "value": "primary characteristic",
+      "options": [
+        "主要な性格",
+        "根本的な原因",
+        "基本的な特徴",
+        "最優先事項"
+      ],
+      "correctAnswer": "基本的な特徴",
+      "explanation": "「primary characteristic」は、最も重要で基本的な特徴や性質を指します。ここでは、単極子の主要な特徴について説明しています。類似の表現としては、'main feature'や'key attribute'があります。"
+    },
+    {
+      "id": 50,
+      "value": "expedition",
+      "options": [
+        "遠征",
+        "探検",
+        "旅行",
+        "調査"
+      ],
+      "correctAnswer": "探検",
+      "explanation": "「expedition」は、特定の目的を持って組織された探検や旅行を指します。ここでは、Sheldonが単極子を探すために北極圏へ行ったことを表しています。学術的な調査や冒険的な探検など、様々な目的で行われます。"
+    },
+    {
+      "id": 51,
+      "value": "make-believe",
+      "options": [
+        "本当のこと",
+        "いたずら",
+        "ふり、ごっこ",
+        "真実"
+      ],
+      "correctAnswer": "ふり、ごっこ",
+      "explanation": "「make-believe」は、現実ではないことを信じ込もうとする、またはそうであるかのように振る舞うことを指します。子供の遊びやファンタジーの世界など、非現実的な状況で使用されます。\n\n例：They were playing make-believe in the garden. (彼らは庭でごっこ遊びをしていた。)"
+    },
+    {
+      "id": 52,
+      "value": "mental image",
+      "options": [
+        "過去の遺物",
+        "心のイメージ",
+        "物理的な証拠",
+        "精神的な病気"
+      ],
+      "correctAnswer": "心のイメージ",
+      "explanation": "「mental image」は、心の中に思い描く像やイメージのことです。視覚的なものだけでなく、音、匂い、味、触感なども含めた感覚的なイメージを指すことがあります。\n\n例：He has a mental image of his childhood home. (彼は子供時代の家の心のイメージを持っている。)"
+    },
+    {
+      "id": 53,
+      "value": "soaped up",
+      "options": [
+        "混乱した",
+        "石鹸で泡だらけ",
+        "解決した",
+        "乾燥した"
+      ],
+      "correctAnswer": "石鹸で泡だらけ",
+      "explanation": "「soaped up」は、石鹸で体を洗って泡だらけになっている状態を表します。日常的な状況で使われる口語的な表現です。\n\n例：He was all soaped up in the shower. (彼はシャワーで体を洗って泡だらけだった。)"
+    },
+    {
+      "id": 54,
+      "value": "humiliated",
+      "options": [
+        "尊敬された",
+        "謙遜した",
+        "屈辱を受けた",
+        "励まされた"
+      ],
+      "correctAnswer": "屈辱を受けた",
+      "explanation": "「humiliated」は、人前で恥をかかされたり、尊厳を傷つけられたりする状態を表します。強い不快感や恥ずかしさを伴う感情です。\n\n例：She felt humiliated when she tripped on stage. (彼女はステージでつまずいた時、屈辱を感じた。)"
+    },
+    {
+      "id": 55,
+      "value": "sink to his level",
+      "options": [
+        "彼のレベルに達する",
+        "彼のレベルに落ちる",
+        "彼のレベルを上げる",
+        "彼のレベルを無視する"
+      ],
+      "correctAnswer": "彼のレベルに落ちる",
+      "explanation": "「sink to someone's level」は、相手と同じような低いレベルの行動や態度をとることを意味します。通常、相手の挑発に乗ったり、品位を落としたりする状況で使用されます。\n\n例：I refuse to sink to his level and argue with him. (私は彼のレベルに落ちて彼と議論するつもりはない。)"
+    },
+    {
+      "id": 56,
+      "value": "admitting defeat",
+      "options": [
+        "敗北を認める",
+        "勝利を主張する",
+        "中立を保つ",
+        "戦略を練る"
+      ],
+      "correctAnswer": "敗北を認める",
+      "explanation": "「admit defeat」は、負けを認める、敗北を認めるという意味です。競争や争いごとにおいて、自分が負けたことを認める際に使われます。\n\n例：He finally admitted defeat after a long struggle. (彼は長い苦闘の末、ついに敗北を認めた。)"
+    },
+    {
+      "id": 57,
+      "value": "on an unrelated topic",
+      "options": [
+        "関連のある話題で",
+        "無関係な話題で",
+        "秘密の話題で",
+        "重要な話題で"
+      ],
+      "correctAnswer": "無関係な話題で",
+      "explanation": "「on an unrelated topic」は、話題を変える際に、それまでの話題とは関係のない新しい話題を持ち出すことを意味します。会話の流れをスムーズに変えるために使われます。\n\n例：On an unrelated topic, did you hear about the new project? (話は変わりますが、新しいプロジェクトについて聞きましたか？)"
+    },
+    {
+      "id": 58,
+      "value": "exact vengeance",
+      "options": [
+        "復讐を遂げる",
+        "許しを与える",
+        "協力を求める",
+        "平和を願う"
+      ],
+      "correctAnswer": "復讐を遂げる",
+      "explanation": "「exact vengeance」は、復讐を実行する、報復するという意味です。正義を回復するため、または受けた不正に対して報いるために行われる行為を指します。\n\n例：He planned to exact vengeance on those who had wronged him. (彼は自分を陥れた者たちに復讐することを計画した。)"
+    },
+    {
+      "id": 59,
+      "value": "dial it back",
+      "options": [
+        "もっと詳しく説明する",
+        "もっと穏やかにする",
+        "もっと大きくする",
+        "もっと速くする"
+      ],
+      "correctAnswer": "もっと穏やかにする",
+      "explanation": "「dial it back」は、行動や言動を穏やかにする、控えめにするという意味です。興奮しすぎたり、過激になったりするのを抑える際に使われます。\n\n例：Let's dial it back a bit and think calmly. (少し落ち着いて冷静に考えましょう。)"
+    },
+    {
+      "id": 60,
+      "value": "non-lethal",
+      "options": [
+        "致死性の",
+        "非致死性の",
+        "合法的な",
+        "非合法的な"
+      ],
+      "correctAnswer": "非致死性の",
+      "explanation": "「non-lethal」は、死に至らない、致命的でないという意味です。武器や攻撃手段などが、相手を殺傷しないように設計されていることを指します。\n\n例：The police used non-lethal weapons to control the crowd. (警察は群衆を制御するために非致死性の武器を使用した。)"
+    },
+    {
+      "id": 61,
+      "value": "flatulent",
+      "options": [
+        "無頓着な",
+        "平らな",
+        "腸内にガスがたまった",
+        "流暢な"
+      ],
+      "correctAnswer": "腸内にガスがたまった",
+      "explanation": "「flatulent」は、おならが多い、腸内にガスがたまった状態を指します。医学的な文脈やユーモラスな状況で使われることがあります。\n\n例：The food made him feel flatulent. (その食べ物を食べると、彼はガスが溜まる感じがした。)"
+    },
+    {
+      "id": 62,
+      "value": "trolling around",
+      "options": [
+        "探し回る",
+        "釣りをする",
+        "荒らし回る",
+        "歩き回る"
+      ],
+      "correctAnswer": "探し回る",
+      "explanation": "「troll around」は、ぶらぶら歩き回る、何かを探し回るという意味です。特に、獲物を探すように、または暇つぶしに何かを探す様子を表します。ネットスラングの「trolling」とは意味が異なります。\n\n例：They were trolling around the shops, looking for souvenirs. (彼らはお土産を探して店をぶらぶらしていた。)"
+    },
+    {
+      "id": 63,
+      "value": "neurotic",
+      "options": [
+        "神経質な",
+        "勇敢な",
+        "知的な",
+        "健康的な"
+      ],
+      "correctAnswer": "神経質な",
+      "explanation": "「neurotic」は、神経質な、神経症的なという意味です。不安、心配、強迫観念などの症状を抱えている状態を指します。日常会話では、過度に心配性な人や几帳面な人を指すこともあります。\n\n例：He is a bit neurotic about germs. (彼は細菌に対して少し神経質だ。)"
+    },
+    {
+      "id": 64,
+      "value": "weasel",
+      "options": [
+        "英雄",
+        "ずる賢い人",
+        "正直者",
+        "怠け者"
+      ],
+      "correctAnswer": "ずる賢い人",
+      "explanation": "「weasel」は、イタチのことですが、人を指す場合は、ずる賢い人、信用できない人を意味します。特に、言葉巧みに人を欺いたり、責任を逃れたりする人を指すことが多いです。\n\n例：He is a weasel who will do anything to get ahead. (彼は出世のためなら何でもするずる賢い男だ。)"
+    },
+    {
+      "id": 65,
+      "value": "talkin' some smack",
+      "options": [
+        "良い噂を広める",
+        "悪口を言う",
+        "真実を語る",
+        "沈黙を守る"
+      ],
+      "correctAnswer": "悪口を言う",
+      "explanation": "「talk smack」は、スラングで、悪口を言う、相手をけなす、自慢話をするという意味です。しばしば、軽口や冗談交じりのニュアンスを含みます。\n\n例：They were talking smack about each other before the game. (彼らは試合前に互いに悪口を言い合っていた。)"
+    },
+    {
+      "id": 66,
+      "value": "wonderful girl",
+      "options": [
+        "恐ろしい少女",
+        "素晴らしい少女",
+        "普通の少女",
+        "内気な少女"
+      ],
+      "correctAnswer": "素晴らしい少女",
+      "explanation": "「wonderful girl」は、性格や才能、容姿などが素晴らしい少女を指す表現です。好意的な感情を込めて使われます。\n\n例：She is a wonderful girl with a bright future. (彼女は明るい未来を持つ素晴らしい少女だ。)"
+    },
+    {
+      "id": 67,
+      "value": "ignoring her",
+      "options": [
+        "彼女を愛する",
+        "彼女を無視する",
+        "彼女を尊敬する",
+        "彼女を助ける"
+      ],
+      "correctAnswer": "彼女を無視する",
+      "explanation": "「ignoring her」は、意図的に彼女に注意を払わない、または彼女の存在を無視する行動を指します。相手を傷つけたり、関係を悪化させたりする可能性があります。\n\n例：He was ignoring her because he was angry. (彼は怒っていたので、彼女を無視していた。)"
+    },
+    {
+      "id": 68,
+      "value": "tall, handsome, rich guy",
+      "options": [
+        "背が低く、不細工で、貧乏な男",
+        "背が高く、ハンサムで、金持ちの男",
+        "背が高く、ハンサムだが、貧乏な男",
+        "背が低く、ハンサムで、金持ちの男"
+      ],
+      "correctAnswer": "背が高く、ハンサムで、金持ちの男",
+      "explanation": "「tall, handsome, rich guy」は、理想的な男性像を表現する際に使われることがあります。容姿、経済力、体格などが優れていることを強調する表現です。\n\n例：She always dreamed of marrying a tall, handsome, rich guy. (彼女はいつも背が高く、ハンサムで、金持ちの男性と結婚することを夢見ていた。)"
+    },
+    {
+      "id": 69,
+      "value": "going out with",
+      "options": [
+        "デートする",
+        "別れる",
+        "喧嘩する",
+        "無視する"
+      ],
+      "correctAnswer": "デートする",
+      "explanation": "「going out with」は、誰かとデートをする、交際するという意味です。恋愛関係にあることを示す一般的な表現です。\n\n例：Are you going out with anyone at the moment? (あなたは今誰かと付き合っていますか？)"
+    },
+    {
+      "id": 70,
+      "value": "playing Cylon and colonist",
+      "options": [
+        "仕事をする",
+        "役割を演じる",
+        "ゲームをする",
+        "歌を歌う"
+      ],
+      "correctAnswer": "役割を演じる",
+      "explanation": "「playing Cylon and colonist」は、テレビドラマ「Battlestar Galactica」に登場するキャラクターの役割を演じることを指します。ここでは、ごっこ遊びのような意味合いで使われています。\n\n例：They were playing Cylon and colonist in the living room. (彼らはリビングルームでサイロンと入植者のごっこ遊びをしていた。)"
+    },
+    {
+      "id": 71,
+      "value": "wash cloth",
+      "options": [
+        "バスタオル",
+        "洗濯機",
+        "洗い桶",
+        "ウォッシュクロス"
+      ],
+      "correctAnswer": "ウォッシュクロス",
+      "explanation": "「wash cloth」は、体を洗うときに使う小さな布、ウォッシュクロスを指します。タオルよりも小さく、顔や体を洗うのに適しています。\n\n例：She used a wash cloth to clean her face. (彼女はウォッシュクロスで顔を洗った。)"
+    },
+    {
+      "id": 72,
+      "value": "Lollipop Guild",
+      "options": [
+        "秘密結社",
+        "キャンディー組合",
+        "いたずらグループ",
+        "お菓子ギルド"
+      ],
+      "correctAnswer": "お菓子ギルド",
+      "explanation": "「Lollipop Guild」は、映画「オズの魔法使い」に登場するキャラクターたちのグループです。ここでは、冗談めかして、おどけた様子で登場人物たちを指しています。\n\n例：They represent the Lollipop Guild and they want you. (彼らはロリポップギルドの代表で、あなたを求めています。)"
+    },
+    {
+      "id": 73,
+      "value": "psychotic villains",
+      "options": [
+        "精神異常の悪役",
+        "普通の悪役",
+        "勇敢なヒーロー",
+        "臆病な仲間"
+      ],
+      "correctAnswer": "精神異常の悪役",
+      "explanation": "「psychotic villains」は、精神病的な症状を持つ悪役を指します。通常、行動が予測不可能で、非常に危険な存在として描かれます。\n\n例：The city was terrorized by a gang of psychotic villains. (その都市は精神異常の悪役のギャングによって恐怖に陥れられた。)"
+    },
+    {
+      "id": 74,
+      "value": "poison Gotham's water supply",
+      "options": [
+        "ゴッサムの食料を支援する",
+        "ゴッサムの水道水を汚染する",
+        "ゴッサムの市民を助ける",
+        "ゴッサムのエネルギーを供給する"
+      ],
+      "correctAnswer": "ゴッサムの水道水を汚染する",
+      "explanation": "「poison Gotham's water supply」は、架空の都市ゴッサムの水道水を毒で汚染するという意味です。これは、バットマンの敵であるジョーカーが行う悪質な犯罪行為の一例として挙げられます。\n\n例：The villain threatened to poison Gotham's water supply if his demands were not met. (悪役は要求が満たされなければゴッサムの水道水を汚染すると脅迫した。)"
+    },
+    {
+      "id": 75,
+      "value": "toxic chemicals",
+      "options": [
+        "無害な化学物質",
+        "有毒な化学物質",
+        "有用な化学物質",
+        "未知の化学物質"
+      ],
+      "correctAnswer": "有毒な化学物質",
+      "explanation": "「toxic chemicals」は、人体や環境に有害な影響を与える化学物質を指します。摂取、吸入、または皮膚への接触によって健康被害を引き起こす可能性があります。\n\n例：Exposure to toxic chemicals can cause serious health problems. (有毒な化学物質への暴露は深刻な健康問題を引き起こす可能性があります。)"
+    },
+    {
+      "id": 76,
+      "value": "quirky",
+      "options": [
+        "普通",
+        "風変わり",
+        "退屈",
+        "真面目"
+      ],
+      "correctAnswer": "風変わり",
+      "explanation": "「quirky」は、普通とは少し違っていて、面白い、魅力的な、または独特なという意味です。少し変わったユーモアのセンスや、予測できない行動をする人に対して使われることが多いです。\n\n例：He has a quirky sense of humor. (彼は風変わりなユーモアのセンスを持っている。)"
+    },
+    {
+      "id": 77,
+      "value": "fair enough",
+      "options": [
+        "不公平だ",
+        "承知した",
+        "問題ない",
+        "正しい"
+      ],
+      "correctAnswer": "承知した",
+      "explanation": "「fair enough」は、相手の意見や言い分を聞いて、一応納得した場合に使われる表現です。必ずしも完全に同意しているわけではなく、「まあ、それもそうだな」というニュアンスが含まれます。\n\n例：'I can't lend you any money, I need it myself.' 'Fair enough.' （「お金は貸せないな、自分も必要なんだ。」「まあ、それもそうだな。」）"
+    },
+    {
+      "id": 78,
+      "value": "exothermic",
+      "options": [
+        "吸熱性",
+        "発熱性",
+        "内向性",
+        "外向性"
+      ],
+      "correctAnswer": "発熱性",
+      "explanation": "「exothermic」は、化学反応が起こる際に熱を放出する、つまり発熱性のという意味です。科学や化学の文脈でよく使われます。\n\n例：The reaction was exothermic, releasing a significant amount of heat. (その反応は発熱性で、かなりの熱を放出した。)"
+    },
+    {
+      "id": 79,
+      "value": "deploy",
+      "options": [
+        "展開する",
+        "破壊する",
+        "遅延させる",
+        "無視する"
+      ],
+      "correctAnswer": "展開する",
+      "explanation": "「deploy」は、軍隊や資源などを戦略的に配置・展開するという意味ですが、ここでは比喩的に、計画や策略を実行に移すという意味で使われています。\n\n例：The company plans to deploy a new marketing strategy. (その会社は新しいマーケティング戦略を展開する予定だ。)"
+    },
+    {
+      "id": 80,
+      "value": "discreetly",
+      "options": [
+        "目立たなく",
+        "堂々と",
+        "正直に",
+        "大声で"
+      ],
+      "correctAnswer": "目立たなく",
+      "explanation": "「discreetly」は、人目を避けて、気づかれないように、慎重に行動するという意味です。秘密裏に何かをするニュアンスが含まれます。\n\n例：He discreetly slipped the note under the door. (彼はそっとドアの下にメモを滑り込ませた。)"
+    },
+    {
+      "id": 81,
+      "value": "flatter",
+      "options": [
+        "侮辱する",
+        "褒める",
+        "批判する",
+        "無視する"
+      ],
+      "correctAnswer": "褒める",
+      "explanation": "「flatter」は、お世辞を言う、へつらうという意味です。相手を喜ばせるために、実際以上に良く言うニュアンスがあります。\n\n例：Are you trying to flatter me? (お世辞を言っているのですか？)"
+    },
+    {
+      "id": 82,
+      "value": "get even",
+      "options": [
+        "仲直りする",
+        "仕返しをする",
+        "前進する",
+        "諦める"
+      ],
+      "correctAnswer": "仕返しをする",
+      "explanation": "「get even」は、仕返しをする、報復するという意味です。相手から受けた不利益や侮辱に対して、同じようなことをやり返すことを指します。\n\n例：He wanted to get even with the bully. (彼はそのいじめっ子に仕返しをしたかった。)"
+    },
+    {
+      "id": 83,
+      "value": "flatulent",
+      "options": [
+        "平坦な",
+        "腹部の",
+        "おならの",
+        "陽気な"
+      ],
+      "correctAnswer": "おならの",
+      "explanation": "「flatulent」は、おならが出やすい、またはおならに関するという意味です。ここでは、whoopee cushion（ブーブークッション）の効果音を婉曲的に表現しています。\n\n例: Beans can make you flatulent. (豆はおならが出やすくなる原因となることがあります。)"
+    },
+    {
+      "id": 84,
+      "value": "validity",
+      "options": [
+        "妥当性",
+        "無効性",
+        "秘密性",
+        "脆弱性"
+      ],
+      "correctAnswer": "妥当性",
+      "explanation": "「validity」は、妥当性、正当性、有効性という意味です。ここでは、ブーブークッションというジョークが、コメディとして成り立つかどうかを議論しています。\n\n例：The validity of the research findings is questionable. (その研究結果の妥当性は疑わしい。)"
+    },
+    {
+      "id": 85,
+      "value": "abort",
+      "options": [
+        "続行",
+        "中止",
+        "開始",
+        "成功"
+      ],
+      "correctAnswer": "中止",
+      "explanation": "「abort」は、計画や行動を途中で中止するという意味です。特に危険な状況や、計画の実行が不可能になった場合に用いられます。\n\n例：The mission had to be aborted due to bad weather. (悪天候のため、ミッションは中止せざるを得なかった。)"
+    },
+    {
+      "id": 86,
+      "value": "boo-boo",
+      "options": [
+        "大成功",
+        "大失敗",
+        "小さなミス",
+        "大発見"
+      ],
+      "correctAnswer": "小さなミス",
+      "explanation": "「boo-boo」は、子供が使う言葉で、小さなミスや失敗、または軽いけがを意味します。ここでは、計画にミスがあったことを軽く表現しています。\n\n例：I made a little boo-boo on the test. (テストでちょっとミスをしてしまった。)"
+    },
+    {
+      "id": 87,
+      "value": "malevolent",
+      "options": [
+        "慈悲深い",
+        "悪意のある",
+        "友好的な",
+        "無関心な"
+      ],
+      "correctAnswer": "悪意のある",
+      "explanation": "「malevolent」は、悪意のある、意地悪なという意味です。他人に害を与えようとする強い意志を表します。\n\n例：He gave me a malevolent look. (彼は私に悪意のある目を向けた。)"
+    },
+    {
+      "id": 88,
+      "value": "enterprise",
+      "options": [
+        "冒険",
+        "企業",
+        "無活動",
+        "退屈"
+      ],
+      "correctAnswer": "冒険",
+      "explanation": "「enterprise」は、事業、企業、冒険などの意味がありますが、ここでは、いたずらや企みといったニュアンスで使われています。\n\n例：Starting a new business can be a risky enterprise. (新しいビジネスを始めることはリスクのある冒険となりうる。)"
+    },
+    {
+      "id": 89,
+      "value": "dedicate",
+      "options": [
+        "捧げる",
+        "侮辱する",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "捧げる",
+      "explanation": "「dedicate」は、時間、エネルギー、愛情などを特定の目的や人に捧げるという意味です。ここでは、歌を特定の人物に捧げるという意味で使われています。\n\n例：This song is dedicated to my mother. (この歌は私の母に捧げます。)"
+    },
+    {
+      "id": 90,
+      "value": "the hang of",
+      "options": [
+        "理解する",
+        "嫌悪する",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get the hang of (something)」は、（コツなどを）理解する、習得するという意味です。新しいスキルや知識を身につける過程を表します。\n\n例：It takes time to get the hang of a new software program. (新しいソフトウェアプログラムを理解するには時間がかかる。)"
+    },
+    {
+      "id": 91,
+      "value": "saturated",
+      "options": [
+        "不飽和の",
+        "飽和した",
+        "希薄な",
+        "乾燥した"
+      ],
+      "correctAnswer": "飽和した",
+      "explanation": "「saturated」は、液体が最大限に何かを溶かし込んだ状態、つまり飽和した状態を指します。化学の文脈でよく使用されます。\n\n例：The solution was saturated with salt. (その溶液は塩で飽和していた。)"
+    },
+    {
+      "id": 92,
+      "value": "revenge",
+      "options": [
+        "許し",
+        "復讐",
+        "友情",
+        "平和"
+      ],
+      "correctAnswer": "復讐",
+      "explanation": "「revenge」は、復讐、仕返しという意味です。受けた侮辱や危害に対して、同じような行為で応えようとする感情や行動を指します。\n\n例：He sought revenge for his brother's death. (彼は兄弟の死に対する復讐を求めた。)"
+    },
+    {
+      "id": 93,
+      "value": "enterprise",
+      "options": [
+        "事業",
+        "失敗",
+        "怠惰",
+        "休息"
+      ],
+      "correctAnswer": "事業",
+      "explanation": "「enterprise」は、事業、冒険、企てといった意味を持つ名詞です。ここでは、いたずらや計画といった意味合いで使われています。\n\n例：The project was a large and complex enterprise. (そのプロジェクトは大規模で複雑な事業だった。)"
+    },
+    {
+      "id": 94,
+      "value": "maintain",
+      "options": [
+        "主張する",
+        "否定する",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "主張する",
+      "explanation": "「maintain」は、主張する、維持するという意味です。自分の意見や立場を変わらずに持ち続けることを表します。\n\n例：He maintained his innocence throughout the trial. (彼は裁判中ずっと無罪を主張した。)"
+    },
+    {
+      "id": 95,
+      "value": "ganges on laundry day",
+      "options": [
+        "静かな一日",
+        "騒がしい一日",
+        "晴れた日",
+        "雨の日"
+      ],
+      "correctAnswer": "騒がしい一日",
+      "explanation": "ガンジス川は洗濯の日に汚染されるので、騒がしい一日のようなイメージになります。"
+    },
+    {
+      "id": 96,
+      "value": "tip",
+      "options": [
+        "忠告",
+        "ヒント",
+        "秘訣",
+        "チップ"
+      ],
+      "correctAnswer": "チップ",
+      "explanation": "「tip」は、サービスに対する感謝の気持ちとして渡すお金、つまりチップのことです。レストランなどでよく見られます。\n\n例：Did you leave a tip for the waiter? (ウェイターにチップを渡しましたか？)"
+    },
+    {
+      "id": 97,
+      "value": "tight spiral",
+      "options": [
+        "きつい螺旋",
+        "緩い螺旋",
+        "厳しい評価",
+        "良い提案"
+      ],
+      "correctAnswer": "きつい螺旋",
+      "explanation": "ここでは、PennyがHowardを投げ飛ばすことを想像して、アメフトボールを投げる時のように「きつい螺旋」をかけて投げると言っています。"
+    },
+    {
+      "id": 98,
+      "value": "insane",
+      "options": [
+        "正気",
+        "狂気",
+        "平静",
+        "冷静"
+      ],
+      "correctAnswer": "狂気",
+      "explanation": "「insane」は、正気でない、狂っているという意味です。常識から外れた行動や考えを指す際に使われます。\n\n例：It would be insane to drive that fast in this weather. (こんな天候でそんなに速く運転するのは狂気の沙汰だ。)"
+    },
+    {
+      "id": 99,
+      "value": "mini webcam",
+      "options": [
+        "小型ウェブカメラ",
+        "大型ウェブカメラ",
+        "高性能ウェブカメラ",
+        "低性能ウェブカメラ"
+      ],
+      "correctAnswer": "小型ウェブカメラ",
+      "explanation": "「mini webcam」は小型のウェブカメラのことです。"
+    },
+    {
+      "id": 100,
+      "value": "night janitor",
+      "options": [
+        "昼間清掃員",
+        "夜間清掃員",
+        "臨時の清掃員",
+        "特別な清掃員"
+      ],
+      "correctAnswer": "夜間清掃員",
+      "explanation": "「night janitor」は夜間清掃員のことです。"
+    }
+  ]
+}

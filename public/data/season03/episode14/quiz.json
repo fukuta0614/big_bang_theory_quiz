@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "fleeting peripheral image",
+      "options": [
+        "鮮明な中心画像",
+        "一瞬の周辺画像",
+        "詳細な分析画像",
+        "固定された主要画像"
+      ],
+      "correctAnswer": "一瞬の周辺画像",
+      "explanation": "「fleeting」は「つかの間の、一時的な」という意味で、「peripheral」は「周辺の、重要でない」という意味です。ここでは、問題解決のために、直接的ではなく、間接的な視点やアプローチを試みることを指しています。脳の普段使わない部分を刺激しようとしているニュアンスがあります。"
+    },
+    {
+      "id": 2,
+      "value": "engage",
+      "options": [
+        "無視する",
+        "妨害する",
+        "関与させる",
+        "隠蔽する"
+      ],
+      "correctAnswer": "関与させる",
+      "explanation": "「engage」は、「関与させる、引き込む」という意味です。ここでは、脳の特定の部分（superior colliculus）を活動させ、問題解決に役立てようとしていることを表しています。積極的に働きかけ、利用するというニュアンスが含まれます。"
+    },
+    {
+      "id": 3,
+      "value": "superior colliculus",
+      "options": [
+        "下丘",
+        "海馬",
+        "上丘",
+        "小脳"
+      ],
+      "correctAnswer": "上丘",
+      "explanation": "「superior colliculus」は「上丘」と訳され、脳の中脳に位置する構造です。主に視覚情報処理に関与し、動きの検出や空間認識に重要な役割を果たします。ここでは、シェルドンが普段とは違う視点を得るために、この脳の部位を活用しようとしています。"
+    },
+    {
+      "id": 4,
+      "value": "stuck",
+      "options": [
+        "解放された",
+        "前進した",
+        "行き詰まった",
+        "解決した"
+      ],
+      "correctAnswer": "行き詰まった",
+      "explanation": "「stuck」は「行き詰まった、動けない」という意味です。ここでは、シェルドンが研究で行き詰まり、解決策を見つけられずにいる状態を表しています。比喩的に、進展がない状態を示します。"
+    },
+    {
+      "id": 5,
+      "value": "runs around",
+      "options": [
+        "じっとしている",
+        "走り回る",
+        "隠れる",
+        "眠る"
+      ],
+      "correctAnswer": "走り回る",
+      "explanation": "「run around」は「走り回る、動き回る」という意味です。ここでは、シェルドンが夜中に落ち着きなく動き回っている様子を表しています。比喩的に、落ち着かない状態や、考えがまとまらない状態を表すこともあります。"
+    },
+    {
+      "id": 6,
+      "value": "isolating the terms",
+      "options": [
+        "項を結合する",
+        "項を無視する",
+        "項を分離する",
+        "項を複雑にする"
+      ],
+      "correctAnswer": "項を分離する",
+      "explanation": "「isolate」は「分離する、孤立させる」という意味です。ここでは、数式や問題の要素を一つ一つ取り出して、個別に検討している様子を表します。問題解決のための分析的なアプローチを示しています。"
+    },
+    {
+      "id": 7,
+      "value": "mock",
+      "options": [
+        "褒める",
+        "尊敬する",
+        "嘲る",
+        "励ます"
+      ],
+      "correctAnswer": "嘲る",
+      "explanation": "「mock」は「嘲る、馬鹿にする」という意味です。ここでは、レナードがシェルドンをからかう場面で使われています。親しい間柄での軽いからかいのニュアンスがあります。"
+    },
+    {
+      "id": 8,
+      "value": "coalesce",
+      "options": [
+        "崩壊する",
+        "凝集する",
+        "拡散する",
+        "蒸発する"
+      ],
+      "correctAnswer": "凝集する",
+      "explanation": "「coalesce」は「合体する、まとまる」という意味です。ここでは、シェルドンのアイデアや思考がまとまらず、形にならない状態を表しています。抽象的な概念が具体化されない状況を示唆します。"
+    },
+    {
+      "id": 9,
+      "value": "graphene",
+      "options": [
+        "グラニテ",
+        "グラフェン",
+        "グラハム",
+        "グラフィック"
+      ],
+      "correctAnswer": "グラフェン",
+      "explanation": "「graphene」は「グラフェン」という、炭素原子が六角形の格子状に結合したシート状の物質です。非常に高い電気伝導性や強度を持つことで知られています。シェルドンの研究テーマに関連する重要な物質です。"
+    },
+    {
+      "id": 10,
+      "value": "rebooting",
+      "options": [
+        "再起動",
+        "アップグレード",
+        "シャットダウン",
+        "初期化"
+      ],
+      "correctAnswer": "再起動",
+      "explanation": "「reboot」は「再起動する」という意味です。ここでは、シェルドンの思考が行き詰まっている状態をコンピュータに例え、再起動することで状況を打開しようとする比喩的な表現です。"
+    },
+    {
+      "id": 11,
+      "value": "firmware",
+      "options": [
+        "ハードウェア",
+        "ソフトウェア",
+        "ファームウェア",
+        "オペレーションシステム"
+      ],
+      "correctAnswer": "ファームウェア",
+      "explanation": "「firmware」は「ファームウェア」という、ハードウェアを制御するためのソフトウェアです。ここでは、シェルドンの思考の根本的な部分に問題があることを示唆しています。より深く、修正が難しい問題であることを暗示します。"
+    },
+    {
+      "id": 12,
+      "value": "up for",
+      "options": [
+        "反対している",
+        "興味がない",
+        "乗り気である",
+        "準備不足である"
+      ],
+      "correctAnswer": "乗り気である",
+      "explanation": "「up for」は「～する気がある、乗り気である」という意味です。ここでは、ディスコ・ナイトに一緒に行くことに興味があるかどうかを尋ねる際に使われています。カジュアルな場面でよく使われる表現です。"
+    },
+    {
+      "id": 13,
+      "value": "hocking",
+      "options": [
+        "説得する",
+        "強制する",
+        "提案する",
+        "命令する"
+      ],
+      "correctAnswer": "説得する",
+      "explanation": "「hock」は元々「質に入れる」という意味ですが、ここでは「しつこく勧める、説得する」という意味で使われています。バーナデットがハワードにローラー スケートに一緒に行くように何度も勧めている状況を表しています。"
+    },
+    {
+      "id": 14,
+      "value": "brown Yelp.com",
+      "options": [
+        "最新のレストラン",
+        "信頼できない情報源",
+        "役立たずなアドバイザー",
+        "口コミサイトの専門家"
+      ],
+      "correctAnswer": "口コミサイトの専門家",
+      "explanation": "Yelpは、レストランやお店のレビューサイトです。「Brown Yelp.com」は、Rajが自分が様々な情報を知っていて、案内役を買って出ることを自虐的に表現しています。少し皮肉なニュアンスが含まれています。"
+    },
+    {
+      "id": 15,
+      "value": "gone",
+      "options": [
+        "帰ってきた",
+        "集中している",
+        "上の空",
+        "疲れている"
+      ],
+      "correctAnswer": "上の空",
+      "explanation": "「gone」は「どこかに行ってしまっている、上の空」という意味です。ここでは、シェルドンが自分の研究に没頭しすぎて、周りの状況に気づいていない状態を表しています。現実から遊離しているようなニュアンスがあります。"
+    },
+    {
+      "id": 16,
+      "value": "stick of butter",
+      "options": [
+        "石鹸",
+        "口紅",
+        "バター",
+        "歯磨き粉"
+      ],
+      "correctAnswer": "バター",
+      "explanation": "「stick of butter」は「バター1本」という意味です。ここでは、シェルドンがバターをデオドラントの代わりに使ってしまうほど、現実離れしている様子を表しています。彼の異常な行動を強調する表現です。"
+    },
+    {
+      "id": 17,
+      "value": "fermions",
+      "options": [
+        "フェルミ粒子",
+        "ボソン粒子",
+        "中性子",
+        "光子"
+      ],
+      "correctAnswer": "フェルミ粒子",
+      "explanation": "「fermion」は「フェルミ粒子」という、素粒子の種類です。電子や陽子などが含まれます。シェルドンは、自分の研究に関連する物理学の概念を日常のものに当てはめて考えています。"
+    },
+    {
+      "id": 18,
+      "value": "grab a bite to eat",
+      "options": [
+        "一口食べる",
+        "食事を奢る",
+        "食事を軽く済ませる",
+        "食事をキャンセルする"
+      ],
+      "correctAnswer": "食事を軽く済ませる",
+      "explanation": "「grab a bite to eat」は「軽く食事をする、ちょっと食べる」という意味です。フォーマルな食事ではなく、カジュアルな食事を提案する際に使われます。気軽に食事に誘うニュアンスがあります。"
+    },
+    {
+      "id": 19,
+      "value": "coupons",
+      "options": [
+        "招待状",
+        "クーポン",
+        "メニュー",
+        "レシピ"
+      ],
+      "correctAnswer": "クーポン",
+      "explanation": "「coupon」は「クーポン」という意味です。ハワードの母親が倹約家であることを示すジョークとして使われています。日常会話でよく使われる単語です。"
+    },
+    {
+      "id": 20,
+      "value": "on your asses",
+      "options": [
+        "成功するように",
+        "幸せになるように",
+        "転ぶように",
+        "笑われるように"
+      ],
+      "correctAnswer": "転ぶように",
+      "explanation": "「fall on your ass」は「転ぶ」という意味のスラング表現です。ここでは、Rajがダブルデートを邪魔されたことへの不満を込めて、意地悪く「転んでしまえ」と言っています。親しい間柄で使われるカジュアルな表現です。"
+    },
+    {
+      "id": 21,
+      "value": "coccyxes",
+      "options": [
+        "膝",
+        "尾骨",
+        "肩",
+        "肘"
+      ],
+      "correctAnswer": "尾骨",
+      "explanation": "「coccyx」は「尾骨」という意味です。Rajが「尾骨を折ってしまえ」と言うのに対し、シェルドンが「coccyx」の複数形は「coccyges」だと指摘する場面です。シェルドンの知識をひけらかす性格を表しています。"
+    },
+    {
+      "id": 22,
+      "value": "structure",
+      "options": [
+        "無秩序",
+        "構造",
+        "崩壊",
+        "変化"
+      ],
+      "correctAnswer": "構造",
+      "explanation": "\"Structure\"は「構造、組織」という意味です。シェルドンはグラフェンの構造について考えており、この単語は彼の思考の中心的なテーマを表しています。彼は安定したパターンや秩序を求めていることがわかります。"
+    },
+    {
+      "id": 23,
+      "value": "unit cell",
+      "options": [
+        "細胞",
+        "単位胞",
+        "分子",
+        "原子"
+      ],
+      "correctAnswer": "単位胞",
+      "explanation": "\"Unit cell\"は「単位胞」という意味で、結晶構造を構成する最小の繰り返し単位です。シェルドンがグラフェンの研究で行き詰まっている状況で、この単語が登場することで、彼の研究内容の専門性が強調されています。"
+    },
+    {
+      "id": 24,
+      "value": "interior angle",
+      "options": [
+        "外角",
+        "内角",
+        "対角線",
+        "垂直線"
+      ],
+      "correctAnswer": "内角",
+      "explanation": "\"Interior angle\"は「内角」という意味です。シェルドンは六角形の内角について言及しており、彼の注意深さと細部へのこだわりを示しています。数学的な正確さを重視する彼の性格が表れています。"
+    },
+    {
+      "id": 25,
+      "value": "pathways",
+      "options": [
+        "迷路",
+        "経路",
+        "障壁",
+        "障害物"
+      ],
+      "correctAnswer": "経路",
+      "explanation": "\"Pathways\"は「経路、道筋」という意味です。ここでは、電子が移動する経路を指しており、シェルドンの研究内容を説明する上で重要な単語です。彼の思考が特定のルートを辿っていることを示唆しています。"
+    },
+    {
+      "id": 26,
+      "value": "lamer",
+      "options": [
+        "より賢い",
+        "より面白い",
+        "より下手な",
+        "より静かな"
+      ],
+      "correctAnswer": "より下手な",
+      "explanation": "「lame」は、不適切、下手、面白くないという意味のスラングです。特に、試みが失敗したり、冗談がつまらなかったりする状況で使われます。ここでは、ローラースケートやディスコダンスが「lame」だったと言っています。\n\n例：That joke was so lame. (その冗談はとてもつまらなかった。)"
+    },
+    {
+      "id": 27,
+      "value": "boogie zone",
+      "options": [
+        "瞑想状態",
+        "没頭状態",
+        "睡眠状態",
+        "混乱状態"
+      ],
+      "correctAnswer": "没頭状態",
+      "explanation": "「boogie」は、踊る、特に楽しく踊るという意味のスラングです。「boogie zone」は、踊りに夢中になっている状態、周りが見えなくなるほど楽しんでいる状態を指します。完全にダンスに没頭している様子を表します。\n\n例：When the music started, he was immediately in his boogie zone. (音楽が始まると、彼はすぐに踊りに没頭した。)"
+    },
+    {
+      "id": 28,
+      "value": "splits",
+      "options": [
+        "腕立て伏せ",
+        "逆立ち",
+        "開脚",
+        "腹筋"
+      ],
+      "correctAnswer": "開脚",
+      "explanation": "「splits」は、開脚、つまり脚を前後に180度開く体操の技です。柔軟性が必要な動きで、ここではHowardが開脚をしようとしたことを指しています。\n\n例：She can do the splits. (彼女は開脚ができる。)"
+    },
+    {
+      "id": 29,
+      "value": "coccyx",
+      "options": [
+        "尾てい骨",
+        "膝",
+        "肘",
+        "肩"
+      ],
+      "correctAnswer": "尾てい骨",
+      "explanation": "「coccyx」は、尾てい骨のことです。脊椎の最下部に位置する小さな骨で、転倒などで損傷することがあります。Leonardは転んで尾てい骨を痛めたと言っています。\n\n例：He fell and bruised his coccyx. (彼は転んで尾てい骨を痛めた。)"
+    },
+    {
+      "id": 30,
+      "value": "After you.",
+      "options": [
+        "お先にどうぞ",
+        "後で",
+        "あなたの後についていきます",
+        "あなたを追い越します"
+      ],
+      "correctAnswer": "お先にどうぞ",
+      "explanation": "「After you.」は、人に道を譲る際に使う丁寧な表現で、「お先にどうぞ」という意味です。ここでは、LeonardがPennyに先に通るように促しています。\n\n例：After you, madam. (奥様、お先にどうぞ。)"
+    },
+    {
+      "id": 31,
+      "value": "Good Lord!",
+      "options": [
+        "なんてことだ",
+        "素晴らしい",
+        "ありがとう",
+        "どういたしまして"
+      ],
+      "correctAnswer": "なんてことだ",
+      "explanation": "「Good Lord!」は、驚きや不快感を表す感嘆詞で、「なんてことだ！」という意味です。ここでは、PennyとLeonardが転んだことに対するSheldonの驚きを表しています。\n\n例：Good Lord! What a mess! (なんてことだ！ひどい有様だ！)"
+    },
+    {
+      "id": 32,
+      "value": "bark at",
+      "options": [
+        "優しく話す",
+        "大声で怒鳴る",
+        "ささやく",
+        "褒める"
+      ],
+      "correctAnswer": "大声で怒鳴る",
+      "explanation": "「bark at」は、犬が吠えるように、人に怒鳴る、きつく叱るという意味です。ここでは、LeonardがPennyに怒鳴らないように言っています。\n\n例：He barked at me for being late. (彼は私が遅刻したことで怒鳴った。)"
+    },
+    {
+      "id": 33,
+      "value": "graphene sheet",
+      "options": [
+        "グラフェンシート",
+        "カーボンシート",
+        "金属シート",
+        "プラスチックシート"
+      ],
+      "correctAnswer": "グラフェンシート",
+      "explanation": "「graphene sheet」は、グラフェンシートのことです。グラフェンは、炭素原子が六角形の格子状に結合したシート状の物質で、非常に高い電気伝導性を持つことで知られています。Sheldonはグラフェンシートの電子の挙動について研究しています。\n\n例：Graphene sheets are used in many electronic devices. (グラフェンシートは多くの電子機器に使用されている。)"
+    },
+    {
+      "id": 34,
+      "value": "swamp of unbalanced formulas",
+      "options": [
+        "バランスの取れた数式の海",
+        "複雑な数式の迷路",
+        "バランスの取れていない数式の沼",
+        "単純な数式の集まり"
+      ],
+      "correctAnswer": "バランスの取れていない数式の沼",
+      "explanation": "「swamp of unbalanced formulas」は、バランスが取れていない数式が大量にある状態、つまり複雑で解決が難しい問題を表す比喩的な表現です。Sheldonは自分の研究の現状をこのように表現しています。\n\n例：He was lost in a swamp of data. (彼はデータの沼に迷い込んでいた。)"
+    },
+    {
+      "id": 35,
+      "value": "squatteth",
+      "options": [
+        "座っている",
+        "立っている",
+        "隠れている",
+        "動いている"
+      ],
+      "correctAnswer": "座っている",
+      "explanation": "「squatteth」は、古語の「squat」の三人称単数現在形で、「座る」「潜む」という意味です。ここでは、「真実のヒキガエル」がどこに潜んでいるのか、という比喩的な表現で使われています。\n\n例：The cat squatteth near the mouse hole. (猫はネズミの穴の近くにうずくまっている。)"
+    },
+    {
+      "id": 36,
+      "value": "toad of truth",
+      "options": [
+        "真実の鏡",
+        "真実の言葉",
+        "真実のヒキガエル",
+        "真実の探求"
+      ],
+      "correctAnswer": "真実のヒキガエル",
+      "explanation": "「toad of truth」は、真実を象徴するヒキガエルという比喩的な表現です。Sheldonは、難解な数式の中に隠された真実をヒキガエルに例えています。これは、シェルドン独特の言い回しです。\n\n例：The toad of truth is often hard to find. (真実のヒキガエルを見つけるのは難しいことが多い。)"
+    },
+    {
+      "id": 37,
+      "value": "neuroreceptors",
+      "options": [
+        "神経伝達物質",
+        "神経受容体",
+        "神経細胞",
+        "神経回路"
+      ],
+      "correctAnswer": "神経受容体",
+      "explanation": "「neuroreceptors」は、神経受容体のことです。神経細胞の表面に存在し、神経伝達物質と結合して神経信号を伝達する役割を担います。睡眠不足は神経受容体に影響を与えます。\n\n例：Neuroreceptors are essential for brain function. (神経受容体は脳機能に不可欠である。)"
+    },
+    {
+      "id": 38,
+      "value": "serotonin",
+      "options": [
+        "アドレナリン",
+        "ドーパミン",
+        "セロトニン",
+        "メラトニン"
+      ],
+      "correctAnswer": "セロトニン",
+      "explanation": "「serotonin」は、セロトニンのことです。脳内の神経伝達物質の一つで、気分、睡眠、食欲などを調節する役割があります。睡眠不足はセロトニンの働きに影響を与えます。\n\n例：Serotonin deficiency can lead to depression. (セロトニン不足はうつ病につながる可能性がある。)"
+    },
+    {
+      "id": 39,
+      "value": "norepinephrine",
+      "options": [
+        "ノルエピネフリン",
+        "エンドルフィン",
+        "アセチルコリン",
+        "グルタミン酸"
+      ],
+      "correctAnswer": "ノルエピネフリン",
+      "explanation": "「norepinephrine」は、ノルエピネフリンのことです。脳内の神経伝達物質の一つで、注意力、集中力、覚醒度などを高める役割があります。睡眠不足はノルエピネフリンの働きに影響を与えます。\n\n例：Norepinephrine is involved in the body's stress response. (ノルエピネフリンは体のストレス反応に関与している。)"
+    },
+    {
+      "id": 40,
+      "value": "Impaired cognitive function",
+      "options": [
+        "改善された認知機能",
+        "低下した認知機能",
+        "安定した認知機能",
+        "未知の認知機能"
+      ],
+      "correctAnswer": "低下した認知機能",
+      "explanation": "「Impaired cognitive function」は、認知機能の低下という意味です。認知機能とは、記憶、注意、思考、判断などの知的機能のことで、睡眠不足によって認知機能が低下することがあります。\n\n例：Sleep deprivation can lead to impaired cognitive function. (睡眠不足は認知機能の低下につながる可能性がある。)"
+    },
+    {
+      "id": 41,
+      "value": "stubborn children",
+      "options": [
+        "素直な子供たち",
+        "頑固な子供たち",
+        "賢い子供たち",
+        "優しい子供たち"
+      ],
+      "correctAnswer": "頑固な子供たち",
+      "explanation": "「stubborn children」は、頑固な子供たちという意味です。Bernadetteは、Sheldonを子供のように扱っていることを示唆しています。\n\n例：Dealing with stubborn children can be challenging. (頑固な子供たちを相手にするのは難しいことがある。)"
+    },
+    {
+      "id": 42,
+      "value": "creeps me out",
+      "options": [
+        "落ち着かせる",
+        "イライラさせる",
+        "怖がらせる",
+        "喜ばせる"
+      ],
+      "correctAnswer": "怖がらせる",
+      "explanation": "「creep someone out」は、人をぞっとさせる、怖がらせるという意味のスラングです。Pennyは、Leonardの着信音が怖がらせると言っています。\n\n例：That movie really creeped me out. (あの映画は本当に怖かった。)"
+    },
+    {
+      "id": 43,
+      "value": "terrorizing the village",
+      "options": [
+        "村を活性化させる",
+        "村を美化する",
+        "村を恐怖に陥れる",
+        "村を助ける"
+      ],
+      "correctAnswer": "村を恐怖に陥れる",
+      "explanation": "「terrorizing the village」は、村を恐怖に陥れるという意味です。ここでは、LeonardがSheldonの行動を誇張して表現しています。\n\n例：The bully was terrorizing the neighborhood. (そのいじめっ子は近所を恐怖に陥れていた。)"
+    },
+    {
+      "id": 44,
+      "value": "no big deal",
+      "options": [
+        "大したことだ",
+        "大変なことだ",
+        "大したことない",
+        "重要なことだ"
+      ],
+      "correctAnswer": "大したことない",
+      "explanation": "「no big deal」は、大したことない、問題ないという意味の口語表現です。ここでは、警備員がSheldonの騒動を気に留めていないことを表しています。\n\n例：Don't worry about it, it's no big deal. (心配しないで、大したことじゃないよ。)"
+    },
+    {
+      "id": 45,
+      "value": "special",
+      "options": [
+        "特別な",
+        "普通の",
+        "簡単な",
+        "難しい"
+      ],
+      "correctAnswer": "特別な",
+      "explanation": "ここでは、警備員が「special」という言葉を使って、Sheldonのような特性を持つ人々、または特別なニーズを持つ子供を婉曲的に表現しています。直接的な表現を避け、配慮を示すために使われています。\n\n例：The school has a program for special needs children. (その学校には特別なニーズを持つ子供のためのプログラムがある。)"
+    },
+    {
+      "id": 46,
+      "value": "extra special",
+      "options": [
+        "少し特別",
+        "非常に特別",
+        "全く特別ではない",
+        "普通"
+      ],
+      "correctAnswer": "非常に特別",
+      "explanation": "ここでは、「extra special」という言葉を使って、Sheldonが他の「special」な子供たちよりもさらに特別な存在であることを強調しています。これは、Sheldonの特異な行動や才能をユーモラスに表現する意図があります。\n\n例：This cake is extra special because it's made with organic ingredients. (このケーキは有機材料で作られているので、特に特別です。)"
+    },
+    {
+      "id": 47,
+      "value": "day care center",
+      "options": [
+        "託児所",
+        "老人ホーム",
+        "病院",
+        "学校"
+      ],
+      "correctAnswer": "託児所",
+      "explanation": "「day care center」は、託児所のことです。Bernadetteの母親が違法な託児所を経営していたというジョークです。\n\n例：She takes her child to a day care center. (彼女は子供を託児所に預けている。)"
+    },
+    {
+      "id": 48,
+      "value": "Ringtone",
+      "options": [
+        "着信音",
+        "アラーム",
+        "通知",
+        "音楽"
+      ],
+      "correctAnswer": "着信音",
+      "explanation": "「ringtone」は、着信音のことです。ここでは、レナードの着信音がジョーカーの声であるという設定です。\n\n例：I changed my ringtone to my favorite song. (着信音を好きな曲に変えた。)"
+    },
+    {
+      "id": 49,
+      "value": "Ball pit",
+      "options": [
+        "砂場",
+        "ボールプール",
+        "滑り台",
+        "ブランコ"
+      ],
+      "correctAnswer": "ボールプール",
+      "explanation": "「ball pit」は、ボールプールのことです。子供向けの遊び場によくある、プラスチックのボールがたくさん入った場所です。シェルドンはボールプールにいるようです。\n\n例：Kids love playing in the ball pit. (子供たちはボールプールで遊ぶのが大好きだ。)"
+    },
+    {
+      "id": 50,
+      "value": "go to bed",
+      "options": [
+        "買い物に行く",
+        "仕事に行く",
+        "寝る",
+        "散歩に行く"
+      ],
+      "correctAnswer": "寝る",
+      "explanation": "「go to bed」は、寝るという意味です。睡眠不足のシェルドンに、ベルナデットが寝るように言っています。\n\n例：It's time to go to bed. (もう寝る時間だよ。)"
+    },
+    {
+      "id": 51,
+      "value": "visualize",
+      "options": [
+        "想像する",
+        "無視する",
+        "測定する",
+        "後悔する"
+      ],
+      "correctAnswer": "想像する",
+      "explanation": "「visualize」は、心に思い描く、視覚化するという意味です。比率が間違っているため、頭の中でうまく視覚化できなかったという文脈で使用されています。抽象的な概念やアイデアを具体的にイメージする際に使われます。"
+    },
+    {
+      "id": 52,
+      "value": "tumbler system",
+      "options": [
+        "量子システム",
+        "タンブラー錠",
+        "警報システム",
+        "排水システム"
+      ],
+      "correctAnswer": "タンブラー錠",
+      "explanation": "「tumbler system」は、タンブラー錠の仕組みを指します。ここでは、バックドアの施錠システムについて述べています。タンブラー錠は、特定のキーを使用しないと開かない構造を持つ一般的な錠の一種です。"
+    },
+    {
+      "id": 53,
+      "value": "child's play",
+      "options": [
+        "子供の遊び",
+        "大人の問題",
+        "高度な技術",
+        "深刻な事態"
+      ],
+      "correctAnswer": "子供の遊び",
+      "explanation": "「child's play」は、非常に簡単で容易なこと、朝飯前のことを意味するイディオムです。ここでは、バックドアのセキュリティシステムが簡単に突破できることを強調するために使われています。"
+    },
+    {
+      "id": 54,
+      "value": "for God's sakes",
+      "options": [
+        "神に感謝して",
+        "勘弁してくれ",
+        "神の思し召し",
+        "神に誓って"
+      ],
+      "correctAnswer": "勘弁してくれ",
+      "explanation": "「For God's sakes」は、いらだち、驚き、または懇願を表す際に使われる感嘆詞的な表現です。「お願いだから」「いい加減にしてくれ」といったニュアンスが含まれます。"
+    },
+    {
+      "id": 55,
+      "value": "bazinga",
+      "options": [
+        "こんにちは",
+        "やった",
+        "冗談だよ",
+        "さようなら"
+      ],
+      "correctAnswer": "冗談だよ",
+      "explanation": "「Bazinga」は、シェルドンが冗談を言った後に使うお決まりのフレーズです。「冗談だよ」「やったぜ」といった意味合いで、彼の特徴的なユーモアを表します。"
+    },
+    {
+      "id": 56,
+      "value": "barge in",
+      "options": [
+        "静かに訪問する",
+        "押し入る",
+        "招待する",
+        "手伝う"
+      ],
+      "correctAnswer": "押し入る",
+      "explanation": "「barge in」は、許可なく強引に、または無遠慮に立ち入るという意味です。ここでは、シェルドンがレオナルドとペニーの寝室に無断で入ってきた状況を表しています。"
+    },
+    {
+      "id": 57,
+      "value": "hopelessly stuck",
+      "options": [
+        "完全に解決した",
+        "絶望的に行き詰まった",
+        "楽観的に考えている",
+        "わずかに進展した"
+      ],
+      "correctAnswer": "絶望的に行き詰まった",
+      "explanation": "「hopelessly stuck」は、どうすることもできないほど行き詰まっている状態を意味します。解決策が見つからず、完全に手詰まりになっている状況を表します。"
+    },
+    {
+      "id": 58,
+      "value": "handle",
+      "options": [
+        "扱う",
+        "無視する",
+        "避ける",
+        "楽しむ"
+      ],
+      "correctAnswer": "扱う",
+      "explanation": "「handle」は、人や物事、状況をうまく処理する、対応するという意味です。ここでは、ペニーがレオナルドのルームメイトであるシェルドンにうまく対応できると言ったが、実際にはそうではなかったという文脈で使用されています。"
+    },
+    {
+      "id": 59,
+      "value": "absurd",
+      "options": [
+        "賢明だ",
+        "ばかげている",
+        "興味深い",
+        "当然だ"
+      ],
+      "correctAnswer": "ばかげている",
+      "explanation": "「absurd」は、理にかなっていない、ばかげている、不条理であるという意味です。ここでは、シェルドンが特許庁で働くことを提案された際に、その考えを否定するために使われています。"
+    },
+    {
+      "id": 60,
+      "value": "menial job",
+      "options": [
+        "重要な仕事",
+        "肉体労働の仕事",
+        "知的な仕事",
+        "退屈な仕事"
+      ],
+      "correctAnswer": "肉体労働の仕事",
+      "explanation": "「menial job」は、単純で退屈な、または重要でない仕事、つまり、下働き、雑用を意味します。シェルドンは、思考を巡らせるために、あえてこのような仕事を探そうとしています。"
+    },
+    {
+      "id": 61,
+      "value": "basal ganglia",
+      "options": [
+        "脳の基底核",
+        "消化器官",
+        "心臓血管",
+        "呼吸器官"
+      ],
+      "correctAnswer": "脳の基底核",
+      "explanation": "「basal ganglia」は、脳の基底核を指します。運動の制御、習慣の形成、感情などに重要な役割を果たす脳の領域です。ルーチンワークで基底核を占有することで、他の脳領域の活動を促そうとしています。"
+    },
+    {
+      "id": 62,
+      "value": "prefrontal cortex",
+      "options": [
+        "前頭前皮質",
+        "小脳",
+        "海馬",
+        "視床下部"
+      ],
+      "correctAnswer": "前頭前皮質",
+      "explanation": "「prefrontal cortex」は、前頭前皮質を指します。計画、意思決定、問題解決など、高次認知機能に関わる脳の領域です。ルーチンワークによって前頭前皮質を自由に働かせることが目的だと述べています。"
+    },
+    {
+      "id": 63,
+      "value": "proverbial",
+      "options": [
+        "ことわざの",
+        "革新的な",
+        "具体的な",
+        "科学的な"
+      ],
+      "correctAnswer": "ことわざの",
+      "explanation": "「proverbial」は、ことわざにもあるような、よく知られた、典型的なという意味です。ここでは、思考を刺激する「proverbial juices（ことわざにあるようなひらめき）」という表現で使われています。"
+    },
+    {
+      "id": 64,
+      "value": "menial",
+      "options": [
+        "高貴な",
+        "卑しい",
+        "創造的な",
+        "専門的な"
+      ],
+      "correctAnswer": "卑しい",
+      "explanation": "「menial」は、単純で退屈な、重要でないという意味です。ここでは、シェルドンが求職中の仕事について説明する際に、自分よりも「menial」な仕事を探していると述べています。"
+    },
+    {
+      "id": 65,
+      "value": "erect monuments",
+      "options": [
+        "記念碑を建てる",
+        "法律を制定する",
+        "建物を破壊する",
+        "像を崇拝する"
+      ],
+      "correctAnswer": "記念碑を建てる",
+      "explanation": "「erect monuments」は、記念碑や建造物を建設するという意味です。ここでは、古代の労働者たちが記念碑を建設するために苦労した状況を例えとして挙げています。"
+    },
+    {
+      "id": 66,
+      "value": "under the lash",
+      "options": [
+        "自由意志で",
+        "命令されて",
+        "褒められて",
+        "無視されて"
+      ],
+      "correctAnswer": "命令されて",
+      "explanation": "「under the lash」は、鞭の下で、つまり強制されて、厳しく管理されてという意味です。ここでは、古代の労働者たちが強制労働させられていた状況を表しています。"
+    },
+    {
+      "id": 67,
+      "value": "one with the dust",
+      "options": [
+        "汚れてしまう",
+        "埃を払う",
+        "死んで土に還る",
+        "綺麗好きになる"
+      ],
+      "correctAnswer": "死んで土に還る",
+      "explanation": "「one with the dust」は、死んで土に還る、つまり生命が終わることを意味する婉曲表現です。ここでは、労働者たちが過酷な労働の末に命を落とす様子を描写しています。"
+    },
+    {
+      "id": 68,
+      "value": "trudged",
+      "options": [
+        "スキップした",
+        "楽しんだ",
+        "歩き回った",
+        "よろめいた"
+      ],
+      "correctAnswer": "歩き回った",
+      "explanation": "「trudged」は、重い足取りで、または疲れてゆっくりと歩くという意味です。ここでは、労働者たちが埃まみれの道を重い足取りで歩いていた様子を表しています。"
+    },
+    {
+      "id": 69,
+      "value": "database",
+      "options": [
+        "図書館",
+        "データベース",
+        "連絡先",
+        "名簿"
+      ],
+      "correctAnswer": "データベース",
+      "explanation": "「database」は、組織化されたデータの集まりを指します。ここでは、アシスタントが求職者の情報を検索するためのデータベースを指しています。"
+    },
+    {
+      "id": 70,
+      "value": "eating out of a lunch pail",
+      "options": [
+        "高級レストランで食事をする",
+        "弁当箱で食事をする",
+        "ピクニックをする",
+        "自炊をする"
+      ],
+      "correctAnswer": "弁当箱で食事をする",
+      "explanation": "「eating out of a lunch pail」は、弁当箱から食事をするという意味です。これは、労働者階級の象徴的な行動であり、シェルドンが労働者としての体験を想像している場面で使われています。"
+    },
+    {
+      "id": 71,
+      "value": "perched precariously",
+      "options": [
+        "安全に座って",
+        "不安定な状態で腰掛けて",
+        "快適に過ごして",
+        "リラックスして"
+      ],
+      "correctAnswer": "不安定な状態で腰掛けて",
+      "explanation": "「perched precariously」は、不安定な場所に危なっかしく腰掛けている様子を表します。ここでは、建設作業員が高所の梁の上に不安定な状態で座っている状況を描写しています。"
+    },
+    {
+      "id": 72,
+      "value": "girder",
+      "options": [
+        "庭",
+        "梁",
+        "オフィス",
+        "家"
+      ],
+      "correctAnswer": "梁",
+      "explanation": "「girder」は、橋や建物の骨組みを支えるための大きな梁を指します。建設現場でよく見られる構造物であり、シェルドンが労働者としての体験を語る際に登場します。"
+    },
+    {
+      "id": 73,
+      "value": "metropolis",
+      "options": [
+        "田舎",
+        "大都市",
+        "村",
+        "砂漠"
+      ],
+      "correctAnswer": "大都市",
+      "explanation": "「metropolis」は、大規模で重要な都市、特にその地域の中心となる都市を指します。ここでは、高層ビルが立ち並ぶ大都市の風景を想像しています。"
+    },
+    {
+      "id": 74,
+      "value": "sheetrock",
+      "options": [
+        "岩",
+        "石膏ボード",
+        "金属",
+        "レンガ"
+      ],
+      "correctAnswer": "石膏ボード",
+      "explanation": "「sheetrock」は、石膏ボードを指します。建築材料の一種で、壁や天井の内装に使われます。ここでは、Rosemeadの住宅プロジェクトで石膏ボードを取り付ける作業を指しています。"
+    },
+    {
+      "id": 75,
+      "value": "housing project",
+      "options": [
+        "住宅プロジェクト",
+        "高級住宅地",
+        "商業施設",
+        "公園"
+      ],
+      "correctAnswer": "住宅プロジェクト",
+      "explanation": "「housing project」は、低所得者向けの住宅を建設するプロジェクトを指します。Rosemeadの住宅プロジェクトで働くことは、シェルドンが考えていたような華やかな労働体験とは異なることを示唆しています。"
+    },
+    {
+      "id": 76,
+      "value": "moving on",
+      "options": [
+        "出発する",
+        "次に進む",
+        "引っ越す",
+        "感動する"
+      ],
+      "correctAnswer": "次に進む",
+      "explanation": "「Moving on」は、話題を変える時や、困難な状況から立ち直る時に使われる一般的な表現です。文字通り「次に進む」という意味で、未練を残さずに前向きに進むニュアンスが含まれます。 例: \"Okay, moving on to the next topic.\" （さて、次の話題に移りましょう。）"
+    },
+    {
+      "id": 77,
+      "value": "acceptable",
+      "options": [
+        "容認できる",
+        "拒否できる",
+        "喜ばしい",
+        "不愉快"
+      ],
+      "correctAnswer": "容認できる",
+      "explanation": "「acceptable」は、許容範囲内である、または満足できるという意味です。必ずしも最高ではないものの、条件を満たしている状況を表します。例: \"The quality of the work was acceptable.\" （その仕事の質は容認できる範囲だった。）"
+    },
+    {
+      "id": 78,
+      "value": "layman's terms",
+      "options": [
+        "専門用語",
+        "法律用語",
+        "平易な言葉",
+        "業界用語"
+      ],
+      "correctAnswer": "平易な言葉",
+      "explanation": "「layman's terms」は、専門家ではない一般の人にも理解できるように、難しい専門用語を避けて簡単に説明することを意味します。例: \"Can you explain it in layman's terms?\" （それを素人にもわかるように説明してもらえますか？）"
+    },
+    {
+      "id": 79,
+      "value": "mind-numbing",
+      "options": [
+        "精神を高揚させる",
+        "頭を空っぽにする",
+        "精神を刺激する",
+        "心が安らぐ"
+      ],
+      "correctAnswer": "頭を空っぽにする",
+      "explanation": "「mind-numbing」は、非常に退屈で、思考力を奪うような状況や活動を指します。単調で繰り返しが多い作業などに使われることが多いです。例: \"The work was mind-numbing and repetitive.\" （その仕事は頭がぼーっとするほど単調で繰り返しだった。）"
+    },
+    {
+      "id": 80,
+      "value": "pedestrian",
+      "options": [
+        "革新的",
+        "平凡な",
+        "刺激的な",
+        "洗練された"
+      ],
+      "correctAnswer": "平凡な",
+      "explanation": "「pedestrian」は、ありふれていて面白みのない、平凡なものを指します。特にアイデアやスタイルが独創性に欠ける場合に使われます。例: \"The movie had a pedestrian plot.\" （その映画は平凡なプロットだった。）"
+    },
+    {
+      "id": 81,
+      "value": "conceivable",
+      "options": [
+        "想像できる",
+        "想像できない",
+        "理解できる",
+        "理解できない"
+      ],
+      "correctAnswer": "想像できる",
+      "explanation": "「conceivable」は、想像できる、考えられるという意味です。可能性が低い場合でも、理論上はあり得るというニュアンスを含みます。例: \"It's conceivable that he might be late.\" （彼が遅れることも考えられる。）"
+    },
+    {
+      "id": 82,
+      "value": "toll booth attendant",
+      "options": [
+        "料金所の管理人",
+        "空港の職員",
+        "レストランの店員",
+        "学校の先生"
+      ],
+      "correctAnswer": "料金所の管理人",
+      "explanation": "「toll booth attendant」は、有料道路の料金所で料金を徴収する係員のことです。単調な仕事の代表例として挙げられることがあります。例: \"He worked as a toll booth attendant for many years.\" （彼は長年料金所の管理人として働いていた。）"
+    },
+    {
+      "id": 83,
+      "value": "contribute to",
+      "options": [
+        "貢献する",
+        "妨げる",
+        "無視する",
+        "反対する"
+      ],
+      "correctAnswer": "貢献する",
+      "explanation": "「contribute to」は、何かの原因となる、または何かに貢献するという意味です。良い結果にも悪い結果にも使われます。例: \"Smoking contributes to lung cancer.\" （喫煙は肺がんの原因となる。）"
+    },
+    {
+      "id": 84,
+      "value": "devaluation",
+      "options": [
+        "評価",
+        "切り下げ",
+        "強化",
+        "安定"
+      ],
+      "correctAnswer": "切り下げ",
+      "explanation": "「devaluation」は、価値が下がることを意味します。通貨の価値が下がる場合や、名誉や評判が低下する場合など、様々な文脈で使用されます。例: \"The devaluation of the currency led to inflation.\" （通貨の切り下げがインフレを引き起こした。）"
+    },
+    {
+      "id": 85,
+      "value": "for the man",
+      "options": [
+        "自分のために",
+        "政府のために",
+        "会社のために",
+        "国民のために"
+      ],
+      "correctAnswer": "会社のために",
+      "explanation": "「working for the man」とは、会社や組織のために働くことを指す口語的な表現で、しばしば、自分の意志とは関係なく、組織のルールに従って働く状況を指します。例：\"I'm tired of working for the man. I want to start my own business.\" （会社のために働くのはうんざりだ。自分で事業を始めたい。）"
+    },
+    {
+      "id": 86,
+      "value": "epiphany",
+      "options": [
+        "無関心",
+        "悟り",
+        "混乱",
+        "絶望"
+      ],
+      "correctAnswer": "悟り",
+      "explanation": "「epiphany」は、突然のひらめきや悟りを意味します。重要な発見や理解が得られた瞬間に使われます。例: \"He had an epiphany and realized the answer to the problem.\" （彼はひらめきを得て、問題の答えに気づいた。）"
+    },
+    {
+      "id": 87,
+      "value": "degradation",
+      "options": [
+        "改善",
+        "悪化",
+        "安定",
+        "変化"
+      ],
+      "correctAnswer": "悪化",
+      "explanation": "「degradation」は、質や状態が悪化することを意味します。環境破壊、道徳的退廃、物質の劣化など、様々な文脈で使用されます。例: \"The degradation of the environment is a serious problem.\" （環境の悪化は深刻な問題だ。）"
+    },
+    {
+      "id": 88,
+      "value": "phenomenon",
+      "options": [
+        "日常",
+        "現象",
+        "理論",
+        "法則"
+      ],
+      "correctAnswer": "現象",
+      "explanation": "「phenomenon」は、観察または経験できる事柄や事実、特に珍しいまたは注目すべきものを指します。自然現象、社会現象など、様々な文脈で使用されます。例: \"The phenomenon of global warming is a major concern.\" （地球温暖化の現象は大きな懸念事項だ。）"
+    },
+    {
+      "id": 89,
+      "value": "congealed",
+      "options": [
+        "溶けた",
+        "凝固した",
+        "乾燥した",
+        "蒸発した"
+      ],
+      "correctAnswer": "凝固した",
+      "explanation": "「congealed」は、液体が冷えて固まる、凝固するという意味です。血液、脂肪、食品などが冷えて固まる様子を表します。例: \"The soup had congealed in the bowl.\" （スープはボウルの中で冷えて固まっていた。）"
+    },
+    {
+      "id": 90,
+      "value": "menial",
+      "options": [
+        "重要な",
+        "卑しい",
+        "創造的な",
+        "専門的な"
+      ],
+      "correctAnswer": "卑しい",
+      "explanation": "「menial」は、退屈で、スキルを必要としない、地位の低い仕事を指します。単純労働や雑用を意味することが多いです。例: \"He started with menial tasks and worked his way up.\" （彼は単純な仕事から始めて、徐々に昇進した。）"
+    },
+    {
+      "id": 91,
+      "value": "unconventional",
+      "options": [
+        "伝統的な",
+        "型破りな",
+        "一般的な",
+        "保守的な"
+      ],
+      "correctAnswer": "型破りな",
+      "explanation": "「unconventional」は、型にはまらない、従来の慣習や方法から逸脱しているという意味です。独創的で革新的なアイデアや行動を指すことがあります。例: \"He had an unconventional approach to solving the problem.\" （彼はその問題を解決するために型破りなアプローチをとった。）"
+    },
+    {
+      "id": 92,
+      "value": "zingy",
+      "options": [
+        "酸っぱい",
+        "元気の良い",
+        "甘い",
+        "苦い"
+      ],
+      "correctAnswer": "元気の良い",
+      "explanation": "「zingy」は、味がピリッとしていて刺激的な、または活気があり元気の良いという意味です。食べ物や飲み物の味、または人の性格や雰囲気を表すのに使われます。例: \"The sauce had a zingy flavor.\" （そのソースはピリッとした風味がした。）"
+    },
+    {
+      "id": 93,
+      "value": "bon appétit",
+      "options": [
+        "ありがとう",
+        "お元気で",
+        "おめでとう",
+        "召し上がれ"
+      ],
+      "correctAnswer": "召し上がれ",
+      "explanation": "「bon appétit」は、フランス語で「召し上がれ」という意味です。食事を提供する際や、食事が始まる前に使われる挨拶です。例: \"Bon appétit! I hope you enjoy the meal.\" （召し上がれ！食事を楽しんでください。）"
+    },
+    {
+      "id": 94,
+      "value": "melted down",
+      "options": [
+        "溶けた",
+        "崩壊した",
+        "成功した",
+        "成長した"
+      ],
+      "correctAnswer": "崩壊した",
+      "explanation": "「melt down」は、精神的にまたは感情的に崩壊することを意味します。強いストレスやプレッシャーによって、正常な状態を維持できなくなる状況を表します。例: \"He melted down after working long hours for weeks.\" （彼は何週間も長時間労働した後、精神的に崩壊した。）"
+    },
+    {
+      "id": 95,
+      "value": "shih tzu",
+      "options": [
+        "犬の種類",
+        "猫の種類",
+        "鳥の種類",
+        "魚の種類"
+      ],
+      "correctAnswer": "犬の種類",
+      "explanation": "「shih tzu」は、シーズーという犬の品種を指します。小型で愛玩犬として人気があります。例: \"She has a cute shih tzu named Coco.\" （彼女はココという名前のかわいいシーズーを飼っている。）"
+    },
+    {
+      "id": 96,
+      "value": "chipped in",
+      "options": [
+        "邪魔した",
+        "貢献した",
+        "無視した",
+        "反対した"
+      ],
+      "correctAnswer": "貢献した",
+      "explanation": "「chip in」は、お金や労力を出し合って、共同で何かを行うことを意味します。少額のお金を出し合う場合によく使われます。例: \"We all chipped in to buy a gift for her.\" （私たちは皆でお金を出し合って彼女にプレゼントを買った。）"
+    },
+    {
+      "id": 97,
+      "value": "swamped",
+      "options": [
+        "圧倒された",
+        "リラックスした",
+        "満足した",
+        "退屈した"
+      ],
+      "correctAnswer": "圧倒された",
+      "explanation": "「swamped」は、仕事やタスクが多すぎて処理しきれない、圧倒されるという意味です。非常に忙しい状況を表します。例: \"I'm swamped with work right now.\" （今、仕事で手一杯だ。）"
+    },
+    {
+      "id": 98,
+      "value": "interference pattern",
+      "options": [
+        "干渉縞",
+        "反射光",
+        "錯覚",
+        "乱気流"
+      ],
+      "correctAnswer": "干渉縞",
+      "explanation": "「interference pattern」は、物理学で、波が重なり合って強め合ったり弱め合ったりすることで生じる模様のことです。光、音、水などの波動現象で見られます。例: \"The oil slick on the water created an interesting interference pattern.\" （水面に浮いた油膜が面白い干渉縞を作り出した。）"
+    },
+    {
+      "id": 99,
+      "value": "fracture",
+      "options": [
+        "結合",
+        "亀裂",
+        "修復",
+        "形成"
+      ],
+      "correctAnswer": "亀裂",
+      "explanation": "「fracture」は、物体の割れ目、ひび、または骨折を意味します。物理的な損傷を表すことが多いです。例: \"The earthquake caused fractures in the building's foundation.\" （地震により、建物の基礎に亀裂が入った。）"
+    },
+    {
+      "id": 100,
+      "value": "troglodytes",
+      "options": [
+        "知識人",
+        "原始人",
+        "芸術家",
+        "哲学者"
+      ],
+      "correctAnswer": "原始人",
+      "explanation": "「troglodyte」は、洞窟に住む人、または原始的な人、野蛮人を指します。知性や教養が低い人を侮蔑的に表現する際に使われることがあります。例: \"Don't be such a troglodyte; learn some manners.\" （そんな野蛮なことをするな。礼儀をわきまえろ。）"
+    }
+  ]
+}

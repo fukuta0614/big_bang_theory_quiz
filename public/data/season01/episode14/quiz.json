@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "unmitigated",
+      "options": [
+        "緩和された",
+        "完全な",
+        "部分的な",
+        "誇張された"
+      ],
+      "correctAnswer": "完全な",
+      "explanation": "「unmitigated」は、否定的な意味合いを強める形容詞で、「和らげられていない」「緩和されていない」「全くの」という意味です。悪い状況や性質が完全にそのままであることを強調する際に用いられます。例：The project was an unmitigated disaster.（そのプロジェクトは完全な失敗だった。）"
+    },
+    {
+      "id": 2,
+      "value": "adjacent to",
+      "options": [
+        "反対側の",
+        "隣接する",
+        "遠く離れた",
+        "中心にある"
+      ],
+      "correctAnswer": "隣接する",
+      "explanation": "「adjacent to」は、「～に隣接している」「～のすぐそばにある」という意味です。物理的な近さを表す場合によく使用されます。例：The park is adjacent to the museum.（その公園は博物館に隣接している。）"
+    },
+    {
+      "id": 3,
+      "value": "culinary",
+      "options": [
+        "視覚的な",
+        "聴覚的な",
+        "料理の",
+        "科学的な"
+      ],
+      "correctAnswer": "料理の",
+      "explanation": "「culinary」は、「料理の」「台所の」という意味を持つ形容詞です。料理の技術や芸術、または料理に関連する事柄全般を指します。例：culinary school（料理学校）"
+    },
+    {
+      "id": 4,
+      "value": "auctioning off",
+      "options": [
+        "購入する",
+        "展示する",
+        "競売にかける",
+        "保管する"
+      ],
+      "correctAnswer": "競売にかける",
+      "explanation": "「auction off」は、「～を競売にかける」「～をオークションで売る」という意味の句動詞です。不要になった物や価値のある物を、最も高い価格をつけた人に売る行為を指します。例：They are auctioning off the old furniture.（彼らは古い家具を競売にかけている。）"
+    },
+    {
+      "id": 5,
+      "value": "spur of the moment",
+      "options": [
+        "計画的な",
+        "瞬間的な",
+        "長期的な",
+        "秘密の"
+      ],
+      "correctAnswer": "瞬間的な",
+      "explanation": "「spur of the moment」は、「衝動的な」「その場限りの」「成り行きの」という意味を持つイディオムです。計画や準備なしに、突然思い立って行動することを指します。例：We decided to go to the beach on the spur of the moment.（私たちは衝動的にビーチに行くことに決めた。）"
+    },
+    {
+      "id": 6,
+      "value": "swoop in",
+      "options": [
+        "ゆっくりと去る",
+        "急襲する",
+        "静かに待つ",
+        "諦める"
+      ],
+      "correctAnswer": "急襲する",
+      "explanation": "「swoop in」は、「急降下する」「さっと現れる」という意味の句動詞です。特に、機会を狙って素早く行動する様子を表します。例：The hawk swooped in and caught the mouse.（鷹が急降下してネズミを捕まえた。）"
+    },
+    {
+      "id": 7,
+      "value": "sniping",
+      "options": [
+        "交渉",
+        "監視",
+        "妨害",
+        "狙撃"
+      ],
+      "correctAnswer": "狙撃",
+      "explanation": "「snipe」は、もともと「狙撃する」という意味ですが、オークションなどの文脈では「終了間際に高額の入札をして落札すること」を指します。競争相手を出し抜く戦略として用いられます。例：He won the auction by sniping at the last second.（彼は最後の瞬間に狙撃することでオークションに勝利した。）"
+    },
+    {
+      "id": 8,
+      "value": "lucky duck",
+      "options": [
+        "不運な人",
+        "幸運な人",
+        "臆病な人",
+        "ずる賢い人"
+      ],
+      "correctAnswer": "幸運な人",
+      "explanation": "「lucky duck」は、「幸運な人」「ラッキーな人」という意味の口語的な表現です。羨望や親しみを込めて使われることが多いです。例：You lucky duck, you won the lottery!（宝くじに当たったなんて、君は本当にラッキーだな！）"
+    },
+    {
+      "id": 9,
+      "value": "memorabilia",
+      "options": [
+        "記憶",
+        "記録",
+        "記念品",
+        "法令"
+      ],
+      "correctAnswer": "記念品",
+      "explanation": "「memorabilia」は、「記念品」「思い出の品」という意味の名詞です。特定の出来事や人物に関連する品物を指し、コレクションの対象となることも多いです。例：sports memorabilia（スポーツの記念品）"
+    },
+    {
+      "id": 10,
+      "value": "time share",
+      "options": [
+        "共有する",
+        "時間を無駄にする",
+        "時間を稼ぐ",
+        "時間を守る"
+      ],
+      "correctAnswer": "共有する",
+      "explanation": "「time share」は、「タイムシェア」のことですが、ここでは「共有する」という意味で使われています。時間や物を共有して利用することを指します。例：We time-share a vacation home with another family.（私たちは別の家族と別荘をタイムシェアしている。）"
+    },
+    {
+      "id": 11,
+      "value": "tremendous",
+      "options": [
+        "わずかな",
+        "普通の",
+        "巨大な",
+        "退屈な"
+      ],
+      "correctAnswer": "巨大な",
+      "explanation": "「tremendous」は、「途方もない」「素晴らしい」「巨大な」という意味を持つ形容詞です。量、大きさ、程度などが非常に大きいことを表します。例：She has tremendous talent.（彼女は途方もない才能を持っている。）"
+    },
+    {
+      "id": 12,
+      "value": "works out to",
+      "options": [
+        "計算すると",
+        "うまくいかない",
+        "運動する",
+        "解決する"
+      ],
+      "correctAnswer": "計算すると",
+      "explanation": "「work out to」は、「計算すると～になる」「結果として～になる」という意味の句動詞です。数値や量を計算した結果を示す際に用いられます。例：The total cost works out to $100.（合計費用は計算すると100ドルになる。）"
+    },
+    {
+      "id": 13,
+      "value": "meaning to",
+      "options": [
+        "理解する",
+        "計画する",
+        "意味する",
+        "意図する"
+      ],
+      "correctAnswer": "意図する",
+      "explanation": "「be meaning to」は、「～しようと思っている」「～するつもりでいる」という意味の表現です。まだ実行していないが、近い将来に行う意図があることを示します。例：I've been meaning to call you.（あなたに電話しようと思っていました。）"
+    },
+    {
+      "id": 14,
+      "value": "remotely",
+      "options": [
+        "近くで",
+        "完全に",
+        "遠隔で",
+        "手動で"
+      ],
+      "correctAnswer": "遠隔で",
+      "explanation": "「remotely」は、「遠隔で」「遠く離れて」という意味の副詞です。物理的に離れた場所から操作や制御を行うことを指します。例：He controls the robot remotely.（彼はロボットを遠隔操作している。）"
+    },
+    {
+      "id": 15,
+      "value": "troubleshoot",
+      "options": [
+        "製造する",
+        "輸出する",
+        "輸入する",
+        "トラブルシューティングする"
+      ],
+      "correctAnswer": "トラブルシューティングする",
+      "explanation": "「troubleshoot」は、「（問題の）原因を究明する」「トラブルシューティングする」という意味の動詞です。問題の原因を特定し、解決策を見つけるプロセスを指します。例：We need to troubleshoot the computer system.（コンピュータシステムの問題を解決する必要がある。）"
+    },
+    {
+      "id": 16,
+      "value": "payloads",
+      "options": [
+        "積荷",
+        "燃料",
+        "乗客",
+        "通路"
+      ],
+      "correctAnswer": "積荷",
+      "explanation": "「payload」は、「積荷」「ペイロード」という意味の名詞です。特に、宇宙船や航空機が運ぶ貨物や機器などを指します。例：The satellite has a payload of scientific instruments.（その衛星には科学機器の積荷がある。）"
+    },
+    {
+      "id": 17,
+      "value": "front end alignment",
+      "options": [
+        "燃料補給",
+        "内部構造",
+        "車輪整列",
+        "外装交換"
+      ],
+      "correctAnswer": "車輪整列",
+      "explanation": "「front end alignment」は、「フロントエンドアライメント」「前輪整列」という意味です。自動車の前輪の角度を調整し、走行性能を最適化する作業を指します。ここでは、火星探査車の走行を調整する比喩として使われています。"
+    },
+    {
+      "id": 18,
+      "value": "give birth to",
+      "options": [
+        "殺す",
+        "破壊する",
+        "産む",
+        "創造する"
+      ],
+      "correctAnswer": "産む",
+      "explanation": "「give birth to」は、「～を産む」という意味ですが、ここでは比喩的に「（苦労して）何かを生み出す」という意味で使われています。非常に苦しい状況を表す誇張表現です。例：The project gave birth to many unexpected problems.（そのプロジェクトは多くの予期せぬ問題を生み出した。）"
+    },
+    {
+      "id": 19,
+      "value": "disaster",
+      "options": [
+        "成功",
+        "改善",
+        "災害",
+        "機会"
+      ],
+      "correctAnswer": "災害",
+      "explanation": "ここではひどい状態の料理を指す比喩として使われている。\n「disaster」は、「災害」「惨事」「大失敗」という意味の名詞です。予期せぬ出来事によって引き起こされる深刻な被害や混乱を表します。"
+    },
+    {
+      "id": 20,
+      "value": "basic",
+      "options": [
+        "複雑な",
+        "高度な",
+        "基本的な",
+        "追加の"
+      ],
+      "correctAnswer": "基本的な",
+      "explanation": "「basic」は、「基本的な」「基礎的な」「初歩的な」という意味の形容詞です。\n物事の最も重要な部分や要素を指し、理解や学習の出発点となる概念を表します。"
+    },
+    {
+      "id": 21,
+      "value": "figured",
+      "options": [
+        "理解した",
+        "計算した",
+        "忘れた",
+        "無視した"
+      ],
+      "correctAnswer": "理解した",
+      "explanation": "「figure」は、ここでは「～と思う」「～と判断する」という意味の動詞として使われています。\n推測や判断の根拠が必ずしも明確でない場合に使われ、話し手の主観的な考えを表します。"
+    },
+    {
+      "id": 22,
+      "value": "intersection",
+      "options": [
+        "分離",
+        "結合",
+        "交差点",
+        "平行"
+      ],
+      "correctAnswer": "交差点",
+      "explanation": "「intersection」は、「交差点」「共通部分」という意味の名詞です。\nここではベン図における集合の共通部分を指し、複数の条件や特性が重なり合う部分を表しています。"
+    },
+    {
+      "id": 23,
+      "value": "bargain",
+      "options": [
+        "協定",
+        "取引",
+        "高価",
+        "安売り"
+      ],
+      "correctAnswer": "安売り",
+      "explanation": "「bargain」は、「掘り出し物」「お買い得品」という意味の名詞です。\n通常よりも低い価格で手に入る価値のある物を指し、お得感や満足感を伴います。"
+    },
+    {
+      "id": 24,
+      "value": "fit",
+      "options": [
+        "壊れる",
+        "修理する",
+        "適合する",
+        "拒否する"
+      ],
+      "correctAnswer": "適合する",
+      "explanation": "「fit」は、「適合する」「一致する」「入る」という意味の動詞です。\nここでは物理的な空間に物が収まるかどうかを指し、サイズや形状が適切であることを表します。"
+    },
+    {
+      "id": 25,
+      "value": "regular basis",
+      "options": [
+        "たまに",
+        "不定期に",
+        "定期的に",
+        "初めて"
+      ],
+      "correctAnswer": "定期的に",
+      "explanation": "「regular basis」は、「定期的に」「規則的に」「日常的に」という意味の副詞句です。\n一定の間隔や頻度で物事が行われることを表し、習慣性や継続性を示唆します。"
+    },
+    {
+      "id": 26,
+      "value": "subject to vertigo",
+      "options": [
+        "めまいを起こしやすい",
+        "高血圧",
+        "運動不足",
+        "視力低下"
+      ],
+      "correctAnswer": "めまいを起こしやすい",
+      "explanation": "\"vertigo\"はめまいという意味で、\"subject to vertigo\"は「めまいを起こしやすい」状態を指します。高所恐怖症の人や、平衡感覚が弱い人に使われます。例えば、「I'm subject to vertigo, so I can't look down from high places.（私はめまいを起こしやすいので、高い場所から下を見ることができません。）」のように使われます。"
+    },
+    {
+      "id": 27,
+      "value": "For what it's worth",
+      "options": [
+        "価値がない",
+        "参考までに",
+        "重要なことだが",
+        "意味が分からない"
+      ],
+      "correctAnswer": "参考までに",
+      "explanation": "「For what it's worth」は、「それがどの程度の価値を持つかはわからないが、参考までに」という意味合いで使われます。自分の意見や情報を控えめに伝えたい時に便利です。例えば、議論の際に自分の意見を述べる前に「For what it's worth, I think we should consider this option.（参考までに、この選択肢も検討すべきだと思います。）」のように使います。"
+    },
+    {
+      "id": 28,
+      "value": "chick magnets",
+      "options": [
+        "女性にモテるもの",
+        "磁石",
+        "鶏を惹きつけるもの",
+        "子供のおもちゃ"
+      ],
+      "correctAnswer": "女性にモテるもの",
+      "explanation": "\"chick magnet\"は、俗語で「女性にモテるもの、女性を引きつける魅力的なもの」を指します。外見、財産、才能など、女性が興味を持つあらゆるものが該当します。例えば、「That sports car is a real chick magnet.（あのスポーツカーは本当に女性にモテる。）」のように使われます。"
+    },
+    {
+      "id": 29,
+      "value": "Stuff that in your speedos",
+      "options": [
+        "水着に詰め込む",
+        "自慢する",
+        "忘れてください",
+        "気にしないで"
+      ],
+      "correctAnswer": "自慢する",
+      "explanation": "「Stuff that in your speedos」は、相手の自慢話や自慢の持ち物に対して、それを上回るものを自分が持っているとアピールする、挑発的な表現です。相手をからかうようなニュアンスが含まれます。例えば、友人が新しい車を買ったと自慢してきた時に、「I have a time machine, stuff that in your speedos!（俺はタイムマシンを持っているぞ、自慢にならないだろ！）」のように使います。"
+    },
+    {
+      "id": 30,
+      "value": "practicality dictates",
+      "options": [
+        "実用性が指示する",
+        "非現実的である",
+        "理論が優先される",
+        "感情が支配する"
+      ],
+      "correctAnswer": "実用性が指示する",
+      "explanation": "\"practicality dictates\"は、「実用性・現実的な観点から考えると〜が妥当である」という意味合いで使われます。理論や理想よりも、現実的な都合を優先する場合に使われる表現です。例えば、「While it would be ideal to offer everyone a raise, practicality dictates that we must first focus on improving our profits.（全員に昇給するのが理想だが、実用的に考えると、まずは利益改善に注力すべきだ。）」のように使います。"
+    },
+    {
+      "id": 31,
+      "value": "lame",
+      "options": [
+        "かっこいい",
+        "つまらない",
+        "おいしい",
+        "難しい"
+      ],
+      "correctAnswer": "つまらない",
+      "explanation": "\"lame\"は、スラングで「つまらない、ダサい、ありきたりな」という意味です。期待外れだったり、魅力に欠けるものに対して使われます。例えば、「That movie was so lame.（あの映画はとてもつまらなかった。）」のように使われます。"
+    },
+    {
+      "id": 32,
+      "value": "ground rules",
+      "options": [
+        "基本的なルール",
+        "土地のルール",
+        "グラウンドのルール",
+        "秘密のルール"
+      ],
+      "correctAnswer": "基本的なルール",
+      "explanation": "\"ground rules\"は、「基本的なルール、前提となる規則」という意味です。議論や活動を始める前に、全員が合意しておくべきルールを指します。例えば、会議の始めに「Let's establish some ground rules for this meeting.（この会議の基本的なルールを決めましょう。）」のように使われます。"
+    },
+    {
+      "id": 33,
+      "value": "bi-monthly",
+      "options": [
+        "2ヶ月に1度",
+        "月に2度",
+        "毎日",
+        "毎週"
+      ],
+      "correctAnswer": "2ヶ月に1度",
+      "explanation": "\"bi-monthly\"は、意味が曖昧な単語で、「2ヶ月に1度」または「月に2度」という意味で使用されることがあります。文脈によって意味が異なるため、誤解を避けるために具体的な頻度を明示することが推奨されます。例えば、「We have a bi-monthly meeting.（2ヶ月に1度の会議があります。）」または「We publish a bi-monthly magazine.（月に2回雑誌を発行しています。）」のように使われます。"
+    },
+    {
+      "id": 34,
+      "value": "ambiguous term",
+      "options": [
+        "明確な言葉",
+        "曖昧な言葉",
+        "難しい言葉",
+        "新しい言葉"
+      ],
+      "correctAnswer": "曖昧な言葉",
+      "explanation": "\"ambiguous term\"は、「曖昧な言葉、複数の解釈が可能な表現」という意味です。意図が不明確で、誤解を招く可能性がある言葉を指します。例えば、「The term 'bi-monthly' is an ambiguous term, so it's important to clarify its meaning.（'bi-monthly'という言葉は曖昧なので、その意味を明確にすることが重要です。）」のように使われます。"
+    },
+    {
+      "id": 35,
+      "value": "something's up",
+      "options": [
+        "何かが起こっている",
+        "何もない",
+        "調子が良い",
+        "準備完了"
+      ],
+      "correctAnswer": "何かが起こっている",
+      "explanation": "\"something's up\"は、「何かがおかしい、何かが起こっている」という意味の口語表現です。普段と違う様子や、何か秘密めいた雰囲気を感じた時に使います。例えば、「He's been acting strange lately. I think something's up.（彼は最近様子がおかしい。何か起こっていると思う。）」のように使われます。"
+    },
+    {
+      "id": 36,
+      "value": "cloaking device",
+      "options": [
+        "透明化装置",
+        "掃除機",
+        "通信機器",
+        "武器"
+      ],
+      "correctAnswer": "透明化装置",
+      "explanation": "\"cloaking device\"は、主にSF作品で使われる用語で、「透明化装置、隠蔽装置」という意味です。物体や宇宙船を不可視にするための技術を指します。例えば、スタートレックに登場するロミュランの宇宙船は、クローキングデバイスを備えています。"
+    },
+    {
+      "id": 37,
+      "value": "pre-federation reckoning",
+      "options": [
+        "連邦成立前の計算",
+        "現代の計算",
+        "未来の計算",
+        "素早い計算"
+      ],
+      "correctAnswer": "連邦成立前の計算",
+      "explanation": "\"pre-federation reckoning\"は、「連邦成立前の暦（または計算方法）」という意味です。特定のSF作品（例：スタートレック）の設定において、宇宙連邦が成立する以前の時代に使われていた暦や時間計算の方法を指します。"
+    },
+    {
+      "id": 38,
+      "value": "skinned my knee",
+      "options": [
+        "膝を擦りむいた",
+        "膝を骨折した",
+        "膝を手術した",
+        "膝を治療した"
+      ],
+      "correctAnswer": "膝を擦りむいた",
+      "explanation": "\"skinned my knee\"は、「膝を擦りむいた」という意味です。転んだり、何かにぶつかったりして、皮膚が剥がれた状態を指します。例えば、「I fell while running and skinned my knee.（走っている時に転んで膝を擦りむいた。）」のように使われます。"
+    },
+    {
+      "id": 39,
+      "value": "fix me up with",
+      "options": [
+        "修理する",
+        "紹介する",
+        "取り壊す",
+        "取り替える"
+      ],
+      "correctAnswer": "紹介する",
+      "explanation": "\"fix someone up with someone\"は、「（誰か）を（誰か）と紹介する、お見合いさせる」という意味です。誰かと誰かを恋人候補として引き合わせる状況で使われます。例えば、「My friend is trying to fix me up with her brother.（友達が私を彼女の兄弟と紹介しようとしている。）」のように使われます。"
+    },
+    {
+      "id": 40,
+      "value": "given my shift away",
+      "options": [
+        "シフトを譲った",
+        "シフトを奪われた",
+        "シフトを交換した",
+        "シフトを増やした"
+      ],
+      "correctAnswer": "シフトを奪われた",
+      "explanation": "\"given my shift away\"は、「自分のシフトを（他の人に）与えられた、奪われた」という意味です。主に仕事の場面で、自分の働くはずだった時間帯を他の人に割り当てられた状況を指します。この場合、多くは自分の意思に反してそうなったニュアンスが含まれます。例えば、「I was late for work, and they had already given my shift away.（仕事に遅刻したら、すでに私のシフトは他の人に与えられていた。）」のように使われます。"
+    },
+    {
+      "id": 41,
+      "value": "no matter how fast you go",
+      "options": [
+        "どれだけ早く行っても",
+        "どんな道を通っても",
+        "どんなに急いでも",
+        "どんなにゆっくり行っても"
+      ],
+      "correctAnswer": "どれだけ早く行っても",
+      "explanation": "\"no matter how fast you go\"は、「どれだけ早く行っても、どんなにスピードを上げても」という意味です。努力や速度に関わらず結果が変わらないことを強調する際に使われます。例えば、「No matter how fast you go, you can't escape your destiny.（どれだけ早く行っても、運命からは逃れられない。）」のように使われます。"
+    },
+    {
+      "id": 42,
+      "value": "Take a break",
+      "options": [
+        "休憩する",
+        "壊す",
+        "盗む",
+        "攻撃する"
+      ],
+      "correctAnswer": "休憩する",
+      "explanation": "\"Take a break\"は、「休憩する、一休みする」という意味です。仕事や作業などを一時的に中断して、リラックスする際に使われます。例えば、「Let's take a break and grab some coffee.（休憩してコーヒーでも飲みましょう。）」のように使われます。"
+    },
+    {
+      "id": 43,
+      "value": "running really late",
+      "options": [
+        "非常に遅れている",
+        "非常に早く走る",
+        "非常に疲れている",
+        "非常に元気である"
+      ],
+      "correctAnswer": "非常に遅れている",
+      "explanation": "\"running really late\"は、「非常に遅れている、大幅に遅刻している」という意味です。予定の時間に間に合わない状況を強調する際に使われます。例えば、「I'm running really late for my appointment.（私は予約に非常に遅れています。）」のように使われます。"
+    },
+    {
+      "id": 44,
+      "value": "hop over",
+      "options": [
+        "飛び越える",
+        "ゆっくり歩く",
+        "立ち止まる",
+        "振り返る"
+      ],
+      "correctAnswer": "飛び越える",
+      "explanation": "\"hop over\"は、「飛び越える、軽く飛び越える」という意味です。障害物や境界線を越える際に使われます。例えば、「You can hop over the fence to get to the other side.（フェンスを飛び越えて向こう側に行けます。）」のように使われます。"
+    },
+    {
+      "id": 45,
+      "value": "never mind",
+      "options": [
+        "気にしないで",
+        "忘れないで",
+        "覚えておいて",
+        "重要である"
+      ],
+      "correctAnswer": "気にしないで",
+      "explanation": "\"never mind\"は、「気にしないで、忘れてください」という意味です。言ったことを取り消したり、相手に気にしなくて良いと伝える際に使われます。例えば、「I was going to say something, but never mind.（何か言おうとしたけど、気にしないで。）」のように使われます。"
+    },
+    {
+      "id": 46,
+      "value": "throw up",
+      "options": [
+        "投げる",
+        "構築する",
+        "吐く",
+        "諦める"
+      ],
+      "correctAnswer": "吐く",
+      "explanation": "\"throw up\"は、「吐く、嘔吐する」という意味です。体調が悪い時や、何かを我慢できない時に使われます。例えば、「I ate something bad and had to throw up.（何か悪いものを食べて吐かなければならなかった。）」のように使われます。"
+    },
+    {
+      "id": 47,
+      "value": "by far",
+      "options": [
+        "はるかに",
+        "近くに",
+        "遠くに",
+        "ほとんど"
+      ],
+      "correctAnswer": "はるかに",
+      "explanation": "\"by far\"は、「はるかに、断然」という意味です。比較級や最上級を強調する際に使われます。例えば、「This is by far the best movie I've ever seen.（これは私が今まで見た中で断然最高の映画です。）」のように使われます。"
+    },
+    {
+      "id": 48,
+      "value": "Talk about your",
+      "options": [
+        "話してください",
+        "〜について言えば",
+        "沈黙してください",
+        "忘れてください"
+      ],
+      "correctAnswer": "〜について言えば",
+      "explanation": "\"Talk about your\"は、「〜について言えば、〜といえば」という意味です。話題を導入したり、特定の事柄について言及する際に使われます。例えば、「Talk about your bad luck! I lost my wallet and my keys in the same day.（不運について言えば！同じ日に財布と鍵をなくした。）」のように使われます。"
+    },
+    {
+      "id": 49,
+      "value": "point",
+      "options": [
+        "要点",
+        "場所",
+        "時間",
+        "数"
+      ],
+      "correctAnswer": "要点",
+      "explanation": "ここでは、\"point\"は「（議論や意見の）要点、主張」という意味です。誰かの発言や考えが理にかなっていることを認める際に使われます。例えば、「He makes a good point about the budget.（彼は予算について良い点を述べている。）」のように使われます。"
+    },
+    {
+      "id": 50,
+      "value": "end up in",
+      "options": [
+        "結局〜になる",
+        "開始する",
+        "終了する",
+        "無視する"
+      ],
+      "correctAnswer": "結局〜になる",
+      "explanation": "\"end up in\"は、「結局〜になる、最終的に〜にたどり着く」という意味です。意図していなかった結果や場所に到達する状況を表します。例えば、「If you don't study, you'll end up in failing the exam.（勉強しないと、結局試験に落ちることになる。）」のように使われます。"
+    },
+    {
+      "id": 51,
+      "value": "pathetic",
+      "options": [
+        "同情的な",
+        "感動的な",
+        "哀れな",
+        "熱狂的な"
+      ],
+      "correctAnswer": "哀れな",
+      "explanation": "「pathetic」は、哀れで無力な様子、または価値がない、不十分であることを表します。人や状況に対して軽蔑や嘲笑のニュアンスを伴うこともあります。\n\n例：He looked so pathetic standing in the rain. (彼は雨の中に立っていてとても哀れに見えた。)"
+    },
+    {
+      "id": 52,
+      "value": "ergo",
+      "options": [
+        "それゆえに",
+        "たとえば",
+        "それにもかかわらず",
+        "したがって"
+      ],
+      "correctAnswer": "それゆえに",
+      "explanation": "「ergo」は、ラテン語由来の言葉で、「したがって」「それゆえに」という意味を持ちます。論理的な結論や推論を示す際に、やや形式ばった文脈で使用されます。\n\n例：He is rich; ergo, he can afford it. (彼は金持ちだ。それゆえに、彼はそれを買う余裕がある。)"
+    },
+    {
+      "id": 53,
+      "value": "paradox",
+      "options": [
+        "模範",
+        "逆説",
+        "幸運",
+        "解決策"
+      ],
+      "correctAnswer": "逆説",
+      "explanation": "「paradox」は、一見すると矛盾しているように見えるが、よく考えると真実を含んでいる可能性のある言説や状況を指します。論理的な思考を刺激するために用いられます。\n\n例：The more you learn, the more you realize how little you know - it's a paradox. (学べば学ぶほど、自分がどれだけ知らないかに気づく - それは逆説だ。)"
+    },
+    {
+      "id": 54,
+      "value": "demeanour",
+      "options": [
+        "態度",
+        "才能",
+        "服装",
+        "食事"
+      ],
+      "correctAnswer": "態度",
+      "explanation": "「demeanor」は、人の振る舞いや態度、特に他人に対する外見上の態度を指します。フォーマルな文脈で使われることが多いです。\n\n例：His calm demeanor helped to defuse the tense situation. (彼の落ち着いた態度は、緊迫した状況を和らげるのに役立った。)"
+    },
+    {
+      "id": 55,
+      "value": "irritability",
+      "options": [
+        "集中力",
+        "協調性",
+        "明朗性",
+        "過敏性"
+      ],
+      "correctAnswer": "過敏性",
+      "explanation": "「irritability」は、いらいらしたり、怒りやすかったりする状態を指します。身体的または精神的な不快感によって引き起こされることが多いです。\n\n例：Lack of sleep can lead to irritability. (睡眠不足はイライラの原因となることがある。)"
+    },
+    {
+      "id": 56,
+      "value": "pick up on",
+      "options": [
+        "無視する",
+        "理解する",
+        "改善する",
+        "批判する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「pick up on」は、気づく、理解する、察知するという意味のイディオムです。特に、はっきりと明示されていないことや、微妙なニュアンスを理解する際に用いられます。\n\n例：She quickly picked up on his nervousness. (彼女はすぐに彼の緊張に気づいた。)"
+    },
+    {
+      "id": 57,
+      "value": "woo",
+      "options": [
+        "拒否する",
+        "悩ます",
+        "口説く",
+        "無視する"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「woo」は、誰かの愛情を得ようと努力する、特に恋愛関係において相手を口説くという意味です。古風な表現ですが、今でも使われます。\n\n例：He tried to woo her with flowers and chocolates. (彼は花とチョコレートで彼女を口説こうとした。)"
+    },
+    {
+      "id": 58,
+      "value": "predates",
+      "options": [
+        "予測する",
+        "先行する",
+        "重要視する",
+        "軽視する"
+      ],
+      "correctAnswer": "先行する",
+      "explanation": "「predate」は、ある出来事や時期よりも前に存在するという意味です。時間的な順序を示す際に用いられます。\n\n例：This artifact predates the Roman Empire. (この工芸品はローマ帝国よりも前に作られた。)"
+    },
+    {
+      "id": 59,
+      "value": "premise",
+      "options": [
+        "結論",
+        "前提",
+        "証拠",
+        "結果"
+      ],
+      "correctAnswer": "前提",
+      "explanation": "「premise」は、議論や推論の基礎となる前提や仮定を指します。論理的な議論を展開する上で重要な要素です。\n\n例：The entire argument rests on a flawed premise. (その議論全体は、欠陥のある前提に基づいている。)"
+    },
+    {
+      "id": 60,
+      "value": "absurd",
+      "options": [
+        "明確な",
+        "妥当な",
+        "ばかげた",
+        "魅力的な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「absurd」は、非常識でばかげている、または論理や理由に反するという意味です。不条理な状況や考えを表現する際に用いられます。\n\n例：It's absurd to think that he would agree to such a thing. (彼がそんなことに同意すると思うのはばかげている。)"
+    },
+    {
+      "id": 61,
+      "value": "off",
+      "options": [
+        "休止して",
+        "開始して",
+        "終了して",
+        "加速して"
+      ],
+      "correctAnswer": "休止して",
+      "explanation": "セリフの（off）は、舞台や画面の外からの声であることを示します。"
+    },
+    {
+      "id": 62,
+      "value": "give birth to",
+      "options": [
+        "隠蔽する",
+        "生み出す",
+        "破壊する",
+        "無視する"
+      ],
+      "correctAnswer": "生み出す",
+      "explanation": "ここでは比喩的な表現で、強い力を加えることで何かが起こる、または比喩的に「生み出す」という意味で使われています。文字通りの意味ではなく、ユーモラスな誇張表現です。\n\n例：Hard work gave birth to new opportunities. (ハードワークは新たな機会を生み出した。)"
+    },
+    {
+      "id": 63,
+      "value": "neat",
+      "options": [
+        "汚い",
+        "だらしない",
+        "きちんとした",
+        "退屈な"
+      ],
+      "correctAnswer": "きちんとした",
+      "explanation": "ここでは「すごい」「いいね」といった意味合いで使われています。本来の意味の「きちんとした」から派生して、肯定的な感情を表す口語表現です。\n\n例：That's a neat idea! (それはすごいアイデアだね！)"
+    },
+    {
+      "id": 64,
+      "value": "hang on",
+      "options": [
+        "あきらめる",
+        "続ける",
+        "手放す",
+        "依存する"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "ここでは「待って」や「つかまって」という意味で使われています。危険な状況で相手に指示を出す際に使われる一般的な表現です。\n\n例：Hang on tight! (しっかりつかまって！)"
+    },
+    {
+      "id": 65,
+      "value": "descend",
+      "options": [
+        "上昇する",
+        "下降する",
+        "水平移動する",
+        "停止する"
+      ],
+      "correctAnswer": "下降する",
+      "explanation": "「descend」は、下る、降りる、という意味です。物理的な下降だけでなく、比喩的に状態が悪化する、地位が下がるという意味でも使われます。\n\n例：The plane began to descend. (飛行機は降下し始めた。)"
+    },
+    {
+      "id": 66,
+      "value": "collectibles",
+      "options": [
+        "分配品",
+        "収集品",
+        "消耗品",
+        "仕分け品"
+      ],
+      "correctAnswer": "収集品",
+      "explanation": "「collectibles」は、収集価値のある品物、コレクターズアイテムを指します。趣味や投資の対象となることが多いです。\n\n例：He has a large collection of vintage collectibles. (彼はヴィンテージの収集品をたくさん持っている。)"
+    },
+    {
+      "id": 67,
+      "value": "lox",
+      "options": [
+        "ハム",
+        "チーズ",
+        "スモークサーモン",
+        "卵"
+      ],
+      "correctAnswer": "スモークサーモン",
+      "explanation": "「lox」は、塩漬けまたは塩水漬けにしたスモークサーモンのことです。特にユダヤ系のデリでよく提供され、ベーグルと一緒に食べられることが多いです。\n\n例：I'll have a bagel with lox and cream cheese. (ベーグルにスモークサーモンとクリームチーズをください。)"
+    },
+    {
+      "id": 68,
+      "value": "terrific",
+      "options": [
+        "恐ろしい",
+        "ひどい",
+        "素晴らしい",
+        "退屈な"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、非常に素晴らしい、素晴らしい、という意味です。肯定的な感情を強調する際に用いられます。\n\n例：That's a terrific idea! (それは素晴らしいアイデアだ！)"
+    },
+    {
+      "id": 69,
+      "value": "spidey-sense",
+      "options": [
+        "第六感",
+        "危機感",
+        "方向感覚",
+        "正義感"
+      ],
+      "correctAnswer": "第六感",
+      "explanation": "ここでは、スパイダーマンの能力である「スパイダーセンス」を指し、転じて「第六感」「虫の知らせ」のような意味合いで使われています。何か良くないことが起こる予感を指す際に用いられる口語表現です。\n\n例：My spidey-sense is tingling; I think something bad is about to happen. (虫の知らせがする。何か悪いことが起こりそうだ。)"
+    },
+    {
+      "id": 70,
+      "value": "turn",
+      "options": [
+        "盗む",
+        "隠す",
+        "順番",
+        "忘れる"
+      ],
+      "correctAnswer": "順番",
+      "explanation": "ここでは、順番という意味で使われています。"
+    },
+    {
+      "id": 71,
+      "value": "rookie",
+      "options": [
+        "熟練者",
+        "初心者",
+        "専門家",
+        "観察者"
+      ],
+      "correctAnswer": "初心者",
+      "explanation": "ここでは、初心者という意味で使われています。"
+    },
+    {
+      "id": 72,
+      "value": "on fire",
+      "options": [
+        "燃えている",
+        "絶好調",
+        "疲れている",
+        "混乱している"
+      ],
+      "correctAnswer": "絶好調",
+      "explanation": "ここでは、絶好調という意味で使われています。"
+    },
+    {
+      "id": 73,
+      "value": "bothering",
+      "options": [
+        "助けて",
+        "悩ませて",
+        "喜ばせて",
+        "無視して"
+      ],
+      "correctAnswer": "悩ませて",
+      "explanation": "ここでは、悩ませるという意味で使われています。"
+    },
+    {
+      "id": 74,
+      "value": "acquisition",
+      "options": [
+        "喪失",
+        "取得",
+        "拒否",
+        "調査"
+      ],
+      "correctAnswer": "取得",
+      "explanation": "ここでは、取得という意味で使われています。"
+    },
+    {
+      "id": 75,
+      "value": "flawed",
+      "options": [
+        "完璧な",
+        "欠陥のある",
+        "最新の",
+        "未知の"
+      ],
+      "correctAnswer": "欠陥のある",
+      "explanation": "ここでは、欠陥のあるという意味で使われています。"
+    },
+    {
+      "id": 76,
+      "value": "buy me out",
+      "options": [
+        "私を食事に連れて行って",
+        "私の取り分を買い取って",
+        "私にプレゼントを買って",
+        "私を無視して"
+      ],
+      "correctAnswer": "私の取り分を買い取って",
+      "explanation": "「buy out」とは、ある事業や資産における一部の所有権や権利を、他の所有者や当事者が買い取ることを意味します。この文脈では、レオナルドがタイムマシンの自分の持ち分を売ることを提案しています。"
+    },
+    {
+      "id": 77,
+      "value": "screw",
+      "options": [
+        "無視する",
+        "褒める",
+        "修理する",
+        "確認する"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「Screw」は、ここでは軽蔑や反対の意を示す口語的な表現です。「～なんかどうでもいい」「～は構わない」といったニュアンスで使われます。フォーマルな場では避けるべき表現です。"
+    },
+    {
+      "id": 78,
+      "value": "the minute you drive it off the lot",
+      "options": [
+        "運転免許を取得した瞬間",
+        "駐車場から車を出す瞬間",
+        "購入した瞬間",
+        "修理に出した瞬間"
+      ],
+      "correctAnswer": "購入した瞬間",
+      "explanation": "このイディオムは、文字通りには「車を販売店から運転して出した瞬間」ですが、比喩的には「何かを購入した直後」という意味で使われます。特に、購入直後に価値が急落する場合に使われます。"
+    },
+    {
+      "id": 79,
+      "value": "go for",
+      "options": [
+        "反対する",
+        "賛成する",
+        "諦める",
+        "交渉する"
+      ],
+      "correctAnswer": "賛成する",
+      "explanation": "「go for」は、ここでは「～に賛成する」「～を選ぶ」という意味です。提案や申し出に対して同意や支持を示す際に使われます。Example: I'll go for the pizza. (私はピザに賛成です。)"
+    },
+    {
+      "id": 80,
+      "value": "throw in",
+      "options": [
+        "捨てる",
+        "追加する",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "追加する",
+      "explanation": "「throw in」は、追加で何かを提供することを意味します。交渉や取引の際に、相手を惹きつけるために、追加の品物やサービスを提供することを指します。Example: I'll throw in a free case with the phone. (電話に無料のケースを付けます。)"
+    },
+    {
+      "id": 81,
+      "value": "getting rid of",
+      "options": [
+        "集める",
+        "隠す",
+        "処分する",
+        "修理する"
+      ],
+      "correctAnswer": "処分する",
+      "explanation": "「get rid of」は、不要なものや邪魔なものを処分することを意味します。物理的なものだけでなく、習慣や考え方など、抽象的なものにも使われます。Example: I need to get rid of these old clothes. (これらの古い服を処分する必要があります。)"
+    },
+    {
+      "id": 82,
+      "value": "nerdvana",
+      "options": [
+        "退屈な場所",
+        "オタクの楽園",
+        "危険な場所",
+        "普通の場所"
+      ],
+      "correctAnswer": "オタクの楽園",
+      "explanation": "「nerdvana」は、「nerd（オタク）」と「nirvana（涅槃、至福の境地）」を組み合わせた造語です。オタクにとっての理想郷、至福の場所という意味合いで使われます。"
+    },
+    {
+      "id": 83,
+      "value": "call dibs on",
+      "options": [
+        "予約する",
+        "所有権を主張する",
+        "キャンセルする",
+        "忘れる"
+      ],
+      "correctAnswer": "所有権を主張する",
+      "explanation": "「call dibs on」は、ある物や場所に対して、自分の一番乗りであると主張することを意味します。口頭で「dibs!」と言うことで、その権利を主張します。主に子供や親しい間柄で使われるカジュアルな表現です。Example: I call dibs on the front seat! (前の席は僕のものだ！)"
+    },
+    {
+      "id": 84,
+      "value": "apply",
+      "options": [
+        "適用する",
+        "拒否する",
+        "説明する",
+        "無視する"
+      ],
+      "correctAnswer": "適用する",
+      "explanation": "「apply」は、規則や原則などが特定の状況や事例に当てはまる、適用されるという意味です。この文脈では、dibsというルールが今回の状況に適用されるかどうかを議論しています。Example: These rules apply to everyone. (これらの規則はすべての人に適用されます。)"
+    },
+    {
+      "id": 85,
+      "value": "bidding war",
+      "options": [
+        "平和な交渉",
+        "入札合戦",
+        "友好的な競争",
+        "秘密の取引"
+      ],
+      "correctAnswer": "入札合戦",
+      "explanation": "「bidding war」は、複数の人が同じものを手に入れようとして、価格をつり上げていく状況を指します。オークションなどでよく見られる現象です。Example: The company became the subject of a bidding war. (その会社は入札合戦の対象となった。)"
+    },
+    {
+      "id": 86,
+      "value": "exchange rate",
+      "options": [
+        "興味",
+        "為替レート",
+        "割引率",
+        "税率"
+      ],
+      "correctAnswer": "為替レート",
+      "explanation": "「exchange rate」は、ある国の通貨を別の国の通貨に交換する際の比率を指します。国際的な取引や投資を行う際に重要な要素となります。Example: What's the current exchange rate between the dollar and the yen? (現在、ドルと円の為替レートはいくらですか？)"
+    },
+    {
+      "id": 87,
+      "value": "take it or leave it",
+      "options": [
+        "よく考えて決める",
+        "受け入れるか拒否するか",
+        "相談する",
+        "保留にする"
+      ],
+      "correctAnswer": "受け入れるか拒否するか",
+      "explanation": "「take it or leave it」は、最終的な条件を提示し、相手にそれを受け入れるか拒否するかを迫る表現です。交渉の余地がないことを示唆します。Example: That's my final offer, take it or leave it. (これが最終提示です、受け入れるか拒否してください。)"
+    },
+    {
+      "id": 88,
+      "value": "bar-mizvah bonds",
+      "options": [
+        "結婚資金",
+        "成人式の祝い金",
+        "卒業祝い",
+        "秘密の貯金"
+      ],
+      "correctAnswer": "成人式の祝い金",
+      "explanation": "Bar Mitzvahは、ユダヤ教の成人式であり、その際に贈られる祝い金を指します。ここでは、ハワードが資金調達のために母親に確認しています。"
+    },
+    {
+      "id": 89,
+      "value": "made up",
+      "options": [
+        "迷っている",
+        "決心している",
+        "怒っている",
+        "疲れている"
+      ],
+      "correctAnswer": "決心している",
+      "explanation": "「made up」は、ここでは「mind is made up」という形で使われており、「決心している」「心に決めている」という意味です。一度決めたことは覆さないという強い意志を示します。Example: My mind is made up, I'm going to travel the world. (私は決心しました、世界を旅します。)"
+    },
+    {
+      "id": 90,
+      "value": "brandishing",
+      "options": [
+        "隠す",
+        "振りかざす",
+        "修理する",
+        "壊す"
+      ],
+      "correctAnswer": "振りかざす",
+      "explanation": "「brandish」は、武器などを誇示するように振りかざすことを意味します。ここでは、シェルドンがレオナルドの行く手を阻むために、おもちゃの剣を振りかざしています。Example: He brandished a knife and threatened them. (彼はナイフを振りかざして彼らを脅した。)"
+    },
+    {
+      "id": 91,
+      "value": "mint condition",
+      "options": [
+        "腐った状態",
+        "新品同様の状態",
+        "中古の状態",
+        "汚れた状態"
+      ],
+      "correctAnswer": "新品同様の状態",
+      "explanation": "「mint condition」は、新品同様の非常に良い状態を指します。特に、コレクターアイテムや中古品の状態を表す際に使われます。Example: This comic book is in mint condition. (このコミックは新品同様の状態です。)"
+    },
+    {
+      "id": 92,
+      "value": "hypocrite",
+      "options": [
+        "正直者",
+        "偽善者",
+        "英雄",
+        "友人"
+      ],
+      "correctAnswer": "偽善者",
+      "explanation": "「hypocrite」は、自分の言動と実際の行動が一致しない人を指します。特に、道徳や信念を語りながら、それに反する行動をする人を批判する際に使われます。Example: He's a hypocrite, preaching honesty but always cheating. (彼は偽善者だ、正直さを説きながらいつも不正をしている。)"
+    },
+    {
+      "id": 93,
+      "value": "accumulator",
+      "options": [
+        "浪費家",
+        "収集家",
+        "発明家",
+        "破壊者"
+      ],
+      "correctAnswer": "収集家",
+      "explanation": "「accumulator」は、物をため込む人、収集家という意味です。この文脈では、ペニーがこっそりおもちゃを収集していることをシェルドンが指摘しています。Example: She is an accumulator of rare books. (彼女は珍しい本の収集家です。)"
+    },
+    {
+      "id": 94,
+      "value": "frolicking",
+      "options": [
+        "悲しんでいる",
+        "楽しそうに遊んでいる",
+        "怒っている",
+        "寝ている"
+      ],
+      "correctAnswer": "楽しそうに遊んでいる",
+      "explanation": "「frolic」は、楽しそうに遊び回る、ふざけるという意味です。通常、子供や動物が楽しそうに動き回る様子を表します。Example: The children were frolicking in the park. (子供たちは公園で楽しそうに遊んでいた。)"
+    },
+    {
+      "id": 95,
+      "value": "move on with my life",
+      "options": [
+        "過去に留まる",
+        "人生を諦める",
+        "新しい人生を歩む",
+        "現状維持する"
+      ],
+      "correctAnswer": "新しい人生を歩む",
+      "explanation": "「move on with my life」は、過去の出来事や状況から離れて、新しい人生を歩み始めることを意味します。気持ちを切り替えて前向きに進むことを示唆します。Example: It's time to move on with my life and find a new job. (新しい人生を歩み始めて、新しい仕事を見つける時です。)"
+    },
+    {
+      "id": 96,
+      "value": "give you a hand",
+      "options": [
+        "握手する",
+        "助ける",
+        "殴る",
+        "見捨てる"
+      ],
+      "correctAnswer": "助ける",
+      "explanation": "「give you a hand」は、誰かを助ける、手伝うという意味です。日常会話でよく使われる表現です。Example: Can you give me a hand with this box? (この箱を運ぶのを手伝ってくれますか？)"
+    },
+    {
+      "id": 97,
+      "value": "My turn on the time machine.",
+      "options": [
+        "タイムマシンの順番が来た",
+        "タイムマシンが壊れた",
+        "タイムマシンに興味がない",
+        "タイムマシンを売る"
+      ],
+      "correctAnswer": "タイムマシンの順番が来た",
+      "explanation": "ここでは、ペニーとマイクが出かけた後、レオナルドがタイムマシンを使う番になったことを述べています。一種の皮肉として使われています。"
+    },
+    {
+      "id": 98,
+      "value": "It worked.",
+      "options": [
+        "それは失敗した",
+        "それは成功した",
+        "それは危険だ",
+        "それは無意味だ"
+      ],
+      "correctAnswer": "それは成功した",
+      "explanation": "「It worked.」は、何らかの試みや計画が成功したことを示すシンプルな表現です。シェルドンがタイムマシンを作動させた結果、それが実際に機能したことを確認した際に使われています。"
+    },
+    {
+      "id": 99,
+      "value": "flesh-eating",
+      "options": [
+        "植物を食べる",
+        "肉を食べる",
+        "魚を食べる",
+        "果物を食べる"
+      ],
+      "correctAnswer": "肉を食べる",
+      "explanation": "「flesh-eating」は、肉を食べるという意味です。特に、人や動物の肉を食べる生物やモンスターを指す際に使われます。Example: Flesh-eating zombies (肉食ゾンビ)"
+    },
+    {
+      "id": 100,
+      "value": "get rid of",
+      "options": [
+        "修理する",
+        "処分する",
+        "購入する",
+        "保管する"
+      ],
+      "correctAnswer": "処分する",
+      "explanation": "「get rid of」は、不要なものや邪魔なものを処分することを意味します。物理的なものだけでなく、習慣や考え方など、抽象的なものにも使われます。ここでは、タイムマシンを処分することを提案しています。Example: I need to get rid of these old clothes. (これらの古い服を処分する必要があります。)"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "What is shaking?",
+      "options": [
+        "何が問題ですか？",
+        "調子はどう？",
+        "何が起きてるの？",
+        "どこに行くの？"
+      ],
+      "correctAnswer": "調子はどう？",
+      "explanation": "「What is shaking?」は、口語的な挨拶で、「調子はどう？」「元気にしてる？」といった意味合いで使われます。比較的新しいスラング表現で、親しい間柄で使われることが多いです。フォーマルな場面では避けるべき表現です。"
+    },
+    {
+      "id": 2,
+      "value": "colloquial",
+      "options": [
+        "古典的な",
+        "普遍的な",
+        "口語的な",
+        "学術的な"
+      ],
+      "correctAnswer": "口語的な",
+      "explanation": "「colloquial」は、「口語的な」「話し言葉の」という意味です。フォーマルな場ではなく、日常会話で使われる言葉や表現を指します。例えば、スラングや地域の方言なども含まれます。"
+    },
+    {
+      "id": 3,
+      "value": "striking up",
+      "options": [
+        "中断する",
+        "開始する",
+        "避ける",
+        "終わらせる"
+      ],
+      "correctAnswer": "開始する",
+      "explanation": "「strike up」は、「（会話などを）始める」「開始する」という意味の句動詞です。音楽を演奏し始めるという意味もあります。例文：They struck up a conversation about the weather.(彼らは天気の話を始めた。)"
+    },
+    {
+      "id": 4,
+      "value": "palatable",
+      "options": [
+        "不快な",
+        "美味しい",
+        "受け入れやすい",
+        "理解できない"
+      ],
+      "correctAnswer": "受け入れやすい",
+      "explanation": "「palatable」は、「（考えなどが）受け入れやすい」「好ましい」という意味です。文字通りには「美味しい」という意味ですが、比喩的に使われることが多いです。例文：The compromise was not palatable to everyone.(その妥協案はすべての人にとって受け入れやすいものではなかった。)"
+    },
+    {
+      "id": 5,
+      "value": "banal",
+      "options": [
+        "斬新な",
+        "退屈な",
+        "刺激的な",
+        "重要な"
+      ],
+      "correctAnswer": "退屈な",
+      "explanation": "「banal」は、「ありふれた」「退屈な」「平凡な」という意味です。目新しさや深みがなく、つまらないものを指します。例文：He made some banal remarks about the weather.(彼は天気についてありふれたことを言った。)"
+    },
+    {
+      "id": 6,
+      "value": "chit chat",
+      "options": [
+        "重要な議論",
+        "秘密の会話",
+        "無駄話",
+        "真剣な相談"
+      ],
+      "correctAnswer": "無駄話",
+      "explanation": "「chit-chat」は、「おしゃべり」「無駄話」という意味です。軽い調子で、特に目的のない会話を指します。例文：We engaged in some friendly chit-chat.(私たちは友好的なおしゃべりをした。)"
+    },
+    {
+      "id": 7,
+      "value": "aware",
+      "options": [
+        "無関心な",
+        "意識して",
+        "忘れて",
+        "誤解して"
+      ],
+      "correctAnswer": "意識して",
+      "explanation": "「aware」は、「気づいて」「意識して」という意味です。ある事実や状況を知っている状態を表します。例文：Are you aware of the risks involved?(あなたは関連するリスクを認識していますか？)"
+    },
+    {
+      "id": 8,
+      "value": "tolerable",
+      "options": [
+        "耐えられない",
+        "許容できる",
+        "理想的な",
+        "不可能な"
+      ],
+      "correctAnswer": "許容できる",
+      "explanation": "「tolerable」は、「許容できる」「我慢できる」という意味です。必ずしも好ましいわけではないが、耐えられる範囲内であることを示します。例文：The noise was barely tolerable.(その騒音はどうにか我慢できる程度だった。)"
+    },
+    {
+      "id": 9,
+      "value": "the statement stands for itself",
+      "options": [
+        "その声明は誤解を招く",
+        "その声明は意味をなさない",
+        "その声明は明白である",
+        "その声明は撤回される"
+      ],
+      "correctAnswer": "その声明は明白である",
+      "explanation": "「The statement stands for itself.」は、「その声明はそれ自体で意味をなす」「言わずもがなである」という意味です。説明や解釈の必要がないほど明白であることを示します。言外の意味として、それ以上の議論を避けるニュアンスも含まれる場合があります。"
+    },
+    {
+      "id": 10,
+      "value": "viable",
+      "options": [
+        "実行不可能な",
+        "実現可能な",
+        "非現実的な",
+        "想像上の"
+      ],
+      "correctAnswer": "実現可能な",
+      "explanation": "「viable」は、「実行可能な」「実現可能な」という意味です。計画やアイデアなどが、実際にうまくいく可能性があることを示します。ビジネスやプロジェクトの文脈でよく使われます。例文：The company has a viable plan to reduce costs.(その会社にはコストを削減するための実行可能な計画がある。)"
+    },
+    {
+      "id": 11,
+      "value": "hookup",
+      "options": [
+        "絶縁",
+        "修理",
+        "一時的な関係",
+        "永続的な絆"
+      ],
+      "correctAnswer": "一時的な関係",
+      "explanation": "「hookup」は、主にアメリカ英語のスラングで、「（軽い）性的関係」「一夜の関係」という意味です。長期的な関係を前提としない、一時的な関係を指します。若い世代の間でよく使われる言葉です。"
+    },
+    {
+      "id": 12,
+      "value": "suppress",
+      "options": [
+        "促進する",
+        "抑圧する",
+        "明らかにする",
+        "無視する"
+      ],
+      "correctAnswer": "抑圧する",
+      "explanation": "「suppress」は、「抑える」「抑制する」「鎮圧する」という意味です。感情、衝動、情報などが表に出ないように抑え込むことを指します。例文：The government tried to suppress the rebellion.(政府は反乱を鎮圧しようとした。)"
+    },
+    {
+      "id": 13,
+      "value": "libido",
+      "options": [
+        "嫌悪感",
+        "知性",
+        "性欲",
+        "恐怖"
+      ],
+      "correctAnswer": "性欲",
+      "explanation": "「libido」は、「性欲」「性的衝動」という意味です。精神分析学の用語としても用いられます。例文：Stress can decrease libido.(ストレスは性欲を減退させることがある。)"
+    },
+    {
+      "id": 14,
+      "value": "peace out!",
+      "options": [
+        "こんにちは",
+        "お元気で",
+        "さようなら",
+        "おやすみ"
+      ],
+      "correctAnswer": "さようなら",
+      "explanation": "「Peace out!」は、スラングで「さようなら」「じゃあね」という意味です。別れ際に使われるカジュアルな表現です。1990年代から使われ始め、若者の間で広まりました。"
+    },
+    {
+      "id": 15,
+      "value": "rule of thumb",
+      "options": [
+        "厳格な規則",
+        "経験則",
+        "例外",
+        "法律"
+      ],
+      "correctAnswer": "経験則",
+      "explanation": "「rule of thumb」は、「経験則」「大体の目安」という意味です。厳密なルールではないものの、経験に基づいて一般的に当てはまることを指します。例文：As a rule of thumb, you should allow two hours for the cake to cool.(経験則として、ケーキが冷めるまで2時間待つべきです。)"
+    },
+    {
+      "id": 16,
+      "value": "dropping the conversational ball",
+      "options": [
+        "会話を盛り上げる",
+        "会話を始める",
+        "会話を中断する",
+        "会話を忘れる"
+      ],
+      "correctAnswer": "会話を中断する",
+      "explanation": "「drop the ball」は、「（うっかり）ミスをする」「へまをする」という意味のイディオムです。会話の文脈では、「dropping the conversational ball」で、「会話の糸口を失う」「会話を途切れさせる」という意味合いになります。"
+    },
+    {
+      "id": 17,
+      "value": "pick it up",
+      "options": [
+        "無視する",
+        "続ける",
+        "終わらせる",
+        "批判する"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「pick it up」は、「拾い上げる」という意味の他に、「（中断されたことを）再開する」「続ける」という意味があります。会話の文脈では、誰かが会話を途切れさせた後、別の人が会話を続けることを指します。"
+    },
+    {
+      "id": 18,
+      "value": "mishap",
+      "options": [
+        "成功",
+        "計画",
+        "幸運",
+        "小さな事故"
+      ],
+      "correctAnswer": "小さな事故",
+      "explanation": "「mishap」は、「小さな事故」「不運な出来事」という意味です。深刻な事故ではなく、軽微なトラブルや失敗を指します。例文：He had a little mishap in the kitchen.(彼は台所でちょっとした失敗をした。)"
+    },
+    {
+      "id": 19,
+      "value": "given to understand",
+      "options": [
+        "誤解される",
+        "理解することを拒否される",
+        "理解している",
+        "理解させられる"
+      ],
+      "correctAnswer": "理解している",
+      "explanation": "「given to understand」は、「〜と理解している」「〜と聞いている」という意味です。直接的な情報源ではなく、間接的に聞いた、あるいは暗示された情報に基づいて理解していることを表します。例文：I was given to understand that the project was on schedule.(プロジェクトは予定通りだと理解していました。)"
+    },
+    {
+      "id": 20,
+      "value": "preface",
+      "options": [
+        "結論",
+        "要約",
+        "導入",
+        "補足"
+      ],
+      "correctAnswer": "導入",
+      "explanation": "「preface」は、「序文」「前置き」という意味の名詞ですが、動詞としても使われ、「〜の前に述べる」「〜を前置きする」という意味になります。例文：He prefaced his remarks with an apology.(彼は謝罪の言葉を前置きして発言を始めた。)"
+    },
+    {
+      "id": 21,
+      "value": "a handful of",
+      "options": [
+        "大量の",
+        "少しの",
+        "全くない",
+        "正確な量の"
+      ],
+      "correctAnswer": "少しの",
+      "explanation": "「a handful of」は、「ひとつかみの〜」「少数の〜」という意味です。文字通りには手に握れるくらいの量を指しますが、比喩的に少量を表す場合にも使われます。例文：I only have a handful of coins.(私はほんの少ししかコインを持っていません。)"
+    },
+    {
+      "id": 22,
+      "value": "technically",
+      "options": [
+        "非公式には",
+        "感情的には",
+        "技術的には",
+        "一般的には"
+      ],
+      "correctAnswer": "技術的には",
+      "explanation": "「technically」は、「厳密に言えば」「技術的に言えば」という意味です。法律、科学、ルールなど、特定の基準や定義に基づいて正確に言う場合に用いられます。例文：Technically, tomatoes are fruits.(厳密に言えば、トマトは果物です。)"
+    },
+    {
+      "id": 23,
+      "value": "kidding",
+      "options": [
+        "真剣な",
+        "冗談を言っている",
+        "怒っている",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「kidding」は、「冗談を言っている」「からかっている」という意味です。例文：Are you kidding me?(冗談でしょ？)"
+    },
+    {
+      "id": 24,
+      "value": "radiation burns",
+      "options": [
+        "化学的な火傷",
+        "日焼け",
+        "放射線による火傷",
+        "摩擦による火傷"
+      ],
+      "correctAnswer": "放射線による火傷",
+      "explanation": "「radiation burns」は、「放射線による火傷」という意味です。放射線にさらされることで皮膚や組織が損傷を受ける状態を指します。医療現場や放射線を扱う場所での事故などで起こりえます。"
+    },
+    {
+      "id": 25,
+      "value": "sharing in the triumph",
+      "options": [
+        "成功を分かち合う",
+        "苦難を共にする",
+        "悲しみを共有する",
+        "秘密を共有する"
+      ],
+      "correctAnswer": "成功を分かち合う",
+      "explanation": "「share in the triumph」は、「成功を分かち合う」「勝利を共有する」という意味です。誰かの成功や勝利を一緒に喜び、その恩恵を受けることを表します。スポーツチームの応援などでよく使われます。"
+    },
+    {
+      "id": 26,
+      "value": "not a snowball's chance in a cat scanner",
+      "options": [
+        "成功の可能性が高い",
+        "全く可能性がない",
+        "少しの可能性がある",
+        "詳細な分析が必要"
+      ],
+      "correctAnswer": "全く可能性がない",
+      "explanation": "「not a snowball's chance in hell」というイディオムの変形で、「全く可能性がない」という意味を強調するユーモラスな表現です。本来「地獄で雪だるまが生き残る可能性がない」という比喩から来ています。ここではcat scannerという言葉に置き換えることで、Sheldonらしいジョークにしています。"
+    },
+    {
+      "id": 27,
+      "value": "foul mood",
+      "options": [
+        "楽しい気分",
+        "不機嫌な状態",
+        "落ち着いた状態",
+        "興奮した状態"
+      ],
+      "correctAnswer": "不機嫌な状態",
+      "explanation": "「foul mood」は、「不機嫌な状態」「ひどく機嫌が悪い状態」という意味です。一時的な感情を表す際に使われます。類義語としては、「bad mood」「grumpy」などがあります。\n\n例：He's been in a foul mood all day.（彼は一日中機嫌が悪い。）"
+    },
+    {
+      "id": 28,
+      "value": "landing party",
+      "options": [
+        "上陸部隊",
+        "捜索隊",
+        "パーティーの参加者",
+        "救助隊"
+      ],
+      "correctAnswer": "上陸部隊",
+      "explanation": "元々は宇宙船から惑星に派遣される調査や任務を遂行するチームを指すSF的な言葉ですが、ここでは比喩的に使われています。友人グループを特定の役割を持つチームに見立てています。Star TrekなどのSF作品に頻繁に登場する言葉です。"
+    },
+    {
+      "id": 29,
+      "value": "clear as day",
+      "options": [
+        "非常に曖昧",
+        "非常に明確",
+        "ほとんど見えない",
+        "理解不能"
+      ],
+      "correctAnswer": "非常に明確",
+      "explanation": "「clear as day」は、「非常に明確である」「一目瞭然である」という意味のイディオムです。比喩的に、何かが非常に分かりやすい状態を表します。\n\n例：The instructions were as clear as day.（指示は非常に明確だった。）"
+    },
+    {
+      "id": 30,
+      "value": "got the hell out of there",
+      "options": [
+        "楽しい時間を過ごした",
+        "急いで逃げ出した",
+        "冷静に対処した",
+        "詳細を報告した"
+      ],
+      "correctAnswer": "急いで逃げ出した",
+      "explanation": "「get the hell out of」は、「～から急いで逃げ出す」「～から逃げる」という意味の口語的な表現です。危険な状況や不快な場所から逃れる際に使われます。\n\n例：I got the hell out of that meeting.（私はその会議から逃げ出した。）"
+    },
+    {
+      "id": 31,
+      "value": "have a bone to pick",
+      "options": [
+        "議論したいことがある",
+        "食事をしたい",
+        "休憩したい",
+        "手伝いたい"
+      ],
+      "correctAnswer": "議論したいことがある",
+      "explanation": "「have a bone to pick (with someone)」は、「（人）に文句がある」「（人）と議論したいことがある」という意味のイディオムです。不満や苦情を伝えたいときに使われます。\n\n例：I have a bone to pick with you about the way you spoke to her.（君の彼女への話し方について文句がある。）"
+    },
+    {
+      "id": 32,
+      "value": "indecipherable",
+      "options": [
+        "非常に明確な",
+        "解読不能な",
+        "興味深い",
+        "重要な"
+      ],
+      "correctAnswer": "解読不能な",
+      "explanation": "「indecipherable」は、「解読できない」「判読不能な」という意味です。手書きの文字や暗号など、理解するのが非常に難しいものに使われます。\n\n例：His handwriting is indecipherable.（彼の筆跡は判読不能だ。）"
+    },
+    {
+      "id": 33,
+      "value": "acoustic sweet spot",
+      "options": [
+        "最も騒がしい場所",
+        "最も音響が良い場所",
+        "最も暗い場所",
+        "最も快適な場所"
+      ],
+      "correctAnswer": "最も音響が良い場所",
+      "explanation": "「acoustic sweet spot」は、ある空間の中で最も音響が良い場所、つまり音が最もクリアに聞こえる場所を指します。音楽鑑賞や映画鑑賞において、理想的なリスニングポジションとなります。"
+    },
+    {
+      "id": 34,
+      "value": "blunt instrument",
+      "options": [
+        "鋭利な道具",
+        "鈍器",
+        "精密機器",
+        "楽器"
+      ],
+      "correctAnswer": "鈍器",
+      "explanation": "「blunt instrument」は、「鈍器」という意味です。刃物のように鋭利ではなく、打撃を与えるための道具を指します。犯罪捜査などで凶器として使われることがあります。\n\n例：The victim was killed with a blunt instrument.（被害者は鈍器で殺害された。）"
+    },
+    {
+      "id": 35,
+      "value": "furthermore",
+      "options": [
+        "それにもかかわらず",
+        "さらに",
+        "したがって",
+        "例えば"
+      ],
+      "correctAnswer": "さらに",
+      "explanation": "「furthermore」は、「さらに」「その上」という意味の接続副詞です。前に述べたことに加えて、追加の情報や議論を提示する際に使われます。\n\n例：The report is inaccurate. Furthermore, it is misleading.（その報告書は不正確だ。さらに、誤解を招く。）"
+    },
+    {
+      "id": 36,
+      "value": "going out",
+      "options": [
+        "外出する",
+        "デートする",
+        "引退する",
+        "消える"
+      ],
+      "correctAnswer": "デートする",
+      "explanation": "「go out」は様々な意味を持つ句動詞ですが、ここでは「(人と)デートする」「交際する」という意味で使われています。恋愛関係にあることを示唆する表現です。\n\n例：They've been going out for six months.（彼らは6ヶ月間付き合っている。）"
+    },
+    {
+      "id": 37,
+      "value": "Ergo",
+      "options": [
+        "それゆえに",
+        "例えば",
+        "それにもかかわらず",
+        "最初に"
+      ],
+      "correctAnswer": "それゆえに",
+      "explanation": "「ergo」はラテン語由来の言葉で、「それゆえに」「したがって」という意味の接続詞です。論理的な結論を導く際に使われる、やや形式ばった表現です。\n\n例：He is a good student; ergo, he will pass the exam.（彼は優秀な学生だ。それゆえに、彼は試験に合格するだろう。）"
+    },
+    {
+      "id": 38,
+      "value": "deemed unfit",
+      "options": [
+        "非常に適していると見なされる",
+        "不適格と見なされる",
+        "訓練が必要と見なされる",
+        "準備万端と見なされる"
+      ],
+      "correctAnswer": "不適格と見なされる",
+      "explanation": "「deem」は「〜と見なす」「〜と判断する」という意味の動詞で、「deemed unfit」は「不適格と見なされる」という意味です。ここでは、SheldonがLeonardをStar Trekの指揮官として不適格と判断していることを表しています。\n\n例：He was deemed unfit for military service.（彼は兵役不適格と判断された。）"
+    },
+    {
+      "id": 39,
+      "value": "relieve you of your command",
+      "options": [
+        "指揮権を与える",
+        "指揮権を剥奪する",
+        "指揮権を共有する",
+        "指揮権を強化する"
+      ],
+      "correctAnswer": "指揮権を剥奪する",
+      "explanation": "「relieve someone of command」は、「（人）の指揮権を剥奪する」「（人）を指揮官の地位から解任する」という意味です。軍隊や組織において、責任者が職務を遂行できない場合に用いられます。\n\n例：The general was relieved of his command after the failed mission.（その将軍は任務失敗後、指揮権を剥奪された。）"
+    },
+    {
+      "id": 40,
+      "value": "pursuant to",
+      "options": [
+        "〜に反して",
+        "〜に従って",
+        "〜を無視して",
+        "〜を支持して"
+      ],
+      "correctAnswer": "〜に従って",
+      "explanation": "「pursuant to」は、「〜に従って」「〜に基づいて」という意味のフォーマルな表現です。法律、規則、契約などに従って行動することを表します。\n\n例：Pursuant to the contract, the payment is due on the first of the month.（契約に従って、支払いは月の初めに期日を迎える。）"
+    },
+    {
+      "id": 41,
+      "value": "does not apply",
+      "options": [
+        "適用される",
+        "適用されない",
+        "変更される",
+        "議論される"
+      ],
+      "correctAnswer": "適用されない",
+      "explanation": "「apply」は「適用される」という意味の動詞で、「does not apply」は「適用されない」という意味です。特定の規則や法律が、ある状況や人には当てはまらないことを示します。\n\n例：This rule does not apply to children under 12.（この規則は12歳未満の子供には適用されない。）"
+    },
+    {
+      "id": 42,
+      "value": "unsolicited gift",
+      "options": [
+        "要求された贈り物",
+        "予期せぬ贈り物",
+        "高価な贈り物",
+        "匿名での贈り物"
+      ],
+      "correctAnswer": "予期せぬ贈り物",
+      "explanation": "「unsolicited」は「求められていない」「頼まれていない」という意味で、「unsolicited gift」は「予期せぬ贈り物」「頼んでいないのに送られてきた贈り物」という意味です。ここでは、SheldonがPennyの家に入るための口実として、この言葉を使っています。\n\n例：We received an unsolicited gift in the mail.（私たちは郵便で予期せぬ贈り物を受け取った。）"
+    },
+    {
+      "id": 43,
+      "value": "impromptu",
+      "options": [
+        "計画的な",
+        "即興の",
+        "秘密の",
+        "公式の"
+      ],
+      "correctAnswer": "即興の",
+      "explanation": "「impromptu」は「即興の」「準備なしの」という意味です。ここでは、計画されていない、突然の訪問や会話を指しています。SheldonはPennyにバナナブレッドを渡すことで、突然の訪問を正当化しようとしています。\n\n例：They had an impromptu meeting.（彼らは即興の会議を開いた。）"
+    },
+    {
+      "id": 44,
+      "value": "spare a few minutes",
+      "options": [
+        "数分節約する",
+        "数分無駄にする",
+        "少し時間を割く",
+        "時間を管理する"
+      ],
+      "correctAnswer": "少し時間を割く",
+      "explanation": "「spare a few minutes」は、「少し時間を割く」「数分時間を空ける」という意味です。忙しい中で、少しだけ時間を提供することを丁寧に伝える表現です。\n\n例：Can you spare a few minutes to help me with this?（これを手伝うために少し時間を割いていただけますか？）"
+    },
+    {
+      "id": 45,
+      "value": "risk losing",
+      "options": [
+        "失う危険性がある",
+        "得る機会がある",
+        "維持する可能性がある",
+        "投資する価値がある"
+      ],
+      "correctAnswer": "失う危険性がある",
+      "explanation": "「risk losing」は、「～を失う危険性がある」という意味です。何かが失われる可能性を伴う状況を表します。\n\n例：If you don't study, you risk losing your scholarship.（勉強しなければ、奨学金を失う危険性がある。）"
+    },
+    {
+      "id": 46,
+      "value": "frankly",
+      "options": [
+        "率直に言って",
+        "簡単に言って",
+        "丁寧に言って",
+        "大まかに言って"
+      ],
+      "correctAnswer": "率直に言って",
+      "explanation": "「frankly」は、「率直に言って」「正直に言って」という意味の副詞です。自分の意見や感情を直接的に伝える際に使われます。\n\n例：Frankly, I don't agree with you.（率直に言って、私はあなたに同意しません。）"
+    },
+    {
+      "id": 47,
+      "value": "alternative history",
+      "options": [
+        "公式の歴史",
+        "もう一つの歴史",
+        "歴史の修正",
+        "歴史の捏造"
+      ],
+      "correctAnswer": "もう一つの歴史",
+      "explanation": "「alternative history」は、「もう一つの歴史」「架空の歴史」という意味です。歴史上の出来事が異なっていた場合に、世界がどうなっていただろうかという思考実験や創作を指します。\n\n例：The novel explores an alternative history of World War II.（その小説は第二次世界大戦のもう一つの歴史を探求する。）"
+    },
+    {
+      "id": 48,
+      "value": "left over",
+      "options": [
+        "失われた",
+        "残された",
+        "盗まれた",
+        "忘れられた"
+      ],
+      "correctAnswer": "残された",
+      "explanation": "「left over」は、「残された」「余った」という意味です。食事などが使い切れずに残っている状態を表します。\n\n例：There's plenty of food left over from the party.（パーティーからたくさんの食べ物が残っている。）"
+    },
+    {
+      "id": 49,
+      "value": "make it impossible",
+      "options": [
+        "可能にする",
+        "不可能にする",
+        "簡単にする",
+        "複雑にする"
+      ],
+      "correctAnswer": "不可能にする",
+      "explanation": "「make it impossible」は、「〜を不可能にする」という意味です。ここでは、LeonardがSheldonを映画に誘う際に、わざと場所や時間を曖昧にして、Sheldonが来るのを妨げようとしたことを指しています。\n\n例：The heavy snow made it impossible to drive.（大雪で運転が不可能になった。）"
+    },
+    {
+      "id": 50,
+      "value": "go through",
+      "options": [
+        "乗り越える",
+        "目を通す",
+        "参加する",
+        "避ける"
+      ],
+      "correctAnswer": "目を通す",
+      "explanation": "「go through」は多くの意味を持つ句動詞ですが、ここでは「（詳細に）調べる」「目を通す」という意味で使われています。SheldonがLeonardのパソコンのブラウザ履歴を調べて映画の時間を特定したことを指します。\n\n例：I need to go through these documents.（これらの書類に目を通す必要がある。）"
+    },
+    {
+      "id": 51,
+      "value": "come as no surprise",
+      "options": [
+        "全く驚くことではない",
+        "サプライズである",
+        "秘密にすること",
+        "公表すること"
+      ],
+      "correctAnswer": "全く驚くことではない",
+      "explanation": "「come as no surprise」は、予想通りである、驚くには値しないという意味です。予想されていたことや、当然の結果に対して使われます。\n\n例：His failure came as no surprise to anyone. (彼の失敗は誰にとっても驚きではなかった。)"
+    },
+    {
+      "id": 52,
+      "value": "pop an emotional cap in his buttocks",
+      "options": [
+        "感情的に彼をサポートする",
+        "感情的に彼を傷つける",
+        "感情的に彼を無視する",
+        "感情的に彼を解放する"
+      ],
+      "correctAnswer": "感情的に彼を傷つける",
+      "explanation": "この表現は非常に口語的で、文字通りに解釈することは難しいですが、文脈から「感情的に彼を傷つける」という意味合いで使用されていると考えられます。直接的な攻撃ではなく、感情的なダメージを与えるニュアンスです。"
+    },
+    {
+      "id": 53,
+      "value": "urban slang",
+      "options": [
+        "古代の言葉",
+        "専門用語",
+        "都会のスラング",
+        "文学的な表現"
+      ],
+      "correctAnswer": "都会のスラング",
+      "explanation": "「urban slang」は、都市部で一般的に使用されるスラング（俗語）のことです。特定の地域やコミュニティで使われる非公式な言葉や表現を指します。"
+    },
+    {
+      "id": 54,
+      "value": "fluency",
+      "options": [
+        "流暢さ",
+        "不器用さ",
+        "無関心",
+        "混乱"
+      ],
+      "correctAnswer": "流暢さ",
+      "explanation": "「fluency」は、言葉や言語を流暢に話したり理解したりする能力を指します。また、スキルや知識がスムーズに発揮される状態も意味します。\n\n例：She speaks English with fluency. (彼女は英語を流暢に話します。)"
+    },
+    {
+      "id": 55,
+      "value": "the down and the low",
+      "options": [
+        "上下関係",
+        "秘密",
+        "詳細",
+        "結論"
+      ],
+      "correctAnswer": "詳細",
+      "explanation": "このイディオムは、特に「the lowdown」という形でよく使われ、「真相」「詳細」という意味を持ちます。隠された情報や事情を尋ねる際に用いられます。\n\n例: I need the lowdown on what happened at the party.（パーティーで何が起こったのか、詳細を教えてほしい。）"
+    },
+    {
+      "id": 56,
+      "value": "shortcomings",
+      "options": [
+        "長所",
+        "短所",
+        "目標",
+        "成功"
+      ],
+      "correctAnswer": "短所",
+      "explanation": "「shortcomings」は、欠点、弱点、不足している点という意味です。人や物事の不完全な部分を指します。\n\n例：Every system has its shortcomings. (どのシステムにも欠点があります。)"
+    },
+    {
+      "id": 57,
+      "value": "have the talk",
+      "options": [
+        "秘密の会話をする",
+        "重要な話をする",
+        "噂話をする",
+        "沈黙する"
+      ],
+      "correctAnswer": "重要な話をする",
+      "explanation": "「have the talk」は、特に性に関する話や、人生における重要な決断について話し合うことを指します。子供が成長する過程で親が性について話す場合や、カップルが将来について話し合う場合などに使われます。"
+    },
+    {
+      "id": 58,
+      "value": "More to the point",
+      "options": [
+        "さらに重要なことには",
+        "要するに",
+        "無関係なことだが",
+        "どうでもいいことだが"
+      ],
+      "correctAnswer": "さらに重要なことには",
+      "explanation": "「More to the point」は、「さらに重要なことには」「もっと言いたいことは」という意味で、議論や会話の焦点をより重要な点に移す際に使われます。\n\n例：More to the point, we need to find a solution to this problem. (さらに重要なことには、この問題の解決策を見つける必要があります。)"
+    },
+    {
+      "id": 59,
+      "value": "defected",
+      "options": [
+        "帰国した",
+        "亡命した",
+        "旅行した",
+        "滞在した"
+      ],
+      "correctAnswer": "亡命した",
+      "explanation": "「defect」は、国や組織、主義などから離反し、敵対する側につくことを意味します。政治的な意味合いで使われることが多いです。\n\n例：He defected to the West during the Cold War. (彼は冷戦時代に西側諸国に亡命した。)"
+    },
+    {
+      "id": 60,
+      "value": "booty calls",
+      "options": [
+        "重要な電話",
+        "緊急の呼び出し",
+        "性的関係を目的とした誘い",
+        "友好的な電話"
+      ],
+      "correctAnswer": "性的関係を目的とした誘い",
+      "explanation": "「booty call」は、性的関係を持つことを目的とした誘いの電話やメッセージを指すスラングです。カジュアルな関係を求める際に使われます。"
+    },
+    {
+      "id": 61,
+      "value": "geometric progression",
+      "options": [
+        "等差数列",
+        "等比数列",
+        "調和数列",
+        "フィボナッチ数列"
+      ],
+      "correctAnswer": "等比数列",
+      "explanation": "「geometric progression」は、等比数列のことです。各項が前の項に一定の比率（公比）を掛けた数列を指します。\n\n例：The series 2, 4, 8, 16... is a geometric progression. (2, 4, 8, 16...という数列は等比数列です。)"
+    },
+    {
+      "id": 62,
+      "value": "circumvent",
+      "options": [
+        "直面する",
+        "回避する",
+        "促進する",
+        "悪化させる"
+      ],
+      "correctAnswer": "回避する",
+      "explanation": "「circumvent」は、障害や困難を回避するために工夫を凝らす、抜け道を見つけるという意味です。法律や規則を巧みに避ける場合にも使われます。\n\n例：They found a way to circumvent the regulations. (彼らは規制を回避する方法を見つけた。)"
+    },
+    {
+      "id": 63,
+      "value": "guarantee his appeal",
+      "options": [
+        "彼の魅力を保証する",
+        "彼の訴えを無視する",
+        "彼の要求を拒否する",
+        "彼の意見を歪曲する"
+      ],
+      "correctAnswer": "彼の魅力を保証する",
+      "explanation": "「guarantee his appeal」は、彼（この場合はレナード）の魅力や人気を確実にすることです。ステファニーに対する彼の魅力が高まるようにすることを意味します。"
+    },
+    {
+      "id": 64,
+      "value": "Apocalyptic genocide",
+      "options": [
+        "限定的な支援",
+        "全面的な支援",
+        "大規模な虐殺",
+        "小規模な紛争"
+      ],
+      "correctAnswer": "大規模な虐殺",
+      "explanation": "Apocalypticは「黙示録的な」、genocideは「大量虐殺」という意味です。この二つを組み合わせることで、世界が終わるような大規模な虐殺を指します。"
+    },
+    {
+      "id": 65,
+      "value": "go easy on",
+      "options": [
+        "を厳しく扱う",
+        "を簡単にする",
+        "を控える",
+        "を無視する"
+      ],
+      "correctAnswer": "を控える",
+      "explanation": "「go easy on」は、何かを控えめにする、優しく扱うという意味です。この場合は、コロンの使用を控えるように助言しています。\n\n例：Go easy on the salt. (塩を控えめにしてください。)"
+    },
+    {
+      "id": 66,
+      "value": "inquiry",
+      "options": [
+        "要求",
+        "質問",
+        "抗議",
+        "返答"
+      ],
+      "correctAnswer": "質問",
+      "explanation": "「inquiry」は、質問、問い合わせ、調査という意味です。情報を求める行為を指します。\n\n例：I have an inquiry about your services. (あなたのサービスについて問い合わせがあります。)"
+    },
+    {
+      "id": 67,
+      "value": "crossed some sort of line",
+      "options": [
+        "成功した",
+        "一線を越えた",
+        "合意に達した",
+        "進歩した"
+      ],
+      "correctAnswer": "一線を越えた",
+      "explanation": "「cross a line」は、許容範囲を超える、一線を越えるという意味です。相手を不快にさせたり、タブーに触れたりする行為を指します。\n\n例：You crossed the line when you made fun of her weight. (彼女の体重をからかったとき、あなたは一線を越えた。)"
+    },
+    {
+      "id": 68,
+      "value": "social equilibrium",
+      "options": [
+        "社会的混乱",
+        "社会的不平等",
+        "社会的均衡",
+        "社会的孤立"
+      ],
+      "correctAnswer": "社会的均衡",
+      "explanation": "「social equilibrium」は、社会的なバランス、均衡状態を意味します。人間関係や社会システムが安定している状態を指します。"
+    },
+    {
+      "id": 69,
+      "value": "female primates",
+      "options": [
+        "女性の友人",
+        "女性の敵",
+        "女性の霊長類",
+        "女性の同僚"
+      ],
+      "correctAnswer": "女性の霊長類",
+      "explanation": "「female primates」は、女性の霊長類を指します。ここでは、人間を含む哺乳類のグループを指しています。"
+    },
+    {
+      "id": 70,
+      "value": "courted",
+      "options": [
+        "避ける",
+        "無視する",
+        "求愛される",
+        "嫌われる"
+      ],
+      "correctAnswer": "求愛される",
+      "explanation": "「court」は、求愛する、気を引くという意味です。ここでは、他の女性に求愛されている状況を指します。\n\n例：He courted her for months before she agreed to marry him. (彼女が結婚に同意するまで、彼は数ヶ月間彼女に求愛した。)"
+    },
+    {
+      "id": 71,
+      "value": "rival female",
+      "options": [
+        "尊敬する女性",
+        "敵対する女性",
+        "協力的な女性",
+        "無関係な女性"
+      ],
+      "correctAnswer": "敵対する女性",
+      "explanation": "「rival female」は、競争相手である女性を指します。恋愛関係や地位などを巡って競争する女性のことです。"
+    },
+    {
+      "id": 72,
+      "value": "secreting the pheromones",
+      "options": [
+        "フェロモンを抑制する",
+        "フェロモンを生成する",
+        "フェロモンを研究する",
+        "フェロモンを無視する"
+      ],
+      "correctAnswer": "フェロモンを生成する",
+      "explanation": "「secrete」は、分泌するという意味です。ここでは、フェロモンを分泌することを指します。フェロモンは、動物が異性を引きつけたり、コミュニケーションを取ったりするために分泌する化学物質です。"
+    },
+    {
+      "id": 73,
+      "value": "destined to go unsatisfied",
+      "options": [
+        "満たされる運命にある",
+        "満たされない運命にある",
+        "満たされるかもしれない",
+        "満たされるはずがない"
+      ],
+      "correctAnswer": "満たされない運命にある",
+      "explanation": "「destined」は運命にあるという意味です。「destined to go unsatisfied」は、満たされない運命にある、という意味になります。"
+    },
+    {
+      "id": 74,
+      "value": "alpha male",
+      "options": [
+        "最弱の男性",
+        "平均的な男性",
+        "リーダー",
+        "臆病者"
+      ],
+      "correctAnswer": "リーダー",
+      "explanation": "「alpha male」は、群れの中で最も優位な立場のオスを指します。ここでは、リーダーシップや強さを示す男性を意味します。\n\n例：He always tries to be the alpha male in the group. (彼はいつもグループの中でリーダーになろうとする。)"
+    },
+    {
+      "id": 75,
+      "value": "exhibition of physical domination",
+      "options": [
+        "肉体的支配の誇示",
+        "肉体的支援の申し出",
+        "肉体的弱さの露呈",
+        "肉体的魅力の誇示"
+      ],
+      "correctAnswer": "肉体的支配の誇示",
+      "explanation": "「exhibition of physical domination」は、肉体的な支配を誇示する行為を指します。ここでは、男性が力強さを見せつけることを意味します。"
+    },
+    {
+      "id": 76,
+      "value": "for god's sakes",
+      "options": [
+        "神に感謝を",
+        "本当に",
+        "落ち着いて",
+        "何てことだ"
+      ],
+      "correctAnswer": "何てことだ",
+      "explanation": "「For God's sake」は、驚き、苛立ち、または懇願を表すために使われる感嘆表現です。日本語の「勘弁してくれ」や「なんてこった」に近いニュアンスを持ちます。口語的な表現で、フォーマルな場面では避けるべきです。"
+    },
+    {
+      "id": 77,
+      "value": "came to peace with",
+      "options": [
+        "平和を維持する",
+        "受け入れる",
+        "議論する",
+        "無視する"
+      ],
+      "correctAnswer": "受け入れる",
+      "explanation": "「come to peace with」は、困難な状況や受け入れがたい事実を最終的に受け入れ、心の平穏を得るという意味です。過去の出来事や自身の欠点など、克服困難な事柄に対して用いられます。"
+    },
+    {
+      "id": 78,
+      "value": "beta male",
+      "options": [
+        "リーダー",
+        "臆病者",
+        "助手",
+        "従属的な男性"
+      ],
+      "correctAnswer": "従属的な男性",
+      "explanation": "「Beta male」は、社会的な階層構造において、アルファ（支配的な）男性よりも下位に位置する男性を指す言葉です。一般的に、控えめで従順な性格を持つとされます。動物行動学に由来する概念で、人間社会における類似の行動パターンを説明するために用いられます。"
+    },
+    {
+      "id": 79,
+      "value": "time-honoured",
+      "options": [
+        "時代遅れの",
+        "最新の",
+        "伝統的な",
+        "一時的な"
+      ],
+      "correctAnswer": "伝統的な",
+      "explanation": "「time-honored」は、長年にわたって尊重され、伝統として確立されていることを意味します。古くから続く習慣、儀式、価値観などに対して用いられ、その歴史的な重みを強調します。類義語としては、traditional, established, age-oldなどがあります。"
+    },
+    {
+      "id": 80,
+      "value": "alpha male",
+      "options": [
+        "優しい男性",
+        "リーダー",
+        "一般的な男性",
+        "弱い男性"
+      ],
+      "correctAnswer": "リーダー",
+      "explanation": "「Alpha male」は、集団の中で最も支配的でリーダーシップを発揮する男性を指します。自信に満ち溢れ、競争心が強く、他人を惹きつける魅力を持つとされます。動物行動学の概念が人間社会に応用されたもので、ビジネスや社会的な文脈で用いられることがあります。"
+    },
+    {
+      "id": 81,
+      "value": "burst into tears",
+      "options": [
+        "泣き止む",
+        "突然泣き出す",
+        "笑い出す",
+        "叫び出す"
+      ],
+      "correctAnswer": "突然泣き出す",
+      "explanation": "「burst into tears」は、感情が抑えきれずに突然泣き出すことを意味します。強い悲しみ、喜び、または感動など、様々な感情が引き金となることがあります。同様の意味を持つ表現としては、break down in tearsやstart cryingがあります。"
+    },
+    {
+      "id": 82,
+      "value": "teasing",
+      "options": [
+        "褒める",
+        "からかう",
+        "慰める",
+        "励ます"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「teasing」は、冗談を言ったり、軽くからかったりすることを意味します。親愛の情や遊び心を含んでいることが多く、相手を不快にさせない範囲で行われることが重要です。類義語としては、banter, jest, ribbingなどがあります。"
+    },
+    {
+      "id": 83,
+      "value": "contra-indicated",
+      "options": [
+        "推奨される",
+        "禁忌である",
+        "許可される",
+        "必要である"
+      ],
+      "correctAnswer": "禁忌である",
+      "explanation": "「contraindicated」は、特定の治療法や行為が、特定の状況下では有害または不適切であることを意味します。医学用語としてよく用いられ、特定の薬物、病状、または患者の状態が、特定の治療の実施を妨げる場合に適用されます。"
+    },
+    {
+      "id": 84,
+      "value": "discharge papers",
+      "options": [
+        "入学願書",
+        "退院証明書",
+        "処方箋",
+        "診断書"
+      ],
+      "correctAnswer": "退院証明書",
+      "explanation": "「Discharge papers」は、病院や医療施設から退院する際に発行される書類です。入院期間、治療内容、今後の指示などが記載されています。退院手続きに必要な書類であり、保険請求や今後の治療の参考資料となります。"
+    },
+    {
+      "id": 85,
+      "value": "tut",
+      "options": [
+        "褒め言葉",
+        "舌打ち",
+        "笑い声",
+        "咳払い"
+      ],
+      "correctAnswer": "舌打ち",
+      "explanation": "「Tut」は、不承認、不満、または軽蔑を表すために舌を鳴らす音を指します。口頭での反論を避ける代わりに、非言語的に不快感や不賛成を示す際に用いられます。文化的背景によって意味合いが異なる場合があります。"
+    },
+    {
+      "id": 86,
+      "value": "bail out of",
+      "options": [
+        "参加する",
+        "支援する",
+        "降りる",
+        "始める"
+      ],
+      "correctAnswer": "降りる",
+      "explanation": "「bail out of」は、困難な状況や責任から逃れる、または途中で放棄することを意味します。経済的な救済、人間関係の解消、プロジェクトからの離脱など、様々な状況で使用されます。口語的な表現で、ネガティブな意味合いを持つことが多いです。"
+    },
+    {
+      "id": 87,
+      "value": "way to look needy",
+      "options": [
+        "寛大に見える方法",
+        "必要なものを見つける方法",
+        "困っているように見える方法",
+        "自立しているように見える方法"
+      ],
+      "correctAnswer": "困っているように見える方法",
+      "explanation": "「Way to look needy」は、相手に必要とされたい、依存したいという気持ちが強く表れている様子を指す皮肉めいた表現です。相手にプレッシャーを与えたり、引いてしまったりする可能性があるため、注意が必要です。"
+    },
+    {
+      "id": 88,
+      "value": "hacked",
+      "options": [
+        "修理した",
+        "侵入した",
+        "改善した",
+        "作成した"
+      ],
+      "correctAnswer": "侵入した",
+      "explanation": "「hacked」は、コンピュータシステムやネットワークに不正に侵入することを意味します。セキュリティの脆弱性を利用して、個人情報や機密情報を盗み出したり、システムを破壊したりする行為を指します。深刻な犯罪行為であり、法的処罰の対象となります。"
+    },
+    {
+      "id": 89,
+      "value": "insane",
+      "options": [
+        "賢い",
+        "普通",
+        "正気でない",
+        "冷静な"
+      ],
+      "correctAnswer": "正気でない",
+      "explanation": "「insane」は、精神的に異常な状態、つまり正気ではない状態を指します。法律や医学の分野で使用されることがあり、責任能力の有無を判断する上で重要な要素となります。日常会話では、非常識な行動や考え方をする人に対して使われることもあります。"
+    },
+    {
+      "id": 90,
+      "value": "conceive of",
+      "options": [
+        "理解する",
+        "無視する",
+        "忘れる",
+        "想像する"
+      ],
+      "correctAnswer": "想像する",
+      "explanation": "「conceive of」は、何かを想像する、心に思い描く、または理解することを意味します。抽象的な概念やアイデア、または現実には存在しないものを頭の中で作り出す際に用いられます。類義語としては、imagine, envision, pictureなどがあります。"
+    },
+    {
+      "id": 91,
+      "value": "Don't even!",
+      "options": [
+        "気にしないで",
+        "言わないで",
+        "頑張って",
+        "おめでとう"
+      ],
+      "correctAnswer": "言わないで",
+      "explanation": "「Don't even!」は、相手の発言や行動に対して強い不快感や拒絶感を示す口語表現です。相手にそれ以上言わないでほしい、またはその話題に触れないでほしいという気持ちを表します。しばしば、皮肉やユーモアを込めて用いられます。"
+    },
+    {
+      "id": 92,
+      "value": "Let out a noise",
+      "options": [
+        "音を立てる",
+        "秘密にする",
+        "騒音を消す",
+        "音楽をかける"
+      ],
+      "correctAnswer": "音を立てる",
+      "explanation": "「Let out a noise」は、声や音を発することを意味します。意図的な場合もあれば、感情が高ぶって思わず声が出てしまう場合もあります。文脈によって、様々な種類の音（叫び声、ため息、笑い声など）を指すことがあります。"
+    },
+    {
+      "id": 93,
+      "value": "fall down the well",
+      "options": [
+        "成功する",
+        "井戸に落ちる",
+        "助けを求める",
+        "失敗する"
+      ],
+      "correctAnswer": "井戸に落ちる",
+      "explanation": "「fall down the well」は、文字通りには井戸に落ちるという意味ですが、比喩的には困難な状況や問題に陥ることを指します。特に、助けが必要な状況を暗示する際に用いられます。童話や寓話に由来する表現です。"
+    },
+    {
+      "id": 94,
+      "value": "for the win",
+      "options": [
+        "勝利のために",
+        "負け犬",
+        "引き分け",
+        "最悪"
+      ],
+      "correctAnswer": "勝利のために",
+      "explanation": "「for the win」は、勝利や成功を確信している、またはそれを目指している状況を表す口語表現です。特に、ゲームや競争などの文脈でよく用いられ、最終的な勝利を強調する際に使われます。類義語としては、to win, for victoryなどがあります。"
+    },
+    {
+      "id": 95,
+      "value": "Hang on a sec",
+      "options": [
+        "急いで",
+        "少し待って",
+        "あきらめて",
+        "逃げて"
+      ],
+      "correctAnswer": "少し待って",
+      "explanation": "「Hang on a sec」は、「Hold on a second」の略で、人に少しの間待つように頼む際に使われる口語的な表現です。短い時間、例えば数秒から数分の待ち時間を意味します。親しい間柄でよく使われます。"
+    },
+    {
+      "id": 96,
+      "value": "go ahead",
+      "options": [
+        "戻って",
+        "進んで",
+        "止まって",
+        "諦めて"
+      ],
+      "correctAnswer": "進んで",
+      "explanation": "「Go ahead」は、人に何かを始める許可を与える、または人に何かをするように促す際に使われる表現です。許可を与える意味合いの他に、相手に何かを提案する際にも使われます。"
+    },
+    {
+      "id": 97,
+      "value": "get you home",
+      "options": [
+        "家を売る",
+        "家に帰る",
+        "家を建てる",
+        "家を借りる"
+      ],
+      "correctAnswer": "家に帰る",
+      "explanation": "「Get you home」は、誰かを家に送り届ける、または帰宅させるという意味です。相手を気遣う気持ちや、安全に帰宅してほしいという願いが込められています。タクシーや運転代行を利用する際にも使われます。"
+    },
+    {
+      "id": 98,
+      "value": "perfectly pleasant person",
+      "options": [
+        "完璧に不快な人",
+        "非常に魅力的な人",
+        "完全に平凡な人",
+        "とても感じの良い人"
+      ],
+      "correctAnswer": "とても感じの良い人",
+      "explanation": "「Perfectly pleasant person」は、非常に感じが良く、誰に対しても友好的で親切な人を指します。性格が穏やかで、周囲の人々を快適にさせるような人物を表現する際に用いられます。"
+    },
+    {
+      "id": 99,
+      "value": "facebook status update",
+      "options": [
+        "フェイスブックの削除",
+        "フェイスブックの更新",
+        "フェイスブックの乗っ取り",
+        "フェイスブックの停止"
+      ],
+      "correctAnswer": "フェイスブックの更新",
+      "explanation": "「Facebook status update」は、Facebook上で自分の近況や考えを共有する投稿のことです。自分の状態や状況を伝えることで、友人や知人とのコミュニケーションを円滑にする役割を果たします。プライバシー設定に注意する必要があります。"
+    },
+    {
+      "id": 100,
+      "value": "have a girlfriend",
+      "options": [
+        "彼女と別れる",
+        "彼女が欲しい",
+        "彼女がいる",
+        "彼女を失う"
+      ],
+      "correctAnswer": "彼女がいる",
+      "explanation": "「Have a girlfriend」は、恋人関係にある女性がいる状態を指します。恋愛関係において、重要なステータスであり、親密な関係を築いていることを意味します。結婚を前提とした関係である場合もあります。"
+    }
+  ]
+}

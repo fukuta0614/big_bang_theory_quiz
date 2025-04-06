@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "trepidation",
+      "options": [
+        "期待",
+        "不安",
+        "喜び",
+        "興奮"
+      ],
+      "correctAnswer": "不安",
+      "explanation": "「trepidation」は、何か危険なことや不快なことが起こるかもしれないという不安や恐れを表します。特に、将来の出来事に対する漠然とした心配や、何かをすることへのためらいを意味することが多いです。フォーマルな場面で使われることが多い単語です。\n\n例：He felt trepidation before his job interview. (彼は就職面接の前に不安を感じた。)"
+    },
+    {
+      "id": 2,
+      "value": "deduce",
+      "options": [
+        "推論する",
+        "無視する",
+        "創造する",
+        "信じる"
+      ],
+      "correctAnswer": "推論する",
+      "explanation": "「deduce」は、既知の事実や情報から論理的に結論を導き出すことを意味します。演繹的に推論するというニュアンスがあり、客観的な根拠に基づいて結論を出す場合に使われます。\n\n例：We can deduce from his behavior that he is not happy. (彼の行動から、彼が幸せではないと推論できる。)"
+    },
+    {
+      "id": 3,
+      "value": "invasive",
+      "options": [
+        "友好的な",
+        "侵略的な",
+        "協力的な",
+        "革新的な"
+      ],
+      "correctAnswer": "侵略的な",
+      "explanation": "「invasive」は、文字通りには「侵入する」という意味ですが、医学の分野では「身体に深く入り込む」という意味合いで使用されます。ここでは、身体検査などが対象となるため、「侵襲的な」と解釈できます。\n\n例：The doctor recommended an invasive procedure to diagnose the problem. (医師は問題を診断するために、侵襲的な処置を勧めた。)"
+    },
+    {
+      "id": 4,
+      "value": "pondering",
+      "options": [
+        "無視する",
+        "熟考する",
+        "非難する",
+        "忘れる"
+      ],
+      "correctAnswer": "熟考する",
+      "explanation": "「ponder」は、何かをじっくりと、深く考えるという意味です。問題や状況について、様々な角度から検討し、結論を出そうとする際に使われます。日常会話よりも、やや文学的な、または思索的な文脈で用いられることが多いです。\n\n例：She was pondering what to do with her life. (彼女は自分の人生をどうすべきか熟考していた。)"
+    },
+    {
+      "id": 5,
+      "value": "implications",
+      "options": [
+        "結果",
+        "重要性",
+        "影響",
+        "理由"
+      ],
+      "correctAnswer": "影響",
+      "explanation": "「implication」は、ある行動や決定、出来事が間接的に、または将来的に持つ可能性のある影響や結果を指します。直接的な結果だけでなく、含みや示唆といった意味合いも含まれます。しばしば複数形（implications）で用いられ、様々な側面からの影響を考慮するニュアンスがあります。\n\n例：The decision has significant implications for the future of the company. (その決定は会社の将来に重大な影響を及ぼす。)"
+    },
+    {
+      "id": 6,
+      "value": "passivity",
+      "options": [
+        "積極性",
+        "消極性",
+        "創造性",
+        "感受性"
+      ],
+      "correctAnswer": "消極性",
+      "explanation": "「passivity」は、積極的な行動をせず、状況に身を任せる状態を指します。自ら働きかけたり、変化を起こそうとしたりするのではなく、受動的に物事が進むのを見守る態度を表します。しばしば、無関心や無気力といったネガティブな意味合いで用いられることがあります。\n\n例：His passivity in the face of injustice was disheartening. (不正に対する彼の消極的な態度は落胆させられた。)"
+    },
+    {
+      "id": 7,
+      "value": "delusion",
+      "options": [
+        "現実",
+        "妄想",
+        "真実",
+        "希望"
+      ],
+      "correctAnswer": "妄想",
+      "explanation": "「delusion」は、現実とは異なる、強く確信している誤った信念を指します。客観的な証拠や論理的な議論によって訂正することができない、病的な状態を意味することが多いです。精神医学的な文脈でよく用いられます。\n\n例：He suffered from delusions of grandeur. (彼は誇大妄想に苦しんでいた。)"
+    },
+    {
+      "id": 8,
+      "value": "pleasantries",
+      "options": [
+        "苦痛",
+        "挨拶",
+        "議論",
+        "秘密"
+      ],
+      "correctAnswer": "挨拶",
+      "explanation": "「pleasantry」は、社交的な場面で交わされる、形式的な挨拶やお世辞、軽い会話を指します。本題に入る前の、場を和ませるための儀礼的なやり取りを意味することが多いです。複数形（pleasantries）で用いられることが一般的です。\n\n例：After exchanging pleasantries, they got down to business. (挨拶を交わした後、彼らは本題に入った。)"
+    },
+    {
+      "id": 9,
+      "value": "enmeshed",
+      "options": [
+        "解放された",
+        "巻き込まれた",
+        "無視された",
+        "保護された"
+      ],
+      "correctAnswer": "巻き込まれた",
+      "explanation": "「enmesh」は、文字通りには「網に絡み取る」という意味ですが、心理学的な文脈では、特に人間関係において、過度に関わり合い、境界線が曖昧になっている状態を指します。互いの自立性や個性が失われ、依存的な関係になっている状況を表すことが多いです。\n\n例：The family was enmeshed in each other's lives. (その家族は互いの人生に深く関わり合っていた。)"
+    },
+    {
+      "id": 10,
+      "value": "outmoded",
+      "options": [
+        "最新の",
+        "時代遅れの",
+        "革新的な",
+        "普遍的な"
+      ],
+      "correctAnswer": "時代遅れの",
+      "explanation": "「outmoded」は、もはや現代的ではなく、時代遅れになった、旧式のという意味です。考え方、方法、製品など、様々なものに対して使われます。\n\n例：The technology is now outmoded. (その技術は今や時代遅れだ。)"
+    },
+    {
+      "id": 11,
+      "value": "locus",
+      "options": [
+        "焦点",
+        "場所",
+        "原因",
+        "結果"
+      ],
+      "correctAnswer": "焦点",
+      "explanation": "「locus」は、ラテン語で「場所」を意味する言葉で、中心となる場所、または視点、源泉といった意味合いで使用されます。心理学の分野では、「locus of control（統制の所在）」という概念でよく用いられ、人が出来事の原因をどこに帰属させるかを示します。\n\n例：The locus of power shifted to the new CEO. (権力の焦点は新しいCEOに移った。)"
+    },
+    {
+      "id": 12,
+      "value": "intercourse",
+      "options": [
+        "会話",
+        "交流",
+        "性交",
+        "通信"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「intercourse」は、ここでは性交を意味します。医学的、またはフォーマルな文脈で用いられることが多い単語です。\n\n例：They had intercourse last night. (彼らは昨夜性交した。)"
+    },
+    {
+      "id": 13,
+      "value": "Oolong",
+      "options": [
+        "紅茶",
+        "緑茶",
+        "烏龍茶",
+        "麦茶"
+      ],
+      "correctAnswer": "烏龍茶",
+      "explanation": "「Oolong」は、中国茶の一種である烏龍茶を指します。半発酵茶であり、独特の香りと風味が特徴です。\n\n例：I prefer oolong tea over green tea. (私は緑茶よりも烏龍茶が好きだ。)"
+    },
+    {
+      "id": 14,
+      "value": "analytical",
+      "options": [
+        "感情的な",
+        "分析的な",
+        "直感的な",
+        "創造的な"
+      ],
+      "correctAnswer": "分析的な",
+      "explanation": "\"analytical\"は、物事を細かく分析し、論理的に考えることを意味します。客観的なデータや事実に基づいて判断する際に用いられます。\n\n例：She has an analytical mind. (彼女は分析的な思考の持ち主だ。)"
+    },
+    {
+      "id": 15,
+      "value": "postpone",
+      "options": [
+        "始める",
+        "延期する",
+        "中止する",
+        "促進する"
+      ],
+      "correctAnswer": "延期する",
+      "explanation": "\"postpone\"は、予定されていたイベントや活動を後の日付または時間に延期することを意味します。\n\n例：We had to postpone the meeting due to the snowstorm. (吹雪のため、会議を延期しなければなりませんでした。)"
+    },
+    {
+      "id": 16,
+      "value": "significant",
+      "options": [
+        "重要でない",
+        "重要な",
+        "無視できる",
+        "些細な"
+      ],
+      "correctAnswer": "重要な",
+      "explanation": "\"significant\"は、重要である、注目に値する、または大きな影響力を持つことを意味します。\n\n例：The discovery was significant for the field of medicine. (その発見は医学の分野にとって重要だった。)"
+    },
+    {
+      "id": 17,
+      "value": "assume",
+      "options": [
+        "知っている",
+        "仮定する",
+        "証明する",
+        "否定する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "\"assume\"は、証拠がない状態で何かを真実であると仮定することを意味します。\n\n例：I assume you're coming to the party. (あなたがパーティーに来ると仮定します。)"
+    },
+    {
+      "id": 18,
+      "value": "typical",
+      "options": [
+        "珍しい",
+        "典型的な",
+        "異常な",
+        "例外的な"
+      ],
+      "correctAnswer": "典型的な",
+      "explanation": "\"typical\"は、特定の種類やグループに共通する特性や行動を示すことを意味します。\n\n例：This is a typical example of his work. (これは彼の作品の典型的な例です。)"
+    },
+    {
+      "id": 19,
+      "value": "primary",
+      "options": [
+        "二次的な",
+        "主要な",
+        "補助的な",
+        "付随的な"
+      ],
+      "correctAnswer": "主要な",
+      "explanation": "\"primary\"は、最も重要である、または最も基本的な意味を持ちます。\n\n例：Her primary goal is to finish her degree. (彼女の主要な目標は学位を修了することです。)"
+    },
+    {
+      "id": 20,
+      "value": "adolescence",
+      "options": [
+        "幼年期",
+        "青年期",
+        "成年期",
+        "老年期"
+      ],
+      "correctAnswer": "青年期",
+      "explanation": "\"adolescence\"は、子供から大人への移行期である青年期を指します。\n\n例：Adolescence can be a difficult time for many teenagers. (青年期は多くのティーンエイジャーにとって困難な時期となることがあります。)"
+    },
+    {
+      "id": 21,
+      "value": "sequence",
+      "options": [
+        "無秩序",
+        "順序",
+        "混乱",
+        "ランダム"
+      ],
+      "correctAnswer": "順序",
+      "explanation": "\"sequence\"は、特定の順序で並んだ一連のイベントやアイテムを意味します。\n\n例：The events occurred in a specific sequence. (そのイベントは特定の順序で発生しました。)"
+    },
+    {
+      "id": 22,
+      "value": "non-functional",
+      "options": [
+        "機能的な",
+        "非機能的な",
+        "効率的な",
+        "効果的な"
+      ],
+      "correctAnswer": "非機能的な",
+      "explanation": "\"non-functional\"は、正常に機能しない、または動作しない状態を意味します。\n\n例：The machine is non-functional and needs repair. (その機械は非機能的で修理が必要です。)"
+    },
+    {
+      "id": 23,
+      "value": "remarkable",
+      "options": [
+        "普通の",
+        "注目すべき",
+        "平凡な",
+        "ありふれた"
+      ],
+      "correctAnswer": "注目すべき",
+      "explanation": "\"remarkable\"は、注目に値する、または非常に優れていることを意味します。\n\n例：She has a remarkable talent for music. (彼女は音楽において注目すべき才能を持っています。)"
+    },
+    {
+      "id": 24,
+      "value": "invasive medical test",
+      "options": [
+        "身体への負担が少ない検査",
+        "身体への負担が大きい検査",
+        "痛みを伴わない検査",
+        "時間がかからない検査"
+      ],
+      "correctAnswer": "身体への負担が大きい検査",
+      "explanation": "\"invasive medical test\"は、身体に何らかの形で侵入する医療検査を指します。これには、針を刺したり、内視鏡を使用したりする検査が含まれます。\n\n例：A biopsy is an example of an invasive medical test. (生検は侵襲的な医療検査の例です。)"
+    },
+    {
+      "id": 25,
+      "value": "go ahead",
+      "options": [
+        "中断する",
+        "進める",
+        "保留する",
+        "キャンセルする"
+      ],
+      "correctAnswer": "進める",
+      "explanation": "\"go ahead\"は、何かを始める、または続ける許可を与えることを意味します。また、行動を開始すること自体を指すこともあります。\n\n例：\"Go ahead,\" she said, giving her consent. (彼女は同意を与え、「進めて」と言った。)"
+    },
+    {
+      "id": 26,
+      "value": "steeped",
+      "options": [
+        "浸した",
+        "沸騰させた",
+        "冷ました",
+        "かき混ぜた"
+      ],
+      "correctAnswer": "浸した",
+      "explanation": "「steep」は、液体に浸す、浸漬するという意味です。お茶やハーブなどを淹れる際に使われます。ここでは、紅茶のティーバッグを浸す時間を尋ねています。\n\n例：Steep the tea bag for three to five minutes. (ティーバッグを3〜5分浸してください。)"
+    },
+    {
+      "id": 27,
+      "value": "pro forma",
+      "options": [
+        "仮の",
+        "形式的な",
+        "専門的な",
+        "最新の"
+      ],
+      "correctAnswer": "形式的な",
+      "explanation": "「pro forma」は、ラテン語由来で「形式的な」「見せかけの」という意味です。ここでは、結婚の体裁を保つための性行為であったことを婉曲的に表現しています。\n\n例：The meeting was pro forma, with no real discussion taking place. (会議は形式的なもので、実質的な議論は行われなかった。)"
+    },
+    {
+      "id": 28,
+      "value": "consummation",
+      "options": [
+        "消費",
+        "完成",
+        "合意",
+        "達成"
+      ],
+      "correctAnswer": "完成",
+      "explanation": "「consummation」は、完成、成就、特に結婚の性的な意味での成立を指します。ここでは、結婚の成立としての性行為を指しています。\n\n例：The consummation of the deal was celebrated with a party. (取引の成立はパーティーで祝われた。)"
+    },
+    {
+      "id": 29,
+      "value": "anthropological",
+      "options": [
+        "人類学的な",
+        "心理学的な",
+        "社会学的な",
+        "生物学的な"
+      ],
+      "correctAnswer": "人類学的な",
+      "explanation": "「anthropological」は、人類学的な、人類学に関するという意味です。ここでは、父親が人類学的な視点から同様の論文を書いたことを示しています。\n\n例：The anthropological study examined the customs of the tribe. (その人類学的研究は、部族の慣習を調査した。)"
+    },
+    {
+      "id": 30,
+      "value": "swell",
+      "options": [
+        "素晴らしい",
+        "膨張する",
+        "悪化する",
+        "普通"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「swell」は、ここでは皮肉を込めて「素晴らしい」「よかったね」という意味で使われています。不快な話題に対する反発として使われる口語表現です。\n\n例：“I failed the exam.” “Swell.”（「試験に落ちたよ。」「よかったね。」）"
+    },
+    {
+      "id": 31,
+      "value": "menopausal symptoms",
+      "options": [
+        "更年期の症状",
+        "風邪の症状",
+        "アレルギーの症状",
+        "妊娠の症状"
+      ],
+      "correctAnswer": "更年期の症状",
+      "explanation": "「menopausal symptoms」は、更年期（閉経）の症状という意味です。ホットフラッシュ、気分の変動、睡眠障害など、さまざまな症状があります。\n\n例：She is experiencing menopausal symptoms such as hot flashes and night sweats. (彼女はほてりや寝汗のような更年期の症状を経験している。)"
+    },
+    {
+      "id": 32,
+      "value": "hit it off",
+      "options": [
+        "仲良くなる",
+        "けんかする",
+        "うまくいかない",
+        "偶然出会う"
+      ],
+      "correctAnswer": "仲良くなる",
+      "explanation": "「hit it off」は、すぐに意気投合する、仲良くなるという意味のイディオムです。初めて会った人に対して使われることが多いです。\n\n例：We hit it off immediately and became good friends. (私たちはすぐに意気投合して良い友達になった。)"
+    },
+    {
+      "id": 33,
+      "value": "misremembering",
+      "options": [
+        "誤って覚えている",
+        "正しく覚えている",
+        "忘れている",
+        "思い出せない"
+      ],
+      "correctAnswer": "誤って覚えている",
+      "explanation": "「misremember」は、誤って記憶している、記憶違いをするという意味です。事実と異なることを覚えている状態を指します。\n\n例：He was misremembering the details of the accident. (彼は事故の詳細を誤って記憶していた。)"
+    },
+    {
+      "id": 34,
+      "value": "Brussels sprouts",
+      "options": [
+        "芽キャベツ",
+        "ブロッコリー",
+        "カリフラワー",
+        "白菜"
+      ],
+      "correctAnswer": "芽キャベツ",
+      "explanation": "「Brussels sprouts」は、芽キャベツのことです。独特の苦味があり、好き嫌いが分かれる野菜です。\n\n例：Some people love Brussels sprouts, while others hate them. (芽キャベツが好きな人もいれば、嫌いな人もいる。)"
+    },
+    {
+      "id": 35,
+      "value": "glue electrodes",
+      "options": [
+        "電極を貼り付ける",
+        "電極を取り外す",
+        "電極を調整する",
+        "電極を交換する"
+      ],
+      "correctAnswer": "電極を貼り付ける",
+      "explanation": "「glue electrodes」は、電極を糊付けして貼り付けるという意味です。医学的な実験や検査で、脳波などを測定するために行われます。\n\n例：The doctor glued electrodes to his scalp to measure his brain activity. (医者は彼の頭皮に電極を貼り付けて脳の活動を測定した。)"
+    },
+    {
+      "id": 36,
+      "value": "potty training",
+      "options": [
+        "トイレトレーニング",
+        "運動のトレーニング",
+        "食事のトレーニング",
+        "睡眠のトレーニング"
+      ],
+      "correctAnswer": "トイレトレーニング",
+      "explanation": "「potty training」は、トイレトレーニング、おむつ離れのことです。子供が自分でトイレに行けるように訓練することです。\n\n例：Potty training can be a challenging time for parents. (トイレトレーニングは親にとって大変な時期になることがある。)"
+    },
+    {
+      "id": 37,
+      "value": "EEG",
+      "options": [
+        "脳波検査",
+        "心電図検査",
+        "血液検査",
+        "レントゲン検査"
+      ],
+      "correctAnswer": "脳波検査",
+      "explanation": "「EEG」は、electroencephalogramの略で、脳波検査のことです。脳の電気的な活動を測定する検査です。\n\n例：The doctor ordered an EEG to check for seizures. (医者は発作を確認するために脳波検査を指示した。)"
+    },
+    {
+      "id": 38,
+      "value": "tenured",
+      "options": [
+        "終身在職権のある",
+        "臨時の",
+        "退職した",
+        "休職中の"
+      ],
+      "correctAnswer": "終身在職権のある",
+      "explanation": "「tenured」は、終身在職権のある、テニュア（終身在職権）を得ているという意味です。大学教授などが安定した地位を得ていることを指します。\n\n例：She is a tenured professor at the university. (彼女はその大学の終身在職権のある教授です。)"
+    },
+    {
+      "id": 39,
+      "value": "respective fields",
+      "options": [
+        "それぞれの分野",
+        "共通の分野",
+        "未知の分野",
+        "専門外の分野"
+      ],
+      "correctAnswer": "それぞれの分野",
+      "explanation": "「respective fields」は、それぞれの分野、各自の専門分野という意味です。複数人が異なる分野で活動していることを指します。\n\n例：They are experts in their respective fields. (彼らはそれぞれの分野の専門家です。)"
+    },
+    {
+      "id": 40,
+      "value": "suck",
+      "options": [
+        "最低だ",
+        "最高だ",
+        "普通だ",
+        "不明だ"
+      ],
+      "correctAnswer": "最低だ",
+      "explanation": "「suck」は、俗語で「ひどい」「最悪だ」という意味です。ここでは、相手の嫌なことを言う行為に対して使われています。\n\n例：This movie sucks. (この映画はひどい。)"
+    },
+    {
+      "id": 41,
+      "value": "gibbon",
+      "options": [
+        "テナガザル",
+        "ゴリラ",
+        "チンパンジー",
+        "オランウータン"
+      ],
+      "correctAnswer": "テナガザル",
+      "explanation": "「gibbon」は、テナガザルのことです。東南アジアに生息する小型の類人猿です。\n\n例：Gibbons are known for their long arms and loud calls. (テナガザルは長い腕と大きな鳴き声で知られている。)"
+    },
+    {
+      "id": 42,
+      "value": "mock",
+      "options": [
+        "嘲笑する",
+        "称賛する",
+        "無視する",
+        "応援する"
+      ],
+      "correctAnswer": "嘲笑する",
+      "explanation": "「mock」は、嘲笑する、馬鹿にするという意味です。相手を軽蔑するような態度で笑うことを指します。\n\n例：They mocked him for his accent. (彼らは彼のアクセントをからかった。)"
+    },
+    {
+      "id": 43,
+      "value": "bladder voiding",
+      "options": [
+        "排尿",
+        "呼吸",
+        "食事",
+        "睡眠"
+      ],
+      "correctAnswer": "排尿",
+      "explanation": "「bladder voiding」は、排尿、膀胱を空にすることです。医学的な文脈で使われることが多い表現です。\n\n例：He had difficulty with bladder voiding after the surgery. (彼は手術後、排尿に苦労した。)"
+    },
+    {
+      "id": 44,
+      "value": "real estate",
+      "options": [
+        "不動産",
+        "宝石",
+        "車",
+        "株"
+      ],
+      "correctAnswer": "不動産",
+      "explanation": "「real estate」は、不動産、土地や建物などのことです。ここでは、排尿における場所の重要性を比喩的に表現しています。\n\n例：Investing in real estate can be a good way to build wealth. (不動産への投資は、資産を築く良い方法となり得る。)"
+    },
+    {
+      "id": 45,
+      "value": "stem from",
+      "options": [
+        "由来する",
+        "解決する",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "由来する",
+      "explanation": "「stem from」は、〜から生じる、〜に由来するという意味です。原因や起源を示す際に使われます。\n\n例：His fear of heights stems from a childhood experience. (彼の高所恐怖症は子供の頃の経験に由来する。)"
+    },
+    {
+      "id": 46,
+      "value": "intercourse",
+      "options": [
+        "性交",
+        "会話",
+        "交流",
+        "取引"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「intercourse」は、性交、性行為という意味です。フォーマルな場面で使われることが多い表現です。\n\n例：They had intercourse for the first time on their wedding night. (彼らは結婚式の夜に初めて性交をした。)"
+    },
+    {
+      "id": 47,
+      "value": "hit you with a Bible",
+      "options": [
+        "聖書で叩く",
+        "聖書を読む",
+        "聖書を贈る",
+        "聖書を隠す"
+      ],
+      "correctAnswer": "聖書で叩く",
+      "explanation": "「hit you with a Bible」は、聖書で叩くという意味です。厳格な宗教的な家庭で、子供をしつけるために行われる体罰を指します。\n\n例：His strict parents would hit him with a Bible if he misbehaved. (彼の厳格な両親は、彼が悪いことをすると聖書で叩いた。)"
+    },
+    {
+      "id": 48,
+      "value": "go there",
+      "options": [
+        "その話題に触れる",
+        "そこに行く",
+        "そこを避ける",
+        "そこにとどまる"
+      ],
+      "correctAnswer": "その話題に触れる",
+      "explanation": "「go there」は、（通常は不快な）話題に触れるという意味です。ここでは、兄弟姉妹の成功について話すことを避けてほしいという気持ちを表しています。\n\n例：I don't want to go there right now. (今はその話題に触れたくない。)"
+    },
+    {
+      "id": 49,
+      "value": "adolescent",
+      "options": [
+        "青年期の",
+        "幼児期の",
+        "中年期の",
+        "老年期の"
+      ],
+      "correctAnswer": "青年期の",
+      "explanation": "「adolescent」は、青年期の、思春期のという意味です。ここでは、成長途中のテナガザルに人間の膵臓を育てていることを指しています。\n\n例：She works with adolescent patients. (彼女は青年期の患者を診ている。)"
+    },
+    {
+      "id": 50,
+      "value": "Okee-day",
+      "options": [
+        "オーケー",
+        "問題ない",
+        "違う",
+        "わからない"
+      ],
+      "correctAnswer": "オーケー",
+      "explanation": "「Okee-day」は、「Okay」を幼児っぽく、またはふざけて言った表現です。同意や確認を求める際に使われます。\n\n例：We'll meet at 8, okee-day? (8時に会いましょう、オーケー？)"
+    },
+    {
+      "id": 51,
+      "value": "borders on",
+      "options": [
+        "始まる",
+        "改善する",
+        "類似する",
+        "終わる"
+      ],
+      "correctAnswer": "類似する",
+      "explanation": "「borders on」は、「～に似ている」「～に近い」という意味で、ある性質や状態が別の性質や状態に非常に近いことを表します。しばしば、ある程度誇張やユーモアを含んだ表現として使われます。\n\n例：His behavior borders on rudeness. (彼の行動は無礼に近い。)"
+    },
+    {
+      "id": 52,
+      "value": "stem from",
+      "options": [
+        "始まる",
+        "終わる",
+        "改善する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "始まる",
+      "explanation": "「stem from」は、「～から生じる」「～に由来する」という意味で、ある事柄の原因や起源を示す際に用いられます。何かの結果や影響が、特定の源から発生していることを説明するのに適しています。\n\n例：His fear of heights stems from a childhood accident. (彼の高所恐怖症は子供の頃の事故に由来する。)"
+    },
+    {
+      "id": 53,
+      "value": "ersatz",
+      "options": [
+        "本物の",
+        "偽物の",
+        "希少な",
+        "一般的な"
+      ],
+      "correctAnswer": "偽物の",
+      "explanation": "「ersatz」は、「代用の」「偽の」という意味で、通常、品質が劣る代替品を指します。特に、資源が不足している状況で、オリジナルの代わりに使用されるものを指すことが多いです。\n\n例：Ersatz coffee was used during the war due to coffee bean shortages. (コーヒー豆不足のため、戦時中は代用コーヒーが使われた。)"
+    },
+    {
+      "id": 54,
+      "value": "unassailable",
+      "options": [
+        "議論の余地がある",
+        "攻撃できない",
+        "理解不能な",
+        "無視できる"
+      ],
+      "correctAnswer": "攻撃できない",
+      "explanation": "「unassailable」は、「攻撃できない」「反論の余地がない」という意味で、非常に強力で確固たる根拠があるため、批判や反論が難しいことを表します。論理や証拠が非常に強固な場合に用いられます。\n\n例：Her argument was unassailable, and no one could disagree with her. (彼女の主張は反論の余地がなく、誰も彼女に反対できなかった。)"
+    },
+    {
+      "id": 55,
+      "value": "for the record",
+      "options": [
+        "念のため",
+        "秘密に",
+        "個人的に",
+        "公式には"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「for the record」は、「念のため」「記録のために」という意味で、自分の意見や情報を正式に伝え、後で参照できるようにするために使われます。しばしば、自分の立場を明確にするために用いられます。\n\n例：For the record, I disagree with this decision. (念のため言っておきますが、私はこの決定に反対です。)"
+    },
+    {
+      "id": 56,
+      "value": "bring up",
+      "options": [
+        "育てる",
+        "言及する",
+        "終わらせる",
+        "隠す"
+      ],
+      "correctAnswer": "言及する",
+      "explanation": "「bring up」は、「（話題を）持ち出す」「言及する」という意味で、会話や議論の中で特定の話題を新たに導入する際に使われます。しばしば、過去の出来事や以前に議論された事柄を再び取り上げる際に用いられます。\n\n例：Why did you have to bring up my embarrassing moment in front of everyone? (なぜみんなの前で私の恥ずかしい瞬間を持ち出す必要があったの？)"
+    },
+    {
+      "id": 57,
+      "value": "get alcohol",
+      "options": [
+        "アルコールを手に入れる",
+        "アルコールをやめる",
+        "アルコールを拒否する",
+        "アルコールを我慢する"
+      ],
+      "correctAnswer": "アルコールを手に入れる",
+      "explanation": "「get alcohol」は、文字通り「アルコールを手に入れる」という意味ですが、ここでは文脈から、アルコール飲料を飲む、または手に入れることを指しています。特に、ストレスや困難な状況から逃避するためにアルコールを求めるニュアンスが含まれます。\n\n例：After a long day at work, I just want to go home and get alcohol. (仕事で長い一日を過ごした後、ただ家に帰ってアルコールを飲みたい。)"
+    },
+    {
+      "id": 58,
+      "value": "half bombed",
+      "options": [
+        "完全に酔っ払った",
+        "少し酔っ払った",
+        "全く酔っていない",
+        "気分が良い"
+      ],
+      "correctAnswer": "少し酔っ払った",
+      "explanation": "「half bombed」は、「ほろ酔いの」「少し酔っ払った」という意味のスラング表現です。完全に酔っている状態ではなく、軽いアルコールの影響を受けている状態を指します。カジュアルな会話でよく使われます。\n\n例：I'm not completely drunk, just half bombed. (完全に酔っているわけではなく、ただのほろ酔いです。)"
+    },
+    {
+      "id": 59,
+      "value": "get into your head",
+      "options": [
+        "頭痛がする",
+        "理解する",
+        "影響を与える",
+        "忘れる"
+      ],
+      "correctAnswer": "影響を与える",
+      "explanation": "「get into your head」は、「（人の）考えに影響を与える」「（人の）心を支配する」という意味で、他人の言葉や行動が自分の思考や感情に深く影響を及ぼすことを表します。しばしば、ネガティブな影響を指すことが多いです。\n\n例：Don't let his comments get into your head. (彼のコメントに影響されないように。)"
+    },
+    {
+      "id": 60,
+      "value": "locus",
+      "options": [
+        "場所",
+        "焦点",
+        "軌跡",
+        "理論"
+      ],
+      "correctAnswer": "焦点",
+      "explanation": "「locus」は、「場所」「位置」という意味ですが、ここでは「焦点」「中心」という意味で使われています。特に、抽象的な概念や議論の中心点を指す際に用いられます。ラテン語由来のフォーマルな言葉です。\n\n例：The locus of the debate is on economic inequality. (議論の焦点は経済的不平等にある。)"
+    },
+    {
+      "id": 61,
+      "value": "exterior to",
+      "options": [
+        "内部の",
+        "外部の",
+        "類似した",
+        "重要な"
+      ],
+      "correctAnswer": "外部の",
+      "explanation": "「exterior to」は、「～の外にある」「～とは関係がない」という意味で、あるものの本質や中心から外れた場所にあることを表します。哲学的な文脈や抽象的な議論でよく使われます。\n\n例：The meaning of life is exterior to material possessions. (人生の意味は物質的な所有物とは関係がない。)"
+    },
+    {
+      "id": 62,
+      "value": "perky",
+      "options": [
+        "元気な",
+        "悲しい",
+        "退屈な",
+        "怒っている"
+      ],
+      "correctAnswer": "元気な",
+      "explanation": "「perky」は、「元気な」「活発な」「陽気な」という意味で、エネルギッシュで明るい性格や様子を表します。しばしば、外向的で快活な人を指す際に用いられます。\n\n例：She always seems perky and cheerful, even in the morning. (彼女は朝でもいつも元気で陽気に見える。)"
+    },
+    {
+      "id": 63,
+      "value": "sensation of",
+      "options": [
+        "感覚",
+        "無感覚",
+        "知識",
+        "欠如"
+      ],
+      "correctAnswer": "感覚",
+      "explanation": "「sensation of」は、「～の感覚」という意味で、五感を通じて感じる感情や知覚を指します。ここでは、人との触れ合いや温かさを求める気持ちを表しています。\n\n例：The sensation of warmth is comforting on a cold day. (寒い日には暖かさの感覚が心地よい。)"
+    },
+    {
+      "id": 64,
+      "value": "hugging machine",
+      "options": [
+        "抱擁する機械",
+        "洗濯機",
+        "料理機",
+        "掃除機"
+      ],
+      "correctAnswer": "抱擁する機械",
+      "explanation": "「hugging machine」は、「抱擁する機械」という意味で、ここでは文字通り抱きしめる機能を持つ機械を指します。物語の中では、人との接触を求める感情の象徴として用いられています。\n\n例：He invented a hugging machine to ease his loneliness. (彼は孤独を癒すために抱擁する機械を発明した。)"
+    },
+    {
+      "id": 65,
+      "value": "elpful",
+      "options": [
+        "役に立つ",
+        "有害な",
+        "不要な",
+        "無意味な"
+      ],
+      "correctAnswer": "役に立つ",
+      "explanation": "「elpful」は、「helpful」のタイプミスで、「役に立つ」「助けになる」という意味です。提供された情報や行動が、特定の目的を達成するのに役立つことを表します。\n\n例：Your advice was very helpful in solving the problem. (あなたの助言は問題を解決するのに非常に役立ちました。)"
+    },
+    {
+      "id": 66,
+      "value": "remarkable",
+      "options": [
+        "普通の",
+        "注目すべき",
+        "退屈な",
+        "不快な"
+      ],
+      "correctAnswer": "注目すべき",
+      "explanation": "「remarkable」は、「注目すべき」「驚くべき」「並外れた」という意味で、通常とは異なる、または非常に優れた性質を持つことを表します。良い意味で使われることが多いです。\n\n例：She has a remarkable talent for music. (彼女は音楽において並外れた才能を持っている。)"
+    },
+    {
+      "id": 67,
+      "value": "common complaint",
+      "options": [
+        "一般的な不満",
+        "珍しい賞賛",
+        "秘密の喜び",
+        "公の秘密"
+      ],
+      "correctAnswer": "一般的な不満",
+      "explanation": "「common complaint」は、「よくある不満」「一般的な苦情」という意味で、多くの人が同じ問題に対して不満を持っていることを表します。特定の問題が広く認識され、不快感を引き起こしている状況を示します。\n\n例：Long waiting times are a common complaint at this hospital. (長い待ち時間は、この病院でよくある不満です。)"
+    },
+    {
+      "id": 68,
+      "value": "hear the end of it",
+      "options": [
+        "終わりの始まりを聞く",
+        "最後まで聞く",
+        "いつも言われる",
+        "沈黙を守る"
+      ],
+      "correctAnswer": "いつも言われる",
+      "explanation": "「hear the end of it」は、「（～のことで）うるさく言われ続ける」「（～について）いつまでも聞かされる」という意味で、ある問題や出来事について、繰り返し話題にされ、非難や批判を受け続ける状況を表します。\n\n例：If I make a mistake, I'll never hear the end of it from my boss. (もし私がミスをしたら、上司からいつまでも言われ続けるだろう。)"
+    },
+    {
+      "id": 69,
+      "value": "physiology",
+      "options": [
+        "心理学",
+        "生理学",
+        "哲学",
+        "病理学"
+      ],
+      "correctAnswer": "生理学",
+      "explanation": "「physiology」は、「生理学」という意味で、生物の正常な機能や生命現象を研究する学問分野を指します。ここでは、脳の構造や機能について言及しています。\n\n例：The physiology of the brain is a complex field of study. (脳の生理学は複雑な研究分野です。)"
+    },
+    {
+      "id": 70,
+      "value": "selective mutism",
+      "options": [
+        "選択的記憶喪失",
+        "選択的緘黙",
+        "完全失語症",
+        "多弁症"
+      ],
+      "correctAnswer": "選択的緘黙",
+      "explanation": "「selective mutism」は、「選択的緘黙（かんもく）」という意味で、特定の社会的な状況でのみ話すことができない不安障害の一種です。他の状況では正常に話すことができます。\n\n例：Selective mutism can be a challenging condition for children in school. (選択的緘黙は、学校に通う子供たちにとって困難な状態となり得る。)"
+    },
+    {
+      "id": 71,
+      "value": "sociological cliché",
+      "options": [
+        "社会学的真実",
+        "社会学的常套句",
+        "社会学的理論",
+        "社会学的進歩"
+      ],
+      "correctAnswer": "社会学的常套句",
+      "explanation": "「sociological cliché」は、「社会学的常套句」という意味で、社会学的な観察や議論において、過度に一般化され、新鮮さを失った固定観念やステレオタイプを指します。しばしば、現実を単純化しすぎているとして批判的に用いられます。\n\n例：The idea that all politicians are corrupt is a sociological cliché. (すべての政治家が腐敗しているという考えは、社会学的常套句である。)"
+    },
+    {
+      "id": 72,
+      "value": "inability to separate",
+      "options": [
+        "分離能力",
+        "統合能力",
+        "識別能力",
+        "協調性"
+      ],
+      "correctAnswer": "分離能力",
+      "explanation": "「inability to separate」は、「分離できないこと」「自立できないこと」という意味で、特に親や家族から精神的、感情的に自立することが難しい状態を指します。心理学的な文脈でよく用いられます。\n\n例：His inability to separate from his family has hindered his personal growth. (彼が家族から自立できないことが、彼の個人的な成長を妨げている。)"
+    },
+    {
+      "id": 73,
+      "value": "pathological fear",
+      "options": [
+        "合理的な恐怖",
+        "病的な恐怖",
+        "一時的な不安",
+        "健全な警戒心"
+      ],
+      "correctAnswer": "病的な恐怖",
+      "explanation": "「pathological fear」は、「病的な恐怖」という意味で、通常の恐怖心を超えて、日常生活に支障をきたすほどの強い恐怖や不安を指します。精神医学的な診断が必要となる場合もあります。\n\n例：His pathological fear of spiders makes it difficult for him to go outside. (彼のクモに対する病的な恐怖のために、彼は外出することが難しい。)"
+    },
+    {
+      "id": 74,
+      "value": "dark matter signal",
+      "options": [
+        "暗黒物質信号",
+        "明るい物質信号",
+        "ノイズ",
+        "干渉波"
+      ],
+      "correctAnswer": "暗黒物質信号",
+      "explanation": "「dark matter signal」は、「暗黒物質信号」という意味で、宇宙に存在する未知の物質である暗黒物質から発せられる可能性のある信号を指します。物理学や天文学の研究対象です。\n\n例：Scientists are searching for the dark matter signal using sensitive detectors. (科学者たちは、高感度検出器を使って暗黒物質信号を探している。)"
+    },
+    {
+      "id": 75,
+      "value": "sodium iodide crystals",
+      "options": [
+        "塩化ナトリウム結晶",
+        "ヨウ化ナトリウム結晶",
+        "ダイヤモンド",
+        "水晶"
+      ],
+      "correctAnswer": "ヨウ化ナトリウム結晶",
+      "explanation": "「sodium iodide crystals」は、「ヨウ化ナトリウム結晶」という意味で、特定の種類の物理実験や検出器で使用される物質です。暗黒物質の研究にも用いられることがあります。\n\n例：Sodium iodide crystals are used in detectors to search for rare events. (ヨウ化ナトリウム結晶は、まれな現象を探すための検出器で使用される。)"
+    },
+    {
+      "id": 76,
+      "value": "empirical evidence",
+      "options": [
+        "直接的な証拠",
+        "経験的な証拠",
+        "間接的な証拠",
+        "伝聞による証拠"
+      ],
+      "correctAnswer": "経験的な証拠",
+      "explanation": "「empirical evidence」は、観察や実験を通して得られた証拠のこと。理論や推測ではなく、実際に体験したり、データとして収集したりした情報に基づいています。科学的研究や客観的な判断をする際に重要な要素となります。例文：The study relies on empirical evidence to support its claims. (その研究は、主張を裏付けるために経験的な証拠に頼っている。)"
+    },
+    {
+      "id": 77,
+      "value": "flattery",
+      "options": [
+        "侮辱",
+        "批判",
+        "お世辞",
+        "軽蔑"
+      ],
+      "correctAnswer": "お世辞",
+      "explanation": "「flattery」は、相手を喜ばせるために大げさに褒めたり、実際以上に良く言ったりすること。必ずしも悪い意味ではなく、コミュニケーションを円滑にするために使われることもあります。例文：He used flattery to get what he wanted. (彼はお世辞を使って自分の欲しいものを手に入れた。)"
+    },
+    {
+      "id": 78,
+      "value": "odds",
+      "options": [
+        "機会",
+        "確率",
+        "結果",
+        "偶然"
+      ],
+      "correctAnswer": "確率",
+      "explanation": "「odds」は、ある事象が起こる可能性、確率を意味します。ギャンブルや競争など、結果が不確実な状況でよく使われます。「What are the odds?」は、「可能性はどのくらい？」「まさか！」といった意味で使われます。例文：What are the odds of winning the lottery? (宝くじに当たる確率はどのくらい？)"
+    },
+    {
+      "id": 79,
+      "value": "workaday",
+      "options": [
+        "特別な",
+        "日常的な",
+        "創造的な",
+        "退屈な"
+      ],
+      "correctAnswer": "日常的な",
+      "explanation": "「workaday」は、平凡で日常的な、ありふれたという意味です。特に、仕事や生活に関連して使われることが多いです。例文：He led a workaday life as an office clerk. (彼は事務員として平凡な毎日を送っていた。)"
+    },
+    {
+      "id": 80,
+      "value": "rhetorical",
+      "options": [
+        "修辞的な",
+        "直接的な",
+        "簡潔な",
+        "間接的な"
+      ],
+      "correctAnswer": "修辞的な",
+      "explanation": "「rhetorical」は、修辞的な、言葉巧みな、という意味です。特に、質問が「rhetorical question（修辞疑問）」として使われる場合、答えを期待するものではなく、強調や議論のために用いられます。例文：His speech was full of rhetorical devices. (彼の演説は修辞的な表現に満ちていた。)"
+    },
+    {
+      "id": 81,
+      "value": "tempted",
+      "options": [
+        "強制された",
+        "誘惑された",
+        "拒否された",
+        "無視された"
+      ],
+      "correctAnswer": "誘惑された",
+      "explanation": "「tempted」は、～したい気持ちになる、誘惑されるという意味です。何か魅力的なものや、やってはいけないことに対して心が動く状態を表します。例文：I was tempted to eat the whole cake. (ケーキを全部食べたい気持ちになった。)"
+    },
+    {
+      "id": 82,
+      "value": "appropriate",
+      "options": [
+        "不適切な",
+        "適切な",
+        "普通の",
+        "独特な"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "「appropriate」は、状況や目的に適している、ふさわしいという意味です。社会的な規範やマナーに合致していることを表す場合もあります。例文：Is it appropriate to wear jeans to a wedding? (結婚式にジーンズを履いていくのは適切ですか？)"
+    },
+    {
+      "id": 83,
+      "value": "speculate",
+      "options": [
+        "証明する",
+        "推測する",
+        "否定する",
+        "確認する"
+      ],
+      "correctAnswer": "推測する",
+      "explanation": "「speculate」は、根拠が不十分なまま推測する、憶測するという意味です。特に、科学的な根拠がない場合や、不確かな情報に基づいて意見を述べる際に使われます。例文：Analysts speculate that the company will announce a merger soon. (アナリストたちは、その会社が近いうちに合併を発表すると推測している。)"
+    },
+    {
+      "id": 84,
+      "value": "hesitant",
+      "options": [
+        "乗り気な",
+        "ためらう",
+        "喜んで",
+        "熱心な"
+      ],
+      "correctAnswer": "ためらう",
+      "explanation": "「hesitant」は、ためらう、躊躇するという意味です。何かをすることに不安や迷いを感じている状態を表します。例文：She was hesitant to accept the job offer. (彼女はその仕事のオファーを受けるのをためらった。)"
+    },
+    {
+      "id": 85,
+      "value": "unanticipated",
+      "options": [
+        "予期された",
+        "予期せぬ",
+        "計画された",
+        "無視された"
+      ],
+      "correctAnswer": "予期せぬ",
+      "explanation": "「unanticipated」は、予期せぬ、予想外のという意味です。計画や予想とは異なることが起こる状況を表します。例文：The company faced unanticipated problems with the new product launch. (その会社は新製品の発売で予期せぬ問題に直面した。)"
+    },
+    {
+      "id": 86,
+      "value": "remarkable",
+      "options": [
+        "平凡な",
+        "注目すべき",
+        "退屈な",
+        "ありふれた"
+      ],
+      "correctAnswer": "注目すべき",
+      "explanation": "「remarkable」は、注目すべき、著しい、並外れたという意味です。普通とは違う、特別な印象を与えるものに対して使われます。例文：She achieved remarkable success in her career. (彼女はキャリアにおいて目覚ましい成功を収めた。)"
+    },
+    {
+      "id": 87,
+      "value": "release",
+      "options": [
+        "抑制",
+        "解放",
+        "増加",
+        "減少"
+      ],
+      "correctAnswer": "解放",
+      "explanation": "「release」は、解放、放出、公開など、様々な意味を持つ単語ですが、ここでは「放出」の意味合いが強いです。例文：The release of endorphins made her feel better. (エンドルフィンの放出で彼女は気分が良くなった。)"
+    },
+    {
+      "id": 88,
+      "value": "endorphins",
+      "options": [
+        "抗生物質",
+        "神経伝達物質",
+        "ホルモン",
+        "毒素"
+      ],
+      "correctAnswer": "ホルモン",
+      "explanation": "「endorphins」は、エンドルフィンという脳内麻薬の一種です。幸福感や快感をもたらし、痛みを和らげる効果があります。運動や楽しい活動によって分泌が促進されます。例文：Exercise can help release endorphins and improve mood. (運動はエンドルフィンの放出を助け、気分を改善する。) "
+    },
+    {
+      "id": 89,
+      "value": "appealing to",
+      "options": [
+        "反発する",
+        "訴えかける",
+        "無視する",
+        "抵抗する"
+      ],
+      "correctAnswer": "訴えかける",
+      "explanation": "「appealing to」は、～に訴えかける、～の興味を引くという意味です。相手の感情や欲求に働きかけ、賛同や行動を促す際に使われます。例文：The advertisement is appealing to young consumers. (その広告は若い消費者に訴えかけている。)"
+    },
+    {
+      "id": 90,
+      "value": "neuroscientific",
+      "options": [
+        "心理学的な",
+        "神経科学的な",
+        "社会学的な",
+        "経済学的な"
+      ],
+      "correctAnswer": "神経科学的な",
+      "explanation": "「neuroscientific」は、神経科学的な、脳科学的なという意味です。脳や神経系の構造、機能、発達などを研究する分野に関連する言葉です。例文：Neuroscientific research has advanced our understanding of the brain. (神経科学的な研究は、脳の理解を深めた。)"
+    },
+    {
+      "id": 91,
+      "value": "go with",
+      "options": [
+        "反対する",
+        "賛成する",
+        "無視する",
+        "確認する"
+      ],
+      "correctAnswer": "賛成する",
+      "explanation": "「go with」は、～を選ぶ、～に賛成する、～を支持するという意味です。選択肢の中から一つを選んだり、提案や意見に同意したりする際に使われます。例文：I'm going to go with the blue dress. (青いドレスにするわ。)"
+    },
+    {
+      "id": 92,
+      "value": "duetting",
+      "options": [
+        "独唱する",
+        "合唱する",
+        "演奏する",
+        "踊る"
+      ],
+      "correctAnswer": "合唱する",
+      "explanation": "「duetting」は、二重唱する、デュエットするという意味です。2人で歌ったり、演奏したりすることを指します。例文：They were duetting a popular song. (彼らは人気のある歌をデュエットしていた。)"
+    },
+    {
+      "id": 93,
+      "value": "pick up where we left off",
+      "options": [
+        "中断する",
+        "再開する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "再開する",
+      "explanation": "「pick up where we left off」は、中断したところから再開するという意味です。一時的に中断していた活動や会話などを再開する際に使われます。例文：Let's pick up where we left off last night. (昨夜中断したところから再開しましょう。)"
+    },
+    {
+      "id": 94,
+      "value": "get over it",
+      "options": [
+        "理解する",
+        "乗り越える",
+        "諦める",
+        "忘れる"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get over it」は、困難や悲しみ、ショックなどを乗り越える、立ち直るという意味です。相手に早く気持ちを切り替えて元気を出してほしい時に使われます。例文：He needs to get over his ex-girlfriend. (彼は元彼女のことを乗り越える必要がある。)"
+    },
+    {
+      "id": 95,
+      "value": "be willing to",
+      "options": [
+        "したがらない",
+        "喜んで～する",
+        "～するのを拒否する",
+        "～するのを避ける"
+      ],
+      "correctAnswer": "喜んで～する",
+      "explanation": "「be willing to」は、喜んで～する、～するのをいとわないという意味です。相手の要求や提案に対して、快く応じる意思を示す際に使われます。例文：I am willing to help you with your homework. (あなたの宿題を手伝うのをいとわない。)"
+    },
+    {
+      "id": 96,
+      "value": "flight",
+      "options": [
+        "喧嘩",
+        "飛行",
+        "議論",
+        "口論"
+      ],
+      "correctAnswer": "飛行",
+      "explanation": "「flight」は、ここでは飛行便、フライトという意味で使われています。例文：Have a nice flight! (良いフライトを！)"
+    },
+    {
+      "id": 97,
+      "value": "slugger",
+      "options": [
+        "怠け者",
+        "強打者",
+        "弱虫",
+        "臆病者"
+      ],
+      "correctAnswer": "強打者",
+      "explanation": "「slugger」は、もともと野球で「強打者」という意味ですが、ここでは親しみを込めた呼びかけとして使われています。スポーツ以外でも、活動的な人や頑張り屋さんに使うことがあります。例文：Hey there, slugger, how are you doing today? (やあ、頑張り屋さん、今日はどう？)"
+    },
+    {
+      "id": 98,
+      "value": "Gotcha",
+      "options": [
+        "どういたしまして",
+        "了解",
+        "ごめんなさい",
+        "はじめまして"
+      ],
+      "correctAnswer": "了解",
+      "explanation": "「Gotcha」は、「I got you」の略で、相手の言っていることを理解した時や、相手を捕まえた時などに使われます。ここでは「了解」の意味で使われています。例文：Gotcha, I understand what you mean. (了解、あなたの言っていることがわかります。)"
+    },
+    {
+      "id": 99,
+      "value": "make up for",
+      "options": [
+        "償う",
+        "非難する",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "償う",
+      "explanation": "「make up for」は、埋め合わせる、償うという意味です。過去の過ちや不足を補うために何かをすることを表します。例文：I tried to make up for my mistake. (私は自分の間違いを償おうとした。)"
+    },
+    {
+      "id": 100,
+      "value": "shush",
+      "options": [
+        "静かにさせる",
+        "褒める",
+        "励ます",
+        "応援する"
+      ],
+      "correctAnswer": "静かにさせる",
+      "explanation": "「shush」は、静かにさせる、黙らせるという意味の擬音語です。騒がしい人に対して静かにするように促す際に使われます。例文：Shush! The baby is sleeping. (静かに！赤ちゃんが寝ているわ。)"
+    }
+  ]
+}

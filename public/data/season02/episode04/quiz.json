@@ -1,0 +1,1205 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "un-kosher",
+      "options": [
+        "合法の",
+        "認証済みの",
+        "不適格な",
+        "伝統的な"
+      ],
+      "correctAnswer": "不適格な",
+      "explanation": "「kosher」は、ユダヤ教の食事規定に適合していることを意味します。「un-kosher」はその反対で、食事規定に違反している、または不適切であることを指します。ここでは、冗談めかして「禁じられた楽しみ」のようなニュアンスで使われています。"
+    },
+    {
+      "id": 2,
+      "value": "sanitize",
+      "options": [
+        "装飾する",
+        "消毒する",
+        "保管する",
+        "修理する"
+      ],
+      "correctAnswer": "消毒する",
+      "explanation": "「sanitize」は、細菌やウイルスなどを殺菌し、清潔にすることを意味します。ここでは、手を清潔にするために使用されています。より広義には、情報や状況などを不快な要素を取り除くために調整することも意味します。"
+    },
+    {
+      "id": 3,
+      "value": "pestilence",
+      "options": [
+        "幸福",
+        "疫病",
+        "清潔",
+        "平和"
+      ],
+      "correctAnswer": "疫病",
+      "explanation": "「pestilence」は、伝染病や疫病を意味する古風な言葉で、特に致死性の高いものを指します。ここでは、細菌の比喩として使われています。"
+    },
+    {
+      "id": 4,
+      "value": "incubator",
+      "options": [
+        "破壊者",
+        "創造者",
+        "孵化器",
+        "革新者"
+      ],
+      "correctAnswer": "孵化器",
+      "explanation": "「incubator」は、細菌や卵などを培養・孵化させるための装置を指します。ここでは、温風乾燥機が細菌を繁殖させる場所であるという比喩として使われています。"
+    },
+    {
+      "id": 5,
+      "value": "gibbon",
+      "options": [
+        "チンパンジー",
+        "ゴリラ",
+        "テナガザル",
+        "オランウータン"
+      ],
+      "correctAnswer": "テナガザル",
+      "explanation": "「gibbon」はテナガザルの一種です。ここでは、不衛生な状況を強調するために、病気に感染したテナガザルのくしゃみを例えとして挙げています。"
+    },
+    {
+      "id": 6,
+      "value": "visionaries",
+      "options": [
+        "先見の明のある人",
+        "詐欺師",
+        "怠け者",
+        "批評家"
+      ],
+      "correctAnswer": "先見の明のある人",
+      "explanation": "「visionary」は、未来を見通す力や創造的なアイデアを持つ人を指します。ここでは、People誌が選んだ「30歳未満の注目すべき人物」を指しています。"
+    },
+    {
+      "id": 7,
+      "value": "rehabilitate",
+      "options": [
+        "罰する",
+        "リハビリする",
+        "無視する",
+        "隔離する"
+      ],
+      "correctAnswer": "リハビリする",
+      "explanation": "「rehabilitate」は、社会復帰や機能回復を支援することを意味します。ここでは、イルカを使って囚人を社会復帰させるというプロジェクトについて言及しています。"
+    },
+    {
+      "id": 8,
+      "value": "honourable mention",
+      "options": [
+        "名誉挽回",
+        "特別賞",
+        "落選",
+        "秘密",
+        "最優秀賞"
+      ],
+      "correctAnswer": "特別賞",
+      "explanation": "「honorable mention」は、主要な賞には及ばないものの、特筆に値する業績に対して与えられる賞賛や言及を意味します。ここでは、ハワードがラージの業績に貢献したことに対する評価を求めています。"
+    },
+    {
+      "id": 9,
+      "value": "heartwarming",
+      "options": [
+        "心が痛む",
+        "心が温まる",
+        "心が冷える",
+        "心が騒ぐ"
+      ],
+      "correctAnswer": "心が温まる",
+      "explanation": "「heartwarming」は、心が温まるような、感動的なという意味です。ここでは、ラージの個人的な物語が感動的であることを指しています。"
+    },
+    {
+      "id": 10,
+      "value": "narrative",
+      "options": [
+        "計算",
+        "物語",
+        "統計",
+        "陰謀"
+      ],
+      "correctAnswer": "物語",
+      "explanation": "「narrative」は、物語や話、語り口という意味です。ここでは、ラージの成功物語が雑誌の記事として語られることを指しています。"
+    },
+    {
+      "id": 11,
+      "value": "gynaecologist",
+      "options": [
+        "心臓外科医",
+        "産婦人科医",
+        "脳神経外科医",
+        "整形外科医"
+      ],
+      "correctAnswer": "産婦人科医",
+      "explanation": "「gynaecologist」は、女性の生殖器系の病気を専門とする医師、産婦人科医を意味します。ここでは、ラージの父親の職業を指しています。"
+    },
+    {
+      "id": 12,
+      "value": "peer review",
+      "options": [
+        "人気投票",
+        "専門家評価",
+        "世論調査",
+        "秘密投票"
+      ],
+      "correctAnswer": "専門家評価",
+      "explanation": "「peer review」は、専門家が同分野の研究や業績を評価することを意味します。ここでは、People誌の記事が科学的な評価に基づかないことを指摘しています。"
+    },
+    {
+      "id": 13,
+      "value": "credentials",
+      "options": [
+        "不適格",
+        "資格",
+        "犯罪歴",
+        "弱点"
+      ],
+      "correctAnswer": "資格",
+      "explanation": "「credentials」は、資格、経歴、実績などを意味します。ここでは、People誌の編集者の資格について疑問を呈しています。"
+    },
+    {
+      "id": 14,
+      "value": "noteworthy",
+      "options": [
+        "取るに足らない",
+        "注目に値する",
+        "秘密の",
+        "忘れられた"
+      ],
+      "correctAnswer": "注目に値する",
+      "explanation": "「noteworthy」は、注目に値する、特筆すべきという意味です。ここでは、ラージの発見が他の科学的成果よりも優れているのか疑問を呈しています。"
+    },
+    {
+      "id": 15,
+      "value": "traipsing around",
+      "options": [
+        "隠れている",
+        "歩き回る",
+        "固定されている",
+        "成長している"
+      ],
+      "correctAnswer": "歩き回る",
+      "explanation": "「traipse」は、特に目的もなく、または疲れて歩き回ることを意味します。ここでは、小惑星が太陽系をさまよっている様子を表しています。"
+    },
+    {
+      "id": 16,
+      "value": "annotations",
+      "options": [
+        "注釈",
+        "削除",
+        "暗号化",
+        "暴露"
+      ],
+      "correctAnswer": "注釈",
+      "explanation": "「annotation」は、注釈、解説、メモなどを意味します。ここでは、シェルドンがホワイトボードに書き込んでいる内容を指します。"
+    },
+    {
+      "id": 17,
+      "value": "colossal",
+      "options": [
+        "小さい",
+        "巨大な",
+        "普通の",
+        "壊れた"
+      ],
+      "correctAnswer": "巨大な",
+      "explanation": "「colossal」は、巨大な、並外れたという意味です。ここでは、ハワードがシェルドンの態度を非難する際に使われています。"
+    },
+    {
+      "id": 18,
+      "value": "ass-hat",
+      "options": [
+        "賢者",
+        "愚か者",
+        "英雄",
+        "臆病者"
+      ],
+      "correctAnswer": "愚か者",
+      "explanation": "「ass-hat」は、非常に不快な人、愚かな人を指す侮辱的なスラングです。ここでは、ハワードがシェルドンの無神経さを非難するために使っています。"
+    },
+    {
+      "id": 19,
+      "value": "beg to differ",
+      "options": [
+        "同意する",
+        "反対する",
+        "無関心",
+        "質問する"
+      ],
+      "correctAnswer": "反対する",
+      "explanation": "「beg to differ」は、丁寧に反対意見を述べる際に使われる表現です。ここでは、シェルドンがハワードの意見に同意しないことを示しています。"
+    },
+    {
+      "id": 20,
+      "value": "lower the bar",
+      "options": [
+        "ハードルを下げる",
+        "ハードルを上げる",
+        "バーを閉じる",
+        "基準を変える"
+      ],
+      "correctAnswer": "ハードルを下げる",
+      "explanation": "「lower the bar」は、基準や期待値を下げるという意味です。ここでは、ラージの友人たちが彼の業績を安易に褒めることで、彼の成長を妨げるとシェルドンが考えています。"
+    },
+    {
+      "id": 21,
+      "value": "coasted",
+      "options": [
+        "努力した",
+        "惰性で進んだ",
+        "急上昇した",
+        "競争した"
+      ],
+      "correctAnswer": "惰性で進んだ",
+      "explanation": "「coast」は、楽に進む、惰性で進むという意味です。ここでは、父親が「最高の父親」マグカップをもらった後、努力を怠ったことを指しています。"
+    },
+    {
+      "id": 22,
+      "value": "condescension",
+      "options": [
+        "連帯",
+        "寛大",
+        "卑屈",
+        "見下し"
+      ],
+      "correctAnswer": "見下し",
+      "explanation": "「condescension」は、見下すような態度、恩着せがましい態度を意味します。ここでは、シェルドンの態度が他人を見下しているように感じられることを指しています。"
+    },
+    {
+      "id": 23,
+      "value": "frankly",
+      "options": [
+        "正直に言って",
+        "大雑把に言って",
+        "皮肉っぽく",
+        "秘密裏に"
+      ],
+      "correctAnswer": "正直に言って",
+      "explanation": "「frankly」は、率直に、正直に言ってという意味です。自分の意見や感情を率直に述べるときに使われます。"
+    },
+    {
+      "id": 24,
+      "value": "to watch",
+      "options": [
+        "見る",
+        "監視する",
+        "注目する",
+        "忘れる"
+      ],
+      "correctAnswer": "注目する",
+      "explanation": "ここでは、People magazineが選んだ「30歳未満の注目すべき人物」を指しています。将来の活躍が期待される人物を意味します。"
+    },
+    {
+      "id": 25,
+      "value": "challenge the preconceptions",
+      "options": [
+        "固定概念を受け入れる",
+        "固定概念を打ち破る",
+        "固定概念を無視する",
+        "固定概念を強化する"
+      ],
+      "correctAnswer": "固定概念を打ち破る",
+      "explanation": "「preconception」は先入観や固定観念という意味です。「challenge the preconceptions」は、既存の考え方や常識に疑問を投げかけ、新しい視点や解決策を探ることを意味します。"
+    },
+    {
+      "id": 26,
+      "value": "grinding on",
+      "options": [
+        "無視する",
+        "熱中する",
+        "軽視する",
+        "我慢する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「grinding on」は、不快な状況や出来事を辛抱強く耐え忍ぶという意味です。特に、それが継続的であったり、精神的に負担が大きい場合に用いられます。\n\n例：The constant noise from the construction site was really grinding on my nerves. (工事現場からの絶え間ない騒音は、本当に神経に障った。)"
+    },
+    {
+      "id": 27,
+      "value": "clump of cosmic schmutz",
+      "options": [
+        "宇宙の塵の塊",
+        "貴重な資源",
+        "高度な文明",
+        "未知のエネルギー"
+      ],
+      "correctAnswer": "宇宙の塵の塊",
+      "explanation": "「cosmic schmutz」は、宇宙空間に存在する取るに足らない、汚らしい物質の塊を指す、ややユーモラスな表現です。「schmutz」はドイツ語由来で、「汚れ」や「ゴミ」といった意味合いを持ちます。\n\n例：He discovered a minor clump of cosmic schmutz, hardly a groundbreaking discovery. (彼は宇宙の塵の小さな塊を発見したが、画期的な発見とは言えない。)"
+    },
+    {
+      "id": 28,
+      "value": "exaggeratedly",
+      "options": [
+        "控えめに",
+        "誇張して",
+        "不器用に",
+        "冷静に"
+      ],
+      "correctAnswer": "誇張して",
+      "explanation": "「exaggeratedly」は、「誇張して」「大げさに」という意味の副詞です。行動や表現が、実際よりも大きく、強く、または顕著に見えるように行われる様子を表します。\n\n例：He smiled exaggeratedly to show his enthusiasm, but it looked unnatural. (彼は熱意を示すために大げさに笑ったが、不自然に見えた。)"
+    },
+    {
+      "id": 29,
+      "value": "suited to",
+      "options": [
+        "適していない",
+        "適している",
+        "興味がない",
+        "反対する"
+      ],
+      "correctAnswer": "適している",
+      "explanation": "「suited to」は、「～に適している」「～にふさわしい」という意味です。特定の目的や状況、人に合致している状態を表します。\n\n例：This office is more suited to your status. (このオフィスはあなたの地位によりふさわしい。)"
+    },
+    {
+      "id": 30,
+      "value": "call dibs on",
+      "options": [
+        "諦める",
+        "優先権を主張する",
+        "提案する",
+        "拒否する"
+      ],
+      "correctAnswer": "優先権を主張する",
+      "explanation": "「call dibs on」は、口頭で何かに対する優先権を主張する際に使われる口語表現です。特に、友人同士の間で、物や場所、行為などに対して使われます。\n\n例：I called dibs on the front seat! (前の席は僕が先に言った！)"
+    },
+    {
+      "id": 31,
+      "value": "raise a pile of money",
+      "options": [
+        "資金を浪費する",
+        "資金を調達する",
+        "資金を隠す",
+        "資金を失う"
+      ],
+      "correctAnswer": "資金を調達する",
+      "explanation": "「raise a pile of money」は、多額の資金を調達するという意味です。特定の目的のために、寄付金を集めたり、投資を募ったりする状況で使われます。\n\n例：His picture in People magazine is going to raise us a pile of money. (彼のピープルマガジンの写真は、私たちに多額の資金をもたらすだろう。)"
+    },
+    {
+      "id": 32,
+      "value": "whisked off",
+      "options": [
+        "ゆっくりと運ばれた",
+        "急いで連れて行かれた",
+        "置き去りにされた",
+        "無視された"
+      ],
+      "correctAnswer": "急いで連れて行かれた",
+      "explanation": "「whisked off」は、誰かまたは何かを素早く、突然に連れ去る、または移動させるという意味です。しばしば、予期せぬ状況や特別な待遇を伴います。\n\n例：After a fantastic lunch I was whisked off to the People magazine photo shoot. (素晴らしい昼食の後、私は急いでピープルマガジンの撮影に連れて行かれた。)"
+    },
+    {
+      "id": 33,
+      "value": "incandescent",
+      "options": [
+        "平凡な",
+        "卓越した",
+        "陰気な",
+        "冷淡な"
+      ],
+      "correctAnswer": "卓越した",
+      "explanation": "「incandescent」は、本来は白熱光を発する、非常に明るいという意味ですが、比喩的には、非常に優秀な、才能にあふれた、輝かしいといった意味合いで使用されます。\n\n例：They're going to digitally add a supernova, they say it’s the perfect metaphor for my incandescent talent. (彼らはスーパーノヴァをデジタルで追加するつもりだ。それは私の輝かしい才能の完璧な比喩だと言っている。)"
+    },
+    {
+      "id": 34,
+      "value": "lackey",
+      "options": [
+        "友人",
+        "部下",
+        "敵",
+        "上司"
+      ],
+      "correctAnswer": "部下",
+      "explanation": "「lackey」は、他人に盲従する召使い、手下、腰巾着といった意味合いを持つ言葉です。軽蔑的なニュアンスを含み、自らの意志を持たず、指示されたことだけを行う人を指します。\n\n例：Yes, but I’m finding that having a lackey suits me. (ああ、でも、部下がいるのが自分に合っていると気づいたんだ。)"
+    },
+    {
+      "id": 35,
+      "value": "politically incorrect",
+      "options": [
+        "政治的に正しい",
+        "政治的に不適切",
+        "流行遅れ",
+        "非常に重要"
+      ],
+      "correctAnswer": "政治的に不適切",
+      "explanation": "「politically incorrect」は、社会的に容認されている規範や価値観に反する、または特定の人々やグループを不快にさせる可能性のある表現や行動を指します。差別的または侮辱的な意味合いを含むことがあります。\n\n例：Oh, I’m sorry, is that politically incorrect? (ああ、ごめん、それは政治的に不適切かな？)"
+    },
+    {
+      "id": 36,
+      "value": "VIP section",
+      "options": [
+        "一般席",
+        "特別席",
+        "立見席",
+        "指定席"
+      ],
+      "correctAnswer": "特別席",
+      "explanation": "「VIP section」は、Very Important Person（非常に重要な人物）のための特別席やエリアを指します。通常、一般の参加者よりも優れたサービスや設備が提供されます。\n\n例：Of course, I couldn’t get you into the VIP section, because, you know, that’s for VIPs, and you guys are just, you know, Ps. (もちろん、君たちをVIPセクションに入れることはできなかった。だって、そこはVIPのためのもので、君たちはただのPだからね。)"
+    },
+    {
+      "id": 37,
+      "value": "stabilizing telescope mount",
+      "options": [
+        "望遠鏡の安定化マウント",
+        "最新型レーザー",
+        "特殊レンズ",
+        "バッテリー"
+      ],
+      "correctAnswer": "望遠鏡の安定化マウント",
+      "explanation": "「stabilizing telescope mount」は、望遠鏡を安定させるための台座や装置のことです。揺れや振動を軽減し、より鮮明な観測を可能にします。"
+    },
+    {
+      "id": 38,
+      "value": "planetary body",
+      "options": [
+        "恒星",
+        "惑星",
+        "彗星",
+        "小惑星などの天体"
+      ],
+      "correctAnswer": "小惑星などの天体",
+      "explanation": "「planetary body」は、惑星や小惑星など、宇宙空間に存在する天体を指す一般的な用語です。"
+    },
+    {
+      "id": 39,
+      "value": "men's room",
+      "options": [
+        "娯楽室",
+        "男子トイレ",
+        "休憩室",
+        "実験室"
+      ],
+      "correctAnswer": "男子トイレ",
+      "explanation": "「men's room」は、男性用トイレを指す一般的な表現です。"
+    },
+    {
+      "id": 40,
+      "value": "photo shoot",
+      "options": [
+        "写真展示会",
+        "写真撮影",
+        "写真加工",
+        "写真販売"
+      ],
+      "correctAnswer": "写真撮影",
+      "explanation": "「photo shoot」は、プロのカメラマンによる写真撮影を指します。雑誌、広告、ポートレートなど、様々な目的で行われます。"
+    },
+    {
+      "id": 41,
+      "value": "metaphor",
+      "options": [
+        "明喩",
+        "隠喩",
+        "直喩",
+        "換喩"
+      ],
+      "correctAnswer": "隠喩",
+      "explanation": "「metaphor」は、比喩の一種で、ある事物や概念を別の事物や概念を用いて表現することで、類似性や関連性を示唆する表現技法です。"
+    },
+    {
+      "id": 42,
+      "value": "social obligations",
+      "options": [
+        "個人的な義務",
+        "社会的な義務",
+        "経済的な義務",
+        "法的な義務"
+      ],
+      "correctAnswer": "社会的な義務",
+      "explanation": "「social obligations」は、社会生活において人々が互いに期待する行動や責任を指します。挨拶、礼儀、付き合いなどが含まれます。"
+    },
+    {
+      "id": 43,
+      "value": "untouchables",
+      "options": [
+        "触れられない人々",
+        "選ばれた人々",
+        "普通の人々",
+        "地位の高い人々"
+      ],
+      "correctAnswer": "触れられない人々",
+      "explanation": "「untouchables」は、インドの伝統的なカースト制度において、最も低い階級に属し、社会的に差別されてきた人々を指します。差別的な意味合いを持つため、使用には注意が必要です。"
+    },
+    {
+      "id": 44,
+      "value": "fake it",
+      "options": [
+        "本物を見つける",
+        "ふりをする",
+        "あきらめる",
+        "正直に話す"
+      ],
+      "correctAnswer": "ふりをする",
+      "explanation": "「fake it」は、「ふりをする」「見せかけを装う」という意味です。実際にはそうではない感情や態度を、表面上だけ演じることを指します。"
+    },
+    {
+      "id": 45,
+      "value": "come on",
+      "options": [
+        "やめて",
+        "さあ、頑張って",
+        "手伝う",
+        "あきらめる"
+      ],
+      "correctAnswer": "さあ、頑張って",
+      "explanation": "「Come on.」は、ここでは「さあ、行こう」「頑張って」という意味合いで使われています。相手を励ましたり、促したりする際に用いられる一般的な表現です。"
+    },
+    {
+      "id": 46,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "お元気ですか？",
+        "何か問題でも？",
+        "何か手伝おうか？"
+      ],
+      "correctAnswer": "お元気ですか？",
+      "explanation": "「What's up?」は、親しい間柄で使われる挨拶の言葉で、「元気？」「調子はどう？」といった意味合いです。状況によっては、「何かあったの？」という意味にもなります。"
+    },
+    {
+      "id": 47,
+      "value": "big buddy",
+      "options": [
+        "親友",
+        "先輩",
+        "体の大きな人",
+        "上司"
+      ],
+      "correctAnswer": "親友",
+      "explanation": "「big buddy」は、親しみを込めて相手を呼ぶ際に使われる表現で、「相棒」「親友」といった意味合いを持ちます。ここでは、GablehauserがRajに対して親近感を示すために使っています。"
+    },
+    {
+      "id": 48,
+      "value": "starry background",
+      "options": [
+        "暗い背景",
+        "星空の背景",
+        "無地の背景",
+        "都市の背景"
+      ],
+      "correctAnswer": "星空の背景",
+      "explanation": "「starry background」は、星空を背景にした状態を指します。写真撮影や舞台演出などで、宇宙や幻想的な雰囲気を演出するために用いられます。"
+    },
+    {
+      "id": 49,
+      "value": "Go for Koothrappali.",
+      "options": [
+        "コータパッリに連絡して",
+        "コータパッリに行って",
+        "コータパッリを応援して",
+        "コータパッリを無視して"
+      ],
+      "correctAnswer": "コータパッリに連絡して",
+      "explanation": "「Go for Koothrappali.」は、電話の相手に対して、コータパッリに繋ぐように指示する際に使われる表現です。ビジネスシーンでよく使われます。"
+    },
+    {
+      "id": 50,
+      "value": "God bless that boy",
+      "options": [
+        "あの男の子に神の祝福を",
+        "あの男の子を軽蔑する",
+        "あの男の子を無視する",
+        "あの男の子に怒る"
+      ],
+      "correctAnswer": "あの男の子に神の祝福を",
+      "explanation": "「God bless that boy」は、文字通りには「あの男の子に神の祝福を」という意味ですが、ここでは、感謝や愛情を込めて、Trevorの幸運を祈る気持ちを表しています。感嘆詞的に使われることが多い表現です。"
+    },
+    {
+      "id": 51,
+      "value": "flaunts",
+      "options": [
+        "隠す",
+        "誇示する",
+        "共有する",
+        "無視する"
+      ],
+      "correctAnswer": "誇示する",
+      "explanation": "「flaunt」は、自分の持っているものや能力を、他人に見せびらかす、誇示するという意味です。しばしば、不快感や軽蔑のニュアンスを伴います。Example: He flaunted his wealth by driving around in expensive cars. (彼は高価な車を乗り回して自分の富を誇示した。)"
+    },
+    {
+      "id": 52,
+      "value": "posse",
+      "options": [
+        "敵",
+        "友人グループ",
+        "家族",
+        "仕事仲間"
+      ],
+      "correctAnswer": "友人グループ",
+      "explanation": "「posse」は、もともと「自警団」の意味ですが、ここでは友人グループ、仲間という意味で使われています。特に、一緒に行動することが多い親しい友人たちを指します。Example: He always hangs out with his posse after school. (彼はいつも放課後、仲間たちとつるんでいる。)"
+    },
+    {
+      "id": 53,
+      "value": "tremendous",
+      "options": [
+        "つまらない",
+        "普通の",
+        "素晴らしい",
+        "悪い"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「tremendous」は、非常に大きい、莫大な、素晴らしいという意味です。規模や程度が非常に大きいことを強調する際に用いられます。Example: They made a tremendous effort to complete the project on time. (彼らはプロジェクトを時間通りに完了させるために、多大な努力をした。)"
+    },
+    {
+      "id": 54,
+      "value": "plummeting",
+      "options": [
+        "上昇する",
+        "水平に移動する",
+        "急落する",
+        "ゆっくりと落ちる"
+      ],
+      "correctAnswer": "急落する",
+      "explanation": "「plummet」は、急落する、垂直に落ちるという意味です。比喩的に、価格や評価などが急激に下がる場合にも使われます。Example: The stock price plummeted after the company announced its losses. (会社が損失を発表した後、株価は急落した。)"
+    },
+    {
+      "id": 55,
+      "value": "knock up",
+      "options": [
+        "褒める",
+        "妊娠させる",
+        "殴る",
+        "助ける"
+      ],
+      "correctAnswer": "妊娠させる",
+      "explanation": "「knock up」は、口語的な表現で、女性を妊娠させるという意味です。やや軽蔑的なニュアンスを含む場合があります。Example: He accidentally knocked her up at a party. (彼はパーティーでうっかり彼女を妊娠させてしまった。)"
+    },
+    {
+      "id": 56,
+      "value": "resplendent",
+      "options": [
+        "暗い",
+        "質素な",
+        "輝かしい",
+        "汚い"
+      ],
+      "correctAnswer": "輝かしい",
+      "explanation": "「resplendent」は、輝かしい、光り輝く、華麗なという意味です。特に、服装や装飾が美しく輝いている様子を表します。Example: She looked resplendent in her elegant evening gown. (彼女は優雅なイブニングドレスを着て、輝いて見えた。)"
+    },
+    {
+      "id": 57,
+      "value": "noonday",
+      "options": [
+        "夜明け",
+        "夕暮れ",
+        "正午",
+        "深夜"
+      ],
+      "correctAnswer": "正午",
+      "explanation": "「noonday」は、正午、真昼という意味です。太陽が最も高く昇る時間帯を指します。Example: The sun was blazing at noonday. (太陽は正午に照りつけていた。)"
+    },
+    {
+      "id": 58,
+      "value": "redonkulous",
+      "options": [
+        "退屈な",
+        "ばかばかしい",
+        "素晴らしい",
+        "地味な"
+      ],
+      "correctAnswer": "ばかばかしい",
+      "explanation": "「redonkulous」は、「ridiculous」を強調したスラングで、非常にばかばかしい、非常識だという意味です。ユーモラスな状況で使われることが多いです。Example: That outfit is redonkulous! (その服装はありえないほどばかげている！)"
+    },
+    {
+      "id": 59,
+      "value": "Okey dokey",
+      "options": [
+        "反対です",
+        "了解",
+        "どうでもいい",
+        "多分ね"
+      ],
+      "correctAnswer": "了解",
+      "explanation": "「Okey dokey」は、「Okay」を少しユーモラスに言ったもので、了解、承知しましたという意味です。親しい間柄で使われることが多いです。Example: Okey dokey, I'll be there in five minutes. (了解、5分後に行くよ。)"
+    },
+    {
+      "id": 60,
+      "value": "raise the roof",
+      "options": [
+        "静かにする",
+        "屋根を修理する",
+        "大騒ぎする",
+        "秘密にする"
+      ],
+      "correctAnswer": "大騒ぎする",
+      "explanation": "「raise the roof」は、大騒ぎをする、盛り上がるという意味のイディオムです。パーティーやイベントなどで、非常に活気のある状態を表します。Example: Let's raise the roof tonight and celebrate! (今夜は大騒ぎして祝おう！)"
+    },
+    {
+      "id": 61,
+      "value": "sulk",
+      "options": [
+        "喜ぶ",
+        "怒る",
+        "すねる",
+        "感謝する"
+      ],
+      "correctAnswer": "すねる",
+      "explanation": "「sulk」は、むっつりする、ふくれる、すねるという意味です。不満や不機嫌さを態度に出して、口をきかないような状態を表します。Example: He was sulking because he didn't get the toy he wanted. (彼は欲しいおもちゃを買ってもらえなかったので、すねていた。)"
+    },
+    {
+      "id": 62,
+      "value": "Pass",
+      "options": [
+        "賛成",
+        "反対",
+        "保留",
+        "続ける"
+      ],
+      "correctAnswer": "反対",
+      "explanation": "「Pass」は、ここでは「いらない」「結構です」という意味のスラングです。何かを勧められたり、提案されたりした際に、それを断る意思表示として使われます。Example: 'Want to try some of this?' - 'No, I'll pass.' (「これ試してみる？」「いや、結構です。」)"
+    },
+    {
+      "id": 63,
+      "value": "mope",
+      "options": [
+        "楽しむ",
+        "元気づける",
+        "ふさぎ込む",
+        "無視する"
+      ],
+      "correctAnswer": "ふさぎ込む",
+      "explanation": "「mope」は、ふさぎ込む、しょんぼりする、うなだれるという意味です。特に、元気がない状態や、悲しみに暮れている様子を表します。Example: He's been moping around ever since she left. (彼女が去ってから、彼はずっとふさぎ込んでいる。)"
+    },
+    {
+      "id": 64,
+      "value": "sleep apnoea",
+      "options": [
+        "悪夢",
+        "不眠症",
+        "睡眠時無呼吸症候群",
+        "金縛り"
+      ],
+      "correctAnswer": "睡眠時無呼吸症候群",
+      "explanation": "「sleep apnoea」は、睡眠時無呼吸症候群という意味です。睡眠中に呼吸が一時的に止まる病気です。Example: He was diagnosed with sleep apnoea and now uses a CPAP machine. (彼は睡眠時無呼吸症候群と診断され、今はCPAPを使用している。)"
+    },
+    {
+      "id": 65,
+      "value": "diced",
+      "options": [
+        "焼く",
+        "煮る",
+        "みじん切り",
+        "さいの目切り"
+      ],
+      "correctAnswer": "さいの目切り",
+      "explanation": "「dice」は、さいの目切りにするという意味です。料理のレシピなどでよく使われる表現です。Example: Dice the vegetables into small cubes. (野菜を小さなさいの目切りにする。)"
+    },
+    {
+      "id": 66,
+      "value": "shredded",
+      "options": [
+        "丸ごと",
+        "焼く",
+        "細かく切られた",
+        "揚げる"
+      ],
+      "correctAnswer": "細かく切られた",
+      "explanation": "「shredded」は、細かく切られた、千切りにされたという意味です。特に、野菜や肉などを細長く切った状態を指します。Example: Shredded carrots are often used in salads. (千切りキャロットはサラダによく使われる。)"
+    },
+    {
+      "id": 67,
+      "value": "specifies",
+      "options": [
+        "提案する",
+        "説明する",
+        "述べる",
+        "隠す"
+      ],
+      "correctAnswer": "述べる",
+      "explanation": "「specify」は、具体的に述べる、明示するという意味です。詳細な情報を伝えたい時に使われます。Example: The contract specifies the exact amount to be paid. (契約書には支払われる正確な金額が明記されている。)"
+    },
+    {
+      "id": 68,
+      "value": "low sodium",
+      "options": [
+        "高カロリー",
+        "低脂肪",
+        "低ナトリウム",
+        "高タンパク"
+      ],
+      "correctAnswer": "低ナトリウム",
+      "explanation": "「low sodium」は、低ナトリウム、減塩という意味です。健康志向の食品などでよく見られる表示です。Example: This soup is low sodium. (このスープは減塩です。)"
+    },
+    {
+      "id": 69,
+      "value": "drive away",
+      "options": [
+        "引き寄せる",
+        "無視する",
+        "追い払う",
+        "隠す"
+      ],
+      "correctAnswer": "追い払う",
+      "explanation": "「drive away」は、追い払う、追い出すという意味です。物理的な意味だけでなく、比喩的にも使われます。Example: The loud noise drove away the birds. (大きな音で鳥は追い払われた。)"
+    },
+    {
+      "id": 70,
+      "value": "count on",
+      "options": [
+        "無視する",
+        "期待する",
+        "忘れる",
+        "軽蔑する"
+      ],
+      "correctAnswer": "期待する",
+      "explanation": "「count on」は、頼る、当てにする、期待するという意味です。誰かや何かが自分の期待通りに行動してくれると信じている状態を表します。Example: You can always count on me to be there for you. (いつでも私を頼っていいよ。)"
+    },
+    {
+      "id": 71,
+      "value": "make it",
+      "options": [
+        "失敗する",
+        "参加できない",
+        "成功する",
+        "忘れる"
+      ],
+      "correctAnswer": "参加できない",
+      "explanation": "「make it」は、ここでは「間に合う」「都合がつく」「参加できる」という意味です。予定やイベントに参加できるかどうかを尋ねる際によく使われます。否定形「can't make it」は「参加できない」という意味になります。Example: I can't make it to the meeting tomorrow. (明日の会議には参加できません。)"
+    },
+    {
+      "id": 72,
+      "value": "honoured",
+      "options": [
+        "恥ずかしい",
+        "光栄",
+        "退屈",
+        "無関心"
+      ],
+      "correctAnswer": "光栄",
+      "explanation": "「honoured」は、光栄に思う、名誉に思うという意味です。何かを依頼されたり、招待されたりした際に、感謝と喜びを表現する言葉として使われます。Example: I am honoured to be invited to speak at the conference. (会議で講演する機会をいただき、光栄に思います。)"
+    },
+    {
+      "id": 73,
+      "value": "leans over",
+      "options": [
+        "立ち上がる",
+        "後ろに下がる",
+        "身を乗り出す",
+        "走り去る"
+      ],
+      "correctAnswer": "身を乗り出す",
+      "explanation": "「lean over」は、身を乗り出す、体を傾けるという意味です。何かを見たり、話しかけたりするために、体を前に傾ける動作を表します。Example: He leaned over to whisper something in her ear. (彼は彼女の耳に何かをささやくために身を乗り出した。)"
+    },
+    {
+      "id": 74,
+      "value": "call me when",
+      "options": [
+        "忘れる",
+        "電話しないで",
+        "電話して",
+        "手紙を送って"
+      ],
+      "correctAnswer": "電話して",
+      "explanation": "「call me when」は、「〜の時に電話して」という意味です。特定の状況になったら連絡してほしいという意思を伝える際に使われます。Example: Call me when you get home safely. (無事に家に帰ったら電話してね。)"
+    },
+    {
+      "id": 75,
+      "value": "get this party started",
+      "options": [
+        "パーティーを終わらせる",
+        "パーティーを始める",
+        "パーティーを中止する",
+        "パーティーを忘れる"
+      ],
+      "correctAnswer": "パーティーを始める",
+      "explanation": "「get this party started」は、「パーティーを始めよう」「盛り上がろう」という意味のイディオムです。パーティーやイベントを始める際に、場を盛り上げるために使われます。Example: Alright everyone, let's get this party started! (さあ皆さん、パーティーを始めましょう！)"
+    },
+    {
+      "id": 76,
+      "value": "shredded",
+      "options": [
+        "粉砕された",
+        "修復された",
+        "隠された",
+        "無視された"
+      ],
+      "correctAnswer": "粉砕された",
+      "explanation": "「shredded」は、細かく切り刻まれた、ばらばらにされたという意味です。この文脈では、チキンが細かく刻まれている状態を指しています。物理的なものだけでなく、書類などが細断されている状況にも使われます。"
+    },
+    {
+      "id": 77,
+      "value": "intercourse",
+      "options": [
+        "会話",
+        "交流",
+        "性交",
+        "中断"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「intercourse」は性交を意味する言葉ですが、ややフォーマルな響きがあります。日常会話では「sex」の方が一般的です。ここでは、クースラポリとペニーが性的な関係を持つ可能性について話しています。"
+    },
+    {
+      "id": 78,
+      "value": "bring to mind",
+      "options": [
+        "思い出す",
+        "忘れる",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "思い出す",
+      "explanation": "「bring to mind」は、何かを思い出させる、連想させるという意味のイディオムです。過去の経験や記憶が、現在の状況と関連付けられる際に使われます。例文: This song brings to mind my high school days. (この歌は私の高校時代を思い出させる。)"
+    },
+    {
+      "id": 79,
+      "value": "panhandle",
+      "options": [
+        "フライパンの取っ手",
+        "細長い地域",
+        "動物の足",
+        "料理の名前"
+      ],
+      "correctAnswer": "細長い地域",
+      "explanation": "「panhandle」は、フライパンの取っ手のように細長く突き出た地域を指します。アメリカ合衆国には、テキサス州やオクラホマ州などに「Panhandle」と呼ばれる地域があります。ここでは、シェルドンの故郷がそのような地域にあることを指しています。"
+    },
+    {
+      "id": 80,
+      "value": "irony impaired",
+      "options": [
+        "皮肉が通じない",
+        "鉄分不足",
+        "運動能力が高い",
+        "視力障害がある"
+      ],
+      "correctAnswer": "皮肉が通じない",
+      "explanation": "「irony impaired」は、皮肉やアイロニーを理解できない、または認識できないことを指す表現です。ここでは、ハワードが皮肉を理解できないことをからかっています。ユーモラスな文脈で使われることが多いです。"
+    },
+    {
+      "id": 81,
+      "value": "untimely demise",
+      "options": [
+        "時宜を得た終焉",
+        "予期せぬ死",
+        "計画的な崩壊",
+        "幸福な再会"
+      ],
+      "correctAnswer": "予期せぬ死",
+      "explanation": "「untimely demise」は、時期尚早な死、予期せぬ死という意味です。ここでは、猫のラッキーが不慮の事故で亡くなったことを指しています。「demise」は、死や終焉を意味するフォーマルな言葉です。例文: The untimely demise of the project led to significant losses. (そのプロジェクトの予期せぬ終焉は、大きな損失につながった。)"
+    },
+    {
+      "id": 82,
+      "value": "telepathic command",
+      "options": [
+        "電話による指示",
+        "言葉による命令",
+        "意思伝達による命令",
+        "書面による命令"
+      ],
+      "correctAnswer": "意思伝達による命令",
+      "explanation": "「telepathic command」は、テレパシーによる命令、つまり言葉を使わずに意思を伝えて命令することを指します。ここでは、シェルドンが想像する理想のペットが、テレパシーで命令に従うことを意味しています。SFやファンタジーの世界でよく使われる概念です。"
+    },
+    {
+      "id": 83,
+      "value": "pedestrian",
+      "options": [
+        "歩行者",
+        "平凡な",
+        "高尚な",
+        "勇敢な"
+      ],
+      "correctAnswer": "平凡な",
+      "explanation": "「pedestrian」は、平凡な、ありふれた、つまらないという意味です。ここでは、シェルドンが「子犬」という選択肢を、ありきたりでつまらないものだと考えていることを表しています。例文: The movie was visually stunning, but the plot was pedestrian. (その映画は映像的には素晴らしかったが、プロットは平凡だった。)"
+    },
+    {
+      "id": 84,
+      "value": "recombinant DNA technology",
+      "options": [
+        "組換えDNA技術",
+        "再生可能エネルギー技術",
+        "画像認識技術",
+        "ロボット工学技術"
+      ],
+      "correctAnswer": "組換えDNA技術",
+      "explanation": "「recombinant DNA technology」は、組換えDNA技術のことで、遺伝子工学の一分野です。異なる生物由来のDNAを組み合わせて、新しい遺伝子を持つ生物を作り出す技術を指します。シェルドンは、この技術を使ってグリフィンを作り出そうとしていました。"
+    },
+    {
+      "id": 85,
+      "value": "secure",
+      "options": [
+        "安全にする",
+        "確保する",
+        "秘密にする",
+        "解放する"
+      ],
+      "correctAnswer": "確保する",
+      "explanation": "「secure」は、確保する、手に入れるという意味です。この文脈では、必要な材料（ワシの卵とライオンの精液）を確保することを指しています。例文: The company managed to secure a lucrative contract. (その会社は、有利な契約を確保することに成功した。)"
+    },
+    {
+      "id": 86,
+      "value": "cohort",
+      "options": [
+        "仲間",
+        "敵",
+        "家族",
+        "先生"
+      ],
+      "correctAnswer": "仲間",
+      "explanation": "「cohort」は、仲間、同僚、集団という意味です。ここでは、シェルドンがクースラポリの代わりに、新しい友人グループを作りたいと考えていることを表しています。例文: The study followed a cohort of patients over several years. (その研究は、数年にわたって患者の集団を追跡調査した。)"
+    },
+    {
+      "id": 87,
+      "value": "animatronics",
+      "options": [
+        "アニメーション技術",
+        "アニマトロニクス",
+        "動物行動学",
+        "天文学"
+      ],
+      "correctAnswer": "アニマトロニクス",
+      "explanation": "「animatronics」は、アニマトロニクスのことで、ロボット工学と特殊効果を組み合わせた技術です。映画やテーマパークなどで、リアルな動きをする人形や動物を作り出すために使われます。シェルドンは、人工知能とアニマトロニクスを組み合わせて、新しい友人を作ろうとしています。"
+    },
+    {
+      "id": 88,
+      "value": "pathogens",
+      "options": [
+        "歩行者",
+        "病原体",
+        "心理学者",
+        "道案内人"
+      ],
+      "correctAnswer": "病原体",
+      "explanation": "「pathogen」は、病原体という意味で、ウイルス、細菌、真菌など、病気を引き起こす可能性のある微生物を指します。例文: The researchers are studying the spread of pathogens in the population. (研究者たちは、集団内での病原体の拡散を研究している。)"
+    },
+    {
+      "id": 89,
+      "value": "have your back",
+      "options": [
+        "背中を向ける",
+        "支える",
+        "無視する",
+        "攻撃する"
+      ],
+      "correctAnswer": "支える",
+      "explanation": "「have your back」は、誰かを支持する、擁護する、助けるという意味のイディオムです。困難な状況や問題に直面している時に、その人をサポートすることを約束する際に使われます。例文: Don't worry, I've got your back. (心配しないで、私があなたを支えるよ。)"
+    },
+    {
+      "id": 90,
+      "value": "Raj Mahal",
+      "options": [
+        "インドの宮殿",
+        "ラージのアパート",
+        "有名なレストラン",
+        "インドの王"
+      ],
+      "correctAnswer": "ラージのアパート",
+      "explanation": "「Raj Mahal」は、タージ・マハル（Taj Mahal）をもじったジョークで、ラージ（Raj）のアパートを指しています。タージ・マハルはインドにある美しい霊廟で、愛の象徴として知られています。"
+    },
+    {
+      "id": 91,
+      "value": "squeeze",
+      "options": [
+        "圧迫",
+        "恋人",
+        "秘密",
+        "贈り物"
+      ],
+      "correctAnswer": "恋人",
+      "explanation": "「squeeze」は、恋人、愛人という意味のスラングです。ここでは、ラージがペニーを自分の恋人だと紹介しようとしていますが、ペニーはそれを否定しています。"
+    },
+    {
+      "id": 92,
+      "value": "sowing some wild oats",
+      "options": [
+        "種をまく",
+        "わがままに振る舞う",
+        "畑仕事をする",
+        "料理をする"
+      ],
+      "correctAnswer": "わがままに振る舞う",
+      "explanation": "「sowing wild oats」は、若いうちに好きなように遊び回る、わがままに振る舞うという意味のイディオムです。特に、性的な意味合いを含むことが多いです。ここでは、ラージがペニーと恋愛関係にあるかのように振る舞っていることを、彼の父親がからかっています。例文: He's just sowing his wild oats before settling down. (彼は落ち着く前に、ただ好きなように遊び回っているだけだ。)"
+    },
+    {
+      "id": 93,
+      "value": "hotsy-totsy",
+      "options": [
+        "上品な女性",
+        "魅力的な女性",
+        "年配の女性",
+        "内気な女性"
+      ],
+      "correctAnswer": "魅力的な女性",
+      "explanation": "「hotsy-totsy」は、魅力的でセクシーな女性を指す、やや古風なスラングです。ここでは、ラージの母親がペニーを「hot」と表現する代わりに使っています。"
+    },
+    {
+      "id": 94,
+      "value": "cuisine",
+      "options": [
+        "料理",
+        "景色",
+        "文化",
+        "言語"
+      ],
+      "correctAnswer": "料理",
+      "explanation": "「cuisine」は、料理、料理法、食文化という意味です。ここでは、ラージの父親が、アメリカの「料理」（つまりアメリカの女性）を試すことを勧めていますが、それを「steady diet」（安定した食事、つまり結婚相手）にすることは勧めないと述べています。例文: French cuisine is famous for its rich sauces and delicate flavors. (フランス料理は、濃厚なソースと繊細な風味が有名です。)"
+    },
+    {
+      "id": 95,
+      "value": "feisty",
+      "options": [
+        "臆病な",
+        "元気な",
+        "怠惰な",
+        "悲しい"
+      ],
+      "correctAnswer": "元気な",
+      "explanation": "「feisty」は、元気な、活発な、気性の激しいという意味です。ここでは、ラージの父親がペニーの気の強さを気に入っていることを表しています。例文: She's a feisty competitor who never gives up. (彼女は決して諦めない、元気な競争相手だ。)"
+    },
+    {
+      "id": 96,
+      "value": "Namaste",
+      "options": [
+        "こんにちは",
+        "さようなら",
+        "ありがとう",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "さようなら",
+      "explanation": "「Namaste」は、インドやネパールで使われる挨拶の言葉で、「こんにちは」「さようなら」「おはよう」など、さまざまな意味を持ちます。ここでは、ペニーがラージの両親に別れを告げる際に使っています。尊敬と感謝の気持ちを込めて使われることが多いです。"
+    },
+    {
+      "id": 97,
+      "value": "thumbs up",
+      "options": [
+        "賛成",
+        "反対",
+        "困惑",
+        "絶望"
+      ],
+      "correctAnswer": "賛成",
+      "explanation": "「thumbs up」は、親指を立てるジェスチャーで、賛成、OK、良いという意味を表します。ここでは、ラージがペニーを抱きしめたことに対する満足感を、レオナルドに伝えています。"
+    },
+    {
+      "id": 98,
+      "value": "through the door",
+      "options": [
+        "ドアの前で",
+        "ドアを通って",
+        "ドアの近くで",
+        "ドアを修理して"
+      ],
+      "correctAnswer": "ドアを通って",
+      "explanation": "この文脈では「through the door」は、ドアの下の隙間から何かを通す行為を指します。この場合、ノートがドアの下から滑り込まされていることを示しています。"
+    },
+    {
+      "id": 99,
+      "value": "say it",
+      "options": [
+        "それを見て",
+        "それを言って",
+        "それを書いて",
+        "それを忘れて"
+      ],
+      "correctAnswer": "それを言って",
+      "explanation": "「say it」は、何かを言葉で表現することを促す表現です。この場合、ペニーはラージに、言いたいことがあるなら手紙ではなく直接言葉で伝えるように促しています。"
+    },
+    {
+      "id": 100,
+      "value": "apparently",
+      "options": [
+        "明らかに",
+        "どうやら",
+        "確かに",
+        "秘密裏に"
+      ],
+      "correctAnswer": "どうやら",
+      "explanation": "「apparently」は、どうやら〜らしい、見たところ〜らしいという意味で、不確かな情報や推測に基づいて何かを述べる際に使われます。例文: Apparently, the meeting has been canceled. (どうやら会議はキャンセルされたらしい。)"
+    }
+  ]
+}

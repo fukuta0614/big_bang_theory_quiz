@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "mock",
+      "options": [
+        "尊敬する",
+        "真似る、からかう",
+        "無視する",
+        "支援する"
+      ],
+      "correctAnswer": "真似る、からかう",
+      "explanation": "「mock」は、軽蔑的な意味合いで真似る、嘲る、馬鹿にするという意味です。ここでは、不完全な技術をからかうというニュアンスで使われています。\n例：They mocked his accent."
+    },
+    {
+      "id": 2,
+      "value": "get on with",
+      "options": [
+        "中断する",
+        "続ける",
+        "始める",
+        "忘れる"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「get on with」は、何かを続ける、再開するという意味のイディオムです。特に中断されていたことを再開する際に使われます。\n例：Let's get on with the meeting."
+    },
+    {
+      "id": 3,
+      "value": "what fresh hell is this?",
+      "options": [
+        "これは何という素晴らしいことだ？",
+        "一体何が始まったんだ？",
+        "これは一体何だ？",
+        "どこから来たのか？"
+      ],
+      "correctAnswer": "これは一体何だ？",
+      "explanation": "「What fresh hell is this?」は、予期せぬ、不快な事態に直面した際に発する表現です。皮肉やうんざりした感情を込めて使われます。"
+    },
+    {
+      "id": 4,
+      "value": "hide out",
+      "options": [
+        "外出する",
+        "隠れる",
+        "主張する",
+        "目立つ"
+      ],
+      "correctAnswer": "隠れる",
+      "explanation": "「hide out」は、一時的に隠れる、避難するという意味の句動詞です。何かから逃れたい、または見つかりたくない状況で使われます。\n例：The robber was hiding out in the forest."
+    },
+    {
+      "id": 5,
+      "value": "yakkety-yakking",
+      "options": [
+        "静かにしている",
+        "早口でまくしたてる",
+        "議論する",
+        "歌っている"
+      ],
+      "correctAnswer": "早口でまくしたてる",
+      "explanation": "「yakkety-yakking」は、おしゃべり、特にたわいのない話をし続けるという意味です。やや否定的なニュアンスを含み、うるさい、または無駄なおしゃべりを指します。\n例：They were yakkety-yakking all night."
+    },
+    {
+      "id": 6,
+      "value": "dial it down",
+      "options": [
+        "電話を切る",
+        "落ち着く、抑える",
+        "強調する",
+        "大きくする"
+      ],
+      "correctAnswer": "落ち着く、抑える",
+      "explanation": "「dial it down」は、何かを弱める、減らす、または落ち着かせるという意味です。感情や行動の激しさを抑えるように促す際に使われます。\n例：Could you dial down the music a little?"
+    },
+    {
+      "id": 7,
+      "value": "regaled with",
+      "options": [
+        "提供される",
+        "退屈させられる",
+        "楽しまされる",
+        "軽蔑される"
+      ],
+      "correctAnswer": "楽しまされる",
+      "explanation": "「regale」は、楽しい話やエンターテイメントで楽しませるという意味です。「regaled with」の形で、何で楽しまされるかを示します。\n例：He regaled us with stories of his travels."
+    },
+    {
+      "id": 8,
+      "value": "folksy",
+      "options": [
+        "都会的な",
+        "洗練された",
+        "田舎風の、素朴な",
+        "現代的な"
+      ],
+      "correctAnswer": "田舎風の、素朴な",
+      "explanation": "「folksy」は、田舎風の、素朴な、または伝統的なという意味です。親しみやすく、気取らない雰囲気を表す際に使われます。\n例：The restaurant had a folksy charm."
+    },
+    {
+      "id": 9,
+      "value": "on a more serious note",
+      "options": [
+        "もっと面白いことに",
+        "もっと深刻なことに",
+        "もっと簡単なことに",
+        "もっと短いことに"
+      ],
+      "correctAnswer": "もっと深刻なことに",
+      "explanation": "「on a more serious note」は、話題をより深刻な、または重要なものに移す際に使われるフレーズです。冗談や軽い話題から真剣な話へ移行する合図となります。\n例：On a more serious note, we need to discuss the budget."
+    },
+    {
+      "id": 10,
+      "value": "cut someone in half",
+      "options": [
+        "誰かを無視する",
+        "誰かを半分に切る",
+        "誰かを仲間に入れる",
+        "誰かを助ける"
+      ],
+      "correctAnswer": "誰かを仲間に入れる",
+      "explanation": "「cut someone in half」は文字通りの意味ではなく、比喩的に、誰かをグループや活動に参加させるという意味で使われることがあります。ここでは、ゲームのチーム分けでRajを半分にできないため、参加させられないという冗談として使われています。"
+    },
+    {
+      "id": 11,
+      "value": "a billion more where he came from",
+      "options": [
+        "彼の出身地には何もない",
+        "彼の出身地にはもっとたくさんいる",
+        "彼の出身地は遠い",
+        "彼の出身地は特別だ"
+      ],
+      "correctAnswer": "彼の出身地にはもっとたくさんいる",
+      "explanation": "「a billion more where he came from」は、同様の人がたくさんいる、代替可能な存在であることを強調する表現です。ここでは、Rajが外国人であることを前提としたステレオタイプな冗談として使われています。"
+    },
+    {
+      "id": 12,
+      "value": "sucky",
+      "options": [
+        "素晴らしい",
+        "退屈な、最悪な",
+        "興味深い",
+        "簡単な"
+      ],
+      "correctAnswer": "退屈な、最悪な",
+      "explanation": "「sucky」は、俗語で、ひどい、つまらない、または不快なという意味です。ここでは、Pennyがゲームに参加するというアイデアを否定的に評価しています。\n例：That movie was really sucky."
+    },
+    {
+      "id": 13,
+      "value": "steep learning curve",
+      "options": [
+        "緩やかな学習曲線",
+        "急な学習曲線",
+        "短い学習曲線",
+        "長い学習曲線"
+      ],
+      "correctAnswer": "急な学習曲線",
+      "explanation": "「steep learning curve」は、習得するのが難しい、または時間がかかることを意味します。新しいスキルや知識を習得する際に、初期段階で多くの努力が必要な状況を指します。\n例：This software has a steep learning curve."
+    },
+    {
+      "id": 14,
+      "value": "myriad",
+      "options": [
+        "少ない",
+        "中くらい",
+        "多数の",
+        "一つの"
+      ],
+      "correctAnswer": "多数の",
+      "explanation": "「myriad」は、非常に多数の、無数のという意味です。ここでは、ゲームに多数の武器、乗り物、戦略があることを強調しています。\n例：There are myriad ways to solve this problem."
+    },
+    {
+      "id": 15,
+      "value": "lock and load",
+      "options": [
+        "鍵をかける",
+        "準備万端",
+        "諦める",
+        "休憩する"
+      ],
+      "correctAnswer": "準備万端",
+      "explanation": "「lock and load」は、武器を準備し、戦闘に備えるという意味のスラングです。ここでは、ゲームで戦闘に備えることを指示しています。\n例：Lock and load, we're going in!"
+    },
+    {
+      "id": 16,
+      "value": "hamstrung",
+      "options": [
+        "支援された",
+        "妨げられた",
+        "強化された",
+        "無視された"
+      ],
+      "correctAnswer": "妨げられた",
+      "explanation": "「hamstrung」は、行動や進歩が妨げられる、制限されるという意味です。ここでは、Pennyの未熟さによってパートナーが不利になることを指しています。\n例：The project was hamstrung by a lack of funds."
+    },
+    {
+      "id": 17,
+      "value": "respawned",
+      "options": [
+        "消滅した",
+        "復活した",
+        "逃げ出した",
+        "攻撃した"
+      ],
+      "correctAnswer": "復活した",
+      "explanation": "「respawn」は、ゲーム用語で、キャラクターが死んだ後に再び現れることを意味します。ここでは、ゲーム内でキャラクターが復活した直後を指しています。"
+    },
+    {
+      "id": 18,
+      "value": "cover me",
+      "options": [
+        "私を隠して",
+        "私を攻撃して",
+        "私を支援して",
+        "私を無視して"
+      ],
+      "correctAnswer": "私を支援して",
+      "explanation": "「cover me」は、誰かに自分の行動を援護してもらう、または敵の攻撃から守ってもらうように頼む時に使われる表現です。特に戦闘や危険な状況で使われます。\n例：Cover me while I reload."
+    },
+    {
+      "id": 19,
+      "value": "sucker",
+      "options": [
+        "賢い人",
+        "騙されやすい人",
+        "勇敢な人",
+        "強い人"
+      ],
+      "correctAnswer": "騙されやすい人",
+      "explanation": "「sucker」は、騙されやすい人、間抜けという意味のスラングです。ここでは、相手を挑発するようなニュアンスで使われています。\n例：Don't be a sucker, think for yourself."
+    },
+    {
+      "id": 20,
+      "value": "on fire",
+      "options": [
+        "燃えている",
+        "絶好調",
+        "疲れている",
+        "混乱している"
+      ],
+      "correctAnswer": "絶好調",
+      "explanation": "「on fire」は、非常にうまくいっている、絶好調であるという意味のイディオムです。スポーツやゲームなどで使われます。\n例：She's really on fire tonight."
+    },
+    {
+      "id": 21,
+      "value": "sore loser",
+      "options": [
+        "寛大な敗者",
+        "不快な敗者",
+        "幸運な勝者",
+        "勇敢な勝者"
+      ],
+      "correctAnswer": "不快な敗者",
+      "explanation": "「sore loser」は、負けることを受け入れられず、不機嫌になったり、怒ったりする人を指します。負け惜しみを言ったり、相手を非難したりする行動を伴います。\n例：He's such a sore loser; he always blames the referee."
+    },
+    {
+      "id": 22,
+      "value": "to be fair",
+      "options": [
+        "公平に言うと",
+        "不公平に言うと",
+        "簡単に言うと",
+        "難しく言うと"
+      ],
+      "correctAnswer": "公平に言うと",
+      "explanation": "「to be fair」は、公平に考えると、または公正を期すためにという意味で使われるフレーズです。別の視点や考慮事項を示す際に用いられます。\n例：To be fair, he did warn us about the risks."
+    },
+    {
+      "id": 23,
+      "value": "an option",
+      "options": [
+        "義務",
+        "選択肢",
+        "結果",
+        "問題"
+      ],
+      "correctAnswer": "選択肢",
+      "explanation": "「option」は、選択肢、選択の自由という意味です。ここでは、PennyがLeonardとは異なり、ゲーム以外の生活を選ぶことができるというニュアンスで使われています。\n例：We have several options to consider."
+    },
+    {
+      "id": 24,
+      "value": "Good night",
+      "options": [
+        "こんにちは",
+        "こんばんは",
+        "さようなら",
+        "おやすみ"
+      ],
+      "correctAnswer": "おやすみ",
+      "explanation": "「Good night」は、別れの挨拶として使われますが、特に夜に別れる際、または就寝前に使われます。\n例：Good night, see you tomorrow."
+    },
+    {
+      "id": 25,
+      "value": "bouillabaisse",
+      "options": [
+        "サラダ",
+        "シチュー",
+        "ブイヤベース",
+        "ケーキ"
+      ],
+      "correctAnswer": "ブイヤベース",
+      "explanation": "「bouillabaisse」は、フランスのプロヴァンス地方発祥の魚介類を使ったシチューです。ここでは、いろいろな種類の下着が混ざっている様子を比喩的に表現しています。\n例：She made a delicious bouillabaisse for dinner."
+    },
+    {
+      "id": 26,
+      "value": "enigma",
+      "options": [
+        "簡単なこと",
+        "謎",
+        "解決策",
+        "冗談"
+      ],
+      "correctAnswer": "謎",
+      "explanation": "「enigma」は、理解するのが難しい人や状況、あるいは不可解なものを指します。人に対して使う場合は、その人の行動や性格が予測できない、掴みどころがないといったニュアンスを含みます。\n\n例：Her behavior is an enigma to everyone.（彼女の行動は誰にとっても謎だ。）"
+    },
+    {
+      "id": 27,
+      "value": "carpal tunnel syndrome",
+      "options": [
+        "新型の病気",
+        "新しいゲーム",
+        "手根管症候群",
+        "伝染病"
+      ],
+      "correctAnswer": "手根管症候群",
+      "explanation": "「carpal tunnel syndrome」は、手首にある手根管というトンネル状の構造が圧迫され、神経が圧迫されることで起こる病気です。手のしびれや痛み、麻痺などの症状が現れます。\n\n例：Repetitive motions can lead to carpal tunnel syndrome.（反復運動は手根管症候群につながることがある。）"
+    },
+    {
+      "id": 28,
+      "value": "hooking up",
+      "options": [
+        "仲直りする",
+        "けんかする",
+        "性的な関係を持つ",
+        "仕事をする"
+      ],
+      "correctAnswer": "性的な関係を持つ",
+      "explanation": "「hook up」は、カジュアルな性的な関係を持つことを意味する口語表現です。必ずしも恋愛関係を伴わない、一時的な関係を指すことが多いです。\n\n例：They hooked up at a party last night.（彼らは昨夜のパーティーで関係を持った。）"
+    },
+    {
+      "id": 29,
+      "value": "hypo-allergenics",
+      "options": [
+        "特別な料理",
+        "低刺激性の",
+        "高価な宝石",
+        "新しいスポーツ"
+      ],
+      "correctAnswer": "低刺激性の",
+      "explanation": "「hypoallergenic」は、アレルギー反応を引き起こしにくいように作られた製品を指します。枕や化粧品、洗剤など、様々な製品に使われる言葉です。\n\n例：I need to buy hypoallergenic pillows because I have allergies.（アレルギーがあるので、低刺激性の枕を買う必要があります。）"
+    },
+    {
+      "id": 30,
+      "value": "Hold that thought",
+      "options": [
+        "もう一度考えて",
+        "その考えを保留して",
+        "考えないで",
+        "別の考えを"
+      ],
+      "correctAnswer": "その考えを保留して",
+      "explanation": "「Hold that thought」は、相手に言いたいことを一時的に保留してもらう時に使う表現です。自分が何か別のことをしなければならない時や、話を中断しなければならない時などに使います。\n\n例：Hold that thought, I need to answer this phone call.（ちょっと待って、電話に出なければならない。）"
+    },
+    {
+      "id": 31,
+      "value": "crazy person’s choice",
+      "options": [
+        "賢い人の選択",
+        "難しい選択",
+        "自由な選択",
+        "簡単な選択"
+      ],
+      "correctAnswer": "自由な選択",
+      "explanation": "「crazy person's choice」は、通常、選択肢が複数あり、どの選択肢を選んでも構わない、つまり「好きなように選んでいいよ」という意味合いで使われます。少しユーモラスな表現です。\n\n例：It's crazy person's choice, do whatever you want.（どれを選んでもいいよ、好きなようにして。）"
+    },
+    {
+      "id": 32,
+      "value": "succumb to",
+      "options": [
+        "抵抗する",
+        "打ち勝つ",
+        "屈する",
+        "利用する"
+      ],
+      "correctAnswer": "屈する",
+      "explanation": "「succumb to」は、誘惑、圧力、病気などに屈することを意味します。抵抗できない状況で使われることが多いです。\n\n例：Don't succumb to peer pressure.（同級生の圧力に屈してはいけない。）"
+    },
+    {
+      "id": 33,
+      "value": "cannibalism",
+      "options": [
+        "人道支援",
+        "共食い",
+        "菜食主義",
+        "慈善活動"
+      ],
+      "correctAnswer": "共食い",
+      "explanation": "「cannibalism」は、同じ種の生物を食べることを意味します。人間の場合、人肉食を指します。\n\n例：Cannibalism is a taboo in many cultures.（人肉食は多くの文化でタブーとされています。）"
+    },
+    {
+      "id": 34,
+      "value": "reductio-ad-absurdum",
+      "options": [
+        "抽象的な議論",
+        "論理的帰結",
+        "背理法",
+        "比喩表現"
+      ],
+      "correctAnswer": "背理法",
+      "explanation": "「reductio ad absurdum」は、ある仮定から出発して、その仮定が矛盾した結論や受け入れがたい結論を導き出すことを示すことで、その仮定が誤りであることを証明する論証方法です。日本語では「背理法」と呼ばれます。\n\n例：He used reductio ad absurdum to prove his point.（彼は背理法を使って自分の主張を証明した。）"
+    },
+    {
+      "id": 35,
+      "value": "ablutions",
+      "options": [
+        "祈り",
+        "食事",
+        "入浴",
+        "睡眠"
+      ],
+      "correctAnswer": "入浴",
+      "explanation": "「ablutions」は、宗教的な儀式や日常的な清めの行為を指します。特に、体を洗うことや入浴を意味することが多いです。やや古風な表現です。\n\n例：He performed his morning ablutions.（彼は朝の身支度をした。）"
+    },
+    {
+      "id": 36,
+      "value": "bodily functions",
+      "options": [
+        "運動",
+        "社会的活動",
+        "生理機能",
+        "趣味"
+      ],
+      "correctAnswer": "生理機能",
+      "explanation": "「bodily functions」は、体の生理的な機能を指します。排泄、呼吸、消化などが含まれます。\n\n例：Age can affect various bodily functions.（年齢は様々な生理機能に影響を与えることがある。）"
+    },
+    {
+      "id": 37,
+      "value": "imperative",
+      "options": [
+        "重要なこと",
+        "不必要なこと",
+        "不可能なこと",
+        "任意なこと"
+      ],
+      "correctAnswer": "重要なこと",
+      "explanation": "「imperative」は、非常に重要であること、必要不可欠であることを意味します。命令形としても使われますが、ここでは名詞的な意味合いで使われています。\n\n例：It is imperative that we act now.（今すぐ行動することが不可欠だ。）"
+    },
+    {
+      "id": 38,
+      "value": "marauders",
+      "options": [
+        "略奪者",
+        "医者",
+        "旅行者",
+        "教師"
+      ],
+      "correctAnswer": "略奪者",
+      "explanation": "「marauder」は、略奪者、侵略者を意味します。特に、略奪を目的に集団で襲撃する者を指します。\n\n例：The town was attacked by marauders.（その町は略奪者によって襲われた。）"
+    },
+    {
+      "id": 39,
+      "value": "sleep tight",
+      "options": [
+        "ぐっすり眠る",
+        "浅く眠る",
+        "眠らない",
+        "早く起きる"
+      ],
+      "correctAnswer": "ぐっすり眠る",
+      "explanation": "「Sleep tight」は、おやすみの挨拶として使われる表現です。ぐっすり眠ってね、という意味合いです。\n\n例：Sleep tight, don't let the bedbugs bite!（おやすみ、ダニに刺されないようにね！）"
+    },
+    {
+      "id": 40,
+      "value": "invalid",
+      "options": [
+        "健康な人",
+        "病人",
+        "子供",
+        "旅行者"
+      ],
+      "correctAnswer": "病人",
+      "explanation": "「invalid」は、病気や怪我で体が不自由な人、病人、特に長期療養者を指します。ここでは「病人」という意味合いで使われています。\n\n例：He has been an invalid since the accident.（彼は事故以来、病人です。）"
+    },
+    {
+      "id": 41,
+      "value": "nerd-migos",
+      "options": [
+        "賢い友達",
+        "オタク友達",
+        "普通の友達",
+        "敵"
+      ],
+      "correctAnswer": "オタク友達",
+      "explanation": "「nerd-migos」は、nerd（オタク）とamigos（友達）を組み合わせた造語です。オタク友達、またはオタク仲間といった意味合いで使われます。\n\n例：We are a group of nerd-migos who love to play video games.（私たちはビデオゲームを愛するオタク友達のグループです。）"
+    },
+    {
+      "id": 42,
+      "value": "loofah mitt",
+      "options": [
+        "手袋",
+        "ボディタオル",
+        "ミトン型ヘチマ",
+        "スポンジ"
+      ],
+      "correctAnswer": "ミトン型ヘチマ",
+      "explanation": "「loofah mitt」は、ヘチマでできたミトンのことです。体を洗う際に使用します。loofahはヘチマの繊維を乾燥させたものです。\n\n例：I use a loofah mitt to exfoliate my skin.（私は肌の角質を取り除くためにヘチマミトンを使っています。）"
+    },
+    {
+      "id": 43,
+      "value": "exfoliated her brains out",
+      "options": [
+        "混乱させた",
+        "徹底的に角質除去した",
+        "脳を活性化させた",
+        "困らせた"
+      ],
+      "correctAnswer": "徹底的に角質除去した",
+      "explanation": "「exfoliate」は角質を取り除くという意味ですが、「exfoliated her brains out」は誇張表現で、徹底的に角質除去した、文字通りには「脳みそを角質除去した」という意味になります。ここでは、非常に念入りに洗ったというユーモラスな表現として使われています。\n\n例：I exfoliated my skin to remove dead cells.（私は死んだ細胞を取り除くために肌の角質を取り除きました。）"
+    },
+    {
+      "id": 44,
+      "value": "by the way",
+      "options": [
+        "ちなみに",
+        "もちろん",
+        "絶対に",
+        "決して"
+      ],
+      "correctAnswer": "ちなみに",
+      "explanation": "「by the way」は、話題を変えるときや、付け加える情報があるときに使う表現です。「ところで」「ちなみに」という意味合いです。\n\n例：By the way, did you hear about...?（ところで、～について聞きましたか？）"
+    },
+    {
+      "id": 45,
+      "value": "as usual",
+      "options": [
+        "いつも通り",
+        "珍しく",
+        "初めて",
+        "今回だけ"
+      ],
+      "correctAnswer": "いつも通り",
+      "explanation": "「as usual」は、「いつものように」「相変わらず」という意味で、普段と変わらない様子を表す時に使います。\n\n例：As usual, he was late for the meeting.（いつものように、彼は会議に遅刻しました。）"
+    },
+    {
+      "id": 46,
+      "value": "frankly",
+      "options": [
+        "率直に言って",
+        "嘘をついて",
+        "秘密に",
+        "遠回しに"
+      ],
+      "correctAnswer": "率直に言って",
+      "explanation": "「frankly」は、「率直に言って」「正直に言って」という意味で、自分の考えや意見をはっきりと伝えたい時に使います。\n\n例：Frankly, I don't agree with you.（率直に言って、私はあなたに同意しません。）"
+    },
+    {
+      "id": 47,
+      "value": "mind if",
+      "options": [
+        "気にしますか",
+        "気にしません",
+        "知りません",
+        "関係ありません"
+      ],
+      "correctAnswer": "気にしますか",
+      "explanation": "「Do you mind if...?」の省略形で、「～しても構いませんか？」「～するのは嫌ですか？」と相手に許可を求める時に使います。\n\n例：Do you mind if I sit here?（ここに座っても構いませんか？）"
+    },
+    {
+      "id": 48,
+      "value": "sleep tight",
+      "options": [
+        "眠りにつく",
+        "ぐっすり眠る",
+        "眠れない",
+        "夢を見る"
+      ],
+      "correctAnswer": "ぐっすり眠る",
+      "explanation": "「Sleep tight」は、「おやすみ」という意味で、相手に良い睡眠を願う時に使います。古くはベッドのロープをきつく締めて寝る習慣から来ています。\n\n例：Sleep tight and have sweet dreams.（ぐっすり眠って、良い夢を見てね。）"
+    },
+    {
+      "id": 49,
+      "value": "molecular integrity",
+      "options": [
+        "分子の完全性",
+        "味の均一性",
+        "栄養バランス",
+        "見た目の美しさ"
+      ],
+      "correctAnswer": "分子の完全性",
+      "explanation": "「molecular integrity」は、「分子の完全性」という意味で、ここではシリアルの食感が損なわれた状態を大げさに表現しています。科学的な言葉を使うことでユーモラスな効果を出しています。\n\n例：The structural integrity of the building was compromised.（その建物の構造的な完全性が損なわれた。）"
+    },
+    {
+      "id": 50,
+      "value": "voice off",
+      "options": [
+        "消された声",
+        "大きな声",
+        "小さい声",
+        "舞台裏の声"
+      ],
+      "correctAnswer": "舞台裏の声",
+      "explanation": "「voice off」は、演劇や映画の脚本で使われる指示で、登場人物の声が舞台裏や画面外から聞こえることを示します。「offstage voice」とも言います。\n\n例：(VOICE OFF) Help me!（（舞台裏の声）助けて！）"
+    },
+    {
+      "id": 51,
+      "value": "my little engine that could",
+      "options": [
+        "私の小さな才能ができた",
+        "私の小さな頑張り屋さん",
+        "私の小さなエンジン",
+        "私の小さな可能性"
+      ],
+      "correctAnswer": "私の小さな頑張り屋さん",
+      "explanation": "『がんばれ、ちっちゃな機関車』という児童書のタイトルであり、転じて「やればできる」という気持ちを表現する際に使われます。相手を励ます際に使うことができます。"
+    },
+    {
+      "id": 52,
+      "value": "entourage",
+      "options": [
+        "敵",
+        "味方",
+        "取り巻き",
+        "友人"
+      ],
+      "correctAnswer": "取り巻き",
+      "explanation": "「取り巻き」という意味で、特に有名人や権力者の周りにいる人々を指します。彼らはしばしばその人物をサポートし、付き従います。やや軽蔑的なニュアンスを含むことがあります。"
+    },
+    {
+      "id": 53,
+      "value": "B&B",
+      "options": [
+        "秘密基地",
+        "ホテル",
+        "民宿",
+        "レストラン"
+      ],
+      "correctAnswer": "民宿",
+      "explanation": "Bed and Breakfastの略で、宿泊と朝食を提供する小規模な宿泊施設を指します。家庭的な雰囲気で、旅行者に人気があります。"
+    },
+    {
+      "id": 54,
+      "value": "outside the box thinking",
+      "options": [
+        "型破りな考え方",
+        "常識的な考え方",
+        "現実的な考え方",
+        "楽観的な考え方"
+      ],
+      "correctAnswer": "型破りな考え方",
+      "explanation": "既存の枠にとらわれず、創造的で革新的なアイデアを生み出す思考方法を指します。問題解決や新しい戦略を立てる際に重要です。"
+    },
+    {
+      "id": 55,
+      "value": "repair to",
+      "options": [
+        "修理する",
+        "向かう",
+        "逃げる",
+        "戻る"
+      ],
+      "correctAnswer": "向かう",
+      "explanation": "（場所）へ行く、赴くという意味のやや古風な表現です。日常会話よりも、文学的な文脈やフォーマルな場面で使われることがあります。"
+    },
+    {
+      "id": 56,
+      "value": "kosher",
+      "options": [
+        "危険な",
+        "一般的な",
+        "ユダヤ教の食事規定に沿った",
+        "珍しい"
+      ],
+      "correctAnswer": "ユダヤ教の食事規定に沿った",
+      "explanation": "ユダヤ教の食事規定（カシュルート）に適合していることを意味します。食品だけでなく、他の物事についても「適切」「正当」という意味で使われることがあります。"
+    },
+    {
+      "id": 57,
+      "value": "corn-husker",
+      "options": [
+        "トウモロコシを食べる人",
+        "トウモロコシ畑",
+        "トウモロコシの皮むき機",
+        "トウモロコシの皮むきをする人"
+      ],
+      "correctAnswer": "トウモロコシの皮むきをする人",
+      "explanation": "トウモロコシの皮をむく人のことを指します。ここでは、ユダヤ教徒でトウモロコシの皮むきをする人が珍しいという意味で使われています。"
+    },
+    {
+      "id": 58,
+      "value": "pulled off",
+      "options": [
+        "着た",
+        "脱いだ",
+        "拾った",
+        "隠した"
+      ],
+      "correctAnswer": "脱いだ",
+      "explanation": "ここでは、服を脱ぐという意味で使われています。また、「pulled off」は、困難なことを成し遂げる、成功させるという意味もあります。"
+    },
+    {
+      "id": 59,
+      "value": "Bar-Mizvah bonds",
+      "options": [
+        "結婚資金",
+        "割礼の儀式",
+        "成人式の贈り物",
+        "成人式の債券"
+      ],
+      "correctAnswer": "成人式の債券",
+      "explanation": "ユダヤ教の成人式（バル・ミツワー）で贈られる債券のことです。将来の教育資金などに使われることが多いです。"
+    },
+    {
+      "id": 60,
+      "value": "walk you through it",
+      "options": [
+        "一緒に歩く",
+        "案内する",
+        "説明する",
+        "無視する"
+      ],
+      "correctAnswer": "説明する",
+      "explanation": "手順やプロセスを詳しく説明するという意味です。相手が理解できるように、段階的に説明するニュアンスがあります。"
+    },
+    {
+      "id": 61,
+      "value": "predicated on",
+      "options": [
+        "基づいている",
+        "反対している",
+        "無視している",
+        "隠されている"
+      ],
+      "correctAnswer": "基づいている",
+      "explanation": "～に基づいている、～を前提としているという意味です。何かの根拠や基礎となるものを示す際に使われます。"
+    },
+    {
+      "id": 62,
+      "value": "cut it into thirds",
+      "options": [
+        "3つに切る",
+        "半分に切る",
+        "無視する",
+        "捨てる"
+      ],
+      "correctAnswer": "3つに切る",
+      "explanation": "何かを3等分するという意味です。ここでは、料理を3人で分けることを提案しています。"
+    },
+    {
+      "id": 63,
+      "value": "open faced sandwich",
+      "options": [
+        "普通のサンドイッチ",
+        "具なしサンドイッチ",
+        "オープンサンド",
+        "高級サンドイッチ"
+      ],
+      "correctAnswer": "オープンサンド",
+      "explanation": "パンの上に具が乗っているだけのサンドイッチのことです。ここでは、餃子を切り開いたものを指して、皮で具を挟んでいない状態を揶揄しています。"
+    },
+    {
+      "id": 64,
+      "value": "collective good",
+      "options": [
+        "個人の利益",
+        "全体の利益",
+        "秘密",
+        "嘘"
+      ],
+      "correctAnswer": "全体の利益",
+      "explanation": "集団全体の利益や幸福を意味します。個人の利益よりも、グループ全体の利益を優先するという考え方です。"
+    },
+    {
+      "id": 65,
+      "value": "punishable by death",
+      "options": [
+        "死刑に値する",
+        "評価される",
+        "尊敬される",
+        "昇進する"
+      ],
+      "correctAnswer": "死刑に値する",
+      "explanation": "死刑に処される可能性があるという意味です。ここでは、冗談めかして、全体の利益を優先しない行為を批判しています。"
+    },
+    {
+      "id": 66,
+      "value": "no substitutions",
+      "options": [
+        "交換可能",
+        "代用可能",
+        "交換不可",
+        "代用不可"
+      ],
+      "correctAnswer": "交換不可",
+      "explanation": "メニューの変更や代用ができないという意味です。レストランなどでよく使われる表現です。"
+    },
+    {
+      "id": 67,
+      "value": "a reduction",
+      "options": [
+        "割引",
+        "追加",
+        "削除",
+        "変更"
+      ],
+      "correctAnswer": "削除",
+      "explanation": "ここでは、料理の数を減らすという意味で使われています。本来は、価格を下げることや、量を減らすことを意味します。"
+    },
+    {
+      "id": 68,
+      "value": "no eliminations",
+      "options": [
+        "削除可能",
+        "削除不可",
+        "追加可能",
+        "追加不可"
+      ],
+      "correctAnswer": "削除不可",
+      "explanation": "ここでは、料理を減らすことができないという意味で使われています。メニューから特定の品目を削除できない状況を指します。"
+    },
+    {
+      "id": 69,
+      "value": "double dips",
+      "options": [
+        "二度浸ける",
+        "たくさん食べる",
+        "少し食べる",
+        "全く食べない"
+      ],
+      "correctAnswer": "二度浸ける",
+      "explanation": "料理をソースなどに一度浸けた後、再び浸ける行為を指します。不衛生であるとされ、嫌われることが多いです。"
+    },
+    {
+      "id": 70,
+      "value": "Tell you what",
+      "options": [
+        "教えよう",
+        "どうしようかな",
+        "何もしない",
+        "無視する"
+      ],
+      "correctAnswer": "どうしようかな",
+      "explanation": "提案や解決策を提示する際に使われる表現です。「あのね」「こうしよう」といったニュアンスで、相手に何かを提案する時に使います。"
+    },
+    {
+      "id": 71,
+      "value": "wanders away",
+      "options": [
+        "さまよう",
+        "歩き回る",
+        "立ち去る",
+        "近づく"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "ぶらぶらと歩き去る、立ち去るという意味です。特に目的もなく、ゆっくりと移動する様子を表します。"
+    },
+    {
+      "id": 72,
+      "value": "won-tons",
+      "options": [
+        "お菓子",
+        "野菜",
+        "麺類",
+        "雲吞"
+      ],
+      "correctAnswer": "雲吞",
+      "explanation": "中国料理の雲吞のことです。スープに入れたり、揚げたりして食べます。"
+    },
+    {
+      "id": 73,
+      "value": "what's up?",
+      "options": [
+        "どうしたの？",
+        "元気ですか？",
+        "どちらへ？",
+        "何してるの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "挨拶の一種で、「どうしたの？」「何かあった？」という意味で使われます。親しい間柄でよく使われるカジュアルな表現です。"
+    },
+    {
+      "id": 74,
+      "value": "Halo night",
+      "options": [
+        "ゲームをする夜",
+        "映画を見る夜",
+        "食事をする夜",
+        "勉強をする夜"
+      ],
+      "correctAnswer": "ゲームをする夜",
+      "explanation": "人気ゲーム「Halo」をプレイする夜のことです。友人同士で集まってゲームを楽しむことを指します。"
+    },
+    {
+      "id": 75,
+      "value": "to cash",
+      "options": [
+        "現金に換金する",
+        "失う",
+        "隠す",
+        "投資する"
+      ],
+      "correctAnswer": "現金に換金する",
+      "explanation": "（小切手など）を現金化する、換金するという意味です。"
+    },
+    {
+      "id": 76,
+      "value": "occupied elsewhere",
+      "options": [
+        "別の場所に占領されている",
+        "他のことで忙しい",
+        "どこにも所属していない",
+        "何もすることがない"
+      ],
+      "correctAnswer": "他のことで忙しい",
+      "explanation": "「occupied elsewhere」は、人が他の場所で何かに従事していて、手が空いていない状態を表します。ここでは、ハワードがペニーの友人との交際で忙しく、他のことができない状況を指しています。"
+    },
+    {
+      "id": 77,
+      "value": "portray",
+      "options": [
+        "配達する",
+        "描写する",
+        "裏切る",
+        "支持する"
+      ],
+      "correctAnswer": "描写する",
+      "explanation": "「portray」は、人や物を言葉や絵などで描写する、表現するという意味です。ここでは、レナードがロールプレイでペニーをどのように表現したかについて述べています。"
+    },
+    {
+      "id": 78,
+      "value": "irrational",
+      "options": [
+        "不合理な",
+        "協力的な",
+        "友好的な",
+        "現実的な"
+      ],
+      "correctAnswer": "不合理な",
+      "explanation": "「irrational」は、理性や論理に基づかない、不合理なという意味です。ここでは、シェルドンがペニーの行動が不合理であると考えていることを表しています。"
+    },
+    {
+      "id": 79,
+      "value": "assuming",
+      "options": [
+        "仮定すると",
+        "確認すると",
+        "拒否すると",
+        "考慮すると"
+      ],
+      "correctAnswer": "仮定すると",
+      "explanation": "「assuming」は、ある事柄を仮定する、前提とするという意味です。ここでは、ダンスができると仮定した場合の話をしています。"
+    },
+    {
+      "id": 80,
+      "value": "child's play",
+      "options": [
+        "子供の遊び",
+        "大人の趣味",
+        "簡単なこと",
+        "難しいこと"
+      ],
+      "correctAnswer": "簡単なこと",
+      "explanation": "「child's play」は、非常に簡単なこと、朝飯前のことを意味するイディオムです。ここでは、餃子を3等分することが、女性と踊ることよりも簡単だと述べています。"
+    },
+    {
+      "id": 81,
+      "value": "drive someone crazy",
+      "options": [
+        "人を狂わせる",
+        "人を落ち着かせる",
+        "人を助ける",
+        "人を無視する"
+      ],
+      "correctAnswer": "人を狂わせる",
+      "explanation": "「drive someone crazy」は、人をイライラさせる、怒らせる、狂わせるという意味のイディオムです。レナードはシェルドンの言動にうんざりしている様子を表しています。"
+    },
+    {
+      "id": 82,
+      "value": "semblance",
+      "options": [
+        "類似",
+        "破壊",
+        "完全",
+        "無意味"
+      ],
+      "correctAnswer": "類似",
+      "explanation": "「semblance」は、外見上の類似、見せかけという意味です。ここでは、宇宙のバランスを取り戻すことができる唯一の人物について話しています。"
+    },
+    {
+      "id": 83,
+      "value": "think this through",
+      "options": [
+        "よく考える",
+        "無視する",
+        "忘れる",
+        "夢を見る"
+      ],
+      "correctAnswer": "よく考える",
+      "explanation": "「think this through」は、物事をよく考える、慎重に検討するという意味です。シェルドンがハワードに性行為とヘイローのどちらを選ぶか尋ねようとしていることに対して、レナードが忠告しています。"
+    },
+    {
+      "id": 84,
+      "value": "upgrade",
+      "options": [
+        "改善する",
+        "悪化する",
+        "無視する",
+        "拒否する"
+      ],
+      "correctAnswer": "改善する",
+      "explanation": "「upgrade」は、性能や品質を向上させる、改良するという意味です。シェルドンは、ヘイロー3が性行為よりも優れている点を主張しています。"
+    },
+    {
+      "id": 85,
+      "value": "take the damned plastic off",
+      "options": [
+        "プラスチックを取り除く",
+        "プラスチックをかける",
+        "プラスチックを隠す",
+        "プラスチックを交換する"
+      ],
+      "correctAnswer": "プラスチックを取り除く",
+      "explanation": "「take the damned plastic off」は、家具などにかかっている不要なビニールカバーを取り外すという意味です。ここでは、クリスティがハワードの家のソファにかかっているビニールカバーを外すように言っています。"
+    },
+    {
+      "id": 86,
+      "value": "once in a while",
+      "options": [
+        "たまに",
+        "いつも",
+        "絶対にない",
+        "毎日"
+      ],
+      "correctAnswer": "たまに",
+      "explanation": "「once in a while」は、時々、たまにという意味のイディオムです。クリスティがハワードに、たまにはソファのビニールカバーを外すように言っています。"
+    },
+    {
+      "id": 87,
+      "value": "hump",
+      "options": [
+        "乗る",
+        "隠す",
+        "セックスする",
+        "拒否する"
+      ],
+      "correctAnswer": "セックスする",
+      "explanation": "「hump」は、スラングで性行為をすることを意味します。ハワードの母親が、クリスティとハワードがソファで性行為をすることを嫌がっている様子を表しています。"
+    },
+    {
+      "id": 88,
+      "value": "middle ground",
+      "options": [
+        "妥協点",
+        "出発点",
+        "終着点",
+        "無視"
+      ],
+      "correctAnswer": "妥協点",
+      "explanation": "「middle ground」は、妥協点、中間地点という意味です。ここでは、ハワードが母親とクリスティの間の妥協点を見つけようとしています。"
+    },
+    {
+      "id": 89,
+      "value": "butting in",
+      "options": [
+        "邪魔をする",
+        "手伝う",
+        "応援する",
+        "無視する"
+      ],
+      "correctAnswer": "邪魔をする",
+      "explanation": "「butt in」は、人の会話や活動に割り込む、口出しするという意味です。ここでは、ハワードの母親がクリスティに、口出ししないでほしいと言っています。"
+    },
+    {
+      "id": 90,
+      "value": "take that tone with me",
+      "options": [
+        "そのような口調で話す",
+        "優しく話す",
+        "無視する",
+        "感謝する"
+      ],
+      "correctAnswer": "そのような口調で話す",
+      "explanation": "「take that tone with me」は、そのような口調で私に話すな、という意味です。ハワードの母親が、クリスティの口調に腹を立てている様子を表しています。"
+    },
+    {
+      "id": 91,
+      "value": "gold digger",
+      "options": [
+        "一攫千金を狙う人",
+        "正直な人",
+        "貧乏な人",
+        "努力家"
+      ],
+      "correctAnswer": "一攫千金を狙う人",
+      "explanation": "「gold digger」は、お金目当てで人と付き合う人を指す言葉です。ハワードの母親がクリスティを金目当ての女性だと非難しています。"
+    },
+    {
+      "id": 92,
+      "value": "barking up the wrong tree",
+      "options": [
+        "見当違いのことをする",
+        "正しいことをする",
+        "木に登る",
+        "犬を訓練する"
+      ],
+      "correctAnswer": "見当違いのことをする",
+      "explanation": "「barking up the wrong tree」は、見当違いのことをする、誤った方向に努力するという意味のイディオムです。ここでは、ハワードの母親がクリスティに対して、ハワードとの関係は無駄だと伝えています。"
+    },
+    {
+      "id": 93,
+      "value": "I'm out of here",
+      "options": [
+        "ここから出ていく",
+        "ここにいる",
+        "ここに残る",
+        "戻ってくる"
+      ],
+      "correctAnswer": "ここから出ていく",
+      "explanation": "I'm out of hereは、私はここから出ていくという意味です。クリスティがハワードの家から出ていくことを示唆しています。"
+    },
+    {
+      "id": 94,
+      "value": "Shhh!",
+      "options": [
+        "静かに！",
+        "歌って！",
+        "騒いで！",
+        "踊って！"
+      ],
+      "correctAnswer": "静かに！",
+      "explanation": "Shhh!は、静かに！という意味で、人に静粛を促すときに使われます。"
+    },
+    {
+      "id": 95,
+      "value": "in your sights",
+      "options": [
+        "視界に捉えて",
+        "視野の外に",
+        "夢の中で",
+        "過去に"
+      ],
+      "correctAnswer": "視界に捉えて",
+      "explanation": "in your sightsは、照準を合わせて、視界に捉えてという意味です。ゲームの状況を説明しています。"
+    },
+    {
+      "id": 96,
+      "value": "cloaking",
+      "options": [
+        "透明化",
+        "攻撃",
+        "防御",
+        "逃走"
+      ],
+      "correctAnswer": "透明化",
+      "explanation": "cloakingは、透明化、ステルス化という意味です。ゲームで姿を隠すことを意味します。"
+    },
+    {
+      "id": 97,
+      "value": "dead man",
+      "options": [
+        "死人",
+        "英雄",
+        "初心者",
+        "裏切り者"
+      ],
+      "correctAnswer": "死人",
+      "explanation": "dead manは、死んだ人、ここではゲームで倒された人を指します。"
+    },
+    {
+      "id": 98,
+      "value": "all out",
+      "options": [
+        "使い果たして",
+        "準備万端で",
+        "秘密にして",
+        "無視して"
+      ],
+      "correctAnswer": "使い果たして",
+      "explanation": "all outは、使い果たして、在庫切れという意味です。ここでは、弾薬を使い果たしたことを意味します。"
+    },
+    {
+      "id": 99,
+      "value": "straight for the tank",
+      "options": [
+        "戦車に直行",
+        "家に帰る",
+        "休憩する",
+        "逃げる"
+      ],
+      "correctAnswer": "戦車に直行",
+      "explanation": "straight for the tankは、戦車に直行するという意味で、ゲームの指示です。"
+    },
+    {
+      "id": 100,
+      "value": "medpack",
+      "options": [
+        "回復アイテム",
+        "攻撃アイテム",
+        "防御アイテム",
+        "隠蔽アイテム"
+      ],
+      "correctAnswer": "回復アイテム",
+      "explanation": "medpackは、メディカルパックの略で、ゲームで体力を回復させるアイテムです。"
+    }
+  ]
+}

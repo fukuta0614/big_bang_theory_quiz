@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "misleading",
+      "options": [
+        "正確な",
+        "誤解を招く",
+        "明確な",
+        "簡潔な"
+      ],
+      "correctAnswer": "誤解を招く",
+      "explanation": "「misleading」は、人に誤った印象を与えたり、誤解させたりする、という意味です。意図的である場合も、そうでない場合もあります。広告や説明などで、事実を歪めて伝える場合に使われます。\n\n例：The advertisement was deliberately misleading. (その広告は意図的に誤解を招くものだった。)"
+    },
+    {
+      "id": 2,
+      "value": "rational",
+      "options": [
+        "非合理的な",
+        "感情的な",
+        "合理的な",
+        "直感的な"
+      ],
+      "correctAnswer": "合理的な",
+      "explanation": "「rational」は、理性に基づいて判断する、合理的な、という意味です。感情や偏見に左右されず、論理的に考えることを指します。人や行動、考え方に対して使われます。\n\n例：It's important to make rational decisions in business. (ビジネスでは合理的な判断をすることが重要です。)"
+    },
+    {
+      "id": 3,
+      "value": "honorary",
+      "options": [
+        "名誉の",
+        "必須の",
+        "給与の",
+        "一時的な"
+      ],
+      "correctAnswer": "名誉の",
+      "explanation": "「honorary」は、名誉のために与えられる、名誉の、という意味です。通常、義務や特権を伴わない称号や地位に対して使われます。実質的な権限や責任がないことが多いです。\n\n例：He received an honorary degree from the university. (彼は大学から名誉学位を授与された。)"
+    },
+    {
+      "id": 4,
+      "value": "on one's person",
+      "options": [
+        "個人的に",
+        "誰かの代わりに",
+        "身につけて",
+        "責任を負って"
+      ],
+      "correctAnswer": "身につけて",
+      "explanation": "「on one's person」は、「〜が身につけて」という意味のイディオムです。通常、貴重品や身分証明書など、常に携帯する必要があるものに対して使われます。\n\n例：You should always keep some identification on your person. (常に身分証明書を身につけておくべきです。)"
+    },
+    {
+      "id": 5,
+      "value": "broadband",
+      "options": [
+        "狭帯域",
+        "ブロードバンド",
+        "ラジオ",
+        "赤外線"
+      ],
+      "correctAnswer": "ブロードバンド",
+      "explanation": "「broadband」は、高速データ通信を可能にする広帯域回線を指します。インターネット接続が高速になり、動画のストリーミングやオンラインゲームなどが快適に利用できるようになります。\n\n例：Broadband has revolutionized the way we access the internet. (ブロードバンドはインターネットへのアクセス方法を革命的に変えた。)"
+    },
+    {
+      "id": 6,
+      "value": "academics",
+      "options": [
+        "実務家",
+        "学者",
+        "芸術家",
+        "スポーツ選手"
+      ],
+      "correctAnswer": "学者",
+      "explanation": "「academics」は、学問に携わる人々、特に大学の教授や研究者を指します。学術的な知識や研究を専門とする人々を意味します。\n\n例：The conference was attended by academics from all over the world. (会議には世界中の学者が参加した。)"
+    },
+    {
+      "id": 7,
+      "value": "earning potential",
+      "options": [
+        "学習能力",
+        "潜在的な収入",
+        "運動能力",
+        "社会的地位"
+      ],
+      "correctAnswer": "潜在的な収入",
+      "explanation": "「earning potential」は、将来的に得られる可能性のある収入、潜在的な収入を意味します。スキルや経験、学歴などに基づいて予測される収入の見込みを指します。\n\n例：A higher degree can increase your earning potential. (より高い学位はあなたの潜在的な収入を増やすことができる。)"
+    },
+    {
+      "id": 8,
+      "value": "sensitive",
+      "options": [
+        "鈍感な",
+        "冷静な",
+        "敏感な",
+        "無関心な"
+      ],
+      "correctAnswer": "敏感な",
+      "explanation": "「sensitive」は、感情や感覚に敏感な、という意味です。人の気持ちを理解しやすく、傷つきやすい性質を指すこともあります。また、デリケートな問題や状況を扱う際にも使われます。\n\n例：He is very sensitive to criticism. (彼は批判に非常に敏感だ。)"
+    },
+    {
+      "id": 9,
+      "value": "webchatting",
+      "options": [
+        "ウェブ会議",
+        "手紙",
+        "電話",
+        "読書"
+      ],
+      "correctAnswer": "ウェブ会議",
+      "explanation": "「webchatting」は、インターネットを通じてビデオ通話やチャットをすることです。遠隔地にいる人と顔を見ながらコミュニケーションを取ることができます。\n\n例：We use webchatting to stay in touch with family overseas. (海外にいる家族と連絡を取り合うためにウェブチャットを使っています。)"
+    },
+    {
+      "id": 10,
+      "value": "pointless",
+      "options": [
+        "重要な",
+        "有益な",
+        "無意味な",
+        "興味深い"
+      ],
+      "correctAnswer": "無意味な",
+      "explanation": "「pointless」は、意味がない、無駄な、という意味です。目的や価値がなく、時間や労力を費やす意味がないことを指します。\n\n例：It's pointless to argue with him, he won't listen. (彼と議論しても無意味だ、彼は聞かないだろう。)"
+    },
+    {
+      "id": 11,
+      "value": "approve the match",
+      "options": [
+        "試合に反対する",
+        "組み合わせを承認する",
+        "試合に参加する",
+        "試合を無視する"
+      ],
+      "correctAnswer": "組み合わせを承認する",
+      "explanation": "「approve the match」は、結婚の組み合わせを承認するという意味です。特に、親が子供の結婚相手を承認する文脈で使われます。\n\n例：Her parents approve the match because he is from a good family. (彼女の両親は彼が良い家柄なので結婚を承認している。)"
+    },
+    {
+      "id": 12,
+      "value": "meddle",
+      "options": [
+        "手伝う",
+        "干渉する",
+        "忘れる",
+        "許す"
+      ],
+      "correctAnswer": "干渉する",
+      "explanation": "「meddle」は、他人の事柄に干渉する、口出しするという意味です。特に、歓迎されない、または許可されていない状況で介入することを指します。\n\n例：I don't want to meddle in your affairs. (私はあなたの事に干渉したくない。)"
+    },
+    {
+      "id": 13,
+      "value": "the norm",
+      "options": [
+        "例外",
+        "規則",
+        "標準",
+        "個性"
+      ],
+      "correctAnswer": "標準",
+      "explanation": "「the norm」は、標準、一般的、普通のことという意味です。社会やグループにおいて、一般的によく見られる行動や習慣、価値観を指します。\n\n例：In many cultures, it is the norm to greet people with a handshake. (多くの文化では、握手で挨拶するのが一般的です。)"
+    },
+    {
+      "id": 14,
+      "value": "with all due respect",
+      "options": [
+        "尊敬なしに",
+        "最大限の敬意を払って",
+        "軽蔑して",
+        "無関心に"
+      ],
+      "correctAnswer": "最大限の敬意を払って",
+      "explanation": "「with all due respect」は、相手に敬意を払いながら反対意見や異論を述べるときに使う表現です。「失礼を承知で」「敬意を払って申し上げますが」といった意味合いで、相手への配慮を示すために用いられます。\n\n例：With all due respect, I don't think that's the best approach. (失礼を承知で申し上げますが、それが最善の方法だとは思いません。)"
+    },
+    {
+      "id": 15,
+      "value": "cultural aspiration",
+      "options": [
+        "文化的嫌悪感",
+        "文化的願望",
+        "文化的反発",
+        "文化的無関心"
+      ],
+      "correctAnswer": "文化的願望",
+      "explanation": "「cultural aspiration」は、文化的な願望や目標、理想という意味です。特定の文化において、人々が共有する価値観や達成したいと願う状態を指します。\n\n例：Education is a key cultural aspiration in many societies. (教育は多くの社会において重要な文化的願望です。)"
+    },
+    {
+      "id": 16,
+      "value": "marry me off",
+      "options": [
+        "結婚を取りやめる",
+        "私と結婚する",
+        "私を結婚させる",
+        "結婚を延期する"
+      ],
+      "correctAnswer": "私を結婚させる",
+      "explanation": "「marry someone off」は、誰かを結婚させるという意味です。特に、親が子供の結婚を積極的に進める場合に使われます。\n\n例：My parents are trying to marry me off to someone I don't love. (両親は私が愛していない人と結婚させようとしている。)"
+    },
+    {
+      "id": 17,
+      "value": "go through with it",
+      "options": [
+        "諦める",
+        "実行する",
+        "忘れる",
+        "拒否する"
+      ],
+      "correctAnswer": "実行する",
+      "explanation": "「go through with it」は、困難や反対があっても、計画や約束を実行するという意味です。最後までやり遂げる決意を示す場合に使われます。\n\n例：Despite the difficulties, he decided to go through with the project. (困難にもかかわらず、彼はプロジェクトを実行することを決めた。)"
+    },
+    {
+      "id": 18,
+      "value": "basis for marriage",
+      "options": [
+        "結婚の基礎",
+        "離婚の原因",
+        "結婚の障害",
+        "結婚の秘密"
+      ],
+      "correctAnswer": "結婚の基礎",
+      "explanation": "「basis for marriage」は、結婚の基礎、結婚の理由という意味です。愛情、経済的安定、家族の願望など、結婚を決定する根拠となる要素を指します。\n\n例：Love is often seen as the primary basis for marriage in Western cultures. (西洋文化では、愛情が結婚の主な基礎と見なされることが多い。)"
+    },
+    {
+      "id": 19,
+      "value": "premise",
+      "options": [
+        "結論",
+        "前提",
+        "証拠",
+        "結果"
+      ],
+      "correctAnswer": "前提",
+      "explanation": "「premise」は、議論や理論の前提、根拠という意味です。結論を導き出すための基礎となる考え方や事実を指します。\n\n例：The entire movie is based on the premise that time travel is possible. (その映画全体は、タイムトラベルが可能であるという前提に基づいている。)"
+    },
+    {
+      "id": 20,
+      "value": "Damn you",
+      "options": [
+        "ありがとう",
+        "おめでとう",
+        "くそ",
+        "こんにちは"
+      ],
+      "correctAnswer": "くそ",
+      "explanation": "「Damn you」は、英語の罵り言葉で、「くそ」「ちくしょう」といった意味合いです。相手に対する怒りや不満を表す際に使われます。親しい間柄での軽いニュアンスから、強い怒りを示す場合まで、状況によって意味合いが異なります。\n\n例：Damn you, why did you do that? (くそ、なぜそんなことをしたんだ？)"
+    },
+    {
+      "id": 21,
+      "value": "take up",
+      "options": [
+        "降りる",
+        "占める",
+        "捨てる",
+        "拒否する"
+      ],
+      "correctAnswer": "占める",
+      "explanation": "「take up」は、時間や場所、スペースなどを占める、という意味の句動詞です。具体的な物理的な空間だけでなく、抽象的な概念にも使われます。\n\n例：The meeting took up most of the afternoon. (会議は午後のほとんどを占めた。)"
+    },
+    {
+      "id": 22,
+      "value": "get broadband",
+      "options": [
+        "ブロードバンドを解約する",
+        "ブロードバンドに加入する",
+        "ブロードバンドを修理する",
+        "ブロードバンドを忘れる"
+      ],
+      "correctAnswer": "ブロードバンドに加入する",
+      "explanation": "「get broadband」は、ブロードバンド回線を契約する、導入するという意味です。高速インターネット接続を利用可能にすることを指します。\n\n例：We decided to get broadband so we could watch movies online. (オンラインで映画を見るためにブロードバンドを契約することにした。)"
+    },
+    {
+      "id": 23,
+      "value": "go through",
+      "options": [
+        "回避する",
+        "経験する",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "経験する",
+      "explanation": "「go through」は、経験する、通過する、という意味の句動詞です。困難な状況や変化、手続きなどを経験することを指します。\n\n例：She had to go through a lot of pain after the accident. (彼女は事故の後、多くの痛みを経験しなければならなかった。)"
+    },
+    {
+      "id": 24,
+      "value": "sweet",
+      "options": [
+        "苦い",
+        "辛い",
+        "甘い",
+        "酸っぱい"
+      ],
+      "correctAnswer": "甘い",
+      "explanation": "sweet」は、ここでは「優しい」「可愛らしい」という意味で使われています。人柄や性格を表す際に使われることが多く、好意的なニュアンスを含んでいます。\n\n例：She is a sweet girl. (彼女は優しい女の子です。)"
+    },
+    {
+      "id": 25,
+      "value": "say goodbye",
+      "options": [
+        "こんにちはと言う",
+        "おやすみと言う",
+        "さようならと言う",
+        "おはようと言う"
+      ],
+      "correctAnswer": "さようならと言う",
+      "explanation": "「say goodbye」は、文字通りには「さようならと言う」という意味ですが、より広義には「別れを告げる」「お別れをする」という意味合いで使われます。物理的な別れだけでなく、関係の終わりやプロジェクトの終了など、抽象的な別れにも使えます。\n\n例：I went to the airport to say goodbye to my friend. (友達に別れを告げるために空港へ行った。)"
+    },
+    {
+      "id": 26,
+      "value": "speaks to me",
+      "options": [
+        "私に語りかける",
+        "私を無視する",
+        "私を批判する",
+        "私を困らせる"
+      ],
+      "correctAnswer": "私に語りかける",
+      "explanation": "「speaks to someone」は、何かが人の感情や興味、文化的な背景に強く訴えかける、共感を呼ぶという意味です。個人的な感情や文化的な関連性がある場合に用いられます。\n\n例：This movie really speaks to me because it reminds me of my childhood. (この映画は、私の子供時代を思い起こさせるので、本当に心に響きます。)"
+    },
+    {
+      "id": 27,
+      "value": "transcends",
+      "options": [
+        "超える",
+        "無視する",
+        "限定する",
+        "関連する"
+      ],
+      "correctAnswer": "超える",
+      "explanation": "「transcend」は、限界や境界、制約などを超える、超越するという意味です。特定のカテゴリーや状況を超えて普遍的な価値を持つことを示す場合に使われます。\n\n例：Love transcends all boundaries. (愛はすべての境界を超える。)"
+    },
+    {
+      "id": 28,
+      "value": "catchy tunes",
+      "options": [
+        "退屈な曲",
+        "耳に残る曲",
+        "複雑な曲",
+        "悲しい曲"
+      ],
+      "correctAnswer": "耳に残る曲",
+      "explanation": "「catchy」は、覚えやすく、すぐに頭に残るという意味です。特に音楽のメロディーやフレーズに対して使われます。「tune」は曲、旋律のことです。\n\n例：That song has a really catchy tune. (あの歌は本当に耳に残るメロディーだ。)"
+    },
+    {
+      "id": 29,
+      "value": "special edition",
+      "options": [
+        "通常版",
+        "特別版",
+        "海賊版",
+        "未完成版"
+      ],
+      "correctAnswer": "特別版",
+      "explanation": "「special edition」は、通常版とは異なる特典や追加要素が含まれている特別版のことです。映画、書籍、ゲームなど様々な製品に対して使われます。\n\n例：I bought the special edition of the game because it came with extra content. (追加コンテンツが付いていたので、そのゲームの特別版を買った。)"
+    },
+    {
+      "id": 30,
+      "value": "rightly and truly",
+      "options": [
+        "完全に間違って",
+        "正当かつ真実に",
+        "部分的におそらく",
+        "あいまいにかつ嘘で"
+      ],
+      "correctAnswer": "正当かつ真実に",
+      "explanation": "「rightly and truly」は、強調表現で、完全に、正当に、真実にという意味を表します。特に、強い感情や確信を伝えたい時に使われます。\n\n例：I am rightly and truly grateful for your help. (あなたの助けに心から感謝しています。)"
+    },
+    {
+      "id": 31,
+      "value": "feelers out",
+      "options": [
+        "感情を隠す",
+        "探りを入れる",
+        "感情を爆発させる",
+        "冷静を保つ"
+      ],
+      "correctAnswer": "探りを入れる",
+      "explanation": "「put feelers out」は、情報や反応を探る、様子を見るという意味のイディオムです。間接的に調査したり、人にそれとなく打診したりする状況で使われます。\n\n例：I'm putting feelers out to see if anyone is interested in buying my car. (誰か私の車に興味があるか探りを入れている。)"
+    },
+    {
+      "id": 32,
+      "value": "pushy",
+      "options": [
+        "消極的な",
+        "強引な",
+        "友好的な",
+        "控えめな"
+      ],
+      "correctAnswer": "強引な",
+      "explanation": "「pushy」は、強引な、押しが強いという意味です。人が自分の意見や要求を強く主張し、他人に不快感を与えるような状況で使われます。\n\n例：I don't like dealing with pushy salespeople. (強引な販売員とやり取りするのは好きではない。)"
+    },
+    {
+      "id": 33,
+      "value": "hear the end of it",
+      "options": [
+        "終わりを聞く",
+        "終わらせてもらう",
+        "小言を聞かされる",
+        "沈黙を守る"
+      ],
+      "correctAnswer": "小言を聞かされる",
+      "explanation": "「hear the end of it」は、小言や非難を延々と聞かされるという意味のイディオムです。特に、何か悪いことをしたり、約束を破ったりした場合に使われます。\n\n例：If I don't finish this report on time, I'll hear the end of it from my boss. (もしこのレポートを時間内に終わらせなかったら、上司から小言を聞かされるだろう。)"
+    },
+    {
+      "id": 34,
+      "value": "done",
+      "options": [
+        "終わった",
+        "始まった",
+        "継続中",
+        "準備中"
+      ],
+      "correctAnswer": "終わった",
+      "explanation": "ここでは、「I'm done.」で「もううんざりだ」「もうたくさんだ」という意味になります。何かに対して我慢の限界を感じ、それ以上関わりたくないという気持ちを表します。\n\n例：I'm done with this conversation; it's going nowhere. (この会話にはもううんざりだ。全然進展がない。)"
+    },
+    {
+      "id": 35,
+      "value": "keep it real",
+      "options": [
+        "現実を忘れる",
+        "正直に生きる",
+        "夢を追いかける",
+        "秘密を守る"
+      ],
+      "correctAnswer": "正直に生きる",
+      "explanation": "「keep it real」は、ありのままの自分を保つ、正直に生きるという意味のスラングです。特に、他人に対して偽らず、自分自身に忠実であることを勧める際に使われます。\n\n例：Don't try to be someone you're not; just keep it real. (他人になろうとしないで、ありのままの自分でいればいい。)"
+    },
+    {
+      "id": 36,
+      "value": "look on the bright side",
+      "options": [
+        "明るい面を見る",
+        "暗い面を見る",
+        "無視する",
+        "過去を振り返る"
+      ],
+      "correctAnswer": "明るい面を見る",
+      "explanation": "「look on the bright side」は、物事の良い面を見る、楽観的に考えるという意味のイディオムです。困難な状況や問題に直面した際に、希望を見出そうとする姿勢を表します。\n\n例：Even though you failed the test, look on the bright side: you learned a lot. (テストに落ちたけど、良い面を見て。たくさん学んだじゃない。)"
+    },
+    {
+      "id": 37,
+      "value": "turn out to be",
+      "options": [
+        "判明する",
+        "隠蔽する",
+        "変化する",
+        "無視する"
+      ],
+      "correctAnswer": "判明する",
+      "explanation": "「turn out to be」は、最終的に〜だと判明する、〜になるという意味です。結果が予想と異なる場合や、時間が経って明らかになる事柄について使われます。\n\n例：The weather turned out to be better than we expected. (天気は予想よりも良かった。)"
+    },
+    {
+      "id": 38,
+      "value": "guinea pigs",
+      "options": [
+        "実験動物",
+        "ペット",
+        "仲間",
+        "観客"
+      ],
+      "correctAnswer": "実験動物",
+      "explanation": "ここでは、人に何かを試す際の「実験台」という意味で使用されています。文字通りの意味の「モルモット」から派生した比喩的な表現です。\n\n例：They used the new recruits as guinea pigs for the training program. (彼らは新入社員を研修プログラムの実験台として使った。)"
+    },
+    {
+      "id": 39,
+      "value": "swear to God",
+      "options": [
+        "神に誓う",
+        "神を冒涜する",
+        "祈る",
+        "無視する"
+      ],
+      "correctAnswer": "神に誓う",
+      "explanation": "「swear to God」は、非常に強い確信や感情を表す時に使われる表現です。文字通り「神に誓う」という意味ですが、日常会話では強調のために用いられます。\n\n例：I swear to God, I didn't do it! (本当に、私はやってない！)"
+    },
+    {
+      "id": 40,
+      "value": "get the hang of",
+      "options": [
+        "理解する",
+        "忘れる",
+        "混乱する",
+        "拒否する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get the hang of」は、コツを掴む、要領を得るという意味のイディオムです。新しいスキルや知識を習得する過程で使われます。\n\n例：It took me a while, but I finally got the hang of driving a manual car. (時間がかかったけど、ついにマニュアル車の運転のコツを掴んだ。)"
+    },
+    {
+      "id": 41,
+      "value": "what's up",
+      "options": [
+        "どうしたの？",
+        "何もない",
+        "どこに行くの？",
+        "何が欲しいの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、人に挨拶する際のカジュアルな表現で、「調子はどう？」「何かあった？」という意味です。\n\n例：Hey John, what's up? (やあ、ジョン、どうしたの？)"
+    },
+    {
+      "id": 42,
+      "value": "acquiring proficiency",
+      "options": [
+        "能力を失う",
+        "能力を習得する",
+        "能力を無視する",
+        "能力を隠蔽する"
+      ],
+      "correctAnswer": "能力を習得する",
+      "explanation": "「acquiring proficiency」は、熟練度や能力を習得するという意味です。「proficiency」は、あるスキルや分野における熟練度や能力を指します。\n\n例：Acquiring proficiency in a new language requires dedication and practice. (新しい言語の能力を習得するには、献身と練習が必要です。)"
+    },
+    {
+      "id": 43,
+      "value": "obvious exceptions",
+      "options": [
+        "明白な例外",
+        "些細な例外",
+        "例外なし",
+        "曖昧な例外"
+      ],
+      "correctAnswer": "明白な例外",
+      "explanation": "「obvious exceptions」は、誰にとっても明らかな、疑う余地のない例外を指します。一般的に認められているルールや原則には当てはまらないケースを指す場合に使われます。\n\n例：There are obvious exceptions to the rule, such as in cases of emergency. (緊急の場合など、そのルールには明白な例外があります。)"
+    },
+    {
+      "id": 44,
+      "value": "going through some stuff",
+      "options": [
+        "楽しい経験をしている",
+        "問題を抱えている",
+        "退屈している",
+        "新しい趣味を始めている"
+      ],
+      "correctAnswer": "問題を抱えている",
+      "explanation": "「go through some stuff」は、困難な状況や問題を経験しているという意味です。個人的な苦難や試練に直面している状況を表す際に使われます。\n\n例：She's been going through some stuff since her father passed away. (彼女は父親が亡くなってから、いろいろと問題を抱えている。)"
+    },
+    {
+      "id": 45,
+      "value": "mean",
+      "options": [
+        "意地悪な",
+        "平均の",
+        "得意な",
+        "意味する"
+      ],
+      "correctAnswer": "得意な",
+      "explanation": "ここでは、「I make a mean grasshopper」で「私はグラスホッパーを作るのが得意だ」という意味になります。「mean」は、優れたスキルや能力を持っていることを表す口語的な表現です。\n\n例：He plays a mean guitar. (彼はギターがとても上手い。)"
+    },
+    {
+      "id": 46,
+      "value": "virgin",
+      "options": [
+        "普通の",
+        "アルコール入りの",
+        "ノンアルコールの",
+        "特別な"
+      ],
+      "correctAnswer": "ノンアルコールの",
+      "explanation": "ここでは、カクテルの名前の前に「virgin」をつけることで、アルコールが入っていない、ノンアルコールであることを意味します。\n\n例：I'll have a virgin mojito, please. (バージンモヒートをお願いします。)"
+    },
+    {
+      "id": 47,
+      "value": "people skills",
+      "options": [
+        "技術力",
+        "人間力",
+        "体力",
+        "知力"
+      ],
+      "correctAnswer": "人間力",
+      "explanation": "「people skills」は、他人と円滑なコミュニケーションを取り、良好な人間関係を築く能力を指します。対人スキル、コミュニケーション能力とも言えます。\n\n例：Customer service representatives need excellent people skills. (カスタマーサービス担当者は、優れた人間力が必要です。)"
+    },
+    {
+      "id": 48,
+      "value": "cut off",
+      "options": [
+        "割引する",
+        "提供する",
+        "遮断する",
+        "促進する"
+      ],
+      "correctAnswer": "遮断する",
+      "explanation": "ここでは、「cut off」は、（飲酒の）提供を打ち切る、もう飲ませないという意味になります。飲みすぎている人に対して使われます。\n\n例：The bartender cut him off after he had too many drinks. (バーテンダーは彼が飲みすぎたので、もう飲ませなかった。)"
+    },
+    {
+      "id": 49,
+      "value": "carefree",
+      "options": [
+        "心配性の",
+        "自由奔放な",
+        "責任感の強い",
+        "内向的な"
+      ],
+      "correctAnswer": "自由奔放な",
+      "explanation": "「carefree」は、心配事や悩みがない、気楽な、のんきなという意味です。人生を楽しんでいる様子を表す形容詞です。\n\n例：He had a carefree attitude towards life. (彼は人生に対してのんきな態度だった。)"
+    },
+    {
+      "id": 50,
+      "value": "such plans",
+      "options": [
+        "同じ計画",
+        "多くの計画",
+        "秘密の計画",
+        "計画なし"
+      ],
+      "correctAnswer": "多くの計画",
+      "explanation": "ここでは、「such plans」は、素晴らしかった多くの計画、という意味合いで使用されています。過去に持っていた大きな希望や野望を振り返る際に用いられる表現です。\n\n例：I had such plans for my future, but things didn't work out as I expected. (将来に対して多くの計画があったが、物事は思った通りにはいかなかった。)"
+    },
+    {
+      "id": 51,
+      "value": "showdown",
+      "options": [
+        "秘密の会合",
+        "最終決戦",
+        "友好的な議論",
+        "事前の合意"
+      ],
+      "correctAnswer": "最終決戦",
+      "explanation": "「showdown」は、最終的な対決、決着をつけるための行動を意味します。しばしば、対立する勢力間での重要な争いや、避けて通れない事態を指します。西部劇などでよく使われる表現で、比喩的にも用いられます。\n\n例：The election will be a showdown between the two leading candidates. (その選挙は、二人の有力候補者間の最終決戦となるだろう。)"
+    },
+    {
+      "id": 52,
+      "value": "the grasshopper talking",
+      "options": [
+        "酔っ払っている状態",
+        "冷静な判断",
+        "興奮している状態",
+        "悲しんでいる状態"
+      ],
+      "correctAnswer": "酔っ払っている状態",
+      "explanation": "「the grasshopper talking」は、この文脈では、お酒を飲んで普段とは違う大胆な行動や発言をしている状態を指す、婉曲的な表現です。Rajが飲酒によって大胆になっていることをPennyがからかうように言っています。"
+    },
+    {
+      "id": 53,
+      "value": "riding an elephant down the aisle",
+      "options": [
+        "結婚式を挙げる",
+        "会社を設立する",
+        "学位を取得する",
+        "海外旅行をする"
+      ],
+      "correctAnswer": "結婚式を挙げる",
+      "explanation": "「riding an elephant down the aisle」は、インドの伝統的な結婚式を挙げることを誇張した表現です。Rajが自分の結婚に対するプレッシャーを誇張して表現するために使われています。"
+    },
+    {
+      "id": 54,
+      "value": "overdo it",
+      "options": [
+        "やり過ぎる",
+        "手伝う",
+        "我慢する",
+        "節約する"
+      ],
+      "correctAnswer": "やり過ぎる",
+      "explanation": "「overdo it」は、何かをやり過ぎる、度を越すという意味です。特に、飲酒、食事、運動など、過剰に行うことを戒める際に使われます。\n\n例：Don't overdo it at the party. (パーティーで飲み過ぎないようにね。)"
+    },
+    {
+      "id": 55,
+      "value": "hunky donkey",
+      "options": [
+        "素晴らしい",
+        "難しい",
+        "退屈な",
+        "不可能な"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「hunky donkey」は、ここでは、すべてがうまくいく、素晴らしい状態になるという、Rajの酔った状態での楽観的な気持ちを表すための、ナンセンスな造語です。意味は特にありませんが、良い方向に進むことを強調しています。"
+    },
+    {
+      "id": 56,
+      "value": "keep an eye on",
+      "options": [
+        "監視する",
+        "無視する",
+        "応援する",
+        "手伝う"
+      ],
+      "correctAnswer": "監視する",
+      "explanation": "「keep an eye on」は、～から目を離さない、～を監視するという意味です。誰か（または何か）が安全であるか、問題を起こさないかを確認するために注意を払うことを指します。\n\n例：Can you keep an eye on my bag while I go to the restroom? (トイレに行っている間、私のバッグを見ていてもらえますか？)"
+    },
+    {
+      "id": 57,
+      "value": "worked for my parents",
+      "options": [
+        "両親には効果があった",
+        "両親は反対した",
+        "両親は知らなかった",
+        "両親には無理だった"
+      ],
+      "correctAnswer": "両親には効果があった",
+      "explanation": "「worked for my parents」は、ここでは「（酔っ払っていても）私の両親はうまくいった」という意味で、HowardがRajの状況を皮肉交じりに評しています。Howardの両親が常に酔っ払っていたかどうかは不明ですが、少なくとも表面的には夫婦関係が成り立っていたことを示唆しています。"
+    },
+    {
+      "id": 58,
+      "value": "obnoxious",
+      "options": [
+        "不快な",
+        "魅力的な",
+        "賢い",
+        "面白い"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「obnoxious」は、非常に不快な、鼻持ちならないという意味です。人の行動や態度が、他人を不快にさせる、または迷惑をかける場合に用いられます。\n\n例：He was being loud and obnoxious at the party. (彼はパーティーで騒がしく、不快な態度をとっていた。)"
+    },
+    {
+      "id": 59,
+      "value": "set me up with",
+      "options": [
+        "紹介する",
+        "見捨てる",
+        "手伝う",
+        "邪魔する"
+      ],
+      "correctAnswer": "紹介する",
+      "explanation": "「set someone up with」は、誰かに誰かを紹介して、デートをさせたり、恋愛関係に発展させようとすることを意味します。親や友人が、誰かを紹介する際に使われることが多いです。\n\n例：My friend set me up with her cousin. (友達が彼女のいとこを私に紹介してくれた。)"
+    },
+    {
+      "id": 60,
+      "value": "vestigial tail",
+      "options": [
+        "痕跡的な尻尾",
+        "美しい髪",
+        "新しい服",
+        "明るい笑顔"
+      ],
+      "correctAnswer": "痕跡的な尻尾",
+      "explanation": "「vestigial tail」は、痕跡的な尻尾という意味で、進化の過程で退化した、名残としての尻尾を指します。ここでは、Howardが紹介された女性の容姿を誇張して表現するために使われています。通常、人間にはありません。"
+    },
+    {
+      "id": 61,
+      "value": "virgin diet cuba libre",
+      "options": [
+        "ノンアルコールのキューバリブレ",
+        "特別な食事療法",
+        "高価な葉巻",
+        "最新のダイエット法"
+      ],
+      "correctAnswer": "ノンアルコールのキューバリブレ",
+      "explanation": "「virgin diet cuba libre」は、ノンアルコールのキューバリブレ（ラムとコーラを混ぜたカクテル）を意味します。virginは「未完成の」「純粋な」という意味の他に「アルコールが入っていない」という意味があります。"
+    },
+    {
+      "id": 62,
+      "value": "wedge it right in there",
+      "options": [
+        "無理やり押し込む",
+        "丁寧に扱う",
+        "すぐに捨てる",
+        "後で考える"
+      ],
+      "correctAnswer": "無理やり押し込む",
+      "explanation": "「wedge it right in there」は、ここでは、ライムをグラスに無理やり押し込むという、Pennyの少し皮肉を込めた表現です。Sheldonの細かい注文に対する、Pennyのややうんざりした気持ちが込められています。"
+    },
+    {
+      "id": 63,
+      "value": "getting at",
+      "options": [
+        "言いたいこと",
+        "隠していること",
+        "考えていること",
+        "感じていること"
+      ],
+      "correctAnswer": "言いたいこと",
+      "explanation": "「get at」は、(暗に)～をほのめかす、～を言おうとする、という意味です。相手が遠回しな言い方をしている時に、その真意を尋ねる際に使われます。\n\n例：What are you getting at? (何が言いたいの？)"
+    },
+    {
+      "id": 64,
+      "value": "come to life",
+      "options": [
+        "現実になる",
+        "死んでしまう",
+        "忘れられる",
+        "隠れてしまう"
+      ],
+      "correctAnswer": "現実になる",
+      "explanation": "「come to life」は、生き生きとする、現実になるという意味です。想像上のものや、非現実的なものが、実際に存在するかのように感じられる状態を指します。\n\n例：The characters in the book really come to life. (その本の登場人物は本当に生き生きとしている。)"
+    },
+    {
+      "id": 65,
+      "value": "forgive me your highness",
+      "options": [
+        "お許しください、殿下",
+        "ありがとう、親愛なる人",
+        "こんにちは、友人",
+        "さようなら、先生"
+      ],
+      "correctAnswer": "お許しください、殿下",
+      "explanation": "「forgive me your highness」は、身分の高い人に対して謝罪する際に使われる、非常に丁寧な表現です。ここでは、SheldonがLalitaをPrincess Punchaliに見立てて、冗談めかして使っています。"
+    },
+    {
+      "id": 66,
+      "value": "but a monkey",
+      "options": [
+        "ただの猿",
+        "賢い人間",
+        "勇敢な戦士",
+        "優れた芸術家"
+      ],
+      "correctAnswer": "ただの猿",
+      "explanation": "「but a monkey」は、ここでは、自分を謙遜して「ただの猿」と表現しています。物語の中の猿の立場を自分に重ね合わせ、Lalita（Princess Punchali）に対する謙虚さを示しています。"
+    },
+    {
+      "id": 67,
+      "value": "gaze upon",
+      "options": [
+        "見つめる",
+        "無視する",
+        "避ける",
+        "隠す"
+      ],
+      "correctAnswer": "見つめる",
+      "explanation": "「gaze upon」は、(美しさや驚きをもって)見つめる、凝視するという意味です。文学的な表現で、特に美しいものや、特別なものを見る際に用いられます。\n\n例：He gazed upon the sunset with awe. (彼は畏敬の念をもって夕日を見つめた。)"
+    },
+    {
+      "id": 68,
+      "value": "living embodiment",
+      "options": [
+        "生きた化身",
+        "過去の遺物",
+        "未来の希望",
+        "忘れられた存在"
+      ],
+      "correctAnswer": "生きた化身",
+      "explanation": "「living embodiment」は、生きた化身、具現化されたものという意味です。抽象的な概念や理想が、具体的な人物や形で表現されている状態を指します。\n\n例：She is the living embodiment of kindness. (彼女は優しさの生きた化身だ。)"
+    },
+    {
+      "id": 69,
+      "value": "no kidding?",
+      "options": [
+        "まさか",
+        "本当ですか",
+        "面白いですね",
+        "つまらないですね"
+      ],
+      "correctAnswer": "本当ですか",
+      "explanation": "「no kidding?」は、(驚きや疑いを込めて)まさか、冗談でしょう、本当ですかという意味です。相手の発言に対して驚きや信じられない気持ちを表す際に使われます。\n\n例：You won the lottery? No kidding! (宝くじに当たったの？まさか！)"
+    },
+    {
+      "id": 70,
+      "value": "folk tale",
+      "options": [
+        "民話",
+        "科学小説",
+        "歴史小説",
+        "恋愛小説"
+      ],
+      "correctAnswer": "民話",
+      "explanation": "「folk tale」は、民話、昔話という意味です。口承で伝えられてきた物語で、特定の作者がいないことが多いです。文化や社会の価値観を反映していることがあります。\n\n例：The story is based on a traditional folk tale. (その物語は伝統的な民話に基づいている。)"
+    },
+    {
+      "id": 71,
+      "value": "us Indian, or come to our casino Indian?",
+      "options": [
+        "インド人ですか、それともカジノに来るインディアンですか？",
+        "アメリカ人ですか、それともヨーロッパ人ですか？",
+        "都会の人ですか、それとも田舎の人ですか？",
+        "若い人ですか、それとも老人ですか？"
+      ],
+      "correctAnswer": "インド人ですか、それともカジノに来るインディアンですか？",
+      "explanation": "Lalitaの発言は、Sheldonが言及しているのが、インドの民話の登場人物なのか、アメリカの先住民（ネイティブ・アメリカン）のことなのかを確認しようとしています。ネイティブ・アメリカンの部族が運営するカジノを指す、やや皮肉の込められた表現です。"
+    },
+    {
+      "id": 72,
+      "value": "resemblance",
+      "options": [
+        "類似点",
+        "相違点",
+        "重要性",
+        "無意味さ"
+      ],
+      "correctAnswer": "類似点",
+      "explanation": "「resemblance」は、類似、類似点という意味です。二つのもの（または人）が、外見や性質において似ていることを指します。\n\n例：There's a strong resemblance between the two sisters. (その二人の姉妹の間には強い類似点がある。)"
+    },
+    {
+      "id": 73,
+      "value": "practically",
+      "options": [
+        "ほとんど",
+        "絶対に",
+        "たまに",
+        "全く"
+      ],
+      "correctAnswer": "ほとんど",
+      "explanation": "「practically」は、ほとんど、実質的にという意味です。完全にそうではないものの、ほぼ同じ状態であることを表します。\n\n例：The project is practically finished. (そのプロジェクトはほとんど完成している。)"
+    },
+    {
+      "id": 74,
+      "value": "lotus blossoms",
+      "options": [
+        "蓮の花",
+        "桜の花",
+        "バラの花",
+        "ひまわりの花"
+      ],
+      "correctAnswer": "蓮の花",
+      "explanation": "「lotus blossoms」は、蓮の花という意味です。インドでは神聖な花とされ、純粋さや悟りの象徴として用いられます。Sheldonは、Lalitaの美しさを表現するために、蓮の花の香りを持ち出しています。"
+    },
+    {
+      "id": 75,
+      "value": "fashioned her eyes out of the stars",
+      "options": [
+        "彼女の目を星から作った",
+        "彼女の目を宝石で飾った",
+        "彼女の目を隠した",
+        "彼女の目を傷つけた"
+      ],
+      "correctAnswer": "彼女の目を星から作った",
+      "explanation": "「fashioned her eyes out of the stars」は、彼女の目を星から作った、つまり、彼女の目が星のように美しいという比喩表現です。Princess Punchaliの美しさを強調するために使われています。"
+    },
+    {
+      "id": 76,
+      "value": "back off",
+      "options": [
+        "後退する",
+        "支持する",
+        "無視する",
+        "からかう"
+      ],
+      "correctAnswer": "後退する",
+      "explanation": "「back off」は、文字通りには「後退する」という意味ですが、口語では「手を引く」「干渉しない」「やめる」といった意味で使われます。特に、誰かに対して圧力をかけたり、邪魔をしたりするのをやめるように促す場合に使われます。例文：Back off! He's my friend. (やめろ！彼は私の友達だ。)"
+    },
+    {
+      "id": 77,
+      "value": "hit on",
+      "options": [
+        "殴る",
+        "口説く",
+        "当たる",
+        "隠れる"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「hit on」は、誰かを口説く、ナンパするという意味の口語表現です。恋愛的な興味を示して、相手にアプローチする行為を指します。例文：He was hitting on her at the bar. (彼はバーで彼女を口説いていた。)"
+    },
+    {
+      "id": 78,
+      "value": "wrath",
+      "options": [
+        "喜び",
+        "怒り",
+        "平和",
+        "悲しみ"
+      ],
+      "correctAnswer": "怒り",
+      "explanation": "「wrath」は、激しい怒り、憤りという意味のフォーマルな単語です。日常会話よりも、文学作品や正式な場面で使われることが多いです。例文：The king unleashed his wrath upon the traitors. (王は反逆者たちに激しい怒りをぶつけた。)"
+    },
+    {
+      "id": 79,
+      "value": "for all intents and purposes",
+      "options": [
+        "すべての目的のために",
+        "実際上は",
+        "表面上は",
+        "偶然にも"
+      ],
+      "correctAnswer": "実際上は",
+      "explanation": "「for all intents and purposes」は、「事実上」「実際上は」「ほとんど〜と同じ」という意味のイディオムです。厳密にはそうではないかもしれないが、結果や影響においてほぼ同じであるというニュアンスを表します。例文：For all intents and purposes, the project is finished. (事実上、そのプロジェクトは終わっている。)"
+    },
+    {
+      "id": 80,
+      "value": "get something straight",
+      "options": [
+        "何かを理解する",
+        "何かを明確にする",
+        "何かを隠す",
+        "何かを壊す"
+      ],
+      "correctAnswer": "何かを明確にする",
+      "explanation": "「get something straight」は、「〜をはっきりさせる」「〜を明確にする」という意味のイディオムです。誤解や混乱を避けるために、ある事実や状況を明確に説明したり、確認したりする際に使われます。例文：Let's get something straight: I'm not going to do your work for you. (はっきりさせておこう。私は君の仕事を代わりにやるつもりはない。)"
+    },
+    {
+      "id": 81,
+      "value": "get someone off someone's case",
+      "options": [
+        "事件から人を遠ざける",
+        "人のことを放っておく",
+        "人の味方をする",
+        "人に頼る"
+      ],
+      "correctAnswer": "人のことを放っておく",
+      "explanation": "「get someone off someone's case」は、「〜に付きまとうのをやめさせる」「〜をうるさく言わないようにする」という意味のイディオムです。例文：I came tonight was to get my parents off my case. (今夜来たのは、両親にうるさく言われるのを避けるためだ。)"
+    },
+    {
+      "id": 82,
+      "value": "old world",
+      "options": [
+        "古い世界",
+        "古風な",
+        "新しい世界",
+        "未知の世界"
+      ],
+      "correctAnswer": "古風な",
+      "explanation": "ここでは、古風な考え方や態度を指す形容詞として使われています。例文：I certainly don’t need to be getting this old world crap from you. (あなたからそんな古臭いことを言われる必要はない。)"
+    },
+    {
+      "id": 83,
+      "value": "screw",
+      "options": [
+        "ねじ込む",
+        "ばかにする",
+        "修理する",
+        "固定する"
+      ],
+      "correctAnswer": "ばかにする",
+      "explanation": "「screw」は、ここでは侮蔑的な意味合いで使われており、「くそ〜」「ちくしょう」といったニュアンスを表します。例文：Oh, screw Princess Punchali.(ああ、プリンセスパンチャリなんてどうでもいい。)"
+    },
+    {
+      "id": 84,
+      "value": "behead",
+      "options": [
+        "埋葬する",
+        "投獄する",
+        "斬首する",
+        "解放する"
+      ],
+      "correctAnswer": "斬首する",
+      "explanation": "「behead」は、斬首するという意味の動詞です。歴史的な文脈や、権力者が刑罰として行う場合に使われます。例文：Luckily for you, she could have you beheaded. (幸運なことに、彼女はあなたを斬首刑にすることができた。)"
+    },
+    {
+      "id": 85,
+      "value": "beats the hell out of me",
+      "options": [
+        "地獄のように打ちのめす",
+        "全くわからない",
+        "ひどく退屈させる",
+        "非常に興奮させる"
+      ],
+      "correctAnswer": "全くわからない",
+      "explanation": "「beats the hell out of me」は、「全くわからない」「見当もつかない」という意味の口語的なイディオムです。例文：What just happened? Beats the hell out of me.(一体何が起こったんだ？さっぱりわからない。)"
+    },
+    {
+      "id": 86,
+      "value": "keep your eye on the ball",
+      "options": [
+        "ボールを大切にする",
+        "集中する",
+        "油断する",
+        "休憩する"
+      ],
+      "correctAnswer": "集中する",
+      "explanation": "「keep your eye on the ball」は、「重要なことに集中する」「注意を怠らない」という意味のイディオムです。元々はゴルフなどのスポーツで使われる表現ですが、ビジネスや日常生活でも広く使われます。例文：Maybe you should keep your eye on the ball, Papa. (お父さん、ゴルフに集中するべきだよ。)"
+    },
+    {
+      "id": 87,
+      "value": "in all fairness",
+      "options": [
+        "不公平にも",
+        "公平に言って",
+        "正直に言って",
+        "不運にも"
+      ],
+      "correctAnswer": "公平に言って",
+      "explanation": "「in all fairness」は、「公平に言って」「正当に評価すると」という意味のフレーズです。例文：Doctor and Mrs Koothrappali, in all fairness, it wasn’t entirely Raj’s fault. (クースラポリ先生、奥様、公平に言って、完全にラージのせいではありません。)"
+    },
+    {
+      "id": 88,
+      "value": "low sperm count",
+      "options": [
+        "高い精子数",
+        "低い精子数",
+        "精子の運動能力",
+        "精子の奇形率"
+      ],
+      "correctAnswer": "低い精子数",
+      "explanation": "「low sperm count」は、精子の数が少ない状態を指す医学用語です。男性不妊の原因の一つとなります。例文：How would I know, do you have a low sperm count? (僕が知るわけないだろう、君は精子の数が少ないのか？)"
+    },
+    {
+      "id": 89,
+      "value": "tidy whities",
+      "options": [
+        "ブランド名",
+        "だらしない人",
+        "清潔な白物",
+        "白いブリーフ"
+      ],
+      "correctAnswer": "白いブリーフ",
+      "explanation": "「tidy whities」は、白いブリーフを指す口語的な表現です。子供っぽい印象を与えることがあります。例文：Because you know what happens to the samosas when you wear the tidy whities. (白いブリーフを履くとサモサがどうなるか知っているでしょ。)"
+    },
+    {
+      "id": 90,
+      "value": "noted",
+      "options": [
+        "有名",
+        "注目",
+        "承知しました",
+        "記録"
+      ],
+      "correctAnswer": "承知しました",
+      "explanation": "「noted」は、「承知しました」「了解しました」という意味で、ビジネスシーンなどでも使われる表現です。相手の言ったことや指示などを理解したことを伝える際に用います。例文：Oh. Alright, noted. Sorry.(ああ。わかった。ごめん。)"
+    },
+    {
+      "id": 91,
+      "value": "take it",
+      "options": [
+        "受け取る",
+        "我慢する",
+        "奪う",
+        "選ぶ"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「take it」は、ここでは「それを受け入れろ」「我慢しろ」という意味で使われています。例文：Take it, Raj. It’s more than I’ve ever gotten. (受け入れろ、ラージ。僕が今までもらったことよりも多いんだ。)"
+    },
+    {
+      "id": 92,
+      "value": "point out",
+      "options": [
+        "指摘する",
+        "隠す",
+        "無視する",
+        "支持する"
+      ],
+      "correctAnswer": "指摘する",
+      "explanation": "「point out」は、「指摘する」「注意を促す」という意味の句動詞です。例文：And may I point out she wouldn’t have asked me to go with her if you hadn’t been drunk and boring.(それに、君が酔っ払って退屈じゃなかったら、彼女は僕に一緒に行こうとは頼まなかっただろう。)"
+    },
+    {
+      "id": 93,
+      "value": "in denial",
+      "options": [
+        "否定",
+        "肯定",
+        "混乱",
+        "希望"
+      ],
+      "correctAnswer": "否定",
+      "explanation": "「in denial」は、「現実を否定している」「認めようとしない」という意味のフレーズです。問題や困難な状況を直視することを避けようとする心理状態を表します。例文：Are you in denial? (君は現実を否定しているのか？)"
+    },
+    {
+      "id": 94,
+      "value": "intervention",
+      "options": [
+        "邪魔",
+        "介入",
+        "放置",
+        "無視"
+      ],
+      "correctAnswer": "介入",
+      "explanation": "「intervention」は、「介入」「干渉」という意味の名詞です。ここでは、アルコール依存症などの問題を抱える人に対して、家族や友人が集まって問題点を指摘し、治療を勧める「介入」を指しています。例文：Do we have to come over and do an intervention? (僕たちはそっちに行って介入しないといけないのか？)"
+    },
+    {
+      "id": 95,
+      "value": "carry us outside",
+      "options": [
+        "私たちを運んで外へ",
+        "私たちを外へ連れて行って",
+        "私たちを外で支えて",
+        "私たちを外へ忘れて"
+      ],
+      "correctAnswer": "私たちを外へ連れて行って",
+      "explanation": "ここではウェブカメラで話している両親が、プライベートな話をするために、ラージに自分たちを外に連れて行ってくれるように頼んでいます。例文：Carry us outside, we want to talk to you in private. (私たちを外へ連れて行ってくれ。プライベートな話がしたい。)"
+    },
+    {
+      "id": 96,
+      "value": "lecture",
+      "options": [
+        "講義する",
+        "相談する",
+        "無視する",
+        "冗談を言う"
+      ],
+      "correctAnswer": "講義する",
+      "explanation": "「lecture」は、「講義する」「説教する」という意味の動詞です。例文：She lectured me on the link between gum disease and heart attacks, nothing I didn’t already know, and I came home. (彼女は歯周病と心臓発作の関連性について講義してきて、何も私がすでに知らなかったことはなかった。それで家に帰ってきた。)"
+    },
+    {
+      "id": 97,
+      "value": "what's gotten into him?",
+      "options": [
+        "彼に何が取り憑いたのか",
+        "彼はどうしたのか",
+        "彼はどこへ行ったのか",
+        "彼に何が起こったのか"
+      ],
+      "correctAnswer": "彼はどうしたのか",
+      "explanation": "「what's gotten into him?」は、「彼に一体何があったんだ？」「彼はどうしてしまったんだ？」という意味の口語的な表現です。例文：I don’t believe it, what’s gotten into him? (信じられない、彼はどうしたんだ？)"
+    },
+    {
+      "id": 98,
+      "value": "virgin cuba libre",
+      "options": [
+        "特別なカクテル",
+        "ノンアルコールキューバリブレ",
+        "高級な葉巻",
+        "秘密のレシピ"
+      ],
+      "correctAnswer": "ノンアルコールキューバリブレ",
+      "explanation": "「virgin cuba libre」は、ラム酒を使わない、ノンアルコールのキューバリブレのことです。キューバリブレは、ラム、コーラ、ライムで作られるカクテルです。「virgin」は「バージン」と発音し、ここでは「アルコールが入っていない」という意味で使われています。例文：Oh, maybe a couple of virgin cuba libres that turned out to be kind of slutty.(ああ、ちょっといかがわしくなってしまったノンアルコールキューバリブレのせいかも。)"
+    },
+    {
+      "id": 99,
+      "value": "turn out to be",
+      "options": [
+        "判明する",
+        "出発する",
+        "拒否する",
+        "混乱する"
+      ],
+      "correctAnswer": "判明する",
+      "explanation": "「turn out to be」は、「〜であることが判明する」「結局〜になる」という意味の句動詞です。例文：Oh, maybe a couple of virgin cuba libres that turned out to be kind of slutty.(ああ、ちょっといかがわしくなってしまったノンアルコールキューバリブレのせいかも。)"
+    },
+    {
+      "id": 100,
+      "value": "slutty",
+      "options": [
+        "不真面目な",
+        "だらしない",
+        "魅力的な",
+        "おとなしい"
+      ],
+      "correctAnswer": "不真面目な",
+      "explanation": "「slutty」は、軽蔑的な意味合いで使われる単語で、特に女性に対して性的放埒であるとか、だらしないといった意味合いを持ちます。例文：Oh, maybe a couple of virgin cuba libres that turned out to be kind of slutty.(ああ、ちょっといかがわしくなってしまったノンアルコールキューバリブレのせいかも。)"
+    }
+  ]
+}

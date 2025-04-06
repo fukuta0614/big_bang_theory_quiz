@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "cut off",
+      "options": [
+        "解放する",
+        "遮断する",
+        "強化する",
+        "促進する"
+      ],
+      "correctAnswer": "遮断する",
+      "explanation": "「cut off」は、物理的に遮断するだけでなく、関係や連絡を断つ、供給を止めるなど、幅広い意味で使用されます。ここでは、ペイントボールゲームにおいて、敵に道を遮られている状況を指しています。"
+    },
+    {
+      "id": 2,
+      "value": "hopped up on",
+      "options": [
+        "興味がない",
+        "熱中している",
+        "影響されている",
+        "反対している"
+      ],
+      "correctAnswer": "影響されている",
+      "explanation": "「hopped up on」は、薬物や興奮剤などの影響を受けている状態を表す口語的な表現です。ここでは、薬理学部のメンバーが実験用ステロイドで興奮している様子を指しています。"
+    },
+    {
+      "id": 3,
+      "value": "doomed",
+      "options": [
+        "運命にある",
+        "成功する",
+        "自由になる",
+        "安全である"
+      ],
+      "correctAnswer": "運命にある",
+      "explanation": "「doomed」は、悪い運命にある、破滅に向かっているという意味です。ここでは、ペイントボールゲームで追い詰められ、負ける運命にあると感じている状況を表しています。"
+    },
+    {
+      "id": 4,
+      "value": "acknowledge",
+      "options": [
+        "無視する",
+        "認める",
+        "隠す",
+        "否定する"
+      ],
+      "correctAnswer": "認める",
+      "explanation": "「acknowledge」は、事実や真実を認める、受け入れるという意味です。ここでは、ペイントボール戦略会議への不参加が敗因であることを認めるべきだと述べています。"
+    },
+    {
+      "id": 5,
+      "value": "spider veins",
+      "options": [
+        "静脈瘤",
+        "筋肉痛",
+        "骨折",
+        "皮膚炎"
+      ],
+      "correctAnswer": "静脈瘤",
+      "explanation": "「spider veins」は、皮膚の表面に現れる細い血管が拡張した状態を指します。クモの巣状に見えることからこの名があります。医学的には静脈瘤の一種とされます。"
+    },
+    {
+      "id": 6,
+      "value": "no go",
+      "options": [
+        "問題ない",
+        "許可する",
+        "不可能",
+        "推奨する"
+      ],
+      "correctAnswer": "不可能",
+      "explanation": "「no go」は、計画や提案が実行不可能であることを示す口語的な表現です。ここでは、Dumpstersが天文学部の領域にあるため、その作戦が実行できないことを意味します。"
+    },
+    {
+      "id": 7,
+      "value": "tactical retreat",
+      "options": [
+        "奇襲攻撃",
+        "戦略的撤退",
+        "正面突破",
+        "無謀な行動"
+      ],
+      "correctAnswer": "戦略的撤退",
+      "explanation": "「tactical retreat」は、一時的に不利な状況から脱するために、計画的に撤退することを意味します。ここでは、ペイントボールゲームで不利な状況を打開するために、一旦退却することを提案しています。"
+    },
+    {
+      "id": 8,
+      "value": "cover",
+      "options": [
+        "攻撃する",
+        "援護する",
+        "無視する",
+        "逃げる"
+      ],
+      "correctAnswer": "援護する",
+      "explanation": "「cover」は、誰かを保護するために、敵の攻撃から身を守ることを意味します。ここでは、他のメンバーが逃げる間、ハワードが敵の攻撃から守る役割を担うことを指しています。"
+    },
+    {
+      "id": 9,
+      "value": "surrender",
+      "options": [
+        "攻撃する",
+        "降伏する",
+        "反撃する",
+        "逃げる"
+      ],
+      "correctAnswer": "降伏する",
+      "explanation": "「surrender」は、敵に降伏し、戦いをやめることを意味します。ここでは、ペイントボールゲームで敵に囲まれ、降伏せざるを得ない状況を表しています。"
+    },
+    {
+      "id": 10,
+      "value": "friendly fire",
+      "options": [
+        "敵の攻撃",
+        "味方の誤射",
+        "間接的な支援",
+        "友好的な競争"
+      ],
+      "correctAnswer": "味方の誤射",
+      "explanation": "「friendly fire」は、戦闘において、味方の兵士によって誤って攻撃されることを意味します。ここでは、ペイントボールゲームで味方の誤射によって仲間が倒されたことを指しています。"
+    },
+    {
+      "id": 11,
+      "value": "make every moment count",
+      "options": [
+        "時間を無駄にする",
+        "全ての瞬間を大切にする",
+        "過去を振り返る",
+        "未来を心配する"
+      ],
+      "correctAnswer": "全ての瞬間を大切にする",
+      "explanation": "「make every moment count」は、人生や限られた時間を最大限に活用し、充実させるという意味です。ここでは、ペイントボールゲームでいつ倒されるか分からない状況で、今この瞬間を大切にしようと提案しています。"
+    },
+    {
+      "id": 12,
+      "value": "slaughtered",
+      "options": [
+        "勝利した",
+        "虐殺された",
+        "保護された",
+        "救助された"
+      ],
+      "correctAnswer": "虐殺された",
+      "explanation": "「slaughter」は、大量虐殺、惨殺という意味で、ここではペイントボールで一方的に打ち負かされている状況を比喩的に表しています。"
+    },
+    {
+      "id": 13,
+      "value": "cutbacks",
+      "options": [
+        "増額",
+        "削減",
+        "投資",
+        "開発"
+      ],
+      "correctAnswer": "削減",
+      "explanation": "「cutback」は、予算や人員などの削減を意味します。ここでは、大学の予算が削減されたことを指しています。"
+    },
+    {
+      "id": 14,
+      "value": "baffles",
+      "options": [
+        "喜ばせる",
+        "困惑させる",
+        "明確にする",
+        "促進する"
+      ],
+      "correctAnswer": "困惑させる",
+      "explanation": "「baffle」は、理解できない、困惑させるという意味です。ここでは、大学が自分の研究に資金を提供しないことに困惑していると述べています。"
+    },
+    {
+      "id": 15,
+      "value": "academic record",
+      "options": [
+        "運動神経",
+        "学業成績",
+        "職務経歴",
+        "交友関係"
+      ],
+      "correctAnswer": "学業成績",
+      "explanation": "「academic record」は、学校での成績、履修履歴、卒業証書など、学業に関する記録全般を指します。ここでは、レオナルドの学業成績に基づいて、彼が理解できないことがたくさんあるだろうと皮肉っています。"
+    },
+    {
+      "id": 16,
+      "value": "scratch my back, I scratch yours",
+      "options": [
+        "協力は不要",
+        "持ちつ持たれつ",
+        "自己犠牲の精神",
+        "競争こそが重要"
+      ],
+      "correctAnswer": "持ちつ持たれつ",
+      "explanation": "「scratch my back, I'll scratch yours」は、お互いに助け合う、持ちつ持たれつの関係を意味するイディオムです。ここでは、ハワードがレズリーに便宜を図ってもらったことに対する見返りを示唆しています。"
+    },
+    {
+      "id": 17,
+      "value": "unrestricted grant money",
+      "options": [
+        "使用制限のある補助金",
+        "使用制限のない補助金",
+        "個人からの寄付金",
+        "返済義務のある借入金"
+      ],
+      "correctAnswer": "使用制限のない補助金",
+      "explanation": "「unrestricted grant money」は、特定の目的や用途に限定されず、自由に使える補助金を指します。レズリーが自由に使える補助金の管理権を持っていることを意味します。"
+    },
+    {
+      "id": 18,
+      "value": "quid pro quo",
+      "options": [
+        "無償の奉仕",
+        "等価交換",
+        "一方的な要求",
+        "偶然の一致"
+      ],
+      "correctAnswer": "等価交換",
+      "explanation": "「quid pro quo」は、ラテン語で「何かを与えれば何かを得る」という意味で、等価交換や見返りを期待する行為を指します。ここでは、レズリーがハワードに便宜を図ったことに対する見返りがあったことを示唆しています。"
+    },
+    {
+      "id": 19,
+      "value": "metaphor",
+      "options": [
+        "比喩",
+        "直接的な表現",
+        "誇張",
+        "反語"
+      ],
+      "correctAnswer": "比喩",
+      "explanation": "「metaphor」は、比喩、隠喩という意味です。ある物事を別の物事に例えて表現することで、ここでは「back-scratching」が文字通りの行為ではなく、互恵関係の比喩として使われているかどうかを議論しています。"
+    },
+    {
+      "id": 20,
+      "value": "Despite what the name suggests",
+      "options": [
+        "名前が示す通り",
+        "名前が示すのとは反対に",
+        "名前は重要ではない",
+        "名前は秘密である"
+      ],
+      "correctAnswer": "名前が示すのとは反対に",
+      "explanation": "「Despite what the name suggests」は、名前から連想されるイメージとは異なり、実際にはそうではないという意味です。ここでは、シベットキャットの名前が示すイメージとは異なり、真の猫ではないことを説明しています。"
+    },
+    {
+      "id": 21,
+      "value": "civil cat",
+      "options": [
+        "野良猫",
+        "飼い猫",
+        "シベットキャット",
+        "ライオン"
+      ],
+      "correctAnswer": "シベットキャット",
+      "explanation": "「civet cat」は、ジャコウネコ科の動物のことです。麝香の原料となる分泌物を採取するために飼育されます。名前は「猫」ですが、猫の仲間ではありません。"
+    },
+    {
+      "id": 22,
+      "value": "actual",
+      "options": [
+        "想像上の",
+        "現実の",
+        "仮想の",
+        "過去の"
+      ],
+      "correctAnswer": "現実の",
+      "explanation": "「actual」は、現実の、実際のという意味です。ここでは、比喩ではなく、実際に背中を掻く行為があったのではないかと疑っています。"
+    },
+    {
+      "id": 23,
+      "value": "dyeing",
+      "options": [
+        "死にかけている",
+        "染めている",
+        "嘘をついている",
+        "隠れている"
+      ],
+      "correctAnswer": "死にかけている",
+      "explanation": "「dying」は「die」の現在分詞で、死にかけている、死にそうであるという意味です。ここでは、ハワードが何かを言いたくてたまらない気持ちを表現しています。"
+    },
+    {
+      "id": 24,
+      "value": "a little history",
+      "options": [
+        "少しの未来",
+        "過去の関係",
+        "近所の歴史",
+        "家族の歴史"
+      ],
+      "correctAnswer": "過去の関係",
+      "explanation": "「have a little history」は、過去に何らかの関係があったことを婉曲的に表現する際に用いられます。恋愛関係や、過去の出来事などが含まれます。"
+    },
+    {
+      "id": 25,
+      "value": "Cause",
+      "options": [
+        "結果",
+        "原因",
+        "目的",
+        "影響"
+      ],
+      "correctAnswer": "原因",
+      "explanation": "「cause」は、原因、理由という意味です。ここでは、相手に理由を尋ねる際に使われています。"
+    },
+    {
+      "id": 26,
+      "value": "dereliction of duty",
+      "options": [
+        "職務怠慢",
+        "義務の遂行",
+        "任務の委任",
+        "名誉回復"
+      ],
+      "correctAnswer": "職務怠慢",
+      "explanation": "「dereliction of duty」は、職務怠慢という意味です。特に軍隊や公務員など、責任が重い立場の人が義務を怠る状況を指します。重大な結果を招く可能性のある行為に対して使われます。\n\n例：His dereliction of duty led to the failure of the mission. (彼の職務怠慢がミッションの失敗につながった。)"
+    },
+    {
+      "id": 27,
+      "value": "court-martial",
+      "options": [
+        "軍法会議",
+        "名誉除隊",
+        "兵役免除",
+        "軍事演習"
+      ],
+      "correctAnswer": "軍法会議",
+      "explanation": "「court-martial」は、軍法会議という意味です。軍人が軍法に違反した場合に開かれる裁判を指します。重大な犯罪や規律違反に対して行われます。\n\n例：He was threatened with a court-martial for his insubordination. (彼は反抗的な態度で軍法会議にかけられる恐れがあった。)"
+    },
+    {
+      "id": 28,
+      "value": "cut to the bone",
+      "options": [
+        "骨まで切る",
+        "徹底的に削減する",
+        "骨を接ぐ",
+        "本質に迫る"
+      ],
+      "correctAnswer": "徹底的に削減する",
+      "explanation": "「cut to the bone」は、予算や人員などを徹底的に削減するという意味のイディオムです。必要最低限まで削る、という意味合いが含まれます。\n\n例：The company's budget was cut to the bone due to the economic downturn. (景気低迷のため、会社の予算は徹底的に削減された。)"
+    },
+    {
+      "id": 29,
+      "value": "shot to hell",
+      "options": [
+        "地獄に落ちる",
+        "めちゃくちゃになる",
+        "天国に昇る",
+        "幸運を祈る"
+      ],
+      "correctAnswer": "めちゃくちゃになる",
+      "explanation": "「shot to hell」は、計画や物が完全にダメになる、めちゃくちゃになるという意味のスラングです。失望や怒りの感情を伴って使われることが多いです。\n\n例：All our plans were shot to hell when the storm hit. (嵐が来たとき、私たちの計画はすべてめちゃくちゃになった。)"
+    },
+    {
+      "id": 30,
+      "value": "consistency",
+      "options": [
+        "一貫性",
+        "矛盾",
+        "多様性",
+        "不確実性"
+      ],
+      "correctAnswer": "一貫性",
+      "explanation": "「consistency」は、一貫性、首尾一貫していることという意味です。言動や行動、品質などが変わらない状態を指します。信頼性や安定感を与える要素として重要視されます。\n\n例：The consistency of his work is highly valued by his boss. (彼の一貫した仕事ぶりは上司に高く評価されている。)"
+    },
+    {
+      "id": 31,
+      "value": "wackadoodle",
+      "options": [
+        "風変わりな人",
+        "常識人",
+        "成功者",
+        "怠け者"
+      ],
+      "correctAnswer": "風変わりな人",
+      "explanation": "「wackadoodle」は、風変わりな人、変わり者という意味のスラングです。少し変わっていて面白い人、または理解しがたい行動をする人を指します。\n\n例：He's a bit of a wackadoodle, but he's also a genius. (彼は少し風変わりだけど、天才でもある。)"
+    },
+    {
+      "id": 32,
+      "value": "ought to",
+      "options": [
+        "～すべき",
+        "～しても良い",
+        "～したくない",
+        "～しなかった"
+      ],
+      "correctAnswer": "～すべき",
+      "explanation": "「ought to」は、～すべき、～するはずだという意味の助動詞です。道徳的な義務や、当然のことを述べる際に使われます。shouldとほぼ同じ意味ですが、ややフォーマルな印象を与えます。\n\n例：You ought to apologize for your behavior. (君は自分の行動を謝罪すべきだ。)"
+    },
+    {
+      "id": 33,
+      "value": "gotten you going",
+      "options": [
+        "興奮させた",
+        "落ち着かせた",
+        "退屈させた",
+        "悲しませた"
+      ],
+      "correctAnswer": "興奮させた",
+      "explanation": "「get someone going」は、人を興奮させる、刺激するという意味の口語表現です。性的な意味合いを含むこともあります。\n\n例：The movie really got me going. (その映画は本当に私を興奮させた。)"
+    },
+    {
+      "id": 34,
+      "value": "transient idiopathic arrhythmia",
+      "options": [
+        "一過性の特発性不整脈",
+        "慢性的な感染症",
+        "遺伝性の難病",
+        "精神的な病気"
+      ],
+      "correctAnswer": "一過性の特発性不整脈",
+      "explanation": "「transient idiopathic arrhythmia」は、一過性の特発性不整脈という意味の医学用語です。一時的に原因不明の不整脈が起こる状態を指します。深刻な場合もありますが、自然に治まることもあります。\n\n例：He was diagnosed with transient idiopathic arrhythmia after experiencing palpitations. (彼は動悸を経験した後、一過性の特発性不整脈と診断された。)"
+    },
+    {
+      "id": 35,
+      "value": "likewise",
+      "options": [
+        "同様に",
+        "反対に",
+        "完全に",
+        "偶然に"
+      ],
+      "correctAnswer": "同様に",
+      "explanation": "「likewise」は、同様に、同じようにという意味の副詞です。相手の発言や状況に対して、自分も同じであることを示す際に使われます。ややフォーマルな言い方です。\n\n例：If you need help, let me know. Likewise, I'll ask you if I need it. (もし助けが必要なら言ってください。同様に、私が必要なときにはあなたに頼みます。)"
+    },
+    {
+      "id": 36,
+      "value": "pass-fail",
+      "options": [
+        "合否",
+        "優劣",
+        "損得",
+        "正誤"
+      ],
+      "correctAnswer": "合否",
+      "explanation": "「pass-fail」は、合否、可否という意味です。試験や評価において、合格か不合格かという二択で判断される方式を指します。\n\n例：The course is graded on a pass-fail basis. (そのコースは合否で評価されます。)"
+    },
+    {
+      "id": 37,
+      "value": "eating their hearts out",
+      "options": [
+        "非常に羨ましがっている",
+        "満腹になっている",
+        "悲しんでいる",
+        "心臓病を患っている"
+      ],
+      "correctAnswer": "非常に羨ましがっている",
+      "explanation": "「eat one's heart out」は、非常に羨ましがる、妬むという意味のイディオムです。他人の幸運や成功を見て、ひそかに苦々しく思っている様子を表します。\n\n例：All my friends are eating their hearts out because I got the promotion. (私が昇進したので、友達はみんなとても羨ましがっている。)"
+    },
+    {
+      "id": 38,
+      "value": "get that",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "避ける"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get that」は、理解する、了解するという意味の口語表現です。相手の言っていることや状況を理解したことを示す際に使われます。\n\n例：I get that you're busy, but this is important. (あなたが忙しいのはわかるけど、これは重要なことなんだ。)"
+    },
+    {
+      "id": 39,
+      "value": "screwed",
+      "options": [
+        "窮地に陥っている",
+        "成功している",
+        "解放されている",
+        "保護されている"
+      ],
+      "correctAnswer": "窮地に陥っている",
+      "explanation": "「screwed」は、窮地に陥っている、困った状況にあるという意味のスラングです。困難な状況や不利な立場に置かれている状態を表します。\n\n例：I forgot my passport, so I'm totally screwed. (パスポートを忘れたので、完全に窮地に陥っている。)"
+    },
+    {
+      "id": 40,
+      "value": "have your chance",
+      "options": [
+        "機会を得る",
+        "機会を失う",
+        "機会を盗む",
+        "機会を隠す"
+      ],
+      "correctAnswer": "機会を得る",
+      "explanation": "「have your chance」は、機会を得る、チャンスがあるという意味です。何かを試す機会や、成功する可能性を持つことを指します。\n\n例：Everyone should have their chance to succeed. (誰もが成功する機会を持つべきだ。)"
+    },
+    {
+      "id": 41,
+      "value": "in the face of",
+      "options": [
+        "～に直面して",
+        "～を無視して",
+        "～を避けて",
+        "～の代わりに"
+      ],
+      "correctAnswer": "～に直面して",
+      "explanation": "「in the face of」は、～に直面して、～にもかかわらずという意味の前置詞句です。困難や反対がある状況でも、何かを行うことを表します。\n\n例：He remained calm in the face of danger. (彼は危険に直面しても冷静だった。)"
+    },
+    {
+      "id": 42,
+      "value": "rapid prototyper",
+      "options": [
+        "高速試作機",
+        "低速試作機",
+        "旧型試作機",
+        "試作機なし"
+      ],
+      "correctAnswer": "高速試作機",
+      "explanation": "「rapid prototyper」は、高速試作機という意味です。3Dプリンターなどを用いて、短時間で試作品を作成できる装置を指します。製品開発の効率化に貢献します。\n\n例：The company invested in a rapid prototyper to speed up the design process. (その会社は設計プロセスをスピードアップするために高速試作機に投資した。)"
+    },
+    {
+      "id": 43,
+      "value": "shopping cart",
+      "options": [
+        "買い物かご",
+        "食料品店",
+        "地図アプリ",
+        "配送サービス"
+      ],
+      "correctAnswer": "買い物かご",
+      "explanation": "「shopping cart」は、買い物かごという意味です。オンラインショッピングで、購入予定の商品を一時的に入れておくための機能や画面を指します。実店舗の買い物かごと同じ役割を果たします。\n\n例：I added the shoes to my shopping cart but didn't check out yet. (靴を買い物かごに入れたけど、まだ精算していない。)"
+    },
+    {
+      "id": 44,
+      "value": "single point of consistency",
+      "options": [
+        "唯一の安定点",
+        "複数の矛盾点",
+        "変化の激しい場所",
+        "重要でない場所"
+      ],
+      "correctAnswer": "唯一の安定点",
+      "explanation": "「single point of consistency」は、唯一の安定点、唯一変わらないものという意味です。変化の激しい状況の中で、唯一変わらずに存在するもの、または頼りになるものを指します。\n\n例：In the chaos of war, his family was his single point of consistency. (戦乱の中で、彼の家族は唯一の安定点だった。)"
+    },
+    {
+      "id": 45,
+      "value": "Cartesian coordinate system",
+      "options": [
+        "デカルト座標系",
+        "ユークリッド幾何学",
+        "非ユークリッド幾何学",
+        "ニュートン力学"
+      ],
+      "correctAnswer": "デカルト座標系",
+      "explanation": "「Cartesian coordinate system」は、デカルト座標系という意味です。平面や空間上の点を、数値の組で表すための座標系です。数学、物理学、工学などで広く用いられています。\n\n例：We can use a Cartesian coordinate system to plot the points on a graph. (グラフ上に点をプロットするために、デカルト座標系を使うことができる。)"
+    },
+    {
+      "id": 46,
+      "value": "lifesaver",
+      "options": [
+        "命の恩人",
+        "人殺し",
+        "消防士",
+        "救急隊員"
+      ],
+      "correctAnswer": "命の恩人",
+      "explanation": "「lifesaver」は、命の恩人、非常に助かる人という意味です。困難な状況を救ってくれた人や、問題を解決してくれた人に対して感謝の気持ちを込めて使われます。\n\n例：You're a lifesaver! Thank you for helping me with this. (あなたは命の恩人だ！これを手伝ってくれてありがとう。)"
+    },
+    {
+      "id": 47,
+      "value": "boyfriends",
+      "options": [
+        "彼氏たち",
+        "友人たち",
+        "兄弟たち",
+        "同僚たち"
+      ],
+      "correctAnswer": "彼氏たち",
+      "explanation": "「boyfriends」は、彼氏たちという意味です。複数形の形で、複数の男性の恋人を指します。恋愛関係にある男性を指す一般的な言葉です。\n\n例：She introduced me to all of her boyfriends. (彼女は私に彼女の彼氏たちを全員紹介した。)"
+    },
+    {
+      "id": 48,
+      "value": "opened up",
+      "options": [
+        "開いた",
+        "閉じた",
+        "爆発した",
+        "壊れた"
+      ],
+      "correctAnswer": "開いた",
+      "explanation": "「open up」は、開く、または口を開く、打ち明けるという意味です。物理的に開くだけでなく、感情や秘密などを打ち明けるという意味でも使われます。\n\n例：She finally opened up about her problems. (彼女はついに自分の問題について打ち明けた。)"
+    },
+    {
+      "id": 49,
+      "value": "use protection",
+      "options": [
+        "避妊具を使う",
+        "武器を使う",
+        "護衛を雇う",
+        "防御魔法を使う"
+      ],
+      "correctAnswer": "避妊具を使う",
+      "explanation": "「use protection」は、避妊具を使うという意味です。性行為において、妊娠や性感染症を防ぐためにコンドームなどを使用することを指します。\n\n例：It's important to use protection during sexual activity. (性行為中は避妊具を使うことが重要だ。)"
+    },
+    {
+      "id": 50,
+      "value": "There's a chance",
+      "options": [
+        "可能性がある",
+        "チャンスはない",
+        "偶然である",
+        "確実である"
+      ],
+      "correctAnswer": "可能性がある",
+      "explanation": "「There's a chance」は、可能性がある、見込みがあるという意味です。何かが起こる可能性を示唆する際に使われます。\n\n例：There's a chance that it will rain tomorrow. (明日雨が降る可能性がある。)"
+    },
+    {
+      "id": 51,
+      "value": "discernible",
+      "options": [
+        "識別可能な",
+        "無視できる",
+        "想像上の",
+        "曖昧な"
+      ],
+      "correctAnswer": "識別可能な",
+      "explanation": "「discernible」は、はっきりと認識できる、識別できるという意味です。感覚や知性によって区別できることを指します。例えば、音、視覚的な特徴、またはわずかな違いを表現する際に使われます。\\n\\n例：There was no discernible difference between the two products. (その二つの製品の間には識別できるほどの違いはなかった。)"
+    },
+    {
+      "id": 52,
+      "value": "incessantly",
+      "options": [
+        "断続的に",
+        "絶え間なく",
+        "静かに",
+        "たまに"
+      ],
+      "correctAnswer": "絶え間なく",
+      "explanation": "「incessantly」は、中断することなく、絶え間なく続く様子を表します。しばしば、わずらわしい、または不快なほどに継続する行為や現象を強調するために使用されます。\\n\\n例：The rain fell incessantly throughout the night. (雨は一晩中、絶え間なく降り続いた。)"
+    },
+    {
+      "id": 53,
+      "value": "dare",
+      "options": [
+        "許可する",
+        "挑戦する",
+        "提案する",
+        "拒否する"
+      ],
+      "correctAnswer": "挑戦する",
+      "explanation": "この文脈での「dare」は、「あえて～する」という意味で、相手に対して何かをするように挑発、または強く促すニュアンスを含みます。\\n\\n例：I dare you to jump into the pool. (プールに飛び込んでみろよ。)"
+    },
+    {
+      "id": 54,
+      "value": "perched on",
+      "options": [
+        "寄りかかる",
+        "座る",
+        "立つ",
+        "よじ登る"
+      ],
+      "correctAnswer": "寄りかかる",
+      "explanation": "「perch」は、鳥が止まり木に止まるように、高い位置や不安定な場所に一時的に腰掛ける、または位置することを意味します。「perched on」という形で、具体的な場所を伴って使われます。\\n\\n例：The cat perched on the fence. (猫は塀の上にちょこんと座った。)"
+    },
+    {
+      "id": 55,
+      "value": "wackadoodle",
+      "options": [
+        "賢い人",
+        "普通の人",
+        "ばかげた人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "ばかげた人",
+      "explanation": "「wackadoodle」は、風変わりな、奇妙な、または少し狂った人やアイデアを指す、やや軽蔑的なスラングです。真剣な侮辱というよりは、親しみを込めたからかいのニュアンスで使用されることもあります。\\n\\n例：He's a bit of a wackadoodle, but he's also a genius. (彼は少しおかしいところがあるけど、天才でもある。)"
+    },
+    {
+      "id": 56,
+      "value": "amputated",
+      "options": [
+        "治療された",
+        "切断された",
+        "強化された",
+        "移植された"
+      ],
+      "correctAnswer": "切断された",
+      "explanation": "「amputate」は、医学的な理由で手足や体の一部を切断することを意味します。事故や病気によって切断が必要になる場合があります。\\n\\n例：His leg had to be amputated after the accident. (事故の後、彼の足は切断しなければならなかった。)"
+    },
+    {
+      "id": 57,
+      "value": "have faith in",
+      "options": [
+        "疑う",
+        "信じる",
+        "無視する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "信じる",
+      "explanation": "「have faith in」は、人や物事に対して信頼や信用を置くことを意味します。根拠がある場合も、そうでない場合もあります。\\n\\n例：I have faith in your ability to succeed. (私はあなたの成功する能力を信じています。)"
+    },
+    {
+      "id": 58,
+      "value": "moonlight as",
+      "options": [
+        "本業とする",
+        "副業とする",
+        "引退する",
+        "研修する"
+      ],
+      "correctAnswer": "副業とする",
+      "explanation": "「moonlight」は、本業とは別に副業をすることを意味します。特に、夜間や余暇に別の仕事をする状況を指します。「moonlight as」という形で、具体的な副業の内容を伴って使われます。\\n\\n例：He moonlights as a DJ on weekends. (彼は週末にDJの副業をしています。)"
+    },
+    {
+      "id": 59,
+      "value": "bouffant",
+      "options": [
+        "ストレート",
+        "巻き毛",
+        "逆毛を立てたヘアスタイル",
+        "短髪"
+      ],
+      "correctAnswer": "逆毛を立てたヘアスタイル",
+      "explanation": "「bouffant」は、髪を高く盛り上げた、ふっくらとしたヘアスタイルを指します。通常、逆毛を立ててボリュームを出し、スプレーなどで形を固定します。\\n\\n例：She sported a bouffant hairstyle at the party. (彼女はパーティーでブーファン風のヘアスタイルをしていた。)"
+    },
+    {
+      "id": 60,
+      "value": "adieu",
+      "options": [
+        "こんにちは",
+        "さようなら",
+        "ありがとう",
+        "すみません"
+      ],
+      "correctAnswer": "さようなら",
+      "explanation": "「adieu」は、フランス語由来の言葉で、英語では「farewell」と同様に、別れの挨拶として使われます。よりフォーマルで、永続的な別れや、しばらく会わないだろうというニュアンスを含みます。\\n\\n例：Adieu, my friend, until we meet again. (さようなら、友よ、また会う日まで。)"
+    },
+    {
+      "id": 61,
+      "value": "pull some strings",
+      "options": [
+        "糸を引く",
+        "裏で手を回す",
+        "正直に交渉する",
+        "諦める"
+      ],
+      "correctAnswer": "裏で手を回す",
+      "explanation": "「pull strings」は、自分の影響力やコネを使って、通常では難しいことを実現することを意味します。しばしば、倫理的に問題がある、または不公平な状況を作り出すことを含みます。\\n\\n例：He pulled some strings to get his son into the prestigious school. (彼は息子を名門校に入れるために裏で手を回した。)"
+    },
+    {
+      "id": 62,
+      "value": "check out",
+      "options": [
+        "無視する",
+        "確認する",
+        "隠す",
+        "盗む"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check out」は、ここでは「調べる」「視察する」という意味で使われています。\\n\\n例：I want to check out the new museum. (新しい博物館を視察したい。)"
+    },
+    {
+      "id": 63,
+      "value": "That's not fair.",
+      "options": [
+        "それは当然だ",
+        "それは不公平だ",
+        "それは素晴らしい",
+        "それは正しい"
+      ],
+      "correctAnswer": "それは不公平だ",
+      "explanation": "「That's not fair.」は、文字通り「それは公平ではない」という意味で、不当な扱いに対する不満や抗議を表します。\\n\\n例：It's not fair that he got a promotion when I've been working here longer. (私がもっと長く働いているのに、彼が昇進したのは不公平だ。)"
+    },
+    {
+      "id": 64,
+      "value": "get out",
+      "options": [
+        "入ってきて",
+        "出て行って",
+        "座って",
+        "踊って"
+      ],
+      "correctAnswer": "出て行って",
+      "explanation": "この文脈での「get out」は、怒りや不満を表す表現で、「出て行け」「あっちへ行け」という意味です。\\n\\n例：I'm so angry, just get out! (すごく腹が立っている、出て行ってくれ！)"
+    },
+    {
+      "id": 65,
+      "value": "improve",
+      "options": [
+        "悪化する",
+        "改善する",
+        "停止する",
+        "変化しない"
+      ],
+      "correctAnswer": "改善する",
+      "explanation": "「improve」は、状態や能力が向上すること、より良くなることを意味します。\\n\\n例：My English is improving with practice. (練習のおかげで私の英語は上達している。)"
+    },
+    {
+      "id": 66,
+      "value": "rather not",
+      "options": [
+        "むしろそうしたい",
+        "むしろしたくない",
+        "どちらでもいい",
+        "強く望む"
+      ],
+      "correctAnswer": "むしろしたくない",
+      "explanation": "「would rather not」は、「～したくない」「～するよりもむしろ～したくない」という意味で、何かをすることを避けたいという意向を表します。\\n\\n例：I would rather not go to the party. (私はパーティーには行きたくない。)"
+    },
+    {
+      "id": 67,
+      "value": "scam on",
+      "options": [
+        "だます",
+        "仲良くする",
+        "無視する",
+        "尊敬する"
+      ],
+      "correctAnswer": "だます",
+      "explanation": "「scam on」は、ここでは人を騙して関係を持とうとすることを意味する口語表現です。\\n\\n例：He tried to scam on her at the bar. (彼はバーで彼女を騙して関係を持とうとした。)"
+    },
+    {
+      "id": 68,
+      "value": "all right",
+      "options": [
+        "大丈夫",
+        "最悪",
+        "普通",
+        "最高"
+      ],
+      "correctAnswer": "大丈夫",
+      "explanation": "「all right」は、ここでは同意や承諾を表す表現として使われています。\\n\\n例：All right, I'll do it. (わかった、私がやるよ。)"
+    },
+    {
+      "id": 69,
+      "value": "make the cut",
+      "options": [
+        "成功する",
+        "失敗する",
+        "選択される",
+        "拒否される"
+      ],
+      "correctAnswer": "選択される",
+      "explanation": "「make the cut」は、選考や選抜を通過することを意味します。競争や選考の結果、リストやグループに残ることを指します。\\n\\n例：He worked hard to make the cut for the team. (彼はチームに入るために一生懸命努力した。)"
+    },
+    {
+      "id": 70,
+      "value": "broke in",
+      "options": [
+        "侵入した",
+        "壊れた",
+        "修理した",
+        "逃げ出した"
+      ],
+      "correctAnswer": "侵入した",
+      "explanation": "「break in」は、建物などに不法に侵入することを意味します。通常、盗みや犯罪を目的として行われます。\\n\\n例：Someone broke into our house last night. (昨夜、誰かが私たちの家に侵入した。)"
+    },
+    {
+      "id": 71,
+      "value": "flip it over",
+      "options": [
+        "捨てる",
+        "裏返す",
+        "隠す",
+        "燃やす"
+      ],
+      "correctAnswer": "裏返す",
+      "explanation": "「flip over」は、何かをひっくり返す、裏返すという意味です。問題や状況を覆す、または視点を変えるという意味合いで使われることもあります。\\n\\n例：Let's flip the pancake over. (パンケーキを裏返しましょう。)"
+    },
+    {
+      "id": 72,
+      "value": "act normal",
+      "options": [
+        "普通に行動する",
+        "大げさに振る舞う",
+        "無視する",
+        "逃げる"
+      ],
+      "correctAnswer": "普通に行動する",
+      "explanation": "「act normal」は、普段通り、または普通に見えるように行動することを意味します。何かを隠したり、周囲を欺いたりするために使われることがあります。\\n\\n例：Just act normal, and they won't suspect anything. (普通に行動していれば、彼らは何も疑わないだろう。)"
+    },
+    {
+      "id": 73,
+      "value": "be flexible",
+      "options": [
+        "柔軟に対応する",
+        "頑固になる",
+        "諦める",
+        "無視する"
+      ],
+      "correctAnswer": "柔軟に対応する",
+      "explanation": "「be flexible」は、状況や要求に応じて柔軟に対応することを意味します。変化を受け入れ、適応する能力を示します。\\n\\n例：We need to be flexible in our approach to the project. (プロジェクトへの取り組み方をもっと柔軟にする必要がある。)"
+    },
+    {
+      "id": 74,
+      "value": "for God's sake",
+      "options": [
+        "神に感謝して",
+        "お願いだから",
+        "神を信じて",
+        "神を恐れて"
+      ],
+      "correctAnswer": "お願いだから",
+      "explanation": "「for God's sake」は、驚き、苛立ち、または懇願を表す表現です。「お願いだから」「頼むから」といったニュアンスで使われます。\\n\\n例：For God's sake, be quiet! (お願いだから、静かにしてくれ！)"
+    },
+    {
+      "id": 75,
+      "value": "on drugs",
+      "options": [
+        "薬物を使用している",
+        "薬を必要としている",
+        "薬を売っている",
+        "薬に詳しい"
+      ],
+      "correctAnswer": "薬物を使用している",
+      "explanation": "「on drugs」は、薬物を使用している状態を表します。通常、違法な薬物や中毒性のある薬物の使用を指します。\\n\\n例：He seemed to be on drugs. (彼は薬物を使用しているように見えた。)"
+    },
+    {
+      "id": 76,
+      "value": "bottom line",
+      "options": [
+        "最終的に",
+        "一番下の行",
+        "重要なポイント",
+        "基本的な考え方"
+      ],
+      "correctAnswer": "最終的に",
+      "explanation": "「bottom line」は、議論や状況の最も重要なポイント、結論を指します。ビジネスシーンでよく使われ、最終的な収益やコストを示す意味合いもありますが、一般的には「要するに」「結局」という意味で使われます。\n\n例：The bottom line is, we can't afford it. (要するに、私たちには余裕がないということです。)"
+    },
+    {
+      "id": 77,
+      "value": "bought-and-paid-for",
+      "options": [
+        "購入済み",
+        "完全に支配された",
+        "賄賂を受け取った",
+        "支払い済み"
+      ],
+      "correctAnswer": "完全に支配された",
+      "explanation": "「bought-and-paid-for」は、文字通りには「購入され、支払われた」という意味ですが、比喩的には「完全に支配された」「操られている」という意味合いで使われます。特に、金銭や便宜供与によって自由を奪われた状態を指します。\n\n例：The politician was accused of being bought-and-paid-for by the corporation. (その政治家は、企業によって買収されたと非難された。)"
+    },
+    {
+      "id": 78,
+      "value": "arm candy",
+      "options": [
+        "腕につけるお菓子",
+        "アクセサリー",
+        "見せかけの恋人",
+        "頼りになる人"
+      ],
+      "correctAnswer": "見せかけの恋人",
+      "explanation": "「arm candy」は、魅力的な外見だけで、知性や内面的な価値がないと見なされる恋人やパートナーを指します。主に、社交の場で同伴者として連れて行くためだけの存在という意味合いがあります。\n\n例：He always has some arm candy at parties. (彼はいつもパーティーに綺麗なだけの女性を連れてくる。)"
+    },
+    {
+      "id": 79,
+      "value": "good as new",
+      "options": [
+        "新品同様",
+        "とても良い",
+        "ほぼ新品",
+        "新製品"
+      ],
+      "correctAnswer": "新品同様",
+      "explanation": "「good as new」は、「新品同様に良い」という意味で、修理や手入れによって元の状態に非常に近い状態になったものを指します。必ずしも完全に新品ではないものの、機能や見た目が新品と変わらないほど回復したことを強調する際に使われます。\n\n例：After the repairs, my old car is as good as new. (修理後、私の古い車は新品同様になった。)"
+    },
+    {
+      "id": 80,
+      "value": "comfy cosy",
+      "options": [
+        "とても快適",
+        "居心地が良い",
+        "暖かく快適",
+        "リラックスできる"
+      ],
+      "correctAnswer": "とても快適",
+      "explanation": "「comfy cosy」は、「comfy (comfortable)」と「cosy (cozy)」を組み合わせた言葉で、「とても快適で心地よい」という意味合いを強調します。暖かく、リラックスできる雰囲気を表現する際に使われます。\n\n例：This room is so comfy cosy with the fireplace and soft blankets. (この部屋は暖炉と柔らかい毛布があって、とても快適だ。)"
+    },
+    {
+      "id": 81,
+      "value": "take (one's) mind off",
+      "options": [
+        "忘れさせる",
+        "気を紛らわせる",
+        "集中力を高める",
+        "思い出させる"
+      ],
+      "correctAnswer": "気を紛らわせる",
+      "explanation": "「take (one's) mind off」は、心配事や悩み事から気を紛らわせる、意識をそらすという意味です。一時的に問題を忘れ、リラックスさせる効果があります。\n\n例：I went for a walk to take my mind off work. (仕事から気を紛らわせるために散歩に行った。)"
+    },
+    {
+      "id": 82,
+      "value": "make up",
+      "options": [
+        "作り上げる",
+        "仲直りする",
+        "化粧する",
+        "埋め合わせる"
+      ],
+      "correctAnswer": "作り上げる",
+      "explanation": "「make up」は、文脈によって様々な意味を持ちますが、ここでは「作り上げる」「でっち上げる」という意味で使われています。事実ではないことを創作するニュアンスが含まれます。\n\n例：He made up a story about why he was late. (彼は遅刻した理由について話をでっち上げた。)"
+    },
+    {
+      "id": 83,
+      "value": "descend into anarchy",
+      "options": [
+        "無秩序状態に陥る",
+        "天国に昇る",
+        "秩序を保つ",
+        "平和になる"
+      ],
+      "correctAnswer": "無秩序状態に陥る",
+      "explanation": "「descend into anarchy」は、「無秩序状態に陥る」という意味です。社会や組織が統制を失い、混乱と暴力が広がる状況を表します。「descend」は「降りる」「悪化する」という意味合いを持ちます。\n\n例：The country descended into anarchy after the government collapsed. (政府崩壊後、その国は無秩序状態に陥った。)"
+    },
+    {
+      "id": 84,
+      "value": "hold on",
+      "options": [
+        "待つ",
+        "しがみつく",
+        "頑張る",
+        "保留する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hold on」は、相手に少しの間待つように伝えるときに使う表現です。電話でよく使われますが、会話の中で相手の発言を遮って意見を述べるときにも使われます。\n\n例：Hold on a second, I need to find my keys. (ちょっと待って、鍵を探さないと。)"
+    },
+    {
+      "id": 85,
+      "value": "How so?",
+      "options": [
+        "どうして？",
+        "それでどうするの？",
+        "何が問題なの？",
+        "どういう意味？"
+      ],
+      "correctAnswer": "どうして？",
+      "explanation": "「How so?」は、相手の発言に対して理由や根拠を尋ねる際に使う表現です。「なぜそう思うの？」「どうしてそうなるの？」といったニュアンスを含みます。直接的な質問を避け、丁寧に理由を尋ねる効果があります。\n\n例：You think he's lying? How so? (彼が嘘をついていると思うの？どうして？)"
+    },
+    {
+      "id": 86,
+      "value": "crap",
+      "options": [
+        "くだらないこと",
+        "素晴らしいもの",
+        "重要なこと",
+        "秘密"
+      ],
+      "correctAnswer": "くだらないこと",
+      "explanation": "「crap」は、価値のないもの、くだらないこと、たわごと、という意味を持つスラングです。軽蔑や不満を表す際に使われます。フォーマルな場では避けるべき表現です。\n\n例：I don't want to listen to this crap anymore. (もうこんなくだらない話は聞きたくない。)"
+    },
+    {
+      "id": 87,
+      "value": "key maker",
+      "options": [
+        "鍵を作る人",
+        "重要な人物",
+        "問題解決者",
+        "影響力のある人"
+      ],
+      "correctAnswer": "鍵を作る人",
+      "explanation": "「key maker」は、文字通りには「鍵を作る人」という意味ですが、ここでは皮肉を込めて使われています。クッションの修理業者を指しており、修理の腕前が信用できないというニュアンスが含まれています。\n\n例：I don't trust this key maker to fix my lock. (この鍵屋に鍵の修理は頼みたくない。)"
+    },
+    {
+      "id": 88,
+      "value": "give it a try",
+      "options": [
+        "試してみる",
+        "諦める",
+        "挑戦する",
+        "評価する"
+      ],
+      "correctAnswer": "試してみる",
+      "explanation": "「give it a try」は、「試してみる」「やってみる」という意味です。新しいことや困難なことに挑戦する際に、気軽に使われる表現です。結果がどうなるか分からないが、とりあえず行動してみるというニュアンスが含まれます。\n\n例：I've never played golf before, but I'll give it a try. (ゴルフは一度もやったことがないけど、試してみる。)"
+    },
+    {
+      "id": 89,
+      "value": "trunk",
+      "options": [
+        "車のトランク",
+        "木の幹",
+        "旅行かばん",
+        "象の鼻"
+      ],
+      "correctAnswer": "車のトランク",
+      "explanation": "「trunk」は、文脈によって意味が異なりますが、ここでは「車のトランク」を指します。車の後部にある荷物入れのことです。アメリカ英語では一般的ですが、イギリス英語では「boot」と言います。\n\n例：I keep a spare tire in the trunk of my car. (車のトランクにスペアタイヤを入れています。)"
+    },
+    {
+      "id": 90,
+      "value": "cut to the left",
+      "options": [
+        "左に曲がる",
+        "左に切る",
+        "左に移動する",
+        "左にショートカットする"
+      ],
+      "correctAnswer": "左に移動する",
+      "explanation": "「cut to the left」は、「左に移動する」「左に曲がる」という意味で、ここではペイントボールゲームにおける戦術的な動きを指示しています。素早く、または意図的に方向転換するニュアンスが含まれます。\n\n例：Cut to the left to avoid the enemy fire. (敵の攻撃を避けるために左に移動しろ。)"
+    },
+    {
+      "id": 91,
+      "value": "flank to the right",
+      "options": [
+        "右に回り込む",
+        "右に攻撃する",
+        "右を守る",
+        "右に逃げる"
+      ],
+      "correctAnswer": "右に回り込む",
+      "explanation": "「flank to the right」は、「右に回り込む」「右側面を攻撃する」という意味で、軍事用語や戦略的な状況で使われます。敵の側面を突くことで有利な状況を作り出すことを目的とします。\n\n例：The soldiers flanked to the right to surprise the enemy. (兵士たちは敵を奇襲するために右に回り込んだ。)"
+    },
+    {
+      "id": 92,
+      "value": "best served cold",
+      "options": [
+        "冷たくして提供される",
+        "時間をかけて復讐する",
+        "冷静に対処する",
+        "冷酷な仕打ち"
+      ],
+      "correctAnswer": "時間をかけて復讐する",
+      "explanation": "「Revenge is a dish best served cold.」は、「復讐は冷めてからが一番」という格言です。怒りに任せてすぐに行動するのではなく、時間をかけて冷静に計画を練ることで、より効果的な復讐ができるという意味です。\n\n例：He waited for the perfect moment to exact his revenge, believing that revenge is a dish best served cold. (彼は復讐は冷めてからが一番だと信じ、完璧な瞬間を待って復讐を実行した。)"
+    },
+    {
+      "id": 93,
+      "value": "Screw that.",
+      "options": [
+        "そんなのくそくらえ",
+        "それをネジで締める",
+        "気にしない",
+        "問題ない"
+      ],
+      "correctAnswer": "そんなのくそくらえ",
+      "explanation": "「Screw that.」は、「そんなのくそくらえ」「知ったことか」という意味を持つ強いスラング表現です。不満、軽蔑、拒絶などの感情を表す際に使われます。フォーマルな場では避けるべき表現です。\n\n例：I'm tired of working. Screw that, I'm going to quit. (働くのに疲れた。もううんざりだ、辞めてやる。)"
+    },
+    {
+      "id": 94,
+      "value": "I highly doubt it.",
+      "options": [
+        "とても疑わしい",
+        "強く信じている",
+        "確信している",
+        "全く疑わない"
+      ],
+      "correctAnswer": "とても疑わしい",
+      "explanation": "「I highly doubt it.」は、「非常に疑わしい」「そうは思わない」という意味を持つ表現です。相手の発言や状況に対して強い疑念を抱いていることを示します。\n\n例：He said he can fix the car, but I highly doubt it. (彼は車を修理できると言ったが、とても疑わしい。)"
+    },
+    {
+      "id": 95,
+      "value": "go out of business",
+      "options": [
+        "廃業する",
+        "事業を始める",
+        "海外に行く",
+        "成功する"
+      ],
+      "correctAnswer": "廃業する",
+      "explanation": "「go out of business」は、「廃業する」「倒産する」という意味です。事業がうまくいかなくなり、継続できなくなる状況を表します。経済的な困難や競争激化などが原因となることが多いです。\n\n例：Many small businesses have gone out of business due to the pandemic. (パンデミックのため、多くの小規模企業が廃業した。)"
+    },
+    {
+      "id": 96,
+      "value": "What's real? What isn't?",
+      "options": [
+        "何が現実で何が違う？",
+        "何が大切で何が大切じゃない？",
+        "何が好きで何が嫌い？",
+        "何が正しくて何が間違っている？"
+      ],
+      "correctAnswer": "何が現実で何が違う？",
+      "explanation": "「What's real? What isn't?」は、「何が現実で、何がそうでないのか？」という意味です。現実と虚構の区別がつかなくなり、混乱している状況を表します。哲学的な問いとしても使われます。\n\n例：After watching the movie, I started to question what's real and what isn't. (その映画を見た後、何が現実で何が違うのか疑問に思い始めた。)"
+    },
+    {
+      "id": 97,
+      "value": "What kind of sex are you having up there?",
+      "options": [
+        "どんな性行為をしているの？",
+        "どんなセックスライフを送っているの？",
+        "どんな関係なの？",
+        "何をしているの？"
+      ],
+      "correctAnswer": "どんな性行為をしているの？",
+      "explanation": "この質問は、直接的な性的な好奇心や詮索というよりは、親が子供に対して、何をしているのか、どんな関係なのかをからかい半分で聞くようなニュアンスが含まれています。特に、騒がしい音や状況から、何か秘密めいたことをしているのではないかと疑っている場合に使われます。直接的な表現なので、状況によっては不適切になる可能性があります。\n\n例：騒がしい音が聞こえた後、母親が「What kind of sex are you having up there?」と冗談めかして聞いた。"
+    },
+    {
+      "id": 98,
+      "value": "with feelings and all that crap",
+      "options": [
+        "感情やその他のくだらないもの",
+        "愛情や人間関係",
+        "愛や感情",
+        "感情的なことすべて"
+      ],
+      "correctAnswer": "感情やその他のくだらないもの",
+      "explanation": "「with feelings and all that crap」は、感情やそれに伴う面倒なことを軽蔑的に表現する際に使われます。恋愛関係における感情的な要素を否定的に捉え、煩わしいもの、不必要なものとして扱っているニュアンスが含まれます。\n\n例：He doesn't want a real relationship with feelings and all that crap. (彼は感情的なことなどを含む本物の関係を望んでいない。)"
+    },
+    {
+      "id": 99,
+      "value": "You got to rent me a tux!",
+      "options": [
+        "タキシードを借りてくれ！",
+        "タキシードを買ってくれ！",
+        "タキシードを貸してくれ！",
+        "タキシードをプレゼントしてくれ！"
+      ],
+      "correctAnswer": "タキシードを借りてくれ！",
+      "explanation": "「You got to rent me a tux!」は、非標準的な文法ですが、「You have got to rent me a tux!」の省略形で、「タキシードを借りてくれ！」という意味になります。結婚式やパーティーなどのフォーマルなイベントに参加するために、タキシードを借りる必要性を強調しています。口語的な表現で、親しい間柄で使われることが多いです。\n\n例：I have a wedding to attend, so you got to rent me a tux! (結婚式に出席するので、タキシードを借りてくれ！)"
+    },
+    {
+      "id": 100,
+      "value": "Surrender, then Denny’s.",
+      "options": [
+        "降伏して、デニーズに行こう",
+        "諦めて、デニーズで食事をしよう",
+        "降参して、デニーズで会議をしよう",
+        "負けて、デニーズで反省会をしよう"
+      ],
+      "correctAnswer": "降伏して、デニーズに行こう",
+      "explanation": "これは、ペイントボールゲームで負けを認めた後、デニーズで食事をしようという提案です。一見すると脈絡のない提案ですが、敗北を受け入れ、その後の楽しみとしてデニーズでの食事を提案することで、ユーモラスな状況を作り出しています。特に、真剣な状況を緩和するために使われることがあります。\n\n例：After losing the game, he said, 'Surrender, then Denny’s.' (ゲームに負けた後、彼は「降伏して、デニーズに行こう」と言った。)"
+    }
+  ]
+}

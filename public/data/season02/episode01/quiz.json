@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "lactose intolerant",
+      "options": [
+        "乳糖を必要としない",
+        "乳糖を生成する",
+        "乳糖不耐症",
+        "乳糖を好む"
+      ],
+      "correctAnswer": "乳糖不耐症",
+      "explanation": "「lactose intolerant」は、乳糖不耐症であることを意味します。乳製品に含まれる乳糖を消化する酵素が不足しているため、乳製品を摂取すると腹痛や下痢などの症状が出ることがあります。"
+    },
+    {
+      "id": 2,
+      "value": "draft",
+      "options": [
+        "設計図",
+        "隙間風",
+        "下書き",
+        "徴兵"
+      ],
+      "correctAnswer": "隙間風",
+      "explanation": "ここでは「隙間風」という意味で使われています。会話の流れから、レナードがペニーとのキスをごまかすために使った言葉です。一般的な意味としては「下書き」「設計図」などがあります。"
+    },
+    {
+      "id": 3,
+      "value": "wing it",
+      "options": [
+        "翼を広げる",
+        "即興でやる",
+        "羽根をむしる",
+        "鳥のように飛ぶ"
+      ],
+      "correctAnswer": "即興でやる",
+      "explanation": "「wing it」は、計画を立てずに、その場の状況に合わせて即興で行動することを意味します。準備なしに何かを行う、アドリブで対応するといったニュアンスです。\n\n例：I didn't have time to prepare for the presentation, so I just had to wing it. (プレゼンテーションの準備をする時間がなかったので、ぶっつけ本番でやるしかなかった。)"
+    },
+    {
+      "id": 4,
+      "value": "crashed and burned",
+      "options": [
+        "墜落して燃えた",
+        "大成功した",
+        "ゆっくりと進んだ",
+        "ひっそりと消えた"
+      ],
+      "correctAnswer": "墜落して燃えた",
+      "explanation": "「crash and burn」は、計画や関係などが完全に失敗に終わることを意味する口語的な表現です。特に、華々しく始まったものが、その後急速に失敗する状況を表すのに使われます。\n\n例：Their business venture crashed and burned after only a few months. (彼らの事業は数ヶ月で失敗に終わった。)"
+    },
+    {
+      "id": 5,
+      "value": "savour",
+      "options": [
+        "味わう",
+        "急ぐ",
+        "吐き出す",
+        "むせる"
+      ],
+      "correctAnswer": "味わう",
+      "explanation": "「savour」は、喜びや味などを時間をかけてゆっくりと楽しむことを意味します。食べ物や経験を五感で感じ、その良さを深く味わうニュアンスがあります。\n\n例：She savoured the delicious meal. (彼女はその美味しい食事をゆっくりと味わった。)"
+    },
+    {
+      "id": 6,
+      "value": "lame",
+      "options": [
+        "正気",
+        "不自然",
+        "つまらない",
+        "勇敢"
+      ],
+      "correctAnswer": "つまらない",
+      "explanation": "「lame」は、主に口語で使われ、つまらない、退屈な、または説得力がないという意味を持ちます。また、不適切、時代遅れ、または下手なことを指すこともあります。\n\n例：That's a lame excuse. (それはつまらない言い訳だ。)"
+    },
+    {
+      "id": 7,
+      "value": "set someone off",
+      "options": [
+        "人を落ち着かせる",
+        "人を怒らせる",
+        "人を感動させる",
+        "人を笑わせる"
+      ],
+      "correctAnswer": "人を怒らせる",
+      "explanation": "「set someone off」は、人を怒らせる、興奮させる、または特定の行動や反応を引き起こすという意味です。しばしば、予期せぬ、または制御不能な反応を引き起こす状況で使われます。\n\n例：Talking about politics always sets him off. (政治の話をすると、彼はいつも怒り出す。)"
+    },
+    {
+      "id": 8,
+      "value": "get into",
+      "options": [
+        "興味を持つ",
+        "立ち入る",
+        "理解する",
+        "忘れる"
+      ],
+      "correctAnswer": "興味を持つ",
+      "explanation": "ここでは「get into」は「（〜に）興味を持つ」「（〜に）熱中する」という意味で使用されています。恋愛対象の母親の体重を知りたがる、という文脈で、将来的に結婚などを視野に入れているかのような意味合いを含んでいます。"
+    },
+    {
+      "id": 9,
+      "value": "care for",
+      "options": [
+        "世話をする",
+        "我慢する",
+        "理解する",
+        "好む"
+      ],
+      "correctAnswer": "好む",
+      "explanation": "「care for」は、ここでは「好む」という意味で使用されています。相手に気を遣いながら、婉曲的に好みや欲求を伝えるニュアンスがあります。\n\n例：Would you care for a drink? (飲み物はいかがですか？)"
+    },
+    {
+      "id": 10,
+      "value": "home run swing",
+      "options": [
+        "満塁ホームラン",
+        "一か八かの賭け",
+        "平凡なスイング",
+        "完璧な守備"
+      ],
+      "correctAnswer": "一か八かの賭け",
+      "explanation": "「home run swing」は、野球のホームランを狙うスイングから派生して、一か八かの大きな賭けや試みを意味します。成功すれば大きな成果が得られるが、失敗すれば大きなリスクを伴うような状況で使われます。\n\n例：That investment was a home run swing, and it paid off big time. (その投資は一か八かの賭けだったが、大当たりした。)"
+    },
+    {
+      "id": 11,
+      "value": "into someone",
+      "options": [
+        "人に夢中",
+        "人に飽き飽き",
+        "人に無関心",
+        "人に嫉妬"
+      ],
+      "correctAnswer": "人に夢中",
+      "explanation": "「into someone」は、人に恋愛感情を持っている、または性的魅力を感じていることを意味します。相手に好意を抱いている状態を表す口語的な表現です。\n\n例：He's really into her. (彼は彼女に本当に夢中だ。)"
+    },
+    {
+      "id": 12,
+      "value": "respiration",
+      "options": [
+        "発汗",
+        "呼吸",
+        "消化",
+        "体温"
+      ],
+      "correctAnswer": "呼吸",
+      "explanation": "「respiration」は、呼吸、呼吸作用を意味します。ここでは、相手の呼吸の変化を見ることで、相手が好意を抱いているかどうかを判断しようとしています。"
+    },
+    {
+      "id": 13,
+      "value": "pupils un-dilated",
+      "options": [
+        "瞳孔が拡大",
+        "瞳孔が収縮",
+        "瞳孔が振動",
+        "瞳孔が消失"
+      ],
+      "correctAnswer": "瞳孔が収縮",
+      "explanation": "瞳孔は、感情や興奮によって大きさが変化します。瞳孔が拡大していないということは、相手が興奮していない、つまり好意を抱いていないという解釈になります。"
+    },
+    {
+      "id": 14,
+      "value": "flushing of the chest",
+      "options": [
+        "胸の筋肉",
+        "胸の張り",
+        "胸の紅潮",
+        "胸の痛み"
+      ],
+      "correctAnswer": "胸の紅潮",
+      "explanation": "「flushing」は、顔や胸などが赤くなることを意味します。興奮や感情の高ぶりによって血流が良くなることで起こります。ここでは、胸の紅潮が見られないことから、相手が好意を抱いていないと判断しています。"
+    },
+    {
+      "id": 15,
+      "value": "jaws are clenched",
+      "options": [
+        "顎が開いている",
+        "顎が外れている",
+        "顎が歪んでいる",
+        "顎が閉じられている"
+      ],
+      "correctAnswer": "顎が閉じられている",
+      "explanation": "「clenched」は、歯を食いしばる、握りしめるという意味です。顎が閉じられていることは、緊張や不快感の表れと解釈できます。"
+    },
+    {
+      "id": 16,
+      "value": "tongue access",
+      "options": [
+        "舌へのアクセス",
+        "言葉の壁",
+        "情報へのアクセス",
+        "コミュニケーション能力"
+      ],
+      "correctAnswer": "舌へのアクセス",
+      "explanation": "ここでは、キスにおける舌の動きを指しています。キスに舌が入らないということは、相手が積極的ではない、または拒否していることを意味します。"
+    },
+    {
+      "id": 17,
+      "value": "dewlap enlargement",
+      "options": [
+        "二重顎の拡大",
+        "喉袋の肥大",
+        "首の筋肉の増強",
+        "甲状腺の腫れ"
+      ],
+      "correctAnswer": "喉袋の肥大",
+      "explanation": "「dewlap」は、動物の首や喉の下にある垂れ下がった皮膚を指します。イグアナの喉袋は、求愛行動の際に膨らませることで異性を惹きつけます。ここでは、レナードとペニーのキスが、イグアナの求愛行動にすら劣ると揶揄しています。"
+    },
+    {
+      "id": 18,
+      "value": "warp speed",
+      "options": [
+        "通常速度",
+        "亜光速",
+        "光速",
+        "ワープ速度"
+      ],
+      "correctAnswer": "ワープ速度",
+      "explanation": "「warp speed」は、SF作品、特にスタートレックシリーズで使われる超光速航法の速度を指します。ここでは、レナードが自分たちの関係の進展が、他の人たちに比べて非常に速いと主張するために使われています。"
+    },
+    {
+      "id": 19,
+      "value": "FYI",
+      "options": [
+        "お大事に",
+        "ご参考までに",
+        "おめでとう",
+        "どういたしまして"
+      ],
+      "correctAnswer": "ご参考までに",
+      "explanation": "「FYI」は、For Your Informationの略で、「ご参考までに」「念のため」という意味で使用されます。ビジネスシーンやメールなどでよく使われる表現です。"
+    },
+    {
+      "id": 20,
+      "value": "inadequate",
+      "options": [
+        "適切な",
+        "不適切な",
+        "十分な",
+        "不十分な"
+      ],
+      "correctAnswer": "不十分な",
+      "explanation": "「inadequate」は、必要とされる水準や量に達していない、不十分なという意味です。ここでは、洗濯機の熱湯の温度が十分でないことを指しています。"
+    },
+    {
+      "id": 21,
+      "value": "releasing",
+      "options": [
+        "放出",
+        "抑制",
+        "生成",
+        "吸収"
+      ],
+      "correctAnswer": "放出",
+      "explanation": "「releasing」は、何かを解放する、放出するという意味です。ここでは、洗濯機が柔軟剤を適切なタイミングで放出しないことを指しています。"
+    },
+    {
+      "id": 22,
+      "value": "delicates",
+      "options": [
+        "食料品",
+        "高級品",
+        "繊細な衣類",
+        "日用品"
+      ],
+      "correctAnswer": "繊細な衣類",
+      "explanation": "「delicates」は、繊細な衣類、デリケートな素材で作られた衣類を指します。洗濯する際に特別な注意が必要な衣類のことです。"
+    },
+    {
+      "id": 23,
+      "value": "beat them with a rock",
+      "options": [
+        "石で叩く",
+        "石を投げる",
+        "石を飾る",
+        "石を磨く"
+      ],
+      "correctAnswer": "石で叩く",
+      "explanation": "ここでは、洗濯機を使わずに、昔ながらの方法で洗濯することを揶揄する表現として使われています。原始的な洗濯方法をすることで、洗濯機を使うよりもひどい結果になるだろうというニュアンスが含まれています。"
+    },
+    {
+      "id": 24,
+      "value": "slow things down",
+      "options": [
+        "物事を早くする",
+        "物事を遅らせる",
+        "物事を複雑にする",
+        "物事を簡単にする"
+      ],
+      "correctAnswer": "物事を遅らせる",
+      "explanation": "「slow things down」は、物事の進行を遅らせる、ペースを落とすという意味です。恋愛関係においては、関係の進展をゆっくりにすることを意味します。"
+    },
+    {
+      "id": 25,
+      "value": "sort of",
+      "options": [
+        "全く〜ない",
+        "ある意味",
+        "完全に",
+        "絶対に"
+      ],
+      "correctAnswer": "ある意味",
+      "explanation": "「sort of」は、正確には言えないけれど、まあそんな感じ、というニュアンスで使われます。ここでは、二人の間で明確な約束をしたわけではないけれど、なんとなく次のデートが決まった、という状況を表しています。"
+    },
+    {
+      "id": 26,
+      "value": "go so far as to forbid",
+      "options": [
+        "禁止するほどではない",
+        "許可を与える",
+        "強く推奨する",
+        "無視する"
+      ],
+      "correctAnswer": "禁止するほどではない",
+      "explanation": "「go so far as to forbid」は、「〜するほどではない」「〜とまでは言わない」という意味で、ある行動を禁止するレベルには至らないというニュアンスを表します。より強い禁止や制限を予想される状況で、それを緩和する意図で使用されます。\n\n例：I wouldn't go so far as to say he's a liar, but he's not always truthful. (彼を嘘つきだと言うほどではないが、いつも正直とは限らない。)"
+    },
+    {
+      "id": 27,
+      "value": "braniac",
+      "options": [
+        "筋肉質な人",
+        "知的な人",
+        "人気者",
+        "怠け者"
+      ],
+      "correctAnswer": "知的な人",
+      "explanation": "「braniac」は、非常に知的な人、特に学問的な才能に恵まれた人を指す口語的な表現です。しばしば、少しオタクっぽいニュアンスを含みます。\n\n例：He's such a braniac; he always gets the highest grades in class. (彼は本当に頭が良い。いつもクラスで一番の成績を取っている。)"
+    },
+    {
+      "id": 28,
+      "value": "working knowledge",
+      "options": [
+        "高度な知識",
+        "実用的な知識",
+        "理論的な知識",
+        "最新の知識"
+      ],
+      "correctAnswer": "実用的な知識",
+      "explanation": "「working knowledge」は、ある分野や技術に関して、実際に使用できる程度の知識や理解があることを意味します。専門家レベルではなくても、基本的な操作や応用ができる程度を指します。\n\n例：You need a working knowledge of English to communicate effectively in this international company. (この国際的な会社で効果的にコミュニケーションを取るには、英語の実用的な知識が必要です。)"
+    },
+    {
+      "id": 29,
+      "value": "have no business",
+      "options": [
+        "関係がない",
+        "仕事がある",
+        "趣味がない",
+        "興味がない"
+      ],
+      "correctAnswer": "関係がない",
+      "explanation": "「have no business」は、ある状況や行動に関わるべきではない、またはその資格がないという意味を表します。しばしば、非難や批判のニュアンスを含みます。\n\n例：He has no business telling me how to raise my children. (彼には私の子供の育て方を指図する資格はない。)"
+    },
+    {
+      "id": 30,
+      "value": "go on and on",
+      "options": [
+        "中断する",
+        "熱心に話す",
+        "秘密にする",
+        "忘れてしまう"
+      ],
+      "correctAnswer": "熱心に話す",
+      "explanation": "「go on and on」は、同じ話題について延々と話し続ける、または何かが長々と続くという意味です。退屈さやうんざりする気持ちを伴うことがあります。\n\n例：He went on and on about his golf game. (彼は自分のゴルフの試合について延々と話し続けた。)"
+    },
+    {
+      "id": 31,
+      "value": "stupid loser",
+      "options": [
+        "賢い成功者",
+        "愚かな敗者",
+        "普通の学生",
+        "才能のあるアーティスト"
+      ],
+      "correctAnswer": "愚かな敗者",
+      "explanation": "「stupid loser」は、知性が低く、社会的に成功していない人を指す侮蔑的な表現です。自己肯定感が低い人が自分自身を卑下する際にも使われます。\n\n例：He felt like a stupid loser after failing the exam. (試験に落ちた後、彼は自分が愚かな敗者のように感じた。)"
+    },
+    {
+      "id": 32,
+      "value": "ex post facto",
+      "options": [
+        "事後",
+        "事前",
+        "同時",
+        "秘密裏"
+      ],
+      "correctAnswer": "事後",
+      "explanation": "「ex post facto」は、ラテン語由来の法律用語で、「事後」という意味です。特に法律や規則が過去の行為に遡って適用されることを指します。日常会話では、後付けで何かを適用したり、変更したりする状況に使われます。\n\n例：You can't change the rules ex post facto. (事後的にルールを変更することはできない。)"
+    },
+    {
+      "id": 33,
+      "value": "endeavour",
+      "options": [
+        "怠惰",
+        "努力",
+        "成功",
+        "失敗"
+      ],
+      "correctAnswer": "努力",
+      "explanation": "「endeavour」は、何かを達成しようとする真剣な努力や試みを意味します。フォーマルな文脈で使われることが多いです。\n\n例：Scientific endeavour requires patience and dedication. (科学的な努力には忍耐と献身が必要です。)"
+    },
+    {
+      "id": 34,
+      "value": "autonomic reflexes",
+      "options": [
+        "自律神経反射",
+        "運動神経反射",
+        "精神的な反応",
+        "学習反応"
+      ],
+      "correctAnswer": "自律神経反射",
+      "explanation": "「autonomic reflexes」は、自律神経系によって制御される無意識的な生理的反応を指します。例えば、心拍数の変化、発汗、瞳孔の収縮などが含まれます。嘘をつく際に現れる生理的な兆候として言及されることがあります。\n\n例：His autonomic reflexes gave him away; his heart rate increased and he started to sweat. (彼の自律神経反射が彼を裏切った。心拍数が上がり、汗をかき始めた。)"
+    },
+    {
+      "id": 35,
+      "value": "hominymic relationship",
+      "options": [
+        "同音異義語の関係",
+        "反意語の関係",
+        "類義語の関係",
+        "歴史的な関係"
+      ],
+      "correctAnswer": "同音異義語の関係",
+      "explanation": "「hominymic relationship」は、同音異義語の関係を指します。つまり、発音は同じだが意味が異なる単語同士の関係です。Sheldonはtick（ダニ）とtic（チック）の同音異義語を利用してジョークを説明しています。\n\n例：The hominymic relationship between 'there', 'their', and 'they're' often causes confusion. (「there」「their」「they're」の同音異義語の関係はしばしば混乱を引き起こす。)"
+    },
+    {
+      "id": 36,
+      "value": "inherent obligation",
+      "options": [
+        "先天的な義務",
+        "後天的な義務",
+        "法的な義務",
+        "道徳的な義務"
+      ],
+      "correctAnswer": "先天的な義務",
+      "explanation": "「inherent obligation」は、ある関係や状況に必然的に伴う義務を指します。例えば、友情や家族関係には、助け合いや秘密を守る義務が伴うと考えられます。\n\n例：Parents have an inherent obligation to care for their children. (親には子供を養育する先天的な義務がある。)"
+    },
+    {
+      "id": 37,
+      "value": "start-up capital",
+      "options": [
+        "運転資金",
+        "起業資金",
+        "研究資金",
+        "生活資金"
+      ],
+      "correctAnswer": "起業資金",
+      "explanation": "「start-up capital」は、新しい事業やプロジェクトを開始するために必要な資金を指します。設備、人件費、マーケティング費用などが含まれます。\n\n例：He needed start-up capital to launch his new tech company. (彼は新しいテクノロジー会社を立ち上げるための起業資金が必要だった。)"
+    },
+    {
+      "id": 38,
+      "value": "adequate research facility",
+      "options": [
+        "最新の研究施設",
+        "十分な研究施設",
+        "秘密の研究施設",
+        "放棄された研究施設"
+      ],
+      "correctAnswer": "十分な研究施設",
+      "explanation": "「adequate research facility」は、研究を行うために必要な設備、人員、資源が十分に揃っている施設を指します。高度な研究には、特定の基準を満たす施設が必要です。\n\n例：The university provided an adequate research facility for the scientists to conduct their experiments. (大学は科学者たちが実験を行うための十分な研究施設を提供した。)"
+    },
+    {
+      "id": 39,
+      "value": "the bad fish",
+      "options": [
+        "仲間外れ",
+        "人気者",
+        "成功者",
+        "失敗者"
+      ],
+      "correctAnswer": "仲間外れ",
+      "explanation": "「the bad fish」は、グループの中で浮いている人、仲間外れにされている人を指す比喩的な表現です。魚群の中で一匹だけ異なる動きをする魚をイメージしています。\n\n例：I felt like the bad fish at the party because I didn't know anyone. (そのパーティーでは誰も知らなかったので、私は仲間外れのように感じた。)"
+    },
+    {
+      "id": 40,
+      "value": "informational back channel",
+      "options": [
+        "公式の情報源",
+        "非公式の情報源",
+        "公開情報",
+        "誤った情報"
+      ],
+      "correctAnswer": "非公式の情報源",
+      "explanation": "「informational back channel」は、公式なルートを通らずに情報が伝わる非公式な経路を指します。内緒話や裏取引などのニュアンスが含まれることがあります。\n\n例：Rumors spread through the informational back channels of the office. (噂はオフィスの非公式な情報経路を通じて広まった。)"
+    },
+    {
+      "id": 41,
+      "value": "phrase things",
+      "options": [
+        "物事を曖昧にする",
+        "物事を明確に表現する",
+        "物事を誇張する",
+        "物事を秘密にする"
+      ],
+      "correctAnswer": "物事を明確に表現する",
+      "explanation": "「phrase things」は、言葉を選んで物事を表現する、言い回しを工夫するという意味です。相手に誤解を与えないように、またはより効果的に伝えるために使われます。\n\n例：You need to be careful how you phrase things so you don't offend anyone. (誰かを不快にさせないように、言葉遣いに気を付ける必要があります。)"
+    },
+    {
+      "id": 42,
+      "value": "drag me into",
+      "options": [
+        "解放する",
+        "巻き込む",
+        "無視する",
+        "助ける"
+      ],
+      "correctAnswer": "巻き込む",
+      "explanation": "「drag someone into」は、誰かを望まない状況や問題に無理やり引き込むという意味です。しばしば、その状況に巻き込まれることに不快感や抵抗があることを示します。\n\n例：I don't want to get dragged into their argument. (彼らの議論に巻き込まれたくない。)"
+    },
+    {
+      "id": 43,
+      "value": "barely speak",
+      "options": [
+        "毎日話す",
+        "ほとんど話さない",
+        "電話で話す",
+        "手紙で話す"
+      ],
+      "correctAnswer": "ほとんど話さない",
+      "explanation": "「barely speak」は、ほとんど話さない、ごくわずかしか会話をしないという意味です。親密さやコミュニケーションの欠如を示唆します。\n\n例：We barely speak to each other since the argument. (あの口論以来、私たちはほとんど口をきかない。)"
+    },
+    {
+      "id": 44,
+      "value": "teriyaki glaze",
+      "options": [
+        "テリヤキソース",
+        "塩味のソース",
+        "甘いソース",
+        "スパイシーなソース"
+      ],
+      "correctAnswer": "テリヤキソース",
+      "explanation": "「teriyaki glaze」は、照り焼きソースのこと。日本の伝統的な調味料で、甘くてしょっぱい味が特徴です。魚や肉によく使われます。\n\n例：The salmon was delicious with the teriyaki glaze. (照り焼きソースがかかったサーモンはとても美味しかった。)"
+    },
+    {
+      "id": 45,
+      "value": "release me from my oath",
+      "options": [
+        "宣誓する",
+        "誓いを破棄する",
+        "誓いを立てる",
+        "秘密を守る"
+      ],
+      "correctAnswer": "誓いを破棄する",
+      "explanation": "「release me from my oath」は、誓いを破棄することを許可してほしいという意味です。誓いを守ることが困難になった状況で、その義務から解放されたい時に使われます。\n\n例：I beg you to release me from my oath; I can no longer keep this secret. (お願いです、誓いから解放してください。もうこの秘密を守り続けることはできません。)"
+    },
+    {
+      "id": 46,
+      "value": "fold like",
+      "options": [
+        "崩れる",
+        "成長する",
+        "拡大する",
+        "維持する"
+      ],
+      "correctAnswer": "崩れる",
+      "explanation": "「fold like」は、物理的に折り畳まれる様子だけでなく、精神的または感情的に崩れる、弱くなるという意味でも使われます。ここでは、秘密を守ることができずに精神的に崩壊することを比喩的に表現しています。\n\n例：Under pressure, he folded like a cheap suit. (プレッシャーの下で、彼は安物スーツのように崩れ去った。)"
+    },
+    {
+      "id": 47,
+      "value": "conformational space",
+      "options": [
+        "立体配座空間",
+        "位相空間",
+        "ユークリッド空間",
+        "ヒルベルト空間"
+      ],
+      "correctAnswer": "立体配座空間",
+      "explanation": "「conformational space」は、分子が取りうるすべての立体配座（分子の原子配置）を表現する仮想的な空間です。ここでは、タンパク質が特定の形状を維持できずに崩れる様子を説明するために使われています。\n\n例：The protein explores its conformational space to find the most stable structure. (タンパク質は最も安定な構造を見つけるために、立体配座空間を探査する。)"
+    },
+    {
+      "id": 48,
+      "value": "renaissance triptych",
+      "options": [
+        "ルネサンス期の三連祭壇画",
+        "ルネサンス期の彫刻",
+        "ルネサンス期の音楽",
+        "ルネサンス期の建築"
+      ],
+      "correctAnswer": "ルネサンス期の三連祭壇画",
+      "explanation": "「renaissance triptych」は、ルネサンス時代に制作された三連の祭壇画を指します。通常、中央のパネルと左右のパネルで構成され、それぞれが独立した絵画でありながら、全体で一つの物語やテーマを表現します。ここでは、バランスが崩れて倒れる様子の比喩として使われています。\n\n例：The museum has a beautiful collection of Renaissance triptychs. (その美術館にはルネサンス期の三連祭壇画の美しいコレクションがある。)"
+    },
+    {
+      "id": 49,
+      "value": "cheap suit",
+      "options": [
+        "高価なスーツ",
+        "安物のスーツ",
+        "オーダーメイドのスーツ",
+        "ブランドスーツ"
+      ],
+      "correctAnswer": "安物のスーツ",
+      "explanation": "「cheap suit」は、品質の低い、安価なスーツを指します。ここでは、耐久性が低く、すぐに崩れてしまうものの比喩として使われています。精神的な脆さや弱さを強調する表現です。\n\n例：He bought a cheap suit for the interview, but it didn't make a good impression. (彼は面接のために安物のスーツを買ったが、良い印象を与えなかった。)"
+    },
+    {
+      "id": 50,
+      "value": "one little secret",
+      "options": [
+        "大きな秘密",
+        "小さな秘密",
+        "公然の秘密",
+        "大切な秘密"
+      ],
+      "correctAnswer": "小さな秘密",
+      "explanation": "「one little secret」は、取るに足らない、重要でない秘密を指します。 PennyがSheldonに秘密を守ってほしいと頼む場面で、その秘密が大したことではないことを強調するために使われています。\n\n例：It's just one little secret; it won't hurt anyone. (ただの小さな秘密だよ。誰も傷つけない。)"
+    },
+    {
+      "id": 51,
+      "value": "constitutionally incapable",
+      "options": [
+        "法的に可能",
+        "体質的に不可能",
+        "一時的に不能",
+        "精神的に可能"
+      ],
+      "correctAnswer": "体質的に不可能",
+      "explanation": "「constitutionally incapable」は、体質的、根本的に不可能であることを意味します。ここでは、Sheldonの性格や性質からして、ある行動がどうしてもできないというニュアンスで使われています。法律や規則ではなく、個人の性質に起因する不可能を表す点がポイントです。"
+    },
+    {
+      "id": 52,
+      "value": "prestigious",
+      "options": [
+        "秘密の",
+        "権威のある",
+        "危険な",
+        "安価な"
+      ],
+      "correctAnswer": "権威のある",
+      "explanation": "「prestigious」は、名声があり、尊敬されるという意味です。政府の研究フェローシップが非常に名誉あるものであることを強調しています。学術的な文脈や、社会的な地位が高いものに対してよく用いられる形容詞です。"
+    },
+    {
+      "id": 53,
+      "value": "supercollider",
+      "options": [
+        "超伝導体",
+        "超衝突加速器",
+        "超伝導コイル",
+        "超高性能コンピューター"
+      ],
+      "correctAnswer": "超衝突加速器",
+      "explanation": "「supercollider」は、素粒子を光速に近い速度で衝突させ、その反応を観測する装置です。物理学の分野で、物質の根源を探るために使用されます。非常に大規模な施設であることが特徴です。"
+    },
+    {
+      "id": 54,
+      "value": "fake",
+      "options": [
+        "本物の",
+        "偽の",
+        "巨大な",
+        "小さな"
+      ],
+      "correctAnswer": "偽の",
+      "explanation": "ここでは「fake agricultural station」は、実際には農業試験場ではない、見せかけの施設であることを意味します。軍事施設を隠蔽するために作られた偽装工作の一部です。日常会話でも広く使われる一般的な単語です。"
+    },
+    {
+      "id": 55,
+      "value": "forget",
+      "options": [
+        "覚える",
+        "忘れる",
+        "考える",
+        "理解する"
+      ],
+      "correctAnswer": "忘れる",
+      "explanation": "「forget」は、記憶から消し去る、思い出さないようにするという意味です。Pennyが自分の秘密をSheldonに忘れてほしいと頼む場面で使われています。日常的な会話で頻繁に使われる基本的な単語です。"
+    },
+    {
+      "id": 56,
+      "value": "predicate on",
+      "options": [
+        "基づく",
+        "無視する",
+        "反論する",
+        "同意する"
+      ],
+      "correctAnswer": "基づく",
+      "explanation": "「predicate on」は、～に基づいている、～を前提としているという意味です。ここでは、理由がさらに下位の理由に基づき、無限に遡ってしまうという、哲学的な議論の一部として使われています。フォーマルな文脈で使われることが多い表現です。"
+    },
+    {
+      "id": 57,
+      "value": "infinite regression",
+      "options": [
+        "無限後退",
+        "有限前進",
+        "無限並進",
+        "有限回転"
+      ],
+      "correctAnswer": "無限後退",
+      "explanation": "「infinite regression」は、原因や理由が無限に遡ってしまい、最終的な根拠にたどり着けない状態を指します。哲学や論理学で用いられる概念で、議論の妥当性を検証する際に問題となることがあります。"
+    },
+    {
+      "id": 58,
+      "value": "arbitrary",
+      "options": [
+        "論理的な",
+        "恣意的な",
+        "普遍的な",
+        "客観的な"
+      ],
+      "correctAnswer": "恣意的な",
+      "explanation": "「arbitrary」は、根拠や理由がなく、恣意的、独断的であることを意味します。ここでは、議論の根拠が恣意的な公理に帰着してしまう可能性を示唆しています。客観性や合理性が欠如しているニュアンスを含みます。"
+    },
+    {
+      "id": 59,
+      "value": "axiomatic",
+      "options": [
+        "経験的な",
+        "公理的な",
+        "演繹的な",
+        "帰納的な"
+      ],
+      "correctAnswer": "公理的な",
+      "explanation": "「axiomatic」は、証明を必要としない自明の理、公理に基づいているという意味です。数学や論理学で、議論の出発点となる前提を指します。ここでは、議論の根拠が疑う余地のない公理に帰着してしまう可能性を示唆しています。"
+    },
+    {
+      "id": 60,
+      "value": "ultimately",
+      "options": [
+        "部分的に",
+        "最終的に",
+        "一時的に",
+        "表面上は"
+      ],
+      "correctAnswer": "最終的に",
+      "explanation": "「ultimately」は、最終的には、結局はという意味です。ここでは、引っ越しの理由が最終的には循環論法に陥ってしまう可能性を示唆しています。議論の結論や結果を強調する際に用いられます。"
+    },
+    {
+      "id": 61,
+      "value": "circular",
+      "options": [
+        "直接的な",
+        "循環的な",
+        "線形の",
+        "複雑な"
+      ],
+      "correctAnswer": "循環的な",
+      "explanation": "「circular」は、循環論法であることを意味します。ある事柄を証明するために、その事柄自体を前提として用いる論理の誤りです。ここでは、引っ越しの理由が「引っ越すから引っ越す」という循環論法に陥っていることを指摘しています。"
+    },
+    {
+      "id": 62,
+      "value": "plasticised",
+      "options": [
+        "プラスチック製の",
+        "液状化された",
+        "プラスチックで保存処理された",
+        "抽象化された"
+      ],
+      "correctAnswer": "プラスチックで保存処理された",
+      "explanation": "「plasticised」は、人体などを特殊なプラスチックで処理し、腐敗を防いで保存された状態を指します。展示会などで、人体の構造を学ぶために用いられることがあります。医学的な文脈でよく使われる単語です。"
+    },
+    {
+      "id": 63,
+      "value": "cadavers",
+      "options": [
+        "彫刻",
+        "植物",
+        "死体",
+        "動物"
+      ],
+      "correctAnswer": "死体",
+      "explanation": "「cadavers」は、医学研究や教育のために提供された死体を意味します。医学部などで解剖実習に使われることが多いです。ややフォーマルな単語で、日常会話ではあまり使われません。"
+    },
+    {
+      "id": 64,
+      "value": "necrophilia",
+      "options": [
+        "動物愛護",
+        "死体愛好",
+        "植物愛好",
+        "昆虫採集"
+      ],
+      "correctAnswer": "死体愛好",
+      "explanation": "「necrophilia」は、死体に対する性的魅力を意味する言葉です。精神医学や心理学の分野で用いられます。非常にデリケートな話題であり、使用には注意が必要です。"
+    },
+    {
+      "id": 65,
+      "value": "generic",
+      "options": [
+        "一般的な",
+        "高価な",
+        "特定の",
+        "ブランドの"
+      ],
+      "correctAnswer": "一般的な",
+      "explanation": "「generic」は、一般的な、ブランド名のないという意味です。ここでは、特定のブランドではなく、一般的なケチャップを指しています。品質や価格が低いことが多いニュアンスが含まれます。"
+    },
+    {
+      "id": 66,
+      "value": "insane",
+      "options": [
+        "冷静な",
+        "正気でない",
+        "友好的な",
+        "勇敢な"
+      ],
+      "correctAnswer": "正気でない",
+      "explanation": "「insane」は、正気でない、狂っているという意味です。ここでは、Sheldonの行動が常軌を逸していることをLeonardが表現しています。精神医学的な意味合いを含む、やや強い言葉です。"
+    },
+    {
+      "id": 67,
+      "value": "evacuation",
+      "options": [
+        "侵入",
+        "避難",
+        "建設",
+        "調査"
+      ],
+      "correctAnswer": "避難",
+      "explanation": "「evacuation」は、危険な場所から安全な場所へ避難することを意味します。ここでは、災害時に備えて用意された避難用バッグを指しています。緊急事態を想定した計画や行動に関連して使われることが多いです。"
+    },
+    {
+      "id": 68,
+      "value": "aspect",
+      "options": [
+        "側面",
+        "中心",
+        "理由",
+        "結果"
+      ],
+      "correctAnswer": "側面",
+      "explanation": "「aspect」は、側面、一面という意味です。ここでは、客人をもてなすことが、ヒンドゥー教の宗教的な義務の一側面であることを指しています。物事の一部分や特徴を説明する際に用いられる一般的な単語です。"
+    },
+    {
+      "id": 69,
+      "value": "ridiculous",
+      "options": [
+        "真実",
+        "ばかげた",
+        "素晴らしい",
+        "重要な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「ridiculous」は、ばかげた、馬鹿げているという意味です。ここでは、Rajが電車が好きではないという発言に対して、Sheldonが反論しています。非論理的であったり、非常識なことに対して使われることが多いです。"
+    },
+    {
+      "id": 70,
+      "value": "residual",
+      "options": [
+        "重要な",
+        "残りの",
+        "十分な",
+        "最新の"
+      ],
+      "correctAnswer": "残りの",
+      "explanation": "「residual」は、残りの、残留しているという意味です。ここでは、古い時計工場で使用されていたラジウムが、建物に残留している可能性をSheldonが心配しています。化学物質や放射能など、後に残るものに対して使われることが多いです。"
+    },
+    {
+      "id": 71,
+      "value": "luminous",
+      "options": [
+        "暗い",
+        "光る",
+        "透明な",
+        "重い"
+      ],
+      "correctAnswer": "光る",
+      "explanation": "「luminous」は、光を放つ、明るいという意味です。ここでは、時計の文字盤がラジウムによって光ることを指しています。科学的な文脈や、光に関する描写で使われることが多い単語です。"
+    },
+    {
+      "id": 72,
+      "value": "subverting",
+      "options": [
+        "支持する",
+        "覆す",
+        "強化する",
+        "無視する"
+      ],
+      "correctAnswer": "覆す",
+      "explanation": "「subverting」は、既存の秩序や期待を覆す、転覆させるという意味です。ここでは、会話の期待を裏切るジョークを言ったことを指しています。社会的な規範や、一般的なルールを逸脱するニュアンスを含みます。"
+    },
+    {
+      "id": 73,
+      "value": "switcheroo",
+      "options": [
+        "秘密",
+        "逆転",
+        "冗談",
+        "贈り物"
+      ],
+      "correctAnswer": "逆転",
+      "explanation": "「switcheroo」は、予期せぬ逆転、どんでん返しという意味です。ここでは、ジョークとして、相手を驚かせるために意図的に期待を裏切ることを指しています。口語的な表現で、ユーモラスな文脈で使われることが多いです。"
+    },
+    {
+      "id": 74,
+      "value": "by comparison",
+      "options": [
+        "同様に",
+        "比較すると",
+        "要するに",
+        "それゆえに"
+      ],
+      "correctAnswer": "比較すると",
+      "explanation": "「by comparison」は、比較すると、対照的にという意味です。ここでは、Aishwarya RaiとMadhuri Dixitを比較して、Sheldonが自分の意見を述べています。二つのものを比較し、差異を強調する際に用いられる表現です。"
+    },
+    {
+      "id": 75,
+      "value": "lumbar",
+      "options": [
+        "頭部の",
+        "腰部の",
+        "胸部の",
+        "腹部の"
+      ],
+      "correctAnswer": "腰部の",
+      "explanation": "「lumbar」は、腰部の、腰椎のという意味です。ここでは、エアーマットレスが腰のサポートがないことをSheldonが不満に思っています。医学的な文脈や、体の部位に関する説明で使われることが多い単語です。"
+    },
+    {
+      "id": 76,
+      "value": "roughhousing",
+      "options": [
+        "大声で歌う",
+        "激しく遊ぶ",
+        "静かに話す",
+        "真剣に勉強する"
+      ],
+      "correctAnswer": "激しく遊ぶ",
+      "explanation": "「roughhousing」は、主に男の子や若い男性が、ふざけ合って激しく遊ぶことを指します。レスリングごっこをしたり、軽く叩いたり、押し合ったりするような行動が含まれます。怪我をする可能性もあるため、注意が必要です。"
+    },
+    {
+      "id": 77,
+      "value": "settle down",
+      "options": [
+        "興奮する",
+        "落ち着く",
+        "出発する",
+        "議論する"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「settle down」は、騒がしい状態や興奮した状態から落ち着く、静かになるという意味です。また、生活を安定させる、結婚して家庭を持つという意味もあります。ここでは、母親が子供たちに静かにするように言っています。"
+    },
+    {
+      "id": 78,
+      "value": "unnerving",
+      "options": [
+        "面白い",
+        "安心できる",
+        "不安にさせる",
+        "心地よい"
+      ],
+      "correctAnswer": "不安にさせる",
+      "explanation": "「unnerving」は、人の神経を逆なでする、不安にさせる、落ち着かなくさせるという意味です。何かが奇妙であったり、予想外であったりすることで、精神的な安定を揺さぶられるような状況で使われます。"
+    },
+    {
+      "id": 79,
+      "value": "no kidding?",
+      "options": [
+        "冗談でしょ？",
+        "本当ですか？",
+        "気にしないで",
+        "どうでもいい"
+      ],
+      "correctAnswer": "本当ですか？",
+      "explanation": "「No kidding?」は、相手の発言に対して驚きや関心を示す表現で、「マジで？」「うそ？」「まさか！」といったニュアンスで使われます。相手の話が信じられないほど興味深い、または意外な場合に用いられます。"
+    },
+    {
+      "id": 80,
+      "value": "begging you",
+      "options": [
+        "命令する",
+        "懇願する",
+        "助ける",
+        "提案する"
+      ],
+      "correctAnswer": "懇願する",
+      "explanation": "「I'm begging you」は、相手に何かを強くお願いする際に使われる表現で、「頼むから〜してくれ」「お願いだから〜しないで」といったニュアンスです。非常に切実な状況や、相手にどうしても聞き入れてほしいことがある場合に用いられます。"
+    },
+    {
+      "id": 81,
+      "value": "derivative",
+      "options": [
+        "独創的な",
+        "二次的な",
+        "基本的な",
+        "革新的な"
+      ],
+      "correctAnswer": "二次的な",
+      "explanation": "「derivative」は、他のものから派生した、二次的な、独創性がないという意味です。芸術作品や研究などが、既存のスタイルやアイデアを模倣している場合に、批判的な意味合いで使用されることがあります。"
+    },
+    {
+      "id": 82,
+      "value": "tag, you're it",
+      "options": [
+        "終わりだ",
+        "あなたの勝ちだ",
+        "交代だ",
+        "あなたの負けだ"
+      ],
+      "correctAnswer": "交代だ",
+      "explanation": "「Tag, you're it」は、鬼ごっこで鬼を交代する際に使われる表現で、「はい、鬼はあなた」という意味です。比喩的に、責任や厄介なことを人に引き継がせる場合にも使われます。"
+    },
+    {
+      "id": 83,
+      "value": "dumped him on me",
+      "options": [
+        "彼を無視した",
+        "彼を押し付けた",
+        "彼を助けた",
+        "彼を励ました"
+      ],
+      "correctAnswer": "彼を押し付けた",
+      "explanation": "「dumped him on me」は、本来自分が対応すべきでない人や問題を、他の人に押し付けるという意味です。ここでは、クースラポリがシェルドンをハワードに押し付けたことを表しています。"
+    },
+    {
+      "id": 84,
+      "value": "shhhhh!",
+      "options": [
+        "こんにちは！",
+        "おやすみ！",
+        "静かに！",
+        "おめでとう！"
+      ],
+      "correctAnswer": "静かに！",
+      "explanation": "「Shhhhh!」は、人に静かにするように促すときの擬音語です。「シーッ！」というニュアンスで、秘密を守りたいときや、静かな場所で騒がないように注意するときに使われます。"
+    },
+    {
+      "id": 85,
+      "value": "okay with it",
+      "options": [
+        "反対である",
+        "賛成である",
+        "無関心である",
+        "知らない"
+      ],
+      "correctAnswer": "賛成である",
+      "explanation": "「okay with it」は、何かに同意している、問題ないと思っているという意味です。ここでは、ジーザスが（シェルドンの）母親が車で喫煙することに賛成していると述べています。"
+    },
+    {
+      "id": 86,
+      "value": "Dammit",
+      "options": [
+        "ありがとう",
+        "おめでとう",
+        "畜生",
+        "こんにちは"
+      ],
+      "correctAnswer": "畜生",
+      "explanation": "「Dammit」は、怒りや不満、失望を表すときに使われる軽い罵り言葉です。「くそっ」「ちくしょう」といったニュアンスで、予期せぬ問題や失敗に直面した際に用いられます。"
+    },
+    {
+      "id": 87,
+      "value": "bothering you",
+      "options": [
+        "喜ばせる",
+        "悩ませる",
+        "助ける",
+        "驚かせる"
+      ],
+      "correctAnswer": "悩ませる",
+      "explanation": "「bothering you」は、人に不安や心配、困惑などを与えるという意味です。ここでは、ペニーがレナードとの関係について悩んでいることを指しています。"
+    },
+    {
+      "id": 88,
+      "value": "taken it to his grave",
+      "options": [
+        "墓に持っていく",
+        "秘密を守り抜く",
+        "葬式に出席する",
+        "忘れてしまう"
+      ],
+      "correctAnswer": "秘密を守り抜く",
+      "explanation": "「take it to one's grave」は、秘密を墓場まで持って行く、つまり死ぬまで秘密を守り抜くという意味のイディオムです。ここでは、シェルドンがペニーの秘密を絶対に明かさないつもりだったことを強調しています。"
+    },
+    {
+      "id": 89,
+      "value": "hacky sack",
+      "options": [
+        "スポーツ",
+        "ゲーム",
+        "おもちゃ",
+        "楽器"
+      ],
+      "correctAnswer": "ゲーム",
+      "explanation": "「hacky sack」は、小さなボールを足で蹴り上げて遊ぶゲームのことです。リフティングのような技術を競ったり、複数人でパスを回したりして楽しみます。"
+    },
+    {
+      "id": 90,
+      "value": "paralegal",
+      "options": [
+        "弁護士",
+        "弁護士助手",
+        "裁判官",
+        "事務員"
+      ],
+      "correctAnswer": "弁護士助手",
+      "explanation": "「paralegal」は、弁護士の指示のもとで法律事務を行う専門職です。法律調査、書類作成、顧客対応など、弁護士の業務をサポートする役割を担います。"
+    },
+    {
+      "id": 91,
+      "value": "bite me!",
+      "options": [
+        "褒めて！",
+        "感謝する！",
+        "文句を言うな！",
+        "挨拶して！"
+      ],
+      "correctAnswer": "文句を言うな！",
+      "explanation": "「Bite me!」は、相手に対して反発や軽蔑の気持ちを表すスラングで、「文句あるか！」「うるさい！」といったニュアンスです。挑発的な態度や、相手の干渉を拒否する際に用いられます。"
+    },
+    {
+      "id": 92,
+      "value": "sleepovers",
+      "options": [
+        "徹夜",
+        "昼寝",
+        "お泊まり会",
+        "睡眠不足"
+      ],
+      "correctAnswer": "お泊まり会",
+      "explanation": "「sleepover」は、友人や親戚の家などに泊まりに行くことを指します。子供たちが集まって遊んだり、映画を見たり、おしゃべりしたりするイベントとして一般的です。"
+    },
+    {
+      "id": 93,
+      "value": "Comfy",
+      "options": [
+        "不快な",
+        "快適な",
+        "退屈な",
+        "疲れた"
+      ],
+      "correctAnswer": "快適な",
+      "explanation": "「Comfy」は「comfortable」の略で、快適な、心地よいという意味です。ここでは、ハワードがシェルドンにベッドが快適かどうか尋ねています。"
+    },
+    {
+      "id": 94,
+      "value": "in order",
+      "options": [
+        "順番に",
+        "無秩序に",
+        "秘密裏に",
+        "偶然に"
+      ],
+      "correctAnswer": "順番に",
+      "explanation": "「in order」は、順番に、整然と、という意味です。リストやランキングなどを説明する際に用いられます。ここでは、シェルドンが好きなX-メンのキャラクターを順番に挙げています。"
+    },
+    {
+      "id": 95,
+      "value": "With him?",
+      "options": [
+        "彼と一緒？",
+        "彼に何があったの？",
+        "彼をどう思う？",
+        "彼を無視して"
+      ],
+      "correctAnswer": "彼に何があったの？",
+      "explanation": "「What's with him?」は、相手の様子がおかしいときや、奇妙な行動をとっているときに、「彼はどうしたの？」「彼に何があったの？」と尋ねる表現です。"
+    },
+    {
+      "id": 96,
+      "value": "Community college",
+      "options": [
+        "専門学校",
+        "短期大学",
+        "大学",
+        "予備校"
+      ],
+      "correctAnswer": "短期大学",
+      "explanation": "「community college」は、主にアメリカ合衆国にある2年制の公立大学です。比較的学費が安く、幅広い分野の教育を提供しています。卒業後、4年制大学に編入する学生も多いです。"
+    },
+    {
+      "id": 97,
+      "value": "Absolutely",
+      "options": [
+        "絶対に",
+        "たぶん",
+        "少し",
+        "ありえない"
+      ],
+      "correctAnswer": "絶対に",
+      "explanation": "「Absolutely」は、同意や肯定を強調する際に使われる言葉で、「絶対に」「その通り」「もちろん」といった意味合いを持ちます。ここでは、ペニーが賢くなくても良いかという質問に対して、レナードが強く同意しています。"
+    },
+    {
+      "id": 98,
+      "value": "Fine mutant",
+      "options": [
+        "罰金",
+        "素晴らしい",
+        "最低",
+        "普通の"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「fine」は、ここでは「素晴らしい」「優れた」という意味で使われています。「mutant」は「ミュータント（突然変異体）」のことです。シェルドンは、ハル・ベリーがX-メンの映画で演じたミュータント役について言及しています。"
+    },
+    {
+      "id": 99,
+      "value": "get a park bench in here",
+      "options": [
+        "公園のベンチを買う",
+        "公園のベンチを修理する",
+        "公園のベンチをここに置く",
+        "公園のベンチを作る"
+      ],
+      "correctAnswer": "公園のベンチをここに置く",
+      "explanation": "「get a park bench in here」は、直訳すると「公園のベンチをここに持ってくる」となります。文脈から、シェルドンは部屋に公園のベンチを置くことの実現可能性について話していると考えられます。"
+    },
+    {
+      "id": 100,
+      "value": "warm milk with a handful of my mom’s valium",
+      "options": [
+        "温かい牛乳と砂糖",
+        "温かい牛乳とスパイス",
+        "温かい牛乳と鎮静剤",
+        "温かい牛乳とハチミツ"
+      ],
+      "correctAnswer": "温かい牛乳と鎮静剤",
+      "explanation": "「valium」は、ジアゼパムという成分を含む抗不安薬、精神安定剤の商品名です。「a handful of」は「ひと握りの」という意味で、ここではハワードが母親の精神安定剤を大量に入れた温かい牛乳をシェルドンに与えたことを表しています。これは非常に危険な行為です。"
+    }
+  ]
+}

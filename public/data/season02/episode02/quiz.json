@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "rife with",
+      "options": [
+        "不足している",
+        "満ち溢れている",
+        "無関係である",
+        "欠如している"
+      ],
+      "correctAnswer": "満ち溢れている",
+      "explanation": "「rife with」は、（好ましくないもの）が広まっている、蔓延しているという意味です。例文：The city was rife with corruption.（その都市は汚職で蔓延していた。）"
+    },
+    {
+      "id": 2,
+      "value": "nitpicking",
+      "options": [
+        "詳細に述べること",
+        "些細なことを気にする",
+        "全体像を捉える",
+        "重要な点を見抜く"
+      ],
+      "correctAnswer": "些細なことを気にする",
+      "explanation": "「nitpicking」は、細かいことばかり気にする、あら探しをするという意味です。例文：Stop nitpicking!（細かいことを言うのはやめてくれ！）"
+    },
+    {
+      "id": 3,
+      "value": "howdy",
+      "options": [
+        "こんにちは",
+        "さようなら",
+        "ありがとう",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "こんにちは",
+      "explanation": "「howdy」は、主にアメリカ南部で使われる挨拶で、「hello」や「hi」と同じ意味です。よりカジュアルなニュアンスがあります。"
+    },
+    {
+      "id": 4,
+      "value": "in tow",
+      "options": [
+        "単独で",
+        "同伴して",
+        "隠れて",
+        "無視して"
+      ],
+      "correctAnswer": "同伴して",
+      "explanation": "「in tow」は、人や物を引き連れて、連れてという意味です。例文：She arrived with her children in tow.（彼女は子供たちを連れて到着した。）"
+    },
+    {
+      "id": 5,
+      "value": "tres",
+      "options": [
+        "少し",
+        "とても",
+        "全く",
+        "普通に"
+      ],
+      "correctAnswer": "とても",
+      "explanation": "「tres」はフランス語で「とても」という意味で、英語でも使われることがあります。特に「très chic（とてもおしゃれ）」のような表現でよく知られています。"
+    },
+    {
+      "id": 6,
+      "value": "awkward",
+      "options": [
+        "快適な",
+        "気まずい",
+        "楽しい",
+        "自然な"
+      ],
+      "correctAnswer": "気まずい",
+      "explanation": "「awkward」は、気まずい、ぎこちない、やりにくいという意味です。人間関係や状況がスムーズでない時に使われます。例文：There was an awkward silence.（気まずい沈黙があった。）"
+    },
+    {
+      "id": 7,
+      "value": "move on",
+      "options": [
+        "立ち去る",
+        "前進する",
+        "停滞する",
+        "後退する"
+      ],
+      "correctAnswer": "前進する",
+      "explanation": "「move on」は、過去の出来事や関係を乗り越えて、新しい段階に進むという意味です。例文：It's time to move on.（前に進む時だ。）"
+    },
+    {
+      "id": 8,
+      "value": "get away with",
+      "options": [
+        "逃げる",
+        "免れる",
+        "捕まる",
+        "直面する"
+      ],
+      "correctAnswer": "免れる",
+      "explanation": "「get away with」は、（悪いこと）をしても罰を受けずに済む、うまく逃れるという意味です。例文：He got away with cheating on the test.（彼はテストで不正行為をしても見つからなかった。）"
+    },
+    {
+      "id": 9,
+      "value": "holding back",
+      "options": [
+        "抑制する",
+        "解放する",
+        "促進する",
+        "無視する"
+      ],
+      "correctAnswer": "抑制する",
+      "explanation": "「hold back」は、感情や行動を抑制する、控えるという意味です。例文：She was holding back tears.（彼女は涙をこらえていた。）"
+    },
+    {
+      "id": 10,
+      "value": "plenty",
+      "options": [
+        "少量",
+        "十分な量",
+        "不足",
+        "皆無"
+      ],
+      "correctAnswer": "十分な量",
+      "explanation": "「plenty」は、十分な量、豊富という意味です。例文：There's plenty of food.（食べ物はたくさんある。）"
+    },
+    {
+      "id": 11,
+      "value": "defect",
+      "options": [
+        "改善する",
+        "亡命する",
+        "悪化する",
+        "停滞する"
+      ],
+      "correctAnswer": "亡命する",
+      "explanation": "「defect」は、自国や所属する組織から離れて敵対する側につく、亡命するという意味です。例文：He defected to the West.（彼は西側諸国に亡命した。）"
+    },
+    {
+      "id": 12,
+      "value": "undesirable",
+      "options": [
+        "望ましい",
+        "好ましくない",
+        "不可欠な",
+        "必要な"
+      ],
+      "correctAnswer": "好ましくない",
+      "explanation": "「undesirable」は、望ましくない、好ましくないという意味です。例文：The side effects are undesirable.（副作用は好ましくない。）"
+    },
+    {
+      "id": 13,
+      "value": "sloppy",
+      "options": [
+        "正確な",
+        "ずさんな",
+        "丁寧な",
+        "完璧な"
+      ],
+      "correctAnswer": "ずさんな",
+      "explanation": "「sloppy」は、ずさんな、いい加減な、だらしないという意味です。例文：His work is sloppy.（彼の仕事はいい加減だ。）"
+    },
+    {
+      "id": 14,
+      "value": "unjustifiably",
+      "options": [
+        "正当に",
+        "不当に",
+        "当然に",
+        "適切に"
+      ],
+      "correctAnswer": "不当に",
+      "explanation": "「unjustifiably」は、正当な理由なく、不当にという意味です。例文：He was unjustifiably fired.（彼は不当に解雇された。）"
+    },
+    {
+      "id": 15,
+      "value": "smoking hot",
+      "options": [
+        "冷たい",
+        "とても魅力的",
+        "普通",
+        "不快な"
+      ],
+      "correctAnswer": "とても魅力的",
+      "explanation": "「smoking hot」は、非常に魅力的である、セクシーであるという意味のスラングです。例文：She is smoking hot.（彼女はとても魅力的だ。）"
+    },
+    {
+      "id": 16,
+      "value": "hit that",
+      "options": [
+        "攻撃する",
+        "性的な関係を持ちたい",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "性的な関係を持ちたい",
+      "explanation": "「hit that」は、性的な関係を持ちたいという意味のスラングです。非常にカジュアルで、下品なニュアンスを含む場合があります。"
+    },
+    {
+      "id": 17,
+      "value": "tool",
+      "options": [
+        "道具",
+        "利用される人",
+        "協力者",
+        "友人"
+      ],
+      "correctAnswer": "利用される人",
+      "explanation": "ここでは、人を道具として利用するという意味合いで使われています。他者を自分の目的のために利用する人を指します。"
+    },
+    {
+      "id": 18,
+      "value": "rebound",
+      "options": [
+        "反発",
+        "再起",
+        "安定",
+        "衰退"
+      ],
+      "correctAnswer": "再起",
+      "explanation": "恋愛において「rebound」は、失恋後に寂しさを紛らわせるために付き合う相手、またはその関係を指します。心の隙間を埋めるための関係であることが多いです。"
+    },
+    {
+      "id": 19,
+      "value": "engage in",
+      "options": [
+        "参加する",
+        "避ける",
+        "妨げる",
+        "傍観する"
+      ],
+      "correctAnswer": "参加する",
+      "explanation": "「engage in」は、～に従事する、～を行うという意味です。例文：They engaged in a heated debate.（彼らは激しい議論を交わした。）"
+    },
+    {
+      "id": 20,
+      "value": "physical intimacy",
+      "options": [
+        "身体的な親密さ",
+        "精神的な繋がり",
+        "個人的な空間",
+        "社会的距離"
+      ],
+      "correctAnswer": "身体的な親密さ",
+      "explanation": "「physical intimacy」は、身体的な親密さ、性的関係を意味します。恋愛関係における親密さの度合いを示す言葉です。"
+    },
+    {
+      "id": 21,
+      "value": "codpiece",
+      "options": [
+        "兜",
+        "鎧",
+        "股間を覆うもの",
+        "肩当て"
+      ],
+      "correctAnswer": "股間を覆うもの",
+      "explanation": "「codpiece」は、中世からルネサンス期にかけて男性が着用した、股間を覆う装具です。ファッションや性的な象徴として用いられました。"
+    },
+    {
+      "id": 22,
+      "value": "slash",
+      "options": [
+        "足し算",
+        "引き算",
+        "スラッシュ",
+        "掛け算"
+      ],
+      "correctAnswer": "スラッシュ",
+      "explanation": "「slash」は、ここでは「/」記号を指し、複数の要素を組み合わせる意味で使用されています。例：A/B（AまたはB）"
+    },
+    {
+      "id": 23,
+      "value": "age of enlightenment",
+      "options": [
+        "暗黒時代",
+        "啓蒙時代",
+        "ルネサンス時代",
+        "中世時代"
+      ],
+      "correctAnswer": "啓蒙時代",
+      "explanation": "「age of enlightenment」は、18世紀の啓蒙時代を指します。理性と科学が重視された時代です。"
+    },
+    {
+      "id": 24,
+      "value": "chain mail",
+      "options": [
+        "手紙",
+        "鎖帷子",
+        "ベルト",
+        "靴"
+      ],
+      "correctAnswer": "鎖帷子",
+      "explanation": "「chain mail」は、金属の輪をつなぎ合わせた鎧の一種です。中世の騎士などが着用しました。"
+    },
+    {
+      "id": 25,
+      "value": "historically accurate",
+      "options": [
+        "歴史的に不正確",
+        "歴史的に正確",
+        "現代的",
+        "未来的"
+      ],
+      "correctAnswer": "歴史的に正確",
+      "explanation": "「historically accurate」は、歴史的に正確であるという意味です。史実に基づいていることを指します。"
+    },
+    {
+      "id": 26,
+      "value": "insufficiently intelligent",
+      "options": [
+        "非常に賢い",
+        "十分な知性がない",
+        "平均的な知性",
+        "知的好奇心が旺盛"
+      ],
+      "correctAnswer": "十分な知性がない",
+      "explanation": "文字通りには「十分な知性がない」という意味ですが、ここではSheldonが相手を皮肉るために、間接的に知性が低いと表現しています。直接的な侮辱を避けつつ、相手を軽んじるニュアンスが含まれます。"
+    },
+    {
+      "id": 27,
+      "value": "burn unit",
+      "options": [
+        "リハビリ施設",
+        "集中治療室",
+        "火傷治療室",
+        "精神科病棟"
+      ],
+      "correctAnswer": "火傷治療室",
+      "explanation": "「burn unit」は、重度の火傷を負った患者を専門的に治療する医療施設を指します。Leslieの発言は、Sheldonの言葉が彼女にとって非常に辛辣で、まるで火傷を負ったかのように感じられたという比喩的な表現です。"
+    },
+    {
+      "id": 28,
+      "value": "crashed to the ground",
+      "options": [
+        "順調に進んだ",
+        "急上昇した",
+        "地面に激突した",
+        "ゆっくりと下降した"
+      ],
+      "correctAnswer": "地面に激突した",
+      "explanation": "「crash to the ground」は、物事が突然、劇的に失敗に終わることを意味します。飛行機事故のように、壊滅的な結末を連想させる表現で、LeonardとPennyの関係が破局を迎えた状況を強調しています。"
+    },
+    {
+      "id": 29,
+      "value": "lavatory",
+      "options": [
+        "キッチン",
+        "実験室",
+        "トイレ",
+        "寝室"
+      ],
+      "correctAnswer": "トイレ",
+      "explanation": "「lavatory」は、主に航空機や列車などの公共交通機関で使用されるトイレを指す、ややフォーマルな言葉です。ここでは、LeonardとPennyの関係が終わったことを、飛行機のトイレから落ちてくるブルーアイスに例えることで、不快感や予期せぬ出来事というニュアンスを加えています。"
+    },
+    {
+      "id": 30,
+      "value": "revisit our previous attachment",
+      "options": [
+        "過去の仕事を見直す",
+        "以前の関係を再検討する",
+        "古い友人を訪ねる",
+        "過去の過ちを償う"
+      ],
+      "correctAnswer": "以前の関係を再検討する",
+      "explanation": "「revisit」は「再訪する」「再検討する」という意味で、「attachment」はここでは「関係」「愛着」を指します。過去に性的関係があったLeonardに対し、再び関係を持つことを婉曲的に提案しています。"
+    },
+    {
+      "id": 31,
+      "value": "bout of stress release",
+      "options": [
+        "ストレス解消の時間",
+        "新しい趣味",
+        "休暇",
+        "運動療法"
+      ],
+      "correctAnswer": "ストレス解消の時間",
+      "explanation": "「bout」は「短い期間」や「発作」という意味で、ここでは一時的な「ストレス解消」のための性行為を指します。Leslieが以前Leonardとしていたような、カジュアルな関係を指しています。"
+    },
+    {
+      "id": 32,
+      "value": "casual sex",
+      "options": [
+        "結婚",
+        "友人との交流",
+        "カジュアルな性行為",
+        "仕事上の関係"
+      ],
+      "correctAnswer": "カジュアルな性行為",
+      "explanation": "「casual sex」は、愛情や長期的な関係を伴わない、一時的な性行為を指します。Leslieは過去にそのような関係を持っていたことを示唆し、今後はそういった関係をしないと述べています。"
+    },
+    {
+      "id": 33,
+      "value": "traditional relationship paradigm",
+      "options": [
+        "伝統的な人間関係",
+        "斬新なビジネスモデル",
+        "最新の科学理論",
+        "過去の恋愛遍歴"
+      ],
+      "correctAnswer": "伝統的な人間関係",
+      "explanation": "「paradigm」は「典型的なパターン」や「枠組み」という意味です。「traditional relationship paradigm」は、結婚を前提とした、長期的な、一対一の恋愛関係という、伝統的な考え方を指します。"
+    },
+    {
+      "id": 34,
+      "value": "waking up on a strange futon",
+      "options": [
+        "快適なベッドで目覚める",
+        "見知らぬ布団で目覚める",
+        "高級ホテルで目覚める",
+        "自分の家で目覚める"
+      ],
+      "correctAnswer": "見知らぬ布団で目覚める",
+      "explanation": "「futon」は日本の布団を指しますが、ここでは見知らぬ場所で目覚めるという状況を表しています。Leslieは一夜限りの関係を重ねた結果、見知らぬ場所で目覚めることが多かったと述べています。"
+    },
+    {
+      "id": 35,
+      "value": "slow things down",
+      "options": [
+        "問題を解決する",
+        "作業を効率化する",
+        "物事をゆっくり進める",
+        "運動する"
+      ],
+      "correctAnswer": "物事をゆっくり進める",
+      "explanation": "「slow things down」は、関係や状況を急がずに、慎重に進めることを意味します。LeslieはLeonardとの関係を、時間をかけてじっくりと育てていきたいと考えています。"
+    },
+    {
+      "id": 36,
+      "value": "assume the male role",
+      "options": [
+        "女性の役割を演じる",
+        "男性の役割を演じる",
+        "中立的な立場を取る",
+        "傍観者になる"
+      ],
+      "correctAnswer": "男性の役割を演じる",
+      "explanation": "「assume the male role」は、デートの計画やリードなど、伝統的に男性が担う役割をLeonardが果たすことを期待していることを意味します。Leslieは、Leonardに主導権を握ってほしいと考えています。"
+    },
+    {
+      "id": 37,
+      "value": "break out",
+      "options": [
+        "壊す",
+        "始める",
+        "隠す",
+        "修理する"
+      ],
+      "correctAnswer": "始める",
+      "explanation": "「break out」は、ここでは何かを取り出して使い始める、または新しい活動を始めるという意味です。ここでは、古いゲーム機を取り出して遊ぶことを指します。例文：Let's break out the champagne and celebrate!（シャンパンを開けてお祝いしましょう！）"
+    },
+    {
+      "id": 38,
+      "value": "rock Mario old school",
+      "options": [
+        "最新のマリオをプレイする",
+        "昔ながらのマリオをプレイする",
+        "マリオの映画を見る",
+        "マリオの音楽を聴く"
+      ],
+      "correctAnswer": "昔ながらのマリオをプレイする",
+      "explanation": "「old school」は、昔ながらのやり方やスタイルを指します。ここでは、昔懐かしいマリオのゲームをプレイすることを意味します。Sheldonは、最新のゲームではなく、昔のゲームを好むようです。"
+    },
+    {
+      "id": 39,
+      "value": "pick up where I left off",
+      "options": [
+        "最初からやり直す",
+        "中断したところから再開する",
+        "完全に諦める",
+        "別のゲームを始める"
+      ],
+      "correctAnswer": "中断したところから再開する",
+      "explanation": "「pick up where I left off」は、中断していたことを再開することを意味します。ここでは、以前プレイしていたゲームの続きからプレイすることを指します。例文：After the vacation, I'll pick up where I left off with my work. (休暇後、仕事に復帰して中断したところから再開します。)"
+    },
+    {
+      "id": 40,
+      "value": "pernicious anaemia",
+      "options": [
+        "悪性貧血",
+        "糖尿病",
+        "風邪",
+        "骨折"
+      ],
+      "correctAnswer": "悪性貧血",
+      "explanation": "「pernicious anaemia」は、ビタミンB12の吸収不良によって引き起こされる貧血の一種です。Sheldonは過去にこの病気を患っていたことを明かしています。"
+    },
+    {
+      "id": 41,
+      "value": "the more the merrier",
+      "options": [
+        "多ければ多いほど良い",
+        "少なければ少ないほど良い",
+        "一人の方が気楽だ",
+        "どちらでも構わない"
+      ],
+      "correctAnswer": "多ければ多いほど良い",
+      "explanation": "「the more the merrier」は、人が多ければ多いほど楽しいという意味の慣用句です。Leonardのデートに自分が加わることをSheldonが提案しています。"
+    },
+    {
+      "id": 42,
+      "value": "jump to that conclusion",
+      "options": [
+        "その結論に飛びつく",
+        "その結論を避ける",
+        "その結論に同意する",
+        "その結論を無視する"
+      ],
+      "correctAnswer": "その結論に飛びつく",
+      "explanation": "「jump to conclusion」は、早まって結論を出すという意味です。ここでは、Leonardがデートをするという結論にSheldonがすぐに至らなかったことを表しています。"
+    },
+    {
+      "id": 43,
+      "value": "make yourself scarce",
+      "options": [
+        "目立つようにする",
+        "姿を消す",
+        "手伝う",
+        "騒ぎ立てる"
+      ],
+      "correctAnswer": "姿を消す",
+      "explanation": "「make yourself scarce」は、邪魔にならないように、その場から立ち去る、または姿を隠すことを意味します。LeonardはSheldonに、デートの邪魔をしないように頼んでいます。"
+    },
+    {
+      "id": 44,
+      "value": "published theoretical physicist",
+      "options": [
+        "無名の科学者",
+        "有名な理論物理学者",
+        "実験物理学者",
+        "高校教師"
+      ],
+      "correctAnswer": "有名な理論物理学者",
+      "explanation": "「published」は「出版された」という意味で、「theoretical physicist」は「理論物理学者」を指します。Sheldonは、自分が論文を発表している著名な理論物理学者であることを強調しています。"
+    },
+    {
+      "id": 45,
+      "value": "doctorates",
+      "options": [
+        "学士号",
+        "修士号",
+        "博士号",
+        "専門学校卒業"
+      ],
+      "correctAnswer": "博士号",
+      "explanation": "「doctorate」は博士号を意味します。Sheldonは自分が二つの博士号を持っていることを自慢しています。"
+    },
+    {
+      "id": 46,
+      "value": "make yourself scarce",
+      "options": [
+        "目立つようにする",
+        "姿を消す",
+        "手伝う",
+        "騒ぎ立てる"
+      ],
+      "correctAnswer": "姿を消す",
+      "explanation": "「make yourself scarce」は、邪魔にならないように、その場から立ち去る、または姿を隠すことを意味します。LeonardはSheldonに、デートの邪魔をしないように頼んでいます。"
+    },
+    {
+      "id": 47,
+      "value": "get out of your way",
+      "options": [
+        "邪魔をする",
+        "手伝う",
+        "邪魔をしない",
+        "無視する"
+      ],
+      "correctAnswer": "邪魔をしない",
+      "explanation": "「get out of someone's way」は、人の邪魔をしない、進路を妨げないという意味です。Leonardは、Sheldonがデートをする際に邪魔しないと言っています。"
+    },
+    {
+      "id": 48,
+      "value": "exiled to the Elba",
+      "options": [
+        "天国に追放された",
+        "エルバ島に追放された",
+        "豪華な宮殿に住んでいる",
+        "故郷に帰った"
+      ],
+      "correctAnswer": "エルバ島に追放された",
+      "explanation": "「exile」は追放を意味し、エルバ島はナポレオンが最初に追放された島です。Sheldonは、Leonardに追い出された状況を、ナポレオンの追放になぞらえて表現しています。"
+    },
+    {
+      "id": 49,
+      "value": "administer the Heimlich manoeuvre",
+      "options": [
+        "人工呼吸をする",
+        "ハイムリック法を行う",
+        "心臓マッサージをする",
+        "救急車を呼ぶ"
+      ],
+      "correctAnswer": "ハイムリック法を行う",
+      "explanation": "「Heimlich manoeuvre」は、喉に物が詰まった人を助けるための応急処置法であるハイムリック法を指します。Sheldonは、一人で映画館に行った際に喉を詰まらせた場合に備えて、誰かに助けてもらいたいと考えています。"
+    },
+    {
+      "id": 50,
+      "value": "listen to yourself",
+      "options": [
+        "相手の言うことを聞く",
+        "自分の本心に耳を傾ける",
+        "音楽を聴く",
+        "アドバイスを求める"
+      ],
+      "correctAnswer": "自分の本心に耳を傾ける",
+      "explanation": "「listen to yourself」は、自分の言っていることや考えていることに注意を払い、矛盾や不合理な点がないか確認することを促す表現です。Pennyは、Sheldonの言い分が矛盾していることを指摘するためにこの言葉を使っています。"
+    },
+    {
+      "id": 51,
+      "value": "overrated",
+      "options": [
+        "過大評価された",
+        "過小評価された",
+        "無視された",
+        "平均的な"
+      ],
+      "correctAnswer": "過大評価された",
+      "explanation": "「overrated」は、実際よりも高く評価されている、という意味です。人、物、場所など、様々な対象に使われます。しばしば、期待外れだったり、実際にはそれほど良くなかったりする場合に使われます。例：That movie was so overrated. (あの映画は過大評価されすぎだ。)"
+    },
+    {
+      "id": 52,
+      "value": "make a contribution to",
+      "options": [
+        "貢献する",
+        "邪魔する",
+        "無駄にする",
+        "注目する"
+      ],
+      "correctAnswer": "貢献する",
+      "explanation": "「make a contribution to」は、何かに貢献する、寄与するという意味です。学術的な研究、社会的な活動、プロジェクトなど、さまざまな分野で使われます。例：He made a significant contribution to the field of medicine. (彼は医学の分野に多大な貢献をした。)"
+    },
+    {
+      "id": 53,
+      "value": "resume",
+      "options": [
+        "中断する",
+        "再開する",
+        "要約する",
+        "開始する"
+      ],
+      "correctAnswer": "再開する",
+      "explanation": "「resume」は、中断していたことを再開するという意味です。会議、活動、関係など、さまざまな状況で使用されます。発音は「リジューム」となります。例：Let's resume our discussion after the break. (休憩後に議論を再開しましょう。)"
+    },
+    {
+      "id": 54,
+      "value": "enabling",
+      "options": [
+        "妨害する",
+        "手助けする",
+        "強制する",
+        "無視する"
+      ],
+      "correctAnswer": "手助けする",
+      "explanation": "「enable」は、可能にする、できるようにするという意味ですが、「enabling」は、依存症や悪い習慣を助長する、という意味合いで使われることがあります。この文脈では、レナードの行動を助長しているという意味になります。例：His parents were enabling his drug addiction. (彼の両親は彼の薬物中毒を助長していた。)"
+    },
+    {
+      "id": 55,
+      "value": "abrupt",
+      "options": [
+        "突然の",
+        "丁寧な",
+        "ゆっくりな",
+        "計画的な"
+      ],
+      "correctAnswer": "突然の",
+      "explanation": "「abrupt」は、突然の、予期しない、という意味です。行動、発言、変化など、様々な対象に使われます。しばしば、無愛想な印象を与えることがあります。例：The meeting came to an abrupt end. (会議は突然終わった。)"
+    },
+    {
+      "id": 56,
+      "value": "reproduction",
+      "options": [
+        "消費",
+        "生産",
+        "破壊",
+        "再生"
+      ],
+      "correctAnswer": "生産",
+      "explanation": "「reproduction」は、生物学的な意味では繁殖、生殖を意味します。この文脈では、子供を作る、という意味で使われています。例：Sexual reproduction is common in mammals. (有性生殖は哺乳類によく見られる。)"
+    },
+    {
+      "id": 57,
+      "value": "lactose intolerance",
+      "options": [
+        "乳糖不耐症",
+        "高血圧",
+        "糖尿病",
+        "喘息"
+      ],
+      "correctAnswer": "乳糖不耐症",
+      "explanation": "「lactose intolerance」は、乳糖不耐症という意味です。乳製品に含まれる乳糖を消化できない体質のことです。例：Many people suffer from lactose intolerance. (多くの人が乳糖不耐症に苦しんでいる。)"
+    },
+    {
+      "id": 58,
+      "value": "male pattern baldness",
+      "options": [
+        "女性型脱毛症",
+        "男性型脱毛症",
+        "円形脱毛症",
+        "粃糠性脱毛症"
+      ],
+      "correctAnswer": "男性型脱毛症",
+      "explanation": "「male pattern baldness」は、男性型脱毛症という意味です。遺伝的な要因や男性ホルモンの影響で起こる脱毛症です。例：Male pattern baldness is a common condition. (男性型脱毛症は一般的な症状です。)"
+    },
+    {
+      "id": 59,
+      "value": "trails after",
+      "options": [
+        "急いで追いかける",
+        "ゆっくりと後に続く",
+        "無視する",
+        "置き去りにする"
+      ],
+      "correctAnswer": "ゆっくりと後に続く",
+      "explanation": "「trail after」は、何かが（人や物の）後ろに長く伸びて続く、という意味です。ここでは、延長コードがシェルドンの後についてくる様子を表しています。例：The dog trailed after its owner. (犬は飼い主の後に続いた。)"
+    },
+    {
+      "id": 60,
+      "value": "eccentric",
+      "options": [
+        "中心的な",
+        "普通な",
+        "偏心的な",
+        "重要な"
+      ],
+      "correctAnswer": "偏心的な",
+      "explanation": "「eccentric」は、風変わりな、奇妙な、という意味です。行動や性格が普通とは異なる人を指すことが多いです。例：He is a bit of an eccentric. (彼は少し風変わりだ。)"
+    },
+    {
+      "id": 61,
+      "value": "passive-aggressive",
+      "options": [
+        "積極的な",
+        "攻撃的な",
+        "受動攻撃的な",
+        "友好的な"
+      ],
+      "correctAnswer": "受動攻撃的な",
+      "explanation": "「passive-aggressive」は、受動攻撃的な、という意味です。直接的に怒りや不満を表現するのではなく、間接的な方法で表現する性格傾向を指します。例：His passive-aggressive behavior made it difficult to work with him. (彼の受動攻撃的な行動は、彼との協力を困難にした。)"
+    },
+    {
+      "id": 62,
+      "value": "blowhole",
+      "options": [
+        "噴気孔",
+        "ブラックホール",
+        "落とし穴",
+        "扇風機"
+      ],
+      "correctAnswer": "噴気孔",
+      "explanation": "「blowhole」は、ここでは比喩的に、不満や文句を言い続ける人を指すスラングとして使われています。クジラの噴気孔のように、常に何かを噴き出しているイメージです。例：Don't be such a blowhole! (そんなに文句ばかり言うな！)"
+    },
+    {
+      "id": 63,
+      "value": "viability test",
+      "options": [
+        "実現可能性テスト",
+        "信頼性テスト",
+        "耐久性テスト",
+        "有害性テスト"
+      ],
+      "correctAnswer": "実現可能性テスト",
+      "explanation": "「viability test」は、実現可能性テストという意味です。ここでは、関係が長続きするかどうかを試す、という意味で使われています。例：The company conducted a viability test before launching the new product. (会社は新製品発売前に実現可能性テストを実施した。)"
+    },
+    {
+      "id": 64,
+      "value": "protocol dictates",
+      "options": [
+        "プロトコルが禁止する",
+        "プロトコルが規定する",
+        "プロトコルが推奨する",
+        "プロトコルが無視する"
+      ],
+      "correctAnswer": "プロトコルが規定する",
+      "explanation": "「protocol dictates」は、プロトコル（礼儀作法、手順）が～を規定する、という意味です。フォーマルな状況や、ルールが定められている状況で使われます。例：Protocol dictates that you should wait for the host to start eating. (プロトコルでは、主催者が食べ始めるのを待つべきだと規定されている。)"
+    },
+    {
+      "id": 65,
+      "value": "repulsed",
+      "options": [
+        "引き付けられた",
+        "嫌悪感を抱いた",
+        "興味を持った",
+        "安心した"
+      ],
+      "correctAnswer": "嫌悪感を抱いた",
+      "explanation": "「repulsed」は、嫌悪感を抱いた、反発した、という意味です。強い不快感を表す言葉です。例：She was repulsed by the sight of the cockroach. (彼女はゴキブリを見て嫌悪感を抱いた。)"
+    },
+    {
+      "id": 66,
+      "value": "cloying eagerness",
+      "options": [
+        "控えめな熱意",
+        "しつこい熱意",
+        "冷淡な熱意",
+        "適切な熱意"
+      ],
+      "correctAnswer": "しつこい熱意",
+      "explanation": "「cloying eagerness」は、しつこい熱意、という意味です。度が過ぎていて、うんざりするような熱意を表します。例：His cloying eagerness to please everyone was off-putting. (彼の誰にでも気に入られようとするしつこい熱意は、人をうんざりさせた。)"
+    },
+    {
+      "id": 67,
+      "value": "ciao",
+      "options": [
+        "おはよう",
+        "こんにちは",
+        "こんばんは",
+        "さようなら"
+      ],
+      "correctAnswer": "さようなら",
+      "explanation": "「ciao」は、イタリア語で「こんにちは」または「さようなら」という意味です。カジュアルな挨拶として使われます。例：Ciao! See you later. (チャオ！またね。)"
+    },
+    {
+      "id": 68,
+      "value": "anomalies",
+      "options": [
+        "規則性",
+        "異常",
+        "類似点",
+        "標準"
+      ],
+      "correctAnswer": "異常",
+      "explanation": "「anomaly」は、異常、例外、という意味です。ここでは、歴史的な矛盾や不自然さを指しています。例：There were several anomalies in the data. (データにはいくつかの異常が見られた。)"
+    },
+    {
+      "id": 69,
+      "value": "fascinating",
+      "options": [
+        "退屈な",
+        "興味深い",
+        "不快な",
+        "恐ろしい"
+      ],
+      "correctAnswer": "興味深い",
+      "explanation": "「fascinating」は、非常に興味深い、魅力的な、という意味です。人を強く引きつけるような魅力がある場合に用いられます。例：The documentary was absolutely fascinating. (そのドキュメンタリーは非常に興味深かった。)"
+    },
+    {
+      "id": 70,
+      "value": "fellow",
+      "options": [
+        "敵",
+        "仲間",
+        "上司",
+        "部下"
+      ],
+      "correctAnswer": "仲間",
+      "explanation": "「fellow」は、仲間、同僚、という意味です。同じような立場や職業の人を指すことが多いです。例：He is a fellow scientist. (彼は科学者の仲間だ。)"
+    },
+    {
+      "id": 71,
+      "value": "methodology",
+      "options": [
+        "方法論",
+        "結論",
+        "仮説",
+        "データ"
+      ],
+      "correctAnswer": "方法論",
+      "explanation": "「methodology」は、方法論、という意味です。特定の問題を解決するための体系的なアプローチを指します。例：The researcher used a rigorous methodology. (研究者は厳密な方法論を用いた。)"
+    },
+    {
+      "id": 72,
+      "value": "colleague",
+      "options": [
+        "ライバル",
+        "同僚",
+        "友人",
+        "家族"
+      ],
+      "correctAnswer": "同僚",
+      "explanation": "「colleague」は、同僚、仕事仲間、という意味です。同じ職場や分野で働く人を指します。例：She is a valued colleague. (彼女は貴重な同僚だ。)"
+    },
+    {
+      "id": 73,
+      "value": "roommate",
+      "options": [
+        "隣人",
+        "ルームメイト",
+        "家族",
+        "友人"
+      ],
+      "correctAnswer": "ルームメイト",
+      "explanation": "「roommate」は、ルームメイト、同居人、という意味です。同じ部屋や家を共有する人を指します。例：He is my roommate. (彼は私のルームメイトだ。)"
+    },
+    {
+      "id": 74,
+      "value": "make this hard for me",
+      "options": [
+        "私を助けてください",
+        "私を困らせないでください",
+        "私を幸せにしてください",
+        "私を無視してください"
+      ],
+      "correctAnswer": "私を困らせないでください",
+      "explanation": "「Don't make this hard for me」は、私を困らせないで、という意味です。困難な状況に置かれている人が、相手に協力や理解を求める際に使います。例：Please, don't make this hard for me. I'm already stressed. (お願いだから、私を困らせないで。もうすでにストレスがたまっているんだ。)"
+    },
+    {
+      "id": 75,
+      "value": "Renaissance Fair",
+      "options": [
+        "現代美術館",
+        "ルネサンス祭",
+        "宇宙博覧会",
+        "科学技術館"
+      ],
+      "correctAnswer": "ルネサンス祭",
+      "explanation": "「Renaissance Fair」は、ルネサンス祭、という意味です。ルネサンス時代の文化や生活を再現したイベントです。コスプレや中世のゲーム、工芸品などが楽しめます。例：We're going to the Renaissance Fair this weekend. (週末にルネサンス祭に行く予定です。)"
+    },
+    {
+      "id": 76,
+      "value": "Mixing it up?",
+      "options": [
+        "混乱させる",
+        "混ぜ合わせる",
+        "変化をつける",
+        "解決する"
+      ],
+      "correctAnswer": "変化をつける",
+      "explanation": "「Mix it up」は、普段と違うことをする、変化を加える、新しいことを試すという意味です。日常的な行動や習慣に変化を加えたいときに使われます。たとえば、いつも同じレストランに行く代わりに、新しいレストランを試す場合などに使います。類似表現として「shake things up」があります。"
+    },
+    {
+      "id": 77,
+      "value": "gave it the old college try",
+      "options": [
+        "大学生活をやり直す",
+        "全力を尽くす",
+        "大学時代の友人に頼る",
+        "大学の講義を受ける"
+      ],
+      "correctAnswer": "全力を尽くす",
+      "explanation": "「give it the old college try」は、困難な状況や課題に対して、できる限りの努力をする、全力を尽くすという意味です。特に、成功するかどうかわからない状況で、持てる力を出し切る様子を表します。背景として、アメリカの大学スポーツで選手が全力を尽くす様子から来ています。"
+    },
+    {
+      "id": 78,
+      "value": "arch enemy",
+      "options": [
+        "古代の敵",
+        "宿敵",
+        "友好的なライバル",
+        "尊敬する相手"
+      ],
+      "correctAnswer": "宿敵",
+      "explanation": "「arch-enemy」は、長年の敵、宿敵、最大の敵という意味です。特に、個人的な対立や競争関係にある相手を指します。スーパーヒーローと悪役の関係のように、物語やフィクションでよく使われますが、現実の社会でも比喩的に使われることがあります。"
+    },
+    {
+      "id": 79,
+      "value": "losing me",
+      "options": [
+        "私を失う",
+        "理解できなくなる",
+        "迷子になる",
+        "興味を失う"
+      ],
+      "correctAnswer": "理解できなくなる",
+      "explanation": "「You're losing me.」は、相手の話が難解で理解できなくなっている、または話が脱線していてついていけなくなっているという意味です。会話の流れについていけなくなったときに使います。同様の意味で、「I'm lost.」という表現も使えます。"
+    },
+    {
+      "id": 80,
+      "value": "ill considered",
+      "options": [
+        "病気を考慮した",
+        "十分に考慮されていない",
+        "違法に考慮した",
+        "よく考えられた"
+      ],
+      "correctAnswer": "十分に考慮されていない",
+      "explanation": "「ill-considered」は、十分に考慮されていない、軽率な、という意味です。計画や行動が不注意であり、結果をよく考えずに実行されたことを示します。類似の表現として「poorly thought out」があります。"
+    },
+    {
+      "id": 81,
+      "value": "trumps",
+      "options": [
+        "勝利する",
+        "切り札",
+        "打ち負かす",
+        "旅行する"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "「trump」は、ここでは「打ち負かす、勝る」という意味で使われています。トランプゲームで切り札が他のカードよりも強いことから来ています。比喩的に、ある要素が他の要素よりも重要である、または優先される状況を表します。例えば、「Love trumps hate.（愛は憎しみに勝る）」のように使われます。"
+    },
+    {
+      "id": 82,
+      "value": "natural stopping point",
+      "options": [
+        "自然な休憩場所",
+        "当然の目的地",
+        "自然な終わり",
+        "人工的な停止点"
+      ],
+      "correctAnswer": "自然な終わり",
+      "explanation": "「natural stopping point」は、物事が自然に終わる時点、または中断するのに適切な時点という意味です。特に、活動やプロセスが円滑に終了する場面を指します。例えば、会話や作業が一段落するタイミングなどで使われます。"
+    },
+    {
+      "id": 83,
+      "value": "sub-par",
+      "options": [
+        "平均以上",
+        "標準以下",
+        "優れた",
+        "同等"
+      ],
+      "correctAnswer": "標準以下",
+      "explanation": "「subpar」は、標準以下の、期待に満たないという意味です。品質、能力、パフォーマンスなどが平均水準を下回ることを指します。例えば、「a subpar performance（標準以下のパフォーマンス）」のように使われます。"
+    },
+    {
+      "id": 84,
+      "value": "Hang on a second.",
+      "options": [
+        "しばらく待って",
+        "二番目にぶら下がる",
+        "電話を切る",
+        "もう一度繰り返す"
+      ],
+      "correctAnswer": "しばらく待って",
+      "explanation": "「Hang on a second.」は、少し待って、ちょっと待ってという意味です。相手に一時的に待ってもらいたいときに使います。電話での会話でよく使われる表現ですが、直接会って話しているときにも使えます。類似表現として「Hold on a moment.」があります。"
+    },
+    {
+      "id": 85,
+      "value": "amuse me",
+      "options": [
+        "私を楽しませて",
+        "私を混乱させて",
+        "私を怒らせて",
+        "私を無視して"
+      ],
+      "correctAnswer": "私を楽しませて",
+      "explanation": "「Amuse me」は、私を楽しませて、面白いことを言って、という意味です。相手に何か面白い話や興味深い情報を提供してほしいときに使います。皮肉なニュアンスを含むこともあります。例えば、退屈な状況で相手に「Amuse me」と言うと、「何か面白いこと言ってよ」というニュアンスになります。"
+    },
+    {
+      "id": 86,
+      "value": "Balderdash",
+      "options": [
+        "お世辞",
+        "ナンセンス",
+        "真実",
+        "感謝"
+      ],
+      "correctAnswer": "ナンセンス",
+      "explanation": "「Balderdash」は、ナンセンス、ばかげたこと、という意味です。話やアイデアが全くのデタラメであると強く否定するときに使います。やや古風な表現で、フォーマルな場面ではあまり使いません。類似の表現として「nonsense」、「rubbish」があります。"
+    },
+    {
+      "id": 87,
+      "value": "merit",
+      "options": [
+        "欠点",
+        "長所",
+        "平均",
+        "合計"
+      ],
+      "correctAnswer": "長所",
+      "explanation": "「Merit」は、長所、美点、価値という意味です。物事の良い点や評価に値する点を指します。例えば、「The plan has some merit.（その計画にはいくつかの長所がある）」のように使われます。"
+    },
+    {
+      "id": 88,
+      "value": "derision",
+      "options": [
+        "尊敬",
+        "嘲笑",
+        "喜び",
+        "悲しみ"
+      ],
+      "correctAnswer": "嘲笑",
+      "explanation": "「Derision」は、嘲笑、軽蔑という意味です。相手を馬鹿にする態度や言葉を表します。例えば、「His speech was met with derision.（彼のスピーチは嘲笑を浴びた）」のように使われます。名詞として使われ、動詞は「deride」です。"
+    },
+    {
+      "id": 89,
+      "value": "went any further",
+      "options": [
+        "もっと遠くまで行った",
+        "さらに進展した",
+        "過去に戻った",
+        "道を間違えた"
+      ],
+      "correctAnswer": "さらに進展した",
+      "explanation": "「went any further」は、ここでは「（関係が）さらに進展する」という意味で使われています。物事が今の状態よりもさらに進む、発展するという意味合いです。特に、恋愛関係やビジネスの交渉などが深まる状況を指します。"
+    },
+    {
+      "id": 90,
+      "value": "no big deal",
+      "options": [
+        "大きな取引",
+        "何でもないこと",
+        "重要な問題",
+        "秘密の取引"
+      ],
+      "correctAnswer": "何でもないこと",
+      "explanation": "「no big deal」は、大したことない、何でもない、という意味です。問題や状況が深刻ではない、または重要ではないことを伝えたいときに使います。例えば、小さなミスをしたときに「It's no big deal.（大したことじゃないよ）」と言うことがあります。"
+    },
+    {
+      "id": 91,
+      "value": "deal breaker",
+      "options": [
+        "取引成立",
+        "取引妨害",
+        "合意形成",
+        "問題解決"
+      ],
+      "correctAnswer": "取引妨害",
+      "explanation": "「deal breaker」は、取引や合意を破棄させる要因、妥協できない点という意味です。交渉や関係において、これがあると合意に至らないという決定的な要素を指します。例えば、ビジネスの交渉で価格が合わない場合、「The price is a deal breaker.（価格が合意できない点だ）」のように使われます。"
+    },
+    {
+      "id": 92,
+      "value": "look on the bright side",
+      "options": [
+        "明るい面を見る",
+        "暗い面を見る",
+        "側面を無視する",
+        "過去を振り返る"
+      ],
+      "correctAnswer": "明るい面を見る",
+      "explanation": "「look on the bright side」は、明るい面を見る、良い面を探すという意味です。困難な状況や不快な出来事があったときに、希望やポジティブな側面を見つけようとすることを促す表現です。類似の表現として「see the glass as half full」があります。"
+    },
+    {
+      "id": 93,
+      "value": "temporal anomaly",
+      "options": [
+        "時間的な異常",
+        "空間的な異常",
+        "一時的な解決策",
+        "永遠の謎"
+      ],
+      "correctAnswer": "時間的な異常",
+      "explanation": "「temporal anomaly」は、時間的な異常、時間的矛盾という意味です。SF作品などで、時間軸にずれや矛盾が生じる現象を指します。例えば、過去に存在しないはずのものが存在する場合などが該当します。時間旅行やタイムパラドックスと関連して使われることが多いです。"
+    },
+    {
+      "id": 94,
+      "value": "Do you know",
+      "options": [
+        "あなたは知っていますか",
+        "ご存知ですか",
+        "知るべきです",
+        "知る必要はありません"
+      ],
+      "correctAnswer": "ご存知ですか",
+      "explanation": "「Do you know」は、ご存知ですか、知っていますか、という意味です。相手に何か情報を提供したり、質問をする前に、相手がその情報を知っているかどうかを確認するために使います。より丁寧な言い方として、「Are you aware」があります。"
+    },
+    {
+      "id": 95,
+      "value": "are just going to stay friends",
+      "options": [
+        "友達のままでいる",
+        "友達以上になる",
+        "友達を続ける",
+        "友達をやめる"
+      ],
+      "correctAnswer": "友達のままでいる",
+      "explanation": "「are just going to stay friends」は、友達のままでいる、という意味です。恋愛関係に進展せずに、友人としての関係を維持することを意味します。例えば、失恋後に「We decided to stay friends.（私たちは友達のままでいることに決めた）」のように使われます。"
+    },
+    {
+      "id": 96,
+      "value": "making stuff up",
+      "options": [
+        "物を作る",
+        "嘘をつく",
+        "片付ける",
+        "化粧をする"
+      ],
+      "correctAnswer": "嘘をつく",
+      "explanation": "「making stuff up」は、作り話をする、嘘をつくという意味です。事実ではないことをでっち上げたり、話を誇張したりする状況を指します。例えば、「He was just making stuff up to impress her.（彼は彼女を感心させるために嘘をついていた）」のように使われます。"
+    },
+    {
+      "id": 97,
+      "value": "have a word",
+      "options": [
+        "単語を持つ",
+        "一言言う",
+        "言葉を失う",
+        "言葉を選ぶ"
+      ],
+      "correctAnswer": "一言言う",
+      "explanation": "「have a word」は、一言言う、少し話をするという意味です。誰かに何かを伝えたいときや、軽い注意をしたいときに使います。例えば、「Can I have a word with you?（少しお話できますか？）」のように使われます。"
+    },
+    {
+      "id": 98,
+      "value": "apparently",
+      "options": [
+        "明らかに",
+        "どうやら",
+        "秘密裏に",
+        "故意に"
+      ],
+      "correctAnswer": "どうやら",
+      "explanation": "「apparently」は、どうやら、見たところ、〜らしいという意味です。直接的な証拠はないものの、状況から判断してそう思われるときに使います。例えば、「Apparently, it's going to rain tomorrow.（どうやら明日は雨らしい）」のように使われます。"
+    },
+    {
+      "id": 99,
+      "value": "for one thing",
+      "options": [
+        "一つのこととして",
+        "何よりもまず",
+        "共通して",
+        "例えば"
+      ],
+      "correctAnswer": "何よりもまず",
+      "explanation": "「for one thing」は、一つには、何よりもまず、という意味です。複数の理由や例を挙げる際に、最初の理由や例を紹介するときに使います。例えば、「I don't want to go there, for one thing, it's too expensive.（そこには行きたくない、一つには、高すぎるからだ）」のように使われます。"
+    },
+    {
+      "id": 100,
+      "value": "Storms off",
+      "options": [
+        "嵐が去る",
+        "激怒して立ち去る",
+        "嵐を乗り越える",
+        "冷静になる"
+      ],
+      "correctAnswer": "激怒して立ち去る",
+      "explanation": "「Storm off」は、怒って、または不機嫌そうに立ち去るという意味です。感情が高ぶった状態で、激しい足取りでその場を離れる様子を表します。例えば、「She stormed off after the argument.（彼女は口論の後、怒って立ち去った）」のように使われます。"
+    }
+  ]
+}

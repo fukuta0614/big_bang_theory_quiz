@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "idiosyncrasies",
+      "options": [
+        "一般的な特徴",
+        "客観的な事実",
+        "個人的な癖",
+        "普遍的な真理"
+      ],
+      "correctAnswer": "個人的な癖",
+      "explanation": "「idiosyncrasy」は、ある人やグループに特有の、普通とは少し違った行動、習慣、または特徴を指します。この単語は、他とは異なる独特な個性を表現する際に用いられます。例文：His only idiosyncrasy was his habit of drinking tea from a saucer. (彼の唯一の癖は、受け皿からお茶を飲む習慣だった。)"
+    },
+    {
+      "id": 2,
+      "value": "fluent",
+      "options": [
+        "流暢な",
+        "簡単な",
+        "複雑な",
+        "退屈な"
+      ],
+      "correctAnswer": "流暢な",
+      "explanation": "「fluent」は、言語を滑らかに、自然に話したり書いたりできる能力を指します。また、比喩的に、何かの分野に精通している、熟達しているという意味でも使われます。例文：She is fluent in three languages. (彼女は3ヶ国語を流暢に話せる。)"
+    },
+    {
+      "id": 3,
+      "value": "passing off",
+      "options": [
+        "見過ごす",
+        "偽って売る",
+        "通り過ぎる",
+        "偶然出会う"
+      ],
+      "correctAnswer": "偽って売る",
+      "explanation": "「pass off」は、何かを実際とは異なるものとして提示する、特に詐欺的な意図を持って何かを偽るという意味です。例文：They were passing off cheap wine as expensive champagne. (彼らは安物のワインを高価なシャンパンとして偽って売っていた。)"
+    },
+    {
+      "id": 4,
+      "value": "concerned by",
+      "options": [
+        "満足している",
+        "困惑している",
+        "心配している",
+        "興味がない"
+      ],
+      "correctAnswer": "心配している",
+      "explanation": "「concerned by」は、何かに不安や懸念を感じている状態を表します。例文：I'm concerned by the lack of progress on this project. (このプロジェクトの進捗の遅さに不安を感じています。)"
+    },
+    {
+      "id": 5,
+      "value": "storming in",
+      "options": [
+        "静かに入る",
+        "嵐の中を歩く",
+        "激怒して入る",
+        "ゆっくりと入る"
+      ],
+      "correctAnswer": "激怒して入る",
+      "explanation": "「storm in」は、怒りや興奮などの強い感情を持って、勢いよく部屋に入ってくる様子を表します。例文：She stormed into the office, demanding to speak to the manager. (彼女は怒ってオフィスに飛び込み、マネージャーと話したいと要求した。)"
+    },
+    {
+      "id": 6,
+      "value": "self-centred",
+      "options": [
+        "自己中心的",
+        "思いやりがある",
+        "謙虚",
+        "社交的"
+      ],
+      "correctAnswer": "自己中心的",
+      "explanation": "「self-centred」は、自分のことばかり考えて他人のことをあまり気にかけない人を指します。例文：He's so self-centred that he never asks about anyone else's day. (彼はとても自己中心的で、他の人の一日について決して尋ねない。)"
+    },
+    {
+      "id": 7,
+      "value": "drop dead",
+      "options": [
+        "静かにする",
+        "死んでしまえ",
+        "立ち去る",
+        "落ち着く"
+      ],
+      "correctAnswer": "死んでしまえ",
+      "explanation": "「Drop dead」は、非常に強い不快感や怒りを表現する際に使われる侮辱的な表現です。相手に対して文字通り死んでほしいと願うわけではなく、強い嫌悪感を示すスラングです。例文：After their argument, she told him to drop dead. (彼らの口論の後、彼女は彼に死んでしまえと言った。)"
+    },
+    {
+      "id": 8,
+      "value": "breaking up with",
+      "options": [
+        "仲直りする",
+        "別れる",
+        "結婚する",
+        "友達になる"
+      ],
+      "correctAnswer": "別れる",
+      "explanation": "「break up with」は、恋人関係を終わらせる、別れるという意味です。例文：She broke up with her boyfriend last week. (彼女は先週、彼氏と別れた。)"
+    },
+    {
+      "id": 9,
+      "value": "credence",
+      "options": [
+        "信頼性",
+        "疑念",
+        "軽視",
+        "無関心"
+      ],
+      "correctAnswer": "信頼性",
+      "explanation": "「credence」は、何かを信じる理由、信頼性、または信憑性という意味です。例文：His claims give credence to the theory. (彼の主張はその理論に信頼性を与える。)"
+    },
+    {
+      "id": 10,
+      "value": "rendered speechless",
+      "options": [
+        "饒舌になる",
+        "言葉を失う",
+        "興奮する",
+        "冷静になる"
+      ],
+      "correctAnswer": "言葉を失う",
+      "explanation": "「rendered speechless」は、驚き、ショック、または強い感情のために言葉が出なくなる状態を指します。例文：She was rendered speechless by the beauty of the scenery. (彼女はその風景の美しさに言葉を失った。)"
+    },
+    {
+      "id": 11,
+      "value": "smashed beyond repair",
+      "options": [
+        "修理可能",
+        "完全に壊れている",
+        "わずかに損傷",
+        "新品同様"
+      ],
+      "correctAnswer": "完全に壊れている",
+      "explanation": "「smashed beyond repair」は、激しく壊れていて修理できない状態を指します。例文：The vase was smashed beyond repair after it fell off the shelf. (その花瓶は棚から落ちた後、完全に壊れて修理不能になった。)"
+    },
+    {
+      "id": 12,
+      "value": "intimate details",
+      "options": [
+        "公的な情報",
+        "個人的な詳細",
+        "一般的な知識",
+        "抽象的な概念"
+      ],
+      "correctAnswer": "個人的な詳細",
+      "explanation": "「intimate details」は、非常に個人的でプライベートな情報や事柄を指します。例文：She didn't want to share the intimate details of her life with the media. (彼女は自分の人生の個人的な詳細をメディアと共有したくなかった。)"
+    },
+    {
+      "id": 13,
+      "value": "cop a feel",
+      "options": [
+        "正直に感じる",
+        "感情を抑える",
+        "不適切な接触を試みる",
+        "同情する"
+      ],
+      "correctAnswer": "不適切な接触を試みる",
+      "explanation": "「cop a feel」は、性的な意図を持って人に触れる、特に同意なしに不適切な身体的接触を試みるという意味のスラングです。例文：He tried to cop a feel while they were dancing, but she pushed him away. (彼らが踊っている間、彼は不適切な接触を試みようとしたが、彼女は彼を押し退けた。)"
+    },
+    {
+      "id": 14,
+      "value": "social convention",
+      "options": [
+        "個人的な意見",
+        "社会的な慣習",
+        "法的な義務",
+        "自然の法則"
+      ],
+      "correctAnswer": "社会的な慣習",
+      "explanation": "「social convention」は、社会で一般的に受け入れられている行動やルールのことです。例文：It's a social convention to say 'thank you' when someone helps you. (誰かが助けてくれたら「ありがとう」と言うのは社会的な慣習です。)"
+    },
+    {
+      "id": 15,
+      "value": "intervene",
+      "options": [
+        "無視する",
+        "介入する",
+        "観察する",
+        "避ける"
+      ],
+      "correctAnswer": "介入する",
+      "explanation": "「intervene」は、紛争や問題などに間に入って、影響を与えたり解決を試みたりすることを意味します。例文：The teacher intervened when the two students started arguing. (2人の生徒が言い争いを始めたとき、先生が介入した。)"
+    },
+    {
+      "id": 16,
+      "value": "damsel in distress",
+      "options": [
+        "困っている女性",
+        "勇敢な騎士",
+        "成功した実業家",
+        "平和な村"
+      ],
+      "correctAnswer": "困っている女性",
+      "explanation": "「damsel in distress」は、助けを必要としている若い女性、特に伝統的な物語や寓話に登場するような状況を指します。例文：He saw himself as the knight who had to rescue the damsel in distress. (彼は自分自身を困っている女性を救わなければならない騎士だと考えていた。)"
+    },
+    {
+      "id": 17,
+      "value": "code of chivalry",
+      "options": [
+        "暗号",
+        "騎士道",
+        "法律",
+        "倫理規定"
+      ],
+      "correctAnswer": "騎士道",
+      "explanation": "「code of chivalry」は、中世の騎士たちが従うべきとされた道徳的、社会的規範の体系です。勇気、名誉、礼儀正しさ、弱者保護などの価値を含みます。例文：The knight lived by the code of chivalry, always protecting the innocent. (その騎士は騎士道の精神に従って生き、常に罪のない人々を守った。)"
+    },
+    {
+      "id": 18,
+      "value": "to apply",
+      "options": [
+        "申し込む",
+        "適用する",
+        "無視する",
+        "質問する"
+      ],
+      "correctAnswer": "適用する",
+      "explanation": "「apply」は、規則、法律、または原則などが特定の状況や人に適用されることを意味します。例文：This rule does not apply to children under the age of 12. (この規則は12歳未満の子供には適用されません。)"
+    },
+    {
+      "id": 19,
+      "value": "take advantage of",
+      "options": [
+        "利用する",
+        "尊敬する",
+        "無視する",
+        "同情する"
+      ],
+      "correctAnswer": "利用する",
+      "explanation": "「take advantage of」は、誰かの弱みや状況につけこんで、自分にとって有利になるように利用することを意味します。例文：He took advantage of her generosity and borrowed money without intending to pay it back. (彼は彼女の寛大さを利用して、返すつもりもなくお金を借りた。)"
+    },
+    {
+      "id": 20,
+      "value": "vulnerability",
+      "options": [
+        "強さ",
+        "脆弱性",
+        "独立性",
+        "安定性"
+      ],
+      "correctAnswer": "脆弱性",
+      "explanation": "「vulnerability」は、傷つきやすさ、弱さ、または攻撃を受けやすい状態を指します。例文：The city's vulnerability to flooding was exposed after the heavy rains. (大雨の後、その都市の洪水に対する脆弱性が露呈した。)"
+    },
+    {
+      "id": 21,
+      "value": "in the depths of despair",
+      "options": [
+        "絶望の淵で",
+        "幸福の絶頂で",
+        "平穏な日々で",
+        "希望に満ち溢れて"
+      ],
+      "correctAnswer": "絶望の淵で",
+      "explanation": "「in the depths of despair」は、非常に深い絶望や悲しみの状態にあることを意味します。例文：After losing her job and her home, she was in the depths of despair. (彼女は仕事と家を失った後、絶望の淵にいた。)"
+    },
+    {
+      "id": 22,
+      "value": "throws herself at you",
+      "options": [
+        "あなたを避ける",
+        "あなたに身を委ねる",
+        "あなたを攻撃する",
+        "あなたを無視する"
+      ],
+      "correctAnswer": "あなたに身を委ねる",
+      "explanation": "「throw herself at you」は、積極的に誰かを誘惑する、または恋愛関係を始めることを意味します。特に、女性が男性に対して積極的にアプローチする状況を指すことが多いです。例文：She was clearly interested in him and practically threw herself at him. (彼女は明らかに彼に興味があり、ほとんど彼に身を委ねるようだった。)"
+    },
+    {
+      "id": 23,
+      "value": "just walk away",
+      "options": [
+        "立ち去る",
+        "近づく",
+        "助ける",
+        "戦う"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "「walk away」は、ある状況や問題から離れる、または関与しないことを意味します。例文：He decided to walk away from the argument rather than escalate it. (彼は議論をエスカレートさせるよりも、そこから立ち去ることにした。)"
+    },
+    {
+      "id": 24,
+      "value": "giant losers",
+      "options": [
+        "大きな成功者",
+        "大敗者",
+        "偉大なリーダー",
+        "幸運な人"
+      ],
+      "correctAnswer": "大敗者",
+      "explanation": "「loser」は、失敗者、うまくいかない人を指す軽蔑的な言葉です。「giant losers」は、特に大きな失敗をした人や、人生でうまくいっていない人を強調する表現です。例文：He felt like a giant loser after failing the exam for the third time. (彼は試験に3回も落ちた後、自分が大敗者のように感じた。)"
+    },
+    {
+      "id": 25,
+      "value": "pick",
+      "options": [
+        "選ぶ",
+        "無視する",
+        "拒否する",
+        "与える"
+      ],
+      "correctAnswer": "選ぶ",
+      "explanation": "「pick」は選ぶという意味で、ここでは恋人を選ぶという意味合いで使われています。例文：She always picks the wrong person. (彼女はいつも間違った人を選ぶ。)"
+    },
+    {
+      "id": 26,
+      "value": "freaky",
+      "options": [
+        "普通ではない",
+        "素晴らしい",
+        "退屈な",
+        "面白い"
+      ],
+      "correctAnswer": "普通ではない",
+      "explanation": "「freaky」は、普通とは異なる、奇妙な、あるいは異常なという意味を持つ形容詞です。ネガティブな意味合いで使われることが多いですが、文脈によってはユニークさや個性を強調する意味合いで使われることもあります。例：He has a freaky sense of humor. (彼は奇妙なユーモアのセンスを持っている。)"
+    },
+    {
+      "id": 27,
+      "value": "humiliate",
+      "options": [
+        "尊敬する",
+        "勇気づける",
+        "屈辱を与える",
+        "助ける"
+      ],
+      "correctAnswer": "屈辱を与える",
+      "explanation": "「humiliate」は、人前で恥をかかせる、屈辱を与えるという意味の動詞です。相手の自尊心を傷つけ、恥ずかしい思いをさせる行為を指します。例：He was humiliated when he tripped and fell on stage. (彼はステージでつまずいて転んだとき、恥をかいた。)"
+    },
+    {
+      "id": 28,
+      "value": "penitentiary",
+      "options": [
+        "幼稚園",
+        "刑務所",
+        "病院",
+        "学校"
+      ],
+      "correctAnswer": "刑務所",
+      "explanation": "「penitentiary」は、重罪犯を収容する刑務所を指す名詞です。矯正施設としての意味合いが強く、受刑者の悔悟と更生を促すことを目的としています。例：He was sentenced to five years in the state penitentiary. (彼は州立刑務所で5年の刑を宣告された。)"
+    },
+    {
+      "id": 29,
+      "value": "betrayed",
+      "options": [
+        "愛された",
+        "信頼された",
+        "裏切られた",
+        "無視された"
+      ],
+      "correctAnswer": "裏切られた",
+      "explanation": "「betray」は、信頼を裏切る、欺くという意味の動詞です。「betrayed」はその過去分詞形で、裏切られた状態を表します。例：I felt betrayed when my friend told my secret to others. (友達が私の秘密を他人に話したとき、裏切られたと感じた。)"
+    },
+    {
+      "id": 30,
+      "value": "crawl into a hole",
+      "options": [
+        "穴に隠れる",
+        "冒険に出る",
+        "パーティーに行く",
+        "運動する"
+      ],
+      "correctAnswer": "穴に隠れる",
+      "explanation": "「crawl into a hole」は、文字通りには穴に這って入るという意味ですが、比喩的には恥ずかしさや絶望感から隠れたい、姿を消したいという気持ちを表すイディオムです。例：After the embarrassing incident, I just wanted to crawl into a hole and disappear. (恥ずかしい出来事の後、私はただ穴に隠れて消えてしまいたかった。)"
+    },
+    {
+      "id": 31,
+      "value": "affectionate",
+      "options": [
+        "愛情深い",
+        "冷淡な",
+        "怒りっぽい",
+        "退屈な"
+      ],
+      "correctAnswer": "愛情深い",
+      "explanation": "「affectionate」は、愛情深い、愛情を示すという意味の形容詞です。人や動物に対して愛情や優しさを示す様子を表します。例：She is a very affectionate mother. (彼女はとても愛情深い母親です。)"
+    },
+    {
+      "id": 32,
+      "value": "locales",
+      "options": [
+        "地元の人",
+        "場所",
+        "冗談",
+        "食べ物"
+      ],
+      "correctAnswer": "場所",
+      "explanation": "「locale」は、場所、特に特定の出来事や活動が起こる場所を指す名詞です。複数形の「locales」は、さまざまな場所を意味します。例：The movie was filmed in several exotic locales. (その映画はいくつかの異国情緒あふれる場所で撮影された。)"
+    },
+    {
+      "id": 33,
+      "value": "violate",
+      "options": [
+        "守る",
+        "違反する",
+        "強化する",
+        "無視する"
+      ],
+      "correctAnswer": "違反する",
+      "explanation": "「violate」は、法律、規則、契約などを破る、違反するという意味の動詞です。また、人の権利やプライバシーを侵害するという意味もあります。例：He violated the terms of the agreement. (彼は契約条件に違反した。)"
+    },
+    {
+      "id": 34,
+      "value": "overreacted",
+      "options": [
+        "過剰に反応した",
+        "冷静に対応した",
+        "無関心だった",
+        "喜んだ"
+      ],
+      "correctAnswer": "過剰に反応した",
+      "explanation": "「overreact」は、過剰に反応する、大げさに騒ぐという意味の動詞です。「overreacted」はその過去形で、過剰に反応した状態を表します。例：I think you overreacted to his comment. (彼のコメントにあなたは過剰に反応したと思います。)"
+    },
+    {
+      "id": 35,
+      "value": "apologise",
+      "options": [
+        "謝罪する",
+        "感謝する",
+        "賞賛する",
+        "非難する"
+      ],
+      "correctAnswer": "謝罪する",
+      "explanation": "「apologise」は、謝罪するという意味の動詞です。イギリス英語でよく使われ、アメリカ英語では「apologize」が一般的です。例：I want to apologise for my mistake. (私の間違いについて謝罪したい。)"
+    },
+    {
+      "id": 36,
+      "value": "underreacting",
+      "options": [
+        "過小評価する",
+        "過剰に反応する",
+        "適切に反応する",
+        "無関心でいる"
+      ],
+      "correctAnswer": "過小評価する",
+      "explanation": "「underreact」は、反応が不十分である、または過小評価するという意味の動詞です。ここでは、謝罪することが不十分な反応であることを示唆しています。例：The company was criticised for underreacting to the environmental disaster. (その会社は、環境災害に対する反応が不十分であると批判された。)"
+    },
+    {
+      "id": 37,
+      "value": "implied confidentiality",
+      "options": [
+        "明示的な秘密保持",
+        "暗示的な秘密保持",
+        "公然の秘密",
+        "秘密の暴露"
+      ],
+      "correctAnswer": "暗示的な秘密保持",
+      "explanation": "「implied confidentiality」は、明示的に合意されていなくても、状況や関係性から当然守られるべきと考えられる秘密保持義務を指します。 例：Doctors have an implied confidentiality with their patients. (医者は患者との間に暗示的な秘密保持義務がある。)"
+    },
+    {
+      "id": 38,
+      "value": "betrayal",
+      "options": [
+        "忠誠",
+        "裏切り",
+        "友情",
+        "信頼"
+      ],
+      "correctAnswer": "裏切り",
+      "explanation": "「betrayal」は、裏切り、不信という意味の名詞です。信頼していた人からの裏切り行為や、期待を裏切られることを指します。例：His betrayal was a shock to everyone. (彼の裏切りは皆に衝撃を与えた。)"
+    },
+    {
+      "id": 39,
+      "value": "renditions",
+      "options": [
+        "翻訳",
+        "解釈、表現",
+        "謝罪",
+        "拒絶"
+      ],
+      "correctAnswer": "解釈、表現",
+      "explanation": "「rendition」は、特定のスタイルや方法での演奏、表現、または翻訳を意味する名詞です。ここでは、話の語り口や表現を指します。例：The singer gave a beautiful rendition of the classic song. (その歌手は、その古典的な歌の美しい演奏を披露した。)"
+    },
+    {
+      "id": 40,
+      "value": "compelling",
+      "options": [
+        "退屈な",
+        "魅力的な",
+        "不快な",
+        "難しい"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「compelling」は、人を引きつける、説得力のある、または強制力のあるという意味の形容詞です。ここでは、話が興味深く、引き込まれるような内容であることを表します。例：The movie was so compelling that I couldn't take my eyes off the screen. (その映画はとても魅力的で、私は目を離すことができなかった。)"
+    },
+    {
+      "id": 41,
+      "value": "sympathy",
+      "options": [
+        "同情",
+        "嫌悪感",
+        "喜び",
+        "怒り"
+      ],
+      "correctAnswer": "同情",
+      "explanation": "「sympathy」は、同情、共感という意味の名詞です。他者の苦しみや悲しみを理解し、感情を共有することを指します。例：I felt sympathy for the victims of the disaster. (私は災害の犠牲者に同情した。)"
+    },
+    {
+      "id": 42,
+      "value": "whiny",
+      "options": [
+        "勇敢な",
+        "泣き言ばかりの",
+        "面白い",
+        "賢い"
+      ],
+      "correctAnswer": "泣き言ばかりの",
+      "explanation": "「whiny」は、泣き言ばかり言う、不平を言うという意味の形容詞です。特に子供が不満を口にするときに使われることが多いです。例：He is a whiny child who always complains. (彼はいつも文句を言う泣き言ばかりの子供だ。)"
+    },
+    {
+      "id": 43,
+      "value": "screw up",
+      "options": [
+        "成功する",
+        "失敗する",
+        "改善する",
+        "無視する"
+      ],
+      "correctAnswer": "失敗する",
+      "explanation": "「screw up」は、失敗する、しくじるという意味の句動詞です。口語的な表現で、軽い失敗から重大な失敗まで幅広く使われます。例：I really screwed up the presentation. (私はプレゼンテーションで本当にしくじった。)"
+    },
+    {
+      "id": 44,
+      "value": "managed to",
+      "options": [
+        "管理した",
+        "何とか～した",
+        "計画した",
+        "期待した"
+      ],
+      "correctAnswer": "何とか～した",
+      "explanation": "「managed to」は、困難な状況にもかかわらず、何とか〜することができたという意味を表す表現です。努力や工夫の結果、目標を達成したことを示唆します。例：I managed to finish the project on time. (私は何とか時間通りにプロジェクトを終えることができた。)"
+    },
+    {
+      "id": 45,
+      "value": "make up with",
+      "options": [
+        "仲直りする",
+        "喧嘩する",
+        "別れる",
+        "無視する"
+      ],
+      "correctAnswer": "仲直りする",
+      "explanation": "「make up with」は、仲直りするという意味の句動詞です。喧嘩や不和の後に、関係を修復し、和解することを指します。例：They decided to make up with each other after the argument. (彼らは口論の後、仲直りすることにした。)"
+    },
+    {
+      "id": 46,
+      "value": "move on",
+      "options": [
+        "引っ越す",
+        "前進する",
+        "忘れる",
+        "立ち止まる"
+      ],
+      "correctAnswer": "前進する",
+      "explanation": "「move on」は、先に進む、新しい段階に進むという意味の句動詞です。特に、過去の出来事や関係を乗り越えて、新しい生活を始めることを指します。例：It's time to move on and forget about the past. (もう過去を忘れて、前に進む時だ。)"
+    },
+    {
+      "id": 47,
+      "value": "wrapped around",
+      "options": [
+        "包まれた",
+        "嫌われた",
+        "無視された",
+        "忘れられた"
+      ],
+      "correctAnswer": "包まれた",
+      "explanation": "「wrap around」は、巻き付く、包むという意味の句動詞です。ここでは、女性の足が彼の首に巻き付いている状態を表しています。例：She wrapped a scarf around her neck. (彼女は首にスカーフを巻いた。)"
+    },
+    {
+      "id": 48,
+      "value": "for God's sake",
+      "options": [
+        "神のために",
+        "頼むから",
+        "神に感謝して",
+        "神を信じて"
+      ],
+      "correctAnswer": "頼むから",
+      "explanation": "「for God's sake」は、うんざりした気持ちや苛立ち、または懇願を表す際に使われる口語的な表現です。日本語の「頼むから」「いい加減にしてくれ」といったニュアンスに近いです。例：For God's sake, Sheldon, just eat your food! (頼むから、シェルドン、黙ってご飯を食べて！)"
+    },
+    {
+      "id": 49,
+      "value": "obviously",
+      "options": [
+        "明らかに",
+        "秘密裏に",
+        "おそらく",
+        "偶然に"
+      ],
+      "correctAnswer": "明らかに",
+      "explanation": "「obviously」は、「明らかに」「言うまでもなく」という意味の副詞です。誰の目にも明らかなことや、当然のことを述べるときに使われます。例：Obviously, he was very angry. (明らかに、彼はとても怒っていた。)"
+    },
+    {
+      "id": 50,
+      "value": "get back together",
+      "options": [
+        "復縁する",
+        "別れる",
+        "出会う",
+        "無視する"
+      ],
+      "correctAnswer": "復縁する",
+      "explanation": "「get back together」は、一度別れたカップルが再び付き合い始める、復縁するという意味の句動詞です。例：They got back together after a few months apart. (彼らは数ヶ月の別れの後、復縁した。)"
+    },
+    {
+      "id": 51,
+      "value": "I am done with",
+      "options": [
+        "～に満足している",
+        "～にうんざりしている",
+        "～を始める",
+        "～を終わらせる"
+      ],
+      "correctAnswer": "～にうんざりしている",
+      "explanation": "「I am done with」は、「～にうんざりしている」「～とはもう終わりだ」という意味を表します。何かに対して我慢の限界を感じ、それ以上関わりたくない時に使われます。類似の表現として、「I'm fed up with」があります。\n\n例：I am done with his lies. (彼の嘘にはもううんざりだ。)"
+    },
+    {
+      "id": 52,
+      "value": "go off",
+      "options": [
+        "爆発する",
+        "出かける",
+        "始まる",
+        "終わる"
+      ],
+      "correctAnswer": "始まる",
+      "explanation": "「go off」は、この文脈では「（コメントなどが）始まる、口から出る」という意味で使用されています。他にも様々な意味があり、文脈によって解釈が変わります。\n\n例：The bomb went off. (爆弾が爆発した。)\n例：The alarm went off. (アラームが鳴った。)"
+    },
+    {
+      "id": 53,
+      "value": "big deal",
+      "options": [
+        "大きな取引",
+        "重要なこと",
+        "些細なこと",
+        "秘密"
+      ],
+      "correctAnswer": "重要なこと",
+      "explanation": "「big deal」は、「重要なこと」「大したこと」という意味です。否定的な文脈で使われる場合は、「大したことではない」という意味になります。\n\n例：It's no big deal. (大したことじゃないよ。)"
+    },
+    {
+      "id": 54,
+      "value": "What do I have to lose?",
+      "options": [
+        "何を失う必要があるのか？",
+        "何を失う覚悟があるのか？",
+        "何を失うのか？",
+        "何を隠しているのか？"
+      ],
+      "correctAnswer": "何を失うのか？",
+      "explanation": "「What do I have to lose?」は、「何を失うものがある？」「失うものはない」という意味です。何かを試す際に、リスクがない、または少ないことを強調する際に使われます。\n\n例：I have nothing to lose. (失うものなんて何もない。)"
+    },
+    {
+      "id": 55,
+      "value": "That's the spirit!",
+      "options": [
+        "それが本音だ",
+        "それが良い考えだ",
+        "それが本気だ",
+        "その意気だ"
+      ],
+      "correctAnswer": "その意気だ",
+      "explanation": "「That's the spirit!」は、「その意気だ」「それでこそだ」という意味で、相手を励ましたり、同意したりする際に使われます。相手の積極的な態度や考えを肯定的に評価するニュアンスが含まれます。\n\n例：That's the spirit! Keep trying! (その意気だ！頑張り続けろ！)"
+    },
+    {
+      "id": 56,
+      "value": "loofah",
+      "options": [
+        "ルフィ",
+        "ルーファー",
+        "ローファー",
+        "へちま"
+      ],
+      "correctAnswer": "へちま",
+      "explanation": "「loofah」は、体を洗う際に使用するヘチマやヘチマスポンジのことです。肌の古い角質を取り除くのに使われます。\n\n例：I use a loofah to exfoliate my skin. (私は肌の角質を取り除くためにヘチマを使います。)"
+    },
+    {
+      "id": 57,
+      "value": "epithelial cells",
+      "options": [
+        "表皮細胞",
+        "真皮細胞",
+        "骨髄細胞",
+        "神経細胞"
+      ],
+      "correctAnswer": "表皮細胞",
+      "explanation": "「epithelial cells」は、「上皮細胞」または「表皮細胞」を意味します。体の表面や内臓の表面を覆う細胞であり、保護や吸収、分泌などの役割を果たします。\n\n例：Epithelial cells protect the body from damage. (上皮細胞は体を損傷から保護します。)"
+    },
+    {
+      "id": 58,
+      "value": "slough off",
+      "options": [
+        "急いで立ち去る",
+        "ゆっくりと剥がれ落ちる",
+        "集まってくる",
+        "隠れて見えなくなる"
+      ],
+      "correctAnswer": "ゆっくりと剥がれ落ちる",
+      "explanation": "「slough off」は、「（皮膚などが）剥がれ落ちる」という意味です。古い角質や死んだ皮膚細胞が自然に剥がれ落ちる様子を表します。\n\n例：Dead skin cells slough off naturally. (死んだ皮膚細胞は自然に剥がれ落ちます。)"
+    },
+    {
+      "id": 59,
+      "value": "condemn",
+      "options": [
+        "非難する",
+        "褒める",
+        "許す",
+        "無視する"
+      ],
+      "correctAnswer": "非難する",
+      "explanation": "「condemn」は、「非難する」「責める」という意味です。道徳的に間違っている、または不適切であると強く批判する際に使われます。\n\n例：I don't condemn those who seek to accelerate the process. (私はその過程を加速させようとする人々を非難しません。)"
+    },
+    {
+      "id": 60,
+      "value": "noxious gas",
+      "options": [
+        "無害なガス",
+        "有毒ガス",
+        "希ガス",
+        "水蒸気"
+      ],
+      "correctAnswer": "有毒ガス",
+      "explanation": "「noxious gas」は、「有毒ガス」「有害ガス」という意味です。健康に悪影響を及ぼす可能性のあるガスを指します。\n\n例：The factory released noxious gases into the air. (その工場は大気中に有毒ガスを放出しました。)"
+    },
+    {
+      "id": 61,
+      "value": "weaponised",
+      "options": [
+        "武器化する",
+        "平和利用する",
+        "隠蔽する",
+        "放棄する"
+      ],
+      "correctAnswer": "武器化する",
+      "explanation": "「weaponised」は、「兵器化された」「武器として利用できる」という意味です。通常、軍事的な目的で使用するために開発または改造されたものを指します。\n\n例：The virus was weaponized by the government. (そのウイルスは政府によって兵器化されました。)"
+    },
+    {
+      "id": 62,
+      "value": "through the looking glass",
+      "options": [
+        "現実の世界で",
+        "不思議な世界で",
+        "普通の世界で",
+        "過去の世界で"
+      ],
+      "correctAnswer": "不思議な世界で",
+      "explanation": "「through the looking glass」は、「不思議の国のアリス」に由来する表現で、「現実とは異なる、奇妙で非現実的な世界へ」という意味合いを持ちます。予想外の状況や、常識が通用しない状況に陥った際に使われます。\n\n例：Once you enter politics, you're through the looking glass. (一度政界に入ると、そこは非現実的な世界だ。)"
+    },
+    {
+      "id": 63,
+      "value": "brought to mind",
+      "options": [
+        "思い出す",
+        "忘れる",
+        "隠す",
+        "無視する"
+      ],
+      "correctAnswer": "思い出す",
+      "explanation": "「bring to mind」は、「～を思い起こさせる」「～を連想させる」という意味です。あるものを見たときや経験したときに、別の何かを思い出す状況を表します。\n\n例：The picture brought to mind memories of my childhood. (その写真は私の子供時代の思い出を呼び起こしました。)"
+    },
+    {
+      "id": 64,
+      "value": "informed choice",
+      "options": [
+        "情報に基づいた選択",
+        "無知な選択",
+        "偶然の選択",
+        "強制的な選択"
+      ],
+      "correctAnswer": "情報に基づいた選択",
+      "explanation": "「informed choice」は、「情報に基づいた選択」「十分な知識を持って行う選択」という意味です。意思決定をする際に、関連する情報を収集し、十分に理解した上で選択することを指します。\n\n例：Patients should be able to make an informed choice about their treatment. (患者は自分の治療法について情報に基づいた選択ができるべきです。)"
+    },
+    {
+      "id": 65,
+      "value": "pick one at random",
+      "options": [
+        "慎重に選ぶ",
+        "偶然に選ぶ",
+        "順番に選ぶ",
+        "強制的に選ぶ"
+      ],
+      "correctAnswer": "偶然に選ぶ",
+      "explanation": "「pick one at random」は、「無作為に選ぶ」「手当たり次第に選ぶ」という意味です。特定の基準や意図を持たずに、偶然に何かを選ぶ行為を指します。\n\n例：Let's pick a name at random. (無作為に名前を選びましょう。)"
+    },
+    {
+      "id": 66,
+      "value": "a little crush on",
+      "options": [
+        "少しの怒り",
+        "強い嫌悪感",
+        "少しの憧れ",
+        "全くの無関心"
+      ],
+      "correctAnswer": "少しの憧れ",
+      "explanation": "「have a crush on」は、「～に（一時的な）恋心を抱く」「～に夢中になる」という意味です。特に若い人が、特定の相手に対して抱く淡い恋心を指すことが多いです。\n\n例：She has a crush on her teacher. (彼女は先生に恋心を抱いています。)"
+    },
+    {
+      "id": 67,
+      "value": "open to",
+      "options": [
+        "閉鎖的",
+        "反対",
+        "前向き",
+        "無関心"
+      ],
+      "correctAnswer": "前向き",
+      "explanation": "「be open to」は、「～に対して前向きである」「～を受け入れる用意がある」という意味です。新しいアイデアや提案に対して、積極的に受け入れようとする姿勢を表します。\n\n例：I'm open to suggestions. (提案は大歓迎です。)"
+    },
+    {
+      "id": 68,
+      "value": "risk losing",
+      "options": [
+        "失う危険を冒す",
+        "失うことを避ける",
+        "得る機会を増やす",
+        "得ることを保証する"
+      ],
+      "correctAnswer": "失う危険を冒す",
+      "explanation": "「risk losing」は、「～を失う危険を冒す」「～を失う可能性がある」という意味です。ある行動をすることで、何かを失うリスクがあることを示します。\n\n例：If you invest in the stock market, you risk losing money. (株式市場に投資すると、お金を失うリスクがあります。)"
+    },
+    {
+      "id": 69,
+      "value": "fling",
+      "options": [
+        "真剣な交際",
+        "短い関係",
+        "永遠の愛",
+        "友情"
+      ],
+      "correctAnswer": "短い関係",
+      "explanation": "「fling」は、「一時的な恋愛」「短い浮気」という意味です。真剣な交際ではなく、軽い気持ちで楽しむ関係を指します。\n\n例：It was just a summer fling. (それはただの夏の浮気だった。)"
+    },
+    {
+      "id": 70,
+      "value": "light years",
+      "options": [
+        "光の速さ",
+        "非常に長い距離",
+        "短い時間",
+        "非常に長い時間"
+      ],
+      "correctAnswer": "非常に長い距離",
+      "explanation": "「light year」は、「光年」という距離の単位です。ここでは、SheldonがPennyにからかわれて、距離の単位であるにもかかわらず、時間として使われていることを指摘しています。\n\n例：The star is several light years away from Earth. (その星は地球から数光年離れています。)"
+    },
+    {
+      "id": 71,
+      "value": "clarification",
+      "options": [
+        "説明",
+        "混乱",
+        "省略",
+        "無視"
+      ],
+      "correctAnswer": "説明",
+      "explanation": "「clarification」は、「明確化」「説明」という意味です。あいまいな点や不明瞭な点をはっきりさせるために、追加の情報や説明を提供することを指します。\n\n例：I need some clarification on the instructions. (指示についてもう少し説明が必要です。)"
+    },
+    {
+      "id": 72,
+      "value": "Draft",
+      "options": [
+        "設計",
+        "素案",
+        "契約書",
+        "ビール"
+      ],
+      "correctAnswer": "素案",
+      "explanation": "この文脈では「draft」は「下書き」「草案」という意味で使われています。Pennyがlight yearを時間の単位として誤用したことに対して、Sheldonが言葉の定義の誤りを指摘したことに対するPennyの返答です。\n\n例：This is only a draft; the final version will be longer. (これはまだ下書きに過ぎません。最終版はもっと長くなります。)"
+    },
+    {
+      "id": 73,
+      "value": "foot pound",
+      "options": [
+        "長さの単位",
+        "重さの単位",
+        "仕事の単位",
+        "時間の単位"
+      ],
+      "correctAnswer": "仕事の単位",
+      "explanation": "「foot pound」は、「フィートポンド」という仕事やエネルギーの単位です。ここでは、Sheldonがlight yearと同様に、foot poundも単位の誤用を指摘しています。\n\n例：The engine produces 100 foot pounds of torque. (そのエンジンは100フィートポンドのトルクを発生します。)"
+    },
+    {
+      "id": 74,
+      "value": "common mistake",
+      "options": [
+        "一般的な過ち",
+        "重大な犯罪",
+        "些細な問題",
+        "素晴らしい業績"
+      ],
+      "correctAnswer": "一般的な過ち",
+      "explanation": "「common mistake」は、「よくある間違い」「ありがちな誤り」という意味です。多くの人が犯しやすい誤りや勘違いを指します。\n\n例：It's a common mistake to confuse these two words. (これらの二つの単語を混同するのはよくある間違いです。)"
+    },
+    {
+      "id": 75,
+      "value": "get old quick",
+      "options": [
+        "すぐに若返る",
+        "すぐに面白くなる",
+        "すぐに古くなる",
+        "すぐに飽きる"
+      ],
+      "correctAnswer": "すぐに飽きる",
+      "explanation": "「get old quick」は、「すぐに飽きる」「すぐに古くなる」という意味です。何かがすぐに魅力や面白さを失ってしまう状況を表します。\n\n例：That kind of lifestyle can get old quick. (そういうライフスタイルはすぐに飽きるよ。)"
+    },
+    {
+      "id": 76,
+      "value": "have anything to do with",
+      "options": [
+        "関係がある",
+        "関係がない",
+        "重要である",
+        "無関係である"
+      ],
+      "correctAnswer": "関係がある",
+      "explanation": "「have something to do with」は、「〜と関係がある」「〜に関係している」という意味のイディオムです。何かが別のものに影響を与えているか、関連性があることを示します。例：This decision has a lot to do with our financial situation.（この決定は私たちの財政状況と大いに関係がある。）"
+    },
+    {
+      "id": 77,
+      "value": "diverted",
+      "options": [
+        "集中させた",
+        "そらした",
+        "強化した",
+        "開始した"
+      ],
+      "correctAnswer": "そらした",
+      "explanation": "「divert」は、「（注意や意識などを）そらす、転換させる」という意味の動詞です。もともとの方向や目的から何かを逸らすことを指します。例文：The road was diverted due to construction.（工事のため、道路は迂回された。）"
+    },
+    {
+      "id": 78,
+      "value": "get the point",
+      "options": [
+        "理解する",
+        "無視する",
+        "反対する",
+        "忘れる"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get the point」は、「要点を理解する」「趣旨を把握する」という意味の一般的なイディオムです。相手が伝えたいことや、議論の核心部分を理解したときに使います。例：I finally got the point of his argument.（私はついに彼の主張の要点を理解した。）"
+    },
+    {
+      "id": 79,
+      "value": "psychic",
+      "options": [
+        "物理的な",
+        "精神的な",
+        "超能力の",
+        "現実的な"
+      ],
+      "correctAnswer": "超能力の",
+      "explanation": "「psychic」は、「超能力の」「霊的な」という意味の形容詞または名詞です。人の五感を超えた力、例えば予知能力や透視能力などを指します。例：She claimed to have psychic abilities.（彼女は超能力を持っていると主張した。）"
+    },
+    {
+      "id": 80,
+      "value": "narrow it down",
+      "options": [
+        "広げる",
+        "明確にする",
+        "狭める",
+        "無視する"
+      ],
+      "correctAnswer": "狭める",
+      "explanation": "「narrow down」は、「（範囲や選択肢を）狭める、絞り込む」という意味の句動詞です。選択肢が多い状況で、より具体的なものを選ぶ際に使います。例：We need to narrow down the list of candidates.（候補者のリストを絞り込む必要がある。）"
+    },
+    {
+      "id": 81,
+      "value": "nauseous",
+      "options": [
+        "吐き気を催す",
+        "健康な",
+        "食欲旺盛な",
+        "落ち着いた"
+      ],
+      "correctAnswer": "吐き気を催す",
+      "explanation": "「nauseous」は、「吐き気を催す」という意味の形容詞です。しばしば「nauseated」と混同されますが、「nauseous」は原因を表し、「nauseated」は状態を表します。 例：The smell of the garbage made me nauseous. (そのゴミの匂いで吐き気がした。)"
+    },
+    {
+      "id": 82,
+      "value": "redundancy",
+      "options": [
+        "必要性",
+        "余剰",
+        "緊急性",
+        "不足"
+      ],
+      "correctAnswer": "余剰",
+      "explanation": "「redundancy」は、「余剰、過多」という意味の名詞です。特に、必要以上のものがある状態を指します。 例：The project suffered from redundancy of effort. (そのプロジェクトは努力の重複に苦しんだ。)"
+    },
+    {
+      "id": 83,
+      "value": "violent expulsion",
+      "options": [
+        "穏やかな放出",
+        "激しい排出",
+        "自然な吸収",
+        "緩やかな変化"
+      ],
+      "correctAnswer": "激しい排出",
+      "explanation": "「violent expulsion」は、「激しい排出」という意味です。ここでは、嘔吐の状況を説明するために使われています。 例：The volcano's violent expulsion of lava destroyed the nearby forest. (その火山からの溶岩の激しい噴出は、近くの森林を破壊した。)"
+    },
+    {
+      "id": 84,
+      "value": "premise",
+      "options": [
+        "結論",
+        "前提",
+        "結果",
+        "証拠"
+      ],
+      "correctAnswer": "前提",
+      "explanation": "「premise」は、「前提、根拠」という意味の名詞です。議論や推論の基礎となる仮定や条件を指します。例：The entire argument is based on a false premise.（その議論全体は誤った前提に基づいている。）"
+    },
+    {
+      "id": 85,
+      "value": "progeny",
+      "options": [
+        "祖先",
+        "子孫",
+        "友人",
+        "同僚"
+      ],
+      "correctAnswer": "子孫",
+      "explanation": "「progeny」は、「子孫、後裔」という意味の名詞です。生物学的な意味合いで、特にフォーマルな文脈で使われます。例：He was proud of his numerous progeny.（彼は多くの子孫を誇りに思っていた。）"
+    },
+    {
+      "id": 86,
+      "value": "bring this conversation to a speedy conclusion",
+      "options": [
+        "会話を始める",
+        "会話を長引かせる",
+        "会話を終わらせる",
+        "会話を複雑にする"
+      ],
+      "correctAnswer": "会話を終わらせる",
+      "explanation": "「bring something to a conclusion」は、「〜を結論に導く、終わらせる」という意味の表現です。特に、議論や会議などを終える際に使われます。例：We need to bring this meeting to a speedy conclusion.（この会議を早急に終わらせる必要がある。）"
+    },
+    {
+      "id": 87,
+      "value": "go through with",
+      "options": [
+        "中止する",
+        "計画する",
+        "実行する",
+        "延期する"
+      ],
+      "correctAnswer": "実行する",
+      "explanation": "「go through with」は、「（困難や反対があっても）やり遂げる、実行する」という意味の句動詞です。一度決めたことを最後まで行う意志を示す際に使います。例：Despite the difficulties, she decided to go through with the plan.（困難にもかかわらず、彼女は計画を実行することにした。）"
+    },
+    {
+      "id": 88,
+      "value": "far too much",
+      "options": [
+        "少しだけ",
+        "多すぎる",
+        "十分な",
+        "少なすぎる"
+      ],
+      "correctAnswer": "多すぎる",
+      "explanation": "「far too much」は、「〜すぎる」「度が過ぎる」という意味の表現です。「too much」を強調する際に使われます。例：I've had far too much to eat.（食べ過ぎてしまった。）"
+    },
+    {
+      "id": 89,
+      "value": "blow it",
+      "options": [
+        "成功する",
+        "失敗する",
+        "改善する",
+        "分析する"
+      ],
+      "correctAnswer": "失敗する",
+      "explanation": "「blow it」は、「しくじる、失敗する」という意味の口語的な表現です。特に、チャンスや機会を逃してしまう状況で使われます。例：I had one chance and I blew it.（一度のチャンスを無駄にしてしまった。）"
+    },
+    {
+      "id": 90,
+      "value": "starch filled redundancy",
+      "options": [
+        "栄養満点の食事",
+        "炭水化物の過剰摂取",
+        "バランスの取れた食事",
+        "タンパク質の不足"
+      ],
+      "correctAnswer": "炭水化物の過剰摂取",
+      "explanation": "「starch-filled redundancy」は、「炭水化物で満たされた冗長性」という意味で、ここでは同じ炭水化物を重ねて摂取することの無意味さを表しています。健康や栄養の文脈で使われることがあります。 例：Eating both rice and bread is a starch-filled redundancy. (ご飯とパンの両方を食べるのは炭水化物の過剰摂取だ。)"
+    },
+    {
+      "id": 91,
+      "value": "assume",
+      "options": [
+        "確認する",
+        "仮定する",
+        "否定する",
+        "調査する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "「assume」は、「〜と仮定する、推測する」という意味の動詞です。証拠や確認なしに何かを真実だと考えることを指します。例：I assume you're coming to the party.（あなたがパーティーに来ると思っています。）"
+    },
+    {
+      "id": 92,
+      "value": "appropriate",
+      "options": [
+        "不適切な",
+        "適切な",
+        "不要な",
+        "不明確な"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "「appropriate」は、「適切な、ふさわしい」という意味の形容詞です。特定の状況や目的に合っていることを示します。例：This is not the appropriate time to discuss this issue.（今はこの問題を議論する適切な時ではありません。）"
+    },
+    {
+      "id": 93,
+      "value": "grammatical mistake",
+      "options": [
+        "文法的な間違い",
+        "発音の誤り",
+        "スペルのミス",
+        "表現の工夫"
+      ],
+      "correctAnswer": "文法的な間違い",
+      "explanation": "「grammatical mistake」は、「文法的な誤り」という意味です。文法規則に違反する誤用を指します。例：The essay had several grammatical mistakes.（そのエッセイにはいくつかの文法的な誤りがあった。）"
+    },
+    {
+      "id": 94,
+      "value": "logically conclude",
+      "options": [
+        "感情的に結論付ける",
+        "論理的に結論付ける",
+        "直感的に結論付ける",
+        "偶然に結論付ける"
+      ],
+      "correctAnswer": "論理的に結論付ける",
+      "explanation": "「logically conclude」は、「論理的に結論付ける」という意味です。妥当な根拠や推論に基づいて結論を導き出すことを指します。例：We can logically conclude that the project will be successful.（そのプロジェクトは成功すると論理的に結論付けることができる。）"
+    },
+    {
+      "id": 95,
+      "value": "evil lighthouse keepers",
+      "options": [
+        "親切な灯台守",
+        "邪悪な灯台守",
+        "勇敢な船乗り",
+        "有名な探検家"
+      ],
+      "correctAnswer": "邪悪な灯台守",
+      "explanation": "「evil lighthouse keepers」は、「邪悪な灯台守」という意味です。ここでは、孤独で陰湿な存在の象徴として使われています。例：The story featured an evil lighthouse keeper who lured ships to their doom. (その物語には、船を破滅に誘う邪悪な灯台守が登場した。)"
+    },
+    {
+      "id": 96,
+      "value": "Oy Vey",
+      "options": [
+        "喜びの表現",
+        "驚きの表現",
+        "悲しみの表現",
+        "怒りの表現"
+      ],
+      "correctAnswer": "悲しみの表現",
+      "explanation": "「Oy Vey」はイディッシュ語（ユダヤ人が使う言語）由来の言葉で、嘆き、落胆、苦痛、または苛立ちを表す感嘆詞です。日本語の「ああ、もう」や「やれやれ」に近いニュアンスで使用されます。 例：Oy vey, I forgot my wallet! (ああ、もう、財布を忘れた！)"
+    },
+    {
+      "id": 97,
+      "value": "potential relationship",
+      "options": [
+        "過去の関係",
+        "潜在的な関係",
+        "家族関係",
+        "ビジネス関係"
+      ],
+      "correctAnswer": "潜在的な関係",
+      "explanation": "「potential relationship」は、「潜在的な関係」という意味です。まだ始まっていないが、将来的に発展する可能性のある関係を指します。例：They have a strong connection, and it could lead to a potential relationship.（彼らは強い繋がりがあり、それが潜在的な関係につながるかもしれない。）"
+    },
+    {
+      "id": 98,
+      "value": "at a random time",
+      "options": [
+        "特定の時間",
+        "計画された時間",
+        "予測可能な時間",
+        "ランダムな時間"
+      ],
+      "correctAnswer": "ランダムな時間",
+      "explanation": "「at a random time」は、「ランダムな時間に、無作為な時間に」という意味です。特定のパターンや予測なしに、偶然に起こる時間を指します。例：The alarm will go off at a random time during the day.（アラームは日中のランダムな時間に鳴る。）"
+    },
+    {
+      "id": 99,
+      "value": "sealed vial",
+      "options": [
+        "開封された小瓶",
+        "密閉された小瓶",
+        "透明な小瓶",
+        "空の小瓶"
+      ],
+      "correctAnswer": "密閉された小瓶",
+      "explanation": "「sealed vial」は、「密閉された小瓶」という意味です。内容物が外部に漏れないように、しっかりと封がされている小瓶を指します。例：The scientist carefully opened the sealed vial containing the precious sample.（科学者は貴重なサンプルが入った密閉された小瓶を慎重に開けた。）"
+    },
+    {
+      "id": 100,
+      "value": "blow your own nose",
+      "options": [
+        "我慢する",
+        "自業自得だ",
+        "鼻をかむ",
+        "関係ない"
+      ],
+      "correctAnswer": "鼻をかむ",
+      "explanation": "「Blow your own nose」は、「自分のことは自分でしろ」という意味合いで使われます。人に頼らず、自分で問題を解決するように促す際に用いられます。この文脈では、相手の奇妙な要求に対して、自分で対処するように皮肉を込めて述べています。例：If you have a problem, blow your own nose. (もし問題があるなら、自分で解決しろ。)"
+    }
+  ]
+}

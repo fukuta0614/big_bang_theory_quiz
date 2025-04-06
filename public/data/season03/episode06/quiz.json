@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "interjection",
+      "options": [
+        "動詞",
+        "間投詞",
+        "形容詞",
+        "副詞"
+      ],
+      "correctAnswer": "間投詞",
+      "explanation": "間投詞（かんとうし）とは、文法上の品詞の一つで、感動・応答・呼びかけなどを表す自立語です。文の他の要素との直接的な関係を持たず、独立して用いられます。\n\n例文：Oh! How beautiful!"
+    },
+    {
+      "id": 2,
+      "value": "bifocals",
+      "options": [
+        "単焦点レンズ",
+        "遠近両用レンズ",
+        "コンタクトレンズ",
+        "サングラス"
+      ],
+      "correctAnswer": "遠近両用レンズ",
+      "explanation": "遠近両用レンズとは、一つのレンズに遠方を見る度数と近方を見る度数が組み込まれているメガネレンズのことです。これにより、メガネをかけ替えることなく、遠くも近くも見ることができます。"
+    },
+    {
+      "id": 3,
+      "value": "cutthroat",
+      "options": [
+        "友好的な",
+        "競争の激しい",
+        "協力的な",
+        "のんびりした"
+      ],
+      "correctAnswer": "競争の激しい",
+      "explanation": "「cutthroat」は、競争が非常に激しく、容赦がないという意味です。ビジネスやスポーツなど、成功のためには手段を選ばないような状況を表すのに使われます。\n\n例文：The software industry is a cutthroat environment."
+    },
+    {
+      "id": 4,
+      "value": "on the other hand",
+      "options": [
+        "一方で",
+        "結果として",
+        "要するに",
+        "例えば"
+      ],
+      "correctAnswer": "一方で",
+      "explanation": "「on the other hand」は、ある事柄に対して、別の視点や対照的な情報を提示する際に使われる表現です。前の文脈との対比を示す役割があります。\n\n例文：He's a talented musician; on the other hand, he's not very reliable."
+    },
+    {
+      "id": 5,
+      "value": "a real and ever-present danger",
+      "options": [
+        "過去の危険",
+        "現実的で常に存在する危険",
+        "想像上の危険",
+        "取るに足らない危険"
+      ],
+      "correctAnswer": "現実的で常に存在する危険",
+      "explanation": "「a real and ever-present danger」は、危険が単に理論上のものではなく、実際に存在し、常に警戒が必要であることを強調する表現です。差し迫った脅威を表します。"
+    },
+    {
+      "id": 6,
+      "value": "hang out",
+      "options": [
+        "急いで立ち去る",
+        "出かける",
+        "リラックスして過ごす",
+        "議論する"
+      ],
+      "correctAnswer": "リラックスして過ごす",
+      "explanation": "「hang out」は、特に目的もなく、リラックスして時間を過ごすという意味の口語的な表現です。友達と気軽に過ごす状況などでよく使われます。\n\n例文：Let's hang out at my place tonight."
+    },
+    {
+      "id": 7,
+      "value": "drifted off",
+      "options": [
+        "出発した",
+        "迷子になった",
+        "集中力を失った",
+        "眠ってしまった"
+      ],
+      "correctAnswer": "集中力を失った",
+      "explanation": "「drift off」は、意識が徐々に薄れていく、集中力が途切れる、または眠りにつくという意味です。ここでは、話を聞いている途中で注意が散漫になった状態を表しています。\n\n例文：I drifted off during the lecture."
+    },
+    {
+      "id": 8,
+      "value": "suck",
+      "options": [
+        "素晴らしい",
+        "最悪だ",
+        "普通だ",
+        "面白い"
+      ],
+      "correctAnswer": "最悪だ",
+      "explanation": "「suck」は、非常に不快である、ひどい、または嫌な状況や経験を意味するスラングです。不満や失望を表す際に使われます。\n\n例文：This job sucks."
+    },
+    {
+      "id": 9,
+      "value": "outflank",
+      "options": [
+        "正面から攻撃する",
+        "側面から迂回する",
+        "撤退する",
+        "支援する"
+      ],
+      "correctAnswer": "側面から迂回する",
+      "explanation": "「outflank」は、敵の側面を回り込んで攻撃するという意味です。比喩的には、相手を出し抜いたり、裏をかいたりする状況でも使われます。\n\n例文：The company outflanked its competitors by launching a new product."
+    },
+    {
+      "id": 10,
+      "value": "the heat of battle",
+      "options": [
+        "戦いの熱狂",
+        "戦いの準備",
+        "戦いの終結",
+        "戦いの訓練"
+      ],
+      "correctAnswer": "戦いの熱狂",
+      "explanation": "「the heat of battle」は、戦いの最も激しい瞬間、興奮状態、または混乱状態を指します。比喩的には、競争や議論などの激しい状況でも使われます。\n\n例文：In the heat of battle, mistakes are often made."
+    },
+    {
+      "id": 11,
+      "value": "dogs of war",
+      "options": [
+        "平和の象徴",
+        "戦争を引き起こすもの",
+        "戦争を終わらせるもの",
+        "戦場の犬"
+      ],
+      "correctAnswer": "戦争を引き起こすもの",
+      "explanation": "「dogs of war」は、戦争を引き起こす力や要因を指す比喩的な表現です。シェイクスピアの戯曲にも登場し、歴史的・文学的な背景を持つ言葉です。\n\n例文：Economic problems can unleash the dogs of war."
+    },
+    {
+      "id": 12,
+      "value": "nonsense",
+      "options": [
+        "常識",
+        "ナンセンス",
+        "秘密",
+        "真実"
+      ],
+      "correctAnswer": "ナンセンス",
+      "explanation": "「nonsense」は、無意味なこと、ばかげたこと、または理解できないことを意味します。価値がない、または重要でない考えや行動を指す際に使われます。\n\n例文：Don't talk nonsense!"
+    },
+    {
+      "id": 13,
+      "value": "flanking",
+      "options": [
+        "正面攻撃",
+        "側面攻撃",
+        "撤退",
+        "防御"
+      ],
+      "correctAnswer": "側面攻撃",
+      "explanation": "「flanking」は、敵の側面を攻撃する戦術を指します。比喩的には、競争において相手の弱点を突くような行動を意味することがあります。\n\n例文：They are flanking us with lower prices."
+    },
+    {
+      "id": 14,
+      "value": "son of a bitch",
+      "options": [
+        "親友",
+        "正直者",
+        "卑怯者",
+        "英雄"
+      ],
+      "correctAnswer": "卑怯者",
+      "explanation": "「son of a bitch」は、非常に侮辱的な表現で、相手を軽蔑したり、怒りを表したりする際に使われます。親しい間柄で冗談として使われることもありますが、基本的には避けるべき言葉です。"
+    },
+    {
+      "id": 15,
+      "value": "come-hither look",
+      "options": [
+        "悲しそうな表情",
+        "怒った表情",
+        "誘惑的な表情",
+        "無関心な表情"
+      ],
+      "correctAnswer": "誘惑的な表情",
+      "explanation": "「come-hither look」は、相手を誘惑するような、魅力的な視線を意味します。相手を惹きつけようとする意図が込められています。\n\n例文：She gave him a come-hither look across the room."
+    },
+    {
+      "id": 16,
+      "value": "pull a hammy",
+      "options": [
+        "成功する",
+        "失敗する",
+        "ハムストリングを痛める",
+        "嘘をつく"
+      ],
+      "correctAnswer": "ハムストリングを痛める",
+      "explanation": "「pull a hammy」は、ハムストリング（太ももの裏側の筋肉）を痛めるという意味です。スポーツなどでよく使われる表現です。\n\n例文：He pulled a hammy while running."
+    },
+    {
+      "id": 17,
+      "value": "scouting",
+      "options": [
+        "隠れる",
+        "偵察する",
+        "攻撃する",
+        "逃げる"
+      ],
+      "correctAnswer": "偵察する",
+      "explanation": "「scouting」は、情報を集めるために、ある場所や人を探し回ることを意味します。ここでは、新しい交際相手を探していることを婉曲的に表現しています。\n\n例文：She's scouting for a new apartment."
+    },
+    {
+      "id": 18,
+      "value": "kite fighting",
+      "options": [
+        "凧作り",
+        "凧揚げ",
+        "凧合戦",
+        "凧の展示"
+      ],
+      "correctAnswer": "凧合戦",
+      "explanation": "「kite fighting」は、凧糸にガラスの粉などを付けて相手の凧糸を切り、凧を落とすことを目的とした遊び、または競技です。主にアジア地域で行われています。"
+    },
+    {
+      "id": 19,
+      "value": "severe",
+      "options": [
+        "軽い",
+        "重い",
+        "普通",
+        "存在しない"
+      ],
+      "correctAnswer": "重い",
+      "explanation": "「severe」は、程度や影響が非常に大きい、深刻な、厳しいという意味です。痛みや損害、困難などを強調する際に使われます。\n\n例文：The storm caused severe damage."
+    },
+    {
+      "id": 20,
+      "value": "interaction",
+      "options": [
+        "孤立",
+        "相互作用",
+        "静止",
+        "破壊"
+      ],
+      "correctAnswer": "相互作用",
+      "explanation": "「interaction」は、人や物が互いに影響し合うこと、交流、相互作用を意味します。ここでは、会話や行動のやり取りを指しています。\n\n例文：Social interaction is important for mental health."
+    },
+    {
+      "id": 21,
+      "value": "altitude",
+      "options": [
+        "緯度",
+        "経度",
+        "高度",
+        "態度"
+      ],
+      "correctAnswer": "高度",
+      "explanation": "「altitude」は、海面または地面からの高さ、高度を意味します。ここでは、凧の高さを指しています。\n\n例文：The plane flew at a high altitude."
+    },
+    {
+      "id": 22,
+      "value": "execute",
+      "options": [
+        "計画する",
+        "実行する",
+        "中止する",
+        "提案する"
+      ],
+      "correctAnswer": "実行する",
+      "explanation": "「execute」は、計画や指示を実行する、遂行するという意味です。ここでは、凧合戦の戦略を実行することを指しています。\n\n例文：We need to execute the plan carefully."
+    },
+    {
+      "id": 23,
+      "value": "sucky",
+      "options": [
+        "素晴らしい",
+        "最低の",
+        "普通の",
+        "面白い"
+      ],
+      "correctAnswer": "最低の",
+      "explanation": "「sucky」は、「suck」の形容詞形で、非常に悪い、不快な、または嫌なという意味のスラングです。不満や失望を表す際に使われます。\n\n例文：That was a sucky movie."
+    },
+    {
+      "id": 24,
+      "value": "concern",
+      "options": [
+        "喜び",
+        "心配",
+        "無関心",
+        "怒り"
+      ],
+      "correctAnswer": "心配",
+      "explanation": "「concern」は、心配、懸念、または関心という意味です。ここでは、相手の気持ちを気遣うことを指しています。\n\n例文：I have some concerns about the project."
+    },
+    {
+      "id": 25,
+      "value": "gathering",
+      "options": [
+        "出発",
+        "集まり",
+        "解散",
+        "会議"
+      ],
+      "correctAnswer": "集まり",
+      "explanation": "「gathering」は、人々が集まること、集会、会合を意味します。ここでは、友人たちが集まって Nebraskaゲームを観戦する集まりを指しています。\n\n例文：There will be a family gathering next week."
+    },
+    {
+      "id": 26,
+      "value": "discretion",
+      "options": [
+        "裁量、分別",
+        "不注意、軽率",
+        "義務、強制",
+        "興奮、熱狂"
+      ],
+      "correctAnswer": "裁量、分別",
+      "explanation": "「discretion」は、判断力、思慮深さ、分別という意味です。状況に応じて適切に判断し行動する能力を指します。例文：He showed great discretion in handling the delicate situation. (彼はその微妙な状況を処理する際に、優れた分別を示した。)"
+    },
+    {
+      "id": 27,
+      "value": "copulate",
+      "options": [
+        "競争する",
+        "協力する",
+        "交尾する",
+        "逃避する"
+      ],
+      "correctAnswer": "交尾する",
+      "explanation": "「copulate」は、動物が交尾するという意味の動詞です。フォーマルな文脈や生物学的な記述で使われます。例文：The birds were observed copulating in the spring. (その鳥たちは春に交尾しているのが観察された。)"
+    },
+    {
+      "id": 28,
+      "value": "have a shot with",
+      "options": [
+        "～と争う",
+        "～と親しくなるチャンスがある",
+        "～を撃つ",
+        "～と仲たがいする"
+      ],
+      "correctAnswer": "～と親しくなるチャンスがある",
+      "explanation": "「have a shot with someone」は、誰かと恋愛関係になるチャンスがある、または試みるという意味の口語表現です。成功するかどうかは不確実ですが、可能性があることを示唆します。例文：He thinks he has a shot with the new girl at work. (彼は職場の新しい女の子と恋愛関係になれると思っている。)"
+    },
+    {
+      "id": 29,
+      "value": "felony",
+      "options": [
+        "軽犯罪",
+        "重罪",
+        "無実",
+        "名誉"
+      ],
+      "correctAnswer": "重罪",
+      "explanation": "「felony」は、殺人、強盗、放火などの重大な犯罪を指します。法律用語で、通常は1年以上の懲役または死刑が科せられる犯罪です。例文：He was charged with a felony after the robbery. (彼は強盗の後、重罪で起訴された。)"
+    },
+    {
+      "id": 30,
+      "value": "prized",
+      "options": [
+        "安価な",
+        "貴重な",
+        "一般的な",
+        "不要な"
+      ],
+      "correctAnswer": "貴重な",
+      "explanation": "「prized」は、非常に価値がある、大切なという意味です。物理的な価値だけでなく、感情的な価値も含むことがあります。例文：This watch is my most prized possession. (この時計は私の一番大切な所有物です。)"
+    },
+    {
+      "id": 31,
+      "value": "aerial warfare",
+      "options": [
+        "水中戦",
+        "空中戦",
+        "情報戦",
+        "心理戦"
+      ],
+      "correctAnswer": "空中戦",
+      "explanation": "「aerial warfare」は、航空機やミサイルなどを使った空中での戦闘を指します。軍事用語として使われます。例文：Modern aerial warfare involves sophisticated technology. (現代の空中戦は、高度な技術を伴う。)"
+    },
+    {
+      "id": 32,
+      "value": "dictate",
+      "options": [
+        "提案する",
+        "指示する",
+        "議論する",
+        "依頼する"
+      ],
+      "correctAnswer": "指示する",
+      "explanation": "「dictate」は、命令する、指示するという意味です。権威や規則によって何かを決定し、それを実行させるニュアンスがあります。例文：The rules of the game dictate that you cannot touch the ball with your hands. (ゲームのルールでは、手でボールに触れてはいけないと定められている。)"
+    },
+    {
+      "id": 33,
+      "value": "fallen",
+      "options": [
+        "上昇した",
+        "落下した",
+        "隠された",
+        "作られた"
+      ],
+      "correctAnswer": "落下した",
+      "explanation": "「fallen」は、「fall」の過去分詞形で、落ちた、倒れたという意味です。比喩的に、失脚した、崩壊したという意味でも使われます。例文：The fallen leaves covered the ground. (落ち葉が地面を覆った。)"
+    },
+    {
+      "id": 34,
+      "value": "victor",
+      "options": [
+        "敗者",
+        "勝者",
+        "傍観者",
+        "参加者"
+      ],
+      "correctAnswer": "勝者",
+      "explanation": "「victor」は、競争や戦いで勝利した人を指します。例文：The victor of the race was awarded a medal. (レースの勝者にはメダルが授与された。)"
+    },
+    {
+      "id": 35,
+      "value": "gesture",
+      "options": [
+        "沈黙",
+        "合図",
+        "抵抗",
+        "攻撃"
+      ],
+      "correctAnswer": "合図",
+      "explanation": "「gesture」は、身振り、手振り、または何らかの行動で意図や感情を示すことを意味します。例文：He made a rude gesture. (彼は失礼な身振りをした。)"
+    },
+    {
+      "id": 36,
+      "value": "rambling",
+      "options": [
+        "簡潔な",
+        "要点を得た",
+        "とりとめのない",
+        "論理的な"
+      ],
+      "correctAnswer": "とりとめのない",
+      "explanation": "「rambling」は、話や文章がとりとめのない、まとまりがないという意味です。特に、話があちこちに飛び、なかなか核心に触れない状態を指します。例文：His speech was rambling and difficult to follow. (彼のスピーチはとりとめがなく、理解するのが難しかった。)"
+    },
+    {
+      "id": 37,
+      "value": "genius",
+      "options": [
+        "凡人",
+        "天才",
+        "努力家",
+        "怠け者"
+      ],
+      "correctAnswer": "天才",
+      "explanation": "「genius」は、非常に高い知能や才能を持つ人を指します。通常、創造的な分野や学問分野で顕著な業績を上げる人を指します。例文：Einstein was a scientific genius. (アインシュタインは科学の天才だった。)"
+    },
+    {
+      "id": 38,
+      "value": "cut back on",
+      "options": [
+        "増やす",
+        "減らす",
+        "無視する",
+        "投資する"
+      ],
+      "correctAnswer": "減らす",
+      "explanation": "「cut back on」は、何かを減らす、削減するという意味の句動詞です。特に、消費量や支出を減らす場合に使われます。例文：We need to cut back on our expenses. (私たちは経費を削減する必要がある。)"
+    },
+    {
+      "id": 39,
+      "value": "satisfy",
+      "options": [
+        "不満にする",
+        "満足させる",
+        "無視する",
+        "混乱させる"
+      ],
+      "correctAnswer": "満足させる",
+      "explanation": "「satisfy」は、要求や欲求を満たす、満足させるという意味です。例文：The meal satisfied my hunger. (その食事は私の空腹を満たした。)"
+    },
+    {
+      "id": 40,
+      "value": "pharmaceutical",
+      "options": [
+        "農業の",
+        "製薬の",
+        "金融の",
+        "教育の"
+      ],
+      "correctAnswer": "製薬の",
+      "explanation": "「pharmaceutical」は、製薬の、医薬品のという意味です。医薬品や製薬業界に関連する事柄を指します。例文：The pharmaceutical industry is heavily regulated. (製薬業界は厳しく規制されている。)"
+    },
+    {
+      "id": 41,
+      "value": "pimp out",
+      "options": [
+        "修理する",
+        "飾り立てる",
+        "隠す",
+        "放棄する"
+      ],
+      "correctAnswer": "飾り立てる",
+      "explanation": "「pimp out」は、スラングで、何かを派手に飾り立てる、改造するという意味です。通常、車やバイクなどの乗り物を対象に使われます。例文：He decided to pimp out his car with new rims and a sound system. (彼は新しいリムとサウンドシステムで自分の車を飾り立てることにした。)"
+    },
+    {
+      "id": 42,
+      "value": "grinding on",
+      "options": [
+        "解決して",
+        "無視して",
+        "拘って",
+        "楽しんで"
+      ],
+      "correctAnswer": "拘って",
+      "explanation": "「grinding on」は、ある事柄について不満や怒りを持ち続け、いつまでもこだわるという意味です。例文：Are you still grinding on what he said yesterday? (あなたはまだ彼が昨日言ったことにこだわっているの？)"
+    },
+    {
+      "id": 43,
+      "value": "dump me",
+      "options": [
+        "私を助ける",
+        "私を捨てる",
+        "私を招待する",
+        "私を信頼する"
+      ],
+      "correctAnswer": "私を捨てる",
+      "explanation": "「dump me」は、私を振る、私を捨てるという意味です。恋愛関係が終わることを指します。例文：He dumped me for another woman. (彼は別の女性のために私を振った。)"
+    },
+    {
+      "id": 44,
+      "value": "scooter",
+      "options": [
+        "スポーツカー",
+        "スクーター",
+        "自転車",
+        "トラック"
+      ],
+      "correctAnswer": "スクーター",
+      "explanation": "「scooter」は、スクーター、小型のオートバイを指します。例文：He rides a scooter to work every day. (彼は毎日スクーターで通勤している。)"
+    },
+    {
+      "id": 45,
+      "value": "statistic",
+      "options": [
+        "物語",
+        "統計",
+        "意見",
+        "感情"
+      ],
+      "correctAnswer": "統計",
+      "explanation": "「statistic」は、統計、統計データという意味です。数値で表された情報を指します。例文：The statistics show an increase in crime. (統計は犯罪の増加を示している。)"
+    },
+    {
+      "id": 46,
+      "value": "nomenclature",
+      "options": [
+        "構造",
+        "命名法",
+        "技術",
+        "理論"
+      ],
+      "correctAnswer": "命名法",
+      "explanation": "「nomenclature」は、命名法、専門用語体系という意味です。特定の分野で使用される専門的な名称や用語のシステムを指します。例文：The nomenclature of chemical compounds can be quite complex. (化合物の命名法は非常に複雑になることがある。)"
+    },
+    {
+      "id": 47,
+      "value": "scrimmage",
+      "options": [
+        "休憩",
+        "攻撃",
+        "防御",
+        "スクリメージ"
+      ],
+      "correctAnswer": "スクリメージ",
+      "explanation": "「scrimmage」は、フットボールにおいて、プレー開始前の両チームの対峙を指します。ラインオブスクリメージを挟んで攻守が向かい合う状態を意味します。例文：The line of scrimmage is crucial in football. (ラインオブスクリメージはフットボールにおいて非常に重要である。)"
+    },
+    {
+      "id": 48,
+      "value": "transverse",
+      "options": [
+        "垂直な",
+        "横断的な",
+        "平行な",
+        "斜めの"
+      ],
+      "correctAnswer": "横断的な",
+      "explanation": "「transverse」は、横断的な、横切るという意味です。何かを横方向に通過する、または横方向に位置することを指します。例文：A transverse line cuts across the circle. (横断線が円を横切っている。)"
+    },
+    {
+      "id": 49,
+      "value": "ubiquitous",
+      "options": [
+        "珍しい",
+        "遍在する",
+        "限られた",
+        "隠された"
+      ],
+      "correctAnswer": "遍在する",
+      "explanation": "「ubiquitous」は、どこにでも存在する、遍在するという意味です。非常に一般的で、どこでも見かけることができる状態を指します。例文：Smartphones are ubiquitous in modern society. (スマートフォンは現代社会で遍在している。)"
+    },
+    {
+      "id": 50,
+      "value": "commie",
+      "options": [
+        "資本家",
+        "共産主義者",
+        "民主主義者",
+        "社会主義者"
+      ],
+      "correctAnswer": "共産主義者",
+      "explanation": "「commie」は、共産主義者を指す軽蔑的なスラングです。政治的な文脈で使用され、特にアメリカでは冷戦時代によく使われました。例文：During the Cold War, many people were labeled as commies. (冷戦時代、多くの人々が共産主義者とレッテルを貼られた。)"
+    },
+    {
+      "id": 51,
+      "value": "blend in",
+      "options": [
+        "目立つ",
+        "溶け込む",
+        "理解する",
+        "反発する"
+      ],
+      "correctAnswer": "溶け込む",
+      "explanation": "「blend in」は、周囲の環境や人々に溶け込む、目立たないようにするという意味です。新しい環境やグループに馴染みたい時に使われます。例：He tried to blend in with the locals. (彼は地元の人々に溶け込もうとした。)"
+    },
+    {
+      "id": 52,
+      "value": "camouflage",
+      "options": [
+        "変装",
+        "本音",
+        "正装",
+        "策略"
+      ],
+      "correctAnswer": "変装",
+      "explanation": "「camouflage」は、カモフラージュ、偽装、ごまかしという意味です。文字通り、軍事的な意味でのカモフラージュの他に、比喩的に何かを隠したり、ごまかしたりする際に使われます。例：His friendliness was just a camouflage for his real intentions. (彼の友好的な態度は、本当の意図を隠すためのカモフラージュに過ぎなかった。)"
+    },
+    {
+      "id": 53,
+      "value": "week in and week out",
+      "options": [
+        "毎週交代で",
+        "時々",
+        "毎週毎週",
+        "週末に"
+      ],
+      "correctAnswer": "毎週毎週",
+      "explanation": "「week in and week out」は、毎週毎週、絶え間なくという意味です。同じことの繰り返しを強調する際に使われます。例：He worked at the factory week in and week out. (彼は工場で毎週毎週働いた。)"
+    },
+    {
+      "id": 54,
+      "value": "tier one",
+      "options": [
+        "最優先の",
+        "二流の",
+        "秘密の",
+        "冗談の"
+      ],
+      "correctAnswer": "最優先の",
+      "explanation": "「tier one」は、最優先、最高レベルという意味です。重要度や優先順位が高いことを示す際に使われます。例：This is a tier one customer for us. (これは当社にとって最優先の顧客です。)"
+    },
+    {
+      "id": 55,
+      "value": "Poindexter",
+      "options": [
+        "秀才",
+        "怠け者",
+        "詐欺師",
+        "普通の人"
+      ],
+      "correctAnswer": "秀才",
+      "explanation": "「Poindexter」は、特に学問ができる人、オタク、または社会的に不器用な人を指す軽蔑的なスラングです。映画やドラマでよく使われる言葉です。例：Don't be such a Poindexter, and come have some fun! (そんなにガリ勉しないで、楽しもうよ！)"
+    },
+    {
+      "id": 56,
+      "value": "dictate",
+      "options": [
+        "提案する",
+        "決定する",
+        "暗示する",
+        "反対する"
+      ],
+      "correctAnswer": "決定する",
+      "explanation": "「dictate」は、決定する、指示する、規定するという意味です。特に権威や規則に基づいて何かを決定する際に使われます。例：Social conventions dictate that you bring a gift. (社交上の慣習では、贈りものを持参することが決まっている。)"
+    },
+    {
+      "id": 57,
+      "value": "fit in",
+      "options": [
+        "諦める",
+        "溶け込む",
+        "主張する",
+        "邪魔する"
+      ],
+      "correctAnswer": "溶け込む",
+      "explanation": "「fit in」は、仲間に入る、溶け込む、適合するという意味です。周囲の環境やグループに馴染むことを意味します。例：He found it hard to fit in at his new school. (彼は新しい学校に馴染むのが難しいと感じた。)"
+    },
+    {
+      "id": 58,
+      "value": "authentic",
+      "options": [
+        "偽物の",
+        "高価な",
+        "本物の",
+        "最新の"
+      ],
+      "correctAnswer": "本物の",
+      "explanation": "「authentic」は、本物の、真正の、信頼できるという意味です。オリジナルであり、偽物ではないことを強調する際に使われます。例：This is an authentic Italian pizza. (これは本物のイタリアンピザだ。)"
+    },
+    {
+      "id": 59,
+      "value": "go away",
+      "options": [
+        "帰ってくる",
+        "立ち去る",
+        "現れる",
+        "我慢する"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "「go away」は、立ち去る、消え去る、なくなるという意味です。問題や困難がなくなることを願う場合にも使われます。例：I wish my headache would just go away. (頭痛が消えてくれればいいのに。)"
+    },
+    {
+      "id": 60,
+      "value": "sucky",
+      "options": [
+        "素晴らしい",
+        "ひどい",
+        "面白い",
+        "普通の"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「sucky」は、くだけた言葉で、ひどい、不快な、最悪という意味です。主に若者の間で使われます。例：That movie was really sucky. (あの映画は本当にひどかった。)"
+    },
+    {
+      "id": 61,
+      "value": "stipulated",
+      "options": [
+        "合意した",
+        "反対した",
+        "保留した",
+        "提案した"
+      ],
+      "correctAnswer": "合意した",
+      "explanation": "「stipulated」は、合意した、明記されたという意味です。契約や合意において、条件や条項が明確に定められていることを示します。例：It is stipulated in the contract that... (契約には～と明記されている。)"
+    },
+    {
+      "id": 62,
+      "value": "get shot down",
+      "options": [
+        "成功する",
+        "拒絶される",
+        "攻撃される",
+        "無視される"
+      ],
+      "correctAnswer": "拒絶される",
+      "explanation": "「get shot down」は、拒絶される、相手にされないという意味です。特に恋愛やビジネスの場面で、提案やアプローチが受け入れられなかった時に使われます。例：He got shot down when he asked her out. (彼は彼女をデートに誘ったが、拒絶された。)"
+    },
+    {
+      "id": 63,
+      "value": "impossible",
+      "options": [
+        "不可能な",
+        "簡単な",
+        "普通の",
+        "素晴らしい"
+      ],
+      "correctAnswer": "不可能な",
+      "explanation": "「impossible」は、不可能な、ありえないという意味です。実現が非常に難しい、または完全に不可能であることを示します。例：It's impossible to please everyone. (すべての人を喜ばせるのは不可能だ。)"
+    },
+    {
+      "id": 64,
+      "value": "douche",
+      "options": [
+        "正直者",
+        "嫌な奴",
+        "賢い人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "嫌な奴",
+      "explanation": "「douche」は、非常に不快で嫌な人、自己中心的で無神経な人を指す軽蔑的なスラングです。下品な言葉なので、使う場面には注意が必要です。例：He's such a douche. (彼は本当に嫌な奴だ。)"
+    },
+    {
+      "id": 65,
+      "value": "the La Brea Tar Pits",
+      "options": [
+        "有名な美術館",
+        "古代遺跡",
+        "タールピット",
+        "有名な庭園"
+      ],
+      "correctAnswer": "タールピット",
+      "explanation": "「La Brea Tar Pits」は、ロサンゼルスにあるタールピット（天然アスファルトの池）です。古代の動物の化石が多数発見されていることで知られています。観光名所としても有名です。"
+    },
+    {
+      "id": 66,
+      "value": "close enough",
+      "options": [
+        "遠すぎる",
+        "近すぎる",
+        "だいたい",
+        "正確に"
+      ],
+      "correctAnswer": "だいたい",
+      "explanation": "「close enough」は、だいたい、ほぼ、まあまあという意味です。完全ではないものの、許容範囲内であることを示します。例：That's close enough for government work. (まあ、そのくらいでいいだろう。)"
+    },
+    {
+      "id": 67,
+      "value": "crap itself",
+      "options": [
+        "幸せになる",
+        "動けなくなる",
+        "排便する",
+        "逃げ出す"
+      ],
+      "correctAnswer": "排便する",
+      "explanation": "「crap itself」は、恐怖で失禁するという意味のスラングです。非常に恐ろしい状況を表す際に使われます。例：The raccoon was so scared it crapped itself. (アライグマはとても怖がって失禁した。)"
+    },
+    {
+      "id": 68,
+      "value": "battlestar",
+      "options": [
+        "小さな船",
+        "宇宙ステーション",
+        "戦闘宇宙船",
+        "潜水艦"
+      ],
+      "correctAnswer": "戦闘宇宙船",
+      "explanation": "「battlestar」は、SFドラマ『Battlestar Galactica』に登場する戦闘宇宙船のことです。大規模な戦闘能力を持つ宇宙船を指します。SFファンにはおなじみの言葉です。"
+    },
+    {
+      "id": 69,
+      "value": "mating privileges",
+      "options": [
+        "食事の権利",
+        "独占権",
+        "交尾の権利",
+        "移動の自由"
+      ],
+      "correctAnswer": "交尾の権利",
+      "explanation": "「mating privileges」は、動物の交尾の権利を指す言葉ですが、ここではユーモラスに、性交渉の機会を意味しています。性的な関係を持つ許可や機会を指す婉曲表現として使われます。"
+    },
+    {
+      "id": 70,
+      "value": "empty-handed",
+      "options": [
+        "準備万端で",
+        "手ぶらで",
+        "用心深く",
+        "喜んで"
+      ],
+      "correctAnswer": "手ぶらで",
+      "explanation": "「empty-handed」は、手ぶらで、何も持っていないという意味です。贈り物や必要な物を持たずに訪問することを指します。例：Don't arrive empty-handed. (手ぶらで行ってはいけない。)"
+    },
+    {
+      "id": 71,
+      "value": "selective mutism",
+      "options": [
+        "多弁症",
+        "選択性緘黙",
+        "記憶喪失",
+        "失語症"
+      ],
+      "correctAnswer": "選択性緘黙",
+      "explanation": "「selective mutism」は、選択性緘黙という、特定の状況下でのみ話せなくなる精神疾患です。不安や恐怖が原因で起こることがあります。医学的な専門用語です。"
+    },
+    {
+      "id": 72,
+      "value": "on a stick",
+      "options": [
+        "棒に刺さって",
+        "皿に盛られて",
+        "袋に入って",
+        "箱に入って"
+      ],
+      "correctAnswer": "棒に刺さって",
+      "explanation": "「on a stick」は、棒に刺さった状態で提供される食べ物や物を指します。ホットドッグオンアスティックという店名で、棒に刺したレモネードが有名です。"
+    },
+    {
+      "id": 73,
+      "value": "pole dance",
+      "options": [
+        "フォークダンス",
+        "バレエ",
+        "ポールダンス",
+        "剣舞"
+      ],
+      "correctAnswer": "ポールダンス",
+      "explanation": "「pole dance」は、ポールを使って踊るダンスのことです。ここでは、レモネードを作る機械の動きをポールダンスに例えて、ユーモラスに表現しています。"
+    },
+    {
+      "id": 74,
+      "value": "access to",
+      "options": [
+        "制限",
+        "アクセス",
+        "反対",
+        "隠蔽"
+      ],
+      "correctAnswer": "アクセス",
+      "explanation": "「access to」は、～へのアクセス、～を利用できるという意味です。何かを利用する権利や機会があることを示します。例：Do you have access to the internet? (インターネットにアクセスできますか？)"
+    },
+    {
+      "id": 75,
+      "value": "usage",
+      "options": [
+        "拒否",
+        "利用法",
+        "起源",
+        "時代"
+      ],
+      "correctAnswer": "利用法",
+      "explanation": "「usage」は、使用法、用法、慣用という意味です。言葉や物の使い方、または特定の状況での使用例を指します。例：The usage of this word has changed over time. (この言葉の用法は時代とともに変化してきた。)"
+    },
+    {
+      "id": 76,
+      "value": "Tar Pits",
+      "options": [
+        "タールの貯蔵庫",
+        "歴史的建造物",
+        "化石の発掘現場",
+        "観光名所"
+      ],
+      "correctAnswer": "化石の発掘現場",
+      "explanation": "「Tar Pits」は、特にロサンゼルスのラ・ブレア・タールピットを指し、古代の動物の化石が豊富に発掘される場所として知られています。原油が地表に染み出してできた天然のアスファルトの池です。"
+    },
+    {
+      "id": 77,
+      "value": "intentional grounding",
+      "options": [
+        "意図的な試合放棄",
+        "不当な妨害行為",
+        "意図的な反則行為",
+        "QBが意図的にボールを捨てること"
+      ],
+      "correctAnswer": "QBが意図的にボールを捨てること",
+      "explanation": "「Intentional grounding」は、アメリカンフットボールの用語で、クォーターバック(QB)がタックルを避けるために、意図的にボールを捨てる反則行為です。この反則を犯すと、罰則として自陣のヤードを失います。"
+    },
+    {
+      "id": 78,
+      "value": "line of scrimmage",
+      "options": [
+        "攻撃ライン",
+        "守備ライン",
+        "スクリメージライン",
+        "タッチライン"
+      ],
+      "correctAnswer": "スクリメージライン",
+      "explanation": "「Line of scrimmage」は、アメリカンフットボールの用語で、各プレイの開始時に、両チームが対峙する仮想の線です。ボールの位置がこの線を決定します。"
+    },
+    {
+      "id": 79,
+      "value": "lactose intolerant",
+      "options": [
+        "乳糖不耐症",
+        "アルコール中毒",
+        "カフェイン中毒",
+        "グルテン不耐症"
+      ],
+      "correctAnswer": "乳糖不耐症",
+      "explanation": "「Lactose intolerant」は、乳糖不耐症という意味で、乳製品に含まれる乳糖を消化できない体質を指します。症状としては、腹痛や下痢などが挙げられます。"
+    },
+    {
+      "id": 80,
+      "value": "staleness",
+      "options": [
+        "新鮮さ",
+        "硬直",
+        "陳腐化",
+        "活気"
+      ],
+      "correctAnswer": "陳腐化",
+      "explanation": "「Staleness」は、食品などが新鮮さを失い、味が落ちたり、風味が損なわれたりする状態を指します。パンなどの場合は、乾燥して硬くなることを意味します。"
+    },
+    {
+      "id": 81,
+      "value": "mimesis",
+      "options": [
+        "模倣",
+        "創造",
+        "破壊",
+        "革新"
+      ],
+      "correctAnswer": "模倣",
+      "explanation": "「Mimesis」は、模倣、再現という意味で、特に芸術や文学の分野で、現実を模倣・再現する行為を指します。ここでは、レナードが周囲に溶け込もうとしている様子を指しています。"
+    },
+    {
+      "id": 82,
+      "value": "indigenous fauna",
+      "options": [
+        "先住民の文化",
+        "固有の植物相",
+        "固有の動物相",
+        "輸入された動物"
+      ],
+      "correctAnswer": "固有の動物相",
+      "explanation": "「Indigenous fauna」は、特定の地域に固有の動物相という意味です。ここでは、レナードの周囲の人々を指して、彼らがレナードを受け入れたかどうかを尋ねています。"
+    },
+    {
+      "id": 83,
+      "value": "nudge, nudge, wink, wink",
+      "options": [
+        "ほのめかし",
+        "強要",
+        "公然の秘密",
+        "内緒の話"
+      ],
+      "correctAnswer": "ほのめかし",
+      "explanation": "「Nudge, nudge, wink, wink」は、何かをほのめかす、それとなく伝えるという意味の表現です。相手に気づいてほしい時に使われます。秘密めいたニュアンスが含まれます。"
+    },
+    {
+      "id": 84,
+      "value": "delta-wing raptor",
+      "options": [
+        "ハンググライダー",
+        "カイト",
+        "スポーツカー",
+        "戦闘機"
+      ],
+      "correctAnswer": "カイト",
+      "explanation": "文脈から「delta-wing raptor」は凧の一種を指していると考えられます。「delta-wing」は三角翼、「raptor」は猛禽類の意味ですが、ここでは凧の形状を表現していると考えられます。"
+    },
+    {
+      "id": 85,
+      "value": "courtesy",
+      "options": [
+        "無礼",
+        "恩恵",
+        "義務",
+        "権利"
+      ],
+      "correctAnswer": "恩恵",
+      "explanation": "「Courtesy」は、礼儀正しさ、親切さ、好意という意味ですが、ここでは「（申し出という）恩恵」という意味で使われています。相手に対する配慮や気遣いを示す行為を指します。"
+    },
+    {
+      "id": 86,
+      "value": "challenging the ruling",
+      "options": [
+        "抗議",
+        "挑戦",
+        "妨害",
+        "応援"
+      ],
+      "correctAnswer": "抗議",
+      "explanation": "「Challenging the ruling」は、スポーツなどで審判の判定に異議を唱える、抗議するという意味です。ここでは、フットボールの試合における審判の判定に対する異議申し立てを指しています。"
+    },
+    {
+      "id": 87,
+      "value": "time-Outs",
+      "options": [
+        "休憩時間",
+        "戦略会議",
+        "タイムアウト",
+        "作戦変更"
+      ],
+      "correctAnswer": "タイムアウト",
+      "explanation": "「Time-Outs」は、スポーツの試合で、作戦の指示や選手の休息のために設けられた一時中断のことです。フットボールでは、各チームが一定数のタイムアウトを持つことができます。"
+    },
+    {
+      "id": 88,
+      "value": "saber-toothed cat",
+      "options": [
+        "絶滅した大型ネコ科動物",
+        "現代のペット",
+        "想像上の動物",
+        "サーベルを持った猫"
+      ],
+      "correctAnswer": "絶滅した大型ネコ科動物",
+      "explanation": "「Saber-toothed cat」は、剣歯虎（サーベルタイガー）のことです。先史時代に生息していた、牙が非常に発達したネコ科の動物を指します。"
+    },
+    {
+      "id": 89,
+      "value": "have a shot with",
+      "options": [
+        "成功の可能性",
+        "射撃の腕前",
+        "一緒に食事をする",
+        "写真を撮る"
+      ],
+      "correctAnswer": "成功の可能性",
+      "explanation": "「Have a shot with」は、恋愛関係において、誰かと成功する可能性、チャンスがあるという意味です。ここでは、ハワードがある女性と恋愛関係になれる可能性について話しています。"
+    },
+    {
+      "id": 90,
+      "value": "put yourself down",
+      "options": [
+        "自尊心を高める",
+        "自分を卑下する",
+        "運動をする",
+        "休憩を取る"
+      ],
+      "correctAnswer": "自分を卑下する",
+      "explanation": "「Put yourself down」は、自分自身を貶める、卑下するという意味です。自分の能力や価値を低く評価する発言や行動を指します。"
+    },
+    {
+      "id": 91,
+      "value": "wiry appeal",
+      "options": [
+        "筋肉質な魅力",
+        "細身の魅力",
+        "知的な魅力",
+        "ユーモアのセンス"
+      ],
+      "correctAnswer": "細身の魅力",
+      "explanation": "「Wiry appeal」は、筋肉質というよりは、細身で引き締まった体型が持つ魅力を指します。「Wiry」は針金のように細い、という意味があります。"
+    },
+    {
+      "id": 92,
+      "value": "douche",
+      "options": [
+        "賢者",
+        "親切な人",
+        "嫌なやつ",
+        "勇敢な人"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「Douche」は、軽蔑的な意味合いを持つスラングで、嫌なやつ、うぬぼれ屋、または不快な人物を指します。しばしば、無神経で自己中心的であると見なされる人を指します。"
+    },
+    {
+      "id": 93,
+      "value": "go ahead",
+      "options": [
+        "許可を与える",
+        "前進する",
+        "諦める",
+        "後退する"
+      ],
+      "correctAnswer": "許可を与える",
+      "explanation": "「Go ahead」は、相手に何かをすることを許可する時に使われる表現です。「どうぞ」「かまわないよ」といったニュアンスです。"
+    },
+    {
+      "id": 94,
+      "value": "turning out to be",
+      "options": [
+        "悪化する",
+        "最高の結果になる",
+        "判明する",
+        "終わる"
+      ],
+      "correctAnswer": "判明する",
+      "explanation": "「Turning out to be」は、最終的に〜になる、〜だと判明するという意味です。予想外の結果や、時間が経つにつれて明らかになる事柄について使われます。"
+    },
+    {
+      "id": 95,
+      "value": "fly kites",
+      "options": [
+        "凧揚げ",
+        "旅行",
+        "冒険",
+        "空を飛ぶ"
+      ],
+      "correctAnswer": "凧揚げ",
+      "explanation": "「Fly kites」は、凧揚げをするという意味です。子供から大人まで楽しめる娯楽の一つです。"
+    },
+    {
+      "id": 96,
+      "value": "alternative",
+      "options": [
+        "選択肢",
+        "義務",
+        "運命",
+        "現実"
+      ],
+      "correctAnswer": "選択肢",
+      "explanation": "「Alternative」は、代替案、選択肢という意味です。提示されたものとは別の可能性や方法を示す際に使われます。"
+    },
+    {
+      "id": 97,
+      "value": "in similar circumstances",
+      "options": [
+        "同様の状況下で",
+        "奇妙な状況下で",
+        "秘密の状況下で",
+        "異なる状況下で"
+      ],
+      "correctAnswer": "同様の状況下で",
+      "explanation": "「In similar circumstances」は、類似の状況、同じような状況下でという意味です。過去の経験や事例を引き合いに出す際に使われます。"
+    },
+    {
+      "id": 98,
+      "value": "pizza, sweetie.",
+      "options": [
+        "拒否する",
+        "謝罪する",
+        "提供する",
+        "賛成する"
+      ],
+      "correctAnswer": "提供する",
+      "explanation": "「pizza, sweetie.」は、相手にピザを提供する状況です。相手に何かを勧めたり、慰めたりする際に使われることがあります。"
+    },
+    {
+      "id": 99,
+      "value": "Thank you.",
+      "options": [
+        "感謝を述べる",
+        "不満を言う",
+        "命令する",
+        "質問する"
+      ],
+      "correctAnswer": "感謝を述べる",
+      "explanation": "「Thank you」は、感謝の気持ちを伝える基本的な表現です。相手の行為や親切に対して感謝の意を示す際に使われます。"
+    },
+    {
+      "id": 100,
+      "value": "the fridge",
+      "options": [
+        "冷蔵庫",
+        "電子レンジ",
+        "食器棚",
+        "冷凍庫"
+      ],
+      "correctAnswer": "冷蔵庫",
+      "explanation": "「the fridge」は、冷蔵庫の略称です。食品を低温で保存するための家電製品を指します。"
+    }
+  ]
+}

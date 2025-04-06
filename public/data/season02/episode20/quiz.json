@@ -1,0 +1,1060 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "Here we go.",
+      "options": [
+        "出発する",
+        "始まった",
+        "ここに行く",
+        "頑張ろう"
+      ],
+      "correctAnswer": "始まった",
+      "explanation": "「Here we go.」は、何か面倒なことや予想通りの事態が始まる時に使われる口語的な表現です。「また始まった」というニュアンスで、うんざりした気持ちや諦めを含めて使われることがあります。"
+    },
+    {
+      "id": 2,
+      "value": "get out of this rut",
+      "options": [
+        "困難を乗り越える",
+        "問題を解決する",
+        "現状から抜け出す",
+        "新しい趣味を始める"
+      ],
+      "correctAnswer": "現状から抜け出す",
+      "explanation": "「rut」は、単調で退屈な日常や習慣を指します。「get out of this rut」は、そのような状態から抜け出して、何か新しいことを始めたり、変化を求めたりすることを意味します。停滞した状況を打破したい時に使われます。"
+    },
+    {
+      "id": 3,
+      "value": "go for",
+      "options": [
+        "反対する",
+        "試してみる",
+        "我慢する",
+        "提案する"
+      ],
+      "correctAnswer": "試してみる",
+      "explanation": "「go for」は、何かを試してみる、挑戦してみるという意味です。また、何かを強く望む、手に入れようとするという意味合いも持ちます。ここでは「ヤギ肉でも良いな」というニュアンスで使われています。"
+    },
+    {
+      "id": 4,
+      "value": "Way to think outside the box",
+      "options": [
+        "常識にとらわれるな",
+        "箱の外で考えろ",
+        "柔軟に考えろ",
+        "型にはまった考え方だ"
+      ],
+      "correctAnswer": "柔軟に考えろ",
+      "explanation": "「think outside the box」は、既存の枠にとらわれず、自由な発想で考えることを意味するイディオムです。しかし、ここでは「pressed right up against the box」とあるので、全く箱から出ていない、つまり型にはまった考え方だ、という皮肉として使われています。"
+    },
+    {
+      "id": 5,
+      "value": "proffer",
+      "options": [
+        "拒否する",
+        "提案する",
+        "要求する",
+        "非難する"
+      ],
+      "correctAnswer": "提案する",
+      "explanation": "「proffer」は、申し出る、提案するという意味の動詞です。特に、何かを受け入れてもらうために、丁寧に差し出すニュアンスがあります。フォーマルな場面や、相手に敬意を払いたい時に使われます。"
+    },
+    {
+      "id": 6,
+      "value": "courtesy of",
+      "options": [
+        "〜にも関わらず",
+        "〜の犠牲のもとに",
+        "〜のおかげで",
+        "〜の代わりに"
+      ],
+      "correctAnswer": "〜のおかげで",
+      "explanation": "「courtesy of」は、〜のおかげで、〜の好意で、という意味を表す表現です。何か良いことが、特定の人物や物事によってもたらされたことを示します。ここでは「99セントのマルガリータと2個で1ドルのゼリーショットのおかげで」という意味合いになります。"
+    },
+    {
+      "id": 7,
+      "value": "odds of",
+      "options": [
+        "〜の義務",
+        "〜の確率",
+        "〜の基準",
+        "〜の危険"
+      ],
+      "correctAnswer": "〜の確率",
+      "explanation": "「odds」は、ある事象が起こる確率や可能性を意味します。「the odds of」という形で、具体的な事象を伴って使われることが多いです。ここでは「女の子をバーでナンパできる確率」という意味合いになります。"
+    },
+    {
+      "id": 8,
+      "value": "Drake Equation",
+      "options": [
+        "ドレイクの法則",
+        "ドレイク方程式",
+        "ホーキング方程式",
+        "フェルミ推定"
+      ],
+      "correctAnswer": "ドレイク方程式",
+      "explanation": "「Drake Equation」は、宇宙に存在する地球外文明の数を推定するための方程式です。天文学者のフランク・ドレイクによって提唱されました。宇宙における生命の可能性について議論する際に用いられます。"
+    },
+    {
+      "id": 9,
+      "value": "extraterrestrials",
+      "options": [
+        "地球外生命体",
+        "地底人",
+        "宇宙飛行士",
+        "異星人"
+      ],
+      "correctAnswer": "地球外生命体",
+      "explanation": "「extraterrestrial」は、地球外の、地球外生命体という意味です。宇宙に存在するかもしれない生命について話す際に使われます。ここでは「地球外生命体との接触」という意味合いになります。"
+    },
+    {
+      "id": 10,
+      "value": "restrictive",
+      "options": [
+        "自由な",
+        "制限的な",
+        "包括的な",
+        "開放的な"
+      ],
+      "correctAnswer": "制限的な",
+      "explanation": "「restrictive」は、制限的な、制約のあるという意味です。ここでは、ドレイク方程式において、地球外生命が存在するための条件が厳しく絞られていく様子を表しています。"
+    },
+    {
+      "id": 11,
+      "value": "fractional values",
+      "options": [
+        "整数",
+        "少数",
+        "概数",
+        "合計値"
+      ],
+      "correctAnswer": "少数",
+      "explanation": "「fractional value」は、端数、少数という意味です。ここでは、ドレイク方程式の各要素が、0から1の間の少数で表されることを指しています。"
+    },
+    {
+      "id": 12,
+      "value": "modify",
+      "options": [
+        "無視する",
+        "修正する",
+        "追加する",
+        "削除する"
+      ],
+      "correctAnswer": "修正する",
+      "explanation": "「modify」は、修正する、変更するという意味です。ここでは、ドレイク方程式を、自分たちの性交渉の可能性を計算するために変更することを指しています。"
+    },
+    {
+      "id": 13,
+      "value": "crunching the numbers",
+      "options": [
+        "数字を無視する",
+        "計算する",
+        "数字を暗記する",
+        "数字を捨てる"
+      ],
+      "correctAnswer": "計算する",
+      "explanation": "「crunch the numbers」は、複雑な計算やデータ分析を行うことを意味するイディオムです。特に、大量のデータを処理して、重要な情報を導き出す際に用いられます。"
+    },
+    {
+      "id": 14,
+      "value": "conservative",
+      "options": [
+        "革新的な",
+        "保守的な",
+        "リベラルな",
+        "進歩的な"
+      ],
+      "correctAnswer": "保守的な",
+      "explanation": "「conservative」は、保守的な、控えめなという意味です。ここでは、性交渉の可能性の数を控えめに見積もっていることを表しています。"
+    },
+    {
+      "id": 15,
+      "value": "horny",
+      "options": [
+        "悲しい",
+        "怒っている",
+        "性欲の強い",
+        "退屈な"
+      ],
+      "correctAnswer": "性欲の強い",
+      "explanation": "「horny」は、性欲の強い、性的に興奮しているという意味のスラングです。ここでは、ハワードが自分が性欲旺盛なエンジニアであることを強調しています。"
+    },
+    {
+      "id": 16,
+      "value": "bounce",
+      "options": [
+        "踊る",
+        "出発する",
+        "休憩する",
+        "拒否する"
+      ],
+      "correctAnswer": "出発する",
+      "explanation": "「bounce」は、立ち去る、出発するという意味のスラングです。特に、急いでどこかへ行くニュアンスがあります。ここでは「出かけようぜ」という意味合いになります。"
+    },
+    {
+      "id": 17,
+      "value": "hit it and quit it",
+      "options": [
+        "一目惚れ",
+        "二股",
+        "一夜限り",
+        "略奪婚"
+      ],
+      "correctAnswer": "一夜限り",
+      "explanation": "「hit it and quit it」は、性行為後すぐに立ち去る、一夜限りの関係を意味するスラングです。ここでは、女性とすぐに別れるという、軽薄な態度を示しています。"
+    },
+    {
+      "id": 18,
+      "value": "Fascinating.",
+      "options": [
+        "退屈だ",
+        "素晴らしい",
+        "くだらない",
+        "興味深い"
+      ],
+      "correctAnswer": "興味深い",
+      "explanation": "「Fascinating.」は、興味深い、面白いという意味です。シェルドンが皮肉を込めて使うことが多い表現で、必ずしも本当に興味を持っているわけではありません。"
+    },
+    {
+      "id": 19,
+      "value": "fallen down the rabbit hole",
+      "options": [
+        "現実逃避",
+        "問題解決",
+        "不思議な体験",
+        "日常生活"
+      ],
+      "correctAnswer": "不思議な体験",
+      "explanation": "「fall down the rabbit hole」は、不思議な世界に迷い込む、奇妙な体験をするという意味のイディオムです。ルイス・キャロルの『不思議の国のアリス』に由来します。ここでは、普段とは違うことをしている状況を指しています。"
+    },
+    {
+      "id": 20,
+      "value": "take into account",
+      "options": [
+        "考慮に入れる",
+        "無視する",
+        "軽蔑する",
+        "考慮しない"
+      ],
+      "correctAnswer": "考慮に入れる",
+      "explanation": "「take into account」は、〜を考慮に入れる、考慮するという意味です。ある事柄を判断する際に、特定の要素を考慮することを意味します。ここでは「考慮に入れることを忘れていた」という意味合いになります。"
+    },
+    {
+      "id": 21,
+      "value": "feeble",
+      "options": [
+        "面白い",
+        "弱い",
+        "深刻な",
+        "強力な"
+      ],
+      "correctAnswer": "弱い",
+      "explanation": "「feeble」は、弱い、効果がないという意味です。ここでは、コミックを「ユーモアの弱い試み」と表現することで、見下したニュアンスを出しています。"
+    },
+    {
+      "id": 22,
+      "value": "aptitude",
+      "options": [
+        "嫌悪感",
+        "適性",
+        "身長",
+        "住所"
+      ],
+      "correctAnswer": "適性",
+      "explanation": "「aptitude」は、才能、適性という意味です。ここでは、彼の才能も知らずにキャリアを選ぶのか？と、ペニーの無神経さを批判しています。"
+    },
+    {
+      "id": 23,
+      "value": "go on",
+      "options": [
+        "終わる",
+        "続く",
+        "始まる",
+        "急ぐ"
+      ],
+      "correctAnswer": "続く",
+      "explanation": "「go on」は、続く、継続するという意味です。ここでは、「このやり取りがいつまでも続く」というニュアンスで使われています。"
+    },
+    {
+      "id": 24,
+      "value": "trying to avoid",
+      "options": [
+        "挑戦する",
+        "手伝う",
+        "避ける",
+        "楽しむ"
+      ],
+      "correctAnswer": "避ける",
+      "explanation": "「try to avoid」は、〜を避けようとする、〜を回避しようとするという意味です。ここでは、ペニーがシェルドンとの会話を避けようとしていたことを表しています。"
+    },
+    {
+      "id": 25,
+      "value": "superb",
+      "options": [
+        "最悪の",
+        "素晴らしい",
+        "普通の",
+        "退屈な"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「superb」は、素晴らしい、最高のという意味です。ここでは、皮肉を込めて、ペニーが選んだコミックを褒めているように見せかけています。"
+    },
+    {
+      "id": 26,
+      "value": "pathetic",
+      "options": [
+        "同情的な",
+        "悲劇的な",
+        "哀れな",
+        "熱狂的な"
+      ],
+      "correctAnswer": "哀れな",
+      "explanation": "「pathetic」は、哀れな、情けない、という意味合いを持ちます。人の行動や状況を軽蔑的に評価する際に用いられることが多いです。例：He's a pathetic excuse for a leader. (彼はリーダーとしては情けない)"
+    },
+    {
+      "id": 27,
+      "value": "terrific",
+      "options": [
+        "恐ろしい",
+        "素晴らしい",
+        "退屈な",
+        "普通の"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、素晴らしい、最高の、という意味です。肯定的な感情を表す際に使われ、日常会話や文章で幅広く用いられます。例：She did a terrific job on the presentation. (彼女はプレゼンテーションで素晴らしい仕事をした)"
+    },
+    {
+      "id": 28,
+      "value": "tucked into",
+      "options": [
+        "縫い付けられた",
+        "挟まれた",
+        "押し込まれた",
+        "積み重ねられた"
+      ],
+      "correctAnswer": "押し込まれた",
+      "explanation": "「tuck into」は、服などを（ズボンやスカートの中に）押し込む、という意味です。また、食べ物をがつがつ食べるという意味もあります。例：He tucked his shirt into his pants. (彼はシャツをズボンに押し込んだ)"
+    },
+    {
+      "id": 29,
+      "value": "feat",
+      "options": [
+        "足",
+        "偉業",
+        "特徴",
+        "失敗"
+      ],
+      "correctAnswer": "偉業",
+      "explanation": "「feat」は、偉業、手柄、という意味です。特に、高度な技術や努力を要する行為を指すことが多いです。例：Climbing Mount Everest is an impressive feat. (エベレスト登頂は印象的な偉業だ)"
+    },
+    {
+      "id": 30,
+      "value": "gamble",
+      "options": [
+        "ギャンブルをする",
+        "計画する",
+        "投資する",
+        "議論する"
+      ],
+      "correctAnswer": "ギャンブルをする",
+      "explanation": "「gamble」は、ギャンブルをする、賭ける、という意味です。不確実な結果にリスクを冒す行為全般を指します。例：He gambled all his money on the horse race. (彼は競馬に全財産を賭けた)"
+    },
+    {
+      "id": 31,
+      "value": "ruling",
+      "options": [
+        "支配",
+        "判決",
+        "定規",
+        "意見"
+      ],
+      "correctAnswer": "判決",
+      "explanation": "「ruling」は、判決、決定、裁定、という意味です。特に、法的な判断や、紛争に対する決定を指します。例：The judge issued a ruling in favor of the defendant. (裁判官は被告に有利な判決を下した)"
+    },
+    {
+      "id": 32,
+      "value": "dead set on",
+      "options": [
+        "乗り気でない",
+        "興味がない",
+        "気が進まない",
+        "決意している"
+      ],
+      "correctAnswer": "決意している",
+      "explanation": "「dead set on」は、～することを固く決意している、という意味です。強い決意や意志を表す際に用いられます。例：She is dead set on becoming a doctor. (彼女は医者になることを固く決意している)"
+    },
+    {
+      "id": 33,
+      "value": "morally ambiguous",
+      "options": [
+        "道徳的に正しい",
+        "道徳的にあいまいな",
+        "道徳的に明白な",
+        "道徳的に無関係な"
+      ],
+      "correctAnswer": "道徳的にあいまいな",
+      "explanation": "「morally ambiguous」は、道徳的にあいまいな、という意味です。善悪の判断がつきにくい状況や人物を指します。例：The protagonist is a morally ambiguous character. (主人公は道徳的にあいまいな人物だ)"
+    },
+    {
+      "id": 34,
+      "value": "tormented",
+      "options": [
+        "喜ばせる",
+        "楽しませる",
+        "苦しめる",
+        "無視する"
+      ],
+      "correctAnswer": "苦しめる",
+      "explanation": "「torment」は、苦しめる、悩ませる、という意味です。精神的または肉体的な苦痛を与えることを指します。例：He was tormented by guilt. (彼は罪悪感に苦しめられた)"
+    },
+    {
+      "id": 35,
+      "value": "all up in (one's) business",
+      "options": [
+        "仕事を探している",
+        "ビジネスを拡大している",
+        "事業に失敗している",
+        "干渉している"
+      ],
+      "correctAnswer": "干渉している",
+      "explanation": "「up in someone's business」は、他人の事に干渉する、という意味のスラング表現です。相手のプライベートな事に立ち入る様子を表します。 例：Why do you have to be all up in my business?(どうしてあなたは私のことにそんなに干渉するの？)"
+    },
+    {
+      "id": 36,
+      "value": "drive a hard bargain",
+      "options": [
+        "運転が上手い",
+        "簡単に騙される",
+        "交渉が上手い",
+        "衝動買いをする"
+      ],
+      "correctAnswer": "交渉が上手い",
+      "explanation": "「drive a hard bargain」は、駆け引きが上手い、交渉で相手に譲歩させることができる、という意味です。取引や交渉の場面で、自分の利益を最大限に引き出す能力を指します。例：She drives a hard bargain, so be prepared to negotiate. (彼女は交渉上手だから、交渉の準備をしておきなさい。)"
+    },
+    {
+      "id": 37,
+      "value": "ham-fisted",
+      "options": [
+        "手際の良い",
+        "繊細な",
+        "不器用な",
+        "器用な"
+      ],
+      "correctAnswer": "不器用な",
+      "explanation": "「ham-fisted」は、不器用な、下手な、という意味です。手先が不器用で、物をうまく扱えない様子を表します。例：He's a bit ham-fisted when it comes to fixing things. (彼は物を修理するのが少し不器用だ)"
+    },
+    {
+      "id": 38,
+      "value": "crossover",
+      "options": [
+        "交差点",
+        "協力",
+        "分離",
+        "拒否"
+      ],
+      "correctAnswer": "協力",
+      "explanation": "「crossover」は、クロスオーバー、共同出演、交流、という意味です。異なるジャンルや分野が組み合わさることを指します。 例：This song is a crossover between pop and classical music.(この曲はポップスとクラシックのクロスオーバーだ。)"
+    },
+    {
+      "id": 51,
+      "value": "turmoil",
+      "options": [
+        "平和",
+        "混乱",
+        "喜び",
+        "安定"
+      ],
+      "correctAnswer": "混乱",
+      "explanation": "「turmoil」は、精神的な混乱や動揺、騒動などを意味します。内的、外的な要因によって引き起こされる、不安定で落ち着かない状態を指します。\n例：The country was in turmoil after the president's assassination. (大統領暗殺後、国は混乱状態にあった。)"
+    },
+    {
+      "id": 52,
+      "value": "pick up on",
+      "options": [
+        "無視する",
+        "気づく",
+        "忘れる",
+        "嫌う"
+      ],
+      "correctAnswer": "気づく",
+      "explanation": "「pick up on」は、(人が言ったことや暗示していることに)気づく、理解するという意味です。何かを敏感に察知するニュアンスを含みます。\n例：She quickly picked up on his nervousness. (彼女はすぐに彼の緊張に気づいた。)"
+    },
+    {
+      "id": 53,
+      "value": "launch a blog",
+      "options": [
+        "ブログを閉鎖する",
+        "ブログを始める",
+        "ブログを読む",
+        "ブログを批判する"
+      ],
+      "correctAnswer": "ブログを始める",
+      "explanation": "「launch a blog」は、ブログを開始する、立ち上げるという意味です。新しいウェブサイトやプロジェクトを始める際に使われる表現です。\n例：She decided to launch a blog about her travels. (彼女は旅行についてのブログを始めることにした。)"
+    },
+    {
+      "id": 54,
+      "value": "insight",
+      "options": [
+        "無知",
+        "洞察",
+        "無関心",
+        "誤解"
+      ],
+      "correctAnswer": "洞察",
+      "explanation": "「insight」は、物事の本質を見抜く力、深い理解、洞察力という意味です。表面的な理解を超えた、本質的な理解を指します。\n例：The book provides valuable insights into the human mind. (その本は人間の心に関する貴重な洞察を提供している。)"
+    },
+    {
+      "id": 55,
+      "value": "significantly",
+      "options": [
+        "わずかに",
+        "著しく",
+        "偶然に",
+        "無関係に"
+      ],
+      "correctAnswer": "著しく",
+      "explanation": "「significantly」は、著しく、大幅に、重要な意味を持つという意味です。何かが重要であることや、影響が大きいことを強調する際に使われます。\n例：The new policy significantly reduced the number of accidents. (新しい政策は事故の数を著しく減少させた。)"
+    },
+    {
+      "id": 56,
+      "value": "vintage",
+      "options": [
+        "最新の",
+        "古典的な",
+        "ありふれた",
+        "未完成の"
+      ],
+      "correctAnswer": "古典的な",
+      "explanation": "「vintage」は、年代物、古くて価値のあるもの、特にワインや車などに対して使われます。ここでは「古典的な」という意味合いで使われています。\n例：He collects vintage cars. (彼はヴィンテージカーを収集している。)"
+    },
+    {
+      "id": 57,
+      "value": "nightmare",
+      "options": [
+        "悪夢",
+        "夢",
+        "希望",
+        "幸運"
+      ],
+      "correctAnswer": "悪夢",
+      "explanation": "「nightmare」は、悪夢、非常に不快な経験、耐えがたい状況という意味です。\n例：The traffic jam was a nightmare. (その交通渋滞は悪夢だった。)"
+    },
+    {
+      "id": 58,
+      "value": "up to",
+      "options": [
+        "計画",
+        "何かに従事している",
+        "終わって",
+        "退屈して"
+      ],
+      "correctAnswer": "何かに従事している",
+      "explanation": "「up to」は、何かに従事している、何かをしようとしているという意味です。特に、What are you up to? という形で、相手が何をしているか尋ねる際によく使われます。\n例：What are you up to this weekend? (週末は何をする予定ですか？)"
+    },
+    {
+      "id": 59,
+      "value": "awesome",
+      "options": [
+        "退屈な",
+        "素晴らしい",
+        "ひどい",
+        "普通の"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「awesome」は、非常に素晴らしい、感動的な、畏敬の念を起こさせるという意味です。口語的な表現で、強い感情を表します。\n例：That concert was awesome! (あのコンサートは最高だった！)"
+    },
+    {
+      "id": 60,
+      "value": "beta version",
+      "options": [
+        "最終版",
+        "試用版",
+        "海賊版",
+        "公式版"
+      ],
+      "correctAnswer": "試用版",
+      "explanation": "「beta version」は、ソフトウェアなどの開発段階における試用版のことです。一般公開前にテスト目的で配布されることが多いです。\n例：The beta version of the software is available for download. (そのソフトウェアのベータ版はダウンロード可能です。)"
+    },
+    {
+      "id": 61,
+      "value": "slip off",
+      "options": [
+        "履く",
+        "脱ぐ",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "脱ぐ",
+      "explanation": "「slip off」は、(衣服などを)さっと脱ぐ、滑り落ちるという意味です。\n例：She slipped off her shoes and relaxed on the sofa. (彼女は靴を脱いでソファでくつろいだ。)"
+    },
+    {
+      "id": 62,
+      "value": "briefs",
+      "options": [
+        "長いズボン",
+        "ブリーフ",
+        "スカート",
+        "ジャケット"
+      ],
+      "correctAnswer": "ブリーフ",
+      "explanation": "「briefs」は、男性用の下着であるブリーフのことです。\n例：He prefers to wear briefs rather than boxers. (彼はボクサーパンツよりもブリーフを好む。)"
+    },
+    {
+      "id": 63,
+      "value": "lit up",
+      "options": [
+        "酔っ払って",
+        "冷静で",
+        "眠くて",
+        "怒って"
+      ],
+      "correctAnswer": "酔っ払って",
+      "explanation": "「lit up」は、俗語で酔っ払っている、ハイになっているという意味です。主にアルコールや薬物の影響を受けている状態を指します。\n例：He was too lit up to drive. (彼は酔っ払いすぎて運転できなかった。)"
+    },
+    {
+      "id": 64,
+      "value": "thin the herd",
+      "options": [
+        "群れを増やす",
+        "数を減らす",
+        "群れを養う",
+        "群れを観察する"
+      ],
+      "correctAnswer": "数を減らす",
+      "explanation": "「thin the herd」は、群れの数を減らす、淘汰するという意味です。ここでは、競争相手を減らすという比喩的な意味で使われています。\n例：The company laid off employees to thin the herd. (会社は従業員を解雇して人員削減を行った。)"
+    },
+    {
+      "id": 65,
+      "value": "lame",
+      "options": [
+        "健康な",
+        "足が不自由な",
+        "強い",
+        "若い"
+      ],
+      "correctAnswer": "足が不自由な",
+      "explanation": "「lame」は、足が不自由な、不格好なという意味です。ここでは比喩的に「魅力のない」「つまらない」という意味で使われています。\n例：That's a lame excuse. (それはつまらない言い訳だ。)"
+    },
+    {
+      "id": 66,
+      "value": "spot",
+      "options": [
+        "隠す",
+        "見つける",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "見つける",
+      "explanation": "「spot」は、見つける、見かける、特定するという意味です。注意して探す、あるいは偶然に見つけるニュアンスがあります。\n例：I spotted him in the crowd. (私は人混みの中で彼を見つけた。)"
+    },
+    {
+      "id": 67,
+      "value": "showed up",
+      "options": [
+        "現れた",
+        "逃げた",
+        "隠れた",
+        "迷った"
+      ],
+      "correctAnswer": "現れた",
+      "explanation": "「show up」は、現れる、姿を現すという意味です。特に、予定されていた場所やイベントに到着することを指します。\n例：He didn't show up for the meeting. (彼は会議に現れなかった。)"
+    },
+    {
+      "id": 68,
+      "value": "art opening",
+      "options": [
+        "美術館",
+        "芸術展のオープニング",
+        "絵を描くこと",
+        "芸術作品"
+      ],
+      "correctAnswer": "芸術展のオープニング",
+      "explanation": "「art opening」は、芸術展のオープニング、初日という意味です。新しい展示会の初日を祝うイベントを指します。\n例：We went to an art opening last night. (私たちは昨夜、芸術展のオープニングに行った。)"
+    },
+    {
+      "id": 69,
+      "value": "decaf",
+      "options": [
+        "濃いコーヒー",
+        "カフェインレスコーヒー",
+        "冷たいコーヒー",
+        "苦いコーヒー"
+      ],
+      "correctAnswer": "カフェインレスコーヒー",
+      "explanation": "「decaf」は、カフェインレスコーヒーのことです。カフェインを取り除いたコーヒーを指します。\n例：I'll have a decaf latte, please. (カフェインレスラテをお願いします。)"
+    },
+    {
+      "id": 70,
+      "value": "fair to say",
+      "options": [
+        "不公平だと言う",
+        "言うのは正しい",
+        "言うのは難しい",
+        "言うのは不可能だ"
+      ],
+      "correctAnswer": "言うのは正しい",
+      "explanation": "「fair to say」は、～と言うのは正しい、～と言っても良いという意味です。ある意見や判断を述べる際に、それが妥当であることを示すために使われます。\n例：It's fair to say that he is the best player on the team. (彼がチームで最高の選手だと言っても良いだろう。)"
+    },
+    {
+      "id": 71,
+      "value": "interactive comments section",
+      "options": [
+        "一方的なコメント欄",
+        "対話型のコメント欄",
+        "削除されたコメント欄",
+        "非公開のコメント欄"
+      ],
+      "correctAnswer": "対話型のコメント欄",
+      "explanation": "「interactive comments section」は、読者がコメントを投稿し、互いに意見交換ができる対話型のコメント欄を指します。ブログやウェブサイトでよく見られます。\n例：The blog has an interactive comments section where readers can share their thoughts. (そのブログには、読者が意見を共有できる対話型のコメント欄があります。)"
+    },
+    {
+      "id": 72,
+      "value": "meant to be",
+      "options": [
+        "偶然の",
+        "運命である",
+        "忘れられた",
+        "避けるべき"
+      ],
+      "correctAnswer": "運命である",
+      "explanation": "「meant to be」は、「〜であるはずだ」「運命だ」という意味です。ここでは「そうあるべき」というニュアンスで使われています。\n例：They were meant to be together. (彼らは一緒になる運命だった。)"
+    },
+    {
+      "id": 73,
+      "value": "grasshopper",
+      "options": [
+        "カクテルの名前",
+        "昆虫の名前",
+        "飲み物のグラス",
+        "バーテンダーの技"
+      ],
+      "correctAnswer": "カクテルの名前",
+      "explanation": "「grasshopper」は、ミントリキュールをベースにした緑色のカクテルの名前です。\n例：He ordered a grasshopper at the bar. (彼はバーでグラスホッパーを注文した。)"
+    },
+    {
+      "id": 74,
+      "value": "Dynamic Duo",
+      "options": [
+        "孤独なヒーロー",
+        "最強の二人組",
+        "秘密結社",
+        "伝説の剣"
+      ],
+      "correctAnswer": "最強の二人組",
+      "explanation": "「Dynamic Duo」は、特に協力して活躍する強力な二人組を指す表現で、バットマンとロビンなどのコンビを連想させます。\n例：They are the Dynamic Duo of the office, always working together. (彼らはオフィスで最強の二人組で、いつも協力して仕事をしている。)"
+    },
+    {
+      "id": 75,
+      "value": "Captain Sweatpants",
+      "options": [
+        "運動神経抜群の人",
+        "だらしない格好の人",
+        "軍隊のリーダー",
+        "スポーツチームのキャプテン"
+      ],
+      "correctAnswer": "だらしない格好の人",
+      "explanation": "「Captain Sweatpants」は、スウェットパンツを常に着用しているような、だらしない格好の人を指す、ユーモラスな表現です。\n例：He's such a Captain Sweatpants, always wearing sweatpants to class. (彼は本当にだらしない格好で、いつも授業にスウェットパンツを履いてくる。)"
+    },
+    {
+      "id": 76,
+      "value": "asserting",
+      "options": [
+        "主張する",
+        "却下する",
+        "同意する",
+        "提案する"
+      ],
+      "correctAnswer": "主張する",
+      "explanation": "「assert」は、自分の意見や権利などを強く主張するという意味です。議論や討論の場で、自信を持って自分の考えを述べるときに使われます。例文：He asserted his innocence throughout the trial. (彼は裁判中ずっと無罪を主張した。)"
+    },
+    {
+      "id": 77,
+      "value": "successor",
+      "options": [
+        "支持者",
+        "後継者",
+        "敵対者",
+        "創設者"
+      ],
+      "correctAnswer": "後継者",
+      "explanation": "「successor」は、地位、職務、財産などを引き継ぐ人のことを指します。組織や事業の継続性において重要な役割を担う人物を指すことが多いです。例文：Who will be the next successor of the company president? (次期社長の後継者は誰になるのだろうか？)"
+    },
+    {
+      "id": 78,
+      "value": "subject to gradation",
+      "options": [
+        "段階的に変化する",
+        "全く変化しない",
+        "急激に変化する",
+        "予測不可能である"
+      ],
+      "correctAnswer": "段階的に変化する",
+      "explanation": "「subject to gradation」は、段階や程度によって変化しうる、という意味です。絶対的なものではなく、程度やレベルが存在することを示します。例文：Success is subject to gradation, from small achievements to major breakthroughs. (成功は、小さな成果から大きな躍進まで、段階的に変化する。)"
+    },
+    {
+      "id": 79,
+      "value": "provocative",
+      "options": [
+        "扇動的な",
+        "穏やかな",
+        "建設的な",
+        "友好的な"
+      ],
+      "correctAnswer": "扇動的な",
+      "explanation": "「provocative」は、人を怒らせたり、議論を呼び起こしたりするような、刺激的なという意味です。意図的に挑発するようなニュアンスを含みます。例文：His provocative remarks sparked a heated debate. (彼の挑発的な発言は激しい議論を引き起こした。)"
+    },
+    {
+      "id": 80,
+      "value": "whiplash",
+      "options": [
+        "むち打ち",
+        "安静",
+        "興奮",
+        "満足"
+      ],
+      "correctAnswer": "むち打ち",
+      "explanation": "「whiplash」は、主に交通事故などで首が激しく揺さぶられて起こるむち打ち症を指します。比喩的には、急激な変化や衝撃を表すこともあります。例文：The sudden policy change gave everyone whiplash. (突然の政策変更は皆に衝撃を与えた。)"
+    },
+    {
+      "id": 81,
+      "value": "stumble",
+      "options": [
+        "つまずく",
+        "踊る",
+        "歩く",
+        "走る"
+      ],
+      "correctAnswer": "つまずく",
+      "explanation": "「stumble」は、つまずく、よろめくという意味です。物理的につまずく以外にも、比喩的に失敗や躊躇することを指す場合もあります。例文：He stumbled over the words in his speech. (彼はスピーチで言葉につまずいた。)"
+    },
+    {
+      "id": 82,
+      "value": "ventriloquist dummy",
+      "options": [
+        "腹話術人形",
+        "操り人形",
+        "蝋人形",
+        "等身大フィギュア"
+      ],
+      "correctAnswer": "腹話術人形",
+      "explanation": "「ventriloquist dummy」は、腹話術師が使用する人形のことです。腹話術では、人形がまるで生きているかのように話すことで観客を楽しませます。例文：The ventriloquist and his dummy were a popular act. (その腹話術師と人形は人気のある出し物だった。)"
+    },
+    {
+      "id": 83,
+      "value": "stuck in",
+      "options": [
+        "夢中になっている",
+        "閉じ込められている",
+        "興味がない",
+        "解放されている"
+      ],
+      "correctAnswer": "閉じ込められている",
+      "explanation": "「stuck in」は、特定の状況や考えに囚われている、抜け出せないという意味です。物理的な場所に限らず、精神的な状態にも使われます。例文：He's stuck in a dead-end job. (彼は将来性のない仕事に縛られている。)"
+    },
+    {
+      "id": 84,
+      "value": "raison d’être",
+      "options": [
+        "存在意義",
+        "生存本能",
+        "行動原理",
+        "社会的責任"
+      ],
+      "correctAnswer": "存在意義",
+      "explanation": "「raison d’être」はフランス語で、存在理由、存在意義という意味です。ある人や物事の存在を正当化する根拠や目的を指します。例文：Her children are her raison d'être. (彼女にとって子供たちは存在意義だ。)"
+    },
+    {
+      "id": 85,
+      "value": "au contraire",
+      "options": [
+        "その通り",
+        "とんでもない",
+        "同じように",
+        "問題ない"
+      ],
+      "correctAnswer": "とんでもない",
+      "explanation": "「au contraire」はフランス語で、「それどころか」「とんでもない」という意味です。相手の意見や発言を強く否定する際に使われます。例文：'Do you think this is easy?' 'Au contraire, it's very difficult.' (「これは簡単だと思いますか？」「とんでもない、とても難しいです。」)"
+    },
+    {
+      "id": 86,
+      "value": "resent",
+      "options": [
+        "感謝する",
+        "嫌う",
+        "無視する",
+        "理解する"
+      ],
+      "correctAnswer": "嫌う",
+      "explanation": "「resent」は、不快に思う、腹を立てる、という意味です。特に、不当だと感じる状況や扱いに対して抱く感情を表します。例文：She resented being treated like a child. (彼女は子供扱いされることを不快に思った。)"
+    },
+    {
+      "id": 87,
+      "value": "darn tootin'",
+      "options": [
+        "その通り",
+        "間違っている",
+        "関係ない",
+        "どうでもいい"
+      ],
+      "correctAnswer": "その通り",
+      "explanation": "「darn tootin'」は、俗語的な表現で、「その通り」「もちろん」という意味です。強く同意や肯定を表す際に使われます。例文：'Was it a good game?' 'Darn tootin' it was!' (「いい試合だった？」「もちろん、最高だったよ！」)"
+    },
+    {
+      "id": 88,
+      "value": "maul",
+      "options": [
+        "優しく扱う",
+        "手荒く扱う",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "手荒く扱う",
+      "explanation": "「maul」は、動物が（特に爪や牙で）攻撃する、手荒く扱うという意味です。比喩的に、激しく非難したり攻撃したりする意味でも使われます。例文：The critics mauled his latest novel. (批評家たちは彼の最新の小説を酷評した。)"
+    },
+    {
+      "id": 89,
+      "value": "rabid",
+      "options": [
+        "狂暴な",
+        "おとなしい",
+        "友好的な",
+        "臆病な"
+      ],
+      "correctAnswer": "狂暴な",
+      "explanation": "「rabid」は、狂犬病にかかった、狂暴な、という意味です。比喩的に、熱狂的な、過激なという意味でも使われます。例文：He's a rabid sports fan. (彼は熱狂的なスポーツファンだ。)"
+    },
+    {
+      "id": 90,
+      "value": "come out and say it",
+      "options": [
+        "口に出して言う",
+        "黙っておく",
+        "遠回しに言う",
+        "手紙で伝える"
+      ],
+      "correctAnswer": "口に出して言う",
+      "explanation": "「come out and say it」は、はっきりと口に出して言う、という意味です。特に、言いにくいことや隠しておきたいことを打ち明ける際に使われます。例文：Just come out and say it – what do you really think? (はっきり言ってくれ。本当はどう思っているんだ？)"
+    },
+    {
+      "id": 91,
+      "value": "weighing me down",
+      "options": [
+        "私を悩ませる",
+        "私を助ける",
+        "私を励ます",
+        "私を無視する"
+      ],
+      "correctAnswer": "私を悩ませる",
+      "explanation": "「weighing me down」は、文字通りには「私を重くする」という意味ですが、比喩的には「私を悩ませる」「私の負担になる」という意味で使われます。例文：All these responsibilities are weighing me down. (これらの責任すべてが私の重荷になっている。)"
+    },
+    {
+      "id": 92,
+      "value": "take flight",
+      "options": [
+        "逃げる",
+        "出発する",
+        "戦う",
+        "隠れる"
+      ],
+      "correctAnswer": "出発する",
+      "explanation": "「take flight」は、文字通りには「飛び立つ」という意味ですが、比喩的には「出発する」「行動を開始する」という意味で使われます。例文：The company is ready to take flight with its new product. (その会社は新製品で飛躍する準備ができている。)"
+    },
+    {
+      "id": 93,
+      "value": "falconry",
+      "options": [
+        "ハヤブサ狩り",
+        "バードウォッチング",
+        "動物園",
+        "養鶏場"
+      ],
+      "correctAnswer": "ハヤブサ狩り",
+      "explanation": "「falconry」は、ハヤブサなどの猛禽類を使って狩りをするスポーツまたは技術のことです。古くからヨーロッパや中東で行われてきました。例文：Falconry requires a great deal of skill and patience. (ハヤブサ狩りには、高度な技術と忍耐力が必要です。)"
+    },
+    {
+      "id": 94,
+      "value": "lucky bastard",
+      "options": [
+        "幸運なやつ",
+        "不運なやつ",
+        "正直者",
+        "怠け者"
+      ],
+      "correctAnswer": "幸運なやつ",
+      "explanation": "「lucky bastard」は、羨望と若干の軽蔑を込めて「幸運なやつ」という意味で使われる俗語表現です。例文：He won the lottery? Lucky bastard! (彼が宝くじに当たった？ラッキーなやつ！)"
+    },
+    {
+      "id": 95,
+      "value": "stumped",
+      "options": [
+        "困惑した",
+        "満足した",
+        "興奮した",
+        "退屈した"
+      ],
+      "correctAnswer": "困惑した",
+      "explanation": "「stumped」は、困惑した、行き詰まったという意味です。問題や状況にどう対処すれば良いかわからない状態を表します。例文：I'm completely stumped – I have no idea how to solve this puzzle. (完全に困ってしまった。このパズルをどう解けばいいのか全くわからない。)"
+    },
+    {
+      "id": 96,
+      "value": "decaf",
+      "options": [
+        "カフェインレスコーヒー",
+        "濃いコーヒー",
+        "砂糖",
+        "ミルク"
+      ],
+      "correctAnswer": "カフェインレスコーヒー",
+      "explanation": "Decafは、カフェインを取り除いたコーヒーのことです。カフェインに敏感な人や、夜にコーヒーを飲みたい人に適しています。"
+    },
+    {
+      "id": 97,
+      "value": "herbal tea",
+      "options": [
+        "ハーブティー",
+        "緑茶",
+        "紅茶",
+        "麦茶"
+      ],
+      "correctAnswer": "ハーブティー",
+      "explanation": "Herbal teaは、ハーブを乾燥させてお湯で抽出した飲み物です。様々な種類があり、リラックス効果や健康効果が期待されます。"
+    },
+    {
+      "id": 98,
+      "value": "allergies",
+      "options": [
+        "アレルギー",
+        "友情",
+        "愛情",
+        "才能"
+      ],
+      "correctAnswer": "アレルギー",
+      "explanation": "Allergiesは、特定物質に対して体が過剰に反応する症状のことです。花粉症、食物アレルギーなどがあります。"
+    },
+    {
+      "id": 99,
+      "value": "routine",
+      "options": [
+        "お決まり",
+        "秘密",
+        "新しい",
+        "不要"
+      ],
+      "correctAnswer": "お決まり",
+      "explanation": "Routineは、決まった手順や行動のことです。習慣的な行動パターンを指します。"
+    },
+    {
+      "id": 100,
+      "value": "mythology",
+      "options": [
+        "神話",
+        "歴史",
+        "科学",
+        "現実"
+      ],
+      "correctAnswer": "神話",
+      "explanation": "Mythologyは、ある文化や社会に伝わる神話体系のことです。神々や英雄の物語が含まれます。"
+    }
+  ]
+}

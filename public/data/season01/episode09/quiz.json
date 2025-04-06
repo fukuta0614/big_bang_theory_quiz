@@ -1,0 +1,1060 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "geosynchronous orbit",
+      "options": [
+        "静止軌道",
+        "太陽同期軌道",
+        "極軌道",
+        "低軌道"
+      ],
+      "correctAnswer": "静止軌道",
+      "explanation": "「geosynchronous orbit」は、地球の自転と同期して、地上から見ると常に同じ位置にあるように見える軌道のことです。通信衛星や気象衛星などで利用されます。"
+    },
+    {
+      "id": 2,
+      "value": "hand off",
+      "options": [
+        "引き継ぐ",
+        "手放す",
+        "邪魔する",
+        "無視する"
+      ],
+      "correctAnswer": "引き継ぐ",
+      "explanation": "「hand off」は、何かを他の人やシステムに引き継ぐという意味です。ここでは、データパケットがリスボンで次のシステムに引き継がれることを指しています。"
+    },
+    {
+      "id": 3,
+      "value": "et voila",
+      "options": [
+        "見て",
+        "そして",
+        "はい",
+        "さようなら"
+      ],
+      "correctAnswer": "見て",
+      "explanation": "「et voila」はフランス語で、「ほらできた」「さあどうぞ」といった意味合いで使われます。何かを成し遂げた時や、魔法のように物事が変化した時などに使われます。"
+    },
+    {
+      "id": 4,
+      "value": "get it",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "逃げる"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get it」は、口語的な表現で、「理解する」という意味です。相手が言っていることや、状況を把握した時に使われます。"
+    },
+    {
+      "id": 5,
+      "value": "handy",
+      "options": [
+        "便利",
+        "不便",
+        "高価",
+        "危険"
+      ],
+      "correctAnswer": "便利",
+      "explanation": "「handy」は、「便利」「役に立つ」という意味の形容詞です。ここでは、中国の人が家の明かりをつけたり消したりできることを指して、Pennyが皮肉っぽく「便利ね」と言っています。"
+    },
+    {
+      "id": 6,
+      "value": "disembodied",
+      "options": [
+        "肉体を持たない",
+        "肉体を持つ",
+        "感情的な",
+        "知的な"
+      ],
+      "correctAnswer": "肉体を持たない",
+      "explanation": "「disembodied」は、「肉体を持たない」「実体のない」という意味です。未来において、脳だけが生きていて、肉体がない状態を想像して使われています。"
+    },
+    {
+      "id": 7,
+      "value": "ripped",
+      "options": [
+        "筋肉隆々",
+        "痩せている",
+        "背が高い",
+        "太っている"
+      ],
+      "correctAnswer": "筋肉隆々",
+      "explanation": "「ripped」は、俗語で「筋肉隆々とした」という意味です。Rajが、アンドロイドの体が筋肉質であることを望んでいることを表しています。"
+    },
+    {
+      "id": 8,
+      "value": "synthetic",
+      "options": [
+        "合成の",
+        "自然の",
+        "単純な",
+        "複雑な"
+      ],
+      "correctAnswer": "合成の",
+      "explanation": "「synthetic」は、「合成の」「人工の」という意味です。ここでは、人工的に作られた人間、つまりアンドロイドを指しています。"
+    },
+    {
+      "id": 9,
+      "value": "circumcised",
+      "options": [
+        "割礼された",
+        "未割礼の",
+        "清潔な",
+        "不潔な"
+      ],
+      "correctAnswer": "割礼された",
+      "explanation": "「circumcised」は、「割礼された」という意味です。ユダヤ教の習慣である割礼について、アンドロイドのペニスに適用できるかどうかというジョークとして使われています。"
+    },
+    {
+      "id": 10,
+      "value": "Not to mention",
+      "options": [
+        "言うまでもなく",
+        "言及する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "言うまでもなく",
+      "explanation": "「Not to mention」は、「言うまでもなく」「～は言うまでもない」という意味で、すでに述べたことに加えて、さらに重要な点や関連する情報を付け加える際に使われます。"
+    },
+    {
+      "id": 11,
+      "value": "power down",
+      "options": [
+        "電源を切る",
+        "電源を入れる",
+        "充電する",
+        "放電する"
+      ],
+      "correctAnswer": "電源を切る",
+      "explanation": "「power down」は、「電源を切る」「シャットダウンする」という意味です。ここでは、ユダヤ教の安息日にアンドロイドが活動を停止することを指しています。"
+    },
+    {
+      "id": 12,
+      "value": "spontaneously",
+      "options": [
+        "自然に",
+        "強制的に",
+        "計画的に",
+        "偶然に"
+      ],
+      "correctAnswer": "自然に",
+      "explanation": "「spontaneously」は、「自然に」「自発的に」という意味です。ここでは、ゴミ箱が自然に手紙の周りに形成されたという、ありえない状況を表現するために使われています。"
+    },
+    {
+      "id": 13,
+      "value": "Occam's Razor",
+      "options": [
+        "オッカムの剃刀",
+        "哲学者の石",
+        "パンドラの箱",
+        "トロイの木馬"
+      ],
+      "correctAnswer": "オッカムの剃刀",
+      "explanation": "「Occam's Razor」は、「オッカムの剃刀」という哲学の原理で、ある事象を説明する際に、最も単純な説明を選ぶべきだという考え方です。"
+    },
+    {
+      "id": 14,
+      "value": "drill down",
+      "options": [
+        "掘り下げる",
+        "表面をなぞる",
+        "広げる",
+        "隠す"
+      ],
+      "correctAnswer": "掘り下げる",
+      "explanation": "「drill down」は、「掘り下げる」「詳細に調べる」という意味です。ここでは、質問の核心に迫るという意味で使われています。"
+    },
+    {
+      "id": 15,
+      "value": "bedrock",
+      "options": [
+        "根本",
+        "表面",
+        "中間",
+        "頂点"
+      ],
+      "correctAnswer": "根本",
+      "explanation": "「bedrock」は、「根本」「基盤」という意味です。質問の最も根本的な部分に焦点を当てたいという意図を表しています。"
+    },
+    {
+      "id": 16,
+      "value": "judgmental",
+      "options": [
+        "批判的な",
+        "友好的な",
+        "無関心な",
+        "知的な"
+      ],
+      "correctAnswer": "批判的な",
+      "explanation": "「judgmental」は、「批判的な」「人のことをすぐに判断する」という意味です。Sheldonは、学会の参加者が自分を正当に評価しないだろうと考えています。"
+    },
+    {
+      "id": 17,
+      "value": "true genius",
+      "options": [
+        "真の天才",
+        "普通の才能",
+        "偽りの天才",
+        "凡人"
+      ],
+      "correctAnswer": "真の天才",
+      "explanation": "「true genius」は、「真の天才」という意味です。Sheldonは、自分こそが真の天才であると自負しています。"
+    },
+    {
+      "id": 18,
+      "value": "topical conference",
+      "options": [
+        "専門的な会議",
+        "一般的な会議",
+        "秘密の会議",
+        "非公式な会議"
+      ],
+      "correctAnswer": "専門的な会議",
+      "explanation": "「topical conference」は、「特定のテーマに関する会議」「専門的な会議」という意味です。ここでは、ボース＝アインシュタイン凝縮に関する会議を指しています。"
+    },
+    {
+      "id": 19,
+      "value": "take this the wrong way",
+      "options": [
+        "誤解しないで",
+        "正しく理解して",
+        "無視して",
+        "忘れて"
+      ],
+      "correctAnswer": "誤解しないで",
+      "explanation": "「take this the wrong way」は、「誤解しないで」「気を悪くしないで」という意味です。相手に不快なことを言うかもしれない場合に、前置きとして使われます。"
+    },
+    {
+      "id": 20,
+      "value": "drag co-efficient",
+      "options": [
+        "抗力係数",
+        "揚力係数",
+        "摩擦係数",
+        "弾性係数"
+      ],
+      "correctAnswer": "抗力係数",
+      "explanation": "「drag coefficient」は、「抗力係数」という意味で、流体中で物体が受ける抵抗の大きさを表す数値です。空飛ぶ絨毯のタッセルの抗力係数を研究するという、ありえない状況を表現するために使われています。"
+    },
+    {
+      "id": 21,
+      "value": "insult",
+      "options": [
+        "侮辱",
+        "褒め言葉",
+        "質問",
+        "アドバイス"
+      ],
+      "correctAnswer": "侮辱",
+      "explanation": "「insult」は、「侮辱」という意味です。Rajは、Leonardに対するSheldonの発言が侮辱的だと感じています。"
+    },
+    {
+      "id": 22,
+      "value": "flawed",
+      "options": [
+        "欠陥のある",
+        "完璧な",
+        "革新的な",
+        "伝統的な"
+      ],
+      "correctAnswer": "欠陥のある",
+      "explanation": "「flawed」は、「欠陥のある」「不完全な」という意味です。Howardは、Leonardの母親の研究方法が欠陥だらけだとジョークを言っています。"
+    },
+    {
+      "id": 23,
+      "value": "nourishment",
+      "options": [
+        "栄養",
+        "毒",
+        "運動",
+        "休息"
+      ],
+      "correctAnswer": "栄養",
+      "explanation": "「nourishment」は、「栄養」「滋養」という意味です。Sheldonは、栄養を摂取することが生存に必要なことだと述べています。"
+    },
+    {
+      "id": 24,
+      "value": "expel waste",
+      "options": [
+        "排泄する",
+        "食べる",
+        "呼吸する",
+        "睡眠をとる"
+      ],
+      "correctAnswer": "排泄する",
+      "explanation": "「expel waste」は、「排泄する」という意味です。Sheldonは、排泄することが生存に必要なことだと述べています。"
+    },
+    {
+      "id": 25,
+      "value": "put too fine a point on it",
+      "options": [
+        "はっきり言う",
+        "曖昧に言う",
+        "誇張して言う",
+        "控えめに言う"
+      ],
+      "correctAnswer": "はっきり言う",
+      "explanation": "「put too fine a point on it」は、「はっきり言う」「率直に言う」という意味です。遠回しな言い方をせずに、自分の意見を明確に伝えたい時に使われます。"
+    },
+    {
+      "id": 26,
+      "value": "hypothesis",
+      "options": [
+        "理論",
+        "前提",
+        "仮説",
+        "事実"
+      ],
+      "correctAnswer": "仮説",
+      "explanation": "「hypothesis」は、まだ証明されていないが、実験や観察によって検証されるべき提案や説明のことです。科学的な研究や議論において、最初に立てられる仮の説として用いられます。\n\n例：Scientists formulated a hypothesis to explain the new phenomenon. (科学者たちはその新しい現象を説明するための仮説を立てた。)"
+    },
+    {
+      "id": 27,
+      "value": "take your word",
+      "options": [
+        "あなたの言葉を疑う",
+        "あなたの言葉を参考にする",
+        "あなたの言葉を信じる",
+        "あなたの言葉を無視する"
+      ],
+      "correctAnswer": "あなたの言葉を信じる",
+      "explanation": "「take someone's word」は、誰かの言うことを疑わずに信じるという意味です。証拠や確認なしに、その人の言葉を信用することを表します。\n\n例：I don't have any proof, but you'll just have to take my word for it. (証拠はないけど、私の言葉を信じるしかないよ。)"
+    },
+    {
+      "id": 28,
+      "value": "findings",
+      "options": [
+        "紛失物",
+        "調査結果",
+        "感情",
+        "計画"
+      ],
+      "correctAnswer": "調査結果",
+      "explanation": "「findings」は、調査や研究、実験などによって得られた結果や結論を指します。特に科学や学術的な文脈でよく使用されます。\n\n例：The team presented their findings at the conference. (チームは会議で調査結果を発表した。)"
+    },
+    {
+      "id": 29,
+      "value": "throw someone a bone",
+      "options": [
+        "誰かを傷つける",
+        "誰かにわずかな譲歩をする",
+        "誰かを無視する",
+        "誰かを助ける"
+      ],
+      "correctAnswer": "誰かにわずかな譲歩をする",
+      "explanation": "「throw someone a bone」は、誰かにわずかな譲歩や気前の良さを示すという意味です。相手を完全に満足させるものではないにしても、何らかの助けや配慮を与える行為を指します。\n\n例：He wasn't happy, but I threw him a bone and let him leave early. (彼は不満だったが、私は彼に少し譲歩して早退させた。)"
+    },
+    {
+      "id": 30,
+      "value": "corduroy",
+      "options": [
+        "ベルベット",
+        "コーデュロイ",
+        "シルク",
+        "リネン"
+      ],
+      "correctAnswer": "コーデュロイ",
+      "explanation": "「corduroy」は、縦畝のある丈夫な綿織物の一種です。カジュアルな衣類によく用いられ、特有の質感と暖かさが特徴です。\n\n例：He wore a corduroy jacket in the autumn. (彼は秋にコーデュロイのジャケットを着ていた。)"
+    },
+    {
+      "id": 31,
+      "value": "miniaturised",
+      "options": [
+        "最大化された",
+        "標準化された",
+        "小型化された",
+        "単純化された"
+      ],
+      "correctAnswer": "小型化された",
+      "explanation": "「miniaturised」は、何かを非常に小さくした、または縮小したという意味です。技術や科学の分野でよく使われ、特に電子機器や機械の小型化を表す際に用いられます。\n\n例：The components were miniaturised to fit inside the device. (その部品はデバイス内に収まるように小型化された。)"
+    },
+    {
+      "id": 32,
+      "value": "compromise",
+      "options": [
+        "競争する",
+        "妥協する",
+        "主張する",
+        "拒否する"
+      ],
+      "correctAnswer": "妥協する",
+      "explanation": "「compromise」は、異なる意見や要求を持つ者が、互いに譲歩して合意に達することを意味します。問題解決や紛争解決において重要な要素です。\n\n例：They were unable to reach a compromise. (彼らは妥協点を見つけることができなかった。)"
+    },
+    {
+      "id": 33,
+      "value": "inarguable",
+      "options": [
+        "議論の余地のある",
+        "不確かな",
+        "議論の余地のない",
+        "あいまいな"
+      ],
+      "correctAnswer": "議論の余地のない",
+      "explanation": "「inarguable」は、議論の余地がない、反論できないという意味です。明白な証拠や論理に基づいており、誰もが認めるしかないような状況を表します。\n\n例：The evidence was inarguable. (証拠は議論の余地がなかった。)"
+    },
+    {
+      "id": 34,
+      "value": "batcrap crazy",
+      "options": [
+        "少しおかしい",
+        "非常に賢い",
+        "非常に怒っている",
+        "完全に狂っている"
+      ],
+      "correctAnswer": "完全に狂っている",
+      "explanation": "「batcrap crazy」は、非常に狂っている、正気ではないという意味のスラング表現です。非常に強い感情や行動を強調するために使用されます。フォーマルな場には適しません。\n\n例：He is batcrap crazy if he thinks he can get away with that. (彼があんなことをして逃げられると思っているなら、完全に狂っている。)"
+    },
+    {
+      "id": 35,
+      "value": "paisley",
+      "options": [
+        "ストライプ",
+        "ペイズリー",
+        "ドット",
+        "チェック"
+      ],
+      "correctAnswer": "ペイズリー",
+      "explanation": "「paisley」は、勾玉のような模様が特徴的なデザインのことです。衣服や装飾品によく用いられ、エスニックな雰囲気を持っています。\n\n例：She wore a paisley scarf. (彼女はペイズリーのスカーフをしていた。)"
+    },
+    {
+      "id": 36,
+      "value": "reversible",
+      "options": [
+        "取り外し可能",
+        "調整可能",
+        "可逆的な",
+        "反転可能な"
+      ],
+      "correctAnswer": "反転可能な",
+      "explanation": "「reversible」は、裏表を逆にして使える、または反転できるという意味です。衣服や機械など、様々なものに対して使われます。\n\n例：This jacket is reversible. (このジャケットはリバーシブルです。)"
+    },
+    {
+      "id": 37,
+      "value": "growth spurt",
+      "options": [
+        "成長の終わり",
+        "成長の遅れ",
+        "急成長",
+        "平均的な成長"
+      ],
+      "correctAnswer": "急成長",
+      "explanation": "「growth spurt」は、急激な成長を意味します。特に子供や若者の身体的な成長において、一時的に身長や体重が急激に増加する期間を指します。\n\n例：He had a growth spurt over the summer. (彼は夏に急成長した。)"
+    },
+    {
+      "id": 38,
+      "value": "tip your waitresses",
+      "options": [
+        "秘密を守る",
+        "落ち着いて",
+        "チップを払いなさい",
+        "頑張って"
+      ],
+      "correctAnswer": "チップを払いなさい",
+      "explanation": "「Tip your waitresses」は文字通りには「ウェイトレスにチップを払いなさい」という意味ですが、ここではコメディアンがショーの終わりに使う決まり文句で、「おもしろかったらチップをください」というニュアンスが含まれています。この文脈では、ジョークが受けたかどうかを冗談めかして確認する意味合いがあります。\n\n例：(コメディショーの終わりに) Well, folks, tip your waitresses, I'll be here all week! (皆さん、チップを払ってね！今週はずっとここにいるよ！)"
+    },
+    {
+      "id": 51,
+      "value": "awkwardness",
+      "options": [
+        "奇妙さ",
+        "快適さ",
+        "重要さ",
+        "正確さ"
+      ],
+      "correctAnswer": "奇妙さ",
+      "explanation": "「awkwardness」は、気まずさ、ぎこちなさ、不器用さを意味します。人との関係や状況がスムーズでない状態を表すのに使われます。例：There was an awkward silence after his comment. (彼のコメントの後、気まずい沈黙があった。)"
+    },
+    {
+      "id": 52,
+      "value": "Zip it, lock it",
+      "options": [
+        "秘密にする",
+        "急いで",
+        "無視して",
+        "正直に"
+      ],
+      "correctAnswer": "秘密にする",
+      "explanation": "「Zip it, lock it, put it in your pocket」は、秘密を守る、他人に話さないという意味のスラング表現です。特に子供が秘密を共有する際に使われることがあります。大人が使う場合は、少しユーモラスなニュアンスが含まれます。"
+    },
+    {
+      "id": 53,
+      "value": "misunderstanding",
+      "options": [
+        "誤解",
+        "理解",
+        "合意",
+        "議論"
+      ],
+      "correctAnswer": "誤解",
+      "explanation": "「misunderstanding」は、誤解、意見の相違、認識のずれを意味します。人間関係における摩擦やトラブルの原因となることがあります。例：Their argument was based on a simple misunderstanding. (彼らの議論は単純な誤解に基づいていました。)"
+    },
+    {
+      "id": 54,
+      "value": "turmoil",
+      "options": [
+        "混乱",
+        "平穏",
+        "喜び",
+        "安定"
+      ],
+      "correctAnswer": "混乱",
+      "explanation": "「turmoil」は、心の動揺、混乱、騒乱を意味します。感情的な不安定さや、社会的な混乱を表すのに使われます。例：The country was in political turmoil after the election. (選挙後、その国は政治的混乱に陥った。)"
+    },
+    {
+      "id": 55,
+      "value": "manifestations",
+      "options": [
+        "兆候",
+        "隠蔽",
+        "原因",
+        "結果"
+      ],
+      "correctAnswer": "兆候",
+      "explanation": "「manifestation」は、兆候、現れ、兆しを意味します。抽象的な概念や感情が具体的な形となって現れることを指します。例：Stress can cause physical manifestations such as headaches. (ストレスは頭痛などの身体的な兆候を引き起こすことがある。)"
+    },
+    {
+      "id": 56,
+      "value": "preferable",
+      "options": [
+        "好ましい",
+        "不快な",
+        "不要な",
+        "不可能な"
+      ],
+      "correctAnswer": "好ましい",
+      "explanation": "「preferable」は、より好ましい、望ましいという意味です。複数の選択肢の中から、あるものが他よりも良いと思われる場合に用いられます。例：Living in the countryside is preferable to living in a noisy city. (田舎に住むことは騒がしい都市に住むよりも好ましい。)"
+    },
+    {
+      "id": 57,
+      "value": "laxative",
+      "options": [
+        "下剤",
+        "鎮痛剤",
+        "睡眠薬",
+        "抗生物質"
+      ],
+      "correctAnswer": "下剤",
+      "explanation": "「laxative」は、下剤を意味します。便秘の解消を助ける薬や食品を指します。医学的な文脈でよく使われます。例：He took a laxative to relieve his constipation. (彼は便秘を解消するために下剤を飲んだ。)"
+    },
+    {
+      "id": 58,
+      "value": "values",
+      "options": [
+        "尊重する",
+        "軽視する",
+        "無視する",
+        "嫌う"
+      ],
+      "correctAnswer": "尊重する",
+      "explanation": "「value」は、価値を認める、尊重する、大切にするといった意味です。人や物事の重要性を認識し、高く評価する際に用いられます。例：I value our friendship very much. (私は私たちの友情をとても大切に思っています。)"
+    },
+    {
+      "id": 59,
+      "value": "hunch",
+      "options": [
+        "直感",
+        "知識",
+        "計画",
+        "証拠"
+      ],
+      "correctAnswer": "直感",
+      "explanation": "「hunch」は、直感、予感、虫の知らせを意味します。根拠はないものの、何かが起こると感じる時に使われます。例：I have a hunch that something good is going to happen. (何か良いことが起こる予感がする。)"
+    },
+    {
+      "id": 60,
+      "value": "spirit",
+      "options": [
+        "精神",
+        "文字",
+        "肉体",
+        "形式"
+      ],
+      "correctAnswer": "精神",
+      "explanation": "「spirit」は、精神、趣旨、本質を意味します。言葉や行動の表面的な意味だけでなく、その背後にある意図や気持ちを指します。例：The spirit of the law is more important than the letter. (法律の文字よりも精神が重要である。)"
+    },
+    {
+      "id": 61,
+      "value": "conference",
+      "options": [
+        "会議",
+        "休憩",
+        "競争",
+        "旅行"
+      ],
+      "correctAnswer": "会議",
+      "explanation": "「conference」は、会議、協議会、学会を意味します。特定のテーマについて議論や情報交換を行うために人々が集まる公式な会合を指します。例：I'm attending a medical conference next week. (来週、医学会議に出席します。)"
+    },
+    {
+      "id": 62,
+      "value": "impress",
+      "options": [
+        "感銘を与える",
+        "失望させる",
+        "無視する",
+        "混乱させる"
+      ],
+      "correctAnswer": "感銘を与える",
+      "explanation": "「impress」は、感銘を与える、印象づけるという意味です。相手に良い印象を与え、感心させることを指します。例：He tried to impress her with his knowledge of wine. (彼はワインの知識で彼女に感銘を与えようとした。)"
+    },
+    {
+      "id": 63,
+      "value": "Libido",
+      "options": [
+        "性欲",
+        "嫌悪感",
+        "無関心",
+        "恐怖"
+      ],
+      "correctAnswer": "性欲",
+      "explanation": "「libido」は、性欲、性的衝動を意味します。心理学や精神分析の分野でよく使われる言葉です。例：Stress can decrease a person's libido. (ストレスは人の性欲を低下させることがある。)"
+    },
+    {
+      "id": 64,
+      "value": "pandering",
+      "options": [
+        "迎合",
+        "批判",
+        "無視",
+        "拒絶"
+      ],
+      "correctAnswer": "迎合",
+      "explanation": "「pander」は、人の欲や弱みに付け込んで喜ばせる、迎合するという意味です。しばしば否定的なニュアンスで使用されます。例：The politician was accused of pandering to the voters. (その政治家は有権者に迎合していると非難された。)"
+    },
+    {
+      "id": 65,
+      "value": "undignified",
+      "options": [
+        "品位のない",
+        "堂々とした",
+        "尊敬される",
+        "立派な"
+      ],
+      "correctAnswer": "品位のない",
+      "explanation": "「undignified」は、品位のない、体裁の悪いという意味です。行動や状況が人の尊厳や品格を損なう場合に用いられます。例：It was undignified for him to beg for money. (彼がお金を乞うのは体裁が悪かった。)"
+    },
+    {
+      "id": 66,
+      "value": "bite me",
+      "options": [
+        "くたばれ",
+        "助けて",
+        "感謝します",
+        "おめでとう"
+      ],
+      "correctAnswer": "くたばれ",
+      "explanation": "「bite me」は、相手に対する侮辱や反発を表すスラング表現で、「くたばれ」「うるさい」といった意味合いで使われます。強い不快感や拒絶を示す際に用いられます。例：I don't care what you think, bite me! (お前がどう思おうと知ったことじゃない、くたばれ！)"
+    },
+    {
+      "id": 67,
+      "value": "Woodstock",
+      "options": [
+        "大規模な集まり",
+        "静かな場所",
+        "閉鎖的な空間",
+        "人気のないイベント"
+      ],
+      "correctAnswer": "大規模な集まり",
+      "explanation": "ウッドストックは、1969年に開催された大規模な音楽フェスティバルであり、転じて「大規模な集まり」や「熱狂的な雰囲気」を指す隠喩として使われます。ある分野で多くの人が集まる状況を表現する際に用いられます。例：The tech conference was like Woodstock for programmers. (その技術会議はプログラマーにとってウッドストックのようなものだった。)"
+    },
+    {
+      "id": 68,
+      "value": "spherical",
+      "options": [
+        "球状の",
+        "四角い",
+        "平らな",
+        "不規則な"
+      ],
+      "correctAnswer": "球状の",
+      "explanation": "「spherical」は、球状の、球形のという意味です。数学や物理学の理論モデルにおいて、単純化された形状としてよく用いられます。例：Assuming the Earth is perfectly spherical simplifies the calculations. (地球が完全に球状であると仮定すると、計算が簡単になる。)"
+    },
+    {
+      "id": 69,
+      "value": "vacuum",
+      "options": [
+        "真空",
+        "密閉",
+        "圧力",
+        "大気"
+      ],
+      "correctAnswer": "真空",
+      "explanation": "「vacuum」は、真空、空虚、空白を意味します。物理学では、物質がほとんど存在しない空間を指します。比喩的には、孤独感や虚無感を表現する際に用いられます。例：The loss of his job left a vacuum in his life. (仕事を失ったことで、彼の人生に空白ができた。)"
+    },
+    {
+      "id": 70,
+      "value": "Let's roll",
+      "options": [
+        "出発しよう",
+        "停止しよう",
+        "待機しよう",
+        "休憩しよう"
+      ],
+      "correctAnswer": "出発しよう",
+      "explanation": "「Let's roll」は、「出発しよう」「始めよう」という意味のスラング表現です。何かを始める際や、行動を開始する際に使われます。元々は軍隊のスラングとして使われていたものが広まりました。例：Okay, everyone, let's roll! We have a lot to do today. (よし、みんな、出発しよう！ 今日はたくさんのことがある。)"
+    },
+    {
+      "id": 71,
+      "value": "on purpose",
+      "options": [
+        "わざと",
+        "偶然",
+        "知らないうちに",
+        "誤って"
+      ],
+      "correctAnswer": "わざと",
+      "explanation": "「on purpose」は、意図的に、わざと、という意味です。計画や意図をもって行動したことを示す際に使われます。例：He broke the vase on purpose. (彼はわざと花瓶を割った。)"
+    },
+    {
+      "id": 72,
+      "value": "work out",
+      "options": [
+        "解決する",
+        "悪化する",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "解決する",
+      "explanation": "「work out」は、解決する、うまくいく、という意味です。問題や困難が解決される、計画やアイデアが成功することを指します。例：I hope everything will work out for you. (すべてがうまくいくことを願っています。)"
+    },
+    {
+      "id": 73,
+      "value": "come up with",
+      "options": [
+        "思いつく",
+        "忘れる",
+        "盗む",
+        "隠す"
+      ],
+      "correctAnswer": "思いつく",
+      "explanation": "「come up with」は、アイデアや計画を思いつく、提案するという意味です。新しい考えや解決策を生み出す際に使われます。例：She came up with a brilliant idea for the project. (彼女はそのプロジェクトのために素晴らしいアイデアを思いついた。)"
+    },
+    {
+      "id": 74,
+      "value": "hang in there",
+      "options": [
+        "頑張って",
+        "諦めて",
+        "逃げて",
+        "無視して"
+      ],
+      "correctAnswer": "頑張って",
+      "explanation": "「hang in there」は、「頑張って」「諦めないで」という意味の励ましの表現です。困難な状況にある人に対して、希望を失わずに耐え忍ぶように促す際に使われます。例：I know things are tough right now, but hang in there. (今は大変だと思うけど、頑張って。)"
+    },
+    {
+      "id": 75,
+      "value": "pushing it",
+      "options": [
+        "無理をしている",
+        "諦めている",
+        "楽しんでいる",
+        "成功している"
+      ],
+      "correctAnswer": "無理をしている",
+      "explanation": "「pushing it」は、「無理をしている」「調子に乗っている」という意味です。限界を超えようとしたり、危険なことを試みたりする状況を表します。例：He's pushing it by driving so fast in this weather. (彼はこんな天候でスピードを出しすぎて無理をしている。)"
+    },
+    {
+      "id": 76,
+      "value": "inertia",
+      "options": [
+        "加速",
+        "慣性",
+        "重力",
+        "摩擦"
+      ],
+      "correctAnswer": "慣性",
+      "explanation": "「inertia」は、物理学において、物体がその運動状態を維持しようとする性質、すなわち慣性を意味します。ここでは、絶対零度に近い温度でのヘリウムガスの慣性について議論されています。\n\n例：The inertia of a body is a measure of its resistance to acceleration. (物体の慣性は、その加速への抵抗の尺度である。)"
+    },
+    {
+      "id": 77,
+      "value": "anecdote",
+      "options": [
+        "統計",
+        "理論",
+        "逸話",
+        "実験"
+      ],
+      "correctAnswer": "逸話",
+      "explanation": "「anecdote」は、短い、面白い、または興味深い話や逸話を意味します。科学的な議論においては、根拠となるデータや証拠がない個人的な話として扱われることがあります。\n\n例：He told an anecdote about his first day at work. (彼は仕事の初日についての逸話を語った。)"
+    },
+    {
+      "id": 78,
+      "value": "apparent",
+      "options": [
+        "明白な",
+        "曖昧な",
+        "複雑な",
+        "誤解を招く"
+      ],
+      "correctAnswer": "明白な",
+      "explanation": "「apparent」は、明白な、明らかな、見たところ～らしいという意味です。ここでは、重力がリンゴが落ちなくても明白であっただろうと述べています。\n\n例：It was apparent that she was unhappy. (彼女が不満であることは明らかだった。)"
+    },
+    {
+      "id": 79,
+      "value": "arrogant",
+      "options": [
+        "謙虚な",
+        "寛容な",
+        "傲慢な",
+        "親切な"
+      ],
+      "correctAnswer": "傲慢な",
+      "explanation": "「arrogant」は、傲慢な、尊大なという意味です。ここでは、シェルドンの態度を評して使われています。\n\n例：He is an arrogant and opinionated man. (彼は傲慢で独断的な男だ。)"
+    },
+    {
+      "id": 80,
+      "value": "underestimate",
+      "options": [
+        "過大評価する",
+        "正当に評価する",
+        "過小評価する",
+        "無視する"
+      ],
+      "correctAnswer": "過小評価する",
+      "explanation": "「underestimate」は、過小評価するという意味です。相手の能力や価値を低く見積もることを指します。\n\n例：Don't underestimate the power of social media. (ソーシャルメディアの力を過小評価しないでください。)"
+    },
+    {
+      "id": 81,
+      "value": "validation",
+      "options": [
+        "否定",
+        "確認",
+        "無視",
+        "拒絶"
+      ],
+      "correctAnswer": "確認",
+      "explanation": "「validation」は、確認、是認、正当性の証明という意味です。ここでは、承認欲求を満たすことを指しています。\n\n例：The experiment provided validation of the theory. (その実験は理論の正当性を証明した。)"
+    },
+    {
+      "id": 82,
+      "value": "screw up",
+      "options": [
+        "成功させる",
+        "改善する",
+        "台無しにする",
+        "維持する"
+      ],
+      "correctAnswer": "台無しにする",
+      "explanation": "「screw up」は、へまをする、しくじる、台無しにするという意味の口語表現です。\n\n例：I really screwed up the exam. (私は本当に試験を台無しにしてしまった。)"
+    },
+    {
+      "id": 83,
+      "value": "downhill",
+      "options": [
+        "上り坂",
+        "平坦",
+        "下り坂",
+        "停滞"
+      ],
+      "correctAnswer": "下り坂",
+      "explanation": "「downhill」は、下り坂、転落、悪化という意味です。ここでは、状況が悪化していく様子を指しています。\n\n例：After his initial success, his career went downhill. (最初の成功の後、彼のキャリアは下降線をたどった。)"
+    },
+    {
+      "id": 84,
+      "value": "condescension",
+      "options": [
+        "尊敬",
+        "謙虚",
+        "横柄",
+        "感謝"
+      ],
+      "correctAnswer": "横柄",
+      "explanation": "「condescension」は、横柄な態度、見下しという意味です。相手を inferior であると見なす態度を指します。\n\n例：I couldn't stand his condescension. (私は彼の横柄な態度に耐えられなかった。)"
+    },
+    {
+      "id": 85,
+      "value": "tormented",
+      "options": [
+        "喜ばせる",
+        "楽しませる",
+        "苦しめる",
+        "無視する"
+      ],
+      "correctAnswer": "苦しめる",
+      "explanation": "「tormented」は、苦しめる、悩ませるという意味です。精神的な苦痛を与えることを指します。\n\n例：He was tormented by feelings of guilt. (彼は罪悪感に苦しめられた。)"
+    },
+    {
+      "id": 86,
+      "value": "egotist",
+      "options": [
+        "利他主義者",
+        "謙虚な人",
+        "利己主義者",
+        "内向的な人"
+      ],
+      "correctAnswer": "利己主義者",
+      "explanation": "「egotist」は、利己主義者、自己中心的な人を意味します。自分のことばかり考えて他人を顧みない人を指します。\n\n例：He is such an egotist that he never listens to anyone else. (彼はとても利己的なので、誰の言うことも聞かない。)"
+    },
+    {
+      "id": 87,
+      "value": "self-esteem",
+      "options": [
+        "自己嫌悪",
+        "自己中心的",
+        "自尊心",
+        "自己犠牲"
+      ],
+      "correctAnswer": "自尊心",
+      "explanation": "「self-esteem」は、自尊心、自己評価という意味です。自分自身を尊重し、価値があると感じる気持ちを指します。\n\n例：She has low self-esteem. (彼女は自尊心が低い。)"
+    },
+    {
+      "id": 88,
+      "value": "aneurysm",
+      "options": [
+        "骨折",
+        "脳動脈瘤",
+        "風邪",
+        "筋肉痛"
+      ],
+      "correctAnswer": "脳動脈瘤",
+      "explanation": "「aneurysm」は、動脈瘤を意味します。血管の一部が異常に膨らむ状態を指します。ここでは、比喩的に頭が爆発するような状態を指しています。\n\n例：A ruptured brain aneurysm can cause a stroke. (破裂した脳動脈瘤は脳卒中を引き起こす可能性がある。)"
+    },
+    {
+      "id": 89,
+      "value": "nutcase",
+      "options": [
+        "賢者",
+        "常識人",
+        "変人",
+        "天才"
+      ],
+      "correctAnswer": "変人",
+      "explanation": "「nutcase」は、狂人、変人という意味のスラングです。ここでは、相手を罵る言葉として使われています。\n\n例：He's a complete nutcase. (彼は完全な変人だ。)"
+    },
+    {
+      "id": 90,
+      "value": "heads up",
+      "options": [
+        "お辞儀",
+        "注意",
+        "無視",
+        "軽蔑"
+      ],
+      "correctAnswer": "注意",
+      "explanation": "「heads up」は、注意、警告という意味です。何か危険や注意すべきことが起こることを知らせる際に使われます。\n\n例：Heads up! There's a car coming. (注意！車が来ている。)"
+    },
+    {
+      "id": 91,
+      "value": "splash zone",
+      "options": [
+        "安全地帯",
+        "乾燥地帯",
+        "水しぶきがかかる場所",
+        "禁煙区域"
+      ],
+      "correctAnswer": "水しぶきがかかる場所",
+      "explanation": "「splash zone」は、水しぶきがかかる場所、特にショーなどで観客が濡れる可能性がある場所を指します。ここでは、比喩的に危険が及ぶ可能性のある場所を指しています。\n\n例：The front rows of the water show are in the splash zone. (水上ショーの最前列は水しぶきがかかる場所です。)"
+    },
+    {
+      "id": 92,
+      "value": "Vulcan nerve pinch",
+      "options": [
+        "料理の名前",
+        "踊りのステップ",
+        "架空の技",
+        "医療技術"
+      ],
+      "correctAnswer": "架空の技",
+      "explanation": "「Vulcan nerve pinch」は、スタートレックに登場するバルカン人が使う、相手を気絶させる架空の技です。現実には存在しません。\n\n例：Sheldon tried to use the Vulcan nerve pinch on Leonard. (シェルドンはレナードにバルカン・ニップを使おうとした。)"
+    },
+    {
+      "id": 93,
+      "value": "begged",
+      "options": [
+        "命令した",
+        "許可した",
+        "懇願した",
+        "無視した"
+      ],
+      "correctAnswer": "懇願した",
+      "explanation": "「begged」は、「beg」の過去形であり、懇願する、頼み込むという意味です。ここでは、レナードがシェルドンにプレゼンに来てくれるよう懇願したことを指します。\n\n例：She begged him to stay. (彼女は彼に留まってくれるように懇願した。)"
+    },
+    {
+      "id": 94,
+      "value": "uncalled for",
+      "options": [
+        "必要な",
+        "予想された",
+        "不必要な",
+        "歓迎された"
+      ],
+      "correctAnswer": "不必要な",
+      "explanation": "「uncalled for」は、不必要な、見当違いの、余計なという意味です。ここでは、頭を爆破しようとした行為が不必要だったと述べています。\n\n例：Your remark was completely uncalled for. (あなたの発言は全く余計だった。)"
+    },
+    {
+      "id": 95,
+      "value": "captioned",
+      "options": [
+        "削除された",
+        "無視された",
+        "字幕付きの",
+        "音声のみの"
+      ],
+      "correctAnswer": "字幕付きの",
+      "explanation": "「captioned」は、字幕付きの、キャプションが付けられたという意味です。ここでは、動画に字幕が付けられていることを指します。\n\n例：The movie was captioned for the hearing impaired. (その映画は聴覚障害者向けに字幕が付けられていた。)"
+    },
+    {
+      "id": 96,
+      "value": "geek",
+      "options": [
+        "運動選手",
+        "芸術家",
+        "オタク",
+        "ビジネスマン"
+      ],
+      "correctAnswer": "オタク",
+      "explanation": "「geek」は、オタク、特定の分野に非常に詳しい人を指す言葉です。しばしば、社会性に欠けるニュアンスを含みます。\n\n例：He's a computer geek. (彼はコンピューターオタクだ。)"
+    },
+    {
+      "id": 97,
+      "value": "awesome",
+      "options": [
+        "ひどい",
+        "退屈な",
+        "素晴らしい",
+        "普通の"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「awesome」は、素晴らしい、すごい、感動的という意味です。ここでは、驚きや感動を表す言葉として使われています。\n\n例：That concert was awesome! (あのコンサートは最高だった！)"
+    },
+    {
+      "id": 98,
+      "value": "moment of inertia",
+      "options": [
+        "運動量",
+        "慣性モーメント",
+        "角速度",
+        "遠心力"
+      ],
+      "correctAnswer": "慣性モーメント",
+      "explanation": "「moment of inertia」は、慣性モーメントを意味します。物体の回転運動に対する抵抗の尺度です。物体の質量と、回転軸からの距離に依存します。\n\n例：The moment of inertia is important in determining the rotational behavior of an object. (慣性モーメントは、物体の回転運動の挙動を決定する上で重要です。)"
+    },
+    {
+      "id": 99,
+      "value": "straight downhill",
+      "options": [
+        "右肩上がり",
+        "停滞",
+        "急上昇",
+        "一直線に悪化"
+      ],
+      "correctAnswer": "一直線に悪化",
+      "explanation": "「straight downhill」は、一直線に悪化するという意味です。ある時点から急速に状況が悪化していく様子を表します。\n\n例：After the first mistake, it was straight downhill from there. (最初のミス以降、そこから一直線に悪化していった。)"
+    },
+    {
+      "id": 100,
+      "value": "Ritalin",
+      "options": [
+        "抗生物質",
+        "鎮痛剤",
+        "精神安定剤",
+        "注意欠陥・多動性障害治療薬"
+      ],
+      "correctAnswer": "注意欠陥・多動性障害治療薬",
+      "explanation": "「Ritalin」は、リタリンという注意欠陥・多動性障害（ADHD）の治療に使われる薬の名前です。ここでは、シェルドンの腕の動きがリタリンを服用した後のように落ち着きがない様子を比喩しています。\n\n例：Ritalin is a stimulant medication used to treat ADHD. (リタリンは、ADHDの治療に使われる興奮剤です。)"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "forfeit",
+      "options": [
+        "没収する",
+        "参加する",
+        "諦める",
+        "続ける"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「forfeit」は、権利や資格などを失う、放棄するという意味です。自発的に諦める場合にも、規則違反などで失う場合にも使われます。この文脈では、シェルドンがレーザーチェスを諦めるという意味で使われています。\n\n例：He had to forfeit the game because of a prior engagement. (彼は先約のために試合を棄権しなければならなかった。)"
+    },
+    {
+      "id": 2,
+      "value": "rhinestones",
+      "options": [
+        "ラインストーン",
+        "宝石",
+        "花",
+        "リボン"
+      ],
+      "correctAnswer": "ラインストーン",
+      "explanation": "「rhinestone」は、ラインストーン、模造宝石のことです。装飾品などに使われることが多いです。\n\n例：The dress was decorated with rhinestones. (そのドレスはラインストーンで飾られていた。)"
+    },
+    {
+      "id": 3,
+      "value": "deputized",
+      "options": [
+        "代表する",
+        "任命する",
+        "拒否する",
+        "手伝う"
+      ],
+      "correctAnswer": "任命する",
+      "explanation": "「deputize」は、代理を立てる、権限を委任するという意味です。この文脈では、シェルドンがUPS（United Parcel Service）によって委任されたという意味で使われています。\n\n例：He was deputized to act on behalf of the president. (彼は大統領の代理として行動するよう委任された。)"
+    },
+    {
+      "id": 4,
+      "value": "entrusted with",
+      "options": [
+        "興味を持つ",
+        "委託される",
+        "反対する",
+        "同意する"
+      ],
+      "correctAnswer": "委託される",
+      "explanation": "「entrust」は、信頼して任せる、委託するという意味です。「entrust with」という形で、何かが委託されるという意味になります。この文脈では、シェルドンが小包の最終配達を委託されたという意味で使われています。\n\n例：She was entrusted with the task of managing the project. (彼女はそのプロジェクトの管理を任された。)"
+    },
+    {
+      "id": 5,
+      "value": "indemnified",
+      "options": [
+        "補償される",
+        "罰せられる",
+        "非難される",
+        "無視される"
+      ],
+      "correctAnswer": "補償される",
+      "explanation": "「indemnify」は、法的責任から保護する、補償するという意味です。損害や損失が発生した場合に、その責任を負わないようにすることを指します。この文脈では、シェルドンが小包の配達に関して法的責任を負わないようにするために、受領書が必要であるという意味で使われています。\n\n例：The company indemnified its employees against any legal claims. (その会社は、従業員をあらゆる法的請求から保護した。)"
+    },
+    {
+      "id": 6,
+      "value": "liable",
+      "options": [
+        "責任がある",
+        "自由である",
+        "安全である",
+        "無関係である"
+      ],
+      "correctAnswer": "責任がある",
+      "explanation": "「liable」は、法的責任がある、義務があるという意味です。何か問題が発生した場合に、その責任を負う可能性があることを示します。\n\n例：The company is liable for any damages caused by its products. (その会社は、製品によって引き起こされた損害に対して責任がある。)"
+    },
+    {
+      "id": 7,
+      "value": "irrelevant",
+      "options": [
+        "関連がある",
+        "重要である",
+        "無関係である",
+        "興味深い"
+      ],
+      "correctAnswer": "無関係である",
+      "explanation": "「irrelevant」は、無関係な、重要でないという意味です。議論や状況において、考慮する必要がないことを示します。\n\n例：His comments were irrelevant to the discussion. (彼のコメントは議論とは無関係だった。)"
+    },
+    {
+      "id": 8,
+      "value": "bailment",
+      "options": [
+        "契約",
+        "委託",
+        "販売",
+        "贈与"
+      ],
+      "correctAnswer": "委託",
+      "explanation": "「bailment」は、委託、寄託という意味の法律用語です。所有権は移転せずに、一時的に物を預けることを指します。シェルドンはペニーに小包を預ける行為を法律用語で説明しようとしています。\n\n例：A bailment is created when you leave your car at a repair shop. (車を修理工場に預けるとき、委託関係が成立する。)"
+    },
+    {
+      "id": 9,
+      "value": "chattels",
+      "options": [
+        "不動産",
+        "動産",
+        "契約",
+        "権利"
+      ],
+      "correctAnswer": "動産",
+      "explanation": "「chattels」は、動産、私有財産という意味の法律用語です。不動産以外の有形資産を指します。\n\n例：The furniture and other chattels were sold at auction. (家具やその他の動産はオークションで売却された。)"
+    },
+    {
+      "id": 10,
+      "value": "takes off",
+      "options": [
+        "離陸する",
+        "成功する",
+        "失敗する",
+        "遅れる"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「take off」は、離陸するという意味の他に、成功する、人気が出るといった意味があります。この文脈では、ペニーのビジネスが成功するかどうかを話しています。\n\n例：Her business really took off after she started advertising online. (彼女のビジネスは、オンラインで広告を始めてから本当に成功した。)"
+    },
+    {
+      "id": 11,
+      "value": "viable",
+      "options": [
+        "実行可能な",
+        "不可能な",
+        "違法な",
+        "不要な"
+      ],
+      "correctAnswer": "実行可能な",
+      "explanation": "「viable」は、実行可能な、実現可能なという意味です。ビジネスや計画などが成功する見込みがあることを示します。\n\n例：The company needs a viable business plan to attract investors. (その会社は、投資家を引きつけるための実行可能な事業計画が必要だ。)"
+    },
+    {
+      "id": 12,
+      "value": "optimize",
+      "options": [
+        "最適化する",
+        "無視する",
+        "遅らせる",
+        "複雑にする"
+      ],
+      "correctAnswer": "最適化する",
+      "explanation": "「optimize」は、最適化する、最大限に活用するという意味です。効率や性能を向上させるために改善することを指します。\n\n例：We need to optimize our manufacturing process to reduce costs. (コストを削減するために、製造プロセスを最適化する必要がある。)"
+    },
+    {
+      "id": 13,
+      "value": "negotiate",
+      "options": [
+        "交渉する",
+        "無視する",
+        "破壊する",
+        "避ける"
+      ],
+      "correctAnswer": "交渉する",
+      "explanation": "「negotiate」は、交渉するという意味ですが、ここではレーザーを避けて進むという意味で使われています。\n\n例：You need to negotiate carefully to come to favorable terms. (有利な条件にするためには、慎重に交渉する必要があります。)"
+    },
+    {
+      "id": 14,
+      "value": "dramatic music",
+      "options": [
+        "劇的な音楽",
+        "明るい音楽",
+        "静かな音楽",
+        "退屈な音楽"
+      ],
+      "correctAnswer": "劇的な音楽",
+      "explanation": "「dramatic music」は、劇的な音楽、ドラマチックな音楽という意味です。映画や演劇などで、感情や緊張感を高めるために使われる音楽を指します。\n\n例：The scene was accompanied by dramatic music. (そのシーンは劇的な音楽を伴っていた。)"
+    },
+    {
+      "id": 15,
+      "value": "buzzer",
+      "options": [
+        "ブザー",
+        "ベル",
+        "サイレン",
+        "アラーム"
+      ],
+      "correctAnswer": "ブザー",
+      "explanation": "「buzzer」は、ブザー、警告音という意味です。合図や警告のために使われる音を出す装置を指します。\n\n例：The buzzer sounded when the time was up. (時間が来たときにブザーが鳴った。)"
+    },
+    {
+      "id": 16,
+      "value": "deep love",
+      "options": [
+        "深い愛情",
+        "軽い興味",
+        "強い嫌悪感",
+        "無関心"
+      ],
+      "correctAnswer": "深い愛情",
+      "explanation": "「deep love」は、深い愛情、強い愛情という意味です。ここでは、シェルドンがチェス、レーザー、消毒剤に対して深い愛情を持っていることを表現しています。\n\n例：He has a deep love for classical music. (彼はクラシック音楽に対する深い愛情を持っている。)"
+    },
+    {
+      "id": 17,
+      "value": "knock on my door",
+      "options": [
+        "ドアをノックする",
+        "ドアを開ける",
+        "ドアを閉める",
+        "ドアを修理する"
+      ],
+      "correctAnswer": "ドアをノックする",
+      "explanation": "「knock on my door」は、ドアをノックするという意味です。ペニーが午前11時前にドアをノックされることを嫌がっていることを示しています。\n\n例：Don't knock on my door unless it's an emergency. (緊急時以外は私のドアをノックしないで。)"
+    },
+    {
+      "id": 18,
+      "value": "poised",
+      "options": [
+        "構えて",
+        "リラックスして",
+        "ためらって",
+        "心配して"
+      ],
+      "correctAnswer": "構えて",
+      "explanation": "「poised」は、身構えて、準備してという意味です。ここでは、シェルドンがドアをノックする準備をしている様子を表しています。\n\n例：The athlete was poised to start the race. (その選手はレースを開始する準備をしていた。)"
+    },
+    {
+      "id": 19,
+      "value": "acknowledge receipt",
+      "options": [
+        "受領を承認する",
+        "受領を拒否する",
+        "支払いを拒否する",
+        "支払いを承認する"
+      ],
+      "correctAnswer": "受領を承認する",
+      "explanation": "「acknowledge receipt」は、受領を承認する、受領を確認するという意味です。正式な書類や小包などを受け取ったことを確認する際に使われます。\n\n例：Please acknowledge receipt of this email. (このメールの受領を確認してください。)"
+    },
+    {
+      "id": 20,
+      "value": "Internal Revenue Service",
+      "options": [
+        "内国歳入庁",
+        "中央情報局",
+        "連邦捜査局",
+        "国連"
+      ],
+      "correctAnswer": "内国歳入庁",
+      "explanation": "「Internal Revenue Service」は、アメリカ合衆国の内国歳入庁（IRS）のことです。税金の徴収や税法の執行を担当する政府機関です。\n\n例：The Internal Revenue Service conducts audits of tax returns. (内国歳入庁は税務申告の監査を行う。)"
+    },
+    {
+      "id": 21,
+      "value": "modern marketing techniques",
+      "options": [
+        "現代のマーケティング手法",
+        "古代のマーケティング手法",
+        "違法なマーケティング手法",
+        "不要なマーケティング手法"
+      ],
+      "correctAnswer": "現代のマーケティング手法",
+      "explanation": "「modern marketing techniques」は、現代のマーケティング手法という意味です。インターネットやソーシャルメディアを活用したマーケティング手法などを指します。\n\n例：Companies use modern marketing techniques to reach a wider audience. (企業はより多くの人にリーチするために現代のマーケティング手法を使用する。)"
+    },
+    {
+      "id": 22,
+      "value": "viable business",
+      "options": [
+        "実行可能なビジネス",
+        "不可能なビジネス",
+        "違法なビジネス",
+        "不要なビジネス"
+      ],
+      "correctAnswer": "実行可能なビジネス",
+      "explanation": "「viable business」は、実行可能なビジネス、成功する見込みのあるビジネスという意味です。利益を上げ、持続可能なビジネスモデルを持っていることを示します。\n\n例：The company needs a viable business plan to attract investors. (その会社は、投資家を引きつけるための実行可能な事業計画が必要だ。)"
+    },
+    {
+      "id": 23,
+      "value": "Secret Agent Laser Obstacle Chess",
+      "options": [
+        "秘密諜報員レーザー障害物チェス",
+        "普通のチェス",
+        "秘密諜報員",
+        "レーザーチェス"
+      ],
+      "correctAnswer": "秘密諜報員レーザー障害物チェス",
+      "explanation": "「Secret Agent Laser Obstacle Chess」は、作中で登場する架空のチェスのゲームの名前です。レーザーと障害物を使ったチェスで、スパイ映画のような雰囲気を出しています。\n\n例：The game requires skill, strategy, and agility. (そのゲームには、スキル、戦略、敏捷性が必要です。)"
+    },
+    {
+      "id": 24,
+      "value": "aerosol disinfectant",
+      "options": [
+        "エアゾール消毒剤",
+        "液体消毒剤",
+        "石鹸",
+        "水"
+      ],
+      "correctAnswer": "エアゾール消毒剤",
+      "explanation": "「aerosol disinfectant」は、エアゾール消毒剤という意味です。空気中に噴霧して使う消毒剤を指します。\n\n例：We used aerosol disinfectant to clean the room. (部屋を掃除するためにエアゾール消毒剤を使った。)"
+    },
+    {
+      "id": 25,
+      "value": "making that up",
+      "options": [
+        "それをでっち上げる",
+        "それを忘れる",
+        "それを無視する",
+        "それを信じる"
+      ],
+      "correctAnswer": "それをでっち上げる",
+      "explanation": "「make up」は、作り上げる、でっち上げるという意味です。ここでは、ペニーがナンシーという名前をでっち上げているとシェルドンが疑っています。\n\n例：I think he's just making that up. (彼はそれをでっち上げているだけだと思う。)"
+    },
+    {
+      "id": 26,
+      "value": "working knowledge",
+      "options": [
+        "実践的な知識",
+        "専門的な知識",
+        "表層的な知識",
+        "曖昧な知識"
+      ],
+      "correctAnswer": "実践的な知識",
+      "explanation": "「working knowledge」は、ある分野について、実際に使用できる程度の知識を持っていることを意味します。単に知識があるだけでなく、それを応用できるレベルを指します。\n\n例：He has a working knowledge of French.（彼はフランス語の実践的な知識がある。）"
+    },
+    {
+      "id": 27,
+      "value": "hold on",
+      "options": [
+        "頑張る",
+        "待つ",
+        "諦める",
+        "続ける"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hold on」は、文字通りには「しっかり掴む」という意味ですが、会話の中では「待つ」という意味でよく使われます。電話での会話や、相手に少し待ってほしい時に使います。\n\n例：Hold on a second, I'll check.（ちょっと待って、確認します。）"
+    },
+    {
+      "id": 28,
+      "value": "assistance",
+      "options": [
+        "抵抗",
+        "援助",
+        "干渉",
+        "無視"
+      ],
+      "correctAnswer": "援助",
+      "explanation": "「assistance」は、助けや援助を意味する名詞です。よりフォーマルな表現で、具体的な手助けを指すことが多いです。\n\n例：We offer financial assistance to students.（学生に経済的な援助を提供しています。）"
+    },
+    {
+      "id": 29,
+      "value": "premise",
+      "options": [
+        "結論",
+        "仮定",
+        "根拠",
+        "疑念"
+      ],
+      "correctAnswer": "仮定",
+      "explanation": "「premise」は、議論や推論の基となる前提や仮定を意味します。議論を始めるにあたって、最初に設定する基礎となる考え方です。\n\n例：The premise of his argument is flawed.（彼の議論の前提には欠陥がある。）"
+    },
+    {
+      "id": 30,
+      "value": "effectively",
+      "options": [
+        "無効に",
+        "効果的に",
+        "結果的に",
+        "表面上"
+      ],
+      "correctAnswer": "結果的に",
+      "explanation": "「effectively」は、実際の結果や効果に注目して「事実上」「結果的に」という意味を表します。必ずしも意図した通りではない結果を指すこともあります。\n\n例：Effectively, they have already won the game.（事実上、彼らはもう試合に勝ったも同然だ。）"
+    },
+    {
+      "id": 31,
+      "value": "outearn",
+      "options": [
+        "稼ぎすぎる",
+        "稼ぎ始める",
+        "稼ぎ負ける",
+        "稼ぎ勝つ"
+      ],
+      "correctAnswer": "稼ぎ勝つ",
+      "explanation": "「outearn」は、他の人よりも多く稼ぐという意味の動詞です。競争や比較のニュアンスを含みます。\n\n例：She outearns her husband.（彼女は夫より稼ぎが多い。）"
+    },
+    {
+      "id": 32,
+      "value": "familiar with",
+      "options": [
+        "反対する",
+        "精通している",
+        "軽蔑する",
+        "関係ない"
+      ],
+      "correctAnswer": "精通している",
+      "explanation": "「be familiar with」は、ある事物や情報についてよく知っている、精通しているという意味を表します。知識や経験に基づいた理解を意味します。\n\n例：Are you familiar with this software?（このソフトウェアについてご存知ですか？）"
+    },
+    {
+      "id": 33,
+      "value": "interchangeable",
+      "options": [
+        "交換不能な",
+        "相互的な",
+        "代替可能な",
+        "矛盾する"
+      ],
+      "correctAnswer": "代替可能な",
+      "explanation": "「interchangeable」は、互いに交換可能であることを意味します。部品や要素が同じ機能を持つため、置き換えられる状態を指します。\n\n例：The parts are interchangeable.（これらの部品は交換可能です。）"
+    },
+    {
+      "id": 34,
+      "value": "understandable",
+      "options": [
+        "理解不能な",
+        "誤解を招く",
+        "理解できる",
+        "無視できる"
+      ],
+      "correctAnswer": "理解できる",
+      "explanation": "「understandable」は、理解できる、当然であるという意味です。状況や理由を考慮すれば、納得できることを表します。\n\n例：It's understandable that you're upset.（あなたが動揺するのは当然です。）"
+    },
+    {
+      "id": 35,
+      "value": "excusable",
+      "options": [
+        "許されない",
+        "言い訳できない",
+        "許容できる",
+        "弁解の余地がない"
+      ],
+      "correctAnswer": "許容できる",
+      "explanation": "「excusable」は、許容できる、弁解の余地があるという意味です。過ちやミスに対して、状況を考慮すれば許されることを示します。\n\n例：His behavior was not excusable. (彼の行動は許されるものではなかった。)"
+    },
+    {
+      "id": 36,
+      "value": "innovation",
+      "options": [
+        "伝統",
+        "停滞",
+        "革新",
+        "模倣"
+      ],
+      "correctAnswer": "革新",
+      "explanation": "「innovation」は、新しいアイデアや方法を取り入れて、現状を大きく変えることを意味します。技術革新やビジネスモデルの刷新など、広い範囲で使用されます。\n\n例：This innovation will revolutionize the industry.（この革新は業界に革命をもたらすだろう。）"
+    },
+    {
+      "id": 37,
+      "value": "coming attractions",
+      "options": [
+        "上映中止",
+        "特別上映",
+        "近日公開",
+        "過去の名作"
+      ],
+      "correctAnswer": "近日公開",
+      "explanation": "「coming attractions」は、映画館で上映される、近日公開予定の映画の予告編のことです。映画ファンにとっては楽しみな時間です。\n\n例：Let's go early to see the coming attractions. (早く行って近日公開の予告編を見よう。)"
+    },
+    {
+      "id": 38,
+      "value": "bruised",
+      "options": [
+        "治癒した",
+        "骨折した",
+        "打撲した",
+        "炎症した"
+      ],
+      "correctAnswer": "打撲した",
+      "explanation": "「bruised」は、打撲した、打ち身ができたという意味です。外部からの衝撃によって皮膚の下の血管が損傷し、変色した状態を指します。\n\n例：I bruised my knee when I fell.（転んだ時に膝を打撲した。）"
+    },
+    {
+      "id": 39,
+      "value": "sea shanty",
+      "options": [
+        "子守唄",
+        "応援歌",
+        "船乗り歌",
+        "賛美歌"
+      ],
+      "correctAnswer": "船乗り歌",
+      "explanation": "「sea shanty」は、船乗りたちが作業のリズムを合わせるために歌った労働歌です。リズミカルで、作業効率を高める効果があります。\n\n例：They sang a sea shanty while hoisting the sails.（彼らは帆を上げる時に船乗り歌を歌った。）"
+    },
+    {
+      "id": 40,
+      "value": "resume",
+      "options": [
+        "中断する",
+        "要約する",
+        "再開する",
+        "無視する"
+      ],
+      "correctAnswer": "再開する",
+      "explanation": "「resume」は、中断していたこと、休止していたことを再び始めるという意味です。\n\n例：Let's resume our discussion.（議論を再開しましょう。）"
+    },
+    {
+      "id": 41,
+      "value": "terrific",
+      "options": [
+        "悲惨な",
+        "平凡な",
+        "恐ろしい",
+        "素晴らしい"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、素晴らしい、最高の、すごいという意味の形容詞です。肯定的な感情を表現する際に使われます。\n\n例：You did a terrific job!（素晴らしい仕事をしたね！）"
+    },
+    {
+      "id": 42,
+      "value": "raises more questions than it answers",
+      "options": [
+        "疑問が解決する",
+        "答えが見つかる",
+        "問題が複雑化する",
+        "質問がなくなる"
+      ],
+      "correctAnswer": "問題が複雑化する",
+      "explanation": "「raise more questions than it answers」は、答えを出すよりも多くの疑問を生じさせる、という意味のイディオムです。状況がより複雑になったり、混乱を招いたりすることを表します。\n\n例：The new evidence raised more questions than it answered. (新しい証拠は、答えを出すよりも多くの疑問を生じさせた。)"
+    },
+    {
+      "id": 43,
+      "value": "optimize",
+      "options": [
+        "悪化させる",
+        "標準化する",
+        "最適化する",
+        "無視する"
+      ],
+      "correctAnswer": "最適化する",
+      "explanation": "「optimize」は、ある目的を達成するために、性能や効率を最大限に高めることを意味します。改善や改良を重ねて、最適な状態に近づけることを指します。\n\n例：We need to optimize our workflow.（ワークフローを最適化する必要があります。）"
+    },
+    {
+      "id": 44,
+      "value": "bonding agent",
+      "options": [
+        "分離剤",
+        "接着剤",
+        "溶解剤",
+        "硬化剤"
+      ],
+      "correctAnswer": "接着剤",
+      "explanation": "「bonding agent」は、物を接着させるための物質、つまり接着剤のことです。異なる素材同士を結合させる役割を果たします。\n\n例：Use a strong bonding agent for this project.（このプロジェクトには強力な接着剤を使ってください。）"
+    },
+    {
+      "id": 45,
+      "value": "kidding",
+      "options": [
+        "真剣な",
+        "冗談を言っている",
+        "怒っている",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「kidding」は、冗談を言っている、からかっているという意味です。相手の発言に対して、信じられない気持ちや驚きを表す際にも使われます。\n\n例：You're kidding! Is that true?（冗談でしょ！本当なの？）"
+    },
+    {
+      "id": 46,
+      "value": "porous",
+      "options": [
+        "滑らかな",
+        "多孔質の",
+        "硬い",
+        "密閉された"
+      ],
+      "correctAnswer": "多孔質の",
+      "explanation": "「porous」は、多孔質の、穴が多いという意味です。液体や気体が浸透しやすい性質を表します。\n\n例：The sponge is very porous.（そのスポンジはとても多孔質だ。）"
+    },
+    {
+      "id": 47,
+      "value": "intriguing",
+      "options": [
+        "退屈な",
+        "不快な",
+        "興味深い",
+        "複雑な"
+      ],
+      "correctAnswer": "興味深い",
+      "explanation": "「intriguing」は、興味深い、好奇心をそそるという意味です。何かを引きつけ、関心を抱かせるような魅力があることを表します。\n\n例：That's an intriguing idea.（それは興味深いアイデアですね。）"
+    },
+    {
+      "id": 48,
+      "value": "distribution channels",
+      "options": [
+        "宣伝経路",
+        "流通経路",
+        "製造ライン",
+        "情報源"
+      ],
+      "correctAnswer": "流通経路",
+      "explanation": "「distribution channels」は、製品やサービスが生産者から消費者へ届くまでの経路、つまり流通経路のことです。小売店、卸売業者、オンラインストアなどが含まれます。\n\n例：We need to improve our distribution channels. (流通経路を改善する必要があります。)"
+    },
+    {
+      "id": 49,
+      "value": "turnkey",
+      "options": [
+        "特注の",
+        "すぐに使える",
+        "試作品の",
+        "時代遅れの"
+      ],
+      "correctAnswer": "すぐに使える",
+      "explanation": "「turnkey」は、すぐに使える状態になっている、という意味です。特にビジネスの分野で、設備やシステムがすぐに稼働できる状態を指します。\n\n例：We offer turnkey solutions for small businesses.（中小企業向けにすぐに使えるソリューションを提供しています。）"
+    },
+    {
+      "id": 50,
+      "value": "eliminate the middle man",
+      "options": [
+        "仲介者を増やす",
+        "直接取引する",
+        "宣伝を強化する",
+        "コストを下げる"
+      ],
+      "correctAnswer": "直接取引する",
+      "explanation": "「eliminate the middle man」は、仲介業者を排除する、つまり生産者と消費者が直接取引することを意味します。これにより、コスト削減や効率化が期待できます。\n\n例：We can save money by eliminating the middle man.（仲介業者を排除することで、コストを削減できます。）"
+    },
+    {
+      "id": 51,
+      "value": "optimize",
+      "options": [
+        "無視する",
+        "最適化する",
+        "複雑にする",
+        "単純化する"
+      ],
+      "correctAnswer": "最適化する",
+      "explanation": "「optimize」は、何かの性能や機能を最大限に引き出す、または可能な限り最高の状態にすることを意味します。効率を高めたり、問題を最小限に抑えたりする目的で使用されます。例：We need to optimize our workflow to increase productivity. (生産性を上げるために、ワークフローを最適化する必要があります。)"
+    },
+    {
+      "id": 52,
+      "value": "moisture-induced",
+      "options": [
+        "温度によって引き起こされる",
+        "圧力によって引き起こされる",
+        "水分によって引き起こされる",
+        "光によって引き起こされる"
+      ],
+      "correctAnswer": "水分によって引き起こされる",
+      "explanation": "「moisture-induced」は、水分が原因で発生した、または水分によって引き起こされたという意味です。主に、物質の変化や問題の発生原因を説明する際に使用されます。例：Moisture-induced corrosion can damage metal structures. (水分によって引き起こされる腐食は、金属構造物を損傷する可能性があります。)"
+    },
+    {
+      "id": 53,
+      "value": "clump",
+      "options": [
+        "分散する",
+        "固まる",
+        "蒸発する",
+        "溶解する"
+      ],
+      "correctAnswer": "固まる",
+      "explanation": "「clump」は、小さな塊になる、または集まって塊を形成することを意味します。粉末や粒状の物質が湿気や圧力によってくっついて塊になる様子を表現するのに使われます。例：The sugar clumped together because of the humidity. (砂糖は湿気のせいで固まってしまった。)"
+    },
+    {
+      "id": 54,
+      "value": "desiccant",
+      "options": [
+        "接着剤",
+        "乾燥剤",
+        "冷却剤",
+        "潤滑剤"
+      ],
+      "correctAnswer": "乾燥剤",
+      "explanation": "「desiccant」は、周囲の湿気を吸収して乾燥状態を保つ物質を指します。シリカゲルや乾燥剤として、食品、医薬品、電子機器などの包装によく使用されます。例：Place a desiccant packet in the container to prevent moisture damage. (湿気による損傷を防ぐため、容器に乾燥剤のパケットを入れてください。)"
+    },
+    {
+      "id": 55,
+      "value": "molecular sieve",
+      "options": [
+        "分子篩",
+        "遠心分離機",
+        "電気分解装置",
+        "蒸留器"
+      ],
+      "correctAnswer": "分子篩",
+      "explanation": "「molecular sieve」は、分子の大きさに応じて特定の分子を選択的に吸着または分離する材料です。化学、石油化学、ガス産業などで、物質の精製、乾燥、分離に使用されます。例：Molecular sieves are used to purify gases by removing water and other contaminants. (分子篩は、水や他の汚染物質を除去してガスを精製するために使用されます。)"
+    },
+    {
+      "id": 56,
+      "value": "liberate",
+      "options": [
+        "固定する",
+        "放出する",
+        "圧縮する",
+        "冷却する"
+      ],
+      "correctAnswer": "放出する",
+      "explanation": "「liberate」は、何かを束縛や制限から解放する、または取り出すという意味です。ここでは、化学実験室からマイクロポーラス炭を取り出すという意味で使用されています。例：We can liberate the chemicals from the compound using heat. (熱を使って化合物から化学物質を放出することができます。)"
+    },
+    {
+      "id": 57,
+      "value": "preliminary",
+      "options": [
+        "最終的な",
+        "予備的な",
+        "詳細な",
+        "包括的な"
+      ],
+      "correctAnswer": "予備的な",
+      "explanation": "「preliminary」は、本番の活動や作業に先立って行われる、準備段階の、または初期のという意味です。計画、調査、試験など、本格的な開始前の準備段階を指します。例：We conducted a preliminary investigation before starting the project. (プロジェクトを開始する前に予備調査を実施しました。)"
+    },
+    {
+      "id": 58,
+      "value": "tweaking",
+      "options": [
+        "無視する",
+        "微調整する",
+        "複製する",
+        "削除する"
+      ],
+      "correctAnswer": "微調整する",
+      "explanation": "「tweak」は、細部を少し調整する、または微調整するという意味です。性能や外観を改善するために、小さな変更を加えることを指します。例：I'm still tweaking the design to make it perfect. (完璧にするために、まだデザインを微調整しています。)"
+    },
+    {
+      "id": 59,
+      "value": "juvenile",
+      "options": [
+        "洗練された",
+        "未熟な",
+        "革新的な",
+        "保守的な"
+      ],
+      "correctAnswer": "未熟な",
+      "explanation": "「juvenile」は、若々しい、未熟な、子供っぽいという意味です。特に、行動や考え方が年齢相応でない場合に使われます。例：His juvenile behavior annoyed everyone at the meeting. (彼の子供っぽい行動は会議で皆をイライラさせた。)"
+    },
+    {
+      "id": 60,
+      "value": "predator",
+      "options": [
+        "協力者",
+        "捕食者",
+        "擁護者",
+        "創造者"
+      ],
+      "correctAnswer": "捕食者",
+      "explanation": "「predator」は、獲物を捕食する動物、または他者を食い物にする人を指します。ここでは、インターネット上で未成年者を食い物にする犯罪者を指す比喩として使用されています。例：The police are trying to catch online predators who target children. (警察は子供を狙うオンライン捕食者を捕まえようとしています。)"
+    },
+    {
+      "id": 61,
+      "value": "enterprise",
+      "options": [
+        "怠惰",
+        "企業",
+        "無関心",
+        "休息"
+      ],
+      "correctAnswer": "企業",
+      "explanation": "「enterprise」は、事業、企業、または企画といった意味です。特に、新しい事業や冒険的な試みを指すことが多いです。例：Starting a new business is a risky enterprise. (新しいビジネスを始めるのはリスクのある企業です。)"
+    },
+    {
+      "id": 62,
+      "value": "irrelevant",
+      "options": [
+        "関連のある",
+        "無関係な",
+        "重要な",
+        "明確な"
+      ],
+      "correctAnswer": "無関係な",
+      "explanation": "「irrelevant」は、現在の状況や議論に関係がない、重要でないという意味です。話題や議論から外れていることを示す際に使用されます。例：His comments were irrelevant to the topic of the meeting. (彼のコメントは会議のトピックとは無関係だった。)"
+    },
+    {
+      "id": 63,
+      "value": "no kidding",
+      "options": [
+        "冗談だ",
+        "まさか",
+        "その通り",
+        "問題ない"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "「no kidding」は、本当に？、まさか！、冗談でしょ？という意味の感嘆表現です。驚きや信じられない気持ちを表す際に使用されます。例：You won the lottery? No kidding! (宝くじに当たったの？まさか！)"
+    },
+    {
+      "id": 64,
+      "value": "camouflage",
+      "options": [
+        "強調する",
+        "隠蔽する",
+        "明らかにする",
+        "無視する"
+      ],
+      "correctAnswer": "隠蔽する",
+      "explanation": "「camouflage」は、カモフラージュ、偽装、または何かを隠すことを意味します。軍事用語としてよく知られていますが、比喩的に欠点や弱点を隠す際にも使用されます。例：She used makeup to camouflage her blemishes. (彼女はメイクでシミを隠した。)"
+    },
+    {
+      "id": 65,
+      "value": "appeal to",
+      "options": [
+        "反発する",
+        "魅力的にする",
+        "無視する",
+        "強制する"
+      ],
+      "correctAnswer": "魅力的にする",
+      "explanation": "「appeal to」は、～に訴える、～の興味を引く、～に魅力的に映るという意味です。特定の層に対して商品やサービスが魅力的であることを示す際に使用されます。例：This product appeals to young adults. (この製品は若い大人にアピールする。)"
+    },
+    {
+      "id": 66,
+      "value": "holy crap",
+      "options": [
+        "素晴らしい",
+        "なんてことだ",
+        "退屈だ",
+        "問題ない"
+      ],
+      "correctAnswer": "なんてことだ",
+      "explanation": "「holy crap」は、驚き、興奮、または不快感を表現する感嘆詞です。スラングであり、インフォーマルな状況で使用されます。例：Holy crap, look at all that snow! (なんてことだ、あの雪を見て！)"
+    },
+    {
+      "id": 67,
+      "value": "rush",
+      "options": [
+        "遅延",
+        "急ぎ",
+        "標準",
+        "キャンセル"
+      ],
+      "correctAnswer": "急ぎ",
+      "explanation": "「rush」は、急ぐこと、または緊急の対応を意味します。ビジネスの文脈では、通常よりも早く商品やサービスを提供することを指します。例：We offer rush delivery for an additional fee. (追加料金で速達サービスを提供しています。)"
+    },
+    {
+      "id": 68,
+      "value": "entrepreneurial",
+      "options": [
+        "保守的な",
+        "起業家精神のある",
+        "官僚的な",
+        "受動的な"
+      ],
+      "correctAnswer": "起業家精神のある",
+      "explanation": "「entrepreneurial」は、起業家精神のある、または新しい事業を創造する意欲があるという意味です。リスクを取って新しいアイデアやビジネスを追求する人を指します。例：She has an entrepreneurial spirit and is always looking for new opportunities. (彼女は起業家精神があり、常に新しい機会を探しています。)"
+    },
+    {
+      "id": 69,
+      "value": "brilliance",
+      "options": [
+        "愚かさ",
+        "才能",
+        "平凡さ",
+        "無能"
+      ],
+      "correctAnswer": "才能",
+      "explanation": "「brilliance」は、才能、卓越性、または非常に賢いことを意味します。優れた知性や創造性を示す際に使用されます。例：Her brilliance in mathematics is widely recognized. (彼女の数学における才能は広く認められている。)"
+    },
+    {
+      "id": 70,
+      "value": "equivocation",
+      "options": [
+        "明確さ",
+        "曖昧さ",
+        "正直さ",
+        "直接性"
+      ],
+      "correctAnswer": "曖昧さ",
+      "explanation": "「equivocation」は、言葉を曖昧に使うこと、または二つの意味に取れるように話すことを意味します。意図的に真実を隠したり、責任を回避したりするために用いられます。例：His equivocation on the issue made it difficult to understand his position. (その問題に関する彼の曖昧な言い方は、彼の立場を理解することを困難にした。)"
+    },
+    {
+      "id": 71,
+      "value": "receipts",
+      "options": [
+        "領収書",
+        "売上高",
+        "支出",
+        "負債"
+      ],
+      "correctAnswer": "売上高",
+      "explanation": "「receipts」は、売上高、収入、または受け取った金額を意味します。会計やビジネスの文脈でよく使用されます。例：The store's total receipts for the day were $5,000. (その日の店の総売上高は5,000ドルだった。)"
+    },
+    {
+      "id": 72,
+      "value": "massacred",
+      "options": [
+        "保護された",
+        "虐殺された",
+        "救助された",
+        "支援された"
+      ],
+      "correctAnswer": "虐殺された",
+      "explanation": "「massacre」は、虐殺する、または大量殺戮するという意味です。特に、無抵抗な人々や弱者を対象とした残虐な殺害を指します。例：The villagers were massacred by the invading army. (村人たちは侵略軍によって虐殺された。)"
+    },
+    {
+      "id": 73,
+      "value": "get started",
+      "options": [
+        "終える",
+        "始める",
+        "中断する",
+        "延期する"
+      ],
+      "correctAnswer": "始める",
+      "explanation": "「get started」は、何かを始める、または開始するという意味です。プロジェクト、タスク、または活動を開始する際に使用されます。例：Let's get started on the report. (レポートに取り掛かりましょう。)"
+    },
+    {
+      "id": 74,
+      "value": "infrastructure",
+      "options": [
+        "基盤",
+        "結果",
+        "障害",
+        "付属品"
+      ],
+      "correctAnswer": "基盤",
+      "explanation": "「infrastructure」は、社会や組織が機能するために必要な基本的な施設やシステムを指します。道路、橋、通信ネットワーク、電力供給システムなどが含まれます。ビジネスの文脈では、組織の運営に必要なシステムやプロセスを指すこともあります。例：The city needs to invest in its transportation infrastructure. (都市は交通インフラに投資する必要がある。)"
+    },
+    {
+      "id": 75,
+      "value": "distribution",
+      "options": [
+        "集中",
+        "分配",
+        "削減",
+        "隠蔽"
+      ],
+      "correctAnswer": "分配",
+      "explanation": "「distribution」は、分配、流通、または配給という意味です。製品やサービスを消費者に届けるプロセスを指すことが多いです。ビジネスの文脈では、製品を製造者から最終顧客に届ける一連の活動を指します。例：The company has a wide distribution network across the country. (その会社は全国に広範な流通ネットワークを持っている。)"
+    },
+    {
+      "id": 76,
+      "value": "assorted",
+      "options": [
+        "分類された",
+        "選ばれた",
+        "類似した",
+        "区別された"
+      ],
+      "correctAnswer": "分類された",
+      "explanation": "「assorted」は、いろいろな種類が混ざっている、詰め合わせの、という意味です。この場合は、様々な種類のPenny Blossomsがあることを示しています。例：an assorted box of chocolates (チョコレートの詰め合わせ)"
+    },
+    {
+      "id": 77,
+      "value": "gonna",
+      "options": [
+        "行く予定",
+        "〜するつもり",
+        "〜すべき",
+        "〜できる"
+      ],
+      "correctAnswer": "〜するつもり",
+      "explanation": "「gonna」は、「going to」の口語的な短縮形で、未来の予定や意図を表します。日常会話で非常によく使われます。例：I'm gonna go home. (家に帰るつもりです)"
+    },
+    {
+      "id": 78,
+      "value": "nurtured",
+      "options": [
+        "無視された",
+        "育てられた",
+        "抑制された",
+        "強要された"
+      ],
+      "correctAnswer": "育てられた",
+      "explanation": "「nurture」は、育む、育成する、という意味です。ここでは、労働力を生きた有機体として捉え、大切に育てる必要があるという比喩的な表現です。例：Parents should nurture their children's talents. (親は子供の才能を育むべきです)"
+    },
+    {
+      "id": 79,
+      "value": "counterproductive",
+      "options": [
+        "生産的な",
+        "非生産的な",
+        "革新的な",
+        "協力的な"
+      ],
+      "correctAnswer": "非生産的な",
+      "explanation": "「counterproductive」は、逆効果の、非生産的な、という意味です。ここでは、不満を言うことが作業の妨げになることを指しています。例：Criticism can be counterproductive if it is not constructive. (批判は建設的でなければ逆効果になり得る)"
+    },
+    {
+      "id": 80,
+      "value": "headed off",
+      "options": [
+        "始まった",
+        "終わった",
+        "避けられた",
+        "推奨された"
+      ],
+      "correctAnswer": "避けられた",
+      "explanation": "「head off」は、（問題などを）阻止する、避ける、という意味です。ここでは、不満が大きくなる前に巧みに抑える必要があるということを述べています。例：We need to head off the crisis before it escalates. (危機がエスカレートする前に阻止する必要がある)"
+    },
+    {
+      "id": 81,
+      "value": "union talk",
+      "options": [
+        "団結を促す会話",
+        "組合の話",
+        "友好的な会話",
+        "秘密の話"
+      ],
+      "correctAnswer": "組合の話",
+      "explanation": "「union talk」は、労働組合に関する話、または組合を結成しようとする動きを指します。ここでは、SheldonがPennyに対して、労働組合に関する情報を察知するように指示しています。例：There's been some union talk among the employees recently. (最近、従業員の間で組合の話が出ている)"
+    },
+    {
+      "id": 82,
+      "value": "insight",
+      "options": [
+        "洞察力",
+        "視力",
+        "無知",
+        "外見"
+      ],
+      "correctAnswer": "洞察力",
+      "explanation": "「insight」は、洞察力、見識、という意味です。ここでは、Sheldonの洞察力とリーダーシップがないと事業が失敗するとLeonardがSheldonを持ち上げています。例：Her insights into the market were invaluable. (彼女の市場に対する洞察力は非常に貴重だった)"
+    },
+    {
+      "id": 83,
+      "value": "arbitrary",
+      "options": [
+        "恣意的な",
+        "客観的な",
+        "重要な",
+        "明白な"
+      ],
+      "correctAnswer": "恣意的な",
+      "explanation": "「arbitrary」は、恣意的な、根拠のない、という意味です。ここでは、プランク定数が恣意的ではないとSheldonが主張しています。例：His decision seemed arbitrary and unfair. (彼の決定は恣意的で不公平に見えた)"
+    },
+    {
+      "id": 84,
+      "value": "entropy",
+      "options": [
+        "エントロピー",
+        "エネルギー",
+        "秩序",
+        "法則"
+      ],
+      "correctAnswer": "エントロピー",
+      "explanation": "「entropy」は、エントロピー（無秩序さの度合い）という意味です。ここでは、物理学的な概念を用いて議論を展開しています。例：The entropy of the universe is constantly increasing. (宇宙のエントロピーは常に増大している)"
+    },
+    {
+      "id": 85,
+      "value": "retreating",
+      "options": [
+        "拡大する",
+        "後退する",
+        "安定する",
+        "回転する"
+      ],
+      "correctAnswer": "後退する",
+      "explanation": "「retreat」は、後退する、退く、という意味です。ここでは、宇宙が可能性の空間から後退しているという比喩的な表現です。例：The army was forced to retreat. (軍は後退を余儀なくされた)"
+    },
+    {
+      "id": 86,
+      "value": "quench",
+      "options": [
+        "促進する",
+        "癒す",
+        "悪化させる",
+        "増加させる"
+      ],
+      "correctAnswer": "癒す",
+      "explanation": "「quench」は、（渇きなどを）癒す、満たす、という意味です。ここでは、不思議の国のアリスの引用で、喉の渇きを癒すためにクラッカーを提供されるという状況を表しています。例：He quenched his thirst with a glass of water. (彼はコップ一杯の水で渇きを癒した)"
+    },
+    {
+      "id": 87,
+      "value": "profit margin",
+      "options": [
+        "利益率",
+        "損失額",
+        "売上高",
+        "経費"
+      ],
+      "correctAnswer": "利益率",
+      "explanation": "「profit margin」は、利益率という意味です。収入に対する利益の割合を示します。例：The company's profit margin has increased this year. (その会社の利益率は今年増加した)"
+    },
+    {
+      "id": 88,
+      "value": "rush",
+      "options": [
+        "通常",
+        "遅延",
+        "緊急",
+        "未定"
+      ],
+      "correctAnswer": "緊急",
+      "explanation": "「rush」は、急ぎ、緊急という意味です。「one-day rush」は、1日以内の緊急配達を意味します。例：We need to get this project done on a rush basis. (このプロジェクトを急ぎで完了させる必要がある)"
+    },
+    {
+      "id": 89,
+      "value": "spirit",
+      "options": [
+        "幽霊",
+        "精神",
+        "肉体",
+        "魂"
+      ],
+      "correctAnswer": "精神",
+      "explanation": "「spirit」は、精神、気力、という意味です。「American spirit」は、アメリカ人の精神、愛国心、団結力などを指します。例：The team showed great spirit in the face of adversity. (チームは逆境に立ち向かう素晴らしい精神を見せた)"
+    },
+    {
+      "id": 90,
+      "value": "pull together",
+      "options": [
+        "協力する",
+        "分裂する",
+        "競争する",
+        "孤立する"
+      ],
+      "correctAnswer": "協力する",
+      "explanation": "「pull together」は、協力する、団結するという意味です。困難な状況を乗り越えるために、皆で協力することを奨励する際に使われます。例：If we all pull together, we can finish the project on time. (もし私たちが皆で協力すれば、プロジェクトを時間通りに終えることができます)"
+    },
+    {
+      "id": 91,
+      "value": "apologies",
+      "options": [
+        "謝罪",
+        "感謝",
+        "祝福",
+        "要求"
+      ],
+      "correctAnswer": "謝罪",
+      "explanation": "「apology」の複数形で、謝罪、わび、という意味です。ここでは、ゲイコミュニティへの謝罪を意味します。例：He offered his apologies for the misunderstanding. (彼は誤解について謝罪した)"
+    },
+    {
+      "id": 92,
+      "value": "Obstacle",
+      "options": [
+        "障害",
+        "近道",
+        "目標",
+        "機会"
+      ],
+      "correctAnswer": "障害",
+      "explanation": "「obstacle」は、障害、妨げ、という意味です。ここでは、レーザー光線が障害物となっている状況を指します。例：Lack of funding is a major obstacle to the project. (資金不足がプロジェクトの大きな障害となっている)"
+    },
+    {
+      "id": 93,
+      "value": "dramatically",
+      "options": [
+        "劇的に",
+        "静かに",
+        "穏やかに",
+        "控えめに"
+      ],
+      "correctAnswer": "劇的に",
+      "explanation": "「dramatically」は、劇的に、大げさに、という意味です。ここでは、SheldonとHowardが歌を大げさに歌っている様子を表しています。例：The situation changed dramatically overnight. (状況は一晩で劇的に変化した)"
+    },
+    {
+      "id": 94,
+      "value": "fake",
+      "options": [
+        "本物の",
+        "偽の",
+        "新しい",
+        "古い"
+      ],
+      "correctAnswer": "偽の",
+      "explanation": "「fake」は、偽の、見せかけの、という意味です。ここでは、Rajが第三世界の出身であるかのように振る舞うことをHowardが非難しています。例：She was wearing a fake diamond ring. (彼女は偽のダイヤモンドの指輪をしていた)"
+    },
+    {
+      "id": 95,
+      "value": "crap",
+      "options": [
+        "貴重品",
+        "くだらないこと",
+        "重要なもの",
+        "美しいもの"
+      ],
+      "correctAnswer": "くだらないこと",
+      "explanation": "「crap」は、くだらないこと、たわごと、という意味のスラングです。ここでは、HowardがRajの第三世界に関する発言を軽蔑的に表現しています。例：I don't want to listen to any more of your crap. (もうあなたのくだらない話は聞きたくない)"
+    },
+    {
+      "id": 96,
+      "value": "ship",
+      "options": [
+        "出荷する",
+        "沈没させる",
+        "保存する",
+        "購入する"
+      ],
+      "correctAnswer": "出荷する",
+      "explanation": "「ship」は、出荷する、発送するという意味です。ここでは、Penny Blossomsを発送する準備ができていることを示しています。例：We will ship your order within 24 hours. (ご注文の商品は24時間以内に出荷します)"
+    },
+    {
+      "id": 97,
+      "value": "entire",
+      "options": [
+        "一部の",
+        "全体の",
+        "重要な",
+        "不要な"
+      ],
+      "correctAnswer": "全体の",
+      "explanation": "「entire」は、全体の、完全な、という意味です。ここでは、Pennyが利益の全てを渡すと申し出たことを表しています。例：I spent my entire vacation reading books. (休暇中は本を読んで過ごした)"
+    },
+    {
+      "id": 98,
+      "value": "enterprise",
+      "options": [
+        "企業",
+        "怠惰",
+        "趣味",
+        "休憩"
+      ],
+      "correctAnswer": "企業",
+      "explanation": "「enterprise」は、企業、事業、という意味です。ここでは、Penny Blossomsの製造事業を指しています。例：Starting a new business is a risky enterprise. (新しい事業を始めるのはリスクの高い試みだ)"
+    },
+    {
+      "id": 99,
+      "value": "reluctantly",
+      "options": [
+        "乗り気で",
+        "嫌々ながら",
+        "喜んで",
+        "熱心に"
+      ],
+      "correctAnswer": "嫌々ながら",
+      "explanation": "「reluctantly」は、嫌々ながら、しぶしぶ、という意味です。ここでは、Howardが歌うのを嫌がっている様子を表しています。例：He reluctantly agreed to help. (彼は嫌々ながら手伝うことに同意した)"
+    },
+    {
+      "id": 100,
+      "value": "Zoom",
+      "options": [
+        "加速",
+        "減速",
+        "停止",
+        "方向転換"
+      ],
+      "correctAnswer": "加速",
+      "explanation": "「zoom」は、急に移動する、加速するという意味の擬音語です。ここでは、SheldonがFlashのコスチュームを着て高速で移動する様子を表しています。例：The car zoomed past us on the highway. (車が高速道路を猛スピードで通り過ぎた)"
+    }
+  ]
+}

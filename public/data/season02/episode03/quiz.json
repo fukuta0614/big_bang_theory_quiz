@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "bladder check",
+      "options": [
+        "膀胱の検査",
+        "身だしなみの確認",
+        "精神状態の確認",
+        "持ち物の確認"
+      ],
+      "correctAnswer": "膀胱の検査",
+      "explanation": "直訳すると「膀胱の確認」となり、ここではオンラインゲームを長時間プレイする前にトイレに行くことを促すユーモラスな表現として使われています。長時間のゲームプレイに備えて、途中で中断しなくても良いようにするための準備を指します。"
+    },
+    {
+      "id": 2,
+      "value": "AFK",
+      "options": [
+        "すぐに戻る",
+        "知らない",
+        "退席中",
+        "了解"
+      ],
+      "correctAnswer": "退席中",
+      "explanation": "「AFK」は "
+    },
+    {
+      "id": 3,
+      "value": "point of inquiry",
+      "options": [
+        "質問の要点",
+        "調査地点",
+        "問い合わせ先",
+        "議論の余地"
+      ],
+      "correctAnswer": "質問の要点",
+      "explanation": "「point of inquiry」は、「質問の要点」「質問事項」という意味で、フォーマルな状況で使われることが多い表現です。ここでは、SheldonがPennyに対して、彼女が車のキーをドアの鍵穴に入れた理由を尋ねる際に、少し堅苦しい言い方で使っています。"
+    },
+    {
+      "id": 4,
+      "value": "Midwest",
+      "options": [
+        "中西部",
+        "南西部",
+        "北東部",
+        "南東部"
+      ],
+      "correctAnswer": "中西部",
+      "explanation": "アメリカ合衆国の中西部に住んでいる、または中西部出身であることを指します。ここでは、Pennyがオーディションで「too Midwest」だと言われたことに対するSheldonの説明から、中西部の住民の顔立ちの特徴について言及しています。"
+    },
+    {
+      "id": 5,
+      "value": "dietary staple",
+      "options": [
+        "食事の必需品",
+        "食事の好み",
+        "食事制限",
+        "食事のサプリメント"
+      ],
+      "correctAnswer": "食事の必需品",
+      "explanation": "「dietary staple」は、ある文化や地域において、日常的に摂取される主要な食品を指します。ここでは、昆虫が多くの文化で重要なタンパク源として利用されていることをSheldonが説明しています。"
+    },
+    {
+      "id": 6,
+      "value": "structural integrity",
+      "options": [
+        "構造的完全性",
+        "美的感覚",
+        "法的拘束力",
+        "倫理的整合性"
+      ],
+      "correctAnswer": "構造的完全性",
+      "explanation": "「structural integrity」は、物の構造が外部からの力や圧力に対して、どれだけ安定して維持できるかを表す言葉です。ここでは、冷凍食品の結露が袋の強度を弱めたことを説明するために使われています。"
+    },
+    {
+      "id": 7,
+      "value": "key conundrum",
+      "options": [
+        "鍵の難問",
+        "鍵の隠喩",
+        "鍵の重要性",
+        "鍵の類似性"
+      ],
+      "correctAnswer": "鍵の難問",
+      "explanation": "「conundrum」は、難問、謎という意味です。ここでは、Pennyが車の鍵をドアの鍵穴に入れてしまったことによる問題を、Sheldonが少しユーモラスに表現しています。"
+    },
+    {
+      "id": 8,
+      "value": "tautology",
+      "options": [
+        "トートロジー",
+        "パラドックス",
+        "アナロジー",
+        "アンチテーゼ"
+      ],
+      "correctAnswer": "トートロジー",
+      "explanation": "「tautology」は、同語反復、同じ意味の言葉を繰り返すこと、または自明の理を述べることを意味します。ここでは、鍵屋が「いつ着くかは、着く時になったらわかる」と答えたことが、意味のない同語反復であるとSheldonが指摘しています。"
+    },
+    {
+      "id": 9,
+      "value": "get the hang of",
+      "options": [
+        "理解する",
+        "諦める",
+        "嫌になる",
+        "混乱する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get the hang of」は、「コツをつかむ」「理解する」という意味のイディオムです。ここでは、SheldonがPennyの皮肉を理解できたと思った瞬間に、また理解できなくなったことを嘆いています。"
+    },
+    {
+      "id": 10,
+      "value": "back online",
+      "options": [
+        "オンラインに戻る",
+        "オフラインにする",
+        "ゲームを始める",
+        "休憩する"
+      ],
+      "correctAnswer": "オンラインに戻る",
+      "explanation": "オンラインゲームやコンピュータの使用を再開することを意味します。ここでは、Sheldonがオンラインゲームに戻ることを宣言しています。"
+    },
+    {
+      "id": 11,
+      "value": "OIC",
+      "options": [
+        "承認しました",
+        "なるほど",
+        "問題ありません",
+        "反対です"
+      ],
+      "correctAnswer": "なるほど",
+      "explanation": "インターネットスラングで、\"Oh, I see\" (なるほど、わかった) の略です。PennyがSheldonの説明を聞いて理解したことを示すために使っています。"
+    },
+    {
+      "id": 12,
+      "value": "enchanted",
+      "options": [
+        "魔法がかけられた",
+        "魅力的な",
+        "退屈な",
+        "普通の"
+      ],
+      "correctAnswer": "魔法がかけられた",
+      "explanation": "「enchanted」は、魔法がかけられた、魅了されたという意味です。ここでは、オンラインゲーム内のアイテムである「魔法のブーツ」を指しています。"
+    },
+    {
+      "id": 13,
+      "value": "noob",
+      "options": [
+        "初心者",
+        "上級者",
+        "プロ",
+        "チート使用者"
+      ],
+      "correctAnswer": "初心者",
+      "explanation": "オンラインゲームのスラングで、初心者、未熟者を意味する「newbie」を短縮した言葉です。ここでは、Pennyがゲーム内で宝箱を見つけて喜んでいるのを見て、Sheldonが彼女をからかうために使っています。"
+    },
+    {
+      "id": 14,
+      "value": "run into",
+      "options": [
+        "偶然出会う",
+        "走り込む",
+        "衝突する",
+        "計画する"
+      ],
+      "correctAnswer": "偶然出会う",
+      "explanation": "「run into」は、「偶然出会う」「出くわす」という意味の句動詞です。ここでは、ゲーム内でPennyがワニに出くわすかもしれない状況を指しています。"
+    },
+    {
+      "id": 15,
+      "value": "catch me up",
+      "options": [
+        "追いついて",
+        "捕まえて",
+        "手伝って",
+        "許して"
+      ],
+      "correctAnswer": "追いついて",
+      "explanation": "「catch someone up」は、「（人に）近況を伝える」「状況を説明する」という意味の句動詞です。ここでは、LeonardがSheldonにPennyの身に起きた出来事を説明するように求めています。"
+    },
+    {
+      "id": 16,
+      "value": "get here when he gets here",
+      "options": [
+        "彼が着くときに着く",
+        "彼はすぐに着く",
+        "彼は道に迷った",
+        "彼は来ない"
+      ],
+      "correctAnswer": "彼が着くときに着く",
+      "explanation": "「彼が着くときに着く」という文字通りの意味ですが、これは鍵屋がいつ到着するかを具体的に約束しない、または急いで来るつもりがないことを示唆する、不親切で曖昧な返事です。"
+    },
+    {
+      "id": 17,
+      "value": "Dammit",
+      "options": [
+        "くそ",
+        "ありがとう",
+        "こんにちは",
+        "おやすみ"
+      ],
+      "correctAnswer": "くそ",
+      "explanation": "苛立ちや不満を表す感嘆詞です。Pennyが物を落としたり、うまくいかないときに使っています。"
+    },
+    {
+      "id": 18,
+      "value": "Alright then",
+      "options": [
+        "わかった",
+        "こんにちは",
+        "さようなら",
+        "どういたしまして"
+      ],
+      "correctAnswer": "わかった",
+      "explanation": "承諾、同意、または諦めを表すフレーズです。SheldonがPennyの行動や発言に対して、ある程度の諦めや皮肉を込めて使うことがあります。"
+    },
+    {
+      "id": 19,
+      "value": "There there",
+      "options": [
+        "まあまあ",
+        "ここにいるよ",
+        "あちらこちら",
+        "どこどこ"
+      ],
+      "correctAnswer": "まあまあ",
+      "explanation": "誰かを慰めるために使われるフレーズです。SheldonがPennyを慰めようとする際に使っていますが、少しぎこちない感じです。"
+    },
+    {
+      "id": 20,
+      "value": "For God's sake",
+      "options": [
+        "お願いだから",
+        "神に感謝",
+        "神の思し召し",
+        "神は偉大なり"
+      ],
+      "correctAnswer": "お願いだから",
+      "explanation": "苛立ちや不満、または懇願を表すために使われるフレーズです。Pennyが非常にイライラしている時に使っています。"
+    },
+    {
+      "id": 21,
+      "value": "Make yourself comfortable",
+      "options": [
+        "楽にしてください",
+        "手伝ってください",
+        "頑張ってください",
+        "邪魔しないでください"
+      ],
+      "correctAnswer": "楽にしてください",
+      "explanation": "人にリラックスしてくつろいでほしいときに使うフレーズです。SheldonがPennyに言っていますが、その後すぐに彼の場所を移動するように言うため、少し皮肉が込められています。"
+    },
+    {
+      "id": 22,
+      "value": "Level three",
+      "options": [
+        "レベル3",
+        "3階",
+        "3段階",
+        "3種類"
+      ],
+      "correctAnswer": "レベル3",
+      "explanation": "オンラインゲームやRPGで、キャラクターの熟練度や進行度を示す指標です。ここでは、Pennyがゲーム内でレベル3になったことを喜んでいます。"
+    },
+    {
+      "id": 23,
+      "value": "attract wildlife",
+      "options": [
+        "野生動物を引き寄せる",
+        "自然を保護する",
+        "動物を飼育する",
+        "動物を怖がらせる"
+      ],
+      "correctAnswer": "野生動物を引き寄せる",
+      "explanation": "野生の動物が特定の場所や物に引き寄せられることを意味します。ここでは、溶けたアイスクリームが猫を引き寄せている状況を指しています。"
+    },
+    {
+      "id": 24,
+      "value": "stereo speaker",
+      "options": [
+        "ステレオスピーカー",
+        "テレビ",
+        "冷蔵庫",
+        "電子レンジ"
+      ],
+      "correctAnswer": "ステレオスピーカー",
+      "explanation": "音響機器の一部で、音を再生するために使用されます。ここでは、Rajがステレオスピーカーを何かに利用している様子が描かれています。"
+    },
+    {
+      "id": 25,
+      "value": "cling film",
+      "options": [
+        "ラップフィルム",
+        "アルミホイル",
+        "クッキングシート",
+        "キッチンペーパー"
+      ],
+      "correctAnswer": "ラップフィルム",
+      "explanation": "食品を保存するために使用される薄いプラスチックフィルムです。ここでは、Rajがステレオスピーカーをラップフィルムで覆っている様子が描かれています。"
+    },
+    {
+      "id": 26,
+      "value": "Let her rip",
+      "options": [
+        "彼女を責めろ",
+        "彼女を笑わせろ",
+        "彼女に任せろ",
+        "彼女を解放しろ"
+      ],
+      "correctAnswer": "彼女に任せろ",
+      "explanation": "「Let her rip」は、「彼女にやらせてみろ」「彼女に任せろ」という意味のスラング表現です。ここでは、レナードがステレオを操作して音楽を流すことを許可する意味で使われています。勢いよく何かを始める、または誰かに自由にやらせることを許可するニュアンスがあります。"
+    },
+    {
+      "id": 27,
+      "value": "make up",
+      "options": [
+        "構成する",
+        "化粧する",
+        "仲直りする",
+        "言い訳する"
+      ],
+      "correctAnswer": "構成する",
+      "explanation": "「make up」は、ここでは「構成する」という意味で使用されています。非ニュートン流体が何からできているかを説明する文脈です。他に「化粧する」「仲直りする」「作り上げる」などの意味があります。"
+    },
+    {
+      "id": 28,
+      "value": "percussive action",
+      "options": [
+        "永続的な活動",
+        "打楽器のような作用",
+        "会話的な行動",
+        "説得力のある行動"
+      ],
+      "correctAnswer": "打楽器のような作用",
+      "explanation": "「percussive action」は、「打楽器のような作用」という意味です。ここでは、スピーカーの振動が非ニュートン流体に与える影響を表しています。「percussive」は打楽器の、打撃の、という意味を持ちます。"
+    },
+    {
+      "id": 29,
+      "value": "get all funky",
+      "options": [
+        "全て機能する",
+        "全てめちゃくちゃになる",
+        "全ておしゃれになる",
+        "全てファンキーになる"
+      ],
+      "correctAnswer": "全てファンキーになる",
+      "explanation": "「get all funky」は、「ファンキーになる」「おかしくなる」「面白くなる」といった意味合いです。ここでは、非ニュートン流体の奇妙な動きを指しています。スラング的な表現で、良い意味でも悪い意味でも使われます。"
+    },
+    {
+      "id": 30,
+      "value": "get past",
+      "options": [
+        "通り過ぎる",
+        "理解する",
+        "乗り越える",
+        "手に入れる"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get past」は、「乗り越える」「突破する」という意味です。ゲームのguard captainをどうにかして倒す、またはその場所を通り抜ける方法を知りたい、という文脈で使用されています。困難を克服する際に使われます。"
+    },
+    {
+      "id": 31,
+      "value": "slay",
+      "options": [
+        "眠らせる",
+        "魅了する",
+        "殺す、打ち負かす",
+        "無視する"
+      ],
+      "correctAnswer": "殺す、打ち負かす",
+      "explanation": "「slay」は、「殺す」「打ち負かす」という意味で、特に英雄的な戦いやゲームなどで敵を倒す際に用いられる古風な表現です。ここでは、ゲームのguard captainを倒すためにbronze daggerでは不可能だ、という文脈で使われています。"
+    },
+    {
+      "id": 32,
+      "value": "all over again",
+      "options": [
+        "もう一度最初から",
+        "全く問題ない",
+        "完全に終わった",
+        "予想通りだ"
+      ],
+      "correctAnswer": "もう一度最初から",
+      "explanation": "「all over again」は、「もう一度最初から」「繰り返して」という意味です。ここでは、bronze daggerでguard captainに挑むのは、鍵でアパートのドアを開けるようなものだ、という状況を指しています。"
+    },
+    {
+      "id": 33,
+      "value": "for God’s sakes",
+      "options": [
+        "神のご加護を",
+        "冗談はよせ",
+        "お願いだから",
+        "神に感謝を"
+      ],
+      "correctAnswer": "お願いだから",
+      "explanation": "「for God's sakes」は、「お願いだから」「頼むから」「一体全体」という意味の強い感情を表す表現です。苛立ちや驚き、懇願などのニュアンスが含まれます。ここでは、SheldonがPennyにゲームのやり方を教える際に、少し呆れて使っています。"
+    },
+    {
+      "id": 34,
+      "value": "appreciate",
+      "options": [
+        "感謝する",
+        "理解する",
+        "評価する",
+        "心配する"
+      ],
+      "correctAnswer": "感謝する",
+      "explanation": "「appreciate」は、「感謝する」「ありがたく思う」という意味です。PennyがSheldonにゲームを手伝ってもらうことに対して感謝の意を示しています。相手の行為や親切に対して感謝を表す際に広く使われます。"
+    },
+    {
+      "id": 35,
+      "value": "patronise",
+      "options": [
+        "保護する",
+        "後援する",
+        "見下す",
+        "宣伝する"
+      ],
+      "correctAnswer": "見下す",
+      "explanation": "「patronise」は、「見下すような態度をとる」「恩着せがましくする」という意味です。PennyがSheldonに、上から目線で物を言わないでほしいと伝える場面で使われています。相手を軽んじているような態度に対して使われることが多いです。"
+    },
+    {
+      "id": 36,
+      "value": "What the frak?",
+      "options": [
+        "何が起こったの？",
+        "どうしたの？",
+        "一体何なの？",
+        "どこに行くの？"
+      ],
+      "correctAnswer": "一体何なの？",
+      "explanation": "「What the frak?」は、「一体何なんだ？」「何が起こっているんだ？」という意味の、驚きや不信感を表す表現です。「frak」は「fuck」の婉曲表現で、SFドラマ「Battlestar Galactica」でよく使われます。ここでは、PennyとSheldonのやり取りに対するHowardの困惑を表しています。"
+    },
+    {
+      "id": 37,
+      "value": "beats me",
+      "options": [
+        "私を打ち負かす",
+        "私は知らない",
+        "私を笑わせる",
+        "私を悩ませる"
+      ],
+      "correctAnswer": "私は知らない",
+      "explanation": "「beats me」は、「私にはわからない」「見当もつかない」という意味の口語的な表現です。質問や状況に対して答えを知らないことを伝える際に使われます。ここでは、HowardがPennyとSheldonの奇妙な行動についてLeonardに尋ね、Leonardが知らないと答えています。"
+    },
+    {
+      "id": 38,
+      "value": "crossover",
+      "options": [
+        "交差点",
+        "交流",
+        "交配",
+        "協力"
+      ],
+      "correctAnswer": "交流",
+      "explanation": "「crossover」は、「クロスオーバー」「交流」「異種混合」といった意味です。ここでは、異なるコミックやキャラクターが混ざり合う状況を指しています。異なるジャンルや作品が組み合わさる際に使われます。"
+    },
+    {
+      "id": 39,
+      "value": "get a life",
+      "options": [
+        "生活を始める",
+        "命を救う",
+        "人生を充実させる",
+        "仕事を見つける"
+      ],
+      "correctAnswer": "人生を充実させる",
+      "explanation": "「get a life」は、「人生を充実させる」「もっと有意義なことをする」という意味の軽蔑的な表現です。ここでは、SheldonがPennyに対して、ゲームばかりしていないで現実世界での生活を充実させるべきだと言っています。"
+    },
+    {
+      "id": 40,
+      "value": "sing-song",
+      "options": [
+        "歌うように",
+        "秘密めいた",
+        "単調な",
+        "陽気な"
+      ],
+      "correctAnswer": "歌うように",
+      "explanation": "「sing-song」は、「歌うような」「抑揚のある」という意味です。ここでは、PennyがSheldonを呼ぶ声が、まるで歌っているかのように聞こえることを表しています。子供を呼ぶときや、からかうときなどに使われることがあります。"
+    },
+    {
+      "id": 41,
+      "value": "dragon fodder",
+      "options": [
+        "竜の餌",
+        "竜の皮",
+        "竜の友",
+        "竜の涙"
+      ],
+      "correctAnswer": "竜の餌",
+      "explanation": "「dragon fodder」は、「竜の餌」という意味で、ここではゲーム内で弱いキャラクターが強い敵に利用されることを指しています。弱い者や犠牲者を軽蔑的に表現する際に使われます。"
+    },
+    {
+      "id": 42,
+      "value": "catch me up",
+      "options": [
+        "私を捕まえる",
+        "私に追いつく",
+        "私を元気にする",
+        "私をだます"
+      ],
+      "correctAnswer": "私に追いつく",
+      "explanation": "「catch me up」は、「私に近況を教えて」「私に状況を説明して」という意味です。ここでは、LeonardがSheldonに、何が起こっているのか説明してほしいと頼んでいます。状況や情報に遅れている人が、最新情報を得るために使います。"
+    },
+    {
+      "id": 43,
+      "value": "mediate",
+      "options": [
+        "瞑想する",
+        "仲介する",
+        "治療する",
+        "記憶する"
+      ],
+      "correctAnswer": "仲介する",
+      "explanation": "「mediate」は、「仲介する」「調停する」という意味です。ここでは、GablehauserがSheldonとLeslieの間の紛争を仲裁する役割を果たすことを指しています。対立する当事者の間に入り、合意形成を促す行為を意味します。"
+    },
+    {
+      "id": 44,
+      "value": "inter-departmental disputes",
+      "options": [
+        "省庁間の論争",
+        "部署間の紛争",
+        "個人的な意見",
+        "国際的な問題"
+      ],
+      "correctAnswer": "部署間の紛争",
+      "explanation": "「inter-departmental disputes」は、「部署間の紛争」「部門間の争い」という意味です。ここでは、大学内の部署間での対立を指しています。「inter-」は「間の」という意味を持ちます。"
+    },
+    {
+      "id": 45,
+      "value": "wantonly",
+      "options": [
+        "不注意に",
+        "故意に",
+        "熱心に",
+        "偶然に"
+      ],
+      "correctAnswer": "故意に",
+      "explanation": "「wantonly」は、「故意に」「無慈悲に」という意味です。ここでは、LeslieがSheldonのサインアップシートを意図的に剥がしたことを強調しています。倫理や道徳に反する行為に対して使われることが多いです。"
+    },
+    {
+      "id": 46,
+      "value": "ensure",
+      "options": [
+        "保証する",
+        "秘密にする",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "保証する",
+      "explanation": "「ensure」は、「保証する」「確実にする」という意味です。ここでは、Sheldonが大学のリソースが浪費されないようにするために、サインアップシートに自分の名前を書き込んだことを正当化しています。ある事柄が確実に起こるように手配することを意味します。"
+    },
+    {
+      "id": 47,
+      "value": "squandered",
+      "options": [
+        "節約された",
+        "浪費された",
+        "投資された",
+        "管理された"
+      ],
+      "correctAnswer": "浪費された",
+      "explanation": "「squandered」は、「浪費された」「無駄遣いされた」という意味です。ここでは、大学のリソースが無駄に使われることを防ぐために行動したとSheldonが主張しています。資源や機会を有効に使わなかった場合に用いられます。"
+    },
+    {
+      "id": 48,
+      "value": "sub-atomic wild geese",
+      "options": [
+        "亜原子の野生のガチョウ",
+        "非現実的な目標",
+        "具体的な計画",
+        "未知の宇宙"
+      ],
+      "correctAnswer": "非現実的な目標",
+      "explanation": "「sub-atomic wild geese」は、「ありえないこと」「無駄な試み」を指す比喩表現です。ここでは、Sheldonが追い求めている研究が無駄であるという批判に対して、反論しています。実現不可能な目標や計画を指す際に使われます。"
+    },
+    {
+      "id": 49,
+      "value": "plead guilty",
+      "options": [
+        "無罪を主張する",
+        "有罪を認める",
+        "証言を拒否する",
+        "弁護士を呼ぶ"
+      ],
+      "correctAnswer": "有罪を認める",
+      "explanation": "「plead guilty」は、「有罪を認める」という意味です。ここでは、Sheldonが大学のリソースを守るために行動したことが罪であるならば、その罪を認めるという強い意志を示しています。法的な文脈でよく使われる表現です。"
+    },
+    {
+      "id": 50,
+      "value": "get that",
+      "options": [
+        "それを手に入れる",
+        "それを理解する",
+        "それを取り除く",
+        "それに応答する"
+      ],
+      "correctAnswer": "それに応答する",
+      "explanation": "「get that」は、「電話に出る」「対応する」という意味です。ここでは、Sheldonにかかってきた電話（Pennyからの電話）に対応する必要があるかどうかをGablehauserが尋ねています。電話やメッセージに対応する際に使われる口語的な表現です。"
+    },
+    {
+      "id": 51,
+      "value": "dumbass laureate",
+      "options": [
+        "優秀な学者",
+        "ばかげた業績の受賞者",
+        "ノーベル賞候補",
+        "委員会メンバー"
+      ],
+      "correctAnswer": "ばかげた業績の受賞者",
+      "explanation": "「laureate」は、特定の分野で顕著な業績を上げた人に与えられる称号です。「dumbass laureate」は、それを皮肉った表現で、最も愚かなことをした人に贈られる賞という意味合いになります。"
+    },
+    {
+      "id": 52,
+      "value": "multi-bit calculations",
+      "options": [
+        "単純な計算",
+        "高度な多層的計算",
+        "概算",
+        "暗算"
+      ],
+      "correctAnswer": "高度な多層的計算",
+      "explanation": "「bit」は情報量の最小単位で、「multi-bit」はそれを複数組み合わせた、より複雑なデータを指します。ここでは、高度で複雑な計算という意味合いで使われています。"
+    },
+    {
+      "id": 53,
+      "value": "Sanctum of Burning Souls",
+      "options": [
+        "燃える魂の聖域",
+        "初心者向けの簡単な場所",
+        "安全な避難場所",
+        "平和な庭園"
+      ],
+      "correctAnswer": "燃える魂の聖域",
+      "explanation": "ゲーム内の特定の場所の名前であり、おそらく危険で上級者向けのエリアを指します。文脈から、Pennyのレベルではまだ準備ができていない場所であることがわかります。"
+    },
+    {
+      "id": 54,
+      "value": "log on",
+      "options": [
+        "ログオフする",
+        "ログインする",
+        "記録する",
+        "木を切る"
+      ],
+      "correctAnswer": "ログインする",
+      "explanation": "「log on」は、コンピュータシステムやオンラインサービスにアクセスするためにログインすることを意味します。ここでは、ゲームにログインしてPennyを手伝うことができないという文脈で使用されています。"
+    },
+    {
+      "id": 55,
+      "value": "interfering with",
+      "options": [
+        "協力する",
+        "邪魔する",
+        "改善する",
+        "促進する"
+      ],
+      "correctAnswer": "邪魔する",
+      "explanation": "「interfere with」は、何かの活動やプロセスを妨げる、邪魔をするという意味です。ここでは、PennyがSheldonの睡眠や仕事の邪魔をしているという状況を表しています。"
+    },
+    {
+      "id": 56,
+      "value": "significant aspect",
+      "options": [
+        "些細なこと",
+        "重要な側面",
+        "秘密の趣味",
+        "個人的な問題"
+      ],
+      "correctAnswer": "重要な側面",
+      "explanation": "「significant aspect」は、人生や活動における重要な要素や側面を指します。Sheldonは、もし他に重要な側面があれば、Pennyはそれも邪魔するだろうと述べています。"
+    },
+    {
+      "id": 57,
+      "value": "restrained yourself",
+      "options": [
+        "解放する",
+        "自制する",
+        "手伝う",
+        "楽しむ"
+      ],
+      "correctAnswer": "自制する",
+      "explanation": "「restrain」は、感情や行動を抑制することを意味します。「restrained yourself」は、自分自身を抑制した、自制したという意味になります。ここでは、LeonardがPennyに挨拶したことを後悔しているSheldonが、Leonardに自制していればよかったと言っています。"
+    },
+    {
+      "id": 58,
+      "value": "emphatic",
+      "options": [
+        "曖昧な",
+        "強調された",
+        "短い",
+        "個人的な"
+      ],
+      "correctAnswer": "強調された",
+      "explanation": "「emphatic」は、強い感情や重要性を示すさまを表します。ここでは、SheldonがPennyに छोड़してほしいという強い意志を伝えたことを指しています。"
+    },
+    {
+      "id": 59,
+      "value": "figure something out",
+      "options": [
+        "何かを理解する",
+        "何かを隠す",
+        "何かを忘れる",
+        "何かを無視する"
+      ],
+      "correctAnswer": "何かを理解する",
+      "explanation": "「figure out」は、問題や状況を理解し、解決策を見つけ出すという意味です。ここでは、LeonardにPennyへの対策を考えてほしいというSheldonの要求を表しています。"
+    },
+    {
+      "id": 60,
+      "value": "difficult to live with",
+      "options": [
+        "一緒に住みやすい",
+        "我慢強い",
+        "一緒に住むのが難しい",
+        "寛容な"
+      ],
+      "correctAnswer": "一緒に住むのが難しい",
+      "explanation": "「difficult to live with」は、性格や行動が原因で、誰かと一緒に生活することが困難であることを意味します。Sheldonは、Pennyの問題が解決されない場合、自分が一緒に住むのが難しい存在になると警告しています。"
+    },
+    {
+      "id": 61,
+      "value": "happy funtime",
+      "options": [
+        "悲しい時間",
+        "楽しい時間",
+        "退屈な時間",
+        "忙しい時間"
+      ],
+      "correctAnswer": "楽しい時間",
+      "explanation": "皮肉を込めて使われており、実際には楽しくない状況を指します。Leonardは、これまでのSheldonとの生活が「happy funtime」ではなかったことを示唆しています。"
+    },
+    {
+      "id": 62,
+      "value": "AFK",
+      "options": [
+        "すぐに戻る",
+        "離席中",
+        "攻撃開始",
+        "ゲームオーバー"
+      ],
+      "correctAnswer": "離席中",
+      "explanation": "「Away From Keyboard」の略で、オンラインゲームやチャットで、一時的にキーボードから離れることを意味します。Pennyはゲーム中にLeonardに話しかけられ、「離席中」であることを伝えています。"
+    },
+    {
+      "id": 63,
+      "value": "get to the point",
+      "options": [
+        "要点を避ける",
+        "要点に触れる",
+        "遠回りする",
+        "詳細を語る"
+      ],
+      "correctAnswer": "要点に触れる",
+      "explanation": "「get to the point」は、話の核心や要点を手短に述べることを意味します。Pennyは、ゲームに集中したいので、Leonardに早く本題に入るように促しています。"
+    },
+    {
+      "id": 64,
+      "value": "sense of achievement",
+      "options": [
+        "達成感",
+        "喪失感",
+        "罪悪感",
+        "無力感"
+      ],
+      "correctAnswer": "達成感",
+      "explanation": "「sense of achievement」は、目標を達成したときに感じる満足感や達成感を指します。Leonardは、現実世界で達成感を得られない人が、仮想世界にのめり込みやすいと指摘しています。"
+    },
+    {
+      "id": 65,
+      "value": "false sense of accomplishment",
+      "options": [
+        "真の達成感",
+        "偽りの達成感",
+        "不満感",
+        "劣等感"
+      ],
+      "correctAnswer": "偽りの達成感",
+      "explanation": "「false sense of accomplishment」は、実際には意味のある成果を上げていないのに、あたかも達成したかのように錯覚することを指します。Leonardは、Pennyがゲームで得ている達成感が、現実逃避である可能性を示唆しています。"
+    },
+    {
+      "id": 66,
+      "value": "jabber jabber jabber",
+      "options": [
+        "重要な情報",
+        "意味のないおしゃべり",
+        "深刻な議論",
+        "詩的な表現"
+      ],
+      "correctAnswer": "意味のないおしゃべり",
+      "explanation": "「jabber」は、早口で意味のないことをペラペラとしゃべることを意味します。「jabber jabber jabber」は、それを繰り返すことで、相手の話を全く聞いていないことを強調する表現です。"
+    },
+    {
+      "id": 67,
+      "value": "multi-player monkey on your back",
+      "options": [
+        "協力的な仲間",
+        "重荷となる依存症",
+        "楽しい協力プレイ",
+        "簡単なゲーム"
+      ],
+      "correctAnswer": "重荷となる依存症",
+      "explanation": "「monkey on your back」は、克服するのが難しい依存症や問題を指すイディオムです。Rajは、オンラインゲーム中毒を「multi-player monkey on your back」と表現し、その深刻さを強調しています。"
+    },
+    {
+      "id": 68,
+      "value": "pulling all nighters",
+      "options": [
+        "昼寝をする",
+        "徹夜をする",
+        "早寝早起きをする",
+        "昼夜逆転生活をする"
+      ],
+      "correctAnswer": "徹夜をする",
+      "explanation": "「pull an all-nighter」は、一晩中起きていること、徹夜することを意味します。Leslieは、Pennyがゲームで徹夜していることをからかっています。"
+    },
+    {
+      "id": 69,
+      "value": "postulate",
+      "options": [
+        "証明する",
+        "仮定する",
+        "否定する",
+        "結論付ける"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "「postulate」は、証拠なしに何かを真実だと仮定することを意味します。Leslieは、Pennyがオンラインゲームに逃避している理由を性的な欲求不満だと仮定しています。"
+    },
+    {
+      "id": 70,
+      "value": "shore up",
+      "options": [
+        "弱める",
+        "強化する",
+        "無視する",
+        "破壊する"
+      ],
+      "correctAnswer": "強化する",
+      "explanation": "「shore up」は、何かを支えたり、強化したりすることを意味します。Leonardは、Pennyがオンラインゲームで自己肯定感を高めようとしていると考えています。"
+    },
+    {
+      "id": 71,
+      "value": "way off base",
+      "options": [
+        "非常に正確",
+        "完全に間違っている",
+        "中立的",
+        "部分的に正しい"
+      ],
+      "correctAnswer": "完全に間違っている",
+      "explanation": "「off base」は、事実や状況を誤解している、見当違いであることを意味します。「way off base」は、それが極端であることを強調します。Leonardは、LeslieのPennyに関する推測が全く的外れだと反論しています。"
+    },
+    {
+      "id": 72,
+      "value": "concede",
+      "options": [
+        "否定する",
+        "認める",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "認める",
+      "explanation": "「concede」は、反対していたことや疑っていたことを、最終的に認めることを意味します。Sheldonは、Leslieを軽蔑しているものの、彼女の性的な知識に関しては認めざるを得ないと言っています。"
+    },
+    {
+      "id": 73,
+      "value": "expertise",
+      "options": [
+        "無知",
+        "専門知識",
+        "興味",
+        "偏見"
+      ],
+      "correctAnswer": "専門知識",
+      "explanation": "「expertise」は、特定の分野における高度な知識や技能を指します。Sheldonは、Leslieが性的な事柄に関して専門知識を持っていることを認めています。"
+    },
+    {
+      "id": 74,
+      "value": "interrelated fields",
+      "options": [
+        "無関係な分野",
+        "相互に関連する分野",
+        "古い分野",
+        "新しい分野"
+      ],
+      "correctAnswer": "相互に関連する分野",
+      "explanation": "「interrelated fields」は、互いに影響し合ったり、関連性を持つ分野を指します。Sheldonは、Leslieが「promiscuity（乱交）」と「general sluttiness（だらしなさ）」という関連分野で専門知識を持っていると述べています。"
+    },
+    {
+      "id": 75,
+      "value": "take the bullet",
+      "options": [
+        "危険を冒す",
+        "安全を確保する",
+        "攻撃する",
+        "逃げる"
+      ],
+      "correctAnswer": "危険を冒す",
+      "explanation": "「take the bullet」は、他人のために危険を冒す、責任を負うという意味のイディオムです。Howardは、Pennyの相手になることを志願し、その状況を「take the bullet」と表現しています。"
+    },
+    {
+      "id": 76,
+      "value": "zip it pip it",
+      "options": [
+        "急いで",
+        "静かにして",
+        "手伝って",
+        "頑張って"
+      ],
+      "correctAnswer": "静かにして",
+      "explanation": "「Zip it」は「黙れ」という意味のスラング表現です。「pip it」は「zip it」を強調する為に使われている、特に意味のない言葉です。人に静かにしてほしい時に使われます。"
+    },
+    {
+      "id": 77,
+      "value": "littered with",
+      "options": [
+        "飾られている",
+        "散らかっている",
+        "保管されている",
+        "隠されている"
+      ],
+      "correctAnswer": "散らかっている",
+      "explanation": "「littered with」は「～で散らかっている」という意味です。名詞「litter」は「ごみ、散らかったもの」という意味です。部屋や場所が物で散らかっている状態を表すのに使われます。\n\n例：The park was littered with trash after the concert.（コンサートの後、公園はゴミで散らかっていた。）"
+    },
+    {
+      "id": 78,
+      "value": "wussies",
+      "options": [
+        "賢者",
+        "臆病者",
+        "友人",
+        "英雄"
+      ],
+      "correctAnswer": "臆病者",
+      "explanation": "「wussy」は「弱虫、臆病者」という意味のスラングです。人を軽蔑的に呼ぶ際に使われます。特に、危険や困難な状況を避ける人を指して使われることが多いです。\n\n例：Don't be such a wussy, just try it! (そんなに弱虫になるな、やってみろよ！)"
+    },
+    {
+      "id": 79,
+      "value": "initiated by him",
+      "options": [
+        "彼によって始められる",
+        "彼によって終わらされる",
+        "彼によって無視される",
+        "彼によって妨害される"
+      ],
+      "correctAnswer": "彼によって始められる",
+      "explanation": "「initiate」は「開始する、始める」という意味です。「initiated by him」は「彼によって始められる」という意味になります。ここでは、性的な出会いを誰が始めるかという文脈で使用されています。"
+    },
+    {
+      "id": 80,
+      "value": "extensive",
+      "options": [
+        "短い",
+        "退屈な",
+        "広範囲な",
+        "簡単な"
+      ],
+      "correctAnswer": "広範囲な",
+      "explanation": "「extensive」は「広範囲な、大規模な」という意味です。ここでは、オンライン登録の内容が非常に詳細であることを指しています。広く行き届いている状態を表します。\n\n例：The research was very extensive. (その研究は非常に広範囲にわたった。)"
+    },
+    {
+      "id": 81,
+      "value": "trickery and deceit",
+      "options": [
+        "正直と信頼",
+        "策略と欺瞞",
+        "勇気と決断",
+        "知識と知恵"
+      ],
+      "correctAnswer": "策略と欺瞞",
+      "explanation": "「trickery」は「策略、ごまかし」という意味で、「deceit」は「欺瞞、詐欺」という意味です。このフレーズは、人をだますために使われる行為や手段を指します。\n\n例：He used trickery and deceit to win the election. (彼は選挙に勝つために策略と欺瞞を使った。)"
+    },
+    {
+      "id": 82,
+      "value": "struck out",
+      "options": [
+        "成功した",
+        "失敗した",
+        "休憩した",
+        "出発した"
+      ],
+      "correctAnswer": "失敗した",
+      "explanation": "「strike out」は、ここでは「（恋愛で）失敗する、うまくいかない」という意味です。野球のストライクアウトから派生した表現で、目標を達成できなかった状況を表します。\n\n例：He struck out with her. (彼は彼女に振られた。)"
+    },
+    {
+      "id": 83,
+      "value": "ratty",
+      "options": [
+        "清潔な",
+        "みすぼらしい",
+        "豪華な",
+        "快適な"
+      ],
+      "correctAnswer": "みすぼらしい",
+      "explanation": "「ratty」は「みすぼらしい、ぼろぼろの」という意味です。人の外見や物の状態が古くて汚れている様子を表します。\n\n例：She was wearing a ratty old coat. (彼女はみすぼらしい古いコートを着ていた。)"
+    },
+    {
+      "id": 84,
+      "value": "baggy",
+      "options": [
+        "きつい",
+        "だぶだぶの",
+        "短い",
+        "派手な"
+      ],
+      "correctAnswer": "だぶだぶの",
+      "explanation": "「baggy」は「だぶだぶの、ぶかぶかの」という意味です。衣服が体にフィットせず、ゆったりしている状態を表します。\n\n例：He wore baggy jeans. (彼はだぶだぶのジーンズをはいていた。)"
+    },
+    {
+      "id": 85,
+      "value": "noobs",
+      "options": [
+        "専門家",
+        "初心者",
+        "指導者",
+        "詐欺師"
+      ],
+      "correctAnswer": "初心者",
+      "explanation": "「noob」は「初心者、新参者」という意味のスラングです。特にオンラインゲームなどで、経験が浅いプレイヤーを指して使われます。\n\n例：I'm such a noob at this game. (このゲームでは私は本当に初心者だ。)"
+    },
+    {
+      "id": 86,
+      "value": "spellcasters",
+      "options": [
+        "魔法使い",
+        "戦士",
+        "盗賊",
+        "商人"
+      ],
+      "correctAnswer": "魔法使い",
+      "explanation": "「spellcaster」は「魔法使い、呪文を使う人」という意味です。ファンタジー作品やゲームで、魔法を使って戦うキャラクターを指します。\n\n例：The spellcaster used a powerful spell to defeat the dragon. (魔法使いは強力な呪文を使ってドラゴンを倒した。)"
+    },
+    {
+      "id": 87,
+      "value": "tank",
+      "options": [
+        "攻撃役",
+        "防御役",
+        "回復役",
+        "支援役"
+      ],
+      "correctAnswer": "防御役",
+      "explanation": "「tank」は、オンラインゲームで、敵の攻撃を引き受けてパーティーを守る役割を指します。高い防御力と体力を持つキャラクターが担うことが多いです。\n\n例：We need a good tank to protect the rest of the team. (チームを守るために、優秀なタンクが必要です。)"
+    },
+    {
+      "id": 88,
+      "value": "socialise",
+      "options": [
+        "運動する",
+        "社交する",
+        "勉強する",
+        "仕事する"
+      ],
+      "correctAnswer": "社交する",
+      "explanation": "「socialize」は「社交する、親睦を深める」という意味です。他の人と交流し、関係を築くことを指します。\n\n例：I like to socialize with my friends on weekends. (週末は友達と社交するのが好きです。)"
+    },
+    {
+      "id": 89,
+      "value": "passive",
+      "options": [
+        "消極的な",
+        "積極的な",
+        "友好的な",
+        "敵対的な"
+      ],
+      "correctAnswer": "消極的な",
+      "explanation": "「passive」は「受動的な、消極的な」という意味です。ここでは、性的に消極的な男性を指しています。自分から行動を起こさず、相手の行動を待つ様子を表します。\n\n例：He is a passive person. (彼は消極的な人です。)"
+    },
+    {
+      "id": 90,
+      "value": "yon",
+      "options": [
+        "ここにある",
+        "あそこにある",
+        "どこにもない",
+        "いつも"
+      ],
+      "correctAnswer": "あそこにある",
+      "explanation": "「yon」は「あそこの、向こうの」という意味の古語です。現代英語ではあまり使われず、文学作品や古風な表現で見られます。\n\n例：Look at yon castle. (あそこの城を見てください。)"
+    },
+    {
+      "id": 91,
+      "value": "spirited questing",
+      "options": [
+        "元気のない探求",
+        "活発な探求",
+        "秘密の探求",
+        "危険な探求"
+      ],
+      "correctAnswer": "活発な探求",
+      "explanation": "「spirited」は「元気のある、活発な」という意味です。「questing」は「探求」を意味します。したがって、「spirited questing」は「活発な探求」や「精力的な探索」と訳されます。\n\n例：They embarked on a spirited questing for knowledge. (彼らは知識を求めて精力的な探求に乗り出した。)"
+    },
+    {
+      "id": 92,
+      "value": "flagon",
+      "options": [
+        "小さなグラス",
+        "大きな瓶",
+        "平たい皿",
+        "木製のスプーン"
+      ],
+      "correctAnswer": "大きな瓶",
+      "explanation": "「flagon」は「大きな瓶、特に酒を入れるためのもの」という意味です。通常、取っ手と栓が付いています。\n\n例：He poured ale from the flagon into his mug. (彼は瓶からエールをマグカップに注いだ。)"
+    },
+    {
+      "id": 93,
+      "value": "heuristic algorithms",
+      "options": [
+        "経験則に基づくアルゴリズム",
+        "完全にランダムなアルゴリズム",
+        "数学的に完璧なアルゴリズム",
+        "常に同じ結果を出すアルゴリズム"
+      ],
+      "correctAnswer": "経験則に基づくアルゴリズム",
+      "explanation": "「heuristic algorithm」は「ヒューリスティック・アルゴリズム」といい、必ずしも最適解を保証しないものの、実用的な時間内で近似解を見つけるためのアルゴリズムです。経験や直感に基づいて効率的に問題を解決しようとします。\n\n例：The program uses heuristic algorithms to find the best route. (そのプログラムは、最適なルートを見つけるためにヒューリスティック・アルゴリズムを使用している。)"
+    },
+    {
+      "id": 94,
+      "value": "hokum",
+      "options": [
+        "真実",
+        "嘘、でたらめ",
+        "秘密",
+        "公式発表"
+      ],
+      "correctAnswer": "嘘、でたらめ",
+      "explanation": "「hokum」は「でたらめ、たわごと、ごまかし」という意味のスラングです。信憑性のない話や、人を欺くための言葉を指します。\n\n例：That's just a bunch of hokum. (それはただのでたらめだ。)"
+    },
+    {
+      "id": 95,
+      "value": "Treasury of the Ancients",
+      "options": [
+        "古代の宝物庫",
+        "現代美術館",
+        "未来都市",
+        "未知の惑星"
+      ],
+      "correctAnswer": "古代の宝物庫",
+      "explanation": "「Treasury of the Ancients」は文字通り「古代の宝物庫」という意味です。このフレーズは、ゲーム内で貴重なアイテムや資源が保管されている場所を指していると考えられます。\n\n例：The players sought the legendary Treasury of the Ancients. (プレイヤーたちは伝説的な古代の宝物庫を探し求めた。)"
+    },
+    {
+      "id": 96,
+      "value": "hateful strike",
+      "options": [
+        "愛情のある一撃",
+        "憎しみに満ちた一撃",
+        "軽い接触",
+        "偶然の衝突"
+      ],
+      "correctAnswer": "憎しみに満ちた一撃",
+      "explanation": "「hateful strike」は「憎しみに満ちた一撃」という意味で、ゲーム内で使用される特殊な攻撃やスキルを指していると考えられます。敵に対して強い憎しみを込めて繰り出す攻撃を表現しています。\n\n例：With a hateful strike, she defeated the monster. (憎しみに満ちた一撃で、彼女はモンスターを倒した。)"
+    },
+    {
+      "id": 97,
+      "value": "frenzy stance",
+      "options": [
+        "冷静な構え",
+        "狂乱の構え",
+        "防御的な構え",
+        "隠密行動"
+      ],
+      "correctAnswer": "狂乱の構え",
+      "explanation": "「frenzy stance」は「狂乱の構え」という意味で、ゲーム内でキャラクターが一時的に攻撃力や速度を上げる状態やスキルを指していると考えられます。「frenzy」は「逆上、狂乱」という意味です。\n\n例：He entered a frenzy stance and attacked relentlessly. (彼は狂乱の構えに入り、容赦なく攻撃した。)"
+    },
+    {
+      "id": 98,
+      "value": "healing potion",
+      "options": [
+        "攻撃力を上げる薬",
+        "体力を回復する薬",
+        "透明になる薬",
+        "敵を混乱させる薬"
+      ],
+      "correctAnswer": "体力を回復する薬",
+      "explanation": "「healing potion」は「回復薬」という意味で、ゲームやファンタジー作品でよく登場するアイテムです。キャラクターの体力を回復させる効果があります。\n\n例：She drank a healing potion to restore her health. (彼女は体力を回復するために回復薬を飲んだ。)"
+    },
+    {
+      "id": 99,
+      "value": "suitable mate",
+      "options": [
+        "最適な仕事仲間",
+        "理想的な配偶者",
+        "最悪の敵",
+        "普通の関係"
+      ],
+      "correctAnswer": "理想的な配偶者",
+      "explanation": "「suitable mate」は「適切な配偶者、理想的な相手」という意味です。ここでは、デートサイトが科学的な根拠に基づいてペニーにふさわしい相手を選んだという状況で使用されています。\n\n例：The dating site matched her with a suitable mate. (その出会い系サイトは、彼女を理想的な相手とマッチさせた。)"
+    },
+    {
+      "id": 100,
+      "value": "paramedic",
+      "options": [
+        "医師",
+        "救急救命士",
+        "看護師",
+        "薬剤師"
+      ],
+      "correctAnswer": "救急救命士",
+      "explanation": "「paramedic」は「救急救命士」という意味です。緊急時に医療処置を行い、病院へ搬送する役割を担います。\n\n例：The paramedic arrived quickly and provided first aid. (救急救命士はすぐに到着し、応急処置を行った。)"
+    }
+  ]
+}

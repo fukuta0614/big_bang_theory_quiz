@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "buckled",
+      "options": [
+        "抵抗した",
+        "屈した",
+        "同意した",
+        "反論した"
+      ],
+      "correctAnswer": "屈した",
+      "explanation": "この文脈では、「buckle」は「（圧力などに）屈する、耐えられなくなる」という意味です。Typhoid Maryの友人が彼女の圧力に屈したように、ラージを助けることを諦めたことを示唆しています。比喩的な意味合いで使用されます。"
+    },
+    {
+      "id": 2,
+      "value": "per",
+      "options": [
+        "～につき",
+        "～に従って",
+        "～の代わりに",
+        "～に関して"
+      ],
+      "correctAnswer": "～に従って",
+      "explanation": "「per」は、ここでは「～に従って、～に基づいて」という意味の前置詞です。ルームメイト契約の内容を説明する際に使われています。契約書やルールなどを引用する際に用いられるフォーマルな表現です。"
+    },
+    {
+      "id": 3,
+      "value": "non-related",
+      "options": [
+        "無関係の",
+        "血縁関係のない",
+        "重要でない",
+        "形式的でない"
+      ],
+      "correctAnswer": "血縁関係のない",
+      "explanation": "「non-related」は「関係のない、特に血縁関係のない」という意味です。ここでは、ルームメイトのレナードに対して、血縁関係のない女性が泊まることを事前に通知する際に使われています。法律や契約など、フォーマルな場面でよく使用されます。"
+    },
+    {
+      "id": 4,
+      "value": "cybernetically-enhanced",
+      "options": [
+        "サイバネティクス強化された",
+        "化学的に合成された",
+        "遺伝子的に操作された",
+        "精神的に鍛えられた"
+      ],
+      "correctAnswer": "サイバネティクス強化された",
+      "explanation": "「cybernetically-enhanced」は「サイバネティクス（人工頭脳学）によって強化された」という意味です。ここでは、未来的なアシスタントとしての猿を想像して使われています。SF的な文脈や、技術的な高度化を表現する際に用いられることがあります。"
+    },
+    {
+      "id": 5,
+      "value": "playing host to",
+      "options": [
+        "主催する",
+        "もてなす",
+        "出演する",
+        "競争する"
+      ],
+      "correctAnswer": "もてなす",
+      "explanation": "「play host to」は「～をもてなす、～のホスト役を務める」という意味です。ここでは、シェルドンがエリザベス・プリンプトン博士を自宅に迎え、もてなすことを表しています。イベントや訪問者に対して使われる一般的な表現です。"
+    },
+    {
+      "id": 6,
+      "value": "cosmological physicist",
+      "options": [
+        "宇宙論物理学者",
+        "量子力学研究者",
+        "天体観測者",
+        "素粒子物理学者"
+      ],
+      "correctAnswer": "宇宙論物理学者",
+      "explanation": "「cosmological physicist」は「宇宙論物理学者」という意味です。宇宙の起源、進化、構造などを物理学的に研究する専門家を指します。学術的な文脈で使用される専門用語です。"
+    },
+    {
+      "id": 7,
+      "value": "corresponding",
+      "options": [
+        "一致する",
+        "文通する",
+        "相当する",
+        "協力する"
+      ],
+      "correctAnswer": "文通する",
+      "explanation": "「correspond」は「文通する、手紙をやり取りする」という意味です。ここでは、シェルドンとプリンプトン博士が長年手紙で意見交換をしていたことを示しています。現代ではメールでのやり取りにも使えます。"
+    },
+    {
+      "id": 8,
+      "value": "gravitational wave signatures",
+      "options": [
+        "重力波の兆候",
+        "電磁波のパターン",
+        "宇宙線の痕跡",
+        "暗黒物質のサイン"
+      ],
+      "correctAnswer": "重力波の兆候",
+      "explanation": "「gravitational wave signatures」は「重力波の兆候」という意味です。重力波は、質量を持つ物体が加速運動することによって発生する時空の歪みであり、その特徴的なパターンを指します。物理学、特に宇宙論の分野で用いられる専門用語です。"
+    },
+    {
+      "id": 9,
+      "value": "inflatons",
+      "options": [
+        "インフレーション",
+        "インフラトン",
+        "電子",
+        "陽子"
+      ],
+      "correctAnswer": "インフラトン",
+      "explanation": "「inflatons」は「インフラトン」という意味です。初期宇宙のインフレーション（急膨張）を引き起こしたとされる仮想的な素粒子を指します。宇宙論の分野で用いられる専門用語です。"
+    },
+    {
+      "id": 10,
+      "value": "obligated",
+      "options": [
+        "義務付けられた",
+        "喜んで",
+        "必要とされた",
+        "許可された"
+      ],
+      "correctAnswer": "義務付けられた",
+      "explanation": "「obligated」は「義務付けられた、～する義務がある」という意味です。ここでは、シェルドンが自分のファンであるレナードに、自分がエリザベス・プリンプトンと知り合いであることを伝える義務はないと考えていることを示しています。法的な義務から道徳的な義務まで、幅広い状況で使用されます。"
+    },
+    {
+      "id": 11,
+      "value": "kidding",
+      "options": [
+        "冗談を言う",
+        "真剣に考える",
+        "混乱させる",
+        "無視する"
+      ],
+      "correctAnswer": "冗談を言う",
+      "explanation": "「kidding」は「冗談を言う、からかう」という意味です。ここでは、ハワードがシェルドンに「冗談を言っているのか」と尋ねています。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 12,
+      "value": "world-renowned",
+      "options": [
+        "世界的に有名な",
+        "地域限定の",
+        "無名の",
+        "古代の"
+      ],
+      "correctAnswer": "世界的に有名な",
+      "explanation": "「world-renowned」は「世界的に有名な、世界に名を知られた」という意味です。エリザベス・プリンプトン博士が非常に有名な科学者であることを強調しています。尊敬や賞賛の気持ちを込めて使われる形容詞です。"
+    },
+    {
+      "id": 13,
+      "value": "care for",
+      "options": [
+        "好む",
+        "世話をする",
+        "気にする",
+        "必要とする"
+      ],
+      "correctAnswer": "好む",
+      "explanation": "「care for」は「～を好む、～が好きである」という意味です。ここでは、プリンプトン博士がホテルを好まない理由をシェルドンが説明しています。好みや嗜好を表す一般的な表現です。"
+    },
+    {
+      "id": 14,
+      "value": "multi-user linens",
+      "options": [
+        "複数の人が使うリネン",
+        "高級なリネン",
+        "使い捨てリネン",
+        "特別なリネン"
+      ],
+      "correctAnswer": "複数の人が使うリネン",
+      "explanation": "「multi-user linens」は「複数の人が使うリネン」という意味です。ホテルなどで提供される、不特定多数の人が使用するリネン類を指し、シェルドンがそれを嫌っていることを示しています。衛生面での懸念を表す際に用いられることがあります。"
+    },
+    {
+      "id": 15,
+      "value": "prophylactic",
+      "options": [
+        "予防的な",
+        "治療的な",
+        "実験的な",
+        "対症療法的な"
+      ],
+      "correctAnswer": "予防的な",
+      "explanation": "「prophylactic」は「予防的な、予防の」という意味です。感染症などを未然に防ぐための措置を指します。医療や衛生関連の文脈で用いられる専門用語です。"
+    },
+    {
+      "id": 16,
+      "value": "stock boy",
+      "options": [
+        "在庫係",
+        "店長",
+        "警備員",
+        "配達員"
+      ],
+      "correctAnswer": "在庫係",
+      "explanation": "「stock boy」は「（店の）在庫係、品出し係」という意味です。ここでは、シェルドンがドラッグストアで生理用品について質問した相手を指しています。小売店などで使われる一般的な役職名です。"
+    },
+    {
+      "id": 17,
+      "value": "uninformed",
+      "options": [
+        "知識がない",
+        "誤解している",
+        "情報通の",
+        "偏見のある"
+      ],
+      "correctAnswer": "知識がない",
+      "explanation": "「uninformed」は「知識がない、情報に通じていない」という意味です。ここでは、シェルドンがドラッグストアの店員が生理用品について知識がないことを不満に思っていることを示しています。無知や情報不足を指摘する際に用いられる形容詞です。"
+    },
+    {
+      "id": 18,
+      "value": "flabbergast",
+      "options": [
+        "仰天させる",
+        "喜ばせる",
+        "退屈させる",
+        "落ち着かせる"
+      ],
+      "correctAnswer": "仰天させる",
+      "explanation": "「flabbergast」は「びっくり仰天させる、度肝を抜く」という意味です。ここでは、ペニーがシェルドンに女性が泊まることを聞いて驚いている様子を表しています。日常会話で使われる表現です。"
+    },
+    {
+      "id": 19,
+      "value": "female jibber jabber",
+      "options": [
+        "女性のおしゃべり",
+        "重要な会話",
+        "科学的な議論",
+        "秘密の計画"
+      ],
+      "correctAnswer": "女性のおしゃべり",
+      "explanation": "「female jibber jabber」は「女性のおしゃべり、くだらない話」という意味です。ここでは、シェルドンがペニーに対して、プリンプトン博士との会話でくだらない話題を避けるように言っています。やや軽蔑的なニュアンスを含む表現です。"
+    },
+    {
+      "id": 20,
+      "value": "noted",
+      "options": [
+        "有名な",
+        "注目された",
+        "記録された",
+        "否定された"
+      ],
+      "correctAnswer": "有名な",
+      "explanation": "「noted」は「有名な、著名な」という意味です。ここでは、シェルドンが自分の家に泊まる女性が著名な物理学者であることを強調しています。尊敬の念を込めて使われる形容詞です。"
+    },
+    {
+      "id": 21,
+      "value": "leading expert",
+      "options": [
+        "第一人者",
+        "新米研究者",
+        "批判的な専門家",
+        "隠れた才能"
+      ],
+      "correctAnswer": "第一人者",
+      "explanation": "「leading expert」は「第一人者、最高の専門家」という意味です。ある分野において最も知識や経験が豊富な人を指します。尊敬の念を込めて使われる表現です。"
+    },
+    {
+      "id": 22,
+      "value": "quantum cosmology",
+      "options": [
+        "量子宇宙論",
+        "古典宇宙論",
+        "相対性理論",
+        "天体物理学"
+      ],
+      "correctAnswer": "量子宇宙論",
+      "explanation": "「quantum cosmology」は「量子宇宙論」という意味です。宇宙の起源や進化を量子力学の観点から研究する分野です。物理学、特に宇宙論の分野で用いられる専門用語です。"
+    },
+    {
+      "id": 23,
+      "value": "good grief",
+      "options": [
+        "なんてこった",
+        "素晴らしい",
+        "本当ですか",
+        "落ち着いて"
+      ],
+      "correctAnswer": "なんてこった",
+      "explanation": "「good grief」は「なんてこった、やれやれ」という意味で、驚きや不満、軽蔑などを表す際に使われます。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 24,
+      "value": "pay attention",
+      "options": [
+        "注意を払う",
+        "無視する",
+        "忘れる",
+        "後悔する"
+      ],
+      "correctAnswer": "注意を払う",
+      "explanation": "「pay attention」は「注意を払う、注目する」という意味です。ここでは、レナードに対して、重要な出来事を見逃さないように注意を促しています。一般的な表現です。"
+    },
+    {
+      "id": 25,
+      "value": "biographer",
+      "options": [
+        "伝記作家",
+        "映画監督",
+        "科学者",
+        "歴史家"
+      ],
+      "correctAnswer": "伝記作家",
+      "explanation": "「biographer」は「伝記作家」という意味です。ある人物の生涯を記録し、書籍としてまとめる人を指します。文学、歴史学などの分野で用いられる専門用語です。"
+    },
+    {
+      "id": 26,
+      "value": "thank goodness",
+      "options": [
+        "神に感謝",
+        "幸運を祈る",
+        "残念ながら",
+        "信じられない"
+      ],
+      "correctAnswer": "神に感謝",
+      "explanation": "「Thank goodness」は、良いことが起こった際に感謝の気持ちを表す表現です。予想外の幸運や、困難を乗り越えた時に使われます。類似の表現として「Thank God」「Thank heavens」があります。\n\n例：Thank goodness you're safe! (ご無事でよかった！)"
+    },
+    {
+      "id": 27,
+      "value": "confuse it with",
+      "options": [
+        "混乱させる",
+        "区別する",
+        "明確にする",
+        "比較する"
+      ],
+      "correctAnswer": "混乱させる",
+      "explanation": "「Confuse A with B」は、AとBを混同する、取り違えるという意味です。知識不足や注意不足から、二つのものを誤って同一視する状況を表します。\n\n例：I always confuse him with his brother. (彼と彼の兄弟をいつも混同してしまう。)"
+    },
+    {
+      "id": 28,
+      "value": "crushed by hypergravity",
+      "options": [
+        "超重力で押しつぶされる",
+        "超重力を利用する",
+        "超重力に耐える",
+        "超重力を無視する"
+      ],
+      "correctAnswer": "超重力で押しつぶされる",
+      "explanation": "「Crush」は押しつぶす、粉砕するという意味で、ここではhypergravity（超重力）によって押しつぶされるという比喩的な表現です。極めて強い重力が物体に加わる状態を表します。\n\n例：The car was crushed by a falling tree. (車は倒れてきた木によって押しつぶされた。)"
+    },
+    {
+      "id": 29,
+      "value": "I would imagine",
+      "options": [
+        "想像できます",
+        "想像できません",
+        "知っています",
+        "知りません"
+      ],
+      "correctAnswer": "想像できます",
+      "explanation": "「I would imagine」は、推測や予想を表す丁寧な表現です。確信はないものの、状況から考えてそうだろうと推測する際に使われます。類似の表現として「I guess」「I suppose」があります。\n\n例：I would imagine he's very busy. (彼はとても忙しいだろうと想像します。)"
+    },
+    {
+      "id": 30,
+      "value": "apologize",
+      "options": [
+        "謝罪する",
+        "感謝する",
+        "祝福する",
+        "許可する"
+      ],
+      "correctAnswer": "謝罪する",
+      "explanation": "「Apologize」は、謝罪するという意味です。自分の言動に対する非を認め、相手に遺憾の意を伝える際に用いられます。\n\n例：I apologize for the delay. (遅延についてお詫び申し上げます。)"
+    },
+    {
+      "id": 31,
+      "value": "rambling",
+      "options": [
+        "散歩",
+        "要点を得ない話",
+        "秘密",
+        "計画"
+      ],
+      "correctAnswer": "要点を得ない話",
+      "explanation": "「Ramble」は、とりとめのない話をする、話が脱線するという意味です。話があちこちに飛び、中心から外れていく様子を表します。\n\n例：He started to ramble about his childhood. (彼は子供の頃の話をし始めたが、話がまとまらなかった。)"
+    },
+    {
+      "id": 32,
+      "value": "delightful",
+      "options": [
+        "不快な",
+        "楽しい",
+        "退屈な",
+        "普通の"
+      ],
+      "correctAnswer": "楽しい",
+      "explanation": "「Delightful」は、非常に楽しい、喜ばしいという意味です。人を喜ばせるような、心地よい状況や物事を表します。\n\n例：We had a delightful evening. (私たちは楽しい夜を過ごしました。)"
+    },
+    {
+      "id": 33,
+      "value": "opening up your home",
+      "options": [
+        "家を売る",
+        "家を改装する",
+        "家を提供する",
+        "家を隠す"
+      ],
+      "correctAnswer": "家を提供する",
+      "explanation": "「Open up your home」は、自分の家を人に提供する、迎え入れるという意味です。宿泊やもてなしの意を表します。\n\n例：Thank you for opening up your home to us. (私たちを家に迎え入れてくれてありがとう。)"
+    },
+    {
+      "id": 34,
+      "value": "misappropriating",
+      "options": [
+        "誤解する",
+        "盗用する",
+        "正当化する",
+        "改善する"
+      ],
+      "correctAnswer": "盗用する",
+      "explanation": "「Misappropriate」は、不正流用する、盗用するという意味です。他人のアイデアや権利を不正に使用する行為を指します。\n\n例：He was accused of misappropriating company funds. (彼は会社資金の不正流用で告発された。)"
+    },
+    {
+      "id": 35,
+      "value": "philosophical bent",
+      "options": [
+        "哲学的な傾倒",
+        "物理的な歪み",
+        "数学的な公式",
+        "科学的な実験"
+      ],
+      "correctAnswer": "哲学的な傾倒",
+      "explanation": "「Bent」は、好み、傾向、性癖という意味で、ここでは哲学的なものの見方や考え方の傾向を表します。\n\n例：He has a philosophical bent of mind. (彼は哲学的な考え方をする傾向がある。)"
+    },
+    {
+      "id": 36,
+      "value": "emergency provisions",
+      "options": [
+        "緊急避難場所",
+        "非常用食料",
+        "救急医療",
+        "防災訓練"
+      ],
+      "correctAnswer": "非常用食料",
+      "explanation": "「Emergency provisions」は、緊急時に備えて用意された物資、特に食料や水などを指します。災害や緊急事態に備えるための備蓄品です。\n\n例：We need to stock up on emergency provisions. (非常用食料を蓄えておく必要がある。)"
+    },
+    {
+      "id": 37,
+      "value": "odd duck",
+      "options": [
+        "臆病者",
+        "変わり者",
+        "幸運な人",
+        "普通の鳥"
+      ],
+      "correctAnswer": "変わり者",
+      "explanation": "「Odd duck」は、風変わりな人、奇妙な人という意味です。普通とは異なる行動や性格を持つ人を指す口語表現です。類似の表現として「weirdo」「eccentric」があります。\n\n例：He's always been an odd duck. (彼は昔から変わり者だった。)"
+    },
+    {
+      "id": 38,
+      "value": "misbegotten adventure",
+      "options": [
+        "不幸な冒険",
+        "計画された冒険",
+        "成功した冒険",
+        "危険な冒険"
+      ],
+      "correctAnswer": "不幸な冒険",
+      "explanation": "「Misbegotten」は、計画がまずい、見当違いのという意味で、ここでは不幸な結果に終わった出来事、または最初から見込みの薄い出来事を指します。\n\n例：The project was a misbegotten attempt from the start. (そのプロジェクトは最初から見当違いの試みだった。)"
+    },
+    {
+      "id": 39,
+      "value": "inexplicably",
+      "options": [
+        "説明可能に",
+        "不可解に",
+        "明確に",
+        "当然ながら"
+      ],
+      "correctAnswer": "不可解に",
+      "explanation": "「Inexplicably」は、説明できないほど、不可解にという意味です。理由や原因がはっきりしない状況を表します。\n\n例：The bird inexplicably flew into the window. (その鳥は不可解にも窓に飛び込んだ。)"
+    },
+    {
+      "id": 40,
+      "value": "carnal activity",
+      "options": [
+        "性的な活動",
+        "運動",
+        "食事",
+        "勉強"
+      ],
+      "correctAnswer": "性的な活動",
+      "explanation": "「Carnal」は肉体的な、性的なという意味で、ここでは性的な行為や関係を婉曲的に表します。\n\n例：The movie contains scenes of carnal desire. (その映画には性欲を描いた場面が含まれている。)"
+    },
+    {
+      "id": 41,
+      "value": "night time ablutions",
+      "options": [
+        "夜間の入浴",
+        "夜間の勉強",
+        "夜間の食事",
+        "夜間の睡眠"
+      ],
+      "correctAnswer": "夜間の入浴",
+      "explanation": "「Ablutions」は、清め、沐浴という意味で、ここでは寝る前に行う身支度や入浴を指すやや古風な表現です。\n\n例：She performed her nightly ablutions. (彼女は毎晩の身支度をした。)"
+    },
+    {
+      "id": 42,
+      "value": "laminated copy",
+      "options": [
+        "コピー",
+        "ラミネートされたコピー",
+        "オリジナルの書類",
+        "手書きのメモ"
+      ],
+      "correctAnswer": "ラミネートされたコピー",
+      "explanation": "「Laminated」は、ラミネート加工されたという意味です。ここでは耐久性を高めるためにラミネートされたコピーを指します。\n\n例：He gave me a laminated copy of his business card. (彼は私にラミネートされた名刺をくれた。)"
+    },
+    {
+      "id": 43,
+      "value": "escape route diagram",
+      "options": [
+        "脱出経路図",
+        "配線図",
+        "交通地図",
+        "設計図"
+      ],
+      "correctAnswer": "脱出経路図",
+      "explanation": "「Escape route diagram」は、緊急時に建物から安全に脱出するための経路を示した図です。避難経路図とも呼ばれます。\n\n例：The escape route diagram is posted near the door. (脱出経路図はドアの近くに掲示されている。)"
+    },
+    {
+      "id": 44,
+      "value": "How thoughtful",
+      "options": [
+        "なんと無神経な",
+        "なんと心のこもった",
+        "なんて面白い",
+        "なんと退屈な"
+      ],
+      "correctAnswer": "なんと心のこもった",
+      "explanation": "「How thoughtful」は、相手の心遣いや配慮に感謝する際に使われる表現です。相手の親切な行為に対する感謝の気持ちを表します。\n\n例：How thoughtful of you to bring me flowers! (花を持ってきてくれて、なんて親切なの！)"
+    },
+    {
+      "id": 45,
+      "value": "wasn't sure it was coming across",
+      "options": [
+        "伝わっているか確信がなかった",
+        "理解できると思っていた",
+        "重要だと思わなかった",
+        "忘れていた"
+      ],
+      "correctAnswer": "伝わっているか確信がなかった",
+      "explanation": "「Come across」は、伝わる、理解されるという意味です。自分の意図や感情が相手に正しく伝わっているか不安な状況を表します。\n\n例：I wasn't sure if my sarcasm was coming across. (私の皮肉が伝わっているか確信がなかった。)"
+    },
+    {
+      "id": 46,
+      "value": "pulsating variable stars",
+      "options": [
+        "脈動変光星",
+        "超新星",
+        "ブラックホール",
+        "惑星"
+      ],
+      "correctAnswer": "脈動変光星",
+      "explanation": "「Pulsating variable stars」は、明るさが周期的に変化する変光星の一種で、天文学の分野で重要な研究対象です。セファイド変光星などが該当します。\n\n例：Pulsating variable stars are used to measure distances in the universe. (脈動変光星は宇宙の距離を測定するために使用される。)"
+    },
+    {
+      "id": 47,
+      "value": "discrepancies",
+      "options": [
+        "調和",
+        "相違",
+        "類似性",
+        "規則性"
+      ],
+      "correctAnswer": "相違",
+      "explanation": "「Discrepancy」は、食い違い、不一致という意味です。事実やデータの間で見られる矛盾やずれを指します。\n\n例：There are several discrepancies in his account of the accident. (彼の事故の説明にはいくつかの食い違いがある。)"
+    },
+    {
+      "id": 48,
+      "value": "make science come alive",
+      "options": [
+        "科学を理解不能にする",
+        "科学を面白くする",
+        "科学を軽視する",
+        "科学を退屈にする"
+      ],
+      "correctAnswer": "科学を面白くする",
+      "explanation": "「Come alive」は生き生きとする、活気づくという意味で、ここでは科学を魅力的に、興味深く見せることを指します。難解な科学を分かりやすく説明したり、実践的な応用を紹介したりすることで、科学への関心を高めることを意味します。\n\n例：The teacher made history come alive for her students. (その教師は生徒たちにとって歴史を生き生きとさせた。)"
+    },
+    {
+      "id": 49,
+      "value": "relieve myself",
+      "options": [
+        "助ける",
+        "安心させる",
+        "用を足す",
+        "運動する"
+      ],
+      "correctAnswer": "用を足す",
+      "explanation": "「Relieve oneself」は、婉曲的に排泄する、用を足すという意味です。トイレに行くことを丁寧に表現する際に使われます。\n\n例：Excuse me, I need to relieve myself. (すみません、トイレに行ってきます。)"
+    },
+    {
+      "id": 50,
+      "value": "How do you take your coffee?",
+      "options": [
+        "コーヒーは好きですか？",
+        "コーヒーはどこで買いますか？",
+        "コーヒーはどうやって飲みますか？",
+        "コーヒーは誰が淹れますか？"
+      ],
+      "correctAnswer": "コーヒーはどうやって飲みますか？",
+      "explanation": "「How do you take your coffee?」は、コーヒーの飲み方、つまり砂糖やミルクを入れるかどうかを尋ねる一般的な表現です。相手の好みに合わせてコーヒーを準備するために使われます。\n\n例：How do you take your coffee? Black or with milk and sugar? (コーヒーはどうやって飲みますか？ブラックですか、それともミルクと砂糖を入れますか？)"
+    },
+    {
+      "id": 51,
+      "value": "Okeydoke",
+      "options": [
+        "問題ない",
+        "もちろん",
+        "承知しました",
+        "おやすいごよう"
+      ],
+      "correctAnswer": "承知しました",
+      "explanation": "「Okeydoke」は、「Okay」をくだけた、またはユーモラスに表現した言葉で、承知した、了解したという意味で使用されます。日常会話で軽く同意する際に使われます。"
+    },
+    {
+      "id": 52,
+      "value": "fire off",
+      "options": [
+        "解雇する",
+        "発砲する",
+        "送信する",
+        "開始する"
+      ],
+      "correctAnswer": "送信する",
+      "explanation": "「fire off」は、手紙やメールなどを急いで送る、送信するという意味です。ここでは、ヨーグルトの製造業者に苦情のメールを送ることを指しています。類似表現：send off, dispatch"
+    },
+    {
+      "id": 53,
+      "value": "smarty-pants",
+      "options": [
+        "賢い人",
+        "お調子者",
+        "知ったかぶり",
+        "変わり者"
+      ],
+      "correctAnswer": "知ったかぶり",
+      "explanation": "「smarty-pants」は、特に若者に対して、自分が賢いと見せびらかす人を指す、やや軽蔑的な表現です。ここではペニーがシェルドンをからかうニュアンスで使用しています。類似表現：smart aleck, wise guy"
+    },
+    {
+      "id": 54,
+      "value": "exploit",
+      "options": [
+        "利用する",
+        "開発する",
+        "探求する",
+        "悪用する"
+      ],
+      "correctAnswer": "利用する",
+      "explanation": "「exploit」は、ここでは（人を）利用するという意味で使われています。ペニーがレナードの感情を利用して車に乗せてもらおうとしている状況を表しています。感情や立場などをうまく利用する意味合いがあります。類似表現：take advantage of"
+    },
+    {
+      "id": 55,
+      "value": "Meaningless pleasantries",
+      "options": [
+        "無意味な喜び",
+        "楽しいおしゃべり",
+        "無意味な挨拶",
+        "形式的な行事"
+      ],
+      "correctAnswer": "無意味な挨拶",
+      "explanation": "「Meaningless pleasantries」は、特に意味のない、形式的な挨拶や会話を指します。社交辞令のようなものを指し、本質的なコミュニケーションがないことを示唆します。"
+    },
+    {
+      "id": 56,
+      "value": "clown car",
+      "options": [
+        "ピエロの車",
+        "おもちゃの車",
+        "満員電車",
+        "面白い車"
+      ],
+      "correctAnswer": "満員電車",
+      "explanation": "「clown car」は、多くのピエロが次々と出てくる小型車のように、非常に多くの人が詰め込まれた状況を指す比喩表現です。ここではレナードが、自分を含めた多くの人を車に乗せる状況をユーモラスに表現しています。"
+    },
+    {
+      "id": 57,
+      "value": "Hang on.",
+      "options": [
+        "電話を切る",
+        "待って",
+        "頑張って",
+        "しがみつく"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on.」は、誰かに少し待つように頼む時に使う一般的な表現です。ここでは、ペニーがレナードに話があるので、少し待ってと言う意味で使用されています。類似表現：Hold on. Wait a moment."
+    },
+    {
+      "id": 58,
+      "value": "I don’t follow.",
+      "options": [
+        "理解できない",
+        "ついていけない",
+        "同意できない",
+        "興味がない"
+      ],
+      "correctAnswer": "理解できない",
+      "explanation": "「I don’t follow.」は、相手の言っていることや話の流れが理解できない時に使われる表現です。ここでは、レナードがペニーの言っていることを理解していないことを示しています。類似表現：I don't understand. I don't get it."
+    },
+    {
+      "id": 59,
+      "value": "go for it",
+      "options": [
+        "頑張って",
+        "どうぞ",
+        "挑戦して",
+        "賛成する"
+      ],
+      "correctAnswer": "どうぞ",
+      "explanation": "「go for it」は、誰かに何かをすることを勧める、励ます時に使われる表現です。ここでは、ペニーがレナードにエリザベスと寝ることを勧める（皮肉交じりですが）意味で使用されています。類似表現：give it a try, take a chance"
+    },
+    {
+      "id": 60,
+      "value": "preposterous",
+      "options": [
+        "ばかげた",
+        "前代未聞の",
+        "信じられない",
+        "不愉快な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「preposterous」は、全く理にかなっていない、ばかげているという意味の形容詞です。ここでは、ペニーのレナードとエリザベスの関係についての発言をシェルドンが否定する際に使用しています。類似表現：absurd, ridiculous, ludicrous"
+    },
+    {
+      "id": 61,
+      "value": "banana peel",
+      "options": [
+        "危険な場所",
+        "バナナの皮",
+        "滑りやすい道",
+        "不運な出来事"
+      ],
+      "correctAnswer": "バナナの皮",
+      "explanation": "「banana peel」は、文字通りバナナの皮ですが、ここでは滑って転ぶという比喩的な意味合いで使用されています。ペニーはレナードとの関係が再び始まることへの不安を、ユーモラスに表現しています。"
+    },
+    {
+      "id": 62,
+      "value": "betrayal",
+      "options": [
+        "裏切り",
+        "失望",
+        "誤解",
+        "不信感"
+      ],
+      "correctAnswer": "裏切り",
+      "explanation": "「betrayal」は、信頼を裏切る行為、裏切り行為を意味する名詞です。ここでは、レナードがエリザベスと親密になったことに対して、シェルドンが裏切られたと感じていることを表しています。類似表現：treachery, disloyalty"
+    },
+    {
+      "id": 63,
+      "value": "hip flask",
+      "options": [
+        "水筒",
+        "魔法瓶",
+        "携帯用酒瓶",
+        "薬瓶"
+      ],
+      "correctAnswer": "携帯用酒瓶",
+      "explanation": "「hip flask」は、お尻のポケットなどに入れて持ち運ぶための小型の酒瓶のことです。ここではラージが、こっそりお酒を飲んでいることを示唆しています。"
+    },
+    {
+      "id": 64,
+      "value": "ten-percent booze",
+      "options": [
+        "10%の酒",
+        "アルコール度数10%",
+        "少しのアルコール",
+        "10倍の効果"
+      ],
+      "correctAnswer": "少しのアルコール",
+      "explanation": "「booze」は俗語でアルコールの意味です。ここでは、Nyquilにアルコールが少し含まれていることを指して、ラージがユーモラスに表現しています。"
+    },
+    {
+      "id": 65,
+      "value": "stop-motion",
+      "options": [
+        "静止画",
+        "コマ撮り",
+        "早送り",
+        "一時停止"
+      ],
+      "correctAnswer": "コマ撮り",
+      "explanation": "「stop-motion」は、静止した物体を少しずつ動かしながら撮影し、それを連続して再生することで、物体が動いているように見せるアニメーション技法です。ここではハワードが、レナードが趣味でレゴのコマ撮り映画を作っていることを言及しています。"
+    },
+    {
+      "id": 66,
+      "value": "capture your heart",
+      "options": [
+        "心を奪う",
+        "心を癒す",
+        "心を掴む",
+        "心を動かす"
+      ],
+      "correctAnswer": "心を掴む",
+      "explanation": "「capture your heart」は、人の心を強く引きつける、感動させるという意味です。ここでは、ハワードがレゴの映画が観客の心を掴むことが重要だと述べています。"
+    },
+    {
+      "id": 67,
+      "value": "slip on",
+      "options": [
+        "着る",
+        "滑る",
+        "忘れる",
+        "逃す"
+      ],
+      "correctAnswer": "滑る",
+      "explanation": "「slip on」は、何かの表面で滑るという意味です。ここではペニーが、もしレナードの運転で事故でも起こしたらと、比喩的に心配している場面です。"
+    },
+    {
+      "id": 68,
+      "value": "the implication being",
+      "options": [
+        "意味するところは",
+        "含みとしては",
+        "示唆するところは",
+        "前提としては"
+      ],
+      "correctAnswer": "示唆するところは",
+      "explanation": "「the implication being」は、言外の意味、示唆するところは、という意味です。ここでは、レナードの発言からシェルドンが読み取った意味について述べています。"
+    },
+    {
+      "id": 69,
+      "value": "residual feelings",
+      "options": [
+        "残された感情",
+        "過去の感情",
+        "わずかな感情",
+        "複雑な感情"
+      ],
+      "correctAnswer": "残された感情",
+      "explanation": "「residual feelings」は、過去の関係が終わった後も残っている感情、未練などを指します。ここでは、ペニーがレナードに対してまだ感情が残っているかどうかをシェルドンが言及しています。"
+    },
+    {
+      "id": 70,
+      "value": "get dressed",
+      "options": [
+        "着替える",
+        "準備する",
+        "おしゃれをする",
+        "正装する"
+      ],
+      "correctAnswer": "着替える",
+      "explanation": "「get dressed」は、服を着る、着替えるという意味の一般的な表現です。ここでは、レナードが仕事に行く準備のために着替えると言っています。"
+    },
+    {
+      "id": 71,
+      "value": "none of my business",
+      "options": [
+        "私の仕事ではない",
+        "関係ない",
+        "秘密",
+        "個人的なこと"
+      ],
+      "correctAnswer": "関係ない",
+      "explanation": "「none of my business」は、自分には関係のないこと、立ち入るべきではないことという意味です。ペニーがレナードとエリザベスの関係について、もう自分には関係ないと言っています。"
+    },
+    {
+      "id": 72,
+      "value": "internal combustion engine",
+      "options": [
+        "内部燃焼エンジン",
+        "外部燃焼エンジン",
+        "電気モーター",
+        "ハイブリッドエンジン"
+      ],
+      "correctAnswer": "内部燃焼エンジン",
+      "explanation": "「internal combustion engine」は、ガソリンやディーゼルなどの燃料を燃焼させて動力を得るエンジンのことです。エリザベスがペニーに対して、ガソリンが車にとって重要であることを知らないことを指摘しています。"
+    },
+    {
+      "id": 73,
+      "value": "quantum cosmology",
+      "options": [
+        "量子宇宙論",
+        "相対性宇宙論",
+        "ひも理論",
+        "多元宇宙論"
+      ],
+      "correctAnswer": "量子宇宙論",
+      "explanation": "「quantum cosmology」は、量子力学と宇宙論を組み合わせた分野で、宇宙の起源や進化を量子論的に研究します。エリザベスがこの分野の専門家であることを示しています。"
+    },
+    {
+      "id": 74,
+      "value": "critical e-mail",
+      "options": [
+        "重要なメール",
+        "批判的なメール",
+        "秘密のメール",
+        "緊急メール"
+      ],
+      "correctAnswer": "批判的なメール",
+      "explanation": "「critical e-mail」は、批判的な内容を含むメールのことです。ここでは、シェルドンがヨーグルトの製造業者に苦情を伝えるメールを送ることを指しています。"
+    },
+    {
+      "id": 75,
+      "value": "check engine light",
+      "options": [
+        "エンジン警告灯",
+        "ヘッドライト",
+        "ブレーキランプ",
+        "ハザードランプ"
+      ],
+      "correctAnswer": "エンジン警告灯",
+      "explanation": "「check engine light」は、車のエンジンに異常がある場合に点灯する警告灯のことです。シェルドンがペニーに対して、この警告灯を無視したのかと尋ねています。"
+    },
+    {
+      "id": 76,
+      "value": "tuckered out",
+      "options": [
+        "準備ができた",
+        "非常に疲れた",
+        "興奮した",
+        "リラックスした"
+      ],
+      "correctAnswer": "非常に疲れた",
+      "explanation": "「tuckered out」は、非常に疲れている、くたくたになっているという意味の口語表現です。特に、活動の後や一日の終わりに感じる疲労を表すのに使われます。フォーマルな場面ではあまり使用されません。\n\n例：After hiking all day, I was really tuckered out. (一日中ハイキングをした後、本当にくたくただった。)"
+    },
+    {
+      "id": 77,
+      "value": "be a dear",
+      "options": [
+        "親切にする",
+        "正直である",
+        "勇敢である",
+        "手伝ってくれる"
+      ],
+      "correctAnswer": "手伝ってくれる",
+      "explanation": "「be a dear」は、人に何かを頼む際に、相手に親しみを込めて丁寧に依頼する表現です。「お願いがあるんだけど」というニュアンスを含みます。親しい間柄や、少し年上の人に対して使うことが多いです。\n\n例：Be a dear and pass me the salt. (すみませんが、塩を取ってくれませんか？)"
+    },
+    {
+      "id": 78,
+      "value": "right?",
+      "options": [
+        "右ですか？",
+        "正解ですか？",
+        "そうですよね？",
+        "そうですか？"
+      ],
+      "correctAnswer": "そうですよね？",
+      "explanation": "「right?」は、相手に同意や確認を求める際の付加疑問文です。文末につけることで、「～ですよね？」、「～でしょう？」といった意味合いになります。日常会話で頻繁に使われる表現です。\n\n例：It's a beautiful day, right? (いい天気ですよね？)"
+    },
+    {
+      "id": 79,
+      "value": "beg pardon?",
+      "options": [
+        "許しを請う？",
+        "何とおっしゃいましたか？",
+        "失礼します",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "何とおっしゃいましたか？",
+      "explanation": "「Beg pardon?」は、相手の言ったことが聞き取れなかったり、理解できなかったりした場合に、丁寧に聞き返す際に使用する表現です。よりフォーマルな「Pardon me?」と同様の意味を持ちます。\n\n例：Beg pardon, I didn't catch your name. (すみません、お名前を聞き取れませんでした。)"
+    },
+    {
+      "id": 80,
+      "value": "rip off",
+      "options": [
+        "縫い合わせる",
+        "引き裂く",
+        "修理する",
+        "コピーする"
+      ],
+      "correctAnswer": "引き裂く",
+      "explanation": "「rip off」は、何かを勢いよく引き裂く、剥ぎ取るという意味の句動詞です。ここでは比喩的に、衣服を乱暴に脱がせる、といったニュアンスで使われています。\n\n例：She ripped off the bandage quickly. (彼女は包帯を素早く剥ぎ取った。)"
+    },
+    {
+      "id": 81,
+      "value": "milky flesh",
+      "options": [
+        "日焼けした肌",
+        "健康的な肌",
+        "白い肌",
+        "たるんだ肌"
+      ],
+      "correctAnswer": "白い肌",
+      "explanation": "「milky flesh」は、ミルクのように白い肌を指す表現です。文学的な表現で、美しい肌を形容する際に用いられることがあります。特に、色白で滑らかな肌を連想させます。\n\n例：Her milky flesh glowed in the moonlight. (彼女の白い肌は月明かりの中で輝いていた。)"
+    },
+    {
+      "id": 82,
+      "value": "What the frak?",
+      "options": [
+        "何が起こっているんだ？",
+        "どうしたの？",
+        "まさか！",
+        "気にしないで"
+      ],
+      "correctAnswer": "まさか！",
+      "explanation": "「What the frak?」は、「What the fuck?」の婉曲表現です。驚き、怒り、不信感などを表す際に使われます。SFドラマ「Battlestar Galactica」で広まりました。放送禁止用語を避けるために使われることが多いです。\n\n例：What the frak was that noise? (一体何の音だ？)"
+    },
+    {
+      "id": 83,
+      "value": "Kosher deli",
+      "options": [
+        "日本の弁当",
+        "フランスのパン屋",
+        "ユダヤ教の食品店",
+        "インドのカレー屋"
+      ],
+      "correctAnswer": "ユダヤ教の食品店",
+      "explanation": "「Kosher deli」は、ユダヤ教の戒律（カシュルート）に沿って調理された食品を提供するデリカテッセンのことです。特にニューヨークなどで多く見られます。コーシャ食品は、食材や調理法が厳格に定められています。\n\n例：Let's grab a sandwich at the Kosher deli. (コーシャデリでサンドイッチでも食べよう。)"
+    },
+    {
+      "id": 84,
+      "value": "shakey",
+      "options": [
+        "安定している",
+        "自信がある",
+        "不安定である",
+        "明らかである"
+      ],
+      "correctAnswer": "不安定である",
+      "explanation": "「shakey」は、「shaky」の口語的なスペルで、不安定な、ぐらぐらする、自信がない、といった意味があります。ここでは、ゲームの腕前が不安定であることを指しています。\n\n例：The economy is still shaky. (経済はまだ不安定だ。)"
+    },
+    {
+      "id": 85,
+      "value": "nightmare",
+      "options": [
+        "悪夢",
+        "良い夢",
+        "白昼夢",
+        "希望"
+      ],
+      "correctAnswer": "悪夢",
+      "explanation": "「nightmare」は、非常に恐ろしい夢、または現実における非常に不快な状況を指します。ここでは、予期せぬ事態が重なり、Rajにとって悪夢のような状況になっていることを表しています。\n\n例：The traffic jam was a complete nightmare. (その交通渋滞はまさに悪夢だった。)"
+    },
+    {
+      "id": 86,
+      "value": "moving men",
+      "options": [
+        "引越し業者",
+        "感動的な人",
+        "活動的な男性",
+        "影響力のある人"
+      ],
+      "correctAnswer": "引越し業者",
+      "explanation": "「moving men」は、引越し業者、引越しを手伝う男性たちのことを指します。ここでは比喩的に、エリザベスの引越しを手伝わされる状況を表しています。\n\n例：We hired moving men to help us with the heavy furniture. (重い家具の運搬のために引越し業者を雇った。)"
+    },
+    {
+      "id": 87,
+      "value": "Penthouse Forum",
+      "options": [
+        "高級住宅街",
+        "秘密の会議",
+        "アダルト雑誌",
+        "公開討論会"
+      ],
+      "correctAnswer": "アダルト雑誌",
+      "explanation": "「Penthouse Forum」は、アメリカの成人向け雑誌「Penthouse」に掲載されている読者からの手紙コーナーのことです。性的体験に関する手紙が掲載されることで知られています。ここでは、そのような状況を連想させる場面を指しています。\n\n例: The conversation took a turn for the worse, like something out of Penthouse Forum. (会話は悪い方向に進み、まるでペントハウスフォーラムに出てくる話のようだった。)"
+    },
+    {
+      "id": 88,
+      "value": "show of hands",
+      "options": [
+        "手品",
+        "多数決",
+        "握手",
+        "抗議"
+      ],
+      "correctAnswer": "多数決",
+      "explanation": "「show of hands」は、挙手による投票、多数決を意味します。意見や賛成を表明するために、手を挙げることを指します。\n\n例：Let's have a show of hands. Who wants pizza for dinner? (挙手で決めましょう。夕食にピザを食べたい人は？)"
+    },
+    {
+      "id": 89,
+      "value": "commit",
+      "options": [
+        "犯罪を犯す",
+        "約束する",
+        "入院する",
+        "本気で取り組む"
+      ],
+      "correctAnswer": "本気で取り組む",
+      "explanation": "「commit」は、ここでは「本気で取り組む」「積極的に参加する」という意味で使われています。全員がその状況に真剣に取り組むことで、より面白くなるというニュアンスが含まれています。\n\n例：It’s so much better when everyone commits to the joke. (みんなが本気で冗談に乗ってくれると、もっと面白くなる。)"
+    },
+    {
+      "id": 90,
+      "value": "Don't look back",
+      "options": [
+        "過去を振り返らないで",
+        "後ろを見て",
+        "過去を忘れないで",
+        "前を見て"
+      ],
+      "correctAnswer": "過去を振り返らないで",
+      "explanation": "「Don't look back」は、過去を振り返らないで、前向きに進むことを促す表現です。困難な状況から逃れる際に、後悔や未練を断ち切る意味合いで使われることがあります。\n\n例：They escaped the fire, and were told, 'Don't look back, just keep running'. (彼らは火災から逃れ、「後ろを振り返らずに走り続けろ」と言われた。)"
+    },
+    {
+      "id": 91,
+      "value": "Dr. Slutbunny",
+      "options": [
+        "優秀な医者",
+        "アニメのキャラクター",
+        "不道徳な女性",
+        "おもちゃの名前"
+      ],
+      "correctAnswer": "不道徳な女性",
+      "explanation": "「Slutbunny」は、性的にもてあそぶ女性を指す侮辱的な表現です。「Dr. Slutbunny」は、エリザベスに対する Penny の皮肉を込めた呼び方です。\n\n例：(This term is highly offensive and should be used with extreme caution.) (この言葉は非常に侮辱的であり、使用には細心の注意が必要です。)"
+    },
+    {
+      "id": 92,
+      "value": "owe me an explanation",
+      "options": [
+        "説明する義務がある",
+        "説明を求める",
+        "感謝する",
+        "謝罪する"
+      ],
+      "correctAnswer": "説明する義務がある",
+      "explanation": "「owe me an explanation」は、相手に説明する義務がある、説明を求めるという意味です。相手の行動や言動について、理由や経緯を知りたいときに使います。\n\n例：After disappearing for days, he owed me an explanation. (数日間姿を消した後、彼は私に説明する義務があった。)"
+    },
+    {
+      "id": 93,
+      "value": "judging me nine ways to Sunday",
+      "options": [
+        "完全に許す",
+        "厳しく非難する",
+        "全く気にしない",
+        "褒め称える"
+      ],
+      "correctAnswer": "厳しく非難する",
+      "explanation": "「judging someone nine ways to Sunday」は、人を徹底的に、あらゆる面から厳しく非難する、批判するという意味の口語表現です。Sundayは「日曜日」ですが、「永遠に」というニュアンスも持ちます。\n\n例：My mother is judging me nine ways to Sunday for dropping out of college. (母は私が大学を中退したことで、私を徹底的に非難している。)"
+    },
+    {
+      "id": 94,
+      "value": "get one on the record",
+      "options": [
+        "記録を達成する",
+        "公式に記録する",
+        "秘密にする",
+        "忘れる"
+      ],
+      "correctAnswer": "公式に記録する",
+      "explanation": "「get something on the record」は、公式に記録する、正式に記録に残すという意味です。後で参照できるように、明確な証拠を残すことを指します。\n\n例：I want to get my concerns on the record before the meeting ends. (会議が終わる前に、私の懸念事項を記録に残しておきたい。)"
+    },
+    {
+      "id": 95,
+      "value": "Nevertheless",
+      "options": [
+        "それにもかかわらず",
+        "したがって",
+        "同様に",
+        "たとえば"
+      ],
+      "correctAnswer": "それにもかかわらず",
+      "explanation": "「Nevertheless」は、「それにもかかわらず」「それでも」という意味の接続副詞です。前に述べたことと矛盾する内容を導入する際に使われます。フォーマルな場面でよく使用されます。\n\n例：It was raining; nevertheless, we went for a walk. (雨が降っていたが、それにもかかわらず散歩に出かけた。)"
+    },
+    {
+      "id": 96,
+      "value": "as it is",
+      "options": [
+        "現状のまま",
+        "改善されて",
+        "悪化して",
+        "変更されて"
+      ],
+      "correctAnswer": "現状のまま",
+      "explanation": "「as it is」は、「現状のまま」「今の状態で」という意味で使われます。ここでは、ゲームの参加人数がすでに少ない状態であることを強調しています。\n\n例：I can't afford a new car as it is. (今の状態では新しい車を買う余裕がない。)"
+    },
+    {
+      "id": 97,
+      "value": "go away",
+      "options": [
+        "遊びに行く",
+        "旅行する",
+        "立ち去る",
+        "戻ってくる"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "「go away」は、「立ち去る」「どこかへ行く」という意味の句動詞です。ここでは、RajがHowardに対して、自分の部屋から出て行ってほしいと強く要求する際に使われています。\n\n例：I told him to go away and leave me alone. (彼に立ち去って、一人にしてくれと言った。)"
+    },
+    {
+      "id": 98,
+      "value": "right time",
+      "options": [
+        "間違った時間",
+        "重要な時期",
+        "適切な時期",
+        "緊急時"
+      ],
+      "correctAnswer": "適切な時期",
+      "explanation": "「right time」は、「適切な時期」「好機」という意味です。何かを伝える、行動するのに最適なタイミングを指します。Howardが、別れたことを話す適切な時期を待っていた、という文脈で使用されています。\n\n例：I was waiting for the right time to tell her the truth. (彼女に真実を伝える適切な時期を待っていた。)"
+    },
+    {
+      "id": 99,
+      "value": "Follow my lead",
+      "options": [
+        "私についてきて",
+        "私を無視して",
+        "私の邪魔をして",
+        "私を助けて"
+      ],
+      "correctAnswer": "私についてきて",
+      "explanation": "「Follow my lead」は、「私の指示に従って」「私に続いて」という意味です。誰かを先導する際に、その指示に従うように促す表現です。\n\n例：If you don't know what to do, just follow my lead. (何をすべきかわからなければ、私に続いてください。)"
+    },
+    {
+      "id": 100,
+      "value": "locks door",
+      "options": [
+        "ドアを開ける",
+        "ドアを閉める",
+        "ドアを修理する",
+        "ドアに鍵をかける"
+      ],
+      "correctAnswer": "ドアに鍵をかける",
+      "explanation": "「locks door」は、「ドアに鍵をかける」という意味です。ここでは、部屋に閉じこもる、または外部からの侵入を防ぐ意図を示しています。Rajが Elizabeth を部屋に入れないようにするためにドアに鍵をかけた状況を表しています。\n\n例：She locks the door every night before going to bed. (彼女は毎晩寝る前にドアに鍵をかける。)"
+    }
+  ]
+}

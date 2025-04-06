@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "pencils down",
+      "options": [
+        "急いで書く",
+        "書き始める",
+        "書くのをやめる",
+        "鉛筆を削る"
+      ],
+      "correctAnswer": "書くのをやめる",
+      "explanation": "「pencils down」は、試験やゲームなどで、時間切れになった際に「書くのをやめなさい」という意味で使われる表現です。指示を出す側が使います。"
+    },
+    {
+      "id": 2,
+      "value": "as it turns out",
+      "options": [
+        "結局のところ",
+        "明らかになったように",
+        "回ってみると",
+        "発展していくと"
+      ],
+      "correctAnswer": "結局のところ",
+      "explanation": "「as it turns out」は、「結局のところ」「〜ということがわかった」という意味で、意外な事実や結果を述べる際に使われます。想定外の展開や、後になって判明した事柄を伝えるニュアンスがあります。\n\n例：As it turns out, I was wrong. (結局のところ、私が間違っていました。)"
+    },
+    {
+      "id": 3,
+      "value": "hearty",
+      "options": [
+        "不健康な",
+        "心のこもった",
+        "意気地のない",
+        "下品な"
+      ],
+      "correctAnswer": "心のこもった",
+      "explanation": "「hearty」は、ここでは「（料理などが）ボリュームのある、栄養満点の」という意味で使われています。また、「心のこもった、温かい」という意味もあります。\n\n例：a hearty welcome (心からの歓迎)"
+    },
+    {
+      "id": 4,
+      "value": "static",
+      "options": [
+        "静止した",
+        "騒音",
+        "安定した",
+        "活発な"
+      ],
+      "correctAnswer": "騒音",
+      "explanation": "「static」は、ここではテレビやラジオの「雑音、ノイズ」という意味で使われています。また、「静的な、変化のない」という意味もあります。\n\n例：The radio was full of static. (ラジオは雑音だらけだった。)"
+    },
+    {
+      "id": 5,
+      "value": "kick someone off",
+      "options": [
+        "誰かを励ます",
+        "誰かを支援する",
+        "誰かを解雇する",
+        "誰かを招待する"
+      ],
+      "correctAnswer": "誰かを解雇する",
+      "explanation": "「kick someone off」は、「（グループやチーム、番組などから）誰かを追い出す、解雇する」という意味です。ここではリアリティ番組から脱落させるという意味で使われています。\n\n例：He was kicked off the team for bad behavior. (彼は素行不良でチームから追い出された。)"
+    },
+    {
+      "id": 6,
+      "value": "mute",
+      "options": [
+        "変更する",
+        "消音にする",
+        "強調する",
+        "非難する"
+      ],
+      "correctAnswer": "消音にする",
+      "explanation": "「mute」は、「（音を）消す、弱める」という意味です。テレビや楽器などの音量を下げる、または完全に消す際に使われます。\n\n例：Please mute your cell phone during the meeting. (会議中は携帯電話を消音にしてください。)"
+    },
+    {
+      "id": 7,
+      "value": "closed captions",
+      "options": [
+        "秘密の会議",
+        "字幕",
+        "非公開の場所",
+        "閉鎖的な空間"
+      ],
+      "correctAnswer": "字幕",
+      "explanation": "「closed captions」は、「字幕放送」のことです。聴覚障害者向けに、テレビ番組などの音声情報を文字で表示するシステムを指します。"
+    },
+    {
+      "id": 8,
+      "value": "gorgeous",
+      "options": [
+        "退屈な",
+        "豪華な",
+        "失礼な",
+        "不味い"
+      ],
+      "correctAnswer": "豪華な",
+      "explanation": "「gorgeous」は、「とても美しい、豪華な、素晴らしい」という意味です。外見や景色、装飾など、視覚的に印象的なものに対して使われます。\n\n例：She looked gorgeous in her wedding dress. (彼女はウェディングドレスを着てとても美しかった。)"
+    },
+    {
+      "id": 9,
+      "value": "proper noun",
+      "options": [
+        "形容詞",
+        "固有名詞",
+        "動詞",
+        "副詞"
+      ],
+      "correctAnswer": "固有名詞",
+      "explanation": "「proper noun」は、「固有名詞」のことです。人名、地名、団体名など、特定のものや場所を指す名詞を指します。通常、大文字で始まります。"
+    },
+    {
+      "id": 10,
+      "value": "aspiring",
+      "options": [
+        "不満を抱いた",
+        "意欲的な",
+        "無気力な",
+        "才能のない"
+      ],
+      "correctAnswer": "意欲的な",
+      "explanation": "「aspiring」は、「〜を目指す、〜を志望する」という意味の形容詞です。特定の目標や地位を目指して努力している状態を表します。\n\n例：an aspiring actor (俳優志望者)"
+    },
+    {
+      "id": 11,
+      "value": "within driving distance",
+      "options": [
+        "運転免許停止中",
+        "運転できる距離",
+        "運転技術の範囲",
+        "運転手のいない車"
+      ],
+      "correctAnswer": "運転できる距離",
+      "explanation": "「within driving distance」は、「運転して行ける距離、日帰りできる距離」という意味です。ある場所から車で無理なく行ける範囲を指します。\n\n例：The beach is within driving distance from our house. (そのビーチは我が家から運転して行ける距離にある。)"
+    },
+    {
+      "id": 12,
+      "value": "freeze frame",
+      "options": [
+        "静止画像",
+        "高速再生",
+        "コマ送り",
+        "ズームアップ"
+      ],
+      "correctAnswer": "静止画像",
+      "explanation": "「freeze frame」は、「静止画像、静止画面」という意味です。映画やビデオなどを一時停止して、特定の瞬間を静止画として表示することです。"
+    },
+    {
+      "id": 13,
+      "value": "a.k.a.",
+      "options": [
+        "同様に",
+        "すなわち",
+        "結果として",
+        "例えば"
+      ],
+      "correctAnswer": "すなわち",
+      "explanation": "「a.k.a.」は、「also known as」の略で、「〜として知られる、別名〜」という意味です。ある人や物の別の名前や通称を紹介する際に使われます。"
+    },
+    {
+      "id": 14,
+      "value": "relish",
+      "options": [
+        "味わう",
+        "手放す",
+        "嫌う",
+        "後悔する"
+      ],
+      "correctAnswer": "味わう",
+      "explanation": "「relish」は、ここではハンバーガーの付け合わせとしての「薬味、レリッシュ」という意味で使用されています。動詞としては「楽しむ、味わう」という意味があります。\n\n例：I relish the opportunity to travel. (旅行の機会を楽しみにしている。)"
+    },
+    {
+      "id": 15,
+      "value": "embarrassment",
+      "options": [
+        "自慢",
+        "混乱",
+        "喜び",
+        "当惑"
+      ],
+      "correctAnswer": "当惑",
+      "explanation": "「embarrassment」は、「当惑、恥ずかしさ、困惑」という意味です。何か失敗したり、不快な状況に置かれたりしたときに感じる感情を表します。\n\n例：She felt a deep embarrassment at forgetting his name. (彼の名前を忘れてしまい、深い当惑を感じた。)"
+    },
+    {
+      "id": 16,
+      "value": "sensitive to",
+      "options": [
+        "〜に鈍感な",
+        "〜に敏感な",
+        "〜に無関心な",
+        "〜に寛容な"
+      ],
+      "correctAnswer": "〜に敏感な",
+      "explanation": "「sensitive to」は、「〜に敏感な、〜に弱い」という意味です。特定の物質や状況に対して、体質的にまたは感情的に反応しやすいことを表します。\n\n例：She is sensitive to pollen. (彼女は花粉症だ。)"
+    },
+    {
+      "id": 17,
+      "value": "pruny",
+      "options": [
+        "しなびた",
+        "滑らかな",
+        "新鮮な",
+        "輝かしい"
+      ],
+      "correctAnswer": "しなびた",
+      "explanation": "「pruny」は、「（プルーンのように）しわくちゃの、ふやけた」という意味です。水に浸かってふやけた状態や、年老いてしわがよった状態を指します。\n\n例：Her fingers were pruny after a long bath. (長いお風呂の後、彼女の指はふやけていた。)"
+    },
+    {
+      "id": 18,
+      "value": "bug-eyed",
+      "options": [
+        "目が細い",
+        "目が大きい",
+        "目が疲れている",
+        "目が充血している"
+      ],
+      "correctAnswer": "目が大きい",
+      "explanation": "「bug-eyed」は、「目が大きく見開いた、出目」という意味です。驚きや興奮などで目を大きく見開いている様子を表します。\n\n例：He stared at the sight bug-eyed. (彼は目を大きく見開いてその光景を見つめた。)"
+    },
+    {
+      "id": 19,
+      "value": "self-esteem",
+      "options": [
+        "自己中心的",
+        "自尊心",
+        "自己嫌悪",
+        "自己犠牲"
+      ],
+      "correctAnswer": "自尊心",
+      "explanation": "「self-esteem」は、「自尊心、自己評価」という意味です。自分自身を価値ある存在として認める感情や、自分の能力や性格に対する自信を表します。\n\n例：She has high self-esteem. (彼女は自尊心が高い。)"
+    },
+    {
+      "id": 20,
+      "value": "dill slices",
+      "options": [
+        "バジルのスライス",
+        "ディルのスライス",
+        "ミントのスライス",
+        "パセリのスライス"
+      ],
+      "correctAnswer": "ディルのスライス",
+      "explanation": "「dill」は、セリ科のハーブの一種で、独特の香りが特徴です。「dill slices」は、ピクルスなどに使われるディルのスライスを指します。"
+    },
+    {
+      "id": 21,
+      "value": "get a bunch of",
+      "options": [
+        "たくさん得る",
+        "少し失う",
+        "何も得ない",
+        "少しだけ得る"
+      ],
+      "correctAnswer": "たくさん得る",
+      "explanation": "「get a bunch of」は、「たくさんの〜を得る、〜がたくさんある」という意味です。口語的な表現で、量が多いことを強調する際に使われます。\n\n例：I got a bunch of emails this morning. (今朝、たくさんのメールを受け取った。)"
+    },
+    {
+      "id": 22,
+      "value": "sound just like",
+      "options": [
+        "〜のように聞こえる",
+        "〜のように見える",
+        "〜のように感じる",
+        "〜のように振る舞う"
+      ],
+      "correctAnswer": "〜のように聞こえる",
+      "explanation": "「sound just like」は、「まるで〜のように聞こえる、〜とそっくりな言い方をする」という意味です。誰かの発言や意見が、特定の人や組織のものと非常によく似ていることを表します。\n\n例：You sound just like my mother. (あなた、まるで私の母親みたいだ。)"
+    },
+    {
+      "id": 23,
+      "value": "too bad",
+      "options": [
+        "とても良い",
+        "残念",
+        "気にしない",
+        "関係ない"
+      ],
+      "correctAnswer": "残念",
+      "explanation": "「too bad」は、「残念だ、惜しい」という意味です。期待していたことや望ましい結果が得られなかったときに、落胆や同情を表すために使われます。\n\n例：Too bad you missed the party. (パーティーに来られなくて残念だったね。)"
+    },
+    {
+      "id": 24,
+      "value": "hold on a second",
+      "options": [
+        "ちょっと待って",
+        "進み続けろ",
+        "早くしろ",
+        "休憩しよう"
+      ],
+      "correctAnswer": "ちょっと待って",
+      "explanation": "「hold on a second」は、「ちょっと待って、少し待ってください」という意味です。相手の発言を中断したり、一時停止を求めたりする際に使われます。\n\n例：Hold on a second, I need to check something. (ちょっと待って、確認したいことがある。)"
+    },
+    {
+      "id": 25,
+      "value": "ruling",
+      "options": [
+        "支配",
+        "判決",
+        "定規",
+        "破壊"
+      ],
+      "correctAnswer": "判決",
+      "explanation": "「ruling」は、「判決、決定」という意味です。裁判官や審判員が下す正式な判断や決定を指します。ここでは、ゲームのルールに関する判断を求めている場面で使用されています。\n\n例：The judge issued a ruling in favor of the plaintiff. (裁判官は原告に有利な判決を下した。)"
+    },
+    {
+      "id": 26,
+      "value": "vociferously",
+      "options": [
+        "静かに",
+        "熱烈に",
+        "穏やかに",
+        "控えめに"
+      ],
+      "correctAnswer": "熱烈に",
+      "explanation": "「vociferously」は、「声を大にして」「騒々しく」という意味の副詞です。何かを強く主張したり、激しく抗議したりする様子を表します。ラテン語の「声（vox）」に由来し、強い感情を伴う発言に使われます。\n\n例：The crowd vociferously protested the decision. (群衆はその決定に対し、声を大にして抗議した。)"
+    },
+    {
+      "id": 27,
+      "value": "suffer through",
+      "options": [
+        "楽しむ",
+        "耐え抜く",
+        "参加する",
+        "無視する"
+      ],
+      "correctAnswer": "耐え抜く",
+      "explanation": "「suffer through」は、不快な状況や経験を辛抱強く耐え抜くという意味です。苦痛や困難を伴う状況を乗り越えるニュアンスがあります。\n\n例：I had to suffer through a long and boring meeting. (私は長く退屈な会議を耐え抜かなければならなかった。)"
+    },
+    {
+      "id": 28,
+      "value": "transparently manipulative",
+      "options": [
+        "巧妙に操作する",
+        "透明性のある",
+        "正直な",
+        "見え透いた操作"
+      ],
+      "correctAnswer": "見え透いた操作",
+      "explanation": "「transparently manipulative」は、操作しようとする意図が明白で、見え透いている様子を表します。「transparently」は「明白に」、「manipulative」は「操作的な」という意味です。\n\n例：His transparently manipulative tactics were obvious to everyone. (彼の見え透いた操作的な戦術は誰の目にも明らかだった。)"
+    },
+    {
+      "id": 29,
+      "value": "standing TV schedule",
+      "options": [
+        "臨時のテレビ番組",
+        "固定のテレビ番組",
+        "人気のテレビ番組",
+        "無料のテレビ番組"
+      ],
+      "correctAnswer": "固定のテレビ番組",
+      "explanation": "「standing schedule」は、「固定されたスケジュール」「定期的な予定」という意味です。ここでは、毎週決まって見るテレビ番組の予定を指します。\n\n例：We have a standing dinner date every Friday night. (私たちは毎週金曜日の夜に決まって夕食の約束がある。)"
+    },
+    {
+      "id": 30,
+      "value": "extensive debate",
+      "options": [
+        "簡単な議論",
+        "広範囲な討論",
+        "友好的な会話",
+        "秘密の会議"
+      ],
+      "correctAnswer": "広範囲な討論",
+      "explanation": "「extensive debate」は、「広範囲にわたる議論」「徹底的な討論」という意味です。様々な側面から深く掘り下げて議論する様子を表します。\n\n例：The proposal was subject to extensive debate before being approved. (その提案は承認される前に広範囲な議論の対象となった。)"
+    },
+    {
+      "id": 31,
+      "value": "compromise",
+      "options": [
+        "対立",
+        "譲歩",
+        "勝利",
+        "拒否"
+      ],
+      "correctAnswer": "譲歩",
+      "explanation": "「compromise」は、互いに譲り合って合意に達すること、妥協案という意味です。対立する意見を持つ者同士が、一部を譲り合うことで問題を解決する際に用いられます。\n\n例：We reached a compromise after hours of negotiation. (私たちは数時間の交渉の末、妥協点に達した。)"
+    },
+    {
+      "id": 32,
+      "value": "alterations",
+      "options": [
+        "変更",
+        "維持",
+        "追加",
+        "削除"
+      ],
+      "correctAnswer": "変更",
+      "explanation": "「alteration」は、「変更」「修正」「改変」という意味です。元の状態から何かを変えることを指します。衣服のサイズ調整など、具体的な変更にも使われます。\n\n例：The dress needs some alterations to fit properly. (そのドレスはきちんと合うようにいくつか修正が必要です。)"
+    },
+    {
+      "id": 33,
+      "value": "pre-approved",
+      "options": [
+        "事前に承認された",
+        "後で承認された",
+        "承認不要",
+        "承認待ち"
+      ],
+      "correctAnswer": "事前に承認された",
+      "explanation": "「pre-approved」は、「事前に承認された」「前もって許可された」という意味です。事前に許可を得る必要がある場合に使われます。\n\n例：The expense report must be pre-approved by the manager. (経費報告書はマネージャーによる事前承認が必要です。)"
+    },
+    {
+      "id": 34,
+      "value": "make a motion",
+      "options": [
+        "動き出す",
+        "提案する",
+        "反対する",
+        "中止する"
+      ],
+      "correctAnswer": "提案する",
+      "explanation": "「make a motion」は、会議や会合で正式な提案をすることを意味します。議事進行において、議題を提起する際に使われる表現です。\n\n例：I'd like to make a motion to adjourn the meeting. (会議の延会を提案します。)"
+    },
+    {
+      "id": 35,
+      "value": "mock Parliamentary procedure",
+      "options": [
+        "本物の議事手続き",
+        "形式的な議事手続き",
+        "秘密の議事手続き",
+        "非公式な会議"
+      ],
+      "correctAnswer": "形式的な議事手続き",
+      "explanation": "「mock Parliamentary procedure」は、「模擬議会手続き」「形式的な議事手続き」という意味です。実際の議会で行われる手続きを真似た、冗談めかした形式を指します。\n\n例：They held a mock trial to practice their debating skills. (彼らは討論スキルを練習するために模擬裁判を行った。)"
+    },
+    {
+      "id": 36,
+      "value": "let out a high pitched squeak",
+      "options": [
+        "低い音を出す",
+        "高い悲鳴を上げる",
+        "静かにする",
+        "歌う"
+      ],
+      "correctAnswer": "高い悲鳴を上げる",
+      "explanation": "「let out a high-pitched squeak」は、「甲高い悲鳴を上げる」という意味です。驚き、興奮、または恐怖を感じた時に発する声を表します。\n\n例：She let out a high-pitched squeak when she saw the mouse. (彼女はネズミを見たとき、甲高い悲鳴を上げた。)"
+    },
+    {
+      "id": 37,
+      "value": "deny, deny, people, wall of silence",
+      "options": [
+        "正直に話す",
+        "秘密を共有する",
+        "否定し続け、沈黙を守る",
+        "責任を認める"
+      ],
+      "correctAnswer": "否定し続け、沈黙を守る",
+      "explanation": "「deny, deny, people, wall of silence」は、何かを隠蔽するために、全員で否定し続け、沈黙を守ることを意味します。共謀して事実を隠そうとする状況で使われます。\n\n例：The company adopted a wall of silence strategy to avoid answering questions about the scandal. (その会社はスキャンダルに関する質問への回答を避けるために、沈黙戦略を採用した。)"
+    },
+    {
+      "id": 38,
+      "value": "strike",
+      "options": [
+        "チャンス",
+        "不利",
+        "有利",
+        "攻撃"
+      ],
+      "correctAnswer": "不利",
+      "explanation": "ここでは、野球のストライクと同じ意味で、「失敗」「不利な状況」を意味します。ルール違反や過ちを犯した場合にカウントされるものです。Three strikes and you're out.（三振）という形でよく使われます。\n\n例：That's strike one! Be careful. (それはストライク1つ！気をつけろ。)"
+    },
+    {
+      "id": 39,
+      "value": "betrayed that trust",
+      "options": [
+        "信頼を築いた",
+        "信頼を裏切った",
+        "信頼を得た",
+        "信頼を失った"
+      ],
+      "correctAnswer": "信頼を裏切った",
+      "explanation": "「betray trust」は、「信頼を裏切る」という意味です。誰かからの信頼を裏切り、期待を損なう行為を指します。\n\n例：He betrayed her trust by lying to her. (彼は彼女に嘘をついて信頼を裏切った。)"
+    },
+    {
+      "id": 40,
+      "value": "banality",
+      "options": [
+        "目新しさ",
+        "平凡さ",
+        "複雑さ",
+        "重要性"
+      ],
+      "correctAnswer": "平凡さ",
+      "explanation": "「banality」は、「陳腐さ」「平凡さ」「ありふれたこと」という意味です。面白みや新しさがなく、退屈なものを指します。\n\n例：The movie was filled with banalities and clichés. (その映画は陳腐な表現と決まり文句でいっぱいだった。)"
+    },
+    {
+      "id": 41,
+      "value": "compromising the integrity",
+      "options": [
+        "完全性を高める",
+        "完全性を損なう",
+        "価値を高める",
+        "価値を下げる"
+      ],
+      "correctAnswer": "完全性を損なう",
+      "explanation": "「compromise the integrity」は、「完全性/完全な状態を損なう」という意味です。ここでは、一つだけ触ったことで、他のすべてのオニオンリングの状態を損ねる、というニュアンスで使われています。\n\n例：The scandal compromised the integrity of the company. (そのスキャンダルは会社の完全性を損ねた。)"
+    },
+    {
+      "id": 42,
+      "value": "lenient",
+      "options": [
+        "厳格な",
+        "寛大な",
+        "公平な",
+        "不公平な"
+      ],
+      "correctAnswer": "寛大な",
+      "explanation": "「lenient」は、「寛大な」「甘い」「情け深い」という意味です。規則や罰を厳しく適用しない態度を指します。\n\n例：The teacher was lenient with the students who were late. (先生は遅刻した生徒たちに寛大だった。)"
+    },
+    {
+      "id": 43,
+      "value": "permanent member",
+      "options": [
+        "臨時のメンバー",
+        "正メンバー",
+        "新しいメンバー",
+        "古いメンバー"
+      ],
+      "correctAnswer": "正メンバー",
+      "explanation": "「permanent member」は、「正メンバー」「正規メンバー」「永続的なメンバー」という意味です。一時的な参加ではなく、長期的にグループに所属することを意味します。\n\n例：She became a permanent member of the team. (彼女はチームの正メンバーになった。)"
+    },
+    {
+      "id": 44,
+      "value": "officially one of us",
+      "options": [
+        "公式には仲間ではない",
+        "正式に仲間入り",
+        "秘密の仲間",
+        "一時的な仲間"
+      ],
+      "correctAnswer": "正式に仲間入り",
+      "explanation": "「officially one of us」は、「公式に私たちの仲間入り」「正式に私たちの一員」という意味です。グループの一員として認められたことを意味します。\n\n例：After the initiation ceremony, he was officially one of us. (入会式の後、彼は正式に私たちの一員となった。)"
+    },
+    {
+      "id": 45,
+      "value": "take a stand",
+      "options": [
+        "座る",
+        "反対する",
+        "支持する",
+        "逃げる"
+      ],
+      "correctAnswer": "反対する",
+      "explanation": "「take a stand」は、「立ち上がる」「断固とした態度を取る」「反対する」という意味です。自分の意見や信念を強く主張し、行動することを指します。\n\n例：He decided to take a stand against injustice. (彼は不正に対して立ち上がることを決意した。)"
+    },
+    {
+      "id": 46,
+      "value": "banished",
+      "options": [
+        "歓迎された",
+        "追放された",
+        "招待された",
+        "保護された"
+      ],
+      "correctAnswer": "追放された",
+      "explanation": "「banish」は、「追放する」「国外追放にする」「排除する」という意味です。ここでは、仲間から排除された、というニュアンスで使われています。\n\n例：He was banished from the kingdom for his crimes. (彼は犯罪のために王国から追放された。)"
+    },
+    {
+      "id": 47,
+      "value": "what the hell kind of crap is that?",
+      "options": [
+        "素晴らしい",
+        "ひどい",
+        "面白い",
+        "普通だ"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「What the hell kind of crap is that?」は、「一体全体何なんだ？」「ふざけるな！」という意味です。強い不満や怒りを表すときに使われる口語的な表現です。\n\n例：What the hell kind of crap is that excuse? (一体全体その言い訳は何なんだ？)"
+    },
+    {
+      "id": 48,
+      "value": "open to",
+      "options": [
+        "反対している",
+        "受け入れる",
+        "興味がない",
+        "拒否する"
+      ],
+      "correctAnswer": "受け入れる",
+      "explanation": "「open to」は、「～に対してオープンである」「～を受け入れる用意がある」という意味です。新しい考えや提案に対して前向きな姿勢を示す際に使われます。\n\n例：I'm open to suggestions on how to improve the project. (プロジェクトを改善する方法について、私は提案を受け入れる用意があります。)"
+    },
+    {
+      "id": 49,
+      "value": "play along",
+      "options": [
+        "邪魔をする",
+        "協力する",
+        "無視する",
+        "競争する"
+      ],
+      "correctAnswer": "協力する",
+      "explanation": "「play along」は、「協力する」「同調する」「調子を合わせる」という意味です。相手の意図や行動に合わせ、協力的な姿勢を示す際に使われます。\n\n例：I don't agree with their plan, but I'll play along for now. (私は彼らの計画に同意しませんが、とりあえず今は協力します。)"
+    },
+    {
+      "id": 50,
+      "value": "forwarding email humour",
+      "options": [
+        "個人的なメール",
+        "仕事のメール",
+        "面白いメール",
+        "重要なメール"
+      ],
+      "correctAnswer": "面白いメール",
+      "explanation": "forwarding email humourとは、面白いメールを転送するという意味です。今回はSheldonがユーモアのセンスがないため、面白くないメールを送ることを禁止していることがわかります\n\n例：I trusted you with my email address, and you betrayed that trust by sending me Internet banality, strike one.(メールアドレスを信用して預けたのに、インターネットの陳腐な情報を送ってきて信頼を裏切ったのが1つ目のストライクだ。)"
+    },
+    {
+      "id": 51,
+      "value": "triangulation",
+      "options": [
+        "三角形の面積を求めること",
+        "三点測量",
+        "三角関係",
+        "三角形の内角の和"
+      ],
+      "correctAnswer": "三点測量",
+      "explanation": "「triangulation」は、三角測量という意味です。地理的な位置を特定するために、複数の地点からの角度を測定して三角形状のネットワークを作り、位置を特定する技術です。転じて、複数の情報源を用いて事実を確認する意味でも使われます。"
+    },
+    {
+      "id": 52,
+      "value": "narrowed down",
+      "options": [
+        "広げる",
+        "狭める",
+        "無視する",
+        "明らかにする"
+      ],
+      "correctAnswer": "狭める",
+      "explanation": "「narrow down」は、範囲や選択肢を狭める、絞り込むという意味です。調査や検討の結果、可能性のある範囲を限定する際に使われます。例えば、「We narrowed down the list of candidates to three.（候補者を3人に絞り込んだ）」のように使います。"
+    },
+    {
+      "id": 53,
+      "value": "lactose-intolerant",
+      "options": [
+        "乳糖不耐症の",
+        "グルテンアレルギーの",
+        "ピーナッツアレルギーの",
+        "甲殻類アレルギーの"
+      ],
+      "correctAnswer": "乳糖不耐症の",
+      "explanation": "「lactose-intolerant」は、乳糖不耐症という意味です。乳製品に含まれる乳糖を消化できない体質を指します。乳糖不耐症の人は、乳製品を摂取すると腹痛や下痢などの症状が出ることがあります。"
+    },
+    {
+      "id": 54,
+      "value": "kosher-only-on-the-high-holidays",
+      "options": [
+        "祝日だけベジタリアン",
+        "普段はユダヤ教の食事規定を守らない",
+        "普段からユダヤ教の食事規定を守る",
+        "祝日だけハラルの食事をする"
+      ],
+      "correctAnswer": "普段はユダヤ教の食事規定を守らない",
+      "explanation": "「kosher-only-on-the-high-holidays」は、普段はユダヤ教の食事規定（コーシャ）を守らないが、重要な祝日だけは守るという意味です。宗教的な戒律を厳格に守るわけではないことを示唆する表現です。"
+    },
+    {
+      "id": 55,
+      "value": "banished from",
+      "options": [
+        "歓迎される",
+        "招待される",
+        "追放される",
+        "昇進する"
+      ],
+      "correctAnswer": "追放される",
+      "explanation": "「banish」は、追放する、立ち入り禁止にするという意味です。ある場所やグループから強制的に排除される状況を表します。例えば、「He was banished from his country for treason.（彼は反逆罪で国から追放された）」のように使います。"
+    },
+    {
+      "id": 56,
+      "value": "flies directly in the face of",
+      "options": [
+        "支持する",
+        "無視する",
+        "反する",
+        "適合する"
+      ],
+      "correctAnswer": "反する",
+      "explanation": "「fly in the face of」は、〜に真っ向から反する、〜を無視するという意味です。一般的なルールや期待、常識などに逆らう行為を指します。例えば、「His actions fly in the face of company policy.（彼の行動は会社の方針に真っ向から反する）」のように使います。"
+    },
+    {
+      "id": 57,
+      "value": "nutcase",
+      "options": [
+        "賢者",
+        "普通の人",
+        "変人",
+        "天才"
+      ],
+      "correctAnswer": "変人",
+      "explanation": "「nutcase」は、狂人、変人という意味です。スラングとして使われ、精神的に不安定な人や、奇妙な行動をする人を指します。やや軽蔑的なニュアンスを含む言葉です。"
+    },
+    {
+      "id": 58,
+      "value": "go along with",
+      "options": [
+        "反対する",
+        "支持する",
+        "無視する",
+        "理解する"
+      ],
+      "correctAnswer": "支持する",
+      "explanation": "「go along with」は、〜に賛成する、〜に協力するという意味です。他の人の意見や計画を受け入れる、または従うことを表します。例えば、「I don't agree with him, but I have to go along with his decision.（彼に同意しませんが、彼の決定に従わなければならない）」のように使います。"
+    },
+    {
+      "id": 59,
+      "value": "knuckling under",
+      "options": [
+        "抵抗する",
+        "屈服する",
+        "無視する",
+        "協力する"
+      ],
+      "correctAnswer": "屈服する",
+      "explanation": "「knuckle under」は、屈服する、降参するという意味です。困難や圧力に負けて、自分の意思を曲げることを表します。例えば、「They were forced to knuckle under to the demands of the rebels.（彼らは反乱者の要求に屈服せざるを得なかった）」のように使います。"
+    },
+    {
+      "id": 60,
+      "value": "heated discussion",
+      "options": [
+        "友好的な会話",
+        "活発な議論",
+        "一方的な演説",
+        "沈黙"
+      ],
+      "correctAnswer": "活発な議論",
+      "explanation": "「heated discussion」は、白熱した議論、激しい議論という意味です。感情が高ぶり、意見が衝突するような状況を表します。必ずしも否定的な意味ではなく、真剣な意見交換が行われていることを示す場合もあります。"
+    },
+    {
+      "id": 61,
+      "value": "poke around",
+      "options": [
+        "隠す",
+        "詳しく調べる",
+        "無視する",
+        "守る"
+      ],
+      "correctAnswer": "詳しく調べる",
+      "explanation": "「poke around」は、〜を詮索する、〜をうろつくという意味です。何かを探したり、情報を集めたりするために、あちこちを探し回る様子を表します。例えば、「I was just poking around in the attic.（屋根裏をちょっと探していただけだよ）」のように使います。"
+    },
+    {
+      "id": 62,
+      "value": "reiterate",
+      "options": [
+        "繰り返す",
+        "否定する",
+        "提案する",
+        "忘れる"
+      ],
+      "correctAnswer": "繰り返す",
+      "explanation": "「reiterate」は、繰り返す、反復するという意味です。すでに述べたことや合意したことを、再び強調するために使われます。例えば、「To reiterate, the meeting will be held on Friday.（繰り返しますが、会議は金曜日に開催されます）」のように使います。"
+    },
+    {
+      "id": 63,
+      "value": "parasitic piggybacking",
+      "options": [
+        "対等な協力関係",
+        "一方的な利用",
+        "友好的な支援",
+        "相互扶助"
+      ],
+      "correctAnswer": "一方的な利用",
+      "explanation": "「parasitic piggybacking」は、寄生的な便乗という意味です。他人の資源やネットワークを無断で、または許可なく利用する行為を指します。この場合、PennyがSheldonのWiFiを無断で使用していることを非難しています。"
+    },
+    {
+      "id": 64,
+      "value": "remedy the situation",
+      "options": [
+        "状況を悪化させる",
+        "状況を改善する",
+        "状況を無視する",
+        "状況を複雑にする"
+      ],
+      "correctAnswer": "状況を改善する",
+      "explanation": "「remedy the situation」は、状況を改善する、問題を解決するという意味です。好ましくない状況や問題に対して、改善策を講じることを表します。例えば、「We need to remedy the situation before it gets worse.（状況が悪化する前に改善する必要がある）」のように使います。"
+    },
+    {
+      "id": 65,
+      "value": "introduce someone to a world of hurt",
+      "options": [
+        "楽しい世界を紹介する",
+        "苦痛の世界を味あわせる",
+        "新しい友達を紹介する",
+        "チャンスを与える"
+      ],
+      "correctAnswer": "苦痛の世界を味あわせる",
+      "explanation": "「introduce someone to a world of hurt」は、人に苦痛を味あわせる、ひどい目に遭わせるという意味です。脅し文句として使われることが多い表現です。相手に不快な経験をさせることを示唆します。"
+    },
+    {
+      "id": 66,
+      "value": "one lab accident away from being a supervillain",
+      "options": [
+        "研究に没頭している",
+        "悪役になる才能がある",
+        "研究室での事故が多い",
+        "ヒーローになる素質がある"
+      ],
+      "correctAnswer": "悪役になる才能がある",
+      "explanation": "「one lab accident away from being a supervillain」は、あと一歩で悪役（スーパーヴィラン）になりそうという意味です。科学的な知識や才能を持ちながら、倫理観が欠如しているために、危険な存在になり得ることを示唆する表現です。"
+    },
+    {
+      "id": 67,
+      "value": "hogtie",
+      "options": [
+        "自由にする",
+        "縛り上げる",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "縛り上げる",
+      "explanation": "「hogtie」は、（動物や人を）縛り上げるという意味です。特に、手足を縛って身動きが取れないようにすることを指します。元々は牧場で動物を扱う際に使われる言葉です。"
+    },
+    {
+      "id": 68,
+      "value": "castrate",
+      "options": [
+        "自由にする",
+        "去勢する",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "去勢する",
+      "explanation": "「castrate」は、（動物や人を）去勢するという意味です。男性機能を奪う行為を指し、非常に強い表現です。ここでは、PennyがSheldonに対して強い敵意を持っていることを示すために使われています。"
+    },
+    {
+      "id": 69,
+      "value": "neuter the nerd",
+      "options": [
+        "オタクを助ける",
+        "オタクを中立化する",
+        "オタクを無視する",
+        "オタクを攻撃する"
+      ],
+      "correctAnswer": "オタクを中立化する",
+      "explanation": "「neuter the nerd」は、オタク（nerd）の力を奪う、無力化するという意味合いです。ここでは、Sheldonの行動力を抑えることを婉曲的に表現しています。「neuter」は去勢するという意味ですが、ここでは比喩的に使われています。"
+    },
+    {
+      "id": 70,
+      "value": "voila",
+      "options": [
+        "はじめまして",
+        "さようなら",
+        "どういたしまして",
+        "ほらできた"
+      ],
+      "correctAnswer": "ほらできた",
+      "explanation": "「voila」は、「ほらできた」「はい、どうぞ」という意味のフランス語由来の言葉です。何かを成し遂げた時や、何かを提示する時に使われます。英語でも同様の意味で使われます。"
+    },
+    {
+      "id": 71,
+      "value": "circumvent my will",
+      "options": [
+        "私の意思を尊重する",
+        "私の意思に反する",
+        "私の意思を無視する",
+        "私の意思を理解する"
+      ],
+      "correctAnswer": "私の意思に反する",
+      "explanation": "「circumvent my will」は、私の意思を回避する、出し抜くという意味です。相手の意図や計画を阻止するために、何らかの手段を講じることを表します。例えば、「They tried to circumvent my will by going behind my back.（彼らは私の裏でこっそり動いて私の意思を回避しようとした）」のように使います。"
+    },
+    {
+      "id": 72,
+      "value": "puny insects",
+      "options": [
+        "勇敢な戦士",
+        "哀れな人々",
+        "強力なリーダー",
+        "忠実な支持者"
+      ],
+      "correctAnswer": "哀れな人々",
+      "explanation": "「puny insects」は、取るに足らない虫けら、哀れな人々という意味です。「puny」は小さくて弱いという意味で、ここでは見下したニュアンスで使われています。Sheldonが自分以外の人間を軽蔑的に見ていることを表しています。"
+    },
+    {
+      "id": 73,
+      "value": "creature of habit",
+      "options": [
+        "自由奔放な人",
+        "習慣的な行動をする人",
+        "社交的な人",
+        "冒険好きな人"
+      ],
+      "correctAnswer": "習慣的な行動をする人",
+      "explanation": "「creature of habit」は、習慣的な行動をする人、いつも同じことを繰り返す人という意味です。ルーティンを好み、変化を嫌う性格を表します。例えば、「He's a creature of habit and always eats the same breakfast.（彼は習慣的な人なので、いつも同じ朝食を食べる）」のように使います。"
+    },
+    {
+      "id": 74,
+      "value": "easy to anticipate",
+      "options": [
+        "予測不可能",
+        "予想しやすい",
+        "理解不能",
+        "神秘的"
+      ],
+      "correctAnswer": "予想しやすい",
+      "explanation": "「easy to anticipate」は、予想しやすい、予測が容易という意味です。相手の行動や起こりうる事態が容易に想像できることを表します。例えば、「His reaction was easy to anticipate.（彼の反応は予想通りだった）」のように使います。"
+    },
+    {
+      "id": 75,
+      "value": "my ass",
+      "options": [
+        "その通り",
+        "まさか",
+        "賛成",
+        "感謝"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "「my ass」は、「まさか」「うそつけ」という意味のスラングです。相手の言っていることを強く否定する際に使われます。非常にカジュアルで下品な表現なので、使う場面には注意が必要です。"
+    },
+    {
+      "id": 76,
+      "value": "playing with forces beyond your ken",
+      "options": [
+        "自分の知識を超えた力を利用する",
+        "自分の弱点を克服する",
+        "運を天に任せる",
+        "危険なゲームをする"
+      ],
+      "correctAnswer": "自分の知識を超えた力を利用する",
+      "explanation": "「ken」とは、知識、理解、認識の範囲を意味します。「playing with forces beyond your ken」は、自分の理解や制御を超えた力、状況、または概念を扱っていることを指します。危険な状況に足を踏み入れている、または理解できない事柄に手を出しているというニュアンスが含まれます。"
+    },
+    {
+      "id": 77,
+      "value": "storming up",
+      "options": [
+        "穏やかに歩く",
+        "急いで歩く",
+        "踊りながら進む",
+        "立ち止まって考える"
+      ],
+      "correctAnswer": "急いで歩く",
+      "explanation": "「storm up」は、怒りや興奮などの強い感情を持って、急いで、または荒々しく進むことを意味します。感情的な勢いを伴って移動する様子を表します。"
+    },
+    {
+      "id": 78,
+      "value": "unattended",
+      "options": [
+        "手入れの行き届いた",
+        "放置された",
+        "監視された",
+        "隠された"
+      ],
+      "correctAnswer": "放置された",
+      "explanation": "「unattended」は、誰も付き添っていない、世話をしていない、監視されていない状態を指します。例えば、「unattended baggage」(無人の手荷物)のように使われます。"
+    },
+    {
+      "id": 79,
+      "value": "brassiere",
+      "options": [
+        "ネックレス",
+        "ブラジャー",
+        "イヤリング",
+        "スカーフ"
+      ],
+      "correctAnswer": "ブラジャー",
+      "explanation": "「brassiere」は、女性用の下着であるブラジャーを指す言葉です。日常会話でも使われますが、よりフォーマルな言い方です。"
+    },
+    {
+      "id": 80,
+      "value": "mwah-ha-ha",
+      "options": [
+        "感謝の言葉",
+        "謝罪の言葉",
+        "喜びの表現",
+        "悪役的な笑い声"
+      ],
+      "correctAnswer": "悪役的な笑い声",
+      "explanation": "「Mwah-ha-ha」は、悪役やいたずら好きなキャラクターがよく使う、典型的な嘲笑や勝ち誇った笑い声を表す擬音語です。相手を小ばかにしたり、自分の成功を誇示する時に使われます。"
+    },
+    {
+      "id": 81,
+      "value": "panty pinata",
+      "options": [
+        "お菓子",
+        "ゲーム",
+        "下着",
+        "お祝い"
+      ],
+      "correctAnswer": "下着",
+      "explanation": "「panty pinata」は、ここではPennyの下着をpinataに見立てたSheldonのジョークです。pinataは、お祝いの際に叩き割る、中にお菓子などを詰めた飾り物です。ここでは皮肉を込めて使われています。"
+    },
+    {
+      "id": 82,
+      "value": "gotten out of hand",
+      "options": [
+        "制御不能になった",
+        "手に負えなくなった",
+        "改善された",
+        "解決した"
+      ],
+      "correctAnswer": "制御不能になった",
+      "explanation": "「get out of hand」は、状況や事柄が制御不能になる、手に負えなくなるという意味です。エスカレートして収拾がつかなくなる状態を表します。"
+    },
+    {
+      "id": 83,
+      "value": "call it even",
+      "options": [
+        "平等に分ける",
+        "相殺する",
+        "協力する",
+        "無視する"
+      ],
+      "correctAnswer": "相殺する",
+      "explanation": "「call it even」は、お互いの貸し借りをなしにする、または過去の過ちや不利益を相殺して、関係をゼロの状態に戻すという意味です。水に流す、うやむやにする、といったニュアンスを含みます。"
+    },
+    {
+      "id": 84,
+      "value": "meet me halfway",
+      "options": [
+        "完全に同意する",
+        "譲歩する",
+        "無視する",
+        "反対する"
+      ],
+      "correctAnswer": "譲歩する",
+      "explanation": "「meet someone halfway」は、相手との合意点を見つけるために、お互いに譲歩し合うことを意味します。完全な同意ではなく、妥協点を探る姿勢を示します。"
+    },
+    {
+      "id": 85,
+      "value": "concede",
+      "options": [
+        "反対する",
+        "認める",
+        "提案する",
+        "命令する"
+      ],
+      "correctAnswer": "認める",
+      "explanation": "「concede」は、通常は不本意ながら、真実であること、または要求や主張の正当性を認めるという意味です。議論や競争の文脈でよく使われます。"
+    },
+    {
+      "id": 86,
+      "value": "junior rodeo",
+      "options": [
+        "簡単な仕事",
+        "子供の遊び",
+        "大騒ぎ",
+        "スポーツイベント"
+      ],
+      "correctAnswer": "大騒ぎ",
+      "explanation": "「rodeo」は、ここではPennyとSheldonの間の争いを指し、\"junior\"をつけることで、それがさらに激化している状態を大げさに表現しています。"
+    },
+    {
+      "id": 87,
+      "value": "Kryptonite",
+      "options": [
+        "超能力",
+        "弱点",
+        "武器",
+        "エネルギー源"
+      ],
+      "correctAnswer": "弱点",
+      "explanation": "「Kryptonite」は、スーパーマンの唯一の弱点として知られる架空の物質です。一般的には、克服できない弱点や、無力化するものを指す比喩として使われます。"
+    },
+    {
+      "id": 88,
+      "value": "God bless you",
+      "options": [
+        "おめでとう",
+        "神のご加護を",
+        "さようなら",
+        "頑張って"
+      ],
+      "correctAnswer": "神のご加護を",
+      "explanation": "「God bless you」は、相手の幸運や健康を祈る言葉です。感謝の気持ちを表す際にも使われます。くしゃみをした人にかける言葉としても一般的です。"
+    },
+    {
+      "id": 89,
+      "value": "drop in on",
+      "options": [
+        "訪問する",
+        "無視する",
+        "手伝う",
+        "攻撃する"
+      ],
+      "correctAnswer": "訪問する",
+      "explanation": "「drop in on」は、予告なしに、または気軽に誰かの家や場所に立ち寄る、訪問することを意味します。アポイントメントなしで訪れるニュアンスがあります。"
+    },
+    {
+      "id": 90,
+      "value": "tell on me",
+      "options": [
+        "秘密を教える",
+        "告げ口する",
+        "助ける",
+        "相談に乗る"
+      ],
+      "correctAnswer": "告げ口する",
+      "explanation": "「tell on someone」は、その人の悪い行いを誰かに告げ口することを意味します。特に子供が親や先生に告げ口する場合に使われることが多いです。"
+    },
+    {
+      "id": 91,
+      "value": "have two strikes",
+      "options": [
+        "2回チャンスがある",
+        "2つの罪を犯した",
+        "野球のルール",
+        "有利な状況"
+      ],
+      "correctAnswer": "2つの罪を犯した",
+      "explanation": "「have strikes」は、野球のストライクから派生した表現で、ここでは「不利な状況にある」という意味で使われています。野球と同じように、３ストライクでアウトになるというニュアンスがあります。"
+    },
+    {
+      "id": 92,
+      "value": "rescind",
+      "options": [
+        "提案する",
+        "撤回する",
+        "強化する",
+        "追加する"
+      ],
+      "correctAnswer": "撤回する",
+      "explanation": "「rescind」は、決定、命令、契約などを公式に撤回または取り消すことを意味します。法的または公式な文脈でよく使われます。"
+    },
+    {
+      "id": 93,
+      "value": "banished",
+      "options": [
+        "招待された",
+        "追放された",
+        "祝福された",
+        "保護された"
+      ],
+      "correctAnswer": "追放された",
+      "explanation": "「banish」は、人や物を場所から追放する、または立ち入りを禁止することを意味します。ここでは、SheldonがPennyに対して、特定の場所への立ち入りを禁止していたことを指します。"
+    },
+    {
+      "id": 94,
+      "value": "big of you",
+      "options": [
+        "あなたらしい",
+        "寛大",
+        "小さい",
+        "普通"
+      ],
+      "correctAnswer": "寛大",
+      "explanation": "「big of you」は、相手の行動が寛大である、または親切であることを褒める際に使われる表現です。相手の優しさや心の広さを認めるニュアンスがあります。"
+    },
+    {
+      "id": 95,
+      "value": "well played",
+      "options": [
+        "よくやった",
+        "失敗した",
+        "不公平だ",
+        "つまらない"
+      ],
+      "correctAnswer": "よくやった",
+      "explanation": "「well played」は、相手の戦略や行動が巧みであったことを認め、称賛する表現です。ゲームや競争の文脈でよく使われますが、ここではPennyのSheldonに対する態度をからかう意味合いが含まれています。"
+    },
+    {
+      "id": 96,
+      "value": "with great power comes great responsibility",
+      "options": [
+        "力は正義",
+        "力には責任が伴う",
+        "力は腐敗する",
+        "力は孤独"
+      ],
+      "correctAnswer": "力には責任が伴う",
+      "explanation": "「With great power comes great responsibility」は、大きな力を持つ者は、それに見合った責任を負うべきであるという倫理的な原則を述べています。これは、スパイダーマンの有名な台詞としても知られています。"
+    },
+    {
+      "id": 97,
+      "value": "come on in",
+      "options": [
+        "出て行って",
+        "入ってきて",
+        "座って",
+        "待ってて"
+      ],
+      "correctAnswer": "入ってきて",
+      "explanation": "「come on in」は、人を招き入れる際に使う、親しみやすい表現です。家や部屋に招待する際に、「どうぞお入りください」という意味合いで使われます。"
+    },
+    {
+      "id": 98,
+      "value": "satellite",
+      "options": [
+        "テレビ",
+        "アンテナ",
+        "衛星放送",
+        "ケーブル"
+      ],
+      "correctAnswer": "衛星放送",
+      "explanation": "「satellite」は、ここでは衛星放送を受信するための設備を指します。ケーブルテレビではなく、衛星放送を受信しているという意味で使われています。"
+    },
+    {
+      "id": 99,
+      "value": "combined",
+      "options": [
+        "分割された",
+        "結合された",
+        "失われた",
+        "隠された"
+      ],
+      "correctAnswer": "結合された",
+      "explanation": "「combined」は、複数のものや要素が一緒になった、または結合された状態を指します。ここでは、Howardの家族の女性たちの身長を合計したという意味で使われています。"
+    },
+    {
+      "id": 100,
+      "value": "follow",
+      "options": [
+        "無視する",
+        "従う",
+        "逃げる",
+        "戦う"
+      ],
+      "correctAnswer": "従う",
+      "explanation": "「follow」は、誰かの後をついて行く、または指示やアドバイスに従うことを意味します。ここでは、HowardがRajに対して、Mrs. Wolowitzの指示に従うように言っています。"
+    }
+  ]
+}

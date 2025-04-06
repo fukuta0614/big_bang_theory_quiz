@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "augmented by",
+      "options": [
+        "減少する",
+        "無視される",
+        "強化される",
+        "代替される"
+      ],
+      "correctAnswer": "強化される",
+      "explanation": "「augment」は、何かを大きくする、増強するという意味です。ここでは「～によって強化された」という意味で使われています。例文：The army's strength was augmented by the arrival of new recruits. (軍隊の強さは、新兵の到着によって強化された。)"
+    },
+    {
+      "id": 2,
+      "value": "flank",
+      "options": [
+        "正面攻撃する",
+        "側面攻撃する",
+        "撤退する",
+        "包囲する"
+      ],
+      "correctAnswer": "側面攻撃する",
+      "explanation": "「flank」は、軍事用語で「側面」を意味し、敵の側面を攻撃するという意味で使われます。ビジネスや議論の文脈でも、弱点を突く、側面から攻めるという意味で使用されます。例文：They attempted to flank the enemy position. (彼らは敵陣地の側面を攻撃しようと試みた。)"
+    },
+    {
+      "id": 3,
+      "value": "vulnerable to",
+      "options": [
+        "免疫がある",
+        "耐性がある",
+        "影響を受けやすい",
+        "無関係である"
+      ],
+      "correctAnswer": "影響を受けやすい",
+      "explanation": "「vulnerable」は、傷つきやすい、攻撃を受けやすいという意味です。「vulnerable to」の形で、何に対して弱いかを示します。例文：Old people are more vulnerable to the flu. (高齢者はインフルエンザにかかりやすい。)"
+    },
+    {
+      "id": 4,
+      "value": "not to mention",
+      "options": [
+        "言及しない",
+        "加えて",
+        "ただし",
+        "それにもかかわらず"
+      ],
+      "correctAnswer": "加えて",
+      "explanation": "「not to mention」は、「～は言うまでもなく」「～に加えて」という意味で、すでに述べた事柄に加えて、さらに重要な点や関連する情報を付け加える際に使用されます。例文：The food was excellent, not to mention the superb service. (料理が素晴らしかった。言うまでもなく、サービスも最高だった。)"
+    },
+    {
+      "id": 5,
+      "value": "charge the line",
+      "options": [
+        "撤退する",
+        "前線を守る",
+        "突撃する",
+        "降伏する"
+      ],
+      "correctAnswer": "突撃する",
+      "explanation": "「charge」は、突撃するという意味です。「charge the line」は、戦線に突撃するという意味で、軍事的な文脈で使われます。例文：The soldiers charged the enemy line. (兵士たちは敵の戦線に突撃した。)"
+    },
+    {
+      "id": 6,
+      "value": "remover of obstacles",
+      "options": [
+        "障害物を無視する人",
+        "障害物を作る人",
+        "障害物を取り除く人",
+        "障害物を避ける人"
+      ],
+      "correctAnswer": "障害物を取り除く人",
+      "explanation": "ここではヒンドゥー教の神、ガネーシャの役割を説明しています。「remover of obstacles」は、文字通り「障害物を取り除く者」という意味です。ガネーシャは、あらゆる事業の開始に際して祈願される神であり、成功を祈る際に崇拝されます。"
+    },
+    {
+      "id": 7,
+      "value": "destroyer",
+      "options": [
+        "建設者",
+        "創造者",
+        "破壊者",
+        "保護者"
+      ],
+      "correctAnswer": "破壊者",
+      "explanation": "ここではヒンドゥー教の神、シヴァ神の役割を説明しています。「destroyer」は、破壊者という意味です。シヴァ神は、宇宙の破壊と再生を司る神として知られています。"
+    },
+    {
+      "id": 8,
+      "value": "worked up an appetite",
+      "options": [
+        "食欲を失った",
+        "食欲をそそられた",
+        "食欲を抑えた",
+        "食欲がない"
+      ],
+      "correctAnswer": "食欲をそそられた",
+      "explanation": "「work up an appetite」は、運動や活動によって食欲が増進されるという意味のイディオムです。例文：The hike really worked up my appetite. (ハイキングで本当にお腹が空いた。)"
+    },
+    {
+      "id": 9,
+      "value": "heart smart",
+      "options": [
+        "健康に悪い",
+        "心臓に良い",
+        "頭が良い",
+        "感情的"
+      ],
+      "correctAnswer": "心臓に良い",
+      "explanation": "「heart smart」は、心臓に良い、つまり健康的な食品やライフスタイルを指す言葉です。特に、脂肪分やコレステロールが少ない食品に使われることが多いです。例文：This recipe is heart-smart and delicious. (このレシピは心臓に良くて美味しい。)"
+    },
+    {
+      "id": 10,
+      "value": "statistically unlikely",
+      "options": [
+        "統計的にあり得る",
+        "統計的に不可能",
+        "統計的に重要",
+        "統計的に不明"
+      ],
+      "correctAnswer": "統計的に不可能",
+      "explanation": "「statistically unlikely」は、統計的に見て起こりそうにない、可能性が低いという意味です。例文：It is statistically unlikely that you will win the lottery. (宝くじに当たる可能性は統計的に低い。)"
+    },
+    {
+      "id": 11,
+      "value": "make the assumption",
+      "options": [
+        "仮定を立てる",
+        "決定を下す",
+        "調査を行う",
+        "計画を立てる"
+      ],
+      "correctAnswer": "仮定を立てる",
+      "explanation": "「make the assumption」は、根拠がない、または不十分な情報に基づいて何かを仮定するという意味です。例文：You shouldn't make assumptions without knowing the facts. (事実を知らずに仮定を立てるべきではありません。)"
+    },
+    {
+      "id": 12,
+      "value": "settle for",
+      "options": [
+        "諦める",
+        "満足する",
+        "要求する",
+        "拒否する"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「settle for」は、あまり満足ではないものの、それを受け入れる、妥協するという意味です。例文：I didn't get my first choice, but I had to settle for the second best. (第一希望は叶わなかったが、次善の策を受け入れざるを得なかった。)"
+    },
+    {
+      "id": 13,
+      "value": "disturbing aberration",
+      "options": [
+        "興味深い発見",
+        "普通の出来事",
+        "異常な逸脱",
+        "楽しい経験"
+      ],
+      "correctAnswer": "異常な逸脱",
+      "explanation": "「aberration」は、通常の状態や基準から逸脱した、異常なものを指します。「disturbing aberration」は、不快な、または不安を引き起こすような異常事態を意味します。例文：This sudden change in weather is a disturbing aberration. (この急な天候の変化は、不快な異常事態だ。)"
+    },
+    {
+      "id": 14,
+      "value": "ran into",
+      "options": [
+        "計画的に会う",
+        "偶然出会う",
+        "衝突する",
+        "避ける"
+      ],
+      "correctAnswer": "偶然出会う",
+      "explanation": "「run into」は、偶然出会うという意味の句動詞です。例文：I ran into an old friend at the grocery store. (スーパーで旧友に偶然出会った。)"
+    },
+    {
+      "id": 15,
+      "value": "hot zone",
+      "options": [
+        "安全な場所",
+        "人気のある場所",
+        "危険地帯",
+        "快適な場所"
+      ],
+      "correctAnswer": "危険地帯",
+      "explanation": "「hot zone」は、特に危険な場所、または放射能や感染症などで汚染された地域を指します。例文：The area affected by the chemical spill was declared a hot zone. (化学物質流出の影響を受けた地域は危険地帯に指定された。)"
+    },
+    {
+      "id": 16,
+      "value": "advanced placement",
+      "options": [
+        "遅れた配置",
+        "標準的な配置",
+        "高度な配置",
+        "無作為な配置"
+      ],
+      "correctAnswer": "高度な配置",
+      "explanation": "「advanced placement」は、高校生が大学レベルのコースを受講できる制度を指します。APコースを修了し、試験に合格すると、大学の単位として認められることがあります。例文：She took several advanced placement classes in high school. (彼女は高校でいくつかのAPクラスを受講した。)"
+    },
+    {
+      "id": 17,
+      "value": "happen to be",
+      "options": [
+        "絶対にない",
+        "偶然～である",
+        "計画的に～である",
+        "いつも～である"
+      ],
+      "correctAnswer": "偶然～である",
+      "explanation": "「happen to be」は、偶然～である、たまたま～であるという意味です。例文：I happen to be free this afternoon. (今日の午後、たまたま暇です。)"
+    },
+    {
+      "id": 18,
+      "value": "embarrassing failure",
+      "options": [
+        "輝かしい成功",
+        "予想通りの結果",
+        "恥ずかしい失敗",
+        "ささいなミス"
+      ],
+      "correctAnswer": "恥ずかしい失敗",
+      "explanation": "「embarrassing failure」は、恥ずかしい、または当惑させるような失敗を指します。公の場での失敗や、個人的な努力が報われなかった場合に用いられます。例文：His attempt to sing karaoke was an embarrassing failure. (彼のカラオケの試みは恥ずかしい失敗だった。)"
+    },
+    {
+      "id": 19,
+      "value": "was that supposed to be",
+      "options": [
+        "そうであるべきではなかった",
+        "そうであるべきだった",
+        "そうなるはずがない",
+        "そうならざるを得ない"
+      ],
+      "correctAnswer": "そうであるべきではなかった",
+      "explanation": "「was that supposed to be」は、「それは～であるべきだったのか？」という意味で、通常は何か秘密や内緒の話が漏れてしまった際に、相手を問い詰めるニュアンスで使われます。例文：Was that supposed to be a surprise? (それはサプライズであるべきだったの？)"
+    },
+    {
+      "id": 20,
+      "value": "neurotic",
+      "options": [
+        "冷静な",
+        "神経質な",
+        "楽観的な",
+        "外向的な"
+      ],
+      "correctAnswer": "神経質な",
+      "explanation": "「neurotic」は、神経質な、または精神的に不安定な状態を指します。心配性で、些細なことを気にしすぎる性格を表す場合に使われます。例文：He's a bit neurotic about cleanliness. (彼は潔癖症気味だ。)"
+    },
+    {
+      "id": 21,
+      "value": "settle",
+      "options": [
+        "解決する",
+        "安定する",
+        "興奮する",
+        "拒否する"
+      ],
+      "correctAnswer": "安定する",
+      "explanation": "ここでのsettleは、落ち着くや決めるという意味合いがあります。例文：Let's settle this matter once and for all. (この問題を完全に解決しましょう。)"
+    },
+    {
+      "id": 22,
+      "value": "augmented",
+      "options": [
+        "減少した",
+        "増加した",
+        "変化していない",
+        "削除された"
+      ],
+      "correctAnswer": "増加した",
+      "explanation": "augment は、〜を増加させる、強化するという意味があります。例文：The budget was augmented to include more resources. (予算は、より多くのリソースを含めるように増額されました。)"
+    },
+    {
+      "id": 23,
+      "value": "settle for something",
+      "options": [
+        "何かを拒否する",
+        "何かに不満を言う",
+        "何かを受け入れる",
+        "何かを探求する"
+      ],
+      "correctAnswer": "何かを受け入れる",
+      "explanation": "settle for something は、何かを受け入れる、満足するという意味合いがあります。例文：I didn't get my first choice, but I had to settle for the second best. (第一希望は叶わなかったが、次善の策を受け入れざるを得なかった。)"
+    },
+    {
+      "id": 24,
+      "value": "settle",
+      "options": [
+        "混乱させる",
+        "安定させる",
+        "疑問視する",
+        "無視する"
+      ],
+      "correctAnswer": "安定させる",
+      "explanation": "ここでの settle は、落ち着く、安定させるという意味合いがあります。例文：The dust began to settle after the explosion. (爆発後、ほこりが落ち着き始めた。)"
+    },
+    {
+      "id": 25,
+      "value": "postulate",
+      "options": [
+        "反論する",
+        "証明する",
+        "仮定する",
+        "否定する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "「postulate」は、真実であると仮定する、または主張するという意味です。科学や数学の分野で、証明されていない理論や原理を提案する際に用いられます。例文：Scientists postulate that there is life on other planets. (科学者たちは、他の惑星に生命が存在すると仮定している。)"
+    },
+    {
+      "id": 26,
+      "value": "Nevertheless",
+      "options": [
+        "それにもかかわらず",
+        "したがって",
+        "同様に",
+        "なぜなら"
+      ],
+      "correctAnswer": "それにもかかわらず",
+      "explanation": "「Nevertheless」は「それにもかかわらず」「それでも」という意味で、前に述べた事柄に対する反対や対比を示す接続副詞です。フォーマルな文脈で使われることが多いです。\n\n例文：It was raining; nevertheless, we went for a walk. (雨が降っていたが、それでも散歩に出かけた。)"
+    },
+    {
+      "id": 27,
+      "value": "constitute",
+      "options": [
+        "構成する",
+        "破壊する",
+        "無視する",
+        "遅らせる"
+      ],
+      "correctAnswer": "構成する",
+      "explanation": "「constitute」は「構成する」「～とみなされる」という意味です。複数の要素が集まって全体を形成する場合に使われます。\n\n例文：Twelve months constitute a year. (12ヶ月で1年を構成する。)"
+    },
+    {
+      "id": 28,
+      "value": "alternate",
+      "options": [
+        "交互の",
+        "主要な",
+        "唯一の",
+        "明白な"
+      ],
+      "correctAnswer": "交互の",
+      "explanation": "「alternate」は「交互の」「代わりの」という意味です。2つ以上のものが順番に現れたり、別の選択肢があることを示す形容詞です。\n\n例文：We go to the park on alternate Sundays. (私たちは隔週の日曜日に公園に行きます。)"
+    },
+    {
+      "id": 29,
+      "value": "unambiguously",
+      "options": [
+        "曖昧に",
+        "明確に",
+        "無関心に",
+        "不完全に"
+      ],
+      "correctAnswer": "明確に",
+      "explanation": "「unambiguously」は「曖昧さなく」「明確に」という意味です。疑いの余地がないほどはっきりしている状態を表します。\n\n例文：The sign was unambiguously clear. (標識は疑いようもなく明確だった。)"
+    },
+    {
+      "id": 30,
+      "value": "consolation",
+      "options": [
+        "悲しみ",
+        "慰め",
+        "興奮",
+        "怒り"
+      ],
+      "correctAnswer": "慰め",
+      "explanation": "「consolation」は「慰め」「哀悼」という意味です。悲しみや失望に対する同情や励ましを指します。\n\n例文：His kind words were a consolation to me. (彼の優しい言葉は私にとって慰めだった。)"
+    },
+    {
+      "id": 31,
+      "value": "hemisphere",
+      "options": [
+        "半球",
+        "正方形",
+        "三角形",
+        "円"
+      ],
+      "correctAnswer": "半球",
+      "explanation": "「hemisphere」は「半球」という意味で、地球や脳などを半分に分けたものを指します。\n\n例文：The northern hemisphere is generally warmer in summer. (北半球は一般的に夏に暖かい。)"
+    },
+    {
+      "id": 32,
+      "value": "admire",
+      "options": [
+        "軽蔑する",
+        "賞賛する",
+        "無視する",
+        "嫌う"
+      ],
+      "correctAnswer": "賞賛する",
+      "explanation": "「admire」は「感心する」「賞賛する」という意味です。人や物事の優れた点を認めて高く評価する時に使います。\n\n例文：I admire her dedication to her work. (彼女の仕事への献身を賞賛する。)"
+    },
+    {
+      "id": 33,
+      "value": "fingering",
+      "options": [
+        "料理",
+        "指使い",
+        "掃除",
+        "運転"
+      ],
+      "correctAnswer": "指使い",
+      "explanation": "「fingering」は、楽器演奏における「指使い」「運指」を意味します。特に弦楽器などで、どの指でどの弦を押さえるかという技術を指します。\n\n例文：His fingering was impeccable during the concert. (彼のコンサートでの指使いは完璧だった。)"
+    },
+    {
+      "id": 34,
+      "value": "pretext",
+      "options": [
+        "真実",
+        "口実",
+        "目的",
+        "結果"
+      ],
+      "correctAnswer": "口実",
+      "explanation": "「pretext」は「口実」「言い訳」という意味です。本当の理由を隠すために使う見せかけの理由を指します。\n\n例文：He used the meeting as a pretext for seeing her. (彼は彼女に会うための口実として会議を利用した。)"
+    },
+    {
+      "id": 35,
+      "value": "sexually available",
+      "options": [
+        "性的に利用可能",
+        "性的に無関心",
+        "性的に拒否",
+        "性的に不快"
+      ],
+      "correctAnswer": "性的に利用可能",
+      "explanation": "「sexually available」は「性的に関係を持てる状態」「性的に積極的」という意味です。恋愛や性的な関係を築く用意があることを示します。\n\n例文: She made it clear that she was sexually available after the divorce. (彼女は離婚後、性的に関係を持てる状態であることを明確にした。)"
+    },
+    {
+      "id": 36,
+      "value": "obvious",
+      "options": [
+        "明白な",
+        "曖昧な",
+        "複雑な",
+        "隠された"
+      ],
+      "correctAnswer": "明白な",
+      "explanation": "「obvious」は「明白な」「明らかな」という意味です。誰にでも簡単に理解できる、疑う余地のない事実を指します。\n\n例文：It's obvious that he is in love with her. (彼が彼女に恋をしているのは明らかだ。)"
+    },
+    {
+      "id": 37,
+      "value": "crude",
+      "options": [
+        "洗練された",
+        "粗野な",
+        "上品な",
+        "正確な"
+      ],
+      "correctAnswer": "粗野な",
+      "explanation": "「crude」は「粗野な」「未精製の」という意味です。洗練されていない、自然のままの状態や、下品で無作法な態度を指します。\n\n例文：He made a crude joke that offended everyone. (彼は皆を不快にさせる粗野なジョークを言った。)"
+    },
+    {
+      "id": 38,
+      "value": "double entendre",
+      "options": [
+        "二重否定",
+        "二重人格",
+        "二重の意味",
+        "二重課税"
+      ],
+      "correctAnswer": "二重の意味",
+      "explanation": "「double entendre」は「二重の意味」「露骨な言葉遊び」という意味です。ある言葉やフレーズが、表面的な意味と性的な意味や不適切な意味の2つを持つことを指します。\n\n例文：The movie is full of double entendres that only adults will understand. (その映画は大人だけが理解できる露骨な言葉遊びでいっぱいだ。)"
+    },
+    {
+      "id": 39,
+      "value": "seduce",
+      "options": [
+        "拒絶する",
+        "誘惑する",
+        "無視する",
+        "侮辱する"
+      ],
+      "correctAnswer": "誘惑する",
+      "explanation": "「seduce」は「誘惑する」「魅了する」という意味です。誰かを自分の魅力で引きつけ、恋愛関係や性的関係に持ち込もうとする行為を指します。\n\n例文：She tried to seduce him with her beauty. (彼女は自分の美しさで彼を誘惑しようとした。)"
+    },
+    {
+      "id": 40,
+      "value": "impulsive",
+      "options": [
+        "計画的な",
+        "衝動的な",
+        "慎重な",
+        "冷静な"
+      ],
+      "correctAnswer": "衝動的な",
+      "explanation": "「impulsive」は「衝動的な」「感情的な」という意味です。計画や熟考なしに、突然の感情や欲求に基づいて行動する性質を指します。\n\n例文：She is an impulsive buyer, often buying things she doesn't need. (彼女は衝動買いをする人で、よく必要のないものを買う。)"
+    },
+    {
+      "id": 41,
+      "value": "dilate",
+      "options": [
+        "収縮する",
+        "拡張する",
+        "点滅する",
+        "固定する"
+      ],
+      "correctAnswer": "拡張する",
+      "explanation": "「dilate」は「拡張する」「膨張する」という意味です。特に瞳孔や血管などが広がる様子を表します。\n\n例文：Her pupils dilated when she saw him. (彼を見たとき、彼女の瞳孔は拡張した。)"
+    },
+    {
+      "id": 42,
+      "value": "opiates",
+      "options": [
+        "刺激物",
+        "麻薬",
+        "ビタミン",
+        "ミネラル"
+      ],
+      "correctAnswer": "麻薬",
+      "explanation": "「opiates」は「オピエート」「麻薬」という意味です。アヘンに含まれる、またはアヘンから合成された麻酔作用や鎮痛作用のある物質を指します。\n\n例文：Morphine is a powerful opiate used to relieve pain. (モルヒネは痛みを和らげるために使われる強力な麻薬だ。)"
+    },
+    {
+      "id": 43,
+      "value": "foreplay",
+      "options": [
+        "後戯",
+        "前戯",
+        "休憩",
+        "食事"
+      ],
+      "correctAnswer": "前戯",
+      "explanation": "「foreplay」は「前戯」という意味です。性行為の前に、性的興奮を高めるために行われる行為を指します。\n\n例文：They engaged in passionate foreplay before making love. (彼らは愛し合う前に情熱的な前戯を行った。)"
+    },
+    {
+      "id": 44,
+      "value": "scuttles",
+      "options": [
+        "堂々と歩く",
+        "急いで動く",
+        "ゆっくりと歩く",
+        "立ち止まる"
+      ],
+      "correctAnswer": "急いで動く",
+      "explanation": "「scuttle」は「ちょこまか走る」「慌てて逃げる」という意味です。小動物や人が、急いで短い距離を移動する様子を表します。\n\n例文：The mouse scuttled across the floor. (ネズミが床をちょこまか走った。)"
+    },
+    {
+      "id": 45,
+      "value": "semiotics",
+      "options": [
+        "宗教学",
+        "記号学",
+        "生物学",
+        "心理学"
+      ],
+      "correctAnswer": "記号学",
+      "explanation": "「semiotics」は「記号学」という意味です。記号やシンボル、そしてそれらがどのように意味を伝えるかを研究する学問です。\n\n例文：Semiotics is used to analyze the meaning of advertisements. (記号学は広告の意味を分析するために使われる。)"
+    },
+    {
+      "id": 46,
+      "value": "linguistics",
+      "options": [
+        "数学",
+        "言語学",
+        "物理学",
+        "化学"
+      ],
+      "correctAnswer": "言語学",
+      "explanation": "「linguistics」は「言語学」という意味です。言語の構造、歴史、使用法などを科学的に研究する学問です。\n\n例文：She is studying linguistics at university. (彼女は大学で言語学を学んでいる。)"
+    },
+    {
+      "id": 47,
+      "value": "emerging",
+      "options": [
+        "消滅している",
+        "現れている",
+        "隠れている",
+        "停滞している"
+      ],
+      "correctAnswer": "現れている",
+      "explanation": "「emerging」は「現れている」「出現している」という意味です。何かが隠れた場所から出てきたり、新しい状況が現れ始めたりする様子を表します。\n\n例文：New technologies are emerging every day. (新しい技術が日々現れている。)"
+    },
+    {
+      "id": 48,
+      "value": "tie on the bedroom door",
+      "options": [
+        "寝室のドアのネクタイ",
+        "寝室のドアに飾られた絵",
+        "寝室のドアにつけられた鍵",
+        "寝室のドアの汚れ"
+      ],
+      "correctAnswer": "寝室のドアのネクタイ",
+      "explanation": "「tie on the bedroom door」は、ここでは「（合意に基づく）性行為中」のサインとして使われています。ネクタイをドアノブにかけることで、部屋にいる人が邪魔されたくない、プライバシーを尊重してほしいということを示唆する婉曲表現です。\n\n例文：Seeing a tie on the door, he knew not to disturb them. (ドアにネクタイがかかっているのを見て、彼は邪魔しないようにした。)"
+    },
+    {
+      "id": 49,
+      "value": "sweetie",
+      "options": [
+        "辛いもの",
+        "恋人",
+        "甘いもの",
+        "大切な人"
+      ],
+      "correctAnswer": "大切な人",
+      "explanation": "「sweetie」は親愛の情を込めて使われる言葉で、「大切な人」「可愛い人」といった意味合いがあります。特に親しい間柄で使われることが多いです。\n\n例文：Don't worry, sweetie, everything will be alright. (心配しないで、あなた、すべてうまくいくわ。)"
+    },
+    {
+      "id": 50,
+      "value": "opinion",
+      "options": [
+        "客観",
+        "意見",
+        "事実",
+        "法律"
+      ],
+      "correctAnswer": "意見",
+      "explanation": "「opinion」は「意見」「見解」という意味で、個人的な考えや判断を表します。\n\n例文：Everyone is entitled to their own opinion. (誰もが自分の意見を持つ権利がある。)"
+    },
+    {
+      "id": 51,
+      "value": "getting busy",
+      "options": [
+        "仕事を探す",
+        "忙しくなる",
+        "運動する",
+        "退屈する"
+      ],
+      "correctAnswer": "忙しくなる",
+      "explanation": "「getting busy」は、性的な活動を示唆する婉曲表現です。文字通りには「忙しくなる」という意味ですが、この文脈では性行為を行っていることを暗示します。より直接的な表現を避けるために使われます。"
+    },
+    {
+      "id": 52,
+      "value": "voice off",
+      "options": [
+        "小声で",
+        "声が小さい",
+        "裏声で",
+        "舞台袖から"
+      ],
+      "correctAnswer": "舞台袖から",
+      "explanation": "「voice off」は、演劇や映像制作で使われる用語で、画面外や舞台裏から声が聞こえる状態を指します。登場人物が見えない状態で声だけが聞こえる状況を表現します。"
+    },
+    {
+      "id": 53,
+      "value": "awkward",
+      "options": [
+        "快適な",
+        "不器用な",
+        "気まずい",
+        "簡単な"
+      ],
+      "correctAnswer": "気まずい",
+      "explanation": "「awkward」は、気まずい、ぎこちない、やりにくいといった意味を持つ形容詞です。人との関係や状況が円滑でない状態を表します。社会的な状況で不快感や落ち着かない感情を引き起こす場面でよく使用されます。"
+    },
+    {
+      "id": 54,
+      "value": "courtship",
+      "options": [
+        "法廷",
+        "恋愛",
+        "スポーツ",
+        "仕事"
+      ],
+      "correctAnswer": "恋愛",
+      "explanation": "「courtship」は、求愛、交際という意味です。結婚を前提とした関係を築くための期間や行動を指します。伝統的な意味合いが強く、現代ではdatingという言葉がより一般的に使われます。"
+    },
+    {
+      "id": 55,
+      "value": "coincide",
+      "options": [
+        "衝突する",
+        "同時に起こる",
+        "反発する",
+        "計画する"
+      ],
+      "correctAnswer": "同時に起こる",
+      "explanation": "「coincide」は、同時に起こる、一致するという意味です。二つ以上の事柄が偶然に同じタイミングで発生することを指します。日程や意見などが一致する場合にも使われます。"
+    },
+    {
+      "id": 56,
+      "value": "protocol",
+      "options": [
+        "手順",
+        "予言",
+        "計画",
+        "暗号"
+      ],
+      "correctAnswer": "手順",
+      "explanation": "「protocol」は、儀礼、手順、プロトコルという意味です。特定の状況における適切な行動や手続き、規則を指します。外交やビジネス、科学技術の分野でよく使われます。"
+    },
+    {
+      "id": 57,
+      "value": "carry on",
+      "options": [
+        "続ける",
+        "運ぶ",
+        "中断する",
+        "帰る"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「carry on」は、続ける、継続するという意味の句動詞です。困難な状況でも頑張り続ける、という意味合いも含まれます。また、日常会話では「続けてください」という軽いニュアンスでも使われます。"
+    },
+    {
+      "id": 58,
+      "value": "tampered with",
+      "options": [
+        "無視した",
+        "作成した",
+        "改ざんした",
+        "使用した"
+      ],
+      "correctAnswer": "改ざんした",
+      "explanation": "「tamper with」は、不正に手を加える、改ざんするという意味です。許可なく何かを変更したり、損なったりする行為を指します。証拠の改ざんや機械の不正操作など、否定的な文脈で使われることが多いです。"
+    },
+    {
+      "id": 59,
+      "value": "asymptotically free",
+      "options": [
+        "漸近的自由",
+        "絶対的自由",
+        "相対的自由",
+        "完全なる自由"
+      ],
+      "correctAnswer": "漸近的自由",
+      "explanation": "「asymptotically free」は、物理学の用語で、特に量子色力学において、高エネルギー状態ではクォーク間の相互作用が非常に弱くなる現象を指します。クォークが互いにほとんど自由であるかのように振る舞う状態を表します。"
+    },
+    {
+      "id": 60,
+      "value": "hit the lab",
+      "options": [
+        "休憩する",
+        "研究室に行く",
+        "運動する",
+        "食事に行く"
+      ],
+      "correctAnswer": "研究室に行く",
+      "explanation": "「hit the lab」は、研究室に行く、研究を始めるという意味のスラング表現です。特に科学者や研究者が研究室に向かう際に使われます。カジュアルな言い方です。"
+    },
+    {
+      "id": 61,
+      "value": "mulling",
+      "options": [
+        "混乱",
+        "熟考",
+        "実験",
+        "解決"
+      ],
+      "correctAnswer": "熟考",
+      "explanation": "「mull」は、熟考する、あれこれ考えるという意味です。特定の問題やアイデアについて、深く考えを巡らせることを指します。しばしば、解決策を見つけようとする際に使われます。"
+    },
+    {
+      "id": 62,
+      "value": "delineating",
+      "options": [
+        "描写する",
+        "区別する",
+        "創造する",
+        "破壊する"
+      ],
+      "correctAnswer": "区別する",
+      "explanation": "「delineate」は、明確に区別する、輪郭を描くという意味です。境界線を引いたり、詳細に説明したりすることで、物事を明確に区別する行為を指します。地図作成や法律、科学の分野でよく使われます。"
+    },
+    {
+      "id": 63,
+      "value": "hooked up",
+      "options": [
+        "けんかした",
+        "仲直りした",
+        "出会った",
+        "肉体関係を持った"
+      ],
+      "correctAnswer": "肉体関係を持った",
+      "explanation": "「hooked up」は、カジュアルな関係、特に性的な関係を持ったことを意味する口語表現です。必ずしも深刻な恋愛関係を意味するわけではありません。文脈によっては、キスをした、あるいは一夜を共にしたという意味合いで使われます。"
+    },
+    {
+      "id": 64,
+      "value": "wound awfully tight",
+      "options": [
+        "非常に疲れている",
+        "非常に緊張している",
+        "非常に興奮している",
+        "非常に悲しんでいる"
+      ],
+      "correctAnswer": "非常に緊張している",
+      "explanation": "「wound awfully tight」は、非常に緊張している、神経質になっているという意味です。比喩的に、精神的な圧迫感やストレスを感じている状態を表します。リラックスできない状態を指すことが多いです。"
+    },
+    {
+      "id": 65,
+      "value": "sexual intercourse",
+      "options": [
+        "性交渉",
+        "運動",
+        "会議",
+        "食事"
+      ],
+      "correctAnswer": "性交渉",
+      "explanation": "「sexual intercourse」は、性交渉、性交を意味するフォーマルな表現です。生物学的な意味合いが強く、医学や法律の分野でよく使われます。日常会話では、よりカジュアルな言葉が使われることが多いです。"
+    },
+    {
+      "id": 66,
+      "value": "roommate",
+      "options": [
+        "同僚",
+        "ルームメイト",
+        "家族",
+        "友人"
+      ],
+      "correctAnswer": "ルームメイト",
+      "explanation": "「roommate」は、ルームメイト、同室者という意味です。住居を共有する人を指します。大学の寮やアパートなどで、別々の人が一緒に住む場合に用いられます。"
+    },
+    {
+      "id": 67,
+      "value": "cruise",
+      "options": [
+        "旅行",
+        "クルーズ",
+        "ドライブ",
+        "ハイキング"
+      ],
+      "correctAnswer": "クルーズ",
+      "explanation": "「cruise」は、船旅、巡航という意味です。特に観光目的で船で旅行することを指します。豪華客船での旅行をイメージすることが多いですが、小型船でのクルーズもあります。"
+    },
+    {
+      "id": 68,
+      "value": "eclipse",
+      "options": [
+        "日食",
+        "星",
+        "望遠鏡",
+        "宇宙"
+      ],
+      "correctAnswer": "日食",
+      "explanation": "「eclipse」は、日食や月食を意味します。天体が別の天体の光を遮る現象を指します。日食は太陽が月に遮られる現象、月食は月が地球の影に隠れる現象です。"
+    },
+    {
+      "id": 69,
+      "value": "gangster",
+      "options": [
+        "教師",
+        "ギャング",
+        "医者",
+        "弁護士"
+      ],
+      "correctAnswer": "ギャング",
+      "explanation": "「gangster」は、ギャング、暴力団員という意味です。組織犯罪に関与する人を指します。映画や小説などでは、魅力的な悪役として描かれることもあります。"
+    },
+    {
+      "id": 70,
+      "value": "refreshing beverage",
+      "options": [
+        "冷たい飲み物",
+        "温かい飲み物",
+        "アルコール飲料",
+        "特別な料理"
+      ],
+      "correctAnswer": "冷たい飲み物",
+      "explanation": "「refreshing beverage」は、爽やかな飲み物、リフレッシュできる飲み物を意味します。特に暑い日に飲むと気分が良くなるような飲み物を指します。水、ジュース、炭酸飲料などが含まれます。"
+    },
+    {
+      "id": 71,
+      "value": "equations",
+      "options": [
+        "歴史",
+        "方程式",
+        "芸術",
+        "料理"
+      ],
+      "correctAnswer": "方程式",
+      "explanation": "「equations」は、方程式という意味です。数学や物理学で、等号を使って二つの式が等しいことを示すものです。科学的な計算や問題を解くために使われます。"
+    },
+    {
+      "id": 72,
+      "value": "beta-function",
+      "options": [
+        "アルファ関数",
+        "ガンマ関数",
+        "ベータ関数",
+        "シグマ関数"
+      ],
+      "correctAnswer": "ベータ関数",
+      "explanation": "「beta-function」は、ベータ関数という意味です。数学や物理学で使われる特殊関数の一つで、確率論や素粒子物理学など、様々な分野で応用されています。ガンマ関数と密接な関係があります。"
+    },
+    {
+      "id": 73,
+      "value": "quarks",
+      "options": [
+        "レプトン",
+        "クォーク",
+        "ニュートリノ",
+        "電子"
+      ],
+      "correctAnswer": "クォーク",
+      "explanation": "「quarks」は、クォークという意味です。素粒子物理学で、物質を構成する基本的な粒子の一つです。ハドロンと呼ばれる複合粒子（陽子や中性子など）を構成します。6種類存在します。"
+    },
+    {
+      "id": 74,
+      "value": "hallway",
+      "options": [
+        "教室",
+        "廊下",
+        "庭",
+        "台所"
+      ],
+      "correctAnswer": "廊下",
+      "explanation": "「hallway」は、廊下という意味です。建物内の部屋と部屋をつなぐ通路を指します。ホテルやアパートなどでよく見られます。"
+    },
+    {
+      "id": 75,
+      "value": "objective scale",
+      "options": [
+        "客観的尺度",
+        "主観的尺度",
+        "絶対評価",
+        "相対評価"
+      ],
+      "correctAnswer": "客観的尺度",
+      "explanation": "「objective scale」は、客観的尺度という意味です。個人の感情や意見に左右されず、誰が見ても同じように評価できる基準を指します。科学的な実験や評価などで重要です。"
+    },
+    {
+      "id": 76,
+      "value": "booty call",
+      "options": [
+        "緊急の電話",
+        "重要な会議",
+        "一時的な関係",
+        "親密な手紙"
+      ],
+      "correctAnswer": "一時的な関係",
+      "explanation": "「booty call」とは、性的関係を持つことを目的とした誘いを指すスラングです。通常、深夜や早朝に、気軽な関係を求める際に使われます。より直接的で、感情的な繋がりを伴わない関係を意味することが多いです。"
+    },
+    {
+      "id": 77,
+      "value": "terrific",
+      "options": [
+        "恐ろしい",
+        "素晴らしい",
+        "退屈な",
+        "平均的な"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、「非常に素晴らしい」「最高の」という意味を持つ形容詞です。肯定的な意味合いが強く、人や物事を褒め称える際に広く用いられます。類義語としては、excellent, wonderful, greatなどがあります。"
+    },
+    {
+      "id": 78,
+      "value": "got lucky",
+      "options": [
+        "幸運を手に入れた",
+        "疲れてしまった",
+        "道に迷った",
+        "病気になった"
+      ],
+      "correctAnswer": "幸運を手に入れた",
+      "explanation": "「got lucky」は、偶然の幸運によって良い結果を得ることを意味します。特に、スキルや努力ではなく、運が良かった場合に用いられます。She got lucky with the weather today. (彼女は今日の天気で運が良かった。)"
+    },
+    {
+      "id": 79,
+      "value": "pass that up",
+      "options": [
+        "それを見逃す",
+        "それを手に入れる",
+        "それを隠す",
+        "それを修理する"
+      ],
+      "correctAnswer": "それを見逃す",
+      "explanation": "「pass up」は、機会や申し出を断る、見送るという意味の句動詞です。特に、良い機会や有利な条件を自ら放棄するニュアンスが含まれます。I can't pass up the opportunity to travel to Europe. (ヨーロッパへ旅行する機会を逃すわけにはいかない。)"
+    },
+    {
+      "id": 80,
+      "value": "hypothetical",
+      "options": [
+        "現実的な",
+        "仮説の",
+        "重要な",
+        "明白な"
+      ],
+      "correctAnswer": "仮説の",
+      "explanation": "「hypothetical」は、「仮説の」「仮定の」という意味を持つ形容詞です。現実には存在しない、あるいは起こりえない状況や事柄について議論する際に用いられます。 It's all hypothetical at this point. (現時点ではすべて仮説に過ぎない。)"
+    },
+    {
+      "id": 81,
+      "value": "slip over to",
+      "options": [
+        "急いで行く",
+        "ゆっくり歩く",
+        "立ち止まる",
+        "引き返す"
+      ],
+      "correctAnswer": "急いで行く",
+      "explanation": "「slip over to」は、ちょっと立ち寄る、さっと行くという意味の句動詞です。気軽に、または秘密裏に移動するニュアンスが含まれます。Let's slip over to the cafe for a quick coffee. (カフェにコーヒーを飲みに行こう。)"
+    },
+    {
+      "id": 82,
+      "value": "decontamination shower",
+      "options": [
+        "普通のシャワー",
+        "汚染除去シャワー",
+        "冷水シャワー",
+        "温水シャワー"
+      ],
+      "correctAnswer": "汚染除去シャワー",
+      "explanation": "「decontamination shower」は、放射性物質や化学物質などの有害物質を除去するための特殊なシャワーです。研究施設や原子力発電所などで使用されます。文字通り、汚染を取り除く（decontaminate）ためのシャワーです。"
+    },
+    {
+      "id": 83,
+      "value": "neuroscientists",
+      "options": [
+        "神経科学者",
+        "物理学者",
+        "化学者",
+        "生物学者"
+      ],
+      "correctAnswer": "神経科学者",
+      "explanation": "「neuroscientist」は、神経科学者、つまり脳や神経系を専門的に研究する科学者を指します。神経細胞の機能、脳の構造、神経系の疾患などを研究します。"
+    },
+    {
+      "id": 84,
+      "value": "biochemistry",
+      "options": [
+        "生化学",
+        "物理化学",
+        "地球化学",
+        "天文学"
+      ],
+      "correctAnswer": "生化学",
+      "explanation": "「biochemistry」は、生化学、つまり生物の化学的プロセスを研究する学問分野です。タンパク質、炭水化物、脂質などの生体分子の構造や機能、代謝経路などを扱います。"
+    },
+    {
+      "id": 85,
+      "value": "synapses",
+      "options": [
+        "シナプス",
+        "細胞",
+        "遺伝子",
+        "酵素"
+      ],
+      "correctAnswer": "シナプス",
+      "explanation": "「synapse」は、シナプス、つまり神経細胞間の情報伝達が行われる接合部を指します。神経伝達物質が放出され、次の神経細胞に信号が伝達されます。 シナプスの可塑性は、学習や記憶に重要な役割を果たします。"
+    },
+    {
+      "id": 86,
+      "value": "hypothalamus",
+      "options": [
+        "視床下部",
+        "大脳皮質",
+        "小脳",
+        "海馬"
+      ],
+      "correctAnswer": "視床下部",
+      "explanation": "「hypothalamus」は、視床下部、つまり脳の一部で、体温調節、食欲、睡眠、ホルモン分泌など、生命維持に不可欠な機能を制御する部位です。情動や行動にも関与します。"
+    },
+    {
+      "id": 87,
+      "value": "sex drive",
+      "options": [
+        "性的欲求",
+        "運転技術",
+        "冒険心",
+        "睡眠欲"
+      ],
+      "correctAnswer": "性的欲求",
+      "explanation": "「sex drive」は、性的欲求、つまり性的な衝動や関心を指します。ホルモン、心理的要因、社会的要因など、様々な要素によって影響を受けます。 The patient had a low sex drive. (患者は性的欲求が低かった。)"
+    },
+    {
+      "id": 88,
+      "value": "smothering",
+      "options": [
+        "窒息させる",
+        "保護する",
+        "無視する",
+        "励ます"
+      ],
+      "correctAnswer": "窒息させる",
+      "explanation": "「smothering」は、ここでは比喩的に「息苦しくさせる」「束縛する」という意味で使われています。過剰な関心や愛情によって相手を圧迫するニュアンスがあります。類義語としては、suffocating, overwhelmingなどがあります。"
+    },
+    {
+      "id": 89,
+      "value": "the blogosphere",
+      "options": [
+        "ブログ界",
+        "宇宙空間",
+        "図書館",
+        "レストラン"
+      ],
+      "correctAnswer": "ブログ界",
+      "explanation": "「the blogosphere」は、ブログ界、つまりブログ全体とそのコミュニティを指します。インターネット上のブログの集合体として捉えられます。 The news spread quickly through the blogosphere. (そのニュースはブログ界で急速に広まった。)"
+    },
+    {
+      "id": 90,
+      "value": "a-buzzing",
+      "options": [
+        "静かな",
+        "騒がしい",
+        "退屈な",
+        "平和な"
+      ],
+      "correctAnswer": "騒がしい",
+      "explanation": "「a-buzzing」は、「騒がしい」「噂が飛び交っている」という意味です。何かが話題になっている状態を表します。 The town was a-buzzing with excitement. (町は興奮で騒がしかった。)"
+    },
+    {
+      "id": 91,
+      "value": "eine kleine bang-bang music",
+      "options": [
+        "クラシック音楽",
+        "性的な行為",
+        "子供の遊び",
+        "料理のレシピ"
+      ],
+      "correctAnswer": "性的な行為",
+      "explanation": "「eine kleine bang-bang music」は、性的な行為を婉曲的に表現したユーモラスな言い方です。モーツァルトの「アイネ・クライネ・ナハトムジーク」をもじった表現で、直接的な表現を避けるために使われます。"
+    },
+    {
+      "id": 92,
+      "value": "a little bird told me",
+      "options": [
+        "鳥が教えてくれた",
+        "情報源は秘密",
+        "夢を見た",
+        "勘違いした"
+      ],
+      "correctAnswer": "情報源は秘密",
+      "explanation": "「a little bird told me」は、「誰かから聞いた」「情報源は明かせない」という意味の慣用句です。秘密の情報源から情報を得たことを示唆する際に使われます。 A little bird told me it's your birthday next week. (来週があなたの誕生日だと聞きました。)"
+    },
+    {
+      "id": 93,
+      "value": "magnificent beast",
+      "options": [
+        "素晴らしい獣",
+        "小さな虫",
+        "臆病な人",
+        "怠け者"
+      ],
+      "correctAnswer": "素晴らしい獣",
+      "explanation": "「magnificent beast」は、ここではユーモラスに、性的魅力や能力が高い男性を指す言葉として使われています。誇張した表現で、褒め言葉として用いられます。"
+    },
+    {
+      "id": 94,
+      "value": "misjudged",
+      "options": [
+        "正当に評価した",
+        "誤って評価した",
+        "無視した",
+        "過大評価した"
+      ],
+      "correctAnswer": "誤って評価した",
+      "explanation": "「misjudge」は、「誤って判断する」「見誤る」という意味の動詞です。人や物事の価値、能力、状況などを正しく理解できなかったことを表します。 I misjudged his character. (私は彼の性格を見誤った。)"
+    },
+    {
+      "id": 95,
+      "value": "go out on a limb",
+      "options": [
+        "危険を冒す",
+        "安全策を取る",
+        "秘密を守る",
+        "嘘をつく"
+      ],
+      "correctAnswer": "危険を冒す",
+      "explanation": "「go out on a limb」は、「危険を冒す」「思い切った行動に出る」という意味のイディオムです。批判や反対を受ける可能性があることを承知の上で、自分の意見や立場を表明する際に使われます。 I'm going out on a limb here, but I think he's innocent. (危険を冒して言いますが、私は彼は無罪だと思います。)"
+    },
+    {
+      "id": 96,
+      "value": "broken hearted",
+      "options": [
+        "心が痛む",
+        "喜んでいる",
+        "怒っている",
+        "安心している"
+      ],
+      "correctAnswer": "心が痛む",
+      "explanation": "「broken hearted」は、「失恋した」「心が痛む」という意味の形容詞です。愛する人を失ったり、恋愛関係が終わったりしたことによる悲しみや苦しみを表します。 She was broken hearted after their breakup. (彼女は彼ら別れのあと、心が痛んだ。)"
+    },
+    {
+      "id": 97,
+      "value": "way ahead of you",
+      "options": [
+        "先回りしている",
+        "後れを取っている",
+        "並んでいる",
+        "反対している"
+      ],
+      "correctAnswer": "先回りしている",
+      "explanation": "「way ahead of you」は、「もうすでに考えている」「先回りしている」という意味の口語表現です。相手が何かを提案する前に、自分はすでにそれについて考えていたことを伝える際に使われます。 \"I was thinking of getting pizza for dinner.\" \"Way ahead of you, I already ordered it!\" （「夕食にピザを頼もうと思っていたんだ」「先回りしているよ、もう注文したよ！」）"
+    },
+    {
+      "id": 98,
+      "value": "foreseeable future",
+      "options": [
+        "予測可能な未来",
+        "遠い過去",
+        "現在の状況",
+        "想像上の世界"
+      ],
+      "correctAnswer": "予測可能な未来",
+      "explanation": "「foreseeable future」は、「予測可能な未来」「当分の間」という意味です。ある程度の期間、将来の見通しが立つ範囲を指します。 I will be working here for the foreseeable future. (私は当分の間、ここで働く予定です。)"
+    },
+    {
+      "id": 99,
+      "value": "platitude",
+      "options": [
+        "月並みな言葉",
+        "深い洞察",
+        "辛辣な批判",
+        "具体的な計画"
+      ],
+      "correctAnswer": "月並みな言葉",
+      "explanation": "「platitude」は、「陳腐な言葉」「決まり文句」という意味です。内容が薄く、ありふれた表現を指します。 His speech was full of platitudes. (彼のスピーチは決まり文句だらけだった。)"
+    },
+    {
+      "id": 100,
+      "value": "bid for attention",
+      "options": [
+        "注目を集めるための行動",
+        "静かにしていること",
+        "協力を求めること",
+        "批判をすること"
+      ],
+      "correctAnswer": "注目を集めるための行動",
+      "explanation": "「bid for attention」は、「注目を集めようとする行動」「関心を引こうとする試み」という意味です。意識的、または無意識的に、他者の注意を引こうとする行動を指します。Her constant complaining was just a bid for attention. (彼女の絶え間ない不平は、ただ注目を集めるためのものだった。)"
+    }
+  ]
+}

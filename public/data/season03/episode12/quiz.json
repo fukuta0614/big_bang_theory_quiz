@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "acknowledge",
+      "options": [
+        "無視する",
+        "認める",
+        "避ける",
+        "非難する"
+      ],
+      "correctAnswer": "認める",
+      "explanation": "「acknowledge」は、事実や真実を認める、受け入れるという意味です。公に認めるニュアンスを含みます。例：The company acknowledged its mistake and apologized. (会社は過ちを認め、謝罪した。)"
+    },
+    {
+      "id": 2,
+      "value": "tend towards",
+      "options": [
+        "嫌う傾向がある",
+        "無視する傾向がある",
+        "好む傾向がある",
+        "避ける傾向がある"
+      ],
+      "correctAnswer": "好む傾向がある",
+      "explanation": "「tend towards」は、〜の傾向がある、〜しがちであるという意味です。特定の行動や性質が自然と現れる様子を表します。例：He tends towards being late for appointments. (彼は約束に遅れる傾向がある。)"
+    },
+    {
+      "id": 3,
+      "value": "making out",
+      "options": [
+        "喧嘩する",
+        "食事をする",
+        "言い訳をする",
+        "キスをする"
+      ],
+      "correctAnswer": "キスをする",
+      "explanation": "「make out」は、親密なキスや軽い性的接触を意味する口語表現です。より強い感情や欲望が伴うことが多いです。例：They were making out in the back of the car. (彼らは車の後部座席でキスをしていた。)"
+    },
+    {
+      "id": 4,
+      "value": "carefree",
+      "options": [
+        "注意深い",
+        "心配のない",
+        "退屈な",
+        "責任感の強い"
+      ],
+      "correctAnswer": "心配のない",
+      "explanation": "「carefree」は、心配事や悩みがない、気楽なという意味です。自由で明るい雰囲気を伴います。例：She has a carefree attitude towards life. (彼女は人生に対して気楽な態度を持っている。)"
+    },
+    {
+      "id": 5,
+      "value": "broncos",
+      "options": [
+        "野馬",
+        "臆病者",
+        "友人",
+        "英雄"
+      ],
+      "correctAnswer": "野馬",
+      "explanation": "「bronco」は、乗りこなされていない野生の馬を意味します。ここでは比喩的に、自由奔放な男性を指しています。束縛される前の状態を表しています。"
+    },
+    {
+      "id": 6,
+      "value": "saddled",
+      "options": [
+        "解放された",
+        "束縛された",
+        "無視された",
+        "祝福された"
+      ],
+      "correctAnswer": "束縛された",
+      "explanation": "「saddle」は、馬に鞍を置くという意味ですが、ここでは比喩的に、責任や義務を負わされた状態を表しています。自由を失ったニュアンスがあります。"
+    },
+    {
+      "id": 7,
+      "value": "abandon",
+      "options": [
+        "支援する",
+        "強化する",
+        "見捨てる",
+        "信頼する"
+      ],
+      "correctAnswer": "見捨てる",
+      "explanation": "「abandon」は、人や場所、物を完全に見捨てる、放棄するという意味です。責任を放棄するニュアンスがあります。例：They abandoned the car on the side of the road. (彼らは道路脇に車を乗り捨てた。)"
+    },
+    {
+      "id": 8,
+      "value": "reinitialize",
+      "options": [
+        "初期化する",
+        "更新する",
+        "保存する",
+        "削除する"
+      ],
+      "correctAnswer": "初期化する",
+      "explanation": "「reinitialize」は、システムやデバイスを初期状態に戻すという意味です。設定やデータを一度クリアし、再設定する際に使われます。例：We need to reinitialize the network settings. (ネットワーク設定を初期化する必要があります。)"
+    },
+    {
+      "id": 9,
+      "value": "salute",
+      "options": [
+        "侮辱",
+        "無視",
+        "敬礼",
+        "破壊"
+      ],
+      "correctAnswer": "敬礼",
+      "explanation": "「salute」は、敬意を表する動作や行為を意味します。軍隊の敬礼だけでなく、敬意を表すイベントや行動にも使われます。例：We salute their courage and dedication. (彼らの勇気と献身に敬意を表します。)"
+    },
+    {
+      "id": 10,
+      "value": "linked to",
+      "options": [
+        "関係がない",
+        "関係がある",
+        "反対する",
+        "重要ではない"
+      ],
+      "correctAnswer": "関係がある",
+      "explanation": "「linked to」は、〜と関連がある、〜とつながっているという意味です。原因と結果、または要素間の関連性を示す際に使われます。例：The disease is linked to poor diet. (その病気は不健康な食生活と関連がある。)"
+    },
+    {
+      "id": 11,
+      "value": "semantically null",
+      "options": [
+        "意味がある",
+        "意味がない",
+        "複雑である",
+        "明確である"
+      ],
+      "correctAnswer": "意味がない",
+      "explanation": "「semantically null」は、意味的に空虚である、内容がないという意味です。言葉や文が情報を提供しない、または意味をなさない状態を表します。例：His statement was semantically null. (彼の発言は意味をなさなかった。)"
+    },
+    {
+      "id": 12,
+      "value": "split infinitives",
+      "options": [
+        "無限大を分割する",
+        "to不定詞を分割する",
+        "原子を分割する",
+        "意見を分割する"
+      ],
+      "correctAnswer": "to不定詞を分割する",
+      "explanation": "「split infinitives」は、to不定詞（to + 動詞の原形）のtoと動詞の間に副詞などを挿入する文法構造を指します。例：to boldly go (大胆に行くために)。文法的に問題視されることもありますが、スタイルとして使われることもあります。"
+    },
+    {
+      "id": 13,
+      "value": "scheme",
+      "options": [
+        "計画",
+        "策略",
+        "陰謀",
+        "現実"
+      ],
+      "correctAnswer": "策略",
+      "explanation": "「scheme」は、特に秘密裏に行われる、計画や策略を意味します。しばしば不正なニュアンスを含みます。例：He devised a clever scheme to cheat the system. (彼はシステムを欺く巧妙な策略を考案した。)"
+    },
+    {
+      "id": 14,
+      "value": "virile",
+      "options": [
+        "弱い",
+        "病弱な",
+        "活発な",
+        "内気な"
+      ],
+      "correctAnswer": "活発な",
+      "explanation": "「virile」は、男性の力強さ、活力、性的な魅力を意味します。若々しく、精力的なイメージがあります。例：He was a virile young man. (彼は精力的な若者だった。)"
+    },
+    {
+      "id": 15,
+      "value": "strut my stuff",
+      "options": [
+        "隠遁する",
+        "才能を披露する",
+        "謙遜する",
+        "自虐する"
+      ],
+      "correctAnswer": "才能を披露する",
+      "explanation": "「strut one's stuff」は、自分の才能や能力を誇示する、見せびらかすという意味です。自信を持って行動する様子を表します。例：The dancers were strutting their stuff on stage. (ダンサーたちは舞台で才能を披露していた。)"
+    },
+    {
+      "id": 16,
+      "value": "stifled",
+      "options": [
+        "解放された",
+        "抑圧された",
+        "促進された",
+        "無視された"
+      ],
+      "correctAnswer": "抑圧された",
+      "explanation": "「stifled」は、感情や表現が抑えつけられている、窒息させられているという意味です。自由を奪われた感覚を表します。例：She felt stifled by the strict rules of the school. (彼女は学校の厳格な規則に抑圧されていると感じた。)"
+    },
+    {
+      "id": 17,
+      "value": "compromise",
+      "options": [
+        "対立",
+        "譲歩",
+        "拒否",
+        "混乱"
+      ],
+      "correctAnswer": "譲歩",
+      "explanation": "「compromise」は、お互いの意見や要求を一部譲り合うことで合意に達することを意味します。対立を解決するための手段として用いられます。例：They reached a compromise after hours of negotiations. (彼らは何時間もの交渉の末、妥協点に達した。)"
+    },
+    {
+      "id": 18,
+      "value": "scenery",
+      "options": [
+        "騒音",
+        "風景",
+        "食事",
+        "香り"
+      ],
+      "correctAnswer": "風景",
+      "explanation": "「scenery」は、景色、風景を意味します。自然の美しい景色や、特定の場所の様子を指すことが多いです。例：The mountain scenery was breathtaking. (山の風景は息をのむほど美しかった。)"
+    },
+    {
+      "id": 19,
+      "value": "fantasy",
+      "options": [
+        "現実",
+        "空想",
+        "記憶",
+        "分析"
+      ],
+      "correctAnswer": "空想",
+      "explanation": "「fantasy」は、現実にはありえない、空想や幻想の世界を意味します。創造的な想像力によって作り出された物語や状況を指します。例：He has a vivid fantasy life. (彼は鮮やかな空想の世界を持っている。)"
+    },
+    {
+      "id": 20,
+      "value": "perceive",
+      "options": [
+        "無視する",
+        "知覚する",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "知覚する",
+      "explanation": "「perceive」は、五感を通じて何かを認識する、知覚するという意味です。理解する、解釈するというニュアンスも含まれます。例：He perceived a change in her attitude. (彼は彼女の態度に変化を感じた。)"
+    },
+    {
+      "id": 21,
+      "value": "begging",
+      "options": [
+        "命令する",
+        "懇願する",
+        "無視する",
+        "避難する"
+      ],
+      "correctAnswer": "懇願する",
+      "explanation": "「begging」は、人に何かを強く頼む、懇願するという意味です。謙虚な態度で、相手に何らかの行動を促す際に使われます。例：He was begging for forgiveness. (彼は許しを請うていた。)"
+    },
+    {
+      "id": 22,
+      "value": "In luck",
+      "options": [
+        "不運",
+        "幸運",
+        "悲しみ",
+        "怒り"
+      ],
+      "correctAnswer": "幸運",
+      "explanation": "「In luck」は、運が良い、幸運であるという意味です。偶然の良い出来事が起こる状況を表します。例：You're in luck, there's one ticket left. (あなたは運が良い、チケットが1枚残っています。)"
+    },
+    {
+      "id": 23,
+      "value": "chat her up",
+      "options": [
+        "無視する",
+        "話しかける",
+        "批判する",
+        "非難する"
+      ],
+      "correctAnswer": "話しかける",
+      "explanation": "「chat someone up」は、誰かに話しかけて仲良くなろうとする、特に恋愛目的で話しかけるという意味です。軽い調子で、親しみを込めて使われます。例：He was trying to chat her up at the bar. (彼はバーで彼女に話しかけようとしていた。)"
+    },
+    {
+      "id": 24,
+      "value": "hot for",
+      "options": [
+        "嫌い",
+        "興味がない",
+        "夢中",
+        "軽蔑"
+      ],
+      "correctAnswer": "夢中",
+      "explanation": "「hot for」は、〜に夢中である、〜に熱を上げているという意味です。強い欲望や興味を持っている状態を表します。例：He's really hot for her. (彼は彼女に本当に夢中だ。)"
+    },
+    {
+      "id": 25,
+      "value": "segment",
+      "options": [
+        "全体",
+        "部分",
+        "無限",
+        "空間"
+      ],
+      "correctAnswer": "部分",
+      "explanation": "「segment」は、全体の一部、区分、部分という意味です。全体を構成する要素の一つを指します。例：Each segment of the market has different needs. (市場の各セグメントは異なるニーズを持っている。)"
+    },
+    {
+      "id": 26,
+      "value": "starved",
+      "options": [
+        "眠い",
+        "お腹が空いている",
+        "疲れている",
+        "退屈している"
+      ],
+      "correctAnswer": "お腹が空いている",
+      "explanation": "「starved」は「非常に空腹である」という意味です。文字通りには「餓死寸前」の状態を指しますが、日常会話では単に「すごくお腹が空いた」というニュアンスで使われます。例：I'm starved, let's grab some food. (お腹ペコペコだ、何か食べに行こう。)"
+    },
+    {
+      "id": 27,
+      "value": "skeletonize",
+      "options": [
+        "骨を折る",
+        "骨格標本にする",
+        "骨を強くする",
+        "骨を隠す"
+      ],
+      "correctAnswer": "骨格標本にする",
+      "explanation": "「skeletonize」は「骨だけにする」「骨格標本にする」という意味です。ここでは、肉食バクテリアが小動物を骨だけにすることを指しています。例：The bacteria skeletonized the dead animal in a matter of days. (そのバクテリアは数日のうちに死んだ動物を骨だけにした。)"
+    },
+    {
+      "id": 28,
+      "value": "on the off-chance",
+      "options": [
+        "絶対に",
+        "稀に",
+        "偶然に",
+        "安全に"
+      ],
+      "correctAnswer": "稀に",
+      "explanation": "「on the off-chance」は「万が一」「ひょっとしたら」という意味です。可能性は低いけれど、そうなることを期待して何かをする際に使われます。例：I went back to the cafe on the off-chance she might be there. (彼女がいるかもしれないと思って、カフェに戻ってみた。)"
+    },
+    {
+      "id": 29,
+      "value": "way past",
+      "options": [
+        "ずっと先",
+        "すぐ近く",
+        "同じくらい",
+        "考え中"
+      ],
+      "correctAnswer": "ずっと先",
+      "explanation": "「way past」は「～をはるかに超えて」「～を過ぎてずっと先」という意味です。ここでは、二人の関係が「セカンドベース」という比喩的な段階をはるかに超えていることを示しています。例：We are way past that stage in our relationship. (私たちの関係はもうそんな段階じゃないよ。)"
+    },
+    {
+      "id": 30,
+      "value": "turning around",
+      "options": [
+        "悪化する",
+        "好転する",
+        "元に戻る",
+        "停止する"
+      ],
+      "correctAnswer": "好転する",
+      "explanation": "「turn around」は「好転する」「改善する」という意味です。状況やビジネスなどが良くなることを指します。例：The company is finally starting to turn around after a difficult period. (会社は困難な時期を経て、ようやく好転し始めている。)"
+    },
+    {
+      "id": 31,
+      "value": "make fun of",
+      "options": [
+        "からかう",
+        "尊敬する",
+        "無視する",
+        "応援する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「make fun of」は「～をからかう」「～を笑いものにする」という意味です。誰かの欠点や行動などを面白おかしく言うことを指します。例：Don't make fun of him just because he's different. (彼が違うからって、からかわないで。)"
+    },
+    {
+      "id": 32,
+      "value": "phonies",
+      "options": [
+        "本物",
+        "偽物",
+        "正直者",
+        "賢い人"
+      ],
+      "correctAnswer": "偽物",
+      "explanation": "「phony」は「偽物」「詐欺師」「見せかけだけのもの」という意味です。ここでは、インチキな霊能力者を指しています。例：He's such a phony, always trying to impress people. (彼は本当に見えっ張りで、いつも人に感銘を与えようとしている。)"
+    },
+    {
+      "id": 33,
+      "value": "jerk",
+      "options": [
+        "優しい人",
+        "嫌なやつ",
+        "友達",
+        "先生"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「jerk」は「嫌なやつ」「感じの悪い人」「馬鹿」という意味です。人を侮辱する際に使われる言葉です。例：Don't be such a jerk! (そんな嫌なやつにならないで！)"
+    },
+    {
+      "id": 34,
+      "value": "bite me",
+      "options": [
+        "褒めて",
+        "手伝って",
+        "ほっといて",
+        "キスして"
+      ],
+      "correctAnswer": "ほっといて",
+      "explanation": "「bite me」は「ほっといてくれ」「うるさい」という意味合いの、やや挑発的な表現です。相手の発言に対して反発する際に使われます。例：A: You're being annoying. B: Bite me! (A: うざいよ。 B: ほっといてくれ！)"
+    },
+    {
+      "id": 35,
+      "value": "make out",
+      "options": [
+        "喧嘩する",
+        "仲直りする",
+        "言い訳する",
+        "いちゃつく"
+      ],
+      "correctAnswer": "いちゃつく",
+      "explanation": "「make out」は「（激しく）キスをする」「いちゃつく」という意味です。性的なニュアンスを含むことが多いです。例：They were making out in the back of the movie theater. (彼らは映画館の後ろでいちゃついていた。)"
+    },
+    {
+      "id": 36,
+      "value": "sliding into",
+      "options": [
+        "興味がない",
+        "議論する",
+        "深入りする",
+        "無視する"
+      ],
+      "correctAnswer": "深入りする",
+      "explanation": "「sliding into」は、ここでは野球の塁にスライディングするイメージから、「（関係が）次の段階に進む」「深入りする」という意味で使われています。例：She's sliding into his DMs. (彼女は彼にDMを送って距離を縮めようとしている。)"
+    },
+    {
+      "id": 37,
+      "value": "wingman",
+      "options": [
+        "邪魔者",
+        "協力者",
+        "敵",
+        "リーダー"
+      ],
+      "correctAnswer": "協力者",
+      "explanation": "「wingman」は、恋愛において友人をサポートする役割の人を指します。友人が誰かを口説く際に、応援したり、場を盛り上げたりする役割です。例：He's my wingman for tonight, helping me meet new people. (彼は今夜の私のウィングマンで、新しい出会いを手伝ってくれる。)"
+    },
+    {
+      "id": 38,
+      "value": "chintzy",
+      "options": [
+        "高価な",
+        "ケチな",
+        "寛大な",
+        "普通の"
+      ],
+      "correctAnswer": "ケチな",
+      "explanation": "「chintzy」は「ケチな」「みみっちい」という意味です。ここでは、お酒やシロップを出し惜しみしないでほしいというニュアンスで使われています。例：Don't be chintzy with the sugar, I like my coffee sweet. (砂糖をケチらないで、コーヒーは甘めが好きなんです。)"
+    },
+    {
+      "id": 39,
+      "value": "differ greatly on",
+      "options": [
+        "同意する",
+        "反対する",
+        "無関心",
+        "理解する"
+      ],
+      "correctAnswer": "反対する",
+      "explanation": "「differ greatly on」は「～について大きく意見が異なる」という意味です。価値観や考え方が大きく違うことを表します。例：We differ greatly on political issues. (私たちは政治問題について大きく意見が異なる。)"
+    },
+    {
+      "id": 40,
+      "value": "check out",
+      "options": [
+        "無視する",
+        "確認する",
+        "購入する",
+        "忘れる"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check out」は様々な意味がありますが、ここでは「（人や物事を）観察する」「注意して見る」という意味で使われています。例：Let's check out that new restaurant downtown. (ダウンタウンの新しいレストランをチェックしてみよう。)"
+    },
+    {
+      "id": 41,
+      "value": "hookup",
+      "options": [
+        "別れ",
+        "出会い",
+        "結婚",
+        "仕事"
+      ],
+      "correctAnswer": "出会い",
+      "explanation": "「hookup」は「（一時的な）性的関係」「一夜の関係」という意味です。カジュアルな関係を求める際に使われる言葉です。例：He's just looking for a hookup, nothing serious. (彼は真剣な関係ではなく、ただの一夜の関係を求めているだけだ。)"
+    },
+    {
+      "id": 42,
+      "value": "copulate",
+      "options": [
+        "食事をする",
+        "睡眠をとる",
+        "運動をする",
+        "性交する"
+      ],
+      "correctAnswer": "性交する",
+      "explanation": "「copulate」は「性交する」「交尾する」という意味のフォーマルな言葉です。日常会話ではあまり使われません。例：Many species copulate only during specific seasons. (多くの種は特定の季節にのみ交尾する。)"
+    },
+    {
+      "id": 43,
+      "value": "run my game",
+      "options": [
+        "運動する",
+        "ゲームをする",
+        "計画を実行する",
+        "逃げる"
+      ],
+      "correctAnswer": "計画を実行する",
+      "explanation": "「run my game」は「自分の計画を実行する」「自分のやり方で行動する」という意味です。恋愛においては、自分のアプローチや戦略を実行することを指します。例：I'm going to run my game and see if I can get her number. (自分のやり方でアプローチして、彼女の電話番号を聞けるか試してみる。)"
+    },
+    {
+      "id": 44,
+      "value": "lie through my teeth",
+      "options": [
+        "正直に話す",
+        "嘘をつく",
+        "秘密を守る",
+        "沈黙する"
+      ],
+      "correctAnswer": "嘘をつく",
+      "explanation": "「lie through one's teeth」は「平気で嘘をつく」「しらじらしく嘘をつく」という意味です。明らかに嘘であることを見抜かれているにも関わらず、平然と嘘をつく様子を表します。例：He lied through his teeth about where he was last night. (彼は昨夜どこにいたかについて平気で嘘をついた。)"
+    },
+    {
+      "id": 45,
+      "value": "nod and agree",
+      "options": [
+        "否定する",
+        "同意する",
+        "質問する",
+        "無視する"
+      ],
+      "correctAnswer": "同意する",
+      "explanation": "「nod and agree」は「頷いて同意する」という意味です。ここでは、友人が嘘をついている時に、それを肯定する役割を指しています。例：Just nod and agree with everything I say, okay? (僕が言うこと全てに頷いて同意してくれ、いい？)"
+    },
+    {
+      "id": 46,
+      "value": "How do you do?",
+      "options": [
+        "元気ですか？",
+        "はじめまして",
+        "どうしたの？",
+        "さようなら"
+      ],
+      "correctAnswer": "はじめまして",
+      "explanation": "「How do you do?」は、初対面の相手への挨拶で、「はじめまして」という意味です。非常にフォーマルな表現で、現代ではあまり使われません。返答も「How do you do?」となるのが一般的です。"
+    },
+    {
+      "id": 47,
+      "value": "mysterious",
+      "options": [
+        "恐ろしい",
+        "神秘的な",
+        "退屈な",
+        "明るい"
+      ],
+      "correctAnswer": "神秘的な",
+      "explanation": "「mysterious」は「神秘的な」「不可解な」という意味です。ここでは、インドを「神秘的な亜大陸」と表現することで、エキゾチックなイメージを強調しています。例：The old house had a mysterious atmosphere. (その古い家は神秘的な雰囲気を持っていた。)"
+    },
+    {
+      "id": 48,
+      "value": "Terrific",
+      "options": [
+        "つまらない",
+        "ひどい",
+        "素晴らしい",
+        "普通の"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「Terrific」は「素晴らしい」「最高の」という意味です。ポジティブな感情を表現する際に使われます。例：We had a terrific time at the party. (パーティーで素晴らしい時間を過ごした。)"
+    },
+    {
+      "id": 49,
+      "value": "bio-lab",
+      "options": [
+        "生物学研究室",
+        "化学研究室",
+        "物理学研究室",
+        "コンピュータ研究室"
+      ],
+      "correctAnswer": "生物学研究室",
+      "explanation": "「bio-lab」は「生物学研究室」の略称です。生物学的な実験や研究が行われる場所を指します。例：She spends most of her time in the bio-lab, conducting experiments. (彼女は実験を行うために、ほとんどの時間を生物学研究室で過ごしている。)"
+    },
+    {
+      "id": 50,
+      "value": "Diary of Anne Frank",
+      "options": [
+        "アンネの日記",
+        "ロミオとジュリエット",
+        "ハムレット",
+        "マクベス"
+      ],
+      "correctAnswer": "アンネの日記",
+      "explanation": "「Diary of Anne Frank」は「アンネの日記」という作品名です。アンネ・フランクというユダヤ人少女が第二次世界大戦中に隠れ家で書いた日記で、ホロコーストの悲劇を伝える重要な記録です。"
+    },
+    {
+      "id": 51,
+      "value": "slumdog",
+      "options": [
+        "貧しい",
+        "賢い",
+        "怠惰な",
+        "有名な"
+      ],
+      "correctAnswer": "貧しい",
+      "explanation": "「slumdog」は、スラム街で育った人を指す言葉で、しばしば貧困や逆境を乗り越えた人を意味します。映画『スラムドッグ$ミリオネア』で広く知られるようになりました。例文：He described himself as a slumdog programmer who taught himself coding."
+    },
+    {
+      "id": 52,
+      "value": "gynaecologist",
+      "options": [
+        "小児科医",
+        "産婦人科医",
+        "心臓外科医",
+        "精神科医"
+      ],
+      "correctAnswer": "産婦人科医",
+      "explanation": "「gynaecologist」は、女性の生殖器系の健康を専門とする医師、すなわち産婦人科医を意味します。定期的な検診や妊娠、出産に関するケアを行います。例文：She went to the gynaecologist for her annual check-up."
+    },
+    {
+      "id": 53,
+      "value": "copulate",
+      "options": [
+        "友情を深める",
+        "食事をする",
+        "交尾する",
+        "議論する"
+      ],
+      "correctAnswer": "交尾する",
+      "explanation": "「copulate」は、生物学的な文脈で、動物が交尾することを意味するフォーマルな言葉です。人間に対して使う場合は、非常に直接的で不適切とみなされることがあります。例文：The zoologist observed the birds copulating in their natural habitat."
+    },
+    {
+      "id": 54,
+      "value": "psychics",
+      "options": [
+        "物理学者",
+        "心理学者",
+        "霊能力者",
+        "精神科医"
+      ],
+      "correctAnswer": "霊能力者",
+      "explanation": "「psychics」は、超能力や霊能力を持つとされる人々を指します。未来を予知したり、人の心を読んだりする能力があると信じられています。例文：She visited a psychic to learn about her future."
+    },
+    {
+      "id": 55,
+      "value": "covered it pretty well",
+      "options": [
+        "隠した",
+        "うまく説明した",
+        "忘れた",
+        "無視した"
+      ],
+      "correctAnswer": "うまく説明した",
+      "explanation": "「cover something well」は、ある話題や問題を十分に、または詳細に説明することを意味します。例文：The professor covered the topic pretty well in the lecture, so the students understood it easily."
+    },
+    {
+      "id": 56,
+      "value": "facts are facts",
+      "options": [
+        "事実は小説より奇なり",
+        "議論の余地がない",
+        "事実は変わる",
+        "誤った情報もある"
+      ],
+      "correctAnswer": "議論の余地がない",
+      "explanation": "「facts are facts」は、事実は事実であり、議論の余地がない、または変えられないということを強調する表現です。例文：I know you don't like the outcome, but facts are facts; we lost the game."
+    },
+    {
+      "id": 57,
+      "value": "educating me",
+      "options": [
+        "楽しませる",
+        "教育する",
+        "退屈させる",
+        "混乱させる"
+      ],
+      "correctAnswer": "教育する",
+      "explanation": "「educate」は、知識やスキルを教える、または知識を与えるという意味です。皮肉な文脈では、相手の無知を指摘する意味合いで使われることがあります。例文：Thank you for educating me on the complexities of quantum physics."
+    },
+    {
+      "id": 58,
+      "value": "jump right into the middle",
+      "options": [
+        "すぐに終わらせる",
+        "最初から始める",
+        "真っ只中に飛び込む",
+        "慎重に進める"
+      ],
+      "correctAnswer": "真っ只中に飛び込む",
+      "explanation": "「jump right into the middle」は、何か（通常は議論や活動）にためらわずに、すぐに参加することを意味します。例文：Instead of observing, he decided to jump right into the middle of the argument."
+    },
+    {
+      "id": 59,
+      "value": "altogether",
+      "options": [
+        "一緒に",
+        "完全に",
+        "部分的に",
+        "時々"
+      ],
+      "correctAnswer": "完全に",
+      "explanation": "「altogether」は、完全に、全体的に、または完全にという意味です。例文：We should stop talking about this altogether."
+    },
+    {
+      "id": 60,
+      "value": "committed, monogamous, mutually supportive relationship",
+      "options": [
+        "複雑な関係",
+        "一時的な関係",
+        "献身的で一夫一妻制で相互支援的な関係",
+        "秘密の関係"
+      ],
+      "correctAnswer": "献身的で一夫一妻制で相互支援的な関係",
+      "explanation": "「committed」は献身的、「monogamous」は一夫一妻制、「mutually supportive」は相互支援的という意味です。例文：They are in a committed, monogamous, mutually supportive relationship."
+    },
+    {
+      "id": 61,
+      "value": "spirited debate",
+      "options": [
+        "友好的な同意",
+        "活発な議論",
+        "静かな沈黙",
+        "一方的な講義"
+      ],
+      "correctAnswer": "活発な議論",
+      "explanation": "「spirited debate」は、熱心で活発な議論を意味します。意見が異なっていても、互いに尊重しあいながら議論する様子を表します。例文：They had a spirited debate about the best approach to solving the problem."
+    },
+    {
+      "id": 62,
+      "value": "scored",
+      "options": [
+        "得点した",
+        "成功した",
+        "失敗した",
+        "疲れた"
+      ],
+      "correctAnswer": "成功した",
+      "explanation": "「score」は、スラングとして、性的な成功や、目的を達成することを意味することがあります。ここでは、女性を口説き落とすことに成功したという意味合いで使われています。例文：He scored a date with the most popular girl in school."
+    },
+    {
+      "id": 63,
+      "value": "wingman",
+      "options": [
+        "敵",
+        "助手",
+        "親友",
+        "恋人"
+      ],
+      "correctAnswer": "助手",
+      "explanation": "「wingman」は、誰かが恋愛関係を築くのを助ける友人、特にデートの際にサポートする役割の人を指します。例文：He acted as the wingman, helping his friend approach the woman he liked."
+    },
+    {
+      "id": 64,
+      "value": "kiss and tell",
+      "options": [
+        "秘密を守る",
+        "キスをして別れる",
+        "秘密を暴露する",
+        "愛情を伝える"
+      ],
+      "correctAnswer": "秘密を暴露する",
+      "explanation": "「kiss and tell」は、恋愛関係の秘密や詳細を公に暴露することを意味します。例文：He doesn't like to kiss and tell."
+    },
+    {
+      "id": 65,
+      "value": "eighth base",
+      "options": [
+        "野球の塁",
+        "比喩的な性的な進展",
+        "秘密の場所",
+        "新しい趣味"
+      ],
+      "correctAnswer": "比喩的な性的な進展",
+      "explanation": "「base」は野球の塁を意味しますが、恋愛や性的な進展の段階を比喩的に表すことがあります。具体的な段階は人によって解釈が異なります。ここでは「seventh base with shirt off」という説明があるので、より進んだ段階であることを示唆しています。"
+    },
+    {
+      "id": 66,
+      "value": "frustrations",
+      "options": [
+        "喜び",
+        "不満",
+        "興味",
+        "幸福"
+      ],
+      "correctAnswer": "不満",
+      "explanation": "「frustration」は、欲求不満、不満、または何かを達成できないことによって生じる感情を意味します。例文：They are taking their relationship frustrations out on innocent Cylons."
+    },
+    {
+      "id": 67,
+      "value": "squeeze in",
+      "options": [
+        "押し込む",
+        "無視する",
+        "解放する",
+        "避ける"
+      ],
+      "correctAnswer": "押し込む",
+      "explanation": "「squeeze in」は、時間や空間が限られている中で、何かを無理に詰め込む、または割り込ませるという意味です。例文：He was going to try to squeeze in a little more mocking before lunch."
+    },
+    {
+      "id": 68,
+      "value": "mocking",
+      "options": [
+        "尊敬",
+        "称賛",
+        "嘲笑",
+        "無視"
+      ],
+      "correctAnswer": "嘲笑",
+      "explanation": "「mock」は、誰かや何かをからかう、嘲笑する、またはバカにするという意味です。例文：She was tired of his constant mocking of her beliefs."
+    },
+    {
+      "id": 69,
+      "value": "high-powered weapon",
+      "options": [
+        "高性能な武器",
+        "強力な議論",
+        "大きな声",
+        "鋭い視線"
+      ],
+      "correctAnswer": "高性能な武器",
+      "explanation": "ここでは文字通りの武器ではなく、比喩的に、相手を打ち負かすほどの強い力を持つものを指します。レーザーを例に挙げています。例文：The lawyer used a high-powered weapon of logic to win the case."
+    },
+    {
+      "id": 70,
+      "value": "go out with",
+      "options": [
+        "外出する",
+        "デートする",
+        "喧嘩する",
+        "無視する"
+      ],
+      "correctAnswer": "デートする",
+      "explanation": "「go out with」は、誰かとデートする、または交際するという意味です。例文：How can I go out with a woman who believes in psychics?"
+    },
+    {
+      "id": 71,
+      "value": "abducted by aliens",
+      "options": [
+        "宇宙人に変身した",
+        "宇宙人に誘拐された",
+        "宇宙人と友達になった",
+        "宇宙人を研究した"
+      ],
+      "correctAnswer": "宇宙人に誘拐された",
+      "explanation": "「abduct」は、誘拐するという意味です。「abducted by aliens」は、宇宙人に誘拐されたという経験を指します。例文：She claimed she was abducted by aliens and taken to another planet."
+    },
+    {
+      "id": 72,
+      "value": "Au contraire",
+      "options": [
+        "その通り",
+        "とんでもない",
+        "どうでもいい",
+        "おめでとう"
+      ],
+      "correctAnswer": "とんでもない",
+      "explanation": "「au contraire」はフランス語で、「反対に」または「とんでもない」という意味です。英語でも、前の発言や意見に反論する際に使われます。例文：'That sounds boring.' 'Au contraire, it's quite exciting!'"
+    },
+    {
+      "id": 73,
+      "value": "gullible",
+      "options": [
+        "賢い",
+        "騙されやすい",
+        "勇敢な",
+        "正直な"
+      ],
+      "correctAnswer": "騙されやすい",
+      "explanation": "「gullible」は、簡単に人を信じたり、騙されたりしやすいという意味です。例文：He is so gullible that he believes everything he reads on the internet."
+    },
+    {
+      "id": 74,
+      "value": "probing",
+      "options": [
+        "隠蔽",
+        "調査",
+        "容認",
+        "無視"
+      ],
+      "correctAnswer": "調査",
+      "explanation": "「probing」は、調査すること、または何かを探ることを意味します。ここでは、比喩的に、相手の気持ちや考えを探ることを指しています。例文：The interviewer asked some probing questions about her past experiences."
+    },
+    {
+      "id": 75,
+      "value": "do me a favour",
+      "options": [
+        "手伝って",
+        "お願いがある",
+        "邪魔しないで",
+        "構わないで"
+      ],
+      "correctAnswer": "お願いがある",
+      "explanation": "「do me a favor」は、誰かに頼み事をする際に使う表現です。例文：Do me a favor and close the window, please."
+    },
+    {
+      "id": 76,
+      "value": "odds are",
+      "options": [
+        "可能性が高い",
+        "偶然である",
+        "絶対にない",
+        "五分五分である"
+      ],
+      "correctAnswer": "可能性が高い",
+      "explanation": "「odds are」は「～する可能性が高い」という意味のイディオムです。ある事柄が起こる確率や見込みが高いことを示す際に使用します。例文：Odds are it will rain tomorrow.（明日は雨が降る可能性が高い。）"
+    },
+    {
+      "id": 77,
+      "value": "intellectual integrity",
+      "options": [
+        "知的な完全性",
+        "知的な不誠実さ",
+        "知的な好奇心",
+        "知的な怠惰"
+      ],
+      "correctAnswer": "知的な完全性",
+      "explanation": "「intellectual integrity」は「知的誠実さ、知的良心」という意味です。自分の信念や知識に対して正直であり、客観的な視点を持つことを指します。研究者や学者にとって重要な資質とされます。"
+    },
+    {
+      "id": 78,
+      "value": "moved on",
+      "options": [
+        "感動した",
+        "引っ越した",
+        "次に進んだ",
+        "後退した"
+      ],
+      "correctAnswer": "次に進んだ",
+      "explanation": "「move on」は「（ある段階や状態から）次に進む、乗り越える」という意味の句動詞です。過去の出来事や状況から気持ちを切り替えて、新しいことに取り組む際に使われます。例文：It's time to move on from the past. (過去から次に進む時だ。)"
+    },
+    {
+      "id": 79,
+      "value": "levy",
+      "options": [
+        "課す",
+        "取り除く",
+        "提案する",
+        "回避する"
+      ],
+      "correctAnswer": "課す",
+      "explanation": "「levy」は「（税金、罰金などを）課す、徴収する」という意味の動詞です。政府や機関が公式な立場で何かを課す際に用いられます。例文：The government levied a new tax on imported goods. (政府は輸入品に新しい税金を課した。)"
+    },
+    {
+      "id": 80,
+      "value": "rhetorical",
+      "options": [
+        "修辞的な",
+        "直接的な",
+        "無関係な",
+        "具体的な"
+      ],
+      "correctAnswer": "修辞的な",
+      "explanation": "「rhetorical」は「修辞的な、言葉巧みな」という意味の形容詞です。効果的な表現や説得力のある話し方に関連することを指します。また、修辞疑問のように、答えを期待せずに強調のために用いられる場合もあります。"
+    },
+    {
+      "id": 81,
+      "value": "supplication",
+      "options": [
+        "懇願",
+        "拒否",
+        "命令",
+        "無視"
+      ],
+      "correctAnswer": "懇願",
+      "explanation": "「supplication」は「懇願、嘆願」という意味の名詞です。神や権力者など、自分より上の存在に対して、助けや慈悲を求める行為を指します。例文：They made a supplication to the king for mercy. (彼らは王に慈悲を求めて懇願した。)"
+    },
+    {
+      "id": 82,
+      "value": "courteous",
+      "options": [
+        "無礼な",
+        "礼儀正しい",
+        "不親切な",
+        "傲慢な"
+      ],
+      "correctAnswer": "礼儀正しい",
+      "explanation": "「courteous」は「礼儀正しい、丁寧な」という意味の形容詞です。他人に対して敬意を払い、親切な態度で接することを指します。例文：He was always courteous to his elders. (彼はいつも年長者に対して礼儀正しかった。)"
+    },
+    {
+      "id": 83,
+      "value": "ignition",
+      "options": [
+        "点火",
+        "消火",
+        "冷却",
+        "停止"
+      ],
+      "correctAnswer": "点火",
+      "explanation": "「ignition」は「点火、発火」という意味の名詞です。火がつくこと、または火をつける行為を指します。自動車のエンジンや、可燃性の物質が燃え始める際に使われます。例文：The car's ignition system was faulty. (車の点火システムに欠陥があった。)"
+    },
+    {
+      "id": 84,
+      "value": "obnoxious",
+      "options": [
+        "楽しい",
+        "不愉快な",
+        "魅力的な",
+        "友好的な"
+      ],
+      "correctAnswer": "不愉快な",
+      "explanation": "「obnoxious」は「不愉快な、鼻持ちならない」という意味の形容詞です。非常に不快で、他人を раздражающийような言動や態度を指します。例文：He was being loud and obnoxious at the party. (彼はパーティーで騒がしく、不愉快な態度だった。)"
+    },
+    {
+      "id": 85,
+      "value": "concisely",
+      "options": [
+        "簡潔に",
+        "詳細に",
+        "曖昧に",
+        "冗長に"
+      ],
+      "correctAnswer": "簡潔に",
+      "explanation": "「concisely」は「簡潔に、手短に」という意味の副詞です。無駄な言葉を省き、要点を絞って表現することを指します。例文：Please explain the problem concisely. (問題を簡潔に説明してください。)"
+    },
+    {
+      "id": 86,
+      "value": "fraud",
+      "options": [
+        "正直者",
+        "詐欺師",
+        "英雄",
+        "犠牲者"
+      ],
+      "correctAnswer": "詐欺師",
+      "explanation": "「fraud」は「詐欺、不正行為」または「詐欺師、ペテン師」という意味の名詞です。人を欺く行為や、そのような行為をする人を指します。例文：He was a fraud who pretended to be a doctor. (彼は医者を装った詐欺師だった。)"
+    },
+    {
+      "id": 87,
+      "value": "open mind",
+      "options": [
+        "閉鎖的な心",
+        "広い心",
+        "疑い深い心",
+        "無関心な心"
+      ],
+      "correctAnswer": "広い心",
+      "explanation": "「open mind」は「偏見のない心、先入観を持たない態度」という意味です。新しいアイデアや意見に対して、柔軟に受け入れる姿勢を指します。例文：It's important to keep an open mind when discussing controversial issues. (議論の余地がある問題について話し合う際は、偏見を持たないことが重要だ。)"
+    },
+    {
+      "id": 88,
+      "value": "astrology",
+      "options": [
+        "天文学",
+        "占星術",
+        "地質学",
+        "生物学"
+      ],
+      "correctAnswer": "占星術",
+      "explanation": "「astrology」は「占星術」という意味の名詞です。星や惑星の位置と人間の運命や性格との関連性を研究する疑似科学です。科学的な根拠はありません。"
+    },
+    {
+      "id": 89,
+      "value": "voodoo",
+      "options": [
+        "仏教",
+        "ブードゥー教",
+        "ヒンドゥー教",
+        "イスラム教"
+      ],
+      "correctAnswer": "ブードゥー教",
+      "explanation": "「voodoo」は「ブードゥー教」という意味の名詞です。西アフリカ起源の宗教で、精霊崇拝や呪術的な儀式を伴います。特にハイチで信仰されています。"
+    },
+    {
+      "id": 90,
+      "value": "treatise",
+      "options": [
+        "条約",
+        "論文",
+        "短編",
+        "詩"
+      ],
+      "correctAnswer": "論文",
+      "explanation": "「treatise」は「論文、論述」という意味の名詞です。特定のテーマについて、体系的かつ詳細に論じた著作物を指します。学術的な内容であることが多いです。例文：He wrote a treatise on the theory of relativity. (彼は相対性理論に関する論文を書いた。)"
+    },
+    {
+      "id": 91,
+      "value": "mores",
+      "options": [
+        "習慣",
+        "法律",
+        "規則",
+        "宗教"
+      ],
+      "correctAnswer": "習慣",
+      "explanation": "「mores」は「社会的な慣習、道徳的規範」という意味の名詞です。社会や集団において、正しいとされている行動様式や価値観を指します。法律ほど厳格ではありませんが、社会生活を円滑にする上で重要な役割を果たします。"
+    },
+    {
+      "id": 92,
+      "value": "hang out",
+      "options": [
+        "手伝う",
+        "ぶらぶらする",
+        "整理する",
+        "避ける"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は「（友達と）ぶらぶらする、過ごす」という意味の句動詞です。特に目的もなく、リラックスして時間を過ごすことを指します。例文：Let's hang out at the park this weekend. (今週末は公園でぶらぶらしよう。)"
+    },
+    {
+      "id": 93,
+      "value": "disinfected",
+      "options": [
+        "消毒した",
+        "掃除した",
+        "整理した",
+        "装飾した"
+      ],
+      "correctAnswer": "消毒した",
+      "explanation": "「disinfect」は「消毒する」という意味の動詞です。細菌やウイルスを除去し、感染を防ぐために使われます。例文: I disinfected the kitchen counter.（私は台所のカウンターを消毒した。）"
+    },
+    {
+      "id": 94,
+      "value": "whatever floats your boat",
+      "options": [
+        "船を浮かべるものは何でも",
+        "あなたの好きなように",
+        "何でもいい",
+        "どうでもいい"
+      ],
+      "correctAnswer": "あなたの好きなように",
+      "explanation": "「whatever floats your boat」は「あなたの好きなように、あなたの趣味に合わせれば」という意味のイディオムです。相手の選択や好みを尊重し、干渉しないというニュアンスが含まれます。例文：If you want to spend all day playing video games, whatever floats your boat. (もし一日中ビデオゲームをしていたいのなら、あなたの好きなようにすればいい。)"
+    },
+    {
+      "id": 95,
+      "value": "facial expression",
+      "options": [
+        "表情",
+        "身振り",
+        "服装",
+        "言葉遣い"
+      ],
+      "correctAnswer": "表情",
+      "explanation": "「facial expression」は「表情」という意味の名詞です。顔の筋肉の動きによって表される感情や気持ちを指します。例文：Her facial expression showed that she was happy. (彼女の表情は、彼女が幸せであることを示していた。)"
+    },
+    {
+      "id": 96,
+      "value": "rhetorical strategy",
+      "options": [
+        "修辞的戦略",
+        "直接的戦略",
+        "非論理的戦略",
+        "秘密戦略"
+      ],
+      "correctAnswer": "修辞的戦略",
+      "explanation": "「rhetorical strategy」は「修辞的戦略、言葉による戦略」という意味です。説得力のある議論や表現を用いて、相手を説得したり、感情に訴えかけたりする手法を指します。例文：Using humor is a common rhetorical strategy. (ユーモアを使うことは、一般的な修辞的戦略の一つだ。)"
+    },
+    {
+      "id": 97,
+      "value": "invocation",
+      "options": [
+        "祈り",
+        "呪い",
+        "命令",
+        "脅迫"
+      ],
+      "correctAnswer": "祈り",
+      "explanation": "「invocation」は「祈り、祈願」という意味の名詞です。神や聖霊などに助けや導きを求める行為を指します。宗教的な儀式や、重要なイベントの始まりに行われることがあります。例文：The ceremony began with an invocation. (式典は祈りで始まった。)"
+    },
+    {
+      "id": 98,
+      "value": "dryer lint",
+      "options": [
+        "乾燥機の糸くず",
+        "洗濯物の汚れ",
+        "洗剤の泡",
+        "柔軟剤の香り"
+      ],
+      "correctAnswer": "乾燥機の糸くず",
+      "explanation": "「dryer lint」は「乾燥機の糸くず」という意味です。衣類乾燥機を使用する際に発生する、繊維のくずやほこりのことを指します。放置すると火災の原因になるため、定期的な清掃が必要です。"
+    },
+    {
+      "id": 99,
+      "value": "pyramid power",
+      "options": [
+        "ピラミッド建設",
+        "ピラミッド型組織",
+        "ピラミッドパワー",
+        "ピラミッド観光"
+      ],
+      "correctAnswer": "ピラミッドパワー",
+      "explanation": "「pyramid power」は「ピラミッドパワー」という意味です。ピラミッド型の構造物が持つとされる、未知のエネルギーや効果のことです。科学的な根拠はありませんが、信じる人もいます。"
+    },
+    {
+      "id": 100,
+      "value": "healing crystals",
+      "options": [
+        "治療用結晶",
+        "装飾用結晶",
+        "科学実験用結晶",
+        "宝石研磨"
+      ],
+      "correctAnswer": "治療用結晶",
+      "explanation": "「healing crystals」は「ヒーリングクリスタル」という意味です。特定の種類の結晶が持つとされる、癒しやエネルギーの調整効果のことです。代替医療やスピリチュアルな実践で使用されますが、科学的な根拠はありません。"
+    }
+  ]
+}

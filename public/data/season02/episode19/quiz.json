@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "stray arachnids",
+      "options": [
+        "迷子の犬",
+        "迷子のクモ",
+        "悪質な詐欺",
+        "宇宙の塵"
+      ],
+      "correctAnswer": "迷子のクモ",
+      "explanation": "「stray」は「迷った、はぐれた」という意味で、「arachnids」は「クモ綱の動物」を指します。ここでは、アパートに出没する迷子のクモたち、という意味合いで使われています。日常会話ではあまり使いませんが、生物学的な文脈や、比喩表現として使われることがあります。"
+    },
+    {
+      "id": 2,
+      "value": "get over it",
+      "options": [
+        "乗り越える",
+        "理解する",
+        "手に入れる",
+        "忘れる"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get over it」は、何か嫌なことや困難な状況があったときに、「それを乗り越えろ」「くよくよするな」という意味で使われる口語表現です。相手を励ます時や、少し冷たく突き放す時にも使えます。"
+    },
+    {
+      "id": 3,
+      "value": "ravishing",
+      "options": [
+        "魅力的な",
+        "退屈な",
+        "不快な",
+        "平均的な"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「ravishing」は、「非常に魅力的な」「うっとりさせるような」という意味の形容詞です。特に女性の美しさに対して使われることが多いですが、美しい景色や芸術作品などにも使えます。フォーマルな響きを持つ言葉です。"
+    },
+    {
+      "id": 4,
+      "value": "if you catch my drift",
+      "options": [
+        "もし迷子になったら",
+        "もし私の意図が分かったら",
+        "もし風に乗れたら",
+        "もし捕まえられたら"
+      ],
+      "correctAnswer": "もし私の意図が分かったら",
+      "explanation": "「catch my drift」は、「私の言いたいこと、意図を理解する」という意味のイディオムです。直接的な表現を避け、婉曲的に伝えたい時に使われます。相手に察してほしいニュアンスが含まれています。"
+    },
+    {
+      "id": 5,
+      "value": "social protocol",
+      "options": [
+        "社会儀礼",
+        "秘密議定書",
+        "宇宙旅行",
+        "個人的な計画"
+      ],
+      "correctAnswer": "社会儀礼",
+      "explanation": "「social protocol」は「社会的な儀礼、礼儀作法」という意味です。社会生活において守るべき行動規範やマナーを指します。フォーマルな場面や、文化的な背景を理解する必要がある状況で使われます。"
+    },
+    {
+      "id": 6,
+      "value": "break our backs",
+      "options": [
+        "休憩する",
+        "一生懸命働く",
+        "背骨を折る",
+        "踊り明かす"
+      ],
+      "correctAnswer": "一生懸命働く",
+      "explanation": "「break one's back」は、「必死に働く」「骨身を惜しまず努力する」という意味のイディオムです。非常に大変な労力を伴う作業や努力を強調する際に使われます。文字通りに「背骨を折る」という意味ではありません。"
+    },
+    {
+      "id": 7,
+      "value": "enough with the guilt",
+      "options": [
+        "罪悪感は十分だ",
+        "有罪にしない",
+        "もう十分な富",
+        "十分な秘密"
+      ],
+      "correctAnswer": "罪悪感は十分だ",
+      "explanation": "「Enough with the guilt」は、「もう罪悪感を抱くのはやめて」「罪悪感を感じさせるのはもうたくさんだ」という意味合いの表現です。誰かが罪悪感を抱いている状況で、それを終わらせるように促す時に使われます。"
+    },
+    {
+      "id": 8,
+      "value": "little bird leave the nest",
+      "options": [
+        "巣から小鳥が飛び立つ",
+        "小さな家を建てる",
+        "秘密基地を作る",
+        "子離れ"
+      ],
+      "correctAnswer": "子離れ",
+      "explanation": "「Little bird leave the nest」は「小さな鳥が巣を離れる」という意味で、子供が独立して親元を離れる状況を指す比喩表現です。親が子供の成長を喜びつつも、寂しさを感じるニュアンスが含まれています。"
+    },
+    {
+      "id": 9,
+      "value": "for god's sake",
+      "options": [
+        "神のために",
+        "頼むから",
+        "神の御加護を",
+        "神に感謝を"
+      ],
+      "correctAnswer": "頼むから",
+      "explanation": "「for God's sake」は、「頼むから」「お願いだから」という意味合いの間投詞です。強い感情（怒り、驚き、苛立ちなど）を伴って使われることが多いです。宗教的な意味合いは薄く、単なる強調表現として用いられます。"
+    },
+    {
+      "id": 10,
+      "value": "sure as hell",
+      "options": [
+        "地獄のように確実な",
+        "必ず",
+        "地獄に落ちる覚悟で",
+        "地獄の沙汰も金次第"
+      ],
+      "correctAnswer": "必ず",
+      "explanation": "「sure as hell」は、「絶対に」「必ず」という意味の口語表現です。強い確信や強調を表す際に使われます。「hell」という言葉が含まれているため、フォーマルな場面での使用は避けるべきです。"
+    },
+    {
+      "id": 11,
+      "value": "take your head out of the oven",
+      "options": [
+        "オーブンから頭を出す",
+        "自殺をやめる",
+        "現実を見ろ",
+        "料理を完成させる"
+      ],
+      "correctAnswer": "自殺をやめる",
+      "explanation": "「take your head out of the oven」は、自殺を思いとどまることを意味する婉曲的な表現です。非常に深刻な状況を表す際に用いられます。この表現は、過去に自殺手段としてオーブンが使われていたことに由来します。"
+    },
+    {
+      "id": 12,
+      "value": "hernia support",
+      "options": [
+        "ヘルニアサポーター",
+        "精神的な支え",
+        "物理的なサポート",
+        "秘密の支援者"
+      ],
+      "correctAnswer": "ヘルニアサポーター",
+      "explanation": "「hernia support」は「ヘルニアサポーター」という意味です。ヘルニアの症状を緩和するために使用される医療器具を指します。日常会話で頻繁に使われる言葉ではありませんが、医療関連の文脈で登場することがあります。"
+    },
+    {
+      "id": 13,
+      "value": "cocaine smugglers",
+      "options": [
+        "コカイン密売人",
+        "宇宙探検家",
+        "有名な歌手",
+        "料理研究家"
+      ],
+      "correctAnswer": "コカイン密売人",
+      "explanation": "「cocaine smugglers」は「コカイン密売人」という意味です。麻薬密売に関わる人物を指し、法律や犯罪に関する文脈で使われます。日常会話で使われることは少ないですが、ニュース記事や犯罪ドラマなどで見かけることがあります。"
+    },
+    {
+      "id": 14,
+      "value": "tap-dancing pirate",
+      "options": [
+        "タップダンスを踊る海賊",
+        "秘密の宝",
+        "隠された才能",
+        "想像上の友達"
+      ],
+      "correctAnswer": "タップダンスを踊る海賊",
+      "explanation": "「tap-dancing pirate」は、「タップダンスを踊る海賊」という意味です。これはありえない組み合わせであり、Sheldonが新しい住人がどんな奇妙な人物である可能性を示唆するために使われています。非現実的でユーモラスな状況を表す表現です。"
+    },
+    {
+      "id": 15,
+      "value": "go for it",
+      "options": [
+        "それを選べ",
+        "頑張って",
+        "諦めろ",
+        "逃げろ"
+      ],
+      "correctAnswer": "頑張って",
+      "explanation": "「go for it」は、「頑張って」「やってみろ」「挑戦しろ」という意味の口語表現です。誰かを励ましたり、応援したりする際に使われます。積極的な行動を促すニュアンスが含まれています。"
+    },
+    {
+      "id": 16,
+      "value": "new topic, please",
+      "options": [
+        "新しい話題を",
+        "秘密の計画",
+        "過去の出来事",
+        "未来の夢"
+      ],
+      "correctAnswer": "新しい話題を",
+      "explanation": "「new topic, please」は、「新しい話題に移りましょう」「話題を変えてください」という意味です。会話の流れを変えたい時や、不快な話題を避けたい時に使われます。丁寧な表現ですが、状況によっては強い拒否のニュアンスを含むこともあります。"
+    },
+    {
+      "id": 17,
+      "value": "tap-dancing",
+      "options": [
+        "タップダンス",
+        "秘密の計画",
+        "隠された才能",
+        "想像上の友達"
+      ],
+      "correctAnswer": "タップダンス",
+      "explanation": "「tap-dancing」は、「タップダンス」という意味です。Sheldonが新しい住人がどんな奇妙な人物である可能性を示唆するために使われています。"
+    },
+    {
+      "id": 18,
+      "value": "wooden leg",
+      "options": [
+        "木製の足",
+        "秘密の宝",
+        "隠された才能",
+        "想像上の友達"
+      ],
+      "correctAnswer": "木製の足",
+      "explanation": "「wooden leg」は、「木製の足」という意味です。Sheldonが新しい住人がどんな奇妙な人物である可能性を示唆するために使われています。"
+    },
+    {
+      "id": 19,
+      "value": "get away from",
+      "options": [
+        "逃げる",
+        "近づく",
+        "理解する",
+        "手に入れる"
+      ],
+      "correctAnswer": "逃げる",
+      "explanation": "「get away from」は、「～から逃れる」「～から離れる」という意味の句動詞です。物理的な距離だけでなく、精神的な束縛やプレッシャーから解放されるという意味合いでも使われます。"
+    },
+    {
+      "id": 20,
+      "value": "olive garden",
+      "options": [
+        "オリーブガーデン",
+        "秘密の庭",
+        "隠された才能",
+        "想像上の友達"
+      ],
+      "correctAnswer": "オリーブガーデン",
+      "explanation": "「olive garden」は、アメリカにあるイタリア料理のレストランチェーンです。ここでは、Howardの母親が、自分の家がレストランではないことを伝えるために使われています。"
+    },
+    {
+      "id": 21,
+      "value": "clickety-clacking",
+      "options": [
+        "カチカチ音",
+        "秘密の計画",
+        "隠された才能",
+        "想像上の友達"
+      ],
+      "correctAnswer": "カチカチ音",
+      "explanation": "「clickety-clacking」は、「カチカチという音」を表す擬音語です。特にハイヒールの靴音が床に響く様子を表す際に使われます。Sheldonが嫌う音の一つとして登場します。"
+    },
+    {
+      "id": 22,
+      "value": "awkward hellos",
+      "options": [
+        "気まずい挨拶",
+        "秘密の計画",
+        "隠された才能",
+        "想像上の友達"
+      ],
+      "correctAnswer": "気まずい挨拶",
+      "explanation": "「awkward hellos」は、「気まずい挨拶」という意味です。初対面の人や、あまり親しくない人との間のぎこちない挨拶を指します。Sheldonが人間関係の煩わしさを嫌う様子を表しています。"
+    },
+    {
+      "id": 23,
+      "value": "the hell you will",
+      "options": [
+        "まさか",
+        "秘密の計画",
+        "隠された才能",
+        "想像上の友達"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "「The hell you will!」は、「まさか、そんなことさせるものか」「絶対に許さない」という意味の強い否定を表す口語表現です。相手の言動に対する強い反発や拒絶を示します。"
+    },
+    {
+      "id": 24,
+      "value": "fancy restaurant",
+      "options": [
+        "高級レストラン",
+        "秘密の計画",
+        "隠された才能",
+        "想像上の友達"
+      ],
+      "correctAnswer": "高級レストラン",
+      "explanation": "「fancy restaurant」は、「高級レストラン」という意味です。ここでは、Howardの母親が、自分の家がレストランではないことを伝えるために使われています。"
+    },
+    {
+      "id": 25,
+      "value": "Does this look like",
+      "options": [
+        "～に見えますか",
+        "秘密の計画",
+        "隠された才能",
+        "想像上の友達"
+      ],
+      "correctAnswer": "～に見えますか",
+      "explanation": "「Does this look like」は、「これは～に見えますか」という意味です。ここでは、Howardの母親が、自分の家がレストランではないことを伝えるために使われています。"
+    },
+    {
+      "id": 26,
+      "value": "faltering attempt to mate",
+      "options": [
+        "成功している求愛",
+        "ぎこちない求愛",
+        "終わった求愛",
+        "秘密の求愛"
+      ],
+      "correctAnswer": "ぎこちない求愛",
+      "explanation": "「faltering」は、ためらう、よろめくという意味で、「faltering attempt」は、自信がなく、不確かな試みを指します。「to mate」は、ここでは求愛するという意味合いです。全体として、ぎこちなく、自信のない求愛の試みを指しています。"
+    },
+    {
+      "id": 27,
+      "value": "light of foot",
+      "options": [
+        "足が速い",
+        "足音が軽い",
+        "気が利く",
+        "身軽である"
+      ],
+      "correctAnswer": "足音が軽い",
+      "explanation": "「light of foot」は、足取りが軽い、足音が静かであるという意味です。この文脈では、アパートの上の階に住む人がどれだけ騒音を立てるかを尋ねています。"
+    },
+    {
+      "id": 28,
+      "value": "freakishly feline",
+      "options": [
+        "非常に犬っぽい",
+        "異常なほど猫っぽい",
+        "普通に猫っぽい",
+        "全く猫っぽくない"
+      ],
+      "correctAnswer": "異常なほど猫っぽい",
+      "explanation": "「freakishly」は、異常なほど、奇妙なほどという意味で、「feline」は、猫のような、猫の性質を持つという意味です。したがって、「freakishly feline」は、異常なほど猫っぽい、つまり非常に静かで身軽な様子を表します。"
+    },
+    {
+      "id": 29,
+      "value": "fertile",
+      "options": [
+        "不妊の",
+        "肥沃な",
+        "妊娠している",
+        "子育て中の"
+      ],
+      "correctAnswer": "肥沃な",
+      "explanation": "「fertile」は、肥沃な、繁殖力のあるという意味です。ここでは、子供を産む可能性について遠回しに尋ねています。アパートの上階に住む人が子供を産む可能性があるかどうかを気にしている状況です。"
+    },
+    {
+      "id": 30,
+      "value": "pro or con",
+      "options": [
+        "賛成か反対か",
+        "プロかアマか",
+        "原因か結果か",
+        "得か損か"
+      ],
+      "correctAnswer": "賛成か反対か",
+      "explanation": "「pro or con」は、賛成か反対か、肯定か否定かという意味です。議論や意見を求めるときに使われます。ここでは、エリアラグについて、賛成か反対かを尋ねています。"
+    },
+    {
+      "id": 31,
+      "value": "on probation",
+      "options": [
+        "保護観察中",
+        "試用期間中",
+        "休暇中",
+        "昇進中"
+      ],
+      "correctAnswer": "試用期間中",
+      "explanation": "「on probation」は、試用期間中、見習い期間中という意味です。ここでは、新しい住人がまだ完全に受け入れられているわけではないことを示唆しています。"
+    },
+    {
+      "id": 32,
+      "value": "dressed like a slob",
+      "options": [
+        "おしゃれをしている",
+        "だらしない格好をしている",
+        "正装をしている",
+        "運動着を着ている"
+      ],
+      "correctAnswer": "だらしない格好をしている",
+      "explanation": "「slob」は、だらしない人、不精な人を意味します。「dressed like a slob」は、だらしない格好をしている、服装に気を使っていない様子を表します。"
+    },
+    {
+      "id": 33,
+      "value": "this one's a player",
+      "options": [
+        "彼は選手だ",
+        "彼は遊び人だ",
+        "彼はゲームが好きだ",
+        "彼は音楽家だ"
+      ],
+      "correctAnswer": "彼は遊び人だ",
+      "explanation": "「player」は、遊び人、女性にもてる男性という意味のスラングです。ここでは、Leonardが女性に積極的にアプローチしている様子を見て、Pennyが彼を「player」だと評しています。"
+    },
+    {
+      "id": 34,
+      "value": "mimicry",
+      "options": [
+        "模倣",
+        "記憶",
+        "数学",
+        "演劇"
+      ],
+      "correctAnswer": "模倣",
+      "explanation": "「mimicry」は、模倣、真似をすることという意味です。Sheldonは人の真似をすることを楽しんでいることを述べています。"
+    },
+    {
+      "id": 35,
+      "value": "sort of",
+      "options": [
+        "全く",
+        "少し",
+        "たくさん",
+        "いつも"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「sort of」は、まあね、みたいなものだ、という意味で、完全にはそうではないけれど、近い状態であることを示します。ここでは、洗濯をしたのかどうかを尋ねられたPennyが、新しい服を買ったことで「sort of」と答えています。"
+    },
+    {
+      "id": 36,
+      "value": "no biggie",
+      "options": [
+        "大変だ",
+        "大したことない",
+        "秘密だ",
+        "嘘だ"
+      ],
+      "correctAnswer": "大したことない",
+      "explanation": "「no biggie」は、大したことない、問題ないという意味の口語表現です。PennyがLeonardにプリンターの設定を手伝ってもらうのを待つことができると言った際に使われています。"
+    },
+    {
+      "id": 37,
+      "value": "tactical move",
+      "options": [
+        "戦術的な動き",
+        "友好的な動き",
+        "偶発的な動き",
+        "個人的な動き"
+      ],
+      "correctAnswer": "戦術的な動き",
+      "explanation": "「tactical move」は、戦術的な動き、戦略的な行動という意味です。ここでは、Leonardが他の仲間と新しい住人の手伝いをしていることを、Sheldonが自分に対する戦略的な行動だと捉えていることを表しています。"
+    },
+    {
+      "id": 38,
+      "value": "axiomatically atypical",
+      "options": [
+        "公理的に典型的",
+        "公理的に非典型的",
+        "経験的に典型的",
+        "経験的に非典型的"
+      ],
+      "correctAnswer": "公理的に非典型的",
+      "explanation": "「axiomatically」は、公理的に、自明的にという意味で、「atypical」は、非典型的な、普通ではないという意味です。したがって、「axiomatically atypical」は、自明の理として普通ではない、という意味になります。ここでは、Leonardたちの行動が普通ではないことを強調しています。"
+    },
+    {
+      "id": 39,
+      "value": "former tenants",
+      "options": [
+        "以前の家主",
+        "現在の住人",
+        "以前の住人",
+        "未来の住人"
+      ],
+      "correctAnswer": "以前の住人",
+      "explanation": "「former」は、以前の、元のという意味で、「tenants」は、賃借人、住人という意味です。したがって、「former tenants」は、以前の住人、前の住人を指します。"
+    },
+    {
+      "id": 40,
+      "value": "characterization",
+      "options": [
+        "特徴",
+        "性格描写",
+        "要約",
+        "誤り"
+      ],
+      "correctAnswer": "性格描写",
+      "explanation": "「characterization」は、性格描写、特徴づけという意味です。ここでは、PennyがLeonardたちの行動を「typical（典型的）」と表現したことに対するSheldonの反論の中で使われています。"
+    },
+    {
+      "id": 41,
+      "value": "demonstrably fallacious",
+      "options": [
+        "明らかに正しい",
+        "明らかに誤っている",
+        "証明できない",
+        "非常に複雑"
+      ],
+      "correctAnswer": "明らかに誤っている",
+      "explanation": "「demonstrably」は、明らかに、証明できるほどという意味で、「fallacious」は、誤った、間違っているという意味です。したがって、「demonstrably fallacious」は、明らかに誤っている、証明できるほど間違っているという意味になります。"
+    },
+    {
+      "id": 42,
+      "value": "start all over again",
+      "options": [
+        "最初からやり直す",
+        "途中で止める",
+        "続ける",
+        "手伝う"
+      ],
+      "correctAnswer": "最初からやり直す",
+      "explanation": "「start all over again」は、最初からやり直すという意味です。Sheldonが頭の中で考えていたことを中断されたため、最初からやり直さなければならない状況を表しています。"
+    },
+    {
+      "id": 43,
+      "value": "downtown loft",
+      "options": [
+        "郊外の一軒家",
+        "都心のロフト",
+        "海辺のコテージ",
+        "田舎の農家"
+      ],
+      "correctAnswer": "都心のロフト",
+      "explanation": "「downtown」は、都心、繁華街という意味で、「loft」は、ロフト、屋根裏部屋を改装した広い空間を意味します。したがって、「downtown loft」は、都心にあるロフト形式の住居を指します。"
+    },
+    {
+      "id": 44,
+      "value": "per se",
+      "options": [
+        "それ自体は",
+        "例えば",
+        "したがって",
+        "要するに"
+      ],
+      "correctAnswer": "それ自体は",
+      "explanation": "「per se」はラテン語由来の表現で、「それ自体は」「本質的に」という意味です。ある事柄を特定して述べる際に使われます。"
+    },
+    {
+      "id": 45,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待って",
+        "続ける",
+        "諦める"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「hang on」は、会話を中断させ、少し待つように促すときに使う口語表現です。相手に注意を向けさせたり、少し時間を稼いだりする際に用いられます。"
+    },
+    {
+      "id": 46,
+      "value": "immediate plans",
+      "options": [
+        "将来の計画",
+        "直近の予定",
+        "秘密の計画",
+        "長期的な目標"
+      ],
+      "correctAnswer": "直近の予定",
+      "explanation": "「immediate plans」は、「直近の予定」「当面の計画」という意味です。ここでは、子供を持つ予定があるかどうかを尋ねられたAliciaが、具体的な予定はないと答える際に使われています。"
+    },
+    {
+      "id": 47,
+      "value": "see you around",
+      "options": [
+        "またすぐに",
+        "二度と会わない",
+        "遠くから見ている",
+        "いつもそばにいる"
+      ],
+      "correctAnswer": "またすぐに",
+      "explanation": "「see you around」は、「またね」「また会いましょう」という意味の別れの挨拶です。親しい間柄で、再会を期待するニュアンスが含まれています。"
+    },
+    {
+      "id": 48,
+      "value": "it's a trap",
+      "options": [
+        "これは罠だ",
+        "これは贈り物だ",
+        "これはチャンスだ",
+        "これは冗談だ"
+      ],
+      "correctAnswer": "これは罠だ",
+      "explanation": "「it's a trap」は、「罠だ」「策略だ」という意味です。映画『スター・ウォーズ』に登場するAdmiral Ackbarの有名な台詞で、危険な状況を警告する際に使われます。"
+    },
+    {
+      "id": 49,
+      "value": "You're welcome",
+      "options": [
+        "どういたしまして",
+        "お邪魔します",
+        "よろしくお願いします",
+        "おめでとうございます"
+      ],
+      "correctAnswer": "どういたしまして",
+      "explanation": "「You're welcome」は、感謝の言葉に対する返答で、「どういたしまして」「気にしないで」という意味です。感謝の気持ちを受け入れ、相手に安心感を与える表現です。"
+    },
+    {
+      "id": 50,
+      "value": "Thank you so much",
+      "options": [
+        "本当にありがとう",
+        "どういたしまして",
+        "さようなら",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "本当にありがとう",
+      "explanation": "「Thank you so much」は、相手に感謝の気持ちを伝える表現で、「本当にありがとうございます」「大変感謝しております」という意味です。通常の「Thank you」よりも強い感謝の気持ちを表します。"
+    },
+    {
+      "id": 51,
+      "value": "platonic",
+      "options": [
+        "友好的な",
+        "肉体関係のある",
+        "ビジネスライクな",
+        "形式的な"
+      ],
+      "correctAnswer": "友好的な",
+      "explanation": "「platonic」とは、肉体関係や恋愛感情を含まない、精神的な友情や愛情を指します。語源は哲学者プラトンに由来し、高尚な精神的なつながりを意味します。異性間の友情を表現する際によく用いられます。\n\n例：They have a purely platonic relationship. (彼らは純粋なプラトニックな関係です。)"
+    },
+    {
+      "id": 52,
+      "value": "dope",
+      "options": [
+        "悪い",
+        "普通",
+        "素晴らしい",
+        "退屈"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「dope」はスラングで、「素晴らしい」「最高」という意味です。特に若者の間で使われる口語的な表現で、肯定的な感情を表します。\n\n例：That song is dope! (あの曲、マジ最高！)"
+    },
+    {
+      "id": 53,
+      "value": "housewarming gift",
+      "options": [
+        "引越しの手伝い",
+        "新築祝いの品",
+        "家の修理",
+        "ルームシェアの提案"
+      ],
+      "correctAnswer": "新築祝いの品",
+      "explanation": "「housewarming gift」とは、新居祝いの贈り物、つまり引っ越し祝いの品物のことです。新しい家に引っ越した人を祝うために贈られます。\n\n例：They received many housewarming gifts from their friends. (彼らは友人たちからたくさんの新築祝いの品をもらった。)"
+    },
+    {
+      "id": 54,
+      "value": "slob",
+      "options": [
+        "おしゃれな人",
+        "だらしない人",
+        "几帳面な人",
+        "活動的な人"
+      ],
+      "correctAnswer": "だらしない人",
+      "explanation": "「slob」は、だらしなく、身なりに無頓着な人を指す軽蔑的な言葉です。服装や行動がだらしない様子を表します。\n\n例：He's such a slob, he never cleans his room. (彼は本当にだらしなくて、決して部屋を掃除しない。)"
+    },
+    {
+      "id": 55,
+      "value": "pish-posh",
+      "options": [
+        "真面目",
+        "ナンセンス",
+        "重要",
+        "秘密"
+      ],
+      "correctAnswer": "ナンセンス",
+      "explanation": "「pish-posh」は、くだらないこと、ナンセンス、たわごと、という意味の間投詞です。相手の発言を否定したり、軽視したりする際に用いられます。\n\n例：Pish-posh! Don't talk such nonsense. (ばかばかしい！そんなくだらないことを言うな。)"
+    },
+    {
+      "id": 56,
+      "value": "shucks",
+      "options": [
+        "ありがとう",
+        "残念",
+        "こんにちは",
+        "さようなら"
+      ],
+      "correctAnswer": "残念",
+      "explanation": "「shucks」は、軽い失望や謙遜を表す感嘆詞です。「あら」「しまった」「どうも」といったニュアンスで、特にアメリカ英語で使われます。\n\n例：Shucks, I forgot my wallet. (しまった、財布を忘れた。)"
+    },
+    {
+      "id": 57,
+      "value": "recurring",
+      "options": [
+        "一度だけの",
+        "繰り返しの",
+        "重要な",
+        "秘密の"
+      ],
+      "correctAnswer": "繰り返しの",
+      "explanation": "「recurring」は、繰り返し起こる、定期的に発生するという意味です。特に、イベントや問題などが繰り返し発生する場合に使われます。\n\n例：She has a recurring role on the TV show. (彼女はテレビ番組で繰り返しの役を演じている。)"
+    },
+    {
+      "id": 58,
+      "value": "holding out for",
+      "options": [
+        "諦める",
+        "期待する",
+        "反対する",
+        "参加する"
+      ],
+      "correctAnswer": "期待する",
+      "explanation": "「hold out for」は、何か良いものが得られるのを期待して、辛抱強く待つという意味です。自分の希望条件を満たすまで、何かを保留するニュアンスがあります。\n\n例：She's holding out for a better job offer. (彼女はもっと良い仕事のオファーを期待して待っている。)"
+    },
+    {
+      "id": 59,
+      "value": "default setting",
+      "options": [
+        "初期設定",
+        "最終設定",
+        "秘密の設定",
+        "カスタム設定"
+      ],
+      "correctAnswer": "初期設定",
+      "explanation": "「default setting」とは、機械やソフトウェアなどが最初に設定されている状態のことです。ユーザーが変更しない限り、この設定で動作します。\n\n例：The default setting for the language is English. (言語の初期設定は英語です。)"
+    },
+    {
+      "id": 60,
+      "value": "low end",
+      "options": [
+        "高音域",
+        "低音域",
+        "中音域",
+        "最高級"
+      ],
+      "correctAnswer": "低音域",
+      "explanation": "「low end」は、音響機器やオーディオにおいて、低音域を指します。音楽の深みや迫力を表現する際に重要な要素です。\n\n例：This subwoofer provides a powerful low end. (このサブウーファーはパワフルな低音域を提供します。)"
+    },
+    {
+      "id": 61,
+      "value": "right up their alley",
+      "options": [
+        "彼らの得意分野",
+        "彼らの苦手分野",
+        "彼らの家の近く",
+        "彼らの仕事場"
+      ],
+      "correctAnswer": "彼らの得意分野",
+      "explanation": "「right up someone's alley」は、誰かの好みや得意分野にぴったり合う、という意味のイディオムです。その人にとって興味深く、得意なことや楽しめることを指します。\n\n例：This project is right up her alley. (このプロジェクトは彼女の得意分野にぴったりだ。)"
+    },
+    {
+      "id": 62,
+      "value": "quantum mechanics",
+      "options": [
+        "古典力学",
+        "量子力学",
+        "天文学",
+        "地質学"
+      ],
+      "correctAnswer": "量子力学",
+      "explanation": "「quantum mechanics」は、量子力学のことです。原子や素粒子など、微視的な世界の物理現象を扱う物理学の分野です。\n\n例：Quantum mechanics is a complex and fascinating field. (量子力学は複雑で魅力的な分野です。)"
+    },
+    {
+      "id": 63,
+      "value": "odds",
+      "options": [
+        "確率",
+        "結果",
+        "原因",
+        "影響"
+      ],
+      "correctAnswer": "確率",
+      "explanation": "「odds」は、ある事象が起こる確率、可能性を意味します。賭け事やゲームなどでよく使われますが、一般的に可能性を議論する際にも用いられます。\n\n例：What are the odds of winning the lottery? (宝くじに当たる確率はどれくらいですか？)"
+    },
+    {
+      "id": 64,
+      "value": "nag",
+      "options": [
+        "褒める",
+        "叱る",
+        "お願いする",
+        "せがむ"
+      ],
+      "correctAnswer": "せがむ",
+      "explanation": "「nag」は、細かいことで何度も文句を言ったり、せがんだりすることを意味します。特に、相手をうんざりさせるような繰り返しのお願いや小言を指します。\n\n例：She always nags me about cleaning my room. (彼女はいつも私の部屋を掃除するようにせがむ。)"
+    },
+    {
+      "id": 65,
+      "value": "sarcasm",
+      "options": [
+        "皮肉",
+        "ユーモア",
+        "同情",
+        "共感"
+      ],
+      "correctAnswer": "皮肉",
+      "explanation": "「sarcasm」は、皮肉、当てこすり、嫌味を意味します。意図とは反対のことを言って相手を嘲笑したり、批判したりする表現方法です。\n\n例：His comment was full of sarcasm. (彼のコメントは皮肉に満ちていた。)"
+    },
+    {
+      "id": 66,
+      "value": "stacked heels",
+      "options": [
+        "厚底ヒール",
+        "ピンヒール",
+        "フラットシューズ",
+        "スニーカー"
+      ],
+      "correctAnswer": "厚底ヒール",
+      "explanation": "「stacked heels」は、積み重ねられたように見えるヒール、つまり厚底ヒールのことです。高さを強調するために、ヒール部分が層状になっているデザインを指します。\n\n例：She was wearing boots with stacked heels. (彼女は厚底ヒールのブーツを履いていた。)"
+    },
+    {
+      "id": 67,
+      "value": "threatened",
+      "options": [
+        "脅かされた",
+        "安心した",
+        "喜んだ",
+        "驚いた"
+      ],
+      "correctAnswer": "脅かされた",
+      "explanation": "「threatened」は、脅かされた、脅威を感じているという意味です。危険や不安を感じる状況を表します。\n\n例：She felt threatened by her new coworker. (彼女は新しい同僚に脅威を感じた。)"
+    },
+    {
+      "id": 68,
+      "value": "occasion",
+      "options": [
+        "日常",
+        "特別な機会",
+        "偶然",
+        "習慣"
+      ],
+      "correctAnswer": "特別な機会",
+      "explanation": "「occasion」は、特別な機会、行事、理由という意味です。普段とは違う、何か特別な出来事を指します。\n\n例：This is a special occasion. (これは特別な機会です。)"
+    },
+    {
+      "id": 69,
+      "value": "chow",
+      "options": [
+        "食事",
+        "飲み物",
+        "デザート",
+        "スナック"
+      ],
+      "correctAnswer": "食事",
+      "explanation": "「chow」は、スラングで食事、特に食べ物を意味します。口語的な表現で、カジュアルな場面で使われます。\n\n例：Let's grab some chow. (何か食べに行こう。)"
+    },
+    {
+      "id": 70,
+      "value": "diced",
+      "options": [
+        "千切り",
+        "さいの目切り",
+        "薄切り",
+        "丸ごと"
+      ],
+      "correctAnswer": "さいの目切り",
+      "explanation": "「diced」は、食材をさいの目切りにすること、またはさいの目切りにされた状態を指します。料理のレシピなどでよく使われる表現です。\n\n例：Add the diced vegetables to the soup. (さいの目切りにした野菜をスープに加えてください。)"
+    },
+    {
+      "id": 71,
+      "value": "shredded",
+      "options": [
+        "細かく切られた",
+        "大きく切られた",
+        "丸ごと",
+        "潰された"
+      ],
+      "correctAnswer": "細かく切られた",
+      "explanation": "「shredded」は、食材を細かく切ること、または細かく切られた状態を指します。キャベツの千切りやチーズなどによく使われる表現です。\n\n例：Add the shredded cheese to the salad. (細かく切られたチーズをサラダに加えてください。)"
+    },
+    {
+      "id": 72,
+      "value": "geek on",
+      "options": [
+        "興奮する",
+        "興味を持つ",
+        "怒る",
+        "悲しむ"
+      ],
+      "correctAnswer": "興味を持つ",
+      "explanation": "「geek on」は、自分の好きなことや得意なことに夢中になる、熱中するという意味のスラングです。オタク的な趣味や知識を披露するニュアンスも含まれます。\n\n例：I'm going to geek on about this new game. (この新しいゲームについて熱く語るつもりだ。)"
+    },
+    {
+      "id": 73,
+      "value": "PMS",
+      "options": [
+        "食欲不振",
+        "月経前症候群",
+        "睡眠不足",
+        "筋肉痛"
+      ],
+      "correctAnswer": "月経前症候群",
+      "explanation": "「PMS」は、Premenstrual Syndromeの略で、月経前症候群のことです。月経の数日前から始まる、精神的または身体的な不快な症状を指します。\n\n例：She is suffering from PMS. (彼女は月経前症候群に苦しんでいる。)"
+    },
+    {
+      "id": 74,
+      "value": "drop some mentos in diet coke",
+      "options": [
+        "コーラを飲む",
+        "メントスを食べる",
+        "メントスとダイエットコークの反応を楽しむ",
+        "炭酸飲料を混ぜる"
+      ],
+      "correctAnswer": "メントスとダイエットコークの反応を楽しむ",
+      "explanation": "メントスをダイエットコークに入れると、急激な炭酸の放出が起こり、勢いよく噴き出す現象を利用した遊びや実験を指します。\n\n例：Let's drop some Mentos in Diet Coke and see what happens. (メントスをダイエットコークに入れて、何が起こるか見てみよう。)"
+    },
+    {
+      "id": 75,
+      "value": "Battlestar",
+      "options": [
+        "お菓子",
+        "人気SFドラマ",
+        "ゲーム",
+        "料理"
+      ],
+      "correctAnswer": "人気SFドラマ",
+      "explanation": "Battlestar Galacticaは、人気SFドラマシリーズの名称です。\n\n例：Do you wanna watch Battlestar? (バトラスターを見たい？)"
+    },
+    {
+      "id": 76,
+      "value": "callback",
+      "options": [
+        "電話をかけ直す",
+        "再会する",
+        "呼び戻し",
+        "キャンセルする"
+      ],
+      "correctAnswer": "呼び戻し",
+      "explanation": "「callback」は、オーディションや面接などで、一度選考から漏れた人に対して、再度連絡を取り、選考の機会を与えることを意味します。特に、有望な候補者に対して行われることが多いです。"
+    },
+    {
+      "id": 77,
+      "value": "lifesaver",
+      "options": [
+        "命綱",
+        "救命士",
+        "恩人",
+        "監視員"
+      ],
+      "correctAnswer": "恩人",
+      "explanation": "「lifesaver」は、文字通りには「命を救う人」ですが、比喩的に、困難な状況を助けてくれた人、非常に役に立つものを指します。感謝の気持ちを込めて使われることが多いです。"
+    },
+    {
+      "id": 78,
+      "value": "run lines",
+      "options": [
+        "急いで線を引く",
+        "セリフ合わせをする",
+        "線を乗り越える",
+        "線を避ける"
+      ],
+      "correctAnswer": "セリフ合わせをする",
+      "explanation": "「run lines」は、演劇や映画などで、俳優がセリフを練習することを意味します。相手役と一緒にセリフを言い合い、流れやタイミングを確認する作業を指します。"
+    },
+    {
+      "id": 79,
+      "value": "panting after",
+      "options": [
+        "後に喘ぐ",
+        "後に熱心に追いかける",
+        "後に絵を描く",
+        "後に料理する"
+      ],
+      "correctAnswer": "後に熱心に追いかける",
+      "explanation": "「pant after」は、文字通りには「息を切らして追いかける」という意味ですが、比喩的に、何かを強く欲し、手に入れようと熱心に努力することを指します。特に、人に対して使われる場合は、相手に夢中になっている様子を表します。"
+    },
+    {
+      "id": 80,
+      "value": "user",
+      "options": [
+        "利用者",
+        "使用者",
+        "人たらし",
+        "犯罪者"
+      ],
+      "correctAnswer": "人たらし",
+      "explanation": "「user」は、人を食い物にする人、利用する人を意味します。相手の好意や弱みにつけ込み、自分の利益のために利用する人を指すネガティブな言葉です。"
+    },
+    {
+      "id": 81,
+      "value": "iceskating through life",
+      "options": [
+        "アイススケートの選手",
+        "人生を楽々と渡る",
+        "氷の上で困る",
+        "スケート教室に通う"
+      ],
+      "correctAnswer": "人生を楽々と渡る",
+      "explanation": "「iceskating through life」は、人生を苦労せずに楽々と渡っていく様子を、アイススケートに例えた表現です。特に、才能や美貌など、生まれ持った有利な条件を活かして成功する人を指します。"
+    },
+    {
+      "id": 82,
+      "value": "creams my corn",
+      "options": [
+        "トウモロコシをクリーム状にする",
+        "気に障る",
+        "トウモロコシ畑に行く",
+        "新しい料理を作る"
+      ],
+      "correctAnswer": "気に障る",
+      "explanation": "「creams my corn」は、アメリカ南部で使われる口語表現で、非常に不快に感じる、イライラするという意味です。相手の言動に対して強い不満や嫌悪感を抱いていることを表します。"
+    },
+    {
+      "id": 83,
+      "value": "interject",
+      "options": [
+        "挿入する",
+        "拒否する",
+        "中断する",
+        "提案する"
+      ],
+      "correctAnswer": "口を挟む、話を遮る",
+      "explanation": "「interject」は、会話や議論に割り込む、口を挟むという意味です。相手の発言を中断して、自分の意見やコメントを述べる際に使われます。フォーマルな場面でも使用可能です。"
+    },
+    {
+      "id": 84,
+      "value": "satellite dish",
+      "options": [
+        "皿洗い機",
+        "衛星放送受信アンテナ",
+        "宇宙食",
+        "人工衛星"
+      ],
+      "correctAnswer": "衛星放送受信アンテナ",
+      "explanation": "「satellite dish」は、衛星放送を受信するためのパラボラアンテナのことです。家庭や施設で衛星放送を視聴するために設置されます。"
+    },
+    {
+      "id": 85,
+      "value": "shields",
+      "options": [
+        "盾",
+        "保護",
+        "防御",
+        "覆い"
+      ],
+      "correctAnswer": "防御",
+      "explanation": "ここではスタートレックの宇宙船が装備している防御壁の事を指しています。比喩的に、自分を守るための心の壁や、利用されないようにするための警戒心を意味します。"
+    },
+    {
+      "id": 86,
+      "value": "leading them on",
+      "options": [
+        "彼らを先導する",
+        "彼らを騙す",
+        "彼らを教育する",
+        "彼らを解放する"
+      ],
+      "correctAnswer": "彼らを騙す",
+      "explanation": "「lead someone on」は、相手に期待を持たせて、実際にはその期待に応えるつもりがない、という意味です。恋愛関係において、相手を弄ぶような行為を指すことが多いです。"
+    },
+    {
+      "id": 87,
+      "value": "way out of line",
+      "options": [
+        "列から外れている",
+        "常識を外れている",
+        "非常に素晴らしい",
+        "非常に疲れている"
+      ],
+      "correctAnswer": "常識を外れている",
+      "explanation": "「out of line」は、常識や礼儀から外れている、不適切であるという意味です。「way out of line」はその強調表現で、度が過ぎている、許容範囲を超えているというニュアンスを持ちます。"
+    },
+    {
+      "id": 88,
+      "value": "lame",
+      "options": [
+        "足が不自由な",
+        "退屈な",
+        "素晴らしい",
+        "面白い"
+      ],
+      "correctAnswer": "退屈な",
+      "explanation": "「lame」は、つまらない、退屈な、または不格好な、という意味です。アイデアやジョーク、言い訳などが面白くない、または説得力がない場合に使われます。"
+    },
+    {
+      "id": 89,
+      "value": "vulnerable",
+      "options": [
+        "強い",
+        "脆弱な",
+        "回復力がある",
+        "攻撃的な"
+      ],
+      "correctAnswer": "脆弱な",
+      "explanation": "「vulnerable」は、傷つきやすい、攻撃を受けやすい、という意味です。物理的な弱さだけでなく、精神的な弱さや感情的な脆さも表します。"
+    },
+    {
+      "id": 90,
+      "value": "break it up",
+      "options": [
+        "それを壊す",
+        "仲裁に入る",
+        "解散する",
+        "分割する"
+      ],
+      "correctAnswer": "仲裁に入る",
+      "explanation": "「break it up」は、喧嘩や争いを止める、仲裁に入るという意味です。特に、口論や小競り合いがエスカレートするのを防ぐために使われます。"
+    },
+    {
+      "id": 91,
+      "value": "comely",
+      "options": [
+        "不恰好な",
+        "魅力的な",
+        "平凡な",
+        "面白い"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「comely」は、古風な言葉で、見た目が美しい、魅力的であるという意味です。特に、女性に対して使われることが多いですが、男性にも使用可能です。"
+    },
+    {
+      "id": 92,
+      "value": "filly",
+      "options": [
+        "若い女性",
+        "子馬",
+        "古い女性",
+        "男性"
+      ],
+      "correctAnswer": "若い女性",
+      "explanation": "「filly」は、若い牝馬（ひんば）を意味しますが、スラングとして、若い女性を指すことがあります。やや軽蔑的なニュアンスを含むことがあります。"
+    },
+    {
+      "id": 93,
+      "value": "broken",
+      "options": [
+        "壊れた",
+        "打ちのめされた",
+        "修理された",
+        "改善された"
+      ],
+      "correctAnswer": "打ちのめされた",
+      "explanation": "ここでは「精神的に打ちのめされた」という意味合いで使用されています。困難な状況や経験によって、精神的に傷つき、弱っている状態を表します。"
+    },
+    {
+      "id": 94,
+      "value": "hooking up",
+      "options": [
+        "フックを取り付ける",
+        "一時的に協力する",
+        "肉体関係を持つ",
+        "釣りをする"
+      ],
+      "correctAnswer": "肉体関係を持つ",
+      "explanation": "「hook up」は、カジュアルな関係を持つ、特に肉体関係を持つという意味です。恋愛関係とは異なり、一時的な関係や軽い付き合いを指します。"
+    },
+    {
+      "id": 95,
+      "value": "live one in real life",
+      "options": [
+        "現実のライブ",
+        "実際の生活で",
+        "本物の体験",
+        "現実に生きている"
+      ],
+      "correctAnswer": "実際の生活で",
+      "explanation": "ドラマの中の売春婦役に対して、現実世界でも同じようなことをしている、という意味の比喩表現です。皮肉や批判的なニュアンスが含まれます。"
+    },
+    {
+      "id": 96,
+      "value": "Oh, thank God you’re home",
+      "options": [
+        "あら、神様、あなたが家にいるのね",
+        "ああ、良かった、あなたが帰ってきて",
+        "神に感謝します、あなたは家にいます",
+        "あら、神様、家を守ってくれてありがとう"
+      ],
+      "correctAnswer": "ああ、良かった、あなたが帰ってきて",
+      "explanation": "「Thank God」は、安堵や喜びを表す表現です。困難な状況から解放されたときや、期待していたことが実現したときに使われます。ここでは、助けを必要としている人が、助けとなる人物が帰宅したことに対して、安堵と喜びを表しています。"
+    },
+    {
+      "id": 97,
+      "value": "Apples and oranges",
+      "options": [
+        "リンゴとオレンジ",
+        "比較にならない",
+        "果物",
+        "両方とも甘い"
+      ],
+      "correctAnswer": "比較にならない",
+      "explanation": "「Apples and oranges」は、全く異なるものを比較しようとすることの無意味さを示すイディオムです。性質や種類が異なるため、比較しても意味がないことを強調する際に用いられます。"
+    },
+    {
+      "id": 98,
+      "value": "May I interject something here?",
+      "options": [
+        "ここで何か挿入してもいいですか？",
+        "何か言ってもいいですか？",
+        "ここで休憩してもいいですか？",
+        "何か手伝いましょうか？"
+      ],
+      "correctAnswer": "何か言ってもいいですか？",
+      "explanation": "「May I interject something here?」は、会話に割り込む際に、丁寧な許可を求める表現です。相手の発言を尊重しつつ、自分の意見や情報を共有したいときに使われます。"
+    },
+    {
+      "id": 99,
+      "value": "Got to run",
+      "options": [
+        "走らなければならない",
+        "行かなくては",
+        "逃げなければならない",
+        "急いで用を足す"
+      ],
+      "correctAnswer": "行かなくては",
+      "explanation": "「Got to run」は、「have got to run」の省略形で、急いでどこかへ行かなければならないときに使われるカジュアルな表現です。別れ際に、時間がないことを伝える際に便利です。"
+    },
+    {
+      "id": 100,
+      "value": "Oh, great now she’s jumping up and down on the bed.",
+      "options": [
+        "あら、彼女はベッドで飛び跳ねている",
+        "彼女はベッドで運動している",
+        "ベッドが新しくて嬉しいんだね",
+        "ベッドを買ってあげよう"
+      ],
+      "correctAnswer": "あら、彼女はベッドで飛び跳ねている",
+      "explanation": "不快感や不満を込めた表現です。騒音や迷惑行為に対する苛立ちを示唆しています。他人の行動に対する否定的な感情を伝える際に用いられます。"
+    }
+  ]
+}

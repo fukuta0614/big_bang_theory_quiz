@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "make up",
+      "options": [
+        "仲直りする",
+        "構成する",
+        "言い訳する",
+        "化粧する"
+      ],
+      "correctAnswer": "構成する",
+      "explanation": "「make up」は、ここでは「作り上げる」「考案する」という意味です。新しいゲームを作るという文脈で使用されています。他にも「仲直りする」「化粧する」「でっちあげる」などの意味があります。"
+    },
+    {
+      "id": 2,
+      "value": "beta tester",
+      "options": [
+        "最終テスト担当者",
+        "初期テスト担当者",
+        "市場調査担当者",
+        "品質管理担当者"
+      ],
+      "correctAnswer": "初期テスト担当者",
+      "explanation": "「beta tester」は、ソフトウェアやゲームなどの開発段階で、一般公開前にテストを行う人のことです。初期段階でのテストを行うため、バグや改善点を見つける役割を担います。"
+    },
+    {
+      "id": 3,
+      "value": "edge",
+      "options": [
+        "優位性",
+        "危険",
+        "限界",
+        "先端"
+      ],
+      "correctAnswer": "優位性",
+      "explanation": "「edge」は、ここでは「有利な点」「優位性」という意味です。他のプレイヤーよりも先にゲームをテストすることで、有利な立場になることを指しています。"
+    },
+    {
+      "id": 4,
+      "value": "pick up",
+      "options": [
+        "拾う",
+        "迎えに行く",
+        "理解する",
+        "中断する"
+      ],
+      "correctAnswer": "迎えに行く",
+      "explanation": "「pick up」は、ここでは「（人を）車で迎えに行く」という意味です。空港で友達を迎えに行くという文脈で使用されています。他にも「拾う」「（知識などを）習得する」「（電話などを）取る」などの意味があります。"
+    },
+    {
+      "id": 5,
+      "value": "crash on (someone's couch)",
+      "options": [
+        "ソファを壊す",
+        "無料で泊まる",
+        "衝突する",
+        "急いで立ち去る"
+      ],
+      "correctAnswer": "無料で泊まる",
+      "explanation": "「crash on someone's couch」は、「（人の家の）ソファで無料で泊まる」という意味の口語的な表現です。一時的に宿泊場所を提供してもらう状況で使われます。"
+    },
+    {
+      "id": 6,
+      "value": "Hang on",
+      "options": [
+        "電話を切る",
+        "待つ",
+        "諦める",
+        "続ける"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「Hang on」は、「ちょっと待って」「落ち着いて」という意味で、相手の発言を遮ったり、注意を促したりする際に使われる口語表現です。"
+    },
+    {
+      "id": 7,
+      "value": "platonic",
+      "options": [
+        "表面的な",
+        "理想的な",
+        "精神的な",
+        "肉体的な"
+      ],
+      "correctAnswer": "精神的な",
+      "explanation": "「platonic」は、「プラトニックな」という意味で、肉体関係のない、精神的な愛情や友情を指します。ここでは、元恋人との関係性が肉体関係を伴わないことを強調しています。"
+    },
+    {
+      "id": 8,
+      "value": "have a thing for",
+      "options": [
+        "嫌悪感を抱く",
+        "興味がある",
+        "軽蔑する",
+        "無関心である"
+      ],
+      "correctAnswer": "興味がある",
+      "explanation": "「have a thing for」は、「～に気がある」「～が好きだ」という意味の口語的な表現です。恋愛感情があることを婉曲的に表現する際に使われます。"
+    },
+    {
+      "id": 9,
+      "value": "yippee",
+      "options": [
+        "おめでとう",
+        "やったー",
+        "残念",
+        "ばか"
+      ],
+      "correctAnswer": "やったー",
+      "explanation": "「yippee」は、喜びや興奮を表す感嘆詞です。ここでは、皮肉を込めて使われています。"
+    },
+    {
+      "id": 10,
+      "value": "pedantic",
+      "options": [
+        "退屈な",
+        "独断的な",
+        "学問的な",
+        "細かすぎる"
+      ],
+      "correctAnswer": "細かすぎる",
+      "explanation": "「pedantic」は、「ペダンチックな」「些細なことにこだわる」という意味で、細かいことを指摘したり、知識をひけらかしたりする人を指す形容詞です。"
+    },
+    {
+      "id": 11,
+      "value": "euphemism",
+      "options": [
+        "遠回しな表現",
+        "直接的な表現",
+        "比喩表現",
+        "誇張表現"
+      ],
+      "correctAnswer": "遠回しな表現",
+      "explanation": "「euphemism」は、「婉曲表現」「遠回しな言い方」という意味です。直接的な表現を避けて、穏やかで間接的な言葉を使うことを指します。"
+    },
+    {
+      "id": 12,
+      "value": "What was your first clue?",
+      "options": [
+        "最初のヒントは何でしたか？",
+        "なぜわからなかったの？",
+        "どうして気づいたの？",
+        "何が問題なの？"
+      ],
+      "correctAnswer": "なぜわからなかったの？",
+      "explanation": "「What was your first clue?」は、皮肉を込めて「なぜそんなことも分からないんだ？」という意味で使われる表現です。相手の明らかな行動や言動に対して、理解できないことを非難するニュアンスが含まれます。"
+    },
+    {
+      "id": 13,
+      "value": "drowning out",
+      "options": [
+        "溺れさせる",
+        "かき消す",
+        "圧倒する",
+        "水浸しにする"
+      ],
+      "correctAnswer": "かき消す",
+      "explanation": "「drown out」は、ここでは「（騒音などで）～をかき消す」という意味です。口論の声を騒音で遮る状況で使用されています。比喩的に、感情や意見などを抑圧する意味でも使われます。"
+    },
+    {
+      "id": 14,
+      "value": "FYI",
+      "options": [
+        "ご参考までに",
+        "おめでとう",
+        "おやすみ",
+        "頑張って"
+      ],
+      "correctAnswer": "ご参考までに",
+      "explanation": "「FYI」は、「For Your Information」の略で、「ご参考までに」「ちなみに」という意味で使われるビジネスシーンでもよく使われる表現です。"
+    },
+    {
+      "id": 15,
+      "value": "spat",
+      "options": [
+        "大げんか",
+        "小競り合い",
+        "親密な会話",
+        "楽しい出来事"
+      ],
+      "correctAnswer": "小競り合い",
+      "explanation": "「spat」は、「口論」「小競り合い」という意味で、深刻ではない、一時的な意見の衝突を指します。ここでは、PennyとLeonardの間の軽い口喧嘩を指しています。"
+    },
+    {
+      "id": 16,
+      "value": "forfeit",
+      "options": [
+        "罰",
+        "放棄",
+        "報酬",
+        "挑戦"
+      ],
+      "correctAnswer": "放棄",
+      "explanation": "「forfeit」は、「（権利などを）失う」「放棄する」という意味です。ここでは、Pennyがゲームを放棄したことを指しています。"
+    },
+    {
+      "id": 17,
+      "value": "compelling",
+      "options": [
+        "退屈な",
+        "強制的な",
+        "魅力的な",
+        "複雑な"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「compelling」は、「人を引きつける」「興味深い」という意味です。ここでは、ゲームをより面白くするために、という意味で使われています。"
+    },
+    {
+      "id": 18,
+      "value": "discredited",
+      "options": [
+        "信用された",
+        "修正された",
+        "立証された",
+        "信用を失った"
+      ],
+      "correctAnswer": "信用を失った",
+      "explanation": "「discredited」は、「信用を失った」「評判を落とした」という意味です。ここでは、錬金術が科学的な根拠がないとして否定されていることを指しています。"
+    },
+    {
+      "id": 19,
+      "value": "end up being",
+      "options": [
+        "成功する",
+        "非難される",
+        "尊敬される",
+        "無視される"
+      ],
+      "correctAnswer": "非難される",
+      "explanation": "「end up being」は、「最終的に～になる」「結局～になる」という意味です。ここでは、Leonardが少し発言しただけで、最終的に悪者扱いされる状況を指しています。"
+    },
+    {
+      "id": 20,
+      "value": "roll the dice",
+      "options": [
+        "賭けをする",
+        "リスクを冒す",
+        "ゲームを始める",
+        "問題を解決する"
+      ],
+      "correctAnswer": "リスクを冒す",
+      "explanation": "「roll the dice」は、「サイコロを振る」という意味ですが、比喩的に「運を天に任せる」「一か八かの勝負に出る」という意味で使われます。"
+    },
+    {
+      "id": 21,
+      "value": "natural at",
+      "options": [
+        "自然な",
+        "得意な",
+        "不器用な",
+        "無関心な"
+      ],
+      "correctAnswer": "得意な",
+      "explanation": "「natural at」は、「～が得意」「～の才能がある」という意味で、生まれつきの才能や素質があることを表します。Pennyがゲームがうまいことを褒める文脈で使用されています。"
+    },
+    {
+      "id": 22,
+      "value": "nuclear meltdown",
+      "options": [
+        "核融合",
+        "核分裂",
+        "炉心溶融",
+        "放射線漏れ"
+      ],
+      "correctAnswer": "炉心溶融",
+      "explanation": "「nuclear meltdown」は、「炉心溶融」という意味で、原子炉の炉心が過熱によって溶けてしまう重大な事故を指します。ゲームの状況を説明する際に使用され、深刻な事態をユーモラスに表現しています。"
+    },
+    {
+      "id": 23,
+      "value": "lose one turn",
+      "options": [
+        "チャンスを増やす",
+        "勝利する",
+        "休憩する",
+        "1回休み"
+      ],
+      "correctAnswer": "1回休み",
+      "explanation": "「lose one turn」は、ゲームなどで「1回休み」という意味です。不利な状況を表す際に使われます。ここでは、ゲーム内で不利な状況になることを指しています。"
+    },
+    {
+      "id": 24,
+      "value": "mutually exclusive",
+      "options": [
+        "相互依存的",
+        "排他的",
+        "協力的な",
+        "類似している"
+      ],
+      "correctAnswer": "排他的",
+      "explanation": "「mutually exclusive」は、「相互排他的な」「両立しない」という意味で、二つの事柄が同時に存在し得ないことを表します。ここでは、子供であることと愚か者であることが両立しないわけではない、という意味で使用されています。"
+    },
+    {
+      "id": 25,
+      "value": "on the bright side",
+      "options": [
+        "楽観的に",
+        "悲観的に",
+        "客観的に",
+        "主観的に"
+      ],
+      "correctAnswer": "楽観的に",
+      "explanation": "「on the bright side」は、「良い面を見れば」「楽観的に考えると」という意味で、困難な状況でもポジティブな側面を見ようとする際に使われます。Pennyとの口論の後、Leonardを慰めるために使われています。"
+    },
+    {
+      "id": 26,
+      "value": "cool with",
+      "options": [
+        "反対する",
+        "気にしない",
+        "推奨する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "気にしない",
+      "explanation": "「cool with」は、何かに対して問題がない、気にしない、または賛成するという意味です。よりフォーマルな「agree with」よりもカジュアルな表現です。\n\n例：I'm cool with that plan. (その計画で問題ないよ。)"
+    },
+    {
+      "id": 27,
+      "value": "do me a favor",
+      "options": [
+        "手伝う",
+        "迷惑をかける",
+        "親切にする",
+        "見捨てる"
+      ],
+      "correctAnswer": "親切にする",
+      "explanation": "「do someone a favor」は、人に親切にする、人のために何かをしてあげるという意味です。頼み事をする際にも使われます。\n\n例：Could you do me a favor and close the window? (窓を閉めてくれると助かるんだけど。)"
+    },
+    {
+      "id": 28,
+      "value": "make the lights",
+      "options": [
+        "信号を無視する",
+        "信号に全て引っかかる",
+        "全ての信号に間に合う",
+        "ライトを消す"
+      ],
+      "correctAnswer": "全ての信号に間に合う",
+      "explanation": "「make the lights」は、運転中に全ての信号に間に合い、停止せずに進むことを意味します。時間通りに目的地に到着するために急いでいる状況で使われることが多いです。\n\n例：If we hurry, we can make all the lights. (急げば、全ての信号に間に合うよ。)"
+    },
+    {
+      "id": 29,
+      "value": "pounded",
+      "options": [
+        "少しずつ飲む",
+        "こぼす",
+        "勢いよく飲む",
+        "混ぜる"
+      ],
+      "correctAnswer": "勢いよく飲む",
+      "explanation": "「pound」は、ここでは飲み物を勢いよく飲むという意味です。特に大量の飲み物を一気に飲む様子を表します。スラング的なニュアンスがあります。\n\n例：He pounded the beer in one gulp. (彼はビールを一気に飲み干した。)"
+    },
+    {
+      "id": 30,
+      "value": "hang on",
+      "options": [
+        "諦める",
+        "待つ",
+        "続ける",
+        "中断する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、少しの間待つ、または辛抱するという意味です。電話を切らないで待つ場合や、困難な状況で持ちこたえる場合に使われます。\n\n例：Hang on a second, I'll be right back. (ちょっと待ってて、すぐ戻るから。)"
+    },
+    {
+      "id": 31,
+      "value": "backed off",
+      "options": [
+        "支援する",
+        "撤退する",
+        "攻撃する",
+        "同意する"
+      ],
+      "correctAnswer": "撤退する",
+      "explanation": "「back off」は、ある行動や主張から撤退する、または距離を置くという意味です。対立や議論を避けるために使われることが多いです。\n\n例：He backed off when he realized he was wrong. (彼は自分が間違っていると気づき、撤退した。)"
+    },
+    {
+      "id": 32,
+      "value": "make up for",
+      "options": [
+        "考慮する",
+        "償う",
+        "非難する",
+        "無視する"
+      ],
+      "correctAnswer": "償う",
+      "explanation": "「make up for」は、何かを埋め合わせる、償うという意味です。過ちや不足を補うために使われます。\n\n例：I'll make up for being late. (遅れた分は埋め合わせます。)"
+    },
+    {
+      "id": 33,
+      "value": "mama's boy",
+      "options": [
+        "冒険家",
+        "マザコン",
+        "秀才",
+        "臆病者"
+      ],
+      "correctAnswer": "マザコン",
+      "explanation": "「mama's boy」は、母親に過度に依存している男性を指す軽蔑的な表現です。自立心がなく、母親の意見や指示に強く影響される人を意味します。\n\n例：Everyone says he's a mama's boy because he still lives with his mother. (彼が母親とまだ一緒に住んでいるから、みんな彼をマザコンだと言う。)"
+    },
+    {
+      "id": 34,
+      "value": "what got him so upset?",
+      "options": [
+        "何が彼を喜ばせたのか",
+        "何が彼を怒らせたのか",
+        "何が彼を悲しませたのか",
+        "何が彼を混乱させたのか"
+      ],
+      "correctAnswer": "何が彼を怒らせたのか",
+      "explanation": "「What got him so upset?」は、何が彼をそんなに怒らせたのか、または動揺させたのかを尋ねる表現です。人の感情的な反応の原因を知りたい時に使います。\n\n例：I wonder what got him so upset. (何が彼をそんなに怒らせたのか気になる。)"
+    },
+    {
+      "id": 35,
+      "value": "out of line",
+      "options": [
+        "横並び",
+        "適切",
+        "不適切",
+        "準備万端"
+      ],
+      "correctAnswer": "不適切",
+      "explanation": "「out of line」は、行動や言動が不適切である、または許容範囲を超えているという意味です。社会的なルールやマナーに反している場合に使われます。\n\n例：His comments were way out of line. (彼のコメントは完全に不適切だった。)"
+    },
+    {
+      "id": 36,
+      "value": "dumps you",
+      "options": [
+        "応援する",
+        "見捨てる",
+        "励ます",
+        "無視する"
+      ],
+      "correctAnswer": "見捨てる",
+      "explanation": "「dump someone」は、誰かを（恋人関係で）振る、または見捨てるという意味です。関係を終わらせる行為を指します。\n\n例：She dumped him because he was always late. (彼がいつも遅刻するから、彼女は彼を振った。)"
+    },
+    {
+      "id": 37,
+      "value": "figure out",
+      "options": [
+        "隠す",
+        "理解する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」は、何かを理解する、解決する、または見つけ出すという意味です。問題や謎を解明する際に使われます。\n\n例：I need to figure out how to fix this. (これをどう直すか理解する必要がある。)"
+    },
+    {
+      "id": 38,
+      "value": "fold",
+      "options": [
+        "成功する",
+        "諦める",
+        "挑戦する",
+        "続ける"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「fold」は、ここでは比喩的に、プレッシャーに負けて諦める、または降参するという意味です。特に交渉や競争の状況で使われます。\n\n例：He folded under pressure. (彼はプレッシャーに負けて諦めた。)"
+    },
+    {
+      "id": 39,
+      "value": "at the very least",
+      "options": [
+        "せいぜい",
+        "少なくとも",
+        "詳細には",
+        "完全に"
+      ],
+      "correctAnswer": "少なくとも",
+      "explanation": "「at the very least」は、少なくとも、または最低限という意味です。ある条件や要求の最低ラインを示す際に使われます。\n\n例：At the very least, you should apologize. (少なくとも、謝罪するべきだ。)"
+    },
+    {
+      "id": 40,
+      "value": "subtle indicators",
+      "options": [
+        "明白な兆候",
+        "微妙な兆候",
+        "重要な要素",
+        "外部からの圧力"
+      ],
+      "correctAnswer": "微妙な兆候",
+      "explanation": "「subtle indicators」は、はっきりとは分からない、微妙な兆候やサインという意味です。注意深く観察しないと見過ごしてしまうようなものを指します。\n\n例：There were subtle indicators that she was unhappy. (彼女が不満であるという微妙な兆候があった。)"
+    },
+    {
+      "id": 41,
+      "value": "closing early",
+      "options": [
+        "早く開店する",
+        "閉店セール",
+        "休業する",
+        "早く閉店する"
+      ],
+      "correctAnswer": "早く閉店する",
+      "explanation": "「closing early」は、通常よりも早く店や施設を閉めることを意味します。営業時間を短縮する場合に使われます。\n\n例：The store is closing early today due to the weather. (今日は天候のため、店は早く閉店します。)"
+    },
+    {
+      "id": 42,
+      "value": "let's face it",
+      "options": [
+        "逃げよう",
+        "正直に言おう",
+        "戦おう",
+        "忘れよう"
+      ],
+      "correctAnswer": "正直に言おう",
+      "explanation": "「let's face it」は、現実を受け入れよう、または正直に言おうという意味です。不快な事実や真実を認める際に使われます。\n\n例：Let's face it, we're not going to win. (正直に言って、私たちは勝てないだろう。)"
+    },
+    {
+      "id": 43,
+      "value": "pointlessly offered",
+      "options": [
+        "丁寧に提供された",
+        "無意味に提供された",
+        "喜んで提供された",
+        "強制的に提供された"
+      ],
+      "correctAnswer": "無意味に提供された",
+      "explanation": "「pointlessly offered」は、無意味に、または目的なく提供されたという意味です。提案や申し出が無駄であることを示します。\n\n例：The advice was pointlessly offered because no one listened. (そのアドバイスは誰も聞かなかったので、無意味に提供された。)"
+    },
+    {
+      "id": 44,
+      "value": "paradigm",
+      "options": [
+        "逆説",
+        "模範",
+        "パラダイム",
+        "神秘"
+      ],
+      "correctAnswer": "パラダイム",
+      "explanation": "「paradigm」は、認識や行動の典型的なパターンやモデルを意味します。特定の分野や文脈における基本的な枠組みや考え方を指します。\n\n例：The new discovery shifted the scientific paradigm. (その新しい発見は科学的なパラダイムを変えた。)"
+    },
+    {
+      "id": 45,
+      "value": "take your mind off things",
+      "options": [
+        "集中力を高める",
+        "物事を整理する",
+        "気を紛らわせる",
+        "記憶力を試す"
+      ],
+      "correctAnswer": "気を紛らわせる",
+      "explanation": "「take your mind off things」は、心配事や悩みから気を紛らわせる、気分転換をするという意味です。リラックスしたり、楽しいことをしたりして、ストレスを軽減する際に使われます。\n\n例：A vacation will help you take your mind off things. (休暇はあなたの気を紛らわせるのに役立つでしょう。)"
+    },
+    {
+      "id": 46,
+      "value": "as expected",
+      "options": [
+        "予想外に",
+        "予想通りに",
+        "非常に残念ながら",
+        "信じられないことに"
+      ],
+      "correctAnswer": "予想通りに",
+      "explanation": "「as expected」は、予想通りに、または予想された通りにという意味です。事態が事前に予測していた通りに進展したことを示します。\n\n例：The meeting went as expected. (会議は予想通りに進んだ。)"
+    },
+    {
+      "id": 47,
+      "value": "suffer through",
+      "options": [
+        "楽しむ",
+        "耐え抜く",
+        "計画する",
+        "無視する"
+      ],
+      "correctAnswer": "耐え抜く",
+      "explanation": "「suffer through」は、苦痛や困難を耐え忍ぶ、我慢するという意味です。不快な状況や経験を乗り越える際に使われます。\n\n例：I had to suffer through a long and boring lecture. (長く退屈な講義を耐え抜かなければならなかった。)"
+    },
+    {
+      "id": 48,
+      "value": "rather unpleasant",
+      "options": [
+        "非常に楽しい",
+        "やや不快",
+        "完全に満足",
+        "とても感動的"
+      ],
+      "correctAnswer": "やや不快",
+      "explanation": "「rather unpleasant」は、やや不快である、または少しばかり嫌な感じがするという意味です。完全な不快感ではないものの、好ましくない状況を指します。\n\n例：The smell in the room was rather unpleasant. (部屋の臭いはやや不快だった。)"
+    },
+    {
+      "id": 49,
+      "value": "civil",
+      "options": [
+        "無礼な",
+        "礼儀正しい",
+        "批判的な",
+        "内密の"
+      ],
+      "correctAnswer": "礼儀正しい",
+      "explanation": "「civil」は、礼儀正しい、または丁寧なという意味です。特に敵対的な状況や意見の相違がある場合でも、相手に対して敬意を払う態度を指します。\n\n例：Even though they disagreed, they remained civil. (彼らは意見が違っていたが、礼儀正しく接した。)"
+    },
+    {
+      "id": 50,
+      "value": "wrong answer",
+      "options": [
+        "正しい解答",
+        "誤った解答",
+        "部分的な解答",
+        "未回答"
+      ],
+      "correctAnswer": "誤った解答",
+      "explanation": "「wrong answer」は、正しくない解答、または誤った答えという意味です。質問や問題に対する解答が正解ではないことを示します。\n\n例：That's the wrong answer, try again. (それは誤った解答です、もう一度試してください。)"
+    },
+    {
+      "id": 51,
+      "value": "come crawling back",
+      "options": [
+        "急いで戻る",
+        "謝って許しを請う",
+        "秘密裏に戻る",
+        "堂々と帰る"
+      ],
+      "correctAnswer": "謝って許しを請う",
+      "explanation": "「come crawling back」は、過ちを認めて、相手に許しを請うために戻ってくる、という意味です。プライドを捨てて、相手にへりくだるニュアンスを含みます。例文: After their argument, he had to come crawling back to her to apologize."
+    },
+    {
+      "id": 52,
+      "value": "Hence",
+      "options": [
+        "それゆえに",
+        "例えば",
+        "それにもかかわらず",
+        "それについて"
+      ],
+      "correctAnswer": "それゆえに",
+      "explanation": "「Hence」は、「したがって」「それゆえに」という意味の接続副詞です。ある事実や理由から導かれる結論を示す際に使われます。フォーマルな文脈で使用されることが多いです。例文: The weather was bad; hence, the cancellation of the event."
+    },
+    {
+      "id": 53,
+      "value": "usual",
+      "options": [
+        "珍しいもの",
+        "普通のもの",
+        "特別なもの",
+        "高価なもの"
+      ],
+      "correctAnswer": "普通のもの",
+      "explanation": "「usual」は、「いつもの」「普段の」という意味です。特定の人が習慣的に注文したり、行ったりするものを指します。例文: I'll have my usual coffee, please."
+    },
+    {
+      "id": 54,
+      "value": "overreacting",
+      "options": [
+        "反応しない",
+        "過剰に反応する",
+        "冷静に反応する",
+        "無関心でいる"
+      ],
+      "correctAnswer": "過剰に反応する",
+      "explanation": "「overreact」は、「過剰に反応する」「大げさに騒ぐ」という意味です。些細なことに対して感情的になりすぎる様子を表します。例文: Don't overreact to his criticism; he's just trying to help."
+    },
+    {
+      "id": 55,
+      "value": "intolerable",
+      "options": [
+        "耐え難い",
+        "我慢できる",
+        "楽しい",
+        "素晴らしい"
+      ],
+      "correctAnswer": "耐え難い",
+      "explanation": "「intolerable」は、「耐えられない」「我慢できない」という意味です。苦痛や不快感が非常に強く、許容できない状態を表します。例文: The noise from the construction site was intolerable."
+    },
+    {
+      "id": 56,
+      "value": "I don’t follow",
+      "options": [
+        "理解できない",
+        "賛成できない",
+        "興味がない",
+        "同意する"
+      ],
+      "correctAnswer": "理解できない",
+      "explanation": "「I don't follow」は、「（あなたの言っていることが）理解できない」という意味です。相手の発言や論理展開についていけない時に使います。例文: I don't follow. Could you please explain that again?"
+    },
+    {
+      "id": 57,
+      "value": "ad argumentum",
+      "options": [
+        "議論のために",
+        "証拠として",
+        "真実として",
+        "個人的に"
+      ],
+      "correctAnswer": "議論のために",
+      "explanation": "「ad argumentum」はラテン語由来の表現で、「議論のために」「仮に～として」という意味です。特定の主張や仮説を議論の前提として受け入れる際に使われます。例文: Ad argumentum, let's assume that the Earth is flat."
+    },
+    {
+      "id": 58,
+      "value": "transgressions",
+      "options": [
+        "美徳",
+        "違反行為",
+        "成功",
+        "貢献"
+      ],
+      "correctAnswer": "違反行為",
+      "explanation": "「transgression」は、「違反」「罪」「過ち」という意味です。道徳的、法的、あるいは社会的なルールや境界線を越える行為を指します。例文: He was punished for his transgressions."
+    },
+    {
+      "id": 59,
+      "value": "overlooked",
+      "options": [
+        "見過ごされた",
+        "強調された",
+        "無視された",
+        "改善された"
+      ],
+      "correctAnswer": "見過ごされた",
+      "explanation": "「overlook」は、「見落とす」「見過ごす」という意味です。意図的ではなく、気づかずに放置することを指します。また、「大目に見る」という意味合いも持ちます。例文: He overlooked her mistakes because he valued her friendship."
+    },
+    {
+      "id": 60,
+      "value": "return the favor",
+      "options": [
+        "恩を返す",
+        "無視する",
+        "手伝わない",
+        "見捨てる"
+      ],
+      "correctAnswer": "恩を返す",
+      "explanation": "「return the favor」は、「恩を返す」「お返しをする」という意味です。過去に受けた親切や好意に対して、同様の行為で応えることを指します。例文: She helped me move last year, so I wanted to return the favor when she needed help."
+    },
+    {
+      "id": 61,
+      "value": "hold your horses",
+      "options": [
+        "急いで",
+        "落ち着いて",
+        "諦めて",
+        "頑張って"
+      ],
+      "correctAnswer": "落ち着いて",
+      "explanation": "「hold your horses」は、「落ち着いて」「焦らないで」「待って」という意味のイディオムです。相手をなだめたり、行動を一時停止させたりする際に使われます。例文: Hold your horses! We need to plan this carefully."
+    },
+    {
+      "id": 62,
+      "value": "plethora",
+      "options": [
+        "不足",
+        "過多",
+        "正確",
+        "希少"
+      ],
+      "correctAnswer": "過多",
+      "explanation": "「plethora」は、「過多」「多量」という意味です。必要以上に多く存在することを表します。例文: There's a plethora of books on the subject."
+    },
+    {
+      "id": 63,
+      "value": "amorous activities",
+      "options": [
+        "運動",
+        "恋愛行為",
+        "仕事",
+        "食事"
+      ],
+      "correctAnswer": "恋愛行為",
+      "explanation": "「amorous」は、「恋愛の」「愛情深い」という意味で、「amorous activities」は恋愛に関わる活動、特に性的なニュアンスを含む親密な行為を指します。例文: The couple enjoyed their amorous activities in private."
+    },
+    {
+      "id": 64,
+      "value": "tardiness",
+      "options": [
+        "勤勉",
+        "遅刻癖",
+        "正確さ",
+        "几帳面さ"
+      ],
+      "correctAnswer": "遅刻癖",
+      "explanation": "「tardiness」は、「遅刻」「遅延」という意味です。時間通りに到着しないこと、または物事が予定より遅れることを指します。例文: His tardiness was a constant problem at work."
+    },
+    {
+      "id": 65,
+      "value": "undertipped",
+      "options": [
+        "過剰なチップ",
+        "少ないチップ",
+        "チップなし",
+        "標準的なチップ"
+      ],
+      "correctAnswer": "少ないチップ",
+      "explanation": "「undertip」は、「（チップを）少なく払いすぎる」という意味です。サービスに対する感謝の気持ちを示すチップが、通常よりも少ない金額である状態を指します。例文: The waitress felt undertipped by the rude customer."
+    },
+    {
+      "id": 66,
+      "value": "Do me a favor",
+      "options": [
+        "手伝って",
+        "嫌がらせをして",
+        "無視して",
+        "邪魔をして"
+      ],
+      "correctAnswer": "手伝って",
+      "explanation": "「Do me a favor」は、「お願いがある」「頼みがある」という意味です。人に何かを頼む際に使われる表現です。例文: Do me a favor and close the window."
+    },
+    {
+      "id": 67,
+      "value": "live with",
+      "options": [
+        "一緒に暮らす",
+        "我慢する",
+        "楽しむ",
+        "無視する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「live with」は、「（不快なことや困難な状況を）我慢する」「受け入れる」という意味です。完全に解決できない問題や状況に対して、それを受け入れて生活することを指します。例文: I don't like his habits, but I can live with them."
+    },
+    {
+      "id": 68,
+      "value": "casually informing",
+      "options": [
+        "丁寧に知らせる",
+        "さりげなく知らせる",
+        "公式に発表する",
+        "秘密裏に伝える"
+      ],
+      "correctAnswer": "さりげなく知らせる",
+      "explanation": "「casually informing」は、「何気なく知らせる」「さりげなく伝える」という意味です。深刻さや重要性を強調せずに、気軽に情報を伝える様子を表します。例文: He casually informed me that he was moving to another country."
+    },
+    {
+      "id": 69,
+      "value": "Come on",
+      "options": [
+        "やめて",
+        "頑張って",
+        "落ち着いて",
+        "急いで"
+      ],
+      "correctAnswer": "やめて",
+      "explanation": "「Come on」は、様々な意味を持つ表現ですが、ここでは「いい加減にして」「まさか」「冗談でしょう」といった意味合いで、相手の言動に反論したり、不満や驚きを表したりする際に使われます。例文: Come on, you can't be serious!"
+    },
+    {
+      "id": 70,
+      "value": "freaked him out",
+      "options": [
+        "喜ばせた",
+        "怖がらせた",
+        "感動させた",
+        "安心させた"
+      ],
+      "correctAnswer": "怖がらせた",
+      "explanation": "「freak someone out」は、「（人を）怖がらせる」「びっくりさせる」「パニックにさせる」という意味です。強い感情的な反応を引き起こすことを指します。例文: The loud noise freaked him out."
+    },
+    {
+      "id": 71,
+      "value": "walk away",
+      "options": [
+        "立ち去る",
+        "近づく",
+        "踊る",
+        "歌う"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "「walk away」は、「立ち去る」「離れる」という意味です。問題や困難から逃れるために、その場を去ることを指します。例文: She got angry and walked away from the argument."
+    },
+    {
+      "id": 72,
+      "value": "read your mind",
+      "options": [
+        "心を読める",
+        "秘密を守る",
+        "嘘をつく",
+        "考えるのをやめる"
+      ],
+      "correctAnswer": "心を読める",
+      "explanation": "「read someone's mind」は、「（人の）心を読む」という意味です。相手が考えていることを推測したり、理解したりすることを指します。通常は、文字通りの意味ではなく、比喩的に使われます。例文: I can't read your mind, so you have to tell me what you want."
+    },
+    {
+      "id": 73,
+      "value": "Why didn’t you say so?",
+      "options": [
+        "なぜ言わなかったの？",
+        "どうしてそう言うの？",
+        "何を言っているの？",
+        "言ってくれ"
+      ],
+      "correctAnswer": "なぜ言わなかったの？",
+      "explanation": "「Why didn’t you say so?」は、「そう言ってくれればよかったのに」「なぜ先に言わなかったの？」という意味です。相手が重要な情報を伝えなかったことに対して、不満や軽い非難の気持ちを表します。例文: If you needed help, why didn't you say so?"
+    },
+    {
+      "id": 74,
+      "value": "permission",
+      "options": [
+        "許可",
+        "禁止",
+        "命令",
+        "無視"
+      ],
+      "correctAnswer": "許可",
+      "explanation": "「permission」は、「許可」「許可証」という意味です。何かをするための承認や許可を得ることを指します。例文: You need permission to enter this area."
+    },
+    {
+      "id": 75,
+      "value": "Damn",
+      "options": [
+        "素晴らしい",
+        "くそ",
+        "ありがとう",
+        "こんにちは"
+      ],
+      "correctAnswer": "くそ",
+      "explanation": "「Damn」は、怒りや不満、失望などを表す時に使われる強い言葉です。日本語の「くそ」「ちくしょう」などに近いニュアンスを持ちます。フォーマルな場では避けるべき表現です。例文: Damn, I forgot my keys!"
+    },
+    {
+      "id": 76,
+      "value": "critical juncture",
+      "options": [
+        "重要な段階",
+        "簡単な仕事",
+        "不明確な点",
+        "最終決定"
+      ],
+      "correctAnswer": "重要な段階",
+      "explanation": "「critical juncture」は、物事が大きく変化する可能性のある重要な時点や局面を指します。重大な決断や転換期を意味し、その後の展開に大きな影響を与える状況を表します。ビジネス、政治、個人的な状況など、様々な文脈で使用されます。\n\n例：The company is at a critical juncture in its history. (その会社は歴史における重要な局面に立っている。)"
+    },
+    {
+      "id": 77,
+      "value": "flying in",
+      "options": [
+        "急いで逃げる",
+        "空を飛ぶ",
+        "飛行機でやってくる",
+        "急成長する"
+      ],
+      "correctAnswer": "飛行機でやってくる",
+      "explanation": "「fly in」は、飛行機で到着するという意味です。特定の場所やイベントのために、一時的に飛行機で移動してくる状況を表します。ビジネスや個人的な目的での訪問によく使われます。\n\n例：She's flying in from New York for the conference. (彼女は会議のためにニューヨークから飛行機でやってくる。)"
+    },
+    {
+      "id": 78,
+      "value": "set me up with",
+      "options": [
+        "私をだます",
+        "私を設立する",
+        "私を紹介する",
+        "私を困らせる"
+      ],
+      "correctAnswer": "私を紹介する",
+      "explanation": "「set someone up with」は、誰かと誰かを（恋愛関係を期待して）紹介するという意味です。デートや交際の機会を作るために使われる表現です。親しい友人や家族が、相手を見つける手助けをする際によく用いられます。\n\n例：My friend set me up with a really nice guy. (友達がとても素敵な男性を紹介してくれた。)"
+    },
+    {
+      "id": 79,
+      "value": "get in good with",
+      "options": [
+        "仲良くなる",
+        "良い結果を得る",
+        "中に入る",
+        "親しくなる"
+      ],
+      "correctAnswer": "仲良くなる",
+      "explanation": "「get in good with」は、特定の人と良好な関係を築く、取り入るという意味です。相手からの好意や協力を得るために、意図的に親しくなろうとするニュアンスが含まれます。\n\n例：He's trying to get in good with the boss. (彼は上司に取り入ろうとしている。)"
+    },
+    {
+      "id": 80,
+      "value": "self-esteem",
+      "options": [
+        "自己管理",
+        "自己中心的",
+        "自尊心",
+        "自己満足"
+      ],
+      "correctAnswer": "自尊心",
+      "explanation": "「self-esteem」は、自己肯定感や自尊心という意味です。自分自身を価値ある存在として認識し、尊重する感情を指します。高い自尊心は精神的な健康や幸福に不可欠であり、自信や積極性にもつながります。\n\n例：She has high self-esteem. (彼女は自尊心が高い。)"
+    },
+    {
+      "id": 81,
+      "value": "below the belt",
+      "options": [
+        "ベルトの下",
+        "卑怯な",
+        "予期せぬ",
+        "正直な"
+      ],
+      "correctAnswer": "卑怯な",
+      "explanation": "「below the belt」は、ボクシングでベルトラインより下を攻撃することが反則であることから、卑怯な、不公平な、または相手を深く傷つけるような行為や発言を指します。道徳的に許されない手段を用いるニュアンスが含まれます。\n\n例：That comment was really below the belt. (そのコメントは本当にひどかった。)"
+    },
+    {
+      "id": 82,
+      "value": "hitting your imaginary brake",
+      "options": [
+        "想像上のブレーキを踏む",
+        "安全運転をする",
+        "運転が下手",
+        "心配性"
+      ],
+      "correctAnswer": "心配性",
+      "explanation": "ここでは比喩表現として使われており、実際には存在しないブレーキを踏むかのように、Pennyの運転に対してLeonardが過度に心配している様子を表しています。「imaginary」という単語が、Leonardの不安や心配が現実には根拠のないものであることを強調しています。\n\n例：Stop hitting your imaginary brake! I know what I'm doing. (そんなに心配しないで！分かってるから。)"
+    },
+    {
+      "id": 83,
+      "value": "run a stop sign",
+      "options": [
+        "ストップサインを設置する",
+        "ストップサインを無視する",
+        "ストップサインを守る",
+        "ストップサインを修理する"
+      ],
+      "correctAnswer": "ストップサインを無視する",
+      "explanation": "「run a stop sign」は、自動車などが一時停止の標識を無視して通過するという意味です。交通ルールに違反する行為であり、事故の原因となる可能性があります。\n\n例：He ran a stop sign and almost caused an accident. (彼は一時停止の標識を無視して、危うく事故を起こしそうになった。)"
+    },
+    {
+      "id": 84,
+      "value": "For God's sake",
+      "options": [
+        "神のために",
+        "まさか",
+        "勘弁してくれ",
+        "神に感謝する"
+      ],
+      "correctAnswer": "勘弁してくれ",
+      "explanation": "「For God's sake」は、驚き、いらだち、または懇願を表す表現です。「頼むから」「勘弁してくれ」「一体全体」といったニュアンスで使われます。フォーマルな場面では避けるべき表現です。\n\n例：For God's sake, be quiet! (頼むから静かにしてくれ！)"
+    },
+    {
+      "id": 85,
+      "value": "home invasion",
+      "options": [
+        "家の改築",
+        "家庭訪問",
+        "住宅侵入",
+        "家の購入"
+      ],
+      "correctAnswer": "住宅侵入",
+      "explanation": "「home invasion」は、住居侵入、特に強盗目的で住居に侵入することを指します。多くの場合、住人が在宅中に発生し、暴力や脅迫を伴うことがあります。深刻な犯罪行為として扱われます。\n\n例：The police are investigating a home invasion that occurred last night. (警察は昨夜発生した住宅侵入事件を捜査している。)"
+    },
+    {
+      "id": 86,
+      "value": "hearing things",
+      "options": [
+        "噂を聞く",
+        "幻聴が聞こえる",
+        "秘密の話を聞く",
+        "良い知らせを聞く"
+      ],
+      "correctAnswer": "幻聴が聞こえる",
+      "explanation": "「hearing things」は、実際には存在しない音や声が聞こえる、つまり幻聴が聞こえるという意味です。精神的な状態や健康状態に問題がある場合に使われることがあります。\n\n例：Are you hearing things? I didn't say anything. (幻聴でも聞こえているの？何も言ってないよ。)"
+    },
+    {
+      "id": 87,
+      "value": "built himself a little nest",
+      "options": [
+        "巣を作る",
+        "隠れ家を作る",
+        "新しい家を建てる",
+        "快適な場所を見つける"
+      ],
+      "correctAnswer": "隠れ家を作る",
+      "explanation": "「build a nest」は、鳥が巣を作るように、人が快適で安全な場所を作るという意味で使われます。ここでは、Sheldonが漫画本店の特定の一角を自分だけの空間にして、落ち着いている様子を比喩的に表現しています。\n\n例：The child built himself a little nest out of blankets and pillows. (子供は毛布と枕で自分だけの小さな隠れ家を作った。)"
+    },
+    {
+      "id": 88,
+      "value": "no big thing",
+      "options": [
+        "大きな出来事",
+        "何でもないこと",
+        "重要な問題",
+        "秘密"
+      ],
+      "correctAnswer": "何でもないこと",
+      "explanation": "「no big thing」は、大したことない、たいした問題ではないという意味です。問題を軽く見せたり、重要性を否定したりする際に使われます。日常会話でよく使われる表現です。\n\n例：It's no big thing, don't worry about it. (大したことないから、心配しないで。)"
+    },
+    {
+      "id": 89,
+      "value": "alternate dimension",
+      "options": [
+        "別の場所",
+        "代替手段",
+        "並行世界",
+        "秘密の場所"
+      ],
+      "correctAnswer": "並行世界",
+      "explanation": "「alternate dimension」は、並行世界、異次元という意味です。SFやファンタジー作品でよく使われ、現実とは異なる物理法則や歴史を持つ世界を指します。現実逃避の手段としても用いられることがあります。\n\n例：The story is set in an alternate dimension where magic is real. (その物語は魔法が実在する異次元を舞台にしている。)"
+    },
+    {
+      "id": 90,
+      "value": "the next thing you know",
+      "options": [
+        "次に知っていること",
+        "あっという間に",
+        "重要なこと",
+        "理解すること"
+      ],
+      "correctAnswer": "あっという間に",
+      "explanation": "「the next thing you know」は、ある出来事の直後に予期せぬ事態が起こることを表す表現です。「気がついたら」「あっという間に」といったニュアンスで使われ、時間の経過や状況の変化が急であることを強調します。\n\n例：I started reading the book, and the next thing I knew, it was morning. (本を読み始めたら、あっという間に朝になっていた。)"
+    },
+    {
+      "id": 91,
+      "value": "ground glass",
+      "options": [
+        "色付きガラス",
+        "研磨されたガラス",
+        "粉末ガラス",
+        "強化ガラス"
+      ],
+      "correctAnswer": "粉末ガラス",
+      "explanation": "「ground glass」は、粉末状のガラスという意味です。ここでは、Sheldonの母親が父親に復讐するために、粉末状のガラスをミートローフに入れるという、非常に危険で非道徳的な行為を示唆しています。粉末ガラスは摂取すると内臓を傷つける可能性があるため、毒物として用いられることがあります。\n\n例：In the past, ground glass has been used as a form of poison. (昔、粉末ガラスは毒の一種として使われていた。)"
+    },
+    {
+      "id": 92,
+      "value": "skeet-shooting",
+      "options": [
+        "的当て",
+        "射撃",
+        "釣り",
+        "スポーツ"
+      ],
+      "correctAnswer": "射撃",
+      "explanation": "「skeet-shooting」は、クレー射撃の一種で、空中に放出された標的（クレー）を射撃するスポーツです。ここでは、Sheldonの父親が母親のコレクションをクレー射撃の的にしているという、激しい対立を表す比喩として使われています。\n\n例：He enjoys skeet-shooting in his free time. (彼は暇な時間にクレー射撃を楽しんでいる。)"
+    },
+    {
+      "id": 93,
+      "value": "collectible plates",
+      "options": [
+        "収集可能なレコード",
+        "収集可能な切手",
+        "収集可能な硬貨",
+        "収集可能な皿"
+      ],
+      "correctAnswer": "収集可能な皿",
+      "explanation": "「collectible plates」は、収集価値のある皿、コレクション用のお皿という意味です。Franklin Mint社製の皿は、装飾が施された限定版のコレクション用プレートとして知られています。ここでは、Sheldonの父親が母親のコレクション用のお皿を射撃の的にしているという、激しい対立を表す比喩として使われています。\n\n例：She has a collection of antique collectible plates. (彼女はアンティークのコレクション用のお皿を集めている。)"
+    },
+    {
+      "id": 94,
+      "value": "let this go",
+      "options": [
+        "手放す",
+        "忘れる",
+        "許す",
+        "諦める"
+      ],
+      "correctAnswer": "忘れる",
+      "explanation": "「let it go」は、問題や怒りなどを手放す、忘れるという意味です。過去の出来事や感情にとらわれず、前向きに進むことを促す際に使われます。ここでは、LeonardがPennyに対して、Justinの件を水に流すように言っています。\n\n例：You need to let it go and move on. (あなたはそれを忘れて、前に進む必要がある。)"
+    },
+    {
+      "id": 95,
+      "value": "childhood issues",
+      "options": [
+        "子供の問題",
+        "児童虐待",
+        "子供時代の問題",
+        "子供の権利"
+      ],
+      "correctAnswer": "子供時代の問題",
+      "explanation": "「childhood issues」は、子供時代に経験したトラウマや未解決の問題を指します。これらの問題は、大人になってからも行動や感情に影響を与えることがあります。心理療法やカウンセリングで扱われることが多いテーマです。\n\n例：He's dealing with childhood issues in therapy. (彼はセラピーで子供時代の問題に取り組んでいる。)"
+    },
+    {
+      "id": 96,
+      "value": "grow up and get past them",
+      "options": [
+        "成長して乗り越える",
+        "大人になる",
+        "過去を振り返る",
+        "子供のままでいる"
+      ],
+      "correctAnswer": "成長して乗り越える",
+      "explanation": "「grow up and get past them」は、子供時代の問題や過去のトラウマを乗り越えて、精神的に成熟することを意味します。困難な経験から学び、より強く、より賢くなることを促す表現です。\n\n例：It's time to grow up and get past your insecurities. (もう成長して、自分の不安を乗り越える時だ。)"
+    },
+    {
+      "id": 97,
+      "value": "handle this",
+      "options": [
+        "これを運ぶ",
+        "これを扱う",
+        "これを隠す",
+        "これを解決する"
+      ],
+      "correctAnswer": "これを扱う",
+      "explanation": "「handle this」は、この件を処理する、対応するという意味です。特定の問題や状況に対して、責任を持って対処することを表します。ここでは、PennyがSheldonの問題を自分で解決しようとしています。\n\n例：I can handle this. Just leave it to me. (これは私が対応できるから、任せて。)"
+    },
+    {
+      "id": 98,
+      "value": "end up in",
+      "options": [
+        "終わらせる",
+        "到着する",
+        "結局～になる",
+        "目標を達成する"
+      ],
+      "correctAnswer": "結局～になる",
+      "explanation": "「end up in」は、最終的に～になる、行き着くという意味です。意図した結果とは異なる、予期せぬ結果になることを表す場合によく使われます。\n\n例：If you don't study, you'll end up failing the exam. (勉強しないと、結局試験に落ちることになるよ。)"
+    },
+    {
+      "id": 99,
+      "value": "meet again",
+      "options": [
+        "再び会う",
+        "初めて会う",
+        "会議をする",
+        "出会いを求める"
+      ],
+      "correctAnswer": "再び会う",
+      "explanation": "「meet again」は、再び会うという意味です。以前に会ったことがある人に、再び会う状況を表します。ここでは、StuartがPennyとLeonardに、皮肉っぽく「また会いましたね」と言っています。\n\n例：I hope we meet again someday. (いつかまた会えるといいな。)"
+    },
+    {
+      "id": 100,
+      "value": "sleep in his own vomit",
+      "options": [
+        "自分のベッドで寝る",
+        "自分の部屋で寝る",
+        "自分の嘔吐物の中で寝る",
+        "路上で寝る"
+      ],
+      "correctAnswer": "自分の嘔吐物の中で寝る",
+      "explanation": "「sleep in his own vomit」は、非常に不快な状況でも寝ることを厭わない、つまり、ミュージシャンであるJustinがどんな場所でも寝ることができるということを誇張して表現しています。 Pennyは、Justinが泊まる場所がないことに対して、それほど心配していないことを示唆しています。\n\n例：He was so drunk that he slept in his own vomit. (彼はとても酔っ払っていて、自分の吐瀉物の中で寝てしまった。)"
+    }
+  ]
+}

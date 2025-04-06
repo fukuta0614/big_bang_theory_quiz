@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "moon burn",
+      "options": [
+        "日焼け",
+        "月の光による炎症",
+        "宇宙酔い",
+        "肌の乾燥"
+      ],
+      "correctAnswer": "月の光による炎症",
+      "explanation": "「moon burn」は、ここでは冗談めかして使われていますが、実際には月の光（太陽光の反射）によって引き起こされる日焼けのような状態を指すことがあります。特に皮膚が非常に敏感な人が、長時間月の光にさらされた場合に起こりうるというジョークです。"
+    },
+    {
+      "id": 2,
+      "value": "bazinga",
+      "options": [
+        "素晴らしい",
+        "冗談だよ",
+        "本当のこと",
+        "秘密だよ"
+      ],
+      "correctAnswer": "冗談だよ",
+      "explanation": "「Bazinga」は、シットコム『ビッグバン★セオリー』の登場人物であるシェルドン・クーパーが、ジョークやいたずらの後に使う決まり文句です。「冗談だよ」「やったぜ」といったニュアンスで、ユーモラスな状況を強調するために使われます。"
+    },
+    {
+      "id": 3,
+      "value": "equatorial mount",
+      "options": [
+        "赤道儀",
+        "望遠鏡",
+        "レーザー",
+        "バッテリー"
+      ],
+      "correctAnswer": "赤道儀",
+      "explanation": "「equatorial mount」は、天体望遠鏡などを設置する際に使用する「赤道儀」のことです。地球の自転に合わせて望遠鏡を動かすことができ、天体を追尾するのに役立ちます。天体観測を行う上で重要な装置です。"
+    },
+    {
+      "id": 4,
+      "value": "peep through windows",
+      "options": [
+        "窓を修理する",
+        "窓から中を覗き見る",
+        "窓を掃除する",
+        "窓に絵を描く"
+      ],
+      "correctAnswer": "窓から中を覗き見る",
+      "explanation": "「peep through windows」は、「窓からこっそり覗き見る」という意味です。許可なく他人のプライベートな空間を覗き見る行為を指し、一般的には否定的なニュアンスで使用されます。"
+    },
+    {
+      "id": 5,
+      "value": "discarded",
+      "options": [
+        "集められた",
+        "捨てられた",
+        "修理された",
+        "隠された"
+      ],
+      "correctAnswer": "捨てられた",
+      "explanation": "「discarded」は、「捨てられた」「放棄された」という意味です。不要になった物や人を表す際に用いられ、しばしばネガティブな感情を伴います。"
+    },
+    {
+      "id": 6,
+      "value": "lunar ranging",
+      "options": [
+        "月面探査",
+        "月面走行",
+        "月までの距離測定",
+        "月光浴"
+      ],
+      "correctAnswer": "月までの距離測定",
+      "explanation": "「lunar ranging」は、「月までの距離を測定すること」を意味します。レーザー光線などを月面に反射させて、地球から月までの正確な距離を測定する技術を指します。天文学や宇宙科学の分野で使用される専門用語です。"
+    },
+    {
+      "id": 7,
+      "value": "retro-reflector",
+      "options": [
+        "反射望遠鏡",
+        "再帰性反射器",
+        "太陽光パネル",
+        "集光レンズ"
+      ],
+      "correctAnswer": "再帰性反射器",
+      "explanation": "「retro-reflector」は、「再帰性反射器」という意味です。入射してきた光を光源に向かって反射する特性を持つ装置で、道路標識や宇宙空間での距離測定などに利用されます。アポロ計画で月面に設置されたものが有名です。"
+    },
+    {
+      "id": 8,
+      "value": "dumped",
+      "options": [
+        "デートした",
+        "無視された",
+        "振られた",
+        "助けられた"
+      ],
+      "correctAnswer": "振られた",
+      "explanation": "「dumped」は、「（恋人に）振られた」という意味のスラングです。恋愛関係の終了を意味し、特に一方的に関係を終わらせられた場合に用いられます。口語的な表現です。"
+    },
+    {
+      "id": 9,
+      "value": "screw you guys",
+      "options": [
+        "ありがとう",
+        "おめでとう",
+        "くそったれ",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "くそったれ",
+      "explanation": "「Screw you guys」は、相手に対する軽蔑や怒りを表す表現で、「くそったれ」「お前らなんか知らない」といった意味合いです。非常にカジュアルで、親しい間柄で冗談交じりに使われることもありますが、基本的には失礼な表現です。"
+    },
+    {
+      "id": 10,
+      "value": "bounce laser beams off the moon",
+      "options": [
+        "月面でレーザーショーをする",
+        "月面にレーザーで絵を描く",
+        "月面にレーザーを照射して反射させる",
+        "月面でレーザーを利用して通信する"
+      ],
+      "correctAnswer": "月面にレーザーを照射して反射させる",
+      "explanation": "「bounce laser beams off the moon」は、「月面にレーザー光線を照射して反射させる」という意味です。月までの距離を正確に測定したり、月面の物質を分析したりする目的で行われる実験を指します。"
+    },
+    {
+      "id": 11,
+      "value": "parabolic reflector",
+      "options": [
+        "放物面鏡",
+        "平面鏡",
+        "凸面鏡",
+        "凹面鏡"
+      ],
+      "correctAnswer": "放物面鏡",
+      "explanation": "「parabolic reflector」は、「放物面鏡」という意味です。光や電波を一点に集める、または一点から放射されたものを平行線として放射する性質を持つ鏡で、望遠鏡やアンテナなどに使用されます。"
+    },
+    {
+      "id": 12,
+      "value": "VPs",
+      "options": [
+        "重要な人物",
+        "副社長",
+        "ボランティア",
+        "訪問者"
+      ],
+      "correctAnswer": "副社長",
+      "explanation": "「VP」は、「Vice President」の略で、「副社長」を意味します。企業における役職の一つで、社長を補佐し、特定の部門やプロジェクトを統括する責任を担います。"
+    },
+    {
+      "id": 13,
+      "value": "keep an eye out for",
+      "options": [
+        "目を閉じる",
+        "監視する",
+        "探す",
+        "忘れる"
+      ],
+      "correctAnswer": "探す",
+      "explanation": "「keep an eye out for」は、「～に注意して探す」「～を見張る」という意味のイディオムです。特定の人物や物事を見つけるために警戒している状態を表します。例：Keep an eye out for pickpockets.（スリに注意してね）"
+    },
+    {
+      "id": 14,
+      "value": "bitchin'",
+      "options": [
+        "つまらない",
+        "ひどい",
+        "素晴らしい",
+        "普通"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「bitchin'」は、スラングで「素晴らしい」「最高」という意味です。1970年代から1980年代にかけてよく使われた言葉で、現代ではやや古臭い印象を与えることもあります。肯定的な感情を強調する際に用いられます。"
+    },
+    {
+      "id": 15,
+      "value": "theoretic foundation",
+      "options": [
+        "理論的基礎",
+        "実験的証拠",
+        "技術的応用",
+        "経済的支援"
+      ],
+      "correctAnswer": "理論的基礎",
+      "explanation": "「theoretic foundation」は、「理論的基礎」という意味です。ある学問や研究分野における基本的な理論や原理を指し、その分野の発展や応用を支える基盤となります。"
+    },
+    {
+      "id": 16,
+      "value": "resultant",
+      "options": [
+        "原因",
+        "結果",
+        "過程",
+        "目的"
+      ],
+      "correctAnswer": "結果",
+      "explanation": "「resultant」は、「結果として生じる」「結果的な」という意味の形容詞です。ある行動や過程を経て得られた成果や影響を表します。名詞としても使用され、「結果」という意味を持ちます。"
+    },
+    {
+      "id": 17,
+      "value": "mission accomplished",
+      "options": [
+        "任務失敗",
+        "任務完了",
+        "任務遂行中",
+        "任務放棄"
+      ],
+      "correctAnswer": "任務完了",
+      "explanation": "「mission accomplished」は、「任務完了」「目的達成」という意味です。困難な目標や課題を達成した際に用いられ、成功を強調する表現です。"
+    },
+    {
+      "id": 18,
+      "value": "Apollo 11",
+      "options": [
+        "アポロ8号",
+        "アポロ11号",
+        "アポロ13号",
+        "アポロ17号"
+      ],
+      "correctAnswer": "アポロ11号",
+      "explanation": "「Apollo 11」は、「アポロ11号」のことです。1969年に人類初の月面着陸を成功させたアメリカの宇宙船であり、ニール・アームストロング船長らが搭乗していました。人類史における重要な出来事の一つです。"
+    },
+    {
+      "id": 19,
+      "value": "photomultiplier",
+      "options": [
+        "光増幅管",
+        "太陽電池",
+        "レーザー発振器",
+        "レンズ"
+      ],
+      "correctAnswer": "光増幅管",
+      "explanation": "「photomultiplier」は、「光電子増倍管（光増幅管）」という意味です。非常に弱い光を検出し、増幅する電子管で、科学計測や医療診断などの分野で使用されます。"
+    },
+    {
+      "id": 20,
+      "value": "on earth",
+      "options": [
+        "地上で",
+        "一体全体",
+        "宇宙で",
+        "夢の中で"
+      ],
+      "correctAnswer": "一体全体",
+      "explanation": "「on earth」は、疑問文で強調の意味で使われると、「一体全体」「いったいぜんたい」という意味になります。驚きや困惑、怒りなどの感情を伴って用いられます。例文：How on earth did you do that? (一体どうやってそれをやったの？)"
+    },
+    {
+      "id": 21,
+      "value": "dig",
+      "options": [
+        "嫌う",
+        "理解する",
+        "掘る",
+        "楽しむ"
+      ],
+      "correctAnswer": "楽しむ",
+      "explanation": "「dig」は、スラングとして「～を気に入る」「～を楽しむ」という意味で使われます。特に音楽やアート、人の個性などを評価する際に用いられます。例文：I really dig your new hairstyle. (あなたの新しいヘアスタイル、すごく気に入ってるよ。)"
+    },
+    {
+      "id": 22,
+      "value": "qualify as",
+      "options": [
+        "～として適任である",
+        "～として資格がある",
+        "～として不適格である",
+        "～として登録する"
+      ],
+      "correctAnswer": "～として資格がある",
+      "explanation": "「qualify as」は、「～としての資格がある」「～とみなされる」という意味です。特定の条件や基準を満たしていることを示す際に用いられます。例文：This experience qualifies him as a leader. (この経験は彼をリーダーとしての資格があるものとします。)"
+    },
+    {
+      "id": 23,
+      "value": "a little weird",
+      "options": [
+        "少し怖い",
+        "少し変",
+        "少し悲しい",
+        "少し嬉しい"
+      ],
+      "correctAnswer": "少し変",
+      "explanation": "「a little weird」は、「少し変」「少しおかしい」という意味です。通常とは異なる、奇妙な状況や人物、行動などを指す際に用いられます。例文：It's a little weird that he hasn't called. (彼から電話がないのは少しおかしい。)"
+    },
+    {
+      "id": 24,
+      "value": "go into",
+      "options": [
+        "入る",
+        "投資する",
+        "説明する",
+        "無視する"
+      ],
+      "correctAnswer": "説明する",
+      "explanation": "「go into」は、ここでは「～を詳しく説明する」「～に携わる」という意味で使われています。物事の詳細や内訳を説明する際に用いられるほか、特定の分野や仕事に携わることを示す場合もあります。例文: I don't want to go into the details. (詳細を説明したくありません。)"
+    },
+    {
+      "id": 25,
+      "value": "makes no sense",
+      "options": [
+        "意味が通じない",
+        "素晴らしい",
+        "簡単なことだ",
+        "理解できる"
+      ],
+      "correctAnswer": "意味が通じない",
+      "explanation": "「makes no sense」は、「意味が通じない」「理解できない」という意味です。筋が通らない、理にかなっていない状況や発言に対して用いられます。例文: That makes no sense at all. (それは全く意味が通じない。)"
+    },
+    {
+      "id": 26,
+      "value": "play nice",
+      "options": [
+        "静かに演奏する",
+        "親切にする",
+        "いたずらをする",
+        "ゲームを楽しむ"
+      ],
+      "correctAnswer": "親切にする",
+      "explanation": "「play nice」は、仲良くする、穏便に振る舞うという意味です。特に子供に対して使われることが多いですが、大人に対しても、争わずに協調するように促す際に用いられます。例：The teacher told the children to play nice with each other. (先生は子供たちに仲良くするように言った。)"
+    },
+    {
+      "id": 27,
+      "value": "set our laser to stun",
+      "options": [
+        "レーザーを停止する",
+        "レーザーを麻痺させる設定にする",
+        "レーザーを最強にする",
+        "レーザーを隠す"
+      ],
+      "correctAnswer": "レーザーを麻痺させる設定にする",
+      "explanation": "「set to stun」は、本来はSF作品などで使われる表現で、「殺傷能力を抑えて相手を気絶させる」という意味です。ここでは比喩的に、深刻な影響を与えないようにレーザーの出力を調整することを指しています。例：In Star Trek, phasers are often set to stun rather than kill. (スタートレックでは、フェイザーは殺すよりも気絶させる設定にされることが多い。)"
+    },
+    {
+      "id": 28,
+      "value": "the naked eye",
+      "options": [
+        "望遠鏡",
+        "肉眼",
+        "高性能カメラ",
+        "赤外線スコープ"
+      ],
+      "correctAnswer": "肉眼",
+      "explanation": "「naked eye」は、何の道具も使わずに、肉眼で直接見ることを意味します。天文学や観察などの文脈でよく使われます。例：The constellation is visible to the naked eye on a clear night. (晴れた夜には、その星座は肉眼で見える。)"
+    },
+    {
+      "id": 29,
+      "value": "make it so",
+      "options": [
+        "そうしてください",
+        "やめてください",
+        "どうでもいい",
+        "そのままでいい"
+      ],
+      "correctAnswer": "そうしてください",
+      "explanation": "「Make it so」は、SFドラマ『スタートレック』シリーズでジャン＝リュック・ピカード艦長がよく使う決まり文句で、命令や指示を出す際に「実行せよ」という意味合いで使用されます。断固とした命令を伝えるニュアンスがあります。例：Captain Picard would often say \"Make it so\" to give his orders. (ピカード艦長はよく「Make it so」と言って命令を下した。)"
+    },
+    {
+      "id": 30,
+      "value": "definitively",
+      "options": [
+        "あいまい",
+        "決定的に",
+        "おおよそ",
+        "偶然に"
+      ],
+      "correctAnswer": "決定的に",
+      "explanation": "「definitively」は、疑いの余地なく、決定的に、明確にという意味の副詞です。証拠や結果がはっきりしている状況で使われます。例：The DNA evidence definitively proved his guilt. (DNAの証拠は、彼の有罪を決定的に証明した。)"
+    },
+    {
+      "id": 31,
+      "value": "can do better",
+      "options": [
+        "もっと悪くなれる",
+        "もっとうまくやれる",
+        "我慢する",
+        "あきらめる"
+      ],
+      "correctAnswer": "もっとうまくやれる",
+      "explanation": "「can do better」は、現状よりも良い結果を出せる、もっと能力を発揮できるという意味です。特に、人に対して、その潜在能力を信じて励ます際に使われます。例：I know you can do better on the next exam. (次の試験ではもっと良い点が取れると信じている。)"
+    },
+    {
+      "id": 32,
+      "value": "coitus",
+      "options": [
+        "食事",
+        "睡眠",
+        "性交",
+        "運動"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交を意味するフォーマルな言葉です。医学や生物学などの文脈で使われることが多いですが、日常会話ではあまり使われません。例：The study examined the frequency of coitus among married couples. (その研究は、既婚カップルの性交の頻度を調査した。)"
+    },
+    {
+      "id": 33,
+      "value": "get back on the horse",
+      "options": [
+        "馬に乗る",
+        "元の状態に戻る",
+        "新しいことを始める",
+        "休憩する"
+      ],
+      "correctAnswer": "元の状態に戻る",
+      "explanation": "「get back on the horse」は、失敗や挫折から立ち直って、再び挑戦することを意味するイディオムです。特に、困難な状況を乗り越えて再起する場合に使われます。例：After losing the election, he needed to get back on the horse and start planning his next campaign. (選挙に負けた後、彼は立ち直って次の選挙活動の計画を立てる必要があった。)"
+    },
+    {
+      "id": 34,
+      "value": "turn you on to",
+      "options": [
+        "あなたを止める",
+        "あなたに教える",
+        "あなたを紹介する",
+        "あなたを困らせる"
+      ],
+      "correctAnswer": "あなたを紹介する",
+      "explanation": "「turn someone on to something」は、人に何かを紹介して興味を持たせる、好きにさせるという意味の句動詞です。新しい趣味や音楽、情報などを紹介する際に使われます。例：My friend turned me on to this great new band. (友達がこの素晴らしい新しいバンドを紹介してくれた。)"
+    },
+    {
+      "id": 35,
+      "value": "tons",
+      "options": [
+        "少し",
+        "たくさん",
+        "全くない",
+        "不明"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "「tons」は、非常に多い量や数を指す口語的な表現です。具体的に重さを指す場合もありますが、ここでは「たくさん」という意味で使われています。例：I have tons of work to do. (やらなければならない仕事がたくさんある。)"
+    },
+    {
+      "id": 36,
+      "value": "restate",
+      "options": [
+        "秘密にする",
+        "言い換える",
+        "取り消す",
+        "省略する"
+      ],
+      "correctAnswer": "言い換える",
+      "explanation": "「restate」は、すでに述べたことを別の言葉で言い換える、再表明するという意味です。より明確にするためや、相手に理解を深めてもらうために使われます。例：Let me restate my position on this issue. (この問題に関する私の立場を言い換えさせてください。)"
+    },
+    {
+      "id": 37,
+      "value": "signing up",
+      "options": [
+        "サインをやめる",
+        "登録する",
+        "署名を拒否する",
+        "記録する"
+      ],
+      "correctAnswer": "登録する",
+      "explanation": "「sign up」は、サービスや活動などに登録する、申し込むという意味です。オンラインの登録や会員登録など、様々な場面で使われます。例：I signed up for a gym membership. (ジムの会員登録をした。)"
+    },
+    {
+      "id": 38,
+      "value": "rat bastard",
+      "options": [
+        "親切な人",
+        "卑劣なやつ",
+        "正直な人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "卑劣なやつ",
+      "explanation": "「rat bastard」は、非常に不快で信用できない人物を指す侮辱的な表現です。強い嫌悪感や怒りを表す際に使われます。例：He's a rat bastard for stealing her money. (彼はお金を盗んだ卑劣なやつだ。)"
+    },
+    {
+      "id": 39,
+      "value": "olden days",
+      "options": [
+        "現代",
+        "昔",
+        "未来",
+        "毎日"
+      ],
+      "correctAnswer": "昔",
+      "explanation": "「olden days」は、昔、古き良き時代という意味で、過去のある時点を指します。過去を懐かしむニュアンスが含まれることがあります。例：In the olden days, people used to write letters instead of emails. (昔は、人々はメールの代わりに手紙を書いていた。)"
+    },
+    {
+      "id": 40,
+      "value": "tolerate",
+      "options": [
+        "我慢する",
+        "楽しむ",
+        "無視する",
+        "促進する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「tolerate」は、不快なことや好ましくないことを我慢する、許容するという意味です。完全に受け入れるわけではないが、ある程度まで許すというニュアンスがあります。例：I can't tolerate his rude behavior anymore. (彼の失礼な態度はもう我慢できない。)"
+    },
+    {
+      "id": 41,
+      "value": "appe-teasers",
+      "options": [
+        "食欲をそそる人",
+        "食前酒",
+        "食欲抑制剤",
+        "食事のパートナー"
+      ],
+      "correctAnswer": "食前酒",
+      "explanation": "これは「appetizer」をスペルミスしたもので、食欲をそそるもの、特に食事の前に食べる軽い料理を指します。ここではスペルミスをジョークとして使っています。例：We ordered some appetizers before the main course. (メイン料理の前にいくつか前菜を注文した。)"
+    },
+    {
+      "id": 42,
+      "value": "noise-cancelling headphones",
+      "options": [
+        "音を大きくするヘッドホン",
+        "騒音を遮断するヘッドホン",
+        "高級ヘッドホン",
+        "壊れたヘッドホン"
+      ],
+      "correctAnswer": "騒音を遮断するヘッドホン",
+      "explanation": "「noise-cancelling headphones」は、周囲の騒音を低減または除去する機能を持つヘッドホンです。集中したい時や騒がしい場所で使用されます。例：I use noise-cancelling headphones when I study in the library. (図書館で勉強するときは、ノイズキャンセリングヘッドホンを使います。)"
+    },
+    {
+      "id": 43,
+      "value": "low-pulp",
+      "options": [
+        "果肉が多い",
+        "果肉が少ない",
+        "果肉がない",
+        "高級な"
+      ],
+      "correctAnswer": "果肉が少ない",
+      "explanation": "「low-pulp」は、オレンジジュースなどの飲み物で、果肉（繊維質）が少ないことを意味します。好みに応じて果肉の量を調整できます。例：I prefer orange juice with low pulp. (私は果肉が少ないオレンジジュースが好きです。)"
+    },
+    {
+      "id": 44,
+      "value": "blow up",
+      "options": [
+        "爆発する",
+        "膨らませる",
+        "無視する",
+        "小さくする"
+      ],
+      "correctAnswer": "爆発する",
+      "explanation": "ここでは比喩的な意味で使用され、文字通りに爆発させるのではなく、何らかの形で破壊したり、大きな影響を与えたりすることを指します。計画などを台無しにするといった意味合いもあります。例：The scandal blew up his political career. (そのスキャンダルは彼の政治的キャリアを吹き飛ばした。)"
+    },
+    {
+      "id": 45,
+      "value": "represent",
+      "options": [
+        "代表する",
+        "無視する",
+        "隠す",
+        "盗む"
+      ],
+      "correctAnswer": "代表する",
+      "explanation": "「represent」は、象徴する、意味するという意味です。具体的なものや概念を指し示す際に使われます。例：The dove represents peace. (鳩は平和を象徴する。)"
+    },
+    {
+      "id": 46,
+      "value": "bring down",
+      "options": [
+        "持ち上げる",
+        "落とす",
+        "修理する",
+        "隠す"
+      ],
+      "correctAnswer": "落とす",
+      "explanation": "「bring down」は、高い場所にあるものを低い場所に移動させる、または、システムなどをダウンさせるという意味です。ここでは、タンクを下の階に移動させることを指しています。例：The storm brought down several trees. (嵐でいくつかの木が倒れた。)"
+    },
+    {
+      "id": 47,
+      "value": "knock",
+      "options": [
+        "ノックする",
+        "挨拶する",
+        "叫ぶ",
+        "踊る"
+      ],
+      "correctAnswer": "ノックする",
+      "explanation": "「knock」は、ドアなどを叩くことを意味します。誰かが訪れたことを知らせるために行われます。例：There was a knock at the door. (ドアをノックする音がした。)"
+    },
+    {
+      "id": 48,
+      "value": "ruined him",
+      "options": [
+        "助けた",
+        "台無しにした",
+        "褒めた",
+        "無視した"
+      ],
+      "correctAnswer": "台無しにした",
+      "explanation": "「ruin」は、何かを破壊する、台無しにするという意味です。ここでは、相手の純粋さや無知を壊してしまったというニュアンスで使われています。例：The rain ruined our picnic. (雨でピクニックが台無しになった。)"
+    },
+    {
+      "id": 49,
+      "value": "entire",
+      "options": [
+        "部分的な",
+        "全体の",
+        "短い",
+        "架空の"
+      ],
+      "correctAnswer": "全体の",
+      "explanation": "「entire」は、全体、全部という意味です。ここでは、夜の間ずっと、という意味で使用されています。例：I spent the entire day reading. (一日中読書をして過ごした。)"
+    },
+    {
+      "id": 50,
+      "value": "going on",
+      "options": [
+        "終わっている",
+        "進行中",
+        "中止",
+        "秘密"
+      ],
+      "correctAnswer": "進行中",
+      "explanation": "「go on」は、何かが起こっている、進行しているという意味です。何が起こっているのか尋ねる際によく使われます。例：What's going on here? (ここで何が起こっているの？)"
+    },
+    {
+      "id": 51,
+      "value": "of necessity",
+      "options": [
+        "不必要に",
+        "必然的に",
+        "偶然に",
+        "形式的に"
+      ],
+      "correctAnswer": "必然的に",
+      "explanation": "「of necessity」は「必然的に」「やむを得ず」という意味です。ある状況や条件が原因で、避けられない結果として何かが起こることを表します。フォーマルな文脈でよく用いられます。\n\n例：Of necessity, we had to reduce the budget. (必然的に、私たちは予算を削減しなければなりませんでした。)"
+    },
+    {
+      "id": 52,
+      "value": "FYI",
+      "options": [
+        "後でね",
+        "気にしないで",
+        "ご参考までに",
+        "お元気で"
+      ],
+      "correctAnswer": "ご参考までに",
+      "explanation": "「FYI」は「For Your Information」の略で、「ご参考までに」「参考情報として」という意味です。メールやメモなどで、相手に情報を伝える際に使われます。特に、行動を促すわけではない情報提供の際に用いられます。"
+    },
+    {
+      "id": 53,
+      "value": "multiple occasions",
+      "options": [
+        "数少ない機会",
+        "一度の機会",
+        "複数回",
+        "絶好の機会"
+      ],
+      "correctAnswer": "複数回",
+      "explanation": "「multiple occasions」は「複数回」「何度も」という意味です。ある出来事が一度だけでなく、何度か繰り返して起こることを表します。\n\n例：I have seen him there on multiple occasions. (私は彼をそこで何度も見かけたことがあります。)"
+    },
+    {
+      "id": 54,
+      "value": "I presume",
+      "options": [
+        "私は反対する",
+        "私は推定する",
+        "私は確信する",
+        "私は知らない"
+      ],
+      "correctAnswer": "私は推定する",
+      "explanation": "「presume」は「推定する」「思う」という意味です。根拠はあるものの、確信まではいかない推測を表します。フォーマルな文脈でよく用いられます。\n\n例：I presume you're here for the meeting. (会議のためにここに来られたのだと思います。)"
+    },
+    {
+      "id": 55,
+      "value": "fresh perspective",
+      "options": [
+        "新鮮な視点",
+        "過去の経験",
+        "個人的な意見",
+        "複雑な問題"
+      ],
+      "correctAnswer": "新鮮な視点",
+      "explanation": "「fresh perspective」は「新鮮な視点」「新しい見方」という意味です。今までとは異なる角度から物事を見ることで、新たな理解や解決策が得られることを指します。\n\n例：We need a fresh perspective on this problem. (この問題について、私たちは新鮮な視点が必要です。)"
+    },
+    {
+      "id": 56,
+      "value": "bummer",
+      "options": [
+        "素晴らしい",
+        "残念",
+        "面白い",
+        "重要"
+      ],
+      "correctAnswer": "残念",
+      "explanation": "「bummer」は「がっかり」「残念」という意味のスラングです。期待外れだったり、嫌なことが起こったりした時に使われます。比較的軽いニュアンスで用いられます。\n\n例：That's a bummer! I was really looking forward to it. (それは残念だ！とても楽しみにしていたのに。)"
+    },
+    {
+      "id": 57,
+      "value": "not great for me",
+      "options": [
+        "とても良い",
+        "私には向かない",
+        "最高だ",
+        "私には難しい"
+      ],
+      "correctAnswer": "私には向かない",
+      "explanation": "「not great for me」は、直接的には「私には良くない」という意味ですが、通常は「都合が悪い」「（予定があって）難しい」という婉曲的な表現として使われます。相手の提案や誘いを断る際に、softな印象を与えます。\n\n例：Thanks for the invitation, but that day is not great for me. (招待ありがとう、でもその日は都合が悪いんだ。)"
+    },
+    {
+      "id": 58,
+      "value": "imprinted on",
+      "options": [
+        "消去された",
+        "忘れられた",
+        "刻み込まれた",
+        "無視された"
+      ],
+      "correctAnswer": "刻み込まれた",
+      "explanation": "「imprint」は「刻み込む」「印象付ける」という意味で、「be imprinted on」という形で「～に刻み込まれる」「～に焼き付く」という意味になります。強い印象や記憶が残ることを表します。\n\n例：The image of the accident was imprinted on her mind. (その事故の光景は彼女の心に焼き付いた。)"
+    },
+    {
+      "id": 59,
+      "value": "let it go",
+      "options": [
+        "手放す",
+        "始める",
+        "続ける",
+        "隠す"
+      ],
+      "correctAnswer": "手放す",
+      "explanation": "「let it go」は「手放す」「忘れる」「気にしない」という意味です。過去の出来事や感情にとらわれず、前向きに進むことを促す際に使われます。また、状況や問題から解放されるという意味合いも持ちます。\n\n例：You need to let it go and move on. (あなたはそれを手放して、前に進む必要があります。)"
+    },
+    {
+      "id": 60,
+      "value": "walk among us",
+      "options": [
+        "私たちを避ける",
+        "私たちの中にいる",
+        "私たちを支配する",
+        "私たちを助ける"
+      ],
+      "correctAnswer": "私たちの中にいる",
+      "explanation": "「walk among us」は「私たちの中にいる」「私たちと一緒に暮らす」という意味です。特に、正体を隠して一般の人々の中に紛れ込んでいる状況を表す際に使われます。SFやファンタジー作品でよく見られる表現です。\n\n例：They believe that angels walk among us. (彼らは天使が私たちの中にいると信じている。)"
+    },
+    {
+      "id": 61,
+      "value": "kidding",
+      "options": [
+        "怒っている",
+        "冗談を言っている",
+        "真剣だ",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「kidding」は「冗談を言っている」「からかっている」という意味です。相手の発言が信じられない時や、自分が冗談を言っていることを伝えたい時に使われます。比較的カジュアルな表現です。\n\n例：You're kidding! Are you serious? (冗談でしょう！本気ですか？)"
+    },
+    {
+      "id": 62,
+      "value": "so much as",
+      "options": [
+        "～さえ～ない",
+        "～するほど",
+        "～と同じくらい",
+        "～だけでなく"
+      ],
+      "correctAnswer": "～さえ～ない",
+      "explanation": "「so much as」は「～さえ～ない」という意味です。否定的な文脈で使われ、最小限のことすらしない、というニュアンスを表します。\n\n例：He didn't so much as look at me. (彼は私をちらっとも見なかった。)"
+    },
+    {
+      "id": 63,
+      "value": "lousy",
+      "options": [
+        "素晴らしい",
+        "ひどい",
+        "普通",
+        "面白い"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「lousy」は「ひどい」「つまらない」「不快な」という意味です。質が悪いものや、不愉快な状況に対して使われます。カジュアルな表現です。\n\n例：I had a lousy day at work. (今日は仕事でひどい一日だった。)"
+    },
+    {
+      "id": 64,
+      "value": "fellow life-form",
+      "options": [
+        "敵",
+        "友好的な生命体",
+        "未知の存在",
+        "過去の遺物"
+      ],
+      "correctAnswer": "友好的な生命体",
+      "explanation": "「fellow life-form」は「同じ生命体」「仲間」という意味です。特に、人間以外の生物や、宇宙人などに対して使われることがあります。親しみを込めた表現です。\n\n例：Greetings, fellow life-form. (こんにちは、同志。) （SF作品などで宇宙人が使うイメージ）"
+    },
+    {
+      "id": 65,
+      "value": "It's been a while",
+      "options": [
+        "すぐ終わる",
+        "しばらくぶり",
+        "いつも通り",
+        "初めてだ"
+      ],
+      "correctAnswer": "しばらくぶり",
+      "explanation": "「It's been a while」は「しばらくぶり」「久しぶり」という意味です。ある期間、会っていなかった人や、しばらくしていなかったことに対して使われます。再会を喜ぶ気持ちや、時間の経過を実感するニュアンスが含まれます。\n\n例：It's been a while since we last met. (最後に会ってからしばらく経ちましたね。)"
+    },
+    {
+      "id": 66,
+      "value": "dumped",
+      "options": [
+        "デートした",
+        "別れた",
+        "結婚した",
+        "出会った"
+      ],
+      "correctAnswer": "別れた",
+      "explanation": "「dump」は「捨てる」「見捨てる」という意味で、恋愛関係においては「（恋人を）振る」「別れる」という意味で使われます。カジュアルな表現です。\n\n例：She dumped him last week. (彼女は先週彼を振った。)"
+    },
+    {
+      "id": 67,
+      "value": "Early shift",
+      "options": [
+        "休憩時間",
+        "早朝勤務",
+        "夜勤",
+        "残業"
+      ],
+      "correctAnswer": "早朝勤務",
+      "explanation": "「Early shift」は「早朝勤務」という意味です。勤務時間帯の一つで、通常の勤務時間よりも早く始まるシフトを指します。サービス業などでよく使われる言葉です。\n\n例：I have an early shift tomorrow, so I need to go to bed early. (明日は早朝勤務なので、早く寝る必要があります。)"
+    },
+    {
+      "id": 68,
+      "value": "in that context",
+      "options": [
+        "別の場所で",
+        "その状況では",
+        "過去の出来事で",
+        "未来の計画で"
+      ],
+      "correctAnswer": "その状況では",
+      "explanation": "「in that context」は「その状況では」「その文脈では」という意味です。特定の状況や文脈において、ある言葉や行動が持つ意味や解釈について言及する際に使われます。\n\n例：It's hard to understand the meaning without knowing the context. (文脈を知らずに意味を理解するのは難しい。)"
+    },
+    {
+      "id": 69,
+      "value": "walk out on",
+      "options": [
+        "立ち寄る",
+        "見捨てる",
+        "手伝う",
+        "応援する"
+      ],
+      "correctAnswer": "見捨てる",
+      "explanation": "「walk out on」は「見捨てる」「（責任などを）放棄する」という意味です。特に、困難な状況や義務から逃れるために、突然関係を断つことを指します。\n\n例：He walked out on his family. (彼は家族を見捨てた。)"
+    },
+    {
+      "id": 70,
+      "value": "to do that again",
+      "options": [
+        "もう一度試す",
+        "二度としない",
+        "別の方法で",
+        "またそれをする"
+      ],
+      "correctAnswer": "またそれをする",
+      "explanation": "「to do that again」は、文脈によって意味が異なりますが、この場合は以前にした特定の行為を「またそれをする」という意味で使用されています。多くの場合、過去の経験を繰り返すかどうか尋ねる際に用いられます。\n\n例：Would you like to do that again? (もう一度それをしたいですか？)"
+    },
+    {
+      "id": 71,
+      "value": "Are you expecting me to",
+      "options": [
+        "することを期待しているのですか",
+        "したくないですか",
+        "できると思っていますか",
+        "するべきではありませんか"
+      ],
+      "correctAnswer": "することを期待しているのですか",
+      "explanation": "「Are you expecting me to」は「私に～することを期待しているのですか」という意味です。相手に何かを期待されているかどうかを尋ねる表現で、しばしば皮肉や不満のニュアンスを伴います。\n\n例：Are you expecting me to believe that? (それを信じることを期待しているのですか？)"
+    },
+    {
+      "id": 72,
+      "value": "in different places",
+      "options": [
+        "同じ場所にいる",
+        "異なる場所にいる",
+        "共通の趣味がある",
+        "同じ目標を持っている"
+      ],
+      "correctAnswer": "異なる場所にいる",
+      "explanation": "「in different places」は「異なる場所にいる」という意味ですが、人間関係においては、価値観、考え方、人生の段階などが異なっている状態を表します。関係がうまくいかない理由として使われることがあります。\n\n例：We are in different places in our lives right now. (私たちは今、人生の異なる段階にいる。)"
+    },
+    {
+      "id": 73,
+      "value": "Counting this instance?",
+      "options": [
+        "今回を含めて数えますか？",
+        "今回は数えないのですか？",
+        "数えるのは今回だけにしますか？",
+        "何回数えましたか？"
+      ],
+      "correctAnswer": "今回を含めて数えますか？",
+      "explanation": "「Counting this instance?」は「今回を含めて数えますか？」という意味です。ある行動や出来事が繰り返された回数を尋ねる際に、今回を含めるかどうかを確認する表現です。特に、相手が過去の記録を保持している場合に用いられます。\n\n例：Counting this instance, how many times have you visited this place? (今回を含めて、この場所には何回訪れましたか？)"
+    },
+    {
+      "id": 74,
+      "value": "I gotta run",
+      "options": [
+        "走るのが得意だ",
+        "急いで行かなければ",
+        "運動が好きだ",
+        "逃げ出したい"
+      ],
+      "correctAnswer": "急いで行かなければ",
+      "explanation": "「I gotta run」は「I've got to run」の省略形で、「急いで行かなければならない」という意味です。別れ際などに、急用があることを伝える際に使われます。カジュアルな表現です。\n\n例：I gotta run. See you later! (急いで行かなきゃ。またね！)"
+    },
+    {
+      "id": 75,
+      "value": "Wham, bam, thank you, Leonard?",
+      "options": [
+        "歓迎されているの？",
+        "感謝しているの？",
+        "ぞんざいに扱われたの？",
+        "無視されているの？"
+      ],
+      "correctAnswer": "ぞんざいに扱われたの？",
+      "explanation": "「Wham, bam, thank you, ma'am」というイディオムをLeonardに当てはめた形で、性的な関係を持った後、相手に感謝もなくすぐに去られることを意味します。つまり、Leonardが性的な目的で利用されたと感じている状況を表しています。ぞんざいに扱われた、軽んじられた、という意味合いが含まれます。"
+    },
+    {
+      "id": 76,
+      "value": "recreational sex",
+      "options": [
+        "趣味的な性行為",
+        "義務的な性行為",
+        "偶発的な性行為",
+        "ビジネス目的の性行為"
+      ],
+      "correctAnswer": "趣味的な性行為",
+      "explanation": "「recreational」は「娯楽の、気晴らしの」という意味で、「recreational sex」は楽しみや気晴らしのための性行為を指します。深い感情的なつながりや義務感を伴わない、カジュアルな関係における性行為を意味することが多いです。"
+    },
+    {
+      "id": 77,
+      "value": "catch on",
+      "options": [
+        "理解する",
+        "流行する",
+        "捕まえる",
+        "燃え移る"
+      ],
+      "correctAnswer": "流行する",
+      "explanation": "「catch on」は、アイデアや習慣、スタイルなどが人気を得て広まる、つまり「流行する」という意味です。また、人が何かを理解するという意味もありますが、ここでは「preevning」という言葉が広まるかどうかという文脈なので「流行する」が適切です。"
+    },
+    {
+      "id": 78,
+      "value": "snort in derision",
+      "options": [
+        "軽蔑して鼻を鳴らす",
+        "感謝して泣く",
+        "喜んで踊る",
+        "驚いて叫ぶ"
+      ],
+      "correctAnswer": "軽蔑して鼻を鳴らす",
+      "explanation": "「snort in derision」は、軽蔑や嘲笑を表すために鼻を鳴らす行為を意味します。「derision」は嘲笑、侮辱という意味なので、合わせて「軽蔑して鼻を鳴らす」となります。相手の言っていることを全く信じていない、あるいはばかにしている時に使われます。"
+    },
+    {
+      "id": 79,
+      "value": "tomfoolery",
+      "options": [
+        "ばか騒ぎ",
+        "真面目な話",
+        "科学的研究",
+        "宗教的な儀式"
+      ],
+      "correctAnswer": "ばか騒ぎ",
+      "explanation": "「tomfoolery」は、ばかげた行為、ふざけ、おどけなどを意味する名詞です。まじめな状況を邪魔するような、軽率な行動を指すことが多いです。類義語としては、foolery, buffoonery, clowningなどがあります。"
+    },
+    {
+      "id": 80,
+      "value": "vital information",
+      "options": [
+        "重要な情報",
+        "無意味な情報",
+        "秘密の情報",
+        "偽りの情報"
+      ],
+      "correctAnswer": "重要な情報",
+      "explanation": "「vital information」は、生存や成功に不可欠な、非常に重要な情報を指します。ここでは、デートサイトに登録するために必要な、Sheldonの性格や好みなどに関する情報を指しています。"
+    },
+    {
+      "id": 81,
+      "value": "hokum",
+      "options": [
+        "真実",
+        "ナンセンス",
+        "知恵",
+        "勇気"
+      ],
+      "correctAnswer": "ナンセンス",
+      "explanation": "「hokum」は、人を欺くためのナンセンス、たわごと、でたらめを意味する言葉です。特に政治やショービジネスの世界で、大衆を欺くために使われる誇張された表現や嘘を指すことがあります。"
+    },
+    {
+      "id": 82,
+      "value": "mumbo jumbo",
+      "options": [
+        "科学的な説明",
+        "意味不明な言葉",
+        "宗教的な祈り",
+        "政治的な演説"
+      ],
+      "correctAnswer": "意味不明な言葉",
+      "explanation": "「mumbo jumbo」は、意味不明な言葉、理解できない複雑な話、または人を欺くための無意味な儀式や活動を指します。しばしば、専門用語を多用して内容を曖昧にする場合に使われます。ここでは、オンラインデートに対するSheldonの否定的な態度を表現するために使われています。"
+    },
+    {
+      "id": 83,
+      "value": "unraveling the secrets",
+      "options": [
+        "秘密を解き明かす",
+        "秘密を隠す",
+        "秘密を作る",
+        "秘密を無視する"
+      ],
+      "correctAnswer": "秘密を解き明かす",
+      "explanation": "「unravel」は、もつれた糸をほどくように、複雑な問題や謎を解き明かすという意味です。「unraveling the secrets of the universe」は、「宇宙の秘密を解き明かす」という壮大な目標を表しています。"
+    },
+    {
+      "id": 84,
+      "value": "pon farr",
+      "options": [
+        "宇宙旅行",
+        "求愛行動",
+        "科学実験",
+        "異星人との交流"
+      ],
+      "correctAnswer": "求愛行動",
+      "explanation": "「pon farr」は、SFドラマ『スタートレック』に登場する、バルカン人が7年周期で経験する本能的な求愛行動です。感情を抑制するバルカン人にとって、pon farrは非常に激しい経験であり、相手を見つけないと死に至ることもあります。"
+    },
+    {
+      "id": 85,
+      "value": "moot",
+      "options": [
+        "重要な",
+        "議論の余地がある",
+        "無意味な",
+        "秘密の"
+      ],
+      "correctAnswer": "無意味な",
+      "explanation": "「moot」は、議論の余地がない、意味がない、重要でないという意味です。ここでは、Sheldonがデートをしないので、飲み物を選ぶことは無意味だと述べています。類義語としては、irrelevant, academic, hypotheticalなどがあります。"
+    },
+    {
+      "id": 86,
+      "value": "whimsy",
+      "options": [
+        "合理性",
+        "気まぐれ",
+        "義務",
+        "計画性"
+      ],
+      "correctAnswer": "気まぐれ",
+      "explanation": "「whimsy」は、気まぐれ、奇抜さ、風変わりな考えや行動を意味します。日常にちょっとした楽しさや遊び心を加えるような、予期せぬ行動やアイデアを指すことが多いです。ここでは、ホットチョコレートを飲む月を限定するというSheldonの行動を指しています。"
+    },
+    {
+      "id": 87,
+      "value": "bluffing",
+      "options": [
+        "正直に話す",
+        "嘘をつく",
+        "脅迫する",
+        "懇願する"
+      ],
+      "correctAnswer": "嘘をつく",
+      "explanation": "「bluff」は、相手を欺くために、実際よりも強い立場や能力を持っているように見せかけることを意味します。「You're bluffing」は、「あなたはハッタリをかましている」という意味になります。"
+    },
+    {
+      "id": 88,
+      "value": "finishing off",
+      "options": [
+        "終わらせる",
+        "始める",
+        "隠す",
+        "見つける"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「finish off」は、何かを完全に終わらせる、使い切るという意味です。ここでは、Leonardがボトルに入った酒を飲み干す様子を表しています。類似の表現としては、'polish off'があります。"
+    },
+    {
+      "id": 89,
+      "value": "ruined",
+      "options": [
+        "改善された",
+        "台無しにされた",
+        "強化された",
+        "無視された"
+      ],
+      "correctAnswer": "台無しにされた",
+      "explanation": "「ruin」は、何かを破壊する、台無しにするという意味です。ここでは、LeonardがPennyによって、以前の孤独な状態から抜け出し、感情的に不安定になったと感じていることを表しています。"
+    },
+    {
+      "id": 90,
+      "value": "out of your mind",
+      "options": [
+        "正気でない",
+        "冷静である",
+        "賢明である",
+        "無関心である"
+      ],
+      "correctAnswer": "正気でない",
+      "explanation": "「out of your mind」は、正気ではない、気が狂っているという意味です。相手の言動が理解できないほど非常識であると感じたときに使われます。類似の表現としては、'crazy', 'insane', 'mad'などがあります。"
+    },
+    {
+      "id": 91,
+      "value": "double standard",
+      "options": [
+        "二重基準",
+        "単一基準",
+        "高い基準",
+        "低い基準"
+      ],
+      "correctAnswer": "二重基準",
+      "explanation": "「double standard」は、同じ状況や行動に対して、異なるグループや個人に異なる基準やルールを適用することを意味します。ここでは、LeonardがPennyに対して、自分に対する態度が不公平だと感じていることを表しています。"
+    },
+    {
+      "id": 92,
+      "value": "gloat over",
+      "options": [
+        "失敗を喜ぶ",
+        "成功を祝う",
+        "失敗を悲しむ",
+        "成功を隠す"
+      ],
+      "correctAnswer": "失敗を喜ぶ",
+      "explanation": "「gloat over」は、他人の失敗や不幸を喜んで見下す、得意げに嘲笑するという意味です。ここでは、Sheldonがデートが失敗に終わった場合に、そのことを得意げに語ることを想定しています。"
+    },
+    {
+      "id": 93,
+      "value": "haughty derision",
+      "options": [
+        "謙虚な尊敬",
+        "傲慢な嘲笑",
+        "深い悲しみ",
+        "純粋な喜び"
+      ],
+      "correctAnswer": "傲慢な嘲笑",
+      "explanation": "「haughty」は傲慢な、尊大なという意味で、「derision」は嘲笑、侮辱という意味です。「haughty derision」は、傲慢で人を見下したような嘲笑を意味します。Sheldonの典型的な態度を表す言葉です。"
+    },
+    {
+      "id": 94,
+      "value": "taken in by",
+      "options": [
+        "騙される",
+        "感銘を受ける",
+        "興味を持つ",
+        "無視する"
+      ],
+      "correctAnswer": "騙される",
+      "explanation": "「taken in by」は、だまされる、信じ込まされるという意味です。ここでは、Amyがオンラインデートという、信じるに値しない数学的根拠に基づいたシステムに騙されているとSheldonが考えていることを表しています。"
+    },
+    {
+      "id": 95,
+      "value": "unsupportable mathematics",
+      "options": [
+        "立証可能な数学",
+        "証明不可能な数学",
+        "高度な数学",
+        "初歩的な数学"
+      ],
+      "correctAnswer": "証明不可能な数学",
+      "explanation": "「unsupportable」は、支持できない、立証できないという意味です。ここでは、オンラインデートのアルゴリズムが科学的根拠に乏しいことをSheldonが批判していることを表しています。"
+    },
+    {
+      "id": 96,
+      "value": "prey on",
+      "options": [
+        "守る",
+        "利用する",
+        "無視する",
+        "助ける"
+      ],
+      "correctAnswer": "利用する",
+      "explanation": "「prey on」は、弱みにつけこむ、食い物にするという意味です。ここでは、オンラインデートが、騙されやすい人々や孤独な人々につけこんで利用しているというSheldonの考えを表しています。"
+    },
+    {
+      "id": 97,
+      "value": "aversion to",
+      "options": [
+        "嫌悪感",
+        "愛情",
+        "関心",
+        "無関心"
+      ],
+      "correctAnswer": "嫌悪感",
+      "explanation": "「aversion to」は、強い嫌悪感、反感という意味です。ここでは、Amyが汚れた靴下に強い嫌悪感を持っていることを表しています。似たような表現としては、'dislike of', 'antipathy to'などがあります。"
+    },
+    {
+      "id": 98,
+      "value": "baffled by",
+      "options": [
+        "魅了される",
+        "困惑する",
+        "喜ぶ",
+        "悲しむ"
+      ],
+      "correctAnswer": "困惑する",
+      "explanation": "「baffled by」は、理解できずに困惑する、当惑するという意味です。ここでは、Amyが神が人間の出席を取るという概念に困惑していることを表しています。"
+    },
+    {
+      "id": 99,
+      "value": "off the table",
+      "options": [
+        "議論の余地がある",
+        "議論の対象外",
+        "準備ができている",
+        "秘密にされている"
+      ],
+      "correctAnswer": "議論の対象外",
+      "explanation": "「off the table」は、交渉や議論の対象から外されている、考慮されないという意味です。ここでは、Amyが物理的な接触（性行為を含む）を一切拒否していることを表しています。交渉の場以外でも、話題に出すことすら許されない状況を表す際に使われます。"
+    },
+    {
+      "id": 100,
+      "value": "tepid",
+      "options": [
+        "熱い",
+        "ぬるい",
+        "冷たい",
+        "沸騰した"
+      ],
+      "correctAnswer": "ぬるい",
+      "explanation": "「tepid」は、ぬるい、熱意のないという意味です。ここでは、Amyがぬるい水を注文することで、Sheldonとの関係に熱意がないことを示唆しています。また、感情や反応が lukewarm であることも表します。"
+    }
+  ]
+}

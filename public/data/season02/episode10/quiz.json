@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "relentless",
+      "options": [
+        "終わりのない",
+        "一時的な",
+        "楽しい",
+        "穏やかな"
+      ],
+      "correctAnswer": "終わりのない",
+      "explanation": "「relentless」は、容赦ない、執拗な、という意味です。困難や障害があっても、決して諦めずに努力し続ける様子を表します。ネガティブな意味合いで使われることもあります。類義語には、persistent, unyielding, incessantなどがあります。例：The relentless pursuit of perfection.（完璧を求める終わりのない追求）"
+    },
+    {
+      "id": 2,
+      "value": "narcissistic",
+      "options": [
+        "自己陶酔的な",
+        "謙虚な",
+        "利他的な",
+        "内向的な"
+      ],
+      "correctAnswer": "自己陶酔的な",
+      "explanation": "「narcissistic」は、自己陶酔的な、自己中心的なという意味です。ギリシャ神話のナルキッソスに由来し、自分自身を過剰に愛し、他人への共感に欠ける様子を表します。類義語には、egotistical, self-centered, vainなどがあります。例：His narcissistic personality made it difficult to work with him. (彼の自己陶酔的な性格のせいで、彼と働くのは難しかった。)"
+    },
+    {
+      "id": 3,
+      "value": "drone",
+      "options": [
+        "単調な音",
+        "静寂",
+        "メロディー",
+        "騒音"
+      ],
+      "correctAnswer": "単調な音",
+      "explanation": "「drone」は、ここでは単調な音、低い唸り声、という意味で使われています。比喩的に、退屈で単調な話や人のことを指すこともあります。例：The drone of the air conditioner was lulling me to sleep. (エアコンの単調な音が私を眠りに誘っていた。)"
+    },
+    {
+      "id": 4,
+      "value": "lingering",
+      "options": [
+        "長引く",
+        "すぐに消える",
+        "新しい",
+        "一般的な"
+      ],
+      "correctAnswer": "長引く",
+      "explanation": "「lingering」は、長引く、なかなか消えない、という意味です。病気、匂い、思い出など、消えずに残るものを表します。類義語には、remaining, persistingなどがあります。例：The lingering smell of smoke filled the room. (煙の長引く匂いが部屋に充満していた。)"
+    },
+    {
+      "id": 5,
+      "value": "swirlies",
+      "options": [
+        "いたずら",
+        "贈り物",
+        "お祝い",
+        "ゲーム"
+      ],
+      "correctAnswer": "いたずら",
+      "explanation": "「swirlies」は、主にアメリカ英語のスラングで、人を便器に頭から突っ込んで水を流すといういたずらを指します。子供の頃の残酷ないたずらとして言及されることが多いです。"
+    },
+    {
+      "id": 6,
+      "value": "ailments",
+      "options": [
+        "軽い病気",
+        "健康",
+        "幸福",
+        "強さ"
+      ],
+      "correctAnswer": "軽い病気",
+      "explanation": "「ailment」は、軽い病気、不調という意味です。深刻な病気ではなく、一時的な体調不良を指すことが多いです。類義語には、illness, malady, complaintなどがあります。例：She suffered from a series of minor ailments. (彼女は一連の軽い病気に苦しんだ。)"
+    },
+    {
+      "id": 7,
+      "value": "octave",
+      "options": [
+        "オクターブ",
+        "音階",
+        "和音",
+        "リズム"
+      ],
+      "correctAnswer": "オクターブ",
+      "explanation": "「octave」は、音楽用語でオクターブを意味します。ここでは、シェルドンが聞こえる音の高さを表すために使われています。完全8度とも呼ばれます。"
+    },
+    {
+      "id": 8,
+      "value": "motion fails",
+      "options": [
+        "動議が否決される",
+        "動議が可決される",
+        "動議が延期される",
+        "動議が取り下げられる"
+      ],
+      "correctAnswer": "動議が否決される",
+      "explanation": "「motion fails」は、会議や議会などで提案された動議が、必要な賛成票を得られずに否決されることを意味します。正式な議事進行で使われる表現です。"
+    },
+    {
+      "id": 9,
+      "value": "implementation",
+      "options": [
+        "実行",
+        "提案",
+        "計画",
+        "議論"
+      ],
+      "correctAnswer": "実行",
+      "explanation": "「implementation」は、実行、実施、履行という意味です。計画や決定を実行に移すプロセスを指します。類義語には、execution, application, enforcementなどがあります。例：The implementation of the new policy was delayed. (新しい政策の実施は遅れた。)"
+    },
+    {
+      "id": 10,
+      "value": "deemed",
+      "options": [
+        "みなされる",
+        "否定される",
+        "無視される",
+        "保留される"
+      ],
+      "correctAnswer": "みなされる",
+      "explanation": "「deem」は、（～と）みなす、判断するという意味です。法律や契約など、フォーマルな文脈で使われることが多いです。類義語には、consider, regard, judgeなどがあります。例：He was deemed to be the best candidate for the job. (彼はその仕事に最適な候補者とみなされた。)"
+    },
+    {
+      "id": 11,
+      "value": "absurd",
+      "options": [
+        "ばかげた",
+        "賢明な",
+        "論理的な",
+        "現実的な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「absurd」は、ばかげた、不合理な、という意味です。常識や論理に反する、滑稽なほどおかしいことを表します。類義語には、ridiculous, preposterous, ludicrousなどがあります。例：It's absurd to think that he would agree. (彼が同意すると思うのはばかげている。)"
+    },
+    {
+      "id": 12,
+      "value": "clause",
+      "options": [
+        "条項",
+        "全体",
+        "要約",
+        "例外"
+      ],
+      "correctAnswer": "条項",
+      "explanation": "「clause」は、契約書や法律などの条項、条項という意味です。特定の条件や義務を定める部分を指します。例：There is a clause in the contract that allows you to cancel. (契約には、キャンセルを可能にする条項がある。)"
+    },
+    {
+      "id": 13,
+      "value": "provisions",
+      "options": [
+        "規定",
+        "曖昧さ",
+        "省略",
+        "誤り"
+      ],
+      "correctAnswer": "規定",
+      "explanation": "「provision」は、規定、条項、準備、という意味です。法律、契約、協定などで、特定の要件や条件を定めるものを指します。例文：The contract contains a provision for early termination. (その契約には、早期解約のための規定が含まれている。)"
+    },
+    {
+      "id": 14,
+      "value": "accommodate",
+      "options": [
+        "対応する",
+        "拒否する",
+        "無視する",
+        "反対する"
+      ],
+      "correctAnswer": "対応する",
+      "explanation": "「accommodate」は、対応する、適応する、収容する、という意味です。ニーズや要望に合わせて調整したり、便宜を図ったりすることを表します。類義語には、adjust, adapt, cater toなどがあります。例文：The hotel can accommodate up to 200 guests. (そのホテルは最大200名まで収容できる。)"
+    },
+    {
+      "id": 15,
+      "value": "accumulation",
+      "options": [
+        "蓄積",
+        "減少",
+        "分散",
+        "消費"
+      ],
+      "correctAnswer": "蓄積",
+      "explanation": "「accumulation」は、蓄積、累積、という意味です。徐々に集まって増えることを表します。類義語には、buildup, gathering, amassingなどがあります。例文：The accumulation of snow made driving difficult. (雪の蓄積により運転が困難になった。)"
+    },
+    {
+      "id": 16,
+      "value": "percussive",
+      "options": [
+        "打楽器の",
+        "旋律的な",
+        "弦楽器の",
+        "管楽器の"
+      ],
+      "correctAnswer": "打楽器の",
+      "explanation": "「percussive」は、打楽器の、打楽器のような、という意味です。叩いたり、打ったりして音を出す楽器に関連することを表します。例文：The music featured strong percussive elements. (その音楽は強い打楽器の要素を特徴としていた。)"
+    },
+    {
+      "id": 17,
+      "value": "brass instrument",
+      "options": [
+        "金管楽器",
+        "弦楽器",
+        "木管楽器",
+        "打楽器"
+      ],
+      "correctAnswer": "金管楽器",
+      "explanation": "「brass instrument」は、金管楽器を意味します。トランペット、トロンボーン、ホルン、チューバなどが含まれます。唇の振動によって音を出す楽器です。"
+    },
+    {
+      "id": 18,
+      "value": "prostate exam",
+      "options": [
+        "前立腺検査",
+        "血液検査",
+        "心臓検査",
+        "脳検査"
+      ],
+      "correctAnswer": "前立腺検査",
+      "explanation": "「prostate exam」は、前立腺検査を意味します。男性の前立腺の状態を調べるために行われる検査です。直腸を通して触診する方法が一般的です。"
+    },
+    {
+      "id": 19,
+      "value": "satisfied",
+      "options": [
+        "満足させた",
+        "怒らせた",
+        "無視した",
+        "失望させた"
+      ],
+      "correctAnswer": "満足させた",
+      "explanation": "「satisfied」は、満足させた、満たした、という意味です。ここでは、性的に満足させたという意味で使われています。例文：The customer was not satisfied with the service. (その顧客はサービスに満足していなかった。)"
+    },
+    {
+      "id": 20,
+      "value": "inappropriate",
+      "options": [
+        "不適切な",
+        "適切な",
+        "礼儀正しい",
+        "一般的な"
+      ],
+      "correctAnswer": "不適切な",
+      "explanation": "「inappropriate」は、不適切な、ふさわしくない、という意味です。状況や文脈に合わない言動や行動を指します。類義語には、unsuitable, improper, out of placeなどがあります。例文：It would be inappropriate to wear jeans to the wedding. (結婚式にジーンズを履いていくのは不適切だろう。)"
+    },
+    {
+      "id": 21,
+      "value": "offended",
+      "options": [
+        "気分を害した",
+        "喜んだ",
+        "安心した",
+        "感動した"
+      ],
+      "correctAnswer": "気分を害した",
+      "explanation": "「offended」は、気分を害した、気を悪くした、という意味です。相手の言動によって不快な気持ちになった状態を表します。例文：She was offended by his rude remarks. (彼女は彼の無礼な発言に気分を害した。)"
+    },
+    {
+      "id": 22,
+      "value": "casual",
+      "options": [
+        "形式ばらない",
+        "形式的な",
+        "厳格な",
+        "公式の"
+      ],
+      "correctAnswer": "形式ばらない",
+      "explanation": "「casual」は、形式ばらない、略式の、気軽な、という意味です。リラックスした、日常的な状況を表します。類義語には、informal, relaxed, easygoingなどがあります。例文：It's a casual Friday, so you don't have to wear a suit. (今日はカジュアルフライデーなので、スーツを着る必要はありません。)"
+    },
+    {
+      "id": 23,
+      "value": "mosey",
+      "options": [
+        "ぶらぶら歩く",
+        "急いで走る",
+        "立ち止まる",
+        "踊る"
+      ],
+      "correctAnswer": "ぶらぶら歩く",
+      "explanation": "「mosey」は、ぶらぶら歩く、のんびり歩く、という意味です。特に目的もなく、気楽に歩く様子を表します。類義語には、saunter, stroll, wanderなどがあります。例文：They moseyed along the beach. (彼らは海岸をぶらぶら歩いた。)"
+    },
+    {
+      "id": 24,
+      "value": "gall bladder",
+      "options": [
+        "胆嚢",
+        "腎臓",
+        "肝臓",
+        "膵臓"
+      ],
+      "correctAnswer": "胆嚢",
+      "explanation": "「gall bladder」は、胆嚢を意味します。肝臓で作られた胆汁を貯めておく臓器です。消化を助ける役割があります。"
+    },
+    {
+      "id": 25,
+      "value": "lack of",
+      "options": [
+        "不足",
+        "過剰",
+        "類似",
+        "平等"
+      ],
+      "correctAnswer": "不足",
+      "explanation": "「lack of」は、〜の不足、欠如、という意味です。必要なものが足りない状態を表します。類義語には、absence of, shortage of, want ofなどがあります。例文：The project failed due to a lack of funding. (そのプロジェクトは資金不足のために失敗した。)"
+    },
+    {
+      "id": 26,
+      "value": "offend",
+      "options": [
+        "喜ばせる",
+        "侮辱する",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "侮辱する",
+      "explanation": "「offend」は、人の感情を害する、気分を悪くさせるという意味です。意図的である場合も、そうでない場合もあります。フォーマルな文脈でもカジュアルな文脈でも使用されます。\n\n例：I didn't mean to offend you. (あなたを怒らせるつもりはなかった。)"
+    },
+    {
+      "id": 27,
+      "value": "terrific",
+      "options": [
+        "ひどい",
+        "素晴らしい",
+        "普通",
+        "退屈"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、非常に素晴らしい、素晴らしい、という意味です。肯定的な意味合いが強く、日常会話で広く使われます。\n\n例：You look terrific! (あなたはとても素敵に見えます！)"
+    },
+    {
+      "id": 28,
+      "value": "pull out",
+      "options": [
+        "隠す",
+        "取り出す",
+        "しまう",
+        "忘れる"
+      ],
+      "correctAnswer": "取り出す",
+      "explanation": "「pull out」は、引き出す、取り出すという意味です。物理的なものだけでなく、情報や計画などを取り出す際にも使われます。\n\n例：He pulled out a gun. (彼は銃を取り出した。)"
+    },
+    {
+      "id": 29,
+      "value": "scented",
+      "options": [
+        "無臭の",
+        "香りのついた",
+        "汚れた",
+        "古い"
+      ],
+      "correctAnswer": "香りのついた",
+      "explanation": "「scented」は、香りのついた、芳香のあるという意味です。特定の香りが添加されていることを指します。\n\n例：She bought scented candles. (彼女は香りのついたキャンドルを買った。)"
+    },
+    {
+      "id": 30,
+      "value": "go down swinging",
+      "options": [
+        "諦める",
+        "最後まで抵抗する",
+        "逃げる",
+        "同意する"
+      ],
+      "correctAnswer": "最後まで抵抗する",
+      "explanation": "「go down swinging」は、最後まで諦めずに戦う、抵抗するという意味です。困難な状況でも全力を尽くす姿勢を表します。\n\n例：Even though they were losing, they went down swinging. (負けていたけれども、彼らは最後まで抵抗した。)"
+    },
+    {
+      "id": 31,
+      "value": "blend",
+      "options": [
+        "分離",
+        "混合",
+        "純粋",
+        "単独"
+      ],
+      "correctAnswer": "混合",
+      "explanation": "「blend」は、混合、混ぜ合わせるという意味です。異なる要素が組み合わさって一つのものになることを指します。\n\n例：This coffee is a blend of different beans. (このコーヒーは異なる豆のブレンドです。)"
+    },
+    {
+      "id": 32,
+      "value": "veritable",
+      "options": [
+        "偽りの",
+        "本物の",
+        "小さな",
+        "不確かな"
+      ],
+      "correctAnswer": "本物の",
+      "explanation": "「veritable」は、本物の、真の、という意味です。強調する際に用いられ、名詞を修飾します。\n\n例：He is a veritable genius. (彼はまさに天才だ。)"
+    },
+    {
+      "id": 33,
+      "value": "smorgasbord",
+      "options": [
+        "少量",
+        "豊富な品揃え",
+        "単一料理",
+        "簡単な食事"
+      ],
+      "correctAnswer": "豊富な品揃え",
+      "explanation": "「smorgasbord」は、スウェーデン料理のバイキング形式の食事を指しますが、比喩的に、様々なものが豊富に揃っている状態を表すこともあります。\n\n例：The conference offered a smorgasbord of interesting topics. (その会議では、興味深いトピックが豊富に提供された。)"
+    },
+    {
+      "id": 34,
+      "value": "hit on",
+      "options": [
+        "避ける",
+        "口説く",
+        "無視する",
+        "攻撃する"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「hit on」は、人に声をかける、特に恋愛目的で口説くという意味です。カジュアルな表現です。\n\n例：He was hitting on her at the bar. (彼はバーで彼女を口説いていた。)"
+    },
+    {
+      "id": 35,
+      "value": "check out",
+      "options": [
+        "無視する",
+        "調べる",
+        "軽蔑する",
+        "尊敬する"
+      ],
+      "correctAnswer": "調べる",
+      "explanation": "「check out」は、確認する、調べる、という意味の句動詞です。この文脈では、（異性として）観察するという意味合いです。\n\n例：I need to check out of the hotel. (ホテルをチェックアウトする必要がある)"
+    },
+    {
+      "id": 36,
+      "value": "attribute to",
+      "options": [
+        "無視する",
+        "原因を特定する",
+        "隠す",
+        "改善する"
+      ],
+      "correctAnswer": "原因を特定する",
+      "explanation": "「attribute to」は、～の原因を…に帰する、～は…が原因であると考える、という意味です。\n\n例：The increase in sales can be attributed to the new marketing campaign. (売上増加は新しいマーケティングキャンペーンが原因であると考えられる。)"
+    },
+    {
+      "id": 37,
+      "value": "sneak past",
+      "options": [
+        "堂々と通過する",
+        "こっそり通過する",
+        "立ち止まる",
+        "挨拶する"
+      ],
+      "correctAnswer": "こっそり通過する",
+      "explanation": "「sneak past」は、こっそり通り過ぎる、気づかれないように進むという意味です。隠れて行動するニュアンスが含まれます。\n\n例：The cat tried to sneak past the dog. (猫は犬に気づかれないようにこっそり通り過ぎようとした。)"
+    },
+    {
+      "id": 38,
+      "value": "stethoscope",
+      "options": [
+        "体温計",
+        "聴診器",
+        "注射器",
+        "包帯"
+      ],
+      "correctAnswer": "聴診器",
+      "explanation": "「stethoscope」は、聴診器という意味です。医療現場で心臓や肺の音を聴くために使用されます。\n\n例：The doctor used a stethoscope to listen to my heart. (医者は私の心臓の音を聴くために聴診器を使った。)"
+    },
+    {
+      "id": 39,
+      "value": "blood pressure cuff",
+      "options": [
+        "体温計",
+        "血圧計",
+        "血糖値測定器",
+        "心電図"
+      ],
+      "correctAnswer": "血圧計",
+      "explanation": "「blood pressure cuff」は、血圧計（血圧を測る際に腕に巻く帯状のもの）という意味です。\n\n例：The nurse inflated the blood pressure cuff. (看護師は血圧計を膨らませた。)"
+    },
+    {
+      "id": 40,
+      "value": "fall back on",
+      "options": [
+        "頼る",
+        "避ける",
+        "忘れる",
+        "攻撃する"
+      ],
+      "correctAnswer": "頼る",
+      "explanation": "「fall back on」は、最終手段として頼る、当てにするという意味です。困ったときの代替手段として利用することを指します。\n\n例：If my business fails, I have my savings to fall back on. (もしビジネスが失敗したら、貯金に頼ることができる。)"
+    },
+    {
+      "id": 41,
+      "value": "theoretical physics",
+      "options": [
+        "実験物理学",
+        "理論物理学",
+        "応用物理学",
+        "生物物理学"
+      ],
+      "correctAnswer": "理論物理学",
+      "explanation": "「theoretical physics」は、理論物理学という意味です。実験や観測に頼らず、数学的なモデルや理論を用いて物理現象を研究する分野です。\n\n例：He is a professor of theoretical physics. (彼は理論物理学の教授だ。)"
+    },
+    {
+      "id": 42,
+      "value": "sphygmomanometer",
+      "options": [
+        "体温計",
+        "血圧計",
+        "心電図",
+        "肺活量計"
+      ],
+      "correctAnswer": "血圧計",
+      "explanation": "「sphygmomanometer」は、血圧計という意味です。blood pressure cuffの正式名称です。\n\n例：The doctor used a sphygmomanometer to measure my blood pressure. (医者は血圧計を使って私の血圧を測った。)"
+    },
+    {
+      "id": 43,
+      "value": "authorize",
+      "options": [
+        "禁止する",
+        "許可する",
+        "無視する",
+        "遅らせる"
+      ],
+      "correctAnswer": "許可する",
+      "explanation": "「authorize」は、権限を与える、許可する、という意味です。公式な許可や承認を意味することが多いです。\n\n例：I need you to authorize this payment. (この支払いを承認してほしい。)"
+    },
+    {
+      "id": 44,
+      "value": "cardiac stress test",
+      "options": [
+        "心臓MRI検査",
+        "心臓負荷テスト",
+        "血液検査",
+        "脳波検査"
+      ],
+      "correctAnswer": "心臓負荷テスト",
+      "explanation": "「cardiac stress test」は、心臓負荷テストという意味です。運動や薬物投与によって心臓に負荷をかけ、心臓の機能を評価する検査です。\n\n例：The doctor recommended a cardiac stress test. (医者は心臓負荷テストを勧めた。)"
+    },
+    {
+      "id": 45,
+      "value": "electromyogram",
+      "options": [
+        "心電図",
+        "筋電図",
+        "脳波検査",
+        "レントゲン"
+      ],
+      "correctAnswer": "筋電図",
+      "explanation": "「electromyogram」は、筋電図という意味です。筋肉の電気的な活動を記録する検査です。\n\n例：An electromyogram can help diagnose nerve damage. (筋電図は神経損傷の診断に役立つ。)"
+    },
+    {
+      "id": 46,
+      "value": "baseline",
+      "options": [
+        "平均値",
+        "基準値",
+        "最高値",
+        "最低値"
+      ],
+      "correctAnswer": "基準値",
+      "explanation": "「baseline」は、基準線、基準値、という意味です。変化を評価するための初期値や標準値として使用されます。\n\n例：We need to establish a baseline before starting the experiment. (実験を開始する前に基準値を設定する必要がある。)"
+    },
+    {
+      "id": 47,
+      "value": "exploratory",
+      "options": [
+        "調査的な",
+        "最終的な",
+        "限定的な",
+        "秘密の"
+      ],
+      "correctAnswer": "調査的な",
+      "explanation": "「exploratory」は、探求的な、調査的な、という意味です。未知の領域や問題を調査し、解明しようとする性質を表します。\n\n例：The company conducted an exploratory study of the new market. (会社は新しい市場に関する調査研究を行った。)"
+    },
+    {
+      "id": 48,
+      "value": "laparoscopy",
+      "options": [
+        "内視鏡検査",
+        "血液検査",
+        "MRI検査",
+        "X線検査"
+      ],
+      "correctAnswer": "内視鏡検査",
+      "explanation": "「laparoscopy」は、腹腔鏡検査という意味です。腹部に小さな切開を加え、内視鏡を挿入して臓器を観察する検査です。\n\n例：She underwent a laparoscopy to diagnose the problem. (彼女は問題を診断するために腹腔鏡検査を受けた。)"
+    },
+    {
+      "id": 49,
+      "value": "diaphragm",
+      "options": [
+        "心臓",
+        "横隔膜",
+        "肺",
+        "肝臓"
+      ],
+      "correctAnswer": "横隔膜",
+      "explanation": "「diaphragm」は、横隔膜という意味です。呼吸に関わる筋肉であり、胸腔と腹腔を隔てる役割を果たします。\n\n例：Hiccups are caused by spasms of the diaphragm. (しゃっくりは横隔膜の痙攣によって引き起こされる。)"
+    },
+    {
+      "id": 50,
+      "value": "barium",
+      "options": [
+        "カルシウム",
+        "バリウム",
+        "鉄",
+        "マグネシウム"
+      ],
+      "correctAnswer": "バリウム",
+      "explanation": "「barium」は、バリウムという意味です。X線検査の際に、消化管を可視化するために使用される造影剤です。\n\n例：He had to drink a barium solution before the X-ray. (彼はX線検査の前にバリウム溶液を飲まなければならなかった。)"
+    },
+    {
+      "id": 51,
+      "value": "fabric softener",
+      "options": [
+        "柔軟剤",
+        "漂白剤",
+        "洗剤",
+        "乾燥機シート"
+      ],
+      "correctAnswer": "柔軟剤",
+      "explanation": "「fabric softener」は洗濯物を柔らかくし、静電気を防ぐために使用する柔軟剤のことです。洗濯の際に洗剤と一緒に、またはすすぎの段階で使用します。例：Do you have any fabric softener? (何か柔軟剤を持っていますか？)"
+    },
+    {
+      "id": 52,
+      "value": "sweetie",
+      "options": [
+        "恋人",
+        "親愛なる人",
+        "愚か者",
+        "友人"
+      ],
+      "correctAnswer": "親愛なる人",
+      "explanation": "「sweetie」は、親愛の情を込めて誰かを呼ぶときに使う言葉です。恋人や親しい友人、家族などに対して使われます。特に相手を気遣う場面で使われることが多いです。例：Oh, sweetie, you can’t machine wash these. (あら、かわいそうに、これらは洗濯機で洗ってはいけません。)"
+    },
+    {
+      "id": 53,
+      "value": "ruined",
+      "options": [
+        "修理された",
+        "改善された",
+        "台無しにされた",
+        "保存された"
+      ],
+      "correctAnswer": "台無しにされた",
+      "explanation": "「ruined」は、物事が損傷したり、価値がなくなったり、または計画やイベントが失敗したりすることを意味します。この場合は、洗濯によってズボンが台無しになることを指しています。例：They'll be ruined. (それらは台無しになるでしょう。)"
+    },
+    {
+      "id": 54,
+      "value": "uncomfortable",
+      "options": [
+        "快適な",
+        "不快な",
+        "安全な",
+        "満足な"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「uncomfortable」は、肉体的または精神的に不快な状態を表します。この文脈では、レオナルドが現在の同棲生活に不満を感じていることを示唆しています。例：if you’re uncomfortable with the way things are going (もしあなたが物事の進み方に不快に感じているなら)"
+    },
+    {
+      "id": 55,
+      "value": "grasp on",
+      "options": [
+        "理解",
+        "拒絶",
+        "攻撃",
+        "無視"
+      ],
+      "correctAnswer": "理解",
+      "explanation": "「grasp on」は、何かを理解したり、把握したりする能力を意味します。ペニーが人間関係についてよく理解していることをレオナルドが認めている場面で使用されています。例：You have a really good grasp on this. (あなた(ペニー)はこれ(人間関係)について本当に良く理解していますね。)"
+    },
+    {
+      "id": 56,
+      "value": "larynx",
+      "options": [
+        "肺",
+        "喉頭",
+        "食道",
+        "気管"
+      ],
+      "correctAnswer": "喉頭",
+      "explanation": "「larynx」は、日本語で喉頭（こうとう）といい、声帯がある器官です。発声に重要な役割を果たします。シェルドンの喉の状態を診断する際に使われています。例：Your larynx is terribly inflamed. (あなたの喉頭はひどく炎症を起こしています。)"
+    },
+    {
+      "id": 57,
+      "value": "inflamed",
+      "options": [
+        "治癒した",
+        "炎症を起こした",
+        "麻痺した",
+        "強化された"
+      ],
+      "correctAnswer": "炎症を起こした",
+      "explanation": "「inflamed」は、炎症を起こしている状態を指します。医学的な文脈でよく使われ、赤く腫れて痛みがある状態を表します。例：Your larynx is terribly inflamed. (あなたの喉頭はひどく炎症を起こしています。)"
+    },
+    {
+      "id": 58,
+      "value": "immediately",
+      "options": [
+        "すぐに",
+        "後で",
+        "ゆっくりと",
+        "永遠に"
+      ],
+      "correctAnswer": "すぐに",
+      "explanation": "「immediately」は「直ちに」「すぐに」という意味の副詞です。時間的な遅延なく、行動やイベントがすぐに起こることを強調します。例：You’re going to need to stop talking immediately. (あなたはすぐに話すのを止める必要があります。)"
+    },
+    {
+      "id": 59,
+      "value": "Sheldonectomy",
+      "options": [
+        "シェルドンの切除",
+        "シェルドンの模倣",
+        "シェルドンの分析",
+        "シェルドンからの逃避"
+      ],
+      "correctAnswer": "シェルドンの切除",
+      "explanation": "「Sheldonectomy」は、ステファニーがシェルドン（Sheldon）というキャラクターの行動や影響を一時的に取り除く、あるいは遮断するという意味で使った造語です。手術（-ectomy）という接尾辞を使って、ユーモラスに表現しています。例：I just performed a Sheldonectomy. (私は今、シェルドン切除術を行ったところです。)"
+    },
+    {
+      "id": 60,
+      "value": "going pretty quick",
+      "options": [
+        "非常に遅い",
+        "非常に速い",
+        "普通",
+        "停止している"
+      ],
+      "correctAnswer": "非常に速い",
+      "explanation": "「going pretty quick」は、物事が急速に進んでいる状態を表します。この文脈では、レオナルドとステファニーの関係が急速に進展していることを意味しています。例：things between you and me have been going pretty quick. (あなたと私の間の物事は非常に速く進んでいます。)"
+    },
+    {
+      "id": 61,
+      "value": "scary good",
+      "options": [
+        "非常に悪い",
+        "良い意味で怖い",
+        "全く怖くない",
+        "普通"
+      ],
+      "correctAnswer": "良い意味で怖い",
+      "explanation": "「scary good」は、文字通りには「怖いくらい良い」という意味で、何かが非常に優れている、素晴らしい、あるいは信じられないほど良い状態を表現する際に使われます。ただし、良い意味での「怖い」であり、文字通りの恐怖感を表すわけではありません。例：Well, yeah, but scary good, right? (ええ、まあ、でも良い意味で怖い、そうでしょう？)"
+    },
+    {
+      "id": 62,
+      "value": "shoot",
+      "options": [
+        "成功",
+        "失敗",
+        "射撃",
+        "爆発"
+      ],
+      "correctAnswer": "失敗",
+      "explanation": "「shoot」は、軽い失望や失敗、または何かを忘れたり、言い間違えたりしたときに使われる間投詞です。「しまった！」というニュアンスです。例：oh, shoot, I had it! (ああ、しまった、言いたかったことがあったのに！)"
+    },
+    {
+      "id": 63,
+      "value": "cramps",
+      "options": [
+        "痛み止め",
+        "けいれん",
+        "マッサージ",
+        "リラックス"
+      ],
+      "correctAnswer": "けいれん",
+      "explanation": "「cramps」は、筋肉のけいれんや痛みを指します。一般的には、運動後や特定の体勢を続けた後などに起こることがあります。レオナルドは、食後にステファニーが感情を打ち明けることに対して、比喩的に「cramps（けいれん）」を心配しています。例：I just hope I don’t get cramps. (けいれんが起こらないといいのですが。)"
+    },
+    {
+      "id": 64,
+      "value": "machine wash",
+      "options": [
+        "手洗い",
+        "洗濯機で洗う",
+        "ドライクリーニング",
+        "アイロンがけ"
+      ],
+      "correctAnswer": "洗濯機で洗う",
+      "explanation": "「machine wash」は、洗濯機で洗うことを意味します。衣類の洗濯表示などでよく見られる表現です。ペニーはレオナルドのズボンが洗濯機で洗えないことを伝えています。例：you can’t machine wash these. (これらは洗濯機で洗ってはいけません。)"
+    },
+    {
+      "id": 65,
+      "value": "living together",
+      "options": [
+        "別居",
+        "同棲",
+        "単身赴任",
+        "旅行"
+      ],
+      "correctAnswer": "同棲",
+      "explanation": "「living together」は、恋人や夫婦が一緒に住む、つまり同棲することを意味します。レオナルドとステファニーが同棲を始めたことについて話しています。例：this whole living together happened kind of suddenly (この同棲は少し急に始まった)"
+    },
+    {
+      "id": 66,
+      "value": "pace",
+      "options": [
+        "場所",
+        "速度",
+        "方向",
+        "距離"
+      ],
+      "correctAnswer": "速度",
+      "explanation": "「pace」は、物事が進む速度やペースを意味します。レオナルドは、関係の進展が速すぎるのではないかと感じています。例：move at a pace that you both are comfortable with (お互いが快適なペースで進む)"
+    },
+    {
+      "id": 67,
+      "value": "wave",
+      "options": [
+        "挨拶",
+        "別れ",
+        "攻撃",
+        "無視"
+      ],
+      "correctAnswer": "挨拶",
+      "explanation": "「wave」は、手を振って挨拶や合図を送る行為を指します。レオナルドがシェルドンに手を振って挨拶する場面です。例：Sheldon. (He waves) (シェルドン。(彼は手を振る))"
+    },
+    {
+      "id": 68,
+      "value": "honey",
+      "options": [
+        "軽蔑",
+        "愛情",
+        "怒り",
+        "無関心"
+      ],
+      "correctAnswer": "愛情",
+      "explanation": "「honey」は、親愛の情を込めて相手を呼ぶ言葉で、恋人や配偶者、親しい友人などに対して使われます。「ダーリン」「ハニー」といったニュアンスです。例：Oh, hi, honey. (あら、ハニー、こんにちは。)"
+    },
+    {
+      "id": 69,
+      "value": "tell me what it is you're feeling",
+      "options": [
+        "何を感じているのか教えて",
+        "何をしているのか教えて",
+        "どこにいるのか教えて",
+        "何を考えているのか教えて"
+      ],
+      "correctAnswer": "何を感じているのか教えて",
+      "explanation": "「tell me what it is you’re feeling」は、「あなたが何を感じているのか教えてください」という意味です。感情や気持ちを言葉で表現するように促す表現です。例：why don’t you tell me what it is you’re feeling? (あなたはなぜ自分が何を感じているのか教えてくれないの？)"
+    },
+    {
+      "id": 70,
+      "value": "Wonderful",
+      "options": [
+        "最悪",
+        "素晴らしい",
+        "普通",
+        "退屈"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「Wonderful」は、非常に良い、素晴らしいという意味の形容詞です。皮肉を込めて使われることもあります。例：It’s wonderful. (素晴らしい)"
+    },
+    {
+      "id": 71,
+      "value": "Allowed to say something",
+      "options": [
+        "何も言ってはいけない",
+        "何かを言うことが許可されている",
+        "何かを言わなければならない",
+        "何かを言うことが義務付けられている"
+      ],
+      "correctAnswer": "何かを言うことが許可されている",
+      "explanation": "「Allowed to say something」は、何かを言うことが許可されている、または何かを言う権利があるという意味です。この文脈では、自分の感情や意見を表現することが許されていることを示唆しています。例：you’re allowed to say something. (あなたは何かを言うことが許可されています。)"
+    },
+    {
+      "id": 72,
+      "value": "Right now",
+      "options": [
+        "後で",
+        "今すぐ",
+        "昨日",
+        "明日"
+      ],
+      "correctAnswer": "今すぐ",
+      "explanation": "「Right now」は、「今すぐ」「ただちに」という意味で、時間的な遅延がないことを強調します。例：Really? Right now? (本当に？今すぐ？)"
+    },
+    {
+      "id": 73,
+      "value": "Sure",
+      "options": [
+        "確信がない",
+        "もちろん",
+        "たぶん",
+        "ありえない"
+      ],
+      "correctAnswer": "もちろん",
+      "explanation": "「Sure」は、肯定的な返事や同意を表す言葉で、「もちろん」「いいよ」「承知しました」といった意味合いで使われます。相手の提案や依頼に対して快く応じる際に使われることが多いです。例：Penny: Sure. (ペニー: いいよ。)"
+    },
+    {
+      "id": 74,
+      "value": "kind of suddenly",
+      "options": [
+        "ゆっくりと",
+        "突然に",
+        "計画的に",
+        "徐々に"
+      ],
+      "correctAnswer": "突然に",
+      "explanation": "「kind of suddenly」は、「いくらか突然に」「やや急に」という意味で、何かが予期せずに起こったことを表現する際に使われます。「kind of」は程度を表す副詞句として機能し、完全な突然ではないニュアンスを加えています。例：maybe this whole living together happened kind of suddenly (この同棲は少し急に始まった)"
+    },
+    {
+      "id": 75,
+      "value": "as important as",
+      "options": [
+        "より重要",
+        "同じくらい重要",
+        "重要ではない",
+        "全く重要ではない"
+      ],
+      "correctAnswer": "同じくらい重要",
+      "explanation": "「as important as」は、「〜と同じくらい重要」という意味で、2つのものが同等の重要性を持つことを示す際に使われます。比較級の構文であり、平等な価値や重要性を強調する際に用いられます。例：your feelings are just as important as hers. (あなたの気持ちは彼女の気持ちと同じくらい重要です。)"
+    },
+    {
+      "id": 76,
+      "value": "slow things down",
+      "options": [
+        "物事を加速させる",
+        "物事をゆっくり進める",
+        "物事を秘密にする",
+        "物事を複雑にする"
+      ],
+      "correctAnswer": "物事をゆっくり進める",
+      "explanation": "「slow things down」は、関係や進行中の事柄のペースを落とす、または一時停止するという意味です。恋愛関係においては、相手との関係を深めるのを一旦保留したい時に使われます。"
+    },
+    {
+      "id": 77,
+      "value": "work out",
+      "options": [
+        "運動する",
+        "解決する",
+        "理解する",
+        "計画する"
+      ],
+      "correctAnswer": "解決する",
+      "explanation": "「work out」は、物事がうまくいく、解決するという意味です。問題が解決したり、計画が成功したりする状況で使われます。また、運動するという意味もあります。"
+    },
+    {
+      "id": 78,
+      "value": "entitled to",
+      "options": [
+        "義務がある",
+        "権利がある",
+        "責任がある",
+        "許可されている"
+      ],
+      "correctAnswer": "権利がある",
+      "explanation": "「be entitled to」は、～する権利がある、～を得る資格があるという意味です。法的な権利や当然の権利を主張する際に用いられます。"
+    },
+    {
+      "id": 79,
+      "value": "go along with",
+      "options": [
+        "反対する",
+        "我慢する",
+        "同意する",
+        "無視する"
+      ],
+      "correctAnswer": "同意する",
+      "explanation": "「go along with」は、～に同意する、～に従うという意味です。相手の意見や提案に賛成したり、計画に参加したりする際に使われます。"
+    },
+    {
+      "id": 80,
+      "value": "dump me",
+      "options": [
+        "助けてくれる",
+        "慰めてくれる",
+        "捨てられる",
+        "尊敬してくれる"
+      ],
+      "correctAnswer": "捨てられる",
+      "explanation": "「dump」は、恋人を振る、見捨てるという意味です。恋愛関係が終わる状況で使われる口語的な表現です。"
+    },
+    {
+      "id": 81,
+      "value": "meant to be",
+      "options": [
+        "偶然である",
+        "運命である",
+        "計画された",
+        "強制された"
+      ],
+      "correctAnswer": "運命である",
+      "explanation": "「meant to be」は、運命である、そうなるはずだったという意味です。特に恋愛関係において、二人が結ばれるのは必然だったというニュアンスで使われます。"
+    },
+    {
+      "id": 82,
+      "value": "run into",
+      "options": [
+        "避ける",
+        "探す",
+        "偶然出会う",
+        "競争する"
+      ],
+      "correctAnswer": "偶然出会う",
+      "explanation": "「run into」は、偶然出会う、ばったり会うという意味です。予期せぬ出会いを表現する際に使われます。"
+    },
+    {
+      "id": 83,
+      "value": "pretend like",
+      "options": [
+        "理解する",
+        "気にしないふりをする",
+        "怒る",
+        "感謝する"
+      ],
+      "correctAnswer": "気にしないふりをする",
+      "explanation": "「pretend like」は、～のふりをする、～のようなそぶりを見せるという意味です。実際とは異なる感情や行動を装う際に使われます。"
+    },
+    {
+      "id": 84,
+      "value": "dying inside",
+      "options": [
+        "非常に喜んでいる",
+        "非常に悲しんでいる",
+        "非常に怒っている",
+        "非常に疲れている"
+      ],
+      "correctAnswer": "非常に悲しんでいる",
+      "explanation": "「dying inside」は、心の中で非常に苦しんでいる、悲しんでいるという意味です。表面上は平静を装っていても、内面では大きな苦痛を感じている状態を表します。"
+    },
+    {
+      "id": 85,
+      "value": "terrific",
+      "options": [
+        "恐ろしい",
+        "素晴らしい",
+        "退屈な",
+        "普通の"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、素晴らしい、 굉장한、という意味です。非常に良い、優れたものを褒める際に使われます。"
+    },
+    {
+      "id": 86,
+      "value": "dust ruffle",
+      "options": [
+        "家具",
+        "カーテン",
+        "ベッドスカート",
+        "枕カバー"
+      ],
+      "correctAnswer": "ベッドスカート",
+      "explanation": "「dust ruffle」は、ベッドスカートのことです。ベッドのフレームとマットレスの間に挟んで、ベッドの下のほこりを防ぐ役割があります。また、装飾的な意味合いもあります。"
+    },
+    {
+      "id": 87,
+      "value": "duvet",
+      "options": [
+        "枕",
+        "毛布",
+        "掛け布団",
+        "シーツ"
+      ],
+      "correctAnswer": "掛け布団",
+      "explanation": "「duvet」は、羽毛や合成繊維を詰めた掛け布団のことです。通常、カバーをかけて使用します。ヨーロッパで広く使われており、日本でも人気が高まっています。"
+    },
+    {
+      "id": 88,
+      "value": "the other way around",
+      "options": [
+        "同じ方向",
+        "逆の状況",
+        "別の場所",
+        "遠い場所"
+      ],
+      "correctAnswer": "逆の状況",
+      "explanation": "「the other way around」は、逆の状況、反対にという意味です。通常とは異なる状況や順番を表現する際に使われます。"
+    },
+    {
+      "id": 89,
+      "value": "contemptible",
+      "options": [
+        "尊敬に値する",
+        "軽蔑に値する",
+        "愛らしい",
+        "面白い"
+      ],
+      "correctAnswer": "軽蔑に値する",
+      "explanation": "「contemptible」は、軽蔑に値する、卑劣なという意味です。道徳的に非難されるべき行為や人物を指す際に使われます。"
+    },
+    {
+      "id": 90,
+      "value": "sold",
+      "options": [
+        "売れた",
+        "納得した",
+        "拒否した",
+        "盗まれた"
+      ],
+      "correctAnswer": "納得した",
+      "explanation": "「sold」は、ここでは「納得した」「それでいい」という意味の口語的な表現です。提案や意見に対して同意する際に使われます。"
+    },
+    {
+      "id": 91,
+      "value": "see ya",
+      "options": [
+        "またね",
+        "助けて",
+        "ありがとう",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "またね",
+      "explanation": "「see ya」は、「see you」の略で、またね、じゃあねという意味です。別れ際に使われるカジュアルな表現です。"
+    },
+    {
+      "id": 92,
+      "value": "inflamed larynx",
+      "options": [
+        "健康な心臓",
+        "炎症を起こした喉頭",
+        "丈夫な足",
+        "元気な脳"
+      ],
+      "correctAnswer": "炎症を起こした喉頭",
+      "explanation": "\"inflamed larynx\"は、喉頭炎、つまり喉頭が炎症を起こしている状態を指します。喉の痛みや声のかすれなどの症状を引き起こします。"
+    },
+    {
+      "id": 93,
+      "value": "herbal tea",
+      "options": [
+        "緑茶",
+        "紅茶",
+        "ハーブティー",
+        "コーヒー"
+      ],
+      "correctAnswer": "ハーブティー",
+      "explanation": "\"herbal tea\"は、ハーブを乾燥させてお湯で抽出したお茶のことです。カフェインを含まないものが多く、リラックス効果や特定の効能が期待されます。"
+    },
+    {
+      "id": 94,
+      "value": "hiney",
+      "options": [
+        "お尻",
+        "蜂蜜",
+        "膝",
+        "頭"
+      ],
+      "correctAnswer": "蜂蜜",
+      "explanation": "これはhoney(蜂蜜)をSheldonの作った機械が誤って読み上げたものです。"
+    },
+    {
+      "id": 95,
+      "value": "one way or another",
+      "options": [
+        "同じように",
+        "何とかして",
+        "いつも",
+        "決して"
+      ],
+      "correctAnswer": "何とかして",
+      "explanation": "「one way or another」は、何とかして、どうにかしてという意味です。どのような手段を使っても、必ず目標を達成するという強い意志を表します。"
+    },
+    {
+      "id": 96,
+      "value": "have feelings",
+      "options": [
+        "感情がない",
+        "感情を持つ",
+        "感情を隠す",
+        "感情を無視する"
+      ],
+      "correctAnswer": "感情を持つ",
+      "explanation": "「have feelings」は、感情を持つ、好意を抱くという意味です。特に恋愛感情について使われることが多いです。"
+    },
+    {
+      "id": 97,
+      "value": "subject got changed",
+      "options": [
+        "話題が終わった",
+        "話題が変わった",
+        "話題が秘密になった",
+        "話題が録音された"
+      ],
+      "correctAnswer": "話題が変わった",
+      "explanation": "「subject got changed」は、話題が変わったという意味です。会話の流れが変わる際に使われます。"
+    },
+    {
+      "id": 98,
+      "value": "little bit",
+      "options": [
+        "たくさん",
+        "少し",
+        "全くない",
+        "いつも"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「little bit」は、少し、わずかにという意味です。程度や量を控えめに表現する際に使われます。"
+    },
+    {
+      "id": 99,
+      "value": "rethinking",
+      "options": [
+        "忘れる",
+        "考え直す",
+        "繰り返す",
+        "無視する"
+      ],
+      "correctAnswer": "考え直す",
+      "explanation": "「rethinking」は、考え直す、再考するという意味です。過去の行動や考え方を見直す際に使われます。"
+    },
+    {
+      "id": 100,
+      "value": "chance you have to take",
+      "options": [
+        "避けるべき機会",
+        "掴むべき機会",
+        "無視すべき機会",
+        "与えられた機会"
+      ],
+      "correctAnswer": "掴むべき機会",
+      "explanation": "「chance you have to take」は、リスクを伴うが、挑戦する価値のある機会という意味です。決断を迫られている状況で使われます。"
+    }
+  ]
+}

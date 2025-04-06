@@ -1,0 +1,1012 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "sucka",
+      "options": [
+        "友人",
+        "敵",
+        "仲間",
+        "先生"
+      ],
+      "correctAnswer": "敵",
+      "explanation": "「sucka」は「sucker」のスラング表現で、だまされやすい人、カモ、または弱くて軽蔑されるべき人を指します。ここでは、ゲームの相手を挑発する際に使われています。"
+    },
+    {
+      "id": 2,
+      "value": "water sprite",
+      "options": [
+        "水の妖精",
+        "火の精霊",
+        "土の精霊",
+        "風の妖精"
+      ],
+      "correctAnswer": "水の妖精",
+      "explanation": "「water sprite」は、水の精、水の妖精を意味します。ファンタジー作品などでよく登場するキャラクターです。"
+    },
+    {
+      "id": 3,
+      "value": "misnomer",
+      "options": [
+        "誤用",
+        "美称",
+        "通称",
+        "略称"
+      ],
+      "correctAnswer": "誤用",
+      "explanation": "「misnomer」は、名前や用語が不適切または不正確に使用されていることを指します。見た目や印象と実態が異なる場合に用いられます。\n例：Calling it 'organic' is a misnomer, as it contains artificial ingredients."
+    },
+    {
+      "id": 4,
+      "value": "eidetic memory",
+      "options": [
+        "忘却",
+        "短期記憶",
+        "曖昧な記憶",
+        "完全記憶"
+      ],
+      "correctAnswer": "完全記憶",
+      "explanation": "「eidetic memory」は、見たものを非常に鮮明に記憶できる能力、すなわち完全記憶を指します。写真のように詳細に思い出すことができる能力です。"
+    },
+    {
+      "id": 5,
+      "value": "have a bone to pick with",
+      "options": [
+        "相談したいことがある",
+        "食事に行きたい",
+        "議論したいことがある",
+        "手伝ってほしい"
+      ],
+      "correctAnswer": "議論したいことがある",
+      "explanation": "「have a bone to pick with」は、誰かに対して不満があり、それについて話し合いたいという意味のイディオムです。不満や苦情を伝える際に使われます。\n例：I have a bone to pick with you about the way you spoke to my sister."
+    },
+    {
+      "id": 6,
+      "value": "hook (someone) up with",
+      "options": [
+        "見捨てる",
+        "紹介する",
+        "仲間はずれにする",
+        "邪魔する"
+      ],
+      "correctAnswer": "紹介する",
+      "explanation": "「hook (someone) up with」は、誰かと誰かを（通常は恋愛関係で）紹介する、または便宜を図るという意味です。\n例：I can hook you up with a good mechanic."
+    },
+    {
+      "id": 7,
+      "value": "preemptive",
+      "options": [
+        "予防的な",
+        "結果的な",
+        "偶発的な",
+        "計画的な"
+      ],
+      "correctAnswer": "予防的な",
+      "explanation": "「preemptive」は、何か悪いことが起こるのを防ぐために先に行動することを意味します。ここでは、上映前にトイレに行くことを指しています。\n例：The company took preemptive measures to avoid a lawsuit."
+    },
+    {
+      "id": 8,
+      "value": "indulge in",
+      "options": [
+        "我慢する",
+        "楽しむ",
+        "軽蔑する",
+        "無視する"
+      ],
+      "correctAnswer": "楽しむ",
+      "explanation": "「indulge in」は、何かを（特に快楽的なこと）好きなだけ楽しむ、満喫するという意味です。\n例：I decided to indulge in a piece of chocolate cake."
+    },
+    {
+      "id": 9,
+      "value": "damn it",
+      "options": [
+        "頑張って",
+        "おめでとう",
+        "くそ",
+        "ありがとう"
+      ],
+      "correctAnswer": "くそ",
+      "explanation": "「damn it」は、いらだちや不満を表すときに使われる間投詞です。「くそ」「ちくしょう」といった意味合いです。"
+    },
+    {
+      "id": 10,
+      "value": "stress",
+      "options": [
+        "強調する",
+        "無視する",
+        "隠す",
+        "避ける"
+      ],
+      "correctAnswer": "強調する",
+      "explanation": "「stress」は、重要性や深刻さを強調するという意味です。\n例：I want to stress the importance of following the safety guidelines."
+    },
+    {
+      "id": 11,
+      "value": "fix me up",
+      "options": [
+        "修理する",
+        "紹介する",
+        "捨てる",
+        "避ける"
+      ],
+      "correctAnswer": "紹介する",
+      "explanation": "「fix (someone) up」は、誰かにデートの相手を紹介するという意味です。\n例：My friend fixed me up with her cousin."
+    },
+    {
+      "id": 12,
+      "value": "body fat",
+      "options": [
+        "体脂肪",
+        "筋肉",
+        "身長",
+        "体重"
+      ],
+      "correctAnswer": "体脂肪",
+      "explanation": "「body fat」は、体脂肪を意味します。健康や体型に関連する話題でよく使われます。"
+    },
+    {
+      "id": 13,
+      "value": "chicken wing",
+      "options": [
+        "鶏の胸肉",
+        "鶏の足",
+        "鶏の手羽先",
+        "鶏の首"
+      ],
+      "correctAnswer": "鶏の手羽先",
+      "explanation": "「chicken wing」は、鶏の手羽先を意味します。ここでは、Howardの痩せている体型を例えるために使われています。"
+    },
+    {
+      "id": 14,
+      "value": "phantom",
+      "options": [
+        "幽霊の",
+        "英雄の",
+        "有名な",
+        "普通の"
+      ],
+      "correctAnswer": "幽霊の",
+      "explanation": "「phantom」は、幽霊のような、幻影の、という意味です。ここでは、ゲームのカードの名称として使われています。"
+    },
+    {
+      "id": 15,
+      "value": "warlord",
+      "options": [
+        "平和主義者",
+        "戦士",
+        "商人",
+        "学者"
+      ],
+      "correctAnswer": "戦士",
+      "explanation": "「warlord」は、軍閥の長、戦争指導者という意味です。ここでは、ゲームのカードの名称として使われています。"
+    },
+    {
+      "id": 16,
+      "value": "back (someone) up",
+      "options": [
+        "裏切る",
+        "支持する",
+        "無視する",
+        "攻撃する"
+      ],
+      "correctAnswer": "支持する",
+      "explanation": "「back (someone) up」は、誰かを支持する、支援するという意味です。\n例：I'll back you up in the meeting."
+    },
+    {
+      "id": 17,
+      "value": "strangling",
+      "options": [
+        "窒息させる",
+        "解放する",
+        "保護する",
+        "励ます"
+      ],
+      "correctAnswer": "窒息させる",
+      "explanation": "「strangling」は、絞め殺す、窒息させるという意味です。ここでは、ゲームのカードの能力を表現するために使われています。"
+    },
+    {
+      "id": 18,
+      "value": "vines",
+      "options": [
+        "木",
+        "つる",
+        "花",
+        "根"
+      ],
+      "correctAnswer": "つる",
+      "explanation": "「vines」は、つる植物を意味します。ここでは、ゲームのカードの能力を表現するために使われています。"
+    },
+    {
+      "id": 19,
+      "value": "potion",
+      "options": [
+        "毒",
+        "薬",
+        "食べ物",
+        "武器"
+      ],
+      "correctAnswer": "薬",
+      "explanation": "「potion」は、魔法の薬、秘薬という意味です。ファンタジー作品などでよく登場します。"
+    },
+    {
+      "id": 20,
+      "value": "necromancer",
+      "options": [
+        "医者",
+        "死霊使い",
+        "魔法使い",
+        "戦士"
+      ],
+      "correctAnswer": "死霊使い",
+      "explanation": "「necromancer」は、死霊術師、降霊術師という意味です。ファンタジー作品などでよく登場します。"
+    },
+    {
+      "id": 21,
+      "value": "wraiths",
+      "options": [
+        "天使",
+        "精霊",
+        "幽霊",
+        "悪魔"
+      ],
+      "correctAnswer": "幽霊",
+      "explanation": "「wraiths」は、幽霊、亡霊という意味です。ファンタジー作品などでよく登場します。"
+    },
+    {
+      "id": 22,
+      "value": "day-walkers",
+      "options": [
+        "夜行性の動物",
+        "昼間行動する人",
+        "吸血鬼",
+        "ゾンビ"
+      ],
+      "correctAnswer": "吸血鬼",
+      "explanation": "「day-walkers」は、昼間でも活動できる吸血鬼を指すことがあります。映画などで使われる表現です。"
+    },
+    {
+      "id": 23,
+      "value": "ogres",
+      "options": [
+        "天使",
+        "鬼",
+        "妖精",
+        "巨人"
+      ],
+      "correctAnswer": "鬼",
+      "explanation": "「ogres」は、人食い鬼、怪物という意味です。ファンタジー作品などでよく登場します。"
+    },
+    {
+      "id": 24,
+      "value": "vantage point",
+      "options": [
+        "不利な点",
+        "有利な点",
+        "欠点",
+        "長所"
+      ],
+      "correctAnswer": "有利な点",
+      "explanation": "「vantage point」は、有利な視点、有利な立場という意味です。\n例：From my vantage point, the project looks promising."
+    },
+    {
+      "id": 25,
+      "value": "customary",
+      "options": [
+        "珍しい",
+        "普通の",
+        "特別な",
+        "奇妙な"
+      ],
+      "correctAnswer": "普通の",
+      "explanation": "「customary」は、慣習的な、習慣的な、という意味です。\n例：It is customary to tip the waiter in this country."
+    },
+    {
+      "id": 26,
+      "value": "undoubtedly",
+      "options": [
+        "疑いなく",
+        "たぶん",
+        "確かに",
+        "偶然に"
+      ],
+      "correctAnswer": "疑いなく",
+      "explanation": "「undoubtedly」は、疑いの余地なく、間違いなく、という意味の副詞です。確信を持って何かを述べるときに使われます。例文: He is undoubtedly the best player on the team. (彼は間違いなくチームで最高の選手だ。)"
+    },
+    {
+      "id": 27,
+      "value": "save us some time",
+      "options": [
+        "時間を節約する",
+        "時間を無駄にする",
+        "時間通りに終わらせる",
+        "時間を稼ぐ"
+      ],
+      "correctAnswer": "時間を節約する",
+      "explanation": "「save someone some time」は、誰かの時間を節約する、という意味のイディオムです。ある行動や方法が、誰かの時間や労力を減らす場合に用いられます。例文: This new software will save us a lot of time. (この新しいソフトウェアは、私たちの時間を大幅に節約してくれるでしょう。)"
+    },
+    {
+      "id": 28,
+      "value": "team up",
+      "options": [
+        "解散する",
+        "協力する",
+        "競争する",
+        "無視する"
+      ],
+      "correctAnswer": "協力する",
+      "explanation": "「team up」は、協力する、チームを組むという意味の句動詞です。共通の目標を達成するために、複数の人が協力して作業を行う状況を表します。例文: We decided to team up for the project. (私たちはプロジェクトのために協力することにしました。)"
+    },
+    {
+      "id": 29,
+      "value": "disturbing",
+      "options": [
+        "落ち着いた",
+        "面白い",
+        "不穏な",
+        "感動的な"
+      ],
+      "correctAnswer": "不穏な",
+      "explanation": "「disturbing」は、不安にさせる、不穏な、という意味の形容詞です。精神的な平静を乱したり、不快感や心配を引き起こすような状況や物事に対して使われます。例文: The news report was very disturbing. (そのニュース報道は非常に不穏だった。)"
+    },
+    {
+      "id": 30,
+      "value": "talk someone into",
+      "options": [
+        "説得してやめさせる",
+        "説得して～させる",
+        "議論する",
+        "無視する"
+      ],
+      "correctAnswer": "説得して～させる",
+      "explanation": "「talk someone into (doing) something」は、誰かを説得して何かをさせる、という意味の句動詞です。説得によって相手の意思を変え、特定の行動を取らせることを指します。例文: I talked him into going to the party. (私は彼を説得してパーティーに行かせた。)"
+    },
+    {
+      "id": 31,
+      "value": "pact",
+      "options": [
+        "協定",
+        "競争",
+        "裏切り",
+        "誤解"
+      ],
+      "correctAnswer": "協定",
+      "explanation": "「pact」は、協定、盟約、契約という意味の名詞です。特に、国家間や個人間で結ばれる、正式な合意や約束を指します。例文: The two countries signed a peace pact. (その二国間は平和協定に署名した。)"
+    },
+    {
+      "id": 32,
+      "value": "tread carefully",
+      "options": [
+        "慎重に進む",
+        "急いで進む",
+        "立ち止まる",
+        "無視する"
+      ],
+      "correctAnswer": "慎重に進む",
+      "explanation": "「tread carefully」は、慎重に進む、注意深く行動するという意味のイディオムです。危険や困難が予想される状況で、軽率な行動を避けるようにという警告として使われます。例文: You need to tread carefully when discussing this topic with him. (彼とこの話題について話すときは、慎重に進む必要があります。)"
+    },
+    {
+      "id": 33,
+      "value": "hook someone up with",
+      "options": [
+        "誰かを～から遠ざける",
+        "誰かを～に紹介する",
+        "誰かを～から守る",
+        "誰かを～に売りつける"
+      ],
+      "correctAnswer": "誰かを～に紹介する",
+      "explanation": "「hook someone up with someone」は、誰かと誰かを（特に恋愛関係で）紹介する、繋げるという意味のスラングです。例文: I can hook you up with a good mechanic. (良い整備士を紹介できるよ。)"
+    },
+    {
+      "id": 34,
+      "value": "deep down inside",
+      "options": [
+        "表面上は",
+        "心の奥底では",
+        "客観的に見て",
+        "誰が見ても"
+      ],
+      "correctAnswer": "心の奥底では",
+      "explanation": "「deep down inside」は、心の奥底では、本当は、という意味の表現です。表面的な感情や行動とは異なり、内面に秘めた感情や考えを表します。例文: Deep down inside, she knew he was right. (心の奥底では、彼女は彼が正しいと知っていた。)"
+    },
+    {
+      "id": 35,
+      "value": "candy coating",
+      "options": [
+        "魅力的な外面",
+        "隠された才能",
+        "内面の美しさ",
+        "ありのままの姿"
+      ],
+      "correctAnswer": "魅力的な外面",
+      "explanation": "ここでは、見た目は甘いキャンディでコーティングされているが、中身はそうではないという意味で使われています。魅力的な外面や見せかけを指す比喩表現です。例文：His kind words were just a candy coating to hide his true intentions.(彼の優しい言葉は、彼の本当の意図を隠すための甘いコーティングにすぎませんでした。)"
+    },
+    {
+      "id": 36,
+      "value": "as a favor to me",
+      "options": [
+        "私への報酬として",
+        "私への復讐として",
+        "私のためにお願い",
+        "私への挑戦として"
+      ],
+      "correctAnswer": "私のためにお願い",
+      "explanation": "「as a favor to me」は、「私への頼みとして」「私に免じて」という意味です。相手に何かを頼む際に、自分のために特別にお願いするニュアンスを込めて使います。例文: Could you do this as a favor to me? (私の頼みとして、これをしてもらえますか？)"
+    },
+    {
+      "id": 37,
+      "value": "robbed me of the opportunity",
+      "options": [
+        "機会を与えてくれた",
+        "機会を奪った",
+        "機会を創出した",
+        "機会を隠した"
+      ],
+      "correctAnswer": "機会を奪った",
+      "explanation": "「robbed me of the opportunity」は、「私から機会を奪った」という意味です。誰かの行動によって、自分が何かをする機会を失ってしまった状況を表します。例文: The rain robbed us of the opportunity to have a picnic. (雨のせいでピクニックをする機会を奪われた。)"
+    },
+    {
+      "id": 38,
+      "value": "stumble upon",
+      "options": [
+        "計画的に探す",
+        "偶然見つける",
+        "避けて通る",
+        "無視する"
+      ],
+      "correctAnswer": "偶然見つける",
+      "explanation": "「stumble upon」は、偶然見つける、偶然出くわすという意味の句動詞です。意図せずに何かを発見したり、予期せぬ出会いをしたりする状況を表します。例文: I stumbled upon a great little cafe in the neighborhood. (近所で素敵な小さなカフェを偶然見つけた。)"
+    },
+    {
+      "id": 39,
+      "value": "satisfying",
+      "options": [
+        "不満な",
+        "満足のいく",
+        "退屈な",
+        "苦痛な"
+      ],
+      "correctAnswer": "満足のいく",
+      "explanation": "「satisfying」は、満足のいく、満たされる、という意味の形容詞です。欲求や期待が満たされ、心地よい感情が得られる状況を表します。例文: It was a very satisfying meal. (それは非常に満足のいく食事だった。)"
+    },
+    {
+      "id": 40,
+      "value": "set one aside",
+      "options": [
+        "脇に置く",
+        "捨てる",
+        "共有する",
+        "無視する"
+      ],
+      "correctAnswer": "脇に置く",
+      "explanation": "「set aside」は、脇に置く、確保するという意味の句動詞です。特定の人や目的のために、何かを取っておくことを指します。例文: I've set aside some money for my vacation. (休暇のためにお金をいくらか取っておいた。)"
+    },
+    {
+      "id": 41,
+      "value": "idolized",
+      "options": [
+        "軽蔑した",
+        "崇拝した",
+        "無視した",
+        "批判した"
+      ],
+      "correctAnswer": "崇拝した",
+      "explanation": "「idolize」は、偶像化する、崇拝するという意味の動詞です。誰かを非常に高く評価し、理想的な存在として尊敬する感情を表します。例文: As a child, I idolized my grandfather. (子供の頃、私は祖父を崇拝していた。)"
+    },
+    {
+      "id": 42,
+      "value": "coincidence",
+      "options": [
+        "必然",
+        "偶然",
+        "計画",
+        "陰謀"
+      ],
+      "correctAnswer": "偶然",
+      "explanation": "「coincidence」は、偶然の一致、同時発生という意味の名詞です。予期せぬ出来事が同時期に、または関連性を持って起こることを指します。例文: It's a coincidence that we both chose the same restaurant. (私たち2人が同じレストランを選んだのは偶然だ。)"
+    },
+    {
+      "id": 43,
+      "value": "arduous",
+      "options": [
+        "簡単な",
+        "困難な",
+        "退屈な",
+        "短い"
+      ],
+      "correctAnswer": "困難な",
+      "explanation": "「arduous」は、困難な、骨の折れる、という意味の形容詞です。多くの努力や忍耐を必要とする状況を表します。例文: Climbing the mountain was an arduous task. (その山を登ることは困難な仕事だった。)"
+    },
+    {
+      "id": 44,
+      "value": "for naught",
+      "options": [
+        "無駄に",
+        "成功して",
+        "計画通りに",
+        "秘密裏に"
+      ],
+      "correctAnswer": "無駄に",
+      "explanation": "「for naught」は、無駄に、徒労に終わる、という意味のイディオムです。努力や行動が何の成果も生まなかった状況を表します。例文: All his efforts were for naught. (彼の努力はすべて無駄に終わった。)"
+    },
+    {
+      "id": 45,
+      "value": "vowed",
+      "options": [
+        "忘れた",
+        "誓った",
+        "提案した",
+        "後悔した"
+      ],
+      "correctAnswer": "誓った",
+      "explanation": "「vow」は、誓う、誓約するという意味の動詞です。特に、公的または正式な場で、強い決意や約束を表明する際に使われます。例文: She vowed to never return. (彼女は二度と戻らないと誓った。)"
+    },
+    {
+      "id": 46,
+      "value": "eternal",
+      "options": [
+        "一時的な",
+        "永遠の",
+        "最近の",
+        "短い"
+      ],
+      "correctAnswer": "永遠の",
+      "explanation": "「eternal」は、永遠の、不滅の、という意味の形容詞です。終わりがなく、いつまでも続く状態を表します。例文: They promised each other eternal love. (彼らは互いに永遠の愛を誓った。)"
+    },
+    {
+      "id": 47,
+      "value": "ranks",
+      "options": [
+        "並ぶ",
+        "隠れる",
+        "目立つ",
+        "衰える"
+      ],
+      "correctAnswer": "並ぶ",
+      "explanation": "「rank」は、ここでは順位をつける、位置づけるという意味の動詞として使われています。ある基準に基づいて、人や物を序列化する際に用いられます。例文: She ranks among the top scientists in her field. (彼女は、その分野でトップクラスの科学者の中にランク付けされている。)"
+    },
+    {
+      "id": 48,
+      "value": "all-time",
+      "options": [
+        "最新の",
+        "史上最高の",
+        "過去の",
+        "未来の"
+      ],
+      "correctAnswer": "史上最高の",
+      "explanation": "「all-time」は、史上最高の、歴代の、という意味の形容詞です。過去から現在までのすべての期間を通じて最も優れている、または最も重要なものを指します。例文: This is my all-time favorite movie. (これは私にとって史上最高の映画だ。)"
+    },
+    {
+      "id": 49,
+      "value": "tasks me",
+      "options": [
+        "私に仕事を依頼する",
+        "私を励ます",
+        "私を苦しめる",
+        "私を無視する"
+      ],
+      "correctAnswer": "私を苦しめる",
+      "explanation": "ここでは「task」は、人（特に自分）に重くのしかかる、苦しめるという意味で使われています。例文：The memory of that day still tasks me. (その日の記憶は今でも私を苦しめる。)"
+    },
+    {
+      "id": 50,
+      "value": "stab at thee",
+      "options": [
+        "あなたを助ける",
+        "あなたを攻撃する",
+        "あなたを無視する",
+        "あなたを褒める"
+      ],
+      "correctAnswer": "あなたを攻撃する",
+      "explanation": "「stab at thee」は、古風な英語で「あなたを刺す」という意味です。ここでは比喩的に、相手を激しく攻撃する、非難するという意味で使われています。例文：From hell's heart, I stab at thee! (地獄の底から、お前を刺す！)"
+    },
+    {
+      "id": 51,
+      "value": "attachment to",
+      "options": [
+        "嫌悪感",
+        "無関心",
+        "愛着",
+        "軽蔑"
+      ],
+      "correctAnswer": "愛着",
+      "explanation": "「attachment to」は、人や物に対する愛情や執着、結びつきを表します。特に、手放したくない、常にそばに置いておきたいといった感情を伴う場合に使われます。\n\n例：He has a strong attachment to his childhood home. (彼は子供の頃の家に強い愛着を持っている。)"
+    },
+    {
+      "id": 52,
+      "value": "pwned",
+      "options": [
+        "負けた",
+        "引き分けた",
+        "圧倒した",
+        "尊敬した"
+      ],
+      "correctAnswer": "圧倒した",
+      "explanation": "「pwn」は、スラングで「own」の変形であり、相手を打ち負かす、圧倒するという意味です。特にオンラインゲームやインターネットスラングでよく使われます。スペルミスが起源とされています。\n\n例：We totally pwned them in the game! (ゲームで彼らを完全に打ち負かした！)"
+    },
+    {
+      "id": 53,
+      "value": "maelstrom",
+      "options": [
+        "静かな場所",
+        "穏やかな流れ",
+        "大混乱",
+        "美しい景色"
+      ],
+      "correctAnswer": "大混乱",
+      "explanation": "「maelstrom」は、強力な渦巻きや、比喩的に大混乱、騒動、激しい感情の渦などを意味します。もともとはノルウェーのロフォーテン諸島にある強力な潮流の名前です。\n\n例：The debate turned into a maelstrom of accusations and counter-accusations. (討論は非難と反論の渦となった。)"
+    },
+    {
+      "id": 54,
+      "value": "perdition",
+      "options": [
+        "救済",
+        "幸福",
+        "破滅",
+        "安全"
+      ],
+      "correctAnswer": "破滅",
+      "explanation": "「perdition」は、破滅、滅亡、地獄、永遠の苦しみといった意味を持つ言葉です。宗教的な文脈で使われることが多い、やや古風で重々しい単語です。\n\n例：The path of sin leads to perdition. (罪の道は破滅へと続く。)"
+    },
+    {
+      "id": 55,
+      "value": "face off",
+      "options": [
+        "仲直りする",
+        "協力する",
+        "対決する",
+        "逃げる"
+      ],
+      "correctAnswer": "対決する",
+      "explanation": "「face off」は、対決する、向かい合う、試合などで対戦するという意味です。特にスポーツや競争の場面で使われます。\n\n例：The two teams will face off in the final game. (その2つのチームは決勝戦で対決する。)"
+    },
+    {
+      "id": 56,
+      "value": "lame",
+      "options": [
+        "素晴らしい",
+        "面白い",
+        "つまらない",
+        "賢い"
+      ],
+      "correctAnswer": "つまらない",
+      "explanation": "「lame」は、スラングで「つまらない」「ダサい」「時代遅れ」といった意味を持つ言葉です。元々は「足が不自由な」という意味ですが、比喩的に使われます。\n\n例：That joke was so lame. (そのジョークはすごくつまらなかった。)"
+    },
+    {
+      "id": 57,
+      "value": "put yourself through",
+      "options": [
+        "諦める",
+        "耐える",
+        "楽しむ",
+        "頼る"
+      ],
+      "correctAnswer": "耐える",
+      "explanation": "「put yourself through」は、（困難な状況などを）経験する、（苦労して）やり遂げるという意味です。特に、困難な状況を乗り越えるために努力することを強調します。\n\n例：She put herself through college by working nights. (彼女は夜働きながら大学を卒業した。)"
+    },
+    {
+      "id": 58,
+      "value": "stand on",
+      "options": [
+        "支持する",
+        "反対する",
+        "悩む",
+        "知らない"
+      ],
+      "correctAnswer": "支持する",
+      "explanation": "「stand on」 は、 特定の立場や意見、価値観を持っている、またはそれを支持するという意味合いで使われます。状況、状態にあるという意味でも使われます。\n\n例：Where do you stand on this issue? (あなたはこの問題についてどのような立場ですか？)"
+    },
+    {
+      "id": 59,
+      "value": "revenge is a dish best served cold",
+      "options": [
+        "復讐はすぐに行うべき",
+        "復讐は計画的に行うべき",
+        "復讐は避けるべき",
+        "復讐は無意味だ"
+      ],
+      "correctAnswer": "復讐は計画的に行うべき",
+      "explanation": "「Revenge is a dish best served cold」は、「復讐は時間をかけて、冷静に行うのが最良だ」という意味の格言です。衝動的な復讐ではなく、周到な準備をして機会を待つべきだという考え方を示しています。\n\n例：He waited years to exact his revenge, believing that revenge is a dish best served cold. (彼は何年も復讐の時を待ち、復讐は時間をかけて行うのが最良だと信じていた。)"
+    },
+    {
+      "id": 76,
+      "value": "torn",
+      "options": [
+        "興奮している",
+        "悩んでいる",
+        "疲れている",
+        "満足している"
+      ],
+      "correctAnswer": "悩んでいる",
+      "explanation": "「torn」は、感情的に引き裂かれている、葛藤している状態を表します。二つの選択肢の間で迷い、どちらを選ぶべきか決められない時に使われます。ここでは、母親からの電話に出るべきか、出ないべきかでハワードが葛藤している状況を表しています。\n\n例：I'm torn between accepting the new job and staying where I am. (新しい仕事を受けるか、今の場所に残るかで悩んでいます。)"
+    },
+    {
+      "id": 77,
+      "value": "let it go to voicemail",
+      "options": [
+        "留守番電話にメッセージを残す",
+        "直接伝える",
+        "手紙を書く",
+        "無視する"
+      ],
+      "correctAnswer": "留守番電話にメッセージを残す",
+      "explanation": "「let it go to voicemail」は、電話に出ずに留守番電話にメッセージを残させるという意味です。相手からの電話を意図的に無視する場合や、後で対応するために使われます。\n\n例：I was busy, so I let it go to voicemail. (忙しかったので、留守番電話にしました。)"
+    },
+    {
+      "id": 78,
+      "value": "lay out",
+      "options": [
+        "隠す",
+        "広げる",
+        "片付ける",
+        "たたむ"
+      ],
+      "correctAnswer": "広げる",
+      "explanation": "「lay out」は、物を広げて並べる、配置するという意味ですが、ここでは「（服を）用意する」という意味で使われています。誰かのために準備をする、特に服などを整えておく状況を表します。\n\n例：She laid out my clothes for the interview. (彼女は面接のために私の服を用意してくれました。)"
+    },
+    {
+      "id": 79,
+      "value": "pick up a disease",
+      "options": [
+        "病気を治す",
+        "病気になる",
+        "病気を研究する",
+        "病気を予防する"
+      ],
+      "correctAnswer": "病気になる",
+      "explanation": "「pick up a disease」は、病気を拾う、つまり病気になるという意味です。感染症など、外部から病原体を拾って感染することを指します。\n\n例：He picked up a disease while traveling abroad. (彼は海外旅行中に病気にかかりました。)"
+    },
+    {
+      "id": 80,
+      "value": "hit a bump",
+      "options": [
+        "障害にぶつかる",
+        "成功する",
+        "休憩する",
+        "速度を上げる"
+      ],
+      "correctAnswer": "障害にぶつかる",
+      "explanation": "文字通りには「でこぼこにぶつかる」ですが、ここでは比喩的に「問題に直面する」「困難に遭遇する」という意味合いで使われています。Pennyの母親が、娘が自転車に乗って事故に遭うこと(ここでは比喩的に性的な経験をすることを意味している)を恐れていることを表しています。\n\n例：Our project hit a bump, but we're working to resolve it. (私たちのプロジェクトは問題に直面していますが、解決に向けて取り組んでいます。)"
+    },
+    {
+      "id": 81,
+      "value": "give someone a big brain aneurysm",
+      "options": [
+        "人を元気づける",
+        "人を非常に怒らせる",
+        "人を落ち着かせる",
+        "人を感動させる"
+      ],
+      "correctAnswer": "人を非常に怒らせる",
+      "explanation": "「give someone a big brain aneurysm」は、人に脳動脈瘤を起こさせるほど激怒させるという意味です。非常に不快な状況や相手の怒りを買うような行動をすることを表します。ここでは、ハワードがバーナデットを自分の家の夕食に誘い、彼女の行動が母親を怒らせるだろうと冗談めかして言っています。\n\n例：His constant complaining is going to give me a brain aneurysm. (彼の絶え間ない不満は私を激怒させるだろう。)"
+    },
+    {
+      "id": 82,
+      "value": "yarmulke",
+      "options": [
+        "聖書",
+        "ユダヤ教徒がかぶる帽子",
+        "十字架",
+        "ロザリオ"
+      ],
+      "correctAnswer": "ユダヤ教徒がかぶる帽子",
+      "explanation": "「yarmulke」は、ユダヤ教徒の男性が頭にかぶる小さな帽子です。宗教的な行為やシナゴーグ（ユダヤ教の教会堂）で着用されることが多いです。キッパ (kippah) とも呼ばれます。\n\n例：He wore a yarmulke to the synagogue. (彼はシナゴーグにヤムルケをかぶって行きました。)"
+    },
+    {
+      "id": 83,
+      "value": "skirmish",
+      "options": [
+        "友情",
+        "議論",
+        "小競り合い",
+        "協力"
+      ],
+      "correctAnswer": "小競り合い",
+      "explanation": "「skirmish」は、小競り合い、小規模な戦闘という意味です。ここでは、ゲーム内での対戦を表しています。また、比喩的に意見の衝突や軽い争いを指すこともあります。\n\n例：There was a brief skirmish between the two teams. (2つのチームの間で短い小競り合いがありました。)"
+    },
+    {
+      "id": 84,
+      "value": "potion",
+      "options": [
+        "呪文",
+        "秘薬",
+        "武器",
+        "防具"
+      ],
+      "correctAnswer": "秘薬",
+      "explanation": "「potion」は、液体状の薬、特に魔法やファンタジーの世界で使われる秘薬を指します。ゲームや物語の中で、キャラクターの能力を高めたり、特別な効果を発揮するために用いられます。\n\n例：He drank the potion and felt his strength return. (彼は秘薬を飲み、力が戻るのを感じました。)"
+    },
+    {
+      "id": 85,
+      "value": "relieving myself",
+      "options": [
+        "リラックスする",
+        "休憩する",
+        "用を足す",
+        "運動する"
+      ],
+      "correctAnswer": "用を足す",
+      "explanation": "「relieve myself」は、婉曲的に排尿または排便することを意味します。ここでは、バスの中でトイレに行くことを指しています。\n\n例：I need to relieve myself before we leave. (出発する前にトイレに行きたい。)"
+    },
+    {
+      "id": 86,
+      "value": "show up",
+      "options": [
+        "目立つ",
+        "現れる",
+        "隠れる",
+        "諦める"
+      ],
+      "correctAnswer": "現れる",
+      "explanation": "「show up」は、現れる、姿を現すという意味です。特に、予定されていた場所やイベントに到着することを指します。ここでは、ウィル・ウィートンがイベントに現れなかったことを指しています。\n\n例：He didn't show up for the meeting. (彼は会議に現れませんでした。)"
+    },
+    {
+      "id": 87,
+      "value": "betrayed",
+      "options": [
+        "尊敬された",
+        "助けられた",
+        "裏切られた",
+        "無視された"
+      ],
+      "correctAnswer": "裏切られた",
+      "explanation": "「betray」は、裏切るという意味です。信頼を裏切ったり、期待を裏切る行為を指します。ここでは、シェルドンがウィル・ウィートンに裏切られたと感じている状況を表しています。\n\n例：I felt betrayed when he revealed my secret. (彼が私の秘密を暴露したとき、裏切られたと感じました。)"
+    },
+    {
+      "id": 88,
+      "value": "mee-maw",
+      "options": [
+        "おばあちゃん",
+        "おじいちゃん",
+        "ペット",
+        "友達"
+      ],
+      "correctAnswer": "おばあちゃん",
+      "explanation": "「mee-maw」は、アメリカ南部でよく使われる「おばあちゃん」を指す愛称です。親しみを込めた表現で、家族間の愛情を示す言葉として用いられます。\n\n例：My mee-maw always makes the best cookies. (私のおばあちゃんはいつも最高のクッキーを作ってくれます。)"
+    },
+    {
+      "id": 89,
+      "value": "inconsolable",
+      "options": [
+        "満足している",
+        "慰められない",
+        "元気な",
+        "冷静な"
+      ],
+      "correctAnswer": "慰められない",
+      "explanation": "「inconsolable」は、慰められない、悲しみに暮れているという意味です。非常に大きな悲しみや喪失感を抱え、誰の言葉も受け入れられない状態を表します。\n\n例：She was inconsolable after the loss of her pet. (彼女はペットを失った後、慰められませんでした。)"
+    },
+    {
+      "id": 90,
+      "value": "moon pie",
+      "options": [
+        "一般的なお菓子",
+        "愛情を込めた呼び方",
+        "宇宙食",
+        "伝統料理"
+      ],
+      "correctAnswer": "愛情を込めた呼び方",
+      "explanation": "「moon pie」は、マシュマロとグラハムクラッカーでできたお菓子の名前ですが、ここでは愛情を込めたニックネームとして使われています。特に南部アメリカで、親しい間柄の人を呼ぶ際に用いられます。\n\n例：My grandma always called me her little moon pie. (私のおばあちゃんはいつも私のことを小さなムーンパイと呼んでいました。)"
+    },
+    {
+      "id": 91,
+      "value": "finish him off",
+      "options": [
+        "彼を助ける",
+        "彼を終わらせる",
+        "彼を無視する",
+        "彼を励ます"
+      ],
+      "correctAnswer": "彼を終わらせる",
+      "explanation": "「finish someone off」は、相手を完全に打ち負かす、終わらせるという意味です。ゲームや競争で相手を倒す際によく使われます。ここでは、ラージがシェルドンにウィル・ウィートンを倒すように促しています。\n\n例：He was weakened, so I decided to finish him off. (彼は弱っていたので、私は彼を終わらせることにしました。)"
+    },
+    {
+      "id": 92,
+      "value": "from hell's heart",
+      "options": [
+        "心の底から",
+        "天国の心から",
+        "地獄の心から",
+        "宇宙の心から"
+      ],
+      "correctAnswer": "地獄の心から",
+      "explanation": "「from hell's heart」は、激しい憎しみや復讐心を込めて何かをするという意味です。元々は「白鯨」からの引用で、強い敵意を表す際に用いられます。ここでは、ラージがシェルドンにウィル・ウィートンを徹底的に攻撃するように煽っています。\n\n例：I will strike you from hell's heart. (地獄の心からお前を打つ。)"
+    },
+    {
+      "id": 93,
+      "value": "stab at him",
+      "options": [
+        "彼を褒める",
+        "彼を刺す",
+        "彼を無視する",
+        "彼を助ける"
+      ],
+      "correctAnswer": "彼を刺す",
+      "explanation": "「stab at someone」は、相手を刺すという意味ですが、ここでは比喩的に、相手を攻撃するという意味で使われています。特に、言葉や行動で相手を強く批判したり、打ち負かそうとする状況を表します。\n\n例：The lawyer stabbed at the witness with sharp questions. (弁護士は鋭い質問で証人を攻撃した。)"
+    },
+    {
+      "id": 94,
+      "value": "let someone down",
+      "options": [
+        "人を励ます",
+        "人を失望させる",
+        "人を助ける",
+        "人を無視する"
+      ],
+      "correctAnswer": "人を失望させる",
+      "explanation": "「let someone down」は、人を失望させる、期待を裏切るという意味です。相手の期待に応えられなかったり、約束を破ることで相手をがっかりさせる状況を表します。\n\n例：I didn't want to let you down. (あなたを失望させたくなかった。)"
+    },
+    {
+      "id": 95,
+      "value": "catch on quick",
+      "options": [
+        "すぐに理解する",
+        "ゆっくり理解する",
+        "全く理解しない",
+        "誤解する"
+      ],
+      "correctAnswer": "すぐに理解する",
+      "explanation": "「catch on quick」は、すぐに理解する、理解が早いという意味です。新しい情報や状況を素早く把握し、理解できる能力を表します。\n\n例：He's a smart kid; he catches on quick. (彼は賢い子供で、すぐに理解します。)"
+    },
+    {
+      "id": 96,
+      "value": "enchanted",
+      "options": [
+        "普通の",
+        "魔法にかけられた",
+        "壊れた",
+        "忘れられた"
+      ],
+      "correctAnswer": "魔法にかけられた",
+      "explanation": "「enchanted」は、魔法にかけられた、魅了されたという意味です。ここでは、ゲーム内で魔法の力が込められたアイテムを指します。\n\n例: The enchanted forest was full of magical creatures. (魔法にかけられた森は魔法の生き物でいっぱいだった。)"
+    },
+    {
+      "id": 97,
+      "value": "Underworld guardian",
+      "options": [
+        "天国の守護者",
+        "地獄の守護者",
+        "森の守護者",
+        "海の守護者"
+      ],
+      "correctAnswer": "地獄の守護者",
+      "explanation": "「Underworld guardian」は、地獄の守護者、冥界の番人という意味です。ファンタジーや神話の世界で、死後の世界を守る存在として描かれます。ゲーム内でのカードの役割を示しています。\n\n例: The underworld guardian stood at the gates of hell. (地獄の守護者は地獄の門のところに立っていた。)"
+    },
+    {
+      "id": 98,
+      "value": "Water nymph",
+      "options": [
+        "火の精",
+        "水の精",
+        "風の精",
+        "土の精"
+      ],
+      "correctAnswer": "水の精",
+      "explanation": "「Water nymph」は、水の精、水の妖精という意味です。ギリシャ神話やファンタジーの世界で、泉や川、湖などに住む美しい女性の姿をした精霊を指します。ゲーム内でのカードの役割を示しています。\n\n例: The water nymph granted him a wish. (水の精は彼に願いを叶えた。)"
+    },
+    {
+      "id": 99,
+      "value": "Fire demon",
+      "options": [
+        "火の悪魔",
+        "水の悪魔",
+        "土の悪魔",
+        "風の悪魔"
+      ],
+      "correctAnswer": "火の悪魔",
+      "explanation": "「Fire demon」は、火の悪魔という意味です。地獄や冥界に住む、炎を操る悪魔を指します。ファンタジー作品でよく登場するキャラクターです。ゲーム内でのカードの役割を示しています。\n\n例: The fire demon breathed flames upon the hero. (火の悪魔は英雄に炎を吹きかけた。)"
+    },
+    {
+      "id": 100,
+      "value": "Brimstone",
+      "options": [
+        "真珠",
+        "硫黄",
+        "石炭",
+        "金"
+      ],
+      "correctAnswer": "硫黄",
+      "explanation": "「Brimstone」は、硫黄という意味です。聖書や文学作品で、地獄や悪魔に関連する言葉として使われることが多いです。特に、地獄のイメージを強調する際に用いられます。ゲーム内でのカードの役割を示しています。\n\n例: The air was thick with the smell of brimstone. (空気は硫黄の匂いで充満していた。)"
+    }
+  ]
+}

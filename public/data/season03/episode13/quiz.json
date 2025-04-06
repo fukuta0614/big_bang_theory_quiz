@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "seems like forever",
+      "options": [
+        "永遠のように思える",
+        "最近のことのように思える",
+        "すぐに終わるように思える",
+        "全く思えない"
+      ],
+      "correctAnswer": "永遠のように思える",
+      "explanation": "「seems like forever」は、文字通りには「永遠のように思える」という意味で、非常に長い時間が経過したかのように感じられる状況で使われます。久しぶりに会う人に対してや、何かが起こるのを長く待っている時などに使われます。例えば、「It seems like forever since we last met.」（最後に会ってから永遠のように感じるね。）のように使います。"
+    },
+    {
+      "id": 2,
+      "value": "get it",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "あきらめる"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get it」は、文脈によって様々な意味を持ちますが、ここでは「理解する」という意味で使われています。相手の言っていることや意図を把握した時に使われる一般的な表現です。例文: \"I get it now, thanks for explaining.\"（やっと理解できた、説明してくれてありがとう。）"
+    },
+    {
+      "id": 3,
+      "value": "jealous",
+      "options": [
+        "嬉しい",
+        "悲しい",
+        "嫉妬深い",
+        "怒っている"
+      ],
+      "correctAnswer": "嫉妬深い",
+      "explanation": "「jealous」は「嫉妬深い」という意味で、他人の成功や所有物、または愛情などに対して羨望や不満を感じる感情を表します。恋愛関係だけでなく、様々な状況で使用されます。例文: \"He was jealous of his brother's success.\"（彼は兄弟の成功を妬んでいた。）"
+    },
+    {
+      "id": 4,
+      "value": "kill a hobo",
+      "options": [
+        "ホームレスを助ける",
+        "ホームレスを殺す",
+        "ホームレスに食事を与える",
+        "ホームレスを無視する"
+      ],
+      "correctAnswer": "ホームレスを殺す",
+      "explanation": "ここでは比喩的な表現で、「どんなことでもする」という強い意志を表しています。「kill a hobo」という表現は、倫理的に非常に問題がありますが、ここではRajが恋人が欲しいという強い願望を強調するために、過激な例えとして使われています。例文として使用するのは不適切です。"
+    },
+    {
+      "id": 5,
+      "value": "laid",
+      "options": [
+        "横たわる",
+        "産む",
+        "置く",
+        "性的な関係を持つ"
+      ],
+      "correctAnswer": "性的な関係を持つ",
+      "explanation": "「laid」はスラングで、「性的な関係を持つ」という意味です。非常に口語的で、フォーマルな場面では避けるべき表現です。ここでは、Rajが恋人が欲しいという願望を露骨に表現するために使われています。"
+    },
+    {
+      "id": 6,
+      "value": "re-did",
+      "options": [
+        "やり直した",
+        "終えた",
+        "壊した",
+        "無視した"
+      ],
+      "correctAnswer": "やり直した",
+      "explanation": "「re-do」は「やり直す」「修正する」という意味です。「re-did」はその過去形です。ここでは、メニューが新しく作り直されたことを指しています。例文: \"They re-did the kitchen last year.\"（彼らは去年キッチンを改築した。）"
+    },
+    {
+      "id": 7,
+      "value": "specialties",
+      "options": [
+        "専門",
+        "得意料理",
+        "特別な人々",
+        "秘密"
+      ],
+      "correctAnswer": "得意料理",
+      "explanation": "「specialties」は「得意料理」「名物料理」という意味です。レストランなどで、特に自信を持って提供する料理を指します。例文: \"This restaurant is famous for its seafood specialties.\"（このレストランはシーフード料理の専門店として有名だ。）"
+    },
+    {
+      "id": 8,
+      "value": "lose confidence",
+      "options": [
+        "自信を失う",
+        "自信を持つ",
+        "秘密を打ち明ける",
+        "道に迷う"
+      ],
+      "correctAnswer": "自信を失う",
+      "explanation": "「lose confidence」は「自信を失う」という意味です。自分の能力や価値を疑うようになった状態を表します。例文: \"After the mistake, he started to lose confidence in his abilities.\"（そのミス以来、彼は自分の能力に自信を失い始めた。）"
+    },
+    {
+      "id": 9,
+      "value": "for all we know",
+      "options": [
+        "私たちが知る限り",
+        "全く知らない",
+        "知る必要はない",
+        "知っているはずがない"
+      ],
+      "correctAnswer": "私たちが知る限り",
+      "explanation": "「for all we know」は、「私たちが知る限り」「もしかすると～かもしれない」という意味で、不確かな情報を推測する際に使われます。例文: \"For all we know, he might be a millionaire.\"（もしかすると彼は大金持ちかもしれない。）"
+    },
+    {
+      "id": 10,
+      "value": "chunks",
+      "options": [
+        "塊",
+        "液体",
+        "粉末",
+        "泡"
+      ],
+      "correctAnswer": "塊",
+      "explanation": "「chunks」は「塊」「断片」という意味です。食べ物や物質などが、小さく切られたり、砕かれたりした状態を指します。例文: \"The soup had chunks of vegetables in it.\"（そのスープには野菜の塊が入っていた。）"
+    },
+    {
+      "id": 11,
+      "value": "deceased",
+      "options": [
+        "生きている",
+        "死んだ",
+        "病気の",
+        "怪我をした"
+      ],
+      "correctAnswer": "死んだ",
+      "explanation": "「deceased」は「亡くなった」「故～」という意味のフォーマルな表現です。法律文書やニュース記事などでよく使われます。例文: \"The deceased left a large inheritance to his children.\"（故人は子供たちに多額の遺産を残した。）"
+    },
+    {
+      "id": 12,
+      "value": "a front for",
+      "options": [
+        "～の前面",
+        "～の隠れ蓑",
+        "～の裏側",
+        "～の支持者"
+      ],
+      "correctAnswer": "～の隠れ蓑",
+      "explanation": "「a front for」は「～の隠れ蓑」「～の表向きの顔」という意味です。ある組織や活動が、別の目的を隠すために使用される見せかけの活動を指します。例文: \"The business was a front for illegal activities.\"（そのビジネスは違法行為の隠れ蓑だった。）"
+    },
+    {
+      "id": 13,
+      "value": "organized crime",
+      "options": [
+        "組織犯罪",
+        "非組織犯罪",
+        "軽犯罪",
+        "偶発的な犯罪"
+      ],
+      "correctAnswer": "組織犯罪",
+      "explanation": "「organized crime」は「組織犯罪」という意味で、犯罪組織によって計画的かつ継続的に行われる犯罪活動を指します。例文: \"The police are fighting against organized crime in the city.\"（警察は市内の組織犯罪と戦っている。）"
+    },
+    {
+      "id": 14,
+      "value": "typo",
+      "options": [
+        "タイプライター",
+        "タイプミス",
+        "新しいタイプ",
+        "古いタイプ"
+      ],
+      "correctAnswer": "タイプミス",
+      "explanation": "「typo」は「タイプミス」「誤字」という意味です。タイプ入力の際に起こるミスを指します。例文: \"I found a typo in the report.\"（報告書にタイプミスを見つけた。）"
+    },
+    {
+      "id": 15,
+      "value": "slept with the fishes",
+      "options": [
+        "魚と寝た",
+        "魚を飼った",
+        "死んだ",
+        "海で泳いだ"
+      ],
+      "correctAnswer": "死んだ",
+      "explanation": "「sleep with the fishes」は、特にギャング映画などで使われる表現で、「殺されて海に沈められる」「死んだ」という意味の婉曲的な言い方です。例文として使うのは不適切です。"
+    },
+    {
+      "id": 16,
+      "value": "out of line",
+      "options": [
+        "整列して",
+        "線を引いて",
+        "不適切で",
+        "適切で"
+      ],
+      "correctAnswer": "不適切で",
+      "explanation": "「out of line」は「不適切で」「礼儀を欠いて」という意味です。発言や行動が社会的な規範やルールから逸脱していることを指します。例文: \"His comment was completely out of line.\"（彼のコメントは全く不適切だった。）"
+    },
+    {
+      "id": 17,
+      "value": "psychiatric hold",
+      "options": [
+        "精神科医の診察",
+        "精神科への入院",
+        "精神鑑定",
+        "精神的な支え"
+      ],
+      "correctAnswer": "精神科への入院",
+      "explanation": "「psychiatric hold」は、精神的な問題を抱える人を一時的に精神科病院に留め置くことです。例文: \"The patient was placed on a 72-hour psychiatric hold.\"（その患者は72時間の精神科入院となった。）"
+    },
+    {
+      "id": 18,
+      "value": "in anticipation of",
+      "options": [
+        "～を期待して",
+        "～を恐れて",
+        "～を無視して",
+        "～を軽蔑して"
+      ],
+      "correctAnswer": "～を期待して",
+      "explanation": "「in anticipation of」は「～を期待して」「～を見越して」という意味です。何かが起こることを予想して、事前に準備をする際に使われます。例文: \"She bought a gift in anticipation of his birthday.\"（彼女は彼の誕生日を期待してプレゼントを買った。）"
+    },
+    {
+      "id": 19,
+      "value": "audacity",
+      "options": [
+        "大胆さ",
+        "臆病さ",
+        "優しさ",
+        "謙虚さ"
+      ],
+      "correctAnswer": "大胆さ",
+      "explanation": "「audacity」は「大胆さ」「厚かましさ」という意味です。通常は、相手を不快にさせるような大胆な行動や発言を指します。例文: \"He had the audacity to ask for a raise after being late every day.\"（彼は毎日遅刻しているのに、昇給を要求する厚かましさを持っていた。）"
+    },
+    {
+      "id": 20,
+      "value": "quench his thirst",
+      "options": [
+        "喉の渇きを癒す",
+        "喉を詰まらせる",
+        "食欲を満たす",
+        "睡眠欲を満たす"
+      ],
+      "correctAnswer": "喉の渇きを癒す",
+      "explanation": "「quench one's thirst」は「喉の渇きを癒す」という意味です。例文: \"He quenched his thirst with a glass of water.\"（彼はコップ一杯の水で喉の渇きを癒した。）"
+    },
+    {
+      "id": 21,
+      "value": "ransacking",
+      "options": [
+        "略奪する",
+        "建設する",
+        "保護する",
+        "隠す"
+      ],
+      "correctAnswer": "略奪する",
+      "explanation": "「ransack」は「（家などを）徹底的に捜索して荒らす」「略奪する」という意味です。例文: \"The burglars ransacked the house looking for valuables.\"（強盗たちは valuables を探して家を荒らした。）"
+    },
+    {
+      "id": 22,
+      "value": "pull some good prints off",
+      "options": [
+        "良いプリントを剥がす",
+        "良い指紋を採取する",
+        "良い写真を撮る",
+        "良い絵を描く"
+      ],
+      "correctAnswer": "良い指紋を採取する",
+      "explanation": "「pull prints off」は「～から指紋を採取する」という意味です。犯罪捜査などで使われる表現です。例文: \"The detective was able to pull prints off the weapon.\"（刑事は武器から指紋を採取することができた。）"
+    },
+    {
+      "id": 23,
+      "value": "rule me out",
+      "options": [
+        "私を仲間に入れる",
+        "私を除外する",
+        "私を裁く",
+        "私を尊敬する"
+      ],
+      "correctAnswer": "私を除外する",
+      "explanation": "「rule someone out」は「（容疑者などから）～を除外する」という意味です。例文: \"The police ruled him out as a suspect.\"（警察は彼を容疑者から除外した。）"
+    },
+    {
+      "id": 24,
+      "value": "discount the possibility",
+      "options": [
+        "可能性を割り引く",
+        "可能性を無視する",
+        "可能性を調査する",
+        "可能性を認める"
+      ],
+      "correctAnswer": "可能性を無視する",
+      "explanation": "「discount the possibility」は「可能性を軽視する」「可能性を考慮しない」という意味です。例文: \"We cannot discount the possibility of rain tomorrow.\"（明日雨が降る可能性を軽視することはできない。）"
+    },
+    {
+      "id": 25,
+      "value": "inside job",
+      "options": [
+        "内職",
+        "内部犯行",
+        "簡単な仕事",
+        "秘密の仕事"
+      ],
+      "correctAnswer": "内部犯行",
+      "explanation": "「inside job」は「内部犯行」という意味です。組織内部の人間が関与した犯罪を指します。例文: \"The police suspect it was an inside job.\"（警察は内部犯行だと疑っている。）"
+    },
+    {
+      "id": 26,
+      "value": "relevant",
+      "options": [
+        "無関係の",
+        "重要な",
+        "古い",
+        "一般的な"
+      ],
+      "correctAnswer": "重要な",
+      "explanation": "「relevant」は、ある事柄に対して関連性がある、重要であるという意味です。議論や状況において、考慮すべき重要な要素であることを示します。\n\n例：These comments are not relevant to the topic."
+    },
+    {
+      "id": 27,
+      "value": "cogent",
+      "options": [
+        "不明瞭な",
+        "説得力のある",
+        "退屈な",
+        "不正確な"
+      ],
+      "correctAnswer": "説得力のある",
+      "explanation": "「cogent」は、議論や主張が明快で説得力があるという意味です。論理的で理解しやすく、相手を納得させる力を持つことを指します。\n\n例：He made a cogent argument for the proposal."
+    },
+    {
+      "id": 28,
+      "value": "restatement",
+      "options": [
+        "誤り",
+        "修正",
+        "再陳述",
+        "省略"
+      ],
+      "correctAnswer": "再陳述",
+      "explanation": "「restatement」は、何かを別の言葉で言い換えること、再陳述することを意味します。元の意味を変えずに、より分かりやすくしたり、異なる視点から説明したりする際に用いられます。\n\n例：Here is a restatement of the problem."
+    },
+    {
+      "id": 29,
+      "value": "monitor",
+      "options": [
+        "無視する",
+        "監視する",
+        "隠蔽する",
+        "忘れる"
+      ],
+      "correctAnswer": "監視する",
+      "explanation": "「monitor」は、何かを注意深く観察し、変化や異常がないか監視することを意味します。状況を把握し、必要に応じて対応するために行われます。\n\n例：The government is monitoring the situation closely."
+    },
+    {
+      "id": 30,
+      "value": "fellas",
+      "options": [
+        "敵",
+        "友人たち",
+        "先生",
+        "子供たち"
+      ],
+      "correctAnswer": "友人たち",
+      "explanation": "「fellas」は、「fellow」のくだけた複数形で、主に男性に対して使われる親しみを込めた呼びかけです。「皆さん」「君たち」といった意味合いで使われます。\n\n例：Hey fellas, what are you doing tonight?"
+    },
+    {
+      "id": 31,
+      "value": "bludgeon",
+      "options": [
+        "褒める",
+        "殴打する",
+        "無視する",
+        "慰める"
+      ],
+      "correctAnswer": "殴打する",
+      "explanation": "「bludgeon」は、鈍器で激しく殴るという意味です。比喩的には、議論や批判で相手を打ち負かすという意味でも使われます。\n\n例：The suspect bludgeoned the victim with a hammer."
+    },
+    {
+      "id": 32,
+      "value": "suspect",
+      "options": [
+        "容疑者",
+        "被害者",
+        "証人",
+        "弁護士"
+      ],
+      "correctAnswer": "容疑者",
+      "explanation": "「suspect」は、犯罪の容疑をかけられている人を指します。まだ有罪が確定していない段階で使用されます。\n\n例：The police are looking for the suspect in the robbery."
+    },
+    {
+      "id": 33,
+      "value": "restless",
+      "options": [
+        "落ち着いた",
+        "不安な",
+        "満足な",
+        "退屈な"
+      ],
+      "correctAnswer": "不安な",
+      "explanation": "「restless」は、落ち着きがなく、じっとしていられない状態を表します。不安や退屈、興奮などが原因で、精神的または肉体的に落ち着かない様子を指します。\n\n例：He had a restless night."
+    },
+    {
+      "id": 34,
+      "value": "drat",
+      "options": [
+        "祝福",
+        "がっかり",
+        "喜び",
+        "感謝"
+      ],
+      "correctAnswer": "がっかり",
+      "explanation": "「drat」は、軽い不満やいらだちを表す言葉です。強い言葉を避けたいときに使われる、やや古風な表現です。\n\n例：Drat! I forgot my keys."
+    },
+    {
+      "id": 35,
+      "value": "run right into",
+      "options": [
+        "避ける",
+        "偶然出会う",
+        "無視する",
+        "計画する"
+      ],
+      "correctAnswer": "偶然出会う",
+      "explanation": "「run into」は、偶然に人や物に会う、出くわすという意味のイディオムです。意図せずに遭遇する状況を表します。\n\n例：I ran into an old friend at the store."
+    },
+    {
+      "id": 36,
+      "value": "go all Nebraska on (someone's) asses",
+      "options": [
+        "優しくする",
+        "厳しく当たる",
+        "無視する",
+        "助ける"
+      ],
+      "correctAnswer": "厳しく当たる",
+      "explanation": "「go all Nebraska on (someone's) asses」は、非常に攻撃的になる、徹底的に打ち負かすという意味のスラング表現です。この場合のNebraskaは、強い、手ごわいといったイメージを連想させます。\n\n例：If they try to mess with us, we're gonna go all Nebraska on their asses."
+    },
+    {
+      "id": 37,
+      "value": "weird",
+      "options": [
+        "普通",
+        "奇妙",
+        "嬉しい",
+        "悲しい"
+      ],
+      "correctAnswer": "奇妙",
+      "explanation": "「weird」は、普通ではない、奇妙な、不可解なという意味です。人、物、状況など、様々なものに対して使われます。\n\n例：That's weird. I thought I locked the door."
+    },
+    {
+      "id": 38,
+      "value": "evolution",
+      "options": [
+        "退化",
+        "進化",
+        "停滞",
+        "革命"
+      ],
+      "correctAnswer": "進化",
+      "explanation": "「evolution」は、生物が長い時間をかけて変化し、新しい形質を獲得していく過程を指します。また、社会や文化、技術などが徐々に発展することも意味します。\n\n例：The evolution of technology has changed our lives."
+    },
+    {
+      "id": 39,
+      "value": "primates",
+      "options": [
+        "植物",
+        "霊長類",
+        "昆虫",
+        "魚類"
+      ],
+      "correctAnswer": "霊長類",
+      "explanation": "「primates」は、霊長類のことです。サル、チンパンジー、ゴリラ、ヒトなどが含まれます。共通の特徴として、手足で物をつかむことができる、視覚が発達しているなどが挙げられます。\n\n例：Humans are primates."
+    },
+    {
+      "id": 40,
+      "value": "protection",
+      "options": [
+        "危険",
+        "保護",
+        "放置",
+        "攻撃"
+      ],
+      "correctAnswer": "保護",
+      "explanation": "「protection」は、危険や損害から守ること、保護することを意味します。物理的な保護だけでなく、精神的な保護も含まれます。\n\n例：We need protection from the storm."
+    },
+    {
+      "id": 41,
+      "value": "support",
+      "options": [
+        "反対",
+        "支持",
+        "無視",
+        "批判"
+      ],
+      "correctAnswer": "支持",
+      "explanation": "「support」は、人やアイデア、活動などを支持し、援助することを意味します。物質的な支援だけでなく、精神的な励ましも含まれます。\n\n例：I appreciate your support."
+    },
+    {
+      "id": 42,
+      "value": "clues",
+      "options": [
+        "証拠",
+        "手がかり",
+        "秘密",
+        "嘘"
+      ],
+      "correctAnswer": "手がかり",
+      "explanation": "「clue」は、問題を解決したり、謎を解いたりするための手がかり、ヒントを意味します。犯罪捜査やパズルなどでよく使われる言葉です。\n\n例：The police are looking for clues at the crime scene."
+    },
+    {
+      "id": 43,
+      "value": "submit",
+      "options": [
+        "受け取る",
+        "提出する",
+        "拒否する",
+        "無視する"
+      ],
+      "correctAnswer": "提出する",
+      "explanation": "「submit」は、書類や提案などを提出することを意味します。上司や機関などに正式に提出する際に用いられます。\n\n例：You must submit your application by Friday."
+    },
+    {
+      "id": 44,
+      "value": "inquiry",
+      "options": [
+        "質問",
+        "返答",
+        "無視",
+        "沈黙"
+      ],
+      "correctAnswer": "質問",
+      "explanation": "「inquiry」は、質問や調査を意味します。情報を得るために行われる質問や、事実を明らかにするための調査を指します。\n\n例：The police are conducting an inquiry into the incident."
+    },
+    {
+      "id": 45,
+      "value": "contain",
+      "options": [
+        "含む",
+        "除く",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "含む",
+      "explanation": "「contain」は、何かの中に何かを含んでいる、収容しているという意味です。物理的なものだけでなく、情報や感情など抽象的なものにも使われます。\n\n例：This box contains books."
+    },
+    {
+      "id": 46,
+      "value": "rule out",
+      "options": [
+        "受け入れる",
+        "除外する",
+        "考慮する",
+        "認める"
+      ],
+      "correctAnswer": "除外する",
+      "explanation": "「rule out」は、可能性や選択肢から除外することを意味します。ある条件や状況に合わないため、検討対象から外す際に用いられます。\n\n例：The police ruled him out as a suspect."
+    },
+    {
+      "id": 47,
+      "value": "shift",
+      "options": [
+        "休憩",
+        "勤務時間",
+        "食事",
+        "睡眠"
+      ],
+      "correctAnswer": "勤務時間",
+      "explanation": "「shift」は、交代制の勤務時間、または担当を交代することを意味します。特に、工場や病院などでよく使われる言葉です。\n\n例：I work the night shift."
+    },
+    {
+      "id": 48,
+      "value": "crime",
+      "options": [
+        "平和",
+        "犯罪",
+        "正義",
+        "秩序"
+      ],
+      "correctAnswer": "犯罪",
+      "explanation": "「crime」は、法律に違反する行為、犯罪を意味します。殺人、窃盗、詐欺など、様々な種類の犯罪があります。\n\n例：He was arrested for committing a crime."
+    },
+    {
+      "id": 49,
+      "value": "comfortable",
+      "options": [
+        "不快な",
+        "快適な",
+        "困難な",
+        "退屈な"
+      ],
+      "correctAnswer": "快適な",
+      "explanation": "「comfortable」は、快適な、心地よいという意味です。物理的な快適さだけでなく、精神的な安心感を表すこともあります。\n\n例：This chair is very comfortable."
+    },
+    {
+      "id": 50,
+      "value": "drawing",
+      "options": [
+        "描画",
+        "写真",
+        "彫刻",
+        "建築"
+      ],
+      "correctAnswer": "描画",
+      "explanation": "「drawing」は、鉛筆やペンなどを使って絵を描くこと、または描かれた絵を意味します。スケッチやイラストなど、様々な種類の描画があります。\n\n例：She is good at drawing."
+    },
+    {
+      "id": 51,
+      "value": "Good Lord",
+      "options": [
+        "素晴らしい",
+        "なんと",
+        "良い人",
+        "神に感謝"
+      ],
+      "correctAnswer": "なんと",
+      "explanation": "「Good Lord」は、驚き、不信、または軽い苛立ちを表す感嘆詞です。ここでは、シェルドンが自分の説明が理解されないことに驚いている様子を表しています。"
+    },
+    {
+      "id": 52,
+      "value": "it's all there",
+      "options": [
+        "全てそこにある",
+        "それが全てだ",
+        "全部終わった",
+        "問題ない"
+      ],
+      "correctAnswer": "全てそこにある",
+      "explanation": "「It's all there」は、必要な情報や要素がすべて揃っていることを意味します。この文脈では、シェルドンの説明に必要な要素がすべて含まれているとレオナルドが述べています。"
+    },
+    {
+      "id": 53,
+      "value": "sweetie",
+      "options": [
+        "恋人",
+        "可愛い人",
+        "お菓子",
+        "親愛なる人"
+      ],
+      "correctAnswer": "親愛なる人",
+      "explanation": "「Sweetie」は、親愛の情を込めて相手を呼ぶ言葉です。恋人や親しい人に使われますが、ここではペニーがシェルドンをなだめるために使っています。"
+    },
+    {
+      "id": 54,
+      "value": "insecure",
+      "options": [
+        "安全な",
+        "不安定な",
+        "無防備な",
+        "心配な"
+      ],
+      "correctAnswer": "不安定な",
+      "explanation": "「Insecure」は、自信がない、不安であるという意味です。ペニーはシェルドンが自信をなくしていると感じています。"
+    },
+    {
+      "id": 55,
+      "value": "first watch",
+      "options": [
+        "最初の時計",
+        "最初の見張り",
+        "一番の注目",
+        "最初の監視"
+      ],
+      "correctAnswer": "最初の見張り",
+      "explanation": "「First watch」は、夜間の交代制の見張りの最初の番を意味します。シェルドンは警備のために最初の見張りをすると言っています。"
+    },
+    {
+      "id": 56,
+      "value": "state-of-the-art",
+      "options": [
+        "国の芸術",
+        "最先端の",
+        "芸術的な状態",
+        "伝統的な"
+      ],
+      "correctAnswer": "最先端の",
+      "explanation": "「State-of-the-art」は、最新技術を用いた、非常に進んだという意味です。セキュリティシステムの性能を強調するために使われています。"
+    },
+    {
+      "id": 57,
+      "value": "uninterruptible",
+      "options": [
+        "中断できない",
+        "永遠の",
+        "継続的な",
+        "邪魔されない"
+      ],
+      "correctAnswer": "中断できない",
+      "explanation": "「Uninterruptible」は、中断することができないという意味です。バックアップ電源が停電時にも電力を供給し続けることを意味します。"
+    },
+    {
+      "id": 58,
+      "value": "kidnaps",
+      "options": [
+        "誘拐する",
+        "睡眠する",
+        "いたずらする",
+        "冗談を言う"
+      ],
+      "correctAnswer": "誘拐する",
+      "explanation": "「Kidnap」は、誘拐するという意味です。シェルドンは極端な状況を想定してセキュリティの脆弱性を指摘しています。"
+    },
+    {
+      "id": 59,
+      "value": "forces me to",
+      "options": [
+        "私に強制する",
+        "私に任せる",
+        "私を支援する",
+        "私を説得する"
+      ],
+      "correctAnswer": "私に強制する",
+      "explanation": "「Force someone to do something」は、誰かに何かを強制するという意味です。シェルドンは誘拐犯に強制される状況を想定しています。"
+    },
+    {
+      "id": 60,
+      "value": "basket of muffins",
+      "options": [
+        "マフィンのバスケット",
+        "パンの詰め合わせ",
+        "お菓子の箱",
+        "ケーキの詰め合わせ"
+      ],
+      "correctAnswer": "マフィンのバスケット",
+      "explanation": "「Basket of muffins」は、マフィンを詰め合わせたバスケットのことです。レオナルドはシェルドンが誘拐された場合に、お詫びとしてマフィンを送ると冗談を言っています。"
+    },
+    {
+      "id": 61,
+      "value": "motion detectors",
+      "options": [
+        "運動検出器",
+        "動き検出器",
+        "感情検出器",
+        "騒音検出器"
+      ],
+      "correctAnswer": "動き検出器",
+      "explanation": "「Motion detectors」は、動きを感知するセンサーのことです。セキュリティシステムの一部として、侵入者を検知するために使用されます。"
+    },
+    {
+      "id": 62,
+      "value": "infrared sensors",
+      "options": [
+        "赤外線センサー",
+        "紫外線センサー",
+        "音波センサー",
+        "圧力センサー"
+      ],
+      "correctAnswer": "赤外線センサー",
+      "explanation": "「Infrared sensors」は、赤外線を感知するセンサーのことです。セキュリティシステムの一部として、人体の熱を検知するために使用されます。"
+    },
+    {
+      "id": 63,
+      "value": "facial recognition software",
+      "options": [
+        "顔認識ソフトウェア",
+        "音声認識ソフトウェア",
+        "指紋認証ソフトウェア",
+        "画像処理ソフトウェア"
+      ],
+      "correctAnswer": "顔認識ソフトウェア",
+      "explanation": "「Facial recognition software」は、顔を認識するソフトウェアのことです。セキュリティシステムの一部として、登録された人物かどうかを識別するために使用されます。"
+    },
+    {
+      "id": 64,
+      "value": "ironically",
+      "options": [
+        "皮肉なことに",
+        "当然ながら",
+        "率直に言って",
+        "正直に言って"
+      ],
+      "correctAnswer": "皮肉なことに",
+      "explanation": "「Ironically」は、皮肉なことに、という意味です。予想外の結果や矛盾した状況を表す際に使われます。"
+    },
+    {
+      "id": 65,
+      "value": "blocking me",
+      "options": [
+        "私を阻止する",
+        "私を邪魔する",
+        "私を支援する",
+        "私に同意する"
+      ],
+      "correctAnswer": "私を邪魔する",
+      "explanation": "「Blocking me」は、私の邪魔をしている、という意味です。ペニーは自分の車がラージの車によって進路を妨げられていると訴えています。"
+    },
+    {
+      "id": 66,
+      "value": "intruder alert",
+      "options": [
+        "侵入者警報",
+        "火災警報",
+        "緊急警報",
+        "避難警報"
+      ],
+      "correctAnswer": "侵入者警報",
+      "explanation": "「Intruder alert」は、侵入者を知らせる警報のことです。セキュリティシステムが作動し、ペニーが侵入者として認識されたことを意味します。"
+    },
+    {
+      "id": 67,
+      "value": "school of tuna",
+      "options": [
+        "マグロの学校",
+        "マグロの群れ",
+        "サメの群れ",
+        "魚の群れ"
+      ],
+      "correctAnswer": "マグロの群れ",
+      "explanation": "「School of tuna」は、マグロの群れのことです。シェルドンは、セキュリティシステムが無意味な状況を比喩的に表現しています。"
+    },
+    {
+      "id": 68,
+      "value": "spasming uncontrollably",
+      "options": [
+        "制御不能な痙攣",
+        "穏やかな動き",
+        "静止した状態",
+        "規則的な運動"
+      ],
+      "correctAnswer": "制御不能な痙攣",
+      "explanation": "「Spasming uncontrollably」は、制御できない痙攣を起こすという意味です。感電した人が痙攣する様子を想像して、セキュリティシステムの効果を表現しています。"
+    },
+    {
+      "id": 69,
+      "value": "elude me",
+      "options": [
+        "私を避ける",
+        "私を魅了する",
+        "私を助ける",
+        "私を理解する"
+      ],
+      "correctAnswer": "私を避ける",
+      "explanation": "「Elude」は、避ける、逃れるという意味です。ここでは、睡眠がシェルドンから逃げていくことを表現しています。"
+    },
+    {
+      "id": 70,
+      "value": "underbelly",
+      "options": [
+        "下腹部",
+        "裏社会",
+        "弱点",
+        "下層部"
+      ],
+      "correctAnswer": "裏社会",
+      "explanation": "「Underbelly」は、裏社会、暗黒面という意味です。パサデナの隠れた危険な一面を見たという比喩的な表現です。"
+    },
+    {
+      "id": 71,
+      "value": "haunts me",
+      "options": [
+        "私に取り憑く",
+        "私を喜ばせる",
+        "私を癒す",
+        "私を励ます"
+      ],
+      "correctAnswer": "私に取り憑く",
+      "explanation": "「Haunt」は、取り憑く、苦しめるといった意味です。シェルドンが見たパサデナの裏の顔が彼を苦しめていることを表現しています。"
+    },
+    {
+      "id": 72,
+      "value": "evil lurks",
+      "options": [
+        "悪が潜む",
+        "善が潜む",
+        "危険が去る",
+        "安全が訪れる"
+      ],
+      "correctAnswer": "悪が潜む",
+      "explanation": "「Evil lurks」は、悪が潜んでいるという意味です。シェルドンは外に悪が潜んでいると信じています。"
+    },
+    {
+      "id": 73,
+      "value": "master of my own bladder",
+      "options": [
+        "膀胱の支配者",
+        "自分の欲求の支配者",
+        "感情の支配者",
+        "運命の支配者"
+      ],
+      "correctAnswer": "膀胱の支配者",
+      "explanation": "「Master of my own bladder」は、自分の排尿をコントロールできるという意味です。切羽詰まった状況で、なんとか自制しようとするシェルドンのユーモラスな表現です。"
+    },
+    {
+      "id": 74,
+      "value": "knocked over",
+      "options": [
+        "ノックアウト",
+        "倒した",
+        "設立した",
+        "訪れた"
+      ],
+      "correctAnswer": "倒した",
+      "explanation": "「Knock over」は、物を倒すという意味です。レオナルドとペニーが誤ってランプを倒したことを説明しています。"
+    },
+    {
+      "id": 75,
+      "value": "going to have...",
+      "options": [
+        "所有する",
+        "開催する",
+        "経験する",
+        "予定がある"
+      ],
+      "correctAnswer": "予定がある",
+      "explanation": "「Going to have」は、これから何かをする予定があるという意味です。この文脈では、レオナルドとペニーが親密な時間を過ごそうとしていたことを婉曲的に表現しています。"
+    },
+    {
+      "id": 76,
+      "value": "carry on",
+      "options": [
+        "続ける",
+        "中断する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「carry on」は、中断せずに続ける、継続するという意味のイディオムです。日常会話でよく使われ、仕事や活動が継続される状況を表します。\n例：Despite the difficulties, they decided to carry on with the project. (困難にもかかわらず、彼らはプロジェクトを続けることにした。)"
+    },
+    {
+      "id": 77,
+      "value": "perimeter",
+      "options": [
+        "中心部",
+        "境界線",
+        "内部",
+        "秘密"
+      ],
+      "correctAnswer": "境界線",
+      "explanation": "「perimeter」は、ある領域や場所の周囲、境界線を意味します。セキュリティや軍事的な文脈でよく使われ、防御や監視の対象となる範囲を指します。\n例：The security guards patrolled the perimeter of the building. (警備員は建物の周囲を巡回した。)"
+    },
+    {
+      "id": 78,
+      "value": "lactose intolerant",
+      "options": [
+        "菜食主義",
+        "乳糖不耐症",
+        "グルテンフリー",
+        "アレルギー"
+      ],
+      "correctAnswer": "乳糖不耐症",
+      "explanation": "「lactose intolerant」は、乳糖不耐症という意味です。乳製品に含まれる乳糖を消化できない体質を指します。医学的な文脈や日常会話で使われます。\n例：Many adults are lactose intolerant and have difficulty digesting milk. (多くの大人は乳糖不耐症で、牛乳の消化が困難です。)"
+    },
+    {
+      "id": 79,
+      "value": "a bit of an overreaction",
+      "options": [
+        "当然の反応",
+        "少し大げさな反応",
+        "冷静な判断",
+        "無関心な態度"
+      ],
+      "correctAnswer": "少し大げさな反応",
+      "explanation": "「a bit of an overreaction」は、少しばかり過剰な反応、大げさな反応という意味です。ある出来事に対して、感情や行動が過度であるときに使われます。\n例：Moving to another country because of a minor argument seems like a bit of an overreaction. (ささいな口論で引っ越すのは少し大げさな反応に思える。)"
+    },
+    {
+      "id": 80,
+      "value": "earthbound",
+      "options": [
+        "宇宙旅行",
+        "地上に縛られた",
+        "自由な",
+        "空想的な"
+      ],
+      "correctAnswer": "地上に縛られた",
+      "explanation": "「earthbound」は、地球に縛られている、地上にいるという意味です。比喩的に、現実的な制約を受けている状況を表すこともあります。SFやファンタジーの文脈でも使われます。\n例：He felt earthbound by his responsibilities. (彼は責任によって縛られていると感じた。)"
+    },
+    {
+      "id": 81,
+      "value": "hospitable",
+      "options": [
+        "敵対的な",
+        "友好的な",
+        "危険な",
+        "退屈な"
+      ],
+      "correctAnswer": "友好的な",
+      "explanation": "「hospitable」は、もてなしが良い、親切な、快適なという意味です。場所や環境が人を受け入れやすい状況を表します。旅行や観光の文脈でよく使われます。\n例：The villagers were very hospitable to the travelers. (村人たちは旅行者に対してとても親切だった。)"
+    },
+    {
+      "id": 82,
+      "value": "namesake",
+      "options": [
+        "無名",
+        "同じ名前",
+        "偽名",
+        "反対の名前"
+      ],
+      "correctAnswer": "同じ名前",
+      "explanation": "「namesake」は、同じ名前の人や物、名前の由来となった人という意味です。歴史的な人物や場所に関連して使われることがあります。\n例：The town was named after its founder, Dan'l Boone, who is its namesake. (その町は創設者であるダニエル・ブーンにちなんで名付けられ、彼がその名前の由来です。)"
+    },
+    {
+      "id": 83,
+      "value": "settled",
+      "options": [
+        "興奮した",
+        "落ち着いた",
+        "混乱した",
+        "旅行中の"
+      ],
+      "correctAnswer": "落ち着いた",
+      "explanation": "「settled」は、落ち着いた、安定した、定住したという意味です。新しい場所や状況に慣れて、快適に過ごせる状態を表します。\n例：It took a few weeks to get settled in the new house. (新しい家に落ち着くまで数週間かかった。)"
+    },
+    {
+      "id": 84,
+      "value": "loony bin",
+      "options": [
+        "図書館",
+        "精神病院",
+        "刑務所",
+        "動物園"
+      ],
+      "correctAnswer": "精神病院",
+      "explanation": "「loony bin」は、精神病院、狂人収容所という意味のスラングです。侮蔑的なニュアンスを含むため、使用には注意が必要です。\n例：He joked that he was going to end up in the loony bin if he didn't get some sleep. (彼は、もし寝ないと精神病院送りになるだろうと冗談を言った。)"
+    },
+    {
+      "id": 85,
+      "value": "ripped off",
+      "options": [
+        "助けられた",
+        "だまされた",
+        "尊敬された",
+        "褒められた"
+      ],
+      "correctAnswer": "だまされた",
+      "explanation": "「rip off」は、（値段などを）ぼったくる、だますという意味のスラングです。不当に高い価格で物を買わされたり、詐欺に遭ったりする状況を表します。\n例：Tourists often get ripped off by taxi drivers. (観光客はタクシー運転手にぼったくられることが多い。)"
+    },
+    {
+      "id": 86,
+      "value": "bring up",
+      "options": [
+        "育てる",
+        "言及する",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "言及する",
+      "explanation": "「bring up」は、（話題を）持ち出す、言及するという意味の句動詞です。会話や議論の中で、あるテーマや問題を提起する際に使われます。\n例：She didn't want to bring up the issue of money. (彼女はお金の話題を持ち出したくなかった。)"
+    },
+    {
+      "id": 87,
+      "value": "maudlin",
+      "options": [
+        "感動的な",
+        "感傷的な",
+        "論理的な",
+        "冷静な"
+      ],
+      "correctAnswer": "感傷的な",
+      "explanation": "「maudlin」は、感傷的な、涙もろいという意味です。特に、酔っ払って感情的になる様子を表すことが多いです。否定的なニュアンスを含むことがあります。\n例：He became maudlin after drinking too much wine. (彼はワインを飲みすぎて感傷的になった。)"
+    },
+    {
+      "id": 88,
+      "value": "diminished",
+      "options": [
+        "増加した",
+        "減少した",
+        "維持された",
+        "無視された"
+      ],
+      "correctAnswer": "減少した",
+      "explanation": "「diminished」は、減少した、小さくなったという意味です。価値や重要性が減じる状況を表します。\n例：His confidence diminished after the criticism. (批判の後、彼の自信は低下した。)"
+    },
+    {
+      "id": 89,
+      "value": "succumb to",
+      "options": [
+        "抵抗する",
+        "屈する",
+        "克服する",
+        "無視する"
+      ],
+      "correctAnswer": "屈する",
+      "explanation": "「succumb to」は、屈する、負けるという意味です。誘惑や圧力、病気などに負けてしまう状況を表します。\n例：He succumbed to the temptation and ate the cake. (彼は誘惑に負けてケーキを食べてしまった。)"
+    },
+    {
+      "id": 90,
+      "value": "gruesome",
+      "options": [
+        "美しい",
+        "恐ろしい",
+        "平凡な",
+        "楽しい"
+      ],
+      "correctAnswer": "恐ろしい",
+      "explanation": "「gruesome」は、恐ろしい、ぞっとするようなという意味です。暴力や死に関連して使われることが多いです。\n例：The scene of the accident was gruesome. (事故現場は恐ろしい光景だった。)"
+    },
+    {
+      "id": 91,
+      "value": "prosper",
+      "options": [
+        "衰退する",
+        "繁栄する",
+        "停滞する",
+        "滅びる"
+      ],
+      "correctAnswer": "繁栄する",
+      "explanation": "「prosper」は、繁栄する、成功するという意味です。経済的な成功や幸福な状態を表します。フォーマルな文脈で使われることが多いです。\n例：The business prospered under his leadership. (彼のリーダーシップの下で、ビジネスは繁栄した。)"
+    },
+    {
+      "id": 92,
+      "value": "bracing",
+      "options": [
+        "不快な",
+        "爽快な",
+        "退屈な",
+        "穏やかな"
+      ],
+      "correctAnswer": "爽快な",
+      "explanation": "「bracing」は、爽快な、元気が出るという意味です。特に、寒さや風が心地よく感じられる状況を表します。\n例：The bracing sea air made them feel alive. (爽快な海の空気が彼らを生き生きとさせた。)"
+    },
+    {
+      "id": 93,
+      "value": "invigorating",
+      "options": [
+        "疲れる",
+        "元気づける",
+        "退屈させる",
+        "弱める"
+      ],
+      "correctAnswer": "元気づける",
+      "explanation": "「invigorating」は、元気づける、活力を与えるという意味です。活動的でエネルギッシュな状態になることを表します。\n例：The walk in the mountains was invigorating. (山での散歩は元気づけられた。)"
+    },
+    {
+      "id": 94,
+      "value": "embodiment",
+      "options": [
+        "抽象概念",
+        "具体化",
+        "象徴",
+        "隠蔽"
+      ],
+      "correctAnswer": "具体化",
+      "explanation": "「embodiment」は、具現化、体現という意味です。抽象的な概念や性質が具体的な形で現れることを表します。\n例：She is the embodiment of elegance. (彼女は優雅さの具現化である。)"
+    },
+    {
+      "id": 95,
+      "value": "chamber of commerce",
+      "options": [
+        "秘密結社",
+        "商工会議所",
+        "政府機関",
+        "慈善団体"
+      ],
+      "correctAnswer": "商工会議所",
+      "explanation": "「chamber of commerce」は、商工会議所という意味です。地域経済の発展を促進するための組織です。\n例：The local chamber of commerce supports small businesses. (地元の商工会議所は中小企業を支援している。)"
+    },
+    {
+      "id": 96,
+      "value": "intruder alert",
+      "options": [
+        "緊急速報",
+        "侵入者警報",
+        "火災報知器",
+        "天気予報"
+      ],
+      "correctAnswer": "侵入者警報",
+      "explanation": "「intruder alert」は、侵入者警報という意味です。セキュリティシステムが不審者の侵入を検知した際に発せられる警告です。\n例：The security system sounded an intruder alert when someone tried to open the window. (誰かが窓を開けようとしたとき、セキュリティシステムが侵入者警報を発した。)"
+    },
+    {
+      "id": 97,
+      "value": "convulsing",
+      "options": [
+        "リラックス",
+        "痙攣",
+        "睡眠",
+        "運動"
+      ],
+      "correctAnswer": "痙攣",
+      "explanation": "「convulsing」は、痙攣するという意味です。筋肉が不随意に収縮する状態を表します。医学的な文脈で使われることが多いです。\n例：He was convulsing on the floor after the seizure. (彼は発作の後、床で痙攣していた。)"
+    },
+    {
+      "id": 98,
+      "value": "master of my own bladder",
+      "options": [
+        "膀胱炎",
+        "排尿のコントロール",
+        "水分補給",
+        "腎臓病"
+      ],
+      "correctAnswer": "排尿のコントロール",
+      "explanation": "「master of my own bladder」は、自分の膀胱をコントロールできるという意味です。通常は、排尿を我慢できなくなることをユーモラスに表現する際に使われます。\n例：After drinking too much coffee, I was no longer the master of my own bladder. (コーヒーを飲みすぎた後、私はもう自分の排尿をコントロールできなかった。)"
+    },
+    {
+      "id": 99,
+      "value": "for the foreseeable future",
+      "options": [
+        "過去",
+        "近い将来",
+        "遠い過去",
+        "永遠に"
+      ],
+      "correctAnswer": "近い将来",
+      "explanation": "「for the foreseeable future」は、予測できる限り、当分の間という意味です。近い将来に起こりうる範囲で、ある状態が継続することを示します。\n例：I will be working from home for the foreseeable future. (当分の間、私は自宅で仕事をすることになる。)"
+    },
+    {
+      "id": 100,
+      "value": "treasured acquaintance",
+      "options": [
+        "嫌いな人",
+        "大切な知人",
+        "ライバル",
+        "見知らぬ人"
+      ],
+      "correctAnswer": "大切な知人",
+      "explanation": "「treasured acquaintance」は、大切な知人という意味です。友人ほど親密ではないものの、価値を認めている関係を表します。\n例：Although they were just acquaintances, he considered her a treasured acquaintance. (彼らは単なる知人だったが、彼は彼女を大切な知人だと思っていた。)"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "checkmate",
+      "options": [
+        "相手を油断させること",
+        "王手をかけること",
+        "勝利を確信すること",
+        "完全に負かすこと"
+      ],
+      "correctAnswer": "完全に負かすこと",
+      "explanation": "チェスでキングが逃げられない状態に追い込まれ、ゲームが終了することを指します。比喩的には、完全に打ち負かす、どうすることもできない状況に追い込むという意味で使われます。\n\n例：The company's new product was a checkmate for its competitors.(その会社の新製品は競争相手にとっての王手だった。)"
+    },
+    {
+      "id": 2,
+      "value": "humbling",
+      "options": [
+        "謙虚な",
+        "屈辱的な",
+        "高慢な",
+        "満足な"
+      ],
+      "correctAnswer": "屈辱的な",
+      "explanation": "「humbling」は、自分の弱さや限界を自覚させられるような、屈辱的な、または恥ずかしい経験を指します。過信や傲慢さを戒めるような状況で使われます。\n\n例：It was a humbling experience to lose to such a young player.(そのような若い選手に負けるとは、屈辱的な経験だった。)"
+    },
+    {
+      "id": 3,
+      "value": "draw that conclusion",
+      "options": [
+        "結論を避ける",
+        "結論を引き延ばす",
+        "結論を導き出す",
+        "結論を隠す"
+      ],
+      "correctAnswer": "結論を導き出す",
+      "explanation": "「draw a conclusion」は、ある情報や証拠に基づいて結論を導き出すという意味です。論理的な思考や分析の結果として結論に至る状況で使われます。\n\n例：Based on the evidence, we can draw the conclusion that he is guilty.(証拠に基づけば、彼が有罪であるという結論を導き出すことができる。)"
+    },
+    {
+      "id": 4,
+      "value": "contagious",
+      "options": [
+        "伝染性の",
+        "免疫のある",
+        "健康な",
+        "予防可能な"
+      ],
+      "correctAnswer": "伝染性の",
+      "explanation": "「contagious」は、病気が人から人へ感染しやすい、伝染性のあるという意味です。人だけでなく、感情や行動が広がりやすいことも指します。\n\n例：The flu is highly contagious, so stay home if you're sick. (インフルエンザは非常に伝染しやすいので、病気の時は家にいましょう。)"
+    },
+    {
+      "id": 5,
+      "value": "germophobe",
+      "options": [
+        "潔癖症の人",
+        "細菌学者",
+        "病弱な人",
+        "健康オタク"
+      ],
+      "correctAnswer": "潔癖症の人",
+      "explanation": "「germophobe」は、細菌や微生物を極度に恐れる人、潔癖症の人を指します。強迫性障害の一つの症状として現れることもあります。\n\n例：He's such a germophobe that he won't touch public doorknobs. (彼は潔癖症なので、公共のドアノブには触れない。)"
+    },
+    {
+      "id": 6,
+      "value": "consideration",
+      "options": [
+        "思いやり",
+        "軽率",
+        "無関心",
+        "自己中心"
+      ],
+      "correctAnswer": "思いやり",
+      "explanation": "「consideration」は、他人の感情や状況を考慮する、思いやり、配慮という意味です。感謝の気持ちを伝える際にも使われます。\n\n例：Thank you for your consideration. (ご配慮いただきありがとうございます。)"
+    },
+    {
+      "id": 7,
+      "value": "petrie dishes",
+      "options": [
+        "ペット用の皿",
+        "実験用シャーレ",
+        "料理のレシピ",
+        "園芸用の鉢"
+      ],
+      "correctAnswer": "実験用シャーレ",
+      "explanation": "「petri dish」は、微生物や細胞を培養するために使用される浅い円形のガラスまたはプラスチック製の容器です。実験室でよく使用されます。\n\n例：The bacteria were grown in petri dishes. (バクテリアはペトリ皿で培養された。)"
+    },
+    {
+      "id": 8,
+      "value": "growth medium",
+      "options": [
+        "成長の妨げ",
+        "成長の環境",
+        "成長の限界",
+        "成長の加速"
+      ],
+      "correctAnswer": "成長の環境",
+      "explanation": "「growth medium」は、微生物、細胞、または植物の成長をサポートするために使用される栄養豊富な物質です。培養培地とも呼ばれます。\n\n例：Agar is often used as a growth medium for bacteria. (寒天はバクテリアの培養培地としてよく使用される。)"
+    },
+    {
+      "id": 9,
+      "value": "get ahead of this thing",
+      "options": [
+        "物事を有利に進める",
+        "物事を無視する",
+        "物事に追いつかれる",
+        "物事をなかったことにする"
+      ],
+      "correctAnswer": "物事を有利に進める",
+      "explanation": "「get ahead of something」は、問題や困難な状況に先手を打って対処し、有利な立場を確保するという意味です。積極的に対策を講じるニュアンスがあります。\n\n例：We need to get ahead of the competition by innovating. (革新を起こして競争に先んじる必要がある。)"
+    },
+    {
+      "id": 10,
+      "value": "pathogen",
+      "options": [
+        "病原体",
+        "治療薬",
+        "抗生物質",
+        "免疫力"
+      ],
+      "correctAnswer": "病原体",
+      "explanation": "「pathogen」は、病気を引き起こす可能性のある微生物（細菌、ウイルス、真菌など）を指します。\n\n例：The pathogen responsible for the outbreak was identified. (アウトブレイクの原因となった病原体が特定された。)"
+    },
+    {
+      "id": 11,
+      "value": "comatose",
+      "options": [
+        "昏睡状態の",
+        "意識のある",
+        "健康な",
+        "活動的な"
+      ],
+      "correctAnswer": "昏睡状態の",
+      "explanation": "「comatose」は、昏睡状態にある、意識がない状態を指します。重篤な病気や怪我によって引き起こされることが多いです。\n\n例：He was comatose after the accident. (彼は事故後、昏睡状態だった。)"
+    },
+    {
+      "id": 12,
+      "value": "fighting chance",
+      "options": [
+        "絶望的な状況",
+        "わずかな可能性",
+        "確実な勝利",
+        "平等な機会"
+      ],
+      "correctAnswer": "わずかな可能性",
+      "explanation": "「fighting chance」は、困難な状況でも、まだ勝利や成功の可能性がわずかに残されている状態を指します。最後まで諦めずに戦う姿勢を表します。\n\n例：The surgery gave him a fighting chance of recovery. (手術は彼に回復のわずかな可能性を与えた。)"
+    },
+    {
+      "id": 13,
+      "value": "fluid intake and output",
+      "options": [
+        "流動資産",
+        "液体の摂取量と排出量",
+        "感情の起伏",
+        "エネルギー消費量"
+      ],
+      "correctAnswer": "液体の摂取量と排出量",
+      "explanation": "「fluid intake and output」は、体内に摂取される液体の量と、尿や汗などで排出される液体の量を指します。医療現場で、患者の体液バランスを管理するために測定されます。\n\n例：The nurse monitored the patient's fluid intake and output. (看護師は患者の水分摂取量と排出量を監視した。)"
+    },
+    {
+      "id": 14,
+      "value": "owe someone a letter of apology",
+      "options": [
+        "感謝の手紙を送る",
+        "謝罪の手紙を送る",
+        "励ましの手紙を送る",
+        "別れの手紙を送る"
+      ],
+      "correctAnswer": "謝罪の手紙を送る",
+      "explanation": "「owe someone a letter of apology」は、誰かに謝罪の手紙を書く義務があるという意味です。自分の過ちを認め、相手に謝罪する気持ちを表します。\n\n例：I owe her a letter of apology for my rude behavior. (私の無礼な振る舞いについて、彼女に謝罪の手紙を書く義務がある。)"
+    },
+    {
+      "id": 15,
+      "value": "sinuses hurt when I bend over",
+      "options": [
+        "前かがみになると副鼻腔が痛む",
+        "前かがみになると気分が良くなる",
+        "前かがみになると力が湧いてくる",
+        "前かがみになると落ち着く"
+      ],
+      "correctAnswer": "前かがみになると副鼻腔が痛む",
+      "explanation": "「sinuses hurt when I bend over」は、前かがみになると副鼻腔が痛むという意味です。副鼻腔炎などの症状としてよく見られます。\n\n例：My sinuses hurt when I bend over, so I think I have a sinus infection. (前かがみになると副鼻腔が痛むので、副鼻腔炎だと思います。)"
+    },
+    {
+      "id": 16,
+      "value": "tentatively",
+      "options": [
+        "ためらいながら",
+        "大胆に",
+        "急いで",
+        "確実に"
+      ],
+      "correctAnswer": "ためらいながら",
+      "explanation": "「tentatively」は、自信がなく、ためらいながら、おずおずと、という意味です。不確実な状況や、結果が予測できない場合に使われます。\n\n例：He tentatively reached out to touch the strange object. (彼はためらいながら、その奇妙な物体に手を伸ばした。)"
+    },
+    {
+      "id": 17,
+      "value": "suited for",
+      "options": [
+        "適している",
+        "不向きである",
+        "興味がない",
+        "準備中である"
+      ],
+      "correctAnswer": "適している",
+      "explanation": "「suited for」は、特定の目的や状況に合っている、適している、という意味です。能力や性質が条件を満たしていることを表します。\n\n例：He is well suited for the job because of his experience. (彼は経験があるので、その仕事に非常に適している。)"
+    },
+    {
+      "id": 18,
+      "value": "suck on",
+      "options": [
+        "軽蔑する",
+        "崇拝する",
+        "楽しむ",
+        "苦しむ"
+      ],
+      "correctAnswer": "苦しむ",
+      "explanation": "「suck on」は、ここでは「多くの異なるレベルで出来が悪いことに対して、惨めな思いをする」という意味合いです。比喩的に、非常に悪い状態である、または不快な経験をすることを指します。\n\n例：It must be humbling to suck on so many different levels. (多くの異なるレベルで出来が悪いと、惨めな気持ちになるだろうね。)"
+    },
+    {
+      "id": 19,
+      "value": "data at hand",
+      "options": [
+        "利用可能なデータ",
+        "失われたデータ",
+        "秘密のデータ",
+        "偽造されたデータ"
+      ],
+      "correctAnswer": "利用可能なデータ",
+      "explanation": "「data at hand」は、手元にあるデータ、利用可能なデータ、という意味です。限られた情報に基づいて判断する必要がある場合に使われます。\n\n例：Based on the data at hand, we cannot make a definitive conclusion. (手元にあるデータに基づいて、明確な結論を出すことはできない。)"
+    },
+    {
+      "id": 20,
+      "value": "with absolute certainty",
+      "options": [
+        "疑いなく",
+        "不確実な状態で",
+        "可能性として",
+        "あいまいな状態で"
+      ],
+      "correctAnswer": "疑いなく",
+      "explanation": "「with absolute certainty」は、絶対的な確信を持って、疑いなく、という意味です。完全に確実な場合にのみ使われます。\n\n例：We can say with absolute certainty that the Earth is round. (地球が丸いことは疑いなく言える。)"
+    },
+    {
+      "id": 21,
+      "value": "tool using",
+      "options": [
+        "道具を使うこと",
+        "道具を捨てること",
+        "道具を修理すること",
+        "道具を恐れること"
+      ],
+      "correctAnswer": "道具を使うこと",
+      "explanation": "「tool using」は、道具を使うこと、または道具を使用する能力を指します。人類の進化において重要な要素の一つです。\n\n例：Tool using is a key characteristic of humans. (道具を使うことは、人類の重要な特徴である。)"
+    },
+    {
+      "id": 22,
+      "value": "cave painting",
+      "options": [
+        "洞窟探検",
+        "洞窟の崩壊",
+        "洞窟壁画",
+        "洞窟の入り口"
+      ],
+      "correctAnswer": "洞窟壁画",
+      "explanation": "「cave painting」は、洞窟の壁に描かれた絵のことです。先史時代の人々が残した芸術作品であり、当時の生活や文化を知る手がかりとなります。\n\n例：Cave paintings provide insights into the lives of early humans. (洞窟壁画は、初期の人々の生活に関する洞察を提供する。)"
+    },
+    {
+      "id": 23,
+      "value": "excuse someone",
+      "options": [
+        "許す",
+        "責める",
+        "無視する",
+        "批判する"
+      ],
+      "correctAnswer": "許す",
+      "explanation": "「excuse someone」は、人の行動や発言を許す、大目に見る、という意味です。相手の欠点や過ちを理解し、寛容な態度を示す場合に用いられます。\n\n例：Please excuse my lateness. (遅刻をお許しください。)"
+    },
+    {
+      "id": 24,
+      "value": "polish off",
+      "options": [
+        "磨き上げる",
+        "完成させる",
+        "盗む",
+        "平らげる"
+      ],
+      "correctAnswer": "平らげる",
+      "explanation": "「polish off」は、食べ物や飲み物をきれいに平らげる、全部食べる、という意味です。カジュアルな状況で使われることが多いです。\n\n例：He polished off the entire pizza by himself. (彼はピザを一人で全部平らげた。)"
+    },
+    {
+      "id": 25,
+      "value": "shutting down",
+      "options": [
+        "再起動する",
+        "停止する",
+        "加速する",
+        "改善する"
+      ],
+      "correctAnswer": "停止する",
+      "explanation": "「shutting down」は、機械やシステムが停止する、または機能を停止することを指します。比喩的には、活動やプロセスが停止することも意味します。\n\n例：The factory is shutting down due to the economic crisis. (経済危機のため、その工場は閉鎖される。) "
+    },
+    {
+      "id": 26,
+      "value": "tracking up exponentially",
+      "options": [
+        "徐々に減少する",
+        "一定の割合で増加する",
+        "指数関数的に増加する",
+        "横ばいで停滞する"
+      ],
+      "correctAnswer": "指数関数的に増加する",
+      "explanation": "「exponentially」は指数関数的に、加速度的にという意味です。ここでは、熱が急激に上昇している様子を表しています。数学や科学の文脈だけでなく、比喩的に何かが急速に増大する状況を指す場合にも使われます。"
+    },
+    {
+      "id": 27,
+      "value": "sputum",
+      "options": [
+        "血液",
+        "唾液",
+        "痰",
+        "汗"
+      ],
+      "correctAnswer": "痰",
+      "explanation": "「sputum」は医学用語で「痰」を意味します。呼吸器系の疾患の際に排出される粘液を指し、色や状態によって病状を判断する材料となります。日常会話ではあまり使われませんが、医療系の記事やドラマなどで見かけることがあります。"
+    },
+    {
+      "id": 28,
+      "value": "no kidding?",
+      "options": [
+        "冗談でしょ？",
+        "本当ですか？",
+        "気にしないで",
+        "どうでもいい"
+      ],
+      "correctAnswer": "本当ですか？",
+      "explanation": "「No kidding?」は相手の発言に対して驚きや疑いを表す時に使われる表現です。「マジで？」「まさか！」といったニュアンスで、相手の発言が信じられない時や、驚くべき内容だった時に使います。軽い驚きを表すカジュアルな表現です。"
+    },
+    {
+      "id": 29,
+      "value": "shifted from",
+      "options": [
+        "〜から遠ざかった",
+        "〜に似ている",
+        "〜から変化した",
+        "〜に固執した"
+      ],
+      "correctAnswer": "〜から変化した",
+      "explanation": "「shift from A to B」は「AからBへ変化する」という意味です。物理的な移動だけでなく、状態、考え方、方針などが変化する場合にも使われます。変化のプロセスや結果を強調する際に用いられる表現です。"
+    },
+    {
+      "id": 30,
+      "value": "plenty of fluids",
+      "options": [
+        "少量の液体",
+        "特定の液体",
+        "たくさんの液体",
+        "冷たい液体"
+      ],
+      "correctAnswer": "たくさんの液体",
+      "explanation": "「plenty of」は「たくさんの」という意味で、数えられる名詞にも数えられない名詞にも使えます。「fluids」は「液体」という意味なので、「plenty of fluids」で「たくさんの液体」となります。病気の時には水分補給が大切なので、よく使われる表現です。"
+    },
+    {
+      "id": 31,
+      "value": "ionized plasma",
+      "options": [
+        "イオン化された液体",
+        "イオン化された固体",
+        "イオン化された気体",
+        "イオン化されたプラズマ"
+      ],
+      "correctAnswer": "イオン化されたプラズマ",
+      "explanation": "「ionized plasma」は物理学の用語で、イオン化されたプラズマを指します。プラズマとは、気体が非常に高温になり、電子が原子から剥がれてイオン化した状態のことです。核融合の研究などでよく扱われます。ここではジョークとして使われています。"
+    },
+    {
+      "id": 32,
+      "value": "operate the centrifuge",
+      "options": [
+        "遠心分離機を操作する",
+        "顕微鏡を操作する",
+        "冷蔵庫を操作する",
+        "コンピューターを操作する"
+      ],
+      "correctAnswer": "遠心分離機を操作する",
+      "explanation": "「centrifuge」は遠心分離機という意味で、研究室などで使われる機器です。「operate」は操作するという意味なので、「operate the centrifuge」は遠心分離機を操作するという意味になります。ここでは、盲目の科学者のために犬に遠心分離機を操作させようとしているというジョークとして使われています。"
+    },
+    {
+      "id": 33,
+      "value": "ungodly hour",
+      "options": [
+        "神聖な時間",
+        "祈りの時間",
+        "非常識な時間",
+        "楽しい時間"
+      ],
+      "correctAnswer": "非常識な時間",
+      "explanation": "「ungodly hour」は「非常識な時間」という意味で、通常は早朝や深夜など、人が寝ている時間帯を指します。電話がかかってくるなど、邪魔された状況で使われることが多いです。宗教的な意味合いはなく、単に迷惑な時間を強調する表現です。"
+    },
+    {
+      "id": 34,
+      "value": "code Milky Green",
+      "options": [
+        "緊急事態",
+        "作戦名",
+        "病状のコード",
+        "合言葉"
+      ],
+      "correctAnswer": "病状のコード",
+      "explanation": "ここでは、Sheldonの病状を表す隠語として「Milky Green」が使われています。二人の間でのみ通用する合言葉のようなもので、具体的な症状（ここでは痰の色）を伝えるために使われています。このようなコードを使うことで、第三者に病状を知られずに済みます。"
+    },
+    {
+      "id": 35,
+      "value": "affirmative",
+      "options": [
+        "否定",
+        "肯定",
+        "保留",
+        "無効"
+      ],
+      "correctAnswer": "肯定",
+      "explanation": "「affirmative」は「肯定」という意味で、特に軍隊や航空業界などで「Yes」の代わりに使われます。ここでは、深刻な状況であることを強調するために使われています。日常会話ではあまり使われませんが、フォーマルな場面や専門的な分野で使われることがあります。"
+    },
+    {
+      "id": 36,
+      "value": "for God's sake",
+      "options": [
+        "神に感謝して",
+        "神の思し召しで",
+        "勘弁してくれ",
+        "神のために"
+      ],
+      "correctAnswer": "勘弁してくれ",
+      "explanation": "「For God's sake」は、苛立ち、不満、驚きなどを表す時に使われる表現です。「お願いだから」「勘弁してくれ」「一体全体」といったニュアンスで、感情を強く表現したい時に用いられます。宗教的な意味合いは薄く、単なる強調表現として使われます。"
+    },
+    {
+      "id": 37,
+      "value": "whadda-ya",
+      "options": [
+        "何ですか",
+        "どこですか",
+        "誰ですか",
+        "どうですか"
+      ],
+      "correctAnswer": "何ですか",
+      "explanation": "「Whadda-ya」は「What do you」の口語的な省略形で、特にアメリカ英語でよく使われます。発音をそのまま文字にしたもので、親しい間柄での会話でよく使われます。ここでは、母親が息子に対して親しみを込めて話しかけている様子が表れています。"
+    },
+    {
+      "id": 38,
+      "value": "call waiting",
+      "options": [
+        "通話中",
+        "着信保留",
+        "伝言",
+        "応答なし"
+      ],
+      "correctAnswer": "着信保留",
+      "explanation": "「call waiting」は電話の機能で、通話中に別の電話がかかってきた時に、その着信を知らせる機能です。日本では「キャッチホン」という名称で知られています。ここでは、Leonardとの電話中にSheldonから電話がかかってきたため、Howardが「call waiting」と言っています。"
+    },
+    {
+      "id": 39,
+      "value": "put in place",
+      "options": [
+        "元の場所に戻す",
+        "実行する",
+        "設置する",
+        "隠す"
+      ],
+      "correctAnswer": "設置する",
+      "explanation": "「put in place」は「設置する」「導入する」「実施する」という意味です。規則、システム、計画などを新たに設けたり、準備したりする際に使われます。ここでは、過去の経験から得た教訓を活かして、対策を講じたことを表しています。"
+    },
+    {
+      "id": 40,
+      "value": "lay low",
+      "options": [
+        "横になる",
+        "目立たないようにする",
+        "低い姿勢をとる",
+        "休憩する"
+      ],
+      "correctAnswer": "目立たないようにする",
+      "explanation": "「lay low」は「（危険を避けるために）身を隠す」「目立たないようにする」という意味です。警察に追われている犯人や、トラブルに巻き込まれたくない人が、人目を避けて行動する際に使われます。ここでは、Sheldonの病気が感染するのを避けるために、LeonardとHowardが人目を避けてどこかに隠れようとしている状況を表しています。"
+    },
+    {
+      "id": 41,
+      "value": "negatory",
+      "options": [
+        "肯定",
+        "否定",
+        "保留",
+        "不明"
+      ],
+      "correctAnswer": "否定",
+      "explanation": "「negatory」は軍隊や航空業界で使われる専門用語で、「No」や「Negative」と同じ意味です。ここでは、Howardが母親に対して、友達を家に呼ぶことを拒否されたことを伝えるために使われています。日常会話ではあまり使われませんが、映画やドラマなどで耳にすることがあります。"
+    },
+    {
+      "id": 42,
+      "value": "apiece",
+      "options": [
+        "それぞれ",
+        "一緒に",
+        "全体で",
+        "追加で"
+      ],
+      "correctAnswer": "それぞれ",
+      "explanation": "「apiece」は「それぞれ」「一人あたり」「一つあたり」という意味です。ここでは、映画が1本あたり2時間であることを表しています。料金や数量などを表す際によく使われます。"
+    },
+    {
+      "id": 43,
+      "value": "doomed",
+      "options": [
+        "救われた",
+        "運命にある",
+        "祝福された",
+        "解放された"
+      ],
+      "correctAnswer": "運命にある",
+      "explanation": "「doomed」は「運命にある」「破滅する」「見込みがない」という意味です。悪い結果が避けられない状況を表します。ここでは、Pennyが病気のキャリアであるため、周りの人々が感染してしまう運命にあるとSheldonが言っています。大げさな表現で、ユーモラスな効果を出しています。"
+    },
+    {
+      "id": 44,
+      "value": "throat clearance",
+      "options": [
+        "咳払い",
+        "喉の痛み",
+        "沈黙",
+        "叫び"
+      ],
+      "correctAnswer": "咳払い",
+      "explanation": "「throat clearance」は「咳払い」という意味です。咳をして喉を পরিষ্কারにすることを指します。ここでは、PennyがSheldonの発言を遮るために、咳払いをしている状況を表しています。"
+    },
+    {
+      "id": 45,
+      "value": "febrile delirium",
+      "options": [
+        "健康的な状態",
+        "一時的な無気力",
+        "発熱性せん妄",
+        "慢性的な疲労"
+      ],
+      "correctAnswer": "発熱性せん妄",
+      "explanation": "「febrile delirium」は医学用語で「発熱性せん妄」を意味します。高熱によって意識が混濁し、錯乱状態になることを指します。ここでは、Sheldonが自分が熱で意識がおかしくなっていることを自覚していることを表しています。医学的な知識をジョークにしている部分です。"
+    },
+    {
+      "id": 46,
+      "value": "texted",
+      "options": [
+        "電話した",
+        "手紙を書いた",
+        "テキストメッセージを送った",
+        "メールを送った"
+      ],
+      "correctAnswer": "テキストメッセージを送った",
+      "explanation": "「texted」は「テキストメッセージを送った」という意味です。携帯電話のショートメッセージサービス（SMS）を使ってメッセージを送ることを指します。ここでは、Leonardが職場からテキストメッセージを受け取ったことをSheldonに伝えています。現代的なコミュニケーション手段を表す言葉です。"
+    },
+    {
+      "id": 47,
+      "value": "at an alarming rate",
+      "options": [
+        "ゆっくりとしたペースで",
+        "心配な速度で",
+        "一定の速度で",
+        "安全な速度で"
+      ],
+      "correctAnswer": "心配な速度で",
+      "explanation": "「at an alarming rate」は「驚くべき速度で」「心配な速度で」という意味です。何かが急速に増加または減少している状況を表します。ここでは、Sheldonが自分の痰の量が異常な速度で増えていることを訴えています。誇張表現で、ユーモラスな効果を出しています。"
+    },
+    {
+      "id": 48,
+      "value": "get some rest",
+      "options": [
+        "運動する",
+        "休む",
+        "働く",
+        "外出する"
+      ],
+      "correctAnswer": "休む",
+      "explanation": "「get some rest」は「休む」「休息を取る」という意味です。体調が悪い人や疲れている人に、休息を勧める時に使われます。ここでは、LeonardがSheldonに休息を取るように勧めています。一般的なアドバイスとして使われる表現です。"
+    },
+    {
+      "id": 49,
+      "value": "at work",
+      "options": [
+        "家にいる",
+        "仕事中",
+        "休暇中",
+        "外出中"
+      ],
+      "correctAnswer": "仕事中",
+      "explanation": "「at work」は「仕事中」「勤務中」という意味です。ここでは、Leonardが自分が仕事中であることをSheldonに伝えています。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 50,
+      "value": "call your own mother",
+      "options": [
+        "他人に電話する",
+        "母親に電話する",
+        "父親に電話する",
+        "兄弟に電話する"
+      ],
+      "correctAnswer": "母親に電話する",
+      "explanation": "「call your own mother」は「自分の母親に電話する」という意味です。ここでは、HowardがSheldonに対して、スープが欲しいなら自分で母親に頼めと言っています。冷たい言い方ですが、二人の関係性を表すユーモラスな表現です。"
+    },
+    {
+      "id": 51,
+      "value": "split pea",
+      "options": [
+        "そら豆",
+        "グリーンピース",
+        "レンズ豆",
+        "ひよこ豆"
+      ],
+      "correctAnswer": "グリーンピース",
+      "explanation": "Split peaは、乾燥させて二つに割ったエンドウ豆のことです。スープの材料としてよく使われます。"
+    },
+    {
+      "id": 52,
+      "value": "frankfurter slices",
+      "options": [
+        "サラミ",
+        "フランクフルトソーセージ",
+        "チョリソー",
+        "ボロニアソーセージ"
+      ],
+      "correctAnswer": "フランクフルトソーセージ",
+      "explanation": "Frankfurterは、豚肉や牛肉を原料とした細長いソーセージの一種です。スライスされたものがスープの具として使われることがあります。"
+    },
+    {
+      "id": 53,
+      "value": "home made croutons",
+      "options": [
+        "自家製クルトン",
+        "市販のクルトン",
+        "フランスパン",
+        "クラッカー"
+      ],
+      "correctAnswer": "自家製クルトン",
+      "explanation": "Croutonは、パンを ছোট করে قطعしたあと、バターや油で揚げたり焼いたりしたものです。スープやサラダのトッピングとして使われます。"
+    },
+    {
+      "id": 54,
+      "value": "shouted me down",
+      "options": [
+        "応援した",
+        "言い負かした",
+        "無視した",
+        "助けた"
+      ],
+      "correctAnswer": "言い負かした",
+      "explanation": "Shout someone downとは、相手の意見を大声で遮ったり、発言の機会を与えなかったりして、議論を封じ込めることを意味します。会議や討論の場で、多数派が少数派の意見を抑え込むような状況で使われます。"
+    },
+    {
+      "id": 55,
+      "value": "pass out",
+      "options": [
+        "気分が悪くなる",
+        "走り去る",
+        "合格する",
+        "配る"
+      ],
+      "correctAnswer": "気分が悪くなる",
+      "explanation": "Pass outは、意識を失う、気を失うという意味です。病気、疲労、恐怖などによって一時的に意識を失う状況で使われます。"
+    },
+    {
+      "id": 56,
+      "value": "harvest his organs",
+      "options": [
+        "臓器移植",
+        "臓器売買",
+        "臓器提供",
+        "臓器摘出"
+      ],
+      "correctAnswer": "臓器摘出",
+      "explanation": "Harvest organsとは、臓器を摘出することを意味します。ここでは、Sheldonがバスの中で倒れた場合、誰かに臓器を奪われるのではないかと心配していることを表しています。"
+    },
+    {
+      "id": 57,
+      "value": "paranoid",
+      "options": [
+        "楽観的",
+        "心配性",
+        "冷静",
+        "勇敢"
+      ],
+      "correctAnswer": "心配性",
+      "explanation": "Paranoidは、根拠のない疑念や妄想を抱く状態を指します。ここでは、Sheldonが過剰な心配をしていることを表しています。"
+    },
+    {
+      "id": 58,
+      "value": "established a nest",
+      "options": [
+        "巣を作った",
+        "家を建てた",
+        "拠点を作った",
+        "縄張りを作った"
+      ],
+      "correctAnswer": "拠点を作った",
+      "explanation": "Establish a nestとは、文字通りには「巣を作る」という意味ですが、ここでは、Sheldonがレストランに居座って、自分の居場所を確保していることを比喩的に表しています。"
+    },
+    {
+      "id": 59,
+      "value": "breech",
+      "options": [
+        "違反",
+        "改良",
+        "侵入",
+        "崩壊"
+      ],
+      "correctAnswer": "崩壊",
+      "explanation": "Breechは、ここでは放射線ユニットの破損や漏洩を意味します。安全対策が破られたり、防護壁が崩れたりする状況を指します。"
+    },
+    {
+      "id": 60,
+      "value": "in jeopardy",
+      "options": [
+        "安全な",
+        "危険な",
+        "安定した",
+        "管理された"
+      ],
+      "correctAnswer": "危険な",
+      "explanation": "In jeopardyとは、危険にさらされている、危機的な状況にあるという意味です。ここでは、放射線漏れによって都市全体が危険にさらされていることを表しています。"
+    },
+    {
+      "id": 61,
+      "value": "guilty",
+      "options": [
+        "満足",
+        "無罪",
+        "罪悪感",
+        "感謝"
+      ],
+      "correctAnswer": "罪悪感",
+      "explanation": "Guiltyは、罪悪感を感じているという意味です。ここでは、LeonardがSheldonを避けるために嘘をついたことに対して罪悪感を抱いていることを表しています。"
+    },
+    {
+      "id": 62,
+      "value": "stinking paws",
+      "options": [
+        "汚い手",
+        "清潔な手",
+        "大きな手",
+        "小さな手"
+      ],
+      "correctAnswer": "汚い手",
+      "explanation": "Stinkingは「ひどく不快な」という意味で、pawsはここでは手のことです。全体として「汚い手」という意味になり、Rajの手がHowardのポップコーンを汚しているというニュアンスが含まれています。"
+    },
+    {
+      "id": 63,
+      "value": "rent",
+      "options": [
+        "給料",
+        "家賃",
+        "食費",
+        "光熱費"
+      ],
+      "correctAnswer": "家賃",
+      "explanation": "Rentは、家賃のことです。ここではPennyが家賃を払う必要があるかどうかをSheldonに伝える際に使われています。"
+    },
+    {
+      "id": 64,
+      "value": "bad cheques",
+      "options": [
+        "小切手詐欺",
+        "不渡り小切手",
+        "偽造小切手",
+        "期限切れ小切手"
+      ],
+      "correctAnswer": "不渡り小切手",
+      "explanation": "Bad chequesは、不渡り小切手のことです。口座の残高が足りないために支払いができない小切手を指します。ここではPennyが冗談で使っています。"
+    },
+    {
+      "id": 65,
+      "value": "cuisine",
+      "options": [
+        "文化",
+        "料理",
+        "言語",
+        "歴史"
+      ],
+      "correctAnswer": "料理",
+      "explanation": "Cuisineは、特定の地域や文化に特有の料理や料理法を指します。ここでは、ドイツの料理について言及しています。"
+    },
+    {
+      "id": 66,
+      "value": "blitzkrieg",
+      "options": [
+        "平和",
+        "電撃戦",
+        "停戦",
+        "撤退"
+      ],
+      "correctAnswer": "電撃戦",
+      "explanation": "Blitzkriegは、電撃戦という意味です。ここでは、Sheldonのお腹の中で激しい下痢が起こっている状況を比喩的に表しています。"
+    },
+    {
+      "id": 67,
+      "value": "slipped off the cinderblocks",
+      "options": [
+        "倒壊した",
+        "傾いた",
+        "移動した",
+        "修理された"
+      ],
+      "correctAnswer": "傾いた",
+      "explanation": "Cinderblocksは、建物の基礎に使われるコンクリートブロックのことです。ここでは、竜巻によって家が基礎からずれてしまったことを表しています。"
+    },
+    {
+      "id": 68,
+      "value": "enema",
+      "options": [
+        "浣腸",
+        "湿布",
+        "マッサージ",
+        "点滴"
+      ],
+      "correctAnswer": "浣腸",
+      "explanation": "Enemaは、浣腸のことです。ここでは、Sheldonがドイツで体調を崩した際に、家政婦に浣腸を勧められたというエピソードで使われています。"
+    },
+    {
+      "id": 69,
+      "value": "ground rules",
+      "options": [
+        "土地のルール",
+        "基本的なルール",
+        "秘密のルール",
+        "ゲームのルール"
+      ],
+      "correctAnswer": "基本的なルール",
+      "explanation": "Ground rulesとは、基本的なルールや条件のことです。ここでは、PennyがSheldonの看病をするにあたって、やって良いことと悪いことを明確にするために使われています。"
+    },
+    {
+      "id": 70,
+      "value": "apey goodness",
+      "options": [
+        "サルの映画",
+        "サルの優しさ",
+        "サルの悪",
+        "サルの賢さ"
+      ],
+      "correctAnswer": "サルの映画",
+      "explanation": "Apeyは、「猿のような」という意味で、goodnessはここでは「良いもの」という意味ではなく、映画の内容を指しています。全体として「猿の映画の良さ」となります。"
+    },
+    {
+      "id": 71,
+      "value": "rip the crap out of",
+      "options": [
+        "修理する",
+        "破壊する",
+        "無視する",
+        "盗む"
+      ],
+      "correctAnswer": "破壊する",
+      "explanation": "Rip the crap out of somethingは、何かを徹底的に破壊するという意味の口語表現です。ここでは、ゴリラがチャールトン・ヘストンの人形をめちゃくちゃにするという状況を想像して使われています。"
+    },
+    {
+      "id": 72,
+      "value": "whiny hyper neurotic snot-web",
+      "options": [
+        "わがままで神経質な鼻水の巣",
+        "静かで優しい心のネット",
+        "落ち着いていて論理的な思考回路",
+        "明るくて楽観的な考え方"
+      ],
+      "correctAnswer": "わがままで神経質な鼻水の巣",
+      "explanation": "これはSheldonの状態を非常に否定的に表現したものです。Whinyは「泣き言を言う」、hyper neuroticは「過度に神経質な」、snot-webは「鼻水の巣」を意味し、全体としてSheldonの不快な状態を強調しています。"
+    },
+    {
+      "id": 73,
+      "value": "full blown",
+      "options": [
+        "完全に開花した",
+        "完全に発展した",
+        "部分的に完成した",
+        "初期段階の"
+      ],
+      "correctAnswer": "完全に発展した",
+      "explanation": "Full blownは、何かが完全に発展または進行した状態を表します。ここでは、Chernobylの事態が深刻化していることを指しています。"
+    },
+    {
+      "id": 74,
+      "value": "carve out your corneas",
+      "options": [
+        "角膜を移植する",
+        "角膜を削り取る",
+        "角膜を保護する",
+        "角膜を治療する"
+      ],
+      "correctAnswer": "角膜を削り取る",
+      "explanation": "Carve outは、何かを彫り出すという意味です。ここでは、レーザーで角膜を削る手術を指しており、LeonardがそれほどSheldonと一緒にいたくないという気持ちを表しています。"
+    },
+    {
+      "id": 75,
+      "value": "Vaporub",
+      "options": [
+        "風邪薬",
+        "鎮痛剤",
+        "塗り薬",
+        "消毒薬"
+      ],
+      "correctAnswer": "塗り薬",
+      "explanation": "Vaporubは、メントールなどの成分を含んだ塗り薬で、胸や喉に塗って呼吸を楽にするために使われます。塗った後に独特の匂いが手に残ることがあります。"
+    },
+    {
+      "id": 76,
+      "value": "mats",
+      "options": [
+        "輝く",
+        "絡まる",
+        "冷やす",
+        "香る"
+      ],
+      "correctAnswer": "絡まる",
+      "explanation": "「mat」は、ここでは動詞として使われており、ものが絡まって固まる、フェルトのように密着するという意味です。特に、毛や繊維などがもつれて、一枚のマット状になる様子を表します。Sheldonのセリフでは、胸毛が Counter-clockwise で無ければ絡まると言っています。"
+    },
+    {
+      "id": 77,
+      "value": "fibre-optic",
+      "options": [
+        "金属製の",
+        "光ファイバーの",
+        "水性の",
+        "ゴム製の"
+      ],
+      "correctAnswer": "光ファイバーの",
+      "explanation": "「fibre-optic」は、光ファイバーに関する、または光ファイバーを使用したという意味です。光ファイバーは、光信号を伝送するために使用される非常に細いガラスまたはプラスチックの繊維です。このシーンでは、光ファイバーカメラが使用されています。"
+    },
+    {
+      "id": 78,
+      "value": "spare",
+      "options": [
+        "高価な",
+        "予備の",
+        "装飾的な",
+        "最新の"
+      ],
+      "correctAnswer": "予備の",
+      "explanation": "「spare」は、予備の、余分のという意味です。ここでは、Leonardが予備の眼鏡を自分の部屋に置いていることを指しています。日常会話でもよく使われる単語です。"
+    },
+    {
+      "id": 79,
+      "value": "No way, Jose",
+      "options": [
+        "もちろん",
+        "どういたしまして",
+        "まさか",
+        "頑張って"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "「No way, Jose」は、「絶対に嫌だ」「まさか」という意味のスラングです。No wayを強調した言い方で、友人同士のくだけた会話で使われます。ここでは、RajがLeonardの部屋に行くことを拒否する際に使っています。"
+    },
+    {
+      "id": 80,
+      "value": "subsonic",
+      "options": [
+        "超音波の",
+        "亜音速の",
+        "水中の",
+        "地中の"
+      ],
+      "correctAnswer": "亜音速の",
+      "explanation": "「subsonic」は、音速以下の、亜音速のという意味です。ここでは、Sheldonの動きを感知するためのセンサーが、亜音速の衝撃を感知することを指しています。"
+    },
+    {
+      "id": 81,
+      "value": "ambulatory",
+      "options": [
+        "歩行の",
+        "睡眠の",
+        "飲食の",
+        "呼吸の"
+      ],
+      "correctAnswer": "歩行の",
+      "explanation": "「ambulatory」は、歩行できる、歩き回るという意味です。ここでは、病気のSheldonが歩き回る速度を考慮して、脱出時間を計算することを指しています。ややフォーマルな単語です。"
+    },
+    {
+      "id": 82,
+      "value": "set it off",
+      "options": [
+        "開始する",
+        "爆発させる",
+        "遅らせる",
+        "隠す"
+      ],
+      "correctAnswer": "爆発させる",
+      "explanation": "「set off」は、ここでは（アラームなどを）作動させる、（爆弾などを）爆発させるという意味です。Leonardの足音がセンサーを作動させるかどうかをHowardが説明しています。"
+    },
+    {
+      "id": 83,
+      "value": "bear left",
+      "options": [
+        "左に耐える",
+        "左に曲がる",
+        "左を避ける",
+        "左に進む"
+      ],
+      "correctAnswer": "左に曲がる",
+      "explanation": "「bear left/right」は、わずかに左/右に曲がるという意味の航海用語です。ここでは、HowardがLeonardに方向を指示する際に使っています。道案内の時に使えると便利です。"
+    },
+    {
+      "id": 84,
+      "value": "keep true",
+      "options": [
+        "正直を保つ",
+        "まっすぐ進む",
+        "秘密を守る",
+        "真実を語る"
+      ],
+      "correctAnswer": "まっすぐ進む",
+      "explanation": "「keep true」は、ここでは、針路を保つ、まっすぐ進むという意味の航海用語です。HowardがLeonardに方向を指示する際に使っています。"
+    },
+    {
+      "id": 85,
+      "value": "Time shift",
+      "options": [
+        "時間厳守",
+        "時間変更",
+        "時間差",
+        "時間旅行"
+      ],
+      "correctAnswer": "時間変更",
+      "explanation": "「Time shift」は、時間経過、場面転換という意味です。映画やドラマの脚本で、シーンが変わることを示すために使われます。"
+    },
+    {
+      "id": 86,
+      "value": "breaking up",
+      "options": [
+        "壊れている",
+        "仲たがいしている",
+        "分解している",
+        "途切れている"
+      ],
+      "correctAnswer": "途切れている",
+      "explanation": "「break up」は、ここでは、（画像や音声が）途切れる、乱れるという意味です。Rajがカメラの映像が途切れていることを伝えています。通信状況が悪い時に使われます。"
+    },
+    {
+      "id": 87,
+      "value": "deploy",
+      "options": [
+        "配備する",
+        "破壊する",
+        "遅延する",
+        "再開する"
+      ],
+      "correctAnswer": "配備する",
+      "explanation": "「deploy」は、ここでは、（軍隊や装備などを）配置する、展開するという意味です。ここでは、Leonardにセンサーを設置するように指示しています。ビジネスシーンでも使われる単語です。"
+    },
+    {
+      "id": 88,
+      "value": "rat bastard",
+      "options": [
+        "ずる賢い人",
+        "正直な人",
+        "勇敢な人",
+        "面白い人"
+      ],
+      "correctAnswer": "ずる賢い人",
+      "explanation": "「rat bastard」は、卑劣な人、ずる賢い人という意味の非常に侮蔑的な表現です。PennyがLeonardを出し抜いたHowardに対して怒って使っています。親しい間柄で冗談交じりに使われることもあります。"
+    },
+    {
+      "id": 89,
+      "value": "deliberately",
+      "options": [
+        "偶然に",
+        "迅速に",
+        "意図的に",
+        "秘密裏に"
+      ],
+      "correctAnswer": "意図的に",
+      "explanation": "「deliberately」は、意図的に、計画的にという意味です。PennyがLeonardがわざと自分にSheldonの世話を押し付けたと思っています。"
+    },
+    {
+      "id": 90,
+      "value": "stuck me with",
+      "options": [
+        "私を助けた",
+        "私を困らせた",
+        "私を支持した",
+        "私を解放した"
+      ],
+      "correctAnswer": "私を困らせた",
+      "explanation": "「stick someone with something」は、人に嫌なことや面倒なことを押し付けるという意味です。PennyがLeonardにSheldonの世話を押し付けられたと感じています。"
+    },
+    {
+      "id": 91,
+      "value": "vaporub",
+      "options": [
+        "栄養ドリンク",
+        "鎮痛剤",
+        "冷却スプレー",
+        "塗り薬"
+      ],
+      "correctAnswer": "塗り薬",
+      "explanation": "「vaporub」は、ヴェポラップのような、蒸気吸入式の塗り薬のことです。PennyがLeonardにヴェポラップを渡して、Sheldonの世話を押し付けようとしています。"
+    },
+    {
+      "id": 92,
+      "value": "comforter",
+      "options": [
+        "慰める人",
+        "毛布",
+        "枕",
+        "マットレス"
+      ],
+      "correctAnswer": "毛布",
+      "explanation": "「comforter」は、掛け布団、毛布という意味です。Sheldonが毛布にくるまっている様子を表しています。comfort（快適さ）を与えるもの、というニュアンスです。"
+    },
+    {
+      "id": 93,
+      "value": "congested",
+      "options": [
+        "満足している",
+        "混乱している",
+        "渋滞している",
+        "鼻が詰まっている"
+      ],
+      "correctAnswer": "鼻が詰まっている",
+      "explanation": "「congested」は、ここでは、鼻や胸が詰まっているという意味です。Sheldonが鼻詰まりで苦しんでいることを表しています。交通渋滞などの意味もあります。"
+    },
+    {
+      "id": 94,
+      "value": "mucus",
+      "options": [
+        "筋肉",
+        "粘液",
+        "骨",
+        "皮膚"
+      ],
+      "correctAnswer": "粘液",
+      "explanation": "「mucus」は、粘液、鼻水、痰という意味です。Sheldonが鼻水を吸い出すための器具をLeonardに取ってきてほしいと頼んでいます。やや専門的な単語です。"
+    },
+    {
+      "id": 95,
+      "value": "labelled",
+      "options": [
+        "無視された",
+        "ラベルの貼られた",
+        "盗まれた",
+        "隠された"
+      ],
+      "correctAnswer": "ラベルの貼られた",
+      "explanation": "「labelled」は、ラベルが貼られた、名前が書かれたという意味です。ここでは、粘液と書かれたラベルが貼られたTurkey baster を取ってきて欲しいと言っています。"
+    },
+    {
+      "id": 96,
+      "value": "vomit",
+      "options": [
+        "眠る",
+        "食べる",
+        "吐く",
+        "飲む"
+      ],
+      "correctAnswer": "吐く",
+      "explanation": "「vomit」は、吐くという意味です。Leonardが体調が悪く、立ち上がると吐いてしまうと言っています。医療系の話題でよく出てくる単語です。"
+    },
+    {
+      "id": 97,
+      "value": "pillar",
+      "options": [
+        "枕",
+        "柱",
+        "毛布",
+        "壁"
+      ],
+      "correctAnswer": "柱",
+      "explanation": "「pillar」は、柱という意味です。LeonardがPennyを追いかけて柱にぶつかって倒れます。建物を支える柱のイメージです。"
+    },
+    {
+      "id": 98,
+      "value": "semi-conscious",
+      "options": [
+        "完全に意識のある",
+        "半意識の",
+        "無意識の",
+        "意識過剰の"
+      ],
+      "correctAnswer": "半意識の",
+      "explanation": "「semi-conscious」は、半意識の、意識が朦朧としているという意味です。Leonardが柱にぶつかって半意識状態になります。医療系の単語です。"
+    },
+    {
+      "id": 99,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "捕まる",
+        "待って",
+        "続ける"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「hang on」は、ここでは、ちょっと待って、という意味です。HowardがLeonardにセンサーが何かを感知したことを伝える際に使っています。電話で「切らずに待って」という意味でも使います。"
+    },
+    {
+      "id": 100,
+      "value": "from this point forward",
+      "options": [
+        "過去を振り返って",
+        "将来のために",
+        "現在の場所から",
+        "今この時から"
+      ],
+      "correctAnswer": "今この時から",
+      "explanation": "「from this point forward」は、今この時から、今後という意味です。HowardがLeonardに、センサーをオンにした時点からの行動について指示する際に使っています。ビジネスシーンでも使われる表現です。"
+    }
+  ]
+}

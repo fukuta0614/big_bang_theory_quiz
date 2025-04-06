@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "subscribe to",
+      "options": [
+        "購読する",
+        "同意する",
+        "参加する",
+        "反対する"
+      ],
+      "correctAnswer": "同意する",
+      "explanation": "「subscribe to」は、文字通りには「～を購読する」という意味ですが、ここでは「（考え方や理論）を支持する、同意する」という意味で使われています。特定の意見や信念を受け入れる際に用います。"
+    },
+    {
+      "id": 2,
+      "value": "posits",
+      "options": [
+        "必要とする",
+        "仮定する",
+        "拒否する",
+        "証明する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "「posit」は、何かを事実として仮定する、主張するという意味の動詞です。学術的な文脈や議論でよく用いられ、ある理論や考え方の基礎となる仮定を提示する際に使われます。\n\n例：The study posits that there is a link between exercise and mental health. (その研究は、運動と精神的な健康の間に繋がりがあると仮定している。)"
+    },
+    {
+      "id": 3,
+      "value": "extenuating circumstances",
+      "options": [
+        "良い状況",
+        "特別な機会",
+        "やむを得ない事情",
+        "計画された行動"
+      ],
+      "correctAnswer": "やむを得ない事情",
+      "explanation": "「extenuating circumstances」とは、罪や過ちを軽くするような事情、つまり酌量すべき事情という意味です。何らかの行動が許容される理由や、責任を軽減する要因がある状況を指します。\n\n例：The judge took the extenuating circumstances into consideration when sentencing. (裁判官は判決を下す際に酌量すべき事情を考慮に入れた。)"
+    },
+    {
+      "id": 4,
+      "value": "abysmal",
+      "options": [
+        "平均的な",
+        "素晴らしい",
+        "最悪な",
+        "改善された"
+      ],
+      "correctAnswer": "最悪な",
+      "explanation": "「abysmal」は、非常に悪い、最悪なという意味の形容詞です。程度が極めて低い状況や、質が非常に悪い状態を強調する際に使われます。比喩的に、希望がないような状況を表すこともあります。\n\n例：The team's performance this season has been abysmal. (今シーズンのチームの成績は最悪だ。)"
+    },
+    {
+      "id": 5,
+      "value": "trump",
+      "options": [
+        "無視する",
+        "打ち負かす",
+        "支持する",
+        "隠す"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "「trump」は、ここでは比喩的に「～に勝る、～を打ち負かす」という意味で使われています。トランプゲームで切り札を切るように、他の要素よりも重要である、または他の要素を無効にするという意味合いがあります。\n\n例：In this case, loyalty trumps everything. (この場合、忠誠心が全てに勝る。)"
+    },
+    {
+      "id": 6,
+      "value": "sturdy",
+      "options": [
+        "壊れやすい",
+        "美しい",
+        "頑丈な",
+        "高価な"
+      ],
+      "correctAnswer": "頑丈な",
+      "explanation": "「sturdy」は、物理的に強く、しっかりしているという意味の形容詞です。建物、家具、物などが長持ちし、簡単に壊れないことを表します。比喩的に、性格や考え方がしっかりしていることを指す場合もあります。\n\n例：This chair is very sturdy. (この椅子はとても頑丈だ。)"
+    },
+    {
+      "id": 7,
+      "value": "structural failure",
+      "options": [
+        "構造的成功",
+        "組織改革",
+        "構造的欠陥",
+        "経済的成功"
+      ],
+      "correctAnswer": "構造的欠陥",
+      "explanation": "「structural failure」は、構造的な欠陥や破損によって、建物や機械などが機能しなくなる状態を指します。工学や建築の分野でよく用いられる言葉で、設計や材料の不備が原因で起こることが多いです。\n\n例：The bridge collapsed due to a structural failure. (橋は構造的な欠陥が原因で崩壊した。)"
+    },
+    {
+      "id": 8,
+      "value": "homunculus",
+      "options": [
+        "大きな怪物",
+        "小さな人間",
+        "普通の人",
+        "友好的な動物"
+      ],
+      "correctAnswer": "小さな人間",
+      "explanation": "「homunculus」は、錬金術や一部の哲学で用いられる言葉で、人工的に作られた小さな人間を指します。ここでは、愛情を込めて、または少し皮肉を込めて、小さい人を指す言葉として使われています。"
+    },
+    {
+      "id": 9,
+      "value": "improbable",
+      "options": [
+        "不可能な",
+        "ありえない",
+        "非常にありそうな",
+        "面白い"
+      ],
+      "correctAnswer": "ありえない",
+      "explanation": "「improbable」は、起こりそうにない、ありえないという意味の形容詞です。可能性が低い事柄や、実現が難しい状況を表す際に使われます。日常会話からフォーマルな文脈まで幅広く使用されます。\n\n例：It's improbable that it will rain today. (今日雨が降る可能性は低い。)"
+    },
+    {
+      "id": 10,
+      "value": "catch more flies with honey than with vinegar",
+      "options": [
+        "正直さは最良の策",
+        "急がば回れ",
+        "蜜でハエを捕る方が酢より多い",
+        "沈黙は金"
+      ],
+      "correctAnswer": "蜜でハエを捕る方が酢より多い",
+      "explanation": "「You can catch more flies with honey than with vinegar」は、人に優しく接する方が、厳しく接するよりも良い結果が得られるという意味のことわざです。相手を思いやることで、協力を得やすくなるという教訓を表します。\n\n例：Try being nicer to your employees; you can catch more flies with honey than with vinegar. (従業員にもっと優しくしてみなさい。優しくする方が良い結果が得られるよ。)"
+    },
+    {
+      "id": 11,
+      "value": "manure",
+      "options": [
+        "香水",
+        "肥料",
+        "薬",
+        "食べ物"
+      ],
+      "correctAnswer": "肥料",
+      "explanation": "「manure」は、動物の糞尿を意味する言葉で、肥料として使われます。ここでは、honey(蜂蜜)よりもっとflies(ハエ)を捕まえることができると比喩的に表現することで、Pennyを皮肉っています。"
+    },
+    {
+      "id": 12,
+      "value": "what are the odds?",
+      "options": [
+        "確率は？",
+        "何が起こったの？",
+        "どう思う？",
+        "何時ですか？"
+      ],
+      "correctAnswer": "確率は？",
+      "explanation": "「What are the odds?」は、ある出来事が起こる確率や可能性はどれくらいか、という意味で使われます。驚きや信じられない気持ちを表す際に用いられる口語表現です。\n\n例：What are the odds of winning the lottery? (宝くじに当たる確率ってどれくらい？)"
+    },
+    {
+      "id": 13,
+      "value": "unisex names",
+      "options": [
+        "珍しい名前",
+        "男女兼用の名前",
+        "一般的な名前",
+        "長い名前"
+      ],
+      "correctAnswer": "男女兼用の名前",
+      "explanation": "「unisex names」は、男性にも女性にも使われる名前のことです。中性的な名前とも呼ばれ、性別を特定しない名前を指します。\n\n例：Kim is a unisex name. (キムは男女兼用の名前です。)"
+    },
+    {
+      "id": 14,
+      "value": "leave it at that",
+      "options": [
+        "そこでやめる",
+        "続ける",
+        "説明する",
+        "手伝う"
+      ],
+      "correctAnswer": "そこでやめる",
+      "explanation": "「leave it at that」は、それ以上詮索しない、その程度にしておくという意味のフレーズです。話題を終わらせたい時や、深入りしたくない時に使われます。\n\n例：Let's just leave it at that and move on. (その話はそこまでにして、次に進みましょう。)"
+    },
+    {
+      "id": 15,
+      "value": "thoughtful",
+      "options": [
+        "無頓着な",
+        "思慮深い",
+        "不注意な",
+        "自己中心的な"
+      ],
+      "correctAnswer": "思慮深い",
+      "explanation": "「thoughtful」は、他人のことをよく考え、親切で思いやりがあるという意味の形容詞です。人の気持ちを理解し、配慮ができる性格を表します。\n\n例：It was very thoughtful of you to bring flowers. (お花を持ってきてくれて、とても気が利くね。)"
+    },
+    {
+      "id": 16,
+      "value": "obnoxious",
+      "options": [
+        "魅力的な",
+        "不快な",
+        "面白い",
+        "礼儀正しい"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「obnoxious」は、非常に不快で、迷惑なという意味の形容詞です。人が不愉快な行動や態度をとる様子を表します。しばしば、自己中心的で他人を不快にさせる人を指します。\n\n例：He was being loud and obnoxious at the party. (彼はパーティーで騒々しく、不快な態度をとっていた。)"
+    },
+    {
+      "id": 17,
+      "value": "insufferable",
+      "options": [
+        "我慢できる",
+        "素晴らしい",
+        "耐えられない",
+        "謙虚な"
+      ],
+      "correctAnswer": "耐えられない",
+      "explanation": "「insufferable」は、耐えられない、我慢できないという意味の形容詞です。人の性格や行動が非常に不快で、我慢することが難しい状態を表します。しばしば、傲慢で自己中心的な人を指して使われます。\n\n例：He's an insufferable know-it-all. (彼は耐えられないほどの物知り屋だ。)"
+    },
+    {
+      "id": 18,
+      "value": "day dwellers",
+      "options": [
+        "夜行性の人",
+        "昼間に活動する人",
+        "都会に住む人",
+        "田舎に住む人"
+      ],
+      "correctAnswer": "昼間に活動する人",
+      "explanation": "「day dwellers」は、昼間に活動する人々を指す言葉です。ここでは、ゴス（goth）の文化に身を置くハワードが、一般的な生活を送る人々を指して使っています。文字通りには「昼の住人」という意味です。"
+    },
+    {
+      "id": 19,
+      "value": "repeal",
+      "options": [
+        "制定する",
+        "廃止する",
+        "修正する",
+        "提案する"
+      ],
+      "correctAnswer": "廃止する",
+      "explanation": "「repeal」は、法律や規則などを廃止することを意味する動詞です。正式に無効にすることを指し、政府や議会などの権限を持つ主体が行います。\n\n例：The government decided to repeal the unpopular law. (政府は不評な法律を廃止することを決定した。)"
+    },
+    {
+      "id": 20,
+      "value": "don't ask, don't tell",
+      "options": [
+        "秘密主義",
+        "自己主張",
+        "相互理解",
+        "情報公開"
+      ],
+      "correctAnswer": "秘密主義",
+      "explanation": "「don't ask, don't tell」は、以前アメリカ軍に存在した政策で、兵士の性的指向について問わない代わりに、自らも公言しないことを求めるものでした。ここでは、ハワードの服装を見て、ペニーがゲイであることを隠す必要がなくなったのかと冗談めかして言っています。"
+    },
+    {
+      "id": 21,
+      "value": "hang with",
+      "options": [
+        "～を避ける",
+        "～と遊ぶ",
+        "～を尊敬する",
+        "～を無視する"
+      ],
+      "correctAnswer": "～と遊ぶ",
+      "explanation": "「hang with」は、誰かと一緒に時間を過ごす、遊ぶという意味の口語的な表現です。親しい友人や仲間とリラックスした状態で過ごすことを指します。\n\n例：I'm going to hang with my friends this weekend. (今週末は友達と遊ぶ予定です。)"
+    },
+    {
+      "id": 22,
+      "value": "whips off",
+      "options": [
+        "ゆっくり脱ぐ",
+        "急いで脱ぐ",
+        "丁寧にたたむ",
+        "隠す"
+      ],
+      "correctAnswer": "急いで脱ぐ",
+      "explanation": "「whip off」は、素早く脱ぐ、取り外すという意味の句動詞です。勢いよく何かを脱いだり、取り外したりする様子を表します。しばしば、カジュアルな状況で使われます。\n\n例：He whipped off his hat and bowed. (彼は帽子をさっと脱いでお辞儀をした。)"
+    },
+    {
+      "id": 23,
+      "value": "tattoo sleeves",
+      "options": [
+        "タトゥーシール",
+        "タトゥー除去",
+        "タトゥーアーティスト",
+        "タトゥーインク"
+      ],
+      "correctAnswer": "タトゥーシール",
+      "explanation": "「tattoo sleeves」は、腕全体を覆うように見えるタトゥーのデザインのこと、または、腕につけるタトゥー柄の入った布製のアームカバー（付け袖）のことです。本物のタトゥーのように見せかけるために使用されます。"
+    },
+    {
+      "id": 24,
+      "value": "fantastic",
+      "options": [
+        "恐ろしい",
+        "素晴らしい",
+        "退屈な",
+        "悲しい"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「fantastic」は、素晴らしい、素晴らしい、信じられないほど良いという意味の形容詞です。非常に肯定的な感情を表し、物事が期待以上に優れている場合に使われます。\n\n例：The food was fantastic! (料理は素晴らしかった！)"
+    },
+    {
+      "id": 25,
+      "value": "freaky",
+      "options": [
+        "普通",
+        "奇妙",
+        "退屈",
+        "安全"
+      ],
+      "correctAnswer": "奇妙",
+      "explanation": "「freaky」は、奇妙な、異常な、または風変わりなという意味の形容詞です。通常とは異なる、予想外の、または少し怖いような状況や人を指して使われます。スラングとして使われることもあります。\n\n例：That movie was really freaky. (あの映画は本当に奇妙だった。)"
+    },
+    {
+      "id": 26,
+      "value": "practical jokes",
+      "options": [
+        "現実的な冗談",
+        "実用的なジョーク",
+        "古典的なジョーク",
+        "自虐的なジョーク"
+      ],
+      "correctAnswer": "現実的な冗談",
+      "explanation": "「practical joke」は、人にちょっとした迷惑をかける、またはからかうような冗談のことです。大掛かりなイタズラというよりは、身近な人を対象にした、笑える範囲のものを指します。ここでは、シェルドンが自分のジョークを指して使っています。"
+    },
+    {
+      "id": 27,
+      "value": "tat sleeves",
+      "options": [
+        "タトゥーの袖",
+        "特別なスリーブ",
+        "古いスリーブ",
+        "革のスリーブ"
+      ],
+      "correctAnswer": "タトゥーの袖",
+      "explanation": "「tat sleeves」は、タトゥーがプリントされた袖のことです。本物のタトゥーのように見せかけるためのもので、ファッションアイテムとして使われます。ここでは、ハワードがゴス風のファッションのために用意したアイテムとして登場します。"
+    },
+    {
+      "id": 28,
+      "value": "snag",
+      "options": [
+        "掴む",
+        "引っ掛ける",
+        "盗む",
+        "隠す"
+      ],
+      "correctAnswer": "引っ掛ける",
+      "explanation": "「snag」は、何かに引っかかる、または引っ掛けて傷つけるという意味です。ここでは、ハワードがタトゥースリーブを誰かのニップルリングに引っ掛けるかもしれない、という状況を想定して使われています。"
+    },
+    {
+      "id": 29,
+      "value": "missus",
+      "options": [
+        "未婚女性",
+        "奥さん",
+        "若い女性",
+        "年配の女性"
+      ],
+      "correctAnswer": "奥さん",
+      "explanation": "「missus」は、「Mrs.」をくだけた言い方で表現したもので、既婚女性、奥さんを指す言葉です。ここでは、ハワードがペニーのことを指して、レオナードの「奥さん」とからかうように使っています。"
+    },
+    {
+      "id": 30,
+      "value": "whipped",
+      "options": [
+        "鞭打たれた",
+        "打ちのめされた",
+        "言いなり",
+        "興奮した"
+      ],
+      "correctAnswer": "言いなり",
+      "explanation": "「whipped」は、誰かの言いなりになっている、尻に敷かれているという意味のスラングです。特に男性が女性に頭が上がらない状況を指して使われることが多いです。ここでは、ハワードがラージに、レオナードがペニーの言いなりになっていると言おうとしています。"
+    },
+    {
+      "id": 31,
+      "value": "pushy",
+      "options": [
+        "優しい",
+        "押しが強い",
+        "内気な",
+        "悲しい"
+      ],
+      "correctAnswer": "押しが強い",
+      "explanation": "「pushy」は、押しが強い、強引であるという意味です。人が自分の意見や要求を強く主張し、他人にプレッシャーをかけるような態度を指します。ここでは、ハワードがペニーのことを指して、彼女がレオナードに対して押しが強いと言おうとしています。"
+    },
+    {
+      "id": 32,
+      "value": "fitting in",
+      "options": [
+        "似合っている",
+        "適合している",
+        "溶け込んでいる",
+        "運動している"
+      ],
+      "correctAnswer": "溶け込んでいる",
+      "explanation": "「fit in」は、グループや環境に溶け込む、馴染むという意味です。ここでは、ラージがゴスバーに「fitting in」していると言っています。"
+    },
+    {
+      "id": 33,
+      "value": "behind on",
+      "options": [
+        "～の後ろにいる",
+        "～に遅れている",
+        "～を支持している",
+        "～に隠れている"
+      ],
+      "correctAnswer": "～に遅れている",
+      "explanation": "「behind on」は、何か（仕事、勉強、支払いなど）が遅れている、滞っているという意味です。ここでは、ラージがwikiの読書に遅れていると言っています。"
+    },
+    {
+      "id": 34,
+      "value": "dive into",
+      "options": [
+        "飛び込む",
+        "夢中になる",
+        "調べる",
+        "避ける"
+      ],
+      "correctAnswer": "夢中になる",
+      "explanation": "「dive into」は、何かに夢中になる、没頭するという意味です。ここでは、ラージがジョン・グリシャムの小説に夢中になっていると言っています。"
+    },
+    {
+      "id": 35,
+      "value": "lost boys",
+      "options": [
+        "迷子",
+        "グレた少年",
+        "ピーターパンの仲間",
+        "孤独な少年"
+      ],
+      "correctAnswer": "ピーターパンの仲間",
+      "explanation": "「lost boys」は、ピーターパンに出てくる、ネバーランドに住む迷子の少年たちのことです。ここでは、ハワードが自分たちをゴスバーに迷い込んだ「lost boys」になぞらえています。"
+    },
+    {
+      "id": 36,
+      "value": "Nice ink",
+      "options": [
+        "素敵なインク",
+        "良い入れ墨",
+        "素晴らしい絵",
+        "綺麗な文字"
+      ],
+      "correctAnswer": "良い入れ墨",
+      "explanation": "「ink」は、ここではタトゥーのことを指すスラングです。「Nice ink」は、相手のタトゥーを褒める時に使われる表現です。"
+    },
+    {
+      "id": 37,
+      "value": "Wiki-how about that?",
+      "options": [
+        "Wikiの方法",
+        "Wikiに書いてある",
+        "まさか",
+        "どう思う？"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "これは「How about that?」という驚きや感嘆を表す表現と、ラージが以前にハワードからゴスについてWikiで調べるように言われたことをかけています。皮肉めいた、または少しとぼけたニュアンスで使われます。"
+    },
+    {
+      "id": 38,
+      "value": "wind up with",
+      "options": [
+        "巻き上げる",
+        "終わらせる",
+        "結局～になる",
+        "片付ける"
+      ],
+      "correctAnswer": "結局～になる",
+      "explanation": "「wind up with」は、最終的に～になる、という結果を表すイディオムです。意図したわけではない結果や、予期せぬ結果について使われることが多いです。ここでは、鼻の手術の結果、最終的に3つの鼻の穴になってしまったという状況を表しています。"
+    },
+    {
+      "id": 39,
+      "value": "zip",
+      "options": [
+        "閉める",
+        "何もない",
+        "静かにする",
+        "急いで行く"
+      ],
+      "correctAnswer": "静かにする",
+      "explanation": "「zip」は、「zip it」という形で、口を閉じる、静かにするという意味のスラングです。人に静かにしてほしいときに使います。ここでは、ペニーが自分の口を閉じるという意味で使っています。"
+    },
+    {
+      "id": 40,
+      "value": "positive reinforcement",
+      "options": [
+        "積極的な強化",
+        "肯定的な支援",
+        "プラスの補強",
+        "良い励まし"
+      ],
+      "correctAnswer": "プラスの補強",
+      "explanation": "「positive reinforcement」は、行動心理学における用語で、好ましい行動を促すために、その行動の後に報酬を与えることを指します。ここでは、シェルドンがペニーの行動をチョコレートで強化しようとしていることを指しています。"
+    },
+    {
+      "id": 41,
+      "value": "lab rat",
+      "options": [
+        "研究室のネズミ",
+        "実験動物",
+        "ずる賢い人",
+        "汚いネズミ"
+      ],
+      "correctAnswer": "実験動物",
+      "explanation": "「lab rat」は、実験に使われるネズミ、つまり実験動物のことです。転じて、実験の対象にされる人、操り人形のように扱われる人を指すこともあります。ここでは、レオナードがペニーがシェルドンの実験動物のように扱われていると感じていることを表しています。"
+    },
+    {
+      "id": 42,
+      "value": "pleasing you",
+      "options": [
+        "喜ばせる",
+        "満足させる",
+        "楽しませる",
+        "驚かせる"
+      ],
+      "correctAnswer": "満足させる",
+      "explanation": "「pleasing you」は、あなたを喜ばせる、満足させるという意味です。ここでは、シェルドンがレオナードを満足させることができない、と不満を言っています。"
+    },
+    {
+      "id": 43,
+      "value": "operant conditioning",
+      "options": [
+        "手術の条件付け",
+        "操作的条件付け",
+        "活動的な訓練",
+        "運転条件"
+      ],
+      "correctAnswer": "操作的条件付け",
+      "explanation": "「operant conditioning」は、行動心理学における用語で、ある行動に対する報酬や罰を通じて、その行動の頻度を変化させる学習プロセスを指します。シェルドンはペニーの行動をこの方法で変えようとしています。"
+    },
+    {
+      "id": 44,
+      "value": "building on",
+      "options": [
+        "建物を建てる",
+        "土台にする",
+        "発展させる",
+        "依存する"
+      ],
+      "correctAnswer": "発展させる",
+      "explanation": "「build on」は、～を基礎にして発展させる、という意味です。ここでは、シェルドンがソーンダイクとスキナーの研究を基礎にして、ペニーの行動を操作しようとしていることを表しています。"
+    },
+    {
+      "id": 45,
+      "value": "tweaking her personality",
+      "options": [
+        "性格を調整する",
+        "個性を尊重する",
+        "人格を否定する",
+        "性格を隠す"
+      ],
+      "correctAnswer": "性格を調整する",
+      "explanation": "「tweak」は、微調整する、少し修正するという意味です。ここでは、シェルドンがペニーの性格を少し調整しようとしていることを表しています。"
+    },
+    {
+      "id": 46,
+      "value": "sanding off the rough edges",
+      "options": [
+        "荒いエッジを磨く",
+        "角を丸くする",
+        "粗削りな部分を削る",
+        "表面を綺麗にする"
+      ],
+      "correctAnswer": "粗削りな部分を削る",
+      "explanation": "「sand off the rough edges」は、粗削りな部分を削る、洗練するという意味です。ここでは、シェルドンがペニーの性格の粗い部分を削って、より洗練させようとしていることを表しています。"
+    },
+    {
+      "id": 47,
+      "value": "forbidden from",
+      "options": [
+        "～から禁止されている",
+        "～することを許可されている",
+        "～から保護されている",
+        "～から解放されている"
+      ],
+      "correctAnswer": "～から禁止されている",
+      "explanation": "「forbidden from」は、～することを禁止されている、という意味です。ここでは、レオナードがシェルドンに、ペニーを「sanding」することを禁じています。"
+    },
+    {
+      "id": 48,
+      "value": "scientifically valid",
+      "options": [
+        "科学的に有効な",
+        "学術的に無効な",
+        "非科学的な",
+        "経験的に正しい"
+      ],
+      "correctAnswer": "科学的に有効な",
+      "explanation": "「scientifically valid」は、科学的に有効な、科学的根拠があるという意味です。シェルドンは自分の行動が科学的に正しいと主張しています。"
+    },
+    {
+      "id": 49,
+      "value": "protocol",
+      "options": [
+        "議定書",
+        "通信規約",
+        "実験計画",
+        "手順"
+      ],
+      "correctAnswer": "手順",
+      "explanation": "「protocol」は、ここでは手順、プロトコルの意味です。シェルドンは、ペニーの性格を改善する計画を「protocol」と呼んでいます。"
+    },
+    {
+      "id": 50,
+      "value": "Bad Leonard.",
+      "options": [
+        "悪いレオナルド",
+        "可哀想なレオナルド",
+        "優しいレオナルド",
+        "優秀なレオナルド"
+      ],
+      "correctAnswer": "悪いレオナルド",
+      "explanation": "子供や動物を叱る時のようなニュアンスで使われる表現です。水鉄砲をかけることでレオナルドの行動を否定的に強化しようとしています。"
+    },
+    {
+      "id": 51,
+      "value": "miscellaneous",
+      "options": [
+        "重要な",
+        "様々な",
+        "類似した",
+        "未知の"
+      ],
+      "correctAnswer": "様々な",
+      "explanation": "「miscellaneous」は、「いろいろな種類のものが混ざっている」という意味です。この文脈では、吸血鬼以外の様々なアンデッドが存在することを示唆しています。例文：The store sells miscellaneous items such as books, toys, and clothing. (その店では、本、おもちゃ、衣類など、様々な商品を販売しています。)"
+    },
+    {
+      "id": 52,
+      "value": "Oy vay",
+      "options": [
+        "頑張れ",
+        "なんてこった",
+        "その通り",
+        "おめでとう"
+      ],
+      "correctAnswer": "なんてこった",
+      "explanation": "「Oy vay」は、イディッシュ語由来の表現で、驚き、落胆、不満などを表す感嘆詞です。英語圏でもユダヤ系の人がよく使います。例文：Oy vay, what am I going to do? (ああ、どうしよう？)"
+    },
+    {
+      "id": 53,
+      "value": "components",
+      "options": [
+        "代替案",
+        "構成要素",
+        "偶然",
+        "合併"
+      ],
+      "correctAnswer": "構成要素",
+      "explanation": "「component」は、機械やシステムなどを構成する部品や要素のことです。例文：This television is made of many different components. (このテレビは様々な部品から作られています。)"
+    },
+    {
+      "id": 54,
+      "value": "out and about",
+      "options": [
+        "準備万端",
+        "外出して",
+        "準備運動",
+        "手放して"
+      ],
+      "correctAnswer": "外出して",
+      "explanation": "「out and about」は、「（病気や困難から回復して）外出している」「あちこち出歩いている」という意味です。例文：She's been out and about since her surgery. (彼女は手術後、外出しています。)"
+    },
+    {
+      "id": 55,
+      "value": "dig",
+      "options": [
+        "嫌う",
+        "理解する",
+        "掘る",
+        "気に入る"
+      ],
+      "correctAnswer": "気に入る",
+      "explanation": "「dig」は、スラングとして「気に入る」「理解する」という意味で使われます。例文：I really dig that new song. (あの新曲、すごく気に入ってるんだ。)"
+    },
+    {
+      "id": 56,
+      "value": "fanny pack",
+      "options": [
+        "リュックサック",
+        "ウエストポーチ",
+        "買い物袋",
+        "救急箱"
+      ],
+      "correctAnswer": "ウエストポーチ",
+      "explanation": "「fanny pack」は、ウエストポーチのことです。国や地域によっては別の意味を持つこともあります。例文：He always wears a fanny pack when he goes hiking. (彼はハイキングに行くとき、いつもウエストポーチを身に着けています。)"
+    },
+    {
+      "id": 57,
+      "value": "socioeconomic",
+      "options": [
+        "社会経済的な",
+        "地政学的な",
+        "文化的な",
+        "環境的な"
+      ],
+      "correctAnswer": "社会経済的な",
+      "explanation": "「socioeconomic」は、「社会経済的な」という意味です。社会と経済の両方の要因に関連することを指します。例文：Socioeconomic factors play a large role in determining a person's health. (社会経済的な要因は、人の健康を決定する上で大きな役割を果たします。)"
+    },
+    {
+      "id": 58,
+      "value": "reinforcement",
+      "options": [
+        "抵抗",
+        "補強",
+        "拒絶",
+        "弱体化"
+      ],
+      "correctAnswer": "補強",
+      "explanation": "「reinforcement」は、「強化」「補強」という意味です。心理学では、行動を強化するために用いられる刺激を指します。例文：Positive reinforcement is more effective than punishment. (肯定的な強化は、罰よりも効果的です。)"
+    },
+    {
+      "id": 59,
+      "value": "intrigued",
+      "options": [
+        "嫌悪感を抱く",
+        "当惑する",
+        "興味をそそられる",
+        "退屈する"
+      ],
+      "correctAnswer": "興味をそそられる",
+      "explanation": "「intrigued」は、「興味をそそられる」「好奇心を刺激される」という意味です。例文：I was intrigued by his mysterious past. (私は彼の謎めいた過去に興味をそそられました。)"
+    },
+    {
+      "id": 60,
+      "value": "incongruous",
+      "options": [
+        "調和のとれた",
+        "不適切な",
+        "本質的な",
+        "明白な"
+      ],
+      "correctAnswer": "不適切な",
+      "explanation": "「incongruous」は、「不調和な」「場違いな」という意味です。例文：His casual clothes were incongruous with the formal setting. (彼のカジュアルな服装は、フォーマルな場には不釣り合いでした。)"
+    },
+    {
+      "id": 61,
+      "value": "register",
+      "options": [
+        "登録",
+        "記録",
+        "声域",
+        "会計"
+      ],
+      "correctAnswer": "声域",
+      "explanation": "「register」は、ここでは「声域」「音域」という意味です。例文：She has a very wide vocal register. (彼女は非常に広い声域を持っています。)"
+    },
+    {
+      "id": 62,
+      "value": "deface",
+      "options": [
+        "飾る",
+        "修復する",
+        "汚す",
+        "保護する"
+      ],
+      "correctAnswer": "汚す",
+      "explanation": "「deface」は、「（表面を）汚す」「損傷する」という意味です。例文：The vandals defaced the statue with graffiti. (破壊者たちは落書きで像を汚しました。)"
+    },
+    {
+      "id": 63,
+      "value": "cheap sex",
+      "options": [
+        "安価な労働力",
+        "質の低い性行為",
+        "高価な宝石",
+        "無料の食事"
+      ],
+      "correctAnswer": "質の低い性行為",
+      "explanation": "「cheap sex」は、ここでは「安易な性行為」「質の低い性行為」という意味で使われています。軽蔑的なニュアンスを含みます。"
+    },
+    {
+      "id": 64,
+      "value": "What are you going to get?",
+      "options": [
+        "何を買うの？",
+        "何を理解するの？",
+        "何を注文するの？",
+        "何を入れるの？"
+      ],
+      "correctAnswer": "何を入れるの？",
+      "explanation": "「What are you going to get?」はここではタトゥーを入れることに対して、どんな絵柄を入れるのか聞いています。"
+    },
+    {
+      "id": 65,
+      "value": "waitressing",
+      "options": [
+        "待つこと",
+        "ウェイトレスの仕事",
+        "手伝うこと",
+        "給仕の仕事"
+      ],
+      "correctAnswer": "ウェイトレスの仕事",
+      "explanation": "「waitressing」は、「ウェイトレスの仕事」という意味です。レストランなどで料理や飲み物を運ぶ仕事です。例文：She works as a waitress to pay for her college tuition. (彼女は大学の授業料を払うためにウェイトレスとして働いています。)"
+    },
+    {
+      "id": 66,
+      "value": "get it done",
+      "options": [
+        "終わらせる",
+        "理解する",
+        "手に入れる",
+        "始める"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「get it done」は、「終わらせる」「完了する」という意味です。例文：I need to get this project done by Friday. (金曜日までにこのプロジェクトを終わらせる必要があります。)"
+    },
+    {
+      "id": 67,
+      "value": "tissue damage",
+      "options": [
+        "組織損傷",
+        "書類紛失",
+        "時間浪費",
+        "精神的苦痛"
+      ],
+      "correctAnswer": "組織損傷",
+      "explanation": "「tissue damage」は、「組織損傷」という意味です。医学的な文脈で使われます。例文：The burn caused significant tissue damage. (その火傷は重大な組織損傷を引き起こしました。)"
+    },
+    {
+      "id": 68,
+      "value": "come again?",
+      "options": [
+        "もう一度言って",
+        "また来てね",
+        "どういたしまして",
+        "お元気ですか"
+      ],
+      "correctAnswer": "もう一度言って",
+      "explanation": "「come again?」は、「もう一度言ってください」という意味です。相手の言ったことが聞き取れなかったり、理解できなかったりする場合に使います。例文：I'm sorry, could you come again? (すみません、もう一度言ってください。)"
+    },
+    {
+      "id": 69,
+      "value": "take place",
+      "options": [
+        "席を取る",
+        "場所を譲る",
+        "起こる",
+        "隠れる"
+      ],
+      "correctAnswer": "起こる",
+      "explanation": "「take place」は、「起こる」「開催される」という意味です。例文：The meeting will take place next week. (会議は来週開催されます。)"
+    },
+    {
+      "id": 70,
+      "value": "dark sciences",
+      "options": [
+        "秘密の研究",
+        "夜に行われる科学",
+        "闇の科学",
+        "未知の科学"
+      ],
+      "correctAnswer": "闇の科学",
+      "explanation": "「dark sciences」は、ここでは比喩的に使われており、「天文学（夜に行われる）と宇宙ステーションの設計（宇宙という未知の領域）」を指して、面白おかしく言っています。"
+    },
+    {
+      "id": 71,
+      "value": "have some fun",
+      "options": [
+        "楽しむ",
+        "休憩する",
+        "真面目に考える",
+        "仕事をする"
+      ],
+      "correctAnswer": "楽しむ",
+      "explanation": "「have some fun」は、「楽しむ」という意味です。例文：Let's go out and have some fun tonight. (今夜は出かけて楽しもう。)"
+    },
+    {
+      "id": 72,
+      "value": "as I'm sure you know",
+      "options": [
+        "ご存知のように",
+        "私が知っている限り",
+        "あなたが信じているように",
+        "私が思うに"
+      ],
+      "correctAnswer": "ご存知のように",
+      "explanation": "「as I'm sure you know」は、「ご存知のように」という意味です。相手が知っているであろうことを前提として話すときに使います。例文：As I'm sure you know, the deadline is tomorrow. (ご存知のように、締め切りは明日です。)"
+    },
+    {
+      "id": 73,
+      "value": "build a better girlfriend",
+      "options": [
+        "より良いガールフレンドを作る",
+        "ガールフレンドを建設する",
+        "ガールフレンドを修理する",
+        "ガールフレンドを育てる"
+      ],
+      "correctAnswer": "より良いガールフレンドを作る",
+      "explanation": "「build a better girlfriend」は、ここでは比喩的に使われており、ガールフレンドの行動や性格を改善しようとすることを意味します。"
+    },
+    {
+      "id": 74,
+      "value": "orally",
+      "options": [
+        "口頭で",
+        "経口で",
+        "正直に",
+        "詳細に"
+      ],
+      "correctAnswer": "経口で",
+      "explanation": "「orally」は、「口頭で」「経口で」という意味です。ここでは「口で体温を測る」という意味になります。例文：The medicine should be taken orally. (その薬は経口で服用してください。)"
+    },
+    {
+      "id": 75,
+      "value": "between A and B",
+      "options": [
+        "AとBの間に",
+        "AまたはB",
+        "AとBと一緒に",
+        "AからBまで"
+      ],
+      "correctAnswer": "AとBの間に",
+      "explanation": "「between A and B」は、「AとBの間に」「AとBのどちらかを選ぶ」という意味です。例文：I can't decide between the red dress and the blue dress. (赤いドレスと青いドレスのどちらにするか決められません。)"
+    },
+    {
+      "id": 76,
+      "value": "Hi ho",
+      "options": [
+        "こんにちは",
+        "やあやあ",
+        "さようなら",
+        "おやすみ"
+      ],
+      "correctAnswer": "やあやあ",
+      "explanation": "Kermit the Frogの有名なフレーズで、陽気な挨拶として使われます。特に子供や親しみやすい相手に対して使われることが多いです。"
+    },
+    {
+      "id": 77,
+      "value": "with my luck",
+      "options": [
+        "私の運が良ければ",
+        "私の運が悪ければ",
+        "幸運にも",
+        "不運にも"
+      ],
+      "correctAnswer": "私の運が悪ければ",
+      "explanation": "皮肉を込めて、悪い結果が予想される状況で使われます。自分の運の悪さを嘆くニュアンスが含まれています。"
+    },
+    {
+      "id": 78,
+      "value": "What's the big deal?",
+      "options": [
+        "どうしたの？",
+        "何が問題なの？",
+        "素晴らしいね！",
+        "それは重要だ"
+      ],
+      "correctAnswer": "何が問題なの？",
+      "explanation": "大したことではない、気にすることはない、という意味合いで使われます。相手の反応が大げさだと感じたときに用いられます。"
+    },
+    {
+      "id": 79,
+      "value": "rip off",
+      "options": [
+        "貼り付ける",
+        "引き裂く",
+        "修理する",
+        "購入する"
+      ],
+      "correctAnswer": "引き裂く",
+      "explanation": "ここでは「剥ぎ取る」に近い意味ですが、「ぼったくる」「だます」という意味もあります。名詞としても使われ、「ぼったくり商品」となります。"
+    },
+    {
+      "id": 80,
+      "value": "fraud",
+      "options": [
+        "詐欺師",
+        "正直者",
+        "英雄",
+        "犠牲者"
+      ],
+      "correctAnswer": "詐欺師",
+      "explanation": "意図的に他人を欺く行為、またはそのような行為をする人を指します。法的な文脈でもよく使用される単語です。"
+    },
+    {
+      "id": 81,
+      "value": "summing up",
+      "options": [
+        "要約する",
+        "足し算する",
+        "無視する",
+        "分散する"
+      ],
+      "correctAnswer": "要約する",
+      "explanation": "話や議論の要点をまとめること。会議やプレゼンテーションの終わりに、重要なポイントを再確認するために行われます。"
+    },
+    {
+      "id": 82,
+      "value": "scamming",
+      "options": [
+        "応援する",
+        "議論する",
+        "詐欺をする",
+        "計画する"
+      ],
+      "correctAnswer": "詐欺をする",
+      "explanation": "人を騙してお金や価値のあるものを奪う行為。特に信用詐欺やインターネット詐欺などで使われることが多いです。"
+    },
+    {
+      "id": 83,
+      "value": "stumbled on to",
+      "options": [
+        "つまずく",
+        "偶然見つける",
+        "計画する",
+        "忘れる"
+      ],
+      "correctAnswer": "偶然見つける",
+      "explanation": "偶然に何かを発見したり、気づいたりすることを意味します。意図せずに新しい情報やアイデアを得る状況で使われます。"
+    },
+    {
+      "id": 84,
+      "value": "turn in",
+      "options": [
+        "提出する",
+        "寝る",
+        "回転する",
+        "参加する"
+      ],
+      "correctAnswer": "寝る",
+      "explanation": "特に夜に寝るためにベッドに入ることを意味します。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 85,
+      "value": "amorous",
+      "options": [
+        "友好的な",
+        "愛情深い",
+        "敵対的な",
+        "無関心な"
+      ],
+      "correctAnswer": "愛情深い",
+      "explanation": "性的な愛情や欲望を示すこと。ロマンチックな状況や関係を表す際に用いられます。"
+    },
+    {
+      "id": 86,
+      "value": "decibel level",
+      "options": [
+        "幸福度",
+        "騒音レベル",
+        "秘密レベル",
+        "重要度"
+      ],
+      "correctAnswer": "騒音レベル",
+      "explanation": "音の大きさを表す単位。ここでは、性的な行為に伴う音量を最小限に抑えるようにという意味で使われています。"
+    },
+    {
+      "id": 87,
+      "value": "modify behavior",
+      "options": [
+        "行動を修正する",
+        "行動を無視する",
+        "行動を隠す",
+        "行動を促進する"
+      ],
+      "correctAnswer": "行動を修正する",
+      "explanation": "特定の刺激や条件に応じて、行動を変化させること。心理学や行動科学でよく用いられる概念です。"
+    },
+    {
+      "id": 88,
+      "value": "olfactory sense",
+      "options": [
+        "触覚",
+        "味覚",
+        "嗅覚",
+        "視覚"
+      ],
+      "correctAnswer": "嗅覚",
+      "explanation": "匂いを感じる感覚のこと。食べ物の風味や環境の認識に重要な役割を果たします。"
+    },
+    {
+      "id": 89,
+      "value": "jasmine",
+      "options": [
+        "バラ",
+        "ジャスミン",
+        "ラベンダー",
+        "スミレ"
+      ],
+      "correctAnswer": "ジャスミン",
+      "explanation": "甘くエキゾチックな香りが特徴的な花。香水やアロマセラピーでよく使用されます。"
+    },
+    {
+      "id": 90,
+      "value": "honeysuckle",
+      "options": [
+        "アジサイ",
+        "スイカズラ",
+        "ヒマワリ",
+        "チューリップ"
+      ],
+      "correctAnswer": "スイカズラ",
+      "explanation": "甘い香りの花を咲かせる植物。蜜を吸うことができるため、子供たちに人気があります。"
+    },
+    {
+      "id": 91,
+      "value": "demonic",
+      "options": [
+        "天使のような",
+        "悪魔のような",
+        "人間のような",
+        "動物のような"
+      ],
+      "correctAnswer": "悪魔のような",
+      "explanation": "悪魔に関連する、または悪魔的な性質を持つこと。恐ろしい、邪悪なイメージを伴います。"
+    },
+    {
+      "id": 92,
+      "value": "hokey-pokey",
+      "options": [
+        "お菓子",
+        "ダンス",
+        "ゲーム",
+        "物語"
+      ],
+      "correctAnswer": "ダンス",
+      "explanation": "子供向けの簡単なダンス。特定の指示に従って体を動かす、パーティーなどで楽しまれる踊りです。"
+    },
+    {
+      "id": 93,
+      "value": "intimate area",
+      "options": [
+        "公共の場所",
+        "個人的な場所",
+        "危険な場所",
+        "秘密の場所"
+      ],
+      "correctAnswer": "個人的な場所",
+      "explanation": "ここでは「性的な場所」を婉曲的に表現しています。親密な関係にある人とのみ共有する場所という意味合いが含まれます。"
+    },
+    {
+      "id": 94,
+      "value": "bacterial infection",
+      "options": [
+        "ウイルス感染",
+        "細菌感染",
+        "真菌感染",
+        "寄生虫感染"
+      ],
+      "correctAnswer": "細菌感染",
+      "explanation": "細菌が体内に侵入し、増殖することで引き起こされる病気。傷口から感染することが多いです。"
+    },
+    {
+      "id": 95,
+      "value": "ménage",
+      "options": [
+        "食事",
+        "グループ",
+        "喧嘩",
+        "仕事"
+      ],
+      "correctAnswer": "グループ",
+      "explanation": "ここでは、複数人での性的な関係を指すスラングとして使われています。少しユーモラスなニュアンスが含まれます。"
+    },
+    {
+      "id": 96,
+      "value": "get lucky",
+      "options": [
+        "幸運を祈る",
+        "成功する",
+        "運が悪くなる",
+        "失敗する"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "ここでは、性的な意味合いで「うまくいけば、良いことがあるかも」というニュアンスが含まれています。カジュアルな会話でよく使われます。"
+    },
+    {
+      "id": 97,
+      "value": "bold honesty",
+      "options": [
+        "大胆な嘘",
+        "控えめな誠実さ",
+        "大胆な誠実さ",
+        "嘘と誠実さ"
+      ],
+      "correctAnswer": "大胆な誠実さ",
+      "explanation": "通常は隠すような真実を、勇気を持って率直に話すこと。相手に強い印象を与えることがあります。"
+    },
+    {
+      "id": 98,
+      "value": "care",
+      "options": [
+        "気にする",
+        "無視する",
+        "楽しむ",
+        "嫌う"
+      ],
+      "correctAnswer": "気にする",
+      "explanation": "ここでは、誰かが自分を気にかけてくれるかどうかを尋ねる文脈で使用されています。相手への関心や愛情を示す意味合いが含まれます。"
+    },
+    {
+      "id": 99,
+      "value": "thinking",
+      "options": [
+        "食べる",
+        "考える",
+        "眠る",
+        "運動する"
+      ],
+      "correctAnswer": "考える",
+      "explanation": "ここでは、何かを計画したり、アイデアを練ったりする意味で使用されています。未来の行動や可能性について考慮している状態を示します。"
+    },
+    {
+      "id": 100,
+      "value": "trust",
+      "options": [
+        "信じる",
+        "疑う",
+        "忘れる",
+        "知る"
+      ],
+      "correctAnswer": "信じる",
+      "explanation": "ここでは、相手の行動や判断を信頼するという意味で使用されています。安心感や期待感を伴う感情を表します。"
+    }
+  ]
+}
