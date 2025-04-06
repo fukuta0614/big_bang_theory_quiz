@@ -28,7 +28,7 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [userAnswers, setUserAnswers] = useState<string[]>([]);
-  const [showResult, setShowResult] = useState(false);
+  const [showResultModal, setShowResultModal] = useState(false); // Renamed for clarity
   const [scriptContext, setScriptContext] = useState<string>('');
 
   useEffect(() => {
@@ -145,7 +145,7 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
 
   const handleAnswerClick = (answer: string) => {
     setSelectedAnswer(answer);
-    setShowResult(true);
+    setShowResultModal(true); // Show the modal
     // Update userAnswers array with the selected answer
     setUserAnswers(prevAnswers => {
       const newAnswers = [...prevAnswers];
@@ -154,11 +154,47 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
     });
   };
 
-  const handleNextQuestionClick = () => {
+  // Renamed and repurposed for the modal's button
+  const handleModalCloseAndNext = () => {
+    setShowResultModal(false); // Close the modal
     setSelectedAnswer(null);
-    setShowResult(false);
-    setCurrentQuestionIndex(currentQuestionIndex + 1);
+    if (currentQuestionIndex < quizData.questions.length - 1) {
+      setCurrentQuestionIndex(currentQuestionIndex + 1);
+    } else {
+      // If it's the last question, save results and navigate home
+      if (review) {
+        // Remove correctly answered questions from local storage
+        const storedQuestions = localStorage.getItem('incorrectQuestions');
+        if (storedQuestions) {
+          let questions: QuestionData[] = JSON.parse(storedQuestions);
+          // Filter out correctly answered questions based on the latest userAnswers
+          questions = questions.filter((question, index) => {
+            // Ensure index is within bounds of userAnswers
+            return index < userAnswers.length && userAnswers[index] !== question.correctAnswer;
+          });
+          localStorage.setItem('incorrectQuestions', JSON.stringify(questions));
+        }
+      } else {
+        // Save incorrect questions to local storage, including season and episode
+        const incorrectQuestions = quizData ? quizData.questions
+          // Only consider questions that were actually answered AND were incorrect
+          .filter((question, index) => userAnswers[index] !== null && userAnswers[index] !== question.correctAnswer)
+          .map(q => ({ ...q, season, episode })) // Add season/episode
+          : [];
+        const storedQuestions = localStorage.getItem('incorrectQuestions');
+        const questions: QuestionData[] = storedQuestions ? JSON.parse(storedQuestions) : [];
+        // Add new incorrect questions, avoiding duplicates
+        incorrectQuestions.forEach(newQuestion => {
+          if (!questions.find(q => q.season === newQuestion.season && q.episode === newQuestion.episode && q.value === newQuestion.value)) {
+            questions.push(newQuestion);
+          }
+        });
+        localStorage.setItem('incorrectQuestions', JSON.stringify(questions));
+      }
+      onGoHome(); // Navigate home
+    }
   };
+
 
   return (
     <div className="quiz-container">
@@ -167,39 +203,36 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
         question={currentQuestion.value}
         options={currentQuestion.options}
         onAnswerClick={handleAnswerClick}
-        showResult={showResult}
+        showResult={showResultModal} // Pass the modal visibility state to disable buttons
         scriptContext={scriptContext}
       />
-      {showResult && (
-        <div className="result-container">
-          {selectedAnswer === currentQuestion.correctAnswer ? (
-            <>
-              <p className="correct-answer">正解！</p>
-              <p className="scriptContext">
-                {currentQuestion.explanation}
-              </p>
-            </>
-          ) : (
-            <>
-              <p className="incorrect-answer">不正解！</p>
-              <p className="scriptContext">
-                {currentQuestion.explanation}
-              </p>
-            </>
-          )}
+
+      {/* Modal for displaying the result */}
+      {showResultModal && (
+        <div className="modal-overlay">
+          <div className="modal-content">
+            {selectedAnswer === currentQuestion.correctAnswer ? (
+              <>
+                <h3 className="correct-answer">正解！</h3>
+                <p className="explanation">{currentQuestion.explanation}</p>
+              </>
+            ) : (
+              <>
+                <h3 className="incorrect-answer">不正解！</h3>
+                <p className="explanation">{currentQuestion.explanation}</p>
+              </>
+            )}
+            <button onClick={handleModalCloseAndNext} className="modal-button">
+              {currentQuestionIndex < quizData.questions.length - 1 ? '次の問題へ' : '結果を保存してHomeへ'}
+            </button>
+          </div>
         </div>
       )}
-      {currentQuestionIndex < quizData.questions.length - 1 ? (
-        <button
-          className="next-question-button"
-          onClick={handleNextQuestionClick}
-        >
-          次の問題
-        </button>
-      ) : (
-        <p className="quiz-finished">クイズは終了しました。</p>
-      )}
-      <button onClick={() => {
+
+      {/* Removed the original next button and quiz finished message */}
+      {/* The logic is now handled by the modal button and the Home button */}
+
+      <button className="home-button" onClick={() => {
         if (review) {
           // Remove correctly answered questions from local storage
           const storedQuestions = localStorage.getItem('incorrectQuestions');
