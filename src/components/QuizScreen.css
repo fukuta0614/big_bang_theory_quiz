@@ -120,45 +120,10 @@
   margin-top: 15px; /* Add some space above */
 }
 
-
-/* --- Modal Styles --- */
-.modal-overlay {
-  position: fixed; /* Stay in place */
-  left: 0;
-  top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
-  display: flex; /* Use flexbox for centering */
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-  z-index: 1000; /* Sit on top */
+/* Highlight style for the script context */
+.highlight {
+  font-weight: bold;
 }
-
-.modal-content {
-  background-color: #fefefe;
-  margin: auto; /* Auto margins also help center */
-  padding: 20px;
-  border: 1px solid #888;
-  width: 80%; /* Could be more specific e.g., 500px */
-  max-width: 500px; /* Max width */
-  border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
-  text-align: center;
-}
-
-.modal-button {
-  padding: 10px 20px;
-  font-size: 1em;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  margin-top: 10px;
-}
-/* --- End Modal Styles --- */
 
 
 @media (max-width: 768px) {
@@ -199,6 +164,40 @@
   }
 
   .incorrect-answer {
+    font-size: 1em;
+  }
+
+  .explanation {
+    font-size: 0.9em;
+  }
+
+  .translation {
+    font-size: 0.8em;
+  }
+
+  /* Remove or comment out the old next button media query */
+  /*
+  .next-question-button {
+    padding: 6px 12px;
+    font-size: 0.9em;
+    width: 100%;
+  }
+  */
+
+  .quiz-finished {
+    font-size: 1em;
+  }
+
+  .home-button {
+    padding: 6px 12px;
+    font-size: 0.9em;
+    width: 100%;
+  }
+
+  .highlight { /* Adjust highlight for smaller screens if needed */
+    /* No specific changes needed currently */
+  }
+}
     font-size: 1em;
   }
 

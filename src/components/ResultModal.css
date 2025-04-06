@@ -1,0 +1,87 @@
+/* --- Modal Styles --- */
+.modal-overlay {
+  position: fixed; /* Stay in place */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  display: flex; /* Use flexbox for centering */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  z-index: 1000; /* Sit on top */
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: auto; /* Auto margins also help center */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more specific e.g., 500px */
+  max-width: 500px; /* Max width */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  text-align: center;
+}
+
+.modal-button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+/* Styles for text inside the modal */
+.correct-answer {
+  color: green;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
+
+.incorrect-answer {
+  color: red;
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
+
+.explanation {
+  font-size: 1em;
+  color: #333;
+  margin-bottom: 15px;
+  text-align: left;
+}
+/* --- End Modal Styles --- */
+
+
+/* --- Modal Media Query Adjustments --- */
+@media (max-width: 768px) {
+  .modal-content {
+    width: 90%; /* Use more width on smaller screens */
+    padding: 15px;
+  }
+
+  .modal-button {
+    padding: 8px 16px;
+    font-size: 0.9em;
+  }
+
+  .correct-answer {
+    font-size: 1em;
+  }
+
+  .incorrect-answer {
+    font-size: 1em;
+  }
+
+  .explanation {
+    font-size: 0.9em;
+  }
+}
+/* --- End Modal Media Query Adjustments --- */
