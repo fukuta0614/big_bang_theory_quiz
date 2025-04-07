@@ -15,6 +15,8 @@ interface QuestionData {
   options: string[];
   correctAnswer: string;
   explanation: string;
+  etymology: string;
+  pronounciation: string;
   season: string; // Add season
   episode: string; // Add episode
 }
@@ -205,6 +207,7 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
         onAnswerClick={handleAnswerClick}
         showResult={showResultModal} // Pass the modal visibility state to disable buttons
         scriptContext={scriptContext}
+        pronounciation={currentQuestion.pronounciation}
       />
 
       {/* Modal for displaying the result */}
@@ -215,11 +218,13 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
               <>
                 <h3 className="correct-answer">正解！</h3>
                 <p className="explanation">{currentQuestion.explanation}</p>
+                <p className="explanation">{currentQuestion.etymology}</p>
               </>
             ) : (
               <>
                 <h3 className="incorrect-answer">不正解！</h3>
                 <p className="explanation">{currentQuestion.explanation}</p>
+                <p className="explanation">{currentQuestion.etymology}</p>
               </>
             )}
             <button onClick={handleModalCloseAndNext} className="modal-button">

@@ -1,4 +1,5 @@
 import React from 'react';
+import './Question.css';
 
 interface QuestionProps {
   question: string;
@@ -6,6 +7,7 @@ interface QuestionProps {
   onAnswerClick: (answer: string) => void;
   showResult: boolean;
   scriptContext: string;
+  pronounciation?: string;
 }
 
 const Question: React.FC<QuestionProps> = ({
@@ -14,10 +16,12 @@ const Question: React.FC<QuestionProps> = ({
   onAnswerClick,
   showResult,
   scriptContext,
+  pronounciation,
 }) => {
   return (
     <div className="question-container">
       <h2>{question}</h2>
+      {pronounciation && <p className="pronunciation">{pronounciation}</p>}
       <p className="scriptContext" dangerouslySetInnerHTML={{ __html: scriptContext }} />
       <ul className="options-list">
         {options.map((option) => (
