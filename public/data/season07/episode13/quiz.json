@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "outrage",
+      "options": [
+        "喜び",
+        "憤慨",
+        "興味",
+        "悲しみ"
+      ],
+      "correctAnswer": "憤慨",
+      "explanation": "「outrage」は、不正や不当な行為に対する強い怒りや憤りを表します。社会的な不正や道徳に反する行為に対して使われることが多いです。名詞として使われ、動詞としては「to outrage」となります。\n\n例：The public was outraged by the politician's corruption. (政治家の汚職に国民は憤慨した。)"
+    },
+    {
+      "id": 2,
+      "value": "tirelessly",
+      "options": [
+        "怠惰に",
+        "精力的に",
+        "不注意に",
+        "無関心に"
+      ],
+      "correctAnswer": "精力的に",
+      "explanation": "「tirelessly」は、「疲れることなく、根気強く」という意味の副詞です。人が目標達成のために、休むことなく努力する様子を表します。しばしば、困難な状況や長期間にわたる努力を強調する際に用いられます。\n\n例：She worked tirelessly to support her family. (彼女は家族を支えるために精力的に働いた。)"
+    },
+    {
+      "id": 3,
+      "value": "diminish",
+      "options": [
+        "増加させる",
+        "減少させる",
+        "無視する",
+        "誇張する"
+      ],
+      "correctAnswer": "減少させる",
+      "explanation": "「diminish」は、物理的な量、重要性、影響力などを小さくする、減らすという意味です。抽象的な概念に対しても使用されます。\n\n例：The importance of the discovery should not be diminished. (その発見の重要性を軽視すべきではない。)"
+    },
+    {
+      "id": 4,
+      "value": "going nowhere",
+      "options": [
+        "成功している",
+        "停滞している",
+        "改善している",
+        "拡大している"
+      ],
+      "correctAnswer": "停滞している",
+      "explanation": "「going nowhere」は、「どこにも進んでいない、進展がない」という意味のイディオムです。キャリアや計画などが停滞し、成果が出ていない状況を表します。しばしば否定的な意味合いで使用されます。\n\n例：His career was going nowhere, so he decided to change jobs. (彼のキャリアは停滞していたので、転職を決意した。)"
+    },
+    {
+      "id": 5,
+      "value": "rash",
+      "options": [
+        "慎重な",
+        "軽率な",
+        "計画的な",
+        "合理的な"
+      ],
+      "correctAnswer": "軽率な",
+      "explanation": "「rash」は、考えなしに、または十分に考慮せずに何かをする、軽率な行動を指します。しばしば否定的な意味合いで使用され、後悔や悪い結果につながる可能性のある行動を指すことが多いです。\n\n例：Making rash decisions can lead to regrets. (軽率な決断は後悔につながることがある。)"
+    },
+    {
+      "id": 6,
+      "value": "breakthrough",
+      "options": [
+        "後退",
+        "進展",
+        "失敗",
+        "停滞"
+      ],
+      "correctAnswer": "進展",
+      "explanation": "「breakthrough」は、科学、技術、医学などの分野で、重要な進展や発見があった際に使われる言葉です。困難を乗り越えて新しい段階に進むことを意味します。\n\n例：Scientists have made a major breakthrough in cancer research. (科学者たちは、癌研究において大きな進展を遂げた。)"
+    },
+    {
+      "id": 7,
+      "value": "startle",
+      "options": [
+        "安心させる",
+        "驚かせる",
+        "退屈させる",
+        "喜ばせる"
+      ],
+      "correctAnswer": "驚かせる",
+      "explanation": "「startle」は、突然の音や動きで人を驚かせるという意味の動詞です。軽い驚きから、強い衝撃まで、様々な程度の驚きを表すことができます。\n\n例：The loud noise startled her. (その大きな音に彼女は驚いた。)"
+    },
+    {
+      "id": 8,
+      "value": "track it down",
+      "options": [
+        "無視する",
+        "見つけ出す",
+        "隠す",
+        "諦める"
+      ],
+      "correctAnswer": "見つけ出す",
+      "explanation": "「track down」は、探し求めていたものを見つけ出す、という意味の句動詞です。特に、見つけるのが難しいものや人を捜索して見つけ出す際に使われます。\n\n例：The detective managed to track down the suspect. (刑事は容疑者をなんとか見つけ出した。)"
+    },
+    {
+      "id": 9,
+      "value": "precedent",
+      "options": [
+        "結果",
+        "前例",
+        "原因",
+        "影響"
+      ],
+      "correctAnswer": "前例",
+      "explanation": "「precedent」は、過去の行動や決定が、将来の同様の状況における行動や決定の基準となる、という意味の名詞です。法的な文脈や、組織の方針など、様々な場面で使用されます。\n\n例：This decision sets a dangerous precedent. (この決定は危険な前例となる。)"
+    },
+    {
+      "id": 10,
+      "value": "hook you up with",
+      "options": [
+        "見捨てる",
+        "紹介する",
+        "邪魔する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "紹介する",
+      "explanation": "「hook someone up with something」は、人に何かを紹介する、提供する、または手配するという意味の口語的な表現です。しばしば、友人や知人に対して、便宜を図る際に用いられます。\n\n例：I can hook you up with tickets to the concert. (コンサートのチケットを手配できますよ。)"
+    },
+    {
+      "id": 11,
+      "value": "Occupation",
+      "options": [
+        "趣味",
+        "職業",
+        "休暇",
+        "占領"
+      ],
+      "correctAnswer": "職業",
+      "explanation": "「occupation」は、人が従事する職業や仕事という意味です。また、場所の占領という意味もあります。ここでは、Sheldonの仕事に関連する文脈で使用されています。\n\n例：What is your occupation? (あなたの職業は何ですか？)"
+    },
+    {
+      "id": 12,
+      "value": "recalibration",
+      "options": [
+        "再調整",
+        "混乱",
+        "破壊",
+        "創造"
+      ],
+      "correctAnswer": "再調整",
+      "explanation": "「recalibration」は、再調整や再校正という意味です。ここでは、Sheldonの大学での立場や状況が変わり、それに対する調整が必要であることを示唆しています。\n\n例：The instrument requires recalibration after extensive use. (その機器は広範な使用後、再調整が必要です。)"
+    },
+    {
+      "id": 13,
+      "value": "take it",
+      "options": [
+        "拒否する",
+        "受け入れる",
+        "無視する",
+        "後悔する"
+      ],
+      "correctAnswer": "受け入れる",
+      "explanation": "「take it」は、ここでは不満や不当な扱いを受け入れるという意味です。Sheldonが大学の決定に不満を感じている状況を表しています。\n\n例：Sometimes you just have to take it and move on. (時にはそれを受け入れて、先に進むしかない。)"
+    },
+    {
+      "id": 14,
+      "value": "let it go",
+      "options": [
+        "手放す",
+        "始める",
+        "続ける",
+        "守る"
+      ],
+      "correctAnswer": "手放す",
+      "explanation": "「let it go」は、過去の出来事や感情を手放して、気にしないようにするという意味です。ここでは、LeonardがSheldonに大学の決定を気にしないようにアドバイスしています。\n\n例：You need to let it go and focus on the future. (あなたはそれを手放して、未来に集中する必要があります。)"
+    },
+    {
+      "id": 15,
+      "value": "curl up with",
+      "options": [
+        "軽蔑する",
+        "丸まって〜とくつろぐ",
+        "非難する",
+        "無視する"
+      ],
+      "correctAnswer": "丸まって〜とくつろぐ",
+      "explanation": "「curl up with」は、丸まって快適な姿勢で何かをする、特に本を読むなどのリラックスした状態を表します。ここでは、Sheldonが本を読んでリラックスしようとしている様子を描写しています。\n\n例：I like to curl up with a good book on a rainy day. (雨の日には、良い本を読んで丸まってくつろぐのが好きです。)"
+    },
+    {
+      "id": 16,
+      "value": "break up",
+      "options": [
+        "仲直りする",
+        "解散する",
+        "協力する",
+        "設立する"
+      ],
+      "correctAnswer": "解散する",
+      "explanation": "「break up」は、関係を解消する、別れるという意味です。ここでは、PennyとLeonardの関係が危機に瀕している状況を表しています。\n\n例：They decided to break up after years of being together. (彼らは長年付き合った後、別れることを決意しました。)"
+    },
+    {
+      "id": 17,
+      "value": "mess",
+      "options": [
+        "綺麗",
+        "混乱",
+        "秩序",
+        "安心"
+      ],
+      "correctAnswer": "混乱",
+      "explanation": "「mess」は、混乱した状態や困難な状況を指します。ここでは、Pennyが自分のキャリアについて混乱していることを表しています。\n\n例：My life is a mess right now. (私の人生は今、混乱しています。)"
+    },
+    {
+      "id": 18,
+      "value": "energy",
+      "options": [
+        "無気力",
+        "エネルギー",
+        "退屈",
+        "疲労"
+      ],
+      "correctAnswer": "エネルギー",
+      "explanation": "「energy」は、活動や仕事をするための活力や能力という意味です。Pennyが演技の仕事に集中するために全てのエネルギーを注ぎ込むことを示しています。\n\n例：I need to focus my energy on this project. (このプロジェクトにエネルギーを集中させる必要があります。)"
+    },
+    {
+      "id": 19,
+      "value": "big step",
+      "options": [
+        "小さな一歩",
+        "大きな一歩",
+        "後退",
+        "変化なし"
+      ],
+      "correctAnswer": "大きな一歩",
+      "explanation": "「big step」は、重要な変化や進歩を意味します。Pennyがウェイトレスの仕事を辞めることが、彼女にとって大きな決断であることを表しています。\n\n例：Moving to a new city is a big step. (新しい都市に引っ越すことは大きな一歩です。)"
+    },
+    {
+      "id": 20,
+      "value": "pretty much",
+      "options": [
+        "ほとんど〜ない",
+        "ほとんど",
+        "全く〜ない",
+        "たまに"
+      ],
+      "correctAnswer": "ほとんど",
+      "explanation": "「pretty much」は、ほぼ、だいたい、という意味の口語的な表現です。完全ではないが、ほぼその状態であることを表します。\n\n例：I'm pretty much done with my homework. (宿題はほとんど終わった。)"
+    },
+    {
+      "id": 21,
+      "value": "ass kicked",
+      "options": [
+        "助けられた",
+        "打ち負かされた",
+        "無視された",
+        "尊敬された"
+      ],
+      "correctAnswer": "打ち負かされた",
+      "explanation": "「ass kicked」は、口語的で、ひどく打ち負かされる、負けるという意味です。ここでは、BatmanがBernadetteのコテによって打ち負かされたという冗談めかした状況を表しています。\n\n例：Our team got our asses kicked in the game. (私たちのチームは試合でボロ負けした。)"
+    },
+    {
+      "id": 22,
+      "value": "do what I can",
+      "options": [
+        "何もしない",
+        "できる限りのことをする",
+        "邪魔をする",
+        "諦める"
+      ],
+      "correctAnswer": "できる限りのことをする",
+      "explanation": "「do what I can」は、できる限りのことをするという意味です。StuartがBernadetteのためにコミックを探すために努力することを約束する際に使われています。\n\n例：I'll do what I can to help you with your problem. (あなたの問題を解決するために、できる限りのことをします。)"
+    },
+    {
+      "id": 23,
+      "value": "anxiety",
+      "options": [
+        "幸福",
+        "不安",
+        "興奮",
+        "満足"
+      ],
+      "correctAnswer": "不安",
+      "explanation": "「anxiety」は、心配や緊張、不安感という意味です。ここでは、Stuartが抱える可能性のある不安に対する薬の提供を示唆しています。\n\n例：He suffers from anxiety. (彼は不安症に苦しんでいる。)"
+    },
+    {
+      "id": 24,
+      "value": "antidepressants",
+      "options": [
+        "抗生物質",
+        "抗うつ薬",
+        "鎮痛剤",
+        "睡眠薬"
+      ],
+      "correctAnswer": "抗うつ薬",
+      "explanation": "「antidepressants」は、うつ病の治療に使用される薬です。StuartがBernadetteにコミックを見つけてもらう代わりに提供できるものとして言及されています。\n\n例：She is taking antidepressants to treat her depression. (彼女はうつ病の治療のために抗うつ薬を服用しています。)"
+    },
+    {
+      "id": 25,
+      "value": "to be over",
+      "options": [
+        "始まる",
+        "終わる",
+        "続く",
+        "変わらない"
+      ],
+      "correctAnswer": "終わる",
+      "explanation": "「to be over」は、何かが終わる、完了するという意味です。ここでは、Sheldonが休暇が終わるのを待っている状況を表しています。\n\n例：I can't wait for this day to be over. (今日が終わるのが待ちきれません。)"
+    },
+    {
+      "id": 26,
+      "value": "bitey",
+      "options": [
+        "友好的な",
+        "噛みつきやすい",
+        "おとなしい",
+        "臆病な"
+      ],
+      "correctAnswer": "噛みつきやすい",
+      "explanation": "「bitey」は、「bite（噛む）」に接尾辞「-y」がついた形容詞で、噛みつきやすい、攻撃的なという意味です。ここでは、ネズミの脳みそ（Mr. Rat Brain）が、他のネズミの仲間がいなくなって攻撃性がなくなったことを表現しています。"
+    },
+    {
+      "id": 27,
+      "value": "what brings you here?",
+      "options": [
+        "どうしたの？",
+        "どこに行くの？",
+        "何が欲しいの？",
+        "誰が来たの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What brings you here?」は、相手がなぜここに来たのかを尋ねる際に使う一般的な表現です。直訳すると「何があなたをここに連れてきたのか？」となり、理由や目的を尋ねる意味合いになります。"
+    },
+    {
+      "id": 28,
+      "value": "tourmalinated quartz",
+      "options": [
+        "トルマリン入り水晶",
+        "硫黄",
+        "石灰石",
+        "花崗岩"
+      ],
+      "correctAnswer": "トルマリン入り水晶",
+      "explanation": "「tourmalinated quartz」は、トルマリン（電気石）が内包された水晶のことです。トルマリンは、黒色や緑色などの様々な色があり、水晶の中で針状の結晶として見られることがあります。宝石や鉱物として価値があります。"
+    },
+    {
+      "id": 29,
+      "value": "have something in common",
+      "options": [
+        "共通点がある",
+        "秘密を知っている",
+        "敵意を抱いている",
+        "興味がない"
+      ],
+      "correctAnswer": "共通点がある",
+      "explanation": "「have something in common」は、2つ以上の物事や人に共通の性質、特徴、興味などがあることを意味するイディオムです。例えば、「They have a lot in common.（彼らは共通点が多い）」のように使います。"
+    },
+    {
+      "id": 30,
+      "value": "skip lunch",
+      "options": [
+        "昼食を抜く",
+        "昼食を食べる",
+        "昼食を作る",
+        "昼食を配達する"
+      ],
+      "correctAnswer": "昼食を抜く",
+      "explanation": "「skip lunch」は、昼食を予定していたにも関わらず、何らかの理由で昼食を取らないことを意味します。例えば、時間がない、食欲がない、ダイエット中などの理由で昼食を抜く場合に用いられます。"
+    },
+    {
+      "id": 31,
+      "value": "awkward",
+      "options": [
+        "堂々とした",
+        "不器用な",
+        "洗練された",
+        "大胆な"
+      ],
+      "correctAnswer": "不器用な",
+      "explanation": "「awkward」は、ぎこちない、不器用な、気まずいという意味を持つ形容詞です。人に対して使う場合は、社交性や身のこなしが不器用であることを指し、状況に対して使う場合は、気まずい、やりにくい状況であることを指します。"
+    },
+    {
+      "id": 32,
+      "value": "grow up",
+      "options": [
+        "成長する",
+        "落ち込む",
+        "ふざける",
+        "無視する"
+      ],
+      "correctAnswer": "成長する",
+      "explanation": "「grow up」は、文字通りには「成長する」という意味ですが、ここでは「いい加減にしろ」「大人になれ」というニュアンスで使われています。未熟な言動をする人に対して、諭すように使われます。"
+    },
+    {
+      "id": 33,
+      "value": "come up",
+      "options": [
+        "話題に出る",
+        "立ち上がる",
+        "降りてくる",
+        "解決する"
+      ],
+      "correctAnswer": "話題に出る",
+      "explanation": "「come up」は様々な意味を持つ句動詞ですが、ここでは「（話題などが）持ち上がる、出てくる」という意味で使われています。ある話題が会話の中で言及される、議論される状況を指します。例えば、「The issue didn't come up at the meeting.（その問題は会議で取り上げられなかった）」のように使います。"
+    },
+    {
+      "id": 34,
+      "value": "knock it off",
+      "options": [
+        "やめろ",
+        "頑張れ",
+        "続けろ",
+        "謝れ"
+      ],
+      "correctAnswer": "やめろ",
+      "explanation": "「knock it off」は、不快な行動や言動を止めるように相手に強く要求する際に使われる口語表現です。「やめろ」「いい加減にしろ」といった意味合いを持ち、相手に対して直接的な不満や怒りを伝える際に用いられます。"
+    },
+    {
+      "id": 35,
+      "value": "errand",
+      "options": [
+        "用事",
+        "運動",
+        "仕事",
+        "休憩"
+      ],
+      "correctAnswer": "用事",
+      "explanation": "「errand」は、ちょっとした用事、使い走り、おつかいという意味の名詞です。日常生活の中で、郵便局に行く、買い物をする、クリーニングを取りに行くなど、様々な用事を指します。"
+    },
+    {
+      "id": 36,
+      "value": "rip off",
+      "options": [
+        "ぼったくる",
+        "盗む",
+        "修理する",
+        "褒める"
+      ],
+      "correctAnswer": "ぼったくる",
+      "explanation": "「rip off」は、不当に高い価格を請求する、ぼったくるという意味の口語表現です。また、盗む、騙し取るという意味もあります。ここでは、店のオーナーがバーナデットを騙して高い値段で商品を売ることを心配している状況で使われています。"
+    },
+    {
+      "id": 37,
+      "value": "close up",
+      "options": [
+        "閉店する",
+        "開店する",
+        "掃除する",
+        "修理する"
+      ],
+      "correctAnswer": "閉店する",
+      "explanation": "「close up」は、店や事業などを一時的または永久に閉める、閉店するという意味です。ここでは、スチュアートが店を閉めてバーナデットに付き添うことで、店の営業を止めてしまうことを指しています。"
+    },
+    {
+      "id": 38,
+      "value": "take by storm",
+      "options": [
+        "〜を席巻する",
+        "〜を破壊する",
+        "〜を無視する",
+        "〜を支配する"
+      ],
+      "correctAnswer": "〜を席巻する",
+      "explanation": "「take by storm」は、何かを圧倒的な勢いで成功させる、征服するという意味のイディオムです。ここでは、レナードがペニーの女優としての成功を期待して、「ハリウッドを席巻しているか？」と冗談交じりに尋ねています。"
+    },
+    {
+      "id": 39,
+      "value": "plunge into debt",
+      "options": [
+        "借金に陥る",
+        "投資する",
+        "貯金する",
+        "成功する"
+      ],
+      "correctAnswer": "借金に陥る",
+      "explanation": "「plunge into debt」は、急激に借金に陥る、多額の借金を抱えるという意味の表現です。「plunge」は「突っ込む、陥る」という意味で、ここでは経済的な苦境に陥ることを表しています。"
+    },
+    {
+      "id": 40,
+      "value": "back up",
+      "options": [
+        "支援する",
+        "邪魔する",
+        "攻撃する",
+        "無視する"
+      ],
+      "correctAnswer": "支援する",
+      "explanation": "「back up」は、ここでは「支援する」「支持する」という意味で使われています。誰かを助ける、応援するという意味合いを持ちます。例えば、「My friends always back me up when I need help.（困ったときはいつも友達が私を助けてくれる）」のように使います。"
+    },
+    {
+      "id": 41,
+      "value": "on one's way",
+      "options": [
+        "途中で",
+        "家に",
+        "仕事中で",
+        "休暇中で"
+      ],
+      "correctAnswer": "途中で",
+      "explanation": "「on one's way」は、「～へ向かう途中で」という意味です。この文脈では、昼食に向かう途中で、エイミーに会いに来たことを表しています。"
+    },
+    {
+      "id": 42,
+      "value": "quartz",
+      "options": [
+        "水晶",
+        "サファイア",
+        "ルビー",
+        "エメラルド"
+      ],
+      "correctAnswer": "水晶",
+      "explanation": "「quartz」は、二酸化ケイ素からなる鉱物で、日本語では「水晶」と呼ばれます。透明または半透明で、様々な色合いのものがあります。宝石や装飾品、工業材料として広く利用されています。"
+    },
+    {
+      "id": 43,
+      "value": "available",
+      "options": [
+        "利用可能",
+        "忙しい",
+        "疲れた",
+        "退屈な"
+      ],
+      "correctAnswer": "利用可能",
+      "explanation": "「available」は、ここでは「（恋愛対象として）手が空いている、付き合える」という意味で使われています。エイミーがシェルドンと交際していることを知らないバートが、エイミーにアプローチできると思っている状況を表しています。"
+    },
+    {
+      "id": 44,
+      "value": "sign up for",
+      "options": [
+        "申し込む",
+        "諦める",
+        "反対する",
+        "忘れる"
+      ],
+      "correctAnswer": "申し込む",
+      "explanation": "「sign up for」は、講座やイベントなどに登録する、申し込むという意味の句動詞です。ここでは、ペニーが新しい演技クラスに申し込む予定であることを表しています。"
+    },
+    {
+      "id": 45,
+      "value": "jerk",
+      "options": [
+        "嫌なやつ",
+        "優しい人",
+        "面白い人",
+        "賢い人"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「jerk」は、不快な人物、嫌なやつ、馬鹿者という意味の口語表現です。他人に対して思いやりがなく、自己中心的で、不快な行動をする人を指します。"
+    },
+    {
+      "id": 46,
+      "value": "check up on",
+      "options": [
+        "確認する",
+        "無視する",
+        "手伝う",
+        "隠す"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check up on」は、人の状況や行動を確かめる、確認するという意味の句動詞です。ここでは、レナードがペニーの近況を気にかけつつも、干渉していると思われたくない気持ちを表しています。"
+    },
+    {
+      "id": 47,
+      "value": "support",
+      "options": [
+        "支持する",
+        "反対する",
+        "無視する",
+        "批判する"
+      ],
+      "correctAnswer": "支持する",
+      "explanation": "「support」は、ここでは「支持する」「応援する」という意味で使われています。誰かの意見や行動を肯定的に評価し、支援する姿勢を示す言葉です。"
+    },
+    {
+      "id": 48,
+      "value": "forgets how I said it",
+      "options": [
+        "言い方を忘れる",
+        "言い方を覚える",
+        "言い方を変える",
+        "言い方を無視する"
+      ],
+      "correctAnswer": "言い方を忘れる",
+      "explanation": "ここでは皮肉交じりで「(ペニーを)応援すると言った言い方を忘れないうちに」という意味合いです.レナードがペニーを応援する言葉は本心ではなく、取り繕ったものだと匂わせています"
+    },
+    {
+      "id": 49,
+      "value": "literally insane",
+      "options": [
+        "文字通り狂っている",
+        "全く正常である",
+        "非常に賢い",
+        "ほとんど不可能"
+      ],
+      "correctAnswer": "文字通り狂っている",
+      "explanation": "「literally insane」は、「文字通り狂っている」という意味ですが、ここでは誇張表現として使われています。極めて非現実的または愚かな考えや行動を強調する際に用いられます。"
+    },
+    {
+      "id": 50,
+      "value": "uniform",
+      "options": [
+        "制服",
+        "体操服",
+        "普段着",
+        "喪服"
+      ],
+      "correctAnswer": "制服",
+      "explanation": "「uniform」は、特定の集団や組織に所属する人が着用する制服、ユニフォームという意味です。ここでは、ペニーが以前働いていたチーズケーキ・ファクトリーの制服を指しています。"
+    },
+    {
+      "id": 51,
+      "value": "guided meditation",
+      "options": [
+        "誘導瞑想",
+        "自己暗示",
+        "精神統一",
+        "座禅"
+      ],
+      "correctAnswer": "誘導瞑想",
+      "explanation": "「guided meditation」は、音声ガイダンスに従って行う瞑想のことです。リラックス効果を高め、集中力を養うために用いられます。瞑想の経験がない人でも取り組みやすいのが特徴です。音声ガイダンスが、イメージを促したり、呼吸法を指示したりします。"
+    },
+    {
+      "id": 52,
+      "value": "super collider",
+      "options": [
+        "超伝導体",
+        "超新星",
+        "超巨大衝突加速器",
+        "超高層ビル"
+      ],
+      "correctAnswer": "超巨大衝突加速器",
+      "explanation": "「super collider」は、非常に高いエネルギーで粒子を衝突させる実験装置のことです。素粒子物理学の研究に用いられ、物質の根源的な構造や宇宙の初期状態を解明するのに役立ちます。CERN（欧州原子核研究機構）のものが有名です。"
+    },
+    {
+      "id": 53,
+      "value": "fitting swan song",
+      "options": [
+        "ふさわしい引退公演",
+        "最後のチャンス",
+        "劇的な復活",
+        "予想外の成功"
+      ],
+      "correctAnswer": "ふさわしい引退公演",
+      "explanation": "「swan song」は、白鳥が死ぬ間際に美しい歌を歌うという伝説に由来し、人生やキャリアの最後の作品、業績、またはパフォーマンスを指します。「fitting swan song」は、それがその状況にふさわしい、または適切であることを強調します。例えば、長年のキャリアを終える人が、そのキャリアを象徴するような素晴らしい成果を上げる場合などに使われます。"
+    },
+    {
+      "id": 54,
+      "value": "pissed me off",
+      "options": [
+        "私を怒らせた",
+        "私を悲しませた",
+        "私を失望させた",
+        "私を混乱させた"
+      ],
+      "correctAnswer": "私を怒らせた",
+      "explanation": "「piss off」は、人を怒らせる、イライラさせるという意味のスラングです。直接的な表現なので、フォーマルな場では避けるべきです。「pissed off」は、その状態を表す形容詞としても使われます。"
+    },
+    {
+      "id": 55,
+      "value": "devote 100% of your time and energy to it",
+      "options": [
+        "時間とエネルギーの100%を捧げる",
+        "可能な限り努力する",
+        "適度に時間とエネルギーを費やす",
+        "他のことと並行して行う"
+      ],
+      "correctAnswer": "時間とエネルギーの100%を捧げる",
+      "explanation": "「devote」は、時間、エネルギー、リソースなどを特定の目的や活動に捧げる、費やすという意味です。「devote 100% of your time and energy to it」は、目標達成のために全力を尽くすことを強調する表現です。"
+    },
+    {
+      "id": 56,
+      "value": "chalk monitor",
+      "options": [
+        "チョーク係",
+        "黒板係",
+        "清掃係",
+        "風紀委員"
+      ],
+      "correctAnswer": "チョーク係",
+      "explanation": "「chalk monitor」は、学校などでチョークの管理や補充を行う係のことです。ここでは、Sheldonが子供の頃に先生から推薦された役割として、皮肉的に使われています。より重要な役割ではなく、些細な仕事であることを強調しています。"
+    },
+    {
+      "id": 57,
+      "value": "cracking the window",
+      "options": [
+        "窓を開ける",
+        "窓を割る",
+        "換気する",
+        "脱出する"
+      ],
+      "correctAnswer": "窓を開ける",
+      "explanation": "「crack the window」は、窓を少し開けるという意味です。ここでは、Sheldonの発言があまりに突飛であるため、新鮮な空気を入れないと耐えられないというPennyの気持ちを表しています。比喩的な表現です。"
+    },
+    {
+      "id": 58,
+      "value": "off-putting personality",
+      "options": [
+        "不快な性格",
+        "魅力的な性格",
+        "控えめな性格",
+        "個性的な性格"
+      ],
+      "correctAnswer": "不快な性格",
+      "explanation": "「off-putting」は、人を不快にさせる、嫌な気持ちにさせるという意味です。「off-putting personality」は、そのような性格を指します。Bert自身や、Sheldonのような人物を指して使われることが多いです。"
+    },
+    {
+      "id": 59,
+      "value": "used to it",
+      "options": [
+        "慣れている",
+        "飽きている",
+        "忘れている",
+        "恐れている"
+      ],
+      "correctAnswer": "慣れている",
+      "explanation": "「used to it」は、ある状況や状態に慣れている、順応しているという意味です。ここでは、Bertが自分の容姿や性格が原因で他人から避けられることに慣れていると述べています。ネガティブな状況に対する諦めや自嘲が含まれることがあります。"
+    },
+    {
+      "id": 60,
+      "value": "monster",
+      "options": [
+        "怪物",
+        "英雄",
+        "天才",
+        "変人"
+      ],
+      "correctAnswer": "怪物",
+      "explanation": "「monster」は、一般的には怪物や恐ろしい生き物を指しますが、ここではBertが自虐的に自分の容姿や性格を卑下する際に用いています。自己嫌悪や孤独感を表現するために使われることがあります。必ずしも文字通りの意味ではありません。"
+    },
+    {
+      "id": 61,
+      "value": "Haven’t seen this many people",
+      "options": [
+        "こんなに多くの人を見たことがない",
+        "いつも人が多い",
+        "人が全然いない",
+        "昔は人が多かった"
+      ],
+      "correctAnswer": "こんなに多くの人を見たことがない",
+      "explanation": "「Haven’t seen this many people」は、これほど多くの人を見たことがないという意味です。ここでは、Stuartの店に普段は人が少ないことを強調するために使われています。皮肉やユーモアを込めて使われることが多いです。"
+    },
+    {
+      "id": 62,
+      "value": "Korean church bus crashed through my front window",
+      "options": [
+        "韓国の教会バスが店の窓に突っ込んだ",
+        "韓国の教会が店の近くにある",
+        "韓国人客が多い",
+        "バスの窓に教会の絵が描かれている"
+      ],
+      "correctAnswer": "韓国の教会バスが店の窓に突っ込んだ",
+      "explanation": "これは非常に具体的な状況を表しており、Stuartの店に人が集まった理由が異常な出来事であったことを強調しています。ブラックユーモアの要素が含まれており、彼の店の経営状況の悪さを際立たせています。"
+    },
+    {
+      "id": 63,
+      "value": "soup kitchen",
+      "options": [
+        "スープ専門店",
+        "無料の食堂",
+        "高級レストラン",
+        "料理教室"
+      ],
+      "correctAnswer": "無料の食堂",
+      "explanation": "「soup kitchen」は、貧しい人やホームレスの人に無料で食事を提供する施設のことです。経済的に困窮している人々を支援する目的で運営されています。ここでは、JesseがStuartをからかうために使用しています。"
+    },
+    {
+      "id": 64,
+      "value": "pink complexion that comes with good nutrition",
+      "options": [
+        "栄養の良いピンク色の肌",
+        "健康的な生活",
+        "不健康な生活",
+        "日焼けした肌"
+      ],
+      "correctAnswer": "栄養の良いピンク色の肌",
+      "explanation": "「pink complexion that comes with good nutrition」は、栄養状態が良いことによって得られる健康的な肌色を指します。ここでは、Jesseの健康的な外見を強調し、Stuartの不健康な様子と対比させることで、皮肉を込めています。"
+    },
+    {
+      "id": 65,
+      "value": "trade in a heartbeat",
+      "options": [
+        "すぐに交換する",
+        "じっくり考える",
+        "絶対に交換しない",
+        "秘密裏に取引する"
+      ],
+      "correctAnswer": "すぐに交換する",
+      "explanation": "「trade in a heartbeat」は、ためらうことなく、すぐに何かを交換したり手放したりすることを意味します。ここでは、Stuartが友情を何よりも大切に思っていることを強調するために、誇張表現として使われています。"
+    },
+    {
+      "id": 66,
+      "value": "uterus",
+      "options": [
+        "子宮",
+        "心臓",
+        "脳",
+        "胃"
+      ],
+      "correctAnswer": "子宮",
+      "explanation": "「uterus」は、子宮のことです。ここでは、RajがAmyとBertの関係をからかうために、不適切でユーモラスな表現として使用しています。生物学的な意味合いよりも、関係の進展に対する皮肉が込められています。"
+    },
+    {
+      "id": 67,
+      "value": "gigantic offspring",
+      "options": [
+        "巨大な子孫",
+        "素晴らしい成果",
+        "小さな子供",
+        "未知の生物"
+      ],
+      "correctAnswer": "巨大な子孫",
+      "explanation": "「gigantic offspring」は、文字通りには巨大な子孫という意味ですが、ここではBertの体格を考慮した上で、RajがAmyをからかうために使っている誇張表現です。ユーモラスな効果を狙っています。"
+    },
+    {
+      "id": 68,
+      "value": "mineral and rock show",
+      "options": [
+        "鉱物と岩石の展示会",
+        "音楽ライブ",
+        "料理コンテスト",
+        "映画祭"
+      ],
+      "correctAnswer": "鉱物と岩石の展示会",
+      "explanation": "「mineral and rock show」は、鉱物や岩石の展示、販売などが行われるイベントのことです。愛好家や研究者が集まります。一般的には地味なイメージがあり、このドラマではBertの趣味の地味さを強調するために使われています。"
+    },
+    {
+      "id": 69,
+      "value": "even without Bert",
+      "options": [
+        "バートがいなくても",
+        "バートがいれば",
+        "バートと一緒に",
+        "バートの代わりに"
+      ],
+      "correctAnswer": "バートがいなくても",
+      "explanation": "「even without Bert」は、Bertがいなくても、という意味です。ここでは、Howardが鉱物と岩石の展示会自体がつまらないものであるという意見を述べています。Bertの存在がさらに状況を悪化させるというニュアンスが含まれています。"
+    },
+    {
+      "id": 70,
+      "value": "I wouldn't be interested in him.",
+      "options": [
+        "彼に興味がない",
+        "彼を尊敬している",
+        "彼を軽蔑している",
+        "彼を恐れている"
+      ],
+      "correctAnswer": "彼に興味がない",
+      "explanation": "「I wouldn't be interested in him」は、彼に恋愛感情や関心がないという意味です。AmyがBertに対して、自分が彼に恋愛対象として興味がないことを伝えるために使おうとしている表現です。直接的な拒絶の言葉です。"
+    },
+    {
+      "id": 71,
+      "value": "He knows where the soup kitchen is.",
+      "options": [
+        "彼は炊き出しの場所を知っている",
+        "彼は料理が得意だ",
+        "彼はレストランの場所を知っている",
+        "彼は貧しい"
+      ],
+      "correctAnswer": "彼は炊き出しの場所を知っている",
+      "explanation": "これは皮肉な表現で、スチュアートが経済的に苦しい状況にあることを遠回しに示唆しています。炊き出し（soup kitchen）は貧しい人々が無料で食事を得られる場所であり、それについて知っているということは、彼がそのような場所を利用する必要があるかもしれないという含みがあります。"
+    },
+    {
+      "id": 72,
+      "value": "Treating my friend",
+      "options": [
+        "友達を扱う",
+        "友達を治療する",
+        "友達にご馳走する",
+        "友達を紹介する"
+      ],
+      "correctAnswer": "友達を扱う",
+      "explanation": "「Treating my friend」は友達をどのように扱うか、友達に対する態度や行動を指します。BernadetteはJesseがStuartに失礼な態度をとっていることを非難しており、友達への適切な扱い方について言及しています。"
+    },
+    {
+      "id": 73,
+      "value": "Successful business",
+      "options": [
+        "成功したビジネス",
+        "秘密のビジネス",
+        "家族経営のビジネス",
+        "失敗したビジネス"
+      ],
+      "correctAnswer": "成功したビジネス",
+      "explanation": "「Successful business」はビジネスが成功している状態を指します。JesseはStuartの店と比べて自分の店が成功していることを強調しています。"
+    },
+    {
+      "id": 74,
+      "value": "Haven't seen you in forever.",
+      "options": [
+        "永遠に会っていない",
+        "またすぐに会う",
+        "昨日会った",
+        "いつも会っている"
+      ],
+      "correctAnswer": "永遠に会っていない",
+      "explanation": "「Haven't seen you in forever」は、長い間会っていないことを意味する表現です。JesseがStuartに久しぶりに会った際に使っています。"
+    },
+    {
+      "id": 75,
+      "value": "Exactly the same color",
+      "options": [
+        "全く同じ色",
+        "少し違う色",
+        "とても明るい色",
+        "とても暗い色"
+      ],
+      "correctAnswer": "全く同じ色",
+      "explanation": "「Exactly the same color」は、色が全く同じであることを意味します。Stuartが自分の髪の色が変わっていないと主張する際に使用しています。"
+    },
+    {
+      "id": 76,
+      "value": "no way",
+      "options": [
+        "承知しました",
+        "そのとおりです",
+        "まさか",
+        "どういたしまして"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "「no way」は、ありえない、まさか、信じられないという意味で使われる口語表現です。驚きや否定、拒絶の感情を表す際に用いられます。例文：No way! Did you really win the lottery?（まさか！本当に宝くじに当たったの？）"
+    },
+    {
+      "id": 77,
+      "value": "rough",
+      "options": [
+        "やさしい",
+        "きびしい",
+        "なめらか",
+        "かわいい"
+      ],
+      "correctAnswer": "きびしい",
+      "explanation": "「rough」は、ここでは「困難な、辛い」という意味で使われています。人の一日や状況が困難であることを表す形容詞です。例文：He's going through a rough patch. (彼は困難な時期を経験している。)"
+    },
+    {
+      "id": 78,
+      "value": "sit someone down",
+      "options": [
+        "落ち着いて座る",
+        "座って休む",
+        "じっくり話し合う",
+        "誰かを困らせる"
+      ],
+      "correctAnswer": "じっくり話し合う",
+      "explanation": "「sit someone down」は、誰かを座らせて真剣な話をする、という意味のイディオムです。重要な情報や厳しい内容を伝える前に、相手を落ち着かせるために使われます。例文：I need to sit you down and tell you something important. (君に座ってもらって、大事な話をしなければならない。)"
+    },
+    {
+      "id": 79,
+      "value": "brutally honest",
+      "options": [
+        "残酷な真実",
+        "正直な意見",
+        "率直な意見",
+        "丁寧な言葉"
+      ],
+      "correctAnswer": "率直な意見",
+      "explanation": "「brutally honest」は、非常に率直で、遠慮のない正直さを意味します。時には相手を傷つける可能性も含む、直接的な表現です。例文：I'm going to be brutally honest with you. (率直に言うよ。)"
+    },
+    {
+      "id": 80,
+      "value": "let someone down",
+      "options": [
+        "励ます",
+        "がっかりさせる",
+        "助ける",
+        "見捨てる"
+      ],
+      "correctAnswer": "がっかりさせる",
+      "explanation": "「let someone down」は、誰かを失望させる、期待を裏切るという意味のイディオムです。相手の期待に応えられなかった時に使われます。例文：I didn't want to let you down. (あなたをがっかりさせたくなかった。)"
+    },
+    {
+      "id": 81,
+      "value": "compassion",
+      "options": [
+        "同情",
+        "愛情",
+        "友情",
+        "尊敬"
+      ],
+      "correctAnswer": "同情",
+      "explanation": "「compassion」は、他人の苦しみに対する深い理解と同情心を表す名詞です。相手の気持ちを思いやる心、慈悲深さを意味します。例文：She showed great compassion for the victims. (彼女は犠牲者たちに深い同情を示した。)"
+    },
+    {
+      "id": 82,
+      "value": "mastery",
+      "options": [
+        "支配",
+        "熟達",
+        "模倣",
+        "混乱"
+      ],
+      "correctAnswer": "熟達",
+      "explanation": "「mastery」は、特定の技能や知識における高度な熟練、習熟を表す名詞です。完全に理解し、自在に操れる状態を指します。例文：He has a mastery of the English language. (彼は英語を完全にマスターしている。)"
+    },
+    {
+      "id": 83,
+      "value": "draw water",
+      "options": [
+        "水を引く",
+        "絵を描く",
+        "結論を出す",
+        "注目を集める"
+      ],
+      "correctAnswer": "水を引く",
+      "explanation": "ここでは、ヨガの達人が体内の器官を使って水を吸い上げるという比喩的な表現として使われています。「draw」は「引き寄せる」「吸い込む」という意味です。"
+    },
+    {
+      "id": 84,
+      "value": "brain freeze",
+      "options": [
+        "脳の活性化",
+        "精神的な疲労",
+        "頭痛",
+        "アイスクリーム頭痛"
+      ],
+      "correctAnswer": "アイスクリーム頭痛",
+      "explanation": "「brain freeze」は、冷たいものを急に食べたときに起こる、一時的な頭痛のことです。口語的な表現で、医学用語ではありません。例文：I got a brain freeze from eating ice cream too fast. (アイスクリームを急いで食べたせいで、アイスクリーム頭痛になった。)"
+    },
+    {
+      "id": 85,
+      "value": "Namaste",
+      "options": [
+        "こんにちは",
+        "ありがとう",
+        "さようなら",
+        "いただきます"
+      ],
+      "correctAnswer": "こんにちは",
+      "explanation": "「Namaste」は、インドやネパールで使われる挨拶の言葉で、「こんにちは」「さようなら」などの意味を持ちます。また、尊敬や感謝の気持ちを表す際にも用いられます。ヨガのレッスンでよく使われます。"
+    },
+    {
+      "id": 86,
+      "value": "what was with",
+      "options": [
+        "どうしたの",
+        "何があったの",
+        "どういう意味",
+        "何が問題なの"
+      ],
+      "correctAnswer": "どうしたの",
+      "explanation": "「What was with」は、「どうしたの？」「一体何だったの？」という意味で、特定の行動や状況に対する疑問や不快感を表現する際に使われます。例文：What was with that rude comment?（あの失礼なコメントは何だったの？）"
+    },
+    {
+      "id": 87,
+      "value": "permission",
+      "options": [
+        "許可",
+        "承諾",
+        "義務",
+        "命令"
+      ],
+      "correctAnswer": "許可",
+      "explanation": "「permission」は、何かをするための許可、承認を意味する名詞です。特に、正式な手続きや権限を持つ人からの許可を指すことが多いです。例文：You need permission to enter this area. (この区域に入るには許可が必要です。)"
+    },
+    {
+      "id": 88,
+      "value": "high time",
+      "options": [
+        "絶好の機会",
+        "楽しい時間",
+        "ずいぶん前",
+        "もう～すべき時"
+      ],
+      "correctAnswer": "もう～すべき時",
+      "explanation": "「high time」は、「もう～すべき時だ」という意味のイディオムです。何かをするのに最適な時期を過ぎているニュアンスを含みます。例文：It's high time we did something about it. (もうそれについて何かをすべき時だ。)"
+    },
+    {
+      "id": 89,
+      "value": "put all our cards on the table",
+      "options": [
+        "秘密にする",
+        "すべてを明らかにする",
+        "ゲームをする",
+        "整理整頓する"
+      ],
+      "correctAnswer": "すべてを明らかにする",
+      "explanation": "「put all our cards on the table」は、自分の考えや情報をすべて正直に打ち明けるという意味のイディオムです。隠し事をせずに、率直に話し合うことを意味します。例文：Let's put all our cards on the table and see what we can work out. (すべてを打ち明けて、何ができるか考えてみましょう。)"
+    },
+    {
+      "id": 90,
+      "value": "reckless",
+      "options": [
+        "注意深い",
+        "無謀な",
+        "慎重な",
+        "勇敢な"
+      ],
+      "correctAnswer": "無謀な",
+      "explanation": "「reckless」は、危険を顧みず、無謀な行動をする様子を表す形容詞です。注意不足や軽率さを含意します。例文：He was found guilty of reckless driving. (彼は無謀運転で有罪になった。)"
+    },
+    {
+      "id": 91,
+      "value": "no kidding",
+      "options": [
+        "冗談じゃない",
+        "その通り",
+        "まさか",
+        "どういたしまして"
+      ],
+      "correctAnswer": "その通り",
+      "explanation": "「no kidding」は、「冗談じゃない」「本気だよ」「その通り」という意味で、相手の発言に同意したり、自分の発言を強調したりする際に使われる口語表現です。例文：This is hard work, no kidding. (これは大変な仕事だよ、本当に。)"
+    },
+    {
+      "id": 92,
+      "value": "résumé",
+      "options": [
+        "休憩",
+        "履歴書",
+        "要約",
+        "結論"
+      ],
+      "correctAnswer": "履歴書",
+      "explanation": "「résumé」は、職務経歴書、履歴書を意味するフランス語由来の言葉です。学歴、職歴、スキルなどをまとめた書類のことです。主にアメリカ英語で使われます。（イギリス英語ではCV: Curriculum Vitae）"
+    },
+    {
+      "id": 93,
+      "value": "put up with",
+      "options": [
+        "我慢する",
+        "楽しむ",
+        "提案する",
+        "無視する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「put up with」は、不快な状況や嫌なことを我慢する、耐えるという意味のイディオムです。例文：I don't know how you put up with him. (どうしてあなたが彼のことを我慢できるのか分からない。)"
+    },
+    {
+      "id": 94,
+      "value": "on someone's side",
+      "options": [
+        "味方",
+        "敵",
+        "友人",
+        "家族"
+      ],
+      "correctAnswer": "味方",
+      "explanation": "「on someone's side」は、誰かの味方をする、誰かを支持するという意味のイディオムです。例文：I'm on your side, no matter what. (何があっても、私はあなたの味方です。)"
+    },
+    {
+      "id": 95,
+      "value": "reconciliation",
+      "options": [
+        "和解",
+        "対立",
+        "競争",
+        "別れ"
+      ],
+      "correctAnswer": "和解",
+      "explanation": "「reconciliation」は、仲たがいしていた関係が修復されること、和解を意味する名詞です。例文：The reconciliation between the two countries is a major step forward. (両国の和解は、大きな前進だ。)"
+    },
+    {
+      "id": 96,
+      "value": "a few more things",
+      "options": [
+        "いくつかの物",
+        "いくつかの考え",
+        "もう少し",
+        "たくさんのもの"
+      ],
+      "correctAnswer": "もう少し",
+      "explanation": "「a few more things」は、「もう少し何か」「あといくつか」という意味です。例文：I have a few more things to say. (もう少し言いたいことがあります。)"
+    },
+    {
+      "id": 97,
+      "value": "nicer",
+      "options": [
+        "より良い",
+        "より悪い",
+        "より大きい",
+        "より小さい"
+      ],
+      "correctAnswer": "より良い",
+      "explanation": "「nicer」は、「nice」の比較級で、「より良い」「より親切な」「より素敵な」という意味です。例文：He's a nicer person than you think. (彼はあなたが思っているよりも良い人です。)"
+    },
+    {
+      "id": 98,
+      "value": "no problem",
+      "options": [
+        "問題ない",
+        "問題だ",
+        "難しい",
+        "簡単だ"
+      ],
+      "correctAnswer": "問題ない",
+      "explanation": "「no problem」は、「問題ない」「どういたしまして」「大丈夫」という意味で、様々な状況で使われます。依頼や頼み事に対する返答、感謝の言葉への返答として用いられます。例文：\"Thank you for your help.\" \"No problem.\"(「助けてくれてありがとう」「どういたしまして」)"
+    },
+    {
+      "id": 99,
+      "value": "even better",
+      "options": [
+        "さらに良い",
+        "さらに悪い",
+        "同じくらい良い",
+        "それほど良くない"
+      ],
+      "correctAnswer": "さらに良い",
+      "explanation": "「even better」は、「さらに良い」「もっと良い」という意味です。期待以上の結果や提案に対して使われます。例文：If we can finish it today, even better. (もし今日中に終わらせることができれば、さらに良い。)"
+    },
+    {
+      "id": 100,
+      "value": "who needs someone",
+      "options": [
+        "誰が欲しいの",
+        "誰が必要なの",
+        "誰が気にするの",
+        "誰にも必要ない"
+      ],
+      "correctAnswer": "誰が必要なの",
+      "explanation": "「Who needs someone?」は、誰かがいなくても大丈夫だ、という意味合いで使われる表現です。しばしば皮肉や強がりのニュアンスを含みます。例文: Who needs friends when you have ice cream? (アイスクリームがあれば友達なんていらないさ。)"
+    }
+  ]
+}

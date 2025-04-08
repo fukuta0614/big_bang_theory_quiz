@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "primordial",
+      "options": [
+        "基本的な",
+        "原始の",
+        "主要な",
+        "最近の"
+      ],
+      "correctAnswer": "原始の",
+      "explanation": "「primordial」は、物事の起源や初期段階に関連するものを指します。宇宙論においては、宇宙が始まったばかりの非常に初期の状態を指すことがあります。ここでは、初期の重力波の発見について述べています。"
+    },
+    {
+      "id": 2,
+      "value": "breakthrough",
+      "options": [
+        "衰退",
+        "成功",
+        "妥協",
+        "飛躍的進歩"
+      ],
+      "correctAnswer": "飛躍的進歩",
+      "explanation": "「breakthrough」は、科学、医学、技術などの分野で、重要な進展や発見があった際に用いられます。障害を乗り越えて新たな段階に進むイメージです。例文：This discovery represents a major breakthrough in cancer research. (この発見は、癌研究における大きな飛躍的進歩を意味する。)"
+    },
+    {
+      "id": 3,
+      "value": "elitist",
+      "options": [
+        "平等主義者",
+        "大衆",
+        "エリート主義者",
+        "実用主義者"
+      ],
+      "correctAnswer": "エリート主義者",
+      "explanation": "「elitist」は、社会や集団の中で、自分たちが選ばれた特別な存在であると考え、特権的な地位を主張する人を指します。知識や才能、財産などに基づいて他人を見下すようなニュアンスがあります。例文：The club has an elitist atmosphere. (そのクラブはエリート主義的な雰囲気を持っている。)"
+    },
+    {
+      "id": 4,
+      "value": "the man on the street",
+      "options": [
+        "専門家",
+        "一般の人",
+        "政治家",
+        "科学者"
+      ],
+      "correctAnswer": "一般の人",
+      "explanation": "「the man on the street」は、専門知識を持たない一般の人々、特に平均的な考え方や関心を持つ人を指します。日常会話やニュースなどでよく使われる表現です。例文：The man on the street is more concerned about jobs than foreign policy. (一般の人々は、外交政策よりも雇用に関心を持っている。)"
+    },
+    {
+      "id": 5,
+      "value": "Joe six-pack",
+      "options": [
+        "労働者",
+        "知識人",
+        "エリート",
+        "怠け者"
+      ],
+      "correctAnswer": "労働者",
+      "explanation": "「Joe Six-pack」は、アメリカの典型的な労働者階級の男性を指すスラングです。ビールを飲むことを好む、平均的な趣味や関心を持つ人物として描かれます。例文：Politicians often try to appeal to Joe Six-pack. (政治家はしばしば、典型的な労働者層にアピールしようとする。)"
+    },
+    {
+      "id": 6,
+      "value": "have a lot on one's plate",
+      "options": [
+        "食事をする",
+        "皿を洗う",
+        "忙しい",
+        "退屈している"
+      ],
+      "correctAnswer": "忙しい",
+      "explanation": "「have a lot on one's plate」は、多くの仕事や責任を抱えて忙しい状態を表すイディオムです。文字通りには「皿の上にたくさんのものが載っている」という意味で、やることがたくさんある状況をイメージさせます。例文：I can't take on any more projects right now; I already have a lot on my plate. (今はこれ以上プロジェクトを引き受けられません。すでにたくさんの仕事を抱えています。)"
+    },
+    {
+      "id": 7,
+      "value": "eavesdropping",
+      "options": [
+        "議論",
+        "立ち聞き",
+        "応援",
+        "発表"
+      ],
+      "correctAnswer": "立ち聞き",
+      "explanation": "「eavesdropping」は、他人の会話をこっそり聞くことを意味します。許可なく秘密の情報を得ようとする行為であり、しばしば否定的なニュアンスを持ちます。例文：She was accused of eavesdropping on private conversations. (彼女は、個人的な会話を立ち聞きしたとして非難された。)"
+    },
+    {
+      "id": 8,
+      "value": "string pragmatist",
+      "options": [
+        "理想主義者",
+        "現実主義者",
+        "完璧主義者",
+        "理論家"
+      ],
+      "correctAnswer": "現実主義者",
+      "explanation": "文脈からすると「pragmatist」はここでは「実用主義者」という意味合いですが、ストリング理論の研究において、実際に証明可能かどうかよりも、研究資金を得るための手段として理論を利用する人を指しています。目的のためには手段を選ばない、ある意味で現実的な姿勢を表しています。"
+    },
+    {
+      "id": 9,
+      "value": "apply for grant money",
+      "options": [
+        "寄付する",
+        "申請する",
+        "浪費する",
+        "投資する"
+      ],
+      "correctAnswer": "申請する",
+      "explanation": "「apply for grant money」は、研究やプロジェクトのために、政府や財団などから資金援助を申請することを意味します。研究者は、研究計画を提出し、その価値や実現可能性を評価してもらう必要があります。例文：The university applied for grant money to fund its research project. (その大学は、研究プロジェクトのために資金援助を申請した。)"
+    },
+    {
+      "id": 10,
+      "value": "compactification",
+      "options": [
+        "拡大",
+        "縮小",
+        "分離",
+        "結合"
+      ],
+      "correctAnswer": "縮小",
+      "explanation": "「compactification」は、物理学、特に超弦理論において、高次元の空間を非常に小さく折り畳むことを指します。これにより、3次元の空間にしか気づかない理由を説明しようとします。専門的な用語です。"
+    },
+    {
+      "id": 11,
+      "value": "jibberjabber",
+      "options": [
+        "専門用語",
+        "おしゃべり",
+        "沈黙",
+        "真実"
+      ],
+      "correctAnswer": "おしゃべり",
+      "explanation": "「jibberjabber」は、意味のない、または理解しにくいおしゃべりや言葉を指す口語的な表現です。軽蔑的なニュアンスが含まれることがあります。例文：I couldn't understand a word of the jibberjabber they were spouting. (彼らが話している意味のないおしゃべりは、一言も理解できなかった。)"
+    },
+    {
+      "id": 12,
+      "value": "put your heart and soul into",
+      "options": [
+        "軽視する",
+        "全力を注ぐ",
+        "諦める",
+        "秘密にする"
+      ],
+      "correctAnswer": "全力を注ぐ",
+      "explanation": "「put your heart and soul into」は、何かに対して情熱とエネルギーを注ぎ込むことを意味するイディオムです。例文：She put her heart and soul into her work. (彼女は仕事に全力を注いだ。)"
+    },
+    {
+      "id": 13,
+      "value": "turn out the way you want",
+      "options": [
+        "成功する",
+        "終わらせる",
+        "期待通りになる",
+        "失敗する"
+      ],
+      "correctAnswer": "期待通りになる",
+      "explanation": "「turn out the way you want」は、物事が自分の望む結果になる、期待通りに進展することを意味します。例文：I hope everything turns out the way you want. (すべてがあなたの望む通りになることを願っています。)"
+    },
+    {
+      "id": 14,
+      "value": "break it off",
+      "options": [
+        "修理する",
+        "継続する",
+        "終わらせる",
+        "開始する"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「break it off」は、関係や繋がりを断ち切る、終わらせるという意味の句動詞です。恋愛関係や契約、習慣など、様々な状況で使用できます。例文：She decided to break it off with her boyfriend. (彼女は彼氏との関係を終わらせることに決めた。)"
+    },
+    {
+      "id": 15,
+      "value": "moving on",
+      "options": [
+        "前進する",
+        "停滞する",
+        "後退する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "前進する",
+      "explanation": "「moving on」は、過去の出来事や関係から立ち直り、新しい段階に進むことを意味します。例文：It's time to move on and forget about the past. (過去を忘れて、前に進む時だ。)"
+    },
+    {
+      "id": 16,
+      "value": "hit a bump",
+      "options": [
+        "加速する",
+        "順調に進む",
+        "問題に直面する",
+        "解決する"
+      ],
+      "correctAnswer": "問題に直面する",
+      "explanation": "「hit a bump」は、計画や進行が一時的に中断される、または問題に直面することを意味するイディオムです。文字通りには「でこぼこにぶつかる」という意味で、予期せぬ障害に遭遇する状況を表します。例文：The project hit a bump when the funding was delayed. (資金提供が遅れたため、プロジェクトは一時的に中断された。)"
+    },
+    {
+      "id": 17,
+      "value": "mixed feelings",
+      "options": [
+        "無関心",
+        "複雑な感情",
+        "明確な感情",
+        "友好的な感情"
+      ],
+      "correctAnswer": "複雑な感情",
+      "explanation": "「mixed feelings」は、ある事柄に対して肯定的な感情と否定的な感情が混ざり合っている状態を指します。例文：I have mixed feelings about leaving my job. (私は仕事を辞めることについて複雑な感情を抱いている。)"
+    },
+    {
+      "id": 18,
+      "value": "set someone off",
+      "options": [
+        "落ち着かせる",
+        "刺激する",
+        "無視する",
+        "助ける"
+      ],
+      "correctAnswer": "刺激する",
+      "explanation": "「set someone off」は、人を怒らせたり、感情的にさせたりする、または何かの行動を引き起こすという意味の句動詞です。例文：Don't mention his ex-wife; it'll set him off. (彼の元妻の話はしないで。彼を怒らせるから。)"
+    },
+    {
+      "id": 19,
+      "value": "focus all one's energies on",
+      "options": [
+        "分散させる",
+        "集中させる",
+        "浪費する",
+        "節約する"
+      ],
+      "correctAnswer": "集中させる",
+      "explanation": "「focus all one's energies on」は、自分のエネルギーや努力を特定の目標や活動に集中させることを意味します。例文：She decided to focus all her energies on finishing her dissertation. (彼女は論文を完成させるために全力を注ぐことに決めた。)"
+    },
+    {
+      "id": 20,
+      "value": "attitude",
+      "options": [
+        "才能",
+        "性格",
+        "外見",
+        "態度"
+      ],
+      "correctAnswer": "態度",
+      "explanation": "「attitude」は、人や物事に対する考え方や感じ方、またはそれに基づいて行動する傾向を指します。例文：He has a positive attitude toward life. (彼は人生に対して前向きな態度を持っている。)"
+    },
+    {
+      "id": 21,
+      "value": "essentially",
+      "options": [
+        "表面上は",
+        "本質的に",
+        "完全に",
+        "部分的に"
+      ],
+      "correctAnswer": "本質的に",
+      "explanation": "「essentially」は、物事の本質や最も重要な点について述べる際に用いられる副詞です。例文：The two products are essentially the same. (その2つの製品は本質的に同じである。)"
+    },
+    {
+      "id": 22,
+      "value": "Cosmopolitan magazine",
+      "options": [
+        "科学雑誌",
+        "経済雑誌",
+        "女性向け雑誌",
+        "男性向け雑誌"
+      ],
+      "correctAnswer": "女性向け雑誌",
+      "explanation": "「Cosmopolitan magazine」は、女性向けのライフスタイル、ファッション、美容、恋愛などを扱う雑誌です。一般的には大衆向けの情報を扱っていると認識されています。"
+    },
+    {
+      "id": 23,
+      "value": "effective techniques",
+      "options": [
+        "非効率な方法",
+        "効果的な方法",
+        "一般的な方法",
+        "特殊な方法"
+      ],
+      "correctAnswer": "効果的な方法",
+      "explanation": "「effective techniques」は、特定の目的を達成するために効果的な方法や手法を意味します。例文：There are several effective techniques for managing stress. (ストレスを管理するための効果的な方法がいくつかある。)"
+    },
+    {
+      "id": 24,
+      "value": "get rid of all reminders",
+      "options": [
+        "大切にする",
+        "隠す",
+        "捨てる",
+        "整理する"
+      ],
+      "correctAnswer": "捨てる",
+      "explanation": "「get rid of all reminders」は、思い出させるものをすべて処分することを意味します。例文：After the breakup, she decided to get rid of all reminders of her ex-boyfriend. (別れた後、彼女は元彼のことを思い出させるものをすべて処分することに決めた。)"
+    },
+    {
+      "id": 25,
+      "value": "golden age",
+      "options": [
+        "暗黒時代",
+        "黄金時代",
+        "鉄器時代",
+        "現代"
+      ],
+      "correctAnswer": "黄金時代",
+      "explanation": "「golden age」は、特定の分野や活動が繁栄し、優れた成果を上げた時代を指します。文化、芸術、科学などの分野で使われます。例文：We live in a golden age of television. (私たちはテレビの黄金時代に生きている。)"
+    },
+    {
+      "id": 26,
+      "value": "literally",
+      "options": [
+        "比喩的に",
+        "文字通りに",
+        "徐々に",
+        "曖昧に"
+      ],
+      "correctAnswer": "文字通りに",
+      "explanation": "「literally」は、本来「文字通り」という意味ですが、口語では強調の意味で使われることがあります。ただし、誤用とみなされる場合もあるため、注意が必要です。"
+    },
+    {
+      "id": 27,
+      "value": "get over",
+      "options": [
+        "乗り越える",
+        "無視する",
+        "こだわる",
+        "諦める"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get over」は、失恋や困難な状況から立ち直る、克服するという意味です。精神的な回復を指す場合によく使われます。\n\n例：It took her a long time to get over her ex-boyfriend. (彼女は元彼を乗り越えるのに長い時間がかかった。)"
+    },
+    {
+      "id": 28,
+      "value": "doodle",
+      "options": [
+        "落書き",
+        "名案",
+        "批判",
+        "計画"
+      ],
+      "correctAnswer": "落書き",
+      "explanation": "「doodle」は、特に目的もなく、無意識に描く落書きのことです。授業中や会議中など、集中力が途切れた時に描かれることが多いです。\n\n例：He was doodling in his notebook during the lecture. (彼は講義中にノートに落書きをしていた。)"
+    },
+    {
+      "id": 29,
+      "value": "basis",
+      "options": [
+        "基礎",
+        "結果",
+        "目標",
+        "障害"
+      ],
+      "correctAnswer": "基礎",
+      "explanation": "「basis」は、物事の基礎、根拠、土台となるものを指します。議論や理論、行動の基盤となる考え方や事実を意味することが多いです。\n\n例：The judge made his decision on the basis of the evidence presented. (裁判官は提示された証拠に基づいて判決を下した。)"
+    },
+    {
+      "id": 30,
+      "value": "seduced by",
+      "options": [
+        "魅了された",
+        "見捨てられた",
+        "混乱した",
+        "無視された"
+      ],
+      "correctAnswer": "魅了された",
+      "explanation": "「seduced by」は、魅力的なものに誘惑される、心を奪われるという意味です。比喩的に、魅力的なアイデアや提案に引き込まれる状況を表すことがあります。\n\n例：He was seduced by the promise of easy money. (彼は簡単な金儲けの誘惑にかられた。)"
+    },
+    {
+      "id": 31,
+      "value": "move on",
+      "options": [
+        "前進する",
+        "後退する",
+        "停滞する",
+        "忘れる"
+      ],
+      "correctAnswer": "前進する",
+      "explanation": "「move on」は、過去の出来事や状況から気持ちを切り替えて、新しい段階に進むという意味です。特に、失恋や失敗の後によく使われます。\n\n例：It's time to move on and find someone new. (もう前へ進んで、新しい誰かを見つける時だ。)"
+    },
+    {
+      "id": 32,
+      "value": "in return",
+      "options": [
+        "見返りに",
+        "代わりに",
+        "無駄に",
+        "秘密に"
+      ],
+      "correctAnswer": "見返りに",
+      "explanation": "「in return」は、何かを与えたり、何かをしたりしたことに対する見返り、報酬という意味です。互恵関係や交換条件を示す場合に使われます。\n\n例：I helped him with his homework, and in return, he did my laundry. (私は彼の宿題を手伝い、その見返りに彼は私の洗濯をしてくれた。)"
+    },
+    {
+      "id": 33,
+      "value": "go over",
+      "options": [
+        "見直す",
+        "無視する",
+        "隠す",
+        "提案する"
+      ],
+      "correctAnswer": "見直す",
+      "explanation": "「go over」は、詳細に検討する、見直すという意味です。会議やプレゼンテーションの前に内容を確認したり、問題を解決するために情報を精査したりする際に使われます。\n\n例：Let's go over the details of the contract before we sign it. (契約書に署名する前に、詳細を見直しましょう。)"
+    },
+    {
+      "id": 34,
+      "value": "ground rules",
+      "options": [
+        "基本ルール",
+        "秘密",
+        "誤解",
+        "新しい発見"
+      ],
+      "correctAnswer": "基本ルール",
+      "explanation": "「ground rules」は、基本的なルール、原則、または合意事項を指します。議論や活動を円滑に進めるために、事前に設定されることが多いです。\n\n例：Before we start the meeting, let's establish some ground rules. (会議を始める前に、いくつかの基本ルールを定めましょう。)"
+    },
+    {
+      "id": 35,
+      "value": "dishwasher safe",
+      "options": [
+        "食器洗い機対応",
+        "使用禁止",
+        "手洗い推奨",
+        "乾燥機対応"
+      ],
+      "correctAnswer": "食器洗い機対応",
+      "explanation": "「dishwasher safe」は、食器や調理器具などが食器洗い機で安全に洗えることを意味します。製品の取扱説明書や表示でよく見られます。"
+    },
+    {
+      "id": 36,
+      "value": "on one's best behaviour",
+      "options": [
+        "最高の行いをする",
+        "最悪の気分",
+        "普段通りにする",
+        "秘密にする"
+      ],
+      "correctAnswer": "最高の行いをする",
+      "explanation": "「on one's best behaviour」は、最大限に礼儀正しく、行儀良く振る舞うという意味です。特に、良い印象を与えたい場面や、相手に不快な思いをさせたくない場合に用いられます。\n\n例：I was on my best behaviour when I met her parents. (彼女の両親に会ったとき、私は最大限に礼儀正しく振る舞った。)"
+    },
+    {
+      "id": 37,
+      "value": "listen",
+      "options": [
+        "聞く",
+        "無視する",
+        "同意する",
+        "反論する"
+      ],
+      "correctAnswer": "聞く",
+      "explanation": "「listen」は、注意を払って音を聞く、人の話に耳を傾けるという意味です。相手の意見や感情を理解しようとする姿勢を含みます。\n\n例：You never listen to me! (あなたは全然私の話を聞かない！)"
+    },
+    {
+      "id": 38,
+      "value": "invested in",
+      "options": [
+        "投資している",
+        "反対している",
+        "無関心である",
+        "完了している"
+      ],
+      "correctAnswer": "投資している",
+      "explanation": "「invested in」は、時間、エネルギー、資源などを何かに費やす、投資するという意味です。金銭的な投資だけでなく、感情的な関与や努力も含まれます。\n\n例：She's heavily invested in her career. (彼女は仕事に深く打ち込んでいる。)"
+    },
+    {
+      "id": 39,
+      "value": "pursue",
+      "options": [
+        "追求する",
+        "諦める",
+        "避ける",
+        "隠す"
+      ],
+      "correctAnswer": "追求する",
+      "explanation": "「pursue」は、目標や夢を追いかける、追求するという意味です。努力や熱意をもって何かを達成しようとする姿勢を表します。\n\n例：She decided to pursue a career in medicine. (彼女は医学の道を追求することを決めた。)"
+    },
+    {
+      "id": 40,
+      "value": "feel bad",
+      "options": [
+        "悪く思う",
+        "喜ぶ",
+        "安心する",
+        "怒る"
+      ],
+      "correctAnswer": "悪く思う",
+      "explanation": "「feel bad」は、悪い気分になる、申し訳なく思う、同情するという意味です。相手の状況や自分の行動に対して、ネガティブな感情を抱くことを表します。\n\n例：I feel bad that I couldn't make it to your party. (あなたのパーティーに行けなくて申し訳なく思っています。)"
+    },
+    {
+      "id": 41,
+      "value": "I suppose",
+      "options": [
+        "思う",
+        "知らない",
+        "信じない",
+        "疑う"
+      ],
+      "correctAnswer": "思う",
+      "explanation": "「I suppose」は、推測や仮定を示す表現で、「〜だと思う」「〜かもしれない」という意味合いを持ちます。確信がない場合に用いられ、控えめな印象を与えます。\n\n例：I suppose it's possible that he's telling the truth. (彼が真実を話している可能性もあると思う。)"
+    },
+    {
+      "id": 42,
+      "value": "walking around",
+      "options": [
+        "歩き回る",
+        "立ち止まる",
+        "隠れる",
+        "逃げる"
+      ],
+      "correctAnswer": "歩き回る",
+      "explanation": "「walking around」は、特定の場所を歩き回る、散歩するという意味です。目的なく、またはリラックスして歩く様子を表します。\n\n例：I enjoy walking around the park in the morning. (朝に公園を歩き回るのが好きです。)"
+    },
+    {
+      "id": 43,
+      "value": "sex on a stick",
+      "options": [
+        "魅力的な人",
+        "危険な人",
+        "退屈な人",
+        "普通の人"
+      ],
+      "correctAnswer": "魅力的な人",
+      "explanation": "「sex on a stick」は、非常に魅力的な人を指すスラング表現です。外見的な魅力が際立っている様子を強調するために使われます。性的なニュアンスを含むため、使用する場面には注意が必要です。"
+    },
+    {
+      "id": 44,
+      "value": "blow it",
+      "options": [
+        "失敗する",
+        "成功する",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "失敗する",
+      "explanation": "「blow it」は、機会やチャンスを台無しにする、失敗するという意味です。努力が無駄になる、または期待を裏切る結果になることを表します。\n\n例：I had a great interview, but I blew it when they asked about my weaknesses. (面接は順調だったが、弱点について聞かれたときに失敗してしまった。)"
+    },
+    {
+      "id": 45,
+      "value": "odds are",
+      "options": [
+        "可能性が高い",
+        "可能性が低い",
+        "偶然である",
+        "秘密である"
+      ],
+      "correctAnswer": "可能性が高い",
+      "explanation": "「odds are」は、〜する可能性が高い、〜の見込みがあるという意味です。確率や予測を表す際に使われます。\n\n例：The odds are that it will rain tomorrow. (明日は雨が降る可能性が高い。)"
+    },
+    {
+      "id": 46,
+      "value": "crap",
+      "options": [
+        "くそ",
+        "素晴らしい",
+        "幸運",
+        "沈黙"
+      ],
+      "correctAnswer": "くそ",
+      "explanation": "「crap」は、くだらないこと、がらくた、または不快な状況を表す軽蔑的な言葉です。怒りや不満を表現する際に使われることがあります。\n\n例：This whole situation is crap! (この状況全体がくそだ！)"
+    },
+    {
+      "id": 47,
+      "value": "Whatever you hear",
+      "options": [
+        "何を聞いても",
+        "何も聞かないで",
+        "いつも通り",
+        "全て忘れて"
+      ],
+      "correctAnswer": "何を聞いても",
+      "explanation": "「Whatever you hear」は、これから何かを聞いたとしても、という意味合いで、後に続く言葉に対する注意や前置きとして使われます。予期せぬ情報や事態が起こることを示唆する場合があります。\n\n例：Whatever you hear tonight, just remember that I love you. (今夜何を聞いても、私があなたを愛していることを覚えておいてください。)"
+    },
+    {
+      "id": 48,
+      "value": "Nice to meet you",
+      "options": [
+        "はじめまして",
+        "さようなら",
+        "お元気で",
+        "また今度"
+      ],
+      "correctAnswer": "はじめまして",
+      "explanation": "「Nice to meet you」は、初対面の人に対して使う挨拶の言葉で、「はじめまして」という意味です。丁寧で友好的な印象を与えます。\n\n例：Nice to meet you, I'm John. (はじめまして、私はジョンです。)"
+    },
+    {
+      "id": 49,
+      "value": "Have we met before?",
+      "options": [
+        "以前会いましたか？",
+        "お久しぶりです",
+        "どちら様ですか",
+        "また会いましょう"
+      ],
+      "correctAnswer": "以前会いましたか？",
+      "explanation": "「Have we met before?」は、以前に会ったことがあるかどうかを尋ねる際に使う表現です。相手の顔に見覚えがある場合や、共通の知人がいる可能性がある場合などに使われます。\n\n例：You look familiar, have we met before? (見覚えがあるのですが、以前会いましたか？)"
+    },
+    {
+      "id": 50,
+      "value": "I don't think so",
+      "options": [
+        "そうは思いません",
+        "その通りです",
+        "知りません",
+        "多分そうです"
+      ],
+      "correctAnswer": "そうは思いません",
+      "explanation": "「I don't think so」は、相手の意見や提案に対して、否定的なニュアンスで答える際に使われます。遠回しな否定や、確信がない場合に使われることが多いです。\n\n例：Is it going to rain later? - I don't think so. (後で雨が降るかな？ - そうは思いません。)"
+    },
+    {
+      "id": 51,
+      "value": "field of inquiry",
+      "options": [
+        "研究分野",
+        "遊び場",
+        "実験室",
+        "食料品店"
+      ],
+      "correctAnswer": "研究分野",
+      "explanation": "「field of inquiry」は、調査や研究の対象となる分野、領域を指します。学問的な探求や調査研究を行う際に用いられる表現です。ある特定のテーマや問題について深く掘り下げていく活動を意味します。\n\n例：Her field of inquiry is the impact of social media on political campaigns. (彼女の研究分野は、ソーシャルメディアが政治キャンペーンに与える影響である。)"
+    },
+    {
+      "id": 52,
+      "value": "standard model physics",
+      "options": [
+        "標準模型物理学",
+        "量子力学",
+        "天体物理学",
+        "地質学"
+      ],
+      "correctAnswer": "標準模型物理学",
+      "explanation": "「Standard Model Physics」は、素粒子物理学における基本的な理論であり、物質の基本的な構成要素とそれらの間の相互作用を記述します。これは、現在知られている最も包括的な素粒子物理学の理論です。このモデルは、強い力、弱い力、電磁力という３つの基本的な力を扱い、クォーク、レプトン、ボソンといった素粒子の存在を予言し、実験的に検証されています。"
+    },
+    {
+      "id": 53,
+      "value": "give up",
+      "options": [
+        "あきらめる",
+        "続ける",
+        "始める",
+        "手に入れる"
+      ],
+      "correctAnswer": "あきらめる",
+      "explanation": "「give up」は、何かを放棄する、断念するという意味の句動詞です。努力や試みを停止する、または何かを手放す状況で使われます。目標や習慣、計画などをあきらめる際によく用いられます。\n\n例：Don't give up on your dreams. (夢をあきらめないで。)"
+    },
+    {
+      "id": 54,
+      "value": "string theory",
+      "options": [
+        "弦理論",
+        "相対性理論",
+        "量子論",
+        "熱力学"
+      ],
+      "correctAnswer": "弦理論",
+      "explanation": "「String Theory」は、物理学の理論の一つで、素粒子を点ではなく、非常に小さな1次元の「弦」として捉える考え方です。この理論は、重力を含む全ての基本的な力を統一的に説明することを試みています。高次元の空間の存在を仮定するなど、数学的に高度で複雑な概念を含んでいます。"
+    },
+    {
+      "id": 55,
+      "value": "nuclear matrix elements",
+      "options": [
+        "核行列要素",
+        "化学反応",
+        "細胞分裂",
+        "遺伝子配列"
+      ],
+      "correctAnswer": "核行列要素",
+      "explanation": "「Nuclear Matrix Elements」は、原子核物理学において、原子核内の粒子の相互作用を記述するために用いられる数学的な要素です。これらの要素は、原子核の構造や反応を理解するために不可欠であり、核物理学の研究において重要な役割を果たします。"
+    },
+    {
+      "id": 56,
+      "value": "take up a fad",
+      "options": [
+        "流行に乗る",
+        "休憩する",
+        "趣味を始める",
+        "仕事に就く"
+      ],
+      "correctAnswer": "流行に乗る",
+      "explanation": "「take up a fad」は、一時的な流行やブームに乗り出す、という意味です。ある時期に多くの人々が熱中するような活動や趣味などを始めることを指します。しばしば、その流行が一時的なものであるというニュアンスを含みます。\n\n例：He decided to take up the latest fitness fad, but lost interest after a week. (彼は最新のフィットネスの流行に乗り出したが、一週間後には興味を失った。)"
+    },
+    {
+      "id": 57,
+      "value": "tramp stamp",
+      "options": [
+        "腰のタトゥー",
+        "切手",
+        "スタンプカード",
+        "旅の思い出"
+      ],
+      "correctAnswer": "腰のタトゥー",
+      "explanation": "「Tramp Stamp」は、主に女性が腰に入れるタトゥーを指す、やや軽蔑的なスラングです。一般的には、腰の低い位置に入れる、デザイン性の高いタトゥーを指します。文化的な背景や個人の価値観によって、この言葉の受け止め方は異なります。"
+    },
+    {
+      "id": 58,
+      "value": "loop quantum gravity",
+      "options": [
+        "ループ量子重力理論",
+        "一般相対性理論",
+        "超弦理論",
+        "量子電磁力学"
+      ],
+      "correctAnswer": "ループ量子重力理論",
+      "explanation": "「Loop Quantum Gravity」は、量子力学と一般相対性理論を統合しようとする理論の一つです。空間と時間を離散的な構造として捉え、量子化された重力を説明しようと試みます。弦理論と並んで、現代物理学における重要な研究分野の一つです。"
+    },
+    {
+      "id": 59,
+      "value": "distraught",
+      "options": [
+        "取り乱して",
+        "落ち着いて",
+        "満足して",
+        "退屈して"
+      ],
+      "correctAnswer": "取り乱して",
+      "explanation": "「distraught」は、非常に動揺している、取り乱している、という意味の形容詞です。悲しみ、苦しみ、心配などが原因で精神的に混乱している状態を表します。深刻な状況や感情的な出来事の際に使われることが多いです。\n\n例：She was distraught after hearing the news. (彼女はその知らせを聞いて取り乱していた。)"
+    },
+    {
+      "id": 60,
+      "value": "rushing into",
+      "options": [
+        "急いで飛び込む",
+        "ゆっくり進む",
+        "計画的に進む",
+        "立ち止まる"
+      ],
+      "correctAnswer": "急いで飛び込む",
+      "explanation": "「rushing into」は、何かを急いで始める、または性急に行動するという意味の句動詞です。計画や準備が不十分なまま、急いで何かを始める状況を表します。しばしば、後で後悔するような結果を招く可能性があります。\n\n例：Don't rush into a decision you might regret later. (後で後悔するかもしれない決断を急いでするべきではありません。)"
+    },
+    {
+      "id": 61,
+      "value": "seek out",
+      "options": [
+        "探し求める",
+        "避ける",
+        "無視する",
+        "見つける"
+      ],
+      "correctAnswer": "探し求める",
+      "explanation": "「seek out」は、何かを積極的に探し求める、という意味の句動詞です。特に、努力や意図を持って何かを見つけようとする場合に用いられます。情報、アドバイス、機会、または物理的な物などを探し求める際に使われます。\n\n例：He decided to seek out a new job. (彼は新しい仕事を探し求めることにした。)"
+    },
+    {
+      "id": 62,
+      "value": "hit me over the head",
+      "options": [
+        "頭を殴る",
+        "突然理解する",
+        "無視する",
+        "助ける"
+      ],
+      "correctAnswer": "突然理解する",
+      "explanation": "「hit me over the head」は、文字通りには「頭を殴る」という意味ですが、比喩的には「突然理解する」「ハッと気づく」という意味で使われます。何かが非常に明白になったり、急に理解できたりする瞬間を表します。しばしば、それまで気づかなかったことに気づく際に用いられます。\n\n例：It suddenly hit me over the head that I had forgotten my keys. (鍵を忘れたことに突然気づいた。)"
+    },
+    {
+      "id": 63,
+      "value": "refrain from",
+      "options": [
+        "控える",
+        "参加する",
+        "楽しむ",
+        "強制する"
+      ],
+      "correctAnswer": "控える",
+      "explanation": "「refrain from」は、何かをすることを控える、自制するという意味の句動詞です。特に、習慣や欲求など、何かをしないように意識的に努力する場合に使われます。フォーマルな状況や、公共の場での行動について述べる際によく用いられます。\n\n例：Please refrain from smoking in this area. (このエリアでは喫煙をご遠慮ください。)"
+    },
+    {
+      "id": 64,
+      "value": "cerebral cortex",
+      "options": [
+        "大脳皮質",
+        "小脳",
+        "脳幹",
+        "脊髄"
+      ],
+      "correctAnswer": "大脳皮質",
+      "explanation": "「Cerebral Cortex」は、脳の大部分を占める、最も外側の層を指します。高度な認知機能、感覚、運動制御など、人間の脳の重要な機能を担っています。思考、記憶、言語などの処理が行われる場所であり、知的な活動に不可欠です。"
+    },
+    {
+      "id": 65,
+      "value": "twiddling its proverbial thumbs",
+      "options": [
+        "退屈している",
+        "忙しい",
+        "興奮している",
+        "集中している"
+      ],
+      "correctAnswer": "退屈している",
+      "explanation": "「twiddling one's thumbs」は、退屈して何もすることがない、時間を持て余しているという意味のイディオムです。「proverbial」は「ことわざにもあるように」という意味で、この表現がよく知られていることを強調しています。特に、待ち時間や暇な時間に何もすることがない状況を表します。\n\n例：I was just twiddling my thumbs waiting for the meeting to start. (会議が始まるのをただ退屈して待っていた。)"
+    },
+    {
+      "id": 66,
+      "value": "predigested",
+      "options": [
+        "前もって消化された",
+        "未消化の",
+        "新鮮な",
+        "加工された"
+      ],
+      "correctAnswer": "前もって消化された",
+      "explanation": "「Predigested」は、前もって消化された、という意味の形容詞です。食品や栄養素が、摂取される前に部分的に消化されている状態を指します。これは、消化器官に負担をかけずに栄養を吸収しやすくするために行われます。医療や栄養学の分野で用いられることがあります。"
+    },
+    {
+      "id": 67,
+      "value": "dermatology resident",
+      "options": [
+        "皮膚科研修医",
+        "内科医",
+        "外科医",
+        "小児科医"
+      ],
+      "correctAnswer": "皮膚科研修医",
+      "explanation": "「Dermatology Resident」は、皮膚科の研修医を指します。医師免許を取得後、皮膚科専門医になるための研修を受けている医師のことです。病院やクリニックで、指導医の監督のもとで患者の診療を行います。"
+    },
+    {
+      "id": 68,
+      "value": "set up on a blind date",
+      "options": [
+        "お見合い",
+        "デートの邪魔",
+        "デートの計画",
+        "デートのキャンセル"
+      ],
+      "correctAnswer": "お見合い",
+      "explanation": "「set up on a blind date」は、誰かに紹介されて会う、お見合い形式のデートを指します。通常、会うまで相手のことをほとんど知らない状況で行われます。友人や家族などが、二人の相性を考えてセッティングすることが多いです。\n\n例：My friend set me up on a blind date last week. (先週、友人が私をお見合いで紹介してくれた。)"
+    },
+    {
+      "id": 69,
+      "value": "snuck out",
+      "options": [
+        "こっそり抜け出した",
+        "堂々と出て行った",
+        "招待された",
+        "発見された"
+      ],
+      "correctAnswer": "こっそり抜け出した",
+      "explanation": "「snuck out」は、「sneak out」の過去形で、こっそり抜け出す、ひそかに逃げるという意味です。誰にも気づかれないように、静かに、または秘密裏に場所を離れることを指します。しばしば、許可を得ていない状況や、隠れて行動する必要がある状況で使われます。\n\n例：He snuck out of the party without saying goodbye. (彼は誰にもさよならを言わずにパーティーからこっそり抜け出した。)"
+    },
+    {
+      "id": 70,
+      "value": "security deposit",
+      "options": [
+        "敷金",
+        "給料",
+        "貯金",
+        "保険金"
+      ],
+      "correctAnswer": "敷金",
+      "explanation": "「Security Deposit」は、賃貸契約において、賃借人が賃貸人に預ける保証金のことです。家賃の滞納や、部屋の損傷などがあった場合に、その費用を補填するために使われます。契約終了時に、問題がなければ賃借人に返還されます。"
+    },
+    {
+      "id": 71,
+      "value": "unclog",
+      "options": [
+        "詰まりを取り除く",
+        "詰まらせる",
+        "掃除する",
+        "修理する"
+      ],
+      "correctAnswer": "詰まりを取り除く",
+      "explanation": "「Unclog」は、詰まりを取り除く、という意味の動詞です。パイプ、排水溝、トイレなど、何かが詰まって流れが悪くなっている状態を解消するために使われます。物理的に詰まりを取り除く行為を指します。\n\n例：I need to unclog the kitchen sink. (台所の流しの詰まりを取り除く必要があります。)"
+    },
+    {
+      "id": 72,
+      "value": "plunger",
+      "options": [
+        "ラバーカップ",
+        "ドライバー",
+        "ハンマー",
+        "レンチ"
+      ],
+      "correctAnswer": "ラバーカップ",
+      "explanation": "「Plunger」は、排水溝やトイレの詰まりを取り除くために使用する道具で、日本語では「ラバーカップ」または「すっぽん」と呼ばれます。ゴム製のカップと柄で構成されており、圧力をかけて詰まりを解消します。家庭でよく使用される道具の一つです。"
+    },
+    {
+      "id": 73,
+      "value": "have the opportunity",
+      "options": [
+        "機会がある",
+        "機会を逃す",
+        "機会を作る",
+        "機会を待つ"
+      ],
+      "correctAnswer": "機会がある",
+      "explanation": "「have the opportunity」は、何かをする機会がある、という意味の表現です。特定の行動や経験をするための好機が与えられている状況を表します。しばしば、その機会を利用できるかどうかは自分次第であるというニュアンスを含みます。\n\n例：I'm glad to have the opportunity to work with you. (あなたと一緒に働く機会があって嬉しいです。)"
+    },
+    {
+      "id": 74,
+      "value": "radioactive monster",
+      "options": [
+        "放射性怪物",
+        "人気者",
+        "ペット",
+        "スーパーヒーロー"
+      ],
+      "correctAnswer": "放射性怪物",
+      "explanation": "「Radioactive Monster」は、放射能の影響を受けた怪物、という意味です。フィクション作品でよく登場する表現で、放射能によって変異した巨大な生物や、恐ろしい力を持つ存在を指します。ゴジラなどのキャラクターが代表例です。"
+    },
+    {
+      "id": 75,
+      "value": "cotton candy",
+      "options": [
+        "綿菓子",
+        "チョコレート",
+        "アイスクリーム",
+        "ケーキ"
+      ],
+      "correctAnswer": "綿菓子",
+      "explanation": "「Cotton Candy」は、砂糖を糸状にして丸めたお菓子で、日本語では「綿菓子」と呼ばれます。祭りや遊園地などでよく売られており、子供に人気があります。軽くて甘い、ふわふわとした食感が特徴です。"
+    },
+    {
+      "id": 76,
+      "value": "freak out",
+      "options": [
+        "落ち着く",
+        "取り乱す",
+        "同意する",
+        "無視する"
+      ],
+      "correctAnswer": "取り乱す",
+      "explanation": "「freak out」は、非常に興奮したり、パニックになったり、取り乱したりすることを意味します。軽い驚きから、深刻な精神的混乱まで、幅広い感情を表すことができます。"
+    },
+    {
+      "id": 77,
+      "value": "specialize in",
+      "options": [
+        "軽視する",
+        "専門とする",
+        "反対する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "専門とする",
+      "explanation": "「specialize in」は、特定の分野や学問、職業などを専門とすることを意味します。ある分野に集中して深く研究したり、その分野で特別なスキルや知識を習得したりすることを指します。"
+    },
+    {
+      "id": 78,
+      "value": "kidding",
+      "options": [
+        "冗談を言っている",
+        "本気で言っている",
+        "批判している",
+        "同意している"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「kidding」は、「joke」と同様に冗談を言っているという意味ですが、より口語的でカジュアルな表現です。相手の発言を疑ったり、信じられない気持ちを伝えたりする際によく用いられます。"
+    },
+    {
+      "id": 79,
+      "value": "in retrospect",
+      "options": [
+        "詳細には",
+        "振り返ってみると",
+        "要約すると",
+        "根本的に"
+      ],
+      "correctAnswer": "振り返ってみると",
+      "explanation": "「in retrospect」は、後から考えると、今になって思えば、という意味を表すイディオムです。過去の出来事や行動を、現在の視点から振り返って評価する際に用いられます。しばしば、過去の判断や行動に対する後悔や反省の念が含まれます。"
+    },
+    {
+      "id": 80,
+      "value": "humiliating",
+      "options": [
+        "満足のいく",
+        "屈辱的な",
+        "刺激的な",
+        "喜ばしい"
+      ],
+      "correctAnswer": "屈辱的な",
+      "explanation": "「humiliating」は、人に恥をかかせたり、屈辱を与えたりするような状況や経験を表す形容詞です。自信を喪失させ、自尊心を傷つけるような状況を指します。"
+    },
+    {
+      "id": 81,
+      "value": "move on",
+      "options": [
+        "前進する",
+        "後退する",
+        "停滞する",
+        "無視する"
+      ],
+      "correctAnswer": "前進する",
+      "explanation": "「move on」は、文字通りには「先に進む」という意味ですが、比喩的には、過去の出来事や困難な状況から立ち直り、新たな段階に進むことを意味します。また、話題を変える際にも使われます。"
+    },
+    {
+      "id": 82,
+      "value": "all right",
+      "options": [
+        "絶好調",
+        "まあまあ",
+        "最悪",
+        "問題外"
+      ],
+      "correctAnswer": "まあまあ",
+      "explanation": "「all right」は、様々な意味を持つ表現ですが、ここでは「まあまあ」「悪くない」という意味で使われています。完全な満足ではないものの、許容範囲内であることを示すニュアンスです。"
+    },
+    {
+      "id": 83,
+      "value": "been there",
+      "options": [
+        "行ったことがない",
+        "経験済み",
+        "これから行く",
+        "興味がない"
+      ],
+      "correctAnswer": "経験済み",
+      "explanation": "「been there」は、「私も経験したことがある」「その気持ち、よくわかる」という意味合いで使われる口語的な表現です。相手の困難や苦労に対して共感や理解を示す際に用いられます。"
+    },
+    {
+      "id": 84,
+      "value": "apparently",
+      "options": [
+        "明らかに",
+        "どうやら",
+        "絶対に",
+        "偶然に"
+      ],
+      "correctAnswer": "どうやら",
+      "explanation": "「apparently」は、「どうやら〜らしい」「〜ということだ」という意味の副詞です。間接的な情報源に基づいた推測や伝聞を表す際に用いられます。確信度は低く、不確実なニュアンスを含みます。"
+    },
+    {
+      "id": 85,
+      "value": "pick up the phone",
+      "options": [
+        "電話を切る",
+        "電話に出る",
+        "電話をかける",
+        "電話を忘れる"
+      ],
+      "correctAnswer": "電話に出る",
+      "explanation": "「pick up the phone」は、電話を取る、電話に出るという意味の一般的な表現です。電話のベルが鳴って応答する行為を指します。"
+    },
+    {
+      "id": 86,
+      "value": "a bit of",
+      "options": [
+        "たくさん",
+        "少し",
+        "全くない",
+        "ほとんど"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「a bit of」は、「少しの」「いくらかの」という意味を表す数量詞です。程度や量を控えめに表現する際に用いられます。可算名詞にも不可算名詞にも使用できます。"
+    },
+    {
+      "id": 87,
+      "value": "turns out",
+      "options": [
+        "明らかになる",
+        "隠蔽される",
+        "重要である",
+        "無視される"
+      ],
+      "correctAnswer": "明らかになる",
+      "explanation": "「turns out」は、「結局〜になる」「〜ということがわかる」という意味の口語的な表現です。予想外の結果や、後になって判明した事実を述べる際に用いられます。"
+    },
+    {
+      "id": 88,
+      "value": "did a number on",
+      "options": [
+        "修理した",
+        "損害を与えた",
+        "改善した",
+        "無視した"
+      ],
+      "correctAnswer": "損害を与えた",
+      "explanation": "「do a number on」は、人や物に損害を与えたり、悪影響を及ぼしたりすることを意味する口語的なイディオムです。程度は様々で、軽いいたずらから深刻な被害まで幅広く用いられます。"
+    },
+    {
+      "id": 89,
+      "value": "assemble",
+      "options": [
+        "分解する",
+        "集める",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "集める",
+      "explanation": "「assemble」は、人々や物を集めたり、部品を組み立てたりすることを意味する動詞です。フォーマルな文脈で使われることが多く、計画的に何かを組織したり、作り上げたりするニュアンスがあります。"
+    },
+    {
+      "id": 90,
+      "value": "inscribed",
+      "options": [
+        "消去された",
+        "刻まれた",
+        "印刷された",
+        "忘れられた"
+      ],
+      "correctAnswer": "刻まれた",
+      "explanation": "「inscribe」は、文字や模様を刻む、彫るという意味の動詞です。石碑や金属板などに文字を刻み込むイメージで、永続的な記録を残すニュアンスがあります。"
+    },
+    {
+      "id": 91,
+      "value": "pass",
+      "options": [
+        "停止する",
+        "過ぎ去る",
+        "始まる",
+        "継続する"
+      ],
+      "correctAnswer": "過ぎ去る",
+      "explanation": "「pass」は、ここでは「過ぎ去る」「終わる」という意味で使われています。困難や苦痛な状況も一時的なものであり、いずれは終わるというメッセージを伝える際に用いられます。"
+    },
+    {
+      "id": 92,
+      "value": "classic",
+      "options": [
+        "斬新な",
+        "定番の",
+        "奇抜な",
+        "忘れられた"
+      ],
+      "correctAnswer": "定番の",
+      "explanation": "「classic」は、ここでは「典型的な」「お決まりの」という意味で使われています。誰もがやりそうな、あるあるな失敗や行動を指して、面白おかしく表現するニュアンスがあります。"
+    },
+    {
+      "id": 93,
+      "value": "whatever you say",
+      "options": [
+        "どういたしまして",
+        "おっしゃる通り",
+        "気にしないで",
+        "残念です"
+      ],
+      "correctAnswer": "おっしゃる通り",
+      "explanation": "「Whatever you say」は、相手の意見に同意するニュアンスが含まれていますが、皮肉っぽく「はいはい、わかりました」と聞き流すような意味合いで使われることもあります。"
+    },
+    {
+      "id": 94,
+      "value": "give up",
+      "options": [
+        "続ける",
+        "諦める",
+        "挑戦する",
+        "改善する"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「give up」は、「諦める」「断念する」という意味の句動詞です。努力を放棄したり、目標を達成することを諦めたりする際に用いられます。"
+    },
+    {
+      "id": 95,
+      "value": "solve crimes",
+      "options": [
+        "犯罪を犯す",
+        "犯罪を解決する",
+        "犯罪を隠蔽する",
+        "犯罪を無視する"
+      ],
+      "correctAnswer": "犯罪を解決する",
+      "explanation": "「solve crimes」は、犯罪事件を解決するという意味です。推理や捜査を通じて、犯人を特定し、事件の真相を解明する行為を指します。"
+    },
+    {
+      "id": 96,
+      "value": "geode",
+      "options": [
+        "化石",
+        "晶洞石",
+        "隕石",
+        "溶岩"
+      ],
+      "correctAnswer": "晶洞石",
+      "explanation": "「geode」は、晶洞石（しょうどうせき）と呼ばれる、内部に結晶が形成された岩石のことです。外見は普通の石に見えますが、中には美しい鉱物が詰まっていることがあります。"
+    },
+    {
+      "id": 97,
+      "value": "jackass",
+      "options": [
+        "天才",
+        "ばか者",
+        "英雄",
+        "友人"
+      ],
+      "correctAnswer": "ばか者",
+      "explanation": "「jackass」は、非常に不快な人、愚かな人、または無礼な人を指す侮辱的な言葉です。軽蔑や侮辱の意を込めて使われます。"
+    },
+    {
+      "id": 98,
+      "value": "totally",
+      "options": [
+        "部分的に",
+        "完全に",
+        "ほとんど",
+        "全く"
+      ],
+      "correctAnswer": "完全に",
+      "explanation": "「totally」は「完全に」「全く」という意味の副詞です。口語的な表現で、強調の意味合いで使われることが多いです。「absolutely」や「completely」とほぼ同義です。"
+    },
+    {
+      "id": 99,
+      "value": "voice mail",
+      "options": [
+        "伝言",
+        "手紙",
+        "メール",
+        "直接会うこと"
+      ],
+      "correctAnswer": "伝言",
+      "explanation": "「voice mail」は、電話の留守番電話機能のことです。相手が電話に出られない場合に、メッセージを録音して残すことができます。"
+    },
+    {
+      "id": 100,
+      "value": "sense of humour",
+      "options": [
+        "ユーモアのセンス",
+        "正義感",
+        "責任感",
+        "危機感"
+      ],
+      "correctAnswer": "ユーモアのセンス",
+      "explanation": "「sense of humour」は、ユーモアのセンス、面白いことを理解したり、作り出したりする能力のことです。人を笑わせたり、場を和ませたりする才能を指します。"
+    }
+  ]
+}

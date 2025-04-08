@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "zeroing out",
+      "options": [
+        "合計する",
+        "無視する",
+        "ゼロにする",
+        "減少させる"
+      ],
+      "correctAnswer": "ゼロにする",
+      "explanation": "「zero out」は、数値をゼロに設定する、または何かの影響や価値を無効にすることを意味します。実験や測定の文脈で、初期状態に戻す、基準点とするなどの目的で使用されます。\n例：Before starting the experiment, make sure to zero out the scale. (実験を始める前に、必ずスケールをゼロにしてください。)"
+    },
+    {
+      "id": 2,
+      "value": "nicely done",
+      "options": [
+        "残念",
+        "よくやった",
+        "もう一度",
+        "手伝って"
+      ],
+      "correctAnswer": "よくやった",
+      "explanation": "「Nicely done」は、「よくやった」「素晴らしい」という意味で、相手の行為や成果を褒める際に使われる一般的な表現です。\n例：You finished the project ahead of schedule? Nicely done! (プロジェクトを予定より早く終えたの？よくやった！)"
+    },
+    {
+      "id": 3,
+      "value": "know my way around",
+      "options": [
+        "道に迷う",
+        "経験豊富である",
+        "無視する",
+        "手伝う"
+      ],
+      "correctAnswer": "経験豊富である",
+      "explanation": "「know one's way around」は、「～に精通している」「～をよく知っている」という意味のイディオムです。物理的な場所だけでなく、抽象的な分野やシステムに対しても使えます。\n例：He really knows his way around computers. (彼は本当にコンピュータに詳しい。)"
+    },
+    {
+      "id": 4,
+      "value": "on the cutting edge",
+      "options": [
+        "安全な場所で",
+        "危機に瀕して",
+        "最先端で",
+        "過去の遺物"
+      ],
+      "correctAnswer": "最先端で",
+      "explanation": "「on the cutting edge」は、「最先端の」「最新の」という意味です。技術、研究、芸術など、様々な分野で革新的な進歩を遂げている状況を表します。\n例：This research is on the cutting edge of medical science. (この研究は医学の最先端にある。)"
+    },
+    {
+      "id": 5,
+      "value": "good to go",
+      "options": [
+        "準備完了",
+        "問題がある",
+        "停止する",
+        "休憩する"
+      ],
+      "correctAnswer": "準備完了",
+      "explanation": "「Good to go」は、「準備完了」「準備万端」という意味で、何かが開始できる状態にあることを示します。承認や許可が得られた状況でも使われます。\n例：We have all the documents, so we're good to go. (必要な書類はすべて揃っているので、準備万端です。)"
+    },
+    {
+      "id": 6,
+      "value": "shame on you",
+      "options": [
+        "おめでとう",
+        "残念",
+        "よくやった",
+        "恥を知れ"
+      ],
+      "correctAnswer": "恥を知れ",
+      "explanation": "「Shame on you」は、「恥を知れ」「情けない」という意味で、相手の行動や言動を非難する際に使われる表現です。軽い冗談から深刻な叱責まで、状況によってニュアンスが異なります。\n例：You lied to me? Shame on you! (私に嘘をついたの？恥を知れ！)"
+    },
+    {
+      "id": 7,
+      "value": "by the way",
+      "options": [
+        "ちなみに",
+        "決して",
+        "例えば",
+        "要するに"
+      ],
+      "correctAnswer": "ちなみに",
+      "explanation": "「By the way」は、「ちなみに」「ところで」という意味で、会話の流れを変えたり、新しい話題を導入したりする際に使われる便利な表現です。\n例：By the way, did you remember to call your mother? (ちなみに、お母さんに電話するのを忘れてない？)"
+    },
+    {
+      "id": 8,
+      "value": "drought",
+      "options": [
+        "洪水",
+        "干ばつ",
+        "嵐",
+        "地震"
+      ],
+      "correctAnswer": "干ばつ",
+      "explanation": "「Drought」は、「干ばつ」という意味で、長期間にわたって降水量が不足し、水不足や土地の乾燥を引き起こす自然災害です。\n例：The drought has caused severe damage to the crops. (干ばつは作物に深刻な被害をもたらした。)"
+    },
+    {
+      "id": 9,
+      "value": "holding onto",
+      "options": [
+        "手放す",
+        "掴む",
+        "秘密にする",
+        "探す"
+      ],
+      "correctAnswer": "掴む",
+      "explanation": "「hold onto」は、「～にしがみつく」「～を持ち続ける」という意味です。物理的に掴むだけでなく、感情や考え、情報を保持する意味合いでも使われます。\n例：Hold onto your hat, it's going to be windy. (帽子をしっかり掴んで、風が強くなるから。)"
+    },
+    {
+      "id": 10,
+      "value": "get him out of our hair",
+      "options": [
+        "邪魔者を排除する",
+        "髪を切る",
+        "助ける",
+        "髪を染める"
+      ],
+      "correctAnswer": "邪魔者を排除する",
+      "explanation": "「get someone out of one's hair」は、「（人）を邪魔にしない」「（人）を追い払う」という意味のイディオムです。誰かの存在が煩わしい、邪魔であると感じる時に使われます。\n例：I need to get him out of my hair so I can focus on my work. (彼を邪魔にしないで、仕事に集中したい。)"
+    },
+    {
+      "id": 11,
+      "value": "respawn",
+      "options": [
+        "消滅する",
+        "再生する",
+        "成長する",
+        "攻撃する"
+      ],
+      "correctAnswer": "再生する",
+      "explanation": "「Respawn」は、主にゲーム用語で「リスポーン」と訳されます。キャラクターが死亡後に復活することを意味します。比喩的に、困難を乗り越えて再起する場合にも使われます。\n例：Even if you fail, you can always respawn and try again. (たとえ失敗しても、いつでもリスポーンしてやり直せる。)"
+    },
+    {
+      "id": 12,
+      "value": "urinary tract infection",
+      "options": [
+        "心臓病",
+        "糖尿病",
+        "尿路感染症",
+        "風邪"
+      ],
+      "correctAnswer": "尿路感染症",
+      "explanation": "「Urinary tract infection」は、「尿路感染症」という意味で、細菌が尿道、膀胱、腎臓などの尿路に感染して炎症を起こす病気です。\n例：She went to the doctor because she thought she had a urinary tract infection. (彼女は尿路感染症だと思ったので医者に行った。)"
+    },
+    {
+      "id": 13,
+      "value": "entitled to",
+      "options": [
+        "興味がない",
+        "権利がある",
+        "義務がある",
+        "反対する"
+      ],
+      "correctAnswer": "権利がある",
+      "explanation": "「Entitled to」は、「～する権利がある」「～を受け取る資格がある」という意味です。法律、契約、道徳的な観点から権利や資格を有していることを示します。\n例：As an employee, you are entitled to certain benefits. (従業員として、あなたは特定の福利厚生を受ける権利があります。)"
+    },
+    {
+      "id": 14,
+      "value": "at the throttle",
+      "options": [
+        "ブレーキをかけて",
+        "運転席で",
+        "乗客として",
+        "線路脇で"
+      ],
+      "correctAnswer": "運転席で",
+      "explanation": "「At the throttle」は、列車の「スロットル」を操作して、機関車を運転している状態を指します。比喩的に、組織やプロジェクトを指揮している状態を表すこともあります。\n例：She was at the throttle of the company, making all the important decisions. (彼女は会社の指揮を執り、すべての重要な決定を下していた。)"
+    },
+    {
+      "id": 15,
+      "value": "eulogy",
+      "options": [
+        "葬儀",
+        "賛辞",
+        "弔辞",
+        "遺書"
+      ],
+      "correctAnswer": "弔辞",
+      "explanation": "「Eulogy」は、「弔辞」という意味で、故人の死を悼み、その人柄や業績を称えるために葬儀などで述べられるスピーチです。\n例：He delivered a moving eulogy at his father's funeral. (彼は父親の葬儀で感動的な弔辞を述べた。)"
+    },
+    {
+      "id": 16,
+      "value": "back off",
+      "options": [
+        "謝る",
+        "応援する",
+        "後退する",
+        "参加する"
+      ],
+      "correctAnswer": "後退する",
+      "explanation": "「Back off」は、「退く」「手を引く」「干渉しない」という意味で、相手に圧力をかけたり、邪魔をしたりするのをやめるように求める際に使われます。\n例：Just back off and leave me alone. (邪魔しないで、放っておいてくれ。)"
+    },
+    {
+      "id": 17,
+      "value": "going on",
+      "options": [
+        "終わった",
+        "進行中",
+        "停止した",
+        "隠された"
+      ],
+      "correctAnswer": "進行中",
+      "explanation": "「Going on」は、「起こっている」「進行中である」という意味で、何らかの活動や出来事が現在進行形であることを示します。\n例：There's a lot going on at work right now. (今、仕事でいろいろなことが起こっている。)"
+    },
+    {
+      "id": 18,
+      "value": "take care of",
+      "options": [
+        "無視する",
+        "世話をする",
+        "忘れる",
+        "邪魔する"
+      ],
+      "correctAnswer": "世話をする",
+      "explanation": "「Take care of」は、「～の世話をする」「～を処理する」という意味で、人や物事に対して責任を持って対処することを意味します。\n例：Can you take care of the dog while I'm away? (私がいない間、犬の世話をしてくれる？)"
+    },
+    {
+      "id": 19,
+      "value": "turn this off",
+      "options": [
+        "電源を切る",
+        "音量を上げる",
+        "照明を付ける",
+        "チャンネルを変える"
+      ],
+      "correctAnswer": "電源を切る",
+      "explanation": "「Turn off」は、「（電気製品などの）電源を切る」という意味です。比喩的に、興味や関心を失う、または活動を停止することを意味することもあります。\n例：Could you turn off the lights before you leave? (出かける前に電気を消してもらえますか？)"
+    },
+    {
+      "id": 20,
+      "value": "joint concert",
+      "options": [
+        "ソロコンサート",
+        "合同コンサート",
+        "サプライズコンサート",
+        "無料コンサート"
+      ],
+      "correctAnswer": "合同コンサート",
+      "explanation": "「Joint concert」は、「合同コンサート」という意味で、複数のアーティストや団体が共同で開催するコンサートを指します。\n例：The two orchestras will be giving a joint concert next month. (その2つのオーケストラは来月、合同コンサートを開催する予定です。)"
+    },
+    {
+      "id": 21,
+      "value": "good luck",
+      "options": [
+        "頑張って",
+        "おめでとう",
+        "さようなら",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "頑張って",
+      "explanation": "「Good luck」は、「頑張って」「幸運を祈る」という意味で、相手の成功を願う際に使われる一般的な表現です。\n例：You have an exam tomorrow? Good luck! (明日試験があるの？頑張って！)"
+    },
+    {
+      "id": 22,
+      "value": "believe it",
+      "options": [
+        "信じる",
+        "忘れる",
+        "後悔する",
+        "疑う"
+      ],
+      "correctAnswer": "信じる",
+      "explanation": "「Believe it」は、「信じる」という意味ですが、驚きや信じられない気持ちを表す際にも使われます。「You'll never believe it」の形で使われることが多いです。\n例：You'll never believe it, but I won the lottery! (信じられないかもしれないけど、宝くじに当たったんだ！)"
+    },
+    {
+      "id": 23,
+      "value": "actual",
+      "options": [
+        "架空の",
+        "実際の",
+        "想像上の",
+        "仮想の"
+      ],
+      "correctAnswer": "実際の",
+      "explanation": "「Actual」は、「実際の」「現実の」という意味で、想像や推測ではなく、現実に存在するものや起こったことを指します。\n例：This is an actual photo of the moon landing. (これは月面着陸の実際の写真です。)"
+    },
+    {
+      "id": 24,
+      "value": "what'd you do",
+      "options": [
+        "何をするの",
+        "何をしたの",
+        "何が欲しいの",
+        "どう思う"
+      ],
+      "correctAnswer": "何をしたの",
+      "explanation": "「What'd you do?」は、「What did you do?」の口語的な短縮形で、「何をしたの？」という意味です。相手の行動や結果について尋ねる際に使われます。\n例：You look so happy. What'd you do? (とても嬉しそうね。何をしたの？)"
+    },
+    {
+      "id": 25,
+      "value": "mountain of",
+      "options": [
+        "少しの",
+        "たくさんの",
+        "いくつかの",
+        "ほとんどない"
+      ],
+      "correctAnswer": "たくさんの",
+      "explanation": "「Mountain of」は、「山のような～」「大量の～」という意味で、非常に多くの量があることを強調する際に使われる比喩表現です。\n例：I have a mountain of work to do before the deadline. (締め切りまでに山のような仕事がある。)"
+    },
+    {
+      "id": 26,
+      "value": "all the livelong day",
+      "options": [
+        "一日中",
+        "数日間",
+        "夜通し",
+        "週末"
+      ],
+      "correctAnswer": "一日中",
+      "explanation": "「all the livelong day」は、「朝から晩まで」「一日中」という意味の表現です。特に、単調で長く続くような作業や状況を表す際に用いられます。古風な言い回しで、強調の意味合いが含まれます。\n\n例：He worked on the farm all the livelong day. (彼は一日中農場で働いた。)"
+    },
+    {
+      "id": 27,
+      "value": "give up",
+      "options": [
+        "賛成する",
+        "諦める",
+        "言い返す",
+        "提案する"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「give up」は、「諦める」「降参する」という意味の一般的なイディオムです。問題や困難に対して、解決を試みるのをやめる、という意味合いで使われます。\n\n例：I give up. What's the answer? (もう降参。答えは何？)"
+    },
+    {
+      "id": 28,
+      "value": "turn-of-the-century",
+      "options": [
+        "最新の",
+        "世紀末の",
+        "数年おきの",
+        "世紀の変わり目の"
+      ],
+      "correctAnswer": "世紀の変わり目の",
+      "explanation": "「turn-of-the-century」は、「世紀の変わり目」という意味です。特定の世紀の変わり目を指す場合に使われます。例えば、20世紀初頭（1900年代初め）などを指すことがあります。\n\n例：turn-of-the-century architecture (世紀の変わり目の建築)"
+    },
+    {
+      "id": 29,
+      "value": "get this",
+      "options": [
+        "理解する",
+        "これを聞いて",
+        "忘れる",
+        "手に入れる"
+      ],
+      "correctAnswer": "これを聞いて",
+      "explanation": "「get this」は、「これを聞いて」「ちょっと聞いて」という意味で、相手に驚きや興味を引くような情報を伝える際に使われる口語表現です。\n\n例：Get this! I won the lottery! (聞いて！宝くじに当たったんだ！)"
+    },
+    {
+      "id": 30,
+      "value": "worked out",
+      "options": [
+        "解決した",
+        "運動した",
+        "失敗した",
+        "計画した"
+      ],
+      "correctAnswer": "解決した",
+      "explanation": "「work out」は様々な意味を持つ句動詞ですが、ここでは「うまくいく」「解決する」という意味で使われています。問題や状況が好ましい結果に終わることを指します。\n\n例：Everything worked out in the end. (最終的にはすべてうまくいった。)"
+    },
+    {
+      "id": 31,
+      "value": "coming along",
+      "options": [
+        "参加する",
+        "進行中である",
+        "別れを告げる",
+        "反対する"
+      ],
+      "correctAnswer": "進行中である",
+      "explanation": "「come along」は、「進行する」「進捗する」という意味です。プロジェクトや計画の進み具合について尋ねる際などに使われます。\n\n例：How is the project coming along? (プロジェクトの進捗はどうですか？)"
+    },
+    {
+      "id": 32,
+      "value": "specs",
+      "options": [
+        "眼鏡",
+        "仕様",
+        "推測",
+        "特別な"
+      ],
+      "correctAnswer": "仕様",
+      "explanation": "「specs」は、「specifications」の略で、「仕様」「明細」という意味です。製品やプロジェクトの技術的な要件や詳細を指します。\n\n例：The specs for the new computer are impressive. (その新しいコンピュータの仕様は素晴らしい。)"
+    },
+    {
+      "id": 33,
+      "value": "agreed upon",
+      "options": [
+        "反対された",
+        "合意された",
+        "無視された",
+        "議論された"
+      ],
+      "correctAnswer": "合意された",
+      "explanation": "「agreed upon」は、「合意された」「同意済みの」という意味です。関係者間で意見が一致し、決定された事項を指します。\n\n例：We have an agreed-upon plan. (私たちには合意済みの計画があります。)"
+    },
+    {
+      "id": 34,
+      "value": "screwed us",
+      "options": [
+        "助けてくれた",
+        "裏切った",
+        "褒めてくれた",
+        "無視した"
+      ],
+      "correctAnswer": "裏切った",
+      "explanation": "「screw someone over」は、「人を出し抜く」「人を陥れる」という意味のスラングです。不当な扱いを受けたり、損害を被ったりする状況を表します。\n\n例：He screwed me over by lying to my boss. (彼は上司に嘘をついて私を陥れた。)"
+    },
+    {
+      "id": 35,
+      "value": "get crazy",
+      "options": [
+        "怒る",
+        "騒ぐ",
+        "落ち着く",
+        "眠る"
+      ],
+      "correctAnswer": "騒ぐ",
+      "explanation": "「get crazy」は、「興奮する」「はしゃぐ」「騒ぐ」という意味で、楽しい状況やパーティーなどで使われる口語表現です。\n\n例：Let's get crazy tonight! (今夜は騒ごう！)"
+    },
+    {
+      "id": 36,
+      "value": "on the job",
+      "options": [
+        "仕事中",
+        "休暇中",
+        "退職後",
+        "失業中"
+      ],
+      "correctAnswer": "仕事中",
+      "explanation": "「on the job」は、「仕事中」「職務中」という意味です。特定の任務や責任を遂行している状態を指します。\n\n例：He is on the job and will handle everything. (彼は仕事中なので、すべて彼が対応します。)"
+    },
+    {
+      "id": 37,
+      "value": "split up",
+      "options": [
+        "集まる",
+        "分担する",
+        "共有する",
+        "隠す"
+      ],
+      "correctAnswer": "分担する",
+      "explanation": "「split up」は、「分ける」「分割する」「分担する」という意味です。タスクや責任を複数人で分け合う際に使われます。\n\n例：Let's split up the chores. (家事を分担しましょう。)"
+    },
+    {
+      "id": 38,
+      "value": "boo-hoo",
+      "options": [
+        "お祝い",
+        "悲しみ",
+        "驚き",
+        "喜び"
+      ],
+      "correctAnswer": "悲しみ",
+      "explanation": "「boo-hoo」は、「シクシク」「メソメソ」という泣き声を文字で表した言葉で、特に大げさに悲しんでいる様子や、同情を引こうとしている様子をからかう際に使われます。\n\n例：Boo-hoo, you lost your toy. (あらあら、おもちゃをなくして悲しいのね。)"
+    },
+    {
+      "id": 39,
+      "value": "get rid of",
+      "options": [
+        "手に入れる",
+        "捨てる",
+        "隠す",
+        "修理する"
+      ],
+      "correctAnswer": "捨てる",
+      "explanation": "「get rid of」は、「取り除く」「処分する」「捨てる」という意味です。不要なものや好ましくない状況から解放されることを指します。\n\n例：I want to get rid of these old clothes. (これらの古い服を処分したい。)"
+    },
+    {
+      "id": 40,
+      "value": "How'd",
+      "options": [
+        "どのように",
+        "誰が",
+        "いつ",
+        "どこで"
+      ],
+      "correctAnswer": "どのように",
+      "explanation": "「How'd」は「How did」の省略形で、「どのようにして～したのか」という意味です。相手がどのようにして何かを成し遂げたのかを尋ねる際に使われます。\n\n例：How'd you do that? (どうやってそれをしたの？)"
+    },
+    {
+      "id": 41,
+      "value": "smug",
+      "options": [
+        "謙虚な",
+        "傲慢な",
+        "面白い",
+        "賢い"
+      ],
+      "correctAnswer": "傲慢な",
+      "explanation": "「smug」は、「自己満足した」「得意げな」「鼻持ちならない」という意味です。自分の知識や能力をひけらかすような態度を指します。\n\n例：He had a smug look on his face. (彼は得意げな顔をしていた。)"
+    },
+    {
+      "id": 42,
+      "value": "working with my hands",
+      "options": [
+        "手伝う",
+        "手作業をする",
+        "料理をする",
+        "祈る"
+      ],
+      "correctAnswer": "手作業をする",
+      "explanation": "「work with one's hands」は、「手を使う仕事をする」「手作業をする」という意味です。肉体労働や手工芸など、手を使って何かを作り出す作業を指します。\n\n例：I enjoy working with my hands. (私は手作業が好きです。)"
+    },
+    {
+      "id": 43,
+      "value": "go back to",
+      "options": [
+        "戻る",
+        "進む",
+        "出発する",
+        "忘れる"
+      ],
+      "correctAnswer": "戻る",
+      "explanation": "「go back to」は、「～に戻る」「～に立ち返る」という意味です。以前の状態や場所、活動に戻ることを指します。\n\n例：I have to go back to work. (仕事に戻らなければならない。)"
+    },
+    {
+      "id": 44,
+      "value": "just to be clear",
+      "options": [
+        "念のため",
+        "秘密にする",
+        "忘れないように",
+        "はっきりさせるために"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「just to be clear」は、「念のため」「はっきりさせておきたいのですが」という意味で、誤解を避けるために、自分の意図や考えを明確に伝える際に使われます。\n\n例：Just to be clear, I'm not blaming you. (念のため言っておきますが、あなたを責めているわけではありません。)"
+    },
+    {
+      "id": 45,
+      "value": "for presenting it so articulately",
+      "options": [
+        "不明瞭に提示してくれたことに対して",
+        "非常に明確に提示してくれたことに対して",
+        "個人的に提示してくれたことに対して",
+        "退屈に提示してくれたことに対して"
+      ],
+      "correctAnswer": "非常に明確に提示してくれたことに対して",
+      "explanation": "articulatelyは「はっきりと」「明瞭に」という意味で、考えやアイデアを明確かつ効果的に伝える能力を指します。ここでは、Col WilliamsがLeonardとHowardのプレゼンテーションが非常に明確で理解しやすかったことを評価しています。\n\n例：She articulately explained the complex issue to the team.(彼女は複雑な問題をチームにはっきりと説明した。)"
+    },
+    {
+      "id": 46,
+      "value": "Don Corleone",
+      "options": [
+        "貧しい人",
+        "権力者",
+        "医者",
+        "子供"
+      ],
+      "correctAnswer": "権力者",
+      "explanation": "Don Corleoneは、映画『ゴッドファーザー』に登場するマフィアのボスであり、権力と影響力の象徴です。RajはStuartの行動が自分の権威を侵害していると感じ、冗談めかして彼をDon Corleoneと呼びました。\n\n例：He runs his business like Don Corleone, making all the important decisions himself.(彼はドン・コルレオーネのようにビジネスを経営し、すべての重要な決定を自分で行う。)"
+    },
+    {
+      "id": 47,
+      "value": "what comes out the bottom",
+      "options": [
+        "最後に残るもの",
+        "結論",
+        "排泄物",
+        "秘密"
+      ],
+      "correctAnswer": "排泄物",
+      "explanation": "ここでは赤ちゃんのオムツ交換のことです。赤ちゃんのお世話を分担する際に使われるユーモラスな表現です。\n\n例：Taking care of a baby involves dealing with what comes out the bottom, which is not always pleasant.(赤ちゃんの世話には、必ずしも приятなではない排泄物の処理が含まれる。)"
+    },
+    {
+      "id": 48,
+      "value": "I think I can",
+      "options": [
+        "自信がない",
+        "できると思う",
+        "諦める",
+        "知らない"
+      ],
+      "correctAnswer": "できると思う",
+      "explanation": "このフレーズは、子供向けの物語『The Little Engine That Could』に由来し、困難な状況に直面した際に自分自身を励ますために使われます。Sheldonは蒸気機関車を階段に運び上げるという困難な課題に直面し、自分自身を励まそうとしています。\n\n例：Even though the task seemed impossible, he kept saying \"I think I can\" and eventually succeeded.(タスクは不可能に見えたが、彼は「できると思う」と言い続け、最終的に成功した。)"
+    },
+    {
+      "id": 49,
+      "value": "paid two men who promised not to come rob us later",
+      "options": [
+        "泥棒にお金を払った",
+        "正直な人に手伝ってもらった",
+        "サービスを利用した",
+        "友人に手伝ってもらった"
+      ],
+      "correctAnswer": "泥棒にお金を払った",
+      "explanation": "これは、Sheldonが蒸気機関車を運ぶために雇った人々が後で強盗に来ないことを願っているという、彼の独特なユーモアのセンスを示すジョークです。彼は高額な報酬を支払ったため、彼らが強盗に来る必要がないと考えたのかもしれません。\n\n例：He hired movers to help him move, but he joked that he had to pay them extra so they wouldn't come back and rob him later.(彼は引っ越しの手伝いを雇ったが、後で強盗に来ないように追加料金を払わなければならないと冗談を言った。)"
+    },
+    {
+      "id": 50,
+      "value": "goofy",
+      "options": [
+        "真面目な",
+        "おかしな",
+        "賢い",
+        "退屈な"
+      ],
+      "correctAnswer": "おかしな",
+      "explanation": "goofyは「ばかげた」「間抜けな」「おかしな」という意味で、軽蔑的なニュアンスを含むことがあります。ここでは、SheldonがLeonardとHowardをからかうために使用しています。\n\n例：He made a goofy face to make the children laugh.(彼は子供たちを笑わせるためにおかしな顔をした。)"
+    },
+    {
+      "id": 51,
+      "value": "a heapin' helping of irony",
+      "options": [
+        "少しの皮肉",
+        "たくさんの皮肉",
+        "全く皮肉がない",
+        "皮肉のヒント"
+      ],
+      "correctAnswer": "たくさんの皮肉",
+      "explanation": "「a heapin' helping of」は、「たっぷりの～」「山盛りの～」という意味です。ここでは、「たくさんの皮肉」を意味します。口語的な表現で、ユーモラスなニュアンスを含みます。例文：That's a heapin' helping of trouble!（それは大変なトラブルだ！）"
+    },
+    {
+      "id": 52,
+      "value": "tangible",
+      "options": [
+        "抽象的な",
+        "無形の",
+        "明白な",
+        "具体的な"
+      ],
+      "correctAnswer": "具体的な",
+      "explanation": "「tangible」は、触れることができる、実体のある、具体的なという意味です。比喩的に、はっきりとしている、理解しやすいという意味でも使われます。例文：The benefits of the new policy are not always tangible. (新しい政策の恩恵は必ずしも目に見える形ではない。)"
+    },
+    {
+      "id": 53,
+      "value": "clicked",
+      "options": [
+        "混乱した",
+        "理解した",
+        "反対した",
+        "忘れた"
+      ],
+      "correctAnswer": "理解した",
+      "explanation": "「click」は、ここでは「（何かが）ピタッとはまる」「理解する」という意味で使われています。何かが突然理解できた瞬間に使われることが多いです。例文：Suddenly it clicked – I understood what he meant. (突然、ピンときた。彼が言いたかったことを理解した。)"
+    },
+    {
+      "id": 54,
+      "value": "keep our options open",
+      "options": [
+        "秘密にする",
+        "選択肢を広げる",
+        "すぐに決める",
+        "選択肢を閉じる"
+      ],
+      "correctAnswer": "選択肢を広げる",
+      "explanation": "「keep one's options open」は、「選択肢を広げておく」「成り行きを見守る」という意味です。特定の行動や決定を急がずに、将来の可能性を残しておくというニュアンスがあります。例文：I'm keeping my options open about where to go to college. (大学進学先については、まだ決めずに様子を見ている。)"
+    },
+    {
+      "id": 55,
+      "value": "funky",
+      "options": [
+        "新鮮な",
+        "素晴らしい",
+        "古臭い",
+        "奇抜な"
+      ],
+      "correctAnswer": "古臭い",
+      "explanation": "「funky」は、ここでは「（匂いが）変な」「古臭い」という意味で使われています。本来は音楽用語で「ファンキーな」という意味ですが、口語では様々な意味で使われます。例文：This milk smells a little funky. （この牛乳、ちょっと変な匂いがする。）"
+    },
+    {
+      "id": 56,
+      "value": "err on the side of caution",
+      "options": [
+        "危険を冒す",
+        "安全策を取る",
+        "急いで行動する",
+        "無視する"
+      ],
+      "correctAnswer": "安全策を取る",
+      "explanation": "「err on the side of caution」は、「用心のために安全策を取る」「念のため安全な方を選ぶ」という意味です。リスクを避けるために、慎重に行動するというニュアンスがあります。例文：I'd err on the side of caution and call a doctor. (念のため医者に電話した方がいい。)"
+    },
+    {
+      "id": 57,
+      "value": "fresh batch",
+      "options": [
+        "古い束",
+        "新鮮な束",
+        "最後の束",
+        "偽物の束"
+      ],
+      "correctAnswer": "新鮮な束",
+      "explanation": "「batch」は「一団」「一組」という意味で、「fresh batch」で「新たに用意したもの」や「作り直したもの」を指します。この文脈では、新鮮なミルクを指しています。例文：I baked a fresh batch of cookies this morning.（今朝、焼きたてのクッキーを作りました。）"
+    },
+    {
+      "id": 58,
+      "value": "perfectly good",
+      "options": [
+        "完全に悪い",
+        "完璧に良い",
+        "そこそこ良い",
+        "見かけ倒し"
+      ],
+      "correctAnswer": "完璧に良い",
+      "explanation": "「perfectly good」は、「全く問題ない」「まだ使える」という意味です。例文：There's nothing wrong with it; it's perfectly good. (何も問題ないよ。まだ使える。)"
+    },
+    {
+      "id": 59,
+      "value": "take it black",
+      "options": [
+        "砂糖を入れる",
+        "ミルクを入れる",
+        "ブラックで飲む",
+        "捨てる"
+      ],
+      "correctAnswer": "ブラックで飲む",
+      "explanation": "「take it black」は、コーヒーなどをブラックで飲むという意味です。何も加えない、という意味合いです。例文：I always take my coffee black. (私はいつもブラックコーヒーを飲みます。)"
+    },
+    {
+      "id": 60,
+      "value": "jump in",
+      "options": [
+        "飛び降りる",
+        "邪魔する",
+        "参加する",
+        "無視する"
+      ],
+      "correctAnswer": "参加する",
+      "explanation": "「jump in」は、「（会話などに）参加する」「割り込む」という意味です。積極的に議論や活動に参加するニュアンスがあります。例文：Feel free to jump in with your ideas. (遠慮なくあなたのアイデアを提案してください。)"
+    },
+    {
+      "id": 61,
+      "value": "upside-down",
+      "options": [
+        "内側",
+        "外側",
+        "上下逆さま",
+        "左右逆さま"
+      ],
+      "correctAnswer": "上下逆さま",
+      "explanation": "「upside-down」は、「逆さまの」「ひっくり返った」という意味です。物理的な状態だけでなく、状況や計画などがうまくいかない状態を表すこともあります。例文：The world turned upside down. (世界はひっくり返った。)"
+    },
+    {
+      "id": 62,
+      "value": "pitched",
+      "options": [
+        "投げた",
+        "提案した",
+        "中断した",
+        "盗んだ"
+      ],
+      "correctAnswer": "提案した",
+      "explanation": "「pitch」は、ここでは「（アイデアなどを）提案する」「売り込む」という意味です。例文：She pitched her idea to the boss. (彼女は上司に自分のアイデアを提案した。)"
+    },
+    {
+      "id": 63,
+      "value": "nonsense",
+      "options": [
+        "賢明",
+        "無意味",
+        "常識",
+        "秘密"
+      ],
+      "correctAnswer": "無意味",
+      "explanation": "「nonsense」は、「無意味なこと」「ばかげたこと」という意味です。例文：Don't talk nonsense! （ばかなことを言うな！)"
+    },
+    {
+      "id": 64,
+      "value": "got rid of",
+      "options": [
+        "見つけた",
+        "隠した",
+        "手に入れた",
+        "処分した"
+      ],
+      "correctAnswer": "処分した",
+      "explanation": "「get rid of」は、「～を取り除く」「～を処分する」という意味です。不要なものや嫌なものを排除する際に使われます。例文：I finally got rid of that old car. (ついにあの古い車を処分した。)"
+    },
+    {
+      "id": 65,
+      "value": "settling down",
+      "options": [
+        "興奮している",
+        "落ち着いている",
+        "泣いている",
+        "暴れている"
+      ],
+      "correctAnswer": "落ち着いている",
+      "explanation": "「settle down」は、「落ち着く」「静まる」という意味です。興奮状態や混乱状態から平常に戻る様子を表します。例文：The baby is finally settling down. (赤ちゃんがやっと落ち着いてきた。)"
+    },
+    {
+      "id": 66,
+      "value": "false alarm",
+      "options": [
+        "本当の警報",
+        "誤報",
+        "遅延",
+        "成功"
+      ],
+      "correctAnswer": "誤報",
+      "explanation": "「false alarm」は、「誤報」「空騒ぎ」という意味です。実際には問題がないのに、問題が発生したかのように騒ぎ立てる状況を指します。例文：It was just a false alarm. (それはただの誤報だった。)"
+    },
+    {
+      "id": 67,
+      "value": "in the mood",
+      "options": [
+        "準備中",
+        "やる気がある",
+        "準備ができていない",
+        "不機嫌"
+      ],
+      "correctAnswer": "やる気がある",
+      "explanation": "「in the mood」は、「～する気分である」「～したい気持ちである」という意味です。例文：I'm not in the mood for dancing tonight. (今夜は踊る気分じゃない。)"
+    },
+    {
+      "id": 68,
+      "value": "theoretical physics",
+      "options": [
+        "応用物理学",
+        "実験物理学",
+        "理論物理学",
+        "計算物理学"
+      ],
+      "correctAnswer": "理論物理学",
+      "explanation": "Theoretical physics は、物理学の理論的な側面を研究する分野です。実験や観測に基づいて物理現象を説明し、予測するための数学的モデルを構築します。例：Sheldon specializes in theoretical physics, particularly string theory."
+    },
+    {
+      "id": 69,
+      "value": "railway guide",
+      "options": [
+        "旅行ガイド",
+        "料理ガイド",
+        "鉄道ガイド",
+        "都市ガイド"
+      ],
+      "correctAnswer": "鉄道ガイド",
+      "explanation": "Railway guide は、鉄道の時刻表や路線図、駅の情報などをまとめたガイドブックです。鉄道旅行に役立つ情報が掲載されています。例文：He studied the railway guide to plan his trip."
+    },
+    {
+      "id": 70,
+      "value": "Caltech preschool",
+      "options": [
+        "公立小学校",
+        "Caltech大学",
+        "Caltechの幼稚園",
+        "私立小学校"
+      ],
+      "correctAnswer": "Caltechの幼稚園",
+      "explanation": "Caltech preschool は、カリフォルニア工科大学（Caltech）が運営する幼稚園です。大学関係者の子供たちが通うことが多いです。例文：They applied to the Caltech preschool for their child."
+    },
+    {
+      "id": 71,
+      "value": "blow a spit bubble",
+      "options": [
+        "泣く",
+        "あくびをする",
+        "寝る",
+        "唾を吐く"
+      ],
+      "correctAnswer": "唾を吐く",
+      "explanation": "Blow a spit bubbleは、唾液でシャボン玉を作ることを指します。幼児や赤ちゃんがよく行う行為です。例文：The baby was blowing a spit bubble."
+    },
+    {
+      "id": 72,
+      "value": "Patrick and SpongeBob",
+      "options": [
+        "実在の人物",
+        "アニメのキャラ",
+        "都市の名前",
+        "有名シェフ"
+      ],
+      "correctAnswer": "アニメのキャラ",
+      "explanation": "Patrick and SpongeBob は、人気アニメ「スポンジ・ボブ」のキャラクターです。この文脈では、育児を任せる相手を比喩的に表現しています。例文：She felt like she left her daughter with Patrick and SpongeBob."
+    },
+    {
+      "id": 73,
+      "value": "horas de operación",
+      "options": [
+        "営業時間",
+        "交通ルール",
+        "料理レシピ",
+        "天気予報"
+      ],
+      "correctAnswer": "営業時間",
+      "explanation": "Horas de operación は、スペイン語で「営業時間」という意味です。英語の \"Hours of operation\" と同じ意味です。例：According to their horas de operación, they’re open. （彼らの営業時間によると、開いている。）"
+    },
+    {
+      "id": 74,
+      "value": "call it a night",
+      "options": [
+        "夜を呼ぶ",
+        "もう一杯飲む",
+        "今日はこれで終わりにする",
+        "夜更かしする"
+      ],
+      "correctAnswer": "今日はこれで終わりにする",
+      "explanation": "Call it a night は、「今日はこれで終わりにする」「切り上げる」という意味のイディオムです。疲れたり、満足したりして、その日の活動を終える時に使います。例：It’s getting late, let’s call it a night. （もう遅いから、今日はこれで終わりにしよう。）"
+    },
+    {
+      "id": 75,
+      "value": "dos",
+      "options": [
+        "数",
+        "名前",
+        "場所",
+        "色"
+      ],
+      "correctAnswer": "数",
+      "explanation": "Dosはスペイン語で「2」を意味します。Amyがダンスクラブの閉店時間を表現するために使っています。例文：They're open till dos. (彼らは2時まで開いています。)"
+    },
+    {
+      "id": 76,
+      "value": "recapture our youth",
+      "options": [
+        "若さを取り戻す",
+        "青春時代を忘れる",
+        "子供時代を懐かしむ",
+        "過去の栄光を語る"
+      ],
+      "correctAnswer": "若さを取り戻す",
+      "explanation": "「recapture」は「再び捕らえる、取り戻す」という意味で、「recapture our youth」は「若さを取り戻す」となります。過去の楽しかった時期を再び経験しようとする時に使われます。例文：They tried to recapture their youth by going back to their old school."
+    },
+    {
+      "id": 77,
+      "value": "no further along",
+      "options": [
+        "さらに先に進んでいる",
+        "全く進展がない",
+        "少しだけ進んでいる",
+        "元の場所に戻っている"
+      ],
+      "correctAnswer": "全く進展がない",
+      "explanation": "「no further along」は「全く進展がない、以前と変わらない」という意味です。状況や関係性が以前の状態から何も変わっていないことを表します。例文：After a year of therapy, they were no further along in resolving their issues."
+    },
+    {
+      "id": 78,
+      "value": "decent money",
+      "options": [
+        "大金",
+        "まあまあのお金",
+        "少しのお金",
+        "全くお金がない"
+      ],
+      "correctAnswer": "まあまあのお金",
+      "explanation": "「decent」は「まともな、まずまずの」という意味で、「decent money」は「まあまあのお金、悪くない収入」となります。十分な生活を送れる程度の収入があることを示唆します。例文：She earns decent money as a software engineer."
+    },
+    {
+      "id": 79,
+      "value": "lactate",
+      "options": [
+        "興奮する",
+        "泣く",
+        "母乳を出す",
+        "笑う"
+      ],
+      "correctAnswer": "母乳を出す",
+      "explanation": "「lactate」は「母乳を出す、乳を分泌する」という意味です。出産後の女性が母乳を出す生理現象を指します。例文：The new mother started to lactate when she heard her baby cry."
+    },
+    {
+      "id": 80,
+      "value": "turns out",
+      "options": [
+        "結局～だと判明する",
+        "～を裏返す",
+        "～を拒否する",
+        "～を無視する"
+      ],
+      "correctAnswer": "結局～だと判明する",
+      "explanation": "「turns out」は「結局～だと判明する、～という結果になる」という意味です。予想外の結果や事実が明らかになった時に使われます。例文：It turns out that he was the thief all along."
+    },
+    {
+      "id": 81,
+      "value": "grease smudge",
+      "options": [
+        "油汚れ",
+        "水の跡",
+        "インクの染み",
+        "ほこり"
+      ],
+      "correctAnswer": "油汚れ",
+      "explanation": "「grease smudge」は「油汚れ、油のしみ」という意味です。「grease」は油、「smudge」はしみ、汚れを意味します。例文：He had a grease smudge on his shirt after working on his car."
+    },
+    {
+      "id": 82,
+      "value": "manifold",
+      "options": [
+        "多様体",
+        "集合",
+        "排気管",
+        "倍数"
+      ],
+      "correctAnswer": "排気管",
+      "explanation": "「manifold」は、ここでは自動車の部品である「排気管、マニホールド」を指します。複数の入口や出口を持つ管を意味します。例文：The mechanic replaced the cracked exhaust manifold."
+    },
+    {
+      "id": 83,
+      "value": "blockheads",
+      "options": [
+        "賢者たち",
+        "ばか者たち",
+        "勇敢な者たち",
+        "ずる賢い者たち"
+      ],
+      "correctAnswer": "ばか者たち",
+      "explanation": "「blockhead」は「ばか、まぬけ」という意味です。人を侮辱する際に使われる言葉です。例文：Don't be such a blockhead; think before you act."
+    },
+    {
+      "id": 84,
+      "value": "turn your back on",
+      "options": [
+        "～に背を向ける",
+        "～に協力する",
+        "～に立ち向かう",
+        "～を無視する"
+      ],
+      "correctAnswer": "～に背を向ける",
+      "explanation": "「turn your back on」は「～に背を向ける、見捨てる、放棄する」という意味です。以前は支持していたものや関係を断つ場合に使われます。例文：He turned his back on his family after becoming rich."
+    },
+    {
+      "id": 85,
+      "value": "standing around",
+      "options": [
+        "立ち去る",
+        "立って見物する",
+        "走り回る",
+        "座って休憩する"
+      ],
+      "correctAnswer": "立って見物する",
+      "explanation": "「stand around」は「立ってぶらぶらする、ぼんやり立っている」という意味です。特に何もしないで時間を過ごす様子を表します。例文：They were just standing around, waiting for the bus."
+    },
+    {
+      "id": 86,
+      "value": "crankshaft",
+      "options": [
+        "クランクシャフト",
+        "ターボ",
+        "エンジン",
+        "ハンドル"
+      ],
+      "correctAnswer": "クランクシャフト",
+      "explanation": "「crankshaft」は「クランクシャフト」という機械部品です。エンジンの回転運動を伝える重要な役割を果たします。例文：The crankshaft converts the reciprocating motion of the pistons into rotational motion."
+    },
+    {
+      "id": 87,
+      "value": "work up a sweat",
+      "options": [
+        "汗をかく",
+        "運動する",
+        "緊張する",
+        "リラックスする"
+      ],
+      "correctAnswer": "汗をかく",
+      "explanation": "「work up a sweat」は「汗をかく、一生懸命働く」という意味です。肉体的な努力や運動によって汗をかく様子を表します。例文：He worked up a sweat while mowing the lawn."
+    },
+    {
+      "id": 88,
+      "value": "minivan",
+      "options": [
+        "高級車",
+        "スポーツカー",
+        "ミニバン",
+        "トラック"
+      ],
+      "correctAnswer": "ミニバン",
+      "explanation": "「minivan」は「ミニバン」のことです。家族向けの多人数が乗れる車を指します。例文: They bought a minivan to accommodate their growing family."
+    },
+    {
+      "id": 89,
+      "value": "401K",
+      "options": [
+        "銀行口座",
+        "年金制度",
+        "投資信託",
+        "奨学金"
+      ],
+      "correctAnswer": "年金制度",
+      "explanation": "「401(k)」はアメリカの確定拠出年金制度のことです。従業員が給与から一定額を積み立て、退職後に受け取るための制度です。例文：He contributes to his 401(k) every month to save for retirement."
+    },
+    {
+      "id": 90,
+      "value": "fuel pump",
+      "options": [
+        "燃料ポンプ",
+        "オイルフィルター",
+        "バッテリー",
+        "スパークプラグ"
+      ],
+      "correctAnswer": "燃料ポンプ",
+      "explanation": "「fuel pump」は「燃料ポンプ」のことです。燃料タンクからエンジンに燃料を送るための装置です。例文：The car wouldn't start because the fuel pump was broken."
+    },
+    {
+      "id": 91,
+      "value": "guidance system",
+      "options": [
+        "ナビゲーションシステム",
+        "推進システム",
+        "誘導システム",
+        "安全システム"
+      ],
+      "correctAnswer": "誘導システム",
+      "explanation": "「guidance system」は「誘導システム」のことです。目標地点まで正確に誘導するためのシステムです。例文：The missile uses a sophisticated guidance system to hit its target."
+    },
+    {
+      "id": 92,
+      "value": "steam locomotive",
+      "options": [
+        "電気機関車",
+        "蒸気機関車",
+        "ディーゼル機関車",
+        "リニアモーターカー"
+      ],
+      "correctAnswer": "蒸気機関車",
+      "explanation": "「steam locomotive」は「蒸気機関車」のことです。蒸気機関を動力とする機関車です。例文：He is a collector of steam locomotive models."
+    },
+    {
+      "id": 93,
+      "value": "feelings",
+      "options": [
+        "感情",
+        "思考",
+        "感覚",
+        "行動"
+      ],
+      "correctAnswer": "感情",
+      "explanation": "「feelings」は「感情」のことです。喜び、悲しみ、怒り、などの心の状態を指します。例文：She couldn't hide her feelings of sadness."
+    },
+    {
+      "id": 94,
+      "value": "pressure",
+      "options": [
+        "圧力",
+        "解放",
+        "安定",
+        "不安"
+      ],
+      "correctAnswer": "圧力",
+      "explanation": "「pressure」は「圧力」のことです。精神的な負担やプレッシャーを感じる時に使います。例文：She felt a lot of pressure to succeed."
+    },
+    {
+      "id": 95,
+      "value": "vector",
+      "options": [
+        "ベクトル",
+        "スカラー",
+        "テンソル",
+        "行列"
+      ],
+      "correctAnswer": "ベクトル",
+      "explanation": "「vector」は「ベクトル」のことです。数学や物理学で、大きさと方向を持つ量を表します。例文：The vector represents the force acting on the object."
+    },
+    {
+      "id": 96,
+      "value": "relativistic",
+      "options": [
+        "相対論的な",
+        "絶対的な",
+        "古典的な",
+        "量子的な"
+      ],
+      "correctAnswer": "相対論的な",
+      "explanation": "「relativistic」は「相対論的な」という意味です。アインシュタインの相対性理論に関連する概念を指します。例文：The relativistic effects become significant at high speeds."
+    },
+    {
+      "id": 97,
+      "value": "non-relativistic",
+      "options": [
+        "非相対論的な",
+        "相対論的な",
+        "古典的な",
+        "量子的な"
+      ],
+      "correctAnswer": "非相対論的な",
+      "explanation": "「non-relativistic」は「非相対論的な」という意味です。相対性理論を考慮しない古典的な物理学の範囲を指します。例文：For everyday speeds, we can use non-relativistic mechanics."
+    },
+    {
+      "id": 98,
+      "value": "equation",
+      "options": [
+        "方程式",
+        "不等式",
+        "関数",
+        "グラフ"
+      ],
+      "correctAnswer": "方程式",
+      "explanation": "「equation」は「方程式」という意味です。数学的な関係を表す式です。例文：Solve the equation for x."
+    },
+    {
+      "id": 99,
+      "value": "turbo",
+      "options": [
+        "ターボ",
+        "エンジン",
+        "ブレーキ",
+        "サスペンション"
+      ],
+      "correctAnswer": "ターボ",
+      "explanation": "「turbo」は「ターボチャージャー」のことです。エンジンの出力を向上させるための装置です。例文：The car has a powerful turbo engine."
+    },
+    {
+      "id": 100,
+      "value": "GPS",
+      "options": [
+        "全地球測位システム",
+        "地熱発電所",
+        "遺伝子組み換え食品",
+        "政府刊行物"
+      ],
+      "correctAnswer": "全地球測位システム",
+      "explanation": "「GPS」は「Global Positioning System（全地球測位システム）」の略です。人工衛星からの信号を利用して、地球上の位置を特定するシステムです。例文：The GPS helped us find our way in the mountains."
+    }
+  ]
+}

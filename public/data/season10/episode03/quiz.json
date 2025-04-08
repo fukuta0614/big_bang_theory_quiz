@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "simulations",
+      "options": [
+        "類似",
+        "測定",
+        "模擬実験",
+        "計算"
+      ],
+      "correctAnswer": "模擬実験",
+      "explanation": "「simulation」は、現実世界の状況やプロセスを模倣したモデルを作成し、それを使って実験や分析を行うことを指します。複雑なシステムの挙動を予測したり、新しい設計や戦略を評価したりする際に用いられます。"
+    },
+    {
+      "id": 2,
+      "value": "thermo-acoustic expander",
+      "options": [
+        "熱音響膨張器",
+        "熱力学変換器",
+        "音響共鳴器",
+        "温度調整器"
+      ],
+      "correctAnswer": "熱音響膨張器",
+      "explanation": "熱音響膨張器は、熱エネルギーを音響エネルギーに変換する装置です。高温と低温の間の温度差を利用して音波を発生させ、その音波を利用して冷却や発電を行います。環境に優しい技術として注目されています。"
+    },
+    {
+      "id": 3,
+      "value": "cerebral spinal fluid",
+      "options": [
+        "脳脊髄液",
+        "血液",
+        "リンパ液",
+        "細胞間液"
+      ],
+      "correctAnswer": "脳脊髄液",
+      "explanation": "脳脊髄液は、脳と脊髄の周りを循環する透明な液体です。脳を保護し、栄養を供給し、老廃物を除去する役割を果たします。医療においては、診断のために採取されることがあります。"
+    },
+    {
+      "id": 4,
+      "value": "metabolic by-products",
+      "options": [
+        "代謝副産物",
+        "主要代謝物",
+        "消化酵素",
+        "栄養素"
+      ],
+      "correctAnswer": "代謝副産物",
+      "explanation": "代謝副産物とは、体内で生化学反応が起こる際に生成される不要な物質のことです。これらは通常、血液によって運ばれ、腎臓や肝臓で処理されて体外に排出されます。例：二酸化炭素、尿素。"
+    },
+    {
+      "id": 5,
+      "value": "nighty-night",
+      "options": [
+        "おやすみ",
+        "こんばんは",
+        "また明日",
+        "お元気で"
+      ],
+      "correctAnswer": "おやすみ",
+      "explanation": "「Nighty-night」は、子供や親しい人に使う、可愛らしい「おやすみ」の言い方です。少しユーモラスなニュアンスも含まれます。"
+    },
+    {
+      "id": 6,
+      "value": "deliver",
+      "options": [
+        "配達する",
+        "発表する",
+        "引き渡す",
+        "届ける"
+      ],
+      "correctAnswer": "引き渡す",
+      "explanation": "この文脈では、「deliver」は成果物や製品を（通常契約に基づいて）相手に引き渡す、納品するという意味で使用されています。単に物を届けるだけでなく、責任を持って完了させるニュアンスが含まれます。"
+    },
+    {
+      "id": 7,
+      "value": "irritable",
+      "options": [
+        "陽気な",
+        "落ち着いた",
+        "怒りっぽい",
+        "満足した"
+      ],
+      "correctAnswer": "怒りっぽい",
+      "explanation": "「irritable」は、些細なことでイライラしたり、怒りやすくなったりする状態を表します。睡眠不足やストレス、カフェインの摂取などが原因となることがあります。"
+    },
+    {
+      "id": 8,
+      "value": "soldier through",
+      "options": [
+        "戦い抜く",
+        "逃げ出す",
+        "あきらめる",
+        "無視する"
+      ],
+      "correctAnswer": "戦い抜く",
+      "explanation": "「soldier through」は、困難な状況や嫌なことを我慢してやり遂げるという意味のイディオムです。辛抱強く、根気強く努力する様子を表します。"
+    },
+    {
+      "id": 9,
+      "value": "tyrant",
+      "options": [
+        "英雄",
+        "独裁者",
+        "友人",
+        "指導者"
+      ],
+      "correctAnswer": "独裁者",
+      "explanation": "「tyrant」は、権力を乱用し、人々を抑圧する独裁者や暴君を指します。否定的な意味合いが強く、不正な支配者を批判する際に用いられます。"
+    },
+    {
+      "id": 10,
+      "value": "disciplines",
+      "options": [
+        "訓練",
+        "分野",
+        "規律",
+        "制裁"
+      ],
+      "correctAnswer": "分野",
+      "explanation": "学問や研究の「分野」を指します。物理学、生物学、化学などの専門的な領域を意味し、それぞれの分野で異なる知識体系や研究方法が存在します。"
+    },
+    {
+      "id": 11,
+      "value": "keep current on",
+      "options": [
+        "最新情報を得る",
+        "秘密にする",
+        "過去を振り返る",
+        "記録する"
+      ],
+      "correctAnswer": "最新情報を得る",
+      "explanation": "「keep current on」は、特定の分野やトピックについて最新の情報を常に把握している状態を指します。変化の速い現代社会において、専門家や研究者にとって重要なスキルです。"
+    },
+    {
+      "id": 12,
+      "value": "go on about",
+      "options": [
+        "続ける",
+        "熱く語る",
+        "秘密にする",
+        "忘れる"
+      ],
+      "correctAnswer": "熱く語る",
+      "explanation": "「go on about」は、特定の話や話題について、熱心に、またはくどくどと話し続けるという意味です。しばしば退屈な話や、相手があまり興味を持っていない話をする状況で使われます。"
+    },
+    {
+      "id": 13,
+      "value": "appreciate",
+      "options": [
+        "感謝する",
+        "理解する",
+        "評価する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "感謝する",
+      "explanation": "「appreciate」は、誰かの行為や提供に対して感謝の気持ちを表す動詞です。また、物事の価値や良さを理解し、認識するという意味もあります。"
+    },
+    {
+      "id": 14,
+      "value": "sideways glances",
+      "options": [
+        "横目",
+        "笑顔",
+        "厳しい視線",
+        "応援"
+      ],
+      "correctAnswer": "横目",
+      "explanation": "「sideways glances」は、直接的な視線を避け、横目でちらっと見ることを指します。不快感、疑念、好奇心など、さまざまな感情を伝えるために用いられます。"
+    },
+    {
+      "id": 15,
+      "value": "racist",
+      "options": [
+        "人種差別的な",
+        "友好的な",
+        "平等な",
+        "寛容な"
+      ],
+      "correctAnswer": "人種差別的な",
+      "explanation": "「racist」は、特定の人種に対する偏見や差別意識を持つことを指します。人種に基づく不当な扱いを正当化する思想や行動を批判する際に用いられます。"
+    },
+    {
+      "id": 16,
+      "value": "junk",
+      "options": [
+        "宝物",
+        "ガラクタ",
+        "貴重品",
+        "コレクション"
+      ],
+      "correctAnswer": "ガラクタ",
+      "explanation": "「junk」は、価値のない、または不要なものを指す一般的な言葉です。ごみ、がらくた、不用品といった意味合いで使われます。"
+    },
+    {
+      "id": 17,
+      "value": "embarrassed",
+      "options": [
+        "誇らしい",
+        "恥ずかしい",
+        "満足した",
+        "興奮した"
+      ],
+      "correctAnswer": "恥ずかしい",
+      "explanation": "「embarrassed」は、自分の行動や状況が原因で恥ずかしい、またはきまり悪い気持ちになることを表します。人前で失敗したり、不適切なことを言ってしまったりした場合に感じることがあります。"
+    },
+    {
+      "id": 18,
+      "value": "vending machine",
+      "options": [
+        "洗濯機",
+        "自動販売機",
+        "ゲーム機",
+        "コピー機"
+      ],
+      "correctAnswer": "自動販売機",
+      "explanation": "「vending machine」は、お金を投入することで商品（飲み物、お菓子、タバコなど）を自動的に販売する機械です。公共の場所やオフィス、学校などに設置されていることが多いです。"
+    },
+    {
+      "id": 19,
+      "value": "energy drink",
+      "options": [
+        "スポーツドリンク",
+        "エナジードリンク",
+        "炭酸飲料",
+        "スムージー"
+      ],
+      "correctAnswer": "エナジードリンク",
+      "explanation": "「energy drink」は、カフェインや糖分を多く含み、一時的に疲労感を軽減し、集中力を高める効果があるとされる飲料です。ただし、過剰摂取には注意が必要です。"
+    },
+    {
+      "id": 20,
+      "value": "Time passing montage",
+      "options": [
+        "時間の経過を示すモンタージュ",
+        "静止画",
+        "回想シーン",
+        "夢のシーン"
+      ],
+      "correctAnswer": "時間の経過を示すモンタージュ",
+      "explanation": "映画やテレビで、時間の経過を短縮して表現するために使用される一連の短いシーンやイメージの連続です。通常、音楽やナレーションが伴います。"
+    },
+    {
+      "id": 21,
+      "value": "get to it",
+      "options": [
+        "取り組む",
+        "終わらせる",
+        "避ける",
+        "忘れる"
+      ],
+      "correctAnswer": "取り組む",
+      "explanation": "「get to it」は、何か（特に仕事や課題）に取りかかる、着手するという意味の口語的な表現です。遅かれ早かれやらなければならないことに対して使われることが多いです。"
+    },
+    {
+      "id": 22,
+      "value": "voice",
+      "options": [
+        "声",
+        "手紙",
+        "ジェスチャー",
+        "音"
+      ],
+      "correctAnswer": "声",
+      "explanation": "ここでは、誰かの「声」を指しています。登場人物が誰かと会話している場面で、誰が話しているのかを示すために使われます。"
+    },
+    {
+      "id": 23,
+      "value": "wake up",
+      "options": [
+        "起きる",
+        "寝る",
+        "準備する",
+        "出かける"
+      ],
+      "correctAnswer": "起きる",
+      "explanation": "ここでは、「目を覚ます」という意味で使用されています。比喩的には、「もっと注意を払う」という意味にもなります。"
+    },
+    {
+      "id": 24,
+      "value": "put in",
+      "options": [
+        "入れる",
+        "費やす",
+        "取り出す",
+        "捨てる"
+      ],
+      "correctAnswer": "費やす",
+      "explanation": "ここでは、「時間や労力を費やす」という意味で使用されています。仕事やプロジェクトに時間やエネルギーを投入することを指します。"
+    },
+    {
+      "id": 25,
+      "value": "go",
+      "options": [
+        "行く",
+        "熱中する",
+        "遊ぶ",
+        "旅行する"
+      ],
+      "correctAnswer": "熱中する",
+      "explanation": "ここでは、「go on about」という句動詞の一部で、「熱中して話す」という意味で使用されています。特定の話や話題について、熱心に、またはくどくどと話し続ける様子を表します。"
+    },
+    {
+      "id": 26,
+      "value": "performance-enhancing",
+      "options": [
+        "能力を低下させる",
+        "能力を無視する",
+        "能力を改善する",
+        "能力を維持する"
+      ],
+      "correctAnswer": "能力を改善する",
+      "explanation": "「performance-enhancing」とは、能力向上を目的とした、という意味です。スポーツの世界でよく使われ、薬物やサプリメントなど、パフォーマンスを向上させる可能性のある物質や方法を指します。 例：performance-enhancing drugs（能力向上薬）。"
+    },
+    {
+      "id": 27,
+      "value": "on the house",
+      "options": [
+        "家の中で",
+        "無料で",
+        "屋根の上で",
+        "秘密に"
+      ],
+      "correctAnswer": "無料で",
+      "explanation": "「on the house」とは、レストランやバーなどで、店側が客に無料で何かを提供することを意味するイディオムです。サービスや好意として提供される場合に用いられます。 例：The drinks are on the house tonight. (今夜は飲み物は店のおごりです。)"
+    },
+    {
+      "id": 28,
+      "value": "get rid of",
+      "options": [
+        "手に入れる",
+        "取り除く",
+        "修理する",
+        "隠す"
+      ],
+      "correctAnswer": "取り除く",
+      "explanation": "「get rid of」とは、不要なものや好ましくないものを処分したり、取り除いたりすることを意味するイディオムです。物理的なものだけでなく、抽象的なものにも使えます。 例：I need to get rid of these old clothes. (これらの古い服を処分する必要がある。)"
+    },
+    {
+      "id": 29,
+      "value": "worrisome",
+      "options": [
+        "心配な",
+        "面白い",
+        "簡単な",
+        "重要な"
+      ],
+      "correctAnswer": "心配な",
+      "explanation": "「worrisome」とは、心配を引き起こす、不安にさせるという意味の形容詞です。何かが問題や懸念の原因となる可能性があることを示します。 例：The rising crime rate is worrisome. (犯罪率の上昇は心配だ。)"
+    },
+    {
+      "id": 30,
+      "value": "ship off",
+      "options": [
+        "船で送る",
+        "急いで作る",
+        "追い払う",
+        "飾る"
+      ],
+      "correctAnswer": "追い払う",
+      "explanation": "「ship off」とは、人や物をある場所から別の場所へ送る、特に望ましくない状況から遠ざけるという意味の句動詞です。しばしば、人が予期せず、または望まない状況で送られることを指します。 例：They shipped him off to boarding school. (彼らは彼を寄宿学校へ送った。)"
+    },
+    {
+      "id": 31,
+      "value": "intimate",
+      "options": [
+        "無効な",
+        "親密な",
+        "敵意のある",
+        "退屈な"
+      ],
+      "correctAnswer": "親密な",
+      "explanation": "「intimate」とは、親密な、個人的な、または深い関係にあるという意味の形容詞です。人との関係、雰囲気、場所など、様々なものに使われます。 例：They had an intimate conversation. (彼らは親密な会話をした。)"
+    },
+    {
+      "id": 32,
+      "value": "to quote",
+      "options": [
+        "引用すると",
+        "要約すると",
+        "解釈すると",
+        "無視すると"
+      ],
+      "correctAnswer": "引用すると",
+      "explanation": "「to quote」とは、他の人の言葉をそのまま引用する際に使われる表現です。発言や文章の正確な出所を示すために用いられます。 例：To quote Shakespeare, “To be or not to be, that is the question.” (シェイクスピアを引用すると、「生きるべきか死ぬべきか、それが問題だ。」)"
+    },
+    {
+      "id": 33,
+      "value": "claim",
+      "options": [
+        "要求する",
+        "否定する",
+        "隠す",
+        "避ける"
+      ],
+      "correctAnswer": "要求する",
+      "explanation": "「claim」とは、権利や所有権を主張する、または事実であると主張するという意味の動詞です。証拠や根拠を伴う場合も、伴わない場合もあります。 例：He claimed that he was innocent. (彼は自分が無罪だと主張した。)"
+    },
+    {
+      "id": 34,
+      "value": "mingle",
+      "options": [
+        "分離する",
+        "混ぜる",
+        "急ぐ",
+        "恐れる"
+      ],
+      "correctAnswer": "混ぜる",
+      "explanation": "「mingle」とは、社交的な場で人々が互いに交流し、親睦を深めるという意味の動詞です。パーティーやイベントなどで、様々な人と話したり、一緒に時間を過ごしたりする状況を指します。 例：She mingled with the guests at the party. (彼女はパーティーでゲストと交流した。)"
+    },
+    {
+      "id": 35,
+      "value": "a bust",
+      "options": [
+        "大成功",
+        "失敗",
+        "秘密",
+        "休憩"
+      ],
+      "correctAnswer": "失敗",
+      "explanation": "「a bust」とは、試みが失敗に終わること、または期待外れの結果になることを意味する口語的な表現です。イベントや計画などがうまくいかなかった場合に用いられます。 例：The party was a bust. (パーティーは失敗だった。)"
+    },
+    {
+      "id": 36,
+      "value": "campus",
+      "options": [
+        "都市",
+        "大学の敷地",
+        "オフィス",
+        "農場"
+      ],
+      "correctAnswer": "大学の敷地",
+      "explanation": "「campus」とは、大学や専門学校などの敷地、または構内を意味する名詞です。建物、グラウンド、図書館などが含まれます。 例：The campus is beautiful in the spring. (春のキャンパスは美しい。)"
+    },
+    {
+      "id": 37,
+      "value": "break for",
+      "options": [
+        "軽視する",
+        "中断する",
+        "継続する",
+        "攻撃する"
+      ],
+      "correctAnswer": "中断する",
+      "explanation": "「break for」とは、休憩のために一時的に活動を中断することを意味する句動詞です。食事や休息のために作業を中断する際に用いられます。 例：Let's break for lunch. (昼食のために休憩しましょう。)"
+    },
+    {
+      "id": 38,
+      "value": "vending machine",
+      "options": [
+        "洗濯機",
+        "自動販売機",
+        "タイムマシン",
+        "料理マシン"
+      ],
+      "correctAnswer": "自動販売機",
+      "explanation": "「vending machine」とは、コインや紙幣を投入することで商品を購入できる自動販売機のことです。飲料、スナック、切符など、様々な商品が販売されています。 例：There's a vending machine down the hall. (廊下の先に自動販売機があります。)"
+    },
+    {
+      "id": 39,
+      "value": "spare room",
+      "options": [
+        "予備の部屋",
+        "隠し部屋",
+        "特別な部屋",
+        "ゲーム部屋"
+      ],
+      "correctAnswer": "予備の部屋",
+      "explanation": "「spare room」とは、予備の部屋、空き部屋という意味です。来客用や物置として使われることが多いです。 例：We turned the spare room into a home office. (私たちは予備の部屋をホームオフィスに変えました。)"
+    },
+    {
+      "id": 40,
+      "value": "duct taping",
+      "options": [
+        "掃除機で掃除する",
+        "ダクトテープで固定する",
+        "絵を描く",
+        "料理をする"
+      ],
+      "correctAnswer": "ダクトテープで固定する",
+      "explanation": "「duct taping」とは、ダクトテープを使って何かを固定したり、修理したりする行為を指します。ダクトテープは非常に強力な粘着力を持つテープで、様々な用途に使われます。 例：He was duct taping the wires together. (彼はワイヤーをダクトテープで固定していた。)"
+    },
+    {
+      "id": 41,
+      "value": "to have superpowers",
+      "options": [
+        "昼寝をする",
+        "超能力を持つ",
+        "料理の才能がある",
+        "運動神経が良い"
+      ],
+      "correctAnswer": "超能力を持つ",
+      "explanation": "「to have superpowers」とは、超能力を持つ、という意味です。映画やコミックによく出てくる表現です。 例：Superman has superpowers. (スーパーマンは超能力を持っている。)"
+    },
+    {
+      "id": 42,
+      "value": "tone",
+      "options": [
+        "色",
+        "音色",
+        "口調",
+        "雰囲気"
+      ],
+      "correctAnswer": "口調",
+      "explanation": "「tone」とは、話し方や文章における口調や語調を指します。感情や態度を伝える重要な要素です。 例：Her tone was sarcastic. (彼女の口調は皮肉っぽかった。)"
+    },
+    {
+      "id": 43,
+      "value": "gonna",
+      "options": [
+        "既にした",
+        "する予定",
+        "するべき",
+        "したい"
+      ],
+      "correctAnswer": "する予定",
+      "explanation": "「gonna」とは、「going to」の口語的な短縮形で、「～するつもり」や「～する予定」という意味を表します。日常会話でよく使われます。 例：I'm gonna go to the store. (私は店に行くつもりです。)"
+    },
+    {
+      "id": 44,
+      "value": "actually",
+      "options": [
+        "絶対に",
+        "実際には",
+        "完全に",
+        "一般的に"
+      ],
+      "correctAnswer": "実際には",
+      "explanation": "「actually」とは、「実際には」「実は」という意味の副詞です。相手の予想や認識と異なる事実を伝える際に使われます。 例：Actually, I don't like coffee. (実は、私はコーヒーが好きではありません。)"
+    },
+    {
+      "id": 45,
+      "value": "better",
+      "options": [
+        "悪い",
+        "良い",
+        "最高",
+        "普通"
+      ],
+      "correctAnswer": "良い",
+      "explanation": "「better」とは、「より良い」「より優れている」という意味の形容詞または副詞です。「good」や「well」の比較級です。 例：This is better than that. (これはあれよりも良い。)"
+    },
+    {
+      "id": 46,
+      "value": "spin class",
+      "options": [
+        "料理教室",
+        "ヨガ教室",
+        "室内自転車教室",
+        "ダンス教室"
+      ],
+      "correctAnswer": "室内自転車教室",
+      "explanation": "「spin class」とは、音楽に合わせて室内自転車を漕ぐエクササイズのクラスです。運動強度が高く、全身運動になります。 例：I go to spin class three times a week. (私は週に3回、スピンクラスに行きます。)"
+    },
+    {
+      "id": 47,
+      "value": "fantastic",
+      "options": [
+        "退屈",
+        "普通",
+        "ひどい",
+        "素晴らしい"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「fantastic」とは、「素晴らしい」「最高の」という意味の形容詞です。非常に良い状態や感情を表します。 例：I had a fantastic time. (私は素晴らしい時間を過ごしました。)"
+    },
+    {
+      "id": 48,
+      "value": "thumb",
+      "options": [
+        "手のひら",
+        "腕",
+        "肘",
+        "親指"
+      ],
+      "correctAnswer": "親指",
+      "explanation": "「thumb」とは、「親指」という意味の名詞です。指相撲（thumb wrestling）などでよく使われる単語です。 例：He hurt his thumb. (彼は親指を怪我した。)"
+    },
+    {
+      "id": 49,
+      "value": "worst",
+      "options": [
+        "最高",
+        "普通",
+        "最低",
+        "良い"
+      ],
+      "correctAnswer": "最低",
+      "explanation": "「worst」とは、「最も悪い」「最低の」という意味の形容詞または副詞です。「bad」や「badly」の最上級です。 例：This is the worst movie I've ever seen. (これは今まで見た中で最悪の映画だ。)"
+    },
+    {
+      "id": 50,
+      "value": "cuckoo clock",
+      "options": [
+        "キッチンタイマー",
+        "鳩時計",
+        "砂時計",
+        "ストップウォッチ"
+      ],
+      "correctAnswer": "鳩時計",
+      "explanation": "「cuckoo clock」とは、「鳩時計」という意味の名詞です。時間になるとカッコーの鳴き声で時を告げる時計です。 例：The cuckoo clock struck noon. (鳩時計が正午を告げた。)"
+    },
+    {
+      "id": 51,
+      "value": "craving",
+      "options": [
+        "嫌悪感",
+        "欲求",
+        "満足感",
+        "無関心"
+      ],
+      "correctAnswer": "欲求",
+      "explanation": "「craving」は、何かを強く欲すること、特に物質的なものや習慣的な行動に対する強い欲求を指します。依存症の文脈でよく使われますが、日常的な欲求にも使えます。例：I have a craving for chocolate. (チョコレートがどうしても食べたい。)"
+    },
+    {
+      "id": 52,
+      "value": "chemical dependency",
+      "options": [
+        "化学的独立",
+        "化学的依存",
+        "化学反応",
+        "化学物質過敏症"
+      ],
+      "correctAnswer": "化学的依存",
+      "explanation": "「chemical dependency」は、特定の化学物質に対する依存状態を指します。薬物やアルコールなど、摂取しないと身体的または精神的な苦痛を感じる状態を意味します。より一般的には「依存症」と呼ばれます。例：He is struggling with chemical dependency. (彼は薬物依存に苦しんでいます。)"
+    },
+    {
+      "id": 53,
+      "value": "exposure",
+      "options": [
+        "露出",
+        "暴露",
+        "隠蔽",
+        "保護"
+      ],
+      "correctAnswer": "暴露",
+      "explanation": "「exposure」は、何かにさらされること、接触することを意味します。ここでは、ある物質（Pringles）に一度さらされただけで依存症になる可能性があるという文脈で使用されています。例：Repeated exposure to the sun can cause skin damage. (繰り返し日光にさらされると、皮膚に損傷を与える可能性があります。)"
+    },
+    {
+      "id": 54,
+      "value": "addictive",
+      "options": [
+        "中毒性がある",
+        "中毒性がない",
+        "有益な",
+        "無害な"
+      ],
+      "correctAnswer": "中毒性がある",
+      "explanation": "「addictive」は、中毒性がある、習慣になりやすいという意味です。ここでは、crack cocaine, nicotine, Pringles が中毒性のあるものの例として挙げられています。例：This game is highly addictive. (このゲームは非常に中毒性があります。)"
+    },
+    {
+      "id": 55,
+      "value": "haul off and whup",
+      "options": [
+        "急いで立ち去る",
+        "殴り倒す",
+        "優しく抱きしめる",
+        "冷静に話し合う"
+      ],
+      "correctAnswer": "殴り倒す",
+      "explanation": "「whup」は「whack」と同じように、叩く、打ち負かすという意味のスラングです。「haul off and whup the crazy out of him」は、彼の中の狂気を叩き出す、つまり荒療治で正気に戻すという意味合いです。口語的な表現です。例：I'm so angry I could haul off and whup him. (彼を殴り倒してやりたいくらい腹が立っている。)"
+    },
+    {
+      "id": 56,
+      "value": "time crunch",
+      "options": [
+        "時間的余裕",
+        "時間的制約",
+        "経済的危機",
+        "精神的負担"
+      ],
+      "correctAnswer": "時間的制約",
+      "explanation": "「time crunch」は、時間的な制約、時間的猶予がない状態を指します。プロジェクトやタスクを完了させるための時間が非常に限られている状況を表します。例：We are under a time crunch to finish this project. (このプロジェクトを終えるために時間的な制約を受けています。)"
+    },
+    {
+      "id": 57,
+      "value": "pull it together",
+      "options": [
+        "バラバラにする",
+        "まとめる",
+        "無視する",
+        "放棄する"
+      ],
+      "correctAnswer": "まとめる",
+      "explanation": "「pull oneself together」は、落ち着きを取り戻す、感情をコントロールするという意味のイディオムです。困難な状況や感情的な動揺の後で、自分自身を立て直すことを指します。例：After the bad news, she needed a moment to pull herself together. (悪い知らせの後、彼女は落ち着きを取り戻す必要がありました。)"
+    },
+    {
+      "id": 58,
+      "value": "bear with me",
+      "options": [
+        "私に耐える",
+        "私を支持する",
+        "私を無視する",
+        "私を責める"
+      ],
+      "correctAnswer": "私を支持する",
+      "explanation": "「bear with me」は、しばらくの間我慢してほしい、辛抱してほしいという意味の表現です。相手に迷惑をかけるかもしれない状況で、理解と協力を求める際に使います。例：Please bear with me while I try to fix this problem. (この問題を解決しようとしている間、どうかご辛抱ください。)"
+    },
+    {
+      "id": 59,
+      "value": "withdrawal",
+      "options": [
+        "引き出し",
+        "撤退",
+        "禁断症状",
+        "参加"
+      ],
+      "correctAnswer": "禁断症状",
+      "explanation": "「withdrawal」は、禁断症状、離脱症状という意味です。ここでは、カフェインの摂取を中断したことによる禁断症状を指しています。薬物やアルコールなどの依存性物質の使用を中止した際に現れる身体的・精神的な症状を指します。例：He experienced severe withdrawal symptoms when he stopped taking the medication. (彼は薬の服用をやめたとき、重度の禁断症状を経験しました。)"
+    },
+    {
+      "id": 60,
+      "value": "flipped out",
+      "options": [
+        "冷静になった",
+        "取り乱した",
+        "喜んだ",
+        "悲しんだ"
+      ],
+      "correctAnswer": "取り乱した",
+      "explanation": "「flip out」は、激しく怒る、取り乱す、興奮するという意味のスラングです。ここでは、Bernadetteが感情的に取り乱したことを表しています。例：He flipped out when he heard the news. (彼はそのニュースを聞いて取り乱した。)"
+    },
+    {
+      "id": 61,
+      "value": "double as",
+      "options": [
+        "倍増する",
+        "二役をこなす",
+        "半分になる",
+        "隠される"
+      ],
+      "correctAnswer": "二役をこなす",
+      "explanation": "「double as」は、二つの役割を果たす、兼ねるという意味です。ここでは、Bernadetteの子供部屋が父親のオフィスも兼ねていたことを表しています。例：This sofa can double as a bed. (このソファはベッドとしても使えます。)"
+    },
+    {
+      "id": 62,
+      "value": "trend setter",
+      "options": [
+        "流行の仕掛け人",
+        "流行に乗り遅れる人",
+        "伝統を守る人",
+        "目立たない人"
+      ],
+      "correctAnswer": "流行の仕掛け人",
+      "explanation": "「trendsetter」は、流行の仕掛け人、流行の先駆けという意味です。新しいスタイルやアイデアを最初に広める人を指します。例：She is a trendsetter in the fashion industry. (彼女はファッション業界の流行の仕掛け人です。)"
+    },
+    {
+      "id": 63,
+      "value": "wore me down",
+      "options": [
+        "私を着飾った",
+        "私を疲れさせた",
+        "私を元気づけた",
+        "私を無視した"
+      ],
+      "correctAnswer": "私を疲れさせた",
+      "explanation": "「wear someone down」は、人を疲れさせる、うんざりさせる、根負けさせるという意味です。ここでは、LeonardがPennyを根負けさせて結婚に至ったというニュアンスで使われています。例：His constant nagging wore me down. (彼の絶え間ない小言に私は疲れ果てた。)"
+    },
+    {
+      "id": 64,
+      "value": "stick together",
+      "options": [
+        "くっつく",
+        "団結する",
+        "離れる",
+        "争う"
+      ],
+      "correctAnswer": "団結する",
+      "explanation": "「stick together」は、団結する、協力するという意味です。ここでは、人気のある女の子たちはいつも一緒にいるというステレオタイプなイメージを表しています。例：We need to stick together to get through this difficult time. (この困難な時期を乗り越えるためには、団結する必要があります。)"
+    },
+    {
+      "id": 65,
+      "value": "get my life back on track",
+      "options": [
+        "人生を軌道に乗せる",
+        "人生から脱線する",
+        "人生をやり直す",
+        "人生を諦める"
+      ],
+      "correctAnswer": "人生を軌道に乗せる",
+      "explanation": "「get one's life back on track」は、人生を軌道に乗せる、元の状態に戻すという意味です。ここでは、カフェイン依存の問題（だとSheldonが思っている）から立ち直り、元の生活に戻ることを指しています。例：After struggling with addiction, he's trying to get his life back on track. (依存症に苦しんだ後、彼は人生を軌道に乗せようとしています。)"
+    },
+    {
+      "id": 66,
+      "value": "throw oneself into",
+      "options": [
+        "身を投げる",
+        "熱中する",
+        "避ける",
+        "批判する"
+      ],
+      "correctAnswer": "熱中する",
+      "explanation": "「throw oneself into」は、何かに熱中する、没頭するという意味です。ここでは、仕事に打ち込むことでカフェインの問題から気を紛らわせるという提案がされています。例：She threw herself into her work after the breakup. (彼女は別れの後に仕事に没頭しました。)"
+    },
+    {
+      "id": 67,
+      "value": "painful to watch",
+      "options": [
+        "見ていて楽しい",
+        "見ていてつらい",
+        "見ていて退屈",
+        "見ていて感動する"
+      ],
+      "correctAnswer": "見ていてつらい",
+      "explanation": "「painful to watch」は、見ていてつらい、見ていられないという意味です。ここでは、SheldonとLeonardのぎこちないやり取りを見て、Howardがつらいと感じていることを表しています。例：It was painful to watch him struggle with the difficult task. (彼が困難なタスクに苦労しているのを見るのはつらかった。)"
+    },
+    {
+      "id": 68,
+      "value": "Thelma and Louise",
+      "options": [
+        "冒険好きな二人組",
+        "家にこもる二人組",
+        "静かな生活を送る二人組",
+        "犯罪を繰り返す二人組"
+      ],
+      "correctAnswer": "冒険好きな二人組",
+      "explanation": "「Thelma and Louise」は、1991年のアメリカ映画のタイトルで、自由を求めて旅に出る女性二人組を描いた作品です。ここでは、RajとBernadetteがどこへ行くかも決めずに車で出かける様子を、映画になぞらえて表現しています。例：They decided to take a road trip, feeling like Thelma and Louise. (彼らはロードトリップに出かけることに決め、まるでテルマ&ルイーズのような気分だった。)"
+    },
+    {
+      "id": 69,
+      "value": "spring to mind",
+      "options": [
+        "心に浮かぶ",
+        "忘れ去られる",
+        "現実になる",
+        "否定される"
+      ],
+      "correctAnswer": "心に浮かぶ",
+      "explanation": "「spring to mind」は、ふと心に浮かぶ、思い浮かぶという意味です。ここでは、Bernadetteが子供の頃に見ていた犯罪現場の写真が、彼女の育児に対する不安の原因としてRajの頭に浮かんだことを表しています。例：The first thing that springs to mind when I think of summer is the beach. (夏と聞いて最初に思い浮かぶのはビーチです。)"
+    },
+    {
+      "id": 70,
+      "value": "overthinking",
+      "options": [
+        "考えすぎ",
+        "無思考",
+        "楽観的思考",
+        "現実的思考"
+      ],
+      "correctAnswer": "考えすぎ",
+      "explanation": "「overthinking」は、考えすぎること、考えすぎる傾向があることを指します。ここでは、Bernadetteが母親になることについて深く考えすぎていることを表しています。例：I tend to overthink things when I'm stressed. (ストレスを感じると、私は物事を考えすぎる傾向があります。)"
+    },
+    {
+      "id": 71,
+      "value": "maternal instincts",
+      "options": [
+        "母性本能",
+        "父性本能",
+        "競争心",
+        "利己心"
+      ],
+      "correctAnswer": "母性本能",
+      "explanation": "「maternal instincts」は、母性本能、母親としての本能的な感情や行動を指します。ここでは、Bernadetteが自分に母性本能があるかどうか不安に思っていることを表しています。例：She has strong maternal instincts and loves taking care of children. (彼女は強い母性本能を持っており、子供の世話をするのが大好きです。)"
+    },
+    {
+      "id": 72,
+      "value": "well-fed",
+      "options": [
+        "栄養満点",
+        "空腹",
+        "肥満",
+        "飢餓"
+      ],
+      "correctAnswer": "栄養満点",
+      "explanation": "「well-fed」は、栄養満点である、十分に食べさせられているという意味です。ここでは、Bernadetteの兄弟たちがクリケットを食べて幸せそうにしていたことを肯定的に解釈しています。例：The animals at the zoo are well-fed and healthy. (動物園の動物たちは栄養満点で健康です。)"
+    },
+    {
+      "id": 73,
+      "value": "stink",
+      "options": [
+        "良い匂い",
+        "悪い匂い",
+        "普通",
+        "無臭"
+      ],
+      "correctAnswer": "悪い匂い",
+      "explanation": "「stink」は、臭い、ひどい、嫌だという意味のスラングです。ここでは、カフェインが切れてイライラしているSheldonが、周りの人を罵倒する際に使っています。例：This whole situation stinks! (この状況全体が最悪だ！)"
+    },
+    {
+      "id": 74,
+      "value": "on track",
+      "options": [
+        "順調",
+        "遅延",
+        "中断",
+        "停止"
+      ],
+      "correctAnswer": "順調",
+      "explanation": "「on track」は、順調に進んでいる、軌道に乗っているという意味です。計画や目標に向かって順調に進んでいる状態を表します。例：The project is on track to be completed by the end of the month. (プロジェクトは月末までに完了する予定で、順調に進んでいます。)"
+    },
+    {
+      "id": 75,
+      "value": "crime-scene photos",
+      "options": [
+        "犯罪現場写真",
+        "ポートレート写真",
+        "風景写真",
+        "家族写真"
+      ],
+      "correctAnswer": "犯罪現場写真",
+      "explanation": "「crime-scene photos」は、犯罪現場写真のことです。Bernadetteの子供部屋に飾られていたという設定で、彼女の育児に対する不安の背景にあるものとして言及されています。例：The detective examined the crime-scene photos carefully. (刑事は犯罪現場の写真を注意深く調べた。)"
+    },
+    {
+      "id": 76,
+      "value": "rotational symmetries",
+      "options": [
+        "回転対象",
+        "反転対称",
+        "並進対称",
+        "点対称"
+      ],
+      "correctAnswer": "回転対象",
+      "explanation": "「rotational symmetries」とは、ある図形を回転させたときに、元の図形と完全に一致する性質のことです。物理学や数学でよく用いられ、特に結晶構造や分子構造の解析に使われます。例えば、正三角形は120度回転させると元の形に戻るので、回転対称性を持つと言えます。"
+    },
+    {
+      "id": 77,
+      "value": "weaning myself off",
+      "options": [
+        "完全に止める",
+        "徐々に減らす",
+        "増やす",
+        "我慢する"
+      ],
+      "correctAnswer": "徐々に減らす",
+      "explanation": "「wean off」は、何か（習慣、薬など）を徐々に減らしていく、または止めるという意味です。特に、依存性のあるものを減らす際に使われます。子供の離乳にも使われます。例文：I'm trying to wean myself off coffee. (コーヒーを徐々に減らそうとしています。)"
+    },
+    {
+      "id": 78,
+      "value": "suppository",
+      "options": [
+        "座薬",
+        "錠剤",
+        "カプセル",
+        "注射"
+      ],
+      "correctAnswer": "座薬",
+      "explanation": "「suppository」は、体腔（直腸、膣など）に挿入して使用する薬の剤形です。経口投与が難しい場合や、局所的な効果を期待する場合に使用されます。例文：The doctor prescribed a suppository for the fever. (医者は熱のために座薬を処方した。)"
+    },
+    {
+      "id": 79,
+      "value": "easy-glide applicator",
+      "options": [
+        "簡易塗布器",
+        "注入器",
+        "吸引器",
+        "噴霧器"
+      ],
+      "correctAnswer": "簡易塗布器",
+      "explanation": "「easy-glide applicator」は、滑らかに挿入できるように設計された塗布器のことです。主に医薬品や化粧品で使用され、スムーズな使用感を目的としています。性交時にも使用されることがあります。"
+    },
+    {
+      "id": 80,
+      "value": "racking my brain",
+      "options": [
+        "頭を冷やす",
+        "記憶を辿る",
+        "頭を悩ませる",
+        "休憩する"
+      ],
+      "correctAnswer": "頭を悩ませる",
+      "explanation": "「rack one's brain」は、懸命に考える、頭を絞るという意味のイディオムです。難問を解決しようと必死に努力する状況を表します。例文：I've been racking my brain trying to remember his name. (彼の名前を思い出そうとずっと頭を悩ませている。)"
+    },
+    {
+      "id": 81,
+      "value": "take (someone) for granite",
+      "options": [
+        "当然のことと思う",
+        "尊敬する",
+        "無視する",
+        "利用する"
+      ],
+      "correctAnswer": "当然のことと思う",
+      "explanation": "「take (someone) for granted」は、人や物を当然のことと思って感謝しない、という意味のイディオムです。「granite」と「granted」をかけたジョークとして使われています。例文：I never take my family for granted.（家族を当然だとは思わない。）"
+    },
+    {
+      "id": 82,
+      "value": "rat (someone) out",
+      "options": [
+        "応援する",
+        "裏切る",
+        "密告する",
+        "助ける"
+      ],
+      "correctAnswer": "密告する",
+      "explanation": "「rat someone out」は、誰かを告げ口する、密告するという意味のスラングです。特に、秘密や悪事を暴露する際に使われます。例文：He ratted me out to the teacher. (彼は先生に僕のことを密告した。)"
+    },
+    {
+      "id": 83,
+      "value": "snitch",
+      "options": [
+        "泥棒",
+        "密告者",
+        "友人",
+        "医者"
+      ],
+      "correctAnswer": "密告者",
+      "explanation": "「snitch」は、密告者、チクリ屋という意味です。人を告げ口する人を指す軽蔑的な言葉です。例文：Nobody likes a snitch. (誰も密告者を好まない。)"
+    },
+    {
+      "id": 84,
+      "value": "dote on",
+      "options": [
+        "軽蔑する",
+        "甘やかす",
+        "無視する",
+        "嫉妬する"
+      ],
+      "correctAnswer": "甘やかす",
+      "explanation": "「dote on」は、溺愛する、甘やかすという意味です。特に愛情を込めて世話をする様子を表します。例文：She dotes on her grandchildren. (彼女は孫たちを溺愛している。)"
+    },
+    {
+      "id": 85,
+      "value": "thrilled",
+      "options": [
+        "悲しい",
+        "興奮した",
+        "怒った",
+        "退屈した"
+      ],
+      "correctAnswer": "興奮した",
+      "explanation": "「thrilled」は、非常に興奮した、わくわくしたという意味です。強い喜びや期待感を伴う感情を表します。例文：I was thrilled to hear the news. (そのニュースを聞いてとても興奮した。)"
+    },
+    {
+      "id": 86,
+      "value": "halfway around the world",
+      "options": [
+        "世界の中心で",
+        "世界の果てまで",
+        "世界の半分",
+        "世界のどこでも"
+      ],
+      "correctAnswer": "世界の半分",
+      "explanation": "「halfway around the world」は、地球の反対側、世界の果てまでという意味です。非常に遠い場所を指す際に用いられます。例文: He moved halfway around the world to start a new life.(彼は新しい生活を始めるために世界の果てへ引っ越した。)"
+    },
+    {
+      "id": 87,
+      "value": "deployability",
+      "options": [
+        "配置可能性",
+        "耐久性",
+        "安全性",
+        "効率性"
+      ],
+      "correctAnswer": "配置可能性",
+      "explanation": "「deployability」は、配備可能性、展開可能性という意味です。軍事用語やIT用語として使われ、迅速かつ効果的に配置・展開できる能力を指します。例文：The deployability of the new system is a key factor. (新しいシステムの配備可能性は重要な要素である。)"
+    },
+    {
+      "id": 88,
+      "value": "under contract",
+      "options": [
+        "契約違反",
+        "契約期間中",
+        "契約交渉中",
+        "契約解除"
+      ],
+      "correctAnswer": "契約期間中",
+      "explanation": "「under contract」は、契約下にある、契約期間中であるという意味です。法的な義務を伴う契約を結んでいる状態を表します。例文：We are under contract to deliver the goods by Friday. (金曜日までに商品を納品する契約を結んでいる。)"
+    },
+    {
+      "id": 89,
+      "value": "violating that",
+      "options": [
+        "それを守る",
+        "それを破る",
+        "それを修正する",
+        "それを隠す"
+      ],
+      "correctAnswer": "それを破る",
+      "explanation": "「violate」は、法律、規則、契約などを破る、違反するという意味です。例文：Violating the terms of the contract can result in penalties.(契約条件に違反すると、罰則が科せられる可能性があります。)"
+    },
+    {
+      "id": 90,
+      "value": "deliver on time",
+      "options": [
+        "時間通りに配達する",
+        "時間通りに到着する",
+        "時間通りに完了する",
+        "時間を守る"
+      ],
+      "correctAnswer": "時間通りに完了する",
+      "explanation": "「deliver on time」は、約束の時間通りに何かを達成する、完了するという意味です。ビジネスシーンでよく使われます。例文：We must deliver the project on time. (プロジェクトを時間通りに完了させなければならない。)"
+    },
+    {
+      "id": 91,
+      "value": "beat the commies",
+      "options": [
+        "共産主義者を助ける",
+        "共産主義者に打ち勝つ",
+        "共産主義者と協力する",
+        "共産主義者を見捨てる"
+      ],
+      "correctAnswer": "共産主義者に打ち勝つ",
+      "explanation": "「beat the commies」は、共産主義者に打ち勝つという意味のスラングです。冷戦時代によく使われた表現で、特にアメリカで共産主義に対抗する姿勢を示す際に用いられました。「commies」は「communists」の略です。"
+    },
+    {
+      "id": 92,
+      "value": "pressure's off",
+      "options": [
+        "プレッシャーが増した",
+        "プレッシャーが軽減された",
+        "プレッシャーを感じない",
+        "プレッシャーに耐える"
+      ],
+      "correctAnswer": "プレッシャーが軽減された",
+      "explanation": "「pressure's off」は、プレッシャーがなくなった、肩の荷が下りたという意味です。目標達成のプレッシャーから解放された状態を表します。例文：Now that the deadline has been extended, the pressure's off. (締め切りが延長されたので、プレッシャーがなくなった。)"
+    },
+    {
+      "id": 93,
+      "value": "mind-boosting",
+      "options": [
+        "精神安定",
+        "知力増強",
+        "記憶力向上",
+        "集中力強化"
+      ],
+      "correctAnswer": "知力増強",
+      "explanation": "「mind-boosting」は、知力を高める、頭の働きを良くするという意味です。能力向上を謳う商品などでよく使われる表現です。例文：a mind-boosting supplement (知力増強サプリメント)"
+    },
+    {
+      "id": 94,
+      "value": "in steps",
+      "options": [
+        "完全に",
+        "段階的に",
+        "同時に",
+        "急に"
+      ],
+      "correctAnswer": "段階的に",
+      "explanation": "「in steps」は、段階的に、少しずつという意味です。ある目標に向かって、一歩ずつ進む様子を表します。例文：The process was completed in steps. (そのプロセスは段階的に完了した。)"
+    },
+    {
+      "id": 95,
+      "value": "figure out",
+      "options": [
+        "理解する",
+        "無視する",
+        "忘れる",
+        "拒否する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」は、理解する、解明するという意味の句動詞です。問題や状況を分析し、解決策を見つける際に使われます。例文：I can't figure out how to solve this puzzle. (このパズルをどう解けばいいのかわからない。)"
+    },
+    {
+      "id": 96,
+      "value": "tub",
+      "options": [
+        "チューブ",
+        "桶",
+        "箱",
+        "袋"
+      ],
+      "correctAnswer": "桶",
+      "explanation": "「tub」は、桶、容器という意味です。食品や液体などを入れるための円筒形の容器を指します。例文: a tub of ice cream (アイスクリームの桶)"
+    },
+    {
+      "id": 97,
+      "value": "By the way",
+      "options": [
+        "ちなみに",
+        "反対に",
+        "それから",
+        "要するに"
+      ],
+      "correctAnswer": "ちなみに",
+      "explanation": "「By the way」は、ちなみに、ところで、という意味の副詞句です。会話の流れを変えたり、話題を転換する際に使われます。例文：By the way, did you hear about...? (ちなみに、～について聞きましたか？)"
+    },
+    {
+      "id": 98,
+      "value": "OBGYN",
+      "options": [
+        "眼科医",
+        "産婦人科医",
+        "整形外科医",
+        "小児科医"
+      ],
+      "correctAnswer": "産婦人科医",
+      "explanation": "「OBGYN」は、産婦人科医（Obstetrician-Gynecologist）の略語です。妊娠、出産、女性の生殖器に関する医療を専門とする医師を指します。例文：She went to see her OBGYN for a checkup. (彼女は検診のために産婦人科医に診てもらった。)"
+    },
+    {
+      "id": 99,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "元気ですか？",
+        "どこに行くの？",
+        "何をしているの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、どうしたの？、何かあった？、元気？という意味のカジュアルな挨拶です。親しい間柄で使われます。例文：Hey, what's up? (やあ、どうしたの？)"
+    },
+    {
+      "id": 100,
+      "value": "guarantee",
+      "options": [
+        "保証",
+        "脅迫",
+        "提案",
+        "拒否"
+      ],
+      "correctAnswer": "保証",
+      "explanation": "「guarantee」は、保証、約束、確約という意味です。何かが起こることを確信する、または保証する際に使われます。例文：There is no guarantee that the plan will work. (その計画がうまくいくという保証はない。)"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "soften the blow",
+      "options": [
+        "衝撃を和らげる",
+        "機会をうかがう",
+        "強みを弱める",
+        "弱点を強める"
+      ],
+      "correctAnswer": "衝撃を和らげる",
+      "explanation": "「soften the blow」とは、悪い知らせや不快な状況を伝える際に、相手が受ける精神的な打撃を和らげるという意味です。直接的な表現を避けたり、前置きを置いたりすることで、相手がショックを受けないように配慮する際に用いられます。例：I tried to soften the blow by telling her that the company was restructuring before announcing her layoff. (彼女の解雇を発表する前に、会社がリストラ中であることを伝えることで、衝撃を和らげようとしました。)"
+    },
+    {
+      "id": 2,
+      "value": "scoop",
+      "options": [
+        "秘密裏に報道する",
+        "出し抜く",
+        "すくい上げる",
+        "独占する"
+      ],
+      "correctAnswer": "出し抜く",
+      "explanation": "「scoop」は、他者よりも早く情報を入手し、それを公表することで、他者を出し抜くという意味です。特にジャーナリズムや研究の分野で、競争相手に先んじることを指します。 例：The newspaper scooped its rivals by publishing the leaked documents. (その新聞は、リークされた文書を掲載することで、競合他社を出し抜きました。)"
+    },
+    {
+      "id": 3,
+      "value": "on back order",
+      "options": [
+        "優先的に",
+        "在庫切れで予約受付中",
+        "返品可能",
+        "特別注文で"
+      ],
+      "correctAnswer": "在庫切れで予約受付中",
+      "explanation": "「on back order」とは、在庫がないために注文を受け付け、入荷次第発送するという意味です。商品が一時的に品切れの状態であることを示し、顧客は商品が入荷するまで待つ必要があります。例：The popular toy is currently on back order due to high demand. (その人気のおもちゃは、需要が高いため現在予約受付中です。)"
+    },
+    {
+      "id": 4,
+      "value": "bring out",
+      "options": [
+        "明らかにする",
+        "引き出す",
+        "作り出す",
+        "持ち出す"
+      ],
+      "correctAnswer": "引き出す",
+      "explanation": "「bring out」は、何かの良い面や特徴を引き出すという意味です。人の才能や物の美しさを強調する際に使われます。例：That dress really brings out the color of your eyes. (そのドレスはあなたの目の色をとても引き立てます。)"
+    },
+    {
+      "id": 5,
+      "value": "in reserve",
+      "options": [
+        "予備として",
+        "展示されて",
+        "販売用",
+        "使用禁止"
+      ],
+      "correctAnswer": "予備として",
+      "explanation": "「in reserve」とは、必要になった時に使えるように、何かを予備として取っておくという意味です。緊急時や不足した場合に備えて、資源や人員などを確保しておく状況を指します。例：The company keeps a certain amount of money in reserve for unexpected expenses. (その会社は、予期せぬ出費に備えて一定の金額を予備として確保しています。)"
+    },
+    {
+      "id": 6,
+      "value": "shortage",
+      "options": [
+        "不足",
+        "余剰",
+        "変化",
+        "供給"
+      ],
+      "correctAnswer": "不足",
+      "explanation": "「shortage」とは、必要な量や期待される量に対して、供給が不足している状態を指します。資源、物資、人員など、様々なものが不足している状況を表すことができます。例：There is a severe shortage of nurses in the hospital. (その病院では看護師が深刻に不足しています。)"
+    },
+    {
+      "id": 7,
+      "value": "spare",
+      "options": [
+        "節約する",
+        "分け与える",
+        "無視する",
+        "探す"
+      ],
+      "correctAnswer": "分け与える",
+      "explanation": "「spare」は、余分にあるものや、必要としている人に分け与えることができるという意味です。時間、お金、物など、様々なものを分け与える際に使われます。例：Can you spare me a few minutes of your time? (少し時間を割いてもらえますか？)"
+    },
+    {
+      "id": 8,
+      "value": "if the shoe was on the other foot",
+      "options": [
+        "立場が逆だったら",
+        "靴が壊れていたら",
+        "足が疲れていたら",
+        "靴を履いていなかったら"
+      ],
+      "correctAnswer": "立場が逆だったら",
+      "explanation": "「if the shoe was on the other foot」とは、立場が逆だったら、状況が異なっていたらという意味です。相手の立場になって考えてみるように促す際に用いられます。例：If the shoe were on the other foot, I wonder if you would feel the same way. (もし立場が逆だったら、同じように感じるだろうか？)"
+    },
+    {
+      "id": 9,
+      "value": "the best policy",
+      "options": [
+        "最良の政策",
+        "正直が一番",
+        "秘密主義",
+        "変化を恐れないこと"
+      ],
+      "correctAnswer": "正直が一番",
+      "explanation": "「honesty is the best policy」とは、「正直は最良の策」という意味の英語の諺です。長期的に見ると、嘘をつくよりも正直である方が良い結果をもたらすという意味合いで使用されます。 例：I know it's hard to admit you were wrong, but honesty is the best policy. (間違っていたと認めるのは難しいと思いますが、正直が一番です。)"
+    },
+    {
+      "id": 10,
+      "value": "beat",
+      "options": [
+        "打ち負かす",
+        "鼓動する",
+        "混ぜる",
+        "回避する"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "「beat」は、競争や試合などで相手を打ち負かす、上回るという意味です。スポーツ、ゲーム、ビジネスなど、様々な分野で使われます。 例：Our team beat their team in the final game. (私たちのチームは決勝戦で相手チームを打ち負かしました。)"
+    },
+    {
+      "id": 11,
+      "value": "a shame",
+      "options": [
+        "残念なこと",
+        "素晴らしいこと",
+        "秘密",
+        "名誉"
+      ],
+      "correctAnswer": "残念なこと",
+      "explanation": "「a shame」とは、残念なこと、惜しいことという意味です。期待していたことや望ましい結果が得られなかった場合に、その気持ちを表す際に使われます。 例：It's a shame that you can't come to the party. (あなたがパーティーに来られないのは残念です。)"
+    },
+    {
+      "id": 12,
+      "value": "ask too many questions",
+      "options": [
+        "質問攻めにする",
+        "質問を避ける",
+        "質問に答える",
+        "質問を理解する"
+      ],
+      "correctAnswer": "質問攻めにする",
+      "explanation": "「ask too many questions」とは、尋問のように過度に質問をすることです。相手に不快感や疑念を与える可能性があります。例：If you ask too many questions, people might get suspicious. (質問攻めにすると、人々は疑いを持つかもしれません。)"
+    },
+    {
+      "id": 13,
+      "value": "go out on a date",
+      "options": [
+        "デートに行く",
+        "外出する",
+        "仕事を辞める",
+        "販売に出す"
+      ],
+      "correctAnswer": "デートに行く",
+      "explanation": "「go out on a date」とは、誰かとデートに行くという意味です。恋愛関係を築くために、一緒に時間を過ごすことを指します。例：They went out on a date last night. (彼らは昨夜デートに行きました。)"
+    },
+    {
+      "id": 14,
+      "value": "frame",
+      "options": [
+        "陥れる",
+        "組み立てる",
+        "額縁に入れる",
+        "計画する"
+      ],
+      "correctAnswer": "陥れる",
+      "explanation": "「frame」は、無実の人を犯罪などの罪に陥れるという意味です。証拠を捏造したり、状況を操作したりして、他人を不利な立場に追い込む行為を指します。 例：He claimed that he was framed by his enemies. (彼は敵によって陥れられたと主張しました。)"
+    },
+    {
+      "id": 15,
+      "value": "dating app",
+      "options": [
+        "デートアプリ",
+        "天気予報アプリ",
+        "料理アプリ",
+        "学習アプリ"
+      ],
+      "correctAnswer": "デートアプリ",
+      "explanation": "「dating app」とは、インターネットを通じて出会いを求めるためのアプリケーションです。プロフィールを作成し、相手を探したり、メッセージを交換したりすることができます。例：She met her boyfriend on a dating app. (彼女はデートアプリで彼氏と出会いました。)"
+    },
+    {
+      "id": 16,
+      "value": "swipe",
+      "options": [
+        "スワイプする",
+        "掃除する",
+        "盗む",
+        "交換する"
+      ],
+      "correctAnswer": "スワイプする",
+      "explanation": "「swipe」とは、スマートフォンなどのタッチスクリーン上で指を滑らせる操作のことです。特に、Tinderなどのアプリで、相手のプロフィールを左右にスワイプして評価する際に使われます。例：Swipe left to reject the profile. (プロフィールを拒否するには左にスワイプします。)"
+    },
+    {
+      "id": 17,
+      "value": "mention",
+      "options": [
+        "言及する",
+        "隠す",
+        "想像する",
+        "繰り返す"
+      ],
+      "correctAnswer": "言及する",
+      "explanation": "「mention」とは、何かについて言及する、軽く触れるという意味です。詳細な説明は避け、簡単に話題にする際に用いられます。例：I forgot to mention that I have a doctor's appointment tomorrow. (明日、医者の予約があることを言い忘れました。)"
+    },
+    {
+      "id": 18,
+      "value": "radius",
+      "options": [
+        "半径",
+        "直径",
+        "面積",
+        "周囲"
+      ],
+      "correctAnswer": "半径",
+      "explanation": "「radius」とは、円の中心から円周までの距離、つまり半径のことです。特定の場所からの距離を示す際によく使われます。 例：The restaurant is within a five-mile radius of my house. (そのレストランは私の家から半径5マイル以内にあります。)"
+    },
+    {
+      "id": 19,
+      "value": "thumbs up",
+      "options": [
+        "賛成",
+        "反対",
+        "保留",
+        "注意"
+      ],
+      "correctAnswer": "賛成",
+      "explanation": "「thumbs up」とは、親指を立てるジェスチャーで、賛成や承認、良い評価を表します。SNSなどでもよく使われる表現です。 例：I give this movie a thumbs up. (この映画に賛成します。)"
+    },
+    {
+      "id": 20,
+      "value": "thumbs down",
+      "options": [
+        "反対",
+        "賛成",
+        "中立",
+        "未評価"
+      ],
+      "correctAnswer": "反対",
+      "explanation": "「thumbs down」とは、親指を下に向けるジェスチャーで、反対や不承認、悪い評価を表します。SNSなどでもよく使われる表現です。 例：The audience gave the performance a thumbs down. (観客はそのパフォーマンスに反対しました。)"
+    },
+    {
+      "id": 21,
+      "value": "quantum excitation study",
+      "options": [
+        "量子励起研究",
+        "古典物理学研究",
+        "天体物理学研究",
+        "生物学研究"
+      ],
+      "correctAnswer": "量子励起研究",
+      "explanation": "「quantum excitation study」とは、原子や分子がエネルギーを吸収してより高いエネルギー状態に移行する現象（量子励起）に関する研究です。量子力学の基礎的な現象であり、レーザー技術や分光分析など、様々な応用分野があります。 例：His quantum excitation study could lead to a breakthrough in laser technology. (彼の量子励起研究は、レーザー技術におけるブレークスルーにつながる可能性があります。)"
+    },
+    {
+      "id": 22,
+      "value": "Party City",
+      "options": [
+        "パーティーグッズ専門店",
+        "高級レストラン",
+        "図書館",
+        "美術館"
+      ],
+      "correctAnswer": "パーティーグッズ専門店",
+      "explanation": "「Party City」はアメリカ合衆国を中心に展開する、パーティーグッズやコスチュームなどを販売するチェーンストアです。ハロウィンや誕生日などのイベントに必要な商品を幅広く取り扱っています。例：We need balloons and decorations for the birthday party, let's go to Party City. (誕生日パーティーのために風船や飾りが必要だ、Party Cityに行こう。)"
+    },
+    {
+      "id": 23,
+      "value": "Cinco de Mayo",
+      "options": [
+        "シンコ・デ・マヨ",
+        "感謝祭",
+        "クリスマス",
+        "独立記念日"
+      ],
+      "correctAnswer": "シンコ・デ・マヨ",
+      "explanation": "「Cinco de Mayo」は、スペイン語で「5月5日」を意味し、メキシコで祝われる記念日です。プエブラの戦い（1862年5月5日）でメキシコ軍がフランス軍に勝利したことを記念します。アメリカ合衆国ではメキシコ系アメリカ人の文化を祝う日として盛大に祝われます。例：Cinco de Mayo is a celebration of Mexican culture and heritage. (シンコ・デ・マヨはメキシコの文化と遺産を祝う日です。)"
+    },
+    {
+      "id": 24,
+      "value": "siete de Mayo",
+      "options": [
+        "5月7日",
+        "5月5日",
+        "5月6日",
+        "5月8日"
+      ],
+      "correctAnswer": "5月7日",
+      "explanation": "「siete de Mayo」はスペイン語で「5月7日」を意味します。劇中では、シンコ・デ・マヨのパーティーの盛り上がりが翌日まで続いたことを示すために使われています。例：The party was so great that people were still talking about it on siete de Mayo. (パーティーはとても素晴らしく、5月7日になっても人々はまだその話をしていた。)"
+    },
+    {
+      "id": 25,
+      "value": "toothpick-delivered",
+      "options": [
+        "つまようじで提供される",
+        "宅配される",
+        "手作り",
+        "高級"
+      ],
+      "correctAnswer": "つまようじで提供される",
+      "explanation": "「toothpick-delivered」は、食べ物がつまようじに刺されて提供されることを意味します。パーティーなどで、一口サイズの食べ物や前菜が提供される際に使われる表現です。例：Swedish meatballs are often toothpick-delivered at parties. (スウェーデン風ミートボールはパーティーでつまようじに刺されて提供されることが多い。"
+    },
+    {
+      "id": 26,
+      "value": "scooping us",
+      "options": [
+        "私たちを助ける",
+        "私たちを出し抜く",
+        "私たちを招待する",
+        "私たちを支援する"
+      ],
+      "correctAnswer": "私たちを出し抜く",
+      "explanation": "「scoop」は、他者よりも早く何かを手に入れる、特に情報を先取りするという意味です。ここでは、スウェーデンのチームよりも先にヘリウムを手に入れることを指しています。競争的な状況でよく使われます。"
+    },
+    {
+      "id": 27,
+      "value": "bending the rules",
+      "options": [
+        "規則を無視する",
+        "規則を曲げる",
+        "規則を改正する",
+        "規則を複雑にする"
+      ],
+      "correctAnswer": "規則を曲げる",
+      "explanation": "「bend the rules」は、規則を完全に破るのではなく、少し逸脱する、または柔軟に解釈するという意味です。ここでは、倫理的に問題があるかもしれないが、実験のために規則を少し緩めることを指しています。必ずしも不正行為とは限りませんが、グレーゾーンの行為を指すことが多いです。"
+    },
+    {
+      "id": 28,
+      "value": "quote",
+      "options": [
+        "引用する",
+        "質問する",
+        "提案する",
+        "要求する"
+      ],
+      "correctAnswer": "引用する",
+      "explanation": "「quote」は、他者の言葉をそのまま引用するという意味です。ここでは、アインシュタインの言葉を引用して、自分たちの行動を正当化しようとしています。学術的な文脈や、権威ある人物の言葉を引用する際によく用いられます。"
+    },
+    {
+      "id": 29,
+      "value": "made of sugar",
+      "options": [
+        "とても甘い",
+        "とても強い",
+        "とても優しい",
+        "とても賢い"
+      ],
+      "correctAnswer": "とても優しい",
+      "explanation": "「made of sugar」は、非常に親切で、心が温かい人を指す表現です。ここでは、褒め言葉に対して、相手が非常に優しい人だという感情を表しています。相手の優しさや親切さに感謝する際に使われることがあります。"
+    },
+    {
+      "id": 30,
+      "value": "end in sex",
+      "options": [
+        "性交渉に発展する",
+        "議論に発展する",
+        "食事に発展する",
+        "友情に発展する"
+      ],
+      "correctAnswer": "性交渉に発展する",
+      "explanation": "「end in sex」は、デートや関係が性的な行為で終わることを意味します。ここでは、デートアプリを通じて出会った相手との関係が、最終的に性交渉に発展する可能性があったことを示唆しています。性的なニュアンスを含む表現です。"
+    },
+    {
+      "id": 31,
+      "value": "all set",
+      "options": [
+        "準備完了",
+        "全て順調",
+        "全て間違い",
+        "全て未定"
+      ],
+      "correctAnswer": "準備完了",
+      "explanation": "「all set」は、準備が完了した、または準備万端であるという状態を表します。ここでは、アプリの設定が完了したことを意味しています。日常会話で非常によく使われる表現です。"
+    },
+    {
+      "id": 32,
+      "value": "out there",
+      "options": [
+        "そこにいる",
+        "利用可能",
+        "迷子になる",
+        "隠れている"
+      ],
+      "correctAnswer": "利用可能",
+      "explanation": "「out there」は、利用可能である、または存在するという意味です。ここでは、デートアプリで出会える相手が「そこにいる」ことを指しています。抽象的な意味合いで使われることが多いです。"
+    },
+    {
+      "id": 33,
+      "value": "round us out",
+      "options": [
+        "私たちを太らせる",
+        "私たちを丸くする",
+        "私たちを完成させる",
+        "私たちを混乱させる"
+      ],
+      "correctAnswer": "私たちを完成させる",
+      "explanation": "「round out」は、グループやチームを多様化させ、バランスを取るという意味です。ここでは、人種的な多様性を持たせるために、ラテン系のメンバーを加えたいという意図を表しています。組織やチームの多様性を強調する際に使われます。"
+    },
+    {
+      "id": 34,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待って",
+        "頑張って",
+        "諦めて"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「hang on」は、少し待つように頼む際に使う表現です。ここでは、電話を切りそうになっている相手に、少し待ってほしいと伝えています。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 35,
+      "value": "father your children",
+      "options": [
+        "子供を育てる",
+        "子供を産む",
+        "子供の父親になる",
+        "子供を教育する"
+      ],
+      "correctAnswer": "子供の父親になる",
+      "explanation": "「father」は、動詞として「父親になる」という意味を持ちます。ここでは、将来子供の父親になる可能性のある相手を探していることを指しています。ややフォーマルな表現です。"
+    },
+    {
+      "id": 36,
+      "value": "nondescript",
+      "options": [
+        "説明できない",
+        "ありふれた",
+        "魅力的な",
+        "危険な"
+      ],
+      "correctAnswer": "ありふれた",
+      "explanation": "「nondescript」は、特徴がなく、区別がつきにくい、ありふれたという意味です。ここでは、誘拐事件などでよく使われる、特徴のない白いワゴン車を指しています。犯罪ドラマなどでよく使われる表現です。"
+    },
+    {
+      "id": 37,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "元気ですか？",
+        "何が起きたの？",
+        "何か問題でも？"
+      ],
+      "correctAnswer": "元気ですか？",
+      "explanation": "「What's up?」は、挨拶として「元気ですか？」や「調子はどう？」という意味で使われるカジュアルな表現です。親しい間柄でよく使われます。また、「何かあったの？」という意味で使われることもあります。"
+    },
+    {
+      "id": 38,
+      "value": "hold on",
+      "options": [
+        "掴む",
+        "待つ",
+        "諦める",
+        "続ける"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hold on」は、少し待つように頼む際に使う表現です。ここでは、相手に少し待ってほしいと伝えています。日常会話でよく使われる表現です。電話を保留にする際にも使われます。"
+    },
+    {
+      "id": 39,
+      "value": "drive away",
+      "options": [
+        "運転する",
+        "逃げる",
+        "ドライブする",
+        "出発する"
+      ],
+      "correctAnswer": "逃げる",
+      "explanation": "「drive away」は、車で走り去る、逃げるという意味です。ここでは、お金を受け取ってヘリウムを渡さずに逃げるのではないかという疑念を表しています。犯罪に関する状況でよく使われる表現です。"
+    },
+    {
+      "id": 40,
+      "value": "sketchy character",
+      "options": [
+        "面白い人",
+        "疑わしい人物",
+        "人気者",
+        "勇敢な人"
+      ],
+      "correctAnswer": "疑わしい人物",
+      "explanation": "「sketchy character」は、疑わしい、信用できない人物を指す表現です。ここでは、駐車場にいる男が怪しい人物であるという印象を表しています。犯罪や不正行為に関連する状況で使われることが多いです。"
+    },
+    {
+      "id": 41,
+      "value": "frame of reference",
+      "options": [
+        "参照の枠組み",
+        "写真立て",
+        "評価基準",
+        "行動規範"
+      ],
+      "correctAnswer": "参照の枠組み",
+      "explanation": "「frame of reference」は、物事を理解または評価するための視点や基準を意味します。ここでは、相手の立場や視点から物事を見ると、自分たちも怪しい人物に見えるかもしれないという気づきを表しています。認識論や社会学でよく用いられる概念です。"
+    },
+    {
+      "id": 42,
+      "value": "up front",
+      "options": [
+        "正直に",
+        "前払いで",
+        "秘密裏に",
+        "後払いで"
+      ],
+      "correctAnswer": "前払いで",
+      "explanation": "「up front」は、前払い、または最初に何かを行うという意味です。ここでは、お金を最初に渡すことに抵抗があるという気持ちを表しています。ビジネスシーンでよく使われる表現です。"
+    },
+    {
+      "id": 43,
+      "value": "stalemate",
+      "options": [
+        "膠着状態",
+        "最終段階",
+        "有利な状況",
+        "不利な状況"
+      ],
+      "correctAnswer": "膠着状態",
+      "explanation": "「stalemate」は、チェスで使われる言葉で、膠着状態、行き詰まりという意味です。ここでは、交渉が行き詰まっている状況を指しています。比喩的に、交渉や議論が行き詰まった状態を表す際によく用いられます。"
+    },
+    {
+      "id": 44,
+      "value": "impasse",
+      "options": [
+        "通過地点",
+        "行き止まり",
+        "有利な状況",
+        "安全地帯"
+      ],
+      "correctAnswer": "行き止まり",
+      "explanation": "「impasse」は、行き詰まり、膠着状態という意味です。ここでは、「stalemate」とほぼ同じ意味で、交渉が行き詰まっている状況を指しています。フォーマルな文脈でよく用いられます。"
+    },
+    {
+      "id": 45,
+      "value": "Mexican standoff",
+      "options": [
+        "メキシコ風の歓迎",
+        "三つ巴の対立",
+        "平和的な解決",
+        "友好的な交渉"
+      ],
+      "correctAnswer": "三つ巴の対立",
+      "explanation": "「Mexican standoff」は、三者以上が互いに銃を向け合い、誰もが動けない膠着状態を指します。ここでは、誰もが譲れない状況を表しています。映画やドラマでよく使われる表現です。"
+    },
+    {
+      "id": 46,
+      "value": "grant money",
+      "options": [
+        "補助金",
+        "借金",
+        "投資",
+        "報酬"
+      ],
+      "correctAnswer": "補助金",
+      "explanation": "「grant money」は、研究やプロジェクトのために政府や機関から提供される補助金を指します。ここでは、実験のために大学から支給された資金を意味します。学術的な文脈でよく使われる表現です。"
+    },
+    {
+      "id": 47,
+      "value": "university code",
+      "options": [
+        "大学の暗号",
+        "大学の規則",
+        "大学の住所",
+        "大学の目標"
+      ],
+      "correctAnswer": "大学の規則",
+      "explanation": "「university code」は、大学が定める規則や倫理規定を指します。ここでは、ヘリウムの購入方法が大学の規則に違反する可能性があることを示唆しています。学術的な文脈でよく使われる表現です。"
+    },
+    {
+      "id": 48,
+      "value": "the pursuit of science",
+      "options": [
+        "科学の研究",
+        "科学の追求",
+        "科学の発見",
+        "科学の悪用"
+      ],
+      "correctAnswer": "科学の追求",
+      "explanation": "「the pursuit of science」は、科学的な知識や真理を追求する行為を指します。ここでは、科学の探求のためには、既存の規則を無視することも時には必要であるという考えを表現しています。学術的な文脈でよく使われる表現です。"
+    },
+    {
+      "id": 49,
+      "value": "I can’t find that quote on the Internet.",
+      "options": [
+        "その引用句がインターネットで見つからない",
+        "インターネットで住所を見つけることができない",
+        "インターネットで買い物をすることができない",
+        "インターネットで友達を作ることができない"
+      ],
+      "correctAnswer": "その引用句がインターネットで見つからない",
+      "explanation": "これは文字通りの意味で、インターネットで特定の引用句を検索しても見つからないことを意味します。これは、引用句が誤りであるか、捏造されたものである可能性を示唆しています。"
+    },
+    {
+      "id": 50,
+      "value": "I thought you were gonna be out late?",
+      "options": [
+        "遅くまで出かけると思っていた",
+        "早く帰ると思っていた",
+        "出かけないと思っていた",
+        "家にいると思っていた"
+      ],
+      "correctAnswer": "遅くまで出かけると思っていた",
+      "explanation": "「I thought you were gonna be out late?」は、相手が遅くまで外出していると思っていたのに、早く帰ってきたことに対する驚きや疑問を表す表現です。「gonna」は「going to」の口語的な短縮形で、予定や予測を表します。"
+    },
+    {
+      "id": 51,
+      "value": "standoff",
+      "options": [
+        "出口戦略",
+        "膠着状態",
+        "最終通告",
+        "相互援助"
+      ],
+      "correctAnswer": "膠着状態",
+      "explanation": "「standoff」は、主に「行き詰まり」「膠着状態」を意味し、特に合意や解決の見込みがない状況を指します。元々は軍事用語で、敵対する勢力が互いに攻撃できず、動きが取れない状態を表します。ビジネスや交渉の文脈でも、双方が譲歩せず、進展がない状況を指すことがあります。例：The negotiations ended in a standoff. (交渉は膠着状態で終わった。)"
+    },
+    {
+      "id": 52,
+      "value": "incurring harm",
+      "options": [
+        "危害を加える",
+        "損害を被る",
+        "利益を得る",
+        "影響を与える"
+      ],
+      "correctAnswer": "損害を被る",
+      "explanation": "「incur」は、好ましくない事態や結果を招く、被るという意味です。「harm」は危害、損害を意味するため、「incurring harm」で損害を被るとなります。例文：Companies that do not comply with the regulations risk incurring large fines.(規制を遵守しない企業は、多額の罰金を科されるリスクを負います。)"
+    },
+    {
+      "id": 53,
+      "value": "turn you in to the authorities",
+      "options": [
+        "あなたを当局に引き渡す",
+        "あなたを助ける",
+        "あなたを無視する",
+        "あなたを尊敬する"
+      ],
+      "correctAnswer": "あなたを当局に引き渡す",
+      "explanation": "「turn someone in」は、その人を警察などの当局に突き出す、告発するという意味です。例文：If you don't return the money, I'll turn you in to the police.(お金を返さないと、警察に突き出すぞ。)"
+    },
+    {
+      "id": 54,
+      "value": "mess with",
+      "options": [
+        "仲良くする",
+        "邪魔をする",
+        "手伝う",
+        "無視する"
+      ],
+      "correctAnswer": "邪魔をする",
+      "explanation": "「mess with」は、人にちょっかいを出す、干渉する、または危険な状況に関わるという意味で使われます。例文：Don't mess with things you don't understand. (理解できないものには手を出さないで。)"
+    },
+    {
+      "id": 55,
+      "value": "pound your asses into the ground",
+      "options": [
+        "あなたを打ちのめす",
+        "あなたを助ける",
+        "あなたを尊敬する",
+        "あなたを無視する"
+      ],
+      "correctAnswer": "あなたを打ちのめす",
+      "explanation": "「pound someone into the ground」は、相手を徹底的に打ち負かす、打ちのめすという意味の非常に強い表現です。相手を精神的、肉体的に打ちのめす様子を表します。例文：If he continues to make those mistakes, the coach will pound him into the ground.(もし彼がミスを続けるなら、コーチは彼を徹底的に打ちのめすだろう。)"
+    },
+    {
+      "id": 56,
+      "value": "won the battle but lost the war",
+      "options": [
+        "戦いに勝って戦争に負ける",
+        "戦いに負けて戦争に勝つ",
+        "戦いも戦争も勝つ",
+        "戦いも戦争も負ける"
+      ],
+      "correctAnswer": "戦いに勝って戦争に負ける",
+      "explanation": "「win the battle but lose the war」は、目先の小さな勝利に満足して、全体的な目標や最終的な成功を逃すことを意味するイディオムです。部分的な成功に気を取られ、より重要な戦略や計画を見失う状況を表します。例文：The company won the lawsuit, but lost the battle for public opinion.(会社は訴訟には勝ったが、世論の戦いには負けた。)"
+    },
+    {
+      "id": 57,
+      "value": "rip off",
+      "options": [
+        "盗む",
+        "修復する",
+        "だます",
+        "褒める"
+      ],
+      "correctAnswer": "だます",
+      "explanation": "「rip off」は、物を盗む、または人をだまして不当に高い金額を請求するという意味のスラングです。例文：Tourists often get ripped off by taxi drivers.(観光客はタクシー運転手にぼったくられることが多い。)"
+    },
+    {
+      "id": 58,
+      "value": "ethical standard",
+      "options": [
+        "倫理基準",
+        "技術基準",
+        "法的基準",
+        "教育水準"
+      ],
+      "correctAnswer": "倫理基準",
+      "explanation": "「ethical standard」は、倫理的な基準や規範を意味します。これは、特定の職業、業界、または社会全体において、正しいまたは許容される行動の原則を指します。例文：The company is committed to maintaining high ethical standards. (その会社は高い倫理基準を維持することに尽力しています。)"
+    },
+    {
+      "id": 59,
+      "value": "cross-eyed",
+      "options": [
+        "目が離れている",
+        "寄り目",
+        "視力が良い",
+        "目が大きい"
+      ],
+      "correctAnswer": "寄り目",
+      "explanation": "「cross-eyed」は、寄り目、内斜視の状態を指します。医学的には斜視の一種で、片方の目が内側に向いている状態を指します。例文：The doctor recommended surgery to correct his cross-eyed condition.(医者は彼の寄り目を矯正するために手術を勧めた。)"
+    },
+    {
+      "id": 60,
+      "value": "throw him a fish",
+      "options": [
+        "彼に魚をプレゼントする",
+        "彼にご褒美を与える",
+        "彼を無視する",
+        "彼に挑戦する"
+      ],
+      "correctAnswer": "彼にご褒美を与える",
+      "explanation": "この文脈では、相手が性的に満足できるなら、外見の欠点は気にしないという意味合いで使われています。文字通りの意味ではなく、比喩的な表現です。 「ご褒美を与える」が最も近いニュアンスです。"
+    },
+    {
+      "id": 61,
+      "value": "attract attention",
+      "options": [
+        "注意を引く",
+        "注意をそらす",
+        "無視する",
+        "隠れる"
+      ],
+      "correctAnswer": "注意を引く",
+      "explanation": "「attract attention」は、人の注意や関心を引きつけるという意味です。例文：The bright colors of the painting attracted a lot of attention.(その絵の明るい色彩は多くの注目を集めた。)"
+    },
+    {
+      "id": 62,
+      "value": "rat out",
+      "options": [
+        "裏切る",
+        "助ける",
+        "見捨てる",
+        "励ます"
+      ],
+      "correctAnswer": "裏切る",
+      "explanation": "「rat out」は、密告する、裏切るという意味のスラングです。例文：He ratted out his friends to the police. (彼は警察に友達を密告した。)"
+    },
+    {
+      "id": 63,
+      "value": "authority over",
+      "options": [
+        "支配権",
+        "影響力",
+        "責任",
+        "知識"
+      ],
+      "correctAnswer": "支配権",
+      "explanation": "「authority over」は、〜に対する権限、支配力という意味です。例文：The principal has authority over the students.(校長は生徒に対する権限を持っている。)"
+    },
+    {
+      "id": 64,
+      "value": "jump to conclusions",
+      "options": [
+        "結論を急ぐ",
+        "結論を避ける",
+        "推論する",
+        "仮定を立てる"
+      ],
+      "correctAnswer": "結論を急ぐ",
+      "explanation": "「jump to conclusions」は、早合点する、結論を急ぐという意味です。十分な情報や証拠がないのに、性急に結論を出してしまうことを指します。例文：Don't jump to conclusions before you have all the facts.(すべての事実を知る前に結論を急がないでください。)"
+    },
+    {
+      "id": 65,
+      "value": "beat someone to the punch",
+      "options": [
+        "先手を打つ",
+        "後手に回る",
+        "邪魔をする",
+        "協力する"
+      ],
+      "correctAnswer": "先手を打つ",
+      "explanation": "「beat someone to the punch」は、人に先んじる、出し抜くという意味です。競争相手よりも先に何かを達成することを指します。例文：We need to beat our competitors to the punch by launching the product first.(最初に製品を発売して、競合他社に先んじる必要がある。)"
+    },
+    {
+      "id": 66,
+      "value": "kiss something goodbye",
+      "options": [
+        "諦める",
+        "歓迎する",
+        "改善する",
+        "利用する"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「kiss something goodbye」は、何かを諦める、失うことを覚悟するという意味のイディオムです。例文：If we don't get the funding, we can kiss the project goodbye.(もし資金が得られなければ、プロジェクトを諦めざるを得ない。)"
+    },
+    {
+      "id": 67,
+      "value": "chug",
+      "options": [
+        "ゆっくり飲む",
+        "一気に飲む",
+        "少量ずつ飲む",
+        "全く飲まない"
+      ],
+      "correctAnswer": "一気に飲む",
+      "explanation": "「chug」は、飲み物を一気に飲む、がぶ飲みするという意味です。例文：He chugged the entire beer in one go.(彼はビールを一息に飲み干した。)"
+    },
+    {
+      "id": 68,
+      "value": "interpret",
+      "options": [
+        "解釈する",
+        "無視する",
+        "歪曲する",
+        "創造する"
+      ],
+      "correctAnswer": "解釈する",
+      "explanation": "「interpret」は、何かを理解し、その意味を説明または表現することを意味します。 文脈や状況に応じて意味合いが異なり、芸術作品、夢、データなどを解釈する場合にも使用されます。例文：How do you interpret this poem? (あなたはこの詩をどう解釈しますか？)"
+    },
+    {
+      "id": 69,
+      "value": "essence",
+      "options": [
+        "本質",
+        "外見",
+        "詳細",
+        "起源"
+      ],
+      "correctAnswer": "本質",
+      "explanation": "「essence」は、物事の最も重要な性質、または本質的な特徴を意味します。それは、そのものがそれ自体である理由を定義するものです。香水やエッセンシャルオイルなど、特定の抽出物や濃縮物を指すこともあります。例文：The essence of democracy is the freedom of speech. (民主主義の本質は言論の自由です。)"
+    },
+    {
+      "id": 70,
+      "value": "authorities",
+      "options": [
+        "権威者",
+        "無秩序",
+        "傍観者",
+        "抵抗者"
+      ],
+      "correctAnswer": "権威者",
+      "explanation": "「authorities」は、権力や権限を持つ人々や組織を指します。政府機関、警察、学校の管理者などが含まれます。特定の分野で知識や専門性を持つ人々を指すこともあります。例文：You must obtain permission from the authorities before building on this land. (この土地に建物を建てる前に、当局からの許可を得る必要があります。)"
+    },
+    {
+      "id": 71,
+      "value": "hypothesis",
+      "options": [
+        "仮説",
+        "事実",
+        "理論",
+        "実験"
+      ],
+      "correctAnswer": "仮説",
+      "explanation": "「hypothesis」は、実験や観察を通じて検証される前の、提案された説明または仮定です。科学的研究の出発点として用いられ、証拠に基づいて支持または反駁されます。例文：Scientists are testing the hypothesis that this new drug can cure the disease. (科学者たちは、この新薬が病気を治せるという仮説を検証しています。)"
+    },
+    {
+      "id": 72,
+      "value": "ethical",
+      "options": [
+        "倫理的な",
+        "非倫理的な",
+        "実用的な",
+        "非現実的な"
+      ],
+      "correctAnswer": "倫理的な",
+      "explanation": "「ethical」は、道徳的な原則や価値観に関連することを意味します。行動、決定、実践が、正しいと認められている基準や行動規範に合致しているかどうかを評価する際に使用されます。例文：Is it ethical to use animals for scientific research? (科学研究に動物を使用することは倫理的ですか？)"
+    },
+    {
+      "id": 73,
+      "value": "accessory",
+      "options": [
+        "共犯者",
+        "被害者",
+        "目撃者",
+        "容疑者"
+      ],
+      "correctAnswer": "共犯者",
+      "explanation": "法律用語としての「accessory」は、犯罪を犯した人を助ける人を指します。犯罪の実行者自身ではありませんが、犯罪の遂行を支援または隠蔽することで罪に問われます。例文：He was charged as an accessory to the crime because he helped the robbers escape. (彼は強盗犯の逃走を手助けしたため、犯罪の共犯者として起訴されました。)"
+    },
+    {
+      "id": 74,
+      "value": "reserve",
+      "options": [
+        "蓄え",
+        "浪費",
+        "不足",
+        "放棄"
+      ],
+      "correctAnswer": "蓄え",
+      "explanation": "「reserve」は、将来の使用のために取っておくこと、または蓄えておくことを意味します。資源、資金、または権利など、さまざまなものが対象となります。例文：The country has large oil reserves. (その国は多大な石油埋蔵量を持っています。)"
+    },
+    {
+      "id": 75,
+      "value": "shirtless",
+      "options": [
+        "シャツを着ていない",
+        "新しいシャツを着ている",
+        "シャツを脱ぐ",
+        "シャツを洗濯する"
+      ],
+      "correctAnswer": "シャツを着ていない",
+      "explanation": "「shirtless」は、シャツを着ていない状態を指します。上半身裸であることを意味します。例文：He was relaxing on the beach, shirtless.(彼は上半身裸でビーチでくつろいでいた。)"
+    },
+    {
+      "id": 76,
+      "value": "sleepover",
+      "options": [
+        "短い昼寝",
+        "徹夜",
+        "お泊り会",
+        "仮眠"
+      ],
+      "correctAnswer": "お泊り会",
+      "explanation": "「sleepover」は、子供たちが友達の家に泊まりに行くことを指します。通常、楽しいアクティビティやゲーム、映画鑑賞などが含まれます。より広い意味で、友人や家族が誰かの家に泊まることも指します。"
+    },
+    {
+      "id": 77,
+      "value": "take off your hands",
+      "options": [
+        "手伝う",
+        "引き取る",
+        "手放す",
+        "握手する"
+      ],
+      "correctAnswer": "引き取る",
+      "explanation": "「take something off someone's hands」は、誰かの負担や責任を取り除く、引き受けるという意味です。問題や不要な物を引き受ける際によく使われます。\n例：I'm happy to take the project off your hands. (私がそのプロジェクトを引き受けてもいいですよ。)"
+    },
+    {
+      "id": 78,
+      "value": "nomenclature",
+      "options": [
+        "専門用語",
+        "命名法",
+        "統計",
+        "合意"
+      ],
+      "correctAnswer": "命名法",
+      "explanation": "「nomenclature」は、特定の分野や学問における用語体系、命名法を指します。科学、生物学、医学などの分野で、正確かつ一貫した用語を使用するために重要です。ある物事に対して名前をつける方法や規則の体系を意味します。"
+    },
+    {
+      "id": 79,
+      "value": "semantic digressions",
+      "options": [
+        "意味の脱線",
+        "意味の進化",
+        "意味の収束",
+        "意味の曖昧さ"
+      ],
+      "correctAnswer": "意味の脱線",
+      "explanation": "「semantic digression」は、話や議論が意味や言葉の定義から逸れることを指します。本題から外れて、言葉の細かな意味や解釈にこだわる状況を表します。無関係な単語の意味や語源に話が及ぶような場面で使われます。"
+    },
+    {
+      "id": 80,
+      "value": "breaks our way",
+      "options": [
+        "道を切り開く",
+        "運が開ける",
+        "崩壊する",
+        "邪魔をする"
+      ],
+      "correctAnswer": "運が開ける",
+      "explanation": "「break one's way」は、困難を乗り越えて成功するという意味ですが、「something breaks our way」は、物事が自分たちにとって有利に進む、運が開けるという意味合いになります。予期せぬ幸運や好転を指すことが多いです。\n例：Finally, something breaks our way. (ついに、何かが私たちに有利になった。)"
+    },
+    {
+      "id": 81,
+      "value": "figure it all out",
+      "options": [
+        "すべて理解する",
+        "すべて忘れる",
+        "すべて試す",
+        "すべて無視する"
+      ],
+      "correctAnswer": "すべて理解する",
+      "explanation": "「figure it out」は、問題や状況を理解し、解決策を見つけ出すという意味です。「figure it all out」は、それを強調した表現で、完全に理解し、解決策を見つけ出すことを意味します。\n例：I'm just trying to figure it all out. (私はただそれをすべて理解しようとしているだけです。)"
+    },
+    {
+      "id": 82,
+      "value": "get out there",
+      "options": [
+        "そこから立ち去る",
+        "外に出かける",
+        "積極的に行動する",
+        "情報を得る"
+      ],
+      "correctAnswer": "積極的に行動する",
+      "explanation": "「get out there」は、新しい経験をしたり、人々と交流したりするために、積極的に行動することを意味します。特に、自分の殻を破って、社会に出ることを促す場合に使われます。\n例：I decided it would be good for me to, you know, get out there a little. (少し積極的に行動することが自分にとって良いと思った。)"
+    },
+    {
+      "id": 83,
+      "value": "gang-noogied",
+      "options": [
+        "集団で虐待される",
+        "集団で歓迎される",
+        "集団で無視される",
+        "集団で尊敬される"
+      ],
+      "correctAnswer": "集団で虐待される",
+      "explanation": "「gang-noogied」は、ここでは刑務所で集団で虐待されることを意味するスラングとして使われています。「noogie」自体が、人の頭をこすってからかう行為を指すスラングです。刑務所での暴力的な状況をユーモラスに表現しています。"
+    },
+    {
+      "id": 84,
+      "value": "scared me straight",
+      "options": [
+        "私を怖がらせた",
+        "私を真っ直ぐにした",
+        "私を更生させた",
+        "私を混乱させた"
+      ],
+      "correctAnswer": "私を更生させた",
+      "explanation": "「scared someone straight」は、誰かを怖がらせて、悪い行いをやめさせる、更生させるという意味です。通常、若者が非行に走るのを防ぐために、刑務所や犯罪現場を見学させたり、犯罪被害者の話を聞かせたりするプログラムを指します。\n例：It scared me straight, Leonard. (それは私を更生させたんだ、レナード。)"
+    },
+    {
+      "id": 85,
+      "value": "petty",
+      "options": [
+        "寛大",
+        "卑劣",
+        "勇敢",
+        "公正"
+      ],
+      "correctAnswer": "卑劣",
+      "explanation": "「petty」は、重要でないことや取るに足らないことにこだわる、心が狭いという意味です。些細なことで意地悪をしたり、恨みを持ったりする人を指すことが多いです。\n例：I was being petty. (私は意地悪だった。)"
+    },
+    {
+      "id": 86,
+      "value": "preposterous",
+      "options": [
+        "独創的",
+        "馬鹿げている",
+        "賢明",
+        "理にかなっている"
+      ],
+      "correctAnswer": "馬鹿げている",
+      "explanation": "「preposterous」は、全くばかげていて、非常識で、信じられないという意味です。通常、提案やアイデアが非常に不合理であることを強調するために使われます。\n例：That's preposterous. (それは馬鹿げている。)"
+    },
+    {
+      "id": 87,
+      "value": "dwamatic effect",
+      "options": [
+        "劇的な効果",
+        "喜劇的な効果",
+        "催眠的な効果",
+        "現実的な効果"
+      ],
+      "correctAnswer": "劇的な効果",
+      "explanation": "「dramatic effect」は、劇的な効果という意味ですが、ここではスペルをわざと間違えて「dwamatic」とすることで、ユーモラスな効果を出しています。通常と違うスペルを使うことで、セリフに面白さを加えています。\n例：I'll walk out backwards for dwamatic effect. (劇的な効果のために、後ろ向きに歩いて出て行くよ。)"
+    },
+    {
+      "id": 88,
+      "value": "extorted",
+      "options": [
+        "褒められた",
+        "脅迫された",
+        "招待された",
+        "尊敬された"
+      ],
+      "correctAnswer": "脅迫された",
+      "explanation": "「extort」は、脅迫や不正な手段を使って、お金や情報などを奪い取るという意味です。権力や立場を利用して、相手を不当に圧迫するニュアンスがあります。\n例：I don't like being extorted like this. (こんな風に脅迫されるのは好きじゃない。)"
+    },
+    {
+      "id": 89,
+      "value": "standoff",
+      "options": [
+        "親睦会",
+        "対立",
+        "協力",
+        "支援"
+      ],
+      "correctAnswer": "対立",
+      "explanation": "「standoff」は、対立や膠着状態を意味します。特に、双方が譲らず、解決策が見えない状況を指します。「Mexican standoff」は、三者以上が互いに銃を突きつけあい、誰もが動けない状況を指す言葉です。"
+    },
+    {
+      "id": 90,
+      "value": "whimsically archaic",
+      "options": [
+        "気まぐれな古風さ",
+        "厳格な現代性",
+        "意図的な新しさ",
+        "単純な日常性"
+      ],
+      "correctAnswer": "気まぐれな古風さ",
+      "explanation": "「whimsically archaic」は、気まぐれで古風な、という意味です。「whimsical」は、風変わりで面白い、気まぐれなという意味で、「archaic」は、古風で時代遅れという意味です。ここでは、言葉遊びとして、古風な言葉をあえて使うことを指しています。\n例：Or amongst, if they were feeling whimsically archaic. (あるいは、もし彼らが気まぐれに古風な気分なら、amongstを使うだろうね。)"
+    },
+    {
+      "id": 91,
+      "value": "straight and narrow",
+      "options": [
+        "狭くて曲がった道",
+        "近道",
+        "正しくて道徳的な道",
+        "遠回り"
+      ],
+      "correctAnswer": "正しくて道徳的な道",
+      "explanation": "「straight and narrow」は、正しくて道徳的な生き方、正しい道という意味です。倫理的に正しい行動や決断をすることを指します。\n例：But don’t be surprised if this movie sets you on the straight and narrow. (でも、この映画があなたを正しい道に導いても驚かないで。)"
+    },
+    {
+      "id": 92,
+      "value": "seeing someone",
+      "options": [
+        "誰かを見ている",
+        "誰かと会っている",
+        "誰かを監視している",
+        "誰かを無視している"
+      ],
+      "correctAnswer": "誰かと会っている",
+      "explanation": "「seeing someone」は、恋愛関係にある人、特にデートをしている人を指す婉曲的な表現です。真剣な交際関係にあるかどうかは文脈によります。\n例：Are you seeing someone? (誰か付き合っている人がいるの？)"
+    },
+    {
+      "id": 93,
+      "value": "take you out",
+      "options": [
+        "あなたを連れ出す",
+        "あなたを負かす",
+        "あなたを無視する",
+        "あなたを理解する"
+      ],
+      "correctAnswer": "あなたを連れ出す",
+      "explanation": "「take someone out」は、誰かを食事や娯楽に連れ出すという意味です。デートや親睦を深める目的で使われます。\n例：And I’d love to take you out again? (またあなたを連れ出したいんだけど。)"
+    },
+    {
+      "id": 94,
+      "value": "on our way",
+      "options": [
+        "私たちのやり方で",
+        "私たちの邪魔をして",
+        "私たちの帰路で",
+        "私たちの都合で"
+      ],
+      "correctAnswer": "私たちの帰路で",
+      "explanation": "「on one's way」は、どこかへ向かっている途中、出発する準備ができているという意味です。目的地に向かう過程や、行動を開始する直前の状態を表します。\n例：we’ll be on our way. (私たちは出発します。)"
+    },
+    {
+      "id": 95,
+      "value": "changed our mind",
+      "options": [
+        "考えを変えた",
+        "心を痛めた",
+        "意見を交換した",
+        "記憶を失った"
+      ],
+      "correctAnswer": "考えを変えた",
+      "explanation": "「change one's mind」は、考えや意見を変えるという意味です。以前の決定や計画を覆し、新しい考えを採用することを指します。\n例：We just changed our mind. (私たちはただ考えを変えただけです。)"
+    },
+    {
+      "id": 96,
+      "value": "built for",
+      "options": [
+        "建設された",
+        "準備された",
+        "体格が良い",
+        "運命にある"
+      ],
+      "correctAnswer": "準備された",
+      "explanation": "「built for」は、特定の目的や状況に適している、またはそのように設計されているという意味です。ここでは、刑務所生活に適していないことを強調しています。\n例：we are not built for prison. (私たちは刑務所向きではない。)"
+    },
+    {
+      "id": 97,
+      "value": "charge you a fee",
+      "options": [
+        "料金を請求する",
+        "無料で提供する",
+        "罰金を科す",
+        "感謝する"
+      ],
+      "correctAnswer": "料金を請求する",
+      "explanation": "「charge someone a fee」は、サービスや商品に対して料金を請求するという意味です。ビジネスや取引において一般的な表現です。\n例：I am gonna have to charge you a small helium restocking fee. (ヘリウムの補充料金を少し請求する必要があります。)"
+    },
+    {
+      "id": 98,
+      "value": "never mind",
+      "options": [
+        "気にしないで",
+        "決して忘れない",
+        "いつも心に留めて",
+        "注意して"
+      ],
+      "correctAnswer": "気にしないで",
+      "explanation": "「never mind」は、言おうとしたことを取り消したり、相手に気にしないように促したりする際に使われる表現です。何かを言いかけたが、重要でないと判断した場合に使います。\n例：I thought we were all… never mind. (私たちはみんな… 気にしないで。)"
+    },
+    {
+      "id": 99,
+      "value": "have much experience",
+      "options": [
+        "多くの経験がある",
+        "少しの経験がある",
+        "経験がない",
+        "過去の経験を語る"
+      ],
+      "correctAnswer": "経験がない",
+      "explanation": "「have much experience」は、多くの経験を持っているという意味ですが、否定形「don't have much experience」は、経験が少ない、またはほとんどないという意味になります。\n例：Well, I don’t have much experience dating, (私はデートの経験があまりない。)"
+    },
+    {
+      "id": 100,
+      "value": "take your time",
+      "options": [
+        "時間を無駄にする",
+        "急いでください",
+        "ゆっくりしてください",
+        "時間を守ってください"
+      ],
+      "correctAnswer": "ゆっくりしてください",
+      "explanation": "「take your time」は、急がずにゆっくり時間をかけてくださいという意味です。相手にプレッシャーを与えずに、自分のペースで行動するように促す際に使います。\n例：Take your time. (ゆっくりしてください。)"
+    }
+  ]
+}

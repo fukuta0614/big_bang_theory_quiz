@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "have in mind",
+      "options": [
+        "念頭にある",
+        "夢に見る",
+        "手に入れる",
+        "秘密にする"
+      ],
+      "correctAnswer": "念頭にある",
+      "explanation": "「have in mind」は「～を考えている」「～を念頭に置いている」という意味のイディオムです。計画やアイデアについて尋ねる際によく使われます。例：What do you have in mind for your birthday party?（誕生日パーティーは何を考えているの？）"
+    },
+    {
+      "id": 2,
+      "value": "on the curb",
+      "options": [
+        "歩道に",
+        "屋根の上に",
+        "壁に",
+        "空中に"
+      ],
+      "correctAnswer": "歩道に",
+      "explanation": "「curb」は道路の縁石、歩道の縁を意味します。「on the curb」で「縁石の上に」「歩道に」という意味になります。例文：The taxi pulled up to the curb.（タクシーが歩道に寄せて止まった。）"
+    },
+    {
+      "id": 3,
+      "value": "appreciated in value",
+      "options": [
+        "価値が下がった",
+        "価値が上がった",
+        "価値が変わらない",
+        "価値が隠された"
+      ],
+      "correctAnswer": "価値が上がった",
+      "explanation": "「appreciate in value」は「価値が上がる」「値上がりする」という意味です。不動産、美術品、株などが値上がりする場合に使われます。例：This painting has appreciated significantly in value over the years. (この絵画は何年もかけて価値が大幅に上がった。)"
+    },
+    {
+      "id": 4,
+      "value": "only right",
+      "options": [
+        "唯一の権利",
+        "当然である",
+        "非常に間違っている",
+        "少しだけ正しい"
+      ],
+      "correctAnswer": "当然である",
+      "explanation": "「only right」は「当然だ」「もっともだ」という意味です。道徳的、倫理的に正しいという意味合いを含みます。例：It's only right that he should apologize. (彼が謝罪するのは当然だ。)"
+    },
+    {
+      "id": 5,
+      "value": "commissioned",
+      "options": [
+        "委託した",
+        "盗んだ",
+        "販売した",
+        "修理した"
+      ],
+      "correctAnswer": "委託した",
+      "explanation": "「commission」は「（絵画などを）委託する」「注文する」という意味の動詞です。芸術作品や調査などを依頼する際に使われます。例：She commissioned a portrait of her dog. (彼女は自分の犬の肖像画を依頼した。)"
+    },
+    {
+      "id": 6,
+      "value": "shaping up",
+      "options": [
+        "崩壊している",
+        "形になっている",
+        "隠されている",
+        "停滞している"
+      ],
+      "correctAnswer": "形になっている",
+      "explanation": "「shape up」は「うまくいく」「形になる」「調子が良くなる」という意味の句動詞です。物事が順調に進んでいる状況を表します。例：The project is shaping up nicely. (プロジェクトは順調に進んでいる。)"
+    },
+    {
+      "id": 7,
+      "value": "housewarming gift",
+      "options": [
+        "引っ越し祝い",
+        "退職祝い",
+        "誕生日プレゼント",
+        "結婚祝い"
+      ],
+      "correctAnswer": "引っ越し祝い",
+      "explanation": "「housewarming gift」は「新築祝い」「引っ越し祝い」という意味です。新しい家に引っ越した人を祝うために贈るプレゼントのことです。例：We brought them a housewarming gift when they moved into their new home. (彼らが新居に引っ越したとき、引っ越し祝いを持っていった。)"
+    },
+    {
+      "id": 8,
+      "value": "eviction notice",
+      "options": [
+        "立ち退き通知",
+        "入学通知",
+        "招待状",
+        "感謝状"
+      ],
+      "correctAnswer": "立ち退き通知",
+      "explanation": "「eviction notice」は「立ち退き通知」という意味です。家賃滞納などが原因で、居住者に対して物件からの退去を求める通知のことです。例：He received an eviction notice because he hadn't paid his rent in three months. (彼は3か月間家賃を払っていなかったので、立ち退き通知を受け取った。)"
+    },
+    {
+      "id": 9,
+      "value": "get back on one's feet",
+      "options": [
+        "立ち直る",
+        "転ぶ",
+        "運動する",
+        "踊る"
+      ],
+      "correctAnswer": "立ち直る",
+      "explanation": "「get back on one's feet」は「立ち直る」「自立する」という意味のイディオムです。経済的、精神的に困難な状況から回復することを指します。例：It took him a while to get back on his feet after losing his job. (彼は仕事を失った後、立ち直るのに時間がかかった。)"
+    },
+    {
+      "id": 10,
+      "value": "temporary",
+      "options": [
+        "一時的な",
+        "永遠の",
+        "無料の",
+        "困難な"
+      ],
+      "correctAnswer": "一時的な",
+      "explanation": "「temporary」は「一時的な」「仮の」という意味の形容詞です。永続的ではない、限られた期間だけ続くことを意味します。例：This is just a temporary solution. (これは一時的な解決策にすぎない。)"
+    },
+    {
+      "id": 11,
+      "value": "dig you",
+      "options": [
+        "あなたを掘る",
+        "あなたを理解する",
+        "あなたを助ける",
+        "あなたを無視する"
+      ],
+      "correctAnswer": "あなたを助ける",
+      "explanation": "この文脈では、'dig you a koi pond'は、あなたのために鯉の池を掘る、つまり、あなたを助ける、あなたのために何かをしてあげる、という意味合いです。 "
+    },
+    {
+      "id": 12,
+      "value": "powder patrol",
+      "options": [
+        "粉末の巡回",
+        "おしろいの警備",
+        "粉薬の監視",
+        "赤ちゃんのケア"
+      ],
+      "correctAnswer": "赤ちゃんのケア",
+      "explanation": "この文脈では、'powder patrol'は、赤ちゃんのケア、特におむつ交換時にベビーパウダーを使うことを指しています。スチュアートがバーナデットの母親のケアをしていた時に、ベビーパウダーを使っておむつかぶれを防いでいたことを示唆しています。"
+    },
+    {
+      "id": 13,
+      "value": "run out of",
+      "options": [
+        "走り出す",
+        "使い果たす",
+        "避ける",
+        "見つける"
+      ],
+      "correctAnswer": "使い果たす",
+      "explanation": "「run out of」は「～を使い果たす」「～を切らす」という意味の句動詞です。資源、時間、お金などが不足する状況を表します。例：We ran out of milk this morning. (今朝、牛乳を切らしてしまった。)"
+    },
+    {
+      "id": 14,
+      "value": "selfish",
+      "options": [
+        "利己的な",
+        "寛大な",
+        "勇敢な",
+        "正直な"
+      ],
+      "correctAnswer": "利己的な",
+      "explanation": "「selfish」は「利己的な」「わがままな」という意味の形容詞です。自分の利益だけを考えて他人を思いやらない態度を指します。例：It would be selfish of me to keep it. （それを私が持っているのはわがままだ。）"
+    },
+    {
+      "id": 15,
+      "value": "mutually owned",
+      "options": [
+        "相互に所有されている",
+        "一方的に所有されている",
+        "盗まれた",
+        "紛失した"
+      ],
+      "correctAnswer": "相互に所有されている",
+      "explanation": "「mutually owned」は「相互に所有されている」「共同で所有されている」という意味です。複数の人が共同で所有権を持っている状態を表します。例：a mutually owned company (共同所有の会社)"
+    },
+    {
+      "id": 16,
+      "value": "beloved",
+      "options": [
+        "嫌われている",
+        "愛されている",
+        "忘れられた",
+        "高価な"
+      ],
+      "correctAnswer": "愛されている",
+      "explanation": "「beloved」は「最愛の」「大切な」という意味の形容詞です。非常に愛されている人や物を指します。例：our beloved sword, Longclaw（私達の大切な剣、ロングクロウ）"
+    },
+    {
+      "id": 17,
+      "value": "limited edition",
+      "options": [
+        "限定版",
+        "通常版",
+        "海賊版",
+        "未発表"
+      ],
+      "correctAnswer": "限定版",
+      "explanation": "「limited edition」は「限定版」という意味です。生産数や販売期間が限定されている製品を指します。コレクターの間で人気があります。例：a limited edition collectible（限定版の収集品）"
+    },
+    {
+      "id": 18,
+      "value": "collectible",
+      "options": [
+        "集められる",
+        "忘れられる",
+        "販売される",
+        "破壊される"
+      ],
+      "correctAnswer": "集められる",
+      "explanation": "「collectible」は「収集価値のある」「収集品」という意味です。収集家が収集する価値がある物、または収集される物を指します。例：a limited edition collectible（限定版の収集品）"
+    },
+    {
+      "id": 19,
+      "value": "housewarming",
+      "options": [
+        "新築祝いの",
+        "暖房の",
+        "退職祝いの",
+        "結婚式の"
+      ],
+      "correctAnswer": "新築祝いの",
+      "explanation": "「housewarming」は「新築祝いの」「引っ越し祝いの」という意味です。新しい家に引っ越したことを祝う行事や贈り物に関連して使われます。例：a lovely housewarming gift（素敵な新築祝いの贈り物）"
+    },
+    {
+      "id": 20,
+      "value": "have to",
+      "options": [
+        "～しなければならない",
+        "～できる",
+        "～しても良い",
+        "～したくない"
+      ],
+      "correctAnswer": "～しなければならない",
+      "explanation": "「have to」は「～しなければならない」という意味の助動詞です。義務や必要性を表します。例：Stuart, you didn’t have to get us a baby gift. （スチュアート、ベビーギフトを貰う必要はないんだ。）"
+    },
+    {
+      "id": 21,
+      "value": "help out",
+      "options": [
+        "助ける",
+        "邪魔する",
+        "無視する",
+        "見捨てる"
+      ],
+      "correctAnswer": "助ける",
+      "explanation": "「help out」は「手伝う」「助ける」という意味の句動詞です。困難な状況にある人を支援することを指します。例：Stuart, we’d love to help you out（スチュアート、助けてあげたいのは山々なんだけど）"
+    },
+    {
+      "id": 22,
+      "value": "go off to",
+      "options": [
+        "出発する",
+        "帰宅する",
+        "旅行する",
+        "隠れる"
+      ],
+      "correctAnswer": "出発する",
+      "explanation": "「go off to」は「～へ出発する」「～へ行く」という意味の句動詞です。特定の場所へ向かうことを表します。例：the baby goes off to college（赤ちゃんが大学へ行く）"
+    },
+    {
+      "id": 23,
+      "value": "broke down",
+      "options": [
+        "故障した",
+        "成功した",
+        "改善した",
+        "発見した"
+      ],
+      "correctAnswer": "故障した",
+      "explanation": "「break down」は「故障する」「壊れる」という意味の句動詞です。機械などが正常に機能しなくなることを指します。例：my car broke down in your driveway（僕の車が君たちの家の私道で故障した）"
+    },
+    {
+      "id": 24,
+      "value": "be helpful",
+      "options": [
+        "役に立つ",
+        "邪魔になる",
+        "疲れている",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "役に立つ",
+      "explanation": "「be helpful」は「役に立つ」「助けになる」という意味です。他人を助けることができる、または助けになる行動や性質を表します。例：But I am ready to be helpful. （でも、僕は役に立つ準備ができているよ。）"
+    },
+    {
+      "id": 25,
+      "value": "smoke detectors",
+      "options": [
+        "煙探知機",
+        "金属探知機",
+        "嘘発見器",
+        "盗聴器"
+      ],
+      "correctAnswer": "煙探知機",
+      "explanation": "「smoke detector」は「煙探知機」という意味です。火災の煙を感知して警報を発する装置です。例：Then I’ll check the batteries in the smoke detectors. （それなら、煙探知機の電池をチェックするよ。）"
+    },
+    {
+      "id": 26,
+      "value": "one of a kind",
+      "options": [
+        "一般的な",
+        "ありふれた",
+        "唯一無二の",
+        "二流の"
+      ],
+      "correctAnswer": "唯一無二の",
+      "explanation": "「one of a kind」は、非常に珍しい、他に類を見ない、という意味です。他とは全く異なる独特な性質や特徴を持つものに対して使われます。類義語としては、uniqueやdistinctiveがあります。\n\n例：This painting is truly one of a kind. (この絵は本当に唯一無二だ。)"
+    },
+    {
+      "id": 27,
+      "value": "jack up the price",
+      "options": [
+        "価格を下げる",
+        "価格をつり上げる",
+        "価格を交渉する",
+        "価格を固定する"
+      ],
+      "correctAnswer": "価格をつり上げる",
+      "explanation": "「jack up the price」は、不当に価格を上げる、特に需要が高い時や機会に乗じて価格を釣り上げるという意味です。しばしば否定的なニュアンスで使用されます。\n\n例：They jacked up the price of gas after the hurricane. (彼らはハリケーンの後でガソリンの価格をつり上げた。)"
+    },
+    {
+      "id": 28,
+      "value": "come along",
+      "options": [
+        "手伝う",
+        "急ぐ",
+        "一緒に行く",
+        "立ち去る"
+      ],
+      "correctAnswer": "一緒に行く",
+      "explanation": "「come along」は、誰かと一緒に行く、同伴するという意味の句動詞です。また、物事が進展する、発達するという意味もあります。\n\n例：Are you coming along with us? (私たちと一緒に来ますか？)"
+    },
+    {
+      "id": 29,
+      "value": "a possum in the walls",
+      "options": [
+        "秘密の同居人",
+        "壁の装飾",
+        "ペット",
+        "修理が必要な箇所"
+      ],
+      "correctAnswer": "秘密の同居人",
+      "explanation": "この文脈では、「a possum in the walls」は、人に知られずにひっそりと住み着いている人（または動物）を指す比喩的な表現です。隠れて住んでいるというニュアンスが含まれています。\n\n例：I felt like a possum in the walls, living in the shadows. (私はまるで壁の中のポッサムのように、影の中で生きていると感じた。)"
+    },
+    {
+      "id": 30,
+      "value": "takeout",
+      "options": [
+        "持ち帰り",
+        "食事",
+        "配達",
+        "レシピ"
+      ],
+      "correctAnswer": "持ち帰り",
+      "explanation": "「takeout」は、レストランなどで調理された料理を持ち帰ることを意味します。アメリカ英語でよく使われる言葉です。\n\n例：Let's get some takeout for dinner tonight. (今夜は何か持ち帰りを買って夕食にしよう。)"
+    },
+    {
+      "id": 31,
+      "value": "swell up",
+      "options": [
+        "収縮する",
+        "膨らむ",
+        "腐る",
+        "しぼむ"
+      ],
+      "correctAnswer": "膨らむ",
+      "explanation": "「swell up」は、液体やガスなどが原因で膨張する、腫れるという意味です。体の一部が腫れる場合や、感情が高ぶる場合にも使われます。\n\n例：Her ankles swelled up after the long flight. (長時間のフライトの後、彼女の足首が腫れた。)"
+    },
+    {
+      "id": 32,
+      "value": "one weird trick",
+      "options": [
+        "簡単な方法",
+        "複雑な手順",
+        "魔法",
+        "古い習慣"
+      ],
+      "correctAnswer": "簡単な方法",
+      "explanation": "インターネット広告などでよく使われる表現で、通常は信じがたいほど簡単で効果的な方法を指します。しばしば誇張された表現が用いられます。\n\n例：You won't believe this one weird trick to lose weight! (この体重を減らすための驚くべき簡単な方法を信じられないでしょう！)"
+    },
+    {
+      "id": 33,
+      "value": "go-to move",
+      "options": [
+        "得意な戦法",
+        "最終手段",
+        "新しい試み",
+        "秘密の場所"
+      ],
+      "correctAnswer": "得意な戦法",
+      "explanation": "「go-to move」は、頼りになる、または最もよく使う戦略、行動、または解決策を指します。特に困難な状況で最初に試みる手段を意味します。\n\n例：When I'm stressed, my go-to move is to take a long bath. (ストレスが溜まったとき、私の得意な戦法は長風呂に入ることだ。)"
+    },
+    {
+      "id": 34,
+      "value": "powder me in sugar",
+      "options": [
+        "驚きを表す",
+        "喜びを表す",
+        "悲しみを表す",
+        "怒りを表す"
+      ],
+      "correctAnswer": "驚きを表す",
+      "explanation": "「Powder me in sugar and call me a doughnut」というフレーズは、驚きや信じられない気持ちを表すための、やや古風でユーモラスな言い回しです。直訳すると「砂糖をまぶしてドーナツと呼んでくれ」となり、ありえないことが起こったという意味合いが含まれています。\n\n例：Well, powder me in sugar and call me a doughnut, I never thought I'd see him again! (まさか、彼にまた会えるなんて思わなかった！)"
+    },
+    {
+      "id": 35,
+      "value": "shared times",
+      "options": [
+        "秘密の時間",
+        "共有した時間",
+        "失われた時間",
+        "無駄な時間"
+      ],
+      "correctAnswer": "共有した時間",
+      "explanation": "「shared times」は、複数人で一緒に過ごした時間、共有した経験を指します。喜びや悲しみ、成功や失敗など、共に分かち合った思い出が含まれることが多いです。\n\n例：These photos remind me of our shared times together. (これらの写真は、私たちが一緒に過ごした共有の時間を思い出させる。)"
+    },
+    {
+      "id": 36,
+      "value": "physical reminder",
+      "options": [
+        "口頭での注意",
+        "身体的な罰",
+        "物質的な記憶",
+        "精神的な暗示"
+      ],
+      "correctAnswer": "物質的な記憶",
+      "explanation": "「physical reminder」とは、物として残る記憶の品のことです。写真、手紙、贈り物などが該当し、過去の出来事や感情を思い出させる役割を果たします。\n\n例：This old photo album is a physical reminder of our childhood adventures. (この古い写真アルバムは、私たちの子供時代の冒険を物質的に思い出させてくれる。)"
+    },
+    {
+      "id": 37,
+      "value": "flag community",
+      "options": [
+        "旗を作る会社",
+        "旗を売る店",
+        "旗のデザイン",
+        "旗を愛好する人々の集まり"
+      ],
+      "correctAnswer": "旗を愛好する人々の集まり",
+      "explanation": "「flag community」とは、旗（flags）のデザイン、歴史、象徴性などに関心を持つ人々の集まりのことです。旗に関する知識を共有したり、新しい旗のデザインについて議論したりします。\n\n例：He is very active in the flag community, attending conferences and workshops regularly. (彼は旗のコミュニティで非常に活発で、定期的に会議やワークショップに参加している。)"
+    },
+    {
+      "id": 38,
+      "value": "Batsuit",
+      "options": [
+        "コウモリのスーツ",
+        "スーパーヒーローの衣装",
+        "ハロウィーンのコスチューム",
+        "防護服"
+      ],
+      "correctAnswer": "スーパーヒーローの衣装",
+      "explanation": "「Batsuit」とは、バットマン（Batman）が着るスーパーヒーローの衣装のことです。コウモリをモチーフにしたデザインで、様々な機能が搭載されています。\n\n例：He wore his Batsuit to the comic convention. (彼はコミックコンベンションにバットスーツを着て行った。)"
+    },
+    {
+      "id": 39,
+      "value": "stink at",
+      "options": [
+        "得意である",
+        "普通である",
+        "嫌いである",
+        "下手である"
+      ],
+      "correctAnswer": "下手である",
+      "explanation": "「stink at」は、あることが非常に下手であることを意味する口語的な表現です。強い否定的な意味合いを持ちます。\n\n例：I stink at playing the guitar. (私はギターを弾くのがとても下手だ。)"
+    },
+    {
+      "id": 40,
+      "value": "be selfish",
+      "options": [
+        "寛大である",
+        "無私無欲である",
+        "わがままである",
+        "控えめである"
+      ],
+      "correctAnswer": "わがままである",
+      "explanation": "「be selfish」は、自分のことばかり考えて他人のことを顧みない、わがままな行動をとることを意味します。利己的な行動を非難する際に使われます。\n\n例：It's selfish to take all the credit for the team's work. (チームの仕事の功績をすべて自分のものにするのはわがままだ。)"
+    },
+    {
+      "id": 41,
+      "value": "skip kindergarten",
+      "options": [
+        "幼稚園を卒業する",
+        "幼稚園を辞める",
+        "幼稚園に通う",
+        "幼稚園を飛ばす"
+      ],
+      "correctAnswer": "幼稚園を飛ばす",
+      "explanation": "「skip kindergarten」は、幼稚園に通わずに小学校に進学することを意味します。早期教育を受けずに、年齢よりも上の学年に進む場合に用いられます。\n\n例：He was so smart that he skipped kindergarten and went straight to first grade. (彼はとても賢かったので、幼稚園を飛ばして直接1年生に進んだ。)"
+    },
+    {
+      "id": 42,
+      "value": "well-known",
+      "options": [
+        "秘密の",
+        "忘れられた",
+        "有名な",
+        "無名の"
+      ],
+      "correctAnswer": "有名な",
+      "explanation": "「well-known」は、多くの人に知られている、有名な、という意味です。人や場所、物事など、広く認知されている対象に使われます。\n\n例：She is a well-known actress in Hollywood. (彼女はハリウッドで有名な女優だ。)"
+    },
+    {
+      "id": 43,
+      "value": "sticking its tongue out",
+      "options": [
+        "舌を隠している",
+        "舌を出している",
+        "口を閉じている",
+        "笑っている"
+      ],
+      "correctAnswer": "舌を出している",
+      "explanation": "「sticking its tongue out」は、舌を突き出す、嘲笑や軽蔑の意を示す行為です。子供がふざけて行うこともあります。\n\n例：The child was sticking its tongue out at the teacher. (その子供は先生に舌を出していた。)"
+    },
+    {
+      "id": 44,
+      "value": "butler",
+      "options": [
+        "料理人",
+        "庭師",
+        "執事",
+        "運転手"
+      ],
+      "correctAnswer": "執事",
+      "explanation": "「butler」は、富裕な家庭で家事全般を管理し、特に食事の世話や来客の応対をする男性使用人です。格式の高い職業とされています。\n\n例：The butler announced dinner was served. (執事が夕食の準備ができたことを告げた。)"
+    },
+    {
+      "id": 45,
+      "value": "shared times together",
+      "options": [
+        "秘密の出会い",
+        "共通の趣味",
+        "一緒に過ごした時間",
+        "個人的な悩み"
+      ],
+      "correctAnswer": "一緒に過ごした時間",
+      "explanation": "「shared times together」は、複数人で一緒に過ごした時間、共通の経験を指します。喜びや悲しみ、成功や失敗など、共に分かち合った思い出が含まれることが多いです。\n\n例：These photos remind me of our shared times together. (これらの写真は、私たちが一緒に過ごした共有の時間を思い出させる。)"
+    },
+    {
+      "id": 46,
+      "value": "manage to win",
+      "options": [
+        "勝利を避ける",
+        "勝利を確信する",
+        "勝利を諦める",
+        "どうにかして勝つ"
+      ],
+      "correctAnswer": "どうにかして勝つ",
+      "explanation": "「manage to win」は、困難な状況や競争の中で、なんとか勝利を収めることを意味します。努力や工夫によって目標を達成するニュアンスが含まれます。\n\n例：Despite the difficulties, he managed to win the race. (困難にもかかわらず、彼はどうにかしてレースに勝った。)"
+    },
+    {
+      "id": 47,
+      "value": "kindness",
+      "options": [
+        "厳しさ",
+        "怒り",
+        "親切心",
+        "無関心"
+      ],
+      "correctAnswer": "親切心",
+      "explanation": "「kindness」は、優しさ、思いやり、親切心という意味です。他者に対する友好的な行動や態度を指します。\n\n例：He showed great kindness to the homeless man. (彼はホームレスの男性に大きな親切心を示した。)"
+    },
+    {
+      "id": 48,
+      "value": "represent",
+      "options": [
+        "隠す",
+        "歪曲する",
+        "表現する",
+        "無視する"
+      ],
+      "correctAnswer": "表現する",
+      "explanation": "「represent」は、象徴する、表す、という意味です。あるものが別のものを象徴的に示す場合に使われます。\n\n例：The dove represents peace. (ハトは平和を象徴する。)"
+    },
+    {
+      "id": 49,
+      "value": "revenge",
+      "options": [
+        "許し",
+        "感謝",
+        "復讐",
+        "友情"
+      ],
+      "correctAnswer": "復讐",
+      "explanation": "「revenge」は、復讐、仕返しという意味です。受けた危害や不正に対して、同じような苦しみを与える行為を指します。しばしば否定的な感情を伴います。\n\n例：He sought revenge for the death of his father. (彼は父親の死の復讐を求めた。)"
+    },
+    {
+      "id": 50,
+      "value": "warn",
+      "options": [
+        "歓迎する",
+        "励ます",
+        "警告する",
+        "無視する"
+      ],
+      "correctAnswer": "警告する",
+      "explanation": "「warn」は、警告する、注意するという意味です。危険や不都合な事態を知らせ、注意を促す行為を指します。\n\n例：I warned him not to go out alone at night. (私は彼に夜に一人で出かけないように警告した。)"
+    },
+    {
+      "id": 51,
+      "value": "out of your length, width and depth",
+      "options": [
+        "得意分野である",
+        "完全に理解している",
+        "手に負えない",
+        "準備万端である"
+      ],
+      "correctAnswer": "手に負えない",
+      "explanation": "「out of your depth」は、能力や知識が及ばない、手に負えない状況であることを意味します。この表現にlengthとwidthを加えることで、比喩的に状況の把握がさらに困難であることを強調しています。"
+    },
+    {
+      "id": 52,
+      "value": "get burned",
+      "options": [
+        "恥をかく",
+        "成功する",
+        "理解する",
+        "無視する"
+      ],
+      "correctAnswer": "恥をかく",
+      "explanation": "「get burned」は、比喩的に「恥をかく」「痛い目を見る」という意味です。ここでは、相手の言葉に打ちのめされた状況を指しています。文字通りの火傷の意味でも使われますが、ここでは比喩的な意味合いが強いです。"
+    },
+    {
+      "id": 53,
+      "value": "autobiography",
+      "options": [
+        "自画像",
+        "自叙伝",
+        "自作の詩",
+        "自尊心"
+      ],
+      "correctAnswer": "自叙伝",
+      "explanation": "「autobiography」は「自叙伝」という意味です。自分の人生について自分で書いた本を指します。似た言葉に「biography（伝記）」がありますが、これは他人が書いた伝記を指します。"
+    },
+    {
+      "id": 54,
+      "value": "been meaning to",
+      "options": [
+        "完了した",
+        "するつもりだった",
+        "禁止されている",
+        "反対している"
+      ],
+      "correctAnswer": "するつもりだった",
+      "explanation": "「be meaning to」は「～するつもりだった」という意味です。過去のある時点から現在まで、ずっとそう思っていたけれど、まだ実行できていないことを表します。例えば、「I've been meaning to call you. (電話しようと思ってたんだ)」のように使います。"
+    },
+    {
+      "id": 55,
+      "value": "kick back",
+      "options": [
+        "反撃する",
+        "急いで行動する",
+        "リラックスする",
+        "努力する"
+      ],
+      "correctAnswer": "リラックスする",
+      "explanation": "「kick back」は「リラックスする」「くつろぐ」という意味です。特に、ソファなどに座ってリラックスする様子を表すことが多いです。類義語には「chill out」や「relax」などがあります。"
+    },
+    {
+      "id": 56,
+      "value": "under control",
+      "options": [
+        "制御不能",
+        "秘密裏に",
+        "管理下にある",
+        "監視されている"
+      ],
+      "correctAnswer": "管理下にある",
+      "explanation": "「under control」は「管理下にある」「制御されている」という意味です。状況や物事がきちんと管理されている状態を表します。対義語は「out of control（制御不能）」です。"
+    },
+    {
+      "id": 57,
+      "value": "it takes a village",
+      "options": [
+        "村を作る必要がある",
+        "多くの人の助けが必要",
+        "秘密を守る必要がある",
+        "孤独を楽しむべきだ"
+      ],
+      "correctAnswer": "多くの人の助けが必要",
+      "explanation": "「It takes a village (to raise a child)」は、「子供を育てるには村全体の協力が必要だ」という諺です。転じて、何か大きなことを成し遂げるには多くの人の助けが必要だという意味で使われます。"
+    },
+    {
+      "id": 58,
+      "value": "checking out",
+      "options": [
+        "無視する",
+        "確認する",
+        "避ける",
+        "隠す"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check out」は、ここでは「確認する」「調べる」という意味です。特定の場所や物を訪れて確認する行動を指します。他に、「（ホテルなどを）チェックアウトする」という意味もあります。"
+    },
+    {
+      "id": 59,
+      "value": "We'll pass",
+      "options": [
+        "合格する",
+        "遠慮する",
+        "通過する",
+        "伝える"
+      ],
+      "correctAnswer": "遠慮する",
+      "explanation": "「We'll pass」は、「遠慮します」「結構です」という意味です。提案や申し出を丁寧に断る際に使われます。例えば、何かを勧められた際に「No, thank you, I'll pass.（いいえ、結構です）」のように使います。"
+    },
+    {
+      "id": 60,
+      "value": "stooping to",
+      "options": [
+        "耐える",
+        "屈する",
+        "上昇する",
+        "尊敬する"
+      ],
+      "correctAnswer": "屈する",
+      "explanation": "「stoop to」は「（人が）～に身を落とす、～に屈する」という意味です。本来ならしないような低い行為や手段に及ぶことを表します。例えば、「He would never stoop to bribery.（彼は決して賄賂などという手段に屈しないだろう）」のように使います。"
+    },
+    {
+      "id": 61,
+      "value": "Easy-peasy",
+      "options": [
+        "非常に難しい",
+        "簡単",
+        "不可能",
+        "複雑"
+      ],
+      "correctAnswer": "簡単",
+      "explanation": "「Easy-peasy」は「とても簡単」「朝飯前」という意味のスラングです。子供が使うような可愛らしい表現で、大人が使うと少しユーモラスな印象を与えます。類似の表現に「piece of cake」があります。"
+    },
+    {
+      "id": 62,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "どこに行くの？",
+        "何が起きたの？",
+        "元気ですか？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、カジュアルな挨拶で「調子はどう？」「何かあった？」という意味です。友人や親しい人に会ったときに使われます。類似の表現に「How's it going?」や「What's new?」があります。"
+    },
+    {
+      "id": 63,
+      "value": "realize",
+      "options": [
+        "後悔する",
+        "理解する",
+        "夢を見る",
+        "忘れる"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「realize」は「理解する」「気づく」という意味です。今まで知らなかったことや認識していなかったことに気づく瞬間に使われます。例えば、「I didn't realize how late it was.（もうこんな時間だとは気づかなかった）」のように使います。"
+    },
+    {
+      "id": 64,
+      "value": "mooching off",
+      "options": [
+        "自立する",
+        "依存する",
+        "貢献する",
+        "無視する"
+      ],
+      "correctAnswer": "依存する",
+      "explanation": "「mooch off」は「～にたかる」「～に寄生する」という意味です。特に、金銭的な援助や恩恵を受けて生活している状態を指します。軽蔑的なニュアンスが含まれることが多いです。"
+    },
+    {
+      "id": 65,
+      "value": "third wheel",
+      "options": [
+        "邪魔者",
+        "協力者",
+        "指導者",
+        "競争相手"
+      ],
+      "correctAnswer": "邪魔者",
+      "explanation": "「third wheel」は「（カップルの）邪魔者」という意味です。デートや親密な状況に不必要に同席する人を指します。例えば、カップルのデートに友達がついてくるような状況です。"
+    },
+    {
+      "id": 66,
+      "value": "take-out",
+      "options": [
+        "持ち帰り",
+        "店内飲食",
+        "予約",
+        "割引"
+      ],
+      "correctAnswer": "持ち帰り",
+      "explanation": "「take-out」は「持ち帰り」という意味です。レストランなどで料理を店内で食べずに持ち帰ることを指します。アメリカ英語では「take-out」が一般的ですが、イギリス英語では「takeaway」が使われます。"
+    },
+    {
+      "id": 67,
+      "value": "linens",
+      "options": [
+        "カーテン",
+        "食器",
+        "寝具",
+        "家具"
+      ],
+      "correctAnswer": "寝具",
+      "explanation": "「linens」は「リネン製品」「寝具」という意味です。シーツ、枕カバー、タオルなど、家庭で使用される布製品を指します。特にベッド周りのものを指すことが多いです。"
+    },
+    {
+      "id": 68,
+      "value": "room mates",
+      "options": [
+        "ルームサービス",
+        "ルームメイト",
+        "ルームウェア",
+        "ルームランナー"
+      ],
+      "correctAnswer": "ルームメイト",
+      "explanation": "「roommate」は「ルームメイト」「同室者」という意味です。部屋を共有する人を指します。大学の寮やシェアハウスなどで一緒に住む人を指すことが多いです。"
+    },
+    {
+      "id": 69,
+      "value": "leave you be",
+      "options": [
+        "放置する",
+        "手伝う",
+        "招待する",
+        "見守る"
+      ],
+      "correctAnswer": "放置する",
+      "explanation": "「leave someone be」は「～をそっとしておく」「～を邪魔しない」という意味です。相手に干渉せず、自由にさせておくことを表します。例えば、「Just leave him be, he needs some time alone.（彼をそっとしておいてあげて、一人になる時間が必要なんだ）」のように使います。"
+    },
+    {
+      "id": 70,
+      "value": "over the line",
+      "options": [
+        "適切である",
+        "限界を超えている",
+        "規則に従っている",
+        "改善の余地がある"
+      ],
+      "correctAnswer": "限界を超えている",
+      "explanation": "「over the line」は「度を越している」「許容範囲を超えている」という意味です。不適切または容認できない行動や発言を指します。例えば、「That joke was over the line.（そのジョークは度が過ぎていた）」のように使います。"
+    },
+    {
+      "id": 71,
+      "value": "blood bank",
+      "options": [
+        "銀行",
+        "献血",
+        "血液",
+        "輸血"
+      ],
+      "correctAnswer": "献血",
+      "explanation": "「blood bank」は「血液バンク」「献血所」という意味です。献血された血液を保管し、必要な人に供給する施設を指します。"
+    },
+    {
+      "id": 72,
+      "value": "go with",
+      "options": [
+        "反対する",
+        "賛成する",
+        "議論する",
+        "無視する"
+      ],
+      "correctAnswer": "賛成する",
+      "explanation": "「go with」は「～を選ぶ」「～に賛成する」という意味です。選択肢の中から一つを選び、それに従うことを表します。例えば、「I think we should go with the blue one.（青い方を選ぶべきだと思う）」のように使います。"
+    },
+    {
+      "id": 73,
+      "value": "stimulus",
+      "options": [
+        "刺激",
+        "鎮静",
+        "抑制",
+        "疲労"
+      ],
+      "correctAnswer": "刺激",
+      "explanation": "「stimulus」は「刺激」という意味です。感覚や行動を引き起こすもの、または活性化させるものを指します。ここでは、赤ちゃんの視覚を刺激するものを指しています。"
+    },
+    {
+      "id": 74,
+      "value": "developing baby",
+      "options": [
+        "発達中の赤ちゃん",
+        "退化した赤ちゃん",
+        "未熟な赤ちゃん",
+        "健康な赤ちゃん"
+      ],
+      "correctAnswer": "発達中の赤ちゃん",
+      "explanation": "「developing baby」は「発達中の赤ちゃん」という意味です。成長過程にある赤ちゃんを指します。特に、身体的、精神的な発達が活発な時期の赤ちゃんを指します。"
+    },
+    {
+      "id": 75,
+      "value": "Good choice, boss.",
+      "options": [
+        "良い選択だ、上司。",
+        "悪い選択だ、上司。",
+        "無関心だ、上司。",
+        "どうでもいい、上司。"
+      ],
+      "correctAnswer": "良い選択だ、上司。",
+      "explanation": "「Good choice, boss.」は「いい選択ですね、ボス」という意味です。相手の選択を肯定的に評価し、敬意を示す表現です。相手が上司や目上の人である場合に適切です。"
+    },
+    {
+      "id": 76,
+      "value": "naturally",
+      "options": [
+        "人工的に",
+        "不自然に",
+        "当然に",
+        "稀に"
+      ],
+      "correctAnswer": "当然に",
+      "explanation": "「naturally」は、生まれつき、自然に、当然にという意味です。ここでは、Rajの鼻の色が生まれつきのものであることを強調しています。例文：She is naturally beautiful. (彼女は生まれつき美しい。)"
+    },
+    {
+      "id": 77,
+      "value": "supposed to",
+      "options": [
+        "～することになっている",
+        "～するべきではない",
+        "～することができた",
+        "～する必要はない"
+      ],
+      "correctAnswer": "～することになっている",
+      "explanation": "「be supposed to」は、～することになっている、～するはずであるという意味です。ここでは、StuartがBernadetteの足の爪を塗ることになっていることを表しています。例文：I am supposed to meet him at 5. (私は5時に彼に会うことになっている。)"
+    },
+    {
+      "id": 78,
+      "value": "ridiculous",
+      "options": [
+        "真面目",
+        "ばかげている",
+        "深刻",
+        "重要"
+      ],
+      "correctAnswer": "ばかげている",
+      "explanation": "「ridiculous」は、ばかげている、滑稽なという意味です。例文：That's a ridiculous idea. (それはばかげた考えだ。)"
+    },
+    {
+      "id": 79,
+      "value": "vengeful",
+      "options": [
+        "友好的な",
+        "寛容な",
+        "復讐心の強い",
+        "平和な"
+      ],
+      "correctAnswer": "復讐心の強い",
+      "explanation": "「vengeful」は、復讐心の強いという意味です。例文：He is a vengeful man. (彼は復讐心の強い男だ。)"
+    },
+    {
+      "id": 80,
+      "value": "go out of your way",
+      "options": [
+        "邪魔をする",
+        "道を譲る",
+        "わざわざ～する",
+        "普通にしている"
+      ],
+      "correctAnswer": "わざわざ～する",
+      "explanation": "「go out of your way」は、わざわざ～する、特別な努力をするという意味です。例文：He went out of his way to help me. (彼はわざわざ私を助けてくれた。)"
+    },
+    {
+      "id": 81,
+      "value": "possessions",
+      "options": [
+        "貧困",
+        "所有物",
+        "負債",
+        "自由"
+      ],
+      "correctAnswer": "所有物",
+      "explanation": "「possession」は、所有物、財産という意味です。例文：These are my personal possessions. (これらは私の個人的な所有物です。)"
+    },
+    {
+      "id": 82,
+      "value": "phase",
+      "options": [
+        "段階",
+        "過去",
+        "未来",
+        "目的"
+      ],
+      "correctAnswer": "段階",
+      "explanation": "「phase」は、段階、局面という意味です。例文：He is going through a difficult phase in his life. (彼は人生の困難な段階を経験している。)"
+    },
+    {
+      "id": 83,
+      "value": "no hard feelings",
+      "options": [
+        "愛情",
+        "恨みはない",
+        "強い感情",
+        "感謝"
+      ],
+      "correctAnswer": "恨みはない",
+      "explanation": "「no hard feelings」は、恨みはない、悪く思わないという意味です。例文：I hope there are no hard feelings. (恨みがないといいのですが。)"
+    },
+    {
+      "id": 84,
+      "value": "hideous",
+      "options": [
+        "美しい",
+        "普通",
+        "醜い",
+        "豪華"
+      ],
+      "correctAnswer": "醜い",
+      "explanation": "「hideous」は、非常に醜い、不快なという意味です。例文：That is a hideous dress. (それはひどく醜いドレスだ。)"
+    },
+    {
+      "id": 85,
+      "value": "brings the room together",
+      "options": [
+        "部屋を分割する",
+        "部屋をまとめる",
+        "部屋を空にする",
+        "部屋を飾る"
+      ],
+      "correctAnswer": "部屋をまとめる",
+      "explanation": "「bring the room together」は、部屋の雰囲気を調和させる、統一感を出すという意味です。例文：That rug really brings the room together. (そのラグは本当に部屋をまとめている。)"
+    },
+    {
+      "id": 86,
+      "value": "nursery",
+      "options": [
+        "庭",
+        "保育室",
+        "食堂",
+        "書斎"
+      ],
+      "correctAnswer": "保育室",
+      "explanation": "「nursery」は、保育室、託児所という意味です。例文：We need to paint the nursery before the baby arrives. (赤ちゃんが来る前に保育室を塗る必要がある。)"
+    },
+    {
+      "id": 87,
+      "value": "starving",
+      "options": [
+        "満足している",
+        "空腹である",
+        "満腹である",
+        "退屈している"
+      ],
+      "correctAnswer": "空腹である",
+      "explanation": "「starving」は、飢えている、非常に空腹であるという意味です。例文：I'm starving! Let's get some food. (お腹がペコペコだ！何か食べに行こう。)"
+    },
+    {
+      "id": 88,
+      "value": "sickly",
+      "options": [
+        "健康的な",
+        "病弱な",
+        "元気な",
+        "太っている"
+      ],
+      "correctAnswer": "病弱な",
+      "explanation": "「sickly」は、病弱な、不健康そうなという意味です。例文：He looked sickly and pale. (彼は病弱そうで青ざめていた。)"
+    },
+    {
+      "id": 89,
+      "value": "in labor",
+      "options": [
+        "休憩中",
+        "仕事中",
+        "分娩中",
+        "睡眠中"
+      ],
+      "correctAnswer": "分娩中",
+      "explanation": "「in labor」は、分娩中、陣痛中という意味です。例文：She went into labor last night. (彼女は昨夜、陣痛が始まった。)"
+    },
+    {
+      "id": 90,
+      "value": "van",
+      "options": [
+        "車",
+        "バン",
+        "トラック",
+        "自転車"
+      ],
+      "correctAnswer": "バン",
+      "explanation": "「van」は、バン、ワゴン車という意味です。例文：We need a van to move all this stuff. (これらすべてのものを移動させるにはバンが必要だ。)"
+    },
+    {
+      "id": 91,
+      "value": "Team Baby",
+      "options": [
+        "子供チーム",
+        "赤ちゃんチーム",
+        "大人チーム",
+        "ペットチーム"
+      ],
+      "correctAnswer": "赤ちゃんチーム",
+      "explanation": "ここではBernadetteの出産をサポートするチームの名前として使われています。緊急事態に迅速に対応するためのチームワークを象徴する表現です。"
+    },
+    {
+      "id": 92,
+      "value": "Text me",
+      "options": [
+        "電話して",
+        "手紙を書いて",
+        "メッセージを送って",
+        "メールを送って"
+      ],
+      "correctAnswer": "メッセージを送って",
+      "explanation": "「Text me」は、「私にテキストメッセージを送って」という意味です。例文：Text me when you get home. (家に帰ったらメッセージを送って。)"
+    },
+    {
+      "id": 93,
+      "value": "Keep it down",
+      "options": [
+        "静かにして",
+        "大声で話して",
+        "もっと話して",
+        "歌って"
+      ],
+      "correctAnswer": "静かにして",
+      "explanation": "「Keep it down」は、「静かにして」という意味です。騒音を抑えるように頼む際に使われます。例文：Could you please keep it down? I'm trying to study. (静かにしてもらえますか？勉強しようとしています。)"
+    },
+    {
+      "id": 94,
+      "value": "selfish",
+      "options": [
+        "利他的な",
+        "思いやりのある",
+        "わがままな",
+        "優しい"
+      ],
+      "correctAnswer": "わがままな",
+      "explanation": "「selfish」は、「利己的な、わがままな」という意味です。例文：It was very selfish of you to eat all the cake. (ケーキを全部食べるなんて、あなたはとてもわがままだった。)"
+    },
+    {
+      "id": 95,
+      "value": "willing to",
+      "options": [
+        "喜んで～する",
+        "～することに反対する",
+        "～することができない",
+        "～することを忘れる"
+      ],
+      "correctAnswer": "喜んで～する",
+      "explanation": "「willing to」は、「喜んで～する」という意味です。自発的な意思を示す際に使われます。例文：I am willing to help you with your homework. (私はあなたの宿題を手伝うことを厭いません。)"
+    },
+    {
+      "id": 96,
+      "value": "Shine",
+      "options": [
+        "輝く",
+        "曇る",
+        "消える",
+        "隠れる"
+      ],
+      "correctAnswer": "輝く",
+      "explanation": "「Shine」は「輝く」という意味ですが、ここでは「得意とする」という意味合いで使われています。例文: He shines in his role as a leader. (彼はリーダーとしての役割で輝いている。)"
+    },
+    {
+      "id": 97,
+      "value": "At some point",
+      "options": [
+        "決して～ない",
+        "いつも",
+        "いつか",
+        "絶対に"
+      ],
+      "correctAnswer": "いつか",
+      "explanation": "「At some point」は、「いつか」という意味です。例文：At some point, you have to make a decision. (いつか、あなたは決断をしなければならない。)"
+    },
+    {
+      "id": 98,
+      "value": "Pull up",
+      "options": [
+        "立ち去る",
+        "引き上げる",
+        "到着する",
+        "崩壊する"
+      ],
+      "correctAnswer": "到着する",
+      "explanation": "「Pull up」は、「到着する」という意味です。例文：He pulled up in front of the building. (彼は建物の前に到着した。)"
+    },
+    {
+      "id": 99,
+      "value": "Keep on",
+      "options": [
+        "止める",
+        "続ける",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「Keep on」は、「続ける」という意味です。例文：Keep on trying, you'll get it eventually. (頑張り続ければ、いつかはできるようになる。)"
+    },
+    {
+      "id": 100,
+      "value": "awful",
+      "options": [
+        "素晴らしい",
+        "ひどい",
+        "普通",
+        "面白い"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「awful」は、「ひどい、不快な」という意味です。例文：The weather is awful today. (今日の天気はひどい。)"
+    }
+  ]
+}
