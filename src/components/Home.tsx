@@ -1,18 +1,41 @@
-import React, { useState } from 'react';
-// Remove Link import
+import React, { useState, useEffect } from 'react';
 
 interface HomeProps {
   onStartQuiz: (season: string, episode: string) => void;
-  onStartReview: () => void; // Add onStartReview prop
+  onStartReview: () => void;
 }
 
-const Home: React.FC<HomeProps> = ({ onStartQuiz, onStartReview }) => { // Destructure onStartReview
+interface EpisodeList {
+  [season: string]: string[];
+}
+
+const Home: React.FC<HomeProps> = ({ onStartQuiz, onStartReview }) => {
   const [season, setSeason] = useState('01');
   const [episode, setEpisode] = useState('01');
+  const [episodeList, setEpisodeList] = useState<EpisodeList>({});
+
+  useEffect(() => {
+    const fetchEpisodeList = async () => {
+      try {
+        const response = await fetch('/data/episode_list.json');
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data: EpisodeList = await response.json();
+        setEpisodeList(data);
+      } catch (error) {
+        console.error("Could not fetch episode list:", error);
+      }
+    };
+
+    fetchEpisodeList();
+  }, []);
 
   const handleStartQuiz = () => {
     onStartQuiz(season, episode);
   };
+
+  const episodeOptions = episodeList[season] || [];
 
   return (
     <div>
@@ -22,13 +45,18 @@ const Home: React.FC<HomeProps> = ({ onStartQuiz, onStartReview }) => { // Destr
         <select
           id="season"
           value={season}
-          onChange={(e) => setSeason(e.target.value)}
+          onChange={(e) => {
+            setSeason(e.target.value);
+            setEpisode('01'); // Reset episode when season changes
+          }}
         >
-          {Array.from({ length: 10 }, (_, i) => i + 1).map((seasonNumber) => (
-            <option key={seasonNumber} value={String(seasonNumber).padStart(2, '0')}>
+            {Object.keys(episodeList)
+            .sort((a, b) => parseInt(a) - parseInt(b))
+            .map((seasonNumber) => (
+              <option key={seasonNumber} value={seasonNumber}>
               {seasonNumber}
-            </option>
-          ))}
+              </option>
+            ))}
         </select>
       </div>
       <div>
@@ -38,27 +66,25 @@ const Home: React.FC<HomeProps> = ({ onStartQuiz, onStartReview }) => { // Destr
           value={episode}
           onChange={(e) => setEpisode(e.target.value)}
         >
-          {Array.from({ length: 24 }, (_, i) => i + 1).map((episodeNumber) => (
-            <option key={episodeNumber} value={String(episodeNumber).padStart(2, '0')}>
-              {episodeNumber}
+          {episodeOptions.map((episodeTitle, index) => (
+            <option key={index} value={String(index+1).padStart(2, '0')}>
+              {episodeTitle}
             </option>
           ))}
         </select>
       </div>
       <button onClick={handleStartQuiz}>開始</button>
-      {/* Change Link to button calling onStartReview */}
       <button onClick={onStartReview} className="home-button">
         復習モード
       </button>
-      {/* Add button to clear localStorage */}
       <button
         onClick={() => {
-          if (window.confirm('復習データをクリアしますか？ (Clear review data?)')) {
+          if (window.confirm('復習データをクリアしますか？')) {
             localStorage.removeItem('incorrectQuestions');
-            alert('復習データをクリアしました。(Review data cleared.)');
+            alert('復習データをクリアしました。');
           }
         }}
-        style={{ marginLeft: '10px', backgroundColor: '#ffcccc' }} // Add some styling
+        style={{ marginLeft: '10px', backgroundColor: '#ffcccc' }}
       >
         復習データをクリア
       </button>
