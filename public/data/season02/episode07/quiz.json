@@ -12,7 +12,9 @@
       "correctAnswer": "書くのをやめる",
       "explanation": "「pencils down」は、試験やゲームなどで、時間切れになった際に「書くのをやめなさい」という意味で使われる表現です。指示を出す側が使います。",
       "etymology": "試験やゲームなどで、時間切れになった際に「書くのをやめなさい」という意味で使われる指示から来ています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Time. Alright Klingons, pencils down.",
+      "scriptContextTranslation": "Sheldon: 時間だ。よし、クリンゴン語戦士たち、鉛筆を置け。"
     },
     {
       "id": 2,
@@ -26,7 +28,9 @@
       "correctAnswer": "結局のところ",
       "explanation": "「as it turns out」は、「結局のところ」「〜ということがわかった」という意味で、意外な事実や結果を述べる際に使われます。想定外の展開や、後になって判明した事柄を伝えるニュアンスがあります。\n\n例：As it turns out, I was wrong. (結局のところ、私が間違っていました。)",
       "etymology": "「結局のところ」「〜ということがわかった」という意味で、意外な事実や結果を述べる際に使われる表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Well, as it turns out, it’s also a Klingon word.",
+      "scriptContextTranslation": "Howard: まあ、それがクリンゴン語でもあるんだよ。"
     },
     {
       "id": 3,
@@ -40,7 +44,9 @@
       "correctAnswer": "心のこもった",
       "explanation": "「hearty」は、ここでは「（料理などが）ボリュームのある、栄養満点の」という意味で使われています。また、「心のこもった、温かい」という意味もあります。\n\n例：a hearty welcome (心からの歓迎)",
       "etymology": "「心臓の」を意味するheartに由来し、「心のこもった」「元気な」という意味へと発展しました。料理に対しては「心が温まるような」「栄養満点な」という意味合いになります。",
-      "pronounciation": "/ˈhɑːrti/"
+      "pronounciation": "/ˈhɑːrti/",
+      "scriptContext": "Howard: Kreplach, A hearty Klingon… dumpling.",
+      "scriptContextTranslation": "Howard: Kreplach、元気が出るクリンゴンの…ダンプリング。"
     },
     {
       "id": 4,
@@ -54,7 +60,9 @@
       "correctAnswer": "騒音",
       "explanation": "「static」は、ここではテレビやラジオの「雑音、ノイズ」という意味で使われています。また、「静的な、変化のない」という意味もあります。\n\n例：The radio was full of static. (ラジオは雑音だらけだった。)",
       "etymology": "「静止した」という意味の他に、摩擦電気によって発生するノイズを指す言葉としても使われます。テレビやラジオの雑音は、電波の静電気的な干渉によって生じるため、この名がつきました。",
-      "pronounciation": "/ˈstætɪk/"
+      "pronounciation": "/ˈstætɪk/",
+      "scriptContext": "Penny: I don’t know, it just died, I’m getting a bunch of static.",
+      "scriptContextTranslation": "Penny: わからないの、突然壊れたの。ザーザー音しかしないの。"
     },
     {
       "id": 5,
@@ -68,7 +76,9 @@
       "correctAnswer": "誰かを解雇する",
       "explanation": "「kick someone off」は、「（グループやチーム、番組などから）誰かを追い出す、解雇する」という意味です。ここではリアリティ番組から脱落させるという意味で使われています。\n\n例：He was kicked off the team for bad behavior. (彼は素行不良でチームから追い出された。)",
       "etymology": "「kick」は蹴るという意味ですが、「kick someone off」で、誰かを文字通り蹴り出すイメージから、グループやチームから追い出す、解雇するという意味になりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: You sound just like the cable company. All right, so, shh, Tyra Banks is about to kick someone off America’s Next Top Model.",
+      "scriptContextTranslation": "Penny: あなた、ケーブル会社の人みたい。はいはい、静かにして。タイラ・バンクスがこれから誰かを America's Next Top Modelからクビにするから。"
     },
     {
       "id": 6,
@@ -82,7 +92,9 @@
       "correctAnswer": "消音にする",
       "explanation": "「mute」は、「（音を）消す、弱める」という意味です。テレビや楽器などの音量を下げる、または完全に消す際に使われます。\n\n例：Please mute your cell phone during the meeting. (会議中は携帯電話を消音にしてください。)",
       "etymology": "ラテン語のmutus（口のきけない）に由来し、音を消す、静かにするという意味になりました。",
-      "pronounciation": "/mjuːt/"
+      "pronounciation": "/mjuːt/",
+      "scriptContext": "Sheldon: All right, if you must watch, then mute it with closed captions, please.",
+      "scriptContextTranslation": "Sheldon: わかった、どうしても見たいなら、消音にして字幕で頼む。"
     },
     {
       "id": 7,
@@ -96,7 +108,9 @@
       "correctAnswer": "字幕",
       "explanation": "「closed captions」は、「字幕放送」のことです。聴覚障害者向けに、テレビ番組などの音声情報を文字で表示するシステムを指します。",
       "etymology": "聴覚障害者向けに、テレビ番組などの音声情報を文字で表示するシステムを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: All right, if you must watch, then mute it with closed captions, please.",
+      "scriptContextTranslation": "Sheldon: わかった、どうしても見たいなら、消音にして字幕で頼む。"
     },
     {
       "id": 8,
@@ -110,7 +124,9 @@
       "correctAnswer": "豪華な",
       "explanation": "「gorgeous」は、「とても美しい、豪華な、素晴らしい」という意味です。外見や景色、装飾など、視覚的に印象的なものに対して使われます。\n\n例：She looked gorgeous in her wedding dress. (彼女はウェディングドレスを着てとても美しかった。)",
       "etymology": "古フランス語の「gorge」（美しい装飾、首飾り）に由来し、豪華で目を奪われるような美しさを表す言葉として使われるようになりました。",
-      "pronounciation": "/ˈɡɔːrdʒəs/"
+      "pronounciation": "/ˈɡɔːrdʒəs/",
+      "scriptContext": "Leonard: They’re gorgeous.",
+      "scriptContextTranslation": "Leonard: ゴージャスだな。"
     },
     {
       "id": 9,
@@ -124,7 +140,9 @@
       "correctAnswer": "固有名詞",
       "explanation": "「proper noun」は、「固有名詞」のことです。人名、地名、団体名など、特定のものや場所を指す名詞を指します。通常、大文字で始まります。",
       "etymology": "「固有の」「適切な」という意味のproperと、「名詞」という意味のnounが組み合わさって、特定の人、場所、物を指す名詞を意味します。",
-      "pronounciation": "/ˈprɒpər naʊn/"
+      "pronounciation": "/ˈprɒpər naʊn/",
+      "scriptContext": "Sheldon: Oh! Worf, nice! Too bad that’s a proper noun.",
+      "scriptContextTranslation": "Sheldon: おお！ウォーフ、ナイス！でも固有名詞なのが残念だ。"
     },
     {
       "id": 10,
@@ -138,7 +156,9 @@
       "correctAnswer": "意欲的な",
       "explanation": "「aspiring」は、「〜を目指す、〜を志望する」という意味の形容詞です。特定の目標や地位を目指して努力している状態を表します。\n\n例：an aspiring actor (俳優志望者)",
       "etymology": "ラテン語の「aspirare」（熱望する、息を吹きかける）に由来し、高い目標や願望を持って努力する様子を表します。",
-      "pronounciation": "/əˈspaɪərɪŋ/"
+      "pronounciation": "/əˈspaɪərɪŋ/",
+      "scriptContext": "Howard: Wait a minute, you’re telling me that I’m within driving distance of a house filled with aspiring supermodels?",
+      "scriptContextTranslation": "Howard: ちょっと待てよ、俺が車で行ける距離に、スーパーモデル志望の女の子たちが住んでいる家があるって言うのか？"
     },
     {
       "id": 11,
@@ -152,7 +172,9 @@
       "correctAnswer": "運転できる距離",
       "explanation": "「within driving distance」は、「運転して行ける距離、日帰りできる距離」という意味です。ある場所から車で無理なく行ける範囲を指します。\n\n例：The beach is within driving distance from our house. (そのビーチは我が家から運転して行ける距離にある。)",
       "etymology": "車を運転して行ける範囲内という文字通りの意味から、日帰りで行ける距離や、無理なく運転できる範囲を指すようになりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Wait a minute, you’re telling me that I’m within driving distance of a house filled with aspiring supermodels?",
+      "scriptContextTranslation": "Howard: ちょっと待てよ、俺が車で行ける距離に、スーパーモデル志望の女の子たちが住んでいる家があるって言うのか？"
     },
     {
       "id": 12,
@@ -166,7 +188,9 @@
       "correctAnswer": "静止画像",
       "explanation": "「freeze frame」は、「静止画像、静止画面」という意味です。映画やビデオなどを一時停止して、特定の瞬間を静止画として表示することです。",
       "etymology": "映画やビデオの画面を一時停止させ、動きを止めることから、静止画像という意味になりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: There’s the house, freeze frame, freeze frame.",
+      "scriptContextTranslation": "Raj: あそこに家があるぞ、一時停止、一時停止。"
     },
     {
       "id": 13,
@@ -180,7 +204,9 @@
       "correctAnswer": "すなわち",
       "explanation": "「a.k.a.」は、「also known as」の略で、「〜として知られる、別名〜」という意味です。ある人や物の別の名前や通称を紹介する際に使われます。",
       "etymology": "「also known as」の略で、「〜として知られる」という意味です。ある人や物の別の名前や通称を紹介する際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Isn’t it obvious? Every week, they kick out a beautiful girl, making her feel unwanted and without self-esteem, a.k.a. the future Mrs. Howard Wolowitz.",
+      "scriptContextTranslation": "Howard: 当たり前だろ？毎週、あいつらは美しい女の子をクビにする。彼女たちは自分が不必要で自信がないと感じるようになる。つまり、未来のハワード・ウォロウィッツ夫人だ。"
     },
     {
       "id": 14,
@@ -194,7 +220,9 @@
       "correctAnswer": "味わう",
       "explanation": "「relish」は、ここではハンバーガーの付け合わせとしての「薬味、レリッシュ」という意味で使用されています。動詞としては「楽しむ、味わう」という意味があります。\n\n例：I relish the opportunity to travel. (旅行の機会を楽しみにしている。)",
       "etymology": "古フランス語の「reles」（残り物）に由来し、料理の風味を良くするために添えられる薬味やソースを指すようになりました。動詞としては「楽しむ、味わう」という意味があります。",
-      "pronounciation": "/ˈrelɪʃ/"
+      "pronounciation": "/ˈrelɪʃ/",
+      "scriptContext": "Sheldon: Individual relish packets?",
+      "scriptContextTranslation": "Sheldon: 個別のレリッシュの小袋は？"
     },
     {
       "id": 15,
@@ -208,7 +236,9 @@
       "correctAnswer": "当惑",
       "explanation": "「embarrassment」は、「当惑、恥ずかしさ、困惑」という意味です。何か失敗したり、不快な状況に置かれたりしたときに感じる感情を表します。\n\n例：She felt a deep embarrassment at forgetting his name. (彼の名前を忘れてしまい、深い当惑を感じた。)",
       "etymology": "スペイン語の「embarazar」（妨げる、混乱させる）に由来し、人に恥ずかしい思いをさせる、または恥ずかしい思いをすることを意味します。",
-      "pronounciation": "/ɪmˈbærəsmənt/"
+      "pronounciation": "/ɪmˈbærəsmənt/",
+      "scriptContext": "Raj: Not yet, but her underwater photo shoot was an embarrassment.",
+      "scriptContextTranslation": "Raj: まだだ。だが、彼女の水中撮影はひどかった。"
     },
     {
       "id": 16,
@@ -222,7 +252,9 @@
       "correctAnswer": "〜に敏感な",
       "explanation": "「sensitive to」は、「〜に敏感な、〜に弱い」という意味です。特定の物質や状況に対して、体質的にまたは感情的に反応しやすいことを表します。\n\n例：She is sensitive to pollen. (彼女は花粉症だ。)",
       "etymology": "ラテン語の「sentire」（感じる）に由来し、外部からの刺激や影響を強く受けやすい状態を指します。物理的な刺激だけでなく、感情的な刺激に対しても使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Sadly, Mrs. Giselle Wolowitz is sensitive to chlorine. Lucky for her I like my fashion models pruny and bug-eyed.",
+      "scriptContextTranslation": "Howard: 悲しいことに、ジゼル・ウォロウィッツ夫人は塩素に弱いんだ。幸運なことに、俺はふやけて目が飛び出たファッションモデルが好きなんだ。"
     },
     {
       "id": 17,
@@ -236,7 +268,9 @@
       "correctAnswer": "しなびた",
       "explanation": "「pruny」は、「（プルーンのように）しわくちゃの、ふやけた」という意味です。水に浸かってふやけた状態や、年老いてしわがよった状態を指します。\n\n例：Her fingers were pruny after a long bath. (長いお風呂の後、彼女の指はふやけていた。)",
       "etymology": "プルーンのように、水分を失ってしわくちゃになった状態を表します。",
-      "pronounciation": "/ˈpruːni/"
+      "pronounciation": "/ˈpruːni/",
+      "scriptContext": "Howard: Sadly, Mrs. Giselle Wolowitz is sensitive to chlorine. Lucky for her I like my fashion models pruny and bug-eyed.",
+      "scriptContextTranslation": "Howard: 悲しいことに、ジゼル・ウォロウィッツ夫人は塩素に弱いんだ。幸運なことに、俺はふやけて目が飛び出たファッションモデルが好きなんだ。"
     },
     {
       "id": 18,
@@ -250,7 +284,9 @@
       "correctAnswer": "目が大きい",
       "explanation": "「bug-eyed」は、「目が大きく見開いた、出目」という意味です。驚きや興奮などで目を大きく見開いている様子を表します。\n\n例：He stared at the sight bug-eyed. (彼は目を大きく見開いてその光景を見つめた。)",
       "etymology": "昆虫（bug）の目が大きく突き出ている様子から、驚きや興奮で目を大きく見開いている状態を指すようになりました。",
-      "pronounciation": "/ˈbʌɡaɪd/"
+      "pronounciation": "/ˈbʌɡaɪd/",
+      "scriptContext": "Howard: Sadly, Mrs. Giselle Wolowitz is sensitive to chlorine. Lucky for her I like my fashion models pruny and bug-eyed.",
+      "scriptContextTranslation": "Howard: 悲しいことに、ジゼル・ウォロウィッツ夫人は塩素に弱いんだ。幸運なことに、俺はふやけて目が飛び出たファッションモデルが好きなんだ。"
     },
     {
       "id": 19,
@@ -264,7 +300,9 @@
       "correctAnswer": "自尊心",
       "explanation": "「self-esteem」は、「自尊心、自己評価」という意味です。自分自身を価値ある存在として認める感情や、自分の能力や性格に対する自信を表します。\n\n例：She has high self-esteem. (彼女は自尊心が高い。)",
       "etymology": "自分自身に対する尊敬や価値を意味する言葉です。self（自己）とesteem（尊敬）が組み合わさって、自己肯定感を表します。",
-      "pronounciation": "/ˌself ɪˈstiːm/"
+      "pronounciation": "/ˌself ɪˈstiːm/",
+      "scriptContext": "Howard: Isn’t it obvious? Every week, they kick out a beautiful girl, making her feel unwanted and without self-esteem, a.k.a. the future Mrs. Howard Wolowitz.",
+      "scriptContextTranslation": "Howard: 当たり前だろ？毎週、あいつらは美しい女の子をクビにする。彼女たちは自分が不必要で自信がないと感じるようになる。つまり、未来のハワード・ウォロウィッツ夫人だ。"
     },
     {
       "id": 20,
@@ -278,7 +316,9 @@
       "correctAnswer": "ディルのスライス",
       "explanation": "「dill」は、セリ科のハーブの一種で、独特の香りが特徴です。「dill slices」は、ピクルスなどに使われるディルのスライスを指します。",
       "etymology": "セリ科のハーブであるディルを薄く切ったもので、ピクルスや料理の風味付けに使われます。",
-      "pronounciation": "/dɪl ˈslaɪsɪz/"
+      "pronounciation": "/dɪl ˈslaɪsɪz/",
+      "scriptContext": "Sheldon: Dill slices, not sweet?",
+      "scriptContextTranslation": "Sheldon: ディルのスライス、甘くないやつか？"
     },
     {
       "id": 21,
@@ -292,7 +332,9 @@
       "correctAnswer": "たくさん得る",
       "explanation": "「get a bunch of」は、「たくさんの〜を得る、〜がたくさんある」という意味です。口語的な表現で、量が多いことを強調する際に使われます。\n\n例：I got a bunch of emails this morning. (今朝、たくさんのメールを受け取った。)",
       "etymology": "「a bunch of」は、房状になっているもの（ブドウなど）を指す言葉でしたが、転じて「たくさんの」という意味で使われるようになりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 22,
@@ -306,7 +348,9 @@
       "correctAnswer": "〜のように聞こえる",
       "explanation": "「sound just like」は、「まるで〜のように聞こえる、〜とそっくりな言い方をする」という意味です。誰かの発言や意見が、特定の人や組織のものと非常によく似ていることを表します。\n\n例：You sound just like my mother. (あなた、まるで私の母親みたいだ。)",
       "etymology": "誰かの声や話し方が、特定の人と非常によく似ていることを表現する際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: You sound just like the cable company. All right, so, shh, Tyra Banks is about to kick someone off America’s Next Top Model.",
+      "scriptContextTranslation": "Penny: あなた、ケーブル会社の人みたい。はいはい、静かにして。タイラ・バンクスがこれから誰かを America's Next Top Modelからクビにするから。"
     },
     {
       "id": 23,
@@ -320,7 +364,9 @@
       "correctAnswer": "残念",
       "explanation": "「too bad」は、「残念だ、惜しい」という意味です。期待していたことや望ましい結果が得られなかったときに、落胆や同情を表すために使われます。\n\n例：Too bad you missed the party. (パーティーに来られなくて残念だったね。)",
       "etymology": "「あまりにも悪い」という文字通りの意味から、期待外れの結果や状況に対して、残念な気持ちを表す際に使われるようになりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh! Worf, nice! Too bad that’s a proper noun.",
+      "scriptContextTranslation": "Sheldon: おお！ウォーフ、ナイス！でも固有名詞なのが残念だ。"
     },
     {
       "id": 24,
@@ -334,7 +380,9 @@
       "correctAnswer": "ちょっと待って",
       "explanation": "「hold on a second」は、「ちょっと待って、少し待ってください」という意味です。相手の発言を中断したり、一時停止を求めたりする際に使われます。\n\n例：Hold on a second, I need to check something. (ちょっと待って、確認したいことがある。)",
       "etymology": "相手の行動や発言を一時的に止めるために、「少しの間、待ってください」という意味で使われる表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard (into phone, which has just rung): Hello. Oh, hi. Yeah, hold on a second. I’ll get him. Sheldon, it’s for you.",
+      "scriptContextTranslation": "Leonard: (電話に向かって) もしもし。ああ、やあ。ちょっと待って。代わるよ。シェルドン、電話だ。"
     },
     {
       "id": 25,
@@ -348,7 +396,9 @@
       "correctAnswer": "判決",
       "explanation": "「ruling」は、「判決、決定」という意味です。裁判官や審判員が下す正式な判断や決定を指します。ここでは、ゲームのルールに関する判断を求めている場面で使用されています。\n\n例：The judge issued a ruling in favor of the plaintiff. (裁判官は原告に有利な判決を下した。)",
       "etymology": "「支配する」という意味のruleから派生し、権威ある機関や人物による正式な決定や判断を指すようになりました。",
-      "pronounciation": "/ˈruːlɪŋ/"
+      "pronounciation": "/ˈruːlɪŋ/",
+      "scriptContext": "Raj: Judge’s ruling?",
+      "scriptContextTranslation": "Raj: 判決を。"
     },
     {
       "id": 26,
@@ -362,7 +412,9 @@
       "correctAnswer": "熱烈に",
       "explanation": "「vociferously」は、「声を大にして」「騒々しく」という意味の副詞です。何かを強く主張したり、激しく抗議したりする様子を表します。ラテン語の「声（vox）」に由来し、強い感情を伴う発言に使われます。\n\n例：The crowd vociferously protested the decision. (群衆はその決定に対し、声を大にして抗議した。)",
       "etymology": "ラテン語の「vox」（声）と「ferre」（運ぶ）に由来し、大きな声で、または騒々しく何かを主張する様子を表します。",
-      "pronounciation": "/voʊˈsɪfərəsli/"
+      "pronounciation": "/voʊˈsɪfərəsli/",
+      "scriptContext": "Sheldon: Vociferously?",
+      "scriptContextTranslation": "Sheldon: 大声で？"
     },
     {
       "id": 27,
@@ -376,7 +428,9 @@
       "correctAnswer": "耐え抜く",
       "explanation": "「suffer through」は、不快な状況や経験を辛抱強く耐え抜くという意味です。苦痛や困難を伴う状況を乗り越えるニュアンスがあります。\n\n例：I had to suffer through a long and boring meeting. (私は長く退屈な会議を耐え抜かなければならなかった。)",
       "etymology": "苦しみや困難を経験しながら、それを耐え抜くという意味です。苦難を乗り越える過程を強調する表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh, do we have to suffer through this transparently manipulative pseudo-reality again?",
+      "scriptContextTranslation": "Sheldon: また、このあからさまな操り人形劇の偽リアリティに付き合わされるのか？"
     },
     {
       "id": 28,
@@ -390,7 +444,9 @@
       "correctAnswer": "見え透いた操作",
       "explanation": "「transparently manipulative」は、操作しようとする意図が明白で、見え透いている様子を表します。「transparently」は「明白に」、「manipulative」は「操作的な」という意味です。\n\n例：His transparently manipulative tactics were obvious to everyone. (彼の見え透いた操作的な戦術は誰の目にも明らかだった。)",
       "etymology": "「transparently」は見え透いている様子、「manipulative」は操作的な様子を表し、意図が明白で分かりやすい操作を意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh, do we have to suffer through this transparently manipulative pseudo-reality again?",
+      "scriptContextTranslation": "Sheldon: また、このあからさまな操り人形劇の偽リアリティに付き合わされるのか？"
     },
     {
       "id": 29,
@@ -404,7 +460,9 @@
       "correctAnswer": "固定のテレビ番組",
       "explanation": "「standing schedule」は、「固定されたスケジュール」「定期的な予定」という意味です。ここでは、毎週決まって見るテレビ番組の予定を指します。\n\n例：We have a standing dinner date every Friday night. (私たちは毎週金曜日の夜に決まって夕食の約束がある。)",
       "etymology": "「standing」は「固定の」「常設の」という意味で、毎週決まって放送されるテレビ番組のスケジュールを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You and I have a standing TV schedule which is the result of extensive debate and compromise. Any alterations except for breaking news have to be pre-approved at the weekly roommate meeting.",
+      "scriptContextTranslation": "Sheldon: 私と君の間には、徹底的な議論と妥協の結果として、テレビの視聴スケジュールがある。ニュース速報を除き、変更は毎週のルームメイト会議で事前承認を得る必要がある。"
     },
     {
       "id": 30,
@@ -418,7 +476,9 @@
       "correctAnswer": "広範囲な討論",
       "explanation": "「extensive debate」は、「広範囲にわたる議論」「徹底的な討論」という意味です。様々な側面から深く掘り下げて議論する様子を表します。\n\n例：The proposal was subject to extensive debate before being approved. (その提案は承認される前に広範囲な議論の対象となった。)",
       "etymology": "「extensive」は広範囲にわたることを意味し、「debate」は議論や討論を意味します。したがって、広範囲にわたる徹底的な議論を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You and I have a standing TV schedule which is the result of extensive debate and compromise. Any alterations except for breaking news have to be pre-approved at the weekly roommate meeting.",
+      "scriptContextTranslation": "Sheldon: 私と君の間には、徹底的な議論と妥協の結果として、テレビの視聴スケジュールがある。ニュース速報を除き、変更は毎週のルームメイト会議で事前承認を得る必要がある。"
     },
     {
       "id": 31,
@@ -432,7 +492,9 @@
       "correctAnswer": "譲歩",
       "explanation": "「compromise」は、互いに譲り合って合意に達すること、妥協案という意味です。対立する意見を持つ者同士が、一部を譲り合うことで問題を解決する際に用いられます。\n\n例：We reached a compromise after hours of negotiation. (私たちは数時間の交渉の末、妥協点に達した。)",
       "etymology": "ラテン語の「compromittere」（共に約束する）に由来し、互いに譲歩し合って合意に達することを意味します。",
-      "pronounciation": "/ˈkɒmprəmaɪz/"
+      "pronounciation": "/ˈkɒmprəmaɪz/",
+      "scriptContext": "Sheldon: You and I have a standing TV schedule which is the result of extensive debate and compromise. Any alterations except for breaking news have to be pre-approved at the weekly roommate meeting.",
+      "scriptContextTranslation": "Sheldon: 私と君の間には、徹底的な議論と妥協の結果として、テレビの視聴スケジュールがある。ニュース速報を除き、変更は毎週のルームメイト会議で事前承認を得る必要がある。"
     },
     {
       "id": 32,
@@ -446,7 +508,9 @@
       "correctAnswer": "変更",
       "explanation": "「alteration」は、「変更」「修正」「改変」という意味です。元の状態から何かを変えることを指します。衣服のサイズ調整など、具体的な変更にも使われます。\n\n例：The dress needs some alterations to fit properly. (そのドレスはきちんと合うようにいくつか修正が必要です。)",
       "etymology": "ラテン語の「alterare」（変える）に由来し、何かを元の状態から変更または修正することを意味します。",
-      "pronounciation": "/ˌɔːltəˈreɪʃənz/"
+      "pronounciation": "/ˌɔːltəˈreɪʃənz/",
+      "scriptContext": "Sheldon: You and I have a standing TV schedule which is the result of extensive debate and compromise. Any alterations except for breaking news have to be pre-approved at the weekly roommate meeting.",
+      "scriptContextTranslation": "Sheldon: 私と君の間には、徹底的な議論と妥協の結果として、テレビの視聴スケジュールがある。ニュース速報を除き、変更は毎週のルームメイト会議で事前承認を得る必要がある。"
     },
     {
       "id": 33,
@@ -460,7 +524,9 @@
       "correctAnswer": "事前に承認された",
       "explanation": "「pre-approved」は、「事前に承認された」「前もって許可された」という意味です。事前に許可を得る必要がある場合に使われます。\n\n例：The expense report must be pre-approved by the manager. (経費報告書はマネージャーによる事前承認が必要です。)",
       "etymology": "「pre-」は「事前に」という意味で、「approved」は「承認された」という意味です。したがって、事前に承認されたことを指します。",
-      "pronounciation": "/ˌpriː əˈpruːvd/"
+      "pronounciation": "/ˌpriː əˈpruːvd/",
+      "scriptContext": "Sheldon: You and I have a standing TV schedule which is the result of extensive debate and compromise. Any alterations except for breaking news have to be pre-approved at the weekly roommate meeting.",
+      "scriptContextTranslation": "Sheldon: 私と君の間には、徹底的な議論と妥協の結果として、テレビの視聴スケジュールがある。ニュース速報を除き、変更は毎週のルームメイト会議で事前承認を得る必要がある。"
     },
     {
       "id": 34,
@@ -474,7 +540,9 @@
       "correctAnswer": "提案する",
       "explanation": "「make a motion」は、会議や会合で正式な提案をすることを意味します。議事進行において、議題を提起する際に使われる表現です。\n\n例：I'd like to make a motion to adjourn the meeting. (会議の延会を提案します。)",
       "etymology": "会議や会合で、議題を提起するために正式な提案をすることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: But you have to make a motion to put it on agenda.",
+      "scriptContextTranslation": "Sheldon: しかし、議題にあげる動議を提出する必要がある。"
     },
     {
       "id": 35,
@@ -488,7 +556,9 @@
       "correctAnswer": "形式的な議事手続き",
       "explanation": "「mock Parliamentary procedure」は、「模擬議会手続き」「形式的な議事手続き」という意味です。実際の議会で行われる手続きを真似た、冗談めかした形式を指します。\n\n例：They held a mock trial to practice their debating skills. (彼らは討論スキルを練習するために模擬裁判を行った。)",
       "etymology": "「mock」は「模擬の」「見せかけの」という意味で、実際の議会手続きを真似た形式を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Fine. Mock Parliamentary procedure. At least put it on mute.",
+      "scriptContextTranslation": "Sheldon: いいだろう。模擬議事進行だ。せめてミュートにしろ。"
     },
     {
       "id": 36,
@@ -502,7 +572,9 @@
       "correctAnswer": "高い悲鳴を上げる",
       "explanation": "「let out a high-pitched squeak」は、「甲高い悲鳴を上げる」という意味です。驚き、興奮、または恐怖を感じた時に発する声を表します。\n\n例：She let out a high-pitched squeak when she saw the mouse. (彼女はネズミを見たとき、甲高い悲鳴を上げた。)",
       "etymology": "「squeak」は、ネズミやドアがきしむような高い音を指し、驚きや興奮で思わず出る甲高い声を意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 37,
@@ -516,7 +588,9 @@
       "correctAnswer": "否定し続け、沈黙を守る",
       "explanation": "「deny, deny, people, wall of silence」は、何かを隠蔽するために、全員で否定し続け、沈黙を守ることを意味します。共謀して事実を隠そうとする状況で使われます。\n\n例：The company adopted a wall of silence strategy to avoid answering questions about the scandal. (その会社はスキャンダルに関する質問への回答を避けるために、沈黙戦略を採用した。)",
       "etymology": "組織的に否定を繰り返し、沈黙を貫くことで、真実を隠蔽しようとする戦略を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Okay, here he comes, deny, deny, people, wall of silence.",
+      "scriptContextTranslation": "Howard: よし、来るぞ、否定、否定だ、みんな、沈黙の壁だ。"
     },
     {
       "id": 38,
@@ -530,7 +604,9 @@
       "correctAnswer": "不利",
       "explanation": "ここでは、野球のストライクと同じ意味で、「失敗」「不利な状況」を意味します。ルール違反や過ちを犯した場合にカウントされるものです。Three strikes and you're out.（三振）という形でよく使われます。\n\n例：That's strike one! Be careful. (それはストライク1つ！気をつけろ。)",
       "etymology": "元々は「打つ」という意味ですが、野球ではボールを打てなかった場合にカウントされることから、「失敗」「不利」という意味で使われるようになりました。",
-      "pronounciation": "/straɪk/"
+      "pronounciation": "/straɪk/",
+      "scriptContext": "Sheldon: Well, I’m sorry, but that is your second strike.",
+      "scriptContextTranslation": "Sheldon: うむ、私も謝ろう。しかし、それは君にとって2回目のストライクだ。"
     },
     {
       "id": 39,
@@ -544,7 +620,9 @@
       "correctAnswer": "信頼を裏切った",
       "explanation": "「betray trust」は、「信頼を裏切る」という意味です。誰かからの信頼を裏切り、期待を損なう行為を指します。\n\n例：He betrayed her trust by lying to her. (彼は彼女に嘘をついて信頼を裏切った。)",
       "etymology": "「betray」は信頼を裏切るという意味で、誰かの信頼を裏切り、期待を損なう行為を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I trusted you with my email address, and you betrayed that trust by sending me Internet banality, strike one. Touching my food, strike two.",
+      "scriptContextTranslation": "Sheldon: 私は君にメールアドレスを託したのに、君はその信頼を裏切り、インターネットの陳腐なものを私に送ってきた。1回目のストライクだ。私の食べ物に触った、2回目のストライクだ。"
     },
     {
       "id": 40,
@@ -558,7 +636,9 @@
       "correctAnswer": "平凡さ",
       "explanation": "「banality」は、「陳腐さ」「平凡さ」「ありふれたこと」という意味です。面白みや新しさがなく、退屈なものを指します。\n\n例：The movie was filled with banalities and clichés. (その映画は陳腐な表現と決まり文句でいっぱいだった。)",
       "etymology": "フランス語の「banalité」に由来し、ありふれていて退屈なこと、陳腐さを意味します。",
-      "pronounciation": "/bəˈnæləti/"
+      "pronounciation": "/bəˈnæləti/",
+      "scriptContext": "Sheldon: I trusted you with my email address, and you betrayed that trust by sending me Internet banality, strike one. Touching my food, strike two.",
+      "scriptContextTranslation": "Sheldon: 私は君にメールアドレスを託したのに、君はその信頼を裏切り、インターネットの陳腐なものを私に送ってきた。1回目のストライクだ。私の食べ物に触った、2回目のストライクだ。"
     },
     {
       "id": 41,
@@ -572,7 +652,9 @@
       "correctAnswer": "完全性を損なう",
       "explanation": "「compromise the integrity」は、「完全性/完全な状態を損なう」という意味です。ここでは、一つだけ触ったことで、他のすべてのオニオンリングの状態を損ねる、というニュアンスで使われています。\n\n例：The scandal compromised the integrity of the company. (そのスキャンダルは会社の完全性を損ねた。)",
       "etymology": "「integrity」は完全性や誠実さを意味し、それを「compromise」することは、損なう、危うくすることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: And then you put it back, compromising the integrity of all the other onion rings.",
+      "scriptContextTranslation": "Sheldon: そして、君はそれを元に戻した。他のすべてのオニオンリングの完全性を損なったのだ。"
     },
     {
       "id": 42,
@@ -586,7 +668,9 @@
       "correctAnswer": "寛大な",
       "explanation": "「lenient」は、「寛大な」「甘い」「情け深い」という意味です。規則や罰を厳しく適用しない態度を指します。\n\n例：The teacher was lenient with the students who were late. (先生は遅刻した生徒たちに寛大だった。)",
       "etymology": "ラテン語の「lenis」（穏やかな）に由来し、規則や罰を厳しく適用しない、寛大な態度を指します。",
-      "pronounciation": "/ˈliːniənt/"
+      "pronounciation": "/ˈliːniənt/",
+      "scriptContext": "Sheldon: Look, Penny, I wish I could be more lenient with you, but since you’ve become a permanent member of our social group I have to hold you to the same standards as everybody else.",
+      "scriptContextTranslation": "Sheldon: 聞いてくれ、ペニー、私も君にもっと寛大になりたいのだが、君は私たちの社交グループの正式メンバーになったのだから、他の人と同じ基準で接しなければならない。"
     },
     {
       "id": 43,
@@ -600,7 +684,9 @@
       "correctAnswer": "正メンバー",
       "explanation": "「permanent member」は、「正メンバー」「正規メンバー」「永続的なメンバー」という意味です。一時的な参加ではなく、長期的にグループに所属することを意味します。\n\n例：She became a permanent member of the team. (彼女はチームの正メンバーになった。)",
       "etymology": "「permanent」は永続的な、「member」は構成員を意味し、長期的にグループに所属する正メンバーを指します。",
-      "pronounciation": "/ˈpɜːrmənənt ˈmembər/"
+      "pronounciation": "/ˈpɜːrmənənt ˈmembər/",
+      "scriptContext": "Sheldon: Look, Penny, I wish I could be more lenient with you, but since you’ve become a permanent member of our social group I have to hold you to the same standards as everybody else.",
+      "scriptContextTranslation": "Sheldon: 聞いてくれ、ペニー、私も君にもっと寛大になりたいのだが、君は私たちの社交グループの正式メンバーになったのだから、他の人と同じ基準で接しなければならない。"
     },
     {
       "id": 44,
@@ -614,7 +700,9 @@
       "correctAnswer": "正式に仲間入り",
       "explanation": "「officially one of us」は、「公式に私たちの仲間入り」「正式に私たちの一員」という意味です。グループの一員として認められたことを意味します。\n\n例：After the initiation ceremony, he was officially one of us. (入会式の後、彼は正式に私たちの一員となった。)",
       "etymology": "グループの一員として正式に認められたことを意味する表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Congratulations. You’re officially one of us.",
+      "scriptContextTranslation": "Leonard: おめでとう。君は正式に俺たちの一員だ。"
     },
     {
       "id": 45,
@@ -628,7 +716,9 @@
       "correctAnswer": "反対する",
       "explanation": "「take a stand」は、「立ち上がる」「断固とした態度を取る」「反対する」という意味です。自分の意見や信念を強く主張し、行動することを指します。\n\n例：He decided to take a stand against injustice. (彼は不正に対して立ち上がることを決意した。)",
       "etymology": "自分の信念や意見を明確にし、断固とした態度を取ることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 46,
@@ -642,7 +732,9 @@
       "correctAnswer": "追放された",
       "explanation": "「banish」は、「追放する」「国外追放にする」「排除する」という意味です。ここでは、仲間から排除された、というニュアンスで使われています。\n\n例：He was banished from the kingdom for his crimes. (彼は犯罪のために王国から追放された。)",
       "etymology": "古フランス語の「banir」（宣告する、禁止する）に由来し、ある場所やコミュニティから追放することを意味します。",
-      "pronounciation": "/ˈbænɪʃt/"
+      "pronounciation": "/ˈbænɪʃt/",
+      "scriptContext": "Penny: I’m banished? What the hell kind of crap is that?",
+      "scriptContextTranslation": "Penny: 追放？一体どういうことよ？"
     },
     {
       "id": 47,
@@ -656,7 +748,9 @@
       "correctAnswer": "ひどい",
       "explanation": "「What the hell kind of crap is that?」は、「一体全体何なんだ？」「ふざけるな！」という意味です。強い不満や怒りを表すときに使われる口語的な表現です。\n\n例：What the hell kind of crap is that excuse? (一体全体その言い訳は何なんだ？)",
       "etymology": "強い不満や怒りを表すための、非常に口語的な表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: I’m banished? What the hell kind of crap is that?",
+      "scriptContextTranslation": "Penny: 追放？一体どういうことよ？"
     },
     {
       "id": 48,
@@ -670,7 +764,9 @@
       "correctAnswer": "受け入れる",
       "explanation": "「open to」は、「～に対してオープンである」「～を受け入れる用意がある」という意味です。新しい考えや提案に対して前向きな姿勢を示す際に使われます。\n\n例：I'm open to suggestions on how to improve the project. (プロジェクトを改善する方法について、私は提案を受け入れる用意があります。)",
       "etymology": "新しいアイデアや提案に対して受け入れる姿勢があることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Just so I know, would you be open to taking his class? You can do it online!",
+      "scriptContextTranslation": "Leonard: 念のために聞くけど、彼の授業を受ける気はある？オンラインでもできるんだ！"
     },
     {
       "id": 49,
@@ -684,7 +780,9 @@
       "correctAnswer": "協力する",
       "explanation": "「play along」は、「協力する」「同調する」「調子を合わせる」という意味です。相手の意図や行動に合わせ、協力的な姿勢を示す際に使われます。\n\n例：I don't agree with their plan, but I'll play along for now. (私は彼らの計画に同意しませんが、とりあえず今は協力します。)",
       "etymology": "相手の意図や行動に合わせ、協力的な姿勢を示すことを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: All right, yeah, I’ll play along. What was my first strike?",
+      "scriptContextTranslation": "Penny: わかったわ、付き合ってあげる。最初のストライクは何だったの？"
     },
     {
       "id": 50,
@@ -698,7 +796,9 @@
       "correctAnswer": "面白いメール",
       "explanation": "forwarding email humourとは、面白いメールを転送するという意味です。今回はSheldonがユーモアのセンスがないため、面白くないメールを送ることを禁止していることがわかります\n\n例：I trusted you with my email address, and you betrayed that trust by sending me Internet banality, strike one.(メールアドレスを信用して預けたのに、インターネットの陳腐な情報を送ってきて信頼を裏切ったのが1つ目のストライクだ。)",
       "etymology": "人に面白いメールを転送するという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: March 18th. You violated my rule about forwarding email humour.",
+      "scriptContextTranslation": "Sheldon: 3月18日だ。君はメールのユーモアを転送するという私のルールを破った。"
     },
     {
       "id": 51,
@@ -712,7 +812,9 @@
       "correctAnswer": "三点測量",
       "explanation": "「triangulation」は、三角測量という意味です。地理的な位置を特定するために、複数の地点からの角度を測定して三角形状のネットワークを作り、位置を特定する技術です。転じて、複数の情報源を用いて事実を確認する意味でも使われます。",
       "etymology": "三角形の形状を使用して位置を特定する技術から、複数の情報源を用いて事実を確認することを意味するようになりました。",
-      "pronounciation": "/traɪˌæŋɡjəˈleɪʃən/"
+      "pronounciation": "/traɪˌæŋɡjəˈleɪʃən/",
+      "scriptContext": "Howard: So based on our triangulation we’ve narrowed down the location of the top model house to three square miles in the Hollywood Hills.",
+      "scriptContextTranslation": "Howard: 三角測量に基づけば、トップモデルの家がある場所はハリウッドヒルズの3平方マイルに絞られた。"
     },
     {
       "id": 52,
@@ -726,7 +828,9 @@
       "correctAnswer": "狭める",
       "explanation": "「narrow down」は、範囲や選択肢を狭める、絞り込むという意味です。調査や検討の結果、可能性のある範囲を限定する際に使われます。例えば、「We narrowed down the list of candidates to three.（候補者を3人に絞り込んだ）」のように使います。",
       "etymology": "範囲や選択肢を狭める、絞り込むという意味です。",
-      "pronounciation": "/ˈnæroʊd daʊn/"
+      "pronounciation": "/ˈnæroʊd daʊn/",
+      "scriptContext": "Howard: So based on our triangulation we’ve narrowed down the location of the top model house to three square miles in the Hollywood Hills.",
+      "scriptContextTranslation": "Howard: 三角測量に基づけば、トップモデルの家がある場所はハリウッドヒルズの3平方マイルに絞られた。"
     },
     {
       "id": 53,
@@ -740,7 +844,9 @@
       "correctAnswer": "乳糖不耐症の",
       "explanation": "「lactose-intolerant」は、乳糖不耐症という意味です。乳製品に含まれる乳糖を消化できない体質を指します。乳糖不耐症の人は、乳製品を摂取すると腹痛や下痢などの症状が出ることがあります。",
       "etymology": "乳糖（lactose）を消化できない（intolerant）体質を指します。",
-      "pronounciation": "/ˌlæktos ɪnˈtɒlərənt/"
+      "pronounciation": "/ˌlæktos ɪnˈtɒlərənt/",
+      "scriptContext": "Penny (arriving): Okay, let me guess. A quesadilla with soy cheese for the lactose-intolerant Leonard.",
+      "scriptContextTranslation": "Penny（到着して）: はいはい、当ててあげるわ。乳糖不耐症のレナードには、ソイチーズのケサディーヤ。"
     },
     {
       "id": 54,
@@ -754,7 +860,9 @@
       "correctAnswer": "普段はユダヤ教の食事規定を守らない",
       "explanation": "「kosher-only-on-the-high-holidays」は、普段はユダヤ教の食事規定（コーシャ）を守らないが、重要な祝日だけは守るという意味です。宗教的な戒律を厳格に守るわけではないことを示唆する表現です。",
       "etymology": "普段はユダヤ教の食事規定を守らないが、重要な祝日だけは守るという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Shrimp Caesar salad with no almonds for the highly allergic kosher-only-on-the-high-holidays Howard, and for our suddenly back on the Hindu wagon Raj, meatlover’s pizza, no meat. Coming right up.",
+      "scriptContextTranslation": "Penny: 重度のアレルギー持ちで、重要な祝日しかコーシャじゃないハワードには、アーモンドなしのエビシーザーサラダ。そして、突然ヒンドゥー教に回帰したラージには、ミートラバーズピザ、お肉抜き。すぐにお持ちしますね。"
     },
     {
       "id": 55,
@@ -768,7 +876,9 @@
       "correctAnswer": "追放される",
       "explanation": "「banish」は、追放する、立ち入り禁止にするという意味です。ある場所やグループから強制的に排除される状況を表します。例えば、「He was banished from his country for treason.（彼は反逆罪で国から追放された）」のように使います。",
       "etymology": "ある場所やグループから強制的に排除される状況を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, I didn’t tell you? You’re banished from the Cheesecake Factory.",
+      "scriptContextTranslation": "Penny: あら、言ってなかったかしら？ あなたはチーズケーキ・ファクトリーから追放よ。"
     },
     {
       "id": 56,
@@ -782,7 +892,9 @@
       "correctAnswer": "反する",
       "explanation": "「fly in the face of」は、〜に真っ向から反する、〜を無視するという意味です。一般的なルールや期待、常識などに逆らう行為を指します。例えば、「His actions fly in the face of company policy.（彼の行動は会社の方針に真っ向から反する）」のように使います。",
       "etymology": "「face」はここでは「表面」という意味ではなく、「〜に立ち向かう」という意味合いで使用されています。何かに真っ向から逆らう様子を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You can’t do that. Not only is it a violation of California state law, it flies directly in the face of Cheesecake Factory policy.",
+      "scriptContextTranslation": "Sheldon: そんなことはできない。それはカリフォルニア州法に違反するだけでなく、チーズケーキ・ファクトリーのポリシーに真っ向から反している。"
     },
     {
       "id": 57,
@@ -796,7 +908,9 @@
       "correctAnswer": "変人",
       "explanation": "「nutcase」は、狂人、変人という意味です。スラングとして使われ、精神的に不安定な人や、奇妙な行動をする人を指します。やや軽蔑的なニュアンスを含む言葉です。",
       "etymology": "「nut」は「狂人」という意味のスラングで、「case」は「人」を意味します。したがって、狂人、変人を意味する言葉です。",
-      "pronounciation": "/ˈnʌtkeɪs/"
+      "pronounciation": "/ˈnʌtkeɪs/",
+      "scriptContext": "Penny: What? I’m not going to apologize to that nutcase.",
+      "scriptContextTranslation": "Penny: なに？ あの変人に謝るなんてありえないわ。"
     },
     {
       "id": 58,
@@ -810,7 +924,9 @@
       "correctAnswer": "支持する",
       "explanation": "「go along with」は、〜に賛成する、〜に協力するという意味です。他の人の意見や計画を受け入れる、または従うことを表します。例えば、「I don't agree with him, but I have to go along with his decision.（彼に同意しませんが、彼の決定に従わなければならない）」のように使います。",
       "etymology": "他の人の意見や計画に賛成し、協力することを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 59,
@@ -824,7 +940,9 @@
       "correctAnswer": "屈服する",
       "explanation": "「knuckle under」は、屈服する、降参するという意味です。困難や圧力に負けて、自分の意思を曲げることを表します。例えば、「They were forced to knuckle under to the demands of the rebels.（彼らは反乱者の要求に屈服せざるを得なかった）」のように使います。",
       "etymology": "困難や圧力に負けて、自分の意思を曲げることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: We’re not encouraging. It’s more like knuckling under.",
+      "scriptContextTranslation": "Leonard: つけあがらせてるんじゃない。もっとこう、屈服してるって感じ。"
     },
     {
       "id": 60,
@@ -838,7 +956,9 @@
       "correctAnswer": "活発な議論",
       "explanation": "「heated discussion」は、白熱した議論、激しい議論という意味です。感情が高ぶり、意見が衝突するような状況を表します。必ずしも否定的な意味ではなく、真剣な意見交換が行われていることを示す場合もあります。",
       "etymology": "感情が高ぶり、意見が衝突するような活発な議論を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: There you go, quesadilla, salad, there’s your pizza, and thanks to Sheldon’s heated discussion with my manager one barbecue bacon cheeseburger, barbecue sauce, bacon and cheese on the side.",
+      "scriptContextTranslation": "Penny: はいどうぞ、ケサディーヤ、サラダ、ピザね。そして、シェルドンが私のマネージャーと熱心に話し合ったおかげで、バーベキューベーコンチーズバーガー、バーベキューソース、ベーコン、チーズは別添えです。"
     },
     {
       "id": 61,
@@ -852,7 +972,9 @@
       "correctAnswer": "詳しく調べる",
       "explanation": "「poke around」は、〜を詮索する、〜をうろつくという意味です。何かを探したり、情報を集めたりするために、あちこちを探し回る様子を表します。例えば、「I was just poking around in the attic.（屋根裏をちょっと探していただけだよ）」のように使います。",
       "etymology": "何かを探したり、情報を集めたりするために、あちこちを探し回る様子を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: It was already targeted to poke around a nuclear reactor in Siberia, I took it an hour out of its way, tops.",
+      "scriptContextTranslation": "Howard: 元々シベリアの原子力発電所を監視する予定だったんだ。ちょっと寄り道させただけさ、せいぜい1時間くらい。"
     },
     {
       "id": 62,
@@ -866,7 +988,9 @@
       "correctAnswer": "繰り返す",
       "explanation": "「reiterate」は、繰り返す、反復するという意味です。すでに述べたことや合意したことを、再び強調するために使われます。例えば、「To reiterate, the meeting will be held on Friday.（繰り返しますが、会議は金曜日に開催されます）」のように使います。",
       "etymology": "ラテン語の「re-」（再び）と「iterare」（繰り返す）に由来し、すでに述べたことや合意したことを再び強調するために使われます。",
-      "pronounciation": "/riːˈɪtəreɪt/"
+      "pronounciation": "/riːˈɪtəreɪt/",
+      "scriptContext": "Leonard: I reiterate, knuckle under.",
+      "scriptContextTranslation": "Leonard: 繰り返すけど、屈服だ。"
     },
     {
       "id": 63,
@@ -880,7 +1004,9 @@
       "correctAnswer": "一方的な利用",
       "explanation": "「parasitic piggybacking」は、寄生的な便乗という意味です。他人の資源やネットワークを無断で、または許可なく利用する行為を指します。この場合、PennyがSheldonのWiFiを無断で使用していることを非難しています。",
       "etymology": "寄生虫（parasite）が他の生物に寄生するように、他人の資源やネットワークを無断で利用することを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon (on screen): Greetings, hamburger toucher. You are probably wondering why you cannot IM with your little friends about how much you heart various things. Well, this recorded message is alerting you that I am putting an end to your parasitic piggybacking upon our WiFi. If you want to remedy the situation you can contact the phone company, set up your own WiFi and pay for it, or you may apologize to me.",
+      "scriptContextTranslation": "Sheldon (画面に): ごきげんよう、ハンバーガーを触る人。なぜ、いろいろなことに対するあなたの愛を、友達とチャットできないのか不思議に思っていることでしょう。さて、この録音メッセージは、私があなたたちの、我が家のWi-Fiに対する寄生的なただ乗りを終わらせることを警告するものです。状況を改善したいなら、電話会社に連絡して、あなた自身のWi-Fiをセットアップして料金を支払うか、私に謝罪してください。"
     },
     {
       "id": 64,
@@ -894,7 +1020,9 @@
       "correctAnswer": "状況を改善する",
       "explanation": "「remedy the situation」は、状況を改善する、問題を解決するという意味です。好ましくない状況や問題に対して、改善策を講じることを表します。例えば、「We need to remedy the situation before it gets worse.（状況が悪化する前に改善する必要がある）」のように使います。",
       "etymology": "好ましくない状況や問題に対して、改善策を講じることを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon (on screen): Greetings, hamburger toucher. You are probably wondering why you cannot IM with your little friends about how much you heart various things. Well, this recorded message is alerting you that I am putting an end to your parasitic piggybacking upon our WiFi. If you want to remedy the situation you can contact the phone company, set up your own WiFi and pay for it, or you may apologize to me.",
+      "scriptContextTranslation": "Sheldon (画面に): ごきげんよう、ハンバーガーを触る人。なぜ、いろいろなことに対するあなたの愛を、友達とチャットできないのか不思議に思っていることでしょう。さて、この録音メッセージは、私があなたたちの、我が家のWi-Fiに対する寄生的なただ乗りを終わらせることを警告するものです。状況を改善したいなら、電話会社に連絡して、あなた自身のWi-Fiをセットアップして料金を支払うか、私に謝罪してください。"
     },
     {
       "id": 65,
@@ -908,7 +1036,9 @@
       "correctAnswer": "苦痛の世界を味あわせる",
       "explanation": "「introduce someone to a world of hurt」は、人に苦痛を味あわせる、ひどい目に遭わせるという意味です。脅し文句として使われることが多い表現です。相手に不快な経験をさせることを示唆します。",
       "etymology": "人に苦痛を味あわせる、ひどい目に遭わせるという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 66,
@@ -922,7 +1052,9 @@
       "correctAnswer": "悪役になる才能がある",
       "explanation": "「one lab accident away from being a supervillain」は、あと一歩で悪役（スーパーヴィラン）になりそうという意味です。科学的な知識や才能を持ちながら、倫理観が欠如しているために、危険な存在になり得ることを示唆する表現です。",
       "etymology": "科学的な知識や才能を持ちながら、倫理観が欠如しているために、危険な存在になり得ることを示唆する表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Oh, Penny, you don’t want to get into it with Sheldon. The guy is one lab accident away from being a supervillain.",
+      "scriptContextTranslation": "Leonard: ああ、ペニー、シェルドンと事を構えるのはやめておけ。あいつは研究室での事故一つでスーパーヴィランになるんだぞ。"
     },
     {
       "id": 67,
@@ -936,7 +1068,9 @@
       "correctAnswer": "縛り上げる",
       "explanation": "「hogtie」は、（動物や人を）縛り上げるという意味です。特に、手足を縛って身動きが取れないようにすることを指します。元々は牧場で動物を扱う際に使われる言葉です。",
       "etymology": "元々は豚（hog）の足を縛ることから、手足を縛って身動きが取れないようにすることを意味します。",
-      "pronounciation": "/ˈhɒɡtaɪ/"
+      "pronounciation": "/ˈhɒɡtaɪ/",
+      "scriptContext": "Penny: I don’t care, I was in junior rodeo, I can hogtie and castrate him in 60 seconds.",
+      "scriptContextTranslation": "Penny: 知るもんか。私はジュニアロデオに出てたのよ。60秒で縛り上げて去勢してやるわ。"
     },
     {
       "id": 68,
@@ -950,7 +1084,9 @@
       "correctAnswer": "去勢する",
       "explanation": "「castrate」は、（動物や人を）去勢するという意味です。男性機能を奪う行為を指し、非常に強い表現です。ここでは、PennyがSheldonに対して強い敵意を持っていることを示すために使われています。",
       "etymology": "ラテン語の「castrare」（切り取る）に由来し、動物や人の生殖能力を奪うことを意味します。",
-      "pronounciation": "/kæˈstreɪt/"
+      "pronounciation": "/kæˈstreɪt/",
+      "scriptContext": "Penny: I don’t care, I was in junior rodeo, I can hogtie and castrate him in 60 seconds.",
+      "scriptContextTranslation": "Penny: 知るもんか。私はジュニアロデオに出てたのよ。60秒で縛り上げて去勢してやるわ。"
     },
     {
       "id": 69,
@@ -964,7 +1100,9 @@
       "correctAnswer": "オタクを中立化する",
       "explanation": "「neuter the nerd」は、オタク（nerd）の力を奪う、無力化するという意味合いです。ここでは、Sheldonの行動力を抑えることを婉曲的に表現しています。「neuter」は去勢するという意味ですが、ここでは比喩的に使われています。",
       "etymology": "「neuter」は去勢するという意味ですが、ここでは比喩的に、オタク（nerd）の力を奪う、無力化するという意味合いで使われています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: No need to neuter the nerd, I can get you back online.",
+      "scriptContextTranslation": "Howard: オタクを去勢する必要はないぜ、ネットを復旧させてやる。"
     },
     {
       "id": 70,
@@ -978,7 +1116,9 @@
       "correctAnswer": "ほらできた",
       "explanation": "「voila」は、「ほらできた」「はい、どうぞ」という意味のフランス語由来の言葉です。何かを成し遂げた時や、何かを提示する時に使われます。英語でも同様の意味で使われます。",
       "etymology": "フランス語で「見てください」という意味で、何かを成し遂げた時や、何かを提示する時に使われます。",
-      "pronounciation": "/vwɑːˈlɑː/"
+      "pronounciation": "/vwɑːˈlɑː/",
+      "scriptContext": "Howard: Voila!",
+      "scriptContextTranslation": "Howard: ほれ！"
     },
     {
       "id": 71,
@@ -992,7 +1132,9 @@
       "correctAnswer": "私の意思に反する",
       "explanation": "「circumvent my will」は、私の意思を回避する、出し抜くという意味です。相手の意図や計画を阻止するために、何らかの手段を講じることを表します。例えば、「They tried to circumvent my will by going behind my back.（彼らは私の裏でこっそり動いて私の意思を回避しようとした）」のように使います。",
       "etymology": "相手の意図や計画を阻止するために、何らかの手段を講じることを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon (voice from Howards laptop): Hello, puny insects. As a consequence of your efforts to circumvent my will, everyone is awarded one additional strike.",
+      "scriptContextTranslation": "Sheldon (ハワードのノートパソコンから声): やあ、ちっぽけな虫けらども。私の意思を回避しようとした結果として、全員にストライクを1つ追加する。"
     },
     {
       "id": 72,
@@ -1006,7 +1148,9 @@
       "correctAnswer": "哀れな人々",
       "explanation": "「puny insects」は、取るに足らない虫けら、哀れな人々という意味です。「puny」は小さくて弱いという意味で、ここでは見下したニュアンスで使われています。Sheldonが自分以外の人間を軽蔑的に見ていることを表しています。",
       "etymology": "小さくて弱い虫けら（insects）を指し、見下したニュアンスで使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon (voice from Howards laptop): Hello, puny insects. As a consequence of your efforts to circumvent my will, everyone is awarded one additional strike.",
+      "scriptContextTranslation": "Sheldon (ハワードのノートパソコンから声): やあ、ちっぽけな虫けらども。私の意思を回避しようとした結果として、全員にストライクを1つ追加する。"
     },
     {
       "id": 73,
@@ -1020,7 +1164,9 @@
       "correctAnswer": "習慣的な行動をする人",
       "explanation": "「creature of habit」は、習慣的な行動をする人、いつも同じことを繰り返す人という意味です。ルーティンを好み、変化を嫌う性格を表します。例えば、「He's a creature of habit and always eats the same breakfast.（彼は習慣的な人なので、いつも同じ朝食を食べる）」のように使います。",
       "etymology": "習慣（habit）によって行動する人という意味で、いつも同じことを繰り返す人を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: I’m implying that you’re a creature of habit, and if something were to prevent you from doing your laundry on Saturday at 8:15, you might find it unpleasant. (Sheldon hurries away, disturbed) Knuckle under, my ass.",
+      "scriptContextTranslation": "Penny: あなたが習慣の生き物だって言ってるの。もし何かがあなたを土曜の8時15分に洗濯するのを妨げたら、あなたは不快に思うかもしれないわ。（シェルドンは動揺して急いで立ち去る）屈服しろ、だと。"
     },
     {
       "id": 74,
@@ -1034,7 +1180,9 @@
       "correctAnswer": "予想しやすい",
       "explanation": "「easy to anticipate」は、予想しやすい、予測が容易という意味です。相手の行動や起こりうる事態が容易に想像できることを表します。例えば、「His reaction was easy to anticipate.（彼の反応は予想通りだった）」のように使います。",
       "etymology": "相手の行動や起こりうる事態が容易に想像できることを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: I know. Every Saturday at 8:15, easy to anticipate.",
+      "scriptContextTranslation": "Penny: 知ってるわよ。毎週土曜の8時15分、簡単に予測できる。"
     },
     {
       "id": 75,
@@ -1048,7 +1196,9 @@
       "correctAnswer": "まさか",
       "explanation": "「my ass」は、「まさか」「うそつけ」という意味のスラングです。相手の言っていることを強く否定する際に使われます。非常にカジュアルで下品な表現なので、使う場面には注意が必要です。",
       "etymology": "相手の言っていることを強く否定する際に使われるスラングです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: I’m implying that you’re a creature of habit, and if something were to prevent you from doing your laundry on Saturday at 8:15, you might find it unpleasant. (Sheldon hurries away, disturbed) Knuckle under, my ass.",
+      "scriptContextTranslation": "Penny: あなたが習慣の生き物だって言ってるの。もし何かがあなたを土曜の8時15分に洗濯するのを妨げたら、あなたは不快に思うかもしれないわ。（シェルドンは動揺して急いで立ち去る）屈服しろ、だと。"
     },
     {
       "id": 76,
@@ -1062,7 +1212,9 @@
       "correctAnswer": "自分の知識を超えた力を利用する",
       "explanation": "「ken」とは、知識、理解、認識の範囲を意味します。「playing with forces beyond your ken」は、自分の理解や制御を超えた力、状況、または概念を扱っていることを指します。危険な状況に足を踏み入れている、または理解できない事柄に手を出しているというニュアンスが含まれます。",
       "etymology": "自分の知識（ken）を超えた力、状況、または概念を扱っていることを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Woman, you are playing with forces beyond your ken.",
+      "scriptContextTranslation": "Sheldon: 君は、自分の理解を超えた力と戯れているんだな。"
     },
     {
       "id": 77,
@@ -1076,7 +1228,9 @@
       "correctAnswer": "急いで歩く",
       "explanation": "「storm up」は、怒りや興奮などの強い感情を持って、急いで、または荒々しく進むことを意味します。感情的な勢いを伴って移動する様子を表します。",
       "etymology": "怒りや興奮などの強い感情を持って、急いで進むことを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Scene: The hallway, Penny comes storming up the stairs to the guys door.",
+      "scriptContextTranslation": "Scene: 廊下。ペニーが二人の部屋のドアまで階段をドタドタと上がってくる。"
     },
     {
       "id": 78,
@@ -1090,7 +1244,9 @@
       "correctAnswer": "放置された",
       "explanation": "「unattended」は、誰も付き添っていない、世話をしていない、監視されていない状態を指します。例えば、「unattended baggage」(無人の手荷物)のように使われます。",
       "etymology": "誰も付き添っていない、世話をしていない、監視されていない状態を指します。",
-      "pronounciation": "/ˌʌnəˈtendɪd/"
+      "pronounciation": "/ˌʌnəˈtendɪd/",
+      "scriptContext": "Sheldon: Really? Despite the sign that says “Do not leave laundry unattended”?",
+      "scriptContextTranslation": "Sheldon: 本当に？ 「洗濯物を放置しないでください」という看板があるにも関わらず？"
     },
     {
       "id": 79,
@@ -1104,7 +1260,9 @@
       "correctAnswer": "ブラジャー",
       "explanation": "「brassiere」は、女性用の下着であるブラジャーを指す言葉です。日常会話でも使われますが、よりフォーマルな言い方です。",
       "etymology": "フランス語の「brassière」（腕を支えるもの）に由来し、女性用の下着であるブラジャーを指します。",
-      "pronounciation": "/brəˈzɪər/"
+      "pronounciation": "/brəˈzɪər/",
+      "scriptContext": "Sheldon: You know, I do recall seeing some female undergarments. Where was that? Oh, yes, earlier this evening I happened to gaze out the window and a brassiere caught my eye. Do those look familiar?",
+      "scriptContextTranslation": "Sheldon: そうだな、女性用の下着を見た記憶がある。どこだったかな？ ああ、そうだ、今日の夕方、窓の外を眺めていたら、ブラジャーが目に留まったんだ。見覚えはあるかな？"
     },
     {
       "id": 80,
@@ -1118,7 +1276,9 @@
       "correctAnswer": "悪役的な笑い声",
       "explanation": "「Mwah-ha-ha」は、悪役やいたずら好きなキャラクターがよく使う、典型的な嘲笑や勝ち誇った笑い声を表す擬音語です。相手を小ばかにしたり、自分の成功を誇示する時に使われます。",
       "etymology": "悪役やいたずら好きなキャラクターがよく使う、典型的な嘲笑や勝ち誇った笑い声を表す擬音語です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: When you understand the laws of physics, Penny, anything is possible. And may I add, mwah-ha-ha!",
+      "scriptContextTranslation": "Sheldon: 物理法則を理解すれば、ペニー、どんなことでも可能になるんだよ。ついでに言うと、ムワッハッハ！"
     },
     {
       "id": 81,
@@ -1132,7 +1292,9 @@
       "correctAnswer": "下着",
       "explanation": "「panty pinata」は、ここではPennyの下着をpinataに見立てたSheldonのジョークです。pinataは、お祝いの際に叩き割る、中にお菓子などを詰めた飾り物です。ここでは皮肉を込めて使われています。",
       "etymology": "ここではPennyの下着をpinataに見立てたSheldonのジョークです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Well, then may I suggest you get a very long stick and play panty pinata.",
+      "scriptContextTranslation": "Sheldon: では、非常に長い棒を手に入れて、パンティピニャータをすることをお勧めしよう。"
     },
     {
       "id": 82,
@@ -1146,7 +1308,9 @@
       "correctAnswer": "制御不能になった",
       "explanation": "「get out of hand」は、状況や事柄が制御不能になる、手に負えなくなるという意味です。エスカレートして収拾がつかなくなる状態を表します。",
       "etymology": "状況や事柄が制御不能になる、手に負えなくなるという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Look, wait, Sheldon, this has gotten out of hand, okay? I’ve done some stupid things, you’ve done some stupid things, how about we just call it even and move on with our lives?",
+      "scriptContextTranslation": "Penny: ちょっと待って、シェルドン、これは手に負えなくなってるわよ？ 私もバカなことをしたし、あなたもバカなことをした。お互い様ってことにして、この件は水に流さない？"
     },
     {
       "id": 83,
@@ -1160,7 +1324,9 @@
       "correctAnswer": "相殺する",
       "explanation": "「call it even」は、お互いの貸し借りをなしにする、または過去の過ちや不利益を相殺して、関係をゼロの状態に戻すという意味です。水に流す、うやむやにする、といったニュアンスを含みます。",
       "etymology": "お互いの貸し借りをなしにする、または過去の過ちや不利益を相殺して、関係をゼロの状態に戻すという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Look, wait, Sheldon, this has gotten out of hand, okay? I’ve done some stupid things, you’ve done some stupid things, how about we just call it even and move on with our lives?",
+      "scriptContextTranslation": "Penny: ちょっと待って、シェルドン、これは手に負えなくなってるわよ？ 私もバカなことをしたし、あなたもバカなことをした。お互い様ってことにして、この件は水に流さない？"
     },
     {
       "id": 84,
@@ -1174,7 +1340,9 @@
       "correctAnswer": "譲歩する",
       "explanation": "「meet someone halfway」は、相手との合意点を見つけるために、お互いに譲歩し合うことを意味します。完全な同意ではなく、妥協点を探る姿勢を示します。",
       "etymology": "相手との合意点を見つけるために、お互いに譲歩し合うことを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Look, you’ve got to meet me halfway here.",
+      "scriptContextTranslation": "Penny: いい？ 少しは譲ってよ。"
     },
     {
       "id": 85,
@@ -1188,7 +1356,9 @@
       "correctAnswer": "認める",
       "explanation": "「concede」は、通常は不本意ながら、真実であること、または要求や主張の正当性を認めるという意味です。議論や競争の文脈でよく使われます。",
       "etymology": "ラテン語の「concedere」（譲歩する）に由来し、通常は不本意ながら、真実であること、または要求や主張の正当性を認めるという意味です。",
-      "pronounciation": "/kənˈsiːd/"
+      "pronounciation": "/kənˈsiːd/",
+      "scriptContext": "Sheldon: I am meeting you halfway, I’m willing to concede that you’ve done some stupid things.",
+      "scriptContextTranslation": "Sheldon: 譲歩しているよ。君がバカなことをしたと認める用意はある。"
     },
     {
       "id": 86,
@@ -1202,7 +1372,9 @@
       "correctAnswer": "大騒ぎ",
       "explanation": "「rodeo」は、ここではPennyとSheldonの間の争いを指し、\"junior\"をつけることで、それがさらに激化している状態を大げさに表現しています。",
       "etymology": "ここではPennyとSheldonの間の争いを指し、それがさらに激化している状態を大げさに表現しています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: I don’t care, I was in junior rodeo, I can hogtie and castrate him in 60 seconds.",
+      "scriptContextTranslation": "Penny: 知るもんか。私はジュニアロデオに出てたのよ。60秒で縛り上げて去勢してやるわ。"
     },
     {
       "id": 87,
@@ -1216,7 +1388,9 @@
       "correctAnswer": "弱点",
       "explanation": "「Kryptonite」は、スーパーマンの唯一の弱点として知られる架空の物質です。一般的には、克服できない弱点や、無力化するものを指す比喩として使われます。",
       "etymology": "スーパーマンの唯一の弱点として知られる架空の物質です。一般的には、克服できない弱点や、無力化するものを指す比喩として使われます。",
-      "pronounciation": "/ˈkrɪptənaɪt/"
+      "pronounciation": "/ˈkrɪptənaɪt/",
+      "scriptContext": "Leonard: Sheldon’s Kryptonite.",
+      "scriptContextTranslation": "Leonard: シェルドンのクリプトナイトだ。"
     },
     {
       "id": 88,
@@ -1230,7 +1404,9 @@
       "correctAnswer": "神のご加護を",
       "explanation": "「God bless you」は、相手の幸運や健康を祈る言葉です。感謝の気持ちを表す際にも使われます。くしゃみをした人にかける言葉としても一般的です。",
       "etymology": "相手の幸運や健康を祈る言葉です。感謝の気持ちを表す際にも使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: God bless you, Google Street View registered trademark.",
+      "scriptContextTranslation": "Howard: グーグルストリートビュー様、感謝します。"
     },
     {
       "id": 89,
@@ -1244,7 +1420,9 @@
       "correctAnswer": "訪問する",
       "explanation": "「drop in on」は、予告なしに、または気軽に誰かの家や場所に立ち寄る、訪問することを意味します。アポイントメントなしで訪れるニュアンスがあります。",
       "etymology": "予告なしに、または気軽に誰かの家や場所に立ち寄る、訪問することを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: You know what? If it’s creepy to use the Internet, military satellites, and robot aircraft to find a house full of gorgeous young models so that I can drop in on them unexpectedly, then fine, I’m creepy.",
+      "scriptContextTranslation": "Howard: あのな、インターネットと軍事衛星と無人機を使って、ゴージャスな若いモデルがたくさんいる家を見つけ出し、そこに突然押しかけるのが気持ち悪いっていうなら、それでいいよ。僕は気持ち悪いやつで結構。"
     },
     {
       "id": 90,
@@ -1258,7 +1436,9 @@
       "correctAnswer": "告げ口する",
       "explanation": "「tell on someone」は、その人の悪い行いを誰かに告げ口することを意味します。特に子供が親や先生に告げ口する場合に使われることが多いです。",
       "etymology": "その人の悪い行いを誰かに告げ口することを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh, good. Hi, Mom. How are you? But, Mom, she keeps sitting in my spot. And, and she touched my food. Okay, yes, I took her clothes, but she started it. No, that’s not fair. Why should I have to apologize? Yeah, I really don’t think this is the kind of thing Jesus concerns himself with. No, you’re right, I don’t really know what Jesus thinks about. All right, good-bye. Did you tell on me?",
+      "scriptContextTranslation": "Sheldon: ああ、良かった。もしもし、ママ。元気？ でもママ、彼女が僕の場所に座り続けるんだ。それに、僕の食べ物に触ったんだ。わかった、確かに彼女の服は取ったけど、彼女が始めたんだ。そんなの不公平だ。なんで僕が謝らなきゃいけないんだ？ そうだね、イエスがそんなことに関心を持つとは思えない。そうだね、ママの言う通りだ。僕がイエスについてよく知らないだけかも。わかった、さよなら。僕のことを告げ口した？"
     },
     {
       "id": 91,
@@ -1272,7 +1452,9 @@
       "correctAnswer": "2つの罪を犯した",
       "explanation": "「have strikes」は、野球のストライクから派生した表現で、ここでは「不利な状況にある」という意味で使われています。野球と同じように、３ストライクでアウトになるというニュアンスがあります。",
       "etymology": "野球のストライクから派生した表現で、ここでは「不利な状況にある」という意味で使われています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You have two strikes. Three strikes and you’re out. It’s a sports metaphor.",
+      "scriptContextTranslation": "Sheldon: 君はストライクが2つだ。3ストライクでアウトだ。スポーツの比喩だ。"
     },
     {
       "id": 92,
@@ -1286,7 +1468,9 @@
       "correctAnswer": "撤回する",
       "explanation": "「rescind」は、決定、命令、契約などを公式に撤回または取り消すことを意味します。法的または公式な文脈でよく使われます。",
       "etymology": "ラテン語の「rescindere」（切り裂く、取り消す）に由来し、決定、命令、契約などを公式に撤回または取り消すことを意味します。",
-      "pronounciation": "/rɪˈsɪnd/"
+      "pronounciation": "/rɪˈsɪnd/",
+      "scriptContext": "Sheldon: (Knock, knock, knock) Penny, (knock, knock, knock) Penny, (knock, knock, knock) Penny… (door opens) I am very, very sorry for what I have done. Here’s your laundry, I rescind your strikes and you are no longer banished.",
+      "scriptContextTranslation": "Sheldon: (ノック、ノック、ノック) ペニー、(ノック、ノック、ノック) ペニー、(ノック、ノック、ノック) ペニー…（ドアが開く）私がしたことをとても、とても後悔しています。ここに君の洗濯物がある。君に対するストライクを撤回する。君はもう追放されていない。"
     },
     {
       "id": 93,
@@ -1300,7 +1484,9 @@
       "correctAnswer": "追放された",
       "explanation": "「banish」は、人や物を場所から追放する、または立ち入りを禁止することを意味します。ここでは、SheldonがPennyに対して、特定の場所への立ち入りを禁止していたことを指します。",
       "etymology": "人や物を場所から追放する、または立ち入りを禁止することを意味します。",
-      "pronounciation": "/ˈbænɪʃt/"
+      "pronounciation": "/ˈbænɪʃt/",
+      "scriptContext": "Penny: I’m banished? What the hell kind of crap is that?",
+      "scriptContextTranslation": "Penny: 追放？一体どういうことよ？"
     },
     {
       "id": 94,
@@ -1314,7 +1500,9 @@
       "correctAnswer": "寛大",
       "explanation": "「big of you」は、相手の行動が寛大である、または親切であることを褒める際に使われる表現です。相手の優しさや心の広さを認めるニュアンスがあります。",
       "etymology": "相手の行動が寛大である、または親切であることを褒める際に使われる表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Can I sit wherever I want? No, no, never mind, never mind, that’s, that’s not important. Sheldon, this was big of you. Thank you. I really appreciate it.",
+      "scriptContextTranslation": "Penny: どこに座ってもいいの？ あ、いや、やっぱりいいわ。そんなのどうでもいいわ。シェルドン、すごいじゃない。ありがとう。本当に感謝するわ。"
     },
     {
       "id": 95,
@@ -1328,7 +1516,9 @@
       "correctAnswer": "よくやった",
       "explanation": "「well played」は、相手の戦略や行動が巧みであったことを認め、称賛する表現です。ゲームや競争の文脈でよく使われますが、ここではPennyのSheldonに対する態度をからかう意味合いが含まれています。",
       "etymology": "相手の戦略や行動が巧みであったことを認め、称賛する表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Well played.",
+      "scriptContextTranslation": "Sheldon: 見事だった。"
     },
     {
       "id": 96,
@@ -1342,7 +1532,9 @@
       "correctAnswer": "力には責任が伴う",
       "explanation": "「With great power comes great responsibility」は、大きな力を持つ者は、それに見合った責任を負うべきであるという倫理的な原則を述べています。これは、スパイダーマンの有名な台詞としても知られています。",
       "etymology": "大きな力を持つ者は、それに見合った責任を負うべきであるという倫理的な原則を述べています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Just remember: with great power comes great responsibility.",
+      "scriptContextTranslation": "Sheldon: 覚えておいてくれ。大いなる力には大いなる責任が伴う。"
     },
     {
       "id": 97,
@@ -1356,7 +1548,9 @@
       "correctAnswer": "入ってきて",
       "explanation": "「come on in」は、人を招き入れる際に使う、親しみやすい表現です。家や部屋に招待する際に、「どうぞお入りください」という意味合いで使われます。",
       "etymology": "人を招き入れる際に使う、親しみやすい表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Model: Oh. Okay, come on in.",
+      "scriptContextTranslation": "Model: ああ、そうなんですね。どうぞ。"
     },
     {
       "id": 98,
@@ -1370,7 +1564,9 @@
       "correctAnswer": "衛星放送",
       "explanation": "「satellite」は、ここでは衛星放送を受信するための設備を指します。ケーブルテレビではなく、衛星放送を受信しているという意味で使われています。",
       "etymology": "ここでは衛星放送を受信するための設備を指します。",
-      "pronounciation": "/ˈsætəlaɪt/"
+      "pronounciation": "/ˈsætəlaɪt/",
+      "scriptContext": "Howard: You know what? If it’s creepy to use the Internet, military satellites, and robot aircraft to find a house full of gorgeous young models so that I can drop in on them unexpectedly, then fine, I’m creepy.",
+      "scriptContextTranslation": "Howard: あのな、インターネットと軍事衛星と無人機を使って、ゴージャスな若いモデルがたくさんいる家を見つけ出し、そこに突然押しかけるのが気持ち悪いっていうなら、それでいいよ。僕は気持ち悪いやつで結構。"
     },
     {
       "id": 99,
@@ -1384,7 +1580,9 @@
       "correctAnswer": "結合された",
       "explanation": "「combined」は、複数のものや要素が一緒になった、または結合された状態を指します。ここでは、Howardの家族の女性たちの身長を合計したという意味で使われています。",
       "etymology": "複数のものや要素が一緒になった、または結合された状態を指します。",
-      "pronounciation": "/kəmˈbaɪnd/"
+      "pronounciation": "/kəmˈbaɪnd/",
+      "scriptContext": "Howard: She’s taller than all the women in my family combined.",
+      "scriptContextTranslation": "Howard: うちの家族の女性全員の身長を足したよりも高い。"
     },
     {
       "id": 100,
@@ -1398,7 +1596,9 @@
       "correctAnswer": "従う",
       "explanation": "「follow」は、誰かの後をついて行く、または指示やアドバイスに従うことを意味します。ここでは、HowardがRajに対して、Mrs. Wolowitzの指示に従うように言っています。",
       "etymology": "誰かの後をついて行く、または指示やアドバイスに従うことを意味します。",
-      "pronounciation": "/ˈfɒləʊ/"
+      "pronounciation": "/ˈfɒləʊ/",
+      "scriptContext": "Howard: Follow Mrs. Wolowitz.",
+      "scriptContextTranslation": "Howard: ウォロウィッツ夫人について行け。"
     }
   ]
 }

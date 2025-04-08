@@ -12,7 +12,9 @@
       "correctAnswer": "不安",
       "explanation": "「trepidation」は、何か危険なことや不快なことが起こるかもしれないという不安や恐れを表します。特に、将来の出来事に対する漠然とした心配や、何かをすることへのためらいを意味することが多いです。フォーマルな場面で使われることが多い単語です。\n\n例：He felt trepidation before his job interview. (彼は就職面接の前に不安を感じた。)",
       "etymology": "ラテン語の「trepidus（恐れている）」に由来し、心臓がドキドキするような不安や恐れを表します。",
-      "pronounciation": "/ˌtrepɪˈdeɪʃən/"
+      "pronounciation": "/ˌtrepɪˈdeɪʃən/",
+      "scriptContext": "Leonard (entering on the phone): I’m really very busy. Is there any way that we can put this off until I have more time to prepare? Of course. But, uh, you understand my trepidation.",
+      "scriptContextTranslation": "Leonard (電話をしながら入ってくる): 本当に今、すごく忙しいんだ。準備にもっと時間をかけるまで、延期することはできないかな？もちろん。でも、ああ、僕の不安も理解してくれるよね。"
     },
     {
       "id": 2,
@@ -26,7 +28,9 @@
       "correctAnswer": "推論する",
       "explanation": "「deduce」は、既知の事実や情報から論理的に結論を導き出すことを意味します。演繹的に推論するというニュアンスがあり、客観的な根拠に基づいて結論を出す場合に使われます。\n\n例：We can deduce from his behavior that he is not happy. (彼の行動から、彼が幸せではないと推論できる。)",
       "etymology": "ラテン語の「de-（下に、分離して）」と「ducere（導く）」が組み合わさり、「下へ導く」から「推論する」という意味になりました。",
-      "pronounciation": "/dɪˈduːs/"
+      "pronounciation": "/dɪˈduːs/",
+      "scriptContext": "Sheldon: This should be fairly easy to deduce. He’s holding the phone to his left ear. Ears do not cross hemispheres, so he’s using the analytical rather than the emotional side of the brain, suggesting that he has no personal relationship with the caller.",
+      "scriptContextTranslation": "Sheldon: これは簡単に推測できるはずだ。彼は電話を左耳に当てている。耳は脳の半球を交差しないから、感情的な側面ではなく、分析的な側の脳を使っている。つまり、相手とは個人的な関係がないことを示唆している。"
     },
     {
       "id": 3,
@@ -40,7 +44,9 @@
       "correctAnswer": "侵略的な",
       "explanation": "「invasive」は、文字通りには「侵入する」という意味ですが、医学の分野では「身体に深く入り込む」という意味合いで使用されます。ここでは、身体検査などが対象となるため、「侵襲的な」と解釈できます。\n\n例：The doctor recommended an invasive procedure to diagnose the problem. (医師は問題を診断するために、侵襲的な処置を勧めた。)",
       "etymology": "ラテン語の「invadere（侵入する）」に由来し、物理的にまたは比喩的に「侵入する」という意味合いを持ちます。",
-      "pronounciation": "/ɪnˈveɪsɪv/"
+      "pronounciation": "/ɪnˈveɪsɪv/",
+      "scriptContext": "Sheldon: He’s referring to an activity he has done before. It’s unpleasant and needs to be repeated. This suggests some sort of invasive medical test, like perhaps a colonoscopy.",
+      "scriptContextTranslation": "Sheldon: 彼は以前にしたことがある活動について話している。それは不快で、繰り返す必要がある。これは、侵襲的な医療検査、例えば大腸内視鏡検査のようなものを連想させる。"
     },
     {
       "id": 4,
@@ -54,7 +60,9 @@
       "correctAnswer": "熟考する",
       "explanation": "「ponder」は、何かをじっくりと、深く考えるという意味です。問題や状況について、様々な角度から検討し、結論を出そうとする際に使われます。日常会話よりも、やや文学的な、または思索的な文脈で用いられることが多いです。\n\n例：She was pondering what to do with her life. (彼女は自分の人生をどうすべきか熟考していた。)",
       "etymology": "ラテン語の「pondus（重さ）」に由来し、物事の重みを量るようにじっくり考えることを意味します。",
-      "pronounciation": "/ˈpɒndərɪŋ/"
+      "pronounciation": "/ˈpɒndərɪŋ/",
+      "scriptContext": "Woman: Yes, I can read the sign, I’m just pondering the implications.",
+      "scriptContextTranslation": "Woman: ええ、看板は読めますわ。ただ、その意味について考えているだけです。"
     },
     {
       "id": 5,
@@ -68,7 +76,9 @@
       "correctAnswer": "影響",
       "explanation": "「implication」は、ある行動や決定、出来事が間接的に、または将来的に持つ可能性のある影響や結果を指します。直接的な結果だけでなく、含みや示唆といった意味合いも含まれます。しばしば複数形（implications）で用いられ、様々な側面からの影響を考慮するニュアンスがあります。\n\n例：The decision has significant implications for the future of the company. (その決定は会社の将来に重大な影響を及ぼす。)",
       "etymology": "ラテン語の「implicare（巻き込む、含む）」に由来し、ある行動や事柄が持つ潜在的な影響や結果を指します。",
-      "pronounciation": "/ˌɪmplɪˈkeɪʃənz/"
+      "pronounciation": "/ˌɪmplɪˈkeɪʃənz/",
+      "scriptContext": "Woman: Yes, I can read the sign, I’m just pondering the implications.",
+      "scriptContextTranslation": "Woman: ええ、看板は読めますわ。ただ、その意味について考えているだけです。"
     },
     {
       "id": 6,
@@ -82,7 +92,9 @@
       "correctAnswer": "消極性",
       "explanation": "「passivity」は、積極的な行動をせず、状況に身を任せる状態を指します。自ら働きかけたり、変化を起こそうとしたりするのではなく、受動的に物事が進むのを見守る態度を表します。しばしば、無関心や無気力といったネガティブな意味合いで用いられることがあります。\n\n例：His passivity in the face of injustice was disheartening. (不正に対する彼の消極的な態度は落胆させられた。)",
       "etymology": "ラテン語の「passivus（受動的な）」に由来し、自ら行動を起こさず、ただ受け身でいる状態を指します。",
-      "pronounciation": "/pæˈsɪvɪti/"
+      "pronounciation": "/pæˈsɪvɪti/",
+      "scriptContext": "Woman: Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality.",
+      "scriptContextTranslation": "Woman: 重ねて申し上げますが、看板は読めます。しかし、看板とテープは埃で覆われており、エレベーターがかなりの期間、機能していないことを示しています。これは、メールボックスの数と典型的な都市人口密度から推測される、この建物の24人から36人の居住者の間に、驚くべき受動性があるか、機能しているという集団的妄想があるかのどちらかを示唆しています。"
     },
     {
       "id": 7,
@@ -96,7 +108,9 @@
       "correctAnswer": "妄想",
       "explanation": "「delusion」は、現実とは異なる、強く確信している誤った信念を指します。客観的な証拠や論理的な議論によって訂正することができない、病的な状態を意味することが多いです。精神医学的な文脈でよく用いられます。\n\n例：He suffered from delusions of grandeur. (彼は誇大妄想に苦しんでいた。)",
       "etymology": "ラテン語の「deludere（欺く）」に由来し、現実とは異なる誤った信念を強く信じている状態を指します。",
-      "pronounciation": "/dɪˈluːʒən/"
+      "pronounciation": "/dɪˈluːʒən/",
+      "scriptContext": "Woman: Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality.",
+      "scriptContextTranslation": "Woman: 重ねて申し上げますが、看板は読めます。しかし、看板とテープは埃で覆われており、エレベーターがかなりの期間、機能していないことを示しています。これは、メールボックスの数と典型的な都市人口密度から推測される、この建物の24人から36人の居住者の間に、驚くべき受動性があるか、機能しているという集団的妄想があるかのどちらかを示唆しています。"
     },
     {
       "id": 8,
@@ -110,7 +124,9 @@
       "correctAnswer": "挨拶",
       "explanation": "「pleasantry」は、社交的な場面で交わされる、形式的な挨拶やお世辞、軽い会話を指します。本題に入る前の、場を和ませるための儀礼的なやり取りを意味することが多いです。複数形（pleasantries）で用いられることが一般的です。\n\n例：After exchanging pleasantries, they got down to business. (挨拶を交わした後、彼らは本題に入った。)",
       "etymology": "フランス語の「plaisanterie（冗談、おふざけ）」に由来し、社交的な場での軽い挨拶や会話を指します。",
-      "pronounciation": "/ˈplɛzəntriz/"
+      "pronounciation": "/ˈplɛzəntriz/",
+      "scriptContext": "Beverley: Oh, all right. Would you like to exchange pleasantries on the way?",
+      "scriptContextTranslation": "Beverley: ええ、いいわ。途中で挨拶を交わしませんか？"
     },
     {
       "id": 9,
@@ -124,7 +140,9 @@
       "correctAnswer": "巻き込まれた",
       "explanation": "「enmesh」は、文字通りには「網に絡み取る」という意味ですが、心理学的な文脈では、特に人間関係において、過度に関わり合い、境界線が曖昧になっている状態を指します。互いの自立性や個性が失われ、依存的な関係になっている状況を表すことが多いです。\n\n例：The family was enmeshed in each other's lives. (その家族は互いの人生に深く関わり合っていた。)",
       "etymology": "「mesh（網）」に「en-（中に入れる）」が付いた形で、文字通り「網に絡み取られた」状態から、人間関係が過度に密接になっていることを指します。",
-      "pronounciation": "/ɪnˈmɛʃt/"
+      "pronounciation": "/ɪnˈmɛʃt/",
+      "scriptContext": "Beverley: Oh, well, at that age he was well enmeshed in what Freud would call the phallic stage of psychosexual development. An outmoded theory, of course, but the boy did spend most of his waking hours with a tight grasp on his penis.",
+      "scriptContextTranslation": "Beverley: ええと、その年齢の頃、彼はフロイトが性心理発達の男根期と呼ぶ段階に深く入り込んでいましたわ。もちろん、時代遅れの理論ですが、彼は起きている時間のほとんどを自分のペニスをしっかりと握って過ごしていました。"
     },
     {
       "id": 10,
@@ -138,7 +156,9 @@
       "correctAnswer": "時代遅れの",
       "explanation": "「outmoded」は、もはや現代的ではなく、時代遅れになった、旧式のという意味です。考え方、方法、製品など、様々なものに対して使われます。\n\n例：The technology is now outmoded. (その技術は今や時代遅れだ。)",
       "etymology": "「out-（外へ）」と「moded（様式化された）」が組み合わさり、「現在の様式から外れた」つまり「時代遅れの」という意味になりました。",
-      "pronounciation": "/ˌaʊtˈməʊdɪd/"
+      "pronounciation": "/ˌaʊtˈməʊdɪd/",
+      "scriptContext": "Beverley: Oh, well, at that age he was well enmeshed in what Freud would call the phallic stage of psychosexual development. An outmoded theory, of course, but the boy did spend most of his waking hours with a tight grasp on his penis.",
+      "scriptContextTranslation": "Beverley: ええと、その年齢の頃、彼はフロイトが性心理発達の男根期と呼ぶ段階に深く入り込んでいましたわ。もちろん、時代遅れの理論ですが、彼は起きている時間のほとんどを自分のペニスをしっかりと握って過ごしていました。"
     },
     {
       "id": 11,
@@ -152,7 +172,9 @@
       "correctAnswer": "焦点",
       "explanation": "「locus」は、ラテン語で「場所」を意味する言葉で、中心となる場所、または視点、源泉といった意味合いで使用されます。心理学の分野では、「locus of control（統制の所在）」という概念でよく用いられ、人が出来事の原因をどこに帰属させるかを示します。\n\n例：The locus of power shifted to the new CEO. (権力の焦点は新しいCEOに移った。)",
       "etymology": "ラテン語で「場所」を意味し、特定の場所、中心、または視点を指します。",
-      "pronounciation": "/ˈləʊkəs/"
+      "pronounciation": "/ˈləʊkəs/",
+      "scriptContext": "Beverley: Well, there are studies that suggest that many who go into the performing arts suffer from an external locus of identity.",
+      "scriptContextTranslation": "Beverley: ええと、芸能界に進む人の多くは、外部にアイデンティティの拠り所を求める傾向があるという研究があります。"
     },
     {
       "id": 12,
@@ -166,7 +188,9 @@
       "correctAnswer": "性交",
       "explanation": "「intercourse」は、ここでは性交を意味します。医学的、またはフォーマルな文脈で用いられることが多い単語です。\n\n例：They had intercourse last night. (彼らは昨夜性交した。)",
       "etymology": "ラテン語の「intercursus（間の流れ）」に由来し、ここでは男女間の親密な行為を指します。",
-      "pronounciation": "/ˈɪntərkɔːrs/"
+      "pronounciation": "/ˈɪntərkɔːrs/",
+      "scriptContext": "Beverley: If you want to have intercourse with that girl, find out what kind of cologne her father wore.",
+      "scriptContextTranslation": "Beverley: もしその娘と性交したいのなら、彼女の父親がどんなコロンを使っていたのかを調べなさい。"
     },
     {
       "id": 13,
@@ -180,7 +204,9 @@
       "correctAnswer": "烏龍茶",
       "explanation": "「Oolong」は、中国茶の一種である烏龍茶を指します。半発酵茶であり、独特の香りと風味が特徴です。\n\n例：I prefer oolong tea over green tea. (私は緑茶よりも烏龍茶が好きだ。)",
       "etymology": "中国語の「烏龍（wū lóng）」に由来し、文字通り「黒い龍」を意味します。お茶の葉の形状が黒い龍に似ていることから名付けられたと言われています。",
-      "pronounciation": "/ˈuːlɒŋ/"
+      "pronounciation": "/ˈuːlɒŋ/",
+      "scriptContext": "Beverley: Oolong?",
+      "scriptContextTranslation": "Beverley: 烏龍茶？"
     },
     {
       "id": 14,
@@ -194,7 +220,9 @@
       "correctAnswer": "分析的な",
       "explanation": "\"analytical\"は、物事を細かく分析し、論理的に考えることを意味します。客観的なデータや事実に基づいて判断する際に用いられます。\n\n例：She has an analytical mind. (彼女は分析的な思考の持ち主だ。)",
       "etymology": "「分析」を意味する英語の\"analysis\"に由来し、物事を細かく要素に分解して、その構造や関係性を明らかにするさまを表します。",
-      "pronounciation": "/ˌænəˈlɪtɪkəl/"
+      "pronounciation": "/ˌænəˈlɪtɪkəl/",
+      "scriptContext": "Sheldon: This should be fairly easy to deduce. He’s holding the phone to his left ear. Ears do not cross hemispheres, so he’s using the analytical rather than the emotional side of the brain, suggesting that he has no personal relationship with the caller.",
+      "scriptContextTranslation": "Sheldon: これは簡単に推測できるはずだ。彼は電話を左耳に当てている。耳は脳の半球を交差しないから、感情的な側面ではなく、分析的な側の脳を使っている。つまり、相手とは個人的な関係がないことを示唆している。"
     },
     {
       "id": 15,
@@ -208,7 +236,9 @@
       "correctAnswer": "延期する",
       "explanation": "\"postpone\"は、予定されていたイベントや活動を後の日付または時間に延期することを意味します。\n\n例：We had to postpone the meeting due to the snowstorm. (吹雪のため、会議を延期しなければなりませんでした。)",
       "etymology": "ラテン語の\"post-\"（後に）と\"ponere\"（置く）が組み合わさり、「後に置く」という意味から、予定を後ろにずらす、延期するという意味になりました。",
-      "pronounciation": "/pəʊˈspəʊn/"
+      "pronounciation": "/pəʊˈspəʊn/",
+      "scriptContext": "Leonard: Can’t we just postpone it till the spring? Maybe next summer?",
+      "scriptContextTranslation": "Leonard: 春まで延期できないかな？来年の夏とか？"
     },
     {
       "id": 16,
@@ -222,7 +252,9 @@
       "correctAnswer": "重要な",
       "explanation": "\"significant\"は、重要である、注目に値する、または大きな影響力を持つことを意味します。\n\n例：The discovery was significant for the field of medicine. (その発見は医学の分野にとって重要だった。)",
       "etymology": "ラテン語の\"significare\"（意味する、示す）に由来し、何らかの意味や重要性を持つ、無視できないほどの影響力があることを表します。",
-      "pronounciation": "/sɪɡˈnɪfɪkənt/"
+      "pronounciation": "/sɪɡˈnɪfɪkənt/",
+      "scriptContext": "Woman: Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality.",
+      "scriptContextTranslation": "Woman: 重ねて申し上げますが、看板は読めます。しかし、看板とテープは埃で覆われており、エレベーターがかなりの期間、機能していないことを示しています。これは、メールボックスの数と典型的な都市人口密度から推測される、この建物の24人から36人の居住者の間に、驚くべき受動性があるか、機能しているという集団的妄想があるかのどちらかを示唆しています。"
     },
     {
       "id": 17,
@@ -236,7 +268,9 @@
       "correctAnswer": "仮定する",
       "explanation": "\"assume\"は、証拠がない状態で何かを真実であると仮定することを意味します。\n\n例：I assume you're coming to the party. (あなたがパーティーに来ると仮定します。)",
       "etymology": "ラテン語の\"assumere\"（取る、受け入れる）に由来し、証拠がないにもかかわらず、何かを事実として受け入れる、仮定するという意味になりました。",
-      "pronounciation": "/əˈsjuːm/"
+      "pronounciation": "/əˈsjuːm/",
+      "scriptContext": "Woman: Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality.",
+      "scriptContextTranslation": "Woman: 重ねて申し上げますが、看板は読めます。しかし、看板とテープは埃で覆われており、エレベーターがかなりの期間、機能していないことを示しています。これは、メールボックスの数と典型的な都市人口密度から推測される、この建物の24人から36人の居住者の間に、驚くべき受動性があるか、機能しているという集団的妄想があるかのどちらかを示唆しています。"
     },
     {
       "id": 18,
@@ -250,7 +284,9 @@
       "correctAnswer": "典型的な",
       "explanation": "\"typical\"は、特定の種類やグループに共通する特性や行動を示すことを意味します。\n\n例：This is a typical example of his work. (これは彼の作品の典型的な例です。)",
       "etymology": "ギリシャ語の\"typos\"（型、印）に由来し、ある特定のグループやカテゴリーに共通する特徴を持つ、典型的な様子を表します。",
-      "pronounciation": "/ˈtɪpɪkəl/"
+      "pronounciation": "/ˈtɪpɪkəl/",
+      "scriptContext": "Woman: Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality.",
+      "scriptContextTranslation": "Woman: 重ねて申し上げますが、看板は読めます。しかし、看板とテープは埃で覆われており、エレベーターがかなりの期間、機能していないことを示しています。これは、メールボックスの数と典型的な都市人口密度から推測される、この建物の24人から36人の居住者の間に、驚くべき受動性があるか、機能しているという集団的妄想があるかのどちらかを示唆しています。"
     },
     {
       "id": 19,
@@ -264,7 +300,9 @@
       "correctAnswer": "主要な",
       "explanation": "\"primary\"は、最も重要である、または最も基本的な意味を持ちます。\n\n例：Her primary goal is to finish her degree. (彼女の主要な目標は学位を修了することです。)",
       "etymology": "ラテン語の\"primarius\"（最初の、主要な）に由来し、順序や重要度において最初である、最も基本的なという意味を持ちます。",
-      "pronounciation": "/ˈpraɪməri/"
+      "pronounciation": "/ˈpraɪməri/",
+      "scriptContext": "Beverley: Well, that is one of my degrees. My primary field is neuroscience.",
+      "scriptContextTranslation": "Beverley: ええ、それは私の学位の一つです。私の主要な分野は神経科学です。"
     },
     {
       "id": 20,
@@ -278,7 +316,9 @@
       "correctAnswer": "青年期",
       "explanation": "\"adolescence\"は、子供から大人への移行期である青年期を指します。\n\n例：Adolescence can be a difficult time for many teenagers. (青年期は多くのティーンエイジャーにとって困難な時期となることがあります。)",
       "etymology": "ラテン語の\"adolescere\"（成長する）に由来し、子供から大人へと成長する移行期、青年期を表します。",
-      "pronounciation": "/ˌædəˈlɛsns/"
+      "pronounciation": "/ˌædəˈlɛsns/",
+      "scriptContext": "Beverley: And then, I’m assuming, you entered adolescence.",
+      "scriptContextTranslation": "Beverley: そして、思春期に入ったのね。"
     },
     {
       "id": 21,
@@ -292,7 +332,9 @@
       "correctAnswer": "順序",
       "explanation": "\"sequence\"は、特定の順序で並んだ一連のイベントやアイテムを意味します。\n\n例：The events occurred in a specific sequence. (そのイベントは特定の順序で発生しました。)",
       "etymology": "ラテン語の\"sequi\"（続く）に由来し、連続して起こる一連の事柄や、特定の順序で並んだものを指します。",
-      "pronounciation": "/ˈsiːkwəns/"
+      "pronounciation": "/ˈsiːkwəns/",
+      "scriptContext": "Credits sequence.",
+      "scriptContextTranslation": "(オープニング)"
     },
     {
       "id": 22,
@@ -306,7 +348,9 @@
       "correctAnswer": "非機能的な",
       "explanation": "\"non-functional\"は、正常に機能しない、または動作しない状態を意味します。\n\n例：The machine is non-functional and needs repair. (その機械は非機能的で修理が必要です。)",
       "etymology": "\"non-\"（否定）と\"functional\"（機能的な）が組み合わさり、正常に機能しない、または動作しない状態を意味します。",
-      "pronounciation": "/ˌnɒnˈfʌŋkʃənəl/"
+      "pronounciation": "/ˌnɒnˈfʌŋkʃənəl/",
+      "scriptContext": "Woman: Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality.",
+      "scriptContextTranslation": "Woman: 重ねて申し上げますが、看板は読めます。しかし、看板とテープは埃で覆われており、エレベーターがかなりの期間、機能していないことを示しています。これは、メールボックスの数と典型的な都市人口密度から推測される、この建物の24人から36人の居住者の間に、驚くべき受動性があるか、機能しているという集団的妄想があるかのどちらかを示唆しています。"
     },
     {
       "id": 23,
@@ -320,7 +364,9 @@
       "correctAnswer": "注目すべき",
       "explanation": "\"remarkable\"は、注目に値する、または非常に優れていることを意味します。\n\n例：She has a remarkable talent for music. (彼女は音楽において注目すべき才能を持っています。)",
       "etymology": "\"re-\"（再び、強調）と\"markable\"（注目に値する）が組み合わさり、注目すべき、または非常に優れていることを意味します。",
-      "pronounciation": "/rɪˈmɑːrkəbəl/"
+      "pronounciation": "/rɪˈmɑːrkəbəl/",
+      "scriptContext": "Woman: Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality.",
+      "scriptContextTranslation": "Woman: 重ねて申し上げますが、看板は読めます。しかし、看板とテープは埃で覆われており、エレベーターがかなりの期間、機能していないことを示しています。これは、メールボックスの数と典型的な都市人口密度から推測される、この建物の24人から36人の居住者の間に、驚くべき受動性があるか、機能しているという集団的妄想があるかのどちらかを示唆しています。"
     },
     {
       "id": 24,
@@ -334,7 +380,9 @@
       "correctAnswer": "身体への負担が大きい検査",
       "explanation": "\"invasive medical test\"は、身体に何らかの形で侵入する医療検査を指します。これには、針を刺したり、内視鏡を使用したりする検査が含まれます。\n\n例：A biopsy is an example of an invasive medical test. (生検は侵襲的な医療検査の例です。)",
       "etymology": "「invasive」はラテン語の「invadere（侵入する）」に由来し、身体に侵入する医療行為を指します。医療検査が身体に及ぼす影響から「身体への負担が大きい検査」を意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: He’s referring to an activity he has done before. It’s unpleasant and needs to be repeated. This suggests some sort of invasive medical test, like perhaps a colonoscopy.",
+      "scriptContextTranslation": "Sheldon: 彼は以前にしたことがある活動について話している。それは不快で、繰り返す必要がある。これは、侵襲的な医療検査、例えば大腸内視鏡検査のようなものを連想させる。"
     },
     {
       "id": 25,
@@ -348,7 +396,9 @@
       "correctAnswer": "進める",
       "explanation": "\"go ahead\"は、何かを始める、または続ける許可を与えることを意味します。また、行動を開始すること自体を指すこともあります。\n\n例：\"Go ahead,\" she said, giving her consent. (彼女は同意を与え、「進めて」と言った。)",
       "etymology": "「go ahead」は、前進するという意味から、許可を与えたり、行動を開始したりすることを意味するイディオムです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: No, I didn’t realize it had been so long. Sure, I guess there’s no other choice but to just go ahead and do it.",
+      "scriptContextTranslation": "Leonard: いや、そんなに時間が経っていたとは気づかなかった。ああ、仕方ない、もうやるしかないんだな。"
     },
     {
       "id": 26,
@@ -362,7 +412,9 @@
       "correctAnswer": "浸した",
       "explanation": "「steep」は、液体に浸す、浸漬するという意味です。お茶やハーブなどを淹れる際に使われます。ここでは、紅茶のティーバッグを浸す時間を尋ねています。\n\n例：Steep the tea bag for three to five minutes. (ティーバッグを3〜5分浸してください。)",
       "etymology": "古英語の「stēpan（浸す）」に由来し、液体に浸して成分を抽出することを意味します。お茶などを淹れる際によく使われます。",
-      "pronounciation": "/stiːpt/"
+      "pronounciation": "/stiːpt/",
+      "scriptContext": "Beverley: Steeped three minutes?",
+      "scriptContextTranslation": "Beverley: 3分蒸らした？"
     },
     {
       "id": 27,
@@ -376,7 +428,9 @@
       "correctAnswer": "形式的な",
       "explanation": "「pro forma」は、ラテン語由来で「形式的な」「見せかけの」という意味です。ここでは、結婚の体裁を保つための性行為であったことを婉曲的に表現しています。\n\n例：The meeting was pro forma, with no real discussion taking place. (会議は形式的なもので、実質的な議論は行われなかった。)",
       "etymology": "ラテン語で「形式のために」という意味で、ここでは結婚の体裁を保つための行為であることを示唆しています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley:  Oh, I don’t know where he would’ve gotten that. Aside from a pro forma consummation of our marriage, his father and I only had intercourse for the purposes of reproduction.",
+      "scriptContextTranslation": "Beverley: まあ、どこからそんなものを得たのかしらね。結婚の形式的な性交を除けば、彼の父親と私が性交したのは、生殖のためだけよ。"
     },
     {
       "id": 28,
@@ -390,7 +444,9 @@
       "correctAnswer": "完成",
       "explanation": "「consummation」は、完成、成就、特に結婚の性的な意味での成立を指します。ここでは、結婚の成立としての性行為を指しています。\n\n例：The consummation of the deal was celebrated with a party. (取引の成立はパーティーで祝われた。)",
       "etymology": "ラテン語の「consummare（完成させる）」に由来し、ここでは結婚を性的に完了させる行為を指します。",
-      "pronounciation": "/ˌkɒnsəˈmeɪʃən/"
+      "pronounciation": "/ˌkɒnsəˈmeɪʃən/",
+      "scriptContext": "Beverley:  Oh, I don’t know where he would’ve gotten that. Aside from a pro forma consummation of our marriage, his father and I only had intercourse for the purposes of reproduction.",
+      "scriptContextTranslation": "Beverley: まあ、どこからそんなものを得たのかしらね。結婚の形式的な性交を除けば、彼の父親と私が性交したのは、生殖のためだけよ。"
     },
     {
       "id": 29,
@@ -404,7 +460,9 @@
       "correctAnswer": "人類学的な",
       "explanation": "「anthropological」は、人類学的な、人類学に関するという意味です。ここでは、父親が人類学的な視点から同様の論文を書いたことを示しています。\n\n例：The anthropological study examined the customs of the tribe. (その人類学的研究は、部族の慣習を調査した。)",
       "etymology": "ギリシャ語の「anthropos（人間）」と「logia（学問）」が組み合わさり、人間の文化や社会を研究する学問分野に関連することを意味します。",
-      "pronounciation": "/ˌænθrəpəˈlɒdʒɪkəl/"
+      "pronounciation": "/ˌænθrəpəˈlɒdʒɪkəl/",
+      "scriptContext": "Beverley: Yes, we think so. We’ve both done papers on it. Mine from the neuroscientific point of view and his from an anthropological. Mine, of course, was the only one worth reading.",
+      "scriptContextTranslation": "Beverley: ええ、そう思ってるわ。二人とも論文を書いたの。私は神経科学的な観点から、彼は人類学的な観点から。もちろん、読む価値があるのは私の論文だけだったけど。"
     },
     {
       "id": 30,
@@ -418,7 +476,9 @@
       "correctAnswer": "素晴らしい",
       "explanation": "「swell」は、ここでは皮肉を込めて「素晴らしい」「よかったね」という意味で使われています。不快な話題に対する反発として使われる口語表現です。\n\n例：“I failed the exam.” “Swell.”（「試験に落ちたよ。」「よかったね。」）",
       "etymology": "ここでは、相手の状況を喜ぶ気持ちがない時に、皮肉を込めて「良かったね」と言う意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Swell. If you’re lucky, maybe she’ll show you the PowerPoint presentation.",
+      "scriptContextTranslation": "Leonard: 最高だ。運が良ければ、パワーポイントのプレゼンを見せてくれるかもよ。"
     },
     {
       "id": 31,
@@ -432,7 +492,9 @@
       "correctAnswer": "更年期の症状",
       "explanation": "「menopausal symptoms」は、更年期（閉経）の症状という意味です。ホットフラッシュ、気分の変動、睡眠障害など、さまざまな症状があります。\n\n例：She is experiencing menopausal symptoms such as hot flashes and night sweats. (彼女はほてりや寝汗のような更年期の症状を経験している。)",
       "etymology": "「menopause（閉経）」と「symptoms（症状）」が組み合わさり、閉経に伴う様々な身体的・精神的な変化を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: Oh, well, I’ve been having some fascinating menopausal symptoms recently.",
+      "scriptContextTranslation": "Beverley: ああ、そうね。最近、興味深い更年期障害の症状が出ているの。"
     },
     {
       "id": 32,
@@ -446,7 +508,9 @@
       "correctAnswer": "仲良くなる",
       "explanation": "「hit it off」は、すぐに意気投合する、仲良くなるという意味のイディオムです。初めて会った人に対して使われることが多いです。\n\n例：We hit it off immediately and became good friends. (私たちはすぐに意気投合して良い友達になった。)",
       "etymology": "初めて会った人との関係が「うまくいく」というイメージから、すぐに意気投合するという意味で使われるイディオムです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Yeah I, I thought you guys might hit it off.",
+      "scriptContextTranslation": "Leonard: ああ、うん、気が合うんじゃないかと思ってたんだ。"
     },
     {
       "id": 33,
@@ -460,7 +524,9 @@
       "correctAnswer": "誤って覚えている",
       "explanation": "「misremember」は、誤って記憶している、記憶違いをするという意味です。事実と異なることを覚えている状態を指します。\n\n例：He was misremembering the details of the accident. (彼は事故の詳細を誤って記憶していた。)",
       "etymology": "「mis-（誤って）」と「remember（覚えている）」が組み合わさり、事実とは異なることを記憶している状態を指します。",
-      "pronounciation": "/ˌmɪsrɪˈmɛmbərɪŋ/"
+      "pronounciation": "/ˌmɪsrɪˈmɛmbərɪŋ/",
+      "scriptContext": "Sheldon: You’re clearly misremembering. Your mother is brilliant, analytical, insightful, and I’m betting she never hit you with a Bible because you wouldn’t eat your Brussels sprouts.",
+      "scriptContextTranslation": "Sheldon: 君は明らかに記憶違いをしている。君の母親は、優秀で、分析的で、洞察力がある。そして、芽キャベツを食べないからといって、聖書で君を叩いたことはないと僕は賭ける。"
     },
     {
       "id": 34,
@@ -474,7 +540,9 @@
       "correctAnswer": "芽キャベツ",
       "explanation": "「Brussels sprouts」は、芽キャベツのことです。独特の苦味があり、好き嫌いが分かれる野菜です。\n\n例：Some people love Brussels sprouts, while others hate them. (芽キャベツが好きな人もいれば、嫌いな人もいる。)",
       "etymology": "ベルギーのブリュッセルで栽培が盛んであったことから、この名前が付けられました。",
-      "pronounciation": "/ˈbrʌsəlz spraʊts/"
+      "pronounciation": "/ˈbrʌsəlz spraʊts/",
+      "scriptContext": "Sheldon: You’re clearly misremembering. Your mother is brilliant, analytical, insightful, and I’m betting she never hit you with a Bible because you wouldn’t eat your Brussels sprouts.",
+      "scriptContextTranslation": "Sheldon: 君は明らかに記憶違いをしている。君の母親は、優秀で、分析的で、洞察力がある。そして、芽キャベツを食べないからといって、聖書で君を叩いたことはないと僕は賭ける。"
     },
     {
       "id": 35,
@@ -488,7 +556,9 @@
       "correctAnswer": "電極を貼り付ける",
       "explanation": "「glue electrodes」は、電極を糊付けして貼り付けるという意味です。医学的な実験や検査で、脳波などを測定するために行われます。\n\n例：The doctor glued electrodes to his scalp to measure his brain activity. (医者は彼の頭皮に電極を貼り付けて脳の活動を測定した。)",
       "etymology": "「glue（糊）」を使って「electrodes（電極）」を貼り付ける行為を指し、医学的な検査や実験で脳波などを測定するために行われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Sheldon, you don’t give your mother enough credit. She’s warm, she’s loving, she doesn’t glue electrodes to your head to measure your brain waves while potty training.",
+      "scriptContextTranslation": "Leonard: シェルドン、君は母親を過小評価しすぎだ。温かくて、愛情深くて、おむつを外すトレーニング中に脳波を測るために頭に電極を貼り付けたりしないよ。"
     },
     {
       "id": 36,
@@ -502,7 +572,9 @@
       "correctAnswer": "トイレトレーニング",
       "explanation": "「potty training」は、トイレトレーニング、おむつ離れのことです。子供が自分でトイレに行けるように訓練することです。\n\n例：Potty training can be a challenging time for parents. (トイレトレーニングは親にとって大変な時期になることがある。)",
       "etymology": "子供が「potty（おまる）」を使って排泄する訓練をすることから、トイレトレーニングという意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Sheldon, you don’t give your mother enough credit. She’s warm, she’s loving, she doesn’t glue electrodes to your head to measure your brain waves while potty training.",
+      "scriptContextTranslation": "Leonard: シェルドン、君は母親を過小評価しすぎだ。温かくて、愛情深くて、おむつを外すトレーニング中に脳波を測るために頭に電極を貼り付けたりしないよ。"
     },
     {
       "id": 37,
@@ -516,7 +588,9 @@
       "correctAnswer": "脳波検査",
       "explanation": "「EEG」は、electroencephalogramの略で、脳波検査のことです。脳の電気的な活動を測定する検査です。\n\n例：The doctor ordered an EEG to check for seizures. (医者は発作を確認するために脳波検査を指示した。)",
       "etymology": "electroencephalogramの略で、脳の電気的な活動を記録する検査法です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You were lucky. When I was a kid, if I wanted an EEG, I had to attach my own electrodes.",
+      "scriptContextTranslation": "Sheldon: 君はラッキーだったんだ。僕が子供の頃、脳波検査を受けたければ、自分で電極を取り付けなければならなかった。"
     },
     {
       "id": 38,
@@ -530,7 +604,9 @@
       "correctAnswer": "終身在職権のある",
       "explanation": "「tenured」は、終身在職権のある、テニュア（終身在職権）を得ているという意味です。大学教授などが安定した地位を得ていることを指します。\n\n例：She is a tenured professor at the university. (彼女はその大学の終身在職権のある教授です。)",
       "etymology": "「tenure（在職権）」を持つことから、大学教授などが安定した地位を保証されている状態を指します。",
-      "pronounciation": "/ˈtɛnjʊərd/"
+      "pronounciation": "/ˈtɛnjʊərd/",
+      "scriptContext": "Beverley: Well, Leonard’s younger brother, Michael, is a tenured law professor at Harvard, and his sister just successfully grew a human pancreas in an adolescent gibbon.",
+      "scriptContextTranslation": "Beverley: ええと、レナードの弟のマイケルは、ハーバード大学の終身在職権を持つ法学教授で、妹は先日、若いテナガザルの中で人間の膵臓を育てることに成功したのよ。"
     },
     {
       "id": 39,
@@ -544,7 +620,9 @@
       "correctAnswer": "それぞれの分野",
       "explanation": "「respective fields」は、それぞれの分野、各自の専門分野という意味です。複数人が異なる分野で活動していることを指します。\n\n例：They are experts in their respective fields. (彼らはそれぞれの分野の専門家です。)",
       "etymology": "「respective（それぞれの）」と「fields（分野）」が組み合わさり、複数人が各自の専門分野で活動していることを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: I understand that unlike Leonard, they’re at the top of their respective fields.",
+      "scriptContextTranslation": "Howard: レナードとは違って、彼らはそれぞれの分野でトップにいるそうですね。"
     },
     {
       "id": 40,
@@ -558,7 +636,9 @@
       "correctAnswer": "最低だ",
       "explanation": "「suck」は、俗語で「ひどい」「最悪だ」という意味です。ここでは、相手の嫌なことを言う行為に対して使われています。\n\n例：This movie sucks. (この映画はひどい。)",
       "etymology": "元々は「吸う」という意味ですが、俗語として「ひどい」「最悪だ」という意味で使われるようになりました。",
-      "pronounciation": "/sʌk/"
+      "pronounciation": "/sʌk/",
+      "scriptContext": "Leonard: Boy, you suck.",
+      "scriptContextTranslation": "Leonard: 最低だな、お前。"
     },
     {
       "id": 41,
@@ -572,7 +652,9 @@
       "correctAnswer": "テナガザル",
       "explanation": "「gibbon」は、テナガザルのことです。東南アジアに生息する小型の類人猿です。\n\n例：Gibbons are known for their long arms and loud calls. (テナガザルは長い腕と大きな鳴き声で知られている。)",
       "etymology": "フランス語の「gibbon」に由来し、東南アジアに生息する小型の類人猿を指します。",
-      "pronounciation": "/ˈɡɪbən/"
+      "pronounciation": "/ˈɡɪbən/",
+      "scriptContext": "Beverley: Well, Leonard’s younger brother, Michael, is a tenured law professor at Harvard, and his sister just successfully grew a human pancreas in an adolescent gibbon.",
+      "scriptContextTranslation": "Beverley: ええと、レナードの弟のマイケルは、ハーバード大学の終身在職権を持つ法学教授で、妹は先日、若いテナガザルの中で人間の膵臓を育てることに成功したのよ。"
     },
     {
       "id": 42,
@@ -586,7 +668,9 @@
       "correctAnswer": "嘲笑する",
       "explanation": "「mock」は、嘲笑する、馬鹿にするという意味です。相手を軽蔑するような態度で笑うことを指します。\n\n例：They mocked him for his accent. (彼らは彼のアクセントをからかった。)",
       "etymology": "フランス語の「mocquer（あざける）」に由来し、軽蔑的な態度で笑う、嘲笑するという意味です。",
-      "pronounciation": "/mɒk/"
+      "pronounciation": "/mɒk/",
+      "scriptContext": "Leonard: You know, rather than mock me, my friends might realize that this is difficult and try to help me through it.",
+      "scriptContextTranslation": "Leonard: あのさ、からかうよりも、友達なら僕が辛い状況だって理解して、乗り越えられるように助けてくれるんじゃないのか。"
     },
     {
       "id": 43,
@@ -600,7 +684,9 @@
       "correctAnswer": "排尿",
       "explanation": "「bladder voiding」は、排尿、膀胱を空にすることです。医学的な文脈で使われることが多い表現です。\n\n例：He had difficulty with bladder voiding after the surgery. (彼は手術後、排尿に苦労した。)",
       "etymology": "「bladder（膀胱）」を「voiding（空にする）」ことから、排尿、膀胱を空にすることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: It’s totally understandable. In bladder voiding, as in real estate, it’s location, location, location.",
+      "scriptContextTranslation": "Sheldon: 全くもって理解できます。排尿においても不動産と同じで、場所、場所、場所が重要ですから。"
     },
     {
       "id": 44,
@@ -614,7 +700,9 @@
       "correctAnswer": "不動産",
       "explanation": "「real estate」は、不動産、土地や建物などのことです。ここでは、排尿における場所の重要性を比喩的に表現しています。\n\n例：Investing in real estate can be a good way to build wealth. (不動産への投資は、資産を築く良い方法となり得る。)",
       "etymology": "「real（現実の）」と「estate（財産）」が組み合わさり、土地や建物などの不動産を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: It’s totally understandable. In bladder voiding, as in real estate, it’s location, location, location.",
+      "scriptContextTranslation": "Sheldon: 全くもって理解できます。排尿においても不動産と同じで、場所、場所、場所が重要ですから。"
     },
     {
       "id": 45,
@@ -628,7 +716,9 @@
       "correctAnswer": "由来する",
       "explanation": "「stem from」は、〜から生じる、〜に由来するという意味です。原因や起源を示す際に使われます。\n\n例：His fear of heights stems from a childhood experience. (彼の高所恐怖症は子供の頃の経験に由来する。)",
       "etymology": "木の幹（stem）から枝が伸びるイメージから、何かが〜から生じる、〜に由来するという意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: You know, both selective mutism and an inability to separate from one’s mother can stem from a pathological fear of women. It might explain why the two of you have created an ersatz homosexual marriage to satisfy your need for intimacy.",
+      "scriptContextTranslation": "Beverley: 選択性緘黙症も、母親から離れられないのも、女性に対する病的な恐怖から来ることがあるのよ。それが、あなた達二人が、親密さを満たすために、まがいものの同性愛結婚を作り上げた理由なのかもしれないわね。"
     },
     {
       "id": 46,
@@ -642,7 +732,9 @@
       "correctAnswer": "性交",
       "explanation": "「intercourse」は、性交、性行為という意味です。フォーマルな場面で使われることが多い表現です。\n\n例：They had intercourse for the first time on their wedding night. (彼らは結婚式の夜に初めて性交をした。)",
       "etymology": "ラテン語の「intercursus（間の流れ）」に由来し、ここでは男女間の性的な行為を指します。",
-      "pronounciation": "/ˈɪntərkɔːrs/"
+      "pronounciation": "/ˈɪntərkɔːrs/",
+      "scriptContext": "Beverley: If you want to have intercourse with that girl, find out what kind of cologne her father wore.",
+      "scriptContextTranslation": "Beverley: もしその娘と性交したいのなら、彼女の父親がどんなコロンを使っていたのかを調べなさい。"
     },
     {
       "id": 47,
@@ -656,7 +748,9 @@
       "correctAnswer": "聖書で叩く",
       "explanation": "「hit you with a Bible」は、聖書で叩くという意味です。厳格な宗教的な家庭で、子供をしつけるために行われる体罰を指します。\n\n例：His strict parents would hit him with a Bible if he misbehaved. (彼の厳格な両親は、彼が悪いことをすると聖書で叩いた。)",
       "etymology": "厳格な宗教的家庭で、聖書を使って子供をしつける体罰の方法を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You’re clearly misremembering. Your mother is brilliant, analytical, insightful, and I’m betting she never hit you with a Bible because you wouldn’t eat your Brussels sprouts.",
+      "scriptContextTranslation": "Sheldon: 君は明らかに記憶違いをしている。君の母親は、優秀で、分析的で、洞察力がある。そして、芽キャベツを食べないからといって、聖書で君を叩いたことはないと僕は賭ける。"
     },
     {
       "id": 48,
@@ -670,7 +764,9 @@
       "correctAnswer": "その話題に触れる",
       "explanation": "「go there」は、（通常は不快な）話題に触れるという意味です。ここでは、兄弟姉妹の成功について話すことを避けてほしいという気持ちを表しています。\n\n例：I don't want to go there right now. (今はその話題に触れたくない。)",
       "etymology": "「そこ（話題）に行く」ことから、通常は避けるべき、または不快な話題に触れるという意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Please, don’t go there, Howard.",
+      "scriptContextTranslation": "Leonard: ホワード、お願いだから、その話はやめてくれ。"
     },
     {
       "id": 49,
@@ -684,7 +780,9 @@
       "correctAnswer": "青年期の",
       "explanation": "「adolescent」は、青年期の、思春期のという意味です。ここでは、成長途中のテナガザルに人間の膵臓を育てていることを指しています。\n\n例：She works with adolescent patients. (彼女は青年期の患者を診ている。)",
       "etymology": "ラテン語の「adolescens（成長している）」に由来し、青年期の、思春期のという意味です。",
-      "pronounciation": "/ˌædəˈlɛsnt/"
+      "pronounciation": "/ˌædəˈlɛsnt/",
+      "scriptContext": "Beverley: Well, Leonard’s younger brother, Michael, is a tenured law professor at Harvard, and his sister just successfully grew a human pancreas in an adolescent gibbon.",
+      "scriptContextTranslation": "Beverley: ええと、レナードの弟のマイケルは、ハーバード大学の終身在職権を持つ法学教授で、妹は先日、若いテナガザルの中で人間の膵臓を育てることに成功したのよ。"
     },
     {
       "id": 50,
@@ -698,7 +796,9 @@
       "correctAnswer": "オーケー",
       "explanation": "「Okee-day」は、「Okay」を幼児っぽく、またはふざけて言った表現です。同意や確認を求める際に使われます。\n\n例：We'll meet at 8, okee-day? (8時に会いましょう、オーケー？)",
       "etymology": "\"Okay\"を子供っぽく言ったもので、同意や確認を求める際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Next time, don’t yousa bring mama to work. Okee-day?",
+      "scriptContextTranslation": "Howard: 次からは、ママを職場に連れてきちゃダメだよ。オキーデイ？"
     },
     {
       "id": 51,
@@ -712,7 +812,9 @@
       "correctAnswer": "類似する",
       "explanation": "「borders on」は、「～に似ている」「～に近い」という意味で、ある性質や状態が別の性質や状態に非常に近いことを表します。しばしば、ある程度誇張やユーモアを含んだ表現として使われます。\n\n例：His behavior borders on rudeness. (彼の行動は無礼に近い。)",
       "etymology": "境界線を共有するという意味から、ある性質や状態が別の性質や状態に非常に近いことを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: That’s fascinating. Selective mutism is quite rare. On the other hand, an adult Jewish male living with his mother is so common it borders on sociological cliché.",
+      "scriptContextTranslation": "Beverley: 興味深いわ。選択性緘黙症は珍しいのよ。一方で、母親と暮らすユダヤ人男性は、社会学的な陳腐さの域に達するほど一般的だわ。"
     },
     {
       "id": 52,
@@ -726,7 +828,9 @@
       "correctAnswer": "始まる",
       "explanation": "「stem from」は、「～から生じる」「～に由来する」という意味で、ある事柄の原因や起源を示す際に用いられます。何かの結果や影響が、特定の源から発生していることを説明するのに適しています。\n\n例：His fear of heights stems from a childhood accident. (彼の高所恐怖症は子供の頃の事故に由来する。)",
       "etymology": "木の幹（stem）から枝が伸びるイメージから、何かが〜から生じる、〜に由来するという意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: You know, both selective mutism and an inability to separate from one’s mother can stem from a pathological fear of women. It might explain why the two of you have created an ersatz homosexual marriage to satisfy your need for intimacy.",
+      "scriptContextTranslation": "Beverley: 選択性緘黙症も、母親から離れられないのも、女性に対する病的な恐怖から来ることがあるのよ。それが、あなた達二人が、親密さを満たすために、まがいものの同性愛結婚を作り上げた理由なのかもしれないわね。"
     },
     {
       "id": 53,
@@ -740,7 +844,9 @@
       "correctAnswer": "偽物の",
       "explanation": "「ersatz」は、「代用の」「偽の」という意味で、通常、品質が劣る代替品を指します。特に、資源が不足している状況で、オリジナルの代わりに使用されるものを指すことが多いです。\n\n例：Ersatz coffee was used during the war due to coffee bean shortages. (コーヒー豆不足のため、戦時中は代用コーヒーが使われた。)",
       "etymology": "ドイツ語で「代わりの」という意味で、通常、品質が劣る代替品を指します。",
-      "pronounciation": "/ˈɛərˌzæts/"
+      "pronounciation": "/ˈɛərˌzæts/",
+      "scriptContext": "Beverley: You know, both selective mutism and an inability to separate from one’s mother can stem from a pathological fear of women. It might explain why the two of you have created an ersatz homosexual marriage to satisfy your need for intimacy.",
+      "scriptContextTranslation": "Beverley: 選択性緘黙症も、母親から離れられないのも、女性に対する病的な恐怖から来ることがあるのよ。それが、あなた達二人が、親密さを満たすために、まがいものの同性愛結婚を作り上げた理由なのかもしれないわね。"
     },
     {
       "id": 54,
@@ -754,7 +860,9 @@
       "correctAnswer": "攻撃できない",
       "explanation": "「unassailable」は、「攻撃できない」「反論の余地がない」という意味で、非常に強力で確固たる根拠があるため、批判や反論が難しいことを表します。論理や証拠が非常に強固な場合に用いられます。\n\n例：Her argument was unassailable, and no one could disagree with her. (彼女の主張は反論の余地がなく、誰も彼女に反対できなかった。)",
       "etymology": "攻撃（assail）できない（un-）ことから、非常に強力で批判や反論が難しいことを意味します。",
-      "pronounciation": "/ˌʌnəˈseɪləbəl/"
+      "pronounciation": "/ˌʌnəˈseɪləbəl/",
+      "scriptContext": "Sheldon: Her reasoning is unassailable. It is one o’clock.",
+      "scriptContextTranslation": "Sheldon: 彼女の言い分は正論だ。1時だ。"
     },
     {
       "id": 55,
@@ -768,7 +876,9 @@
       "correctAnswer": "念のため",
       "explanation": "「for the record」は、「念のため」「記録のために」という意味で、自分の意見や情報を正式に伝え、後で参照できるようにするために使われます。しばしば、自分の立場を明確にするために用いられます。\n\n例：For the record, I disagree with this decision. (念のため言っておきますが、私はこの決定に反対です。)",
       "etymology": "公式な記録に残すという意味から、自分の意見や情報を正式に伝え、後で参照できるようにするために使われます。 ",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Just for the record, we’re not in an ersatz homosexual relationship.",
+      "scriptContextTranslation": "Howard: 念のために言っておくけど、俺たちはまがいものの同性愛関係じゃないからな。"
     },
     {
       "id": 56,
@@ -782,7 +892,9 @@
       "correctAnswer": "言及する",
       "explanation": "「bring up」は、「（話題を）持ち出す」「言及する」という意味で、会話や議論の中で特定の話題を新たに導入する際に使われます。しばしば、過去の出来事や以前に議論された事柄を再び取り上げる際に用いられます。\n\n例：Why did you have to bring up my embarrassing moment in front of everyone? (なぜみんなの前で私の恥ずかしい瞬間を持ち出す必要があったの？)",
       "etymology": "話題を「持ち上げる」というイメージから、会話や議論の中で特定の話題を新たに導入する際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 57,
@@ -796,7 +908,9 @@
       "correctAnswer": "アルコールを手に入れる",
       "explanation": "「get alcohol」は、文字通り「アルコールを手に入れる」という意味ですが、ここでは文脈から、アルコール飲料を飲む、または手に入れることを指しています。特に、ストレスや困難な状況から逃避するためにアルコールを求めるニュアンスが含まれます。\n\n例：After a long day at work, I just want to go home and get alcohol. (仕事で長い一日を過ごした後、ただ家に帰ってアルコールを飲みたい。)",
       "etymology": "アルコールを手に入れることから、アルコール飲料を飲む、または手に入れることを指します。 ",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 58,
@@ -810,7 +924,9 @@
       "correctAnswer": "少し酔っ払った",
       "explanation": "「half bombed」は、「ほろ酔いの」「少し酔っ払った」という意味のスラング表現です。完全に酔っている状態ではなく、軽いアルコールの影響を受けている状態を指します。カジュアルな会話でよく使われます。\n\n例：I'm not completely drunk, just half bombed. (完全に酔っているわけではなく、ただのほろ酔いです。)",
       "etymology": "\"bombed\"は「酔っ払った」という意味のスラングで、その半分（half）なので「ほろ酔いの」という意味になります。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Hey, I talked to her for five minutes yesterday and I’ve been half bombed ever since.",
+      "scriptContextTranslation": "Penny: ねえ、昨日5分話しただけで、それ以来ずっと酔っぱらってるわ。"
     },
     {
       "id": 59,
@@ -824,7 +940,9 @@
       "correctAnswer": "影響を与える",
       "explanation": "「get into your head」は、「（人の）考えに影響を与える」「（人の）心を支配する」という意味で、他人の言葉や行動が自分の思考や感情に深く影響を及ぼすことを表します。しばしば、ネガティブな影響を指すことが多いです。\n\n例：Don't let his comments get into your head. (彼のコメントに影響されないように。)",
       "etymology": "人の頭の中に入り込むというイメージから、他人の言葉や行動が自分の思考や感情に深く影響を及ぼすことを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: You can’t let her get into your head.",
+      "scriptContextTranslation": "Leonard: 君は彼女を頭の中に入れちゃダメだ。"
     },
     {
       "id": 60,
@@ -838,7 +956,9 @@
       "correctAnswer": "焦点",
       "explanation": "「locus」は、「場所」「位置」という意味ですが、ここでは「焦点」「中心」という意味で使われています。特に、抽象的な概念や議論の中心点を指す際に用いられます。ラテン語由来のフォーマルな言葉です。\n\n例：The locus of the debate is on economic inequality. (議論の焦点は経済的不平等にある。)",
       "etymology": "ラテン語で「場所」を意味し、ここでは「焦点」「中心」という意味で使われています。",
-      "pronounciation": "/ˈloʊkəs/"
+      "pronounciation": "/ˈloʊkəs/",
+      "scriptContext": "Beverley: Well, there are studies that suggest that many who go into the performing arts suffer from an external locus of identity.",
+      "scriptContextTranslation": "Beverley: ええと、芸能界に進む人の多くは、外部にアイデンティティの拠り所を求める傾向があるという研究があります。"
     },
     {
       "id": 61,
@@ -852,7 +972,9 @@
       "correctAnswer": "外部の",
       "explanation": "「exterior to」は、「～の外にある」「～とは関係がない」という意味で、あるものの本質や中心から外れた場所にあることを表します。哲学的な文脈や抽象的な議論でよく使われます。\n\n例：The meaning of life is exterior to material possessions. (人生の意味は物質的な所有物とは関係がない。)",
       "etymology": "外側にあることから、「〜の外にある」「〜とは関係がない」という意味で、あるものの本質や中心から外れた場所にあることを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: She was right, you know. The locus of my identity is totally exterior to me.",
+      "scriptContextTranslation": "Penny: 彼女の言う通りだわ。私のアイデンティティの中心は完全に外にあるの。"
     },
     {
       "id": 62,
@@ -866,7 +988,9 @@
       "correctAnswer": "元気な",
       "explanation": "「perky」は、「元気な」「活発な」「陽気な」という意味で、エネルギッシュで明るい性格や様子を表します。しばしば、外向的で快活な人を指す際に用いられます。\n\n例：She always seems perky and cheerful, even in the morning. (彼女は朝でもいつも元気で陽気に見える。)",
       "etymology": "起源は不明ですが、元気で活発な様子を表す言葉として使われています。",
-      "pronounciation": "/ˈpɜːrki/"
+      "pronounciation": "/ˈpɜːrki/",
+      "scriptContext": "Penny: No, they said I was too perky.",
+      "scriptContextTranslation": "Penny: ダメだった。明るすぎると言われたわ。"
     },
     {
       "id": 63,
@@ -880,7 +1004,9 @@
       "correctAnswer": "感覚",
       "explanation": "「sensation of」は、「～の感覚」という意味で、五感を通じて感じる感情や知覚を指します。ここでは、人との触れ合いや温かさを求める気持ちを表しています。\n\n例：The sensation of warmth is comforting on a cold day. (寒い日には暖かさの感覚が心地よい。)",
       "etymology": "五感を通じて感じる感情や知覚を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Hey, you want to talk about not getting love from a parent. You know what I used to do when I was little to have some sensation of human contact?",
+      "scriptContextTranslation": "Leonard: ねえ、親から愛されない話でもする？僕が子供の頃、人との触れ合いを感じるために何をしていたか知ってる？"
     },
     {
       "id": 64,
@@ -894,7 +1020,9 @@
       "correctAnswer": "抱擁する機械",
       "explanation": "「hugging machine」は、「抱擁する機械」という意味で、ここでは文字通り抱きしめる機能を持つ機械を指します。物語の中では、人との接触を求める感情の象徴として用いられています。\n\n例：He invented a hugging machine to ease his loneliness. (彼は孤独を癒すために抱擁する機械を発明した。)",
       "etymology": "抱擁（hugging）する機械（machine）で、文字通り抱きしめる機能を持つ機械を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Of course she did. Anyway, that’s not what I was gonna say. When I was ten years old, I built a hugging machine.",
+      "scriptContextTranslation": "Leonard: やっぱりね。まあいいや、言いたかったのはそれじゃないんだ。10歳の時、ハグマシンを作ったんだ。"
     },
     {
       "id": 65,
@@ -908,7 +1036,9 @@
       "correctAnswer": "役に立つ",
       "explanation": "「elpful」は、「helpful」のタイプミスで、「役に立つ」「助けになる」という意味です。提供された情報や行動が、特定の目的を達成するのに役立つことを表します。\n\n例：Your advice was very helpful in solving the problem. (あなたの助言は問題を解決するのに非常に役立ちました。)",
       "etymology": "「helpful」のスペルミスですが、「役に立つ」「助けになる」という意味です。",
-      "pronounciation": "/ˈhelpfʊl/"
+      "pronounciation": "/ˈhelpfʊl/",
+      "scriptContext": "Beverley: Your scan data will be very elpful to my research. You have a remarkable brain.",
+      "scriptContextTranslation": "Beverley: あなたのスキャンデータは私の研究にとても役立つわ。素晴らしい脳をお持ちね。"
     },
     {
       "id": 66,
@@ -922,7 +1052,9 @@
       "correctAnswer": "注目すべき",
       "explanation": "「remarkable」は、「注目すべき」「驚くべき」「並外れた」という意味で、通常とは異なる、または非常に優れた性質を持つことを表します。良い意味で使われることが多いです。\n\n例：She has a remarkable talent for music. (彼女は音楽において並外れた才能を持っている。)",
       "etymology": "「注目に値する」という意味で、通常とは異なる、または非常に優れた性質を持つことを表します。",
-      "pronounciation": "/rɪˈmɑːrkəbəl/"
+      "pronounciation": "/rɪˈmɑːrkəbəl/",
+      "scriptContext": "Woman: Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality.",
+      "scriptContextTranslation": "Woman: 重ねて申し上げますが、看板は読めます。しかし、看板とテープは埃で覆われており、エレベーターがかなりの期間、機能していないことを示しています。これは、メールボックスの数と典型的な都市人口密度から推測される、この建物の24人から36人の居住者の間に、驚くべき受動性があるか、機能しているという集団的妄想があるかのどちらかを示唆しています。"
     },
     {
       "id": 67,
@@ -936,7 +1068,9 @@
       "correctAnswer": "一般的な不満",
       "explanation": "「common complaint」は、「よくある不満」「一般的な苦情」という意味で、多くの人が同じ問題に対して不満を持っていることを表します。特定の問題が広く認識され、不快感を引き起こしている状況を示します。\n\n例：Long waiting times are a common complaint at this hospital. (長い待ち時間は、この病院でよくある不満です。)",
       "etymology": "多くの人が同じ問題に対して不満を持っていることを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: Common complaint among men. Nothing’s ever big enough, except when they get a tumour. Then you never hear the end of it.",
+      "scriptContextTranslation": "Beverley: 男性によくある不満ね。腫瘍でもできない限り、何でも大きくないと嫌がる。そして、腫瘍ができたらできたで、いつまでもその話ばかり。"
     },
     {
       "id": 68,
@@ -950,7 +1084,9 @@
       "correctAnswer": "いつも言われる",
       "explanation": "「hear the end of it」は、「（～のことで）うるさく言われ続ける」「（～について）いつまでも聞かされる」という意味で、ある問題や出来事について、繰り返し話題にされ、非難や批判を受け続ける状況を表します。\n\n例：If I make a mistake, I'll never hear the end of it from my boss. (もし私がミスをしたら、上司からいつまでも言われ続けるだろう。)",
       "etymology": "ある問題や出来事について、繰り返し話題にされ、非難や批判を受け続ける状況を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: Common complaint among men. Nothing’s ever big enough, except when they get a tumour. Then you never hear the end of it.",
+      "scriptContextTranslation": "Beverley: 男性によくある不満ね。腫瘍でもできない限り、何でも大きくないと嫌がる。そして、腫瘍ができたらできたで、いつまでもその話ばかり。"
     },
     {
       "id": 69,
@@ -964,7 +1100,9 @@
       "correctAnswer": "生理学",
       "explanation": "「physiology」は、「生理学」という意味で、生物の正常な機能や生命現象を研究する学問分野を指します。ここでは、脳の構造や機能について言及しています。\n\n例：The physiology of the brain is a complex field of study. (脳の生理学は複雑な研究分野です。)",
       "etymology": "ギリシャ語の「physis（自然）」と「logia（学問）」が組み合わさり、生物の正常な機能や生命現象を研究する学問分野を指します。",
-      "pronounciation": "/ˌfɪziˈɒlədʒi/"
+      "pronounciation": "/ˌfɪziˈɒlədʒi/",
+      "scriptContext": "Beverley: Oh, I’ll send you a link, but its physiology is fairly unimpressive.",
+      "scriptContextTranslation": "Beverley: あら、リンクを送ってあげるわ。でも、その生理機能はそれほど印象的じゃないの。"
     },
     {
       "id": 70,
@@ -978,7 +1116,9 @@
       "correctAnswer": "選択的緘黙",
       "explanation": "「selective mutism」は、「選択的緘黙（かんもく）」という意味で、特定の社会的な状況でのみ話すことができない不安障害の一種です。他の状況では正常に話すことができます。\n\n例：Selective mutism can be a challenging condition for children in school. (選択的緘黙は、学校に通う子供たちにとって困難な状態となり得る。)",
       "etymology": "特定の社会的な状況でのみ話すことができない不安障害の一種です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: You know, both selective mutism and an inability to separate from one’s mother can stem from a pathological fear of women. It might explain why the two of you have created an ersatz homosexual marriage to satisfy your need for intimacy.",
+      "scriptContextTranslation": "Beverley: 選択性緘黙症も、母親から離れられないのも、女性に対する病的な恐怖から来ることがあるのよ。それが、あなた達二人が、親密さを満たすために、まがいものの同性愛結婚を作り上げた理由なのかもしれないわね。"
     },
     {
       "id": 71,
@@ -992,7 +1132,9 @@
       "correctAnswer": "社会学的常套句",
       "explanation": "「sociological cliché」は、「社会学的常套句」という意味で、社会学的な観察や議論において、過度に一般化され、新鮮さを失った固定観念やステレオタイプを指します。しばしば、現実を単純化しすぎているとして批判的に用いられます。\n\n例：The idea that all politicians are corrupt is a sociological cliché. (すべての政治家が腐敗しているという考えは、社会学的常套句である。)",
       "etymology": "社会学的な観察や議論において、過度に一般化され、新鮮さを失った固定観念やステレオタイプを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: That’s fascinating. Selective mutism is quite rare. On the other hand, an adult Jewish male living with his mother is so common it borders on sociological cliché.",
+      "scriptContextTranslation": "Beverley: 興味深いわ。選択性緘黙症は珍しいのよ。一方で、母親と暮らすユダヤ人男性は、社会学的な陳腐さの域に達するほど一般的だわ。"
     },
     {
       "id": 72,
@@ -1006,7 +1148,9 @@
       "correctAnswer": "分離能力",
       "explanation": "「inability to separate」は、「分離できないこと」「自立できないこと」という意味で、特に親や家族から精神的、感情的に自立することが難しい状態を指します。心理学的な文脈でよく用いられます。\n\n例：His inability to separate from his family has hindered his personal growth. (彼が家族から自立できないことが、彼の個人的な成長を妨げている。)",
       "etymology": "自立できないこと、特に親や家族から精神的、感情的に自立することが難しい状態を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: You know, both selective mutism and an inability to separate from one’s mother can stem from a pathological fear of women. It might explain why the two of you have created an ersatz homosexual marriage to satisfy your need for intimacy.",
+      "scriptContextTranslation": "Beverley: 選択性緘黙症も、母親から離れられないのも、女性に対する病的な恐怖から来ることがあるのよ。それが、あなた達二人が、親密さを満たすために、まがいものの同性愛結婚を作り上げた理由なのかもしれないわね。"
     },
     {
       "id": 73,
@@ -1020,7 +1164,9 @@
       "correctAnswer": "病的な恐怖",
       "explanation": "「pathological fear」は、「病的な恐怖」という意味で、通常の恐怖心を超えて、日常生活に支障をきたすほどの強い恐怖や不安を指します。精神医学的な診断が必要となる場合もあります。\n\n例：His pathological fear of spiders makes it difficult for him to go outside. (彼のクモに対する病的な恐怖のために、彼は外出することが難しい。)",
       "etymology": "通常の恐怖心を超えて、日常生活に支障をきたすほどの強い恐怖や不安を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: You know, both selective mutism and an inability to separate from one’s mother can stem from a pathological fear of women. It might explain why the two of you have created an ersatz homosexual marriage to satisfy your need for intimacy.",
+      "scriptContextTranslation": "Beverley: 選択性緘黙症も、母親から離れられないのも、女性に対する病的な恐怖から来ることがあるのよ。それが、あなた達二人が、親密さを満たすために、まがいものの同性愛結婚を作り上げた理由なのかもしれないわね。"
     },
     {
       "id": 74,
@@ -1034,7 +1180,9 @@
       "correctAnswer": "暗黒物質信号",
       "explanation": "「dark matter signal」は、「暗黒物質信号」という意味で、宇宙に存在する未知の物質である暗黒物質から発せられる可能性のある信号を指します。物理学や天文学の研究対象です。\n\n例：Scientists are searching for the dark matter signal using sensitive detectors. (科学者たちは、高感度検出器を使って暗黒物質信号を探している。)",
       "etymology": "宇宙に存在する未知の物質である暗黒物質から発せられる可能性のある信号を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Fine. Let’s go. I think you’ll find my work pretty interesting. I’m attempting to replicate the dark matter signal found in sodium iodide crystals by the Italians.",
+      "scriptContextTranslation": "Leonard: わかったよ。行こう。僕の研究は面白いと思うよ。イタリア人がヨウ化ナトリウムの結晶で見つけた暗黒物質の信号を再現しようとしているんだ。"
     },
     {
       "id": 75,
@@ -1048,7 +1196,9 @@
       "correctAnswer": "ヨウ化ナトリウム結晶",
       "explanation": "「sodium iodide crystals」は、「ヨウ化ナトリウム結晶」という意味で、特定の種類の物理実験や検出器で使用される物質です。暗黒物質の研究にも用いられることがあります。\n\n例：Sodium iodide crystals are used in detectors to search for rare events. (ヨウ化ナトリウム結晶は、まれな現象を探すための検出器で使用される。)",
       "etymology": "特定の種類の物理実験や検出器で使用される物質です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Fine. Let’s go. I think you’ll find my work pretty interesting. I’m attempting to replicate the dark matter signal found in sodium iodide crystals by the Italians.",
+      "scriptContextTranslation": "Leonard: わかったよ。行こう。僕の研究は面白いと思うよ。イタリア人がヨウ化ナトリウムの結晶で見つけた暗黒物質の信号を再現しようとしているんだ。"
     },
     {
       "id": 76,
@@ -1062,7 +1212,9 @@
       "correctAnswer": "経験的な証拠",
       "explanation": "「empirical evidence」は、観察や実験を通して得られた証拠のこと。理論や推測ではなく、実際に体験したり、データとして収集したりした情報に基づいています。科学的研究や客観的な判断をする際に重要な要素となります。例文：The study relies on empirical evidence to support its claims. (その研究は、主張を裏付けるために経験的な証拠に頼っている。)",
       "etymology": "経験や観察を通して得られた証拠を指し、理論や推測ではなく、実際に体験したり、データとして収集したりした情報に基づいています。",
-      "pronounciation": "/ɪmˈpɪrɪkəl ˈɛvɪdəns/"
+      "pronounciation": "/ɪmˈpɪrɪkəl ˈɛvɪdəns/",
+      "scriptContext": "Beverley: Your unwillingness to accept empirical evidence suggests an attempt at flattery.",
+      "scriptContextTranslation": "Beverley: あなたが経験的な証拠を受け入れないのは、お世辞のつもりかしら。"
     },
     {
       "id": 77,
@@ -1076,7 +1228,9 @@
       "correctAnswer": "お世辞",
       "explanation": "「flattery」は、相手を喜ばせるために大げさに褒めたり、実際以上に良く言ったりすること。必ずしも悪い意味ではなく、コミュニケーションを円滑にするために使われることもあります。例文：He used flattery to get what he wanted. (彼はお世辞を使って自分の欲しいものを手に入れた。)",
       "etymology": "相手を喜ばせるために、大げさに褒めたり、実際以上に良く言ったりすること。語源は古フランス語の「flaterie（お世辞）」。",
-      "pronounciation": "/ˈflætəri/"
+      "pronounciation": "/ˈflætəri/",
+      "scriptContext": "Beverley: Your unwillingness to accept empirical evidence suggests an attempt at flattery.",
+      "scriptContextTranslation": "Beverley: あなたが経験的な証拠を受け入れないのは、お世辞のつもりかしら。"
     },
     {
       "id": 78,
@@ -1090,7 +1244,9 @@
       "correctAnswer": "確率",
       "explanation": "「odds」は、ある事象が起こる可能性、確率を意味します。ギャンブルや競争など、結果が不確実な状況でよく使われます。「What are the odds?」は、「可能性はどのくらい？」「まさか！」といった意味で使われます。例文：What are the odds of winning the lottery? (宝くじに当たる確率はどのくらい？)",
       "etymology": "もともとは「不均等な点」を意味し、そこから「可能性」「確率」という意味に発展。ギャンブルなどで使われることが多い。",
-      "pronounciation": "/ɒdz/"
+      "pronounciation": "/ɒdz/",
+      "scriptContext": "Sheldon: What are the odds that two individuals as unique as ourselves would be connected by someone as comparatively workaday as your son?",
+      "scriptContextTranslation": "Sheldon: 私たちほどユニークな二人が、あなたの息子のような平凡な人物によって繋がっている確率はどれくらいでしょう？"
     },
     {
       "id": 79,
@@ -1104,7 +1260,9 @@
       "correctAnswer": "日常的な",
       "explanation": "「workaday」は、平凡で日常的な、ありふれたという意味です。特に、仕事や生活に関連して使われることが多いです。例文：He led a workaday life as an office clerk. (彼は事務員として平凡な毎日を送っていた。)",
       "etymology": "\"work（仕事）\"と\"day（日）\"が組み合わさり、仕事をする日、つまり平凡で日常的な様子を表す。",
-      "pronounciation": "/ˈwɜːrkədeɪ/"
+      "pronounciation": "/ˈwɜːrkədeɪ/",
+      "scriptContext": "Sheldon: What are the odds that two individuals as unique as ourselves would be connected by someone as comparatively workaday as your son?",
+      "scriptContextTranslation": "Sheldon: 私たちほどユニークな二人が、あなたの息子のような平凡な人物によって繋がっている確率はどれくらいでしょう？"
     },
     {
       "id": 80,
@@ -1118,7 +1276,9 @@
       "correctAnswer": "修辞的な",
       "explanation": "「rhetorical」は、修辞的な、言葉巧みな、という意味です。特に、質問が「rhetorical question（修辞疑問）」として使われる場合、答えを期待するものではなく、強調や議論のために用いられます。例文：His speech was full of rhetorical devices. (彼の演説は修辞的な表現に満ちていた。)",
       "etymology": "ギリシャ語の\"rhētorikos（弁論術の）\"に由来し、言葉巧みな、修辞的なという意味を持つ。",
-      "pronounciation": "/rɪˈtɔːrɪkəl/"
+      "pronounciation": "/rɪˈtɔːrɪkəl/",
+      "scriptContext": "Beverley: Is that a rhetorical point or would you like to do the math?",
+      "scriptContextTranslation": "Beverley: それは修辞的な質問？ それとも計算したいのかしら？"
     },
     {
       "id": 81,
@@ -1132,7 +1292,9 @@
       "correctAnswer": "誘惑された",
       "explanation": "「tempted」は、～したい気持ちになる、誘惑されるという意味です。何か魅力的なものや、やってはいけないことに対して心が動く状態を表します。例文：I was tempted to eat the whole cake. (ケーキを全部食べたい気持ちになった。)",
       "etymology": "ラテン語の\"temptare（試す、誘惑する）\"に由来し、何か魅力的なものや、やってはいけないことに対して心が動く状態を表す。",
-      "pronounciation": "/ˈtɛmptɪd/"
+      "pronounciation": "/ˈtɛmptɪd/",
+      "scriptContext": "Beverley: I’m very tempted. I’m just not sure it’s appropriate with my son’s roommate.",
+      "scriptContextTranslation": "Beverley: とても惹かれるわ。ただ、息子のルームメイトとするのは適切かどうか迷うの。"
     },
     {
       "id": 82,
@@ -1146,7 +1308,9 @@
       "correctAnswer": "適切な",
       "explanation": "「appropriate」は、状況や目的に適している、ふさわしいという意味です。社会的な規範やマナーに合致していることを表す場合もあります。例文：Is it appropriate to wear jeans to a wedding? (結婚式にジーンズを履いていくのは適切ですか？)",
       "etymology": "ラテン語の\"appropriare（自分のものにする）\"に由来し、状況や目的に適している、ふさわしいという意味を持つ。",
-      "pronounciation": "/əˈproʊpriət/"
+      "pronounciation": "/əˈproʊpriət/",
+      "scriptContext": "Beverley: I’m very tempted. I’m just not sure it’s appropriate with my son’s roommate.",
+      "scriptContextTranslation": "Beverley: とても惹かれるわ。ただ、息子のルームメイトとするのは適切かどうか迷うの。"
     },
     {
       "id": 83,
@@ -1160,7 +1324,9 @@
       "correctAnswer": "推測する",
       "explanation": "「speculate」は、根拠が不十分なまま推測する、憶測するという意味です。特に、科学的な根拠がない場合や、不確かな情報に基づいて意見を述べる際に使われます。例文：Analysts speculate that the company will announce a merger soon. (アナリストたちは、その会社が近いうちに合併を発表すると推測している。)",
       "etymology": "ラテン語の\"speculari（見張る、観察する）\"に由来し、根拠が不十分なまま推測する、憶測するという意味を持つ。",
-      "pronounciation": "/ˈspɛkjəleɪt/"
+      "pronounciation": "/ˈspɛkjəleɪt/",
+      "scriptContext": "Sheldon: Normally, I’d feel the same way. But based on everything I’ve observed about us, I can’t help but speculate we’d be very good together.",
+      "scriptContextTranslation": "Sheldon: 普通なら私もそう思うでしょう。しかし、私たちについて観察したすべてに基づいて、私たちはとても相性が良いのではないかと推測せざるを得ません。"
     },
     {
       "id": 84,
@@ -1174,7 +1340,9 @@
       "correctAnswer": "ためらう",
       "explanation": "「hesitant」は、ためらう、躊躇するという意味です。何かをすることに不安や迷いを感じている状態を表します。例文：She was hesitant to accept the job offer. (彼女はその仕事のオファーを受けるのをためらった。)",
       "etymology": "ラテン語の\"haerere（しがみつく、ためらう）\"に由来し、ためらう、躊躇するという意味を持つ。",
-      "pronounciation": "/ˈhɛzɪtənt/"
+      "pronounciation": "/ˈhɛzɪtənt/",
+      "scriptContext": "Sheldon: I was hesitant the first time I tried it, but I experienced an unanticipated and remarkable release of endorphins. It’s quite satisfying.",
+      "scriptContextTranslation": "Sheldon: 最初は躊躇しましたが、予想外の著しいエンドルフィンの放出を経験しました。それは非常に満足のいくものです。"
     },
     {
       "id": 85,
@@ -1188,7 +1356,9 @@
       "correctAnswer": "予期せぬ",
       "explanation": "「unanticipated」は、予期せぬ、予想外のという意味です。計画や予想とは異なることが起こる状況を表します。例文：The company faced unanticipated problems with the new product launch. (その会社は新製品の発売で予期せぬ問題に直面した。)",
       "etymology": "\"un-\"（否定）と\"anticipated\"（予期された）が組み合わさり、予期せぬ、予想外のという意味を持つ。",
-      "pronounciation": "/ˌʌnænˈtɪsɪpeɪtɪd/"
+      "pronounciation": "/ˌʌnænˈtɪsɪpeɪtɪd/",
+      "scriptContext": "Sheldon: I was hesitant the first time I tried it, but I experienced an unanticipated and remarkable release of endorphins. It’s quite satisfying.",
+      "scriptContextTranslation": "Sheldon: 最初は躊躇しましたが、予想外の著しいエンドルフィンの放出を経験しました。それは非常に満足のいくものです。"
     },
     {
       "id": 86,
@@ -1202,7 +1372,9 @@
       "correctAnswer": "注目すべき",
       "explanation": "「remarkable」は、注目すべき、著しい、並外れたという意味です。普通とは違う、特別な印象を与えるものに対して使われます。例文：She achieved remarkable success in her career. (彼女はキャリアにおいて目覚ましい成功を収めた。)",
       "etymology": "\"re-\"（再び、強調）と\"markable\"（注目に値する）が組み合わさり、注目すべき、著しい、並外れたという意味を持つ。",
-      "pronounciation": "/rɪˈmɑːrkəbəl/"
+      "pronounciation": "/rɪˈmɑːrkəbəl/",
+      "scriptContext": "Woman: Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality.",
+      "scriptContextTranslation": "Woman: 重ねて申し上げますが、看板は読めます。しかし、看板とテープは埃で覆われており、エレベーターがかなりの期間、機能していないことを示しています。これは、メールボックスの数と典型的な都市人口密度から推測される、この建物の24人から36人の居住者の間に、驚くべき受動性があるか、機能しているという集団的妄想があるかのどちらかを示唆しています。"
     },
     {
       "id": 87,
@@ -1216,7 +1388,9 @@
       "correctAnswer": "解放",
       "explanation": "「release」は、解放、放出、公開など、様々な意味を持つ単語ですが、ここでは「放出」の意味合いが強いです。例文：The release of endorphins made her feel better. (エンドルフィンの放出で彼女は気分が良くなった。)",
       "etymology": "古フランス語の\"relesser（解放する）\"に由来し、解放、放出、公開など、様々な意味を持つ。",
-      "pronounciation": "/rɪˈliːs/"
+      "pronounciation": "/rɪˈliːs/",
+      "scriptContext": "Sheldon: I was hesitant the first time I tried it, but I experienced an unanticipated and remarkable release of endorphins. It’s quite satisfying.",
+      "scriptContextTranslation": "Sheldon: 最初は躊躇しましたが、予想外の著しいエンドルフィンの放出を経験しました。それは非常に満足のいくものです。"
     },
     {
       "id": 88,
@@ -1230,7 +1404,9 @@
       "correctAnswer": "ホルモン",
       "explanation": "「endorphins」は、エンドルフィンという脳内麻薬の一種です。幸福感や快感をもたらし、痛みを和らげる効果があります。運動や楽しい活動によって分泌が促進されます。例文：Exercise can help release endorphins and improve mood. (運動はエンドルフィンの放出を助け、気分を改善する。) ",
       "etymology": "「endo-（内部）」と「morphine（モルヒネ）」が組み合わさり、体内で生成されるモルヒネのような物質という意味。",
-      "pronounciation": "/ɛnˈdɔːrfɪnz/"
+      "pronounciation": "/ɛnˈdɔːrfɪnz/",
+      "scriptContext": "Sheldon: I was hesitant the first time I tried it, but I experienced an unanticipated and remarkable release of endorphins. It’s quite satisfying.",
+      "scriptContextTranslation": "Sheldon: 最初は躊躇しましたが、予想外の著しいエンドルフィンの放出を経験しました。それは非常に満足のいくものです。"
     },
     {
       "id": 89,
@@ -1244,7 +1420,9 @@
       "correctAnswer": "訴えかける",
       "explanation": "「appealing to」は、～に訴えかける、～の興味を引くという意味です。相手の感情や欲求に働きかけ、賛同や行動を促す際に使われます。例文：The advertisement is appealing to young consumers. (その広告は若い消費者に訴えかけている。)",
       "etymology": "「訴える」という意味の\"appeal\"に由来し、～に訴えかける、～の興味を引くという意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: I see what you’re doing. You’re appealing to the neuroscientific researcher in me.",
+      "scriptContextTranslation": "Beverley: あなたの魂胆は見え透いているわ。神経科学の研究者である私に訴えているのね。"
     },
     {
       "id": 90,
@@ -1258,7 +1436,9 @@
       "correctAnswer": "神経科学的な",
       "explanation": "「neuroscientific」は、神経科学的な、脳科学的なという意味です。脳や神経系の構造、機能、発達などを研究する分野に関連する言葉です。例文：Neuroscientific research has advanced our understanding of the brain. (神経科学的な研究は、脳の理解を深めた。)",
       "etymology": "\"neuro-（神経）\"と\"scientific（科学的な）\"が組み合わさり、神経科学的な、脳科学的なという意味。",
-      "pronounciation": "/ˌnjʊəroʊsaɪənˈtɪfɪk/"
+      "pronounciation": "/ˌnjʊəroʊsaɪənˈtɪfɪk/",
+      "scriptContext": "Beverley: Yes, we think so. We’ve both done papers on it. Mine from the neuroscientific point of view and his from an anthropological. Mine, of course, was the only one worth reading.",
+      "scriptContextTranslation": "Beverley: ええ、そう思ってるわ。二人とも論文を書いたの。私は神経科学的な観点から、彼は人類学的な観点から。もちろん、読む価値があるのは私の論文だけだったけど。"
     },
     {
       "id": 91,
@@ -1272,7 +1452,9 @@
       "correctAnswer": "賛成する",
       "explanation": "「go with」は、～を選ぶ、～に賛成する、～を支持するという意味です。選択肢の中から一つを選んだり、提案や意見に同意したりする際に使われます。例文：I'm going to go with the blue dress. (青いドレスにするわ。)",
       "etymology": "「一緒に行く」というイメージから、～を選ぶ、～に賛成する、～を支持するという意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Ummm, I’m gonna go with “no.”",
+      "scriptContextTranslation": "Leonard: うーん、ノーってことで。"
     },
     {
       "id": 92,
@@ -1286,7 +1468,9 @@
       "correctAnswer": "合唱する",
       "explanation": "「duetting」は、二重唱する、デュエットするという意味です。2人で歌ったり、演奏したりすることを指します。例文：They were duetting a popular song. (彼らは人気のある歌をデュエットしていた。)",
       "etymology": "\"duet（二重唱）\"から派生し、二重唱する、デュエットするという意味。",
-      "pronounciation": "/djuːˈɛtɪŋ/"
+      "pronounciation": "/djuːˈɛtɪŋ/",
+      "scriptContext": "Leonard: She said shush. I should have shushed. (Enters apartment. Sheldon and Beverley are inside duetting on Journey’s “Any Way You Want It” on Rock Star.)",
+      "scriptContextTranslation": "Leonard: 静かにしろって言われたんだ。静かにしてればよかった。（アパートに入る。シェルドンとビバリーがジャーニーの「Any Way You Want It」をロックスターでデュエットしている。）"
     },
     {
       "id": 93,
@@ -1300,7 +1484,9 @@
       "correctAnswer": "再開する",
       "explanation": "「pick up where we left off」は、中断したところから再開するという意味です。一時的に中断していた活動や会話などを再開する際に使われます。例文：Let's pick up where we left off last night. (昨夜中断したところから再開しましょう。)",
       "etymology": "中断したところから「拾い上げる」イメージで、中断したところから再開するという意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: Good-bye, Leonard. So, Slugger, shall we pick up where we left off last time?",
+      "scriptContextTranslation": "Beverley: さようなら、レナード。それで、スラッガー、前回の続きをしましょうか？"
     },
     {
       "id": 94,
@@ -1314,7 +1500,9 @@
       "correctAnswer": "乗り越える",
       "explanation": "「get over it」は、困難や悲しみ、ショックなどを乗り越える、立ち直るという意味です。相手に早く気持ちを切り替えて元気を出してほしい時に使われます。例文：He needs to get over his ex-girlfriend. (彼は元彼女のことを乗り越える必要がある。)",
       "etymology": "困難や悲しみを「乗り越える」というイメージで、困難や悲しみ、ショックなどを乗り越える、立ち直るという意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny (in tears): I mean, my mom could’ve just said, “Bob, get over it, she’s a girl, move on.” But she didn’t. Not one word.",
+      "scriptContextTranslation": "Penny: (涙ながらに) だって、ママは「ボブ、諦めなさい。あの子は女の子なのよ、次に進みなさい」って言うだけでよかったのに。でも、言わなかった。一言も。"
     },
     {
       "id": 95,
@@ -1328,7 +1516,9 @@
       "correctAnswer": "喜んで～する",
       "explanation": "「be willing to」は、喜んで～する、～するのをいとわないという意味です。相手の要求や提案に対して、快く応じる意思を示す際に使われます。例文：I am willing to help you with your homework. (あなたの宿題を手伝うのをいとわない。)",
       "etymology": "喜んで～するという意味で、相手の要求や提案に対して、快く応じる意思を示す際に使われる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Beverley: Interesting. Would you be willing to fly to New Jersey and discuss your relationship with your parents during a brain scan?",
+      "scriptContextTranslation": "Beverley: 興味深いわ。脳スキャン中にあなたの両親との関係について議論するためにニュージャージーまで飛んでくれる気はない？"
     },
     {
       "id": 96,
@@ -1342,7 +1532,9 @@
       "correctAnswer": "飛行",
       "explanation": "「flight」は、ここでは飛行便、フライトという意味で使われています。例文：Have a nice flight! (良いフライトを！)",
       "etymology": "鳥などが「飛ぶ」ことから、飛行便、フライトという意味で使われる。",
-      "pronounciation": "/flaɪt/"
+      "pronounciation": "/flaɪt/",
+      "scriptContext": "Leonard: All right, Mother. Um, have a nice flight.",
+      "scriptContextTranslation": "Leonard: 分かったよ、お母さん。ええと、良いフライトを。"
     },
     {
       "id": 97,
@@ -1356,7 +1548,9 @@
       "correctAnswer": "強打者",
       "explanation": "「slugger」は、もともと野球で「強打者」という意味ですが、ここでは親しみを込めた呼びかけとして使われています。スポーツ以外でも、活動的な人や頑張り屋さんに使うことがあります。例文：Hey there, slugger, how are you doing today? (やあ、頑張り屋さん、今日はどう？)",
       "etymology": "野球で「強打者」という意味から、親しみを込めた呼びかけとして使われる。",
-      "pronounciation": "/ˈslʌɡər/"
+      "pronounciation": "/ˈslʌɡər/",
+      "scriptContext": "Penny: Uh-huh, he called me Slugger until I got my first training bra, and then he just stopped playing catch with me. I wasn’t Slugger anymore. Your mother’s here!",
+      "scriptContextTranslation": "Penny: ええ、私が最初のトレーニングブラを着けるまで、父は私のことを「スラッガー」って呼んでいたわ。でも、トレーニングブラを着けてからは、キャッチボールをしてくれなくなったの。私はもうスラッガーじゃなくなったのよ！お母様が来てるわよ！"
     },
     {
       "id": 98,
@@ -1370,7 +1564,9 @@
       "correctAnswer": "了解",
       "explanation": "「Gotcha」は、「I got you」の略で、相手の言っていることを理解した時や、相手を捕まえた時などに使われます。ここでは「了解」の意味で使われています。例文：Gotcha, I understand what you mean. (了解、あなたの言っていることがわかります。)",
       "etymology": "\"I got you\"の略で、相手の言っていることを理解した時や、相手を捕まえた時などに使われる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Gotcha.",
+      "scriptContextTranslation": "Penny: 分かった。"
     },
     {
       "id": 99,
@@ -1384,7 +1580,9 @@
       "correctAnswer": "償う",
       "explanation": "「make up for」は、埋め合わせる、償うという意味です。過去の過ちや不足を補うために何かをすることを表します。例文：I tried to make up for my mistake. (私は自分の間違いを償おうとした。)",
       "etymology": "埋め合わせる、償うという意味で、過去の過ちや不足を補うために何かをすることを表す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 100,
@@ -1398,7 +1596,9 @@
       "correctAnswer": "静かにさせる",
       "explanation": "「shush」は、静かにさせる、黙らせるという意味の擬音語です。騒がしい人に対して静かにするように促す際に使われます。例文：Shush! The baby is sleeping. (静かに！赤ちゃんが寝ているわ。)",
       "etymology": "静かにさせる、黙らせるという意味の擬音語。",
-      "pronounciation": "/ʃʊʃ/"
+      "pronounciation": "/ʃʊʃ/",
+      "scriptContext": "Penny: Honey, shush, shush, shush, shush, shush.",
+      "scriptContextTranslation": "Penny: 静かに、静かに、静かに、静かに、静かに。"
     }
   ]
 }

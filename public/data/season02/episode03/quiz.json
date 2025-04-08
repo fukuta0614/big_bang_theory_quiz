@@ -12,7 +12,9 @@
       "correctAnswer": "膀胱の検査",
       "explanation": "直訳すると「膀胱の確認」となり、ここではオンラインゲームを長時間プレイする前にトイレに行くことを促すユーモラスな表現として使われています。長時間のゲームプレイに備えて、途中で中断しなくても良いようにするための準備を指します。",
       "etymology": "膀胱（Bladder）の確認（Check）という文字通りの意味から、オンラインゲームなどで長時間プレイする前にトイレに行くことを促すユーモラスな表現。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Fellow warriors, this is Sheldor the Conqueror. We are about to enter Axel’s fortress. Now this is a long run, so let’s do another bladder check. Alright Barry, we’ll wait for you again, but you really should see a doctor. (There is banging at the door.) Sheldor is AFK. (Goes out to find Penny having trouble getting into her apartment.) Penny, are you experiencing some sort of difficulty?",
+      "scriptContextTranslation": "Sheldon: 戦士たちよ、これなるは征服者シェルドール。今からアクセルの要塞に突入する。長丁場になるから、もう一度排尿チェックだ。いいか、バリー、またお前を待つことになるが、医者に診てもらった方がいい。(ドアを叩く音がする)シェルドールは離席中。(ペニーがアパートのドアを開けるのに苦労しているのを見つける)ペニー、何かお困りですか？"
     },
     {
       "id": 2,
@@ -26,7 +28,9 @@
       "correctAnswer": "退席中",
       "explanation": "「AFK」は ",
       "etymology": "Away From Keyboardの略で、キーボードから離れている状態を示すインターネットスラング。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Fellow warriors, this is Sheldor the Conqueror. We are about to enter Axel’s fortress. Now this is a long run, so let’s do another bladder check. Alright Barry, we’ll wait for you again, but you really should see a doctor. (There is banging at the door.) Sheldor is AFK. (Goes out to find Penny having trouble getting into her apartment.) Penny, are you experiencing some sort of difficulty?",
+      "scriptContextTranslation": "Sheldon: 戦士たちよ、これなるは征服者シェルドール。今からアクセルの要塞に突入する。長丁場になるから、もう一度排尿チェックだ。いいか、バリー、またお前を待つことになるが、医者に診てもらった方がいい。(ドアを叩く音がする)シェルドールは離席中。(ペニーがアパートのドアを開けるのに苦労しているのを見つける)ペニー、何かお困りですか？"
     },
     {
       "id": 3,
@@ -40,7 +44,9 @@
       "correctAnswer": "質問の要点",
       "explanation": "「point of inquiry」は、「質問の要点」「質問事項」という意味で、フォーマルな状況で使われることが多い表現です。ここでは、SheldonがPennyに対して、彼女が車のキーをドアの鍵穴に入れた理由を尋ねる際に、少し堅苦しい言い方で使っています。",
       "etymology": "inquiry（探求、調査）のpoint（要点）で、質問や疑問の中心となる部分を指すフォーマルな表現。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You’re welcome. Point of inquiry, why did you put your car key in the door lock?",
+      "scriptContextTranslation": "Sheldon: どういたしまして。質問ですが、なぜ車のキーをドアの鍵穴に入れたのですか？"
     },
     {
       "id": 4,
@@ -54,7 +60,9 @@
       "correctAnswer": "中西部",
       "explanation": "アメリカ合衆国の中西部に住んでいる、または中西部出身であることを指します。ここでは、Pennyがオーディションで「too Midwest」だと言われたことに対するSheldonの説明から、中西部の住民の顔立ちの特徴について言及しています。",
       "etymology": "アメリカ合衆国の中西部に位置することから。地理的な場所を示す言葉。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Why? I’ll tell you why. Because today I had an audition, it took me two hours to get there, I waited an hour for my turn, and before I could even start they told me I looked too Midwest for the part. Too Midwest? What the hell does that even mean?",
+      "scriptContextTranslation": "Penny: なぜ？教えてあげるわよ。だって今日オーディションがあったの。そこに着くまで2時間かかって、順番待ちに1時間待って、始める前に「あなたはミッドウェストすぎる」って言われたのよ。ミッドウェストすぎる？一体どういう意味よ？"
     },
     {
       "id": 5,
@@ -68,7 +76,9 @@
       "correctAnswer": "食事の必需品",
       "explanation": "「dietary staple」は、ある文化や地域において、日常的に摂取される主要な食品を指します。ここでは、昆虫が多くの文化で重要なタンパク源として利用されていることをSheldonが説明しています。",
       "etymology": "dietary（食事の）とstaple（主要な）を組み合わせ、ある文化や地域で日常的に摂取される主要な食品を指す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Well, actually, insects are a dietary staple in many cultures, they’re almost pure protein.",
+      "scriptContextTranslation": "Sheldon: 実は、昆虫は多くの文化で主食であり、ほぼ純粋なタンパク質です。"
     },
     {
       "id": 6,
@@ -82,7 +92,9 @@
       "correctAnswer": "構造的完全性",
       "explanation": "「structural integrity」は、物の構造が外部からの力や圧力に対して、どれだけ安定して維持できるかを表す言葉です。ここでは、冷凍食品の結露が袋の強度を弱めたことを説明するために使われています。",
       "etymology": "structure（構造）のintegrity（完全性）で、物の構造が外部からの力や圧力に対してどれだけ安定して維持できるかを表す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I believe the condensation on your frozen foods weakened the structural integrity of the bag. But returning to your key conundrum, perhaps you should call a locksmith and have him open the door for you.",
+      "scriptContextTranslation": "Sheldon: 冷凍食品の結露が袋の構造的完全性を弱めたのだと思います。しかし、鍵の問題に戻りますが、鍵屋に電話してドアを開けてもらうべきでしょう。"
     },
     {
       "id": 7,
@@ -96,7 +108,9 @@
       "correctAnswer": "鍵の難問",
       "explanation": "「conundrum」は、難問、謎という意味です。ここでは、Pennyが車の鍵をドアの鍵穴に入れてしまったことによる問題を、Sheldonが少しユーモラスに表現しています。",
       "etymology": "conundrumは難問や謎を意味し、key（鍵）に関する難題であることを示す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I believe the condensation on your frozen foods weakened the structural integrity of the bag. But returning to your key conundrum, perhaps you should call a locksmith and have him open the door for you.",
+      "scriptContextTranslation": "Sheldon: 冷凍食品の結露が袋の構造的完全性を弱めたのだと思います。しかし、鍵の問題に戻りますが、鍵屋に電話してドアを開けてもらうべきでしょう。"
     },
     {
       "id": 8,
@@ -110,7 +124,9 @@
       "correctAnswer": "トートロジー",
       "explanation": "「tautology」は、同語反復、同じ意味の言葉を繰り返すこと、または自明の理を述べることを意味します。ここでは、鍵屋が「いつ着くかは、着く時になったらわかる」と答えたことが、意味のない同語反復であるとSheldonが指摘しています。",
       "etymology": "ギリシャ語のtauto（同じ）とlogos（言葉、論理）が組み合わさり、同じ意味の言葉を繰り返すこと、または自明の理を述べることを意味する。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: And you’re frustrated because he phrased his reply in the form of a meaningless tautology?",
+      "scriptContextTranslation": "Sheldon: 彼の返答が無意味なトートロジーの形をとっていたからイライラしているのですか？"
     },
     {
       "id": 9,
@@ -124,7 +140,9 @@
       "correctAnswer": "理解する",
       "explanation": "「get the hang of」は、「コツをつかむ」「理解する」という意味のイディオムです。ここでは、SheldonがPennyの皮肉を理解できたと思った瞬間に、また理解できなくなったことを嘆いています。",
       "etymology": "物事の「こつ」を「つかむ」というイメージから、何かを理解し、習得することを意味するイディオム。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 10,
@@ -138,7 +156,9 @@
       "correctAnswer": "オンラインに戻る",
       "explanation": "オンラインゲームやコンピュータの使用を再開することを意味します。ここでは、Sheldonがオンラインゲームに戻ることを宣言しています。",
       "etymology": "再びインターネットに接続された状態を示す。コンピュータ用語として使われる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Make yourself comfortable. (Sits in Sheldon’s place.) Not there. (Sits on other end of sofa. Puts feet on table. Sheldon looks disapprovingly. Removes feet from table. Sheldon sits and replaces headset.) Sheldor is back online.",
+      "scriptContextTranslation": "Sheldon: 楽にしてください。(シェルドンの場所に座る。)そこはダメです。(ソファの反対側に座る。足をテーブルに乗せる。シェルドンは不快そうに見る。テーブルから足を下ろす。シェルドンは座ってヘッドセットを付け直す。)シェルドール、オンラインに戻りました。"
     },
     {
       "id": 11,
@@ -152,7 +172,9 @@
       "correctAnswer": "なるほど",
       "explanation": "インターネットスラングで、\"Oh, I see\" (なるほど、わかった) の略です。PennyがSheldonの説明を聞いて理解したことを示すために使っています。",
       "etymology": "Oh, I seeの略。相手の発言を理解したことを示すインターネットスラング。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: OIC.",
+      "scriptContextTranslation": "Penny: なるほど。"
     },
     {
       "id": 12,
@@ -166,7 +188,9 @@
       "correctAnswer": "魔法がかけられた",
       "explanation": "「enchanted」は、魔法がかけられた、魅了されたという意味です。ここでは、オンラインゲーム内のアイテムである「魔法のブーツ」を指しています。",
       "etymology": "元々は「魔法をかけられた」という意味で、中世の物語などで魔法の力によって魅了された状態を表す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Now just click on the enchanted boots to put them on.",
+      "scriptContextTranslation": "Sheldon: 魔法のブーツをクリックして履いてください。"
     },
     {
       "id": 13,
@@ -180,7 +204,9 @@
       "correctAnswer": "初心者",
       "explanation": "オンラインゲームのスラングで、初心者、未熟者を意味する「newbie」を短縮した言葉です。ここでは、Pennyがゲーム内で宝箱を見つけて喜んでいるのを見て、Sheldonが彼女をからかうために使っています。",
       "etymology": "newbie（初心者）を短縮したスラング。オンラインゲームで未熟なプレイヤーを指す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Level three and she thinks she’s rich! What a noob.",
+      "scriptContextTranslation": "Sheldon: レベル3で金持ちだと思っているのか！なんて初心者だ。"
     },
     {
       "id": 14,
@@ -194,7 +220,9 @@
       "correctAnswer": "偶然出会う",
       "explanation": "「run into」は、「偶然出会う」「出くわす」という意味の句動詞です。ここでは、ゲーム内でPennyがワニに出くわすかもしれない状況を指しています。",
       "etymology": "偶然「走り込む」イメージから、人に偶然出会ったり、予期せぬ事態に遭遇したりすることを意味する。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You’re okay, if you run into crocodiles just kick them with your boots.",
+      "scriptContextTranslation": "Sheldon: 大丈夫です。ワニに遭遇したら、ブーツで蹴ってください。"
     },
     {
       "id": 15,
@@ -208,7 +236,9 @@
       "correctAnswer": "追いついて",
       "explanation": "「catch someone up」は、「（人に）近況を伝える」「状況を説明する」という意味の句動詞です。ここでは、LeonardがSheldonにPennyの身に起きた出来事を説明するように求めています。",
       "etymology": "遅れている人に「追いつく」イメージから、近況や状況を説明してほしいという意味になる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Want to catch me up?",
+      "scriptContextTranslation": "Leonard: 何があったか教えてくれないか？"
     },
     {
       "id": 16,
@@ -222,7 +252,9 @@
       "correctAnswer": "彼が着くときに着く",
       "explanation": "「彼が着くときに着く」という文字通りの意味ですが、これは鍵屋がいつ到着するかを具体的に約束しない、または急いで来るつもりがないことを示唆する、不親切で曖昧な返事です。",
       "etymology": "文字通りの意味だが、相手がいつ到着するかを具体的に約束しない、または急いで来るつもりがないことを示唆する、不親切で曖昧な返事。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: I did, and he said he’ll get here when he gets here.",
+      "scriptContextTranslation": "Penny: 電話したわよ。そしたら、「行けるときに行く」って言われたの。"
     },
     {
       "id": 17,
@@ -236,7 +268,9 @@
       "correctAnswer": "くそ",
       "explanation": "苛立ちや不満を表す感嘆詞です。Pennyが物を落としたり、うまくいかないときに使っています。",
       "etymology": "damnに接尾辞のitがついた形。苛立ちや不満を表す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Dammit, dammit, dammit, dammit, dammit, dammit.",
+      "scriptContextTranslation": "Penny: ちくしょう、ちくしょう、ちくしょう、ちくしょう、ちくしょう、ちくしょう！"
     },
     {
       "id": 18,
@@ -250,7 +284,9 @@
       "correctAnswer": "わかった",
       "explanation": "承諾、同意、または諦めを表すフレーズです。SheldonがPennyの行動や発言に対して、ある程度の諦めや皮肉を込めて使うことがあります。",
       "etymology": "承諾、同意、または諦めを表すフレーズ。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Alright then. (Turns to return inside. One of the grocery bags Penny is holding falls to the floor spilling groceries.)",
+      "scriptContextTranslation": "Sheldon: 了解。(中に戻ろうとする。ペニーが持っている食料品袋の一つが床に落ち、食料品が散乱する。)"
     },
     {
       "id": 19,
@@ -264,7 +300,9 @@
       "correctAnswer": "まあまあ",
       "explanation": "誰かを慰めるために使われるフレーズです。SheldonがPennyを慰めようとする際に使っていますが、少しぎこちない感じです。",
       "etymology": "相手を慰める際に発する言葉。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: There there. (Reluctantly) Would you prefer to wait in our apartment?",
+      "scriptContextTranslation": "Sheldon: まあまあ。(渋々)私たちのアパートで待っていた方がいいですか？"
     },
     {
       "id": 20,
@@ -278,7 +316,9 @@
       "correctAnswer": "お願いだから",
       "explanation": "苛立ちや不満、または懇願を表すために使われるフレーズです。Pennyが非常にイライラしている時に使っています。",
       "etymology": "苛立ちや不満、または懇願を表すために使われるフレーズ。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 21,
@@ -292,7 +332,9 @@
       "correctAnswer": "楽にしてください",
       "explanation": "人にリラックスしてくつろいでほしいときに使うフレーズです。SheldonがPennyに言っていますが、その後すぐに彼の場所を移動するように言うため、少し皮肉が込められています。",
       "etymology": "人にリラックスしてくつろいでほしいときに使うフレーズ。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Make yourself comfortable. (Sits in Sheldon’s place.) Not there. (Sits on other end of sofa. Puts feet on table. Sheldon looks disapprovingly. Removes feet from table. Sheldon sits and replaces headset.) Sheldor is back online.",
+      "scriptContextTranslation": "Sheldon: 楽にしてください。(シェルドンの場所に座る。)そこはダメです。(ソファの反対側に座る。足をテーブルに乗せる。シェルドンは不快そうに見る。テーブルから足を下ろす。シェルドンは座ってヘッドセットを付け直す。)シェルドール、オンラインに戻りました。"
     },
     {
       "id": 22,
@@ -306,7 +348,9 @@
       "correctAnswer": "レベル3",
       "explanation": "オンラインゲームやRPGで、キャラクターの熟練度や進行度を示す指標です。ここでは、Pennyがゲーム内でレベル3になったことを喜んでいます。",
       "etymology": "オンラインゲームやRPGで、キャラクターの熟練度や進行度を示す指標。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Level three and she thinks she’s rich! What a noob.",
+      "scriptContextTranslation": "Sheldon: レベル3で金持ちだと思っているのか！なんて初心者だ。"
     },
     {
       "id": 23,
@@ -320,7 +364,9 @@
       "correctAnswer": "野生動物を引き寄せる",
       "explanation": "野生の動物が特定の場所や物に引き寄せられることを意味します。ここでは、溶けたアイスクリームが猫を引き寄せている状況を指しています。",
       "etymology": "野生動物が特定の場所や物に引き寄せられることを意味する。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: I only bring it up because your ice-cream is melting and it’s starting to attract wildlife.",
+      "scriptContextTranslation": "Leonard: アイスクリームが溶けて、野生動物が集まってきてるから言ってるんだ。"
     },
     {
       "id": 24,
@@ -334,7 +380,9 @@
       "correctAnswer": "ステレオスピーカー",
       "explanation": "音響機器の一部で、音を再生するために使用されます。ここでは、Rajがステレオスピーカーを何かに利用している様子が描かれています。",
       "etymology": "音響機器の一部で、音を再生するために使用される。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Scene: The apartment. Raj is pouring a white liquid into the main dish of a stereo speaker covered in cling film.",
+      "scriptContextTranslation": "Scene: アパート。ラージがラップで覆われたステレオスピーカーのメインディッシュに白い液体を注いでいる。"
     },
     {
       "id": 25,
@@ -348,7 +396,9 @@
       "correctAnswer": "ラップフィルム",
       "explanation": "食品を保存するために使用される薄いプラスチックフィルムです。ここでは、Rajがステレオスピーカーをラップフィルムで覆っている様子が描かれています。",
       "etymology": "食品を保存するために使用される薄いプラスチックフィルム。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Scene: The apartment. Raj is pouring a white liquid into the main dish of a stereo speaker covered in cling film.",
+      "scriptContextTranslation": "Scene: アパート。ラージがラップで覆われたステレオスピーカーのメインディッシュに白い液体を注いでいる。"
     },
     {
       "id": 26,
@@ -362,7 +412,9 @@
       "correctAnswer": "彼女に任せろ",
       "explanation": "「Let her rip」は、「彼女にやらせてみろ」「彼女に任せろ」という意味のスラング表現です。ここでは、レナードがステレオを操作して音楽を流すことを許可する意味で使われています。勢いよく何かを始める、または誰かに自由にやらせることを許可するニュアンスがあります。",
       "etymology": "「彼女にやらせてみろ」「彼女に任せろ」という意味のスラング表現。勢いよく何かを始める、または誰かに自由にやらせることを許可するニュアンス。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Let her rip.",
+      "scriptContextTranslation": "ハワード：ぶっ放せ。"
     },
     {
       "id": 27,
@@ -376,7 +428,9 @@
       "correctAnswer": "構成する",
       "explanation": "「make up」は、ここでは「構成する」という意味で使用されています。非ニュートン流体が何からできているかを説明する文脈です。他に「化粧する」「仲直りする」「作り上げる」などの意味があります。",
       "etymology": "ここでは「構成する」という意味で使用されています。他に「化粧する」「仲直りする」「作り上げる」などの意味があります。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: They make up a non-Newtonian fluid which is liquid, but solid under the percussive action of the speaker.",
+      "scriptContextTranslation": "シェルドン：これは非ニュートン流体で、液体だがスピーカーの打楽器的な作用によって固体になる。"
     },
     {
       "id": 28,
@@ -390,7 +444,9 @@
       "correctAnswer": "打楽器のような作用",
       "explanation": "「percussive action」は、「打楽器のような作用」という意味です。ここでは、スピーカーの振動が非ニュートン流体に与える影響を表しています。「percussive」は打楽器の、打撃の、という意味を持ちます。",
       "etymology": "打楽器のような作用。スピーカーの振動が非ニュートン流体に与える影響を表しています。「percussive」は打楽器の、打撃の、という意味を持ちます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: They make up a non-Newtonian fluid which is liquid, but solid under the percussive action of the speaker.",
+      "scriptContextTranslation": "シェルドン：これは非ニュートン流体で、液体だがスピーカーの打楽器的な作用によって固体になる。"
     },
     {
       "id": 29,
@@ -404,7 +460,9 @@
       "correctAnswer": "全てファンキーになる",
       "explanation": "「get all funky」は、「ファンキーになる」「おかしくなる」「面白くなる」といった意味合いです。ここでは、非ニュートン流体の奇妙な動きを指しています。スラング的な表現で、良い意味でも悪い意味でも使われます。",
       "etymology": "「ファンキーになる」「おかしくなる」「面白くなる」といった意味合い。ここでは、非ニュートン流体の奇妙な動きを指しています。スラング的な表現で、良い意味でも悪い意味でも使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: That’s what makes it get all funky.",
+      "scriptContextTranslation": "ハワード：だからこんなにファンキーになるんだ。"
     },
     {
       "id": 30,
@@ -418,7 +476,9 @@
       "correctAnswer": "乗り越える",
       "explanation": "「get past」は、「乗り越える」「突破する」という意味です。ゲームのguard captainをどうにかして倒す、またはその場所を通り抜ける方法を知りたい、という文脈で使用されています。困難を克服する際に使われます。",
       "etymology": "「乗り越える」「突破する」という意味。ゲームのguard captainをどうにかして倒す、またはその場所を通り抜ける方法を知りたい、という文脈で使用されています。困難を克服する際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Okay, look, I bought the game, and I’ve been exploring the Island of Tordage but I can’t figure out how to get past the guard captain.",
+      "scriptContextTranslation": "ペニー：いいわ、あのね、ゲームを買って、トルデージ島を探索してるんだけど、衛兵隊長をどうやって倒せばいいかわからないの。"
     },
     {
       "id": 31,
@@ -432,7 +492,9 @@
       "correctAnswer": "殺す、打ち負かす",
       "explanation": "「slay」は、「殺す」「打ち負かす」という意味で、特に英雄的な戦いやゲームなどで敵を倒す際に用いられる古風な表現です。ここでは、ゲームのguard captainを倒すためにbronze daggerでは不可能だ、という文脈で使われています。",
       "etymology": "「殺す」「打ち負かす」という意味で、特に英雄的な戦いやゲームなどで敵を倒す際に用いられる古風な表現。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You can’t slay the guard captain with a bronze dagger, my Lord it’s like the car key in your apartment door all over again.",
+      "scriptContextTranslation": "シェルドン：青銅の短剣で衛兵隊長を倒すことはできない。まるで君のアパートのドアに車の鍵を挿すようなものだ。"
     },
     {
       "id": 32,
@@ -446,7 +508,9 @@
       "correctAnswer": "もう一度最初から",
       "explanation": "「all over again」は、「もう一度最初から」「繰り返して」という意味です。ここでは、bronze daggerでguard captainに挑むのは、鍵でアパートのドアを開けるようなものだ、という状況を指しています。",
       "etymology": "「もう一度最初から」「繰り返して」という意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You can’t slay the guard captain with a bronze dagger, my Lord it’s like the car key in your apartment door all over again.",
+      "scriptContextTranslation": "シェルドン：青銅の短剣で衛兵隊長を倒すことはできない。まるで君のアパートのドアに車の鍵を挿すようなものだ。"
     },
     {
       "id": 33,
@@ -460,7 +524,9 @@
       "correctAnswer": "お願いだから",
       "explanation": "「for God's sakes」は、「お願いだから」「頼むから」「一体全体」という意味の強い感情を表す表現です。苛立ちや驚き、懇願などのニュアンスが含まれます。ここでは、SheldonがPennyにゲームのやり方を教える際に、少し呆れて使っています。",
       "etymology": "「お願いだから」「頼むから」「一体全体」という意味の強い感情を表す表現。苛立ちや驚き、懇願などのニュアンスが含まれます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: No, no, no, it’s… oh for God’s sakes, gimme. (Takes laptop.)",
+      "scriptContextTranslation": "シェルドン：いや、違う、違う。ああ、もういい、貸して。（ノートパソコンを受け取る。）"
     },
     {
       "id": 34,
@@ -474,7 +540,9 @@
       "correctAnswer": "感謝する",
       "explanation": "「appreciate」は、「感謝する」「ありがたく思う」という意味です。PennyがSheldonにゲームを手伝ってもらうことに対して感謝の意を示しています。相手の行為や親切に対して感謝を表す際に広く使われます。",
       "etymology": "「感謝する」「ありがたく思う」という意味。相手の行為や親切に対して感謝を表す際に広く使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Thank you, I really appreciate this.",
+      "scriptContextTranslation": "ペニー：ありがとう。本当に感謝するわ。"
     },
     {
       "id": 35,
@@ -488,7 +556,9 @@
       "correctAnswer": "見下す",
       "explanation": "「patronise」は、「見下すような態度をとる」「恩着せがましくする」という意味です。PennyがSheldonに、上から目線で物を言わないでほしいと伝える場面で使われています。相手を軽んじているような態度に対して使われることが多いです。",
       "etymology": "「見下すような態度をとる」「恩着せがましくする」という意味。相手を軽んじているような態度に対して使われることが多いです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Don’t patronise me, just get the sword.",
+      "scriptContextTranslation": "ペニー：見下さないで。とにかく剣を手に入れて。"
     },
     {
       "id": 36,
@@ -502,7 +572,9 @@
       "correctAnswer": "一体何なの？",
       "explanation": "「What the frak?」は、「一体何なんだ？」「何が起こっているんだ？」という意味の、驚きや不信感を表す表現です。「frak」は「fuck」の婉曲表現で、SFドラマ「Battlestar Galactica」でよく使われます。ここでは、PennyとSheldonのやり取りに対するHowardの困惑を表しています。",
       "etymology": "「一体何なんだ？」「何が起こっているんだ？」という意味の、驚きや不信感を表す表現。「frak」は「fuck」の婉曲表現で、SFドラマ「Battlestar Galactica」でよく使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: What the frak?",
+      "scriptContextTranslation": "ハワード：なんだこりゃ？"
     },
     {
       "id": 37,
@@ -516,7 +588,9 @@
       "correctAnswer": "私は知らない",
       "explanation": "「beats me」は、「私にはわからない」「見当もつかない」という意味の口語的な表現です。質問や状況に対して答えを知らないことを伝える際に使われます。ここでは、HowardがPennyとSheldonの奇妙な行動についてLeonardに尋ね、Leonardが知らないと答えています。",
       "etymology": "「私にはわからない」「見当もつかない」という意味の口語的な表現。質問や状況に対して答えを知らないことを伝える際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Beats me. They were playing all last night too.",
+      "scriptContextTranslation": "レナード：さあな。昨晩もずっとやってたぜ。"
     },
     {
       "id": 38,
@@ -530,7 +604,9 @@
       "correctAnswer": "交流",
       "explanation": "「crossover」は、「クロスオーバー」「交流」「異種混合」といった意味です。ここでは、異なるコミックやキャラクターが混ざり合う状況を指しています。異なるジャンルや作品が組み合わさる際に使われます。",
       "etymology": "「クロスオーバー」「交流」「異種混合」といった意味。異なるコミックやキャラクターが混ざり合う状況を指します。異なるジャンルや作品が組み合わさる際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: It’s like some kind of weird comic book crossover.",
+      "scriptContextTranslation": "ラージ：まるで奇妙なアメコミのクロスオーバーみたいだ。"
     },
     {
       "id": 39,
@@ -544,7 +620,9 @@
       "correctAnswer": "人生を充実させる",
       "explanation": "「get a life」は、「人生を充実させる」「もっと有意義なことをする」という意味の軽蔑的な表現です。ここでは、SheldonがPennyに対して、ゲームばかりしていないで現実世界での生活を充実させるべきだと言っています。",
       "etymology": "「人生を充実させる」「もっと有意義なことをする」という意味の軽蔑的な表現。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: That girl needs to get a life.",
+      "scriptContextTranslation": "シェルドン：あの娘は人生を充実させる必要があるな。"
     },
     {
       "id": 40,
@@ -558,7 +636,9 @@
       "correctAnswer": "歌うように",
       "explanation": "「sing-song」は、「歌うような」「抑揚のある」という意味です。ここでは、PennyがSheldonを呼ぶ声が、まるで歌っているかのように聞こえることを表しています。子供を呼ぶときや、からかうときなどに使われることがあります。",
       "etymology": "「歌うような」「抑揚のある」という意味。子供を呼ぶときや、からかうときなどに使われることがあります。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny (whispering): Sheldon. (Sing-song) Shel-don.",
+      "scriptContextTranslation": "ペニー（ささやく）：シェルドン。（歌うように）シェルドーン。"
     },
     {
       "id": 41,
@@ -572,7 +652,9 @@
       "correctAnswer": "竜の餌",
       "explanation": "「dragon fodder」は、「竜の餌」という意味で、ここではゲーム内で弱いキャラクターが強い敵に利用されることを指しています。弱い者や犠牲者を軽蔑的に表現する際に使われます。",
       "etymology": "「竜の餌」という意味で、ここではゲーム内で弱いキャラクターが強い敵に利用されることを指しています。弱い者や犠牲者を軽蔑的に表現する際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Of course it’s not, you’re only a level 25, the Hungarians are just using you for dragon fodder.",
+      "scriptContextTranslation": "シェルドン：もちろん違う。君はまだレベル25だ。ハンガリー人は君を単なるドラゴンの餌として利用しようとしているだけだ。"
     },
     {
       "id": 42,
@@ -586,7 +668,9 @@
       "correctAnswer": "私に追いつく",
       "explanation": "「catch me up」は、「私に近況を教えて」「私に状況を説明して」という意味です。ここでは、LeonardがSheldonに、何が起こっているのか説明してほしいと頼んでいます。状況や情報に遅れている人が、最新情報を得るために使います。",
       "etymology": "「私に近況を教えて」「私に状況を説明して」という意味。状況や情報に遅れている人が、最新情報を得るために使います。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Want to catch me up?",
+      "scriptContextTranslation": "Leonard: 何があったか教えてくれないか？"
     },
     {
       "id": 43,
@@ -600,7 +684,9 @@
       "correctAnswer": "仲介する",
       "explanation": "「mediate」は、「仲介する」「調停する」という意味です。ここでは、GablehauserがSheldonとLeslieの間の紛争を仲裁する役割を果たすことを指しています。対立する当事者の間に入り、合意形成を促す行為を意味します。",
       "etymology": "「仲介する」「調停する」という意味。対立する当事者の間に入り、合意形成を促す行為を意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I realise that Dr Gablehauser but it is your job, as head of the department, to mediate all inter-departmental disputes. University policy manual chapter four, subsection two, mediation of inter-departmental disputes.",
+      "scriptContextTranslation": "シェルドン：それは承知しております、ゲーブルハウザー博士。しかし、部門長であるあなたの仕事は、部門間の紛争を調停することです。大学の方針マニュアル第4章、第2項、部門間紛争の調停。"
     },
     {
       "id": 44,
@@ -614,7 +700,9 @@
       "correctAnswer": "部署間の紛争",
       "explanation": "「inter-departmental disputes」は、「部署間の紛争」「部門間の争い」という意味です。ここでは、大学内の部署間での対立を指しています。「inter-」は「間の」という意味を持ちます。",
       "etymology": "「部署間の紛争」「部門間の争い」という意味。大学内の部署間での対立を指しています。「inter-」は「間の」という意味を持ちます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I realise that Dr Gablehauser but it is your job, as head of the department, to mediate all inter-departmental disputes. University policy manual chapter four, subsection two, mediation of inter-departmental disputes.",
+      "scriptContextTranslation": "シェルドン：それは承知しております、ゲーブルハウザー博士。しかし、部門長であるあなたの仕事は、部門間の紛争を調停することです。大学の方針マニュアル第4章、第2項、部門間紛争の調停。"
     },
     {
       "id": 45,
@@ -628,7 +716,9 @@
       "correctAnswer": "故意に",
       "explanation": "「wantonly」は、「故意に」「無慈悲に」という意味です。ここでは、LeslieがSheldonのサインアップシートを意図的に剥がしたことを強調しています。倫理や道徳に反する行為に対して使われることが多いです。",
       "etymology": "「故意に」「無慈悲に」という意味。倫理や道徳に反する行為に対して使われることが多いです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Here’s the problem. I was clearly signed up to use the mainframe in Buckman 204, and Dr Winkle just wantonly ripped the sign-up sheet off the wall.",
+      "scriptContextTranslation": "シェルドン：問題はこうです。私はバックマン204のメインフレームの使用を明確に予約していましたが、ウィンクル博士は一方的に予約表を壁から剥ぎ取ったのです。"
     },
     {
       "id": 46,
@@ -642,7 +732,9 @@
       "correctAnswer": "保証する",
       "explanation": "「ensure」は、「保証する」「確実にする」という意味です。ここでは、Sheldonが大学のリソースが浪費されないようにするために、サインアップシートに自分の名前を書き込んだことを正当化しています。ある事柄が確実に起こるように手配することを意味します。",
       "etymology": "「保証する」「確実にする」という意味。ある事柄が確実に起こるように手配することを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: If it is a crime to ensure that the universities resources are not being squandered chasing sub-atomic wild geese then I plead guilty. (His phone rings.) Oh, Penny!",
+      "scriptContextTranslation": "シェルドン：もし大学のリソースが亜原子のガチョウを追いかける無駄な行為に使われないようにすることが罪であるならば、私は有罪を認めます。（電話が鳴る）ああ、ペニー！"
     },
     {
       "id": 47,
@@ -656,7 +748,9 @@
       "correctAnswer": "浪費された",
       "explanation": "「squandered」は、「浪費された」「無駄遣いされた」という意味です。ここでは、大学のリソースが無駄に使われることを防ぐために行動したとSheldonが主張しています。資源や機会を有効に使わなかった場合に用いられます。",
       "etymology": "「浪費された」「無駄遣いされた」という意味。資源や機会を有効に使わなかった場合に用いられます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: If it is a crime to ensure that the universities resources are not being squandered chasing sub-atomic wild geese then I plead guilty. (His phone rings.) Oh, Penny!",
+      "scriptContextTranslation": "シェルドン：もし大学のリソースが亜原子のガチョウを追いかける無駄な行為に使われないようにすることが罪であるならば、私は有罪を認めます。（電話が鳴る）ああ、ペニー！"
     },
     {
       "id": 48,
@@ -670,7 +764,9 @@
       "correctAnswer": "非現実的な目標",
       "explanation": "「sub-atomic wild geese」は、「ありえないこと」「無駄な試み」を指す比喩表現です。ここでは、Sheldonが追い求めている研究が無駄であるという批判に対して、反論しています。実現不可能な目標や計画を指す際に使われます。",
       "etymology": "「ありえないこと」「無駄な試み」を指す比喩表現。実現不可能な目標や計画を指す際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: If it is a crime to ensure that the universities resources are not being squandered chasing sub-atomic wild geese then I plead guilty. (His phone rings.) Oh, Penny!",
+      "scriptContextTranslation": "シェルドン：もし大学のリソースが亜原子のガチョウを追いかける無駄な行為に使われないようにすることが罪であるならば、私は有罪を認めます。（電話が鳴る）ああ、ペニー！"
     },
     {
       "id": 49,
@@ -684,7 +780,9 @@
       "correctAnswer": "有罪を認める",
       "explanation": "「plead guilty」は、「有罪を認める」という意味です。ここでは、Sheldonが大学のリソースを守るために行動したことが罪であるならば、その罪を認めるという強い意志を示しています。法的な文脈でよく使われる表現です。",
       "etymology": "「有罪を認める」という意味。法的な文脈でよく使われる表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: If it is a crime to ensure that the universities resources are not being squandered chasing sub-atomic wild geese then I plead guilty. (His phone rings.) Oh, Penny!",
+      "scriptContextTranslation": "シェルドン：もし大学のリソースが亜原子のガチョウを追いかける無駄な行為に使われないようにすることが罪であるならば、私は有罪を認めます。（電話が鳴る）ああ、ペニー！"
     },
     {
       "id": 50,
@@ -698,7 +796,9 @@
       "correctAnswer": "それに応答する",
       "explanation": "「get that」は、「電話に出る」「対応する」という意味です。ここでは、Sheldonにかかってきた電話（Pennyからの電話）に対応する必要があるかどうかをGablehauserが尋ねています。電話やメッセージに対応する際に使われる口語的な表現です。",
       "etymology": "「電話に出る」「対応する」という意味。電話やメッセージに対応する際に使われる口語的な表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Gablehauser: You need to get that Dr Cooper?",
+      "scriptContextTranslation": "ゲーブルハウザー：電話に出る必要はあるのかね、クーパー博士？"
     },
     {
       "id": 51,
@@ -712,7 +812,9 @@
       "correctAnswer": "ばかげた業績の受賞者",
       "explanation": "「laureate」は、特定の分野で顕著な業績を上げた人に与えられる称号です。「dumbass laureate」は、それを皮肉った表現で、最も愚かなことをした人に贈られる賞という意味合いになります。",
       "etymology": "最も愚かなことをした人に贈られる賞という意味合いの皮肉。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leslie: Well don’t turn it off, you might miss your call from the Nobel committee letting you know you’ve been nominated as dumbass laureate of the year.",
+      "scriptContextTranslation": "Leslie: 切るなよ、ノーベル委員会から電話があるかもしれないぞ。「今年のアホ大賞」にノミネートされたってな。"
     },
     {
       "id": 52,
@@ -726,7 +828,9 @@
       "correctAnswer": "高度な多層的計算",
       "explanation": "「bit」は情報量の最小単位で、「multi-bit」はそれを複数組み合わせた、より複雑なデータを指します。ここでは、高度で複雑な計算という意味合いで使われています。",
       "etymology": "高度で複雑な計算という意味合い。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh yeah, well, you wouldn’t even be nominated. Dr Gablehauser, I have a series of important multi-bit calculations and simulations to run. All she’s doing is reducing irrelevant data and making a mock…",
+      "scriptContextTranslation": "Sheldon: ああ、そうかい。君なんかノミネートすらされないだろうね。ゲイブルハウザー先生、私は重要な多ビット計算とシミュレーションを実行しなければなりません。彼女は無関係なデータを減らして、モックアップを作っているだけです…。"
     },
     {
       "id": 53,
@@ -740,7 +844,9 @@
       "correctAnswer": "燃える魂の聖域",
       "explanation": "ゲーム内の特定の場所の名前であり、おそらく危険で上級者向けのエリアを指します。文脈から、Pennyのレベルではまだ準備ができていない場所であることがわかります。",
       "etymology": "ゲーム内の危険な場所の名前。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Hello. Penny, this is not a good time. No, I told you, you’re not prepared for the Sanctum of Burning Souls. You need to be in a group of at least five for that quest, and one should be a level 35 healer. Penny, I can’t log on and help you. We’ll talk when I get home. (Puts phone down) I’m not getting the computing time, am I?",
+      "scriptContextTranslation": "Sheldon: もしもし。ペニー、今は都合が悪いんだ。「燃える魂の聖域」の準備ができていないと言っただろう。クエストには少なくとも5人のグループが必要で、そのうち1人はレベル35のヒーラーでなければならない。ペニー、ログインして助けることはできないんだ。家に帰ってから話そう。(電話を切る) コンピューターの時間はもらえないんだろう？"
     },
     {
       "id": 54,
@@ -754,7 +860,9 @@
       "correctAnswer": "ログインする",
       "explanation": "「log on」は、コンピュータシステムやオンラインサービスにアクセスするためにログインすることを意味します。ここでは、ゲームにログインしてPennyを手伝うことができないという文脈で使用されています。",
       "etymology": "コンピュータシステムやオンラインサービスにアクセスするためにログインすること。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Hello. Penny, this is not a good time. No, I told you, you’re not prepared for the Sanctum of Burning Souls. You need to be in a group of at least five for that quest, and one should be a level 35 healer. Penny, I can’t log on and help you. We’ll talk when I get home. (Puts phone down) I’m not getting the computing time, am I?",
+      "scriptContextTranslation": "Sheldon: もしもし。ペニー、今は都合が悪いんだ。「燃える魂の聖域」の準備ができていないと言っただろう。クエストには少なくとも5人のグループが必要で、そのうち1人はレベル35のヒーラーでなければならない。ペニー、ログインして助けることはできないんだ。家に帰ってから話そう。(電話を切る) コンピューターの時間はもらえないんだろう？"
     },
     {
       "id": 55,
@@ -768,7 +876,9 @@
       "correctAnswer": "邪魔する",
       "explanation": "「interfere with」は、何かの活動やプロセスを妨げる、邪魔をするという意味です。ここでは、PennyがSheldonの睡眠や仕事の邪魔をしているという状況を表しています。",
       "etymology": "何かの活動やプロセスを妨げる、邪魔をするという意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Leonard, you have to do something about Penny. She is interfering with my sleep, she’s interfering with my work, and if I had another significant aspect of my life, I’m sure she’d be interfering with that too.",
+      "scriptContextTranslation": "Sheldon: レナード、ペニーに何とか言ってくれ。彼女は私の睡眠を妨げ、私の仕事を妨げている。もし他に重要な生活があったら、きっとそれも邪魔するだろう。"
     },
     {
       "id": 56,
@@ -782,7 +892,9 @@
       "correctAnswer": "重要な側面",
       "explanation": "「significant aspect」は、人生や活動における重要な要素や側面を指します。Sheldonは、もし他に重要な側面があれば、Pennyはそれも邪魔するだろうと述べています。",
       "etymology": "人生や活動における重要な要素や側面を指す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Leonard, you have to do something about Penny. She is interfering with my sleep, she’s interfering with my work, and if I had another significant aspect of my life, I’m sure she’d be interfering with that too.",
+      "scriptContextTranslation": "Sheldon: レナード、ペニーに何とか言ってくれ。彼女は私の睡眠を妨げ、私の仕事を妨げている。もし他に重要な生活があったら、きっとそれも邪魔するだろう。"
     },
     {
       "id": 57,
@@ -796,7 +908,9 @@
       "correctAnswer": "自制する",
       "explanation": "「restrain」は、感情や行動を抑制することを意味します。「restrained yourself」は、自分自身を抑制した、自制したという意味になります。ここでは、LeonardがPennyに挨拶したことを後悔しているSheldonが、Leonardに自制していればよかったと言っています。",
       "etymology": "感情や行動を抑制した、自制したという意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Well, yes, but you’re the one who said hello to her when she moved in. If you’d simply restrained yourself none of this would be happening.",
+      "scriptContextTranslation": "Sheldon: まあ、そうだが、彼女が引っ越してきた時に挨拶したのは君だ。もし君が自制していれば、こんなことにはならなかったんだ。"
     },
     {
       "id": 58,
@@ -810,7 +924,9 @@
       "correctAnswer": "強調された",
       "explanation": "「emphatic」は、強い感情や重要性を示すさまを表します。ここでは、SheldonがPennyに छोड़してほしいという強い意志を伝えたことを指しています。",
       "etymology": "強い感情や重要性を示すさまを表す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I did. I told her, I texted her, I sent out a very emphatic twitter. I even changed my facebook status to Sheldon Cooper wishes Penny would leave him alone. I don’t know what else to do.",
+      "scriptContextTranslation": "Sheldon: 言ったよ。彼女に言ったし、テキストも送ったし、非常に強調したツイートも送った。Facebookのステータスも「シェルドン・クーパーはペニーにほっといてほしいと思っている」に変えたんだ。他にどうすればいいのかわからない。"
     },
     {
       "id": 59,
@@ -824,7 +940,9 @@
       "correctAnswer": "何かを理解する",
       "explanation": "「figure out」は、問題や状況を理解し、解決策を見つけ出すという意味です。ここでは、LeonardにPennyへの対策を考えてほしいというSheldonの要求を表しています。",
       "etymology": "問題や状況を理解し、解決策を見つけ出すという意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I don’t know, but if you don’t figure something out, I warn you I shall become very difficult to live with.",
+      "scriptContextTranslation": "Sheldon: 知らないけど、何か解決策を見つけなければ、一緒に暮らすのがとても大変になるぞ。"
     },
     {
       "id": 60,
@@ -838,7 +956,9 @@
       "correctAnswer": "一緒に住むのが難しい",
       "explanation": "「difficult to live with」は、性格や行動が原因で、誰かと一緒に生活することが困難であることを意味します。Sheldonは、Pennyの問題が解決されない場合、自分が一緒に住むのが難しい存在になると警告しています。",
       "etymology": "性格や行動が原因で、誰かと一緒に生活することが困難であることを意味する。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I don’t know, but if you don’t figure something out, I warn you I shall become very difficult to live with.",
+      "scriptContextTranslation": "Sheldon: 知らないけど、何か解決策を見つけなければ、一緒に暮らすのがとても大変になるぞ。"
     },
     {
       "id": 61,
@@ -852,7 +972,9 @@
       "correctAnswer": "楽しい時間",
       "explanation": "皮肉を込めて使われており、実際には楽しくない状況を指します。Leonardは、これまでのSheldonとの生活が「happy funtime」ではなかったことを示唆しています。",
       "etymology": "皮肉を込めて使われており、実際には楽しくない状況を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: You mean, up until now we’ve been experiencing the happy funtime Sheldon?",
+      "scriptContextTranslation": "Leonard: つまり、今までがハッピー・ファンタイム・シェルドンだったってこと？"
     },
     {
       "id": 62,
@@ -866,7 +988,9 @@
       "correctAnswer": "離席中",
       "explanation": "「Away From Keyboard」の略で、オンラインゲームやチャットで、一時的にキーボードから離れることを意味します。Pennyはゲーム中にLeonardに話しかけられ、「離席中」であることを伝えています。",
       "etymology": "「Away From Keyboard」の略で、オンラインゲームやチャットで、一時的にキーボードから離れることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Fellow warriors, this is Sheldor the Conqueror. We are about to enter Axel’s fortress. Now this is a long run, so let’s do another bladder check. Alright Barry, we’ll wait for you again, but you really should see a doctor. (There is banging at the door.) Sheldor is AFK. (Goes out to find Penny having trouble getting into her apartment.) Penny, are you experiencing some sort of difficulty?",
+      "scriptContextTranslation": "Sheldon: 戦士たちよ、これなるは征服者シェルドール。今からアクセルの要塞に突入する。長丁場になるから、もう一度排尿チェックだ。いいか、バリー、またお前を待つことになるが、医者に診てもらった方がいい。(ドアを叩く音がする)シェルドールは離席中。(ペニーがアパートのドアを開けるのに苦労しているのを見つける)ペニー、何かお困りですか？"
     },
     {
       "id": 63,
@@ -880,7 +1004,9 @@
       "correctAnswer": "要点に触れる",
       "explanation": "「get to the point」は、話の核心や要点を手短に述べることを意味します。Pennyは、ゲームに集中したいので、Leonardに早く本題に入るように促しています。",
       "etymology": "話の核心や要点を手短に述べることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Yeah, get to the point, I’m about to level up here.",
+      "scriptContextTranslation": "Penny: ええ、要点だけ言って。今レベルアップするところなの。"
     },
     {
       "id": 64,
@@ -894,7 +1020,9 @@
       "correctAnswer": "達成感",
       "explanation": "「sense of achievement」は、目標を達成したときに感じる満足感や達成感を指します。Leonardは、現実世界で達成感を得られない人が、仮想世界にのめり込みやすいと指摘しています。",
       "etymology": "目標を達成したときに感じる満足感や達成感を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Well, i-i-i-it’s just if a person doesn’t have a sense of achievement in their real life it’s easy to lose themselves in a virtual world where they get a false sense of accomplishment.",
+      "scriptContextTranslation": "Leonard: えっと、あの、それは、もし人が現実の生活で達成感を得られないと、仮想世界で偽りの達成感を得て、自分を見失いやすいということなんだ。"
     },
     {
       "id": 65,
@@ -908,7 +1036,9 @@
       "correctAnswer": "偽りの達成感",
       "explanation": "「false sense of accomplishment」は、実際には意味のある成果を上げていないのに、あたかも達成したかのように錯覚することを指します。Leonardは、Pennyがゲームで得ている達成感が、現実逃避である可能性を示唆しています。",
       "etymology": "実際には意味のある成果を上げていないのに、あたかも達成したかのように錯覚することを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Well, i-i-i-it’s just if a person doesn’t have a sense of achievement in their real life it’s easy to lose themselves in a virtual world where they get a false sense of accomplishment.",
+      "scriptContextTranslation": "Leonard: えっと、あの、それは、もし人が現実の生活で達成感を得られないと、仮想世界で偽りの達成感を得て、自分を見失いやすいということなんだ。"
     },
     {
       "id": 66,
@@ -922,7 +1052,9 @@
       "correctAnswer": "意味のないおしゃべり",
       "explanation": "「jabber」は、早口で意味のないことをペラペラとしゃべることを意味します。「jabber jabber jabber」は、それを繰り返すことで、相手の話を全く聞いていないことを強調する表現です。",
       "etymology": "早口で意味のないことをペラペラとしゃべることを意味します。それを繰り返すことで、相手の話を全く聞いていないことを強調する表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Yeah, jabber jabber jabber, okay boys, Queen Penelope’s back online.",
+      "scriptContextTranslation": "Penny: ええ、ペラペラペラペラ。はい、みんな。ペネロペ女王がオンラインに戻ったわよ。"
     },
     {
       "id": 67,
@@ -936,7 +1068,9 @@
       "correctAnswer": "重荷となる依存症",
       "explanation": "「monkey on your back」は、克服するのが難しい依存症や問題を指すイディオムです。Rajは、オンラインゲーム中毒を「multi-player monkey on your back」と表現し、その深刻さを強調しています。",
       "etymology": "克服するのが難しい依存症や問題を指すイディオムです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Ah, yes, online gaming addiction. There’s nothing worse than having that multi-player monkey on your back.",
+      "scriptContextTranslation": "Raj: ああ、オンラインゲーム中毒ね。マルチプレイヤーの猿が背中に乗っているほど悪いものはないわ。"
     },
     {
       "id": 68,
@@ -950,7 +1084,9 @@
       "correctAnswer": "徹夜をする",
       "explanation": "「pull an all-nighter」は、一晩中起きていること、徹夜することを意味します。Leslieは、Pennyがゲームで徹夜していることをからかっています。",
       "etymology": "一晩中起きていること、徹夜することを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leslie: Right, I heard you’ve been pulling all nighters with middle-earth Barbie.",
+      "scriptContextTranslation": "Leslie: そうね。ミドルアースのバービーと一緒に徹夜してるって聞いたわよ。"
     },
     {
       "id": 69,
@@ -964,7 +1100,9 @@
       "correctAnswer": "仮定する",
       "explanation": "「postulate」は、証拠なしに何かを真実だと仮定することを意味します。Leslieは、Pennyがオンラインゲームに逃避している理由を性的な欲求不満だと仮定しています。",
       "etymology": "証拠なしに何かを真実だと仮定することを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leslie: Well, I would postulate that she’s escaping into the online world to compensate for her sexual frustration.",
+      "scriptContextTranslation": "Leslie: ええと、彼女は性的欲求不満を補うためにオンラインの世界に逃避していると仮定するわ。"
     },
     {
       "id": 70,
@@ -978,7 +1116,9 @@
       "correctAnswer": "強化する",
       "explanation": "「shore up」は、何かを支えたり、強化したりすることを意味します。Leonardは、Pennyがオンラインゲームで自己肯定感を高めようとしていると考えています。",
       "etymology": "何かを支えたり、強化したりすることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: That’s not what she’s doing, Leslie, she’s just trying to shore up her self esteem, it has nothing to do with sex.",
+      "scriptContextTranslation": "Leonard: そんなことじゃないよ、レスリー。彼女はただ自尊心を高めようとしているだけで、セックスとは関係ないんだ。"
     },
     {
       "id": 71,
@@ -992,7 +1132,9 @@
       "correctAnswer": "完全に間違っている",
       "explanation": "「off base」は、事実や状況を誤解している、見当違いであることを意味します。「way off base」は、それが極端であることを強調します。Leonardは、LeslieのPennyに関する推測が全く的外れだと反論しています。",
       "etymology": "事実や状況を誤解している、見当違いであることを意味します。それが極端であることを強調します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Leslie, you are way off base here.",
+      "scriptContextTranslation": "Leonard: レスリー、見当違いもいいとこだよ。"
     },
     {
       "id": 72,
@@ -1006,7 +1148,9 @@
       "correctAnswer": "認める",
       "explanation": "「concede」は、反対していたことや疑っていたことを、最終的に認めることを意味します。Sheldonは、Leslieを軽蔑しているものの、彼女の性的な知識に関しては認めざるを得ないと言っています。",
       "etymology": "反対していたことや疑っていたことを、最終的に認めることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Hang on, Leonard, while I have no respect for Leslie as a scientist, or a human being for that matter, we have to concede her undeniable expertise in the interrelated fields of promiscuity and general sluttiness.",
+      "scriptContextTranslation": "Sheldon: 待ってくれ、レナード。科学者としても、人間としても、レスリーを尊敬していないが、彼女の乱交とだらしなさという相互に関連する分野における紛れもない専門知識は認めざるを得ない。"
     },
     {
       "id": 73,
@@ -1020,7 +1164,9 @@
       "correctAnswer": "専門知識",
       "explanation": "「expertise」は、特定の分野における高度な知識や技能を指します。Sheldonは、Leslieが性的な事柄に関して専門知識を持っていることを認めています。",
       "etymology": "特定の分野における高度な知識や技能を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Hang on, Leonard, while I have no respect for Leslie as a scientist, or a human being for that matter, we have to concede her undeniable expertise in the interrelated fields of promiscuity and general sluttiness.",
+      "scriptContextTranslation": "Sheldon: 待ってくれ、レナード。科学者としても、人間としても、レスリーを尊敬していないが、彼女の乱交とだらしなさという相互に関連する分野における紛れもない専門知識は認めざるを得ない。"
     },
     {
       "id": 74,
@@ -1034,7 +1180,9 @@
       "correctAnswer": "相互に関連する分野",
       "explanation": "「interrelated fields」は、互いに影響し合ったり、関連性を持つ分野を指します。Sheldonは、Leslieが「promiscuity（乱交）」と「general sluttiness（だらしなさ）」という関連分野で専門知識を持っていると述べています。",
       "etymology": "互いに影響し合ったり、関連性を持つ分野を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Hang on, Leonard, while I have no respect for Leslie as a scientist, or a human being for that matter, we have to concede her undeniable expertise in the interrelated fields of promiscuity and general sluttiness.",
+      "scriptContextTranslation": "Sheldon: 待ってくれ、レナード。科学者としても、人間としても、レスリーを尊敬していないが、彼女の乱交とだらしなさという相互に関連する分野における紛れもない専門知識は認めざるを得ない。"
     },
     {
       "id": 75,
@@ -1048,7 +1196,9 @@
       "correctAnswer": "危険を冒す",
       "explanation": "「take the bullet」は、他人のために危険を冒す、責任を負うという意味のイディオムです。Howardは、Pennyの相手になることを志願し、その状況を「take the bullet」と表現しています。",
       "etymology": "他人のために危険を冒す、責任を負うという意味のイディオムです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: I’ll take the bullet.",
+      "scriptContextTranslation": "Howard: 俺が引き受けるよ。"
     },
     {
       "id": 76,
@@ -1062,7 +1212,9 @@
       "correctAnswer": "静かにして",
       "explanation": "「Zip it」は「黙れ」という意味のスラング表現です。「pip it」は「zip it」を強調する為に使われている、特に意味のない言葉です。人に静かにしてほしい時に使われます。",
       "etymology": "人に静かにしてほしい時に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Zip it pip it. Can I have your phone number?",
+      "scriptContextTranslation": "Sheldon: だまれ。電話番号を教えてもらえますか？"
     },
     {
       "id": 77,
@@ -1076,7 +1228,9 @@
       "correctAnswer": "散らかっている",
       "explanation": "「littered with」は「～で散らかっている」という意味です。名詞「litter」は「ごみ、散らかったもの」という意味です。部屋や場所が物で散らかっている状態を表すのに使われます。\n\n例：The park was littered with trash after the concert.（コンサートの後、公園はゴミで散らかっていた。）",
       "etymology": "部屋や場所が物で散らかっている状態を表す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Scene: Penny’s flat. Penny is on her laptop. Everything around her is littered with empty food packaging and red bull cans. She burps loudly. Sheldon is sitting on the sofa.",
+      "scriptContextTranslation": "Scene: ペニーのアパート。ペニーはラップトップを使っている。周りには食べ物の空き容器やレッドブルの缶が散乱している。彼女は大きなげっぷをする。シェルドンはソファに座っている。"
     },
     {
       "id": 78,
@@ -1090,7 +1244,9 @@
       "correctAnswer": "臆病者",
       "explanation": "「wussy」は「弱虫、臆病者」という意味のスラングです。人を軽蔑的に呼ぶ際に使われます。特に、危険や困難な状況を避ける人を指して使われることが多いです。\n\n例：Don't be such a wussy, just try it! (そんなに弱虫になるな、やってみろよ！)",
       "etymology": "人を軽蔑的に呼ぶ際に使われます。特に、危険や困難な状況を避ける人を指して使われることが多いです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: I dumped them, they’re a bunch of wussies.",
+      "scriptContextTranslation": "Penny: 捨てたわ。あいつら、弱虫なんだもん。"
     },
     {
       "id": 79,
@@ -1104,7 +1260,9 @@
       "correctAnswer": "彼によって始められる",
       "explanation": "「initiate」は「開始する、始める」という意味です。「initiated by him」は「彼によって始められる」という意味になります。ここでは、性的な出会いを誰が始めるかという文脈で使用されています。",
       "etymology": "ここでは、性的な出会いを誰が始めるかという文脈で使用されています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You’re welcome. Anyhow, on a scale of 1 to 5, with 1 being always initiated by him, and 5 being always initiated by you, how do you prefer your sexual encounters to begin?",
+      "scriptContextTranslation": "Sheldon: どういたしまして。ところで、1から5のスケールで、1が常に彼から始まる、5が常にあなたから始まる場合、性的出会いはどのように始まるのが好きですか？"
     },
     {
       "id": 80,
@@ -1118,7 +1276,9 @@
       "correctAnswer": "広範囲な",
       "explanation": "「extensive」は「広範囲な、大規模な」という意味です。ここでは、オンライン登録の内容が非常に詳細であることを指しています。広く行き届いている状態を表します。\n\n例：The research was very extensive. (その研究は非常に広範囲にわたった。)",
       "etymology": "広く行き届いている状態を表す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh yes, it’s quite extensive. But if we complete it, we get a free expansion pack, 75 additional quests.",
+      "scriptContextTranslation": "Sheldon: ああ、そうだ。非常に広範囲なんだ。しかし、完了すれば、無料の拡張パック、75の追加クエストが手に入る。"
     },
     {
       "id": 81,
@@ -1132,7 +1292,9 @@
       "correctAnswer": "策略と欺瞞",
       "explanation": "「trickery」は「策略、ごまかし」という意味で、「deceit」は「欺瞞、詐欺」という意味です。このフレーズは、人をだますために使われる行為や手段を指します。\n\n例：He used trickery and deceit to win the election. (彼は選挙に勝つために策略と欺瞞を使った。)",
       "etymology": "人をだますために使われる行為や手段を指す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: No, of course not. No, I used trickery and deceit.",
+      "scriptContextTranslation": "Sheldon: いいや、まさか。いや、策略と欺瞞を使ったんだ。"
     },
     {
       "id": 82,
@@ -1146,7 +1308,9 @@
       "correctAnswer": "失敗した",
       "explanation": "「strike out」は、ここでは「（恋愛で）失敗する、うまくいかない」という意味です。野球のストライクアウトから派生した表現で、目標を達成できなかった状況を表します。\n\n例：He struck out with her. (彼は彼女に振られた。)",
       "etymology": "ここでは「（恋愛で）失敗する、うまくいかない」という意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I’m surprised you struck out with Penny. Apparently she’s a big old five.",
+      "scriptContextTranslation": "Sheldon: 君がペニーとうまくいかなかったのが不思議だよ。どうやら彼女は完全な５らしい。"
     },
     {
       "id": 83,
@@ -1160,7 +1324,9 @@
       "correctAnswer": "みすぼらしい",
       "explanation": "「ratty」は「みすぼらしい、ぼろぼろの」という意味です。人の外見や物の状態が古くて汚れている様子を表します。\n\n例：She was wearing a ratty old coat. (彼女はみすぼらしい古いコートを着ていた。)",
       "etymology": "人の外見や物の状態が古くて汚れている様子を表す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny (entering, looking ratty in baggy clothes and with her hair unwashed): Sheldon, what do you want.",
+      "scriptContextTranslation": "Penny (入ってくる。だぶだぶの服を着て髪は洗っていないみすぼらしい格好): シェルドン、何がしたいの。"
     },
     {
       "id": 84,
@@ -1174,7 +1340,9 @@
       "correctAnswer": "だぶだぶの",
       "explanation": "「baggy」は「だぶだぶの、ぶかぶかの」という意味です。衣服が体にフィットせず、ゆったりしている状態を表します。\n\n例：He wore baggy jeans. (彼はだぶだぶのジーンズをはいていた。)",
       "etymology": "衣服が体にフィットせず、ゆったりしている状態を表す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny (entering, looking ratty in baggy clothes and with her hair unwashed): Sheldon, what do you want.",
+      "scriptContextTranslation": "Penny (入ってくる。だぶだぶの服を着て髪は洗っていないみすぼらしい格好): シェルドン、何がしたいの。"
     },
     {
       "id": 85,
@@ -1188,7 +1356,9 @@
       "correctAnswer": "初心者",
       "explanation": "「noob」は「初心者、新参者」という意味のスラングです。特にオンラインゲームなどで、経験が浅いプレイヤーを指して使われます。\n\n例：I'm such a noob at this game. (このゲームでは私は本当に初心者だ。)",
       "etymology": "特にオンラインゲームなどで、経験が浅いプレイヤーを指して使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Yeah, Hi, listen, as long as I’m here, I’m on a quest with a bunch of noobs, they don’t know what they’re doing, we’ve got one assassin, three spellcasters and no tank.",
+      "scriptContextTranslation": "Penny: ええ、こんにちは。あのね、せっかく来たんだから言うけど、初心者たちとクエスト中で、あいつら何やってるかわかってないのよ。アサシン1人と、スペルキャスター3人、それにタンクがいないの。"
     },
     {
       "id": 86,
@@ -1202,7 +1372,9 @@
       "correctAnswer": "魔法使い",
       "explanation": "「spellcaster」は「魔法使い、呪文を使う人」という意味です。ファンタジー作品やゲームで、魔法を使って戦うキャラクターを指します。\n\n例：The spellcaster used a powerful spell to defeat the dragon. (魔法使いは強力な呪文を使ってドラゴンを倒した。)",
       "etymology": "ファンタジー作品やゲームで、魔法を使って戦うキャラクターを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Yeah, Hi, listen, as long as I’m here, I’m on a quest with a bunch of noobs, they don’t know what they’re doing, we’ve got one assassin, three spellcasters and no tank.",
+      "scriptContextTranslation": "Penny: ええ、こんにちは。あのね、せっかく来たんだから言うけど、初心者たちとクエスト中で、あいつら何やってるかわかってないのよ。アサシン1人と、スペルキャスター3人、それにタンクがいないの。"
     },
     {
       "id": 87,
@@ -1216,7 +1388,9 @@
       "correctAnswer": "防御役",
       "explanation": "「tank」は、オンラインゲームで、敵の攻撃を引き受けてパーティーを守る役割を指します。高い防御力と体力を持つキャラクターが担うことが多いです。\n\n例：We need a good tank to protect the rest of the team. (チームを守るために、優秀なタンクが必要です。)",
       "etymology": "オンラインゲームで、敵の攻撃を引き受けてパーティーを守る役割を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Yeah, Hi, listen, as long as I’m here, I’m on a quest with a bunch of noobs, they don’t know what they’re doing, we’ve got one assassin, three spellcasters and no tank.",
+      "scriptContextTranslation": "Penny: ええ、こんにちは。あのね、せっかく来たんだから言うけど、初心者たちとクエスト中で、あいつら何やってるかわかってないのよ。アサシン1人と、スペルキャスター3人、それにタンクがいないの。"
     },
     {
       "id": 88,
@@ -1230,7 +1404,9 @@
       "correctAnswer": "社交する",
       "explanation": "「socialize」は「社交する、親睦を深める」という意味です。他の人と交流し、関係を築くことを指します。\n\n例：I like to socialize with my friends on weekends. (週末は友達と社交するのが好きです。)",
       "etymology": "他の人と交流し、関係を築くことを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: But wouldn’t you prefer to socialise with Tom, who is a sexually passive outdoorsman.",
+      "scriptContextTranslation": "Sheldon: しかし、性的には受け身的なアウトドアマンのトムと交流する方が良いのではないか？"
     },
     {
       "id": 89,
@@ -1244,7 +1420,9 @@
       "correctAnswer": "消極的な",
       "explanation": "「passive」は「受動的な、消極的な」という意味です。ここでは、性的に消極的な男性を指しています。自分から行動を起こさず、相手の行動を待つ様子を表します。\n\n例：He is a passive person. (彼は消極的な人です。)",
       "etymology": "ここでは、性的に消極的な男性を指しています。自分から行動を起こさず、相手の行動を待つ様子を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: But wouldn’t you prefer to socialise with Tom, who is a sexually passive outdoorsman.",
+      "scriptContextTranslation": "Sheldon: しかし、性的には受け身的なアウトドアマンのトムと交流する方が良いのではないか？"
     },
     {
       "id": 90,
@@ -1258,7 +1436,9 @@
       "correctAnswer": "あそこにある",
       "explanation": "「yon」は「あそこの、向こうの」という意味の古語です。現代英語ではあまり使われず、文学作品や古風な表現で見られます。\n\n例：Look at yon castle. (あそこの城を見てください。)",
       "etymology": "現代英語ではあまり使われず、文学作品や古風な表現で見られます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Warrior: It is I, Sir Howard of Wolowitz. Can I interest you in an afternoon of spirited questing, followed by a flagon of ale at yon virtual tavern?",
+      "scriptContextTranslation": "Warrior: 私はウォロウィッツ卿ハワードだ。午後の活発なクエストに参加しませんか？その後、あちらの仮想酒場でエールを飲みましょう。"
     },
     {
       "id": 91,
@@ -1272,7 +1452,9 @@
       "correctAnswer": "活発な探求",
       "explanation": "「spirited」は「元気のある、活発な」という意味です。「questing」は「探求」を意味します。したがって、「spirited questing」は「活発な探求」や「精力的な探索」と訳されます。\n\n例：They embarked on a spirited questing for knowledge. (彼らは知識を求めて精力的な探求に乗り出した。)",
       "etymology": "活発な探求",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Warrior: It is I, Sir Howard of Wolowitz. Can I interest you in an afternoon of spirited questing, followed by a flagon of ale at yon virtual tavern?",
+      "scriptContextTranslation": "Warrior: 私はウォロウィッツ卿ハワードだ。午後の活発なクエストに参加しませんか？その後、あちらの仮想酒場でエールを飲みましょう。"
     },
     {
       "id": 92,
@@ -1286,7 +1468,9 @@
       "correctAnswer": "大きな瓶",
       "explanation": "「flagon」は「大きな瓶、特に酒を入れるためのもの」という意味です。通常、取っ手と栓が付いています。\n\n例：He poured ale from the flagon into his mug. (彼は瓶からエールをマグカップに注いだ。)",
       "etymology": "通常、取っ手と栓が付いています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Warrior: It is I, Sir Howard of Wolowitz. Can I interest you in an afternoon of spirited questing, followed by a flagon of ale at yon virtual tavern?",
+      "scriptContextTranslation": "Warrior: 私はウォロウィッツ卿ハワードだ。午後の活発なクエストに参加しませんか？その後、あちらの仮想酒場でエールを飲みましょう。"
     },
     {
       "id": 93,
@@ -1300,7 +1484,9 @@
       "correctAnswer": "経験則に基づくアルゴリズム",
       "explanation": "「heuristic algorithm」は「ヒューリスティック・アルゴリズム」といい、必ずしも最適解を保証しないものの、実用的な時間内で近似解を見つけるためのアルゴリズムです。経験や直感に基づいて効率的に問題を解決しようとします。\n\n例：The program uses heuristic algorithms to find the best route. (そのプログラムは、最適なルートを見つけるためにヒューリスティック・アルゴリズムを使用している。)",
       "etymology": "経験や直感に基づいて効率的に問題を解決しようとします。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Well, what passes for science on dating sites. They claim to use heuristic algorithms, but it may well be hokum.",
+      "scriptContextTranslation": "Sheldon: まあ、出会い系サイトで科学とされているものだがね。彼らはヒューリスティックアルゴリズムを使用していると主張しているが、インチキかもしれない。"
     },
     {
       "id": 94,
@@ -1314,7 +1500,9 @@
       "correctAnswer": "嘘、でたらめ",
       "explanation": "「hokum」は「でたらめ、たわごと、ごまかし」という意味のスラングです。信憑性のない話や、人を欺くための言葉を指します。\n\n例：That's just a bunch of hokum. (それはただのでたらめだ。)",
       "etymology": "信憑性のない話や、人を欺くための言葉を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Well, what passes for science on dating sites. They claim to use heuristic algorithms, but it may well be hokum.",
+      "scriptContextTranslation": "Sheldon: まあ、出会い系サイトで科学とされているものだがね。彼らはヒューリスティックアルゴリズムを使用していると主張しているが、インチキかもしれない。"
     },
     {
       "id": 95,
@@ -1328,7 +1516,9 @@
       "correctAnswer": "古代の宝物庫",
       "explanation": "「Treasury of the Ancients」は文字通り「古代の宝物庫」という意味です。このフレーズは、ゲーム内で貴重なアイテムや資源が保管されている場所を指していると考えられます。\n\n例：The players sought the legendary Treasury of the Ancients. (プレイヤーたちは伝説的な古代の宝物庫を探し求めた。)",
       "etymology": "このフレーズは、ゲーム内で貴重なアイテムや資源が保管されている場所を指していると考えられます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Okay, I’m at the gate to the Treasury of the Ancients, I’m going in.",
+      "scriptContextTranslation": "Penny: よし、古代の宝物庫の門に着いたわ。入るわよ。"
     },
     {
       "id": 96,
@@ -1342,7 +1532,9 @@
       "correctAnswer": "憎しみに満ちた一撃",
       "explanation": "「hateful strike」は「憎しみに満ちた一撃」という意味で、ゲーム内で使用される特殊な攻撃やスキルを指していると考えられます。敵に対して強い憎しみを込めて繰り出す攻撃を表現しています。\n\n例：With a hateful strike, she defeated the monster. (憎しみに満ちた一撃で、彼女はモンスターを倒した。)",
       "etymology": "敵に対して強い憎しみを込めて繰り出す攻撃を表現しています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, here come the mummies, which spell do I use? The hateful strike, or the frenzy stance?",
+      "scriptContextTranslation": "Penny: あら、ミイラが来たわ。どの呪文を使えばいいの？ヘイトフルストライク？それともフレンジースタンス？"
     },
     {
       "id": 97,
@@ -1356,7 +1548,9 @@
       "correctAnswer": "狂乱の構え",
       "explanation": "「frenzy stance」は「狂乱の構え」という意味で、ゲーム内でキャラクターが一時的に攻撃力や速度を上げる状態やスキルを指していると考えられます。「frenzy」は「逆上、狂乱」という意味です。\n\n例：He entered a frenzy stance and attacked relentlessly. (彼は狂乱の構えに入り、容赦なく攻撃した。)",
       "etymology": "「frenzy」は「逆上、狂乱」という意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, here come the mummies, which spell do I use? The hateful strike, or the frenzy stance?",
+      "scriptContextTranslation": "Penny: あら、ミイラが来たわ。どの呪文を使えばいいの？ヘイトフルストライク？それともフレンジースタンス？"
     },
     {
       "id": 98,
@@ -1370,7 +1564,9 @@
       "correctAnswer": "体力を回復する薬",
       "explanation": "「healing potion」は「回復薬」という意味で、ゲームやファンタジー作品でよく登場するアイテムです。キャラクターの体力を回復させる効果があります。\n\n例：She drank a healing potion to restore her health. (彼女は体力を回復するために回復薬を飲んだ。)",
       "etymology": "キャラクターの体力を回復させる効果があります。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Drink a healing potion.",
+      "scriptContextTranslation": "Sheldon: 回復ポーションを飲め。"
     },
     {
       "id": 99,
@@ -1384,7 +1580,9 @@
       "correctAnswer": "理想的な配偶者",
       "explanation": "「suitable mate」は「適切な配偶者、理想的な相手」という意味です。ここでは、デートサイトが科学的な根拠に基づいてペニーにふさわしい相手を選んだという状況で使用されています。\n\n例：The dating site matched her with a suitable mate. (その出会い系サイトは、彼女を理想的な相手とマッチさせた。)",
       "etymology": "ここでは、デートサイトが科学的な根拠に基づいてペニーにふさわしい相手を選んだという状況で使用されています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yes, you were very clear, as was everyone else at the table. Tom, however, has been chosen by science as a suitable mate for Penny.",
+      "scriptContextTranslation": "Sheldon: ああ、君はとても明確だったよ、テーブルにいた他の皆もね。しかし、トムは、科学によってペニーの適切な相手として選ばれたんだ。"
     },
     {
       "id": 100,
@@ -1398,7 +1596,9 @@
       "correctAnswer": "救急救命士",
       "explanation": "「paramedic」は「救急救命士」という意味です。緊急時に医療処置を行い、病院へ搬送する役割を担います。\n\n例：The paramedic arrived quickly and provided first aid. (救急救命士はすぐに到着し、応急処置を行った。)",
       "etymology": "緊急時に医療処置を行い、病院へ搬送する役割を担います。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Tom is a paramedic with the fire department, but he’s going to med school at night, uh, he likes the outdoors, and, uh, strong women who initiate sex.",
+      "scriptContextTranslation": "Sheldon: トムは消防署の救急隊員だが、夜は医学部に通っている、えーと、アウトドアが好きで、えーと、性行為に積極的な強い女性が好きだ。"
     }
   ]
 }

@@ -12,7 +12,9 @@
       "correctAnswer": "月の光による炎症",
       "explanation": "「moon burn」は、ここでは冗談めかして使われていますが、実際には月の光（太陽光の反射）によって引き起こされる日焼けのような状態を指すことがあります。特に皮膚が非常に敏感な人が、長時間月の光にさらされた場合に起こりうるというジョークです。",
       "etymology": "月の光（太陽光の反射）に長時間さらされることで起こる、日焼けのような状態を指すジョーク表現。皮膚が非常に敏感な人が実際に影響を受ける可能性も示唆。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I know that, but with skin as fair as mine, moon burn is a real possibility.",
+      "scriptContextTranslation": "Sheldon: 分かってる。でも、僕みたいに肌が白いと、月焼けの可能性があるんだ。"
     },
     {
       "id": 2,
@@ -26,7 +28,9 @@
       "correctAnswer": "冗談だよ",
       "explanation": "「Bazinga」は、シットコム『ビッグバン★セオリー』の登場人物であるシェルドン・クーパーが、ジョークやいたずらの後に使う決まり文句です。「冗談だよ」「やったぜ」といったニュアンスで、ユーモラスな状況を強調するために使われます。",
       "etymology": "シットコム『ビッグバン★セオリー』の登場人物シェルドン・クーパーがジョークやいたずらの後に使う決まり文句。「冗談だよ」「やったぜ」といったニュアンス。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: That’s a bazinga, right?",
+      "scriptContextTranslation": "Howard: それって、バジンガだろ？"
     },
     {
       "id": 3,
@@ -40,7 +44,9 @@
       "correctAnswer": "赤道儀",
       "explanation": "「equatorial mount」は、天体望遠鏡などを設置する際に使用する「赤道儀」のことです。地球の自転に合わせて望遠鏡を動かすことができ、天体を追尾するのに役立ちます。天体観測を行う上で重要な装置です。",
       "etymology": "equatorial(赤道の)とmount(据え付ける)の組み合わせ。地球の自転に合わせて望遠鏡を動かし、天体を追尾するために使われる架台。",
-      "pronounciation": "/ɪˌkwætɔːriəl maʊnt/"
+      "pronounciation": "/ɪˌkwætɔːriəl maʊnt/",
+      "scriptContext": "Leonard: Howard, do you want to double-check the equatorial mount on the laser? We need it locked onto the Sea of Tranquility.",
+      "scriptContextTranslation": "Leonard: ハワード、レーザーの赤道儀をもう一度確認してくれるか？静かの海に固定する必要があるんだ。"
     },
     {
       "id": 4,
@@ -54,7 +60,9 @@
       "correctAnswer": "窓から中を覗き見る",
       "explanation": "「peep through windows」は、「窓からこっそり覗き見る」という意味です。許可なく他人のプライベートな空間を覗き見る行為を指し、一般的には否定的なニュアンスで使用されます。",
       "etymology": "peepは「覗き見る」、throughは「～を通して」、windowsは「窓」を意味し、窓からこっそりと覗き見る行為を指す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: You got it. Oh, Raj, no. Billions of dollars have gone into inventing the Internet and filling it with pictures of naked women, so we don’t have to peep through windows.",
+      "scriptContextTranslation": "Howard: 分かったよ。おい、ラージ、だめだぞ。何十億ドルもかけてインターネットを発明して、裸の女性の写真を載せているんだから、窓から覗き見する必要はないだろ。"
     },
     {
       "id": 5,
@@ -68,7 +76,9 @@
       "correctAnswer": "捨てられた",
       "explanation": "「discarded」は、「捨てられた」「放棄された」という意味です。不要になった物や人を表す際に用いられ、しばしばネガティブな感情を伴います。",
       "etymology": "dis(否定) + card(手札)で、手札から不要なカードを捨てるイメージ。そこから「捨てられた」「放棄された」という意味になった。",
-      "pronounciation": "/dɪˈskɑːrdɪd/"
+      "pronounciation": "/dɪˈskɑːrdɪd/",
+      "scriptContext": "Leonard: Sheldon, the world is filled with dirty discarded socks.",
+      "scriptContextTranslation": "Leonard: シェルドン、世界は汚れて捨てられた靴下で溢れているんだ。"
     },
     {
       "id": 6,
@@ -82,7 +92,9 @@
       "correctAnswer": "月までの距離測定",
       "explanation": "「lunar ranging」は、「月までの距離を測定すること」を意味します。レーザー光線などを月面に反射させて、地球から月までの正確な距離を測定する技術を指します。天文学や宇宙科学の分野で使用される専門用語です。",
       "etymology": "lunar(月の)とranging(測定)の組み合わせ。月までの距離を測定する技術を指す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I wasn’t aware that lunar ranging was her thing. Although, I suppose the retro-reflector left on the moon by Neil Armstrong does qualify as a shiny object.",
+      "scriptContextTranslation": "Sheldon: 月面測距が彼女の趣味だとは知らなかった。まあ、ニール・アームストロングが月に残した再帰反射板は、光る物体として適格だろうけど。"
     },
     {
       "id": 7,
@@ -96,7 +108,9 @@
       "correctAnswer": "再帰性反射器",
       "explanation": "「retro-reflector」は、「再帰性反射器」という意味です。入射してきた光を光源に向かって反射する特性を持つ装置で、道路標識や宇宙空間での距離測定などに利用されます。アポロ計画で月面に設置されたものが有名です。",
       "etymology": "retro-(後ろへ) + reflector(反射器)で、入射光を光源方向に反射する装置。アポロ計画で月面に設置された。",
-      "pronounciation": "/ˌretrəʊrɪˈflektər/"
+      "pronounciation": "/ˌretrəʊrɪˈflektər/",
+      "scriptContext": "Sheldon: I wasn’t aware that lunar ranging was her thing. Although, I suppose the retro-reflector left on the moon by Neil Armstrong does qualify as a shiny object.",
+      "scriptContextTranslation": "Sheldon: 月面測距が彼女の趣味だとは知らなかった。まあ、ニール・アームストロングが月に残した再帰反射板は、光る物体として適格だろうけど。"
     },
     {
       "id": 8,
@@ -110,7 +124,9 @@
       "correctAnswer": "振られた",
       "explanation": "「dumped」は、「（恋人に）振られた」という意味のスラングです。恋愛関係の終了を意味し、特に一方的に関係を終わらせられた場合に用いられます。口語的な表現です。",
       "etymology": "不要なものを捨てるイメージから、「（恋人を）振る」という意味になった。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: She dumped you?",
+      "scriptContextTranslation": "Howard: 彼女に振られたのか？"
     },
     {
       "id": 9,
@@ -124,7 +140,9 @@
       "correctAnswer": "くそったれ",
       "explanation": "「Screw you guys」は、相手に対する軽蔑や怒りを表す表現で、「くそったれ」「お前らなんか知らない」といった意味合いです。非常にカジュアルで、親しい間柄で冗談交じりに使われることもありますが、基本的には失礼な表現です。",
       "etymology": "相手に対する侮辱や怒りを表す表現。「Screw you」は「くそくらえ」、「guys」は「お前ら」を意味する。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Screw you guys. I’m gonna go see if she’s home.",
+      "scriptContextTranslation": "Leonard: くそっ。彼女が家にいるかどうか見に行ってくる。"
     },
     {
       "id": 10,
@@ -138,7 +156,9 @@
       "correctAnswer": "月面にレーザーを照射して反射させる",
       "explanation": "「bounce laser beams off the moon」は、「月面にレーザー光線を照射して反射させる」という意味です。月までの距離を正確に測定したり、月面の物質を分析したりする目的で行われる実験を指します。",
       "etymology": "bounce(跳ね返す)、laser beams(レーザー光線)、off(～から離れて)、moon(月)を組み合わせた表現。月面にレーザーを照射して反射させる実験を指す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 11,
@@ -152,7 +172,9 @@
       "correctAnswer": "放物面鏡",
       "explanation": "「parabolic reflector」は、「放物面鏡」という意味です。光や電波を一点に集める、または一点から放射されたものを平行線として放射する性質を持つ鏡で、望遠鏡やアンテナなどに使用されます。",
       "etymology": "parabolic(放物線の)とreflector(反射器)の組み合わせ。放物面の形状を持つ反射鏡で、光や電波を集めたり、平行線として放射する。",
-      "pronounciation": "/ˌpærəˈbɒlɪk rɪˈflektər/"
+      "pronounciation": "/ˌpærəˈbɒlɪk rɪˈflektər/",
+      "scriptContext": "Leonard: It’s pretty cool. We’ve got a two-meter parabolic reflector and everything. I thought you might want to see it.",
+      "scriptContextTranslation": "Leonard: 結構すごいんだ。2メートルのパラボラ反射鏡とか、色々あるんだよ。見たいかなと思って。"
     },
     {
       "id": 12,
@@ -166,7 +188,9 @@
       "correctAnswer": "副社長",
       "explanation": "「VP」は、「Vice President」の略で、「副社長」を意味します。企業における役職の一つで、社長を補佐し、特定の部門やプロジェクトを統括する責任を担います。",
       "etymology": "Vice Presidentの略。企業における役職の一つで、社長を補佐する。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Zack: Well,, my dad, but me and my sister are VPs.",
+      "scriptContextTranslation": "Zack: まあ、父の会社だけど、僕と妹は副社長なんだ。"
     },
     {
       "id": 13,
@@ -180,7 +204,9 @@
       "correctAnswer": "探す",
       "explanation": "「keep an eye out for」は、「～に注意して探す」「～を見張る」という意味のイディオムです。特定の人物や物事を見つけるために警戒している状態を表します。例：Keep an eye out for pickpockets.（スリに注意してね）",
       "etymology": "目を光らせて注意を払うイメージから、「～に注意して探す」「～を見張る」という意味になった。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Thank you. Raj, keep an eye out for the other one.",
+      "scriptContextTranslation": "Sheldon: ありがとう。ラージ、もう片方を見張っていてくれ。"
     },
     {
       "id": 14,
@@ -194,7 +220,9 @@
       "correctAnswer": "素晴らしい",
       "explanation": "「bitchin'」は、スラングで「素晴らしい」「最高」という意味です。1970年代から1980年代にかけてよく使われた言葉で、現代ではやや古臭い印象を与えることもあります。肯定的な感情を強調する際に用いられます。",
       "etymology": "元々は「意地悪な」「不快な」という意味だが、スラングとして「素晴らしい」「最高」という意味で使われるようになった。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 15,
@@ -208,7 +236,9 @@
       "correctAnswer": "理論的基礎",
       "explanation": "「theoretic foundation」は、「理論的基礎」という意味です。ある学問や研究分野における基本的な理論や原理を指し、その分野の発展や応用を支える基盤となります。",
       "etymology": "theoretic(理論的な)とfoundation(基礎)の組み合わせ。学問や研究分野における基本的な理論や原理。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yes. In 1917, when Albert Einstein established the theoretic foundation for the laser in his paper Zur Quantentheorie der Strahlung, his fondest hope was that the resultant device be bitchin’.",
+      "scriptContextTranslation": "Sheldon: そうだ。1917年に、アルベルト・アインシュタインが論文「放射の量子論」でレーザーの理論的基礎を確立したとき、彼の最も望んだことは、その結果として得られる装置が「最高」であることだった。"
     },
     {
       "id": 16,
@@ -222,7 +252,9 @@
       "correctAnswer": "結果",
       "explanation": "「resultant」は、「結果として生じる」「結果的な」という意味の形容詞です。ある行動や過程を経て得られた成果や影響を表します。名詞としても使用され、「結果」という意味を持ちます。",
       "etymology": "re-(再び) + sult(跳ねる) + -ant(性質を持つ)で、ある行動や過程を経て再び跳ね返ってくるもの、つまり「結果」を意味する。",
-      "pronounciation": "/rɪˈzʌltənt/"
+      "pronounciation": "/rɪˈzʌltənt/",
+      "scriptContext": "Sheldon: Yes. In 1917, when Albert Einstein established the theoretic foundation for the laser in his paper Zur Quantentheorie der Strahlung, his fondest hope was that the resultant device be bitchin’.",
+      "scriptContextTranslation": "Sheldon: そうだ。1917年に、アルベルト・アインシュタインが論文「放射の量子論」でレーザーの理論的基礎を確立したとき、彼の最も望んだことは、その結果として得られる装置が「最高」であることだった。"
     },
     {
       "id": 17,
@@ -236,7 +268,9 @@
       "correctAnswer": "任務完了",
       "explanation": "「mission accomplished」は、「任務完了」「目的達成」という意味です。困難な目標や課題を達成した際に用いられ、成功を強調する表現です。",
       "etymology": "mission(任務)とaccomplished(達成された)の組み合わせ。困難な目標や課題を達成した際に用いられる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Zack: Well, mission accomplished.",
+      "scriptContextTranslation": "Zack: なるほど、ミッション達成だな。"
     },
     {
       "id": 18,
@@ -250,7 +284,9 @@
       "correctAnswer": "アポロ11号",
       "explanation": "「Apollo 11」は、「アポロ11号」のことです。1969年に人類初の月面着陸を成功させたアメリカの宇宙船であり、ニール・アームストロング船長らが搭乗していました。人類史における重要な出来事の一つです。",
       "etymology": "ギリシャ神話の太陽神アポロンにちなんで名付けられたアメリカの宇宙計画。11号は人類初の月面着陸を成功させた。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Let me explain what we’re doing here. Um, in 1969, the astronauts on Apollo 11 positioned reflectors on the surface of the moon, and we’re going to shoot a laser off one of them and let the light bounce back into this photomultiplier.",
+      "scriptContextTranslation": "Leonard: ここで何をしているか説明させてくれ。ええと、1969年に、アポロ11号の宇宙飛行士が月の表面に反射板を設置したんだ。そして、僕たちはそのうちの1つにレーザーを照射して、光を跳ね返して、この光電子増倍管に入れるんだ。"
     },
     {
       "id": 19,
@@ -264,7 +300,9 @@
       "correctAnswer": "光増幅管",
       "explanation": "「photomultiplier」は、「光電子増倍管（光増幅管）」という意味です。非常に弱い光を検出し、増幅する電子管で、科学計測や医療診断などの分野で使用されます。",
       "etymology": "photo(光) + multiplier(増幅器)の組み合わせ。非常に弱い光を検出し、増幅する電子管。",
-      "pronounciation": "/ˌfoʊtoʊˈmʌltɪplaɪər/"
+      "pronounciation": "/ˌfoʊtoʊˈmʌltɪplaɪər/",
+      "scriptContext": "Leonard: Let me explain what we’re doing here. Um, in 1969, the astronauts on Apollo 11 positioned reflectors on the surface of the moon, and we’re going to shoot a laser off one of them and let the light bounce back into this photomultiplier.",
+      "scriptContextTranslation": "Leonard: ここで何をしているか説明させてくれ。ええと、1969年に、アポロ11号の宇宙飛行士が月の表面に反射板を設置したんだ。そして、僕たちはそのうちの1つにレーザーを照射して、光を跳ね返して、この光電子増倍管に入れるんだ。"
     },
     {
       "id": 20,
@@ -278,7 +316,9 @@
       "correctAnswer": "一体全体",
       "explanation": "「on earth」は、疑問文で強調の意味で使われると、「一体全体」「いったいぜんたい」という意味になります。驚きや困惑、怒りなどの感情を伴って用いられます。例文：How on earth did you do that? (一体どうやってそれをやったの？)",
       "etymology": "疑問文で強調の意味で使われると、「一体全体」「いったいぜんたい」という意味になる。驚きや困惑、怒りなどの感情を伴って用いられる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: How on earth can you say dirty sock and relax in the same sentence?",
+      "scriptContextTranslation": "Sheldon: どうして汚れた靴下とリラックスを同じ文で言えるんだ？"
     },
     {
       "id": 21,
@@ -292,7 +332,9 @@
       "correctAnswer": "楽しむ",
       "explanation": "「dig」は、スラングとして「～を気に入る」「～を楽しむ」という意味で使われます。特に音楽やアート、人の個性などを評価する際に用いられます。例文：I really dig your new hairstyle. (あなたの新しいヘアスタイル、すごく気に入ってるよ。)",
       "etymology": "もともとは「掘る」という意味だが、スラングとして「掘り下げて理解する」「深く楽しむ」というニュアンスから「～を気に入る」「～を楽しむ」という意味で使われるようになった。",
-      "pronounciation": "/dɪɡ/"
+      "pronounciation": "/dɪɡ/",
+      "scriptContext": "Leonard: Hey, you know who’d really dig seeing this experiment? Penny.",
+      "scriptContextTranslation": "Leonard: なあ、この実験を見るのを本当に喜ぶのは誰だと思う？ペニーだよ。"
     },
     {
       "id": 22,
@@ -306,7 +348,9 @@
       "correctAnswer": "～として資格がある",
       "explanation": "「qualify as」は、「～としての資格がある」「～とみなされる」という意味です。特定の条件や基準を満たしていることを示す際に用いられます。例文：This experience qualifies him as a leader. (この経験は彼をリーダーとしての資格があるものとします。)",
       "etymology": "qualifyは「資格を与える」「適任とする」という意味。asは「～として」という意味。合わせて「～としての資格がある」「～とみなされる」という意味になる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I wasn’t aware that lunar ranging was her thing. Although, I suppose the retro-reflector left on the moon by Neil Armstrong does qualify as a shiny object.",
+      "scriptContextTranslation": "Sheldon: 月面測距が彼女の趣味だとは知らなかった。まあ、ニール・アームストロングが月に残した再帰反射板は、光る物体として適格だろうけど。"
     },
     {
       "id": 23,
@@ -320,7 +364,9 @@
       "correctAnswer": "少し変",
       "explanation": "「a little weird」は、「少し変」「少しおかしい」という意味です。通常とは異なる、奇妙な状況や人物、行動などを指す際に用いられます。例文：It's a little weird that he hasn't called. (彼から電話がないのは少しおかしい。)",
       "etymology": "littleは「少し」、weirdは「奇妙な」「変な」という意味。合わせて「少し変」「少しおかしい」という意味になる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: I don’t know, it’s still a little weird since, you know…",
+      "scriptContextTranslation": "Leonard: どうかな、まだちょっと気まずいし、ほら…"
     },
     {
       "id": 24,
@@ -334,7 +380,9 @@
       "correctAnswer": "説明する",
       "explanation": "「go into」は、ここでは「～を詳しく説明する」「～に携わる」という意味で使われています。物事の詳細や内訳を説明する際に用いられるほか、特定の分野や仕事に携わることを示す場合もあります。例文: I don't want to go into the details. (詳細を説明したくありません。)",
       "etymology": "「中に入る」という基本的な意味から派生して、「～を詳しく説明する」「～に携わる」という意味で使われるようになった。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 25,
@@ -348,7 +396,9 @@
       "correctAnswer": "意味が通じない",
       "explanation": "「makes no sense」は、「意味が通じない」「理解できない」という意味です。筋が通らない、理にかなっていない状況や発言に対して用いられます。例文: That makes no sense at all. (それは全く意味が通じない。)",
       "etymology": "senseは「意味」「理屈」という意味。make senseで「意味が通じる」「理にかなう」となり、否定形のmakes no senseで「意味が通じない」「理解できない」という意味になる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Man in Penny’s Apartment: That makes no sense.",
+      "scriptContextTranslation": "Pennyのアパートの男: それは意味が分からない。"
     },
     {
       "id": 26,
@@ -362,7 +412,9 @@
       "correctAnswer": "親切にする",
       "explanation": "「play nice」は、仲良くする、穏便に振る舞うという意味です。特に子供に対して使われることが多いですが、大人に対しても、争わずに協調するように促す際に用いられます。例：The teacher told the children to play nice with each other. (先生は子供たちに仲良くするように言った。)",
       "etymology": "niceは「親切な」「良い」という意味。play niceで「仲良くする」「穏便に振る舞う」という意味になる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Sheldon! Play nice.",
+      "scriptContextTranslation": "Penny: シェルドン！ 仲良くして。"
     },
     {
       "id": 27,
@@ -376,7 +428,9 @@
       "correctAnswer": "レーザーを麻痺させる設定にする",
       "explanation": "「set to stun」は、本来はSF作品などで使われる表現で、「殺傷能力を抑えて相手を気絶させる」という意味です。ここでは比喩的に、深刻な影響を与えないようにレーザーの出力を調整することを指しています。例：In Star Trek, phasers are often set to stun rather than kill. (スタートレックでは、フェイザーは殺すよりも気絶させる設定にされることが多い。)",
       "etymology": "SF作品などで使われる表現で、「殺傷能力を抑えて相手を気絶させる」という意味。ここでは比喩的に、深刻な影響を与えないようにレーザーの出力を調整することを指している。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Don’t worry about the moon. We, we set our laser to stun.",
+      "scriptContextTranslation": "Leonard: 月の心配は要らないよ。レーザーを麻痺に設定したから。"
     },
     {
       "id": 28,
@@ -390,7 +444,9 @@
       "correctAnswer": "肉眼",
       "explanation": "「naked eye」は、何の道具も使わずに、肉眼で直接見ることを意味します。天文学や観察などの文脈でよく使われます。例：The constellation is visible to the naked eye on a clear night. (晴れた夜には、その星座は肉眼で見える。)",
       "etymology": "nakedは「裸の」、eyeは「目」という意味。裸の目で見る、つまり「肉眼で見る」という意味になる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Now, we’ll be able to see the beam when it leaves, but it won’t be strong enough when it comes back to be seen by the naked eye.",
+      "scriptContextTranslation": "Leonard: 今からレーザー光線が見えるけど、戻ってくる時は肉眼で見えるほど強くない。"
     },
     {
       "id": 29,
@@ -404,7 +460,9 @@
       "correctAnswer": "そうしてください",
       "explanation": "「Make it so」は、SFドラマ『スタートレック』シリーズでジャン＝リュック・ピカード艦長がよく使う決まり文句で、命令や指示を出す際に「実行せよ」という意味合いで使用されます。断固とした命令を伝えるニュアンスがあります。例：Captain Picard would often say \"Make it so\" to give his orders. (ピカード艦長はよく「Make it so」と言って命令を下した。)",
       "etymology": "SFドラマ『スタートレック』シリーズでジャン＝リュック・ピカード艦長がよく使う決まり文句で、命令や指示を出す際に「実行せよ」という意味合いで使用される。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Make it so.",
+      "scriptContextTranslation": "Sheldon: 実行せよ。"
     },
     {
       "id": 30,
@@ -418,7 +476,9 @@
       "correctAnswer": "決定的に",
       "explanation": "「definitively」は、疑いの余地なく、決定的に、明確にという意味の副詞です。証拠や結果がはっきりしている状況で使われます。例：The DNA evidence definitively proved his guilt. (DNAの証拠は、彼の有罪を決定的に証明した。)",
       "etymology": "de-(完全に) + finite(限定された) + -ly(副詞語尾)で、完全に限定された状態から「決定的に」「明確に」という意味になった。",
-      "pronounciation": "/dɪˈfɪnɪtɪvli/"
+      "pronounciation": "/dɪˈfɪnɪtɪvli/",
+      "scriptContext": "Leonard: Yeah, but, uh, think about what this represents. The fact that we can do this is the only way of definitively proving that there are man-made objects on the moon, put there by a member of a species that only 60 years before had just invented the airplane.",
+      "scriptContextTranslation": "Leonard: ああ、でも、これが意味することを考えてみてくれ。僕たちがこれを行えるということは、60年前に飛行機を発明したばかりの種族が月に人工物を置いたことを明確に証明する唯一の方法なんだ。"
     },
     {
       "id": 31,
@@ -432,7 +492,9 @@
       "correctAnswer": "もっとうまくやれる",
       "explanation": "「can do better」は、現状よりも良い結果を出せる、もっと能力を発揮できるという意味です。特に、人に対して、その潜在能力を信じて励ます際に使われます。例：I know you can do better on the next exam. (次の試験ではもっと良い点が取れると信じている。)",
       "etymology": "現状よりも良い結果を出せる、もっと能力を発揮できるという意味。特に、人に対して、その潜在能力を信じて励ます際に使われる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I was wrong. Penny can do better.",
+      "scriptContextTranslation": "Sheldon: 間違ってた。ペニーならもっとマシな男を見つけられる。"
     },
     {
       "id": 32,
@@ -446,7 +508,9 @@
       "correctAnswer": "性交",
       "explanation": "「coitus」は、性交を意味するフォーマルな言葉です。医学や生物学などの文脈で使われることが多いですが、日常会話ではあまり使われません。例：The study examined the frequency of coitus among married couples. (その研究は、既婚カップルの性交の頻度を調査した。)",
       "etymology": "ラテン語のcoitus(結合)に由来し、性交、交接という意味を持つ。",
-      "pronounciation": "/ˈkoʊɪtəs/"
+      "pronounciation": "/ˈkoʊɪtəs/",
+      "scriptContext": "Sheldon: He must be very skilled at coitus.",
+      "scriptContextTranslation": "Sheldon: きっと性行為が上手いんだろう。"
     },
     {
       "id": 33,
@@ -460,7 +524,9 @@
       "correctAnswer": "元の状態に戻る",
       "explanation": "「get back on the horse」は、失敗や挫折から立ち直って、再び挑戦することを意味するイディオムです。特に、困難な状況を乗り越えて再起する場合に使われます。例：After losing the election, he needed to get back on the horse and start planning his next campaign. (選挙に負けた後、彼は立ち直って次の選挙活動の計画を立てる必要があった。)",
       "etymology": "落馬してもすぐに馬に乗り直すイメージから、失敗や挫折から立ち直って、再び挑戦することを意味するイディオム。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: The phrase is get back on the horse, not whores.",
+      "scriptContextTranslation": "Howard: 言い方は「馬に戻る」だ。「娼婦に戻る」じゃない。"
     },
     {
       "id": 34,
@@ -474,7 +540,9 @@
       "correctAnswer": "あなたを紹介する",
       "explanation": "「turn someone on to something」は、人に何かを紹介して興味を持たせる、好きにさせるという意味の句動詞です。新しい趣味や音楽、情報などを紹介する際に使われます。例：My friend turned me on to this great new band. (友達がこの素晴らしい新しいバンドを紹介してくれた。)",
       "etymology": "turn onは「興味を持たせる」「興奮させる」という意味。人に対して何かを紹介して興味を持たせる、好きにさせるという意味の句動詞。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: No, it’s not… Never mind. He is right, though. If you want, I can turn you on to this great new dating site I found.",
+      "scriptContextTranslation": "Howard: いや、そんなこと… 気にするな。 まあ、彼は正しいよ。 よかったら、俺が見つけた素晴らしい新しい出会い系サイトを紹介してやるよ。"
     },
     {
       "id": 35,
@@ -488,7 +556,9 @@
       "correctAnswer": "たくさん",
       "explanation": "「tons」は、非常に多い量や数を指す口語的な表現です。具体的に重さを指す場合もありますが、ここでは「たくさん」という意味で使われています。例：I have tons of work to do. (やらなければならない仕事がたくさんある。)",
       "etymology": "元々は重さの単位だが、非常に多い量や数を指す口語的な表現として使われるようになった。",
-      "pronounciation": "/tʌnz/"
+      "pronounciation": "/tʌnz/",
+      "scriptContext": "Leonard: Right. Uh yeah, funny. Uh, that device there will measure the photons that return and let us see it on this computer. Raj, get them some glasses.",
+      "scriptContextTranslation": "Leonard: そう。 ああ、面白いね。 その装置で戻ってくる光子を計測して、このコンピューターで見れる。ラージ、彼らにメガネを取ってきて。"
     },
     {
       "id": 36,
@@ -502,7 +572,9 @@
       "correctAnswer": "言い換える",
       "explanation": "「restate」は、すでに述べたことを別の言葉で言い換える、再表明するという意味です。より明確にするためや、相手に理解を深めてもらうために使われます。例：Let me restate my position on this issue. (この問題に関する私の立場を言い換えさせてください。)",
       "etymology": "re-(再び) + state(述べる)で、すでに述べたことを別の言葉で言い換える、再表明するという意味。",
-      "pronounciation": "/ˌriːˈsteɪt/"
+      "pronounciation": "/ˌriːˈsteɪt/",
+      "scriptContext": "Sheldon: All right, let me restate that. It’s very heavy, and I don’t want to.",
+      "scriptContextTranslation": "Sheldon: わかった、言い直す。 とても重いし、やりたくない。"
     },
     {
       "id": 37,
@@ -516,7 +588,9 @@
       "correctAnswer": "登録する",
       "explanation": "「sign up」は、サービスや活動などに登録する、申し込むという意味です。オンラインの登録や会員登録など、様々な場面で使われます。例：I signed up for a gym membership. (ジムの会員登録をした。)",
       "etymology": "sign upは「署名する」「登録する」という意味。サービスや活動などに登録する、申し込むという意味で使われる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 38,
@@ -530,7 +604,9 @@
       "correctAnswer": "卑劣なやつ",
       "explanation": "「rat bastard」は、非常に不快で信用できない人物を指す侮辱的な表現です。強い嫌悪感や怒りを表す際に使われます。例：He's a rat bastard for stealing her money. (彼はお金を盗んだ卑劣なやつだ。)",
       "etymology": "rat(ネズミ)は不快で信用できない動物の代表。bastard(私生児)は侮辱的な言葉。合わせて、非常に不快で信用できない人物を指す。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Damn you, you rat bastard.",
+      "scriptContextTranslation": "Penny: クソ、この裏切り者。"
     },
     {
       "id": 39,
@@ -544,7 +620,9 @@
       "correctAnswer": "昔",
       "explanation": "「olden days」は、昔、古き良き時代という意味で、過去のある時点を指します。過去を懐かしむニュアンスが含まれることがあります。例：In the olden days, people used to write letters instead of emails. (昔は、人々はメールの代わりに手紙を書いていた。)",
       "etymology": "oldenは「古い」という意味。olden daysで「昔」「古き良き時代」という意味になる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: ‘Cause in the olden days, I never would’ve known he was so stupid.",
+      "scriptContextTranslation": "Penny: だって昔なら、彼がそんなにバカだなんて知らなかった。"
     },
     {
       "id": 40,
@@ -558,7 +636,9 @@
       "correctAnswer": "我慢する",
       "explanation": "「tolerate」は、不快なことや好ましくないことを我慢する、許容するという意味です。完全に受け入れるわけではないが、ある程度まで許すというニュアンスがあります。例：I can't tolerate his rude behavior anymore. (彼の失礼な態度はもう我慢できない。)",
       "etymology": "ラテン語のtolerare(耐える)に由来し、不快なことや好ましくないことを我慢する、許容するという意味。",
-      "pronounciation": "/ˈtɒləreɪt/"
+      "pronounciation": "/ˈtɒləreɪt/",
+      "scriptContext": "Penny: You have destroyed my ability to tolerate idiots. Now, come with me.",
+      "scriptContextTranslation": "Penny: あんたは、私がおバカさんに耐える能力を破壊したのよ。 さあ、一緒に行きましょう。"
     },
     {
       "id": 41,
@@ -572,7 +652,9 @@
       "correctAnswer": "食前酒",
       "explanation": "これは「appetizer」をスペルミスしたもので、食欲をそそるもの、特に食事の前に食べる軽い料理を指します。ここではスペルミスをジョークとして使っています。例：We ordered some appetizers before the main course. (メイン料理の前にいくつか前菜を注文した。)",
       "etymology": "appetizer(食欲をそそるもの)のスペルミス。ジョークとして使われている。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: He spent the entire night bragging about how he invented the word appe-teasers.",
+      "scriptContextTranslation": "Penny: 一晩中、「アペタイザー」っていう言葉を発明したって自慢してたのよ。"
     },
     {
       "id": 42,
@@ -586,7 +668,9 @@
       "correctAnswer": "騒音を遮断するヘッドホン",
       "explanation": "「noise-cancelling headphones」は、周囲の騒音を低減または除去する機能を持つヘッドホンです。集中したい時や騒がしい場所で使用されます。例：I use noise-cancelling headphones when I study in the library. (図書館で勉強するときは、ノイズキャンセリングヘッドホンを使います。)",
       "etymology": "noise-cancelling(騒音を打ち消す)機能を持つヘッドホン。周囲の騒音を低減または除去する。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Put on your noise-cancelling headphones, ’cause it’s gonna get loud.",
+      "scriptContextTranslation": "Penny: ノイズキャンセリングヘッドホンをつけて。うるさくなるから。"
     },
     {
       "id": 43,
@@ -600,7 +684,9 @@
       "correctAnswer": "果肉が少ない",
       "explanation": "「low-pulp」は、オレンジジュースなどの飲み物で、果肉（繊維質）が少ないことを意味します。好みに応じて果肉の量を調整できます。例：I prefer orange juice with low pulp. (私は果肉が少ないオレンジジュースが好きです。)",
       "etymology": "low(低い) + pulp(果肉)で、果肉が少ないことを意味する。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: In what universe is this low-pulp? Good morning, Penny.",
+      "scriptContextTranslation": "Sheldon: どこの世界でこれが低果肉なんだ？ おはよう、ペニー。"
     },
     {
       "id": 44,
@@ -614,7 +700,9 @@
       "correctAnswer": "爆発する",
       "explanation": "ここでは比喩的な意味で使用され、文字通りに爆発させるのではなく、何らかの形で破壊したり、大きな影響を与えたりすることを指します。計画などを台無しにするといった意味合いもあります。例：The scandal blew up his political career. (そのスキャンダルは彼の政治的キャリアを吹き飛ばした。)",
       "etymology": "文字通りには爆発させるという意味だが、ここでは比喩的に、計画などを台無しにするという意味合いで使用されている。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Zack: One question. How can you be sure it won’t blow up?",
+      "scriptContextTranslation": "Zack: 質問があるんだけど、爆発しないってどうして確信できるの？"
     },
     {
       "id": 45,
@@ -628,7 +716,9 @@
       "correctAnswer": "代表する",
       "explanation": "「represent」は、象徴する、意味するという意味です。具体的なものや概念を指し示す際に使われます。例：The dove represents peace. (鳩は平和を象徴する。)",
       "etymology": "re-(再び) + present(提示する)で、何かを再び提示することから「代表する」「象徴する」という意味になった。",
-      "pronounciation": "/ˌreprɪˈzent/"
+      "pronounciation": "/ˌreprɪˈzent/",
+      "scriptContext": "Leonard: Yeah, but, uh, think about what this represents. The fact that we can do this is the only way of definitively proving that there are man-made objects on the moon, put there by a member of a species that only 60 years before had just invented the airplane.",
+      "scriptContextTranslation": "Leonard: ああ、でも、これが意味することを考えてみてくれ。僕たちがこれを行えるということは、60年前に飛行機を発明したばかりの種族が月に人工物を置いたことを明確に証明する唯一の方法なんだ。"
     },
     {
       "id": 46,
@@ -642,7 +732,9 @@
       "correctAnswer": "落とす",
       "explanation": "「bring down」は、高い場所にあるものを低い場所に移動させる、または、システムなどをダウンさせるという意味です。ここでは、タンクを下の階に移動させることを指しています。例：The storm brought down several trees. (嵐でいくつかの木が倒れた。)",
       "etymology": "高い場所にあるものを低い場所に移動させる、または、システムなどをダウンさせるという意味。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 47,
@@ -656,7 +748,9 @@
       "correctAnswer": "ノックする",
       "explanation": "「knock」は、ドアなどを叩くことを意味します。誰かが訪れたことを知らせるために行われます。例：There was a knock at the door. (ドアをノックする音がした。)",
       "etymology": "擬音語のknock(ノックする音)に由来し、ドアなどを叩くことを意味する。",
-      "pronounciation": "/nɒk/"
+      "pronounciation": "/nɒk/",
+      "scriptContext": "Scene: The apartment. It is night and the lights are off. Knocking.",
+      "scriptContextTranslation": "Scene: アパート。 夜で明かりが消えている。 ノックの音。"
     },
     {
       "id": 48,
@@ -670,7 +764,9 @@
       "correctAnswer": "台無しにした",
       "explanation": "「ruin」は、何かを破壊する、台無しにするという意味です。ここでは、相手の純粋さや無知を壊してしまったというニュアンスで使われています。例：The rain ruined our picnic. (雨でピクニックが台無しになった。)",
       "etymology": "ruinは「破壊する」「台無しにする」という意味。ここでは、相手の純粋さや無知を壊してしまったというニュアンスで使われている。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Zack was a perfectly nice guy, and then you ruined him!",
+      "scriptContextTranslation": "Penny: ザックはとてもいい人だったのに、お前が台無しにした！"
     },
     {
       "id": 49,
@@ -684,7 +780,9 @@
       "correctAnswer": "全体の",
       "explanation": "「entire」は、全体、全部という意味です。ここでは、夜の間ずっと、という意味で使用されています。例：I spent the entire day reading. (一日中読書をして過ごした。)",
       "etymology": "en-(中に) + tire(疲れる)で、最初から最後まで疲れずにやり遂げるイメージから「全体の」「全部の」という意味になった。",
-      "pronounciation": "/ɪnˈtaɪər/"
+      "pronounciation": "/ɪnˈtaɪər/",
+      "scriptContext": "Penny: He spent the entire night bragging about how he invented the word appe-teasers.",
+      "scriptContextTranslation": "Penny: 一晩中、「アペタイザー」っていう言葉を発明したって自慢してたのよ。"
     },
     {
       "id": 50,
@@ -698,7 +796,9 @@
       "correctAnswer": "進行中",
       "explanation": "「go on」は、何かが起こっている、進行しているという意味です。何が起こっているのか尋ねる際によく使われます。例：What's going on here? (ここで何が起こっているの？)",
       "etymology": "go onは「進む」「続く」という意味。何かが進行している、起こっているという意味で使われる。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, hi. What’s going on?",
+      "scriptContextTranslation": "Penny: あら、こんにちは。どうしたの？"
     },
     {
       "id": 51,
@@ -712,7 +812,9 @@
       "correctAnswer": "必然的に",
       "explanation": "「of necessity」は「必然的に」「やむを得ず」という意味です。ある状況や条件が原因で、避けられない結果として何かが起こることを表します。フォーマルな文脈でよく用いられます。\n\n例：Of necessity, we had to reduce the budget. (必然的に、私たちは予算を削減しなければなりませんでした。)",
       "etymology": "necessityは「必要性」という意味で、「必然的に」「やむを得ず」という意味で使われるフレーズです。何かが避けられない結果として起こることを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: When one gets beaten up every other day in school, one of necessity develops a keen sense of hearing. Incidentally, one can get beaten up in school simply by referring to oneself as one. I’m making English muffins. Would you like an English muffin?",
+      "scriptContextTranslation": "Sheldon: 学校で毎日ボコボコにされてると、必然的に聴覚が発達するんだよ。ちなみに、自分のことを「one」と呼ぶだけでも、学校でボコボコにされることがある。イングリッシュマフィンを作っているんだが、食べるか？"
     },
     {
       "id": 52,
@@ -726,7 +828,9 @@
       "correctAnswer": "ご参考までに",
       "explanation": "「FYI」は「For Your Information」の略で、「ご参考までに」「参考情報として」という意味です。メールやメモなどで、相手に情報を伝える際に使われます。特に、行動を促すわけではない情報提供の際に用いられます。",
       "etymology": "For Your Informationの略で、「ご参考までに」「参考情報として」という意味で使われるイニシャルです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: FYI, my noise-cancelling headphones proved ineffective last night.",
+      "scriptContextTranslation": "Sheldon: 念のため言っておくが、昨夜はノイズキャンセリングヘッドホンが無効だった。"
     },
     {
       "id": 53,
@@ -740,7 +844,9 @@
       "correctAnswer": "複数回",
       "explanation": "「multiple occasions」は「複数回」「何度も」という意味です。ある出来事が一度だけでなく、何度か繰り返して起こることを表します。\n\n例：I have seen him there on multiple occasions. (私は彼をそこで何度も見かけたことがあります。)",
       "etymology": "multipleは「複数の」、occasionsは「機会」という意味で、「複数回」「何度も」という意味で使われるフレーズです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh, God. That I’ve heard on multiple occasions. In what universe is that lightly toasted? This has to be the worst day of my life. Good morning, Leonard.",
+      "scriptContextTranslation": "Sheldon: 「なんてこと」なら何度も聞いたことがある。一体どの宇宙で、これが軽くトーストされた状態なんだ？　今日は人生最悪の日だ。おはよう、レナード。"
     },
     {
       "id": 54,
@@ -754,7 +860,9 @@
       "correctAnswer": "私は推定する",
       "explanation": "「presume」は「推定する」「思う」という意味です。根拠はあるものの、確信まではいかない推測を表します。フォーマルな文脈でよく用いられます。\n\n例：I presume you're here for the meeting. (会議のためにここに来られたのだと思います。)",
       "etymology": "presumeは「推定する」「思う」という意味で、根拠はあるものの、確信まではいかない推測を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: She returned to her apartment. I presume to shower and vomit. Not necessarily in that order.",
+      "scriptContextTranslation": "Sheldon: 自分のアパートに帰った。シャワーを浴びて吐くだろうな。必ずしもその順番通りではないだろうが。"
     },
     {
       "id": 55,
@@ -768,7 +876,9 @@
       "correctAnswer": "新鮮な視点",
       "explanation": "「fresh perspective」は「新鮮な視点」「新しい見方」という意味です。今までとは異なる角度から物事を見ることで、新たな理解や解決策が得られることを指します。\n\n例：We need a fresh perspective on this problem. (この問題について、私たちは新鮮な視点が必要です。)",
       "etymology": "freshは「新鮮な」、perspectiveは「視点」という意味で、「新鮮な視点」「新しい見方」という意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: I know. I just thought as an outsider, you might be able to provide a fresh perspective.",
+      "scriptContextTranslation": "Leonard: わかってる。ただ、アウトサイダーの君なら、新鮮な視点を提供してくれるかと思ったんだ。"
     },
     {
       "id": 56,
@@ -782,7 +892,9 @@
       "correctAnswer": "残念",
       "explanation": "「bummer」は「がっかり」「残念」という意味のスラングです。期待外れだったり、嫌なことが起こったりした時に使われます。比較的軽いニュアンスで用いられます。\n\n例：That's a bummer! I was really looking forward to it. (それは残念だ！とても楽しみにしていたのに。)",
       "etymology": "もともとは「怠け者」という意味でしたが、そこから転じて「がっかり」「残念」という意味のスラングとして使われるようになりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Bummer. Anyway, I was thinking tonight maybe we could catch a movie.",
+      "scriptContextTranslation": "Leonard: それは大変だ。とにかく、今夜映画でも見に行けたらと思ったんだ。"
     },
     {
       "id": 57,
@@ -796,7 +908,9 @@
       "correctAnswer": "私には向かない",
       "explanation": "「not great for me」は、直接的には「私には良くない」という意味ですが、通常は「都合が悪い」「（予定があって）難しい」という婉曲的な表現として使われます。相手の提案や誘いを断る際に、softな印象を与えます。\n\n例：Thanks for the invitation, but that day is not great for me. (招待ありがとう、でもその日は都合が悪いんだ。)",
       "etymology": "直接的には「私には良くない」という意味ですが、通常は「都合が悪い」「（予定があって）難しい」という婉曲的な表現として使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, yeah, tonight’s not great for me.",
+      "scriptContextTranslation": "Penny: ああ、ええと、今夜はちょっと都合が悪いの。"
     },
     {
       "id": 58,
@@ -810,7 +924,9 @@
       "correctAnswer": "刻み込まれた",
       "explanation": "「imprint」は「刻み込む」「印象付ける」という意味で、「be imprinted on」という形で「～に刻み込まれる」「～に焼き付く」という意味になります。強い印象や記憶が残ることを表します。\n\n例：The image of the accident was imprinted on her mind. (その事故の光景は彼女の心に焼き付いた。)",
       "etymology": "imprintは「刻み込む」「印象付ける」という意味で、「～に刻み込まれる」「～に焼き付く」という意味になります。強い印象や記憶が残ることを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: No, it’s pretty well imprinted on my brain. Especially the whole rodeo thing.",
+      "scriptContextTranslation": "Leonard: 無理だな。かなり脳に焼き付いてるよ。特にロデオの件はね。"
     },
     {
       "id": 59,
@@ -824,7 +940,9 @@
       "correctAnswer": "手放す",
       "explanation": "「let it go」は「手放す」「忘れる」「気にしない」という意味です。過去の出来事や感情にとらわれず、前向きに進むことを促す際に使われます。また、状況や問題から解放されるという意味合いも持ちます。\n\n例：You need to let it go and move on. (あなたはそれを手放して、前に進む必要があります。)",
       "etymology": "「手放す」「忘れる」「気にしない」という意味で、過去の出来事や感情にとらわれず、前向きに進むことを促す際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Look, I said I’m sorry. Can’t u please let it go?",
+      "scriptContextTranslation": "Penny: だから、ごめんなさいって言ってるでしょ。お願いだから、水に流してくれない？"
     },
     {
       "id": 60,
@@ -838,7 +956,9 @@
       "correctAnswer": "私たちの中にいる",
       "explanation": "「walk among us」は「私たちの中にいる」「私たちと一緒に暮らす」という意味です。特に、正体を隠して一般の人々の中に紛れ込んでいる状況を表す際に使われます。SFやファンタジー作品でよく見られる表現です。\n\n例：They believe that angels walk among us. (彼らは天使が私たちの中にいると信じている。)",
       "etymology": "「私たちの中にいる」「私たちと一緒に暮らす」という意味です。特に、正体を隠して一般の人々の中に紛れ込んでいる状況を表す際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: We finally have proof that aliens walk among us.",
+      "scriptContextTranslation": "Raj: ついに宇宙人が僕らの間に紛れ込んでいる証拠を見つけたぞ。"
     },
     {
       "id": 61,
@@ -852,7 +972,9 @@
       "correctAnswer": "冗談を言っている",
       "explanation": "「kidding」は「冗談を言っている」「からかっている」という意味です。相手の発言が信じられない時や、自分が冗談を言っていることを伝えたい時に使われます。比較的カジュアルな表現です。\n\n例：You're kidding! Are you serious? (冗談でしょう！本気ですか？)",
       "etymology": "kidは「からかう」「冗談を言う」という意味で、「冗談を言っている」「からかっている」という意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: You’re kidding. An actual woman?",
+      "scriptContextTranslation": "Howard: 冗談だろ。本当に女性か？"
     },
     {
       "id": 62,
@@ -866,7 +988,9 @@
       "correctAnswer": "～さえ～ない",
       "explanation": "「so much as」は「～さえ～ない」という意味です。否定的な文脈で使われ、最小限のことすらしない、というニュアンスを表します。\n\n例：He didn't so much as look at me. (彼は私をちらっとも見なかった。)",
       "etymology": "「～さえ～ない」という意味で、否定的な文脈で使われ、最小限のことすらしない、というニュアンスを表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Great. Maybe she can have sex with him, and then walk out on him the next morning without so much as a how do you do?",
+      "scriptContextTranslation": "Leonard: いいね。彼女が彼とセックスして、翌朝、おはようの一言もなく出ていくかもしれない。"
     },
     {
       "id": 63,
@@ -880,7 +1004,9 @@
       "correctAnswer": "ひどい",
       "explanation": "「lousy」は「ひどい」「つまらない」「不快な」という意味です。質が悪いものや、不愉快な状況に対して使われます。カジュアルな表現です。\n\n例：I had a lousy day at work. (今日は仕事でひどい一日だった。)",
       "etymology": "「シラミの多い」という意味から転じて、「ひどい」「つまらない」「不快な」という意味で使われるようになりました。",
-      "pronounciation": "/ˈlaʊzi/"
+      "pronounciation": "/ˈlaʊzi/",
+      "scriptContext": "Raj: That was a lousy suggestion.",
+      "scriptContextTranslation": "Raj: それはひどい提案だったな。"
     },
     {
       "id": 64,
@@ -894,7 +1020,9 @@
       "correctAnswer": "友好的な生命体",
       "explanation": "「fellow life-form」は「同じ生命体」「仲間」という意味です。特に、人間以外の生物や、宇宙人などに対して使われることがあります。親しみを込めた表現です。\n\n例：Greetings, fellow life-form. (こんにちは、同志。) （SF作品などで宇宙人が使うイメージ）",
       "etymology": "fellowは「仲間」、life-formは「生命体」という意味で、「同じ生命体」「仲間」という意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Whatever. Right now, Dr. Sheldon Cooper has to send an e-mail to his perfect match. Greetings, fellow life-form…",
+      "scriptContextTranslation": "Howard: まあいいや。今は、シェルドン・クーパー博士が、完璧な相手にメールを送るべきだ。「こんにちは、同志よ…」"
     },
     {
       "id": 65,
@@ -908,7 +1036,9 @@
       "correctAnswer": "しばらくぶり",
       "explanation": "「It's been a while」は「しばらくぶり」「久しぶり」という意味です。ある期間、会っていなかった人や、しばらくしていなかったことに対して使われます。再会を喜ぶ気持ちや、時間の経過を実感するニュアンスが含まれます。\n\n例：It's been a while since we last met. (最後に会ってからしばらく経ちましたね。)",
       "etymology": "「しばらくぶり」「久しぶり」という意味で、ある期間、会っていなかった人や、しばらくしていなかったことに対して使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 66,
@@ -922,7 +1052,9 @@
       "correctAnswer": "別れた",
       "explanation": "「dump」は「捨てる」「見捨てる」という意味で、恋愛関係においては「（恋人を）振る」「別れる」という意味で使われます。カジュアルな表現です。\n\n例：She dumped him last week. (彼女は先週彼を振った。)",
       "etymology": "dumpは「捨てる」「見捨てる」という意味で、恋愛関係においては「（恋人を）振る」「別れる」という意味で使われます。",
-      "pronounciation": "/dʌmpt/"
+      "pronounciation": "/dʌmpt/",
+      "scriptContext": "Howard: She dumped you?",
+      "scriptContextTranslation": "Howard: 彼女に振られたのか？"
     },
     {
       "id": 67,
@@ -936,7 +1068,9 @@
       "correctAnswer": "早朝勤務",
       "explanation": "「Early shift」は「早朝勤務」という意味です。勤務時間帯の一つで、通常の勤務時間よりも早く始まるシフトを指します。サービス業などでよく使われる言葉です。\n\n例：I have an early shift tomorrow, so I need to go to bed early. (明日は早朝勤務なので、早く寝る必要があります。)",
       "etymology": "earlyは「早い」、shiftは「勤務」という意味で、「早朝勤務」という意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, hi. Um, I gotta run. Early shift.",
+      "scriptContextTranslation": "Penny: あ、どうも。えっと、行かなきゃ。早番なの。"
     },
     {
       "id": 68,
@@ -950,7 +1084,9 @@
       "correctAnswer": "その状況では",
       "explanation": "「in that context」は「その状況では」「その文脈では」という意味です。特定の状況や文脈において、ある言葉や行動が持つ意味や解釈について言及する際に使われます。\n\n例：It's hard to understand the meaning without knowing the context. (文脈を知らずに意味を理解するのは難しい。)",
       "etymology": "contextは「文脈」「状況」という意味で、「その状況では」「その文脈では」という意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 69,
@@ -964,7 +1100,9 @@
       "correctAnswer": "見捨てる",
       "explanation": "「walk out on」は「見捨てる」「（責任などを）放棄する」という意味です。特に、困難な状況や義務から逃れるために、突然関係を断つことを指します。\n\n例：He walked out on his family. (彼は家族を見捨てた。)",
       "etymology": "「見捨てる」「（責任などを）放棄する」という意味です。困難な状況や義務から逃れるために、突然関係を断つことを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Great. Maybe she can have sex with him, and then walk out on him the next morning without so much as a how do you do?",
+      "scriptContextTranslation": "Leonard: いいね。彼女が彼とセックスして、翌朝、おはようの一言もなく出ていくかもしれない。"
     },
     {
       "id": 70,
@@ -978,7 +1116,9 @@
       "correctAnswer": "またそれをする",
       "explanation": "「to do that again」は、文脈によって意味が異なりますが、この場合は以前にした特定の行為を「またそれをする」という意味で使用されています。多くの場合、過去の経験を繰り返すかどうか尋ねる際に用いられます。\n\n例：Would you like to do that again? (もう一度それをしたいですか？)",
       "etymology": "以前にした特定の行為を「またそれをする」という意味で使用されています。過去の経験を繰り返すかどうか尋ねる際に用いられます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Uh, do you, uh, want to do that again?",
+      "scriptContextTranslation": "Leonard: あの、また、それを、しないか？"
     },
     {
       "id": 71,
@@ -992,7 +1132,9 @@
       "correctAnswer": "することを期待しているのですか",
       "explanation": "「Are you expecting me to」は「私に～することを期待しているのですか」という意味です。相手に何かを期待されているかどうかを尋ねる表現で、しばしば皮肉や不満のニュアンスを伴います。\n\n例：Are you expecting me to believe that? (それを信じることを期待しているのですか？)",
       "etymology": "「私に～することを期待しているのですか」という意味です。相手に何かを期待されているかどうかを尋ねる表現で、しばしば皮肉や不満のニュアンスを伴います。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Are you expecting me to offer an explanation of human behaviour?",
+      "scriptContextTranslation": "Sheldon: 私に人間の行動の説明を求めているのか？"
     },
     {
       "id": 72,
@@ -1006,7 +1148,9 @@
       "correctAnswer": "異なる場所にいる",
       "explanation": "「in different places」は「異なる場所にいる」という意味ですが、人間関係においては、価値観、考え方、人生の段階などが異なっている状態を表します。関係がうまくいかない理由として使われることがあります。\n\n例：We are in different places in our lives right now. (私たちは今、人生の異なる段階にいる。)",
       "etymology": "「異なる場所にいる」という意味ですが、人間関係においては、価値観、考え方、人生の段階などが異なっている状態を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: She didn’t dump me. We were just in different places in the relationship.",
+      "scriptContextTranslation": "Leonard: 振られたんじゃない。ただ、僕たちの関係が違う段階にあっただけだ。"
     },
     {
       "id": 73,
@@ -1020,7 +1164,9 @@
       "correctAnswer": "今回を含めて数えますか？",
       "explanation": "「Counting this instance?」は「今回を含めて数えますか？」という意味です。ある行動や出来事が繰り返された回数を尋ねる際に、今回を含めるかどうかを確認する表現です。特に、相手が過去の記録を保持している場合に用いられます。\n\n例：Counting this instance, how many times have you visited this place? (今回を含めて、この場所には何回訪れましたか？)",
       "etymology": "「今回を含めて数えますか？」という意味です。ある行動や出来事が繰り返された回数を尋ねる際に、今回を含めるかどうかを確認する表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Counting this instance? 317.",
+      "scriptContextTranslation": "Sheldon: 今回を含めて？　317回だ。"
     },
     {
       "id": 74,
@@ -1034,7 +1180,9 @@
       "correctAnswer": "急いで行かなければ",
       "explanation": "「I gotta run」は「I've got to run」の省略形で、「急いで行かなければならない」という意味です。別れ際などに、急用があることを伝える際に使われます。カジュアルな表現です。\n\n例：I gotta run. See you later! (急いで行かなきゃ。またね！)",
       "etymology": "I've got to runの省略形で、「急いで行かなければならない」という意味です。別れ際などに、急用があることを伝える際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, hi. Um, I gotta run. Early shift.",
+      "scriptContextTranslation": "Penny: あ、どうも。えっと、行かなきゃ。早番なの。"
     },
     {
       "id": 75,
@@ -1048,7 +1196,9 @@
       "correctAnswer": "ぞんざいに扱われたの？",
       "explanation": "「Wham, bam, thank you, ma'am」というイディオムをLeonardに当てはめた形で、性的な関係を持った後、相手に感謝もなくすぐに去られることを意味します。つまり、Leonardが性的な目的で利用されたと感じている状況を表しています。ぞんざいに扱われた、軽んじられた、という意味合いが含まれます。",
       "etymology": "「Wham, bam, thank you, ma'am」というイディオムをLeonardに当てはめた形で、性的な関係を持った後、相手に感謝もなくすぐに去られることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: So, that’s it? Wham, bam, thank you, Leonard?",
+      "scriptContextTranslation": "Leonard: つまり、それだけ？　はいおしまい、レナード様ありがとう、ってこと？"
     },
     {
       "id": 76,
@@ -1062,7 +1212,9 @@
       "correctAnswer": "趣味的な性行為",
       "explanation": "「recreational」は「娯楽の、気晴らしの」という意味で、「recreational sex」は楽しみや気晴らしのための性行為を指します。深い感情的なつながりや義務感を伴わない、カジュアルな関係における性行為を意味することが多いです。",
       "etymology": "recreationalは「娯楽の、気晴らしの」という意味で、楽しみや気晴らしのための性行為を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Um, anyway, apparently, it’s okay to go back to people you’re no longer seeing and have recreational sex with them.",
+      "scriptContextTranslation": "Leonard: あのさ、どうやら、もう付き合ってない人と、遊びでセックスしてもいいらしいんだ。"
     },
     {
       "id": 77,
@@ -1076,7 +1228,9 @@
       "correctAnswer": "流行する",
       "explanation": "「catch on」は、アイデアや習慣、スタイルなどが人気を得て広まる、つまり「流行する」という意味です。また、人が何かを理解するという意味もありますが、ここでは「preevning」という言葉が広まるかどうかという文脈なので「流行する」が適切です。",
       "etymology": "アイデアや習慣、スタイルなどが人気を得て広まる、つまり「流行する」という意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: It’s a time of day I invented. It better defines the ambiguous period between afternoon and evening. Preevning. I’m fairly certain it will catch on as it fills a desperate need.",
+      "scriptContextTranslation": "Sheldon: 僕が発明した時間区分だ。午後と夕方の曖昧な時間帯をより明確に定義する。「プリーブニング」だ。切実に必要とされているから、必ず流行ると思う。"
     },
     {
       "id": 78,
@@ -1090,7 +1244,9 @@
       "correctAnswer": "軽蔑して鼻を鳴らす",
       "explanation": "「snort in derision」は、軽蔑や嘲笑を表すために鼻を鳴らす行為を意味します。「derision」は嘲笑、侮辱という意味なので、合わせて「軽蔑して鼻を鳴らす」となります。相手の言っていることを全く信じていない、あるいはばかにしている時に使われます。",
       "etymology": "軽蔑や嘲笑を表すために鼻を鳴らす行為を意味します。derisionは嘲笑、侮辱という意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I would snort in derision and throw my arms in the air, exhausted by your constant tomfoolery.",
+      "scriptContextTranslation": "Sheldon: 馬鹿にして鼻で笑い、君たちの絶え間ないふざけにうんざりして両手を投げ出すだろう。"
     },
     {
       "id": 79,
@@ -1104,7 +1260,9 @@
       "correctAnswer": "ばか騒ぎ",
       "explanation": "「tomfoolery」は、ばかげた行為、ふざけ、おどけなどを意味する名詞です。まじめな状況を邪魔するような、軽率な行動を指すことが多いです。類義語としては、foolery, buffoonery, clowningなどがあります。",
       "etymology": "ばかげた行為、ふざけ、おどけなどを意味する名詞です。まじめな状況を邪魔するような、軽率な行動を指すことが多いです。",
-      "pronounciation": "/ˌtɒmˈfuːləri/"
+      "pronounciation": "/ˌtɒmˈfuːləri/",
+      "scriptContext": "Sheldon: I would snort in derision and throw my arms in the air, exhausted by your constant tomfoolery.",
+      "scriptContextTranslation": "Sheldon: 馬鹿にして鼻で笑い、君たちの絶え間ないふざけにうんざりして両手を投げ出すだろう。"
     },
     {
       "id": 80,
@@ -1118,7 +1276,9 @@
       "correctAnswer": "重要な情報",
       "explanation": "「vital information」は、生存や成功に不可欠な、非常に重要な情報を指します。ここでは、デートサイトに登録するために必要な、Sheldonの性格や好みなどに関する情報を指しています。",
       "etymology": "生存や成功に不可欠な、非常に重要な情報を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: But it’s true. But we-we put all your vital information into this dating site, answered all their questions just like you would, and they found a match for you. Her name is Amy Farrah Fowler.",
+      "scriptContextTranslation": "Raj: でも本当なんだ。僕たちが君の個人情報をすべてこの出会い系サイトに入力して、質問には全部君ならどう答えるか考えて答えたら、君にぴったりの相手が見つかったんだ。エイミー・ファラ・ファウラーっていうんだ。"
     },
     {
       "id": 81,
@@ -1132,7 +1292,9 @@
       "correctAnswer": "ナンセンス",
       "explanation": "「hokum」は、人を欺くためのナンセンス、たわごと、でたらめを意味する言葉です。特に政治やショービジネスの世界で、大衆を欺くために使われる誇張された表現や嘘を指すことがあります。",
       "etymology": "人を欺くためのナンセンス、たわごと、でたらめを意味する言葉です。",
-      "pronounciation": "/ˈhoʊkəm/"
+      "pronounciation": "/ˈhoʊkəm/",
+      "scriptContext": "Sheldon: Please. Even assuming you could answer any question the way I would, the algorithms used by matchmaking sites are complete hokum.",
+      "scriptContextTranslation": "Sheldon: 勘弁してくれ。君たちが僕ならどう答えるか正確に答えられるとしても、出会い系サイトのアルゴリズムなんて全くのデタラメだ。"
     },
     {
       "id": 82,
@@ -1146,7 +1308,9 @@
       "correctAnswer": "意味不明な言葉",
       "explanation": "「mumbo jumbo」は、意味不明な言葉、理解できない複雑な話、または人を欺くための無意味な儀式や活動を指します。しばしば、専門用語を多用して内容を曖昧にする場合に使われます。ここでは、オンラインデートに対するSheldonの否定的な態度を表現するために使われています。",
       "etymology": "意味不明な言葉、理解できない複雑な話、または人を欺くための無意味な儀式や活動を指します。",
-      "pronounciation": "/ˌmʌmboʊ ˈdʒʌmboʊ/"
+      "pronounciation": "/ˌmʌmboʊ ˈdʒʌmboʊ/",
+      "scriptContext": "Raj: Howard wanted to write mumbo jumbo, but I said no, our Sheldon would say hokum.",
+      "scriptContextTranslation": "Raj: ハワードは「意味不明な言葉」って書きたがったけど、僕が「いや、シェルドンならデタラメって言う」って言ったんだ。"
     },
     {
       "id": 83,
@@ -1160,7 +1324,9 @@
       "correctAnswer": "秘密を解き明かす",
       "explanation": "「unravel」は、もつれた糸をほどくように、複雑な問題や謎を解き明かすという意味です。「unraveling the secrets of the universe」は、「宇宙の秘密を解き明かす」という壮大な目標を表しています。",
       "etymology": "もつれた糸をほどくように、複雑な問題や謎を解き明かすという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 84,
@@ -1174,7 +1340,9 @@
       "correctAnswer": "求愛行動",
       "explanation": "「pon farr」は、SFドラマ『スタートレック』に登場する、バルカン人が7年周期で経験する本能的な求愛行動です。感情を抑制するバルカン人にとって、pon farrは非常に激しい経験であり、相手を見つけないと死に至ることもあります。",
       "etymology": "SFドラマ『スタートレック』に登場する、バルカン人が7年周期で経験する本能的な求愛行動です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: He didn’t date. It was pon farr. His blood boiled with mating lust.",
+      "scriptContextTranslation": "Sheldon: あれはデートじゃない。「ポンファー」だ。交尾欲で血が沸騰するんだ。"
     },
     {
       "id": 85,
@@ -1188,7 +1356,9 @@
       "correctAnswer": "無意味な",
       "explanation": "「moot」は、議論の余地がない、意味がない、重要でないという意味です。ここでは、Sheldonがデートをしないので、飲み物を選ぶことは無意味だと述べています。類義語としては、irrelevant, academic, hypotheticalなどがあります。",
       "etymology": "議論の余地がない、意味がない、重要でないという意味です。",
-      "pronounciation": "/muːt/"
+      "pronounciation": "/muːt/",
+      "scriptContext": "Sheldon: As I will not be engaging in this nonsense, my choice of beverage is moot. But for the record, I only drink hot chocolate in months with an R in them.",
+      "scriptContextTranslation": "Sheldon: こんな馬鹿げたことには参加しないから、飲み物の選択は無意味だ。しかし、念のために言っておくと、僕はRのつく月しかココアは飲まない。"
     },
     {
       "id": 86,
@@ -1202,7 +1372,9 @@
       "correctAnswer": "気まぐれ",
       "explanation": "「whimsy」は、気まぐれ、奇抜さ、風変わりな考えや行動を意味します。日常にちょっとした楽しさや遊び心を加えるような、予期せぬ行動やアイデアを指すことが多いです。ここでは、ホットチョコレートを飲む月を限定するというSheldonの行動を指しています。",
       "etymology": "気まぐれ、奇抜さ、風変わりな考えや行動を意味します。",
-      "pronounciation": "/ˈwɪmzi/"
+      "pronounciation": "/ˈwɪmzi/",
+      "scriptContext": "Sheldon: What’s life without whimsy?",
+      "scriptContextTranslation": "Sheldon: 気まぐれのない人生なんて何になる？"
     },
     {
       "id": 87,
@@ -1216,7 +1388,9 @@
       "correctAnswer": "嘘をつく",
       "explanation": "「bluff」は、相手を欺くために、実際よりも強い立場や能力を持っているように見せかけることを意味します。「You're bluffing」は、「あなたはハッタリをかましている」という意味になります。",
       "etymology": "相手を欺くために、実際よりも強い立場や能力を持っているように見せかけることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You’re bluffing.",
+      "scriptContextTranslation": "Sheldon: ハッタリだ。"
     },
     {
       "id": 88,
@@ -1230,7 +1404,9 @@
       "correctAnswer": "終わらせる",
       "explanation": "「finish off」は、何かを完全に終わらせる、使い切るという意味です。ここでは、Leonardがボトルに入った酒を飲み干す様子を表しています。類似の表現としては、'polish off'があります。",
       "etymology": "何かを完全に終わらせる、使い切るという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Scene: The hallway. Leonard is finishing off a bottle of spirits. He opens the lift and drops the bottle inside.",
+      "scriptContextTranslation": "Scene: 廊下。レナードはスピリッツのボトルを飲み干している。彼はエレベーターを開けてボトルを中に落とす。"
     },
     {
       "id": 89,
@@ -1244,7 +1420,9 @@
       "correctAnswer": "台無しにされた",
       "explanation": "「ruin」は、何かを破壊する、台無しにするという意味です。ここでは、LeonardがPennyによって、以前の孤独な状態から抜け出し、感情的に不安定になったと感じていることを表しています。",
       "etymology": "何かを破壊する、台無しにするという意味です。",
-      "pronounciation": "/ˈruːɪnd/"
+      "pronounciation": "/ˈruːɪnd/",
+      "scriptContext": "Penny: Zack was a perfectly nice guy, and then you ruined him!",
+      "scriptContextTranslation": "Penny: ザックはとてもいい人だったのに、お前が台無しにした！"
     },
     {
       "id": 90,
@@ -1258,7 +1436,9 @@
       "correctAnswer": "正気でない",
       "explanation": "「out of your mind」は、正気ではない、気が狂っているという意味です。相手の言動が理解できないほど非常識であると感じたときに使われます。類似の表現としては、'crazy', 'insane', 'mad'などがあります。",
       "etymology": "正気ではない、気が狂っているという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Are you out of your mind?!",
+      "scriptContextTranslation": "Penny: 頭がおかしいんじゃないの?!"
     },
     {
       "id": 91,
@@ -1272,7 +1452,9 @@
       "correctAnswer": "二重基準",
       "explanation": "「double standard」は、同じ状況や行動に対して、異なるグループや個人に異なる基準やルールを適用することを意味します。ここでは、LeonardがPennyに対して、自分に対する態度が不公平だと感じていることを表しています。",
       "etymology": "同じ状況や行動に対して、異なるグループや個人に異なる基準やルールを適用することを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: I’m really starting to think there’s a double standard here.",
+      "scriptContextTranslation": "Leonard: ここにはダブルスタンダードがあるんじゃないかって本当に思い始めたよ。"
     },
     {
       "id": 92,
@@ -1286,7 +1468,9 @@
       "correctAnswer": "失敗を喜ぶ",
       "explanation": "「gloat over」は、他人の失敗や不幸を喜んで見下す、得意げに嘲笑するという意味です。ここでは、Sheldonがデートが失敗に終わった場合に、そのことを得意げに語ることを想定しています。",
       "etymology": "他人の失敗や不幸を喜んで見下す、得意げに嘲笑するという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: In a few minutes, when I gloat over the failure of this enterprise, how would you prefer I do it? The standard I told you so? The classic neener-neener? Or just my normal look of haughty derision?",
+      "scriptContextTranslation": "Sheldon: 数分後、この企みが失敗に終わったことを僕が勝ち誇る時、どういう風に勝ち誇ってほしい？定番の「だから言っただろ」？古典的な「バーカ、バーカ」？それともただ僕のいつもの傲慢な嘲笑の表情？"
     },
     {
       "id": 93,
@@ -1300,7 +1484,9 @@
       "correctAnswer": "傲慢な嘲笑",
       "explanation": "「haughty」は傲慢な、尊大なという意味で、「derision」は嘲笑、侮辱という意味です。「haughty derision」は、傲慢で人を見下したような嘲笑を意味します。Sheldonの典型的な態度を表す言葉です。",
       "etymology": "傲慢で人を見下したような嘲笑を意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: In a few minutes, when I gloat over the failure of this enterprise, how would you prefer I do it? The standard I told you so? The classic neener-neener? Or just my normal look of haughty derision?",
+      "scriptContextTranslation": "Sheldon: 数分後、この企みが失敗に終わったことを僕が勝ち誇る時、どういう風に勝ち誇ってほしい？定番の「だから言っただろ」？古典的な「バーカ、バーカ」？それともただ僕のいつもの傲慢な嘲笑の表情？"
     },
     {
       "id": 94,
@@ -1314,7 +1500,9 @@
       "correctAnswer": "騙される",
       "explanation": "「taken in by」は、だまされる、信じ込まされるという意味です。ここでは、Amyがオンラインデートという、信じるに値しない数学的根拠に基づいたシステムに騙されているとSheldonが考えていることを表しています。",
       "etymology": "だまされる、信じ込まされるという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Hello, Amy Farrah Fowler. I’m sorry to inform you that you have been taken in by unsupportable mathematics designed to prey on the gullible and the lonely. Additionally, I’m being blackmailed with a hidden dirty sock.",
+      "scriptContextTranslation": "Sheldon: こんにちは、エイミー・ファラ・ファウラー。あなたを騙したのは、騙されやすく孤独な人を食い物にするように作られた、根拠のない数学であると申し訳なくお知らせします。それに、僕は隠された汚い靴下で脅迫されています。"
     },
     {
       "id": 95,
@@ -1328,7 +1516,9 @@
       "correctAnswer": "証明不可能な数学",
       "explanation": "「unsupportable」は、支持できない、立証できないという意味です。ここでは、オンラインデートのアルゴリズムが科学的根拠に乏しいことをSheldonが批判していることを表しています。",
       "etymology": "支持できない、立証できないという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Hello, Amy Farrah Fowler. I’m sorry to inform you that you have been taken in by unsupportable mathematics designed to prey on the gullible and the lonely. Additionally, I’m being blackmailed with a hidden dirty sock.",
+      "scriptContextTranslation": "Sheldon: こんにちは、エイミー・ファラ・ファウラー。あなたを騙したのは、騙されやすく孤独な人を食い物にするように作られた、根拠のない数学であると申し訳なくお知らせします。それに、僕は隠された汚い靴下で脅迫されています。"
     },
     {
       "id": 96,
@@ -1342,7 +1532,9 @@
       "correctAnswer": "利用する",
       "explanation": "「prey on」は、弱みにつけこむ、食い物にするという意味です。ここでは、オンラインデートが、騙されやすい人々や孤独な人々につけこんで利用しているというSheldonの考えを表しています。",
       "etymology": "弱みにつけこむ、食い物にするという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Hello, Amy Farrah Fowler. I’m sorry to inform you that you have been taken in by unsupportable mathematics designed to prey on the gullible and the lonely. Additionally, I’m being blackmailed with a hidden dirty sock.",
+      "scriptContextTranslation": "Sheldon: こんにちは、エイミー・ファラ・ファウラー。あなたを騙したのは、騙されやすく孤独な人を食い物にするように作られた、根拠のない数学であると申し訳なくお知らせします。それに、僕は隠された汚い靴下で脅迫されています。"
     },
     {
       "id": 97,
@@ -1356,7 +1548,9 @@
       "correctAnswer": "嫌悪感",
       "explanation": "「aversion to」は、強い嫌悪感、反感という意味です。ここでは、Amyが汚れた靴下に強い嫌悪感を持っていることを表しています。似たような表現としては、'dislike of', 'antipathy to'などがあります。",
       "etymology": "強い嫌悪感、反感という意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Amy: If that was slang, I’m unfamiliar with it. If it was literal, I share your aversion to soiled hosiery. In any case, I’m here because my mother and I have agreed that I will date at least once a year.",
+      "scriptContextTranslation": "Amy: もしそれがスラングなら、私は詳しくありません。もし文字通りの意味なら、私も汚れた靴下には嫌悪感を抱きます。とにかく、私がここにいるのは、母と私が少なくとも年に一度はデートをすることに合意したからです。"
     },
     {
       "id": 98,
@@ -1370,7 +1564,9 @@
       "correctAnswer": "困惑する",
       "explanation": "「baffled by」は、理解できずに困惑する、当惑するという意味です。ここでは、Amyが神が人間の出席を取るという概念に困惑していることを表しています。",
       "etymology": "理解できずに困惑する、当惑するという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Amy: I don’t object to the concept of a deity, but I’m baffled by the notion of one that takes attendance.",
+      "scriptContextTranslation": "Amy: 私は神という概念に異論はありませんが、出席を取る神という概念には困惑します。"
     },
     {
       "id": 99,
@@ -1384,7 +1580,9 @@
       "correctAnswer": "議論の対象外",
       "explanation": "「off the table」は、交渉や議論の対象から外されている、考慮されないという意味です。ここでは、Amyが物理的な接触（性行為を含む）を一切拒否していることを表しています。交渉の場以外でも、話題に出すことすら許されない状況を表す際に使われます。",
       "etymology": "交渉や議論の対象から外されている、考慮されないという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Amy: Noted. Now, before this goes any further, you should know that all forms of physical contact up to and including coitus are off the table.",
+      "scriptContextTranslation": "Amy: 承知しました。さて、話を進める前に、性交を含むあらゆる形の肉体的接触は禁止であることを知っておいてください。"
     },
     {
       "id": 100,
@@ -1398,7 +1596,9 @@
       "correctAnswer": "ぬるい",
       "explanation": "「tepid」は、ぬるい、熱意のないという意味です。ここでは、Amyがぬるい水を注文することで、Sheldonとの関係に熱意がないことを示唆しています。また、感情や反応が lukewarm であることも表します。",
       "etymology": "ぬるい、熱意のないという意味です。",
-      "pronounciation": "/ˈtepɪd/"
+      "pronounciation": "/ˈtepɪd/",
+      "scriptContext": "Amy: Tepid water, please.",
+      "scriptContextTranslation": "Amy: 常温の水をお願いします。"
     }
   ]
 }

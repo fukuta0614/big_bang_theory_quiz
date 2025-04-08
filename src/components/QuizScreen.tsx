@@ -17,6 +17,8 @@ interface QuestionData {
   explanation: string;
   etymology: string;
   pronounciation: string;
+  scriptContext: string;
+  scriptContextTranslation: string;
   season: string; // Add season
   episode: string; // Add episode
 }
@@ -69,38 +71,21 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
     const fetchScriptContext = async () => {
       if (!quizData || !quizData.questions || quizData.questions.length === 0) return; // Add check for empty questions
       const currentQuestion = quizData.questions[currentQuestionIndex];
-      // Use the season/episode from the question data if available (for review mode),
-      // otherwise use the props (for normal mode)
-      const questionSeason = currentQuestion.season || season;
-      const questionEpisode = currentQuestion.episode || episode;
-      const scriptPath = `../../data/season${questionSeason}/episode${questionEpisode}/script.txt`;
 
-      try {
-        const response = await fetch(scriptPath);
-        const scriptText = await response.text();
-        const questionValue = currentQuestion.value;
-        const scriptLines = scriptText.split('\n');
+      const questionValue = currentQuestion.value;
+      const scriptContextRaw = currentQuestion.scriptContext;
 
-        let context = '';
-        for (let i = 0; i < scriptLines.length; i++) {
-          if (scriptLines[i].includes(questionValue)) {
-            let line = scriptLines[i];
-            const parts = line.split(': ');
-            if (parts.length > 1) {
-              const speaker = parts[0];
-              const body = parts.slice(1).join(': ');
-              line = `<strong>${speaker}</strong>:<br />${body}`;
-            }
-            line = line.replace(questionValue, `<strong>${questionValue}</strong>`);
-            context += line + '<br />';
-            break;
-          }
-        }
-        setScriptContext(context);
-      } catch (error) {
-        console.error('Error fetching script context:', error);
-        setScriptContext('ヒントの取得に失敗しました。<br />');
+      let line = scriptContextRaw;
+      const parts = line.split(': ');
+      if (parts.length > 1) {
+        const speaker = parts[0];
+        const body = parts.slice(1).join(': ');
+        line = `<strong>${speaker}</strong>:<br />${body}`;
       }
+      line = line.replace(questionValue, `<strong>${questionValue}</strong>`);
+      const context = line + '<br />';
+
+      setScriptContext(context);
     };
 
     if (quizData && quizData.questions && quizData.questions.length > 0) { // Add check for empty questions
@@ -199,12 +184,16 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
                 <h3 className="correct-answer">正解！</h3>
                 <p className="explanation">{currentQuestion.explanation}</p>
                 <p className="explanation">{currentQuestion.etymology}</p>
+                <p className="explanation">{currentQuestion.scriptContext}</p>
+                <p className="explanation">{currentQuestion.scriptContextTranslation}</p>
               </>
             ) : (
               <>
                 <h3 className="incorrect-answer">不正解！</h3>
                 <p className="explanation">{currentQuestion.explanation}</p>
                 <p className="explanation">{currentQuestion.etymology}</p>
+                <p className="explanation">{currentQuestion.scriptContext}</p>
+                <p className="explanation">{currentQuestion.scriptContextTranslation}</p>
               </>
             )}
             <button onClick={handleModalCloseAndNext} className="modal-button">

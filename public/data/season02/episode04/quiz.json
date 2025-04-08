@@ -12,7 +12,9 @@
       "correctAnswer": "不適格な",
       "explanation": "「kosher」は、ユダヤ教の食事規定に適合していることを意味します。「un-kosher」はその反対で、食事規定に違反している、または不適切であることを指します。ここでは、冗談めかして「禁じられた楽しみ」のようなニュアンスで使われています。",
       "etymology": "「kosher」はヘブライ語に由来し、「適切」「適格」を意味します。ユダヤ教の食事規定に適合している食品を指し、「un-」が付くことで、その反対、つまり「不適格」であることを意味します。",
-      "pronounciation": "/ˌʌnˈkoʊʃər/"
+      "pronounciation": "/ˌʌnˈkoʊʃər/",
+      "scriptContext": "Howard: That would be me. Come to Poppa, you un-kosher delight. (To Penny) I’m not necessarily talking to the food.",
+      "scriptContextTranslation": "Howard: それは俺だ。おいでパパのところに、コーシャじゃない喜びよ。（ペニーに）別に食べ物に向かって言ってるわけじゃないんだぞ。"
     },
     {
       "id": 2,
@@ -26,7 +28,9 @@
       "correctAnswer": "消毒する",
       "explanation": "「sanitize」は、細菌やウイルスなどを殺菌し、清潔にすることを意味します。ここでは、手を清潔にするために使用されています。より広義には、情報や状況などを不快な要素を取り除くために調整することも意味します。",
       "etymology": "ラテン語の「sanus」（健康な）に由来し、「健康にする」「衛生的にする」という意味から、細菌などを取り除き、清潔にすることを意味するようになりました。",
-      "pronounciation": "/ˈsænɪtaɪz/"
+      "pronounciation": "/ˈsænɪtaɪz/",
+      "scriptContext": "Sheldon: I had to sanitize my hands because the university replaced the paper towels in the rest rooms with hot air blowers.",
+      "scriptContextTranslation": "Sheldon: 大学がトイレのペーパータオルを温風乾燥機に替えたので、手を消毒する必要があったのです。"
     },
     {
       "id": 3,
@@ -40,7 +44,9 @@
       "correctAnswer": "疫病",
       "explanation": "「pestilence」は、伝染病や疫病を意味する古風な言葉で、特に致死性の高いものを指します。ここでは、細菌の比喩として使われています。",
       "etymology": "ラテン語の「pestis」（疫病）に由来し、中世ヨーロッパで広まった伝染病を指す言葉として使われるようになりました。",
-      "pronounciation": "/ˈpestɪləns/"
+      "pronounciation": "/ˈpestɪləns/",
+      "scriptContext": "Sheldon: Hot air blowers are incubators and spewers of bacteria and pestilence. Frankly it would be more hygienic if they just had a plague infested gibbon sneeze my hands dry.",
+      "scriptContextTranslation": "Sheldon: 温風乾燥機は細菌と疫病の培養器であり噴霧器です。率直に言って、ペストに汚染されたテナガザルにくしゃみをさせて手を乾かす方が衛生的でしょう。"
     },
     {
       "id": 4,
@@ -54,7 +60,9 @@
       "correctAnswer": "孵化器",
       "explanation": "「incubator」は、細菌や卵などを培養・孵化させるための装置を指します。ここでは、温風乾燥機が細菌を繁殖させる場所であるという比喩として使われています。",
       "etymology": "ラテン語の「incubare」（抱卵する、温める）に由来し、卵を人工的に温めて孵化させる装置、または細菌などを培養する装置を指すようになりました。",
-      "pronounciation": "/ˈɪŋkjubeɪtər/"
+      "pronounciation": "/ˈɪŋkjubeɪtər/",
+      "scriptContext": "Sheldon: Hot air blowers are incubators and spewers of bacteria and pestilence. Frankly it would be more hygienic if they just had a plague infested gibbon sneeze my hands dry.",
+      "scriptContextTranslation": "Sheldon: 温風乾燥機は細菌と疫病の培養器であり噴霧器です。率直に言って、ペストに汚染されたテナガザルにくしゃみをさせて手を乾かす方が衛生的でしょう。"
     },
     {
       "id": 5,
@@ -68,7 +76,9 @@
       "correctAnswer": "テナガザル",
       "explanation": "「gibbon」はテナガザルの一種です。ここでは、不衛生な状況を強調するために、病気に感染したテナガザルのくしゃみを例えとして挙げています。",
       "etymology": "「gibbon」の語源は正確には不明ですが、東南アジアの現地語に由来すると考えられています。",
-      "pronounciation": "/ˈɡɪbən/"
+      "pronounciation": "/ˈɡɪbən/",
+      "scriptContext": "Sheldon: Hot air blowers are incubators and spewers of bacteria and pestilence. Frankly it would be more hygienic if they just had a plague infested gibbon sneeze my hands dry.",
+      "scriptContextTranslation": "Sheldon: 温風乾燥機は細菌と疫病の培養器であり噴霧器です。率直に言って、ペストに汚染されたテナガザルにくしゃみをさせて手を乾かす方が衛生的でしょう。"
     },
     {
       "id": 6,
@@ -82,7 +92,9 @@
       "correctAnswer": "先見の明のある人",
       "explanation": "「visionary」は、未来を見通す力や創造的なアイデアを持つ人を指します。ここでは、People誌が選んだ「30歳未満の注目すべき人物」を指しています。",
       "etymology": "ラテン語の「visio」（視覚、見ること）に由来し、未来を見通す力や創造的なアイデアを持つ人を指すようになりました。",
-      "pronounciation": "/ˈvɪʒənɛriz/"
+      "pronounciation": "/ˈvɪʒənɛriz/",
+      "scriptContext": "Raj: Thirty visionaries under thirty years of age to watch as they challenge the preconceptions of their fields.",
+      "scriptContextTranslation": "Raj: それぞれの分野の先入観に挑戦する30歳以下の30人の先見の明がある人たちをウォッチするんだ。"
     },
     {
       "id": 7,
@@ -96,7 +108,9 @@
       "correctAnswer": "リハビリする",
       "explanation": "「rehabilitate」は、社会復帰や機能回復を支援することを意味します。ここでは、イルカを使って囚人を社会復帰させるというプロジェクトについて言及しています。",
       "etymology": "ラテン語の「habilitas」（適性、能力）に由来し、「再び能力を与える」という意味から、社会復帰や機能回復を支援することを意味するようになりました。",
-      "pronounciation": "/ˌriːhəˈbɪlɪteɪt/"
+      "pronounciation": "/ˌriːhəˈbɪlɪteɪt/",
+      "scriptContext": "Raj: It’s pretty cool, they’ve got me in with a guy who’s doing something about hunger in Indonesia, and a psychotherapist who’s using dolphins to rehabilitate prisoners, and Ellen Page, star of the charming independent film Juno.",
+      "scriptContextTranslation": "Raj: すごいだろ、インドネシアの飢餓問題に取り組んでいる人や、イルカを使って囚人を更生させる精神療法医、それに魅力的な自主映画『Juno』のスター、エレン・ペイジと一緒に載るんだ。"
     },
     {
       "id": 8,
@@ -111,7 +125,9 @@
       "correctAnswer": "特別賞",
       "explanation": "「honorable mention」は、主要な賞には及ばないものの、特筆に値する業績に対して与えられる賞賛や言及を意味します。ここでは、ハワードがラージの業績に貢献したことに対する評価を求めています。",
       "etymology": "主要な賞には及ばないものの、努力や成果を認め、言及する価値があるという行為から来ています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Do I get an honourable mention for designing the telescope camera mounting bracket you used.",
+      "scriptContextTranslation": "Howard: 俺が設計した望遠鏡カメラの取り付け金具のことは少しも触れてくれないのかよ。"
     },
     {
       "id": 9,
@@ -125,7 +141,9 @@
       "correctAnswer": "心が温まる",
       "explanation": "「heartwarming」は、心が温まるような、感動的なという意味です。ここでは、ラージの個人的な物語が感動的であることを指しています。",
       "etymology": "心が温まるような感情や出来事が、文字通り心臓（heart）を温める（warm）ように感じられることから来ています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Sorry, it’s not part of my heartwarming and personal narrative, in which a humble boy from New Delhi overcame poverty and prejudice and journeyed to America to reach for the stars.",
+      "scriptContextTranslation": "Raj: 悪いけど、それは俺の心温まる個人的な物語の一部じゃないんだ。ニューデリー出身の謙虚な少年が貧困と偏見を乗り越え、アメリカに渡って星を目指すっていうね。"
     },
     {
       "id": 10,
@@ -139,7 +157,9 @@
       "correctAnswer": "物語",
       "explanation": "「narrative」は、物語や話、語り口という意味です。ここでは、ラージの成功物語が雑誌の記事として語られることを指しています。",
       "etymology": "ラテン語の「narrare」（語る、物語る）に由来し、物語や話、語り口という意味を持つようになりました。",
-      "pronounciation": "/ˈnærətɪv/"
+      "pronounciation": "/ˈnærətɪv/",
+      "scriptContext": "Raj: Sorry, it’s not part of my heartwarming and personal narrative, in which a humble boy from New Delhi overcame poverty and prejudice and journeyed to America to reach for the stars.",
+      "scriptContextTranslation": "Raj: 悪いけど、それは俺の心温まる個人的な物語の一部じゃないんだ。ニューデリー出身の謙虚な少年が貧困と偏見を乗り越え、アメリカに渡って星を目指すっていうね。"
     },
     {
       "id": 11,
@@ -153,7 +173,9 @@
       "correctAnswer": "産婦人科医",
       "explanation": "「gynaecologist」は、女性の生殖器系の病気を専門とする医師、産婦人科医を意味します。ここでは、ラージの父親の職業を指しています。",
       "etymology": "ギリシャ語の「gynē」（女性）と「-logia」（学問）を組み合わせた言葉で、女性の病気を専門とする医師を意味します。",
-      "pronounciation": "/ˌɡaɪnɪˈkɒlədʒɪst/"
+      "pronounciation": "/ˌɡaɪnɪˈkɒlədʒɪst/",
+      "scriptContext": "Howard: Poverty? Your father’s a gynaecologist, he drives a Bentley.",
+      "scriptContextTranslation": "Howard: 貧困？お前の父親は婦人科医で、ベントレーに乗ってるじゃないか。"
     },
     {
       "id": 12,
@@ -167,7 +189,9 @@
       "correctAnswer": "専門家評価",
       "explanation": "「peer review」は、専門家が同分野の研究や業績を評価することを意味します。ここでは、People誌の記事が科学的な評価に基づかないことを指摘しています。",
       "etymology": "同じ分野の専門家（peer）が、研究内容や業績を評価（review）することから来ています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I’m confused. Was there some sort of peer review committee to determine which scientists would be included?",
+      "scriptContextTranslation": "Sheldon: 混乱します。どの科学者を載せるか決める査読委員会みたいなものはあったんですか？"
     },
     {
       "id": 13,
@@ -181,7 +205,9 @@
       "correctAnswer": "資格",
       "explanation": "「credentials」は、資格、経歴、実績などを意味します。ここでは、People誌の編集者の資格について疑問を呈しています。",
       "etymology": "中世ラテン語の「credentia」（信用、信任）に由来し、資格や実績を証明するものを指すようになりました。",
-      "pronounciation": "/krɪˈdenʃəlz/"
+      "pronounciation": "/krɪˈdenʃəlz/",
+      "scriptContext": "Sheldon: Yeah, but exactly who are these people? What are their credentials, how are they qualified, what makes accidentally noticing a hunk of rock that’s been traipsing around the solar system for billions of years more noteworthy than any other scientific accomplishment made by someone under thirty?",
+      "scriptContextTranslation": "Sheldon: ええ、しかし正確には誰のことですか？彼らの資格は何ですか？どのように資格を得たのですか？何が、たまたま数十億年もの間太陽系をさまよっている岩の塊に気づいたことを、30歳未満の誰かによる他の科学的成果よりも注目に値するものにしているのですか？"
     },
     {
       "id": 14,
@@ -195,7 +221,9 @@
       "correctAnswer": "注目に値する",
       "explanation": "「noteworthy」は、注目に値する、特筆すべきという意味です。ここでは、ラージの発見が他の科学的成果よりも優れているのか疑問を呈しています。",
       "etymology": "注目（note）に値する（worthy）という意味から、特筆すべき、注目に値するという意味になりました。",
-      "pronounciation": "/ˈnoʊtwɜːrði/"
+      "pronounciation": "/ˈnoʊtwɜːrði/",
+      "scriptContext": "Sheldon: Yeah, but exactly who are these people? What are their credentials, how are they qualified, what makes accidentally noticing a hunk of rock that’s been traipsing around the solar system for billions of years more noteworthy than any other scientific accomplishment made by someone under thirty?",
+      "scriptContextTranslation": "Sheldon: ええ、しかし正確には誰のことですか？彼らの資格は何ですか？どのように資格を得たのですか？何が、たまたま数十億年もの間太陽系をさまよっている岩の塊に気づいたことを、30歳未満の誰かによる他の科学的成果よりも注目に値するものにしているのですか？"
     },
     {
       "id": 15,
@@ -209,7 +237,9 @@
       "correctAnswer": "歩き回る",
       "explanation": "「traipse」は、特に目的もなく、または疲れて歩き回ることを意味します。ここでは、小惑星が太陽系をさまよっている様子を表しています。",
       "etymology": "「traipse」は語源不明ですが、古英語の「treppan」（踏む）に関連があると考えられています。目的もなく、または疲れて歩き回る様子を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yeah, but exactly who are these people? What are their credentials, how are they qualified, what makes accidentally noticing a hunk of rock that’s been traipsing around the solar system for billions of years more noteworthy than any other scientific accomplishment made by someone under thirty?",
+      "scriptContextTranslation": "Sheldon: ええ、しかし正確には誰のことですか？彼らの資格は何ですか？どのように資格を得たのですか？何が、たまたま数十億年もの間太陽系をさまよっている岩の塊に気づいたことを、30歳未満の誰かによる他の科学的成果よりも注目に値するものにしているのですか？"
     },
     {
       "id": 16,
@@ -223,7 +253,9 @@
       "correctAnswer": "注釈",
       "explanation": "「annotation」は、注釈、解説、メモなどを意味します。ここでは、シェルドンがホワイトボードに書き込んでいる内容を指します。",
       "etymology": "ラテン語の「annotare」（書き込む、注釈する）に由来し、文書や図などに書き込まれた注釈や解説を意味するようになりました。",
-      "pronounciation": "/ˌænəˈteɪʃənz/"
+      "pronounciation": "/ˌænəˈteɪʃənz/",
+      "scriptContext": "Scene: Sheldon’s office. He is making annotations on his board.",
+      "scriptContextTranslation": "Scene: シェルドンのオフィス。彼はボードに書き込みをしている。"
     },
     {
       "id": 17,
@@ -237,7 +269,9 @@
       "correctAnswer": "巨大な",
       "explanation": "「colossal」は、巨大な、並外れたという意味です。ここでは、ハワードがシェルドンの態度を非難する際に使われています。",
       "etymology": "ロドス島の巨像（Colossus of Rhodes）に由来し、非常に大きい、巨大なという意味を持つようになりました。",
-      "pronounciation": "/kəˈlɒsl/"
+      "pronounciation": "/kəˈlɒsl/",
+      "scriptContext": "Howard: You were a colossal ass-hat.",
+      "scriptContextTranslation": "Howard: あんたはとんでもないクソ野郎だった。"
     },
     {
       "id": 18,
@@ -251,7 +285,9 @@
       "correctAnswer": "愚か者",
       "explanation": "「ass-hat」は、非常に不快な人、愚かな人を指す侮辱的なスラングです。ここでは、ハワードがシェルドンの無神経さを非難するために使っています。",
       "etymology": "「ass」は尻を意味する侮辱的な言葉、「hat」は帽子。頭に尻を被っているような愚かさを表現するスラングです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: You were a colossal ass-hat.",
+      "scriptContextTranslation": "Howard: あんたはとんでもないクソ野郎だった。"
     },
     {
       "id": 19,
@@ -265,7 +301,9 @@
       "correctAnswer": "反対する",
       "explanation": "「beg to differ」は、丁寧に反対意見を述べる際に使われる表現です。ここでは、シェルドンがハワードの意見に同意しないことを示しています。",
       "etymology": "相手の意見を尊重しつつ、丁寧に「違う意見を持っています」と伝えるための婉曲表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh! No, I beg to differ. Of the three of us, I was by far the most supportive.",
+      "scriptContextTranslation": "Sheldon: おや！それは承服しかねます。私たち3人の中で、私が一番協力的だったはずです。"
     },
     {
       "id": 20,
@@ -279,7 +317,9 @@
       "correctAnswer": "ハードルを下げる",
       "explanation": "「lower the bar」は、基準や期待値を下げるという意味です。ここでは、ラージの友人たちが彼の業績を安易に褒めることで、彼の成長を妨げるとシェルドンが考えています。",
       "etymology": "バーの高さを下げることで、より簡単にクリアできるようになることから、基準や期待値を下げるという意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: How will Raj ever reach true greatness if his friends lower the bar for him? When I was eleven, my sister bought our father a “world’s greatest dad” coffee mug, and frankly the man coasted until the day he died.",
+      "scriptContextTranslation": "Sheldon: 友達が彼のためにハードルを下げてしまっては、ラージはどのようにして真の偉業を達成できるのでしょうか？私が11歳の時、姉が父に「世界一の父親」と書かれたコーヒーマグを買ってあげたのですが、率直に言って、父は死ぬまでダラダラと過ごしました。"
     },
     {
       "id": 21,
@@ -293,7 +333,9 @@
       "correctAnswer": "惰性で進んだ",
       "explanation": "「coast」は、楽に進む、惰性で進むという意味です。ここでは、父親が「最高の父親」マグカップをもらった後、努力を怠ったことを指しています。",
       "etymology": "坂道を下る際に、漕がずに楽に進む様子から、努力をせずに楽々と進む、または現状維持に甘んじるという意味で使われます。",
-      "pronounciation": "/ˈkoʊstɪd/"
+      "pronounciation": "/ˈkoʊstɪd/",
+      "scriptContext": "Sheldon: How will Raj ever reach true greatness if his friends lower the bar for him? When I was eleven, my sister bought our father a “world’s greatest dad” coffee mug, and frankly the man coasted until the day he died.",
+      "scriptContextTranslation": "Sheldon: 友達が彼のためにハードルを下げてしまっては、ラージはどのようにして真の偉業を達成できるのでしょうか？私が11歳の時、姉が父に「世界一の父親」と書かれたコーヒーマグを買ってあげたのですが、率直に言って、父は死ぬまでダラダラと過ごしました。"
     },
     {
       "id": 22,
@@ -307,7 +349,9 @@
       "correctAnswer": "見下し",
       "explanation": "「condescension」は、見下すような態度、恩着せがましい態度を意味します。ここでは、シェルドンの態度が他人を見下しているように感じられることを指しています。",
       "etymology": "ラテン語の「condescendere」（降りてくる、謙遜する）に由来しますが、実際には相手を見下すような態度を表す言葉として使われます。",
-      "pronounciation": "/ˌkɒndɪˈsenʃən/"
+      "pronounciation": "/ˌkɒndɪˈsenʃən/",
+      "scriptContext": "Leonard: Not really, it’s what you and I would call condescension.",
+      "scriptContextTranslation": "Leonard: いや、実際には違うな。僕らが言うところの「見下し」だよ。"
     },
     {
       "id": 23,
@@ -321,7 +365,9 @@
       "correctAnswer": "正直に言って",
       "explanation": "「frankly」は、率直に、正直に言ってという意味です。自分の意見や感情を率直に述べるときに使われます。",
       "etymology": "古フランス語の「franc」（自由な、率直な）に由来し、自分の考えや感情を率直に述べる様子を表します。",
-      "pronounciation": "/ˈfræŋkli/"
+      "pronounciation": "/ˈfræŋkli/",
+      "scriptContext": "Sheldon: How will Raj ever reach true greatness if his friends lower the bar for him? When I was eleven, my sister bought our father a “world’s greatest dad” coffee mug, and frankly the man coasted until the day he died.",
+      "scriptContextTranslation": "Sheldon: 友達が彼のためにハードルを下げてしまっては、ラージはどのようにして真の偉業を達成できるのでしょうか？私が11歳の時、姉が父に「世界一の父親」と書かれたコーヒーマグを買ってあげたのですが、率直に言って、父は死ぬまでダラダラと過ごしました。"
     },
     {
       "id": 24,
@@ -335,7 +381,9 @@
       "correctAnswer": "注目する",
       "explanation": "ここでは、People magazineが選んだ「30歳未満の注目すべき人物」を指しています。将来の活躍が期待される人物を意味します。",
       "etymology": "将来の活躍を「見守る」「注目する」という意味合いから、将来有望な人物を指す際に使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Or as I called it, Planet Bollywood. Anyway, because of my discovery, People magazine is naming me one of their thirty under-30 to watch.",
+      "scriptContextTranslation": "Raj: 俺が勝手に名付けた「惑星ボリウッド」だよ。とにかく、俺の発見のおかげで、People誌が俺を「30歳以下の注目すべき30人」に選んだんだ。"
     },
     {
       "id": 25,
@@ -349,7 +397,9 @@
       "correctAnswer": "固定概念を打ち破る",
       "explanation": "「preconception」は先入観や固定観念という意味です。「challenge the preconceptions」は、既存の考え方や常識に疑問を投げかけ、新しい視点や解決策を探ることを意味します。",
       "etymology": "「preconception」は、前もって（pre-）抱いている概念（conception）という意味です。それに挑戦する（challenge）ということは、固定観念を打ち破ることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Thirty visionaries under thirty years of age to watch as they challenge the preconceptions of their fields.",
+      "scriptContextTranslation": "Raj: それぞれの分野の先入観に挑戦する30歳以下の30人の先見の明がある人たちをウォッチするんだ。"
     },
     {
       "id": 26,
@@ -363,7 +413,9 @@
       "correctAnswer": "我慢する",
       "explanation": "「grinding on」は、不快な状況や出来事を辛抱強く耐え忍ぶという意味です。特に、それが継続的であったり、精神的に負担が大きい場合に用いられます。\n\n例：The constant noise from the construction site was really grinding on my nerves. (工事現場からの絶え間ない騒音は、本当に神経に障った。)",
       "etymology": "「grind」は、臼で穀物を挽くように、何かを繰り返し擦り付けるという意味です。それが継続することで、神経をすり減らすような、耐え難い状況を表すようになりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Well then fake it. Look at me, I could be grinding on the fact that without my stabilizing telescope mount he never would have found that stupid little clump of cosmic schmutz, but I’m bigger than that.",
+      "scriptContextTranslation": "Howard: じゃあ、喜んでるフリしろよ。俺を見てみろ。俺の安定化望遠鏡マウントがなかったら、あんなちっぽけな宇宙のゴミなんて見つけられなかったのに、俺はそんなこと気にしないくらい大人だ。"
     },
     {
       "id": 27,
@@ -377,7 +429,9 @@
       "correctAnswer": "宇宙の塵の塊",
       "explanation": "「cosmic schmutz」は、宇宙空間に存在する取るに足らない、汚らしい物質の塊を指す、ややユーモラスな表現です。「schmutz」はドイツ語由来で、「汚れ」や「ゴミ」といった意味合いを持ちます。\n\n例：He discovered a minor clump of cosmic schmutz, hardly a groundbreaking discovery. (彼は宇宙の塵の小さな塊を発見したが、画期的な発見とは言えない。)",
       "etymology": "「cosmic」は宇宙の、「schmutz」はドイツ語で「汚れ、ゴミ」を意味します。宇宙に漂う取るに足らない塵やゴミの塊を指す、ユーモラスな表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Well then fake it. Look at me, I could be grinding on the fact that without my stabilizing telescope mount he never would have found that stupid little clump of cosmic schmutz, but I’m bigger than that.",
+      "scriptContextTranslation": "Howard: じゃあ、喜んでるフリしろよ。俺を見てみろ。俺の安定化望遠鏡マウントがなかったら、あんなちっぽけな宇宙のゴミなんて見つけられなかったのに、俺はそんなこと気にしないくらい大人だ。"
     },
     {
       "id": 28,
@@ -391,7 +445,9 @@
       "correctAnswer": "誇張して",
       "explanation": "「exaggeratedly」は、「誇張して」「大げさに」という意味の副詞です。行動や表現が、実際よりも大きく、強く、または顕著に見えるように行われる様子を表します。\n\n例：He smiled exaggeratedly to show his enthusiasm, but it looked unnatural. (彼は熱意を示すために大げさに笑ったが、不自然に見えた。)",
       "etymology": "ラテン語の「aggerare」（積み重ねる）に由来し、実際よりも大きく見せる、強調するという意味から、誇張して、大げさにという意味になりました。",
-      "pronounciation": "/ɪɡˈzædʒəreɪtɪdli/"
+      "pronounciation": "/ɪɡˈzædʒəreɪtɪdli/",
+      "scriptContext": "Leonard: Smile. (He does, exaggeratedly.)",
+      "scriptContextTranslation": "Leonard: 笑え。（大げさに笑う）"
     },
     {
       "id": 29,
@@ -405,7 +461,9 @@
       "correctAnswer": "適している",
       "explanation": "「suited to」は、「～に適している」「～にふさわしい」という意味です。特定の目的や状況、人に合致している状態を表します。\n\n例：This office is more suited to your status. (このオフィスはあなたの地位によりふさわしい。)",
       "etymology": "「suit」は、衣服が人に似合うという意味から、人や物に適切である、ふさわしいという意味を持つようになりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Gablehauser: Well, we’ve got to get you into a better office, something more suited to your status.",
+      "scriptContextTranslation": "Gablehauser: さて、君にはもっと良いオフィスを用意しないといけないな。君の地位にふさわしいものを。"
     },
     {
       "id": 30,
@@ -419,7 +477,9 @@
       "correctAnswer": "優先権を主張する",
       "explanation": "「call dibs on」は、口頭で何かに対する優先権を主張する際に使われる口語表現です。特に、友人同士の間で、物や場所、行為などに対して使われます。\n\n例：I called dibs on the front seat! (前の席は僕が先に言った！)",
       "etymology": "起源は不明ですが、子供たちが何かを所有する権利を主張するために使っていた言葉が広まったと考えられています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 31,
@@ -433,7 +493,9 @@
       "correctAnswer": "資金を調達する",
       "explanation": "「raise a pile of money」は、多額の資金を調達するという意味です。特定の目的のために、寄付金を集めたり、投資を募ったりする状況で使われます。\n\n例：His picture in People magazine is going to raise us a pile of money. (彼のピープルマガジンの写真は、私たちに多額の資金をもたらすだろう。)",
       "etymology": "「raise」は資金を調達する、「pile」は積み重ねられたものを指し、多額のお金を積み上げるイメージから来ています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 32,
@@ -447,7 +509,9 @@
       "correctAnswer": "急いで連れて行かれた",
       "explanation": "「whisked off」は、誰かまたは何かを素早く、突然に連れ去る、または移動させるという意味です。しばしば、予期せぬ状況や特別な待遇を伴います。\n\n例：After a fantastic lunch I was whisked off to the People magazine photo shoot. (素晴らしい昼食の後、私は急いでピープルマガジンの撮影に連れて行かれた。)",
       "etymology": "「whisk」は、卵などを泡立て器で素早く混ぜる様子から、素早く連れ去る、移動させるという意味になりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: So anyway, after a fantastic lunch I was whisked off to the People magazine photo shoot… have any of you boys ever been to a photo shoot?",
+      "scriptContextTranslation": "Raj: それで、素晴らしいランチの後、ピープル誌の撮影に連れて行かれたんだ。みんな、写真撮影に行ったことはある？"
     },
     {
       "id": 33,
@@ -461,7 +525,9 @@
       "correctAnswer": "卓越した",
       "explanation": "「incandescent」は、本来は白熱光を発する、非常に明るいという意味ですが、比喩的には、非常に優秀な、才能にあふれた、輝かしいといった意味合いで使用されます。\n\n例：They're going to digitally add a supernova, they say it’s the perfect metaphor for my incandescent talent. (彼らはスーパーノヴァをデジタルで追加するつもりだ。それは私の輝かしい才能の完璧な比喩だと言っている。)",
       "etymology": "ラテン語の「incandescere」（白熱する）に由来し、白熱電球のように明るく輝く様子から、比喩的に才能や情熱が輝かしいという意味で使われます。",
-      "pronounciation": "/ˌɪnkænˈdesnt/"
+      "pronounciation": "/ˌɪnkænˈdesnt/",
+      "scriptContext": "Raj: It’s fantastic, apparently the camera loves me and I it. They shot me in front of a starry background where I posed like this. (Stares into space.) They’re going to digitally add a supernova, they say it’s the perfect metaphor for my incandescent talent.",
+      "scriptContextTranslation": "Raj: 最高だよ。どうやらカメラは僕を愛し、僕もカメラを愛しているらしい。星空をバックに撮影されたんだ。こんなポーズでね。（宇宙を見つめる）超新星をデジタルで追加するらしいよ。僕の輝かしい才能の完璧なメタファーだって。"
     },
     {
       "id": 34,
@@ -475,7 +541,9 @@
       "correctAnswer": "部下",
       "explanation": "「lackey」は、他人に盲従する召使い、手下、腰巾着といった意味合いを持つ言葉です。軽蔑的なニュアンスを含み、自らの意志を持たず、指示されたことだけを行う人を指します。\n\n例：Yes, but I’m finding that having a lackey suits me. (ああ、でも、部下がいるのが自分に合っていると気づいたんだ。)",
       "etymology": "中英語の「laki」（召使い）に由来し、他人に盲従する召使い、手下という意味で使われるようになりました。",
-      "pronounciation": "/ˈlæki/"
+      "pronounciation": "/ˈlæki/",
+      "scriptContext": "Raj: Yes, but I’m finding that having a lackey suits me.",
+      "scriptContextTranslation": "Raj: そうだけど、僕は召使いがいるのが性に合っているんだ。"
     },
     {
       "id": 35,
@@ -489,7 +557,9 @@
       "correctAnswer": "政治的に不適切",
       "explanation": "「politically incorrect」は、社会的に容認されている規範や価値観に反する、または特定の人々やグループを不快にさせる可能性のある表現や行動を指します。差別的または侮辱的な意味合いを含むことがあります。\n\n例：Oh, I’m sorry, is that politically incorrect? (ああ、ごめん、それは政治的に不適切かな？)",
       "etymology": "政治的な正しさ（political correctness）に反するという意味で、社会的に容認されている規範や価値観に反する表現や行動を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Oh, I’m sorry, is that politically incorrect? In India we just call them untouchables.",
+      "scriptContextTranslation": "Raj: ああ、ごめん。それは政治的に不適切かな？インドでは、彼らのことを不可触民と呼ぶんだ。"
     },
     {
       "id": 36,
@@ -503,7 +573,9 @@
       "correctAnswer": "特別席",
       "explanation": "「VIP section」は、Very Important Person（非常に重要な人物）のための特別席やエリアを指します。通常、一般の参加者よりも優れたサービスや設備が提供されます。\n\n例：Of course, I couldn’t get you into the VIP section, because, you know, that’s for VIPs, and you guys are just, you know, Ps. (もちろん、君たちをVIPセクションに入れることはできなかった。だって、そこはVIPのためのもので、君たちはただのPだからね。)",
       "etymology": "Very Important Person（非常に重要な人物）のための特別なエリアであることを示す言葉です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Oh, you’re welcome. Of course, I couldn’t get you into the VIP section, because, you know, that’s for VIPs, and you guys are just, you know, Ps.",
+      "scriptContextTranslation": "Raj: どういたしまして。もちろん、君たちをVIP席に入れることはできなかったよ。だって、VIP席はVIPのためのものだし、君たちはただのPだからね。"
     },
     {
       "id": 37,
@@ -517,7 +589,9 @@
       "correctAnswer": "望遠鏡の安定化マウント",
       "explanation": "「stabilizing telescope mount」は、望遠鏡を安定させるための台座や装置のことです。揺れや振動を軽減し、より鮮明な観測を可能にします。",
       "etymology": "望遠鏡（telescope）を安定させる（stabilizing）ための台（mount）であることを示しています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Well then fake it. Look at me, I could be grinding on the fact that without my stabilizing telescope mount he never would have found that stupid little clump of cosmic schmutz, but I’m bigger than that.",
+      "scriptContextTranslation": "Howard: じゃあ、喜んでるフリしろよ。俺を見てみろ。俺の安定化望遠鏡マウントがなかったら、あんなちっぽけな宇宙のゴミなんて見つけられなかったのに、俺はそんなこと気にしないくらい大人だ。"
     },
     {
       "id": 38,
@@ -531,7 +605,9 @@
       "correctAnswer": "小惑星などの天体",
       "explanation": "「planetary body」は、惑星や小惑星など、宇宙空間に存在する天体を指す一般的な用語です。",
       "etymology": "惑星（planet）のような天体（body）であることを意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Actually, 2008 NQ sub 17 is a planetary body.",
+      "scriptContextTranslation": "Raj: 実は、2008 NQ sub 17は惑星です。"
     },
     {
       "id": 39,
@@ -545,7 +621,9 @@
       "correctAnswer": "男子トイレ",
       "explanation": "「men's room」は、男性用トイレを指す一般的な表現です。",
       "etymology": "男性用（men's）の部屋（room）、つまり男性用トイレを意味する一般的な表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 40,
@@ -559,7 +637,9 @@
       "correctAnswer": "写真撮影",
       "explanation": "「photo shoot」は、プロのカメラマンによる写真撮影を指します。雑誌、広告、ポートレートなど、様々な目的で行われます。",
       "etymology": "写真（photo）を撮影する（shoot）行為を意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: So anyway, after a fantastic lunch I was whisked off to the People magazine photo shoot… have any of you boys ever been to a photo shoot?",
+      "scriptContextTranslation": "Raj: それで、素晴らしいランチの後、ピープル誌の撮影に連れて行かれたんだ。みんな、写真撮影に行ったことはある？"
     },
     {
       "id": 41,
@@ -573,7 +653,9 @@
       "correctAnswer": "隠喩",
       "explanation": "「metaphor」は、比喩の一種で、ある事物や概念を別の事物や概念を用いて表現することで、類似性や関連性を示唆する表現技法です。",
       "etymology": "ギリシャ語の「metaphora」（移転）に由来し、ある事物や概念を別の事物や概念に移し替えて表現することで、類似性や関連性を示唆する表現技法です。",
-      "pronounciation": "/ˈmetəfɔːr/"
+      "pronounciation": "/ˈmetəfɔːr/",
+      "scriptContext": "Raj: It’s fantastic, apparently the camera loves me and I it. They shot me in front of a starry background where I posed like this. (Stares into space.) They’re going to digitally add a supernova, they say it’s the perfect metaphor for my incandescent talent.",
+      "scriptContextTranslation": "Raj: 最高だよ。どうやらカメラは僕を愛し、僕もカメラを愛しているらしい。星空をバックに撮影されたんだ。こんなポーズでね。（宇宙を見つめる）超新星をデジタルで追加するらしいよ。僕の輝かしい才能の完璧なメタファーだって。"
     },
     {
       "id": 42,
@@ -587,7 +669,9 @@
       "correctAnswer": "社会的な義務",
       "explanation": "「social obligations」は、社会生活において人々が互いに期待する行動や責任を指します。挨拶、礼儀、付き合いなどが含まれます。",
       "etymology": "社会（social）における義務（obligations）を意味し、社会生活において人々が互いに期待する行動や責任を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon (still smiling): Have we at this point met our social obligations?",
+      "scriptContextTranslation": "Sheldon (まだ笑っている): 僕たちはこの時点で社交的な義務を果たしましたか？"
     },
     {
       "id": 43,
@@ -601,7 +685,9 @@
       "correctAnswer": "触れられない人々",
       "explanation": "「untouchables」は、インドの伝統的なカースト制度において、最も低い階級に属し、社会的に差別されてきた人々を指します。差別的な意味合いを持つため、使用には注意が必要です。",
       "etymology": "触れることが許されない（untouchable）人々という意味で、インドのカースト制度における最下層の人々を指します。",
-      "pronounciation": "/ʌnˈtʌtʃəblz/"
+      "pronounciation": "/ʌnˈtʌtʃəblz/",
+      "scriptContext": "Raj: Oh, I’m sorry, is that politically incorrect? In India we just call them untouchables.",
+      "scriptContextTranslation": "Raj: ああ、ごめん。それは政治的に不適切かな？インドでは、彼らのことを不可触民と呼ぶんだ。"
     },
     {
       "id": 44,
@@ -615,7 +701,9 @@
       "correctAnswer": "ふりをする",
       "explanation": "「fake it」は、「ふりをする」「見せかけを装う」という意味です。実際にはそうではない感情や態度を、表面上だけ演じることを指します。",
       "etymology": "「fake」は偽物、見せかけという意味で、「it」は状況や感情を指します。つまり、見せかけを演じる、ふりをするという意味になります。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Well then fake it. Look at me, I could be grinding on the fact that without my stabilizing telescope mount he never would have found that stupid little clump of cosmic schmutz, but I’m bigger than that.",
+      "scriptContextTranslation": "Howard: じゃあ、喜んでるフリしろよ。俺を見てみろ。俺の安定化望遠鏡マウントがなかったら、あんなちっぽけな宇宙のゴミなんて見つけられなかったのに、俺はそんなこと気にしないくらい大人だ。"
     },
     {
       "id": 45,
@@ -629,7 +717,9 @@
       "correctAnswer": "さあ、頑張って",
       "explanation": "「Come on.」は、ここでは「さあ、行こう」「頑張って」という意味合いで使われています。相手を励ましたり、促したりする際に用いられる一般的な表現です。",
       "etymology": "相手に何かを促したり、励ましたりする際に使われる一般的な表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Close enough, come on. (Knocking and entering.) Hi Raj.",
+      "scriptContextTranslation": "Leonard: まあいいや、行こう。（ノックして入る）やあ、ラージ。"
     },
     {
       "id": 46,
@@ -643,7 +733,9 @@
       "correctAnswer": "お元気ですか？",
       "explanation": "「What's up?」は、親しい間柄で使われる挨拶の言葉で、「元気？」「調子はどう？」といった意味合いです。状況によっては、「何かあったの？」という意味にもなります。",
       "etymology": "相手の状況や状態を尋ねる、カジュアルな挨拶の言葉です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 47,
@@ -657,7 +749,9 @@
       "correctAnswer": "親友",
       "explanation": "「big buddy」は、親しみを込めて相手を呼ぶ際に使われる表現で、「相棒」「親友」といった意味合いを持ちます。ここでは、GablehauserがRajに対して親近感を示すために使っています。",
       "etymology": "親しみを込めて相手を呼ぶ表現で、「相棒」「親友」といった意味合いを持ちます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Okay, big buddy. See you tonight guys. (They leave.)",
+      "scriptContextTranslation": "Raj: いいですよ、ビッグバディ。今夜会いましょう、みんな。（彼らは去る）"
     },
     {
       "id": 48,
@@ -671,7 +765,9 @@
       "correctAnswer": "星空の背景",
       "explanation": "「starry background」は、星空を背景にした状態を指します。写真撮影や舞台演出などで、宇宙や幻想的な雰囲気を演出するために用いられます。",
       "etymology": "星（starry）がたくさんある背景（background）を意味します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: It’s fantastic, apparently the camera loves me and I it. They shot me in front of a starry background where I posed like this. (Stares into space.) They’re going to digitally add a supernova, they say it’s the perfect metaphor for my incandescent talent.",
+      "scriptContextTranslation": "Raj: 最高だよ。どうやらカメラは僕を愛し、僕もカメラを愛しているらしい。星空をバックに撮影されたんだ。こんなポーズでね。（宇宙を見つめる）超新星をデジタルで追加するらしいよ。僕の輝かしい才能の完璧なメタファーだって。"
     },
     {
       "id": 49,
@@ -685,7 +781,9 @@
       "correctAnswer": "コータパッリに連絡して",
       "explanation": "「Go for Koothrappali.」は、電話の相手に対して、コータパッリに繋ぐように指示する際に使われる表現です。ビジネスシーンでよく使われます。",
       "etymology": "電話をかける相手（Koothrappali）に繋ぐように指示する表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Excuse me. Oh, it’s my assistant Trevor. Go for Koothrappali. Uh-huh.",
+      "scriptContextTranslation": "Raj: 失礼。ああ、アシスタントのトレバーだ。こちらクースラポリ。うんうん。"
     },
     {
       "id": 50,
@@ -699,7 +797,9 @@
       "correctAnswer": "あの男の子に神の祝福を",
       "explanation": "「God bless that boy」は、文字通りには「あの男の子に神の祝福を」という意味ですが、ここでは、感謝や愛情を込めて、Trevorの幸運を祈る気持ちを表しています。感嘆詞的に使われることが多い表現です。",
       "etymology": "神の祝福があらんことを祈る気持ちを表す表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Okay, just put it on my calendar but start thinking of a reason why I can’t go, alrighty? Koothrappali out. God bless that boy, I don’t know what I’d do without him.",
+      "scriptContextTranslation": "Raj: わかった。とりあえず僕のスケジュールに入れて、行けない理由を考え始めてくれる？オッケー？クースラポリ、終わり。神様、彼に祝福を。彼なしではどうしたらいいかわからない。"
     },
     {
       "id": 51,
@@ -713,7 +813,9 @@
       "correctAnswer": "誇示する",
       "explanation": "「flaunt」は、自分の持っているものや能力を、他人に見せびらかす、誇示するという意味です。しばしば、不快感や軽蔑のニュアンスを伴います。Example: He flaunted his wealth by driving around in expensive cars. (彼は高価な車を乗り回して自分の富を誇示した。)",
       "etymology": "古ノルド語の「flana」（急ぐ、突進する）に由来し、自分の持っているものや能力を、他人に見せびらかす、誇示するという意味で使われるようになりました。",
-      "pronounciation": "/flɔːnts/"
+      "pronounciation": "/flɔːnts/",
+      "scriptContext": "Sheldon: There’s a tribe in Papua New Guinea where, when a hunter flaunts his success to the rest of the village they kill him, and drive away evil spirits with a drum made of his skin. Superstitious nonsense of course, but one can see their point. (Smiles)",
+      "scriptContextTranslation": "Sheldon: パプアニューギニアのある部族では、狩人が村人に成功をひけらかすと、殺されて皮で太鼓を作られ、悪霊を追い払うんだ。迷信じみた馬鹿げた話だが、彼らの気持ちも分からなくもない。（微笑む）"
     },
     {
       "id": 52,
@@ -727,7 +829,9 @@
       "correctAnswer": "友人グループ",
       "explanation": "「posse」は、もともと「自警団」の意味ですが、ここでは友人グループ、仲間という意味で使われています。特に、一緒に行動することが多い親しい友人たちを指します。Example: He always hangs out with his posse after school. (彼はいつも放課後、仲間たちとつるんでいる。)",
       "etymology": "ラテン語の「posse」（力を持つ）に由来し、もともとは「自警団」の意味でしたが、現代では友人グループ、仲間という意味で使われます。",
-      "pronounciation": "/ˈpɒsi/"
+      "pronounciation": "/ˈpɒsi/",
+      "scriptContext": "Raj: Okay, so, Saturday night, can I count on my posse?",
+      "scriptContextTranslation": "Raj: よし、土曜の夜、仲間は期待できるかな？"
     },
     {
       "id": 53,
@@ -741,7 +845,9 @@
       "correctAnswer": "素晴らしい",
       "explanation": "「tremendous」は、非常に大きい、莫大な、素晴らしいという意味です。規模や程度が非常に大きいことを強調する際に用いられます。Example: They made a tremendous effort to complete the project on time. (彼らはプロジェクトを時間通りに完了させるために、多大な努力をした。)",
       "etymology": "ラテン語の「tremendus」（恐ろしい、畏敬の念を起こさせる）に由来し、非常に大きい、莫大な、素晴らしいという意味で使われるようになりました。",
-      "pronounciation": "/trɪˈmendəs/"
+      "pronounciation": "/trɪˈmendəs/",
+      "scriptContext": "Penny: And you guys aren’t going? I can’t believe you, Raj is celebrating a tremendous accomplishment and you’re not even going to be there to support him?",
+      "scriptContextTranslation": "Penny: それに、あなた達は行かないの？信じられない！ラージはすごいことを成し遂げたのに、応援にも行かないなんて！"
     },
     {
       "id": 54,
@@ -755,7 +861,9 @@
       "correctAnswer": "急落する",
       "explanation": "「plummet」は、急落する、垂直に落ちるという意味です。比喩的に、価格や評価などが急激に下がる場合にも使われます。Example: The stock price plummeted after the company announced its losses. (会社が損失を発表した後、株価は急落した。)",
       "etymology": "中英語の「plummet」（鉛の重り）に由来し、鉛の重りのように真っ直ぐに落ちる様子から、急落するという意味で使われるようになりました。",
-      "pronounciation": "/ˈplʌmɪtɪŋ/"
+      "pronounciation": "/ˈplʌmɪtɪŋ/",
+      "scriptContext": "Sheldon: A tremendous accomplishment would be if the planetary body he discovered were plummeting toward Earth and he exploded it with his mind.",
+      "scriptContextTranslation": "Sheldon: 偉大な功績というのは、彼が発見した天体が地球に落下してくるのを、念力で爆破するくらいのことを言うんだ。"
     },
     {
       "id": 55,
@@ -769,7 +877,9 @@
       "correctAnswer": "妊娠させる",
       "explanation": "「knock up」は、口語的な表現で、女性を妊娠させるという意味です。やや軽蔑的なニュアンスを含む場合があります。Example: He accidentally knocked her up at a party. (彼はパーティーでうっかり彼女を妊娠させてしまった。)",
       "etymology": "もともとは「ノックして起こす」という意味でしたが、俗語として女性を妊娠させるという意味で使われるようになりました。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Come on, this is huge, Raj is going to be in People magazine. And he didn’t even have to knock up one of the Spears sisters.",
+      "scriptContextTranslation": "Penny: いい加減にして！これはすごいことなのよ。ラージがピープル誌に載るのよ！しかも、ブリトニー・スピアーズの妹を妊娠させなくても！"
     },
     {
       "id": 56,
@@ -783,7 +893,9 @@
       "correctAnswer": "輝かしい",
       "explanation": "「resplendent」は、輝かしい、光り輝く、華麗なという意味です。特に、服装や装飾が美しく輝いている様子を表します。Example: She looked resplendent in her elegant evening gown. (彼女は優雅なイブニングドレスを着て、輝いて見えた。)",
       "etymology": "ラテン語の「resplendere」（再び輝く）に由来し、光り輝く、華麗なという意味で使われるようになりました。",
-      "pronounciation": "/rɪˈsplendənt/"
+      "pronounciation": "/rɪˈsplendənt/",
+      "scriptContext": "Raj: I know, I am resplendent like the noonday sun, am I not?",
+      "scriptContextTranslation": "Raj: そうだろう。僕は真昼の太陽のように輝いているだろう？"
     },
     {
       "id": 57,
@@ -797,7 +909,9 @@
       "correctAnswer": "正午",
       "explanation": "「noonday」は、正午、真昼という意味です。太陽が最も高く昇る時間帯を指します。Example: The sun was blazing at noonday. (太陽は正午に照りつけていた。)",
       "etymology": "「noon」（正午）と「day」（日）を組み合わせた言葉で、太陽が最も高く昇る時間帯、正午を意味します。",
-      "pronounciation": "/ˈnuːndeɪ/"
+      "pronounciation": "/ˈnuːndeɪ/",
+      "scriptContext": "Raj: I know, I am resplendent like the noonday sun, am I not?",
+      "scriptContextTranslation": "Raj: そうだろう。僕は真昼の太陽のように輝いているだろう？"
     },
     {
       "id": 58,
@@ -811,7 +925,9 @@
       "correctAnswer": "ばかばかしい",
       "explanation": "「redonkulous」は、「ridiculous」を強調したスラングで、非常にばかばかしい、非常識だという意味です。ユーモラスな状況で使われることが多いです。Example: That outfit is redonkulous! (その服装はありえないほどばかげている！)",
       "etymology": "「ridiculous」（ばかばかしい）を強調したスラングで、非常にばかばかしい、非常識だという意味で使われます。",
-      "pronounciation": "/rɪˈdɒŋkjʊləs/"
+      "pronounciation": "/rɪˈdɒŋkjʊləs/",
+      "scriptContext": "Raj: Nothing, I was just hoping for something a little more, you know, redonkulous.",
+      "scriptContextTranslation": "Raj: いや、別に。ただ、もう少し、その、とんでもないのを期待していたんだ。"
     },
     {
       "id": 59,
@@ -825,7 +941,9 @@
       "correctAnswer": "了解",
       "explanation": "「Okey dokey」は、「Okay」を少しユーモラスに言ったもので、了解、承知しましたという意味です。親しい間柄で使われることが多いです。Example: Okey dokey, I'll be there in five minutes. (了解、5分後に行くよ。)",
       "etymology": "「Okay」を少しユーモラスに言ったもので、了解、承知しましたという意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Okey dokey, let’s roll. Alright, it’s time to raise the roof. Oo-ooh, oo-ooh.",
+      "scriptContextTranslation": "Raj: よし、行こう。よし、盛り上げるぞ！ウォー！ウォー！"
     },
     {
       "id": 60,
@@ -839,7 +957,9 @@
       "correctAnswer": "大騒ぎする",
       "explanation": "「raise the roof」は、大騒ぎをする、盛り上がるという意味のイディオムです。パーティーやイベントなどで、非常に活気のある状態を表します。Example: Let's raise the roof tonight and celebrate! (今夜は大騒ぎして祝おう！)",
       "etymology": "パーティーなどで、屋根（roof）を突き破るほど盛り上がる様子から、大騒ぎをする、盛り上がるという意味で使われるイディオムです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Okey dokey, let’s roll. Alright, it’s time to raise the roof. Oo-ooh, oo-ooh.",
+      "scriptContextTranslation": "Raj: よし、行こう。よし、盛り上げるぞ！ウォー！ウォー！"
     },
     {
       "id": 61,
@@ -853,7 +973,9 @@
       "correctAnswer": "すねる",
       "explanation": "「sulk」は、むっつりする、ふくれる、すねるという意味です。不満や不機嫌さを態度に出して、口をきかないような状態を表します。Example: He was sulking because he didn't get the toy he wanted. (彼は欲しいおもちゃを買ってもらえなかったので、すねていた。)",
       "etymology": "語源は不明ですが、古英語の「seolcan」（弱まる、だれる）に関連があると考えられています。不満や不機嫌さを態度に出して、口をきかないような状態を表します。",
-      "pronounciation": "/sʌlk/"
+      "pronounciation": "/sʌlk/",
+      "scriptContext": "Howard: Hey, good news, you don’t have to sulk about Penny any more, look, there are hundreds of Croatian women just waiting for you to contact them.",
+      "scriptContextTranslation": "Howard: やあ、朗報だ。もうペニーのことでふさぎ込む必要はないぞ。ほら、何百人ものクロアチア人女性が君からの連絡を待ってる。"
     },
     {
       "id": 62,
@@ -867,7 +989,9 @@
       "correctAnswer": "反対",
       "explanation": "「Pass」は、ここでは「いらない」「結構です」という意味のスラングです。何かを勧められたり、提案されたりした際に、それを断る意思表示として使われます。Example: 'Want to try some of this?' - 'No, I'll pass.' (「これ試してみる？」「いや、結構です。」)",
       "etymology": "何かを勧められたり、提案されたりした際に、それを断る意思表示として使われるスラングです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Pass.",
+      "scriptContextTranslation": "Leonard: 遠慮するよ。"
     },
     {
       "id": 63,
@@ -881,7 +1005,9 @@
       "correctAnswer": "ふさぎ込む",
       "explanation": "「mope」は、ふさぎ込む、しょんぼりする、うなだれるという意味です。特に、元気がない状態や、悲しみに暮れている様子を表します。Example: He's been moping around ever since she left. (彼女が去ってから、彼はずっとふさぎ込んでいる。)",
       "etymology": "語源は不明ですが、中英語の「mopen」（ぼんやりする）に関連があると考えられています。ふさぎ込む、しょんぼりするという意味で使われます。",
-      "pronounciation": "/moʊp/"
+      "pronounciation": "/moʊp/",
+      "scriptContext": "Howard: So you’re just going to sit around here and mope while Penny is out with Doctor Apu from the Kwik-e-Mart?",
+      "scriptContextTranslation": "Howard: じゃあ、ペニーがクイック・E・マートのアプー先生と出かけてる間、ここでふさぎ込んでるつもりか？"
     },
     {
       "id": 64,
@@ -895,7 +1021,9 @@
       "correctAnswer": "睡眠時無呼吸症候群",
       "explanation": "「sleep apnoea」は、睡眠時無呼吸症候群という意味です。睡眠中に呼吸が一時的に止まる病気です。Example: He was diagnosed with sleep apnoea and now uses a CPAP machine. (彼は睡眠時無呼吸症候群と診断され、今はCPAPを使用している。)",
       "etymology": "「sleep」（睡眠）中に「apnoea」（呼吸停止）が起こる状態を表す言葉で、睡眠時無呼吸症候群を意味します。",
-      "pronounciation": "/ˌsliːp æpˈniːə/"
+      "pronounciation": "/ˌsliːp æpˈniːə/",
+      "scriptContext": "Leonard: Let’s just eat so I can get to bed. With any luck tonight will be the night my sleep apnoea kills me.",
+      "scriptContextTranslation": "Leonard: とにかく飯食って寝よう。運が良ければ今夜、睡眠時無呼吸症候群で死ねるかもしれない。"
     },
     {
       "id": 65,
@@ -909,7 +1037,9 @@
       "correctAnswer": "さいの目切り",
       "explanation": "「dice」は、さいの目切りにするという意味です。料理のレシピなどでよく使われる表現です。Example: Dice the vegetables into small cubes. (野菜を小さなさいの目切りにする。)",
       "etymology": "「dice」（さいころ）のように、野菜などをさいの目切りにすることを意味します。",
-      "pronounciation": "/daɪst/"
+      "pronounciation": "/daɪst/",
+      "scriptContext": "Sheldon: Did you remember to ask for the chicken with broccoli to be diced not shredded?",
+      "scriptContextTranslation": "Sheldon: ブロッコリーと鶏肉の炒め物は、細切りじゃなくて角切りにするように頼んだ？"
     },
     {
       "id": 66,
@@ -923,7 +1053,9 @@
       "correctAnswer": "細かく切られた",
       "explanation": "「shredded」は、細かく切られた、千切りにされたという意味です。特に、野菜や肉などを細長く切った状態を指します。Example: Shredded carrots are often used in salads. (千切りキャロットはサラダによく使われる。)",
       "etymology": "「shred」（細かく切る）された状態を表し、野菜や肉などを細長く切った状態を指します。",
-      "pronounciation": "/ˈʃredɪd/"
+      "pronounciation": "/ˈʃredɪd/",
+      "scriptContext": "Sheldon: Did you remember to ask for the chicken with broccoli to be diced not shredded?",
+      "scriptContextTranslation": "Sheldon: ブロッコリーと鶏肉の炒め物は、細切りじゃなくて角切りにするように頼んだ？"
     },
     {
       "id": 67,
@@ -937,7 +1069,9 @@
       "correctAnswer": "述べる",
       "explanation": "「specify」は、具体的に述べる、明示するという意味です。詳細な情報を伝えたい時に使われます。Example: The contract specifies the exact amount to be paid. (契約書には支払われる正確な金額が明記されている。)",
       "etymology": "ラテン語の「species」（種類、特定）に由来し、特定の種類を明確に述べるという意味から、具体的に述べる、明示するという意味で使われるようになりました。",
-      "pronounciation": "/ˈspesɪfaɪz/"
+      "pronounciation": "/ˈspesɪfaɪz/",
+      "scriptContext": "Sheldon: Even though the menu description specifies shredded?",
+      "scriptContextTranslation": "Sheldon: メニューには細切りって書いてあるのに？"
     },
     {
       "id": 68,
@@ -951,7 +1085,9 @@
       "correctAnswer": "低ナトリウム",
       "explanation": "「low sodium」は、低ナトリウム、減塩という意味です。健康志向の食品などでよく見られる表示です。Example: This soup is low sodium. (このスープは減塩です。)",
       "etymology": "ナトリウム（sodium）が少ない（low）という意味で、減塩であることを示します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Did you pick up the low sodium soy sauce from the market?",
+      "scriptContextTranslation": "Sheldon: スーパーで減塩醤油は買ってきた？"
     },
     {
       "id": 69,
@@ -965,7 +1101,9 @@
       "correctAnswer": "追い払う",
       "explanation": "「drive away」は、追い払う、追い出すという意味です。物理的な意味だけでなく、比喩的にも使われます。Example: The loud noise drove away the birds. (大きな音で鳥は追い払われた。)",
       "etymology": "運転して（drive）遠ざける（away）という意味から、追い払う、追い出すという意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: There’s a tribe in Papua New Guinea where, when a hunter flaunts his success to the rest of the village they kill him, and drive away evil spirits with a drum made of his skin. Superstitious nonsense of course, but one can see their point. (Smiles)",
+      "scriptContextTranslation": "Sheldon: パプアニューギニアのある部族では、狩人が村人に成功をひけらかすと、殺されて皮で太鼓を作られ、悪霊を追い払うんだ。迷信じみた馬鹿げた話だが、彼らの気持ちも分からなくもない。（微笑む）"
     },
     {
       "id": 70,
@@ -979,7 +1117,9 @@
       "correctAnswer": "期待する",
       "explanation": "「count on」は、頼る、当てにする、期待するという意味です。誰かや何かが自分の期待通りに行動してくれると信じている状態を表します。Example: You can always count on me to be there for you. (いつでも私を頼っていいよ。)",
       "etymology": "頼りにして数を数える（count）ことができるという意味から、頼る、当てにする、期待するという意味で使われます。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Okay, so, Saturday night, can I count on my posse?",
+      "scriptContextTranslation": "Raj: よし、土曜の夜、仲間は期待できるかな？"
     },
     {
       "id": 71,
@@ -993,7 +1133,9 @@
       "correctAnswer": "参加できない",
       "explanation": "「make it」は、ここでは「間に合う」「都合がつく」「参加できる」という意味です。予定やイベントに参加できるかどうかを尋ねる際によく使われます。否定形「can't make it」は「参加できない」という意味になります。Example: I can't make it to the meeting tomorrow. (明日の会議には参加できません。)",
       "etymology": "予定の場所にたどり着く、間に合うという意味から、ここでは「参加できない」という意味で使われています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Howard: Gee, I’d love to Raj, but I can’t make it.",
+      "scriptContextTranslation": "Howard: ああ、ラージ、行きたいのは山々だけど、無理なんだ。"
     },
     {
       "id": 72,
@@ -1007,7 +1149,9 @@
       "correctAnswer": "光栄",
       "explanation": "「honoured」は、光栄に思う、名誉に思うという意味です。何かを依頼されたり、招待されたりした際に、感謝と喜びを表現する言葉として使われます。Example: I am honoured to be invited to speak at the conference. (会議で講演する機会をいただき、光栄に思います。)",
       "etymology": "名誉（honour）を与えられた、光栄に思うという意味です。",
-      "pronounciation": "/ˈɒnəd/"
+      "pronounciation": "/ˈɒnəd/",
+      "scriptContext": "Penny: Of course I would, I would be honoured.",
+      "scriptContextTranslation": "Penny: もちろんよ！光栄だわ。"
     },
     {
       "id": 73,
@@ -1021,7 +1165,9 @@
       "correctAnswer": "身を乗り出す",
       "explanation": "「lean over」は、身を乗り出す、体を傾けるという意味です。何かを見たり、話しかけたりするために、体を前に傾ける動作を表します。Example: He leaned over to whisper something in her ear. (彼は彼女の耳に何かをささやくために身を乗り出した。)",
       "etymology": "傾く（lean）ように、相手の方へ体を向ける様子を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: Now. (They all get up and leave. Raj looks around himself, then leans over to the next table.)",
+      "scriptContextTranslation": "Leonard: 今だ。（皆立ち去る。ラージは辺りを見回し、隣のテーブルに身を乗り出す）"
     },
     {
       "id": 74,
@@ -1035,7 +1181,9 @@
       "correctAnswer": "電話して",
       "explanation": "「call me when」は、「〜の時に電話して」という意味です。特定の状況になったら連絡してほしいという意思を伝える際に使われます。Example: Call me when you get home safely. (無事に家に帰ったら電話してね。)",
       "etymology": "〜の時に電話をかけて（call）ほしいという意味です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Charlie Sheen (turning round): Yeah, call me when you’re on the cover.",
+      "scriptContextTranslation": "チャーリー・シーン (振り返って): ああ、表紙になったら呼んでくれ。"
     },
     {
       "id": 75,
@@ -1049,7 +1197,9 @@
       "correctAnswer": "パーティーを始める",
       "explanation": "「get this party started」は、「パーティーを始めよう」「盛り上がろう」という意味のイディオムです。パーティーやイベントを始める際に、場を盛り上げるために使われます。Example: Alright everyone, let's get this party started! (さあ皆さん、パーティーを始めましょう！)",
       "etymology": "パーティーを始める（start）ように、場を盛り上げるために使われる表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj (leaving, singing): I’m coming up so you better get this party started.",
+      "scriptContextTranslation": "Raj: (歌いながら去る) 盛り上がって行こうぜ！"
     },
     {
       "id": 76,
@@ -1063,7 +1213,9 @@
       "correctAnswer": "粉砕された",
       "explanation": "「shredded」は、細かく切り刻まれた、ばらばらにされたという意味です。この文脈では、チキンが細かく刻まれている状態を指しています。物理的なものだけでなく、書類などが細断されている状況にも使われます。",
       "etymology": "「shred」は細かく切り刻むという意味で、ここではチキンが細かく刻まれている状態を指します。",
-      "pronounciation": "/ˈʃredɪd/"
+      "pronounciation": "/ˈʃredɪd/",
+      "scriptContext": "Sheldon: Did you remember to ask for the chicken with broccoli to be diced not shredded?",
+      "scriptContextTranslation": "Sheldon: ブロッコリーと鶏肉の炒め物は、細切りじゃなくて角切りにするように頼んだ？"
     },
     {
       "id": 77,
@@ -1077,7 +1229,9 @@
       "correctAnswer": "性交",
       "explanation": "「intercourse」は性交を意味する言葉ですが、ややフォーマルな響きがあります。日常会話では「sex」の方が一般的です。ここでは、クースラポリとペニーが性的な関係を持つ可能性について話しています。",
       "etymology": "「inter-」（間の）と「course」（流れ、経過）を組み合わせた言葉で、性的な関係を持つことを意味します。",
-      "pronounciation": "/ˈɪntərkɔːrs/"
+      "pronounciation": "/ˈɪntərkɔːrs/",
+      "scriptContext": "Sheldon: Were you distracted by the possibility that Koothrappali might have intercourse with Penny tonight?",
+      "scriptContextTranslation": "Sheldon: クースラポリが今夜ペニーと性交する可能性に気を取られてたのか？"
     },
     {
       "id": 78,
@@ -1091,7 +1245,9 @@
       "correctAnswer": "思い出す",
       "explanation": "「bring to mind」は、何かを思い出させる、連想させるという意味のイディオムです。過去の経験や記憶が、現在の状況と関連付けられる際に使われます。例文: This song brings to mind my high school days. (この歌は私の高校時代を思い出させる。)",
       "etymology": "心（mind）に何かを呼び起こす（bring）という意味から、思い出す、連想させるという意味で使われるイディオムです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 79,
@@ -1105,7 +1261,9 @@
       "correctAnswer": "細長い地域",
       "explanation": "「panhandle」は、フライパンの取っ手のように細長く突き出た地域を指します。アメリカ合衆国には、テキサス州やオクラホマ州などに「Panhandle」と呼ばれる地域があります。ここでは、シェルドンの故郷がそのような地域にあることを指しています。",
       "etymology": "フライパン（pan）の取っ手（handle）のように細長く突き出た地域を指します。",
-      "pronounciation": "/ˈpænhændl/"
+      "pronounciation": "/ˈpænhændl/",
+      "scriptContext": "Howard: Oh goody, more tales from the panhandle.",
+      "scriptContextTranslation": "Howard: おや、パンハンドル地方の話ですか。"
     },
     {
       "id": 80,
@@ -1119,7 +1277,9 @@
       "correctAnswer": "皮肉が通じない",
       "explanation": "「irony impaired」は、皮肉やアイロニーを理解できない、または認識できないことを指す表現です。ここでは、ハワードが皮肉を理解できないことをからかっています。ユーモラスな文脈で使われることが多いです。",
       "etymology": "皮肉（irony）を理解する能力が損なわれている（impaired）という意味で、皮肉が通じないことをユーモラスに表現した言葉です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Leonard: He’s irony impaired, just move on.",
+      "scriptContextTranslation": "Leonard: 彼は皮肉が理解できないんだ。話を進めて。"
     },
     {
       "id": 81,
@@ -1133,7 +1293,9 @@
       "correctAnswer": "予期せぬ死",
       "explanation": "「untimely demise」は、時期尚早な死、予期せぬ死という意味です。ここでは、猫のラッキーが不慮の事故で亡くなったことを指しています。「demise」は、死や終焉を意味するフォーマルな言葉です。例文: The untimely demise of the project led to significant losses. (そのプロジェクトの予期せぬ終焉は、大きな損失につながった。)",
       "etymology": "時期尚早な（untimely）死（demise）という意味で、予期せぬ死や終焉を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: While others mourned Lucky, I realised his untimely demise provided me with the opportunity to replace him with something more suited to my pet needs. A faithful companion that I could snuggle with at night, and yet would be capable of killing upon telepathic command.",
+      "scriptContextTranslation": "Sheldon: 他の人がラッキーを悼む中、私は彼の早すぎる死が、私のペットのニーズにより適した何かと彼を置き換える機会を与えてくれたことに気づいた。夜に寄り添える忠実な仲間でありながら、テレパシーによる命令で殺すことができるような。"
     },
     {
       "id": 82,
@@ -1147,7 +1309,9 @@
       "correctAnswer": "意思伝達による命令",
       "explanation": "「telepathic command」は、テレパシーによる命令、つまり言葉を使わずに意思を伝えて命令することを指します。ここでは、シェルドンが想像する理想のペットが、テレパシーで命令に従うことを意味しています。SFやファンタジーの世界でよく使われる概念です。",
       "etymology": "テレパシー（telepathic）による命令（command）という意味で、言葉を使わずに意思を伝えて命令することを指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: While others mourned Lucky, I realised his untimely demise provided me with the opportunity to replace him with something more suited to my pet needs. A faithful companion that I could snuggle with at night, and yet would be capable of killing upon telepathic command.",
+      "scriptContextTranslation": "Sheldon: 他の人がラッキーを悼む中、私は彼の早すぎる死が、私のペットのニーズにより適した何かと彼を置き換える機会を与えてくれたことに気づいた。夜に寄り添える忠実な仲間でありながら、テレパシーによる命令で殺すことができるような。"
     },
     {
       "id": 83,
@@ -1161,7 +1325,9 @@
       "correctAnswer": "平凡な",
       "explanation": "「pedestrian」は、平凡な、ありふれた、つまらないという意味です。ここでは、シェルドンが「子犬」という選択肢を、ありきたりでつまらないものだと考えていることを表しています。例文: The movie was visually stunning, but the plot was pedestrian. (その映画は映像的には素晴らしかったが、プロットは平凡だった。)",
       "etymology": "ラテン語の「pedester」（徒歩の）に由来し、徒歩で移動する人、つまり歩行者を意味しますが、比喩的に平凡な、ありふれたという意味で使われます。",
-      "pronounciation": "/pəˈdestriən/"
+      "pronounciation": "/pəˈdestriən/",
+      "scriptContext": "Sheldon: Please, no, nothing so pedestrian. I wanted a griffin.",
+      "scriptContextTranslation": "Sheldon: お願いだから、やめてくれ。そんな平凡なものはいらない。私はグリフォンが欲しかった。"
     },
     {
       "id": 84,
@@ -1175,7 +1341,9 @@
       "correctAnswer": "組換えDNA技術",
       "explanation": "「recombinant DNA technology」は、組換えDNA技術のことで、遺伝子工学の一分野です。異なる生物由来のDNAを組み合わせて、新しい遺伝子を持つ生物を作り出す技術を指します。シェルドンは、この技術を使ってグリフィンを作り出そうとしていました。",
       "etymology": "異なる生物由来のDNAを組み換える（recombinant）技術（technology）を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Irrelevant. See, I was studying recombinant DNA technology and I was confident I could create one, but my parents were unwilling to secure the necessary eagle eggs and lion semen. Course my sister got swimming lessons when she wanted them.",
+      "scriptContextTranslation": "Sheldon: 関係ない。私は組換えDNA技術を研究していて、作れると確信していたが、両親が必要なワシの卵とライオンの精液を確保することを嫌がったんだ。もちろん、妹は希望すれば水泳のレッスンを受けられた。"
     },
     {
       "id": 85,
@@ -1189,7 +1357,9 @@
       "correctAnswer": "確保する",
       "explanation": "「secure」は、確保する、手に入れるという意味です。この文脈では、必要な材料（ワシの卵とライオンの精液）を確保することを指しています。例文: The company managed to secure a lucrative contract. (その会社は、有利な契約を確保することに成功した。)",
       "etymology": "ラテン語の「securus」（安全な）に由来し、安全にする、確保するという意味で使われます。",
-      "pronounciation": "/sɪˈkjʊər/"
+      "pronounciation": "/sɪˈkjʊər/",
+      "scriptContext": "Sheldon: Irrelevant. See, I was studying recombinant DNA technology and I was confident I could create one, but my parents were unwilling to secure the necessary eagle eggs and lion semen. Course my sister got swimming lessons when she wanted them.",
+      "scriptContextTranslation": "Sheldon: 関係ない。私は組換えDNA技術を研究していて、作れると確信していたが、両親が必要なワシの卵とライオンの精液を確保することを嫌がったんだ。もちろん、妹は希望すれば水泳のレッスンを受けられた。"
     },
     {
       "id": 86,
@@ -1203,7 +1373,9 @@
       "correctAnswer": "仲間",
       "explanation": "「cohort」は、仲間、同僚、集団という意味です。ここでは、シェルドンがクースラポリの代わりに、新しい友人グループを作りたいと考えていることを表しています。例文: The study followed a cohort of patients over several years. (その研究は、数年にわたって患者の集団を追跡調査した。)",
       "etymology": "ラテン語の「cohors」（軍隊の一団）に由来し、仲間、同僚、集団という意味で使われます。",
-      "pronounciation": "/ˈkoʊhɔːrt/"
+      "pronounciation": "/ˈkoʊhɔːrt/",
+      "scriptContext": "Sheldon: My point is, if Koothrappali is moving on to a new life of shallow, undeserved fame, perhaps this is an opportunity to create a better cohort.",
+      "scriptContextTranslation": "Sheldon: 言いたいのは、もしクースラポリが浅はかで不当な名声という新しい人生に進むなら、これはより良い仲間を作る機会かもしれないということだ。"
     },
     {
       "id": 87,
@@ -1217,7 +1389,9 @@
       "correctAnswer": "アニマトロニクス",
       "explanation": "「animatronics」は、アニマトロニクスのことで、ロボット工学と特殊効果を組み合わせた技術です。映画やテーマパークなどで、リアルな動きをする人形や動物を作り出すために使われます。シェルドンは、人工知能とアニマトロニクスを組み合わせて、新しい友人を作ろうとしています。",
       "etymology": "「animation」（アニメーション）と「electronics」（電子工学）を組み合わせた言葉で、ロボット工学と特殊効果を組み合わせた技術を指します。",
-      "pronounciation": "/ˌænɪməˈtrɒnɪks/"
+      "pronounciation": "/ˌænɪməˈtrɒnɪks/",
+      "scriptContext": "Sheldon: That’s one option, but who has the time? But consider this, the Japanese, they’re doing some wonderful work with artificial intelligence, now, you combine that with some animatronics from the imagineers over at Disney, next thing you know, we’re playing Halo with a multi-lingual Abraham Lincoln.",
+      "scriptContextTranslation": "Sheldon: それも選択肢の一つだが、そんな時間がある人がいるか？しかし、考えてみてほしい。日本人は人工知能で素晴らしい仕事をしている。それをディズニーのイマジニアーズによるアニマトロニクスと組み合わせれば、気付いたときには多言語を話すエイブラハム・リンカーンとヘイローで遊んでいるだろう。"
     },
     {
       "id": 88,
@@ -1231,7 +1405,9 @@
       "correctAnswer": "病原体",
       "explanation": "「pathogen」は、病原体という意味で、ウイルス、細菌、真菌など、病気を引き起こす可能性のある微生物を指します。例文: The researchers are studying the spread of pathogens in the population. (研究者たちは、集団内での病原体の拡散を研究している。)",
       "etymology": "ギリシャ語の「pathos」（苦しみ、病気）と「-genes」（生み出すもの）を組み合わせた言葉で、病気を引き起こすもの、つまり病原体を指します。",
-      "pronounciation": "/ˈpæθədʒənz/"
+      "pronounciation": "/ˈpæθədʒənz/",
+      "scriptContext": "Sheldon: Uh, for the record, it could kill us to meet new people. They could be murderers, or the carriers of unusual pathogens, and I’m not insane, my mother had me tested.",
+      "scriptContextTranslation": "Sheldon: ええと、念のため言っておくが、新しい人に会うことは私たちを殺す可能性がある。彼らは殺人者かもしれないし、珍しい病原体のキャリアかもしれない。それに、私は正気じゃないんじゃない。母が検査を受けさせたんだ。"
     },
     {
       "id": 89,
@@ -1245,7 +1421,9 @@
       "correctAnswer": "支える",
       "explanation": "「have your back」は、誰かを支持する、擁護する、助けるという意味のイディオムです。困難な状況や問題に直面している時に、その人をサポートすることを約束する際に使われます。例文: Don't worry, I've got your back. (心配しないで、私があなたを支えるよ。)",
       "etymology": "背中（back）を守るという意味から、誰かを支持する、擁護する、助けるという意味で使われるイディオムです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 90,
@@ -1259,7 +1437,9 @@
       "correctAnswer": "ラージのアパート",
       "explanation": "「Raj Mahal」は、タージ・マハル（Taj Mahal）をもじったジョークで、ラージ（Raj）のアパートを指しています。タージ・マハルはインドにある美しい霊廟で、愛の象徴として知られています。",
       "etymology": "インドの有名な霊廟であるタージ・マハル（Taj Mahal）をもじったジョークで、ラージ（Raj）のアパートを指しています。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: Welcome to the Raj Mahal.",
+      "scriptContextTranslation": "Raj: ラージ・マハルへようこそ。"
     },
     {
       "id": 91,
@@ -1273,7 +1453,9 @@
       "correctAnswer": "恋人",
       "explanation": "「squeeze」は、恋人、愛人という意味のスラングです。ここでは、ラージがペニーを自分の恋人だと紹介しようとしていますが、ペニーはそれを否定しています。",
       "etymology": "抱きしめる、愛撫するという意味から転じて、恋人、愛人という意味のスラングとして使われます。",
-      "pronounciation": "/skwiːz/"
+      "pronounciation": "/skwiːz/",
+      "scriptContext": "Raj: Just making conversation. Mummy, daddy, I want you to meet my new squeeze, Penny.",
+      "scriptContextTranslation": "Raj: ただ会話してるだけだよ。お母さん、お父さん、僕の新しい恋人のペニーを紹介するよ。"
     },
     {
       "id": 92,
@@ -1287,7 +1469,9 @@
       "correctAnswer": "わがままに振る舞う",
       "explanation": "「sowing wild oats」は、若いうちに好きなように遊び回る、わがままに振る舞うという意味のイディオムです。特に、性的な意味合いを含むことが多いです。ここでは、ラージがペニーと恋愛関係にあるかのように振る舞っていることを、彼の父親がからかっています。例文: He's just sowing his wild oats before settling down. (彼は落ち着く前に、ただ好きなように遊び回っているだけだ。)",
       "etymology": "若い時期に、将来のことを考えずに快楽を追求する様子を、野生のオート麦（wild oats）をまくことに例えたイディオムです。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Dr Koothrappali: So, she’s not Indian, the boy’s just sowing some wild oats.",
+      "scriptContextTranslation": "クースラポリ博士：それで、彼女はインド人じゃない。息子はただの浮気だ。"
     },
     {
       "id": 93,
@@ -1301,7 +1485,9 @@
       "correctAnswer": "魅力的な女性",
       "explanation": "「hotsy-totsy」は、魅力的でセクシーな女性を指す、やや古風なスラングです。ここでは、ラージの母親がペニーを「hot」と表現する代わりに使っています。",
       "etymology": "語源は不明ですが、1920年代頃に使われたスラングで、魅力的でセクシーな女性を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Mrs Koothrappali: What if he gets her pregnant. Is this little hotsy-totsy who you want as the mother of your grandchildren.",
+      "scriptContextTranslation": "クースラポリ夫人：もし彼が彼女を妊娠させたらどうするの？このセクシーな女性を孫の母親にしたいの？"
     },
     {
       "id": 94,
@@ -1315,7 +1501,9 @@
       "correctAnswer": "料理",
       "explanation": "「cuisine」は、料理、料理法、食文化という意味です。ここでは、ラージの父親が、アメリカの「料理」（つまりアメリカの女性）を試すことを勧めていますが、それを「steady diet」（安定した食事、つまり結婚相手）にすることは勧めないと述べています。例文: French cuisine is famous for its rich sauces and delicate flavors. (フランス料理は、濃厚なソースと繊細な風味が有名です。)",
       "etymology": "フランス語に由来し、料理、料理法、食文化という意味で使われます。",
-      "pronounciation": "/kwɪˈziːn/"
+      "pronounciation": "/kwɪˈziːn/",
+      "scriptContext": "Dr Koothrappali: Look, Rajesh, I understand, you’re in America, you want to try the local cuisine. But trust me, you don’t want it for a steady diet.",
+      "scriptContextTranslation": "クースラポリ博士：いいか、ラジェシュ、分かるよ。君はアメリカにいる、地元の料理を試したいんだね。でも信じてくれ、それを常食にはしたくないだろう。"
     },
     {
       "id": 95,
@@ -1329,7 +1517,9 @@
       "correctAnswer": "元気な",
       "explanation": "「feisty」は、元気な、活発な、気性の激しいという意味です。ここでは、ラージの父親がペニーの気の強さを気に入っていることを表しています。例文: She's a feisty competitor who never gives up. (彼女は決して諦めない、元気な競争相手だ。)",
       "etymology": "語源は不明ですが、活発で元気な様子、または気性の激しい様子を表す言葉として使われます。",
-      "pronounciation": "/ˈfaɪsti/"
+      "pronounciation": "/ˈfaɪsti/",
+      "scriptContext": "Dr Koothrappali: She’s feisty. I like that.",
+      "scriptContextTranslation": "クースラポリ博士：彼女は気が強い。私はそれが好きだ。"
     },
     {
       "id": 96,
@@ -1343,7 +1533,9 @@
       "correctAnswer": "さようなら",
       "explanation": "「Namaste」は、インドやネパールで使われる挨拶の言葉で、「こんにちは」「さようなら」「おはよう」など、さまざまな意味を持ちます。ここでは、ペニーがラージの両親に別れを告げる際に使っています。尊敬と感謝の気持ちを込めて使われることが多いです。",
       "etymology": "サンスクリット語に由来し、相手に敬意を払い、感謝の気持ちを表す挨拶の言葉です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: I don’t know, maybe it’s the local cuisine. Okay, well, it’s nice to meet you, just gonna set you on down over here, and I’m going to leave so, Namaste. (Leaves, then almost immediately returns) And FYI, you’d be lucky to have me as a daughter-in-law.",
+      "scriptContextTranslation": "Penny: 分からないわ。多分地元の料理のせいよ。さて、お会いできてよかったわ。ここに置いていくわね。私は帰るから、ナマステ。（立ち去るが、すぐに戻ってくる）それと、参考までに、私を義理の娘に持てたらラッキーだわ。"
     },
     {
       "id": 97,
@@ -1357,7 +1549,9 @@
       "correctAnswer": "賛成",
       "explanation": "「thumbs up」は、親指を立てるジェスチャーで、賛成、OK、良いという意味を表します。ここでは、ラージがペニーを抱きしめたことに対する満足感を、レオナルドに伝えています。",
       "etymology": "親指を立てるジェスチャーで、賛成、OK、良いという意味を表します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, sweetie, it’s okay. (She hugs him. As she does, Leonard exits his apartment to see Penny, in bathrobe, hugging Raj who is apparently about to leave. As she goes back inside, Raj turns, smiles, and puts both thumbs up. Leonard turns, with an upset look, to Sheldon who is standing behind him. Sheldon gives him his exaggerated smile.)",
+      "scriptContextTranslation": "Penny: あら、大丈夫よ。（彼女は彼を抱きしめる。彼女がそうすると、レナードはバスローブ姿のペニーが去ろうとしているラージを抱きしめているのを見てアパートから出てくる。彼女が中に戻ると、ラージは振り返り、微笑み、両方の親指を立てる。レナードは動揺した表情で振り返り、彼の後ろに立っているシェルドンを見る。シェルドンは彼に大げさな笑顔を見せる。）"
     },
     {
       "id": 98,
@@ -1371,7 +1565,9 @@
       "correctAnswer": "ドアを通って",
       "explanation": "この文脈では「through the door」は、ドアの下の隙間から何かを通す行為を指します。この場合、ノートがドアの下から滑り込まされていることを示しています。",
       "etymology": "ドア（door）を通って（through）という意味で、ドアの下の隙間から何かを通す行為を指します。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Scene: Raj’s apartment. Raj is heard singing in a drunk voice through the door. He enters with his arm around Penny.",
+      "scriptContextTranslation": "Scene: ラージのアパート。ドア越しにラージが酔っぱらった声で歌っているのが聞こえる。彼はペニーの肩に腕を回して入ってくる。"
     },
     {
       "id": 99,
@@ -1385,7 +1581,9 @@
       "correctAnswer": "それを言って",
       "explanation": "「say it」は、何かを言葉で表現することを促す表現です。この場合、ペニーはラージに、言いたいことがあるなら手紙ではなく直接言葉で伝えるように促しています。",
       "etymology": "それを言葉で言う（say）ように促す表現です。",
-      "pronounciation": ""
+      "pronounciation": "",
+      "scriptContext": "Raj: It’s fantastic, apparently the camera loves me and I it. They shot me in front of a starry background where I posed like this. (Stares into space.) They’re going to digitally add a supernova, they say it’s the perfect metaphor for my incandescent talent.",
+      "scriptContextTranslation": "Raj: 最高だよ。どうやらカメラは僕を愛し、僕もカメラを愛しているらしい。星空をバックに撮影されたんだ。こんなポーズでね。（宇宙を見つめる）超新星をデジタルで追加するらしいよ。僕の輝かしい才能の完璧なメタファーだって。"
     },
     {
       "id": 100,
@@ -1399,7 +1597,9 @@
       "correctAnswer": "どうやら",
       "explanation": "「apparently」は、どうやら〜らしい、見たところ〜らしいという意味で、不確かな情報や推測に基づいて何かを述べる際に使われます。例文: Apparently, the meeting has been canceled. (どうやら会議はキャンセルされたらしい。)",
       "etymology": "ラテン語の「apparere」（現れる、明らかになる）に由来し、どうやら〜らしい、見たところ〜らしいという意味で使われます。",
-      "pronounciation": "/əˈpærəntli/"
+      "pronounciation": "/əˈpærəntli/",
+      "scriptContext": "Raj: It’s fantastic, apparently the camera loves me and I it. They shot me in front of a starry background where I posed like this. (Stares into space.) They’re going to digitally add a supernova, they say it’s the perfect metaphor for my incandescent talent.",
+      "scriptContextTranslation": "Raj: 最高だよ。どうやらカメラは僕を愛し、僕もカメラを愛しているらしい。星空をバックに撮影されたんだ。こんなポーズでね。（宇宙を見つめる）超新星をデジタルで追加するらしいよ。僕の輝かしい才能の完璧なメタファーだって。"
     }
   ]
 }
