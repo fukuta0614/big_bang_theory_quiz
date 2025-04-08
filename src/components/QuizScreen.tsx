@@ -46,27 +46,7 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
           }
         } else {
           const response = await fetch(`../../data/season${season}/episode${episode}/quiz.json`);
-          const originalData: QuizData = await response.json();
-
-          // --- Start: Randomly select 5 questions while preserving order ---
-          let finalQuestions = originalData.questions;
-          if (originalData.questions.length > 20) { // Check against 5
-            const allIndices = originalData.questions.map((_, index) => index);
-
-            // Fisher-Yates (Knuth) Shuffle
-            for (let i = allIndices.length - 1; i > 0; i--) {
-              const j = Math.floor(Math.random() * (i + 1));
-              [allIndices[i], allIndices[j]] = [allIndices[j], allIndices[i]];
-            }
-
-            const selectedIndices = allIndices.slice(0, 5); // Slice first 5
-            selectedIndices.sort((a, b) => a - b); // Sort indices to preserve relative order
-
-            finalQuestions = selectedIndices.map(index => originalData.questions[index]);
-          }
-          // --- End: Random selection logic ---
-
-          data = { questions: finalQuestions };
+          data = await response.json();
         }
         setQuizData(data);
       } catch (error) {
