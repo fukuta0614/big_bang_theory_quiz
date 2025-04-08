@@ -50,7 +50,7 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
 
           // --- Start: Randomly select 5 questions while preserving order ---
           let finalQuestions = originalData.questions;
-          if (originalData.questions.length > 5) { // Check against 5
+          if (originalData.questions.length > 20) { // Check against 5
             const allIndices = originalData.questions.map((_, index) => index);
 
             // Fisher-Yates (Knuth) Shuffle
