@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "lifting my spirits",
+      "options": [
+        "私の魂を持ち上げる",
+        "私を元気づける",
+        "私の荷物を持ち上げる",
+        "私の気分を悪くする"
+      ],
+      "correctAnswer": "私を元気づける",
+      "explanation": "「lift someone's spirits」は、人を元気づける、気分を明るくするという意味のイディオムです。困難な状況にある人や、悲しんでいる人を励ます際に使われます。文字通りに「精神を持ち上げる」イメージです。"
+    },
+    {
+      "id": 2,
+      "value": "rig it with",
+      "options": [
+        "それを取り除く",
+        "それで不正をする",
+        "それで操作する",
+        "それを装備する"
+      ],
+      "correctAnswer": "それを装備する",
+      "explanation": "「rig」は、不正な手段で操作するという意味もありますが、ここでは「（機械など）を装備する、仕掛ける」という意味です。「rig it with」で、「～でそれを仕掛ける」となります。例文：They rigged the boat with sails."
+    },
+    {
+      "id": 3,
+      "value": "laid up",
+      "options": [
+        "横たわる",
+        "解雇された",
+        "準備された",
+        "入院している"
+      ],
+      "correctAnswer": "入院している",
+      "explanation": "「laid up」は、病気や怪我で寝ている、または活動できない状態を指します。特に、一時的に動けない状態を表すことが多いです。例文：She was laid up with the flu for a week."
+    },
+    {
+      "id": 4,
+      "value": "run its course",
+      "options": [
+        "道を走る",
+        "終わる",
+        "続ける",
+        "新しい道を始める"
+      ],
+      "correctAnswer": "終わる",
+      "explanation": "「run its course」は、物事が自然な経過をたどり、終わりに近づく、または終わるという意味のイディオムです。病気、プロジェクト、関係など、様々な状況に使えます。例文: The doctor said the illness just had to run its course."
+    },
+    {
+      "id": 5,
+      "value": "reading the room",
+      "options": [
+        "部屋を読む",
+        "空気を読む",
+        "部屋を掃除する",
+        "本を読む"
+      ],
+      "correctAnswer": "空気を読む",
+      "explanation": "「read the room」は、その場の雰囲気や人々の感情を察知し、適切な行動をとるという意味のイディオムです。場の空気を読んで、話すべきことや避けるべきことを判断する能力を指します。"
+    },
+    {
+      "id": 6,
+      "value": "give it my all",
+      "options": [
+        "すべてを与える",
+        "全力を尽くす",
+        "諦める",
+        "少しだけ頑張る"
+      ],
+      "correctAnswer": "全力を尽くす",
+      "explanation": "「give it my all」は、全力を尽くす、できる限りのことをするという意味のイディオムです。特定のタスクや目標に対して、自分の能力を最大限に発揮することを強調します。"
+    },
+    {
+      "id": 7,
+      "value": "out of place",
+      "options": [
+        "場所がない",
+        "場違い",
+        "元の場所",
+        "新しい場所"
+      ],
+      "correctAnswer": "場違い",
+      "explanation": "「out of place」は、場違いな、不適切なという意味です。ある場所や状況にそぐわないもの、または違和感があるものを指します。例文：He felt out of place at the formal dinner."
+    },
+    {
+      "id": 8,
+      "value": "deal with",
+      "options": [
+        "取引する",
+        "対処する",
+        "隠す",
+        "無視する"
+      ],
+      "correctAnswer": "対処する",
+      "explanation": "「deal with」は、問題や状況に対処する、処理するという意味です。困難な状況や感情的な問題にも使われます。例文：How do you deal with stress?"
+    },
+    {
+      "id": 9,
+      "value": "off her feet",
+      "options": [
+        "足が不自由",
+        "忙しい",
+        "立っている",
+        "落ち着いている"
+      ],
+      "correctAnswer": "足が不自由",
+      "explanation": "「off one's feet」は、文字通りには「足が地面から離れている」ですが、病気や怪我で寝込んでいる、または非常に疲れている状態を指します。ここでは、母親が怪我で動けない状態を表しています。"
+    },
+    {
+      "id": 10,
+      "value": "crazy about",
+      "options": [
+        "怒っている",
+        "夢中になっている",
+        "嫌い",
+        "無関心"
+      ],
+      "correctAnswer": "夢中になっている",
+      "explanation": "「crazy about」は、〜に夢中になっている、〜が大好きという意味の口語的な表現です。人や物事に対して強い愛情や関心を持っていることを表します。例文：She is crazy about chocolate."
+    },
+    {
+      "id": 11,
+      "value": "what other choice do we have?",
+      "options": [
+        "他に何が欲しい？",
+        "他にどうすればいい？",
+        "選択肢がない",
+        "他に選択肢がある"
+      ],
+      "correctAnswer": "他にどうすればいい？",
+      "explanation": "「What other choice do we have?」は、「他にどうすればいいの？」という意味です。他に適切な選択肢がない状況で、ある行動を取らざるを得ないことを示唆する表現です。例文: We're out of money, what other choice do we have but to sell the car?"
+    },
+    {
+      "id": 12,
+      "value": "third world country",
+      "options": [
+        "先進国",
+        "発展途上国",
+        "第一世界",
+        "想像上の国"
+      ],
+      "correctAnswer": "発展途上国",
+      "explanation": "「third world country」は、発展途上国を指す言葉です。政治的、経済的な意味合いを含みます。ただし、近年では「developing country」や「low-income country」といった表現がより適切だとされています。"
+    },
+    {
+      "id": 13,
+      "value": "sounds like a job for",
+      "options": [
+        "仕事を探している",
+        "〜に向いている",
+        "仕事がない",
+        "仕事をやめる"
+      ],
+      "correctAnswer": "〜に向いている",
+      "explanation": "「Sounds like a job for...」は、「～にぴったりの仕事だね」という意味です。特定のスキルや特性を持つ人が、ある仕事や状況に最適であることを示唆する際に使われます。皮肉を込めて使われることもあります。"
+    },
+    {
+      "id": 14,
+      "value": "as advertised",
+      "options": [
+        "宣伝通り",
+        "宣伝しない",
+        "広告を見る",
+        "広告を出す"
+      ],
+      "correctAnswer": "宣伝通り",
+      "explanation": "「as advertised」は、宣伝通り、広告に書かれている通りという意味です。期待通りの品質や特徴を持っていることを表します。皮肉を込めて、欠点があることを認める際にも使われます。"
+    },
+    {
+      "id": 15,
+      "value": "No sense in",
+      "options": [
+        "意味がない",
+        "意味がある",
+        "感覚がない",
+        "センスがいい"
+      ],
+      "correctAnswer": "意味がない",
+      "explanation": "「No sense in」は、「～しても意味がない」「～する意味がない」という意味の口語表現です。特定の行動や試みが無駄である、または効果がないと判断される状況で使われます。例文：There's no sense in crying over spilled milk."
+    },
+    {
+      "id": 16,
+      "value": "bridge-of-nose herpes",
+      "options": [
+        "鼻のヘルペス",
+        "架け橋",
+        "新しい病気",
+        "鼻の整形"
+      ],
+      "correctAnswer": "鼻のヘルペス",
+      "explanation": "「bridge-of-nose herpes」は、鼻の付け根にできるヘルペスという意味ですが、これはSheldonが作ったジョークです。3Dメガネを共有することによる感染を避けるために、大げさな表現をしています。"
+    },
+    {
+      "id": 17,
+      "value": "I'm not finding out",
+      "options": [
+        "見つけられない",
+        "知りたくない",
+        "探している",
+        "見つけた"
+      ],
+      "correctAnswer": "知りたくない",
+      "explanation": "「I'm not finding out」は、ここでは「私は確かめたくない」「私は知りたくない」という意味で使われています。リスクを冒してまで真実を知る必要はない、というニュアンスが含まれています。"
+    },
+    {
+      "id": 18,
+      "value": "treadmill",
+      "options": [
+        "本",
+        "トレッドミル",
+        "ゲーム",
+        "料理"
+      ],
+      "correctAnswer": "トレッドミル",
+      "explanation": "「treadmill」は、ルームランナーのことです。健康維持のために室内でウォーキングやランニングをするための運動器具です。"
+    },
+    {
+      "id": 19,
+      "value": "Crushing my will to live",
+      "options": [
+        "私の生きる意志を高める",
+        "私の生きる意志を粉砕する",
+        "私の夢を叶える",
+        "私の希望を与える"
+      ],
+      "correctAnswer": "私の生きる意志を粉砕する",
+      "explanation": "「crush someone's will to live」は、人の生きる意志を打ち砕く、絶望させるという意味です。非常に大きな失望や苦痛を与える状況を表します。"
+    },
+    {
+      "id": 20,
+      "value": "HoneyBaked Ham",
+      "options": [
+        "焼いたハチミツ",
+        "ハニーベイクドハム",
+        "ハチミツ",
+        "ハム"
+      ],
+      "correctAnswer": "ハニーベイクドハム",
+      "explanation": "「HoneyBaked Ham」は、ハニーベイクドハムというブランドのハムのことです。甘いグレーズで覆われたハムで、アメリカでは人気があります。"
+    },
+    {
+      "id": 21,
+      "value": "forklift",
+      "options": [
+        "フォーク",
+        "リフト",
+        "フォークリフト",
+        "スプーン"
+      ],
+      "correctAnswer": "フォークリフト",
+      "explanation": "「forklift」は、フォークリフトのことです。重量物を持ち上げて運搬する産業車両です。ここでは、Mrs. Wolowitzを階段の上まで運ぶための比喩として使われています。"
+    },
+    {
+      "id": 22,
+      "value": "Loving person",
+      "options": [
+        "怒っている人",
+        "愛情深い人",
+        "冷たい人",
+        "無関心な人"
+      ],
+      "correctAnswer": "愛情深い人",
+      "explanation": "「loving person」は、愛情深い人、思いやりのある人を意味します。ここでは、Bernadetteを指しています。"
+    },
+    {
+      "id": 23,
+      "value": "tinkle",
+      "options": [
+        "歌う",
+        "おしっこ",
+        "笑う",
+        "泣く"
+      ],
+      "correctAnswer": "おしっこ",
+      "explanation": "「tinkle」は、幼児語で「おしっこ」を意味します。ここでは、Mrs. Wolowitzがトイレに行きたいことを婉曲的に表現しています。"
+    },
+    {
+      "id": 24,
+      "value": "nose condoms",
+      "options": [
+        "鼻のコンドーム",
+        "口のコンドーム",
+        "足のコンドーム",
+        "手のコンドーム"
+      ],
+      "correctAnswer": "鼻のコンドーム",
+      "explanation": "「nose condoms」は、鼻のコンドームという意味ですが、これはSheldonが作ったジョークです。鼻のヘルペスを避けるために、ありえないものを想像しています。"
+    },
+    {
+      "id": 25,
+      "value": "MIT-trained engineer",
+      "options": [
+        "MIT卒のエンジニア",
+        "医者",
+        "弁護士",
+        "会計士"
+      ],
+      "correctAnswer": "MIT卒のエンジニア",
+      "explanation": "「MIT-trained engineer」は、マサチューセッツ工科大学で訓練を受けたエンジニアという意味です。Howardが自分の能力を自慢するために使っています。"
+    },
+    {
+      "id": 26,
+      "value": "awkward",
+      "options": [
+        "面白い",
+        "気まずい",
+        "感動的な",
+        "幸せな"
+      ],
+      "correctAnswer": "気まずい",
+      "explanation": "「awkward」は、ぎこちない、気まずい、やりにくいといった意味を持つ形容詞です。人間関係や状況がスムーズに進まない、不快な感じを表すのに使われます。例：There was an awkward silence. (気まずい沈黙があった。)"
+    },
+    {
+      "id": 27,
+      "value": "shut me out",
+      "options": [
+        "私を無視する",
+        "私を助ける",
+        "私を招待する",
+        "私を理解する"
+      ],
+      "correctAnswer": "私を無視する",
+      "explanation": "「shut out」は、文字通りには「締め出す」という意味ですが、比喩的には「仲間に入れない」「無視する」という意味で使われます。感情的な拒絶や孤立を表す際に用いられます。例：She felt shut out from the group. (彼女はグループから締め出されたように感じた。)"
+    },
+    {
+      "id": 28,
+      "value": "gave you the right",
+      "options": [
+        "権利を与えた",
+        "許可を与えた",
+        "義務を与えた",
+        "機会を与えた"
+      ],
+      "correctAnswer": "権利を与えた",
+      "explanation": "「give someone the right」は、「誰かに権利を与える」という意味ですが、疑問形や否定形で使われることが多く、「誰があなたにそんな権利を与えたのか？」というように、相手の行動に対する非難や抗議を表します。例：What gives you the right to judge me? (誰があなたに私を判断する権利を与えたのか？)"
+    },
+    {
+      "id": 29,
+      "value": "blood on my hands",
+      "options": [
+        "手を怪我する",
+        "責任がある",
+        "幸運",
+        "濡れ衣を着せられる"
+      ],
+      "correctAnswer": "責任がある",
+      "explanation": "「have blood on one's hands」は、文字通りには「手を血で汚している」という意味ですが、比喩的には「（人の死など）重大な事態に対する責任がある」という意味で使われます。罪悪感や後悔の念を伴うことが多いです。例：The company has blood on its hands for ignoring the safety warnings. (その会社は安全警告を無視したことで責任がある。)"
+    },
+    {
+      "id": 30,
+      "value": "give up",
+      "options": [
+        "あきらめる",
+        "続ける",
+        "挑戦する",
+        "改善する"
+      ],
+      "correctAnswer": "あきらめる",
+      "explanation": "「give up」は、努力や試みをやめる、あきらめるという意味です。困難や障害に直面し、成功の見込みがないと判断した場合に使われます。例：Don't give up on your dreams. (夢をあきらめないで。)"
+    },
+    {
+      "id": 31,
+      "value": "garbage",
+      "options": [
+        "宝物",
+        "ゴミ",
+        "食事",
+        "仕事"
+      ],
+      "correctAnswer": "ゴミ",
+      "explanation": "「garbage」は、文字通りには「ゴミ」という意味ですが、比喩的には「くだらないもの」「価値のないもの」という意味で使われます。作品やアイデア、状況などを軽蔑的に表現する際に用いられます。例：That movie was complete garbage. (あの映画は完全にゴミだった。)"
+    },
+    {
+      "id": 32,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待つ",
+        "続ける",
+        "諦める"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、電話を切らずに待つという意味の他に、「ちょっと待って」「頑張って」という意味でも使われます。状況や相手を落ち着かせたり、励ましたりする際に用いられます。例：Hang on, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+    },
+    {
+      "id": 33,
+      "value": "get off my set",
+      "options": [
+        "私のセットから降りる",
+        "私の邪魔をしないで",
+        "私のセットに来てください",
+        "私のセットを手伝ってください"
+      ],
+      "correctAnswer": "私の邪魔をしないで",
+      "explanation": "「get off」は、文字通りには「～から降りる」という意味ですが、「get off my set」は、「私の邪魔をしないで」「私のセットから出て行って」という意味で、強い拒絶や排除の意思を表します。例：Get off my case! (私のことを放っておいて！)"
+    },
+    {
+      "id": 34,
+      "value": "fired",
+      "options": [
+        "解雇された",
+        "昇進した",
+        "褒められた",
+        "採用された"
+      ],
+      "correctAnswer": "解雇された",
+      "explanation": "「fired」は、「fire」の過去形・過去分詞で、「解雇する」という意味です。仕事や役割を失うことを意味し、通常は企業の決定によるものです。例：He was fired for stealing company property. (彼は会社財産の窃盗で解雇された。)"
+    },
+    {
+      "id": 35,
+      "value": "fell apart",
+      "options": [
+        "崩壊した",
+        "成功した",
+        "改善した",
+        "修理された"
+      ],
+      "correctAnswer": "崩壊した",
+      "explanation": "「fall apart」は、物理的に壊れるだけでなく、計画や関係などがうまくいかなくなる、崩壊するという意味でも使われます。予期せぬ問題や困難によって、物事が急速に悪化する状況を表します。例：Their marriage fell apart after a few years. (彼らの結婚は数年後に崩壊した。)"
+    },
+    {
+      "id": 36,
+      "value": "melanoma scare",
+      "options": [
+        "メラノーマの恐怖",
+        "風邪の恐怖",
+        "成功の喜び",
+        "失敗の恐れ"
+      ],
+      "correctAnswer": "メラノーマの恐怖",
+      "explanation": "「melanoma scare」は、「メラノーマ（悪性黒色腫）ではないかと心配すること」という意味です。「scare」は恐怖や不安を表し、ここでは健康上の懸念を示しています。例：After the melanoma scare, he started wearing sunscreen every day. (メラノーマの疑いが出てから、彼は毎日日焼け止めを塗るようになった。)"
+    },
+    {
+      "id": 37,
+      "value": "sweat the small stuff",
+      "options": [
+        "小さなことにこだわる",
+        "大きなことに集中する",
+        "問題を解決する",
+        "ストレスを解消する"
+      ],
+      "correctAnswer": "小さなことにこだわる",
+      "explanation": "「sweat the small stuff」は、「小さなことにくよくよする」「細かいことを気にする」という意味です。重要でないことに対して過度に心配したり、ストレスを感じたりする状態を表します。例：Don't sweat the small stuff, it's not worth it. (小さなことにくよくよしないで、価値がないよ。)"
+    },
+    {
+      "id": 38,
+      "value": "happen to have",
+      "options": [
+        "偶然持っている",
+        "必ず持っている",
+        "持っているはずがない",
+        "忘れてしまった"
+      ],
+      "correctAnswer": "偶然持っている",
+      "explanation": "「happen to have」は、「偶然～を持っている」「たまたま～がある」という意味です。予期せずに何かを持っている状況や、偶然の出来事を表します。例：Do you happen to have a pen I can borrow? (もしペンを持っていたら貸してもらえますか？)"
+    },
+    {
+      "id": 39,
+      "value": "ironclad",
+      "options": [
+        "非常に強力な",
+        "非常に弱い",
+        "柔軟な",
+        "時代遅れの"
+      ],
+      "correctAnswer": "非常に強力な",
+      "explanation": "「ironclad」は、「鉄clad（覆われた）」という意味から、「非常に強固な」「絶対的な」「揺るぎない」という意味を持つ形容詞です。契約や証拠、合意などが破られることがないほど強固であることを表します。例：an ironclad guarantee (絶対的な保証)"
+    },
+    {
+      "id": 40,
+      "value": "precludes",
+      "options": [
+        "排除する",
+        "含む",
+        "許可する",
+        "促進する"
+      ],
+      "correctAnswer": "排除する",
+      "explanation": "「preclude」は、「（可能性や行動などを）排除する」「妨げる」という意味の動詞です。ある条件や状況が、別の事柄の発生を不可能にすることを表します。例：His injury precludes him from playing in the tournament. (彼の怪我は彼がトーナメントに出場することを妨げる。)"
+    },
+    {
+      "id": 41,
+      "value": "slick",
+      "options": [
+        "ずる賢い",
+        "正直な",
+        "不器用な",
+        "単純な"
+      ],
+      "correctAnswer": "ずる賢い",
+      "explanation": "「slick」は、「滑らかな」「油断のならない」「口達者な」という意味を持つ形容詞です。ここでは、ずる賢さや巧妙さを指す意味で使われています。例：He's a slick salesman. (彼は口達者なセールスマンだ。)"
+    },
+    {
+      "id": 42,
+      "value": "stick to your guns",
+      "options": [
+        "自分の意見を曲げない",
+        "武器を捨てる",
+        "逃げる",
+        "攻撃する"
+      ],
+      "correctAnswer": "自分の意見を曲げない",
+      "explanation": "「stick to your guns」は、「自分の意見や立場を固守する」「信念を貫く」という意味のイディオムです。困難や反対に直面しても、自分の考えを曲げずに主張し続けることを表します。例：Even when criticised, she stuck to her guns. (批判されても、彼女は自分の意見を曲げなかった。)"
+    },
+    {
+      "id": 43,
+      "value": "fussing",
+      "options": [
+        "大騒ぎする",
+        "静かにする",
+        "楽しむ",
+        "落ち着く"
+      ],
+      "correctAnswer": "大騒ぎする",
+      "explanation": "「fuss」は、些細なことで騒ぎ立てる、不平を言うという意味の動詞です。「fussing」はその現在分詞形で、常に不満を言っている状態を表します。例：She's always fussing about something. (彼女はいつも何かにつけて文句を言っている。)"
+    },
+    {
+      "id": 44,
+      "value": "drooling",
+      "options": [
+        "よだれを垂らす",
+        "泣く",
+        "笑う",
+        "叫ぶ"
+      ],
+      "correctAnswer": "よだれを垂らす",
+      "explanation": "「drool」は、よだれを垂らすという意味の動詞です。「drooling」はその現在分詞形で、よだれを垂らしている状態を表します。幼児や動物が食べ物を前にしてよだれを垂らしている様子などを表すことがあります。例：The baby was drooling all over his bib. (赤ちゃんはよだれかけによだれを垂らしていた。)"
+    },
+    {
+      "id": 45,
+      "value": "on her own",
+      "options": [
+        "独力で",
+        "他人任せで",
+        "助けられて",
+        "急いで"
+      ],
+      "correctAnswer": "独力で",
+      "explanation": "「on one's own」は、「独力で」「一人で」「自力で」という意味の句です。他人の助けを借りずに、自分だけで何かを成し遂げることを表します。例：She learned to drive on her own. (彼女は独力で運転を習得した。)"
+    },
+    {
+      "id": 46,
+      "value": "right in her mouth",
+      "options": [
+        "彼女の口に直接",
+        "彼女の目の前に",
+        "彼女の耳に",
+        "彼女の心に"
+      ],
+      "correctAnswer": "彼女の口に直接",
+      "explanation": "「right in someone's mouth」は、文字通りには「誰かの口の中に直接」という意味ですが、ここでは子供が床に落ちているものをすぐに口に入れてしまう様子を表現しています。無分別な行動を強調する際に使われます。例：The baby puts everything right in her mouth. (赤ちゃんは何でもすぐに口に入れてしまう。)"
+    },
+    {
+      "id": 47,
+      "value": "dating",
+      "options": [
+        "デートしている",
+        "結婚している",
+        "別れている",
+        "友達である"
+      ],
+      "correctAnswer": "デートしている",
+      "explanation": "「dating」は、「date」の現在分詞形で、「デートする」「交際する」という意味です。恋愛関係にある男女が、親密な関係を築くために一緒に時間を過ごすことを指します。例：They have been dating for six months. (彼らは6ヶ月間デートしている。)"
+    },
+    {
+      "id": 48,
+      "value": "the star",
+      "options": [
+        "主演",
+        "観客",
+        "監督",
+        "裏方"
+      ],
+      "correctAnswer": "主演",
+      "explanation": "「star」は、「星」という意味の他に、「スター」「主演」という意味の名詞です。映画や演劇などで主要な役割を演じる俳優を指します。例：She is the star of the new movie. (彼女は新しい映画の主演だ。)"
+    },
+    {
+      "id": 49,
+      "value": "skipping",
+      "options": [
+        "スキップする",
+        "参加する",
+        "計画する",
+        "後悔する"
+      ],
+      "correctAnswer": "参加する",
+      "explanation": "「skip」は、「飛ばす」「欠席する」「サボる」という意味の動詞です。「skipping」はその現在分詞形で、何かを意図的に避ける、参加しないことを表します。例：I decided to skip class today. (今日は授業をサボることにした。)"
+    },
+    {
+      "id": 50,
+      "value": "to be truthful",
+      "options": [
+        "正直に言うと",
+        "嘘を言うと",
+        "秘密にすると",
+        "曖昧に言うと"
+      ],
+      "correctAnswer": "正直に言うと",
+      "explanation": "「to be truthful」は、「正直に言うと」「実を言うと」という意味の句です。自分の正直な気持ちや意見を述べる際に、前置きとして使われます。例：To be truthful, I didn't really enjoy the movie. (正直に言うと、私はその映画をあまり楽しめなかった。)"
+    },
+    {
+      "id": 51,
+      "value": "paternal",
+      "options": [
+        "横柄な",
+        "父親らしい",
+        "兄弟のような",
+        "子供っぽい"
+      ],
+      "correctAnswer": "父親らしい",
+      "explanation": "「paternal」は、父親の、父方の、または父親らしいという意味を持つ形容詞です。愛情深く、保護的で、責任感のある父親のイメージを表します。例：He has a paternal attitude towards his employees. (彼は従業員に対して父親のような態度をとっている。)"
+    },
+    {
+      "id": 52,
+      "value": "crap",
+      "options": [
+        "素晴らしい",
+        "くだらないこと",
+        "重要なこと",
+        "秘密"
+      ],
+      "correctAnswer": "くだらないこと",
+      "explanation": "「crap」は、くだらないこと、がらくた、たわごと、という意味を持つ名詞です。価値がない、または不快なものを指す強い言葉です。例：That movie was total crap. (あの映画は全くのくだらなかった。)"
+    },
+    {
+      "id": 53,
+      "value": "move on to",
+      "options": [
+        "固執する",
+        "無視する",
+        "次に進む",
+        "後退する"
+      ],
+      "correctAnswer": "次に進む",
+      "explanation": "「move on to」は、あることから別のことへ移行する、次に進むという意味の句動詞です。過去の出来事や状況に囚われず、新しい段階に進むことを示唆します。例：After the project finished, we moved on to the next task. (プロジェクトが終わった後、私たちは次のタスクに進んだ。)"
+    },
+    {
+      "id": 54,
+      "value": "passion",
+      "options": [
+        "無関心",
+        "情熱",
+        "嫌悪",
+        "恐怖"
+      ],
+      "correctAnswer": "情熱",
+      "explanation": "「passion」は、強い感情、熱意、情熱という意味を持つ名詞です。ある活動や対象に対する深い愛情や熱意を表します。例：She has a passion for music. (彼女は音楽に情熱を持っている。)"
+    },
+    {
+      "id": 55,
+      "value": "book",
+      "options": [
+        "読む",
+        "予約する",
+        "キャンセルする",
+        "無視する"
+      ],
+      "correctAnswer": "予約する",
+      "explanation": "「book」は、ここでは仕事や役割を「獲得する」という意味で使用されています。特に俳優がオーディションに合格して役を獲得する際に使われます。例：He booked a role in a new play. (彼は新しい演劇の役を獲得した。)"
+    },
+    {
+      "id": 56,
+      "value": "ample",
+      "options": [
+        "不足した",
+        "十分な",
+        "過剰な",
+        "不適切な"
+      ],
+      "correctAnswer": "十分な",
+      "explanation": "「ample」は、十分な、豊富な、という意味を持つ形容詞です。必要な量や大きさよりも多いことを示します。例：There is ample evidence to support his claim. (彼の主張を裏付ける十分な証拠がある。)"
+    },
+    {
+      "id": 57,
+      "value": "cheering me up",
+      "options": [
+        "怒らせる",
+        "慰める",
+        "無視する",
+        "混乱させる"
+      ],
+      "correctAnswer": "慰める",
+      "explanation": "「cheer up」は、人を元気づける、慰めるという意味の句動詞です。「cheering me up」は、私を元気づけるという意味になります。例：I tried to cheer her up with a funny story. (私は面白い話で彼女を元気づけようとした。)"
+    },
+    {
+      "id": 58,
+      "value": "well-educated",
+      "options": [
+        "教育を受けていない",
+        "高学歴の",
+        "訓練されていない",
+        "無知な"
+      ],
+      "correctAnswer": "高学歴の",
+      "explanation": "「well-educated」は、十分な教育を受けた、高学歴の、という意味を持つ形容詞です。高いレベルの知識や教養を持っていることを示します。例：She is a well-educated woman with a PhD. (彼女は博士号を持つ高学歴な女性だ。)"
+    },
+    {
+      "id": 59,
+      "value": "clinging to",
+      "options": [
+        "解放する",
+        "執着する",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "執着する",
+      "explanation": "「cling to」は、しがみつく、執着するという意味の句動詞です。何かを手放したくない、または失いたくないという強い気持ちを表します。例：He is clinging to the hope that she will come back. (彼は彼女が戻ってくるという希望にしがみついている。)"
+    },
+    {
+      "id": 60,
+      "value": "castration",
+      "options": [
+        "去勢",
+        "結婚",
+        "出産",
+        "昇進"
+      ],
+      "correctAnswer": "去勢",
+      "explanation": "「castration」は、去勢、男性または女性の生殖能力を奪う手術または処置を意味する名詞です。ここでは比喩的に、性的欲求や衝動を抑えることを示唆しています。例：The castration of farm animals is common practice. (家畜の去勢は一般的な慣習である。)"
+    },
+    {
+      "id": 61,
+      "value": "mocha",
+      "options": [
+        "紅茶",
+        "コーヒー",
+        "ジュース",
+        "水"
+      ],
+      "correctAnswer": "コーヒー",
+      "explanation": "「mocha」は、チョコレート風味のコーヒー飲料を指す名詞です。エスプレッソにチョコレートシロップまたはパウダーを加え、ミルクまたはクリームを添えたものです。例：I ordered a mocha at the coffee shop. (私はコーヒーショップでモカを注文した。)"
+    },
+    {
+      "id": 62,
+      "value": "queen",
+      "options": [
+        "奴隷",
+        "女王",
+        "召使い",
+        "王"
+      ],
+      "correctAnswer": "女王",
+      "explanation": "ここでは皮肉を込めて使われており、「女王様」のように、わがままで贅沢な暮らしをしている人を指します。バーナデットがモカを飲んだことに対するハワードの皮肉です。例：She acts like a queen, always demanding special treatment. (彼女は女王様のように振る舞い、常に特別な扱いを要求する。)"
+    },
+    {
+      "id": 63,
+      "value": "killing myself",
+      "options": [
+        "楽しんでいる",
+        "一生懸命働いている",
+        "怠けている",
+        "休憩している"
+      ],
+      "correctAnswer": "一生懸命働いている",
+      "explanation": "「kill myself」は、ここでは比喩的に、非常に一生懸命働く、または自分を酷使するという意味で使われています。過労やストレスを感じている状況を表します。例：I've been killing myself to finish this project on time. (私はこのプロジェクトを時間通りに終わらせるために必死で働いている。)"
+    },
+    {
+      "id": 64,
+      "value": "commitments",
+      "options": [
+        "自由",
+        "義務",
+        "無関心",
+        "嫌悪"
+      ],
+      "correctAnswer": "義務",
+      "explanation": "「commitments」は、約束、責任、義務という意味を持つ名詞です。特定の行動や関係に対する約束を示します。例：We have made a commitment to reduce carbon emissions. (私たちは炭素排出量を削減するという約束をした。)"
+    },
+    {
+      "id": 65,
+      "value": "get it over with",
+      "options": [
+        "先延ばしにする",
+        "終わらせる",
+        "始める",
+        "楽しむ"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「get it over with」は、不快なことや面倒なことを早く終わらせるという意味のイディオムです。避けたいことでも、完了させるために行動することを表します。例：I just wanted to get the exam over with. (私はただ早く試験を終わらせたかった。)"
+    },
+    {
+      "id": 66,
+      "value": "taking care of",
+      "options": [
+        "無視する",
+        "世話をする",
+        "放置する",
+        "忘れる"
+      ],
+      "correctAnswer": "世話をする",
+      "explanation": "「take care of」は世話をする、面倒を見るという意味です。人や動物の健康や安全を守るために必要なことを行うことを指します。例：She takes care of her elderly mother. (彼女は年老いた母親の世話をしている。)"
+    },
+    {
+      "id": 67,
+      "value": "get you out the door",
+      "options": [
+        "家に閉じ込める",
+        "出かける",
+        "泊まらせる",
+        "歓迎する"
+      ],
+      "correctAnswer": "出かける",
+      "explanation": "「get you out the door」は、ここから出て行ってもらう、帰ってもらうという意味の表現です。必ずしも直接的な命令ではなく、遠回しに退去を促すニュアンスがあります。例：It's getting late, I should get you out the door.(もう遅いので、そろそろお帰りいただいた方がいいですね。)"
+    },
+    {
+      "id": 68,
+      "value": "It's about the art.",
+      "options": [
+        "芸術に無関係",
+        "芸術が重要",
+        "お金がすべて",
+        "名声がすべて"
+      ],
+      "correctAnswer": "芸術が重要",
+      "explanation": "「It's about the art.」は、芸術の本質や価値を重視するという意味です。商業的な成功や名声よりも、創造的な表現や芸術的な追求が重要であるという考えを表します。 例：Even if it doesn't make money, it's about the art.（たとえお金にならなくても、芸術が大事なんだ。）"
+    },
+    {
+      "id": 69,
+      "value": "second thoughts",
+      "options": [
+        "確信",
+        "再考",
+        "無関心",
+        "初志貫徹"
+      ],
+      "correctAnswer": "再考",
+      "explanation": "「second thoughts」は、考え直すこと、迷いが生じることを意味します。以前の決定や考えに対して疑問や不安を感じる時に使われます。 例：I'm having second thoughts about moving to a new city. （新しい街への引っ越しを考え直している。）"
+    },
+    {
+      "id": 70,
+      "value": "the art",
+      "options": [
+        "ビジネス",
+        "科学",
+        "芸術",
+        "スポーツ"
+      ],
+      "correctAnswer": "芸術",
+      "explanation": "「the art」は、特定の分野の芸術、技術、またはスキルを指します。ここでは、演劇や演技といった芸術活動を指しています。 例：He dedicated his life to mastering the art of painting.（彼は絵画の芸術を極めるために人生を捧げた。）"
+    },
+    {
+      "id": 71,
+      "value": "Don't send me home.",
+      "options": [
+        "家に送って",
+        "ここにいさせて",
+        "出かける",
+        "歓迎する"
+      ],
+      "correctAnswer": "ここにいさせて",
+      "explanation": "「Don't send me home.」は、文字通りには「私を家に送らないで」という意味ですが、ここでは「ここにいさせてほしい」という懇願のニュアンスがあります。寂しさや孤独を避けたい気持ちを表しています。例：I'm feeling lonely tonight, don't send me home.（今夜は寂しいから、家に送らないで。）"
+    },
+    {
+      "id": 72,
+      "value": "that's your problem",
+      "options": [
+        "素晴らしい",
+        "それが問題だ",
+        "解決策がある",
+        "問題ない"
+      ],
+      "correctAnswer": "それが問題だ",
+      "explanation": "「that's your problem」は、「それはあなたの問題だ」という意味です。相手の抱える困難や課題に対して、自分は関与しない、または責任を負わないという立場を示す時に使われます。突き放したニュアンスを含むことがあります。 例：You can't manage your time well? Well, that's your problem.（時間管理ができないの？それはあなたの問題だ。）"
+    },
+    {
+      "id": 73,
+      "value": "I should go",
+      "options": [
+        "行くべき",
+        "とどまるべき",
+        "無視する",
+        "歓迎する"
+      ],
+      "correctAnswer": "行くべき",
+      "explanation": "「I should go」は、「私は行くべきだ」という意味です。退去を促す状況や、時間的な制約、または状況の変化によって、その場を離れる必要があることを伝える際に使用されます。 例：It's getting late, I should go.（遅くなってきたので、私は行くべきです。）"
+    },
+    {
+      "id": 74,
+      "value": "asking me out",
+      "options": [
+        "誘う",
+        "避ける",
+        "無視する",
+        "怒る"
+      ],
+      "correctAnswer": "誘う",
+      "explanation": "「asking me out」は、「デートに誘う」という意味です。恋愛関係を築きたいという意図を持って、相手にデートを申し込む行為を指します。 例：He's been asking me out for weeks, but I'm not interested.（彼は何週間も私をデートに誘っているけど、興味がない。）"
+    },
+    {
+      "id": 75,
+      "value": "Howie",
+      "options": [
+        "ハワードの愛称",
+        "ハワードの正式名",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "ハワードの愛称",
+      "explanation": "Howie はハワードの愛称です。親しい間柄の人が使う親しみを込めた呼び方です。　例：Hey Howie, how are you doing?（やあ、ハウィー、元気にしてる？)"
+    },
+    {
+      "id": 76,
+      "value": "freaked me out",
+      "options": [
+        "私を落ち着かせた",
+        "私を少し怒らせた",
+        "私をとても怖がらせた",
+        "私を混乱させた"
+      ],
+      "correctAnswer": "私をとても怖がらせた",
+      "explanation": "「freak out」は、非常に驚く、恐れる、または興奮するという意味です。この場合は、Rajが何かに驚いたか、少し怖がっている様子を表しています。強い感情を表す口語的な表現です。\n\n例：The loud noise really freaked me out. (その大きな音には本当に驚いた。)"
+    },
+    {
+      "id": 77,
+      "value": "not on my shoulder",
+      "options": [
+        "肩にない",
+        "秘密の",
+        "普通の",
+        "人には見せない"
+      ],
+      "correctAnswer": "人には見せない",
+      "explanation": "これはEmilyがタトゥーの場所を説明する際の婉曲表現です。「not on my shoulder」は、タトゥーが肩以外の場所、つまり通常は隠されている場所にあることを示唆しています。性的なニュアンスを含んでいる場合があります。"
+    },
+    {
+      "id": 78,
+      "value": "crunches",
+      "options": [
+        "腕立て伏せ",
+        "腹筋運動",
+        "スクワット",
+        "背筋運動"
+      ],
+      "correctAnswer": "腹筋運動",
+      "explanation": "「crunch」は腹筋運動の一種で、上半身を丸めて腹筋を鍛える運動です。Rajがシャツを脱ぐ前に少しでも体を見栄え良くしようとしていることがわかります。\n\n例: He does 50 crunches every morning. (彼は毎朝50回の腹筋運動をする。)"
+    },
+    {
+      "id": 79,
+      "value": "smart decisions",
+      "options": [
+        "賢い決断",
+        "間違った決断",
+        "早い決断",
+        "遅い決断"
+      ],
+      "correctAnswer": "賢い決断",
+      "explanation": "「smart decision」は、合理的で賢明な判断や選択を指します。Pennyが自身の人生やキャリアにおいて、より良い方向へ進むための決断をしようとしていることを示しています。\n\n例: Investing in education is a smart decision for the future. (教育への投資は将来のための賢明な決断だ。)"
+    },
+    {
+      "id": 80,
+      "value": "bran muffin",
+      "options": [
+        "甘くて美味しいもの",
+        "健康的だが退屈なもの",
+        "高価なもの",
+        "手に入りやすいもの"
+      ],
+      "correctAnswer": "健康的だが退屈なもの",
+      "explanation": "ここでは、LeonardがPennyにとって自分が「健康的だが退屈な選択肢」ではないかと自嘲的に表現しています。bran muffinは、健康には良いが、味気ない食べ物というイメージがあります。\n\n例: He felt like a bran muffin in the relationship, always reliable but never exciting.(彼はその関係においてブランマフィンように感じていた。いつも頼りになるけど、決して刺激的ではない。)"
+    },
+    {
+      "id": 81,
+      "value": "Cinnabon",
+      "options": [
+        "健康的で質素なもの",
+        "魅力的だが不健康なもの",
+        "日常的なありふれたもの",
+        "退屈でつまらないもの"
+      ],
+      "correctAnswer": "魅力的だが不健康なもの",
+      "explanation": "シナモンロール（Cinnabon）は、甘くて美味しいが、カロリーが高く不健康な食べ物です。Leonardは、Pennyにとって自分が刺激的で魅力的な存在でありたいと願っていることを表現するために、この例えを使っています。"
+    },
+    {
+      "id": 82,
+      "value": "strawberry Pop-Tart",
+      "options": [
+        "非常に高価なもの",
+        "魅力的だが不健康なもの",
+        "安全で信頼できるもの",
+        "非常に一般的なもの"
+      ],
+      "correctAnswer": "魅力的だが不健康なもの",
+      "explanation": "「strawberry Pop-Tart」は、イチゴ味のポップタルトで、甘くて美味しいけれど、栄養価が低く、健康的とは言えないお菓子です。Leonardは、自分がPennyにとって、心をときめかせるけれど、必ずしも良い選択とは言えないような存在でありたいと願っていることを表しています。"
+    },
+    {
+      "id": 83,
+      "value": "fat-free",
+      "options": [
+        "脂肪分が多い",
+        "脂肪分がない",
+        "糖分が多い",
+        "糖分がない"
+      ],
+      "correctAnswer": "脂肪分がない",
+      "explanation": "「fat-free」は、脂肪分が含まれていないことを意味します。Leonardは、自分がPennyにとって魅力的ではない、つまらない存在だと感じていることを自虐的に表現しています。健康には良いかもしれないが、刺激や楽しみがないというニュアンスがあります。\n\n例: She prefers fat-free yogurt to regular yogurt. (彼女は普通のヨーグルトよりも無脂肪ヨーグルトを好む。)"
+    },
+    {
+      "id": 84,
+      "value": "colon",
+      "options": [
+        "心臓",
+        "肺",
+        "大腸",
+        "胃"
+      ],
+      "correctAnswer": "大腸",
+      "explanation": "「colon」は大腸を意味します。食物の消化と吸収において重要な役割を果たします。ここでは、LeonardがPennyにとって自分が「大腸に良い（＝健康に良い）」存在だと自嘲的に表現しています。\n\n例: A healthy diet is important for maintaining a healthy colon. (健康的な食事は、健康な大腸を維持するために重要です。)"
+    },
+    {
+      "id": 85,
+      "value": "brought it up",
+      "options": [
+        "忘れた",
+        "思い出した",
+        "話題に出した",
+        "隠した"
+      ],
+      "correctAnswer": "話題に出した",
+      "explanation": "「bring up」は、話題を持ち出す、言及するという意味の句動詞です。Pennyが結婚の話を始めたことを後悔している場面で使われています。\n\n例：I didn't want to bring up the issue, but it was necessary. (その問題を話題に出したくなかったけど、必要だった。)"
+    },
+    {
+      "id": 86,
+      "value": "feeling sorry for yourself",
+      "options": [
+        "自分を励ます",
+        "自分を甘やかす",
+        "自分を哀れむ",
+        "自分を誇る"
+      ],
+      "correctAnswer": "自分を哀れむ",
+      "explanation": "「feel sorry for yourself」は、自己憐憫にふける、自分を哀れむという意味です。Pennyが解雇されたことを受けて、Leonardが彼女の状態を指摘する際に使われています。\n\n例: Stop feeling sorry for yourself and do something about it. (自分を哀れむのはやめて、何か行動を起こしなさい。)"
+    },
+    {
+      "id": 87,
+      "value": "stupid Pop-Tart",
+      "options": [
+        "賢い人",
+        "ばかげた人",
+        "優しい人",
+        "面白い人"
+      ],
+      "correctAnswer": "ばかげた人",
+      "explanation": "ここでは愛情を込めて、Leonardを「ばか」と呼んでいます。Pop-Tartという言葉を使うことで、少しユーモラスで親しみを込めたニュアンスを出しています。"
+    },
+    {
+      "id": 88,
+      "value": "I guess I'm in",
+      "options": [
+        "たぶん参加する",
+        "参加しないと思う",
+        "多分賛成する",
+        "絶対に賛成する"
+      ],
+      "correctAnswer": "たぶん賛成する",
+      "explanation": "「I guess I'm in」は、最初は乗り気でなかったものの、最終的には同意するという意味合いで使われます。ここでは、Pennyからのプロポーズに対して、Leonardが少し控えめに同意する様子を表しています。"
+    },
+    {
+      "id": 89,
+      "value": "anticlimactic",
+      "options": [
+        "感動的な",
+        "劇的な",
+        "期待外れの",
+        "素晴らしい"
+      ],
+      "correctAnswer": "期待外れの",
+      "explanation": "「anticlimactic」は、期待していたほどの興奮や感動がない、期待外れな、という意味です。プロポーズが予想以上に盛り上がらなかったと感じているLeonardの気持ちを表しています。\n\n例: The ending of the movie was anticlimactic. (その映画の結末は期待外れだった。)"
+    },
+    {
+      "id": 90,
+      "value": "a couple years",
+      "options": [
+        "数週間",
+        "数ヶ月",
+        "数年間",
+        "数日"
+      ],
+      "correctAnswer": "数年間",
+      "explanation": "「a couple of years」は、2～3年程度の期間を指します。Leonardが婚約指輪を数年間持っていたことを示唆しており、以前からPennyとの結婚を考えていたことがわかります。\n\n例: I've been studying Japanese for a couple of years. (私は日本語を数年間勉強しています。)"
+    },
+    {
+      "id": 91,
+      "value": "monkey hair",
+      "options": [
+        "鳥の羽",
+        "犬の毛",
+        "猿の毛",
+        "猫の毛"
+      ],
+      "correctAnswer": "猿の毛",
+      "explanation": "ここではPennyの指に付いた毛を指して言っています。Leonardがロマンチックな雰囲気を少し壊すようなユーモラスな発言をしています。"
+    },
+    {
+      "id": 92,
+      "value": "gonna",
+      "options": [
+        "行った",
+        "行く予定",
+        "行ったことがある",
+        "行かない"
+      ],
+      "correctAnswer": "行く予定",
+      "explanation": "\"gonna\" は \"going to\" の口語的な短縮形で、未来の予定や意図を表します。Bernadetteが困難を乗り越えるだろうと述べている場面で使われています。\n\n例: I'm gonna go to the store later. (後で店に行く予定です。)"
+    },
+    {
+      "id": 93,
+      "value": "get through this",
+      "options": [
+        "始める",
+        "続ける",
+        "終わらせる",
+        "乗り越える"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get through this」は、困難な状況や問題を乗り越える、克服するという意味です。Bernadetteが昨夜のつらい出来事を乗り越えようとしていることを示しています。\n\n例: We can get through this together. (私たちは一緒にこれを乗り越えることができる。)"
+    },
+    {
+      "id": 94,
+      "value": "proud of us",
+      "options": [
+        "私たちを恥じている",
+        "私たちを誇りに思っている",
+        "私たちを軽蔑している",
+        "私たちを無視している"
+      ],
+      "correctAnswer": "私たちを誇りに思っている",
+      "explanation": "「proud of us」は、自分たちが行ったことや達成したことに対して誇りを感じているという意味です。ここでは、HowardとBernadetteが困難な状況を一緒に乗り越えようとしていることに対して、お互いを誇りに思っていることを表しています。\n\n例: I'm so proud of us for finishing the project on time. (プロジェクトを時間通りに終えることができて、私たちは本当に誇らしい。)"
+    },
+    {
+      "id": 95,
+      "value": "Coming!",
+      "options": [
+        "来ないで！",
+        "来る！",
+        "今行きます！",
+        "来てください！"
+      ],
+      "correctAnswer": "今行きます！",
+      "explanation": "「Coming!」は誰かに呼ばれたり、何かを頼まれたりした時に、すぐに行くことを伝える表現です。ここでは、ウォロウィッツ夫人の要求に応えるために、看護師が返事をしています。\n\n 例：A: Can you help me with this? B: Coming! (A: これを手伝ってくれますか？ B: 今行きます！)"
+    },
+    {
+      "id": 96,
+      "value": "Welcome to the team",
+      "options": [
+        "チームへようこそ",
+        "チームから脱退します",
+        "チームを解散します",
+        "チームに反対します"
+      ],
+      "correctAnswer": "チームへようこそ",
+      "explanation": "新しいメンバーを迎え入れる際に使われる一般的な表現です。ここでは、ハワードがバーナデットをある種の状況や役割を共有するグループに歓迎しています。\n\n例：Welcome to the team, we're happy to have you! (チームへようこそ、あなたを迎えることができて嬉しいです！)"
+    },
+    {
+      "id": 97,
+      "value": "Putz",
+      "options": [
+        "天才",
+        "まぬけ",
+        "勇敢な人",
+        "正直な人"
+      ],
+      "correctAnswer": "まぬけ",
+      "explanation": "「putz」は、間抜け、愚か者、役立たずといった意味のスラングです。元々はイディッシュ語で、軽蔑的な意味合いで使われます。ここでは、ハワードが自分自身を自虐的に表現するために使っています。\n\n例: Don't be such a putz! (そんなまぬけなことするな！)"
+    },
+    {
+      "id": 98,
+      "value": "That's my issue, not yours.",
+      "options": [
+        "それはあなたの問題です。",
+        "それは私の問題ではありません。",
+        "それは私の問題で、あなたには関係ありません。",
+        "それは私の問題で、あなたも関係あります。"
+      ],
+      "correctAnswer": "それは私の問題で、あなたには関係ありません。",
+      "explanation": "相手に心配や責任を感じさせないように、自分の問題であることを伝える際に使われます。相手を気遣うニュアンスが含まれています。\n\n例: I know I'm late, but that's my issue, not yours. (遅れてごめんなさい、でもそれは私の問題で、あなたには関係ありません。)"
+    },
+    {
+      "id": 99,
+      "value": "Just so you know",
+      "options": [
+        "知らないと思いますが",
+        "知っていると思いますが",
+        "念のため",
+        "どうでもいいことですが"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "相手に何かを伝える前に、注意を引いたり、誤解を避けたりするために使われるフレーズです。軽い警告や注意喚起のニュアンスが含まれます。\n\n例: Just so you know, the meeting has been postponed. (念のためですが、会議は延期されました。)"
+    },
+    {
+      "id": 100,
+      "value": "It's been a long time",
+      "options": [
+        "またすぐ会えますね",
+        "長い間会っていませんね",
+        "あっという間でしたね",
+        "永遠に会えませんね"
+      ],
+      "correctAnswer": "長い間会っていませんね",
+      "explanation": "「It's been a long time」は、久しぶりに会った人に対して使われる定番の挨拶です。親しみやすさや懐かしさを伝えるニュアンスが含まれます。\n\n例: It's been a long time since we last met. (最後に会ってから長い時間が経ちましたね。)"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "evolved",
+      "options": [
+        "進化した",
+        "解決した",
+        "隠蔽した",
+        "衰退した"
+      ],
+      "correctAnswer": "進化した",
+      "explanation": "「evolve」は、徐々に発展・進化するという意味です。生物学的な進化だけでなく、アイデアや技術などが時間をかけて変化していく様子も表します。The company has evolved its business strategy over the past few years. (その会社は過去数年間で事業戦略を進化させてきた。)"
+    },
+    {
+      "id": 2,
+      "value": "kidnap",
+      "options": [
+        "招待する",
+        "誘拐する",
+        "援助する",
+        "教育する"
+      ],
+      "correctAnswer": "誘拐する",
+      "explanation": "「kidnap」は、人を誘拐するという意味で、身代金目的や政治的な目的で行われることが多いです。深刻な犯罪行為を指す言葉です。The child was kidnapped from outside the school. (その子供は学校の外で誘拐された。)"
+    },
+    {
+      "id": 3,
+      "value": "ransom",
+      "options": [
+        "贈り物",
+        "身代金",
+        "報酬",
+        "借金"
+      ],
+      "correctAnswer": "身代金",
+      "explanation": "「ransom」は、誘拐された人の解放と引き換えに要求される金銭のことです。しばしば高額であり、交渉の対象となります。The kidnappers demanded a large ransom for his release. (誘拐犯は彼の解放のために多額の身代金を要求した。)"
+    },
+    {
+      "id": 4,
+      "value": "trace",
+      "options": [
+        "隠す",
+        "追跡する",
+        "無視する",
+        "証明する"
+      ],
+      "correctAnswer": "追跡する",
+      "explanation": "「trace」は、起源や経路をたどる、追跡するという意味です。犯罪捜査や、物の由来を調べる際などに使われます。The police are trying to trace the phone call. (警察はその電話を追跡しようとしている。)"
+    },
+    {
+      "id": 5,
+      "value": "crud",
+      "options": [
+        "料理",
+        "無価値なもの",
+        "芸術",
+        "スポーツ"
+      ],
+      "correctAnswer": "無価値なもの",
+      "explanation": "「crud」は、くだらないこと、つまらないこと、または不快なものを指す口語的な表現です。しばしば軽蔑的なニュアンスを含みます。I'm getting too old for this crud. (こんなくだらないことにはもううんざりだ。)"
+    },
+    {
+      "id": 6,
+      "value": "unhand me",
+      "options": [
+        "手伝って",
+        "私を解放して",
+        "挨拶して",
+        "理解して"
+      ],
+      "correctAnswer": "私を解放して",
+      "explanation": "「Unhand me」は、「私から手を離せ」「私を放せ」という意味のやや古風な表現です。映画やドラマなどで、誰かが拘束されている状況で使われることがあります。"
+    },
+    {
+      "id": 7,
+      "value": "mobile sex dungeon",
+      "options": [
+        "移動図書館",
+        "移動式秘密基地",
+        "移動式性的な場所",
+        "移動販売車"
+      ],
+      "correctAnswer": "移動式性的な場所",
+      "explanation": "これは非常に口語的で下品な表現です。ここでは、バンの中がそのような怪しげな雰囲気を醸し出していることを Sheldon が皮肉を込めて表現しています。使用は避けるべき表現です。"
+    },
+    {
+      "id": 8,
+      "value": "syphilis",
+      "options": [
+        "物理学",
+        "梅毒",
+        "哲学",
+        "天文学"
+      ],
+      "correctAnswer": "梅毒",
+      "explanation": "「syphilis」は梅毒という性感染症のことです。ここでは、シェルドンが皮肉を込めて、その車が不潔であるかのようなジョークを言っています。"
+    },
+    {
+      "id": 9,
+      "value": "grad students",
+      "options": [
+        "小学生",
+        "高校生",
+        "大学生",
+        "大学院生"
+      ],
+      "correctAnswer": "大学院生",
+      "explanation": "「grad students」は大学院生のことです。学部を卒業し、修士号や博士号を取得するために研究を行っている学生を指します。"
+    },
+    {
+      "id": 10,
+      "value": "diarrhoea",
+      "options": [
+        "便秘",
+        "下痢",
+        "発熱",
+        "頭痛"
+      ],
+      "correctAnswer": "下痢",
+      "explanation": "「diarrhoea」は下痢という意味です。食べ物や水、または感染症によって引き起こされることがあります。発音は「ダイアリア」に近いです。"
+    },
+    {
+      "id": 11,
+      "value": "mariachi bands",
+      "options": [
+        "日本のバンド",
+        "メキシコの楽団",
+        "イギリスの楽団",
+        "アメリカの楽団"
+      ],
+      "correctAnswer": "メキシコの楽団",
+      "explanation": "「mariachi bands」は、メキシコの伝統的な楽団のことです。トランペット、バイオリン、ギターなどの楽器を使い、独特の音楽を奏でます。"
+    },
+    {
+      "id": 12,
+      "value": "viva la",
+      "options": [
+        "死",
+        "万歳",
+        "さようなら",
+        "こんにちは"
+      ],
+      "correctAnswer": "万歳",
+      "explanation": "「Viva la」は、スペイン語で「〜万歳！」という意味です。ここでは、メキシコをテーマにした旅行に対する皮肉を込めた表現として使われています。"
+    },
+    {
+      "id": 13,
+      "value": "fuss",
+      "options": [
+        "お祝い",
+        "騒ぎ",
+        "静けさ",
+        "悲しみ"
+      ],
+      "correctAnswer": "騒ぎ",
+      "explanation": "「fuss」は、些細なことで騒ぎ立てること、またはその騒ぎそのものを指します。ここでは、「大騒ぎしない」という意味で使われています。Don't make a fuss about it. (そのことで騒ぎ立てないで。)"
+    },
+    {
+      "id": 14,
+      "value": "bachelorette parties",
+      "options": [
+        "誕生日パーティー",
+        "結婚祝いパーティー",
+        "卒業パーティー",
+        "歓迎パーティー"
+      ],
+      "correctAnswer": "結婚祝いパーティー",
+      "explanation": "「bachelorette parties」は、結婚前の女性が友人たちと楽しむパーティーのことです。日本では「独身さよならパーティー」と呼ばれることもあります。"
+    },
+    {
+      "id": 15,
+      "value": "anatomic",
+      "options": [
+        "解剖学的な",
+        "抽象的な",
+        "歴史的な",
+        "未来的な"
+      ],
+      "correctAnswer": "解剖学的な",
+      "explanation": "「anatomic」は、解剖学的な、つまり体の構造を詳細に表しているという意味です。ここでは、クッキーの形が非常にリアルであることを強調しています。"
+    },
+    {
+      "id": 16,
+      "value": "gentile",
+      "options": [
+        "異邦人",
+        "友人",
+        "家族",
+        "隣人"
+      ],
+      "correctAnswer": "異邦人",
+      "explanation": "「gentile」は、ユダヤ教徒ではない人のことを指します。ここでは、ユダヤ教の戒律に沿っていない（豚肉などを使っている）クッキーを指して使われています。"
+    },
+    {
+      "id": 17,
+      "value": "cross the border",
+      "options": [
+        "国境を越える",
+        "川を渡る",
+        "道を横断する",
+        "限界を超える"
+      ],
+      "correctAnswer": "国境を越える",
+      "explanation": "「cross the border」は、国境を越えるという意味です。ここでは、アメリカからメキシコへ国境を越えることを指しています。The refugees crossed the border to seek asylum. (難民たちは亡命を求めて国境を越えた。)"
+    },
+    {
+      "id": 18,
+      "value": "lock up your daughters",
+      "options": [
+        "娘を勉強させる",
+        "娘を守る",
+        "娘を外出させる",
+        "娘を甘やかす"
+      ],
+      "correctAnswer": "娘を守る",
+      "explanation": "「Lock up your daughters」は、男性が女性に近づかないように注意を促す、昔からの言い回しです。ここでは、メキシコで女性がナンパされるかもしれないというジョークとして使われています。"
+    },
+    {
+      "id": 19,
+      "value": "lecture",
+      "options": [
+        "講義する",
+        "歌う",
+        "踊る",
+        "料理する"
+      ],
+      "correctAnswer": "講義する",
+      "explanation": "「lecture」は、講義をする、または説教するという意味です。ここでは、シェルドンが難しい話題について長々と話すことを指しています。He lectured us on the dangers of artificial sweeteners. (彼は人工甘味料の危険性について私たちに講義した。)"
+    },
+    {
+      "id": 20,
+      "value": "North American Free Trade Agreement",
+      "options": [
+        "北米自由貿易協定",
+        "北大西洋条約機構",
+        "国際連合",
+        "世界貿易機関"
+      ],
+      "correctAnswer": "北米自由貿易協定",
+      "explanation": "「North American Free Trade Agreement (NAFTA)」は、北米自由貿易協定のことです。アメリカ、カナダ、メキシコの間で貿易障壁をなくすことを目的とした協定です。"
+    },
+    {
+      "id": 21,
+      "value": "customs",
+      "options": [
+        "習慣",
+        "税関",
+        "衣装",
+        "料理"
+      ],
+      "correctAnswer": "税関",
+      "explanation": "「customs」は税関という意味です。国境を越える際に、物品の検査や関税の徴収を行う機関を指します。You have to declare any goods to customs. (税関に申告する必要があります。)"
+    },
+    {
+      "id": 22,
+      "value": "spirit",
+      "options": [
+        "幽霊",
+        "精神",
+        "肉体",
+        "アルコール"
+      ],
+      "correctAnswer": "精神",
+      "explanation": "「spirit」は、ここでは「精神」「趣旨」という意味で使用されています。例：in the spirit of bachelorette parties （バチェロレッテパーティーの精神で、バチェロレッテパーティーらしく）"
+    },
+    {
+      "id": 23,
+      "value": "wild dogs",
+      "options": [
+        "ペットの犬",
+        "野犬",
+        "警察犬",
+        "盲導犬"
+      ],
+      "correctAnswer": "野犬",
+      "explanation": "ここでは、メキシコのイメージとして、危険なものとして野犬を挙げています。シェルドンがメキシコに対して抱いている偏見を表しています。"
+    },
+    {
+      "id": 24,
+      "value": "beans that jump around",
+      "options": [
+        "魔法の豆",
+        "飛び跳ねる豆",
+        "普通の豆",
+        "高級な豆"
+      ],
+      "correctAnswer": "飛び跳ねる豆",
+      "explanation": "メキシコ名産の「jumping beans」と呼ばれる、虫が中にいるために動き回る豆のことを指しています。シェルドンのメキシコに対する奇妙なイメージを表現しています。"
+    },
+    {
+      "id": 25,
+      "value": "Ay-ay-ay",
+      "options": [
+        "挨拶",
+        "驚きの表現",
+        "悲しみの表現",
+        "喜びの表現"
+      ],
+      "correctAnswer": "悲しみの表現",
+      "explanation": "スペイン語圏で使われる感嘆詞で、ここではImodium（下痢止め薬）が必要になるかもしれないことへのシェルドンの懸念や皮肉を表しています。"
+    },
+    {
+      "id": 26,
+      "value": "lousy with",
+      "options": [
+        "不足している",
+        "欠乏している",
+        "たくさんある",
+        "少しだけある"
+      ],
+      "correctAnswer": "たくさんある",
+      "explanation": "「lousy with」は、何かが大量にある、またはひどく多いという意味です。通常、望ましくないものや不快なものが大量にある状況を指します。例文: The old cabin was lousy with rats. (その古い小屋はネズミだらけだった。)"
+    },
+    {
+      "id": 27,
+      "value": "up to date on",
+      "options": [
+        "乗り越える",
+        "最新の情報を持っている",
+        "過去を振り返る",
+        "要約する"
+      ],
+      "correctAnswer": "最新の情報を持っている",
+      "explanation": "「up to date on」は、特定の情報や状況について最新の情報を把握している状態を指します。例文: Are you up to date on the latest news? (最新のニュースを把握していますか？)"
+    },
+    {
+      "id": 28,
+      "value": "a matter of time",
+      "options": [
+        "時間稼ぎ",
+        "時間の問題",
+        "時間厳守",
+        "時間切れ"
+      ],
+      "correctAnswer": "時間の問題",
+      "explanation": "「a matter of time」は、何かが起こるのが時間の問題である、つまり、確実に起こるだろうという意味です。例文: It's only a matter of time before he gets promoted. (彼が昇進するのは時間の問題だ。)"
+    },
+    {
+      "id": 29,
+      "value": "Good for you.",
+      "options": [
+        "お気の毒に",
+        "それは残念",
+        "それは良かった",
+        "どういたしまして"
+      ],
+      "correctAnswer": "それは良かった",
+      "explanation": "「Good for you.」は、相手の成功や良い行いを褒める際に使われる表現です。「良かったね」「おめでとう」といったニュアンスで使われます。皮肉として使われることもあります。"
+    },
+    {
+      "id": 30,
+      "value": "breakup",
+      "options": [
+        "休憩",
+        "故障",
+        "解散、別れ",
+        "侵入"
+      ],
+      "correctAnswer": "解散、別れ",
+      "explanation": "「breakup」は、人間関係（特に恋愛関係）の解消、別れを意味します。名詞として使われます。例文: She's been sad since her breakup with Tom. (彼女はトムとの別れ以来、悲しんでいる。)"
+    },
+    {
+      "id": 31,
+      "value": "forbid",
+      "options": [
+        "許す",
+        "提案する",
+        "禁止する",
+        "支持する"
+      ],
+      "correctAnswer": "禁止する",
+      "explanation": "「forbid」は、何かを禁止する、許さないという意味の動詞です。例文: My parents forbid me to go to the party. (両親は私がパーティーに行くのを禁じた。)"
+    },
+    {
+      "id": 32,
+      "value": "a dozen times",
+      "options": [
+        "一度だけ",
+        "数回",
+        "たくさん",
+        "全くない"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "「a dozen times」は、12回、つまり何度も繰り返して行われることを意味します。例文: I've told you a dozen times to clean your room! (部屋を掃除しろって何度も言ってるでしょ！)"
+    },
+    {
+      "id": 33,
+      "value": "virginity",
+      "options": [
+        "純粋さ",
+        "処女",
+        "経験のなさ",
+        "清潔さ"
+      ],
+      "correctAnswer": "経験のなさ",
+      "explanation": "ここでは「virginity」は、文字通りの意味ではなく、ある行為や経験を初めて行うことを指す比喩表現です。「Let me take your ear virginity」は、「私があなたの初めてのピアスを開けてあげる」という意味になります。"
+    },
+    {
+      "id": 34,
+      "value": "go down",
+      "options": [
+        "終わる",
+        "起こる",
+        "下がる",
+        "記録される"
+      ],
+      "correctAnswer": "起こる",
+      "explanation": "「go down」は、ここでは「何かが起こる」という意味で使用されています。事件や問題が発生する際に使われる口語的な表現です。例文: If anything goes down, call me immediately. (何かあったらすぐに電話して。)"
+    },
+    {
+      "id": 35,
+      "value": "rub off on",
+      "options": [
+        "こすり落とす",
+        "影響を与える",
+        "無視する",
+        "批判する"
+      ],
+      "correctAnswer": "影響を与える",
+      "explanation": "「rub off on」は、人や物に影響を与える、または影響を受けるという意味です。良い影響にも悪い影響にも使われます。例文: His enthusiasm rubbed off on the team. (彼の熱意がチームに伝わった。)"
+    },
+    {
+      "id": 36,
+      "value": "put stock in",
+      "options": [
+        "在庫を置く",
+        "信頼を置く",
+        "投資する",
+        "無視する"
+      ],
+      "correctAnswer": "信頼を置く",
+      "explanation": "「put stock in」は、何かを重視する、信頼を置くという意味です。例文: I don't put much stock in rumors. (私は噂をあまり信用しない。)"
+    },
+    {
+      "id": 37,
+      "value": "creative juices",
+      "options": [
+        "創造的な才能",
+        "飲み物",
+        "料理の腕前",
+        "新しいアイデア"
+      ],
+      "correctAnswer": "創造的な才能",
+      "explanation": "「creative juices」は、創造性、アイデア、創作意欲を指す口語的な表現です。例文: This project really gets my creative juices flowing. (このプロジェクトは本当に私の創造性を刺激する。)"
+    },
+    {
+      "id": 38,
+      "value": "end up in",
+      "options": [
+        "到着する",
+        "終わる",
+        "始まる",
+        "逃げる"
+      ],
+      "correctAnswer": "終わる",
+      "explanation": "「end up in」は、最終的に～になる、～に陥るという意味です。意図しない結果や場所に至る場合に使われます。例文: If you're not careful, you'll end up in jail. (気をつけないと、刑務所に入る羽目になるよ。)"
+    },
+    {
+      "id": 39,
+      "value": "get too old for this crud",
+      "options": [
+        "このくだらないことには若すぎる",
+        "この仕事は簡単すぎる",
+        "もう若くないからこんなことはできない",
+        "過去のことには興味がない"
+      ],
+      "correctAnswer": "もう若くないからこんなことはできない",
+      "explanation": "「I am getting too old for this crud」は、面倒なことや不快なことにうんざりしている気持ちを表す表現です。「crud」は、くだらないこと、不快なことを意味します。例文: After dealing with all those technical issues, I'm getting too old for this crud. (あんな技術的な問題に対処した後では、もうこんなことは勘弁してほしい。)"
+    },
+    {
+      "id": 40,
+      "value": "status",
+      "options": [
+        "状態",
+        "地位",
+        "評価",
+        "名声"
+      ],
+      "correctAnswer": "状態",
+      "explanation": "ここでは「status」は、SNSなどのプロフィールにおける状態や状況を示す情報を指します。例文: I updated my status on Facebook. (フェイスブックでステータスを更新した。)"
+    },
+    {
+      "id": 41,
+      "value": "dance with one's daughter at her wedding",
+      "options": [
+        "結婚式で娘と踊る",
+        "娘の結婚を阻止する",
+        "娘に結婚を諦めさせる",
+        "娘の結婚式に出席しない"
+      ],
+      "correctAnswer": "結婚式で娘と踊る",
+      "explanation": "「dance with one's daughter at her wedding」は、父親が娘の結婚式で一緒に踊るという、伝統的な光景を指します。父親にとって特別な意味を持つことが多いです。"
+    },
+    {
+      "id": 42,
+      "value": "For all we know",
+      "options": [
+        "私たちが知っている限り",
+        "私たちが知らないことはない",
+        "私たちが知るべきこと",
+        "知る必要はない"
+      ],
+      "correctAnswer": "私たちが知っている限り",
+      "explanation": "For all we know は「私たちが知る限りでは」「もしかしたら」という意味で、確信はないものの、可能性として考えられることを述べる際に用いられます。"
+    },
+    {
+      "id": 43,
+      "value": "treat",
+      "options": [
+        "無視する",
+        "扱う",
+        "隠す",
+        "避ける"
+      ],
+      "correctAnswer": "扱う",
+      "explanation": "ここでは、「treat」は「（人）を扱う」という意味で使用されています。「How’s single life treating you?」は「独身生活はあなたをどのように扱っていますか？」→「独身生活はどうですか？」というニュアンスになります。"
+    },
+    {
+      "id": 44,
+      "value": "clause",
+      "options": [
+        "休憩",
+        "条項",
+        "原因",
+        "結果"
+      ],
+      "correctAnswer": "条項",
+      "explanation": "「clause」は、契約書や法律などの正式な文書における条項や規定を指します。例文: There is a clause in the contract that protects the company. (契約には会社を保護する条項がある。)"
+    },
+    {
+      "id": 45,
+      "value": "target",
+      "options": [
+        "無視する",
+        "助ける",
+        "目標とする",
+        "避ける"
+      ],
+      "correctAnswer": "目標とする",
+      "explanation": "「target」は、ここでは「（特定のグループを）標的にする」という意味で使用されています。例文: The scam targeted elderly people. (その詐欺は高齢者を標的にしていた。)"
+    },
+    {
+      "id": 46,
+      "value": "extraordinary",
+      "options": [
+        "ありふれた",
+        "普通の",
+        "並外れた",
+        "つまらない"
+      ],
+      "correctAnswer": "並外れた",
+      "explanation": "「extraordinary」は、並外れた、非常に素晴らしいという意味です。例文: She has an extraordinary talent for music. (彼女は音楽に関して並外れた才能を持っている。)"
+    },
+    {
+      "id": 47,
+      "value": "mojo",
+      "options": [
+        "幸運",
+        "不運",
+        "退屈",
+        "才能"
+      ],
+      "correctAnswer": "幸運",
+      "explanation": "「mojo」は、魅力、才能、または幸運をもたらす力という意味のスラングです。ここでは、リチャード・ファインマンの才能や魅力が乗り移ることを期待している文脈で使用されています。例文: He seems to have lost his mojo. (彼は才能を失ったようだ。)"
+    },
+    {
+      "id": 48,
+      "value": "sombrero",
+      "options": [
+        "帽子",
+        "靴",
+        "楽器",
+        "食べ物"
+      ],
+      "correctAnswer": "帽子",
+      "explanation": "「sombrero」はつばの広いメキシコの帽子です。"
+    },
+    {
+      "id": 49,
+      "value": "offend",
+      "options": [
+        "喜ばせる",
+        "褒める",
+        "怒らせる",
+        "助ける"
+      ],
+      "correctAnswer": "怒らせる",
+      "explanation": "「offend」は感情を害する、怒らせるという意味です。ここでは人種差別的な発言をすることについて言及しています。"
+    },
+    {
+      "id": 50,
+      "value": "inoculation",
+      "options": [
+        "食事",
+        "運動",
+        "予防接種",
+        "休憩"
+      ],
+      "correctAnswer": "予防接種",
+      "explanation": "「inoculation」は予防接種という意味です。"
+    },
+    {
+      "id": 51,
+      "value": "eloped",
+      "options": [
+        "駆け落ちした",
+        "手伝った",
+        "逃げ出した",
+        "楽しんだ"
+      ],
+      "correctAnswer": "駆け落ちした",
+      "explanation": "「elope」は、特に親や家族の反対を押し切って、恋人同士がひそかに結婚することを意味します。多くの場合、ロマンチックなニュアンスを伴います。例：They eloped to Las Vegas. (彼らはラスベガスに駆け落ちした。)"
+    },
+    {
+      "id": 52,
+      "value": "self-respecting",
+      "options": [
+        "自己中心的",
+        "自尊心のある",
+        "自己嫌悪の",
+        "自己犠牲的な"
+      ],
+      "correctAnswer": "自尊心のある",
+      "explanation": "「self-respecting」は、自分自身を尊重し、自分の行動や品位に誇りを持っていることを意味します。ある職業や立場の人があるべき姿を説明する際によく使われます。例：A self-respecting journalist would never publish unverified information. (自尊心のあるジャーナリストは、決して未確認の情報を公開しないだろう。)"
+    },
+    {
+      "id": 53,
+      "value": "damsel in distress",
+      "options": [
+        "困っている女性",
+        "成功した女性",
+        "活動的な女性",
+        "幸せな女性"
+      ],
+      "correctAnswer": "困っている女性",
+      "explanation": "「damsel in distress」は、助けを必要としている女性、特に危険な状況や困難な状況にある女性を指す、やや古風な表現です。物語や比喩的な表現でよく用いられます。例：He always dreamed of rescuing a damsel in distress. (彼はいつも困っている女性を救い出すことを夢見ていた。)"
+    },
+    {
+      "id": 54,
+      "value": "in a rut",
+      "options": [
+        "順調に",
+        "混乱して",
+        "スランプに",
+        "創造的に"
+      ],
+      "correctAnswer": "スランプに",
+      "explanation": "「in a rut」は、単調で変化のない、退屈な日常を送っている状態を指します。新しいことや刺激がない状態を表します。例：I felt like I was stuck in a rut, so I decided to take a vacation. (私はスランプに陥っているように感じたので、休暇を取ることにした。)"
+    },
+    {
+      "id": 55,
+      "value": "shake things up",
+      "options": [
+        "秘密にする",
+        "物事を隠す",
+        "状況を変える",
+        "落ち着かせる"
+      ],
+      "correctAnswer": "状況を変える",
+      "explanation": "「shake things up」は、現状を打破し、変化や刺激をもたらすために何かをすることを意味します。単調な状況や停滞した状態を改善する目的で使われます。例：We need to shake things up around here to increase productivity. (生産性を高めるために、ここを活性化させる必要がある。)"
+    },
+    {
+      "id": 56,
+      "value": "the joke was on her",
+      "options": [
+        "彼女は冗談を言った",
+        "彼女は笑われた",
+        "彼女は騙された",
+        "彼女は楽しかった"
+      ],
+      "correctAnswer": "彼女は騙された",
+      "explanation": "「the joke is on someone」という形で、ある人が他人をからかったり、出し抜こうとしたりした結果、自分自身が不利な状況に陥ることを意味します。皮肉や反転のニュアンスを含みます。例：He tried to cheat on the test, but the joke was on him when he got caught. (彼はテストで不正行為をしようとしたが、捕まって自分が馬鹿を見た。)"
+    },
+    {
+      "id": 57,
+      "value": "slats",
+      "options": [
+        "隙間",
+        "扉",
+        "壁",
+        "装飾"
+      ],
+      "correctAnswer": "隙間",
+      "explanation": "slatとは、ブラインドやルーバーなどの細長い板のことです。この板と板の間には隙間があり、光や空気を通すことができます。"
+    },
+    {
+      "id": 58,
+      "value": "give someone a hard time",
+      "options": [
+        "楽しい時間を与える",
+        "困難な状況に置く",
+        "助けを与える",
+        "褒めそやす"
+      ],
+      "correctAnswer": "困難な状況に置く",
+      "explanation": "「give someone a hard time」は、誰かにとって不快な状況を作り出したり、からかったり、批判したりすることを意味します。軽いからかいから、より深刻な嫌がらせまで、様々な状況で使われます。例：My friends always give me a hard time about my terrible singing. (友達はいつも私のひどい歌についてからかう。)"
+    },
+    {
+      "id": 59,
+      "value": "blood loss",
+      "options": [
+        "輸血",
+        "献血",
+        "失血",
+        "貧血"
+      ],
+      "correctAnswer": "失血",
+      "explanation": "blood lossとは、出血によって血液を失うことです。事故や手術などで起こります。"
+    },
+    {
+      "id": 60,
+      "value": "slugger",
+      "options": [
+        "怠け者",
+        "頑張り屋",
+        "食いしん坊",
+        "お調子者"
+      ],
+      "correctAnswer": "頑張り屋",
+      "explanation": "sluggerとは、スラッガー、強打者という意味です。ここでは、親しみを込めた呼びかけとして使われています。"
+    },
+    {
+      "id": 61,
+      "value": "sober chip",
+      "options": [
+        "酔っ払い",
+        "節約",
+        "禁酒",
+        "浪費"
+      ],
+      "correctAnswer": "禁酒",
+      "explanation": "sober chipとは、AA(アルコホーリクス・アノニマス)などで、断酒の期間に応じて与えられるメダルまたはトークンのことです。"
+    },
+    {
+      "id": 62,
+      "value": "spur of the moment",
+      "options": [
+        "計画的な",
+        "衝動的な",
+        "長期的な",
+        "秘密の"
+      ],
+      "correctAnswer": "衝動的な",
+      "explanation": "「spur of the moment」は、計画や準備なしに、その瞬間の衝動や感情に基づいて行動することを意味します。予期せぬ、突発的な行動を指します。例：We decided to go to the beach on the spur of the moment. (私たちは衝動的にビーチに行くことに決めた。)"
+    },
+    {
+      "id": 63,
+      "value": "sitting on",
+      "options": [
+        "保留している",
+        "座っている",
+        "立っている",
+        "忘れている"
+      ],
+      "correctAnswer": "保留している",
+      "explanation": "「sit on something」は、情報、決定、または計画などを保留し、すぐには行動しないことを意味します。発表や実行を遅らせるニュアンスがあります。例：I've been sitting on this news for weeks. (私はこのニュースを何週間も保留にしている。)"
+    },
+    {
+      "id": 64,
+      "value": "backed over",
+      "options": [
+        "見つけた",
+        "乗り越えた",
+        "避けた",
+        "隠した"
+      ],
+      "correctAnswer": "乗り越えた",
+      "explanation": "back overとは、車などで後退して乗り越えることです。ここでは、rototiller(耕うん機)でペットのpig(豚)を轢いてしまったことを表しています。"
+    },
+    {
+      "id": 65,
+      "value": "apple doesn’t fall far from the tree",
+      "options": [
+        "正直者はバカを見る",
+        "子は親に似る",
+        "失敗は成功のもと",
+        "親の心子知らず"
+      ],
+      "correctAnswer": "子は親に似る",
+      "explanation": "「the apple doesn't fall far from the tree」は、子供は親の性格や行動、特性を受け継ぐという意味のことわざです。類似した行動や性質を指摘する際に使われます。例：Like his father, he's a talented musician; the apple doesn't fall far from the tree. (彼の父親のように、彼も才能のある音楽家だ。まさに子は親に似るだね。)"
+    },
+    {
+      "id": 66,
+      "value": "Lamaze breathing",
+      "options": [
+        "深呼吸",
+        "瞑想",
+        "分娩呼吸法",
+        "腹式呼吸"
+      ],
+      "correctAnswer": "分娩呼吸法",
+      "explanation": "Lamaze breathingとは、ラマーズ法という出産時の呼吸法のことです。陣痛の痛みを和らげるために行われます。"
+    },
+    {
+      "id": 67,
+      "value": "push",
+      "options": [
+        "押す",
+        "引く",
+        "促す",
+        "頑張る"
+      ],
+      "correctAnswer": "頑張る",
+      "explanation": "pushとは、ここでは頑張るという意味で使われています。分娩時にいきむことを指しています。"
+    },
+    {
+      "id": 68,
+      "value": "uterus",
+      "options": [
+        "心臓",
+        "胃",
+        "子宮",
+        "肺"
+      ],
+      "correctAnswer": "子宮",
+      "explanation": "uterusとは、子宮のことです。女性の生殖器の一部です。"
+    },
+    {
+      "id": 69,
+      "value": "lever",
+      "options": [
+        "テコ",
+        "車輪",
+        "ネジ",
+        "滑車"
+      ],
+      "correctAnswer": "テコ",
+      "explanation": "leverとは、テコのことです。小さな力で大きな物を動かすための道具です。"
+    },
+    {
+      "id": 70,
+      "value": "fulcrum",
+      "options": [
+        "支点",
+        "力点",
+        "作用点",
+        "重心"
+      ],
+      "correctAnswer": "支点",
+      "explanation": "fulcrumとは、支点のことです。テコを支える点です。"
+    },
+    {
+      "id": 71,
+      "value": "walked me down the aisle",
+      "options": [
+        "一緒に歩いた",
+        "花道を歩いた",
+        "式を挙げた",
+        "旅立った"
+      ],
+      "correctAnswer": "花道を歩いた",
+      "explanation": "walk down the aisleとは、結婚式の際に、新婦が父親などと一緒にバージンロードを歩くことを意味します。"
+    },
+    {
+      "id": 72,
+      "value": "the sin closet",
+      "options": [
+        "秘密の部屋",
+        "罪を犯す場所",
+        "隠し部屋",
+        "懺悔室"
+      ],
+      "correctAnswer": "隠し部屋",
+      "explanation": "the sin closetとは、罪を隠す場所、転じて隠し部屋や秘密の場所を意味します。ここでは、母親がAmyを閉じ込める部屋のことを指しています。"
+    },
+    {
+      "id": 73,
+      "value": "rototiller",
+      "options": [
+        "耕運機",
+        "トラクター",
+        "コンバイン",
+        "田植え機"
+      ],
+      "correctAnswer": "耕運機",
+      "explanation": "rototillerとは、耕運機のことです。畑を耕すための機械です。"
+    },
+    {
+      "id": 74,
+      "value": "upset",
+      "options": [
+        "安心させる",
+        "動揺させる",
+        "喜ばせる",
+        "落ち着かせる"
+      ],
+      "correctAnswer": "動揺させる",
+      "explanation": "「upset」は、誰かを悲しませたり、怒らせたり、心配させたりして、精神的に動揺させることを意味します。感情的な混乱を引き起こす状況で使われます。例：I didn't want to upset her by telling her the truth. (彼女に真実を伝えて動揺させたくなかった。)"
+    },
+    {
+      "id": 75,
+      "value": "magical",
+      "options": [
+        "平凡な",
+        "魔法のような",
+        "現実的な",
+        "退屈な"
+      ],
+      "correctAnswer": "魔法のような",
+      "explanation": "「magical」は、非常に魅力的で、まるで魔法がかかったかのように素晴らしい、または非現実的なほど美しいという意味を持ちます。特別な雰囲気や感情を表現する際に用いられます。例：The sunset over the ocean was truly magical. (海に沈む夕日は本当に魔法のようだった。)"
+    },
+    {
+      "id": 76,
+      "value": "roll up our sleeves",
+      "options": [
+        "眠りにつく",
+        "準備万端で取りかかる",
+        "休憩する",
+        "諦める"
+      ],
+      "correctAnswer": "準備万端で取りかかる",
+      "explanation": "「roll up your sleeves」とは、文字通りにはシャツの袖をまくり上げるという意味ですが、比喩的には「本気で仕事や困難な問題に取り組む」という意味になります。困難な状況に対して積極的に立ち向かう姿勢を示します。例：We need to roll up our sleeves and get this project done on time.（時間通りにプロジェクトを終わらせるために、本気で取り組む必要がある。）"
+    },
+    {
+      "id": 77,
+      "value": "beloved",
+      "options": [
+        "嫌われた",
+        "忘れられた",
+        "愛された",
+        "無視された"
+      ],
+      "correctAnswer": "愛された",
+      "explanation": "「beloved」は「深く愛されている」という意味の形容詞です。家族、友人、ペットなど、大切な存在を指す時に使われます。過去分詞の形をしていますが、形容詞として機能します。例：She was a beloved member of the community.（彼女は地域社会で深く愛された存在だった。）"
+    },
+    {
+      "id": 78,
+      "value": "be in charge of",
+      "options": [
+        "～を担当している",
+        "～に反対している",
+        "～に興味がある",
+        "～に飽きている"
+      ],
+      "correctAnswer": "～を担当している",
+      "explanation": "「be in charge of」は、「～を担当している」「～の責任者である」という意味のイディオムです。特定の仕事やプロジェクト、または人を管理・監督する立場にあることを示します。例：She is in charge of the marketing department.（彼女はマーケティング部門の責任者です。）"
+    },
+    {
+      "id": 79,
+      "value": "get along",
+      "options": [
+        "仲良くする",
+        "喧嘩する",
+        "無視する",
+        "競争する"
+      ],
+      "correctAnswer": "仲良くする",
+      "explanation": "「get along」は、「仲良くする」「うまくやっていく」という意味の句動詞です。人との関係性や、物事が円滑に進む状況を表します。例：They get along very well with each other.（彼らはお互いにとても仲が良い。）"
+    },
+    {
+      "id": 80,
+      "value": "meaning to",
+      "options": [
+        "～するつもりである",
+        "～を避ける",
+        "～を後悔する",
+        "～を軽視する"
+      ],
+      "correctAnswer": "～するつもりである",
+      "explanation": "「be meaning to」は、「～するつもりである」「～しようと思っている」という意味の表現です。まだ実行していないが、近い将来に行う意図があることを示します。例：I've been meaning to call you.（あなたに電話しようと思っていたんだ。）"
+    },
+    {
+      "id": 81,
+      "value": "broad",
+      "options": [
+        "広い、広範囲の",
+        "狭い、限定的な",
+        "深い、詳細な",
+        "浅い、表面的な"
+      ],
+      "correctAnswer": "広い、広範囲の",
+      "explanation": "「broad」は、「広い」「広範囲の」という意味を持つ形容詞です。物理的な広さだけでなく、知識、理解、影響などの範囲が広いことも表します。例：He has a broad knowledge of history.（彼は歴史に関する幅広い知識を持っている。）"
+    },
+    {
+      "id": 82,
+      "value": "precise",
+      "options": [
+        "正確な、精密な",
+        "曖昧な、不正確な",
+        "おおまかな、大雑把な",
+        "複雑な、入り組んだ"
+      ],
+      "correctAnswer": "正確な、精密な",
+      "explanation": "「precise」は、「正確な」「精密な」という意味を持つ形容詞です。細部まで正確で、曖昧さがないことを表します。例：The measurements need to be precise.（測定は正確である必要があります。）"
+    },
+    {
+      "id": 83,
+      "value": "lighten up",
+      "options": [
+        "リラックスする、気楽にする",
+        "緊張する、心配する",
+        "怒る、不機嫌になる",
+        "悲しむ、落ち込む"
+      ],
+      "correctAnswer": "リラックスする、気楽にする",
+      "explanation": "「lighten up」は、「リラックスする」「気楽にする」「深刻にならない」という意味の句動詞です。状況や態度を和らげるように促す時に使われます。例：Lighten up! It's just a game.（気楽にやろう！ただのゲームだよ。）"
+    },
+    {
+      "id": 84,
+      "value": "eidetic memory",
+      "options": [
+        "写真記憶",
+        "短期記憶",
+        "長期記憶",
+        "偽の記憶"
+      ],
+      "correctAnswer": "写真記憶",
+      "explanation": "「eidetic memory」は、「写真記憶」という意味です。見たものを非常に鮮明に、写真のように記憶できる能力を指します。ただし、実際には非常に稀な能力です。例：He claimed to have an eidetic memory and could recall every detail of the page.（彼は写真記憶を持っていると主張し、そのページの細部をすべて思い出すことができた。）"
+    },
+    {
+      "id": 85,
+      "value": "curse",
+      "options": [
+        "呪い、災い",
+        "祝福、恵み",
+        "幸運、幸い",
+        "才能、能力"
+      ],
+      "correctAnswer": "呪い、災い",
+      "explanation": "「curse」は、「呪い」「災い」という意味の名詞です。不幸や災難をもたらす力や言葉を指します。また、比喩的に、苦痛や悩みの原因となるものを指すこともあります。例：Some people believe that breaking a mirror brings a curse.（鏡を割ると呪いが来ると信じている人もいる。）"
+    },
+    {
+      "id": 86,
+      "value": "fuel source",
+      "options": [
+        "燃料源",
+        "水源",
+        "食料源",
+        "エネルギー源"
+      ],
+      "correctAnswer": "燃料源",
+      "explanation": "「fuel source」は、「燃料源」という意味です。エネルギーを生み出すための物質や資源を指します。例：Fossil fuels are a major fuel source for many countries.（化石燃料は多くの国にとって主要な燃料源です。）"
+    },
+    {
+      "id": 87,
+      "value": "hydrocarbons",
+      "options": [
+        "炭化水素",
+        "タンパク質",
+        "炭水化物",
+        "脂肪"
+      ],
+      "correctAnswer": "炭化水素",
+      "explanation": "「hydrocarbons」は、「炭化水素」という意味です。炭素と水素のみからなる有機化合物の総称で、石油、天然ガスなどの主成分です。例：Hydrocarbons are used as fuels.（炭化水素は燃料として使用される。）"
+    },
+    {
+      "id": 88,
+      "value": "corrode",
+      "options": [
+        "腐食する、侵食する",
+        "保護する、守る",
+        "強化する、強くする",
+        "修復する、直す"
+      ],
+      "correctAnswer": "腐食する、侵食する",
+      "explanation": "「corrode」は、「腐食する」「侵食する」という意味の動詞です。化学反応や環境要因によって、金属などが徐々に劣化していく様子を表します。例：Salt water can corrode metal.（塩水は金属を腐食させる可能性がある。）"
+    },
+    {
+      "id": 89,
+      "value": "salinity",
+      "options": [
+        "塩分、塩度",
+        "酸性度",
+        "アルカリ度",
+        "糖度"
+      ],
+      "correctAnswer": "塩分、塩度",
+      "explanation": "「salinity」は、「塩分」「塩度」という意味の名詞です。水に含まれる塩の量を示す指標です。例：The salinity of the Dead Sea is very high.（死海の塩分は非常に高い。）"
+    },
+    {
+      "id": 90,
+      "value": "innovative",
+      "options": [
+        "革新的な、画期的な",
+        "伝統的な、保守的な",
+        "平凡な、ありふれた",
+        "時代遅れの、旧式の"
+      ],
+      "correctAnswer": "革新的な、画期的な",
+      "explanation": "「innovative」は、「革新的な」「画期的な」という意味の形容詞です。新しいアイデアや方法を取り入れ、従来のものとは異なる優れたものを生み出すことを表します。例：This company is known for its innovative products.（この会社は革新的な製品で知られている。）"
+    },
+    {
+      "id": 91,
+      "value": "exothermic reaction",
+      "options": [
+        "発熱反応",
+        "吸熱反応",
+        "中和反応",
+        "酸化還元反応"
+      ],
+      "correctAnswer": "発熱反応",
+      "explanation": "「exothermic reaction」は、「発熱反応」という意味です。化学反応の際に熱を放出する反応を指します。例：Combustion is an exothermic reaction.（燃焼は発熱反応である。）"
+    },
+    {
+      "id": 92,
+      "value": "ought to",
+      "options": [
+        "～すべきである",
+        "～する必要はない",
+        "～してはいけない",
+        "～することができない"
+      ],
+      "correctAnswer": "～すべきである",
+      "explanation": "「ought to」は、「～すべきである」「～するはずだ」という意味の助動詞です。道徳的な義務や、論理的な帰結を示す際に使われます。shouldと似た意味ですが、ややフォーマルな響きがあります。例：You ought to apologize.（あなたは謝るべきだ。）"
+    },
+    {
+      "id": 93,
+      "value": "met your match",
+      "options": [
+        "好敵手に出会った",
+        "道に迷った",
+        "罰せられた",
+        "新しい友達を作った"
+      ],
+      "correctAnswer": "好敵手に出会った",
+      "explanation": "「meet one's match」は、「好敵手に出会う」「匹敵する相手が現れる」という意味のイディオムです。これまで優位に立っていた人が、同等の力を持つ相手に出会い、苦戦する状況を表します。例：He's a tough player, but he's finally met his match.（彼は手ごわい選手だが、ついに好敵手に出会った。）"
+    },
+    {
+      "id": 94,
+      "value": "win",
+      "options": [
+        "勝つ",
+        "負ける",
+        "引き分ける",
+        "諦める"
+      ],
+      "correctAnswer": "勝つ",
+      "explanation": "このスクリプトでは、Pennyが自分の方がよりひどい経験をしたと主張する際に「You win.」と言っています。これは「あなたの勝ちだ」という意味で、相手の経験の方が自分よりも悲惨だったことを認める表現です。議論や競争を終わらせるために使われます。"
+    },
+    {
+      "id": 95,
+      "value": "Percussive",
+      "options": [
+        "打楽器の",
+        "旋律的な",
+        "電子的な",
+        "叙情的な"
+      ],
+      "correctAnswer": "打楽器の",
+      "explanation": "Percussive は打楽器の、打撃による、という意味です。ここでは衝撃を与えて問題解決を試みる科学的な原理を示唆しています。"
+    },
+    {
+      "id": 96,
+      "value": "Thermal Expansion",
+      "options": [
+        "熱膨張",
+        "寒冷収縮",
+        "等温変化",
+        "断熱膨張"
+      ],
+      "correctAnswer": "熱膨張",
+      "explanation": "熱膨張とは、物質が温度上昇によって体積を増やす現象です。ここでは熱を利用して問題を解決しようとする科学的な原理を示しています。"
+    },
+    {
+      "id": 97,
+      "value": "Accelerated",
+      "options": [
+        "加速された",
+        "減速された",
+        "一定の",
+        "停止した"
+      ],
+      "correctAnswer": "加速された",
+      "explanation": "Acceleratedは加速された、促進された、という意味です。ここでは腐食の速度を上げることを意図している科学的な原理を示しています。"
+    },
+    {
+      "id": 98,
+      "value": "Corrosion",
+      "options": [
+        "腐食",
+        "保護",
+        "修復",
+        "強化"
+      ],
+      "correctAnswer": "腐食",
+      "explanation": "Corrosionは腐食、侵食、という意味です。ここでは化学反応を利用して問題を解決しようとする科学的な原理を示しています。"
+    },
+    {
+      "id": 99,
+      "value": "Exothermic",
+      "options": [
+        "発熱性の",
+        "吸熱性の",
+        "等温性の",
+        "断熱性の"
+      ],
+      "correctAnswer": "発熱性の",
+      "explanation": "Exothermicは発熱性の、熱を放出する、という意味です。ここでは熱を発生させる反応を利用して問題を解決しようとする科学的な原理を示しています。"
+    },
+    {
+      "id": 100,
+      "value": "Recovered",
+      "options": [
+        "回収された",
+        "失われた",
+        "破壊された",
+        "隠された"
+      ],
+      "correctAnswer": "回収された",
+      "explanation": "Recoveredは回収された、取り戻された、という意味です。ここでは再利用するために集められたアルミニウムを指しています。"
+    }
+  ]
+}

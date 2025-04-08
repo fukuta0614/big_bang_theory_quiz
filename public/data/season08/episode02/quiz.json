@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "sick",
+      "options": [
+        "健康な",
+        "賢い",
+        "病気の",
+        "ひどい"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "ここでは文字通りの「病気」という意味ではなく、「嫌悪感を抱くほど異常だ」「不快だ」という強い非難や嫌悪を表すスラング的な用法です。道徳的に問題がある行為や考え方に対して使われます。例：That's a sick joke. (それはひどい冗談だ。)"
+    },
+    {
+      "id": 2,
+      "value": "badass",
+      "options": [
+        "臆病な",
+        "無能な",
+        "勇敢な",
+        "退屈な"
+      ],
+      "correctAnswer": "勇敢な",
+      "explanation": "「badass」は、非常にタフで強く、恐れを知らない人物や、印象的なほど優れている物事を指すスラングです。文脈によっては、反抗的で危険なニュアンスを含むこともあります。ここでは、半人半カバの兵士が非常に強力で恐ろしい存在であることを強調しています。例：He's a total badass on the guitar.（彼はギターがめちゃくちゃうまい。）"
+    },
+    {
+      "id": 3,
+      "value": "wind up with",
+      "options": [
+        "開始する",
+        "終わらせる",
+        "継続する",
+        "避ける"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「wind up with」は、最終的に〜になる、〜という結果になるという意味の句動詞です。意図したわけではない結果や、予期せぬ結果に対して使われることが多いです。 例：If you keep eating like that, you'll wind up with health problems. (そんな食生活を続けていると、健康を害することになるよ。)"
+    },
+    {
+      "id": 4,
+      "value": "awkwardness",
+      "options": [
+        "快適さ",
+        "ぎこちなさ",
+        "興奮",
+        "幸福"
+      ],
+      "correctAnswer": "ぎこちなさ",
+      "explanation": "「awkwardness」は、気まずさ、ぎこちなさ、不自然さなどを意味する名詞です。人間関係や状況が円滑に進まない、または居心地が悪い状態を表します。例：There was an awkwardness silence after his comment. (彼のコメントの後、気まずい沈黙があった。)"
+    },
+    {
+      "id": 5,
+      "value": "pushy",
+      "options": [
+        "控えめな",
+        "消極的な",
+        "強引な",
+        "友好的な"
+      ],
+      "correctAnswer": "強引な",
+      "explanation": "「pushy」は、人が自分の要求や意見を無理に押し通そうとする、強引な態度を表す形容詞です。相手に不快感を与えたり、圧力をかけたりするニュアンスが含まれます。例：Don't be so pushy; give people some space. (そんなに強引にならないで、人に少し余裕を与えて。)"
+    },
+    {
+      "id": 6,
+      "value": "get a head start",
+      "options": [
+        "遅れをとる",
+        "休憩する",
+        "先んじる",
+        "諦める"
+      ],
+      "correctAnswer": "先んじる",
+      "explanation": "「get a head start」は、人より早く始めることによって有利な立場を得る、先手を打つという意味のイディオムです。競争や目標達成において、有利なスタートを切ることを指します。例：I wanted to get a head start on the project, so I came in early. (プロジェクトで先んじたかったので、早く出社した。)"
+    },
+    {
+      "id": 7,
+      "value": "teacher's pet",
+      "options": [
+        "問題児",
+        "人気者",
+        "先生のお気に入り",
+        "忘れられた生徒"
+      ],
+      "correctAnswer": "先生のお気に入り",
+      "explanation": "「teacher's pet」は、先生から特別に可愛がられている生徒、先生のお気に入りという意味です。必ずしも良い意味ではなく、他の生徒からの嫉妬や反感を買う対象となることもあります。例：She was always the teacher's pet and got special treatment. (彼女はいつも先生のお気に入りで、特別な扱いを受けていた。)"
+    },
+    {
+      "id": 8,
+      "value": "reopen",
+      "options": [
+        "閉じる",
+        "繰り返す",
+        "再開する",
+        "無視する"
+      ],
+      "correctAnswer": "再開する",
+      "explanation": "「reopen」は、一時的に中断されていた活動、議論、調査などを再び始めるという意味です。物理的な場所だけでなく、抽象的な事柄にも使われます。例：They decided to reopen the case after new evidence emerged. (新たな証拠が出てきたため、彼らは事件を再捜査することにした。)"
+    },
+    {
+      "id": 9,
+      "value": "dialogue",
+      "options": [
+        "独り言",
+        "沈黙",
+        "対話",
+        "抗議"
+      ],
+      "correctAnswer": "対話",
+      "explanation": "「dialogue」は、二者以上が意見や情報を交換する会話、対話という意味です。フォーマルな議論や交渉、友好的な意見交換など、様々な文脈で使用されます。例：The company is engaging in a dialogue with its employees about the new policy. (会社は新しい方針について従業員と対話を行っている。)"
+    },
+    {
+      "id": 10,
+      "value": "grant",
+      "options": [
+        "拒否",
+        "要求",
+        "補助金",
+        "借金"
+      ],
+      "correctAnswer": "補助金",
+      "explanation": "「grant」は、研究、教育、慈善活動などの特定の目的のために提供される資金、助成金という意味です。返済義務がない点がローンとは異なります。例：The university received a large grant for cancer research. (大学は癌研究のために多額の助成金を受け取った。)"
+    },
+    {
+      "id": 11,
+      "value": "impart",
+      "options": [
+        "隠す",
+        "得る",
+        "伝える",
+        "忘れる"
+      ],
+      "correctAnswer": "伝える",
+      "explanation": "「impart」は、知識、情報、スキルなどを人に伝える、教えるという意味です。教育や指導の場面でよく用いられ、少しフォーマルなニュアンスがあります。例：The professor imparted his wisdom to the students. (教授は学生たちに自身の知識を伝えた。)"
+    },
+    {
+      "id": 12,
+      "value": "stimulate",
+      "options": [
+        "抑制する",
+        "無視する",
+        "刺激する",
+        "麻痺させる"
+      ],
+      "correctAnswer": "刺激する",
+      "explanation": "「stimulate」は、活動や成長を促進するために何かを刺激する、活気づけるという意味です。生物学的な刺激から経済的な刺激まで、幅広い文脈で使用されます。例：The government is trying to stimulate the economy. (政府は経済を刺激しようとしている。)"
+    },
+    {
+      "id": 13,
+      "value": "sit through",
+      "options": [
+        "避ける",
+        "楽しむ",
+        "我慢して参加する",
+        "提案する"
+      ],
+      "correctAnswer": "我慢して参加する",
+      "explanation": "「sit through」は、退屈、不快、または興味のない何かを我慢して最後まで参加するという意味の句動詞です。例：I had to sit through a three-hour meeting about something I didn't care about. (興味のないことについて3時間の会議に我慢して参加しなければならなかった。)"
+    },
+    {
+      "id": 14,
+      "value": "bugging",
+      "options": [
+        "無視する",
+        "助ける",
+        "悩ませる",
+        "楽しませる"
+      ],
+      "correctAnswer": "悩ませる",
+      "explanation": "「bug」は、人に付きまとって悩ませる、困らせるという意味の動詞です。些細なことで何度も連絡したり、要求したりする場合に使われます。例：My little brother keeps bugging me to play video games. (弟がビデオゲームで遊んでくれとしつこくせがんでくる。)"
+    },
+    {
+      "id": 15,
+      "value": "stunningly",
+      "options": [
+        "平均的に",
+        "醜く",
+        "驚くほど",
+        "わずかに"
+      ],
+      "correctAnswer": "驚くほど",
+      "explanation": "「stunningly」は、非常に魅力的、印象的、または驚くべき様子を表す副詞です。美しさや才能など、ポジティブな意味合いで使われることが多いです。例：She was stunningly beautiful in her wedding dress. (彼女はウェディングドレス姿が驚くほど美しかった。)"
+    },
+    {
+      "id": 16,
+      "value": "interspecies",
+      "options": [
+        "種内の",
+        "国内の",
+        "種間の",
+        "国際的な"
+      ],
+      "correctAnswer": "種間の",
+      "explanation": "「interspecies」は、異なる種の間で起こる、または関連する事柄を指す形容詞です。生物学的な文脈でよく用いられます。例：Interspecies communication is a complex and fascinating field of study. (種間コミュニケーションは複雑で魅力的な研究分野です。)"
+    },
+    {
+      "id": 17,
+      "value": "reinforce",
+      "options": [
+        "弱める",
+        "無視する",
+        "強化する",
+        "変更する"
+      ],
+      "correctAnswer": "強化する",
+      "explanation": "「reinforce」は、ある行動や信念を強める、強化するという意味です。ポジティブな行動を奨励したり、既存の考えを支持したりする際に使われます。例：Positive feedback can reinforce good habits. (肯定的なフィードバックは良い習慣を強化する。)ここでは、好ましくない行動を強化するという文脈で使用されています。"
+    },
+    {
+      "id": 18,
+      "value": "field of study",
+      "options": [
+        "遊び場",
+        "研究分野",
+        "スポーツ競技場",
+        "農地"
+      ],
+      "correctAnswer": "研究分野",
+      "explanation": "「field of study」は、特定の学問領域や研究テーマを指します。大学や研究機関における専門分野を表す際に用いられます。例：Her field of study is astrophysics. (彼女の研究分野は天体物理学です。)"
+    },
+    {
+      "id": 19,
+      "value": "mini",
+      "options": [
+        "巨大な",
+        "標準的な",
+        "小型の",
+        "不可能な"
+      ],
+      "correctAnswer": "小型の",
+      "explanation": "「mini」は、通常よりも小さいサイズであることを示す形容詞です。可愛らしさや携帯性を強調する際によく用いられます。例：She bought a mini skirt for the summer. (彼女は夏用にミニスカートを買った。)"
+    },
+    {
+      "id": 20,
+      "value": "get to it",
+      "options": [
+        "無視する",
+        "取りかかる",
+        "避ける",
+        "終わらせる"
+      ],
+      "correctAnswer": "取りかかる",
+      "explanation": "「get to it」は、何か（通常は仕事やタスク）に取りかかる、着手するという意味の口語的な表現です。先延ばしにしていたことを始める意思を示す際によく用いられます。例：I'll get to it as soon as I finish this email. (このメールを終えたらすぐ取りかかるよ。)"
+    },
+    {
+      "id": 21,
+      "value": "pouting",
+      "options": [
+        "笑顔",
+        "抗議",
+        "ふくれっ面",
+        "同意"
+      ],
+      "correctAnswer": "ふくれっ面",
+      "explanation": "「pouting」は、不満や不機嫌を表すために唇を突き出す行為、またはそのような表情をすることです。子供っぽい、またはわがままな態度と見なされることがあります。ここでは、シェルドンの行動を皮肉を込めて表現しています。例：She was pouting because she didn't get the toy she wanted. (彼女は欲しいおもちゃを買ってもらえなかったのでふくれっ面をしていた。)"
+    },
+    {
+      "id": 22,
+      "value": "cuddly",
+      "options": [
+        "危険な",
+        "冷たい",
+        "抱きしめたくなる",
+        "怖い"
+      ],
+      "correctAnswer": "抱きしめたくなる",
+      "explanation": "「cuddly」は、抱きしめたくなるような、愛らしい、可愛らしいという意味です。動物やぬいぐるみなど、触れることで安心感や幸福感を得られるものに対して用いられます。例：That teddy bear is so cuddly! (あのテディベアはとても抱きしめたくなるね！)"
+    },
+    {
+      "id": 23,
+      "value": "That is right",
+      "options": [
+        "間違っている",
+        "正しい",
+        "どうでもいい",
+        "難しい"
+      ],
+      "correctAnswer": "正しい",
+      "explanation": "「That's right」は、「その通り」「正しい」という意味で、相手の発言や行動が正しいことを肯定する際に使われます。肯定的な返事として日常会話で頻繁に使われる表現です。例：A: Is the capital of France Paris? B: That's right. (A: フランスの首都はパリですか？ B: その通りです。)"
+    },
+    {
+      "id": 24,
+      "value": "Moving on",
+      "options": [
+        "停止する",
+        "戻る",
+        "先に進む",
+        "迷う"
+      ],
+      "correctAnswer": "先に進む",
+      "explanation": "「Moving on」は、「次に進む」「話題を変える」という意味で、議論や活動を次の段階に進めたり、別の話題に移ったりする際に使われます。会議やプレゼンテーションなど、フォーマルな場面でもよく用いられます。例：Moving on to the next item on the agenda... (議題の次の項目に移ります...)"
+    },
+    {
+      "id": 25,
+      "value": "I assume",
+      "options": [
+        "私は知っている",
+        "私は知らない",
+        "私は推測する",
+        "私は命令する"
+      ],
+      "correctAnswer": "私は推測する",
+      "explanation": "「I assume」は、「私は推測する」「私は～だと思う」という意味で、確信はないものの、ある程度の根拠に基づいて何かを推測する際に使われます。控えめな言い方で、相手に配慮するニュアンスが含まれます。例：I assume you're coming to the party tonight. (今夜のパーティーに来ると思います。)"
+    },
+    {
+      "id": 26,
+      "value": "behind their back",
+      "options": [
+        "直接的に",
+        "彼らの目の前で",
+        "彼らに知らせずに",
+        "彼らの意見を聞いて"
+      ],
+      "correctAnswer": "彼らに知らせずに",
+      "explanation": "「behind someone's back」は、その人がいないところで、陰口を言ったり、秘密の計画を立てたりすることを意味します。相手に直接言えないことを、こっそり行うニュアンスがあります。\n\n例：They were talking about her behind her back. (彼らは彼女のいないところで彼女の陰口を言っていた。)"
+    },
+    {
+      "id": 27,
+      "value": "bonding force",
+      "options": [
+        "束縛力",
+        "結束力",
+        "破壊力",
+        "推進力"
+      ],
+      "correctAnswer": "結束力",
+      "explanation": "「bonding force」は、人々を結びつけ、関係を強化する力のことです。共通の興味や経験、感情などが含まれます。ここでは、ネガティブな意見を共有することが友人関係を深める力になるという意味で使われています。\n\n例：Shared experiences can be a strong bonding force between people. (共通の経験は、人々を結びつける強い結束力になり得る。)"
+    },
+    {
+      "id": 28,
+      "value": "in the spirit of",
+      "options": [
+        "～の精神に反して",
+        "～の精神に基づいて",
+        "～の物質の中で",
+        "～の秘密の中で"
+      ],
+      "correctAnswer": "～の精神に基づいて",
+      "explanation": "「in the spirit of」は、「～の精神で」「～にのっとって」という意味です。ある目的や理念、雰囲気を尊重し、それに沿って行動することを表します。\n\n例：In the spirit of Christmas, we donated to charity. (クリスマスの精神にのっとり、私たちは慈善団体に寄付をした。)"
+    },
+    {
+      "id": 29,
+      "value": "skank",
+      "options": [
+        "賢者",
+        "正直者",
+        "だらしない女",
+        "成功者"
+      ],
+      "correctAnswer": "だらしない女",
+      "explanation": "「skank」は、軽蔑的な意味合いを持つスラングで、だらしない女性、不潔な女性、または性的に乱れていると見なされる女性を指す侮蔑的な言葉です。非常に攻撃的な言葉なので、使用は避けるべきです。"
+    },
+    {
+      "id": 30,
+      "value": "come up with",
+      "options": [
+        "思いつく",
+        "忘れる",
+        "捨てる",
+        "隠す"
+      ],
+      "correctAnswer": "思いつく",
+      "explanation": "「come up with」は、アイデアや計画、解決策などを思いつく、提案するという意味です。思考や創造的なプロセスを経て何かを生み出すニュアンスがあります。\n\n例：She came up with a brilliant idea for the project. (彼女はそのプロジェクトのために素晴らしいアイデアを思いついた。)"
+    },
+    {
+      "id": 31,
+      "value": "something just didn’t seem right",
+      "options": [
+        "すべて順調に見えた",
+        "何かおかしい気がした",
+        "何も問題なかった",
+        "すべて正しかった"
+      ],
+      "correctAnswer": "何かおかしい気がした",
+      "explanation": "「something just didn’t seem right」は、何かが適切でない、しっくりこない、または違和感があるという意味を表します。明確な理由はないものの、直感的に何かがおかしいと感じる状況で使われます。\n\n例：The atmosphere in the room was strange; something just didn’t seem right. (部屋の雰囲気は奇妙で、何かがおかしい気がした。)"
+    },
+    {
+      "id": 32,
+      "value": "move on from",
+      "options": [
+        "～から先に進む",
+        "～に固執する",
+        "～を無視する",
+        "～を軽視する"
+      ],
+      "correctAnswer": "～から先に進む",
+      "explanation": "「move on from」は、ある活動や状況、話題から離れて、次の段階に進むという意味です。過去のことに囚われず、新しいことに取り組むニュアンスがあります。\n\n例：It's time to move on from this project and start something new. (このプロジェクトから先に進んで、何か新しいことを始める時だ。)"
+    },
+    {
+      "id": 33,
+      "value": "babysitting",
+      "options": [
+        "監視する",
+        "教育する",
+        "子供の世話をする",
+        "無視する"
+      ],
+      "correctAnswer": "子供の世話をする",
+      "explanation": "「babysitting」は、文字通りには子供の世話をすることを意味しますが、ここでは、Sheldonが大学院生をまるで子供のように扱うことに対する不満を表しています。彼らを指導するというよりは、面倒を見るというニュアンスが強いです。\n\n例：I'm not here to babysit you; you need to take responsibility for your actions. (私はあなたの子守をするためにここにいるのではない。自分の行動に責任を持つ必要がある。)"
+    },
+    {
+      "id": 34,
+      "value": "valid point",
+      "options": [
+        "無効な点",
+        "重要な点",
+        "妥当な点",
+        "不明確な点"
+      ],
+      "correctAnswer": "妥当な点",
+      "explanation": "「valid point」は、議論や意見交換において、論理的に正しく、妥当性のある指摘や意見を指します。相手の意見を認めつつ、議論を進める際に用いられます。\n\n例：That's a valid point, but I still disagree with your conclusion. (それは妥当な点ですが、それでもあなたの結論には同意できません。)"
+    },
+    {
+      "id": 35,
+      "value": "earful",
+      "options": [
+        "少量",
+        "大量",
+        "良い音",
+        "悪い音"
+      ],
+      "correctAnswer": "大量",
+      "explanation": "「earful」は、「耳いっぱいの」という意味で、ここでは「melted caramel」という甘美な表現と組み合わせて、Sheldonの声が非常に魅力的であることを強調しています。比喩的な表現で、Sheldonの自己陶酔的な性格をユーモラスに表現しています。\n\n例：I gave him an earful about his behavior. (彼の行動について、私は彼にこっぴどく説教した。)"
+    },
+    {
+      "id": 36,
+      "value": "taken students under their wings",
+      "options": [
+        "生徒を無視した",
+        "生徒を厳しく扱った",
+        "生徒を保護し指導した",
+        "生徒を競争させた"
+      ],
+      "correctAnswer": "生徒を保護し指導した",
+      "explanation": "「take someone under one's wing」は、誰かを保護し、指導し、援助するという意味のイディオムです。特に経験の浅い人や困っている人を助ける際に使われます。\n\n例：The experienced mentor took the new employee under her wing. (経験豊富なメンターは、新しい従業員を保護し指導した。)"
+    },
+    {
+      "id": 37,
+      "value": "That’s rich.",
+      "options": [
+        "それは素晴らしい",
+        "それは面白い",
+        "それは皮肉だ",
+        "それは貧しい"
+      ],
+      "correctAnswer": "それは皮肉だ",
+      "explanation": "「That's rich.」は、皮肉や当てこすりを込めて使われる表現です。相手の言動に対して、矛盾や偽善を感じたときに、「よく言うよ」「どの口が言うんだ」といったニュアンスで用いられます。\n\n例：He accused me of being late, but he's always the one who's late. That's rich! (彼は私が遅刻だと非難したが、いつも遅刻するのは彼の方だ。よく言うよ！)"
+    },
+    {
+      "id": 38,
+      "value": "lighten the mood",
+      "options": [
+        "気分を悪くする",
+        "雰囲気を重くする",
+        "雰囲気を軽くする",
+        "気分を無視する"
+      ],
+      "correctAnswer": "雰囲気を軽くする",
+      "explanation": "「lighten the mood」は、重苦しい雰囲気や深刻な状況を和らげ、明るくすることです。ジョークを言ったり、楽しい話題に変えたりすることで、場の空気を変えることを指します。\n\n例：He told a joke to lighten the mood after the serious meeting. (彼は深刻な会議の後、雰囲気を軽くするためにジョークを言った。)"
+    },
+    {
+      "id": 39,
+      "value": "molar stimulation",
+      "options": [
+        "微量の刺激",
+        "過剰な刺激",
+        "持続的な刺激",
+        "擬似的な刺激"
+      ],
+      "correctAnswer": "過剰な刺激",
+      "explanation": "化学において、モル濃度(molar)は溶液中の溶質の濃度を表す単位です。ここでは「1.2モルの刺激」とあり、かなり強い刺激であることを示唆しています。つまり、「molar stimulation」は、非常に強い刺激、過剰な刺激という意味合いになります。"
+    },
+    {
+      "id": 40,
+      "value": "frustrated with",
+      "options": [
+        "～に満足している",
+        "～にイライラしている",
+        "～に感謝している",
+        "～に同情している"
+      ],
+      "correctAnswer": "～にイライラしている",
+      "explanation": "「frustrated with」は、期待通りに進まないことや、何かを達成できないことに対して感じる不満やいらだちを表します。人、状況、または自分自身に対して使うことができます。\n\n例：I'm frustrated with my lack of progress. (自分の進捗の遅さにイライラしている。)"
+    },
+    {
+      "id": 41,
+      "value": "reflect poorly on",
+      "options": [
+        "～に良い影響を与える",
+        "～に悪い影響を与える",
+        "～に影響を与えない",
+        "～を無視する"
+      ],
+      "correctAnswer": "～に悪い影響を与える",
+      "explanation": "「reflect poorly on」は、ある事柄が別の事柄の評判や評価に悪影響を及ぼすという意味です。間接的に悪い結果をもたらす状況を表します。\n\n例：His behavior reflects poorly on the entire team. (彼の行動はチーム全体の評判に悪影響を与える。)"
+    },
+    {
+      "id": 42,
+      "value": "disparage",
+      "options": [
+        "称賛する",
+        "中傷する",
+        "無視する",
+        "尊敬する"
+      ],
+      "correctAnswer": "中傷する",
+      "explanation": "「disparage」は、軽蔑的な意味合いで、見下す、けなす、中傷するという意味です。相手の価値や能力を低く評価する際に用いられます。フォーマルな言葉です。\n\n例：He disparaged his colleague's work. (彼は同僚の仕事をけなした。)"
+    },
+    {
+      "id": 43,
+      "value": "unpleasing",
+      "options": [
+        "楽しい",
+        "不快な",
+        "普通の",
+        "素晴らしい"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「unpleasing」は、不快な、好ましくないという意味です。視覚、聴覚、味覚など、感覚的に不快な印象を与えるものに対して使われます。\n\n例：The food had an unpleasing smell. (その食べ物は不快な臭いがした。)"
+    },
+    {
+      "id": 44,
+      "value": "signed up",
+      "options": [
+        "登録した",
+        "忘れた",
+        "キャンセルした",
+        "拒否した"
+      ],
+      "correctAnswer": "登録した",
+      "explanation": "「sign up」は、コース、イベント、クラブなどに登録する、申し込むという意味です。参加の意思を示す行為を指します。\n\n例：I signed up for the yoga class. (私はヨガクラスに登録した。)"
+    },
+    {
+      "id": 45,
+      "value": "devote all my time to",
+      "options": [
+        "時間を無駄にする",
+        "時間を少しだけ使う",
+        "すべての時間を捧げる",
+        "時間を避ける"
+      ],
+      "correctAnswer": "すべての時間を捧げる",
+      "explanation": "「devote all my time to」は、特定の活動や目標にすべての時間とエネルギーを注ぎ込むという意味です。献身的な姿勢を表します。\n\n例：She devoted all her time to her studies. (彼女はすべての時間を研究に捧げた。)"
+    },
+    {
+      "id": 46,
+      "value": "Fig Newtons",
+      "options": [
+        "一般的なクッキーの名前",
+        "特定のクッキーの名前",
+        "存在しないクッキーの名前",
+        "歴史的な人物の名前"
+      ],
+      "correctAnswer": "特定のクッキーの名前",
+      "explanation": "「Fig Newtons」は、イチジクジャムが入った、Nabisco社が製造しているアメリカで人気のあるソフトクッキーの名前です。この名前が、科学者ニュートンとは関係がないというジョークに使われています。"
+    },
+    {
+      "id": 47,
+      "value": "the gesture",
+      "options": [
+        "侮辱",
+        "身振り",
+        "好意的な行為",
+        "無関心"
+      ],
+      "correctAnswer": "好意的な行為",
+      "explanation": "「gesture」は、ここでは「行為」「身振り」という意味ですが、特に親切心や好意を示す行為を指します。感謝の気持ちを表す際に用いられることが多いです。\n\n例：It was a kind gesture to offer me a ride home. (家まで送ってくれるのは親切な行為だった。)"
+    },
+    {
+      "id": 48,
+      "value": "doctorate",
+      "options": [
+        "学士号",
+        "修士号",
+        "博士号",
+        "準学士号"
+      ],
+      "correctAnswer": "博士号",
+      "explanation": "「doctorate」は、大学院で特定の分野を深く研究し、論文を提出して授与される最高学位である博士号を指します。専門分野における高度な知識と研究能力を証明するものです。\n\n例：She earned her doctorate in physics. (彼女は物理学の博士号を取得した。)"
+    },
+    {
+      "id": 49,
+      "value": "I appreciate",
+      "options": [
+        "私は感謝します",
+        "私は軽蔑します",
+        "私は無視します",
+        "私は後悔します"
+      ],
+      "correctAnswer": "私は感謝します",
+      "explanation": "「I appreciate」は、「私は感謝します」という意味で、相手の行為や言葉、または何か良いことに対して感謝の気持ちを伝える際に使います。丁寧な表現です。\n\n例：I appreciate your help with this project. (このプロジェクトを手伝ってくれて感謝します。)"
+    },
+    {
+      "id": 50,
+      "value": "a single thing",
+      "options": [
+        "すべて",
+        "何も～ない",
+        "重要なこと",
+        "些細なこと"
+      ],
+      "correctAnswer": "何も～ない",
+      "explanation": "「a single thing」は、「一つも～ない」「何も～ない」という意味で、否定的な文脈で使われます。特に、理解できないことや、関心がないことを強調する際に用いられます。\n\n例：I didn't understand a single thing he said. (彼が言ったことを一つも理解できなかった。)"
+    },
+    {
+      "id": 51,
+      "value": "ground state",
+      "options": [
+        "興奮状態",
+        "基底状態",
+        "中間状態",
+        "不安定状態"
+      ],
+      "correctAnswer": "基底状態",
+      "explanation": "「ground state」は物理学において、系が取りうる最も低いエネルギー状態を指します。原子、分子、またはより複雑なシステムにおいて、安定した状態を表す重要な概念です。例えば、原子の電子が最も内側の軌道に存在する場合が基底状態です。"
+    },
+    {
+      "id": 52,
+      "value": "vary its parameters",
+      "options": [
+        "パラメータを固定する",
+        "パラメータを変化させる",
+        "パラメータを無視する",
+        "パラメータを削除する"
+      ],
+      "correctAnswer": "パラメータを変化させる",
+      "explanation": "「vary its parameters」は、あるモデルやシステムにおいて、その特性や挙動を決定する変数の値を意図的に変更することを意味します。最適化や実験を行う際に、様々な条件を試すために行われます。例えば、機械学習モデルの学習率や正則化の強さを調整する際に使用されます。"
+    },
+    {
+      "id": 53,
+      "value": "differentiate under the integral sign",
+      "options": [
+        "積分記号の下で微分する",
+        "積分記号の中で足し算をする",
+        "積分記号を無視する",
+        "積分記号の外で微分する"
+      ],
+      "correctAnswer": "積分記号の下で微分する",
+      "explanation": "「differentiate under the integral sign」は、積分記号の中で微分を行うテクニックです。これは、積分と微分の順序を交換することで、複雑な積分をより簡単に解くことができる場合があります。特に、パラメータを含む積分において有効な手法です。"
+    },
+    {
+      "id": 54,
+      "value": "interpretation of quantum mechanics",
+      "options": [
+        "量子力学の解釈",
+        "古典力学の解釈",
+        "相対性理論の解釈",
+        "熱力学の解釈"
+      ],
+      "correctAnswer": "量子力学の解釈",
+      "explanation": "「interpretation of quantum mechanics」は、量子力学の数学的な形式が現実世界をどのように記述しているのかを説明しようとする試みです。多世界解釈やコペンハーゲン解釈など、様々な解釈が存在し、それぞれが異なる物理的な意味合いを持っています。これらの解釈は、量子力学の基礎的な問題を理解しようとする上で重要です。"
+    },
+    {
+      "id": 55,
+      "value": "equally correct",
+      "options": [
+        "全く正しい",
+        "部分的に正しい",
+        "全く正しくない",
+        "条件付きで正しい"
+      ],
+      "correctAnswer": "全く正しい",
+      "explanation": "「equally correct」は、複数の選択肢や解釈が同じ程度に正しい、または妥当であることを意味します。この文脈では、量子力学の異なる解釈が、実験結果を説明する上では同等であることを示唆しています。ただし、哲学的または形而上学的な観点からは異なる場合があります。"
+    },
+    {
+      "id": 56,
+      "value": "intellectually emasculate",
+      "options": [
+        "知的に強化する",
+        "知的に打ち負かす",
+        "知的に刺激する",
+        "知的に無視する"
+      ],
+      "correctAnswer": "知的に打ち負かす",
+      "explanation": "「intellectually emasculate」は、相手の知的な優位性を奪い、自信を失わせることを意図する行為を指します。この表現は、相手の知的な能力を貶めることで、相手の自尊心を傷つけるニュアンスを含んでいます。通常、競争的な状況や、相手を支配しようとする意図がある場合に使われます。"
+    },
+    {
+      "id": 57,
+      "value": "scares the pants off you",
+      "options": [
+        "非常に喜ばせる",
+        "非常に怖がらせる",
+        "非常に怒らせる",
+        "非常に悲しませる"
+      ],
+      "correctAnswer": "非常に怖がらせる",
+      "explanation": "「scares the pants off you」は、非常に強い恐怖や驚きを感じさせることを意味する口語的な表現です。文字通りには「ズボンを脱がせるほど怖がらせる」となりますが、比喩的に使われ、大げさな表現として用いられます。日常会話でよく使われ、フォーマルな場面では避けるべきです。"
+    },
+    {
+      "id": 58,
+      "value": "lash out",
+      "options": [
+        "辛抱強く待つ",
+        "感情的に爆発する",
+        "冷静に議論する",
+        "喜んで受け入れる"
+      ],
+      "correctAnswer": "感情的に爆発する",
+      "explanation": "「lash out」は、怒りや不満などの強い感情を爆発させ、攻撃的な行動や言葉で反応することを意味します。通常、ストレスやプレッシャーを感じている時に、制御を失って感情的に反応する状況を指します。例えば、批判された際に感情的に反論するなどが該当します。"
+    },
+    {
+      "id": 59,
+      "value": "allergic to peanuts",
+      "options": [
+        "ピーナッツが好き",
+        "ピーナッツにアレルギーがある",
+        "ピーナッツを育てている",
+        "ピーナッツを販売している"
+      ],
+      "correctAnswer": "ピーナッツにアレルギーがある",
+      "explanation": "「allergic to peanuts」は、ピーナッツに対するアレルギー反応を持つことを意味します。ピーナッツアレルギーは、軽度のかゆみから重度のアナフィラキシーショックまで、様々な症状を引き起こす可能性があります。アレルギーを持つ人は、ピーナッツを含む食品を避ける必要があります。"
+    },
+    {
+      "id": 60,
+      "value": "belittle me",
+      "options": [
+        "私を尊敬する",
+        "私をけなす",
+        "私を助ける",
+        "私を無視する"
+      ],
+      "correctAnswer": "私をけなす",
+      "explanation": "「belittle」は、相手を軽視したり、見下したりするような言動をすることを意味します。相手の能力や価値を貶めることで、相手の自信を奪ったり、不快感を与えたりする行為を指します。例えば、相手の成果を過小評価したり、欠点を強調したりすることが該当します。"
+    },
+    {
+      "id": 61,
+      "value": "sincere effort",
+      "options": [
+        "誠実な努力",
+        "怠惰な努力",
+        "偽りの努力",
+        "無駄な努力"
+      ],
+      "correctAnswer": "誠実な努力",
+      "explanation": "「sincere effort」は、心からの誠意を込めて真剣に取り組む努力を意味します。表面的なものではなく、真摯な気持ちで目標達成のために尽力する姿勢を指します。例えば、困難な課題に対して、諦めずに真剣に取り組む場合に使われます。"
+    },
+    {
+      "id": 62,
+      "value": "give this a shot",
+      "options": [
+        "諦める",
+        "試してみる",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "試してみる",
+      "explanation": "「give this a shot」は、何かを試してみる、挑戦してみるという意味の口語的な表現です。必ずしも成功を保証するわけではありませんが、積極的に試みる姿勢を示します。例えば、新しい趣味や仕事に挑戦する際に使われます。"
+    },
+    {
+      "id": 63,
+      "value": "first things first",
+      "options": [
+        "最初から最後まで",
+        "最も重要なことから",
+        "最後にすることから",
+        "どうでもいいことから"
+      ],
+      "correctAnswer": "最も重要なことから",
+      "explanation": "「first things first」は、最も重要なこと、優先すべきことから始めるという意味の表現です。物事を整理し、最も重要なタスクに集中することで、効率的に目標を達成しようとする意図を示します。例えば、会議の冒頭で議題の優先順位を確認する際に使われます。"
+    },
+    {
+      "id": 64,
+      "value": "familiar with",
+      "options": [
+        "知らない",
+        "精通している",
+        "興味がない",
+        "嫌い"
+      ],
+      "correctAnswer": "精通している",
+      "explanation": "「familiar with」は、何かについて知識や経験があり、よく知っている状態を意味します。特定の分野やトピックについて、基本的な理解があることを示す場合に使われます。例えば、特定のソフトウェアの使用経験がある場合などに使われます。"
+    },
+    {
+      "id": 65,
+      "value": "calculus of variations",
+      "options": [
+        "変分法",
+        "微分積分学",
+        "線形代数学",
+        "確率論"
+      ],
+      "correctAnswer": "変分法",
+      "explanation": "「calculus of variations」は、関数を入力として受け取り、別の関数を出力する汎関数を扱う数学の分野です。物理学や工学において、ある条件を満たす最適な関数（例えば、最短時間で移動する経路）を見つけるために使用されます。例えば、最小作用の原理を扱う際に用いられます。"
+    },
+    {
+      "id": 66,
+      "value": "inverted cycloid",
+      "options": [
+        "反転した双曲線",
+        "反転したサイクロイド",
+        "反転した放物線",
+        "反転した直線"
+      ],
+      "correctAnswer": "反転したサイクロイド",
+      "explanation": "「inverted cycloid」は、サイクロイド曲線を上下反転させたものです。サイクロイドは、円が直線上を転がる際に、円周上の点が描く曲線です。反転サイクロイドは、最速降下曲線（Brachistochrone curve）として知られ、重力下で最も早くある点に到達する経路を表します。"
+    },
+    {
+      "id": 67,
+      "value": "Euler-Lagrange theorems",
+      "options": [
+        "オイラー・ラグランジュの定理",
+        "ピタゴラスの定理",
+        "フェルマーの最終定理",
+        "ゲーデルの不完全性定理"
+      ],
+      "correctAnswer": "オイラー・ラグランジュの定理",
+      "explanation": "「Euler-Lagrange theorems」は、変分法における基本的な定理であり、汎関数の停留点を求めるために使用されます。物理学において、作用積分を最小化する運動方程式を導出する際に広く用いられます。例えば、古典力学におけるラグランジュ方程式の導出に利用されます。"
+    },
+    {
+      "id": 68,
+      "value": "fuzzy",
+      "options": [
+        "明確",
+        "曖昧",
+        "完璧",
+        "詳細"
+      ],
+      "correctAnswer": "曖昧",
+      "explanation": "「fuzzy」は、曖昧で不明確な状態を指します。知識や理解が不完全で、はっきりとしていない状況を表す際に使われます。例えば、「その辺りの記憶は曖昧だ」というように使われます。"
+    },
+    {
+      "id": 69,
+      "value": "grading on a curve",
+      "options": [
+        "絶対評価",
+        "相対評価",
+        "自己評価",
+        "相互評価"
+      ],
+      "correctAnswer": "相対評価",
+      "explanation": "「grading on a curve」は、テストや課題の評価方法の一つで、成績分布を正規分布に近づけるように調整することを意味します。平均点に基づいて成績を決定するため、個人の絶対的な成績ではなく、集団内での相対的な位置が重要になります。競争的な環境でよく用いられます。"
+    },
+    {
+      "id": 70,
+      "value": "guaranteed",
+      "options": [
+        "保証された",
+        "推奨された",
+        "提案された",
+        "否定された"
+      ],
+      "correctAnswer": "保証された",
+      "explanation": "「guaranteed」は、確実である、保証されているという意味です。特定の条件や結果が確実に得られることを約束する場合に使われます。例えば、「この製品は品質が保証されています」というように使われます。"
+    },
+    {
+      "id": 71,
+      "value": "no matter what",
+      "options": [
+        "どんなことがあっても",
+        "何もしなくても",
+        "場合によっては",
+        "できる限り"
+      ],
+      "correctAnswer": "どんなことがあっても",
+      "explanation": "「no matter what」は、どんな状況や困難があっても、という意味を表す強調表現です。決意や強い意志を示す際に使われます。例えば、「どんなことがあっても諦めない」というように使われます。"
+    },
+    {
+      "id": 72,
+      "value": "crappy",
+      "options": [
+        "素晴らしい",
+        "ひどい",
+        "普通",
+        "幸運"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「crappy」は、品質や出来が非常に悪い、ひどいという意味の口語的な表現です。軽蔑や不満の気持ちを表す際に使われます。例えば、「crappy weather（ひどい天気）」というように使われます。フォーマルな場面では避けるべきです。"
+    },
+    {
+      "id": 73,
+      "value": "defeated",
+      "options": [
+        "勝利した",
+        "敗北した",
+        "引き分けた",
+        "逃げ出した"
+      ],
+      "correctAnswer": "敗北した",
+      "explanation": "「defeated」は、競争や戦い、または困難な状況において負けた、打ち負かされたという意味です。目標を達成できなかったり、相手に屈したりする状況を表します。例えば、「defeated in battle（戦いで敗北した）」というように使われます。"
+    },
+    {
+      "id": 74,
+      "value": "going in on the verse",
+      "options": [
+        "詩を朗読する",
+        "詩に夢中になる",
+        "詩を批判する",
+        "詩を無視する"
+      ],
+      "correctAnswer": "詩に夢中になる",
+      "explanation": "「going in on the verse」は、音楽（特にラップ）において、ある人物がその曲のバース（歌詞の一節）を熱心に、またはエネルギッシュに担当することを意味します。スラング的な表現で、その部分に集中して取り組んでいる様子を表します。"
+    },
+    {
+      "id": 75,
+      "value": "spitball",
+      "options": [
+        "野球のボール",
+        "紙で作った球",
+        "ガラス玉",
+        "ビー玉"
+      ],
+      "correctAnswer": "紙で作った球",
+      "explanation": "「spitball」は、通常、紙を小さく丸めて唾液で湿らせたもので、ストローなどを使って飛ばすいたずら道具です。子供たちがよく使うもので、軽いいたずらや遊びに使われます。フォーマルな場面には不適切です。"
+    },
+    {
+      "id": 76,
+      "value": "institution of higher learning",
+      "options": [
+        "高等教育機関",
+        "刑務所",
+        "小学校",
+        "病院"
+      ],
+      "correctAnswer": "高等教育機関",
+      "explanation": "「institution of higher learning」とは、大学や専門学校などの高等教育を行う機関を指します。学術的な研究や教育が行われる場としての意味合いが強く、知的な活動を尊重する環境であることを示唆します。"
+    },
+    {
+      "id": 77,
+      "value": "hit up",
+      "options": [
+        "攻撃する",
+        "訪れる",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "訪れる",
+      "explanation": "「hit up」は、カジュアルな口語表現で、ある場所や人に立ち寄る、訪れるという意味です。気軽なニュアンスがあり、友人との会話などでよく用いられます。例：Let's hit up that new cafe downtown.（ダウンタウンの新しいカフェに行ってみよう。）"
+    },
+    {
+      "id": 78,
+      "value": "sneak in",
+      "options": [
+        "こっそり持ち込む",
+        "堂々と入る",
+        "急いで出る",
+        "大声で叫ぶ"
+      ],
+      "correctAnswer": "こっそり持ち込む",
+      "explanation": "「sneak in」は、こっそり、ひそかに何かを持ち込む、またはどこかに入るという意味です。許可を得ていない、または目立たないように行動するニュアンスがあります。例：We tried to sneak in some snacks to the movie theater. (映画館にこっそりお菓子を持ち込もうとした。)"
+    },
+    {
+      "id": 79,
+      "value": "Whatevs",
+      "options": [
+        "何でもない",
+        "気にしない",
+        "素晴らしい",
+        "重要なこと"
+      ],
+      "correctAnswer": "気にしない",
+      "explanation": "「Whatevs」は「whatever」のさらにくだけた口語表現で、どうでもいい、気にしない、どちらでもいい、という意味合いを持ちます。無関心や投げやりな態度を示す際に使われます。 例: I don't care, whatevs.（気にしないよ、どうでもいい。）"
+    },
+    {
+      "id": 80,
+      "value": "get that nag off your back",
+      "options": [
+        "批判をかわす",
+        "サポートを得る",
+        "褒められる",
+        "無視する"
+      ],
+      "correctAnswer": "批判をかわす",
+      "explanation": "「get that nag off your back」は、しつこいお小言や批判から解放される、という意味です。人があなたを煩わせたり、プレッシャーをかけてくる状態から抜け出すことを指します。例：If you finish your homework, you can get your mom off your back.（宿題を終わらせれば、お母さんの小言から解放されるよ。）"
+    },
+    {
+      "id": 81,
+      "value": "riding you",
+      "options": [
+        "甘やかす",
+        "厳しく当たる",
+        "見捨てる",
+        "応援する"
+      ],
+      "correctAnswer": "厳しく当たる",
+      "explanation": "「ride」は、ここでは「人に厳しく当たる」「人を酷使する」という意味合いで使われています。比喩的に、誰かをコントロールしようとしたり、過度に批判したりする状況を表します。例：My boss is always riding me about deadlines. (私の上司はいつも締め切りについて厳しく私に言ってくる。)"
+    },
+    {
+      "id": 82,
+      "value": "get along",
+      "options": [
+        "喧嘩する",
+        "仲良くする",
+        "無視する",
+        "命令する"
+      ],
+      "correctAnswer": "仲良くする",
+      "explanation": "「get along」は、人との関係が良好である、仲良くやっていくという意味です。円滑なコミュニケーションや協力関係がある状態を示します。例：They get along very well with their neighbors. (彼らは隣人とうまくやっている。)"
+    },
+    {
+      "id": 83,
+      "value": "sanctity",
+      "options": [
+        "汚染",
+        "神聖さ",
+        "危険",
+        "秘密"
+      ],
+      "correctAnswer": "神聖さ",
+      "explanation": "「sanctity」は、神聖さ、不可侵性、尊重すべき状態、という意味です。宗教的な意味合いだけでなく、非常に重要なものや場所に対する深い敬意を表す際にも用いられます。例：the sanctity of marriage（結婚の神聖さ）"
+    },
+    {
+      "id": 84,
+      "value": "make fun of",
+      "options": [
+        "真似をする",
+        "からかう",
+        "尊敬する",
+        "手伝う"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「make fun of」は、誰かや何かをからかう、嘲笑するという意味です。相手を面白おかしく扱うことで、不快感や侮辱感を与える可能性があります。例：The kids were making fun of his accent. (子供たちは彼のアクセントをからかっていた。)"
+    },
+    {
+      "id": 85,
+      "value": "eddy currents",
+      "options": [
+        "直流電流",
+        "渦電流",
+        "交流電流",
+        "静電気"
+      ],
+      "correctAnswer": "渦電流",
+      "explanation": "「eddy currents」は、渦電流という意味で、導体内部に誘導される環状の電流のことです。エネルギー損失の原因となるため、工学分野では抑制する工夫がなされます。変圧器の効率を上げるために、渦電流を減らす対策が取られます。"
+    },
+    {
+      "id": 86,
+      "value": "laminate",
+      "options": [
+        "分解する",
+        "積層する",
+        "冷却する",
+        "溶解する"
+      ],
+      "correctAnswer": "積層する",
+      "explanation": "「laminate」は、薄い層を重ねて一つの構造物にする、積層するという意味です。ここでは、変圧器のコア材を薄い板状にして重ねることで、渦電流の発生を抑制する技術を指しています。例：laminated glass（合わせガラス）"
+    },
+    {
+      "id": 87,
+      "value": "flow rate",
+      "options": [
+        "流速",
+        "流量",
+        "水圧",
+        "水温"
+      ],
+      "correctAnswer": "流量",
+      "explanation": "「flow rate」は、流量という意味で、単位時間あたりに流れる流体の量を指します。パイプ内の流量は、パイプの直径や流体の粘度などによって変化します。工学や物理学で重要な概念です。"
+    },
+    {
+      "id": 88,
+      "value": "depend on",
+      "options": [
+        "依存する",
+        "無視する",
+        "反発する",
+        "独立する"
+      ],
+      "correctAnswer": "依存する",
+      "explanation": "「depend on」は、～に依存する、～次第である、という意味です。何かの結果や状態が、他の要因によって左右されることを示します。例：Our success depends on your hard work. (私たちの成功はあなたの努力にかかっている。)"
+    },
+    {
+      "id": 89,
+      "value": "Poiseuille's law",
+      "options": [
+        "ボイルの法則",
+        "ポアズイユの法則",
+        "ニュートンの法則",
+        "オームの法則"
+      ],
+      "correctAnswer": "ポアズイユの法則",
+      "explanation": "「Poiseuille's law」は、ポアズイユの法則という、粘性流体の管内における流量を説明する物理法則です。流量は管の半径の4乗に比例し、粘度と管の長さに反比例します。医療分野や工学分野で応用されています。"
+    },
+    {
+      "id": 90,
+      "value": "side effects",
+      "options": [
+        "主な効果",
+        "副作用",
+        "治療法",
+        "予防法"
+      ],
+      "correctAnswer": "副作用",
+      "explanation": "「side effects」は、副作用という意味で、薬や治療によって引き起こされる、意図しない好ましくない影響を指します。副作用は、薬の添付文書などに記載されています。例：Common side effects include headache and nausea. (一般的な副作用には頭痛や吐き気がある。)"
+    },
+    {
+      "id": 91,
+      "value": "galactic year",
+      "options": [
+        "太陽年",
+        "銀河年",
+        "光年",
+        "宇宙年"
+      ],
+      "correctAnswer": "銀河年",
+      "explanation": "「galactic year」は、銀河年という意味で、太陽系が銀河の中心を一周するのにかかる時間のことです。約2億5千万年と推定されています。宇宙規模の時間尺度を理解するための単位です。"
+    },
+    {
+      "id": 92,
+      "value": "crazy",
+      "options": [
+        "普通",
+        "狂っている",
+        "退屈",
+        "安全"
+      ],
+      "correctAnswer": "狂っている",
+      "explanation": "「crazy」は、ここでは「信じられない」「おかしい」という意味で使われています。常識外れな状況や、予想外の出来事に対して驚きや興奮を表す際に用いられます。例：That's crazy! I can't believe you won the lottery. (信じられない！宝くじに当たったなんて。)"
+    },
+    {
+      "id": 93,
+      "value": "Archimedean solid",
+      "options": [
+        "アルキメデスの正多面体",
+        "プラトンの立体",
+        "カプレカ数",
+        "フィボナッチ数列"
+      ],
+      "correctAnswer": "アルキメデスの正多面体",
+      "explanation": "「Archimedean solid」は、アルキメデスの立体という意味で、2種類以上の正多角形から構成され、各頂点において接する多角形の並びが同じである凸多面体のことです。準正多面体とも呼ばれます。"
+    },
+    {
+      "id": 94,
+      "value": "vertices",
+      "options": [
+        "面",
+        "頂点",
+        "辺",
+        "角"
+      ],
+      "correctAnswer": "頂点",
+      "explanation": "「vertices」は、vertexの複数形で、頂点という意味です。多角形や多面体の角の部分を指します。グラフ理論など、数学の様々な分野で用いられる基本的な概念です。"
+    },
+    {
+      "id": 95,
+      "value": "edges",
+      "options": [
+        "面",
+        "頂点",
+        "辺",
+        "角"
+      ],
+      "correctAnswer": "辺",
+      "explanation": "「edges」は、edgeの複数形で、辺という意味です。多角形や多面体の面と面が交わる線を指します。グラフ理論など、数学の様々な分野で用いられる基本的な概念です。"
+    },
+    {
+      "id": 96,
+      "value": "awkward",
+      "options": [
+        "堂々とした",
+        "ぎこちない",
+        "魅力的な",
+        "勇敢な"
+      ],
+      "correctAnswer": "ぎこちない",
+      "explanation": "「awkward」は、ぎこちない、不器用な、気まずい、という意味です。人とのコミュニケーションや状況において、円滑に進まない、居心地の悪い状態を表します。例：There was an awkward silence after his comment. (彼の発言の後、気まずい沈黙が訪れた。)"
+    },
+    {
+      "id": 97,
+      "value": "weird",
+      "options": [
+        "普通",
+        "奇妙な",
+        "退屈な",
+        "安全な"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "「weird」は、奇妙な、風変わりな、不思議な、という意味です。通常とは異なる、理解しがたい、または不気味な印象を与えるものを指します。例：He's a little weird, but he's a good guy. (彼は少し奇妙だけど、いいやつだよ。)"
+    },
+    {
+      "id": 98,
+      "value": "treat me with respect",
+      "options": [
+        "敬意を払う",
+        "無視する",
+        "軽蔑する",
+        "からかう"
+      ],
+      "correctAnswer": "敬意を払う",
+      "explanation": "「treat me with respect」は、私に敬意を払う、という意味です。相手を尊重し、礼儀正しく接することを要求する表現です。社会的地位や年齢に関わらず、人間関係において重要な要素です。"
+    },
+    {
+      "id": 99,
+      "value": "go over the stuff",
+      "options": [
+        "復習する",
+        "無視する",
+        "捨てる",
+        "忘れる"
+      ],
+      "correctAnswer": "復習する",
+      "explanation": "「go over the stuff」は、教材や資料などを復習する、見直す、という意味です。試験やプレゼンテーションの準備として、内容を再確認する際に用いられます。例：I need to go over my notes before the exam. (試験前にノートを復習する必要がある。)"
+    },
+    {
+      "id": 100,
+      "value": "checking my stool",
+      "options": [
+        "便を調べる",
+        "椅子を調べる",
+        "株を調べる",
+        "気分を調べる"
+      ],
+      "correctAnswer": "便を調べる",
+      "explanation": "「checking my stool」は、自分の便を調べる、という意味です。健康状態を把握するために、便の色や状態を観察することを指します。医学的な文脈で用いられることが多い表現です。"
+    }
+  ]
+}

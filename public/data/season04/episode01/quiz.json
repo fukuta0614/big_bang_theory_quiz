@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "takeaway",
+      "options": [
+        "持ち帰り料理",
+        "無料",
+        "割引",
+        "お土産"
+      ],
+      "correctAnswer": "持ち帰り料理",
+      "explanation": "「takeaway」は、レストランなどで注文して持ち帰る料理のことです。イギリス英語でよく使われ、アメリカ英語では「takeout」が一般的です。例文：Let's get some takeaway tonight. (今夜は何か持ち帰り料理にしよう。)"
+    },
+    {
+      "id": 2,
+      "value": "smooth",
+      "options": [
+        "滑らか",
+        "粗い",
+        "騒々しい",
+        "不安定"
+      ],
+      "correctAnswer": "滑らか",
+      "explanation": "この文脈での「smooth」は、ロボットアームの動きが滑らかで、スムーズであることを褒める際に使われています。日常会話でも、物事が順調に進んでいる様子を表現する際に用いられます。例文：The presentation went very smooth. (プレゼンテーションは非常にスムーズに進んだ。)"
+    },
+    {
+      "id": 3,
+      "value": "cautious",
+      "options": [
+        "用心深い",
+        "大胆な",
+        "無謀な",
+        "怠惰な"
+      ],
+      "correctAnswer": "用心深い",
+      "explanation": "「cautious」は、危険を避けるために注意深く行動することを意味します。Sheldonがロボット技術の進化に対して警戒を促す際に使われています。例文：We need to be cautious about investing in such a risky venture. (そのような危険な事業への投資には用心深くなる必要がある。)"
+    },
+    {
+      "id": 4,
+      "value": "retrieval",
+      "options": [
+        "検索",
+        "隠蔽",
+        "破壊",
+        "製造"
+      ],
+      "correctAnswer": "検索",
+      "explanation": "「retrieval」は、何かを取り戻す、検索するという意味です。ここでは、ロボットが食べ物を取り出す能力を指しています。情報検索やデータ復旧など、広範な文脈で使用されます。例文：Data retrieval from the damaged hard drive was successful. (損傷したハードディスクからのデータ検索は成功した。)"
+    },
+    {
+      "id": 5,
+      "value": "extravehicular",
+      "options": [
+        "宇宙空間の",
+        "地球上の",
+        "水中",
+        "地中"
+      ],
+      "correctAnswer": "宇宙空間の",
+      "explanation": "「extravehicular」は、宇宙船の外で行われる活動を指します。宇宙遊泳などが該当します。例文：Extravehicular activity is essential for maintaining the space station. (宇宙ステーションの維持には、宇宙空間での活動が不可欠です。)"
+    },
+    {
+      "id": 6,
+      "value": "obsolete",
+      "options": [
+        "時代遅れの",
+        "最新の",
+        "必須の",
+        "一般的な"
+      ],
+      "correctAnswer": "時代遅れの",
+      "explanation": "「obsolete」は、もはや使われなくなった、時代遅れになったという意味です。技術革新によって不要になることが多いです。例文：The old software became obsolete after the new version was released. (新しいバージョンがリリースされた後、古いソフトウェアは時代遅れになった。)"
+    },
+    {
+      "id": 7,
+      "value": "at best",
+      "options": [
+        "せいぜい",
+        "最悪の場合",
+        "間違いなく",
+        "常に"
+      ],
+      "correctAnswer": "せいぜい",
+      "explanation": "「at best」は、最も良い場合でも、せいぜい〜に過ぎないという意味を表します。Sheldonがロボットアームの性能を過大評価しないように述べています。例文：At best, the project will be completed by next year. (せいぜい、プロジェクトは来年までに完了するだろう。)"
+    },
+    {
+      "id": 8,
+      "value": "Hang on",
+      "options": [
+        "待って",
+        "さようなら",
+        "お先に",
+        "どうぞ"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on」は、少し待ってという意味で使われます。電話で「ちょっと待って」と言う場合や、人に何かを待たせるときに使います。例文：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+    },
+    {
+      "id": 9,
+      "value": "secure locker",
+      "options": [
+        "安全なロッカー",
+        "公共の場所",
+        "開放的な場所",
+        "共有スペース"
+      ],
+      "correctAnswer": "安全なロッカー",
+      "explanation": "「secure locker」は、安全なロッカー、保管庫という意味です。貴重品や機密物を保管するために使用されます。例文：Please store your valuables in a secure locker. (貴重品は安全なロッカーに保管してください。)"
+    },
+    {
+      "id": 10,
+      "value": "JPL",
+      "options": [
+        "ジェット推進研究所",
+        "防衛省",
+        "国立科学財団",
+        "エネルギー省"
+      ],
+      "correctAnswer": "ジェット推進研究所",
+      "explanation": "JPLは、アメリカ航空宇宙局（NASA）のジェット推進研究所のことです。宇宙探査機の開発・運用を行っています。"
+    },
+    {
+      "id": 11,
+      "value": "made a very amusing pun",
+      "options": [
+        "面白い駄洒落を言った",
+        "深刻な発言をした",
+        "重要な発表をした",
+        "嘘をついた"
+      ],
+      "correctAnswer": "面白い駄洒落を言った",
+      "explanation": "「pun」は駄洒落、語呂合わせという意味です。ここでは、エイミーが化学物質名を使った面白い駄洒落を言ったことを指しています。例文：His speech was full of puns and jokes. (彼のスピーチは駄洒落とジョークでいっぱいだった。)"
+    },
+    {
+      "id": 12,
+      "value": "go with",
+      "options": [
+        "〜を選ぶ",
+        "〜を拒否する",
+        "〜を無視する",
+        "〜を軽蔑する"
+      ],
+      "correctAnswer": "〜を選ぶ",
+      "explanation": "「go with」は、ここでは「（話題として）～を選ぶ」という意味で使われています。Pennyが、シェルドンに新しい話題として「ガールフレンドができた」という話を選ばなかったことを非難しています。例文: I think I'll go with the steak. (ステーキにしようかな。)"
+    },
+    {
+      "id": 13,
+      "value": "spit out",
+      "options": [
+        "吐き出す",
+        "飲み込む",
+        "生成する",
+        "無視する"
+      ],
+      "correctAnswer": "吐き出す",
+      "explanation": "ここでは、デートサイトがシェルドンの情報に基づいてエイミー・ファラ・ファウラーを「吐き出した」という意味で使われています。アルゴリズムによって特定の結果が出力される様子を表しています。例文：The computer spit out a list of potential candidates. (コンピュータは候補者リストを出力した。)"
+    },
+    {
+      "id": 14,
+      "value": "digging",
+      "options": [
+        "気に入る",
+        "嫌う",
+        "無視する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "気に入る",
+      "explanation": "「digging」は、スラングで「気に入る」「好む」という意味です。PennyがShamy（シェルドンとエイミー）の関係を気に入っていることを表現しています。例文：I'm really digging this new song. (この新しい歌、本当に気に入ってる。)"
+    },
+    {
+      "id": 15,
+      "value": "on a daily basis",
+      "options": [
+        "毎日",
+        "毎週",
+        "毎月",
+        "毎年"
+      ],
+      "correctAnswer": "毎日",
+      "explanation": "「on a daily basis」は「毎日」という意味です。例文：I check my email on a daily basis. (私は毎日メールをチェックします。)"
+    },
+    {
+      "id": 16,
+      "value": "benign overlords",
+      "options": [
+        "友好的な支配者",
+        "残酷な支配者",
+        "無能な支配者",
+        "存在しない支配者"
+      ],
+      "correctAnswer": "友好的な支配者",
+      "explanation": "「benign」は「良性の、穏やかな」という意味で、「overlord」は「支配者」を意味します。ここでは、シェルドンとエイミーの子供が人類を導く優れた支配者になる可能性を指しています。例文：We hope for a benign outcome to the negotiations. (交渉が友好的な結果に終わることを願っています。)"
+    },
+    {
+      "id": 17,
+      "value": "condemn",
+      "options": [
+        "非難する",
+        "賞賛する",
+        "無視する",
+        "許容する"
+      ],
+      "correctAnswer": "非難する",
+      "explanation": "「condemn」は「非難する、糾弾する」という意味です。ハワードが、将来の歴史家がシェルドンを殺さなかったことを非難するだろうと言っています。例文：The world condemned the terrorist attacks. (世界はテロ攻撃を非難した。)"
+    },
+    {
+      "id": 18,
+      "value": "the trick is",
+      "options": [
+        "秘訣は",
+        "問題は",
+        "目標は",
+        "結果は"
+      ],
+      "correctAnswer": "秘訣は",
+      "explanation": "「the trick is」は「秘訣は〜だ」という意味です。何かを上手くやるためのコツや秘訣を説明する際に使われます。例文：The trick is to practice regularly. (秘訣は定期的に練習することだ。)"
+    },
+    {
+      "id": 19,
+      "value": "dry cleaners",
+      "options": [
+        "クリーニング店",
+        "食料品店",
+        "書店",
+        "美容院"
+      ],
+      "correctAnswer": "クリーニング店",
+      "explanation": "「dry cleaners」は「クリーニング店」という意味です。例文：I need to drop off my suit at the dry cleaners. (スーツをクリーニング店に持って行かないといけない。)"
+    },
+    {
+      "id": 20,
+      "value": "chloroethylene",
+      "options": [
+        "パークロロエチレン",
+        "グリコールエーテル",
+        "アセトン",
+        "エタノール"
+      ],
+      "correctAnswer": "パークロロエチレン",
+      "explanation": "「chloroethylene」は、「パークロロエチレン」という化学物質の名前です。主にドライクリーニングの溶剤として使用されます。ここではエイミーが、この化学物質の名前を使って駄洒落を言っています。"
+    },
+    {
+      "id": 21,
+      "value": "glycol ether",
+      "options": [
+        "グリコールエーテル",
+        "パークロロエチレン",
+        "アセトン",
+        "エタノール"
+      ],
+      "correctAnswer": "グリコールエーテル",
+      "explanation": "「glycol ether」は、「グリコールエーテル」という化学物質の名前です。溶剤や洗浄剤として使用されます。エイミーが、この化学物質の名前を使って駄洒落を言っています。"
+    },
+    {
+      "id": 22,
+      "value": "spit out drink explosively",
+      "options": [
+        "飲み物を激しく吹き出す",
+        "静かに飲む",
+        "ゆっくり味わう",
+        "こぼさずに飲む"
+      ],
+      "correctAnswer": "飲み物を激しく吹き出す",
+      "explanation": "「spit out drink explosively」は「飲み物を激しく吹き出す」という意味です。驚きやショックを表す表現です。例文：He spit out his coffee when he heard the news. (彼はそのニュースを聞いてコーヒーを吹き出した。)"
+    },
+    {
+      "id": 23,
+      "value": "genetic material",
+      "options": [
+        "遺伝物質",
+        "新しい素材",
+        "危険な物質",
+        "放射性物質"
+      ],
+      "correctAnswer": "遺伝物質",
+      "explanation": "「genetic material」は「遺伝物質」という意味です。DNAやRNAなどの遺伝情報を含む物質を指します。例文：The scientists studied the genetic material of the virus. (科学者たちはウイルスの遺伝物質を研究した。)"
+    },
+    {
+      "id": 24,
+      "value": "superior",
+      "options": [
+        "優れた",
+        "劣った",
+        "普通の",
+        "平均的な"
+      ],
+      "correctAnswer": "優れた",
+      "explanation": "「superior」は「優れた、上位の」という意味です。例文：This product is superior to the others on the market. (この製品は市場に出回っている他の製品よりも優れている。)"
+    },
+    {
+      "id": 25,
+      "value": "potential",
+      "options": [
+        "可能性",
+        "不可能性",
+        "必要性",
+        "責任"
+      ],
+      "correctAnswer": "可能性",
+      "explanation": "「potential」は「可能性、潜在能力」という意味です。例文：This project has the potential to be very successful. (このプロジェクトは非常に成功する可能性がある。)"
+    },
+    {
+      "id": 26,
+      "value": "on Earth",
+      "options": [
+        "地上で",
+        "一体全体",
+        "世界中で",
+        "宇宙で"
+      ],
+      "correctAnswer": "一体全体",
+      "explanation": "「on Earth」は、疑問文で驚きや強調を表す際に用いられ、「一体全体」「いったいぜんたい」という意味合いになります。Why on Earth...?で「一体全体なぜ…？」というように使われます。Example: Why on Earth would he do that? (彼は一体全体なぜそんなことをするのだろう？)"
+    },
+    {
+      "id": 27,
+      "value": "appeals to a deity",
+      "options": [
+        "神への訴え",
+        "法律の改正",
+        "友達への相談",
+        "親への感謝"
+      ],
+      "correctAnswer": "神への訴え",
+      "explanation": "「appeal to a deity」は、「神に訴える」「神に祈る」という意味です。ここでは皮肉的に、性交渉における不必要な叫び声を指しています。Example: In times of trouble, people often appeal to a deity for help. (困難な時、人々はしばしば神に助けを求めます。)"
+    },
+    {
+      "id": 28,
+      "value": "corn-fed vigor",
+      "options": [
+        "都会的な魅力",
+        "田舎育ちの元気",
+        "洗練されたスタイル",
+        "知的な才能"
+      ],
+      "correctAnswer": "田舎育ちの元気",
+      "explanation": "「corn-fed vigor」は、アメリカの田舎で育った人の健康的な元気や活力を指す表現です。ここでは、ペニーの体格の良さを Sheldom が皮肉っぽく表現しています。Example: She has a corn-fed vigor that makes her stand out. (彼女は、彼女を目立たせる田舎育ちの元気を持っている。)"
+    },
+    {
+      "id": 29,
+      "value": "race off to",
+      "options": [
+        "ゆっくり歩く",
+        "急いで行く",
+        "立ち止まる",
+        "寄り道をする"
+      ],
+      "correctAnswer": "急いで行く",
+      "explanation": "「race off to」は、「～へ急いで行く」「～へ駆けつける」という意味です。ここでは、Sheldon が不妊治療クリニックへ急いで行くことを指しています。Example: He raced off to the airport to catch his flight. (彼は飛行機に間に合うように空港へ急いで行った。)"
+    },
+    {
+      "id": 30,
+      "value": "progeny",
+      "options": [
+        "財産",
+        "子孫",
+        "仕事",
+        "趣味"
+      ],
+      "correctAnswer": "子孫",
+      "explanation": "「progeny」は、「子孫」「後裔」という意味のフォーマルな単語です。ここでは、Sheldon と Amy の子供を指しています。Example: The king was worried about the future of his progeny. (王は自分の子孫の将来を心配していた。)"
+    },
+    {
+      "id": 31,
+      "value": "stand on the other side",
+      "options": [
+        "反対側に立つ",
+        "理解する",
+        "無視する",
+        "協力する"
+      ],
+      "correctAnswer": "反対側に立つ",
+      "explanation": "文字通りの意味ですが、ここではペニーがドアの向こう側で待っていることを指しています。比喩的には「対立する立場を取る」という意味にもなります。Example: They stand on the other side of the political spectrum. (彼らは政治スペクトルの反対側に立っている。)"
+    },
+    {
+      "id": 32,
+      "value": "refer you to",
+      "options": [
+        "あなたを紹介する",
+        "あなたを参考にする",
+        "あなたに言及する",
+        "あなたを無視する"
+      ],
+      "correctAnswer": "あなたに言及する",
+      "explanation": "「refer you to」は、「～を紹介する」「～に言及する」という意味です。ここでは、Sheldon がペニーに時間の無駄の例として、現在の会話を挙げていることを指しています。Example: I would like to refer you to our website for more information. (詳細については、当社のウェブサイトをご覧ください。)"
+    },
+    {
+      "id": 33,
+      "value": "cockamamie",
+      "options": [
+        "素晴らしい",
+        "ばかげた",
+        "真剣な",
+        "重要な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「cockamamie」は、「ばかげた」「くだらない」という意味のスラングです。ここでは、Leonard がペニーの提案をばかげていると言ったことを、Sheldon が婉曲的に表現しています。Example: That's a cockamamie idea! (それは馬鹿げた考えだ！)"
+    },
+    {
+      "id": 34,
+      "value": "paraphrasing",
+      "options": [
+        "直接引用する",
+        "要約する",
+        "翻訳する",
+        "分析する"
+      ],
+      "correctAnswer": "要約する",
+      "explanation": "「paraphrasing」は、「言い換える」「要約する」という意味です。ここでは、Sheldon が Leonard の言葉をそのままではなく、自分の言葉で言い換えていることを指しています。Example: He was paraphrasing the author's argument. (彼は著者の議論を言い換えていた。)"
+    },
+    {
+      "id": 35,
+      "value": "per se",
+      "options": [
+        "それ自体は",
+        "例えば",
+        "完全に",
+        "部分的に"
+      ],
+      "correctAnswer": "それ自体は",
+      "explanation": "「per se」は、「それ自体は」「本質的に」という意味のラテン語由来の表現です。ここでは、ペニーが具体的な予定があるわけではないことを示しています。Example: The color is not important per se, but the design is. (色自体は重要ではなく、デザインが重要だ。)"
+    },
+    {
+      "id": 36,
+      "value": "pointless as",
+      "options": [
+        "重要な",
+        "無意味な",
+        "興味深い",
+        "創造的な"
+      ],
+      "correctAnswer": "無意味な",
+      "explanation": "「pointless as」は、「～と同じくらい無意味な」という意味です。ここでは、Sheldon が現在の会話をペニーのドアをノックする行為と同じくらい無意味だと考えていることを示しています。Example: Arguing with him is pointless as talking to a wall. (彼と議論することは、壁に話しかけるのと同じくらい無意味だ。)"
+    },
+    {
+      "id": 37,
+      "value": "soliloquy",
+      "options": [
+        "対話",
+        "独白",
+        "議論",
+        "手紙"
+      ],
+      "correctAnswer": "独白",
+      "explanation": "「soliloquy」は、「独白」という意味です。ここでは、Sheldon がペニーのドアをノックする行為を、まるで一人芝居のようだと言っています。Example: The actor delivered a powerful soliloquy. (俳優は力強い独白を演じた。)"
+    },
+    {
+      "id": 38,
+      "value": "off",
+      "options": [
+        "遠い",
+        "不在の",
+        "近い",
+        "目の前の"
+      ],
+      "correctAnswer": "不在の",
+      "explanation": "ここでは「(声が)～から聞こえる」という意味で使われています。 Mrs. Wolowitz の声が部屋の外から聞こえることを表しています。 Example: The alarm went off, startling everyone. (アラームが鳴り、みんなを驚かせた。)"
+    },
+    {
+      "id": 39,
+      "value": "fatality",
+      "options": [
+        "事故",
+        "死亡者",
+        "生存者",
+        "英雄"
+      ],
+      "correctAnswer": "死亡者",
+      "explanation": "「fatality」は、「死亡者」「死傷者」という意味です。ここでは、flip-flopを履いて運転することによって起こる事故の死亡者を指しています。Example: There were no fatalities in the car accident. (その自動車事故で死亡者はいなかった。)"
+    },
+    {
+      "id": 40,
+      "value": "community college",
+      "options": [
+        "大学",
+        "短期大学",
+        "専門学校",
+        "予備校"
+      ],
+      "correctAnswer": "短期大学",
+      "explanation": "「community college」は、アメリカの2年制大学（短期大学）を指します。ここでは、Sheldon がペニーの学歴をからかっています。Example: She attended a community college before transferring to a four-year university. (彼女は四年制大学に編入する前に短期大学に通っていた。)"
+    },
+    {
+      "id": 41,
+      "value": "Hoedown",
+      "options": [
+        "静かな集まり",
+        "騒がしいダンスパーティー",
+        "宗教的な儀式",
+        "フォーマルな晩餐会"
+      ],
+      "correctAnswer": "騒がしいダンスパーティー",
+      "explanation": "「Hoedown」は、アメリカの伝統的なダンスパーティーで、特にカントリーミュージックに合わせて踊るものを指します。ここでは、Sheldon の家族が参加したイベントを指しています。Example: They had a hoedown in the barn. (彼らは納屋でダンスパーティーを開いた。)"
+    },
+    {
+      "id": 42,
+      "value": "Fair point",
+      "options": [
+        "不公平な指摘",
+        "良い指摘",
+        "的外れな指摘",
+        "個人的な意見"
+      ],
+      "correctAnswer": "良い指摘",
+      "explanation": "「Fair point」は、「もっともな意見」「その通り」という意味です。相手の意見が正当だと認める際に使います。Example: I guess that's a fair point. (それはもっともな意見だと思います。)"
+    },
+    {
+      "id": 43,
+      "value": "intimacy",
+      "options": [
+        "親密さ",
+        "嫌悪感",
+        "軽蔑",
+        "無関心"
+      ],
+      "correctAnswer": "親密さ",
+      "explanation": "「intimacy」は、「親密さ」「親交」という意味です。ここでは、子供を授かるために必要な親密さを指しています。Example: They had a deep sense of intimacy. (彼らは深い親密さを感じていた。)"
+    },
+    {
+      "id": 44,
+      "value": "consequently",
+      "options": [
+        "偶然に",
+        "結果として",
+        "同時に",
+        "最初から"
+      ],
+      "correctAnswer": "結果として",
+      "explanation": "「consequently」は、「その結果」「したがって」という意味の接続副詞です。前述の事柄が原因で起こる結果を導く際に用います。Example: He failed the exam; consequently, he had to repeat the course. (彼は試験に落ちた。その結果、彼はそのコースを再履修しなければならなかった。)"
+    },
+    {
+      "id": 45,
+      "value": "clinically",
+      "options": [
+        "感情的に",
+        "臨床的に",
+        "創造的に",
+        "自然に"
+      ],
+      "correctAnswer": "臨床的に",
+      "explanation": "「clinically」は、「臨床的に」「医学的に」という意味です。ここでは、子供を授かる方法が医学的な手段で行われることを指しています。Example: The study was conducted clinically. (その研究は臨床的に実施された。)"
+    },
+    {
+      "id": 46,
+      "value": "fertility experts",
+      "options": [
+        "料理の専門家",
+        "不妊治療の専門家",
+        "教育の専門家",
+        "経済の専門家"
+      ],
+      "correctAnswer": "不妊治療の専門家",
+      "explanation": "「fertility experts」は、「不妊治療の専門家」という意味です。ここでは、Sheldon が子供を授かる際に専門家の助けを借りることを示唆しています。Example: They consulted with fertility experts to explore their options. (彼らは選択肢を検討するために不妊治療の専門家に相談した。)"
+    },
+    {
+      "id": 47,
+      "value": "petri dishes",
+      "options": [
+        "ペットの皿",
+        "ペトリ皿",
+        "食器",
+        "調理器具"
+      ],
+      "correctAnswer": "ペトリ皿",
+      "explanation": "「petri dishes」は、「ペトリ皿」という意味です。微生物などを培養するための実験器具です。ここでは、体外受精などの医学的な手段を暗示しています。Example: The bacteria were grown in petri dishes. (バクテリアはペトリ皿で培養された。)"
+    },
+    {
+      "id": 48,
+      "value": "uncomfortable with",
+      "options": [
+        "快適に感じる",
+        "慣れている",
+        "不快に感じる",
+        "熱中している"
+      ],
+      "correctAnswer": "不快に感じる",
+      "explanation": "「uncomfortable with」は、「～に不快感を覚える」「～に抵抗がある」という意味です。ここでは、Sheldon が Leonard の使った言葉に抵抗を感じていることを示しています。Example: I am uncomfortable with the way he spoke to her. (私は彼が彼女に話しかけたやり方に不快感を覚える。)"
+    },
+    {
+      "id": 49,
+      "value": "required",
+      "options": [
+        "不要な",
+        "必要な",
+        "任意な",
+        "不適切な"
+      ],
+      "correctAnswer": "必要な",
+      "explanation": "「required」は、「必要な」「必須の」という意味です。ここでは、子供を授かるために必要な親密さを指しています。Example: This course is required for all students. (このコースはすべての学生に必須です。)"
+    },
+    {
+      "id": 50,
+      "value": "achieve",
+      "options": [
+        "諦める",
+        "達成する",
+        "拒否する",
+        "妨げる"
+      ],
+      "correctAnswer": "達成する",
+      "explanation": "「achieve」は、「達成する」「成し遂げる」という意味です。ここでは、テキストメッセージで親密さを達成できるかどうかを疑問に思っています。Example: They achieved great success in their business. (彼らはビジネスで大きな成功を収めた。)"
+    },
+    {
+      "id": 51,
+      "value": "Hold that thought",
+      "options": [
+        "その考えを維持する",
+        "その考えを忘れる",
+        "その考えを保留する",
+        "その考えを共有する"
+      ],
+      "correctAnswer": "その考えを保留する",
+      "explanation": "「Hold that thought」は、話の流れを一時的に中断し、後でその話題に戻ることを示唆する際に使われる表現です。電話に出たり、別のことに気を取られたりしたときに、相手に「ちょっと待ってて、後でまたその話をしよう」というニュアンスを伝えることができます。"
+    },
+    {
+      "id": 52,
+      "value": "something-or-other",
+      "options": [
+        "非常に重要なこと",
+        "漠然とした何か",
+        "特定のこと",
+        "取るに足らないこと"
+      ],
+      "correctAnswer": "漠然とした何か",
+      "explanation": "「something-or-other」は、正確な名前や詳細が思い出せない、または重要でないときに使われる表現です。「何とかいうもの」「あれやこれや」といった意味合いで、あいまいさを表します。"
+    },
+    {
+      "id": 53,
+      "value": "tilting at windmills",
+      "options": [
+        "現実的な目標に努力する",
+        "無意味な戦いをする",
+        "効率的な方法で仕事をする",
+        "革新的なアイデアを追求する"
+      ],
+      "correctAnswer": "無意味な戦いをする",
+      "explanation": "「Tilting at windmills」は、無意味で非現実的な戦いをする、または不可能な目標に挑戦することを意味するイディオムです。ミゲル・デ・セルバンテスの小説『ドン・キホーテ』で、主人公が風車を怪物と勘違いして戦いを挑んだことに由来します。無駄な努力や見当違いな行動を批判的に表現する際に用いられます。"
+    },
+    {
+      "id": 54,
+      "value": "how 'bout",
+      "options": [
+        "どのように",
+        "なぜ",
+        "何について",
+        "〜はどうですか"
+      ],
+      "correctAnswer": "〜はどうですか",
+      "explanation": "「How about」は提案や勧誘をする際に使われる口語的な表現です。「〜はどうですか」「〜しませんか」という意味で、相手に何かを提案したり、一緒に何かをすることを促したりする際に用いられます。例えば、「How about some coffee?（コーヒーでもどうですか？）」のように使います。"
+    },
+    {
+      "id": 55,
+      "value": "follow up",
+      "options": [
+        "最初からやり直す",
+        "詳細を尋ねる",
+        "無視する",
+        "結論を出す"
+      ],
+      "correctAnswer": "詳細を尋ねる",
+      "explanation": "「Follow up」は、元の発言や行動に追加の質問やコメントをすることを意味します。会話の流れを深めたり、より詳しい情報を得るために使われます。「追跡調査」「追加の行動」といった意味合いも持ちます。"
+    },
+    {
+      "id": 56,
+      "value": "meth labs",
+      "options": [
+        "数学の研究室",
+        "メタンプルームの研究施設",
+        "メタン生成工場",
+        "違法薬物製造所"
+      ],
+      "correctAnswer": "違法薬物製造所",
+      "explanation": "「Meth labs」は、メタンフェタミン（覚せい剤）を違法に製造する場所を指します。アメリカの地方や田舎で問題となることが多く、危険な化学物質や爆発のリスクを伴います。"
+    },
+    {
+      "id": 57,
+      "value": "death grip",
+      "options": [
+        "致命的な病気",
+        "非常に強い握力",
+        "死んだふり",
+        "穏やかな抱擁"
+      ],
+      "correctAnswer": "非常に強い握力",
+      "explanation": "「Death grip」は、非常に強く、逃れられない握り方を指します。比喩的に、何かから逃れることが不可能な状況や、非常に強力な影響力を持つ状態を表すためにも使用されます。"
+    },
+    {
+      "id": 58,
+      "value": "junk",
+      "options": [
+        "宝物",
+        "ガラクタ",
+        "食料",
+        "男性器"
+      ],
+      "correctAnswer": "男性器",
+      "explanation": "俗語として男性器を指します。ここではロボットハンドがHowardの男性器を掴んでいる状況なのでこの意味になります。"
+    },
+    {
+      "id": 59,
+      "value": "loaded",
+      "options": [
+        "空の",
+        "積まれた",
+        "削除された",
+        "アップロードされた"
+      ],
+      "correctAnswer": "アップロードされた",
+      "explanation": "ここでは、プログラムがロボットハンドに読み込まれた（アップロードされた）状態を指します。Loadedの基本的な意味は「積まれた」ですが、文脈によって意味が変わります。"
+    },
+    {
+      "id": 60,
+      "value": "How about this",
+      "options": [
+        "これはどうですか",
+        "これは良くない",
+        "これは何ですか",
+        "これは関係ない"
+      ],
+      "correctAnswer": "これはどうですか",
+      "explanation": "「How about this」は、新しい提案やアイデアを提示する際に使われる表現です。代替案や別の解決策を示唆する際に用いられます。類似の表現に「What about this」があります。"
+    },
+    {
+      "id": 61,
+      "value": "grabbed onto",
+      "options": [
+        "見つけた",
+        "無視した",
+        "掴んだ",
+        "解放した"
+      ],
+      "correctAnswer": "掴んだ",
+      "explanation": "「Grab onto」は、何かにしっかりと掴まる、またはしがみつくという意味です。物理的に何かを掴むだけでなく、比喩的に機会や考え方を積極的に受け入れるという意味でも使われます。"
+    },
+    {
+      "id": 62,
+      "value": "honey tree",
+      "options": [
+        "お金のなる木",
+        "危険な場所",
+        "甘い誘惑",
+        "貴重な資源"
+      ],
+      "correctAnswer": "危険な場所",
+      "explanation": "この文脈では、Winnie the Poohが頭を挟まれた木のことを指していますが、比喩的に「問題のある状況」「抜け出せない状況」を意味することがあります。ここでは、Howardのデリケートな部分がロボットハンドに挟まっている状況を指しています。"
+    },
+    {
+      "id": 63,
+      "value": "circumcision",
+      "options": [
+        "割礼",
+        "切断",
+        "手術",
+        "治療"
+      ],
+      "correctAnswer": "割礼",
+      "explanation": "「Circumcision」は、男性の包皮を切除する手術を指します。宗教的、文化的、または医学的な理由で行われます。ここでは、Howardが過去に割礼を受けた経験から、切断されることへの恐怖を表現しています。"
+    },
+    {
+      "id": 64,
+      "value": "acetylene torch",
+      "options": [
+        "アセチレンランプ",
+        "アセチレンバーナー",
+        "アセチレン懐中電灯",
+        "アセチレンろうそく"
+      ],
+      "correctAnswer": "アセチレンバーナー",
+      "explanation": "「Acetylene torch」は、アセチレンガスと酸素を混合して高温の炎を発生させる溶接や切断に使用するバーナーです。非常に高温であるため、取り扱いには注意が必要です。ここでは、Howardの状況を脱するために、極端な手段として提案されています。"
+    },
+    {
+      "id": 65,
+      "value": "ashamed of",
+      "options": [
+        "誇りに思う",
+        "感謝する",
+        "恥ずかしいと思う",
+        "興味がない"
+      ],
+      "correctAnswer": "恥ずかしいと思う",
+      "explanation": "「Ashamed of」は、自分の行動や状況、または他人との関係について恥ずかしいと感じることを意味します。ここでは、Howardが母親の行動を恥ずかしいと思っていることを表しています。"
+    },
+    {
+      "id": 66,
+      "value": "topic of conversation",
+      "options": [
+        "議論の余地",
+        "会話の話題",
+        "秘密の話",
+        "沈黙の時間"
+      ],
+      "correctAnswer": "会話の話題",
+      "explanation": "「Topic of conversation」は、会話の中で議論される主題やテーマを指します。人々が意見を交換したり、情報を共有したりする際の中心となる事柄です。会話を円滑に進めるために、共通の関心事や興味深い話題を選ぶことが重要です。"
+    },
+    {
+      "id": 67,
+      "value": "winter solstice",
+      "options": [
+        "春分の日",
+        "夏至",
+        "秋分の日",
+        "冬至"
+      ],
+      "correctAnswer": "冬至",
+      "explanation": "「Winter solstice」は、北半球で一年中で昼が最も短い日を指します。通常12月21日または22日に起こり、この日を境に日が長くなっていきます。天文学的、文化的に重要な意味を持つ日です。"
+    },
+    {
+      "id": 68,
+      "value": "factoid",
+      "options": [
+        "事実",
+        "誤報",
+        "推測",
+        "些細な情報"
+      ],
+      "correctAnswer": "些細な情報",
+      "explanation": "「Factoid」は、一見事実のように見えるが、実際には不正確または検証されていない短い情報のことを指します。または、面白おかしく、しかし重要ではない事実を指すこともあります。ここでは、Sheldonが冬至について述べた情報が、会話の流れとは関係のない些細な情報であることをPennyが示唆しています。"
+    },
+    {
+      "id": 69,
+      "value": "Neurobiologist",
+      "options": [
+        "神経内科医",
+        "神経科学者",
+        "脳外科医",
+        "精神科医"
+      ],
+      "correctAnswer": "神経科学者",
+      "explanation": "「Neurobiologist」は神経生物学者を意味します。神経系、脳、および神経細胞の生物学的研究を行う科学者です。"
+    },
+    {
+      "id": 70,
+      "value": "check engine light",
+      "options": [
+        "ヘッドライト",
+        "ブレーキランプ",
+        "エンジン警告灯",
+        "バックランプ"
+      ],
+      "correctAnswer": "エンジン警告灯",
+      "explanation": "「Check engine light」は、自動車のエンジン制御システムに異常が発生した場合に点灯する警告灯です。排気ガス問題など、様々な原因が考えられます。"
+    },
+    {
+      "id": 71,
+      "value": "Don’t bother",
+      "options": [
+        "気にしないで",
+        "邪魔しないで",
+        "頑張って",
+        "手伝って"
+      ],
+      "correctAnswer": "気にしないで",
+      "explanation": "「Don’t bother」は、相手に何かをする必要がない、または無駄であることを伝える際に使われる表現です。「気にしないで」「構わないで」という意味合いで、相手の労力や時間を無駄にさせたくないときに用いられます。"
+    },
+    {
+      "id": 72,
+      "value": "dry scalp",
+      "options": [
+        "油性の頭皮",
+        "敏感な頭皮",
+        "乾燥した頭皮",
+        "健康な頭皮"
+      ],
+      "correctAnswer": "乾燥した頭皮",
+      "explanation": "「Dry scalp」は、頭皮が乾燥している状態を指します。かゆみ、フケ、炎症などの症状を引き起こすことがあります。保湿ケアや適切なシャンプーの使用が重要です。"
+    },
+    {
+      "id": 73,
+      "value": "flattered",
+      "options": [
+        "侮辱された",
+        "落胆した",
+        "うんざりした",
+        "喜ばしい"
+      ],
+      "correctAnswer": "喜ばしい",
+      "explanation": "「Flattered」は、褒められたり、好意的な評価を受けたりして、嬉しく感じている状態を表します。「おだてられた」「喜ばされた」という意味合いで、相手の言葉や行為に感謝している気持ちを示す際に用いられます。"
+    },
+    {
+      "id": 74,
+      "value": "growing up",
+      "options": [
+        "老いていく",
+        "成長する",
+        "病気になる",
+        "衰退する"
+      ],
+      "correctAnswer": "成長する",
+      "explanation": "「Growing up」は、子供から大人になる過程、つまり成長することを意味します。身体的な成長だけでなく、精神的な成熟や経験を積むことも含みます。幼少期から青年期にかけての期間を指すことが多いです。"
+    },
+    {
+      "id": 75,
+      "value": "hell",
+      "options": [
+        "天国",
+        "地獄",
+        "楽園",
+        "至福"
+      ],
+      "correctAnswer": "地獄",
+      "explanation": "「Hell」は、苦しみや困難に満ちた場所、または状況を指します。比喩的に、非常に不快な経験や状況を表すために使用されます。ここでは、Sheldonがテキサスでの子供時代を非常に辛いものだったと表現しています。"
+    },
+    {
+      "id": 76,
+      "value": "semi-incestuous",
+      "options": [
+        "半分内密の",
+        "半分近親相姦の",
+        "半分偶然の",
+        "半分友好的な"
+      ],
+      "correctAnswer": "半分近親相姦の",
+      "explanation": "「semi-incestuous」は、完全な近親相姦ではないものの、それに近い関係や状況を指します。ここでは、皮肉を込めて、親密すぎるイベントを表現するために使われています。"
+    },
+    {
+      "id": 77,
+      "value": "hoedown",
+      "options": [
+        "会議",
+        "ダンスパーティー",
+        "抗議デモ",
+        "料理教室"
+      ],
+      "correctAnswer": "ダンスパーティー",
+      "explanation": "「hoedown」は、特にアメリカの田舎で行われる、活気のあるダンスパーティーや集まりを指します。フォーク音楽やカントリー音楽に合わせて踊ることが多いです。"
+    },
+    {
+      "id": 78,
+      "value": "seal in the flavour",
+      "options": [
+        "味を閉じ込める",
+        "味を隠す",
+        "味を取り除く",
+        "味を混ぜる"
+      ],
+      "correctAnswer": "味を閉じ込める",
+      "explanation": "「seal in the flavour」は、食品を調理する際に、その食品の風味や旨味を逃がさないようにすることを意味します。通常、高温で表面を焼き固めるなどの方法が用いられます。"
+    },
+    {
+      "id": 79,
+      "value": "extrapolation",
+      "options": [
+        "内挿",
+        "外挿",
+        "要約",
+        "脚色"
+      ],
+      "correctAnswer": "外挿",
+      "explanation": "「extrapolation」は、既知のデータに基づいて、未知のデータや将来の傾向を推定することです。統計学や予測分析でよく用いられます。"
+    },
+    {
+      "id": 80,
+      "value": "observation bias",
+      "options": [
+        "観察バイアス",
+        "確認バイアス",
+        "生存者バイアス",
+        "正常性バイアス"
+      ],
+      "correctAnswer": "観察バイアス",
+      "explanation": "「observation bias」は、観察者が特定の事象や対象に注意を向けやすく、それ以外のものを見落としがちな傾向を指します。研究やデータ分析において、結果に偏りが生じる原因となります。"
+    },
+    {
+      "id": 81,
+      "value": "postulate",
+      "options": [
+        "反論する",
+        "仮定する",
+        "立証する",
+        "軽視する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "「postulate」は、議論や理論の基礎として、真実であると仮定する命題や前提を指します。証明なしに受け入れられることが多いです。"
+    },
+    {
+      "id": 82,
+      "value": "bell curve",
+      "options": [
+        "釣り天井",
+        "放物線",
+        "ベルカーブ",
+        "階段状グラフ"
+      ],
+      "correctAnswer": "ベルカーブ",
+      "explanation": "「bell curve」は、正規分布を示すグラフの形状を指します。平均値付近にデータが集中し、左右対称の釣鐘型をしています。"
+    },
+    {
+      "id": 83,
+      "value": "peaking around",
+      "options": [
+        "上昇して",
+        "減少して",
+        "頂点に達して",
+        "停滞して"
+      ],
+      "correctAnswer": "頂点に達して",
+      "explanation": "「peaking around」は、ある時点または時期に最高点または最大値に達することを意味します。ここでは、ペニーのデートの頻度が現在を中心にピークを迎えていることを示唆しています。"
+    },
+    {
+      "id": 84,
+      "value": "awkward encounters",
+      "options": [
+        "大胆な冒険",
+        "気まずい出会い",
+        "秘密の計画",
+        "些細な出来事"
+      ],
+      "correctAnswer": "気まずい出会い",
+      "explanation": "「awkward encounters」は、不快またはぎこちない状況での出会いを指します。ここでは、ペニーのアパートから出てくる見知らぬ男性との遭遇を指しています。"
+    },
+    {
+      "id": 85,
+      "value": "cultural perceptions",
+      "options": [
+        "文化交流",
+        "文化的遺産",
+        "文化的認識",
+        "文化の盗用"
+      ],
+      "correctAnswer": "文化的認識",
+      "explanation": "「cultural perceptions」は、ある文化における人々の考え方や感じ方、価値観などを指します。ここでは、性的な事柄に対する文化的な捉え方の違いについて議論されています。"
+    },
+    {
+      "id": 86,
+      "value": "subjective",
+      "options": [
+        "客観的",
+        "主観的",
+        "絶対的",
+        "相対的"
+      ],
+      "correctAnswer": "主観的",
+      "explanation": "「subjective」は、個人の感情や意見に基づいていることを意味します。客観（objective）の反対です。"
+    },
+    {
+      "id": 87,
+      "value": "slut",
+      "options": [
+        "賢者",
+        "怠け者",
+        "色情魔",
+        "正直者"
+      ],
+      "correctAnswer": "色情魔",
+      "explanation": "「slut」は、性的に奔放な女性を指す侮蔑的な言葉です。非常に不快な言葉であり、使用には注意が必要です。"
+    },
+    {
+      "id": 88,
+      "value": "pleasure centres",
+      "options": [
+        "快楽中枢",
+        "運動中枢",
+        "言語中枢",
+        "記憶中枢"
+      ],
+      "correctAnswer": "快楽中枢",
+      "explanation": "「pleasure centres」は、脳内で快感や幸福感を生み出す特定の部位を指します。これらの部位を刺激することで、快楽を得ることができます。"
+    },
+    {
+      "id": 89,
+      "value": "grasping",
+      "options": [
+        "掴む",
+        "解放する",
+        "隠す",
+        "拒否する"
+      ],
+      "correctAnswer": "掴む",
+      "explanation": "「grasping」は、しっかりと掴む、握るという意味です。ここでは、ロボットアームが男性のペニスを掴んでいる状態を表しています。"
+    },
+    {
+      "id": 90,
+      "value": "discreet",
+      "options": [
+        "目立つ",
+        "慎重な",
+        "騒々しい",
+        "無礼な"
+      ],
+      "correctAnswer": "慎重な",
+      "explanation": "「discreet」は、言動や行動が控えめで、他人を不快にさせたり、秘密を漏らしたりしないことを意味します。ここでは、看護師に患者のプライバシーに配慮してほしいと頼んでいます。"
+    },
+    {
+      "id": 91,
+      "value": "Winnie the Pooh is out of the honey tree",
+      "options": [
+        "プーさんが蜂蜜を買いに行った",
+        "ロボットアームが外れた",
+        "プーさんが木から落ちた",
+        "コンピュータが故障した"
+      ],
+      "correctAnswer": "ロボットアームが外れた",
+      "explanation": "これは、ロボットアームが外れたことを示す隠語またはユーモラスな表現です。具体的な意味は文脈によって異なりますが、ここでは危機的な状況が解決したことを示唆しています。"
+    },
+    {
+      "id": 92,
+      "value": "quality time",
+      "options": [
+        "自由時間",
+        "仕事時間",
+        "大切な時間",
+        "退屈な時間"
+      ],
+      "correctAnswer": "大切な時間",
+      "explanation": "「quality time」は、親しい人との関係を深めるために、集中して過ごす特別な時間を意味します。ここでは、シェルドンとエイミーが一緒に過ごす時間について言及しています。"
+    },
+    {
+      "id": 93,
+      "value": "in vitro fertilization",
+      "options": [
+        "体内受精",
+        "体外受精",
+        "代理出産",
+        "遺伝子操作"
+      ],
+      "correctAnswer": "体外受精",
+      "explanation": "「in vitro fertilization」は、体外受精を意味します。卵子と精子を体の外で受精させ、受精卵を子宮に戻す不妊治療の方法です。"
+    },
+    {
+      "id": 94,
+      "value": "surrogate uterus",
+      "options": [
+        "人工子宮",
+        "代理母",
+        "実験室",
+        "保育室"
+      ],
+      "correctAnswer": "代理母",
+      "explanation": "「surrogate uterus」は、代理母を意味します。妊娠・出産を代行する女性のことです。"
+    },
+    {
+      "id": 95,
+      "value": "progeny",
+      "options": [
+        "先祖",
+        "子孫",
+        "友人",
+        "財産"
+      ],
+      "correctAnswer": "子孫",
+      "explanation": "「progeny」は、子孫や後継者を意味するフォーマルな言葉です。"
+    },
+    {
+      "id": 96,
+      "value": "petri dish",
+      "options": [
+        "水槽",
+        "フラスコ",
+        "シャーレ",
+        "試験管"
+      ],
+      "correctAnswer": "シャーレ",
+      "explanation": "「petri dish」は、シャーレを意味します。微生物や細胞の培養に用いられる浅い円形のガラスまたはプラスチック製の容器です。"
+    },
+    {
+      "id": 97,
+      "value": "born-again Christian",
+      "options": [
+        "世襲のキリスト教徒",
+        "敬虔なキリスト教徒",
+        "生まれ変わったキリスト教徒",
+        "文化的なキリスト教徒"
+      ],
+      "correctAnswer": "生まれ変わったキリスト教徒",
+      "explanation": "「born-again Christian」は、回心体験を通じて信仰を新たにしたキリスト教徒を指します。熱心な信仰を持つことが多いです。"
+    },
+    {
+      "id": 98,
+      "value": "out of wedlock",
+      "options": [
+        "結婚後",
+        "離婚後",
+        "婚外子",
+        "養子縁組"
+      ],
+      "correctAnswer": "婚外子",
+      "explanation": "「out of wedlock」は、婚姻関係にない男女から生まれた子供、つまり婚外子を意味します。宗教的な背景によっては、タブー視されることがあります。"
+    },
+    {
+      "id": 99,
+      "value": "curses",
+      "options": [
+        "祝福",
+        "呪い",
+        "感謝",
+        "賞賛"
+      ],
+      "correctAnswer": "呪い",
+      "explanation": "「curses」は、不運を願う言葉、または軽い苛立ちや不満を表す言葉として使われます。ここでは、ペニーに弱点を突かれたシェルドンの軽い苛立ちを表しています。"
+    },
+    {
+      "id": 100,
+      "value": "procreate",
+      "options": [
+        "創造する",
+        "破壊する",
+        "生殖する",
+        "教育する"
+      ],
+      "correctAnswer": "生殖する",
+      "explanation": "「procreate」は、子供を産む、繁殖するという意味のフォーマルな言葉です。"
+    }
+  ]
+}

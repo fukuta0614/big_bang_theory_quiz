@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "burn",
+      "options": [
+        "褒め言葉",
+        "侮辱",
+        "冗談",
+        "挨拶"
+      ],
+      "correctAnswer": "侮辱",
+      "explanation": "「burn」は、スラングとして使われる場合、相手を侮辱する、皮肉を言う、または言い負かすという意味になります。特に口頭でのやり取りで、相手を打ち負かすような発言を指します。"
+    },
+    {
+      "id": 2,
+      "value": "pending",
+      "options": [
+        "完了した",
+        "保留中の",
+        "拒否された",
+        "承認された"
+      ],
+      "correctAnswer": "保留中の",
+      "explanation": "「pending」は、未決定の状態、つまり何かが処理中または審査中であることを意味します。ここでは、弁護士のネクタイがまだ「保留中」であるという比喩的な表現で、弁護士の仕事がまだ終わっていないことを示唆しています。"
+    },
+    {
+      "id": 3,
+      "value": "get a load of (someone/something)",
+      "options": [
+        "無視する",
+        "理解する",
+        "見てみな",
+        "避ける"
+      ],
+      "correctAnswer": "見てみな",
+      "explanation": "「get a load of (someone/something)」は、注目すべき人や物事を見て、それについて何か言いたいことがある時に使われる表現です。驚き、軽蔑、面白さなどの感情を込めて使われます。"
+    },
+    {
+      "id": 4,
+      "value": "splurge",
+      "options": [
+        "貯金する",
+        "投資する",
+        "浪費する",
+        "節約する"
+      ],
+      "correctAnswer": "浪費する",
+      "explanation": "「splurge」は、普段は控えている贅沢な物を買ったり、お金を惜しみなく使ったりすることを意味します。特に、何か特別な機会や理由がある時に使われます。"
+    },
+    {
+      "id": 5,
+      "value": "go straight up his nose",
+      "options": [
+        "鼻炎になる",
+        "傲慢になる",
+        "薬に溺れる",
+        "正直になる"
+      ],
+      "correctAnswer": "薬に溺れる",
+      "explanation": "これは、「鼻から薬物を摂取する」という文字通りの意味と、「得たお金や成功を無駄にする、自滅的な行動に出る」という比喩的な意味をかけたジョークです。"
+    },
+    {
+      "id": 6,
+      "value": "outrageous",
+      "options": [
+        "素晴らしい",
+        "普通",
+        "法外な",
+        "妥当な"
+      ],
+      "correctAnswer": "法外な",
+      "explanation": "「outrageous」は、常識や許容範囲を超えている、非常識な、法外なという意味です。不正や不当な状況に対して強い不満や怒りを表す際に用いられます。"
+    },
+    {
+      "id": 7,
+      "value": "I know when I’m beat.",
+      "options": [
+        "負けを認めない",
+        "勝つ方法を知っている",
+        "負けを認める",
+        "戦うことを楽しむ"
+      ],
+      "correctAnswer": "負けを認める",
+      "explanation": "「I know when I’m beat.」は、自分が負けている状況を認識し、それ以上抵抗しても無駄だと判断した時に使われる表現です。降参や諦めの意思表示として用いられます。"
+    },
+    {
+      "id": 8,
+      "value": "out of the goodness of (one's) heart",
+      "options": [
+        "義務として",
+        "見返りを求めて",
+        "親切心から",
+        "命令されて"
+      ],
+      "correctAnswer": "親切心から",
+      "explanation": "「out of the goodness of (one's) heart」は、人の親切心や善意から、見返りを期待せずに何かをすることを意味します。純粋な動機で行動することを強調する表現です。"
+    },
+    {
+      "id": 9,
+      "value": "entitled to",
+      "options": [
+        "必要とされている",
+        "権利がある",
+        "禁止されている",
+        "義務付けられている"
+      ],
+      "correctAnswer": "権利がある",
+      "explanation": "「entitled to」は、当然の権利として何かを受け取る資格がある、または権利を持つという意味です。法律、契約、または道徳的な権利に基づいて使用されます。"
+    },
+    {
+      "id": 10,
+      "value": "plaque",
+      "options": [
+        "盾",
+        "賞状",
+        "記念の飾り板",
+        "トロフィー"
+      ],
+      "correctAnswer": "記念の飾り板",
+      "explanation": "「plaque」は、記念や表彰のために壁などに取り付けられる飾り板のことです。通常、文字や絵が刻まれています。"
+    },
+    {
+      "id": 11,
+      "value": "heightened sense of smell",
+      "options": [
+        "嗅覚の喪失",
+        "嗅覚の麻痺",
+        "嗅覚の低下",
+        "嗅覚の亢進"
+      ],
+      "correctAnswer": "嗅覚の亢進",
+      "explanation": "「heightened sense of smell」は、通常よりも嗅覚が敏感になっている状態を指します。妊娠中の女性によく見られる症状です。"
+    },
+    {
+      "id": 12,
+      "value": "sniff out",
+      "options": [
+        "無視する",
+        "隠す",
+        "探し出す",
+        "忘れる"
+      ],
+      "correctAnswer": "探し出す",
+      "explanation": "「sniff out」は、文字通りには「鼻を利かせて探し出す」という意味ですが、比喩的には、隠された情報や秘密を嗅ぎつける、見つけ出すという意味で使われます。"
+    },
+    {
+      "id": 13,
+      "value": "Tagalongs",
+      "options": [
+        "ガールスカウトのクッキーの種類",
+        "新しい友達",
+        "古い靴",
+        "おもちゃ"
+      ],
+      "correctAnswer": "ガールスカウトのクッキーの種類",
+      "explanation": "Tagalongsは、ピーナッツバターをチョコレートでコーティングしたガールスカウトのクッキーの種類の名前です。"
+    },
+    {
+      "id": 14,
+      "value": "for all I know",
+      "options": [
+        "知っている限り",
+        "知らないうちに",
+        "おそらく",
+        "絶対にない"
+      ],
+      "correctAnswer": "知らないうちに",
+      "explanation": "「for all I know」は、「私が知る限りでは」という意味ですが、実際には「本当のことは知らないが、ひょっとしたら～かもしれない」という不確実な推測を表す際に使われます。"
+    },
+    {
+      "id": 15,
+      "value": "voodoo doll",
+      "options": [
+        "人形",
+        "呪いの人形",
+        "幸運のお守り",
+        "子供のおもちゃ"
+      ],
+      "correctAnswer": "呪いの人形",
+      "explanation": "「voodoo doll」は、ブードゥー教の儀式で使用される人形で、特定の人物を象徴し、その人形に針を刺すなどの行為によって、その人物に災いをもたらすと信じられています。"
+    },
+    {
+      "id": 16,
+      "value": "junk",
+      "options": [
+        "宝物",
+        "ガラクタ",
+        "重要な物",
+        "秘密"
+      ],
+      "correctAnswer": "ガラクタ",
+      "explanation": "「junk」は、一般的には役に立たない、価値のない物を指しますが、ここでは男性器を指す婉曲表現として使われています。"
+    },
+    {
+      "id": 17,
+      "value": "bloodhound",
+      "options": [
+        "狂犬",
+        "警察犬",
+        "嗅覚に優れた犬",
+        "ペット"
+      ],
+      "correctAnswer": "嗅覚に優れた犬",
+      "explanation": "「bloodhound」は、非常に優れた嗅覚を持つ犬種で、追跡犬として知られています。比喩的には、嗅覚が鋭い人を指すことがあります。"
+    },
+    {
+      "id": 18,
+      "value": "machine oil",
+      "options": [
+        "オリーブオイル",
+        "食用油",
+        "機械油",
+        "香水"
+      ],
+      "correctAnswer": "機械油",
+      "explanation": "「machine oil」は、機械の潤滑油として使用される油です。独特の臭いがあり、工業的な環境を連想させます。"
+    },
+    {
+      "id": 19,
+      "value": "tie",
+      "options": [
+        "結ぶ",
+        "関係",
+        "ネクタイ",
+        "靴紐"
+      ],
+      "correctAnswer": "関係",
+      "explanation": "ここでは、名詞の「関係」の意味で使用されています。例：blood tie (血縁関係)"
+    },
+    {
+      "id": 20,
+      "value": "acknowledge",
+      "options": [
+        "無視する",
+        "認める",
+        "否定する",
+        "隠す"
+      ],
+      "correctAnswer": "認める",
+      "explanation": "「acknowledge」は、事実や真実を認識し、認めるという意味です。文書に署名することで、その内容を理解し同意したことを示す場合にも使われます。"
+    },
+    {
+      "id": 21,
+      "value": "on loan from",
+      "options": [
+        "から借りている",
+        "から盗んだ",
+        "に売った",
+        "にプレゼントした"
+      ],
+      "correctAnswer": "から借りている",
+      "explanation": "「on loan from」は、一時的に何かを借りている、または派遣されている状態を意味します。ここでは、ハワードがNASAから大学に派遣されていることを指します。"
+    },
+    {
+      "id": 22,
+      "value": "Tagalongs, my ass",
+      "options": [
+        "もうたくさんだ",
+        "もう食べない",
+        "もう隠さない",
+        "もう我慢しない"
+      ],
+      "correctAnswer": "もうたくさんだ",
+      "explanation": "「～, my ass」は、相手の発言や状況を強く否定する、または反論する際に使われる口語的な表現です。ここでは、Tagalongs（クッキー）をもう隠せないことに対する不満を表しています。"
+    },
+    {
+      "id": 23,
+      "value": "belated",
+      "options": [
+        "遅れた",
+        "早い",
+        "正確な",
+        "予定通りの"
+      ],
+      "correctAnswer": "遅れた",
+      "explanation": "「belated」は、本来あるべき時期よりも遅れて行われることを意味します。「belated birthday wishes」は、誕生日が過ぎてから送る誕生日のお祝いのメッセージです。"
+    },
+    {
+      "id": 24,
+      "value": "manipulate",
+      "options": [
+        "操作する",
+        "助ける",
+        "無視する",
+        "尊敬する"
+      ],
+      "correctAnswer": "操作する",
+      "explanation": "「manipulate」は、人を巧みに操り、自分の意のままに動かすという意味です。不正な手段や策略を用いて、相手をコントロールしようとするニュアンスがあります。"
+    },
+    {
+      "id": 25,
+      "value": "the goodness of (one's) heart",
+      "options": [
+        "心の弱さ",
+        "心の闇",
+        "心の善良さ",
+        "心の強さ"
+      ],
+      "correctAnswer": "心の善良さ",
+      "explanation": "「the goodness of (one's) heart」は、人の心の善良さ、優しさ、親切心を意味します。見返りを求めずに他人を助けたり、良い行いをしたりする動機を表す際に用いられます。"
+    },
+    {
+      "id": 26,
+      "value": "never hurts to have a spare",
+      "options": [
+        "予備を持つことは決して損ではない",
+        "怪我をすることは決してない",
+        "スペアは常に必要だ",
+        "二度と傷つかない"
+      ],
+      "correctAnswer": "予備を持つことは決して損ではない",
+      "explanation": "「never hurts to have a spare」とは、予備のものや手段を持っておくことは、いざという時に役立つので無駄ではない、という意味です。万が一の事態に備えて準備しておくことの重要性を伝える際に使われます。例えば、旅行に予備のバッテリーを持っていく、計画のバックアップを用意する、などの状況で使えます。"
+    },
+    {
+      "id": 27,
+      "value": "thoughtful",
+      "options": [
+        "思慮深い",
+        "無頓着",
+        "軽率",
+        "利己的"
+      ],
+      "correctAnswer": "思慮深い",
+      "explanation": "「thoughtful」は、他人の気持ちをよく考え、配慮ができるという意味です。プレゼントを選ぶ際に相手のことをよく考えて選んだり、困っている人に親身になって接したりするような、心のこもった行動を指します。相手の立場に立って考えることができる、優しさや思いやりがある人物を表現する言葉です。"
+    },
+    {
+      "id": 28,
+      "value": "guilt me into",
+      "options": [
+        "罪悪感を抱かせる",
+        "喜ばせる",
+        "無視する",
+        "励ます"
+      ],
+      "correctAnswer": "罪悪感を抱かせる",
+      "explanation": "「guilt someone into doing something」は、人に罪悪感を抱かせて何かをさせる、という意味です。相手に「もし～しなければ悪い」と思わせて行動させるニュアンスがあります。例えば、「彼女は私に罪悪感を抱かせて、パーティーに行かせようとした」のように使います。"
+    },
+    {
+      "id": 29,
+      "value": "load of crap",
+      "options": [
+        "大量の宝",
+        "くだらないこと",
+        "重要な情報",
+        "楽しい出来事"
+      ],
+      "correctAnswer": "くだらないこと",
+      "explanation": "「load of crap」とは、「たわごと」「くだらないこと」という意味のスラングです。嘘やでたらめ、または価値のないものを指して使われます。強い否定や軽蔑のニュアンスが含まれており、親しい間柄で使われることが多い表現です。フォーマルな場面での使用は避けるべきです。"
+    },
+    {
+      "id": 30,
+      "value": "controlling ownership",
+      "options": [
+        "支配的な所有権",
+        "共有の所有権",
+        "限定的な所有権",
+        "不明確な所有権"
+      ],
+      "correctAnswer": "支配的な所有権",
+      "explanation": "「controlling ownership」とは、会社の経営や意思決定を支配できるだけの株式や権利を所有している状態を指します。この所有権を持つことで、他の株主や関係者の意見を無視して、自分の意向に沿った経営を行うことが可能になります。企業の買収や合併など、経営戦略において重要な意味を持ちます。"
+    },
+    {
+      "id": 31,
+      "value": "split our shares",
+      "options": [
+        "株式を分割する",
+        "秘密を共有する",
+        "食事を分ける",
+        "責任を分散する"
+      ],
+      "correctAnswer": "株式を分割する",
+      "explanation": "「split our shares」とは、株式を分割する、つまり、自分たちが持っている株式を分け合うという意味です。ここでは、発明によって得られるであろう利益を分配することを指しています。ビジネスの文脈で、権利や利益を公平に分ける際に使われる表現です。"
+    },
+    {
+      "id": 32,
+      "value": "way around this",
+      "options": [
+        "これを避ける方法",
+        "これに対する直接的な道",
+        "これに関する唯一の答え",
+        "これを無視する方法"
+      ],
+      "correctAnswer": "これを避ける方法",
+      "explanation": "「way around this」とは、困難や問題を回避するための方法、抜け道、または解決策を見つけるという意味です。直接的な解決が難しい場合に、別の角度からアプローチして状況を打開するニュアンスを含みます。例えば、規則や制約をうまくすり抜ける方法を見つけた場合などに使われます。"
+    },
+    {
+      "id": 33,
+      "value": "in order",
+      "options": [
+        "適切である",
+        "順番通りである",
+        "準備が整っている",
+        "命令されている"
+      ],
+      "correctAnswer": "適切である",
+      "explanation": "「in order」は、ここでは「適切である」「必要である」という意味で使われています。何らかの手続きや準備が整っている状態、または何かを行うために必要な状態であることを示します。例えば、「契約書を作成することが適切だ」というように使われます。"
+    },
+    {
+      "id": 34,
+      "value": "So stipulated",
+      "options": [
+        "そのように規定する",
+        "反対する",
+        "提案する",
+        "質問する"
+      ],
+      "correctAnswer": "そのように規定する",
+      "explanation": "「So stipulated」は、法的な文脈やフォーマルな状況で使われる表現で、「そのように合意する」「そのように定める」という意味です。契約や協定などで、特定の条件や条項について双方が合意したことを示す際に用いられます。日常会話ではあまり使われません。"
+    },
+    {
+      "id": 35,
+      "value": "stash",
+      "options": [
+        "隠し場所",
+        "コレクション",
+        "公開場所",
+        "放棄場所"
+      ],
+      "correctAnswer": "隠し場所",
+      "explanation": "「stash」は、隠し場所、または隠された物という意味です。ここでは、契約書が隠されていた場所を指しています。秘密にしておきたい物や、人に見られたくない物を隠しておく場所、またはその行為自体を指す言葉です。例えば、「a stash of money（隠し金）」のように使われます。"
+    },
+    {
+      "id": 36,
+      "value": "the thought that counts",
+      "options": [
+        "心が大切",
+        "結果が全て",
+        "努力が重要",
+        "外見が重要"
+      ],
+      "correctAnswer": "心が大切",
+      "explanation": "「the thought that counts」とは、「大切なのは気持ちだ」という意味のことわざです。プレゼントや行為そのものの価値よりも、それを選んだり行ったりした人の気持ちが重要であるという考え方を示します。相手の気持ちを尊重する際に使われる表現です。"
+    },
+    {
+      "id": 37,
+      "value": "back-ordered",
+      "options": [
+        "予約済み",
+        "在庫切れ",
+        "特別注文",
+        "返品済み"
+      ],
+      "correctAnswer": "在庫切れ",
+      "explanation": "「back-ordered」とは、注文が殺到し、在庫が一時的に不足している状態を指します。注文は受け付けているものの、商品の発送が遅れることを意味します。オンラインショッピングなどでよく見られる表現で、商品の入荷を待つ必要がある場合に用いられます。"
+    },
+    {
+      "id": 38,
+      "value": "drops off",
+      "options": [
+        "立ち去る",
+        "届ける",
+        "見つける",
+        "忘れる"
+      ],
+      "correctAnswer": "届ける",
+      "explanation": "「drop off」は、ここでは「（物を）届ける」「置いていく」という意味で使われています。人を車で送って降ろす場合や、荷物を届ける場合など、様々な状況で使われます。例えば、「I'll drop off the package at your house.（あなたの家に荷物を届けておきます）」のように使います。"
+    },
+    {
+      "id": 39,
+      "value": "easy to manipulate",
+      "options": [
+        "操作しやすい",
+        "理解しやすい",
+        "信用しやすい",
+        "助けやすい"
+      ],
+      "correctAnswer": "操作しやすい",
+      "explanation": "「easy to manipulate」とは、人が「操縦しやすい」「影響を受けやすい」という意味です。他人の意見に左右されやすく、自分の意思をしっかりと持っていない状態を表します。ずる賢い人に利用されやすいタイプの人を指すことが多いです。例えば、「彼は単純だから、簡単に操れる」のように使われます。"
+    },
+    {
+      "id": 40,
+      "value": "put it on speaker",
+      "options": [
+        "スピーカーにする",
+        "秘密にする",
+        "保留にする",
+        "終了する"
+      ],
+      "correctAnswer": "スピーカーにする",
+      "explanation": "「put it on speaker」とは、電話をスピーカーフォンにするという意味です。こうすることで、通話内容を複数人で聞くことができます。会議やグループでの会話でよく使われる機能で、ハンズフリーで会話することも可能です。例えば、「Could you put it on speaker so everyone can hear?（みんなが聞こえるようにスピーカーにしてもらえますか？）」のように使われます。"
+    },
+    {
+      "id": 41,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "何が下にあるの？",
+        "元気ですか？",
+        "何が起こったの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、カジュアルな挨拶で「どうしたの？」「何かあった？」という意味です。親しい友人や知人に対して、近況を尋ねたり、何か特別なことがあったのかを尋ねる際に使われます。返答としては、「Nothing much.（特に何もないよ）」や、具体的な出来事を伝えることが多いです。"
+    },
+    {
+      "id": 42,
+      "value": "miss hanging out with you",
+      "options": [
+        "一緒に過ごすのが恋しい",
+        "一緒に遊ぶのが嫌い",
+        "会いたくない",
+        "連絡を取りたくない"
+      ],
+      "correctAnswer": "一緒に過ごすのが恋しい",
+      "explanation": "「miss hanging out with you」とは、「あなたと一緒に出かけたり、ぶらぶらしたりするのが恋しい」という意味です。親しい人と気軽に過ごす時間、特に目的もなく一緒にいる時間を懐かしむ気持ちを表します。友人との別れ際や、しばらく会っていない人に再会したい気持ちを伝える際に使われます。"
+    },
+    {
+      "id": 43,
+      "value": "having a really hard time",
+      "options": [
+        "とても楽しい時間を過ごしている",
+        "非常に困難な状況にある",
+        "良い経験をしている",
+        "簡単な問題を抱えている"
+      ],
+      "correctAnswer": "非常に困難な状況にある",
+      "explanation": "「having a really hard time」とは、「非常に困難な状況にある」「とても苦労している」という意味です。精神的、肉体的に辛い状況や、困難な問題に直面している状態を表します。個人的な悩みや仕事上の問題など、様々な状況で使われます。"
+    },
+    {
+      "id": 44,
+      "value": "won't bother you",
+      "options": [
+        "邪魔しない",
+        "手伝う",
+        "招待する",
+        "応援する"
+      ],
+      "correctAnswer": "邪魔しない",
+      "explanation": "「won't bother you」とは、「あなたを邪魔しない」「あなたに迷惑をかけない」という意味です。相手に気を遣い、これ以上関わらないようにするという意思表示です。相手が忙しい時や、一人になりたい時に使われることが多いです。例えば、「I won't bother you anymore.（もう邪魔しません）」のように使われます。"
+    },
+    {
+      "id": 45,
+      "value": "have a place in my heart",
+      "options": [
+        "心の中に場所がある",
+        "秘密の場所を知っている",
+        "旅行する場所がある",
+        "競争する場所がある"
+      ],
+      "correctAnswer": "心の中に場所がある",
+      "explanation": "「have a place in my heart」とは、「心の中に場所がある」「大切に思っている」という意味です。誰かに対する愛情や感謝の気持ちを表す際に使われます。別れの場面や、感謝の気持ちを伝えたい時に使われることが多い表現です。例えば、「You will always have a place in my heart.（あなたはいつも私の心の中にいるでしょう）」のように使われます。"
+    },
+    {
+      "id": 46,
+      "value": "That was rough",
+      "options": [
+        "それは楽しかった",
+        "それは大変だった",
+        "それは簡単だった",
+        "それは美しかった"
+      ],
+      "correctAnswer": "それは大変だった",
+      "explanation": "「That was rough」とは、「それは辛かった」「それは大変だった」という意味です。困難な状況や不快な経験を振り返って言う際に使われます。精神的、肉体的にきつい状況を乗り越えた後に使われることが多い表現です。例えば、厳しいトレーニングの後や、困難な交渉を終えた後などに使われます。"
+    },
+    {
+      "id": 47,
+      "value": "leave you to your girls' night",
+      "options": [
+        "女の子だけの夜を楽しんで",
+        "男の子だけの夜を楽しんで",
+        "一人で楽しんで",
+        "仕事に戻って"
+      ],
+      "correctAnswer": "女の子だけの夜を楽しんで",
+      "explanation": "「leave you to your girls' night」とは、「あなたたちが女の子だけの夜を楽しむために、私は退散します」という意味です。女性たちが集まって楽しんでいるところに、自分がいるのは場違いだと感じた際に、気遣いを示すために使われる表現です。男性が女性だけの集まりから離れる際に使われることが多いです。"
+    },
+    {
+      "id": 48,
+      "value": "change your mind",
+      "options": [
+        "考えを変える",
+        "服を着替える",
+        "場所を変える",
+        "時間を変える"
+      ],
+      "correctAnswer": "考えを変える",
+      "explanation": "「change your mind」とは、「考えを変える」「気が変わる」という意味です。以前の決定や意見を覆し、新しい考えや選択をする際に使われます。例えば、「If you change your mind, let me know.（もし気が変わったら、教えてください）」のように使われます。"
+    },
+    {
+      "id": 49,
+      "value": "kind of feel like",
+      "options": [
+        "～のような気がする",
+        "～のような種類だ",
+        "～のような感じがする",
+        "～のような親切さだ"
+      ],
+      "correctAnswer": "～のような気がする",
+      "explanation": "「kind of feel like」とは、「なんとなく～のような気がする」「どちらかというと～したい気分だ」という意味です。はっきりとした意思表示ではなく、漠然とした気持ちや希望を表す際に使われます。例えば、「I kind of feel like going to the movies.（なんとなく映画に行きたい気分だ）」のように使われます。"
+    },
+    {
+      "id": 50,
+      "value": "Will do",
+      "options": [
+        "そうします",
+        "しません",
+        "できないでしょう",
+        "わからない"
+      ],
+      "correctAnswer": "そうします",
+      "explanation": "「Will do」は、相手の頼み事や指示に対して「承知しました」「そうします」という意味で使う返事です。短いフレーズですが、快く引き受ける気持ちが伝わる表現です。ビジネスシーンでもカジュアルな場面でも使用できます。例えば、上司から指示を受けた際に「Will do.」と返答することで、スムーズなコミュニケーションにつながります。"
+    },
+    {
+      "id": 51,
+      "value": "proprietary",
+      "options": [
+        "無料の",
+        "独自の",
+        "一般的な",
+        "秘密の"
+      ],
+      "correctAnswer": "独自の",
+      "explanation": "「proprietary」は、特定の企業や個人が所有し、独占的に使用する権利を持つという意味です。特許、商標、企業秘密など、法的に保護された情報や技術に対して使われます。例：This software uses a proprietary algorithm. (このソフトウェアは独自のアルゴリズムを使用しています。)"
+    },
+    {
+      "id": 52,
+      "value": "obnoxious",
+      "options": [
+        "快適な",
+        "謙虚な",
+        "不快な",
+        "魅力的な"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「obnoxious」は、非常に不快で、他人をイライラさせるような性質や行動を指します。騒々しい、自己中心的、または攻撃的な態度に対して使われることが多いです。例：He was being loud and obnoxious at the party. (彼はパーティーで騒々しく、不快な態度をとっていた。)"
+    },
+    {
+      "id": 53,
+      "value": "draft",
+      "options": [
+        "完成させる",
+        "修正する",
+        "起草する",
+        "印刷する"
+      ],
+      "correctAnswer": "起草する",
+      "explanation": "「draft」は、文書や計画などの最初のバージョンを作成することを意味します。法律、契約書、論文など、正式な文書を作成する際によく使用されます。例：I need to draft a proposal for the new project. (新しいプロジェクトのために提案書を起草する必要があります。)"
+    },
+    {
+      "id": 54,
+      "value": "make out",
+      "options": [
+        "理解する",
+        "成功する",
+        "言い訳する",
+        "激しくキスする"
+      ],
+      "correctAnswer": "激しくキスする",
+      "explanation": "「make out」は、アメリカ英語のスラングで、情熱的にキスをすることや、性的な行為を行うことを意味します。文脈によっては、曖昧な情報を理解するという意味にもなります。例：They were making out in the back of the car. (彼らは車の後部座席で激しくキスをしていた。)"
+    },
+    {
+      "id": 55,
+      "value": "cut out",
+      "options": [
+        "手伝う",
+        "仲間に入れる",
+        "除外する",
+        "分割する"
+      ],
+      "correctAnswer": "除外する",
+      "explanation": "「cut out」は、何かから人を排除したり、参加させないようにすることを意味します。ビジネスや人間関係において、誰かを意図的に除外する状況で使われることがあります。例：They tried to cut him out of the deal. (彼らは彼を取引から排除しようとした。)"
+    },
+    {
+      "id": 56,
+      "value": "to be fair",
+      "options": [
+        "公平を期すために",
+        "不公平だが",
+        "偶然にも",
+        "残念ながら"
+      ],
+      "correctAnswer": "公平を期すために",
+      "explanation": "「to be fair」は、公平な視点を提供したり、別の側面を考慮することを導入する際に使われるフレーズです。誰かや何かの擁護、または状況のバランスを取るために使用されます。例：To be fair, he did warn us about the risks. (公平を期すために言うと、彼は私たちにリスクについて警告していました。)"
+    },
+    {
+      "id": 57,
+      "value": "supercooled",
+      "options": [
+        "過熱された",
+        "冷却された",
+        "超冷却された",
+        "温められた"
+      ],
+      "correctAnswer": "超冷却された",
+      "explanation": "「supercooled」は、物質がその凝固点以下に冷却されているにもかかわらず、まだ固体に変わっていない状態を指します。物理学や化学の分野で使用される専門用語です。例：Supercooled water can freeze instantly if disturbed. (過冷却水は、邪魔されると瞬時に凍結することがあります。)"
+    },
+    {
+      "id": 58,
+      "value": "hangnail",
+      "options": [
+        "マニキュア",
+        "爪やすり",
+        "ささくれ",
+        "付け爪"
+      ],
+      "correctAnswer": "ささくれ",
+      "explanation": "「hangnail」は、爪の横の皮膚が裂けてできる小さな裂け目のことです。乾燥や外的刺激によって発生しやすく、痛みや不快感を伴うことがあります。例：She has a hangnail on her thumb. (彼女は親指にささくれがある。)"
+    },
+    {
+      "id": 59,
+      "value": "whipped up",
+      "options": [
+        "準備した",
+        "隠した",
+        "台無しにした",
+        "見つけた"
+      ],
+      "correctAnswer": "準備した",
+      "explanation": "「whip up」は、手早く何かを作る、準備するという意味の口語表現です。料理や計画、文書など、短い時間で何かを仕上げる状況で使われます。例：I can whip up a quick dinner. (すぐに夕食を作ることができます。)"
+    },
+    {
+      "id": 60,
+      "value": "patently absurd",
+      "options": [
+        "明らかに賢明",
+        "非常に重要",
+        "まったく意味不明",
+        "明らかに馬鹿げている"
+      ],
+      "correctAnswer": "明らかに馬鹿げている",
+      "explanation": "「patently absurd」は、誰が見ても明らかにおかしい、ばかげているという意味です。「patently」は「明白に、明らかな」という意味で、「absurd」を強調します。例：The suggestion that we should ignore the evidence is patently absurd. (証拠を無視すべきだという提案は、明らかに馬鹿げている。)"
+    },
+    {
+      "id": 61,
+      "value": "thought this through",
+      "options": [
+        "考え直した",
+        "整理整頓した",
+        "徹底的に考えた",
+        "忘れてしまった"
+      ],
+      "correctAnswer": "徹底的に考えた",
+      "explanation": "「think through」は、問題や計画について、あらゆる側面や可能性を考慮して、徹底的に考えるという意味です。将来の結果や影響を予測し、最適な解決策を見つけるために行われます。例：Before making a decision, you should think it through carefully. (決定を下す前に、注意深く検討する必要があります。)"
+    },
+    {
+      "id": 62,
+      "value": "ironclad logic",
+      "options": [
+        "柔軟な論理",
+        "複雑な論理",
+        "絶対的な論理",
+        "感情的な論理"
+      ],
+      "correctAnswer": "絶対的な論理",
+      "explanation": "「ironclad logic」は、非常に強固で、反論の余地がない論理を指します。「ironclad」は「鉄clad（覆われた）」という意味で、非常に強固であることを強調します。例：Her argument was based on ironclad logic, so it was difficult to refute. (彼女の主張は絶対的な論理に基づいていたため、反論は困難でした。)"
+    },
+    {
+      "id": 63,
+      "value": "gone well",
+      "options": [
+        "簡単に終わった",
+        "うまくいった",
+        "早く終わった",
+        "失敗した"
+      ],
+      "correctAnswer": "うまくいった",
+      "explanation": "「go well」は、物事が順調に進む、うまくいくという意味です。計画、プロジェクト、人間関係など、さまざまな状況で使用されます。例：The meeting went well, and we reached an agreement. (会議はうまくいき、合意に達しました。)"
+    },
+    {
+      "id": 64,
+      "value": "tough time",
+      "options": [
+        "楽しい時間",
+        "多忙な時間",
+        "大変な時間",
+        "自由な時間"
+      ],
+      "correctAnswer": "大変な時間",
+      "explanation": "「tough time」は、困難な時期、苦労している状況を指します。感情的な苦痛、経済的な困難、健康問題など、さまざまな種類の困難な状況で使用されます。例：She's been having a tough time since she lost her job. (彼女は失業して以来、大変な時期を過ごしています。)"
+    },
+    {
+      "id": 65,
+      "value": "get back together",
+      "options": [
+        "別れる",
+        "再会する",
+        "仲直りする",
+        "疎遠になる"
+      ],
+      "correctAnswer": "仲直りする",
+      "explanation": "「get back together」は、一度別れたカップルが再び交際を始める、関係を修復することを意味します。関係の再構築や、過去の問題を乗り越える努力を伴う場合があります。例：They decided to get back together after a few months apart. (彼らは数ヶ月の別居後、仲直りすることにしました。)"
+    },
+    {
+      "id": 66,
+      "value": "playbook",
+      "options": [
+        "教科書",
+        "戦略集",
+        "楽譜",
+        "絵本"
+      ],
+      "correctAnswer": "戦略集",
+      "explanation": "「playbook」は、特定の状況や分野における戦略や戦術をまとめたものです。スポーツ、ビジネス、政治など、目標達成のための計画や手順を示す際に使用されます。例：The company is using a new playbook to increase sales. (会社は売上を伸ばすために新しい戦略集を使用しています。)"
+    },
+    {
+      "id": 67,
+      "value": "be cool",
+      "options": [
+        "興奮する",
+        "冷静になる",
+        "怒る",
+        "悲しむ"
+      ],
+      "correctAnswer": "冷静になる",
+      "explanation": "「be cool」は、落ち着いて冷静でいるように促す表現です。緊張した状況や興奮した状況で、落ち着きを保つように促すために使用されます。例：Just be cool and don't panic. (落ち着いて、パニックにならないで。)"
+    },
+    {
+      "id": 68,
+      "value": "run into",
+      "options": [
+        "計画する",
+        "避ける",
+        "偶然出会う",
+        "探す"
+      ],
+      "correctAnswer": "偶然出会う",
+      "explanation": "「run into」は、偶然に人に出会う、または予期せぬ問題に遭遇するという意味です。計画されていない出会いや、思いがけない困難な状況を表す際に使用されます。例：I ran into an old friend at the grocery store. (食料品店で偶然昔の友人に会いました。)"
+    },
+    {
+      "id": 69,
+      "value": "share of the patent",
+      "options": [
+        "特許の権利",
+        "特許料",
+        "特許のアイデア",
+        "特許の申請書"
+      ],
+      "correctAnswer": "特許の権利",
+      "explanation": "「share of the patent」は、特許によって得られる権利や利益の分け前を意味します。発明者が複数いる場合、特許から得られる利益をどのように分配するかを決定するために使用されます。例：Each inventor received an equal share of the patent. (各発明者は特許の均等な分け前を受け取りました。)"
+    },
+    {
+      "id": 70,
+      "value": "split anything we make equally",
+      "options": [
+        "均等に分割する",
+        "不平等に分割する",
+        "隠す",
+        "投資する"
+      ],
+      "correctAnswer": "均等に分割する",
+      "explanation": "「split anything we make equally」は、何かを作り出した際に得られる利益や収益を均等に分配することを意味します。共同で事業を行う場合や、共同で発明した場合などに使用されます。例：We agreed to split the profits equally. (私たちは利益を均等に分配することに合意しました。)"
+    },
+    {
+      "id": 71,
+      "value": "Nice enough",
+      "options": [
+        "不親切",
+        "十分な親切",
+        "最低限の親切",
+        "非常に不親切"
+      ],
+      "correctAnswer": "十分な親切",
+      "explanation": "「nice enough」は、十分な親切心があるという意味で、感謝の気持ちを表す際や、相手の行動が期待を満たしていることを示す際に使用されます。例：They were nice enough to help me with my luggage. (彼らは親切にも私の荷物を手伝ってくれました。)"
+    },
+    {
+      "id": 72,
+      "value": "based on",
+      "options": [
+        "関係なく",
+        "基づいて",
+        "反対に",
+        "似ている"
+      ],
+      "correctAnswer": "基づいて",
+      "explanation": "「based on」は、何かの基礎や根拠になっていることを示す表現です。アイデア、理論、情報などが、特定の事実やデータに基づいていることを示す際に使用されます。例：The movie is based on a true story. (その映画は実話に基づいています。)"
+    },
+    {
+      "id": 73,
+      "value": "apply for this patent",
+      "options": [
+        "特許を諦める",
+        "特許を申請する",
+        "特許を販売する",
+        "特許を拒否する"
+      ],
+      "correctAnswer": "特許を申請する",
+      "explanation": "「apply for this patent」は、発明やアイデアの独占的な権利を得るために特許を申請することを意味します。特許庁に申請書類を提出し、審査を受ける必要があります。例：We need to apply for this patent as soon as possible. (私たちはできるだけ早くこの特許を申請する必要があります。)"
+    },
+    {
+      "id": 74,
+      "value": "sweet that you're worried",
+      "options": [
+        "心配するのは当然",
+        "心配しないで",
+        "心配してくれてありがとう",
+        "心配しないでほしい"
+      ],
+      "correctAnswer": "心配してくれてありがとう",
+      "explanation": "「sweet that you're worried」は、相手が心配してくれていることに対する感謝の気持ちを表す表現です。相手の優しさや気遣いを認め、感謝の意を伝える際に使用されます。例：It's sweet that you're worried about me, but I'm fine. (心配してくれてありがとう、でも私は大丈夫です。)"
+    },
+    {
+      "id": 75,
+      "value": "off work",
+      "options": [
+        "仕事中",
+        "仕事探し中",
+        "仕事終わり",
+        "仕事が好き"
+      ],
+      "correctAnswer": "仕事終わり",
+      "explanation": "「off work」は、勤務時間外である、仕事が終わった状態を指します。休暇中や休憩中など、仕事から離れている時間帯を意味します。例：I'm off work today, so I can relax. (今日は仕事が休みなので、リラックスできます。)"
+    },
+    {
+      "id": 76,
+      "value": "limited liability corporation",
+      "options": [
+        "無限責任会社",
+        "有限責任会社",
+        "株式会社",
+        "合資会社"
+      ],
+      "correctAnswer": "有限責任会社",
+      "explanation": "有限責任会社（LLC）とは、会社の債務に対する社員の責任が出資額に限定されている会社組織のことです。アメリカで発展し、日本でも導入されました。柔軟な組織設計が可能で、小規模企業に適しています。"
+    },
+    {
+      "id": 77,
+      "value": "stipulated",
+      "options": [
+        "要求した",
+        "規定した",
+        "提案した",
+        "許可した"
+      ],
+      "correctAnswer": "規定した",
+      "explanation": "「stipulate」は、契約や合意において、特定の条件や条項を明記する、規定するという意味です。フォーマルな文脈で用いられ、法的拘束力を持つニュアンスが含まれます。例文：The contract stipulates that all disputes must be settled in arbitration.（契約では、すべての紛争は仲裁で解決されると規定されている。）"
+    },
+    {
+      "id": 78,
+      "value": "on board",
+      "options": [
+        "賛成する",
+        "反対する",
+        "検討中である",
+        "保留する"
+      ],
+      "correctAnswer": "賛成する",
+      "explanation": "「on board」は、計画や提案に賛成し、協力する意思があることを表すイディオムです。文字通りには「船に乗っている」という意味ですが、比喩的に「仲間に入る」「参加する」という意味で使われます。例文：Everyone is on board with the new marketing strategy. (新しいマーケティング戦略には全員が賛成している。)"
+    },
+    {
+      "id": 79,
+      "value": "addendum",
+      "options": [
+        "要約",
+        "補遺",
+        "削除",
+        "序文"
+      ],
+      "correctAnswer": "補遺",
+      "explanation": "「addendum」は、契約書や文書に追加される補足条項や修正条項を意味します。既存の文書を修正・追加するために用いられ、法的文書でよく使用されます。例文：The addendum to the contract specified the delivery date. (契約書の補遺には、納期が明記されていた。)"
+    },
+    {
+      "id": 80,
+      "value": "change of plans",
+      "options": [
+        "計画通り",
+        "計画変更",
+        "計画中止",
+        "計画延期"
+      ],
+      "correctAnswer": "計画変更",
+      "explanation": "「change of plans」は、予定されていた計画や予定が変更されることを意味する一般的な表現です。例文：I'm sorry, there's been a change of plans. We'll have to meet tomorrow instead.（申し訳ありませんが、計画が変更になりました。代わりに明日お会いしなければなりません。）"
+    },
+    {
+      "id": 81,
+      "value": "rough day",
+      "options": [
+        "順調な一日",
+        "多忙な一日",
+        "困難な一日",
+        "退屈な一日"
+      ],
+      "correctAnswer": "困難な一日",
+      "explanation": "「rough day」は、困難なことや不快なことが多く、精神的または肉体的に疲れる一日を指します。例文：I had a rough day at work, so I just want to relax tonight.（今日は仕事で大変な一日だったので、今夜はただリラックスしたいです。）"
+    },
+    {
+      "id": 82,
+      "value": "whereupons",
+      "options": [
+        "前置き",
+        "結論",
+        "根拠",
+        "詳細"
+      ],
+      "correctAnswer": "前置き",
+      "explanation": "「whereupon」は、法律文書などで「それに基づいて」「その結果として」という意味で使用されるフォーマルな言葉です。ここでは、契約書で多用される形式的な言い回しをPennyが揶揄して使っています。日常会話ではあまり使いません。Sheldonが書いた契約書がいかに形式ばっているかを強調する表現です。"
+    },
+    {
+      "id": 83,
+      "value": "as it pertains to",
+      "options": [
+        "関係なく",
+        "関して",
+        "反して",
+        "基づいて"
+      ],
+      "correctAnswer": "関して",
+      "explanation": "「as it pertains to」は、「～に関して」「～について」という意味のフォーマルな表現です。特定の事柄や範囲に話題を限定する際に用いられます。例文：This rule only applies as it pertains to employees in the sales department. (この規則は、営業部の従業員に関してのみ適用される。)"
+    },
+    {
+      "id": 84,
+      "value": "abstain from",
+      "options": [
+        "参加する",
+        "控える",
+        "奨励する",
+        "許可する"
+      ],
+      "correctAnswer": "控える",
+      "explanation": "「abstain from」は、何かを意図的に避ける、控えるという意味です。特に、快楽や嗜好品などを自制する場合に使われます。例文：During Lent, many people abstain from eating meat.（四旬節の間、多くの人々が肉食を控えます。）"
+    },
+    {
+      "id": 85,
+      "value": "mockery",
+      "options": [
+        "賞賛",
+        "嘲笑",
+        "擁護",
+        "尊重"
+      ],
+      "correctAnswer": "嘲笑",
+      "explanation": "「mockery」は、軽蔑的な態度で人をからかうこと、嘲笑、愚弄という意味です。相手を侮辱し、見下すニュアンスが含まれます。例文：His speech was met with mockery and laughter.（彼のスピーチは嘲笑と笑いに迎えられた。）"
+    },
+    {
+      "id": 86,
+      "value": "tying my hands",
+      "options": [
+        "自由にする",
+        "束縛する",
+        "協力する",
+        "支援する"
+      ],
+      "correctAnswer": "束縛する",
+      "explanation": "「tying my hands」は、文字通りには「手を縛る」という意味ですが、比喩的には、行動の自由を制限する、身動きが取れないようにするという意味で使われます。例文：The new regulations are tying my hands and making it difficult to do my job. (新しい規制によって身動きが取れなくなり、仕事がしにくくなっている。)"
+    },
+    {
+      "id": 87,
+      "value": "allocated to",
+      "options": [
+        "削減される",
+        "割り当てられる",
+        "隠蔽される",
+        "追加される"
+      ],
+      "correctAnswer": "割り当てられる",
+      "explanation": "「allocate to」は、特定の目的や用途のために資源や資金を割り当てる、配分するという意味です。例文：A portion of the budget was allocated to marketing. (予算の一部はマーケティングに割り当てられた。)"
+    },
+    {
+      "id": 88,
+      "value": "rescue from",
+      "options": [
+        "保護する",
+        "解放する",
+        "攻撃する",
+        "無視する"
+      ],
+      "correctAnswer": "解放する",
+      "explanation": "「rescue from」は、危険や困難な状況から救い出す、解放するという意味です。例文：The firefighters rescued the family from the burning building. (消防士たちは燃えている建物から家族を救出した。)"
+    },
+    {
+      "id": 89,
+      "value": "subpar",
+      "options": [
+        "最高の",
+        "平均以上の",
+        "平均以下の",
+        "並外れた"
+      ],
+      "correctAnswer": "平均以下の",
+      "explanation": "「subpar」は、基準や期待に満たない、平均以下の、標準以下のという意味です。例文：The restaurant's food was subpar, and the service was slow. (そのレストランの料理は平均以下で、サービスも遅かった。)"
+    },
+    {
+      "id": 90,
+      "value": "menial",
+      "options": [
+        "重要な",
+        "単純な",
+        "複雑な",
+        "創造的な"
+      ],
+      "correctAnswer": "単純な",
+      "explanation": "「menial」は、単調で退屈な、重要でない、肉体的な労働を指します。軽蔑的なニュアンスが含まれることがあります。例文：He started his career doing menial tasks in the office. (彼はオフィスで単純な仕事をしてキャリアをスタートさせた。)"
+    },
+    {
+      "id": 91,
+      "value": "benefit of the doubt",
+      "options": [
+        "疑いの目",
+        "確固たる証拠",
+        "寛大な措置",
+        "厳しい評価"
+      ],
+      "correctAnswer": "寛大な措置",
+      "explanation": "「benefit of the doubt」は、証拠が不十分な場合に、相手をとりあえず信用する、寛大な措置を取るという意味です。相手に有利なように解釈するニュアンスが含まれます。例文：I don't know if he's telling the truth, but I'll give him the benefit of the doubt. (彼が真実を言っているかわからないが、とりあえず彼を信用することにする。)"
+    },
+    {
+      "id": 92,
+      "value": "As a matter of fact",
+      "options": [
+        "実際には",
+        "残念ながら",
+        "偶然にも",
+        "当然のことながら"
+      ],
+      "correctAnswer": "実際には",
+      "explanation": "「As a matter of fact」は、「実際には」「実のところ」という意味で、相手の発言を訂正したり、追加情報を提供したりする際に使われます。例文：I thought you didn't like coffee. As a matter of fact, I love it.（コーヒーが好きじゃないと思ってた。 実は、大好きなんだ。）"
+    },
+    {
+      "id": 93,
+      "value": "decent",
+      "options": [
+        "下品な",
+        "不適切な",
+        "礼儀正しい",
+        "失礼な"
+      ],
+      "correctAnswer": "礼儀正しい",
+      "explanation": "「decent」は、適切な、きちんとした、礼儀正しい、善良なという意味です。社会的に受け入れられる行動や品質を指します。例文：He's a decent guy, always willing to help others. (彼は礼儀正しい人で、いつも他人を助けることを厭わない。)"
+    },
+    {
+      "id": 94,
+      "value": "Hang on",
+      "options": [
+        "急いで",
+        "諦めて",
+        "待って",
+        "始めて"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on」は、会話を中断させたり、相手に少し待つように頼んだりする際に使われる一般的な表現です。例文：Hang on a second, I need to find my keys. (ちょっと待って、鍵を見つけないといけない。)"
+    },
+    {
+      "id": 95,
+      "value": "make fun of",
+      "options": [
+        "尊敬する",
+        "理解する",
+        "からかう",
+        "無視する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「make fun of」は、人や物を面白おかしくからかう、嘲笑するという意味です。相手を傷つける意図が含まれることがあります。例文：The other children made fun of him because of his glasses. (他の子供たちは彼の眼鏡をからかった。)"
+    },
+    {
+      "id": 96,
+      "value": "personal code of ethics",
+      "options": [
+        "個人的な倫理規定",
+        "法的な義務",
+        "社会的な規範",
+        "宗教的な教義"
+      ],
+      "correctAnswer": "個人的な倫理規定",
+      "explanation": "「personal code of ethics」は、個人が持つ道徳的な原則や価値観の体系のことです。自身の行動や判断を律するための指針となります。例文：His personal code of ethics wouldn't allow him to lie. (彼の個人的な倫理規定は、彼に嘘をつくことを許さなかった。)"
+    },
+    {
+      "id": 97,
+      "value": "obsessive-compulsive disorder",
+      "options": [
+        "強迫性障害",
+        "注意欠陥多動性障害",
+        "自閉症スペクトラム",
+        "統合失調症"
+      ],
+      "correctAnswer": "強迫性障害",
+      "explanation": "「obsessive-compulsive disorder (OCD)」は、強迫観念や強迫行為を特徴とする精神疾患です。日常生活に支障をきたすことがあります。例文：His obsessive-compulsive disorder made him wash his hands repeatedly. (彼の強迫性障害のために、彼は繰り返し手を洗った。)"
+    },
+    {
+      "id": 98,
+      "value": "dismissive",
+      "options": [
+        "丁寧な",
+        "敬意を払う",
+        "軽蔑的な",
+        "友好的な"
+      ],
+      "correctAnswer": "軽蔑的な",
+      "explanation": "「dismissive」は、相手を軽視する、見下すような態度をとるという意味です。相手の意見や価値を認めないニュアンスが含まれます。例文：He was dismissive of her ideas, and wouldn't even listen to them. (彼は彼女の考えを軽視し、耳を傾けようともしなかった。)"
+    },
+    {
+      "id": 99,
+      "value": "Come by",
+      "options": [
+        "立ち寄る",
+        "出発する",
+        "通過する",
+        "帰宅する"
+      ],
+      "correctAnswer": "立ち寄る",
+      "explanation": "「Come by」は、人の家や場所に立ち寄る、訪れるという意味です。例文：Why don't you come by my place after work? (仕事の後、私の家に立ち寄ってみませんか？)"
+    },
+    {
+      "id": 100,
+      "value": "pertains",
+      "options": [
+        "分離する",
+        "関わる",
+        "抽象化する",
+        "解決する"
+      ],
+      "correctAnswer": "関わる",
+      "explanation": "「pertain」は、特定の事柄や範囲に「関連する」「関係がある」という意味の動詞です。主にフォーマルな文脈で使用されます。例文:This chapter pertains to the history of the region. (この章はその地域の歴史に関わっている。)"
+    }
+  ]
+}

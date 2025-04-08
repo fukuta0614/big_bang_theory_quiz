@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "get a bit carried away",
+      "options": [
+        "少し興奮する",
+        "少し悲しくなる",
+        "少し怒る",
+        "少し冷静になる"
+      ],
+      "correctAnswer": "少し興奮する",
+      "explanation": "「get carried away」は、興奮してやり過ぎる、夢中になりすぎて我を忘れるという意味です。自制心を失い、度を超してしまう状況で使われます。例：I got a bit carried away with the decorations for the party. (パーティーの飾り付けに夢中になりすぎた。)"
+    },
+    {
+      "id": 2,
+      "value": "manage to",
+      "options": [
+        "当然～する",
+        "～し終える",
+        "～を拒否する",
+        "～に失敗する"
+      ],
+      "correctAnswer": "～し終える",
+      "explanation": "「manage to」は、困難な状況や努力を要する状況で、何とか～し遂げる、どうにかこうにか～するという意味です。必ずしも容易ではないことを成し遂げるニュアンスがあります。例：I managed to finish the project on time despite the difficulties. (困難にもかかわらず、何とかプロジェクトを時間通りに終えることができた。)"
+    },
+    {
+      "id": 3,
+      "value": "cheap",
+      "options": [
+        "安価な",
+        "粗末な",
+        "下品な",
+        "高価な"
+      ],
+      "correctAnswer": "下品な",
+      "explanation": "ここでは「安っぽい」という意味ではなく、「下品な」「軽薄な」という意味で使われています。Bernadetteは、Howardが性行為の後にすぐに帰ってしまうことで、自分が軽く扱われているように感じると表現しています。例：She felt cheap after he left without saying goodbye. (彼がさよならも言わずに去った後、彼女は自分が軽く扱われたように感じた。)"
+    },
+    {
+      "id": 4,
+      "value": "stick her in the ground",
+      "options": [
+        "彼女を無視する",
+        "彼女を埋葬する",
+        "彼女を尊敬する",
+        "彼女を称賛する"
+      ],
+      "correctAnswer": "彼女を埋葬する",
+      "explanation": "「stick someone in the ground」は、人を埋葬するという婉曲的な表現です。死んだ人を土に埋める、つまり埋葬することを意味します。直接的な表現を避け、ユーモラスな響きを持たせることがあります。 例：After the funeral, they stuck him in the ground next to his wife. (葬式の後、彼らは彼の妻の隣に彼を埋葬した。)"
+    },
+    {
+      "id": 5,
+      "value": "God forbid",
+      "options": [
+        "神に感謝する",
+        "神に誓う",
+        "決して～ないように",
+        "神に祈る"
+      ],
+      "correctAnswer": "決して～ないように",
+      "explanation": "「God forbid」は、「～なことが起こらないように」「まさか～なことはないだろう」という意味合いで使われる表現です。何か悪い事態が発生することを強く避けたいときに用います。 例：God forbid, there should be another accident. (二度と事故が起こらないように。)"
+    },
+    {
+      "id": 6,
+      "value": "take this",
+      "options": [
+        "これを受け取る",
+        "これを我慢する",
+        "これを理解する",
+        "これを無視する"
+      ],
+      "correctAnswer": "これを我慢する",
+      "explanation": "「take this」は、ここでは「このようなことを我慢する」「このような扱いを受ける」という意味合いで使われています。不快な状況や侮辱的な言動に対して、それを耐え忍ぶことを拒否する意思を示します。例：I don't have to take this abuse from you anymore. (もうあなたの虐待に耐える必要はない。)"
+    },
+    {
+      "id": 7,
+      "value": "crash",
+      "options": [
+        "衝突する",
+        "崩壊する",
+        "泊まる",
+        "失敗する"
+      ],
+      "correctAnswer": "泊まる",
+      "explanation": "「crash」は、ここでは「（人の家に）泊まる」「寝る場所を借りる」という意味で使われています。一時的に寝泊まりする、特に急な場合や予定外の場合に使われることが多いです。例：I need a place to crash tonight. (今夜泊まる場所が必要だ。)"
+    },
+    {
+      "id": 8,
+      "value": "argue over",
+      "options": [
+        "～を無視する",
+        "～について議論する",
+        "～を計画する",
+        "～を構築する"
+      ],
+      "correctAnswer": "～について議論する",
+      "explanation": "「argue over」は、「～について議論する」「～を巡って口論する」という意味です。意見の相違があり、互いに自分の意見を主張する状況で使われます。例：They are always arguing over money. (彼らはいつもお金のことで言い争っている。)"
+    },
+    {
+      "id": 9,
+      "value": "merits",
+      "options": [
+        "欠点",
+        "長所",
+        "状況",
+        "結果"
+      ],
+      "correctAnswer": "長所",
+      "explanation": "「merit」は、「長所」「利点」「価値」という意味です。何かが優れている点や評価に値する点を指します。例：Each of these plans has its own merits. (これらの計画にはそれぞれ長所がある。)"
+    },
+    {
+      "id": 10,
+      "value": "social protocol",
+      "options": [
+        "社会保障",
+        "社会的地位",
+        "社会契約",
+        "社会儀礼"
+      ],
+      "correctAnswer": "社会儀礼",
+      "explanation": "「social protocol」は、「社会儀礼」「社交上の礼儀作法」という意味です。社会的な状況で適切とされる行動やマナーを指します。例：According to social protocol, you should introduce the younger person to the older person. (社会儀礼によれば、年下の人を年上の人に紹介すべきだ。)"
+    },
+    {
+      "id": 11,
+      "value": "at it",
+      "options": [
+        "それに向かって",
+        "それから離れて",
+        "それに加えて",
+        "それに反対して"
+      ],
+      "correctAnswer": "それに向かって",
+      "explanation": "「at it」は、ここでは「（何かを）する」「取り組む」という意味合いで使われています。Leonardに対してココアを作るように促す文脈で、行動を起こすことを示唆しています。例: They're at it again! (彼らはまたやっている！)"
+    },
+    {
+      "id": 12,
+      "value": "point of inquiry",
+      "options": [
+        "質問の要点",
+        "調査の終点",
+        "議論の的",
+        "確認事項"
+      ],
+      "correctAnswer": "質問の要点",
+      "explanation": "「point of inquiry」は、「質問の要点」「問い合わせ事項」という意味です。何かを知りたい、または確認したい点を明確にする際に用います。例：My point of inquiry is regarding the delivery date. (私の質問の要点は配達日についてです。)"
+    },
+    {
+      "id": 13,
+      "value": "seek refuge",
+      "options": [
+        "避難所を探す",
+        "助けを求める",
+        "危険を冒す",
+        "孤独を好む"
+      ],
+      "correctAnswer": "避難所を探す",
+      "explanation": "「seek refuge」は、「避難する」「保護を求める」という意味です。危険や困難から逃れるために安全な場所や助けを求める行為を指します。例：The refugees sought refuge in neighboring countries. (難民たちは近隣諸国に避難した。)"
+    },
+    {
+      "id": 14,
+      "value": "down in the dumps",
+      "options": [
+        "ゴミ捨て場にいる",
+        "落ち込んでいる",
+        "興奮している",
+        "満足している"
+      ],
+      "correctAnswer": "落ち込んでいる",
+      "explanation": "「down in the dumps」は、「落ち込んでいる」「気が滅入っている」という意味です。気分が沈んでいる状態や、元気がない様子を表します。例：She's been down in the dumps since she lost her job. (彼女は仕事を失ってから落ち込んでいる。)"
+    },
+    {
+      "id": 15,
+      "value": "get carried away",
+      "options": [
+        "冷静になる",
+        "我慢する",
+        "熱中しすぎる",
+        "批判的になる"
+      ],
+      "correctAnswer": "熱中しすぎる",
+      "explanation": "「get carried away」は、夢中になって度を越してしまう、自制心を失うという意味です。感情が高ぶり、行動がエスカレートする状況で使われます。例：I got carried away and bought too many shoes. (夢中になって靴を買いすぎた。)"
+    },
+    {
+      "id": 16,
+      "value": "pinning her hair up",
+      "options": [
+        "髪を切る",
+        "髪を染める",
+        "髪をまとめる",
+        "髪を洗う"
+      ],
+      "correctAnswer": "髪をまとめる",
+      "explanation": "「pin up hair」は、髪をピンで留めてまとめるという意味です。ヘアスタイルを整える際に用いられます。例：She pinned her hair up before going to the party. (彼女はパーティーに行く前に髪をまとめた。)"
+    },
+    {
+      "id": 17,
+      "value": "drawing on her eyebrows",
+      "options": [
+        "眉を剃る",
+        "眉を脱色する",
+        "眉を描く",
+        "眉を整える"
+      ],
+      "correctAnswer": "眉を描く",
+      "explanation": "「draw on eyebrows」は、眉を描くという意味です。化粧で眉の形を整える際に使われます。例：She draws on her eyebrows every morning before going to work. (彼女は毎朝、仕事に行く前に眉を描く。)"
+    },
+    {
+      "id": 18,
+      "value": "considered us living together",
+      "options": [
+        "一緒に住むことを検討する",
+        "一緒に旅行することを計画する",
+        "一緒に仕事することを提案する",
+        "一緒に食事することを想像する"
+      ],
+      "correctAnswer": "一緒に住むことを検討する",
+      "explanation": "「consider living together」は、同棲を検討するという意味です。将来の関係について話し合う際に用いられます。例：Have you ever considered living together? (一緒に住むことを考えたことはありますか？)"
+    },
+    {
+      "id": 19,
+      "value": "flip her mattress",
+      "options": [
+        "マットレスを買い替える",
+        "マットレスを捨てる",
+        "マットレスを裏返す",
+        "マットレスを掃除する"
+      ],
+      "correctAnswer": "マットレスを裏返す",
+      "explanation": "「flip a mattress」は、マットレスを裏返すという意味です。マットレスの摩耗を均等にするために行われます。 例：You should flip your mattress every few months. (数ヶ月ごとにマットレスを裏返すべきです。)"
+    },
+    {
+      "id": 20,
+      "value": "God forbid you get one of those new fancy sex diseases!",
+      "options": [
+        "新しい性病にかかることを願う",
+        "新しい性病にかからないように",
+        "新しい性病を研究する",
+        "新しい性病を予防する"
+      ],
+      "correctAnswer": "新しい性病にかからないように",
+      "explanation": "「God forbid」は、ここでは「決して～ないように」「まさか～なことはないだろう」という意味合いで使われています。何か悪い事態が発生することを強く避けたいときに用います。 例：God forbid, there should be another accident. (二度と事故が起こらないように。)"
+    },
+    {
+      "id": 21,
+      "value": "share a toilet",
+      "options": [
+        "トイレを掃除する",
+        "トイレを修理する",
+        "トイレを共有する",
+        "トイレを独占する"
+      ],
+      "correctAnswer": "トイレを共有する",
+      "explanation": "「share a toilet」は、トイレを共有するという意味です。複数の人が同じトイレを使用することを指します。 例：We have to share a toilet with our neighbors. (私たちは隣人とトイレを共有しなければならない。)"
+    },
+    {
+      "id": 22,
+      "value": "forgot my Claritin",
+      "options": [
+        "薬を飲んだ",
+        "薬を売った",
+        "薬を忘れた",
+        "薬を捨てた"
+      ],
+      "correctAnswer": "薬を忘れた",
+      "explanation": "「forgot my Claritin」は、クラリチン（抗アレルギー薬）を忘れたという意味です。アレルギーの症状を抑えるために必要な薬を忘れたことを表します。例：I forgot my Claritin, so I'm sneezing all day. (クラリチンを忘れたので、一日中くしゃみをしています。)"
+    },
+    {
+      "id": 23,
+      "value": "unannounced houseguest",
+      "options": [
+        "歓迎された客",
+        "予期せぬ客",
+        "迷惑な客",
+        "親切な客"
+      ],
+      "correctAnswer": "予期せぬ客",
+      "explanation": "「unannounced houseguest」は、予告なしに訪れた客という意味です。突然の訪問者を指します。 例：We had an unannounced houseguest last night. (昨夜、予期せぬ客が訪れた。)"
+    },
+    {
+      "id": 24,
+      "value": "secondary friend",
+      "options": [
+        "親友",
+        "幼馴染",
+        "二番目の友達",
+        "知り合い"
+      ],
+      "correctAnswer": "二番目の友達",
+      "explanation": "「secondary friend」は、親友ではない友達という意味です。友情の深さや親密度を表す際に用いられます。 例：He is a secondary friend, not a close one. (彼は親友ではなく、二番目の友達だ。)"
+    },
+    {
+      "id": 25,
+      "value": "primary friend",
+      "options": [
+        "敵",
+        "初対面の友達",
+        "一番の友達",
+        "昔の友達"
+      ],
+      "correctAnswer": "一番の友達",
+      "explanation": "「primary friend」は、一番親しい友達という意味です。友情の深さや親密度を表す際に用いられます。 例：He is my primary friend. (彼は私の親友だ。)"
+    },
+    {
+      "id": 26,
+      "value": "tertiary",
+      "options": [
+        "主要な",
+        "二次的な",
+        "三次的な",
+        "重要な"
+      ],
+      "correctAnswer": "三次的な",
+      "explanation": "「tertiary」は、第三位の、重要度が低い、などの意味を持つ形容詞です。ここでは、Sheldonが自分を「三次的な友人」と表現することで、LeonardやHowardにとって最も親しい友人ではないことをユーモラスに示しています。ビジネスの文脈では、サービス業を指すこともあります。"
+    },
+    {
+      "id": 27,
+      "value": "narcissistically ramble on",
+      "options": [
+        "利己的に黙る",
+        "自己陶酔的にとりとめのない話をする",
+        "謙虚に話す",
+        "冷静に議論する"
+      ],
+      "correctAnswer": "自己陶酔的にとりとめのない話をする",
+      "explanation": "「narcissistically ramble on」は、自己中心的で自分のことばかりを、とりとめもなく話し続けるという意味です。「narcissistically」は自己陶酔的に、「ramble on」はとりとめもなく話すという意味です。SheldonがHowardをからかうために使っています。"
+    },
+    {
+      "id": 28,
+      "value": "forbid",
+      "options": [
+        "許す",
+        "提案する",
+        "禁止する",
+        "要求する"
+      ],
+      "correctAnswer": "禁止する",
+      "explanation": "「forbid」は、何かを禁じる、許さないという意味の動詞です。ここでは、RajがPriyaとLeonardの行動を制限しようとする際に使われています。より一般的な「prohibit」よりも強い禁止のニュアンスがあります。"
+    },
+    {
+      "id": 29,
+      "value": "take a hike",
+      "options": [
+        "散歩に行く",
+        "休憩する",
+        "立ち去る",
+        "旅行する"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "「take a hike」は、人に「あっちへ行け」「消えろ」と伝えるスラング表現です。相手を突き放すような、やや粗雑なニュアンスがあります。ここでは、RajがLeonardにPriyaから離れるように伝える際に使っています。"
+    },
+    {
+      "id": 30,
+      "value": "come on too strong",
+      "options": [
+        "弱すぎる",
+        "強引すぎる",
+        "遅すぎる",
+        "早すぎる"
+      ],
+      "correctAnswer": "強引すぎる",
+      "explanation": "「come on too strong」は、人にアプローチする際に、相手を圧倒するほど積極的すぎるという意味です。恋愛関係において、相手にプレッシャーを与えすぎている状況を表すのに使われます。ここでは、Leonardが以前Priyaに対して積極的すぎたことを反省しています。"
+    },
+    {
+      "id": 31,
+      "value": "inappropriate",
+      "options": [
+        "適切",
+        "不適切",
+        "重要",
+        "些細"
+      ],
+      "correctAnswer": "不適切",
+      "explanation": "「inappropriate」は、状況や文脈にふさわしくない、不適切なという意味です。ここでは、RajがPriyaとLeonardが二人きりで会うことを非難する際に使われています。社会的なマナーや倫理観に反する行為を指すことが多いです。"
+    },
+    {
+      "id": 32,
+      "value": "monitor",
+      "options": [
+        "無視する",
+        "監視する",
+        "参加する",
+        "忘れる"
+      ],
+      "correctAnswer": "監視する",
+      "explanation": "「monitor」は、何かを注意深く観察し、状況の変化や問題点がないかを確認するという意味です。ここでは、RajがPriyaとLeonardの会話を監視すると言っています。技術的な文脈では、システムやプロセスの状態を監視することも指します。"
+    },
+    {
+      "id": 33,
+      "value": "apathetic",
+      "options": [
+        "熱心な",
+        "無関心な",
+        "同情的な",
+        "友好的な"
+      ],
+      "correctAnswer": "無関心な",
+      "explanation": "「apathetic」は、無関心で感情がない、または薄いという意味です。ここでは、Sheldonが自分を「少し無関心な三次的な友人」と表現することで、感情的なサポートは期待できないとユーモラスに示唆しています。"
+    },
+    {
+      "id": 34,
+      "value": "base desires",
+      "options": [
+        "基本的な欲求",
+        "崇高な願望",
+        "個人的な目標",
+        "社会的な義務"
+      ],
+      "correctAnswer": "基本的な欲求",
+      "explanation": "「base desires」は、性欲や食欲など、人間が生まれつき持っている本能的な欲求を指します。ここでは、Hindu Code of Manuにおける女性の行動規範に関連して、RajがPriyaの恋愛を制限しようとする際に使われています。"
+    },
+    {
+      "id": 35,
+      "value": "tormented",
+      "options": [
+        "喜ばせる",
+        "苦しめる",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "苦しめる",
+      "explanation": "「tormented」は、精神的または肉体的にひどく苦しめられるという意味です。ここでは、Hindu Code of Manuにおける女性の不従順に対する罰として、病気に苦しめられると述べられています。文学作品や宗教的な文脈でよく用いられます。"
+    },
+    {
+      "id": 36,
+      "value": "gamble",
+      "options": [
+        "投資",
+        "賭け",
+        "計画",
+        "努力"
+      ],
+      "correctAnswer": "賭け",
+      "explanation": "「gamble」は、リスクを伴う行為、特に不確実な結果に賭けることを意味します。ここでは、SheldonがPriyaにとってLeonardとの関係は「大きな賭け」であると皮肉っぽく述べています。金融やビジネスの文脈でもよく使用されます。"
+    },
+    {
+      "id": 37,
+      "value": "stem from",
+      "options": [
+        "解決する",
+        "始まる",
+        "終わる",
+        "隠す"
+      ],
+      "correctAnswer": "始まる",
+      "explanation": "「stem from」は、何かが別のものから生じる、または由来するという意味の句動詞です。原因や起源を説明する際に使われます。ここでは、Priyaが感じるかもしれない緊張や気まずさが、LeonardとPennyの関係に由来するとSheldonが指摘しています。"
+    },
+    {
+      "id": 38,
+      "value": "do the dance with no pants",
+      "options": [
+        "ダンスを踊る",
+        "秘密の関係を持つ",
+        "仕事をする",
+        "旅行する"
+      ],
+      "correctAnswer": "秘密の関係を持つ",
+      "explanation": "「do the dance with no pants」は、性的な関係を持つことを婉曲的に表現したスラングです。ここでは、HowardがLeonardとPennyが過去に性的な関係を持っていたことをSheldonに伝える際に使われています。直接的な表現を避けるためのユーモラスな言い回しです。"
+    },
+    {
+      "id": 39,
+      "value": "disenchanted",
+      "options": [
+        "魅了された",
+        "幻滅した",
+        "満足した",
+        "興奮した"
+      ],
+      "correctAnswer": "幻滅した",
+      "explanation": "「disenchanted」は、何かに魅力を感じなくなった、または理想を失った状態を表す形容詞です。ここでは、RajがPennyにLeonardに対する恋愛感情を失った理由をPriyaに説明するように求めています。失望や落胆のニュアンスを含みます。"
+    },
+    {
+      "id": 40,
+      "value": "schlep",
+      "options": [
+        "喜ぶ",
+        "運ぶ",
+        "嫌がる",
+        "拒否する"
+      ],
+      "correctAnswer": "運ぶ",
+      "explanation": "「schlep」は、重いものや扱いにくいものを苦労して運ぶという意味の動詞です。ここでは、Howardが母親のために加湿器を運ばなければならない状況を表しています。特に、不便さや面倒さを伴う場合に用いられます。"
+    },
+    {
+      "id": 41,
+      "value": "pickle",
+      "options": [
+        "簡単な問題",
+        "困難な状況",
+        "楽しい出来事",
+        "普通の料理"
+      ],
+      "correctAnswer": "困難な状況",
+      "explanation": "「pickle」は、困難な状況や苦境という意味を持つ名詞です。ここでは、LeonardがHowardの母親とBernadetteの関係の問題を「real pickle（厄介な問題）」と表現しています。比喩的な表現で、問題解決が難しい状況を指します。"
+    },
+    {
+      "id": 42,
+      "value": "hold up",
+      "options": [
+        "崩れる",
+        "持ちこたえる",
+        "遅れる",
+        "始まる"
+      ],
+      "correctAnswer": "持ちこたえる",
+      "explanation": "「hold up」は、持ちこたえる、耐える、というイディオムです。ここでは、Howardが母親の鼻の調子がどうかによって、Bernadetteと過ごせる時間が変わる、という文脈で使われています。"
+    },
+    {
+      "id": 43,
+      "value": "get out of the way",
+      "options": [
+        "手伝う",
+        "邪魔をする",
+        "逃げる",
+        "協力する"
+      ],
+      "correctAnswer": "邪魔をする",
+      "explanation": "「get out of the way」は、邪魔をしないで、という意味のイディオムです。文字通りには、道から出てという意味になりますが、ここでは、RajがPriyaとLeonardの邪魔をしないように言われている文脈で使われています。"
+    },
+    {
+      "id": 44,
+      "value": "insist on",
+      "options": [
+        "反対する",
+        "主張する",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "主張する",
+      "explanation": "「insist on」は、～を強く主張するという意味のイディオムです。ここでは、もしPriyaがLeonardと話すことを主張するなら、という文脈で使われています。自分の意見や要求を強く通そうとするニュアンスがあります。"
+    },
+    {
+      "id": 45,
+      "value": "at the ready",
+      "options": [
+        "準備万端で",
+        "準備中で",
+        "準備なしで",
+        "準備を忘れて"
+      ],
+      "correctAnswer": "準備万端で",
+      "explanation": "「at the ready」は、準備万端で、すぐに使える状態でという意味のイディオムです。ここでは、Sheldonが自分がいつでもHowardの友人としてサポートできる準備ができていることを述べています。"
+    },
+    {
+      "id": 46,
+      "value": "get to tell me",
+      "options": [
+        "伝えることができる",
+        "伝える必要がない",
+        "伝えることを禁じられる",
+        "伝えることが難しい"
+      ],
+      "correctAnswer": "伝えることができる",
+      "explanation": "「get to tell me」は、（誰かが）私に～を言う権利がある、という意味です。ここでは、PriyaがRajに対して、誰と付き合うかを指図される筋合いはない、と主張する際に使われています。"
+    },
+    {
+      "id": 47,
+      "value": "awkwardness",
+      "options": [
+        "快適さ",
+        "気まずさ",
+        "興奮",
+        "満足"
+      ],
+      "correctAnswer": "気まずさ",
+      "explanation": "「awkwardness」は、気まずさ、ぎこちなさ、という意味の名詞です。ここでは、SheldonがPriyaに対して、LeonardとPennyの関係を知っていることから生じる気まずさがあるかもしれない、と述べています。"
+    },
+    {
+      "id": 48,
+      "value": "sinuses",
+      "options": [
+        "筋肉",
+        "副鼻腔",
+        "神経",
+        "血管"
+      ],
+      "correctAnswer": "副鼻腔",
+      "explanation": "「sinuses」は、副鼻腔という意味の名詞です。ここでは、Howardが母親の副鼻腔の状態によって、Bernadetteと過ごせる時間が変わる、という文脈で使われています。医学的な単語ですが、日常会話でも使われることがあります。"
+    },
+    {
+      "id": 49,
+      "value": "solution",
+      "options": [
+        "問題",
+        "解決策",
+        "質問",
+        "言い訳"
+      ],
+      "correctAnswer": "解決策",
+      "explanation": "「solution」は、問題や困難に対する解決策という意味の名詞です。ここでは、BernadetteがHowardの提案を解決策として認めていない状況を表しています。問題解決能力を評価する際に用いられる一般的な単語です。"
+    },
+    {
+      "id": 50,
+      "value": "duty",
+      "options": [
+        "義務",
+        "自由",
+        "権利",
+        "選択"
+      ],
+      "correctAnswer": "義務",
+      "explanation": "「duty」は、道徳的、法的、または社会的な義務を意味する名詞です。ここでは、Hindu Code of Manuにおける男性の義務として、女性の欲求をコントロールすることが述べられています。責任感や倫理観に関連する文脈でよく使用されます。"
+    },
+    {
+      "id": 51,
+      "value": "high-tailed it",
+      "options": [
+        "ゆっくり歩いた",
+        "急いで行った",
+        "ためらった",
+        "秘密にした"
+      ],
+      "correctAnswer": "急いで行った",
+      "explanation": "「high-tail it」とは、急いでどこかへ行く、逃げるという意味のスラングです。特に緊急性や切迫感がある状況で使われます。由来は、動物が尻尾を高く上げて逃げる様子からきています。\n\n例：When the police arrived, the suspects high-tailed it out of there. (警察が到着すると、容疑者たちは急いで逃げ出した。)"
+    },
+    {
+      "id": 52,
+      "value": "man-stealing",
+      "options": [
+        "男性を尊敬する",
+        "男性を束縛する",
+        "男性を奪う",
+        "男性を助ける"
+      ],
+      "correctAnswer": "男性を奪う",
+      "explanation": "「man-stealing」は、恋人や配偶者を奪う、略奪するという意味です。やや軽蔑的なニュアンスを含みます。\n\n例：She was labeled a man-stealing hussy after she started dating her friend's ex-boyfriend. (彼女は、友達の元彼と付き合い始めた後、男を奪う悪女だとレッテルを貼られた。)"
+    },
+    {
+      "id": 53,
+      "value": "catty",
+      "options": [
+        "友好的な",
+        "上品な",
+        "意地悪な",
+        "勇敢な"
+      ],
+      "correctAnswer": "意地悪な",
+      "explanation": "「catty」は、特に女性に対して、陰口を叩く、意地悪な、悪意のあるという意味です。表面上は友好的でも、裏で人を陥れるような言動を指します。\n\n例：The actresses were being very catty towards each other during the awards show. (女優たちは授賞式の間、お互いにとても意地悪だった。)"
+    },
+    {
+      "id": 54,
+      "value": "rawr",
+      "options": [
+        "挨拶",
+        "喜び",
+        "悲しみ",
+        "威嚇"
+      ],
+      "correctAnswer": "威嚇",
+      "explanation": "「Rawr」は、獣がうなる声を真似た擬音語で、ここでは冗談めかして「ガルル」と威嚇するようなニュアンスで使われています。"
+    },
+    {
+      "id": 55,
+      "value": "suitable mate",
+      "options": [
+        "理想的な友人",
+        "ふさわしい伴侶",
+        "有能な部下",
+        "信頼できる相談相手"
+      ],
+      "correctAnswer": "ふさわしい伴侶",
+      "explanation": "「suitable mate」は、結婚やパートナーシップにおいて、性格、能力、社会的地位などがふさわしい相手、つまり相性の良い相手という意味です。特に、客観的な条件や適合性を重視する際に用いられます。\n\n例：His parents were looking for a suitable mate for him from a respectable family. (彼の両親は、彼のために、立派な家柄のふさわしい伴侶を探していた。)"
+    },
+    {
+      "id": 56,
+      "value": "granted",
+      "options": [
+        "拒否されて",
+        "考慮されて",
+        "許可されて",
+        "無視されて"
+      ],
+      "correctAnswer": "許可されて",
+      "explanation": "「granted」は、「認める」「承知する」という意味です。ここでは、「確かに～だが」という譲歩のニュアンスで使われています。\n\n例：Granted, the house is old, but it has a beautiful garden. (確かにその家は古いが、美しい庭がある。)"
+    },
+    {
+      "id": 57,
+      "value": "bodacious",
+      "options": [
+        "知的な",
+        "美しい",
+        "大胆な",
+        "退屈な"
+      ],
+      "correctAnswer": "大胆な",
+      "explanation": "「bodacious」は、特に女性に対して、魅力的で大胆、セクシーという意味のスラングです。肯定的な意味合いで使われることが多いですが、文脈によっては下品なニュアンスを含むこともあります。\n\n例：She wore a bodacious dress to the party and turned heads all night. (彼女はパーティーに大胆なドレスを着て、一晩中注目を集めた。)"
+    },
+    {
+      "id": 58,
+      "value": "dropout",
+      "options": [
+        "卒業生",
+        "中退者",
+        "教授",
+        "寄付者"
+      ],
+      "correctAnswer": "中退者",
+      "explanation": "「dropout」は、学校やプログラムを中途退学した人を指します。\n\n例：Bill Gates is a Harvard dropout. (ビル・ゲイツはハーバード大学の中退者だ。)"
+    },
+    {
+      "id": 59,
+      "value": "tipping cows",
+      "options": [
+        "牛に餌をやる",
+        "牛を数える",
+        "牛をひっくり返す",
+        "牛を洗う"
+      ],
+      "correctAnswer": "牛をひっくり返す",
+      "explanation": "「tipping cows」は、牛をいたずらで倒すという行為です。アメリカの田舎でよくある悪ふざけの一つで、一般的には迷惑行為とみなされます。"
+    },
+    {
+      "id": 60,
+      "value": "portable",
+      "options": [
+        "輸送可能な",
+        "強力な",
+        "高価な",
+        "固定された"
+      ],
+      "correctAnswer": "輸送可能な",
+      "explanation": "「portable」は、持ち運び可能な、携帯用のという意味です。\n\n例：a portable computer (携帯用コンピュータ)"
+    },
+    {
+      "id": 61,
+      "value": "electroencephalogram",
+      "options": [
+        "心電図",
+        "脳波計",
+        "筋電図",
+        "血圧計"
+      ],
+      "correctAnswer": "脳波計",
+      "explanation": "「electroencephalogram」は、脳波計のことです。脳の電気活動を記録する検査に使用されます。\n\n例：The doctor ordered an electroencephalogram to check for seizure activity. (医師は発作の活動を確認するために脳波計を指示した。)"
+    },
+    {
+      "id": 62,
+      "value": "analogous",
+      "options": [
+        "類似の",
+        "重要な",
+        "異なる",
+        "複雑な"
+      ],
+      "correctAnswer": "類似の",
+      "explanation": "「analogous」は、類似した、似通ったという意味です。構造や機能が似ている場合に用いられます。\n\n例：The human eye is analogous to a camera. (人間の目はカメラに類似している。)"
+    },
+    {
+      "id": 63,
+      "value": "cord is cut",
+      "options": [
+        "関係が改善された",
+        "関係が断絶された",
+        "関係が始まった",
+        "関係が秘密にされた"
+      ],
+      "correctAnswer": "関係が断絶された",
+      "explanation": "「cut the cord」は、「へその緒を切る」という比喩的な表現で、親からの経済的または精神的な依存を断ち切って独立するという意味です。\n\n例：It's time for him to cut the cord and move out of his parents' house. (彼は親からの自立を果たし、家を出るべき時だ。)"
+    },
+    {
+      "id": 64,
+      "value": "fool around",
+      "options": [
+        "真剣に議論する",
+        "ふざけ合う",
+        "手伝う",
+        "無視する"
+      ],
+      "correctAnswer": "ふざけ合う",
+      "explanation": "「fool around」は、時間を無駄にする、ふざける、性的ないたずらをする、という意味があります。文脈によって意味合いが異なります。\n\n例：Stop fooling around and get to work! (ふざけてないで仕事に取り掛かりなさい!)"
+    },
+    {
+      "id": 65,
+      "value": "have my way with her",
+      "options": [
+        "彼女と議論する",
+        "彼女を誘惑する",
+        "彼女に奉仕する",
+        "彼女を避ける"
+      ],
+      "correctAnswer": "彼女を誘惑する",
+      "explanation": "「have my way with someone」は、相手を自分の思い通りにする、特に性的な意味で相手を意のままにする、という意味です。非常に強い表現で、しばしば不快感を与える可能性があります。\n\n例：He threatened to have his way with her if she didn't do what he wanted. (もし彼女が彼の言うことを聞かなければ、彼は彼女を思い通りにすると脅した。)"
+    },
+    {
+      "id": 66,
+      "value": "all the more shame",
+      "options": [
+        "より多くの名誉",
+        "より多くの恥",
+        "より多くの喜び",
+        "より多くの富"
+      ],
+      "correctAnswer": "より多くの恥",
+      "explanation": "「all the more shame」は、それだけ一層恥ずかしい、という意味です。状況がさらに恥ずかしさや不名誉を増すことを強調する際に使われます。\n\n例：Since he is a doctor, his actions are all the more shameful. (彼は医者なので、彼の行動はそれだけ一層恥ずかしい。)"
+    },
+    {
+      "id": 67,
+      "value": "remarkable",
+      "options": [
+        "普通の",
+        "注目に値する",
+        "退屈な",
+        "悲しい"
+      ],
+      "correctAnswer": "注目に値する",
+      "explanation": "「remarkable」は、注目に値する、驚くべき、素晴らしいという意味です。\n\n例：It is remarkable that he finished the marathon despite his injury. (彼が怪我にもかかわらずマラソンを完走したのは驚くべきことだ。)"
+    },
+    {
+      "id": 68,
+      "value": "akin to",
+      "options": [
+        "類似している",
+        "反対である",
+        "無関係である",
+        "優先される"
+      ],
+      "correctAnswer": "類似している",
+      "explanation": "「akin to」は、～に似ている、～と同様である、という意味です。ある物事が別の物事と性質や特徴が似ていることを示す際に用いられます。\n\n例：His style of painting is akin to that of Picasso. (彼の絵のスタイルはピカソのそれに似ている。)"
+    },
+    {
+      "id": 69,
+      "value": "plover",
+      "options": [
+        "ワニ",
+        "ペンギン",
+        "カモメ",
+        "チドリ"
+      ],
+      "correctAnswer": "チドリ",
+      "explanation": "「plover」は、チドリという鳥の一種です。ここでは、ワニの口の中の食べかすを食べるチドリの習性を利用した比喩表現です。"
+    },
+    {
+      "id": 70,
+      "value": "scavenging",
+      "options": [
+        "狩りをする",
+        "掃除する",
+        "吟味する",
+        "ゴミをあさる"
+      ],
+      "correctAnswer": "ゴミをあさる",
+      "explanation": "「scavenging」は、動物が死骸やゴミをあさる、人が不用品を拾い集める、という意味です。\n\n例：Seagulls were scavenging for food on the beach. (カモメが海岸で食べ物をあさっていた。)"
+    },
+    {
+      "id": 71,
+      "value": "imposition",
+      "options": [
+        "支援",
+        "強要",
+        "招待",
+        "提案"
+      ],
+      "correctAnswer": "強要",
+      "explanation": "「imposition」は、負担、迷惑、押し付け、という意味です。何かを人に押し付ける行為を指します。\n\n例：I don't want to be an imposition, so I'll only stay for a few days. (迷惑をかけたくないので、数日だけ滞在します。)"
+    },
+    {
+      "id": 72,
+      "value": "derivative market",
+      "options": [
+        "一次市場",
+        "先物市場",
+        "デリバティブ市場",
+        "中古市場"
+      ],
+      "correctAnswer": "デリバティブ市場",
+      "explanation": "「derivative market」は、デリバティブ（金融派生商品）が取引される市場のことです。デリバティブは、株式、債券、通貨などの原資産から派生した金融商品で、リスクヘッジや投機に利用されます。\n\n例：The derivative market can be very complex and volatile. (デリバティブ市場は非常に複雑で不安定なことがある。)"
+    },
+    {
+      "id": 73,
+      "value": "hedge",
+      "options": [
+        "投資する",
+        "保護する",
+        "危険を冒す",
+        "予測する"
+      ],
+      "correctAnswer": "保護する",
+      "explanation": "「hedge」は、リスクを軽減する、損失を回避するために保険をかける、という意味です。金融取引においては、価格変動のリスクを避けるために行われます。\n\n例：Investors use derivatives to hedge their investments against market volatility. (投資家は市場の変動に対する投資をヘッジするためにデリバティブを利用する。)"
+    },
+    {
+      "id": 74,
+      "value": "picky",
+      "options": [
+        "おおざっぱな",
+        "気難しい",
+        "勇敢な",
+        "勤勉な"
+      ],
+      "correctAnswer": "気難しい",
+      "explanation": "「picky」は、好みがうるさい、気難しい、という意味です。特に食べ物や選択において、細かいことを気にする人を指します。\n\n例：My daughter is a very picky eater. (私の娘はとても偏食家です。)"
+    },
+    {
+      "id": 75,
+      "value": "Taming of the Shrew",
+      "options": [
+        "夏の夜の夢",
+        "ロミオとジュリエット",
+        "じゃじゃ馬ならし",
+        "ハムレット"
+      ],
+      "correctAnswer": "じゃじゃ馬ならし",
+      "explanation": "「Taming of the Shrew」は、シェイクスピアの喜劇の一つで、「じゃじゃ馬ならし」として知られています。女性の自立や結婚観をテーマにした作品です。"
+    },
+    {
+      "id": 76,
+      "value": "cattiness",
+      "options": [
+        "優しさ",
+        "意地悪さ",
+        "賢さ",
+        "美しさ"
+      ],
+      "correctAnswer": "意地悪さ",
+      "explanation": "「cattiness」は、女性同士の間の意地悪さ、陰湿な嫌がらせを意味します。猫（cat）のようなずる賢さ、陰険さを含んだニュアンスがあります。日常会話やメディアで、女性間の微妙な対立や競争を描写する際に用いられます。"
+    },
+    {
+      "id": 77,
+      "value": "delight",
+      "options": [
+        "不快",
+        "喜び",
+        "悲しみ",
+        "怒り"
+      ],
+      "correctAnswer": "喜び",
+      "explanation": "「delight」は、大きな喜びや楽しみを表す言葉です。人や物事が非常に魅力的で、喜びや満足感を与える時に使われます。名詞としては「喜び」、動詞としては「喜ばせる」という意味があります。日常会話や文章で広く使われ、ポジティブな感情を表現するのに役立ちます。"
+    },
+    {
+      "id": 78,
+      "value": "hypo-allergenic",
+      "options": [
+        "高刺激性",
+        "低刺激性",
+        "抗菌性",
+        "防臭性"
+      ],
+      "correctAnswer": "低刺激性",
+      "explanation": "「hypoallergenic」は、アレルギー反応を引き起こしにくいという意味です。化粧品や洗剤、寝具など、アレルギー体質の人向けに作られた製品によく使われます。製品を選ぶ際に、アレルギーのリスクを減らしたい場合に役立つ言葉です。"
+    },
+    {
+      "id": 79,
+      "value": "tuchus",
+      "options": [
+        "頭",
+        "足",
+        "お尻",
+        "手"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "「tuchus」は、イディッシュ語由来のスラングで、お尻を意味します。主にアメリカ英語圏で使われ、親しみを込めた表現です。フォーマルな場面では避けるべきですが、家族や親しい友人との会話で使われることがあります。"
+    },
+    {
+      "id": 80,
+      "value": "get something straight",
+      "options": [
+        "混乱する",
+        "誤解する",
+        "明確にする",
+        "忘れる"
+      ],
+      "correctAnswer": "明確にする",
+      "explanation": "「get something straight」は、誤解がないように、何かをはっきりさせる、明確にするという意味のイディオムです。しばしば、相手に自分の意図や考えを理解させたい時に使われます。強い口調で使われることもあります。"
+    },
+    {
+      "id": 81,
+      "value": "ferkakta",
+      "options": [
+        "高性能な",
+        "故障した",
+        "最新の",
+        "使いやすい"
+      ],
+      "correctAnswer": "故障した",
+      "explanation": "「ferkakta」は、イディッシュ語由来のスラングで、壊れている、めちゃくちゃだ、という意味です。特に機械やシステムが正常に機能していない状態を指します。親しい間柄で使われる口語的な表現です。"
+    },
+    {
+      "id": 82,
+      "value": "brisket",
+      "options": [
+        "鶏肉",
+        "豚肉",
+        "牛肉",
+        "魚"
+      ],
+      "correctAnswer": "牛肉",
+      "explanation": "「brisket」は、牛の肩バラ肉のことです。煮込み料理や燻製料理に使われることが多い部位で、アメリカのBBQでは定番です。特に、ユダヤ料理のブリスケットは有名で、祝祭日によく食べられます。"
+    },
+    {
+      "id": 83,
+      "value": "check in on",
+      "options": [
+        "無視する",
+        "確認する",
+        "避ける",
+        "嫉妬する"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check in on」は、人の安否や状況を確認するために連絡を取る、様子を見に行くという意味の句動詞です。心配している人や、何か問題を抱えている可能性のある人に対して使われます。手軽に連絡を取るニュアンスがあります。"
+    },
+    {
+      "id": 84,
+      "value": "smouldering",
+      "options": [
+        "穏やかな",
+        "燃え盛る",
+        "くすぶる",
+        "冷たい"
+      ],
+      "correctAnswer": "くすぶる",
+      "explanation": "「smouldering」は、くすぶる、燻るという意味です。感情や情熱が内に秘められていて、静かに燃えている様子を表します。人の魅力や性的魅力について言う場合、内に秘めた情熱的な魅力を意味します。"
+    },
+    {
+      "id": 85,
+      "value": "blub",
+      "options": [
+        "笑う",
+        "泣く",
+        "歌う",
+        "叫ぶ"
+      ],
+      "correctAnswer": "泣く",
+      "explanation": "「blub」は、泣きじゃくる、しゃくり上げるという意味の動詞です。特に、子供が悲しみのあまり、大声で泣く様子を表します。日常会話ではあまり使われませんが、感情的な場面を描写する際に用いられます。"
+    },
+    {
+      "id": 86,
+      "value": "noggin",
+      "options": [
+        "足",
+        "手",
+        "頭",
+        "心"
+      ],
+      "correctAnswer": "頭",
+      "explanation": "「noggin」は、頭、脳みそを意味するスラングです。親しみを込めた表現で、特に子供や親しい友人に対して使われます。フォーマルな場面では避けるべきですが、カジュアルな会話ではよく使われます。"
+    },
+    {
+      "id": 87,
+      "value": "slipping",
+      "options": [
+        "改善している",
+        "悪化している",
+        "停止している",
+        "加速している"
+      ],
+      "correctAnswer": "悪化している",
+      "explanation": "「slipping」は、衰える、悪化するという意味です。能力やスキル、状況などが以前より悪くなっている状態を表します。例えば、記憶力が衰えたり、成績が落ちたりする場合に使われます。"
+    },
+    {
+      "id": 88,
+      "value": "forbidding it",
+      "options": [
+        "許可する",
+        "提案する",
+        "禁止する",
+        "推奨する"
+      ],
+      "correctAnswer": "禁止する",
+      "explanation": "「forbid」は、禁止するという意味の動詞です。「forbidding it」は、それを禁止している、という意味になります。強い権限を持つ人が何かを禁じる際に使われることが多いです。"
+    },
+    {
+      "id": 89,
+      "value": "grounded",
+      "options": [
+        "解放された",
+        "旅行に行った",
+        "外出禁止になった",
+        "昇進した"
+      ],
+      "correctAnswer": "外出禁止になった",
+      "explanation": "「grounded」は、子供や若者が親や保護者から外出を禁止されることを意味します。悪い行いをした際の罰として与えられることが多いです。行動の自由を制限されるという意味合いがあります。"
+    },
+    {
+      "id": 90,
+      "value": "bestie",
+      "options": [
+        "敵",
+        "同僚",
+        "親友",
+        "家族"
+      ],
+      "correctAnswer": "親友",
+      "explanation": "「bestie」は、親友を意味するスラングです。「best friend」を短くした言葉で、特に若い世代の間でよく使われます。親しみを込めたカジュアルな表現です。"
+    },
+    {
+      "id": 91,
+      "value": "rhesus monkey",
+      "options": [
+        "チンパンジー",
+        "マカクザル",
+        "ゴリラ",
+        "オランウータン"
+      ],
+      "correctAnswer": "マカクザル",
+      "explanation": "「rhesus monkey」は、アカゲザルのことです。生物学の研究や医学実験によく使われるサルで、人間の生理機能や病気の研究に貢献しています。特に血液型のRh因子は、アカゲザルの研究から発見されました。"
+    },
+    {
+      "id": 92,
+      "value": "disgraced",
+      "options": [
+        "尊敬される",
+        "成功した",
+        "不名誉な",
+        "勇敢な"
+      ],
+      "correctAnswer": "不名誉な",
+      "explanation": "「disgraced」は、不名誉な、面目を失ったという意味です。不正行為や不祥事によって、名声や信用を失った状態を表します。政治家や有名人がスキャンダルを起こした場合などによく使われます。"
+    },
+    {
+      "id": 93,
+      "value": "televangelist",
+      "options": [
+        "科学者",
+        "政治家",
+        "テレビ伝道師",
+        "教師"
+      ],
+      "correctAnswer": "テレビ伝道師",
+      "explanation": "「televangelist」は、テレビを通じて宗教的な説教や活動を行う伝道師のことです。特にアメリカで多く、宗教番組や寄付活動などを行っています。時には、その活動やライフスタイルが批判の対象となることもあります。"
+    },
+    {
+      "id": 94,
+      "value": "string cheese",
+      "options": [
+        "プロセスチーズ",
+        "カッテージチーズ",
+        "ストリングチーズ",
+        "クリームチーズ"
+      ],
+      "correctAnswer": "ストリングチーズ",
+      "explanation": "「string cheese」は、細長い紐状に裂いて食べられるチーズのことです。主にアメリカで人気があり、子供のおやつや軽食としてよく食べられます。手軽に食べられるのが特徴です。"
+    },
+    {
+      "id": 95,
+      "value": "treat",
+      "options": [
+        "罰",
+        "薬",
+        "ご褒美",
+        "仕事"
+      ],
+      "correctAnswer": "ご褒美",
+      "explanation": "「treat」は、特別な楽しみやご褒美を意味します。美味しい食べ物や楽しいアクティビティなど、自分を喜ばせるもののことを指します。子供にご褒美を与える際や、自分へのご褒美として使うことが多いです。"
+    },
+    {
+      "id": 96,
+      "value": "driving me to the dentist",
+      "options": [
+        "歯医者を経営する",
+        "歯医者に連れて行く",
+        "歯医者で働く",
+        "歯医者を予約する"
+      ],
+      "correctAnswer": "歯医者に連れて行く",
+      "explanation": "「drive someone to the dentist」は、誰かを車で歯医者に連れて行くという意味です。特に、子供や高齢者など、自分で運転できない人を送迎する際に使われます。親切な行為を表す表現です。"
+    },
+    {
+      "id": 97,
+      "value": "running away",
+      "options": [
+        "競争する",
+        "逃げる",
+        "運動する",
+        "運転する"
+      ],
+      "correctAnswer": "逃げる",
+      "explanation": "「run away」は、逃げる、家出するという意味です。困難な状況や不満から逃れるために、計画的に、または衝動的に家を出ることを指します。子供や若者が親との関係で悩んだ際によく使われます。"
+    },
+    {
+      "id": 98,
+      "value": "sex criminal",
+      "options": [
+        "性犯罪者",
+        "探偵",
+        "医者",
+        "弁護士"
+      ],
+      "correctAnswer": "性犯罪者",
+      "explanation": "「sex criminal」は、性犯罪者のことです。性的暴行や性的虐待など、性に関する犯罪を犯した人を指します。深刻な犯罪行為であり、法的な処罰の対象となります。"
+    },
+    {
+      "id": 99,
+      "value": "appropriate",
+      "options": [
+        "不適切な",
+        "普通の",
+        "適切な",
+        "珍しい"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "「appropriate」は、適切な、ふさわしいという意味です。状況や目的に合っていることを表します。行動、服装、言葉遣いなど、様々な場面で使われます。フォーマルな場面でよく使われる言葉です。"
+    },
+    {
+      "id": 100,
+      "value": "quite pleased",
+      "options": [
+        "非常に不満",
+        "少し不満",
+        "非常に満足",
+        "少し満足"
+      ],
+      "correctAnswer": "非常に満足",
+      "explanation": "「quite pleased」は、非常に満足しているという意味です。「quite」は「かなり、非常に」という意味で、感情を強調する際に使われます。控えめな表現ですが、ポジティブな感情を表します。"
+    }
+  ]
+}

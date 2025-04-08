@@ -1,0 +1,1108 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "demerit",
+      "options": [
+        "名誉",
+        "勲章",
+        "賞賛",
+        "減点"
+      ],
+      "correctAnswer": "減点",
+      "explanation": "「demerit」は、過失や欠点に対する罰則、特に減点を意味します。学校や職場などで、規則違反や不手際があった場合に科されることが多いです。反対語は「merit」（メリット、長所）です。\n\n例：He received a demerit for being late to work. (彼は仕事に遅刻したため、減点を受けた。)"
+    },
+    {
+      "id": 2,
+      "value": "hang on",
+      "options": [
+        "急いで",
+        "諦めて",
+        "中断して",
+        "待って"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「hang on」は、主に「ちょっと待って」という意味で使われる口語表現です。電話を切らずに待つ、または何かを始める前に少し時間を稼ぐニュアンスがあります。\n\n例：Hang on a second, I'll check my schedule. (ちょっと待って、スケジュールを確認します。)"
+    },
+    {
+      "id": 3,
+      "value": "get rid of",
+      "options": [
+        "維持する",
+        "修理する",
+        "隠蔽する",
+        "捨てる"
+      ],
+      "correctAnswer": "捨てる",
+      "explanation": "「get rid of」は、不要なものや煩わしいものを取り除く、処分するという意味のイディオムです。物理的なものだけでなく、抽象的な概念（例えば、癖や問題）にも使えます。\n\n例：I need to get rid of these old clothes. (これらの古い服を処分する必要がある。)"
+    },
+    {
+      "id": 4,
+      "value": "cliffhanger",
+      "options": [
+        "解決",
+        "終結",
+        "山場",
+        "未解決"
+      ],
+      "correctAnswer": "未解決",
+      "explanation": "「cliffhanger」は、物語やドラマなどが、重要な局面で結末がわからず中断されることを指します。視聴者や読者の興味を引きつけ、次への期待感を煽る効果があります。\n\n例：The episode ended on a cliffhanger, leaving viewers eager for the next one. (そのエピソードはクリフハンガーで終わり、視聴者は次を心待ちにしている。)"
+    },
+    {
+      "id": 5,
+      "value": "oral hygiene",
+      "options": [
+        "視覚衛生",
+        "精神衛生",
+        "聴覚衛生",
+        "口腔衛生"
+      ],
+      "correctAnswer": "口腔衛生",
+      "explanation": "「oral hygiene」は、口の中を清潔に保つこと、つまり口腔衛生を意味します。歯磨きやフロスなどの習慣が含まれます。\n\n例：Good oral hygiene is essential for preventing cavities. (良好な口腔衛生は、虫歯予防に不可欠です。)"
+    },
+    {
+      "id": 6,
+      "value": "give someone what for",
+      "options": [
+        "褒美を与える",
+        "助けを与える",
+        "忠告を与える",
+        "叱りつける"
+      ],
+      "correctAnswer": "叱りつける",
+      "explanation": "「give someone what for」は、人を叱る、非難するという意味の口語的なイディオムです。相手の行動に対して強い不満や怒りを示す際に使われます。\n\n例：I'm going to give him what for when I see him. (彼に会ったら、こっぴどく叱ってやるつもりだ。)"
+    },
+    {
+      "id": 7,
+      "value": "wrap things up",
+      "options": [
+        "複雑にする",
+        "混乱させる",
+        "明らかにする",
+        "まとめる"
+      ],
+      "correctAnswer": "まとめる",
+      "explanation": "「wrap things up」は、物事を終える、まとめる、完結させるという意味のイディオムです。会議やプロジェクト、または物語などを終わらせる際に使われます。\n\n例：Let's wrap things up so we can all go home. (そろそろ終わらせて、みんなで家に帰ろう。)"
+    },
+    {
+      "id": 8,
+      "value": "let go",
+      "options": [
+        "手放す",
+        "許す",
+        "受け入れる",
+        "始める"
+      ],
+      "correctAnswer": "手放す",
+      "explanation": "「let go」は、文字通りには「手を放す」という意味ですが、比喩的には、感情や過去の出来事などから解放される、執着を手放すという意味で使われます。\n\n例：It's time to let go of the past and move on. (過去を手放して、前進する時だ。)"
+    },
+    {
+      "id": 9,
+      "value": "optics",
+      "options": [
+        "音響",
+        "触覚",
+        "味覚",
+        "光学"
+      ],
+      "correctAnswer": "光学",
+      "explanation": "「optics」は、光の性質や振る舞いを研究する光学という意味です。カメラや望遠鏡などの光学機器の性能を評価する際に使われます。\n\n例：The optics of this camera are excellent. (このカメラの光学性能は素晴らしい。)"
+    },
+    {
+      "id": 10,
+      "value": "configure",
+      "options": [
+        "隠蔽する",
+        "破壊する",
+        "固定する",
+        "設定する"
+      ],
+      "correctAnswer": "設定する",
+      "explanation": "「configure」は、システムやソフトウェアなどを特定の要件に合わせて設定することを意味します。技術的な文脈でよく使われる単語です。\n\n例：You need to configure the software before you can use it. (ソフトウェアを使う前に、設定する必要があります。)"
+    },
+    {
+      "id": 11,
+      "value": "juicy",
+      "options": [
+        "乾燥した",
+        "無味乾燥な",
+        "退屈な",
+        "興味深い"
+      ],
+      "correctAnswer": "興味深い",
+      "explanation": "「juicy」は、文字通りには「果汁が多い」という意味ですが、比喩的には、興味深い、スキャンダラスな、または魅力的な情報を指すスラングとして使われます。\n\n例：I heard some juicy gossip about our boss. (上司に関する面白い噂を聞いた。)"
+    },
+    {
+      "id": 12,
+      "value": "voracious",
+      "options": [
+        "満足した",
+        "嫌悪感のある",
+        "無関心な",
+        "貪欲な"
+      ],
+      "correctAnswer": "貪欲な",
+      "explanation": "「voracious」は、食欲や知識、興味などが非常に旺盛で、貪欲な様子を表す形容詞です。\n\n例：He is a voracious reader. (彼は貪欲な読書家だ。)"
+    },
+    {
+      "id": 13,
+      "value": "rearview mirror",
+      "options": [
+        "望遠鏡",
+        "顕微鏡",
+        "万華鏡",
+        "バックミラー"
+      ],
+      "correctAnswer": "バックミラー",
+      "explanation": "「rearview mirror」は、自動車のバックミラーを意味します。比喩的には、過去を振り返るという意味で使われることもあります。\n\n例：Don't spend too much time looking in the rearview mirror. (過去を振り返りすぎないように。)"
+    },
+    {
+      "id": 14,
+      "value": "blow away",
+      "options": [
+        "弱める",
+        "隠す",
+        "改善する",
+        "圧倒する"
+      ],
+      "correctAnswer": "圧倒する",
+      "explanation": "「blow away」は、人を驚かせる、圧倒するという意味のイディオムです。非常に印象的で、他を凌駕するような場合に用いられます。\n\n例：The performance blew me away. (そのパフォーマンスに圧倒された。)"
+    },
+    {
+      "id": 15,
+      "value": "oversell",
+      "options": [
+        "過小評価する",
+        "正当に評価する",
+        "詳細に説明する",
+        "誇大宣伝する"
+      ],
+      "correctAnswer": "誇大宣伝する",
+      "explanation": "「oversell」は、実際以上に良く見せる、誇大宣伝するという意味の動詞です。商品の宣伝や自分の能力について語る際などに使われます。\n\n例：I don't want to oversell myself, but I think I'm the best candidate for this job. (自分を誇大宣伝したくはありませんが、私はこの仕事に最適な候補者だと思います。)"
+    },
+    {
+      "id": 16,
+      "value": "trial",
+      "options": [
+        "冒険",
+        "運動",
+        "旅行",
+        "裁判"
+      ],
+      "correctAnswer": "裁判",
+      "explanation": "「trial」は、訴訟や裁判を意味します。法的な文脈で使われることが多い単語です。\n\n例：The trial is expected to last for several weeks. (裁判は数週間続くと予想されている。)"
+    },
+    {
+      "id": 17,
+      "value": "hacking",
+      "options": [
+        "保護",
+        "修復",
+        "改善",
+        "侵入"
+      ],
+      "correctAnswer": "侵入",
+      "explanation": "「hacking」は、コンピュータシステムやネットワークに不正に侵入することを意味します。セキュリティに関する文脈でよく使われる単語です。\n\n例：The company's database was the target of a hacking attack. (その会社のデータベースはハッキング攻撃の標的となった。)"
+    },
+    {
+      "id": 18,
+      "value": "finale",
+      "options": [
+        "序章",
+        "中間",
+        "継続",
+        "最終回"
+      ],
+      "correctAnswer": "最終回",
+      "explanation": "「finale」は、シリーズや公演などの最終回、最終場面を意味します。特にテレビドラマやコンサートなどでよく使われる単語です。\n\n例：The season finale was full of surprises. (シーズンの最終回は驚きに満ちていた。)"
+    },
+    {
+      "id": 19,
+      "value": "Residents",
+      "options": [
+        "旅行者",
+        "訪問者",
+        "移民",
+        "居住者"
+      ],
+      "correctAnswer": "居住者",
+      "explanation": "「resident」は、ある場所に住んでいる人、居住者を意味します。都市や国などの文脈で使われることが多い単語です。\n\n例：The residents of this city are very friendly. (この都市の居住者はとても友好的だ。)"
+    },
+    {
+      "id": 20,
+      "value": "hygiene",
+      "options": [
+        "怠慢",
+        "汚染",
+        "混乱",
+        "衛生"
+      ],
+      "correctAnswer": "衛生",
+      "explanation": "「hygiene」は、健康を保つための清潔さや衛生状態を意味します。個人の衛生習慣や公共の衛生環境など、幅広い文脈で使われます。\n\n例：Good personal hygiene is important for preventing the spread of germs. (良好な個人衛生は、細菌の拡散を防ぐために重要だ。)"
+    },
+    {
+      "id": 21,
+      "value": "infrared technology",
+      "options": [
+        "紫外線技術",
+        "音波技術",
+        "電波技術",
+        "赤外線技術"
+      ],
+      "correctAnswer": "赤外線技術",
+      "explanation": "「infrared technology」は、赤外線を利用した技術を指します。暗視カメラやリモコンなど、さまざまな分野で応用されています。\n\n例：The security camera uses infrared technology to see in the dark. (その防犯カメラは、暗闇でも見えるように赤外線技術を使用している。)"
+    },
+    {
+      "id": 22,
+      "value": "backup battery",
+      "options": [
+        "主要バッテリー",
+        "新型バッテリー",
+        "高性能バッテリー",
+        "予備バッテリー"
+      ],
+      "correctAnswer": "予備バッテリー",
+      "explanation": "「backup battery」は、主電源が切れた際に使用される予備のバッテリーを意味します。停電時などに機器を動かすために用いられます。\n\n例：The security system has a backup battery in case of a power outage. (そのセキュリティシステムは、停電に備えて予備バッテリーを搭載している。)"
+    },
+    {
+      "id": 23,
+      "value": "diary",
+      "options": [
+        "小説",
+        "伝記",
+        "論文",
+        "日記"
+      ],
+      "correctAnswer": "日記",
+      "explanation": "「diary」は、個人的な出来事や感情を記録する日記を意味します。秘密めいた内容が含まれていることが多いため、他人の日記を読むことは倫理的に問題視されることがあります。\n\n例：She wrote in her diary every night before going to bed. (彼女は毎晩寝る前に日記を書いていた。)"
+    },
+    {
+      "id": 24,
+      "value": "coffee shop",
+      "options": [
+        "服屋",
+        "本屋",
+        "おもちゃ屋",
+        "喫茶店"
+      ],
+      "correctAnswer": "喫茶店",
+      "explanation": "「coffee shop」は、コーヒーや軽食を提供する喫茶店を意味します。カフェとも呼ばれます。\n\n例：Let's meet at the coffee shop on the corner. (角の喫茶店で会いましょう。)"
+    },
+    {
+      "id": 25,
+      "value": "romance",
+      "options": [
+        "コメディ",
+        "ホラー",
+        "サスペンス",
+        "恋愛"
+      ],
+      "correctAnswer": "恋愛",
+      "explanation": "「romance」は、恋愛、ロマンスを意味します。物語や映画のジャンルとしてもよく使われます。\n\n例：The movie is a romance about two people who fall in love. (その映画は、恋に落ちる二人の恋愛物語だ。)"
+    },
+    {
+      "id": 26,
+      "value": "plumb",
+      "options": [
+        "完全に",
+        "おおよそ",
+        "部分的に",
+        "一時的に"
+      ],
+      "correctAnswer": "完全に",
+      "explanation": "「plumb」はここでは「完全に、徹底的に」という意味の副詞として使われています。古風な表現で、主にアメリカ英語で用いられます。日常会話ではあまり使われません。\n例：He was plumb tired after the long journey. (彼は長旅の後で完全に疲れていた。)"
+    },
+    {
+      "id": 27,
+      "value": "pathological",
+      "options": [
+        "健康的な",
+        "論理的な",
+        "病的な",
+        "哲学的な"
+      ],
+      "correctAnswer": "病的な",
+      "explanation": "「pathological」は「病的な、病的性質の」という意味です。ここではSheldonの強迫的なまでのclosureへの欲求を指して、Amyが使用しています。\n例：His behavior was pathological. (彼の行動は病的なものだった。)"
+    },
+    {
+      "id": 28,
+      "value": "closure",
+      "options": [
+        "開放",
+        "終結",
+        "開始",
+        "継続"
+      ],
+      "correctAnswer": "終結",
+      "explanation": "「closure」は「終わり、完結、終結感」という意味です。未解決の問題や出来事に対して、区切りをつけたい、決着をつけたいという心理的な欲求を表します。\n例：The investigation brought closure to the victim's family. (その捜査は被害者家族に区切りをもたらした。)"
+    },
+    {
+      "id": 29,
+      "value": "neural pathways",
+      "options": [
+        "神経経路",
+        "消化器官",
+        "呼吸器官",
+        "血管"
+      ],
+      "correctAnswer": "神経経路",
+      "explanation": "「neural pathways」は「神経経路」という意味です。脳内の神経細胞のつながりを指し、学習や経験によって変化します。AmyはSheldonの神経経路を再訓練することで、closureへの欲求を軽減できると提案しています。\n例：Repeated practice can strengthen neural pathways. (繰り返しの練習は神経経路を強化する。)"
+    },
+    {
+      "id": 30,
+      "value": "struck her as",
+      "options": [
+        "彼女を殴った",
+        "彼女に印象を与えた",
+        "彼女を無視した",
+        "彼女を混乱させた"
+      ],
+      "correctAnswer": "彼女に印象を与えた",
+      "explanation": "「strike someone as」は「〜に…という印象を与える」という意味です。LucyがRajに初めて会ったときの印象を述べる際に使われています。\n例：He struck me as a very honest person. (彼は私にとても正直な人という印象を与えた。)"
+    },
+    {
+      "id": 31,
+      "value": "rig the game",
+      "options": [
+        "ゲームを始める",
+        "ゲームを操作する",
+        "ゲームを中断する",
+        "ゲームを楽しむ"
+      ],
+      "correctAnswer": "ゲームを操作する",
+      "explanation": "「rig the game」は「不正に操作する、仕組む」という意味です。ここでは、HowardがRajに対して、Lucyのブログを利用して恋愛を有利に進めるようにアドバイスする際に使われています。\n例：The election was rigged. (選挙は不正に操作された。)"
+    },
+    {
+      "id": 32,
+      "value": "get her pants off",
+      "options": [
+        "彼女のズボンを脱がせる",
+        "彼女を笑わせる",
+        "彼女を怒らせる",
+        "彼女を誘惑する"
+      ],
+      "correctAnswer": "彼女を誘惑する",
+      "explanation": "「get someone's pants off」は非常に口語的な表現で、「（性的に）誘惑する、関係を持つ」という意味です。HowardがRajに対して、直接的な表現で性的な関係を持つことを勧めています。\n例：He tried to get her pants off, but she wasn't interested. (彼は彼女を誘惑しようとしたが、彼女は興味がなかった。)"
+    },
+    {
+      "id": 33,
+      "value": "a thing or two",
+      "options": [
+        "無知である",
+        "少し知っている",
+        "たくさん知っている",
+        "何も知らない"
+      ],
+      "correctAnswer": "たくさん知っている",
+      "explanation": "「a thing or two」は「少しのこと、いくつか」という意味ですが、ここでは「（〜について）それなりに知っている」という意味で使われています。Sir Elton Johnが女性についてよく知っているというRajの発言を強調しています。\n例：He knows a thing or two about computers. (彼はコンピュータについてそれなりに知っている。)"
+    },
+    {
+      "id": 34,
+      "value": "diminishes",
+      "options": [
+        "増加させる",
+        "減少させる",
+        "無視する",
+        "強調する"
+      ],
+      "correctAnswer": "減少させる",
+      "explanation": "「diminish」は「減少させる、小さくする、価値を下げる」という意味です。LeonardはPennyが自分の作品を「cute」と表現することで、その価値が下がると感じています。\n例：The importance of the event was diminished by the media. (そのイベントの重要性はメディアによって減少させられた。)"
+    },
+    {
+      "id": 35,
+      "value": "meth heads",
+      "options": [
+        "数学の先生",
+        "料理人",
+        "薬物中毒者",
+        "運動選手"
+      ],
+      "correctAnswer": "薬物中毒者",
+      "explanation": "「meth head」は、メタンフェタミン（覚せい剤の一種）中毒者を指す非常に口語的で侮蔑的な表現です。Pennyは自分の高校と吸血鬼ドラマを比較する際に、この言葉を使っています。\n例：The neighborhood was full of meth heads. (その近所は薬物中毒者でいっぱいだった。)"
+    },
+    {
+      "id": 36,
+      "value": "crabs",
+      "options": [
+        "カニ",
+        "性感染症",
+        "不満",
+        "才能"
+      ],
+      "correctAnswer": "性感染症",
+      "explanation": "「crabs」はここでは、陰部に寄生するアタマジラミという寄生虫による性感染症を指す俗語です。Pennyは高校での問題を比喩的に表現するために使っています。\n例：He caught crabs from a dirty toilet seat. (彼は汚い便座から性感染症になった。)"
+    },
+    {
+      "id": 37,
+      "value": "compulsive",
+      "options": [
+        "任意的な",
+        "強迫的な",
+        "創造的な",
+        "反抗的な"
+      ],
+      "correctAnswer": "強迫的な",
+      "explanation": "「compulsive」は「強迫的な、衝動的な」という意味です。抑えがたい衝動や行動を特徴とする状態を指します。AmyはSheldonのclosureへの欲求を指して使用しています。\n例：He has a compulsive need to check things. (彼には物事をチェックする強迫的な欲求がある。)"
+    },
+    {
+      "id": 38,
+      "value": "hanging up on me",
+      "options": [
+        "私に電話をかけてくる",
+        "私に頼る",
+        "私に電話を切る",
+        "私を助ける"
+      ],
+      "correctAnswer": "私に電話を切る",
+      "explanation": "「hang up on someone」は「（人に）電話を切る」という意味です。SheldonがSyFy Networkに電話をかけた際に、相手が電話を切ってしまう状況を表現しています。\n例：She hung up on me in the middle of the conversation. (彼女は会話の途中で私に電話を切った。)"
+    },
+    {
+      "id": 39,
+      "value": "seek the comfort of",
+      "options": [
+        "快適さを求める",
+        "快適さを避ける",
+        "快適さを無視する",
+        "快適さを与える"
+      ],
+      "correctAnswer": "快適さを求める",
+      "explanation": "「seek the comfort of」は「〜の慰めを求める、〜に安心を求める」という意味です。AmyがSheldonに、困難な状況で物理的な接触から慰めを得ることを提案する際に使われています。\n例：People often seek the comfort of friends and family during difficult times. (人々は困難な時期に友人や家族の慰めを求めることが多い。)"
+    },
+    {
+      "id": 40,
+      "value": "nonsense",
+      "options": [
+        "理にかなっている",
+        "無意味",
+        "常識",
+        "真実"
+      ],
+      "correctAnswer": "無意味",
+      "explanation": "「nonsense」は「無意味なこと、ばかげたこと」という意味です。SheldonがAmyの提案を否定する際に、その内容が無意味だと主張しています。\n例：What you're saying is nonsense. (君が言っていることは無意味だ。)"
+    },
+    {
+      "id": 41,
+      "value": "you sure about that?",
+      "options": [
+        "それが心配ですか",
+        "それを確信していますか",
+        "それが嫌いですか",
+        "それが好きですか"
+      ],
+      "correctAnswer": "それを確信していますか",
+      "explanation": "「Are you sure about that?」は「それを確信していますか？」という意味です。相手の発言に対して疑念や反論がある時に、確認のために使われます。AmyがSheldonにclosureの問題がないという主張を再確認するために使っています。\n例：A: I don't need any help. B: Are you sure about that? (A: 助けは要らないよ。 B: 本当に？)"
+    },
+    {
+      "id": 42,
+      "value": "broke down",
+      "options": [
+        "壊れた",
+        "崩壊した",
+        "泣き崩れた",
+        "解決した"
+      ],
+      "correctAnswer": "泣き崩れた",
+      "explanation": "「break down」には様々な意味がありますが、ここでは「感情的に崩れる、泣き崩れる」という意味で使われています。RajがLucyのブログを読んで感情的に動揺したことを表しています。\n例：She broke down when she heard the news. (彼女はその知らせを聞いて泣き崩れた。)"
+    },
+    {
+      "id": 43,
+      "value": "to your advantage",
+      "options": [
+        "あなたのために",
+        "あなたを不利にする",
+        "あなたに無関係",
+        "あなたを助ける"
+      ],
+      "correctAnswer": "あなたのために",
+      "explanation": "「to your advantage」は「あなたにとって有利に、都合よく」という意味です。HowardがRajに対して、ブログの内容を自分に有利に使うようにアドバイスしています。\n例：Use this information to your advantage. (この情報を自分に有利に使いなさい。)"
+    },
+    {
+      "id": 44,
+      "value": "don't be like that",
+      "options": [
+        "そのようにしないで",
+        "そのようにしてください",
+        "元気を出して",
+        "落ち着いて"
+      ],
+      "correctAnswer": "そのようにしないで",
+      "explanation": "「don't be like that」は「そんなふうにならないで、むくれ（拗ね）ないで」という意味です。PennyがLeonardに、不機嫌にならないように言う場面で使われています。\n例：Come on, don't be like that. I didn't mean to hurt your feelings. (ほら、そんなふうにならないで。君の気持ちを傷つけるつもりはなかったんだ。)"
+    },
+    {
+      "id": 45,
+      "value": "gave it a shot",
+      "options": [
+        "それを与えた",
+        "試してみた",
+        "無視した",
+        "成功した"
+      ],
+      "correctAnswer": "試してみた",
+      "explanation": "「give it a shot」は「試してみる、やってみる」という意味の口語的な表現です。LeonardがPennyに自分の好きな番組を見てもらったけれど、彼女が乗り気でなかったため、試みを諦めようとする場面で使われています。\n例：I decided to give it a shot and apply for the job. (私は試してみることに決めて、その仕事に応募した。)"
+    },
+    {
+      "id": 46,
+      "value": "vice president",
+      "options": [
+        "社長",
+        "副社長",
+        "部長",
+        "課長"
+      ],
+      "correctAnswer": "副社長",
+      "explanation": "「vice president」は「副社長」という意味です。組織内で社長の次に高い地位にある役職を指します。SheldonがSyFy Networkに電話をかける際に、自分が副社長であると偽っています。\n例：She is the vice president of marketing. (彼女はマーケティング担当の副社長です。)"
+    },
+    {
+      "id": 47,
+      "value": "got upset",
+      "options": [
+        "興奮した",
+        "悲しんだ",
+        "怒った",
+        "喜んだ"
+      ],
+      "correctAnswer": "怒った",
+      "explanation": "「get upset」は「動揺する、怒る、不機嫌になる」という意味です。Sheldonが番組がキャンセルされたことに動揺していることをAmyが表現しています。\n例：He got upset when he heard the news. (彼はそのニュースを聞いて動揺した。)"
+    },
+    {
+      "id": 48,
+      "value": "normal guys",
+      "options": [
+        "普通の男性",
+        "背の高い男性",
+        "面白い男性",
+        "ハンサムな男性"
+      ],
+      "correctAnswer": "普通の男性",
+      "explanation": "「normal guys」は「普通の男性」という意味です。HowardがRajに、女性が好む男性のタイプについて語る際に、自信のある普通の男性を挙げています。\n例：She is looking for a normal guy to settle down with. (彼女は落ち着ける普通の男性を探している。)"
+    },
+    {
+      "id": 49,
+      "value": "what do you want from me?",
+      "options": [
+        "私に何を求めているの？",
+        "私に何をあげたいの？",
+        "私に何を聞きたいの？",
+        "私に何を見せたいの？"
+      ],
+      "correctAnswer": "私に何を求めているの？",
+      "explanation": "「what do you want from me?」は「私に何を求めているの？、私に何を期待しているの？」という意味です。PennyがLeonardに、自分の反応に不満がある彼に対して、何を求めているのかを尋ねる場面で使われています。\n例：I don't know what you want from me. I've done everything I can. (私はあなたが私に何を求めているのかわからない。私はできることはすべてやった。)"
+    },
+    {
+      "id": 50,
+      "value": "cool",
+      "options": [
+        "かっこいい",
+        "冷たい",
+        "素晴らしい",
+        "退屈"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「cool」は様々な意味がありますが、ここでは「素晴らしい、いいね」という意味で使われています。PennyがLeonardの好きな番組の次のエピソードを一緒に見ることになり、Leonardが同意する際に使っています。\n例：A: I'll pick you up at 8. B: Cool. (A: 8時に迎えに行くよ。 B: いいね。)"
+    },
+    {
+      "id": 51,
+      "value": "take issue with",
+      "options": [
+        "同意する",
+        "反対する",
+        "理解する",
+        "無視する"
+      ],
+      "correctAnswer": "反対する",
+      "explanation": "「take issue with」は、何かに対して異議を唱える、反対するという意味です。フォーマルな議論や意見の相違を表明する際に使われます。単に反対するだけでなく、具体的な理由や根拠を持って反論するニュアンスが含まれます。\n\n例：I take issue with your claim that the experiment was a success. (その実験が成功だったというあなたの主張に私は異議を唱えます。)"
+    },
+    {
+      "id": 52,
+      "value": "for the sake of argument",
+      "options": [
+        "議論のために",
+        "真実を求めて",
+        "冗談で",
+        "個人的な理由で"
+      ],
+      "correctAnswer": "議論のために",
+      "explanation": "「for the sake of argument」は、議論を進めるために、たとえ自分が信じていないことでも、一時的にそれを受け入れるという意味です。議論の前提を設けたり、相手の立場を理解しようとする際に用いられます。\n\n例：For the sake of argument, let's assume that the earth is flat. (議論のために、地球が平らだと仮定しましょう。)"
+    },
+    {
+      "id": 53,
+      "value": "addressing it",
+      "options": [
+        "無視する",
+        "対処する",
+        "隠蔽する",
+        "促進する"
+      ],
+      "correctAnswer": "対処する",
+      "explanation": "「address」は、問題や課題に対して、対策を講じる、対処するという意味です。具体的な行動や計画を立てて問題解決に取り組むニュアンスが含まれます。\n\n例：The company is addressing the issue of climate change. (その会社は気候変動の問題に対処しています。)"
+    },
+    {
+      "id": 54,
+      "value": "overwhelming",
+      "options": [
+        "克服できる",
+        "圧倒的な",
+        "些細な",
+        "予想外の"
+      ],
+      "correctAnswer": "圧倒的な",
+      "explanation": "「overwhelming」は、感情や量などが非常に強く、圧倒されるような状態を表します。手に負えないほど大きい、または感情が非常に強いという意味合いがあります。\n\n例：The support from the community was overwhelming. (地域社会からの支援は圧倒的でした。)"
+    },
+    {
+      "id": 55,
+      "value": "goofy",
+      "options": [
+        "真面目な",
+        "ばかげた",
+        "複雑な",
+        "革新的な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「goofy」は、滑稽で、ばかげた、または間抜けな様子を表します。人を笑わせるような、少し変わった、または不格好な振る舞いを指すことが多いです。\n\n例：He has a goofy sense of humor. (彼はおかしいユーモアのセンスを持っている。)"
+    },
+    {
+      "id": 56,
+      "value": "deny me closure",
+      "options": [
+        "私に終わりを与える",
+        "私を閉鎖する",
+        "私に終わりを認めない",
+        "私を解放する"
+      ],
+      "correctAnswer": "私に終わりを認めない",
+      "explanation": "「closure」は、未解決の問題や感情に対する解決、区切り、または心の整理を意味します。「deny closure」は、その解決や区切りを拒否する、または妨げるという意味になります。\n\n例：The lack of information denied the family closure after the accident. (事故の後、情報が不足していたため、家族は心の整理をつけることができませんでした。)"
+    },
+    {
+      "id": 57,
+      "value": "peel off",
+      "options": [
+        "貼り付ける",
+        "剥がす",
+        "隠す",
+        "修理する"
+      ],
+      "correctAnswer": "剥がす",
+      "explanation": "「peel off」は、表面から何かを剥がす、特に皮膚や覆いを剥ぎ取るという意味です。比喩的には、何かから離れる、脱退するという意味でも使われます。\n\n例：He peeled off the old wallpaper. (彼は古い壁紙を剥がしました。)"
+    },
+    {
+      "id": 58,
+      "value": "pitch in",
+      "options": [
+        "傍観する",
+        "協力する",
+        "邪魔する",
+        "命令する"
+      ],
+      "correctAnswer": "協力する",
+      "explanation": "「pitch in」は、共同で何かをする際に、積極的に協力する、貢献するという意味です。特に、困難な状況や緊急時に助け合う際に使われます。\n\n例：Everyone pitched in to help clean up after the party. (パーティーの後、みんなで協力して片付けました。)"
+    },
+    {
+      "id": 59,
+      "value": "a drag",
+      "options": [
+        "楽しいこと",
+        "退屈なこと",
+        "簡単なこと",
+        "興味深いこと"
+      ],
+      "correctAnswer": "退屈なこと",
+      "explanation": "「a drag」は、退屈でつまらないこと、またはうんざりするような状況を指します。何かを楽しみにしていたのに、期待外れだったり、気が進まない時に使われます。\n\n例：Waiting in line at the DMV is always a drag. (陸運局で列に並んで待つのはいつも退屈です。)"
+    },
+    {
+      "id": 60,
+      "value": "get that way",
+      "options": [
+        "そのようになる",
+        "そのように去る",
+        "そのように感じる",
+        "そのように行動する"
+      ],
+      "correctAnswer": "そのようになる",
+      "explanation": "「get that way」は、特定の方法や状態になる、または特定の感情や態度を示すようになるという意味です。人がある特定の感情や行動パターンを示すようになることを指します。\n\n例：I don't usually get that way, but the movie was really moving. (普段はそうならないんだけど、その映画は本当に感動的だった。)"
+    },
+    {
+      "id": 61,
+      "value": "wipe it out",
+      "options": [
+        "保存する",
+        "一掃する",
+        "増殖させる",
+        "隠蔽する"
+      ],
+      "correctAnswer": "一掃する",
+      "explanation": "「wipe out」は、完全に破壊する、消し去る、または全滅させるという意味です。物理的な破壊だけでなく、抽象的な意味でも使われます。\n\n例：The flood wiped out the entire town. (洪水で町全体が壊滅しました。)"
+    },
+    {
+      "id": 62,
+      "value": "fire in my life",
+      "options": [
+        "情熱",
+        "恐怖",
+        "混乱",
+        "無関心"
+      ],
+      "correctAnswer": "情熱",
+      "explanation": "「fire」は、ここでは情熱、熱意、または強い感情を表す比喩的な表現です。人生における活力や意欲を指します。\n\n例：She has a fire in her belly to succeed. (彼女は成功への強い意欲を持っている。)"
+    },
+    {
+      "id": 63,
+      "value": "butch",
+      "options": [
+        "女性らしい",
+        "男らしい",
+        "中性的な",
+        "子供っぽい"
+      ],
+      "correctAnswer": "男らしい",
+      "explanation": "「butch」は、男らしい、または男性的な特徴を持つことを指します。特に、女性が伝統的な男性の役割やスタイルを体現する場合に使われることがあります。\n\n例：She has a butch haircut. (彼女はボーイッシュなヘアスタイルをしている。)"
+    },
+    {
+      "id": 64,
+      "value": "oodles",
+      "options": [
+        "少し",
+        "たくさん",
+        "全くない",
+        "平均的な量"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "「oodles」は、非常にたくさん、または大量という意味を表す口語的な表現です。数えられないものに対して使われることが多いです。\n\n例：I have oodles of time to finish this project. (このプロジェクトを終えるための時間がたっぷりある。)"
+    },
+    {
+      "id": 65,
+      "value": "intricate",
+      "options": [
+        "単純な",
+        "複雑な",
+        "美しい",
+        "退屈な"
+      ],
+      "correctAnswer": "複雑な",
+      "explanation": "「intricate」は、細部まで入り組んでいて複雑な、または精巧なという意味です。デザイン、パターン、システムなど、多くの要素が組み合わさっているものを指します。\n\n例：The clock has an intricate mechanism. (その時計は複雑な仕組みを持っている。)"
+    },
+    {
+      "id": 66,
+      "value": "layout",
+      "options": [
+        "配置",
+        "破壊",
+        "創造",
+        "隠蔽"
+      ],
+      "correctAnswer": "配置",
+      "explanation": "「layout」は、物や情報がどのように配置されているか、または配置する計画やデザインを指します。部屋のレイアウト、ウェブサイトのレイアウトなど、様々な文脈で使われます。\n\n例：The layout of the garden is very pleasing. (その庭のレイアウトはとても心地よい。)"
+    },
+    {
+      "id": 67,
+      "value": "missed one",
+      "options": [
+        "成功した",
+        "失敗した",
+        "楽しんだ",
+        "発見した"
+      ],
+      "correctAnswer": "失敗した",
+      "explanation": "「missed one」は、何かをする際に一つ失敗した、または見逃したという意味です。目標を達成できなかった、または機会を逃したというニュアンスがあります。\n\n例：I missed one question on the test. (テストで一つ質問を間違えた。)"
+    },
+    {
+      "id": 76,
+      "value": "for sure",
+      "options": [
+        "確かに",
+        "念のため",
+        "もちろん",
+        "未定"
+      ],
+      "correctAnswer": "確かに",
+      "explanation": "「for sure」は「確かに」「間違いなく」という意味で、確信や同意を表す際に使われます。日常会話で非常によく使われる表現です。\n例：Are you coming to the party? - For sure! (パーティーに来る？ - もちろん！)"
+    },
+    {
+      "id": 77,
+      "value": "going on",
+      "options": [
+        "進行中",
+        "起こっている",
+        "外出する",
+        "継続する"
+      ],
+      "correctAnswer": "起こっている",
+      "explanation": "「going on」は「起こっている」「進行中」という意味で、何が起きているのか尋ねる際や、特定の状況について述べる際に使われます。\n例：What's going on here? (ここで何が起こっているの？)"
+    },
+    {
+      "id": 78,
+      "value": "digging around",
+      "options": [
+        "探し回る",
+        "掘り起こす",
+        "解決する",
+        "構築する"
+      ],
+      "correctAnswer": "探し回る",
+      "explanation": "「dig around」は「探し回る」「詮索する」という意味で、情報を得るために何かを探し求める様子を表します。しばしば、隠された情報や見つけにくいものを探すニュアンスを含みます。\n例：I had to dig around in the attic to find my old photos. (古い写真を見つけるために屋根裏を捜し回る必要があった。)"
+    },
+    {
+      "id": 79,
+      "value": "for the record",
+      "options": [
+        "記録のために",
+        "念のため",
+        "参考までに",
+        "公式には"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「for the record」は「念のため」「記録として」という意味で、自分の意見や情報を明確に伝えたい時に使われます。後で誤解がないように、正確な情報を残す意図があります。\n例：For the record, I never agreed to that plan. (念のため言っておくが、私はその計画に同意したことはない。)"
+    },
+    {
+      "id": 80,
+      "value": "adjusting to",
+      "options": [
+        "調整する",
+        "適応する",
+        "修正する",
+        "評価する"
+      ],
+      "correctAnswer": "適応する",
+      "explanation": "「adjust to」は「～に適応する」「～に慣れる」という意味で、新しい環境や状況に順応する様子を表します。変化に対応するプロセスを指します。\n例：It takes time to adjust to a new job. (新しい仕事に適応するには時間がかかる。)"
+    },
+    {
+      "id": 81,
+      "value": "balls-to-the-wall",
+      "options": [
+        "全力で",
+        "秘密裏に",
+        "慎重に",
+        "形式的に"
+      ],
+      "correctAnswer": "全力で",
+      "explanation": "「balls-to-the-wall」は「全速力で」「全力で」という意味のスラングです。機械のレバーを最大限に押し上げるイメージから来ており、最大限の努力やエネルギーを注ぎ込む様子を表します。\n例：We're going to go balls-to-the-wall to finish this project on time. (このプロジェクトを時間内に終わらせるために全力を尽くす。)"
+    },
+    {
+      "id": 82,
+      "value": "regimen",
+      "options": [
+        "計画",
+        "政権",
+        "療法",
+        "地域"
+      ],
+      "correctAnswer": "療法",
+      "explanation": "「regimen」は「(食事、運動などの)療法」「(組織的な)管理体制」という意味で、健康や美容のために行う一連の活動や規則正しい習慣を指します。\n例：a strict exercise regimen (厳しい運動療法)"
+    },
+    {
+      "id": 83,
+      "value": "upgrade to",
+      "options": [
+        "アップグレードする",
+        "同意する",
+        "抵抗する",
+        "交換する"
+      ],
+      "correctAnswer": "アップグレードする",
+      "explanation": "「upgrade to」は「～にアップグレードする」という意味で、より新しい、または高性能なものに交換することを指します。品質や機能の向上を伴うことが多いです。\n例文：I decided to upgrade to a new computer. (新しいコンピュータにアップグレードすることにしました。)"
+    },
+    {
+      "id": 84,
+      "value": "strikes again",
+      "options": [
+        "再び攻撃する",
+        "再び成功する",
+        "再び失敗する",
+        "再び現れる"
+      ],
+      "correctAnswer": "再び成功する",
+      "explanation": "「strikes again」は「再び成功する」「再び影響を及ぼす」という意味で、良い意味でも悪い意味でも、何かが再び効果を発揮する状況を表します。\n例：Her charm strikes again! (彼女の魅力が再び成功する！)"
+    },
+    {
+      "id": 85,
+      "value": "worth getting excited about",
+      "options": [
+        "興奮する価値がある",
+        "悲しむ価値がある",
+        "議論する価値がある",
+        "無視する価値がある"
+      ],
+      "correctAnswer": "興奮する価値がある",
+      "explanation": "「worth getting excited about」は「興奮する価値がある」「喜ぶ価値がある」という意味で、何か特別なことや期待できることに対して使われます。\n例文：This news is definitely worth getting excited about. (このニュースは間違いなく興奮する価値がある。)"
+    },
+    {
+      "id": 86,
+      "value": "bachelorette party",
+      "options": [
+        "独身女性のパーティー",
+        "卒業パーティー",
+        "歓迎パーティー",
+        "送別パーティー"
+      ],
+      "correctAnswer": "独身女性のパーティー",
+      "explanation": "「bachelorette party」は「独身女性のパーティー」「花嫁の未婚さよならパーティー」という意味で、結婚を控えた女性が友人たちと楽しむお祝いのパーティーを指します。\n例：We're planning a bachelorette party for my sister. (妹のために独身女性のパーティーを計画している。)"
+    },
+    {
+      "id": 87,
+      "value": "epiphany",
+      "options": [
+        "ひらめき",
+        "熱中",
+        "うぬぼれ",
+        "絶望"
+      ],
+      "correctAnswer": "ひらめき",
+      "explanation": "「epiphany」は「ひらめき」「直感」という意味で、突然何かを理解したり、重要な発見をしたりする瞬間を指します。宗教的な意味合いも持ちますが、日常的には洞察や啓示の意味で使われます。\n例：He had an epiphany and realized what he needed to do. (彼はひらめきを得て、何をすべきかに気づいた。)"
+    },
+    {
+      "id": 88,
+      "value": "stroke",
+      "options": [
+        "脳卒中",
+        "一撃",
+        "才能",
+        "幸運"
+      ],
+      "correctAnswer": "脳卒中",
+      "explanation": "「stroke」は「脳卒中」という意味で、脳の血管が詰まったり破れたりすることで起こる病気を指します。ここでは比喩的に使われており、「epiphany」と対比することで、重大な変化ではないことを強調しています。\n例：He suffered a stroke last year. (彼は昨年、脳卒中を起こした。)"
+    },
+    {
+      "id": 89,
+      "value": "sceptical",
+      "options": [
+        "懐疑的な",
+        "熱狂的な",
+        "友好的な",
+        "楽観的な"
+      ],
+      "correctAnswer": "懐疑的な",
+      "explanation": "「skeptical」は「懐疑的な」「疑い深い」という意味で、物事を鵜呑みにせず、証拠や根拠を求める態度を表します。疑念や不信感を持っている状態を指します。\n例：I'm skeptical about his claims. (彼の主張には懐疑的だ。)"
+    },
+    {
+      "id": 90,
+      "value": "transformative",
+      "options": [
+        "変革的な",
+        "保守的な",
+        "標準的な",
+        "表面的な"
+      ],
+      "correctAnswer": "変革的な",
+      "explanation": "「transformative」は「変革的な」「変化をもたらす」という意味で、何かを根本的に変える力を持つことを表します。個人や社会に大きな影響を与える変化を指します。\n例：a transformative experience (変革的な経験)"
+    },
+    {
+      "id": 91,
+      "value": "sucker",
+      "options": [
+        "騙されやすい人",
+        "成功者",
+        "怠け者",
+        "賢者"
+      ],
+      "correctAnswer": "騙されやすい人",
+      "explanation": "「sucker」は「騙されやすい人」「カモ」という意味で、他人を信用しやすく、利用されやすい人を指します。自己嫌悪や皮肉を込めて使われることがあります。\n例：I'm such a sucker for a sad story. (私は悲しい話にすぐ騙される。)"
+    },
+    {
+      "id": 92,
+      "value": "intricate",
+      "options": [
+        "複雑な",
+        "単純な",
+        "一般的な",
+        "表面的な"
+      ],
+      "correctAnswer": "複雑な",
+      "explanation": "「intricate」は「複雑な」「入り組んだ」という意味で、多くの細部や要素が複雑に組み合わさっている様子を表します。デザインや構造が複雑で理解しにくいことを指します。\n例：an intricate design (複雑なデザイン)"
+    },
+    {
+      "id": 93,
+      "value": "down to business",
+      "options": [
+        "仕事に取り掛かる",
+        "休暇を楽しむ",
+        "休憩を取る",
+        "遊びに出かける"
+      ],
+      "correctAnswer": "仕事に取り掛かる",
+      "explanation": "「down to business」は「本題に入る」「仕事に取り掛かる」という意味で、真剣な話題や具体的な作業に移ることを示します。無駄話をやめて、重要なことに集中するニュアンスがあります。\n例：Let's get down to business. (本題に入ろう。)"
+    },
+    {
+      "id": 94,
+      "value": "resolve",
+      "options": [
+        "解決する",
+        "悪化させる",
+        "無視する",
+        "複雑にする"
+      ],
+      "correctAnswer": "解決する",
+      "explanation": "「resolve」は「解決する」「決意する」という意味で、問題や困難を克服したり、明確な決定を下したりすることを指します。紛争や疑問を解消する意味合いがあります。\n例：We need to resolve this issue as soon as possible. (この問題をできるだけ早く解決する必要がある。)"
+    },
+    {
+      "id": 95,
+      "value": "stinks",
+      "options": [
+        "ひどい",
+        "素晴らしい",
+        "普通",
+        "面白い"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「stink」は「悪臭がする」「ひどい」という意味で、比喩的に不快な状況や嫌なことを表します。不満や軽蔑の気持ちを示す際に使われます。\n例：This plan stinks. (この計画はひどい。)"
+    },
+    {
+      "id": 96,
+      "value": "wrapper",
+      "options": [
+        "包装紙",
+        "指示",
+        "中身",
+        "値段"
+      ],
+      "correctAnswer": "包装紙",
+      "explanation": "ここでは、「食品を包むもの」という意味で使われています。「指示」という意味合いはありません。Wrapperは名詞として使われ、「包むもの、包装紙、覆い」などを意味します。食品、商品などを保護し、保持するために使われます。"
+    },
+    {
+      "id": 97,
+      "value": "the record",
+      "options": [
+        "証拠",
+        "本棚",
+        "記録",
+        "秘密"
+      ],
+      "correctAnswer": "記録",
+      "explanation": "この文脈では、「公的な記録」という意味合いで使用されています。「For the record」というフレーズで、「念のため、記録として」という意味になります。公式な記録、文書、または情報として残す、または言及するという意味合いで使用されます。"
+    },
+    {
+      "id": 98,
+      "value": "adjusting to",
+      "options": [
+        "拒否する",
+        "適用する",
+        "変更する",
+        "悪化する"
+      ],
+      "correctAnswer": "適用する",
+      "explanation": "このフレーズは、「新しい状況や環境に順応または適応する」という意味で使用されます。「Adjust to」は、変化や新しい状況に適応するプロセスを指し、快適または効果的に機能するように調整することを意味します。"
+    },
+    {
+      "id": 99,
+      "value": "moisturising regimen",
+      "options": [
+        "秘密の計画",
+        "保湿計画",
+        "運動計画",
+        "食事計画"
+      ],
+      "correctAnswer": "保湿計画",
+      "explanation": "このフレーズは、「肌を保湿するための計画やルーティン」を指します。「Regimen」は、特定の目的を達成するために従うべき体系的な計画やルーティンを意味します。ここでは、肌の水分を保ち、健康な状態を維持するためのスキンケアルーティンを指します。"
+    },
+    {
+      "id": 100,
+      "value": "Harmony One",
+      "options": [
+        "古いテレビ",
+        "最新テレビ",
+        "リモコンの名前",
+        "ソフトウェア名"
+      ],
+      "correctAnswer": "リモコンの名前",
+      "explanation": "この文脈では、リモコンの特定のモデル名です。リモコンのブランド名や特定のモデルを指す際に使用されます。ここでは、LeonardとSheldonが使用しているリモコンのモデル名として言及されています。"
+    }
+  ]
+}

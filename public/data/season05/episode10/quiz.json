@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "for the best",
+      "options": [
+        "最悪の場合",
+        "最高の場合",
+        "最良の結果のために",
+        "普通の場合"
+      ],
+      "correctAnswer": "最良の結果のために",
+      "explanation": "「for the best」は、「最終的には良い結果になるように」という意味です。困難や不快な状況でも、長期的に見れば良い結果につながることを期待する際に使われます。例：It might be painful now, but it's for the best.（今は辛いかもしれないが、最終的には良い結果になるだろう。）"
+    },
+    {
+      "id": 2,
+      "value": "frequenting",
+      "options": [
+        "避けること",
+        "頻繁に通うこと",
+        "たまに訪れること",
+        "決して行かないこと"
+      ],
+      "correctAnswer": "頻繁に通うこと",
+      "explanation": "「frequent」は動詞で、「頻繁に訪れる」という意味です。特に、ある場所やイベントによく行くことを指します。例：He frequents the local library. (彼は地元の図書館によく通う。)"
+    },
+    {
+      "id": 3,
+      "value": "lame-o",
+      "options": [
+        "素晴らしい",
+        "つまらない",
+        "興味深い",
+        "感動的"
+      ],
+      "correctAnswer": "つまらない",
+      "explanation": "「lame-o」は、「つまらない人」や「くだらないこと」を指すスラングです。軽蔑的な意味合いが含まれます。例：That movie was such a lame-o. (あの映画は本当につまらなかった。)"
+    },
+    {
+      "id": 4,
+      "value": "sequential art",
+      "options": [
+        "抽象芸術",
+        "連続芸術",
+        "現代芸術",
+        "古典芸術"
+      ],
+      "correctAnswer": "連続芸術",
+      "explanation": "「sequential art」は、「連続した絵で物語を伝える芸術」という意味で、主に漫画やコミックを指します。絵の連続によってストーリーを語る表現方法を指します。"
+    },
+    {
+      "id": 5,
+      "value": "bosom",
+      "options": [
+        "知性",
+        "勇気",
+        "胸",
+        "腕"
+      ],
+      "correctAnswer": "胸",
+      "explanation": "「bosom」は、「胸」または「胸元」を意味する古風な言葉です。現代ではあまり一般的ではありませんが、文学作品などで見られます。"
+    },
+    {
+      "id": 6,
+      "value": "floatation device",
+      "options": [
+        "通信機器",
+        "浮揚装置",
+        "医療機器",
+        "調理器具"
+      ],
+      "correctAnswer": "浮揚装置",
+      "explanation": "「floatation device」は、「浮揚装置」という意味です。水中で人が浮くのを助けるための道具を指します。救命胴衣や浮き輪などが該当します。"
+    },
+    {
+      "id": 7,
+      "value": "slapping them on",
+      "options": [
+        "丁寧に扱う",
+        "無視する",
+        "適当に貼り付ける",
+        "隠す"
+      ],
+      "correctAnswer": "適当に貼り付ける",
+      "explanation": "「slap on」は、「手早く、適当に何かを貼り付ける」という意味です。ここでは、カードにモンスターの絵柄を安易に貼り付けている様子を表しています。例：They just slap on some new features and call it an upgrade.（彼らはいくつかの新機能を適当につけて、それをアップグレードと呼ぶ。）"
+    },
+    {
+      "id": 8,
+      "value": "get laid",
+      "options": [
+        "成功する",
+        "落ち着く",
+        "眠る",
+        "性的な関係を持つ"
+      ],
+      "correctAnswer": "性的な関係を持つ",
+      "explanation": "「get laid」は非常に口語的な表現で、「性的な関係を持つ」という意味です。下品なニュアンスを含むため、使用する場面には注意が必要です。"
+    },
+    {
+      "id": 9,
+      "value": "absurd",
+      "options": [
+        "明白",
+        "妥当",
+        "ばかげている",
+        "論理的"
+      ],
+      "correctAnswer": "ばかげている",
+      "explanation": "「absurd」は、「ばかげている」「不条理な」という意味です。論理や常識に反する状況やアイデアに対して使われます。例：It's absurd to think that he would do such a thing. (彼がそんなことをするなんて考えるのは馬鹿げている。)"
+    },
+    {
+      "id": 10,
+      "value": "eternal damnation",
+      "options": [
+        "永遠の命",
+        "一時的な苦しみ",
+        "永遠の救い",
+        "永遠の罰"
+      ],
+      "correctAnswer": "永遠の罰",
+      "explanation": "「eternal damnation」は、「永遠の罰」または「永遠の破滅」という意味です。宗教的な文脈で、地獄での永遠の苦しみを指すことが多いです。"
+    },
+    {
+      "id": 11,
+      "value": "showdown",
+      "options": [
+        "隠蔽",
+        "対決",
+        "協力",
+        "逃避"
+      ],
+      "correctAnswer": "対決",
+      "explanation": "「showdown」は、「対決」または「最終的な決着」という意味です。特に、二者間の争いや競争がクライマックスに達する状況を指します。例：The final showdown between the two rivals was intense. (二人のライバルの最終対決は激しかった。)"
+    },
+    {
+      "id": 12,
+      "value": "beats",
+      "options": [
+        "負ける",
+        "打ち負かす",
+        "無視する",
+        "応援する"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "「beat」は、「打ち負かす」または「勝つ」という意味です。競争や試合などで相手を上回ることを指します。例：Our team beat theirs in the final game. (私たちのチームは決勝戦で彼らを打ち負かした。)"
+    },
+    {
+      "id": 13,
+      "value": "casts a spell",
+      "options": [
+        "呪文を解く",
+        "魔法をかける",
+        "議論をする",
+        "贈り物をする"
+      ],
+      "correctAnswer": "魔法をかける",
+      "explanation": "「cast a spell」は、「魔法をかける」という意味です。魔法使いや魔女が呪文を使って効果を発揮させる行為を指します。例：The witch cast a spell on the prince. (魔女は王子に魔法をかけた。)"
+    },
+    {
+      "id": 14,
+      "value": "mystic realm",
+      "options": [
+        "現実世界",
+        "神秘的な領域",
+        "科学的な実験室",
+        "日常的な場所"
+      ],
+      "correctAnswer": "神秘的な領域",
+      "explanation": "「mystic realm」は、「神秘的な領域」または「魔法の世界」という意味です。現実とは異なる、神秘的で超自然的な力が存在する場所を指します。"
+    },
+    {
+      "id": 15,
+      "value": "soul-sucking",
+      "options": [
+        "魂を癒す",
+        "魂を吸い取る",
+        "心を奪う",
+        "感情を高める"
+      ],
+      "correctAnswer": "魂を吸い取る",
+      "explanation": "「soul-sucking」は、「魂を吸い取るような」または「非常に不快な」という意味です。精神的に疲弊させるような状況や人を指して使われます。例：This job is soul-sucking. (この仕事は精神的に疲弊する。)"
+    },
+    {
+      "id": 16,
+      "value": "ball-shriveling",
+      "options": [
+        "興奮させる",
+        "自信を与える",
+        "萎縮させる",
+        "喜びを与える"
+      ],
+      "correctAnswer": "萎縮させる",
+      "explanation": "「ball-shriveling」は、「萎縮させるような」という意味のスラングです。男性の自信や勇気を失わせるような状況や人を指して使われます。非常にくだけた表現です。"
+    },
+    {
+      "id": 17,
+      "value": "run it by",
+      "options": [
+        "無視する",
+        "確認する",
+        "実行する",
+        "秘密にする"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「run it by someone」は、「（人に）～について確認する」「（人に）～を相談する」という意味です。提案やアイデアを人に伝え、意見や許可を求める際に使われます。例：I'll run it by my boss and see what he thinks. (上司に確認して、彼がどう思うか見てみます。)"
+    },
+    {
+      "id": 18,
+      "value": "robbing you of",
+      "options": [
+        "与える",
+        "奪う",
+        "共有する",
+        "保護する"
+      ],
+      "correctAnswer": "奪う",
+      "explanation": "「rob someone of something」は、「（人）から～を奪う」という意味です。物理的なものだけでなく、機会や楽しみなどを奪う場合にも使われます。例：The rain robbed us of our picnic. (雨のせいでピクニックが台無しになった。)"
+    },
+    {
+      "id": 19,
+      "value": "rootin' tootin'",
+      "options": [
+        "静かで穏やかな",
+        "騒がしく楽しい",
+        "退屈でつまらない",
+        "危険で恐ろしい"
+      ],
+      "correctAnswer": "騒がしく楽しい",
+      "explanation": "「rootin' tootin'」は、「騒がしく楽しい」という意味のスラングです。特にアメリカの西部開拓時代を連想させるような、活気のある状況を指します。例：It's going to be a rootin' tootin' good time! (それは騒がしく楽しい時間になるだろう！)"
+    },
+    {
+      "id": 20,
+      "value": "Like shooting nerds in a barrel",
+      "options": [
+        "非常に難しい",
+        "非常に簡単",
+        "危険な行為",
+        "価値のある行為"
+      ],
+      "correctAnswer": "非常に簡単",
+      "explanation": "「Like shooting fish in a barrel」ということわざの変形です。「非常に簡単」という意味を表します。魚を樽の中で撃つのが簡単なように、あることが非常に容易であることを示します。"
+    },
+    {
+      "id": 21,
+      "value": "standstill",
+      "options": [
+        "進歩",
+        "停滞",
+        "加速",
+        "成功"
+      ],
+      "correctAnswer": "停滞",
+      "explanation": "「standstill」は、「停滞」または「行き詰まり」という意味です。進展がなく、動きが止まっている状態を指します。例：The negotiations are at a standstill. (交渉は行き詰まっている。)"
+    },
+    {
+      "id": 22,
+      "value": "parrot it back",
+      "options": [
+        "独創的に表現する",
+        "そのまま繰り返す",
+        "詳しく説明する",
+        "要約する"
+      ],
+      "correctAnswer": "そのまま繰り返す",
+      "explanation": "「parrot back」は、「（オウムのように）そのまま繰り返す」という意味です。自分の考えや理解なしに、他人の言葉をそのまま繰り返すことを指します。例：He just parrots back what he hears on the news. (彼はニュースで聞いたことをそのまま繰り返すだけだ。)"
+    },
+    {
+      "id": 23,
+      "value": "the question is moot",
+      "options": [
+        "質問は重要である",
+        "質問は未解決である",
+        "質問は無意味である",
+        "質問は簡単である"
+      ],
+      "correctAnswer": "質問は無意味である",
+      "explanation": "「moot」は、「議論の余地がない」「意味がない」という意味です。「the question is moot」は、「その質問はもはや意味がない」という意味になります。議論する価値がないほど明白な場合や、解決済みの場合に使われます。例：The point is moot because the decision has already been made. (決定はすでに下されているので、その点は議論する意味がない。)"
+    },
+    {
+      "id": 24,
+      "value": "peddler",
+      "options": [
+        "学者",
+        "医者",
+        "行商人",
+        "教師"
+      ],
+      "correctAnswer": "行商人",
+      "explanation": "「peddler」は、「行商人」または「露天商」という意味です。商品を担いで各地を売り歩く人を指します。古風な言葉で、現代ではあまり一般的ではありません。例：A peddler selling trinkets by the roadside. (道端で装身具を売る行商人。)"
+    },
+    {
+      "id": 25,
+      "value": "washed-up",
+      "options": [
+        "成功した",
+        "有望な",
+        "時代遅れの",
+        "才能のある"
+      ],
+      "correctAnswer": "時代遅れの",
+      "explanation": "「washed-up」は、「時代遅れの」「もう終わった」という意味です。過去には成功したが、現在は能力を失い、将来の見込みがない人を指します。例：He's a washed-up actor trying to make a comeback. (彼はカムバックしようとしている時代遅れの俳優だ。)"
+    },
+    {
+      "id": 26,
+      "value": "prenatal",
+      "options": [
+        "出生後の",
+        "出生前の",
+        "更年期の",
+        "老齢の"
+      ],
+      "correctAnswer": "出生前の",
+      "explanation": "「prenatal」は、「出生前の」という意味です。妊娠中の期間に関連することを指します。例えば、prenatal care（出生前ケア）は、妊娠中の女性が受ける医療ケアのことです。"
+    },
+    {
+      "id": 27,
+      "value": "schnapps",
+      "options": [
+        "蒸留酒の一種",
+        "お菓子の一種",
+        "薬の一種",
+        "ハーブの一種"
+      ],
+      "correctAnswer": "蒸留酒の一種",
+      "explanation": "「schnapps」は、主にフルーツを原料とする蒸留酒の一種です。アルコール度数が高く、食後酒として飲まれることが多いです。"
+    },
+    {
+      "id": 28,
+      "value": "vixen",
+      "options": [
+        "年老いた女性",
+        "ずる賢い女性",
+        "若い女性",
+        "内気な女性"
+      ],
+      "correctAnswer": "ずる賢い女性",
+      "explanation": "「vixen」は、もともと「雌ギツネ」を意味しますが、人を指す場合は、魅力的でずる賢い女性、特に男性を誘惑するような女性を指します。"
+    },
+    {
+      "id": 29,
+      "value": "sallow",
+      "options": [
+        "健康的な",
+        "青白い、土色の",
+        "日焼けした",
+        "血色の良い"
+      ],
+      "correctAnswer": "青白い、土色の",
+      "explanation": "「sallow」は、顔色などが青白い、または土色がかっている様子を表します。不健康や病気を連想させる色合いです。"
+    },
+    {
+      "id": 30,
+      "value": "drawn",
+      "options": [
+        "リラックスした",
+        "疲れた、やつれた",
+        "幸せそうな",
+        "元気な"
+      ],
+      "correctAnswer": "疲れた、やつれた",
+      "explanation": "「drawn」は、疲労や病気、苦しみなどによって顔つきがやつれている状態を表します。顔の輪郭がはっきりし、生気が失われている様子を指します。"
+    },
+    {
+      "id": 31,
+      "value": "countenance",
+      "options": [
+        "服装",
+        "性格",
+        "顔つき、表情",
+        "習慣"
+      ],
+      "correctAnswer": "顔つき、表情",
+      "explanation": "「countenance」は、人の顔つきや表情を意味するフォーマルな言葉です。感情や性格を反映するものとして捉えられます。"
+    },
+    {
+      "id": 32,
+      "value": "thyroid gland",
+      "options": [
+        "甲状腺",
+        "副腎",
+        "膵臓",
+        "脳下垂体"
+      ],
+      "correctAnswer": "甲状腺",
+      "explanation": "「thyroid gland」は、甲状腺のことです。代謝を調節するホルモンを分泌する内分泌器官です。"
+    },
+    {
+      "id": 33,
+      "value": "for what it’s worth",
+      "options": [
+        "価値がない",
+        "念のため",
+        "重要なことだが",
+        "無意味だが"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「for what it's worth」は、「それがどれだけの価値があるかはわからないが」「役に立つかどうかわからないけど」という意味合いで、自分の意見や情報を控えめに伝える際に使われます。"
+    },
+    {
+      "id": 34,
+      "value": "sniggering",
+      "options": [
+        "大声で笑うこと",
+        "静かに、または隠れて笑うこと",
+        "泣くこと",
+        "叫ぶこと"
+      ],
+      "correctAnswer": "静かに、または隠れて笑うこと",
+      "explanation": "「snigger」は、静かに、または隠れて意地悪く笑うことを意味します。人の不幸や失敗を嘲笑するようなニュアンスが含まれます。"
+    },
+    {
+      "id": 35,
+      "value": "trajectory",
+      "options": [
+        "軌道、道筋",
+        "才能",
+        "障害",
+        "目的"
+      ],
+      "correctAnswer": "軌道、道筋",
+      "explanation": "「trajectory」は、物体の軌道や、人生、キャリアなどの進路を意味します。将来の方向性や発展の道筋を示す際に用いられます。"
+    },
+    {
+      "id": 36,
+      "value": "extraction",
+      "options": [
+        "導入",
+        "除去、抽出",
+        "創造",
+        "追加"
+      ],
+      "correctAnswer": "除去、抽出",
+      "explanation": "「extraction」は、何かを取り除く、または抽出することを意味します。歯科においては、歯の抜歯を指します。"
+    },
+    {
+      "id": 37,
+      "value": "bowel movements",
+      "options": [
+        "腸の動き、排便",
+        "筋肉の動き",
+        "呼吸",
+        "食事"
+      ],
+      "correctAnswer": "腸の動き、排便",
+      "explanation": "「bowel movement」は、排便、つまり便を出すことを指します。日常的な生理現象について話す際に使われます。"
+    },
+    {
+      "id": 38,
+      "value": "inaugural",
+      "options": [
+        "最終の",
+        "最初の、開始の",
+        "一般的な",
+        "特別な"
+      ],
+      "correctAnswer": "最初の、開始の",
+      "explanation": "「inaugural」は、何かを開始する、または最初のという意味です。就任式や、新しいイベントの初回などを指す際に使われます。"
+    },
+    {
+      "id": 39,
+      "value": "bothered",
+      "options": [
+        "楽しんだ",
+        "気にした、苦にした",
+        "無視した",
+        "期待した"
+      ],
+      "correctAnswer": "気にした、苦にした",
+      "explanation": "「bother」は、悩ませる、困らせるという意味ですが、「bothered」は、わざわざ～する、という意味合いでも使われます。ここでは、わざわざ衣装を着てきた、という意味です。"
+    },
+    {
+      "id": 40,
+      "value": "spurs",
+      "options": [
+        "拍車",
+        "鞭",
+        "手綱",
+        "帽子"
+      ],
+      "correctAnswer": "拍車",
+      "explanation": "「spurs」は、乗馬で馬を操るために靴につける拍車のことです。転じて、何かを刺激するもの、励ますものという意味も持ちます。"
+    },
+    {
+      "id": 41,
+      "value": "ridiculous",
+      "options": [
+        "深刻な",
+        "ばかげた、馬鹿らしい",
+        "素晴らしい",
+        "普通の"
+      ],
+      "correctAnswer": "ばかげた、馬鹿らしい",
+      "explanation": "「ridiculous」は、ばかげた、馬鹿らしい、滑稽なという意味です。常識から外れていて笑いを誘うような状況を指します。"
+    },
+    {
+      "id": 42,
+      "value": "condescension",
+      "options": [
+        "謙遜",
+        "横柄な態度、見下し",
+        "尊敬",
+        "感謝"
+      ],
+      "correctAnswer": "横柄な態度、見下し",
+      "explanation": "「condescension」は、見下すような態度、相手を軽蔑するような態度を意味します。相手に対して優越感を持っていることを示唆します。"
+    },
+    {
+      "id": 43,
+      "value": "quilting bee",
+      "options": [
+        "裁縫教室",
+        "キルトを作る集まり",
+        "養蜂場",
+        "お茶会"
+      ],
+      "correctAnswer": "キルトを作る集まり",
+      "explanation": "「quilting bee」は、女性たちが集まってキルトを作る集まりのことです。おしゃべりや社交の場としての意味合いもあります。"
+    },
+    {
+      "id": 44,
+      "value": "obsessed with",
+      "options": [
+        "無関心",
+        "夢中になっている",
+        "嫌悪感を抱いている",
+        "無視している"
+      ],
+      "correctAnswer": "夢中になっている",
+      "explanation": "「obsessed with」は、何かに取り憑かれたように夢中になっている状態を表します。考えや感情がその対象に集中し、他のことが考えられなくなるほどです。"
+    },
+    {
+      "id": 45,
+      "value": "get coffee",
+      "options": [
+        "コーヒーを飲む",
+        "休憩する",
+        "議論する",
+        "会議をする"
+      ],
+      "correctAnswer": "コーヒーを飲む",
+      "explanation": "「get coffee」は、文字通りには「コーヒーを手に入れる」という意味ですが、日常会話では「コーヒーを飲みに行く」「お茶をする」という意味で使われます。カジュアルな約束や会合を指すことが多いです。"
+    },
+    {
+      "id": 46,
+      "value": "kick in the pants",
+      "options": [
+        "報酬",
+        "刺激、奮起",
+        "罰",
+        "応援"
+      ],
+      "correctAnswer": "刺激、奮起",
+      "explanation": "「kick in the pants」は、文字通りには「お尻を蹴る」という意味ですが、比喩的には「刺激」「奮起させるもの」という意味合いで使われます。現状を打破するためのきっかけや、怠惰な状態から抜け出すための刺激を指します。"
+    },
+    {
+      "id": 47,
+      "value": "taking Zoloft",
+      "options": [
+        "睡眠薬を飲む",
+        "抗うつ剤を飲む",
+        "風邪薬を飲む",
+        "鎮痛剤を飲む"
+      ],
+      "correctAnswer": "抗うつ剤を飲む",
+      "explanation": "「Zoloft」は、一般的に使われる抗うつ剤の商品名です。選択的セロトニン再取り込み阻害薬（SSRI）の一種で、うつ病や不安障害の治療に用いられます。「taking Zoloft」は、文字通りには「ゾロフトを服用する」という意味ですが、ここでは精神的な問題を抱えていることを示唆しています。"
+    },
+    {
+      "id": 48,
+      "value": "go easy on",
+      "options": [
+        "厳しくする",
+        "優しくする、手加減する",
+        "無視する",
+        "競争する"
+      ],
+      "correctAnswer": "優しくする、手加減する",
+      "explanation": "「go easy on」は、「〜に優しくする」「〜を手加減する」という意味です。相手に厳しく当たらないようにする、または難しい状況を避けるという意味合いで使われます。ここでは、Sheldonが落ち込んでいる可能性があるので、優しく接するべきだ、という意味になります。"
+    },
+    {
+      "id": 49,
+      "value": "patent",
+      "options": [
+        "秘密の",
+        "特許取得済みの",
+        "最新の",
+        "一般的な"
+      ],
+      "correctAnswer": "特許取得済みの",
+      "explanation": "「patent」は、特許を意味します。「特許取得済みの」という意味合いで使用されており、Sheldon独特の、他に真似できないという意味を込めています。"
+    },
+    {
+      "id": 50,
+      "value": "blend",
+      "options": [
+        "分離",
+        "混合、組み合わせ",
+        "分解",
+        "単純化"
+      ],
+      "correctAnswer": "混合、組み合わせ",
+      "explanation": "「blend」は、混合、組み合わせるという意味です。ここでは、Sheldonの持つ「condescension（見下す態度）」と「no sex（セックスをしないこと）」の組み合わせを指しています。"
+    },
+    {
+      "id": 51,
+      "value": "expansion pack",
+      "options": [
+        "拡張版",
+        "基本セット",
+        "割引券",
+        "お試し版"
+      ],
+      "correctAnswer": "拡張版",
+      "explanation": "「expansion pack」は、ゲームやソフトウェアなどの機能を拡張するために追加されるパッケージのことです。既存のものをより充実させる目的で使用されます。例：This expansion pack includes new maps and characters. (この拡張パックには新しいマップとキャラクターが含まれています。)"
+    },
+    {
+      "id": 52,
+      "value": "collector’s tin",
+      "options": [
+        "試供品",
+        "収集家向け缶",
+        "限定版書籍",
+        "おもちゃ"
+      ],
+      "correctAnswer": "収集家向け缶",
+      "explanation": "「collector's tin」は、収集家向けに作られた缶のことで、通常は限定版や特別なデザインが施されています。価値が高いものが多いです。例：The collector's tin contained rare trading cards. (その収集家向け缶には、希少なトレーディングカードが入っていた。)"
+    },
+    {
+      "id": 53,
+      "value": "hologram",
+      "options": [
+        "ホログラム",
+        "モノクロ写真",
+        "白黒テレビ",
+        "古いラジオ"
+      ],
+      "correctAnswer": "ホログラム",
+      "explanation": "「hologram」は、光の干渉を利用して作られる立体的な映像のことです。SF作品などでよく見られます。例：The concert featured a hologram of the deceased singer. (そのコンサートでは、亡くなった歌手のホログラムがフィーチャーされた。)"
+    },
+    {
+      "id": 54,
+      "value": "you've got to be kidding me",
+      "options": [
+        "冗談でしょう",
+        "本気ですか",
+        "仕方ない",
+        "面白いですね"
+      ],
+      "correctAnswer": "冗談でしょう",
+      "explanation": "「You've got to be kidding me」は、驚きや不信感を表現する際に使われる口語的な表現です。信じられないことや、受け入れがたいことに対して使われます。例：You've got to be kidding me! You won the lottery? (冗談でしょう！宝くじに当たったの？)"
+    },
+    {
+      "id": 55,
+      "value": "pumpkin latte",
+      "options": [
+        "パンプキンラテ",
+        "普通のコーヒー",
+        "アイスティー",
+        "レモネード"
+      ],
+      "correctAnswer": "パンプキンラテ",
+      "explanation": "「pumpkin latte」は、秋によく飲まれるカボチャ風味のラテのことです。特にスターバックスなどのカフェで人気があります。季節限定の飲み物であることが多いです。例：I love to drink pumpkin latte in the fall.（秋にパンプキンラテを飲むのが好きです。）"
+    },
+    {
+      "id": 56,
+      "value": "full of it",
+      "options": [
+        "お腹いっぱい",
+        "嘘つき",
+        "正直者",
+        "謙虚"
+      ],
+      "correctAnswer": "嘘つき",
+      "explanation": "「full of it」は、人が嘘をついている、または大げさに話しているという意味のスラングです。相手の発言を信用していないときに使います。例：He says he's a millionaire, but I think he's full of it. (彼は自分が大富豪だと言っているが、嘘だと思う。)"
+    },
+    {
+      "id": 57,
+      "value": "radical thought",
+      "options": [
+        "過激な思想",
+        "斬新な考え",
+        "ありふれた考え",
+        "昔ながらの考え"
+      ],
+      "correctAnswer": "斬新な考え",
+      "explanation": "「radical thought」は、根本的で斬新な考え、または従来の考え方とは全く異なるアイデアを指します。社会や状況を大きく変える可能性を秘めた考え方です。例：Her radical thought about education reform sparked a national debate. (彼女の教育改革に関する斬新な考えは、全国的な議論を巻き起こした。)"
+    },
+    {
+      "id": 58,
+      "value": "old-school",
+      "options": [
+        "新しい",
+        "伝統的な",
+        "学校",
+        "未来的な"
+      ],
+      "correctAnswer": "伝統的な",
+      "explanation": "「old-school」は、昔ながらの、伝統的な方法やスタイルを指す言葉です。現代的ではない、古風なやり方を意味します。例：He prefers old-school methods of teaching. (彼は昔ながらの教育方法を好む。)"
+    },
+    {
+      "id": 59,
+      "value": "swatting at",
+      "options": [
+        "褒める",
+        "叩く",
+        "無視する",
+        "応援する"
+      ],
+      "correctAnswer": "叩く",
+      "explanation": "「swat at」は、手や物を使って何かを叩く、または払いのけるという意味です。特にハエや蚊などを追い払う際によく使われます。例：He was swatting at the mosquitoes all night. (彼は一晩中蚊を叩いていた。)"
+    },
+    {
+      "id": 60,
+      "value": "take in",
+      "options": [
+        "理解する",
+        "取り入れる",
+        "見に行く",
+        "だます"
+      ],
+      "correctAnswer": "見に行く",
+      "explanation": "「take in」は、映画やショー、景色などを見に行く、鑑賞するという意味です。娯楽や文化的な活動に参加する際に使われます。例：We decided to take in a movie on Friday night. (私たちは金曜日の夜に映画を見に行くことにした。)"
+    },
+    {
+      "id": 61,
+      "value": "prizefight",
+      "options": [
+        "宝くじ",
+        "ボクシングの試合",
+        "料理コンテスト",
+        "クイズ大会"
+      ],
+      "correctAnswer": "ボクシングの試合",
+      "explanation": "「prizefight」は、賞金のかかったボクシングの試合のことです。プロの試合を指すことが多いです。例：They watched the prizefight on TV. (彼らはテレビでボクシングの試合を見た。)"
+    },
+    {
+      "id": 62,
+      "value": "obsessed with",
+      "options": [
+        "無関心",
+        "夢中になっている",
+        "嫌悪している",
+        "飽きている"
+      ],
+      "correctAnswer": "夢中になっている",
+      "explanation": "「obsessed with」は、何かに非常に夢中になっている、または執着している状態を表します。対象に対する強い関心や関与を示します。例：She's obsessed with Korean dramas these days. (彼女は最近、韓国ドラマに夢中になっている。)"
+    },
+    {
+      "id": 63,
+      "value": "intercourse",
+      "options": [
+        "会話",
+        "性行為",
+        "会議",
+        "取引"
+      ],
+      "correctAnswer": "性行為",
+      "explanation": "「intercourse」は、性行為を意味するフォーマルな言葉です。日常会話ではあまり使われません。例：The book discusses the social implications of sexual intercourse. (その本は性行為の社会的な意味について議論している。)"
+    },
+    {
+      "id": 64,
+      "value": "playing games",
+      "options": [
+        "ゲームをする",
+        "駆け引きをする",
+        "スポーツをする",
+        "音楽を演奏する"
+      ],
+      "correctAnswer": "駆け引きをする",
+      "explanation": "「playing games」は、人間関係において相手を操ったり、意図的に誤解させたりする行為を指します。正直に向き合わず、策略を用いることを意味します。例：Stop playing games and tell me what you really want. (駆け引きはやめて、本当に欲しいものを教えて。)"
+    },
+    {
+      "id": 65,
+      "value": "get back",
+      "options": [
+        "取り戻す",
+        "返す",
+        "忘れる",
+        "あきらめる"
+      ],
+      "correctAnswer": "取り戻す",
+      "explanation": "「get back」は、失ったものや関係を取り戻すという意味です。特に恋愛関係において、別れた相手と復縁する際に使われます。例：I want to get her back. (彼女を取り戻したい。)"
+    },
+    {
+      "id": 66,
+      "value": "going out with",
+      "options": [
+        "出かける",
+        "付き合っている",
+        "遊んでいる",
+        "旅行している"
+      ],
+      "correctAnswer": "付き合っている",
+      "explanation": "「going out with」は、誰かと恋愛関係にある、つまり付き合っているという意味です。デートを重ねている状態を指します。例：Are you going out with him? (彼と付き合っているの？)"
+    },
+    {
+      "id": 67,
+      "value": "regretted",
+      "options": [
+        "喜んだ",
+        "後悔した",
+        "忘れた",
+        "期待した"
+      ],
+      "correctAnswer": "後悔した",
+      "explanation": "「regretted」は、過去の行動や決断を後悔するという意味です。やり直せないことに対する残念な気持ちを表します。例：I regretted not telling him how I felt. (彼に気持ちを伝えなかったことを後悔した。)"
+    },
+    {
+      "id": 68,
+      "value": "baffling",
+      "options": [
+        "簡単な",
+        "困惑させる",
+        "面白い",
+        "退屈な"
+      ],
+      "correctAnswer": "困惑させる",
+      "explanation": "「baffling」は、理解するのが非常に難しい、または困惑させるという意味です。原因や理由が分からず、混乱するような状況を表します。例：The instructions were so baffling that no one could understand them. (説明書があまりにも難解で、誰も理解できなかった。)"
+    },
+    {
+      "id": 69,
+      "value": "dalliance",
+      "options": [
+        "真剣な交際",
+        "浮気",
+        "友情",
+        "仕事"
+      ],
+      "correctAnswer": "浮気",
+      "explanation": "「dalliance」は、軽い恋愛関係や浮気を指す言葉です。真剣な交際ではなく、一時的な関係であることが多いです。例：Their summer dalliance ended when she moved to another city. (彼女が別の街に引っ越したとき、彼らの夏の浮気は終わった。)"
+    },
+    {
+      "id": 70,
+      "value": "tramp",
+      "options": [
+        "正直者",
+        "だらしない女",
+        "紳士",
+        "子供"
+      ],
+      "correctAnswer": "だらしない女",
+      "explanation": "「tramp」は、性的にだらしない女性を指す侮蔑的な言葉です。非常に否定的な意味合いを持ちます。例：He called her a tramp. (彼は彼女をだらしない女と呼んだ。)"
+    },
+    {
+      "id": 71,
+      "value": "strap on a pair",
+      "options": [
+        "靴を履く",
+        "勇気を出す",
+        "手袋をつける",
+        "帽子をかぶる"
+      ],
+      "correctAnswer": "勇気を出す",
+      "explanation": "「strap on a pair」は、勇気を出す、大胆になるという意味の口語的な表現です。困難な状況に立ち向かう際に使われます。例：You need to strap on a pair and tell him how you feel. (勇気を出して、彼に気持ちを伝えるべきだ。)"
+    },
+    {
+      "id": 72,
+      "value": "come on in",
+      "options": [
+        "入ってきて",
+        "出て行って",
+        "座って",
+        "立って"
+      ],
+      "correctAnswer": "入ってきて",
+      "explanation": "「Come on in」は、「入ってきて」という意味で、人を家や部屋に招き入れる際に使われる表現です。親しい間柄でよく使われます。例：\"Come on in! It's great to see you.\" （「入ってきて！会えて嬉しいよ。」）"
+    },
+    {
+      "id": 73,
+      "value": "what's up",
+      "options": [
+        "どうしたの",
+        "元気ですか",
+        "さようなら",
+        "おはよう"
+      ],
+      "correctAnswer": "どうしたの",
+      "explanation": "「What's up」は、挨拶として「どうしたの」「何かあったの」という意味で使われます。また、「元気ですか」というニュアンスで使われることもあります。例：A: \"Hey, what's up?\" B: \"Not much, just hanging out.\" （A: 「やあ、どうしたの？」 B: 「別に、ただぶらぶらしてるだけだよ。」）"
+    },
+    {
+      "id": 74,
+      "value": "dining",
+      "options": [
+        "食事",
+        "踊り",
+        "ゲーム",
+        "映画"
+      ],
+      "correctAnswer": "食事",
+      "explanation": "「Dining」は、食事をすること、または食事をする場所（レストランなど）を指します。特にフォーマルな場面や、特別な食事体験を指すことが多いです。例：We enjoyed a fine dining experience at the new restaurant. （私たちはその新しいレストランで素晴らしい食事体験を楽しみました。）"
+    },
+    {
+      "id": 75,
+      "value": "dancing",
+      "options": [
+        "食事",
+        "踊り",
+        "ゲーム",
+        "映画"
+      ],
+      "correctAnswer": "踊り",
+      "explanation": "「Dancing」は、音楽に合わせて体を動かすこと、またはダンスをすることです。社交的な活動や娯楽として楽しまれます。例：They spent the evening dancing at the club. （彼らはクラブで夜を踊って過ごしました。）"
+    },
+    {
+      "id": 76,
+      "value": "patronize",
+      "options": [
+        "侮辱する",
+        "支持する",
+        "保護する",
+        "励ます"
+      ],
+      "correctAnswer": "侮辱する",
+      "explanation": "「patronize」は、見下した態度で接する、恩着せがましく振る舞うという意味です。相手を軽んじているニュアンスを含みます。例：Please don't patronize me. (見下したような言い方はやめてください。)"
+    },
+    {
+      "id": 77,
+      "value": "repellent",
+      "options": [
+        "魅力的な",
+        "不快な",
+        "面白い",
+        "安全な"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「repellent」は、非常に不快な、反発を感じさせるという意味です。強い嫌悪感を伴う状況で使われます。例：The idea of eating insects is repellent to many people. (昆虫を食べるという考えは多くの人にとって不快である。)"
+    },
+    {
+      "id": 78,
+      "value": "parameters",
+      "options": [
+        "限界",
+        "設定",
+        "要約",
+        "詳細"
+      ],
+      "correctAnswer": "設定",
+      "explanation": "「parameters」は、範囲、限界、特性を定める要因、変数を意味します。ここでは、関係性の範囲や条件というニュアンスです。例：We need to define the parameters of the project. (プロジェクトの範囲を定める必要がある。)"
+    },
+    {
+      "id": 79,
+      "value": "alter the paradigm",
+      "options": [
+        "伝統を重んじる",
+        "古い形式を維持する",
+        "考え方を根本的に変える",
+        "現状を維持する"
+      ],
+      "correctAnswer": "考え方を根本的に変える",
+      "explanation": "「paradigm」は、認識や行動の典型的なパターン、枠組みを意味します。「alter the paradigm」は、その根本的な枠組みを変える、つまり考え方や行動様式を大きく変えることを意味します。"
+    },
+    {
+      "id": 80,
+      "value": "quadruple negative",
+      "options": [
+        "肯定的な表現",
+        "間接的な表現",
+        "二重否定",
+        "四重否定"
+      ],
+      "correctAnswer": "四重否定",
+      "explanation": "「quadruple negative」は、文法的に複雑で理解しにくい表現を指します。ここでは、Sheldonの言い回しが否定形を多用していることをAmyが指摘しています。"
+    },
+    {
+      "id": 81,
+      "value": "for your troubles",
+      "options": [
+        "お祝いに",
+        "慰めに",
+        "苦労料として",
+        "感謝のしるしに"
+      ],
+      "correctAnswer": "苦労料として",
+      "explanation": "「for your troubles」は、迷惑をかけたことに対するお詫びや、わずらわせたことへの謝礼として使われます。文字通りには「あなたの苦労に対して」という意味です。例：Here's a little something for your troubles. (ご迷惑をおかけしたので、これで何かお召し上がりください。)"
+    },
+    {
+      "id": 82,
+      "value": "seeing me to my door",
+      "options": [
+        "ドアで別れる",
+        "ドアまで見送る",
+        "ドアを修理する",
+        "ドアをノックする"
+      ],
+      "correctAnswer": "ドアまで見送る",
+      "explanation": "「see someone to the door」は、人を玄関まで見送るという意味です。相手への礼儀を示す行為です。例：Thank you for seeing me to the door. (ドアまで見送ってくれてありがとう。)"
+    },
+    {
+      "id": 83,
+      "value": "take the hint",
+      "options": [
+        "アドバイスを受け入れる",
+        "冗談を理解する",
+        "手掛かりを見つける",
+        "察する"
+      ],
+      "correctAnswer": "察する",
+      "explanation": "「take the hint」は、相手の遠回しな言い方や態度から意図を察する、空気を読むという意味です。直接的な言葉ではなく、間接的なサインを理解することを指します。例：He didn't take the hint and kept talking. (彼は察することができず、話し続けた。)"
+    },
+    {
+      "id": 84,
+      "value": "nagging",
+      "options": [
+        "応援",
+        "励まし",
+        "説得",
+        "小言"
+      ],
+      "correctAnswer": "小言",
+      "explanation": "「nagging」は、しつこく文句を言う、小言を言うという意味です。特に些細なことを繰り返し言う場合に用いられます。例：His constant nagging was getting on my nerves. (彼の絶え間ない小言にはうんざりしていた。)"
+    },
+    {
+      "id": 85,
+      "value": "binding covenant",
+      "options": [
+        "拘束力のない協定",
+        "秘密協定",
+        "拘束力のある契約",
+        "口約束"
+      ],
+      "correctAnswer": "拘束力のある契約",
+      "explanation": "「binding covenant」は、法的拘束力のある契約、約束を意味します。「covenant」は契約、誓約を意味するフォーマルな言葉です。例：The agreement was a binding covenant between the two companies. (その合意は両社間の拘束力のある契約であった。)"
+    },
+    {
+      "id": 86,
+      "value": "enumerates",
+      "options": [
+        "要約する",
+        "曖昧にする",
+        "列挙する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "列挙する",
+      "explanation": "「enumerate」は、一つ一つ数え上げる、列挙するという意味です。詳細なリストを示す際に使われます。例：The report enumerates the main problems. (その報告書は主な問題を列挙している。)"
+    },
+    {
+      "id": 87,
+      "value": "iterates",
+      "options": [
+        "繰り返す",
+        "否定する",
+        "無視する",
+        "省略する"
+      ],
+      "correctAnswer": "繰り返す",
+      "explanation": "「iterate」は、繰り返す、反復するという意味です。ここでは、契約書が権利と責任を繰り返し述べていることを表しています。例：The software iterates through the data. (そのソフトウェアはデータを繰り返し処理する。)"
+    },
+    {
+      "id": 88,
+      "value": "codifies",
+      "options": [
+        "無視する",
+        "体系化する",
+        "曖昧にする",
+        "複雑にする"
+      ],
+      "correctAnswer": "体系化する",
+      "explanation": "「codify」は、法律や規則などを体系化する、成文化するという意味です。明確な形に整理することを指します。例：The new law codifies existing practices. (新しい法律は既存の慣習を成文化する。)"
+    },
+    {
+      "id": 89,
+      "value": "mutual indemnification",
+      "options": [
+        "相互責任",
+        "一方的な責任",
+        "責任の放棄",
+        "相互補償"
+      ],
+      "correctAnswer": "相互補償",
+      "explanation": "「mutual indemnification」は、相互に損失を補償し合うことを意味します。契約において、一方の当事者が被った損害を他方が補償する条項です。例：The contract included a clause for mutual indemnification. (契約には相互補償の条項が含まれていた。)"
+    },
+    {
+      "id": 90,
+      "value": "perusing",
+      "options": [
+        "無視する",
+        "ざっと読む",
+        "拒否する",
+        "作成する"
+      ],
+      "correctAnswer": "ざっと読む",
+      "explanation": "「peruse」は、注意深く読むという意味もありますが、ここではざっと目を通すという意味合いです。例：He perused the document quickly. (彼はその書類をざっと読んだ。)"
+    },
+    {
+      "id": 91,
+      "value": "precipice",
+      "options": [
+        "頂上",
+        "崖っぷち",
+        "安全地帯",
+        "谷底"
+      ],
+      "correctAnswer": "崖っぷち",
+      "explanation": "「precipice」は、非常に険しい崖、絶壁を意味します。比喩的に、危険な状況や瀬戸際に立たされている状態を表すこともあります。例：The company was on the precipice of bankruptcy. (その会社は倒産の危機に瀕していた。)"
+    },
+    {
+      "id": 92,
+      "value": "ledge",
+      "options": [
+        "階段",
+        "狭い棚",
+        "広場",
+        "庭"
+      ],
+      "correctAnswer": "狭い棚",
+      "explanation": "「ledge」は、壁や岩などから突き出た狭い棚状の部分を意味します。ここでは、危険な場所の例として挙げられています。例：A bird was perched on the ledge. (鳥が棚に止まっていた。)"
+    },
+    {
+      "id": 93,
+      "value": "hearty handshake",
+      "options": [
+        "冷たい握手",
+        "形式的な握手",
+        "心からの握手",
+        "嫌々ながらの握手"
+      ],
+      "correctAnswer": "心からの握手",
+      "explanation": "「hearty handshake」は、心からの温かい握手を意味します。喜びや祝福、同意などを伝える際に用いられます。例：They exchanged hearty handshakes after the deal was finalized. (取引が完了した後、彼らは心からの握手を交わした。)"
+    },
+    {
+      "id": 94,
+      "value": "restrictive",
+      "options": [
+        "自由な",
+        "寛大な",
+        "制限的な",
+        "強制的な"
+      ],
+      "correctAnswer": "制限的な",
+      "explanation": "「restrictive」は、制限的な、制約が多いという意味です。自由を制限する規則や条件などを指します。例：The rules are too restrictive. (その規則は制限が多すぎる。)"
+    },
+    {
+      "id": 95,
+      "value": "retain a lawyer",
+      "options": [
+        "弁護士を解雇する",
+        "弁護士を雇う",
+        "弁護士になる",
+        "法律を学ぶ"
+      ],
+      "correctAnswer": "弁護士を雇う",
+      "explanation": "「retain a lawyer」は、弁護士を雇う、弁護士との顧問契約を結ぶという意味です。法的助言や代理を依頼することを指します。例：You should retain a lawyer to review the contract. (契約書を確認するために弁護士を雇うべきだ。)"
+    },
+    {
+      "id": 96,
+      "value": "limbo",
+      "options": [
+        "天国",
+        "リンボーダンス",
+        "地獄",
+        "忘却"
+      ],
+      "correctAnswer": "リンボーダンス",
+      "explanation": "「limbo」は、リンボーダンスという、バーの下を体を反らせてくぐるダンスのことです。また、不確定な状態や宙ぶらりんの状態を指すこともあります。例：The project is in limbo. (そのプロジェクトは宙ぶらりんの状態だ。)"
+    },
+    {
+      "id": 97,
+      "value": "bleary",
+      "options": [
+        "鮮明な",
+        "疲れた",
+        "活発な",
+        "冷静な"
+      ],
+      "correctAnswer": "疲れた",
+      "explanation": "「bleary」は、眠くてぼんやりした、かすんだという意味です。睡眠不足や疲労によって目がよく見えない状態を表します。例：She had bleary eyes from lack of sleep. (彼女は寝不足で目がかすんでいた。)"
+    },
+    {
+      "id": 98,
+      "value": "get on my nerves",
+      "options": [
+        "リラックスさせる",
+        "落ち着かせる",
+        "イライラさせる",
+        "感動させる"
+      ],
+      "correctAnswer": "イライラさせる",
+      "explanation": "「get on someone's nerves」は、人をイライラさせる、神経に障るという意味です。繰り返し起こる行動や言動に対して使われることが多いです。例：His constant complaining is getting on my nerves. (彼の絶え間ない不平にはうんざりする。)"
+    },
+    {
+      "id": 99,
+      "value": "get into",
+      "options": [
+        "出発する",
+        "到着する",
+        "乗り込む",
+        "侵入する"
+      ],
+      "correctAnswer": "侵入する",
+      "explanation": "「get into」は様々な意味がありますが、この場合は「（建物などに）入る、侵入する」という意味です。例文：How did you get into my apartment?(どうやって私の部屋に入ったの？)"
+    },
+    {
+      "id": 100,
+      "value": "Boo-boos and Ouchies",
+      "options": [
+        "ビジネス上の問題",
+        "深刻な病気",
+        "些細な怪我",
+        "大きな事故"
+      ],
+      "correctAnswer": "些細な怪我",
+      "explanation": "「Boo-boos and Ouchies」は、子供が使うような、軽い怪我や痛みに対する言葉です。「boo-boo」は、擦り傷や切り傷などを指す幼児語で、「ouchie」は、軽い痛みを表す幼児語です。"
+    }
+  ]
+}

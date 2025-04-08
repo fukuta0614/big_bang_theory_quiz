@@ -1,0 +1,1024 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "goatee",
+      "options": [
+        "あごひげ",
+        "口ひげ",
+        "もみあげ",
+        "頬ひげ"
+      ],
+      "correctAnswer": "あごひげ",
+      "explanation": "Goateeは、あごだけに生やしたひげのことです。口ひげとつなげないスタイルを指します。Van Dyke（ヴァン・ダイク）は、口ひげとあごひげがあり、それぞれが独立しているスタイルを指します。"
+    },
+    {
+      "id": 2,
+      "value": "Van Dyke",
+      "options": [
+        "もみあげ",
+        "あごひげと口ひげを組み合わせたスタイル",
+        "頬ひげ",
+        "顎全体を覆うひげ"
+      ],
+      "correctAnswer": "あごひげと口ひげを組み合わせたスタイル",
+      "explanation": "Van Dykeは、口ひげとあごひげがあり、それぞれが独立しているスタイルを指します。17世紀のフランドルの画家、アンソニー・ヴァン・ダイクにちなんで名づけられました。"
+    },
+    {
+      "id": 3,
+      "value": "moo-stache",
+      "options": [
+        "牛のひげ",
+        "面白い口ひげの言い方",
+        "外国訛りの口ひげ",
+        "子供の口ひげ"
+      ],
+      "correctAnswer": "面白い口ひげの言い方",
+      "explanation": "Moo-stacheは、mustache（口ひげ）を面白おかしく発音した言葉です。Rajがインド訛りでmustacheと言うのをからかうために使われています。"
+    },
+    {
+      "id": 4,
+      "value": "make fun of",
+      "options": [
+        "褒める",
+        "からかう",
+        "尊敬する",
+        "助ける"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "Make fun ofは、人や物をからかう、嘲笑するという意味のイディオムです。相手を面白おかしく扱う場合もあれば、悪意を持って嘲る場合もあります。"
+    },
+    {
+      "id": 5,
+      "value": "grown men",
+      "options": [
+        "成長した女性",
+        "大人の男性",
+        "子供",
+        "若いカップル"
+      ],
+      "correctAnswer": "大人の男性",
+      "explanation": "Grown menは、成人した男性を指します。ここでは、子供っぽい行動をしている男性たちを指して、Bernadetteが使っています。"
+    },
+    {
+      "id": 6,
+      "value": "on purpose",
+      "options": [
+        "偶然に",
+        "間違いで",
+        "意図的に",
+        "無意識に"
+      ],
+      "correctAnswer": "意図的に",
+      "explanation": "On purposeは、意図的に、わざとという意味です。ある行動や発言が計画的であったことを強調する際に使われます。"
+    },
+    {
+      "id": 7,
+      "value": "assuming",
+      "options": [
+        "提案する",
+        "仮定する",
+        "質問する",
+        "反論する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "Assumeは、根拠なしに何かを事実だと仮定する、推測するという意味です。ここでは、Pennyがオーディションに落ちたことをLeonardが勝手に決めつけている状況を指しています。"
+    },
+    {
+      "id": 8,
+      "value": "How about",
+      "options": [
+        "どうして",
+        "〜について",
+        "〜はいかが",
+        "〜の代わりに"
+      ],
+      "correctAnswer": "〜はいかが",
+      "explanation": "How aboutは、提案や勧誘をする際に使われる表現です。「〜はいかがですか」「〜しませんか」といった意味合いを持ちます。ここでは、Pennyがオーディションの結果を尋ねるように提案しています。"
+    },
+    {
+      "id": 9,
+      "value": "thought about",
+      "options": [
+        "考えなかった",
+        "無視した",
+        "考えた",
+        "忘れた"
+      ],
+      "correctAnswer": "考えた",
+      "explanation": "Think aboutは、〜について考えるという意味です。Have you ever thought about ~?で、〜について考えたことはありますか？という定番の言い方になります。"
+    },
+    {
+      "id": 10,
+      "value": "running to",
+      "options": [
+        "反対する",
+        "無視する",
+        "賛成する",
+        "急いで〜する"
+      ],
+      "correctAnswer": "急いで〜する",
+      "explanation": "Run toは、〜へ走るという意味ですが、ここでは比喩的に、〜に賛成する、〜を支持するという意味合いで使われています。Rajが、Pennyが来た途端に皆がIKEAに走り出すかのように言うことで、皮肉を込めています。"
+    },
+    {
+      "id": 11,
+      "value": "terrible idea",
+      "options": [
+        "素晴らしい考え",
+        "良い考え",
+        "悪い考え",
+        "普通な考え"
+      ],
+      "correctAnswer": "悪い考え",
+      "explanation": "Terrible ideaは、ひどい考え、悪い考えという意味です。ここでは、Leonardがダイニングテーブルを買うことはそれほど悪い考えではないと言っています。"
+    },
+    {
+      "id": 12,
+      "value": "Chaos theory",
+      "options": [
+        "ビッグバン理論",
+        "ひも理論",
+        "カオス理論",
+        "相対性理論"
+      ],
+      "correctAnswer": "カオス理論",
+      "explanation": "カオス理論は、複雑なシステムの予測不可能性を扱う理論です。初期条件のわずかな変化が、結果に大きな影響を与えるというバタフライ効果が有名です。Sheldonは、ダイニングテーブルを買うことが予期せぬ事態を引き起こす可能性があると主張するために、この理論を持ち出しています。"
+    },
+    {
+      "id": 13,
+      "value": "deterministic system",
+      "options": [
+        "決定論的システム",
+        "ランダムなシステム",
+        "複雑なシステム",
+        "単純なシステム"
+      ],
+      "correctAnswer": "決定論的システム",
+      "explanation": "決定論的システムとは、初期条件が完全に分かれば、将来の状態を一意に予測できるシステムのことです。カオス理論では、このようなシステムでも、初期条件のわずかな変化が予測不可能な結果をもたらす可能性があるとされます。"
+    },
+    {
+      "id": 14,
+      "value": "cataclysmic",
+      "options": [
+        "穏やかな",
+        "悲惨な",
+        "予測可能な",
+        "幸福な"
+      ],
+      "correctAnswer": "悲惨な",
+      "explanation": "Cataclysmicは、大災害のような、破滅的なという意味です。ここでは、ダイニングテーブルを買うことが、予期せぬ大惨事を引き起こす可能性があるというSheldonの懸念を表しています。"
+    },
+    {
+      "id": 15,
+      "value": "Translation",
+      "options": [
+        "翻訳",
+        "要約",
+        "解説",
+        "説明"
+      ],
+      "correctAnswer": "解説",
+      "explanation": "Translationは、ここでは比喩的に、難しい言葉や概念を分かりやすく説明してほしいという意味で使われています。PennyがSheldonの複雑な説明を理解できなかったため、Leonardに簡単な解説を求めています。"
+    },
+    {
+      "id": 16,
+      "value": "Falling back in love with",
+      "options": [
+        "〜を嫌いになる",
+        "〜を思い出す",
+        "〜を再び愛する",
+        "〜を無視する"
+      ],
+      "correctAnswer": "〜を再び愛する",
+      "explanation": "Fall back in love withは、一度は離れたものや忘れていたものを再び愛するようになるという意味です。ここでは、SheldonがWindows 98を再び使い始めたことを表現しています。"
+    },
+    {
+      "id": 17,
+      "value": "Get rid of",
+      "options": [
+        "〜を手に入れる",
+        "〜を改善する",
+        "〜を処分する",
+        "〜を修理する"
+      ],
+      "correctAnswer": "〜を処分する",
+      "explanation": "Get rid ofは、不要なものや邪魔なものを処分する、取り除くという意味です。ここでは、Leonardが古いデスクを処分しようとしている状況を表しています。"
+    },
+    {
+      "id": 18,
+      "value": "Think of me as",
+      "options": [
+        "私のことを忘れて",
+        "私のことを考えて",
+        "私を〜だと思って",
+        "私を無視して"
+      ],
+      "correctAnswer": "私を〜だと思って",
+      "explanation": "Think of me asは、自分のことを〜だと思ってくださいという意味です。ここでは、Sheldonが自分を「銀河ヒッチハイク・ガイド」のアーサー・デントになぞらえています。"
+    },
+    {
+      "id": 19,
+      "value": "Recall",
+      "options": [
+        "忘れる",
+        "思い出す",
+        "記録する",
+        "否定する"
+      ],
+      "correctAnswer": "思い出す",
+      "explanation": "Recallは、思い出す、記憶するという意味です。ここでは、Leonardが「銀河ヒッチハイク・ガイド」の物語の内容をSheldonに思い出させています。"
+    },
+    {
+      "id": 20,
+      "value": "Worth it",
+      "options": [
+        "価値がない",
+        "価値がある",
+        "関係ない",
+        "無意味"
+      ],
+      "correctAnswer": "価値がある",
+      "explanation": "Worth itは、それだけの価値がある、それに見合うという意味です。ここでは、ダイニングテーブルを巡って口論する価値があるかどうかをSheldonがLeonardに問いかけています。"
+    },
+    {
+      "id": 21,
+      "value": "Nary",
+      "options": [
+        "いつも",
+        "ほとんど",
+        "少しも〜ない",
+        "たくさん"
+      ],
+      "correctAnswer": "少しも〜ない",
+      "explanation": "Naryは、古風な言い方で、not a（not any）という意味です。ここでは、Sheldonが「nary an argument（少しも議論がなかった）」と言っています。"
+    },
+    {
+      "id": 22,
+      "value": "At each other's throats",
+      "options": [
+        "仲良くする",
+        "協力する",
+        "激しく争う",
+        "無視する"
+      ],
+      "correctAnswer": "激しく争う",
+      "explanation": "At each other's throatsは、激しく争う、ののしり合うという意味のイディオムです。ここでは、ダイニングテーブルのことでLeonardとSheldonが激しく対立している状況を表しています。"
+    },
+    {
+      "id": 23,
+      "value": "In touch",
+      "options": [
+        "連絡を取らない",
+        "連絡を取り合う",
+        "邪魔する",
+        "無視する"
+      ],
+      "correctAnswer": "連絡を取り合う",
+      "explanation": "Be in touchは、連絡を取り合うという意味です。ここでは、ハワードが電話で連絡すると言っています。"
+    },
+    {
+      "id": 24,
+      "value": "Like a muggle",
+      "options": [
+        "魔法使いのように",
+        "普通の人",
+        "超能力者のように",
+        "動物のように"
+      ],
+      "correctAnswer": "普通の人",
+      "explanation": "Muggleは、ハリー・ポッターシリーズに出てくる、魔法を使えない普通の人のことです。ここでは、ハワードが魔法の杖型リモコンを使ってテレビを見ることを、魔法使いのように表現しています。"
+    },
+    {
+      "id": 25,
+      "value": "Channelis changeroni",
+      "options": [
+        "魔法の呪文",
+        "イタリア語",
+        "無意味な言葉",
+        "造語"
+      ],
+      "correctAnswer": "造語",
+      "explanation": "Rajが魔法の呪文のように適当に作った言葉です。Channelとchangerの語尾にイタリア語っぽいoniをつけています。"
+    },
+    {
+      "id": 26,
+      "value": "look in on",
+      "options": [
+        "見下す",
+        "手伝う",
+        "訪ねる",
+        "無視する"
+      ],
+      "correctAnswer": "訪ねる",
+      "explanation": "「look in on」は、短時間訪問する、様子を見に行くという意味です。誰かが元気かどうか、安全かどうかを確認する際によく使われます。\n\n例：I'll look in on my grandmother this evening to make sure she's okay. (今晩、祖母の様子を見に行って、元気かどうか確認します。)"
+    },
+    {
+      "id": 27,
+      "value": "reclaimed wood",
+      "options": [
+        "新しい木材",
+        "再利用された木材",
+        "加工された木材",
+        "特別な木材"
+      ],
+      "correctAnswer": "再利用された木材",
+      "explanation": "「reclaimed wood」は、古い建物や家具などから回収され、再利用される木材のことです。環境保護の観点から注目されています。\n\n例：The table is made from reclaimed wood, giving it a unique and rustic look. (そのテーブルは再利用された木材で作られており、独特で素朴な外観を与えています。)"
+    },
+    {
+      "id": 28,
+      "value": "melon baller",
+      "options": [
+        "メロンを切る道具",
+        "メロンをくり抜く道具",
+        "メロンを飾る道具",
+        "メロンを冷やす道具"
+      ],
+      "correctAnswer": "メロンをくり抜く道具",
+      "explanation": "「melon baller」は、メロンなどの果実を球状にくり抜くための道具です。料理の盛り付けなどに使われます。\n\n例：She used a melon baller to create small, round balls of watermelon for the fruit salad. (彼女はメロンボーラーを使って、フルーツサラダのために小さくて丸いスイカのボールを作りました。)"
+    },
+    {
+      "id": 29,
+      "value": "boss you around",
+      "options": [
+        "助ける",
+        "困らせる",
+        "指図する",
+        "無視する"
+      ],
+      "correctAnswer": "指図する",
+      "explanation": "「boss someone around」は、人に指図したり、命令したり、支配的な態度をとるという意味です。しばしば、相手が不快に感じるようなニュアンスを含みます。\n\n例：He doesn't like it when his manager bosses him around. (彼はマネージャーに指図されるのが好きではありません。)"
+    },
+    {
+      "id": 30,
+      "value": "stuck with",
+      "options": [
+        "解放される",
+        "満足する",
+        "我慢する",
+        "選ぶ"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「be stuck with」は、望まないものや状況から抜け出せず、仕方なくそれを受け入れなければならない状況を表します。\n\n例：I was stuck with cleaning up after the party. (パーティーの後片付けをしなければならなかった。)"
+    },
+    {
+      "id": 31,
+      "value": "Damn right",
+      "options": [
+        "その通り",
+        "間違っている",
+        "知らない",
+        "関係ない"
+      ],
+      "correctAnswer": "その通り",
+      "explanation": "「Damn right」は、非常に強い同意や肯定を表す口語的な表現です。確信や強調のニュアンスが含まれます。\n\n例：Is this the best pizza in town? - Damn right it is! (これが町で一番美味しいピザですか？ - その通りです！)"
+    },
+    {
+      "id": 32,
+      "value": "take-backs",
+      "options": [
+        "返品",
+        "言い訳",
+        "取り消し",
+        "後悔"
+      ],
+      "correctAnswer": "取り消し",
+      "explanation": "「take-backs」は、約束や合意などを取り消すこと、または取り消しを許可しないことを意味します。\n\n例：Once you make a decision, there are no take-backs. (一度決定したら、取り消しはできません。)"
+    },
+    {
+      "id": 33,
+      "value": "confused with",
+      "options": [
+        "比較する",
+        "理解する",
+        "混同する",
+        "共有する"
+      ],
+      "correctAnswer": "混同する",
+      "explanation": "「confuse A with B」は、AとBを混同するという意味です。誤って認識したり、区別がつかなかったりする状況を表します。\n\n例：I often confuse him with his twin brother. (彼と双子の兄弟をよく混同します。)"
+    },
+    {
+      "id": 34,
+      "value": "give it a fair shot",
+      "options": [
+        "無視する",
+        "試してみる",
+        "諦める",
+        "評価する"
+      ],
+      "correctAnswer": "試してみる",
+      "explanation": "「give something a fair shot」は、何かに公平な機会を与える、試してみるという意味です。成功するかどうかは別として、一度は真剣に取り組むことを意味します。\n\n例：I don't think I'll like it, but I'll give it a fair shot. (気に入るかどうか分からないけど、試してみます。)"
+    },
+    {
+      "id": 35,
+      "value": "ridiculous",
+      "options": [
+        "素晴らしい",
+        "ばかげた",
+        "普通",
+        "重要"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「ridiculous」は、ばかげている、滑稽である、道理に合わないという意味です。非常に非論理的または不合理な状況を指します。\n\n例：That's a ridiculous idea. (それはばかげたアイデアです。)"
+    },
+    {
+      "id": 36,
+      "value": "take one for the team",
+      "options": [
+        "チームを組む",
+        "チームを休む",
+        "チームのために犠牲になる",
+        "チームから離れる"
+      ],
+      "correctAnswer": "チームのために犠牲になる",
+      "explanation": "「take one for the team」は、チームやグループのために、自分が不利益を被る、または困難な役割を引き受けるという意味です。協調性や献身性を示す表現です。\n\n例：I'll take the blame for the mistake to protect the others; I'll take one for the team. (他の人を守るために、私がそのミスの責任を取ります。チームのために犠牲になります。)"
+    },
+    {
+      "id": 37,
+      "value": "newfangled",
+      "options": [
+        "古い",
+        "最新の",
+        "使い慣れた",
+        "シンプルな"
+      ],
+      "correctAnswer": "最新の",
+      "explanation": "「newfangled」は、最新の、新式のという意味です。しばしば、それが新しいものであるために疑念や抵抗感があるというニュアンスを含みます。\n\n例：He doesn't trust these newfangled gadgets. (彼はこれらの最新の機器を信用していません。)"
+    },
+    {
+      "id": 38,
+      "value": "fancy genitals",
+      "options": [
+        "普通の性器",
+        "高価な性器",
+        "想像上の性器",
+        "魅力的な性器"
+      ],
+      "correctAnswer": "魅力的な性器",
+      "explanation": "このフレーズは、文字通りには「魅力的な性器」という意味ですが、ここではペニーの女性としての魅力をSheldonが皮肉っぽく表現するために使われています。性的な意味合いよりも、ペニーの影響力を揶揄する意図が強いです。\n\n例：(文脈依存のため、具体的な例は割愛します。)"
+    },
+    {
+      "id": 39,
+      "value": "made out",
+      "options": [
+        "喧嘩した",
+        "仲直りした",
+        "デートした",
+        "キスをした"
+      ],
+      "correctAnswer": "キスをした",
+      "explanation": "「make out」は、キスをする、いちゃつくという意味です。しばしば、情熱的なキスや軽い性的接触を含むニュアンスがあります。\n\n例：They were making out in the back of the movie theater. (彼らは映画館の後ろでキスをしていた。)"
+    },
+    {
+      "id": 40,
+      "value": "impact on",
+      "options": [
+        "影響を与える",
+        "無視する",
+        "依存する",
+        "反発する"
+      ],
+      "correctAnswer": "影響を与える",
+      "explanation": "「have an impact on」は、〜に影響を与えるという意味です。良い影響にも悪い影響にも使えます。\n\n例：The new policy will have a significant impact on the environment. (新しい政策は環境に大きな影響を与えるでしょう。)"
+    },
+    {
+      "id": 41,
+      "value": "without realizing it",
+      "options": [
+        "理解した上で",
+        "理解せずに",
+        "反対して",
+        "同意して"
+      ],
+      "correctAnswer": "理解せずに",
+      "explanation": "「without realizing it」は、気づかないうちに、知らないうちにという意味です。意図せずに何かが起こった状況を表します。\n\n例：Without realizing it, I had eaten the whole cake. (気づかないうちに、ケーキを全部食べてしまっていた。)"
+    },
+    {
+      "id": 42,
+      "value": "alter",
+      "options": [
+        "維持する",
+        "変更する",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "変更する",
+      "explanation": "「alter」は、何かを変更する、修正するという意味です。しばしば、わずかな変更や調整を指します。\n\n例：She altered the dress to fit her perfectly. (彼女はドレスを完璧にフィットするように修正しました。)"
+    },
+    {
+      "id": 51,
+      "value": "boiling to death",
+      "options": [
+        "極度の興奮状態",
+        "死ぬほど退屈",
+        "徐々に悪化する状況",
+        "急速に改善する状況"
+      ],
+      "correctAnswer": "徐々に悪化する状況",
+      "explanation": "「boiling to death」は、徐々に悪化していく状況に気づかないうちに手遅れになるという意味です。カエルの寓話が由来で、水温が徐々に上がる鍋に入れられたカエルが、熱さに気づかず茹で上がってしまう様子を表しています。変化に気づきにくい状況や、緩やかな悪化に対して警告する際に用いられます。"
+    },
+    {
+      "id": 52,
+      "value": "heads-up",
+      "options": [
+        "秘密の計画",
+        "事前の警告",
+        "最終決定",
+        "新しいアイデア"
+      ],
+      "correctAnswer": "事前の警告",
+      "explanation": "「heads-up」は、人に何かを事前に知らせる、警告するという意味です。例えば、プロジェクトの遅延や変更、または予期せぬ問題が発生する可能性がある場合に、関係者に事前に伝えるために使われます。ビジネスシーンや日常会話で広く使われる表現です。"
+    },
+    {
+      "id": 53,
+      "value": "get right to the point",
+      "options": [
+        "遠回しに言う",
+        "核心に触れる",
+        "話をそらす",
+        "詳細に説明する"
+      ],
+      "correctAnswer": "核心に触れる",
+      "explanation": "「get right to the point」は、遠回しな言い方を避け、すぐに本題に入るという意味です。会議や議論などで、時間を節約するために、または相手に直接的に伝えたい場合に用いられます。ビジネスシーンでよく使われる表現です。"
+    },
+    {
+      "id": 54,
+      "value": "making more of a scene",
+      "options": [
+        "より多くの役割を演じる",
+        "騒ぎ立てる",
+        "注目を集める",
+        "感動的な場面を作る"
+      ],
+      "correctAnswer": "騒ぎ立てる",
+      "explanation": "「make a scene」は、公の場で騒ぎを起こしたり、不快な状況を作り出したりすることを意味します。感情的になって大声を出したり、他人を非難したりする行為を指します。「making more of a scene」は、さらに騒ぎを大きくすることを意味します。"
+    },
+    {
+      "id": 55,
+      "value": "moved on",
+      "options": [
+        "引っ越した",
+        "先に進んだ",
+        "配置換えになった",
+        "グレードアップした"
+      ],
+      "correctAnswer": "先に進んだ",
+      "explanation": "「move on」は、過去の出来事や関係を乗り越えて、新しい段階に進むという意味です。失恋や失敗、あるいは目標の達成後に、新しい目標に向かって進む状況などで使われます。精神的な成長や変化を伴うことが多いです。"
+    },
+    {
+      "id": 56,
+      "value": "sowing discord",
+      "options": [
+        "平和を築く",
+        "不和の種をまく",
+        "知識を広める",
+        "団結を促す"
+      ],
+      "correctAnswer": "不和の種をまく",
+      "explanation": "「sow discord」は、人々の間に不和や対立を引き起こす行為を指します。意図的に誤解を招く情報を流したり、仲間割れを誘ったりする状況で用いられます。しばしば、陰謀や策略と関連して使われる表現です。"
+    },
+    {
+      "id": 57,
+      "value": "stand by",
+      "options": [
+        "傍観する",
+        "支持する",
+        "反論する",
+        "無視する"
+      ],
+      "correctAnswer": "支持する",
+      "explanation": "「stand by」は、誰かを支持したり、助けたり、または特定の立場を維持したりすることを意味します。困難な状況や試練に直面している人を支える意志を示す際に用いられます。また、「stand by me」という形で、支えを求める表現としても使われます。"
+    },
+    {
+      "id": 58,
+      "value": "gave you such a hard time",
+      "options": [
+        "楽しい時間を与えた",
+        "苦労をかけた",
+        "簡単な問題を出した",
+        "良いアドバイスをした"
+      ],
+      "correctAnswer": "苦労をかけた",
+      "explanation": "「give someone a hard time」は、人に意地悪をしたり、からかったり、または困難な状況に追い込んだりすることを意味します。軽いいたずらから深刻な嫌がらせまで、幅広い状況で使用されます。謝罪の文脈で使われることが多いです。"
+    },
+    {
+      "id": 59,
+      "value": "at all",
+      "options": [
+        "少しも～ない",
+        "すべて",
+        "たくさん",
+        "ほとんど～ない"
+      ],
+      "correctAnswer": "少しも～ない",
+      "explanation": "「at all」は、否定的な文脈で使用され、「まったく～ない」「少しも～ない」という意味を強調します。疑問文で使用される場合は、驚きや疑念を表すことがあります。肯定文では、「どんなことがあっても」「ぜひとも」という意味合いで使われることもあります。"
+    },
+    {
+      "id": 60,
+      "value": "ruin it for him",
+      "options": [
+        "彼のために台無しにする",
+        "彼のために改善する",
+        "彼のために秘密にする",
+        "彼のために明らかにする"
+      ],
+      "correctAnswer": "彼のために台無しにする",
+      "explanation": "「ruin it for someone」は、人の楽しみや計画を台無しにするという意味です。特に、サプライズや楽しみなイベントを事前に明かしてしまう場合や、人の期待を裏切るような行為を指します。親しい間柄で使われることが多い表現です。"
+    },
+    {
+      "id": 61,
+      "value": "buzzkill",
+      "options": [
+        "盛り上げ役",
+        "興ざめな人",
+        "おしゃべりな人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "興ざめな人",
+      "explanation": "「buzzkill」は、楽しい雰囲気や興奮を冷ます人、または状況を指します。パーティーやイベントなどで、ネガティブな発言をしたり、場の雰囲気を壊したりする人を指すことが多いです。軽蔑的なニュアンスを含む言葉です。"
+    },
+    {
+      "id": 62,
+      "value": "point out",
+      "options": [
+        "指摘する",
+        "賛成する",
+        "無視する",
+        "秘密にする"
+      ],
+      "correctAnswer": "指摘する",
+      "explanation": "「point out」は、特定の事実や情報を示す、指摘するという意味です。相手に注意を促したり、誤解を解いたりするために使われます。客観的な視点から、重要な情報を提供する際に用いられることが多いです。"
+    },
+    {
+      "id": 63,
+      "value": "sick of",
+      "options": [
+        "恋をしている",
+        "うんざりしている",
+        "興味がある",
+        "満足している"
+      ],
+      "correctAnswer": "うんざりしている",
+      "explanation": "「sick of」は、何かに対してうんざりしている、飽き飽きしているという意味です。同じことの繰り返しや、不快な状況が続く場合に用いられます。感情的な不満や嫌悪感を表現する際に使われることが多いです。"
+    },
+    {
+      "id": 64,
+      "value": "Damn it",
+      "options": [
+        "ありがとう",
+        "やった",
+        "くそっ",
+        "おめでとう"
+      ],
+      "correctAnswer": "くそっ",
+      "explanation": "「Damn it」は、軽い苛立ちや不満、または失敗に対する後悔を表す感嘆詞です。フォーマルな場面では不適切ですが、親しい間柄では比較的よく使われます。同様の表現として「Damn」があります。"
+    },
+    {
+      "id": 65,
+      "value": "have a seat",
+      "options": [
+        "席を譲る",
+        "座る",
+        "立ち上がる",
+        "席を立つ"
+      ],
+      "correctAnswer": "座る",
+      "explanation": "「have a seat」は、人に座るように勧める丁寧な表現です。フォーマルな場面や、相手にリラックスしてほしい時に使われます。ビジネスシーンや接客業でよく用いられる表現です。"
+    },
+    {
+      "id": 66,
+      "value": "changed",
+      "options": [
+        "変わった",
+        "変化した",
+        "交換した",
+        "同じままである"
+      ],
+      "correctAnswer": "変わった",
+      "explanation": "「changed」は動詞changeの過去形で、何かが以前の状態から別の状態になったことを示します。人の性格、状況、物理的な状態など、様々なものに対して使われます。"
+    },
+    {
+      "id": 67,
+      "value": "affectionate",
+      "options": [
+        "愛情深い",
+        "怒りやすい",
+        "無関心な",
+        "控えめな"
+      ],
+      "correctAnswer": "愛情深い",
+      "explanation": "「affectionate」は、愛情や優しさを示す形容詞です。人や動物に対して温かい感情を持ち、それを表現する様子を表します。"
+    },
+    {
+      "id": 68,
+      "value": "open-minded",
+      "options": [
+        "心の広い",
+        "頑固な",
+        "閉鎖的な",
+        "批判的な"
+      ],
+      "correctAnswer": "心の広い",
+      "explanation": "「open-minded」は、新しいアイデアや意見に対して偏見を持たずに受け入れることができる性格を表す形容詞です。異なる視点や文化を尊重する姿勢を示します。"
+    },
+    {
+      "id": 69,
+      "value": "relieved",
+      "options": [
+        "安心した",
+        "緊張した",
+        "興奮した",
+        "落胆した"
+      ],
+      "correctAnswer": "安心した",
+      "explanation": "「relieved」は、心配や不安が解消されて安堵した気持ちを表す形容詞です。困難な状況や危険が過ぎ去った後に感じることが多い感情です。"
+    },
+    {
+      "id": 70,
+      "value": "dreadful",
+      "options": [
+        "恐ろしい",
+        "素晴らしい",
+        "普通の",
+        "楽しい"
+      ],
+      "correctAnswer": "恐ろしい",
+      "explanation": "「dreadful」は、非常に悪い、不快な、または恐ろしいという意味の形容詞です。品質が低い、または嫌な経験について説明するために使用されます。"
+    },
+    {
+      "id": 71,
+      "value": "manipulating",
+      "options": [
+        "操作する",
+        "支援する",
+        "無視する",
+        "信頼する"
+      ],
+      "correctAnswer": "操作する",
+      "explanation": "「manipulating」は、人を巧妙に操り、自分の利益のために行動させることを意味します。しばしば、欺瞞や策略を伴う否定的な行為として捉えられます。"
+    },
+    {
+      "id": 72,
+      "value": "cocky",
+      "options": [
+        "自信過剰な",
+        "謙虚な",
+        "内気な",
+        "慎重な"
+      ],
+      "correctAnswer": "自信過剰な",
+      "explanation": "「cocky」は、傲慢で自信過剰な態度を表す形容詞です。しばしば、他人を見下すような言動を伴うため、否定的なニュアンスで使用されます。"
+    },
+    {
+      "id": 73,
+      "value": "cherish",
+      "options": [
+        "大切にする",
+        "無視する",
+        "嫌う",
+        "利用する"
+      ],
+      "correctAnswer": "大切にする",
+      "explanation": "「cherish」は、人や物を非常に大切に思い、愛情を込めて扱うことを意味する動詞です。感謝や尊重の気持ちを込めて使用されます。"
+    },
+    {
+      "id": 74,
+      "value": "dynamic",
+      "options": [
+        "力関係",
+        "静的な",
+        "平凡な",
+        "退屈な"
+      ],
+      "correctAnswer": "力関係",
+      "explanation": "「dynamic」ここでは、関係性や状況における相互作用や変化の状態を指します。特に人間関係において、個人間の力や影響力の相互作用を示す際に用いられます。"
+    },
+    {
+      "id": 75,
+      "value": "nonsense",
+      "options": [
+        "ばかげたこと",
+        "真実",
+        "重要なこと",
+        "賢いこと"
+      ],
+      "correctAnswer": "ばかげたこと",
+      "explanation": "「nonsense」は、意味のないこと、ばかげたこと、または理にかなっていないことを指す名詞です。しばしば、不快感や軽蔑の気持ちを込めて使用されます。"
+    },
+    {
+      "id": 76,
+      "value": "the right stuff",
+      "options": [
+        "正しい道具",
+        "必要な能力",
+        "適切な場所",
+        "完璧なタイミング"
+      ],
+      "correctAnswer": "必要な能力",
+      "explanation": "「the right stuff」とは、困難な状況や危険な任務を遂行するために必要な資質、能力、勇気などを指すイディオムです。特に宇宙飛行士やパイロットなど、高度なスキルと精神力が求められる職業に関連して使われることが多いです。このフレーズは、トム・ウルフのノンフィクション小説『The Right Stuff』とその映画化によって広く知られるようになりました。\n\n例：He doesn't have the right stuff to be a leader. (彼にはリーダーになるための資質がない。)"
+    },
+    {
+      "id": 77,
+      "value": "traumatic",
+      "options": [
+        "感動的な",
+        "悲劇的な",
+        "外傷的な",
+        "喜劇的な"
+      ],
+      "correctAnswer": "外傷的な",
+      "explanation": "「traumatic」は、精神的な外傷を引き起こすような、非常にショックで苦痛な経験を指す形容詞です。深刻な事故、暴力、自然災害など、人の心に深い傷跡を残す出来事に対して用いられます。\n\n例：The car accident was a traumatic experience for her. (その自動車事故は彼女にとって外傷的な経験だった。)"
+    },
+    {
+      "id": 78,
+      "value": "analogy",
+      "options": [
+        "類似",
+        "相違",
+        "分析",
+        "総合"
+      ],
+      "correctAnswer": "類似",
+      "explanation": "「analogy」は、類似性に基づく推論や説明を指します。ある事柄を別の事柄に例えることで、理解を深めたり、複雑な概念を分かりやすく伝えたりする際に用いられます。効果的なアナロジーは、聞き手や読み手の共感を呼び、記憶に残りやすいという特徴があります。\n\n例：He drew an analogy between the human heart and a pump. (彼は人間の心臓とポンプの類似点を指摘した。)"
+    },
+    {
+      "id": 79,
+      "value": "joking around",
+      "options": [
+        "真剣に考える",
+        "冗談を言う",
+        "議論する",
+        "無視する"
+      ],
+      "correctAnswer": "冗談を言う",
+      "explanation": "「joking around」とは、冗談を言ったり、ふざけたりする行為を指す口語表現です。深刻な状況を和ませたり、親しい間柄でのコミュニケーションを円滑にしたりする目的で用いられます。ただし、状況によっては不適切とみなされる場合もあります。\n\n例：We were just joking around, don't take it so seriously. (私たちはただ冗談を言っていただけで、そんなに真剣に受け止めないで。)"
+    },
+    {
+      "id": 80,
+      "value": "picking on",
+      "options": [
+        "選ぶ",
+        "からかう",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「pick on」は、人を繰り返しからかったり、いじめたりする行為を指す句動詞です。特に、弱い立場の者を標的にして、言葉や態度で不快な思いをさせる場合に使われます。\n\n例：The older boys were always picking on him. (年上の男の子たちはいつも彼をからかっていた。)"
+    },
+    {
+      "id": 81,
+      "value": "zero gravity",
+      "options": [
+        "無重力",
+        "高重力",
+        "一定重力",
+        "変動重力"
+      ],
+      "correctAnswer": "無重力",
+      "explanation": "「zero gravity」とは、重力がほとんどまたは全く存在しない状態を指します。宇宙空間や、特定の条件下で人工的に作り出された環境で経験されます。無重力状態では、物体は自由に浮遊し、通常の地球上とは異なる物理現象が観察されます。\n\n例：Astronauts train in zero gravity to prepare for space missions. (宇宙飛行士は宇宙ミッションに備えて無重力状態で訓練する。)"
+    },
+    {
+      "id": 82,
+      "value": "insulted",
+      "options": [
+        "感動した",
+        "侮辱された",
+        "喜んだ",
+        "安心した"
+      ],
+      "correctAnswer": "侮辱された",
+      "explanation": "「insulted」は、侮辱された、名誉を傷つけられた、見下されたと感じる状態を表す形容詞です。相手の言葉や態度によって、自尊心や尊厳が傷つけられたときに用いられます。\n\n例：She felt insulted by his rude comments. (彼女は彼の無礼なコメントに侮辱されたと感じた。)"
+    },
+    {
+      "id": 83,
+      "value": "handle it",
+      "options": [
+        "処理する",
+        "無視する",
+        "楽しむ",
+        "避ける"
+      ],
+      "correctAnswer": "処理する",
+      "explanation": "「handle it」とは、問題や状況に対処する、管理する、乗り越えるという意味の句動詞です。困難な状況やプレッシャーのかかる状況で、適切に対応できる能力があるかどうかを問う文脈でよく使われます。\n\n例：He's under a lot of pressure, but I think he can handle it. (彼は大きなプレッシャーにさらされているが、彼はそれを乗り越えることができると思う。)"
+    },
+    {
+      "id": 84,
+      "value": "survival training",
+      "options": [
+        "サバイバル訓練",
+        "料理訓練",
+        "語学訓練",
+        "運動訓練"
+      ],
+      "correctAnswer": "サバイバル訓練",
+      "explanation": "「survival training」とは、厳しい環境下で生き残るために必要な知識や技術を習得するための訓練です。食料や水の確保、避難場所の建設、応急処置など、様々なスキルが含まれます。軍隊や冒険家、自然愛好家などが受けることが多いです。\n\n例：The soldiers underwent survival training in the jungle. (兵士たちはジャングルでサバイバル訓練を受けた。)"
+    },
+    {
+      "id": 85,
+      "value": "perfectly healthy",
+      "options": [
+        "非常に不健康",
+        "完璧に健康",
+        "少し不健康",
+        "病弱"
+      ],
+      "correctAnswer": "完璧に健康",
+      "explanation": "「perfectly healthy」とは、健康状態が完全に良好であることを意味します。病気や不調がなく、身体的にも精神的にも健康な状態を指します。医師の診断などで用いられることが多い表現です。\n\n例：The doctor said I'm perfectly healthy. (医者は私が完全に健康だと言った。)"
+    },
+    {
+      "id": 86,
+      "value": "off the charts",
+      "options": [
+        "記録に残らない",
+        "記録を大幅に超える",
+        "記録に匹敵する",
+        "記録を下回る"
+      ],
+      "correctAnswer": "記録を大幅に超える",
+      "explanation": "「off the charts」とは、通常考えられる範囲や基準を大幅に超えている状態を指すイディオムです。数値や評価が極端に高い、または低い場合に用いられます。良い意味でも悪い意味でも使われます。\n\n例：Her popularity is off the charts. (彼女の人気は記録を大幅に超えている。)\n例：The stress levels were off the charts during the project. (プロジェクト中のストレスレベルは異常に高かった。)"
+    },
+    {
+      "id": 87,
+      "value": "fudge the results",
+      "options": [
+        "結果を改ざんする",
+        "結果を無視する",
+        "結果を正確に報告する",
+        "結果を予測する"
+      ],
+      "correctAnswer": "結果を改ざんする",
+      "explanation": "「fudge the results」とは、結果をごまかしたり、不正に操作したりすることを意味します。データや数値を都合の良いように変更し、真実を隠蔽する行為を指します。倫理的に問題がある行為であり、非難されることがあります。\n\n例：They were accused of fudging the results of the experiment. (彼らは実験の結果を改ざんしたとして告発された。)"
+    },
+    {
+      "id": 88,
+      "value": "darned",
+      "options": [
+        "非常に",
+        "全く",
+        "少し",
+        "普通に"
+      ],
+      "correctAnswer": "非常に",
+      "explanation": "「darned」は、主にアメリカ英語で使われる婉曲的な表現で、「damned」の代わりに用いられます。強調の意味合いを持ち、「非常に」「とても」といった意味で使われます。しばしば、不快感や驚きを伴う感情を表す際に用いられます。\n\n例：That's a darned good idea. (それは非常に良いアイデアだ。)"
+    },
+    {
+      "id": 89,
+      "value": "under...",
+      "options": [
+        "制御下にある",
+        "無視されている",
+        "軽視されている",
+        "過大評価されている"
+      ],
+      "correctAnswer": "制御下にある",
+      "explanation": "「under」は、ここでは「under control」の一部として使われており、何かが管理され、制御されている状態を意味します。血圧などの健康状態が正常範囲内にあることを表現する際によく用いられます。\n\n例：We need to get the situation under control. (私たちは状況を制御下に置く必要があります。)"
+    },
+    {
+      "id": 90,
+      "value": "Drop it.",
+      "options": [
+        "忘れて",
+        "続けて",
+        "教えて",
+        "手伝って"
+      ],
+      "correctAnswer": "忘れて",
+      "explanation": "「Drop it」とは、話題や議論を打ち切る、もうそれ以上言わないでほしいという意味の口語表現です。不快な話題や解決の見込みのない議論を終わらせたいときに使われます。\n\n例：I don't want to talk about it, just drop it. (そのことについて話したくないから、もうやめて。)"
+    },
+    {
+      "id": 91,
+      "value": "anthropomorphize",
+      "options": [
+        "擬人化する",
+        "無視する",
+        "分析する",
+        "分類する"
+      ],
+      "correctAnswer": "擬人化する",
+      "explanation": "「anthropomorphize」とは、人間以外のもの（動物、物、自然現象など）に人間の特性や感情を atribuir する行為を指します。例えば、「太陽が笑っている」や「木が悲しんでいる」といった表現は擬人化の例です。文学やアニメーション、日常生活など、様々な場面で見られます。\n\n例：We shouldn't anthropomorphize our pets too much. (ペットを擬人化しすぎるべきではない。)"
+    },
+    {
+      "id": 92,
+      "value": "Stand up to",
+      "options": [
+        "立ち上がる",
+        "立ち向かう",
+        "見上げる",
+        "背を向ける"
+      ],
+      "correctAnswer": "立ち向かう",
+      "explanation": "「stand up to」は、人に立ち向かう、反抗する、勇敢に抵抗するという意味の句動詞です。権力や圧力に屈せず、自分の意見や信念を貫く姿勢を表します。いじめや不正に対して戦う場面などでよく使われます。\n\n例：You have to stand up to bullies. (いじめっ子には立ち向かわなければならない。)"
+    },
+    {
+      "id": 93,
+      "value": "Screw that!",
+      "options": [
+        "同意する",
+        "反対する",
+        "提案する",
+        "感謝する"
+      ],
+      "correctAnswer": "反対する",
+      "explanation": "「Screw that!」とは、強い不満や反対、拒絶を表す口語表現です。何かに対して非常に腹立たしい、または受け入れられないと感じたときに使われます。やや下品な表現なので、使用する場面には注意が必要です。\n\n例：I'm not doing that, screw that! (そんなことしない、ふざけるな！)"
+    }
+  ]
+}

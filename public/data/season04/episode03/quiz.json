@@ -1,0 +1,1108 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "postulate",
+      "options": [
+        "仮定する",
+        "否定する",
+        "証明する",
+        "提案する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "「postulate」は、何かが真実であると仮定して議論を進めることを意味します。科学や数学の分野でよく使われ、ある理論やモデルを構築する際の前提となる仮説を立てる際に用いられます。日常会話ではあまり使われません。\n\n例：Scientists postulate that there is water on Mars. (科学者たちは、火星に水が存在すると仮定している。)"
+    },
+    {
+      "id": 2,
+      "value": "brainteaser",
+      "options": [
+        "頭痛",
+        "難問",
+        "おしゃべり",
+        "昼寝"
+      ],
+      "correctAnswer": "難問",
+      "explanation": "「brainteaser」は、思考力を必要とする、面白くて難しい問題やパズルを指します。論理的思考や創造性を刺激するようなものが多く、娯楽として楽しまれます。\n\n例：This riddle is a real brainteaser. (このなぞなぞは本当に頭を悩ませる。)"
+    },
+    {
+      "id": 3,
+      "value": "overlord",
+      "options": [
+        "友人",
+        "支配者",
+        "隣人",
+        "従業員"
+      ],
+      "correctAnswer": "支配者",
+      "explanation": "「overlord」は、他の者に対して支配権を持つ者を指します。歴史的な文脈では、封建制度における領主や、ある地域を支配する強力な勢力を意味することがあります。比喩的には、絶対的な権力を持つ人を指すこともあります。\n\n例：The villagers were oppressed by the cruel overlord. (村人たちは残酷な支配者に抑圧されていた。)"
+    },
+    {
+      "id": 4,
+      "value": "namesake",
+      "options": [
+        "無名",
+        "同名",
+        "旧友",
+        "敵"
+      ],
+      "correctAnswer": "同名",
+      "explanation": "「namesake」は、同じ名前を持つ人や物を指します。ある名前が別の場所や物に付けられた理由が、人や場所を記念するためである場合に使われます。\n\n例：The restaurant is named after its founder, and his portrait hangs inside. The restaurant is his namesake.(そのレストランは創業者にちなんで名付けられ、彼の肖像画が中に飾られている。そのレストランは彼のネームセークだ。)"
+    },
+    {
+      "id": 5,
+      "value": "tantrum",
+      "options": [
+        "冗談",
+        "かんしゃく",
+        "静けさ",
+        "微笑み"
+      ],
+      "correctAnswer": "かんしゃく",
+      "explanation": "「tantrum」は、特に子供が激しい怒りや不満を表す時に見せる、かんしゃくやわがままを意味します。大人が感情を爆発させる状況でも使われることがあります。\n\n例：The child threw a tantrum when his mother wouldn't buy him candy. (その子供は母親がお菓子を買ってくれなかったので、かんしゃくを起こした。)"
+    },
+    {
+      "id": 6,
+      "value": "spoiler alert",
+      "options": [
+        "警告",
+        "ネタバレ注意",
+        "緊急事態",
+        "お祝い"
+      ],
+      "correctAnswer": "ネタバレ注意",
+      "explanation": "「spoiler alert」は、映画や本などの内容について、これから楽しむ人にとって重要な情報を事前に明かす可能性がある場合に用いられる警告です。ネタバレを避けるために使われます。\n\n例：Spoiler alert: The main character dies at the end of the movie. (ネタバレ注意：映画の最後に主人公が死ぬ。)"
+    },
+    {
+      "id": 7,
+      "value": "vulgar",
+      "options": [
+        "上品",
+        "下品",
+        "普通",
+        "秘密"
+      ],
+      "correctAnswer": "下品",
+      "explanation": "「vulgar」は、言葉や行動が下品で、他人を不快にさせる可能性があることを意味します。社会的に受け入れられない、または不適切と考えられるものを指します。\n\n例：His language was considered vulgar and offensive. (彼の言葉遣いは下品で不快だと考えられた。)"
+    },
+    {
+      "id": 8,
+      "value": "amalgamation",
+      "options": [
+        "分離",
+        "融合",
+        "破壊",
+        "創造"
+      ],
+      "correctAnswer": "融合",
+      "explanation": "「amalgamation」は、異なるものを混ぜ合わせて一つにすることを意味します。企業合併や、異なる文化の融合などを指すことがあります。\n\n例：The amalgamation of the two companies created a global powerhouse. (2つの会社の合併は、グローバルな大企業を生み出した。)"
+    },
+    {
+      "id": 9,
+      "value": "entropy",
+      "options": [
+        "秩序",
+        "無秩序",
+        "エネルギー",
+        "平和"
+      ],
+      "correctAnswer": "無秩序",
+      "explanation": "「entropy」は、物理学では系の無秩序さや乱雑さを表す概念ですが、一般的には物事が徐々に衰退していく傾向や、予測不可能になる状態を指します。\n\n例：The entropy of the universe is constantly increasing. (宇宙のエントロピーは常に増加している。)"
+    },
+    {
+      "id": 10,
+      "value": "decay",
+      "options": [
+        "成長",
+        "崩壊",
+        "安定",
+        "創造"
+      ],
+      "correctAnswer": "崩壊",
+      "explanation": "「decay」は、徐々に腐敗したり、劣化したり、弱まったりすることを意味します。物理的なものだけでなく、抽象的な概念にも使われます。\n\n例：The old building was in a state of decay. (その古い建物は荒廃した状態だった。)"
+    },
+    {
+      "id": 11,
+      "value": "navigate",
+      "options": [
+        "無視する",
+        "操縦する",
+        "隠蔽する",
+        "破壊する"
+      ],
+      "correctAnswer": "操縦する",
+      "explanation": "「navigate」は、文字通りには船や航空機を操縦して目的地に到達することを意味しますが、比喩的には困難な状況や複雑なシステムをうまく切り抜けることを指します。\n\n例：It can be tricky to navigate the complex world of international finance.(複雑な国際金融の世界を乗り切るのは難しい。)"
+    },
+    {
+      "id": 12,
+      "value": "labyrinth",
+      "options": [
+        "庭",
+        "迷路",
+        "広場",
+        "要塞"
+      ],
+      "correctAnswer": "迷路",
+      "explanation": "「labyrinth」は、複雑に入り組んだ迷路を意味します。比喩的には、複雑で理解しにくい状況や問題を指すことがあります。\n\n例：The city was a labyrinth of narrow streets and alleys. (その都市は狭い道や路地が入り組んだ迷路のようだった。)"
+    },
+    {
+      "id": 13,
+      "value": "nonsense",
+      "options": [
+        "常識",
+        "無意味",
+        "真実",
+        "知識"
+      ],
+      "correctAnswer": "無意味",
+      "explanation": "「nonsense」は、意味のないことや、ばかげたことを指します。論理や理性に反する考えや行動を指す場合にも使われます。\n\n例：What you're saying is complete nonsense. (あなたが言っていることは全くのナンセンスだ。)"
+    },
+    {
+      "id": 14,
+      "value": "establishment",
+      "options": [
+        "設立",
+        "施設",
+        "解体",
+        "改革"
+      ],
+      "correctAnswer": "施設",
+      "explanation": "「establishment」は、会社、組織、または施設を意味します。特に、ビジネスや公共サービスを提供する場所を指すことが多いです。\n\n例：This restaurant is a well-known establishment. (このレストランは有名な店だ。)"
+    },
+    {
+      "id": 15,
+      "value": "efficiently",
+      "options": [
+        "非効率に",
+        "効率的に",
+        "ゆっくりと",
+        "不正確に"
+      ],
+      "correctAnswer": "効率的に",
+      "explanation": "「efficiently」は、無駄なく、効果的に物事を進める様子を表します。時間や資源を最大限に活用して、目的を達成することを意味します。\n\n例：The new system allows us to work more efficiently. (新しいシステムのおかげで、私たちはより効率的に働けるようになった。)"
+    },
+    {
+      "id": 16,
+      "value": "lure",
+      "options": [
+        "守る",
+        "誘惑する",
+        "拒否する",
+        "解放する"
+      ],
+      "correctAnswer": "誘惑する",
+      "explanation": "「lure」は、魅力的なもので人を引きつけたり、誘惑したりすることを意味します。罠や誘い文句を使って、人を特定の場所や状況に誘導するイメージです。\n\n例：The promise of easy money lured him into the scam. (安易にお金が手に入るという約束が、彼を詐欺に誘い込んだ。)"
+    },
+    {
+      "id": 17,
+      "value": "bait and switch",
+      "options": [
+        "正直な取引",
+        "おとり商法",
+        "慈善活動",
+        "秘密交渉"
+      ],
+      "correctAnswer": "おとり商法",
+      "explanation": "「bait and switch」は、おとり商法という意味で、広告などで魅力的な条件を提示しておきながら、実際にはそれとは異なる商品やサービスを売りつける不正な販売手法を指します。\n\n例：The company was accused of using bait and switch tactics to attract customers. (その会社は、顧客を引きつけるためにおとり商法を使ったとして告発された。)"
+    },
+    {
+      "id": 26,
+      "value": "humdrum",
+      "options": [
+        "面白い",
+        "退屈な",
+        "刺激的な",
+        "感動的な"
+      ],
+      "correctAnswer": "退屈な",
+      "explanation": "「humdrum」は、単調で退屈な、ありふれた日常を表す形容詞です。特に変化がなく、面白みのない状況や活動を指す際に使われます。例文：He was tired of the humdrum routine of his job. (彼は仕事の単調な日課にうんざりしていた。)"
+    },
+    {
+      "id": 27,
+      "value": "curious as to",
+      "options": [
+        "興味がない",
+        "理解できない",
+        "不思議に思う",
+        "関係がない"
+      ],
+      "correctAnswer": "不思議に思う",
+      "explanation": "「curious as to」は、「～について疑問に思う」「～について知りたい」という意味を持つ表現です。「curious about」とほぼ同義ですが、よりフォーマルな印象を与えます。例文: I'm curious as to why he didn't come to the party. (彼がなぜパーティーに来なかったのか不思議に思っています。)"
+    },
+    {
+      "id": 28,
+      "value": "social glue",
+      "options": [
+        "社交辞令",
+        "社交的な接着剤",
+        "まとめ役",
+        "潤滑油"
+      ],
+      "correctAnswer": "まとめ役",
+      "explanation": "「social glue」は、グループやコミュニティをまとめる役割や要素を指す言葉です。人々を結びつけ、良好な関係を維持するために不可欠な存在や行動を意味します。例えば、共通の趣味、友好的な会話、協力などがsocial glueとなり得ます。例文: He is the social glue that keeps this team together. (彼こそがこのチームをまとめるまとめ役です。)"
+    },
+    {
+      "id": 29,
+      "value": "unsanitary",
+      "options": [
+        "不衛生な",
+        "健康的な",
+        "安全な",
+        "清潔な"
+      ],
+      "correctAnswer": "不衛生な",
+      "explanation": "「unsanitary」は、不衛生な、不潔な状態を指す形容詞です。健康に悪影響を及ぼす可能性のある環境や状態を表します。例文：The restaurant was shut down due to unsanitary conditions. (そのレストランは不衛生な状態のため閉鎖された。)"
+    },
+    {
+      "id": 30,
+      "value": "best fit",
+      "options": [
+        "最高の服",
+        "最適な人材",
+        "最良の選択",
+        "最適な場所"
+      ],
+      "correctAnswer": "最適な人材",
+      "explanation": "「best fit」は、ある特定の状況や役割に最も適した人や物を指す表現です。能力、性格、経験などが合致していることを意味します。例文: She is the best fit for this position because of her experience and skills. (彼女は経験とスキルから、このポジションに最適です。)"
+    },
+    {
+      "id": 31,
+      "value": "rebel alliance",
+      "options": [
+        "反乱同盟軍",
+        "秘密結社",
+        "テロリスト集団",
+        "政府軍"
+      ],
+      "correctAnswer": "反乱同盟軍",
+      "explanation": "ここでは映画スターウォーズに出てくる反乱軍のことです。比喩的に使われていて、既存の秩序やルールに反抗する人々の集まりを指すことがあります。例文: The students formed a rebel alliance to protest the school's new policies. (学生たちは学校の新しい方針に抗議するために反乱同盟軍を結成した。)"
+    },
+    {
+      "id": 32,
+      "value": "buck up",
+      "options": [
+        "諦める",
+        "元気づける",
+        "急ぐ",
+        "準備する"
+      ],
+      "correctAnswer": "元気づける",
+      "explanation": "「buck up」は、元気を出して、くよくよしないで、という意味を持つ口語的な表現です。困難な状況にある人を励ます際に使われます。例文: Buck up! Things will get better. (元気を出して！ きっと良くなるよ。)"
+    },
+    {
+      "id": 33,
+      "value": "judgmental",
+      "options": [
+        "批判的な",
+        "友好的な",
+        "寛容な",
+        "客観的な"
+      ],
+      "correctAnswer": "批判的な",
+      "explanation": "「judgmental」は、人を批判的に評価する、またはすぐに判断を下す傾向があることを意味する形容詞です。多くの場合、ネガティブな意味合いで使用されます。例文: Try not to be so judgmental of others. (他人をそんなに批判的に評価しないようにしてください。)"
+    },
+    {
+      "id": 34,
+      "value": "sanctimonious",
+      "options": [
+        "信心深い",
+        "偽善的な",
+        "正直な",
+        "謙虚な"
+      ],
+      "correctAnswer": "偽善的な",
+      "explanation": "「sanctimonious」は、道徳的に優れていると見せかける、または偽善的なという意味を持つ形容詞です。自分の行動や信念を他人に押し付けるようなニュアンスがあります。例文: He gave a sanctimonious speech about the importance of honesty. (彼は正直さの重要性について偽善的なスピーチをした。)"
+    },
+    {
+      "id": 35,
+      "value": "obnoxious",
+      "options": [
+        "楽しい",
+        "不快な",
+        "魅力的な",
+        "穏やかな"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「obnoxious」は、非常に不快で嫌な、または無礼なという意味を持つ形容詞です。人の行動や性格に対して使われることが多いです。例文: He was being loud and obnoxious at the party. (彼はパーティーで騒々しく不快な態度をとっていた。)"
+    },
+    {
+      "id": 36,
+      "value": "terminate",
+      "options": [
+        "開始する",
+        "継続する",
+        "終了する",
+        "改善する"
+      ],
+      "correctAnswer": "終了する",
+      "explanation": "「terminate」は、正式に終了させる、終結させるという意味を持つ動詞です。契約、関係、プロジェクトなど、様々な状況で使用されます。例文: The company decided to terminate his employment. (会社は彼の雇用を終了させることを決定した。)"
+    },
+    {
+      "id": 37,
+      "value": "caterwauling",
+      "options": [
+        "歌うこと",
+        "騒々しい叫び声",
+        "静かなささやき",
+        "美しい音楽"
+      ],
+      "correctAnswer": "騒々しい叫び声",
+      "explanation": "「caterwauling」は、猫のけんかのような騒々しい叫び声、下手な歌声などを指す言葉です。不快で耳障りな音を表す際に用いられます。例文: The caterwauling of the stray cats kept me awake all night. (野良猫の騒々しい叫び声で一晩中眠れなかった。)"
+    },
+    {
+      "id": 38,
+      "value": "spectacle",
+      "options": [
+        "光景",
+        "秘密",
+        "沈黙",
+        "孤独"
+      ],
+      "correctAnswer": "光景",
+      "explanation": "「spectacle」は、目を引く光景、見世物、または珍しい出来事を意味する名詞です。しばしば大規模で印象的なものを指します。例文: The fireworks display was a spectacular spectacle. (花火大会は壮観な光景だった。)"
+    },
+    {
+      "id": 39,
+      "value": "calloused",
+      "options": [
+        "柔らかい",
+        "滑らかな",
+        "硬くなった",
+        "傷ついた"
+      ],
+      "correctAnswer": "硬くなった",
+      "explanation": "「calloused」は、皮膚が硬くなった、たこになった状態を指す形容詞です。繰り返し摩擦や圧力を受けた結果、皮膚が厚く硬くなることを意味します。例文: His hands were calloused from years of working with tools. (彼の両手は長年の工具作業でたこになっていた。)"
+    },
+    {
+      "id": 40,
+      "value": "unappetizing",
+      "options": [
+        "食欲をそそる",
+        "美味しい",
+        "不味そうな",
+        "魅力的な"
+      ],
+      "correctAnswer": "不味そうな",
+      "explanation": "「unappetizing」は、食欲をそそらない、美味しそうに見えないという意味を持つ形容詞です。見た目や匂い、またはその他の理由で食べたいと思わせないものを指します。例文: The food looked unappetizing and I didn't want to eat it. (その食べ物は不味そうに見えたので、食べたくなかった。)"
+    },
+    {
+      "id": 41,
+      "value": "shoot another silver bullet my way",
+      "options": [
+        "別の飲み物をください",
+        "悩みを聞いてください",
+        "助けてください",
+        "アドバイスをください"
+      ],
+      "correctAnswer": "別の飲み物をください",
+      "explanation": "ここでは、Rajがペニーにビールをおかわりしてくれるように頼む際の婉曲表現です。「Silver bullet」は、ここではCoors Lightビールのことを指しています。例文: Hey bartender, can you shoot another silver bullet my way? (ねえ、バーテンダー、ビールおかわりくれる？)"
+    },
+    {
+      "id": 42,
+      "value": "bitchy",
+      "options": [
+        "親切な",
+        "意地悪な",
+        "友好的な",
+        "陽気な"
+      ],
+      "correctAnswer": "意地悪な",
+      "explanation": "「bitchy」は、意地悪で不機嫌な、または口が悪く批判的なという意味を持つ形容詞です。女性に対して使われることが多いですが、男性に対しても使用されることがあります。例文: She was being very bitchy to everyone today. (彼女は今日、みんなにとても意地悪だった。)"
+    },
+    {
+      "id": 43,
+      "value": "entertaining the possibility",
+      "options": [
+        "可能性を無視する",
+        "可能性を検討する",
+        "可能性を否定する",
+        "可能性を隠す"
+      ],
+      "correctAnswer": "可能性を検討する",
+      "explanation": "「entertaining the possibility」は、ある可能性について検討する、考慮に入れるという意味を持つ表現です。必ずしも肯定的な意味合いを持つとは限りません。例文: We are entertaining the possibility of moving to a new city. (私たちは新しい都市への引っ越しを検討している。)"
+    },
+    {
+      "id": 44,
+      "value": "kinda, sorta",
+      "options": [
+        "完全に",
+        "全く",
+        "ある意味",
+        "絶対に"
+      ],
+      "correctAnswer": "ある意味",
+      "explanation": "「kinda, sorta」は、「まあ、そんな感じ」「なんとなく」といった意味合いで、曖昧さや不確かさを表す口語的な表現です。「kind of」と「sort of」を重ねて使うことで、その曖昧さを強調しています。例文: I kinda, sorta agree with you. (まあ、なんとなく君に同意するよ。)"
+    },
+    {
+      "id": 45,
+      "value": "well-reasoned",
+      "options": [
+        "感情的な",
+        "論理的な",
+        "不合理な",
+        "複雑な"
+      ],
+      "correctAnswer": "論理的な",
+      "explanation": "「well-reasoned」は、論理的に構成され、根拠に基づいた、という意味を持つ形容詞です。議論や意見などが筋道立っていることを表します。例文: He presented a well-reasoned argument in favor of the proposal. (彼はその提案を支持する論理的な議論を展開した。)"
+    },
+    {
+      "id": 46,
+      "value": "varicose veins",
+      "options": [
+        "静脈瘤",
+        "動脈硬化",
+        "心臓病",
+        "高血圧"
+      ],
+      "correctAnswer": "静脈瘤",
+      "explanation": "「varicose veins」は、静脈瘤を意味します。特に足の静脈が拡張し、浮き上がって見える状態を指します。加齢や生活習慣などが原因で起こることがあります。例文: She has varicose veins in her legs. (彼女は足に静脈瘤がある。)"
+    },
+    {
+      "id": 47,
+      "value": "homesick",
+      "options": [
+        "病気",
+        "家事好き",
+        "ホームシック",
+        "怠惰"
+      ],
+      "correctAnswer": "ホームシック",
+      "explanation": "「homesick」は、ホームシックにかかっている、故郷を恋しく思うという意味を持つ形容詞です。特に、慣れない土地で生活している人が故郷を懐かしむ気持ちを表します。例文: He felt homesick during his first week at college. (彼は大学での最初の週にホームシックになった。)"
+    },
+    {
+      "id": 48,
+      "value": "offensive",
+      "options": [
+        "友好的な",
+        "面白い",
+        "不快な",
+        "魅力的な"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「offensive」は、不快な、侮辱的な、または攻撃的なという意味を持つ形容詞です。人の感情や道徳観を害する可能性のある言動に対して使われます。例文: His comments were deeply offensive to her. (彼のコメントは彼女にとって非常に不快だった。)"
+    },
+    {
+      "id": 49,
+      "value": "More like Yoko and Yoko",
+      "options": [
+        "似ていない",
+        "相性が良い",
+        "似たもの同士",
+        "正反対"
+      ],
+      "correctAnswer": "似たもの同士",
+      "explanation": "「More like Yoko and Yoko」は、「ジョンとヨーコ」という有名なカップルを引き合いに出して、Sheldon と Amy の関係が似た者同士であることを面白おかしく表現したものです。ここでは、二人が似た者同士で、周囲から少し浮いているようなニュアンスが含まれています。例文: Those two are always together, more like Yoko and Yoko. (あの二人はいつも一緒だ。まるでヨーコとヨーコみたいだ。)"
+    },
+    {
+      "id": 50,
+      "value": "Greetings",
+      "options": [
+        "さようなら",
+        "こんにちは",
+        "ありがとう",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "こんにちは",
+      "explanation": "「Greetings」は、「こんにちは」という挨拶のフォーマルな言い方です。ビジネスシーンや改まった場面で使用されることが多いです。よりくだけた言い方としては、「Hello」や「Hi」があります。例文: Greetings, and welcome to our company. (こんにちは、当社へようこそ。)"
+    },
+    {
+      "id": 51,
+      "value": "condescension",
+      "options": [
+        "謙遜",
+        "丁寧さ",
+        "見下し",
+        "尊敬"
+      ],
+      "correctAnswer": "見下し",
+      "explanation": "「condescension」は、相手を見下した態度や物言い、またはそのような行為を意味します。相手に対して優越感を示し、相手を軽んじるようなニュアンスが含まれます。類義語にはpatronizingなどがあります。\n\n例：There was a hint of condescension in her voice. (彼女の声には見下したような響きがあった。)"
+    },
+    {
+      "id": 52,
+      "value": "subtle",
+      "options": [
+        "明白な",
+        "微妙な",
+        "直接的な",
+        "粗雑な"
+      ],
+      "correctAnswer": "微妙な",
+      "explanation": "「subtle」は、微妙で捉えにくい、あるいは繊細で分かりにくいという意味です。はっきりとは示されない、ほのかなニュアンスを表す際に用いられます。\n\n例：The difference between the two paintings is subtle. (その2枚の絵の違いは微妙だ。)"
+    },
+    {
+      "id": 53,
+      "value": "outright",
+      "options": [
+        "間接的に",
+        "率直に",
+        "慎重に",
+        "曖昧に"
+      ],
+      "correctAnswer": "率直に",
+      "explanation": "「outright」は、完全に、率直に、または即座にという意味です。行動や意見が直接的で明確であることを強調する際に使われます。\n\n例：She denied the accusation outright. (彼女はその告発をきっぱりと否定した。)"
+    },
+    {
+      "id": 54,
+      "value": "defecates",
+      "options": [
+        "食べる",
+        "排泄する",
+        "無視する",
+        "研究する"
+      ],
+      "correctAnswer": "排泄する",
+      "explanation": "「defecate」は排泄するという意味ですが、ここでは非常に侮蔑的な比喩表現として使われています。相手の理論や業績を全く価値がないものとして見下すニュアンスがあります。フォーマルな場面では絶対に使いません。"
+    },
+    {
+      "id": 55,
+      "value": "subserve",
+      "options": [
+        "支持する",
+        "妨げる",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "支持する",
+      "explanation": "「subserve」は、～に貢献する、～に役立つ、という意味です。より上位の目的や機能のために、何かが貢献または奉仕する状況を表します。フォーマルな文脈で使われることが多い単語です。\n\n例：The individual's needs are subservient to the needs of the company. (個人のニーズは、会社のニーズに貢献する。)"
+    },
+    {
+      "id": 56,
+      "value": "ipso facto",
+      "options": [
+        "結果として",
+        "事実上",
+        "潜在的に",
+        "形式的に"
+      ],
+      "correctAnswer": "事実上",
+      "explanation": "「ipso facto」はラテン語で、「その事実によって」または「事実上」という意味です。ある事柄が真実であることによって、当然に別の事柄も真実になることを示す際に用いられます。法律や哲学の議論でよく使われます。\n\n例：If a law is unconstitutional, it is ipso facto invalid. (法律が違憲である場合、それは事実上無効である。)"
+    },
+    {
+      "id": 57,
+      "value": "ordo cognoscendi",
+      "options": [
+        "認識の秩序",
+        "知識の限界",
+        "学習の意欲",
+        "思考の停止"
+      ],
+      "correctAnswer": "認識の秩序",
+      "explanation": "「ordo cognoscendi」はラテン語で、「認識の秩序」という意味です。知識や認識がどのように構成され、どのような順序で理解されるかという哲学的な概念を指します。特に認識論の分野で用いられます。"
+    },
+    {
+      "id": 58,
+      "value": "insofar as",
+      "options": [
+        "～限りにおいて",
+        "～にもかかわらず",
+        "～というよりは",
+        "～に反して"
+      ],
+      "correctAnswer": "～限りにおいて",
+      "explanation": "「insofar as」は、「～の範囲内で」「～する限り」という意味です。ある条件や範囲を限定して述べる際に使用します。フォーマルな文脈でよく見られます。\n\n例：Insofar as it is possible, we will complete the project on time. (可能な限り、プロジェクトを予定通りに完了させます。)"
+    },
+    {
+      "id": 59,
+      "value": "subsume",
+      "options": [
+        "包含する",
+        "排除する",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "包含する",
+      "explanation": "「subsume」は、あるものを別のものに含める、包含する、という意味です。より広いカテゴリーや概念の中に含めることを指します。\n\n例：The new law subsumes several older regulations. (新しい法律は、いくつかの古い規制を包含する。)"
+    },
+    {
+      "id": 60,
+      "value": "paradigm",
+      "options": [
+        "逆説",
+        "模範",
+        "パラダイム",
+        "隠喩"
+      ],
+      "correctAnswer": "パラダイム",
+      "explanation": "「paradigm」は、ある分野における支配的な理論、モデル、または考え方の枠組みを意味します。認識や思考のパターンを規定するものです。\n\n例：The internet has brought about a paradigm shift in communication. (インターネットは、コミュニケーションにおいてパラダイムシフトをもたらした。)"
+    },
+    {
+      "id": 61,
+      "value": "rankest",
+      "options": [
+        "最も新鮮な",
+        "最もひどい",
+        "最も高潔な",
+        "最も独創的な"
+      ],
+      "correctAnswer": "最もひどい",
+      "explanation": "「rank」は、不快な臭いや味を表す言葉ですが、ここでは「ひどい」「悪質な」という意味で使われています。「rankest」はその最上級です。不快感や嫌悪感を強調する際に用いられます。"
+    },
+    {
+      "id": 62,
+      "value": "psychologism",
+      "options": [
+        "心理主義",
+        "合理主義",
+        "実存主義",
+        "構造主義"
+      ],
+      "correctAnswer": "心理主義",
+      "explanation": "「psychologism」は、心理学の原理や方法論を他の分野（特に論理学や哲学）に適用しようとする立場を指します。哲学においては、客観的な真理や知識を主観的な心理的プロセスに還元しようとする試みとして批判的に用いられることがあります。"
+    },
+    {
+      "id": 63,
+      "value": "hogwash",
+      "options": [
+        "貴重な情報",
+        "無意味なこと",
+        "重要な発見",
+        "有益なアドバイス"
+      ],
+      "correctAnswer": "無意味なこと",
+      "explanation": "「hogwash」は、ばかげたこと、くだらないこと、または嘘を意味する軽蔑的な言葉です。価値がない、または信じるに値しない考えや発言を指す際に使われます。\n\n例：That's a load of hogwash! (それは全くのデタラメだ！)"
+    },
+    {
+      "id": 64,
+      "value": "impasse",
+      "options": [
+        "打開策",
+        "行き詰まり",
+        "進展",
+        "合意"
+      ],
+      "correctAnswer": "行き詰まり",
+      "explanation": "「impasse」は、行き詰まり、膠着状態、という意味です。問題解決や交渉などが進展せず、立ち往生している状況を表します。\n\n例：The negotiations reached an impasse. (交渉は行き詰まりに達した。)"
+    },
+    {
+      "id": 65,
+      "value": "move",
+      "options": [
+        "提案する",
+        "反対する",
+        "保留する",
+        "撤回する"
+      ],
+      "correctAnswer": "提案する",
+      "explanation": "ここでは議事進行における動議を「提案する」という意味です。フォーマルな会議や議論で、特定の行動や決定を求める際に用いられます。\n\n例：I move that we adjourn the meeting. (会議の休会を提案します。)"
+    },
+    {
+      "id": 66,
+      "value": "seconded",
+      "options": [
+        "同意する",
+        "反対する",
+        "質問する",
+        "却下する"
+      ],
+      "correctAnswer": "同意する",
+      "explanation": "動議に賛成することを意味します。議事進行において、提案された動議を正式な議題として取り上げるために、別の参加者が支持を表明する必要があります。\n\n例：All those in favor? (賛成の方はおられますか？)"
+    },
+    {
+      "id": 67,
+      "value": "motion carries",
+      "options": [
+        "動議が否決された",
+        "動議が可決された",
+        "動議が保留された",
+        "動議が撤回された"
+      ],
+      "correctAnswer": "動議が可決された",
+      "explanation": "議会や会議において、提案された動議が投票の結果、承認されたことを意味します。このフレーズは、議事進行において正式な決定が下されたことを示す際に用いられます。"
+    },
+    {
+      "id": 68,
+      "value": "refute",
+      "options": [
+        "反論する",
+        "支持する",
+        "無視する",
+        "理解する"
+      ],
+      "correctAnswer": "反論する",
+      "explanation": "「refute」は、反論する、論破するという意味です。相手の主張や理論が誤っていることを証拠や論理を用いて示す際に用いられます。\n\n例：The scientist refuted the claim with new evidence. (科学者は新しい証拠でその主張を論破した。)"
+    },
+    {
+      "id": 69,
+      "value": "imply",
+      "options": [
+        "明示する",
+        "暗示する",
+        "否定する",
+        "強調する"
+      ],
+      "correctAnswer": "暗示する",
+      "explanation": "「imply」は、暗に示す、ほのめかすという意味です。直接的に表現せずに、間接的に意味を伝える際に用います。\n\n例：Are you implying that I'm wrong? (私が間違っているとでも言いたいのですか？)"
+    },
+    {
+      "id": 70,
+      "value": "severing",
+      "options": [
+        "強化",
+        "切断",
+        "修復",
+        "維持"
+      ],
+      "correctAnswer": "切断",
+      "explanation": "「sever」は、切断する、分離するという意味です。関係や繋がりを断ち切る場合にも使われます。ここでは、感情的な絆が断たれることを指しています。\n\n例：The accident severed his spinal cord. (その事故で彼の脊髄が切断された。)"
+    },
+    {
+      "id": 71,
+      "value": "outlived its utility",
+      "options": [
+        "有用性を増した",
+        "有用性を失った",
+        "人気が出た",
+        "重要になった"
+      ],
+      "correctAnswer": "有用性を失った",
+      "explanation": "「outlive」は、～より長生きするという意味ですが、「outlive its utility」で「その有用性を終える」という意味になります。ここでは、関係がその目的や価値を失ったことを示しています。\n\n例：This technology has outlived its utility and needs to be replaced. (この技術は有用性を終えたので、取り替える必要がある。)"
+    },
+    {
+      "id": 72,
+      "value": "hit a reef",
+      "options": [
+        "成功した",
+        "難破した",
+        "改善した",
+        "安定した"
+      ],
+      "correctAnswer": "難破した",
+      "explanation": "「hit a reef」は、文字通りには「岩礁に乗り上げる」という意味ですが、比喩的には「関係や計画が頓挫する」「行き詰まる」という意味で使われます。困難に直面して失敗に終わる状況を表します。"
+    },
+    {
+      "id": 73,
+      "value": "went splitsville",
+      "options": [
+        "離婚した",
+        "仲良くなった",
+        "結婚した",
+        "家を建てた"
+      ],
+      "correctAnswer": "離婚した",
+      "explanation": "「splitsville」は、俗語で「離婚」や「別れ」を意味する言葉です。カジュアルな会話で使われ、フォーマルな場面では適切ではありません。より一般的な表現としては、break up, divorceなどがあります。"
+    },
+    {
+      "id": 74,
+      "value": "Badonkadonks",
+      "options": [
+        "難しい問題",
+        "魅力的な女性",
+        "哲学的な理論",
+        "高度な技術"
+      ],
+      "correctAnswer": "魅力的な女性",
+      "explanation": "\"Badonkadonk\" はスラングで、魅力的な女性、特に大きな臀部を持つ女性を指す言葉です。非常にカジュアルで、性的な意味合いを含むため、使用する場面には注意が必要です。"
+    },
+    {
+      "id": 75,
+      "value": "Clowder",
+      "options": [
+        "猫の鳴き声",
+        "猫の集団",
+        "猫の種類",
+        "猫の病気"
+      ],
+      "correctAnswer": "猫の集団",
+      "explanation": "「clowder」は、猫の集団を指す言葉です。あまり一般的ではありませんが、猫好きの間では知られている言葉です。 他にも、猫の集団を指す言葉として「glaring」や「pounce」などがあります。"
+    },
+    {
+      "id": 76,
+      "value": "ought to",
+      "options": [
+        "必要がない",
+        "するべきである",
+        "許可されている",
+        "したくない"
+      ],
+      "correctAnswer": "するべきである",
+      "explanation": "「ought to」は「～するべきである」という意味の助動詞で、道徳的な義務や当然の行為を表します。should, mustよりもやや弱く、アドバイスや提案に近いニュアンスを含みます。例：You ought to apologize.（謝るべきだよ。）"
+    },
+    {
+      "id": 77,
+      "value": "face up to",
+      "options": [
+        "直面する",
+        "無視する",
+        "隠蔽する",
+        "反対する"
+      ],
+      "correctAnswer": "直面する",
+      "explanation": "「face up to」は「（困難や問題）に立ち向かう、直視する」という意味です。避けて通りたい現実や問題に対して、勇気を持って向き合う状況で使われます。例：You need to face up to your responsibilities.（自分の責任に立ち向かう必要がある。）"
+    },
+    {
+      "id": 78,
+      "value": "breakup",
+      "options": [
+        "崩壊",
+        "休憩",
+        "決別",
+        "創造"
+      ],
+      "correctAnswer": "決別",
+      "explanation": "「breakup」は、恋愛関係の「別れ、破局」を意味する名詞です。動詞の「break up」としても使われます。例：Their breakup was messy. (彼らの別れは泥沼だった。)"
+    },
+    {
+      "id": 79,
+      "value": "imply",
+      "options": [
+        "暗示する",
+        "明言する",
+        "否定する",
+        "無視する"
+      ],
+      "correctAnswer": "暗示する",
+      "explanation": "「imply」は「（間接的に）意味する、ほのめかす」という意味の動詞です。直接的な言葉ではなく、態度や状況などから何かを伝えようとする際に使われます。例：Are you implying that I'm wrong?（私が間違っているとでも言いたいのですか？）"
+    },
+    {
+      "id": 80,
+      "value": "dumped",
+      "options": [
+        "投資した",
+        "捨てられた",
+        "昇進した",
+        "修理した"
+      ],
+      "correctAnswer": "捨てられた",
+      "explanation": "「dump」は「（恋人を）振る、捨てる」という意味の動詞です。「dumped」はその過去形または過去分詞形です。例：She dumped him for another guy. (彼女は彼を振って、別の男のところへ行った。)"
+    },
+    {
+      "id": 81,
+      "value": "mutual",
+      "options": [
+        "一方的な",
+        "相互の",
+        "秘密の",
+        "仮の"
+      ],
+      "correctAnswer": "相互の",
+      "explanation": "「mutual」は「相互の、共通の」という意味の形容詞です。二者以上がお互いに同じ感情や関係を持っていることを表します。例：They have a mutual friend. (彼らには共通の友人がいる。)"
+    },
+    {
+      "id": 82,
+      "value": "sell me on",
+      "options": [
+        "私に売る",
+        "私に説得する",
+        "私を混乱させる",
+        "私を無視する"
+      ],
+      "correctAnswer": "私に説得する",
+      "explanation": "「sell someone on something」は「～を…に売り込む、～に…の良さを説く」という意味のイディオムです。人に対して、あるアイデアや物事の魅力を伝え、同意や支持を得ようとする際に使われます。例：You don't have to sell me on the idea of a vacation. (休暇のアイデアを私に売り込む必要はないよ。)"
+    },
+    {
+      "id": 83,
+      "value": "whip up",
+      "options": [
+        "ゆっくり調理する",
+        "急いで作り上げる",
+        "完全に破壊する",
+        "詳細に計画する"
+      ],
+      "correctAnswer": "急いで作り上げる",
+      "explanation": "「whip up」は「（料理や何かを）手早く作る、急いで仕上げる」という意味の句動詞です。簡単な料理やアイデアなどを素早く準備する際に使われます。例：I can whip up a quick dinner. (すぐに夕食を作れるよ。)"
+    },
+    {
+      "id": 84,
+      "value": "sin",
+      "options": [
+        "歌",
+        "罪",
+        "成功",
+        "始まり"
+      ],
+      "correctAnswer": "罪",
+      "explanation": "「sin」は「罪、道徳的な過ち」という意味の名詞です。宗教的な文脈でよく使われますが、一般的に道徳や倫理に反する行為を指すこともあります。例：He confessed his sins. (彼は自分の罪を告白した。)"
+    },
+    {
+      "id": 85,
+      "value": "hold on to that thought",
+      "options": [
+        "その考えを手放す",
+        "その考えを覚えておく",
+        "その考えを無視する",
+        "その考えを広める"
+      ],
+      "correctAnswer": "その考えを覚えておく",
+      "explanation": "「hold on to that thought」は「その考えを覚えておいて」という意味の表現です。後でその考えについて話したり、再考したりする際に使われます。例：Hold on to that thought, we'll come back to it later. (その考えは覚えておいて、後でまた話しましょう。)"
+    },
+    {
+      "id": 86,
+      "value": "pining for",
+      "options": [
+        "嫌悪する",
+        "憧れる",
+        "軽蔑する",
+        "無視する"
+      ],
+      "correctAnswer": "憧れる",
+      "explanation": "「pine for」は「～を切望する、恋い焦がれる」という意味の句動詞です。特に失ったものや遠く離れた人などを強く思い、悲しむ様子を表します。例：She was pining for her homeland. (彼女は故郷を恋い焦がれていた。)"
+    },
+    {
+      "id": 87,
+      "value": "preposterous",
+      "options": [
+        "妥当な",
+        "ばかげた",
+        "素晴らしい",
+        "明白な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「preposterous」は「ばかげた、とんでもない」という意味の形容詞です。信じられないほど非常識で、不合理なことを表します。例：That's a preposterous idea! (それはとんでもない考えだ！)"
+    },
+    {
+      "id": 88,
+      "value": "lambchop",
+      "options": [
+        "子羊肉",
+        "愛しい人",
+        "野菜",
+        "古い友人"
+      ],
+      "correctAnswer": "愛しい人",
+      "explanation": "「lambchop」は、本来は子羊の肉を意味しますが、ここでは愛情を込めた呼びかけとして使われています。親しい間柄の人に対して使われる、やや古風で優しい表現です。"
+    },
+    {
+      "id": 89,
+      "value": "quibble",
+      "options": [
+        "議論する",
+        "同意する",
+        "無視する",
+        "賞賛する"
+      ],
+      "correctAnswer": "議論する",
+      "explanation": "「quibble」は「（些細なことで）口論する、言い争う」という意味の動詞です。重要ではない細かい点にこだわり、議論することを指します。例：They were quibbling over the price. (彼らは値段について言い争っていた。)"
+    },
+    {
+      "id": 90,
+      "value": "zazzy",
+      "options": [
+        "退屈な",
+        "活発な",
+        "静かな",
+        "悲しい"
+      ],
+      "correctAnswer": "活発な",
+      "explanation": "「zazzy」は「活発な、粋な、魅力的な」という意味の形容詞です。特に人や物がエネルギッシュで、スタイリッシュな様子を表します。やや古い言葉ですが、個性を強調する際に使われます。例：a zazzy outfit (粋な服装)"
+    },
+    {
+      "id": 91,
+      "value": "rest assured",
+      "options": [
+        "安心させる",
+        "落ち着いて",
+        "休憩する",
+        "不安になる"
+      ],
+      "correctAnswer": "安心させる",
+      "explanation": "「rest assured」は「ご安心ください、安心して～してください」という意味の表現です。相手に確信や安心感を与えるために使われます。例：Rest assured that we will take care of everything. (すべて私たちが対応しますのでご安心ください。)"
+    },
+    {
+      "id": 92,
+      "value": "in full possession of my faculties",
+      "options": [
+        "完全に正気である",
+        "完全に無知である",
+        "完全に疲れている",
+        "完全に混乱している"
+      ],
+      "correctAnswer": "完全に正気である",
+      "explanation": "「in full possession of one's faculties」は「正気である、意識がはっきりしている」という意味の表現です。精神的にも肉体的にも正常な状態であることを強調する際に使われます。特に、通常ではない状況（病気、薬物、ストレスなど）において、自分が正常であることを主張する際に用いられます。"
+    },
+    {
+      "id": 93,
+      "value": "fooling me",
+      "options": [
+        "私を助ける",
+        "私を騙す",
+        "私を無視する",
+        "私を励ます"
+      ],
+      "correctAnswer": "私を騙す",
+      "explanation": "「fool someone」は「～を騙す、～を欺く」という意味の動詞句です。「fooling me」は「私を騙している」という意味になります。例：You're not fooling me with that excuse. (そんな言い訳で私を騙せると思っているのか。)"
+    },
+    {
+      "id": 94,
+      "value": "suited for",
+      "options": [
+        "適している",
+        "反対している",
+        "無関心である",
+        "不満である"
+      ],
+      "correctAnswer": "適している",
+      "explanation": "「suited for」は「～に適している、向いている」という意味の形容詞句です。特定の目的や状況に対して、人や物が適切である状態を表します。例：She is well suited for the job. (彼女はその仕事にとても適している。)"
+    },
+    {
+      "id": 95,
+      "value": "irrelevant",
+      "options": [
+        "関連がある",
+        "無関係な",
+        "重要な",
+        "明白な"
+      ],
+      "correctAnswer": "無関係な",
+      "explanation": "「irrelevant」は「無関係な、重要でない」という意味の形容詞です。特定の話題や状況に対して、関係がないか、重要でないことを表します。例：That's irrelevant to the discussion. (それは議論とは無関係だ。)"
+    },
+    {
+      "id": 96,
+      "value": "touche",
+      "options": [
+        "こんにちは",
+        "なるほど",
+        "さようなら",
+        "ありがとう"
+      ],
+      "correctAnswer": "なるほど",
+      "explanation": "「touche」はフランス語由来の言葉で、「やられた、一本取られた」という意味の間投詞です。相手の指摘や反論が的を射ており、認めざるを得ない場合に、ユーモラスに相手の優位性を認める際に使われます。"
+    },
+    {
+      "id": 97,
+      "value": "rashly",
+      "options": [
+        "慎重に",
+        "軽率に",
+        "穏やかに",
+        "冷静に"
+      ],
+      "correctAnswer": "軽率に",
+      "explanation": "「rashly」は「軽率に、無分別に」という意味の副詞です。よく考えずに、衝動的に行動する様子を表します。例：He acted rashly and made a mistake. (彼は軽率に行動して間違いを犯した。)"
+    },
+    {
+      "id": 98,
+      "value": "stipulate",
+      "options": [
+        "要求する",
+        "合意する",
+        "提案する",
+        "拒否する"
+      ],
+      "correctAnswer": "合意する",
+      "explanation": "「stipulate」は「（契約などで）明記する、規定する」という意味の動詞です。合意や条件などを明確に定める際に使われます。例：The contract stipulates that you must pay within 30 days. (契約には30日以内に支払うことが明記されている。)"
+    },
+    {
+      "id": 99,
+      "value": "cast in the role",
+      "options": [
+        "役割を演じる",
+        "役割を拒否する",
+        "役割を忘れる",
+        "役割を隠す"
+      ],
+      "correctAnswer": "役割を演じる",
+      "explanation": "「cast in the role of」は「～の役割を演じる、～の役を担う」という意味の表現です。特定の役割や立場に置かれることを表します。例：She was cast in the role of the villain. (彼女は悪役を演じることになった。)"
+    },
+    {
+      "id": 100,
+      "value": "epitome",
+      "options": [
+        "典型",
+        "例外",
+        "始まり",
+        "終わり"
+      ],
+      "correctAnswer": "典型",
+      "explanation": "「epitome」は「典型、権化」という意味の名詞です。ある性質や特徴を最もよく表している人や物を指します。例：She is the epitome of elegance. (彼女は優雅さの典型だ。)"
+    }
+  ]
+}

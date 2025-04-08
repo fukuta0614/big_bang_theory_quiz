@@ -1,0 +1,1096 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "mealy",
+      "options": [
+        "粉っぽい",
+        "新鮮な",
+        "甘い",
+        "酸っぱい"
+      ],
+      "correctAnswer": "粉っぽい",
+      "explanation": "「mealy」は、果物や野菜が熟れすぎて粉っぽく、味が落ちている状態を表します。特にリンゴなどの食感が悪くなっている時に使われます。\n\n例：These apples are mealy and not very tasty.（これらのリンゴは粉っぽくてあまり美味しくない。）"
+    },
+    {
+      "id": 2,
+      "value": "blowout",
+      "options": [
+        "大失敗",
+        "大成功",
+        "大売り出し",
+        "秘密"
+      ],
+      "correctAnswer": "大売り出し",
+      "explanation": "「blowout」は、ここでは「派手なイベント」や「大騒ぎ」といった意味合いで使われています。また、タイヤの「パンク」という意味もあります。\n\n例：They had a blowout sale on summer clothes. (彼らは夏服の大売り出しを行った。)"
+    },
+    {
+      "id": 3,
+      "value": "detention",
+      "options": [
+        "称賛",
+        "拘留",
+        "解放",
+        "食事"
+      ],
+      "correctAnswer": "拘留",
+      "explanation": "「detention」は、学校での居残りや、警察などによる拘留を意味します。ここでは、ペニーが過去の経験から、報告書を読むことを拒否する文脈で使用されています。\n\n例：He was given detention for being late to class. (彼は授業に遅刻したため、居残り処分を受けた。)"
+    },
+    {
+      "id": 4,
+      "value": "Anyhoo",
+      "options": [
+        "とにかく",
+        "もちろん",
+        "たぶん",
+        "こんにちは"
+      ],
+      "correctAnswer": "とにかく",
+      "explanation": "「Anyhoo」は、くだけた言い方で「anyway（とにかく）」と同じ意味で使われます。会話の流れを変えたり、話題を戻したりする際に用いられます。\n\n例：Anyhoo, as I was saying, I need to finish this report by tomorrow. (とにかく、私が言っていたように、明日までにこのレポートを終わらせる必要がある。)"
+    },
+    {
+      "id": 5,
+      "value": "nautical theme",
+      "options": [
+        "宇宙のテーマ",
+        "航海のテーマ",
+        "料理のテーマ",
+        "音楽のテーマ"
+      ],
+      "correctAnswer": "航海のテーマ",
+      "explanation": "「nautical」は「航海の」という意味で、「nautical theme」は航海に関連するテーマを指します。船、海、船員など、海事に関するものをモチーフにしたものです。\n\n例：The restaurant was decorated with a nautical theme. (そのレストランは航海のテーマで装飾されていた。)"
+    },
+    {
+      "id": 6,
+      "value": "gag gift",
+      "options": [
+        "高価な贈り物",
+        "実用的な贈り物",
+        "ジョークグッズ",
+        "個人的な贈り物"
+      ],
+      "correctAnswer": "ジョークグッズ",
+      "explanation": "「gag gift」は、人を笑わせるための、ふざけた贈り物やジョークグッズのことです。実用性はあまりなく、ユーモラスな目的で贈られます。\n\n例：He gave her a gag gift for her birthday. (彼は彼女の誕生日にジョークグッズを贈った。)"
+    },
+    {
+      "id": 7,
+      "value": "shenanigans",
+      "options": [
+        "真面目な話",
+        "いたずら",
+        "陰謀",
+        "努力"
+      ],
+      "correctAnswer": "いたずら",
+      "explanation": "「shenanigans」は、いたずら、悪ふざけ、ごまかしといった意味合いを持つ言葉です。しばしば複数形で使われ、軽い非難やユーモラスな文脈で用いられます。\n\n例：The children were up to some shenanigans while their parents were away. (親がいない間、子供たちは何かいたずらをしていた。)"
+    },
+    {
+      "id": 8,
+      "value": "snippy",
+      "options": [
+        "丁寧な",
+        "横柄な",
+        "悲しい",
+        "幸せな"
+      ],
+      "correctAnswer": "横柄な",
+      "explanation": "「snippy」は、短気で、人に不愛想な態度を取ることを意味します。特に、ちょっとしたことでイライラして、人に辛く当たる様子を表します。\n\n例：I didn't mean to be snippy with you. (あなたに辛く当たるつもりはなかったんです。)"
+    },
+    {
+      "id": 9,
+      "value": "butterball turkey",
+      "options": [
+        "高価な七面鳥",
+        "一般的な七面鳥",
+        "太った人",
+        "痩せた人"
+      ],
+      "correctAnswer": "太った人",
+      "explanation": "「Butterball turkey」は、アメリカで一般的な七面鳥のブランドですが、ここではハワードの母親の体型を揶揄する言葉として使われています。「butterball」自体が「太っちょ」という意味合いを持ちます。\n\n例：He is a butterball.（彼はずんぐりむっくりだ。）"
+    },
+    {
+      "id": 10,
+      "value": "bound to",
+      "options": [
+        "〜する義務がある",
+        "〜に縛られている",
+        "必ず〜する",
+        "〜をしない方が良い"
+      ],
+      "correctAnswer": "必ず〜する",
+      "explanation": "「be bound to」は、「必ず〜する」「〜するのは当然だ」という意味を表します。未来の出来事に対する強い確信や必然性を伝える際に用いられます。\n\n例：It's bound to rain soon. (もうすぐ雨が降るに違いない。)"
+    },
+    {
+      "id": 11,
+      "value": "throw in",
+      "options": [
+        "投げ入れる",
+        "追加する",
+        "無視する",
+        "取り除く"
+      ],
+      "correctAnswer": "追加する",
+      "explanation": "「throw in」は、「おまけとして加える」「無料で付ける」という意味です。交渉や取引の際に、追加のアイテムやサービスを提供することを指します。\n\n例：If you buy this car, I'll throw in a free set of tires. (もしこの車を買ってくれるなら、無料のタイヤセットをおまけに付けます。)"
+    },
+    {
+      "id": 12,
+      "value": "hit the head",
+      "options": [
+        "頭を打つ",
+        "トイレに行く",
+        "休憩する",
+        "眠る"
+      ],
+      "correctAnswer": "トイレに行く",
+      "explanation": "「hit the head」は、船員が使うスラングで「トイレに行く」という意味です。「head」は船のトイレを指します。\n\n例：I'm going to hit the head. (トイレに行ってきます。)"
+    },
+    {
+      "id": 13,
+      "value": "salty sea dog",
+      "options": [
+        "塩辛い犬",
+        "経験豊富な船乗り",
+        "臆病な人",
+        "海の生物"
+      ],
+      "correctAnswer": "経験豊富な船乗り",
+      "explanation": "「salty sea dog」は、長年の航海経験を持つ、熟練した船乗りを指す言葉です。海での生活に慣れ親しんだ、頑固で勇敢な人物をイメージさせます。\n\n例：He's a salty sea dog who's seen it all. (彼はすべてを見てきた経験豊富な船乗りだ。)"
+    },
+    {
+      "id": 14,
+      "value": "reek of",
+      "options": [
+        "〜の香りがする",
+        "〜の匂いがする",
+        "〜を隠す",
+        "〜を好む"
+      ],
+      "correctAnswer": "〜の匂いがする",
+      "explanation": "「reek of」は、「〜の強い悪臭がする」という意味です。不快な匂いを強調する際に用いられます。\n\n例：The room reeked of cigarette smoke. (部屋はタバコの煙の悪臭がした。)"
+    },
+    {
+      "id": 15,
+      "value": "earthy cologne",
+      "options": [
+        "高価な香水",
+        "土のような香りの香水",
+        "甘い香りの香水",
+        "石鹸の香りの香水"
+      ],
+      "correctAnswer": "土のような香りの香水",
+      "explanation": "「earthy cologne」は、土や木、苔など、自然を感じさせる香りの香水を指します。男性的な香りの表現として使われることがあります。\n\n例：He wore an earthy cologne that reminded her of the forest. (彼は彼女に森を思い出させる土のような香りの香水をつけていた。)"
+    },
+    {
+      "id": 16,
+      "value": "Marco Polo",
+      "options": [
+        "イタリア料理",
+        "中国料理",
+        "水遊び",
+        "探検家"
+      ],
+      "correctAnswer": "探検家",
+      "explanation": "マルコ・ポーロは、13世紀のヴェネツィアの商人であり探検家です。東方見聞録を著し、ヨーロッパに東方の文化を紹介しました。ここでは、イタリアのピザと中国の麺料理を一緒に食べることを、マルコ・ポーロの冒険になぞらえています。"
+    },
+    {
+      "id": 17,
+      "value": "Terrifying",
+      "options": [
+        "楽しい",
+        "恐ろしい",
+        "穏やかな",
+        "安全な"
+      ],
+      "correctAnswer": "恐ろしい",
+      "explanation": "「Terrifying」は、「恐ろしい」という意味で、非常に怖い、ぞっとするような状況や感情を表現する形容詞です。\n\n例：That horror movie was terrifying.（あのホラー映画は恐ろしかった。）"
+    },
+    {
+      "id": 18,
+      "value": "verification",
+      "options": [
+        "確認",
+        "想像",
+        "隠蔽",
+        "創造"
+      ],
+      "correctAnswer": "確認",
+      "explanation": "「verification」は、「検証、確認」という意味で、何かが真実であるか、正確であるかを確かめる行為を指します。\n\n例：The verification of his alibi took several hours. (彼のアリバイの検証には数時間かかった。)"
+    },
+    {
+      "id": 19,
+      "value": "axis",
+      "options": [
+        "軸",
+        "中心",
+        "軌道",
+        "表面"
+      ],
+      "correctAnswer": "軸",
+      "explanation": "「axis」は、「軸」という意味で、回転の中心となる線を指します。地球の自転軸など、物理的なものだけでなく、抽象的な概念の中心となるものも指します。\n\n例：The Earth rotates on its axis. (地球は自転軸を中心に回転する。)"
+    },
+    {
+      "id": 20,
+      "value": "criticism",
+      "options": [
+        "賞賛",
+        "批判",
+        "提案",
+        "評価"
+      ],
+      "correctAnswer": "批判",
+      "explanation": "「criticism」は、「批判、非難」という意味で、欠点や問題点を指摘する行為を指します。必ずしも否定的な意味だけでなく、改善のための建設的な意見も含まれます。\n\n例：He welcomed constructive criticism of his work. (彼は自分の仕事に対する建設的な批判を歓迎した。)"
+    },
+    {
+      "id": 21,
+      "value": "produce section",
+      "options": [
+        "事務用品コーナー",
+        "食料品コーナー",
+        "青果コーナー",
+        "お菓子コーナー"
+      ],
+      "correctAnswer": "青果コーナー",
+      "explanation": "「produce section」は、スーパーマーケットなどの食料品店で、果物や野菜が売られているコーナーを指します。\n\n例：She went to the produce section to buy fresh vegetables. (彼女は新鮮な野菜を買いに青果コーナーへ行った。)"
+    },
+    {
+      "id": 22,
+      "value": "romantic",
+      "options": [
+        "現実的",
+        "退屈",
+        "ロマンチック",
+        "非現実的"
+      ],
+      "correctAnswer": "ロマンチック",
+      "explanation": "「romantic」は、「ロマンチックな、恋愛の」という意味で、感情的で情熱的な雰囲気や関係を指します。\n\n例：He planned a romantic dinner for their anniversary. (彼は記念日のためにロマンチックなディナーを計画した。)"
+    },
+    {
+      "id": 23,
+      "value": "lucky day",
+      "options": [
+        "不運な日",
+        "幸運な日",
+        "普通の日",
+        "忙しい日"
+      ],
+      "correctAnswer": "幸運な日",
+      "explanation": "「lucky day」は、「幸運な日」という意味で、良いことが起こる日を指します。宝くじに当たったり、良い知らせが届いたりする日を指すことが多いです。\n\n例：Today is my lucky day! (今日は私の幸運な日だ！)"
+    },
+    {
+      "id": 24,
+      "value": "collector",
+      "options": [
+        "収集家",
+        "清掃員",
+        "配達員",
+        "販売員"
+      ],
+      "correctAnswer": "収集家",
+      "explanation": "「collector」は、「収集家」という意味で、特定の物を集めることを趣味とする人を指します。切手、コイン、美術品など、様々な物を集める人がいます。\n\n例：He is a serious stamp collector. (彼は真剣な切手収集家だ。)"
+    },
+    {
+      "id": 25,
+      "value": "experiment",
+      "options": [
+        "実験",
+        "経験",
+        "探検",
+        "遠征"
+      ],
+      "correctAnswer": "実験",
+      "explanation": "「experiment」は、「実験」という意味で、科学的な仮説を検証するために行う一連の操作を指します。新しい発見や知識を得るために行われます。\n\n例：The scientists are conducting an experiment to test the new drug. (科学者たちは新しい薬を試すために実験を行っている。)"
+    },
+    {
+      "id": 26,
+      "value": "take a look at",
+      "options": [
+        "無視する",
+        "確認する",
+        "避ける",
+        "隠す"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「take a look at」は、何かをざっと見る、確認するという意味です。問題や状況を簡単に調査する際に使われます。例：Can you take a look at my essay? (私のエッセイを見てくれますか？)"
+    },
+    {
+      "id": 27,
+      "value": "not to brag",
+      "options": [
+        "自慢するわけではないが",
+        "悲観的に考えないで",
+        "急いで",
+        "正直に言うと"
+      ],
+      "correctAnswer": "自慢するわけではないが",
+      "explanation": "「not to brag」は、「自慢するつもりはないけれど」という意味で、自分の能力や成果を控えめに伝えたい時に使います。 例：Not to brag, but I finished the project ahead of schedule. (自慢するつもりはないけど、予定より早くプロジェクトを終えました。)"
+    },
+    {
+      "id": 28,
+      "value": "a bit of",
+      "options": [
+        "たくさん",
+        "少し",
+        "全くない",
+        "ほとんど"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「a bit of」は、「少しの」「多少の」という意味で、量や程度が少ないことを表します。 例：I'm a bit tired. (少し疲れています。)"
+    },
+    {
+      "id": 29,
+      "value": "silly question",
+      "options": [
+        "重要な質問",
+        "難しい質問",
+        "ばかげた質問",
+        "賢い質問"
+      ],
+      "correctAnswer": "ばかげた質問",
+      "explanation": "「silly question」は、「ばかげた質問」「愚かな質問」という意味で、答えが明白であるか、質問自体が無意味であることを指します。相手を軽くたしなめるニュアンスも含まれます。例：Asking if the sun will rise tomorrow is a silly question."
+    },
+    {
+      "id": 30,
+      "value": "no stranger to",
+      "options": [
+        "全く知らない",
+        "大の苦手",
+        "精通している",
+        "慣れている"
+      ],
+      "correctAnswer": "慣れている",
+      "explanation": "「no stranger to」は、「～に慣れている」「～はよく知っている」という意味です。ある経験や状況に馴染みがあることを表します。例：I'm no stranger to hard work. (私は苦労には慣れています。)"
+    },
+    {
+      "id": 31,
+      "value": "go halfsies on",
+      "options": [
+        "半分にする",
+        "全部支払う",
+        "無料で提供する",
+        "延期する"
+      ],
+      "correctAnswer": "半分にする",
+      "explanation": "「go halfsies on」は、「～を半分ずつ出し合う」という意味です。費用や物を共有する際に使われます。例：Let's go halfsies on the pizza. (ピザを半分ずつ出し合おう。)"
+    },
+    {
+      "id": 32,
+      "value": "you're kidding, right?",
+      "options": [
+        "冗談でしょ？",
+        "本気ですか？",
+        "怒っていますか？",
+        "悲しいですか？"
+      ],
+      "correctAnswer": "冗談でしょ？",
+      "explanation": "「You're kidding, right?」は、「冗談でしょ？」「まさか！」という意味で、相手の発言が信じられない時や驚いた時に使います。軽い驚きや疑念を表す表現です。 例：You're kidding, right? You won the lottery! (冗談でしょ？宝くじに当たったの！)"
+    },
+    {
+      "id": 33,
+      "value": "partners in",
+      "options": [
+        "敵対関係",
+        "協力関係",
+        "無関係",
+        "競争関係"
+      ],
+      "correctAnswer": "協力関係",
+      "explanation": "「partners in」は、「～における協力者」「～におけるパートナー」という意味で、共通の目標や活動のために協力し合う関係を表します。例：We are partners in this project. (私たちはこのプロジェクトの協力者です。)"
+    },
+    {
+      "id": 34,
+      "value": "Tell that to",
+      "options": [
+        "～に同意する",
+        "～に反対する",
+        "～に話してみてください",
+        "～を無視する"
+      ],
+      "correctAnswer": "～に話してみてください",
+      "explanation": "「Tell that to」は、「～に言ってみてくれ」「～にそう言ってみろ」という意味で、ある事柄について反論や皮肉を込めて言う際に使います。多くの場合、相手の意見や状況に対して疑問や不満を持っていることを示します。例：Tell that to my empty wallet. (私のお金のない財布にそう言ってみてくれ。)"
+    },
+    {
+      "id": 35,
+      "value": "take into account",
+      "options": [
+        "無視する",
+        "考慮に入れる",
+        "軽視する",
+        "忘れる"
+      ],
+      "correctAnswer": "考慮に入れる",
+      "explanation": "「take into account」は、「～を考慮に入れる」「～を勘案する」という意味です。ある事柄を判断や計画の際に考慮することを意味します。例：We need to take the weather into account. (天候を考慮に入れる必要があります。)"
+    },
+    {
+      "id": 36,
+      "value": "square footage",
+      "options": [
+        "容積",
+        "表面積",
+        "奥行き",
+        "高さ"
+      ],
+      "correctAnswer": "表面積",
+      "explanation": "「square footage」は、「平方フィート」という意味で、面積を表す単位です。不動産や建築の分野でよく使われます。1平方フィートは約0.093平方メートルです。例：The house has 2,000 square feet of living space. (その家には2,000平方フィートの居住スペースがあります。)"
+    },
+    {
+      "id": 37,
+      "value": "riding the dragon",
+      "options": [
+        "危険を冒す",
+        "困難を乗り越える",
+        "幸運を祈る",
+        "夢を追いかける"
+      ],
+      "correctAnswer": "困難を乗り越える",
+      "explanation": "「riding the dragon」は、ここでは「困難を乗り越える」「感情の波に乗る」といった意味合いで使用されています。特に、ホルモンの影響による感情の変動をコントロールする様子を指すスラングとして使われることがあります。Example: Women have years of practice riding the dragon of hormonal changes."
+    },
+    {
+      "id": 38,
+      "value": "work it out",
+      "options": [
+        "解決する",
+        "計算する",
+        "運動する",
+        "計画する"
+      ],
+      "correctAnswer": "計算する",
+      "explanation": "「work it out」は、ここでは「計算する」「算定する」という意味で使用されています。問題を解決する、運動する、計画するなど、文脈によって様々な意味を持ちます。Example: I need to work out how much money I spent."
+    },
+    {
+      "id": 39,
+      "value": "made-up language",
+      "options": [
+        "難しい言語",
+        "死語",
+        "共通語",
+        "架空の言語"
+      ],
+      "correctAnswer": "架空の言語",
+      "explanation": "「made-up language」は、「架空の言語」「創作言語」という意味です。既存の言語を基にしたり、完全に新しいルールで作られた言語を指します。Example: In fantasy novels, you often find made-up languages spoken by different races."
+    },
+    {
+      "id": 40,
+      "value": "distracted by",
+      "options": [
+        "集中している",
+        "影響を受けている",
+        "満足している",
+        "気を取られている"
+      ],
+      "correctAnswer": "気を取られている",
+      "explanation": "「distracted by」は、「～に気を取られている」「～に気を散らされている」という意味です。注意がそらされることを表します。Example: I was distracted by the loud music."
+    },
+    {
+      "id": 41,
+      "value": "unfaithful to",
+      "options": [
+        "忠実な",
+        "親切な",
+        "不誠実な",
+        "友好的な"
+      ],
+      "correctAnswer": "不誠実な",
+      "explanation": "「unfaithful to」は、「～に不誠実な」「～を裏切る」という意味で、特に恋愛関係において浮気や不倫を指すことが多いです。Example: He was unfaithful to his wife."
+    },
+    {
+      "id": 42,
+      "value": "have no choice but to",
+      "options": [
+        "選択肢がたくさんある",
+        "～しないことを選ぶ",
+        "～するしかない",
+        "自由に選べる"
+      ],
+      "correctAnswer": "～するしかない",
+      "explanation": "「have no choice but to」は、「～するしかない」「～せざるを得ない」という意味です。他に選択肢がない状況を表します。Example: I have no choice but to accept the offer."
+    },
+    {
+      "id": 43,
+      "value": "ravenous",
+      "options": [
+        "満足した",
+        "空腹の",
+        "病気の",
+        "疲れた"
+      ],
+      "correctAnswer": "空腹の",
+      "explanation": "「ravenous」は、「貪欲な」「腹ペコの」という意味で、非常に強い空腹感を表現します。Example: I'm ravenous! Where's the food?"
+    },
+    {
+      "id": 44,
+      "value": "nether regions",
+      "options": [
+        "高貴な地域",
+        "未知の地域",
+        "下腹部",
+        "危険な地域"
+      ],
+      "correctAnswer": "下腹部",
+      "explanation": "「nether regions」は、「下腹部」「陰部」を指す婉曲表現です。ややユーモラスなニュアンスを含みます。Example: He felt a pain in his nether regions."
+    },
+    {
+      "id": 45,
+      "value": "small leap",
+      "options": [
+        "大きな飛躍",
+        "わずかな飛躍",
+        "突然の変化",
+        "緩やかな変化"
+      ],
+      "correctAnswer": "わずかな飛躍",
+      "explanation": "「small leap」は、「わずかな飛躍」「小さな飛躍」という意味で、論理や思考の過程でわずかな関連性や繋がりがあることを示します。 例：It's a small leap from liking chocolate to being a chocolatier."
+    },
+    {
+      "id": 46,
+      "value": "sexual infidelity",
+      "options": [
+        "性的満足",
+        "性的好奇心",
+        "性的不信",
+        "性的不貞"
+      ],
+      "correctAnswer": "性的不貞",
+      "explanation": "「sexual infidelity」は、「性的不貞」「不倫」という意味で、結婚または恋愛関係にある人が、パートナー以外の人と性的な関係を持つことを指します。Example: Sexual infidelity can destroy a marriage."
+    },
+    {
+      "id": 47,
+      "value": "whispering",
+      "options": [
+        "叫び声",
+        "ささやき声",
+        "歌声",
+        "話し声"
+      ],
+      "correctAnswer": "ささやき声",
+      "explanation": "「whispering」は、「ささやき声」という意味で、小さな声で話すことを指します。秘密の話や内緒話をする際によく使われます。Example: I heard whispering in the library."
+    },
+    {
+      "id": 48,
+      "value": "smarty-pants",
+      "options": [
+        "お調子者",
+        "賢い人",
+        "怠け者",
+        "正直者"
+      ],
+      "correctAnswer": "賢い人",
+      "explanation": "「smarty-pants」は、「お利口さん」「賢ぶったやつ」という意味で、相手の知ったかぶりや賢さをからかうニュアンスで使われる口語表現です。 Example: Don't be a smarty-pants; just answer the question."
+    },
+    {
+      "id": 49,
+      "value": "bloated",
+      "options": [
+        "痩せた",
+        "むくんだ",
+        "健康的な",
+        "引き締まった"
+      ],
+      "correctAnswer": "むくんだ",
+      "explanation": "「bloated」は、「むくんだ」「膨満した」という意味で、主に体や腹部が水分やガスなどで膨らんでいる状態を表します。Example: I feel bloated after eating too much salt."
+    },
+    {
+      "id": 50,
+      "value": "moody",
+      "options": [
+        "陽気な",
+        "気分屋の",
+        "落ち着いた",
+        "優しい"
+      ],
+      "correctAnswer": "気分屋の",
+      "explanation": "「moody」は、「気分の変わりやすい」「むら気な」という意味で、感情が安定せず、すぐに機嫌が変わる様子を表します。Example: She's been very moody lately."
+    },
+    {
+      "id": 51,
+      "value": "barge in",
+      "options": [
+        "丁寧に入る",
+        "予告なしに押し入る",
+        "招待されて入る",
+        "許可を得て入る"
+      ],
+      "correctAnswer": "予告なしに押し入る",
+      "explanation": "「barge in」は、許可なく、または礼儀を欠いてずかずかと入ってくる、押し入るという意味です。相手に不快感を与えるニュアンスが含まれます。例：He barged in on our conversation. (彼は私たちの会話に割り込んできた。)"
+    },
+    {
+      "id": 52,
+      "value": "to what extent",
+      "options": [
+        "どの範囲まで",
+        "どの目的のために",
+        "どの理由で",
+        "どの場所で"
+      ],
+      "correctAnswer": "どの範囲まで",
+      "explanation": "「to what extent」は、「どの程度まで」「どの範囲まで」という意味で、程度や範囲を尋ねる際に使われる表現です。例：To what extent are you involved in this project? (あなたはこのプロジェクトにどの程度関わっていますか？)"
+    },
+    {
+      "id": 53,
+      "value": "sugarcoat",
+      "options": [
+        "辛くする",
+        "甘くする",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "甘くする",
+      "explanation": "「sugarcoat」は、不快な事実や真実を、聞こえの良い言葉で覆い隠す、取り繕うという意味です。実際よりも良く見せようとする意図が含まれます。例：Let's not sugarcoat it, the situation is serious. (取り繕うのはやめよう、状況は深刻だ。)"
+    },
+    {
+      "id": 54,
+      "value": "finicky",
+      "options": [
+        "おおらか",
+        "几帳面",
+        "大雑把",
+        "冷静"
+      ],
+      "correctAnswer": "几帳面",
+      "explanation": "「finicky」は、細かいことにこだわりすぎる、神経質な、気難しいという意味です。特に食べ物や好みの点で細かく、扱いにくい様子を表します。例：She's a finicky eater. (彼女は食べ物にうるさい。)"
+    },
+    {
+      "id": 55,
+      "value": "pedantic",
+      "options": [
+        "大ざっぱな",
+        "学問的な",
+        "実用的な",
+        "柔軟な"
+      ],
+      "correctAnswer": "学問的な",
+      "explanation": "「pedantic」は、知識をひけらかす、細かいことにうるさい、衒学的という意味です。些細なことに拘泥し、知識を誇示するような態度を指します。例：He was being pedantic about grammar rules. (彼は文法規則について衒学的に振る舞っていた。)"
+    },
+    {
+      "id": 56,
+      "value": "high time",
+      "options": [
+        "良い時期",
+        "絶好の機会",
+        "遅すぎるくらいの時期",
+        "早い時期"
+      ],
+      "correctAnswer": "遅すぎるくらいの時期",
+      "explanation": "「It's high time」は、「もう～するべき時だ」「～しても良い頃だ」という意味で、手遅れになる前に何かをするべきだというニュアンスを含みます。例：It's high time you started looking for a job. (そろそろ仕事を探し始めるべきだ。)"
+    },
+    {
+      "id": 57,
+      "value": "address the elephant in the room",
+      "options": [
+        "部屋の象に餌をやる",
+        "見て見ぬふりをする",
+        "皆が触れたがらない問題に触れる",
+        "部屋の装飾をする"
+      ],
+      "correctAnswer": "皆が触れたがらない問題に触れる",
+      "explanation": "「elephant in the room」は、誰もが気づいているのに、触れることを避けている、明白だが議論されない問題や状況を指すイディオムです。例：We need to address the elephant in the room - the company is losing money. (皆が触れたがらない問題、つまり会社が赤字であることを議論する必要がある。)"
+    },
+    {
+      "id": 58,
+      "value": "coitus",
+      "options": [
+        "食事",
+        "睡眠",
+        "性交",
+        "運動"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交、性交渉を意味するフォーマルな言葉です。日常会話ではあまり使われません。医学的な文脈や、やや堅い表現を好む場合に用いられます。例：They engaged in coitus. (彼らは性交を行った。)"
+    },
+    {
+      "id": 59,
+      "value": "lay off",
+      "options": [
+        "続ける",
+        "辞める",
+        "中断する",
+        "我慢する"
+      ],
+      "correctAnswer": "中断する",
+      "explanation": "「lay off」は、「（特に良くないことを）やめる」「控える」という意味です。また、「一時解雇する」という意味もあります。例：Lay off the sweets if you want to lose weight. (痩せたいなら甘いものを控えて。)"
+    },
+    {
+      "id": 60,
+      "value": "warming up",
+      "options": [
+        "冷やす",
+        "温める",
+        "凍らせる",
+        "調理する"
+      ],
+      "correctAnswer": "温める",
+      "explanation": "warming up はここでは食べ物を温めているという意味です。電子レンジなどで温める行為を指します。例：I am warming up left over pizza. (私は昨日のピザを温めている。)"
+    },
+    {
+      "id": 61,
+      "value": "reading up on",
+      "options": [
+        "読み飛ばす",
+        "詳しく調べる",
+        "斜め読みする",
+        "朗読する"
+      ],
+      "correctAnswer": "詳しく調べる",
+      "explanation": "「read up on」は、～について調べる、勉強するという意味です。あるトピックについて情報を集めたり、知識を深めたりする際に使われます。例：I need to read up on the latest research. (最新の研究について調べる必要がある。)"
+    },
+    {
+      "id": 62,
+      "value": "side effects",
+      "options": [
+        "副作用",
+        "主要な効果",
+        "良い影響",
+        "根本的な原因"
+      ],
+      "correctAnswer": "副作用",
+      "explanation": "「side effect」は、医薬品などの副作用、または意図しない影響を意味します。例：One of the side effects of this medicine is drowsiness. (この薬の副作用の一つは眠気です。)"
+    },
+    {
+      "id": 63,
+      "value": "jiggle",
+      "options": [
+        "固定する",
+        "揺れる",
+        "圧縮する",
+        "持ち上げる"
+      ],
+      "correctAnswer": "揺れる",
+      "explanation": "「jiggle」は、軽く揺れる、震えるという意味です。特に柔らかいものが小刻みに揺れる様子を表します。例：The jelly jiggled on the plate. (ゼリーが皿の上で揺れた。)"
+    },
+    {
+      "id": 64,
+      "value": "have something going for you",
+      "options": [
+        "不利な点がある",
+        "有利な点がある",
+        "失うものがある",
+        "何も持っていない"
+      ],
+      "correctAnswer": "有利な点がある",
+      "explanation": "「have something going for you」は、有利な点や強みを持っているという意味です。成功につながる可能性や、良い要素があることを示唆します。例：You're smart and hardworking, you've got a lot going for you. (あなたは賢くて努力家だ、たくさんの良いところがある。)"
+    },
+    {
+      "id": 65,
+      "value": "perky",
+      "options": [
+        "落ち込んでいる",
+        "元気な",
+        "疲れている",
+        "無気力な"
+      ],
+      "correctAnswer": "元気な",
+      "explanation": "「perky」は、元気な、活発な、陽気なという意味です。また、胸などが上向きで張りのある様子を表すこともあります。例：She's always so perky in the morning. (彼女はいつも朝から元気だ。)"
+    },
+    {
+      "id": 66,
+      "value": "for all I know",
+      "options": [
+        "私が知っている限り",
+        "私が知らない限り",
+        "もしかすると",
+        "絶対にない"
+      ],
+      "correctAnswer": "もしかすると",
+      "explanation": "「for all I know」は、「知らないけれども、ひょっとすると～かもしれない」「たぶん～だろう」という意味で、不確かさや推測を表します。例：For all I know, he's already left. (知らないけど、彼はもう出発したかもしれない。)"
+    },
+    {
+      "id": 67,
+      "value": "cornfield maze",
+      "options": [
+        "トウモロコシ畑の迷路",
+        "花畑の迷路",
+        "庭の迷路",
+        "地下の迷路"
+      ],
+      "correctAnswer": "トウモロコシ畑の迷路",
+      "explanation": "「cornfield maze」は、トウモロコシ畑の中に作られた迷路のことです。主に娯楽目的で作られ、秋によく見られます。"
+    },
+    {
+      "id": 68,
+      "value": "back alley",
+      "options": [
+        "裏通り",
+        "大通り",
+        "公園の道",
+        "高速道路"
+      ],
+      "correctAnswer": "裏通り",
+      "explanation": "「back alley」は、裏通り、路地裏という意味です。人通りの少ない、やや危険な場所というニュアンスを含むことがあります。例：The back alley was dark and dirty. (その裏通りは暗くて汚れていた。)"
+    },
+    {
+      "id": 69,
+      "value": "dog fight",
+      "options": [
+        "犬の散歩",
+        "犬の訓練",
+        "犬の喧嘩",
+        "犬の遊び"
+      ],
+      "correctAnswer": "犬の喧嘩",
+      "explanation": "「dog fight」は、犬同士を戦わせる行為、またはその試合を指します。多くの場合、違法で残酷な行為とみなされます。"
+    },
+    {
+      "id": 70,
+      "value": "give you that one",
+      "options": [
+        "それをあげる",
+        "それを否定する",
+        "それを認める",
+        "それを無視する"
+      ],
+      "correctAnswer": "それを認める",
+      "explanation": "「I'll give you that one」は、「それについてはあなたの言う通りだ」「それについては認める」という意味です。相手の主張や意見が正しいと認める際に使われます。例：Okay, I'll give you that one, you were right. (わかった、それについては君が正しかったと認めよう。)"
+    },
+    {
+      "id": 71,
+      "value": "hanging out",
+      "options": [
+        "手伝う",
+        "ぶらぶらする",
+        "邪魔する",
+        "片付ける"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、友達と気軽に時間を過ごす、ぶらぶらするという意味です。特に目的もなく、リラックスして過ごす様子を表します。例：I'm just hanging out at home. (家でぶらぶらしているだけだよ。)"
+    },
+    {
+      "id": 72,
+      "value": "in the act",
+      "options": [
+        "行動の後で",
+        "行動の最中に",
+        "行動の前に",
+        "行動の結果"
+      ],
+      "correctAnswer": "行動の最中に",
+      "explanation": "「in the act」は、「現行犯で」「まさにその時」という意味です。何か悪いことや秘密の行動をしている最中に見つかる状況を表します。例：He was caught in the act of stealing. (彼は盗みの現行犯で捕まった。)"
+    },
+    {
+      "id": 73,
+      "value": "knock, knock, knock",
+      "options": [
+        "ノックの音",
+        "爆発音",
+        "ドアベルの音",
+        "足音"
+      ],
+      "correctAnswer": "ノックの音",
+      "explanation": "「knock, knock, knock」は、ドアをノックする音を表す擬音語です。このフレーズ自体が、一種のジョークの始まりとして使われることもあります。"
+    },
+    {
+      "id": 74,
+      "value": "a couple of",
+      "options": [
+        "たくさんの",
+        "少しの",
+        "数個の",
+        "一つの"
+      ],
+      "correctAnswer": "数個の",
+      "explanation": "「a couple of」は、「2つの」「いくつかの」という意味です。厳密に2つでなくても、少数を指す際に使われます。例：I'll be there in a couple of minutes. (数分でそちらに着きます。)"
+    },
+    {
+      "id": 75,
+      "value": "changes nothing",
+      "options": [
+        "すべてを変える",
+        "何も変えない",
+        "少しだけ変える",
+        "予期せぬ変化"
+      ],
+      "correctAnswer": "何も変えない",
+      "explanation": "「changes nothing」は、「何も変わらない」という意味です。状況や感情、決定などが影響を受けないことを強調する際に使われます。例：This apology changes nothing. (この謝罪は何も変えない。)"
+    },
+    {
+      "id": 76,
+      "value": "holding up",
+      "options": [
+        "持ち上げる",
+        "遅らせる",
+        "支持する",
+        "我慢する"
+      ],
+      "correctAnswer": "遅らせる",
+      "explanation": "「hold up」は、遅らせる、妨げるという意味の句動詞です。物理的に何かを持ち上げる意味もありますが、ここでは比喩的に、相手の行動を遅らせている、という意味で使われています。また、銀行などを「襲う」という意味もあります。"
+    },
+    {
+      "id": 77,
+      "value": "succubus",
+      "options": [
+        "悪魔",
+        "妖精",
+        "天使",
+        "女神"
+      ],
+      "correctAnswer": "悪魔",
+      "explanation": "「succubus」は、男性を誘惑する女性の悪魔、夢魔のことです。中世の伝説に登場し、男性から精力を奪うとされています。ここでは、シェルドンがペニーを非難する際に、比喩的に使っています。"
+    },
+    {
+      "id": 78,
+      "value": "astray",
+      "options": [
+        "迷って",
+        "道を尋ねて",
+        "出発して",
+        "安全に"
+      ],
+      "correctAnswer": "迷って",
+      "explanation": "「astray」は、道に迷って、誤った方向に、という意味の副詞です。比喩的に、道徳的に誤った方向に進む、という意味でも使われます。ここでは、ペニーがレナードを誤った方向に導いた、という意味で使われています。"
+    },
+    {
+      "id": 79,
+      "value": "betrayal",
+      "options": [
+        "裏切り",
+        "忠誠",
+        "友情",
+        "信頼"
+      ],
+      "correctAnswer": "裏切り",
+      "explanation": "「betrayal」は、裏切り、背信行為という意味の名詞です。信頼を裏切る行為を指し、深刻な失望や怒りを伴うことが多いです。ここでは、シェルドンがペニーの行動を大げさに非難する際に使われています。"
+    },
+    {
+      "id": 80,
+      "value": "FYI",
+      "options": [
+        "ちなみに",
+        "おめでとう",
+        "ごめんなさい",
+        "はじめまして"
+      ],
+      "correctAnswer": "ちなみに",
+      "explanation": "「FYI」は、For Your Informationの略で、参考までに、という意味の略語です。ビジネスシーンや日常会話で、情報を伝える際に使われます。メールやメッセージでよく使用されます。"
+    },
+    {
+      "id": 81,
+      "value": "jerk",
+      "options": [
+        "ばか",
+        "天才",
+        "親友",
+        "英雄"
+      ],
+      "correctAnswer": "ばか",
+      "explanation": "「jerk」は、嫌なやつ、ばか、という意味の軽蔑的な言葉です。相手を侮辱する際に使われます。ここでは、エイミーがシェルドンに対して、冗談交じりに使っています。"
+    },
+    {
+      "id": 82,
+      "value": "crunched",
+      "options": [
+        "計算された",
+        "保存された",
+        "失われた",
+        "無視された"
+      ],
+      "correctAnswer": "計算された",
+      "explanation": "「crunch」は、ここではデータを処理する、計算するという意味で使われています。大量のデータを分析するニュアンスが含まれています。"
+    },
+    {
+      "id": 83,
+      "value": "Unruh radiation",
+      "options": [
+        "アンルー放射",
+        "ブレーキング放射",
+        "チェレンコフ放射",
+        "宇宙背景放射"
+      ],
+      "correctAnswer": "アンルー放射",
+      "explanation": "「Unruh radiation」は、アンルー放射と呼ばれる、加速する観測者から見た場合に熱的な放射として観測される現象のことです。量子場理論における予測の一つで、ホーキング放射と関連があります。"
+    },
+    {
+      "id": 84,
+      "value": "Judas",
+      "options": [
+        "裏切り者",
+        "救世主",
+        "使徒",
+        "預言者"
+      ],
+      "correctAnswer": "裏切り者",
+      "explanation": "「Judas」は、キリストを裏切ったユダのことです。裏切り者の代名詞として使われます。ここでは、シェルドンがレナードを裏切り者と非難する際に使っています。"
+    },
+    {
+      "id": 85,
+      "value": "goes according to plan",
+      "options": [
+        "計画通りに進む",
+        "計画が失敗する",
+        "計画が変更される",
+        "計画が秘密にされる"
+      ],
+      "correctAnswer": "計画通りに進む",
+      "explanation": "「go according to plan」は、計画通りに進む、予定通りになるという意味のイディオムです。物事が順調に進んでいる状況を表します。ここでは、シェルドンの計画がうまくいくことを示唆しています。"
+    },
+    {
+      "id": 86,
+      "value": "Kickstarter",
+      "options": [
+        "クラウドファンディング",
+        "オークションサイト",
+        "オンラインゲーム",
+        "ソーシャルメディア"
+      ],
+      "correctAnswer": "クラウドファンディング",
+      "explanation": "「Kickstarter」は、クラウドファンディングのプラットフォームの名前です。プロジェクトに必要な資金を、インターネットを通じて一般の人々から集める仕組みです。ここでは、シェルドンが自分のプロジェクトのために資金を募ることを示唆しています。"
+    },
+    {
+      "id": 87,
+      "value": "put aside",
+      "options": [
+        "脇に置く",
+        "強調する",
+        "無視する",
+        "探す"
+      ],
+      "correctAnswer": "脇に置く",
+      "explanation": "「put aside」は、脇に置く、一時的に忘れるという意味の句動詞です。問題や感情などを一時的に無視して、他のことに集中する際に使われます。ここでは、ハワードがレナードとシェルドンに、 Petty differences を脇に置いて仲直りするように促しています。"
+    },
+    {
+      "id": 88,
+      "value": "petty differences",
+      "options": [
+        "些細な違い",
+        "大きな相違点",
+        "共通の趣味",
+        "価値観の共有"
+      ],
+      "correctAnswer": "些細な違い",
+      "explanation": "「petty differences」は、些細な違い、小さな意見の相違という意味の表現です。深刻な対立ではなく、取るに足らない不一致を指します。ここでは、ハワードがレナードとシェルドンの間の小さな喧嘩を指して使っています。"
+    },
+    {
+      "id": 89,
+      "value": "cap off",
+      "options": [
+        "締めくくる",
+        "始める",
+        "中断する",
+        "隠す"
+      ],
+      "correctAnswer": "締めくくる",
+      "explanation": "「cap off」は、締めくくる、仕上げるという意味の句動詞です。何かを最高のものとして終える、という意味合いがあります。ここでは、レナードが完璧な一日を締めくくるために、計量局に行ったことを表現しています。"
+    },
+    {
+      "id": 90,
+      "value": "turns out",
+      "options": [
+        "結局〜だとわかる",
+        "すぐに終わる",
+        "隠れてしまう",
+        "明るみに出る"
+      ],
+      "correctAnswer": "結局〜だとわかる",
+      "explanation": "「turns out」は、結局〜だとわかる、判明するという意味の句動詞です。予想外の結果や事実が明らかになる際に使われます。ここでは、レナードが計量局で期待していたものと違う結果になったことを表しています。"
+    },
+    {
+      "id": 91,
+      "value": "hanging out",
+      "options": [
+        "ぶらぶらする",
+        "急いで立ち去る",
+        "真剣に議論する",
+        "秘密裏に会う"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、ぶらぶらする、気軽に時間を過ごすという意味の句動詞です。友達とリラックスして過ごす様子を表します。ここでは、ラージがみんなで一緒に過ごす時間が恋しかったことを表現しています。"
+    }
+  ]
+}

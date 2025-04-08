@@ -1,0 +1,1072 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "one sec",
+      "options": [
+        "1秒",
+        "しばらく",
+        "秘密",
+        "休憩"
+      ],
+      "correctAnswer": "しばらく",
+      "explanation": "「one sec」は「one second」の略で、文字通りには「1秒」という意味ですが、会話の中では「ちょっと待って」「すぐに」という意味で使われます。相手に少し時間をくださいと伝える際に便利です。例：One sec, I'll be right there. (ちょっと待って、すぐに行くよ。)"
+    },
+    {
+      "id": 2,
+      "value": "That'll teach her",
+      "options": [
+        "それは彼女を教育するだろう",
+        "それは彼女に良い教訓となるだろう",
+        "それは彼女を助けるだろう",
+        "それは彼女を困らせるだろう"
+      ],
+      "correctAnswer": "それは彼女に良い教訓となるだろう",
+      "explanation": "「That'll teach her」は、相手の行動に対する反省や後悔を促すような状況で使われる表現です。皮肉を込めて使われることが多く、相手が何かを学んだり、懲りたりすることを期待するニュアンスがあります。例：That'll teach her to mess with me. (これで彼女も私をからかうのをやめるだろう。)"
+    },
+    {
+      "id": 3,
+      "value": "runner's high",
+      "options": [
+        "ランニング後の疲労",
+        "ランニング中の幸福感",
+        "ランニングの才能",
+        "ランニングの目標"
+      ],
+      "correctAnswer": "ランニング中の幸福感",
+      "explanation": "「runner's high」は、ランニングなどの運動中に感じる高揚感や幸福感を指します。これは、運動によって脳内麻薬であるエンドルフィンが分泌されることが原因であると考えられています。長時間の運動後に特に感じやすいとされています。"
+    },
+    {
+      "id": 4,
+      "value": "Had me at",
+      "options": [
+        "～で私を捕まえた",
+        "～で私を満足させた",
+        "～で私を失望させた",
+        "～で私を混乱させた"
+      ],
+      "correctAnswer": "～で私を満足させた",
+      "explanation": "「Had me at」は、「～という言葉を聞いた瞬間に興味を持った」「～という点で私はもう賛成した」という意味を表す口語的な表現です。相手が言った特定の言葉やアイデアに非常に魅力を感じたときに使います。例：He had me at 'free pizza'. (彼が「無料のピザ」と言った瞬間に、私はもう行くことに決めた。)"
+    },
+    {
+      "id": 5,
+      "value": "bust out",
+      "options": [
+        "壊す",
+        "始める",
+        "隠す",
+        "捨てる"
+      ],
+      "correctAnswer": "始める",
+      "explanation": "「bust out」は、何かを勢いよく始める、または披露するという意味のスラングです。特に、普段はしないような行動をするときに使われます。例：Let's bust out the champagne! (シャンパンを開けよう！)"
+    },
+    {
+      "id": 6,
+      "value": "preach",
+      "options": [
+        "説教する",
+        "同意する",
+        "無視する",
+        "反対する"
+      ],
+      "correctAnswer": "同意する",
+      "explanation": "「preach」は、もともと「説教する」という意味ですが、スラングとして使われる場合は、相手の意見や発言に強く同意する、共感するという意味になります。相手の言っていることがまさに自分の思っていることだと感じたときに使います。例：You're so right, preach! (その通りだ、よく言ってくれた！)"
+    },
+    {
+      "id": 7,
+      "value": "touché",
+      "options": [
+        "ありがとう",
+        "その通り",
+        "ごめんなさい",
+        "はじめまして"
+      ],
+      "correctAnswer": "その通り",
+      "explanation": "「touché」はフランス語で、「参りました」「一本取られた」という意味です。相手の指摘や反論が的を射ていて、言い返す言葉がないときに使います。もともとはフェンシングで、有効な攻撃が成功した際に使われる言葉です。"
+    },
+    {
+      "id": 8,
+      "value": "for starters",
+      "options": [
+        "初心者のために",
+        "まず第一に",
+        "最後に",
+        "冗談で"
+      ],
+      "correctAnswer": "まず第一に",
+      "explanation": "「for starters」は、「まず最初に」「手始めに」という意味で使われます。何かを始めるにあたって、最初に行うべきことや考慮すべきことを示す際に使います。例：For starters, we need to find a location. (まず最初に、場所を見つける必要があります。)"
+    },
+    {
+      "id": 9,
+      "value": "pervs",
+      "options": [
+        "賢者",
+        "変態",
+        "ヒーロー",
+        "悪役"
+      ],
+      "correctAnswer": "変態",
+      "explanation": "「perv」は「pervert」の略で、「変態」「エロ魔人」という意味のスラングです。性的に異常な関心を持つ人や、不快な性的行動をする人を指します。非常にネガティブな意味合いを持つ言葉なので、使用には注意が必要です。"
+    },
+    {
+      "id": 10,
+      "value": "backstory",
+      "options": [
+        "裏話",
+        "未来の話",
+        "おとぎ話",
+        "作り話"
+      ],
+      "correctAnswer": "裏話",
+      "explanation": "「backstory」は、物語やキャラクターの背景にある出来事や情報を指します。物語を理解するために重要な情報であり、キャラクターの動機や行動を説明するために使われます。例：The movie provides a detailed backstory of the main character. (その映画は、主人公の詳細な裏話を提供している。)"
+    },
+    {
+      "id": 11,
+      "value": "swashbuckler",
+      "options": [
+        "剣士",
+        "臆病者",
+        "学者",
+        "詐欺師"
+      ],
+      "correctAnswer": "剣士",
+      "explanation": "「swashbuckler」は、大胆で勇敢な冒険家、特に剣術に長けた人を指します。映画や小説などによく登場する、ロマンチックなヒーローのイメージです。例：He dreamed of being a swashbuckler like the hero in the movie. (彼は映画のヒーローのような勇敢な冒険家になることを夢見ていた。)"
+    },
+    {
+      "id": 12,
+      "value": "referring to",
+      "options": [
+        "言及する",
+        "無視する",
+        "理解する",
+        "反対する"
+      ],
+      "correctAnswer": "言及する",
+      "explanation": "「referring to」は、「～に言及する」「～を指す」という意味です。ある特定の事柄や人物について話す際に使われます。例：The author is referring to the economic crisis in his book. (著者は彼の本の中で経済危機について言及している。)"
+    },
+    {
+      "id": 13,
+      "value": "warn you",
+      "options": [
+        "警告する",
+        "褒める",
+        "励ます",
+        "祝福する"
+      ],
+      "correctAnswer": "警告する",
+      "explanation": "「warn you」は、「あなたに警告する」という意味です。危険や問題が起こる可能性があることを相手に伝える際に使います。例：I have to warn you, the road ahead is very bumpy. (警告しなければならない、この先の道はとてもでこぼこです。)"
+    },
+    {
+      "id": 14,
+      "value": "yanked down",
+      "options": [
+        "引っ張って下げる",
+        "引っ張って上げる",
+        "優しく置く",
+        "丁寧に扱う"
+      ],
+      "correctAnswer": "引っ張って下げる",
+      "explanation": "「yanked down」は、「乱暴に引っ張って下げる」という意味です。「yank」は、素早く強く引っ張る動作を表します。Example: He yanked down the curtain in frustration. (彼はイライラしてカーテンを乱暴に引っ張って下ろした。)"
+    },
+    {
+      "id": 15,
+      "value": "meets many of our personal criteria",
+      "options": [
+        "私たちの個人的な基準を多く満たす",
+        "私たちの個人的な基準を全く満たさない",
+        "私たちの個人的な基準を一部満たす",
+        "私たちの個人的な基準を超えている"
+      ],
+      "correctAnswer": "私たちの個人的な基準を多く満たす",
+      "explanation": "「meets many of our personal criteria」は、「私たちの個人的な基準の多くを満たしている」という意味です。何かが特定の要件や期待に合致していることを示します。Example: This house meets many of our personal criteria, including location and size. (この家は、場所や広さなど、私たちの個人的な基準の多くを満たしている。)"
+    },
+    {
+      "id": 16,
+      "value": "added bonus",
+      "options": [
+        "追加の報酬",
+        "予期せぬ利益",
+        "隠れたリスク",
+        "重大な欠点"
+      ],
+      "correctAnswer": "追加の報酬",
+      "explanation": "「added bonus」は、「追加の報酬」「予期せぬ利益」という意味です。期待していなかった良いことが加わる状況を表します。Example: The job comes with an added bonus of flexible working hours. (その仕事には、勤務時間が柔軟であるという予期せぬ利益が伴う。)"
+    },
+    {
+      "id": 17,
+      "value": "rethink some of this artwork",
+      "options": [
+        "このアートワークの一部を再考する",
+        "このアートワークを全て破棄する",
+        "このアートワークを高く評価する",
+        "このアートワークを無視する"
+      ],
+      "correctAnswer": "このアートワークの一部を再考する",
+      "explanation": "「rethink some of this artwork」は、「このアートワークの一部を再考する」という意味です。既存のアートワークについて、その表現や内容を再度検討し、改善の余地がないか考えることを示唆します。Example: The editor suggested the author rethink some of the character's motivations. (編集者は、著者にキャラクターの動機の一部を再考することを提案した。)"
+    },
+    {
+      "id": 18,
+      "value": "jumping up on the couch",
+      "options": [
+        "ソファーに飛び乗る",
+        "ソファーから飛び降りる",
+        "ソファーを掃除する",
+        "ソファーで寝る"
+      ],
+      "correctAnswer": "ソファーに飛び乗る",
+      "explanation": "「jumping up on the couch」は、「ソファーに飛び乗る」という意味です。特に動物や子供がソファーに飛び乗る行為を指すことが多いです。Example: The dog was always jumping up on the couch, despite being told not to. (その犬は、ダメだと言われてもいつもソファーに飛び乗っていた。)"
+    },
+    {
+      "id": 19,
+      "value": "feel cool",
+      "options": [
+        "涼しく感じる",
+        "気分が良い",
+        "冷たく感じる",
+        "退屈に感じる"
+      ],
+      "correctAnswer": "気分が良い",
+      "explanation": "「feel cool」は、「気分が良い」「かっこいいと感じる」という意味です。自信がある、または特定の状況で優越感を感じる際に使われます。Example: After winning the competition, he felt cool and confident. (競争に勝った後、彼は気分が良く、自信に満ち溢れていた。)"
+    },
+    {
+      "id": 20,
+      "value": "Well said",
+      "options": [
+        "よく言った",
+        "言い過ぎだ",
+        "理解できない",
+        "同意しない"
+      ],
+      "correctAnswer": "よく言った",
+      "explanation": "「Well said」は、「よく言った」「その通りだ」という意味です。相手の発言が適切で、的を射ていると感じたときに使われます。Example: "
+    },
+    {
+      "id": 21,
+      "value": "isn't a joke",
+      "options": [
+        "冗談ではない",
+        "とても面白い",
+        "理解できない",
+        "簡単だ"
+      ],
+      "correctAnswer": "冗談ではない",
+      "explanation": "「isn't a joke」は、「冗談ではない」「真剣に取り組むべきだ」という意味です。何かを軽く見たり、ふざけたりするべきではない状況で使われます。Example: This is a serious matter; it isn't a joke. (これは深刻な問題です。冗談ではありません。)"
+    },
+    {
+      "id": 22,
+      "value": "forgot about",
+      "options": [
+        "忘れた",
+        "思い出した",
+        "探した",
+        "隠した"
+      ],
+      "correctAnswer": "忘れた",
+      "explanation": "「forgot about」は、「～について忘れていた」という意味です。以前知っていたことや、覚えているはずのことを忘れてしまった状況で使われます。Example: I completely forgot about our appointment! (完全に約束を忘れていました！)"
+    },
+    {
+      "id": 23,
+      "value": "The other day",
+      "options": [
+        "先日",
+        "毎日",
+        "今日",
+        "明日"
+      ],
+      "correctAnswer": "先日",
+      "explanation": "「the other day」は、「先日」「この間」という意味です。具体的な日付は覚えていないが、数日前に起こった出来事を指す際に使います。Example: I saw her at the store the other day. (先日、お店で彼女を見かけました。)"
+    },
+    {
+      "id": 24,
+      "value": "simply thinking about exercise",
+      "options": [
+        "運動について考えるだけ",
+        "実際に運動する",
+        "運動を避ける",
+        "運動を計画する"
+      ],
+      "correctAnswer": "運動について考えるだけ",
+      "explanation": "「simply thinking about exercise」は、「運動について考えるだけ」という意味です。実際に体を動かすのではなく、頭の中で運動をイメージする行為を指します。Example: According to some studies, simply thinking about exercise can have some benefits. (いくつかの研究によると、運動について考えるだけでもいくつかの効果があるそうです。)"
+    },
+    {
+      "id": 25,
+      "value": "physical benefits",
+      "options": [
+        "身体的な利益",
+        "精神的な利益",
+        "経済的な利益",
+        "社会的な利益"
+      ],
+      "correctAnswer": "身体的な利益",
+      "explanation": "「physical benefits」は、「身体的な利益」「肉体的な利点」という意味です。運動や健康的な生活習慣によって得られる、体の健康に関する良い影響を指します。Example: Regular exercise provides many physical benefits, such as improved cardiovascular health. (定期的な運動は、心血管の健康改善など、多くの身体的な利益をもたらします。)"
+    },
+    {
+      "id": 26,
+      "value": "might as well",
+      "options": [
+        "〜する方が良い",
+        "〜するかもしれない",
+        "〜するはずがない",
+        "〜する必要がある"
+      ],
+      "correctAnswer": "〜する方が良い",
+      "explanation": "「might as well」は、「〜する方が良い」「〜しても差し支えない」という意味で、他の選択肢がないか、より良い選択肢がない場合に用いられます。消極的な同意や提案を表す際に使われます。\n\n例：Since it's raining, we might as well stay home. (雨が降っているから、家にいた方がいいね。)"
+    },
+    {
+      "id": 27,
+      "value": "fundamentals",
+      "options": [
+        "基礎",
+        "応用",
+        "戦術",
+        "戦略"
+      ],
+      "correctAnswer": "基礎",
+      "explanation": "「fundamentals」は、物事の基礎、基本原理という意味です。スポーツ、学問、ビジネスなど、様々な分野で使われます。複数形で用いられることが多いです。\n\n例：We need to go back to the fundamentals of marketing. (マーケティングの基本に戻る必要がある。)"
+    },
+    {
+      "id": 28,
+      "value": "submissive",
+      "options": [
+        "従順な",
+        "支配的な",
+        "活発な",
+        "独立した"
+      ],
+      "correctAnswer": "従順な",
+      "explanation": "「submissive」は、服従的な、従順なという意味です。権威や他者の意志に逆らわない態度を表します。ここでは、冗談めかして「（足が）言うことを聞く」という意味で使われています。\n\n例：He has a submissive personality. (彼は従順な性格だ。)"
+    },
+    {
+      "id": 29,
+      "value": "en garde",
+      "options": [
+        "始め",
+        "構え",
+        "休憩",
+        "終わり"
+      ],
+      "correctAnswer": "構え",
+      "explanation": "「en garde」は、フェンシングで「構え」を意味するフランス語です。試合開始時の姿勢を指します。\n\n例：The fencers stood en garde, ready for the match to begin. (フェンサーたちは構えを取り、試合開始に備えた。)"
+    },
+    {
+      "id": 30,
+      "value": "rigorous",
+      "options": [
+        "厳格な",
+        "簡単な",
+        "楽しい",
+        "自由な"
+      ],
+      "correctAnswer": "厳格な",
+      "explanation": "「rigorous」は、厳格な、厳重な、綿密なという意味です。規則や訓練、検査などが厳しく行われる様子を表します。\n\n例：The training program was very rigorous. (そのトレーニングプログラムは非常に厳しかった。)"
+    },
+    {
+      "id": 31,
+      "value": "retreat",
+      "options": [
+        "前進",
+        "後退",
+        "攻撃",
+        "防御"
+      ],
+      "correctAnswer": "後退",
+      "explanation": "「retreat」は、後退、退却という意味です。軍事的な状況だけでなく、困難な状況から退くことも指します。\n\n例：The army was forced to retreat. (軍は退却を余儀なくされた。)"
+    },
+    {
+      "id": 32,
+      "value": "aware",
+      "options": [
+        "知らない",
+        "気づいている",
+        "忘れている",
+        "混乱している"
+      ],
+      "correctAnswer": "気づいている",
+      "explanation": "「aware」は、知っている、気づいているという意味です。特定の情報や状況を認識している状態を表します。\n\n例：I am aware of the risks involved. (私は関連するリスクを承知している。)"
+    },
+    {
+      "id": 33,
+      "value": "switch it up",
+      "options": [
+        "元に戻す",
+        "変更する",
+        "続ける",
+        "無視する"
+      ],
+      "correctAnswer": "変更する",
+      "explanation": "「switch it up」は、やり方や順番などを変えるという意味です。変化を加えて退屈さを紛らわせたり、新しい視点を取り入れたりする際に使われます。\n\n例：Let's switch it up and try a different approach. (やり方を変えて、別の方法を試してみよう。)"
+    },
+    {
+      "id": 34,
+      "value": "tops",
+      "options": [
+        "最高",
+        "せいぜい",
+        "最低",
+        "平均"
+      ],
+      "correctAnswer": "せいぜい",
+      "explanation": "「tops」は、ここでは「せいぜい、最大でも」という意味で使われています。時間や数量の上限を示す際に用いられます。\n\n例：It will take an hour, tops. (せいぜい1時間かかるだろう。)"
+    },
+    {
+      "id": 35,
+      "value": "directly",
+      "options": [
+        "間接的に",
+        "直接的に",
+        "部分的に",
+        "完全に"
+      ],
+      "correctAnswer": "直接的に",
+      "explanation": "「directly」は、直接的にという意味です。中間的な手段や人を介さずに、直接的な行動や影響があることを表します。\n\n例：The company decided to advertise directly to consumers. (会社は消費者に直接広告を出すことに決めた。)"
+    },
+    {
+      "id": 36,
+      "value": "creep",
+      "options": [
+        "魅力的な人",
+        "不気味な人",
+        "正直な人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "不気味な人",
+      "explanation": "「creep」は、不気味な人、気味の悪い人という意味です。特に、相手を不快にさせるような行動をする人を指します。ここでは「creepy guy」という形で使われています。\n\n例：He is such a creep. (彼は本当に気持ち悪い人だ。)"
+    },
+    {
+      "id": 37,
+      "value": "foil",
+      "options": [
+        "剣",
+        "盾",
+        "鎧",
+        "兜"
+      ],
+      "correctAnswer": "剣",
+      "explanation": "「foil」は、フェンシングで使用される剣の一種です。軽量で、先端にボタンが付いています。\n\n例：He practiced with his foil every day. (彼は毎日剣の練習をした。)"
+    },
+    {
+      "id": 38,
+      "value": "rigorous",
+      "options": [
+        "楽しい",
+        "厳格な",
+        "簡単な",
+        "退屈な"
+      ],
+      "correctAnswer": "厳格な",
+      "explanation": "「rigorous」は、厳格な、綿密なという意味です。ここでは、フェンシングの練習が厳しいことを表しています。\n\n例：The training was very rigorous. (訓練は非常に厳しかった。)"
+    },
+    {
+      "id": 39,
+      "value": "insulted",
+      "options": [
+        "褒められた",
+        "侮辱された",
+        "無視された",
+        "助けられた"
+      ],
+      "correctAnswer": "侮辱された",
+      "explanation": "「insulted」は、侮辱された、名誉を傷つけられたという意味です。相手の尊厳を傷つけるような言動を受けたときに使われます。\n\n例：I felt insulted by his comment. (彼のコメントに侮辱されたと感じた。)"
+    },
+    {
+      "id": 40,
+      "value": "challenge",
+      "options": [
+        "挑戦する",
+        "無視する",
+        "受け入れる",
+        "拒否する"
+      ],
+      "correctAnswer": "挑戦する",
+      "explanation": "「challenge」は、挑戦する、異議を唱えるという意味です。ここでは、決闘を申し込むという意味で使われています。\n\n例：He challenged his opponent to a duel. (彼は相手に決闘を申し込んだ。)"
+    },
+    {
+      "id": 41,
+      "value": "duel",
+      "options": [
+        "会議",
+        "決闘",
+        "交渉",
+        "議論"
+      ],
+      "correctAnswer": "決闘",
+      "explanation": "「duel」は、決闘という意味です。名誉や恨みを晴らすために行われる、武器を使った戦いを指します。\n\n例：They fought a duel to settle their differences. (彼らは意見の相違を解決するために決闘を行った。)"
+    },
+    {
+      "id": 42,
+      "value": "prostate",
+      "options": [
+        "心臓",
+        "前立腺",
+        "肺",
+        "肝臓"
+      ],
+      "correctAnswer": "前立腺",
+      "explanation": "「prostate」は、前立腺という意味です。男性特有の臓器で、泌尿生殖器系の一部です。\n\n例：He had a prostate exam. (彼は前立腺の検査を受けた。)"
+    },
+    {
+      "id": 43,
+      "value": "get that",
+      "options": [
+        "理解する",
+        "忘れる",
+        "無視する",
+        "嫌う"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get that」は、理解する、納得するという意味です。相手の言っていることや気持ちを理解したことを示す際に使われます。\n\n例：I get that you're upset. (あなたが動揺しているのは理解できる。)"
+    },
+    {
+      "id": 44,
+      "value": "put in the effort",
+      "options": [
+        "努力をする",
+        "休憩をとる",
+        "諦める",
+        "楽しむ"
+      ],
+      "correctAnswer": "努力をする",
+      "explanation": "「put in the effort」は、努力をする、尽力するという意味です。目標を達成するために必要な労力や時間を費やすことを表します。\n\n例：You need to put in the effort if you want to succeed. (成功したいなら努力する必要がある。)"
+    },
+    {
+      "id": 45,
+      "value": "dominant leg",
+      "options": [
+        "強い方の足",
+        "弱い方の足",
+        "怪我をした足",
+        "疲れた足"
+      ],
+      "correctAnswer": "強い方の足",
+      "explanation": "「dominant leg」は、利き足、強い方の足という意味です。スポーツなどで、より強く蹴ったり、バランスを取ったりするのに使う足のことを指します。\n\n例：Most people have a dominant leg that they use for kicking a ball. (ほとんどの人はボールを蹴るのに使う利き足がある。)"
+    },
+    {
+      "id": 46,
+      "value": "non-sword hand",
+      "options": [
+        "剣を持つ手",
+        "剣を持たない手",
+        "怪我をした手",
+        "疲れた手"
+      ],
+      "correctAnswer": "剣を持たない手",
+      "explanation": "「non-sword hand」は、剣を持たない手という意味です。フェンシングで、剣を持つ手ではない方の手を指します。バランスを取るために使われます。\n\n例：Keep your non-sword hand up for balance. (バランスを取るために剣を持たない手を上げておきなさい。)"
+    },
+    {
+      "id": 47,
+      "value": "heel to toe",
+      "options": [
+        "つま先からかかと",
+        "かかとからつま先",
+        "つま先立ち",
+        "かかと立ち"
+      ],
+      "correctAnswer": "かかとからつま先",
+      "explanation": "「heel to toe」は、かかとからつま先へ、という意味です。歩く際に、かかとから地面に着き、つま先で地面を蹴るように歩くことを指します。ここでは、フェンシングのステップの指示で使われています。\n\n例：Walk heel to toe to maintain balance. (バランスを保つために、かかとからつま先へ歩きなさい。)"
+    },
+    {
+      "id": 48,
+      "value": "touch",
+      "options": [
+        "触れること",
+        "刺すこと",
+        "殴ること",
+        "蹴ること"
+      ],
+      "correctAnswer": "刺すこと",
+      "explanation": "「touch」は、フェンシングで相手を剣で「タッチ」することを意味します。ポイントを獲得するための攻撃を指します。\n\n例：He scored a touch in the final round. (彼は最終ラウンドでタッチを決めました。)"
+    },
+    {
+      "id": 49,
+      "value": "switch again",
+      "options": [
+        "もう一度交換する",
+        "そのままにする",
+        "休憩する",
+        "諦める"
+      ],
+      "correctAnswer": "もう一度交換する",
+      "explanation": "「switch again」は、もう一度交代する、もう一度交換するという意味です。ここでは、フェンシングの練習で、前進と後退の役割を再度入れ替えることを指示しています。\n\n例：Switch again and let's try it one more time. (もう一度交代して、もう一度試してみましょう。)"
+    },
+    {
+      "id": 50,
+      "value": "unacceptable",
+      "options": [
+        "受け入れられる",
+        "受け入れられない",
+        "素晴らしい",
+        "普通"
+      ],
+      "correctAnswer": "受け入れられない",
+      "explanation": "「unacceptable」は、受け入れられない、容認できないという意味です。行動や状況が許容範囲を超えていることを表します。\n\n例：His behavior was completely unacceptable. (彼の行動は全く受け入れられなかった。)"
+    },
+    {
+      "id": 51,
+      "value": "How dare you.",
+      "options": [
+        "よく言った",
+        "よくやった",
+        "よくもそんなことを",
+        "お気をつけて"
+      ],
+      "correctAnswer": "よくもそんなことを",
+      "explanation": "相手の言動に対する強い非難や反発を表す表現です。相手の言葉や行動が許せないほど不快であるときに使われます。「よくも〜」というニュアンスが含まれており、怒りや憤りを示す際に用いられます。"
+    },
+    {
+      "id": 52,
+      "value": "put a stop to",
+      "options": [
+        "促進する",
+        "終わらせる",
+        "提案する",
+        "考慮する"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "何かを終わらせる、阻止するという意味のイディオムです。好ましくない状況や行動に対して、それを止めるために行動することを指します。しばしば、権限や影響力を行使して何かを終わらせるニュアンスが含まれます。\n例：The manager decided to put a stop to the rumors circulating in the office. (マネージャーはオフィスで広まっている噂を終わらせることを決めた。)"
+    },
+    {
+      "id": 53,
+      "value": "be worth your salt",
+      "options": [
+        "塩分を取りすぎる",
+        "価値がある",
+        "塩辛いものが好き",
+        "塩を節約する"
+      ],
+      "correctAnswer": "価値がある",
+      "explanation": "「一人前の働きをする」「給料に見合う価値がある」という意味のイディオムです。特に、ある職業や役割において、期待される能力やスキルを持っていることを指します。中世のヨーロッパで塩が貴重だった時代に、給料の一部として塩が支払われていたことに由来します。\n例：If he's worth his salt as a mechanic, he should be able to fix the car quickly. (もし彼が一人前の整備士なら、すぐに車を修理できるはずだ。)"
+    },
+    {
+      "id": 54,
+      "value": "thumbs up",
+      "options": [
+        "不賛成",
+        "応援",
+        "無視",
+        "軽蔑"
+      ],
+      "correctAnswer": "応援",
+      "explanation": "賞賛や同意、承認を示すジェスチャーまたは表現です。文字通りには親指を立てることを意味し、比喩的には「良いね」「賛成」「頑張って」といった肯定的な意味合いで使われます。\n例：The movie received a thumbs up from all the critics. (その映画はすべての評論家から賞賛を受けた。)"
+    },
+    {
+      "id": 55,
+      "value": "be offended",
+      "options": [
+        "喜ぶ",
+        "怒る",
+        "退屈する",
+        "安心する"
+      ],
+      "correctAnswer": "怒る",
+      "explanation": "感情を害される、気分を悪くするという意味です。相手の言動によって不快な気持ちになったり、侮辱されたと感じたりすることを指します。受け取り方によっては、意図しない発言でも相手を不快にさせてしまうことがあります。\n例：She was offended by his rude remarks. (彼女は彼の失礼な発言に気分を害した。)"
+    },
+    {
+      "id": 56,
+      "value": "run away",
+      "options": [
+        "走り書きする",
+        "逃げる",
+        "走り回る",
+        "経営する"
+      ],
+      "correctAnswer": "逃げる",
+      "explanation": "場所や状況から逃げる、または責任や義務を放棄するという意味です。物理的に逃げる場合も、比喩的に問題から逃避する場合もあります。\n例：The cat ran away when it heard the loud noise. (その猫は大きな音が聞こえたときに逃げた。)"
+    },
+    {
+      "id": 57,
+      "value": "believe it or not",
+      "options": [
+        "信じないで",
+        "信じて",
+        "信じられないかもしれないけど",
+        "信じても良い"
+      ],
+      "correctAnswer": "信じられないかもしれないけど",
+      "explanation": "驚くべきことや信じがたいことを伝える際に、聞き手に「信じられないかもしれないけれど」という前置きをするための表現です。話の内容が普通ではない、または予想外であることを強調する効果があります。\n例：Believe it or not, I once met a famous actor in a grocery store. (信じられないかもしれないけど、私は以前、食料品店で有名な俳優に会ったことがある。)"
+    },
+    {
+      "id": 58,
+      "value": "insecurity",
+      "options": [
+        "安全",
+        "不安",
+        "秘密",
+        "興味"
+      ],
+      "correctAnswer": "不安",
+      "explanation": "自信がない状態、または不安定な感情を表します。自分自身や自分の能力、将来に対する不安や心配が含まれます。人間関係や仕事、外見など、さまざまな要因によって引き起こされます。\n例：She felt a lot of insecurity about her new job. (彼女は新しい仕事について多くの不安を感じた。)"
+    },
+    {
+      "id": 59,
+      "value": "make sense",
+      "options": [
+        "意味をなさない",
+        "理解できる",
+        "無意味",
+        "ばかげている"
+      ],
+      "correctAnswer": "理解できる",
+      "explanation": "理解できる、道理にかなうという意味です。何かが合理的であるか、説明がつく場合に用いられます。また、何かの理由や原因が明らかになったときにも使われます。\n例：His explanation makes sense now that I know the full story. (彼が話の全容を知っていると分かった今、彼の説明は理にかなっている。)"
+    },
+    {
+      "id": 60,
+      "value": "Like it or not",
+      "options": [
+        "好き嫌い",
+        "好むと好まざるとにかかわらず",
+        "好きになる",
+        "嫌いになる"
+      ],
+      "correctAnswer": "好むと好まざるとにかかわらず",
+      "explanation": "自分の意思とは関係なく、受け入れざるを得ない状況であることを示す表現です。何かを受け入れることが不本意であっても、そうせざるを得ない状況を強調します。\n例：Like it or not, you have to follow the rules. (好むと好まざるとにかかわらず、ルールに従わなければならない。)"
+    },
+    {
+      "id": 61,
+      "value": "retaining water",
+      "options": [
+        "水を飲む",
+        "水を失う",
+        "水を保持する",
+        "水を放出する"
+      ],
+      "correctAnswer": "水を保持する",
+      "explanation": "医学的には体内に過剰な水分が溜まることを指しますが、ここでは比喩的に、感情が抑えきれずに溢れ出す様子を表している可能性があります。特に女性の場合、月経周期に関連してむくみや体内の水分量が増加することがあります。\n例：Some women experience water retention during their period. (生理中に水分を保持する女性もいる。)"
+    },
+    {
+      "id": 62,
+      "value": "end up in",
+      "options": [
+        "始まる",
+        "終わる",
+        "特定の状況になる",
+        "避ける"
+      ],
+      "correctAnswer": "特定の状況になる",
+      "explanation": "最終的に〜になる、〜という結果になるという意味です。意図したわけではない結果や状況に陥ることを表します。\n例：If you don't study, you'll end up failing the exam. (もし勉強しなければ、試験に落ちるという結果になるだろう。)"
+    },
+    {
+      "id": 63,
+      "value": "rub up against",
+      "options": [
+        "こすりつける",
+        "協力する",
+        "反対する",
+        "無視する"
+      ],
+      "correctAnswer": "反対する",
+      "explanation": "ここでは比喩的に、Sheldonが持つ道化恐怖症の感情を刺激するという意味で使用されています。本来は物理的にこすりつけるという意味ですが、感情的な反発や対立を表すことがあります。\n例：His controversial remarks rubbed up against many people's beliefs. (彼の議論を呼ぶ発言は、多くの人々の信念に反発した。)"
+    },
+    {
+      "id": 64,
+      "value": "mad at",
+      "options": [
+        "喜んで",
+        "怒って",
+        "興味があって",
+        "悲しくて"
+      ],
+      "correctAnswer": "怒って",
+      "explanation": "〜に怒っている、〜に対して腹を立てているという意味です。特定の人物や事柄に対して不快感や怒りの感情を抱いている状態を表します。\n例：She was mad at him for being late. (彼女は彼が遅刻したことに怒っていた。)"
+    },
+    {
+      "id": 65,
+      "value": "gave it a shot",
+      "options": [
+        "諦めた",
+        "試してみた",
+        "成功した",
+        "忘れた"
+      ],
+      "correctAnswer": "試してみた",
+      "explanation": "試してみる、挑戦してみるという意味の口語表現です。必ずしも成功するとは限らない状況で、何かに挑戦することを指します。\n例：I gave it a shot, but I couldn't solve the puzzle. (試してみたけど、パズルを解くことができなかった。)"
+    },
+    {
+      "id": 66,
+      "value": "warn you that",
+      "options": [
+        "褒める",
+        "警告する",
+        "励ます",
+        "感謝する"
+      ],
+      "correctAnswer": "警告する",
+      "explanation": "〜ということを警告するという意味です。これから起こりうる事柄や、注意すべき点について事前に知らせることを指します。相手に危険やリスクを伝え、注意を促す際に用いられます。\n例：I must warn you that the road ahead is very dangerous. (先に進む道は非常に危険であることを警告しなければなりません。)"
+    },
+    {
+      "id": 67,
+      "value": "crazy version",
+      "options": [
+        "正気版",
+        "狂気版",
+        "通常版",
+        "最新版"
+      ],
+      "correctAnswer": "狂気版",
+      "explanation": "ここでは比喩的に、過激で非常識な解釈や行動を指しています。ある事柄に対する極端な反応や行動を表現する際に用いられます。\n例：He gave a crazy version of the historical event. (彼はその歴史的出来事について、常軌を逸した解釈をした。)"
+    },
+    {
+      "id": 68,
+      "value": "All right",
+      "options": [
+        "間違っている",
+        "大丈夫",
+        "準備",
+        "喧嘩"
+      ],
+      "correctAnswer": "大丈夫",
+      "explanation": "承諾、同意、または状況の確認に使われる表現です。文脈によって意味が異なり、「わかった」「承知した」「大丈夫」などの意味合いを持ちます。\n例：All right, let's start the meeting. (よし、会議を始めましょう。)"
+    },
+    {
+      "id": 69,
+      "value": "for a moment",
+      "options": [
+        "永遠に",
+        "一瞬",
+        "常に",
+        "絶対に"
+      ],
+      "correctAnswer": "一瞬",
+      "explanation": "短い時間、少しの間という意味です。一時的に何かを考えたり、行動したりする際に用いられます。\n例：Let's consider this idea for a moment. (少しの間、このアイデアについて考えてみましょう。)"
+    },
+    {
+      "id": 70,
+      "value": "nervous around",
+      "options": [
+        "興味がある",
+        "冷静である",
+        "緊張する",
+        "リラックスする"
+      ],
+      "correctAnswer": "緊張する",
+      "explanation": "〜の前で緊張するという意味です。特定の状況や人に対して不安や緊張を感じる状態を表します。\n例：He gets nervous around large crowds. (彼は大勢の人の前で緊張する。)"
+    },
+    {
+      "id": 71,
+      "value": "creepy that sounds",
+      "options": [
+        "面白い",
+        "気持ち悪い",
+        "感動する",
+        "納得する"
+      ],
+      "correctAnswer": "気持ち悪い",
+      "explanation": "気味が悪い、不気味なという意味です。何か言動や状況が不快感や不安感を与えるときに用いられます。\n例：That movie was so creepy that I couldn't sleep. (その映画はとても気味が悪くて眠れなかった。)"
+    },
+    {
+      "id": 72,
+      "value": "went wrong with you",
+      "options": [
+        "成功した",
+        "何が良かった",
+        "何が間違った",
+        "満足した"
+      ],
+      "correctAnswer": "何が間違った",
+      "explanation": "何が原因でそうなってしまったのか、どうしてそうなったのかを尋ねる表現です。相手の状態や状況が悪化した場合に使われます。\n例：What went wrong with the project? (プロジェクトは何がうまくいかなかったのか？)"
+    },
+    {
+      "id": 73,
+      "value": "for sure",
+      "options": [
+        "多分",
+        "絶対に",
+        "知らない",
+        "場合による"
+      ],
+      "correctAnswer": "絶対に",
+      "explanation": "確実に、間違いなくという意味です。確信を持って何かを述べるときに使われます。\n例：I can't say for sure if it will rain tomorrow. (明日雨が降るかどうかは確実には言えない。)"
+    },
+    {
+      "id": 74,
+      "value": "desperate I get",
+      "options": [
+        "希望に満ちている",
+        "絶望的になる",
+        "満足している",
+        "落ち着いている"
+      ],
+      "correctAnswer": "絶望的になる",
+      "explanation": "切実になる、必死になるという意味です。状況が厳しく、解決策を強く求める状態を表します。\n例：The more desperate I get, the harder I try. (必死になればなるほど、努力する。)"
+    },
+    {
+      "id": 75,
+      "value": "Excuse me",
+      "options": [
+        "ありがとう",
+        "ごめんなさい",
+        "すみません",
+        "どういたしまして"
+      ],
+      "correctAnswer": "すみません",
+      "explanation": "人に話しかけるとき、または人の注意を引くときに使う丁寧な表現です。軽く謝罪の意味も含まれます。\n例：Excuse me, do you know what time it is? (すみません、今何時かご存知ですか？)"
+    },
+    {
+      "id": 76,
+      "value": "give my regards to",
+      "options": [
+        "挨拶を送る",
+        "無視する",
+        "侮辱する",
+        "同意する"
+      ],
+      "correctAnswer": "挨拶を送る",
+      "explanation": "「give my regards to」は、誰かに会った際に、特定の人物によろしく伝えてほしいと頼む時に使う表現です。フォーマルな場面でもカジュアルな場面でも使用できます。\n\n例：Give my regards to your mother. (お母様によろしくお伝えください。)"
+    },
+    {
+      "id": 77,
+      "value": "like a pro",
+      "options": [
+        "プロのように",
+        "アマチュアのように",
+        "子供のように",
+        "動物のように"
+      ],
+      "correctAnswer": "プロのように",
+      "explanation": "「like a pro」は、プロフェッショナルな態度で、または熟練した様子で、という意味です。困難な状況でも落ち着いて対処できる様子を表します。\n\n例：He handled the crisis like a pro. (彼はその危機をプロのように処理した。)"
+    },
+    {
+      "id": 78,
+      "value": "on the breast cam",
+      "options": [
+        "ライブカメラに映っている",
+        "監視カメラに映っている",
+        "過去の映像に映っている",
+        "どこにも映っていない"
+      ],
+      "correctAnswer": "ライブカメラに映っている",
+      "explanation": "文脈から推測するに「breast cam」とは、おそらくストリーミング配信などで女性の胸元が映るような状況を指していると思われます。したがって、「on the breast cam」は、そのようなライブ配信に映っている、という意味合いになります。一般的な表現ではありません。"
+    },
+    {
+      "id": 79,
+      "value": "turn down",
+      "options": [
+        "音量を上げる",
+        "申し出を断る",
+        "照明を暗くする",
+        "道に迷う"
+      ],
+      "correctAnswer": "申し出を断る",
+      "explanation": "「turn down」は、申し出や提案、招待などを断るという意味です。恋愛感情の告白を断る際にもよく使われます。\n\n例：She turned down his proposal. (彼女は彼のプロポーズを断った。)"
+    },
+    {
+      "id": 80,
+      "value": "get used to it",
+      "options": [
+        "慣れる",
+        "忘れる",
+        "嫌いになる",
+        "改善する"
+      ],
+      "correctAnswer": "慣れる",
+      "explanation": "「get used to it」は、何かに慣れる、または慣れてしまうという意味です。最初は不快だったり難しかったりすることに、時間とともに適応していく様子を表します。\n\n例：I didn't like waking up early at first, but I got used to it. (最初は早起きが好きではありませんでしたが、慣れました。)"
+    },
+    {
+      "id": 81,
+      "value": "over and over",
+      "options": [
+        "一度だけ",
+        "何度も",
+        "たまに",
+        "全くない"
+      ],
+      "correctAnswer": "何度も",
+      "explanation": "「over and over」は、何度も繰り返して、という意味です。同じことを何度も行う、または繰り返される状況を表します。\n\n例：I told him over and over, but he still forgot. (彼に何度も言ったのに、彼はまだ忘れていた。)"
+    },
+    {
+      "id": 82,
+      "value": "What can it hurt?",
+      "options": [
+        "何が傷つくの？",
+        "何が問題なの？",
+        "何が痛いの？",
+        "何をすべきなの？"
+      ],
+      "correctAnswer": "何が問題なの？",
+      "explanation": "「What can it hurt?」は、文字通りには「何がそれを傷つけるのか？」ですが、ここでは「やってみても害はないでしょう？」という意味合いで使われています。提案や行動に対する軽い同意や、リスクが少ないことを示唆する際に用いられます。\n\n例：\"Maybe I should try asking her out.\" \"What can it hurt?\"（「彼女をデートに誘ってみるべきかな。」「やってみても害はないでしょう？」）"
+    },
+    {
+      "id": 83,
+      "value": "weirdo",
+      "options": [
+        "科学者",
+        "変人",
+        "スポーツマン",
+        "医者"
+      ],
+      "correctAnswer": "変人",
+      "explanation": "「weirdo」は、風変わりな人、奇妙な人、という意味です。通常、ネガティブな意味合いで使われます。\n\n例：He's a bit of a weirdo, but he's harmless. (彼は少し変人だけど、無害だよ。)"
+    },
+    {
+      "id": 84,
+      "value": "delicious",
+      "options": [
+        "不味い",
+        "美味しい",
+        "危険",
+        "普通"
+      ],
+      "correctAnswer": "美味しい",
+      "explanation": "「delicious」は、非常に美味しい、という意味です。味覚的な快楽を表す言葉ですが、比喩的に魅力的なものを指すこともあります。\n\n例：This cake is delicious! (このケーキは美味しい！)"
+    },
+    {
+      "id": 85,
+      "value": "How many licks does it take?",
+      "options": [
+        "何回殴る必要がある？",
+        "何回舐める必要がある？",
+        "何回蹴る必要がある？",
+        "何回叩く必要がある？"
+      ],
+      "correctAnswer": "何回舐める必要がある？",
+      "explanation": "これはTootsie Popの有名なCMのフレーズを引用したものです。「How many licks does it take to get to the Tootsie Roll center of a Tootsie Pop?（チュッパチャップスの中心のトッツィーロールにたどり着くには何回舐める必要がある？）」という問いかけで、ここではSheldonが自らをTootsie Popに例えて、自身の核心に触れるにはどうすれば良いか、という比喩として使っています。"
+    },
+    {
+      "id": 86,
+      "value": "go",
+      "options": [
+        "立ち去る",
+        "来る",
+        "食べる",
+        "寝る"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "ここでは、Leonardが「Look at me go.」と言っているので、文字通りには「私が行くのを見て」となりますが、実際には「私はもう行くよ」「お邪魔虫は退散するよ」というニュアンスで、場を離れることを示唆しています。皮肉を込めて、二人の邪魔をしないように立ち去ることを表現しています。"
+    },
+    {
+      "id": 87,
+      "value": "get attached to",
+      "options": [
+        "嫌いになる",
+        "愛着を持つ",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "愛着を持つ",
+      "explanation": "「get attached to」は、何かに愛着を持つ、または依存するようになるという意味です。人、物、場所など、対象は様々です。\n\n例：I got attached to my old car. (私は古い車に愛着を持ってしまった。)"
+    },
+    {
+      "id": 88,
+      "value": "move on",
+      "options": [
+        "引っ越す",
+        "前に進む",
+        "忘れる",
+        "諦める"
+      ],
+      "correctAnswer": "前に進む",
+      "explanation": "「move on」は、過去の出来事や関係を乗り越えて、新しい生活や活動を始めるという意味です。失恋や失敗など、ネガティブな経験から立ち直る際に使われることが多いです。\n\n例：It's time to move on from the past. (過去から前に進む時だ。)"
+    },
+    {
+      "id": 89,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "何が下にあるの？",
+        "何が上にあるの？",
+        "何が起こったの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、相手に挨拶をする際のカジュアルな表現で、「どうしたの？」「何かあったの？」という意味合いで使われます。親しい間柄でよく使われるスラングです。\n\n例：A: What's up? B: Nothing much, just relaxing. (A: どうしたの？ B: 特に何も、ただリラックスしてるだけ。)"
+    }
+  ]
+}

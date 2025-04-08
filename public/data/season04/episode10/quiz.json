@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "put a damper on",
+      "options": [
+        "促進する",
+        "抑制する",
+        "無視する",
+        "改善する"
+      ],
+      "correctAnswer": "抑制する",
+      "explanation": "「put a damper on」は、物事の勢いや楽しさを弱める、または減退させるという意味です。楽しい雰囲気や計画を台無しにするような状況で使われます。\n\n例：The rain really put a damper on our picnic. (雨でピクニックが台無しになった。)"
+    },
+    {
+      "id": 2,
+      "value": "hang on to your hats",
+      "options": [
+        "帽子をなくさないように",
+        "驚かないで",
+        "準備をして",
+        "落ち着いて"
+      ],
+      "correctAnswer": "準備をして",
+      "explanation": "「hang on to your hats」は、これから起こることに備えて、または驚くような情報に備えて、という意味で使われる口語的な表現です。これから何かすごいことが起こるぞ、という期待感や注意を喚起するニュアンスがあります。\n\n例：And now, hang on to your hats, we have a special guest! (さあ、皆さん、これからすごいゲストが登場しますよ！)"
+    },
+    {
+      "id": 3,
+      "value": "palindrome",
+      "options": [
+        "回文",
+        "素数",
+        "二進法",
+        "鏡像"
+      ],
+      "correctAnswer": "回文",
+      "explanation": "「palindrome」は、前から読んでも後ろから読んでも同じになる単語、句、数字などのことを指します。例えば、madam, level, racecarなどがあります。数字の回文も存在し、Sheldonの例で出てきた73の二進法表記が該当します。"
+    },
+    {
+      "id": 4,
+      "value": "upside-down",
+      "options": [
+        "逆さまに",
+        "内側",
+        "最新",
+        "秘密"
+      ],
+      "correctAnswer": "逆さまに",
+      "explanation": "「upside-down」は、何かが通常とは逆の向きになっている状態を表します。文字や数字が逆さまになっている場合や、建物や物体が倒立している状態などを指します。\n\n例：The book was upside-down on the table. (本がテーブルの上に逆さまになっていた。)"
+    },
+    {
+      "id": 5,
+      "value": "iconic",
+      "options": [
+        "象徴的な",
+        "皮肉な",
+        "装飾的な",
+        "革新的な"
+      ],
+      "correctAnswer": "象徴的な",
+      "explanation": "「iconic」は、広く知られており、特定の文化や時代を象徴するほど重要なものを指します。特定の人物、場所、物、またはアイデアに対して使われます。\n\n例：Marilyn Monroe is an iconic figure of the 1950s. (マリリン・モンローは1950年代の象徴的な人物です。)"
+    },
+    {
+      "id": 6,
+      "value": "bending over",
+      "options": [
+        "曲がること",
+        "崩れること",
+        "見捨てること",
+        "誤解すること"
+      ],
+      "correctAnswer": "曲がること",
+      "explanation": "「bend over」とは、腰や膝を曲げて前かがみになる動作を指します。何かを拾ったり、低い位置にあるものを見たりする際によく行われます。また、比喩的に困難な状況や問題に直面することを意味する場合もあります。\n\n例：He bent over to pick up the pen. (彼はペンを拾うために身をかがめた。)"
+    },
+    {
+      "id": 7,
+      "value": "laminated",
+      "options": [
+        "積層された",
+        "彩色された",
+        "修正された",
+        "非公開の"
+      ],
+      "correctAnswer": "積層された",
+      "explanation": "「laminated」は、薄いプラスチックフィルムなどで表面を覆って保護された状態を指します。これにより、耐久性が向上し、水や汚れから保護されます。メニューやカードなど、頻繁に扱われるものによく使用されます。\n\n例：The laminated card is waterproof. (ラミネートされたカードは防水です。)"
+    },
+    {
+      "id": 8,
+      "value": "throw up",
+      "options": [
+        "拾う",
+        "投げる",
+        "吐く",
+        "あきらめる"
+      ],
+      "correctAnswer": "吐く",
+      "explanation": "「throw up」は、口語的な表現で「吐く」という意味です。医学的な用語としては「vomit」がより適切ですが、日常会話では「throw up」がよく使われます。\n\n例：He threw up after eating too much junk food. (彼はジャンクフードを食べ過ぎて吐いた。)"
+    },
+    {
+      "id": 9,
+      "value": "went out",
+      "options": [
+        "出かけた",
+        "消えた",
+        "デートした",
+        "終わった"
+      ],
+      "correctAnswer": "デートした",
+      "explanation": "「went out」は、誰かとデートをしたという意味で使われます。恋愛関係にあることを示唆する表現です。\n\n例：They went out for a year before getting married. (彼らは結婚する前に1年間デートをした。)"
+    },
+    {
+      "id": 10,
+      "value": "intercourse",
+      "options": [
+        "交流",
+        "性交",
+        "対話",
+        "取引"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「intercourse」は、性的な意味合いで「性交」を指すフォーマルな言葉です。日常会話ではあまり使われませんが、医学や法律などの文脈で使用されることがあります。\n\n例：Safe intercourse is important to prevent STIs. (STIを予防するためには安全な性交が重要です。)"
+    },
+    {
+      "id": 11,
+      "value": "challenge me on an intellectual level",
+      "options": [
+        "知的に挑戦する",
+        "感情的に支える",
+        "物理的に助ける",
+        "経済的に援助する"
+      ],
+      "correctAnswer": "知的に挑戦する",
+      "explanation": "「challenge someone on an intellectual level」は、相手の知的好奇心を刺激し、知的な議論や思考を促すという意味です。単に知識を試すだけでなく、思考力を高め、新しい視点を提供することを指します。\n\n例：She needs a partner who can challenge her on an intellectual level. (彼女は知的に挑戦してくれるパートナーを必要としている。)"
+    },
+    {
+      "id": 12,
+      "value": "fool around",
+      "options": [
+        "真剣に考える",
+        "ふざける",
+        "無視する",
+        "手伝う"
+      ],
+      "correctAnswer": "ふざける",
+      "explanation": "「fool around」は、真剣な態度を取らずに、ふざけたり、遊んだりすることを意味します。恋愛関係においては、軽い気持ちで性的な関係を持つことを婉曲的に表現することもあります。\n\n例：They were just fooling around, nothing serious. (彼らはただふざけていただけで、何も深刻なことはない。)"
+    },
+    {
+      "id": 13,
+      "value": "manhood",
+      "options": [
+        "男性性",
+        "子供時代",
+        "老後",
+        "女性性"
+      ],
+      "correctAnswer": "男性性",
+      "explanation": "「manhood」は、男性であること、または男性らしさを指します。自信、強さ、責任感など、社会的に期待される男性の特性を含むことがあります。Bernadetteは、Howardの男性としての自信を傷つけないように気を使っていることを示唆しています。\n\n例：He felt his manhood was threatened. (彼は自分の男性性が脅かされていると感じた。)"
+    },
+    {
+      "id": 14,
+      "value": "flushed",
+      "options": [
+        "疲れた",
+        "怒った",
+        "興奮した",
+        "顔が赤くなった"
+      ],
+      "correctAnswer": "顔が赤くなった",
+      "explanation": "「flushed」は、顔が赤くなることを意味します。感情が高ぶったり、体温が上がったり、または病気の症状として現れることがあります。\n\n例：Her cheeks were flushed with excitement. (彼女の頬は興奮で赤くなった。)"
+    },
+    {
+      "id": 15,
+      "value": "clammy",
+      "options": [
+        "乾燥した",
+        "冷たい",
+        "湿った",
+        "暖かい"
+      ],
+      "correctAnswer": "湿った",
+      "explanation": "「clammy」は、冷たくて湿った状態を表します。特に皮膚の状態を指すことが多く、緊張や不安、病気の兆候として現れることがあります。Amyの場合は、緊張から手が冷や汗をかいている状態を指しています。\n\n例：His hands were clammy with fear. (彼の両手は恐怖で冷や汗をかいていた。)"
+    },
+    {
+      "id": 16,
+      "value": "sudden-onset",
+      "options": [
+        "徐々に始まる",
+        "突然始まる",
+        "再発する",
+        "慢性的な"
+      ],
+      "correctAnswer": "突然始まる",
+      "explanation": "「sudden-onset」は、病気や症状などが突然始まることを意味します。予兆がなく、急に発症する状態を指します。Amyは、自分が突然始まったTourette症候群であると考えています。\n\n例：The patient experienced a sudden-onset headache. (患者は突然始まった頭痛を経験した。)"
+    },
+    {
+      "id": 17,
+      "value": "coupled with",
+      "options": [
+        "加えて",
+        "取り除いて",
+        "代わりに",
+        "反対に"
+      ],
+      "correctAnswer": "加えて",
+      "explanation": "「coupled with」は、何かが別のものと組み合わさって、一緒に作用したり影響を与えたりすることを意味します。Amyは、自分がインフルエンザとTourette症候群の両方を患っていると考えています。\n\n例：The economic crisis, coupled with political instability, led to widespread unrest. (経済危機に加えて政治的不安定が、広範囲な不安を引き起こした。)"
+    },
+    {
+      "id": 18,
+      "value": "isotopes",
+      "options": [
+        "同位体",
+        "抗生物質",
+        "毒素",
+        "ホルモン"
+      ],
+      "correctAnswer": "同位体",
+      "explanation": "「isotope」は、原子番号が同じで質量数が異なる原子のことです。放射性同位体は、医療や研究分野でトレーサーとして利用されます。\n\n例：Radioactive isotopes are used in cancer treatment. (放射性同位体は癌治療に使用される。)"
+    },
+    {
+      "id": 19,
+      "value": "tetanus shot",
+      "options": [
+        "破傷風の注射",
+        "インフルエンザの注射",
+        "麻酔",
+        "解毒剤"
+      ],
+      "correctAnswer": "破傷風の注射",
+      "explanation": "「tetanus shot」は、破傷風を予防するための予防接種です。破傷風菌が傷口から侵入するのを防ぐために、怪我をした際に接種されることがあります。\n\n例：He got a tetanus shot after stepping on a rusty nail. (彼は錆びた釘を踏んだ後、破傷風の注射を受けた。)"
+    },
+    {
+      "id": 20,
+      "value": "communal meal",
+      "options": [
+        "共同の食事",
+        "個人的な食事",
+        "簡単な食事",
+        "豪華な食事"
+      ],
+      "correctAnswer": "共同の食事",
+      "explanation": "「communal meal」は、複数人で一緒に食事をすることを意味します。家族や友人、またはコミュニティの人々が集まって食事をする状況を指します。\n\n例：They enjoy having communal meals together every Sunday. (彼らは毎週日曜日に一緒に食事を楽しんでいる。)"
+    },
+    {
+      "id": 21,
+      "value": "set things back on course",
+      "options": [
+        "すべてを最初からやり直す",
+        "物事を軌道に乗せる",
+        "現状を維持する",
+        "完全に諦める"
+      ],
+      "correctAnswer": "物事を軌道に乗せる",
+      "explanation": "「set things back on course」は、物事がうまくいかない状況から、元の正しい方向に戻す、または軌道に乗せるという意味です。問題や混乱を解決し、目標に向かって再び進むことを指します。\n\n例：Let's set things back on course after this misunderstanding. (この誤解の後、すべてを軌道に乗せましょう。)"
+    },
+    {
+      "id": 22,
+      "value": "mirror",
+      "options": [
+        "鏡",
+        "類似",
+        "反映",
+        "反転"
+      ],
+      "correctAnswer": "反転",
+      "explanation": "この文脈での「mirror」は、数字や文字を反転させたものを指します。73の反転である37のように、左右対称の関係にあることを意味します。Sheldonは、73という数字の特性を説明するためにこの言葉を使っています。\n\n例：The number 37 is the mirror of 73. (数字の37は73の反転です。)"
+    },
+    {
+      "id": 23,
+      "value": "product of multiplying",
+      "options": [
+        "足し算の結果",
+        "引き算の結果",
+        "掛け算の結果",
+        "割り算の結果"
+      ],
+      "correctAnswer": "掛け算の結果",
+      "explanation": "「product of multiplying」は、掛け算の結果得られる数を意味します。Sheldonは、73の特性を説明するために、21が7と3の掛け算の結果であることを述べています。\n\n例：21 is the product of multiplying 7 and 3. (21は7と3の掛け算の結果です。)"
+    },
+    {
+      "id": 24,
+      "value": "for the record",
+      "options": [
+        "記録のために",
+        "念のため",
+        "秘密に",
+        "公には"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「for the record」は、発言を記録に残すため、または念のために述べるという意味で使われます。自分の意見や情報を明確にするために、会話の中で挿入されることがあります。\n\n例：Just for the record, I disagree with your opinion. (念のため言っておきますが、私はあなたの意見に反対です。)"
+    },
+    {
+      "id": 25,
+      "value": "bio lab",
+      "options": [
+        "生物学研究所",
+        "物理学研究所",
+        "化学研究所",
+        "数学研究所"
+      ],
+      "correctAnswer": "生物学研究所",
+      "explanation": "「bio lab」は、生物学研究所の略称で、生物学的な研究や実験が行われる場所を指します。遺伝子、微生物、細胞など、生命科学に関する研究が行われます。\n\n例：The bio lab is equipped with advanced technology. (その生物学研究所は高度な技術を備えている。)"
+    },
+    {
+      "id": 26,
+      "value": "zip through",
+      "options": [
+        "ゆっくり進む",
+        "苦労して進む",
+        "楽々と進む",
+        "立ち止まる"
+      ],
+      "correctAnswer": "楽々と進む",
+      "explanation": "「zip through」は、何かを素早く、容易に通過または完了することを意味します。障害物がないか、ほとんど努力を要しない状況で使われます。\n\n例：She zipped through the exam. (彼女は試験を楽々と終えた。)"
+    },
+    {
+      "id": 27,
+      "value": "in nothing flat",
+      "options": [
+        "非常にゆっくりと",
+        "全く不可能",
+        "あっという間に",
+        "永遠に"
+      ],
+      "correctAnswer": "あっという間に",
+      "explanation": "「in nothing flat」は、非常に短い時間で、すぐに、という意味の口語的な表現です。\n\n例：I can finish this report in nothing flat. (このレポートはあっという間に終わらせることができる。)"
+    },
+    {
+      "id": 28,
+      "value": "squeeze through",
+      "options": [
+        "押し通す",
+        "広げて通る",
+        "ゆっくり通る",
+        "無理やり通る"
+      ],
+      "correctAnswer": "無理やり通る",
+      "explanation": "「squeeze through」は、狭い場所を無理やり通り抜ける、という意味です。物理的な空間だけでなく、困難な状況を乗り越えるという意味でも使われます。\n\n例：We managed to squeeze through the crowd. (なんとか人混みを通り抜けた。)"
+    },
+    {
+      "id": 29,
+      "value": "in a single bound",
+      "options": [
+        "少しずつ",
+        "何度も繰り返して",
+        "一気に",
+        "慎重に"
+      ],
+      "correctAnswer": "一気に",
+      "explanation": "「in a single bound」は、一度の跳躍で、一気に、という意味です。スーパーヒーローの文脈でよく使われます。\n\n例：He cleared the fence in a single bound. (彼は一跳びでフェンスを越えた。)"
+    },
+    {
+      "id": 30,
+      "value": "sidekick",
+      "options": [
+        "主人公",
+        "敵役",
+        "相棒",
+        "観客"
+      ],
+      "correctAnswer": "相棒",
+      "explanation": "「sidekick」は、助手、相棒、特にヒーローの助手として行動する人物を指します。通常、主役をサポートする役割です。\n\n例：Robin is Batman’s famous sidekick. (ロビンはバットマンの有名な相棒だ。)"
+    },
+    {
+      "id": 31,
+      "value": "settle this",
+      "options": [
+        "無視する",
+        "悪化させる",
+        "解決する",
+        "複雑にする"
+      ],
+      "correctAnswer": "解決する",
+      "explanation": "「settle this」は、この件を解決する、決着をつける、という意味です。議論や紛争を終わらせるために使われます。\n\n例：Let's settle this argument once and for all. (この議論にきっぱりと決着をつけよう。)"
+    },
+    {
+      "id": 32,
+      "value": "yield",
+      "options": [
+        "抵抗する",
+        "譲る",
+        "主張する",
+        "無視する"
+      ],
+      "correctAnswer": "譲る",
+      "explanation": "「yield」は、譲歩する、屈する、という意味です。議論や競争で相手に同意したり、自分の立場を放棄したりする際に使われます。\n\n例：I yield to your superior knowledge. (あなたの優れた知識に譲ります。)"
+    },
+    {
+      "id": 33,
+      "value": "circadian rhythms",
+      "options": [
+        "食事のタイミング",
+        "概日リズム",
+        "睡眠時間",
+        "運動の習慣"
+      ],
+      "correctAnswer": "概日リズム",
+      "explanation": "「circadian rhythms」は、約24時間周期で変動する生理的なリズムのことです。睡眠・覚醒サイクル、体温、ホルモン分泌などが含まれます。\n\n例：Disruptions to circadian rhythms can lead to health problems. (概日リズムの乱れは健康問題につながる可能性がある。)"
+    },
+    {
+      "id": 34,
+      "value": "mental acuity",
+      "options": [
+        "精神的な安定",
+        "精神的な苦痛",
+        "精神的な明敏さ",
+        "精神的な怠惰"
+      ],
+      "correctAnswer": "精神的な明敏さ",
+      "explanation": "「mental acuity」は、精神的な明敏さ、頭の回転の速さ、理解力などを指します。知的活動において重要な要素です。\n\n例：Age can affect mental acuity. (年齢は精神的な明敏さに影響を与えることがある。)"
+    },
+    {
+      "id": 35,
+      "value": "distressing symptoms",
+      "options": [
+        "楽しい症状",
+        "紛らわしい症状",
+        "つらい症状",
+        "一般的な症状"
+      ],
+      "correctAnswer": "つらい症状",
+      "explanation": "「distressing symptoms」は、苦痛な症状、つらい症状という意味です。患者を悩ませる不快な症状を指します。\n\n例：She was experiencing several distressing symptoms. (彼女はいくつかのつらい症状を経験していた。)"
+    },
+    {
+      "id": 36,
+      "value": "vital signs",
+      "options": [
+        "生命維持装置",
+        "重要な書類",
+        "バイタルサイン",
+        "交通標識"
+      ],
+      "correctAnswer": "バイタルサイン",
+      "explanation": "「vital signs」は、体温、脈拍、呼吸数、血圧など、生命維持に不可欠な兆候のことです。医療現場で患者の状態を把握するために用いられます。\n\n例：The nurse checked the patient's vital signs regularly. (看護師は定期的に患者のバイタルサインをチェックした。)"
+    },
+    {
+      "id": 37,
+      "value": "differential diagnosis",
+      "options": [
+        "最終診断",
+        "鑑別診断",
+        "自己診断",
+        "誤診"
+      ],
+      "correctAnswer": "鑑別診断",
+      "explanation": "「differential diagnosis」は、鑑別診断のことです。複数の病気の可能性を考慮し、症状や検査結果から最も可能性の高い病気を特定するプロセスを指します。\n\n例：The doctor performed a differential diagnosis to determine the cause of the symptoms. (医師は症状の原因を特定するために鑑別診断を行った。)"
+    },
+    {
+      "id": 38,
+      "value": "elevated heart rate",
+      "options": [
+        "通常の心拍数",
+        "低下した心拍数",
+        "異常に高い心拍数",
+        "不規則な心拍数"
+      ],
+      "correctAnswer": "異常に高い心拍数",
+      "explanation": "「elevated heart rate」は、心拍数が正常範囲を超えて上昇している状態を指します。興奮、運動、病気などが原因で起こることがあります。\n\n例：An elevated heart rate can be a sign of stress. (心拍数の上昇はストレスの兆候である可能性がある。)"
+    },
+    {
+      "id": 39,
+      "value": "moist palms",
+      "options": [
+        "乾燥した手のひら",
+        "冷たい手のひら",
+        "温かい手のひら",
+        "湿った手のひら"
+      ],
+      "correctAnswer": "湿った手のひら",
+      "explanation": "「moist palms」は、湿った手のひらのことです。緊張、不安、興奮などの感情的な状態や、特定の医学的状態によって引き起こされることがあります。\n\n例：Moist palms can be a sign of nervousness. (湿った手のひらは神経質な兆候である可能性がある。)"
+    },
+    {
+      "id": 40,
+      "value": "localized vascular throbbing",
+      "options": [
+        "全身の血管拡張",
+        "特定部位の血管の拍動",
+        "血管の収縮",
+        "血管の炎症"
+      ],
+      "correctAnswer": "特定部位の血管の拍動",
+      "explanation": "「localized vascular throbbing」は、体の特定部位で血管が脈打つように感じる状態です。炎症、血流の増加、または神経の刺激が原因となることがあります。\n\n例：She felt a localized vascular throbbing in her temples. (彼女はこめかみに血管が脈打つような感覚を覚えた。)"
+    },
+    {
+      "id": 41,
+      "value": "team up",
+      "options": [
+        "競争する",
+        "協力する",
+        "無視する",
+        "分離する"
+      ],
+      "correctAnswer": "協力する",
+      "explanation": "「team up」は、協力する、共同で作業する、という意味です。目標を達成するために複数の人が協力して行動する際に使われます。\n\n例：We need to team up to finish this project on time. (時間通りにプロジェクトを完了させるためには協力する必要がある。)"
+    },
+    {
+      "id": 42,
+      "value": "carbonated",
+      "options": [
+        "甘い",
+        "冷たい",
+        "炭酸入り",
+        "無糖"
+      ],
+      "correctAnswer": "炭酸入り",
+      "explanation": "「carbonated」は、炭酸ガスを含んだ、という意味です。飲み物などによく使われます。\n\n例：I prefer carbonated water to still water. (私は普通の水より炭酸水が好きだ。)"
+    },
+    {
+      "id": 43,
+      "value": "enough to go on",
+      "options": [
+        "進むには不十分",
+        "考慮する価値がない",
+        "十分な情報",
+        "全く情報がない"
+      ],
+      "correctAnswer": "十分な情報",
+      "explanation": "「enough to go on」は、判断や行動を起こすのに十分な情報や根拠がある、という意味です。ある程度の情報に基づいて推測や予測ができる状態を指します。\n\n例：I think I have enough information to go on. (十分な情報があるので、進めると思います。)"
+    },
+    {
+      "id": 44,
+      "value": "in descending order of likelihood",
+      "options": [
+        "可能性の低い順に",
+        "五十音順に",
+        "重要度の高い順に",
+        "可能性の高い順に"
+      ],
+      "correctAnswer": "可能性の高い順に",
+      "explanation": "「in descending order of likelihood」は、可能性の高い順に、可能性が高いものから低いものへと順番に並べる、という意味です。優先順位をつける際に使われます。\n\n例：I will list the possible causes in descending order of likelihood. (可能性の高い順に原因をリストアップします。)"
+    },
+    {
+      "id": 45,
+      "value": "for the sake of",
+      "options": [
+        "〜にもかかわらず",
+        "〜の代わりに",
+        "〜のために",
+        "〜に反対して"
+      ],
+      "correctAnswer": "〜のために",
+      "explanation": "「for the sake of」は、〜のために、〜の目的で、という意味です。ある目的や利益のために行動する際に使われます。\n\n例：I did it for the sake of my family. (家族のためにそうした。)"
+    },
+    {
+      "id": 46,
+      "value": "covering all bases",
+      "options": [
+        "一部だけをカバーする",
+        "すべての可能性を考慮する",
+        "基本を無視する",
+        "秘密にする"
+      ],
+      "correctAnswer": "すべての可能性を考慮する",
+      "explanation": "「covering all bases」は、あらゆる可能性やリスクを考慮し、万全の準備をする、という意味です。抜け漏れがないように注意深く行動する際に使われます。\n\n例：We need to cover all our bases before launching the new product. (新製品を発売する前に、あらゆる可能性を考慮する必要がある。)"
+    },
+    {
+      "id": 47,
+      "value": "pick up",
+      "options": [
+        "落とす",
+        "避ける",
+        "拾う、感染する",
+        "忘れる"
+      ],
+      "correctAnswer": "拾う、感染する",
+      "explanation": "「pick up」は様々な意味がありますが、ここでは病気やウイルスなどに「感染する」という意味で使われています。 他にも「拾う」「車で迎えに行く」「（言語などを）習得する」といった意味があります。\n\n例：She picked up a cold on the airplane. (彼女は飛行機の中で風邪をひいた。)"
+    },
+    {
+      "id": 48,
+      "value": "runs in my family",
+      "options": [
+        "家族に嫌われている",
+        "家族経営である",
+        "家族に遺伝する",
+        "家族旅行"
+      ],
+      "correctAnswer": "家族に遺伝する",
+      "explanation": "「runs in my family」は、家族に遺伝する、家系に特有のものである、という意味です。病気、才能、特徴などが家族間で共通している場合に使われます。\n\n例：Diabetes runs in my family. (私の家族には糖尿病の家系がある。)"
+    },
+    {
+      "id": 49,
+      "value": "the heck",
+      "options": [
+        "天国",
+        "地獄",
+        "幸運",
+        "強調表現"
+      ],
+      "correctAnswer": "強調表現",
+      "explanation": "「the heck」は、怒り、驚き、混乱などを表す強調表現です。疑問詞（What, Why, Howなど）と一緒に使われることが多いです。ここでは「一体全体」といったニュアンスです。\n\n例：What the heck are you doing? (一体何をしているんだ？)"
+    },
+    {
+      "id": 50,
+      "value": "bravery test",
+      "options": [
+        "知能テスト",
+        "体力テスト",
+        "勇気試し",
+        "嘘発見器"
+      ],
+      "correctAnswer": "勇気試し",
+      "explanation": "「bravery test」は、勇気を試すテスト、度胸試し、という意味です。危険や恐怖に立ち向かうことができるかどうかを試すために行われます。\n\n例：They decided to do a bravery test by going into the haunted house. (彼らは幽霊屋敷に入ることで度胸試しをすることにした。)"
+    },
+    {
+      "id": 51,
+      "value": "sidekick",
+      "options": [
+        "相棒",
+        "敵",
+        "友人",
+        "家族"
+      ],
+      "correctAnswer": "相棒",
+      "explanation": "「sidekick」は、主にヒーローや主人公をサポートする役割の人を指します。単に助手というだけでなく、面白おかしい相棒、または少し頼りないけれど憎めない存在といったニュアンスも含まれます。漫画や映画などのフィクション作品でよく使われます。"
+    },
+    {
+      "id": 52,
+      "value": "testy",
+      "options": [
+        "友好的な",
+        "辛抱強い",
+        "短気な",
+        "穏やかな"
+      ],
+      "correctAnswer": "短気な",
+      "explanation": "「testy」は、怒りやすく、すぐにイライラする様子を表す形容詞です。少し古風な言葉で、日常会話ではあまり使われませんが、文学作品などで見かけることがあります。類義語としては「irritable」「cranky」などがあります。"
+    },
+    {
+      "id": 53,
+      "value": "old biddy",
+      "options": [
+        "若い女性",
+        "年配の女性",
+        "美しい女性",
+        "元気な女性"
+      ],
+      "correctAnswer": "年配の女性",
+      "explanation": "「old biddy」は、年配の女性を指す言葉ですが、軽蔑的なニュアンスを含んでいます。特に、口うるさく、干渉好きな老女に対して使われることが多いです。使用する際は相手や状況に注意が必要です。"
+    },
+    {
+      "id": 54,
+      "value": "a fair shake",
+      "options": [
+        "公平な扱い",
+        "不当な扱い",
+        "簡単な仕事",
+        "難しい仕事"
+      ],
+      "correctAnswer": "公平な扱い",
+      "explanation": "「a fair shake」は、公平な扱い、公正な機会という意味のイディオムです。「give someone a fair shake」で、「人に公平な機会を与える」という意味になります。例：Everyone deserves a fair shake in life.（誰もが人生において公平な機会を与えられるべきだ。）"
+    },
+    {
+      "id": 55,
+      "value": "a cross we all must bear",
+      "options": [
+        "誰もが経験する苦難",
+        "誰もが経験する喜び",
+        "誰もが経験する成功",
+        "誰もが経験する失敗"
+      ],
+      "correctAnswer": "誰もが経験する苦難",
+      "explanation": "「a cross we all must bear」は、誰もが耐えなければならない苦難や困難を指す表現です。キリスト教の「十字架を背負う」という概念に由来し、避けられない苦しみや試練を受け入れるという意味合いがあります。"
+    },
+    {
+      "id": 56,
+      "value": "drawn off the path",
+      "options": [
+        "正しい道から外れる",
+        "正しい道を進む",
+        "道に迷う",
+        "道を見つける"
+      ],
+      "correctAnswer": "正しい道から外れる",
+      "explanation": "「drawn off the path」は、本来進むべき道や方向から逸脱することを意味します。比喩的に、目標や目的からそれたり、誘惑に負けたりする状況を表す際に用いられます。例：He was drawn off the path of his studies by his newfound love of video games. (彼はビデオゲームに夢中になり、勉強がおろそかになった。)"
+    },
+    {
+      "id": 57,
+      "value": "bubbling up",
+      "options": [
+        "抑え込む",
+        "湧き上がる",
+        "消え去る",
+        "冷める"
+      ],
+      "correctAnswer": "湧き上がる",
+      "explanation": "「bubbling up」は、感情や考えなどが内側から湧き上がってくる様子を表します。物理的な泡が水面に出てくる様子から派生した表現で、感情が高まるニュアンスがあります。例文：Excitement was bubbling up inside her. (彼女の心の中で興奮が湧き上がっていた。)"
+    },
+    {
+      "id": 58,
+      "value": "suppress",
+      "options": [
+        "表現する",
+        "抑圧する",
+        "促進する",
+        "無視する"
+      ],
+      "correctAnswer": "抑圧する",
+      "explanation": "「suppress」は、感情、衝動、情報などを抑え込む、抑制するという意味です。意識的に何かを隠したり、表に出さないようにする場合に使われます。例文：She suppressed a smile. (彼女は微笑みを抑えた。)"
+    },
+    {
+      "id": 59,
+      "value": "motivated by",
+      "options": [
+        "刺激されて",
+        "動機づけられて",
+        "無視されて",
+        "妨げられて"
+      ],
+      "correctAnswer": "動機づけられて",
+      "explanation": "「motivated by」は、「～によって動機づけられている」という意味です。行動や決定の背後にある理由や動機を示す際に用いられます。例：His actions were motivated by greed. (彼の行動は貪欲さによって動機づけられていた。)"
+    },
+    {
+      "id": 60,
+      "value": "cadaver",
+      "options": [
+        "患者",
+        "医者",
+        "死体",
+        "ロボット"
+      ],
+      "correctAnswer": "死体",
+      "explanation": "「cadaver」は、医学研究や教育のために使用される死体を意味します。フォーマルな言葉で、日常会話ではあまり使われません。例文：Medical students often dissect cadavers to learn anatomy. (医学生は解剖学を学ぶために死体を解剖することがよくあります。)"
+    },
+    {
+      "id": 61,
+      "value": "sashimi",
+      "options": [
+        "寿司",
+        "刺身",
+        "天ぷら",
+        "ラーメン"
+      ],
+      "correctAnswer": "刺身",
+      "explanation": "「sashimi」は、日本語の「刺身」を指す英語です。薄く切られた生の魚介類で、醤油やわさびなどの調味料をつけて食べます。日本食レストランなどで一般的に使われる言葉です。"
+    },
+    {
+      "id": 62,
+      "value": "fabric softener",
+      "options": [
+        "柔軟剤",
+        "漂白剤",
+        "洗剤",
+        "乾燥機"
+      ],
+      "correctAnswer": "柔軟剤",
+      "explanation": "「fabric softener」は、洗濯に使用する柔軟剤のことです。洗濯物を柔らかくしたり、静電気を防止したりする効果があります。日常会話でもよく使われる言葉です。"
+    },
+    {
+      "id": 63,
+      "value": "thinking ahead",
+      "options": [
+        "後退する",
+        "前進する",
+        "先を見越して考える",
+        "過去を振り返る"
+      ],
+      "correctAnswer": "先を見越して考える",
+      "explanation": "「thinking ahead」は、将来のことを予測し、事前に準備することを意味します。計画性があることや、リスクを回避する能力を示す際に用いられます。例：It's important to think ahead and plan for your retirement. (老後のために先を見越して計画を立てることが重要です。)"
+    },
+    {
+      "id": 64,
+      "value": "evolved",
+      "options": [
+        "退化した",
+        "進化した",
+        "変化した",
+        "停止した"
+      ],
+      "correctAnswer": "進化した",
+      "explanation": "「evolved」は、進化するという意味です。生物学的な進化だけでなく、技術や社会、人の考え方などが発展、進歩する場合にも使われます。類義語としては「developed」「progressed」などがあります。"
+    },
+    {
+      "id": 65,
+      "value": "pure intellect",
+      "options": [
+        "知性の欠如",
+        "純粋な知性",
+        "感情的な知性",
+        "低い知能"
+      ],
+      "correctAnswer": "純粋な知性",
+      "explanation": "「pure intellect」は、感情や感覚に左右されない、純粋な知性、理性的な思考能力を指します。哲学や科学の分野で、客観性や論理性を重視する際に用いられることがあります。例文：Scientists strive to approach problems with pure intellect. (科学者たちは純粋な知性で問題に取り組むように努める。)"
+    },
+    {
+      "id": 66,
+      "value": "slave to",
+      "options": [
+        "～の主人",
+        "～の奴隷",
+        "～の友人",
+        "～の教師"
+      ],
+      "correctAnswer": "～の奴隷",
+      "explanation": "「slave to」は、「～の奴隷」という意味で、何かに依存している、支配されている状態を表します。悪い習慣や欲求などに使われることが多いです。例文：He's a slave to his smartphone. (彼はスマートフォン中毒だ。)"
+    },
+    {
+      "id": 67,
+      "value": "baser urges",
+      "options": [
+        "崇高な衝動",
+        "卑しい衝動",
+        "知的な衝動",
+        "創造的な衝動"
+      ],
+      "correctAnswer": "卑しい衝動",
+      "explanation": "「baser urges」は、人間の基本的な、しばしば抑制されるべき衝動や欲望を指します。食欲、性欲、攻撃性などが含まれます。道徳的な観点から否定的に捉えられることが多いです。類義語としては「primitive instincts」などがあります。"
+    },
+    {
+      "id": 68,
+      "value": "skip over",
+      "options": [
+        "強調する",
+        "飛ばす",
+        "詳細に説明する",
+        "繰り返す"
+      ],
+      "correctAnswer": "飛ばす",
+      "explanation": "「skip over」は、何かを飛ばす、無視するという意味です。会話や文章の一部を意図的に省略する際に使われます。例文：Let's skip over the details and get to the main point. (詳細は飛ばして、要点に入りましょう。)"
+    },
+    {
+      "id": 69,
+      "value": "horny",
+      "options": [
+        "幸せな",
+        "性欲の強い",
+        "悲しい",
+        "怒っている"
+      ],
+      "correctAnswer": "性欲の強い",
+      "explanation": "「horny」は、性的に興奮している、性欲が強いという意味のスラングです。直接的な表現なので、使う場所や相手を選ぶ必要があります。類義語としては「aroused」「lustful」などがあります。"
+    },
+    {
+      "id": 70,
+      "value": "biology",
+      "options": [
+        "物理学",
+        "生物学",
+        "化学",
+        "天文学"
+      ],
+      "correctAnswer": "生物学",
+      "explanation": "「biology」は、生物学のことです。生命現象や生物の構造、機能、進化などを研究する学問分野です。高校や大学の理科系の授業で学ぶ基本的な用語です。"
+    },
+    {
+      "id": 71,
+      "value": "spay",
+      "options": [
+        "避妊手術をする",
+        "去勢手術をする",
+        "出産する",
+        "治療する"
+      ],
+      "correctAnswer": "避妊手術をする",
+      "explanation": "「spay」は、動物の避妊手術をするという意味です。特にメスの動物に対して使われます。オスの場合は「neuter」または「castrate」という言葉を使います。例文：We decided to spay our cat. (私たちは猫の避妊手術をすることにしました。)"
+    },
+    {
+      "id": 72,
+      "value": "get it over with",
+      "options": [
+        "終わらせる",
+        "始める",
+        "楽しむ",
+        "避ける"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「get it over with」は、嫌なことや面倒なことを早く終わらせたいときに使う表現です。先延ばしにせずに、さっさと済ませてしまいたいという気持ちを表します。例文：I hate going to the dentist, but I just want to get it over with. (歯医者に行くのは嫌だけど、早く終わらせてしまいたい。)"
+    },
+    {
+      "id": 73,
+      "value": "reveal",
+      "options": [
+        "隠す",
+        "明らかにする",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "明らかにする",
+      "explanation": "「reveal」は、隠されていたものを明らかにする、暴露するという意味です。秘密や真実を明かす場合に使われます。例文：The investigation revealed the truth. (調査によって真相が明らかになった。)"
+    },
+    {
+      "id": 74,
+      "value": "hang on",
+      "options": [
+        "続ける",
+        "待つ",
+        "諦める",
+        "忘れる"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、「ちょっと待って」という意味で使われる口語表現です。電話を切らないで待つ場合や、相手に少しの間待ってほしいときに使います。例文：Hang on a second, I'll be right back. (ちょっと待って、すぐに戻るよ。)"
+    },
+    {
+      "id": 75,
+      "value": "specimens",
+      "options": [
+        "標本",
+        "機械",
+        "道具",
+        "料理"
+      ],
+      "correctAnswer": "標本",
+      "explanation": "「specimens」は、研究や観察のために採取された標本や試料を指します。科学、医学、生物学などの分野でよく使われる言葉です。例文：The museum has a collection of rare insect specimens. (その博物館は珍しい昆虫の標本を収集している。)"
+    },
+    {
+      "id": 76,
+      "value": "coitus",
+      "options": [
+        "結婚",
+        "食事",
+        "性交",
+        "ダンス"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交、性交渉を意味する医学用語で、フォーマルな表現です。日常会話ではあまり使われず、学術的な文脈や性に関する話題で用いられます。より一般的な言葉としては、intercourseやsexが使われます。"
+    },
+    {
+      "id": 77,
+      "value": "good grief",
+      "options": [
+        "素晴らしい贈り物",
+        "やれやれ、困った",
+        "良い知らせ",
+        "完璧な計画"
+      ],
+      "correctAnswer": "やれやれ、困った",
+      "explanation": "「Good grief」は、驚き、失望、不満などを表す際に使われる感嘆詞です。日本語の「やれやれ」「なんてこった」に近いニュアンスを持ちます。軽い苛立ちやうんざりした気持ちを表す際に便利です。例えば、予想外の問題が起きた時などに使われます。"
+    },
+    {
+      "id": 78,
+      "value": "sidekick",
+      "options": [
+        "主人公",
+        "相棒、助手",
+        "敵役",
+        "傍観者"
+      ],
+      "correctAnswer": "相棒、助手",
+      "explanation": "「sidekick」は、主人公やヒーローの相棒、助手という意味です。通常、主人公をサポートし、助けとなる役割を担います。スーパーヒーローものでよく使われる言葉で、コミカルなニュアンスを含むこともあります。"
+    },
+    {
+      "id": 79,
+      "value": "for crying out loud",
+      "options": [
+        "静かにして",
+        "お祝いに",
+        "勘弁してくれ",
+        "大声で叫ぶ"
+      ],
+      "correctAnswer": "勘弁してくれ",
+      "explanation": "「For crying out loud」は、苛立ち、驚き、不満などを表す際に使われる感嘆詞です。日本語の「いい加減にしてくれ」「勘弁してくれ」に近いニュアンスを持ち、強い感情を伴います。しばしば口語で使われ、フォーマルな場面には適しません。"
+    },
+    {
+      "id": 80,
+      "value": "dibs on",
+      "options": [
+        "拒否する",
+        "優先権を主張する",
+        "無視する",
+        "反対する"
+      ],
+      "correctAnswer": "優先権を主張する",
+      "explanation": "「dibs on」は、何かに対する優先権を主張する際に使われる口語表現です。「dibs」自体が「所有権の主張」という意味を持ち、「dibs on [something]」で「～に対する優先権を主張する」となります。子供同士が何かを巡って争う際などによく使われます。"
+    },
+    {
+      "id": 81,
+      "value": "mutilate",
+      "options": [
+        "修復する",
+        "改善する",
+        "切断する、損傷する",
+        "装飾する"
+      ],
+      "correctAnswer": "切断する、損傷する",
+      "explanation": "「mutilate」は、何かをひどく傷つけたり、切断したりすることを意味します。物理的な損傷だけでなく、比喩的に何かを損なう場合にも使われます。例えば、芸術作品や文章がひどく改変された場合などにも用いられます。"
+    },
+    {
+      "id": 82,
+      "value": "patrons",
+      "options": [
+        "従業員",
+        "常連客、支援者",
+        "警備員",
+        "清掃員"
+      ],
+      "correctAnswer": "常連客、支援者",
+      "explanation": "「patron」は、特定の場所や活動を支援する人、特に常連客や支援者を意味します。レストランや美術館などの顧客、芸術家や団体の後援者などを指します。この単語は、支援や愛顧といったニュアンスを含んでいます。"
+    },
+    {
+      "id": 83,
+      "value": "Hell's Angel",
+      "options": [
+        "天使のような人",
+        "悪魔のような人",
+        "バイクギャング",
+        "慈善家"
+      ],
+      "correctAnswer": "バイクギャング",
+      "explanation": "「Hell's Angel」は、アメリカ合衆国発祥のオートバイ愛好家グループの名前です。反社会的なイメージが強く、映画やドラマなどにもよく登場します。Sheldonがバーのスタンプを見て、自分の外見をHell's Angelに例えているのは、その乱暴なイメージからです。"
+    },
+    {
+      "id": 84,
+      "value": "endocrine system",
+      "options": [
+        "神経系",
+        "消化器系",
+        "内分泌系",
+        "呼吸器系"
+      ],
+      "correctAnswer": "内分泌系",
+      "explanation": "「endocrine system」は、内分泌系を意味します。ホルモンを分泌する器官のネットワークで、体の様々な機能を調節します。SheldonがAmyに「Follow your endocrine system.」と言っているのは、ホルモンの影響に従って行動しろ、つまり恋愛感情に従えという意味合いです。"
+    },
+    {
+      "id": 85,
+      "value": "drag this out",
+      "options": [
+        "早く終わらせる",
+        "長引かせる",
+        "秘密にする",
+        "手伝う"
+      ],
+      "correctAnswer": "長引かせる",
+      "explanation": "「drag something out」は、何かを不必要に長引かせる、引き延ばすという意味です。時間や労力を浪費するような状況で使われます。例えば、会議や議論がなかなか終わらない時などに用いられます。ここでは、AmyがZackとの会話を長引かせることをSheldonが嫌がっている場面で使われています。"
+    },
+    {
+      "id": 86,
+      "value": "raging",
+      "options": [
+        "静かな",
+        "穏やかな",
+        "激しい、猛烈な",
+        "冷たい"
+      ],
+      "correctAnswer": "激しい、猛烈な",
+      "explanation": "「raging」は、感情や現象が非常に激しい、猛烈な状態を指します。怒り、欲望、嵐など、強い勢いを伴うものに対して使われます。Amyが自分の感情を「raging estrogen」と表現しているのは、抑えきれないほどの強い女性ホルモンの衝動を表しています。"
+    },
+    {
+      "id": 87,
+      "value": "gluteus maximus",
+      "options": [
+        "上腕二頭筋",
+        "腹直筋",
+        "大臀筋",
+        "三角筋"
+      ],
+      "correctAnswer": "大臀筋",
+      "explanation": "「gluteus maximus」は、大臀筋を意味する医学用語です。AmyがZackに対して性的な欲求を表現する際に、あえてこのフォーマルな言葉を使うことで、皮肉とユーモアを込めています。日常会話ではbuttocksやbumといった言葉が一般的です。"
+    },
+    {
+      "id": 88,
+      "value": "metaphorical beast with two backs",
+      "options": [
+        "正直な人",
+        "正直でない人",
+        "性交",
+        "嘘"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「the beast with two backs」は、シェイクスピアの『オセロ』に由来する表現で、性交を婉曲的に表現する際に用いられます。2人が重なり合って1つの獣のように見える様子を指します。AmyがZackにこの表現を使ったのは、知的ながらもユーモラスに自分の欲求を伝えようとしたからです。"
+    },
+    {
+      "id": 89,
+      "value": "ape-like expression",
+      "options": [
+        "賢明な表情",
+        "猿のような表情",
+        "友好的な表情",
+        "自信に満ちた表情"
+      ],
+      "correctAnswer": "猿のような表情",
+      "explanation": "「ape-like expression」は、知性の感じられない、原始的な表情を意味します。AmyがZackの表情をこのように表現したのは、彼の知性のなさに失望したことを表しています。やや侮蔑的なニュアンスを含む表現です。"
+    },
+    {
+      "id": 90,
+      "value": "adopt",
+      "options": [
+        "拒否する",
+        "採用する",
+        "修正する",
+        "無視する"
+      ],
+      "correctAnswer": "採用する",
+      "explanation": "「adopt」は、何かを自分のものとして取り入れる、採用するという意味です。ここでは、AmyがVulcanのKolinarという修行法を取り入れると宣言しています。「adopt a practice」で「習慣を取り入れる」となります。"
+    },
+    {
+      "id": 91,
+      "value": "legally obligated",
+      "options": [
+        "道徳的に義務がある",
+        "法的に義務がある",
+        "社会的に義務がある",
+        "個人的に義務がある"
+      ],
+      "correctAnswer": "法的に義務がある",
+      "explanation": "「legally obligated」は、法的に義務があるという意味です。法律や契約によって何かをする必要が生じている状態を指します。Howardが自分の空手の経験について言及する際に、この表現を使うことで、彼の性格のユーモラスな面を強調しています。"
+    },
+    {
+      "id": 92,
+      "value": "rec center",
+      "options": [
+        "刑務所",
+        "リサイクルセンター",
+        "娯楽施設",
+        "研究センター"
+      ],
+      "correctAnswer": "娯楽施設",
+      "explanation": "「rec center」は、recreation centerの略で、地域住民のための娯楽施設、レクリエーションセンターを意味します。ジム、プール、スポーツ施設などが含まれることが多いです。RajがPilatesのクラスに通っている場所として登場します。"
+    },
+    {
+      "id": 93,
+      "value": "animal hindbrain",
+      "options": [
+        "動物的な前頭葉",
+        "動物的な後脳",
+        "人間の理性",
+        "動物的な本能を司る脳"
+      ],
+      "correctAnswer": "動物的な本能を司る脳",
+      "explanation": "「animal hindbrain」は、動物的な本能を司る脳、つまり衝動や欲望を意味します。SheldonがAmyに「reject your animal hindbrain」と言っているのは、理性を取り戻して性的な衝動を抑えるように促しているのです。hindbrainは大脳の一部です。"
+    },
+    {
+      "id": 94,
+      "value": "matter of time",
+      "options": [
+        "時間の無駄",
+        "時間の問題",
+        "過去の問題",
+        "未来の問題"
+      ],
+      "correctAnswer": "時間の問題",
+      "explanation": "「matter of time」は、時間の問題、時間の経過とともに必ず起こることを意味します。例えば、「It's only a matter of time before he gets caught.（彼が捕まるのは時間の問題だ）」のように使います。RajがHowardに勝つのは時間の問題だと主張している場面で使われています。"
+    },
+    {
+      "id": 95,
+      "value": "underlying point",
+      "options": [
+        "表面的な点",
+        "根本的な点",
+        "矛盾点",
+        "重要な点"
+      ],
+      "correctAnswer": "根本的な点",
+      "explanation": "「underlying point」は、根本的な点、根底にある主張や考えを意味します。表面的な表現や言葉遣いではなく、その背後にある本質的な意味合いを指します。Rajが自分の表現が下手だったとしても、伝えたい根本的な点は間違っていないと主張している場面で使われています。"
+    },
+    {
+      "id": 96,
+      "value": "bloviating",
+      "options": [
+        "簡潔な",
+        "控えめな",
+        "冗長な、自慢げに話す",
+        "内気な"
+      ],
+      "correctAnswer": "冗長な、自慢げに話す",
+      "explanation": "「bloviating」は、大げさで冗長な話し方をすることを意味します。自慢げなニュアンスを含むこともあります。フォーマルな場面ではあまり使われず、軽蔑的な意味合いで使われることが多いです。ここでは、RajがHowardの話し方を批判する際に使っています。"
+    },
+    {
+      "id": 97,
+      "value": "buffoon",
+      "options": [
+        "賢者",
+        "道化師、ばか者",
+        "英雄",
+        "指導者"
+      ],
+      "correctAnswer": "道化師、ばか者",
+      "explanation": "「buffoon」は、道化師、ばか者という意味で、人を嘲笑する際に使われる言葉です。知性や品格に欠ける人を指し、侮蔑的なニュアンスを含みます。HowardがRajを罵倒する際に使っています。"
+    },
+    {
+      "id": 98,
+      "value": "narcissistic",
+      "options": [
+        "利他的な",
+        "謙虚な",
+        "自己陶酔的な",
+        "勇敢な"
+      ],
+      "correctAnswer": "自己陶酔的な",
+      "explanation": "「narcissistic」は、自己陶酔的な、自己中心的なという意味です。自分自身を過剰に愛し、他人への配慮に欠ける人を指します。RajがHowardを批判する際に使っています。"
+    },
+    {
+      "id": 99,
+      "value": "nincompoop",
+      "options": [
+        "天才",
+        "ばか者、まぬけ",
+        "英雄",
+        "指導者"
+      ],
+      "correctAnswer": "ばか者、まぬけ",
+      "explanation": "「nincompoop」は、ばか者、まぬけという意味で、人を軽蔑する際に使われる言葉です。知能が低い、または判断力がない人を指します。HowardがRajを罵倒する際に使っています。"
+    },
+    {
+      "id": 100,
+      "value": "quips",
+      "options": [
+        "沈黙",
+        "深刻な議論",
+        "機知に富んだ言葉、冗談",
+        "長い演説"
+      ],
+      "correctAnswer": "機知に富んだ言葉、冗談",
+      "explanation": "「quip」は、機知に富んだ言葉、冗談、気の利いた返答などを意味します。短いながらもウィットに富んだ発言を指します。Leonardが寝ている間に、RajとHowardがスーパーヒーロー風の言い争いをしていたことを指しています。"
+    }
+  ]
+}

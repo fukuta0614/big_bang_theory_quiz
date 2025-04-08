@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "lapel",
+      "options": [
+        "ズボンの裾",
+        "襟",
+        "袖口",
+        "ポケット"
+      ],
+      "correctAnswer": "襟",
+      "explanation": "「lapel」は、ジャケットやコートの襟の折り返しの部分を指します。花を飾ったり、バッジをつけたりすることがあります。"
+    },
+    {
+      "id": 2,
+      "value": "for your troubles",
+      "options": [
+        "君の努力のために",
+        "ご苦労様",
+        "君の成功のために",
+        "君の失敗のために"
+      ],
+      "correctAnswer": "ご苦労様",
+      "explanation": "「for your troubles」は、相手が何かをしてくれたことに対する感謝の気持ちを表す際に使われる表現です。「ご苦労様」「お礼に」といったニュアンスが含まれます。"
+    },
+    {
+      "id": 3,
+      "value": "flip out",
+      "options": [
+        "冷静になる",
+        "怒り出す",
+        "喜ぶ",
+        "悲しむ"
+      ],
+      "correctAnswer": "怒り出す",
+      "explanation": "「flip out」は、激しく怒ったり、興奮したり、取り乱したりする様子を表す口語表現です。予期せぬ事態に対する感情的な反応を示す際に使われます。"
+    },
+    {
+      "id": 4,
+      "value": "a long time ago",
+      "options": [
+        "つい最近",
+        "昔々",
+        "明日",
+        "明後日"
+      ],
+      "correctAnswer": "昔々",
+      "explanation": "「a long time ago」は、過去のかなり昔の出来事を指す表現です。「ずいぶん前に」「昔々」といった意味合いで使用されます。"
+    },
+    {
+      "id": 5,
+      "value": "pain in the ass",
+      "options": [
+        "頼りになる人",
+        "楽しい人",
+        "面倒な人",
+        "賢い人"
+      ],
+      "correctAnswer": "面倒な人",
+      "explanation": "「pain in the ass」は、非常に不快な人や物事を指すスラング表現です。「厄介者」「じゃま者」といった意味合いで使われ、強い不快感や苛立ちを表します。"
+    },
+    {
+      "id": 6,
+      "value": "reasonable",
+      "options": [
+        "不合理な",
+        "理にかなった",
+        "感情的な",
+        "不可能な"
+      ],
+      "correctAnswer": "理にかなった",
+      "explanation": "「reasonable」は、論理的で妥当な、理にかなったという意味を持つ形容詞です。人や行動、要求などが常識的で受け入れやすい場合に用いられます。"
+    },
+    {
+      "id": 7,
+      "value": "freaking me out",
+      "options": [
+        "私を安心させる",
+        "私を混乱させる",
+        "私を喜ばせる",
+        "私を退屈させる"
+      ],
+      "correctAnswer": "私を混乱させる",
+      "explanation": "「freak out」は、非常に驚いたり、怖がったり、混乱したりする状態を表す口語表現です。「freaking me out」は、その状態が自分に起こっていることを意味します。"
+    },
+    {
+      "id": 8,
+      "value": "fixate on",
+      "options": [
+        "無視する",
+        "集中する",
+        "忘れる",
+        "嫌う"
+      ],
+      "correctAnswer": "集中する",
+      "explanation": "「fixate on」は、特定の対象に心を奪われ、過度に注意を向けることを意味します。一つの考えや感情に囚われて、他のことが考えられなくなる状態を表します。"
+    },
+    {
+      "id": 9,
+      "value": "nag",
+      "options": [
+        "褒める",
+        "慰める",
+        "がみがみ言う",
+        "励ます"
+      ],
+      "correctAnswer": "がみがみ言う",
+      "explanation": "「nag」は、しつこく文句を言ったり、小言を言ったりすることを意味します。特に、些細なことを何度も繰り返して言う場合に用いられます。"
+    },
+    {
+      "id": 10,
+      "value": "disregard",
+      "options": [
+        "尊重する",
+        "無視する",
+        "評価する",
+        "考慮する"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「disregard」は、注意を払わない、無視するという意味を持つ動詞です。重要でないと判断して、意図的に考慮に入れない場合に用いられます。"
+    },
+    {
+      "id": 11,
+      "value": "unresolved issues",
+      "options": [
+        "解決済みの問題",
+        "未解決の問題",
+        "簡単な問題",
+        "複雑な問題"
+      ],
+      "correctAnswer": "未解決の問題",
+      "explanation": "「unresolved issues」は、まだ解決されていない問題や課題を指します。未解決のまま放置されているため、不安や不満の原因となることがあります。"
+    },
+    {
+      "id": 12,
+      "value": "itch in my brain",
+      "options": [
+        "脳の病気",
+        "心の悩み",
+        "素晴らしいアイデア",
+        "幸福感"
+      ],
+      "correctAnswer": "心の悩み",
+      "explanation": "「itch in my brain」は、比喩的な表現で、解消されない不快感や心の悩み、気がかりなことを指します。解決を必要とする問題があるために落ち着かない状態を表します。"
+    },
+    {
+      "id": 13,
+      "value": "pester",
+      "options": [
+        "助ける",
+        "邪魔する",
+        "励ます",
+        "無視する"
+      ],
+      "correctAnswer": "邪魔する",
+      "explanation": "「pester」は、しつこく付きまとったり、邪魔をしたりすることを意味します。相手を困らせるような行動を指し、迷惑をかけるニュアンスが含まれます。"
+    },
+    {
+      "id": 14,
+      "value": "defecate",
+      "options": [
+        "食事をする",
+        "排泄する",
+        "睡眠をとる",
+        "運動する"
+      ],
+      "correctAnswer": "排泄する",
+      "explanation": "「defecate」は、排便するという意味のフォーマルな言葉です。日常会話ではあまり使われず、医学的な文脈や、ややユーモラスな状況で用いられることがあります。"
+    },
+    {
+      "id": 15,
+      "value": "matter",
+      "options": [
+        "物質",
+        "問題",
+        "空間",
+        "時間"
+      ],
+      "correctAnswer": "問題",
+      "explanation": "「matter」は、ここでは「問題」「事柄」という意味で使用されています。解決や検討を要する事柄を指し、重要性や深刻さを含むことがあります。"
+    },
+    {
+      "id": 16,
+      "value": "shut you up",
+      "options": [
+        "あなたを助ける",
+        "あなたを黙らせる",
+        "あなたを励ます",
+        "あなたを自由にする"
+      ],
+      "correctAnswer": "あなたを黙らせる",
+      "explanation": "「shut someone up」は、相手を黙らせる、口を封じるという意味の口語表現です。相手の発言を止めさせたいときに使われ、しばしば強い感情を伴います。"
+    },
+    {
+      "id": 17,
+      "value": "fortune",
+      "options": [
+        "不運",
+        "幸運",
+        "少しのお金",
+        "たくさんのお金"
+      ],
+      "correctAnswer": "たくさんのお金",
+      "explanation": "「fortune」は、ここでは「財産」「富」という意味で使用されています。特に、莫大な財産や富を指す場合に用いられます。"
+    },
+    {
+      "id": 18,
+      "value": "go out of business",
+      "options": [
+        "開店する",
+        "事業を拡大する",
+        "廃業する",
+        "新しい事業を始める"
+      ],
+      "correctAnswer": "廃業する",
+      "explanation": "「go out of business」は、会社や店が倒産して事業を停止することを意味します。経営難や経済状況の悪化などが原因で、事業を継続できなくなる状態を指します。"
+    },
+    {
+      "id": 19,
+      "value": "dart board",
+      "options": [
+        "チェス盤",
+        "ダーツボード",
+        "トランプ",
+        "ルーレット"
+      ],
+      "correctAnswer": "ダーツボード",
+      "explanation": "「dart board」は、ダーツを投げる際に使用する的のことです。円形の板に数字が書かれており、点数を競います。"
+    },
+    {
+      "id": 20,
+      "value": "Skee-Ball",
+      "options": [
+        "バスケットボール",
+        "ボウリング",
+        "スキーボール",
+        "ビリヤード"
+      ],
+      "correctAnswer": "スキーボール",
+      "explanation": "「Skee-Ball」は、ボールを転がして特定の穴に入れるアーケードゲームの一種です。得点を競い、チケットを集めて景品と交換することができます。"
+    },
+    {
+      "id": 21,
+      "value": "junk box",
+      "options": [
+        "宝石箱",
+        "ゴミ箱",
+        "おもちゃ箱",
+        "がらくた箱"
+      ],
+      "correctAnswer": "がらくた箱",
+      "explanation": "「junk box」は、価値のないものや不要品をまとめて入れておく箱のことです。思い出の品や、いつか使うかもしれない物を保管しておく目的で使われることがあります。"
+    },
+    {
+      "id": 22,
+      "value": "barely",
+      "options": [
+        "完全に",
+        "ほとんど～ない",
+        "非常に",
+        "いつも"
+      ],
+      "correctAnswer": "ほとんど～ない",
+      "explanation": "「barely」は、程度や量がごくわずかであることを示す副詞です。「かろうじて」「辛うじて」といった意味合いで使用され、否定的なニュアンスを含むことがあります。"
+    },
+    {
+      "id": 23,
+      "value": "take care of it",
+      "options": [
+        "忘れる",
+        "無視する",
+        "処理する",
+        "避ける"
+      ],
+      "correctAnswer": "処理する",
+      "explanation": "「take care of it」は、問題や課題を処理する、対応するという意味を持つ一般的な表現です。責任を持って対処することを約束する際に用いられます。"
+    },
+    {
+      "id": 24,
+      "value": "coat hanger",
+      "options": [
+        "コート",
+        "ハンガー",
+        "帽子",
+        "靴"
+      ],
+      "correctAnswer": "ハンガー",
+      "explanation": "「coat hanger」は、コートや洋服を掛けるためのハンガーのことです。針金やプラスチック、木製など、様々な素材で作られています。"
+    },
+    {
+      "id": 25,
+      "value": "experience",
+      "options": [
+        "知識",
+        "経験",
+        "感情",
+        "記憶"
+      ],
+      "correctAnswer": "経験",
+      "explanation": "「experience」は、体験や経験という意味を持つ名詞です。実際に何かを経験することで得られる知識や感情、技能などを指します。"
+    },
+    {
+      "id": 26,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待つ",
+        "出かける",
+        "手伝う"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「Hang on」は、人に少し待つように頼む時に使う一般的な口語表現です。文字通りには「しがみつく」という意味ですが、ここでは「ちょっと待って」や「少しの間待ってください」という意味で使われています。日常会話で頻繁に使われます。"
+    },
+    {
+      "id": 27,
+      "value": "in vivo",
+      "options": [
+        "試験管内で",
+        "生体内で",
+        "コンピュータ上で",
+        "夢の中で"
+      ],
+      "correctAnswer": "生体内で",
+      "explanation": "「in vivo」はラテン語で「生体内で」という意味です。生物の体内で実験や研究が行われる状況を指します。対義語は「in vitro」（試験管内で）。医学や生物学の分野でよく使用される専門用語です。"
+    },
+    {
+      "id": 28,
+      "value": "stereotaxic surgery",
+      "options": [
+        "美容整形手術",
+        "内視鏡手術",
+        "定位脳手術",
+        "心臓外科手術"
+      ],
+      "correctAnswer": "定位脳手術",
+      "explanation": "「stereotaxic surgery」は、脳の特定部位に正確にアクセスするために使用される手術法です。三次元座標系を用いて、脳内のターゲットを特定し、手術器具を誘導します。神経科学研究や、パーキンソン病などの治療に用いられます。"
+    },
+    {
+      "id": 29,
+      "value": "laser capture micro-dissections",
+      "options": [
+        "レーザー切断",
+        "レーザーマイクロ手術",
+        "レーザー細胞分離",
+        "レーザー組織染色"
+      ],
+      "correctAnswer": "レーザー細胞分離",
+      "explanation": "「laser capture microdissection (LCM)」は、組織サンプルから特定の細胞を選択的に分離・採取する技術です。レーザーを用いて目的の細胞を切り出し、研究に利用します。遺伝子解析やタンパク質解析などの前処理として使用されます。"
+    },
+    {
+      "id": 30,
+      "value": "check her out",
+      "options": [
+        "彼女を調べる",
+        "彼女を無視する",
+        "彼女を見定める",
+        "彼女を助ける"
+      ],
+      "correctAnswer": "彼女を見定める",
+      "explanation": "「check someone out」は、人を（特に外見を）評価したり、観察したりするという意味のスラングです。ここでは、ルーシーがどんな人物か確認するために、ペニーが彼女を見ようとしている状況を表しています。"
+    },
+    {
+      "id": 31,
+      "value": "racism",
+      "options": [
+        "人種差別",
+        "性差別",
+        "年齢差別",
+        "宗教差別"
+      ],
+      "correctAnswer": "人種差別",
+      "explanation": "「racism」は、特定の人種に対する偏見、差別、または敵意のことです。多くの場合、ある人種が他の人種よりも優れているという信念に基づいています。社会問題として広く認識されており、様々な形で現れます。"
+    },
+    {
+      "id": 32,
+      "value": "start you off",
+      "options": [
+        "始める",
+        "終わらせる",
+        "手伝う",
+        "邪魔する"
+      ],
+      "correctAnswer": "始める",
+      "explanation": "「start someone off」は、特にレストランやバーで、客に最初に飲み物や食事を注文してもらう際に使われる表現です。「何を始められますか？」は、「何かご注文は？」という意味になります。"
+    },
+    {
+      "id": 33,
+      "value": "none of my business",
+      "options": [
+        "私の仕事ではない",
+        "私の趣味ではない",
+        "私には関係ない",
+        "私の得意分野ではない"
+      ],
+      "correctAnswer": "私には関係ない",
+      "explanation": "「none of my business」は、ある事柄が自分とは関係がない、または干渉すべきではないという意味を表す表現です。ここでは、ペニーがルーシーとの関係について尋ねることが、本来は自分の関与すべきことではないと認識していることを示しています。"
+    },
+    {
+      "id": 34,
+      "value": "blubbering mess",
+      "options": [
+        "完璧な状態",
+        "幸せな状態",
+        "泣きじゃくる状態",
+        "怒っている状態"
+      ],
+      "correctAnswer": "泣きじゃくる状態",
+      "explanation": "「blubbering mess」は、ひどく泣いて取り乱している状態の人を指す表現です。「blubber」は泣きじゃくるという意味で、「mess」は混乱した状態を意味します。合わせて、感情的に非常に不安定な状態を表します。"
+    },
+    {
+      "id": 35,
+      "value": "walk a mile in my shoes",
+      "options": [
+        "靴を買いに行く",
+        "同じ経験をする",
+        "靴を修理する",
+        "靴をプレゼントする"
+      ],
+      "correctAnswer": "同じ経験をする",
+      "explanation": "「walk a mile in someone's shoes」は、他人の立場や状況を理解しようと努めるという意味のイディオムです。他人の経験や苦労を理解するためには、実際にその人の立場になって考え、感じることが重要だという考えを示しています。"
+    },
+    {
+      "id": 36,
+      "value": "out of business",
+      "options": [
+        "閉店した",
+        "開店した",
+        "改装中",
+        "セール中"
+      ],
+      "correctAnswer": "閉店した",
+      "explanation": "「out of business」は、会社や店が事業を停止し、閉鎖した状態を意味します。経営難や倒産など、様々な理由で事業を継続できなくなった状況を表します。"
+    },
+    {
+      "id": 37,
+      "value": "late fee",
+      "options": [
+        "入場料",
+        "延滞料金",
+        "手数料",
+        "サービス料"
+      ],
+      "correctAnswer": "延滞料金",
+      "explanation": "「late fee」は、支払い期限を過ぎた場合に課される料金のことです。図書館の書籍、レンタルのDVD、クレジットカードの支払いなど、様々な状況で発生します。"
+    },
+    {
+      "id": 38,
+      "value": "complete lunatic",
+      "options": [
+        "賢い人",
+        "普通の人",
+        "完全な狂人",
+        "成功者"
+      ],
+      "correctAnswer": "完全な狂人",
+      "explanation": "「lunatic」は狂人、非常識な人を意味する言葉で、「complete lunatic」はその度合いが強いことを強調しています。ここでは、問題解決のために常軌を逸した行動を取る人を指して使われています。"
+    },
+    {
+      "id": 39,
+      "value": "impersonating",
+      "options": [
+        "無視する",
+        "真似る",
+        "助ける",
+        "教える"
+      ],
+      "correctAnswer": "真似る",
+      "explanation": "「impersonate」は、特定の人物の言動や外見を真似ることを意味します。エンターテイメントや詐欺など、様々な目的で行われます。ここでは、熊のキャラクターに扮してメッセージを伝える状況を表しています。"
+    },
+    {
+      "id": 40,
+      "value": "prevent",
+      "options": [
+        "許可する",
+        "防ぐ",
+        "促進する",
+        "無視する"
+      ],
+      "correctAnswer": "防ぐ",
+      "explanation": "「prevent」は、何か悪いことや好ましくないことが起こらないように事前に防ぐという意味です。ここでは、森林火災を防ぐという文脈で使用されています。"
+    },
+    {
+      "id": 41,
+      "value": "forest fires",
+      "options": [
+        "森林",
+        "山火事",
+        "花火",
+        "洪水"
+      ],
+      "correctAnswer": "山火事",
+      "explanation": "「forest fire」は、森林で発生する火災のことです。自然発火や人為的な原因によって発生し、広範囲にわたって森林を破壊することがあります。"
+    },
+    {
+      "id": 42,
+      "value": "mongoose",
+      "options": [
+        "コブラ",
+        "マングース",
+        "リス",
+        "犬"
+      ],
+      "correctAnswer": "マングース",
+      "explanation": "「mongoose」は、主にアフリカやアジアに生息する肉食動物です。ヘビを捕食することで知られており、特にコブラに対する耐性を持っています。"
+    },
+    {
+      "id": 43,
+      "value": "cobras",
+      "options": [
+        "ワニ",
+        "コブラ",
+        "トカゲ",
+        "カメレオン"
+      ],
+      "correctAnswer": "コブラ",
+      "explanation": "「cobra」は、コブラ科に属する毒ヘビの総称です。危険な毒を持ち、攻撃的な性格で知られています。インドや東南アジアなどに生息しています。"
+    },
+    {
+      "id": 44,
+      "value": "burn down",
+      "options": [
+        "建てる",
+        "燃やす",
+        "修理する",
+        "飾る"
+      ],
+      "correctAnswer": "燃やす",
+      "explanation": "「burn down」は、建物や森林などを焼き払うという意味です。火災によって完全に破壊される状態を表します。"
+    },
+    {
+      "id": 45,
+      "value": "order something",
+      "options": [
+        "何かを注文する",
+        "何かを捨てる",
+        "何かを隠す",
+        "何かを壊す"
+      ],
+      "correctAnswer": "何かを注文する",
+      "explanation": "「order something」は、レストランなどで飲食物を注文するという意味の一般的な表現です。"
+    },
+    {
+      "id": 46,
+      "value": "chief",
+      "options": [
+        "部下",
+        "上司",
+        "友人",
+        "家族"
+      ],
+      "correctAnswer": "上司",
+      "explanation": "「chief」は、ここでは親しみを込めた呼びかけとして使われており、「ねえ、ボス」や「おやびん」のようなニュアンスです。"
+    },
+    {
+      "id": 47,
+      "value": "nipples feeling",
+      "options": [
+        "疲労感",
+        "体調",
+        "幸福感",
+        "食欲"
+      ],
+      "correctAnswer": "体調",
+      "explanation": "「nipples feeling」はここでは、相手の体調を尋ねるための、Sheldon特有の少し変わった言い回しです。直接的な表現を避けてユーモラスに表現しています。"
+    },
+    {
+      "id": 48,
+      "value": "get",
+      "options": [
+        "与える",
+        "得る",
+        "理解する",
+        "忘れる"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get」は、ここでは「理解する」という意味で使われています。RajがSmokey the Bearのジョークを理解できないことを示しています。"
+    },
+    {
+      "id": 49,
+      "value": "acting like",
+      "options": [
+        "振る舞う",
+        "考える",
+        "感じる",
+        "無視する"
+      ],
+      "correctAnswer": "振る舞う",
+      "explanation": "「acting like」は、「〜のように振る舞う」という意味です。ここでは、Leonardが狂人のように振る舞うことを避けるために、問題解決を試みるという文脈で使用されています。"
+    },
+    {
+      "id": 50,
+      "value": "rude",
+      "options": [
+        "礼儀正しい",
+        "失礼な",
+        "面白い",
+        "賢い"
+      ],
+      "correctAnswer": "失礼な",
+      "explanation": "「rude」は、無礼な、失礼なという意味です。相手の気持ちを考えない言動や態度を指します。ここでは、ペニーがルーシーに対して個人的な質問をすることが失礼だと自覚していることを示しています。"
+    },
+    {
+      "id": 51,
+      "value": "pathetic mess",
+      "options": [
+        "同情を誘う混乱",
+        "哀れな状況",
+        "悲惨な失敗",
+        "滑稽な冗談"
+      ],
+      "correctAnswer": "哀れな状況",
+      "explanation": "「pathetic mess」は、非常に哀れで、どうしようもない状態を表す表現です。人の状態や状況を批判的に描写する際に使われます。特に、感情的に不安定であったり、自暴自棄になっている様子を指すことが多いです。例：He was a pathetic mess after she broke up with him. (彼女に振られた後、彼は哀れな状態だった。)"
+    },
+    {
+      "id": 52,
+      "value": "have someone's back",
+      "options": [
+        "誰かを支える",
+        "誰かの邪魔をする",
+        "誰かを無視する",
+        "誰かを裏切る"
+      ],
+      "correctAnswer": "誰かを支える",
+      "explanation": "「have someone's back」は、誰かを支持し、保護するという意味のイディオムです。困難な状況で誰かを助けたり、擁護したりする際に使われます。例：Don't worry, I've got your back if anything goes wrong. (心配しないで、何かあったら私がついてるよ。)"
+    },
+    {
+      "id": 53,
+      "value": "virtual photons",
+      "options": [
+        "仮想光子",
+        "実在光子",
+        "暗黒光子",
+        "鏡面光子"
+      ],
+      "correctAnswer": "仮想光子",
+      "explanation": "「virtual photons」は、量子電磁力学において、相互作用の媒介として一時的に存在する光子を指します。直接観測することはできませんが、理論的な計算やモデルにおいて重要な役割を果たします。ここでは、Sheldonが研究テーマとして扱っている単語です。"
+    },
+    {
+      "id": 54,
+      "value": "dark energy",
+      "options": [
+        "暗黒エネルギー",
+        "太陽エネルギー",
+        "風力エネルギー",
+        "水力エネルギー"
+      ],
+      "correctAnswer": "暗黒エネルギー",
+      "explanation": "「dark energy」は、宇宙の加速膨張を引き起こすとされる、正体不明のエネルギーです。宇宙全体の約7割を占めると考えられていますが、その性質や起源についてはまだ多くの謎が残されています。ここでは、Sheldonが研究テーマとして扱っている単語です。"
+    },
+    {
+      "id": 55,
+      "value": "next of kin",
+      "options": [
+        "親戚一同",
+        "近親者",
+        "隣人",
+        "友人代表"
+      ],
+      "correctAnswer": "近親者",
+      "explanation": "「next of kin」は、法律上の最も近い血縁者を指します。相続や緊急時の連絡先として重要になる言葉です。この場合、亡くなったビデオ店のオーナーの最も近い親族を指しています。例：The hospital needs to contact his next of kin. (病院は彼の近親者に連絡を取る必要がある。)"
+    },
+    {
+      "id": 56,
+      "value": "reimburse",
+      "options": [
+        "払い戻す",
+        "請求する",
+        "寄付する",
+        "盗む"
+      ],
+      "correctAnswer": "払い戻す",
+      "explanation": "「reimburse」は、費用や損失を補償するために払い戻すという意味です。ビジネスやフォーマルな文脈でよく使われます。例：The company will reimburse you for your travel expenses. (会社はあなたの出張費を払い戻します。)"
+    },
+    {
+      "id": 57,
+      "value": "love handles",
+      "options": [
+        "愛情表現",
+        "わき腹の贅肉",
+        "恋人の贈り物",
+        "秘密の計画"
+      ],
+      "correctAnswer": "わき腹の贅肉",
+      "explanation": "「love handles」は、わき腹についた脂肪のことを指す口語的な表現です。ユーモラスなニュアンスが含まれることが多いです。ここでは、Rajが自信のなさの例えとして使っています。"
+    },
+    {
+      "id": 58,
+      "value": "flop sweat",
+      "options": [
+        "冷や汗",
+        "運動後の汗",
+        "緊張",
+        "興奮"
+      ],
+      "correctAnswer": "冷や汗",
+      "explanation": "「flop sweat」は、極度の緊張や不安からくる冷や汗を指す口語的な表現です。特に、失敗や恥をかくことへの恐れからくる汗を指します。ここでは、Rajが自信のなさの例えとして使っています。"
+    },
+    {
+      "id": 59,
+      "value": "crumb of affection",
+      "options": [
+        "愛情の欠片",
+        "パンくず",
+        "友情の証",
+        "軽蔑の言葉"
+      ],
+      "correctAnswer": "愛情の欠片",
+      "explanation": "「crumb of affection」は、ほんのわずかな愛情や好意を指す表現です。「crumb」はパンくずのような小さなものを意味し、それが愛情にたとえられています。Rajの切望する気持ちを表現しています。"
+    },
+    {
+      "id": 60,
+      "value": "get to me",
+      "options": [
+        "影響を与える",
+        "理解する",
+        "逃げる",
+        "攻撃する"
+      ],
+      "correctAnswer": "影響を与える",
+      "explanation": "「get to me」は、人に影響を与えたり、悩ませたりするという意味です。感情的に動揺させられるニュアンスが含まれます。例：His words really got to me. (彼の言葉は本当に私に影響を与えた。)"
+    },
+    {
+      "id": 61,
+      "value": "principle at stake",
+      "options": [
+        "危機に瀕した原則",
+        "賭けられた原理",
+        "議論の余地のある原則",
+        "守るべき原則"
+      ],
+      "correctAnswer": "守るべき原則",
+      "explanation": "「principle at stake」は、重要な原則が危険にさらされている、または問題になっているという意味です。ここでは、LeonardがSheldonとの間の個人的な意地の張り合いのために、不快なセーターを着続ける理由として使われています。"
+    },
+    {
+      "id": 62,
+      "value": "skin graft",
+      "options": [
+        "皮膚移植",
+        "骨移植",
+        "毛髪移植",
+        "心臓移植"
+      ],
+      "correctAnswer": "皮膚移植",
+      "explanation": "「skin graft」は、火傷や怪我などで損傷した皮膚を修復するために、健康な皮膚を移植する手術のことです。ここでは、Leonardがセーターのせいで肌に異常が出た場合を想定して言っています。"
+    },
+    {
+      "id": 63,
+      "value": "antagonize",
+      "options": [
+        "味方になる",
+        "対立する",
+        "協力する",
+        "無視する"
+      ],
+      "correctAnswer": "対立する",
+      "explanation": "「antagonize」は、誰かを怒らせたり、敵意を抱かせたりするという意味です。意図的に誰かを不快にさせる場合に使われます。例：He didn't want to antagonize his boss. (彼は上司を怒らせたくなかった。)"
+    },
+    {
+      "id": 64,
+      "value": "overreacting",
+      "options": [
+        "過剰反応する",
+        "冷静に対応する",
+        "無関心でいる",
+        "積極的に行動する"
+      ],
+      "correctAnswer": "過剰反応する",
+      "explanation": "「overreacting」は、出来事に対して必要以上に感情的に反応することを意味します。些細なことに対して大げさに騒ぎ立てるような状況で使われます。例：I think you're overreacting to the situation. (君は状況に過剰反応していると思う。)"
+    },
+    {
+      "id": 65,
+      "value": "have his back",
+      "options": [
+        "彼を裏切る",
+        "彼を支持する",
+        "彼を無視する",
+        "彼を困らせる"
+      ],
+      "correctAnswer": "彼を支持する",
+      "explanation": "「have his back」は、誰かを支持し、保護するという意味のイディオムです。困難な状況で誰かを助けたり、擁護したりする際に使われます。PennyがRajを擁護したことを指しています。例：Don't worry, I've got your back if anything goes wrong. (心配しないで、何かあったら私がついてるよ。)"
+    },
+    {
+      "id": 66,
+      "value": "get back with",
+      "options": [
+        "仲直りする",
+        "別れる",
+        "喧嘩する",
+        "無視する"
+      ],
+      "correctAnswer": "仲直りする",
+      "explanation": "「get back with」は、別れた恋人と復縁することを意味します。恋愛関係の修復について話す際に使われます。例：I want to get back with my ex-girlfriend. (元カノと仲直りしたい。)"
+    },
+    {
+      "id": 67,
+      "value": "desperate mess",
+      "options": [
+        "絶望的な状況",
+        "清潔な状態",
+        "冷静な状況",
+        "安定した状況"
+      ],
+      "correctAnswer": "絶望的な状況",
+      "explanation": "「desperate mess」は、非常に絶望的で、どうしようもない状態を表す表現です。人の状態や状況を批判的に描写する際に使われます。特に、感情的に不安定であったり、自暴自棄になっている様子を指すことが多いです。Rajの状態を表しています。"
+    },
+    {
+      "id": 68,
+      "value": "peacefully in his sleep",
+      "options": [
+        "眠りの中で安らかに",
+        "戦いの中で勇敢に",
+        "事故で突然",
+        "病気で苦しみながら"
+      ],
+      "correctAnswer": "眠りの中で安らかに",
+      "explanation": "「peacefully in his sleep」は、苦痛を感じることなく、眠っている間に安らかに亡くなることを意味します。穏やかな死に方を表す際に使われます。例：He died peacefully in his sleep at the age of 90. (彼は90歳で眠りの中で安らかに亡くなった。)"
+    },
+    {
+      "id": 69,
+      "value": "method of observing",
+      "options": [
+        "観察方法",
+        "隠蔽方法",
+        "破壊方法",
+        "創造方法"
+      ],
+      "correctAnswer": "観察方法",
+      "explanation": "「method of observing」は、何かを観察するための方法や手段を意味します。科学的な研究や調査において、特定の現象を観察するための手法を指す際に使われます。Sheldonの研究に関連する表現です。"
+    },
+    {
+      "id": 70,
+      "value": "at stake",
+      "options": [
+        "危険にさらされて",
+        "安全に保護されて",
+        "完全に無視されて",
+        "秘密に隠されて"
+      ],
+      "correctAnswer": "危険にさらされて",
+      "explanation": "「at stake」は、危険にさらされている、失われる可能性があるという意味です。重要なものが危険な状態にあることを示す際に使われます。例：His reputation is at stake. (彼の評判は危険にさらされている。)"
+    },
+    {
+      "id": 71,
+      "value": "to tell Raj abut what you did?",
+      "options": [
+        "何をしたかをラージに伝える",
+        "ラージに何をするかを伝える",
+        "何をしたかを隠す",
+        "何をするかを忘れる"
+      ],
+      "correctAnswer": "何をしたかをラージに伝える",
+      "explanation": "ここでは、ペニーがラージに対して行ったこと、つまりラージとルーシーの関係を邪魔したことについて、どのように説明するのかを尋ねています。「tell someone about what you did」は、自分がしたことについて誰かに話す、という意味の表現です。"
+    },
+    {
+      "id": 72,
+      "value": "the big deal",
+      "options": [
+        "重要なこと",
+        "些細なこと",
+        "秘密",
+        "冗談"
+      ],
+      "correctAnswer": "重要なこと",
+      "explanation": "「the big deal」は、重要なこと、問題点という意味です。「What's the big deal?」は、何が問題なの？という意味で、相手の反応に対して疑問や不満を示す際に使われます。ここでは、ペニーが自分の行動の重大さを理解していないことを示しています。"
+    },
+    {
+      "id": 73,
+      "value": "appreciate how I had his back",
+      "options": [
+        "私の支援に感謝する",
+        "私の邪魔に感謝する",
+        "私のことを忘れる",
+        "私の行動を無視する"
+      ],
+      "correctAnswer": "私の支援に感謝する",
+      "explanation": "「appreciate how I had his back」は、私が彼をどのように支援したかに感謝するという意味です。「have someone's back」は、誰かを支持し、保護するという意味のイディオムです。ここでは、ペニーがラージの味方をしたと信じていることを示しています。"
+    },
+    {
+      "id": 74,
+      "value": "method of observing dark energy",
+      "options": [
+        "暗黒エネルギーの観察方法",
+        "暗黒エネルギーの生成方法",
+        "暗黒エネルギーの破壊方法",
+        "暗黒エネルギーの隠蔽方法"
+      ],
+      "correctAnswer": "暗黒エネルギーの観察方法",
+      "explanation": "「method of observing dark energy」は、暗黒エネルギーを観察するための方法や手段を意味します。科学的な研究や調査において、特定の現象を観察するための手法を指す際に使われます。シェルドンが研究しているテーマです。暗黒エネルギーは宇宙の加速膨張を引き起こすとされる正体不明のエネルギーです。"
+    },
+    {
+      "id": 75,
+      "value": "princeton",
+      "options": [
+        "大学名",
+        "町名",
+        "人名",
+        "会社名"
+      ],
+      "correctAnswer": "大学名",
+      "explanation": "プリンストン大学のこと。アメリカ合衆国ニュージャージー州プリンストンにある名門私立大学。アイビー・リーグの一角であり、世界的に高い評価を受けている研究大学です。ここでは、ペニーがレナードをからかうために持ち出しています。"
+    },
+    {
+      "id": 76,
+      "value": "handling this DVD business with an impressive amount of maturity",
+      "options": [
+        "未熟な対応",
+        "感傷的な対応",
+        "大人気ない対応",
+        "大人びた対応"
+      ],
+      "correctAnswer": "大人びた対応",
+      "explanation": "「maturity」は成熟、円熟、分別という意味で、ここでは「impressive amount of maturity（目覚ましいほどの分別）」とあるので、DVDの件を非常に大人びた対応をしている、という意味になります。"
+    },
+    {
+      "id": 77,
+      "value": "coping mechanism",
+      "options": [
+        "防衛機制",
+        "競争原理",
+        "相殺",
+        "暗号技術"
+      ],
+      "correctAnswer": "防衛機制",
+      "explanation": "「coping mechanism」とは、ストレスや困難な状況に対処するための心理的なメカニズム、つまり「防衛機制」のことです。ここでは、シェルドンがDVDの件に対処するために何か新しい方法を用いているのかを尋ねています。"
+    },
+    {
+      "id": 78,
+      "value": "Don’t Sweat the Small Stuff",
+      "options": [
+        "小さなことを気にするな",
+        "細かいところに汗をかけ",
+        "小さなことからコツコツと",
+        "小さなことを大きくするな"
+      ],
+      "correctAnswer": "小さなことを気にするな",
+      "explanation": "「Don’t Sweat the Small Stuff」は、「小さなことでくよくよするな」「些細なことを気にするな」という意味の英語の成句です。ここでは、DVDの件で動揺しないように、そのタイトルの本を読んだ、という文脈で使われています。"
+    },
+    {
+      "id": 79,
+      "value": "hang out",
+      "options": [
+        "手伝う",
+        "出かける",
+        "干す",
+        "電話を切る"
+      ],
+      "correctAnswer": "出かける",
+      "explanation": "「hang out」は、友達とぶらぶらする、一緒に時間を過ごすという意味です。ここでは、別れたルーシーを食事に誘い、また一緒に時間を過ごしたい、という文脈で使われています。"
+    },
+    {
+      "id": 80,
+      "value": "seeing someone",
+      "options": [
+        "誰かに見られている",
+        "誰かと付き合っている",
+        "誰かと会っている",
+        "誰かを見ている"
+      ],
+      "correctAnswer": "誰かと付き合っている",
+      "explanation": "「seeing someone」は、恋愛関係にある、誰かと付き合っているという意味です。ここでは、ルーシーがラージに、付き合っている人がいることを伝えています。"
+    },
+    {
+      "id": 81,
+      "value": "play with a cobra",
+      "options": [
+        "コブラと遊ぶ",
+        "危険なことをする",
+        "コブラを飼う",
+        "コブラを研究する"
+      ],
+      "correctAnswer": "危険なことをする",
+      "explanation": "「play with a cobra」は、文字通りにはコブラと遊ぶという意味ですが、比喩的に危険なこと、リスキーな状況に身を置くという意味で使われます。ここでは、ペニーのせいで危険な目にあった、とラージが訴えています。"
+    },
+    {
+      "id": 82,
+      "value": "set you up with",
+      "options": [
+        "あなたを騙す",
+        "あなたを陥れる",
+        "あなたを紹介する",
+        "あなたを励ます"
+      ],
+      "correctAnswer": "あなたを紹介する",
+      "explanation": "「set someone up with someone」は、誰かと誰かをデートのために紹介する、引き合わせるという意味です。ここでは、ペニーがラージに、自分の知り合いの女性を紹介すると言っています。"
+    },
+    {
+      "id": 83,
+      "value": "novelty squirt flower",
+      "options": [
+        "目新しい造花",
+        "いたずらグッズの押し出し式の花",
+        "高級な生花",
+        "最新の園芸品種"
+      ],
+      "correctAnswer": "いたずらグッズの押し出し式の花",
+      "explanation": "「novelty squirt flower」は、いたずらグッズの一種で、押すと水が飛び出す花の事です。"
+    },
+    {
+      "id": 84,
+      "value": "peanut brittle",
+      "options": [
+        "ピーナッツバター",
+        "ピーナッツの砂糖がけ",
+        "ピーナッツオイル",
+        "ピーナッツクリーム"
+      ],
+      "correctAnswer": "ピーナッツの砂糖がけ",
+      "explanation": "「peanut brittle」は、ピーナッツを砂糖やバターなどで固めたお菓子です。"
+    },
+    {
+      "id": 85,
+      "value": "next of kin",
+      "options": [
+        "親戚一同",
+        "後継者",
+        "近親者",
+        "隣人"
+      ],
+      "correctAnswer": "近親者",
+      "explanation": "「next of kin」は、最も近い親族、近親者という意味です。法的、公式な文脈で使われることが多いです。"
+    },
+    {
+      "id": 86,
+      "value": "hot under the collar",
+      "options": [
+        "襟元が熱い",
+        "怒っている",
+        "興奮している",
+        "風邪気味だ"
+      ],
+      "correctAnswer": "怒っている",
+      "explanation": "「hot under the collar」は、怒っている、腹を立てているという意味のイディオムです。感情が高ぶって首元が熱くなる様子を表しています。"
+    },
+    {
+      "id": 87,
+      "value": "complete waste",
+      "options": [
+        "完全な無駄",
+        "完璧な節約",
+        "全体的な浪費",
+        "一部分の無駄"
+      ],
+      "correctAnswer": "完全な無駄",
+      "explanation": "「complete waste」は、完全に無駄なこと、全く意味がないことという意味です。ここでは、葬儀に行ったことが全くの無駄ではなかった、と述べています。"
+    },
+    {
+      "id": 88,
+      "value": "long-lost relatives",
+      "options": [
+        "行方不明の親戚",
+        "疎遠になっている親戚",
+        "最近亡くなった親戚",
+        "遠い親戚"
+      ],
+      "correctAnswer": "疎遠になっている親戚",
+      "explanation": "「long-lost relatives」は、長い間連絡を取っていない親戚、疎遠になっている親戚という意味です。ここでは、DVDを返却するために、そのような親戚を探すことを提案しています。"
+    },
+    {
+      "id": 89,
+      "value": "bothering you",
+      "options": [
+        "あなたを悩ませる",
+        "あなたを応援する",
+        "あなたを助ける",
+        "あなたを喜ばせる"
+      ],
+      "correctAnswer": "あなたを悩ませる",
+      "explanation": "「bother」は、悩ませる、困らせる、気にするという意味です。ここでは、DVDが延滞していることが、なぜシェルドンを悩ませないのかを尋ねています。"
+    },
+    {
+      "id": 90,
+      "value": "flip out",
+      "options": [
+        "落ち着く",
+        "激怒する",
+        "裏返す",
+        "急いで逃げる"
+      ],
+      "correctAnswer": "激怒する",
+      "explanation": "「flip out」は、取り乱す、激怒する、パニックになるという意味のスラングです。ここでは、シェルドンが秘密を打ち明ける前に、レナードが取り乱さないように頼んでいます。"
+    },
+    {
+      "id": 91,
+      "value": "teachable moment",
+      "options": [
+        "教訓的な瞬間",
+        "感動的な瞬間",
+        "記憶に残る瞬間",
+        "面白い瞬間"
+      ],
+      "correctAnswer": "教訓的な瞬間",
+      "explanation": "「teachable moment」は、何かを教えるのに最適な瞬間、教訓が得られる機会という意味です。ここでは、DVDの延滞を隠していたことが、いつか教訓的な機会になるかもしれないと考えていたと述べています。"
+    },
+    {
+      "id": 92,
+      "value": "diabolical",
+      "options": [
+        "悪魔のような",
+        "天使のような",
+        "素晴らしい",
+        "退屈な"
+      ],
+      "correctAnswer": "悪魔のような",
+      "explanation": "「diabolical」は、悪魔のような、極悪非道な、ひどくずる賢いという意味です。ここでは、シェルドンの行動を非難する際に使われています。"
+    },
+    {
+      "id": 93,
+      "value": "get satisfaction",
+      "options": [
+        "満足を得る",
+        "不満を抱く",
+        "満腹になる",
+        "興奮する"
+      ],
+      "correctAnswer": "満足を得る",
+      "explanation": "「get satisfaction」は、満足感を得る、満たされるという意味です。ここでは、何年も待って、ようやく満足感を得られるかどうか分からない状況を述べています。"
+    },
+    {
+      "id": 94,
+      "value": "morals",
+      "options": [
+        "道徳観",
+        "視力",
+        "士気",
+        "遺産"
+      ],
+      "correctAnswer": "道徳観",
+      "explanation": "「morals」は、道徳、倫理観という意味です。ここでは、自分には道徳がない、とラージが自虐的に述べています。"
+    },
+    {
+      "id": 95,
+      "value": "desperately lonely",
+      "options": [
+        "絶望的に孤独",
+        "非常に勇敢",
+        "極めて親切",
+        "異常に幸せ"
+      ],
+      "correctAnswer": "絶望的に孤独",
+      "explanation": "「desperately lonely」は、どうしようもなく寂しい、絶望的に孤独という意味です。ここでは、ラージが自分の孤独を嘆いています。"
+    },
+    {
+      "id": 96,
+      "value": "something-something on the side",
+      "options": [
+        "本業",
+        "サイドビジネス",
+        "内緒の関係",
+        "趣味"
+      ],
+      "correctAnswer": "内緒の関係",
+      "explanation": "「something-something on the side」は、浮気、不倫など、本命の相手とは別の内緒の関係を持つことを指す口語表現です。ここでは、ラージが相手の女性に、浮気相手にならないかと持ちかけています。"
+    },
+    {
+      "id": 97,
+      "value": "What is wrong with you?",
+      "options": [
+        "どこか具合が悪いのですか？",
+        "どうしたのですか？",
+        "あなたは何が気に入らないのですか？",
+        "あなたは何が間違っているのですか？"
+      ],
+      "correctAnswer": "どうしたのですか？",
+      "explanation": "「What is wrong with you?」は、相手の行動や言動がおかしいと感じた時に、「どうしたの？」「何がおかしいの？」「どうかしてるんじゃないの？」という意味で使われる表現です。"
+    },
+    {
+      "id": 98,
+      "value": "As should be evident",
+      "options": [
+        "明白であるはず",
+        "証明されるはず",
+        "秘密にされるはず",
+        "隠蔽されるはず"
+      ],
+      "correctAnswer": "明白であるはず",
+      "explanation": "「As should be evident」は、「～であることは明白であるはずだ」という意味です。ここでは、自分が大人であることは、スポーツコートと花を見れば明白であるはずだ、と述べています。"
+    },
+    {
+      "id": 99,
+      "value": "smell the flowers",
+      "options": [
+        "花に水をやる",
+        "花を摘む",
+        "花を育てる",
+        "花を愛でる"
+      ],
+      "correctAnswer": "花を愛でる",
+      "explanation": "「smell the flowers」は、「花を愛でる」という意味ですが、「人生を楽しむ」「今この瞬間を大切にする」という比喩的な意味合いで使われることが多いです。ここでは、「Don’t Sweat the Small Stuff」という本に書かれていたアドバイスとして紹介されています。"
+    },
+    {
+      "id": 100,
+      "value": "crumb cake",
+      "options": [
+        "クランブルケーキ",
+        "ホールケーキ",
+        "ショートケーキ",
+        "チーズケーキ"
+      ],
+      "correctAnswer": "クランブルケーキ",
+      "explanation": "「crumb cake」は、クランブル（そぼろ状の生地）が乗ったケーキのことです。アメリカでは一般的なケーキで、朝食やブランチによく食べられます。"
+    }
+  ]
+}

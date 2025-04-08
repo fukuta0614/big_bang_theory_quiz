@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "acknowledge",
+      "options": [
+        "無視する",
+        "認識する",
+        "避ける",
+        "非難する"
+      ],
+      "correctAnswer": "認識する",
+      "explanation": "「acknowledge」は、事実や人の業績などを認める、認識するという意味です。感謝や返事の意味合いも含まれます。\n\n例：The company acknowledged his hard work with a bonus. (会社は彼の努力をボーナスで評価した。)"
+    },
+    {
+      "id": 2,
+      "value": "accomplishment",
+      "options": [
+        "失敗",
+        "達成",
+        "努力",
+        "計画"
+      ],
+      "correctAnswer": "達成",
+      "explanation": "「accomplishment」は、目標や課題を達成すること、またはその達成されたものを指します。個人的な成功や、プロジェクトの完了など、幅広い文脈で使用されます。\n\n例：Finishing the marathon was a great accomplishment for her. (マラソンを完走することは彼女にとって大きな達成だった。)"
+    },
+    {
+      "id": 3,
+      "value": "bummer",
+      "options": [
+        "素晴らしい人",
+        "楽しい出来事",
+        "がっかりさせる人",
+        "幸運な人"
+      ],
+      "correctAnswer": "がっかりさせる人",
+      "explanation": "「bummer」は、がっかりさせる人や状況、または不快な経験を指す口語的な表現です。軽い失望から深刻な不満まで、幅広い状況で使用されます。\n\n例：It's a bummer that the concert was canceled. (コンサートがキャンセルになったのは残念だ。)"
+    },
+    {
+      "id": 4,
+      "value": "disconcerting",
+      "options": [
+        "安心させる",
+        "混乱させる",
+        "励ます",
+        "明らかにする"
+      ],
+      "correctAnswer": "混乱させる",
+      "explanation": "「disconcerting」は、不安や混乱を引き起こす、落ち着かなくさせるという意味です。予期しない出来事や状況に対して使われることが多いです。\n\n例：The sudden change in plans was disconcerting. (計画の突然の変更は不安を誘った。)"
+    },
+    {
+      "id": 5,
+      "value": "prototype",
+      "options": [
+        "最終製品",
+        "試作品",
+        "標準",
+        "不要品"
+      ],
+      "correctAnswer": "試作品",
+      "explanation": "「prototype」は、新しい製品やシステムなどの初期モデルや試作品を指します。製品開発の初期段階で、設計や機能をテストするために作成されます。\n\n例：The company is testing a prototype of their new electric car. (その会社は新しい電気自動車の試作品をテストしている。)"
+    },
+    {
+      "id": 6,
+      "value": "toss aside",
+      "options": [
+        "大切にする",
+        "無視する",
+        "支援する",
+        "受け入れる"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「toss aside」は、人や物を不要なものとして扱う、無視するという意味です。特に、利用価値がなくなった後に見捨てるというニュアンスが含まれます。\n\n例：He felt tossed aside after years of loyal service. (彼は長年の忠実な勤務の後、見捨てられたと感じた。)"
+    },
+    {
+      "id": 7,
+      "value": "upsetting",
+      "options": [
+        "楽しい",
+        "心を乱す",
+        "落ち着いた",
+        "満足のいく"
+      ],
+      "correctAnswer": "心を乱す",
+      "explanation": "「upsetting」は、人を動揺させる、心を乱すという意味です。不快なニュースや出来事に対して使われることが多いです。\n\n例：It was very upsetting to hear about the accident. (その事故の知らせを聞いてとても動揺した。)"
+    },
+    {
+      "id": 8,
+      "value": "sarcasm",
+      "options": [
+        "誠実さ",
+        "皮肉",
+        "感謝",
+        "共感"
+      ],
+      "correctAnswer": "皮肉",
+      "explanation": "「sarcasm」は、相手を嘲る意図を含んだ皮肉や嫌味を指します。言葉とは反対の意味を込めて、相手を批判したり軽蔑したりするために使われます。\n\n例：His voice was full of sarcasm when he said, \"That's a great idea.\"(彼が「それは素晴らしいアイデアだ」と言った時、彼の声は皮肉に満ちていた。)"
+    },
+    {
+      "id": 9,
+      "value": "listings",
+      "options": [
+        "要求",
+        "リスト",
+        "拒否",
+        "秘密"
+      ],
+      "correctAnswer": "リスト",
+      "explanation": "「listings」は、通常、商品、サービス、または情報がリスト形式で提供されるものを指します。不動産、求人、イベントなど、さまざまな文脈で使用されます。\n\n例：The website provides apartment listings in the city. (そのウェブサイトは市内のアパートのリストを提供している。)"
+    },
+    {
+      "id": 10,
+      "value": "circle back",
+      "options": [
+        "先へ進む",
+        "後戻りする",
+        "無視する",
+        "繰り返す"
+      ],
+      "correctAnswer": "後戻りする",
+      "explanation": "「circle back」は、以前の話題や問題に戻る、または後で再検討するという意味です。会議や議論でよく使われる表現です。\n\n例：Let's circle back to this issue at the end of the meeting. (会議の終わりにこの問題に戻りましょう。)"
+    },
+    {
+      "id": 11,
+      "value": "take care of himself",
+      "options": [
+        "自分を甘やかす",
+        "自立する",
+        "依存する",
+        "孤独になる"
+      ],
+      "correctAnswer": "自立する",
+      "explanation": "「take care of himself」は、自分自身で生活を管理し、必要なことを行うことができるという意味です。経済的な自立だけでなく、精神的な自立も含まれます。\n\n例：He learned to take care of himself after moving out of his parents' house. (彼は実家を出た後、自立することを学んだ。)"
+    },
+    {
+      "id": 12,
+      "value": "phase",
+      "options": [
+        "段階",
+        "全体",
+        "結果",
+        "目的"
+      ],
+      "correctAnswer": "段階",
+      "explanation": "phaseとは、プロセスやプロジェクトにおける特定の段階や局面を指します。\n計画、実行、完了など、連続したステップの一部です。\n例文: The project is currently in its initial phase. (プロジェクトは現在、初期段階にあります。)"
+    },
+    {
+      "id": 13,
+      "value": "secure",
+      "options": [
+        "危険な",
+        "安全な",
+        "不安定な",
+        "公的な"
+      ],
+      "correctAnswer": "安全な",
+      "explanation": "secureとは、安全で保護されている状態を指します。\n物理的なセキュリティや情報のセキュリティなど、様々な文脈で使用されます。\n例文: The data is stored in a secure server. (データは安全なサーバーに保存されています。)"
+    },
+    {
+      "id": 14,
+      "value": "implement",
+      "options": [
+        "計画する",
+        "実行する",
+        "議論する",
+        "提案する"
+      ],
+      "correctAnswer": "実行する",
+      "explanation": "implementとは、計画や決定を実行に移すことを意味します。\nシステム、ポリシー、プロジェクトなどを実際に運用する際に使用されます。\n例文: The company will implement the new policy next month. (会社は来月、新しいポリシーを実行します。)"
+    },
+    {
+      "id": 15,
+      "value": "primary focus",
+      "options": [
+        "二次的な重点",
+        "主な重点",
+        "表面的な重点",
+        "仮の重点"
+      ],
+      "correctAnswer": "主な重点",
+      "explanation": "primary focusとは、最も重要で中心となる関心事や注意を向けるべき対象を指します。\n目標、活動、または計画において最も優先されるべき事項です。\n例文: The primary focus of the meeting is to discuss the budget. (会議の主な重点は予算について議論することです。)"
+    },
+    {
+      "id": 16,
+      "value": "classified",
+      "options": [
+        "公開された",
+        "機密の",
+        "単純な",
+        "一般的な"
+      ],
+      "correctAnswer": "機密の",
+      "explanation": "classifiedとは、政府や組織によって機密情報として分類され、アクセスが制限されている状態を指します。\nセキュリティ上の理由から、特定の人物のみが閲覧や利用を許可されます。\n例文: The documents are classified and cannot be released to the public. (その文書は機密扱いであり、一般公開できません。)"
+    },
+    {
+      "id": 17,
+      "value": "facility",
+      "options": [
+        "障害",
+        "施設",
+        "困難",
+        "偶然"
+      ],
+      "correctAnswer": "施設",
+      "explanation": "facilityとは、特定の目的のために設計または提供された場所、建物、または設備を指します。\n学校、病院、工場、研究施設など、様々な種類の施設があります。\n例文: The research facility is equipped with state-of-the-art equipment. (その研究施設は最新鋭の設備を備えています。)"
+    },
+    {
+      "id": 18,
+      "value": "access granted",
+      "options": [
+        "アクセス拒否",
+        "アクセス許可",
+        "アクセス保留",
+        "アクセス不明"
+      ],
+      "correctAnswer": "アクセス許可",
+      "explanation": "access grantedとは、システム、場所、または情報へのアクセスが許可された状態を指します。\n通常、セキュリティ認証や権限確認の後に与えられます。\n例文: Once the password was entered, access was granted to the system. (パスワードが入力されると、システムへのアクセスが許可されました。)"
+    },
+    {
+      "id": 19,
+      "value": "live long enough",
+      "options": [
+        "すぐに死ぬ",
+        "長生きする",
+        "病気になる",
+        "若くして死ぬ"
+      ],
+      "correctAnswer": "長生きする",
+      "explanation": "live long enoughとは、十分に長く生きることを意味します。\n特定の出来事や結果を経験するのに必要な時間を生きるというニュアンスが含まれます。\n例文: I hope to live long enough to see my grandchildren grow up. (孫たちが成長するのを見るまで長生きしたいです。)"
+    },
+    {
+      "id": 20,
+      "value": "toast",
+      "options": [
+        "悪口",
+        "乾杯",
+        "不満",
+        "批判"
+      ],
+      "correctAnswer": "乾杯",
+      "explanation": "toastとは、祝意や敬意を表するために、飲み物を掲げて行う儀式です。\n通常、特別な機会や集まりで行われます。\n例文: Let's make a toast to the happy couple. (幸せなカップルに乾杯しましょう。)"
+    },
+    {
+      "id": 21,
+      "value": "support",
+      "options": [
+        "反対",
+        "支援",
+        "無視",
+        "拒否"
+      ],
+      "correctAnswer": "支援",
+      "explanation": "supportとは、人や活動を助け、励ますことを意味します。\n精神的、経済的、または物質的な援助が含まれます。\n例文: Thank you for your support during this difficult time. (この困難な時期に支援してくれてありがとう。)"
+    },
+    {
+      "id": 22,
+      "value": "on your own",
+      "options": [
+        "協力して",
+        "独力で",
+        "他人任せで",
+        "集団で"
+      ],
+      "correctAnswer": "独力で",
+      "explanation": "on your ownとは、誰の助けも借りずに、自分自身で何かを行うことを意味します。\n独立性や自立性を強調する際に使用されます。\n例文: She completed the project on her own. (彼女は独力でプロジェクトを完了させました。)"
+    },
+    {
+      "id": 23,
+      "value": "take it from here",
+      "options": [
+        "ここで終わる",
+        "ここから引き継ぐ",
+        "最初からやり直す",
+        "放棄する"
+      ],
+      "correctAnswer": "ここから引き継ぐ",
+      "explanation": "take it from hereとは、ある時点からタスクや責任を引き継ぐことを意味します。\n以前の担当者から引き継ぎ、継続して作業を進める状況で使用されます。\n例文: I'll take it from here and finish the report. (ここからは私が引き継いでレポートを完成させます。)"
+    },
+    {
+      "id": 24,
+      "value": "save it",
+      "options": [
+        "使う",
+        "節約する",
+        "捨てる",
+        "共有する"
+      ],
+      "correctAnswer": "節約する",
+      "explanation": "save itとは、何かを将来のために取っておく、または無駄にしないようにすることを意味します。\nエネルギー、お金、資源など、様々なものを節約する際に使用されます。\n例文: Save it for a rainy day. (まさかの時のために取っておきなさい。)"
+    },
+    {
+      "id": 25,
+      "value": "roommate",
+      "options": [
+        "隣人",
+        "ルームメイト",
+        "家族",
+        "同僚"
+      ],
+      "correctAnswer": "ルームメイト",
+      "explanation": "roommateとは、同じ部屋や家を共有する人を指します。\n多くの場合、大学の寮やアパートで一緒に暮らす人を指します。\n例文: My roommate is from another country. (私のルームメイトは外国出身です。)"
+    },
+    {
+      "id": 26,
+      "value": "Once again, you got me.",
+      "options": [
+        "もう一度、捕まえた",
+        "また騙された",
+        "もう一回、手に入れた",
+        "また、やられた"
+      ],
+      "correctAnswer": "また、やられた",
+      "explanation": "このフレーズは、相手に負けを認めたり、相手の策略に引っかかってしまった時に使います。軽い調子で「やられた！」というニュアンスです。"
+    },
+    {
+      "id": 27,
+      "value": "have a good mind to",
+      "options": [
+        "～するつもりである",
+        "～する才能がある",
+        "～する良い考えがある",
+        "～する義務がある"
+      ],
+      "correctAnswer": "～するつもりである",
+      "explanation": "「have a good mind to」は、「～する気がある」「～しようかと考えている」という意味です。ただし、実際には行動に移さないことも多い、やや不満や怒りを込めた表現です。例：I have a good mind to quit this job. (この仕事を辞めてやろうかと思っている。)"
+    },
+    {
+      "id": 28,
+      "value": "clean out",
+      "options": [
+        "掃除する",
+        "空にする",
+        "きれいにする",
+        "片付ける"
+      ],
+      "correctAnswer": "空にする",
+      "explanation": "「clean out」は、「～を空にする」「～をすっかり片付ける」「～を一掃する」という意味です。物理的なものを空にする場合にも、比喩的に何かを完全に取り除く場合にも使えます。例：I need to clean out my closet. (クローゼットの中身を整理しないと。)"
+    },
+    {
+      "id": 29,
+      "value": "confiscated",
+      "options": [
+        "没収した",
+        "隠した",
+        "盗んだ",
+        "借りた"
+      ],
+      "correctAnswer": "没収した",
+      "explanation": "「confiscate」は、権限を持つ者が（法的に）物を没収することを意味します。政府機関や学校などが、法律や規則に基づいて行う場合に使われます。例：The police confiscated the illegal weapons. (警察は違法な武器を没収した。)"
+    },
+    {
+      "id": 30,
+      "value": "Uncle Sam",
+      "options": [
+        "アメリカ政府",
+        "親切な叔父",
+        "軍隊",
+        "大統領"
+      ],
+      "correctAnswer": "アメリカ政府",
+      "explanation": "「Uncle Sam」は、アメリカ合衆国政府やアメリカ国民を擬人化した表現です。特に、政府の政策や決定について言及する際に用いられます。 例：Uncle Sam wants you! (アンクル・サムは君を求めている！)"
+    },
+    {
+      "id": 31,
+      "value": "Turns out",
+      "options": [
+        "結局～になる",
+        "向きを変える",
+        "出てくる",
+        "明らかになる"
+      ],
+      "correctAnswer": "結局～になる",
+      "explanation": "「turn out」は、「結局～になる」「～であることが判明する」という意味です。予想外の結果や、後になって明らかになった事柄を述べる際に使われます。例：It turned out that he was the thief. (結局、彼が泥棒だったことがわかった。)"
+    },
+    {
+      "id": 32,
+      "value": "sexed up",
+      "options": [
+        "性的に興奮する",
+        "魅力的にする",
+        "化粧する",
+        "おしゃれをする"
+      ],
+      "correctAnswer": "性的に興奮する",
+      "explanation": "「sexed up」は、性的に興奮した状態、または性的な魅力を高めた状態を指す口語表現です。文脈によっては、誇張されたり、扇情的にされたりすることも意味します。例：The media sexed up the story to attract more viewers.(メディアはより多くの視聴者を引き付けるために話を誇張した。)"
+    },
+    {
+      "id": 33,
+      "value": "accomplishment",
+      "options": [
+        "達成",
+        "課題",
+        "旅行",
+        "冒険"
+      ],
+      "correctAnswer": "達成",
+      "explanation": "「accomplishment」は、「業績」「成果」「達成」という意味です。努力やスキルによって成し遂げられたことを指します。例：Graduating from college was a major accomplishment for her.(大学卒業は彼女にとって大きな業績だった。)"
+    },
+    {
+      "id": 34,
+      "value": "put on",
+      "options": [
+        "着る",
+        "つける",
+        "演奏する",
+        "だます"
+      ],
+      "correctAnswer": "つける",
+      "explanation": "ここでは音楽をかけるという意味で使用されています。「put on some music」で「音楽をかける」となります。"
+    },
+    {
+      "id": 35,
+      "value": "allotted",
+      "options": [
+        "割り当てられた",
+        "許可された",
+        "提案された",
+        "盗まれた"
+      ],
+      "correctAnswer": "割り当てられた",
+      "explanation": "「allotted」は、「割り当てられた」「配分された」という意味です。時間、資源、スペースなど、何かが特定の人や目的に割り当てられていることを示します。例：Each student was allotted 15 minutes for the presentation.(各学生にはプレゼンテーションに15分が割り当てられた。)"
+    },
+    {
+      "id": 36,
+      "value": "to no avail",
+      "options": [
+        "無駄に",
+        "利用するために",
+        "喜んで",
+        "急いで"
+      ],
+      "correctAnswer": "無駄に",
+      "explanation": "「to no avail」は、「無駄に」「効果なく」という意味です。努力や試みが成功しなかったことを表します。例：I tried to fix the car, but to no avail.(車を修理しようとしたが無駄だった。)"
+    },
+    {
+      "id": 37,
+      "value": "What's the occasion?",
+      "options": [
+        "どんな場合ですか？",
+        "何かの機会ですか？",
+        "何のお祝いですか？",
+        "どういう状況ですか？"
+      ],
+      "correctAnswer": "何のお祝いですか？",
+      "explanation": "「What's the occasion?」は、「何のお祝いですか？」「何か特別な理由があるのですか？」という意味です。普段と違う状況や行動に対して、その理由を尋ねる際に使われます。"
+    },
+    {
+      "id": 38,
+      "value": "get by",
+      "options": [
+        "通り過ぎる",
+        "何とかやっていく",
+        "手に入れる",
+        "逃げる"
+      ],
+      "correctAnswer": "何とかやっていく",
+      "explanation": "「get by」は、「なんとかやっていく」「どうにか暮らす」「間に合わせる」という意味です。十分ではない状況でも、なんとか生活を維持することを表します。例：I don't earn much, but I get by.(収入は少ないけど、なんとかやっていけてる。)"
+    },
+    {
+      "id": 39,
+      "value": "dependent on",
+      "options": [
+        "～に依存している",
+        "～に興味がある",
+        "～に反対している",
+        "～に満足している"
+      ],
+      "correctAnswer": "～に依存している",
+      "explanation": "「dependent on」は、「～に依存している」「～に頼っている」という意味です。生活、感情、経済など、何かが他のものに頼って成り立っている状態を表します。例：The country is heavily dependent on oil imports.(その国は石油輸入に大きく依存している。)"
+    },
+    {
+      "id": 40,
+      "value": "dive into",
+      "options": [
+        "飛び込む",
+        "急に始める",
+        "深く考える",
+        "水に潜る"
+      ],
+      "correctAnswer": "急に始める",
+      "explanation": "「dive into」は、「～に没頭する」「～に熱中する」「～に深く関わる」という意味です。新しい活動やプロジェクトに積極的に参加する様子を表します。例：I want to dive into learning a new language.(新しい言語の学習に没頭したい。)"
+    },
+    {
+      "id": 41,
+      "value": "loaf of bread",
+      "options": [
+        "パン",
+        "仕事",
+        "喜び",
+        "問題"
+      ],
+      "correctAnswer": "パン",
+      "explanation": "「loaf of bread」は、「パン」という意味ですが、ここでは生活費や日常的な必需品を象徴する表現として使われています。"
+    },
+    {
+      "id": 42,
+      "value": "Is there something that you’re not telling me?",
+      "options": [
+        "何か言っていないことはありますか？",
+        "何か私に隠していることはありますか？",
+        "何か問題がありますか？",
+        "何か秘密がありますか？"
+      ],
+      "correctAnswer": "何か私に隠していることはありますか？",
+      "explanation": "「Is there something that you’re not telling me?」は、「何か私に隠していることはありますか？」「何か言っていないことがあるのですか？」という意味です。相手が何かを隠していると感じたときに、それを問い詰める表現です。"
+    },
+    {
+      "id": 43,
+      "value": "fellowship",
+      "options": [
+        "奨学金",
+        "友情",
+        "仲間",
+        "研究員資格"
+      ],
+      "correctAnswer": "研究員資格",
+      "explanation": "「fellowship」は、大学や研究機関から提供される研究員資格や研究助成金を意味します。研究活動を支援するために与えられることが多いです。例：She received a fellowship to study abroad.(彼女は留学のための奨学金を受けた。)"
+    },
+    {
+      "id": 44,
+      "value": "Apparently",
+      "options": [
+        "どうやら",
+        "明らかに",
+        "表面上は",
+        "実際には"
+      ],
+      "correctAnswer": "どうやら",
+      "explanation": "「apparently」は、「どうやら～らしい」「～ということだ」という意味です。間接的な情報や伝聞に基づいて何かを述べる際に使われます。例：Apparently, it's going to rain tomorrow.(どうやら明日は雨らしい。)"
+    },
+    {
+      "id": 45,
+      "value": "regular",
+      "options": [
+        "規則正しい",
+        "普通",
+        "いつもの",
+        "日常的"
+      ],
+      "correctAnswer": "規則正しい",
+      "explanation": "ここでは、排便が規則正しいという意味で使われています。Sheldonはgriefでいつもより排便が規則正しくないと言っています。"
+    },
+    {
+      "id": 46,
+      "value": "to exceed",
+      "options": [
+        "超過する",
+        "成功する",
+        "同意する",
+        "理解する"
+      ],
+      "correctAnswer": "超過する",
+      "explanation": "「to exceed」は、「超える」「上回る」という意味です。制限、期待、基準などを超えることを表します。例：The cost exceeded our budget.(費用が予算を超えた。)"
+    },
+    {
+      "id": 47,
+      "value": "sweetie",
+      "options": [
+        "恋人",
+        "砂糖",
+        "愛しい人",
+        "親愛なる人"
+      ],
+      "correctAnswer": "愛しい人",
+      "explanation": "「sweetie」は、「愛しい人」「可愛い人」という意味で、親愛の情を込めて相手を呼ぶ際に使われる言葉です。親しい間柄や愛情表現として使われます。例：Don't worry, sweetie, everything will be alright.(心配しないで、愛しい人、すべてうまくいくよ。)"
+    },
+    {
+      "id": 48,
+      "value": "quantum cognition",
+      "options": [
+        "量子の認識",
+        "量子の認知",
+        "量子力学",
+        "量子コンピュータ"
+      ],
+      "correctAnswer": "量子の認知",
+      "explanation": "「quantum cognition」は、「量子の認知」という意味で、人間の認知プロセスを量子力学の原理で説明しようとする研究分野です。"
+    },
+    {
+      "id": 49,
+      "value": "the whole time",
+      "options": [
+        "いつも",
+        "ずっと",
+        "完全に",
+        "一部の期間"
+      ],
+      "correctAnswer": "ずっと",
+      "explanation": "「the whole time」は、「ずっと」「常に」という意味です。ある期間全体にわたって何かが継続していることを表します。例：I was nervous the whole time during the exam.(試験中はずっと緊張していた。)"
+    },
+    {
+      "id": 50,
+      "value": "go downhill",
+      "options": [
+        "悪化する",
+        "下り坂になる",
+        "改善する",
+        "成功する"
+      ],
+      "correctAnswer": "悪化する",
+      "explanation": "「go downhill」は、「悪化する」「衰える」という意味です。状態、品質、状況などが徐々に悪くなることを表します。例：After he lost his job, his life started to go downhill.(仕事を失ってから、彼の人生は悪化し始めた。)"
+    },
+    {
+      "id": 51,
+      "value": "guidance system",
+      "options": [
+        "指導体制",
+        "誘導装置",
+        "安全対策",
+        "評価システム"
+      ],
+      "correctAnswer": "誘導装置",
+      "explanation": "「guidance system」は、文字通りには「誘導装置」という意味ですが、ここでは比喩的に、人生の方向性や指針を失った状態を表しています。進むべき道を見失い、どうすれば良いか分からなくなっている状況を指します。"
+    },
+    {
+      "id": 52,
+      "value": "high fibre",
+      "options": [
+        "高タンパク質",
+        "高繊維質",
+        "高脂肪",
+        "高炭水化物"
+      ],
+      "correctAnswer": "高繊維質",
+      "explanation": "「high fibre」は、食物繊維が豊富であることを意味します。ここでは、エイミーが作った朝食に含まれる食物繊維が多いことを指しています。食物繊維は消化を促進し、便通を良くする効果があります。"
+    },
+    {
+      "id": 53,
+      "value": "plain oatmeal",
+      "options": [
+        "プレーンヨーグルト",
+        "プレーンオートミール",
+        "プレーンスムージー",
+        "プレーンサラダ"
+      ],
+      "correctAnswer": "プレーンオートミール",
+      "explanation": "「plain oatmeal」は、味付けをしていないシンプルなオートミールを指します。オートミールは、食物繊維が豊富で健康的な食品ですが、味がないため、好みが分かれることがあります。"
+    },
+    {
+      "id": 54,
+      "value": "vulnerable",
+      "options": [
+        "頑固な",
+        "傷つきやすい",
+        "独立した",
+        "社交的な"
+      ],
+      "correctAnswer": "傷つきやすい",
+      "explanation": "「vulnerable」は、精神的または感情的に傷つきやすい状態を指します。ここでは、エイミーが研究プロジェクトのオファーを受けたことで、シェルドンが不安定になっている状況を表しています。シェルドンは、変化や喪失に対して敏感で、特にエイミーが自分から離れることに不安を感じています。"
+    },
+    {
+      "id": 55,
+      "value": "roles were reversed",
+      "options": [
+        "役割が交代した",
+        "状況が改善された",
+        "問題が解決された",
+        "計画が実行された"
+      ],
+      "correctAnswer": "役割が交代した",
+      "explanation": "「roles were reversed」は、立場や役割が逆転した場合に使われる表現です。もしシェルドンが同様の機会を得た場合、エイミーを置いてすぐにニュージャージーに行くことを示唆しています。相手の行動を予測する際に使われます。"
+    },
+    {
+      "id": 56,
+      "value": "mammogram",
+      "options": [
+        "心電図",
+        "マンモグラム",
+        "脳波検査",
+        "血液検査"
+      ],
+      "correctAnswer": "マンモグラム",
+      "explanation": "「mammogram」は、乳がん検診のためのX線検査を指します。ハワードがバーナデットに付きまとった結果、彼女のプライベートな検診にまで同行しようとしたというエピソードで使われています。"
+    },
+    {
+      "id": 57,
+      "value": "neato",
+      "options": [
+        "最低",
+        "いいね",
+        "残念",
+        "ばかげてる"
+      ],
+      "correctAnswer": "いいね",
+      "explanation": "「neato」は、スラングで「いいね」や「素晴らしい」という意味です。ここでは、バーナデットがハワードとの間に子供をもうけたことに対するペニーの軽い驚きと感心を表現しています。少し古風な表現で、皮肉を込めて使われることもあります。"
+    },
+    {
+      "id": 58,
+      "value": "radon markers",
+      "options": [
+        "ラドン指標",
+        "炭素指標",
+        "窒素指標",
+        "酸素指標"
+      ],
+      "correctAnswer": "ラドン指標",
+      "explanation": "「radon markers」は、ラドンという放射性物質を利用した指標のことです。エイミーが参加するプロジェクトで、構造物のマッピングに使用される技術です。専門的な内容を示す単語として使われています。"
+    },
+    {
+      "id": 59,
+      "value": "a simple yes will do",
+      "options": [
+        "簡単な自己紹介",
+        "単純な肯定で十分",
+        "シンプルな解決策",
+        "簡潔な要約"
+      ],
+      "correctAnswer": "単純な肯定で十分",
+      "explanation": "「A simple yes will do」は、相手に長々と説明する必要はなく、肯定的な返事だけで十分であることを伝える際に使われる表現です。ここでは、エイミーが研究内容について詳細に語ろうとするのを遮り、参加する意思があるかどうかを確認するために使われています。"
+    },
+    {
+      "id": 60,
+      "value": "handle being long distance",
+      "options": [
+        "長距離運転",
+        "遠距離恋愛",
+        "長時間の会議",
+        "長期出張"
+      ],
+      "correctAnswer": "遠距離恋愛",
+      "explanation": "「handle being long distance」は、遠距離恋愛を乗り越える、対処するという意味です。ここでは、ペニーがエイミーとシェルドンの関係は遠距離でも大丈夫だと励ますために使っています。"
+    },
+    {
+      "id": 61,
+      "value": "wait up",
+      "options": [
+        "待って",
+        "頑張って",
+        "起きて",
+        "諦めて"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「wait up」は、人に追いつくために「待って」と言う時に使います。ここでは、ハワードがバーナデットに追いつこうとする場面で使われています。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 62,
+      "value": "save yourself",
+      "options": [
+        "落ち着いて",
+        "助けを求める",
+        "自分を大切に",
+        "逃げて"
+      ],
+      "correctAnswer": "逃げて",
+      "explanation": "「save yourself」は、危険な状況から脱出して自分自身を守るように促す表現です。ここでは、バーナデットがハワードから逃れるようにペニーに冗談めかして言っています。"
+    },
+    {
+      "id": 63,
+      "value": "dwelling on the negative",
+      "options": [
+        "否定的な感情に浸る",
+        "肯定的な側面を強調する",
+        "過去の栄光に浸る",
+        "未来の計画を立てる"
+      ],
+      "correctAnswer": "否定的な感情に浸る",
+      "explanation": "「dwelling on the negative」は、悪いことばかり考えて、くよくよすることを意味します。ここでは、レナードがシェルドンに対して、否定的なことばかり考えずに、前向きになるようにアドバイスしています。"
+    },
+    {
+      "id": 64,
+      "value": "supportive boyfriend",
+      "options": [
+        "頼りない彼氏",
+        "束縛する彼氏",
+        "理解のある彼氏",
+        "口うるさい彼氏"
+      ],
+      "correctAnswer": "理解のある彼氏",
+      "explanation": "「supportive boyfriend」は、相手を支え、応援する彼氏のことです。レナードはシェルドンに対して、エイミーを応援する良い彼氏になるように促しています。"
+    },
+    {
+      "id": 65,
+      "value": "trick her",
+      "options": [
+        "彼女を騙す",
+        "彼女を喜ばせる",
+        "彼女を驚かせる",
+        "彼女を感動させる"
+      ],
+      "correctAnswer": "彼女を騙す",
+      "explanation": "「trick her」は、相手を欺く、騙すという意味です。シェルドンはレナードの励ましを誤解し、エイミーを騙すことだと解釈してしまっています。本来は、良い意味で相手を「出し抜く」という意味もありますが、ここでは文字通りの意味で捉えられています。"
+    },
+    {
+      "id": 66,
+      "value": "sounds serious",
+      "options": [
+        "深刻な問題",
+        "楽しい計画",
+        "重要な会議",
+        "嬉しい知らせ"
+      ],
+      "correctAnswer": "深刻な問題",
+      "explanation": "「sounds serious」は、深刻な話があることを意味します。バーナデットが深刻な面持ちで「話がある」と言ったため、ハワードが身構えています。この表現は、相手に何か重要なことを伝えようとする際に使われます。"
+    },
+    {
+      "id": 67,
+      "value": "bad boy",
+      "options": [
+        "優等生",
+        "いたずらっ子",
+        "頑張り屋",
+        "お調子者"
+      ],
+      "correctAnswer": "いたずらっ子",
+      "explanation": "「bad boy」は、ここでは「悪い子」という意味で、自分が何か悪いことをしたのかと心配するハワードが使っています。親しみを込めて、または冗談交じりに使われることが多い表現です。"
+    },
+    {
+      "id": 68,
+      "value": "spanking",
+      "options": [
+        "お説教",
+        "食事",
+        "お仕置き",
+        "お祝い"
+      ],
+      "correctAnswer": "お仕置き",
+      "explanation": "「spanking」は、お尻を叩く体罰のことです。ハワードは、自分が悪い子だった場合、バーナデットにお仕置きされるのかと冗談めかして言っています。"
+    },
+    {
+      "id": 69,
+      "value": "between projects",
+      "options": [
+        "プロジェクトの間",
+        "仕事がない期間",
+        "休暇中",
+        "休憩中"
+      ],
+      "correctAnswer": "仕事がない期間",
+      "explanation": "「between projects」は、仕事やプロジェクトとプロジェクトの間の期間、つまり仕事がない状態を指します。ハワードは仕事がないと不安になる傾向があるため、バーナデットが指摘しています。"
+    },
+    {
+      "id": 70,
+      "value": "insecure",
+      "options": [
+        "安全な",
+        "独立した",
+        "不安な",
+        "自信のある"
+      ],
+      "correctAnswer": "不安な",
+      "explanation": "「insecure」は、自信がない、不安な状態を指します。ハワードは仕事がない期間に、自分が無価値であるように感じて不安になる傾向があります。"
+    },
+    {
+      "id": 71,
+      "value": "clingy",
+      "options": [
+        "冷たい",
+        "依存心が強い",
+        "自立している",
+        "社交的な"
+      ],
+      "correctAnswer": "依存心が強い",
+      "explanation": "「clingy」は、人にくっつきたがる、依存心が強いという意味です。ハワードは仕事がないとバーナデットにべったりになるため、彼女から「clingy」だと指摘されています。"
+    },
+    {
+      "id": 72,
+      "value": "get the blues",
+      "options": [
+        "風邪をひく",
+        "憂鬱になる",
+        "興奮する",
+        "満足する"
+      ],
+      "correctAnswer": "憂鬱になる",
+      "explanation": "「get the blues」は、憂鬱になる、気が滅入るという意味のイディオムです。ここでは、エイミーが遠くへ行ってしまったことで、シェルドンが悲しんでいる状況を表しています。"
+    },
+    {
+      "id": 73,
+      "value": "done left me",
+      "options": [
+        "私を助けた",
+        "私を捨てた",
+        "私を愛した",
+        "私を忘れた"
+      ],
+      "correctAnswer": "私を捨てた",
+      "explanation": "「done left me」は、「has/have left me」の口語的な表現で、「私を捨てて行ってしまった」という意味です。ブルースの歌詞などでよく使われる表現で、シェルドンが皮肉っぽく使っています。"
+    },
+    {
+      "id": 74,
+      "value": "sounding a little thin",
+      "options": [
+        "少し太ってきた",
+        "少し薄っぺらい",
+        "少し元気になった",
+        "少し聞こえづらい"
+      ],
+      "correctAnswer": "少し薄っぺらい",
+      "explanation": "「sounding a little thin」は、内容が薄っぺらくて説得力がないという意味です。シェルドンは、自分が失ったものをリストアップしていますが、友人のラージを失ったことについては、リストを埋めるためだけに付け加えたため、内容が薄っぺらくなっていることを自覚しています。"
+    },
+    {
+      "id": 75,
+      "value": "talk to you in the hall for a sec",
+      "options": [
+        "ホールで話す",
+        "すぐに終わる",
+        "内緒の話がある",
+        "廊下で少し話がある"
+      ],
+      "correctAnswer": "廊下で少し話がある",
+      "explanation": "「talk to you in the hall for a sec」は、「ちょっと廊下で話がある」という意味です。ここでは、レナードがシェルドンの前で話しにくいことを話すために、ラージを廊下に呼び出す際に使われています。「for a sec」は「少しの間」という意味です。"
+    },
+    {
+      "id": 76,
+      "value": "affectionate",
+      "options": [
+        "愛情深い",
+        "無関心な",
+        "怒りっぽい",
+        "悲しい"
+      ],
+      "correctAnswer": "愛情深い",
+      "explanation": "「affectionate」は、愛情や愛情を示す様子を表します。人に対して優しく、愛情深く接する態度を指します。家族、友人、恋人など、親しい間柄で使われることが多い言葉です。\n\n例：He is an affectionate father. (彼は愛情深い父親です。)"
+    },
+    {
+      "id": 77,
+      "value": "shut down",
+      "options": [
+        "開始する",
+        "閉鎖する",
+        "改善する",
+        "推進する"
+      ],
+      "correctAnswer": "閉鎖する",
+      "explanation": "「shut down」は、事業やプロジェクトなどを停止、閉鎖することを意味します。比喩的に、人や組織の活動が停止することも指します。\n\n例：The company shut down the factory due to financial problems. (会社は財政難のため工場を閉鎖した。)"
+    },
+    {
+      "id": 78,
+      "value": "take off",
+      "options": [
+        "昇進させる",
+        "降格させる",
+        "解雇する",
+        "配置換えする"
+      ],
+      "correctAnswer": "配置換えする",
+      "explanation": "「take off」は、ここではチームやプロジェクトから外される、担当を外されるという意味です。仕事や役割から離れる状況を指します。\n\n例：He was taken off the project due to his poor performance. (彼は成績不振のためプロジェクトから外された。)"
+    },
+    {
+      "id": 79,
+      "value": "rated R",
+      "options": [
+        "G指定",
+        "PG指定",
+        "R指定",
+        "PG-13指定"
+      ],
+      "correctAnswer": "R指定",
+      "explanation": "「rated R」は、映画のレイティングシステムで、17歳未満の観客は保護者の同伴が必要な映画を指します。性的な描写や暴力シーンなどが含まれる場合に指定されます。\n\n例：The movie was rated R due to its violent content. (その映画は暴力的な内容のためR指定を受けた。)"
+    },
+    {
+      "id": 80,
+      "value": "luggage",
+      "options": [
+        "家具",
+        "食料品",
+        "手荷物",
+        "宝石"
+      ],
+      "correctAnswer": "手荷物",
+      "explanation": "「luggage」は、旅行の際に持ち運ぶ荷物、スーツケース、カバンなどを指します。旅行用品全般を意味する言葉です。\n\n例：She packed her luggage for the trip. (彼女は旅行のために荷物をまとめた。)"
+    },
+    {
+      "id": 81,
+      "value": "craving",
+      "options": [
+        "嫌悪感",
+        "軽蔑",
+        "渇望",
+        "無関心"
+      ],
+      "correctAnswer": "渇望",
+      "explanation": "「craving」は、強い欲求、渇望、切望などを意味します。特に、食べ物やタバコ、薬物などに対する強い欲求を指すことが多いです。ここでは性的な欲求に対する比喩として使われています。\n\n例：He had a craving for chocolate. (彼はチョコレートを切望していた。)"
+    },
+    {
+      "id": 82,
+      "value": "frenzied",
+      "options": [
+        "穏やかな",
+        "冷静な",
+        "熱狂的な",
+        "退屈な"
+      ],
+      "correctAnswer": "熱狂的な",
+      "explanation": "「frenzied」は、熱狂的な、逆上した、狂乱したという意味です。感情や行動が制御を失い、激しく興奮している状態を指します。\n\n例：The crowd was frenzied after the concert. (コンサートの後、群衆は熱狂していた。)"
+    },
+    {
+      "id": 83,
+      "value": "naughty",
+      "options": [
+        "行儀の良い",
+        "いたずら好きな",
+        "正直な",
+        "優しい"
+      ],
+      "correctAnswer": "いたずら好きな",
+      "explanation": "「naughty」は、いたずら好きな、わんぱくな、あるいは性的な意味合いで「いけない」という意味を持つ言葉です。ここでは愛情を込めて、相手をからかうようなニュアンスで使われています。\n\n例：The naughty child played a prank on his teacher. (そのいたずら好きな子供は先生にいたずらをした。)"
+    },
+    {
+      "id": 84,
+      "value": "vixen",
+      "options": [
+        "天使",
+        "悪魔",
+        "魅力的な女性",
+        "普通の女性"
+      ],
+      "correctAnswer": "魅力的な女性",
+      "explanation": "「vixen」は、もともとは雌ギツネを意味する言葉ですが、人を指す場合は、魅力的でずる賢い女性、または気性の激しい女性を指します。ここでは、愛情を込めて相手をからかうようなニュアンスで使われています。\n\n例：She is a real vixen. (彼女は本当に魅力的な女性だ。)"
+    },
+    {
+      "id": 85,
+      "value": "stimulation",
+      "options": [
+        "退屈",
+        "刺激",
+        "安心",
+        "混乱"
+      ],
+      "correctAnswer": "刺激",
+      "explanation": "「stimulation」は、刺激、興奮、活気づけることなどを意味します。感覚的な刺激、精神的な刺激、性的な刺激など、様々な種類の刺激を指すことができます。\n\n例：The lecture provided a lot of intellectual stimulation. (その講義は多くの知的な刺激を与えてくれた。)"
+    },
+    {
+      "id": 86,
+      "value": "efficient",
+      "options": [
+        "非効率的な",
+        "効率的な",
+        "不器用な",
+        "無能な"
+      ],
+      "correctAnswer": "効率的な",
+      "explanation": "「efficient」は、効率的な、能率的なという意味です。無駄がなく、効果的に目的を達成できる状態を指します。\n\n例：The new system is much more efficient than the old one. (新しいシステムは古いものよりもずっと効率的だ。)"
+    },
+    {
+      "id": 87,
+      "value": "compete with",
+      "options": [
+        "協力する",
+        "競争する",
+        "無視する",
+        "協力しない"
+      ],
+      "correctAnswer": "競争する",
+      "explanation": "「compete with」は、～と競争する、張り合うという意味です。ビジネス、スポーツ、学業など、様々な分野で使われます。\n\n例：Our company cannot compete with larger corporations. (我々の会社はより大規模な企業と競争できない。)"
+    },
+    {
+      "id": 88,
+      "value": "agricultural",
+      "options": [
+        "工業の",
+        "農業の",
+        "商業の",
+        "科学の"
+      ],
+      "correctAnswer": "農業の",
+      "explanation": "「agricultural」は、農業の、農耕のという意味です。農業に関連する事柄を指します。\n\n例：The region is known for its agricultural products. (その地域は農業製品で知られている。)"
+    },
+    {
+      "id": 89,
+      "value": "sod",
+      "options": [
+        "泥",
+        "芝",
+        "砂",
+        "岩"
+      ],
+      "correctAnswer": "芝",
+      "explanation": "「sod」は、芝、芝土、切り芝という意味です。地面を覆う草とその下の土を一緒に切り取ったものを指します。\n\n例：They laid sod in the backyard to create a lawn. (彼らは裏庭に芝を敷いて芝生を作った。)"
+    },
+    {
+      "id": 90,
+      "value": "eccentric",
+      "options": [
+        "普通の",
+        "奇抜な",
+        "内向的な",
+        "社交的な"
+      ],
+      "correctAnswer": "奇抜な",
+      "explanation": "「eccentric」は、奇抜な、風変わりな、型破りなという意味です。普通とは異なる行動や考え方をする人を指します。\n\n例：He is an eccentric millionaire. (彼は奇抜な億万長者だ。)"
+    },
+    {
+      "id": 91,
+      "value": "cross that bridge when we come to it",
+      "options": [
+        "困難を避ける",
+        "困難に立ち向かう",
+        "先延ばしにする",
+        "最初から諦める"
+      ],
+      "correctAnswer": "先延ばしにする",
+      "explanation": "「cross that bridge when we come to it」は、その時が来たら考えよう、事を荒立てるなという意味のイディオムです。問題が実際に発生するまで心配したり対処したりする必要はないという考えを表します。\n\n例：We don't know if we'll have enough money for college, but we'll cross that bridge when we come to it. (大学に行くお金が足りるかどうか分からないけど、その時が来たら考えよう。)"
+    },
+    {
+      "id": 92,
+      "value": "minefield",
+      "options": [
+        "安全地帯",
+        "危険地帯",
+        "遊園地",
+        "動物園"
+      ],
+      "correctAnswer": "危険地帯",
+      "explanation": "「minefield」は、地雷原という意味ですが、比喩的には、危険な状況、困難な状況、注意が必要な状況などを指します。特に、発言や行動に気をつけないと、問題が発生する可能性のある状況を指します。\n\n例：The topic of politics is a minefield in social gatherings. (政治の話は社交的な集まりでは危険な話題だ。)"
+    },
+    {
+      "id": 93,
+      "value": "step away from",
+      "options": [
+        "近づく",
+        "避ける",
+        "飛び込む",
+        "解決する"
+      ],
+      "correctAnswer": "避ける",
+      "explanation": "「step away from」は、～から離れる、～を避けるという意味です。物理的に離れる場合も、比喩的に関係を断つ場合も使われます。\n\n例：It is important to step away from your desk and take a break. (デスクから離れて休憩を取ることは重要だ。)"
+    },
+    {
+      "id": 94,
+      "value": "antifungal",
+      "options": [
+        "抗菌性の",
+        "抗ウイルス性の",
+        "抗真菌性の",
+        "抗炎症性の"
+      ],
+      "correctAnswer": "抗真菌性の",
+      "explanation": "「antifungal」は、抗真菌性のという意味です。真菌（カビ）の成長を抑制する、または殺菌する性質を持つことを指します。\n\n例: The doctor prescribed an antifungal cream for the athlete's foot. (医師は水虫に抗真菌クリームを処方した。)"
+    },
+    {
+      "id": 95,
+      "value": "opportunity",
+      "options": [
+        "脅威",
+        "機会",
+        "義務",
+        "責任"
+      ],
+      "correctAnswer": "機会",
+      "explanation": "「opportunity」は、機会、好機という意味です。何かを成し遂げるための有利な状況や可能性を指します。\n\n例: This is a great opportunity for career advancement. (これはキャリアアップのための絶好の機会だ。)"
+    },
+    {
+      "id": 96,
+      "value": "interested",
+      "options": [
+        "退屈している",
+        "興味がある",
+        "悲しんでいる",
+        "怒っている"
+      ],
+      "correctAnswer": "興味がある",
+      "explanation": "「interested」は、興味があるという意味です。何かに対して関心や好奇心を持っている状態を指します。\n\n例: I am interested in learning more about history. (私は歴史についてもっと学ぶことに興味がある。)"
+    },
+    {
+      "id": 97,
+      "value": "warning",
+      "options": [
+        "招待",
+        "警告",
+        "提案",
+        "感謝"
+      ],
+      "correctAnswer": "警告",
+      "explanation": "「warning」は、警告、注意という意味です。危険や問題が起こる可能性があることを知らせることを指します。\n\n例: The sign gave a warning about the danger of the cliff. (その標識は崖の危険性について警告していた。)"
+    },
+    {
+      "id": 98,
+      "value": "privacy",
+      "options": [
+        "公共性",
+        "秘密",
+        "騒音",
+        "混乱"
+      ],
+      "correctAnswer": "秘密",
+      "explanation": "「privacy」は、プライバシー、個人的な自由、秘密という意味です。他人に干渉されずに自分の時間を過ごしたり、情報を公開しない権利を指します。\n\n例: Everyone deserves the right to privacy. (誰もがプライバシーの権利を持つべきだ。)"
+    },
+    {
+      "id": 99,
+      "value": "deserve",
+      "options": [
+        "受けるに値する",
+        "無視する",
+        "避ける",
+        "嫌う"
+      ],
+      "correctAnswer": "受けるに値する",
+      "explanation": "「deserve」は、～に値する、～を受ける資格があるという意味です。行動や性質によって、何か良いことや悪いことを受けるのが当然である場合に用います。\n\n例: He deserves the award for his hard work. (彼は努力の末に賞を受けるに値する。)"
+    },
+    {
+      "id": 100,
+      "value": "proud of",
+      "options": [
+        "恥じている",
+        "誇りに思っている",
+        "嫉妬している",
+        "軽蔑している"
+      ],
+      "correctAnswer": "誇りに思っている",
+      "explanation": "「proud of」は、～を誇りに思っているという意味です。人の業績や性質、または自分の成果などを高く評価し、喜んでいる気持ちを表します。\n\n例: I am very proud of my daughter's achievements. (私は娘の業績をとても誇りに思っている。)"
+    }
+  ]
+}

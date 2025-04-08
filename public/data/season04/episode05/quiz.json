@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "apt",
+      "options": [
+        "不適切な",
+        "退屈な",
+        "適切な",
+        "不明確な"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "「apt」は、状況や目的に対して適切である、ふさわしいという意味を持ちます。SheldonがLeonardの発言を「apt and amusing（適切で面白い）」と評価しているように、ある意見や行動が的を射ている、または理にかなっている場合に使われます。類似語としてはsuitableやappropriateがあります。"
+    },
+    {
+      "id": 2,
+      "value": "witticism",
+      "options": [
+        "知恵のなさ",
+        "皮肉",
+        "ユーモア",
+        "知的なジョーク"
+      ],
+      "correctAnswer": "知的なジョーク",
+      "explanation": "「witticism」は、機知に富んだ、ウィットに富んだ発言や表現を指します。単なるジョークではなく、知性や言葉遊びが含まれている点が特徴です。SheldonがLeonardの発言をAmy Farrah Fowlerに共有すると言っているのは、彼女がその知的な面白さを理解すると期待しているからです。"
+    },
+    {
+      "id": 3,
+      "value": "tolerate",
+      "options": [
+        "改善する",
+        "我慢する",
+        "楽しむ",
+        "無視する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「tolerate」は、不快なことや好ましくない状況を、嫌悪感や不満を抱きながらも許容または我慢することを意味します。SheldonがLeonardとの身体的な近さを辛うじて「tolerate（我慢する）」と言っているのは、彼が人との距離を置きたい性格であることを示しています。"
+    },
+    {
+      "id": 4,
+      "value": "proximity",
+      "options": [
+        "類似性",
+        "遠隔",
+        "近接",
+        "重要性"
+      ],
+      "correctAnswer": "近接",
+      "explanation": "「proximity」は、物理的な近さや距離が近い状態を指します。SheldonがAmy Farrah Fowlerとの「prolonged physical proximity（長期的な物理的近接）」について言及しているのは、彼女と長い時間を一緒に過ごすことに対する抵抗感を示唆しています。"
+    },
+    {
+      "id": 5,
+      "value": "iteration",
+      "options": [
+        "繰り返し",
+        "初版",
+        "中断",
+        "要約"
+      ],
+      "correctAnswer": "繰り返し",
+      "explanation": "「iteration」は、繰り返しや版、バージョンという意味で使用されます。ここでは、ハルクの映画の様々な「iteration（版、バージョン）」、つまり映画化作品を指しています。特に、異なるメディアや形式で繰り返される場合に用いられます。"
+    },
+    {
+      "id": 6,
+      "value": "romp",
+      "options": [
+        "悲劇",
+        "大失敗",
+        "陽気な騒ぎ",
+        "深刻な議論"
+      ],
+      "correctAnswer": "陽気な騒ぎ",
+      "explanation": "「romp」は、陽気で楽しい騒ぎ、または楽しい活動を指します。A Beautiful Mindが「feel-good romp（心が温まる陽気な騒ぎ）」と表現されているのは、映画が観客を楽しい気分にさせるという意味合いです。軽い気持ちで見れる映画や活動に使われます。"
+    },
+    {
+      "id": 7,
+      "value": "chuckle",
+      "options": [
+        "泣く",
+        "叫ぶ",
+        "むせる",
+        "くすくす笑う"
+      ],
+      "correctAnswer": "くすくす笑う",
+      "explanation": "「chuckle」は、静かに、くすくすと笑うことを意味します。ここでは、Sheldonが並行宇宙の考えについて「chuckle（くすくす笑う）」と言っているので、彼自身がその考えを面白いと思っていることを示しています。"
+    },
+    {
+      "id": 8,
+      "value": "pair-bond",
+      "options": [
+        "分裂する",
+        "協力する",
+        "競争する",
+        "結び付く"
+      ],
+      "correctAnswer": "結び付く",
+      "explanation": "「pair-bond」は、特に動物や人間が、長期的な関係を築くことを指します。ここでは、Leonardが女性との関係を築きたいという強い欲求を表現するために使われています。生物学的な、または社会的なつながりを示す言葉です。"
+    },
+    {
+      "id": 9,
+      "value": "collective",
+      "options": [
+        "個人的な",
+        "孤立した",
+        "集合的な",
+        "秘密の"
+      ],
+      "correctAnswer": "集合的な",
+      "explanation": "「collective」は、集団全体、または集団によって共有されるという意味です。ここでは、全ての女性がLeonardを拒否するという「collective decision（集合的な決定）」という形で、彼の恋愛がうまくいかない状況を誇張して表現しています。"
+    },
+    {
+      "id": 10,
+      "value": "resisted",
+      "options": [
+        "同意した",
+        "支持した",
+        "抵抗した",
+        "計画した"
+      ],
+      "correctAnswer": "抵抗した",
+      "explanation": "「resist」は、何かに対して抵抗する、反抗するという意味です。ここでは、Meemawが最初、social centerに行くのを嫌がったが、今は好きになったという文脈で使われています。何か新しいことを始めることへの抵抗感を示す場合に用いられます。"
+    },
+    {
+      "id": 11,
+      "value": "bow to",
+      "options": [
+        "無視する",
+        "反抗する",
+        "屈する",
+        "提案する"
+      ],
+      "correctAnswer": "屈する",
+      "explanation": "「bow to」は、圧力や要求に屈する、従うという意味です。Sheldonが「bow to social pressure（社会的圧力に屈する）」と言っているのは、皆に合わせて挨拶をすることにしたという意味です。自分の意志に反して、周囲の状況や意見に従う状況を表します。"
+    },
+    {
+      "id": 12,
+      "value": "rubbing our noses in",
+      "options": [
+        "秘密にする",
+        "隠蔽する",
+        "自慢する",
+        "同情する"
+      ],
+      "correctAnswer": "自慢する",
+      "explanation": "「rub someone's nose in it」は、人の失敗や欠点を繰り返し指摘して、不快な思いをさせる、または自慢するという意味です。ここでは、ハワードがガールフレンドがいることを鼻にかけている、つまり自慢しているとLeonardが感じている状況を表しています。相手を不快にさせる意図が含まれることが多いです。"
+    },
+    {
+      "id": 13,
+      "value": "pickup line",
+      "options": [
+        "最終手段",
+        "別れの言葉",
+        "ナンパの決まり文句",
+        "専門用語"
+      ],
+      "correctAnswer": "ナンパの決まり文句",
+      "explanation": "「pickup line」は、誰かをデートに誘うため、または興味を持ってもらうために使う、特にありきたりな、または工夫された言葉やフレーズを指します。Stuartがコミックストアのオーナーであることが「pickup line」になると言っているのは、コミックコンではそれが魅力的な要素になるという意味です。"
+    },
+    {
+      "id": 14,
+      "value": "horrible",
+      "options": [
+        "普通",
+        "素晴らしい",
+        "ひどい",
+        "面白い"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「horrible」は、非常に不快、または嫌な状態を指します。ここでは、Stuartのガールフレンドが「horrible（ひどい）」と言われているので、彼女の性格や行動に問題があることを示唆しています。非常にネガティブな感情を伴う形容詞です。"
+    },
+    {
+      "id": 15,
+      "value": "plus-size",
+      "options": [
+        "平均的なサイズ",
+        "非常に小さいサイズ",
+        "大きいサイズ",
+        "特別なサイズ"
+      ],
+      "correctAnswer": "大きいサイズ",
+      "explanation": "「plus-size」は、平均よりも大きいサイズ、特に衣服に関して使われる言葉です。ここでは、Stuartのガールフレンドが「plus-size Wonder Woman costume（大きいサイズのワンダーウーマンのコスチューム）」を着ていると説明されています。体型を表す婉曲表現として使われることがあります。"
+    },
+    {
+      "id": 16,
+      "value": "invisible plane",
+      "options": [
+        "最新の飛行機",
+        "目に見えない飛行機",
+        "故障した飛行機",
+        "過去の飛行機"
+      ],
+      "correctAnswer": "目に見えない飛行機",
+      "explanation": "「invisible plane」は、ワンダーウーマンが使用する、目に見えない飛行機のことです。ここでは、Stuartのガールフレンドが性的な誘いとしてこの言葉を使っているため、コミカルな状況を作り出しています。ポップカルチャーへの言及が含まれています。"
+    },
+    {
+      "id": 17,
+      "value": "What's going on with you two?",
+      "options": [
+        "お二人はどういう関係ですか？",
+        "何か問題でも？",
+        "どこに行くんですか？",
+        "何をしているんですか？"
+      ],
+      "correctAnswer": "お二人はどういう関係ですか？",
+      "explanation": "\"What's going on with you two?\"は、二人の関係について尋ねる表現です。恋愛関係や特別な関係があるのかどうかを知りたい時に使われます。カジュアルな会話でよく使われる言い回しです。"
+    },
+    {
+      "id": 18,
+      "value": "barely tolerate",
+      "options": [
+        "全く我慢できない",
+        "辛うじて我慢できる",
+        "喜んで受け入れる",
+        "完全に無視する"
+      ],
+      "correctAnswer": "辛うじて我慢できる",
+      "explanation": "\"barely tolerate\"は、ほとんど我慢できない、辛うじて許容できるという意味です。不快感や嫌悪感があるものの、なんとか耐えている状態を表します。Sheldonの人間関係に対する考え方がよく表れています。"
+    },
+    {
+      "id": 19,
+      "value": "green-eyed monster",
+      "options": [
+        "愛情",
+        "友情",
+        "嫉妬",
+        "喜び"
+      ],
+      "correctAnswer": "嫉妬",
+      "explanation": "\"green-eyed monster\"は、嫉妬心の象徴として使われるイディオムです。シェイクスピアの「オセロ」に由来し、嫉妬によって人が狂ってしまう様子を表します。Leonardの状況に対するSheldonのコメントです。"
+    },
+    {
+      "id": 20,
+      "value": "feel-good",
+      "options": [
+        "悲しい",
+        "感動的",
+        "心が温まる",
+        "退屈"
+      ],
+      "correctAnswer": "心が温まる",
+      "explanation": "\"feel-good\"は、見ていて気持ちが良くなる、心が温まるという意味です。映画や音楽など、人に幸福感を与える作品に対して使われます。A Beautiful Mindを形容する言葉として使われています。"
+    },
+    {
+      "id": 21,
+      "value": "shut up",
+      "options": [
+        "起立",
+        "静かにする",
+        "頑張って",
+        "あきらめる"
+      ],
+      "correctAnswer": "静かにする",
+      "explanation": "\"Shut up\"は、相手に黙ってほしい時に使う強い表現です。親しい間柄で使われることが多く、命令形として使われます。LeonardがSheldonに対して使うことで、不快感を露わにしています。"
+    },
+    {
+      "id": 22,
+      "value": "senior center",
+      "options": [
+        "託児所",
+        "高齢者福祉施設",
+        "図書館",
+        "動物園"
+      ],
+      "correctAnswer": "高齢者福祉施設",
+      "explanation": "\"Senior center\"は、高齢者が交流したり、趣味を楽しんだりするための施設です。SheldonがLeonardに勧めることで、皮肉を込めています。高齢者向けの様々なアクティビティが提供されます。"
+    },
+    {
+      "id": 23,
+      "value": "the one place",
+      "options": [
+        "どこでも",
+        "唯一の場所",
+        "いくつかの場所",
+        "秘密の場所"
+      ],
+      "correctAnswer": "唯一の場所",
+      "explanation": "\"The one place\"は、特定の条件が当てはまる唯一の場所や機会を指します。Stuartがコミックコンを指して使うことで、特別な状況であることを強調しています。普通ではない場所であることを示唆します。"
+    },
+    {
+      "id": 24,
+      "value": "break up with",
+      "options": [
+        "仲直りする",
+        "結婚する",
+        "付き合いを始める",
+        "別れる"
+      ],
+      "correctAnswer": "別れる",
+      "explanation": "\"Break up with\"は、恋人関係を解消するという意味です。Stuartに対してLeonardがアドバイスする際に使われています。人間関係における一般的な表現です。"
+    },
+    {
+      "id": 25,
+      "value": "assigned her her own ringtone",
+      "options": [
+        "彼女に電話番号を教えた",
+        "彼女にプレゼントをあげた",
+        "彼女に特別な呼び出し音を設定した",
+        "彼女に秘密のメッセージを送った"
+      ],
+      "correctAnswer": "彼女に特別な呼び出し音を設定した",
+      "explanation": "\"Assigned her her own ringtone\"は、特定の相手からの電話に対して、特別な呼び出し音を設定することを意味します。HowardがBernadetteに対して行っている行為は、彼女を特別に思っていることの表れです。親密さや愛情を示す行動です。"
+    },
+    {
+      "id": 26,
+      "value": "invoke",
+      "options": [
+        "取り消す",
+        "呼び出す、発動する",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "呼び出す、発動する",
+      "explanation": "「invoke」は、規則、権利、法律などを発動する、または神や霊などに助けを求めるという意味です。ここでは、友人としての権利を行使するという意味合いで使用されています。例：They invoked an old treaty that allowed them to station troops in the area.（彼らはその地域に軍隊を駐留させることを許可する古い条約を発動した。）"
+    },
+    {
+      "id": 27,
+      "value": "set me up with",
+      "options": [
+        "私を困らせる",
+        "私を～と仲介する、紹介する",
+        "私を無視する",
+        "私を罰する"
+      ],
+      "correctAnswer": "私を～と仲介する、紹介する",
+      "explanation": "「set someone up with someone」は、誰かと誰かをデートさせる、紹介するという意味のイディオムです。友人などを紹介して、恋愛関係に発展させようとする際に使われます。例：My friend set me up with her cousin. (友達が彼女のいとこと私を引き合わせてくれた。)"
+    },
+    {
+      "id": 28,
+      "value": "get laid",
+      "options": [
+        "横になる",
+        "解雇される",
+        "性交渉を持つ",
+        "食事をする"
+      ],
+      "correctAnswer": "性交渉を持つ",
+      "explanation": "「get laid」は、俗語で性交渉を持つという意味です。非常にカジュアルな表現なので、使う場所や相手を選ぶ必要があります。フォーマルな場では避けるべき表現です。"
+    },
+    {
+      "id": 29,
+      "value": "handful of",
+      "options": [
+        "少しの",
+        "たくさんの",
+        "一つまみの",
+        "無視して"
+      ],
+      "correctAnswer": "少しの",
+      "explanation": "「handful of」は、「ひと握りの～」という意味ですが、ここでは「少数の～」という意味合いで使われています。例：She brought a handful of cookies to the party.（彼女はパーティーに少しのクッキーを持ってきた。）"
+    },
+    {
+      "id": 30,
+      "value": "stretched face down",
+      "options": [
+        "うつ伏せで寝転がる",
+        "顔をしかめる",
+        "顔を覆う",
+        "顔を上げる"
+      ],
+      "correctAnswer": "うつ伏せで寝転がる",
+      "explanation": "「stretch face down」は、「うつ伏せで寝転がる」という意味です。肉体的、精神的に疲れてリラックスしている状態を表します。似た表現に「lie face down」があります。"
+    },
+    {
+      "id": 31,
+      "value": "well-being",
+      "options": [
+        "幸福",
+        "財産",
+        "健康、福祉",
+        "外見"
+      ],
+      "correctAnswer": "健康、福祉",
+      "explanation": "「well-being」は、健康、幸福、福祉といった意味を持つ名詞です。身体的、精神的、社会的な良好な状態を指します。例：The company is concerned about the well-being of its employees.（会社は従業員の健康に配慮している。）"
+    },
+    {
+      "id": 32,
+      "value": "as per",
+      "options": [
+        "～に従って",
+        "～の代わりに",
+        "～のために",
+        "～のそばに"
+      ],
+      "correctAnswer": "～に従って",
+      "explanation": "「as per」は、「～に従って」「～の指示通りに」という意味のフォーマルな表現です。ビジネスシーンなどでよく使われます。例：As per your request, I have attached the document.（ご要望に応じて、書類を添付いたしました。）"
+    },
+    {
+      "id": 33,
+      "value": "hoopla",
+      "options": [
+        "静けさ",
+        "大騒ぎ",
+        "秘密",
+        "喜び"
+      ],
+      "correctAnswer": "大騒ぎ",
+      "explanation": "「hoopla」は、騒ぎ、興奮、誇大広告といった意味を持つ名詞です。特に、大げさな宣伝や騒ぎ立てる様子を指します。例：There was a lot of hoopla surrounding the movie release.（映画の公開をめぐって多くの騒ぎがあった。）"
+    },
+    {
+      "id": 34,
+      "value": "pheromone-based stink of desperation",
+      "options": [
+        "希望の香り",
+        "絶望の臭い",
+        "幸福のオーラ",
+        "成功の兆し"
+      ],
+      "correctAnswer": "絶望の臭い",
+      "explanation": "「pheromone-based stink of desperation」は、フェロモンに基づいた絶望の臭いという意味です。ここでは、恋愛に必死になっている状態を比喩的に表現しています。「stink」は、不快な臭いを指す言葉ですが、ここでは比喩的に使われています。"
+    },
+    {
+      "id": 35,
+      "value": "pick up a woman",
+      "options": [
+        "女性を拾う",
+        "女性をデートに誘う",
+        "女性を助ける",
+        "女性を無視する"
+      ],
+      "correctAnswer": "女性をデートに誘う",
+      "explanation": "「pick up a woman/man」は、異性をナンパする、口説くという意味の口語表現です。カジュアルな状況で使われます。例：He tried to pick up a woman at the bar.（彼はバーで女性をナンパしようとした。）"
+    },
+    {
+      "id": 36,
+      "value": "hold one's liquor",
+      "options": [
+        "お酒を我慢する",
+        "お酒に強い",
+        "お酒を勧める",
+        "お酒を避ける"
+      ],
+      "correctAnswer": "お酒に強い",
+      "explanation": "「hold one's liquor」は、お酒に強い、酔っ払わないという意味のイディオムです。どれだけお酒を飲んでも平気であるかを表します。例：He can really hold his liquor.（彼はお酒が本当に強い。）"
+    },
+    {
+      "id": 37,
+      "value": "building on your premise",
+      "options": [
+        "あなたの前提を無視して",
+        "あなたの前提に基づいて",
+        "あなたの前提を批判して",
+        "あなたの前提を隠して"
+      ],
+      "correctAnswer": "あなたの前提に基づいて",
+      "explanation": "「building on your premise」は、「あなたの前提に基づいて」「あなたの提案を元に」という意味です。相手の意見を尊重し、それを発展させる際に使われます。例：Building on your premise, we can develop a more comprehensive plan.（あなたの前提に基づいて、より包括的な計画を立てることができます。）"
+    },
+    {
+      "id": 38,
+      "value": "frequent",
+      "options": [
+        "珍しい",
+        "頻繁に行く",
+        "避ける",
+        "忘れる"
+      ],
+      "correctAnswer": "頻繁に行く",
+      "explanation": "「frequent」は、動詞として「頻繁に行く」「よく通う」という意味です。名詞としては「常連」という意味になります。例：He frequents that coffee shop.（彼はその喫茶店によく行く。）"
+    },
+    {
+      "id": 39,
+      "value": "cornucopia",
+      "options": [
+        "不足",
+        "豊富",
+        "混乱",
+        "退屈"
+      ],
+      "correctAnswer": "豊富",
+      "explanation": "「cornucopia」は、豊穣の角という意味で、豊かさ、豊富さを象徴する言葉です。様々なものがたくさんある状態を表します。例：The farmers' market offered a cornucopia of fresh produce.（ファーマーズマーケットでは、新鮮な農産物が豊富に揃っていた。）"
+    },
+    {
+      "id": 40,
+      "value": "mellifluous",
+      "options": [
+        "騒々しい",
+        "甘美な、滑らかな",
+        "退屈な",
+        "不快な"
+      ],
+      "correctAnswer": "甘美な、滑らかな",
+      "explanation": "「mellifluous」は、音や言葉が甘美な、滑らかなという意味を持つ形容詞です。音楽や声など、心地よい響きを持つものに対して使われます。例：The singer's mellifluous voice captivated the audience.（その歌手の甘美な声は聴衆を魅了した。）"
+    },
+    {
+      "id": 41,
+      "value": "void my bladder",
+      "options": [
+        "膀胱を満たす",
+        "排尿する",
+        "水分補給する",
+        "運動する"
+      ],
+      "correctAnswer": "排尿する",
+      "explanation": "「void my bladder」は、排尿するという意味の婉曲的な表現です。直接的な表現を避けたい場合に用いられます。「void」は、空にする、無効にするという意味の動詞です。"
+    },
+    {
+      "id": 42,
+      "value": "get back to you on that",
+      "options": [
+        "それについて後で連絡する",
+        "それについて忘れる",
+        "それについて怒る",
+        "それについて同意する"
+      ],
+      "correctAnswer": "それについて後で連絡する",
+      "explanation": "「get back to you on that」は、それについて後で連絡するという意味のビジネスシーンでもよく使われる表現です。すぐに返答できない場合に、時間をおいて回答することを約束する際に使います。例：I'll get back to you on that by the end of the day. (今日中にそれについてご連絡します。)"
+    },
+    {
+      "id": 43,
+      "value": "take your relationship to the next level",
+      "options": [
+        "関係を解消する",
+        "関係を次の段階に進める",
+        "関係を秘密にする",
+        "関係を友達のままにする"
+      ],
+      "correctAnswer": "関係を次の段階に進める",
+      "explanation": "「take your relationship to the next level」は、関係を次の段階に進める、より親密な関係になるという意味のイディオムです。恋愛関係において、より真剣な関係になることを意味します。例：They decided to take their relationship to the next level and move in together. (彼らは関係を次の段階に進めることを決意し、一緒に住むことにした。)"
+    },
+    {
+      "id": 44,
+      "value": "fix it for me",
+      "options": [
+        "私のために修理する",
+        "私のために解決する",
+        "私のために隠す",
+        "私のために忘れる"
+      ],
+      "correctAnswer": "私のために解決する",
+      "explanation": "「fix it for me」は、私のためにそれを解決してくれ、何とかしてくれという意味です。問題や困難な状況を誰かに解決してほしいときに使います。例：Can you fix it for me? I don't know what to do. (何とかしてくれない？どうすればいいか分からない。)"
+    },
+    {
+      "id": 45,
+      "value": "take her off my hands",
+      "options": [
+        "彼女を助ける",
+        "彼女を引き取る",
+        "彼女を無視する",
+        "彼女を忘れる"
+      ],
+      "correctAnswer": "彼女を引き取る",
+      "explanation": "「take someone off my hands」は、誰かの世話を引き受ける、引き取るという意味のイディオムです。負担に感じている人や物を引き取ってもらう際に使います。例：I was glad to take the puppy off their hands. (彼らの手から子犬を引き取ることができて嬉しかった。)"
+    },
+    {
+      "id": 46,
+      "value": "give you my blessing",
+      "options": [
+        "あなたを呪う",
+        "あなたを祝福する",
+        "あなたを無視する",
+        "あなたを忘れる"
+      ],
+      "correctAnswer": "あなたを祝福する",
+      "explanation": "「give you my blessing」は、あなたを祝福する、許可するという意味のイディオムです。特に、結婚や新しい事業など、重要な決断を承認する際に使われます。例：My parents gave me their blessing to marry him. (両親は彼との結婚を祝福してくれた。)"
+    },
+    {
+      "id": 47,
+      "value": "insane",
+      "options": [
+        "正気",
+        "狂気じみた",
+        "冷静",
+        "安全"
+      ],
+      "correctAnswer": "狂気じみた",
+      "explanation": "「insane」は、正気でない、狂気じみたという意味の形容詞です。常識から外れている、ばかげているといったニュアンスで使われます。例：That's an insane idea! (それは狂った考えだ！)"
+    },
+    {
+      "id": 48,
+      "value": "tedious",
+      "options": [
+        "面白い",
+        "退屈な",
+        "簡単な",
+        "難しい"
+      ],
+      "correctAnswer": "退屈な",
+      "explanation": "「tedious」は、退屈な、うんざりするようなという意味の形容詞です。長く、単調で、興味を引かないものを指します。例：The work was tedious and repetitive. (その仕事は退屈で繰り返しの作業だった。)"
+    },
+    {
+      "id": 49,
+      "value": "good luck",
+      "options": [
+        "幸運を祈る",
+        "ご愁傷様",
+        "おめでとう",
+        "さようなら"
+      ],
+      "correctAnswer": "幸運を祈る",
+      "explanation": "「good luck」は、幸運を祈る、頑張ってという意味の一般的な表現です。相手の成功を願う際に使います。皮肉として使われることもあります。"
+    },
+    {
+      "id": 50,
+      "value": "What am I supposed to do?",
+      "options": [
+        "私は何をするべきですか？",
+        "私は何をしたのですか？",
+        "私は何もしません",
+        "私は何を知っていますか？"
+      ],
+      "correctAnswer": "私は何をするべきですか？",
+      "explanation": "「What am I supposed to do?」は、「私は何をするべきですか？」「どうすればいいのですか？」という意味です。困惑や迷いを表す際に使われます。指示やアドバイスを求めているニュアンスが含まれます。"
+    },
+    {
+      "id": 51,
+      "value": "inclined plane wrapped helically around an axis",
+      "options": [
+        "らせん状の階段",
+        "傾斜した道",
+        "らせん状の軸に取り付けられた斜面",
+        "複雑な幾何学模様"
+      ],
+      "correctAnswer": "らせん状の軸に取り付けられた斜面",
+      "explanation": "これは物理学的なジョークで、ネジ (screw) を遠回しに表現しています。軸を中心にらせん状に巻かれた斜面は、まさにネジの構造を指します。"
+    },
+    {
+      "id": 52,
+      "value": "screwed",
+      "options": [
+        "成功した",
+        "ねじ込まれた",
+        "困った状況",
+        "修理された"
+      ],
+      "correctAnswer": "困った状況",
+      "explanation": "この文脈では、「screwed」は「困った状況にある」「ピンチである」という意味のスラングとして使われています。比喩的に、不利な状況や困難な状況を表します。"
+    },
+    {
+      "id": 53,
+      "value": "tedious",
+      "options": [
+        "面白い",
+        "退屈な",
+        "エキサイティングな",
+        "優しい"
+      ],
+      "correctAnswer": "退屈な",
+      "explanation": "「tedious」は、退屈でうんざりするような、長くて単調なという意味です。人に対しても、物事に対しても使えます。類義語としては、boring, monotonousなどがあります。"
+    },
+    {
+      "id": 54,
+      "value": "bowel cleanse",
+      "options": [
+        "腸の洗浄",
+        "心の浄化",
+        "部屋の掃除",
+        "新しい食事"
+      ],
+      "correctAnswer": "腸の洗浄",
+      "explanation": "「bowel cleanse」は、大腸内視鏡検査などの医療処置の前に腸をきれいにするための処置を指します。日本では浣腸や下剤で済ませることが多いですが、海外では専用のキットや医療機関での処置が一般的です。"
+    },
+    {
+      "id": 55,
+      "value": "colonoscopy",
+      "options": [
+        "心臓手術",
+        "大腸内視鏡検査",
+        "脳の手術",
+        "美容整形"
+      ],
+      "correctAnswer": "大腸内視鏡検査",
+      "explanation": "「colonoscopy」は大腸内視鏡検査のことで、大腸の内部を観察するために行われる医療処置です。大腸がんのスクリーニングや、大腸の炎症、ポリープの発見などに用いられます。"
+    },
+    {
+      "id": 56,
+      "value": "upside-down volcano",
+      "options": [
+        "逆さまの火山",
+        "噴火寸前の状態",
+        "穏やかな状態",
+        "静かな湖"
+      ],
+      "correctAnswer": "噴火寸前の状態",
+      "explanation": "この表現は、腸の洗浄によって体内の液体が噴き出す様子を火山に例えた比喩です。不安定で、爆発寸前の状態を表しています。ここではユーモラスに表現されています。"
+    },
+    {
+      "id": 57,
+      "value": "threw on",
+      "options": [
+        "投げつけた",
+        "急いで着た",
+        "丁寧に置いた",
+        "燃やした"
+      ],
+      "correctAnswer": "急いで着た",
+      "explanation": "「throw on」は、服などを急いで着る、さっと羽織るという意味の句動詞です。特に、時間がないときや、服装に気を使わないときに使われます。"
+    },
+    {
+      "id": 58,
+      "value": "Genius Bar",
+      "options": [
+        "天才が集まるバー",
+        "アップルストアの修理カウンター",
+        "秘密の研究所",
+        "特別なカフェ"
+      ],
+      "correctAnswer": "アップルストアの修理カウンター",
+      "explanation": "「Genius Bar」は、Apple Storeにある技術サポートを提供する場所の名前です。顧客はここで製品の修理や技術的なアドバイスを受けることができます。Geniusは「天才」という意味で、技術に精通したスタッフが対応します。"
+    },
+    {
+      "id": 59,
+      "value": "boot up in Safe Mode",
+      "options": [
+        "安全な場所に避難する",
+        "特別な起動方法",
+        "高速で起動する",
+        "通常の方法で起動する"
+      ],
+      "correctAnswer": "特別な起動方法",
+      "explanation": "「Safe Mode」は、コンピューターを必要最低限の機能だけで起動するモードのことです。通常起動時に問題が発生する場合に、問題の原因を特定するために使用されます。セーフモードで起動することで、不要なソフトウェアやドライバが読み込まれず、問題の切り分けが容易になります。"
+    },
+    {
+      "id": 60,
+      "value": "long story short",
+      "options": [
+        "物語が長い",
+        "要するに",
+        "短い物語",
+        "物語の始まり"
+      ],
+      "correctAnswer": "要するに",
+      "explanation": "「Long story short」は、「手短に言うと」「要するに」という意味の表現です。話が長くなるのを避けるために、結論を先に伝える際に使われます。似た表現に \"To make a long story short\" があります。"
+    },
+    {
+      "id": 61,
+      "value": "see right through that",
+      "options": [
+        "それを通して見る",
+        "それを見抜く",
+        "それを無視する",
+        "それを信じる"
+      ],
+      "correctAnswer": "それを見抜く",
+      "explanation": "「see through」は、（人の嘘や策略などを）見抜く、見破るという意味の句動詞です。「see right through」とすることで、完全に見抜いているというニュアンスが強調されます。"
+    },
+    {
+      "id": 62,
+      "value": "invoke the girlfriend pact",
+      "options": [
+        "恋人協定を発動する",
+        "友情を誓う",
+        "秘密の計画を実行する",
+        "契約を破棄する"
+      ],
+      "correctAnswer": "恋人協定を発動する",
+      "explanation": "「invoke」は、（法律、権利、条項などを）発動する、行使するという意味です。「girlfriend pact」は、友人同士で「もし恋人がいなかったら、お互いに紹介し合う」といった約束事を指します。ここでは、LeonardがHowardに女性を紹介してほしいと頼む状況で使われています。"
+    },
+    {
+      "id": 63,
+      "value": "Holy Moses",
+      "options": [
+        "聖なるモーゼ",
+        "驚きの表現",
+        "古代の儀式",
+        "神への祈り"
+      ],
+      "correctAnswer": "驚きの表現",
+      "explanation": "「Holy Moses」は、驚きや当惑を表す感嘆詞です。「Oh my God!」と同様の意味合いで使われます。宗教的な意味合いは薄く、軽い驚きやユーモラスな状況で用いられることが多いです。"
+    },
+    {
+      "id": 64,
+      "value": "tucus",
+      "options": [
+        "お尻",
+        "足",
+        "頭",
+        "手"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "\"Tuchus\" (または \"Tukus\") は、イディッシュ語で「お尻」を意味する言葉です。特にユダヤ系の人がよく使うスラングで、ここではユーモラスな表現として使われています。"
+    },
+    {
+      "id": 65,
+      "value": "Invasion of the Body Snatchers",
+      "options": [
+        "ボディスナッチャー",
+        "宇宙戦争",
+        "未知との遭遇",
+        "スターウォーズ"
+      ],
+      "correctAnswer": "ボディスナッチャー",
+      "explanation": "「Invasion of the Body Snatchers」は、1956年に公開されたSF映画のタイトルです。オリジナル作品とそのリメイク版があり、いずれも、地球外生命体が人間にそっくりの姿で侵略してくるというストーリーです。"
+    },
+    {
+      "id": 66,
+      "value": "digital footprint",
+      "options": [
+        "デジタル足跡",
+        "オンライン上の活動記録",
+        "コンピューターウイルス",
+        "秘密の暗号"
+      ],
+      "correctAnswer": "オンライン上の活動記録",
+      "explanation": "「digital footprint」は、インターネット上での活動によって残る記録のことです。ウェブサイトの閲覧履歴、SNSへの投稿、オンラインショッピングの履歴などが含まれます。デジタルフットプリントは、個人のプライバシーやセキュリティに影響を与える可能性があります。"
+    },
+    {
+      "id": 67,
+      "value": "go off the grid",
+      "options": [
+        "電気を消す",
+        "社会から孤立する",
+        "インターネットから遮断される",
+        "新しい生活を始める"
+      ],
+      "correctAnswer": "インターネットから遮断される",
+      "explanation": "「go off the grid」は、社会的なインフラ（電気、水道、通信など）から自らを切り離し、自給自足の生活を送ることを意味します。ここでは、インターネットや携帯電話などのデジタル環境から離れることを指しています。"
+    },
+    {
+      "id": 68,
+      "value": "Unabomber",
+      "options": [
+        "爆弾処理班",
+        "連続爆弾魔",
+        "秘密の暗号",
+        "テロリスト"
+      ],
+      "correctAnswer": "連続爆弾魔",
+      "explanation": "「Unabomber」は、1978年から1995年にかけてアメリカで連続爆弾事件を起こしたセオドア・カジンスキーの通称です。彼は、文明社会やテクノロジーに対する批判的なメッセージを込めて爆弾を送りつけました。"
+    },
+    {
+      "id": 69,
+      "value": "Kudos",
+      "options": [
+        "非難",
+        "賞賛",
+        "忠告",
+        "侮辱"
+      ],
+      "correctAnswer": "賞賛",
+      "explanation": "「Kudos」は、賞賛、称賛、名誉という意味です。元々はギリシャ語で「名声」を意味する言葉で、英語では相手の功績や努力を褒め称える際に使われます。フォーマルな場面でもカジュアルな場面でも使用できます。"
+    },
+    {
+      "id": 70,
+      "value": "predicament",
+      "options": [
+        "素晴らしい状況",
+        "困難な状況",
+        "楽しい出来事",
+        "簡単な仕事"
+      ],
+      "correctAnswer": "困難な状況",
+      "explanation": "「predicament」は、困難な状況、苦境、窮地という意味です。解決が難しい問題や、抜け出すのが困難な状況を表します。類義語としては、dilemma, plight, quandaryなどがあります。"
+    },
+    {
+      "id": 71,
+      "value": "Got your back, Jack",
+      "options": [
+        "背中がかゆい",
+        "私が守るよ",
+        "後ろに気をつけろ",
+        "助けはいらない"
+      ],
+      "correctAnswer": "私が守るよ",
+      "explanation": "「Got your back」は、「私が守るよ」「私が味方だよ」「私が支援するよ」という意味のスラング表現です。相手を励ましたり、安心させたりする際に使われます。「Jack」は、ここでは親しみを込めた呼びかけです。"
+    },
+    {
+      "id": 72,
+      "value": "Bitches be crazy",
+      "options": [
+        "犬は賢い",
+        "女性はクレイジーだ",
+        "人生は素晴らしい",
+        "世界は広い"
+      ],
+      "correctAnswer": "女性はクレイジーだ",
+      "explanation": "「Bitches be crazy」は、女性の行動をステレオタイプ的に表現するスラングです。非常に失礼な表現であり、使用は避けるべきです。ここでは、配達員がSheldonの状況に同情して、皮肉を込めて言った言葉です。"
+    },
+    {
+      "id": 73,
+      "value": "way to go",
+      "options": [
+        "道案内",
+        "頑張って",
+        "よくやった",
+        "進むべき道"
+      ],
+      "correctAnswer": "よくやった",
+      "explanation": "「Way to go」は、「よくやった」「その調子だ」という意味の賞賛の言葉です。相手の成功や良い行いを褒めるときに使われます。皮肉として使われることもあります。"
+    },
+    {
+      "id": 74,
+      "value": "pinky swear",
+      "options": [
+        "秘密の誓い",
+        "指切りの約束",
+        "嘘をつくこと",
+        "友情の証"
+      ],
+      "correctAnswer": "指切りの約束",
+      "explanation": "「pinky swear」は、指切りげんまんのことです。約束を破ると罰を受けるという誓いを立てる際に、お互いの小指を絡ませる習慣を指します。子供同士の約束でよく使われますが、大人も使うことがあります。"
+    },
+    {
+      "id": 75,
+      "value": "worked up quite a sweat",
+      "options": [
+        "汗を拭いた",
+        "汗だくになった",
+        "運動しすぎた",
+        "涼しい顔をしていた"
+      ],
+      "correctAnswer": "汗だくになった",
+      "explanation": "「work up a sweat」は、「汗をかく」「一生懸命働く」「興奮する」という意味のイディオムです。ここでは、「spin class」で激しい運動をして汗をかいたことを表現しています。"
+    },
+    {
+      "id": 76,
+      "value": "rip a guy’s nuts off",
+      "options": [
+        "相手を笑わせる",
+        "相手を怒らせる",
+        "相手を打ち負かす、ひどい目にあわせる",
+        "相手を無視する"
+      ],
+      "correctAnswer": "相手を打ち負かす、ひどい目にあわせる",
+      "explanation": "「rip someone's nuts off」は、文字通りには「誰かの睾丸を引きちぎる」という意味ですが、口語的には「誰かを厳しく叱る、非難する、または打ち負かす」という意味合いで使われます。非常に攻撃的で下品な表現なので、使用する場面には注意が必要です。"
+    },
+    {
+      "id": 77,
+      "value": "Isn’t she a pip?",
+      "options": [
+        "彼女は素晴らしい人でしょう？",
+        "彼女は退屈な人でしょう？",
+        "彼女はいたずら好きでしょう？",
+        "彼女は疲れているでしょう？"
+      ],
+      "correctAnswer": "彼女は素晴らしい人でしょう？",
+      "explanation": "「pip」は、人を指して「素晴らしい人」「魅力的な人」「面白い人」といった意味合いで使われる古風な表現です。ここではBernadetteがJoyを紹介する際に、彼女のユニークな個性を褒める意味で使用しています。軽い驚きや喜びを込めて使われることが多いです。"
+    },
+    {
+      "id": 78,
+      "value": "fiddle-dee-dee",
+      "options": [
+        "深刻な問題",
+        "楽しいお祝い",
+        "取るに足らないこと、くだらないこと",
+        "重要な秘密"
+      ],
+      "correctAnswer": "取るに足らないこと、くだらないこと",
+      "explanation": "「fiddle-dee-dee」は、取るに足らないことやくだらないことを表す軽い表現です。特に深刻な状況を避けたい時や、何かを軽くあしらいたい時に使われます。子供っぽい響きがあり、おどけたニュアンスが含まれることもあります。"
+    },
+    {
+      "id": 79,
+      "value": "wicked whiz",
+      "options": [
+        "短い休憩",
+        "いたずらな悪ふざけ",
+        "急速な進歩",
+        "強烈な小便"
+      ],
+      "correctAnswer": "強烈な小便",
+      "explanation": "「whiz」は小便のスラングです。「wicked」はここでは「強烈な」や「すごい」という意味合いで使われており、合わせて「wicked whiz」で「強烈な小便」となります。少しユーモラスで下品な表現です。"
+    },
+    {
+      "id": 80,
+      "value": "Fair warning",
+      "options": [
+        "公正な取引",
+        "当然の結果",
+        "事前の警告",
+        "美しい景色"
+      ],
+      "correctAnswer": "事前の警告",
+      "explanation": "「Fair warning」は、文字通りには「公平な警告」という意味ですが、一般的には「注意しておきます」「忠告しておきます」といった意味合いで使われます。これから起こりうる事態について、事前に知らせる際に用いられます。"
+    },
+    {
+      "id": 81,
+      "value": "Rats!",
+      "options": [
+        "やった！",
+        "素晴らしい！",
+        "しまった！",
+        "元気を出せ！"
+      ],
+      "correctAnswer": "しまった！",
+      "explanation": "「Rats!」は、軽い失敗や不運に対する不満を表す感嘆詞です。「しまった！」「くそっ！」といった意味合いで使われます。より強い言葉を避けたい場合に用いられる、比較的穏やかな表現です。"
+    },
+    {
+      "id": 82,
+      "value": "screwed",
+      "options": [
+        "成功した",
+        "混乱した、困った",
+        "満たされた",
+        "改善された"
+      ],
+      "correctAnswer": "混乱した、困った",
+      "explanation": "「screwed」は、困った状況や不利な立場に置かれている状態を表すスラングです。「やばい」「参った」「詰んだ」といった意味合いで使われます。ここではSheldonがAmyの母親に会うことを避けたい状況を表しています。"
+    },
+    {
+      "id": 83,
+      "value": "perpetrating a ruse",
+      "options": [
+        "真実を明らかにする",
+        "計画を実行する",
+        "策略を実行する",
+        "夢を追求する"
+      ],
+      "correctAnswer": "策略を実行する",
+      "explanation": "「perpetrate」は、（犯罪や不正行為などを）行う、実行するという意味の動詞です。「ruse」は策略、計略という意味の名詞です。したがって、「perpetrating a ruse」は策略を実行するという意味になります。"
+    },
+    {
+      "id": 84,
+      "value": "pragmatic",
+      "options": [
+        "非現実的な",
+        "理想主義的な",
+        "現実的な、実用的な",
+        "感情的な"
+      ],
+      "correctAnswer": "現実的な、実用的な",
+      "explanation": "「pragmatic」は、現実的で実用的な考え方や行動を指す形容詞です。理論や感情よりも、実際の結果や効果を重視する態度を表します。ビジネスや政治など、合理的な判断が求められる場面でよく使われます。"
+    },
+    {
+      "id": 85,
+      "value": "suffocating me",
+      "options": [
+        "自由を与える",
+        "刺激する",
+        "束縛する、息苦しくさせる",
+        "無視する"
+      ],
+      "correctAnswer": "束縛する、息苦しくさせる",
+      "explanation": "「suffocate」は、文字通りには「窒息させる」という意味ですが、比喩的には「自由を奪う」「束縛する」「息苦しくさせる」という意味で使われます。ここではAmyがSheldonの行動を重荷に感じていることを表現しています。"
+    },
+    {
+      "id": 86,
+      "value": "grow on you",
+      "options": [
+        "あなたを悩ませる",
+        "あなたを成長させる",
+        "あなたの邪魔をする",
+        "だんだん好きになる"
+      ],
+      "correctAnswer": "だんだん好きになる",
+      "explanation": "「grow on someone」は、最初はあまり好きでなかったものが、時間が経つにつれてだんだん好きになる、または魅力的に感じられるようになるという意味のイディオムです。人、場所、物など、様々な対象に対して使われます。"
+    },
+    {
+      "id": 87,
+      "value": "pre-op transsexual",
+      "options": [
+        "手術前の詐欺師",
+        "手術後の詐欺師",
+        "手術前のトランスジェンダー",
+        "手術後のトランスジェンダー"
+      ],
+      "correctAnswer": "手術前のトランスジェンダー",
+      "explanation": "「pre-op」は「pre-operative（手術前の）」の略で、ここでは性別適合手術を受ける前のトランスジェンダーの人を指します。「transsexual」は、現在では「transgender」という言葉がより一般的に使われます。"
+    },
+    {
+      "id": 88,
+      "value": "crack my top ten",
+      "options": [
+        "トップ10に入る",
+        "トップ10から外れる",
+        "上位10位以内に入るほどではない",
+        "上位10位以内に入るほど素晴らしい"
+      ],
+      "correctAnswer": "上位10位以内に入るほどではない",
+      "explanation": "「crack the top ten」は、ここでは「上位10位以内に入る」という意味合いで使われています。しかし、「didn't even crack my top ten」と否定形で使われているため、「上位10位以内に入るほどではない」という意味になります。つまり、その経験は最悪な出来事のトップ10には入らない、という意味になります。"
+    },
+    {
+      "id": 89,
+      "value": "open bar",
+      "options": [
+        "閉店中のバー",
+        "料金制のバー",
+        "飲み放題のバー",
+        "会員制のバー"
+      ],
+      "correctAnswer": "飲み放題のバー",
+      "explanation": "「open bar」は、結婚式やパーティーなどで、飲み物が無料で提供されるバーのことを指します。飲み放題の状態を意味し、参加者は料金を気にせずに好きな飲み物を楽しむことができます。"
+    },
+    {
+      "id": 90,
+      "value": "giving it away",
+      "options": [
+        "秘密を守る",
+        "チャンスを与える",
+        "無料で提供する、簡単に手に入れる",
+        "隠し事をする"
+      ],
+      "correctAnswer": "無料で提供する、簡単に手に入れる",
+      "explanation": "「giving it away」は、この文脈では性的な意味合いを含み、「（体を）簡単に与える」「誰とでも寝る」といった意味になります。下品な表現なので、使用する場面には注意が必要です。"
+    },
+    {
+      "id": 91,
+      "value": "assure you",
+      "options": [
+        "疑う",
+        "警告する",
+        "保証する、断言する",
+        "落胆させる"
+      ],
+      "correctAnswer": "保証する、断言する",
+      "explanation": "「assure」は、人に安心感を与えるために、何かを確信を持って伝えるという意味の動詞です。「I assure you」という形で、「間違いありません」「ご安心ください」といった意味合いで使われます。"
+    },
+    {
+      "id": 92,
+      "value": "in heat",
+      "options": [
+        "冷静な",
+        "興奮状態の、発情期の",
+        "疲労困憊の",
+        "落胆した"
+      ],
+      "correctAnswer": "興奮状態の、発情期の",
+      "explanation": "「in heat」は、動物が発情期にある状態を指す言葉ですが、比喩的に人が性的に興奮している状態を表すこともあります。ここではSheldonがAmyとの関係を誇張するために、この表現を使用しています。"
+    },
+    {
+      "id": 93,
+      "value": "stirring in my loins",
+      "options": [
+        "腰に痛みがある",
+        "性欲が湧いてくる",
+        "運動を始める",
+        "不安を感じる"
+      ],
+      "correctAnswer": "性欲が湧いてくる",
+      "explanation": "「loins」は腰、特に生殖器周辺を指す古風な言葉です。「stirring in my loins」は、性的な欲望や興奮が湧き上がってくる様子を表す婉曲的な表現です。ロマンチックな文脈よりも、より本能的な欲望を強調する際に用いられます。"
+    },
+    {
+      "id": 94,
+      "value": "engage in coitus",
+      "options": [
+        "議論に参加する",
+        "食事を共にする",
+        "性交を行う",
+        "運動をする"
+      ],
+      "correctAnswer": "性交を行う",
+      "explanation": "「coitus」は、性交を意味するフォーマルな言葉です。医学的な文脈や、直接的な表現を避けたい場合に使われます。「engage in coitus」は「性交を行う」という意味になります。"
+    },
+    {
+      "id": 95,
+      "value": "Bazinga",
+      "options": [
+        "挨拶",
+        "感謝",
+        "冗談、からかい",
+        "別れ"
+      ],
+      "correctAnswer": "冗談、からかい",
+      "explanation": "「Bazinga」は、ドラマ「ビッグバンセオリー」の登場人物であるシェルドン・クーパーが、ジョークを言った後に使う決め台詞です。「冗談だよ」「引っかかった？」といった意味合いで使われます。"
+    },
+    {
+      "id": 96,
+      "value": "self-defense",
+      "options": [
+        "自己中心的",
+        "自己嫌悪",
+        "自己防衛",
+        "自己満足"
+      ],
+      "correctAnswer": "自己防衛",
+      "explanation": "「self-defense」は、自分自身を守るための行為や技術を意味します。暴力から身を守るための格闘技や、法的な権利の行使などが含まれます。"
+    },
+    {
+      "id": 97,
+      "value": "celestial bodies",
+      "options": [
+        "天国の住人",
+        "政治団体",
+        "天体",
+        "軍隊"
+      ],
+      "correctAnswer": "天体",
+      "explanation": "「celestial bodies」は、宇宙空間に存在する星、惑星、衛星、彗星などの天体を指します。天文学や宇宙科学の分野でよく使われる言葉です。"
+    },
+    {
+      "id": 98,
+      "value": "on my own",
+      "options": [
+        "秘密裏に",
+        "自力で、一人で",
+        "他人の助けを借りて",
+        "偶然に"
+      ],
+      "correctAnswer": "自力で、一人で",
+      "explanation": "「on my own」は、誰の助けも借りずに、自分自身で何かをするという意味です。独立心や自立心を強調する際に使われます。例：I learned to play the guitar on my own. (私は独学でギターを習得した。)"
+    },
+    {
+      "id": 99,
+      "value": "look forward to",
+      "options": [
+        "過去を振り返る",
+        "未来を恐れる",
+        "現在に集中する",
+        "楽しみにする"
+      ],
+      "correctAnswer": "楽しみにする",
+      "explanation": "「look forward to」は、将来起こることを期待して楽しみに待つという意味です。後ろには名詞または動名詞が続きます。例：I look forward to seeing you again. (またお会いできるのを楽しみにしています。)"
+    },
+    {
+      "id": 100,
+      "value": "sign off",
+      "options": [
+        "署名する",
+        "サインを求める",
+        "放送を終了する、会話を終える",
+        "契約を解除する"
+      ],
+      "correctAnswer": "放送を終了する、会話を終える",
+      "explanation": "「sign off」は、テレビやラジオ番組が放送を終了する、または手紙やメールなどの文章を締めくくるという意味です。会話を終える際にも使われます。例：I have to sign off now, I have a meeting. (もう終わりにしないといけない、会議があるんだ。)"
+    }
+  ]
+}

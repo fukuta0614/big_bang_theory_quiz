@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "bitch and whine",
+      "options": [
+        "文句を言う",
+        "手伝う",
+        "喜ぶ",
+        "踊る"
+      ],
+      "correctAnswer": "文句を言う",
+      "explanation": "「bitch and whine」は、不満や不平をぐちぐちと述べるという意味です。深刻な不満というよりは、どちらかというとくだらないことに対して文句を言っているニュアンスが含まれます。日常会話でよく使われます。"
+    },
+    {
+      "id": 2,
+      "value": "get it over with",
+      "options": [
+        "終わらせる",
+        "始める",
+        "楽しむ",
+        "避ける"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「get it over with」は、嫌なことや面倒なことを早く終わらせたい時に使う表現です。先延ばしにせずに、さっさと済ませてしまおうというニュアンスがあります。例文：I have to go to the dentist, but I just want to get it over with."
+    },
+    {
+      "id": 3,
+      "value": "frankly",
+      "options": [
+        "率直に言って",
+        "簡潔に言って",
+        "詳細に言って",
+        "大雑把に言って"
+      ],
+      "correctAnswer": "率直に言って",
+      "explanation": "「frankly」は、率直に、遠慮なく、という意味の副詞です。自分の意見や感情をはっきりと伝えたい時に使います。ただし、率直すぎると相手を傷つける可能性もあるので、注意が必要です。例文：Frankly, I don't think that's a good idea."
+    },
+    {
+      "id": 4,
+      "value": "pursue a career",
+      "options": [
+        "キャリアを追求する",
+        "キャリアを放棄する",
+        "キャリアを隠す",
+        "キャリアを偽る"
+      ],
+      "correctAnswer": "キャリアを追求する",
+      "explanation": "「pursue a career」は、キャリアを追求する、職業を追い求めるという意味です。自分の興味や才能を生かして、仕事で成功したいという意欲を示す場合に使われます。例文：She decided to pursue a career in medicine."
+    },
+    {
+      "id": 5,
+      "value": "convincing",
+      "options": [
+        "説得力のある",
+        "疑わしい",
+        "退屈な",
+        "滑稽な"
+      ],
+      "correctAnswer": "説得力のある",
+      "explanation": "「convincing」は、説得力のある、納得させるという意味の形容詞です。相手を信じさせたり、行動を促したりする力があることを表します。例文：He made a convincing argument."
+    },
+    {
+      "id": 6,
+      "value": "a waste of time",
+      "options": [
+        "時間の無駄",
+        "時間の有効活用",
+        "時間の節約",
+        "時間厳守"
+      ],
+      "correctAnswer": "時間の無駄",
+      "explanation": "「a waste of time」は、時間の無駄、という意味のイディオムです。何かをするのに時間を使う価値がない、という意味を表します。例文：It's a waste of time trying to argue with him."
+    },
+    {
+      "id": 7,
+      "value": "take care of themselves",
+      "options": [
+        "自分の面倒を見る",
+        "他人を頼る",
+        "心配する",
+        "無視する"
+      ],
+      "correctAnswer": "自分の面倒を見る",
+      "explanation": "「take care of themselves」は、自分の面倒を見る、自立するという意味です。他人に頼らず、自分自身で生活を維持したり、問題を解決したりすることを指します。例文：They are old enough to take care of themselves."
+    },
+    {
+      "id": 8,
+      "value": "gender-blind",
+      "options": [
+        "性別を考慮しない",
+        "性別を重視する",
+        "性別を隠す",
+        "性別を変える"
+      ],
+      "correctAnswer": "性別を考慮しない",
+      "explanation": "「gender-blind」は、性別を考慮しない、性別に関係なく平等に扱うという意味です。社会的な制度や慣習において、性別による差別をなくすことを目指す場合に用いられます。例文：The company has a gender-blind hiring policy."
+    },
+    {
+      "id": 9,
+      "value": "side by side",
+      "options": [
+        "並んで",
+        "別々に",
+        "背中合わせに",
+        "向かい合って"
+      ],
+      "correctAnswer": "並んで",
+      "explanation": "「side by side」は、並んで、協力して、という意味です。物理的に隣り合っているだけでなく、協力関係にあることも示します。例文：They worked side by side to complete the project."
+    },
+    {
+      "id": 10,
+      "value": "aside",
+      "options": [
+        "さておき",
+        "加えて",
+        "それにもかかわらず",
+        "代わりに"
+      ],
+      "correctAnswer": "さておき",
+      "explanation": "「aside」は、さておき、という意味の副詞です。ある話題から別の話題に移る際に、一時的に話を中断したり、脇に置いたりする時に使います。例文：His personal problems aside, he's a good worker."
+    },
+    {
+      "id": 11,
+      "value": "banal",
+      "options": [
+        "退屈な",
+        "刺激的な",
+        "複雑な",
+        "重要な"
+      ],
+      "correctAnswer": "退屈な",
+      "explanation": "「banal」は、退屈な、ありふれた、という意味の形容詞です。目新しさや面白みがなく、平凡であることを表します。例文：The movie was filled with banal dialogue."
+    },
+    {
+      "id": 12,
+      "value": "counter bias",
+      "options": [
+        "偏見に対抗する",
+        "偏見を助長する",
+        "偏見を無視する",
+        "偏見を認める"
+      ],
+      "correctAnswer": "偏見に対抗する",
+      "explanation": "「counter bias」は、偏見に対抗する、偏見を打ち消すという意味です。特定のグループに対する先入観や偏った見方を是正しようとする場合に用いられます。例文：The program is designed to counter bias in the workplace."
+    },
+    {
+      "id": 13,
+      "value": "peer-review process",
+      "options": [
+        "査読プロセス",
+        "自己評価プロセス",
+        "市場調査プロセス",
+        "顧客レビュープロセス"
+      ],
+      "correctAnswer": "査読プロセス",
+      "explanation": "「peer-review process」は、査読プロセス、専門家による評価という意味です。学術論文などが発表される前に、同じ分野の専門家によって内容が審査されるプロセスを指します。例文：The paper was rejected during the peer-review process."
+    },
+    {
+      "id": 14,
+      "value": "gender-neutral",
+      "options": [
+        "性別中立的な",
+        "性別特有の",
+        "性別不明な",
+        "性別混合の"
+      ],
+      "correctAnswer": "性別中立的な",
+      "explanation": "「gender-neutral」は、性別中立的な、性別に依存しないという意味です。男性にも女性にも当てはまるような、性差を意識しない表現やものを指します。例文：The school has adopted a gender-neutral dress code."
+    },
+    {
+      "id": 15,
+      "value": "pre-judged",
+      "options": [
+        "先入観を持たれる",
+        "正当に評価される",
+        "過大評価される",
+        "無視される"
+      ],
+      "correctAnswer": "先入観を持たれる",
+      "explanation": "「pre-judged」は、先入観を持たれる、偏見を持たれて判断されるという意味です。十分な情報がないまま、先入観に基づいて判断されることを表します。例文：She felt pre-judged because of her appearance."
+    },
+    {
+      "id": 16,
+      "value": "fire up",
+      "options": [
+        "起動する",
+        "消火する",
+        "解雇する",
+        "興奮させる"
+      ],
+      "correctAnswer": "起動する",
+      "explanation": "「fire up」は、起動する、という意味の句動詞です。機械やエンジンなどを始動させる場合に使います。比喩的に、感情や活動を活発化させるという意味でも使われます。例文：Let's fire up the grill and have a barbecue."
+    },
+    {
+      "id": 17,
+      "value": "slacker",
+      "options": [
+        "怠け者",
+        "働き者",
+        "賢い人",
+        "リーダー"
+      ],
+      "correctAnswer": "怠け者",
+      "explanation": "「slacker」は、怠け者、無気力な人という意味です。仕事や勉強を真面目にやらず、だらだらしている人を指します。例文：He's such a slacker, he never does any work."
+    },
+    {
+      "id": 18,
+      "value": "mammary glands",
+      "options": [
+        "乳腺",
+        "汗腺",
+        "唾液腺",
+        "涙腺"
+      ],
+      "correctAnswer": "乳腺",
+      "explanation": "「mammary glands」は、乳腺という意味です。哺乳類のメスにある、乳を分泌する器官を指します。例文：Mammary glands are essential for nourishing newborn mammals."
+    },
+    {
+      "id": 19,
+      "value": "glass ceilings",
+      "options": [
+        "見えない障壁",
+        "透明な天井",
+        "強固な壁",
+        "開放的な空間"
+      ],
+      "correctAnswer": "見えない障壁",
+      "explanation": "「glass ceiling」は、見えない障壁、特に女性やマイノリティの昇進を阻む見えない障壁を指します。能力があっても、組織内の偏見や差別によって上位の地位に就けない状況を表します。例文：She broke through the glass ceiling to become CEO."
+    },
+    {
+      "id": 20,
+      "value": "outreach program",
+      "options": [
+        "地域支援プログラム",
+        "企業研修プログラム",
+        "顧客獲得プログラム",
+        "ボランティアプログラム"
+      ],
+      "correctAnswer": "地域支援プログラム",
+      "explanation": "「outreach program」は、地域支援プログラム、アウトリーチプログラムという意味です。特定のグループやコミュニティに対して、情報やサービスを提供したり、支援活動を行ったりするプログラムを指します。例文：The university runs an outreach program to encourage students from disadvantaged backgrounds to apply."
+    },
+    {
+      "id": 21,
+      "value": "trial run",
+      "options": [
+        "試運転",
+        "本番",
+        "中断",
+        "中止"
+      ],
+      "correctAnswer": "試運転",
+      "explanation": "「trial run」は、試運転、試験的な実施という意味です。新しい計画やシステムなどを本格的に導入する前に、テストとして実行してみることを指します。例文：We're going to do a trial run of the new software before we roll it out to everyone."
+    },
+    {
+      "id": 22,
+      "value": "to set up",
+      "options": [
+        "準備する",
+        "解体する",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "準備する",
+      "explanation": "「set up」は、準備する、設定する、手配する、などの意味を持つ句動詞です。具体的な状況によって意味が異なります。例文：Can you help me set up the equipment for the presentation?"
+    },
+    {
+      "id": 23,
+      "value": "at least",
+      "options": [
+        "少なくとも",
+        "せいぜい",
+        "多くとも",
+        "絶対に"
+      ],
+      "correctAnswer": "少なくとも",
+      "explanation": "「at least」は、少なくとも、最低でもという意味です。ある数量や程度が、それ以上であることを示唆する場合に使います。例文：It will cost at least $100."
+    },
+    {
+      "id": 24,
+      "value": "wields",
+      "options": [
+        "振るう",
+        "隠す",
+        "盗む",
+        "壊す"
+      ],
+      "correctAnswer": "振るう",
+      "explanation": "「wield」は、（武器や道具などを）振るう、使う、操るという意味の動詞です。力や権力を行使するという意味合いも持ちます。例文：She wields a lot of influence in the company."
+    },
+    {
+      "id": 25,
+      "value": "Not to mention",
+      "options": [
+        "言うまでもなく",
+        "あえて言うなら",
+        "逆に言うと",
+        "要するに"
+      ],
+      "correctAnswer": "言うまでもなく",
+      "explanation": "「not to mention」は、言うまでもなく、～は言うまでもなく、という意味で、既知の事柄や当然のことを付け加える際に使われます。例文：It's expensive, not to mention difficult to find."
+    },
+    {
+      "id": 26,
+      "value": "spark the interest of",
+      "options": [
+        "興味を失わせる",
+        "興味をそそる",
+        "無視する",
+        "邪魔をする"
+      ],
+      "correctAnswer": "興味をそそる",
+      "explanation": "「spark the interest of」は、～の興味を刺激する、～の関心を引くという意味です。ここでは、科学について話す際に、どのようにして女子学生の興味を引くかをSheldonが考えています。"
+    },
+    {
+      "id": 27,
+      "value": "crash girls' night",
+      "options": [
+        "女子会を主催する",
+        "女子会に飛び入り参加する",
+        "女子会を邪魔する",
+        "女子会から追い出される"
+      ],
+      "correctAnswer": "女子会に飛び入り参加する",
+      "explanation": "「crash」は、招待されていないパーティーなどに押し入るという意味です。「crash girls' night」は、女子会に飛び入り参加するという意味になります。"
+    },
+    {
+      "id": 28,
+      "value": "pick your brains",
+      "options": [
+        "意見を聞く",
+        "脳を食べる",
+        "混乱させる",
+        "無視する"
+      ],
+      "correctAnswer": "意見を聞く",
+      "explanation": "「pick someone's brain」は、人に意見や情報を求める、知恵を借りるという意味です。ここでは、RajがPennyやBernadette、Amyにデートのアイデアを求めています。"
+    },
+    {
+      "id": 29,
+      "value": "steady in the face of danger",
+      "options": [
+        "危険を無視する",
+        "危険に直面しても冷静",
+        "危険から逃げる",
+        "危険を作り出す"
+      ],
+      "correctAnswer": "危険に直面しても冷静",
+      "explanation": "「steady in the face of danger」は、危険に直面しても冷静で落ち着いているという意味です。Amyは、進化生物学的に女性が危険に冷静な男性に惹かれると述べています。"
+    },
+    {
+      "id": 30,
+      "value": "seedy bar",
+      "options": [
+        "高級なバー",
+        "怪しげなバー",
+        "スポーツバー",
+        "空いているバー"
+      ],
+      "correctAnswer": "怪しげなバー",
+      "explanation": "「seedy」は、薄汚い、みすぼらしい、あるいは道徳的に堕落した場所を指す形容詞です。「seedy bar」は、そのような雰囲気のバーを意味します。"
+    },
+    {
+      "id": 31,
+      "value": "wrong side of the tracks",
+      "options": [
+        "安全な場所",
+        "危険な場所",
+        "鉄道の近く",
+        "裕福な地域"
+      ],
+      "correctAnswer": "危険な場所",
+      "explanation": "「the wrong side of the tracks」は、貧困層が住む地域、治安の悪い地域を指すイディオムです。"
+    },
+    {
+      "id": 32,
+      "value": "lunatic asylum",
+      "options": [
+        "遊園地",
+        "精神病院",
+        "動物園",
+        "美術館"
+      ],
+      "correctAnswer": "精神病院",
+      "explanation": "「lunatic asylum」は、精神病院、精神障害者の収容施設を指す古い言葉です。現在では差別的なニュアンスを含むため、使用は避けるべきです。"
+    },
+    {
+      "id": 33,
+      "value": "Skid Row",
+      "options": [
+        "高級住宅街",
+        "貧民街",
+        "オフィス街",
+        "観光地"
+      ],
+      "correctAnswer": "貧民街",
+      "explanation": "「Skid Row」は、アメリカの都市部にある、ホームレスや貧困層が多く住む地域を指します。"
+    },
+    {
+      "id": 34,
+      "value": "social anxiety issues",
+      "options": [
+        "社交的な問題",
+        "社会不安の問題",
+        "経済的な問題",
+        "健康上の問題"
+      ],
+      "correctAnswer": "社会不安の問題",
+      "explanation": "「social anxiety issues」は、社会不安障害に関連する問題を指します。人前で恥をかくことや、他人から否定的に評価されることへの強い恐怖を伴います。"
+    },
+    {
+      "id": 35,
+      "value": "holding onto you",
+      "options": [
+        "あなたを解放する",
+        "あなたにしがみつく",
+        "あなたを無視する",
+        "あなたを攻撃する"
+      ],
+      "correctAnswer": "あなたにしがみつく",
+      "explanation": "「hold onto」は、しっかりと掴む、しがみつくという意味です。ここでは、Space Mountainに乗った際に、LucyがRajにしがみつくことを期待しています。"
+    },
+    {
+      "id": 36,
+      "value": "blow off work",
+      "options": [
+        "仕事に集中する",
+        "仕事を休む",
+        "仕事を探す",
+        "仕事を辞める"
+      ],
+      "correctAnswer": "仕事を休む",
+      "explanation": "「blow off work」は、仕事をサボる、ずる休みをするという意味です。 Pennyが平日にDisneylandに行くために仕事を休むことを提案しています。"
+    },
+    {
+      "id": 37,
+      "value": "play hooky",
+      "options": [
+        "仕事熱心",
+        "ずる休みをする",
+        "ボランティア活動をする",
+        "残業をする"
+      ],
+      "correctAnswer": "ずる休みをする",
+      "explanation": "「play hooky」は、学校や仕事をずる休みするという意味です。"
+    },
+    {
+      "id": 38,
+      "value": "addicted to reefer",
+      "options": [
+        "酒に溺れる",
+        "マリファナ中毒",
+        "仕事中毒",
+        "ゲーム中毒"
+      ],
+      "correctAnswer": "マリファナ中毒",
+      "explanation": "「reefer」はマリファナのスラングです。「addicted to reefer」は、マリファナ中毒という意味になります。"
+    },
+    {
+      "id": 39,
+      "value": "toughie",
+      "options": [
+        "簡単なこと",
+        "難しい問題",
+        "面白いこと",
+        "退屈なこと"
+      ],
+      "correctAnswer": "難しい問題",
+      "explanation": "「toughie」は、難しい問題や状況を指す口語的な表現です。"
+    },
+    {
+      "id": 40,
+      "value": "alum",
+      "options": [
+        "卒業生",
+        "先生",
+        "生徒",
+        "校長"
+      ],
+      "correctAnswer": "卒業生",
+      "explanation": "「alum」は「alumnus」または「alumna」の略で、卒業生を意味します。"
+    },
+    {
+      "id": 41,
+      "value": "scrawny",
+      "options": [
+        "筋肉質",
+        "痩せっぽち",
+        "太っている",
+        "背が高い"
+      ],
+      "correctAnswer": "痩せっぽち",
+      "explanation": "「scrawny」は、痩せていて骨ばっている、ひ弱なという意味です。Howardが自分の過去を振り返って使っています。"
+    },
+    {
+      "id": 42,
+      "value": "spit on",
+      "options": [
+        "褒められた",
+        "唾を吐きかけられた",
+        "挨拶された",
+        "助けられた"
+      ],
+      "correctAnswer": "唾を吐きかけられた",
+      "explanation": "「spit on」は、誰かに唾を吐きかけるという意味です。Howardが過去にいじめられていた状況を表しています。"
+    },
+    {
+      "id": 43,
+      "value": "fit in",
+      "options": [
+        "仲間外れにする",
+        "適合する",
+        "無視する",
+        "邪魔をする"
+      ],
+      "correctAnswer": "適合する",
+      "explanation": "「fit in」は、場所や状況に適合する、収まるという意味です。ここでは、Howardが過去にロッカーに押し込められたことを指しています。"
+    },
+    {
+      "id": 44,
+      "value": "hold on",
+      "options": [
+        "手放す",
+        "待つ",
+        "進む",
+        "忘れる"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hold on」は、少し待つ、電話を切らずに待つ、という意味で使われます。Sheldonが発言する前に、少し待ってほしいという意味で使っています。"
+    },
+    {
+      "id": 45,
+      "value": "Based on real events",
+      "options": [
+        "作り話",
+        "実話に基づいている",
+        "未来の話",
+        "過去の話"
+      ],
+      "correctAnswer": "実話に基づいている",
+      "explanation": "「Based on real events」は、実際にあった出来事に基づいているという意味です。Pennyが自分の経験をジョークとして語る際に使っています。"
+    },
+    {
+      "id": 46,
+      "value": "crippling",
+      "options": [
+        "自由にする",
+        "麻痺させる",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "麻痺させる",
+      "explanation": "「crippling」は、人を動けなくする、麻痺させるという意味です。ここでは、RajがLucyの社会不安が非常に深刻であることを強調するために使っています。"
+    },
+    {
+      "id": 47,
+      "value": "must feel pretty good",
+      "options": [
+        "気分が悪い",
+        "とても気分が良いはず",
+        "どうでもいい",
+        "悲しいはず"
+      ],
+      "correctAnswer": "とても気分が良いはず",
+      "explanation": "「must feel pretty good」は、きっと気分が良いだろう、嬉しいだろうという意味です。LeonardがHowardが母校に宇宙飛行士として戻ってきたことについて述べています。"
+    },
+    {
+      "id": 48,
+      "value": "serial killer",
+      "options": [
+        "ヒーロー",
+        "連続殺人犯",
+        "医者",
+        "弁護士"
+      ],
+      "correctAnswer": "連続殺人犯",
+      "explanation": "「serial killer」は、連続殺人犯という意味です。Howardの母校の卒業生に連続殺人犯がいるというジョークです。"
+    },
+    {
+      "id": 49,
+      "value": "alma mater",
+      "options": [
+        "小学校",
+        "母校",
+        "図書館",
+        "病院"
+      ],
+      "correctAnswer": "母校",
+      "explanation": "「alma mater」は、母校、出身校という意味のラテン語です。ここでは、Howardの出身校を指しています。"
+    },
+    {
+      "id": 50,
+      "value": "ditch work",
+      "options": [
+        "仕事を見つける",
+        "仕事を辞める",
+        "仕事を休む",
+        "仕事を手伝う"
+      ],
+      "correctAnswer": "仕事を休む",
+      "explanation": "「ditch work」は、仕事をサボる、ずる休みをするという意味です。Pennyが金曜日に仕事を休んでDisneylandに行くことを提案しています。"
+    },
+    {
+      "id": 51,
+      "value": "ditch",
+      "options": [
+        "手伝う",
+        "捨てる、サボる",
+        "受け入れる",
+        "改善する"
+      ],
+      "correctAnswer": "捨てる、サボる",
+      "explanation": "「ditch」は、ここでは「サボる」「抜け出す」という意味のスラングです。義務や責任を放棄するニュアンスがあります。例：I ditched class to go to the beach. (授業をサボってビーチに行った。)"
+    },
+    {
+      "id": 52,
+      "value": "casually",
+      "options": [
+        "偶然に",
+        "形式的に",
+        "さりげなく",
+        "明確に"
+      ],
+      "correctAnswer": "さりげなく",
+      "explanation": "「casually」は「何気なく」「さりげなく」という意味です。意図的でない、または重要でないかのように見せかける様子を表します。例：I casually mentioned that I had a new job. (新しい仕事に就いたことを何気なく言った。)"
+    },
+    {
+      "id": 53,
+      "value": "throwing up like a fire hose",
+      "options": [
+        "少しずつ吐く",
+        "火のように熱いものを吐く",
+        "大量に吐く",
+        "穏やかに吐く"
+      ],
+      "correctAnswer": "大量に吐く",
+      "explanation": "「throwing up like a fire hose」は、大量に吐くことを誇張して表現する比喩です。fire hose (消火ホース) から水が勢いよく噴出する様子から来ています。"
+    },
+    {
+      "id": 54,
+      "value": "dry heaving",
+      "options": [
+        "乾いた咳",
+        "むせる",
+        "空えずき",
+        "静かな呼吸"
+      ],
+      "correctAnswer": "空えずき",
+      "explanation": "「dry heaving」は、吐き気はあるものの何も吐けない状態、つまり「空えずき」を意味します。実際に嘔吐物を伴わない、吐き気を催す動作を指します。"
+    },
+    {
+      "id": 55,
+      "value": "make a beeline for",
+      "options": [
+        "避けて通る",
+        "寄り道をする",
+        "最短距離で向かう",
+        "遠回りをする"
+      ],
+      "correctAnswer": "最短距離で向かう",
+      "explanation": "「make a beeline for」は、一直線に、最短距離で～へ向かうという意味のイディオムです。目的の場所に迷わず、効率的に進む様子を表します。例：As soon as we arrived at the park, the kids made a beeline for the swings. (公園に着くとすぐに、子供たちはブランコに一直線に向かった。)"
+    },
+    {
+      "id": 56,
+      "value": "the works",
+      "options": [
+        "仕事",
+        "すべて",
+        "道具",
+        "芸術作品"
+      ],
+      "correctAnswer": "すべて",
+      "explanation": "「the works」は、ここでは「全部込み」「必要なものすべて」という意味です。完全なパッケージやフルコースを指す際に使われます。例：I ordered the pizza with the works. (全部乗せのピザを注文した。)"
+    },
+    {
+      "id": 57,
+      "value": "bitches",
+      "options": [
+        "親友",
+        "仲間",
+        "嫌な女たち",
+        "女神"
+      ],
+      "correctAnswer": "嫌な女たち",
+      "explanation": "「bitch」は軽蔑的な意味合いを含む言葉で、女性に対して不快感や敵意を表す際に使われます。ここでは仲間内の冗談めかしたニュアンスで使用されています。"
+    },
+    {
+      "id": 58,
+      "value": "awkward",
+      "options": [
+        "熟練した",
+        "器用な",
+        "不器用な、気まずい",
+        "勇敢な"
+      ],
+      "correctAnswer": "不器用な、気まずい",
+      "explanation": "「awkward」は「不器用な」「ぎこちない」「気まずい」という意味です。人や状況が扱いにくい、または場違いな感じを表します。例：There was an awkward silence. (気まずい沈黙があった。)"
+    },
+    {
+      "id": 59,
+      "value": "beanstalk",
+      "options": [
+        "コーヒー豆",
+        "豆の木",
+        "支柱",
+        "竹"
+      ],
+      "correctAnswer": "豆の木",
+      "explanation": "「beanstalk」は「豆の木」という意味です。有名な童話「ジャックと豆の木」に登場する、空まで届くほどの巨大な豆の木を指します。"
+    },
+    {
+      "id": 60,
+      "value": "adorable",
+      "options": [
+        "恐ろしい",
+        "愛らしい",
+        "嫌悪感のある",
+        "退屈な"
+      ],
+      "correctAnswer": "愛らしい",
+      "explanation": "「adorable」は「愛らしい」「かわいらしい」という意味で、非常に魅力的で愛されるべき対象を指します。例：She has an adorable puppy. (彼女は愛らしい子犬を飼っている。)"
+    },
+    {
+      "id": 61,
+      "value": "entropy",
+      "options": [
+        "エントロピー",
+        "エネルギー",
+        "エンゲル係数",
+        "酵素"
+      ],
+      "correctAnswer": "エントロピー",
+      "explanation": "「entropy」は、物理学で「エントロピー」を意味し、系の乱雑さや無秩序さの度合いを表します。熱力学や情報理論など、様々な分野で使用される重要な概念です。"
+    },
+    {
+      "id": 62,
+      "value": "Polish-born",
+      "options": [
+        "イタリア生まれ",
+        "ポーランド生まれ",
+        "スペイン生まれ",
+        "ドイツ生まれ"
+      ],
+      "correctAnswer": "ポーランド生まれ",
+      "explanation": "「Polish-born」は「ポーランド生まれの」という意味です。人の出身地を表す際に使われます。例：a Polish-born artist (ポーランド生まれの芸術家)"
+    },
+    {
+      "id": 63,
+      "value": "stool",
+      "options": [
+        "便",
+        "足",
+        "腰掛け",
+        "階段"
+      ],
+      "correctAnswer": "便",
+      "explanation": "「stool」はここでは「便」という意味です。医学的な文脈で使われることが多い単語です。"
+    },
+    {
+      "id": 64,
+      "value": "superglued",
+      "options": [
+        "油を塗った",
+        "テープで止めた",
+        "ペンキを塗った",
+        "瞬間接着剤でくっつけた"
+      ],
+      "correctAnswer": "瞬間接着剤でくっつけた",
+      "explanation": "「superglued」は「瞬間接着剤でくっつけた」という意味です。いたずらやジョークの文脈で使われることがあります。"
+    },
+    {
+      "id": 65,
+      "value": "flight attendant",
+      "options": [
+        "パイロット",
+        "整備士",
+        "フライトアテンダント",
+        "管制官"
+      ],
+      "correctAnswer": "フライトアテンダント",
+      "explanation": "「flight attendant」は「客室乗務員」「フライトアテンダント」のことです。航空機内で乗客の安全と快適さを担当する職業です。"
+    },
+    {
+      "id": 66,
+      "value": "experimental physicist",
+      "options": [
+        "理論物理学者",
+        "実験物理学者",
+        "天文学者",
+        "生物物理学者"
+      ],
+      "correctAnswer": "実験物理学者",
+      "explanation": "「experimental physicist」は「実験物理学者」のことです。理論的な予測や仮説を実験によって検証する物理学者を指します。"
+    },
+    {
+      "id": 67,
+      "value": "theoretical physicist",
+      "options": [
+        "理論物理学者",
+        "実験物理学者",
+        "天文学者",
+        "生物物理学者"
+      ],
+      "correctAnswer": "理論物理学者",
+      "explanation": "「theoretical physicist」は「理論物理学者」のことです。物理現象を説明するための理論やモデルを構築する物理学者を指します。"
+    },
+    {
+      "id": 68,
+      "value": "in stages",
+      "options": [
+        "同時に",
+        "段階的に",
+        "完全に",
+        "秘密裏に"
+      ],
+      "correctAnswer": "段階的に",
+      "explanation": "「in stages」は「段階的に」という意味です。あるプロセスや計画を、いくつかの段階に分けて進めることを指します。例：The project will be completed in stages over the next three months. (プロジェクトは今後3か月かけて段階的に完了する予定です。)"
+    },
+    {
+      "id": 69,
+      "value": "makeover",
+      "options": [
+        "解体",
+        "修理",
+        "大変身",
+        "点検"
+      ],
+      "correctAnswer": "大変身",
+      "explanation": "「makeover」は「変身」「イメージチェンジ」という意味です。外見やスタイルを大きく変えることを指します。例：She got a complete makeover at the salon. (彼女はサロンで完全な変身を遂げた。)"
+    },
+    {
+      "id": 70,
+      "value": "Whatever.",
+      "options": [
+        "どうでもいい。",
+        "素晴らしい。",
+        "もちろん。",
+        "残念です。"
+      ],
+      "correctAnswer": "どうでもいい。",
+      "explanation": "「Whatever.」は、相手の発言に対して無関心、軽蔑、または諦めの気持ちを表す際に使われる口語表現です。日本語の「まあ、どうでもいいや」に近いニュアンスです。"
+    },
+    {
+      "id": 71,
+      "value": "Excuse me",
+      "options": [
+        "すみません",
+        "ありがとう",
+        "さようなら",
+        "おめでとう"
+      ],
+      "correctAnswer": "すみません",
+      "explanation": "「Excuse me」は、人に話しかけるとき、道を尋ねるとき、または何かを謝るときに使われる丁寧な表現です。日本語の「すみません」に相当します。"
+    },
+    {
+      "id": 72,
+      "value": "I love that.",
+      "options": [
+        "嫌いです",
+        "大好きです",
+        "興味ないです",
+        "知りません"
+      ],
+      "correctAnswer": "大好きです",
+      "explanation": "「I love that.」は、何かに対して非常に好意的な感情を表すときに使われる表現です。日本語の「それ、大好き！」に近いニュアンスです。"
+    },
+    {
+      "id": 73,
+      "value": "Allow me to",
+      "options": [
+        "許可してください",
+        "手伝わせてください",
+        "提案させてください",
+        "説明させてください"
+      ],
+      "correctAnswer": "説明させてください",
+      "explanation": "「Allow me to」は、何かを始める前に、許可を求めたり、丁寧な提案をしたりするときに使われる表現です。ここでは、自己紹介や説明を始める際の丁寧な導入として使われています。"
+    },
+    {
+      "id": 74,
+      "value": "hero",
+      "options": [
+        "悪役",
+        "脇役",
+        "英雄",
+        "凡人"
+      ],
+      "correctAnswer": "英雄",
+      "explanation": "「hero」は、勇気や優れた能力を持ち、人々のために尽力する人を指します。ここでは、Howardが自分の宇宙飛行士としての経験を誇示するために使われています。"
+    },
+    {
+      "id": 75,
+      "value": "the thing to remember",
+      "options": [
+        "忘れること",
+        "思い出すこと",
+        "見ること",
+        "考えること"
+      ],
+      "correctAnswer": "思い出すこと",
+      "explanation": "「the thing to remember」は、「覚えておくべきこと」や「肝に銘じておくべきこと」という意味で、重要なポイントを強調する際に使われます。"
+    },
+    {
+      "id": 76,
+      "value": "be into",
+      "options": [
+        "興味がない",
+        "嫌い",
+        "興味がある",
+        "関係ない"
+      ],
+      "correctAnswer": "興味がある",
+      "explanation": "「be into」は、何かに興味がある、熱中しているという意味です。趣味や活動について話す際によく使われます。例：I'm really into music. (私は音楽に夢中です。)"
+    },
+    {
+      "id": 77,
+      "value": "confided",
+      "options": [
+        "秘密にした",
+        "打ち明けた",
+        "無視した",
+        "非難した"
+      ],
+      "correctAnswer": "打ち明けた",
+      "explanation": "「confide」は、秘密や個人的なことを信頼できる人に打ち明けるという意味です。例：I confided in my best friend about my problems. (私は親友に自分の悩みを打ち明けました。)"
+    },
+    {
+      "id": 78,
+      "value": "derided",
+      "options": [
+        "褒め称えた",
+        "馬鹿にした",
+        "無視した",
+        "理解した"
+      ],
+      "correctAnswer": "馬鹿にした",
+      "explanation": "「deride」は、誰かや何かを嘲笑したり、見下したりする意味です。軽蔑的なニュアンスがあります。例：The students derided his awkward attempts to dance. (生徒たちは彼のぎこちないダンスを嘲笑しました。)"
+    },
+    {
+      "id": 79,
+      "value": "chided",
+      "options": [
+        "褒めた",
+        "叱った",
+        "無視した",
+        "慰めた"
+      ],
+      "correctAnswer": "叱った",
+      "explanation": "「chide」は、誰かを優しく、または軽く叱るという意味です。親や先生が子供を叱るような状況で使われることが多いです。例：She chided him for not doing his homework. (彼女は彼が宿題をしなかったことを叱りました。)"
+    },
+    {
+      "id": 80,
+      "value": "collided",
+      "options": [
+        "協力した",
+        "衝突した",
+        "無視した",
+        "理解した"
+      ],
+      "correctAnswer": "衝突した",
+      "explanation": "「collide」は、物理的に衝突するだけでなく、意見や考え方が激しく対立するという意味も持ちます。例：The two cars collided at the intersection. (2台の車が交差点で衝突しました。)"
+    },
+    {
+      "id": 81,
+      "value": "misguided",
+      "options": [
+        "正しい",
+        "誤った",
+        "無視された",
+        "理解された"
+      ],
+      "correctAnswer": "誤った",
+      "explanation": "「misguided」は、判断や行動が誤っている、見当違いであるという意味です。良い意図があっても結果が伴わない場合に用いられます。例：His efforts to help were misguided and only made things worse. (彼の助けようとする努力は見当違いで、事態を悪化させただけでした。)"
+    },
+    {
+      "id": 82,
+      "value": "gynaecologist",
+      "options": [
+        "小児科医",
+        "産婦人科医",
+        "内科医",
+        "外科医"
+      ],
+      "correctAnswer": "産婦人科医",
+      "explanation": "「gynaecologist」は、女性の生殖器系の健康を専門とする医師、産婦人科医を指します。例：She went to see a gynaecologist for her annual check-up. (彼女は年次検診のために産婦人科医に診てもらいに行きました。)"
+    },
+    {
+      "id": 83,
+      "value": "at your cervix",
+      "options": [
+        "いつでも相談に乗る",
+        "いつでも手伝う",
+        "いつでも診察する",
+        "いつでも歓迎する"
+      ],
+      "correctAnswer": "いつでも診察する",
+      "explanation": "この表現は、婦人科医が診察を提供するという文脈でのジョークです。「cervix」は子宮頸部を意味し、婦人科検診と関連付けられます。"
+    },
+    {
+      "id": 84,
+      "value": "pun-itentiary",
+      "options": [
+        "刑務所",
+        "遊園地",
+        "病院",
+        "学校"
+      ],
+      "correctAnswer": "刑務所",
+      "explanation": "「pun-itentiary」は、「pun（駄洒落）」と「penitentiary（刑務所）」を組み合わせた言葉遊びです。ひどい駄洒落を言う人を冗談めかして収容する場所という意味合いで使用されます。"
+    },
+    {
+      "id": 85,
+      "value": "fitting",
+      "options": [
+        "不適切な",
+        "適切な",
+        "つまらない",
+        "面白い"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "「fitting」は、状況や目的に合っている、ふさわしいという意味です。例：The punishment was fitting for the crime. (その犯罪にはふさわしい処罰でした。)"
+    },
+    {
+      "id": 86,
+      "value": "gown",
+      "options": [
+        "帽子",
+        "靴",
+        "ドレス",
+        "ズボン"
+      ],
+      "correctAnswer": "ドレス",
+      "explanation": "「gown」は、特にフォーマルな場で着用される、丈の長いドレスを指します。舞踏会や結婚式などでよく見られます。例：She wore a beautiful gown to the ball. (彼女は舞踏会に美しいガウンを着ていきました。)"
+    },
+    {
+      "id": 87,
+      "value": "come to life",
+      "options": [
+        "死ぬ",
+        "実現する",
+        "失敗する",
+        "忘れられる"
+      ],
+      "correctAnswer": "実現する",
+      "explanation": "「come to life」は、夢や想像などが現実になる、生き生きとするという意味です。例：The characters in the book came to life in my imagination. (本の中の登場人物が私の想像の中で生き生きとしました。)"
+    },
+    {
+      "id": 88,
+      "value": "bumblebee",
+      "options": [
+        "ミツバチ",
+        "スズメバチ",
+        "ハエ",
+        "マルハナバチ"
+      ],
+      "correctAnswer": "マルハナバチ",
+      "explanation": "「bumblebee」は、丸くて毛深いハチの一種であるマルハナバチを指します。低い羽音を立てて飛ぶことで知られています。例：A bumblebee was buzzing around the flowers. (マルハナバチが花の周りを飛び回っていました。)"
+    },
+    {
+      "id": 89,
+      "value": "actively discouraged",
+      "options": [
+        "積極的に奨励された",
+        "積極的に阻止された",
+        "無視された",
+        "影響されなかった"
+      ],
+      "correctAnswer": "積極的に阻止された",
+      "explanation": "「actively discouraged」は、何かをしないように積極的に働きかけられたという意味です。例：She was actively discouraged from pursuing a career in science. (彼女は科学の道を追求しないように積極的に阻止されました。)"
+    },
+    {
+      "id": 90,
+      "value": "taking time out",
+      "options": [
+        "時間を無駄にする",
+        "時間を最大限に活用する",
+        "休憩する",
+        "集中する"
+      ],
+      "correctAnswer": "休憩する",
+      "explanation": "「take time out」は、忙しいスケジュールから一時的に休憩を取る、時間を割くという意味です。例：I'm taking time out to relax and recharge. (リラックスしてエネルギーを充電するために休憩を取っています。)"
+    },
+    {
+      "id": 91,
+      "value": "capacity",
+      "options": [
+        "無能",
+        "能力",
+        "限界",
+        "機会"
+      ],
+      "correctAnswer": "能力",
+      "explanation": "「capacity」は、何かを行うための能力、潜在的な力量という意味です。例：She has the capacity to be a great leader. (彼女は偉大なリーダーになる能力を持っています。)"
+    },
+    {
+      "id": 92,
+      "value": "come at me",
+      "options": [
+        "私を無視して",
+        "私を助けて",
+        "私に挑戦して",
+        "私から逃げて"
+      ],
+      "correctAnswer": "私に挑戦して",
+      "explanation": "「come at me」は、誰かに挑戦する、攻撃してくるならやってみろという挑発的な意味合いで使われる口語表現です。例：If you think you can beat me, come at me! (もし私に勝てると思うなら、挑戦してこい！)"
+    },
+    {
+      "id": 93,
+      "value": "panic attack",
+      "options": [
+        "冷静",
+        "怒り",
+        "不安発作",
+        "幸福"
+      ],
+      "correctAnswer": "不安発作",
+      "explanation": "「panic attack」は、激しい恐怖や不安が突然襲ってくる状態を指します。動悸、呼吸困難、めまいなどの身体症状を伴うことがあります。例：She had a panic attack before her presentation. (彼女はプレゼンテーションの前にパニック発作を起こしました。)"
+    },
+    {
+      "id": 94,
+      "value": "foreplay",
+      "options": [
+        "本番",
+        "前戯",
+        "休憩",
+        "終結"
+      ],
+      "correctAnswer": "前戯",
+      "explanation": "「foreplay」は、性行為の前の行為、前戯を意味します。親密な関係を深めるための行為です。例：They spent some time on foreplay before engaging in intercourse. (彼らは性交の前にしばらく前戯をしました。)"
+    },
+    {
+      "id": 95,
+      "value": "Prince Charming",
+      "options": [
+        "理想の男性",
+        "理想の女性",
+        "普通の男性",
+        "普通の女性"
+      ],
+      "correctAnswer": "理想の男性",
+      "explanation": "「Prince Charming」は、おとぎ話に出てくるような理想的な男性、白馬の王子様を指します。女性が憧れる完璧な男性像を象徴します。例：She's still waiting for her Prince Charming to come along. (彼女はまだ白馬の王子様が現れるのを待っています。)"
+    },
+    {
+      "id": 96,
+      "value": "Milady",
+      "options": [
+        "男性への敬称",
+        "女性への敬称",
+        "子供への呼びかけ",
+        "ペットへの呼びかけ"
+      ],
+      "correctAnswer": "女性への敬称",
+      "explanation": "「Milady」は、中世やルネサンス時代に使われた、貴族の女性に対する敬称です。現代では、ロマンチックな文脈や演劇などで使われることがあります。例：May I have this dance, Milady? (奥様、このダンスをご一緒してもよろしいでしょうか？)"
+    },
+    {
+      "id": 97,
+      "value": "play hooky",
+      "options": [
+        "真面目に勉強する",
+        "遊んで怠ける",
+        "仕事に集中する",
+        "ボランティア活動をする"
+      ],
+      "correctAnswer": "遊んで怠ける",
+      "explanation": "「play hooky」は、学校や仕事をサボって遊ぶという意味です。特に子供が学校をサボる場合に使われることが多いです。例：They decided to play hooky and go to the beach. (彼らはサボってビーチに行くことにしました。)"
+    },
+    {
+      "id": 98,
+      "value": "go on",
+      "options": [
+        "終わる",
+        "続ける",
+        "止まる",
+        "忘れる"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「go on」は、話や活動を続ける、続けるように促すという意味です。例：Please, go on with your story. (どうぞ、あなたの話を続けてください。)"
+    },
+    {
+      "id": 99,
+      "value": "Snow White",
+      "options": [
+        "シンデレラ",
+        "白雪姫",
+        "リトルマーメイド",
+        "美女と野獣"
+      ],
+      "correctAnswer": "白雪姫",
+      "explanation": "「Snow White」は、グリム童話に登場する、美しい王女の名前です。毒リンゴを食べて眠りにつく物語で知られています。例：She dressed up as Snow White for Halloween. (彼女はハロウィーンに白雪姫の仮装をしました。)"
+    },
+    {
+      "id": 100,
+      "value": "Heard you the first time.",
+      "options": [
+        "もう一度言ってください",
+        "聞こえませんでした",
+        "一度で分かりました",
+        "無視します"
+      ],
+      "correctAnswer": "一度で分かりました",
+      "explanation": "「Heard you the first time」は、相手の言ったことを一度で理解した、または同じことを繰り返す必要はないという意味です。時に、少しイライラしたニュアンスが含まれることがあります。例：I heard you the first time, you don't have to repeat yourself. (一度で聞こえたよ、繰り返さなくてもいい。)"
+    }
+  ]
+}

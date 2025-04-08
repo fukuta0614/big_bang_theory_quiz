@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "hybrid",
+      "options": [
+        "混成物",
+        "純粋種",
+        "類似物",
+        "代替品"
+      ],
+      "correctAnswer": "混成物",
+      "explanation": "「hybrid」は、異なる要素や性質が組み合わさってできたものを指します。生物学では異種交配によって生まれた生物を指しますが、比喩的に異なるものが組み合わさったもの全般に使われます。ここでは「part man, part bat hybrid（一部が人間、一部がコウモリの混成物）」として使われています。"
+    },
+    {
+      "id": 2,
+      "value": "radioactive",
+      "options": [
+        "伝染性の",
+        "放射性の",
+        "魅力的な",
+        "活発な"
+      ],
+      "correctAnswer": "放射性の",
+      "explanation": "「radioactive」は、放射能を持つ、放射性のという意味です。ここでは、放射線を浴びた人間という設定で使われています。"
+    },
+    {
+      "id": 3,
+      "value": "computational models",
+      "options": [
+        "計算モデル",
+        "競争モデル",
+        "複合モデル",
+        "比較モデル"
+      ],
+      "correctAnswer": "計算モデル",
+      "explanation": "「computational models」は、計算機を用いて現象やシステムをシミュレーションするモデルのことです。複雑な現象を分析・予測するために用いられます。"
+    },
+    {
+      "id": 4,
+      "value": "implies",
+      "options": [
+        "意味する",
+        "暗示する",
+        "反論する",
+        "無視する"
+      ],
+      "correctAnswer": "暗示する",
+      "explanation": "「imply」は、間接的に意味を示す、暗示するという意味です。直接的な表現ではなく、含みを持たせて伝える際に使用されます。例文: His silence implied disagreement. (彼の沈黙は不同意を暗示していた。)"
+    },
+    {
+      "id": 5,
+      "value": "quarterly",
+      "options": [
+        "毎日の",
+        "毎週の",
+        "毎月の",
+        "四半期の"
+      ],
+      "correctAnswer": "四半期の",
+      "explanation": "「quarterly」は、四半期ごとの、年4回のという意味です。ここでは「quarterly roommate agreement meeting（四半期ごとのルームメイト協定会議）」として使われています。"
+    },
+    {
+      "id": 6,
+      "value": "Pledge of Allegiance",
+      "options": [
+        "忠誠の誓い",
+        "秘密保持契約",
+        "相互扶助",
+        "宣戦布告"
+      ],
+      "correctAnswer": "忠誠の誓い",
+      "explanation": "「Pledge of Allegiance」は、アメリカ合衆国に対する忠誠の誓いのことです。ここでは、ルームメイト協定会議でPennyがそれを読み上げるというユーモラスな状況設定になっています。"
+    },
+    {
+      "id": 7,
+      "value": "parliamentary procedure",
+      "options": [
+        "議会手続き",
+        "料理の手順",
+        "会計処理",
+        "個人的な手続き"
+      ],
+      "correctAnswer": "議会手続き",
+      "explanation": "「parliamentary procedure」は、議事進行の方法、議会手続きという意味です。ここでは、些細な問題に大げさな手続きを適用することを皮肉っています。"
+    },
+    {
+      "id": 8,
+      "value": "weigh in",
+      "options": [
+        "体重を量る",
+        "意見を述べる",
+        "重荷になる",
+        "比較検討する"
+      ],
+      "correctAnswer": "意見を述べる",
+      "explanation": "「weigh in」は、意見や考えを表明する、議論に参加するという意味です。特に、重要な決定や議論において自分の意見を述べる際に使われます。"
+    },
+    {
+      "id": 9,
+      "value": "gavel",
+      "options": [
+        "砂利",
+        "小槌",
+        "手袋",
+        "定規"
+      ],
+      "correctAnswer": "小槌",
+      "explanation": "「gavel」は、議長や司会者が会議の開始や終了、決定などを宣言する際に打ち鳴らす小槌のことです。"
+    },
+    {
+      "id": 10,
+      "value": "motion on the floor",
+      "options": [
+        "床の上の動き",
+        "審議中の動議",
+        "フロアショー",
+        "運動不足"
+      ],
+      "correctAnswer": "審議中の動議",
+      "explanation": "「motion on the floor」は、会議や議論において、正式に提案され審議の対象となっている動議のことです。ここでは、Sheldonが会議の状況を大げさに表現するために使っています。"
+    },
+    {
+      "id": 11,
+      "value": "embarrassing",
+      "options": [
+        "大胆な",
+        "当惑させる",
+        "勇気づける",
+        "興味深い"
+      ],
+      "correctAnswer": "当惑させる",
+      "explanation": "「embarrassing」は、恥ずかしい、当惑させるという意味です。ここでは、Sheldonの行動が周囲を困惑させている状況を表しています。"
+    },
+    {
+      "id": 12,
+      "value": "taking his side",
+      "options": [
+        "彼の側を取る",
+        "彼の邪魔をする",
+        "彼を無視する",
+        "彼をからかう"
+      ],
+      "correctAnswer": "彼の側を取る",
+      "explanation": "「take someone's side」は、誰かの味方をする、誰かを支持するという意味です。ここでは、PennyがSheldonの味方をしている状況を表しています。"
+    },
+    {
+      "id": 13,
+      "value": "make a deal",
+      "options": [
+        "取引をする",
+        "食事を作る",
+        "邪魔をする",
+        "暴露する"
+      ],
+      "correctAnswer": "取引をする",
+      "explanation": "「make a deal」は、取引をする、合意するという意味です。ここでは、ルームメイト協定にサインした際に交わした約束事を指しています。"
+    },
+    {
+      "id": 14,
+      "value": "color guard",
+      "options": [
+        "カラーガード",
+        "警備員",
+        "庭師",
+        "画家"
+      ],
+      "correctAnswer": "カラーガード",
+      "explanation": "「color guard」は、旗を持って行進する部隊のことです。ここでは、PennyがSheldonの意見に賛同することを、比喩的にカラーガードに例えています。"
+    },
+    {
+      "id": 15,
+      "value": "worn out",
+      "options": [
+        "すり切れた",
+        "疲れ果てた",
+        "時代遅れの",
+        "使い古された"
+      ],
+      "correctAnswer": "疲れ果てた",
+      "explanation": "「worn out」は、疲れ果てた、へとへとという意味です。ここでは、Rajが二人の女性とのデートで疲れていることを表しています。"
+    },
+    {
+      "id": 16,
+      "value": "exhausting",
+      "options": [
+        "徹底的な",
+        "疲弊させる",
+        "包括的な",
+        "網羅的な"
+      ],
+      "correctAnswer": "疲弊させる",
+      "explanation": "「exhausting」は、人を疲れさせる、消耗させるという意味です。ここでは、二人の女性と同時にデートすることがRajにとって非常に疲れることであることを表しています。"
+    },
+    {
+      "id": 17,
+      "value": "folding",
+      "options": [
+        "折りたたむ",
+        "崩壊する",
+        "関与する",
+        "作成する"
+      ],
+      "correctAnswer": "折りたたむ",
+      "explanation": "「folding」は、ここでは本のページを折りたたむという意味で使われています。Howardが妊娠に関する本を読んだふりをするために行っている行為です。"
+    },
+    {
+      "id": 18,
+      "value": "pregnancy book",
+      "options": [
+        "料理本",
+        "妊娠に関する本",
+        "歴史小説",
+        "旅行ガイド"
+      ],
+      "correctAnswer": "妊娠に関する本",
+      "explanation": "「pregnancy book」は、妊娠に関する情報やアドバイスが書かれた本のことです。Howardは妻のBernadetteのために、この本を読んでいるふりをしています。"
+    },
+    {
+      "id": 19,
+      "value": "lucky",
+      "options": [
+        "幸運な",
+        "勇敢な",
+        "正直な",
+        "強い"
+      ],
+      "correctAnswer": "幸運な",
+      "explanation": "「lucky」は、幸運な、運が良いという意味です。ここでは、Howardが家庭を持ち、愛する人と一緒にいられることをRajが羨ましがっています。"
+    },
+    {
+      "id": 20,
+      "value": "can't even remember",
+      "options": [
+        "決して忘れない",
+        "ほとんど覚えていない",
+        "正確に思い出す",
+        "詳細に説明する"
+      ],
+      "correctAnswer": "ほとんど覚えていない",
+      "explanation": "「can't even remember」は、～さえ覚えていないという意味です。ここでは、Rajが忙しさのあまり、最後に自分のアパートで寝たのがいつか覚えていないことを表しています。"
+    },
+    {
+      "id": 21,
+      "value": "wake up",
+      "options": [
+        "目を覚ます",
+        "出かける",
+        "眠りにつく",
+        "出発する"
+      ],
+      "correctAnswer": "目を覚ます",
+      "explanation": "「wake up」は、目を覚ますという意味です。ここでは、Rajがどこで寝ているのか分からなくなる状況を表しています。"
+    },
+    {
+      "id": 22,
+      "value": "dating",
+      "options": [
+        "食事",
+        "デート",
+        "会議",
+        "仕事"
+      ],
+      "correctAnswer": "デート",
+      "explanation": "「dating」は、デートをする、交際するという意味です。ここでは、Rajが二人の女性と同時に交際していることを表しています。"
+    },
+    {
+      "id": 23,
+      "value": "run",
+      "options": [
+        "走る",
+        "逃げる",
+        "経営する",
+        "立候補する"
+      ],
+      "correctAnswer": "逃げる",
+      "explanation": "ここでは「got to run」という形で使われており、「行かなくては」という意味になります。急いで立ち去る際に使われる口語表現です。"
+    },
+    {
+      "id": 24,
+      "value": "through their window from behind a bush",
+      "options": [
+        "窓から茂みの後ろを通して",
+        "窓も茂みも通らずに",
+        "窓からではなく、家の中から",
+        "茂みの手入れをしながら"
+      ],
+      "correctAnswer": "窓から茂みの後ろを通して",
+      "explanation": "このフレーズは、Rajが女性たちをストーカーしているのではないかというLeonardの皮肉を込めた質問です。ありえない状況を誇張して表現することで、面白さを出しています。"
+    },
+    {
+      "id": 25,
+      "value": "seriously",
+      "options": [
+        "真剣に",
+        "冗談で",
+        "偶然に",
+        "ゆっくりと"
+      ],
+      "correctAnswer": "真剣に",
+      "explanation": "ここでは、驚きや疑念を込めた強調表現として使われています。「本当に？」「マジで？」といったニュアンスで、相手の発言に対する強い反応を示します。"
+    },
+    {
+      "id": 26,
+      "value": "mommy-to-be",
+      "options": [
+        "将来の母親",
+        "母親のような人",
+        "母親の役割",
+        "母親になる予定の人"
+      ],
+      "correctAnswer": "母親になる予定の人",
+      "explanation": "「mommy-to-be」は、妊娠中の女性、つまりこれから母親になる予定の人を指す口語的な表現です。親愛の情を込めて使われることが多いです。"
+    },
+    {
+      "id": 27,
+      "value": "snuggle up",
+      "options": [
+        "急いで立ち去る",
+        "暖かく寄り添う",
+        "大声で歌う",
+        "運動をする"
+      ],
+      "correctAnswer": "暖かく寄り添う",
+      "explanation": "「snuggle up」は、暖かく快適な場所で寄り添う、丸くなるという意味です。特にベッドやソファで、毛布などにくるまってリラックスする様子を表します。"
+    },
+    {
+      "id": 28,
+      "value": "up-to-date",
+      "options": [
+        "時代遅れ",
+        "最新の情報を持っている",
+        "過去にさかのぼる",
+        "秘密にする"
+      ],
+      "correctAnswer": "最新の情報を持っている",
+      "explanation": "「up-to-date」は、最新の情報や知識を持っている、という意味です。あるトピックや分野について、現在の状況を把握している状態を指します。"
+    },
+    {
+      "id": 29,
+      "value": "pouting",
+      "options": [
+        "自慢する",
+        "ふくれっ面をする",
+        "笑う",
+        "泣く"
+      ],
+      "correctAnswer": "ふくれっ面をする",
+      "explanation": "「pout」は、不満や不機嫌を表して唇を突き出す、ふくれっ面をするという意味です。子供がよくする行動ですが、大人も使うことがあります。"
+    },
+    {
+      "id": 30,
+      "value": "make up with",
+      "options": [
+        "仲直りする",
+        "化粧をする",
+        "作り上げる",
+        "でっちあげる"
+      ],
+      "correctAnswer": "仲直りする",
+      "explanation": "「make up with」は、誰かと喧嘩や意見の不一致の後で仲直りするという意味です。関係を修復し、和解する行為を指します。"
+    },
+    {
+      "id": 31,
+      "value": "skip to",
+      "options": [
+        "スキップして進む",
+        "スキップするのをやめる",
+        "スキップしながら戻る",
+        "スキップできない"
+      ],
+      "correctAnswer": "スキップして進む",
+      "explanation": "「skip to」は、ある部分を飛ばして次の部分へ進むという意味です。時間やプロセスを短縮したい場合に使われます。"
+    },
+    {
+      "id": 32,
+      "value": "annoyed",
+      "options": [
+        "喜んで",
+        "イライラして",
+        "落ち着いて",
+        "満足して"
+      ],
+      "correctAnswer": "イライラして",
+      "explanation": "「annoyed」は、何かに不満を感じたり、イライラしたりする感情を表します。軽い怒りや不快感を示す言葉です。"
+    },
+    {
+      "id": 33,
+      "value": "bo-beeting",
+      "options": [
+        "複雑な数学",
+        "意味のない言葉遊び",
+        "重要な会議",
+        "伝統的なダンス"
+      ],
+      "correctAnswer": "意味のない言葉遊び",
+      "explanation": "これは「The Name Game」という歌の歌詞の一部で、名前を使って即興で作られる、意味のない言葉遊びです。ここでは「meeting」という言葉を面白おかしく変形させています。"
+    },
+    {
+      "id": 34,
+      "value": "brag",
+      "options": [
+        "謝る",
+        "自慢する",
+        "内緒にする",
+        "後悔する"
+      ],
+      "correctAnswer": "自慢する",
+      "explanation": "「brag」は、自分の能力、所有物、または業績について、大げさに、または過度に自慢するという意味です。しばしば、他人を感心させたり、嫉妬させたりする意図が含まれます。"
+    },
+    {
+      "id": 35,
+      "value": "wedge",
+      "options": [
+        "取り除く",
+        "挟む",
+        "広げる",
+        "投げる"
+      ],
+      "correctAnswer": "挟む",
+      "explanation": "「wedge」は、狭い場所に無理やり押し込む、挟むという意味です。物理的な意味だけでなく、比喩的にも使われます。"
+    },
+    {
+      "id": 36,
+      "value": "bent out of shape",
+      "options": [
+        "落ち着いている",
+        "非常に怒っている",
+        "混乱している",
+        "疲れている"
+      ],
+      "correctAnswer": "非常に怒っている",
+      "explanation": "「bent out of shape」は、非常に怒っている、または動揺しているという意味です。文字通りには形が崩れている状態を指しますが、比喩的に感情が乱れている状態を表します。"
+    },
+    {
+      "id": 37,
+      "value": "come around",
+      "options": [
+        "遊びに来る",
+        "考えを変える",
+        "倒れる",
+        "逃げる"
+      ],
+      "correctAnswer": "考えを変える",
+      "explanation": "「come around」は、考えや意見を変える、同意するという意味です。最初は反対していた人が、最終的に納得する状況を表します。"
+    },
+    {
+      "id": 38,
+      "value": "mandatory",
+      "options": [
+        "義務的な",
+        "任意的な",
+        "秘密の",
+        "無料の"
+      ],
+      "correctAnswer": "義務的な",
+      "explanation": "「mandatory」は、法律や規則によって要求される、義務的なという意味です。必ず参加または実行しなければならないことを指します。"
+    },
+    {
+      "id": 39,
+      "value": "standing subcommittee",
+      "options": [
+        "立ち上がっている小委員会",
+        "常設小委員会",
+        "一時的な小委員会",
+        "目立たない小委員会"
+      ],
+      "correctAnswer": "常設小委員会",
+      "explanation": "「standing subcommittee」は、特定の目的のために恒久的に設置された小委員会を指します。特定の課題や問題について継続的に検討や調査を行う役割を持ちます。"
+    },
+    {
+      "id": 40,
+      "value": "upset",
+      "options": [
+        "喜ばせる",
+        "動揺させる",
+        "落ち着かせる",
+        "元気にする"
+      ],
+      "correctAnswer": "動揺させる",
+      "explanation": "「upset」は、誰かを悲しませたり、動揺させたりする、という意味です。感情的な状態を表す言葉として広く使われます。"
+    },
+    {
+      "id": 41,
+      "value": "drop it",
+      "options": [
+        "拾う",
+        "やめる",
+        "続ける",
+        "隠す"
+      ],
+      "correctAnswer": "やめる",
+      "explanation": "「drop it」は、その話題について話すのをやめる、または何かをするのをやめるという意味です。議論や不快な状況を避けたいときに使われます。"
+    },
+    {
+      "id": 42,
+      "value": "I feel you",
+      "options": [
+        "あなたを感じる",
+        "あなたを理解する",
+        "あなたを無視する",
+        "あなたを批判する"
+      ],
+      "correctAnswer": "あなたを理解する",
+      "explanation": "「I feel you」は、相手の気持ちや状況を理解し共感していることを伝える表現です。相手の苦労や感情に寄り添う際に使われます。"
+    },
+    {
+      "id": 43,
+      "value": "the worst",
+      "options": [
+        "最高",
+        "最悪",
+        "普通",
+        "最高級"
+      ],
+      "correctAnswer": "最悪",
+      "explanation": "「the worst」は、最も悪い、最低という意味です。状態、状況、または人物が非常に悪いことを強調するために使用されます。"
+    },
+    {
+      "id": 44,
+      "value": "too much",
+      "options": [
+        "少なすぎる",
+        "多すぎる",
+        "ちょうど良い",
+        "まったくない"
+      ],
+      "correctAnswer": "多すぎる",
+      "explanation": "「too much」は、過剰である、限度を超えているという意味です。量、程度、または頻度が許容範囲を超えていることを示します。"
+    },
+    {
+      "id": 45,
+      "value": "wish could",
+      "options": [
+        "できるはず",
+        "できると良いのに",
+        "できない",
+        "できるかもしれない"
+      ],
+      "correctAnswer": "できると良いのに",
+      "explanation": "「wish could」は、実際にはできないことに対する願望や後悔を表します。「～できたらいいのに」というニュアンスで使用されます。"
+    },
+    {
+      "id": 46,
+      "value": "What's going on",
+      "options": [
+        "何が起こるのか",
+        "どうしたの",
+        "何をするのか",
+        "どこへ行くのか"
+      ],
+      "correctAnswer": "どうしたの",
+      "explanation": "「What's going on」は、何が起こっているのか、または何が問題なのかを尋ねる一般的な表現です。状況や人の状態について尋ねる際に使用されます。"
+    },
+    {
+      "id": 47,
+      "value": "Don't worry",
+      "options": [
+        "心配しないで",
+        "心配して",
+        "喜んで",
+        "怒って"
+      ],
+      "correctAnswer": "心配しないで",
+      "explanation": "「Don't worry」は、相手を安心させるために使われる表現で、「心配しないで」という意味です。問題がないこと、または解決できることを伝える際に使用されます。"
+    },
+    {
+      "id": 48,
+      "value": "how he feels",
+      "options": [
+        "どう感じるか",
+        "どのように触るか",
+        "どのように見えるか",
+        "どのように聞こえるか"
+      ],
+      "correctAnswer": "どう感じるか",
+      "explanation": "「how he feels」は、彼がどのように感じているか、または彼の感情や気持ちを指します。他人の感情や心理状態について言及する際に使用されます。"
+    },
+    {
+      "id": 49,
+      "value": "side by side",
+      "options": [
+        "隣り合って",
+        "別々に",
+        "向かい合って",
+        "後ろ向きに"
+      ],
+      "correctAnswer": "隣り合って",
+      "explanation": "「side by side」は、隣り合って、または一緒にという意味です。物理的な位置関係だけでなく、協力や協調を示す際にも使用されます。"
+    },
+    {
+      "id": 50,
+      "value": "jealous",
+      "options": [
+        "嬉しい",
+        "嫉妬深い",
+        "満足している",
+        "落ち着いている"
+      ],
+      "correctAnswer": "嫉妬深い",
+      "explanation": "「jealous」は、嫉妬深い、または羨ましいという意味です。他人が持っているものや達成したことに対して、不満や羨望の感情を抱くことを指します。"
+    },
+    {
+      "id": 51,
+      "value": "fond of",
+      "options": [
+        "嫌い",
+        "飽きた",
+        "好き",
+        "無関心"
+      ],
+      "correctAnswer": "好き",
+      "explanation": "「be fond of」は「～が好きである」「～を好む」という意味です。人や物事に対して愛情や好意を持っている状態を表します。日常会話で広く使われ、フォーマルな状況でも使用可能です。\n\n例：She is very fond of her grandchildren. (彼女は孫たちがとても好きです。)"
+    },
+    {
+      "id": 52,
+      "value": "dawn of time",
+      "options": [
+        "時間の終わり",
+        "夜明け",
+        "過去",
+        "太古の昔"
+      ],
+      "correctAnswer": "太古の昔",
+      "explanation": "「dawn of time」は「有史以前」「太古の昔」という意味です。非常に古い時代、人類の歴史が始まったばかりの頃を指します。壮大なスケールや神秘的な雰囲気を伴う表現です。\n\n例：Since the dawn of time, humans have looked to the stars. (太古の昔から、人類は星を見上げてきた。)"
+    },
+    {
+      "id": 53,
+      "value": "jerk",
+      "options": [
+        "賢者",
+        "親切な人",
+        "嫌なやつ",
+        "勇敢な人"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「jerk」は「嫌なやつ」「無神経な人」「馬鹿」といった意味合いを持つ侮辱的な言葉です。相手の行動や態度が不快であると感じたときに使われます。強い非難のニュアンスを含むため、使用には注意が必要です。\n\n例：Don't be such a jerk! (そんな嫌なやつになるな！)"
+    },
+    {
+      "id": 54,
+      "value": "have it with",
+      "options": [
+        "賛成する",
+        "我慢できない",
+        "理解する",
+        "楽しむ"
+      ],
+      "correctAnswer": "我慢できない",
+      "explanation": "「have it with」は「～にうんざりしている」「～に我慢できない」という意味です。特定の人物や物事に対して不満や嫌悪感を抱いている状態を表します。口語的な表現で、日常会話でよく使われます。\n\n例：I've had it with this weather! (この天気にはうんざりだ！)"
+    },
+    {
+      "id": 55,
+      "value": "synced up",
+      "options": [
+        "同期した",
+        "反対した",
+        "隠した",
+        "忘れた"
+      ],
+      "correctAnswer": "同期した",
+      "explanation": "「sync up」は「同期する」「一致する」という意味です。2つ以上の物事がタイミングや動きを合わせて同時に起こる状態を表します。比喩的に、考えや感情が一致する場合にも使われます。\n\n例：Our schedules synced up perfectly. (私たちのスケジュールは完璧に一致した。)"
+    },
+    {
+      "id": 56,
+      "value": "dress-up party",
+      "options": [
+        "送別会",
+        "仮装パーティー",
+        "歓迎会",
+        "誕生日会"
+      ],
+      "correctAnswer": "仮装パーティー",
+      "explanation": "「dress-up party」は「仮装パーティー」という意味です。参加者が特定のテーマやキャラクターになりきって衣装を身につけるパーティーを指します。楽しみや創造性を重視するイベントです。\n\n例：We're having a dress-up party for Halloween. (ハロウィンのために仮装パーティーを開きます。)"
+    },
+    {
+      "id": 57,
+      "value": "catch up",
+      "options": [
+        "捕まえる",
+        "追いつく",
+        "手伝う",
+        "見送る"
+      ],
+      "correctAnswer": "追いつく",
+      "explanation": "「catch up」は「追いつく」「近況を報告し合う」という意味です。遅れを取り戻したり、しばらく会っていなかった人と情報交換をしたりする際に使われます。幅広い状況で使える便利な表現です。\n\n例：Let's catch up over coffee sometime. (今度コーヒーでも飲みながら近況を話し合いましょう。)"
+    },
+    {
+      "id": 58,
+      "value": "put up with",
+      "options": [
+        "我慢する",
+        "楽しむ",
+        "尊敬する",
+        "無視する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「put up with」は「我慢する」「耐える」という意味です。不快な状況や人物を受け入れ、辛抱強く対応する状態を表します。日常的なストレスから深刻な問題まで、幅広く使われます。\n\n例：I can't put up with his behavior anymore. (彼の行動にはもう我慢できない。)"
+    },
+    {
+      "id": 59,
+      "value": "sticking up for",
+      "options": [
+        "見捨てる",
+        "擁護する",
+        "非難する",
+        "忘れる"
+      ],
+      "correctAnswer": "擁護する",
+      "explanation": "「stick up for」は「～を擁護する」「～を弁護する」という意味です。誰かが批判されたり攻撃されたりしているときに、その人を支持し、守る行動を表します。正義感や友情に基づいた行動であることが多いです。\n\n例：He always sticks up for his friends. (彼はいつも友達を擁護する。)"
+    },
+    {
+      "id": 60,
+      "value": "get one's way",
+      "options": [
+        "道に迷う",
+        "自分の思い通りにする",
+        "道を譲る",
+        "迷子になる"
+      ],
+      "correctAnswer": "自分の思い通りにする",
+      "explanation": "「get one's way」は「自分の思い通りにする」「わがままを通す」という意味です。他者の意見や都合を考慮せず、自分の要求や希望を実現する行動を表します。しばしば否定的なニュアンスを伴います。\n\n例：She always gets her way. (彼女はいつも自分の思い通りにする。)"
+    },
+    {
+      "id": 61,
+      "value": "son of a bitch",
+      "options": [
+        "犬好き",
+        "正直者",
+        "卑劣漢",
+        "親孝行"
+      ],
+      "correctAnswer": "卑劣漢",
+      "explanation": "「son of a bitch」は「嫌なやつ」「卑劣漢」「くそったれ」といった意味合いを持つ侮辱的な言葉です。相手に対する強い怒りや不満を表す際に使われます。非常に強い表現であるため、使用には注意が必要です。\n\n例：That son of a bitch cheated me! (あのくそったれは私を騙した！)"
+    },
+    {
+      "id": 62,
+      "value": "human resources",
+      "options": [
+        "人的資源",
+        "自然資源",
+        "公共事業",
+        "社会福祉"
+      ],
+      "correctAnswer": "人的資源",
+      "explanation": "「human resources」は「人事部」「人的資源」という意味です。企業や組織において、従業員の採用、教育、評価、給与、福利厚生などを管理する部門を指します。また、従業員を資源として捉える考え方も含みます。\n\n例：I need to talk to human resources about my benefits. (福利厚生について人事部に相談する必要があります。)"
+    },
+    {
+      "id": 63,
+      "value": "monthly hormone cycle",
+      "options": [
+        "毎日の運動",
+        "毎月のホルモン周期",
+        "毎年の健康診断",
+        "毎日の食事"
+      ],
+      "correctAnswer": "毎月のホルモン周期",
+      "explanation": "「monthly hormone cycle」は「月経周期」を指すことが多いですが、ここでは男性にも見られるホルモンの変動を指しています。女性の月経周期と同様に、男性にもテストステロンなどのホルモンレベルが一定の周期で変動することがあります。このホルモンバランスの変化は、気分の変動や体調の変化に影響を与えることがあります。\n\n例：Some men experience irritability due to fluctuations in their monthly hormone cycle. (男性の中には、毎月のホルモン周期の変動によってイライラを感じる人もいます。)"
+    },
+    {
+      "id": 64,
+      "value": "testosterone",
+      "options": [
+        "エストロゲン",
+        "テストステロン",
+        "インスリン",
+        "アドレナリン"
+      ],
+      "correctAnswer": "テストステロン",
+      "explanation": "「testosterone」は「テストステロン」という男性ホルモンの一種です。主に男性の性機能や筋肉の発達に関与しており、骨密度や気分にも影響を与えます。女性にも少量存在しますが、男性の方が高い濃度で分泌されます。\n\n例：Testosterone levels tend to decrease with age in men. (男性のテストステロンレベルは年齢とともに低下する傾向があります。)"
+    },
+    {
+      "id": 65,
+      "value": "irritability",
+      "options": [
+        "幸福感",
+        "集中力",
+        "イライラ",
+        "冷静さ"
+      ],
+      "correctAnswer": "イライラ",
+      "explanation": "「irritability」は「イライラ」「 раздражительность」という意味です。些細なことにも腹を立てやすく、落ち着いていられない状態を表します。ストレスや睡眠不足、ホルモンバランスの乱れなどが原因となることがあります。\n\n例：Irritability can be a symptom of stress. (イライラはストレスの症状の一つである可能性があります。)"
+    },
+    {
+      "id": 66,
+      "value": "ran out of patience",
+      "options": [
+        "我慢強くなった",
+        "辛抱強くなった",
+        "我慢できなくなった",
+        "寛容になった"
+      ],
+      "correctAnswer": "我慢できなくなった",
+      "explanation": "「run out of patience」は「我慢できなくなる」「堪忍袋の緒が切れる」という意味です。何かに対して長時間耐え忍んだ結果、ついに限界に達して怒りや不満を爆発させる状態を表します。\n\n例：I ran out of patience with his constant complaining. (彼の絶え間ない不満に私は我慢できなくなった。)"
+    },
+    {
+      "id": 67,
+      "value": "nonsense",
+      "options": [
+        "常識",
+        "非常識",
+        "意味不明なこと",
+        "秘密"
+      ],
+      "correctAnswer": "意味不明なこと",
+      "explanation": "「nonsense」は「無意味なこと」「ばかげたこと」「ナンセンス」という意味です。論理や理性に反する、または価値のない言動や考えを指します。軽蔑や嘲笑のニュアンスを伴うことがあります。\n\n例：What you're saying is complete nonsense. (あなたが言っていることは全くのナンセンスだ。)"
+    },
+    {
+      "id": 68,
+      "value": "apologize",
+      "options": [
+        "謝罪する",
+        "感謝する",
+        "賞賛する",
+        "無視する"
+      ],
+      "correctAnswer": "謝罪する",
+      "explanation": "「apologize」は「謝罪する」「わびる」という意味です。自分の過ちや失礼な行為を認め、相手に許しを請う行為を表します。誠意をもって謝ることが重要です。\n\n例：I want to apologize for my mistake. (私の過ちについて謝罪したいです。)"
+    },
+    {
+      "id": 69,
+      "value": "cloak",
+      "options": [
+        "帽子",
+        "マフラー",
+        "クローク",
+        "手袋"
+      ],
+      "correctAnswer": "クローク",
+      "explanation": "「cloak」は「クローク」「マント」という意味です。防寒や装飾のために身につける、袖のないゆったりとした上着を指します。中世の騎士や魔法使いなどが身につけているイメージがあります。\n\n例：She wore a red cloak to the party. (彼女はパーティーに赤いクロークを着て行った。)"
+    },
+    {
+      "id": 70,
+      "value": "spoil",
+      "options": [
+        "甘やかす",
+        "台無しにする",
+        "守る",
+        "教える"
+      ],
+      "correctAnswer": "台無しにする",
+      "explanation": "「spoil」は「台無しにする」「駄目にする」という意味です。食べ物を腐らせたり、計画を失敗させたり、人の楽しみを奪ったりする行為を指します。また、子供を甘やかすという意味もあります。\n\n例：Don't spoil the movie for me! (映画のネタバレをしないで！)"
+    },
+    {
+      "id": 71,
+      "value": "jealous",
+      "options": [
+        "勇敢",
+        "嫉妬深い",
+        "寛容",
+        "優しい"
+      ],
+      "correctAnswer": "嫉妬深い",
+      "explanation": "「jealous」は「嫉妬深い」「妬む」という意味です。他人が持っているものや才能、幸運などを羨ましく思い、不快な感情を抱く状態を表します。恋愛関係においては、相手が他の人に気を引かれることへの不安を意味します。\n\n例：He was jealous of his brother's success. (彼は兄弟の成功を妬んでいた。)"
+    },
+    {
+      "id": 72,
+      "value": "move on",
+      "options": [
+        "忘れる",
+        "続ける",
+        "進む",
+        "戻る"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「move on」は「次に進む」「続ける」という意味です。過去の出来事や問題を乗り越えて、新しい段階に進むことを表します。また、話題を変える際にも使われます。\n\n例：Let's move on to the next topic. (次の話題に移りましょう。)"
+    },
+    {
+      "id": 73,
+      "value": "comforting",
+      "options": [
+        "慰める",
+        "邪魔する",
+        "混乱させる",
+        "無視する"
+      ],
+      "correctAnswer": "慰める",
+      "explanation": "「comforting」は「慰める」「安心させる」という意味です。誰かが悲しんでいるときや苦しんでいるときに、寄り添い、励ます行為を指します。言葉や行動で相手の心を癒すことが目的です。\n\n例：She was comforting her friend after the breakup. (彼女は別れの後に友達を慰めていた。)"
+    },
+    {
+      "id": 74,
+      "value": "get her way",
+      "options": [
+        "道を譲る",
+        "自分の思い通りにする",
+        "道に迷う",
+        "道を尋ねる"
+      ],
+      "correctAnswer": "自分の思い通りにする",
+      "explanation": "「get her way」は「自分の思い通りにする」「わがままを通す」という意味です。他者の意見や都合を考慮せず、自分の要求や希望を実現する行動を表します。しばしば否定的なニュアンスを伴います。\n\n例：She always gets her way by crying. (彼女はいつも泣くことで自分の思い通りにする。)"
+    },
+    {
+      "id": 75,
+      "value": "defends",
+      "options": [
+        "攻撃する",
+        "守る",
+        "無視する",
+        "非難する"
+      ],
+      "correctAnswer": "守る",
+      "explanation": "「defend」は「守る」「擁護する」という意味です。人や物、場所などを攻撃や危険から保護する行為を指します。また、意見や信念を支持し、反論や批判から守ることも意味します。\n\n例：She always defends her friends. (彼女はいつも友達を守る。)"
+    },
+    {
+      "id": 76,
+      "value": "son of a bitch",
+      "options": [
+        "正直者",
+        "怠け者",
+        "嫌なやつ",
+        "賢い人"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「son of a bitch」は、非常に不快な状況や人物に対して使われる侮辱的な表現です。親しい間柄で冗談として使われることもありますが、基本的には強い怒りや軽蔑を表します。フォーマルな場では避けるべき表現です。"
+    },
+    {
+      "id": 77,
+      "value": "get it?",
+      "options": [
+        "理解しましたか？",
+        "手に入れましたか？",
+        "終わりましたか？",
+        "忘れましたか？"
+      ],
+      "correctAnswer": "理解しましたか？",
+      "explanation": "「Get it?」は、「理解できた？」や「わかった？」という意味の口語的な表現です。ジョークや比喩を言った後に、相手に意図が伝わったか確認する際に使われます。類似の表現には「Do you understand?」があります。"
+    },
+    {
+      "id": 78,
+      "value": "come to her senses",
+      "options": [
+        "正気に戻る",
+        "怒り出す",
+        "眠りにつく",
+        "旅行に出かける"
+      ],
+      "correctAnswer": "正気に戻る",
+      "explanation": "「come to one's senses」は、「正気に戻る」「分別を取り戻す」という意味のイディオムです。非合理的または不適切な行動をしていた人が、理性的な判断を取り戻す状況を表します。"
+    },
+    {
+      "id": 79,
+      "value": "get your way",
+      "options": [
+        "道を譲る",
+        "思い通りにする",
+        "迷子になる",
+        "道を尋ねる"
+      ],
+      "correctAnswer": "思い通りにする",
+      "explanation": "「get one's way」は、「自分の思い通りにする」「わがままを通す」という意味のイディオムです。しばしば、他人を操ったり、ごり押ししたりして目的を達成するニュアンスを含みます。"
+    },
+    {
+      "id": 80,
+      "value": "dumb",
+      "options": [
+        "賢い",
+        "おもしろい",
+        "ばかげた",
+        "優しい"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「dumb」は、「ばかげた」「愚かな」という意味の形容詞です。知性の欠如や、考えの浅はかさを表す際に使われます。口語的な表現であり、フォーマルな場面では「foolish」などが適切です。"
+    },
+    {
+      "id": 81,
+      "value": "defending",
+      "options": [
+        "攻撃する",
+        "擁護する",
+        "無視する",
+        "非難する"
+      ],
+      "correctAnswer": "擁護する",
+      "explanation": "「defend」は、「擁護する」「守る」という意味の動詞です。人や意見、信念などを支持し、批判や攻撃から保護する行為を指します。"
+    },
+    {
+      "id": 82,
+      "value": "weird",
+      "options": [
+        "普通",
+        "奇妙な",
+        "美しい",
+        "退屈な"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "「weird」は、「奇妙な」「風変わりな」という意味の形容詞です。通常とは異なる、あるいは理解しがたいものを指します。しばしば、ネガティブなニュアンスを含みますが、興味深いものを指す場合もあります。"
+    },
+    {
+      "id": 83,
+      "value": "nuts",
+      "options": [
+        "ナッツ",
+        "正常な",
+        "怒って",
+        "退屈な"
+      ],
+      "correctAnswer": "ナッツ",
+      "explanation": "この文脈では、文字通りの意味で「ナッツ」を指しています。食べ物アレルギーに関する会話で使われています。"
+    },
+    {
+      "id": 84,
+      "value": "I have no idea",
+      "options": [
+        "全く知らない",
+        "よく知っている",
+        "少し知っている",
+        "気にしない"
+      ],
+      "correctAnswer": "全く知らない",
+      "explanation": "「I have no idea」は、「全く知らない」「見当もつかない」という意味の一般的な表現です。質問や問題に対して、答えや解決策がわからない時に使われます。"
+    },
+    {
+      "id": 85,
+      "value": "puts things in perspective",
+      "options": [
+        "遠ざける",
+        "明確にする",
+        "混乱させる",
+        "気にしない"
+      ],
+      "correctAnswer": "明確にする",
+      "explanation": "「put things in perspective」は、「物事を大局的に見る」「視野を広げる」という意味のイディオムです。困難な状況や問題に直面した際に、より広い視点から状況を捉え直すことで、問題の重要性や深刻さを相対化する効果があります。"
+    },
+    {
+      "id": 86,
+      "value": "cool",
+      "options": [
+        "暑い",
+        "かっこいい",
+        "大丈夫",
+        "冷たい"
+      ],
+      "correctAnswer": "大丈夫",
+      "explanation": "この文脈では、「cool」は「大丈夫」「問題ない」という意味のスラングです。相手の行為を許容したり、状況に同意したりする際に使われます。"
+    },
+    {
+      "id": 87,
+      "value": "dirty work",
+      "options": [
+        "汚い仕事",
+        "重要な仕事",
+        "楽しい仕事",
+        "簡単な仕事"
+      ],
+      "correctAnswer": "汚い仕事",
+      "explanation": "「dirty work」は、「汚い仕事」「裏仕事」という意味のイディオムです。他人を不快にさせたり、道徳的に問題があったりするような仕事や行為を指します。しばしば、誰かが自分に不利なことをさせる状況で使われます。"
+    },
+    {
+      "id": 88,
+      "value": "do one's bidding",
+      "options": [
+        "命令に従う",
+        "自由にする",
+        "無視する",
+        "助けを求める"
+      ],
+      "correctAnswer": "命令に従う",
+      "explanation": "「do someone's bidding」は、「人の言いなりになる」「人の命令に従う」という意味のイディオムです。権力者や上位者の指示に従って行動することを指します。"
+    },
+    {
+      "id": 89,
+      "value": "fair enough",
+      "options": [
+        "不公平だ",
+        "まあ良いだろう",
+        "当然だ",
+        "間違っている"
+      ],
+      "correctAnswer": "まあ良いだろう",
+      "explanation": "「fair enough」は、「まあ良いだろう」「なるほど」という意味の表現です。相手の言い分や提案に納得した時に使われます。必ずしも完全に同意しているわけではなく、状況を受け入れるニュアンスを含みます。"
+    },
+    {
+      "id": 90,
+      "value": "all right?",
+      "options": [
+        "元気ですか？",
+        "準備は良いですか？",
+        "終わりましたか？",
+        "出発しますか？"
+      ],
+      "correctAnswer": "元気ですか？",
+      "explanation": "「all right?」は、「元気ですか？」「大丈夫ですか？」という意味の挨拶や問いかけとして使われます。相手の体調や状況を気遣う際に使われる一般的な表現です。"
+    },
+    {
+      "id": 91,
+      "value": "get out of here",
+      "options": [
+        "ここから出て行け",
+        "信じられない",
+        "出発しよう",
+        "落ち着いて"
+      ],
+      "correctAnswer": "出発しよう",
+      "explanation": "この文脈では、「get out of here」は「ここから出発しよう」という意味で使われています。場所を離れることを提案する際に使われます。"
+    },
+    {
+      "id": 92,
+      "value": "ruin everything",
+      "options": [
+        "すべてを修復する",
+        "すべてを台無しにする",
+        "すべてを改善する",
+        "すべてを忘れる"
+      ],
+      "correctAnswer": "すべてを台無しにする",
+      "explanation": "「ruin everything」は、「すべてを台無しにする」「すべてを破壊する」という意味の表現です。計画や状況が完全に失敗することを指します。"
+    },
+    {
+      "id": 93,
+      "value": "thematically inaccurate",
+      "options": [
+        "テーマ的に正確",
+        "テーマ的に不正確",
+        "文法的に正確",
+        "文法的に不正確"
+      ],
+      "correctAnswer": "テーマ的に不正確",
+      "explanation": "「thematically inaccurate」は、「テーマ的に不正確」「テーマに合っていない」という意味です。特定のテーマや設定にそぐわない要素や描写を指します。"
+    },
+    {
+      "id": 94,
+      "value": "applaud",
+      "options": [
+        "非難する",
+        "称賛する",
+        "無視する",
+        "批判する"
+      ],
+      "correctAnswer": "称賛する",
+      "explanation": "「applaud」は、「拍手喝采する」「称賛する」という意味の動詞です。人や行為、業績などを高く評価し、賞賛する際に使われます。"
+    },
+    {
+      "id": 95,
+      "value": "commitment",
+      "options": [
+        "義務",
+        "責任",
+        "献身",
+        "才能"
+      ],
+      "correctAnswer": "献身",
+      "explanation": "「commitment」は、「献身」「尽力」「約束」という意味の名詞です。特定の目標や活動に時間やエネルギーを費やすことを指します。"
+    },
+    {
+      "id": 96,
+      "value": "anything better to do",
+      "options": [
+        "より良い仕事",
+        "他に良いこと",
+        "簡単な仕事",
+        "手伝うこと"
+      ],
+      "correctAnswer": "他に良いこと",
+      "explanation": "「anything better to do」は、「他に良いこと（することがある）」という意味の表現です。退屈な状況や無意味な行為に対して、他に有意義な活動があることを示唆する際に使われます。"
+    },
+    {
+      "id": 97,
+      "value": "privileges",
+      "options": [
+        "義務",
+        "特権",
+        "罰",
+        "仕事"
+      ],
+      "correctAnswer": "特権",
+      "explanation": "「privileges」は、「特権」「特典」という意味の名詞です。特定の個人や集団に与えられた特別な権利や利益を指します。"
+    },
+    {
+      "id": 98,
+      "value": "disguised",
+      "options": [
+        "変装した",
+        "隠された",
+        "明らかにした",
+        "忘れた"
+      ],
+      "correctAnswer": "変装した",
+      "explanation": "「disguised」は、「変装した」「偽装した」という意味の形容詞です。外見や身なりを変えて、正体を隠している状態を表します。"
+    },
+    {
+      "id": 99,
+      "value": "still",
+      "options": [
+        "まだ",
+        "決して",
+        "いつも",
+        "すでに"
+      ],
+      "correctAnswer": "まだ",
+      "explanation": "「still」は、「まだ」「相変わらず」という意味の副詞です。ある状態や状況が継続していることを表します。"
+    },
+    {
+      "id": 100,
+      "value": "I'll be back",
+      "options": [
+        "戻ってこない",
+        "戻ってくる",
+        "出発する",
+        "忘れる"
+      ],
+      "correctAnswer": "戻ってくる",
+      "explanation": "「I'll be back」は「戻ってくる」という意味の一般的なフレーズです。ターミネーターの有名なセリフとしても知られています。"
+    }
+  ]
+}

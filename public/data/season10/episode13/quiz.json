@@ -1,0 +1,1072 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "thoughtful",
+      "options": [
+        "思慮深い",
+        "無頓着な",
+        "退屈な",
+        "悲しい"
+      ],
+      "correctAnswer": "思慮深い",
+      "explanation": "「thoughtful」は、他人のことをよく考え、親切な行動をするという意味です。相手の気持ちを理解し、思いやりを持って行動する人を表す際に使われます。贈り物や行動が相手への配慮に満ちている場合にも使用されます。\n\n例：It was very thoughtful of you to bring me flowers. (花を持ってきてくれて、どうもありがとう。)"
+    },
+    {
+      "id": 2,
+      "value": "thermodynamics",
+      "options": [
+        "熱力学",
+        "流体力学",
+        "電磁気学",
+        "量子力学"
+      ],
+      "correctAnswer": "熱力学",
+      "explanation": "「thermodynamics」は、熱と他のエネルギー形態との関係を研究する物理学の分野です。特に、エネルギーの変換、移動、およびその影響について扱います。日常的な現象から工業プロセスまで、幅広い応用があります。\n\n例：The laws of thermodynamics govern the efficiency of engines. (熱力学の法則は、エンジンの効率を支配する。)"
+    },
+    {
+      "id": 3,
+      "value": "take each other for granted",
+      "options": [
+        "お互いを当然と思う",
+        "お互いを尊敬する",
+        "お互いを支え合う",
+        "お互いを理解する"
+      ],
+      "correctAnswer": "お互いを当然と思う",
+      "explanation": "「take someone for granted」は、誰かの存在や行為を当然のことと思い、感謝や評価をしないという意味です。親しい関係や日常的なサポートに対して、その価値を認識しなくなる状態を指します。\n\n例：Don't take your friends for granted; appreciate their support. (友達を当然だと思わないで。彼らのサポートに感謝して。)"
+    },
+    {
+      "id": 4,
+      "value": "quote",
+      "options": [
+        "引用する",
+        "無視する",
+        "忘れる",
+        "誤解する"
+      ],
+      "correctAnswer": "引用する",
+      "explanation": "「quote」は、誰かの言葉や文章をそのまま取り上げて使うという意味です。元の発言者の意図や表現を正確に伝えるために用いられます。学術的な文脈やニュース記事などでよく見られます。\n\n例：She quoted Shakespeare in her speech. (彼女はスピーチでシェイクスピアを引用した。)"
+    },
+    {
+      "id": 5,
+      "value": "meaning to",
+      "options": [
+        "〜するつもり",
+        "〜するのを避ける",
+        "〜するのを忘れる",
+        "〜するのを後悔する"
+      ],
+      "correctAnswer": "〜するつもり",
+      "explanation": "「mean to」は、「〜するつもりである」「〜しようと思っている」という意味を表します。何かを計画していたり、意図していたりする状況を示す際に使われます。\n\n例：I've been meaning to call you all week. (一週間ずっとあなたに電話しようと思っていたんだ。)"
+    },
+    {
+      "id": 6,
+      "value": "take an interest in",
+      "options": [
+        "興味を持つ",
+        "無視する",
+        "嫌う",
+        "軽蔑する"
+      ],
+      "correctAnswer": "興味を持つ",
+      "explanation": "「take an interest in」は、「〜に興味を持つ」という意味です。新しい趣味や分野、または人の生活や考え方など、何かに対して関心を示す際に使われます。\n\n例：He started to take an interest in photography. (彼は写真に興味を持ち始めた。)"
+    },
+    {
+      "id": 7,
+      "value": "fungal",
+      "options": [
+        "真菌性の",
+        "細菌性の",
+        "ウイルス性の",
+        "遺伝性の"
+      ],
+      "correctAnswer": "真菌性の",
+      "explanation": "「fungal」は、「真菌（カビやキノコなど）の」という意味です。医学的な文脈では、真菌による感染症を指すことが多いです。\n\n例：He developed a fungal infection on his foot. (彼は足に真菌感染症を発症した。)"
+    },
+    {
+      "id": 8,
+      "value": "hang out with",
+      "options": [
+        "一緒に過ごす",
+        "喧嘩する",
+        "無視する",
+        "別れる"
+      ],
+      "correctAnswer": "一緒に過ごす",
+      "explanation": "「hang out with」は、「〜とぶらぶらする」「〜と時間を過ごす」という意味です。友人や仲間とリラックスして過ごす状況を表します。\n\n例：I like to hang out with my friends on the weekends. (週末は友達と過ごすのが好きだ。)"
+    },
+    {
+      "id": 9,
+      "value": "allowance",
+      "options": [
+        "お小遣い",
+        "給料",
+        "貯金",
+        "借金"
+      ],
+      "correctAnswer": "お小遣い",
+      "explanation": "「allowance」は、「お小遣い」という意味です。定期的に与えられるお金や資源を指します。子どもが親からもらうお小遣いや、特定の目的のために割り当てられた予算などを表します。\n\n例：My parents give me a weekly allowance. (両親は私に毎週お小遣いをくれる。)"
+    },
+    {
+      "id": 10,
+      "value": "bumming everybody out",
+      "options": [
+        "みんなをがっかりさせる",
+        "みんなを喜ばせる",
+        "みんなを助ける",
+        "みんなを励ます"
+      ],
+      "correctAnswer": "みんなをがっかりさせる",
+      "explanation": "「bum someone out」は、「〜をがっかりさせる」「〜を落ち込ませる」という意味です。人の気分を悪くさせたり、楽しい雰囲気を壊したりする状況を表します。\n\n例：The bad news really bummed me out. (その悪い知らせは本当に私をがっかりさせた。)"
+    },
+    {
+      "id": 11,
+      "value": "hooked on",
+      "options": [
+        "夢中になっている",
+        "嫌っている",
+        "飽きている",
+        "恐れている"
+      ],
+      "correctAnswer": "夢中になっている",
+      "explanation": "「hooked on」は、「〜に夢中になっている」「〜にハマっている」という意味です。何かに対して強い興味を持ち、熱中している状態を表します。中毒に近いニュアンスも含むことがあります。\n\n例：I'm hooked on this new TV series. (この新しいテレビシリーズに夢中になっている。)"
+    },
+    {
+      "id": 12,
+      "value": "squeaky",
+      "options": [
+        "キーキーいう",
+        "滑らかな",
+        "静かな",
+        "丈夫な"
+      ],
+      "correctAnswer": "キーキーいう",
+      "explanation": "「squeaky」は、「キーキーいう」「軋む」という意味です。特に床、ドア、靴などが音を立てる様子を表します。\n\n例：The old wooden floor was very squeaky. (その古い木の床はとてもキーキーいった。)"
+    },
+    {
+      "id": 13,
+      "value": "turn into",
+      "options": [
+        "〜に変わる",
+        "〜を無視する",
+        "〜を避ける",
+        "〜を破壊する"
+      ],
+      "correctAnswer": "〜に変わる",
+      "explanation": "「turn into」は、「〜に変わる」「〜になる」という意味です。あるものが別のものに変化する過程を表します。\n\n例：The caterpillar turned into a butterfly. (そのイモムシは蝶に変わった。)"
+    },
+    {
+      "id": 14,
+      "value": "on sequence",
+      "options": [
+        "連続",
+        "秘密",
+        "偶然",
+        "中断"
+      ],
+      "correctAnswer": "連続",
+      "explanation": "on sequenceは連続という意味です。例えば、a previously on sequenceは、前回までのあらすじという意味になります。\n\n例：a previously on sequence of the drama(ドラマのあらすじ)"
+    },
+    {
+      "id": 26,
+      "value": "shag",
+      "options": [
+        "豪華な毛織物",
+        "粗末な小屋",
+        "鋭い痛み",
+        "明るい光"
+      ],
+      "correctAnswer": "豪華な毛織物",
+      "explanation": "「shag」は、ここでは長い毛足のラグやカーペットを指します。1960年代から70年代にかけて流行したスタイルで、その独特の質感と見た目が特徴です。口語的な表現で、「shag carpet」のように使われます。"
+    },
+    {
+      "id": 27,
+      "value": "take an interest in",
+      "options": [
+        "興味を持つ",
+        "投資する",
+        "無視する",
+        "利用する"
+      ],
+      "correctAnswer": "興味を持つ",
+      "explanation": "「take an interest in」は、「〜に興味を持つ」「〜に関心を示す」という意味の一般的なイディオムです。人、物、活動など、対象は何でも構いません。日常会話やビジネスシーンでも広く使われます。\n例：He started to take an interest in photography. (彼は写真に興味を持ち始めた。)"
+    },
+    {
+      "id": 28,
+      "value": "the drapes",
+      "options": [
+        "友人たち",
+        "カーテン",
+        "料理のレシピ",
+        "古い本"
+      ],
+      "correctAnswer": "カーテン",
+      "explanation": "「drapes」は、厚手のカーテンを指す言葉です。特に、装飾的で重厚なカーテンを指すことが多いです。アメリカ英語でよく使われる表現です。"
+    },
+    {
+      "id": 29,
+      "value": "take someone for granted",
+      "options": [
+        "当然のことと思う",
+        "尊敬する",
+        "嫉妬する",
+        "恐れる"
+      ],
+      "correctAnswer": "当然のことと思う",
+      "explanation": "「take someone for granted」は、「〜を当然のことと思う」「〜のありがたみを忘れる」という意味のイディオムです。相手の努力や存在を軽視するニュアンスが含まれます。\n例：Don't take your health for granted. (健康を当然のことと思ってはいけない。)"
+    },
+    {
+      "id": 30,
+      "value": "ridiculous",
+      "options": [
+        "ばかげた",
+        "素晴らしい",
+        "正直な",
+        "退屈な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「ridiculous」は、「ばかげた」「馬鹿らしい」「滑稽な」という意味の形容詞です。非論理的、不合理、または非常に奇妙で笑いを誘うような状況を表すのに使われます。\n例：That's a ridiculous idea! (それはばかげた考えだ！)"
+    },
+    {
+      "id": 31,
+      "value": "make an effort",
+      "options": [
+        "努力する",
+        "休憩する",
+        "批判する",
+        "提案する"
+      ],
+      "correctAnswer": "努力する",
+      "explanation": "「make an effort」は、「努力する」「尽力する」という意味の一般的なイディオムです。特定の目標を達成するために意識的に行動することを指します。\n例：I made an effort to learn Japanese. (私は日本語を学ぶために努力した。)"
+    },
+    {
+      "id": 32,
+      "value": "go ahead",
+      "options": [
+        "どうぞ",
+        "急いで",
+        "戻って",
+        "我慢して"
+      ],
+      "correctAnswer": "どうぞ",
+      "explanation": "「go ahead」は、「どうぞ」「進んでください」「始めてください」という意味の表現です。許可を与える、または相手の行動を促す際に使われます。また、「(計画など)を進める」という意味もあります。\n例：Go ahead and start without me. (私を待たずに始めてください。)"
+    },
+    {
+      "id": 33,
+      "value": "uncork a geyser of nonsense",
+      "options": [
+        "無意味なことを爆発させる",
+        "秘密を明らかにする",
+        "問題を解決する",
+        "新しい趣味を始める"
+      ],
+      "correctAnswer": "無意味なことを爆発させる",
+      "explanation": "「uncork a geyser of nonsense」は、比喩的な表現で、「nonsense（ナンセンス、ばかげたこと）」が「geyser（間欠泉）」のように噴き出す様子を表しています。Sheldon独特の言い回しで、人が関心を持つと、途方もない、または無意味なことを話し始めるという意味合いです。"
+    },
+    {
+      "id": 34,
+      "value": "tear it up",
+      "options": [
+        "めちゃくちゃにする",
+        "修理する",
+        "飾る",
+        "隠す"
+      ],
+      "correctAnswer": "めちゃくちゃにする",
+      "explanation": "「tear it up」は、文字通りには「それを引き裂く」という意味ですが、ここでは「（床を）剥がす」「取り壊す」という意味で使われています。また、スラングとして「大騒ぎする」「楽しむ」という意味もあります。"
+    },
+    {
+      "id": 35,
+      "value": "hang on",
+      "options": [
+        "頑張って",
+        "待って",
+        "諦めて",
+        "参加して"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「hang on」は、「ちょっと待って」「つかまって」という意味の一般的な口語表現です。電話での会話や、相手に一時的に待つように伝える際によく使われます。また、「頑張って」という意味合いで励ます際にも使用されます。"
+    },
+    {
+      "id": 36,
+      "value": "no offense",
+      "options": [
+        "気を悪くしないで",
+        "おめでとう",
+        "ありがとう",
+        "頑張って"
+      ],
+      "correctAnswer": "気を悪くしないで",
+      "explanation": "「no offense」は、「気を悪くしないで」「悪気はないんだけど」という意味のフレーズです。相手に不快感を与える可能性のある発言の前に、前置きとして使われます。相手への配慮を示す表現です。"
+    },
+    {
+      "id": 37,
+      "value": "rig up",
+      "options": [
+        "設置する",
+        "壊す",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "設置する",
+      "explanation": "「rig up」は、「〜を設置する」「〜を組み立てる」「〜を間に合わせで作り上げる」という意味の句動詞です。特に、一時的なものや即席のものを設営する際に使われます。\n例：They rigged up a temporary shelter from the rain. (彼らは雨をしのぐために一時的な避難所を設営した。)"
+    },
+    {
+      "id": 38,
+      "value": "flung",
+      "options": [
+        "投げた",
+        "拾った",
+        "隠した",
+        "壊した"
+      ],
+      "correctAnswer": "投げた",
+      "explanation": "「flung」は、「fling」の過去形・過去分詞です。「fling」は、「〜を投げつける」「〜を放り投げる」という意味の動詞です。勢いよく投げるイメージがあります。\n例：She flung the door open. (彼女はドアを勢いよく開けた。)"
+    },
+    {
+      "id": 39,
+      "value": "heading out",
+      "options": [
+        "出かける",
+        "戻ってくる",
+        "休憩する",
+        "到着する"
+      ],
+      "correctAnswer": "出かける",
+      "explanation": "「heading out」は、「出かける」「出発する」という意味の口語的な表現です。特定の場所へ向かうことを表します。\n例：We're heading out to the movies. (私たちは映画に出かけます。)"
+    },
+    {
+      "id": 40,
+      "value": "tiny bottles",
+      "options": [
+        "小さなボトル",
+        "大きなボトル",
+        "空のボトル",
+        "新しいボトル"
+      ],
+      "correctAnswer": "小さなボトル",
+      "explanation": "ここでは、ホテルなどによく置いてある、シャンプーやリンスなどのアメニティグッズとして提供される小型のボトルを指します。"
+    },
+    {
+      "id": 41,
+      "value": "put the rug down",
+      "options": [
+        "じゅうたんを敷く",
+        "じゅうたんをしまう",
+        "じゅうたんを洗う",
+        "じゅうたんを売る"
+      ],
+      "correctAnswer": "じゅうたんを敷く",
+      "explanation": "「put down」は、句動詞で様々な意味がありますが、ここでは「（物を）置く」「敷く」という意味で使われています。「rug」は、敷物、じゅうたんのことです。"
+    },
+    {
+      "id": 42,
+      "value": "nailing a couple of the boards down",
+      "options": [
+        "板を釘で打ち付ける",
+        "板を接着剤で固定する",
+        "板をペンキで塗る",
+        "板を交換する"
+      ],
+      "correctAnswer": "板を釘で打ち付ける",
+      "explanation": "「nail down」は、釘で打ち付けて固定するという意味です。ここでは、床の板を固定しようとしたことを指しています。"
+    },
+    {
+      "id": 43,
+      "value": "left little holes",
+      "options": [
+        "小さな穴を残した",
+        "大きな穴を開けた",
+        "穴を埋めた",
+        "穴を隠した"
+      ],
+      "correctAnswer": "小さな穴を残した",
+      "explanation": "文字通り、小さな穴が残ったという意味ですが、ここでは床に釘を打ったことによってできた小さな穴のことを指しています。"
+    },
+    {
+      "id": 44,
+      "value": "playing tennis against the drapes",
+      "options": [
+        "カーテンに向かってテニスをする",
+        "退屈な時間を過ごす",
+        "現実逃避をする",
+        "運動不足を解消する"
+      ],
+      "correctAnswer": "退屈な時間を過ごす",
+      "explanation": "これは比喩的な表現で、実際にはカーテンに向かってテニスをしているわけではなく、やることがなくて退屈している、時間を持て余しているという意味です。"
+    },
+    {
+      "id": 45,
+      "value": "since we got married",
+      "options": [
+        "結婚してから",
+        "離婚してから",
+        "出会ってから",
+        "別れてから"
+      ],
+      "correctAnswer": "結婚してから",
+      "explanation": "「since」は「～以来」という意味で、ここでは結婚してからの時間経過を表しています。"
+    },
+    {
+      "id": 46,
+      "value": "tear it up and replace the whole thing",
+      "options": [
+        "全部剥がして交換する",
+        "修理して再利用する",
+        "ペンキを塗り直す",
+        "新しい家具を置く"
+      ],
+      "correctAnswer": "全部剥がして交換する",
+      "explanation": "床全体を剥がして、新しいものと交換するという意味です。「replace the whole thing」は「全体を交換する」という意味です。"
+    },
+    {
+      "id": 47,
+      "value": "mind and hand",
+      "options": [
+        "知性と技術",
+        "心と体",
+        "理論と実践",
+        "夢と現実"
+      ],
+      "correctAnswer": "知性と技術",
+      "explanation": "「mind and hand」は、MIT（マサチューセッツ工科大学）のモットーであり、知性と技術の両方を重視するという意味を表しています。"
+    },
+    {
+      "id": 48,
+      "value": "rig up a pulley system",
+      "options": [
+        "滑車システムを設置する",
+        "警報システムを設置する",
+        "監視カメラを設置する",
+        "照明システムを設置する"
+      ],
+      "correctAnswer": "滑車システムを設置する",
+      "explanation": "「pulley system」は滑車システムを意味し、ここではそれを使って移動することを提案しています。"
+    },
+    {
+      "id": 49,
+      "value": "in a harness",
+      "options": [
+        "ハーネスを使って",
+        "ヘルメットをかぶって",
+        "手袋をして",
+        "特別な靴を履いて"
+      ],
+      "correctAnswer": "ハーネスを使って",
+      "explanation": "「harness」は安全帯、ハーネスを意味します。ここでは、滑車システムで移動する際に安全のためにハーネスを着用することを想定しています。"
+    },
+    {
+      "id": 50,
+      "value": "giant slingshot",
+      "options": [
+        "巨大なパチンコ",
+        "小さな望遠鏡",
+        "特別な掃除機",
+        "最新のゲーム機"
+      ],
+      "correctAnswer": "巨大なパチンコ",
+      "explanation": "「slingshot」はパチンコを意味します。ここでは、巨大なパチンコで自分を壁に飛ばすというジョークとして使われています。"
+    },
+    {
+      "id": 51,
+      "value": "strained",
+      "options": [
+        "緊張した",
+        "リラックスした",
+        "満足した",
+        "興奮した"
+      ],
+      "correctAnswer": "緊張した",
+      "explanation": "「strained」は、関係などが「緊張している」「ぎくしゃくしている」という意味です。物理的な緊張だけでなく、精神的な緊張や関係性の悪化を表す際にも使われます。\n\n例：Their relationship has been strained since the argument. (その口論以来、彼らの関係はぎくしゃくしている。)"
+    },
+    {
+      "id": 52,
+      "value": "x plus one",
+      "options": [
+        "相手より少しだけ",
+        "相手より大幅に",
+        "相手と全く同じ",
+        "相手より少なく"
+      ],
+      "correctAnswer": "相手より少しだけ",
+      "explanation": "この文脈では、相手の愛情表現をわずかに上回ることを示すユーモラスな表現です。「x」は相手の愛情の量を表し、「plus one」はその量に1を加えることで、ほんの少しだけ多く愛していると主張しています。"
+    },
+    {
+      "id": 53,
+      "value": "phone in",
+      "options": [
+        "電話をかける",
+        "手を抜く",
+        "集中する",
+        "頑張る"
+      ],
+      "correctAnswer": "手を抜く",
+      "explanation": "「phone in」は、本来すべきことを十分にせず、手を抜く、いい加減に済ませるという意味です。仕事やパフォーマンスなどが不熱心であることを指します。\n\n例：He's just phoning it in at work these days. (彼は最近、仕事で手を抜いている。)"
+    },
+    {
+      "id": 54,
+      "value": "infatuation",
+      "options": [
+        "嫌悪感",
+        "倦怠期",
+        "熱愛",
+        "友情"
+      ],
+      "correctAnswer": "熱愛",
+      "explanation": "「infatuation」は、一時的で強い熱情、特に恋愛における強い夢中状態を指します。冷静な判断を欠くほどの強い感情を意味することがあります。\n\n例：Their infatuation didn't last long. (彼らの熱愛は長くは続かなかった。)"
+    },
+    {
+      "id": 55,
+      "value": "mellow into",
+      "options": [
+        "激化する",
+        "悪化する",
+        "落ち着く",
+        "冷却期間"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「mellow into」は、時間とともに穏やかになる、円熟味を増すという意味です。関係性が落ち着き、より快適で安定した状態に変化することを表します。\n\n例：Their relationship mellowed into a comfortable friendship. (彼らの関係は落ち着いて、快適な友情へと変わった。)"
+    },
+    {
+      "id": 56,
+      "value": "blown away",
+      "options": [
+        "無視した",
+        "退屈した",
+        "感銘を受けた",
+        "落胆した"
+      ],
+      "correctAnswer": "感銘を受けた",
+      "explanation": "「blown away」は、非常に感動した、圧倒されたという意味です。驚きや感銘を表す際に使われます。\n\n例：I was blown away by the beauty of the scenery. (その景色の美しさに圧倒された。)"
+    },
+    {
+      "id": 57,
+      "value": "plot out",
+      "options": [
+        "計画する",
+        "無視する",
+        "隠蔽する",
+        "実行する"
+      ],
+      "correctAnswer": "計画する",
+      "explanation": "「plot out」は、詳細な計画を立てる、戦略を練るという意味です。地図や図面上で場所を特定する意味合いもあります。\n\n例：We need to plot out our route before we start the hike. (ハイキングを始める前に、ルートを計画する必要がある。)"
+    },
+    {
+      "id": 58,
+      "value": "level-nine",
+      "options": [
+        "初級",
+        "中級",
+        "上級",
+        "最上級"
+      ],
+      "correctAnswer": "最上級",
+      "explanation": "この文脈では、ゲームやRPGで使われる「レベル」という概念を比喩的に用いて、困難さや厄介さの度合いを表現しています。「level-nine」は非常に高いレベルであり、ここでは「おむつ交換が非常に大変な赤ちゃん」をユーモラスに表現しています。"
+    },
+    {
+      "id": 59,
+      "value": "mark them down",
+      "options": [
+        "書き留める",
+        "無視する",
+        "忘れる",
+        "捨てる"
+      ],
+      "correctAnswer": "書き留める",
+      "explanation": "「mark down」は、情報を書き留める、記録するという意味です。ここでは、音の発生場所を地図に記録する作業を指しています。\n\n例：Mark down the important points in your notebook. (重要なポイントをノートに書き留めてください。)"
+    },
+    {
+      "id": 60,
+      "value": "karaoke song",
+      "options": [
+        "得意な歌",
+        "好きな歌",
+        "嫌いな歌",
+        "新しい歌"
+      ],
+      "correctAnswer": "得意な歌",
+      "explanation": "文脈から「karaoke song」は、いつも歌う定番の歌、または得意な歌という意味合いで使用されています。"
+    },
+    {
+      "id": 61,
+      "value": "failing state",
+      "options": [
+        "成功している状態",
+        "安定している状態",
+        "悪化している状態",
+        "改善している状態"
+      ],
+      "correctAnswer": "悪化している状態",
+      "explanation": "「failing state」は、状態が悪化している、うまくいっていないという意味です。ここでは、関係性がうまくいっていない状況を指しています。\n\n例：The company is in a failing state due to poor management. (その会社は経営が悪いため、経営不振の状態にある。)"
+    },
+    {
+      "id": 62,
+      "value": "spur of the moment",
+      "options": [
+        "計画的に",
+        "慎重に",
+        "衝動的に",
+        "過去に"
+      ],
+      "correctAnswer": "衝動的に",
+      "explanation": "「spur of the moment」は、衝動的に、成り行きで、という意味です。計画や準備なしに、その場の勢いで行動することを指します。\n\n例：We decided to go to the beach on the spur of the moment. (私たちは衝動的にビーチに行くことに決めた。)"
+    },
+    {
+      "id": 63,
+      "value": "dumps me",
+      "options": [
+        "愛してくれる",
+        "助けてくれる",
+        "裏切る",
+        "私を捨てる"
+      ],
+      "correctAnswer": "私を捨てる",
+      "explanation": "「dump」は、恋人や配偶者を捨てる、関係を解消するという意味です。ここでは、ペニーが自分を捨てる（別れる）という意味で使われています。\n\n例：She dumped him after finding out he was cheating. (彼が浮気をしていることを知って、彼女は彼を捨てた。)"
+    },
+    {
+      "id": 64,
+      "value": "get away",
+      "options": [
+        "近づく",
+        "逃げる",
+        "攻撃する",
+        "無視する"
+      ],
+      "correctAnswer": "逃げる",
+      "explanation": "「get away」は、逃げる、避けるという意味です。ここでは、蜘蛛から逃げるためにSheldonがAmyの上を歩いたという状況を表しています。\n\n例：The thief tried to get away from the police. (泥棒は警察から逃げようとした。)"
+    },
+    {
+      "id": 65,
+      "value": "engage in",
+      "options": [
+        "参加する",
+        "避ける",
+        "観察する",
+        "妨害する"
+      ],
+      "correctAnswer": "参加する",
+      "explanation": "「engage in」は、～に従事する、～に参加するという意味です。活動や行動に積極的に関わることを表します。\n\n例：I like to engage in outdoor activities. (私はアウトドア活動に参加するのが好きだ。)"
+    },
+    {
+      "id": 66,
+      "value": "public display of affection",
+      "options": [
+        "個人的な感情",
+        "公的な愛情表現",
+        "秘密の関係",
+        "友情の証"
+      ],
+      "correctAnswer": "公的な愛情表現",
+      "explanation": "「public display of affection」は、公共の場での愛情表現、つまり人前でキスをしたり抱き合ったりする行為を指します。頭文字をとって「PDA」と略されることもあります。"
+    },
+    {
+      "id": 67,
+      "value": "Earl Grey",
+      "options": [
+        "紅茶の種類",
+        "コーヒーの種類",
+        "ハーブティーの種類",
+        "日本茶の種類"
+      ],
+      "correctAnswer": "紅茶の種類",
+      "explanation": "「Earl Grey」は、ベルガモットの香りをつけた紅茶の一種です。独特の香りが特徴で、世界中で広く親しまれています。"
+    },
+    {
+      "id": 68,
+      "value": "Good Lord",
+      "options": [
+        "素晴らしい",
+        "かわいそうに",
+        "なんてことだ",
+        "問題ない"
+      ],
+      "correctAnswer": "なんてことだ",
+      "explanation": "「Good Lord」は、驚き、不満、軽蔑などの感情を表す感嘆詞です。日本語の「なんてことだ」「おやまあ」などに相当します。\n\n例：Good Lord, what a mess! (なんてことだ、ひどい有様だ！)"
+    },
+    {
+      "id": 69,
+      "value": "cheer you up",
+      "options": [
+        "悲しませる",
+        "心配させる",
+        "元気づける",
+        "混乱させる"
+      ],
+      "correctAnswer": "元気づける",
+      "explanation": "「cheer up」は、元気づける、励ますという意味です。誰かを幸せな気分にさせるために使われます。\n\n例：I tried to cheer her up with a funny story. (私は彼女を面白い話で元気づけようとした。)"
+    },
+    {
+      "id": 70,
+      "value": "Pythagorean theorem",
+      "options": [
+        "円周率",
+        "ピタゴラスの定理",
+        "万有引力の法則",
+        "相対性理論"
+      ],
+      "correctAnswer": "ピタゴラスの定理",
+      "explanation": "「Pythagorean theorem」は、直角三角形の斜辺の2乗が他の2辺の2乗の和に等しいという幾何学の定理です。a² + b² = c² で表されます。"
+    },
+    {
+      "id": 71,
+      "value": "grid",
+      "options": [
+        "表",
+        "地図",
+        "グラフ",
+        "格子"
+      ],
+      "correctAnswer": "格子",
+      "explanation": "gridとは、縦横に線が引かれた格子のことです。ここでは、部屋の見取り図を格子状に区切って表しています。"
+    },
+    {
+      "id": 72,
+      "value": "creature",
+      "options": [
+        "創造性",
+        "生き物",
+        "家具",
+        "無生物"
+      ],
+      "correctAnswer": "生き物",
+      "explanation": "「creature」は、生き物、特に人間以外の動物を指すことが多いですが、ここでは子供を指す比喩表現として使われています。"
+    },
+    {
+      "id": 73,
+      "value": "bounce",
+      "options": [
+        "跳ねる",
+        "歩く",
+        "座る",
+        "寝る"
+      ],
+      "correctAnswer": "跳ねる",
+      "explanation": "「bounce」は、跳ねる、弾むという意味です。ここでは、Howardが何かを祝うように跳ねる動作を表しています。"
+    },
+    {
+      "id": 74,
+      "value": "retire",
+      "options": [
+        "引退する",
+        "開始する",
+        "続ける",
+        "復活する"
+      ],
+      "correctAnswer": "引退する",
+      "explanation": "「retire」は、引退する、退職するという意味ですが、ここでは「（レパートリーから）外す」という意味で使われています。もう歌わない方が良い、という意味合いを含みます。"
+    },
+    {
+      "id": 75,
+      "value": "Never mind",
+      "options": [
+        "気にしないで",
+        "おめでとう",
+        "ありがとう",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "気にしないで",
+      "explanation": "「Never mind」は、気にしないで、どうでもいい、という意味です。提案や発言を撤回する際などに使われます。\n\n例：Never mind, it's not important. (気にしないで、大したことじゃない。)"
+    },
+    {
+      "id": 76,
+      "value": "make an effort",
+      "options": [
+        "努力を無駄にする",
+        "努力をする",
+        "言い訳をする",
+        "休憩を取る"
+      ],
+      "correctAnswer": "努力をする",
+      "explanation": "「make an effort」とは、何かを達成するために意識的に努力することを意味します。特に困難な状況や、普段しないことを行う場合に用いられます。例文：He made an effort to arrive on time.（彼は時間通りに着くように努力した。）"
+    },
+    {
+      "id": 77,
+      "value": "effortless",
+      "options": [
+        "骨の折れる",
+        "簡単な",
+        "効果的な",
+        "退屈な"
+      ],
+      "correctAnswer": "簡単な",
+      "explanation": "「effortless」とは、努力や苦労が全く感じられない様子を表します。自然でスムーズな印象を与える形容詞です。例文：She made it look effortless. (彼女はそれを簡単そうに見せた。)"
+    },
+    {
+      "id": 78,
+      "value": "whip up",
+      "options": [
+        "ゆっくり調理する",
+        "急いで作る",
+        "隠蔽する",
+        "無視する"
+      ],
+      "correctAnswer": "急いで作る",
+      "explanation": "「whip up」とは、料理や計画などを手早く、簡単に作り上げることを意味します。例文：I can whip up a quick dinner. (すぐに夕食を作れるよ。)"
+    },
+    {
+      "id": 79,
+      "value": "might as well",
+      "options": [
+        "〜しない方が良い",
+        "〜する価値がある",
+        "〜した方がましだ",
+        "〜するべきではない"
+      ],
+      "correctAnswer": "〜した方がましだ",
+      "explanation": "「might as well」とは、「どうせ〜するなら、〜した方がましだ」という意味合いで、他に良い選択肢がない場合や、消極的な同意を示す際に使われます。例文：We might as well start walking. (歩き始めた方がましだ。)"
+    },
+    {
+      "id": 80,
+      "value": "check out",
+      "options": [
+        "確認する",
+        "無視する",
+        "非難する",
+        "隠す"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check out」とは、何かを調べて確認する、または場所や物を訪れて見るという意味です。例文：Let's check out the new cafe. (新しいカフェをチェックしてみよう。)"
+    },
+    {
+      "id": 81,
+      "value": "get the hang of it",
+      "options": [
+        "諦める",
+        "理解する",
+        "忘れる",
+        "混乱する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get the hang of it」とは、何か新しいことや難しいことのコツをつかむ、理解するという意味です。例文：It takes time to get the hang of it. (コツを掴むには時間がかかる。)"
+    },
+    {
+      "id": 82,
+      "value": "easy peasy",
+      "options": [
+        "非常に難しい",
+        "簡単",
+        "複雑",
+        "不可能"
+      ],
+      "correctAnswer": "簡単",
+      "explanation": "「easy peasy」とは、非常に簡単であることを表す口語的な表現です。「easy peasy lemon squeezy」という形で使われることもあります。例文：The test was easy peasy. (テストはとても簡単だった。)"
+    },
+    {
+      "id": 83,
+      "value": "pop",
+      "options": [
+        "爆発する",
+        "静止する",
+        "沈む",
+        "安定する"
+      ],
+      "correctAnswer": "爆発する",
+      "explanation": "「pop」とは、小さな爆発音や、何かが突然現れる様子を表します。ここでは、何かがはじけるような感覚を指しています。例文: The balloon popped. (風船がはじけた。)"
+    },
+    {
+      "id": 84,
+      "value": "on purpose",
+      "options": [
+        "偶然に",
+        "故意に",
+        "秘密に",
+        "無意識に"
+      ],
+      "correctAnswer": "故意に",
+      "explanation": "「on purpose」とは、意図的に、わざとという意味です。例文：He did it on purpose. (彼はそれをわざとやった。)"
+    },
+    {
+      "id": 85,
+      "value": "stay on top of",
+      "options": [
+        "無視する",
+        "管理する",
+        "混乱する",
+        "忘れる"
+      ],
+      "correctAnswer": "管理する",
+      "explanation": "「stay on top of」とは、物事をきちんと把握し、管理し続けるという意味です。遅れを取らないように、最新の状態を維持することを指します。例文：You need to stay on top of your work. (仕事の状況を常に把握しておく必要がある。)"
+    },
+    {
+      "id": 86,
+      "value": "tailored to",
+      "options": [
+        "無視された",
+        "適合した",
+        "一般的な",
+        "不適切な"
+      ],
+      "correctAnswer": "適合した",
+      "explanation": "「tailored to」とは、特定のニーズや目的に合わせて特別に作られた、適合されたという意味です。例文：The program is tailored to the needs of the students. (そのプログラムは学生のニーズに合わせて作られている。)"
+    },
+    {
+      "id": 87,
+      "value": "get this party started",
+      "options": [
+        "パーティーを終わらせる",
+        "始める",
+        "キャンセルする",
+        "準備する"
+      ],
+      "correctAnswer": "始める",
+      "explanation": "「get this party started」とは、何か楽しいことや重要なことを始めるという意味です。例文：Let's get this party started! (さあ、始めよう！)"
+    },
+    {
+      "id": 88,
+      "value": "draft",
+      "options": [
+        "最終版",
+        "下書き",
+        "要約",
+        "削除"
+      ],
+      "correctAnswer": "下書き",
+      "explanation": "「draft」とは、文書や計画などの最初のバージョン、下書きを意味します。例文：This is only a draft. (これはまだ下書きです。)"
+    },
+    {
+      "id": 89,
+      "value": "acceptable",
+      "options": [
+        "容認できない",
+        "容認できる",
+        "理想的な",
+        "無関係な"
+      ],
+      "correctAnswer": "容認できる",
+      "explanation": "「acceptable」とは、受け入れられる、容認できるという意味です。例文：The offer is acceptable. (その申し出は受け入れられる。)"
+    },
+    {
+      "id": 90,
+      "value": "subsection",
+      "options": [
+        "章",
+        "小区分",
+        "全体",
+        "序文"
+      ],
+      "correctAnswer": "小区分",
+      "explanation": "「subsection」とは、文書や法律などのセクションの下位区分を意味します。より詳細な情報を整理するために使用されます。例文：See subsection 3.2 for more details. (詳細は3.2項を参照してください。)"
+    },
+    {
+      "id": 91,
+      "value": "calls attention to",
+      "options": [
+        "無視する",
+        "注目を集める",
+        "隠す",
+        "軽減する"
+      ],
+      "correctAnswer": "注目を集める",
+      "explanation": "「calls attention to」とは、何かに注目を集める、注意を引くという意味です。例文：The bright colors call attention to the painting. (鮮やかな色が絵に注目を集める。)"
+    },
+    {
+      "id": 92,
+      "value": "as is condition",
+      "options": [
+        "新品の状態",
+        "現状のままの状態",
+        "改善された状態",
+        "未完成の状態"
+      ],
+      "correctAnswer": "現状のままの状態",
+      "explanation": "「as is condition」とは、現状のままの状態で購入または受け入れるという意味です。修理や変更は行われません。例文：The car is sold as is. (その車は現状のまま販売されます。)"
+    },
+    {
+      "id": 93,
+      "value": "nostalgia",
+      "options": [
+        "未来",
+        "郷愁",
+        "現実",
+        "無関心"
+      ],
+      "correctAnswer": "郷愁",
+      "explanation": "「nostalgia」とは、過去への憧憬、懐かしさを意味します。特に幸福だった過去を思い出す感情を指します。例文：He felt a wave of nostalgia. (彼は郷愁の念にかられた。)"
+    },
+    {
+      "id": 94,
+      "value": "protocol",
+      "options": [
+        "議定書",
+        "ルール",
+        "計画",
+        "秘密"
+      ],
+      "correctAnswer": "ルール",
+      "explanation": "「protocol」とは、公式な手順やルール、儀礼を意味します。特に国際的な会議や外交の場で用いられることが多いです。例文：The diplomatic protocol was strictly observed. (外交儀礼は厳格に守られた。)"
+    },
+    {
+      "id": 95,
+      "value": "appreciate",
+      "options": [
+        "軽視する",
+        "感謝する",
+        "無視する",
+        "嫌悪する"
+      ],
+      "correctAnswer": "感謝する",
+      "explanation": "「appreciate」とは、感謝する、高く評価するという意味です。例文：I appreciate your help. (あなたの助けに感謝します。)"
+    },
+    {
+      "id": 96,
+      "value": "figure it out",
+      "options": [
+        "解決する",
+        "忘れる",
+        "無視する",
+        "複雑にする"
+      ],
+      "correctAnswer": "解決する",
+      "explanation": "「figure out」とは、理解する、解決する、解明するという意味です。例文：I need to figure out how to fix this. (これをどう直すか考えなければならない。)"
+    },
+    {
+      "id": 97,
+      "value": "pivot",
+      "options": [
+        "固定",
+        "回転",
+        "直進",
+        "停止"
+      ],
+      "correctAnswer": "回転",
+      "explanation": "「pivot」とは、軸を中心に回転する、方向転換するという意味です。ビジネスやスポーツの分野でもよく使われます。例文：The company decided to pivot to a new market. (会社は新しい市場に方向転換することを決定した。)"
+    },
+    {
+      "id": 98,
+      "value": "unacceptable",
+      "options": [
+        "容認できる",
+        "容認できない",
+        "理想的な",
+        "一般的な"
+      ],
+      "correctAnswer": "容認できない",
+      "explanation": "「unacceptable」とは、受け入れられない、容認できないという意味です。例文：His behavior was unacceptable. (彼の行動は容認できなかった。)"
+    },
+    {
+      "id": 99,
+      "value": "indicate",
+      "options": [
+        "隠す",
+        "示す",
+        "無視する",
+        "否定する"
+      ],
+      "correctAnswer": "示す",
+      "explanation": "「indicate」とは、示す、指し示す、暗示するという意味です。例文：The sign indicates the way to the station. (標識は駅への道を示している。)"
+    },
+    {
+      "id": 100,
+      "value": "clause",
+      "options": [
+        "文",
+        "条項",
+        "段落",
+        "章"
+      ],
+      "correctAnswer": "条項",
+      "explanation": "「clause」とは、契約書や法律などの条項、規定を意味します。例文：There is a penalty clause in the contract. (契約書には違約条項がある。)"
+    }
+  ]
+}

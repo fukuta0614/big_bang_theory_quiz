@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "profound",
+      "options": [
+        "表面的な",
+        "深刻な",
+        "一時的な",
+        "友好的な"
+      ],
+      "correctAnswer": "深刻な",
+      "explanation": "「profound」は、感情、影響、理解などが「深い」「重大な」という意味を持つ形容詞です。表面的なものとは対照的に、本質に迫るような状況を表す際に使われます。例文：The book offered profound insights into human nature.（その本は人間性に対する深い洞察を提供した。）"
+    },
+    {
+      "id": 2,
+      "value": "dalliance",
+      "options": [
+        "真剣な議論",
+        "束の間の関係",
+        "長期的な計画",
+        "友好的な挨拶"
+      ],
+      "correctAnswer": "束の間の関係",
+      "explanation": "「dalliance」は、真剣な交際ではなく、遊びや軽い関係、または時間つぶしなどを指す名詞です。恋愛関係に限らず、興味本位で何かを試す場合にも使われます。例文：She had a brief dalliance with painting before returning to music.（彼女は音楽に戻る前に、絵画との短い戯れを経験した。）"
+    },
+    {
+      "id": 3,
+      "value": "hardcore",
+      "options": [
+        "穏やかな",
+        "熱心な",
+        "無関心な",
+        "形式的な"
+      ],
+      "correctAnswer": "熱心な",
+      "explanation": "「hardcore」は、何かに非常に熱心である、または過激であることを意味する形容詞です。程度が激しい状態を表す際に用いられます。例文：He is a hardcore fan of that band.（彼はそのバンドの熱狂的なファンだ。）"
+    },
+    {
+      "id": 4,
+      "value": "onto something",
+      "options": [
+        "何かを失って",
+        "何かを理解して",
+        "何かを無視して",
+        "何かを避けて"
+      ],
+      "correctAnswer": "何かを理解して",
+      "explanation": "「be onto something」は、正しい方向に進んでいる、何か重要なことや真実に気づき始めているという意味のイディオムです。例文：I think she's onto something with this new marketing strategy.（彼女はこの新しいマーケティング戦略で何かをつかんでいると思う。）"
+    },
+    {
+      "id": 5,
+      "value": "random",
+      "options": [
+        "計画的な",
+        "無作為の",
+        "重要な",
+        "一般的な"
+      ],
+      "correctAnswer": "無作為の",
+      "explanation": "「random」は、予測不可能で、特定のパターンや目的がないという意味の形容詞です。偶然に起こる事柄や、特に選ばれていないものに使われます。例文：We chose a random sample of participants for the study.（私たちは研究のために無作為に選んだ参加者のサンプルを選んだ。）"
+    },
+    {
+      "id": 6,
+      "value": "precocious",
+      "options": [
+        "のろまな",
+        "早熟な",
+        "平均的な",
+        "内気な"
+      ],
+      "correctAnswer": "早熟な",
+      "explanation": "「precocious」は、子供が年齢に比べて非常に発達している、特に知能や才能において優れているという意味の形容詞です。例文：She was a precocious child who could read at the age of four. (彼女は4歳で読書ができた早熟な子供だった。)"
+    },
+    {
+      "id": 7,
+      "value": "variety show",
+      "options": [
+        "単一テーマの番組",
+        "バラエティ番組",
+        "ニュース番組",
+        "ドキュメンタリー番組"
+      ],
+      "correctAnswer": "バラエティ番組",
+      "explanation": "「variety show」は、歌、ダンス、コメディ、マジックなど、さまざまなエンターテイメントを提供する番組を指します。視覚的にも楽しめる要素が多く、幅広い年齢層に人気があります。例文：The old variety show featured a mix of music and comedy acts.（その古いバラエティ番組は音楽とコメディの要素を混ぜて提供していた。）"
+    },
+    {
+      "id": 8,
+      "value": "sort through",
+      "options": [
+        "無視する",
+        "整理する",
+        "隠す",
+        "急いで行う"
+      ],
+      "correctAnswer": "整理する",
+      "explanation": "「sort through」は、多くの物の中から必要なものを選び出す、または問題を解決するために詳細に検討するという意味の句動詞です。感情や情報などを整理する際にも使われます。例文：I need to sort through these documents before the meeting.（会議の前に、これらの書類を整理する必要があります。）"
+    },
+    {
+      "id": 9,
+      "value": "screw around",
+      "options": [
+        "真剣に取り組む",
+        "ふざける、遊ぶ",
+        "きちんと整理する",
+        "正直に話す"
+      ],
+      "correctAnswer": "ふざける、遊ぶ",
+      "explanation": "「screw around」は、時間を無駄にする、ふざける、または不倫をするという意味を持つ口語的な表現です。深刻な状況ではない、または真剣に取り組んでいない状況を示唆します。例文：Stop screwing around and get back to work.（ふざけてないで、仕事に戻りなさい。）"
+    },
+    {
+      "id": 10,
+      "value": "Hang on",
+      "options": [
+        "諦める",
+        "待つ",
+        "進む",
+        "忘れる"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「Hang on」は、電話を切らずに待つ、または少し待つようにという意味で使われる口語表現です。また、困難な状況で持ちこたえる、頑張るという意味も持ちます。例文：Hang on a second, I'll check the schedule.（ちょっと待って、スケジュールを確認します。）"
+    },
+    {
+      "id": 11,
+      "value": "trust me",
+      "options": [
+        "私を信じて",
+        "私を疑って",
+        "私を無視して",
+        "私を避けて"
+      ],
+      "correctAnswer": "私を信じて",
+      "explanation": "「trust me」は、自分の言葉や行動を信じてほしいときに使う表現です。相手に安心感を与えたり、説得力を高めたりする効果があります。例文：Trust me, I know what I'm doing.（私を信じて、私は何をしているかわかっています。）"
+    },
+    {
+      "id": 12,
+      "value": "falling apart",
+      "options": [
+        "団結する",
+        "崩壊する",
+        "成長する",
+        "静止する"
+      ],
+      "correctAnswer": "崩壊する",
+      "explanation": "「falling apart」は、物理的なものだけでなく、関係や計画などがうまくいかなくなる、崩壊するという意味で使われます。例文：Their marriage is falling apart. (彼らの結婚は崩壊しつつある。)"
+    },
+    {
+      "id": 13,
+      "value": "to myself",
+      "options": [
+        "他人に",
+        "自分自身に",
+        "社会に",
+        "政府に"
+      ],
+      "correctAnswer": "自分自身に",
+      "explanation": "「to myself」は、誰にも話さずに自分だけで何かをすること、または自分だけの秘密にすることを意味します。例文：I kept the good news to myself for a while. (しばらくの間、良い知らせを自分だけの秘密にしておいた。)"
+    },
+    {
+      "id": 14,
+      "value": "for the moment",
+      "options": [
+        "永遠に",
+        "今のところ",
+        "過去に",
+        "未来に"
+      ],
+      "correctAnswer": "今のところ",
+      "explanation": "「for the moment」は、「今のところ」「当面は」という意味で、一時的な状況や決定を表す際に使われます。例文：Let's leave that question aside for the moment.（その質問は今のところ置いておきましょう。）"
+    },
+    {
+      "id": 15,
+      "value": "to make you trust me",
+      "options": [
+        "私を信じさせるために",
+        "私を疑わせるために",
+        "私を無視させるために",
+        "私を避けさせるために"
+      ],
+      "correctAnswer": "私を信じさせるために",
+      "explanation": "「to make you trust me」は、相手に自分を信用してもらうために何ができるか、またはどのような行動を取るべきかという意図を示す表現です。信頼関係を築きたい時に使われます。例文：What can I do to make you trust me again?（もう一度私を信じてもらうために、私は何をすればいいのだろうか？）"
+    },
+    {
+      "id": 16,
+      "value": "bet",
+      "options": [
+        "賭ける",
+        "疑う",
+        "提案する",
+        "後悔する"
+      ],
+      "correctAnswer": "賭ける",
+      "explanation": "「bet」は、何かが起こると確信している時に使われる表現で、「きっと～だろう」という意味合いを持ちます。例文：I bet it will rain tomorrow. (明日はきっと雨だろう。)"
+    },
+    {
+      "id": 17,
+      "value": "trust",
+      "options": [
+        "信用",
+        "不信",
+        "無関心",
+        "軽蔑"
+      ],
+      "correctAnswer": "信用",
+      "explanation": "「trust」は、人や物事に対して信頼を寄せること、またはその信頼の状態を指します。信用は人間関係や社会生活において非常に重要な要素です。例文：Building trust takes time and effort.（信用を築くには時間と努力が必要です。）"
+    },
+    {
+      "id": 18,
+      "value": "understand",
+      "options": [
+        "誤解する",
+        "理解する",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「understand」は、物事や状況、人の気持ちなどを理解することを意味します。理解することは、コミュニケーションや問題解決において非常に重要です。例文：Do you understand what I'm saying?（私が言っていることを理解していますか？）"
+    },
+    {
+      "id": 19,
+      "value": "remind",
+      "options": [
+        "思い出させる",
+        "忘れさせる",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "思い出させる",
+      "explanation": "「remind」は、人に何かを思い出させる、または注意を促すという意味です。忘れてはいけないことや重要な情報を伝える際に使われます。例文：Remind me to buy milk.（牛乳を買うのを思い出させて。）"
+    },
+    {
+      "id": 20,
+      "value": "space between us",
+      "options": [
+        "距離を置く",
+        "親密になる",
+        "協力する",
+        "競争する"
+      ],
+      "correctAnswer": "距離を置く",
+      "explanation": "「space between us」は、物理的または感情的な距離を置くことを意味します。関係を改善したり、自己反省のために距離が必要な場合に使われます。例文：I think we need some space between us to figure things out. (私たちは物事を整理するために、少し距離を置く必要があると思います。)"
+    },
+    {
+      "id": 21,
+      "value": "traumatic",
+      "options": [
+        "楽しい",
+        "外傷的な",
+        "平凡な",
+        "安全な"
+      ],
+      "correctAnswer": "外傷的な",
+      "explanation": "「traumatic」は、精神的に深い傷を残すような、非常に苦痛な経験を指します。例文：The accident was a traumatic experience for her. (その事故は彼女にとって外傷的な経験だった。)"
+    },
+    {
+      "id": 22,
+      "value": "no longer",
+      "options": [
+        "いつも",
+        "もう～ない",
+        "すぐに",
+        "最近"
+      ],
+      "correctAnswer": "もう～ない",
+      "explanation": "「no longer」は、以前はそうだったことが、今はそうではないという意味を表します。例文：I am no longer interested in that. (私はもうそれには興味がない。)"
+    },
+    {
+      "id": 23,
+      "value": "falling apart",
+      "options": [
+        "団結する",
+        "崩壊する",
+        "成長する",
+        "静止する"
+      ],
+      "correctAnswer": "崩壊する",
+      "explanation": "「falling apart」は、物理的なものだけでなく、関係や計画などがうまくいかなくなる、崩壊するという意味で使われます。例文：Their marriage is falling apart. (彼らの結婚は崩壊しつつある。)"
+    },
+    {
+      "id": 24,
+      "value": "figure out",
+      "options": [
+        "無視する",
+        "理解する",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」は、問題を解決する、または何かを理解するという意味です。例文：I need to figure out how to fix this. (これをどうやって直すか理解する必要がある。)"
+    },
+    {
+      "id": 25,
+      "value": "hang up",
+      "options": [
+        "電話を切る",
+        "電話に出る",
+        "電話を保留する",
+        "電話をかける"
+      ],
+      "correctAnswer": "電話を切る",
+      "explanation": "「hang up」は、電話を切るという意味です。電話での会話を終える際に行う行為を指します。例文：She was so angry that she hung up on me. (彼女はとても怒っていたので、私に電話を切った。)"
+    },
+    {
+      "id": 26,
+      "value": "belongings",
+      "options": [
+        "所有物",
+        "感情",
+        "考え",
+        "思い出"
+      ],
+      "correctAnswer": "所有物",
+      "explanation": "「belongings」は、個人が所有している物を指します。特に可算名詞として複数形で使われ、身の回り品や私物を意味します。引っ越しや旅行の際によく使われる単語です。\n\n例：Please gather your belongings and exit the plane. (お荷物をおまとめになって、飛行機から降りてください。)"
+    },
+    {
+      "id": 27,
+      "value": "compulsive",
+      "options": [
+        "強制的な",
+        "任意の",
+        "怠惰な",
+        "創造的な"
+      ],
+      "correctAnswer": "強制的な",
+      "explanation": "「compulsive」は、強迫的な、衝動的なという意味です。何かをせずにはいられない、または制御できない状態を表します。心理学的な文脈でよく使われます。\n\n例：He had a compulsive need to check the locks. (彼は鍵をチェックせずにはいられない衝動に駆られた。)"
+    },
+    {
+      "id": 28,
+      "value": "ritual",
+      "options": [
+        "儀式",
+        "会議",
+        "休憩",
+        "食事"
+      ],
+      "correctAnswer": "儀式",
+      "explanation": "「ritual」は、儀式、決まった作法という意味です。特定の状況で繰り返される一連の行動を指し、宗教的な意味合いを持つこともあります。\n\n例：The tea ceremony is a traditional Japanese ritual. (茶道は日本の伝統的な儀式です。)"
+    },
+    {
+      "id": 29,
+      "value": "on the contrary",
+      "options": [
+        "それどころか",
+        "その結果",
+        "それにもかかわらず",
+        "したがって"
+      ],
+      "correctAnswer": "それどころか",
+      "explanation": "「on the contrary」は、それどころか、反対にという意味です。前の発言や意見を否定し、対照的な内容を提示する際に使われます。\n\n例：I thought the movie was boring. On the contrary, I found it quite exciting. (その映画は退屈だと思った。それどころか、とても面白かった。)"
+    },
+    {
+      "id": 30,
+      "value": "eccentricities",
+      "options": [
+        "奇行",
+        "才能",
+        "美しさ",
+        "謙虚さ"
+      ],
+      "correctAnswer": "奇行",
+      "explanation": "「eccentricity」は、奇行、風変わりな行動という意味です。常識から外れた、独特な行動や性格を指します。しばしばユーモラスな意味合いを含みます。\n\n例: His eccentricities made him a beloved character in the town. (彼の奇行は彼を町で愛される人物にした。)"
+    },
+    {
+      "id": 31,
+      "value": "friends with benefits",
+      "options": [
+        "仕事仲間",
+        "親友",
+        "友達以上恋人未満",
+        "家族"
+      ],
+      "correctAnswer": "友達以上恋人未満",
+      "explanation": "「friends with benefits」は、肉体関係を持つ友人関係を指します。恋愛感情を伴わない、カジュアルな関係を意味します。\n\n例：They decided to be friends with benefits to avoid commitment. (彼らは束縛を避けるために、友達以上恋人未満の関係になることに決めた。)"
+    },
+    {
+      "id": 32,
+      "value": "go through",
+      "options": [
+        "確認する",
+        "無視する",
+        "避ける",
+        "拒否する"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「go through」は、確認する、調べるという意味です。何かを詳細に調べたり、経験したりする際に使われます。\n\n例：I need to go through these documents before the meeting. (会議の前に、これらの書類を確認する必要があります。)"
+    },
+    {
+      "id": 33,
+      "value": "hypothermia",
+      "options": [
+        "低体温症",
+        "高血圧",
+        "火傷",
+        "熱中症"
+      ],
+      "correctAnswer": "低体温症",
+      "explanation": "「hypothermia」は、低体温症という意味です。体の温度が異常に低下した状態を指し、放置すると危険な状態になります。\n\n例：Exposure to the cold can lead to hypothermia. (寒さにさらされると低体温症になる可能性があります。)"
+    },
+    {
+      "id": 34,
+      "value": "heck of a",
+      "options": [
+        "ひどい",
+        "素晴らしい",
+        "普通の",
+        "つまらない"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「heck of a」は、強調表現で、素晴らしい、すごいという意味です。しばしば驚きや感嘆の気持ちを表します。\n\n例：That was one heck of a game! (それはすごい試合だった！)"
+    },
+    {
+      "id": 35,
+      "value": "embarrassing",
+      "options": [
+        "恥ずかしい",
+        "面白い",
+        "簡単な",
+        "幸せな"
+      ],
+      "correctAnswer": "恥ずかしい",
+      "explanation": "「embarrassing」は、恥ずかしい、きまり悪いという意味です。自分の行動や状況が恥ずかしいと感じる時に使われます。\n\n例：It was embarrassing to forget her name. (彼女の名前を忘れて恥ずかしかった。)"
+    },
+    {
+      "id": 36,
+      "value": "bosom",
+      "options": [
+        "胸",
+        "背中",
+        "腕",
+        "足"
+      ],
+      "correctAnswer": "胸",
+      "explanation": "「bosom」は、胸、特に女性の胸を指す古風な言葉です。現代ではあまり一般的ではありませんが、文学作品などで見られます。\n\n例：She held the baby close to her bosom. (彼女は赤ちゃんを胸に抱きしめた。)"
+    },
+    {
+      "id": 37,
+      "value": "smooshing",
+      "options": [
+        "押しつぶす",
+        "掃除する",
+        "持ち上げる",
+        "隠す"
+      ],
+      "correctAnswer": "押しつぶす",
+      "explanation": "「smooshing」は、押しつぶす、押し付けるという意味です。柔らかいものを押しつぶす様子を表す口語的な表現です。\n\n例: She was smooshing the clay in her hands. (彼女は粘土を両手で押しつぶしていた。)"
+    },
+    {
+      "id": 38,
+      "value": "tables work, too",
+      "options": [
+        "うまくいかない",
+        "役に立つ",
+        "危険である",
+        "無意味だ"
+      ],
+      "correctAnswer": "役に立つ",
+      "explanation": "この文脈では、シェルドンがドアをノックする代わりにテーブルを叩くことを試みており、「tables work, too」は「テーブルを叩くのも有効だ」という意味になります。つまり、別の方法でも目的が達成できることを示唆しています。\n\n例: If the front door is locked, the back door works, too. (もし正面のドアが鍵がかかっていたら、裏口も使えるよ。)"
+    },
+    {
+      "id": 39,
+      "value": "hands off",
+      "options": [
+        "手を離して",
+        "手伝って",
+        "気にしないで",
+        "無視して"
+      ],
+      "correctAnswer": "手を離して",
+      "explanation": "「hands off」は、手を離して、触らないでという意味です。特に自分のものに触られたくない時に使われます。\n\n例：Hands off my cake! (私のケーキに触らないで！)"
+    },
+    {
+      "id": 40,
+      "value": "blabbing",
+      "options": [
+        "秘密を漏らす",
+        "応援する",
+        "無視する",
+        "褒める"
+      ],
+      "correctAnswer": "秘密を漏らす",
+      "explanation": "「blab」は、秘密を漏らす、しゃべりすぎるという意味です。特に秘密にしておくべきことを話してしまう場合に用いられます。\n\n例：He blabbed about the surprise party. (彼はサプライズパーティーのことをしゃべってしまった。)"
+    },
+    {
+      "id": 41,
+      "value": "manscaping",
+      "options": [
+        "男性の体毛の手入れ",
+        "ガーデニング",
+        "料理",
+        "掃除"
+      ],
+      "correctAnswer": "男性の体毛の手入れ",
+      "explanation": "「manscaping」は、男性の体毛の手入れを指します。主に美容や衛生目的で行われます。\n\n例: He bought a kit for manscaping. (彼は男性の体毛の手入れキットを買った。)"
+    },
+    {
+      "id": 42,
+      "value": "calling about",
+      "options": [
+        "電話をかける",
+        "訪問する",
+        "手紙を書く",
+        "メールを送る"
+      ],
+      "correctAnswer": "電話をかける",
+      "explanation": "「call about」は〜について電話をするという意味です。特定の目的や問い合わせのために電話をかける際に使われます。\n\n例：I'm calling about the job application. (求人応募についてお電話しています。)"
+    },
+    {
+      "id": 43,
+      "value": "rate",
+      "options": [
+        "料金",
+        "速度",
+        "割合",
+        "評価"
+      ],
+      "correctAnswer": "料金",
+      "explanation": "「rate」は、料金、価格という意味です。サービスや商品の価格を尋ねる際によく使われます。\n\n例：What is the hourly rate for this service? (このサービスの時間料金はいくらですか？)"
+    },
+    {
+      "id": 44,
+      "value": "discount",
+      "options": [
+        "割引",
+        "追加料金",
+        "税金",
+        "保険"
+      ],
+      "correctAnswer": "割引",
+      "explanation": "「discount」は、割引という意味です。通常価格よりも安く購入できることを指します。\n\n例：Do you offer a student discount? (学生割引はありますか？)"
+    },
+    {
+      "id": 45,
+      "value": "going through this",
+      "options": [
+        "経験している",
+        "避けている",
+        "楽しんでいる",
+        "無視している"
+      ],
+      "correctAnswer": "経験している",
+      "explanation": "「go through」は、経験する、困難を乗り越えるという意味です。ここでは、結婚生活における困難な時期を経験していることを指します。\n\n例：We are going through a difficult time. (私たちは困難な時期を経験しています。)"
+    },
+    {
+      "id": 46,
+      "value": "intrude",
+      "options": [
+        "邪魔する",
+        "手伝う",
+        "招待する",
+        "歓迎する"
+      ],
+      "correctAnswer": "邪魔する",
+      "explanation": "「intrude」は、邪魔する、立ち入るという意味です。人のプライベートな空間や時間に不快な形で入り込むことを指します。\n\n例：I don't want to intrude on your privacy. (あなたのプライバシーを邪魔したくありません。)"
+    },
+    {
+      "id": 47,
+      "value": "rub Amy's nose in it",
+      "options": [
+        "エイミーに自慢する",
+        "エイミーを助ける",
+        "エイミーを無視する",
+        "エイミーに秘密にする"
+      ],
+      "correctAnswer": "エイミーに自慢する",
+      "explanation": "「rub someone's nose in it」は、人の失敗や不幸を喜んで見せつける、自慢するという意味です。相手を不快にさせる意図が含まれます。\n\n例：He won the lottery and rubbed his friends' noses in it. (彼は宝くじに当たって、友達に自慢した。)"
+    },
+    {
+      "id": 48,
+      "value": "get past this",
+      "options": [
+        "乗り越える",
+        "避ける",
+        "楽しむ",
+        "忘れる"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get past」は、乗り越える、克服するという意味です。困難や障害を乗り越えて先に進むことを指します。\n\n例：It's hard to get past the pain of losing someone. (誰かを失った痛みを乗り越えるのは難しい。)"
+    },
+    {
+      "id": 49,
+      "value": "eavesdropping",
+      "options": [
+        "立ち聞き",
+        "応援",
+        "秘密を守る",
+        "アドバイス"
+      ],
+      "correctAnswer": "立ち聞き",
+      "explanation": "「eavesdropping」は、立ち聞き、盗み聞きという意味です。他人の会話をこっそり聞くことを指します。\n\n例：I apologize for eavesdropping on your conversation. (あなたの会話を立ち聞きして申し訳ありません。)"
+    },
+    {
+      "id": 50,
+      "value": "alleviate",
+      "options": [
+        "軽減する",
+        "悪化させる",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "軽減する",
+      "explanation": "「alleviate」は、軽減する、和らげるという意味です。痛みや苦しみ、不安などを軽くする際に使われます。\n\n例：The medicine helped to alleviate her headache. (その薬は彼女の頭痛を和らげるのに役立った。)"
+    },
+    {
+      "id": 51,
+      "value": "above",
+      "options": [
+        "嫌がる",
+        "得意である",
+        "超越している",
+        "平均以下"
+      ],
+      "correctAnswer": "嫌がる",
+      "explanation": "ここでは「～するのを嫌がらない」という意味で使われています。「be above doing something」で「～するような人間ではない、～するのはプライドが許さない」という意味になります。例文：He is above cheating.（彼は浮気するような人間ではない）"
+    },
+    {
+      "id": 52,
+      "value": "naive",
+      "options": [
+        "賢い",
+        "世間知らず",
+        "経験豊富",
+        "批判的"
+      ],
+      "correctAnswer": "世間知らず",
+      "explanation": "「naive」は、世間知らずで単純、だまされやすいという意味です。特に、人が純粋で経験が浅いため、物事を悪い方向に考えない様子を表します。例文：She's a naive girl to believe his lies.（彼女は彼の嘘を信じるほど世間知らずだ。）"
+    },
+    {
+      "id": 53,
+      "value": "process",
+      "options": [
+        "無視する",
+        "処理する",
+        "促進する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "処理する",
+      "explanation": "ここでは「（情報を）処理する、理解する」という意味で使われています。新しい情報や感情を受け入れ、理解しようとする行為を指します。例文：I need time to process what happened.（何が起こったのか理解するのに時間が必要です。）"
+    },
+    {
+      "id": 54,
+      "value": "cockier",
+      "options": [
+        "内気",
+        "自信過剰",
+        "謙虚",
+        "不安"
+      ],
+      "correctAnswer": "自信過剰",
+      "explanation": "「cocky」は、自信過剰でうぬぼれているという意味です。良い意味ではなく、他人を見下しているようなニュアンスを含みます。例文：He's gotten cocky since he got the promotion. (彼は昇進してから自信過剰になった。)"
+    },
+    {
+      "id": 55,
+      "value": "sink in",
+      "options": [
+        "沈む",
+        "理解される",
+        "忘れられる",
+        "浮かび上がる"
+      ],
+      "correctAnswer": "理解される",
+      "explanation": "「sink in」は、（情報などが）徐々に理解される、浸透するという意味です。何かがすぐに理解されるのではなく、時間とともにじわじわと理解が深まる様子を表します。例文：It took a while for the news to sink in. (その知らせが理解されるまで時間がかかった。)"
+    },
+    {
+      "id": 56,
+      "value": "torn apart",
+      "options": [
+        "修復された",
+        "引き裂かれた",
+        "強化された",
+        "無視された"
+      ],
+      "correctAnswer": "引き裂かれた",
+      "explanation": "物理的に引き裂かれる意味の他に、感情や関係性が「めちゃくちゃになる」「崩壊する」という意味でも使われます。例文：The scandal tore their family apart.（そのスキャンダルで彼らの家族は崩壊した。）"
+    },
+    {
+      "id": 57,
+      "value": "stay on top of things",
+      "options": [
+        "物事を無視する",
+        "最新情報を把握する",
+        "過去にこだわる",
+        "秘密にする"
+      ],
+      "correctAnswer": "最新情報を把握する",
+      "explanation": "「stay on top of things」は、物事をきちんと把握し、管理するという意味です。問題が発生する前に予防したり、状況を常に把握しておくことを指します。例文：I try to stay on top of things at work so I don't fall behind.（仕事で遅れないように、常に最新情報を把握するようにしています。）"
+    },
+    {
+      "id": 58,
+      "value": "Bermuda Triangle",
+      "options": [
+        "安全な場所",
+        "危険な場所",
+        "秘密の場所",
+        "退屈な場所"
+      ],
+      "correctAnswer": "危険な場所",
+      "explanation": "「Bermuda Triangle」は、バミューダトライアングル（魔の三角地帯）のことですが、ここでは魅力的な女性に対する男性の欲望を比喩的に表現しています。危険で一度入ったら抜け出せない場所、という意味合いです。"
+    },
+    {
+      "id": 59,
+      "value": "be willing to",
+      "options": [
+        "乗り気でない",
+        "喜んで～する",
+        "強制されて",
+        "ためらって"
+      ],
+      "correctAnswer": "喜んで～する",
+      "explanation": "「be willing to」は、～する意思がある、喜んで～するという意味です。相手の意向を尋ねたり、自分が何かをすることに同意する場合に使われます。例文：I am willing to help you with your homework. (私はあなたの宿題を手伝う意思があります。)"
+    },
+    {
+      "id": 60,
+      "value": "make out",
+      "options": [
+        "仲直りする",
+        "言い訳する",
+        "キスをする",
+        "理解する"
+      ],
+      "correctAnswer": "キスをする",
+      "explanation": "「make out」は、キスをする、いちゃつくという意味です。軽いキスから情熱的なキスまで、幅広いニュアンスで使用されます。例文：They were making out in the back of the car. (彼らは車の後部座席でキスをしていた。)"
+    },
+    {
+      "id": 61,
+      "value": "Never gets old",
+      "options": [
+        "古臭い",
+        "いつも面白い",
+        "時代遅れ",
+        "飽き飽きする"
+      ],
+      "correctAnswer": "いつも面白い",
+      "explanation": "「Never gets old」は、何度聞いても、見ても、やっても面白い、飽きないという意味です。定番のジョークやネタなどに対して使われることが多いです。例文：That joke never gets old. (そのジョークは何度聞いても面白い。)"
+    },
+    {
+      "id": 62,
+      "value": "concerned about",
+      "options": [
+        "満足している",
+        "心配している",
+        "無関心である",
+        "興奮している"
+      ],
+      "correctAnswer": "心配している",
+      "explanation": "「concerned about」は、～について心配している、懸念しているという意味です。問題やリスクがあるかもしれないと不安に思っている状態を表します。例文：I'm concerned about his health. (彼の健康が心配です。)"
+    },
+    {
+      "id": 63,
+      "value": "weak moment",
+      "options": [
+        "強い瞬間",
+        "弱い瞬間",
+        "幸せな瞬間",
+        "悲しい瞬間"
+      ],
+      "correctAnswer": "弱い瞬間",
+      "explanation": "「weak moment」は、誘惑に負けやすい、自制心が働きにくい瞬間を指します。普段はしないようなことをしてしまう状況を表します。例文：I ate the whole cake in a moment of weakness. (つい弱気になって、ケーキを全部食べてしまった。)"
+    },
+    {
+      "id": 64,
+      "value": "Sparkletts guy",
+      "options": [
+        "非常に魅力的な人",
+        "平均的な人",
+        "非常に魅力に欠ける人",
+        "才能にあふれる人"
+      ],
+      "correctAnswer": "非常に魅力に欠ける人",
+      "explanation": "Sparklettsはアメリカの飲料水メーカーで、ここでは配達員を指します。誰もが知っているような存在で、特に目立つわけでもなく、ごく普通の人、あるいはそれ以下の人を指す比喩として使われています。"
+    },
+    {
+      "id": 65,
+      "value": "Marine Biologist",
+      "options": [
+        "内科医",
+        "海洋生物学者",
+        "宇宙飛行士",
+        "弁護士"
+      ],
+      "correctAnswer": "海洋生物学者",
+      "explanation": "「Marine Biologist」は、海洋生物学者という意味です。海洋生物、海洋環境を研究する専門家を指します。"
+    },
+    {
+      "id": 66,
+      "value": "fall behind",
+      "options": [
+        "成功する",
+        "遅れる",
+        "改善する",
+        "競争する"
+      ],
+      "correctAnswer": "遅れる",
+      "explanation": "「fall behind」は、遅れる、後れを取るという意味です。仕事や学業、あるいは目標達成など、様々な状況で使われます。例文：I don't want to fall behind in my studies. (勉強で遅れたくない。)"
+    },
+    {
+      "id": 67,
+      "value": "surface area",
+      "options": [
+        "内面",
+        "表面積",
+        "深層",
+        "重要性"
+      ],
+      "correctAnswer": "表面積",
+      "explanation": "ここでは女性の体の比喩として使われています。「surface area」は、表面積という意味です。数学や物理学で使われる用語ですが、ここでは体の広さをユーモラスに表現しています。"
+    },
+    {
+      "id": 68,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "どこに行くの？",
+        "何をしているの？",
+        "元気ですか？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、カジュアルな挨拶で「最近どう？」「何かあった？」という意味です。親しい間柄で使われることが多いです。例文：Hey, what's up? Long time no see! (やあ、元気？ 久しぶり！)"
+    },
+    {
+      "id": 69,
+      "value": "To a girl",
+      "options": [
+        "男と",
+        "女性と",
+        "動物と",
+        "物と"
+      ],
+      "correctAnswer": "女性と",
+      "explanation": "これは皮肉を込めた表現です。結婚相手が女性であることを強調することで、Sheldonのような男性ではないことをジョークとして表現しています。"
+    },
+    {
+      "id": 70,
+      "value": "seeing each other",
+      "options": [
+        "無視しあう",
+        "協力しあう",
+        "デートをする",
+        "会わないようにする"
+      ],
+      "correctAnswer": "デートをする",
+      "explanation": "「seeing each other」は、ここでは「会う」という意味合いで、関係があることを示唆しています。仕事場で顔を合わせるだけでなく、個人的な関係があることを含んでいます。"
+    },
+    {
+      "id": 71,
+      "value": "Better to have a guy be with you because he wants to",
+      "options": [
+        "相手に強制された方が良い",
+        "相手が望んで一緒にいる方が良い",
+        "お金で繋がっている方が良い",
+        "社会的な体裁を気にした方が良い"
+      ],
+      "correctAnswer": "相手が望んで一緒にいる方が良い",
+      "explanation": "相手が心から望んで一緒にいる方が良い、という意味合いです。打算や義務感ではなく、愛情や魅力を感じて一緒にいることの重要性を説いています。"
+    },
+    {
+      "id": 72,
+      "value": "Fun With Flags",
+      "options": [
+        "楽しく料理",
+        "楽しく勉強",
+        "楽しく国旗",
+        "楽しく運動"
+      ],
+      "correctAnswer": "楽しく国旗",
+      "explanation": "これはSheldonがプレゼンする番組のタイトルです。国旗に関する情報や知識を楽しく紹介するという意味合いが込められています。"
+    },
+    {
+      "id": 73,
+      "value": "cameraperson",
+      "options": [
+        "カメラマン",
+        "俳優",
+        "監督",
+        "照明技師"
+      ],
+      "correctAnswer": "カメラマン",
+      "explanation": "「cameraperson」は、カメラマン、撮影者のことです。映画やテレビ番組の撮影を担当する人を指します。gender-neutralな表現です。"
+    },
+    {
+      "id": 74,
+      "value": "co-host",
+      "options": [
+        "ゲスト",
+        "共同司会者",
+        "演出家",
+        "観客"
+      ],
+      "correctAnswer": "共同司会者",
+      "explanation": "「co-host」は、共同司会者、共同ホストのことです。番組やイベントなどで、メインの司会者と一緒に進行役を務める人を指します。"
+    },
+    {
+      "id": 75,
+      "value": "occasionally",
+      "options": [
+        "頻繁に",
+        "時々",
+        "毎日",
+        "いつも"
+      ],
+      "correctAnswer": "時々",
+      "explanation": "「occasionally」は、時々、たまにという意味です。頻繁ではないが、時々起こることを表します。例文：We occasionally go out for dinner. (私たちは時々夕食に出かけます。)"
+    },
+    {
+      "id": 76,
+      "value": "sabotage",
+      "options": [
+        "支援する",
+        "促進する",
+        "妨害する",
+        "改善する"
+      ],
+      "correctAnswer": "妨害する",
+      "explanation": "「sabotage」は、意図的に破壊活動を行う、または計画や関係を妨害することを意味します。この文脈では、レオナルドが無意識のうちに結婚を壊そうとしているのではないかという疑念を表しています。ビジネスや政治など、広範な状況で使用されます。"
+    },
+    {
+      "id": 77,
+      "value": "on some level",
+      "options": [
+        "完全に",
+        "ある程度",
+        "全く～ない",
+        "表面上は"
+      ],
+      "correctAnswer": "ある程度",
+      "explanation": "「on some level」は、「ある程度は」「いくらかは」という意味で、完全ではないがある程度同意や理解があることを示します。自分の感情や考えを控えめに表現する際に使われます。"
+    },
+    {
+      "id": 78,
+      "value": "withholding",
+      "options": [
+        "与える",
+        "保留する",
+        "共有する",
+        "理解する"
+      ],
+      "correctAnswer": "保留する",
+      "explanation": "「withhold」は、何かを保留する、与えない、隠すという意味です。ここでは、レオナルドの母親が愛情を彼に与えなかったことを指しています。情報や感情など、さまざまなものを対象に使われます。"
+    },
+    {
+      "id": 79,
+      "value": "dysfunctional",
+      "options": [
+        "正常な",
+        "機能不全の",
+        "良好な",
+        "一般的な"
+      ],
+      "correctAnswer": "機能不全の",
+      "explanation": "「dysfunctional」は、正常に機能しない、または望ましい結果を生み出さないという意味です。人間関係やシステムがうまくいっていない状態を表すのに使われます。"
+    },
+    {
+      "id": 80,
+      "value": "mull over",
+      "options": [
+        "無視する",
+        "熟考する",
+        "忘れる",
+        "否定する"
+      ],
+      "correctAnswer": "熟考する",
+      "explanation": "「mull over」は、じっくりと考える、熟考するという意味です。特に複雑な問題や決定について、時間をかけて考える際に用いられます。例文：I need some time to mull over your proposal. (あなたの提案について少し考える時間が必要です。)"
+    },
+    {
+      "id": 81,
+      "value": "accused",
+      "options": [
+        "非難した",
+        "褒めた",
+        "感謝した",
+        "許した"
+      ],
+      "correctAnswer": "非難した",
+      "explanation": "「accuse」は、非難する、告発するという意味です。ここでは、ペニーが以前にレオナルドを結婚を妨害しようとしていると非難したことを指しています。法的な文脈でも使われます。"
+    },
+    {
+      "id": 82,
+      "value": "lamest",
+      "options": [
+        "最も賢明な",
+        "最もつまらない",
+        "最も興味深い",
+        "最も感動的な"
+      ],
+      "correctAnswer": "最もつまらない",
+      "explanation": "「lame」は、つまらない、説得力がないという意味のスラングです。「lamest」はその最上級で、最もつまらない、ありきたりなという意味合いになります。特に言い訳や弁解に対して使われることが多いです。"
+    },
+    {
+      "id": 83,
+      "value": "wake up and leave me",
+      "options": [
+        "目覚めて私を助ける",
+        "目覚めて私を捨てる",
+        "目覚めて私を理解する",
+        "目覚めて私を愛する"
+      ],
+      "correctAnswer": "目覚めて私を捨てる",
+      "explanation": "「wake up and leave me」は、目が覚めて自分から離れていく、つまり、いつか自分に見切りをつけて去ってしまうのではないかという不安を表しています。関係における不安定感や自己不信感を反映する表現です。"
+    },
+    {
+      "id": 84,
+      "value": "reacting",
+      "options": [
+        "行動する",
+        "反応する",
+        "無視する",
+        "計画する"
+      ],
+      "correctAnswer": "反応する",
+      "explanation": "「react」は、反応する、対応するという意味です。ここでは、ペニーがレオナルドの行動に対してどのように反応してきたかを示しています。感情や行動に対する応答を表す一般的な単語です。"
+    },
+    {
+      "id": 85,
+      "value": "scared of losing each other",
+      "options": [
+        "互いに勝つことを恐れる",
+        "互いに理解しあうことを恐れる",
+        "互いに失うことを恐れる",
+        "互いに依存することを恐れる"
+      ],
+      "correctAnswer": "互いに失うことを恐れる",
+      "explanation": "「scared of losing each other」は、互いを失うことを恐れるという意味です。これは、関係における不安や脆弱性を表す表現で、相手を大切に思う気持ちの裏返しでもあります。"
+    },
+    {
+      "id": 86,
+      "value": "the end of time",
+      "options": [
+        "時間の始まり",
+        "時代の変化",
+        "時の終わり",
+        "永遠"
+      ],
+      "correctAnswer": "永遠",
+      "explanation": "「the end of time」は、永遠、いつまでもという意味の強調表現です。レオナルドがペニーへの永遠の愛を誓うロマンチックな文脈で使われています。時間や空間を超えた普遍的な概念を表す際に用いられます。"
+    },
+    {
+      "id": 87,
+      "value": "cheesy",
+      "options": [
+        "上品な",
+        "洗練された",
+        "クサい",
+        "感動的な"
+      ],
+      "correctAnswer": "クサい",
+      "explanation": "「cheesy」は、安っぽい、クサい、気障なという意味のスラングです。ロマンチックな表現が過剰でわざとらしく聞こえるときに使われます。映画や音楽など、さまざまな状況で使用されます。"
+    },
+    {
+      "id": 88,
+      "value": "buckle up",
+      "options": [
+        "諦める",
+        "準備する",
+        "出発する",
+        "休憩する"
+      ],
+      "correctAnswer": "準備する",
+      "explanation": "「buckle up」は、シートベルトを締めるという意味から転じて、これから起こることに備える、覚悟するという意味の口語表現です。何かが起こる前に注意を促す際に使われます。例文：Buckle up, it's going to be a bumpy ride.（覚悟して、これから困難な道のりになるぞ。）"
+    },
+    {
+      "id": 89,
+      "value": "topped it",
+      "options": [
+        "台無しにした",
+        "改善した",
+        "上回った",
+        "無視した"
+      ],
+      "correctAnswer": "上回った",
+      "explanation": "「top」は、頂点に達する、上回るという意味です。「topped it」は、何かをさらに良くする、または相手の言ったことや行ったことよりも優れたことをするという意味になります。ここでは、レオナルドがペニーの感動的な言葉をさらに上回るプロポーズをしたことを指しています。"
+    },
+    {
+      "id": 90,
+      "value": "make this marriage official",
+      "options": [
+        "結婚を秘密にする",
+        "結婚を取りやめる",
+        "結婚を公にする",
+        "結婚を始める"
+      ],
+      "correctAnswer": "結婚を公にする",
+      "explanation": "「make something official」は、何かを正式にする、公式に認めるという意味です。ここでは、ペニーとレオナルドが夫婦としての関係をさらに深めることを示唆しています。ビジネスや法律など、様々な場面で使用されます。"
+    },
+    {
+      "id": 91,
+      "value": "weekend away",
+      "options": [
+        "週末の仕事",
+        "週末の自宅",
+        "週末の旅行",
+        "週末のパーティー"
+      ],
+      "correctAnswer": "週末の旅行",
+      "explanation": "「weekend away」は、週末の小旅行、週末旅行という意味です。日常から離れてリフレッシュするための短い休暇を指します。例文：Let's plan a weekend away to the mountains. (山への週末旅行を計画しましょう。)"
+    },
+    {
+      "id": 92,
+      "value": "dare",
+      "options": [
+        "喜んで～する",
+        "あえて～する",
+        "～することを拒否する",
+        "～することをためらう"
+      ],
+      "correctAnswer": "あえて～する",
+      "explanation": "「dare」は、あえて〜する、大胆にも〜するという意味です。ここでは、エイミーがシェルドンがインターネット上で自分について酷いことを言ったことに怒っていることを表しています。勇気や反抗的な意味合いを含みます。"
+    },
+    {
+      "id": 93,
+      "value": "saw through",
+      "options": [
+        "理解した",
+        "無視した",
+        "信じた",
+        "反対した"
+      ],
+      "correctAnswer": "理解した",
+      "explanation": "「see through」は、見抜く、真相を理解するという意味のイディオムです。ここでは、エイミーがシェルドンの意図を見抜いたことを指しています。欺瞞や策略に対して使われることが多いです。"
+    },
+    {
+      "id": 94,
+      "value": "take down",
+      "options": [
+        "削除する",
+        "作成する",
+        "共有する",
+        "保存する"
+      ],
+      "correctAnswer": "削除する",
+      "explanation": "「take down」は、取り下げる、削除するという意味です。ここでは、エイミーがシェルドンに動画を削除するように求めています。インターネット上のコンテンツに対してよく使われます。"
+    },
+    {
+      "id": 95,
+      "value": "subject line",
+      "options": [
+        "本文",
+        "署名",
+        "宛先",
+        "件名"
+      ],
+      "correctAnswer": "件名",
+      "explanation": "「subject line」は、メールの件名欄のことです。メールの内容を簡潔に示す役割があります。ビジネスコミュニケーションでは非常に重要な要素です。"
+    },
+    {
+      "id": 96,
+      "value": "on screen",
+      "options": [
+        "舞台上で",
+        "画面上で",
+        "夢の中で",
+        "心の中で"
+      ],
+      "correctAnswer": "画面上で",
+      "explanation": "「on screen」は、画面上に、という意味で、テレビ、映画、コンピュータなどの画面に表示されている状態を指します。物語や映像作品の状況説明でよく使われます。"
+    },
+    {
+      "id": 97,
+      "value": "lining up",
+      "options": [
+        "並んでいる",
+        "解散している",
+        "隠れている",
+        "逃げている"
+      ],
+      "correctAnswer": "並んでいる",
+      "explanation": "「line up」は、列に並ぶ、順番待ちをするという意味の句動詞ですが、ここでは「～しようと企んでいる、待機している」という意味合いで使われています。例文: Countries are lining up to invest in the new technology. (各国がその新技術に投資しようと列をなしている。)"
+    },
+    {
+      "id": 98,
+      "value": "dumped",
+      "options": [
+        "支持された",
+        "捨てられた",
+        "愛された",
+        "尊敬された"
+      ],
+      "correctAnswer": "捨てられた",
+      "explanation": "「dump」は、捨てる、見捨てるという意味ですが、恋愛関係においては「振る」という意味で使われます。例文: She dumped him because he was always late. (彼がいつも遅刻するので、彼女は彼を振った。)"
+    },
+    {
+      "id": 99,
+      "value": " Mull that one over",
+      "options": [
+        "無視する",
+        "じっくり考える",
+        "忘れる",
+        "繰り返す"
+      ],
+      "correctAnswer": "じっくり考える",
+      "explanation": "「Mull that one over」は、「そのことについてじっくり考えてみてください」という意味の表現です。何かについて深く考察を促す際に使われます。例文：I'll pause here while you mull that one over.(ここで一時停止するので、それについてじっくり考えてみてください。)"
+    },
+    {
+      "id": 100,
+      "value": "imagine that",
+      "options": [
+        "想像してみて",
+        "理解できない",
+        "信じられない",
+        "当然だ"
+      ],
+      "correctAnswer": "信じられない",
+      "explanation": "「Imagine that」は、皮肉を込めて「信じられない」「まさか」という意味で使われます。相手の発言に対して驚きや疑念を表明する際に用いられます。例文: He said he didn't know about the party. Imagine that! (彼はパーティーのことを知らなかったと言った。信じられる？)"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "topical",
+      "options": [
+        "全体的な",
+        "最新の",
+        "局所的な",
+        "伝統的な"
+      ],
+      "correctAnswer": "局所的な",
+      "explanation": "「topical」は、体の表面に適用される、局所的なという意味です。薬やクリームなどが特定の部位に作用することを指します。例文：a topical cream for treating eczema（湿疹を治療するための局所クリーム）"
+    },
+    {
+      "id": 2,
+      "value": "antihistamine",
+      "options": [
+        "抗菌薬",
+        "抗ヒスタミン薬",
+        "鎮痛剤",
+        "抗生物質"
+      ],
+      "correctAnswer": "抗ヒスタミン薬",
+      "explanation": "「antihistamine」は、アレルギー反応を引き起こすヒスタミンの作用を抑制する薬です。かゆみ、鼻水、くしゃみなどの症状を緩和するために使用されます。例文：I took an antihistamine for my allergies.（アレルギーのために抗ヒスタミン薬を飲みました。）"
+    },
+    {
+      "id": 3,
+      "value": "lidocaine",
+      "options": [
+        "抗菌成分",
+        "保湿成分",
+        "麻酔成分",
+        "抗炎症成分"
+      ],
+      "correctAnswer": "麻酔成分",
+      "explanation": "「lidocaine」は、局所麻酔薬の一種で、痛みや不快感を和らげるために使用されます。皮膚に塗布したり、注射したりすることで、神経の信号を一時的に遮断します。例文：The dentist used lidocaine to numb my gums.（歯科医は私の歯茎を麻痺させるためにリドカインを使用しました。）"
+    },
+    {
+      "id": 4,
+      "value": "ultra strength",
+      "options": [
+        "並の強度",
+        "中程度の強度",
+        "超強度",
+        "低い強度"
+      ],
+      "correctAnswer": "超強度",
+      "explanation": "「ultra strength」は、非常に強い、または高濃度のという意味です。特に医薬品や洗剤などで、効果がより強力であることを示すために使用されます。例文：This is an ultra strength cleaner, so be careful when using it. （これは超強度のクリーナーなので、使用する際は注意してください。）"
+    },
+    {
+      "id": 5,
+      "value": "bother",
+      "options": [
+        "手伝う",
+        "邪魔する",
+        "喜ばせる",
+        "励ます"
+      ],
+      "correctAnswer": "邪魔する",
+      "explanation": "「bother」は、誰かを邪魔する、困らせる、または心配させるという意味です。軽い迷惑から深刻な困惑まで、様々な状況で使用されます。例文：I don't want to bother you, but could you help me with this?（邪魔したくないのですが、これを手伝ってもらえますか？）"
+    },
+    {
+      "id": 6,
+      "value": "initiate",
+      "options": [
+        "中断する",
+        "遅らせる",
+        "開始する",
+        "完了する"
+      ],
+      "correctAnswer": "開始する",
+      "explanation": "「initiate」は、何かを開始する、始めるという意味です。プロジェクト、行動、またはプロセスなどを開始する際に使用されます。例文：The company initiated a new marketing campaign.（その会社は新しいマーケティングキャンペーンを開始しました。）"
+    },
+    {
+      "id": 7,
+      "value": "homeopathic",
+      "options": [
+        "伝統的な",
+        "科学的な",
+        "同種療法の",
+        "一般的な"
+      ],
+      "correctAnswer": "同種療法の",
+      "explanation": "「homeopathic」は、同種療法（ホメオパシー）のという意味です。同種療法は、症状を引き起こす物質をごく少量投与することで、体の自然治癒力を刺激する代替医療の一種です。例文：She uses homeopathic remedies to treat her allergies.（彼女はアレルギーを治療するために同種療法の治療法を使用しています。）"
+    },
+    {
+      "id": 8,
+      "value": "testosterone",
+      "options": [
+        "エストロゲン",
+        "テストステロン",
+        "アドレナリン",
+        "インスリン"
+      ],
+      "correctAnswer": "テストステロン",
+      "explanation": "「testosterone」は、主に男性の体内で生成される性ホルモンです。筋肉の発達、骨密度、性機能などに影響を与えます。例文：Testosterone levels decrease with age.（テストステロンのレベルは年齢とともに低下します。）"
+    },
+    {
+      "id": 9,
+      "value": "masculinity",
+      "options": [
+        "女性らしさ",
+        "人間性",
+        "中性",
+        "男らしさ"
+      ],
+      "correctAnswer": "男らしさ",
+      "explanation": "「masculinity」は、男らしさ、男性らしさという意味です。社会的に男性に期待される特性や行動を指します。例文：He felt pressure to conform to traditional ideas of masculinity.（彼は伝統的な男らしさの考え方に従うようにプレッシャーを感じました。）"
+    },
+    {
+      "id": 10,
+      "value": "has-been",
+      "options": [
+        "新参者",
+        "成功者",
+        "落ち目の人",
+        "努力家"
+      ],
+      "correctAnswer": "落ち目の人",
+      "explanation": "「has-been」は、かつては有名だったり成功していたりしたが、今はそうではなくなった人を指す軽蔑的な表現です。例文：The actor was once a big star, but now he's a has-been.（その俳優はかつては大スターだったが、今は落ち目だ。）"
+    },
+    {
+      "id": 11,
+      "value": "idolized",
+      "options": [
+        "軽蔑した",
+        "無視した",
+        "崇拝した",
+        "批判した"
+      ],
+      "correctAnswer": "崇拝した",
+      "explanation": "「idolize」は、誰かを非常に尊敬し、理想化するという意味です。まるで偶像のように崇拝するニュアンスがあります。例文：She idolized her older sister.（彼女は姉を崇拝していました。）"
+    },
+    {
+      "id": 12,
+      "value": "phony",
+      "options": [
+        "正直者",
+        "偽物",
+        "天才",
+        "英雄"
+      ],
+      "correctAnswer": "偽物",
+      "explanation": "「phony」は、偽の、見せかけの、または詐欺的なという意味です。人や物事が本物ではないことを指します。例文：He's a phony; don't trust him.（彼は偽物だ。信用するな。）"
+    },
+    {
+      "id": 13,
+      "value": "degenerate",
+      "options": [
+        "高潔な",
+        "退廃的な",
+        "進歩的な",
+        "創造的な"
+      ],
+      "correctAnswer": "退廃的な",
+      "explanation": "「degenerate」は、道徳的に退廃した、堕落したという意味です。人や社会の状態を表すのに使われます。例文：He accused the younger generation of being degenerate.（彼は若い世代が退廃的だと非難した。）"
+    },
+    {
+      "id": 14,
+      "value": "orthopaedic",
+      "options": [
+        "視覚の",
+        "整形の",
+        "精神の",
+        "呼吸器の"
+      ],
+      "correctAnswer": "整形の",
+      "explanation": "「orthopaedic」は、整形外科の、または整形外科に関するという意味です。骨、関節、筋肉などの運動器系の疾患や外傷を扱います。例文：He had orthopaedic surgery on his knee. (彼は膝の整形外科手術を受けた。)"
+    },
+    {
+      "id": 15,
+      "value": "legend",
+      "options": [
+        "凡人",
+        "無名の人",
+        "伝説",
+        "新人"
+      ],
+      "correctAnswer": "伝説",
+      "explanation": "「legend」は、伝説的な人物、または非常に有名な人物という意味です。特に、その分野で非常に優れた業績を残した人を指します。例文：She is a legend in the world of ballet.（彼女はバレエの世界では伝説的な人物です。）"
+    },
+    {
+      "id": 16,
+      "value": "inspired",
+      "options": [
+        "落胆させた",
+        "無視した",
+        "刺激した",
+        "妨害した"
+      ],
+      "correctAnswer": "刺激した",
+      "explanation": "「inspired」は、誰かを刺激する、感銘を与える、または創造的な気持ちにさせるという意味です。良い影響を与えることを示します。例文：His speech inspired me to pursue my dreams.（彼のスピーチは私に夢を追求するよう刺激しました。）"
+    },
+    {
+      "id": 17,
+      "value": "advanced age",
+      "options": [
+        "幼い年齢",
+        "若い年齢",
+        "高齢",
+        "平均年齢"
+      ],
+      "correctAnswer": "高齢",
+      "explanation": "「advanced age」は、高齢、または年老いている状態を婉曲的に表現する際に使用されます。直接的に年齢を言うのを避けるために使われます。例文：People of advanced age may require special care. (高齢者は特別なケアが必要な場合があります。)"
+    },
+    {
+      "id": 18,
+      "value": "moderately",
+      "options": [
+        "非常に",
+        "わずかに",
+        "適度に",
+        "全く"
+      ],
+      "correctAnswer": "適度に",
+      "explanation": "「moderately」は、適度に、ほどほどにという意味です。程度が極端ではないことを示します。例文：The movie was moderately successful.（その映画は適度に成功した。）"
+    },
+    {
+      "id": 19,
+      "value": "prescription",
+      "options": [
+        "レシピ",
+        "説明書",
+        "処方箋",
+        "予言"
+      ],
+      "correctAnswer": "処方箋",
+      "explanation": "「prescription」は、医師が発行する処方箋という意味です。薬局で薬を受け取るために必要です。例文：I need to get my prescription filled. (処方箋を調剤してもらう必要があります。)"
+    },
+    {
+      "id": 20,
+      "value": "difficulty initiating",
+      "options": [
+        "簡単に開始する",
+        "開始の困難",
+        "迅速に完了する",
+        "スムーズに進行する"
+      ],
+      "correctAnswer": "開始の困難",
+      "explanation": "「difficulty initiating」は、何かを開始することの難しさ、または開始するのが難しい状態を指します。医学的な文脈では、特定の生理機能の開始が困難であることを指すことがあります。例文: He experienced difficulty initiating sleep. (彼は寝つきが悪かった。)"
+    },
+    {
+      "id": 21,
+      "value": "lucky guess",
+      "options": [
+        "正確な知識",
+        "賢明な判断",
+        "幸運な推測",
+        "詳細な調査"
+      ],
+      "correctAnswer": "幸運な推測",
+      "explanation": "「lucky guess」は、知識や根拠に基づかない、偶然当たった推測という意味です。例文：It was just a lucky guess that I knew the answer.（答えを知っていたのはただの当てずっぽうだった。）"
+    },
+    {
+      "id": 22,
+      "value": "hanging out",
+      "options": [
+        "議論する",
+        "遊ぶ",
+        "無視する",
+        "勉強する"
+      ],
+      "correctAnswer": "遊ぶ",
+      "explanation": "「hang out」は、友達と気軽に過ごす、ぶらぶらするという意味の口語表現です。特に目的もなく、リラックスして時間を過ごす状況を指します。例文：We're just hanging out at my place tonight.（今夜は私の家でぶらぶらしているだけだよ。）"
+    },
+    {
+      "id": 23,
+      "value": "happen to be",
+      "options": [
+        "偶然〜である",
+        "計画的に〜である",
+        "絶対に〜でない",
+        "〜であることを否定する"
+      ],
+      "correctAnswer": "偶然〜である",
+      "explanation": "「happen to be」は、偶然〜である、たまたま〜であるという意味です。意図せずにそうなった状況を説明する際に使われます。例文：I happen to be free tonight. (私は今夜たまたま暇です。)"
+    },
+    {
+      "id": 24,
+      "value": "crying about",
+      "options": [
+        "喜ぶ",
+        "怒る",
+        "悲しむ",
+        "心配する"
+      ],
+      "correctAnswer": "悲しむ",
+      "explanation": "「cry about」は、〜について泣く、悲しむという意味です。特に取るに足らないことや、どうしようもないことについて嘆くニュアンスがあります。例文：There's no use crying about spilled milk. （覆水盆に返らず。もう済んだことを嘆いても仕方がない。）"
+    },
+    {
+      "id": 25,
+      "value": "peek behind",
+      "options": [
+        "覗き見る",
+        "無視する",
+        "隠す",
+        "守る"
+      ],
+      "correctAnswer": "覗き見る",
+      "explanation": "「peek behind」は、〜の裏側を覗き見る、隠された真実を暴くという意味です。秘密や隠された側面を知ろうとする行為を表します。例文：She wanted to peek behind the curtain of fame.（彼女は名声の裏側を覗き見たかった。）"
+    },
+    {
+      "id": 26,
+      "value": "cuckoo pills",
+      "options": [
+        "睡眠薬",
+        "精神安定剤",
+        "風邪薬",
+        "媚薬"
+      ],
+      "correctAnswer": "精神安定剤",
+      "explanation": "\"cuckoo\"は、俗語で「狂っている」「正気でない」という意味があります。したがって、「cuckoo pills」は、精神を安定させる薬、つまり精神安定剤を指すスラング的な表現です。少しユーモラスなニュアンスを含みます。"
+    },
+    {
+      "id": 27,
+      "value": "a bit much",
+      "options": [
+        "少し足りない",
+        "少し多い",
+        "少し退屈",
+        "少し違う"
+      ],
+      "correctAnswer": "少し多い",
+      "explanation": "\"a bit much\"は、「少しやりすぎ」「度が過ぎる」という意味合いで使われます。相手の言動が過剰であると感じた時に用いられる表現です。 例：His behavior was a bit much at the party.（彼のパーティーでの振る舞いは少しやりすぎだった。）"
+    },
+    {
+      "id": 28,
+      "value": "stretch",
+      "options": [
+        "休憩",
+        "飛躍",
+        "我慢",
+        "運動"
+      ],
+      "correctAnswer": "飛躍",
+      "explanation": "\"stretch\"はここでは「（事実や可能性から）かけ離れている」「無理がある」という意味です。比喩的な意味合いで、考えや解釈が現実から大きく離れている場合に使われます。 例：Saying he's a genius is a bit of a stretch. (彼を天才と言うのは少し大げさだ。)"
+    },
+    {
+      "id": 29,
+      "value": "coy smile",
+      "options": [
+        "自信満々な笑顔",
+        "遠慮がちな笑顔",
+        "悲しそうな笑顔",
+        "怒った笑顔"
+      ],
+      "correctAnswer": "遠慮がちな笑顔",
+      "explanation": "\"coy\"は、控えめで、内気な様子を表す形容詞です。「coy smile」は、そのような奥ゆかしい、はにかむような笑顔を指します。異性に対して魅力的に見せようとする意図が含まれることもあります。"
+    },
+    {
+      "id": 30,
+      "value": "chuckle",
+      "options": [
+        "大笑い",
+        "クスクス笑い",
+        "泣き声",
+        "叫び声"
+      ],
+      "correctAnswer": "クスクス笑い",
+      "explanation": "\"chuckle\"は、声を出さずに、または小さく喉を鳴らすように笑うことを意味します。静かで穏やかな笑いを表す言葉です。例：He chuckled at the joke. (彼はそのジョークにクスクス笑った。)"
+    },
+    {
+      "id": 31,
+      "value": "vocalization of sympathy",
+      "options": [
+        "共感の言葉",
+        "同情の沈黙",
+        "怒りの表現",
+        "喜びの歌"
+      ],
+      "correctAnswer": "共感の言葉",
+      "explanation": "\"vocalization\"は「声に出すこと、発声」を意味し、\"sympathy\"は「同情、共感」を意味します。したがって、\"vocalization of sympathy\"は、相手に同情や共感の気持ちを声に出して伝えることを指します。例：She offered a vocalization of sympathy when she heard about his loss. (彼女は彼の損失について聞いて、共感の言葉を述べた。)"
+    },
+    {
+      "id": 32,
+      "value": "can't stand it",
+      "options": [
+        "我慢できる",
+        "耐えられない",
+        "気に入らない",
+        "理解できない"
+      ],
+      "correctAnswer": "耐えられない",
+      "explanation": "\"can't stand it\"は、「～に耐えられない」「～を我慢できない」という意味の口語的な表現です。非常に強い嫌悪感や不快感を表します。 例：I can't stand the noise. (その騒音には我慢できない。)"
+    },
+    {
+      "id": 33,
+      "value": "vixen",
+      "options": [
+        "ずる賢い人",
+        "魅力的な女性",
+        "おせっかいな人",
+        "意地悪な人"
+      ],
+      "correctAnswer": "魅力的な女性",
+      "explanation": "\"vixen\"は、元々は「雌ギツネ」という意味ですが、転じて「魅力的でずる賢い女性」という意味で使われます。セクシーで危険な香りのする女性を指すことが多いです。"
+    },
+    {
+      "id": 34,
+      "value": "ditch",
+      "options": [
+        "手に入れる",
+        "捨てる",
+        "避ける",
+        "参加する"
+      ],
+      "correctAnswer": "避ける",
+      "explanation": "\"ditch\"は、ここでは「（授業などを）サボる」「抜け出す」という意味で使われています。義務や責任を放棄するニュアンスがあります。 例：He ditched class to go to the beach. (彼は授業をサボってビーチに行った。)"
+    },
+    {
+      "id": 35,
+      "value": "let me have it",
+      "options": [
+        "私にください",
+        "私にやらせて",
+        "文句を言ってください",
+        "秘密を教えてください"
+      ],
+      "correctAnswer": "文句を言ってください",
+      "explanation": "\"let me have it\"は、「（非難や批判などを）遠慮なく言ってくれ」「手加減しないで言ってくれ」という意味です。相手からの厳しい意見や評価を覚悟している時に使います。 例：I know I messed up, so just let me have it. (私がしくじったのはわかっているから、遠慮なく言ってくれ。)"
+    },
+    {
+      "id": 36,
+      "value": "fu-un",
+      "options": [
+        "秘密",
+        "仕事",
+        "楽しみ",
+        "嘘"
+      ],
+      "correctAnswer": "楽しみ",
+      "explanation": "これは\"fun\"を婉曲的に表現したものです。からかいや冗談めかして使われることがあります。発音を少し変えることで、ユーモラスな効果を出しています。"
+    },
+    {
+      "id": 37,
+      "value": "be right back",
+      "options": [
+        "すぐに戻る",
+        "右に曲がる",
+        "正しい行いをする",
+        "過去に戻る"
+      ],
+      "correctAnswer": "すぐに戻る",
+      "explanation": "\"be right back\"は、「すぐに戻る」「ちょっと行ってくる」という意味の一般的な表現です。短い時間だけ席を離れることを伝える際に使います。 例：I'll be right back. I need to grab my coat. (すぐに戻るよ。コートを取ってくる必要があるんだ。)"
+    },
+    {
+      "id": 38,
+      "value": "door knocker",
+      "options": [
+        "訪問者",
+        "ドアの修理屋",
+        "ドアノッカー",
+        "セールスマン"
+      ],
+      "correctAnswer": "ドアノッカー",
+      "explanation": "文字通りにはドアを叩く道具ですが、ここでは訪問者が頻繁に来ることを指して、テレビ番組の出演依頼が舞い込むほどの人気者になることを比喩的に表現しています。 \"That's TV money.\"と続けて言うことで、成功してお金持ちになることを暗示しています。"
+    },
+    {
+      "id": 39,
+      "value": "sounds like a keeper",
+      "options": [
+        "良いキーパーのようだ",
+        "守銭奴のようだ",
+        "素晴らしい人のようだ",
+        "秘密を守る人のようだ"
+      ],
+      "correctAnswer": "素晴らしい人のようだ",
+      "explanation": "\"keeper\"は、ここでは「（恋人や配偶者として）大切にすべき人」「手放したくない人」という意味で使われています。相手の性格や行動を評価して、将来性があると感じた時に用いられる表現です。 例：She's smart, funny, and kind. She's a keeper! (彼女は賢くて、面白くて、優しい。絶対に手放したくない人だ！)"
+    },
+    {
+      "id": 40,
+      "value": "clear the air",
+      "options": [
+        "空気をきれいにする",
+        "誤解を解く",
+        "秘密を暴露する",
+        "嘘をつく"
+      ],
+      "correctAnswer": "誤解を解く",
+      "explanation": "\"clear the air\"は、「（議論や不和の後で）誤解を解く」「わだかまりをなくす」という意味のイディオムです。お互いの気持ちを話し合い、関係を改善することを指します。 例：We need to clear the air after that argument. (あの議論の後、私たちは誤解を解く必要がある。)"
+    },
+    {
+      "id": 41,
+      "value": "at your disposal",
+      "options": [
+        "あなたの処分で",
+        "あなたの許可で",
+        "あなたの都合の良い時に",
+        "あなたの自由に使って"
+      ],
+      "correctAnswer": "あなたの自由に使って",
+      "explanation": "\"at your disposal\"は、「あなたの自由に使える」「ご都合に合わせて」という意味のフォーマルな表現です。自分の時間や能力などを相手のために提供する意思を示す際に用います。 例：I am at your disposal if you need any help. (もし何か手伝いが必要でしたら、いつでもお申し付けください。)"
+    },
+    {
+      "id": 42,
+      "value": "washed-up has-been",
+      "options": [
+        "成功者",
+        "将来有望な人",
+        "時代遅れの人",
+        "隠遁者"
+      ],
+      "correctAnswer": "時代遅れの人",
+      "explanation": "\"washed-up\"は「終わった、役に立たない」という意味で、\"has-been\"は「かつては有名だったが、今は人気のない人」という意味です。合わせて「時代遅れの人」「過去の人」という意味になります。 例：He's a washed-up has-been. (彼はもう時代遅れだ。)"
+    },
+    {
+      "id": 43,
+      "value": "I should be so lucky",
+      "options": [
+        "私はとても幸運だ",
+        "私はそうなるべきだ",
+        "そうだったら良いのに",
+        "私は運が悪い"
+      ],
+      "correctAnswer": "そうだったら良いのに",
+      "explanation": "\"I should be so lucky\"は、皮肉を込めて「そうだったらどんなに良いか」「まさかそんなことはないだろう」という意味で使われます。実際にはそうなる可能性が低いことを示唆する表現です。 例：'Maybe you'll win the lottery.' 'I should be so lucky!' ('もしかしたら宝くじに当たるかもよ。' 'そんなことありえないよ！')"
+    },
+    {
+      "id": 44,
+      "value": "if it's all the same with you",
+      "options": [
+        "もし同じだったら",
+        "もし可能なら",
+        "もしあなたが同意するなら",
+        "もしあなたが気にしないなら"
+      ],
+      "correctAnswer": "もしあなたが気にしないなら",
+      "explanation": "\"if it's all the same with you\"は、「もしあなたが構わないなら」「もしよろしければ」という意味の丁寧な表現です。相手の意向を尊重しつつ、自分の希望を伝える際に用います。 例：If it's all the same with you, I'd prefer to sit here. (もしよろしければ、ここに座りたいのですが。)"
+    },
+    {
+      "id": 45,
+      "value": "stick with",
+      "options": [
+        "我慢する",
+        "くっつく",
+        "続ける",
+        "無視する"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "\"stick with\"は、「～を続ける」「～を支持する」「～から離れない」という意味の句動詞です。ここでは、以前からの協力関係を維持する、という意味で使われています。 例：I think I'll stick with Leonard. (私はレナードとの協力を続けるつもりだ。)"
+    },
+    {
+      "id": 46,
+      "value": "odd coincidence",
+      "options": [
+        "奇妙な偶然",
+        "必然的な出来事",
+        "計画された出会い",
+        "普通の出来事"
+      ],
+      "correctAnswer": "奇妙な偶然",
+      "explanation": "\"odd coincidence\"は、「奇妙な偶然」「不思議な一致」という意味です。予想外の、または説明のつかない出来事が重なる状況を表します。皮肉を込めて、作為的なものを暗示する場合もあります。 例：It's an odd coincidence that we both chose the same restaurant. (二人とも同じレストランを選んだのは奇妙な偶然だ。)"
+    },
+    {
+      "id": 47,
+      "value": "nano vacuum tube",
+      "options": [
+        "小型掃除機",
+        "真空断熱材",
+        "ナノ真空管",
+        "未来の乗り物"
+      ],
+      "correctAnswer": "ナノ真空管",
+      "explanation": "\"nano vacuum tube\"は、ナノテクノロジーを用いて作られた極小の真空管のことです。従来の真空管よりも小型で高性能な電子部品として期待されています。高度な科学技術の専門用語です。"
+    },
+    {
+      "id": 48,
+      "value": "promising",
+      "options": [
+        "つまらない",
+        "有望な",
+        "終わった",
+        "嘘の"
+      ],
+      "correctAnswer": "有望な",
+      "explanation": "\"promising\"は「有望な」「見込みのある」という意味で、良い結果や成功が期待できることを表します。研究やプロジェクト、才能などに対して使われます。\n例文: This research looks very promising. (この研究は非常に有望に見える。)"
+    },
+    {
+      "id": 49,
+      "value": "collaborate on",
+      "options": [
+        "無視する",
+        "競争する",
+        "協力する",
+        "妨害する"
+      ],
+      "correctAnswer": "協力する",
+      "explanation": "\"collaborate on\"は「～について協力する」「共同研究する」という意味で、複数の人が協力して何かを作り上げたり、問題を解決したりする際に使われます。\n例文: They decided to collaborate on the project. (彼らはそのプロジェクトで協力することに決めた。)"
+    },
+    {
+      "id": 50,
+      "value": "get up, pee and then wander around the house",
+      "options": [
+        "早朝のルーティン",
+        "科学研究の手順",
+        "一日の目標",
+        "就寝前の行動"
+      ],
+      "correctAnswer": "早朝のルーティン",
+      "explanation": "これはArthurの皮肉めいた表現で、高齢者のありふれた日常をユーモラスに表しています。「get up（起きる）」、「pee（おしっこをする）」、「wander around the house（家の中をうろつく）」という一連の行動は、高齢者の単調な生活を象徴しています。"
+    },
+    {
+      "id": 51,
+      "value": "just so happens",
+      "options": [
+        "偶然にも",
+        "絶対にない",
+        "当然のことながら",
+        "今にも"
+      ],
+      "correctAnswer": "偶然にも",
+      "explanation": "「just so happens」は、予期していなかったことが偶然に起こる、という意味合いで使われます。想定外の状況や、都合の良い偶然を強調する際に用いられます。\n\n例：It just so happens that I have an extra ticket. (偶然にも、チケットが1枚余っているんだ。)"
+    },
+    {
+      "id": 52,
+      "value": "replaced you with",
+      "options": [
+        "あなたを尊敬する",
+        "あなたと競争する",
+        "あなたと協力する",
+        "あなたを別のものに置き換える"
+      ],
+      "correctAnswer": "あなたを別のものに置き換える",
+      "explanation": "「replace A with B」は、「AをBで置き換える」という意味です。既存のものや人を、新しいものや人で置き換える状況を表します。効率化や改善を目的とすることが多いです。\n\n例：The old software was replaced with a new, more efficient version. (古いソフトウェアは、より効率的な新しいバージョンに置き換えられた。)"
+    },
+    {
+      "id": 53,
+      "value": "nonsense",
+      "options": [
+        "常識",
+        "真実",
+        "無意味なこと",
+        "秘密"
+      ],
+      "correctAnswer": "無意味なこと",
+      "explanation": "「nonsense」は、意味のないこと、ばかげたこと、くだらないこと、といった意味合いで使われます。論理や理屈に合わない言動や状況を指す際に用いられます。\n\n例：Don't talk nonsense. (ばかなことを言うな。)"
+    },
+    {
+      "id": 54,
+      "value": "rough patch",
+      "options": [
+        "順風満帆",
+        "困難な時期",
+        "新しい趣味",
+        "楽しい旅行"
+      ],
+      "correctAnswer": "困難な時期",
+      "explanation": "「rough patch」は、人間関係や仕事、生活などにおいて、一時的に困難な時期や問題が続く状況を指します。文字通り「荒れた一区画」を意味し、比喩的に使われます。\n\n例：Every marriage goes through a rough patch now and then. (どんな結婚生活にも、時々は困難な時期がある。)"
+    },
+    {
+      "id": 55,
+      "value": "tear his ears off",
+      "options": [
+        "耳を傾ける",
+        "耳を疑う",
+        "耳をふさぐ",
+        "耳を引きちぎる"
+      ],
+      "correctAnswer": "耳を引きちぎる",
+      "explanation": "「tear off」は「引きちぎる」という意味で、ここでは比喩的に、母親の声が耐えられないほど不快であることを強調しています。極端な嫌悪感を表現するユーモラスな言い回しです。\n\n例：He was so angry, he felt like tearing his hair off. (彼はとても怒って、髪の毛を引きちぎりたくなるようだった。)"
+    },
+    {
+      "id": 56,
+      "value": "swing by",
+      "options": [
+        "立ち寄る",
+        "遠回りする",
+        "急いで行く",
+        "無視する"
+      ],
+      "correctAnswer": "立ち寄る",
+      "explanation": "「swing by」は、どこかに立ち寄る、ちょっと寄る、という意味で使われる口語的な表現です。気軽に立ち寄るニュアンスが含まれています。\n\n例：I'll swing by your office later. (後で君のオフィスに立ち寄るよ。)"
+    },
+    {
+      "id": 57,
+      "value": "a blast",
+      "options": [
+        "爆発",
+        "楽しい時間",
+        "批判",
+        "退屈な時間"
+      ],
+      "correctAnswer": "楽しい時間",
+      "explanation": "「a blast」は、非常に楽しい時間、わくわくするような経験、という意味で使われます。パーティーやイベントなどが非常に盛り上がった状況を表すのに適しています。\n\n例：The party was a blast! (パーティーは最高に楽しかった！)"
+    },
+    {
+      "id": 58,
+      "value": "melt it down",
+      "options": [
+        "溶かす",
+        "冷やす",
+        "隠す",
+        "壊す"
+      ],
+      "correctAnswer": "溶かす",
+      "explanation": "「melt down」は、金属などを溶かすという意味です。比喩的には、精神的に参ってしまう、感情的に崩壊するという意味合いでも使われます。\n\n例：The stress caused her to melt down at work. (ストレスで彼女は職場で精神的に参ってしまった。)"
+    },
+    {
+      "id": 59,
+      "value": "move on to",
+      "options": [
+        "先に進む",
+        "元に戻る",
+        "忘れる",
+        "諦める"
+      ],
+      "correctAnswer": "先に進む",
+      "explanation": "「move on to」は、ある活動や話題から別の活動や話題に移る、という意味です。段階的に進むニュアンスや、新たな段階へ進むニュアンスを含みます。\n\n例：After mastering the basics, we can move on to more advanced techniques. (基本をマスターしたら、より高度なテクニックに進むことができる。)"
+    },
+    {
+      "id": 60,
+      "value": "bond the wires",
+      "options": [
+        "ワイヤーを切断する",
+        "ワイヤーを接続する",
+        "ワイヤーを隠す",
+        "ワイヤーを無視する"
+      ],
+      "correctAnswer": "ワイヤーを接続する",
+      "explanation": "「bond」はここでは「結合する」「接続する」という意味です。電気回路などでワイヤー同士を物理的、電気的に接続する作業を指します。科学技術分野でよく使われる用語です。\n\n例：The engineers bonded the wires to complete the circuit. (エンジニアたちは回路を完成させるためにワイヤーを接続した。)"
+    },
+    {
+      "id": 61,
+      "value": "put up with",
+      "options": [
+        "我慢する",
+        "尊敬する",
+        "反論する",
+        "無視する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「put up with」は、不快なことや嫌なことを我慢する、耐える、という意味です。許容範囲を超えているものの、なんとか受け入れている状況を表します。\n\n例：I don't know how you put up with him. (どうして彼のことを我慢できるのかわからない。)"
+    },
+    {
+      "id": 62,
+      "value": "aggravating",
+      "options": [
+        "楽しい",
+        "怒らせる",
+        "落ち着かせる",
+        "満足させる"
+      ],
+      "correctAnswer": "怒らせる",
+      "explanation": "「aggravating」は、人をイライラさせる、怒らせる、という意味です。状況や人が不快感や迷惑を引き起こす様子を表します。形容詞として使われます。\n\n例：His constant complaining is really aggravating. (彼の絶え間ない不満は本当にイライラする。)"
+    },
+    {
+      "id": 63,
+      "value": "loyal",
+      "options": [
+        "不誠実な",
+        "忠実な",
+        "ずる賢い",
+        "怠惰な"
+      ],
+      "correctAnswer": "忠実な",
+      "explanation": "「loyal」は、人や組織、主義などに対して忠実である、誠実である、という意味です。信頼できる関係性を示す重要な性質です。\n\n例：He has been a loyal friend to me for many years. (彼は長年、私にとって忠実な友人だった。)"
+    },
+    {
+      "id": 64,
+      "value": "trustworthy",
+      "options": [
+        "疑わしい",
+        "信頼できる",
+        "危険な",
+        "無責任な"
+      ],
+      "correctAnswer": "信頼できる",
+      "explanation": "「trustworthy」は、信頼できる、信用できる、という意味です。人や情報、物事が信頼に値することを示します。重要な判断や決定をする際に重視される性質です。\n\n例：He is a trustworthy person. (彼は信頼できる人物だ。)"
+    },
+    {
+      "id": 65,
+      "value": "in his defence",
+      "options": [
+        "彼の攻撃で",
+        "彼を守って",
+        "彼の意見では",
+        "彼の責任で"
+      ],
+      "correctAnswer": "彼を守って",
+      "explanation": "「in his defence」は、誰かを擁護する、弁護する、という意味です。その人の行動や発言を正当化しようとする際に用いられます。\n\n例：In his defence, he was under a lot of pressure. (彼を弁護すると、彼は大きなプレッシャーを受けていた。)"
+    },
+    {
+      "id": 66,
+      "value": "came up behind him",
+      "options": [
+        "彼を追い越した",
+        "彼の後ろから近づいた",
+        "彼を無視した",
+        "彼を助けた"
+      ],
+      "correctAnswer": "彼の後ろから近づいた",
+      "explanation": "「come up behind someone」は、誰かの後ろから近づく、という意味です。意図的に近づく場合も、偶然近づく場合も含まれます。状況によっては、驚かせる意図があることも示唆します。\n\n例：I came up behind her and surprised her. (私は彼女の後ろから近づいて驚かせた。)"
+    },
+    {
+      "id": 67,
+      "value": "let this go",
+      "options": [
+        "これを手放す",
+        "これを続ける",
+        "これを忘れる",
+        "これを始める"
+      ],
+      "correctAnswer": "これを手放す",
+      "explanation": "「let this go」は、特定の話題や問題について追求するのをやめる、という意味です。こだわりを捨てて、先に進むことを促す際に使われます。\n\n例：I know you're upset, but you need to let it go. (あなたが動揺しているのはわかるけど、もう忘れなければならない。)"
+    },
+    {
+      "id": 68,
+      "value": "stolen enough from",
+      "options": [
+        "十分に与えた",
+        "十分に盗んだ",
+        "十分に学んだ",
+        "十分に共有した"
+      ],
+      "correctAnswer": "十分に盗んだ",
+      "explanation": "「stolen enough from」は、誰かから何かを十分に盗んだ、という意味です。比喩的に、アイデアや功績などを盗用した場合にも使われます。\n\n例: He was accused of having stolen ideas from his colleagues. (彼は同僚からアイデアを盗んだと非難された。)"
+    },
+    {
+      "id": 69,
+      "value": "bow tie",
+      "options": [
+        "ネクタイ",
+        "蝶ネクタイ",
+        "スカーフ",
+        "帽子"
+      ],
+      "correctAnswer": "蝶ネクタイ",
+      "explanation": "「bow tie」は、蝶ネクタイのことです。フォーマルな場で着用されることが多いですが、個性的なファッションアイテムとしても使われます。\n\n例: He wore a bow tie to the party. (彼はパーティーに蝶ネクタイを着用して行った。)"
+    },
+    {
+      "id": 70,
+      "value": "thinking about her",
+      "options": [
+        "彼女を忘れる",
+        "彼女のことを考える",
+        "彼女を避ける",
+        "彼女を批判する"
+      ],
+      "correctAnswer": "彼女のことを考える",
+      "explanation": "「thinking about her」は、彼女のことを考えている、という意味です。誰かのことを気にかけている気持ちを表します。\n\n例: I was thinking about her all day. (一日中彼女のことを考えていた。)"
+    },
+    {
+      "id": 71,
+      "value": "sure, so it's fine when you say it",
+      "options": [
+        "もちろん、あなたが言うときは大丈夫",
+        "もちろん、あなたが言うときはダメ",
+        "もちろん、あなたが言うときは嬉しい",
+        "もちろん、あなたが言うときは悲しい"
+      ],
+      "correctAnswer": "もちろん、あなたが言うときは大丈夫",
+      "explanation": "「sure, so it's fine when you say it」は、皮肉を込めた表現で、相手が言うことは許されるのに、自分が言うと非難されることに対する不満を表します。ダブルスタンダードに対する反発のニュアンスがあります。\n\n例：相手が同じジョークを言った場合は笑われるのに、自分が言うと怒られるような状況。"
+    },
+    {
+      "id": 72,
+      "value": "everything we need",
+      "options": [
+        "必要なものすべて",
+        "何も必要ない",
+        "少しだけ必要",
+        "何か足りない"
+      ],
+      "correctAnswer": "必要なものすべて",
+      "explanation": "「everything we need」は、私たちが必要とするものすべて、という意味です。特定の目的を達成するために必要なものが揃っていることを強調します。\n\n例: We have everything we need to start the project. (プロジェクトを開始するために必要なものはすべて揃っている。)"
+    },
+    {
+      "id": 73,
+      "value": "Jew in jewellery night",
+      "options": [
+        "宝石泥棒",
+        "宝石職人",
+        "ユダヤ人の宝石作り",
+        "宝石嫌いのユダヤ人"
+      ],
+      "correctAnswer": "ユダヤ人の宝石作り",
+      "explanation": "これは一種のジョークで、ハワードがユダヤ人であることと、宝石作りを組み合わせています。少しデリケートな表現なので、使用する際には注意が必要です。\n\n背景：ハワードはユダヤ系の出自であり、このジョークは彼のアイデンティティを利用したものです。"
+    },
+    {
+      "id": 74,
+      "value": "What is it?",
+      "options": [
+        "どうしたの？",
+        "何が欲しいの？",
+        "何が好き？",
+        "何を知ってる？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What is it?」は、何が問題なのか、何が起こったのかを尋ねる際に使われる一般的な表現です。相手の様子がおかしい時や、何かを伝えようとしている時に使います。\n\n例：You look worried. What is it? (心配そうな顔をしているね。どうしたの？)"
+    },
+    {
+      "id": 75,
+      "value": "ditch",
+      "options": [
+        "助ける",
+        "見捨てる",
+        "会う",
+        "褒める"
+      ],
+      "correctAnswer": "見捨てる",
+      "explanation": "「ditch」は、人や場所、物を突然見捨てる、放り出す、という意味です。予期せぬ状況で、誰かが置き去りにされる状況を表します。\n\n例：He ditched me at the party. (彼はパーティーで私を置き去りにした。)"
+    },
+    {
+      "id": 76,
+      "value": "morbidly obese",
+      "options": [
+        "非常に痩せている",
+        "重度の肥満",
+        "少し太っている",
+        "健康的な体重"
+      ],
+      "correctAnswer": "重度の肥満",
+      "explanation": "「morbidly obese」は、健康を害するほど重度の肥満状態を指します。これは、通常の肥満よりも深刻で、様々な健康問題を引き起こすリスクが高まります。医療的な文脈でよく用いられる言葉です。"
+    },
+    {
+      "id": 77,
+      "value": "cool it",
+      "options": [
+        "暖める",
+        "冷ます、落ち着く",
+        "無視する",
+        "始める"
+      ],
+      "correctAnswer": "冷ます、落ち着く",
+      "explanation": "「cool it」は、興奮している人や怒っている人に対して、「落ち着け」「冷静になれ」と促す際に使われる口語的な表現です。状況を鎮静化させる意味合いがあります。"
+    },
+    {
+      "id": 78,
+      "value": "open up about",
+      "options": [
+        "秘密にする",
+        "明らかにする、打ち明ける",
+        "避ける",
+        "理解する"
+      ],
+      "correctAnswer": "明らかにする、打ち明ける",
+      "explanation": "「open up about」は、自分の感情や考え、秘密などを人に打ち明ける、率直に話すという意味です。親しい間柄で、信頼関係がある場合に用いられることが多いです。"
+    },
+    {
+      "id": 79,
+      "value": "joking around",
+      "options": [
+        "真剣に議論する",
+        "冗談を言う、ふざける",
+        "無視する",
+        "怒る"
+      ],
+      "correctAnswer": "冗談を言う、ふざける",
+      "explanation": "「joking around」は、冗談を言ったり、ふざけたりする行為を指します。深刻な状況ではなく、軽い気持ちで楽しむために行われることが多いです。"
+    },
+    {
+      "id": 80,
+      "value": "brave of you",
+      "options": [
+        "臆病だ",
+        "勇敢だ",
+        "ずる賢い",
+        "愚かだ"
+      ],
+      "correctAnswer": "勇敢だ",
+      "explanation": "「brave of you」は、相手の行動や発言が勇気あるものだと評価する際に使われる表現です。困難な状況や、リスクを伴う行動に対して、相手を褒め称える意味合いが含まれます。"
+    },
+    {
+      "id": 81,
+      "value": "get in touch with",
+      "options": [
+        "連絡を取る",
+        "避ける",
+        "理解する",
+        "忘れる"
+      ],
+      "correctAnswer": "連絡を取る",
+      "explanation": "「get in touch with」は、誰かと連絡を取る、接触するという意味です。電話、メール、手紙など、様々な方法で連絡を取ることを指します。"
+    },
+    {
+      "id": 82,
+      "value": "restraining order",
+      "options": [
+        "応援",
+        "接近禁止命令",
+        "感謝状",
+        "招待状"
+      ],
+      "correctAnswer": "接近禁止命令",
+      "explanation": "「restraining order」は、裁判所が発行する接近禁止命令のことです。特定の人物が別の人に近づくことを禁止する法的命令で、ストーカー行為や家庭内暴力などから保護するために用いられます。"
+    },
+    {
+      "id": 83,
+      "value": "inspired",
+      "options": [
+        "平凡",
+        "刺激を受けた、素晴らしい",
+        "退屈",
+        "誤解を招く"
+      ],
+      "correctAnswer": "刺激を受けた、素晴らしい",
+      "explanation": "「inspired」は、何かに触発されて創造性や意欲が高まった状態、または作品などが非常に素晴らしいという意味を持ちます。人の心を動かすような、優れたアイデアや成果に対して使われます。"
+    },
+    {
+      "id": 84,
+      "value": "wouldn't hurt",
+      "options": [
+        "役に立つ",
+        "害はないだろう",
+        "役に立たない",
+        "危険だ"
+      ],
+      "correctAnswer": "害はないだろう",
+      "explanation": "「wouldn't hurt」は、「〜しても差し支えない」「〜するのも悪くない」という意味合いで使われます。必ずしも必要ではないけれど、試してみる価値がある、または受け入れても問題ないというニュアンスを含みます。"
+    },
+    {
+      "id": 85,
+      "value": "what's up",
+      "options": [
+        "どうしたの？",
+        "何もない",
+        "元気ですか？",
+        "さようなら"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、カジュアルな挨拶として「元気？」「調子はどう？」という意味で使われますが、状況によっては「何かあったの？」「どうしたの？」と相手に尋ねる意味合いも持ちます。"
+    },
+    {
+      "id": 86,
+      "value": "check it out",
+      "options": [
+        "無視する",
+        "確認する、見てみて",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "確認する、見てみて",
+      "explanation": "「check it out」は、何かを見たり、確認したりするように促す際に使われる表現です。「見てごらん」「確認してみて」といった意味合いで、相手に注意を向けさせたい時に用います。"
+    },
+    {
+      "id": 87,
+      "value": "blast-off",
+      "options": [
+        "爆発",
+        "打ち上げ",
+        "失敗",
+        "着陸"
+      ],
+      "correctAnswer": "打ち上げ",
+      "explanation": "「blast-off」は、ロケットや宇宙船などの打ち上げを意味する言葉です。勢いよく出発する様子を表し、比喩的に、何か新しいことを始める際にも用いられることがあります。"
+    },
+    {
+      "id": 88,
+      "value": "within 500 feet",
+      "options": [
+        "500フィート以内",
+        "500フィート以上",
+        "500フィート正確に",
+        "関係ない"
+      ],
+      "correctAnswer": "500フィート以内",
+      "explanation": "「within 500 feet」は、「500フィート以内」という意味です。特定の場所や人物から500フィートの範囲内であることを示します。法的文書や指示などで距離を制限する際によく使用されます。"
+    },
+    {
+      "id": 89,
+      "value": "single grandmothers",
+      "options": [
+        "独身の祖母",
+        "既婚の祖母",
+        "若い女性",
+        "高齢の男性"
+      ],
+      "correctAnswer": "独身の祖母",
+      "explanation": "「single grandmothers」は、独身の祖母、つまり未婚、離婚、または死別した祖母を指します。ArthurがPennyに尋ねているのは、恋愛対象となりうる独身の女性がいるかどうかを確認しようとしているからです。"
+    },
+    {
+      "id": 90,
+      "value": "happy",
+      "options": [
+        "幸せな",
+        "悲しい",
+        "怒っている",
+        "退屈な"
+      ],
+      "correctAnswer": "幸せな",
+      "explanation": "happyは「幸せな」という意味。ここでは、ArthurがPennyの祖母たちが既婚で幸せかどうかを確認するために使われています。"
+    },
+    {
+      "id": 91,
+      "value": "refine",
+      "options": [
+        "拒否する",
+        "精製する",
+        "破壊する",
+        "隠す"
+      ],
+      "correctAnswer": "精製する",
+      "explanation": "「refine」は、不純物を取り除き、純度を高めるという意味です。ここでは、髪の毛を炭素の粉に変える過程で使用されています。"
+    },
+    {
+      "id": 92,
+      "value": "hydraulic press",
+      "options": [
+        "油圧プレス",
+        "手動プレス",
+        "空気圧プレス",
+        "電気プレス"
+      ],
+      "correctAnswer": "油圧プレス",
+      "explanation": "「hydraulic press」は、液体（通常は油）の圧力を使用して大きな力を生み出す機械です。ここでは、炭素の粉をダイヤモンドに変えるために使用されます。"
+    },
+    {
+      "id": 93,
+      "value": "engagement ring",
+      "options": [
+        "婚約指輪",
+        "結婚指輪",
+        "友情の指輪",
+        "誕生日の指輪"
+      ],
+      "correctAnswer": "婚約指輪",
+      "explanation": "「engagement ring」は、結婚の約束を象徴する指輪です。プロポーズの際に贈られることが一般的です。"
+    },
+    {
+      "id": 94,
+      "value": "coming from",
+      "options": [
+        "どこから来た",
+        "どこへ行く",
+        "どこへ向かう",
+        "どこで終わる"
+      ],
+      "correctAnswer": "どこから来た",
+      "explanation": "「coming from」は、「どこから来たのか」「何が原因なのか」を尋ねる際に使われます。ここでは、Rajの突然の感情的な発言の理由をHowardが尋ねています。"
+    },
+    {
+      "id": 95,
+      "value": "ruining it for everyone",
+      "options": [
+        "皆のために良くする",
+        "皆のために台無しにする",
+        "皆を無視する",
+        "皆を助ける"
+      ],
+      "correctAnswer": "皆のために台無しにする",
+      "explanation": "「ruining it for everyone」は、「皆のために何かを台無しにする」という意味です。ここでは、Howardが girls' night の雰囲気を壊しているとRajが感じています。"
+    },
+    {
+      "id": 96,
+      "value": "comfortable",
+      "options": [
+        "快適な",
+        "不快な",
+        "退屈な",
+        "難しい"
+      ],
+      "correctAnswer": "快適な",
+      "explanation": "comfortableはここでは「心地よい、安心できる」という意味です。Rajは、女の子たちとなら自分の感情をより安心して話せると感じています。"
+    },
+    {
+      "id": 97,
+      "value": "in a bunch",
+      "options": [
+        "ばらばらに",
+        "丸まって、混乱して",
+        "整理されて",
+        "隠されて"
+      ],
+      "correctAnswer": "丸まって、混乱して",
+      "explanation": "「in a bunch」は、ここでは「混乱している」「不機嫌である」といった意味合いで使われています。Koothrapanties（Rajのパンツ）が丸まっているかどうかを尋ねることで、Rajが不機嫌かどうかをHowardが冗談めかして聞いています。"
+    },
+    {
+      "id": 98,
+      "value": "realize",
+      "options": [
+        "実現する",
+        "気づく",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "気づく",
+      "explanation": "「realize」は、「気づく」「理解する」という意味です。ここでは、Howardが自分の言動がRajを傷つけていることに気づいていなかったことを表しています。"
+    },
+    {
+      "id": 99,
+      "value": "began to see a white light",
+      "options": [
+        "白い光を見始めた",
+        "暗闇に包まれた",
+        "幻覚を見た",
+        "何も見えなかった"
+      ],
+      "correctAnswer": "白い光を見始めた",
+      "explanation": "「began to see a white light」は、死にかけている人が臨死体験で見るという白い光を見始めたという意味です。ここでは、Arthurが自分の人生の終わりが近いと感じていることを示唆しています。"
+    },
+    {
+      "id": 100,
+      "value": "embarrassing",
+      "options": [
+        "誇らしい",
+        "恥ずかしい",
+        "面白い",
+        "感動的な"
+      ],
+      "correctAnswer": "恥ずかしい",
+      "explanation": "「embarrassing」は、「恥ずかしい」「きまりが悪い」という意味です。ここでは、Arthurが自分の誕生日をパスワードにしていることがSheldonにとって恥ずかしいことだと感じていることを表しています。"
+    }
+  ]
+}

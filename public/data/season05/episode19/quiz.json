@@ -1,0 +1,1192 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "get off the computer",
+      "options": [
+        "コンピュータから離れる",
+        "コンピュータを修理する",
+        "コンピュータを購入する",
+        "コンピュータを売る"
+      ],
+      "correctAnswer": "コンピュータから離れる",
+      "explanation": "「get off the computer」は、コンピュータの使用をやめる、という意味です。一時的に休憩する場合や、長時間使用していた状態から離れることを指します。\n\n例：I need to get off the computer and stretch my legs. (コンピュータから離れて、足を伸ばす必要がある。)"
+    },
+    {
+      "id": 2,
+      "value": "badass",
+      "options": [
+        "臆病者",
+        "まじめな人",
+        "勇敢な人、すごい人",
+        "怠け者"
+      ],
+      "correctAnswer": "勇敢な人、すごい人",
+      "explanation": "「badass」は、非常に勇敢で、タフで、反抗的な人、あるいはそのような性質を持つものを指すスラングです。ポジティブな意味合いで「すごい」「かっこいい」といったニュアンスで使われることもあります。\n\n例：He's a total badass on the basketball court. (彼はバスケットボールコートでは完全にすごい奴だ。)"
+    },
+    {
+      "id": 3,
+      "value": "It's on like Alderaan.",
+      "options": [
+        "オールデランのように平和だ",
+        "オールデランのように始まるぞ",
+        "オールデランのように終わるぞ",
+        "オールデランのように準備万端だ"
+      ],
+      "correctAnswer": "オールデランのように始まるぞ",
+      "explanation": "「It's on like ...」は、「～のように始まるぞ」「～のように盛り上がるぞ」という意味のスラング表現です。ここでは、スターウォーズの惑星オルデランがデス・スターによって破壊されたことにひっかけて、ゲーム対決が激しく始まることを示唆しています。ややユーモラスな表現です。"
+    },
+    {
+      "id": 4,
+      "value": "Bully!",
+      "options": [
+        "素晴らしい！",
+        "いじめっ子！",
+        "残念！",
+        "退屈！"
+      ],
+      "correctAnswer": "素晴らしい！",
+      "explanation": "「Bully!」は、古風な英語で「素晴らしい！」「やった！」という意味の感嘆詞です。現代ではあまり使われませんが、ここでは、皮肉を込めて、オンラインゲームをすることに対する喜びを表しています。"
+    },
+    {
+      "id": 5,
+      "value": "intergalactic",
+      "options": [
+        "国際的な",
+        "銀河系の",
+        "学術的な",
+        "宗教的な"
+      ],
+      "correctAnswer": "銀河系の",
+      "explanation": "「intergalactic」は、「銀河間の」という意味です。ここでは、銀河を舞台にしたごっこ遊び、という意味で使われています。\n\n例：They are talking about intergalactic travel in the future. (彼らは未来の銀河間旅行について話している。)"
+    },
+    {
+      "id": 6,
+      "value": "set forth",
+      "options": [
+        "隠す",
+        "取り消す",
+        "提案する、規定する",
+        "無視する"
+      ],
+      "correctAnswer": "提案する、規定する",
+      "explanation": "「set forth」は、規則、原則、計画などを「提案する」「規定する」「述べる」という意味です。フォーマルな文脈でよく使われます。\n\n例：The company has set forth new guidelines for employee conduct. (会社は従業員の行動に関する新しいガイドラインを定めた。)"
+    },
+    {
+      "id": 7,
+      "value": "get one's way",
+      "options": [
+        "道を譲る",
+        "迷子になる",
+        "自分の思い通りにする",
+        "邪魔をする"
+      ],
+      "correctAnswer": "自分の思い通りにする",
+      "explanation": "「get one's way」は、「自分の思い通りにする」「わがままを通す」という意味です。しばしば、相手の行動を批判するニュアンスで使われます。\n\n例：He always gets his way, no matter what. (彼はいつも何があっても自分の思い通りにする。)"
+    },
+    {
+      "id": 8,
+      "value": "coincidence",
+      "options": [
+        "事故",
+        "必然",
+        "偶然",
+        "計画"
+      ],
+      "correctAnswer": "偶然",
+      "explanation": "「coincidence」は、「偶然の一致」「同時発生」という意味です。予期せぬ出来事が重なる状況を指します。\n\n例：It was a strange coincidence that we were both in Paris at the same time. (私たちが両方とも同じ時期にパリにいたのは奇妙な偶然だった。)"
+    },
+    {
+      "id": 9,
+      "value": "wearable",
+      "options": [
+        "耐久性のある",
+        "着用可能な",
+        "洗える",
+        "目に見える"
+      ],
+      "correctAnswer": "着用可能な",
+      "explanation": "「wearable」は、「身につけられる」「着用可能な」という意味です。特に、電子機器などを身につけて使用できることを指す場合が多いです。\n\n例：Wearable technology is becoming increasingly popular. (ウェアラブルテクノロジーはますます人気が高まっている。)"
+    },
+    {
+      "id": 10,
+      "value": "pill caddy",
+      "options": [
+        "薬箱",
+        "薬瓶",
+        "薬の空き箱",
+        "薬の飲み忘れ防止装置"
+      ],
+      "correctAnswer": "薬箱",
+      "explanation": "「pill caddy」は、薬を整理・保管するための容器やケースのことを指します。特に、複数の薬を整理して持ち運ぶためのものを指すことが多いです。"
+    },
+    {
+      "id": 11,
+      "value": "make fun of",
+      "options": [
+        "楽しく作る",
+        "からかう",
+        "友達になる",
+        "尊敬する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「make fun of」は、「～をからかう」「～を笑いものにする」という意味です。相手を不快にさせる意図が含まれることが多いです。\n\n例：The other children made fun of him because of his glasses. (他の子供たちは彼の眼鏡のせいで彼をからかった。)"
+    },
+    {
+      "id": 12,
+      "value": "in shock",
+      "options": [
+        "感動して",
+        "喜んで",
+        "ショックを受けて",
+        "安心して"
+      ],
+      "correctAnswer": "ショックを受けて",
+      "explanation": "「in shock」は、「ショックを受けて」「衝撃を受けて」という意味です。予期せぬ出来事や事実に驚き、精神的に動揺している状態を表します。\n\n例：I was in shock when I heard the news. (そのニュースを聞いた時、私はショックを受けた。)"
+    },
+    {
+      "id": 13,
+      "value": "flippin'",
+      "options": [
+        "飛んでいる",
+        "ひっくり返す",
+        "くだらない、むかつく",
+        "無視する"
+      ],
+      "correctAnswer": "くだらない、むかつく",
+      "explanation": "「flippin'」は、「fucking」の婉曲表現として使われるスラングです。「くだらない」「むかつく」「ひどい」といった意味合いで、不快感や強調を表します。\n\n例：That's a flippin' stupid idea. (それはくだらない考えだ。)"
+    },
+    {
+      "id": 14,
+      "value": "get some exercise",
+      "options": [
+        "運動する",
+        "休憩する",
+        "勉強する",
+        "食事する"
+      ],
+      "correctAnswer": "運動する",
+      "explanation": "「get some exercise」は、「運動する」という意味です。健康を維持するために体を動かすことを指します。\n\n例：I need to get some exercise to stay healthy. (健康を維持するために運動する必要があります。)"
+    },
+    {
+      "id": 15,
+      "value": "good point",
+      "options": [
+        "良い知らせ",
+        "良い考え",
+        "良い視点",
+        "良い冗談"
+      ],
+      "correctAnswer": "良い視点",
+      "explanation": "「good point」は、「良い指摘だ」「その通りだ」という意味です。相手の意見や発言に同意する際に使われます。\n\n例：'We should save money.' 'Good point.' ('お金を貯めるべきだ' 'その通りだ。')"
+    },
+    {
+      "id": 16,
+      "value": "gaming marathon",
+      "options": [
+        "ゲーム大会",
+        "ゲーム練習",
+        "ゲームマラソン",
+        "ゲーム展示会"
+      ],
+      "correctAnswer": "ゲームマラソン",
+      "explanation": "「gaming marathon」は、「ゲームマラソン」という意味です。長時間連続してゲームをプレイすることを指します。\n\n例：We had a gaming marathon last weekend. (先週末、ゲームマラソンをした。)"
+    },
+    {
+      "id": 17,
+      "value": "junk food",
+      "options": [
+        "健康食品",
+        "ジャンクフード",
+        "伝統食品",
+        "高級食品"
+      ],
+      "correctAnswer": "ジャンクフード",
+      "explanation": "「junk food」は、「ジャンクフード」という意味です。栄養価が低く、カロリーや脂肪分が高い食品を指します。\n\n例：I try to avoid eating junk food. (ジャンクフードを食べるのを避けるようにしています。)"
+    },
+    {
+      "id": 18,
+      "value": "back in the day",
+      "options": [
+        "将来",
+        "今日",
+        "昔",
+        "今"
+      ],
+      "correctAnswer": "昔",
+      "explanation": "「back in the day」は、「昔は」「昔のこと」という意味です。過去の特定の時期や時代を懐かしむ際に使われます。\n\n例：Back in the day, we used to play outside all the time. (昔は、いつも外で遊んでいた。)"
+    },
+    {
+      "id": 19,
+      "value": "clear your weekend",
+      "options": [
+        "週末をきれいにする",
+        "週末の予定を空ける",
+        "週末を明確にする",
+        "週末を忘れる"
+      ],
+      "correctAnswer": "週末の予定を空ける",
+      "explanation": "「clear your weekend」は、「週末の予定を空ける」という意味です。特定の活動のために週末を自由に使えるようにすることを指します。\n\n例：Clear your weekend, we're going camping. (週末の予定を空けて、キャンプに行くぞ。)"
+    },
+    {
+      "id": 20,
+      "value": "make-believe",
+      "options": [
+        "現実",
+        "作り話",
+        "真実",
+        "秘密"
+      ],
+      "correctAnswer": "作り話",
+      "explanation": "「make-believe」は、「ごっこ遊び」「作り話」という意味です。子供たちが想像力を働かせて行う遊びや、現実とは異なる状況を想定することを指します。\n\n例：Children often engage in make-believe games. (子供たちはよくごっこ遊びをする。)"
+    },
+    {
+      "id": 21,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待つ",
+        "頑張る",
+        "諦める"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、「待って」「ちょっと待って」という意味です。相手に一時的に待つように伝える際に使われます。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻る。)"
+    },
+    {
+      "id": 22,
+      "value": "shots",
+      "options": [
+        "写真",
+        "注射",
+        "チャンス",
+        "飲み物"
+      ],
+      "correctAnswer": "注射",
+      "explanation": "ここでは「shots」は予防接種のことです。旅行前に必要な予防接種について調べている場面で使われています。"
+    },
+    {
+      "id": 23,
+      "value": "get the right way",
+      "options": [
+        "右に行く",
+        "正しい道を選ぶ",
+        "正しい方法で手に入れる",
+        "自分のやり方を通す"
+      ],
+      "correctAnswer": "正しい道を選ぶ",
+      "explanation": "「get the right way」は、ここでは「正しい道を選ぶ」「正当な手段で目的を達成する」という意味合いで使われています。自分の意見が正しいと信じている人が、それを実現しようとするニュアンスが含まれます。"
+    },
+    {
+      "id": 24,
+      "value": "utility belt",
+      "options": [
+        "ユーティリティベルト",
+        "装飾ベルト",
+        "安全ベルト",
+        "ファッションベルト"
+      ],
+      "correctAnswer": "ユーティリティベルト",
+      "explanation": "「utility belt」は、道具や小物を収納するためのベルトのことです。特に、バットマンが身につけているような、多機能なベルトを指します。"
+    },
+    {
+      "id": 25,
+      "value": "model train store",
+      "options": [
+        "モデル列車店",
+        "モデルカー店",
+        "おもちゃ店",
+        "鉄道模型店"
+      ],
+      "correctAnswer": "鉄道模型店",
+      "explanation": "「model train store」は、鉄道模型を専門に扱うお店のことです。鉄道模型の部品やアクセサリー、ジオラマ用品などが販売されています。"
+    },
+    {
+      "id": 26,
+      "value": "get the gist",
+      "options": [
+        "要点を理解する",
+        "詳細を知る",
+        "情報を隠す",
+        "嘘をつく"
+      ],
+      "correctAnswer": "要点を理解する",
+      "explanation": "「get the gist」は、話や文章の要点や大まかな意味を理解するという意味です。細かい部分ではなく、全体的な内容を把握する際に使われます。\n\n例：I didn't understand all the details, but I got the gist of the presentation. (詳細は全部理解できなかったけど、プレゼンの要点はつかめた。)"
+    },
+    {
+      "id": 27,
+      "value": "a firm hand on the tiller",
+      "options": [
+        "困難を乗り越える",
+        "主導権を握る",
+        "責任を回避する",
+        "秘密を守る"
+      ],
+      "correctAnswer": "主導権を握る",
+      "explanation": "「have a firm hand on the tiller」は、文字通りには「舵をしっかりと握る」という意味ですが、比喩的には「主導権を握る」「状況をコントロールする」という意味で使われます。\n\n例：The new manager has a firm hand on the tiller and is making positive changes. (新しいマネージャーは主導権を握り、良い変化をもたらしている。)"
+    },
+    {
+      "id": 28,
+      "value": "hotsy-totsy",
+      "options": [
+        "高価な",
+        "魅力的な",
+        "退屈な",
+        "不快な"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「hotsy-totsy」は、魅力的でセクシーな女性を指す、やや古風で口語的な表現です。軽蔑的なニュアンスを含むこともあります。\n\n例：He was dating a hotsy-totsy actress from Hollywood. (彼はハリウッドの魅力的な女優と付き合っていた。)"
+    },
+    {
+      "id": 29,
+      "value": "smart as a whip",
+      "options": [
+        "非常に賢い",
+        "非常に強い",
+        "非常に速い",
+        "非常に危険な"
+      ],
+      "correctAnswer": "非常に賢い",
+      "explanation": "「smart as a whip」は、「非常に賢い」「頭が良い」という意味のイディオムです。機敏で賢い様子を表現します。\n\n例：She's as smart as a whip and always gets top grades. (彼女はとても頭が良く、いつもトップの成績を取っている。)"
+    },
+    {
+      "id": 30,
+      "value": "relationship-beta-test",
+      "options": [
+        "秘密の関係",
+        "試用期間の関係",
+        "終わった関係",
+        "理想的な関係"
+      ],
+      "correctAnswer": "試用期間の関係",
+      "explanation": "「beta test」はソフトウェア開発で、リリース前のテスト段階を指します。「relationship-beta-test」は、関係がまだ確立されておらず、試行錯誤の状態にあることを意味します。\n\n例：We're still in the relationship-beta-test phase, trying to figure things out. (私たちはまだ関係の試用段階で、いろいろ試しているところだ。)"
+    },
+    {
+      "id": 31,
+      "value": "a stallion that has to run free",
+      "options": [
+        "自由を求める男性",
+        "束縛を嫌う男性",
+        "嘘をつく男性",
+        "夢を語る男性"
+      ],
+      "correctAnswer": "自由を求める男性",
+      "explanation": "「stallion」は種馬を意味し、ここでは自由を求める男性の比喩として使われています。「run free」と組み合わせることで、束縛を嫌い、自由に生きたいという願望を強調しています。\n\n例：He sees himself as a stallion that has to run free, not tied down by commitment. (彼は自分を束縛されることなく自由に生きるべき種馬だと思っている。)"
+    },
+    {
+      "id": 32,
+      "value": "what I was getting into",
+      "options": [
+        "何を得ているか",
+        "何をしているのか",
+        "何に巻き込まれているか",
+        "何を考えているのか"
+      ],
+      "correctAnswer": "何に巻き込まれているか",
+      "explanation": "「get into」は様々な意味がありますが、ここでは「（困難な状況や複雑な事柄）に巻き込まれる」「関わる」という意味で使われています。「what I was getting into」は、「自分が何に巻き込まれているのか」を指します。\n\n例：I knew what I was getting into when I accepted this job. (この仕事を引き受けたとき、自分が何に巻き込まれるかわかっていた。)"
+    },
+    {
+      "id": 33,
+      "value": "put a saddle on",
+      "options": [
+        "束縛する",
+        "手伝う",
+        "理解する",
+        "解放する"
+      ],
+      "correctAnswer": "束縛する",
+      "explanation": "「put a saddle on」は、文字通りには「鞍を置く」という意味ですが、比喩的には「束縛する」「制御する」という意味で使われます。ここでは、自由奔放な人を束縛できないことを表現しています。\n\n例：You can't put a saddle on a wild spirit. (野生の精神を束縛することはできない。)"
+    },
+    {
+      "id": 34,
+      "value": "up the ante",
+      "options": [
+        "賭け金を上げる",
+        "譲歩する",
+        "要求を下げる",
+        "関係を断つ"
+      ],
+      "correctAnswer": "賭け金を上げる",
+      "explanation": "「up the ante」は、元々はポーカーの用語で「賭け金を上げる」という意味ですが、比喩的には「条件を良くする」「（要求などを）エスカレートさせる」という意味で使われます。\n\n例：The company upped the ante by offering a higher salary and better benefits. (会社はより高い給与とより良い福利厚生を提供することで条件を上げた。)"
+    },
+    {
+      "id": 35,
+      "value": "grammar check",
+      "options": [
+        "文法チェック",
+        "健康診断",
+        "性格診断",
+        "税務調査"
+      ],
+      "correctAnswer": "文法チェック",
+      "explanation": "「grammar check」は、文章の文法的な誤りをチェックすることです。スペルチェックとは異なり、文法的な構造や語順の誤りを検出します。\n\n例：I always run a grammar check on my articles before submitting them. (記事を提出する前に、必ず文法チェックをする。)"
+    },
+    {
+      "id": 36,
+      "value": "what have you",
+      "options": [
+        "その他色々",
+        "どうしたの",
+        "何を言っているの",
+        "何を持っているの"
+      ],
+      "correctAnswer": "その他色々",
+      "explanation": "「what have you」は、「その他色々」「～など」という意味で、リストの最後に付け加えて、他にも同様のものがあることを示唆する際に使われます。\n\n例：We sell books, magazines, newspapers, and what have you. (私たちは本、雑誌、新聞、その他色々を販売しています。)"
+    },
+    {
+      "id": 37,
+      "value": "Keep an eye on",
+      "options": [
+        "目を離さない",
+        "無視する",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "目を離さない",
+      "explanation": "「keep an eye on」は、「～から目を離さない」「～に注意する」という意味です。監視するだけでなく、気にかけて注意するというニュアンスがあります。\n\n例：Keep an eye on the expiration dates. (有効期限に注意してね。)"
+    },
+    {
+      "id": 38,
+      "value": "burned",
+      "options": [
+        "裏切られた",
+        "暖められた",
+        "褒められた",
+        "助けられた"
+      ],
+      "correctAnswer": "裏切られた",
+      "explanation": "「burned」は、「裏切られた」「騙された」「損害を受けた」という意味です。特に、信頼していた相手に裏切られた場合に用いられます。\n\n例：I've been burned more than once. (一度や二度、裏切られたことがある。)"
+    },
+    {
+      "id": 39,
+      "value": "favour",
+      "options": [
+        "頼み事",
+        "贈り物",
+        "嫌がらせ",
+        "脅迫"
+      ],
+      "correctAnswer": "頼み事",
+      "explanation": "「favour」は、「頼み事」「親切な行為」「好意」という意味です。人に何かをしてもらうことを依頼する際に使われます。\n\n例：Could you do me a favour and help me move this box? (お願いがあるんだけど、この箱を運ぶのを手伝ってくれない？)"
+    },
+    {
+      "id": 40,
+      "value": "nursing home",
+      "options": [
+        "介護施設",
+        "病院",
+        "学校",
+        "レストラン"
+      ],
+      "correctAnswer": "介護施設",
+      "explanation": "「nursing home」は、高齢者や慢性的な病気を持つ人が長期的に滞在し、介護や医療サービスを受ける施設のことです。\n\n例：My grandmother is in a nursing home now. (私の祖母は今、介護施設にいます。)"
+    },
+    {
+      "id": 41,
+      "value": "awful",
+      "options": [
+        "ひどい",
+        "素晴らしい",
+        "普通",
+        "面白い"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「awful」は、「ひどい」「酷い」「不快な」という意味です。非常に悪い状態や状況を表す際に使われます。\n\n例：The weather is awful today. (今日の天気はひどい。)"
+    },
+    {
+      "id": 42,
+      "value": "got that covered",
+      "options": [
+        "準備万端だ",
+        "忘れてしまった",
+        "理解できない",
+        "興味がない"
+      ],
+      "correctAnswer": "準備万端だ",
+      "explanation": "「got that covered」は、「それは対応済みだ」「準備万端だ」「手配済みだ」という意味です。問題や懸念事項に対して、すでに解決策があることを伝える際に使われます。\n\n例：Don't worry about the food, I've got that covered. (食べ物の心配はしないで、私が手配済みだよ。)"
+    },
+    {
+      "id": 43,
+      "value": "honouring your commitment",
+      "options": [
+        "約束を果たす",
+        "秘密を守る",
+        "嘘をつく",
+        "夢を語る"
+      ],
+      "correctAnswer": "約束を果たす",
+      "explanation": "「honour a commitment」は、「約束を果たす」「義務を履行する」という意味です。道徳的または法的な義務を尊重し、守ることを意味します。\n\n例：It's important to honour your commitments, even when things get difficult. (物事が難しくなっても、約束を果たすことが大切だ。)"
+    },
+    {
+      "id": 44,
+      "value": "showing up",
+      "options": [
+        "姿を現す",
+        "隠れる",
+        "主張する",
+        "反論する"
+      ],
+      "correctAnswer": "姿を現す",
+      "explanation": "「show up」は、「現れる」「姿を現す」「出席する」という意味です。特に、予定された場所やイベントに到着することを指します。\n\n例：I was supposed to meet him at 8, but he didn't show up. (彼と8時に会う予定だったけど、彼は現れなかった。)"
+    },
+    {
+      "id": 45,
+      "value": "piece of cake",
+      "options": [
+        "簡単なこと",
+        "難しいこと",
+        "良いこと",
+        "悪いこと"
+      ],
+      "correctAnswer": "簡単なこと",
+      "explanation": "「piece of cake」は、「朝飯前」「楽勝」「簡単なこと」という意味のイディオムです。非常に簡単にできることを表現します。\n\n例：The exam was a piece of cake. (試験は朝飯前だった。)"
+    },
+    {
+      "id": 46,
+      "value": "provided",
+      "options": [
+        "もし～ならば",
+        "～にもかかわらず",
+        "～のおかげで",
+        "～のために"
+      ],
+      "correctAnswer": "もし～ならば",
+      "explanation": "「provided」は、「もし～ならば」「～という条件で」という意味の接続詞です。条件や前提を示す際に使われます。\n\n例：I'll go to the party provided I can leave early. (早く帰れるならパーティーに行くよ。)"
+    },
+    {
+      "id": 47,
+      "value": "candle blow",
+      "options": [
+        "ろうそくの火を消す息",
+        "お祝いの言葉",
+        "誕生日のプレゼント",
+        "ケーキのデコレーション"
+      ],
+      "correctAnswer": "ろうそくの火を消す息",
+      "explanation": "ここでは「candle blow」は、誕生日ケーキのろうそくを吹き消す息のことを指します。「old gal's candle blow is clean and dry」は、おばあさんがろうそくを吹き消す際に、唾液などがケーキにかからないように、清潔であることを願う表現です。ややユーモラスな言い回しです。"
+    },
+    {
+      "id": 48,
+      "value": "jerky",
+      "options": [
+        "干し肉",
+        "チーズ",
+        "スープ",
+        "ケーキ"
+      ],
+      "correctAnswer": "干し肉",
+      "explanation": "「jerky」は、薄切りにして乾燥させた肉のことです。保存食として、またスナックとして食べられます。\n\n例：beef jerky (ビーフジャーキー)"
+    },
+    {
+      "id": 49,
+      "value": "snack packs",
+      "options": [
+        "小分けのお菓子",
+        "調理器具",
+        "掃除道具",
+        "文房具"
+      ],
+      "correctAnswer": "小分けのお菓子",
+      "explanation": "「snack pack」は、小分けにされたお菓子や軽食のことです。持ち運びやすく、量を調整しやすいという利点があります。\n\n例：100-calorie snack packs (100カロリーのスナックパック)"
+    },
+    {
+      "id": 51,
+      "value": "pick up",
+      "options": [
+        "手に入れる",
+        "持ち上げる",
+        "車で迎えに行く",
+        "電話に出る"
+      ],
+      "correctAnswer": "手に入れる",
+      "explanation": "ここでは「（何かを）手に入れる、拾う」という意味で使われています。日常会話で広く使われる表現です。他に「（人を）車で迎えに行く」「電話に出る」などの意味もあります。"
+    },
+    {
+      "id": 52,
+      "value": "leveling up",
+      "options": [
+        "落ち着く",
+        "悪化する",
+        "レベルアップする",
+        "平らにする"
+      ],
+      "correctAnswer": "レベルアップする",
+      "explanation": "ビデオゲームなどでキャラクターの能力が向上することを指します。比喩的に、スキルや能力が向上することにも使われます。"
+    },
+    {
+      "id": 53,
+      "value": "lawful good",
+      "options": [
+        "無法者",
+        "中立",
+        "秩序にして善",
+        "悪そのもの"
+      ],
+      "correctAnswer": "秩序にして善",
+      "explanation": "「Dungeons & Dragons」などのロールプレイングゲームにおけるキャラクターの属性の一つで、「秩序を重んじ、善良な行いをする」という意味です。道徳的規範を重視する性格を表します。"
+    },
+    {
+      "id": 54,
+      "value": "stem cell research",
+      "options": [
+        "家族計画",
+        "幹細胞研究",
+        "宇宙開発",
+        "経済政策"
+      ],
+      "correctAnswer": "幹細胞研究",
+      "explanation": "ES細胞や人工多能性幹細胞（iPS細胞）などの幹細胞を用いて行う医学研究のことです。再生医療などへの応用が期待されています。"
+    },
+    {
+      "id": 55,
+      "value": "beat you to it",
+      "options": [
+        "打ち負かす",
+        "先を越される",
+        "同意する",
+        "無視する"
+      ],
+      "correctAnswer": "先を越される",
+      "explanation": "「（人が何かをする前に）先を越す」という意味のイディオムです。競争や出し抜く状況で使われます。例：I was going to suggest that, but you beat me to it! (それを提案しようと思ったのに、先に言われてしまった！)"
+    },
+    {
+      "id": 56,
+      "value": "arboretum",
+      "options": [
+        "遊園地",
+        "植物園",
+        "美術館",
+        "水族館"
+      ],
+      "correctAnswer": "植物園",
+      "explanation": "研究や展示を目的として、様々な種類の樹木を植栽・管理している場所のことです。"
+    },
+    {
+      "id": 57,
+      "value": "contextually appropriate",
+      "options": [
+        "文脈上適切",
+        "完全に間違っている",
+        "時代遅れ",
+        "非現実的"
+      ],
+      "correctAnswer": "文脈上適切",
+      "explanation": "特定の状況や文脈において適切であるという意味です。状況に合った行動や発言を指します。"
+    },
+    {
+      "id": 58,
+      "value": "cheat on",
+      "options": [
+        "浮気する",
+        "手伝う",
+        "騙す",
+        "頼る"
+      ],
+      "correctAnswer": "浮気する",
+      "explanation": "恋人や配偶者を裏切って他の人と性的関係を持つことを意味します。信頼を損なう行為です。"
+    },
+    {
+      "id": 59,
+      "value": "make someone up",
+      "options": [
+        "仲直りする",
+        "化粧する",
+        "でっちあげる",
+        "決意する"
+      ],
+      "correctAnswer": "でっちあげる",
+      "explanation": "存在しないものを想像して作り出す、または嘘をついて作り上げるという意味です。架空の人物や話を捏造する際に使われます。"
+    },
+    {
+      "id": 60,
+      "value": "get someone off one's back",
+      "options": [
+        "～を元気付ける",
+        "～から解放される",
+        "～を無視する",
+        "～を支援する"
+      ],
+      "correctAnswer": "～から解放される",
+      "explanation": "誰かが自分に干渉したり、うるさく言ったりするのを止めさせるという意味です。プレッシャーや煩わしさから解放されるニュアンスがあります。"
+    },
+    {
+      "id": 61,
+      "value": "unravelled",
+      "options": [
+        "解決した",
+        "崩壊した",
+        "改善した",
+        "明らかになった"
+      ],
+      "correctAnswer": "崩壊した",
+      "explanation": "糸などがほぐれる、物事がうまくいかなくなる、計画などが崩壊するという意味です。ここでは、嘘がばれて関係が崩れた状況を表しています。"
+    },
+    {
+      "id": 62,
+      "value": "on purpose",
+      "options": [
+        "偶然に",
+        "急いで",
+        "故意に",
+        "秘密裏に"
+      ],
+      "correctAnswer": "故意に",
+      "explanation": "意図的に、計画的にという意味です。何かを意図して行うことを強調する際に使われます。"
+    },
+    {
+      "id": 63,
+      "value": "lanky",
+      "options": [
+        "太った",
+        "小柄な",
+        "痩せていて手足が長い",
+        "筋肉質な"
+      ],
+      "correctAnswer": "痩せていて手足が長い",
+      "explanation": "細身で手足が長い体型を指す形容詞です。必ずしもネガティブな意味ではなく、ユーモラスなニュアンスを含むこともあります。"
+    },
+    {
+      "id": 64,
+      "value": "sucky",
+      "options": [
+        "素晴らしい",
+        "最悪な",
+        "平均的な",
+        "幸運な"
+      ],
+      "correctAnswer": "最悪な",
+      "explanation": "俗語で「ひどい」「最悪な」という意味です。不快な状況や経験を表す際に使われます。"
+    },
+    {
+      "id": 65,
+      "value": "leaves you open to",
+      "options": [
+        "閉鎖的にする",
+        "～にさらす",
+        "～を無視する",
+        "安全にする"
+      ],
+      "correctAnswer": "～にさらす",
+      "explanation": "何かに対して脆弱な状態になる、影響を受けやすくなるという意味です。ここでは、愛情を持つことで傷つく可能性が生じることを指しています。"
+    },
+    {
+      "id": 66,
+      "value": "advocated",
+      "options": [
+        "反対した",
+        "提唱した",
+        "無視した",
+        "隠蔽した"
+      ],
+      "correctAnswer": "提唱した",
+      "explanation": "公に支持する、推奨するという意味です。特定の主義や政策を支持する際に使われます。"
+    },
+    {
+      "id": 67,
+      "value": "non-violence",
+      "options": [
+        "暴力",
+        "不干渉",
+        "非暴力",
+        "平和"
+      ],
+      "correctAnswer": "非暴力",
+      "explanation": "暴力を行使しないこと。紛争解決や社会変革の手段として用いられることがあります。"
+    },
+    {
+      "id": 68,
+      "value": "loot",
+      "options": [
+        "略奪品",
+        "贈り物",
+        "借金",
+        "友情"
+      ],
+      "correctAnswer": "略奪品",
+      "explanation": "戦利品、略奪品という意味です。ゲーム内では、敵を倒したときなどに得られるアイテムや報酬を指します。"
+    },
+    {
+      "id": 69,
+      "value": "match",
+      "options": [
+        "試合",
+        "一致する",
+        "比較する",
+        "反対する"
+      ],
+      "correctAnswer": "一致する",
+      "explanation": "ここでは「お揃いにする」という意味で使われています。色やデザインなどが一致することを指します。"
+    },
+    {
+      "id": 70,
+      "value": "beginner's luck",
+      "options": [
+        "熟練者の技",
+        "初心者の幸運",
+        "努力の成果",
+        "才能の開花"
+      ],
+      "correctAnswer": "初心者の幸運",
+      "explanation": "初心者が偶然に良い結果を出すこと。ビギナーズラックとも言います。"
+    },
+    {
+      "id": 71,
+      "value": "trick shots",
+      "options": [
+        "奇跡",
+        "隠し事",
+        "トリックショット",
+        "秘密兵器"
+      ],
+      "correctAnswer": "トリックショット",
+      "explanation": "高度な技術を要する特殊なショット。通常、娯楽や見世物として行われます。"
+    },
+    {
+      "id": 72,
+      "value": "raising money",
+      "options": [
+        "資金を調達する",
+        "怒りを買う",
+        "話題にする",
+        "解雇する"
+      ],
+      "correctAnswer": "資金を調達する",
+      "explanation": "活動やプロジェクトのために資金を集めること。チャリティイベントなどでよく行われます。"
+    },
+    {
+      "id": 73,
+      "value": "on your tail",
+      "options": [
+        "応援している",
+        "すぐ後ろにいる",
+        "無視している",
+        "邪魔している"
+      ],
+      "correctAnswer": "すぐ後ろにいる",
+      "explanation": "追跡されている状態を表す表現。文字通りには「尻尾に付いている」という意味です。"
+    },
+    {
+      "id": 74,
+      "value": "divide up",
+      "options": [
+        "独り占めする",
+        "分割する",
+        "隠す",
+        "捨てる"
+      ],
+      "correctAnswer": "分割する",
+      "explanation": "何かを複数の人に分配すること。分け与えるというニュアンスがあります。"
+    },
+    {
+      "id": 75,
+      "value": "wishing wells",
+      "options": [
+        "油田",
+        "洞窟",
+        "願いの井戸",
+        "鉱山"
+      ],
+      "correctAnswer": "願いの井戸",
+      "explanation": "願い事をするためにコインを投げ入れる井戸。投げ入れたコインが底につくと願いが叶うと言われています。"
+    },
+    {
+      "id": 76,
+      "value": "catch up",
+      "options": [
+        "追いつく",
+        "捕まえる",
+        "遅れる",
+        "忘れる"
+      ],
+      "correctAnswer": "追いつく",
+      "explanation": "「catch up」は、遅れを取り戻す、最新の情報や状況を把握するという意味です。相手の話についていく、議論に参加できるようになる、という意味合いで使われます。例：I need to catch up on the news. (ニュースに追いつかないと。)"
+    },
+    {
+      "id": 77,
+      "value": "dopey",
+      "options": [
+        "賢い",
+        "愚かな",
+        "面白い",
+        "重要な"
+      ],
+      "correctAnswer": "愚かな",
+      "explanation": "「dopey」は、愚鈍な、ぼんやりした、という意味です。特に、薬物の影響で意識が朦朧としている状態を表すこともあります。ここでは、SheldonがStar Trekのゲームに夢中になっている様子をやや軽蔑的に表現しています。"
+    },
+    {
+      "id": 78,
+      "value": "cranky",
+      "options": [
+        "幸せな",
+        "不機嫌な",
+        "冷静な",
+        "満足な"
+      ],
+      "correctAnswer": "不機嫌な",
+      "explanation": "「cranky」は、気難しい、不機嫌な、という意味です。特に、些細なことでイライラしたり、文句を言ったりする様子を表します。Star WarsとStar Trekを混同すると、ファンが不機嫌になる、という文脈で使われています。"
+    },
+    {
+      "id": 79,
+      "value": "girlfriend 101",
+      "options": [
+        "彼女の取扱説明書",
+        "彼女を作る方法",
+        "彼女の気持ち",
+        "彼女学入門"
+      ],
+      "correctAnswer": "彼女学入門",
+      "explanation": "「○○ 101」は、ある分野の基礎、入門を意味する表現です。ここでは、PennyがAmyに、彼女としてどう振る舞うべきかの基本的なアドバイスをすることを指しています。大学のコース名などにもよく使われます。"
+    },
+    {
+      "id": 80,
+      "value": "out of the gate",
+      "options": [
+        "出発してすぐに",
+        "門の外で",
+        "競争から外れて",
+        "成功して"
+      ],
+      "correctAnswer": "出発してすぐに",
+      "explanation": "「out of the gate」は、競争や活動の開始直後、という意味です。競馬でゲートが開いて馬が飛び出す様子から来ています。ここでは、恋愛関係において最初に行うべきこと、という意味合いで使われています。"
+    },
+    {
+      "id": 81,
+      "value": "withhold",
+      "options": [
+        "与える",
+        "差し控える",
+        "隠す",
+        "共有する"
+      ],
+      "correctAnswer": "差し控える",
+      "explanation": "「withhold」は、何かを保留する、与えない、差し控えるという意味です。ここでは、性的な関係を保留することで、Sheldonの行動をコントロールしようとするPennyのアドバイスに使われています。"
+    },
+    {
+      "id": 82,
+      "value": "oldie but goodie",
+      "options": [
+        "古くて悪いもの",
+        "古くて良いもの",
+        "新しくて良いもの",
+        "新しくて悪いもの"
+      ],
+      "correctAnswer": "古くて良いもの",
+      "explanation": "「oldie but goodie」は、古いけれど良いもの、定番、という意味です。ここでは、昔からあるけれど効果的な方法、つまり「make a scene（騒ぎを起こす）」ことを指しています。"
+    },
+    {
+      "id": 83,
+      "value": "make a scene",
+      "options": [
+        "良い雰囲気を作る",
+        "騒ぎを起こす",
+        "注目を集める",
+        "静かにする"
+      ],
+      "correctAnswer": "騒ぎを起こす",
+      "explanation": "「make a scene」は、人前で騒ぎを起こす、目立つ行動をする、という意味です。ここでは、AmyがSheldonに不満をぶつけて、彼の行動を改めさせようとする行動を指しています。"
+    },
+    {
+      "id": 84,
+      "value": "in charge of",
+      "options": [
+        "〜の責任者",
+        "〜の代わりに",
+        "〜から解放されて",
+        "〜に反対して"
+      ],
+      "correctAnswer": "〜の責任者",
+      "explanation": "「in charge of」は、〜の責任者である、〜を担当している、という意味です。ここでは、Bernadetteがゲーム内でヒーラーの役割を担当していることを指しています。"
+    },
+    {
+      "id": 85,
+      "value": "sickeningly sweet",
+      "options": [
+        "病的に甘い",
+        "非常に苦い",
+        "程よく甘い",
+        "全く甘くない"
+      ],
+      "correctAnswer": "病的に甘い",
+      "explanation": "「sickeningly sweet」は、度が過ぎて気持ち悪くなるほど甘い、という意味です。ここでは、BernadetteとHowardの甘すぎるやり取りをSheldonが皮肉っぽく表現しています。"
+    },
+    {
+      "id": 86,
+      "value": "have a bone to pick with",
+      "options": [
+        "骨を拾う",
+        "議論したいことがある",
+        "友達になる",
+        "食事を共にする"
+      ],
+      "correctAnswer": "議論したいことがある",
+      "explanation": "「have a bone to pick with」は、〜と議論したいことがある、文句を言いたいことがある、という意味です。ここでは、AmyがSheldonに対して不満があることを表しています。"
+    },
+    {
+      "id": 87,
+      "value": "pick that bone clean",
+      "options": [
+        "骨を綺麗に掃除する",
+        "徹底的に議論する",
+        "骨を隠す",
+        "骨を折る"
+      ],
+      "correctAnswer": "徹底的に議論する",
+      "explanation": "「pick the bone clean」は、問題や不満を徹底的に議論する、という意味です。ここでは、PennyがAmyに対して、Sheldonに対する不満を遠慮なくぶつけるように励ましています。"
+    },
+    {
+      "id": 88,
+      "value": "burn",
+      "options": [
+        "焼却",
+        "痛烈な一言",
+        "称賛",
+        "沈黙"
+      ],
+      "correctAnswer": "痛烈な一言",
+      "explanation": "「burn」は、相手を言い負かす痛烈な一言、または侮辱を意味するスラングです。ここでは、AmyのSheldonに対する発言が効果的だったことをPennyが評価しています。"
+    },
+    {
+      "id": 89,
+      "value": "stood her up",
+      "options": [
+        "彼女を助けた",
+        "彼女を裏切った",
+        "彼女を褒めた",
+        "彼女を励ました"
+      ],
+      "correctAnswer": "彼女を裏切った",
+      "explanation": "「stand someone up」は、約束をすっぽかす、待ち合わせ場所に現れない、という意味です。ここでは、SheldonがAmyとの約束を破ったことを指しています。"
+    },
+    {
+      "id": 90,
+      "value": "rings hollow",
+      "options": [
+        "素晴らしい音色",
+        "空虚に響く",
+        "静かに聞こえる",
+        "心地よい響き"
+      ],
+      "correctAnswer": "空虚に響く",
+      "explanation": "「ring hollow」は、空虚に響く、むなしく聞こえる、という意味です。ここでは、Sheldonが自分の恋人であることを人に自慢できない状況をAmyが嘆いていることを指しています。"
+    },
+    {
+      "id": 91,
+      "value": "lord him over others",
+      "options": [
+        "彼を尊敬する",
+        "彼を他人に見せびらかす",
+        "彼を無視する",
+        "彼を助ける"
+      ],
+      "correctAnswer": "彼を他人に見せびらかす",
+      "explanation": "「lord someone over others」は、〜を他人に見せびらかして優越感を得る、という意味です。ここでは、AmyがSheldonを恋人として他人に見せびらかしたい気持ちを表しています。"
+    },
+    {
+      "id": 92,
+      "value": "restitution",
+      "options": [
+        "復讐",
+        "賠償",
+        "感謝",
+        "贈り物"
+      ],
+      "correctAnswer": "賠償",
+      "explanation": "「restitution」は、損害賠償、償い、という意味です。ここでは、SheldonがAmyに与えた精神的な損害を埋め合わせるために、クーポン券を渡そうとしています。"
+    },
+    {
+      "id": 93,
+      "value": "well played",
+      "options": [
+        "素晴らしい演奏",
+        "よくやった",
+        "失敗した",
+        "練習が必要"
+      ],
+      "correctAnswer": "よくやった",
+      "explanation": "「well played」は、よくやった、上手くいった、という意味です。ここでは、AmyがSheldonをクーポン券で釣ったことに対して、Sheldonが感心して言っています。"
+    },
+    {
+      "id": 94,
+      "value": "looking forward to",
+      "options": [
+        "後ろを向いている",
+        "楽しみにしている",
+        "反対している",
+        "忘れている"
+      ],
+      "correctAnswer": "楽しみにしている",
+      "explanation": "「look forward to」は、〜を楽しみにしている、という意味です。ここでは、Rajが週末のゲームを楽しみにしていたことを表しています。"
+    },
+    {
+      "id": 95,
+      "value": "the old days",
+      "options": [
+        "古い時代",
+        "昔",
+        "未来",
+        "現代"
+      ],
+      "correctAnswer": "昔",
+      "explanation": "「the old days」は、昔、古き良き時代、という意味です。ここでは、Rajがガールフレンドができる前の、仲間とゲームを楽しんでいた頃を懐かしんでいます。"
+    },
+    {
+      "id": 96,
+      "value": "deserve",
+      "options": [
+        "値する",
+        "軽蔑する",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "値する",
+      "explanation": "「deserve」は、〜に値する、〜を受ける価値がある、という意味です。ここでは、Rajがゲームを楽しむ週末を過ごすに値するとPennyが言っています。"
+    },
+    {
+      "id": 97,
+      "value": "rain check",
+      "options": [
+        "雨の日の小切手",
+        "またの機会に",
+        "キャンセル",
+        "延期"
+      ],
+      "correctAnswer": "またの機会に",
+      "explanation": "「rain check」は、今回は辞退するけれど、またの機会に、という意味です。元々は、雨天中止になったイベントのチケットを別の機会に使えるようにするシステムから来ています。ここでは、AmyがPennyとの約束を一旦保留にすることを示唆しています。"
+    },
+    {
+      "id": 98,
+      "value": "worried sick",
+      "options": [
+        "病気を心配する",
+        "非常に心配する",
+        "心配しない",
+        "病気を楽しむ"
+      ],
+      "correctAnswer": "非常に心配する",
+      "explanation": "「worried sick」は、非常に心配する、心配で病気になるほど、という意味です。ここでは、Howardの母親が彼のことを非常に心配していたことを表しています。"
+    },
+    {
+      "id": 99,
+      "value": "have had it up to here",
+      "options": [
+        "ここまで来た",
+        "満足している",
+        "我慢の限界",
+        "準備万端"
+      ],
+      "correctAnswer": "我慢の限界",
+      "explanation": "「have had it up to here」は、もう我慢できない、うんざりだ、という意味です。手のひらを首のあたりまで上げて、限界を示します。ここでは、Howardの母親が彼の行動に我慢できなくなったことを表しています。"
+    },
+    {
+      "id": 100,
+      "value": "got to go",
+      "options": [
+        "行かなければならない",
+        "行くことを許された",
+        "行くことを禁止された",
+        "行く必要がない"
+      ],
+      "correctAnswer": "行かなければならない",
+      "explanation": "「got to go」は、「have got to go」の略で、行かなければならない、という意味です。ここでは、Howardが母親に呼ばれて家に戻らなければならない状況を表しています。"
+    }
+  ]
+}

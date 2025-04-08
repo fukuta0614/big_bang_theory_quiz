@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "disconfirmed",
+      "options": [
+        "立証された",
+        "反証された",
+        "確認された",
+        "無視された"
+      ],
+      "correctAnswer": "反証された",
+      "explanation": "「disconfirm」は、仮説や理論がデータや証拠によって誤りであることが示されることを意味します。単に否定されるだけでなく、具体的な証拠によってその正当性が覆されるニュアンスがあります。"
+    },
+    {
+      "id": 2,
+      "value": "clinging to",
+      "options": [
+        "こだわる",
+        "理解する",
+        "放棄する",
+        "避ける"
+      ],
+      "correctAnswer": "こだわる",
+      "explanation": "「cling to」は、物理的にしがみつく意味から転じて、考え、信念、習慣などを手放したくない、強く固執するという意味になります。往々にして、それが非合理的であったり、不利な状況をもたらしたりする場合に使われます。"
+    },
+    {
+      "id": 3,
+      "value": "intellectual stubbornness",
+      "options": [
+        "知的な謙虚さ",
+        "知的な柔軟性",
+        "知的な頑固さ",
+        "知的な無知"
+      ],
+      "correctAnswer": "知的な頑固さ",
+      "explanation": "「intellectual stubbornness」は、自分の知識や考えに固執し、他者の意見や証拠を受け入れない態度を指します。議論や学習の妨げになることが多い、ネガティブな意味合いで使われる表現です。"
+    },
+    {
+      "id": 4,
+      "value": "shocking ignorance",
+      "options": [
+        "驚くほどの知識",
+        "普通の知識",
+        "衝撃的な無知",
+        "少しの知識"
+      ],
+      "correctAnswer": "衝撃的な無知",
+      "explanation": "「shocking ignorance」は、あるテーマや分野に対する知識が極端に不足している状態を指します。予想をはるかに超える無知さに対して、驚きや非難の感情を込めて使われることが多いです。"
+    },
+    {
+      "id": 5,
+      "value": "brought this on yourself",
+      "options": [
+        "他人のおかげ",
+        "自業自得",
+        "偶然の出来事",
+        "運が良かった"
+      ],
+      "correctAnswer": "自業自得",
+      "explanation": "「bring something on oneself」は、自分の行動や選択の結果として、困難や問題を引き起こすという意味です。自業自得、身から出た錆といったニュアンスで使われます。"
+    },
+    {
+      "id": 6,
+      "value": "have no leg to stand on",
+      "options": [
+        "休憩する",
+        "旅行する",
+        "正当な根拠がない",
+        "運動する"
+      ],
+      "correctAnswer": "正当な根拠がない",
+      "explanation": "「have no leg to stand on」は、議論や主張において、それを支持する証拠や根拠が全くない状態を指します。文字通りには「立つための足がない」という意味で、比喩的に使われます。"
+    },
+    {
+      "id": 7,
+      "value": "reassigned",
+      "options": [
+        "割り当てられた",
+        "隠された",
+        "取り消された",
+        "掃除された"
+      ],
+      "correctAnswer": "割り当てられた",
+      "explanation": "「reassign」は、人や物を別の場所や役割に再び割り当てることを意味します。ここでは駐車場が別の人に割り当てられたことを指しています。"
+    },
+    {
+      "id": 8,
+      "value": "cutting the risk",
+      "options": [
+        "リスクを高める",
+        "リスクを無視する",
+        "リスクを軽減する",
+        "リスクを予測する"
+      ],
+      "correctAnswer": "リスクを軽減する",
+      "explanation": "「cut the risk」は、リスクや危険性を減らす、小さくするという意味です。ここではドアの傷のリスクを減らすという文脈で使われています。"
+    },
+    {
+      "id": 9,
+      "value": "fortuitous",
+      "options": [
+        "不運な",
+        "計画的な",
+        "偶然の",
+        "危険な"
+      ],
+      "correctAnswer": "偶然の",
+      "explanation": "「fortuitous」は、偶然に起こった、幸運な、という意味を持つ形容詞です。意図せずに良い結果が得られた状況を指します。"
+    },
+    {
+      "id": 10,
+      "value": "real jerks",
+      "options": [
+        "正直者",
+        "優しい人",
+        "嫌なやつ",
+        "面白い人"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「jerk」は、嫌なやつ、不快な人物、という意味のスラングです。「real jerks」で、本当に嫌なやつら、という意味になります。"
+    },
+    {
+      "id": 11,
+      "value": "meanwhile",
+      "options": [
+        "ついに",
+        "なぜなら",
+        "その一方で",
+        "永遠に"
+      ],
+      "correctAnswer": "その一方で",
+      "explanation": "「meanwhile」は、その間に、その一方で、という意味の接続副詞です。時間的に同時進行している事柄や、対比される状況を示す際に用いられます。"
+    },
+    {
+      "id": 12,
+      "value": "leave me no choice",
+      "options": [
+        "私に選択肢を与える",
+        "私を無視する",
+        "私に選択肢を残さない",
+        "私を助ける"
+      ],
+      "correctAnswer": "私に選択肢を残さない",
+      "explanation": "「leave someone no choice」は、誰かに選択の余地を与えない、強制的にある行動を取らせるという意味です。相手の行動によって、自分ができることが限られてしまう状況で使われます。"
+    },
+    {
+      "id": 13,
+      "value": "listen to reason",
+      "options": [
+        "理由を聞かない",
+        "感情的に話す",
+        "理性を聞く",
+        "嘘をつく"
+      ],
+      "correctAnswer": "理性を聞く",
+      "explanation": "「listen to reason」は、理性的に考える、道理をわきまえる、という意味です。感情的にならず、論理的に物事を判断するように促す際に用いられます。"
+    },
+    {
+      "id": 14,
+      "value": "salty language",
+      "options": [
+        "丁寧な言葉",
+        "無意味な言葉",
+        "汚い言葉",
+        "難しい言葉"
+      ],
+      "correctAnswer": "汚い言葉",
+      "explanation": "「salty language」は、汚い言葉、下品な言葉、悪態、という意味です。特にフォーマルな場や、礼儀を重んじる状況で不適切とされる言葉遣いを指します。"
+    },
+    {
+      "id": 15,
+      "value": "high-profile asset",
+      "options": [
+        "目立たない資産",
+        "高価な負債",
+        "注目される人材",
+        "使い捨ての道具"
+      ],
+      "correctAnswer": "注目される人材",
+      "explanation": "「high-profile asset」は、組織や企業にとって非常に価値があり、注目を集める人材や資産を指します。高い能力や実績を持ち、組織の評判を高める貢献をする人物を指すことが多いです。"
+    },
+    {
+      "id": 16,
+      "value": "milk that cow",
+      "options": [
+        "仕事を始める",
+        "チャンスを逃す",
+        "利用できるだけ利用する",
+        "休憩を取る"
+      ],
+      "correctAnswer": "利用できるだけ利用する",
+      "explanation": "「milk the cow」は、比喩的に、何かを利用できる限り最大限に利用する、搾り取るという意味です。ここでは、宇宙に行ったことをいつまでも利用し続ける、という意味合いで使われています。"
+    },
+    {
+      "id": 17,
+      "value": "slippery slope",
+      "options": [
+        "安全な道",
+        "簡単な問題",
+        "危険な道",
+        "良い機会"
+      ],
+      "correctAnswer": "危険な道",
+      "explanation": "「slippery slope」は、ある行動や決定が、一見小さなものに見えても、連続するネガティブな結果を引き起こす可能性があるという議論で用いられる比喩表現です。一旦踏み出すと、制御できなくなる危険性を示唆します。"
+    },
+    {
+      "id": 18,
+      "value": "take the wheel",
+      "options": [
+        "散歩する",
+        "運転する",
+        "泳ぐ",
+        "踊る"
+      ],
+      "correctAnswer": "運転する",
+      "explanation": "「take the wheel」は、文字通りには車のハンドルを握る、つまり運転するという意味ですが、比喩的には、責任を引き受ける、主導権を握るという意味でも使われます。"
+    },
+    {
+      "id": 19,
+      "value": "sleep one off",
+      "options": [
+        "運動する",
+        "勉強する",
+        "寝て酔いを覚ます",
+        "仕事をする"
+      ],
+      "correctAnswer": "寝て酔いを覚ます",
+      "explanation": "「sleep something off」は、寝ることで（主にアルコールの）影響を和らげる、酔いを覚ますという意味です。不快な状態を睡眠によって解消しようとする際に用いられます。"
+    },
+    {
+      "id": 20,
+      "value": "take my side",
+      "options": [
+        "無視する",
+        "反対する",
+        "味方をする",
+        "忘れる"
+      ],
+      "correctAnswer": "味方をする",
+      "explanation": "「take someone's side」は、誰かの味方をする、誰かの立場を支持するという意味です。意見の対立がある際に、どちらかの側につくことを表します。"
+    },
+    {
+      "id": 21,
+      "value": "be more specific",
+      "options": [
+        "もっと曖昧に",
+        "もっと明確に",
+        "もっと早く",
+        "もっと静かに"
+      ],
+      "correctAnswer": "もっと明確に",
+      "explanation": "「be more specific」は、より具体的に言う、詳しく説明するという意味です。曖昧な表現を避け、より詳細な情報を提供するように促す際に用いられます。"
+    },
+    {
+      "id": 22,
+      "value": "the rules we live by",
+      "options": [
+        "守るべきルール",
+        "無視するべきルール",
+        "私たちが生きる上でのルール",
+        "学ぶべきルール"
+      ],
+      "correctAnswer": "私たちが生きる上でのルール",
+      "explanation": "「the rules we live by」は、私たちが従うべきルール、生活の規範、という意味です。社会や特定のグループにおける行動の基準を指します。"
+    },
+    {
+      "id": 23,
+      "value": "payback",
+      "options": [
+        "支払い",
+        "報酬",
+        "仕返し",
+        "許し"
+      ],
+      "correctAnswer": "仕返し",
+      "explanation": "「payback」は、仕返し、報復、という意味です。不当な扱いを受けた場合に、相手に同じような目に遭わせようとする行為を指します。"
+    },
+    {
+      "id": 24,
+      "value": "limited edition",
+      "options": [
+        "使い放題",
+        "通常版",
+        "限定版",
+        "海賊版"
+      ],
+      "correctAnswer": "限定版",
+      "explanation": "「limited edition」は、限定版、数量限定品という意味です。通常版よりも希少価値が高く、コレクターアイテムとして人気があります。"
+    },
+    {
+      "id": 25,
+      "value": "help you out",
+      "options": [
+        "無視する",
+        "手伝う",
+        "邪魔する",
+        "見捨てる"
+      ],
+      "correctAnswer": "手伝う",
+      "explanation": "「help someone out」は、誰かを助ける、手伝うという意味です。困難な状況にある人に対して、支援や協力を行うことを指します。"
+    },
+    {
+      "id": 26,
+      "value": "testosterone-fueled",
+      "options": [
+        "テストステロンで満たされた",
+        "愛情に満ちた",
+        "知性に満ちた",
+        "ユーモアに満ちた"
+      ],
+      "correctAnswer": "テストステロンで満たされた",
+      "explanation": "「testosterone-fueled」は、テストステロン（男性ホルモン）によって勢いがついている、または影響を受けているという意味です。ここでは、男性的な競争心や攻撃性が高まっている様子を強調するために使われています。男性同士の対立や張り合いを描写する際によく用いられる表現です。"
+    },
+    {
+      "id": 27,
+      "value": "lock horns",
+      "options": [
+        "角を隠す",
+        "仲良くする",
+        "対立する",
+        "協力する"
+      ],
+      "correctAnswer": "対立する",
+      "explanation": "「lock horns」は、文字通りには「角を突き合わせる」という意味で、比喩的には「激しく対立する」「争う」という意味になります。特に意見や立場の違いから、激しい議論や競争をする状況を表す際に用いられます。類似の表現として、'butt heads' があります。"
+    },
+    {
+      "id": 28,
+      "value": "moment in the sun",
+      "options": [
+        "日陰の時間",
+        "成功の瞬間",
+        "退屈な時間",
+        "休息の時間"
+      ],
+      "correctAnswer": "成功の瞬間",
+      "explanation": "「moment in the sun」は、「日の当たる場所」という文字通りの意味から転じて、「脚光を浴びる瞬間」「成功を収める瞬間」という意味で使われます。一時的な成功や注目を浴びる機会を指すことが多いです。普段は目立たない人が、ある時スポットライトを浴びるような状況を表現するのに適しています。"
+    },
+    {
+      "id": 29,
+      "value": "worthwhile contribution",
+      "options": [
+        "価値のない貢献",
+        "注目されない貢献",
+        "価値のある貢献",
+        "偽りの貢献"
+      ],
+      "correctAnswer": "価値のある貢献",
+      "explanation": "「worthwhile contribution」は、「価値のある貢献」「貢献する価値のあるもの」という意味です。ある活動や分野において、意味があり、重要で、ポジティブな影響を与える貢献を指します。学術的な研究、社会的な活動、仕事など、様々な場面で使用されます。"
+    },
+    {
+      "id": 30,
+      "value": "definitively proven",
+      "options": [
+        "仮説として証明された",
+        "限定的に証明された",
+        "明確に証明された",
+        "未だ証明されていない"
+      ],
+      "correctAnswer": "明確に証明された",
+      "explanation": "「definitively proven」は、「明確に証明された」「決定的に証明された」という意味です。疑いの余地なく、完全に真実であると証明された状態を指します。科学的な理論や事実、法的証拠など、確固たる証拠によって裏付けられている場合に用いられます。"
+    },
+    {
+      "id": 31,
+      "value": "inspiration to millions",
+      "options": [
+        "数百万人の敵",
+        "数百万人の同僚",
+        "数百万人の模範",
+        "数百万人の重荷"
+      ],
+      "correctAnswer": "数百万人の模範",
+      "explanation": "「inspiration to millions」は、「数百万人のインスピレーション（刺激）となる存在」という意味です。多くの人々に希望や勇気を与え、行動を促すような人物や出来事を指します。社会的なリーダー、アーティスト、スポーツ選手などが例として挙げられます。"
+    },
+    {
+      "id": 32,
+      "value": "cleverly veiled reference",
+      "options": [
+        "直接的な言及",
+        "巧妙に隠された言及",
+        "遠回しな言及",
+        "正直な言及"
+      ],
+      "correctAnswer": "巧妙に隠された言及",
+      "explanation": "「cleverly veiled reference」は、「巧妙に隠された言及」「それとなく言及すること」という意味です。直接的な表現を避け、婉曲的または暗示的に何かを伝えることを指します。皮肉やユーモアを込めて使われることもあります。政治的な議論や人間関係において、相手を刺激せずに自分の意見を伝える際に用いられることがあります。"
+    },
+    {
+      "id": 33,
+      "value": "lifelong obsession",
+      "options": [
+        "一時的な興味",
+        "短い間の熱狂",
+        "生涯の執着",
+        "過去のトラウマ"
+      ],
+      "correctAnswer": "生涯の執着",
+      "explanation": "「lifelong obsession」は、「生涯の執着」「長年のこだわり」という意味です。人生の非常に長い期間にわたって、ある対象や考えに強く心を奪われている状態を指します。趣味、研究、人間関係など、様々な対象に対して使われます。強迫観念に近いニュアンスを含むこともあります。"
+    },
+    {
+      "id": 34,
+      "value": "spacious womb",
+      "options": [
+        "狭い部屋",
+        "安全な場所",
+        "広々とした子宮",
+        "危険な場所"
+      ],
+      "correctAnswer": "広々とした子宮",
+      "explanation": "「spacious womb」は、「広々とした子宮」という意味ですが、比喩的に「快適で安心できる場所」「原点回帰」といった意味合いで使われることがあります。ここでは、母親への過度な依存や愛着を揶揄する文脈で使用されています。"
+    },
+    {
+      "id": 35,
+      "value": "pick up on",
+      "options": [
+        "理解する",
+        "無視する",
+        "軽視する",
+        "忘れる"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「pick up on」は、「～を理解する」「～に気づく」という意味です。特に、明示的に言われていないことや、微妙なニュアンス、隠された意味などを理解する際に用いられます。会話や文章、状況など、様々なものに対して使われます。例文：Did you pick up on her sarcasm?（彼女の皮肉に気づきましたか？）"
+    },
+    {
+      "id": 36,
+      "value": "nice touch",
+      "options": [
+        "良い影響",
+        "残念な出来事",
+        "良い計らい",
+        "悪い癖"
+      ],
+      "correctAnswer": "良い計らい",
+      "explanation": "「nice touch」は、「良い計らい」「気の利いたこと」という意味です。さりげない工夫や配慮が加えられており、全体をより良くしていると感じられる場合に使われます。贈り物、演出、行動など、様々なものに対して使われます。例文：The flowers were a nice touch.（花は良い計らいでしたね。）"
+    },
+    {
+      "id": 37,
+      "value": "tingly",
+      "options": [
+        "退屈な",
+        "痺れるような",
+        "痛い",
+        "温かい"
+      ],
+      "correctAnswer": "痺れるような",
+      "explanation": "「tingly」は、「チクチクする」「痺れるような」という意味です。軽い刺激や興奮によって、皮膚がピリピリしたり、ゾクゾクしたりする感覚を表します。ここでは、興奮や期待感からくる感覚を表現するために使われています。"
+    },
+    {
+      "id": 38,
+      "value": "defoliated",
+      "options": [
+        "清潔にされた",
+        "装飾された",
+        "葉を落とされた",
+        "保護された"
+      ],
+      "correctAnswer": "葉を落とされた",
+      "explanation": "「defoliated」は、「葉を落とされた」「毛を取り除かれた」という意味です。ここでは、脱毛、特にワックス脱毛によって毛が取り除かれた状態を指します。農業や軍事用語としても使われ、植物から意図的に葉を取り除くことを意味することもあります。"
+    },
+    {
+      "id": 39,
+      "value": "get off there",
+      "options": [
+        "そこから離れる",
+        "そこに着く",
+        "そこを掃除する",
+        "そこを修理する"
+      ],
+      "correctAnswer": "そこから離れる",
+      "explanation": "「get off there」は、「そこから離れる」「そこから降りる」という意味です。ここでは、場所を占拠している相手に対して、そこから立ち去るように命令する際に使われています。口語的な表現で、親しい間柄やくだけた状況で用いられます。"
+    },
+    {
+      "id": 40,
+      "value": "make him stop",
+      "options": [
+        "彼を励ます",
+        "彼を止める",
+        "彼を助ける",
+        "彼を無視する"
+      ],
+      "correctAnswer": "彼を止める",
+      "explanation": "「make him stop」は、「彼を止める」「彼にやめさせる」という意味です。誰かに対して、ある行動をやめるように働きかけることを依頼する際に使われます。特に、不快な行動や迷惑な行為に対して用いられることが多いです。"
+    },
+    {
+      "id": 41,
+      "value": "I don't have to take this",
+      "options": [
+        "これを受け取らないといけない",
+        "これを受け取るのが好き",
+        "これを受け取る必要がない",
+        "これを受け取るのを忘れた"
+      ],
+      "correctAnswer": "これを受け取る必要がない",
+      "explanation": "「I don't have to take this」は、「こんなこと我慢する必要ない」「こんなこと耐えられない」という意味です。不当な扱いを受けたり、不快な状況に置かれたりした際に、それを拒否する意思を示す表現です。感情的なニュアンスを含み、強い不満や怒りを表すことがあります。"
+    },
+    {
+      "id": 42,
+      "value": "bound to",
+      "options": [
+        "自由である",
+        "義務がある",
+        "必ず～する",
+        "～しないようにする"
+      ],
+      "correctAnswer": "必ず～する",
+      "explanation": "「be bound to」は、「必ず～する」「～するはずだ」という意味です。必然的な結果や高い確率で起こるであろう事柄について述べる際に用いられます。根拠のある予測や確信を表すニュアンスがあります。例文：It's bound to rain soon.（もうすぐ雨が降るはずだ。）"
+    },
+    {
+      "id": 43,
+      "value": "big deal",
+      "options": [
+        "些細なこと",
+        "重大なこと",
+        "秘密",
+        "問題"
+      ],
+      "correctAnswer": "重大なこと",
+      "explanation": "「big deal」は、「大したこと」「重要なこと」という意味です。肯定的な意味で「素晴らしい」「すごい」と強調する場合と、否定的な意味で「たいしたことない」「どうでもいい」と軽視する場合の両方があります。文脈によって意味が異なります。"
+    },
+    {
+      "id": 44,
+      "value": "hang on",
+      "options": [
+        "手放す",
+        "続ける",
+        "諦める",
+        "待つ"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、「ちょっと待って」「頑張って」という意味です。相手に少し待つように頼む場合や、困難な状況で耐え忍ぶように励ます場合に使われます。状況によってニュアンスが異なります。例文：Hang on a second.（ちょっと待って。）"
+    },
+    {
+      "id": 45,
+      "value": "at least",
+      "options": [
+        "せいぜい",
+        "少なくとも",
+        "最大限に",
+        "絶対に"
+      ],
+      "correctAnswer": "少なくとも",
+      "explanation": "「at least」は、「少なくとも」「せめて」という意味です。不満足な状況や結果に対して、いくらかの慰めや希望を示す際に使われます。最低限の条件や譲歩を表すニュアンスがあります。例文：At least we tried.（少なくとも試してみた。）"
+    },
+    {
+      "id": 46,
+      "value": "I'm sensing",
+      "options": [
+        "感じない",
+        "感じている",
+        "知らない",
+        "忘れた"
+      ],
+      "correctAnswer": "感じている",
+      "explanation": "「I'm sensing」は、「～を感じている」「～のような気がする」という意味です。直感や雰囲気から何かを察知していることを表現する際に使われます。明確な根拠はないものの、何かが起こりそうだと感じている場合に用いられます。例文：I'm sensing some tension in the room.（部屋に緊張感を感じる。）"
+    },
+    {
+      "id": 47,
+      "value": "crossing my legs",
+      "options": [
+        "足を組む",
+        "屈伸運動をする",
+        "足を踏み出す",
+        "つま先立ちをする"
+      ],
+      "correctAnswer": "足を組む",
+      "explanation": "「crossing my legs」は、「足を組む」という意味ですが、ここでは比喩的に、不快な記憶や感情を思い出して身を守るような仕草を表しています。性的な話題やトラウマ的な出来事など、不快感を伴う状況で無意識的にとる行動として用いられます。"
+    },
+    {
+      "id": 48,
+      "value": "in a way",
+      "options": [
+        "邪魔な",
+        "ある意味で",
+        "安全な",
+        "手短に"
+      ],
+      "correctAnswer": "ある意味で",
+      "explanation": "「in a way」は、「ある意味で」「いくらか」という意味です。完全には同意しないものの、部分的には当てはまることを示す際に使われます。ニュアンスを和らげたり、限定したりする効果があります。例文：In a way, you're right.（ある意味では、あなたは正しい。）"
+    },
+    {
+      "id": 49,
+      "value": "cookie",
+      "options": [
+        "承諾",
+        "不同意",
+        "要求",
+        "拒否"
+      ],
+      "correctAnswer": "要求",
+      "explanation": "この文脈では、 'Cookie' は、以前に設定された条件やルールを再確認または要求する意味で使用されている可能性があります。これは比喩的な表現であり、直接的な文脈がないため、正確な意味合いは推測する必要があります。ここでは、特定の行動や発言に対して、以前に合意された内容に従うように要求していると解釈できます。"
+    },
+    {
+      "id": 50,
+      "value": "wiggle",
+      "options": [
+        "静止する",
+        "ジッと見る",
+        "ニョロニョロ動かす",
+        "忘れる"
+      ],
+      "correctAnswer": "ニョロニョロ動かす",
+      "explanation": "「wiggle」は、「体をくねらせる」「体を揺らす」という意味です。ここでは、体を左右に細かく揺らす様子を表しています。不快感や落ち着かない気持ちを表現する際にも用いられます。例文：She wiggled her toes in the sand.（彼女は砂の中でつま先をくねらせた。）"
+    },
+    {
+      "id": 51,
+      "value": "budge",
+      "options": [
+        "動かす",
+        "止める",
+        "確認する",
+        "修理する"
+      ],
+      "correctAnswer": "動かす",
+      "explanation": "「budge」は、わずかに動く、または意見や態度を変えるという意味です。ここでは、車が動かないほど強くブレーキがかかっていることを強調しています。例：I tried to move the heavy box, but it wouldn't budge.（その重い箱を動かそうとしたが、びくともしなかった。）"
+    },
+    {
+      "id": 52,
+      "value": "colour me intrigued",
+      "options": [
+        "興味がない",
+        "非常に興味がある",
+        "混乱している",
+        "怒っている"
+      ],
+      "correctAnswer": "非常に興味がある",
+      "explanation": "「colour me intrigued」は、興味をそそられた、という意味の口語表現です。文字通りには「私を興味で染めて」となり、比喩的に強い興味を示す際に用いられます。例：When she mentioned the secret project, colour me intrigued.（彼女が秘密のプロジェクトについて言及したとき、私は非常に興味をそそられた。）"
+    },
+    {
+      "id": 53,
+      "value": "high on",
+      "options": [
+        "嫌悪感",
+        "陶酔感",
+        "悲しみ",
+        "無関心"
+      ],
+      "correctAnswer": "陶酔感",
+      "explanation": "「high on」は、何かに酔っている、または強い影響を受けているという意味です。ここでは、ペンキの fumes（ガス）を吸い込んで気分が高揚している状態を指しています。例：He was high on adrenaline after winning the race.（彼はレースに勝った後、アドレナリンで高揚していた。）"
+    },
+    {
+      "id": 54,
+      "value": "What can I tell ya?",
+      "options": [
+        "どうでもいい",
+        "どう説明すればいいのか",
+        "秘密だ",
+        "知らない"
+      ],
+      "correctAnswer": "どう説明すればいいのか",
+      "explanation": "「What can I tell ya?」は、どうしようもない状況や、特に説明のしようがない事柄に対して使われる表現です。「まあ、そういうことだよ」というニュアンスが含まれます。例：The traffic was terrible, what can I tell ya? We were late.（交通渋滞がひどかったんだ、どうしようもないよ。遅刻した。）"
+    },
+    {
+      "id": 55,
+      "value": "on Team Bernadette",
+      "options": [
+        "バーナデットの敵",
+        "バーナデットの味方",
+        "バーナデットを知らない",
+        "バーナデットに興味がない"
+      ],
+      "correctAnswer": "バーナデットの味方",
+      "explanation": "「on Team Bernadette」は、バーナデットを支持する、またはバーナデットの側に立っているという意味です。比喩的に、ある人物やグループを応援する際に使われます。例：I'm on Team Edward. （エドワード派です。）"
+    },
+    {
+      "id": 56,
+      "value": "play dumb",
+      "options": [
+        "賢く振る舞う",
+        "ばかふりをする",
+        "正直に話す",
+        "無視する"
+      ],
+      "correctAnswer": "ばかふりをする",
+      "explanation": "「play dumb」は、知らないふりをする、または理解していないふりをするという意味です。ずる賢く状況を回避しようとする意図が含まれることがあります。例：He knew the answer, but he played dumb to avoid getting called on.（彼は答えを知っていたが、当てられるのを避けるために知らないふりをした。）"
+    },
+    {
+      "id": 57,
+      "value": "Didn’t see that one coming, did ya?",
+      "options": [
+        "予想通りだった",
+        "全く予想外だった",
+        "どうでもいい",
+        "理解できない"
+      ],
+      "correctAnswer": "全く予想外だった",
+      "explanation": "「Didn’t see that one coming, did ya?」は、それが起こるとは思わなかったでしょう？という意味で、相手が予想していなかった事態に対して使われる皮肉めいた表現です。例：I bet you didn't see that coming. （まさかそんなことになるとは思わなかったでしょう。）"
+    },
+    {
+      "id": 58,
+      "value": "rip out",
+      "options": [
+        "修理する",
+        "引き抜く",
+        "隠す",
+        "無視する"
+      ],
+      "correctAnswer": "引き抜く",
+      "explanation": "「rip out」は、力ずくで引き抜く、取り除くという意味です。ここでは、非常に怒っている状況で、相手の pubes（陰毛）を引き抜くという脅し文句として使われています。例：I will rip out your heart. （あなたの心臓を抉り出してやる。）"
+    },
+    {
+      "id": 59,
+      "value": "out of hand",
+      "options": [
+        "手の届くところに",
+        "手に負えない",
+        "準備万端",
+        "解決済み"
+      ],
+      "correctAnswer": "手に負えない",
+      "explanation": "「out of hand」は、手に負えない、制御不能な状態を指します。事態がエスカレートして収拾がつかなくなる状況を表す際に用いられます。例：The party got a little out of hand.（パーティーは少し手に負えなくなった。）"
+    },
+    {
+      "id": 60,
+      "value": "Gee, you think?",
+      "options": [
+        "本当にそう思うの？",
+        "どうでもいい",
+        "賛成する",
+        "反対する"
+      ],
+      "correctAnswer": "本当にそう思うの？",
+      "explanation": "「Gee, you think?」は、皮肉を込めて「そう思いますか？」という意味で使われます。相手の発言が明白すぎる、または当然のことを言っている場合に用いられます。例：Gee, you think that is bad?（え、それが悪いと思うの？）"
+    },
+    {
+      "id": 61,
+      "value": "nosey",
+      "options": [
+        "鼻が高い",
+        "詮索好き",
+        "正直者",
+        "親切な人"
+      ],
+      "correctAnswer": "詮索好き",
+      "explanation": "「nosey」は、他人のことにやたらと首を突っ込みたがる、詮索好きな人を指します。人のプライベートな情報を知りたがる傾向がある人に使われる形容詞です。例：Don't be so nosey. （そんなに詮索しないで。）"
+    },
+    {
+      "id": 62,
+      "value": "What the hell are you doing?",
+      "options": [
+        "何を言っているの？",
+        "どうしたの？",
+        "何をしているんだ？",
+        "どこへ行くの？"
+      ],
+      "correctAnswer": "何をしているんだ？",
+      "explanation": "「What the hell are you doing?」は、驚きや怒りを込めて「一体何をしているんだ？」という意味で使われます。相手の行動に不満や疑問を感じる際に用いられる強い表現です。例：What the hell are you talking about? （一体何を言っているんだ。）"
+    },
+    {
+      "id": 63,
+      "value": "Don't look at that whiteboard. That’s my math, not your math.",
+      "options": [
+        "他人の物を尊重する",
+        "数学は誰でも同じ",
+        "自分の領域を主張する",
+        "共有することの重要性"
+      ],
+      "correctAnswer": "自分の領域を主張する",
+      "explanation": "これは、自分の研究やアイデアの独自性を主張し、他人に干渉されたくないという気持ちを表しています。数学の内容が個人的なものであり、他人に覗き見られたくないというニュアンスが含まれています。例：These are my tools, not yours.（これらは私の道具だ、あなたのじゃない。）"
+    },
+    {
+      "id": 64,
+      "value": "Keep walking, nosey.",
+      "options": [
+        "歓迎する",
+        "立ち去らせる",
+        "手伝う",
+        "無視する"
+      ],
+      "correctAnswer": "立ち去らせる",
+      "explanation": "これは、詮索好きな人に対して、立ち去るように促す表現です。「nosey」という言葉は、他人のことにやたらと首を突っ込みたがる人を指します。ここでは、その人に自分の領域から出て行くように警告しています。例：Mind your own business.（余計なことに首を突っ込むな。）"
+    },
+    {
+      "id": 65,
+      "value": "You said I’m not using my space, so I’m using it.",
+      "options": [
+        "言い訳をする",
+        "逆手に取る",
+        "感謝する",
+        "謝罪する"
+      ],
+      "correctAnswer": "逆手に取る",
+      "explanation": "これは、相手の言葉を逆手に取り、自分の行動を正当化する表現です。以前に「スペースを使っていない」と言われたことを受けて、今回は積極的にスペースを使うことで、相手の矛盾を指摘しています。例：You said you don't care, so I did it anyway.（あなたが気にしないと言ったから、私はとにかくやった。）"
+    },
+    {
+      "id": 66,
+      "value": "really makes these things tough",
+      "options": [
+        "簡単にする",
+        "難しくする",
+        "改善する",
+        "不要にする"
+      ],
+      "correctAnswer": "難しくする",
+      "explanation": "緊急ブレーキをかけることで、車を動かすことが難しくなるという意味です。「tough」は困難や厳しさを表し、ここでは物理的な抵抗を強調しています。例：This test is really tough.（このテストは本当に難しい。）"
+    },
+    {
+      "id": 67,
+      "value": "a lot of Band-Aids",
+      "options": [
+        "少しの絆創膏",
+        "たくさんの絆創膏",
+        "絆創膏なし",
+        "特別な絆創膏"
+      ],
+      "correctAnswer": "たくさんの絆創膏",
+      "explanation": "「a lot of」は「たくさんの」という意味で、絆創膏がたくさん貼られている状態を指します。これは、何らかの処置や手術が行われたことを暗示している可能性があります。例：There are a lot of people here.（ここにはたくさんの人がいる。）"
+    },
+    {
+      "id": 68,
+      "value": "keep me awake",
+      "options": [
+        "眠らせる",
+        "目覚めさせる",
+        "落ち着かせる",
+        "退屈させる"
+      ],
+      "correctAnswer": "目覚めさせる",
+      "explanation": "コーヒーを飲むとカフェインの効果で眠気が覚めるという意味です。「keep someone awake」は、誰かを眠らせないようにするという意味で使われます。例：The noise kept me awake all night.（その騒音で一晩中眠れなかった。）"
+    },
+    {
+      "id": 69,
+      "value": "owes me two hundred dollars",
+      "options": [
+        "200ドル借りている",
+        "200ドル貸している",
+        "200ドル支払う義務がある",
+        "200ドルもらえる"
+      ],
+      "correctAnswer": "200ドル支払う義務がある",
+      "explanation": "「owes」は、借りがある、または支払う義務があるという意味です。ここでは、車をレッカー移動された費用として200ドルを支払う必要があることを示しています。例：He owes me an apology.（彼は私に謝罪する義務がある。）"
+    },
+    {
+      "id": 70,
+      "value": "get some ice",
+      "options": [
+        "氷を取りに行く",
+        "無視する",
+        "暖める",
+        "冷たくする"
+      ],
+      "correctAnswer": "氷を取りに行く",
+      "explanation": "怪我をした箇所を冷やすために氷を取りに行くという意味です。怪我の応急処置として一般的な行為です。「get some」は、何かを取りに行く、または手に入れるという意味で使われます。例：I'll get some water.（水を取りに行く。）"
+    },
+    {
+      "id": 71,
+      "value": "swear to God",
+      "options": [
+        "神に誓う",
+        "嘘をつく",
+        "祈る",
+        "祝福する"
+      ],
+      "correctAnswer": "神に誓う",
+      "explanation": "「swear to God」は、神に誓って本当のことを言う、または約束するという意味です。ここでは、非常に強い感情を伴う脅しとして使われています。例：I swear to God, I didn't do it.（神に誓って、私はやっていない。）"
+    },
+    {
+      "id": 72,
+      "value": "scratched my car",
+      "options": [
+        "車を洗った",
+        "車を傷つけた",
+        "車を修理した",
+        "車を運転した"
+      ],
+      "correctAnswer": "車を傷つけた",
+      "explanation": "「scratch」は、表面を引っ掻く、または傷つけるという意味です。ここでは、レッカー車が車を傷つけたという主張をしています。例：I scratched my hand on the fence.（フェンスで手を引っ掻いた。）"
+    },
+    {
+      "id": 73,
+      "value": "set up his office",
+      "options": [
+        "オフィスを閉鎖した",
+        "オフィスを設置した",
+        "オフィスを掃除した",
+        "オフィスを訪問した"
+      ],
+      "correctAnswer": "オフィスを設置した",
+      "explanation": "「set up」は、何かを設置する、または準備するという意味です。ここでは、駐車場にオフィスを設けたという状況を表しています。例：We set up a tent in the backyard.（裏庭にテントを設営した。）"
+    },
+    {
+      "id": 74,
+      "value": "You need to move now.",
+      "options": [
+        "今すぐ引っ越す必要がある",
+        "今すぐ動く必要がある",
+        "今すぐ座る必要がある",
+        "今すぐ話す必要がある"
+      ],
+      "correctAnswer": "今すぐ動く必要がある",
+      "explanation": "特定の場所からすぐに移動するように促す表現です。ここでは、駐車場に設置されたオフィスを撤去するように求めています。「move」は、物理的に場所を移動する、または立ち退くという意味です。例：You need to move out of my way.（邪魔だからどいてくれ。）"
+    },
+    {
+      "id": 75,
+      "value": "You can’t stay there forever.",
+      "options": [
+        "永遠にそこにいられる",
+        "永遠にそこにいられない",
+        "そこに滞在できる",
+        "そこから離れる必要がある"
+      ],
+      "correctAnswer": "永遠にそこにいられない",
+      "explanation": "ある場所や状況に永遠に留まることは不可能だという事実を伝える表現です。ここでは、駐車場に設置されたオフィスを永続的に維持することはできないという現実を指摘しています。「forever」は永遠に、永久にという意味です。例：Nothing lasts forever.（永遠に続くものはない。）"
+    },
+    {
+      "id": 76,
+      "value": "tangle with",
+      "options": [
+        "尊敬する",
+        "仲良くする",
+        "争う",
+        "無視する"
+      ],
+      "correctAnswer": "争う",
+      "explanation": "「tangle with」は、人と争う、口論する、または困難な問題に取り組むという意味です。特に、手ごわい相手や厄介な状況に対して使われます。例：I don't want to tangle with him. (彼とは争いたくない。)"
+    },
+    {
+      "id": 77,
+      "value": "desensitized to",
+      "options": [
+        "敏感になった",
+        "無関心になった",
+        "興味を持った",
+        "影響を受けた"
+      ],
+      "correctAnswer": "無関心になった",
+      "explanation": "「desensitize」は、何かに対して感情的な反応を鈍らせる、または感受性を失わせるという意味です。「desensitized to」という形で、何に対して鈍感になったのかを示します。例：He became desensitized to violence after watching too many movies. (彼は映画を見過ぎて暴力に鈍感になった。)"
+    },
+    {
+      "id": 78,
+      "value": "talk some sense into",
+      "options": [
+        "悪口を言う",
+        "説得する",
+        "無視する",
+        "混乱させる"
+      ],
+      "correctAnswer": "説得する",
+      "explanation": "「talk some sense into」は、人に道理を説いて考えを変えさせる、または正しい行動を取らせるという意味です。特に、頑固な人や誤った考えを持っている人を諭す際に使われます。例：Can you talk some sense into him? (彼を説得してくれませんか？)"
+    },
+    {
+      "id": 79,
+      "value": "preposterous",
+      "options": [
+        "素晴らしい",
+        "ばかげた",
+        "重要な",
+        "本当の"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「preposterous」は、非常識でばかげている、または信じられないほど不合理であるという意味です。強い否定の感情を伴って使われることが多いです。例：That's a preposterous idea! (それはばかげた考えだ！)"
+    },
+    {
+      "id": 80,
+      "value": "condensates",
+      "options": [
+        "濃縮物",
+        "分散物",
+        "蒸発物",
+        "溶解物"
+      ],
+      "correctAnswer": "濃縮物",
+      "explanation": "「condensate」は、気体が冷却されて液体または固体に凝縮したものを指します。科学や工学の分野でよく使われる言葉で、特に物理学や化学においては、ボース＝アインシュタイン凝縮などの現象を指すことがあります。例：Water vapor condenses into liquid water. (水蒸気は冷却されて液体の水になる。)"
+    },
+    {
+      "id": 81,
+      "value": "lived the dream",
+      "options": [
+        "夢を諦めた",
+        "夢を実現した",
+        "夢を見ていた",
+        "夢を語った"
+      ],
+      "correctAnswer": "夢を実現した",
+      "explanation": "「live the dream」は、夢に見ていたような理想的な生活を送る、または成功を収めるという意味です。しばしば、羨望や皮肉のニュアンスを込めて使われます。例：He's living the dream, traveling the world and getting paid for it. (彼は世界中を旅して、その上お金までもらって夢のような生活を送っている。)"
+    },
+    {
+      "id": 82,
+      "value": "sweet ride",
+      "options": [
+        "ひどい乗り物",
+        "甘い運転",
+        "素敵な車",
+        "危険な冒険"
+      ],
+      "correctAnswer": "素敵な車",
+      "explanation": "「sweet ride」は、スラングで、かっこいい車やバイクを指す言葉です。特に、デザインや性能が優れている乗り物に対して使われます。例：That's a sweet ride you got there! (いい車に乗ってるね！)"
+    },
+    {
+      "id": 83,
+      "value": "revenge is a dish best served nude",
+      "options": [
+        "復讐は急ぐべき",
+        "復讐は冷めてからがよい",
+        "復讐は楽しい",
+        "復讐は無意味だ"
+      ],
+      "correctAnswer": "復讐は冷めてからがよい",
+      "explanation": "「Revenge is a dish best served cold.」という有名なことわざをもじった表現で、復讐は時間をかけて計画的に実行するのが最も効果的だという意味です。ここでは「nude」という言葉が使われており、裸で復讐するというユーモラスな状況を表しています。"
+    },
+    {
+      "id": 84,
+      "value": "authentic",
+      "options": [
+        "偽物の",
+        "本物の",
+        "高価な",
+        "一般的な"
+      ],
+      "correctAnswer": "本物の",
+      "explanation": "「authentic」は、本物である、真正であるという意味です。品質や出自が確かであることを強調する際に使われます。例：This is an authentic Italian pizza. (これは本物のイタリアンピザだ。)"
+    },
+    {
+      "id": 85,
+      "value": "gesture",
+      "options": [
+        "侮辱",
+        "嫌がらせ",
+        "身振り",
+        "ジェスチャー"
+      ],
+      "correctAnswer": "身振り",
+      "explanation": "「gesture」は、身振り、手振り、または行為や態度を意味します。特に、感情や意図を伝えるための行動を指します。また、象徴的な意味を持つ行為を指すこともあります。例：It's a gesture of goodwill. (それは善意の表れだ。)"
+    },
+    {
+      "id": 86,
+      "value": "bigger man",
+      "options": [
+        "背の高い男",
+        "より強い男",
+        "心が広い人",
+        "有名な人"
+      ],
+      "correctAnswer": "心が広い人",
+      "explanation": "「be the bigger man」は、争いや対立において、相手よりも寛容で、より大人な対応をすることを意味します。感情的にならず、冷静に状況を判断し、相手を許すことができる人物を指します。例：He decided to be the bigger man and apologize. (彼は大人になって謝ることにした。)"
+    },
+    {
+      "id": 87,
+      "value": "FYI",
+      "options": [
+        "お元気ですか",
+        "ご参考までに",
+        "また明日",
+        "おめでとう"
+      ],
+      "correctAnswer": "ご参考までに",
+      "explanation": "「FYI」は、「For Your Information」の略で、ご参考までにという意味です。メールやメモなどで、情報を伝える際に使われます。例：FYI, the meeting has been postponed. (ご参考までに、会議は延期されました。)"
+    },
+    {
+      "id": 88,
+      "value": "tackle",
+      "options": [
+        "無視する",
+        "受け入れる",
+        "取り組む",
+        "タックルする"
+      ],
+      "correctAnswer": "タックルする",
+      "explanation": "ここでは比喩的な意味で、人を組み伏せる、または問題に全力で取り組むという意味で使われています。物理的なタックルだけでなく、困難な状況や課題に立ち向かう様子を表現する際に用いられます。例：The government is trying to tackle the issue of unemployment. (政府は失業問題に取り組もうとしている。)"
+    },
+    {
+      "id": 89,
+      "value": "burying the hatchet",
+      "options": [
+        "過去を忘れる",
+        "仲直りする",
+        "秘密を隠す",
+        "問題を解決する"
+      ],
+      "correctAnswer": "仲直りする",
+      "explanation": "「bury the hatchet」は、仲直りする、和解するという意味のイディオムです。過去の争いや恨みを水に流し、関係を修復することを指します。例：They decided to bury the hatchet and become friends again. (彼らは仲直りして再び友達になることにした。)"
+    },
+    {
+      "id": 90,
+      "value": "gleaned",
+      "options": [
+        "無視した",
+        "集めた",
+        "隠した",
+        "忘れた"
+      ],
+      "correctAnswer": "集めた",
+      "explanation": "「glean」は、少しずつ情報を集める、苦労して見つけ出すという意味です。特に、様々な場所から断片的な情報を集めて全体像を把握する際に使われます。例：He gleaned information from various sources. (彼は様々な情報源から情報を集めた。)"
+    },
+    {
+      "id": 91,
+      "value": "santeriasuzy37",
+      "options": [
+        "宗教的な儀式",
+        "秘密結社",
+        "ユーザー名",
+        "商品名"
+      ],
+      "correctAnswer": "ユーザー名",
+      "explanation": "これはYelpのレビューを書いたユーザーの名前であり、文脈から考えてユーザー名と判断できます。特に意味のある単語ではありません。"
+    },
+    {
+      "id": 92,
+      "value": "lipid",
+      "options": [
+        "タンパク質",
+        "炭水化物",
+        "脂肪",
+        "ビタミン"
+      ],
+      "correctAnswer": "脂肪",
+      "explanation": "「lipid」は、脂肪、脂質を意味する専門用語です。生物学や化学の分野でよく使われます。例：Lipids are essential for the structure and function of cells. (脂質は細胞の構造と機能に不可欠である。)"
+    },
+    {
+      "id": 93,
+      "value": "residue",
+      "options": [
+        "結果",
+        "残留物",
+        "理由",
+        "価値"
+      ],
+      "correctAnswer": "残留物",
+      "explanation": "「residue」は、残留物、残りかすという意味です。化学的な文脈では、反応後に残る物質を指します。例：There was a residue of oil in the pan. (鍋の中に油の残留物があった。)"
+    },
+    {
+      "id": 94,
+      "value": "anal autograph",
+      "options": [
+        "署名",
+        "暗号",
+        "サイン",
+        "メッセージ"
+      ],
+      "correctAnswer": "サイン",
+      "explanation": "これはシェルドンがユーモラスに「お尻のサイン」を意味する言葉として使っています。ここでは、脂肪分の多い食事が残した痕跡を比喩的に表現しています。"
+    },
+    {
+      "id": 95,
+      "value": "colon calling card",
+      "options": [
+        "名刺",
+        "暗号",
+        "サイン",
+        "メッセージ"
+      ],
+      "correctAnswer": "名刺",
+      "explanation": "これもシェルドンがユーモラスに「大腸からの名刺」を意味する言葉として使っています。ここでは、脂肪分の多い食事が残した痕跡を比喩的に表現しています。"
+    },
+    {
+      "id": 96,
+      "value": "befoulment",
+      "options": [
+        "装飾",
+        "浄化",
+        "汚染",
+        "改善"
+      ],
+      "correctAnswer": "汚染",
+      "explanation": "「befoulment」は、汚染、汚すことという意味です。特に、環境や場所を汚す行為を指します。例：The befoulment of the river is a serious problem. (川の汚染は深刻な問題だ。)"
+    },
+    {
+      "id": 97,
+      "value": "molecular level",
+      "options": [
+        "細胞レベル",
+        "分子レベル",
+        "原子レベル",
+        "マクロレベル"
+      ],
+      "correctAnswer": "分子レベル",
+      "explanation": "「molecular level」は、分子レベル、分子の大きさの範囲という意味です。科学的な文脈で、非常に細かいレベルでの現象を指す際に使われます。例：The reaction occurs at the molecular level. (その反応は分子レベルで起こる。)"
+    },
+    {
+      "id": 98,
+      "value": "seen better days",
+      "options": [
+        "改善された",
+        "悪化した",
+        "全盛期",
+        "過去は良かった"
+      ],
+      "correctAnswer": "過去は良かった",
+      "explanation": "「seen better days」は、以前はもっと良かった、今は状態が悪いという意味のイディオムです。人や物事の状態が以前よりも衰えていることを表します。例：This old car has seen better days. (この古い車は以前はもっと良かった。)"
+    },
+    {
+      "id": 99,
+      "value": "guarantee",
+      "options": [
+        "否定する",
+        "約束する",
+        "拒否する",
+        "調査する"
+      ],
+      "correctAnswer": "約束する",
+      "explanation": "「guarantee」は、保証する、約束するという意味です。品質や性能などを保証する際に使われます。例：I guarantee you'll love this movie. (この映画は絶対に気に入るよ。)"
+    },
+    {
+      "id": 100,
+      "value": "resting on",
+      "options": [
+        "休んでいる",
+        "依存している",
+        "置かれている",
+        "影響されている"
+      ],
+      "correctAnswer": "置かれている",
+      "explanation": "「rest on」は、何かが何かの表面に置かれている、または何かが何かに依存しているという意味です。ここでは、パソコンが宇宙飛行士のペニスの上に置かれていた時間をユーモラスに表現しています。例：The future of the company rests on this decision. (会社の未来はこの決定にかかっている。)"
+    }
+  ]
+}

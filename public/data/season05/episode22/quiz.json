@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "sparkling",
+      "options": [
+        "輝く",
+        "退屈な",
+        "一般的な",
+        "短い"
+      ],
+      "correctAnswer": "輝く",
+      "explanation": "「sparkling」は、文字通りには「きらきら輝く」という意味ですが、会話やアイデアなどが「活発で面白い、機知に富んでいる」という意味でも使われます。特に、知的な会話やユーモアのある状況を表現する際に適しています。\n\n例：The conversation at the party was sparkling. (パーティーでの会話はとても面白かった。)"
+    },
+    {
+      "id": 2,
+      "value": "lichen",
+      "options": [
+        "細菌",
+        "地衣類",
+        "カビ",
+        "プランクトン"
+      ],
+      "correctAnswer": "地衣類",
+      "explanation": "「lichen」は「地衣類」という意味です。地衣類は菌類と藻類が共生している複合的な生物です。生物学的な文脈で使われる専門用語です。\n\n例：Lichens are often found growing on rocks and trees. (地衣類は岩や木によく生えている。)"
+    },
+    {
+      "id": 3,
+      "value": "hybrid",
+      "options": [
+        "純粋種",
+        "雑種",
+        "絶滅種",
+        "突然変異種"
+      ],
+      "correctAnswer": "雑種",
+      "explanation": "「hybrid」は「雑種」という意味です。異なる種や品種の生物を掛け合わせてできた個体を指します。比喩的に、異なる要素が組み合わさったものにも使われます。\n\n例：The new car is a hybrid, combining electric and gasoline power. (その新型車はハイブリッドで、電気とガソリンの動力を組み合わせている。)"
+    },
+    {
+      "id": 4,
+      "value": "genital girth",
+      "options": [
+        "生殖器の清潔さ",
+        "生殖器の大きさ",
+        "生殖器の健康",
+        "生殖器の感覚"
+      ],
+      "correctAnswer": "生殖器の大きさ",
+      "explanation": "「genital girth」は、婉曲的に男性器の太さ(周囲)を指す表現です。直接的な表現を避け、ユーモラスな文脈で使用されることがあります。\n\n例：He was insecure about his genital girth. (彼は自分の男性器の大きさに不安を感じていた。)"
+    },
+    {
+      "id": 5,
+      "value": "triple threat",
+      "options": [
+        "三重の脅威",
+        "三拍子揃った人",
+        "三つの選択肢",
+        "三段論法"
+      ],
+      "correctAnswer": "三拍子揃った人",
+      "explanation": "「triple threat」は、特にエンターテインメント業界で、歌、ダンス、演技の3つ全てに秀でている人を指す言葉です。転じて、複数の分野で優れた能力を持つ人を指す場合にも使われます。\n\n例：She is a triple threat; she can sing, dance, and act. (彼女は歌って踊って演技もできる三拍子揃った人だ。)"
+    },
+    {
+      "id": 6,
+      "value": "concessions",
+      "options": [
+        "譲歩",
+        "売店",
+        "割当",
+        "秘密"
+      ],
+      "correctAnswer": "売店",
+      "explanation": "「concessions」は、ここでは劇場やスタジアムなどの「売店」を意味します。飲食物などを販売する場所を指します。一般的には「譲歩」という意味で使われることが多いですが、文脈によって意味が異なります。\n\n例：The movie theater concessions are very expensive. (映画館の売店はとても高い。)"
+    },
+    {
+      "id": 7,
+      "value": "let down",
+      "options": [
+        "解放",
+        "失望",
+        "称賛",
+        "向上"
+      ],
+      "correctAnswer": "失望",
+      "explanation": "「let down」は、「失望させる」という意味の句動詞です。期待を裏切る、がっかりさせるというニュアンスがあります。\n\n例：I was really let down by the ending of the movie. (その映画の結末には本当にがっかりした。)"
+    },
+    {
+      "id": 8,
+      "value": "flexible on",
+      "options": [
+        "柔軟に対応できる",
+        "厳格に守る",
+        "無関心である",
+        "反対する"
+      ],
+      "correctAnswer": "柔軟に対応できる",
+      "explanation": "「flexible on」は、「～に関して融通が利く、柔軟に対応できる」という意味です。条件や要求などを調整できることを示します。\n\n例：We can be flexible on the delivery date. (配達日については柔軟に対応できます。)"
+    },
+    {
+      "id": 9,
+      "value": "into that stuff",
+      "options": [
+        "その分野に詳しい",
+        "それが好きである",
+        "それを軽蔑する",
+        "それが理解できない"
+      ],
+      "correctAnswer": "それが好きである",
+      "explanation": "「into that stuff」は、「そういうものが好きである、興味がある」という意味です。特定の趣味や活動、嗜好などを指して使われます。\n\n例：I'm really into that stuff. (私はそういうのが本当に好きなんです。)"
+    },
+    {
+      "id": 10,
+      "value": "pre-wedding custom",
+      "options": [
+        "結婚前の習慣",
+        "結婚式の衣装",
+        "結婚後の生活",
+        "結婚の秘密"
+      ],
+      "correctAnswer": "結婚前の習慣",
+      "explanation": "「pre-wedding custom」は「結婚前の習慣」という意味です。結婚式に先立って行われる伝統的な行事や儀式を指します。\n\n例：Many cultures have unique pre-wedding customs. (多くの文化には独特な結婚前の習慣がある。)"
+    },
+    {
+      "id": 11,
+      "value": "in bloom",
+      "options": [
+        "満開で",
+        "冬眠中で",
+        "収穫期で",
+        "絶滅寸前で"
+      ],
+      "correctAnswer": "満開で",
+      "explanation": "「in bloom」は「花が咲き誇っている、満開である」という意味です。植物が美しい花を咲かせている状態を表します。\n\n例：The cherry blossoms are in full bloom. (桜が満開です。)"
+    },
+    {
+      "id": 12,
+      "value": "lost boys",
+      "options": [
+        "迷子たち",
+        "ピーターパンの仲間たち",
+        "不良少年グループ",
+        "忘れられた人々"
+      ],
+      "correctAnswer": "ピーターパンの仲間たち",
+      "explanation": "「lost boys」は、ここでは映画『ピーターパン』に登場する、大人にならない子供たちを指しています。転じて、子供っぽい男性たちを指す場合もあります。\n\n例：They acted like a bunch of lost boys. (彼らはまるで子供たちのようだった。)"
+    },
+    {
+      "id": 13,
+      "value": "sexual prime",
+      "options": [
+        "性的な絶頂期",
+        "性的な衰退期",
+        "性的な好奇心",
+        "性的な嫌悪感"
+      ],
+      "correctAnswer": "性的な絶頂期",
+      "explanation": "「sexual prime」は、「性的に最も活発な時期、性的絶頂期」という意味です。生物学的な成熟と性的な魅力が高まっている時期を指します。\n\n例：He is in his sexual prime. (彼は性的に絶頂期にある。)"
+    },
+    {
+      "id": 14,
+      "value": "undertow",
+      "options": [
+        "引き潮",
+        "海流",
+        "高波",
+        "リラックス"
+      ],
+      "correctAnswer": "引き潮",
+      "explanation": "「undertow」は「引き波、底引き潮流」という意味です。海岸から沖に向かって強く引く流れで、水泳やサーフィンをする際に注意が必要です。\n\n例：The undertow was very strong that day. (その日は引き波がとても強かった。)"
+    },
+    {
+      "id": 15,
+      "value": "hand it to",
+      "options": [
+        "手渡す",
+        "褒める",
+        "非難する",
+        "無視する"
+      ],
+      "correctAnswer": "褒める",
+      "explanation": "「hand it to (someone)」は、「（人）を褒める、認める」という意味の口語表現です。相手の努力や才能を認める際に使われます。\n\n例：I have to hand it to him, he did a great job. (彼を褒めざるを得ない、彼は素晴らしい仕事をした。)"
+    },
+    {
+      "id": 16,
+      "value": "stag night",
+      "options": [
+        "お祭り",
+        "独身最後のパーティー",
+        "結婚式",
+        "卒業式"
+      ],
+      "correctAnswer": "独身最後のパーティー",
+      "explanation": "「stag night」は、主にイギリス英語で「独身最後のパーティー（男性版）」を意味します。結婚を控えた男性が、友人たちと開くお祝いのパーティーです。\n\n例：He had a wild stag night before the wedding. (彼は結婚式の前に騒々しい独身最後のパーティーを開いた。)"
+    },
+    {
+      "id": 17,
+      "value": "J-bombs",
+      "options": [
+        "専門用語",
+        "スラング",
+        "不適切な言葉",
+        "難しい言葉"
+      ],
+      "correctAnswer": "不適切な言葉",
+      "explanation": "「J-bombs」は、ここでは「Jeepers」のような、子供っぽい婉曲的な表現を指しています。より強い言葉の代わりに使うことで、ユーモラスな効果を出しています。\n\n例：He tends to drop J-bombs when he's upset. (彼は動揺すると、不適切な言葉を使いがちだ。)"
+    },
+    {
+      "id": 18,
+      "value": "Nice of you to make it",
+      "options": [
+        "来てくれてありがとう",
+        "残念です",
+        "気にしないで",
+        "どういたしまして"
+      ],
+      "correctAnswer": "来てくれてありがとう",
+      "explanation": "「Nice of you to make it」は、「来てくれてありがとう」という意味の丁寧な表現です。相手が来てくれたことに対する感謝の気持ちを表します。\n\n例：Nice of you to make it to the party. (パーティーに来てくれてありがとう。)"
+    },
+    {
+      "id": 19,
+      "value": "organism",
+      "options": [
+        "組織",
+        "有機体",
+        "機械",
+        "無生物"
+      ],
+      "correctAnswer": "有機体",
+      "explanation": "\"Organism\"は生物、有機体を意味します。具体的には、生命を持つ個体を指し、細胞で構成され、生命活動を営むものを指します。例えば、動物、植物、菌類、細菌などがOrganismに該当します。\n\n例文：The scientist studied the organism under a microscope.（科学者は顕微鏡でその生物を調べた。）"
+    },
+    {
+      "id": 20,
+      "value": "merge with",
+      "options": [
+        "分裂する",
+        "合併する",
+        "対立する",
+        "無視する"
+      ],
+      "correctAnswer": "合併する",
+      "explanation": "\"Merge with\"は、何かと何かが合併する、融合するという意味です。ビジネスの文脈では企業同士の合併を指すことが多いですが、ここでは生物学的な融合という文脈で使用されています。\n\n例文：The two companies decided to merge with each other.（その二つの会社はお互いに合併することを決めた。）"
+    },
+    {
+      "id": 21,
+      "value": "resulting",
+      "options": [
+        "元の",
+        "結果として生じる",
+        "予想外の",
+        "無関係の"
+      ],
+      "correctAnswer": "結果として生じる",
+      "explanation": "\"Resulting\"は、結果として生じる、結果的なという意味です。ある行動や事柄から生じる結果を指す形容詞として使われます。ここでは、ハイブリッドの結果として得られるものを説明しています。\n\n例文：The resulting damage was extensive.（結果として生じた損害は広範囲に及んだ。）"
+    },
+    {
+      "id": 22,
+      "value": "advanced",
+      "options": [
+        "原始的な",
+        "進歩した",
+        "単純な",
+        "未熟な"
+      ],
+      "correctAnswer": "進歩した",
+      "explanation": "\"Advanced\"は、進歩した、高度なという意味です。技術や知識、文化などが高度なレベルにあることを示します。ここでは、人間の産業文明の高度さを表しています。\n\n例文：This is a very advanced technology.（これは非常に高度な技術です。）"
+    },
+    {
+      "id": 23,
+      "value": "circumstance",
+      "options": [
+        "円周",
+        "状況",
+        "結論",
+        "機会"
+      ],
+      "correctAnswer": "状況",
+      "explanation": "\"Circumstance\"は、状況、事情という意味です。特定の出来事や行動を取り巻く状況や条件を指します。ここでは、ライケンとの融合が有用な状況を尋ねています。\n\n例文：Under the circumstances, we had no choice.（そのような状況下では、私たちに選択肢はなかった。）"
+    },
+    {
+      "id": 24,
+      "value": "appreciate",
+      "options": [
+        "軽視する",
+        "感謝する",
+        "無視する",
+        "嫌う"
+      ],
+      "correctAnswer": "感謝する",
+      "explanation": "\"Appreciate\"は、感謝する、高く評価するという意味です。ここでは、人間としてベートーヴェンを鑑賞するという意味で使われています。\n\n例文：I appreciate your help.（あなたの助けに感謝します。）"
+    },
+    {
+      "id": 25,
+      "value": "towering",
+      "options": [
+        "低い",
+        "そびえ立つ",
+        "平らな",
+        "丸い"
+      ],
+      "correctAnswer": "そびえ立つ",
+      "explanation": "\"Towering\"は、そびえ立つ、非常に高いという意味です。ここでは、非常に高いカエデの木を形容するために使用されています。\n\n例文：The towering skyscraper dominated the skyline.（そびえ立つ超高層ビルが地平線を支配した。）"
+    },
+    {
+      "id": 26,
+      "value": "reconciliation",
+      "options": [
+        "和解",
+        "別れ",
+        "会議",
+        "旅行"
+      ],
+      "correctAnswer": "和解",
+      "explanation": "「reconciliation」は、仲たがいしていた関係が修復され、和解することを意味します。ビジネスや政治的な文脈でも使われますが、人間関係の修復について使われることが多いです。\n\n例: The reconciliation between the two countries took many years. (二国間の和解には長い年月がかかった。)"
+    },
+    {
+      "id": 27,
+      "value": "tight",
+      "options": [
+        "緩い",
+        "厳しい",
+        "明るい",
+        "暗い"
+      ],
+      "correctAnswer": "厳しい",
+      "explanation": "ここでは、経済状況が「tight」（厳しい、逼迫している）という意味で使われています。お金がない、余裕がない状況を表す口語的な表現です。\n\n例：Money is a little tight right now, so we can't afford a vacation. (今はお金が少し厳しいので、休暇を取る余裕がない。)"
+    },
+    {
+      "id": 28,
+      "value": "covering",
+      "options": [
+        "隠蔽",
+        "報道",
+        "負担",
+        "探索"
+      ],
+      "correctAnswer": "負担",
+      "explanation": "ここでは「covering」は、費用や責任などを「負担する」「まかなう」という意味で使用されています。特定の金額を支払う必要がある状況で使われます。\n\n例：This money should cover your expenses.（このお金であなたの出費はまかなえるはずです。）"
+    },
+    {
+      "id": 29,
+      "value": "valet",
+      "options": [
+        "執事",
+        "駐車場係",
+        "料理人",
+        "庭師"
+      ],
+      "correctAnswer": "駐車場係",
+      "explanation": "「valet」は、駐車場係、特に高級レストランやホテルなどで車の駐車や出庫を行う係を指します。また、「valet parking」という言葉で、係員が駐車してくれるサービスを意味します。\n\n例：We used the valet parking service at the hotel. (私たちはホテルでバレーパーキングサービスを利用した。)"
+    },
+    {
+      "id": 30,
+      "value": "carat",
+      "options": [
+        "純度",
+        "色",
+        "形",
+        "大きさ"
+      ],
+      "correctAnswer": "純度",
+      "explanation": "「carat」は、金の純度を表す単位です。24金（24-carat gold）が最も純度が高く、他の金属が混ざっていない純金であることを意味します。\n\n例：This ring is 18-carat gold. (この指輪は18金の金でできている。)"
+    },
+    {
+      "id": 31,
+      "value": "jolly good fellow",
+      "options": [
+        "意地悪な人",
+        "素晴らしい仲間",
+        "悲しい人",
+        "退屈な人"
+      ],
+      "correctAnswer": "素晴らしい仲間",
+      "explanation": "「jolly good fellow」は、英語の伝統的な歌の歌詞で、「愉快で良い仲間」という意味合いです。親愛の情を込めて、誰かを称える際に使われます。\n\n例：For he's a jolly good fellow, which nobody can deny. (彼は愉快な仲間だから、誰もそれを否定できない。)"
+    },
+    {
+      "id": 32,
+      "value": "singles",
+      "options": [
+        "一人暮らし",
+        "シングルベッド",
+        "単数形",
+        "1ドル札"
+      ],
+      "correctAnswer": "1ドル札",
+      "explanation": "ここでは「singles」は、主にアメリカで使われる口語表現で、1ドル札（one-dollar bills）を指します。ストリッパーへのチップとして使うために用意されたことを示唆しています。\n\n例：He asked for singles at the bank to tip the performers. (彼はパフォーマーにチップを渡すために、銀行で1ドル札を要求した。)"
+    },
+    {
+      "id": 33,
+      "value": "Maid of Honour",
+      "options": [
+        "名誉毀損",
+        "メイド喫茶",
+        "ブライズメイド",
+        "未亡人"
+      ],
+      "correctAnswer": "ブライズメイド",
+      "explanation": "「Maid of Honour」は、結婚式で花嫁の最も親しい友人や姉妹が務める役割で、日本語では「ブライズメイド」または「花嫁介添人」と訳されます。未婚の女性が務めることが一般的です。\n\n例：She was chosen as the maid of honour for her best friend's wedding. (彼女は親友の結婚式でブライズメイドに選ばれた。)"
+    },
+    {
+      "id": 34,
+      "value": "radiant",
+      "options": [
+        "放射性の",
+        "輝く",
+        "退屈な",
+        "無愛想な"
+      ],
+      "correctAnswer": "輝く",
+      "explanation": "「radiant」は、光を放つ、輝いているという意味で、人の美しさや幸福感を表現する際にも使われます。特に、花嫁の美しさを形容する際によく用いられる言葉です。\n\n例：The bride looked radiant on her wedding day. (花嫁は結婚式の日に輝いて見えた。)"
+    },
+    {
+      "id": 35,
+      "value": "antihistamines",
+      "options": [
+        "抗生物質",
+        "抗ヒスタミン剤",
+        "鎮痛剤",
+        "睡眠薬"
+      ],
+      "correctAnswer": "抗ヒスタミン剤",
+      "explanation": "「antihistamines」は、アレルギー反応を抑える薬のことで、花粉症やアレルギー性鼻炎などの症状を緩和するために使用されます。\n\n例：I take antihistamines during the spring to help with my allergies. (私はアレルギーを抑えるために春に抗ヒスタミン剤を服用する。)"
+    },
+    {
+      "id": 36,
+      "value": "antacids",
+      "options": [
+        "睡眠薬",
+        "制酸剤",
+        "抗生物質",
+        "解熱剤"
+      ],
+      "correctAnswer": "制酸剤",
+      "explanation": "「antacids」は、胃酸を中和し、胸やけや消化不良を和らげる薬です。胃の不快感を解消するために使用されます。\n\n例：He took an antacid after eating a spicy meal. (彼は辛い食事の後で制酸剤を飲んだ。)"
+    },
+    {
+      "id": 37,
+      "value": "diarrhoea",
+      "options": [
+        "便秘",
+        "下痢",
+        "吐き気",
+        "頭痛"
+      ],
+      "correctAnswer": "下痢",
+      "explanation": "「diarrhoea」は、下痢という意味です。消化器系の不調により、便が水っぽくなる状態を指します。\n\n例：The traveller suffered from diarrhoea after drinking contaminated water. (その旅行者は汚染された水を飲んだ後、下痢に苦しんだ。)"
+    },
+    {
+      "id": 38,
+      "value": "constipation",
+      "options": [
+        "便秘",
+        "下痢",
+        "吐き気",
+        "発熱"
+      ],
+      "correctAnswer": "便秘",
+      "explanation": "「constipation」は、便秘という意味です。排便が困難または稀な状態を指します。\n\n例：Eating more fiber can help prevent constipation. (より多くの食物繊維を摂ることは便秘の予防に役立つ。)"
+    },
+    {
+      "id": 39,
+      "value": "pivoting",
+      "options": [
+        "固定する",
+        "方向転換する",
+        "要約する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "方向転換する",
+      "explanation": "「pivoting」は、文字通りには「旋回する」「軸を中心に回る」という意味ですが、ここでは話題や視点を「方向転換する」という意味で使われています。ビジネスの文脈では、戦略や製品の方向転換を意味することもあります。\n\n例：The company is pivoting to focus on online sales. (その会社はオンライン販売に焦点を当てるように方向転換している。)"
+    },
+    {
+      "id": 40,
+      "value": "consummating",
+      "options": [
+        "開始する",
+        "完成させる",
+        "消費する",
+        "計画する"
+      ],
+      "correctAnswer": "完成させる",
+      "explanation": "「consummating」は、結婚を「完成させる」という意味で、結婚後に初めて性行為を行うことを指します。ややフォーマルな表現です。\n\n例：They consummated their marriage on their wedding night. (彼らは結婚式の夜に結婚を完成させた。)"
+    },
+    {
+      "id": 41,
+      "value": "conceive",
+      "options": [
+        "理解する",
+        "妊娠する",
+        "計画する",
+        "想像する"
+      ],
+      "correctAnswer": "妊娠する",
+      "explanation": "「conceive」は、妊娠するという意味です。子供を身ごもることを指します。\n\n例：She is hoping to conceive a child soon. (彼女は近いうちに子供を妊娠したいと思っている。)"
+    },
+    {
+      "id": 42,
+      "value": "snap up",
+      "options": [
+        "スナップ写真",
+        "急いで手に入れる",
+        "中断する",
+        "拒否する"
+      ],
+      "correctAnswer": "急いで手に入れる",
+      "explanation": "「snap up」は、良い機会や価値のあるものを「急いで手に入れる」「奪い取る」という意味のイディオムです。他の人が先に手に入れる前に、素早く行動することを指します。\n\n例：Tickets for the concert were snapped up within hours. (コンサートのチケットは数時間以内に売り切れた。)"
+    },
+    {
+      "id": 43,
+      "value": "nuptials",
+      "options": [
+        "葬式",
+        "結婚式",
+        "誕生日",
+        "卒業式"
+      ],
+      "correctAnswer": "結婚式",
+      "explanation": "「nuptials」は、結婚式や婚礼を意味する言葉です。ややフォーマルな文脈で使用されます。\n\n例：The couple announced their upcoming nuptials. (カップルは近々行われる結婚式を発表した。)"
+    },
+    {
+      "id": 44,
+      "value": "talk to the hand",
+      "options": [
+        "握手する",
+        "無視する",
+        "相談する",
+        "手話で話す"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「talk to the hand」は、相手の話を聞きたくない、無視したいという気持ちを表すスラングです。相手に対して非常に失礼な態度を示すため、使う場面には注意が必要です。\n\n例：I don't want to hear your excuses, talk to the hand! (あなたの言い訳は聞きたくない、話しかけないで！)"
+    },
+    {
+      "id": 45,
+      "value": "at someone's expense",
+      "options": [
+        "誰かの費用で",
+        "誰かの犠牲にして",
+        "誰かの同意を得て",
+        "誰かの秘密にして"
+      ],
+      "correctAnswer": "誰かの犠牲にして",
+      "explanation": "「at someone's expense」は、「～を犠牲にして」「～をからかって」という意味です。誰かを笑いの対象にしたり、不利益を被らせたりする状況で使われます。\n\n例：He made jokes at my expense. (彼は私をからかうようなジョークを言った。)"
+    },
+    {
+      "id": 46,
+      "value": "tickled",
+      "options": [
+        "くすぐられた",
+        "感動した",
+        "混乱した",
+        "退屈した"
+      ],
+      "correctAnswer": "くすぐられた",
+      "explanation": "「tickled」は、「くすぐる」という意味ですが、ここでは比喩的に「笑わせる」「楽しませる」という意味で使われています。ユーモアや面白さによって心がくすぐられるような感覚を表します。\n\n例：The comedian tickled the audience with his jokes. (そのコメディアンはジョークで観客を笑わせた。)"
+    },
+    {
+      "id": 47,
+      "value": "zinger",
+      "options": [
+        "歌",
+        "痛烈な一言",
+        "贈り物",
+        "冗談"
+      ],
+      "correctAnswer": "痛烈な一言",
+      "explanation": "「zinger」は、痛烈で面白い一言、特に相手を皮肉ったり、批判したりするジョークやコメントを指します。人を驚かせたり、考えさせたりする効果があります。\n\n例：He delivered a real zinger during the debate. (彼は討論中に本当に痛烈な一言を放った。)"
+    },
+    {
+      "id": 48,
+      "value": "kidding aside",
+      "options": [
+        "冗談はさておき",
+        "子供の頃は",
+        "秘密にして",
+        "真剣に考えて"
+      ],
+      "correctAnswer": "冗談はさておき",
+      "explanation": "「kidding aside」は、「冗談はさておき」「冗談抜きで」という意味のフレーズです。真剣な話に移る際に使われます。\n\n例：Kidding aside, we need to discuss the serious issues. (冗談はさておき、真剣な問題を話し合う必要があります。)"
+    },
+    {
+      "id": 49,
+      "value": "tying the knot",
+      "options": [
+        "結び目を解く",
+        "結婚する",
+        "ロープを結ぶ",
+        "問題を解決する"
+      ],
+      "correctAnswer": "結婚する",
+      "explanation": "「tying the knot」は、結婚するという意味の口語的な表現です。文字通りには「結び目を作る」という意味ですが、結婚の誓いを交わすことを指します。\n\n例：They are planning to tie the knot next summer. (彼らは来年の夏に結婚する予定です。)"
+    },
+    {
+      "id": 50,
+      "value": "wrap it up",
+      "options": [
+        "プレゼントする",
+        "終わらせる",
+        "包む",
+        "始める"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「wrap it up」は、「終わらせる」「切り上げる」という意味の口語表現です。会議やプレゼンテーションなどを早く終わらせたいときに使われます。\n\n例：Let's wrap it up, I have another meeting to attend. (終わらせましょう、私は別の会議に出席しなければなりません。)"
+    },
+    {
+      "id": 51,
+      "value": "implication",
+      "options": [
+        "影響",
+        "含み",
+        "複雑さ",
+        "結果"
+      ],
+      "correctAnswer": "含み",
+      "explanation": "「implication」は、直接的には言われていないものの、ほのめかされている意味や暗示を指します。ある行動や発言が間接的に示す意味合いや、予想される結果を指すこともあります。\n\n例：The implication of his statement was that he disagreed. (彼の発言の含みは、彼が反対しているということだった。)"
+    },
+    {
+      "id": 52,
+      "value": "Hear, hear",
+      "options": [
+        "聞こえない",
+        "その通り",
+        "反対",
+        "もう一度"
+      ],
+      "correctAnswer": "その通り",
+      "explanation": "「Hear, hear」は、演説や意見に賛成する際に使われる感嘆詞です。主にイギリスの議会などで用いられ、同意や支持を表します。日本語の「その通り」「ごもっとも」といったニュアンスに近いです。"
+    },
+    {
+      "id": 53,
+      "value": "it all comes down to",
+      "options": [
+        "要するに",
+        "始まりにすぎない",
+        "問題ない",
+        "終わった"
+      ],
+      "correctAnswer": "要するに",
+      "explanation": "「it all comes down to」は、「結局〜に帰着する」「要するに〜だ」という意味のイディオムです。複雑な状況や多くの要素を考慮した結果、最終的に重要なポイントを指し示す際に使われます。\n\n例：It all comes down to whether we have enough funding. (結局は、十分な資金があるかどうかにかかっている。)"
+    },
+    {
+      "id": 54,
+      "value": "grasshopper",
+      "options": [
+        "バッタ",
+        "初心者",
+        "怠け者",
+        "賢者"
+      ],
+      "correctAnswer": "初心者",
+      "explanation": "文脈から、ここではゲームに負けていることに対する比喩表現として使われています。武道やゲームの世界で、未熟な人、初心者を指すことがあります。"
+    },
+    {
+      "id": 55,
+      "value": "addicted to",
+      "options": [
+        "嫌悪している",
+        "中毒",
+        "興味がない",
+        "無関心"
+      ],
+      "correctAnswer": "中毒",
+      "explanation": "「addicted to」は、「〜に中毒である」「〜に依存している」という意味です。薬物やアルコールだけでなく、趣味や習慣など、何かに強く依存している状態を表す場合にも使われます。\n\n例：He is addicted to playing video games. (彼はビデオゲーム中毒だ。)"
+    },
+    {
+      "id": 56,
+      "value": "kosher",
+      "options": [
+        "高価な",
+        "ユダヤ教の規定に沿った",
+        "古い",
+        "汚い"
+      ],
+      "correctAnswer": "ユダヤ教の規定に沿った",
+      "explanation": "「kosher」は、ユダヤ教の食事規定（カシュルート）に適合していることを意味します。食品だけでなく、儀式や物事が正当である、適切であるという意味でも使われます。"
+    },
+    {
+      "id": 57,
+      "value": "tubby",
+      "options": [
+        "背が高い",
+        "太った",
+        "痩せた",
+        "筋肉質"
+      ],
+      "correctAnswer": "太った",
+      "explanation": "「tubby」は、やや太めの体型を指す言葉で、特に子供や愛らしいものを表現する際に使われます。少しユーモラスで、親しみを込めたニュアンスがあります。\n\n例：a tubby little bear (太っちょの小さなクマ)"
+    },
+    {
+      "id": 58,
+      "value": "threesome",
+      "options": [
+        "グループ",
+        "3人組",
+        "双子",
+        "一人"
+      ],
+      "correctAnswer": "3人組",
+      "explanation": "「threesome」は、3人で行う活動、特に性的な意味合いで使われることが多い言葉です。ここでは、性的な関係を婉曲的に表現しています。"
+    },
+    {
+      "id": 59,
+      "value": "Jeepers",
+      "options": [
+        "さようなら",
+        "びっくり",
+        "こんにちは",
+        "おやすみ"
+      ],
+      "correctAnswer": "びっくり",
+      "explanation": "「Jeepers」は、驚きや当惑を表す感嘆詞で、「Gosh」「Gee」と同様に使われます。やや古風な表現で、穏やかな驚きを表す際に用いられます。"
+    },
+    {
+      "id": 60,
+      "value": "snootful",
+      "options": [
+        "少量",
+        "たくさん",
+        "全くない",
+        "少しだけ"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "「snootful」は、「たくさん」「いっぱい」という意味のスラングです。特にアルコールをたくさん飲んだ状態を指す際に使われます。\n\n例：He had a snootful last night. (彼は昨夜、飲みすぎた。)"
+    },
+    {
+      "id": 61,
+      "value": "low-key",
+      "options": [
+        "目立たない",
+        "派手な",
+        "秘密の",
+        "公式の"
+      ],
+      "correctAnswer": "目立たない",
+      "explanation": "「low-key」は、「控えめな」「地味な」「目立たない」という意味です。イベントや活動が控えめに行われる様子や、人の性格が落ち着いている様子を表す際に使われます。\n\n例：We had a low-key celebration for his birthday. (彼の誕生日は控えめにお祝いした。)"
+    },
+    {
+      "id": 62,
+      "value": "hanky-panky",
+      "options": [
+        "真面目な話",
+        "ふざけた行為",
+        "重要な会議",
+        "公式な発表"
+      ],
+      "correctAnswer": "ふざけた行為",
+      "explanation": "「hanky-panky」は、不真面目な行為、特に性的ないたずらや浮気を意味する口語表現です。ここでは、ストリッパーなどを呼ぶような騒ぎを避けたことを強調するために使われています。"
+    },
+    {
+      "id": 63,
+      "value": "You ain’t goin’ anywhere",
+      "options": [
+        "どこにも行かせない",
+        "どこかに行きたい",
+        "どこにも行けない",
+        "どこに行くの"
+      ],
+      "correctAnswer": "どこにも行かせない",
+      "explanation": "口語的な表現で、強い決意や命令を表します。「You are not going anywhere」をさらにくだけた言い方にしたものです。"
+    },
+    {
+      "id": 64,
+      "value": "set the record straight",
+      "options": [
+        "記録を破る",
+        "事実を明らかにする",
+        "秘密にする",
+        "忘れる"
+      ],
+      "correctAnswer": "事実を明らかにする",
+      "explanation": "「set the record straight」は、「誤解を解く」「事実を明らかにする」という意味のイディオムです。誤った情報や認識を正し、真実を伝える際に使われます。\n\n例：Let me set the record straight – I never said that. (誤解を解かせてください。私はそんなことは一度も言っていません。)"
+    },
+    {
+      "id": 65,
+      "value": "Shame on you",
+      "options": [
+        "おめでとう",
+        "恥を知れ",
+        "頑張って",
+        "気にしないで"
+      ],
+      "correctAnswer": "恥を知れ",
+      "explanation": "「Shame on you」は、「恥を知れ」「恥ずかしいと思え」という意味で、相手の行動を強く非難する際に使われる表現です。道徳的に問題がある行為や、不適切な言動に対して用いられます。"
+    },
+    {
+      "id": 66,
+      "value": "Zip it",
+      "options": [
+        "急いで",
+        "静かにして",
+        "手伝って",
+        "続けて"
+      ],
+      "correctAnswer": "静かにして",
+      "explanation": "「Zip it」は、「黙れ」「静かにしろ」という意味の命令形の口語表現です。相手に話をやめさせたい時に使われます。命令形なので、親しい間柄や立場が上の人が使うことが多いです。"
+    },
+    {
+      "id": 67,
+      "value": "borderline",
+      "options": [
+        "明確な",
+        "境界線上",
+        "中心的な",
+        "重要な"
+      ],
+      "correctAnswer": "境界線上",
+      "explanation": "「borderline」は、「境界線上」「ほとんど〜に近い」という意味です。ここでは、近親相姦に近いくらいの関係であることを示唆しています。問題があるかどうかを判断する際に使われます。\n\n例：His behavior was borderline acceptable. (彼の行動は、ぎりぎり許容範囲内だった。)"
+    },
+    {
+      "id": 68,
+      "value": "go over things",
+      "options": [
+        "物事を無視する",
+        "物事を確認する",
+        "物事を隠す",
+        "物事を捨てる"
+      ],
+      "correctAnswer": "物事を確認する",
+      "explanation": "「go over things」は、「〜について検討する」「〜を復習する」という意味の句動詞です。問題点や計画などについて、詳細に検討したり、確認したりする際に使われます。\n\n例：Let's go over the plan one more time. (もう一度計画を検討しましょう。)"
+    },
+    {
+      "id": 69,
+      "value": "warning signs",
+      "options": [
+        "良い知らせ",
+        "警告の兆候",
+        "安全な場所",
+        "楽しい出来事"
+      ],
+      "correctAnswer": "警告の兆候",
+      "explanation": "「warning signs」は、「警告の兆候」「危険信号」という意味です。何か悪いことが起こる可能性を示唆する兆候や兆しを指します。\n\n例：There were warning signs that the company was in trouble. (その会社が危機に瀕しているという警告の兆候があった。)"
+    },
+    {
+      "id": 70,
+      "value": "This is really on you.",
+      "options": [
+        "これはあなたの責任だ",
+        "これは私のおごりだ",
+        "これはあなたのおかげだ",
+        "これは私のせいだ"
+      ],
+      "correctAnswer": "これはあなたの責任だ",
+      "explanation": "「This is on you」は、「これはあなたの責任だ」「あなたのせいだ」という意味です。ここでは、Bernadetteに対して、Howardの奇妙な行動に気づく機会があったのに見過ごしたことを非難しています。"
+    },
+    {
+      "id": 71,
+      "value": "call me back",
+      "options": [
+        "私を批判して",
+        "私に電話して",
+        "私を忘れて",
+        "私を助けて"
+      ],
+      "correctAnswer": "私に電話して",
+      "explanation": "「call me back」は、電話を切った後に、相手にかけ直してほしいときに使うフレーズです。緊急の用件がある場合や、すぐに返事が欲しい場合に使われます。\n\n例: Please call me back when you have a chance. (手が空いたら、私に電話してください。)"
+    },
+    {
+      "id": 72,
+      "value": "courage",
+      "options": [
+        "知識",
+        "勇気",
+        "時間",
+        "お金"
+      ],
+      "correctAnswer": "勇気",
+      "explanation": "「courage」は、危険や困難に直面しても恐れずに立ち向かう精神力、勇気を意味します。決断力や行動力を伴うことが多いです。\n\n例：It takes courage to stand up for what you believe in. (自分の信じることのために立ち上がるには勇気がいる。)"
+    },
+    {
+      "id": 73,
+      "value": "unreasonable",
+      "options": [
+        "不合理な",
+        "合理的な",
+        "可能な",
+        "不可能な"
+      ],
+      "correctAnswer": "不合理な",
+      "explanation": "「unreasonable」は、道理にかなっていない、不合理な、過度なという意味です。常識や論理に反する要求や行動に対して使われます。\n\n例：It's unreasonable to expect everyone to agree with you. (誰もがあなたに同意することを期待するのは不合理だ。)"
+    },
+    {
+      "id": 74,
+      "value": "whole world",
+      "options": [
+        "全て",
+        "全世界",
+        "一部",
+        "過去"
+      ],
+      "correctAnswer": "全世界",
+      "explanation": "「whole world」は、ここでは「私の生活の全て」という比喩的な意味合いで使用されています。人や場所が、その人の生活において非常に重要な存在であることを強調する際に用いられます。\n\n例：My family is my whole world. (家族は私の全てだ。)"
+    },
+    {
+      "id": 75,
+      "value": "combat-roll",
+      "options": [
+        "戦闘",
+        "戦闘回避",
+        "スポーツ",
+        "料理"
+      ],
+      "correctAnswer": "戦闘回避",
+      "explanation": "「combat roll」は、軍隊などで使われる、負傷を避けるための緊急回避の動きです。ここでは、車から飛び降りる際の比喩として使われています。危険な状況から身を守るための行動を表します。\n\n例：He did a combat roll to avoid the explosion. (彼は爆発を避けるためにコンバットロールをした。)"
+    },
+    {
+      "id": 76,
+      "value": "culturally appropriate",
+      "options": [
+        "文化的に不適切",
+        "文化的に許容範囲",
+        "文化的に適切",
+        "文化的に面白い"
+      ],
+      "correctAnswer": "文化的に適切",
+      "explanation": "「culturally appropriate」は、特定の文化において適切である、または受け入れられる行動や物を指します。状況や相手の文化を尊重する意味合いが含まれます。例：It is important to ensure that educational materials are culturally appropriate for all students. (教育資料が全ての生徒にとって文化的に適切であることを確認することが重要です。)"
+    },
+    {
+      "id": 77,
+      "value": "two birds (with one stone)",
+      "options": [
+        "二つのものを失う",
+        "一石二鳥",
+        "石を投げる",
+        "鳥を観察する"
+      ],
+      "correctAnswer": "一石二鳥",
+      "explanation": "「kill two birds with one stone」ということわざで、一つの行動で二つの目的を同時に達成することを意味します。効率の良さや、目的を達成するための賢い方法を指す際に用いられます。例：By combining the business trip with a visit to my family, I killed two birds with one stone. (出張と家族訪問を組み合わせることで、一石二鳥を達成しました。)"
+    },
+    {
+      "id": 78,
+      "value": "tubby",
+      "options": [
+        "痩せた",
+        "太った",
+        "背が高い",
+        "低い"
+      ],
+      "correctAnswer": "太った",
+      "explanation": "「tubby」は、やや太っている、または丸みを帯びた体型を指す言葉です。子供やペットに対して使われることもあり、親しみを込めたニュアンスが含まれることがあります。ただし、相手によっては失礼になる可能性もあるため、注意が必要です。例：He was a tubby little boy with chubby cheeks. (彼は丸い頬をした、ぽっちゃりした男の子でした。)"
+    },
+    {
+      "id": 79,
+      "value": "sleazebag",
+      "options": [
+        "正直者",
+        "まじめな人",
+        "嫌なやつ",
+        "面白い人"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「sleazebag」は、道徳的に堕落している、または不快な行動をする人を指す軽蔑的な言葉です。特に、他人を利用したり、不誠実な行動をする人を指します。例：He's nothing but a sleazebag who's only after your money. (彼はただの金目当ての嫌なやつだ。)"
+    },
+    {
+      "id": 80,
+      "value": "disgusted by",
+      "options": [
+        "満足している",
+        "興味がある",
+        "嫌悪感を抱いている",
+        "尊敬している"
+      ],
+      "correctAnswer": "嫌悪感を抱いている",
+      "explanation": "「disgusted by」は、強い嫌悪感や不快感を抱いている状態を表します。道徳的に受け入れられない行為や、不潔なものなどに対して使われることが多いです。例：I was disgusted by the way he treated his employees. (彼の従業員に対する扱い方に嫌悪感を抱いた。)"
+    },
+    {
+      "id": 81,
+      "value": "get it",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "与える"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get it」は、文脈によって様々な意味を持ちますが、ここでは「理解する」という意味で使われています。相手の言っていることや状況を理解したことを示す際に用いられます。例：I get it now, you're trying to help me. (わかった、あなたは私を助けようとしているんだね。)"
+    },
+    {
+      "id": 82,
+      "value": "made me a better man",
+      "options": [
+        "より悪い人にした",
+        "現状維持",
+        "より良い人にした",
+        "普通の人にした"
+      ],
+      "correctAnswer": "より良い人にした",
+      "explanation": "「make someone a better (person)」は、誰かが自分自身を改善する上で影響を与えたことを示す表現です。その人の存在や行動が、自分をより良い人間へと導いたという感謝や尊敬の気持ちを表します。例：My mentor made me a better engineer. (私の指導者は私をより良いエンジニアにしてくれた。)"
+    },
+    {
+      "id": 83,
+      "value": "not unlike",
+      "options": [
+        "似ていない",
+        "非常に似ている",
+        "全く違う",
+        "少し似ている"
+      ],
+      "correctAnswer": "少し似ている",
+      "explanation": "「not unlike」は、「～と似ていないわけではない」という意味で、二重否定によって肯定的な意味合いを強調する表現です。完全な同一性ではなく、ある程度の類似性があることを示唆します。例：His teaching style is not unlike that of his predecessor. (彼の教え方は、前任者の教え方と少し似ている。)"
+    },
+    {
+      "id": 84,
+      "value": "is the wedding still on?",
+      "options": [
+        "結婚式は中止になった？",
+        "結婚式はまだ行われるの？",
+        "結婚式は終わったの？",
+        "結婚式は延期されたの？"
+      ],
+      "correctAnswer": "結婚式はまだ行われるの？",
+      "explanation": "「Is something still on?」は、予定されていたイベントや計画が予定通りに進行するかどうかを尋ねる表現です。特に、何らかの障害や変更の可能性があった後に使われることが多いです。例：The party is still on, despite the bad weather. (悪天候にもかかわらず、パーティーは予定通り開催されます。)"
+    },
+    {
+      "id": 85,
+      "value": "maid of honor",
+      "options": [
+        "花婿",
+        "花嫁",
+        "メイド長",
+        "ブライズメイド"
+      ],
+      "correctAnswer": "ブライズメイド",
+      "explanation": "「maid of honor」は、結婚式で花嫁の最も重要な付き添い人を務める女性を指します。既婚女性の場合は「matron of honor」と呼ばれます。彼女の役割は、花嫁のサポート、結婚式の準備の手伝い、式典での役割遂行など多岐にわたります。例：She was asked to be the maid of honor at her best friend's wedding. (彼女は親友の結婚式でブライズメイドを務めるように頼まれました。)"
+    },
+    {
+      "id": 86,
+      "value": "what the hell",
+      "options": [
+        "どうしたの？",
+        "一体何が起きたの？",
+        "まあ、いいか",
+        "素晴らしい"
+      ],
+      "correctAnswer": "まあ、いいか",
+      "explanation": "「what the hell」は、諦めや投げやりな気持ち、または大胆な行動に出る決意を表す際に使われる表現です。「どうでもいいや」「ええい、ままよ」といったニュアンスが含まれます。例：I know I shouldn't, but what the hell, I'll have another piece of cake. (すべきではないとわかっているけど、まあいいか、もう一切れケーキを食べよう。)"
+    },
+    {
+      "id": 87,
+      "value": "dressing gown",
+      "options": [
+        "イブニングドレス",
+        "運動着",
+        "バスローブ",
+        "普段着"
+      ],
+      "correctAnswer": "バスローブ",
+      "explanation": "「dressing gown」は、寝間着や下着の上から羽織る、ゆったりとしたガウンのことです。バスローブとしても使われます。家でリラックスする際に着用されることが多いです。例：He put on his dressing gown and slippers before going downstairs for breakfast. (彼は朝食のために階下へ行く前に、バスローブとスリッパを身につけた。)"
+    },
+    {
+      "id": 88,
+      "value": "right here, right now",
+      "options": [
+        "昨日",
+        "明日",
+        "今、この場所で",
+        "いつか"
+      ],
+      "correctAnswer": "今、この場所で",
+      "explanation": "「right here, right now」は、「まさにここで、今すぐに」という意味で、行動や決定を即座に行うことを強調する表現です。緊急性や切迫感、または強い意志を示す際に用いられます。例：I want to tell you how I feel, right here, right now. (今、この場所で、あなたの気持ちを伝えたい。)"
+    },
+    {
+      "id": 89,
+      "value": "folding a sheet",
+      "options": [
+        "歌う",
+        "料理",
+        "シーツをたたむ",
+        "踊る"
+      ],
+      "correctAnswer": "シーツをたたむ",
+      "explanation": "「fold a sheet」は、シーツをたたむ行為を指します。家庭的な日常のタスクを意味し、性的な行為の婉曲表現として使われることもあります。例: Folding sheets is my least favorite chore. (シーツをたたむのは私が一番嫌いな家事です。)"
+    },
+    {
+      "id": 90,
+      "value": "upset",
+      "options": [
+        "幸せ",
+        "怒り",
+        "動揺",
+        "安心"
+      ],
+      "correctAnswer": "動揺",
+      "explanation": "ここでは、「upset」は、人が精神的に動揺している、または悲しんでいる状態を指します。何か問題や出来事によって感情が乱れている状態を表します。例：She was very upset when she heard the news. (彼女はその知らせを聞いてとても動揺した。)"
+    },
+    {
+      "id": 91,
+      "value": "convention",
+      "options": [
+        "革新",
+        "会議",
+        "逸脱",
+        "発明"
+      ],
+      "correctAnswer": "会議",
+      "explanation": "ここでは、「convention」は、社会的な慣習や習慣を指します。特定の状況下での一般的な行動や期待される対応を表します。例：It is a convention to bring a gift to a dinner party. (夕食会に贈り物を持っていくのは慣習です。)"
+    },
+    {
+      "id": 92,
+      "value": "beverage",
+      "options": [
+        "食事",
+        "飲み物",
+        "お菓子",
+        "デザート"
+      ],
+      "correctAnswer": "飲み物",
+      "explanation": "「beverage」は、飲み物を意味するフォーマルな言葉です。水、ジュース、コーヒーなど、液体として摂取するものを広く指します。例：Hot beverages are often served to guests in winter. (冬には温かい飲み物がよく客に提供されます。)"
+    },
+    {
+      "id": 93,
+      "value": "broth",
+      "options": [
+        "パン",
+        "スープ",
+        "サラダ",
+        "肉"
+      ],
+      "correctAnswer": "スープ",
+      "explanation": "「broth」は、肉や野菜などを煮込んで作ったスープのことです。栄養価が高く、体調を崩した時などに飲まれることが多いです。例：Chicken broth is good for a cold. (チキンスープは風邪に良い。)"
+    },
+    {
+      "id": 94,
+      "value": "bouillon",
+      "options": [
+        "香辛料",
+        "スープの素",
+        "調味料",
+        "ハーブ"
+      ],
+      "correctAnswer": "スープの素",
+      "explanation": "「bouillon」は、肉や野菜の風味を凝縮したスープの素のことです。キューブ状や粉末状で販売されており、手軽にスープを作ることができます。例：I added a bouillon cube to the soup for extra flavor. (風味を増すために、スープにブイヨンキューブを加えた。)"
+    },
+    {
+      "id": 95,
+      "value": "my next move",
+      "options": [
+        "次の休憩",
+        "次の旅行",
+        "次の行動",
+        "次の食事"
+      ],
+      "correctAnswer": "次の行動",
+      "explanation": "「next move」は、次にとるべき行動や戦略を意味します。特に、困難な状況や岐路に立たされた時に、どのように対応するかを考える際に用いられます。例：I don't know what my next move should be in this negotiation. (この交渉で次にどう動くべきかわからない。)"
+    },
+    {
+      "id": 96,
+      "value": "talk through",
+      "options": [
+        "無視する",
+        "話して解決する",
+        "秘密にする",
+        "忘れる"
+      ],
+      "correctAnswer": "話して解決する",
+      "explanation": "「talk through」は、問題や困難な状況について話し合い、解決策を見つけ出すことを意味します。コミュニケーションを通じて相互理解を深め、合意に達することを目指します。例：We need to talk through our differences and find a compromise. (私たちは違いについて話し合い、妥協点を見つける必要があります。)"
+    },
+    {
+      "id": 97,
+      "value": "give someone a taste of their own medicine",
+      "options": [
+        "薬を与える",
+        "褒める",
+        "仕返しをする",
+        "助ける"
+      ],
+      "correctAnswer": "仕返しをする",
+      "explanation": "「give someone a taste of their own medicine」は、相手が自分にしたのと同じような嫌な経験を相手にさせる、つまり「仕返しをする」という意味です。相手の行動を反省させ、同じようなことを繰り返さないようにする目的があります。例：He was always late, so I started arriving late too, to give him a taste of his own medicine. (彼はいつも遅刻するので、彼に自分の薬を味あわせるために、私も遅れて到着するようにした。)"
+    },
+    {
+      "id": 98,
+      "value": "clean up your mess",
+      "options": [
+        "散らかす",
+        "片付ける",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "片付ける",
+      "explanation": "「clean up your mess」は、自分が引き起こした問題や混乱を解決することを意味します。責任を取り、事態を収拾する行動を指します。例：You made this mistake, now you have to clean up your mess. (あなたがこの間違いを犯したのだから、自分で後始末をしなさい。)"
+    },
+    {
+      "id": 99,
+      "value": "get that",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "与える"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get that」は、「理解する」という意味で、相手の言っていることや状況を理解したことを示す際に用いられます。 \"I get that\" の形で使用されることが多いです。例：I get that you're angry, but please calm down. (あなたが怒っていることは理解していますが、落ち着いてください。)"
+    },
+    {
+      "id": 100,
+      "value": "still crazy",
+      "options": [
+        "まだ正常",
+        "とても普通",
+        "まだおかしい",
+        "完全に冷静"
+      ],
+      "correctAnswer": "まだおかしい",
+      "explanation": "ここでは「still crazy」は、異常なことや普通ではないことが続いている状態を指します。ありえない状況や面白い状況を表すために使われます。例：Even though they're married, their relationship is still crazy. (彼らは結婚しているにもかかわらず、彼らの関係はまだおかしい。)"
+    }
+  ]
+}

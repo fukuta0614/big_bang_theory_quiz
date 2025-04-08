@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "iffy",
+      "options": [
+        "新鮮な",
+        "高価な",
+        "怪しい",
+        "安全な"
+      ],
+      "correctAnswer": "怪しい",
+      "explanation": "「iffy」は、疑わしい、不確か、または危険かもしれないという意味の口語的な表現です。食品の状態や計画の実現可能性など、様々な状況で使用されます。例：The milk smells a bit iffy. (この牛乳、ちょっと怪しい匂いがする。)"
+    },
+    {
+      "id": 2,
+      "value": "Fussyface",
+      "options": [
+        "大食漢",
+        "几帳面な人",
+        "怠け者",
+        "おしゃべりな人"
+      ],
+      "correctAnswer": "几帳面な人",
+      "explanation": "「fussy」は、細かいことにうるさい、気難しいという意味です。「Fussyface」は、特に食べ物や服装などに対して好みがうるさい人を指す、やや軽蔑的な表現です。Sheldon の性格を表すために Penny が使ったユーモラスなニックネームです。"
+    },
+    {
+      "id": 3,
+      "value": "high-resolution sadness",
+      "options": [
+        "高解像度の喜び",
+        "鮮明な悲しみ",
+        "ぼんやりとした悲しみ",
+        "高解像度の興奮"
+      ],
+      "correctAnswer": "鮮明な悲しみ",
+      "explanation": "「high-resolution sadness」は、皮肉を込めた表現で、過去の出来事を鮮明に思い出して悲しくなることを指します。最新技術であるBlu-rayで映画を観ることで、過去の感情がより鮮明に蘇る様子をユーモラスに表現しています。"
+    },
+    {
+      "id": 4,
+      "value": "hanging out",
+      "options": [
+        "議論する",
+        "デートする",
+        "ただ一緒に過ごす",
+        "仕事をする"
+      ],
+      "correctAnswer": "ただ一緒に過ごす",
+      "explanation": "「hang out」は、特に目的もなく、リラックスして時間を過ごすという意味です。友人や知人と気軽に過ごす状況でよく使われます。例：We often hang out at the coffee shop after work. (私たちはよく仕事の後、その喫茶店で一緒に時間を過ごします。)"
+    },
+    {
+      "id": 5,
+      "value": "ornithophobia",
+      "options": [
+        "高所恐怖症",
+        "閉所恐怖症",
+        "鳥恐怖症",
+        "クモ恐怖症"
+      ],
+      "correctAnswer": "鳥恐怖症",
+      "explanation": "「ornithophobia」は、鳥に対する恐怖症を意味する専門用語です。特定の種類の鳥だけでなく、鳥全般に対して強い恐怖を感じる状態を指します。Sheldon のキャラクター設定におけるユニークな一面を表しています。"
+    },
+    {
+      "id": 6,
+      "value": "on top of everything else",
+      "options": [
+        "何よりもまず",
+        "さらに悪いことに",
+        "すべて順調で",
+        "重要なこととして"
+      ],
+      "correctAnswer": "さらに悪いことに",
+      "explanation": "「on top of everything else」は、すでに悪い状況に加えて、さらに別の問題が発生したことを強調する際に使われる表現です。例：On top of everything else, it started to rain. (さらに悪いことに、雨まで降り出した。)"
+    },
+    {
+      "id": 7,
+      "value": "get along with",
+      "options": [
+        "喧嘩する",
+        "仲良くする",
+        "無視する",
+        "競争する"
+      ],
+      "correctAnswer": "仲良くする",
+      "explanation": "「get along with」は、～と仲良くやっていく、～とうまくやっていくという意味です。人だけでなく、物事に対しても使えます。例：I try to get along with my work. (私は仕事とうまくやっていこうとしている。)"
+    },
+    {
+      "id": 8,
+      "value": "overdressed",
+      "options": [
+        "着飾っている",
+        "カジュアルすぎる",
+        "汚れている",
+        "派手すぎる"
+      ],
+      "correctAnswer": "着飾っている",
+      "explanation": "「overdressed」は、場違いなほどフォーマルな服装をしている状態を指します。周囲の人々よりも服装が華美である場合に用いられます。例：I felt overdressed at the casual party. (カジュアルなパーティーで、私は場違いなほど着飾っていると感じた。)"
+    },
+    {
+      "id": 9,
+      "value": "prostate exam",
+      "options": [
+        "視力検査",
+        "前立腺検査",
+        "聴力検査",
+        "血液検査"
+      ],
+      "correctAnswer": "前立腺検査",
+      "explanation": "「prostate exam」は、前立腺の健康状態を調べるための検査です。Sheldon は Leonard の服装に対するコメントで、ユーモラスな状況を引き合いに出しています。"
+    },
+    {
+      "id": 10,
+      "value": "sequins",
+      "options": [
+        "スパンコール",
+        "リボン",
+        "ボタン",
+        "レース"
+      ],
+      "correctAnswer": "スパンコール",
+      "explanation": "「sequins」は、衣服や装飾品に縫い付けられる小さな光沢のある装飾品です。Sheldon は Vegas での派手な服装の例として挙げています。"
+    },
+    {
+      "id": 11,
+      "value": "overthinking",
+      "options": [
+        "考えすぎ",
+        "無計画",
+        "楽観的",
+        "現実的"
+      ],
+      "correctAnswer": "考えすぎ",
+      "explanation": "「overthinking」は、必要以上に深く考えすぎてしまうことを指します。特に、心配事や決断について考えすぎる場合に用いられます。例：Don't overthink it, just do it. (考えすぎないで、とにかくやってみて。)"
+    },
+    {
+      "id": 12,
+      "value": "dead-end",
+      "options": [
+        "行き止まりの",
+        "成功する",
+        "人気のある",
+        "安全な"
+      ],
+      "correctAnswer": "行き止まりの",
+      "explanation": "「dead-end」は、将来の見込みがない、進展がないという意味です。仕事やキャリアについて使われることが多いです。例：a dead-end job (見込みのない仕事)"
+    },
+    {
+      "id": 13,
+      "value": "stepping out on",
+      "options": [
+        "頼りにする",
+        "裏切る",
+        "尊敬する",
+        "協力する"
+      ],
+      "correctAnswer": "裏切る",
+      "explanation": "「step out on」は、配偶者や恋人を裏切る、浮気するという意味です。Sheldon は Animal Control の担当者をからかうために使用しています。"
+    },
+    {
+      "id": 14,
+      "value": "casual",
+      "options": [
+        "普段着の",
+        "フォーマルな",
+        "派手な",
+        "仕事用の"
+      ],
+      "correctAnswer": "普段着の",
+      "explanation": "「casual」は、普段着の、気軽な、形式ばらないという意味です。服装だけでなく、状況や態度に対しても使われます。例：a casual outfit (普段着)"
+    },
+    {
+      "id": 15,
+      "value": "audience with the queen",
+      "options": [
+        "女王との会見",
+        "友達との夕食",
+        "映画鑑賞",
+        "スポーツ観戦"
+      ],
+      "correctAnswer": "女王との会見",
+      "explanation": "「audience with the queen」は、女王陛下との公式な面会を意味します。Sheldon は Leonard の服装に対するコメントで、非日常的な状況を引き合いに出しています。"
+    },
+    {
+      "id": 16,
+      "value": "fortified wine",
+      "options": [
+        "高級ワイン",
+        "酒精強化ワイン",
+        "スパークリングワイン",
+        "ノンアルコールワイン"
+      ],
+      "correctAnswer": "酒精強化ワイン",
+      "explanation": "「fortified wine」は、アルコール度数を高めるために蒸留酒が添加されたワインです。ポートワインやシェリーなどが該当します。Sheldon は Leonard の服装に対するコメントで、ユーモラスな状況を引き合いに出しています。"
+    },
+    {
+      "id": 17,
+      "value": "flaming trash can",
+      "options": [
+        "ゴミ箱",
+        "燃えているゴミ箱",
+        "花瓶",
+        "楽器"
+      ],
+      "correctAnswer": "燃えているゴミ箱",
+      "explanation": "「flaming trash can」は、燃えているゴミ箱を指します。Sheldon は Leonard の服装に対するコメントで、非日常的な状況を引き合いに出しています。"
+    },
+    {
+      "id": 18,
+      "value": "Be gone!",
+      "options": [
+        "こんにちは！",
+        "行ってしまえ！",
+        "お元気で！",
+        "ようこそ！"
+      ],
+      "correctAnswer": "行ってしまえ！",
+      "explanation": "「Be gone!」は、立ち去れ、消えろという意味の命令形です。古い言い回しで、現代ではあまり使われませんが、映画や文学作品などで見られます。ここでは、鳥を追い払うために使われています。"
+    },
+    {
+      "id": 19,
+      "value": "Shoo, shoo!",
+      "options": [
+        "こんにちは！",
+        "静かに！",
+        "しっしっ！",
+        "ありがとう！"
+      ],
+      "correctAnswer": "しっしっ！",
+      "explanation": "「Shoo, shoo!」は、鳥や動物を追い払うときに使う言葉です。日本語の「しっしっ」に相当します。ここでは、鳥を追い払うために使われています。"
+    },
+    {
+      "id": 20,
+      "value": "get away from",
+      "options": [
+        "近づく",
+        "離れる",
+        "挨拶する",
+        "手伝う"
+      ],
+      "correctAnswer": "離れる",
+      "explanation": "「get away from」は、（人や場所から）離れる、逃れるという意味です。ここでは、Sheldonが鳥に対して「近づかないで」という意味で使っています。例：Get away from me! (私から離れて！)"
+    },
+    {
+      "id": 21,
+      "value": "monster",
+      "options": [
+        "友人",
+        "怪物",
+        "天使",
+        "ヒーロー"
+      ],
+      "correctAnswer": "怪物",
+      "explanation": "「monster」は、怪物、恐ろしいものを意味します。ここでは、Sheldonが鳥に対して「怪物」と呼んでいます。比喩的な表現です。例：He's a monster! (彼は怪物だ！)"
+    },
+    {
+      "id": 22,
+      "value": "on top of",
+      "options": [
+        "〜の上",
+        "〜に加えて",
+        "〜の下",
+        "〜の中"
+      ],
+      "correctAnswer": "〜に加えて",
+      "explanation": "「on top of」は、〜に加えて、〜の上にという意味です。ここでは、PennyがSheldonの鳥嫌いに加えてさらに何かあるのか、という意味で使っています。例：On top of everything else, I lost my wallet. (それに加えて、財布までなくしてしまった。)"
+    },
+    {
+      "id": 23,
+      "value": "get along with my life",
+      "options": [
+        "人生を楽しむ",
+        "生活を続ける",
+        "死ぬ",
+        "旅行する"
+      ],
+      "correctAnswer": "生活を続ける",
+      "explanation": "「get along with my life」は、普段の生活を続けるという意味です。ここでは、鳥を無視して普段の生活に戻ろうとするSheldonの言葉です。例：I just want to get along with my life. (私はただ生活を続けたいだけだ。)"
+    },
+    {
+      "id": 24,
+      "value": "report",
+      "options": [
+        "隠す",
+        "報告する",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "報告する",
+      "explanation": "「report」は、報告するという意味です。ここでは、Sheldonが動物管理局に鳥を「報告する」と言っています。例：I need to report this to the police. (これを警察に報告する必要があります。)"
+    },
+    {
+      "id": 25,
+      "value": "have no doubt",
+      "options": [
+        "疑う",
+        "確信する",
+        "知らない",
+        "驚く"
+      ],
+      "correctAnswer": "確信する",
+      "explanation": "「have no doubt」は、疑いがない、確信しているという意味です。ここでは、Sheldonが動物管理局の担当者に対して、彼が何かを恐れていると確信していると言っています。例：I have no doubt that he will succeed. (彼が成功すると確信している。)"
+    },
+    {
+      "id": 26,
+      "value": "make",
+      "options": [
+        "作る",
+        "間に合う",
+        "壊す",
+        "失う"
+      ],
+      "correctAnswer": "間に合う",
+      "explanation": "この文脈では、'make' は「間に合う」「間に合わせる」という意味で使われています。特に時間的な制約がある状況で、ある時間に間に合うように行動することを指します。\n\n例：We need to hurry if we want to make the train. (電車に間に合うためには急ぐ必要があります。)"
+    },
+    {
+      "id": 27,
+      "value": "argue with that",
+      "options": [
+        "議論する",
+        "反論する",
+        "同意する",
+        "理解する"
+      ],
+      "correctAnswer": "反論する",
+      "explanation": "'Can't argue with that' は、「それには反論できない」「それはもっともだ」という意味です。相手の意見や提案が非常に合理的で、反論の余地がない場合に使われます。相手の言っていることが真実であると認めるニュアンスが含まれます。\n\n例：The evidence is overwhelming; you can't argue with that. (証拠が圧倒的で、それには反論できない。)"
+    },
+    {
+      "id": 28,
+      "value": "all along",
+      "options": [
+        "完全に",
+        "最初から",
+        "途中で",
+        "最後に"
+      ],
+      "correctAnswer": "最初から",
+      "explanation": "'All along' は、「最初からずっと」「初めから」という意味です。ある状況や感情、事実などが最初から存在していたことを強調する際に使用されます。しばしば、気づかなかった事実や隠されていた感情が後になって明らかになる状況で使われます。\n\n例：I knew it all along. (私は最初からずっと知っていた。)"
+    },
+    {
+      "id": 29,
+      "value": "aroused",
+      "options": [
+        "退屈した",
+        "興奮した",
+        "悲しんだ",
+        "怒った"
+      ],
+      "correctAnswer": "興奮した",
+      "explanation": "'Aroused' は、性的または感情的に「興奮した」「刺激された」という意味です。この文脈では、サンドラ・ブロックの映画ポスターを見ると退屈する気持ちと同時に性的な興奮を覚えるという、少しユーモラスな状況を表しています。\n\n例：The passionate kiss aroused her senses. (情熱的なキスが彼女の感覚を刺激した。)"
+    },
+    {
+      "id": 30,
+      "value": "pretend to like",
+      "options": [
+        "嫌いなふりをする",
+        "好きなふりをする",
+        "無関心なふりをする",
+        "興味があるふりをする"
+      ],
+      "correctAnswer": "好きなふりをする",
+      "explanation": "'Pretend to like' は、「～が好きであるふりをする」「～を好むと見せかける」という意味です。実際には好きではないことを、好意的に見せるために意図的に行う行為を指します。しばしば、相手に好印象を与えたい、または状況を円滑に進めたい場合に用いられます。\n\n例：I had to pretend to like his cooking, even though it was terrible. (彼の料理はひどかったけど、好きなふりをしなければならなかった。)"
+    },
+    {
+      "id": 31,
+      "value": "off the table",
+      "options": [
+        "考慮中である",
+        "問題外である",
+        "議論中である",
+        "合意済みである"
+      ],
+      "correctAnswer": "問題外である",
+      "explanation": "'Off the table' は、「検討の対象外」「議論の余地なし」という意味です。ある提案や可能性が、何らかの理由で受け入れられない、または実現不可能であるために、話し合いや考慮の対象から除外されることを示します。政治やビジネスの文脈でよく使用されます。\n\n例：Due to budget constraints, the proposal is off the table. (予算の制約により、その提案は検討の対象外です。)"
+    },
+    {
+      "id": 32,
+      "value": "bargain",
+      "options": [
+        "取引",
+        "掘り出し物",
+        "契約",
+        "不利な条件"
+      ],
+      "correctAnswer": "掘り出し物",
+      "explanation": "この文脈では、'bargain' は「有利な取引」「掘り出し物」という意味で使われています。環境問題の議論において、一見有利に見えるものが、実際にはそうでない可能性があるという皮肉を込めて使われています。\n\n例：This car is a bargain at that price. (この車はその価格なら掘り出し物だ。)"
+    },
+    {
+      "id": 33,
+      "value": "can-do attitude",
+      "options": [
+        "無気力な態度",
+        "否定的な態度",
+        "前向きな態度",
+        "批判的な態度"
+      ],
+      "correctAnswer": "前向きな態度",
+      "explanation": "'Can-do attitude' は、「何でもできるという前向きな姿勢」「積極的な態度」という意味です。困難な状況や課題に直面しても、解決策を見つけ出し、積極的に取り組む姿勢を指します。ビジネスシーンで特に高く評価される資質です。\n\n例：We need someone with a can-do attitude to lead this project. (このプロジェクトを率いるには、前向きな姿勢を持つ人が必要です。)"
+    },
+    {
+      "id": 34,
+      "value": "dive-bombing",
+      "options": [
+        "急上昇",
+        "水平飛行",
+        "急降下爆撃",
+        "旋回飛行"
+      ],
+      "correctAnswer": "急降下爆撃",
+      "explanation": "'Dive-bombing' は、「急降下爆撃」という意味ですが、ここでは比喩的に使われています。ハチドリが急降下してくる様子を、攻撃的なイメージで表現しています。通常、軍事用語として使用されますが、ここでは日常的な状況をユーモラスに表現するために用いられています。\n\n例：The hawk was dive-bombing the field, looking for prey. (その鷹は獲物を探して畑を急降下していた。)"
+    },
+    {
+      "id": 35,
+      "value": "go back and forth",
+      "options": [
+        "前進する",
+        "後退する",
+        "行ったり来たりする",
+        "停止する"
+      ],
+      "correctAnswer": "行ったり来たりする",
+      "explanation": "'Go back and forth' は、「行ったり来たりする」「意見や考えが二転三転する」という意味です。決定が定まらず、迷っている状態や、議論がなかなか進展しない状況を表します。物理的な移動だけでなく、抽象的な意味でも使用されます。\n\n例：We went back and forth on the design before finally making a decision. (最終決定をする前に、デザインについて何度も意見が二転三転した。)"
+    },
+    {
+      "id": 36,
+      "value": "blood-thirsty",
+      "options": [
+        "友好的な",
+        "平和的な",
+        "血に飢えた",
+        "臆病な"
+      ],
+      "correctAnswer": "血に飢えた",
+      "explanation": "'Blood-thirsty' は、「血に飢えた」「残忍な」という意味です。ここでは、鶏が攻撃的で危険な存在であることを強調するために、比喩的に使われています。文字通りの意味だけでなく、過度に攻撃的な態度や行動を指す場合にも用いられます。\n\n例：The dictator was known for his blood-thirsty policies. (その独裁者は残忍な政策で知られていた。)"
+    },
+    {
+      "id": 37,
+      "value": "Need I go on?",
+      "options": [
+        "続ける必要がありますか？",
+        "続けるべきですか？",
+        "続ける必要はありませんか？",
+        "続けることはできませんか？"
+      ],
+      "correctAnswer": "続ける必要がありますか？",
+      "explanation": "'Need I go on?' は、「続ける必要がありますか？」「もう十分でしょう？」という意味です。既に十分な証拠や例を挙げたため、これ以上説明する必要があるかどうかを尋ねる際に使われます。相手に理解を促すための修辞的な表現です。\n\n例：The economy is in decline, unemployment is rising, need I go on? (経済は衰退し、失業率は上昇している、もう十分でしょう？)"
+    },
+    {
+      "id": 38,
+      "value": "tough",
+      "options": [
+        "壊れやすい",
+        "弱い",
+        "丈夫な",
+        "簡単な"
+      ],
+      "correctAnswer": "丈夫な",
+      "explanation": "'Tough' は、「丈夫な」「手強い」「困難な」という意味です。ここでは、鳥が超音波攻撃に耐えるほど強い、または抵抗力があることを表しています。物理的な強さだけでなく、精神的な強さや困難な状況にも対応できる能力を指すことがあります。\n\n例：He's a tough competitor. (彼は手強い競争相手だ。)"
+    },
+    {
+      "id": 39,
+      "value": "tearing up",
+      "options": [
+        "怒る",
+        "泣く",
+        "笑う",
+        "叫ぶ"
+      ],
+      "correctAnswer": "泣く",
+      "explanation": "'Tearing up' は、「涙ぐむ」「目に涙を浮かべる」という意味です。感情が高ぶり、泣きそうになる状態を表します。感動的な映画や物語を見たときによく使われる表現です。\n\n例：She was tearing up at the wedding. (彼女は結婚式で涙ぐんでいた。)"
+    },
+    {
+      "id": 40,
+      "value": "how come",
+      "options": [
+        "いつ",
+        "どこで",
+        "どうして",
+        "何"
+      ],
+      "correctAnswer": "どうして",
+      "explanation": "'How come' は、「どうして」「なぜ」という意味です。口語的な表現で、理由や原因を尋ねる際に使われます。よりフォーマルな場面では、'why' を使う方が適切です。\n\n例：How come you're so late? (どうしてそんなに遅れたの？)"
+    },
+    {
+      "id": 41,
+      "value": "relocate",
+      "options": [
+        "戻る",
+        "移動する",
+        "滞在する",
+        "探索する"
+      ],
+      "correctAnswer": "移動する",
+      "explanation": "'Relocate' は、「移転する」「移動する」という意味です。ここでは、洪水によって村人が住む場所を移動せざるを得なくなった状況を表しています。企業や個人が新しい場所に移住したり、事業所を移転する際にも使われます。\n\n例：The company decided to relocate its headquarters to New York. (会社は本社をニューヨークに移転することを決定した。)"
+    },
+    {
+      "id": 42,
+      "value": "crispy",
+      "options": [
+        "柔らかい",
+        "しっとりした",
+        "カリカリの",
+        "ジューシーな"
+      ],
+      "correctAnswer": "カリカリの",
+      "explanation": "'Crispy' は、「カリカリの」「パリパリの」という意味です。食べ物の食感を表現する際によく使われます。特に、揚げ物や焼いたものが持つ、軽くて心地よい食感を指します。\n\n例：I love crispy bacon. (私はカリカリのベーコンが大好きだ。)"
+    },
+    {
+      "id": 43,
+      "value": "save",
+      "options": [
+        "使う",
+        "保存する",
+        "捨てる",
+        "失う"
+      ],
+      "correctAnswer": "保存する",
+      "explanation": "'Save' は、「保存する」「取っておく」という意味です。ここでは、お気に入りのフライドポテトを最後に食べるために取っておくというニュアンスで使われています。お金や資源を節約する意味でもよく使われます。\n\n例：I'm saving money for a new car. (新しい車のために貯金している。)"
+    },
+    {
+      "id": 44,
+      "value": "plenty",
+      "options": [
+        "少し",
+        "たくさん",
+        "ゼロ",
+        "十分ではない"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "'Plenty' は、「たくさん」「十分な量」という意味です。数や量が十分であることを表し、しばしば 'of' と組み合わせて使われます。必要量を満たすだけでなく、余分にある状態を示唆することもあります。\n\n例：There's plenty of food for everyone. (みんなのために十分な食べ物がある。)"
+    },
+    {
+      "id": 45,
+      "value": "trade school",
+      "options": [
+        "大学",
+        "専門学校",
+        "小学校",
+        "中学校"
+      ],
+      "correctAnswer": "専門学校",
+      "explanation": "'Trade school' は、「職業訓練学校」「専門学校」という意味です。特定の職業に必要な技術や知識を教える学校を指します。大学とは異なり、実践的なスキルを習得することに重点が置かれています。\n\n例：He went to trade school to become an electrician. (彼は電気技師になるために専門学校に通った。)"
+    },
+    {
+      "id": 46,
+      "value": "retainer",
+      "options": [
+        "借金",
+        "保持者",
+        "リテーナー、保定装置",
+        "引退者"
+      ],
+      "correctAnswer": "リテーナー、保定装置",
+      "explanation": "'Retainer' は、「保持するもの」「保定装置」という意味です。ここでは、歯列矯正後に歯並びを維持するために使用する装置を指します。また、弁護士などへの顧問料という意味もあります。\n\n例：I have to wear my retainer every night. (毎晩リテーナーを装着しなければならない。)"
+    },
+    {
+      "id": 47,
+      "value": "lair",
+      "options": [
+        "家",
+        "職場",
+        "巣窟",
+        "学校"
+      ],
+      "correctAnswer": "巣窟",
+      "explanation": "'Lair' は、「（動物の）巣」「隠れ家」という意味です。ここでは、悪者が隠れて生活する場所というニュアンスで使われています。しばしば、秘密の場所や隠された場所を指す際に用いられます。\n\n例：The villain hid in his secret lair. (悪役は秘密の隠れ家に隠れた。)"
+    },
+    {
+      "id": 48,
+      "value": "spoiler alert",
+      "options": [
+        "ネタバレ注意",
+        "警報",
+        "注意散漫",
+        "ネタ切れ"
+      ],
+      "correctAnswer": "ネタバレ注意",
+      "explanation": "'Spoiler alert' は、「ネタバレ注意」という意味です。映画やドラマ、書籍などの内容について、結末や重要な展開を明かす前に、視聴者や読者に警告する際に使われます。相手の楽しみを損なわないようにするための配慮です。\n\n例：Spoiler alert: The main character dies at the end of the movie. (ネタバレ注意：映画の最後に主人公が死にます。)"
+    },
+    {
+      "id": 49,
+      "value": "ultrasonic",
+      "options": [
+        "赤外線の",
+        "可視光線の",
+        "超音波の",
+        "電磁波の"
+      ],
+      "correctAnswer": "超音波の",
+      "explanation": "'Ultrasonic' は、「超音波の」という意味です。人間の耳には聞こえない高い周波数の音波を指します。医療、工業、科学技術など、さまざまな分野で使用されています。\n\n例：Ultrasonic cleaning is used to remove dirt from delicate objects. (超音波洗浄は、繊細な物体の汚れを取り除くために使用される。)"
+    },
+    {
+      "id": 50,
+      "value": "Masters degree",
+      "options": [
+        "高校卒業資格",
+        "学士号",
+        "修士号",
+        "博士号"
+      ],
+      "correctAnswer": "修士号",
+      "explanation": "'Master's degree' は、「修士号」という意味です。大学卒業後に、特定の分野でより高度な研究や専門知識を習得したことを証明する学位です。学士号よりも高いレベルの学歴とみなされます。\n\n例：She has a Master's degree in engineering. (彼女は工学の修士号を持っている。)"
+    },
+    {
+      "id": 51,
+      "value": "nudge",
+      "options": [
+        "避ける",
+        "軽く突く",
+        "無視する",
+        "非難する"
+      ],
+      "correctAnswer": "軽く突く",
+      "explanation": "「nudge」は、肘などでそっと突く、合図を送るという意味です。ここでは、ペニーが後ろの男性に不注意でぶつかった状況を表しています。比喩的には、人に何かを促す、そっと後押しするという意味でも使われます。\n\n例：He nudged me to get my attention. (彼は私の注意を引くために軽く突いた。)"
+    },
+    {
+      "id": 52,
+      "value": "screenplay",
+      "options": [
+        "楽譜",
+        "脚本",
+        "絵画",
+        "彫刻"
+      ],
+      "correctAnswer": "脚本",
+      "explanation": "「screenplay」は映画やテレビドラマの脚本のことです。映画制作において、物語や登場人物、セリフ、場面設定などを記述したものです。\n\n例：He is working on a screenplay for a new movie. (彼は新作映画の脚本を執筆中です。)"
+    },
+    {
+      "id": 53,
+      "value": "working title",
+      "options": [
+        "最終タイトル",
+        "仮題",
+        "正式名称",
+        "裏のタイトル"
+      ],
+      "correctAnswer": "仮題",
+      "explanation": "「working title」は、プロジェクト（映画、本、研究など）が進行中に使用される仮のタイトルを指します。最終的なタイトルが決定するまで使われるものです。\n\n例：The working title of the book was different from the published title. (その本の仮題は、出版されたタイトルとは異なっていました。)"
+    },
+    {
+      "id": 54,
+      "value": "depend on",
+      "options": [
+        "依存する",
+        "独立する",
+        "無視する",
+        "反発する"
+      ],
+      "correctAnswer": "依存する",
+      "explanation": "「depend on」は〜次第である、〜に頼るという意味です。ここでは、ケビンがペニーに対して、彼女がYelpにどれくらい時間を費やすかによって、自分が書いたものを見たことがあるかどうかが決まると言っています。\n\n例：Our success depends on hard work. (私たちの成功は努力次第です。)"
+    },
+    {
+      "id": 55,
+      "value": "ridiculous",
+      "options": [
+        "真面目",
+        "ばかげている",
+        "素晴らしい",
+        "重要"
+      ],
+      "correctAnswer": "ばかげている",
+      "explanation": "「ridiculous」は、非常識で、ばかげていて、笑いを誘うような状況や考えを指します。ここでは、シェルドンが青いカケスを恐れる状況に対して使われています。\n\n例：It's ridiculous to think that he would believe such a story. (彼がそんな話を信じると考えるのはばかげている。)"
+    },
+    {
+      "id": 56,
+      "value": "terrifying",
+      "options": [
+        "安心させる",
+        "恐ろしい",
+        "面白い",
+        "退屈な"
+      ],
+      "correctAnswer": "恐ろしい",
+      "explanation": "「terrifying」は非常に恐ろしい、ぞっとするようなという意味です。ここでは、シェルドンが鳥を恐れている様子を表しています。\n\n例：The movie was absolutely terrifying. (その映画は本当に恐ろしかった。)"
+    },
+    {
+      "id": 57,
+      "value": "am-scray",
+      "options": [
+        "こんにちは",
+        "あっちへ行け",
+        "ありがとう",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "あっちへ行け",
+      "explanation": "「scram」は俗語で「出て行け」「あっちへ行け」という意味で、それをさらに崩した言い方です。ここでは、シェルドンが鳥を追い払おうとしています。\n\n例: Scram! I don't want to see you here again. (出て行け！二度とここに来るな。)"
+    },
+    {
+      "id": 58,
+      "value": "preserve",
+      "options": [
+        "破壊する",
+        "保存する",
+        "無視する",
+        "変更する"
+      ],
+      "correctAnswer": "保存する",
+      "explanation": "「preserve」は保護する、保存するという意味です。ここでは、ダムの電力が必要だが、同時に環境を保護したいという状況を表しています。\n\n例：We need to preserve our natural resources. (私たちは天然資源を保護する必要があります。)"
+    },
+    {
+      "id": 59,
+      "value": "go out of your way",
+      "options": [
+        "邪魔をする",
+        "特別に努力する",
+        "道を譲る",
+        "普通に接する"
+      ],
+      "correctAnswer": "特別に努力する",
+      "explanation": "「go out of your way」は、人に迷惑をかけないようにする、または、人のために特別な努力をするという意味です。ここでは、ペニーがレナードをからかうために、わざとケビンと話しているとレナードが感じています。\n\n例：He went out of his way to help me with the project. (彼はプロジェクトを手伝うために特別な努力をしてくれた。)"
+    },
+    {
+      "id": 60,
+      "value": "dorky",
+      "options": [
+        "賢い",
+        "ださい",
+        "かっこいい",
+        "面白い"
+      ],
+      "correctAnswer": "ださい",
+      "explanation": "「dorky」は、ださい、間抜けな、不格好なという意味です。ここでは、ペニーがケビンのTシャツと眼鏡を指して、彼をからかうために使っています。\n\n例：He's kind of dorky, but he's really sweet. (彼はちょっとダサいけど、本当に優しい。)"
+    },
+    {
+      "id": 61,
+      "value": "cheekbones",
+      "options": [
+        "頬骨",
+        "顎",
+        "鼻",
+        "額"
+      ],
+      "correctAnswer": "頬骨",
+      "explanation": "「cheekbones」は頬骨のことです。ここでは、ペニーがレナードの容姿をからかう際に、高い頬骨があればださいTシャツを着ても逆説的でおしゃれに見えると述べています。\n\n例：She has high cheekbones and a beautiful smile. (彼女は高い頬骨と美しい笑顔を持っている。)"
+    },
+    {
+      "id": 62,
+      "value": "ironically",
+      "options": [
+        "皮肉を込めて",
+        "真剣に",
+        "偶然に",
+        "正直に"
+      ],
+      "correctAnswer": "皮肉を込めて",
+      "explanation": "「ironically」は皮肉を込めて、反語的にという意味です。ここでは、ペニーがレナードに対して、彼が高い頬骨を持っているため、ダサいTシャツを着ても皮肉っぽくおしゃれに見えると述べています。\n\n例：He said he was happy, but he said it ironically. (彼は幸せだと言ったが、それは皮肉を込めて言った。)"
+    },
+    {
+      "id": 63,
+      "value": "get cracking",
+      "options": [
+        "休憩する",
+        "急いで取り掛かる",
+        "諦める",
+        "忘れる"
+      ],
+      "correctAnswer": "急いで取り掛かる",
+      "explanation": "「get cracking」は、急いで取り掛かる、始めるという意味の口語表現です。ここでは、シェルドンがエイミーとバーナデットに対して、生物学者として鳥に対処するように促しています。\n\n例：We need to get cracking if we want to finish on time. (時間内に終わらせたいなら、急いで取り掛からなければならない。)"
+    },
+    {
+      "id": 64,
+      "value": "specialize in",
+      "options": [
+        "専門とする",
+        "嫌う",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "専門とする",
+      "explanation": "「specialize in」は〜を専門とするという意味です。ここでは、バーナデットが微生物を専門としていると述べています。\n\n例：She specializes in marine biology. (彼女は海洋生物学を専門としている。)"
+    },
+    {
+      "id": 65,
+      "value": "minor in",
+      "options": [
+        "専攻する",
+        "副専攻する",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "副専攻する",
+      "explanation": "「minor in」は大学で副専攻するという意味です。ここでは、エイミーとバーナデットが鳥を追い払うことを副専攻していないと述べています。\n\n例：I majored in English and minored in history. (私は英語を専攻し、歴史を副専攻しました。)"
+    },
+    {
+      "id": 66,
+      "value": "varmint",
+      "options": [
+        "英雄",
+        "害獣",
+        "ペット",
+        "友人"
+      ],
+      "correctAnswer": "害獣",
+      "explanation": "「varmint」は害獣、厄介者を指す言葉です。ここでは、シェルドンが鳥を指して使っています。\n\n例：The farmer set traps for the varmints that were eating his crops. (農夫は作物を食べている害獣のために罠を仕掛けた。)"
+    },
+    {
+      "id": 67,
+      "value": "critter",
+      "options": [
+        "批評家",
+        "生き物",
+        "犯罪者",
+        "傍観者"
+      ],
+      "correctAnswer": "生き物",
+      "explanation": "「critter」は生き物、動物を指す口語的な言葉です。ここでは、シェルドンがエイミーとバーナデットに対して、動物に関する知識があるはずだと述べています。\n\n例：The kids were excited to see all the critters at the zoo. (子供たちは動物園でたくさんの生き物を見て興奮していた。)"
+    },
+    {
+      "id": 68,
+      "value": "don't be a hero",
+      "options": [
+        "英雄になるな",
+        "臆病者になるな",
+        "正直者になるな",
+        "偽善者になるな"
+      ],
+      "correctAnswer": "英雄になるな",
+      "explanation": "「don't be a hero」は、危険を冒してまで英雄的な行動をするなという意味です。ここでは、バーナデットが鳥に近づこうとするのをシェルドンが制止しています。\n\n例：Don't be a hero and try to fix the electrical problem yourself. Call an electrician. (英雄ぶって自分で電気の問題を解決しようとしないで。電気技師を呼びなさい。)"
+    },
+    {
+      "id": 69,
+      "value": "sweetie",
+      "options": [
+        "悪党",
+        "愛しい人",
+        "詐欺師",
+        "敵"
+      ],
+      "correctAnswer": "愛しい人",
+      "explanation": "「sweetie」は愛しい人、可愛い人という意味で、親愛の情を込めて使われる言葉です。ここでは、バーナデットが鳥を可愛がって使っています。\n\n例：Come here, sweetie, and give me a hug. (おいで、可愛い子、抱きしめさせて。)"
+    },
+    {
+      "id": 70,
+      "value": "get past",
+      "options": [
+        "通過する",
+        "忘れる",
+        "克服する",
+        "無視する"
+      ],
+      "correctAnswer": "克服する",
+      "explanation": "「get past」は乗り越える、克服するという意味です。ここでは、エイミーがシェルドンに対して、恐怖を克服するためには鳥と触れ合う必要があると説得しています。\n\n例：It's important to get past your fears and try new things. (恐怖を乗り越えて新しいことに挑戦することが大切です。)"
+    },
+    {
+      "id": 71,
+      "value": "statistic",
+      "options": [
+        "統計",
+        "英雄",
+        "生存者",
+        "専門家"
+      ],
+      "correctAnswer": "統計",
+      "explanation": "「statistic」は統計、統計的な数値という意味です。ここでは、シェルドンが鳥によって命を落とす人々の統計に自分が入ることを恐れています。\n\n例：The statistics show that more people are using public transportation. (統計によると、公共交通機関を利用する人が増えている。)"
+    },
+    {
+      "id": 72,
+      "value": "Koreatown",
+      "options": [
+        "日本の街",
+        "韓国の街",
+        "中国の街",
+        "インドの街"
+      ],
+      "correctAnswer": "韓国の街",
+      "explanation": "「Koreatown」はコリアタウン、韓国人街を意味します。ロサンゼルスやニューヨークなど、海外の都市に多く存在します。\n\n例：We went to Koreatown for some delicious Korean BBQ. (私たちは美味しい韓国式バーベキューを食べにコリアタウンへ行った。)"
+    },
+    {
+      "id": 73,
+      "value": "ditch",
+      "options": [
+        "助ける",
+        "見捨てる",
+        "褒める",
+        "支える"
+      ],
+      "correctAnswer": "見捨てる",
+      "explanation": "「ditch」は見捨てる、放り出すという意味です。ここでは、ペニーがレナードを置いてケビンと話していたことを謝っています。\n\n例：He ditched me at the party. (彼はパーティーで私を置いていった。)"
+    },
+    {
+      "id": 74,
+      "value": "flush",
+      "options": [
+        "隠す",
+        "流す",
+        "きれいにする",
+        "修理する"
+      ],
+      "correctAnswer": "流す",
+      "explanation": "「flush」は水で洗い流すという意味です。トイレで水を流すときにも使います。ここでは、シェルドンが鳥をトイレに流そうとしています。\n\n例：Make sure to flush the toilet after you use it. (トイレを使った後は必ず水を流してください。)"
+    },
+    {
+      "id": 75,
+      "value": "undergraduate work",
+      "options": [
+        "大学院の研究",
+        "学部時代の研究",
+        "高校時代の研究",
+        "仕事での研究"
+      ],
+      "correctAnswer": "学部時代の研究",
+      "explanation": "「undergraduate work」は学部時代の研究、学士課程の研究を指します。ここでは、シェルドンがエイミーとバーナデットに対して、学部時代に害獣駆除に関する授業を受けているはずだと述べています。\n\n例：His undergraduate work focused on the effects of climate change. (彼の学部時代の研究は気候変動の影響に焦点を当てていた。)"
+    },
+    {
+      "id": 76,
+      "value": "ditch away",
+      "options": [
+        "急いで立ち去る",
+        "ゆっくりと近づく",
+        "手伝う",
+        "無視する"
+      ],
+      "correctAnswer": "急いで立ち去る",
+      "explanation": "「ditch」は、人を見捨てる、または何かを放棄するという意味です。「ditch away」は、特に急いで、または秘密裏に立ち去るニュアンスを含みます。日常会話でよく使われます。\n\n例：He ditched his friends to go to the party.（彼はパーティーに行くために友達を見捨てた。）"
+    },
+    {
+      "id": 77,
+      "value": "hang out",
+      "options": [
+        "解散する",
+        "一緒に時間を過ごす",
+        "議論する",
+        "邪魔をする"
+      ],
+      "correctAnswer": "一緒に時間を過ごす",
+      "explanation": "「hang out」は、友達や知り合いとリラックスして時間を過ごすという意味です。特に目的もなく、気軽に集まって過ごす状況を指します。\n\n例：Let's hang out at my place tonight. (今夜、私の家で一緒に過ごそう。)"
+    },
+    {
+      "id": 78,
+      "value": "totally get it",
+      "options": [
+        "全く理解できない",
+        "完全に理解できる",
+        "少し理解できる",
+        "誤解している"
+      ],
+      "correctAnswer": "完全に理解できる",
+      "explanation": "「totally get it」は、相手の言っていることや状況を完全に理解していることを強調する表現です。「totally」がつくことで、理解の度合いが強いことを示します。\n\n例：I totally get it; you need some time to think. (完全に理解できるよ。君は考える時間が必要なんだね。)"
+    },
+    {
+      "id": 79,
+      "value": "between me and...",
+      "options": [
+        "私だけが知っている",
+        "私と〜だけの秘密",
+        "誰でも知っている",
+        "公然の秘密"
+      ],
+      "correctAnswer": "私と〜だけの秘密",
+      "explanation": "「between me and...」は、「私と〜の間だけの秘密」という意味で、内緒にしておきたい情報を共有する際に使われます。親しい間柄でのみ使われることが多いです。\n\n例：This is just between you and me, but I'm planning to quit my job. (これは君と私だけの秘密だけど、私は仕事を辞めるつもりだ。)"
+    },
+    {
+      "id": 80,
+      "value": "return the favor",
+      "options": [
+        "恩を仇で返す",
+        "恩返しをする",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "恩返しをする",
+      "explanation": "「return the favor」は、受けた親切や行為に対して、同じように親切な行為や好意で応えるという意味です。感謝の気持ちを示すために使われます。\n\n例：I helped him with his homework, and he returned the favor by helping me with mine. (私は彼の宿題を手伝い、彼はお返しに私の宿題を手伝ってくれた。)"
+    },
+    {
+      "id": 81,
+      "value": "long-running role",
+      "options": [
+        "短い役",
+        "長期的な役",
+        "重要な役",
+        "目立たない役"
+      ],
+      "correctAnswer": "長期的な役",
+      "explanation": "「long-running role」は、演劇やテレビ番組などで、長期間にわたって演じられる役柄を指します。継続的な出演があることを意味します。\n\n例：She had a long-running role in a popular TV series. (彼女は人気テレビシリーズで長期的な役を演じた。)"
+    },
+    {
+      "id": 82,
+      "value": "get late",
+      "options": [
+        "早くする",
+        "遅くなる",
+        "急ぐ",
+        "中止する"
+      ],
+      "correctAnswer": "遅くなる",
+      "explanation": "「get late」は「時間が遅くなる」という意味です。日常会話で時間が遅くなったことを伝える際に使われます。\n\n例：It's getting late, we should go home. (時間が遅くなってきたから、家に帰るべきだね。)"
+    },
+    {
+      "id": 83,
+      "value": "lost her marbles",
+      "options": [
+        "正気を失う",
+        "冷静になる",
+        "成功する",
+        "失敗する"
+      ],
+      "correctAnswer": "正気を失う",
+      "explanation": "「lost her marbles」は、正気を失う、または狂ってしまうという意味の口語表現です。特に高齢者が認知症になったり、奇妙な行動をしたりする場合に使われます。\n\n例：My grandma has lost her marbles. (私のおばあちゃんは正気を失ってしまった。)"
+    },
+    {
+      "id": 84,
+      "value": "strict adherence",
+      "options": [
+        "厳格な遵守",
+        "緩い遵守",
+        "部分的な遵守",
+        "無視"
+      ],
+      "correctAnswer": "厳格な遵守",
+      "explanation": "「strict adherence」は、規則や指示などに厳格に従うことを意味します。特にフォーマルな文脈や、正確さが求められる状況で使われます。\n\n例：The company requires strict adherence to safety regulations. (会社は安全規則の厳格な遵守を求めている。)"
+    },
+    {
+      "id": 85,
+      "value": "get some sugar",
+      "options": [
+        "甘いものを食べる",
+        "愛情表現を受ける",
+        "砂糖を手に入れる",
+        "疲れる"
+      ],
+      "correctAnswer": "愛情表現を受ける",
+      "explanation": "「get some sugar」は、キスや抱擁などの愛情表現を受けるという意味のスラングです。親しい間柄で使われることが多いです。\n\n例：He just wanted to get some sugar from his girlfriend. (彼はただ彼女から愛情表現を受けたいだけだった。)"
+    },
+    {
+      "id": 86,
+      "value": "slipped on",
+      "options": [
+        "滑って転んだ",
+        "つまづいた",
+        "成功した",
+        "回避した"
+      ],
+      "correctAnswer": "滑って転んだ",
+      "explanation": "「slip on」は、何かの表面で滑って転ぶという意味です。物理的な状況だけでなく、比喩的に過ちを犯すという意味でも使われます。\n\n例：He slipped on the ice and fell. (彼は氷の上で滑って転んだ。)"
+    },
+    {
+      "id": 87,
+      "value": "tragic and hysterical",
+      "options": [
+        "悲劇的でヒステリック",
+        "面白くて楽しい",
+        "退屈でつまらない",
+        "深刻で感動的"
+      ],
+      "correctAnswer": "悲劇的でヒステリック",
+      "explanation": "「tragic and hysterical」は、悲劇的でありながら、笑いを誘うほど滑稽な状況を表します。相反する感情が同時に起こる様子を指します。\n\n例：The situation was both tragic and hysterical at the same time. (その状況は悲劇的でありながら笑いを誘うものだった。)"
+    },
+    {
+      "id": 88,
+      "value": "off of",
+      "options": [
+        "〜から離れて",
+        "〜の上に",
+        "〜の近くに",
+        "〜に依存して"
+      ],
+      "correctAnswer": "〜から離れて",
+      "explanation": "「off of」は、「〜から離れて」という意味で、場所や物を指す際に使われます。アメリカ英語では「off」だけでも同様の意味を持ちます。\n\n例：He took the book off of the shelf. (彼は棚から本を取り出した。)"
+    },
+    {
+      "id": 89,
+      "value": "in all",
+      "options": [
+        "全く",
+        "結局",
+        "部分的に",
+        "いつも"
+      ],
+      "correctAnswer": "結局",
+      "explanation": "「in all」は「結局、全体として」という意味で、全体的な評価や結果を述べる際に使われます。\n\n例：In all, it was a successful project. (結局、それは成功したプロジェクトだった。)"
+    },
+    {
+      "id": 90,
+      "value": "crossed a line",
+      "options": [
+        "境界線を越えた",
+        "成功した",
+        "失敗した",
+        "妥協した"
+      ],
+      "correctAnswer": "境界線を越えた",
+      "explanation": "「cross a line」は、言ってはいけないことや、してはいけないことをしてしまうという意味です。道徳的な境界線を越えるニュアンスがあります。\n\n例：He crossed a line when he made personal comments about her appearance. (彼は彼女の外見について個人的なコメントをしたとき、一線を越えた。)"
+    },
+    {
+      "id": 91,
+      "value": "sex-is-off-the-table",
+      "options": [
+        "性的な関係を持つ",
+        "性的な関係を持たない",
+        "性的な関係を提案する",
+        "性的な関係を避ける"
+      ],
+      "correctAnswer": "性的な関係を持たない",
+      "explanation": "「sex-is-off-the-table」は、性的な関係を持つことを話題にしない、または可能性を排除するという意味です。恋愛関係において、性的な要素を一時的にまたは永久に除外する際に使われます。\n\n例：We agreed that sex is off the table while we're working together. (私たちは一緒に仕事をしている間は性的な関係を持たないことに同意した。)"
+    },
+    {
+      "id": 92,
+      "value": "take-charge",
+      "options": [
+        "主導権を握る",
+        "指示に従う",
+        "傍観する",
+        "逃避する"
+      ],
+      "correctAnswer": "主導権を握る",
+      "explanation": "「take-charge」は、主導権を握る、積極的に行動するという意味です。リーダーシップを発揮する人を指す形容詞としても使われます。\n\n例：She's a take-charge kind of person who always gets things done. (彼女は常に物事を成し遂げる、主導権を握るタイプの人だ。)"
+    },
+    {
+      "id": 93,
+      "value": "backbone",
+      "options": [
+        "勇気",
+        "臆病",
+        "才能",
+        "弱点"
+      ],
+      "correctAnswer": "勇気",
+      "explanation": "「backbone」は、勇気、気骨、根性という意味です。困難な状況でも信念を貫く強さを指します。\n\n例：He showed real backbone in standing up to his boss. (彼は上司に立ち向かうことで、本当の勇気を示した。)"
+    },
+    {
+      "id": 94,
+      "value": "cocky",
+      "options": [
+        "謙虚な",
+        "傲慢な",
+        "内気な",
+        "礼儀正しい"
+      ],
+      "correctAnswer": "傲慢な",
+      "explanation": "「cocky」は、傲慢な、自信過剰なという意味です。良い意味ではなく、他人を見下すような態度を指します。\n\n例：He's a bit cocky, but he's also very talented. (彼は少し傲慢だが、非常に才能もある。)"
+    },
+    {
+      "id": 95,
+      "value": "swear",
+      "options": [
+        "誓う",
+        "嘘をつく",
+        "忘れる",
+        "疑う"
+      ],
+      "correctAnswer": "誓う",
+      "explanation": "「swear」は、誓う、断言するという意味です。真実を述べることや、約束を守ることを強く表明する際に使われます。\n\n例：I swear I didn't do it. (私はそれをやっていないと誓う。)"
+    },
+    {
+      "id": 96,
+      "value": "be anything you want me to be",
+      "options": [
+        "何でもない",
+        "あなたの望むものになる",
+        "今のままでいる",
+        "変わらない"
+      ],
+      "correctAnswer": "あなたの望むものになる",
+      "explanation": "「be anything you want me to be」は、相手の望むように自分を変える、または相手の期待に応えるという意味です。献身的な姿勢を示す際に使われます。\n\n例：I'll be anything you want me to be, just tell me what to do. (私はあなたの望むものになる、ただ何をすればいいか教えて。)"
+    },
+    {
+      "id": 97,
+      "value": "weird night",
+      "options": [
+        "楽しい夜",
+        "奇妙な夜",
+        "退屈な夜",
+        "普通の夜"
+      ],
+      "correctAnswer": "奇妙な夜",
+      "explanation": "「weird night」は、奇妙な、または不可解な出来事が起こった夜を指します。予想外のことが起こり、混乱したり困惑したりする状況を表します。\n\n例：I had a really weird night; nothing made sense. (私は本当に奇妙な夜を過ごした。何もかも意味不明だった。)"
+    },
+    {
+      "id": 98,
+      "value": "going to be a mommy",
+      "options": [
+        "母親になる",
+        "父親になる",
+        "子供を育てる",
+        "ペットを飼う"
+      ],
+      "correctAnswer": "母親になる",
+      "explanation": "「going to be a mommy」は、母親になる予定であることを伝える表現です。妊娠している、または将来的に母親になることを意味します。\n\n例：She's so excited because she's going to be a mommy. (彼女は母親になるのでとても興奮している。)"
+    },
+    {
+      "id": 99,
+      "value": "nest",
+      "options": [
+        "巣",
+        "家",
+        "部屋",
+        "庭"
+      ],
+      "correctAnswer": "巣",
+      "explanation": "「nest」は、鳥や昆虫などが卵を産んだり、子供を育てたりするために作る巣を意味します。比喩的に、安全な場所や快適な場所を指すこともあります。\n\n例：The birds built a nest in the tree. (鳥たちは木の中に巣を作った。)"
+    },
+    {
+      "id": 100,
+      "value": "egg",
+      "options": [
+        "卵",
+        "ひよこ",
+        "鶏",
+        "料理"
+      ],
+      "correctAnswer": "卵",
+      "explanation": "「egg」は、鳥や爬虫類、昆虫などが産む卵を意味します。新しい生命が生まれる源であり、食料としても利用されます。\n\n例：She cracked an egg into the pan. (彼女はフライパンに卵を割って入れた。)"
+    }
+  ]
+}

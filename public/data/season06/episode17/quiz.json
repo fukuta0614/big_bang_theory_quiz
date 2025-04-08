@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "spot-on",
+      "options": [
+        "正確な",
+        "間違った",
+        "あいまいな",
+        "古い"
+      ],
+      "correctAnswer": "正確な",
+      "explanation": "「spot-on」は、非常に正確である、的を射ているという意味です。主にイギリス英語で使われ、アメリカ英語では「dead-on」が同様の意味で使われます。人の意見や描写、判断などが非常に正確であるときに使われます。\n\n例：His impression of the boss was spot-on. (彼の上司の物真似はそっくりだった。)"
+    },
+    {
+      "id": 2,
+      "value": "kept down by",
+      "options": [
+        "持ち上げられる",
+        "抑圧される",
+        "励まされる",
+        "無視される"
+      ],
+      "correctAnswer": "抑圧される",
+      "explanation": "「keep down」は、文字通りには「押し下げる」という意味ですが、「kept down by」の形で使われる場合、社会的な力や構造によって抑圧されている、不当な扱いを受けているという意味合いになります。ここでは、アフリカ系アメリカ人が社会的な障壁によって抑圧されている状況を指しています。\n\n例：They were kept down by poverty and lack of education. (彼らは貧困と教育の欠如によって抑圧されていた。)"
+    },
+    {
+      "id": 3,
+      "value": "aficionado",
+      "options": [
+        "初心者",
+        "専門家",
+        "愛好家",
+        "批評家"
+      ],
+      "correctAnswer": "愛好家",
+      "explanation": "「aficionado」は、ある特定の趣味や活動、分野に対する熱心な愛好家、ファンという意味です。特にスペイン語圏の文化や活動（闘牛、フラメンコなど）に関連して使われることが多いですが、英語でも広く使われています。\n\n例：He is a wine aficionado. (彼はワイン愛好家だ。)"
+    },
+    {
+      "id": 4,
+      "value": "flag virgin",
+      "options": [
+        "旗に詳しい人",
+        "旗に興味ない人",
+        "旗に熱狂的な人",
+        "旗について全く知らない人"
+      ],
+      "correctAnswer": "旗について全く知らない人",
+      "explanation": "ここでは「virgin」は「未経験者」という意味で使われています。「flag virgin」は、旗について全く知識がない人、旗の世界をまだ知らない人を指すユーモラスな表現です。ある分野に対する知識や経験が全くないことを強調する際に使われます。\n\n例: He's a complete beginner, a ski virgin. (彼は全くの初心者で、スキーは初めてだ。)"
+    },
+    {
+      "id": 5,
+      "value": "coitus",
+      "options": [
+        "会話",
+        "食事",
+        "性交",
+        "睡眠"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交、性的な結合を意味する医学的、またはフォーマルな言葉です。日常会話ではあまり使われず、学術的な文脈や、性に関する議論で使われることがあります。\n\n例：The study examined the frequency of coitus among young adults. (その研究は、若い成人における性交の頻度を調査した。)"
+    },
+    {
+      "id": 6,
+      "value": "earshot",
+      "options": [
+        "視界",
+        "聞こえる範囲",
+        "手の届く範囲",
+        "想像できる範囲"
+      ],
+      "correctAnswer": "聞こえる範囲",
+      "explanation": "「earshot」は、声や音が聞こえる範囲、聞こえる距離という意味です。「within earshot」で「聞こえる範囲内で」、「out of earshot」で「聞こえない範囲で」というように使われます。\n\n例：Make sure the children are within earshot. (子供たちが聞こえる範囲にいるようにしてください。)"
+    },
+    {
+      "id": 7,
+      "value": "enthusiast",
+      "options": [
+        "懐疑的な人",
+        "無関心な人",
+        "熱心な人",
+        "批判的な人"
+      ],
+      "correctAnswer": "熱心な人",
+      "explanation": "「enthusiast」は、何かに熱中している人、熱心なファン、愛好家という意味です。特定の趣味や活動、分野に対して強い関心と情熱を持っている人を指します。\n\n例：He is a photography enthusiast. (彼は写真愛好家だ。)"
+    },
+    {
+      "id": 8,
+      "value": "robotic",
+      "options": [
+        "人間的な",
+        "機械的な",
+        "感情的な",
+        "創造的な"
+      ],
+      "correctAnswer": "機械的な",
+      "explanation": "「robotic」は、ロボットのような、機械的なという意味です。人の行動や話し方、動きなどが感情や人間味がなく、まるでロボットのように見えるときに使われます。ここでは、シェルドンの話し方が不自然で、感情がこもっていないことを指しています。\n\n例：His voice was robotic and devoid of emotion. (彼の声は機械的で、感情がこもっていなかった。)"
+    },
+    {
+      "id": 9,
+      "value": "hunched",
+      "options": [
+        "まっすぐ",
+        "丸まった",
+        "リラックスした",
+        "誇らしげな"
+      ],
+      "correctAnswer": "丸まった",
+      "explanation": "「hunched」は、体を丸める、猫背になるという意味です。姿勢が悪く、肩をすくめて前かがみになっている状態を指します。不安や自信のなさ、または寒さなどを表すことがあります。\n\n例：He was hunched over his desk, working late into the night. (彼は机に身をかがめて、夜遅くまで仕事をしていた。)"
+    },
+    {
+      "id": 10,
+      "value": "rigid",
+      "options": [
+        "柔軟な",
+        "硬直した",
+        "流動的な",
+        "適応性のある"
+      ],
+      "correctAnswer": "硬直した",
+      "explanation": "「rigid」は、硬い、曲がらない、融通が利かないという意味です。物理的な硬さだけでなく、規則や考え方などが柔軟性がない、厳格であることを指す場合もあります。\n\n例：The rules were rigid and left no room for exceptions. (規則は厳格で、例外を許さなかった。)"
+    },
+    {
+      "id": 11,
+      "value": "state seal",
+      "options": [
+        "州の鳥",
+        "州の旗",
+        "州の印章",
+        "州の花"
+      ],
+      "correctAnswer": "州の印章",
+      "explanation": "「state seal」は、州の公式な印章のことです。公文書や公式な場面で使用され、州の象徴として機能します。各州によってデザインが異なり、歴史や文化的な背景が反映されています。\n\n例：The state seal is displayed on all official documents. (州の印章はすべての公文書に表示されている。)"
+    },
+    {
+      "id": 12,
+      "value": "a field of blue",
+      "options": [
+        "青い空",
+        "青い野原",
+        "青一色の地",
+        "青い絵"
+      ],
+      "correctAnswer": "青一色の地",
+      "explanation": "「a field of blue」は、旗のデザインなどで使われる表現で、青一色の背景、地色という意味です。旗の色の構成を説明する際に用いられます。\n\n例: The flag consists of a field of green with a white cross. (その旗は、白い十字が入った緑一色の地で構成されている。)"
+    },
+    {
+      "id": 13,
+      "value": "geez",
+      "options": [
+        "こんにちは",
+        "あらまあ",
+        "ありがとう",
+        "さようなら"
+      ],
+      "correctAnswer": "あらまあ",
+      "explanation": "「geez」は、驚き、軽蔑、いらだちなどを表す感嘆詞です。「ジー」と発音します。比較的穏やかな表現で、フォーマルな場面では不適切ですが、日常会話でよく使われます。\n\n例：Geez, that was close! (あらまあ、危なかった！)"
+    },
+    {
+      "id": 14,
+      "value": "Don't look under that rock.",
+      "options": [
+        "秘密にしよう",
+        "心配しないで",
+        "過去を詮索しないで",
+        "頑張って"
+      ],
+      "correctAnswer": "過去を詮索しないで",
+      "explanation": "「Don't look under that rock.」は、文字通りには「その石の下を見るな」という意味ですが、ここでは比喩的に「触れない方が良い過去や秘密を詮索するな」という意味合いで使われています。知りたくないことや、知るべきではないことには深入りしない方が良いというニュアンスが含まれています。\n\n例：I wouldn't ask him about his previous job, don't look under that rock.(彼の前の仕事については聞かない方がいいよ。詮索しない方がいい。)"
+    },
+    {
+      "id": 15,
+      "value": "unkempt",
+      "options": [
+        "清潔な",
+        "だらしない",
+        "きちんとした",
+        "おしゃれな"
+      ],
+      "correctAnswer": "だらしない",
+      "explanation": "「unkempt」は、身なりがだらしない、手入れが行き届いていないという意味です。髪型や服装など、外見が整っていない状態を指します。\n\n例：He looked tired and unkempt. (彼は疲れていて、身なりもだらしなかった。)"
+    },
+    {
+      "id": 16,
+      "value": "ripe",
+      "options": [
+        "新鮮な",
+        "熟した",
+        "腐った",
+        "未熟な"
+      ],
+      "correctAnswer": "腐った",
+      "explanation": "「ripe」は、ここでは比喩的に「ひどく不快な臭いがする」という意味で使われています。文字通りの「熟した」という意味から転じて、不快な臭いを放つほど状態が悪化していることを指します。Rajの部屋の臭いがひどいことを表しています。\n\n例文:The garbage was ripe and needed to be taken out.（ゴミは腐っていて、外に出す必要があった。）"
+    },
+    {
+      "id": 17,
+      "value": "feel it in your eyes",
+      "options": [
+        "目が疲れる",
+        "目が潤む",
+        "目に染みる",
+        "目が冴える"
+      ],
+      "correctAnswer": "目に染みる",
+      "explanation": "「feel it in your eyes」は、ここでは比喩的に「刺激臭が目に染みる」という意味で使われています。空気中の刺激物や強い臭いが目に刺激を与え、不快感や痛みを感じる状態を指します。Rajの部屋の空気が非常に悪いことを表しています。\n\n例文:The smoke was so thick, you could feel it in your eyes. (煙が非常に濃く、目に染みるほどだった。)"
+    },
+    {
+      "id": 18,
+      "value": "humiliated",
+      "options": [
+        "満足した",
+        "誇りに思った",
+        "屈辱を受けた",
+        "安心した"
+      ],
+      "correctAnswer": "屈辱を受けた",
+      "explanation": "「humiliated」は、恥をかかされた、屈辱的な思いをさせられたという意味です。公の場で恥をかかされたり、自尊心を傷つけられたりするような状況で使われます。\n\n例：She felt humiliated when he criticized her in front of everyone. (彼がみんなの前で彼女を批判したとき、彼女は屈辱を感じた。)"
+    },
+    {
+      "id": 19,
+      "value": "chop her up",
+      "options": [
+        "食事に誘う",
+        "褒め称える",
+        "切り刻む",
+        "助ける"
+      ],
+      "correctAnswer": "切り刻む",
+      "explanation": "「chop up」は、細かく切り刻むという意味です。ここでは、ジョークとして、女性を殺してバラバラにするという、ショッキングな状況を想定して使われています。通常は食べ物を細かく切る際に使用します。\n\n例：Chop up the vegetables for the salad. (サラダのために野菜を細かく切ってください。)"
+    },
+    {
+      "id": 20,
+      "value": "snuck out",
+      "options": [
+        "堂々と出て行った",
+        "こっそり抜け出した",
+        "急いで逃げた",
+        "喜んで参加した"
+      ],
+      "correctAnswer": "こっそり抜け出した",
+      "explanation": "「sneak out」は、こっそり抜け出す、ひそかに逃げるという意味です。誰にも気づかれないように、静かに、または秘密裏に場所を離れることを指します。ここでは、Rajとのデートから逃げるために、女性がこっそりとトイレの窓から逃げ出したことを表しています。\n\n例：He snuck out of the party without saying goodbye. (彼は誰にもさよならを言わずに、パーティーからこっそり抜け出した。)"
+    },
+    {
+      "id": 21,
+      "value": "motivated",
+      "options": [
+        "落胆した",
+        "やる気のある",
+        "無関心な",
+        "疲れた"
+      ],
+      "correctAnswer": "やる気のある",
+      "explanation": "「motivated」は、動機付けられた、やる気のあるという意味です。目標達成のために強い意欲を持っている状態を指します。ここでは、Rajから逃げるために、女性が非常に強い動機を持っていたことを表しています。\n\n例：She was highly motivated to succeed. (彼女は成功するために非常に強い意欲を持っていた。)"
+    },
+    {
+      "id": 22,
+      "value": "have a good feeling about",
+      "options": [
+        "嫌な予感がする",
+        "良い予感がする",
+        "何も感じない",
+        "悪いことが起こりそう"
+      ],
+      "correctAnswer": "良い予感がする",
+      "explanation": "\"have a good feeling about\"は、「〜について良い予感がする」という意味です。将来の出来事や状況に対して楽観的な期待や直感を持っていることを表します。必ずしも根拠があるわけではなく、感情的な確信に基づいています。\n\n例文: I have a good feeling about this project. （このプロジェクトはうまくいく気がする。）"
+    },
+    {
+      "id": 23,
+      "value": "go where the wind takes you",
+      "options": [
+        "風に逆らう",
+        "成り行きに任せる",
+        "計画的に進む",
+        "安全な道を選ぶ"
+      ],
+      "correctAnswer": "成り行きに任せる",
+      "explanation": "\"go where the wind takes you\"は、「風の吹くままに進む」、つまり「成り行きに任せる」という意味です。人生や状況の流れに身を任せ、計画や予測に固執せずに柔軟に対応する姿勢を表します。\n\n例文: Sometimes it's best to just go where the wind takes you and see what happens. （時には成り行きに任せて、何が起こるか見てみるのが一番良い。）"
+    },
+    {
+      "id": 24,
+      "value": "Coming late",
+      "options": [
+        "遅れてくる",
+        "早く来る",
+        "予定通りに来る",
+        "来ない"
+      ],
+      "correctAnswer": "遅れてくる",
+      "explanation": "「Coming late」は、文字通りには「遅れてくる」という意味ですが、ここでは「（エピソードの配信が）遅れている」という意味合いで使われています。定期的に提供されるべきものが、予定よりも遅れて提供される状況を表します。\n\n例：Sorry for coming late. (遅れてごめんなさい。)"
+    },
+    {
+      "id": 25,
+      "value": "go away!",
+      "options": [
+        "ここに来て！",
+        "行って！",
+        "ここにいて！",
+        "助けて！"
+      ],
+      "correctAnswer": "行って！",
+      "explanation": "「Go away!」は、「あっちへ行け！」、「立ち去れ！」という意味の強い拒絶の言葉です。相手に自分の場所から離れてほしいときや、関わりたくないときに使います。怒りや不快感を表す際に用いられます。\n\n例：I'm busy, go away! (忙しいんだ、あっちへ行ってくれ！)"
+    },
+    {
+      "id": 26,
+      "value": "shake it off",
+      "options": [
+        "無視する",
+        "乗り越える",
+        "明らかにする",
+        "悪化させる"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「shake it off」とは、困難や悲しみ、落胆などを乗り越えて、気持ちを切り替えるという意味です。テイラー・スウィフトの歌のタイトルとしても有名で、日常会話でもよく使われます。\n\n例：He needs to shake off his disappointment and focus on the next game. (彼は失望を乗り越えて、次の試合に集中する必要がある。)"
+    },
+    {
+      "id": 27,
+      "value": "overnight delivery",
+      "options": [
+        "即日配達",
+        "翌日配達",
+        "時間指定配達",
+        "無料配達"
+      ],
+      "correctAnswer": "翌日配達",
+      "explanation": "「overnight delivery」とは、注文した商品が翌日に配達されるサービスのことです。急ぎで商品が必要な場合に便利です。\n\n例：I need this package urgently, so I'll pay extra for overnight delivery. (この荷物を緊急で必要なので、翌日配達の追加料金を払います。)"
+    },
+    {
+      "id": 28,
+      "value": "I'll be",
+      "options": [
+        "私がします",
+        "驚いた",
+        "参加します",
+        "問題ありません"
+      ],
+      "correctAnswer": "驚いた",
+      "explanation": "「Well, I’ll be…」は、驚きや信じられない気持ちを表す際に使われる口語的な表現です。「Well, I’ll be damned」の省略形です。\n\n例：Well, I’ll be! I never thought I’d see you here. (まあ、驚いた！ここであなたに会うとは思わなかった。)"
+    },
+    {
+      "id": 29,
+      "value": "surf and turf",
+      "options": [
+        "海の幸と山の幸",
+        "ステーキとシーフード",
+        "野菜炒め",
+        "デザート"
+      ],
+      "correctAnswer": "ステーキとシーフード",
+      "explanation": "「surf and turf」とは、ステーキなどの陸の料理と、ロブスターやエビなどの海の料理を組み合わせた料理のことです。豪華な食事の代表的なメニューです。\n\n例：For our anniversary, we went to a fancy restaurant and ordered surf and turf. (記念日に、私たちは高級レストランに行って、サーフアンドターフを注文しました。)"
+    },
+    {
+      "id": 30,
+      "value": "corn on the cob",
+      "options": [
+        "トウモロコシの芯",
+        "ポップコーン",
+        "コーンスープ",
+        "焼きトウモロコシ"
+      ],
+      "correctAnswer": "焼きトウモロコシ",
+      "explanation": "「corn on the cob」とは、皮をむいたトウモロコシをそのまま焼いたり茹でたりした料理のことです。バターや塩を塗って食べるのが一般的です。\n\n例：We had a barbecue last weekend, and everyone loved the corn on the cob. (先週末にバーベキューをしたのですが、みんな焼きトウモロコシが大好きでした。)"
+    },
+    {
+      "id": 31,
+      "value": "waste your time",
+      "options": [
+        "時間を有効活用する",
+        "時間を無駄にする",
+        "時間を稼ぐ",
+        "時間通りに来る"
+      ],
+      "correctAnswer": "時間を無駄にする",
+      "explanation": "「waste your time」とは、時間や労力を無駄に費やすという意味です。価値のないことや無駄なことに時間を使うことを指します。\n\n例：Don't waste your time arguing with him; he'll never change his mind. (彼と議論しても時間の無駄です。彼は決して考えを変えないでしょう。)"
+    },
+    {
+      "id": 32,
+      "value": "have the decency to",
+      "options": [
+        "〜する礼儀をわきまえている",
+        "〜する義務がある",
+        "〜する許可を得ている",
+        "〜する機会がある"
+      ],
+      "correctAnswer": "〜する礼儀をわきまえている",
+      "explanation": "「have the decency to」とは、〜するだけの礼儀や良識があるという意味です。人が当然持つべき行動や態度を期待する際に使われます。\n\n例：He didn't even have the decency to apologize for his mistake. (彼は自分の間違いについて謝罪する礼儀さえわきまえていなかった。)"
+    },
+    {
+      "id": 33,
+      "value": "cut down to",
+      "options": [
+        "削減する",
+        "増やす",
+        "依存する",
+        "移行する"
+      ],
+      "correctAnswer": "削減する",
+      "explanation": "「cut down to」とは、量を減らす、削減するという意味です。具体的な量や回数を示す際に用いられます。\n\n例：We need to cut down our expenses to save money. (お金を貯めるために、支出を削減する必要があります。)"
+    },
+    {
+      "id": 34,
+      "value": "mellow",
+      "options": [
+        "興奮している",
+        "穏やかな",
+        "厳しい",
+        "騒々しい"
+      ],
+      "correctAnswer": "穏やかな",
+      "explanation": "「mellow」とは、穏やかで落ち着いている状態を表す形容詞です。人や雰囲気、音楽などに対して使われます。\n\n例：The music was mellow and relaxing. (その音楽は穏やかでリラックスできた。)"
+    },
+    {
+      "id": 35,
+      "value": "tips",
+      "options": [
+        "ヒント",
+        "脅迫",
+        "秘密",
+        "噂"
+      ],
+      "correctAnswer": "ヒント",
+      "explanation": "「tip」とは、助言、ヒント、秘訣という意味です。役立つ情報やアドバイスを指します。\n\n例：She gave me some helpful tips on how to improve my public speaking skills. (彼女は私のスピーチスキルを向上させるための役立つヒントをいくつか教えてくれた。)"
+    },
+    {
+      "id": 36,
+      "value": "deal with it",
+      "options": [
+        "我慢する",
+        "合意する",
+        "取引する",
+        "拒否する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「deal with it」とは、受け入れがたい状況や問題に対して、それを受け入れて対処するという意味です。諦めや覚悟を示すニュアンスがあります。\n\n例：I know you're disappointed, but you'll just have to deal with it. (あなたが失望しているのはわかっていますが、あなたはそれを受け入れるしかありません。)"
+    },
+    {
+      "id": 37,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "何が起きたの？",
+        "元気ですか？",
+        "どちら様ですか？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、カジュアルな挨拶や、相手に何かあったのか尋ねる際に使われる表現です。\n\n例：Hey, John, what's up? You seem a little down. (やあ、ジョン、どうしたの？少し落ち込んでいるように見えるね。)"
+    },
+    {
+      "id": 38,
+      "value": "helping me out",
+      "options": [
+        "助けてくれる",
+        "邪魔する",
+        "手伝わない",
+        "見捨てる"
+      ],
+      "correctAnswer": "助けてくれる",
+      "explanation": "「help out」とは、手伝う、助けるという意味です。誰かが困っているときに協力することを指します。\n\n例：Could you help me out with these boxes? (これらの箱を運ぶのを手伝ってくれませんか？)"
+    },
+    {
+      "id": 39,
+      "value": "sweetie",
+      "options": [
+        "辛い",
+        "恋人",
+        "甘い人",
+        "可愛い人"
+      ],
+      "correctAnswer": "可愛い人",
+      "explanation": "「sweetie」とは、親愛の情を込めて相手を呼ぶ際に使われる言葉です。恋人や親しい友人、子供などに対して使われます。\n\n例：Don't worry, sweetie, everything will be alright. (心配しないで、可愛い人、すべてうまくいくよ。)"
+    },
+    {
+      "id": 40,
+      "value": "putting on a play",
+      "options": [
+        "劇を上演する",
+        "いたずらをする",
+        "ふりをする",
+        "ゲームをする"
+      ],
+      "correctAnswer": "劇を上演する",
+      "explanation": "「put on a play」とは、劇を上演する、公演するという意味です。舞台芸術に関する表現です。\n\n例：Our school is putting on a play next month. (私たちの学校は来月、劇を上演します。)"
+    },
+    {
+      "id": 41,
+      "value": "guest list",
+      "options": [
+        "招待客リスト",
+        "買い物リスト",
+        "秘密のリスト",
+        "キャンセル待ちリスト"
+      ],
+      "correctAnswer": "招待客リスト",
+      "explanation": "「guest list」とは、招待客の名前が記載されたリストのことです。イベントやパーティーなどで使用されます。\n\n例：Make sure your name is on the guest list before you arrive. (到着する前に、あなたの名前が招待客リストに載っているか確認してください。)"
+    },
+    {
+      "id": 42,
+      "value": "rope into",
+      "options": [
+        "巻き込む",
+        "解放する",
+        "招待する",
+        "拒否する"
+      ],
+      "correctAnswer": "巻き込む",
+      "explanation": "「rope into」とは、説得して何かをさせる、巻き込むという意味です。必ずしも本人が乗り気でないことをさせるニュアンスがあります。\n\n例：I got roped into helping with the school fundraiser. (学校の資金集めの手伝いに巻き込まれた。)"
+    },
+    {
+      "id": 43,
+      "value": "So much for",
+      "options": [
+        "〜はこれまでだ",
+        "〜に感謝する",
+        "〜に期待する",
+        "〜を非難する"
+      ],
+      "correctAnswer": "〜はこれまでだ",
+      "explanation": "「So much for」とは、期待していたことがうまくいかなかったり、役に立たなかったりしたときに使う表現です。「〜はこれまでか」「〜は当てにならない」といったニュアンスです。\n\n例：So much for a relaxing weekend. (リラックスできる週末はこれまでか。)"
+    },
+    {
+      "id": 44,
+      "value": "good sense",
+      "options": [
+        "良識",
+        "優れた感覚",
+        "嗅覚",
+        "味覚"
+      ],
+      "correctAnswer": "良識",
+      "explanation": "「good sense」とは、良識、分別、判断力という意味です。賢明な判断や行動ができる能力を指します。\n\n例：It's common sense to check the weather forecast before going hiking. (ハイキングに行く前に天気予報を確認するのは常識です。)"
+    },
+    {
+      "id": 45,
+      "value": "drown",
+      "options": [
+        "溺死させる",
+        "救助する",
+        "泳ぐ",
+        "乾燥させる"
+      ],
+      "correctAnswer": "溺死させる",
+      "explanation": "「drown」とは、溺れさせる、水死させるという意味です。比喩的に、感情や問題などに押しつぶされるという意味でも使われます。\n\n例：He drowned his sorrows in alcohol. (彼は酒で悲しみを紛らわせた。)"
+    },
+    {
+      "id": 46,
+      "value": "right thing to do",
+      "options": [
+        "すべきこと",
+        "間違ったこと",
+        "秘密にすること",
+        "無視すること"
+      ],
+      "correctAnswer": "すべきこと",
+      "explanation": "「the right thing to do」とは、道徳的に正しい行動、すべきことという意味です。倫理的な判断や行動を指します。\n\n例：I knew it was the right thing to do, even though it was difficult. (それが難しいことでも、すべきことだとわかっていた。)"
+    },
+    {
+      "id": 47,
+      "value": "reciprocate",
+      "options": [
+        "見返りを与える",
+        "無視する",
+        "独占する",
+        "奪う"
+      ],
+      "correctAnswer": "見返りを与える",
+      "explanation": "「reciprocate」とは、相手の行為に対して同様の行為で応える、返礼するという意味です。感謝や好意を示す際に用いられます。\n\n例：They appreciated her kindness but were not ready to reciprocate the feeling. (彼らは彼女の親切に感謝したが、その気持ちに応える準備ができていなかった。)"
+    },
+    {
+      "id": 48,
+      "value": "addiction",
+      "options": [
+        "中毒",
+        "嫌悪感",
+        "興味",
+        "才能"
+      ],
+      "correctAnswer": "中毒",
+      "explanation": "addiction は、ある物質や行動に対して、やめたくてもやめられない状態を指します。物質依存や行動依存などがあります。\n\n例: He struggled with an addiction to gambling. (彼はギャンブル中毒に苦しんだ。)"
+    },
+    {
+      "id": 49,
+      "value": "flatworms",
+      "options": [
+        "回虫",
+        "扁形動物",
+        "線虫",
+        "環形動物"
+      ],
+      "correctAnswer": "扁形動物",
+      "explanation": "flatworm は、生物学で扁形動物を指します。特徴として、平たい体を持つ無脊椎動物です。\n\n例: Flatworms are known for their simple body structure. (扁形動物は、単純な体の構造で知られています。)"
+    },
+    {
+      "id": 50,
+      "value": "subtle",
+      "options": [
+        "微妙な",
+        "明白な",
+        "粗雑な",
+        "大胆な"
+      ],
+      "correctAnswer": "微妙な",
+      "explanation": "subtle は、捉えにくい、微妙な、繊細なという意味です。はっきりとは表れていないニュアンスを表します。\n\n例: The painting has subtle differences in color. (その絵には色の微妙な違いがある。)"
+    },
+    {
+      "id": 51,
+      "value": "dopey",
+      "options": [
+        "賢い",
+        "退屈な",
+        "重要な",
+        "複雑な"
+      ],
+      "correctAnswer": "退屈な",
+      "explanation": "「dopey」は、愚かな、間抜けな、または退屈なという意味を持つ形容詞です。この文脈では、Pennyの演劇をSheldonが軽んじていることを示しています。"
+    },
+    {
+      "id": 52,
+      "value": "obligated",
+      "options": [
+        "強制された",
+        "自由な",
+        "許可された",
+        "勧められた"
+      ],
+      "correctAnswer": "強制された",
+      "explanation": "「obligated」は、義務を負わされた、強制されたという意味です。ここでは、Amyに指摘されて、Pennyに恩返しをする義務を感じているSheldonの状態を表しています。"
+    },
+    {
+      "id": 53,
+      "value": "Dear Lord",
+      "options": [
+        "神に感謝",
+        "なんてことだ",
+        "素晴らしい",
+        "その通り"
+      ],
+      "correctAnswer": "なんてことだ",
+      "explanation": "「Dear Lord」は、驚き、不満、または強調を表す感嘆表現です。ここでは、Sheldonが新たなルールに直面して困惑している様子を表しています。"
+    },
+    {
+      "id": 54,
+      "value": "itching to",
+      "options": [
+        "嫌がって",
+        "躊躇して",
+        "熱望して",
+        "諦めて"
+      ],
+      "correctAnswer": "熱望して",
+      "explanation": "「itching to」は、～したくてたまらない、～することを熱望しているという意味のイディオムです。ここでは、SheldonがRajの代わりを見つけたくてたまらない気持ちを表しています。"
+    },
+    {
+      "id": 55,
+      "value": "pull that trigger",
+      "options": [
+        "決断を避ける",
+        "決断を実行する",
+        "計画を立てる",
+        "危険を冒す"
+      ],
+      "correctAnswer": "決断を実行する",
+      "explanation": "「pull the trigger」は、決断を実行に移す、行動を開始するという意味のイディオムです。ここでは、Rajの代わりの人を探すことを実行に移すことを指しています。"
+    },
+    {
+      "id": 56,
+      "value": "funnin' ya",
+      "options": [
+        "本気で言っている",
+        "冗談を言っている",
+        "怒っている",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「funnin' ya」は、「funning you」の略で、冗談を言っている、からかっているという意味です。ここでは、SheldonがRajにアドバイスをするのは冗談だと言っています。"
+    },
+    {
+      "id": 57,
+      "value": "blew off",
+      "options": [
+        "無視した",
+        "応援した",
+        "尊敬した",
+        "愛した"
+      ],
+      "correctAnswer": "無視した",
+      "explanation": "「blow off」は、無視する、すっぽかすという意味の句動詞です。ここでは、Rajと一夜を共にした女性が、その後彼を無視したことを指しています。"
+    },
+    {
+      "id": 58,
+      "value": "devastated",
+      "options": [
+        "喜んだ",
+        "満足した",
+        "落胆した",
+        "興奮した"
+      ],
+      "correctAnswer": "落胆した",
+      "explanation": "「devastated」は、打ちのめされた、大きなショックを受けたという意味です。ここでは、女性に無視されたRajが深く傷ついたことを表しています。"
+    },
+    {
+      "id": 59,
+      "value": "running out on",
+      "options": [
+        "出会う",
+        "支える",
+        "見捨てる",
+        "理解する"
+      ],
+      "correctAnswer": "見捨てる",
+      "explanation": "「run out on」は、見捨てる、逃げるという意味の句動詞です。ここでは、もし女性が再びRajを見捨てるようなことがあれば、関係が終わるだろうとHowardが警告しています。"
+    },
+    {
+      "id": 60,
+      "value": "pants party",
+      "options": [
+        "真面目な集まり",
+        "派手なパーティー",
+        "内緒の集まり",
+        "静かな食事会"
+      ],
+      "correctAnswer": "派手なパーティー",
+      "explanation": "「pants party」は、くだけた言い方で、楽しいパーティーや騒ぎを意味します。文字通りの意味ではなく、盛り上がることを提案する際に使われます。"
+    },
+    {
+      "id": 61,
+      "value": "have something to do with",
+      "options": [
+        "関係がある",
+        "関係がない",
+        "興味がある",
+        "興味がない"
+      ],
+      "correctAnswer": "関係がある",
+      "explanation": "「have something to do with」は、～と関係があるという意味のイディオムです。否定形で使われると、～と全く関係がないという意味になります。ここでは、Rajがその女性と全く関係を持ちたくないと言っています。"
+    },
+    {
+      "id": 62,
+      "value": "renounce",
+      "options": [
+        "受け入れる",
+        "放棄する",
+        "求める",
+        "楽しむ"
+      ],
+      "correctAnswer": "放棄する",
+      "explanation": "「renounce」は、放棄する、捨てるという意味の動詞です。ここでは、Rajが世俗的な快楽を全て捨てる（僧侶になる）と言っています。"
+    },
+    {
+      "id": 63,
+      "value": "worldly pleasures",
+      "options": [
+        "精神的な喜び",
+        "世俗的な快楽",
+        "知的な満足",
+        "肉体的な苦痛"
+      ],
+      "correctAnswer": "世俗的な快楽",
+      "explanation": "「worldly pleasures」は、世俗的な快楽、現世の楽しみという意味です。物質的なものや、肉体的な快楽などを指します。ここでは、Rajがそれらを放棄すると言っています。"
+    },
+    {
+      "id": 64,
+      "value": "it's her loss",
+      "options": [
+        "彼女の勝利だ",
+        "彼女の損失だ",
+        "彼らの責任だ",
+        "彼らの勝利だ"
+      ],
+      "correctAnswer": "彼女の損失だ",
+      "explanation": "「it's her loss」は、彼女が損をしている、彼女にとって損失だという意味の表現です。相手を慰める際に使われます。"
+    },
+    {
+      "id": 65,
+      "value": "see you around",
+      "options": [
+        "永遠の別れ",
+        "またすぐに会おう",
+        "二度と会わない",
+        "連絡を取り合おう"
+      ],
+      "correctAnswer": "またすぐに会おう",
+      "explanation": "「see you around」は、またね、また会おうという意味のカジュアルな別れの挨拶です。具体的な再会の予定がない場合に使われます。"
+    },
+    {
+      "id": 66,
+      "value": "temptation",
+      "options": [
+        "誘惑",
+        "決意",
+        "義務",
+        "安心"
+      ],
+      "correctAnswer": "誘惑",
+      "explanation": "「temptation」は、誘惑という意味の名詞です。ここでは、Rajが女性の電話番号を持つことが誘惑になると考えています。"
+    },
+    {
+      "id": 67,
+      "value": "stray from",
+      "options": [
+        "集中する",
+        "熱中する",
+        "それる",
+        "近づく"
+      ],
+      "correctAnswer": "それる",
+      "explanation": "「stray from」は、～からそれる、逸脱するという意味の句動詞です。ここでは、Rajが宇宙の研究という本来の目的からそれることを恐れています。"
+    },
+    {
+      "id": 68,
+      "value": "true purpose",
+      "options": [
+        "偽りの目的",
+        "真の目的",
+        "秘密の計画",
+        "個人的な趣味"
+      ],
+      "correctAnswer": "真の目的",
+      "explanation": "「true purpose」は、真の目的、本来の目的という意味です。ここでは、Rajの人生における宇宙の研究という目的を指しています。"
+    },
+    {
+      "id": 69,
+      "value": "crazy",
+      "options": [
+        "普通の",
+        "ばかげた",
+        "退屈な",
+        "簡単な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "ここでは、Sheldonが多くのルールを「crazy」と表現しています。このcrazyは「正気でない」「ばかげた」という意味です。"
+    },
+    {
+      "id": 70,
+      "value": "better be",
+      "options": [
+        "〜のはずがない",
+        "〜であるはずだ",
+        "〜かもしれない",
+        "〜でなくても良い"
+      ],
+      "correctAnswer": "〜であるはずだ",
+      "explanation": "「better be」は「〜であるはずだ」「〜だったら良い」という意味です。ここでは、AmyがSheldonに向かって、投げているものがTootsie Rollsであることを期待していることを表しています。"
+    },
+    {
+      "id": 71,
+      "value": "pointed out",
+      "options": [
+        "隠した",
+        "指摘した",
+        "無視した",
+        "同意した"
+      ],
+      "correctAnswer": "指摘した",
+      "explanation": "「point out」は「指摘する」「注意を促す」という意味です。ここでは、AmyがSheldonに、Pennyが親切にしてくれたので、Sheldonも何か親切にする義務があることを指摘したことを表しています。"
+    },
+    {
+      "id": 72,
+      "value": "no longer",
+      "options": [
+        "依然として",
+        "もはや〜ない",
+        "常に",
+        "絶対に"
+      ],
+      "correctAnswer": "もはや〜ない",
+      "explanation": "「no longer」は「もはや〜ない」という意味です。ここでは、Rajがもはや彼らの社会的なグループの一員ではないのか、Sheldonが疑問に思っていることを表しています。"
+    },
+    {
+      "id": 73,
+      "value": "upset",
+      "options": [
+        "満足している",
+        "動揺している",
+        "喜んでいる",
+        "冷静である"
+      ],
+      "correctAnswer": "動揺している",
+      "explanation": "「upset」は「動揺している」「怒っている」という意味です。ここでは、Rajが女性とうまくいかないことで動揺していることを表しています。"
+    },
+    {
+      "id": 74,
+      "value": "proud",
+      "options": [
+        "謙虚な",
+        "誇り高い",
+        "恥ずかしい",
+        "悲しい"
+      ],
+      "correctAnswer": "誇り高い",
+      "explanation": "「proud」は「誇り高い」「自尊心のある」という意味です。ここでは、HowardがRajを「proud, passionate man」と表現しています。"
+    },
+    {
+      "id": 75,
+      "value": "make it easy",
+      "options": [
+        "簡単にする",
+        "難しくする",
+        "不可能にする",
+        "どうでもよくする"
+      ],
+      "correctAnswer": "簡単にする",
+      "explanation": "「make it easy」は「簡単にする」「容易にする」という意味です。否定形で使われると、「簡単ではない」「容易ではない」という意味になります。ここでは、HowardがRajの状況が彼女の損失だと言いにくい状況であることを表しています。"
+    },
+    {
+      "id": 76,
+      "value": "associated with",
+      "options": [
+        "関係がある",
+        "反対している",
+        "無関心である",
+        "重要視している"
+      ],
+      "correctAnswer": "関係がある",
+      "explanation": "「be associated with」は、～と関係がある、～と連携している、～と提携しているという意味です。組織、プロジェクト、人物など、様々な対象との関連を示す際に用いられます。\n\n例：She is associated with a charity organization. (彼女は慈善団体と関係がある。)"
+    },
+    {
+      "id": 77,
+      "value": "bureaucratic nonsense",
+      "options": [
+        "創造的な試み",
+        "官僚的な無意味さ",
+        "合理的な判断",
+        "革新的なアイデア"
+      ],
+      "correctAnswer": "官僚的な無意味さ",
+      "explanation": "「bureaucratic nonsense」は、官僚主義的なばかげたこと、無意味な手続きや規則を指します。非効率で不必要な手続きによって物事が遅延したり、複雑化したりする状況を批判的に表現する際に使われます。\n\n例：The project was delayed due to bureaucratic nonsense. (そのプロジェクトは官僚的な無意味さのために遅延した。)"
+    },
+    {
+      "id": 78,
+      "value": "dissect",
+      "options": [
+        "保護する",
+        "分析する",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "分析する",
+      "explanation": "「dissect」は、解剖する、分析するという意味です。生物学的な意味での解剖だけでなく、詳細に分析し、その構成要素や構造を理解しようとする場合にも使われます。\n\n例：The scientist dissected the data to find meaningful patterns. (科学者は意味のあるパターンを見つけるためにデータを分析した。)"
+    },
+    {
+      "id": 79,
+      "value": "faeces",
+      "options": [
+        "食べ物",
+        "排泄物",
+        "血液",
+        "細胞"
+      ],
+      "correctAnswer": "排泄物",
+      "explanation": "「faeces」は、糞便、排泄物を意味するフォーマルな言葉です。日常会話では「poop」や「stool」がより一般的に使われます。医学や科学的な文脈でよく使用されます。\n\n例：The doctor examined the patient's faeces for any signs of infection. (医者は感染の兆候がないか患者の糞便を調べた。)"
+    },
+    {
+      "id": 80,
+      "value": "hang on",
+      "options": [
+        "続ける",
+        "中断する",
+        "急ぐ",
+        "出発する"
+      ],
+      "correctAnswer": "中断する",
+      "explanation": "「hang on」は、少し待つ、ちょっと待ってという意味で使われる口語表現です。電話を切らずに待つ場合や、相手に一時停止を求める場合に使われます。\n\n例：Hang on a second, I'll check the schedule. (ちょっと待って、スケジュールを確認します。)"
+    },
+    {
+      "id": 81,
+      "value": "for Pete's sake",
+      "options": [
+        "冷静に",
+        "真剣に",
+        "驚いたことに",
+        "いい加減にしてくれ"
+      ],
+      "correctAnswer": "いい加減にしてくれ",
+      "explanation": "「For Pete's sake」は、イライラ、不満、驚きなどを表す際に使われる口語表現です。「頼むから」「いい加減にしてくれ」といったニュアンスが含まれます。\n\n例：For Pete's sake, can you be quiet? I'm trying to concentrate. (いい加減にしてくれ、静かにしてくれないか？集中しようとしているんだ。)"
+    },
+    {
+      "id": 82,
+      "value": "Just a sec",
+      "options": [
+        "永遠に",
+        "すぐに",
+        "決して",
+        "いつも"
+      ],
+      "correctAnswer": "すぐに",
+      "explanation": "「Just a sec」は、「Just a second」の省略形で、すぐに、ちょっと待ってという意味で使われる口語表現です。短い時間待ってほしい時に使います。\n\n例：Just a sec, I'll be right back. (すぐに戻ります。)"
+    },
+    {
+      "id": 83,
+      "value": "running out of",
+      "options": [
+        "入る",
+        "逃げる",
+        "使い果たす",
+        "蓄積する"
+      ],
+      "correctAnswer": "逃げる",
+      "explanation": "「run out of」は、場所から逃げる、去るという意味の他に、何かを使い果たす、～がなくなるという意味もあります。資源、時間、お金など、様々なものがなくなる状況で使われます。\n\n例：We are running out of time. (時間がなくなってきている。)"
+    },
+    {
+      "id": 84,
+      "value": "go wrong",
+      "options": [
+        "成功する",
+        "故障する",
+        "改善する",
+        "維持する"
+      ],
+      "correctAnswer": "故障する",
+      "explanation": "「go wrong」は、物事がうまくいかない、故障する、道を誤るという意味です。計画、機械、人間関係など、様々なものがうまくいかなくなる状況で使われます。\n\n例：What went wrong with the project? (プロジェクトの何がうまくいかなかったのか？)"
+    },
+    {
+      "id": 85,
+      "value": "can take anything",
+      "options": [
+        "何でも受け入れられる",
+        "何も受け入れられない",
+        "すべて無視する",
+        "すべて忘れる"
+      ],
+      "correctAnswer": "何でも受け入れられる",
+      "explanation": "「can take anything」は、どんなことでも耐えられる、受け入れられるという意味です。精神的な苦痛や困難な状況に対して、強い耐性を持っていることを表します。\n\n例：He is a strong person; he can take anything. (彼は強い人だ。どんなことでも耐えられる。)"
+    },
+    {
+      "id": 86,
+      "value": "my buttons",
+      "options": [
+        "得意なこと",
+        "嫌なこと",
+        "好きなこと",
+        "秘密"
+      ],
+      "correctAnswer": "嫌なこと",
+      "explanation": "「push someone's buttons」というイディオムで、「人をイライラさせる」「怒らせる」という意味になります。「button」は、人の感情や反応を引き起こすトリガーとなるものを指します。\n\n例：He knows exactly how to push my buttons. (彼はどうすれば私をイライラさせられるのかをよく知っている。)"
+    },
+    {
+      "id": 87,
+      "value": "force myself into",
+      "options": [
+        "自分を解放する",
+        "自分を強制的に押し込む",
+        "自分を甘やかす",
+        "自分を無視する"
+      ],
+      "correctAnswer": "自分を強制的に押し込む",
+      "explanation": "「force myself into」は、自分自身を無理やり～の状態にする、または～の場所へ行くという意味です。本来は気が進まないことや、苦手なことに敢えて挑戦するニュアンスが含まれます。\n\n例：I had to force myself into the crowded train. (満員電車に無理やり乗り込まなければならなかった。)"
+    },
+    {
+      "id": 88,
+      "value": "broken",
+      "options": [
+        "修理された",
+        "壊れた",
+        "新しい",
+        "強い"
+      ],
+      "correctAnswer": "壊れた",
+      "explanation": "「broken」は、壊れた、傷ついたという意味ですが、人の精神状態を表す場合、精神的に不安定、問題を抱えている、という意味合いになります。\n\n例：She felt broken after the breakup. (彼女は別れの後に心が壊れたように感じた。)"
+    },
+    {
+      "id": 89,
+      "value": "a wreck",
+      "options": [
+        "完璧な状態",
+        "最悪の状態",
+        "安定した状態",
+        "改善された状態"
+      ],
+      "correctAnswer": "最悪の状態",
+      "explanation": "「a wreck」は、難破船、廃墟という意味ですが、人の状態を表す場合、精神的、肉体的にボロボロの状態、またはそのような状態の人を指します。\n\n例：He was a nervous wreck before the presentation. (彼はプレゼンテーションの前は神経がボロボロだった。)"
+    },
+    {
+      "id": 90,
+      "value": "quirks",
+      "options": [
+        "悩み",
+        "欠点",
+        "長所",
+        "癖"
+      ],
+      "correctAnswer": "癖",
+      "explanation": "「quirks」は、奇妙な癖、変わった特徴という意味です。普通とは少し違う、面白い個性として捉えられることが多いです。\n\n例：He has some strange quirks, but he's a good person. (彼はいくつかの奇妙な癖を持っているが、良い人だ。)"
+    },
+    {
+      "id": 91,
+      "value": "diagnosable",
+      "options": [
+        "診断可能な",
+        "治療可能な",
+        "予防可能な",
+        "予測可能な"
+      ],
+      "correctAnswer": "診断可能な",
+      "explanation": "「diagnosable」は、診断可能なという意味です。医学的な文脈で、病気や状態が診断できることを指します。\n\n例：The condition is diagnosable with a blood test. (その状態は血液検査で診断可能です。)"
+    },
+    {
+      "id": 92,
+      "value": "pathetic",
+      "options": [
+        "勇敢な",
+        "哀れな",
+        "幸せな",
+        "魅力的な"
+      ],
+      "correctAnswer": "哀れな",
+      "explanation": "「pathetic」は、哀れな、情けないという意味です。同情や軽蔑の気持ちを込めて使われることが多いです。\n\n例：He looked pathetic begging for money. (彼はお金を恵んでもらおうと哀れな姿をしていた。)"
+    },
+    {
+      "id": 93,
+      "value": "capacity for",
+      "options": [
+        "能力",
+        "嫌悪感",
+        "無関心",
+        "恐怖"
+      ],
+      "correctAnswer": "能力",
+      "explanation": "「capacity for」は、～の能力、～の才能という意味です。何かを理解したり、実行したりする潜在的な能力を指します。\n\n例：She has a great capacity for learning languages. (彼女は言語を学ぶ優れた能力を持っている。)"
+    },
+    {
+      "id": 94,
+      "value": "passes on",
+      "options": [
+        "出発する",
+        "通過する",
+        "亡くなる",
+        "成功する"
+      ],
+      "correctAnswer": "亡くなる",
+      "explanation": "「pass on」は、亡くなる、死去するという意味の婉曲表現です。直接的な表現を避けたい場合に用いられます。\n\n例：Her grandmother passed on last year. (彼女の祖母は昨年亡くなった。)"
+    },
+    {
+      "id": 95,
+      "value": "deluded",
+      "options": [
+        "賢明な",
+        "欺かれた",
+        "正直な",
+        "勇敢な"
+      ],
+      "correctAnswer": "欺かれた",
+      "explanation": "「deluded」は、妄想を抱いている、欺かれているという意味です。現実を正しく認識できていない状態を指します。\n\n例：He is deluded if he thinks she will marry him. (彼女が彼と結婚すると思っているなら、彼は欺かれている。)"
+    },
+    {
+      "id": 96,
+      "value": "struck",
+      "options": [
+        "隠された",
+        "影響を与えた",
+        "無視された",
+        "避けられた"
+      ],
+      "correctAnswer": "影響を与えた",
+      "explanation": "「strike」の過去形。ここでは「strike」は、（光などが）当たる、印象を与えるという意味で使われています。つまり、何かが突然現れて強い印象や影響を与えることを意味します。\n\n例：The idea struck me suddenly.（そのアイデアは突然私にひらめいた。）"
+    },
+    {
+      "id": 97,
+      "value": "remarkable",
+      "options": [
+        "普通の",
+        "注目すべき",
+        "つまらない",
+        "忘れられた"
+      ],
+      "correctAnswer": "注目すべき",
+      "explanation": "「remarkable」は、注目すべき、著しい、並外れたという意味です。普通とは異なり、特別な才能や性質を持っていることを表します。\n\n例：She is a remarkable singer. (彼女は注目すべき歌手だ。)"
+    },
+    {
+      "id": 98,
+      "value": "lines",
+      "options": [
+        "嘘",
+        "演技のセリフ",
+        "規則",
+        "境界線"
+      ],
+      "correctAnswer": "演技のセリフ",
+      "explanation": "この文脈では、「lines」は演劇や映画などで俳優が言うべきセリフを指します。記憶力や演技力に関連して使われることが多いです。\n\n例：He forgot his lines on stage.（彼は舞台でセリフを忘れてしまった。）"
+    },
+    {
+      "id": 99,
+      "value": "get to the part",
+      "options": [
+        "一部分を避ける",
+        "一部分に到達する",
+        "一部分を無視する",
+        "一部分を拒否する"
+      ],
+      "correctAnswer": "一部分に到達する",
+      "explanation": "「get to the part」は、ある部分に到達する、ある段階に進むという意味です。特に、物語やプロセスの中で特定の時点に達することを指します。\n\n例：When do we get to the part where they fall in love? (彼らが恋に落ちる部分にはいつ到達するの？)"
+    },
+    {
+      "id": 100,
+      "value": "at once",
+      "options": [
+        "徐々に",
+        "すぐに",
+        "決して",
+        "いつも"
+      ],
+      "correctAnswer": "すぐに",
+      "explanation": "「at once」は、すぐに、同時にという意味です。時間的な即時性や、複数のことが同時に起こる状況を表します。\n\n例：They all started talking at once. (彼らは皆、同時に話し始めた。)"
+    }
+  ]
+}

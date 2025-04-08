@@ -1,0 +1,1120 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "racially insensitive",
+      "options": [
+        "人種的に無頓着",
+        "文化的に寛容",
+        "社会的に敏感",
+        "個人的に配慮"
+      ],
+      "correctAnswer": "人種的に無頓着",
+      "explanation": "「racially insensitive」は、人種に対する配慮が欠けている、または人種差別的な意図はなくても、特定の人種グループを不快にさせる可能性のある言動を指します。文化的な背景や歴史的経緯に対する理解不足から生じることが多いです。"
+    },
+    {
+      "id": 2,
+      "value": "be okay with",
+      "options": [
+        "反対する",
+        "賛成する",
+        "無関心である",
+        "理解できない"
+      ],
+      "correctAnswer": "賛成する",
+      "explanation": "「be okay with」は、～に同意する、～を容認するという意味です。必ずしも積極的に賛成するわけではなく、不満はないというニュアンスを含みます。類似の表現として「be fine with」があります。"
+    },
+    {
+      "id": 3,
+      "value": "get used to",
+      "options": [
+        "嫌いになる",
+        "慣れる",
+        "忘れる",
+        "避ける"
+      ],
+      "correctAnswer": "慣れる",
+      "explanation": "「get used to」は、～に慣れるという意味です。新しい環境、習慣、物事などに適応していく過程を表します。例えば、\"I'm getting used to the new job.\"（新しい仕事に慣れてきています）のように使われます。"
+    },
+    {
+      "id": 4,
+      "value": "stuffed into",
+      "options": [
+        "取り出された",
+        "詰め込まれた",
+        "隠された",
+        "飾られた"
+      ],
+      "correctAnswer": "詰め込まれた",
+      "explanation": "「stuff into」は、狭い空間に無理やり詰め込むという意味です。物理的なものだけでなく、比喩的に何かを押し込める状況にも使われます。例文：She stuffed the clothes into the suitcase. (彼女は服をスーツケースに詰め込んだ。)"
+    },
+    {
+      "id": 5,
+      "value": "infer from context",
+      "options": [
+        "文脈から推測する",
+        "直接的に尋ねる",
+        "無視する",
+        "誤解する"
+      ],
+      "correctAnswer": "文脈から推測する",
+      "explanation": "「infer from context」は、文脈や状況から間接的に意味を推測するという意味です。明示的な情報がない場合に、周囲の状況証拠から結論を導き出すことを指します。"
+    },
+    {
+      "id": 6,
+      "value": "interject",
+      "options": [
+        "遮る",
+        "同意する",
+        "無視する",
+        "促進する"
+      ],
+      "correctAnswer": "遮る",
+      "explanation": "「interject」は、会話や議論に割り込む、口を挟むという意味です。相手の発言を中断して自分の意見を述べる際に使われます。類似の表現として「interrupt」があります。"
+    },
+    {
+      "id": 7,
+      "value": "geegaw",
+      "options": [
+        "高価な宝石",
+        "安価な装飾品",
+        "最新の技術",
+        "貴重な芸術品"
+      ],
+      "correctAnswer": "安価な装飾品",
+      "explanation": "「geegaw」は、安価で装飾的な、しかし実用性の低い小物を指します。しばしば軽蔑的なニュアンスを含みます。類似の言葉として「trinket」があります。例文：The shop was full of geegaws and souvenirs."
+    },
+    {
+      "id": 8,
+      "value": "thingamabob",
+      "options": [
+        "重要な機械部品",
+        "名前のわからない物",
+        "最新のガジェット",
+        "伝統的な工芸品"
+      ],
+      "correctAnswer": "名前のわからない物",
+      "explanation": "「thingamabob」は、名前が思い出せない、または特に名前がない物を指す際に使われる言葉です。似たような言葉に「whatsit」や「whatchamacallit」があります。例文：Can you hand me that thingamabob over there?"
+    },
+    {
+      "id": 9,
+      "value": "acceptance speech",
+      "options": [
+        "抗議演説",
+        "歓迎演説",
+        "受賞スピーチ",
+        "辞任演説"
+      ],
+      "correctAnswer": "受賞スピーチ",
+      "explanation": "「acceptance speech」は、賞や名誉を受けた際に、それを受け入れる意思を示すために行われるスピーチです。感謝の言葉や今後の抱負などが述べられます。"
+    },
+    {
+      "id": 10,
+      "value": "simpletons",
+      "options": [
+        "賢者",
+        "単純な人",
+        "学者",
+        "芸術家"
+      ],
+      "correctAnswer": "単純な人",
+      "explanation": "「simpleton」は、知恵が足りない人、単純な人を指す軽蔑的な言葉です。知性や判断力が低いと見なされる人を指して使われます。"
+    },
+    {
+      "id": 11,
+      "value": "figure it out",
+      "options": [
+        "無視する",
+        "理解する",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure it out」は、問題や謎を解き明かす、理解するという意味です。時間をかけて考えたり、調査したりして答えを見つけることを指します。例文：I need some time to figure out this problem."
+    },
+    {
+      "id": 12,
+      "value": "bump into",
+      "options": [
+        "避ける",
+        "偶然出会う",
+        "無視する",
+        "計画的に会う"
+      ],
+      "correctAnswer": "偶然出会う",
+      "explanation": "「bump into」は、人に偶然出会う、または何かにぶつかるという意味です。意図せずに誰かと会ったり、何かに衝突したりする状況を表します。例文：I bumped into an old friend at the grocery store."
+    },
+    {
+      "id": 13,
+      "value": "check it out",
+      "options": [
+        "無視する",
+        "確認する",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check it out」は、何かを確認する、見てみる、試してみるという意味です。注意を引いたり、何かを勧める際に使われます。例文：Check out this new movie!"
+    },
+    {
+      "id": 14,
+      "value": "manipulation",
+      "options": [
+        "正直さ",
+        "操作",
+        "協力",
+        "無視"
+      ],
+      "correctAnswer": "操作",
+      "explanation": "「manipulation」は、人を操ること、または物事を意図的に操作することを指します。しばしば不正な手段や策略を用いて、自分の利益のために他人を利用する行為を意味します。"
+    },
+    {
+      "id": 15,
+      "value": "misdirection",
+      "options": [
+        "正直な説明",
+        "誤った方向への誘導",
+        "直接的な指示",
+        "情報の提供"
+      ],
+      "correctAnswer": "誤った方向への誘導",
+      "explanation": "「misdirection」は、注意をそらすこと、誤った方向へ誘導することを意味します。マジックの世界では、観客の注意を特定の方向へ向け、トリックを隠すために使われるテクニックです。"
+    },
+    {
+      "id": 16,
+      "value": "big deal",
+      "options": [
+        "重要なこと",
+        "些細なこと",
+        "秘密",
+        "大きな問題"
+      ],
+      "correctAnswer": "些細なこと",
+      "explanation": "「big deal」は、重要なこと、大したことという意味ですが、否定的な文脈で使われると「大したことではない」という意味になります。相手の発言を軽視したり、反論したりする際に使われます。例文：It's not a big deal."
+    },
+    {
+      "id": 17,
+      "value": "caught me on a break",
+      "options": [
+        "休憩中に捕まった",
+        "仕事中に邪魔された",
+        "たまたま暇だった",
+        "重要な会議中だった"
+      ],
+      "correctAnswer": "たまたま暇だった",
+      "explanation": "「caught me on a break」は、休憩中にたまたま時間が空いていた、という意味です。特に忙しい人が、偶然暇な時間に見つかった状況を表します。"
+    },
+    {
+      "id": 18,
+      "value": "good for you",
+      "options": [
+        "残念だね",
+        "おめでとう",
+        "頑張って",
+        "どうでもいいね"
+      ],
+      "correctAnswer": "おめでとう",
+      "explanation": "「good for you」は、相手の成功や良いニュースに対して「おめでとう」という意味で使われます。皮肉を込めて使われることもあります。例文：You got a new job? Good for you!"
+    },
+    {
+      "id": 19,
+      "value": "hang up",
+      "options": [
+        "拾う",
+        "掛ける",
+        "忘れる",
+        "しまう"
+      ],
+      "correctAnswer": "掛ける",
+      "explanation": "「hang up」は、電話を切る、または物を掛けるという意味があります。ここでは服をクローゼットなどに掛けることを指しています。例文：I need to hang up these clothes."
+    },
+    {
+      "id": 20,
+      "value": "on a daily basis",
+      "options": [
+        "時々",
+        "毎日",
+        "毎週",
+        "毎月"
+      ],
+      "correctAnswer": "毎日",
+      "explanation": "「on a daily basis」は、毎日、日常的にという意味です。ある行動や出来事が頻繁に、または定期的に行われることを示します。例文：I exercise on a daily basis."
+    },
+    {
+      "id": 21,
+      "value": "Granted",
+      "options": [
+        "拒否された",
+        "認められたとして",
+        "無視された",
+        "提案された"
+      ],
+      "correctAnswer": "認められたとして",
+      "explanation": "「Granted」は、「確かに〜だが」「〜は認めるが」という意味で、譲歩や同意を示す際に使われます。相手の意見の一部を認めつつ、別の視点を提示する時に便利です。例文：Granted, it's expensive, but it's also the best."
+    },
+    {
+      "id": 22,
+      "value": "Shuffle",
+      "options": [
+        "固定する",
+        "混ぜる",
+        "並べる",
+        "数える"
+      ],
+      "correctAnswer": "混ぜる",
+      "explanation": "「Shuffle」は、カードなどを「混ぜる」という意味です。順番をランダムにするために行います。例文：Shuffle the cards before dealing."
+    },
+    {
+      "id": 23,
+      "value": "Spread out",
+      "options": [
+        "積み重ねる",
+        "広げる",
+        "隠す",
+        "たたむ"
+      ],
+      "correctAnswer": "広げる",
+      "explanation": "「Spread out」は、「広げる」「散らす」という意味です。スペースを広く使うイメージです。例文：Spread out the map on the table."
+    },
+    {
+      "id": 24,
+      "value": "Turn over",
+      "options": [
+        "裏返す",
+        "元に戻す",
+        "捨てる",
+        "隠す"
+      ],
+      "correctAnswer": "裏返す",
+      "explanation": "「Turn over」は、「裏返す」「ひっくり返す」という意味です。例文：Turn over the page to continue reading."
+    },
+    {
+      "id": 25,
+      "value": "Motto",
+      "options": [
+        "長所",
+        "標語",
+        "短所",
+        "伝統"
+      ],
+      "correctAnswer": "標語",
+      "explanation": "「Motto」は、「標語」「モットー」という意味です。行動や生活の指針となる短い言葉を指します。例文：Our company's motto is 'Customer First'."
+    },
+    {
+      "id": 26,
+      "value": "sleep with",
+      "options": [
+        "眠りにつく",
+        "仲良くする",
+        "性的な関係を持つ",
+        "友情を育む"
+      ],
+      "correctAnswer": "性的な関係を持つ",
+      "explanation": "「sleep with」は、誰かと性的な関係を持つことを意味する婉曲表現です。直接的な表現を避けたい場合や、ややカジュアルな文脈で使われます。"
+    },
+    {
+      "id": 27,
+      "value": "oopsy",
+      "options": [
+        "おめでとう",
+        "ごめんなさい",
+        "しまった",
+        "こんにちは"
+      ],
+      "correctAnswer": "しまった",
+      "explanation": "「oopsy」は、軽い失敗やうっかりミスをしたときに使われる、子供っぽい表現です。「あっ、やっちゃった」というニュアンスが含まれます。"
+    },
+    {
+      "id": 28,
+      "value": "rigged",
+      "options": [
+        "修理された",
+        "不正操作された",
+        "新しく作られた",
+        "複雑な"
+      ],
+      "correctAnswer": "不正操作された",
+      "explanation": "「rigged」は、不正な操作がされている、仕組まれているという意味です。特に、ゲームや選挙などが不正に行われている状況を指します。"
+    },
+    {
+      "id": 29,
+      "value": "regulation",
+      "options": [
+        "規則的な",
+        "標準の",
+        "特別な",
+        "珍しい"
+      ],
+      "correctAnswer": "標準の",
+      "explanation": "「regulation」は、規則や基準に合致している、標準的であることを意味します。ここでは、一般的なトランプのデッキであることを指しています。"
+    },
+    {
+      "id": 30,
+      "value": "muggle",
+      "options": [
+        "魔法使い",
+        "普通の人",
+        "妖精",
+        "いたずら好き"
+      ],
+      "correctAnswer": "普通の人",
+      "explanation": "「muggle」は、ハリー・ポッターシリーズに登場する言葉で、魔法の才能を持たない普通の人を指します。ここでは、魔法を信じない人をからかう意味で使われています。"
+    },
+    {
+      "id": 31,
+      "value": "break up with",
+      "options": [
+        "仲直りする",
+        "別れる",
+        "結婚する",
+        "友達になる"
+      ],
+      "correctAnswer": "別れる",
+      "explanation": "「break up with」は、恋人関係を解消する、別れるという意味です。恋愛関係の終了を指す一般的な表現です。"
+    },
+    {
+      "id": 32,
+      "value": "what's up",
+      "options": [
+        "どうしたの",
+        "何が起きたの",
+        "元気ですか",
+        "調子はどう"
+      ],
+      "correctAnswer": "どうしたの",
+      "explanation": "「what's up」は、相手に何かあったのか、または何か問題があるのか尋ねる時に使われるカジュアルな表現です。「元気ですか」という挨拶としても使われます。"
+    },
+    {
+      "id": 33,
+      "value": "hang out",
+      "options": [
+        "出かける",
+        "ぶらぶらする",
+        "付き合う",
+        "手伝う"
+      ],
+      "correctAnswer": "付き合う",
+      "explanation": "「hang out」は、誰かと一緒に時間を過ごす、ぶらぶらするという意味です。特に目的もなく、リラックスした状態で過ごすことを指します。"
+    },
+    {
+      "id": 34,
+      "value": "crash",
+      "options": [
+        "衝突する",
+        "故障する",
+        "成功する",
+        "落ちる"
+      ],
+      "correctAnswer": "故障する",
+      "explanation": "ここでは、ハードドライブが故障するという意味で使われています。コンピューター関連の故障を表す一般的な表現です。"
+    },
+    {
+      "id": 35,
+      "value": "move on",
+      "options": [
+        "引っ越す",
+        "先に進む",
+        "あきらめる",
+        "出発する"
+      ],
+      "correctAnswer": "先に進む",
+      "explanation": "「move on」は、過去の出来事や関係を乗り越えて、新しい段階に進むことを意味します。恋愛関係が終わった後などに使われることが多いです。"
+    },
+    {
+      "id": 36,
+      "value": "cut the cord",
+      "options": [
+        "コードを切る",
+        "縁を切る",
+        "電源を切る",
+        "秘密を共有する"
+      ],
+      "correctAnswer": "縁を切る",
+      "explanation": "「cut the cord」は、依存関係や過去とのつながりを断ち切るという意味です。親子関係や恋愛関係など、様々な状況で使われます。"
+    },
+    {
+      "id": 37,
+      "value": "unfamiliar with",
+      "options": [
+        "詳しい",
+        "慣れていない",
+        "興味がある",
+        "反対の"
+      ],
+      "correctAnswer": "慣れていない",
+      "explanation": "「unfamiliar with」は、～に慣れていない、～を知らないという意味です。特定の事柄や状況に不慣れであることを表します。"
+    },
+    {
+      "id": 38,
+      "value": "get lost",
+      "options": [
+        "道に迷う",
+        "立ち去る",
+        "迷子になる",
+        "忘れる"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "「get lost」は、誰かに立ち去るように、または邪魔しないように言うときに使われる失礼な表現です。怒りや不快感を示す際に用いられます。"
+    },
+    {
+      "id": 39,
+      "value": "never mind",
+      "options": [
+        "気にしないで",
+        "忘れないで",
+        "どういたしまして",
+        "またね"
+      ],
+      "correctAnswer": "気にしないで",
+      "explanation": "「never mind」は、言ったことや頼んだことを取り消すとき、または相手に気にしないように言うときに使われます。「どうでもいい」「忘れろ」というニュアンスが含まれます。"
+    },
+    {
+      "id": 40,
+      "value": "remedial",
+      "options": [
+        "治療の",
+        "改善の",
+        "基本的な",
+        "高度な"
+      ],
+      "correctAnswer": "改善の",
+      "explanation": "「remedial」は、改善を目的とした、補習的なという意味です。ここでは、理解を助けるための簡単なマジックを指しています。"
+    },
+    {
+      "id": 41,
+      "value": "axiomatic",
+      "options": [
+        "公理的な",
+        "経験的な",
+        "理論的な",
+        "仮説的な"
+      ],
+      "correctAnswer": "公理的な",
+      "explanation": "「axiomatic」は、自明の理である、証明を必要としないという意味です。ここでは、自分が知らないことは相手も知らないはずだという主張を強調しています。"
+    },
+    {
+      "id": 42,
+      "value": "slip back",
+      "options": [
+        "滑り落ちる",
+        "戻る",
+        "隠れる",
+        "落ち込む"
+      ],
+      "correctAnswer": "戻る",
+      "explanation": "ここでは、コンタクトレンズが眼球の後ろに入り込んでしまったというユーモラスな状況を表しています。文字通りには「滑り戻る」という意味です。"
+    },
+    {
+      "id": 43,
+      "value": "take for granted",
+      "options": [
+        "当然のことと思う",
+        "感謝する",
+        "無視する",
+        "利用する"
+      ],
+      "correctAnswer": "当然のことと思う",
+      "explanation": "「take for granted」は、～を当然のことと思う、～の価値を認めないという意味です。相手の優しさや好意を当たり前だと思って感謝しない状況を指します。"
+    },
+    {
+      "id": 44,
+      "value": "bitches",
+      "options": [
+        "犬",
+        "意地悪な女性",
+        "優しい女性",
+        "勇敢な女性"
+      ],
+      "correctAnswer": "意地悪な女性",
+      "explanation": "「bitch」は、意地悪な女性、嫌な女という意味の非常に侮辱的な言葉です。ここでは、恋愛関係において悪意のある行動をする女性を指しています。"
+    },
+    {
+      "id": 45,
+      "value": "put this",
+      "options": [
+        "これを置く",
+        "表現する",
+        "実行する",
+        "我慢する"
+      ],
+      "correctAnswer": "表現する",
+      "explanation": "「how do I put this?」は、どのように表現すれば良いか、どう言えば角が立たないか悩んでいる時に使われる表現です。婉曲的な言い方をしたい場合に用いられます。"
+    },
+    {
+      "id": 46,
+      "value": "food source",
+      "options": [
+        "食料源",
+        "エネルギー源",
+        "水源",
+        "資源"
+      ],
+      "correctAnswer": "食料源",
+      "explanation": "「food source」は、食料源、食物供給源という意味です。ここでは、ダーウィンの進化論を説明する文脈で使われています。"
+    },
+    {
+      "id": 47,
+      "value": "evolve",
+      "options": [
+        "進化する",
+        "退化する",
+        "変化する",
+        "発展する"
+      ],
+      "correctAnswer": "進化する",
+      "explanation": "「evolve」は、進化する、発展するという意味です。生物が環境に適応するために変化することを指します。ここでは、ダーウィンの進化論を説明する文脈で使われています。"
+    },
+    {
+      "id": 48,
+      "value": "in some fashion",
+      "options": [
+        "何らかの方法で",
+        "流行の",
+        "昔ながらの",
+        "おしゃれな"
+      ],
+      "correctAnswer": "何らかの方法で",
+      "explanation": "「in some fashion」は、何らかの方法で、どういうわけかという意味です。具体的な方法が不明な場合に使われます。"
+    },
+    {
+      "id": 49,
+      "value": "at your speed",
+      "options": [
+        "あなたのペースで",
+        "高速で",
+        "低速で",
+        "あなたのレベルに合った"
+      ],
+      "correctAnswer": "あなたのレベルに合った",
+      "explanation": "「at your speed」は、あなたのレベルに合った、あなたの理解力に合わせたという意味です。ここでは、Pennyの理解力に合わせた簡単なマジックを指しています。"
+    },
+    {
+      "id": 50,
+      "value": " Lieutenant",
+      "options": [
+        "大尉",
+        "中尉",
+        "少尉",
+        "上級曹長"
+      ],
+      "correctAnswer": "中尉",
+      "explanation": "「Lieutenant」は、中尉という意味です。軍隊の階級の一つで、特にアメリカ軍でよく使われます。ここでは、スタートレックのキャラクターであるウフーラを指しています。"
+    },
+    {
+      "id": 51,
+      "value": "a bird in the hand is worth two in the bush",
+      "options": [
+        "確実な小利益は不確実な大利益に勝る",
+        "二兎を追う者は一兎をも得ず",
+        "棚からぼたもち",
+        "虎穴に入らずんば虎子を得ず"
+      ],
+      "correctAnswer": "確実な小利益は不確実な大利益に勝る",
+      "explanation": "「手に持っている一羽の鳥は、茂みの中にいる二羽の鳥よりも価値がある」ということわざです。これは、不確実な大きな利益を追求するよりも、確実な小さな利益を大切にするべきだという意味です。現状に満足し、リスクを避けることを推奨するニュアンスがあります。"
+    },
+    {
+      "id": 52,
+      "value": "case closed",
+      "options": [
+        "事件解決",
+        "問題発生",
+        "状況悪化",
+        "継続調査"
+      ],
+      "correctAnswer": "事件解決",
+      "explanation": "「case closed」は、文字通りには「事件解決」という意味ですが、日常会話では「議論の余地なし」「一件落着」といった意味合いで使われます。ある問題や議論に対して、決定的な結論が出たことを示し、それ以上の議論や検討を打ち切る際に用いられます。"
+    },
+    {
+      "id": 53,
+      "value": "nature's way",
+      "options": [
+        "自然の法則",
+        "個人的な好み",
+        "偶然の結果",
+        "人為的な操作"
+      ],
+      "correctAnswer": "自然の法則",
+      "explanation": "「nature's way」は、「自然の摂理」「自然の法則」という意味です。物事が自然に、必然的に起こる様子や、自然界の秩序や仕組みを指します。特に、人間の意志や介入を超えた、自然な成り行きや運命を表す際に使われます。"
+    },
+    {
+      "id": 54,
+      "value": "drat",
+      "options": [
+        "やった",
+        "くそ",
+        "なるほど",
+        "素晴らしい"
+      ],
+      "correctAnswer": "くそ",
+      "explanation": "「drat」は、軽い失望やいらだちを表す間投詞です。「ちぇっ」「しまった」といったニュアンスで、怒りや不満を婉曲的に表現する際に用いられます。比較的古風な表現であり、現代ではフォーマルな場面や、子供に対して使われることがあります。"
+    },
+    {
+      "id": 55,
+      "value": "eidetic memory",
+      "options": [
+        "短期記憶",
+        "想起",
+        "忘却",
+        "完全記憶"
+      ],
+      "correctAnswer": "完全記憶",
+      "explanation": "「eidetic memory」は「映像記憶」または「完全記憶」と呼ばれる、見たものを写真のように正確に記憶できる能力を指します。一度見たものを細部まで鮮明に思い出すことができる特殊な記憶能力です。"
+    },
+    {
+      "id": 56,
+      "value": "reverse engineering",
+      "options": [
+        "製品開発",
+        "品質管理",
+        "リバースエンジニアリング",
+        "市場調査"
+      ],
+      "correctAnswer": "リバースエンジニアリング",
+      "explanation": "「reverse engineering」は、製品やシステムを分解・解析し、その構造や機能を解明するプロセスです。他社の製品を分析して自社の製品開発に役立てたり、ソフトウェアの脆弱性を発見したりする目的で行われます。"
+    },
+    {
+      "id": 57,
+      "value": "residual heat",
+      "options": [
+        "潜熱",
+        "余熱",
+        "伝導熱",
+        "放射熱"
+      ],
+      "correctAnswer": "余熱",
+      "explanation": "「residual heat」は「残留熱」「余熱」という意味で、何らかのプロセスや活動によって発生し、その後も残っている熱を指します。例えば、エンジン停止後のエンジンの熱や、オーブン使用後の庫内の熱などが該当します。"
+    },
+    {
+      "id": 58,
+      "value": "tad",
+      "options": [
+        "たくさん",
+        "少し",
+        "全く",
+        "非常に"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「tad」は「少し」「わずかに」という意味を持つ副詞です。程度や量を控えめに表現する際に用いられ、slightly や a little と同様の意味合いで使用されます。日常会話でよく使われる口語的な表現です。"
+    },
+    {
+      "id": 59,
+      "value": "holy crap",
+      "options": [
+        "素晴らしい",
+        "なんてことだ",
+        "問題ない",
+        "どうでもいい"
+      ],
+      "correctAnswer": "なんてことだ",
+      "explanation": "「holy crap」は、驚き、不快感、または強い感情を表す感嘆詞です。「なんてこった」「うわー」といったニュアンスで、スラングとして使われます。holy cow と同様の意味合いですが、より強い感情を表す傾向があります。"
+    },
+    {
+      "id": 60,
+      "value": "black helicopters",
+      "options": [
+        "報道ヘリ",
+        "軍用ヘリ",
+        "政府の陰謀",
+        "救急ヘリ"
+      ],
+      "correctAnswer": "政府の陰謀",
+      "explanation": "「black helicopters」は、陰謀論において、政府や秘密組織が秘密裏に活動するために使用する黒色のヘリコプターを指します。一般的には、政府による監視や秘密作戦の象徴として用いられます。"
+    },
+    {
+      "id": 61,
+      "value": "radioactive tracer",
+      "options": [
+        "追跡装置",
+        "放射性トレーサー",
+        "暗号",
+        "信号機"
+      ],
+      "correctAnswer": "放射性トレーサー",
+      "explanation": "「radioactive tracer」は「放射性トレーサー」といい、放射性同位体をごく少量添加して、物質の動きや反応を追跡する技術です。医学、生物学、化学などの分野で広く利用されており、人や環境に対する安全性に配慮して使用されます。"
+    },
+    {
+      "id": 62,
+      "value": "this time of night",
+      "options": [
+        "真夜中に",
+        "早朝に",
+        "夕暮れ時に",
+        "昼間に"
+      ],
+      "correctAnswer": "真夜中に",
+      "explanation": "「this time of night」は「こんな夜更けに」「こんな時間帯に」という意味です。特定の時間帯、特に夜遅い時間や真夜中を指して使われます。通常の活動時間外であることを強調するニュアンスがあります。"
+    },
+    {
+      "id": 63,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待つ",
+        "頑張る",
+        "諦める"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、状況によって様々な意味を持つ句動詞ですが、ここでは「ちょっと待って」という意味で使われています。相手に少しの間待つように伝える際に用いられる、カジュアルな表現です。"
+    },
+    {
+      "id": 64,
+      "value": "fancy-ass",
+      "options": [
+        "高価な",
+        "普通の",
+        "だらしない",
+        "子供っぽい"
+      ],
+      "correctAnswer": "高価な",
+      "explanation": "「fancy-ass」は、「気取った」「おしゃれな」「高級な」といった意味合いのスラングです。やや軽蔑的なニュアンスを含み、見せかけだけが良いものや、不相応に高価なものを指して使われることがあります。"
+    },
+    {
+      "id": 65,
+      "value": "way to go",
+      "options": [
+        "頑張って",
+        "お疲れ様",
+        "おめでとう",
+        "その調子"
+      ],
+      "correctAnswer": "その調子",
+      "explanation": "「way to go」は、「よくやった」「その調子だ」という意味で、相手を褒めたり励ましたりする際に使われる口語的な表現です。相手の成功や良い行いを認め、賞賛するニュアンスがあります。"
+    },
+    {
+      "id": 66,
+      "value": "mannequin",
+      "options": [
+        "道化師",
+        "人形",
+        "マネキン",
+        "ロボット"
+      ],
+      "correctAnswer": "マネキン",
+      "explanation": "「mannequin」は、衣服を展示するために使用される人体模型のことです。ここでは、Leonardの服装が個性的でなく、まるでマネキンのように見えることを比喩的に表現しています。"
+    },
+    {
+      "id": 67,
+      "value": "hang out",
+      "options": [
+        "出かける",
+        "手伝う",
+        "ぶらぶらする",
+        "急ぐ"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、「（友達と）ぶらぶらする」「（場所で）時間を過ごす」という意味の句動詞です。特に目的もなく、リラックスして時間を過ごす様子を表します。例文：I like to hang out at the park with my friends. (私は友達と公園でぶらぶらするのが好きです。)"
+    },
+    {
+      "id": 68,
+      "value": "sneaks up on ya",
+      "options": [
+        "こっそり近づく",
+        "突然襲ってくる",
+        "徐々に現れる",
+        "ゆっくり去っていく"
+      ],
+      "correctAnswer": "徐々に現れる",
+      "explanation": "「sneaks up on ya」は、「気づかないうちに忍び寄る」「徐々に影響を及ぼす」という意味の口語表現です。ここでは、カレーの辛さが後からじわじわと効いてくる様子を表しています。例文：The effect of the medicine sneaks up on you after a while. (薬の効果はしばらくしてから徐々に現れてくる。)"
+    },
+    {
+      "id": 76,
+      "value": "I've been meaning to",
+      "options": [
+        "いつも〜するつもりだった",
+        "〜するのをためらっている",
+        "〜するのを忘れていた",
+        "〜するのを諦めた"
+      ],
+      "correctAnswer": "いつも〜するつもりだった",
+      "explanation": "「I've been meaning to」は、「ずっと〜しようと思っていた」という意味で、先延ばしにしていたことを伝える際に使います。何かをしたいと思っていたが、機会がなかったり、忘れていたりした場合に使われます。\n\n例：I've been meaning to call you. (ずっと電話しようと思っていたんだ。)"
+    },
+    {
+      "id": 77,
+      "value": "improved upon",
+      "options": [
+        "悪化した",
+        "改善した",
+        "無視した",
+        "変更した"
+      ],
+      "correctAnswer": "改善した",
+      "explanation": "「improve upon」は、「〜を改善する」「〜を改良する」という意味です。既存のものに対して、より良いものにする、向上させるという意味合いで使われます。\n\n例：We need to improve upon our current design. (現在のデザインを改善する必要がある。)"
+    },
+    {
+      "id": 78,
+      "value": "turn down",
+      "options": [
+        "拒否する",
+        "参加する",
+        "楽しむ",
+        "理解する"
+      ],
+      "correctAnswer": "拒否する",
+      "explanation": "「turn down」は、「（申し出、招待など）を断る、拒否する」という意味です。提案や頼みを丁寧に断る場合に使われます。\n\n例：I had to turn down their invitation. (彼らの招待を断らなければならなかった。)"
+    },
+    {
+      "id": 79,
+      "value": "showmanship",
+      "options": [
+        "内気",
+        "才能",
+        "演出力",
+        "誠実さ"
+      ],
+      "correctAnswer": "演出力",
+      "explanation": "「showmanship」は、「（人の目を引く）演出力、手腕、腕前」という意味です。特にエンターテイメントの世界で、観客を魅了する才能を指します。\n\n例：He has great showmanship. (彼は素晴らしい演出力を持っている。)"
+    },
+    {
+      "id": 80,
+      "value": "pathetic",
+      "options": [
+        "感動的",
+        "情けない",
+        "勇敢",
+        "面白い"
+      ],
+      "correctAnswer": "情けない",
+      "explanation": "「pathetic」は、「哀れな、情けない、むごたらしい」という意味です。軽蔑や同情の気持ちを込めて使われることが多いです。\n\n例：That's a pathetic excuse. (それは情けない言い訳だ。)"
+    },
+    {
+      "id": 81,
+      "value": "blowing my mind",
+      "options": [
+        "混乱させる",
+        "退屈させる",
+        "感銘を与える",
+        "怒らせる"
+      ],
+      "correctAnswer": "感銘を与える",
+      "explanation": "「blow someone's mind」は、「（人）を非常に驚かせる、感動させる」という意味です。信じられないような出来事や情報に接したときに使われます。\n\n例：That movie blew my mind. (あの映画は本当に素晴らしかった。)"
+    },
+    {
+      "id": 82,
+      "value": "on my way to",
+      "options": [
+        "〜へ向かう途中",
+        "〜から離れる途中",
+        "〜を避ける途中",
+        "〜に近づく途中"
+      ],
+      "correctAnswer": "〜へ向かう途中",
+      "explanation": "「on my way to」は、「〜へ向かう途中」という意味です。場所や目的地に向かっている状態を表します。\n\n例：I'm on my way to the store. (今、店に向かっているところです。)"
+    },
+    {
+      "id": 83,
+      "value": "what's up",
+      "options": [
+        "どうしたの？",
+        "何もないよ",
+        "元気だよ",
+        "またね"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、挨拶や相手の状況を尋ねる際に使われる表現で、「どうしたの？」「何かあった？」という意味です。親しい間柄でよく使われます。\n\n例：Hey, what's up? (やあ、どうしたの？)"
+    },
+    {
+      "id": 84,
+      "value": "move out",
+      "options": [
+        "引っ越す",
+        "手伝う",
+        "出ていく",
+        "移動する"
+      ],
+      "correctAnswer": "引っ越す",
+      "explanation": "「move out」は、「（家、アパートなどから）引っ越す、立ち退く」という意味です。ある場所から別の場所へ生活の拠点を移すことを指します。\n\n例：I'm moving out next month. (来月引っ越します。)"
+    },
+    {
+      "id": 85,
+      "value": "what the hell is this all about?",
+      "options": [
+        "これは一体どういうこと？",
+        "これは素晴らしいことだ",
+        "これは簡単なことだ",
+        "これはどうでもいいことだ"
+      ],
+      "correctAnswer": "これは一体どういうこと？",
+      "explanation": "「What the hell is this all about?」は、「これは一体どういうことだ？」「一体何が起こっているんだ？」という意味です。混乱や怒り、不快感を表す際に使われます。強い感情を伴う表現です。\n\n例：What the hell is going on here? (ここで一体何が起こっているんだ？)"
+    },
+    {
+      "id": 86,
+      "value": "fella",
+      "options": [
+        "女性",
+        "子供",
+        "男性",
+        "動物"
+      ],
+      "correctAnswer": "男性",
+      "explanation": "「fella」は、「男、やつ」という意味で、親しみを込めて男性を指す言葉です。主にくだけた会話で使われます。\n\n例：He's a good fella. (彼は良いやつだ。)"
+    },
+    {
+      "id": 87,
+      "value": "hang out with",
+      "options": [
+        "〜を無視する",
+        "〜と遊ぶ",
+        "〜を避ける",
+        "〜を尊敬する"
+      ],
+      "correctAnswer": "〜と遊ぶ",
+      "explanation": "「hang out with」は、「〜とぶらぶらする、一緒に時間を過ごす、遊ぶ」という意味です。特に目的もなく、気軽に誰かと時間を共有する状況を表します。\n\n例：I like to hang out with my friends. (友達と遊ぶのが好きです。)"
+    },
+    {
+      "id": 88,
+      "value": "keep my distance",
+      "options": [
+        "親密になる",
+        "距離を置く",
+        "秘密にする",
+        "連絡を取る"
+      ],
+      "correctAnswer": "距離を置く",
+      "explanation": "「keep one's distance」は、「（人や物事から）距離を置く、近づかない」という意味です。物理的な距離だけでなく、心理的な距離を表すこともあります。\n\n例：I think it's best if I keep my distance. (距離を置いた方が良いと思います。)"
+    },
+    {
+      "id": 89,
+      "value": "on the down-low",
+      "options": [
+        "公然と",
+        "秘密裏に",
+        "大規模に",
+        "正直に"
+      ],
+      "correctAnswer": "秘密裏に",
+      "explanation": "「on the down-low」は、「内密に、秘密裏に」という意味です。人目を避けたり、秘密にしておきたいことを行う際に使われます。\n\n例：Let's keep this on the down-low. (この件は内密にしておきましょう。)"
+    },
+    {
+      "id": 90,
+      "value": "kinda",
+      "options": [
+        "全く",
+        "少し",
+        "完全に",
+        "非常に"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「kinda」は、「kind of」の略で、「少し、いくぶん」という意味です。口語的な表現で、程度を弱める際に使われます。\n\n例：I'm kinda tired. (ちょっと疲れている。)"
+    },
+    {
+      "id": 91,
+      "value": "incoming",
+      "options": [
+        "帰ります",
+        "来ます",
+        "行きます",
+        "休憩します"
+      ],
+      "correctAnswer": "来ます",
+      "explanation": "「incoming」は、「（人や物などが）入ってくる、到着する」という意味です。ここでは人が来ることを知らせるために使われています。\n\n例：Incoming call. (着信です。)"
+    },
+    {
+      "id": 92,
+      "value": "Why so glum?",
+      "options": [
+        "なぜそんなに嬉しいの？",
+        "なぜそんなに悲しいの？",
+        "なぜそんなに怒っているの？",
+        "なぜそんなに興奮しているの？"
+      ],
+      "correctAnswer": "なぜそんなに悲しいの？",
+      "explanation": "「glum」は、「憂鬱な、ふさぎ込んだ」という意味です。「Why so glum?」は、「どうしてそんなにふさぎ込んでいるの？」「なぜそんなに元気がないの？」という意味になります。\n\n例：What makes you so glum? (何が君をそんなに憂鬱にさせているんだ？)"
+    },
+    {
+      "id": 93,
+      "value": "chum",
+      "options": [
+        "敵",
+        "友人",
+        "上司",
+        "部下"
+      ],
+      "correctAnswer": "友人",
+      "explanation": "「chum」は、「親友、仲間」という意味です。親しみを込めて友人を呼ぶ際に使われます。\n\n例：He's my old chum from college. (彼は大学時代の古い友人です。)"
+    },
+    {
+      "id": 94,
+      "value": "hack into",
+      "options": [
+        "〜を修理する",
+        "〜に侵入する",
+        "〜を構築する",
+        "〜を避ける"
+      ],
+      "correctAnswer": "〜に侵入する",
+      "explanation": "「hack into」は、「（コンピューターシステムなど）に不正侵入する、ハッキングする」という意味です。許可なくシステムにアクセスすることを指します。\n\n例：Someone tried to hack into my account. (誰かが私のアカウントにハッキングしようとした。)"
+    },
+    {
+      "id": 95,
+      "value": "tattling",
+      "options": [
+        "助けること",
+        "内緒にすること",
+        "告げ口すること",
+        "褒めること"
+      ],
+      "correctAnswer": "告げ口すること",
+      "explanation": "「tattle」は、「（特に子供が）告げ口する、密告する」という意味です。人の悪い行いを、権威のある人に告げることを指します。\n\n例：Don't tattle on your brother. (お兄ちゃんのことを告げ口しないで。)"
+    },
+    {
+      "id": 96,
+      "value": "Figure out",
+      "options": [
+        "隠す",
+        "理解する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」は、「（問題、状況など）を理解する、解決する、解明する」という意味です。試行錯誤を重ねて何かを理解するニュアンスがあります。\n\n例：I can't figure out how to do this. (これのやり方がわからない。)"
+    },
+    {
+      "id": 97,
+      "value": "Hang on",
+      "options": [
+        "諦める",
+        "待つ",
+        "続ける",
+        "出発する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、「（電話を切らずに）待つ、（困難な状況で）持ちこたえる、頑張る」という意味です。ここでは「ちょっと待って」という意味で使われています。\n\n例：Hang on a second. (ちょっと待って。)"
+    },
+    {
+      "id": 98,
+      "value": "monkey business",
+      "options": [
+        "真面目な仕事",
+        "不正行為",
+        "簡単な作業",
+        "楽しい遊び"
+      ],
+      "correctAnswer": "不正行為",
+      "explanation": "「monkey business」は、「不正行為、ごまかし、いたずら」という意味です。怪しいことや不誠実な行為を指します。\n\n例：I don't want any monkey business here. (ここでは不正行為は許さない。)"
+    },
+    {
+      "id": 99,
+      "value": "gonna",
+      "options": [
+        "〜するつもり",
+        "〜したくない",
+        "〜するはずだった",
+        "〜する必要はない"
+      ],
+      "correctAnswer": "〜するつもり",
+      "explanation": "「gonna」は、「going to」の口語的な短縮形で、「〜するつもり、〜だろう」という意味です。未来の予定や意図を表します。\n\n例：I'm gonna go home now. (今から家に帰るよ。)"
+    },
+    {
+      "id": 100,
+      "value": "Nobel prize",
+      "options": [
+        "ノーベル賞",
+        "アカデミー賞",
+        "オリンピック",
+        "ワールドカップ"
+      ],
+      "correctAnswer": "ノーベル賞",
+      "explanation": "「Nobel Prize」は、「ノーベル賞」のことです。物理学、化学、生理学・医学、文学、平和、経済学の分野で、顕著な功績を上げた人に贈られる賞です。\n\n例：He won the Nobel Prize in Physics. (彼はノーベル物理学賞を受賞した。)"
+    }
+  ]
+}

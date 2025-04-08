@@ -1,0 +1,1132 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "invoked",
+      "options": [
+        "取り消した",
+        "発動した",
+        "無視した",
+        "提案した"
+      ],
+      "correctAnswer": "発動した",
+      "explanation": "「invoke」は、ここでは比喩的に、ある人物（ローザ・パークス）の名前や行動を持ち出して、特定の感情や反応を引き出すという意味で使用されています。法律、規則、権威などを発動する意味でも使われます。"
+    },
+    {
+      "id": 2,
+      "value": "cut the line",
+      "options": [
+        "列を整理する",
+        "列に割り込む",
+        "列を離れる",
+        "列を案内する"
+      ],
+      "correctAnswer": "列に割り込む",
+      "explanation": "「cut the line」は、列に割り込むという意味です。順番を待たずに割り込む行為を指します。類似表現として「jump the queue」もあります。"
+    },
+    {
+      "id": 3,
+      "value": "rocky",
+      "options": [
+        "順調な",
+        "困難な",
+        "静かな",
+        "豪華な"
+      ],
+      "correctAnswer": "困難な",
+      "explanation": "「rocky」は、ここでは関係や状況が不安定で困難であることを意味します。文字通り岩が多い道のイメージから来ています。例：The negotiations got off to a rocky start. (交渉は最初から困難なスタートだった。)"
+    },
+    {
+      "id": 4,
+      "value": "Well done",
+      "options": [
+        "おめでとう",
+        "よくやった",
+        "残念です",
+        "頑張って"
+      ],
+      "correctAnswer": "よくやった",
+      "explanation": "「Well done」は、相手の行動や成果を褒める際に使われる表現です。「Good job」とほぼ同じ意味ですが、ややフォーマルな印象を与えます。"
+    },
+    {
+      "id": 5,
+      "value": "choking",
+      "options": [
+        "窒息している",
+        "笑っている",
+        "泣いている",
+        "話している"
+      ],
+      "correctAnswer": "窒息している",
+      "explanation": "「choking」は、ここでは文字通り窒息しているという意味ではなく、相手が苦しんでいるように見える、あるいは何か問題を抱えているのではないかと冗談めかして言う際に使われています。"
+    },
+    {
+      "id": 6,
+      "value": "spur of the moment",
+      "options": [
+        "計画的な",
+        "衝動的な",
+        "秘密の",
+        "伝統的な"
+      ],
+      "correctAnswer": "衝動的な",
+      "explanation": "「spur of the moment」は、計画や準備なしに、その場の衝動や思いつきで行われることを意味します。例：We decided to go to the beach on the spur of the moment. (私たちは衝動的にビーチに行くことに決めた。)"
+    },
+    {
+      "id": 7,
+      "value": "overcrowding",
+      "options": [
+        "過疎化",
+        "過密状態",
+        "発展",
+        "安全"
+      ],
+      "correctAnswer": "過密状態",
+      "explanation": "「overcrowding」は、場所が人で混みすぎている状態、過密状態を意味します。ここでは刑務所の過密状態を指しています。"
+    },
+    {
+      "id": 8,
+      "value": "twitching",
+      "options": [
+        "震え",
+        "成長",
+        "運動",
+        "睡眠"
+      ],
+      "correctAnswer": "震え",
+      "explanation": "「twitching」は、体の一部が不随意にピクピクと動くことを意味します。神経質な様子や、何らかの身体的な問題を抱えていることを示す場合があります。"
+    },
+    {
+      "id": 9,
+      "value": "redo",
+      "options": [
+        "繰り返す",
+        "拒否する",
+        "隠す",
+        "提案する"
+      ],
+      "correctAnswer": "繰り返す",
+      "explanation": "「redo」は、何かを再び行う、やり直すという意味です。ここでは結婚の誓いを改めて行うことを指しています。"
+    },
+    {
+      "id": 10,
+      "value": "lousy",
+      "options": [
+        "素晴らしい",
+        "平凡な",
+        "高価な",
+        "幸運な"
+      ],
+      "correctAnswer": "平凡な",
+      "explanation": "「lousy」は、非常に悪い、つまらない、質の低いという意味です。ここでは、メイド・オブ・オナーの役割が期待外れであることを表しています。例：I had a lousy day at work. (今日は仕事で最悪な一日だった。)"
+    },
+    {
+      "id": 11,
+      "value": "get your hopes up",
+      "options": [
+        "希望を捨てる",
+        "期待する",
+        "絶望する",
+        "落胆する"
+      ],
+      "correctAnswer": "期待する",
+      "explanation": "「get your hopes up」は、期待を持つ、希望を抱くという意味です。ここでは、エルノー・ルービックが結婚式に来るかもしれないという期待を持つことを指しています。"
+    },
+    {
+      "id": 12,
+      "value": "strikes me as",
+      "options": [
+        "私を殴る",
+        "私には思える",
+        "私を無視する",
+        "私を困らせる"
+      ],
+      "correctAnswer": "私には思える",
+      "explanation": "「strike someone as」は、〜という印象を与える、〜のように思えるという意味です。例：He strikes me as a very honest person. (彼はとても正直な人のように思える。)"
+    },
+    {
+      "id": 13,
+      "value": "go to all this trouble",
+      "options": [
+        "全ての困難を避ける",
+        "全ての困難を経験する",
+        "全ての困難を無視する",
+        "全く苦労しない"
+      ],
+      "correctAnswer": "全ての困難を経験する",
+      "explanation": "「go to all this trouble」は、多くの苦労や努力を払うという意味です。ここでは、レナードの母親のために結婚式を計画することに対するペニーの努力を指しています。"
+    },
+    {
+      "id": 14,
+      "value": "consulting",
+      "options": [
+        "相談する",
+        "無視する",
+        "命令する",
+        "避ける"
+      ],
+      "correctAnswer": "相談する",
+      "explanation": "「consulting」は、誰かに意見を求める、相談するという意味です。ここでは、父親を結婚式に招待する前に母親に相談しなかったことを指しています。"
+    },
+    {
+      "id": 15,
+      "value": "emasculating",
+      "options": [
+        "男らしくする",
+        "自信をなくさせる",
+        "勇気づける",
+        "自由にする"
+      ],
+      "correctAnswer": "自信をなくさせる",
+      "explanation": "「emasculating」は、男性の自信や男らしさを奪う、弱体化させるという意味です。ここでは、ビバリーがレナードの父親に対してそうであったと主張されています。"
+    },
+    {
+      "id": 16,
+      "value": "physical affection",
+      "options": [
+        "身体的な嫌悪感",
+        "身体的な愛情",
+        "精神的な苦痛",
+        "精神的な安定"
+      ],
+      "correctAnswer": "身体的な愛情",
+      "explanation": "「physical affection」は、抱擁、キス、手をつなぐなどの身体的な愛情表現を意味します。夫婦間の親密さを示す重要な要素です。"
+    },
+    {
+      "id": 17,
+      "value": "proof of concept",
+      "options": [
+        "概念の証明",
+        "証拠の隠蔽",
+        "コンセプトの変更",
+        "偽りの証明"
+      ],
+      "correctAnswer": "概念の証明",
+      "explanation": "「proof of concept」は、あるアイデアや技術が実際に実現可能であることを示すための実証実験や試作品を意味します。ここでは、量子誘導システムが実際に機能することを示す証拠となります。"
+    },
+    {
+      "id": 18,
+      "value": "workable",
+      "options": [
+        "機能しない",
+        "機能する",
+        "危険な",
+        "違法な"
+      ],
+      "correctAnswer": "機能する",
+      "explanation": "「workable」は、実際に機能する、実行可能なという意味です。ここでは、量子誘導システムが実際に使用できる状態であることを示しています。例：We need a workable solution to this problem. (この問題に対する実行可能な解決策が必要です。)"
+    },
+    {
+      "id": 19,
+      "value": "guidance system",
+      "options": [
+        "誘導システム",
+        "監視システム",
+        "警告システム",
+        "防御システム"
+      ],
+      "correctAnswer": "誘導システム",
+      "explanation": "「guidance system」は、航空機、ミサイル、宇宙船などが目標に向かって正確に進むように誘導するシステムです。ここでは、量子力学を利用した新しい誘導システムを指しています。"
+    },
+    {
+      "id": 20,
+      "value": "provisional patent",
+      "options": [
+        "仮特許",
+        "本特許",
+        "共同特許",
+        "国際特許"
+      ],
+      "correctAnswer": "仮特許",
+      "explanation": "「provisional patent」は、特許出願の準備段階で、発明の詳細な説明を提出する前に、優先権を確保するために提出する仮の特許出願です。本出願よりも要件が緩やかです。"
+    },
+    {
+      "id": 21,
+      "value": "at your earliest convenience",
+      "options": [
+        "都合の良い時に",
+        "すぐに",
+        "絶対に",
+        "決して"
+      ],
+      "correctAnswer": "都合の良い時に",
+      "explanation": "「at your earliest convenience」は、できるだけ早く、都合の良い時にという意味の丁寧な表現です。ビジネスメールなどでよく使われます。例：Please reply at your earliest convenience. (できるだけ早くご返信ください。)"
+    },
+    {
+      "id": 22,
+      "value": "quantum",
+      "options": [
+        "古典",
+        "量子",
+        "巨大",
+        "未知"
+      ],
+      "correctAnswer": "量子",
+      "explanation": "「quantum」は、量子力学に関連する用語で、エネルギーや物質の最小単位を指します。ここでは、量子力学の原理を利用した誘導システムを意味しています。"
+    },
+    {
+      "id": 23,
+      "value": "coincidence",
+      "options": [
+        "偶然",
+        "必然",
+        "計画",
+        "陰謀"
+      ],
+      "correctAnswer": "偶然",
+      "explanation": "「coincidence」は、偶然の一致、同時発生を意味します。ここでは、空軍からの連絡が単なる偶然である可能性を示唆しています。例：It's just a coincidence that we both chose the same restaurant. (私たちが同じレストランを選んだのはただの偶然です。)"
+    },
+    {
+      "id": 24,
+      "value": "Boy, do I love America.",
+      "options": [
+        "アメリカは嫌いだ",
+        "本当にアメリカが好きだ",
+        "アメリカに興味がない",
+        "アメリカを軽蔑する"
+      ],
+      "correctAnswer": "本当にアメリカが好きだ",
+      "explanation": "「Boy, do I love America.」は、アメリカに対する強い愛情や愛国心を強調する表現です。文法的には倒置が使われており、感情の高ぶりを表しています。ここでは、アメリカ空軍からの連絡を受けて、アメリカという国への愛着を表現しています。"
+    },
+    {
+      "id": 25,
+      "value": "picking me up",
+      "options": [
+        "私を降ろす",
+        "私を迎えに来る",
+        "私を無視する",
+        "私を避ける"
+      ],
+      "correctAnswer": "私を迎えに来る",
+      "explanation": "「pick someone up」は、人を車で迎えに行くという意味です。ここでは、エイミーがシェルドンの母親を車で迎えに来たことを指しています。例：Can you pick me up from the airport? (空港まで迎えに来てもらえますか？)"
+    },
+    {
+      "id": 26,
+      "value": "shindig",
+      "options": [
+        "秘密の会合",
+        "盛大なパーティー",
+        "個人的な悩み",
+        "短い旅行"
+      ],
+      "correctAnswer": "盛大なパーティー",
+      "explanation": "「shindig」は、活気があり、騒がしいパーティーやダンスパーティーを指す口語的な表現です。お祝い事や特別な機会によく使われます。"
+    },
+    {
+      "id": 27,
+      "value": "get along",
+      "options": [
+        "喧嘩する",
+        "仲良くする",
+        "我慢する",
+        "無視する"
+      ],
+      "correctAnswer": "仲良くする",
+      "explanation": "「get along」は、人との関係が良好であることを意味します。特に、互いに友好的で、争いがなく、円滑なコミュニケーションをとっている状態を指します。 例：They get along well with each other. (彼らは互いに仲が良い。)"
+    },
+    {
+      "id": 28,
+      "value": "naive",
+      "options": [
+        "賢い",
+        "単純",
+        "意地悪",
+        "勇敢"
+      ],
+      "correctAnswer": "単純",
+      "explanation": "「naive」は、経験不足や知識不足から、物事を鵜呑みにしたり、世間知らずな様子を表します。批判的な意味合いを含むことが多いです。例：She was naive to trust him. (彼女は彼を信じるのが甘かった。)"
+    },
+    {
+      "id": 29,
+      "value": "black ops",
+      "options": [
+        "秘密作戦",
+        "公開討論",
+        "慈善活動",
+        "経済政策"
+      ],
+      "correctAnswer": "秘密作戦",
+      "explanation": "「black ops」は、政府や軍が行う極秘作戦を指します。一般には知られておらず、非公式に行われることが多いです。"
+    },
+    {
+      "id": 30,
+      "value": "overreacting",
+      "options": [
+        "冷静に対処する",
+        "過剰に反応する",
+        "無関心である",
+        "計画的に行動する"
+      ],
+      "correctAnswer": "過剰に反応する",
+      "explanation": "「overreact」は、何かに対して感情的または行動的に過剰な反応を示すことを意味します。些細なことに対して大げさに騒いだり、必要以上に心配したりする場合に使われます。"
+    },
+    {
+      "id": 31,
+      "value": "acquisitions",
+      "options": [
+        "買収",
+        "販売",
+        "開発",
+        "研究"
+      ],
+      "correctAnswer": "買収",
+      "explanation": "「acquisition」は、企業などが他の企業や資産などを取得することを意味します。軍事用語としては、兵器や装備などの調達を指すこともあります。"
+    },
+    {
+      "id": 32,
+      "value": "angioplasty",
+      "options": [
+        "心臓形成手術",
+        "脳手術",
+        "美容整形",
+        "胃の切除"
+      ],
+      "correctAnswer": "心臓形成手術",
+      "explanation": "「angioplasty」は、血管を広げるための医療処置、特に心臓の血管に行われることが多いです。カテーテルを用いて血管を内側から拡張します。"
+    },
+    {
+      "id": 33,
+      "value": "ex-husband",
+      "options": [
+        "未来の夫",
+        "元夫",
+        "兄弟",
+        "親友"
+      ],
+      "correctAnswer": "元夫",
+      "explanation": "「ex-husband」は、離婚した元夫を指す言葉です。「ex-」は「以前の」という意味で、過去の関係性を示す接頭辞として使われます。"
+    },
+    {
+      "id": 34,
+      "value": "sweetie",
+      "options": [
+        "厳しい人",
+        "優しい人",
+        "ずる賢い人",
+        "怠惰な人"
+      ],
+      "correctAnswer": "優しい人",
+      "explanation": "「sweetie」は、愛情を込めて誰かを呼ぶ時に使う言葉で、特に親しい間柄や親愛の情を示す際に用いられます。恋人や家族、親しい友人に対して使われることが多いです。"
+    },
+    {
+      "id": 35,
+      "value": "either way",
+      "options": [
+        "どちらにしても",
+        "片道だけ",
+        "特別な方法で",
+        "道に迷って"
+      ],
+      "correctAnswer": "どちらにしても",
+      "explanation": "「either way」は、「どちらにしても」「いずれにせよ」という意味で、二つの可能性や選択肢がある場合に、どちらを選んでも結果が変わらない、または同じ結論に至ることを示す際に使われます。"
+    },
+    {
+      "id": 36,
+      "value": "take over",
+      "options": [
+        "手伝う",
+        "引き継ぐ",
+        "無視する",
+        "放棄する"
+      ],
+      "correctAnswer": "引き継ぐ",
+      "explanation": "「take over」は、事業や責任、役割などを引き継ぐ、または占拠するという意味です。企業の買収や政権交代など、様々な状況で使用されます。"
+    },
+    {
+      "id": 37,
+      "value": "usual gang",
+      "options": [
+        "いつもの仲間",
+        "新しい友達",
+        "通行人",
+        "警察官"
+      ],
+      "correctAnswer": "いつもの仲間",
+      "explanation": "「usual gang」は、「いつもの仲間たち」「お決まりのメンバー」といった意味合いで、親しい友人やよく一緒にいるグループを指します。"
+    },
+    {
+      "id": 38,
+      "value": "a pleasure",
+      "options": [
+        "苦痛",
+        "喜び",
+        "義務",
+        "退屈"
+      ],
+      "correctAnswer": "喜び",
+      "explanation": "「a pleasure」は、文字通りには「喜び」や「楽しみ」という意味ですが、挨拶や紹介の場面で「はじめまして」や「どういたしまして」といった意味合いで使われます。相手に対する丁寧な応答として、好印象を与えます。"
+    },
+    {
+      "id": 39,
+      "value": "off the map",
+      "options": [
+        "地図に載っている",
+        "影響力がある",
+        "地図から消える",
+        "人気がある"
+      ],
+      "correctAnswer": "地図から消える",
+      "explanation": "「off the map」は、文字通りには「地図に載っていない」という意味ですが、比喩的には「存在を消される」「忘れ去られる」「影響力がなくなる」といった意味合いで使われます。"
+    },
+    {
+      "id": 40,
+      "value": "stop and get",
+      "options": [
+        "立ち止まって買う",
+        "走り続ける",
+        "忘れて帰る",
+        "諦める"
+      ],
+      "correctAnswer": "立ち止まって買う",
+      "explanation": "「stop and get」は、文字通り「立ち止まって何かを手に入れる」という意味ですが、比喩的には「何か必要なものを急いで手に入れる」というニュアンスで使われることがあります。"
+    },
+    {
+      "id": 41,
+      "value": "look forward to",
+      "options": [
+        "過去を振り返る",
+        "楽しみに待つ",
+        "後悔する",
+        "無視する"
+      ],
+      "correctAnswer": "楽しみに待つ",
+      "explanation": "「look forward to」は、将来起こることを期待して楽しみに待つという意味です。to の後には名詞または動名詞が続きます。 例：I'm looking forward to seeing you. (あなたに会えるのを楽しみにしています。)"
+    },
+    {
+      "id": 42,
+      "value": "better",
+      "options": [
+        "悪化する",
+        "良くなる",
+        "変わらない",
+        "忘れる"
+      ],
+      "correctAnswer": "良くなる",
+      "explanation": "betterは、より良い状態や状況を指します。ここでは「got to know you better」で、より親しくなってからという意味合いになります。"
+    },
+    {
+      "id": 43,
+      "value": "taking care of",
+      "options": [
+        "無視する",
+        "世話をする",
+        "邪魔をする",
+        "忘れる"
+      ],
+      "correctAnswer": "世話をする",
+      "explanation": "taking care ofは、誰かまたは何かを保護し、必要なものを提供することを意味します。ここではレナードの世話をするという意味合いです。"
+    },
+    {
+      "id": 44,
+      "value": "don't be silly",
+      "options": [
+        "真面目になる",
+        "馬鹿げたことを言うな",
+        "勇敢になる",
+        "正直になる"
+      ],
+      "correctAnswer": "馬鹿げたことを言うな",
+      "explanation": "Don't be sillyは、相手の発言や行動が理にかなっていない、または場違いであることを優しく指摘する際に使われます。親しい間柄で使われることが多いです。"
+    },
+    {
+      "id": 45,
+      "value": "my pleasure",
+      "options": [
+        "残念です",
+        "どういたしまして",
+        "お断りします",
+        "関係ありません"
+      ],
+      "correctAnswer": "どういたしまして",
+      "explanation": "My pleasureは、感謝の言葉に対する丁寧な返答として使われます。「どういたしまして」や「お役に立てて嬉しいです」といった意味合いが含まれています。"
+    },
+    {
+      "id": 46,
+      "value": "in charge of",
+      "options": [
+        "担当している",
+        "反対している",
+        "興味がない",
+        "参加していない"
+      ],
+      "correctAnswer": "担当している",
+      "explanation": "in charge ofは、特定の責任や任務を担っている状態を指します。「〜を担当している」「〜の責任者である」という意味で使われます。"
+    },
+    {
+      "id": 47,
+      "value": "either way",
+      "options": [
+        "どちらにしても",
+        "片道だけ",
+        "特別な方法で",
+        "道に迷って"
+      ],
+      "correctAnswer": "どちらにしても",
+      "explanation": "「either way」は、「どちらにしても」「いずれにせよ」という意味で、二つの可能性や選択肢がある場合に、どちらを選んでも結果が変わらない、または同じ結論に至ることを示す際に使われます。"
+    },
+    {
+      "id": 48,
+      "value": "have a heart attack",
+      "options": [
+        "恋に落ちる",
+        "心臓発作を起こす",
+        "感動する",
+        "落ち着く"
+      ],
+      "correctAnswer": "心臓発作を起こす",
+      "explanation": "「have a heart attack」は、文字通り「心臓発作を起こす」という意味ですが、比喩的には「非常にショックを受ける」「強い感情を抱く」といった意味合いで使われることがあります。"
+    },
+    {
+      "id": 49,
+      "value": "chilly",
+      "options": [
+        "暖かい",
+        "寒い",
+        "晴れ",
+        "曇り"
+      ],
+      "correctAnswer": "寒い",
+      "explanation": "「chilly」は、「肌寒い」「冷え冷えとした」という意味で、気温が低い状態を表します。不快な寒さを感じるときに使われることが多いです。"
+    },
+    {
+      "id": 50,
+      "value": "stop and get",
+      "options": [
+        "立ち止まって買う",
+        "走り続ける",
+        "忘れて帰る",
+        "諦める"
+      ],
+      "correctAnswer": "立ち止まって買う",
+      "explanation": "「stop and get」は、文字通り「立ち止まって何かを手に入れる」という意味ですが、比喩的には「何か必要なものを急いで手に入れる」というニュアンスで使われることがあります。"
+    },
+    {
+      "id": 51,
+      "value": "hateful shrew",
+      "options": [
+        "親愛なる友人",
+        "意地悪な女性",
+        "忠実な仲間",
+        "尊敬する上司"
+      ],
+      "correctAnswer": "意地悪な女性",
+      "explanation": "「shrew」は、口うるさく、意地悪な女性を指す言葉です。「hateful」と組み合わさることで、さらに強い嫌悪感を込めた表現になります。主に女性に対して使われる侮蔑的な言葉であり、使用には注意が必要です。"
+    },
+    {
+      "id": 52,
+      "value": "wrinkled old bastard",
+      "options": [
+        "尊敬される老人",
+        "しわくちゃの意地悪なやつ",
+        "若いいたずらっ子",
+        "無邪気な子供"
+      ],
+      "correctAnswer": "しわくちゃの意地悪なやつ",
+      "explanation": "「wrinkled」は「しわくちゃの」、「old」は「年老いた」という意味で、「bastard」は「嫌なやつ」「ろくでなし」といった意味合いの強い侮辱語です。親しみを込めて使われることもありますが、基本的には相手を侮辱する言葉なので、使う場面には注意が必要です。"
+    },
+    {
+      "id": 53,
+      "value": "for your benefit",
+      "options": [
+        "あなたのため",
+        "私のため",
+        "彼らのため",
+        "私たちのため"
+      ],
+      "correctAnswer": "あなたのため",
+      "explanation": "「for your benefit」は、「あなたのためになるように」「あなたの利益のために」という意味です。相手に何かをすることの理由や目的を説明する際に使われます。例: I did it for your benefit. (あなたのためにそうしました。)"
+    },
+    {
+      "id": 54,
+      "value": "go back to the dentist",
+      "options": [
+        "歯医者に行く",
+        "学校に戻る",
+        "仕事に戻る",
+        "家に帰る"
+      ],
+      "correctAnswer": "歯医者に行く",
+      "explanation": "「go back to the dentist」は、文字通り「歯医者に戻る」という意味ですが、ここでは「（重要でない）定期的な義務」の比喩として使われています。面倒だが避けては通れない事柄を指す際に用いられます。"
+    },
+    {
+      "id": 55,
+      "value": "one sec",
+      "options": [
+        "1秒",
+        "少々",
+        "永遠に",
+        "1時間"
+      ],
+      "correctAnswer": "少々",
+      "explanation": "「one sec」は、「one second」の略で、「ちょっと待って」「少しだけ時間ちょうだい」という意味です。カジュアルな会話でよく使われます。例: One sec, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+    },
+    {
+      "id": 56,
+      "value": "nonsense",
+      "options": [
+        "常識",
+        "ナンセンス",
+        "秘密",
+        "真実"
+      ],
+      "correctAnswer": "ナンセンス",
+      "explanation": "「nonsense」は、「ばかげたこと」「無意味なこと」「くだらないこと」という意味です。話や行動などが理にかなっていない、または重要でないときに使われます。例: Don't talk nonsense. (くだらないことを言うな。)"
+    },
+    {
+      "id": 57,
+      "value": "turn our guidance system over to them",
+      "options": [
+        "彼らに指導システムを提供する",
+        "彼らに指導システムを秘密にする",
+        "彼らに指導システムを売り渡す",
+        "彼らに指導システムを隠蔽する"
+      ],
+      "correctAnswer": "彼らに指導システムを提供する",
+      "explanation": "「turn over」は「引き渡す」「譲る」という意味です。「guidance system」は「誘導システム」を指します。全体として、「我々の誘導システムを彼らに引き渡す」という意味になり、ここでは軍事技術の供与を懸念する文脈で使われています。"
+    },
+    {
+      "id": 58,
+      "value": "going for us",
+      "options": [
+        "私たちに有利",
+        "私たちに不利",
+        "私たちを無視",
+        "私たちを応援"
+      ],
+      "correctAnswer": "私たちに有利",
+      "explanation": "「going for us」は、「私たちにとって有利な点」「私たちを後押しするもの」という意味合いです。ここでは、結婚生活において、レオナードの両親の方が有利な条件が多かった、という皮肉を込めた表現として使われています。"
+    },
+    {
+      "id": 59,
+      "value": "on that note",
+      "options": [
+        "その音符で",
+        "その話題で",
+        "その手紙で",
+        "その理由で"
+      ],
+      "correctAnswer": "その話題で",
+      "explanation": "「on that note」は、「さて」「ところで」「それを踏まえて」といった意味合いで、話題を転換する際に使われる表現です。前の発言を受けて、新しい話題を始める時に便利です。例: On that note, let's move on to the next item on the agenda. (さて、議題の次の項目に移りましょう。)"
+    },
+    {
+      "id": 60,
+      "value": "disparage",
+      "options": [
+        "賞賛する",
+        "見下す",
+        "無視する",
+        "促進する"
+      ],
+      "correctAnswer": "見下す",
+      "explanation": "「disparage」は、「見下す」「けなす」「軽んじる」という意味です。相手の価値や業績を低く評価する際に使われます。フォーマルな響きを持つ言葉です。例: He disparaged her efforts. (彼は彼女の努力をけなした。)"
+    },
+    {
+      "id": 61,
+      "value": "agnostic",
+      "options": [
+        "無神論者",
+        "不可知論者",
+        "有神論者",
+        "懐疑論者"
+      ],
+      "correctAnswer": "不可知論者",
+      "explanation": "「agnostic」は、「不可知論者」という意味で、神の存在や宇宙の根源など、人間には知りえない事柄があると考える立場の人を指します。宗教的な文脈でよく使われます。"
+    },
+    {
+      "id": 62,
+      "value": "pillar of salt",
+      "options": [
+        "塩の柱",
+        "砂の山",
+        "氷の壁",
+        "水の流れ"
+      ],
+      "correctAnswer": "塩の柱",
+      "explanation": "「pillar of salt」は、「塩の柱」という意味ですが、聖書の創世記に登場するロトの妻が振り返って塩の柱になったという逸話に由来する表現です。ここでは、皮肉を込めて「身動きが取れない状態」「頑固な状態」を指す比喩として使われています。"
+    },
+    {
+      "id": 63,
+      "value": "leaked it to the military",
+      "options": [
+        "軍にリークした",
+        "軍に隠した",
+        "軍を助けた",
+        "軍を攻撃した"
+      ],
+      "correctAnswer": "軍にリークした",
+      "explanation": "「leak」は、「漏洩する」「秘密を漏らす」という意味です。ここでは、大学関係者がハワードの情報を軍に漏らしたのではないか、という疑念を表しています。例: The information was leaked to the press. (その情報は報道機関にリークされた。)"
+    },
+    {
+      "id": 64,
+      "value": "get to the bottom of",
+      "options": [
+        "～の底に着く",
+        "～の原因を究明する",
+        "～の頂点に立つ",
+        "～の表面をなぞる"
+      ],
+      "correctAnswer": "～の原因を究明する",
+      "explanation": "「get to the bottom of」は、「～の真相を究明する」「～の原因を突き止める」という意味です。問題や事件などの根本的な原因を解明しようとする際に使われます。例: We need to get to the bottom of this mystery. (この謎の真相を究明する必要がある。)"
+    },
+    {
+      "id": 65,
+      "value": "dog-walking scam",
+      "options": [
+        "犬の散歩詐欺",
+        "猫の世話詐欺",
+        "宝くじ詐欺",
+        "投資詐欺"
+      ],
+      "correctAnswer": "犬の散歩詐欺",
+      "explanation": "「scam」は「詐欺」という意味です。「dog-walking scam」は、犬の散歩サービスに関する詐欺を指します。例えば、料金を支払ったのに犬の散歩をしてくれない、などのケースが考えられます。"
+    },
+    {
+      "id": 66,
+      "value": "twisted your thinking",
+      "options": [
+        "思考をねじ曲げた",
+        "思考を正常化した",
+        "思考を無視した",
+        "思考を促進した"
+      ],
+      "correctAnswer": "思考をねじ曲げた",
+      "explanation": "「twist」は「ねじる」「歪める」という意味です。「twisted your thinking」は「あなたの考えを歪めた」「思考をねじ曲げた」という意味になります。ここでは、映画やTVの影響で考え方がおかしくなっている、というニュアンスで使われています。"
+    },
+    {
+      "id": 67,
+      "value": "right on my tail",
+      "options": [
+        "すぐ後ろにいる",
+        "すぐ前にいる",
+        "遠く離れている",
+        "隣にいる"
+      ],
+      "correctAnswer": "すぐ後ろにいる",
+      "explanation": "「on someone's tail」は、「～のすぐ後ろにいる」「～を尾行している」という意味です。車などが非常に近い距離で後ろを走っている状況を表すのに使われます。例: The police were right on his tail. (警察は彼のすぐ後ろに迫っていた。)"
+    },
+    {
+      "id": 68,
+      "value": "turn with us",
+      "options": [
+        "一緒に回る",
+        "一緒に曲がる",
+        "一緒に踊る",
+        "一緒に歌う"
+      ],
+      "correctAnswer": "一緒に曲がる",
+      "explanation": "「turn with us」は、「私たちと一緒に曲がる」という意味です。ここでは、尾行されているかどうかを確認するために、同じ方向に曲がるかどうかを試す状況で使われています。文字通りの意味の他に、「協力する」「同調する」といった意味合いで使われることもあります。"
+    },
+    {
+      "id": 69,
+      "value": "traffic app",
+      "options": [
+        "交通アプリ",
+        "料理アプリ",
+        "ゲームアプリ",
+        "音楽アプリ"
+      ],
+      "correctAnswer": "交通アプリ",
+      "explanation": "「traffic app」は、交通情報をリアルタイムで提供するアプリケーションのことです。渋滞情報、事故情報、交通規制などを確認できます。カーナビゲーションアプリや、公共交通機関の運行情報アプリなどが含まれます。"
+    },
+    {
+      "id": 70,
+      "value": "losing him",
+      "options": [
+        "彼を失う",
+        "彼を見失う",
+        "彼を愛する",
+        "彼を助ける"
+      ],
+      "correctAnswer": "彼を見失う",
+      "explanation": "「lose」は、「失う」という意味の他に、「見失う」「聞き逃す」という意味もあります。「losing him」は、ここでは「彼を見失いそうだ」という意味で、尾行している車との距離が離れてしまっている状況を表しています。"
+    },
+    {
+      "id": 71,
+      "value": "What is his hurry?",
+      "options": [
+        "彼は何を急いでいるの？",
+        "彼は何を考えているの？",
+        "彼はどこに行くの？",
+        "彼は誰を待っているの？"
+      ],
+      "correctAnswer": "彼は何を急いでいるの？",
+      "explanation": "「What is his hurry?」は、「彼は何をそんなに急いでいるの？」という意味です。相手の行動が急ぎすぎているように感じるときに使われます。少し皮肉めいたニュアンスを含むこともあります。"
+    },
+    {
+      "id": 72,
+      "value": "get closer",
+      "options": [
+        "もっと近づいて",
+        "もっと離れて",
+        "もっと速く",
+        "もっとゆっくり"
+      ],
+      "correctAnswer": "もっと近づいて",
+      "explanation": "「get closer」は、「もっと近づく」「距離を縮める」という意味です。物理的な距離だけでなく、心理的な距離を表すこともあります。例: We need to get closer to our customers. (私たちは顧客との距離を縮める必要がある。)"
+    },
+    {
+      "id": 73,
+      "value": "coincidence",
+      "options": [
+        "必然",
+        "偶然",
+        "運命",
+        "計画"
+      ],
+      "correctAnswer": "偶然",
+      "explanation": "「coincidence」は、「偶然の一致」「同時発生」という意味です。予期せぬ出来事が同時に起こる、または似たような出来事が偶然に起こることを指します。例: It's just a coincidence that we met here. (ここで会ったのはただの偶然です。)"
+    },
+    {
+      "id": 74,
+      "value": "save something for the toast",
+      "options": [
+        "トーストのために何か取っておく",
+        "トーストを我慢する",
+        "トーストを捨てる",
+        "トーストを食べる"
+      ],
+      "correctAnswer": "トーストのために何か取っておく",
+      "explanation": "「save something for the toast」は、ここでは「感動的なスピーチの内容を後にとっておく」という意味合いで使われています。結婚式のトースト（祝辞）のために、とっておきの話を温存しておくように、という意味合いです。"
+    },
+    {
+      "id": 75,
+      "value": "the unerring Word of God",
+      "options": [
+        "神の過ち",
+        "神の言葉",
+        "神の沈黙",
+        "神の怒り"
+      ],
+      "correctAnswer": "神の言葉",
+      "explanation": "「unerring」は「間違いのない」「確実な」という意味です。「the unerring Word of God」は「神の絶対的な言葉」「神の真実の言葉」という意味で、宗教的な文脈で使われます。ここでは、聖書の記述に対する絶対的な信頼を表しています。"
+    },
+    {
+      "id": 76,
+      "value": "flash your lights",
+      "options": [
+        "ライトを消す",
+        "ライトを点滅させる",
+        "スピードを上げる",
+        "車を止める"
+      ],
+      "correctAnswer": "ライトを点滅させる",
+      "explanation": "「flash your lights」は、車のヘッドライトを短時間点滅させることを意味します。これは、他のドライバーに注意を促したり、合図を送ったりする際に使われます。例えば、前方の危険を警告したり、道を譲ってくれたことへの感謝を示したりするために使用されます。"
+    },
+    {
+      "id": 77,
+      "value": "pull over",
+      "options": [
+        "追い越す",
+        "停車する",
+        "スピードを上げる",
+        "道を譲る"
+      ],
+      "correctAnswer": "停車する",
+      "explanation": "「pull over」は、車を道路の脇に寄せて停車することを意味します。警察官が車を停止させる場合や、運転者が休憩を取りたい場合などに使われます。例えば、「The police officer signaled the car to pull over.（警察官は車に停止するよう合図した。）」のように使われます。"
+    },
+    {
+      "id": 78,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待つ",
+        "頑張る",
+        "諦める"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、様々な意味を持つイディオムですが、ここでは「ちょっと待って」という意味で使われています。緊急時や、相手に少しの間辛抱してほしい時に使われます。例えば、「Hang on, I'll be right back.（ちょっと待って、すぐに戻るから。）」のように使われます。"
+    },
+    {
+      "id": 79,
+      "value": "charming",
+      "options": [
+        "無愛想な",
+        "退屈な",
+        "魅力的な",
+        "失礼な"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「charming」は、人や場所、物などが非常に魅力的で、人を惹きつける性質を持っていることを表します。この単語は、相手に好印象を与え、友好的な雰囲気を作り出す際に使われます。例えば、「He is a charming man.（彼は魅力的な男性だ。）」のように使われます。"
+    },
+    {
+      "id": 80,
+      "value": "broke",
+      "options": [
+        "壊れた",
+        "裕福な",
+        "貧乏な",
+        "修理された"
+      ],
+      "correctAnswer": "貧乏な",
+      "explanation": "「broke」は、お金が全くない、または非常に少ない状態を表す口語的な表現です。一時的な金欠状態から、深刻な経済的困難まで、幅広い状況で使用されます。例えば、「I'm broke until payday.（給料日までお金がない。）」のように使われます。"
+    },
+    {
+      "id": 81,
+      "value": "What's keeping them?",
+      "options": [
+        "彼らは何を隠しているのか",
+        "彼らはどうしているのか",
+        "彼らは何を考えているのか",
+        "彼らを何が引き留めているのか"
+      ],
+      "correctAnswer": "彼らを何が引き留めているのか",
+      "explanation": "「What's keeping them?」は、誰かが遅れている理由や、何が彼らの到着を遅らせているのかを尋ねる際に使われる表現です。文字通りには「何が彼らを引き留めているのか」という意味になります。例えば、待ち合わせに遅れている人たちに対して使われます。"
+    },
+    {
+      "id": 82,
+      "value": "out to get me",
+      "options": [
+        "私を理解しようとしている",
+        "私を助けようとしている",
+        "私を陥れようとしている",
+        "私を無視しようとしている"
+      ],
+      "correctAnswer": "私を陥れようとしている",
+      "explanation": "「out to get me」は、誰か（または何か）が自分を困らせたり、傷つけたり、不利な状況に陥れようと企んでいる、という被害妄想的なニュアンスを含む表現です。特に、権力を持った存在や組織が個人を標的にしていると感じる際に使われます。例えば、「I feel like the IRS is out to get me.（国税庁が私を陥れようとしている気がする。）」のように使われます。"
+    },
+    {
+      "id": 83,
+      "value": "mated with",
+      "options": [
+        "喧嘩した",
+        "協力した",
+        "交配した",
+        "無視した"
+      ],
+      "correctAnswer": "交配した",
+      "explanation": "「mate with」は、動物や人間が配偶行動を行う、つまり交尾または結婚することを意味します。学術的な文脈や、生物学的な話題で使われることが多いです。ここではネアンデルタール人とホモサピエンスの異種交配について述べています。"
+    },
+    {
+      "id": 84,
+      "value": "lost without you",
+      "options": [
+        "あなたがいなくて寂しい",
+        "あなたがいなければ道に迷う",
+        "あなたがいなければ生きていけない",
+        "あなたがいなければ成功できない"
+      ],
+      "correctAnswer": "あなたがいなければ道に迷う",
+      "explanation": "「I'd be lost without you」は、相手の存在が自分にとって非常に重要であり、その人がいなければどうしていいかわからない、という意味を表す表現です。精神的な支えや、実質的な助けに対する感謝の気持ちを示す際に使われます。例えば、「I'd be lost without your guidance.（あなたの指導がなければ、私はどうしていいかわからないでしょう。）」のように使われます。"
+    },
+    {
+      "id": 85,
+      "value": "bride-to-be",
+      "options": [
+        "元妻",
+        "花嫁",
+        "未亡人",
+        "恋人"
+      ],
+      "correctAnswer": "花嫁",
+      "explanation": "「bride-to-be」は、結婚を控えている女性、つまり婚約者のことを指す言葉です。結婚式の準備や話題の中でよく使われます。例えば、「The bride-to-be is very excited about the wedding.（花嫁は結婚式をとても楽しみにしている。）」のように使われます。"
+    },
+    {
+      "id": 86,
+      "value": "Hear, hear",
+      "options": [
+        "聞こえない",
+        "賛成",
+        "反対",
+        "無視する"
+      ],
+      "correctAnswer": "賛成",
+      "explanation": "「Hear, hear」は、スピーチや意見に同意や賛成を示す際に使われる英語の感嘆詞です。主にイギリス英語で使用され、フォーマルな場面や公的な場でよく聞かれます。日本語の「その通り」「よく言った」に近いニュアンスです。"
+    },
+    {
+      "id": 87,
+      "value": "calm down",
+      "options": [
+        "興奮する",
+        "落ち着く",
+        "騒ぐ",
+        "無視する"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「calm down」は、感情が高ぶっている人や、パニックになっている人に対して、落ち着くように促す際に使われる表現です。状況を鎮静化させるためによく使われます。例えば、「Calm down, there's no need to panic.（落ち着いて、パニックになる必要はありません。）」のように使われます。"
+    },
+    {
+      "id": 88,
+      "value": "slow to anger",
+      "options": [
+        "怒りやすい",
+        "怒りに鈍感",
+        "怒りを抑える",
+        "怒りを煽る"
+      ],
+      "correctAnswer": "怒りを抑える",
+      "explanation": "「slow to anger」は、怒るのが遅い、つまり、すぐに怒らない、冷静さを保つという意味です。聖書の引用にもあるように、忍耐力や自制心の重要性を示す際に用いられます。例えば、「He is slow to anger and quick to forgive.（彼は怒るのが遅く、すぐに許す。）」のように使われます。"
+    },
+    {
+      "id": 89,
+      "value": "get on that",
+      "options": [
+        "それについて議論する",
+        "それを取り下げる",
+        "それに取り掛かる",
+        "それを忘れる"
+      ],
+      "correctAnswer": "それに取り掛かる",
+      "explanation": "「get on that」は、特定のタスクや仕事に取り掛かる、または始めるという意味を持つ口語的な表現です。提案や指示を受けて、すぐに実行に移すことを示す際に使われます。例えば、「We need to order the supplies, I'll get on that right away.（備品を注文する必要があります。すぐに取り掛かります。）」のように使われます。"
+    },
+    {
+      "id": 90,
+      "value": "call it a night",
+      "options": [
+        "夜更かしする",
+        "一晩中電話する",
+        "寝る時間にする",
+        "パーティーを始める"
+      ],
+      "correctAnswer": "寝る時間にする",
+      "explanation": "「call it a night」は、その日の活動を終えて、寝る時間にする、または帰ることを意味する一般的な表現です。特に、夜間の集まりやイベントの終わりに使われます。例えば、「It's getting late, let's call it a night.（遅くなってきたので、そろそろ終わりにしましょう。）」のように使われます。"
+    },
+    {
+      "id": 91,
+      "value": "tuckered out",
+      "options": [
+        "元気いっぱいの",
+        "疲れている",
+        "興奮している",
+        "退屈している"
+      ],
+      "correctAnswer": "疲れている",
+      "explanation": "「tuckered out」は、「tired」よりも少し口語的で、非常に疲れている、くたくたに疲れているという意味を表す表現です。特に、長い一日や激しい活動の後に使われます。例えば、「After hiking all day, I was really tuckered out.（一日中ハイキングをした後、本当にくたくたに疲れました。）」のように使われます。"
+    },
+    {
+      "id": 92,
+      "value": "nightcap",
+      "options": [
+        "帽子",
+        "寝酒",
+        "ナイトクラブ",
+        "夜食"
+      ],
+      "correctAnswer": "寝酒",
+      "explanation": "「nightcap」は、寝る前に飲む一杯のお酒、特にリラックス効果を期待して飲む軽いアルコール飲料を指します。しばしば、就寝前の習慣として行われます。例えば、「He always has a nightcap before going to bed.（彼はいつも寝る前に寝酒を飲む。）」のように使われます。"
+    },
+    {
+      "id": 93,
+      "value": "obvious",
+      "options": [
+        "明白な",
+        "曖昧な",
+        "複雑な",
+        "秘密の"
+      ],
+      "correctAnswer": "明白な",
+      "explanation": "「obvious」は、誰にとっても明らかで、容易に理解できるという意味を持つ形容詞です。議論の余地がないほど明白な事実や状況を指す際に使われます。例えば、「It's obvious that he is in love with her.（彼が彼女に恋をしているのは明らかだ。）」のように使われます。"
+    },
+    {
+      "id": 94,
+      "value": "texting me back",
+      "options": [
+        "電話をかけてくる",
+        "メールを送ってくる",
+        "テキストメッセージを返信する",
+        "手紙を書いてくる"
+      ],
+      "correctAnswer": "テキストメッセージを返信する",
+      "explanation": "「text back」は、テキストメッセージ（SMS）に対して返信することを意味します。現代のコミュニケーションにおいて非常に一般的な行為であり、迅速な応答が期待されることが多いです。例えば、「I texted her, but she hasn't texted me back yet.（彼女にテキストメッセージを送ったけど、まだ返信がない。）」のように使われます。"
+    }
+  ]
+}

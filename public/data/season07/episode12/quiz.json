@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "gonna",
+      "options": [
+        "行く",
+        "つもり",
+        "得る",
+        "与える"
+      ],
+      "correctAnswer": "つもり",
+      "explanation": "「gonna」は「going to」の口語的な短縮形で、未来の予定や意図を表します。日常会話で非常によく使われます。例：I'm gonna go to the store later.（後で店に行くつもりです。）"
+    },
+    {
+      "id": 2,
+      "value": "dreamboat",
+      "options": [
+        "夢の船",
+        "魅力的な人",
+        "豪華客船",
+        "冒険家"
+      ],
+      "correctAnswer": "魅力的な人",
+      "explanation": "「dreamboat」は、非常に魅力的で理想的な男性を指す俗語です。まるで夢に出てくるような完璧な人物、という意味合いが含まれます。例：He's such a dreamboat, every girl wants to date him."
+    },
+    {
+      "id": 3,
+      "value": "left to the imagination",
+      "options": [
+        "想像力に任せる",
+        "具体的に説明する",
+        "秘密にする",
+        "明らかにする"
+      ],
+      "correctAnswer": "想像力に任せる",
+      "explanation": "「left to the imagination」は、詳細をあえて語らず、聞き手や読み手の想像力に委ねるという意味です。しばしば、性的な事柄や暴力的な描写を婉曲的に表現する際に用いられます。例：The details of the crime were left to the imagination."
+    },
+    {
+      "id": 4,
+      "value": "set you up with",
+      "options": [
+        "設立する",
+        "紹介する",
+        "騙す",
+        "手伝う"
+      ],
+      "correctAnswer": "紹介する",
+      "explanation": "「set someone up with」は、誰かと誰かをデートさせるために紹介するという意味です。意図的に相手を探して引き合わせるニュアンスがあります。例：I can set you up with my friend who loves hiking."
+    },
+    {
+      "id": 5,
+      "value": "dumb down",
+      "options": [
+        "静かにする",
+        "馬鹿にする",
+        "簡単にする",
+        "無視する"
+      ],
+      "correctAnswer": "簡単にする",
+      "explanation": "「dumb down」は、複雑な事柄を理解しやすいように単純化または簡略化することを意味します。しばしば、内容が浅薄になるという否定的な意味合いを含みます。例：The article was dumbed down for a general audience."
+    },
+    {
+      "id": 6,
+      "value": "hysterical",
+      "options": [
+        "歴史的な",
+        "狂った",
+        "非常に面白い",
+        "悲劇的な"
+      ],
+      "correctAnswer": "非常に面白い",
+      "explanation": "「hysterical」は、ここでは「非常に面白い」という意味で使われています。元々はヒステリー状態を指す言葉ですが、口語的には、笑いが止まらないほど面白い、という意味合いで用いられることがあります。 例：The comedian was hysterical; the audience was roaring with laughter."
+    },
+    {
+      "id": 7,
+      "value": "zeroing in on",
+      "options": [
+        "焦点を合わせる",
+        "無視する",
+        "拡大する",
+        "避ける"
+      ],
+      "correctAnswer": "焦点を合わせる",
+      "explanation": "「zero in on」は、問題や目標に対して、注意や努力を集中させるという意味です。まるで照準を合わせるかのように、特定の点に絞り込んでいくニュアンスがあります。例：The police are zeroing in on the suspect."
+    },
+    {
+      "id": 8,
+      "value": "elicit",
+      "options": [
+        "違法な",
+        "引き出す",
+        "排除する",
+        "秘密にする"
+      ],
+      "correctAnswer": "引き出す",
+      "explanation": "「elicit」は、感情、反応、情報などを引き出す、誘い出すという意味です。努力や働きかけによって、何かを引き出すニュアンスがあります。例：The comedian tried to elicit laughter from the audience."
+    },
+    {
+      "id": 9,
+      "value": "tough crowd",
+      "options": [
+        "厳しい群衆",
+        "友好的な群衆",
+        "静かな群衆",
+        "騒々しい群衆"
+      ],
+      "correctAnswer": "厳しい群衆",
+      "explanation": "「tough crowd」は、笑わせたり、楽しませたりするのが難しい観客や聴衆を指します。反応が鈍かったり、批判的だったりする人々を指すことが多いです。例：The comedian bombed because it was a tough crowd."
+    },
+    {
+      "id": 10,
+      "value": "cool with",
+      "options": [
+        "冷たい",
+        "満足している",
+        "怒っている",
+        "反対している"
+      ],
+      "correctAnswer": "満足している",
+      "explanation": "「cool with」は、～に満足している、～を気にしない、という意味のスラングです。許可や同意を表す際にも使われます。 例：Are you cool with me borrowing your car?（君の車を借りてもいいかな？）"
+    },
+    {
+      "id": 11,
+      "value": "blew it",
+      "options": [
+        "吹き飛ばした",
+        "成功した",
+        "失敗した",
+        "忘れた"
+      ],
+      "correctAnswer": "失敗した",
+      "explanation": "「blew it」は、「台無しにする」「しくじる」という意味の口語表現です。チャンスや機会を逃した、という意味合いで使われます。 例：I had a job interview, but I blew it."
+    },
+    {
+      "id": 12,
+      "value": "intimidated",
+      "options": [
+        "脅迫された",
+        "興奮した",
+        "怖気づいた",
+        "喜んだ"
+      ],
+      "correctAnswer": "怖気づいた",
+      "explanation": "「intimidated」は、威圧されて怖気づく、気後れするという意味です。相手の力や権威、外見などに圧倒されるニュアンスがあります。 例：He was intimidated by his boss's reputation."
+    },
+    {
+      "id": 13,
+      "value": "uggos",
+      "options": [
+        "美しい人々",
+        "醜い人々",
+        "普通の人们",
+        "幸せな人々"
+      ],
+      "correctAnswer": "醜い人々",
+      "explanation": "「uggo」は「ugly」をさらに強調したスラングで、「不細工な人」や「醜い人」を指す非常に失礼な言葉です。容姿を侮辱する際に用いられます。使用は避けるべきです。"
+    },
+    {
+      "id": 14,
+      "value": "actual",
+      "options": [
+        "現実の",
+        "架空の",
+        "過去の",
+        "未来の"
+      ],
+      "correctAnswer": "現実の",
+      "explanation": "「actual」は、「現実の」「実際の」という意味で、何か真実で本物であることを強調する際に使用されます。例文：We need to focus on the actual problems, not the imagined ones."
+    },
+    {
+      "id": 15,
+      "value": "thanks to",
+      "options": [
+        "のおかげで",
+        "のせいで",
+        "に反対して",
+        "に関係なく"
+      ],
+      "correctAnswer": "のおかげで",
+      "explanation": "「thanks to」は、「〜のおかげで」という意味で、良い結果や出来事の理由を説明する際に使用されます。例文：Thanks to your help, we finished the project on time."
+    },
+    {
+      "id": 16,
+      "value": "flirt",
+      "options": [
+        "けんかする",
+        "無視する",
+        "愛想を振りまく",
+        "議論する"
+      ],
+      "correctAnswer": "愛想を振りまく",
+      "explanation": "「flirt」は、「愛想を振りまく」「冗談を言い合う」という意味で、軽い愛情や興味を示す行為を指します。例文：She likes to flirt with the guys at the office."
+    },
+    {
+      "id": 17,
+      "value": "a brief oral narrative with a climactic humorous twist",
+      "options": [
+        "短い口頭での物語と高潮のユーモラスな展開",
+        "長い口頭での物語と悲劇的な展開",
+        "短い書面での物語と感動的な展開",
+        "長い書面での物語と哲学的な展開"
+      ],
+      "correctAnswer": "短い口頭での物語と高潮のユーモラスな展開",
+      "explanation": "「a brief oral narrative with a climactic humorous twist」は、ユーモアのあるひねりを伴った短い口頭での物語、つまり「ジョーク」の定義です。話の最後に予想外の面白い展開があることが重要です。"
+    },
+    {
+      "id": 18,
+      "value": "steal food",
+      "options": [
+        "料理を盗む",
+        "料理を注文する",
+        "料理を作る",
+        "料理を捨てる"
+      ],
+      "correctAnswer": "料理を盗む",
+      "explanation": "「steal food」は、文字通りには「食べ物を盗む」という意味ですが、ここではPennyがCheesecake Factoryで働く従業員として、店から食べ物をこっそり持ち出すことを冗談めかして言っています。"
+    },
+    {
+      "id": 19,
+      "value": "behave like an object",
+      "options": [
+        "物のように振る舞う",
+        "人のように振る舞う",
+        "動物のように振る舞う",
+        "天使のように振る舞う"
+      ],
+      "correctAnswer": "物のように振る舞う",
+      "explanation": "「behave like an object」は、人間がまるで物であるかのように、機械的または予測可能な行動をすることを指します。哲学者のアンリ・ベルクソンは、これがユーモアの源泉であると考えました。"
+    },
+    {
+      "id": 20,
+      "value": "set on",
+      "options": [
+        "設定する",
+        "熱中している",
+        "反対する",
+        "忘れる"
+      ],
+      "correctAnswer": "熱中している",
+      "explanation": "「set on」は、何かに熱中している、決意しているという意味です。特定の目標や考えに固執している状態を表します。例：She is set on becoming a doctor."
+    },
+    {
+      "id": 21,
+      "value": "practice",
+      "options": [
+        "練習",
+        "完璧",
+        "理論",
+        "休憩"
+      ],
+      "correctAnswer": "練習",
+      "explanation": "「practice」は、技術や能力を向上させるために繰り返し行うことを意味します。ここでは、Rajが女性と話すことに慣れるために、他の人と話す練習をすることを勧めています。 例：You need to practice speaking English to improve."
+    },
+    {
+      "id": 22,
+      "value": "in his own way",
+      "options": [
+        "彼自身の方法で",
+        "一般的に",
+        "全く違う方法で",
+        "完全に"
+      ],
+      "correctAnswer": "彼自身の方法で",
+      "explanation": "「in his own way」は、誰かが独自のやり方で何かを行うこと、または独自の特徴や魅力を持っていることを意味します。 Stuartが他の人とは違う、独特の魅力を持っていることをBernadetteが慰めるために使っています。"
+    },
+    {
+      "id": 23,
+      "value": "for a second",
+      "options": [
+        "永遠に",
+        "一瞬",
+        "毎日",
+        "いつも"
+      ],
+      "correctAnswer": "一瞬",
+      "explanation": "「for a second」は、「一瞬たりとも〜ない」のように否定文で使われることが多いです。ここでは、HowardがRajがStuart以外の人をデートに誘うとは全く思わなかったことを強調しています。 例：I didn't believe him for a second."
+    },
+    {
+      "id": 24,
+      "value": "talking to attractive girls",
+      "options": [
+        "魅力的な女の子と話す",
+        "魅力的な男の子と話す",
+        "普通の人と話す",
+        "動物と話す"
+      ],
+      "correctAnswer": "魅力的な女の子と話す",
+      "explanation": "「talking to attractive girls」は、Rajが苦手としている、魅力的な女性と話すことを指します。彼は緊張してしまい、うまく話せないことが多いです。"
+    },
+    {
+      "id": 25,
+      "value": "panicked",
+      "options": [
+        "落ち着いた",
+        "興奮した",
+        "パニックになった",
+        "冷静になった"
+      ],
+      "correctAnswer": "パニックになった",
+      "explanation": "「panicked」は、突然の恐怖や不安に襲われてパニック状態になることを意味します。Rajは魅力的な女性に話しかけられた際、緊張と不安でパニックになってしまいました。 例：He panicked when he realized he was lost."
+    },
+    {
+      "id": 26,
+      "value": "have guts",
+      "options": [
+        "勇気がある",
+        "太っている",
+        "病気である",
+        "疲れている"
+      ],
+      "correctAnswer": "勇気がある",
+      "explanation": "「have guts」は、困難な状況や危険な状況に立ち向かう勇気や根性があるという意味です。勇気を必要とする決断や行動を評価する際に使われます。"
+    },
+    {
+      "id": 27,
+      "value": "shh",
+      "options": [
+        "こんにちは",
+        "静かに",
+        "さようなら",
+        "ありがとう"
+      ],
+      "correctAnswer": "静かに",
+      "explanation": "「shh」は、人に静かにするように促すときに発する言葉です。会話を中断させたり、騒音を止めさせたりする意図で使用されます。日本語の「しーっ」に相当します。"
+    },
+    {
+      "id": 28,
+      "value": "stinks",
+      "options": [
+        "素晴らしい",
+        "嫌だ",
+        "香りが良い",
+        "役に立つ"
+      ],
+      "correctAnswer": "嫌だ",
+      "explanation": "「stinks」は、文字通りには「悪臭がする」という意味ですが、比喩的には「ひどい」「最悪だ」「つまらない」といった意味で使われます。不快な状況や出来事に対して使われる口語表現です。"
+    },
+    {
+      "id": 29,
+      "value": "make sense",
+      "options": [
+        "理解できる",
+        "意味をなさない",
+        "腹を立てる",
+        "冗談を言う"
+      ],
+      "correctAnswer": "理解できる",
+      "explanation": "「make sense」は、「意味をなす」「理解できる」「納得できる」という意味のイディオムです。何かが論理的で、理解可能であることを示す際に使われます。"
+    },
+    {
+      "id": 30,
+      "value": "tickle some ribs",
+      "options": [
+        "喜ばせる",
+        "苦しめる",
+        "混乱させる",
+        "悲しませる"
+      ],
+      "correctAnswer": "喜ばせる",
+      "explanation": "「tickle someone's ribs」は、「～をくすぐる」という意味ですが、比喩的には「～を笑わせる」「～を面白がらせる」という意味で使われます。ユーモアやジョークで人を笑わせる状況を指します。"
+    },
+    {
+      "id": 31,
+      "value": "cut out of",
+      "options": [
+        "参加する",
+        "除外する",
+        "追加する",
+        "編集する"
+      ],
+      "correctAnswer": "除外する",
+      "explanation": "「cut someone out of something」は、人がある活動や状況から除外される、または削除されるという意味です。映画やテレビのシーンが編集でカットされる場合などにも使われます。"
+    },
+    {
+      "id": 32,
+      "value": "day pass",
+      "options": [
+        "無料券",
+        "一日券",
+        "定期券",
+        "割引券"
+      ],
+      "correctAnswer": "一日券",
+      "explanation": "「day pass」は、特定の施設や場所への一日入場券、または一時的な外出許可を意味します。ここでは、リハビリ施設からの一時的な外出許可を指します。"
+    },
+    {
+      "id": 33,
+      "value": "humiliating",
+      "options": [
+        "屈辱的な",
+        "喜ばしい",
+        "感動的な",
+        "面白い"
+      ],
+      "correctAnswer": "屈辱的な",
+      "explanation": "「humiliating」は、「恥ずかしい」「屈辱的な」という意味です。自分の失敗や弱点が公になり、恥ずかしい思いをする状況を表します。"
+    },
+    {
+      "id": 34,
+      "value": "accomplishment",
+      "options": [
+        "達成",
+        "失敗",
+        "努力",
+        "計画"
+      ],
+      "correctAnswer": "達成",
+      "explanation": "「accomplishment」は、「達成」「業績」「成功」という意味です。目標を達成したり、何かを成し遂げたりすることを指します。"
+    },
+    {
+      "id": 35,
+      "value": "break",
+      "options": [
+        "休憩",
+        "好機",
+        "崩壊",
+        "秘密"
+      ],
+      "correctAnswer": "好機",
+      "explanation": "「break」は、ここでは「（成功への）きっかけ」「好機」という意味で使われています。芸能界での成功につながる機会を指します。"
+    },
+    {
+      "id": 36,
+      "value": "lead to",
+      "options": [
+        "引き起こす",
+        "終わらせる",
+        "妨げる",
+        "隠す"
+      ],
+      "correctAnswer": "引き起こす",
+      "explanation": "「lead to」は、「～につながる」「～を引き起こす」という意味です。ある行動や出来事が、別の結果や状況をもたらすことを示します。"
+    },
+    {
+      "id": 37,
+      "value": "unbelievable",
+      "options": [
+        "信じられない",
+        "素晴らしい",
+        "退屈な",
+        "簡単な"
+      ],
+      "correctAnswer": "信じられない",
+      "explanation": "「unbelievable」は、「信じられない」「ありえない」という意味です。驚きや不信感を表現する際に使われます。良い意味でも悪い意味でも使われます。"
+    },
+    {
+      "id": 38,
+      "value": "what it takes",
+      "options": [
+        "必要なもの",
+        "意味するもの",
+        "失うもの",
+        "与えるもの"
+      ],
+      "correctAnswer": "必要なもの",
+      "explanation": "「have what it takes」は、「～に必要な資質や能力を持っている」という意味です。成功するために必要な才能、スキル、根性などを指します。"
+    },
+    {
+      "id": 39,
+      "value": "odds",
+      "options": [
+        "確率",
+        "偶然",
+        "奇数",
+        "意見"
+      ],
+      "correctAnswer": "確率",
+      "explanation": "「odds」は、「見込み」「可能性」「確率」という意味です。特に、成功や勝利の可能性が低い場合に使われます。"
+    },
+    {
+      "id": 40,
+      "value": "component",
+      "options": [
+        "要素",
+        "全体",
+        "結果",
+        "問題"
+      ],
+      "correctAnswer": "要素",
+      "explanation": "「component」は、「構成要素」「部品」「要素」という意味です。全体を構成する一部を指します。"
+    },
+    {
+      "id": 41,
+      "value": "element",
+      "options": [
+        "要素",
+        "全体",
+        "結果",
+        "問題"
+      ],
+      "correctAnswer": "要素",
+      "explanation": "「element」は、「要素」「成分」「元素」という意味です。ここでは、ユーモアを構成する要素の一つとして「驚き」が挙げられています。"
+    },
+    {
+      "id": 42,
+      "value": "anticipation",
+      "options": [
+        "期待",
+        "後悔",
+        "記憶",
+        "無視"
+      ],
+      "correctAnswer": "期待",
+      "explanation": "「anticipation」は、「予想」「期待」「予期」という意味です。未来に起こることを予想したり、期待したりする気持ちを表します。"
+    },
+    {
+      "id": 43,
+      "value": "resources",
+      "options": [
+        "資源",
+        "結果",
+        "障害",
+        "報酬"
+      ],
+      "correctAnswer": "資源",
+      "explanation": "「resources」は、「資源」「資金」「手段」という意味です。目的を達成するために利用できるもの全般を指します。"
+    },
+    {
+      "id": 44,
+      "value": "rewire",
+      "options": [
+        "再配線する",
+        "修理する",
+        "削除する",
+        "追加する"
+      ],
+      "correctAnswer": "再配線する",
+      "explanation": "「rewire」は、「再配線する」「（考え方などを）変える」という意味です。文字通り電気配線を変更する意味と、比喩的に考え方や行動パターンを変える意味があります。"
+    },
+    {
+      "id": 45,
+      "value": "prequel",
+      "options": [
+        "続編",
+        "前編",
+        "最終回",
+        "特別版"
+      ],
+      "correctAnswer": "前編",
+      "explanation": "「prequel」は、「前編」「前日譚」という意味です。すでに発表された作品より時間的に前の出来事を描いた作品を指します。"
+    },
+    {
+      "id": 46,
+      "value": "tragety",
+      "options": [
+        "悲劇",
+        "喜劇",
+        "ドラマ",
+        "ロマンス"
+      ],
+      "correctAnswer": "悲劇",
+      "explanation": "「tragedy」は、「悲劇」という意味です。不幸な出来事や悲惨な結末を伴う物語や状況を指します。"
+    },
+    {
+      "id": 47,
+      "value": "relatives",
+      "options": [
+        "親戚",
+        "友達",
+        "同僚",
+        "隣人"
+      ],
+      "correctAnswer": "親戚",
+      "explanation": "「relatives」は、「親戚」という意味です。血縁関係や婚姻関係にある人々を指します。"
+    },
+    {
+      "id": 48,
+      "value": "shooting for",
+      "options": [
+        "目指す",
+        "諦める",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "目指す",
+      "explanation": "「shoot for」は、「～を目指す」「～を狙う」という意味です。目標を達成するために努力することを表します。"
+    },
+    {
+      "id": 49,
+      "value": "lesions",
+      "options": [
+        "病変",
+        "健康",
+        "治療",
+        "予防"
+      ],
+      "correctAnswer": "病変",
+      "explanation": "「lesions」は、「病変」「損傷」という意味です。組織や器官に生じた異常や損傷を指します。"
+    },
+    {
+      "id": 50,
+      "value": "uncomfortable",
+      "options": [
+        "不快な",
+        "快適な",
+        "安全な",
+        "楽しい"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「uncomfortable」は、「不快な」「心地よくない」「不安な」という意味です。物理的な不快感だけでなく、精神的な不快感を表すこともあります。"
+    },
+    {
+      "id": 51,
+      "value": "stick up your prefrontal cortex",
+      "options": [
+        "前頭前皮質を活性化させる",
+        "前頭前皮質を傷つける",
+        "頭が固い、融通が利かない",
+        "集中力を高める"
+      ],
+      "correctAnswer": "頭が固い、融通が利かない",
+      "explanation": "「have a stick up one's ass」というイディオムの変形で、人が堅苦しく、ユーモアを理解できない、または融通が利かない様子を指します。前頭前皮質は思考や感情を司る脳の部分であるため、ユーモアを理解できない状態を比喩的に表現しています。"
+    },
+    {
+      "id": 52,
+      "value": "definitive theory",
+      "options": [
+        "暫定的な理論",
+        "未完成な理論",
+        "最終的な理論",
+        "誤った理論"
+      ],
+      "correctAnswer": "最終的な理論",
+      "explanation": "「definitive」は、最終的、決定的という意味です。この文脈では、コメディに関する最終的な理論、つまり議論の余地がないほど完璧な理論というニュアンスで使用されています。"
+    },
+    {
+      "id": 53,
+      "value": "work our way up to",
+      "options": [
+        "徐々にレベルアップする",
+        "すぐに到達する",
+        "諦めてしまう",
+        "元の場所に戻る"
+      ],
+      "correctAnswer": "徐々にレベルアップする",
+      "explanation": "「work one's way up to」は、徐々に努力してあるレベルや目標に到達するという意味です。この文脈では、普通の女の子から始めて、徐々に可愛い女の子に話しかけるレベルまで上げていくというニュアンスです。"
+    },
+    {
+      "id": 54,
+      "value": "on any level",
+      "options": [
+        "どんなレベルでも",
+        "高レベルでは",
+        "低レベルでは",
+        "表面上は"
+      ],
+      "correctAnswer": "どんなレベルでも",
+      "explanation": "「on any level」は、どのような観点から見ても、という意味です。ここでは、見た目について尋ねているので、「どんな見た目でも」という意味合いになります。"
+    },
+    {
+      "id": 55,
+      "value": "rocking out",
+      "options": [
+        "休憩する",
+        "演奏に熱中する",
+        "落ち込む",
+        "静かにする"
+      ],
+      "correctAnswer": "演奏に熱中する",
+      "explanation": "「rock out」は、ロック音楽などを演奏して楽しむ、熱中するという意味です。特に、エネルギッシュな演奏やパフォーマンスを指すことが多いです。"
+    },
+    {
+      "id": 56,
+      "value": "erectile dysfunction",
+      "options": [
+        "性的不能",
+        "性的絶頂",
+        "性的興奮",
+        "性的魅力"
+      ],
+      "correctAnswer": "性的不能",
+      "explanation": "「erectile dysfunction」は、勃起不全という意味です。ここでは、年老いたバンドメンバーの性的問題をジョークとして表現しています。"
+    },
+    {
+      "id": 57,
+      "value": "crappy",
+      "options": [
+        "素晴らしい",
+        "ひどい",
+        "普通の",
+        "退屈な"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「crappy」は、くだらない、ひどい、質の悪いという意味です。この文脈では、LeonardがPennyの夢を応援せずに、オーディションを勝手に手配したことを反省して使っています。"
+    },
+    {
+      "id": 58,
+      "value": "make it",
+      "options": [
+        "成功する",
+        "失敗する",
+        "諦める",
+        "努力する"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「make it」は、成功するという意味です。この文脈では、女優として成功することを指しています。"
+    },
+    {
+      "id": 59,
+      "value": "PR stunt",
+      "options": [
+        "広報活動",
+        "スタント",
+        "内密な作戦",
+        "個人的な趣味"
+      ],
+      "correctAnswer": "広報活動",
+      "explanation": "「PR stunt」は、人々の注目を集めるための広報活動や宣伝活動のことです。しばしば、話題性や意外性を狙ったイベントや企画を指します。"
+    },
+    {
+      "id": 60,
+      "value": "long shot",
+      "options": [
+        "短い距離",
+        "可能性が低い試み",
+        "簡単な目標",
+        "安全な選択"
+      ],
+      "correctAnswer": "可能性が低い試み",
+      "explanation": "「long shot」は、成功する可能性が非常に低い試みや挑戦を意味します。競馬で、的中させるのが難しい高配当の馬券を指すことから来ています。"
+    },
+    {
+      "id": 61,
+      "value": "exhaust port",
+      "options": [
+        "排気口",
+        "吸気口",
+        "非常口",
+        "秘密の通路"
+      ],
+      "correctAnswer": "排気口",
+      "explanation": "「exhaust port」は、排気口という意味です。ここでは、映画「スター・ウォーズ」に登場するデス・スターの弱点を指しています。"
+    },
+    {
+      "id": 62,
+      "value": "speed-walking",
+      "options": [
+        "ゆっくり歩く",
+        "急いで歩く",
+        "スキップする",
+        "立ち止まる"
+      ],
+      "correctAnswer": "急いで歩く",
+      "explanation": "「speed-walking」は、速歩、競歩という意味です。ここでは、運動のために速いペースで歩いている女性を指しています。"
+    },
+    {
+      "id": 63,
+      "value": "stuck-up",
+      "options": [
+        "謙虚な",
+        "高慢な",
+        "友好的な",
+        "控えめな"
+      ],
+      "correctAnswer": "高慢な",
+      "explanation": "「stuck-up」は、高慢な、気取ったという意味です。ここでは、マネキンがおしゃれな服を着ているため、高飛車な態度であると冗談めかして言っています。"
+    },
+    {
+      "id": 64,
+      "value": "no matter who it is",
+      "options": [
+        "誰であろうと",
+        "特定の人物",
+        "重要な人物",
+        "誰もいない"
+      ],
+      "correctAnswer": "誰であろうと",
+      "explanation": "「no matter who it is」は、誰であろうと、誰でも構わないという意味です。ここでは、誰でもいいから話しかけるという切迫した状況を表しています。"
+    },
+    {
+      "id": 65,
+      "value": "exhausting",
+      "options": [
+        "面白い",
+        "刺激的な",
+        "疲れる",
+        "簡単な"
+      ],
+      "correctAnswer": "疲れる",
+      "explanation": "「exhausting」は、人を疲れさせる、消耗させるという意味です。ここでは、シェルドンのユーモアの実験に付き合うのが疲れると言っています。"
+    },
+    {
+      "id": 66,
+      "value": "fake a laugh",
+      "options": [
+        "作り笑いをする",
+        "本気で笑う",
+        "笑いを我慢する",
+        "泣き出す"
+      ],
+      "correctAnswer": "作り笑いをする",
+      "explanation": "「fake a laugh」は、作り笑いをするという意味です。相手を傷つけないために、本当は面白くなくても笑うことを指します。"
+    },
+    {
+      "id": 67,
+      "value": "uncontrollably",
+      "options": [
+        "抑制して",
+        "制御不能に",
+        "静かに",
+        "悲しそうに"
+      ],
+      "correctAnswer": "制御不能に",
+      "explanation": "「uncontrollably」は、制御不能に、抑えきれずにという意味です。ここでは、ハワードの冗談に対して、バーナデットが笑いをこらえきれずに笑っている様子を表しています。"
+    },
+    {
+      "id": 68,
+      "value": "long-stemmed",
+      "options": [
+        "短い茎の",
+        "長い茎の",
+        "香りの良い",
+        "枯れた"
+      ],
+      "correctAnswer": "長い茎の",
+      "explanation": "「long-stemmed」は、長い茎のという意味です。ここでは、バラの花束の種類を説明しています。"
+    },
+    {
+      "id": 69,
+      "value": "idiotic",
+      "options": [
+        "賢明な",
+        "ばかげた",
+        "興味深い",
+        "感動的な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「idiotic」は、ばかげた、愚かなという意味です。ここでは、レナードが計画したStar Warsのオーディションを批判するために使おうとしました。"
+    },
+    {
+      "id": 70,
+      "value": "falling apart",
+      "options": [
+        "順調に進んでいる",
+        "崩壊しつつある",
+        "安定している",
+        "改善している"
+      ],
+      "correctAnswer": "崩壊しつつある",
+      "explanation": "「fall apart」は、崩壊する、だめになるという意味です。ここでは、ペニーが自分のキャリアがうまくいっていないと感じている状態を表しています。"
+    },
+    {
+      "id": 71,
+      "value": "brain lesions",
+      "options": [
+        "脳の活性化",
+        "脳の病変",
+        "脳の成長",
+        "脳の休息"
+      ],
+      "correctAnswer": "脳の病変",
+      "explanation": "「brain lesion」は、脳の損傷、病変という意味です。シェルドンが冗談で使っており、相手を驚かせる意図があります。"
+    },
+    {
+      "id": 72,
+      "value": "come up with",
+      "options": [
+        "見つける",
+        "思いつく",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "思いつく",
+      "explanation": "「come up with」は、アイデアや解決策などを思いつく、考え出すという意味です。ここでは、コメディの理論を考え出すことを指しています。"
+    },
+    {
+      "id": 73,
+      "value": "regular people",
+      "options": [
+        "特別な人々",
+        "普通の人々",
+        "有名な人々",
+        "成功した人々"
+      ],
+      "correctAnswer": "普通の人々",
+      "explanation": "「regular people」は、普通の人々、一般の人々という意味です。ここでは、可愛い女の子と話す前に、普通の女の子と話す練習をするという文脈で使われています。"
+    },
+    {
+      "id": 74,
+      "value": "the basis of",
+      "options": [
+        "〜の基礎",
+        "〜の結果",
+        "〜の目的",
+        "〜の代替"
+      ],
+      "correctAnswer": "〜の基礎",
+      "explanation": "「the basis of」は、〜の基礎、〜の根拠という意味です。ここでは、ユーモアの根源を科学的に解明しようとしているシェルドンの行動を指しています。"
+    },
+    {
+      "id": 75,
+      "value": "call you back",
+      "options": [
+        "あなたを呼ぶ",
+        "電話をかけ直す",
+        "あなたを訪問する",
+        "あなたに手紙を書く"
+      ],
+      "correctAnswer": "電話をかけ直す",
+      "explanation": "「call back」は、電話をかけ直すという意味です。ここでは、レナードが電話中にペニーが来たため、電話を中断して後でかけ直すことを伝えています。"
+    },
+    {
+      "id": 76,
+      "value": "temp job",
+      "options": [
+        "正社員の仕事",
+        "一時的な仕事",
+        "管理職の仕事",
+        "クリエイティブな仕事"
+      ],
+      "correctAnswer": "一時的な仕事",
+      "explanation": "「temp job」は、temporary jobの略で、一時的な仕事、派遣の仕事を指します。多くの場合、数日から数ヶ月程度の期間で、特定のプロジェクトや繁忙期の人手不足を補うために雇用されます。例：She took a temp job at an accounting firm to earn some extra money."
+    },
+    {
+      "id": 77,
+      "value": "big break",
+      "options": [
+        "大きな休憩",
+        "大きな失敗",
+        "大きなチャンス",
+        "大きな負担"
+      ],
+      "correctAnswer": "大きなチャンス",
+      "explanation": "「big break」は、成功への大きなきっかけ、飛躍のチャンスを意味します。芸能界やスポーツ界など、競争の激しい分野で成功を掴むための重要な機会を指すことが多いです。例：Landing the lead role in the movie was her big break."
+    },
+    {
+      "id": 78,
+      "value": "a mess",
+      "options": [
+        "成功者",
+        "混乱した状態",
+        "几帳面な人",
+        "冷静な人"
+      ],
+      "correctAnswer": "混乱した状態",
+      "explanation": "「a mess」は、物理的な散らかり具合だけでなく、精神的な混乱や困難な状況を表す言葉としても使われます。人の場合、感情的に不安定で、どうしていいかわからない状態を指します。例：After the breakup, she was a complete mess."
+    },
+    {
+      "id": 79,
+      "value": "minor setback",
+      "options": [
+        "些細な進歩",
+        "重大な前進",
+        "些細な後退",
+        "重大な後退"
+      ],
+      "correctAnswer": "些細な後退",
+      "explanation": "「minor setback」は、目標達成の過程で起こる小さな障害や遅れを意味します。深刻な問題ではなく、一時的なもので、すぐに乗り越えられる程度のものを指します。例：The project suffered a minor setback due to a technical issue."
+    },
+    {
+      "id": 80,
+      "value": "nothing to show for it",
+      "options": [
+        "見せるものがたくさんある",
+        "何も成果がない",
+        "隠すものがない",
+        "すべて順調である"
+      ],
+      "correctAnswer": "何も成果がない",
+      "explanation": "「have nothing to show for it」は、時間や努力を費やしたにもかかわらず、目に見える成果や結果が何もない状態を表します。落胆や失望の気持ちを伴うことが多い表現です。例：After years of working at the company, he had nothing to show for it."
+    },
+    {
+      "id": 81,
+      "value": "offer's off the table",
+      "options": [
+        "提案を受け入れる",
+        "提案を取り下げる",
+        "提案を検討する",
+        "提案を修正する"
+      ],
+      "correctAnswer": "提案を取り下げる",
+      "explanation": "「off the table」は、提案や計画が取り下げられ、検討の対象から外れることを意味します。交渉や議論の際に、合意に至らなかったり、状況が変わったりした場合に使われます。例：Since they couldn't agree on the terms, the deal was off the table."
+    },
+    {
+      "id": 82,
+      "value": "promiscuous",
+      "options": [
+        "禁欲的な",
+        "不特定多数と関係を持つ",
+        "貞淑な",
+        "誠実な"
+      ],
+      "correctAnswer": "不特定多数と関係を持つ",
+      "explanation": "「promiscuous」は、特に性的な関係において、多くの相手と関係を持つことを意味します。この言葉はしばしば否定的な意味合いで使用され、軽率さや無責任さを暗示することがあります。例：The character in the novel was portrayed as promiscuous and irresponsible."
+    },
+    {
+      "id": 83,
+      "value": "pathetic",
+      "options": [
+        "感動的な",
+        "哀れな",
+        "勇敢な",
+        "魅力的な"
+      ],
+      "correctAnswer": "哀れな",
+      "explanation": "「pathetic」は、哀れな、情けない、無様なという意味を持ちます。人の状態や行動が、弱々しく、同情を誘うような場合に使われます。しばしば軽蔑や嘲笑のニュアンスを含みます。例：He looked pathetic trying to fix the broken car."
+    },
+    {
+      "id": 84,
+      "value": "smooth",
+      "options": [
+        "滑らかな",
+        "荒い",
+        "ぎこちない",
+        "下手な"
+      ],
+      "correctAnswer": "滑らかな",
+      "explanation": "この文脈での「smooth」は、人が洗練されていて、自信に満ちた様子を表します。また、行動や会話がスムーズで、相手を魅了するようなニュアンスも含まれます。例：He's a smooth talker; he can convince anyone of anything."
+    },
+    {
+      "id": 85,
+      "value": "Can't sleep?",
+      "options": [
+        "眠れないの？",
+        "よく眠れた？",
+        "寝たくないの？",
+        "眠りたいの？"
+      ],
+      "correctAnswer": "眠れないの？",
+      "explanation": "「Can't sleep?」は、相手が眠れない状態にあることを確認する時に使う表現です。心配や共感の気持ちを込めて使われることが多いです。例：You look tired. Can't sleep?"
+    },
+    {
+      "id": 86,
+      "value": "kick me sign",
+      "options": [
+        "褒め言葉",
+        "応援メッセージ",
+        "からかいの標的",
+        "感謝の印"
+      ],
+      "correctAnswer": "からかいの標的",
+      "explanation": "「kick me sign」は、背中に「私を蹴って」と書かれた紙を貼るイタズラから来ており、からかいや嘲笑の対象にされることを意味します。自嘲的な意味合いで使われることもあります。例：I felt like I had a kick me sign on my back when I made that mistake in the meeting."
+    },
+    {
+      "id": 87,
+      "value": "take one",
+      "options": [
+        "休憩",
+        "最初の一歩",
+        "再挑戦",
+        "最後のチャンス"
+      ],
+      "correctAnswer": "最初の一歩",
+      "explanation": "この文脈での「take one」は、映画やテレビの撮影で、シーンの最初のリハーサルやテイクを意味します。これから撮影を始めるぞ、という合図として使われます。例：Okay, everyone, quiet on the set. Take one!"
+    },
+    {
+      "id": 88,
+      "value": "forever ago",
+      "options": [
+        "ごく最近",
+        "永遠に",
+        "ずっと前",
+        "すぐに"
+      ],
+      "correctAnswer": "ずっと前",
+      "explanation": "「forever ago」は、非常に長い時間が経過したことを強調する表現です。単に「long ago」と言うよりも、さらに過去の出来事であることを伝えたいときに使います。例えば、「I met her forever ago.（彼女に会ったのはずっと昔のことだ）」のように使われます。"
+    },
+    {
+      "id": 89,
+      "value": "goes away",
+      "options": [
+        "近づく",
+        "消える",
+        "続く",
+        "現れる"
+      ],
+      "correctAnswer": "消える",
+      "explanation": "「goes away」は、文字通りには「どこかへ行く」という意味ですが、ここでは機会やチャンスが失われる、なくなるという意味で使われています。例えば、「My chance goes away.（私のチャンスはなくなる）」のように使われます。"
+    },
+    {
+      "id": 90,
+      "value": "pant leg",
+      "options": [
+        "ズボンのベルト",
+        "ズボンのポケット",
+        "ズボンの裾",
+        "ズボンのウエスト"
+      ],
+      "correctAnswer": "ズボンの裾",
+      "explanation": "「pant leg」は、ズボンの片方の脚の部分を指します。特定のズボンの部分を指す場合に便利な表現です。例えば、「There's a hole in my pant leg.（ズボンの裾に穴が開いている）」のように使われます。"
+    },
+    {
+      "id": 91,
+      "value": "walk into a bar",
+      "options": [
+        "バーを経営する",
+        "バーで働く",
+        "バーに入る",
+        "バーを閉める"
+      ],
+      "correctAnswer": "バーに入る",
+      "explanation": "「walk into a bar」は、文字通り「バーに入る」という意味ですが、ジョークの導入部としてよく使われます。このフレーズの後に、意外な展開やユーモラスな結末が続くことが多いです。例えば、「A man walks into a bar...（男がバーに入ると...）」のように使われます。"
+    },
+    {
+      "id": 92,
+      "value": "closing",
+      "options": [
+        "開店",
+        "閉店",
+        "改装",
+        "セール"
+      ],
+      "correctAnswer": "閉店",
+      "explanation": "「closing」は、ここでは「閉店」という意味で使われています。店や施設が営業を終える時間を指します。例えば、「The mall is closing soon.（モールはもうすぐ閉店です）」のように使われます。"
+    },
+    {
+      "id": 93,
+      "value": "all right",
+      "options": [
+        "最悪",
+        "普通",
+        "最高",
+        "素晴らしい"
+      ],
+      "correctAnswer": "普通",
+      "explanation": "「all right」は、ここでは「まあまあ」「普通」という意味で使われています。必ずしも満足しているわけではないけれど、特に不満もないというニュアンスが含まれます。例えば、「How are you? - I'm all right.（元気ですか？ - まあまあです）」のように使われます。"
+    },
+    {
+      "id": 94,
+      "value": "make some dumb joke",
+      "options": [
+        "賢いジョークを言う",
+        "深刻な話をする",
+        "馬鹿なジョークを言う",
+        "感動的な話をする"
+      ],
+      "correctAnswer": "馬鹿なジョークを言う",
+      "explanation": "「make some dumb joke」は、「くだらないジョークを言う」という意味です。場を和ませるため、あるいは単にふざけている時に使われることが多いです。例えば、「He always makes some dumb joke to cheer me up.（彼はいつも私を元気付けるためにくだらないジョークを言う）」のように使われます。"
+    },
+    {
+      "id": 95,
+      "value": "inappropriate comment",
+      "options": [
+        "適切なコメント",
+        "的外れなコメント",
+        "不適切なコメント",
+        "鋭いコメント"
+      ],
+      "correctAnswer": "不適切なコメント",
+      "explanation": "「inappropriate comment」は、「場にふさわしくないコメント」という意味です。相手を不快にさせたり、状況を悪化させたりする可能性のある発言を指します。例えば、「He made an inappropriate comment about her appearance.（彼は彼女の外見について不適切なコメントをした）」のように使われます。"
+    },
+    {
+      "id": 96,
+      "value": "feel one's presence",
+      "options": [
+        "存在を隠す",
+        "存在を感じる",
+        "存在を無視する",
+        "存在を否定する"
+      ],
+      "correctAnswer": "存在を感じる",
+      "explanation": "「feel one's presence」は、「誰かの存在を感じる」という意味です。物理的な近さだけでなく、精神的な影響や雰囲気を感じ取る場合にも使われます。例えば、「I could feel his presence even though he was not in the room.（彼が部屋にいなくても、彼の存在を感じることができた）」のように使われます。"
+    },
+    {
+      "id": 97,
+      "value": "go",
+      "options": [
+        "停止",
+        "出発",
+        "待機",
+        "滞在"
+      ],
+      "correctAnswer": "出発",
+      "explanation": "「go」は、ここでは「出かける」「立ち去る」という意味で使われています。他の場所へ移動する、またはその場を離れることを示します。例えば、「I'm gonna go.（私はもう行くよ）」のように使われます。"
+    },
+    {
+      "id": 98,
+      "value": "Are you in the mood to laugh?",
+      "options": [
+        "笑う気分ではない？",
+        "笑う準備はできてる？",
+        "泣きたい気分？",
+        "怒っているの？"
+      ],
+      "correctAnswer": "笑う準備はできてる？",
+      "explanation": "「Are you in the mood to laugh?」は、「笑う気分ですか？」「笑いたいですか？」という意味です。相手が楽しい話やジョークを聞く気分かどうかを尋ねる際に使います。例えば、「I have a funny story to tell. Are you in the mood to laugh?（面白い話があるんだけど、笑う気分？）」のように使われます。"
+    },
+    {
+      "id": 99,
+      "value": "Should I follow you?",
+      "options": [
+        "ついて行かない方がいい？",
+        "ついて行ってもいい？",
+        "どこに行くの？",
+        "道に迷った？"
+      ],
+      "correctAnswer": "ついて行ってもいい？",
+      "explanation": "「Should I follow you?」は、「ついて行ってもいいですか？」という意味です。相手と一緒にいたい、または相手の行動をサポートしたい場合に尋ねます。例えば、「You seem upset. Should I follow you and keep you company?（辛そうですね。ついて行って、一緒にいてもいいですか？）」のように使われます。"
+    },
+    {
+      "id": 100,
+      "value": "replace",
+      "options": [
+        "修理する",
+        "交換する",
+        "隠す",
+        "掃除する"
+      ],
+      "correctAnswer": "交換する",
+      "explanation": "「replace」は、「交換する」「取り替える」という意味です。古いものや使い果たされたものを新しいものと入れ替えることを指します。例えば、「I need to replace the light bulb.（電球を交換する必要がある）」のように使われます。"
+    }
+  ]
+}

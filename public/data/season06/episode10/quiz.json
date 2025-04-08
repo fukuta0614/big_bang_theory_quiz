@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "posit",
+      "options": [
+        "仮定する",
+        "否定する",
+        "分析する",
+        "説明する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "「posit」は、何かを事実または真実として仮定または主張するという意味です。議論や理論の基礎として提示する際に使われます。学術的な文脈や、自分の意見を強く主張する場面でよく用いられます。\n\n例：He posited that the economy would improve. (彼は経済が改善すると仮定した。)"
+    },
+    {
+      "id": 2,
+      "value": "jeebie-jeebies",
+      "options": [
+        "幸せな気持ち",
+        "ぞっとする感じ",
+        "安心感",
+        "高揚感"
+      ],
+      "correctAnswer": "ぞっとする感じ",
+      "explanation": "「the heebie-jeebies」の口語的な表現で、強い不安や恐怖、不快感を表します。何かが非常に不気味であったり、神経を逆なでするような状況で使われます。少しユーモラスなニュアンスを含むこともあります。\n\n例：That old house gives me the heebie-jeebies. (あの古い家はぞっとする。)"
+    },
+    {
+      "id": 3,
+      "value": "anti-Semitic",
+      "options": [
+        "反体制的な",
+        "反社会的な",
+        "反ユダヤ的な",
+        "反知性的な"
+      ],
+      "correctAnswer": "反ユダヤ的な",
+      "explanation": "「anti-Semitic」は、ユダヤ人に対する偏見、差別、または敵意を意味します。非常に深刻な意味合いを持つ言葉であり、人種差別や憎悪犯罪に関連して用いられます。\n\n例：His comments were considered anti-Semitic. (彼の発言は反ユダヤ的だと見なされた。)"
+    },
+    {
+      "id": 4,
+      "value": "franchises",
+      "options": [
+        "自由",
+        "権利",
+        "映画シリーズ",
+        "義務"
+      ],
+      "correctAnswer": "映画シリーズ",
+      "explanation": "ここでは映画のシリーズ作品という意味合いです。シリーズとして展開される映画作品群を指します。ビジネス用語としては、フランチャイズ契約、フランチャイズ店などの意味合いもあります。\n\n例：Star Wars is a very successful movie franchise. (スターウォーズはとても成功している映画シリーズだ。)"
+    },
+    {
+      "id": 5,
+      "value": "homegirl",
+      "options": [
+        "家族",
+        "親友",
+        "隣人",
+        "同業者"
+      ],
+      "correctAnswer": "親友",
+      "explanation": "「homegirl」は、特にアメリカ英語のスラングで、親しい女性の友人、仲間を指します。親愛の情を込めて使われることが多いです。地域的なつながりや共通の経験を共有する友人を指すこともあります。\n\n例：She is my homegirl, we grew up together. (彼女は私の親友で、一緒に育ったんだ。)"
+    },
+    {
+      "id": 6,
+      "value": "beneath my intellectual station",
+      "options": [
+        "知的なレベルが低い",
+        "経済的なレベルが低い",
+        "道徳的なレベルが低い",
+        "体力的なレベルが低い"
+      ],
+      "correctAnswer": "知的なレベルが低い",
+      "explanation": "「beneath one's station」は、自分の地位や身分よりも下の人々、または相応しくない状況を指す表現です。ここでは「intellectual station」と組み合わさることで、知的なレベルが自分よりも低い人々、つまり知的に見下している相手を意味します。やや傲慢なニュアンスを含むことがあります。\n\n例：He felt it was beneath his station to do manual labor. (彼は肉体労働をすることが自分の身分に相応しくないと感じた。)"
+    },
+    {
+      "id": 7,
+      "value": "lore",
+      "options": [
+        "法律",
+        "伝説",
+        "科学",
+        "技術"
+      ],
+      "correctAnswer": "伝説",
+      "explanation": "「lore」は、特定のグループや地域に伝わる知識、物語、伝統を指します。多くの場合、口承で伝えられる民間伝承や、特定の分野に関する知識を意味します。\n\n例：Local lore says that the lake is haunted. (地元の伝説によると、その湖には幽霊が出るらしい。)"
+    },
+    {
+      "id": 8,
+      "value": "conversational gambit",
+      "options": [
+        "会話のきっかけ",
+        "議論の終結",
+        "秘密の計画",
+        "最終手段"
+      ],
+      "correctAnswer": "会話のきっかけ",
+      "explanation": "「gambit」は、元々チェスで使われる言葉で、有利な展開のために意図的に何かを犠牲にする戦略を意味します。会話においては、相手の興味を引いたり、会話を始めるためのきっかけとなるような発言や行動を指します。少し計算されたニュアンスを含むことがあります。\n\n例：He used a funny joke as a conversational gambit. (彼は面白いジョークを会話のきっかけとして使った。)"
+    },
+    {
+      "id": 9,
+      "value": "lighten the mood",
+      "options": [
+        "雰囲気を明るくする",
+        "仕事を楽にする",
+        "荷物を軽くする",
+        "部屋を明るくする"
+      ],
+      "correctAnswer": "雰囲気を明るくする",
+      "explanation": "「lighten the mood」は、場の雰囲気を和らげる、明るくするという意味です。重苦しい状況や深刻な話題の後に、ユーモアや軽い話題を持ち出して雰囲気を変える際に使われます。\n\n例：He told a joke to lighten the mood. (彼は雰囲気を明るくするために冗談を言った。)"
+    },
+    {
+      "id": 10,
+      "value": "put the fun in funeral",
+      "options": [
+        "葬式を楽しくする",
+        "葬式に面白さを加える",
+        "葬式を台無しにする",
+        "葬式を悲しむ"
+      ],
+      "correctAnswer": "葬式に面白さを加える",
+      "explanation": "これは一種の皮肉を込めた表現で、通常は人が意図せずに、または不適切な方法で、深刻な状況を面白おかしくしてしまうことを指します。文字通りに葬式を楽しくするという意味ではなく、場違いな言動をしてしまうことを自嘲的に言う場合に使われます。\n\n例：I always put the 'fun' in 'dysfunctional'. (私はいつも「dysfunctional（機能不全）」に「fun（楽しさ）」を加えるんだ。＝私はいつも物事を台無しにするんだ)"
+    },
+    {
+      "id": 11,
+      "value": "solemnly",
+      "options": [
+        "陽気に",
+        "厳粛に",
+        "急いで",
+        "秘密裏に"
+      ],
+      "correctAnswer": "厳粛に",
+      "explanation": "「solemnly」は、真剣で厳かな態度で、または深刻な気持ちで何かを行う様子を表します。特に、葬儀や重要な儀式など、厳粛な場面で用いられることが多いです。\n\n例：He solemnly swore to tell the truth. (彼は真実を話すと厳粛に誓った。)"
+    },
+    {
+      "id": 12,
+      "value": "clause",
+      "options": [
+        "条項",
+        "理由",
+        "結果",
+        "機会"
+      ],
+      "correctAnswer": "条項",
+      "explanation": "「clause」は、契約書や法律文書などにおける特定の条項や規定を指します。契約内容を明確にするために用いられます。\n\n例：There is a clause in the contract that allows for early termination. (契約には早期解約を認める条項がある。)"
+    },
+    {
+      "id": 13,
+      "value": "get this over with",
+      "options": [
+        "これを終わらせる",
+        "これに耐える",
+        "これを始める",
+        "これを続ける"
+      ],
+      "correctAnswer": "これを終わらせる",
+      "explanation": "「get something over with」は、不快または困難なことを早く終わらせたいときに使う表現です。面倒なことや嫌なことを片付けるという意味合いがあります。\n\n例：I just want to get this meeting over with. (この会議を早く終わらせたい。)"
+    },
+    {
+      "id": 14,
+      "value": "sensing a theme",
+      "options": [
+        "テーマを感じている",
+        "夢中になっている",
+        "問題を抱えている",
+        "混乱している"
+      ],
+      "correctAnswer": "テーマを感じている",
+      "explanation": "「sense a theme」は、ある状況や会話の中に共通するパターンや傾向があることに気づくという意味です。ここでは、相手の発言に「fine」という言葉が繰り返し使われていることから、そのパターンに気づいたことを表しています。\n\n例：I'm sensing a theme in your complaints. (あなたの不満には共通のテーマがあるように感じる。)"
+    },
+    {
+      "id": 15,
+      "value": "a while",
+      "options": [
+        "少しの間",
+        "永遠に",
+        "すぐに",
+        "絶対にない"
+      ],
+      "correctAnswer": "少しの間",
+      "explanation": "「a while」は、ある程度の時間、少しの間という意味です。具体的な時間の長さは文脈によって異なりますが、短い時間からやや長めの時間まで幅広く使われます。\n\n例：It will take a while to finish this project. (このプロジェクトを終えるにはしばらく時間がかかるだろう。)"
+    },
+    {
+      "id": 16,
+      "value": "Third favourite",
+      "options": [
+        "一番好きな",
+        "二番目に好きな",
+        "三番目に好きな",
+        "全然好きではない"
+      ],
+      "correctAnswer": "三番目に好きな",
+      "explanation": "３番目に好きなという意味。favoriteは「お気に入り」を表す単語。"
+    },
+    {
+      "id": 17,
+      "value": "Heroes in a half-shell",
+      "options": [
+        "半分だけの英雄",
+        "殻の中の英雄",
+        "完全な英雄",
+        "隠れた英雄"
+      ],
+      "correctAnswer": "殻の中の英雄",
+      "explanation": "Teenage Mutant Ninja Turtlesのキャッチフレーズ。「殻」はタートルズの甲羅を指し、彼らが未熟ながらも正義のために戦う姿を表しています。"
+    },
+    {
+      "id": 18,
+      "value": "Continental United States",
+      "options": [
+        "ヨーロッパ大陸",
+        "アメリカ合衆国本土",
+        "南極大陸",
+        "アジア大陸"
+      ],
+      "correctAnswer": "アメリカ合衆国本土",
+      "explanation": "アラスカとハワイを除く、アメリカ合衆国の陸続きの部分を指します。"
+    },
+    {
+      "id": 19,
+      "value": "Asian descent",
+      "options": [
+        "アジアの風景",
+        "アジアの文化",
+        "アジアの血筋",
+        "アジアの食べ物"
+      ],
+      "correctAnswer": "アジアの血筋",
+      "explanation": "「descent」は「家系」「血統」という意味で、ここではアジア系の血筋を持つことを指します。"
+    },
+    {
+      "id": 20,
+      "value": "Take care of me",
+      "options": [
+        "私を無視する",
+        "私を責める",
+        "私の世話をする",
+        "私を困らせる"
+      ],
+      "correctAnswer": "私の世話をする",
+      "explanation": "「take care of」は「～の世話をする」という意味で、病気や困っている人の世話をすることを指します。"
+    },
+    {
+      "id": 21,
+      "value": "Well-being",
+      "options": [
+        "財産",
+        "幸福",
+        "知識",
+        "美しさ"
+      ],
+      "correctAnswer": "幸福",
+      "explanation": "「well-being」は「健康」「幸福」という意味で、身体的、精神的、社会的に良好な状態を指します。"
+    },
+    {
+      "id": 22,
+      "value": "In common",
+      "options": [
+        "共通の",
+        "珍しい",
+        "秘密の",
+        "退屈な"
+      ],
+      "correctAnswer": "共通の",
+      "explanation": "「in common」は「共通の」「共通して」という意味で、複数の人に共通する何かがあることを指します。"
+    },
+    {
+      "id": 23,
+      "value": "Commitment in writing",
+      "options": [
+        "口約束",
+        "書面による約束",
+        "秘密の合意",
+        "一方的な宣言"
+      ],
+      "correctAnswer": "書面による約束",
+      "explanation": "「commitment in writing」は「書面による約束」「契約」という意味で、口約束ではなく、書面に残された約束や義務を指します。"
+    },
+    {
+      "id": 24,
+      "value": "Despite popular lore",
+      "options": [
+        "一般的な伝説にもかかわらず",
+        "科学的な事実に基づいて",
+        "政府の公式発表により",
+        "個人的な経験から"
+      ],
+      "correctAnswer": "一般的な伝説にもかかわらず",
+      "explanation": "世間一般に信じられていること、または広く知られている情報や物語とは異なる事実を示す際に用いられます。"
+    },
+    {
+      "id": 25,
+      "value": "Force you to take care of me",
+      "options": [
+        "私を無視するように強制する",
+        "私を尊敬するように強制する",
+        "私の世話をするように強制する",
+        "私を避けるように強制する"
+      ],
+      "correctAnswer": "私の世話をするように強制する",
+      "explanation": "相手に自分の世話をすることを義務付ける、または強制するという意味です。"
+    },
+    {
+      "id": 26,
+      "value": "fowl way to go",
+      "options": [
+        "簡単なやり方",
+        "鳥のような生き方",
+        "ひどい死に方",
+        "幸運な道"
+      ],
+      "correctAnswer": "ひどい死に方",
+      "explanation": "\"Fowl\"は「鳥」という意味ですが、ここでは「ひどい」「不快な」という意味の形容詞として使われています。「A fowl way to go」は、「ひどい死に方」や「不運な死に方」といった意味合いで使われます。特にユーモラスな状況で使われることが多いです。"
+    },
+    {
+      "id": 27,
+      "value": "chatty",
+      "options": [
+        "静かな",
+        "おしゃべりな",
+        "怒りっぽい",
+        "悲しい"
+      ],
+      "correctAnswer": "おしゃべりな",
+      "explanation": "\"Chatty\"は「おしゃべりな」「話し好きな」という意味です。人の性格を表す際によく用いられ、親しみやすいニュアンスを含みます。例：She's a chatty person and makes friends easily. (彼女はおしゃべりな性格で、すぐに友達ができる。)"
+    },
+    {
+      "id": 28,
+      "value": "bedside manner",
+      "options": [
+        "寝室の様子",
+        "看病の仕方",
+        "ベッドの材質",
+        "患者の態度"
+      ],
+      "correctAnswer": "看病の仕方",
+      "explanation": "\"Bedside manner\"は、医者や看護師などの医療従事者が患者に対して示す態度や接し方を指します。思いやりがあり、患者を安心させるような態度が良い bedside manner とされます。例：The doctor had a very reassuring bedside manner. (その医者はとても安心できるような態度で接してくれた。)"
+    },
+    {
+      "id": 29,
+      "value": "lacking",
+      "options": [
+        "豊富な",
+        "不足している",
+        "魅力的な",
+        "安定した"
+      ],
+      "correctAnswer": "不足している",
+      "explanation": "\"Lacking\"は「不足している」「欠けている」という意味です。何かが十分でない状態を表します。例：His performance was lacking in enthusiasm. (彼の演技は熱意に欠けていた。)"
+    },
+    {
+      "id": 30,
+      "value": "placebo effect",
+      "options": [
+        "プラセボ効果",
+        "睡眠効果",
+        "副作用",
+        "アレルギー反応"
+      ],
+      "correctAnswer": "プラセボ効果",
+      "explanation": "\"Placebo effect\"は「プラセボ効果」と訳され、薬理効果のない вещества (偽薬) を投与したにもかかわらず、患者の症状が改善する現象を指します。患者の思い込みや期待が影響していると考えられています。"
+    },
+    {
+      "id": 31,
+      "value": "validity",
+      "options": [
+        "妥当性",
+        "速度",
+        "多様性",
+        "容量"
+      ],
+      "correctAnswer": "妥当性",
+      "explanation": "\"Validity\"は「妥当性」「正当性」「有効性」という意味です。主張や理論、試験などがどれだけ正確で信頼できるかを示します。例：The validity of the research findings was questioned. (その研究結果の妥当性が疑問視された。)"
+    },
+    {
+      "id": 32,
+      "value": "dig in",
+      "options": [
+        "掘る",
+        "食べる",
+        "調べる",
+        "隠れる"
+      ],
+      "correctAnswer": "食べる",
+      "explanation": "\"Dig in\"は「（食事を）始める」「がつがつ食べる」という意味です。食事を勧める際や、自分自身が食べ始める際に使われます。例：The food's getting cold, so dig in! (料理が冷めてきたから、さあ食べよう！)"
+    },
+    {
+      "id": 33,
+      "value": "Bless us, O Lord",
+      "options": [
+        "神のご加護を",
+        "私たちを許してください",
+        "主に感謝します",
+        "私たちを導いてください"
+      ],
+      "correctAnswer": "神のご加護を",
+      "explanation": "\"Bless us, O Lord\"は、食事の前に神の恵みに感謝し、祝福を祈る言葉です。宗教的な背景を持つ人々がよく用います。"
+    },
+    {
+      "id": 34,
+      "value": "Took the words right out of my mouth",
+      "options": [
+        "言葉を失った",
+        "言おうとしたことを言われた",
+        "口が滑った",
+        "言葉が見つからない"
+      ],
+      "correctAnswer": "言おうとしたことを言われた",
+      "explanation": "\"Took the words right out of my mouth\"は、「まさに私が言おうとしていたことだ」「同感だ」という意味です。相手が自分の考えていたことを先に言ったときに使います。例：A: "
+    },
+    {
+      "id": 35,
+      "value": "talking my ear off",
+      "options": [
+        "耳を傾ける",
+        "耳をふさぐ",
+        "話し疲れる",
+        "一方的に話す"
+      ],
+      "correctAnswer": "一方的に話す",
+      "explanation": "\"Talk someone's ear off\"は、「（人）に一方的にしゃべりまくる」「うんざりするほど話す」という意味です。相手が話し続けてうんざりしている状況を表します。例：He talked my ear off about his new car. (彼は自分の新しい車についてうんざりするほど話した。)"
+    },
+    {
+      "id": 36,
+      "value": "tag along",
+      "options": [
+        "荷札をつける",
+        "ついて行く",
+        "仲間外れにする",
+        "邪魔をする"
+      ],
+      "correctAnswer": "ついて行く",
+      "explanation": "\"Tag along\"は「（人に）ついて行く」「便乗する」という意味です。特に許可を得ずに、または招待されていない状況で誰かと一緒に行くことを指します。例：Do you mind if I tag along? (一緒に行ってもいい？)"
+    },
+    {
+      "id": 37,
+      "value": "fellas",
+      "options": [
+        "女性たち",
+        "男性たち",
+        "子供たち",
+        "動物たち"
+      ],
+      "correctAnswer": "男性たち",
+      "explanation": "\"Fellas\"は \"fellows\" のくだけた言い方で、「男たち」「仲間たち」という意味です。親しみを込めて男性に対して呼びかける際に使われます。例：Hey fellas, how's it going? (やあ、みんな、元気？)"
+    },
+    {
+      "id": 38,
+      "value": "hang on a second",
+      "options": [
+        "少し待って",
+        "電話を切って",
+        "諦めて",
+        "頑張って"
+      ],
+      "correctAnswer": "少し待って",
+      "explanation": "\"Hang on a second\"は「ちょっと待って」「少しの間待って」という意味です。相手に少し時間を稼いでもらいたいときや、話を中断するときに使います。例：Hang on a second, I need to grab my keys. (ちょっと待って、鍵を取ってくる必要がある。)"
+    },
+    {
+      "id": 39,
+      "value": "disaster",
+      "options": [
+        "成功",
+        "災害",
+        "幸福",
+        "機会"
+      ],
+      "correctAnswer": "災害",
+      "explanation": "\"Disaster\"は「災害」「惨事」「大失敗」という意味です。非常に悪い結果や状況を表します。例：The party was a complete disaster. (パーティーは大失敗だった。)"
+    },
+    {
+      "id": 40,
+      "value": "look foolish",
+      "options": [
+        "賢く見える",
+        "ばかげた姿を見せる",
+        "冷静に見える",
+        "幸せそうに見える"
+      ],
+      "correctAnswer": "ばかげた姿を見せる",
+      "explanation": "\"Look foolish\"は、「愚かに見える」「ばかげた姿を見せる」という意味です。何かをすることで自分が恥ずかしい思いをしたり、周囲から笑われたりする状況を表します。例：I don't want to look foolish in front of everyone. (みんなの前で恥をかきたくない。)"
+    },
+    {
+      "id": 41,
+      "value": "pointers",
+      "options": [
+        "指示",
+        "鉛筆",
+        "景色",
+        "思い出"
+      ],
+      "correctAnswer": "指示",
+      "explanation": "\"Pointers\"は「アドバイス」「ヒント」「助言」という意味です。特に技術やスキルを向上させるための具体的な指示や情報を提供することを指します。例：Can you give me some pointers on how to improve my presentation skills? (プレゼンテーションスキルを向上させるためのアドバイスをいくつかいただけますか？)"
+    },
+    {
+      "id": 42,
+      "value": "manly",
+      "options": [
+        "女性的な",
+        "男性的な",
+        "子供っぽい",
+        "動物的な"
+      ],
+      "correctAnswer": "男性的な",
+      "explanation": "\"Manly\"は「男らしい」「男性的な」という意味です。伝統的な男性のイメージや特徴を指すことが多いです。例：He has a very manly voice. (彼はとても男らしい声をしている。)"
+    },
+    {
+      "id": 43,
+      "value": "get over",
+      "options": [
+        "乗り越える",
+        "忘れる",
+        "下に潜る",
+        "上を向く"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "\"Get over\"は、「乗り越える」「回復する」という意味です。病気や困難な状況から回復することを指します。例：It took me a while to get over the flu. (インフルエンザから回復するのにしばらく時間がかかった。)"
+    },
+    {
+      "id": 44,
+      "value": "attitude",
+      "options": [
+        "才能",
+        "姿勢",
+        "習慣",
+        "個性"
+      ],
+      "correctAnswer": "姿勢",
+      "explanation": "\"Attitude\"は、「態度」「考え方」「姿勢」という意味です。特定の人や物事に対する感情や意見を表します。例：He has a positive attitude towards life. (彼は人生に対して前向きな態度を持っている。)"
+    },
+    {
+      "id": 45,
+      "value": "responsible",
+      "options": [
+        "無責任な",
+        "責任感の強い",
+        "内気な",
+        "怠惰な"
+      ],
+      "correctAnswer": "責任感の強い",
+      "explanation": "\"Responsible\"は、「責任感の強い」「信頼できる」という意味です。自分の行動や義務に対して責任を持つことを指します。例：He is a responsible employee. (彼は責任感の強い従業員だ。)"
+    },
+    {
+      "id": 46,
+      "value": "counting on",
+      "options": [
+        "数えている",
+        "期待している",
+        "無視している",
+        "疑っている"
+      ],
+      "correctAnswer": "期待している",
+      "explanation": "\"Count on\"は、「頼りにする」「期待する」という意味です。誰かや何かが自分の期待に応えてくれると信じていることを表します。例：I'm counting on you to help me with this project. (このプロジェクトを手伝ってくれることを期待している。)"
+    },
+    {
+      "id": 47,
+      "value": "bounty",
+      "options": [
+        "不足",
+        "豊かさ",
+        "苦しみ",
+        "貧困"
+      ],
+      "correctAnswer": "豊かさ",
+      "explanation": "\"Bounty\"は、「恵み」「豊かさ」「寛大さ」という意味です。特に自然や神からの贈り物として、豊富な資源や恵みを指します。例：The earth provides a bounty of resources. (地球は豊かな資源を提供している。)"
+    },
+    {
+      "id": 48,
+      "value": "settled",
+      "options": [
+        "未解決の",
+        "解決済みの",
+        "不安定な",
+        "混乱した"
+      ],
+      "correctAnswer": "解決済みの",
+      "explanation": "\"Settled\"は、「解決済みの」「決定済みの」「落ち着いた」という意味です。問題や議論が解決し、安定した状態になったことを表します。例：The matter is settled. (その件は解決済みだ。)"
+    },
+    {
+      "id": 49,
+      "value": "hint",
+      "options": [
+        "秘密",
+        "ほのめかし",
+        "叫び",
+        "嘘"
+      ],
+      "correctAnswer": "ほのめかし",
+      "explanation": "\"Hint\"は、「ヒント」「ほのめかし」「暗示」という意味です。直接的な表現を避け、間接的に情報や意図を伝えることを指します。例：He gave me a hint about the surprise party. (彼はサプライズパーティーについて私にヒントをくれた。)"
+    },
+    {
+      "id": 50,
+      "value": "banana leaves",
+      "options": [
+        "バナナの皮",
+        "バナナの葉",
+        "バナナの根",
+        "バナナの花"
+      ],
+      "correctAnswer": "バナナの葉",
+      "explanation": "\"Banana leaves\"は、「バナナの葉」という意味です。東南アジアや中南米などの地域で、料理を包んだり、蒸したりする際に使われます。独特の風味と香りが料理に移り、食欲をそそります。"
+    },
+    {
+      "id": 51,
+      "value": "S’up?",
+      "options": [
+        "どうしたの？",
+        "元気？",
+        "調子どう？",
+        "何してるの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「S'up?」は、What's up? の略で、カジュアルな挨拶として使われます。「元気？」「調子どう？」といった意味合いで、親しい間柄で用いられます。"
+    },
+    {
+      "id": 52,
+      "value": "father-in-law",
+      "options": [
+        "兄弟",
+        "父親",
+        "義父",
+        "友人"
+      ],
+      "correctAnswer": "義父",
+      "explanation": "「father-in-law」は、配偶者の父親、つまり義父を意味します。結婚によって生じる親族関係を表す言葉です。"
+    },
+    {
+      "id": 53,
+      "value": "right up there with",
+      "options": [
+        "〜の真上",
+        "〜と同等に",
+        "〜の右側",
+        "〜よりも優れて"
+      ],
+      "correctAnswer": "〜と同等に",
+      "explanation": "「right up there with」は、「〜と同等に重要である」「〜と同じくらい良くない」といった意味合いで使われます。比較対象とほぼ同じレベルであることを強調する表現です。"
+    },
+    {
+      "id": 54,
+      "value": "natural causes",
+      "options": [
+        "自然災害",
+        "自然現象",
+        "老衰",
+        "自然死"
+      ],
+      "correctAnswer": "自然死",
+      "explanation": "「natural causes」は、老衰や病気など、外的な要因によらない自然な死因を意味します。事件や事故など、不自然な死因ではないことを示す際に用いられます。"
+    },
+    {
+      "id": 55,
+      "value": "jab a hook",
+      "options": [
+        "フックを磨く",
+        "フックを投げる",
+        "フックを刺す",
+        "フックを隠す"
+      ],
+      "correctAnswer": "フックを刺す",
+      "explanation": "「jab」は「突き刺す」という意味で、「jab a hook」は文字通り「フックを突き刺す」という意味です。ここでは、魚釣りの際に針を餌に刺す行為を指します。"
+    },
+    {
+      "id": 56,
+      "value": "man things up",
+      "options": [
+        "男性的にする",
+        "物事を管理する",
+        "男らしさを高める",
+        "仕事を終わらせる"
+      ],
+      "correctAnswer": "男らしさを高める",
+      "explanation": "「man things up」は、ここでは皮肉を込めて使われており、「男らしくする」「勇気づける」といった意味合いになります。本来は男性的ではない状況を、無理に男らしくしようとする様子を揶揄する表現です。"
+    },
+    {
+      "id": 57,
+      "value": "inconclusively",
+      "options": [
+        "決定的に",
+        "未解決のまま",
+        "矛盾なく",
+        "明白に"
+      ],
+      "correctAnswer": "未解決のまま",
+      "explanation": "「inconclusively」は、「結論が出ないまま」「決定的に」という意味です。実験結果などが明確な結論を示さない場合に使われます。"
+    },
+    {
+      "id": 58,
+      "value": "fired up",
+      "options": [
+        "クビになった",
+        "興奮した",
+        "解雇された",
+        "燃え尽きた"
+      ],
+      "correctAnswer": "興奮した",
+      "explanation": "「fired up」は、「興奮した」「やる気満々」という意味です。何かに熱中している状態や、意欲的な気持ちを表します。"
+    },
+    {
+      "id": 59,
+      "value": "hang in there",
+      "options": [
+        "遊びに出かける",
+        "頑張って",
+        "諦める",
+        "ぶらぶらする"
+      ],
+      "correctAnswer": "頑張って",
+      "explanation": "「hang in there」は、「頑張って」「くじけないで」という意味です。困難な状況にある人を励ます際に使われます。"
+    },
+    {
+      "id": 60,
+      "value": "congestion",
+      "options": [
+        "交通渋滞",
+        "鼻詰まり",
+        "人口過密",
+        "会議の混雑"
+      ],
+      "correctAnswer": "鼻詰まり",
+      "explanation": "「congestion」は、ここでは「鼻詰まり」を意味します。一般的には「混雑」「密集」といった意味で使われます。"
+    },
+    {
+      "id": 61,
+      "value": "soothing bath",
+      "options": [
+        "熱いお風呂",
+        "ぬるいお風呂",
+        "刺激的なお風呂",
+        "癒やしのお風呂"
+      ],
+      "correctAnswer": "癒やしのお風呂",
+      "explanation": "「soothing」は、「心を落ち着かせる」「癒やしを与える」という意味です。「soothing bath」は、リラックスできるお風呂を指します。"
+    },
+    {
+      "id": 62,
+      "value": "nerve-wracking",
+      "options": [
+        "神経質な",
+        "安心できる",
+        "神経をすり減らす",
+        "リラックスできる"
+      ],
+      "correctAnswer": "神経をすり減らす",
+      "explanation": "「nerve-wracking」は、「神経をすり減らす」「イライラさせる」という意味です。不安や緊張を引き起こす状況を表します。"
+    },
+    {
+      "id": 63,
+      "value": "indeterminate",
+      "options": [
+        "決定的な",
+        "不確定の",
+        "無限の",
+        "明白な"
+      ],
+      "correctAnswer": "不確定の",
+      "explanation": "「indeterminate」は、「不確定の」「不明確な」という意味です。はっきりとした定義や範囲が定まっていない状態を表します。"
+    },
+    {
+      "id": 64,
+      "value": "expectorant",
+      "options": [
+        "睡眠薬",
+        "咳止め",
+        "去痰薬",
+        "鎮痛剤"
+      ],
+      "correctAnswer": "去痰薬",
+      "explanation": "「expectorant」は、「去痰薬」という意味です。痰を出しやすくする薬を指します。"
+    },
+    {
+      "id": 65,
+      "value": "lactating uncontrollably",
+      "options": [
+        "制御不能な咳",
+        "制御不能な発汗",
+        "制御不能な涙",
+        "制御不能な授乳"
+      ],
+      "correctAnswer": "制御不能な授乳",
+      "explanation": "「lactating uncontrollably」は、「制御不能な授乳」という意味です。ここでは薬の副作用として、意図せず母乳が出てしまうことを指しています。"
+    },
+    {
+      "id": 66,
+      "value": "here's the deal",
+      "options": [
+        "取引しよう",
+        "これが真実だ",
+        "これが現実だ",
+        "これが問題だ"
+      ],
+      "correctAnswer": "これが真実だ",
+      "explanation": "「here's the deal」は、「本当のことを言うと」「実を言うと」という意味です。相手に重要な情報や事実を伝える際に使われます。"
+    },
+    {
+      "id": 67,
+      "value": "rubber cement",
+      "options": [
+        "瞬間接着剤",
+        "ゴム糊",
+        "シリコン",
+        "エポキシ"
+      ],
+      "correctAnswer": "ゴム糊",
+      "explanation": "「rubber cement」は、「ゴム糊」という意味です。紙や布などを接着するのに使われる接着剤です。"
+    },
+    {
+      "id": 68,
+      "value": "judgy",
+      "options": [
+        "批判的な",
+        "友好的な",
+        "優しい",
+        "面白い"
+      ],
+      "correctAnswer": "批判的な",
+      "explanation": "「judgy」は、「批判的な」「人をすぐに判断する」という意味です。相手の行動や言動に対して、否定的な評価を下すことを指します。"
+    },
+    {
+      "id": 69,
+      "value": "Mama needs",
+      "options": [
+        "ママが必要",
+        "ママが欲しい",
+        "ママは〜が必要",
+        "ママがすべきこと"
+      ],
+      "correctAnswer": "ママは〜が必要",
+      "explanation": "ここでは「Mama needs a bath.」で「ママはお風呂に入りたい」という意味になります。大人が子供のように自分を指して言う、ユーモラスな表現です。"
+    },
+    {
+      "id": 70,
+      "value": "gut it",
+      "options": [
+        "内臓を取り除く",
+        "修理する",
+        "掃除する",
+        "覆す"
+      ],
+      "correctAnswer": "内臓を取り除く",
+      "explanation": "「gut」は名詞で「内臓」という意味ですが、動詞として使うと「内臓を取り除く」という意味になります。ここでは、魚の内臓を取り除くことを指します。"
+    },
+    {
+      "id": 71,
+      "value": "slice him right up the belly",
+      "options": [
+        "お腹をなでる",
+        "お腹をマッサージする",
+        "お腹を真っ直ぐに切る",
+        "お腹を優しく叩く"
+      ],
+      "correctAnswer": "お腹を真っ直ぐに切る",
+      "explanation": "魚を調理する際に、腹をナイフで切り開くことを指します。「slice ... up」は「〜を切り開く」という意味です。"
+    },
+    {
+      "id": 72,
+      "value": "What is with you guys?",
+      "options": [
+        "どうしたの？",
+        "何が問題なの？",
+        "何かあったの？",
+        "どういうこと？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What is with you guys?」は、「あなたたち、一体どうしたの？」「何が気に入らないの？」という意味です。相手の行動や反応が理解できないときに使われます。"
+    },
+    {
+      "id": 73,
+      "value": "anthropologist",
+      "options": [
+        "考古学者",
+        "人類学者",
+        "生物学者",
+        "地質学者"
+      ],
+      "correctAnswer": "人類学者",
+      "explanation": "「anthropologist」は、「人類学者」という意味です。人間の文化、社会、進化などを研究する学者を指します。"
+    },
+    {
+      "id": 74,
+      "value": "vaginal lubricant",
+      "options": [
+        "育毛剤",
+        "潤滑剤",
+        "冷却剤",
+        "消毒液"
+      ],
+      "correctAnswer": "潤滑剤",
+      "explanation": "「vaginal lubricant」は、「膣潤滑剤」という意味です。ここでは、子供の頃のいたずらを説明する文脈で使われています。"
+    },
+    {
+      "id": 75,
+      "value": "wins",
+      "options": [
+        "負ける",
+        "引き分ける",
+        "勝つ",
+        "諦める"
+      ],
+      "correctAnswer": "勝つ",
+      "explanation": "「win」は「勝つ」という意味で、ここでは「Howard wins」で「ハワードの勝ちだ」という意味になります。不幸自慢大会のような状況で、より悲惨な経験をした人が「勝者」となる、皮肉めいた表現です。"
+    },
+    {
+      "id": 76,
+      "value": "gag",
+      "options": [
+        "笑う",
+        "むせる",
+        "泣く",
+        "叫ぶ"
+      ],
+      "correctAnswer": "むせる",
+      "explanation": "「gag」は、吐き気を催す、むせるという意味です。ここでは、女性の蛙の卵を見て、気持ち悪くなった男性たちがむせる様子を表しています。不快感や嫌悪感を表現する際に使われます。"
+    },
+    {
+      "id": 77,
+      "value": "taking a turn for the worst",
+      "options": [
+        "好転している",
+        "悪化している",
+        "普通である",
+        "停滞している"
+      ],
+      "correctAnswer": "悪化している",
+      "explanation": "「take a turn for the worse」は、状況や健康状態が「悪化する」という意味のイディオムです。病状が悪くなる場合や、ビジネスの状況が悪くなる場合など、様々な場面で使用されます。"
+    },
+    {
+      "id": 78,
+      "value": "cheek swab",
+      "options": [
+        "頬の化粧",
+        "頬の腫れ",
+        "頬の拭き取り",
+        "頬の傷"
+      ],
+      "correctAnswer": "頬の拭き取り",
+      "explanation": "「cheek swab」は、頬の内側を綿棒などで拭き取って採取する検体のことです。主にDNA検査や細菌検査などに使用されます。医療や科学の分野で用いられる専門用語です。"
+    },
+    {
+      "id": 79,
+      "value": "full-blown",
+      "options": [
+        "完全に開花した",
+        "完全に発展した",
+        "完全に破壊された",
+        "完全に隠蔽された"
+      ],
+      "correctAnswer": "完全に発展した",
+      "explanation": "「full-blown」は、完全に開花した、完全に発展したという意味です。ここでは、「liar, liar, pants on fire」という子供の遊びの言葉と組み合わせて、完全に嘘つきであることを強調しています。比喩的な表現として、様々な状況で使用できます。"
+    },
+    {
+      "id": 80,
+      "value": "skews in my favour",
+      "options": [
+        "私に不利になる",
+        "私に有利になる",
+        "中立である",
+        "関係がない"
+      ],
+      "correctAnswer": "私に有利になる",
+      "explanation": "「skew」は、歪む、偏るという意味です。「skews in my favor」は、自分にとって有利な方向に偏っている、という意味になります。ここでは、シェルドンがエイミーとの関係における自分の優位性を主張するために使用しています。"
+    },
+    {
+      "id": 81,
+      "value": "in order",
+      "options": [
+        "順番に",
+        "適切である",
+        "無効である",
+        "秘密である"
+      ],
+      "correctAnswer": "適切である",
+      "explanation": "「in order」は、適切な状態である、順調であるという意味です。ここでは、「penalty is in order」で、罰を与えることが適切である、という意味になります。フォーマルな文脈でよく使用されます。"
+    },
+    {
+      "id": 82,
+      "value": "stockade",
+      "options": [
+        "刑務所",
+        "証券取引所",
+        "公開処刑場",
+        "遊園地"
+      ],
+      "correctAnswer": "公開処刑場",
+      "explanation": "「stockade」は、罪人を拘束するための柵で囲まれた場所、刑台のことです。歴史的な背景を持つ言葉で、現代ではあまり使われません。ここでは、シェルドンがエイミーに対する罰として、時代錯誤な刑罰を提案しています。"
+    },
+    {
+      "id": 83,
+      "value": "spare the rod",
+      "options": [
+        "鞭を大切にする",
+        "体罰を避ける",
+        "釣り竿を修理する",
+        "お金を節約する"
+      ],
+      "correctAnswer": "体罰を避ける",
+      "explanation": "「spare the rod and spoil the child」という諺から来ており、体罰を避けると子供を甘やかすことになる、という意味です。ここでは、シェルドンが父親の体罰教育をほのめかしています。"
+    },
+    {
+      "id": 84,
+      "value": "driving whiskey",
+      "options": [
+        "運転用の水",
+        "高級なウイスキー",
+        "運転中に飲む酒",
+        "特別なウイスキー"
+      ],
+      "correctAnswer": "運転中に飲む酒",
+      "explanation": "「driving whiskey」は、運転中に飲むために隠し持っていた酒、という意味です。ここでは、シェルドンの父親が運転中に飲酒していたことを示唆しています。現代では飲酒運転は犯罪です。"
+    },
+    {
+      "id": 85,
+      "value": "hi-ho",
+      "options": [
+        "こんにちは",
+        "さようなら",
+        "出発進行",
+        "おやすみ"
+      ],
+      "correctAnswer": "出発進行",
+      "explanation": "「Hi-ho」は、陽気な掛け声で、特に仕事や冒険に出かける際に使われます。白雪姫の七人の小人が歌う「ハイホー」の歌が有名です。ここでは、ハワードが釣りに行くことを楽しみにしている様子を表しています。"
+    },
+    {
+      "id": 86,
+      "value": "hit the road",
+      "options": [
+        "帰宅する",
+        "道路を清掃する",
+        "出発する",
+        "休憩する"
+      ],
+      "correctAnswer": "出発する",
+      "explanation": "「hit the road」は、旅行や移動のために出発するという意味のイディオムです。気軽に、または急いで出発するニュアンスがあります。ここでは、ロステンコウスキー氏が釣りに出かけることを促しています。"
+    },
+    {
+      "id": 87,
+      "value": "chunk",
+      "options": [
+        "少量",
+        "塊",
+        "液体",
+        "粉末"
+      ],
+      "correctAnswer": "塊",
+      "explanation": "「chunk」は、(比較的)大きな塊、断片という意味です。ここでは、ハワードが、もし鴨を撃ったら服に鴨の肉片が付いてしまうかもしれない、と心配しています。"
+    },
+    {
+      "id": 88,
+      "value": "back out",
+      "options": [
+        "支援する",
+        "撤退する",
+        "参加する",
+        "同意する"
+      ],
+      "correctAnswer": "撤退する",
+      "explanation": "「back out」は、約束や計画から手を引く、撤退するという意味です。ここでは、ロステンコウスキー氏が釣りに行くことを避けようとしたが、妻に強制されたと言っています。"
+    },
+    {
+      "id": 89,
+      "value": "stranger to",
+      "options": [
+        "詳しい",
+        "見慣れない",
+        "得意な",
+        "嫌いな"
+      ],
+      "correctAnswer": "見慣れない",
+      "explanation": "「stranger to」は、～に不慣れである、～を知らないという意味です。ここでは、ハワードが、サイコロゲームは知らないわけではない、と言っています。"
+    },
+    {
+      "id": 90,
+      "value": "mazel tov",
+      "options": [
+        "こんにちは",
+        "おめでとう",
+        "さようなら",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "おめでとう",
+      "explanation": "「Mazel tov」は、ヘブライ語由来の言葉で、おめでとうという意味です。ユダヤ教の文化圏で、良い知らせや成功を祝う際に使われます。ここでは、ハワードがヤッツィーのチャンピオンだったことに対して、ロステンコウスキー氏が祝福しています。"
+    },
+    {
+      "id": 91,
+      "value": "ballbuster",
+      "options": [
+        "優しい人",
+        "厳しい人",
+        "面白い人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "厳しい人",
+      "explanation": "「ballbuster」は、特に男性に対して、非常に支配的で厳しい女性を指すスラングです。ここでは、ハワードがバーナデットとロステンコウスキー氏の妻を指して、冗談めかして言っています。"
+    },
+    {
+      "id": 92,
+      "value": "go that far",
+      "options": [
+        "遠くまで行く",
+        "そこまで言う",
+        "深く考える",
+        "急いで行動する"
+      ],
+      "correctAnswer": "そこまで言う",
+      "explanation": "「go that far」は、そこまで言う、そこまで同意するという意味です。ここでは、ロステンコウスキー氏が、ハワードの「素晴らしい女性たちだ」という言葉に対して、そこまでは言えない、と答えています。"
+    },
+    {
+      "id": 93,
+      "value": "discipline",
+      "options": [
+        "訓練する",
+        "褒める",
+        "無視する",
+        "甘やかす"
+      ],
+      "correctAnswer": "訓練する",
+      "explanation": "「discipline」は、訓練する、しつけるという意味です。ここでは、シェルドンがエイミーを罰すること（spank）を婉曲的に表現するために使用しています。道徳的な意味合いが含まれる場合もあります。"
+    },
+    {
+      "id": 94,
+      "value": "get over my knee",
+      "options": [
+        "膝を治す",
+        "私の膝を越える",
+        "膝に乗る",
+        "膝を隠す"
+      ],
+      "correctAnswer": "膝に乗る",
+      "explanation": "「Get over my knee」は、体罰として誰かを膝に乗せて叩くことを意味する口語表現です。特に子供に対する体罰を指すことが多いです。ここでは、シェルドンがエイミーに罰を与える状況を示唆しています。"
+    },
+    {
+      "id": 95,
+      "value": "old-school",
+      "options": [
+        "最新の",
+        "伝統的な",
+        "革新的な",
+        "未来的な"
+      ],
+      "correctAnswer": "伝統的な",
+      "explanation": "「old-school」は、昔ながらの、伝統的なという意味です。ここでは、体罰が昔ながらのやり方であることを示唆しています。現代では体罰は推奨されていません。"
+    },
+    {
+      "id": 96,
+      "value": "in a perfect world",
+      "options": [
+        "現実世界では",
+        "完璧な世界では",
+        "過去の世界では",
+        "未来の世界では"
+      ],
+      "correctAnswer": "完璧な世界では",
+      "explanation": "「In a perfect world」は、理想的な状況であれば、という意味を表すイディオムです。現実とは異なる、ありえないような状況を仮定する際に使われます。ここでは、シェルドンが非現実的な罰を提案する際に使われています。"
+    },
+    {
+      "id": 97,
+      "value": "a tad",
+      "options": [
+        "たくさん",
+        "少し",
+        "全く",
+        "非常に"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「a tad」は「少し、わずかに」という意味の副詞です。ここでは、Sheldonが体罰について「a tad old-school(少し古臭い)」と言っています。控えめなニュアンスで使われます。"
+    },
+    {
+      "id": 98,
+      "value": "overly harsh",
+      "options": [
+        "非常に優しい",
+        "過度に厳しい",
+        "ほどほど",
+        "完全に公平"
+      ],
+      "correctAnswer": "過度に厳しい",
+      "explanation": "「overly harsh」は「過度に厳しい、厳しすぎる」という意味です。ここでは、SheldonがAmyに対する罰について述べています。バランスを欠いた厳しさを表現する際に用います。"
+    },
+    {
+      "id": 99,
+      "value": "gave in to",
+      "options": [
+        "抵抗した",
+        "屈した",
+        "無視した",
+        "戦った"
+      ],
+      "correctAnswer": "屈した",
+      "explanation": "「gave in to」は「～に屈した、～に負けた」という意味の句動詞です。ここでは、SheldonがAmyの嘘について「人間的な弱さに屈した」と述べています。誘惑や圧力に負ける状況を表します。"
+    },
+    {
+      "id": 100,
+      "value": "Wish I had known",
+      "options": [
+        "知っている",
+        "知っておけばよかった",
+        "知らない方が良かった",
+        "知る必要はない"
+      ],
+      "correctAnswer": "知っておけばよかった",
+      "explanation": "「Wish I had known」は「知っておけばよかった」という意味の表現で、後悔の気持ちを表します。ここでは、Howardが釣りウェアの情報を事前に知っていればFacebookに写真を投稿しなかったと後悔しています。過去の行動に対する後悔を表現する際に使われます。"
+    }
+  ]
+}

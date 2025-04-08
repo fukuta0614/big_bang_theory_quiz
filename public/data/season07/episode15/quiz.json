@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "notarised",
+      "options": [
+        "公証された",
+        "個人的な",
+        "口頭の",
+        "秘密の"
+      ],
+      "correctAnswer": "公証された",
+      "explanation": "「notarized」は、公証人によって署名が認証された、という意味です。法的文書や契約書などが正式であることを証明するために用いられます。文書の信頼性を高める目的で使用されます。\n\n例：He had the contract notarized to ensure its validity. (彼は契約の有効性を確実にするために公証してもらった。)"
+    },
+    {
+      "id": 2,
+      "value": "impossible to please",
+      "options": [
+        "喜ばせるのが簡単",
+        "喜ばせるのが不可能",
+        "いつも不満",
+        "とても満足"
+      ],
+      "correctAnswer": "喜ばせるのが不可能",
+      "explanation": "「impossible to please」は、誰かを喜ばせるのが非常に難しい、または不可能であることを意味します。常に不満を持っている人や、どんな努力も無駄に終わるような状況を指します。\n\n例：She is impossible to please, no matter what you do. (彼女は何をしても喜ばせることができない。)"
+    },
+    {
+      "id": 3,
+      "value": "state of the relationship",
+      "options": [
+        "人間関係の状態",
+        "国の状態",
+        "恋愛関係の場所",
+        "友情の状態"
+      ],
+      "correctAnswer": "人間関係の状態",
+      "explanation": "「state of the relationship」は、人間関係の現状や状態を意味します。関係が良好か、問題があるか、将来の見通しなどを話し合う際に使われます。\n\n例：We need to discuss the state of our relationship. (私たちは自分たちの関係の状態について話し合う必要があります。)"
+    },
+    {
+      "id": 4,
+      "value": "come up with",
+      "options": [
+        "思いつく",
+        "忘れる",
+        "隠す",
+        "拒否する"
+      ],
+      "correctAnswer": "思いつく",
+      "explanation": "「come up with」は、アイデア、計画、解決策などを思いつく、考案するという意味です。創造的なプロセスや問題解決の文脈でよく使われます。\n\n例：She came up with a great idea for the project. (彼女はそのプロジェクトのために素晴らしいアイデアを思いついた。)"
+    },
+    {
+      "id": 5,
+      "value": "for starters",
+      "options": [
+        "まず第一に",
+        "最後に",
+        "途中で",
+        "詳細には"
+      ],
+      "correctAnswer": "まず第一に",
+      "explanation": "「for starters」は、議論や説明を始める際に「まず第一に」「最初に」という意味で使われます。いくつかの理由やポイントを挙げる際の導入として用いられます。\n\n例：For starters, the price is too high. (まず第一に、価格が高すぎる。)"
+    },
+    {
+      "id": 6,
+      "value": "sleeping arrangements",
+      "options": [
+        "睡眠薬",
+        "寝具の配置",
+        "睡眠時間",
+        "寝室の装飾"
+      ],
+      "correctAnswer": "寝具の配置",
+      "explanation": "「sleeping arrangements」は、寝る場所や寝る際の配置、手配を指します。旅行や宿泊の際に、誰がどこで寝るか、部屋割りなどを意味します。\n\n例：What are the sleeping arrangements for the trip? (旅行の寝る場所はどうなっていますか？)"
+    },
+    {
+      "id": 7,
+      "value": "claw-foot bathtub",
+      "options": [
+        "最新式の浴槽",
+        "猫足のバスタブ",
+        "シャワー付き浴槽",
+        "露天風呂"
+      ],
+      "correctAnswer": "猫足のバスタブ",
+      "explanation": "「claw-foot bathtub」は、猫の爪のような脚が付いたバスタブのことを指します。アンティークなスタイルで、高級感やレトロな雰囲気を演出します。\n\n例：The hotel room had a beautiful claw-foot bathtub. (そのホテルの部屋には美しい猫足のバスタブがあった。)"
+    },
+    {
+      "id": 8,
+      "value": "appreciate the effort",
+      "options": [
+        "努力を無視する",
+        "努力に感謝する",
+        "努力を軽視する",
+        "努力を批判する"
+      ],
+      "correctAnswer": "努力に感謝する",
+      "explanation": "「appreciate the effort」は、相手の努力や尽力に感謝するという意味です。相手が何かを成し遂げようとしたこと、または何かをしてくれたことに対して感謝の気持ちを表します。\n\n例：I appreciate the effort you put into this project. (このプロジェクトに費やしてくれた努力に感謝します。)"
+    },
+    {
+      "id": 9,
+      "value": "functioning",
+      "options": [
+        "機能していない",
+        "機能している",
+        "故障している",
+        "建設中の"
+      ],
+      "correctAnswer": "機能している",
+      "explanation": "「functioning」は、正常に機能している、動作しているという意味です。機械やシステムが意図された通りに動いている状態を表します。\n\n例：The machine is functioning properly. (その機械は正常に機能している。)"
+    },
+    {
+      "id": 10,
+      "value": "vintage",
+      "options": [
+        "最新の",
+        "ヴィンテージの",
+        "未来的な",
+        "実験的な"
+      ],
+      "correctAnswer": "ヴィンテージの",
+      "explanation": "「vintage」は、特定の年代に製造された、古くて価値のあるものを指します。特にワインや自動車、衣類などに対して使われます。古き良き時代の魅力を持つものを指すことが多いです。\n\n例：She bought a vintage dress from the 1950s. (彼女は1950年代のヴィンテージドレスを買った。)"
+    },
+    {
+      "id": 11,
+      "value": "meticulously",
+      "options": [
+        "いい加減に",
+        "綿密に",
+        "大雑把に",
+        "適当に"
+      ],
+      "correctAnswer": "綿密に",
+      "explanation": "「meticulously」は、非常に注意深く、細部にまでこだわって、綿密にという意味です。細心の注意を払って何かを行う様子を表します。\n\n例：The room was meticulously decorated. (その部屋は綿密に装飾されていた。)"
+    },
+    {
+      "id": 12,
+      "value": "feeling the urge",
+      "options": [
+        "欲求を感じる",
+        "嫌悪感を感じる",
+        "無関心",
+        "満足している"
+      ],
+      "correctAnswer": "欲求を感じる",
+      "explanation": "「feeling the urge」は、何かをしたいという強い衝動や欲求を感じるという意味です。特定の行動を取りたいという気持ちを表します。\n\n例：I'm feeling the urge to travel. (旅行したいという衝動を感じている。)"
+    },
+    {
+      "id": 13,
+      "value": "bust on",
+      "options": [
+        "褒める",
+        "からかう",
+        "無視する",
+        "尊敬する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「bust on」は、誰かをからかう、冗談を言うという意味です。親しい間柄で使われることが多い、軽い調子の表現です。\n\n例：They always bust on each other about their quirks. (彼らはいつもお互いの癖についてからかう。)"
+    },
+    {
+      "id": 14,
+      "value": "piss me off",
+      "options": [
+        "私を喜ばせる",
+        "私を怒らせる",
+        "私を悲しませる",
+        "私を安心させる"
+      ],
+      "correctAnswer": "私を怒らせる",
+      "explanation": "「piss me off」は、誰かを非常に怒らせる、イライラさせるという意味です。非常に強い感情を表す、やや下品な表現です。\n\n例：It really pisses me off when people are late. (人が遅れると本当に腹が立つ。)"
+    },
+    {
+      "id": 15,
+      "value": "buzz going on",
+      "options": [
+        "静かな状態",
+        "酔っ払っている状態",
+        "興奮している状態",
+        "退屈している状態"
+      ],
+      "correctAnswer": "酔っ払っている状態",
+      "explanation": "「buzz going on」は、アルコールによって少し酔っ払っている状態を指します。軽い酔いの感覚を表します。\n\n例：I have a slight buzz going on after a glass of wine. (ワインを一杯飲んで少し酔っ払っている。)"
+    },
+    {
+      "id": 16,
+      "value": "sore spot",
+      "options": [
+        "痛い場所",
+        "デリケートな話題",
+        "良い場所",
+        "安全な場所"
+      ],
+      "correctAnswer": "デリケートな話題",
+      "explanation": "「sore spot」は、触れると不快になる話題や問題、デリケートな問題点を指します。過去の失敗やトラウマなど、感情的に敏感な事柄を意味します。\n\n例：His lack of education is a sore spot for him. (彼の教育不足は彼にとってデリケートな話題だ。)"
+    },
+    {
+      "id": 17,
+      "value": "lipstick on a pig",
+      "options": [
+        "豚に口紅",
+        "見せかけの改善",
+        "完璧なもの",
+        "現実的な視点"
+      ],
+      "correctAnswer": "見せかけの改善",
+      "explanation": "「put lipstick on a pig」は、見かけだけを良くしようとする無駄な努力、本質的には変わらないものを飾り立てることを意味するイディオムです。根本的な問題を解決せずに表面だけを取り繕う状況を指します。\n\n例：Trying to improve the product with just a new design is like putting lipstick on a pig. (新しいデザインだけで製品を改善しようとするのは、豚に口紅を塗るようなものだ。)"
+    },
+    {
+      "id": 18,
+      "value": "same goes for",
+      "options": [
+        "同じことが言える",
+        "反対のことが言える",
+        "関係ない",
+        "例外である"
+      ],
+      "correctAnswer": "同じことが言える",
+      "explanation": "「same goes for」は、「～にも同じことが言える」という意味です。ある状況や意見が、別の対象にも当てはまることを示す際に使われます。\n\n例：If you need help, let me know. The same goes for you. (もし助けが必要なら言ってください。あなたにも同じことが言えます。)"
+    },
+    {
+      "id": 19,
+      "value": "magnificent",
+      "options": [
+        "平凡な",
+        "壮大な",
+        "退屈な",
+        "粗末な"
+      ],
+      "correctAnswer": "壮大な",
+      "explanation": "「magnificent」は、非常に美しく、印象的で、壮大なという意味です。見たものや経験が非常に素晴らしいと感じる時に使われます。\n\n例：The view from the top of the mountain was magnificent. (山の頂上からの眺めは壮大だった。)"
+    },
+    {
+      "id": 20,
+      "value": "prepared to say",
+      "options": [
+        "言う準備ができている",
+        "言うことをためらっている",
+        "言わないつもり",
+        "言うことができない"
+      ],
+      "correctAnswer": "言う準備ができている",
+      "explanation": "「prepared to say」は、何かを言う準備ができている、または言うことをためらっていないという意味です。自分の意見や感情を表現する覚悟があることを示します。\n\n例：I am prepared to say that this is the best movie I've ever seen. (これは今まで見た中で最高の映画だと言ってもいい。)"
+    },
+    {
+      "id": 21,
+      "value": "hobos",
+      "options": [
+        "裕福な人々",
+        "放浪者",
+        "観光客",
+        "ビジネスマン"
+      ],
+      "correctAnswer": "放浪者",
+      "explanation": "「hobo」は、仕事を探しながら旅をする放浪者を指します。列車などに無賃乗車して移動することが多いです。アメリカの歴史的な背景を持つ言葉です。\n\n例：In the past, many hobos traveled across the country by train. (昔、多くの放浪者が列車で国中を旅した。)"
+    },
+    {
+      "id": 22,
+      "value": "get me out of my panties",
+      "options": [
+        "私を怒らせる",
+        "私を誘惑する",
+        "私を安心させる",
+        "私を失望させる"
+      ],
+      "correctAnswer": "私を誘惑する",
+      "explanation": "「get me out of my panties」は、スラングで、非常に性的魅力があり、相手を誘惑するという意味です。親しい間柄で使われる、ややユーモラスな表現です。\n\n例：Those flowers might just get me out of my panties. (その花は私を誘惑するかもしれない。)"
+    },
+    {
+      "id": 23,
+      "value": "gross",
+      "options": [
+        "きれいな",
+        "気持ち悪い",
+        "おいしい",
+        "面白い"
+      ],
+      "correctAnswer": "気持ち悪い",
+      "explanation": "「gross」は、不快な、気持ち悪い、吐き気を催すようなという意味です。見た目や味が嫌な場合に使われます。\n\n例：The food tasted gross. (その食べ物は気持ち悪かった。)"
+    },
+    {
+      "id": 24,
+      "value": "get better",
+      "options": [
+        "悪化する",
+        "良くなる",
+        "変わらない",
+        "消える"
+      ],
+      "correctAnswer": "良くなる",
+      "explanation": "「get better」は、改善する、良くなるという意味です。状況、健康、スキルなどが向上する際に使われます。\n\n例：It gets better. /Things will get better. (良くなるよ/物事はよくなるだろう)"
+    },
+    {
+      "id": 25,
+      "value": "best boyfriend ever",
+      "options": [
+        "最悪の彼氏",
+        "最高の彼氏",
+        "普通の彼氏",
+        "架空の彼氏"
+      ],
+      "correctAnswer": "最高の彼氏",
+      "explanation": "「best boyfriend ever」は、今までで最高の彼氏、という意味です。相手に対する愛情や感謝の気持ちを表す際に使われます。\n\n例：You're the best boyfriend ever! (あなたは最高の彼氏だよ！)"
+    },
+    {
+      "id": 26,
+      "value": "the whole place to ourselves",
+      "options": [
+        "すべての責任を負う",
+        "二人だけの空間",
+        "全員で分担する",
+        "秘密の場所"
+      ],
+      "correctAnswer": "二人だけの空間",
+      "explanation": "「the whole place to ourselves」は、「その場所全体を自分たちだけで使える」という意味です。他の人がいない、または他の人に邪魔されない状況で、ある場所を独占している状態を表します。デートや旅行など、プライベートな時間を楽しみたい状況でよく使われます。\n\n例：We have the beach to ourselves today. (今日はビーチが私たちだけだ。)"
+    },
+    {
+      "id": 27,
+      "value": "link-and-pin coupler",
+      "options": [
+        "最新式の連結器",
+        "旧式の連結器",
+        "安全な連結器",
+        "装飾的な連結器"
+      ],
+      "correctAnswer": "旧式の連結器",
+      "explanation": "「link-and-pin coupler」は、鉄道車両に使われていた旧式の連結器の一種です。現代の連結器よりも安全性や効率性が低く、現在ではほとんど使用されていません。鉄道の歴史や技術に関する文脈で登場することがあります。"
+    },
+    {
+      "id": 28,
+      "value": "Miller Hook and Platform",
+      "options": [
+        "一般的なプラットフォーム",
+        "初期の鉄道連結システム",
+        "最新の鉄道プラットフォーム",
+        "特定の鉄道会社"
+      ],
+      "correctAnswer": "初期の鉄道連結システム",
+      "explanation": "「Miller Hook and Platform」は、19世紀後半にアメリカで使用された初期の鉄道車両連結システムの一種です。これも現代の連結器よりも旧式で、安全性や効率性の面で劣ります。鉄道技術の歴史を語る上で重要な用語です。"
+    },
+    {
+      "id": 29,
+      "value": "get out of town",
+      "options": [
+        "町を出る",
+        "信じられない",
+        "立ち去る",
+        "成功する"
+      ],
+      "correctAnswer": "信じられない",
+      "explanation": "「Get out of town」は、驚きや不信感を表現する際に使われる口語的な表現です。「まさか」「冗談でしょう」といったニュアンスで、相手の発言が信じられないときに使います。文字通りの意味で「町を出る」という意味ではありません。\n\n例：You won the lottery? Get out of town! (宝くじに当たったの？まさか！)"
+    },
+    {
+      "id": 30,
+      "value": "human style",
+      "options": [
+        "人間的な方法で",
+        "通常の方法で",
+        "最新の方法で",
+        "非効率な方法で"
+      ],
+      "correctAnswer": "通常の方法で",
+      "explanation": "文脈から「人間が普通にすること」を指し、ここでは「性行為」を婉曲的に表現しています。直接的な表現を避け、ユーモラスに伝えるために使われています。犬がチョコレートを食べたこととの対比で、人間の行動を強調しています。"
+    },
+    {
+      "id": 31,
+      "value": "take it",
+      "options": [
+        "受け取る",
+        "理解する",
+        "我慢する",
+        "考慮する"
+      ],
+      "correctAnswer": "受け取る",
+      "explanation": "「take it」は、文脈によって様々な意味を持ちますが、ここでは「（相手の言葉や行動を）受け入れる」という意味合いです。「It’s a little late, but I’ll take it.」は、「少し遅いけど、それでも受け入れるよ」というニュアンスで、相手の好意や謝罪などを受け入れる際に使われます。"
+    },
+    {
+      "id": 32,
+      "value": "crap",
+      "options": [
+        "素晴らしい",
+        "くだらない",
+        "幸運",
+        "重要なこと"
+      ],
+      "correctAnswer": "くだらない",
+      "explanation": "「crap」は、くだらないこと、がらくた、たわごとなどを意味するスラングです。ここでは、犬がチョコレートを食べたことに対する軽い苛立ちや困惑を表しています。フォーマルな場では避けるべき表現です。"
+    },
+    {
+      "id": 33,
+      "value": "podiatrist",
+      "options": [
+        "眼科医",
+        "皮膚科医",
+        "足病医",
+        "泌尿器科医"
+      ],
+      "correctAnswer": "足病医",
+      "explanation": "「podiatrist」は、足の病気や状態を専門とする医師（足病医）のことです。爪のトラブル、足の変形、糖尿病患者の足のケアなどを行います。医療分野の専門用語です。"
+    },
+    {
+      "id": 34,
+      "value": "optometrist",
+      "options": [
+        "眼科医",
+        "足病医",
+        "皮膚科医",
+        "泌尿器科医"
+      ],
+      "correctAnswer": "眼科医",
+      "explanation": "「optometrist」は、視力測定や眼鏡・コンタクトレンズの処方を行う専門家（検眼医）のことです。眼科医（ophthalmologist）とは異なり、手術は行いません。医療分野の専門用語です。"
+    },
+    {
+      "id": 35,
+      "value": "allergist",
+      "options": [
+        "アレルギー専門医",
+        "皮膚科医",
+        "泌尿器科医",
+        "眼科医"
+      ],
+      "correctAnswer": "アレルギー専門医",
+      "explanation": "「allergist」は、アレルギー疾患を専門とする医師（アレルギー専門医）のことです。アレルギーの原因特定や治療を行います。医療分野の専門用語です。"
+    },
+    {
+      "id": 36,
+      "value": "dermatologist",
+      "options": [
+        "皮膚科医",
+        "眼科医",
+        "足病医",
+        "泌尿器科医"
+      ],
+      "correctAnswer": "皮膚科医",
+      "explanation": "「dermatologist」は、皮膚の病気や状態を専門とする医師（皮膚科医）のことです。皮膚炎、湿疹、ニキビなどの治療を行います。医療分野の専門用語です。"
+    },
+    {
+      "id": 37,
+      "value": "urologist",
+      "options": [
+        "泌尿器科医",
+        "眼科医",
+        "足病医",
+        "皮膚科医"
+      ],
+      "correctAnswer": "泌尿器科医",
+      "explanation": "「urologist」は、泌尿器系の病気や状態を専門とする医師（泌尿器科医）のことです。腎臓、膀胱、尿道などの疾患を扱います。医療分野の専門用語です。"
+    },
+    {
+      "id": 38,
+      "value": "barreling down",
+      "options": [
+        "ゆっくり進む",
+        "高速で進む",
+        "停止する",
+        "逆走する"
+      ],
+      "correctAnswer": "高速で進む",
+      "explanation": "「barreling down」は、「猛スピードで進む」という意味です。障害物をものともせずに、力強く進んでいく様子を表します。列車や車など、乗り物に使われることが多い表現です。\n\n例：The train was barreling down the tracks. (列車は線路を猛スピードで進んでいた。)"
+    },
+    {
+      "id": 39,
+      "value": "tons",
+      "options": [
+        "少量",
+        "たくさん",
+        "重要",
+        "無価値"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "「tons」は、「たくさんの」という意味を表す口語的な表現です。数えられない名詞を修飾し、非常に多い量や数を強調します。フォーマルな場面では、より正確な数量表現を使うことが推奨されます。\n\n例：I have tons of work to do. (やらなければならない仕事がたくさんある。)"
+    },
+    {
+      "id": 40,
+      "value": "collect disability",
+      "options": [
+        "障害者手当を受給する",
+        "ボランティア活動をする",
+        "寄付を集める",
+        "失業手当を受給する"
+      ],
+      "correctAnswer": "障害者手当を受給する",
+      "explanation": "「collect disability」は、「障害者手当を受給する」という意味です。病気や怪我などにより労働が困難になった人が、政府や保険機関から経済的な支援を受けることを指します。社会保障制度に関する用語です。"
+    },
+    {
+      "id": 41,
+      "value": "insensitive",
+      "options": [
+        "敏感な",
+        "思いやりのない",
+        "賢明な",
+        "勇敢な"
+      ],
+      "correctAnswer": "思いやりのない",
+      "explanation": "「insensitive」は、「無神経な」「思いやりのない」という意味です。他人の感情や状況に対する配慮が欠けている様子を表します。人間関係において、注意すべき態度です。\n\n例：It was insensitive of you to ask about her divorce. (彼女の離婚について聞くなんて、君は無神経だった。)"
+    },
+    {
+      "id": 42,
+      "value": "to be fair",
+      "options": [
+        "公平に言うと",
+        "不公平に言うと",
+        "簡単に言うと",
+        "正直に言うと"
+      ],
+      "correctAnswer": "公平に言うと",
+      "explanation": "「to be fair」は、「公平に言うと」「正当に評価すると」という意味です。自分の意見や発言を補足し、より客観的な視点を示すために使われます。相手の立場や状況を考慮するニュアンスが含まれます。\n\n例：To be fair, he did warn us about the risks. (公平に言うと、彼は私たちにリスクについて警告してくれた。)"
+    },
+    {
+      "id": 43,
+      "value": "take it",
+      "options": [
+        "受け取る",
+        "我慢する",
+        "取り返す",
+        "理解する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "ここでは「受け入れる」という意味ですが、前出とは少しニュアンスが異なり、「嫌なことや不快な状況を仕方なく受け入れる」という意味合いが強いです。状況によって意味が異なる多義語の例です。"
+    },
+    {
+      "id": 44,
+      "value": "scrap them for parts",
+      "options": [
+        "部品として再利用する",
+        "修理する",
+        "改造する",
+        "完全に廃棄する"
+      ],
+      "correctAnswer": "部品として再利用する",
+      "explanation": "「scrap them for parts」は、「（機械などを）解体して部品取りをする」という意味です。ここでは、犬の命を救うために、他の犬を犠牲にして臓器を移植するという、非倫理的な提案を比喩的に表現しています。非常に強い表現であり、通常は文字通りの意味では使用されません。"
+    },
+    {
+      "id": 45,
+      "value": "gonna",
+      "options": [
+        "行く",
+        "～するつもり",
+        "～していた",
+        "～すべき"
+      ],
+      "correctAnswer": "～するつもり",
+      "explanation": "gonna は、going to の口語的な短縮形です。未来の予定や意図を表す際に使われます。日常会話で非常によく使われますが、フォーマルな場面では going to を使う方が適切です。\n\n例：I'm gonna go to the store later. (後で店に行くつもりです。)"
+    },
+    {
+      "id": 46,
+      "value": "wanna",
+      "options": [
+        "欲しい",
+        "～したい",
+        "～すべき",
+        "～だった"
+      ],
+      "correctAnswer": "～したい",
+      "explanation": "wanna は、want to の口語的な短縮形です。何かをしたいという願望を表す際に使われます。gonna と同様に、日常会話でよく使われますが、フォーマルな場面では want to を使う方が適切です。\n\n例：I wanna go to the beach. (ビーチに行きたい。)"
+    },
+    {
+      "id": 47,
+      "value": "gotta",
+      "options": [
+        "持っている",
+        "～しなければならない",
+        "～しても良い",
+        "～だった"
+      ],
+      "correctAnswer": "～しなければならない",
+      "explanation": "gotta は、got to の口語的な短縮形です。何かをしなければならないという義務や必要性を表す際に使われます。have to とほぼ同じ意味で使われます。\n\n例：I gotta go now. (もう行かなきゃ。)"
+    },
+    {
+      "id": 48,
+      "value": "kinda",
+      "options": [
+        "種類",
+        "少し",
+        "とても",
+        "全く"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "kinda は、kind of の口語的な短縮形です。程度を和らげる際に使われます。「少し～」「まあ～」といったニュアンスです。\n\n例：I'm kinda tired. (少し疲れた。)"
+    },
+    {
+      "id": 49,
+      "value": "sorta",
+      "options": [
+        "種類",
+        "少し",
+        "とても",
+        "全く"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "sorta は、sort of の口語的な短縮形です。kinda とほぼ同じ意味で使われ、程度を和らげる際に使われます。「少し～」「まあ～」といったニュアンスです。\n\n例：I sorta like him. (彼のことが少し好きだ。)"
+    },
+    {
+      "id": 50,
+      "value": "outta",
+      "options": [
+        "～から",
+        "～の外に",
+        "～なしに",
+        "～の中に"
+      ],
+      "correctAnswer": "～の外に",
+      "explanation": "outta は、out of の口語的な短縮形です。場所、状態、時間など、様々な意味で使われます。日常会話でよく使われます。\n\n例：Get outta here! (ここから出て行け！)"
+    },
+    {
+      "id": 51,
+      "value": "soul mate",
+      "options": [
+        "親友",
+        "運命の人",
+        "ソウルミュージック",
+        "心の故郷"
+      ],
+      "correctAnswer": "運命の人",
+      "explanation": "「soul mate」は、精神的に深い繋がりを感じる相手、運命の人という意味です。恋愛関係だけでなく、友情や家族関係にも使われます。お互いを深く理解し、共感し合える特別な存在を指します。例：I finally found my soul mate. (ついに運命の人を見つけた。)"
+    },
+    {
+      "id": 52,
+      "value": "rile up",
+      "options": [
+        "落ち着かせる",
+        "刺激する",
+        "無視する",
+        "混乱させる"
+      ],
+      "correctAnswer": "刺激する",
+      "explanation": "「rile up」は、人を興奮させたり、怒らせたり、イライラさせたりするという意味です。通常、感情的な状態を引き起こすことを指します。例文：Don't rile him up before his exam. (試験前に彼を刺激しないで。)"
+    },
+    {
+      "id": 53,
+      "value": "hold on to your hat",
+      "options": [
+        "冷静になる",
+        "覚悟する",
+        "帽子を忘れない",
+        "諦めない"
+      ],
+      "correctAnswer": "覚悟する",
+      "explanation": "「Hold on to your hat」は、驚くようなことや衝撃的なことが起こることを予告するイディオムです。文字通りには「帽子を手で押さえて」という意味ですが、「これからすごいことが起こるから覚悟しておけ」というニュアンスで使われます。例文：Hold on to your hat, because what I'm about to tell you is unbelievable. (これから話すことは信じられないことだから、覚悟して聞いてください。)"
+    },
+    {
+      "id": 54,
+      "value": "run into",
+      "options": [
+        "衝突する",
+        "偶然出会う",
+        "競争する",
+        "逃げる"
+      ],
+      "correctAnswer": "偶然出会う",
+      "explanation": "「run into」は、偶然出会う、ばったり会うという意味です。予期していなかった出会いを表す際に使われます。例文：I ran into an old friend at the grocery store. (食料品店で旧友に偶然出会った。)"
+    },
+    {
+      "id": 55,
+      "value": "no less",
+      "options": [
+        "それ以下ではない",
+        "同様に",
+        "決して〜ない",
+        "それにもかかわらず"
+      ],
+      "correctAnswer": "同様に",
+      "explanation": "「no less」は、「同様に」「劣らず」という意味で、ある事柄の重要性や価値を強調する際に使われます。例文：He is a scholar and a musician, no less. (彼は学者であり、同様に音楽家でもある。)"
+    },
+    {
+      "id": 56,
+      "value": "out of the room",
+      "options": [
+        "部屋の外へ",
+        "部屋の中から",
+        "部屋にいない",
+        "部屋を掃除して"
+      ],
+      "correctAnswer": "部屋の外へ",
+      "explanation": "文字通り「部屋の外へ」という意味ですが、どれくらいの時間、部屋から出ていたかという文脈で使われています。ニュアンスとしては、一時的に部屋を離れていたという状況を表します。例文：I was only out of the room for a minute. (私はほんの一分だけ部屋から出ていた。)"
+    },
+    {
+      "id": 57,
+      "value": "respond well",
+      "options": [
+        "よく反応する",
+        "よく答える",
+        "うまく対応する",
+        "元気に返事をする"
+      ],
+      "correctAnswer": "よく反応する",
+      "explanation": "「respond well」は、治療や刺激に対して良好な反応を示すという意味です。特に医療や科学の分野で使われます。例文：The patient is responding well to the medication. (患者は薬によく反応している。)"
+    },
+    {
+      "id": 58,
+      "value": "by now",
+      "options": [
+        "今までに",
+        "すぐに",
+        "今から",
+        "今のところ"
+      ],
+      "correctAnswer": "今までに",
+      "explanation": "「by now」は、「今までに」「もう」という意味で、現在までの時間経過を強調する際に使われます。例文：It's late; they should be home by now. (もう遅い時間だ。彼らは今頃家にいるはずだ。)"
+    },
+    {
+      "id": 59,
+      "value": "make an exception",
+      "options": [
+        "例外を作る",
+        "特別扱いをする",
+        "例外を認める",
+        "例外に反対する"
+      ],
+      "correctAnswer": "例外を作る",
+      "explanation": "「make an exception」は、規則や原則に対して例外を設ける、特別扱いをするという意味です。普段は許可されないことを特別に許可する場合に使われます。例文：I can't make an exception in your case. (あなたの件では例外を認めることはできません。)"
+    },
+    {
+      "id": 60,
+      "value": "crushed it",
+      "options": [
+        "圧倒的に成功した",
+        "打ち砕いた",
+        "完全に失敗した",
+        "粉々にした"
+      ],
+      "correctAnswer": "圧倒的に成功した",
+      "explanation": "「crushed it」は、スラングで、何かを非常にうまくやり遂げた、圧倒的に成功したという意味です。自信や達成感を表現する際に使われます。例文：I crushed it at the interview. (面接で最高のパフォーマンスを発揮した。)"
+    },
+    {
+      "id": 61,
+      "value": "going on",
+      "options": [
+        "進行中",
+        "起こっている",
+        "外出する",
+        "活動している"
+      ],
+      "correctAnswer": "起こっている",
+      "explanation": "「going on」は、何かが起こっている、進行中であるという意味です。特に、何が起きているのかを尋ねる際によく使われます。例文：What's going on here? (ここで何が起こっているんだ？)"
+    },
+    {
+      "id": 62,
+      "value": "to be fair",
+      "options": [
+        "公平に言って",
+        "不公平に",
+        "公正であるために",
+        "ずる賢く"
+      ],
+      "correctAnswer": "公平に言って",
+      "explanation": "「to be fair」は、公平に言うと、客観的に見るとという意味です。自分の意見や評価を述べる際に、公平性を意識していることを示すために使われます。例文：To be fair, he did warn us. (公平に言って、彼は私たちに警告してくれた。)"
+    },
+    {
+      "id": 63,
+      "value": "fixer-upper",
+      "options": [
+        "修理が必要なもの",
+        "完璧なもの",
+        "貴重品",
+        "使い捨てのもの"
+      ],
+      "correctAnswer": "修理が必要なもの",
+      "explanation": "「fixer-upper」は、修理や改善が必要な家や物を指します。転じて、改善の余地がある人や状況を指すこともあります。例文：This house is a fixer-upper, but it has potential. (この家は修理が必要だが、ポテンシャルがある。)"
+    },
+    {
+      "id": 64,
+      "value": "came like this",
+      "options": [
+        "最初からこうだった",
+        "このように来た",
+        "このようなものが来た",
+        "こういう風になった"
+      ],
+      "correctAnswer": "最初からこうだった",
+      "explanation": "「came like this」は、「最初からこうだった」「元々こうだった」という意味です。ある状態が最初から変わっていないことを強調する際に使われます。例文：The package came like this, already damaged. (その荷物は最初からこうで、すでに破損していた。)"
+    },
+    {
+      "id": 65,
+      "value": "have something to do with",
+      "options": [
+        "関係がある",
+        "関係がない",
+        "何かするべきことがある",
+        "何かを所有している"
+      ],
+      "correctAnswer": "関係がある",
+      "explanation": "「have something to do with」は、〜と関係がある、〜に関与しているという意味です。直接的な関係だけでなく、間接的な関係も含むことがあります。例文：His illness might have something to do with stress. (彼の病気はストレスと関係があるかもしれない。)"
+    },
+    {
+      "id": 66,
+      "value": "for future reference",
+      "options": [
+        "今後の参考のために",
+        "過去の参考のために",
+        "現在の参考のために",
+        "参考文献として"
+      ],
+      "correctAnswer": "今後の参考のために",
+      "explanation": "「for future reference」は、今後の参考のために、将来のためにという意味です。覚えておくべき情報や知識を伝える際に使われます。例文：For future reference, the meeting is always on Monday. (今後の参考のために、会議はいつも月曜日です。)"
+    },
+    {
+      "id": 67,
+      "value": "kind of",
+      "options": [
+        "一種の",
+        "少し",
+        "〜のような",
+        "種類"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「kind of」は、「少し」「なんとなく」という意味で、程度や自信のなさを表す際に使われます。口語的な表現です。例文：I'm kind of tired. (少し疲れている。)"
+    },
+    {
+      "id": 68,
+      "value": "better than you think",
+      "options": [
+        "思っているより良い",
+        "思っているより悪い",
+        "思っているより難しい",
+        "思っているより簡単"
+      ],
+      "correctAnswer": "思っているより良い",
+      "explanation": "文字通り「思っているより良い」という意味で、期待以上の結果や状況であることを表します。例文：The food was better than I thought it would be. (料理は思っていたより美味しかった。)"
+    },
+    {
+      "id": 69,
+      "value": "to be honest",
+      "options": [
+        "正直に言うと",
+        "不正直に言うと",
+        "正直であるために",
+        "秘密にすると"
+      ],
+      "correctAnswer": "正直に言うと",
+      "explanation": "「to be honest」は、「正直に言うと」「率直に言うと」という意味で、自分の本音や真実を伝える際に使われます。例文：To be honest, I don't like the plan. (正直に言うと、その計画は好きではない。)"
+    },
+    {
+      "id": 70,
+      "value": "a lot",
+      "options": [
+        "たくさん",
+        "少し",
+        "全くない",
+        "すべて"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "「a lot」は、「たくさん」「非常に」という意味で、数量や程度を表す際に使われます。例文：I have a lot of work to do. (やらなければならない仕事がたくさんある。)"
+    },
+    {
+      "id": 71,
+      "value": "nightmare",
+      "options": [
+        "悪夢",
+        "白昼夢",
+        "夢",
+        "希望"
+      ],
+      "correctAnswer": "悪夢",
+      "explanation": "「nightmare」は、「悪夢」「恐ろしい経験」という意味です。文字通りの夢だけでなく、非常に不快な状況や出来事を指すこともあります。例文：The traffic jam was a nightmare. (その交通渋滞は悪夢だった。)"
+    },
+    {
+      "id": 72,
+      "value": "absorb",
+      "options": [
+        "吸収する",
+        "放出する",
+        "反射する",
+        "拒否する"
+      ],
+      "correctAnswer": "吸収する",
+      "explanation": "「absorb」は、「吸収する」「理解する」という意味です。物質的な吸収だけでなく、知識や情報を取り込むことも指します。例文：The sponge absorbed the water. (スポンジが水を吸収した。)"
+    },
+    {
+      "id": 73,
+      "value": "odds",
+      "options": [
+        "可能性",
+        "偶数",
+        "奇数",
+        "運命"
+      ],
+      "correctAnswer": "可能性",
+      "explanation": "「odds」は、「可能性」「見込み」という意味です。特に、何かが起こる確率を表す際に使われます。例文：What are the odds of winning the lottery? (宝くじに当たる可能性はどれくらいですか？)"
+    },
+    {
+      "id": 74,
+      "value": "obnoxious",
+      "options": [
+        "不快な",
+        "魅力的な",
+        "面白い",
+        "普通の"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「obnoxious」は、「非常に不快な」「鼻につく」という意味です。人や行動が非常に迷惑であることを表します。例文：He was being loud and obnoxious. (彼は騒々しくて不快だった。)"
+    },
+    {
+      "id": 75,
+      "value": "weirdo",
+      "options": [
+        "変人",
+        "天才",
+        "普通の人",
+        "友人"
+      ],
+      "correctAnswer": "変人",
+      "explanation": "「weirdo」は、「変人」「奇妙な人」という意味です。通常とは異なる行動や性格を持つ人を指す、やや軽蔑的な言葉です。例文：He is a bit of a weirdo. (彼は少し変人だ。)"
+    },
+    {
+      "id": 76,
+      "value": "don’t hesitate to",
+      "options": [
+        "ためらわないで～する",
+        "喜んで～する",
+        "～するのを避ける",
+        "～するのを提案する"
+      ],
+      "correctAnswer": "ためらわないで～する",
+      "explanation": "「hesitate」は「ためらう」という意味で、「don't hesitate to」は「遠慮なく～してください」という表現です。緊急時や、相手に何かをしてほしいときに使われます。例文: Don't hesitate to contact me if you have any questions. (何か質問があれば、遠慮なくご連絡ください。)"
+    },
+    {
+      "id": 77,
+      "value": "missed a pretty great time",
+      "options": [
+        "素晴らしい時間を逃した",
+        "退屈な時間を過ごした",
+        "少し良い時間を過ごした",
+        "ひどい時間を経験した"
+      ],
+      "correctAnswer": "素晴らしい時間を逃した",
+      "explanation": "「miss」は「逃す」という意味で、「a pretty great time」は「かなり素晴らしい時間」を指します。全体として、「素晴らしい機会や経験を逃した」という意味になります。例文: You missed a pretty great time at the party last night. (昨夜のパーティーはとても楽しかったのに、あなたは来なかったからね。)"
+    },
+    {
+      "id": 78,
+      "value": "Dare I say",
+      "options": [
+        "あえて言ってもいいだろうか",
+        "言うことをためらう",
+        "言わない方が良いだろう",
+        "言うべきではない"
+      ],
+      "correctAnswer": "あえて言ってもいいだろうか",
+      "explanation": "「dare」は「あえて～する」という意味で、「Dare I say」は「あえて言っても良いだろうか」という、少し控えめな表現です。自分の意見や感想を述べる際に、相手に配慮するニュアンスが含まれます。例文: Dare I say, this is the best coffee I've ever had. (あえて言わせてもらうなら、これは私が今まで飲んだ中で最高のコーヒーだ。)"
+    },
+    {
+      "id": 79,
+      "value": "loco",
+      "options": [
+        "普通",
+        "賢い",
+        "正気",
+        "狂っている"
+      ],
+      "correctAnswer": "狂っている",
+      "explanation": "「loco」はスペイン語由来の言葉で、「狂った、正気でない」という意味のスラングです。主に口語で使用され、フォーマルな場には適しません。例文: That guy is totally loco! (あいつは完全にイカれてるぜ！)"
+    },
+    {
+      "id": 80,
+      "value": "give it a rest",
+      "options": [
+        "休む",
+        "続ける",
+        "頑張る",
+        "やめてくれ"
+      ],
+      "correctAnswer": "やめてくれ",
+      "explanation": "「give it a rest」は、「もうやめてくれ」「いい加減にしてくれ」という意味の口語表現です。相手の言動にうんざりしているときに使われます。例文: You've been complaining all day. Give it a rest! (一日中文句ばかり言ってないで、いい加減にしてくれ！)"
+    },
+    {
+      "id": 81,
+      "value": "rude",
+      "options": [
+        "礼儀正しい",
+        "賢い",
+        "失礼",
+        "正直"
+      ],
+      "correctAnswer": "失礼",
+      "explanation": "「rude」は「失礼な、無作法な」という意味の形容詞です。相手の気持ちを考えない言動や、社会的なマナーに反する行為を指します。例文: It's rude to interrupt someone when they are speaking. (人が話しているときに邪魔をするのは失礼です。)"
+    },
+    {
+      "id": 82,
+      "value": "detecting a little friction",
+      "options": [
+        "少しの摩擦を感じている",
+        "完全な同意を感じている",
+        "強い愛情を感じている",
+        "大きな喜びを感じている"
+      ],
+      "correctAnswer": "少しの摩擦を感じている",
+      "explanation": "「friction」は「摩擦、不和」という意味です。「detecting a little friction」は、「少しばかりの不和や緊張を感じている」という意味になります。人間関係の微妙な軋轢を表現する際に使われます。例文: I'm detecting a little friction between the team members. (チームメンバーの間に少し不和があるように感じます。)"
+    },
+    {
+      "id": 83,
+      "value": "third rail",
+      "options": [
+        "安全な場所",
+        "触れてはいけない話題",
+        "成功への道",
+        "簡単な解決策"
+      ],
+      "correctAnswer": "触れてはいけない話題",
+      "explanation": "「third rail」は、文字通りには「第三軌条」という意味ですが、比喩的には「触れてはいけない話題、危険な問題」という意味で使われます。特に政治や社会問題において、議論を呼ぶ可能性のあるテーマを指します。例文: Immigration is often considered the third rail of American politics. (移民問題は、しばしばアメリカ政治における触れてはいけない話題と見なされます。)"
+    },
+    {
+      "id": 84,
+      "value": "gaze into each other’s eyes",
+      "options": [
+        "互いに目をそらす",
+        "互いに目を閉じる",
+        "互いに見つめ合う",
+        "互いに無視する"
+      ],
+      "correctAnswer": "互いに見つめ合う",
+      "explanation": "「gaze」は「見つめる、凝視する」という意味です。「gaze into each other’s eyes」は、「お互いの目をじっと見つめ合う」というロマンチックな行為を表します。例文: They gazed into each other's eyes and forgot about the world around them. (彼らはお互いの目を見つめ合い、周りの世界を忘れてしまった。)"
+    },
+    {
+      "id": 85,
+      "value": "cozy wozy",
+      "options": [
+        "寒い",
+        "危険",
+        "居心地が良い",
+        "悲しい"
+      ],
+      "correctAnswer": "居心地が良い",
+      "explanation": "「cozy」は「暖かく快適な、居心地の良い」という意味です。「cozy wozy」は、その「cozy」をさらに強調した、幼児語的な表現です。親密さや安心感を表現する際に使われます。例文: The little puppy looked all cozy wozy in its new bed. (その子犬は新しいベッドでとても気持ちよさそうだった。)"
+    },
+    {
+      "id": 86,
+      "value": "dreading",
+      "options": [
+        "楽しみにしている",
+        "後悔している",
+        "恐れている",
+        "忘れている"
+      ],
+      "correctAnswer": "恐れている",
+      "explanation": "「dread」は「ひどく恐れる、嫌がる」という意味の動詞です。「dreading」は、何か良くないことが起こるのではないかと心配している状態を表します。例文: I'm dreading the meeting with my boss tomorrow. (明日の上司との面談が憂鬱だ。)"
+    },
+    {
+      "id": 87,
+      "value": "point out",
+      "options": [
+        "無視する",
+        "隠す",
+        "指摘する",
+        "提案する"
+      ],
+      "correctAnswer": "指摘する",
+      "explanation": "「point out」は「指摘する、指摘して知らせる」という意味の句動詞です。ある事実や情報に注意を向けさせる際に使われます。例文: I pointed out the mistake in his report. (私は彼のレポートの間違いを指摘した。)"
+    },
+    {
+      "id": 88,
+      "value": "make up for it",
+      "options": [
+        "諦める",
+        "悪化させる",
+        "埋め合わせる",
+        "無視する"
+      ],
+      "correctAnswer": "埋め合わせる",
+      "explanation": "「make up for」は「～を埋め合わせる、償う」という意味の句動詞です。不足しているものや失ったものを補う際に使われます。例文: He worked hard to make up for his past mistakes. (彼は過去の過ちを償うために一生懸命働いた。)"
+    },
+    {
+      "id": 89,
+      "value": "can-do attitude",
+      "options": [
+        "無気力な態度",
+        "悲観的な態度",
+        "否定的な態度",
+        "積極的に取り組む姿勢"
+      ],
+      "correctAnswer": "積極的に取り組む姿勢",
+      "explanation": "「can-do attitude」は「何でもできる、やり遂げる」という積極的な姿勢や考え方を指します。困難な状況でも前向きに解決策を見つけようとする意欲を表します。例文: Her can-do attitude made her a valuable asset to the team. (彼女の積極的な姿勢は、彼女をチームにとって貴重な存在にした。)"
+    },
+    {
+      "id": 90,
+      "value": "occurred to me",
+      "options": [
+        "理解できた",
+        "忘れてしまった",
+        "思いついた",
+        "経験した"
+      ],
+      "correctAnswer": "思いついた",
+      "explanation": "「occur to」は「（考えなどが）ふと心に浮かぶ、思いつく」という意味です。例文: It just occurred to me that we never thanked him for his help. (彼に手伝っていただいたお礼をまだ言っていなかったことに、ふと気がついた。)"
+    },
+    {
+      "id": 91,
+      "value": "give it a go",
+      "options": [
+        "避ける",
+        "終わらせる",
+        "試してみる",
+        "無視する"
+      ],
+      "correctAnswer": "試してみる",
+      "explanation": "「give it a go」は「試してみる、やってみる」という意味の口語表現です。新しいことや難しいことに挑戦する際に使われます。例文: I don't know if I can do it, but I'll give it a go. (できるかどうか分からないけど、とりあえずやってみるよ。)"
+    },
+    {
+      "id": 92,
+      "value": "for all I know",
+      "options": [
+        "私が知る限り",
+        "私が知らないうちに",
+        "私が完全に確信していること",
+        "私が全く知らないこと"
+      ],
+      "correctAnswer": "私が知る限り",
+      "explanation": "「for all I know」は「私が知る限りでは、たぶん～だろう」という意味です。自分の知識や情報に基づいて推測を述べる際に使われます。確信度が低い場合に用いられます。例文: For all I know, he could be lying. (私が知る限りでは、彼は嘘をついているかもしれない。)"
+    },
+    {
+      "id": 93,
+      "value": "keep a close eye on",
+      "options": [
+        "無視する",
+        "忘れる",
+        "注意深く見守る",
+        "批判する"
+      ],
+      "correctAnswer": "注意深く見守る",
+      "explanation": "「keep a close eye on」は「～を注意深く見守る、監視する」という意味のイディオムです。何かが起こらないように、または変化に気づくために、注意を払うことを意味します。例文: Please keep a close eye on my luggage while I go to the restroom. (トイレに行っている間、私の荷物を注意深く見ていてください。)"
+    },
+    {
+      "id": 94,
+      "value": "warning signs",
+      "options": [
+        "歓迎のサイン",
+        "成功の兆し",
+        "危険信号",
+        "励ましの言葉"
+      ],
+      "correctAnswer": "危険信号",
+      "explanation": "「warning signs」は「警告の兆候、危険信号」という意味です。問題や危険が起こる可能性を示唆する兆候を指します。例文: The rising floodwaters were a warning sign that people needed to evacuate. (水位の上昇は、人々が避難する必要があるという警告信号だった。)"
+    },
+    {
+      "id": 95,
+      "value": "taking it seriously",
+      "options": [
+        "真剣に受け止める",
+        "冗談として受け止める",
+        "無視する",
+        "後回しにする"
+      ],
+      "correctAnswer": "真剣に受け止める",
+      "explanation": "「take something seriously」は「～を真剣に受け止める、深刻に考える」という意味です。問題や状況の重要性を認識し、真摯に対応することを意味します。例文: You need to start taking your studies seriously if you want to pass the exam. (試験に合格したいなら、もっと真剣に勉強に取り組む必要があります。)"
+    },
+    {
+      "id": 96,
+      "value": "romantic",
+      "options": [
+        "退屈な",
+        "非現実的な",
+        "現実的な",
+        "ロマンチックな"
+      ],
+      "correctAnswer": "ロマンチックな",
+      "explanation": "「romantic」は「ロマンチックな、恋愛に関する」という意味の形容詞です。感情的な愛情や情熱、理想的な愛を表現する際に使われます。例文: He planned a romantic dinner for their anniversary. (彼は記念日のためにロマンチックな夕食を計画した。)"
+    },
+    {
+      "id": 97,
+      "value": "trick me",
+      "options": [
+        "助ける",
+        "褒める",
+        "騙す",
+        "理解する"
+      ],
+      "correctAnswer": "騙す",
+      "explanation": "「trick」は「だます、欺く」という意味の動詞です。「trick someone」は「誰かをだます」という意味になります。例文: He tricked me into believing his story. (彼は私をだまして彼の話を信じさせた。)"
+    },
+    {
+      "id": 98,
+      "value": "dog",
+      "options": [
+        "正直者",
+        "不誠実な人",
+        "勇敢な人",
+        "忠実な人"
+      ],
+      "correctAnswer": "不誠実な人",
+      "explanation": "「dog」は、ここでは「ずる賢い人、不誠実な人」という意味のスラングとして使われています。特に異性関係において、複数の相手と関係を持つ人を指すことがあります。例文: He's such a dog; he's always flirting with other women. (彼は本当にずるい男だ。いつも他の女性と浮気している。)"
+    },
+    {
+      "id": 99,
+      "value": "assets",
+      "options": [
+        "負債",
+        "問題",
+        "資産",
+        "障害"
+      ],
+      "correctAnswer": "資産",
+      "explanation": "「asset」は「資産、財産」という意味の名詞です。人や組織にとって価値のあるもの、役立つものを指します。例文: Her language skills are a great asset to the company. (彼女の語学力は会社にとって大きな資産です。)"
+    },
+    {
+      "id": 100,
+      "value": "flirting",
+      "options": [
+        "喧嘩する",
+        "議論する",
+        "無関心",
+        "いちゃつく"
+      ],
+      "correctAnswer": "いちゃつく",
+      "explanation": "「flirt」は「いちゃつく、戯れる」という意味の動詞です。異性に対して軽い気持ちで関心を示したり、気を引こうとしたりする行為を指します。例文: He was flirting with the waitress at the restaurant. (彼はレストランでウェイトレスといちゃついていた。)"
+    }
+  ]
+}

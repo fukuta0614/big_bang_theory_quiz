@@ -1,0 +1,1012 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "cooped up",
+      "options": [
+        "解放された",
+        "閉じ込められた",
+        "興奮した",
+        "落ち着いた"
+      ],
+      "correctAnswer": "閉じ込められた",
+      "explanation": "「cooped up」とは、狭い場所に閉じ込められている状態を表す口語的な表現です。特に、本来ならば自由に動き回りたい人が、物理的な制約や状況によって行動を制限されている状況を指します。例文：I felt cooped up after working from home for a long time.（長い間家で仕事をしていて、閉じ込められているように感じた。）"
+    },
+    {
+      "id": 2,
+      "value": "hang in there",
+      "options": [
+        "諦める",
+        "頑張る",
+        "忘れる",
+        "急ぐ"
+      ],
+      "correctAnswer": "頑張る",
+      "explanation": "「hang in there」とは、困難な状況に直面している人に対して、「頑張って」「諦めないで」と励ます際に使われる一般的な表現です。一時的な困難や苦境を乗り越えるように促すニュアンスがあります。例文：I know you're feeling stressed, but hang in there.（ストレスを感じているのはわかっているけど、頑張って。）"
+    },
+    {
+      "id": 3,
+      "value": "get back to work",
+      "options": [
+        "休憩する",
+        "仕事に戻る",
+        "遊びに行く",
+        "寝る"
+      ],
+      "correctAnswer": "仕事に戻る",
+      "explanation": "「get back to work」とは、中断していた仕事や作業を再開するという意味の一般的な表現です。会議や休憩の後、または他の用事を済ませた後に、元の仕事に戻る際に使われます。例文：Okay, everyone, let's get back to work.（はい、皆さん、仕事に戻りましょう。）"
+    },
+    {
+      "id": 4,
+      "value": "for your troubles",
+      "options": [
+        "あなたの苦労に対して",
+        "あなたの楽しみのために",
+        "あなたの質問のために",
+        "あなたの健康のために"
+      ],
+      "correctAnswer": "あなたの苦労に対して",
+      "explanation": "「for your troubles」とは、相手の労力や迷惑をかけたことに対するお礼や報酬として使われる表現です。特に、ちょっとした手伝いや親切に対する感謝の気持ちを表す際に用いられます。例文：Here's a little something for your troubles.（これはあなたの苦労に対するほんの気持ちです。）"
+    },
+    {
+      "id": 5,
+      "value": "potty training",
+      "options": [
+        "犬の訓練",
+        "トイレトレーニング",
+        "料理の練習",
+        "運動の練習"
+      ],
+      "correctAnswer": "トイレトレーニング",
+      "explanation": "「potty training」とは、子供がトイレで排泄する習慣を身につけるための訓練を指します。通常、幼児期に行われ、親や保護者が子供にトイレの使用方法を教え、自立を促します。例文：Potty training can be a challenging time for parents.（トイレトレーニングは親にとって大変な時期になることがあります。）"
+    },
+    {
+      "id": 6,
+      "value": "penmanship",
+      "options": [
+        "文章力",
+        "筆跡",
+        "読解力",
+        "会話力"
+      ],
+      "correctAnswer": "筆跡",
+      "explanation": "「penmanship」とは、手書きの文字のスタイルや質を指します。美しい筆跡や整った文字を書く能力を意味することが多く、カリグラフィーなどの芸術的な側面も含まれます。例文：Her penmanship was so elegant that it looked like calligraphy.（彼女の筆跡は非常に優雅で、まるでカリグラフィーのようだった。）"
+    },
+    {
+      "id": 7,
+      "value": "keep track of",
+      "options": [
+        "無視する",
+        "記録する",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "記録する",
+      "explanation": "「keep track of」とは、何かを追跡したり、記録したり、監視したりすることを意味します。特定の情報や状況の変化を把握するために、注意を払い続けるニュアンスがあります。例文：I need to keep track of my expenses to stay within budget.（予算内に収まるように、支出を記録する必要があります。）"
+    },
+    {
+      "id": 8,
+      "value": "hit upon",
+      "options": [
+        "見つける",
+        "忘れる",
+        "避ける",
+        "隠す"
+      ],
+      "correctAnswer": "見つける",
+      "explanation": "「hit upon」とは、偶然に何かを見つけたり、思いついたりすることを意味します。特に、探していたわけではないアイデアや解決策を偶然見つける際に使われます。例文：I hit upon a great idea for a new product.（新製品の素晴らしいアイデアを偶然見つけました。）"
+    },
+    {
+      "id": 9,
+      "value": "time-suck",
+      "options": [
+        "時間の節約",
+        "時間の無駄",
+        "時間の管理",
+        "時間の創造"
+      ],
+      "correctAnswer": "時間の無駄",
+      "explanation": "「time-suck」とは、多くの時間やエネルギーを浪費する活動やものを指す口語的な表現です。非生産的で、時間を無駄に費やしてしまうものを批判的に表現する際に使われます。例文：Social media can be a real time-suck if you're not careful.（注意しないと、ソーシャルメディアは本当に時間の無駄になることがあります。）"
+    },
+    {
+      "id": 10,
+      "value": "comb through",
+      "options": [
+        "ざっと読む",
+        "注意深く調べる",
+        "無視する",
+        "捨てる"
+      ],
+      "correctAnswer": "注意深く調べる",
+      "explanation": "「comb through」とは、何かを探すために、または詳細を理解するために、何かを注意深く徹底的に調べることを意味します。文書、データ、場所などを対象に、細部にわたって調査するニュアンスがあります。例文：I need to comb through these documents to find the relevant information.（関連情報を見つけるために、これらの文書を注意深く調べる必要があります。）"
+    },
+    {
+      "id": 11,
+      "value": "rudimentary understanding",
+      "options": [
+        "高度な理解",
+        "基本的な理解",
+        "誤った理解",
+        "完全な無知"
+      ],
+      "correctAnswer": "基本的な理解",
+      "explanation": "「rudimentary understanding」とは、基本的な、または初歩的な理解を意味します。ある主題や概念について、深い知識や専門的なスキルはないものの、基本的な概念や原則を理解している状態を指します。例文：He has a rudimentary understanding of computer programming.（彼はコンピュータプログラミングの基本的な理解を持っています。）"
+    },
+    {
+      "id": 12,
+      "value": "menial labor",
+      "options": [
+        "高度な専門職",
+        "単純労働",
+        "創造的な仕事",
+        "管理職"
+      ],
+      "correctAnswer": "単純労働",
+      "explanation": "「menial labor」とは、特別なスキルや訓練を必要としない、退屈で反復的な肉体労働を指します。しばしば低賃金で、社会的な地位が低いとみなされることが多いです。例文：Many immigrants are forced to take menial labor jobs when they first arrive in a new country.（多くの移民は、新しい国に到着した当初、単純労働の仕事に就かざるを得ない。）"
+    },
+    {
+      "id": 13,
+      "value": "not gonna happen",
+      "options": [
+        "起こりそうだ",
+        "絶対に起こらない",
+        "多分起こる",
+        "すでに起こった"
+      ],
+      "correctAnswer": "絶対に起こらない",
+      "explanation": "「not gonna happen」とは、「それは起こらない」「ありえない」という意味の非常にカジュアルな表現です。「going to」が「gonna」に短縮されており、口語的な会話でよく使われます。強い否定や拒否の意を表します。例文：A: Do you think he'll apologize? B: Not gonna happen.（A: 彼が謝ると思う？ B: ありえないね。）"
+    },
+    {
+      "id": 14,
+      "value": "assess the quality",
+      "options": [
+        "品質を無視する",
+        "品質を評価する",
+        "品質を隠す",
+        "品質を改善する"
+      ],
+      "correctAnswer": "品質を評価する",
+      "explanation": "「assess the quality」とは、品質を評価または判断することを意味します。製品、サービス、または作業の品質を客観的に評価し、その価値や適合性を判断するプロセスを指します。例文：We need to assess the quality of the materials before we start building.（建設を始める前に、材料の品質を評価する必要があります。）"
+    },
+    {
+      "id": 15,
+      "value": "self-contradictory",
+      "options": [
+        "自己矛盾の",
+        "自己満足の",
+        "自己犠牲の",
+        "自己中心の"
+      ],
+      "correctAnswer": "自己矛盾の",
+      "explanation": "「self-contradictory」とは、自分自身の中で矛盾している、または矛盾した要素を含んでいるという意味です。ある主張、理論、または行動が、それ自体と矛盾している場合に使われます。例文：His statement was self-contradictory and made no sense.（彼の発言は自己矛盾しており、意味をなしませんでした。）"
+    },
+    {
+      "id": 16,
+      "value": "before we begin",
+      "options": [
+        "始める前に",
+        "始めた後に",
+        "始めるのをやめて",
+        "始めたと同時に"
+      ],
+      "correctAnswer": "始める前に",
+      "explanation": "「before we begin」とは、「始める前に」という意味で、何かを開始する前に使われる一般的なフレーズです。会議、プレゼンテーション、または活動を開始する前に、準備や指示を伝える際によく用いられます。例文：Before we begin, let's go over the agenda for today's meeting.（始める前に、今日の会議の議題を確認しましょう。）"
+    },
+    {
+      "id": 17,
+      "value": "accomplished",
+      "options": [
+        "未熟な",
+        "熟達した",
+        "怠惰な",
+        "不器用な"
+      ],
+      "correctAnswer": "熟達した",
+      "explanation": "「accomplished」とは、熟達した、才能のある、または成功したという意味です。特定の分野で高いスキルや知識を持ち、優れた成果を上げている人を指します。例文：She is an accomplished pianist and has won many awards.（彼女は熟達したピアニストであり、多くの賞を受賞しています。）"
+    },
+    {
+      "id": 18,
+      "value": "postulating",
+      "options": [
+        "証明する",
+        "仮定する",
+        "否定する",
+        "無視する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "「postulating」とは、何かが真実であると仮定または主張することを意味します。証拠が不十分な場合に、理論や仮説を立てる際に使われます。例文：The theory postulates that the universe is expanding.（その理論は、宇宙が膨張していると仮定しています。）"
+    },
+    {
+      "id": 19,
+      "value": "fast track",
+      "options": [
+        "遅延",
+        "迅速な進展",
+        "遠回り",
+        "停滞"
+      ],
+      "correctAnswer": "迅速な進展",
+      "explanation": "「fast track」とは、通常よりも速いペースで進むこと、または出世街道に乗ることを意味します。目標達成や昇進が迅速に進む状況を指します。例文：He was put on the fast track to become a CEO.（彼はCEOになるための出世街道に乗せられました。）"
+    },
+    {
+      "id": 20,
+      "value": "academic stride",
+      "options": [
+        "学業の低迷",
+        "学業の絶頂期",
+        "学業の中断",
+        "学業の始まり"
+      ],
+      "correctAnswer": "学業の絶頂期",
+      "explanation": "「academic stride」とは、学業において最も成果を上げている時期や状態を指します。最高のパフォーマンスを発揮し、順調に学習が進んでいる状況を表します。例文：She didn't really hit her academic stride until college.（彼女は大学に入るまで、学業の絶頂期を迎えることはありませんでした。）"
+    },
+    {
+      "id": 21,
+      "value": "algebraic topology",
+      "options": [
+        "代数的生物学",
+        "代数的トポロジー",
+        "代数的心理学",
+        "代数的宇宙論"
+      ],
+      "correctAnswer": "代数的トポロジー",
+      "explanation": "「algebraic topology」とは、代数学的な手法を用いて位相空間の性質を研究する数学の一分野です。図形の連続的な変形に関する問題を扱う際に、代数学の概念やツールが利用されます。位相幾何学とも呼ばれます。例文：Algebraic topology has applications in physics and computer science.（代数的トポロジーは、物理学やコンピュータ科学に応用されています。）"
+    },
+    {
+      "id": 22,
+      "value": "non self-contradictory",
+      "options": [
+        "自己矛盾のある",
+        "自己矛盾のない",
+        "自己完結の",
+        "自己犠牲の"
+      ],
+      "correctAnswer": "自己矛盾のない",
+      "explanation": "「non self-contradictory」とは、自己矛盾がない、つまり、内部に矛盾した要素を含んでいないという意味です。論理的な一貫性や整合性がある状態を指します。例文：The argument was logically sound and non self-contradictory.（その議論は論理的に健全で、自己矛盾がありませんでした。）"
+    },
+    {
+      "id": 23,
+      "value": "abelian groups",
+      "options": [
+        "非可換群",
+        "可換群",
+        "有限群",
+        "無限群"
+      ],
+      "correctAnswer": "可換群",
+      "explanation": "「abelian groups」とは、群の演算が可換である群、つまり、任意の2つの要素a, bに対して a * b = b * a が成り立つ群のことです。加法群とも呼ばれます。数論や代数学で重要な概念です。例文：The set of integers under addition forms an abelian group.（加法における整数の集合は可換群を形成します。）"
+    },
+    {
+      "id": 24,
+      "value": "may I offer you",
+      "options": [
+        "提供してもいいですか",
+        "提供をやめてもいいですか",
+        "提供を拒否しますか",
+        "提供を強制しますか"
+      ],
+      "correctAnswer": "提供してもいいですか",
+      "explanation": "「may I offer you」とは、「～を提供してもよろしいでしょうか」という意味の丁寧な表現です。相手に何かを勧めたり、提供したりする際に、許可を求めるニュアンスが含まれています。例文：May I offer you a drink?（飲み物を提供してもよろしいでしょうか？）"
+    },
+    {
+      "id": 25,
+      "value": "accomplished self-promoter",
+      "options": [
+        "自己宣伝が下手な人",
+        "自己宣伝が得意な人",
+        "自己犠牲的な人",
+        "自己中心的でない人"
+      ],
+      "correctAnswer": "自己宣伝が得意な人",
+      "explanation": "「accomplished self-promoter」とは、自分の能力や業績を効果的にアピールすることが得意な人を指します。自己宣伝を通じて、自分の価値を高め、機会を広げることができる人物を指します。例文：He is an accomplished self-promoter and knows how to market himself.（彼は自己宣伝が得意で、自分を売り込む方法を知っています。）"
+    },
+    {
+      "id": 26,
+      "value": "ruse",
+      "options": [
+        "策略",
+        "真実",
+        "偶然",
+        "贈り物"
+      ],
+      "correctAnswer": "策略",
+      "explanation": "「ruse」は、人を欺くための策略、計略を意味します。特に、注意深く計画された、巧妙な欺瞞を指すことが多いです。相手を誤った方向に誘導したり、秘密裏に行動したりするニュアンスがあります。\n\n例：It was just a ruse to distract her. (それは彼女の気をそらすための単なる策略だった。)"
+    },
+    {
+      "id": 27,
+      "value": "summa cum laude",
+      "options": [
+        "落第",
+        "優秀",
+        "中の上",
+        "不可"
+      ],
+      "correctAnswer": "優秀",
+      "explanation": "「summa cum laude」は、大学などの教育機関で授与される最も高い栄誉の一つで、「最優等」という意味のラテン語です。卒業生が非常に優秀な成績を収めた場合に与えられます。学業成績が特に優れていることを示します。\n\n例：She graduated summa cum laude from Harvard. (彼女はハーバード大学を最優等の成績で卒業した。)"
+    },
+    {
+      "id": 28,
+      "value": "persistent",
+      "options": [
+        "一時的な",
+        "持続的な",
+        "まれな",
+        "急な"
+      ],
+      "correctAnswer": "持続的な",
+      "explanation": "「persistent」は、何かが中断することなく、または繰り返し起こることを意味します。困難や障害にもかかわらず、粘り強く続く様子を表します。病気、問題、努力など、様々な状況で使用されます。\n\n例：The rain was persistent all day. (雨は一日中降り続いた。)"
+    },
+    {
+      "id": 29,
+      "value": "unimpaired",
+      "options": [
+        "損傷した",
+        "悪化した",
+        "損なわれていない",
+        "不明な"
+      ],
+      "correctAnswer": "損なわれていない",
+      "explanation": "「unimpaired」は、何かが損傷を受けていない、損なわれていない状態を指します。身体的な能力や機能、精神的な能力などが正常に機能していることを表す際に用いられます。\n\n例：His vision remained unimpaired despite his age. (彼の視力は年齢にもかかわらず損なわれていなかった。)"
+    },
+    {
+      "id": 30,
+      "value": "Flattery will not get you this job",
+      "options": [
+        "正直さが成功の鍵",
+        "謙虚さが重要",
+        "お世辞は無意味",
+        "努力は必ず報われる"
+      ],
+      "correctAnswer": "お世辞は無意味",
+      "explanation": "「Flattery will get you nowhere (または not get you anywhere)」ということわざは、お世辞を言っても目的を達成することはできないという意味です。相手を褒めたり、気に入られようとしたりするだけでは、望む結果は得られないという警告として使われます。\n\n例：Stop trying to flatter me; flattery will get you nowhere. (お世辞はやめてください。お世辞を言っても無駄ですよ。)"
+    },
+    {
+      "id": 31,
+      "value": "Welcome aboard",
+      "options": [
+        "出発の準備",
+        "再考の余地",
+        "搭乗歓迎",
+        "立ち入り禁止"
+      ],
+      "correctAnswer": "搭乗歓迎",
+      "explanation": "「Welcome aboard」は、新しいメンバーを組織やチームに歓迎する際に使われる表現です。文字通りには船や飛行機に「搭乗歓迎」という意味ですが、比喩的に、新しい役割やプロジェクトへの参加を歓迎する際に用いられます。\n\n例：Welcome aboard, we're glad to have you on the team. (ようこそ、チームに加わってくれて嬉しいです。)"
+    },
+    {
+      "id": 32,
+      "value": "dibs",
+      "options": [
+        "義務",
+        "権利",
+        "許可",
+        "興味"
+      ],
+      "correctAnswer": "権利",
+      "explanation": "「dibs」は、何かに対する優先権や権利を主張する際に使われるスラングです。通常、「I call dibs!」という形で、ある物や機会に対する自分の取り分や使用権を宣言します。子供の間でよく使われる表現ですが、大人もカジュアルな状況で使用することがあります。\n\n例：I call dibs on the front seat! (前の席は僕の取り分！)"
+    },
+    {
+      "id": 33,
+      "value": "acid reflux",
+      "options": [
+        "筋肉痛",
+        "高血圧",
+        "逆流性食道炎",
+        "貧血"
+      ],
+      "correctAnswer": "逆流性食道炎",
+      "explanation": "「acid reflux」は、胃酸が食道に逆流する状態を指します。これにより、胸焼けやげっぷなどの不快な症状が生じることがあります。慢性的な酸逆流は、胃食道逆流症（GERD）と呼ばれる病気になることがあります。\n\n例：Spicy foods can trigger acid reflux. (辛い食べ物は酸逆流を引き起こすことがある。)"
+    },
+    {
+      "id": 34,
+      "value": "man-eater",
+      "options": [
+        "人道主義者",
+        "男性を破滅させる女性",
+        "菜食主義者",
+        "冒険家"
+      ],
+      "correctAnswer": "男性を破滅させる女性",
+      "explanation": "「man-eater」は、男性を誘惑し、利用したり、不幸にしたりする女性を指す言葉です。しばしば、魅力的な外見や狡猾な性格を持ち、男性関係において支配的な役割を果たす女性を指します。ただし、この言葉はやや否定的なニュアンスを含むことがあります。\n\n例：She's known as a man-eater because of her past relationships. (彼女は過去の恋愛関係から、男性を破滅させる女性として知られている。)"
+    },
+    {
+      "id": 51,
+      "value": "come on to",
+      "options": [
+        "同意する",
+        "言い寄る",
+        "手伝う",
+        "降りてくる"
+      ],
+      "correctAnswer": "言い寄る",
+      "explanation": "「come on to」は、誰かに性的な関心を示し、誘惑しようとすることを意味します。相手が必ずしも歓迎しているとは限らないニュアンスが含まれます。例文：He was coming on to her at the party. (彼はパーティーで彼女に言い寄っていた。)"
+    },
+    {
+      "id": 52,
+      "value": "for starters",
+      "options": [
+        "まず第一に",
+        "初心者向けに",
+        "スターターとして",
+        "出発点として"
+      ],
+      "correctAnswer": "まず第一に",
+      "explanation": "「for starters」は、議論や説明を始める際に、「まず第一に」「最初に」という意味で使われます。複数の理由やポイントを挙げる際に、最初のポイントを紹介するのに適しています。例文：For starters, the service was terrible, and the food was cold. (まず第一に、サービスはひどく、料理は冷たかった。)"
+    },
+    {
+      "id": 53,
+      "value": "suspicious about",
+      "options": [
+        "自信がある",
+        "心配している",
+        "興味がある",
+        "疑念を抱いている"
+      ],
+      "correctAnswer": "疑念を抱いている",
+      "explanation": "「suspicious about」は、何かに対して疑念や不信感を抱いている状態を表します。根拠がある程度の疑いを持っている状況で使われます。例文：I'm suspicious about his sudden change of behavior. (彼の急な態度の変化を疑っている。)"
+    },
+    {
+      "id": 54,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待つ",
+        "続ける",
+        "諦める"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、人に少しの間待つように頼む時に使う口語的な表現です。電話で「少々お待ちください」と言う時や、物理的に待ってほしい時にも使えます。例文：Hang on a second, I'll be right back. (ちょっと待って、すぐに戻るよ。)"
+    },
+    {
+      "id": 55,
+      "value": "mark my territory",
+      "options": [
+        "縄張りを主張する",
+        "場所をきれいにする",
+        "地図に印をつける",
+        "自分の領土を広げる"
+      ],
+      "correctAnswer": "縄張りを主張する",
+      "explanation": "「mark my territory」は、自分の所有権や支配権を主張する、特に競争的な状況で使われる表現です。動物が自分の縄張りにマーキングするように、人間関係やビジネスなど、さまざまな状況で使われます。例文：He's just trying to mark his territory in the company. (彼は会社で自分の縄張りを主張しようとしているだけだ。)"
+    },
+    {
+      "id": 56,
+      "value": "all over",
+      "options": [
+        "すべて終わって",
+        "至る所に",
+        "完全に",
+        "繰り返して"
+      ],
+      "correctAnswer": "至る所に",
+      "explanation": "「all over」は、「〜の至る所に」「〜全体に」という意味で、場所や範囲全体に広がっている状態を表します。物理的な場所だけでなく、抽象的な概念にも使えます。例文：The kids had toys all over the house. (子供たちがおもちゃを家の至る所に散らかしていた。)"
+    },
+    {
+      "id": 57,
+      "value": "in her head",
+      "options": [
+        "彼女の頭の中で",
+        "彼女の考えを",
+        "彼女に夢中で",
+        "彼女の代わりに"
+      ],
+      "correctAnswer": "彼女の頭の中で",
+      "explanation": "「in her head」は、誰かの思考や意識の中に存在するという意味です。この文脈では、RajがAlexの意識の中に自分が存在していると思い込んでいることを示しています。例文：He's living in her head rent-free. (彼は彼女の頭の中にただで住んでいる＝彼女は彼のことをいつも考えている。)"
+    },
+    {
+      "id": 58,
+      "value": "side by side",
+      "options": [
+        "一つずつ",
+        "並んで",
+        "交互に",
+        "一緒に"
+      ],
+      "correctAnswer": "並んで",
+      "explanation": "「side by side」は、「横に並んで」「並行して」という意味で、物理的に隣り合っている状態や、協力して何かを行う様子を表します。例文：They worked side by side on the project. (彼らはそのプロジェクトで協力して作業した。)"
+    },
+    {
+      "id": 59,
+      "value": "I'm not mad at you, I'm just disappointed.",
+      "options": [
+        "怒ってはないが、興味がない",
+        "怒ってはないが、驚いている",
+        "怒ってはないが、落胆している",
+        "怒ってはないが、悲しんでいる"
+      ],
+      "correctAnswer": "怒ってはないが、落胆している",
+      "explanation": "「I'm not mad at you, I'm just disappointed.」は、相手の行動に対して怒りを感じているわけではないが、期待外れだったという気持ちを伝える表現です。相手に対する愛情や期待があるからこそ、落胆するというニュアンスが含まれます。例文：I'm not mad, just disappointed that you didn't tell me the truth. (怒ってはないよ、ただ君が本当のことを教えてくれなかったことに失望しているんだ。)"
+    },
+    {
+      "id": 60,
+      "value": "a moment",
+      "options": [
+        "永遠に",
+        "少しの間",
+        "重要な瞬間",
+        "過去"
+      ],
+      "correctAnswer": "少しの間",
+      "explanation": "「a moment」は、「少しの間」「ちょっと」という意味で、短い時間を指します。人に何かを頼む時や、中断する時によく使われます。例文：Can I have a moment of your time? (少しお時間をいただけますか？)"
+    },
+    {
+      "id": 61,
+      "value": "a word with",
+      "options": [
+        "相談",
+        "会話",
+        "短い話",
+        "手紙"
+      ],
+      "correctAnswer": "短い話",
+      "explanation": "「a word with」は、誰かと「ちょっと話したい」という意味です。通常、個人的な話や短い相談事をしたい時に使われます。例文：I need to have a word with you about your performance. (君の成績について少し話したいことがある。)"
+    },
+    {
+      "id": 62,
+      "value": "given her station",
+      "options": [
+        "彼女の駅で",
+        "彼女の才能を考えると",
+        "彼女の立場を考えると",
+        "彼女の年齢を考えると"
+      ],
+      "correctAnswer": "彼女の立場を考えると",
+      "explanation": "「given her station」は、「彼女の立場を考えると」「彼女の身分を考えると」という意味です。社会的な地位や役割を考慮に入れることを示唆します。ここでは、SheldonがAlexを「召使い」のような低い身分と見なしていることがわかります。例文：Given his station in life, he had few opportunities. (彼の人生における立場を考えると、彼はほとんど機会がなかった。)"
+    },
+    {
+      "id": 63,
+      "value": "a glimpse of",
+      "options": [
+        "詳細な説明",
+        "ちらっと見ること",
+        "長い間見ること",
+        "秘密の共有"
+      ],
+      "correctAnswer": "ちらっと見ること",
+      "explanation": "「a glimpse of」は、「〜をちらっと見ること」「〜を垣間見ること」という意味です。短時間だけ見えることや、部分的にしか見えない状況を表します。例文：She caught a glimpse of him as he walked past. (彼女は彼が通り過ぎるのをちらっと見た。)"
+    },
+    {
+      "id": 64,
+      "value": "soot-stained",
+      "options": [
+        "すすで汚れた",
+        "日光にさらされた",
+        "血で染まった",
+        "涙で濡れた"
+      ],
+      "correctAnswer": "すすで汚れた",
+      "explanation": "「soot-stained」は、「すすで汚れた」という意味で、煤や煙によって汚れている状態を表します。ここでは、召使いの生活が過酷で、汚れているイメージを強調するために使われています。例文：The old factory was soot-stained from years of use. (その古い工場は何年も使われてすすで汚れていた。)"
+    },
+    {
+      "id": 65,
+      "value": "happen to be",
+      "options": [
+        "偶然〜である",
+        "〜になろうとしている",
+        "〜であるべきだ",
+        "〜に反対する"
+      ],
+      "correctAnswer": "偶然〜である",
+      "explanation": "「happen to be」は、「偶然〜である」「たまたま〜である」という意味で、予期していなかった事柄や偶然の一致を表します。例文：I happen to be free tonight. (今夜はたまたま空いているんだ。)"
+    },
+    {
+      "id": 66,
+      "value": "all right?",
+      "options": [
+        "大丈夫ですか？",
+        "正しいですか？",
+        "準備できましたか？",
+        "全部書きましたか？"
+      ],
+      "correctAnswer": "大丈夫ですか？",
+      "explanation": "「all right?」は、「大丈夫ですか？」「元気ですか？」という意味で、相手の状態を気遣う時に使われます。特に心配そうな様子や、何か問題があったのではないかと感じる時に使われます。例文：You look pale, are you all right? (顔色が悪いけど、大丈夫？)"
+    },
+    {
+      "id": 67,
+      "value": "poster boy",
+      "options": [
+        "英雄",
+        "広告塔",
+        "理想像",
+        "模範囚"
+      ],
+      "correctAnswer": "広告塔",
+      "explanation": "「poster boy」は、特定の特徴や理念を代表する人物を指します。良い意味でも悪い意味でも使われ、ここではLeonardがRajを「正気」の代表として皮肉っぽく表現しています。例文：He's the poster boy for healthy living. (彼は健康的な生活の広告塔だ＝健康的な生活を送る模範的な人だ。)"
+    },
+    {
+      "id": 68,
+      "value": "been around",
+      "options": [
+        "存在していた",
+        "旅行していた",
+        "経験豊富である",
+        "迷っていた"
+      ],
+      "correctAnswer": "経験豊富である",
+      "explanation": "「been around」は、様々な場所や状況を経験してきたという意味で、特に「been around scientists」は、科学者たちと接する経験が豊富であることを示します。例文：She's been around the world and seen a lot. (彼女は世界中を旅して多くのものを見てきた。)"
+    },
+    {
+      "id": 69,
+      "value": "Search for Extraterrestrial Intelligence",
+      "options": [
+        "宇宙探査",
+        "地球外生命体探査",
+        "宇宙旅行",
+        "人工知能研究"
+      ],
+      "correctAnswer": "地球外生命体探査",
+      "explanation": "「Search for Extraterrestrial Intelligence」は、地球外知的生命体探査のことで、SETIという略称でよく知られています。科学的なプロジェクトとして、宇宙からの信号を捉え、地球外生命の存在を探ることを目的としています。"
+    },
+    {
+      "id": 70,
+      "value": "the search is over",
+      "options": [
+        "捜索は終わった",
+        "検索できません",
+        "調査中",
+        "探求の始まり"
+      ],
+      "correctAnswer": "捜索は終わった",
+      "explanation": "「the search is over」は、文字通りには「捜索は終わった」という意味ですが、この文脈ではSheldonというユニークな人物がいるので、もう地球外生命を探す必要はないという、皮肉を込めたジョークとして使われています。"
+    },
+    {
+      "id": 71,
+      "value": "weird",
+      "options": [
+        "怒っている",
+        "奇妙な",
+        "悲しい",
+        "幸せな"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "「weird」は、「奇妙な」「変な」という意味で、通常とは異なる、少し不気味な感じを含む場合もあります。例文：That's weird. I thought I left my keys on the table. (変だ。鍵をテーブルに置いたと思ったのに。)"
+    },
+    {
+      "id": 72,
+      "value": "mention",
+      "options": [
+        "隠す",
+        "示唆する",
+        "言及する",
+        "忘れる"
+      ],
+      "correctAnswer": "言及する",
+      "explanation": "「mention」は、「言及する」「〜について触れる」という意味です。何かを話す際に、軽く触れたり、簡単に言及する場合に使われます。例文：He didn't mention anything about the meeting. (彼は会議について何も言及しなかった。)"
+    },
+    {
+      "id": 73,
+      "value": "appropriate",
+      "options": [
+        "不適切な",
+        "適切な",
+        "簡単な",
+        "難しい"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "「appropriate」は、「適切な」「ふさわしい」という意味です。特定の状況や目的に対して、適切であるかどうかを判断する際に使われます。例文：Is it appropriate to wear jeans to a wedding? (結婚式にジーンズを履いていくのは適切ですか？)"
+    },
+    {
+      "id": 74,
+      "value": "dissertation",
+      "options": [
+        "討論",
+        "講義",
+        "学位論文",
+        "短いエッセイ"
+      ],
+      "correctAnswer": "学位論文",
+      "explanation": "「dissertation」は、「学位論文」という意味で、特に博士号を取得するために書かれる長編の研究論文を指します。高度な専門知識と研究能力が求められます。例文：She is working on her dissertation about climate change. (彼女は気候変動に関する学位論文に取り組んでいる。)"
+    },
+    {
+      "id": 75,
+      "value": "expertise",
+      "options": [
+        "専門知識",
+        "興味",
+        "友人",
+        "敵"
+      ],
+      "correctAnswer": "専門知識",
+      "explanation": "「expertise」は、「専門知識」「専門技術」という意味で、特定の分野における高度な知識や技能を指します。経験や訓練を通じて得られることが多いです。例文：He has a lot of expertise in computer programming. (彼はコンピュータプログラミングに関する多くの専門知識を持っている。)"
+    },
+    {
+      "id": 76,
+      "value": "skank",
+      "options": [
+        "賢者",
+        "怠け者",
+        "だらしない女",
+        "詐欺師"
+      ],
+      "correctAnswer": "だらしない女",
+      "explanation": "「Skank」は、軽蔑的な意味合いで女性を指す言葉です。特に、性的にだらしない、または不快な行動をする女性に対して使われます。非常に侮辱的な言葉なので、使用は避けるべきです。"
+    },
+    {
+      "id": 77,
+      "value": "roughly",
+      "options": [
+        "正確に",
+        "おおよそ",
+        "完全に",
+        "詳細に"
+      ],
+      "correctAnswer": "おおよそ",
+      "explanation": "「Roughly」は、正確ではないがおおよその数量や程度を示す副詞です。見積もりや概算を伝える際に便利です。例文：The project will take roughly two weeks. (そのプロジェクトはおよそ2週間かかるでしょう。)"
+    },
+    {
+      "id": 78,
+      "value": "putting on a brave face",
+      "options": [
+        "勇敢な顔をすること",
+        "化粧をすること",
+        "仮面を被ること",
+        "強がること"
+      ],
+      "correctAnswer": "強がること",
+      "explanation": "「Putting on a brave face」とは、実際には不安や悲しみを感じているにもかかわらず、平然を装うことを意味します。困難な状況に直面した際に、感情を隠して強く振る舞う様子を表します。例文: She was putting on a brave face after losing her job. (彼女は失業後、強がっていた。)"
+    },
+    {
+      "id": 79,
+      "value": "courting",
+      "options": [
+        "訴えること",
+        "求愛すること",
+        "議論すること",
+        "訓練すること"
+      ],
+      "correctAnswer": "求愛すること",
+      "explanation": "「Courting」は、誰かの愛情を得ようと努力することを意味します。恋愛関係を築くために積極的にアプローチする行為を指し、しばしば古風なニュアンスを含みます。例文：He was courting her with flowers and romantic dinners. (彼は花束やロマンチックなディナーで彼女に求愛していた。)"
+    },
+    {
+      "id": 80,
+      "value": "hindquarters",
+      "options": [
+        "前足",
+        "後肢",
+        "頭部",
+        "尾部"
+      ],
+      "correctAnswer": "後肢",
+      "explanation": "「Hindquarters」は、動物の体の後ろ部分、特に腰から後ろの部位を指します。四足動物の解剖学的な記述でよく使用されます。日常会話ではあまり使われません。例文：The horse's powerful hindquarters allowed it to jump over the fence. (その馬の力強い後肢のおかげで、柵を飛び越えることができた。)"
+    },
+    {
+      "id": 81,
+      "value": "prefrontal cortex",
+      "options": [
+        "前頭前皮質",
+        "小脳",
+        "海馬",
+        "扁桃体"
+      ],
+      "correctAnswer": "前頭前皮質",
+      "explanation": "「Prefrontal cortex」は、脳の前頭葉の前部に位置する部位で、計画、意思決定、理性的な思考など高次の認知機能を司ります。感情の抑制や行動の制御にも関わっています。例文：Damage to the prefrontal cortex can lead to impaired judgment. (前頭前皮質の損傷は判断力の低下につながることがある。)"
+    },
+    {
+      "id": 82,
+      "value": "limbic system",
+      "options": [
+        "辺縁系",
+        "呼吸器系",
+        "消化器系",
+        "神経系"
+      ],
+      "correctAnswer": "辺縁系",
+      "explanation": "「Limbic system」は、脳の感情、記憶、行動に関わる一連の構造を指します。扁桃体、海馬、視床下部などが含まれ、恐怖、喜び、怒りなどの感情や、長期記憶の形成に重要な役割を果たします。例文：The limbic system plays a key role in emotional responses. (辺縁系は感情的な反応において重要な役割を果たす。)"
+    },
+    {
+      "id": 83,
+      "value": "desirable",
+      "options": [
+        "望ましい",
+        "軽蔑する",
+        "不要な",
+        "不可能な"
+      ],
+      "correctAnswer": "望ましい",
+      "explanation": "「Desirable」は、魅力的で望ましい、価値があるという意味です。人や物事が魅力的で、手に入れたい、または一緒にいたいと思われる状態を表します。例文：A high salary and good benefits make the job very desirable. (高い給与と良い福利厚生がその仕事を非常に魅力的にしている。)"
+    },
+    {
+      "id": 84,
+      "value": "thrilla",
+      "options": [
+        "スリラー",
+        "ゴリラ",
+        "チラー",
+        "フィラー"
+      ],
+      "correctAnswer": "スリラー",
+      "explanation": "この文脈では、「Thrilla」は「thriller」のスラング的な表現で、興奮やスリルを意味します。特に、ドラマチックな状況や対立を強調するために使われます。マイク・タイソンの試合で使われた「Thrilla in Manila」という言葉が元ネタです。例文：The game was a real thrilla, with both teams fighting hard until the very end. (その試合はまさにスリラーで、両チームが最後まで激しく戦った。)"
+    },
+    {
+      "id": 85,
+      "value": "adjacent to",
+      "options": [
+        "隣接して",
+        "離れて",
+        "垂直に",
+        "反対に"
+      ],
+      "correctAnswer": "隣接して",
+      "explanation": "「Adjacent to」は、何かが別のものに隣接している、またはすぐ近くにあることを意味します。物理的な近さだけでなく、抽象的な概念にも使用できます。例文：The park is adjacent to the school. (その公園は学校に隣接している。)"
+    },
+    {
+      "id": 86,
+      "value": "amygdala",
+      "options": [
+        "扁桃体",
+        "海馬",
+        "小脳",
+        "視床"
+      ],
+      "correctAnswer": "扁桃体",
+      "explanation": "「Amygdala」は、脳の深部に位置するアーモンド型の構造で、感情、特に恐怖や攻撃性の処理に重要な役割を果たします。また、記憶の形成や感情的な反応にも関与しています。例文：The amygdala is activated during fear responses. (扁桃体は恐怖反応時に活性化される。)"
+    },
+    {
+      "id": 87,
+      "value": "busting a gut",
+      "options": [
+        "大笑いする",
+        "腹を立てる",
+        "胃を壊す",
+        "努力する"
+      ],
+      "correctAnswer": "大笑いする",
+      "explanation": "「Busting a gut」は、非常に面白いことに対して、お腹が痛くなるほど大笑いすることを意味するイディオムです。例文：The comedian was so funny, he had the audience busting a gut. (そのコメディアンはとても面白くて、観客は大笑いしていた。)"
+    },
+    {
+      "id": 88,
+      "value": "Heimlich",
+      "options": [
+        "ハイムリッヒ",
+        "ハイリスク",
+        "ハイレベル",
+        "ハイタッチ"
+      ],
+      "correctAnswer": "ハイムリッヒ",
+      "explanation": "「Heimlich」は、食べ物などが喉に詰まった際に、腹部を圧迫して異物を取り除く応急処置法です。ヘンリー・ハイムリッヒ医師によって考案されました。例文：I had to use the Heimlich maneuver to help him when he choked on a piece of meat. (彼が肉を喉に詰まらせたとき、ハイムリッヒ法を使って助けなければならなかった。)"
+    },
+    {
+      "id": 89,
+      "value": "unearthed",
+      "options": [
+        "埋めた",
+        "発掘した",
+        "隠した",
+        "忘れた"
+      ],
+      "correctAnswer": "発掘した",
+      "explanation": "「Unearth」は、地面から何かを掘り出す、または隠されていたものを見つけ出すという意味です。比喩的に、発見や暴露といった意味合いで使われることもあります。例文：The archaeologists unearthed ancient artifacts. (考古学者たちは古代の遺物を発掘した。)"
+    },
+    {
+      "id": 90,
+      "value": "groundbreaking",
+      "options": [
+        "革新的な",
+        "平凡な",
+        "破壊的な",
+        "確立された"
+      ],
+      "correctAnswer": "革新的な",
+      "explanation": "「Groundbreaking」は、非常に革新的で、今までにない新しいアイデアや方法を提供するという意味です。新しい分野を開拓するような、画期的な成果を指します。例文：His research was groundbreaking and changed the way we think about the universe. (彼の研究は画期的で、宇宙に対する考え方を変えた。)"
+    },
+    {
+      "id": 91,
+      "value": "dumbled it down",
+      "options": [
+        "複雑にした",
+        "単純化した",
+        "無視した",
+        "書き換えた"
+      ],
+      "correctAnswer": "単純化した",
+      "explanation": "「Dumb down」は、複雑な情報を理解しやすいように単純化することを意味します。しばしば、内容を浅薄にしたり、知的に劣る人にも理解できるようにするニュアンスを含みます。例文：The article was dumbed down for a general audience. (その記事は一般読者向けに単純化された。)"
+    },
+    {
+      "id": 92,
+      "value": "hysteresis",
+      "options": [
+        "ヒステリシス",
+        "仮説",
+        "相関",
+        "均衡"
+      ],
+      "correctAnswer": "ヒステリシス",
+      "explanation": "「Hysteresis」は、物理学や工学において、系の状態が過去の状態に依存する現象を指します。例えば、磁性体の磁化特性や、材料の弾性変形などに見られます。例文：The hysteresis effect in the magnetic material caused a delay in its response. (その磁性体のヒステリシス効果により、応答に遅延が生じた。)"
+    },
+    {
+      "id": 93,
+      "value": "involved in",
+      "options": [
+        "巻き込まれた",
+        "参加している",
+        "興味がない",
+        "嫌悪している"
+      ],
+      "correctAnswer": "参加している",
+      "explanation": "「Involved in」は、何かに参加している、関わっている、または関係があるという意味です。活動、プロジェクト、または関係性など、様々な状況で使用できます。例文：She is involved in several volunteer projects. (彼女はいくつかのボランティアプロジェクトに参加している。)"
+    },
+    {
+      "id": 94,
+      "value": "held me down",
+      "options": [
+        "支えてくれた",
+        "押さえつけた",
+        "解放してくれた",
+        "見捨てた"
+      ],
+      "correctAnswer": "押さえつけた",
+      "explanation": "「Held me down」は、文字通りには「私を押し付けた」という意味ですが、ここでは拘束された状況を示しています。例文：The guards held him down to prevent him from escaping. (警備員は彼が逃げるのを防ぐために押さえつけた。)"
+    },
+    {
+      "id": 95,
+      "value": "shot",
+      "options": [
+        "注射",
+        "写真",
+        "試み",
+        "機会"
+      ],
+      "correctAnswer": "注射",
+      "explanation": "「Shot」は、ここでは注射を意味します。医療行為として薬液を体内に注入することを指します。例文：The doctor gave him a flu shot. (医者は彼にインフルエンザの予防接種をした。)"
+    },
+    {
+      "id": 96,
+      "value": "weaponised",
+      "options": [
+        "武器化した",
+        "平和化した",
+        "美化した",
+        "保存した"
+      ],
+      "correctAnswer": "武器化した",
+      "explanation": "「Weaponised」は、何かを武器として使用できるように改造または利用することを意味します。比喩的には、情報を操作して攻撃的な目的で使用することも指します。例文：The government was accused of weaponizing information to control the population. (政府は国民をコントロールするために情報を武器化していると非難された。)"
+    },
+    {
+      "id": 97,
+      "value": "grade school",
+      "options": [
+        "小学校",
+        "中学校",
+        "高校",
+        "大学"
+      ],
+      "correctAnswer": "小学校",
+      "explanation": "「Grade school」は、アメリカ合衆国における小学校を指します。通常、幼稚園から5年生または6年生までが含まれます。例文：She started teaching at a grade school after graduating from college. (彼女は大学卒業後、小学校で教え始めた。)"
+    },
+    {
+      "id": 98,
+      "value": "ticket to",
+      "options": [
+        "〜への切符",
+        "〜からの切符",
+        "〜への罰金",
+        "〜からの逃避"
+      ],
+      "correctAnswer": "〜への切符",
+      "explanation": "「Ticket to」は、何かを達成するための手段や機会を指す比喩的な表現です。成功や目標達成への道を開くものを意味します。例文：A good education is often seen as a ticket to a better job. (良い教育は、より良い仕事への切符と見なされることが多い。)"
+    },
+    {
+      "id": 99,
+      "value": "Rederivation",
+      "options": [
+        "再誘導",
+        "削除",
+        "変更",
+        "追加"
+      ],
+      "correctAnswer": "再誘導",
+      "explanation": "「Rederivation」は、既存の理論や公式を異なる方法で導き出すことを意味します。元の結果を別の視点や手法で再検証する際に使用されます。例文：The rederivation of the equation provided new insights into its underlying principles. (その方程式の再誘導は、その根底にある原理に対する新たな洞察を提供した。)"
+    },
+    {
+      "id": 100,
+      "value": "feel free to",
+      "options": [
+        "遠慮なく〜してください",
+        "〜することを禁止します",
+        "〜する義務があります",
+        "〜する必要はありません"
+      ],
+      "correctAnswer": "遠慮なく〜してください",
+      "explanation": "「Feel free to」は、相手に何かをすることを許可または奨励する際に使われる表現です。許可を与えるだけでなく、相手に快適に、または遠慮なく行動してほしいというニュアンスを含みます。例文：Feel free to ask any questions you have. (何か質問があれば遠慮なく聞いてください。)"
+    }
+  ]
+}

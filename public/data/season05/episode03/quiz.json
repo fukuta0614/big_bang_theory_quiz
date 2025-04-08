@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "morsel",
+      "options": [
+        "主要人物",
+        "一片、少量",
+        "重要な要素",
+        "最後の通告"
+      ],
+      "correctAnswer": "一片、少量",
+      "explanation": "「morsel」は、食物の小さな一片、ひとかけらという意味です。比喩的に、何かの一部、少量、断片を指すこともあります。\n\n例：She ate a small morsel of bread. (彼女はパンを少しだけ食べた。)"
+    },
+    {
+      "id": 2,
+      "value": "krengjai",
+      "options": [
+        "謙譲の美徳",
+        "感謝の気持ち",
+        "友情の証",
+        "尊敬の念"
+      ],
+      "correctAnswer": "謙譲の美徳",
+      "explanation": "「krengjai」はタイ語で、相手に迷惑をかけたくない、遠慮する、気遣うといった意味合いを持つ言葉です。相手の気持ちを尊重し、慎み深く振る舞うことを指します。この概念はタイの文化において非常に重要です。\n\n例：Offering someone the last piece of food is a way to show krengjai. (最後の食べ物を人に譲ることは、クレンジャイを示す方法の一つです。)"
+    },
+    {
+      "id": 3,
+      "value": "sitter",
+      "options": [
+        "同居人",
+        "ベビーシッター",
+        "相談役",
+        "傍聴人"
+      ],
+      "correctAnswer": "ベビーシッター",
+      "explanation": "「sitter」は、主に子供の世話をするベビーシッターを指します。一時的に親の代わりに子供の面倒を見る人のことです。\n\n例：We need to find a sitter for Saturday night. (土曜日の夜にベビーシッターを見つけなければ。)"
+    },
+    {
+      "id": 4,
+      "value": "compulsion",
+      "options": [
+        "義務",
+        "衝動",
+        "才能",
+        "嫌悪"
+      ],
+      "correctAnswer": "衝動",
+      "explanation": "「compulsion」は、抑えがたい衝動、強制観念、または強迫行為を意味します。何かをどうしてもしたくなる強い気持ちや、それを行わないと気が済まない状態を指します。\n\n例：He had a compulsion to check the door was locked every night. (彼は毎晩ドアが施錠されているか確認せずにはいられない衝動があった。)"
+    },
+    {
+      "id": 5,
+      "value": "heartbreaking",
+      "options": [
+        "胸が張り裂けるような",
+        "心が温まる",
+        "刺激的な",
+        "忘れられない"
+      ],
+      "correctAnswer": "胸が張り裂けるような",
+      "explanation": "「heartbreaking」は、非常に悲しい、胸が張り裂けるような、痛ましいという意味です。強い悲しみや失望を引き起こす状況や出来事を表します。\n\n例：It's heartbreaking to see so many animals without homes. (家を持たない動物をたくさん見るのは、心が痛む。)"
+    },
+    {
+      "id": 6,
+      "value": "carry on",
+      "options": [
+        "続ける",
+        "中断する",
+        "無視する",
+        "立ち去る"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「carry on」は、続ける、継続するという意味の句動詞です。中断された活動や話を再開する際に使われます。\n\n例：Please, carry on with your work. (どうぞ、仕事を続けてください。)"
+    },
+    {
+      "id": 7,
+      "value": "overstay my welcome",
+      "options": [
+        "歓迎されすぎる",
+        "長居しすぎる",
+        "勘違いする",
+        "親切にする"
+      ],
+      "correctAnswer": "長居しすぎる",
+      "explanation": "「overstay one's welcome」は、人の家や場所に長居しすぎて、相手に迷惑をかけるという意味のイディオムです。歓迎されている期間を超えて滞在することを指します。\n\n例：I don't want to overstay my welcome, so I should probably leave soon. (長居したくないから、そろそろ帰るべきだろう。)"
+    },
+    {
+      "id": 8,
+      "value": "gauge",
+      "options": [
+        "計器",
+        "基準",
+        "規模",
+        "偏見"
+      ],
+      "correctAnswer": "基準",
+      "explanation": "「gauge」は、ここでは鉄道模型の線路幅を指す言葉として使われています。一般的な意味としては、何かを測定する器具、基準、または評価するという意味があります。\n\n例：The fuel gauge is reading empty. (燃料計が空になっている。)"
+    },
+    {
+      "id": 9,
+      "value": "come down on",
+      "options": [
+        "賛成する",
+        "反対する",
+        "判断する",
+        "妥協する"
+      ],
+      "correctAnswer": "賛成する",
+      "explanation": "「come down on」は、特定の意見や立場を支持する、賛成するという意味です。どちらの側につくかを示す際に使われます。\n\n例：Which side do you come down on in this debate? (この議論ではどちらの側に賛成しますか？)"
+    },
+    {
+      "id": 10,
+      "value": "big talk",
+      "options": [
+        "重要な話",
+        "自慢話",
+        "秘密の話",
+        "噂話"
+      ],
+      "correctAnswer": "自慢話",
+      "explanation": "「big talk」は、大げさな話、自慢話、または誇張した発言を指します。しばしば、実現可能性が低い、または根拠のない主張を伴います。\n\n例：That's just big talk; he can't actually do that. (それはただの自慢話だ。彼は実際にそんなことできない。)"
+    },
+    {
+      "id": 11,
+      "value": "illusions",
+      "options": [
+        "現実",
+        "錯覚",
+        "才能",
+        "真実"
+      ],
+      "correctAnswer": "錯覚",
+      "explanation": "「illusions」は、錯覚、幻想、または実際とは異なる見せかけを意味します。特に、手品などで使われる視覚的なトリックを指すことが多いです。\n\n例：The magician created amazing illusions. (マジシャンは驚くべき錯覚を作り出した。)"
+    },
+    {
+      "id": 12,
+      "value": "Hang on",
+      "options": [
+        "頑張って",
+        "待って",
+        "諦めて",
+        "出発して"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on」は、少し待つ、ちょっと待ってという意味で使われる口語表現です。相手に一時的に待機してもらう際に使います。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐに戻るから。)"
+    },
+    {
+      "id": 13,
+      "value": "plenty of",
+      "options": [
+        "少しの",
+        "たくさんの",
+        "ほとんどない",
+        "不足している"
+      ],
+      "correctAnswer": "たくさんの",
+      "explanation": "「plenty of」は、十分な量、たくさんの～があるという意味です。数えられる名詞にも数えられない名詞にも使えます。\n\n例：There's plenty of food for everyone. (みんなのために十分な食べ物がある。)"
+    },
+    {
+      "id": 14,
+      "value": "the last straw",
+      "options": [
+        "最後のチャンス",
+        "最後のわら",
+        "限界点",
+        "始まり"
+      ],
+      "correctAnswer": "限界点",
+      "explanation": "「the last straw」は、我慢の限界を超える最後の出来事、堪忍袋の緒が切れるという意味のイディオムです。それまでの不満が積み重なり、最終的に耐えられなくなる状況を指します。\n\n例：This delay was the last straw; I'm going to complain. (この遅延はもう我慢の限界だ。文句を言うつもりだ。)"
+    },
+    {
+      "id": 15,
+      "value": "on the same page",
+      "options": [
+        "同じページにいる",
+        "同じ意見である",
+        "誤解している",
+        "秘密を共有している"
+      ],
+      "correctAnswer": "同じ意見である",
+      "explanation": "「on the same page」は、同じ理解をしている、共通認識を持っている、意見が一致しているという意味のイディオムです。複数の人が同じ目標や情報を共有している状態を表します。\n\n例：We need to make sure everyone is on the same page before we start the project. (プロジェクトを始める前に、全員が共通認識を持っていることを確認する必要があります。)"
+    },
+    {
+      "id": 16,
+      "value": "get away with",
+      "options": [
+        "逃げる",
+        "成功する",
+        "罰を逃れる",
+        "理解する"
+      ],
+      "correctAnswer": "罰を逃れる",
+      "explanation": "「get away with」は、悪いことやルール違反をしても、罰を受けずに済むという意味の句動詞です。\n\n例：He can't keep getting away with cheating on tests. (彼はテストで不正行為をしてばかりはいられない。)"
+    },
+    {
+      "id": 17,
+      "value": "rule of thumb",
+      "options": [
+        "経験則",
+        "絶対的なルール",
+        "例外規定",
+        "秘密のルール"
+      ],
+      "correctAnswer": "経験則",
+      "explanation": "「rule of thumb」は、経験に基づく概算、目安、または大まかなルールを意味します。必ずしも正確ではありませんが、実用的な指針として役立ちます。\n\n例：As a rule of thumb, you should water plants once a week. (経験則として、植物には週に一度水やりをするべきです。)"
+    },
+    {
+      "id": 18,
+      "value": "step up",
+      "options": [
+        "辞任する",
+        "進歩する",
+        "貢献する",
+        "後退する"
+      ],
+      "correctAnswer": "貢献する",
+      "explanation": "「step up」は、困難な状況で責任を引き受ける、期待以上の働きをする、貢献するという意味です。\n\n例：We need someone to step up and lead the project. (誰かが率先してプロジェクトを率いる必要があります。)"
+    },
+    {
+      "id": 19,
+      "value": "read into",
+      "options": [
+        "読み飛ばす",
+        "深読みする",
+        "朗読する",
+        "解釈する"
+      ],
+      "correctAnswer": "深読みする",
+      "explanation": "「read into」は、言葉や行動に実際にはない意味や意図を読み取ろうとする、深読みするという意味です。\n\n例：Don't read too much into his comments; he probably didn't mean anything by it. (彼のコメントを深読みしないで。おそらく何も意図していなかったでしょう。)"
+    },
+    {
+      "id": 20,
+      "value": "butter up",
+      "options": [
+        "甘やかす",
+        "おだてる",
+        "邪魔する",
+        "無視する"
+      ],
+      "correctAnswer": "おだてる",
+      "explanation": "「butter up」は、お世辞を言ってご機嫌を取る、おだてるという意味のイディオムです。自分の利益のために相手に媚びへつらう行為を指します。\n\n例：He tried to butter up his boss by praising his new suit. (彼は上司の新しいスーツを褒めて、ご機嫌を取ろうとした。)"
+    },
+    {
+      "id": 21,
+      "value": "I rest my case",
+      "options": [
+        "異議あり",
+        "これで十分です",
+        "休憩します",
+        "再開します"
+      ],
+      "correctAnswer": "これで十分です",
+      "explanation": "「I rest my case」は、自分の主張や議論が十分に証明されたと判断し、これ以上反論や証拠を提示する必要がないと判断した時に使われる表現です。\n\n例：I've shown you the evidence; I rest my case. (証拠をお見せしました。これで私の主張は十分です。)"
+    },
+    {
+      "id": 22,
+      "value": "talk someone out of",
+      "options": [
+        "説得してやめさせる",
+        "応援する",
+        "相談する",
+        "無視する"
+      ],
+      "correctAnswer": "説得してやめさせる",
+      "explanation": "「talk someone out of」は、説得して（人）に～をやめさせるという意味です。相手に考え直させ、特定の行動を取らないように促すことを指します。\n\n例：I tried to talk him out of quitting his job. (私は彼に仕事を辞めないように説得しようとした。)"
+    },
+    {
+      "id": 23,
+      "value": "bite the bullet",
+      "options": [
+        "困難に立ち向かう",
+        "逃避する",
+        "後悔する",
+        "楽観視する"
+      ],
+      "correctAnswer": "困難に立ち向かう",
+      "explanation": "「bite the bullet」は、困難な状況や不快な状況に耐える、覚悟を決めるという意味のイディオムです。苦痛や困難を覚悟して受け入れることを指します。\n\n例：I hate going to the dentist, but I have to bite the bullet and make an appointment. (歯医者に行くのは嫌だけど、覚悟を決めて予約しなければ。)"
+    },
+    {
+      "id": 24,
+      "value": "on thin ice",
+      "options": [
+        "危険な状態",
+        "安全な状態",
+        "順調な状態",
+        "幸運な状態"
+      ],
+      "correctAnswer": "危険な状態",
+      "explanation": "「on thin ice」は、危険な状態、危うい立場にあるという意味のイディオムです。何かをすればすぐに問題が起こる可能性がある状況を指します。\n\n例：He's on thin ice with his boss after being late to work so many times. (彼は何度も仕事に遅刻したので、上司との関係が危うい状態だ。)"
+    },
+    {
+      "id": 25,
+      "value": "not look a gift horse in the mouth",
+      "options": [
+        "贈り物に文句を言う",
+        "感謝する",
+        "疑う",
+        "拒否する"
+      ],
+      "correctAnswer": "贈り物に文句を言う",
+      "explanation": "「not look a gift horse in the mouth」は、せっかくの贈り物や好意に対して、あれこれと詮索したり、文句を言ったりするべきではないという意味の諺です。与えられたものを素直に受け入れるべきだという教訓を表します。\n\n例：They offered us a free vacation, so we're not going to look a gift horse in the mouth. (彼らは私たちに無料の休暇を提供してくれたので、ありがたく受け入れるつもりだ。)"
+    },
+    {
+      "id": 26,
+      "value": "mommy issues",
+      "options": [
+        "母親の才能",
+        "母親との問題",
+        "母親の料理",
+        "母親の趣味"
+      ],
+      "correctAnswer": "母親との問題",
+      "explanation": "「mommy issues」とは、幼少期の母親との関係に起因する心理的な問題や葛藤を指す口語表現です。恋愛関係や人間関係に影響を及ぼすことがあります。"
+    },
+    {
+      "id": 27,
+      "value": "possum",
+      "options": [
+        "昼行性の動物",
+        "夜行性の動物",
+        "冬眠する動物",
+        "群れで行動する動物"
+      ],
+      "correctAnswer": "夜行性の動物",
+      "explanation": "「possum」は一般的に夜行性の有袋動物を指します。ここでは、夜更かしをする人を指す比喩として使われています。夜に活発に活動する様子を表現しています。"
+    },
+    {
+      "id": 28,
+      "value": "dork",
+      "options": [
+        "賢い人",
+        "運動神経の良い人",
+        "不器用な人、オタク",
+        "人気者"
+      ],
+      "correctAnswer": "不器用な人、オタク",
+      "explanation": "「dork」は、社会的に不器用な人、オタク、または間抜けな人を指す軽蔑的な言葉です。自虐的に使われることもあります。"
+    },
+    {
+      "id": 29,
+      "value": "set foot in",
+      "options": [
+        "立ち入る",
+        "建設する",
+        "所有する",
+        "避難する"
+      ],
+      "correctAnswer": "立ち入る",
+      "explanation": "「set foot in」は「〜に足を踏み入れる、立ち入る」という意味のイディオムです。ある場所に初めて行く、または特定の場所に行くことを指します。通常は否定的な意味合いで使われることが多いです。"
+    },
+    {
+      "id": 30,
+      "value": "the half of it",
+      "options": [
+        "半分",
+        "全て",
+        "始まり",
+        "終わり"
+      ],
+      "correctAnswer": "全て",
+      "explanation": "「You don't know the half of it.」は、「あなたはまだ事の重大さを分かっていない」という意味の慣用句です。実際にはもっと大変な状況であることを伝えたい時に使います。"
+    },
+    {
+      "id": 31,
+      "value": "give-and-take",
+      "options": [
+        "一方的な意見",
+        "相互のやり取り",
+        "秘密の取引",
+        "個人的な贈り物"
+      ],
+      "correctAnswer": "相互のやり取り",
+      "explanation": "「give-and-take」は、意見や考え方の交換、または交渉における譲歩や妥協を意味します。お互いに意見を出し合い、相手の意見も尊重しながら進めることを指します。"
+    },
+    {
+      "id": 32,
+      "value": "set-up",
+      "options": [
+        "準備",
+        "罠、策略",
+        "設定",
+        "開始"
+      ],
+      "correctAnswer": "罠、策略",
+      "explanation": "「set-up」は、人を陥れるための策略や罠を意味します。不正な目的のために計画的に仕組まれた状況を指します。"
+    },
+    {
+      "id": 33,
+      "value": "intimidate",
+      "options": [
+        "励ます",
+        "勇気づける",
+        "脅す",
+        "尊敬する"
+      ],
+      "correctAnswer": "脅す",
+      "explanation": "「intimidate」は、恐怖や不安を感じさせることで相手を威圧する、脅すという意味です。力や権力を使って相手を支配しようとする行為を指します。"
+    },
+    {
+      "id": 34,
+      "value": "spineless",
+      "options": [
+        "勇敢な",
+        "臆病な",
+        "正直な",
+        "ずる賢い"
+      ],
+      "correctAnswer": "臆病な",
+      "explanation": "「spineless」は、文字通りには「脊髄がない」という意味ですが、比喩的には「意気地なしの、根性なしの」という意味で使われます。決断力や勇気に欠ける人を指します。"
+    },
+    {
+      "id": 35,
+      "value": "rube",
+      "options": [
+        "賢い人",
+        "田舎者、騙されやすい人",
+        "都会の人",
+        "ビジネスマン"
+      ],
+      "correctAnswer": "田舎者、騙されやすい人",
+      "explanation": "「rube」は、田舎者、騙されやすい人という意味で、やや軽蔑的なニュアンスを含む言葉です。都会の人が田舎の人をからかうような場面で使われることがあります。"
+    },
+    {
+      "id": 36,
+      "value": "starter set",
+      "options": [
+        "上級者向けセット",
+        "初心者向けセット",
+        "限定版セット",
+        "プロフェッショナルセット"
+      ],
+      "correctAnswer": "初心者向けセット",
+      "explanation": "「starter set」は、初心者向けに必要なものが一通り揃ったセットのことです。新しい趣味や活動を始める際に便利なように、基本的なアイテムがパッケージされています。"
+    },
+    {
+      "id": 37,
+      "value": "Brad and Angelina",
+      "options": [
+        "一般的なカップル",
+        "有名なカップル",
+        "架空のカップル",
+        "不仲なカップル"
+      ],
+      "correctAnswer": "有名なカップル",
+      "explanation": "「Brad and Angelina」は、かつて非常に有名だったハリウッドスターのカップル、ブラッド・ピットとアンジェリーナ・ジョリーを指します。ここでは、 primatology（霊長類学）部門で有名なカップルであるDr. MoranelliとDr. Gustufsonを比喩的に表現しています。"
+    },
+    {
+      "id": 38,
+      "value": "run it by you",
+      "options": [
+        "秘密にする",
+        "相談する",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "相談する",
+      "explanation": "「run it by you」は、「あなたに相談する、意見を聞く」という意味の口語表現です。提案や計画を実行する前に、相手に知らせて意見を求める際に使います。"
+    },
+    {
+      "id": 39,
+      "value": "give the milk away for free",
+      "options": [
+        "無料サンプルを配る",
+        "無料で性的な関係を持つ",
+        "牛乳をあげる",
+        "秘密を漏らす"
+      ],
+      "correctAnswer": "無料で性的な関係を持つ",
+      "explanation": "「give the milk away for free」は、ここでは「無料で性的な関係を持つ」という意味の婉曲表現です。やや下品なニュアンスを含みます。"
+    },
+    {
+      "id": 40,
+      "value": "sleepover",
+      "options": [
+        "昼寝",
+        "外泊",
+        "徹夜",
+        "仮眠"
+      ],
+      "correctAnswer": "外泊",
+      "explanation": "「sleepover」は、友達の家などに泊まりに行くことを意味します。子供やティーンエイジャーがよく行う活動で、親睦を深める目的があります。"
+    },
+    {
+      "id": 41,
+      "value": "beckoning",
+      "options": [
+        "遠ざける",
+        "手招きする",
+        "無視する",
+        "押しやる"
+      ],
+      "correctAnswer": "手招きする",
+      "explanation": "「beckoning」は、手招きをする、誘うという意味です。ここでは、Amyの魅力的な外見が人を引きつける様子を表現しています。"
+    },
+    {
+      "id": 42,
+      "value": "trial run",
+      "options": [
+        "試運転",
+        "本番",
+        "中止",
+        "見学"
+      ],
+      "correctAnswer": "試運転",
+      "explanation": "「trial run」は、本格的に始める前にテストとして行う試運転や試用を意味します。問題点や改善点を見つけるために行われます。"
+    },
+    {
+      "id": 43,
+      "value": "hello sailor",
+      "options": [
+        "別れの挨拶",
+        "出会いの挨拶",
+        "緊急時の合言葉",
+        "隠語"
+      ],
+      "correctAnswer": "出会いの挨拶",
+      "explanation": "「hello sailor」は、性的な意味合いを含むスラングで、特に男性の性的魅力を評価する際に使われることがあります。ここでは、Amyのcheekbones and beckoning pelvisが男性を誘惑するような魅力を放っていることを示唆しています。"
+    },
+    {
+      "id": 44,
+      "value": "hymen",
+      "options": [
+        "友情",
+        "純潔",
+        "勇気",
+        "幸福"
+      ],
+      "correctAnswer": "純潔",
+      "explanation": "「hymen」は処女膜を意味します。ここではAmyの母親が、友情や楽しさよりも自己尊重と純潔が重要だと考えていることを示唆しています。"
+    },
+    {
+      "id": 45,
+      "value": "set foot in",
+      "options": [
+        "立ち入る",
+        "建設する",
+        "所有する",
+        "避難する"
+      ],
+      "correctAnswer": "立ち入る",
+      "explanation": "「set foot in」は「〜に足を踏み入れる、立ち入る」という意味のイディオムです。ある場所に初めて行く、または特定の場所に行くことを指します。通常は否定的な意味合いで使われることが多いです。"
+    },
+    {
+      "id": 46,
+      "value": "billed as",
+      "options": [
+        "請求書として",
+        "宣伝される",
+        "支払われる",
+        "記録される"
+      ],
+      "correctAnswer": "宣伝される",
+      "explanation": "「billed as」は、「〜として宣伝される」という意味です。広告や宣伝で特定のイベントや商品をどのように紹介しているかを表します。"
+    },
+    {
+      "id": 47,
+      "value": " merits",
+      "options": [
+        "欠点",
+        "長所",
+        "重要性",
+        "方法"
+      ],
+      "correctAnswer": "長所",
+      "explanation": "「merits」は、「長所、美点、利点」という意味です。何かの良い点や価値を評価する際に使われます。"
+    },
+    {
+      "id": 48,
+      "value": " out",
+      "options": [
+        "賛成",
+        "反対",
+        "保留",
+        "中立"
+      ],
+      "correctAnswer": "反対",
+      "explanation": "「out」はここでは「除外された、不適格」という意味です。あるグループや活動から排除された状態を表します。"
+    },
+    {
+      "id": 49,
+      "value": " frankly",
+      "options": [
+        "正直に",
+        "慎重に",
+        "秘密裏に",
+        "婉曲的に"
+      ],
+      "correctAnswer": "正直に",
+      "explanation": "「frankly」は、「率直に、正直に」という意味の副詞です。遠慮なく自分の意見や感情を伝える際に使われます。"
+    },
+    {
+      "id": 50,
+      "value": " concentrated",
+      "options": [
+        "分散した",
+        "集中した",
+        "希釈された",
+        "平均的な"
+      ],
+      "correctAnswer": "集中した",
+      "explanation": "「concentrated」は、「集中した、凝縮された」という意味です。ここでは、楽しみがより小さなものに凝縮されていることを表現しています。"
+    },
+    {
+      "id": 51,
+      "value": "corsage",
+      "options": [
+        "花束",
+        "ケーキ",
+        "コサージュ",
+        "招待状"
+      ],
+      "correctAnswer": "コサージュ",
+      "explanation": "「corsage」は、女性が胸や肩、手首などにつける飾り花のことです。結婚式やプロムなどの特別な機会によく用いられます。花嫁や特別なゲストが身につけることが多いです。\n\n例：She wore a beautiful corsage to the dance. (彼女はダンスに美しいコサージュをつけていた。)"
+    },
+    {
+      "id": 52,
+      "value": "copping a feel",
+      "options": [
+        "感じることを恐れる",
+        "触ろうとする",
+        "盗みを働く",
+        "助けを求める"
+      ],
+      "correctAnswer": "触ろうとする",
+      "explanation": "「copping a feel」は、性的ないやらしい目的で人に触ろうとすることを意味する口語表現です。許可なく不適切に触る行為を指し、通常は非難される行為です。\n\n例: He was accused of copping a feel at the party. (彼はパーティーで痴漢行為をしたと非難された。)"
+    },
+    {
+      "id": 53,
+      "value": "trainiac",
+      "options": [
+        "列車の運転手",
+        "列車の整備士",
+        "列車マニア",
+        "列車の設計士"
+      ],
+      "correctAnswer": "列車マニア",
+      "explanation": "「trainiac」は、「train（列車）」と「maniac（マニア）」を組み合わせた造語で、列車に異常なほどの情熱を注ぐ人を指します。鉄道模型や列車の運行などに熱心なファンを指すことが多いです。\n\n例：He's a real trainiac, he knows everything about trains. (彼は本当に列車マニアで、列車のことなら何でも知っている。)"
+    },
+    {
+      "id": 54,
+      "value": "fatty",
+      "options": [
+        "大きい",
+        "脂肪の多い",
+        "不健康な",
+        "魅力的な"
+      ],
+      "correctAnswer": "脂肪の多い",
+      "explanation": "「fatty」は、脂肪が多いことを意味する形容詞で、食品や肉などに対して使われます。ここでは、ハワードの母親が彼の肉を切り分けている状況で、脂肪の多い部分を指しています。\n\n例：This bacon is too fatty for me. (このベーコンは私には脂っこすぎる。)"
+    },
+    {
+      "id": 55,
+      "value": "brisket",
+      "options": [
+        "肋骨",
+        "ランプ",
+        "ブリスケット",
+        "サーロイン"
+      ],
+      "correctAnswer": "ブリスケット",
+      "explanation": "「brisket」は、牛の胸肉の一部を指します。特にアメリカのバーベキューでよく使われる部位で、長時間かけて燻製にすることで柔らかく美味しくなります。\n\n例: We're having brisket for dinner tonight. (夕食はブリスケットだよ。)"
+    },
+    {
+      "id": 56,
+      "value": "Hubba-hubba",
+      "options": [
+        "さようなら",
+        "おやすみ",
+        "やったー",
+        "急げ急げ"
+      ],
+      "correctAnswer": "やったー",
+      "explanation": "「Hubba-hubba」は、喜びや興奮を表す感嘆詞で、特に魅力的な人を見たときに使われることがあります。ここでは、ハワードの母親が、息子夫婦のプライバシーをからかう意味で使用しています。\n\n例：Hubba-hubba! Look at that car! (やったー！ あの車を見て！)"
+    },
+    {
+      "id": 57,
+      "value": "canoodling",
+      "options": [
+        "料理",
+        "昼寝",
+        "ゲーム",
+        "イチャつく"
+      ],
+      "correctAnswer": "イチャつく",
+      "explanation": "「canoodling」は、抱き合ったりキスをしたりするなど、愛情を示す軽い触れ合いを意味します。親密な関係にある二人が愛情を表現する様子を指します。\n\n例：They were canoodling in the back of the movie theater. (彼らは映画館の後ろでイチャついていた。)"
+    },
+    {
+      "id": 58,
+      "value": "copulation",
+      "options": [
+        "食事",
+        "睡眠",
+        "会話",
+        "性交"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「copulation」は、性交を意味するフォーマルな言葉です。生物学的な文脈や、やや形式ばった状況で使われることがあります。ここでは、結婚したばかりのカップルに対して、ややユーモラスに言及しています。\n\n例：The copulation of animals is necessary for reproduction. (動物の性交は繁殖に必要である。)"
+    },
+    {
+      "id": 59,
+      "value": "bitching",
+      "options": [
+        "歌う",
+        "褒める",
+        "文句を言う",
+        "笑う"
+      ],
+      "correctAnswer": "文句を言う",
+      "explanation": "「bitching」は、不満や文句を言うことを意味する口語表現です。通常、些細なことや個人的な不満について、愚痴っぽく話すことを指します。\n\n例：Stop bitching and get to work. (文句を言うのはやめて仕事に取り掛かりなさい。)"
+    },
+    {
+      "id": 60,
+      "value": "moody self-obsession",
+      "options": [
+        "気分が良い自己陶酔",
+        "暗い自己中心",
+        "明るい自己犠牲",
+        "冷静な自己分析"
+      ],
+      "correctAnswer": "暗い自己中心",
+      "explanation": "「moody self-obsession」は、気分のむらがあり、自分のことばかり考えている状態を指します。特に、自分の感情や問題に没頭し、周囲に気を配らない様子を表します。\n\n例: His moody self-obsession made it difficult to be around him. (彼の暗い自己中心的な性格のせいで、彼の周りにいるのが難しかった。)"
+    },
+    {
+      "id": 61,
+      "value": "icebreaker",
+      "options": [
+        "氷を割る人",
+        "会話のきっかけ",
+        "障害物",
+        "秘密兵器"
+      ],
+      "correctAnswer": "会話のきっかけ",
+      "explanation": "「icebreaker」は、初対面の人同士や、緊張した雰囲気の場を和ませるための言葉や行動を指します。会話を始めやすくするための手段として用いられます。\n\n例：A funny joke can be a good icebreaker. (面白い冗談は良い会話のきっかけになる。)"
+    },
+    {
+      "id": 62,
+      "value": "on fire",
+      "options": [
+        "燃えている",
+        "非常に優れている",
+        "疲れている",
+        "混乱している"
+      ],
+      "correctAnswer": "非常に優れている",
+      "explanation": "「on fire」は、文字通りには「燃えている」という意味ですが、比喩的には「非常に優れている」「絶好調である」という意味で使われます。特に、パフォーマンスやスキルが際立っている状態を指します。\n\n例：The band was on fire last night. (昨夜、そのバンドは最高だった。)"
+    },
+    {
+      "id": 63,
+      "value": "whorish makeup",
+      "options": [
+        "控えめな化粧",
+        "派手な化粧",
+        "自然な化粧",
+        "舞台化粧"
+      ],
+      "correctAnswer": "派手な化粧",
+      "explanation": "「whorish makeup」は、性的な魅力を強調するために施された、けばけばしい化粧を指すやや古い表現です。ここでは、エイミーが自虐的に、自分の化粧をそのような表現で表しています。\n\n例: She was wearing whorish makeup and a short dress. (彼女は派手な化粧と短いドレスを着ていた。)"
+    },
+    {
+      "id": 64,
+      "value": "dress shields",
+      "options": [
+        "ドレスの飾り",
+        "ドレスの保護パッド",
+        "ドレスのベルト",
+        "ドレスのボタン"
+      ],
+      "correctAnswer": "ドレスの保護パッド",
+      "explanation": "「dress shields」は、ドレスの脇の下に装着して汗が染み込むのを防ぐためのパッドです。ドレスを保護し、汗染みを防ぐ役割があります。\n\n例：She used dress shields to protect her silk dress. (彼女はシルクのドレスを保護するためにドレスシールドを使った。)"
+    },
+    {
+      "id": 65,
+      "value": "give up",
+      "options": [
+        "挑戦する",
+        "諦める",
+        "続ける",
+        "改善する"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「give up」は、努力をやめて諦めることを意味します。ここでは、ハワードが母親に対して、トイレから出てくるのを諦めるように言っています。\n\n例：Don't give up on your dreams. (夢を諦めないで。)"
+    },
+    {
+      "id": 66,
+      "value": "the eagle has landed",
+      "options": [
+        "鷲が飛び立った",
+        "着陸成功",
+        "嵐が来た",
+        "計画が失敗した"
+      ],
+      "correctAnswer": "着陸成功",
+      "explanation": "「The eagle has landed」は、アポロ11号が月面着陸に成功した際に使われた有名な言葉で、ここではトイレでの用事が済んだことをユーモラスに表現しています。一般的に、目標の達成や成功を知らせる際に使われます。\n\n例: After months of hard work, the eagle has landed - we closed the deal! (数ヶ月の努力の末、ついに着陸成功だ！ 取引が成立した！)"
+    },
+    {
+      "id": 67,
+      "value": "splashdown",
+      "options": [
+        "打ち上げ",
+        "着水",
+        "爆発",
+        "離陸"
+      ],
+      "correctAnswer": "着水",
+      "explanation": "「splashdown」は、宇宙船などが水面に安全に着水することを指します。ここでは、トイレでの用事が終わったことをユーモラスに表現しています。\n\n例: The astronauts prepared for splashdown after their mission. (宇宙飛行士たちは任務を終え、着水に備えた。)"
+    },
+    {
+      "id": 68,
+      "value": "Hold up one's end",
+      "options": [
+        "自分の終わりを保留する",
+        "自分の役割を果たす",
+        "他人の邪魔をする",
+        "秘密を隠す"
+      ],
+      "correctAnswer": "自分の役割を果たす",
+      "explanation": "\"Hold up one's end\" とは、協力や共同作業において、自分に期待された役割や責任をきちんと果たすことを意味するイディオムです。チームの一員として、またはパートナーシップにおいて、自分の分担をしっかりと行うことが求められる状況で使われます。\n\n例文: \"We need everyone to hold up their end of the bargain to make this project a success.\" (このプロジェクトを成功させるためには、全員が自分の役割をきちんと果たす必要があります。)\""
+    },
+    {
+      "id": 69,
+      "value": "a word of advice",
+      "options": [
+        "賞賛の言葉",
+        "忠告",
+        "感謝の言葉",
+        "脅迫"
+      ],
+      "correctAnswer": "忠告",
+      "explanation": "\"A word of advice\" とは、誰かに助言や忠告を与える際に使われるフレーズです。通常、相手のためを思って、経験や知識に基づいて伝える意見や提案を指します。\n\n例文: \"Can I offer you a word of advice? Don't invest all your money in one stock.\" (一つアドバイスをしても良いですか？ すべてのお金を一つの株に投資しないでください。)\""
+    },
+    {
+      "id": 70,
+      "value": "kinda-sorta",
+      "options": [
+        "完全に",
+        "曖昧な",
+        "非常に",
+        "批判的な"
+      ],
+      "correctAnswer": "曖昧な",
+      "explanation": "\"Kinda-sorta\" は、何かが完全ではなく、ある程度そうであるということを示す口語的な表現です。あいまいさや不確かさを伝えたいときに使われます。\n\n例文: \"We're kinda-sorta dating, but it's not serious yet.\" (私たちはある程度デートしていますが、まだ真剣ではありません。)\""
+    },
+    {
+      "id": 71,
+      "value": "Let me know",
+      "options": [
+        "私に知らせてください",
+        "私を忘れてください",
+        "私を信じてください",
+        "私に許可を求めてください"
+      ],
+      "correctAnswer": "私に知らせてください",
+      "explanation": "\"Let me know\" は、相手に情報や決定を自分に知らせてほしいときに使う一般的な表現です。相手からの返答や連絡を期待していることを示します。\n\n例文: \"Let me know if you can come to the party.\" (パーティーに来られるかどうか教えてください。)\""
+    },
+    {
+      "id": 72,
+      "value": "take a break",
+      "options": [
+        "休憩する",
+        "挑戦する",
+        "謝罪する",
+        "暴露する"
+      ],
+      "correctAnswer": "休憩する",
+      "explanation": "\"Take a break\" は、一時的に活動を停止し、休息を取ることを意味するフレーズです。仕事や勉強など、継続的な活動の合間にリフレッシュするために使われます。\n\n例文: \"You should take a break every hour to avoid burnout.\" (燃え尽き症候群を避けるために、毎時間休憩を取るべきです。)\""
+    },
+    {
+      "id": 73,
+      "value": "passionate love",
+      "options": [
+        "友情",
+        "情熱的な愛",
+        "同情",
+        "ビジネスライクな関係"
+      ],
+      "correctAnswer": "情熱的な愛",
+      "explanation": "\"Passionate love\" は、強い感情、興奮、性的魅力などを伴う愛情の形を指します。深い絆と強烈な感情が特徴です。\n\n例文: \"Their passionate love was evident to everyone around them.\" (彼らの情熱的な愛は周りの誰の目にも明らかでした。)\""
+    },
+    {
+      "id": 74,
+      "value": "get to",
+      "options": [
+        "～に着く",
+        "～する機会を得る",
+        "～から逃れる",
+        "～に反対する"
+      ],
+      "correctAnswer": "～する機会を得る",
+      "explanation": "\"Get to\" は、何かをする機会や許可を得ることを意味します。望ましい状況や特権を表す場合によく使われます。\n\n例文: \"I get to travel the world for my job.\" (私の仕事では世界中を旅する機会があります。)\""
+    },
+    {
+      "id": 75,
+      "value": "be around",
+      "options": [
+        "近くにいる",
+        "存在しない",
+        "理解する",
+        "無視する"
+      ],
+      "correctAnswer": "近くにいる",
+      "explanation": "\"Be around\" は、特定の場所にいる、または利用可能であることを意味します。物理的な存在だけでなく、精神的なサポートや助けを提供できる状態も指します。\n\n例文: \"I'll be around if you need anything.\" (何か必要なことがあれば、私が近くにいます。)\""
+    },
+    {
+      "id": 76,
+      "value": "snapped",
+      "options": [
+        "壊れた",
+        "曲がった",
+        "伸びた",
+        "縮んだ"
+      ],
+      "correctAnswer": "壊れた",
+      "explanation": "「snap」は、ここでは筋肉や靭帯が突然損傷することを指します。比喩的には、限界を超えて耐えられなくなる、という意味合いも持ちます。"
+    },
+    {
+      "id": 77,
+      "value": "hokey pokey",
+      "options": [
+        "簡単な体操",
+        "子供向けの遊び",
+        "高度なダンス",
+        "複雑な計算"
+      ],
+      "correctAnswer": "子供向けの遊び",
+      "explanation": "「hokey pokey」は、英語圏で有名な子供向けのダンスと歌です。ここでは、子供の遊びのように無邪気に楽しむことを指し、若者向けの遊びであるという比喩として使われています。"
+    },
+    {
+      "id": 78,
+      "value": "excel at",
+      "options": [
+        "優れている",
+        "苦戦する",
+        "平均的である",
+        "興味がない"
+      ],
+      "correctAnswer": "優れている",
+      "explanation": "「excel at」は、特定の分野や能力において非常に優れている、秀でているという意味です。能力や才能が際立っている状態を表します。"
+    },
+    {
+      "id": 79,
+      "value": "spatial reasoning",
+      "options": [
+        "空間認識能力",
+        "論理的思考",
+        "感情的な知性",
+        "言語能力"
+      ],
+      "correctAnswer": "空間認識能力",
+      "explanation": "「spatial reasoning」は、空間的な関係や配置を理解し、操作する能力のことです。図形認識、方向感覚、三次元的な思考などが含まれます。"
+    },
+    {
+      "id": 80,
+      "value": "a hunch",
+      "options": [
+        "確信",
+        "予感",
+        "記憶",
+        "知識"
+      ],
+      "correctAnswer": "予感",
+      "explanation": "「a hunch」は、根拠はないものの、何かが起こるだろうという予感や直感のことです。論理的な推論ではなく、感覚的に抱く予想を指します。"
+    },
+    {
+      "id": 81,
+      "value": "in this fix",
+      "options": [
+        "解決策",
+        "困難な状況",
+        "安全な場所",
+        "自由な状態"
+      ],
+      "correctAnswer": "困難な状況",
+      "explanation": "「in a fix」は、困難な状況や苦境に陥っている状態を指します。問題やトラブルに巻き込まれ、解決が難しい状況を表します。"
+    },
+    {
+      "id": 82,
+      "value": "inevitable",
+      "options": [
+        "避けられない",
+        "偶然の",
+        "予想外の",
+        "不可能な"
+      ],
+      "correctAnswer": "避けられない",
+      "explanation": "「inevitable」は、避けられない、必然的なという意味です。何かが必ず起こると予測される状況や、結果が確定している事柄について使われます。"
+    },
+    {
+      "id": 83,
+      "value": "vulnerable",
+      "options": [
+        "安全な",
+        "傷つきやすい",
+        "強い",
+        "独立した"
+      ],
+      "correctAnswer": "傷つきやすい",
+      "explanation": "「vulnerable」は、精神的または感情的に傷つきやすい、または攻撃や危害を受けやすい状態を指します。弱さや感受性の高さを含みます。"
+    },
+    {
+      "id": 84,
+      "value": "let's face it",
+      "options": [
+        "正直に言えば",
+        "秘密にしよう",
+        "忘れてしまおう",
+        "後悔しないように"
+      ],
+      "correctAnswer": "正直に言えば",
+      "explanation": "「let's face it」は、現実を直視しよう、という意味合いで使われる表現です。多くの場合、認めたくない事実や厳しい現実を認めざるを得ない状況で用いられます。"
+    },
+    {
+      "id": 85,
+      "value": "make a move on",
+      "options": [
+        "攻撃する",
+        "興味を持つ",
+        "避ける",
+        "無視する"
+      ],
+      "correctAnswer": "興味を持つ",
+      "explanation": "「make a move on」は、誰かに対して恋愛的な関心を示し、積極的にアプローチすることを意味します。相手を口説いたり、デートに誘ったりする行為が含まれます。"
+    },
+    {
+      "id": 86,
+      "value": "sad sack",
+      "options": [
+        "幸せ者",
+        "悲観的な人",
+        "冒険家",
+        "成功者"
+      ],
+      "correctAnswer": "悲観的な人",
+      "explanation": "「sad sack」は、いつも悲しそうな顔をしている人、または不運続きの人を指す、やや軽蔑的な表現です。同情やからかいのニュアンスを含みます。"
+    },
+    {
+      "id": 87,
+      "value": "much as",
+      "options": [
+        "非常に",
+        "ほとんど",
+        "少しも～ない",
+        "～にもかかわらず"
+      ],
+      "correctAnswer": "～にもかかわらず",
+      "explanation": "「much as」は、「～にもかかわらず」「～だけれども」という意味合いを持つ接続詞句です。ある事柄に対する譲歩や反対の感情を示す際に用いられます。"
+    },
+    {
+      "id": 88,
+      "value": "defiled",
+      "options": [
+        "清めた",
+        "汚された",
+        "祝福された",
+        "保護された"
+      ],
+      "correctAnswer": "汚された",
+      "explanation": "「defile」は、神聖なものや尊敬すべきものを汚す、冒涜するという意味です。ここでは、複数の女性が同じ男性と関係を持つことを比喩的に表現しています。"
+    },
+    {
+      "id": 89,
+      "value": "get my motor running",
+      "options": [
+        "興味をそそる",
+        "疲れてしまう",
+        "混乱させる",
+        "落ち着かせる"
+      ],
+      "correctAnswer": "興味をそそる",
+      "explanation": "「get someone's motor running」は、誰かの興味や興奮を引き出す、または性的な魅力を感じさせるという意味です。刺激的なものや魅力的な人に使われます。"
+    },
+    {
+      "id": 90,
+      "value": "let him down easy",
+      "options": [
+        "簡単に許す",
+        "優しく拒絶する",
+        "厳しく叱る",
+        "無視する"
+      ],
+      "correctAnswer": "優しく拒絶する",
+      "explanation": "「let someone down easy」は、誰かを失望させたり、拒絶したりする際に、相手の気持ちを傷つけないように優しく伝えることを意味します。配慮と優しさが込められた表現です。"
+    },
+    {
+      "id": 91,
+      "value": "got a better shot",
+      "options": [
+        "有利な立場",
+        "絶好の機会",
+        "厳しい状況",
+        "無関係な状況"
+      ],
+      "correctAnswer": "有利な立場",
+      "explanation": "「have a shot」で「試みる機会がある」「可能性がある」という意味です。「a better shot」で、より良い機会や可能性を持っていることを意味します。"
+    },
+    {
+      "id": 92,
+      "value": "locomotive",
+      "options": [
+        "客車",
+        "貨車",
+        "機関車",
+        "ケーブルカー"
+      ],
+      "correctAnswer": "機関車",
+      "explanation": "「locomotive」は、列車を牽引する機関車のことです。蒸気機関車、電気機関車、ディーゼル機関車など、様々な種類があります。"
+    },
+    {
+      "id": 93,
+      "value": "truth be told",
+      "options": [
+        "嘘をつくと",
+        "本当のことを言うと",
+        "秘密を守ると",
+        "冗談を言うと"
+      ],
+      "correctAnswer": "本当のことを言うと",
+      "explanation": "「truth be told」は、正直に言うと、実を言うと、という意味合いを持つ表現です。これまで隠していたことや、言いにくかったことを打ち明ける際に使われます。"
+    },
+    {
+      "id": 94,
+      "value": "worse for wear",
+      "options": [
+        "新品同様",
+        "使い古された",
+        "手入れが行き届いた",
+        "修理が必要"
+      ],
+      "correctAnswer": "使い古された",
+      "explanation": "「worse for wear」は、時間や使用によって状態が悪くなっている、傷んでいるという意味です。人に対して使う場合は、疲労困憊している様子を表します。"
+    },
+    {
+      "id": 95,
+      "value": "Good morning, handsome",
+      "options": [
+        "おはよう、可愛い人",
+        "おはよう、ハンサム",
+        "こんにちは、美しい人",
+        "こんばんは、勇敢な人"
+      ],
+      "correctAnswer": "おはよう、ハンサム",
+      "explanation": "「Good morning, handsome」は、親愛の情を込めて男性に挨拶する際に使われる表現です。恋人や親しい間柄の相手に対して使われることが多いです。"
+    },
+    {
+      "id": 96,
+      "value": "getting along",
+      "options": [
+        "喧嘩している",
+        "仲良くやっている",
+        "無視している",
+        "競争している"
+      ],
+      "correctAnswer": "仲良くやっている",
+      "explanation": "「get along」は、人との関係が良好である、仲良くやっているという意味です。協力し合ったり、友好的な関係を築いている状態を表します。"
+    },
+    {
+      "id": 97,
+      "value": "tricky",
+      "options": [
+        "簡単な",
+        "難しい",
+        "面白い",
+        "安全な"
+      ],
+      "correctAnswer": "難しい",
+      "explanation": "「tricky」は、扱いにくい、難しい、巧妙なという意味です。問題や状況が複雑で、注意が必要な場合に使われます。"
+    },
+    {
+      "id": 98,
+      "value": "what's the word?",
+      "options": [
+        "どうしたの？",
+        "何が言いたいの？",
+        "調子はどう？",
+        "秘密は何？"
+      ],
+      "correctAnswer": "調子はどう？",
+      "explanation": "「What's the word?」は、相手の状況や意見を尋ねる際に使われる口語的な表現です。近況や感想を尋ねるニュアンスが含まれます。"
+    },
+    {
+      "id": 99,
+      "value": "I just told him that!",
+      "options": [
+        "彼に感謝したばかりだ",
+        "彼にそれを言ったばかりだ",
+        "彼にそれを隠したばかりだ",
+        "彼にそれを教えたばかりだ"
+      ],
+      "correctAnswer": "彼にそれを言ったばかりだ",
+      "explanation": "「I just told him that!」は、相手に同じことをすでに伝えたばかりであることを強調する表現です。苛立ちや不満のニュアンスが含まれることがあります。"
+    },
+    {
+      "id": 100,
+      "value": "I guess",
+      "options": [
+        "知っている",
+        "推測する",
+        "確信する",
+        "否定する"
+      ],
+      "correctAnswer": "推測する",
+      "explanation": "「I guess」は、推測する、思う、という意味合いを持つ表現です。確信がない場合や、控えめな意見を述べる際に使われます。"
+    }
+  ]
+}

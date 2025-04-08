@@ -1,0 +1,1108 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "ran into",
+      "options": [
+        "計画する",
+        "偶然出会う",
+        "避ける",
+        "手伝う"
+      ],
+      "correctAnswer": "偶然出会う",
+      "explanation": "「run into」は、偶然に人に出会う、または予期せぬ問題に遭遇するという意味です。日常会話でよく使われ、計画的な出会いではないことを強調します。\n\n例：I ran into an old friend at the grocery store. (スーパーで旧友に偶然会った。)"
+    },
+    {
+      "id": 2,
+      "value": "leap out of one's seat",
+      "options": [
+        "席を蹴る",
+        "席から飛び上がる",
+        "席に着席する",
+        "席を譲る"
+      ],
+      "correctAnswer": "席から飛び上がる",
+      "explanation": "「leap out of one's seat」は、興奮、驚き、または強い感情のために、席から飛び上がる様子を表します。文字通りの意味だけでなく、比喩的に感情の高ぶりを示す際にも使われます。\n\n例：She leaped out of her seat when she heard the good news. (彼女はその良い知らせを聞いて席から飛び上がった。)"
+    },
+    {
+      "id": 3,
+      "value": "Don't rule out",
+      "options": [
+        "考慮しない",
+        "支配する",
+        "除外しない",
+        "確認する"
+      ],
+      "correctAnswer": "除外しない",
+      "explanation": "「Don't rule out」は、可能性を排除しない、考慮に入れるという意味です。まだ何かが起こり得る、または真実である可能性があることを示唆する際に使用されます。\n\n例：Don't rule out the possibility of rain. (雨の可能性を排除しないでください。)"
+    },
+    {
+      "id": 4,
+      "value": "bug",
+      "options": [
+        "喜ばせる",
+        "悩ませる",
+        "無視する",
+        "助ける"
+      ],
+      "correctAnswer": "悩ませる",
+      "explanation": "「bug」は、悩ませる、イライラさせるという意味です。些細なことや、持続的に気になることに対して使われることが多いです。\n\n例：It really bugs me when people talk loudly on their phones in public. (人が公共の場で大声で電話で話すのは本当に私をイライラさせる。)"
+    },
+    {
+      "id": 5,
+      "value": "single out",
+      "options": [
+        "選抜する",
+        "仲間に入れる",
+        "見過ごす",
+        "区別する"
+      ],
+      "correctAnswer": "区別する",
+      "explanation": "「single out」は、特定の人や物を他から選び出し、注目または特別扱いすることを意味します。ポジティブまたはネガティブな意味合いで使用できます。\n\n例：The teacher singled out the student for his outstanding performance. (先生は彼の優れた成績でその生徒を選び出した。)"
+    },
+    {
+      "id": 6,
+      "value": "genuine beef",
+      "options": [
+        "本物の牛肉",
+        "正当な不満",
+        "偽りの友情",
+        "本当の愛情"
+      ],
+      "correctAnswer": "正当な不満",
+      "explanation": "「beef」は俗語で不満や苦情を意味し、「genuine beef」は正当な不満があることを指します。深刻な問題や不公平感を伴うことが多いです。\n\n例：He has a genuine beef with the company over unpaid overtime. (彼は未払いの残業代に関して会社に正当な不満を持っている。)"
+    },
+    {
+      "id": 7,
+      "value": "What's with",
+      "options": [
+        "どうしたの",
+        "何もない",
+        "問題ない",
+        "素晴らしい"
+      ],
+      "correctAnswer": "どうしたの",
+      "explanation": "「What's with」は、何が起こっているのか、または何かの理由や説明を尋ねる際に使用されます。しばしば、通常とは異なる状況や行動に対して使われます。\n\n例：What's with all the noise? (この騒ぎは何？)"
+    },
+    {
+      "id": 8,
+      "value": "balled up",
+      "options": [
+        "丸めて",
+        "広げて",
+        "畳んで",
+        "飾って"
+      ],
+      "correctAnswer": "丸めて",
+      "explanation": "「balled up」は、何かをボール状に丸める、または丸まった状態を指します。物理的な物だけでなく、感情が押し込められた状態を表すこともあります。\n\n例：She balled up the letter and threw it away. (彼女は手紙を丸めて捨てた。)"
+    },
+    {
+      "id": 9,
+      "value": "clean-up crew",
+      "options": [
+        "掃除当番",
+        "応援団",
+        "料理人",
+        "警備員"
+      ],
+      "correctAnswer": "掃除当番",
+      "explanation": "「clean-up crew」は、イベントや活動の後で掃除や片付けをするグループを指します。通常、イベントの終了後に残されたゴミや汚れを処理する役割を担います。\n\n例：After the party, the clean-up crew got to work. (パーティーの後、掃除当番が作業に取り掛かった。)"
+    },
+    {
+      "id": 10,
+      "value": "shut down",
+      "options": [
+        "開店する",
+        "閉鎖する",
+        "改善する",
+        "拡大する"
+      ],
+      "correctAnswer": "閉鎖する",
+      "explanation": "「shut down」は、機械やシステムを停止させる、または事業や活動を終了することを意味します。一時的または恒久的な停止を指すことがあります。\n\n例：The factory shut down due to the economic crisis. (経済危機のため、その工場は閉鎖された。)"
+    },
+    {
+      "id": 11,
+      "value": "make out",
+      "options": [
+        "仲直りする",
+        "喧嘩する",
+        "化粧する",
+        "キスをする"
+      ],
+      "correctAnswer": "キスをする",
+      "explanation": "「make out」は、親密なキスをしたり、愛撫したりすることを指します。主に恋愛関係において使われる表現です。\n\n例：They were making out in the back of the car. (彼らは車の後部座席でキスをしていた。)"
+    },
+    {
+      "id": 12,
+      "value": "puke",
+      "options": [
+        "食べる",
+        "飲む",
+        "吐く",
+        "寝る"
+      ],
+      "correctAnswer": "吐く",
+      "explanation": "「puke」は、吐くという意味のスラングです。より直接的でカジュアルな表現であり、日常会話でよく使われます。\n\n例：He puked after drinking too much. (彼は飲みすぎて吐いた。)"
+    },
+    {
+      "id": 13,
+      "value": "do-over",
+      "options": [
+        "やり直し",
+        "休憩",
+        "準備",
+        "完了"
+      ],
+      "correctAnswer": "やり直し",
+      "explanation": "「do-over」は、何かを再び行うこと、特に最初に行った際に失敗や不満があった場合にやり直すことを意味します。スポーツやゲーム、または人生の状況で使われます。\n\n例：They decided to have a do-over of the presentation. (彼らはプレゼンテーションをやり直すことにした。)"
+    },
+    {
+      "id": 14,
+      "value": "for the life of me",
+      "options": [
+        "私の人生のために",
+        "どうしても",
+        "命がけで",
+        "永遠に"
+      ],
+      "correctAnswer": "どうしても",
+      "explanation": "「for the life of me」は、「どうしても～できない」という意味で、強い強調を表します。何かを思い出せない、理解できない、または達成できない場合に用いられます。\n\n例：I can't remember her name for the life of me. (どうしても彼女の名前を思い出せない。)"
+    },
+    {
+      "id": 15,
+      "value": "Under the Sea",
+      "options": [
+        "海の下",
+        "海底",
+        "海底探検",
+        "海の底"
+      ],
+      "correctAnswer": "海の下",
+      "explanation": "「Under the Sea」は、「リトルマーメイド」の曲名にもあるように、海中、海底を意味します。連想クイズとして出題しました。プロムのテーマとしても使われることがあります。"
+    },
+    {
+      "id": 16,
+      "value": "Enchanted Evening",
+      "options": [
+        "魔法の夜",
+        "退屈な夜",
+        "恐ろしい夜",
+        "普通の夜"
+      ],
+      "correctAnswer": "魔法の夜",
+      "explanation": "「Enchanted Evening」は、ロマンチックで魔法のような夜を意味します。プロムのテーマとしても使われます。"
+    },
+    {
+      "id": 17,
+      "value": "Night to Remember",
+      "options": [
+        "記憶に残る夜",
+        "忘れられない夜",
+        "悪夢のような夜",
+        "平凡な夜"
+      ],
+      "correctAnswer": "記憶に残る夜",
+      "explanation": "「Night to Remember」は、記憶に残る、忘れられない夜を意味します。プロムのテーマとしても使われます。良い意味でも悪い意味でも使われます。"
+    },
+    {
+      "id": 26,
+      "value": "back on the bandwagon",
+      "options": [
+        "計画から降りる",
+        "流行に乗り遅れる",
+        "流行に乗り始める",
+        "最初からやり直す"
+      ],
+      "correctAnswer": "流行に乗り始める",
+      "explanation": "「bandwagon」とは、もともとパレードなどで先頭を行く音楽隊を乗せた車のことです。そこから転じて、多くの人が支持しているもの、流行などを意味するようになりました。「back on the bandwagon」は、一度離れた流行や支持に再び戻る、という意味になります。"
+    },
+    {
+      "id": 27,
+      "value": "roller coaster",
+      "options": [
+        "ジェットコースター",
+        "安定した道",
+        "苦難の道",
+        "幸福な時間"
+      ],
+      "correctAnswer": "ジェットコースター",
+      "explanation": "「roller coaster」は文字通りジェットコースターの意味ですが、感情や状況が激しく変動することを表す比喩表現としても使われます。ここでは、promに対する気持ちがめまぐるしく変わる様子を表現しています。"
+    },
+    {
+      "id": 28,
+      "value": "beagle",
+      "options": [
+        "猫",
+        "犬",
+        "鳥",
+        "魚"
+      ],
+      "correctAnswer": "犬",
+      "explanation": "ビーグルは小型の猟犬の一種です。一般的に、高い声で吠える特徴があります。ここでは、バーナデットの声があまりに高くて、隣の家のビーグルが吠え出した、というユーモラスな状況を表しています。"
+    },
+    {
+      "id": 29,
+      "value": "intoxicating",
+      "options": [
+        "中毒性のある",
+        "爽快な",
+        "有毒な",
+        "酔わせるような"
+      ],
+      "correctAnswer": "酔わせるような",
+      "explanation": "「intoxicating」は、文字通りには「酔わせるような」という意味ですが、比喩的に、人を夢中にさせる、心を奪うような魅力を表す場合にも使われます。ここでは、知識の魅力が彼を酔わせる、という比喩的な表現です。"
+    },
+    {
+      "id": 30,
+      "value": "lame",
+      "options": [
+        "面白い",
+        "賢い",
+        "つまらない",
+        "難しい"
+      ],
+      "correctAnswer": "つまらない",
+      "explanation": "「lame」は、スラングとして「つまらない」「ダサい」という意味で使われます。ここでは、promに行くというアイデア自体がつまらないのではないか、とペニーが考えていることを示唆しています。"
+    },
+    {
+      "id": 31,
+      "value": "a dream come true",
+      "options": [
+        "悪夢",
+        "現実逃避",
+        "夢が叶うこと",
+        "ありえないこと"
+      ],
+      "correctAnswer": "夢が叶うこと",
+      "explanation": "「a dream come true」は、「夢が叶うこと」「念願がかなうこと」を意味するイディオムです。ここでは、レナードがペニーとpromに行くことが、彼にとっての夢の実現であることを示しています。"
+    },
+    {
+      "id": 32,
+      "value": "blow this thing off",
+      "options": [
+        "爆発させる",
+        "無視する",
+        "修理する",
+        "大きくする"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「blow off」は、約束や予定をすっぽかす、無視するという意味の口語表現です。ここでは、ペニーがpromをドタキャンすることを意味しています。"
+    },
+    {
+      "id": 33,
+      "value": "bitch",
+      "options": [
+        "親切な人",
+        "意地悪な人",
+        "勇敢な人",
+        "賢い人"
+      ],
+      "correctAnswer": "意地悪な人",
+      "explanation": "「bitch」は、軽蔑的な意味合いで、意地悪な女性、不快な女性を指す言葉です。ここでは、promをドタキャンすると、周りからそう思われるのではないか、というペニーの懸念を表しています。"
+    },
+    {
+      "id": 34,
+      "value": "RSVP'd",
+      "options": [
+        "欠席",
+        "未定",
+        "返信不要",
+        "出席"
+      ],
+      "correctAnswer": "出席",
+      "explanation": "「RSVP」は、フランス語の「Répondez s'il vous plaît」の略で、招待状への返信を求める意味です。ここでは、全員が出席の返事をした、という意味になります。"
+    },
+    {
+      "id": 35,
+      "value": "chaperone",
+      "options": [
+        "友人",
+        "先生",
+        "保護者",
+        "恋人"
+      ],
+      "correctAnswer": "保護者",
+      "explanation": "「chaperone」は、パーティーや旅行などで若者の付き添いをする保護者や引率者を意味します。ここでは、ハワードの母親がpromの付き添いとして参加したことを指しています。"
+    },
+    {
+      "id": 36,
+      "value": "get along",
+      "options": [
+        "喧嘩する",
+        "仲良くする",
+        "我慢する",
+        "競争する"
+      ],
+      "correctAnswer": "仲良くする",
+      "explanation": "「get along」は、人と仲良くする、うまくやっていくという意味の句動詞です。ここでは、バーナデットがスチュアートとハワードに仲良くしてほしいと思っていることを表しています。"
+    },
+    {
+      "id": 37,
+      "value": "cheating on",
+      "options": [
+        "見捨てる",
+        "裏切る",
+        "尊敬する",
+        "愛する"
+      ],
+      "correctAnswer": "裏切る",
+      "explanation": "「cheat on」は、恋人や配偶者を裏切る、浮気をするという意味です。ここでは、ハワードがスチュアートに、自分の母親を裏切っているのか、と冗談めかして言っています。"
+    },
+    {
+      "id": 38,
+      "value": "in the bank",
+      "options": [
+        "銀行にある",
+        "準備ができている",
+        "返済が必要",
+        "秘密にしている"
+      ],
+      "correctAnswer": "準備ができている",
+      "explanation": "「in the bank」は、ここでは、後で使うために蓄えておく、という意味合いで使われています。シェルドンは、今後急いでノックする必要がある場合に備えて、ノックの回数を増やしている、と説明しています。"
+    },
+    {
+      "id": 39,
+      "value": "reluctant",
+      "options": [
+        "乗り気な",
+        "熱心な",
+        "乗り気でない",
+        "興奮している"
+      ],
+      "correctAnswer": "乗り気でない",
+      "explanation": "「reluctant」は、気が進まない、嫌がるという意味の形容詞です。ここでは、シェルドンとペニーがpromに行くことに乗り気でないことを表しています。"
+    },
+    {
+      "id": 40,
+      "value": "blend in",
+      "options": [
+        "目立つ",
+        "溶け込む",
+        "反発する",
+        "主張する"
+      ],
+      "correctAnswer": "溶け込む",
+      "explanation": "「blend in」は、周囲に溶け込む、目立たないようにするという意味の句動詞です。ここでは、フォード・プレフェクトが人間に紛れて溶け込もうとしたことを説明しています。"
+    },
+    {
+      "id": 41,
+      "value": "coping mechanism",
+      "options": [
+        "防御機構",
+        "協力体制",
+        "逃避方法",
+        "問題解決方法"
+      ],
+      "correctAnswer": "問題解決方法",
+      "explanation": "「coping mechanism」は、ストレスや困難な状況に対処するための方法、対応策という意味です。ここでは、シェルドンがエイリアンになりきることを、困難な状況を乗り切るための方法として捉えています。"
+    },
+    {
+      "id": 42,
+      "value": "thumbs up",
+      "options": [
+        "拒否",
+        "応援",
+        "軽蔑",
+        "無関心"
+      ],
+      "correctAnswer": "応援",
+      "explanation": "「thumbs up」は、親指を立てるジェスチャーで、賛成、承認、応援などの意味を表します。ここでは、シェルドン扮するエイリアンが、ペニーの演技を褒めたことを示しています。"
+    },
+    {
+      "id": 43,
+      "value": "mating rituals",
+      "options": [
+        "友情の儀式",
+        "食事の儀式",
+        "求愛の儀式",
+        "別れの儀式"
+      ],
+      "correctAnswer": "求愛の儀式",
+      "explanation": "「mating rituals」は、動物の求愛行動、または人間の場合の恋愛における儀式的な行動を指します。ここでは、promの後の男女の親密な行為を婉曲的に表現しています。"
+    },
+    {
+      "id": 44,
+      "value": "kidding",
+      "options": [
+        "怒っている",
+        "冗談を言っている",
+        "混乱している",
+        "真剣である"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「kidding」は、「冗談を言っている」「からかっている」という意味の口語表現です。ここでは、ペニーがシェルドンの発言を冗談だと思っています。"
+    },
+    {
+      "id": 45,
+      "value": "urges",
+      "options": [
+        "欲求",
+        "才能",
+        "義務",
+        "恐怖"
+      ],
+      "correctAnswer": "欲求",
+      "explanation": "「urge」は、強い欲求、衝動という意味です。ここでは、シェルドンが性的な欲求を持っていることを示唆しています。"
+    },
+    {
+      "id": 46,
+      "value": "copulate",
+      "options": [
+        "食事をする",
+        "睡眠をとる",
+        "会話をする",
+        "性交する"
+      ],
+      "correctAnswer": "性交する",
+      "explanation": "「copulate」は、動物が交尾する、性交するという意味のフォーマルな言葉です。ここでは、シェルドンが性的な行為を婉曲的に表現しています。"
+    },
+    {
+      "id": 47,
+      "value": "turned on",
+      "options": [
+        "混乱している",
+        "興奮している",
+        "悲しんでいる",
+        "退屈している"
+      ],
+      "correctAnswer": "興奮している",
+      "explanation": "「turned on」は、性的に興奮している、という意味のスラング表現です。ここでは、ペニーがシェルドンの発言に少し興奮しているのではないか、とシェルドンが推測しています。"
+    },
+    {
+      "id": 48,
+      "value": "clip-ons",
+      "options": [
+        "アクセサリー",
+        "付け毛",
+        "クリップ式のネクタイ",
+        "サングラス"
+      ],
+      "correctAnswer": "クリップ式のネクタイ",
+      "explanation": "「clip-on」は、クリップで留めるタイプのものを指します。ここでは、クリップ式のネクタイを指しており、結ぶのが苦手な人でも簡単に装着できるものを意味します。"
+    },
+    {
+      "id": 49,
+      "value": "embrace",
+      "options": [
+        "拒否する",
+        "受け入れる",
+        "無視する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "受け入れる",
+      "explanation": "「embrace」は、何かを積極的に受け入れる、受け入れるという意味です。ここでは、シェルドンがpromに関連するすべての伝統を積極的に受け入れようとしていることを表しています。"
+    },
+    {
+      "id": 50,
+      "value": "spiking the punch",
+      "options": [
+        "パンチを飲む",
+        "パンチをこぼす",
+        "パンチにアルコールを入れる",
+        "パンチを混ぜる"
+      ],
+      "correctAnswer": "パンチにアルコールを入れる",
+      "explanation": "「spike」は、飲み物にアルコールなどを加えるという意味のスラングです。「spiking the punch」は、パンチにアルコールを混ぜて、アルコール入りのパンチにすることを意味します。"
+    },
+    {
+      "id": 51,
+      "value": "high jinks",
+      "options": [
+        "高度な技術",
+        "ばか騒ぎ",
+        "真剣な議論",
+        "秘密の計画"
+      ],
+      "correctAnswer": "ばか騒ぎ",
+      "explanation": "「high jinks」とは、騒々しいふざけやいたずら、特にパーティーなどでの陽気な騒ぎを指します。深刻なものではなく、楽しい雰囲気の中で行われるものを指します。\n例：The party was full of high jinks and laughter."
+    },
+    {
+      "id": 52,
+      "value": "zip",
+      "options": [
+        "静けさ",
+        "活力",
+        "重さ",
+        "悩み"
+      ],
+      "correctAnswer": "活力",
+      "explanation": "「zip」は、ここでは「活力」や「元気」といった意味で使われています。特に、食品や飲み物が持つ、エネルギーや刺激を表現する際に用いられます。\n例：This juice will give you the zip you need to start your day."
+    },
+    {
+      "id": 53,
+      "value": "off the hook",
+      "options": [
+        "電話を切る",
+        "非常に良い",
+        "責任を逃れる",
+        "混乱している"
+      ],
+      "correctAnswer": "非常に良い",
+      "explanation": "「off the hook」は、俗語で「最高に素晴らしい」「すごく面白い」という意味です。元々は電話がフックから外れている状態を指し、そこから転じて、何かが制御不能なほど盛り上がっている様子を表します。\n例：The concert was off the hook."
+    },
+    {
+      "id": 54,
+      "value": "raging",
+      "options": [
+        "静まっている",
+        "怒り狂う",
+        "冷静な",
+        "満足している"
+      ],
+      "correctAnswer": "怒り狂う",
+      "explanation": "「raging」は、感情や欲求が非常に強く、制御できない状態を指します。ここでは、ホルモンが激しく分泌されている様子を表しています。\n例：His raging anger was frightening."
+    },
+    {
+      "id": 55,
+      "value": "implied",
+      "options": [
+        "命令した",
+        "ほのめかした",
+        "説明した",
+        "否定した"
+      ],
+      "correctAnswer": "ほのめかした",
+      "explanation": "「imply」は、直接的な言葉ではなく、間接的に何かを伝える、ほのめかすという意味です。言葉の裏にある意図や感情を伝える際に使われます。\n例：He implied that I was not telling the truth."
+    },
+    {
+      "id": 56,
+      "value": "starch",
+      "options": [
+        "活気",
+        "冷静さ",
+        "無気力",
+        "恐怖"
+      ],
+      "correctAnswer": "活気",
+      "explanation": "「starch」は、ここでは比喩的に使われており、「活気」「元気」「刺激」といった意味合いを持ちます。特に男性の性的興奮を遠回しに表現する際に用いられることがあります。\n例：That news put some starch in his step."
+    },
+    {
+      "id": 57,
+      "value": "scaly",
+      "options": [
+        "滑らかな",
+        "鱗状の",
+        "柔らかい",
+        "暖かい"
+      ],
+      "correctAnswer": "鱗状の",
+      "explanation": "「scaly」は、「鱗状の」「うろこで覆われた」という意味です。爬虫類などの皮膚の特徴を表す言葉ですが、ここではユーモラスな文脈で使用されています。\n例：The snake had scaly skin."
+    },
+    {
+      "id": 58,
+      "value": "neat",
+      "options": [
+        "汚い",
+        "きちんとした",
+        "退屈な",
+        "騒々しい"
+      ],
+      "correctAnswer": "きちんとした",
+      "explanation": "「neat」は、「きちんとした」「整った」「素敵な」という意味です。外見や整理された状態を褒める際に使われます。\n例：Your room is very neat."
+    },
+    {
+      "id": 59,
+      "value": "pull her own limbs off",
+      "options": [
+        "自分の限界を超える",
+        "自分の手足を切り落とす",
+        "自分の意見を主張する",
+        "自分の人生を立て直す"
+      ],
+      "correctAnswer": "自分の手足を切り落とす",
+      "explanation": "文字通りの意味は「自分の手足を切り落とす」ですが、ここでは映画のキャラクターであるサリーの特性を説明するために誇張して使われています。通常は比喩的な意味合いで使用されることはありません。\n例：(文脈外) The magician seemed to pull his own limbs off, but it was just an illusion."
+    },
+    {
+      "id": 60,
+      "value": "Bibbidi-Bobbidi-Boo",
+      "options": [
+        "魔法の呪文",
+        "伝統的な踊り",
+        "古代の儀式",
+        "秘密の合言葉"
+      ],
+      "correctAnswer": "魔法の呪文",
+      "explanation": "「Bibbidi-Bobbidi-Boo」は、ディズニー映画「シンデレラ」に登場する魔法の呪文です。楽しい雰囲気や魔法を象徴する言葉として使われます。\n例：With a Bibbidi-Bobbidi-Boo, the pumpkin turned into a carriage."
+    },
+    {
+      "id": 61,
+      "value": "awkward silence",
+      "options": [
+        "楽しい会話",
+        "気まずい沈黙",
+        "感動的なスピーチ",
+        "活発な議論"
+      ],
+      "correctAnswer": "気まずい沈黙",
+      "explanation": "「awkward silence」は、気まずい沈黙、居心地の悪い静けさを意味します。会話が途絶え、誰も話すことがない、または何を話せば良いかわからない状況を指します。\n例：There was an awkward silence after his inappropriate comment."
+    },
+    {
+      "id": 62,
+      "value": "wasn’t into",
+      "options": [
+        "興味がない",
+        "熱中している",
+        "反対している",
+        "理解できない"
+      ],
+      "correctAnswer": "興味がない",
+      "explanation": "「be into」は、何かに興味がある、熱中しているという意味です。「wasn't into」はその否定形で、興味がなかった、乗り気でなかったという意味になります。\n例：I wasn't into sports when I was younger."
+    },
+    {
+      "id": 63,
+      "value": "end up",
+      "options": [
+        "始まる",
+        "終わる",
+        "計画する",
+        "避ける"
+      ],
+      "correctAnswer": "終わる",
+      "explanation": "「end up」は、最終的に〜になる、〜という結果になるという意味です。意図したわけではない結果や、予期せぬ結果を表す際に使われます。\n例：We ended up staying at the hotel longer than we planned."
+    },
+    {
+      "id": 64,
+      "value": "threesome",
+      "options": [
+        "三つ組",
+        "三者関係",
+        "三人組",
+        "三位一体"
+      ],
+      "correctAnswer": "三人組",
+      "explanation": "「threesome」は、ここでは比喩的に使われており、3つのものが一緒にある状態を表します。通常は性的な意味合いで使用されることが多いですが、ここではユーモラスな文脈で使用されています。\n例：The band formed a threesome."
+    },
+    {
+      "id": 65,
+      "value": "humiliation",
+      "options": [
+        "幸福",
+        "屈辱",
+        "勇気",
+        "名誉"
+      ],
+      "correctAnswer": "屈辱",
+      "explanation": "「humiliation」は、屈辱、恥をかくことという意味です。自尊心を傷つけられるような経験を指します。\n例：He felt a deep sense of humiliation after his mistake."
+    },
+    {
+      "id": 66,
+      "value": "growth spurt",
+      "options": [
+        "成長の鈍化",
+        "成長の加速",
+        "経済成長",
+        "精神的な成長"
+      ],
+      "correctAnswer": "成長の加速",
+      "explanation": "「growth spurt」は、成長期における急激な成長を指します。特に身長が急に伸びる時期を指すことが多いです。\n例：He had a growth spurt in high school and became much taller."
+    },
+    {
+      "id": 67,
+      "value": "antioxidants",
+      "options": [
+        "酸化防止剤",
+        "抗菌剤",
+        "抗生物質",
+        "抗炎症剤"
+      ],
+      "correctAnswer": "酸化防止剤",
+      "explanation": "「antioxidants」は、酸化防止剤という意味です。細胞を酸化から守る物質であり、健康食品や美容製品によく含まれています。\n例：Green tea is rich in antioxidants."
+    },
+    {
+      "id": 68,
+      "value": "hormones",
+      "options": [
+        "酵素",
+        "ホルモン",
+        "ビタミン",
+        "ミネラル"
+      ],
+      "correctAnswer": "ホルモン",
+      "explanation": "「hormones」は、ホルモンという意味です。体内での生理機能を調整する化学物質であり、成長、生殖、気分などに影響を与えます。\n例：Hormones play a crucial role in regulating body functions."
+    },
+    {
+      "id": 69,
+      "value": "virginity",
+      "options": [
+        "純粋さ",
+        "処女性",
+        "無邪気さ",
+        "正直さ"
+      ],
+      "correctAnswer": "処女性",
+      "explanation": "「virginity」は、処女性、未経験という意味です。性的な経験がない状態を指します。\n例：Losing one's virginity is a significant milestone for some people."
+    },
+    {
+      "id": 70,
+      "value": "handsome",
+      "options": [
+        "醜い",
+        "ハンサム",
+        "平凡",
+        "不健康"
+      ],
+      "correctAnswer": "ハンサム",
+      "explanation": "「handsome」は、ハンサム、かっこいいという意味です。男性の外見を褒める際に使われます。\n例：He is a very handsome man."
+    },
+    {
+      "id": 71,
+      "value": "tattoo",
+      "options": [
+        "傷跡",
+        "入れ墨",
+        "日焼け",
+        "アレルギー"
+      ],
+      "correctAnswer": "入れ墨",
+      "explanation": "「tattoo」は、入れ墨という意味です。皮膚に針で色素を入れて模様や絵を描くことを指します。\n例：She has a beautiful tattoo on her arm."
+    },
+    {
+      "id": 72,
+      "value": "sew",
+      "options": [
+        "切る",
+        "縫う",
+        "貼る",
+        "描く"
+      ],
+      "correctAnswer": "縫う",
+      "explanation": "「sew」は、縫うという意味です。針と糸を使って布や革などをつなぎ合わせることを指します。\n例：She sewed a button on my shirt."
+    },
+    {
+      "id": 73,
+      "value": "cousin",
+      "options": [
+        "兄弟",
+        "いとこ",
+        "叔父",
+        "甥"
+      ],
+      "correctAnswer": "いとこ",
+      "explanation": "「cousin」は、いとこという意味です。親の兄弟姉妹の子供を指します。\n例：He is my cousin on my mother's side."
+    },
+    {
+      "id": 74,
+      "value": "rooftop",
+      "options": [
+        "地下室",
+        "屋上",
+        "庭",
+        "駐車場"
+      ],
+      "correctAnswer": "屋上",
+      "explanation": "「rooftop」は、屋上という意味です。建物の最上階にある屋根の上のスペースを指します。\n例：We went to the rooftop to enjoy the view."
+    },
+    {
+      "id": 75,
+      "value": "lady",
+      "options": [
+        "女性",
+        "男性",
+        "子供",
+        "動物"
+      ],
+      "correctAnswer": "女性",
+      "explanation": "「lady」は、女性という意味です。ここでは「loneliness」を擬人化して表現しています。\n例：She is a kind lady."
+    },
+    {
+      "id": 76,
+      "value": "a real handful",
+      "options": [
+        "簡単な仕事",
+        "貴重な宝物",
+        "手に負えない人や物",
+        "重要な会議"
+      ],
+      "correctAnswer": "手に負えない人や物",
+      "explanation": "「a real handful」は、人や物が非常に扱いにくい、手に負えないという意味です。特に子供に対して使われることが多いですが、問題を引き起こす状況や物事にも使えます。\n\n例：The twins were a real handful that day. (その日、双子は本当に手に負えなかった。)"
+    },
+    {
+      "id": 77,
+      "value": "making whoopee",
+      "options": [
+        "料理をする",
+        "騒ぎを起こす",
+        "親密な関係を持つ",
+        "ゲームをする"
+      ],
+      "correctAnswer": "親密な関係を持つ",
+      "explanation": "「making whoopee」は、主に古い言い方で、性的な関係を持つ、特に結婚していないカップルが性的な関係を持つことを婉曲的に表現する際に用いられます。ややユーモラスなニュアンスが含まれることがあります。\n\n例：They were caught making whoopee in the back of a car. (彼らは車の後部座席でいちゃついているところを見つかった。)"
+    },
+    {
+      "id": 78,
+      "value": "look twice",
+      "options": [
+        "二度見する",
+        "よく探す",
+        "見なかったことにする",
+        "無視する"
+      ],
+      "correctAnswer": "二度見する",
+      "explanation": "「look twice」は、驚きや興味、または信じられない気持ちから、もう一度よく見るという意味です。通常、何か特別なものや予期せぬものを見たときに使われます。\n\n例：I looked twice when I saw him driving that expensive car. (彼があの高級車を運転しているのを見て、二度見した。)"
+    },
+    {
+      "id": 79,
+      "value": "punim",
+      "options": [
+        "才能",
+        "顔",
+        "性格",
+        "場所"
+      ],
+      "correctAnswer": "顔",
+      "explanation": "「punim」は、イディッシュ語に由来する言葉で、顔、特に愛嬌のある顔や面白い顔を指します。親しみを込めたニュアンスや、少しユーモラスな意味合いで使われることがあります。\n\n例：He has such a cute punim! (彼はとても可愛い顔をしている！)"
+    },
+    {
+      "id": 80,
+      "value": "plotzed",
+      "options": [
+        "計画する",
+        "爆発する",
+        "気絶する",
+        "配置する"
+      ],
+      "correctAnswer": "気絶する",
+      "explanation": "「plotz」は、イディッシュ語に由来する言葉で、非常に興奮したり、感情が高ぶったりして、圧倒されるという意味です。しばしば、気絶する、倒れるという意味合いで使われます。\n\n例：I almost plotzed when I heard the news. (そのニュースを聞いて、私はほとんど気絶しそうになった。)"
+    },
+    {
+      "id": 81,
+      "value": "messed up",
+      "options": [
+        "修理された",
+        "めちゃくちゃになった",
+        "整理された",
+        "改善された"
+      ],
+      "correctAnswer": "めちゃくちゃになった",
+      "explanation": "「messed up」は、混乱した、めちゃくちゃになった、または精神的に不安定な状態を指します。状況、人、または物事に対して使用できます。\n\n例：This situation is so messed up. (この状況はとてもめちゃくちゃだ。)"
+    },
+    {
+      "id": 82,
+      "value": "long time ago",
+      "options": [
+        "遠い昔",
+        "短い時間",
+        "永遠に",
+        "すぐに"
+      ],
+      "correctAnswer": "遠い昔",
+      "explanation": "「long time ago」は、非常に昔、ずっと以前という意味です。過去の出来事を指す際に使われ、時間的な距離を強調します。\n\n例：That happened a long time ago. (それは遠い昔に起こったことだ。)"
+    },
+    {
+      "id": 83,
+      "value": "good enough",
+      "options": [
+        "十分な",
+        "最高の",
+        "不十分な",
+        "平均的な"
+      ],
+      "correctAnswer": "十分な",
+      "explanation": "「good enough」は、必要条件を満たしている、十分であるという意味です。必ずしも最高ではないが、目的を達成できるレベルであることを示します。\n\n例：This is good enough for now. (これは今のところ十分だ。)"
+    },
+    {
+      "id": 84,
+      "value": "turf",
+      "options": [
+        "芝生",
+        "縄張り",
+        "スポーツ",
+        "場所"
+      ],
+      "correctAnswer": "縄張り",
+      "explanation": "「turf」は、縄張り、勢力範囲という意味です。特にギャングやスポーツチームなどが、自分の支配下にある地域や場所を指す際に使われます。\n\n例：This is our turf. (ここは俺たちの縄張りだ。)"
+    },
+    {
+      "id": 85,
+      "value": "dork",
+      "options": [
+        "賢者",
+        "まぬけ",
+        "英雄",
+        "詐欺師"
+      ],
+      "correctAnswer": "まぬけ",
+      "explanation": "「dork」は、間抜け、まぬけ、または社会的に不器用な人を指す言葉です。しばしば愛情を込めて、または軽く侮辱する意味合いで使われます。\n\n例：Don't be such a dork! (そんなまぬけなことするな！)"
+    },
+    {
+      "id": 86,
+      "value": "bikini shot",
+      "options": [
+        "水着姿の写真",
+        "夕焼けの写真",
+        "料理の写真",
+        "風景の写真"
+      ],
+      "correctAnswer": "水着姿の写真",
+      "explanation": "「bikini shot」は、ビキニを着た人の写真のことです。特に、セクシーなイメージを与えるために使われることがあります。\n\n例：She posted a bikini shot on her Instagram. (彼女はインスタグラムに水着姿の写真を投稿した。)"
+    },
+    {
+      "id": 87,
+      "value": "humping",
+      "options": [
+        "抱きしめる",
+        "乗る",
+        "運ぶ",
+        "性的な意味合いで腰を振る"
+      ],
+      "correctAnswer": "性的な意味合いで腰を振る",
+      "explanation": "「humping」は、性的な意味合いで腰を振る、または動物が交尾する様子を指す言葉です。ここでは、比喩的に不適切な関係を指すために使われています。\n\n例：The dog was humping my leg. (犬が私の足に腰を振っていた。)"
+    },
+    {
+      "id": 88,
+      "value": "silly",
+      "options": [
+        "賢い",
+        "ばかげた",
+        "深刻な",
+        "重要な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「silly」は、ばかげた、くだらない、または滑稽なという意味です。真剣に考える必要のない、軽い状況で使われます。\n\n例：Don't be silly! (ばかなこと言うな！)"
+    },
+    {
+      "id": 89,
+      "value": "social convention dictates",
+      "options": [
+        "社会的な集まり",
+        "社会的な決まりごと",
+        "社会的な革命",
+        "社会的な距離"
+      ],
+      "correctAnswer": "社会的な決まりごと",
+      "explanation": "「social convention dictates」は、社会的な慣習やルールが指示するという意味です。社会的な期待や義務によって行動が制約される状況を表します。\n\n例：Social convention dictates that you should say thank you. (社会的な慣習では、感謝の言葉を言うべきだ。)"
+    },
+    {
+      "id": 90,
+      "value": "farfetched",
+      "options": [
+        "現実的な",
+        "ありそうもない",
+        "近い将来",
+        "遠い過去"
+      ],
+      "correctAnswer": "ありそうもない",
+      "explanation": "「farfetched」は、信じがたい、ありそうもない、または不自然なという意味です。現実離れしたアイデアや話に対して使われます。\n\n例：That's a farfetched idea. (それはありそうもない考えだ。)"
+    },
+    {
+      "id": 91,
+      "value": "Here we go",
+      "options": [
+        "ここに行きます",
+        "さあ、始めよう",
+        "ここにあります",
+        "迷子になりました"
+      ],
+      "correctAnswer": "さあ、始めよう",
+      "explanation": "「Here we go」は、「さあ、始めよう」「いくぞ」という意味で、何かを始める時や、行動を起こす前に使われる表現です。決意や期待感を込めて使われることが多いです。\n\n例：Here we go, let's start the meeting. (さあ、始めよう、会議を始めましょう。)"
+    },
+    {
+      "id": 92,
+      "value": "Say cheese",
+      "options": [
+        "チーズをください",
+        "はい、チーズ",
+        "チーズを買いに行きましょう",
+        "チーズは嫌いです"
+      ],
+      "correctAnswer": "はい、チーズ",
+      "explanation": "「Say cheese」は、写真撮影の際に笑顔を作るように促す言葉です。「cheese」と言うことで口角が上がり、自然な笑顔に見える効果があります。\n\n例：Everyone, say cheese! (皆さん、はいチーズ！)"
+    },
+    {
+      "id": 93,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待って",
+        "続ける",
+        "参加する"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「hang on」は、「待って」「ちょっと待って」という意味で、相手に少しの間待つように頼む時に使う表現です。電話での会話や、誰かを制止する時によく使われます。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐに戻ります。)"
+    },
+    {
+      "id": 94,
+      "value": "on the way home",
+      "options": [
+        "家に着いてから",
+        "家に帰る途中",
+        "家から出発する時",
+        "家に招待する時"
+      ],
+      "correctAnswer": "家に帰る途中",
+      "explanation": "「on the way home」は、「家に帰る途中」という意味で、自宅に向かっている移動中を表す表現です。\n\n例：I'll pick up some milk on the way home. (家に帰る途中で牛乳を買って帰ります。)"
+    },
+    {
+      "id": 95,
+      "value": "to be fair",
+      "options": [
+        "公平に言うと",
+        "不公平に言うと",
+        "正直に言うと",
+        "嘘をつくと"
+      ],
+      "correctAnswer": "公平に言うと",
+      "explanation": "「to be fair」は、「公平に言うと」「公平を期すために」という意味で、別の視点や情報を加える際に使われる表現です。発言のバランスを取るために用いられます。\n\n例：To be fair, he did warn us about the risks. (公平に言うと、彼はリスクについて私たちに警告してくれた。)"
+    },
+    {
+      "id": 96,
+      "value": "passed me",
+      "options": [
+        "私を追い越した",
+        "私に渡した",
+        "私を無視した",
+        "私に合格した"
+      ],
+      "correctAnswer": "私に渡した",
+      "explanation": "「passed me」は、「私に渡した」「私に手渡した」という意味で、物を誰かから受け取る際に使う表現です。\n\n例：She passed me the salt. (彼女は私に塩を渡した。)"
+    },
+    {
+      "id": 97,
+      "value": "What’s going on?",
+      "options": [
+        "何が起こっているの？",
+        "どこに行くの？",
+        "何をしているの？",
+        "何が欲しいの？"
+      ],
+      "correctAnswer": "何が起こっているの？",
+      "explanation": "「What’s going on?」は、「何が起こっているの？」「どうしたの？」という意味で、状況や事態について尋ねる際に使う表現です。\n\n例：I heard a loud noise. What’s going on? (大きな音が聞こえた。何が起こっているの？)"
+    },
+    {
+      "id": 98,
+      "value": "thank you for wearing your flats.",
+      "options": [
+        "フラットシューズを履いてくれてありがとう",
+        "ハイヒールを履いてくれてありがとう",
+        "帽子をかぶってくれてありがとう",
+        "ドレスを着てくれてありがとう"
+      ],
+      "correctAnswer": "フラットシューズを履いてくれてありがとう",
+      "explanation": "フラットシューズを履いてくれてありがとうは、相手の配慮に対して感謝を述べる表現です。通常、相手が自分のために快適さや便利さを選んでくれた場合に用いられます。例えば、背の高い人が、相手との身長差を考慮してヒールの低い靴を選んでくれた場合などに使われます。"
+    },
+    {
+      "id": 99,
+      "value": "Thank you for wearing your heels.",
+      "options": [
+        "ハイヒールを履いてくれてありがとう",
+        "フラットシューズを履いてくれてありがとう",
+        "帽子をかぶってくれてありがとう",
+        "ドレスを着てくれてありがとう"
+      ],
+      "correctAnswer": "ハイヒールを履いてくれてありがとう",
+      "explanation": "ハイヒールを履いてくれてありがとうは、相手の努力や気遣いに対して感謝を述べる表現です。特に、特別な場やイベントで、相手が自分を喜ばせるために装ってくれた場合に用いられます。例えば、パーティーで相手が華やかなハイヒールを選んでくれた場合などに使われます。"
+    },
+    {
+      "id": 100,
+      "value": "Thank you for understanding.",
+      "options": [
+        "理解してくれてありがとう",
+        "無視してくれてありがとう",
+        "批判してくれてありがとう",
+        "怒ってくれてありがとう"
+      ],
+      "correctAnswer": "理解してくれてありがとう",
+      "explanation": "理解してくれてありがとうは、相手が自分の状況や気持ちを理解してくれたことに対して感謝を述べる表現です。困難な状況や複雑な感情を共有した際に、相手の共感や受容に感謝する気持ちを表します。"
+    }
+  ]
+}

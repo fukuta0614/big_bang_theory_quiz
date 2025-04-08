@@ -1,0 +1,1072 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "headed out",
+      "options": [
+        "出発する",
+        "到着する",
+        "手伝う",
+        "解決する"
+      ],
+      "correctAnswer": "出発する",
+      "explanation": "「head out」は、ある場所から出発する、出かけるという意味の句動詞です。旅行や外出の際に使われます。\n\n例：We're heading out to the beach. (私たちはビーチへ出発します。)"
+    },
+    {
+      "id": 2,
+      "value": "noise-cancelling",
+      "options": [
+        "騒音を増幅する",
+        "騒音を遮断する",
+        "音量を調整する",
+        "音質を向上させる"
+      ],
+      "correctAnswer": "騒音を遮断する",
+      "explanation": "「noise-cancelling」は、周囲の騒音を低減または除去する機能を持つことを意味します。主にヘッドホンやイヤホンなどの電子機器に使われます。\n\n例：I use noise-cancelling headphones on the train. (私は電車の中でノイズキャンセリングヘッドホンを使います。)"
+    },
+    {
+      "id": 3,
+      "value": "fleece-lined",
+      "options": [
+        "革製の",
+        "綿製の",
+        "フリース地の裏地がついた",
+        "防水加工された"
+      ],
+      "correctAnswer": "フリース地の裏地がついた",
+      "explanation": "「fleece-lined」は、フリース素材の裏地がついていることを意味します。フリースは柔らかく、保温性に優れた素材です。\n\n例：I have a fleece-lined jacket for winter. (冬のためにフリース地の裏地がついたジャケットを持っています。)"
+    },
+    {
+      "id": 4,
+      "value": "tushie",
+      "options": [
+        "頭",
+        "足",
+        "お尻",
+        "手"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "「tushie」は、お尻を指す幼児語、または親しみを込めた表現です。フォーマルな場では使用されません。\n\n例: Cover your tushie. (お尻を隠しなさい。)"
+    },
+    {
+      "id": 5,
+      "value": "renegade",
+      "options": [
+        "改革者",
+        "反逆者",
+        "指導者",
+        "支持者"
+      ],
+      "correctAnswer": "反逆者",
+      "explanation": "「renegade」は、所属するグループや組織、主義などから離反した人、または裏切り者を指します。既存の秩序やルールに反抗するニュアンスがあります。\n\n例：He was a renegade in the art world. (彼は芸術界の反逆者だった。)"
+    },
+    {
+      "id": 6,
+      "value": "paradigm-shifting",
+      "options": [
+        "常識を覆す",
+        "現状維持の",
+        "些細な",
+        "時代遅れの"
+      ],
+      "correctAnswer": "常識を覆す",
+      "explanation": "「paradigm-shifting」は、既存の考え方や認識、価値観などを根本的に変えるような、画期的な変化や出来事を指します。\n\n例：This discovery was paradigm-shifting in the field of medicine. (この発見は医学分野において常識を覆すものだった。)"
+    },
+    {
+      "id": 7,
+      "value": "Time shift",
+      "options": [
+        "時間旅行",
+        "時間経過",
+        "時間停止",
+        "時間逆行"
+      ],
+      "correctAnswer": "時間経過",
+      "explanation": "Time shiftは、時間経過を示しています。このコンテキストでは、ある時点から別の時点への時間の経過を表しています。\n\n例：After a time shift, the scene changed. (時間経過後、シーンが変わった。)"
+    },
+    {
+      "id": 8,
+      "value": "cooped up",
+      "options": [
+        "閉じ込められた",
+        "解放された",
+        "助けられた",
+        "無視された"
+      ],
+      "correctAnswer": "閉じ込められた",
+      "explanation": "「cooped up」は、狭い場所に閉じ込められている、または外出できない状態を表します。退屈さや閉塞感を伴うことが多いです。\n\n例：I've been cooped up in the house all day because of the rain. (雨のせいで一日中家に閉じこもっていた。)"
+    },
+    {
+      "id": 9,
+      "value": "spontaneous coitus",
+      "options": [
+        "計画的な性交",
+        "自然発生的な性交",
+        "強制的な性交",
+        "夢の中の性交"
+      ],
+      "correctAnswer": "自然発生的な性交",
+      "explanation": "「spontaneous coitus」は、予期せず、または計画なしに行われる性交を意味します。ユーモラスな文脈で使われることが多いです。\n\n例：The idea of spontaneous coitus with a stranger is scary. (見知らぬ人との自然発生的な性交という考えは怖い。)"
+    },
+    {
+      "id": 10,
+      "value": "pout",
+      "options": [
+        "ふくれっ面をする",
+        "笑う",
+        "泣く",
+        "怒る"
+      ],
+      "correctAnswer": "ふくれっ面をする",
+      "explanation": "「pout」は、不満や不機嫌な気持ちを表すために、唇を突き出すことを意味します。子供っぽい行動と見なされることが多いです。\n\n例：She pouted when I said she couldn't have any candy. (彼女はキャンディーをあげられないと言うと、ふくれっ面をした。)"
+    },
+    {
+      "id": 11,
+      "value": "make fun",
+      "options": [
+        "楽しむ",
+        "からかう",
+        "手伝う",
+        "応援する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「make fun of」は、誰かや何かを冗談の種にする、からかうという意味です。相手を傷つける意図が含まれることがあります。\n\n例：The other children made fun of him because of his accent. (他の子供たちは彼のアクセントをからかった。)"
+    },
+    {
+      "id": 12,
+      "value": "embarrass",
+      "options": [
+        "勇気づける",
+        "恥ずかしい思いをさせる",
+        "励ます",
+        "助ける"
+      ],
+      "correctAnswer": "恥ずかしい思いをさせる",
+      "explanation": "「embarrass」は、恥ずかしい思いをさせる、困惑させるという意味です。公衆の面前で不快な状況に陥らせることを指します。\n\n例：I didn't want to embarrass him in front of his friends. (私は彼の友達の前で彼を恥ずかしい思いをさせたくなかった。)"
+    },
+    {
+      "id": 13,
+      "value": "breakthrough",
+      "options": [
+        "休憩",
+        "進展",
+        "崩壊",
+        "後退"
+      ],
+      "correctAnswer": "進展",
+      "explanation": "「breakthrough」は、科学、医学、技術などの分野で、長年の困難を克服して得られた重要な進展や発見を指します。問題解決や目標達成における大きな前進を意味します。\n\n例：Scientists have made a major breakthrough in cancer research. (科学者たちは癌研究において大きな進展を遂げた。)"
+    },
+    {
+      "id": 14,
+      "value": "switching fields",
+      "options": [
+        "分野を維持する",
+        "分野を切り替える",
+        "分野を拡大する",
+        "分野を縮小する"
+      ],
+      "correctAnswer": "分野を切り替える",
+      "explanation": "「switching fields」は、学問、職業、興味などの分野を、あるものから別のものへと変更することを意味します。\n\n例：He decided to switch fields from engineering to medicine. (彼は工学から医学へと分野を切り替えることにした。)"
+    },
+    {
+      "id": 26,
+      "value": "check it out",
+      "options": [
+        "確認してください",
+        "無視してください",
+        "調べてください",
+        "聞いてください"
+      ],
+      "correctAnswer": "確認してください",
+      "explanation": "「Check it out」は、何かを見たり、聞いたり、注意を払ったりするように人に促す口語的な表現です。新しい情報や面白いものを紹介する際によく使われます。このフレーズは、相手に何か特定のものを評価または検討してほしいときに使います。"
+    },
+    {
+      "id": 27,
+      "value": "stay attractive",
+      "options": [
+        "魅力的なままでいる",
+        "引きこもる",
+        "活動的になる",
+        "目立たなくなる"
+      ],
+      "correctAnswer": "魅力的なままでいる",
+      "explanation": "「stay attractive」は、外見や魅力的な状態を維持することを意味します。恋愛関係においては、相手に対する魅力を保つ努力を指すことがあります。年齢を重ねても、または関係が長くなっても、相手に魅力的に思われるように心がけることを含みます。"
+    },
+    {
+      "id": 28,
+      "value": "progressing in my research",
+      "options": [
+        "研究を進める",
+        "休憩する",
+        "発表する",
+        "中断する"
+      ],
+      "correctAnswer": "研究を進める",
+      "explanation": "「progress in research」は、研究活動において前進、進捗があることを意味します。研究が順調に進み、新たな発見や成果が得られている状態を指します。停滞している状態とは対照的に、知識や理解が深まっている状況を表します。"
+    },
+    {
+      "id": 29,
+      "value": "productive anxiety",
+      "options": [
+        "生産的な不安",
+        "無駄な心配",
+        "楽観的な考え",
+        "安定した状態"
+      ],
+      "correctAnswer": "生産的な不安",
+      "explanation": "「productive anxiety」は、適度な不安感が集中力やパフォーマンスを高める効果を指します。心理学的な概念で、人が最高のパフォーマンスを発揮するためには、ある程度のストレスやプレッシャーが必要であるという考えに基づいています。不安が過度になると逆効果になるため、バランスが重要です。"
+    },
+    {
+      "id": 30,
+      "value": "keep me on my toes",
+      "options": [
+        "油断させない",
+        "リラックスさせる",
+        "落ち着かせる",
+        "飽きさせる"
+      ],
+      "correctAnswer": "油断させない",
+      "explanation": "「keep someone on their toes」は、人を常に警戒させ、注意を払わせるという意味のイディオムです。予期せぬことが起こりうる状況や、競争が激しい環境でよく使われます。これにより、人は常に準備を怠らず、最高のパフォーマンスを発揮しようとします。"
+    },
+    {
+      "id": 31,
+      "value": "throw me off my game",
+      "options": [
+        "調子を狂わせる",
+        "ゲームに誘う",
+        "応援する",
+        "邪魔をしない"
+      ],
+      "correctAnswer": "調子を狂わせる",
+      "explanation": "「throw someone off their game」は、人の集中力や調子を狂わせ、本来のパフォーマンスを発揮できなくさせるという意味のイディオムです。邪魔をしたり、気を散らしたりすることで、人が計画通りに進めなくなる状況を指します。スポーツや仕事など、様々な状況で使われます。"
+    },
+    {
+      "id": 32,
+      "value": "go out of your way",
+      "options": [
+        "わざわざ～する",
+        "道に迷う",
+        "旅行に出かける",
+        "通常の方法で行う"
+      ],
+      "correctAnswer": "わざわざ～する",
+      "explanation": "「go out of your way」は、人が何かをするために特別な努力や労力を払うという意味のイディオムです。通常はしないことや、面倒なことをあえて行う場合に用いられます。親切心や好意を示すためによく使われます。"
+    },
+    {
+      "id": 33,
+      "value": "What's in it for us?",
+      "options": [
+        "私たちにとって何の得があるの？",
+        "何が入っているの？",
+        "それは何のためになるの？",
+        "私たちに何ができるの？"
+      ],
+      "correctAnswer": "私たちにとって何の得があるの？",
+      "explanation": "「What's in it for us?」は、何かをする際に自分たちにどのような利益やメリットがあるのかを尋ねる表現です。自分の時間や労力を費やす価値があるかどうかを確認するために使われます。ビジネスや交渉の場面でよく用いられます。"
+    },
+    {
+      "id": 34,
+      "value": "baseline",
+      "options": [
+        "基準値",
+        "最高値",
+        "平均値",
+        "目標値"
+      ],
+      "correctAnswer": "基準値",
+      "explanation": "「baseline」は、何かの測定や評価を行う際の基準となる値や状態を指します。実験や調査において、介入や変化を加える前の初期状態を示すために用いられます。この基準値と比較することで、介入の効果や変化の度合いを評価することができます。"
+    },
+    {
+      "id": 35,
+      "value": "plucked out",
+      "options": [
+        "摘出する",
+        "植え付ける",
+        "隠す",
+        "装飾する"
+      ],
+      "correctAnswer": "摘出する",
+      "explanation": "「pluck out」は、何かを抜き取る、摘み取るという意味です。ここでは、脳を取り出すという意味で使われています。例文：He plucked out the unwanted hairs with tweezers. (彼は毛抜きで不要な毛を抜いた。)"
+    },
+    {
+      "id": 36,
+      "value": "anxiety-inducing",
+      "options": [
+        "不安を誘発する",
+        "安心させる",
+        "興味をそそる",
+        "退屈させる"
+      ],
+      "correctAnswer": "不安を誘発する",
+      "explanation": "「anxiety-inducing」は、不安や心配を引き起こすという意味です。ストレスや緊張感を与える状況や物事に対して使われます。例えば、「anxiety-inducing situation（不安を誘発する状況）」のように使われます。"
+    },
+    {
+      "id": 37,
+      "value": "laid-back",
+      "options": [
+        "のんびりした",
+        "緊張した",
+        "怒りっぽい",
+        "几帳面な"
+      ],
+      "correctAnswer": "のんびりした",
+      "explanation": "「laid-back」は、リラックスしていて、のんびりしているという意味です。ストレスを感じにくく、落ち着いている性格を表す際によく使われます。例えば、「He is a very laid-back person.（彼はとてものんびりした人だ。）」のように使われます。"
+    },
+    {
+      "id": 38,
+      "value": "aiming for",
+      "options": [
+        "狙う",
+        "避ける",
+        "無視する",
+        "あきらめる"
+      ],
+      "correctAnswer": "狙う",
+      "explanation": "「aiming for」は、特定の目標や対象を狙う、目指すという意味です。物理的な対象だけでなく、抽象的な目標に対しても使われます。例えば、「He is aiming for a promotion.（彼は昇進を狙っている。）」のように使われます。"
+    },
+    {
+      "id": 39,
+      "value": "optimal anxiety zone",
+      "options": [
+        "最適な不安領域",
+        "安全な場所",
+        "快適な空間",
+        "危険な場所"
+      ],
+      "correctAnswer": "最適な不安領域",
+      "explanation": "「optimal anxiety zone」は、パフォーマンスを最大化するために最適なレベルの不安感がある状態を指します。不安がなさすぎると集中力が低下し、不安が強すぎるとパニックになるため、その中間の最適な状態を保つことが重要です。心理学やパフォーマンス理論で用いられる概念です。"
+    },
+    {
+      "id": 40,
+      "value": "remarkable scientist",
+      "options": [
+        "並外れた科学者",
+        "普通の科学者",
+        "引退した科学者",
+        "偽物の科学者"
+      ],
+      "correctAnswer": "並外れた科学者",
+      "explanation": "「remarkable scientist」は、非常に優れた、注目に値する科学者を指します。その科学者の業績や能力が特に優れていることを強調する際に使われます。例えば、「She is a remarkable scientist in her field.（彼女は彼女の分野で並外れた科学者だ。）」のように使われます。"
+    },
+    {
+      "id": 41,
+      "value": "breakthrough",
+      "options": [
+        "画期的な発見",
+        "失敗",
+        "停滞",
+        "日常業務"
+      ],
+      "correctAnswer": "画期的な発見",
+      "explanation": "「breakthrough」は、科学、医学、技術などの分野で、大きな進歩や重要な発見を意味します。それまでの停滞を打破し、新たな展開をもたらすものを指します。例えば、「a major breakthrough in cancer research（がん研究における画期的な発見）」のように使われます。"
+    },
+    {
+      "id": 42,
+      "value": "groundbreaking discovery",
+      "options": [
+        "画期的な発見",
+        "小さな発見",
+        "誤った情報",
+        "ありふれた出来事"
+      ],
+      "correctAnswer": "画期的な発見",
+      "explanation": "「groundbreaking discovery」は、従来の方法や考え方を根本から変えるような、非常に重要な発見を指します。その分野に大きな影響を与え、新たな可能性を切り開くものです。例えば、「a groundbreaking discovery in genetics（遺伝学における画期的な発見）」のように使われます。"
+    },
+    {
+      "id": 43,
+      "value": "elevated",
+      "options": [
+        "高い",
+        "低い",
+        "平均的な",
+        "減少した"
+      ],
+      "correctAnswer": "高い",
+      "explanation": "「elevated」は、通常よりも高い状態やレベルにあることを意味します。ここでは、不安レベルが高い状態を指します。例えば、「elevated blood pressure（高い血圧）」のように使われます。"
+    },
+    {
+      "id": 44,
+      "value": "intellectual sparring partners",
+      "options": [
+        "知的な議論相手",
+        "運動仲間",
+        "ビジネスパートナー",
+        "秘密の協力者"
+      ],
+      "correctAnswer": "知的な議論相手",
+      "explanation": "「intellectual sparring partners」は、知的な議論を通じて互いを刺激し、思考を深めることができる相手を指します。議論を通じて新しい視点やアイデアを得ることが目的です。例えば、「They are intellectual sparring partners who challenge each other's ideas.（彼らは互いのアイデアに挑戦する知的な議論相手だ。）」のように使われます。"
+    },
+    {
+      "id": 45,
+      "value": "assertion",
+      "options": [
+        "主張",
+        "質問",
+        "提案",
+        "命令"
+      ],
+      "correctAnswer": "主張",
+      "explanation": "「assertion」は、自分の意見や考えを強く主張すること、またはその主張自体を指します。根拠や証拠を伴わない場合もありますが、自信を持って述べられることが多いです。例えば、「He made an assertion that the Earth is flat.（彼は地球は平らだと主張した。）」のように使われます。"
+    },
+    {
+      "id": 46,
+      "value": "fighting me on the premise",
+      "options": [
+        "前提に反対する",
+        "私を応援する",
+        "戦いを挑む",
+        "一緒に戦う"
+      ],
+      "correctAnswer": "前提に反対する",
+      "explanation": "「fighting someone on the premise」は、ある議論や提案の基本的な前提や根拠に対して反対し、議論を挑むことを意味します。前提が間違っていると主張することで、議論全体の有効性を否定しようとする場合に用いられます。例えば、「They are fighting him on the premise that his data is flawed.（彼らは彼のデータに欠陥があるという前提で彼に反対している。）」のように使われます。"
+    },
+    {
+      "id": 47,
+      "value": "scientifically valid",
+      "options": [
+        "科学的に有効",
+        "非科学的",
+        "倫理的に問題がある",
+        "一般的に知られていない"
+      ],
+      "correctAnswer": "科学的に有効",
+      "explanation": "「scientifically valid」は、科学的な方法や証拠に基づいて正当性が認められることを意味します。実験や調査の結果が信頼できるものであり、客観的な根拠がある場合に用いられます。例えば、「The study is based on scientifically valid data.（その研究は科学的に有効なデータに基づいている。）」のように使われます。"
+    },
+    {
+      "id": 48,
+      "value": "Stop fighting me",
+      "options": [
+        "戦うのをやめて",
+        "私を助けて",
+        "私を笑わせて",
+        "私を無視して"
+      ],
+      "correctAnswer": "戦うのをやめて",
+      "explanation": "「Stop fighting me」は、議論や対立をやめてほしいという気持ちを表すフレーズです。相手が自分の意見や行動に反対し続けている状況で、これ以上の対立を避けたい時に使われます。例えば、「Stop fighting me, let's find a compromise.（戦うのをやめて、妥協点を見つけましょう。）」のように使われます。"
+    },
+    {
+      "id": 49,
+      "value": "fighting me on the premise.",
+      "options": [
+        "前提で私と戦う",
+        "私を応援する",
+        "私を無視する",
+        "私をからかう"
+      ],
+      "correctAnswer": "前提で私と戦う",
+      "explanation": "「fighting me on the premise」は、議論や提案の基本的な前提や根拠に対して反対し、議論を挑むことを意味します。前提が間違っていると主張することで、議論全体の有効性を否定しようとする場合に用いられます。例文：「He kept fighting me on the premise of my argument, making it difficult to have a productive conversation. (彼は私の議論の前提に対して反論し続け、建設的な会話をするのが難しくなった。)"
+    },
+    {
+      "id": 50,
+      "value": "premise",
+      "options": [
+        "前提",
+        "結論",
+        "要約",
+        "詳細"
+      ],
+      "correctAnswer": "前提",
+      "explanation": "「premise」は、議論や推論の基礎となる仮定や前提条件を指します。議論が成り立つための土台となるものであり、この前提が正しいかどうかによって結論の妥当性が左右されます。例文：「The entire argument rests on a faulty premise. (その議論全体は誤った前提に基づいている。)"
+    },
+    {
+      "id": 51,
+      "value": "rep",
+      "options": [
+        "代理人",
+        "修理業者",
+        "報道記者",
+        "反復"
+      ],
+      "correctAnswer": "代理人",
+      "explanation": "「rep」は「representative」の略で、企業や組織を代表して販売や交渉を行う人を指します。ここでは、営業成績が良い人がハワイ旅行を獲得できるという文脈で使われています。\n\n例：The sales rep closed a huge deal this week. (その営業担当者は今週、大きな取引をまとめた。)"
+    },
+    {
+      "id": 52,
+      "value": "resolution",
+      "options": [
+        "決意",
+        "解像度",
+        "解決",
+        "分解"
+      ],
+      "correctAnswer": "解像度",
+      "explanation": "「resolution」は、画像や映像の鮮明さ、細かさを表す際に使われます。ここでは、ハッブル宇宙望遠鏡よりも解像度が高い望遠鏡があるという文脈で使われています。\n\n例：The high resolution of the new camera allows for incredibly detailed photos. (その新しいカメラの高解像度により、信じられないほど詳細な写真が可能になる。)"
+    },
+    {
+      "id": 53,
+      "value": "subject myself to",
+      "options": [
+        "自分自身を捧げる",
+        "自分自身を服従させる",
+        "自分自身をさらす",
+        "自分自身を理解させる"
+      ],
+      "correctAnswer": "自分自身をさらす",
+      "explanation": "「subject oneself to」は、自分自身を何か（通常は不快なこと）にさらす、経験させるという意味です。ここでは、不快な話題に自分をさらすことで不安レベルを上げようとしている文脈で使われています。\n\n例：I don't want to subject myself to that kind of stress again. (私はもう二度とあのようなストレスに身を置きたくない。)"
+    },
+    {
+      "id": 54,
+      "value": "crotch talk",
+      "options": [
+        "専門用語",
+        "下ネタ",
+        "秘密の会話",
+        "隠語"
+      ],
+      "correctAnswer": "下ネタ",
+      "explanation": "「crotch talk」は、性的な話題や下品な会話を指す口語表現です。ここでは、女性同士の会話に対するSheldonの誤解に基づいて使用されています。\n\n例：The movie was full of crotch talk that I found offensive. (その映画は私が不快に感じる下ネタでいっぱいだった。)"
+    },
+    {
+      "id": 55,
+      "value": "sanitary napkin",
+      "options": [
+        "生理用ナプキン",
+        "衛生的なハンカチ",
+        "消毒用ウェットティッシュ",
+        "衛生陶器"
+      ],
+      "correctAnswer": "生理用ナプキン",
+      "explanation": "「sanitary napkin」は、生理用品のナプキンのことです。ここでは、Sheldonが女性同士の会話の内容を誤解している場面で使われています。\n\n例：She bought a pack of sanitary napkins at the drugstore. (彼女はドラッグストアで生理用ナプキンのパックを買った。)"
+    },
+    {
+      "id": 56,
+      "value": "all the rage",
+      "options": [
+        "とても怒っている",
+        "大流行している",
+        "すべてを捨てる",
+        "すべてを整理する"
+      ],
+      "correctAnswer": "大流行している",
+      "explanation": "「all the rage」は、一時的に非常に人気がある、流行しているという意味です。ここでは、どの生理用ナプキンが今一番人気があるのか、というSheldonの質問の中で使われています。\n\n例：That new smartphone app is all the rage right now. (あの新しいスマホアプリは今、大流行している。)"
+    },
+    {
+      "id": 57,
+      "value": "bloated",
+      "options": [
+        "誇張された",
+        "腫れた",
+        "開花した",
+        "満足した"
+      ],
+      "correctAnswer": "腫れた",
+      "explanation": "「bloated」は、体が（特に腹部が）ガスや水分で膨れている状態を表します。生理前の女性の状態を表現する際に使われることがあります。\n\n例：I feel bloated after eating that heavy meal. (あのような重い食事の後、お腹が張って苦しい。)"
+    },
+    {
+      "id": 58,
+      "value": "cranky",
+      "options": [
+        "奇妙な",
+        "不機嫌な",
+        "勇敢な",
+        "創造的な"
+      ],
+      "correctAnswer": "不機嫌な",
+      "explanation": "「cranky」は、不機嫌で怒りっぽい状態を指します。体調が悪い時やストレスが溜まっている時に使われます。\n\n例：He's always cranky when he doesn't get enough sleep. (彼は十分な睡眠を取らないといつも不機嫌だ。)"
+    },
+    {
+      "id": 59,
+      "value": "crampy",
+      "options": [
+        "窮屈な",
+        "けいれん性の",
+        "ぎこちない",
+        "いっぱいの"
+      ],
+      "correctAnswer": "けいれん性の",
+      "explanation": "「crampy」は、筋肉が痙攣している、または痙攣を起こしやすい状態を表します。生理痛の際に使われることが多いです。\n\n例：She felt crampy all day during her period. (彼女は生理中、一日中腹部に痙攣を感じた。)"
+    },
+    {
+      "id": 60,
+      "value": "hold on",
+      "options": [
+        "持ちこたえる",
+        "待つ",
+        "秘密にする",
+        "固執する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hold on」は、文字通りには「掴まっていろ」という意味ですが、会話の中では「ちょっと待って」「待ってください」という意味で使われます。相手の発言を中断したり、注意を引いたりする際に使われます。\n\n例：Hold on a second, I need to grab my keys. (ちょっと待って、鍵を取ってくる必要がある。)"
+    },
+    {
+      "id": 61,
+      "value": "apples to oranges",
+      "options": [
+        "比較にならない",
+        "とても美味しい",
+        "健康的な食事",
+        "一般的なこと"
+      ],
+      "correctAnswer": "比較にならない",
+      "explanation": "「apples to oranges」は、「根本的に異なり比較できない」という意味のイディオムです。異なる種類のものを比較することの無意味さを示します。\n\n例：Comparing the two candidates is like comparing apples to oranges; they have completely different backgrounds and experiences. (その二人の候補者を比較することは、リンゴとオレンジを比較するようなものだ。彼らは全く異なる経歴と経験を持っている。)"
+    },
+    {
+      "id": 62,
+      "value": "PMS'ing",
+      "options": [
+        "計画を立てる",
+        "写真を撮る",
+        "生理前症候群",
+        "個人的なメッセージを送る"
+      ],
+      "correctAnswer": "生理前症候群",
+      "explanation": "「PMS'ing」は、Premenstrual Syndrome（生理前症候群）の略で、生理前に起こる様々な身体的・精神的な不調を指します。\n\n例：She's been really irritable lately, probably because she's PMS'ing. (彼女は最近とてもイライラしている。おそらく生理前症候群のせいだろう。)"
+    },
+    {
+      "id": 63,
+      "value": "sweet spot",
+      "options": [
+        "甘い場所",
+        "最適な場所",
+        "秘密の場所",
+        "危険な場所"
+      ],
+      "correctAnswer": "最適な場所",
+      "explanation": "「sweet spot」は、ある活動や状況において最も望ましい、または効果的な状態や点を指します。ここでは、不安レベルを最適に保つための状態を指しています。\n\n例：This is the sweet spot for the engine's performance. (これがエンジンの性能にとって最適な場所だ。)"
+    },
+    {
+      "id": 64,
+      "value": "haters gonna hate",
+      "options": [
+        "帽子が好きになる",
+        "嫌な人は嫌うだろう",
+        "成功するだろう",
+        "憎しみを広める"
+      ],
+      "correctAnswer": "嫌な人は嫌うだろう",
+      "explanation": "「haters gonna hate」は、人が何をしても批判的な人は必ずいる、という意味のスラング表現です。主に、他人の批判を気にせず自分の好きなように生きることを奨励する際に使われます。\n\n例：Just keep doing what you love, haters gonna hate. (好きなことを続けていればいいんだ。嫌な人は嫌うだろう。)"
+    },
+    {
+      "id": 65,
+      "value": "optimal capacity",
+      "options": [
+        "最適な量",
+        "最適な能力",
+        "最適な容器",
+        "最適な機会"
+      ],
+      "correctAnswer": "最適な能力",
+      "explanation": "「optimal capacity」は、最大限の効率や能力を発揮できる状態を指します。ここでは、脳が最高の状態で機能していることを意味します。\n\n例：The factory is running at optimal capacity to meet the high demand. (その工場は高い需要に応えるために、最大限の能力で稼働している。)"
+    },
+    {
+      "id": 66,
+      "value": "tiebreaker",
+      "options": [
+        "ネクタイを締める人",
+        "同点者を決める人",
+        "交渉人",
+        "秘密保持者"
+      ],
+      "correctAnswer": "同点者を決める人",
+      "explanation": "「tiebreaker」は、同点の場合に勝敗を決める役割を果たす人や事柄を指します。ここでは、Pennyがどちらの引用文が優れているかを決める役割を担っています。\n\n例：She was the tiebreaker in the debate competition. (彼女はディベート大会で同点決勝の役割を果たした。)"
+    },
+    {
+      "id": 67,
+      "value": "quad",
+      "options": [
+        "四角形",
+        "四人組",
+        "大学構内の中庭",
+        "クワッドバイク"
+      ],
+      "correctAnswer": "大学構内の中庭",
+      "explanation": "「quad」は、大学や学校のキャンパス内にある四角い中庭を指す略語です。\n\n例：Students were relaxing on the grass in the quad. (学生たちは中庭の芝生でくつろいでいた。)"
+    },
+    {
+      "id": 68,
+      "value": "scoop vomit",
+      "options": [
+        "アイスをすくう",
+        "秘密を暴露する",
+        "吐瀉物をすくい上げる",
+        "ニュースを独占する"
+      ],
+      "correctAnswer": "吐瀉物をすくい上げる",
+      "explanation": "「scoop vomit」は、文字通りには「嘔吐物をすくい上げる」という意味で、ここではLeonardがSheldonの嘔吐物を片付ける羽目になった状況を指しています。\n\n例：I had to scoop vomit after my dog got sick in the car. (犬が車の中で具合が悪くなった後、吐瀉物をすくい上げなければならなかった。)"
+    },
+    {
+      "id": 69,
+      "value": "uncensored",
+      "options": [
+        "未発表の",
+        "検閲されていない",
+        "個人的な",
+        "予期しない"
+      ],
+      "correctAnswer": "検閲されていない",
+      "explanation": "「uncensored」とは、検閲を受けていない、つまり内容が修正や削除されていない状態を指します。ここでは、Sheldonが女性たちの会話を「uncensored」だと誤解している状況を表しています。\n\n例：The director released an uncensored version of the movie. (監督はその映画の検閲されていないバージョンを公開した。)"
+    },
+    {
+      "id": 70,
+      "value": "experiments with",
+      "options": [
+        "実験器具",
+        "実験計画",
+        "実験方法",
+        "〜を試す"
+      ],
+      "correctAnswer": "〜を試す",
+      "explanation": "「experiment with」とは、新しい方法やアイデアを試すという意味です。ここでは、Sheldonが不安レベルを上げるために色々なことを試している状況を表しています。\n\n例：He likes to experiment with different cuisines when he cooks. (彼は料理をする際に様々な料理を試すのが好きだ。)"
+    },
+    {
+      "id": 71,
+      "value": "elevated anxiety levels",
+      "options": [
+        "興奮状態",
+        "高い不安レベル",
+        "高度な警戒態勢",
+        "過剰な運動量"
+      ],
+      "correctAnswer": "高い不安レベル",
+      "explanation": "「elevated anxiety levels」とは、通常よりも高いレベルの不安を感じている状態を指します。ここでは、Sheldonが意図的に不安を高めようとしている状況を表しています。\n\n例：Stress at work can lead to elevated anxiety levels. (職場のストレスは高い不安レベルにつながることがある。)"
+    },
+    {
+      "id": 72,
+      "value": "dark matter proton decay problem",
+      "options": [
+        "宇宙の謎",
+        "深刻な問題",
+        "ダークマターの陽子崩壊問題",
+        "解決不可能な問題"
+      ],
+      "correctAnswer": "ダークマターの陽子崩壊問題",
+      "explanation": "「dark matter proton decay problem」とは、科学における未解決の問題の一つで、ダークマターと陽子の崩壊に関する理論的な課題を指します。ここでは、Sheldonが非常に複雑な問題を抱えていることを示唆しています。\n\n例：Scientists are still working on the dark matter proton decay problem. (科学者たちはまだダークマターの陽子崩壊問題に取り組んでいる。)"
+    },
+    {
+      "id": 73,
+      "value": "date night",
+      "options": [
+        "仕事帰り",
+        "特別な夜",
+        "デートの夜",
+        "休憩時間"
+      ],
+      "correctAnswer": "デートの夜",
+      "explanation": "「date night」とは、カップルが一緒に特別な時間を過ごすために計画された夜のことです。ここでは、AmyとSheldonのデートの夜を指しています。\n\n例：We have a date night every Friday. (私たちは毎週金曜日にデートの夜を設けている。)"
+    },
+    {
+      "id": 74,
+      "value": "I'm glad",
+      "options": [
+        "嬉しい",
+        "悲しい",
+        "怒っている",
+        "驚いている"
+      ],
+      "correctAnswer": "嬉しい",
+      "explanation": "「I'm glad」とは、喜んでいる、嬉しい気持ちを表す表現です。\n\n例：I'm glad to hear that you're feeling better. (あなたが元気になったと聞いて嬉しい。)"
+    },
+    {
+      "id": 75,
+      "value": "forget about",
+      "options": [
+        "思い出す",
+        "忘れる",
+        "隠す",
+        "考える"
+      ],
+      "correctAnswer": "忘れる",
+      "explanation": "「forget about」とは、〜について忘れるという意味です。\n\n例：Don't forget about our meeting tomorrow. (明日の会議のことは忘れないでください。)"
+    },
+    {
+      "id": 76,
+      "value": "take on",
+      "options": [
+        "無視する",
+        "賛成する",
+        "取り組む",
+        "反対する"
+      ],
+      "correctAnswer": "取り組む",
+      "explanation": "「take on」は、仕事や責任などを引き受ける、取り組むという意味です。課題や問題に対して積極的に関わるニュアンスがあります。\n\n例：She is willing to take on extra work to gain experience. (彼女は経験を積むために、追加の仕事を引き受けることを厭わない。)"
+    },
+    {
+      "id": 77,
+      "value": "game changer",
+      "options": [
+        "悪影響",
+        "現状維持",
+        "形勢を一変させるもの",
+        "些細なこと"
+      ],
+      "correctAnswer": "形勢を一変させるもの",
+      "explanation": "「game changer」は、状況や業界、ゲームの流れなどを根本的に変える革新的な要素や出来事を指します。非常に大きな影響力を持つものを意味します。\n\n例：The invention of the internet was a real game changer. (インターネットの発明は、まさにゲームチェンジャーだった。)"
+    },
+    {
+      "id": 78,
+      "value": "redefine",
+      "options": [
+        "確認する",
+        "再定義する",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "再定義する",
+      "explanation": "「redefine」は、何かを再び定義する、新たな意味を与えるという意味です。既存の概念や定義を根本的に見直す場合に使われます。\n\n例：The success of this product redefined the company's image. (この製品の成功は、会社のイメージを再定義した。)"
+    },
+    {
+      "id": 79,
+      "value": "nagging",
+      "options": [
+        "楽しい",
+        "面白い",
+        "口うるさい",
+        "落ち着いた"
+      ],
+      "correctAnswer": "口うるさい",
+      "explanation": "「nagging」は、しつこく小言を言う、文句を言うという意味です。特に不快感を与えるような、繰り返しの文句を指します。\n\n例：Her nagging voice was getting on my nerves. (彼女の口うるさい声が私の神経に触った。)"
+    },
+    {
+      "id": 80,
+      "value": "shrill",
+      "options": [
+        "穏やかな",
+        "鋭い",
+        "低い",
+        "優しい"
+      ],
+      "correctAnswer": "鋭い",
+      "explanation": "「shrill」は、かん高い、耳障りなという意味です。声や音が不快なほど高い場合に用いられます。\n\n例：She had a shrill voice that made my ears ring. (彼女は耳鳴りがするほどのかん高い声だった。)"
+    },
+    {
+      "id": 81,
+      "value": "zip-a-dee-doo-dah",
+      "options": [
+        "悲しみ",
+        "落ち着き",
+        "幸福",
+        "怒り"
+      ],
+      "correctAnswer": "幸福",
+      "explanation": "「Zip-a-dee-doo-dah」は、非常に幸せで楽観的な気分を表す言葉です。元々はディズニー映画の歌のタイトルで、喜びや満足感を表現する際に使われます。\n\n例：After receiving the good news, he felt zip-a-dee-doo-dah all day. (良い知らせを受けた後、彼は一日中とても幸せだった。)"
+    },
+    {
+      "id": 82,
+      "value": "drive yourself crazy",
+      "options": [
+        "冷静になる",
+        "楽しむ",
+        "自分を追い詰める",
+        "リラックスする"
+      ],
+      "correctAnswer": "自分を追い詰める",
+      "explanation": "「drive yourself crazy」は、自分自身を極度に悩ませる、精神的に追い詰めるという意味です。心配やストレスで精神的に疲弊する状況を表します。\n\n例：Don't drive yourself crazy trying to solve the problem. (問題を解決しようとして自分を追い詰めないで。)"
+    },
+    {
+      "id": 83,
+      "value": "hallucinating",
+      "options": [
+        "集中している",
+        "現実逃避している",
+        "幻覚を見ている",
+        "記憶喪失になっている"
+      ],
+      "correctAnswer": "幻覚を見ている",
+      "explanation": "「hallucinating」は、幻覚を見るという意味です。実際には存在しないものを見たり、感じたりする状態を指します。\n\n例：The drug caused him to start hallucinating. (その薬のせいで、彼は幻覚を見始めた。)"
+    },
+    {
+      "id": 84,
+      "value": "miserable",
+      "options": [
+        "幸せな",
+        "悲惨な",
+        "満足な",
+        "退屈な"
+      ],
+      "correctAnswer": "悲惨な",
+      "explanation": "「miserable」は、非常に不幸な、悲惨なという意味です。精神的、肉体的に苦痛を感じている状態を表します。\n\n例：I felt miserable after failing the exam. (試験に落ちた後、私はとても惨めだった。)"
+    },
+    {
+      "id": 85,
+      "value": "reach of the world",
+      "options": [
+        "世界の終わり",
+        "世界の理解",
+        "世界の支配",
+        "世界の創造"
+      ],
+      "correctAnswer": "世界の理解",
+      "explanation": "文脈から推測すると、reach of the world は、世界の理解に到達するという意味合いだと考えられます。人類が世界を理解することに貢献しようとしているという解釈です。\n\n例：His discoveries helped humanity reach of the world. (彼の発見は、人類が世界を理解するのを助けた。)"
+    },
+    {
+      "id": 86,
+      "value": "what are you gonna do?",
+      "options": [
+        "どうするべきですか",
+        "どうしようもないね",
+        "何をしているの",
+        "何か手伝おうか"
+      ],
+      "correctAnswer": "どうしようもないね",
+      "explanation": "「what are you gonna do?」は、どうしようもない、仕方がないという意味合いで使われることがあります。特に、困難な状況や問題に対して、解決策がない、または取るべき行動がない場合に用いられます。\n\n例：The rain ruined our picnic, but what are you gonna do? (雨でピクニックが台無しになったが、どうしようもないね。)"
+    },
+    {
+      "id": 87,
+      "value": "pull",
+      "options": [
+        "押す",
+        "企む",
+        "引く",
+        "提供する"
+      ],
+      "correctAnswer": "企む",
+      "explanation": "「pull」は文脈によって様々な意味を持ちますが、ここでは「何を企んでいるのか」という意味合いで使われています。陰謀や策略を疑うニュアンスが含まれます。\n\n例：What are you trying to pull? I know you're hiding something. (何を企んでいるんだ？何か隠しているのはわかっている。)"
+    },
+    {
+      "id": 88,
+      "value": "warm up the car",
+      "options": [
+        "車を修理する",
+        "車を洗う",
+        "車を暖める",
+        "車を売る"
+      ],
+      "correctAnswer": "車を暖める",
+      "explanation": "文字通りの意味の他に、比喩的に「準備を始める」「行動を開始する」という意味合いで使われることがあります。ここでは、何か計画を実行するために準備を始めるニュアンスです。\n\n例：Warm up the car, Leonard, it’s poster time.　(レナード、車を暖めて。ポスターの時間だ)"
+    },
+    {
+      "id": 89,
+      "value": "darn straight",
+      "options": [
+        "絶対に違う",
+        "その通り",
+        "気にしない",
+        "わからない"
+      ],
+      "correctAnswer": "その通り",
+      "explanation": "「darn straight」は、絶対にそうだ、その通りだ、という意味の強い肯定を表す口語表現です。確信や同意を示す際に使われます。\n\n例：'Is this the best coffee ever?' 'Darn straight it is!' (「これは史上最高のコーヒーですか？」「その通りだ！」)"
+    },
+    {
+      "id": 90,
+      "value": "get on my nerves",
+      "options": [
+        "私を助ける",
+        "私を落ち着かせる",
+        "私をイライラさせる",
+        "私を喜ばせる"
+      ],
+      "correctAnswer": "私をイライラさせる",
+      "explanation": "「get on my nerves」は、人をイライラさせる、神経に障るという意味のイディオムです。人の行動や言動が不快で、我慢できない気持ちを表します。\n\n例：His constant complaining is starting to get on my nerves. (彼の絶え間ない不満は、私の神経に障り始めている。)"
+    },
+    {
+      "id": 91,
+      "value": "mind if",
+      "options": [
+        "気にしますか",
+        "気にしませんか",
+        "知っていますか",
+        "忘れますか"
+      ],
+      "correctAnswer": "気にしますか",
+      "explanation": "「mind if」は、〜しても構いませんか、〜しても良いですか、という意味の許可を求める表現です。相手に不快感を与えないか確認する際に使われます。\n\n例：Do you mind if I open the window? (窓を開けても構いませんか？)"
+    },
+    {
+      "id": 92,
+      "value": "kidding around",
+      "options": [
+        "真剣に議論する",
+        "冗談を言い合う",
+        "秘密を守る",
+        "真剣に勉強する"
+      ],
+      "correctAnswer": "冗談を言い合う",
+      "explanation": "「kidding around」は、冗談を言い合ってふざける、という意味です。真剣な話ではなく、軽い気持ちで楽しんでいる状況を表します。\n\n例：We were just kidding around, don't take it so seriously. (私たちはただ冗談を言い合っていただけだよ、そんなに真剣に受け止めないで。)"
+    },
+    {
+      "id": 93,
+      "value": "switch to",
+      "options": [
+        "変更する",
+        "維持する",
+        "反対する",
+        "隠す"
+      ],
+      "correctAnswer": "変更する",
+      "explanation": "「switch to」は、あるものから別のものへ変更する、切り替えるという意味です。\n\n例：I made the switch to dark matter. (私は暗黒物質に切り替えた。)"
+    },
+    {
+      "id": 94,
+      "value": "take care of yourself",
+      "options": [
+        "自分を責める",
+        "自分を大切にする",
+        "自分を無視する",
+        "自分を甘やかす"
+      ],
+      "correctAnswer": "自分を大切にする",
+      "explanation": "「take care of yourself」は、自分の健康や安全に気をつける、自分を大切にするという意味です。相手への思いやりや配慮を示す際に使われます。\n\n例：Get some rest and take care of yourself. (休息をとって、自分を大切にしてください。)"
+    },
+    {
+      "id": 95,
+      "value": "artificially",
+      "options": [
+        "自然に",
+        "人工的に",
+        "偶然に",
+        "正直に"
+      ],
+      "correctAnswer": "人工的に",
+      "explanation": "「artificially」は、人工的に、人為的にという意味です。自然な状態ではなく、人間の手によって作られたり、操作されたりすることを指します。\n\n例：artificially raising my anxiety levels (人工的に私の不安レベルを上げる)"
+    },
+    {
+      "id": 96,
+      "value": "up there",
+      "options": [
+        "低い",
+        "普通",
+        "高い",
+        "存在しない"
+      ],
+      "correctAnswer": "高い",
+      "explanation": "「up there」は、高い位置にある、高いレベルにあるという意味です。ここでは、レナードの不安レベルが高いことを強調しています。\n\n例：My levels, right up there. (私のレベルは、まさに高いところにある)"
+    },
+    {
+      "id": 97,
+      "value": "be of trouble",
+      "options": [
+        "役に立つ",
+        "問題ない",
+        "迷惑になる",
+        "簡単である"
+      ],
+      "correctAnswer": "迷惑になる",
+      "explanation": "「be of trouble」は、トラブルを引き起こす、迷惑をかけるという意味です。Sheldonが他人に迷惑をかけていることを指しています。\n\n例：You know, he can be a lot of trouble. (彼はとても厄介なことになることがある)"
+    },
+    {
+      "id": 98,
+      "value": "little ball of fur",
+      "options": [
+        "幸福",
+        "悲しみ",
+        "怒り",
+        "愛情"
+      ],
+      "correctAnswer": "愛情",
+      "explanation": "「little ball of fur」は、かわいらしい猫を表現するときによく使われます。Soft kitty, warm kitty, little ball of fur.という歌詞の通り、愛情を込めて猫を表現しています。\n\n例：Soft kitty, warm kitty, little ball of fur. (柔らかい子猫、暖かい子猫、小さな毛玉)"
+    },
+    {
+      "id": 99,
+      "value": "sweet and sensitive",
+      "options": [
+        "冷酷で無神経",
+        "甘くて繊細",
+        "強くて大胆",
+        "賢くてずる賢い"
+      ],
+      "correctAnswer": "甘くて繊細",
+      "explanation": "「sweet and sensitive」は、優しくて繊細な性格を表します。特に人の気持ちをよく理解し、共感する能力が高いことを意味します。\n\n例：Well, you may think it’s funny that Raj is sweet and sensitive, but I think it’s sexy. (まあ、あなたがラージが甘くて繊細なのがおかしいと思うかもしれませんが、私はセクシーだと思います。)"
+    },
+    {
+      "id": 100,
+      "value": "right up there",
+      "options": [
+        "低い位置に",
+        "普通のレベルで",
+        "非常に高い位置に",
+        "存在しない場所に"
+      ],
+      "correctAnswer": "非常に高い位置に",
+      "explanation": "「right up there」は、非常に高いレベルにある、トップクラスであるという意味です。ここでは、レナードのストレスレベルが非常に高いことを強調しています。\n\n例：My stress levels are right up there with yours. (私のストレスレベルはあなたと同じくらい高いよ。)"
+    }
+  ]
+}

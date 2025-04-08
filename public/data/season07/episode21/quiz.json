@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "taking over",
+      "options": [
+        "支配する",
+        "手放す",
+        "考慮する",
+        "理解する"
+      ],
+      "correctAnswer": "支配する",
+      "explanation": "「take over」は、支配権を握る、引き継ぐ、乗っ取るという意味です。ここでは「アペ（猿）のDNAが徐々に体を乗っ取る」という意味で使われています。"
+    },
+    {
+      "id": 2,
+      "value": "cleavage",
+      "options": [
+        "分裂",
+        "谷間",
+        "切断",
+        "団結"
+      ],
+      "correctAnswer": "谷間",
+      "explanation": "「cleavage」は、女性の胸の谷間を指す言葉です。映画の撮影で、猿の毛皮を体のどこに接着するかという文脈で使用されています。"
+    },
+    {
+      "id": 3,
+      "value": "gullible",
+      "options": [
+        "騙されやすい",
+        "賢い",
+        "勇敢な",
+        "寛大な"
+      ],
+      "correctAnswer": "騙されやすい",
+      "explanation": "「gullible」は、だまされやすい、信じやすいという意味です。PennyがLeonardをからかう場面で使われています。"
+    },
+    {
+      "id": 4,
+      "value": "weenie",
+      "options": [
+        "臆病者",
+        "勇敢な人",
+        "賢い人",
+        "優しい人"
+      ],
+      "correctAnswer": "臆病者",
+      "explanation": "「weenie」は、弱虫、臆病者という意味です。PennyがLeonardを愛情を込めてからかう際に使われています。"
+    },
+    {
+      "id": 5,
+      "value": "reinstate",
+      "options": [
+        "復元する",
+        "調査する",
+        "隠蔽する",
+        "無視する"
+      ],
+      "correctAnswer": "復元する",
+      "explanation": "「reinstate」は、元の状態に戻す、復活させるという意味です。ここでは、中断していた「Anything Can Happen Thursday」を復活させるという意味で使われています。"
+    },
+    {
+      "id": 6,
+      "value": "ease into",
+      "options": [
+        "徐々に慣れる",
+        "急に始める",
+        "中断する",
+        "拒否する"
+      ],
+      "correctAnswer": "徐々に慣れる",
+      "explanation": "「ease into」は、徐々に慣れる、ゆっくりと始めるという意味です。ここでは、過激なイベントを避けて、少しずつ新しいことに挑戦しようという提案で使われています。"
+    },
+    {
+      "id": 7,
+      "value": "what ails her?",
+      "options": [
+        "彼女は何が嫌い？",
+        "彼女はどこへ行くの？",
+        "彼女はどうしたの？",
+        "彼女は何を望んでいるの？"
+      ],
+      "correctAnswer": "彼女はどうしたの？",
+      "explanation": "「ail」は病気、苦痛という意味で、「What ails her?」は「彼女の具合はどうしたの？」という意味になります。より直接的に病状を尋ねるフォーマルな言い方です。"
+    },
+    {
+      "id": 8,
+      "value": "shake the brain bush",
+      "options": [
+        "知恵を絞る",
+        "思考を放棄する",
+        "脳を休ませる",
+        "記憶を消去する"
+      ],
+      "correctAnswer": "知恵を絞る",
+      "explanation": "「shake the brain bush」は、直訳すると「脳の茂みを揺さぶる」となり、そこから転じて「知恵を絞る」「アイデアを出す」という意味で使われる、Sheldon独特のユーモラスな表現です。"
+    },
+    {
+      "id": 9,
+      "value": "anything can happen",
+      "options": [
+        "何でも起こりうる",
+        "何も起こらない",
+        "すべて計画通り",
+        "予想外の事態"
+      ],
+      "correctAnswer": "何でも起こりうる",
+      "explanation": "文字通り「何でも起こりうる」という意味ですが、ここでは予測不能な楽しいことを期待する、または皮肉を込めて使うフレーズです。"
+    },
+    {
+      "id": 10,
+      "value": "on set",
+      "options": [
+        "撮影現場で",
+        "準備中に",
+        "休憩中に",
+        "打ち上げで"
+      ],
+      "correctAnswer": "撮影現場で",
+      "explanation": "「on set」は、映画やテレビ番組などの撮影現場を指します。Pennyが映画の撮影現場での経験を話す文脈で使用されています。"
+    },
+    {
+      "id": 11,
+      "value": "struggling to",
+      "options": [
+        "苦労している",
+        "成功している",
+        "楽しんでいる",
+        "準備している"
+      ],
+      "correctAnswer": "苦労している",
+      "explanation": "「struggle to」は～しようと苦労するという意味です。Sheldonが新しい研究分野を見つけるのに苦労している状況を表しています。"
+    },
+    {
+      "id": 12,
+      "value": "mind off it",
+      "options": [
+        "気を紛らわす",
+        "集中する",
+        "無視する",
+        "分析する"
+      ],
+      "correctAnswer": "気を紛らわす",
+      "explanation": "「get your mind off it」は、あることについて考えすぎないように、気を紛らわすという意味です。PennyがSheldonにアドバイスする場面で使われています。"
+    },
+    {
+      "id": 13,
+      "value": "bring back",
+      "options": [
+        "復活させる",
+        "忘れる",
+        "避ける",
+        "非難する"
+      ],
+      "correctAnswer": "復活させる",
+      "explanation": "「bring back」は、以前の状態や習慣を復活させるという意味です。ここでは、「Anything Can Happen Thursdays」を復活させることを提案しています。"
+    },
+    {
+      "id": 14,
+      "value": "cut them open",
+      "options": [
+        "切り開く",
+        "閉じる",
+        "包む",
+        "隠す"
+      ],
+      "correctAnswer": "切り開く",
+      "explanation": "「cut open」は、何かを切り開くという意味です。カルツォーネをピザのように食べるために切り開くという、Sheldonの奇抜なアイデアを表しています。"
+    },
+    {
+      "id": 15,
+      "value": "falls out",
+      "options": [
+        "出てくる",
+        "隠れる",
+        "消える",
+        "崩れる"
+      ],
+      "correctAnswer": "出てくる",
+      "explanation": "「fall out」は、文字通りには「落ちる」という意味ですが、ここでは「（アイデアが）出てくる」という意味で使われています。比喩的な表現です。"
+    },
+    {
+      "id": 16,
+      "value": "hang out",
+      "options": [
+        "ぶらぶらする",
+        "急いで去る",
+        "真剣に議論する",
+        "仕事に集中する"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、友達と気軽に時間を過ごす、ぶらぶらするという意味です。HowardがRajを家に招いて一緒に時間を過ごす状況を表しています。"
+    },
+    {
+      "id": 17,
+      "value": "the last things to turn",
+      "options": [
+        "最後に変わるもの",
+        "最初に見るもの",
+        "一番大切なもの",
+        "完全に無視するもの"
+      ],
+      "correctAnswer": "最後に変わるもの",
+      "explanation": "killer ape DNAが体を乗っ取る映画の撮影で、Pennyの胸が最後に猿化するという設定を指します。"
+    },
+    {
+      "id": 18,
+      "value": "dark matter",
+      "options": [
+        "暗黒物質",
+        "ブラックホール",
+        "宇宙の塵",
+        "エネルギー波"
+      ],
+      "correctAnswer": "暗黒物質",
+      "explanation": "宇宙に存在する正体不明の物質。Sheldonが研究分野を選ぶ際にLeonardが提案した。"
+    },
+    {
+      "id": 19,
+      "value": "made fun of",
+      "options": [
+        "からかった",
+        "褒めた",
+        "尊敬した",
+        "無視した"
+      ],
+      "correctAnswer": "からかった",
+      "explanation": "「make fun of」は、～をからかう、嘲笑するという意味です。Pennyが過去に「Anything Can Happen Thursdays」をからかったことを指しています。"
+    },
+    {
+      "id": 20,
+      "value": "Role-playing",
+      "options": [
+        "役割演技",
+        "秘密の計画",
+        "新しい趣味",
+        "現実逃避"
+      ],
+      "correctAnswer": "役割演技",
+      "explanation": "「Role-playing」は、役割を演じること。ここでは、ロード・オブ・ザ・リングの戦闘を再現するグループについて言及しています。"
+    },
+    {
+      "id": 21,
+      "value": "innovative stuff",
+      "options": [
+        "革新的なこと",
+        "退屈なもの",
+        "時代遅れなもの",
+        "非常に困難な課題"
+      ],
+      "correctAnswer": "革新的なこと",
+      "explanation": "「innovative stuff」は、革新的な研究やアイデアを指します。LeonardがSheldonに暗黒物質の研究を勧める際に使われています。"
+    },
+    {
+      "id": 22,
+      "value": "gas station",
+      "options": [
+        "ガソリンスタンド",
+        "映画撮影所",
+        "レストラン",
+        "遊園地"
+      ],
+      "correctAnswer": "ガソリンスタンド",
+      "explanation": "「gas station」はガソリンスタンドを意味します。Pennyが映画撮影所にトイレがないため、ガソリンスタンドのトイレを使わなければならない状況を表しています。"
+    },
+    {
+      "id": 23,
+      "value": "in there",
+      "options": [
+        "そこにいる",
+        "ここにいる",
+        "どこにもいない",
+        "向こうにいる"
+      ],
+      "correctAnswer": "そこにいる",
+      "explanation": "Pennyがガソリンスタンドのトイレにいる状況を指します。彼女が猿のメイクをしているにもかかわらず、ガソリンスタンドにはもっとひどい人がいるという意味で使われています。"
+    },
+    {
+      "id": 24,
+      "value": "professional opinion",
+      "options": [
+        "専門的な意見",
+        "個人的な感情",
+        "世論",
+        "予備知識"
+      ],
+      "correctAnswer": "専門的な意見",
+      "explanation": "「professional opinion」は専門家としての意見や見解を意味します。SheldonがLeonardに物理学者としての専門的な意見を求めている場面で使われています。"
+    },
+    {
+      "id": 25,
+      "value": "push him down the stairs",
+      "options": [
+        "階段から突き落とす",
+        "階段を上るのを助ける",
+        "階段で競争する",
+        "階段を掃除する"
+      ],
+      "correctAnswer": "階段から突き落とす",
+      "explanation": "これはPennyが冗談で言ったことで、「何でも起こりうる」状況を誇張して表現しています。非現実的な提案でユーモアを加えるための表現です。"
+    },
+    {
+      "id": 26,
+      "value": "spoiler alert",
+      "options": [
+        "重要な情報",
+        "ネタバレ注意",
+        "緊急警報",
+        "悪天候の注意報"
+      ],
+      "correctAnswer": "ネタバレ注意",
+      "explanation": "映画やドラマ、本などの内容について、事前に重要な情報が明かされることを警告する際に使われる表現です。これから作品を楽しむ人に対して、内容を知りたくない場合は注意するように促します。"
+    },
+    {
+      "id": 27,
+      "value": "straight-up",
+      "options": [
+        "正直な",
+        "率直な",
+        "単純な",
+        "複雑な"
+      ],
+      "correctAnswer": "率直な",
+      "explanation": "「straight-up」は、直接的で率直な、または純粋で混じりけのないという意味で使用されます。会話では、ある事柄が誇張や誤魔化しなしに、そのものであることを強調する際に使われます。\n例文：He gave me a straight-up answer. (彼は私に率直な答えをくれた。)"
+    },
+    {
+      "id": 28,
+      "value": "owe you one",
+      "options": [
+        "あなたに借りがある",
+        "あなたを所有している",
+        "あなたに同意する",
+        "あなたに感謝する"
+      ],
+      "correctAnswer": "あなたに借りがある",
+      "explanation": "「I owe you one」は、誰かに助けられたり、親切にしてもらった時に、その人に感謝の気持ちを伝え、いつか恩返しをしたいという意味を表す表現です。軽いニュアンスで使われることが多いです。\n例文：Thanks for helping me out. I owe you one. (助けてくれてありがとう。 恩に着るよ。)"
+    },
+    {
+      "id": 29,
+      "value": "randomly",
+      "options": [
+        "無作為に",
+        "慎重に",
+        "体系的に",
+        "計画的に"
+      ],
+      "correctAnswer": "無作為に",
+      "explanation": "「randomly」は、特に目的や計画なしに、偶然に、という意味で使用されます。統計学や確率論の文脈でもよく使われます。\n例文：We randomly selected participants for the study. (我々は研究のために参加者を無作為に選びました。)"
+    },
+    {
+      "id": 30,
+      "value": "Anything Can Happen Thursday",
+      "options": [
+        "何でも起こる木曜日",
+        "特別な出来事のない木曜日",
+        "毎週恒例の会議",
+        "感謝祭"
+      ],
+      "correctAnswer": "何でも起こる木曜日",
+      "explanation": "ここでは、文字通りの意味で「何でも起こる木曜日」というイベントを示唆していますが、特定のルールや計画がなく、予期せぬことが起こりうる日、またはイベントを指す可能性があります。ここでは日常からの変化や、予測できない楽しい出来事が起こる可能性を示唆しています。"
+    },
+    {
+      "id": 31,
+      "value": "fusion",
+      "options": [
+        "融合",
+        "分裂",
+        "爆発",
+        "混乱"
+      ],
+      "correctAnswer": "融合",
+      "explanation": "ここでは、異なる文化や料理の要素を組み合わせることを指します。特に料理の文脈では、異なる地域の食材や調理法を組み合わせて新しい料理を生み出すことを意味します。\n例文：This restaurant is famous for its fusion cuisine. (このレストランはフュージョン料理で有名です。)"
+    },
+    {
+      "id": 32,
+      "value": "rituals",
+      "options": [
+        "儀式",
+        "習慣",
+        "法律",
+        "偶然"
+      ],
+      "correctAnswer": "儀式",
+      "explanation": "「ritual」は、特定の目的や意味を持って行われる一連の行動や手順を指します。宗教的な儀式や、社会的な習慣、個人的な習慣など、様々な文脈で使用されます。\n例文：The tea ceremony is a traditional Japanese ritual. (茶道は日本の伝統的な儀式です。)"
+    },
+    {
+      "id": 33,
+      "value": "slippery",
+      "options": [
+        "滑りやすい",
+        "危険な",
+        "幸運な",
+        "不確実な"
+      ],
+      "correctAnswer": "滑りやすい",
+      "explanation": "「slippery」は、文字通りには表面が滑りやすいという意味ですが、比喩的には状況や人が信用できない、または扱いが難しいという意味で使用されることがあります。ここでは比喩的な意味合いで使用されています。\n例文：He is a slippery character. (彼は信用できない人物だ。)"
+    },
+    {
+      "id": 34,
+      "value": "get this over with",
+      "options": [
+        "終わらせる",
+        "始める",
+        "続ける",
+        "楽しむ"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「get this over with」は、不快または退屈なことを早く終わらせたいときに使う表現です。何かを終えることに対する嫌悪感や、それを終わらせたいという強い願望が含まれています。\n例文：I just want to get this meeting over with. (私はただこの会議を終わらせたいだけだ。)"
+    },
+    {
+      "id": 35,
+      "value": "obsess",
+      "options": [
+        "取りつかれる",
+        "無視する",
+        "楽しむ",
+        "忘れる"
+      ],
+      "correctAnswer": "取りつかれる",
+      "explanation": "「obsess」は、ある考えや感情が頭から離れず、それにとらわれてしまう状態を表します。心配や不安、または強い興味など、様々な感情が原因で起こります。\n例文：She obsesses about her weight. (彼女は自分の体重に取りつかれている。)"
+    },
+    {
+      "id": 36,
+      "value": "miserable",
+      "options": [
+        "悲惨な",
+        "幸せな",
+        "普通の",
+        "退屈な"
+      ],
+      "correctAnswer": "悲惨な",
+      "explanation": "「miserable」は、非常に不幸で、悲惨な状態を表します。肉体的または精神的な苦痛を伴うことが多いです。\n例文：I felt miserable after failing the exam. (試験に落ちて悲惨な気持ちになった。)"
+    },
+    {
+      "id": 37,
+      "value": "to be fair",
+      "options": [
+        "公平に言うと",
+        "不公平に言うと",
+        "正直に言うと",
+        "嘘をつくと"
+      ],
+      "correctAnswer": "公平に言うと",
+      "explanation": "「to be fair」は、公正な視点を提供したり、バランスの取れた意見を述べたりする際に使われるフレーズです。相手の立場や状況を考慮し、公平な判断を促す意味合いがあります。\n例文：To be fair, he did warn us about the risks. (公平に言うと、彼は私たちにリスクについて警告してくれた。)"
+    },
+    {
+      "id": 38,
+      "value": "colonoscopy",
+      "options": [
+        "大腸内視鏡検査",
+        "心臓検査",
+        "血液検査",
+        "脳波検査"
+      ],
+      "correctAnswer": "大腸内視鏡検査",
+      "explanation": "大腸内視鏡検査とは、内視鏡を使って大腸の状態を観察する医療検査のことです。大腸がんのスクリーニングや、大腸の炎症、ポリープの発見などに用いられます。"
+    },
+    {
+      "id": 39,
+      "value": "gore-fest",
+      "options": [
+        "血みどろの祭り",
+        "楽しい祭り",
+        "静かな集まり",
+        "豪華な食事"
+      ],
+      "correctAnswer": "血みどろの祭り",
+      "explanation": "「gore-fest」は、映画やビデオゲームなどで、暴力的な描写や流血シーンが過剰に含まれているものを指す俗語です。ホラー映画などでよく見られます。"
+    },
+    {
+      "id": 40,
+      "value": "prune pit",
+      "options": [
+        "プルーンの種",
+        "桃の種",
+        "さくらんぼの種",
+        "ぶどうの種"
+      ],
+      "correctAnswer": "プルーンの種",
+      "explanation": "「prune pit」は、乾燥させたプラムであるプルーンの中に含まれる種のことです。ここでは大腸内視鏡検査で見つかった異物として言及されています。"
+    },
+    {
+      "id": 41,
+      "value": "Asian fusion",
+      "options": [
+        "アジアの融合",
+        "アジアの分裂",
+        "アジアの伝統",
+        "アジアの崩壊"
+      ],
+      "correctAnswer": "アジアの融合",
+      "explanation": "「Asian fusion」は、複数のアジアの国や地域の料理の要素を組み合わせて作られた料理やレストランのスタイルを指します。異なる文化の味や調理法を融合させることで、新しい味覚体験を提供します。"
+    },
+    {
+      "id": 42,
+      "value": "cannibalism",
+      "options": [
+        "人食い",
+        "菜食主義",
+        "動物愛護",
+        "自然保護"
+      ],
+      "correctAnswer": "人食い",
+      "explanation": "「cannibalism」は、人間が人間の肉を食べる行為を指します。歴史的、文化的な背景や、生存のための手段として行われることがあります。現代社会ではタブーとされています。"
+    },
+    {
+      "id": 43,
+      "value": "satanic",
+      "options": [
+        "悪魔の",
+        "天使の",
+        "神聖な",
+        "平和な"
+      ],
+      "correctAnswer": "悪魔の",
+      "explanation": "「satanic」は、サタン（悪魔）に関連すること、またはサタンを崇拝することを意味します。映画や文学においては、恐怖や悪の象徴として描かれることがあります。"
+    },
+    {
+      "id": 44,
+      "value": "hodgepodge",
+      "options": [
+        "ごちゃまぜ",
+        "秩序",
+        "調和",
+        "統一"
+      ],
+      "correctAnswer": "ごちゃまぜ",
+      "explanation": "「hodgepodge」は、様々なものが無秩序に混ざり合っている状態を指します。統一感がない、またはまとまりがないという意味合いで使用されます。\n例文：The room was a hodgepodge of furniture styles. (その部屋は家具のスタイルがごちゃまぜだった。)"
+    },
+    {
+      "id": 45,
+      "value": "to pick now",
+      "options": [
+        "今選ぶなら",
+        "後で選ぶなら",
+        "選ばないなら",
+        "選ぶのをやめるなら"
+      ],
+      "correctAnswer": "今選ぶなら",
+      "explanation": "「to pick now」は、もし今選択しなければならないとしたら、という意味合いで使用されます。特定の選択肢の中から、現時点で最も好ましいものを選ぶというニュアンスが含まれています。"
+    },
+    {
+      "id": 46,
+      "value": "dark matter",
+      "options": [
+        "暗黒物質",
+        "白色物質",
+        "透明物質",
+        "固体物質"
+      ],
+      "correctAnswer": "暗黒物質",
+      "explanation": "「dark matter」は、宇宙に存在するが、光を放射または反射しないため、直接観測できないと考えられている物質です。その存在は、重力の影響を通じて間接的に確認されています。"
+    },
+    {
+      "id": 47,
+      "value": "Beach blankets",
+      "options": [
+        "ビーチブランケット",
+        "毛布",
+        "タオル",
+        "服"
+      ],
+      "correctAnswer": "ビーチブランケット",
+      "explanation": "ビーチブランケットはここでは比喩的に使われています。ビーチブランケットを使って母親を風呂から出すことが、良い息子であることの秘訣であるという比喩表現です。"
+    },
+    {
+      "id": 48,
+      "value": "sounds like, wah, wah, wah",
+      "options": [
+        "ワウワウ聞こえる",
+        "はっきり聞こえる",
+        "静かに聞こえる",
+        "全く聞こえない"
+      ],
+      "correctAnswer": "ワウワウ聞こえる",
+      "explanation": "ここでは、相手の話が理解できない、または重要でないと感じる時に使われる表現です。話の内容が不明瞭で、意味をなさない音のように聞こえるというニュアンスが含まれています。"
+    },
+    {
+      "id": 49,
+      "value": "It Won’t Stop Coming Up Friday",
+      "options": [
+        "金曜日に止まらなくなる",
+        "金曜日に始まる",
+        "金曜日に終わる",
+        "金曜日には起こらない"
+      ],
+      "correctAnswer": "金曜日に止まらなくなる",
+      "explanation": "ここでは、何か悪いことや不快なことが一度起こると、その後も繰り返し起こり続ける状況を指しています。ここでは、木曜日に何か悪いことが起こると、金曜日にもそれが影響し続けるという意味合いで使用されています。"
+    },
+    {
+      "id": 50,
+      "value": "one slippery horror",
+      "options": [
+        "滑りやすい恐怖",
+        "楽しい恐怖",
+        "ありふれた恐怖",
+        "忘れられない恐怖"
+      ],
+      "correctAnswer": "滑りやすい恐怖",
+      "explanation": "ここでは、ハワードが母親を風呂から出すという困難な経験を「滑りやすい恐怖」と表現しています。これは、母親の世話をすることの難しさや、予期せぬ困難をユーモラスに表現したものです。"
+    },
+    {
+      "id": 51,
+      "value": "upset with",
+      "options": [
+        "〜に満足している",
+        "〜に腹を立てている",
+        "〜に同情している",
+        "〜を軽蔑している"
+      ],
+      "correctAnswer": "〜に腹を立てている",
+      "explanation": "「upset with」は、誰かに対して不満や怒りを感じている状態を表します。特に、相手の行動や言動が原因で感情が乱れている状況で使われます。\n\n例：She was upset with him for being late. (彼女は彼が遅刻したことに腹を立てていた。)"
+    },
+    {
+      "id": 52,
+      "value": "gonna",
+      "options": [
+        "もう",
+        "行く予定",
+        "〜した方が良い",
+        "手に入れる"
+      ],
+      "correctAnswer": "行く予定",
+      "explanation": "「gonna」は「going to」の口語的な短縮形で、未来の予定や意図を表します。日常会話で非常によく使われます。\n\n例：I'm gonna go to the store later. (後で店に行く予定です。)"
+    },
+    {
+      "id": 53,
+      "value": "cut in half",
+      "options": [
+        "半分に切る",
+        "割り込む",
+        "短縮する",
+        "中断する"
+      ],
+      "correctAnswer": "半分に切る",
+      "explanation": "文字通り「半分に切る」という意味ですが、比喩的に何かを大きく削減したり、分割したりする際にも使われます。\n\n例：The budget was cut in half. (予算は半分に削減された。)"
+    },
+    {
+      "id": 54,
+      "value": "dismemberment",
+      "options": [
+        "追放",
+        "解体",
+        "記憶",
+        "調停"
+      ],
+      "correctAnswer": "解体",
+      "explanation": "「dismemberment」は、手足を切断すること、または何かをばらばらにすることを意味します。非常に暴力的で不快なイメージを伴う言葉です。\n\n例：The dismemberment of the statue shocked the crowd. (その像の解体は群衆を驚かせた。)"
+    },
+    {
+      "id": 55,
+      "value": "on the bright side",
+      "options": [
+        "明るい場所で",
+        "積極的に",
+        "良い面を見れば",
+        "幸運にも"
+      ],
+      "correctAnswer": "良い面を見れば",
+      "explanation": "「on the bright side」は、困難な状況や問題があるときに、その状況の良い面や希望を見つけようとするときに使われる表現です。\n\n例：On the bright side, we still have each other. (良い面を見れば、私たちにはまだお互いがいる。)"
+    },
+    {
+      "id": 56,
+      "value": "make it up to",
+      "options": [
+        "〜に追いつく",
+        "〜に謝罪する",
+        "〜に埋め合わせをする",
+        "〜をでっちあげる"
+      ],
+      "correctAnswer": "〜に埋め合わせをする",
+      "explanation": "「make it up to」は、迷惑をかけた相手や不利益を与えてしまった相手に対して、埋め合わせをする、償うという意味です。\n\n例：I'll make it up to you for missing your birthday. (あなたの誕生日に来れなかった埋め合わせをするよ。)"
+    },
+    {
+      "id": 57,
+      "value": "dressing up",
+      "options": [
+        "食事をする",
+        "着飾る",
+        "片付ける",
+        "運動する"
+      ],
+      "correctAnswer": "着飾る",
+      "explanation": "「dress up」は、特別な機会やイベントのために、普段よりも少しフォーマルな服装をすることを意味します。また、特定のキャラクターや役割を演じるために衣装を着ることも指します。\n\n例：We dressed up for the party. (私たちはパーティーのために着飾った。)"
+    },
+    {
+      "id": 58,
+      "value": "no choice",
+      "options": [
+        "選択肢がない",
+        "問題ない",
+        "影響がない",
+        "偶然"
+      ],
+      "correctAnswer": "選択肢がない",
+      "explanation": "「no choice」は、他に選択肢がない、やむを得ないという意味です。状況や義務によって、他の行動が取れない場合に使われます。\n\n例：I had no choice but to accept the offer. (その申し出を受け入れるしかなかった。)"
+    },
+    {
+      "id": 59,
+      "value": "based on",
+      "options": [
+        "〜に反対して",
+        "〜に基づいて",
+        "〜に加えて",
+        "〜に似て"
+      ],
+      "correctAnswer": "〜に基づいて",
+      "explanation": "「based on」は、何かの情報や事実、アイデアなどに基づいて判断や行動をするという意味です。\n\n例：The movie is based on a true story. (その映画は実話に基づいている。)"
+    },
+    {
+      "id": 60,
+      "value": "in a pinch",
+      "options": [
+        "ピンチの時に",
+        "通常時に",
+        "急いで",
+        "秘密裏に"
+      ],
+      "correctAnswer": "ピンチの時に",
+      "explanation": "「in a pinch」は、困った状況や緊急時に、何かが不足している場合や代替手段が必要な場合に使われる表現です。\n\n例：If you're in a pinch, you can use this as a substitute. (もし困ったときは、これを代わりに使用できます。)"
+    },
+    {
+      "id": 61,
+      "value": "turn to",
+      "options": [
+        "〜に変わる",
+        "〜に向き直る",
+        "〜に頼る",
+        "〜を裏切る"
+      ],
+      "correctAnswer": "〜に頼る",
+      "explanation": "「turn to」は、困難な状況や問題に直面したときに、助けやアドバイスを求めて誰かや何かに頼るという意味です。\n\n例：When I have problems, I turn to my friends. (問題があるとき、私は友達に頼る。)"
+    },
+    {
+      "id": 62,
+      "value": "sass",
+      "options": [
+        "賢さ",
+        "勇気",
+        "生意気",
+        "優しさ"
+      ],
+      "correctAnswer": "生意気",
+      "explanation": "「sass」は、目上の人や権威のある人に対して、失礼で生意気な態度や言葉遣いをすることを指します。軽蔑的なニュアンスが含まれます。\n\n例：Don't give me any sass! (私に生意気な口をきくな！)"
+    },
+    {
+      "id": 63,
+      "value": "let that slide",
+      "options": [
+        "滑り落ちる",
+        "見逃す",
+        "秘密にする",
+        "知らせる"
+      ],
+      "correctAnswer": "見逃す",
+      "explanation": "「let that slide」は、通常は注意したり咎めたりするべきことを、今回は特別に見過ごす、許すという意味です。\n\n例：I'll let it slide this time, but don't do it again. (今回は見逃してやるが、二度とするな。)"
+    },
+    {
+      "id": 64,
+      "value": "make out",
+      "options": [
+        "理解する",
+        "言い訳する",
+        "キスをする",
+        "成功する"
+      ],
+      "correctAnswer": "キスをする",
+      "explanation": "「make out」は、通常、情熱的なキスをすることを意味します。しばしば、抱き合ったり触れ合ったりすることも含まれます。\n\n例：They were making out in the back of the theater. (彼らは劇場の奥でキスをしていた。)"
+    },
+    {
+      "id": 65,
+      "value": "I'm just gonna say it",
+      "options": [
+        "言いたいだけ",
+        "言ってもいいですか",
+        "はっきり言います",
+        "言わない方が良い"
+      ],
+      "correctAnswer": "はっきり言います",
+      "explanation": "「I'm just gonna say it」は、遠慮せずに自分の意見や感情を率直に述べるときに使われる表現です。\n\n例：I'm just gonna say it, I don't like your idea. (はっきり言うけど、あなたのアイデアは好きじゃない。)"
+    },
+    {
+      "id": 66,
+      "value": "What's up?",
+      "options": [
+        "何が起きたの？",
+        "元気？",
+        "どこに行くの？",
+        "どうしたの？"
+      ],
+      "correctAnswer": "元気？",
+      "explanation": "「What's up?」は、挨拶として「元気ですか？」や「何かあった？」という意味で使われる口語的な表現です。\n\n例：A: What's up? B: Not much, just relaxing. (A: 元気？ B: 特に何も、リラックスしてるだけ。)"
+    },
+    {
+      "id": 67,
+      "value": "waste my time",
+      "options": [
+        "時間を大切にする",
+        "時間を無駄にする",
+        "時間を稼ぐ",
+        "時間通りに着く"
+      ],
+      "correctAnswer": "時間を無駄にする",
+      "explanation": "「waste my time」は、自分の時間を無駄に使う、価値のないことに時間を費やすという意味です。\n\n例：I don't want to waste my time on this. (これに時間を無駄にしたくない。)"
+    },
+    {
+      "id": 68,
+      "value": "nonsense",
+      "options": [
+        "常識",
+        "意味不明なこと",
+        "秘密",
+        "新しい発見"
+      ],
+      "correctAnswer": "意味不明なこと",
+      "explanation": "「nonsense」は、無意味なこと、ばかげたこと、くだらないことを意味します。論理や意味がない発言や行動に対して使われます。\n\n例：What you're saying is complete nonsense. (あなたが言っていることは全く意味不明だ。)"
+    },
+    {
+      "id": 69,
+      "value": "stuck at work",
+      "options": [
+        "仕事を辞めた",
+        "仕事が楽しい",
+        "仕事に遅刻した",
+        "仕事で足止めされている"
+      ],
+      "correctAnswer": "仕事で足止めされている",
+      "explanation": "「stuck at work」は、仕事が終わらずに会社に留まっている状態、または予期せぬ仕事のために帰れない状態を指します。\n\n例：Sorry I'm late, I was stuck at work. (遅れてごめん、仕事で足止めされてたんだ。)"
+    },
+    {
+      "id": 70,
+      "value": "hang out",
+      "options": [
+        "電話を切る",
+        "出かける",
+        "ぶらぶらする",
+        "我慢する"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、友達と気軽に時間を過ごす、ぶらぶらするという意味です。特に目的もなく、リラックスした状態で一緒にいることを指します。\n\n例：Let's hang out this weekend. (今週末、一緒にぶらぶらしようよ。)"
+    },
+    {
+      "id": 71,
+      "value": "still mad?",
+      "options": [
+        "まだ怒ってる？",
+        "まだ若い？",
+        "まだ準備中？",
+        "まだ仕事中？"
+      ],
+      "correctAnswer": "まだ怒ってる？",
+      "explanation": "「still mad?」は、相手がまだ怒っているかどうかを尋ねる表現です。過去の出来事や言動に対して感情が続いているかを確認する際に使われます。\n\n例：Are you still mad about what happened last night? (昨夜のことでまだ怒ってる？)"
+    },
+    {
+      "id": 72,
+      "value": "date night",
+      "options": [
+        "夜勤",
+        "デートの夜",
+        "記念日",
+        "お祭り"
+      ],
+      "correctAnswer": "デートの夜",
+      "explanation": "「date night」は、カップルが特別な時間を過ごすために計画された夜を指します。レストランに行ったり、映画を見たりするなど、二人で楽しむアクティビティが含まれます。\n\n例：We have a date night every Friday. (私たちは毎週金曜日にデートの夜を設けている。)"
+    },
+    {
+      "id": 73,
+      "value": "psychologically wrong",
+      "options": [
+        "心理的に正しい",
+        "精神的に不安定",
+        "生理的に無理",
+        "病的に綺麗好き"
+      ],
+      "correctAnswer": "精神的に不安定",
+      "explanation": "「psychologically wrong」は、心理的に何か問題がある、精神的に異常があるという意味です。人の行動や考え方が正常でない場合に使われます。\n\n例：Do you think there's something psychologically wrong with him? (彼には何か精神的な問題があると思いますか？)"
+    },
+    {
+      "id": 74,
+      "value": "Career question",
+      "options": [
+        "仕事に関する質問",
+        "人種に関する質問",
+        "過去に関する質問",
+        "未来に関する質問"
+      ],
+      "correctAnswer": "仕事に関する質問",
+      "explanation": "「career question」は、職業やキャリアに関する質問、またはキャリア上の悩みや疑問を指します。将来のキャリアプランや仕事の選択肢について考える際に生じることが多いです。\n\n例：I have a career question that I'd like to discuss with you. (あなたに相談したいキャリアに関する質問があります。)"
+    },
+    {
+      "id": 75,
+      "value": "Asian fusion",
+      "options": [
+        "アジアの民族衣装",
+        "アジアのフュージョン料理",
+        "アジアの伝統文化",
+        "アジアの観光名所"
+      ],
+      "correctAnswer": "アジアのフュージョン料理",
+      "explanation": "「Asian fusion」は、複数のアジアの料理スタイルや食材を組み合わせて作られた料理のことです。異なる文化の要素を取り入れることで、新しい味や食感を生み出します。\n\n例：This restaurant is famous for its Asian fusion cuisine. (このレストランはアジアのフュージョン料理で有名です。)"
+    },
+    {
+      "id": 76,
+      "value": "mumbo jumbo",
+      "options": [
+        "複雑な計算",
+        "意味不明な言葉",
+        "高度な技術",
+        "宗教的な儀式"
+      ],
+      "correctAnswer": "意味不明な言葉",
+      "explanation": "「mumbo jumbo」は、意味のない、または理解できない言葉や行動を指す軽蔑的な表現です。特に、権威を装ったり、他人を欺いたりするために使われることが多いです。\n\n例：The politician's speech was just a lot of mumbo jumbo. (政治家の演説はただのまやかしだった。)"
+    },
+    {
+      "id": 77,
+      "value": "skittish",
+      "options": [
+        "落ち着いている",
+        "用心深い",
+        "友好的",
+        "攻撃的"
+      ],
+      "correctAnswer": "用心深い",
+      "explanation": "「skittish」は、人や動物が神経質で、驚いたり逃げたりしやすい状態を指します。比喩的には、人が気難しい、または変わりやすいという意味で使われます。\n\n例：The horse was skittish and difficult to control. (その馬は臆病で制御が難しかった。)"
+    },
+    {
+      "id": 78,
+      "value": "ratted me out",
+      "options": [
+        "助けてくれた",
+        "裏切った",
+        "褒めてくれた",
+        "励ましてくれた"
+      ],
+      "correctAnswer": "裏切った",
+      "explanation": "「rat someone out」は、誰かの秘密や不正行為を暴露する、密告するという意味のスラングです。しばしば、信頼を裏切る行為として非難される場合に用いられます。\n\n例：He ratted out his friend to the police. (彼は友人を警察に密告した。)"
+    },
+    {
+      "id": 79,
+      "value": "discourteous",
+      "options": [
+        "丁寧な",
+        "失礼な",
+        "友好的な",
+        "親切な"
+      ],
+      "correctAnswer": "失礼な",
+      "explanation": "「discourteous」は、礼儀を欠いた、無作法なという意味です。「courteous(礼儀正しい)」の反対語で、フォーマルな場面で使われることが多いです。\n\n例：It's discourteous to interrupt someone when they are speaking. (人が話している時に邪魔をするのは無礼だ。)"
+    },
+    {
+      "id": 80,
+      "value": "clairvoyance",
+      "options": [
+        "予知能力",
+        "記憶力",
+        "視力",
+        "聴力"
+      ],
+      "correctAnswer": "予知能力",
+      "explanation": "「clairvoyance」は、透視能力、千里眼という意味です。通常の感覚では認識できない物事を知覚する能力を指します。\n\n例：She claimed to have clairvoyance and could see into the future. (彼女は透視能力があり、未来が見えると主張した。)"
+    },
+    {
+      "id": 81,
+      "value": "swindle",
+      "options": [
+        "正直な取引",
+        "詐欺",
+        "投資",
+        "慈善活動"
+      ],
+      "correctAnswer": "詐欺",
+      "explanation": "「swindle」は、詐欺、欺瞞という意味です。特に、金銭や財産をだまし取る行為を指します。\n\n例：He was arrested for running a swindle that defrauded investors of millions of dollars. (彼は投資家から数百万ドルを騙し取った詐欺の実行で逮捕された。)"
+    },
+    {
+      "id": 82,
+      "value": "gullibility",
+      "options": [
+        "疑い深さ",
+        "騙されやすさ",
+        "知性",
+        "慎重さ"
+      ],
+      "correctAnswer": "騙されやすさ",
+      "explanation": "「gullibility」は、騙されやすさ、信じやすさという意味です。人が容易に欺かれる性質を指します。\n\n例：His gullibility made him an easy target for scams. (彼の騙されやすさが、彼を詐欺の格好の標的にした。)"
+    },
+    {
+      "id": 83,
+      "value": "for God's sake",
+      "options": [
+        "神に感謝して",
+        "お願いだから",
+        "神を信じて",
+        "神の御心のままに"
+      ],
+      "correctAnswer": "お願いだから",
+      "explanation": "「for God's sake」は、苛立ち、驚き、または懇願を表す際に使われる表現です。「お願いだから」「勘弁してくれ」といったニュアンスで、口語的な表現です。\n\n例：For God's sake, be quiet! (お願いだから、静かにしてくれ！)"
+    },
+    {
+      "id": 84,
+      "value": "spirit guides",
+      "options": [
+        "守護霊",
+        "悪霊",
+        "先祖",
+        "神々"
+      ],
+      "correctAnswer": "守護霊",
+      "explanation": "「spirit guides」は、守護霊、霊的な指導者という意味です。霊能者や占い師が、相談者を導く存在として言及することがあります。\n\n例：The psychic claimed to be in contact with her spirit guides. (霊能者は、自分の守護霊と交信していると主張した。)"
+    },
+    {
+      "id": 85,
+      "value": "suck an egg",
+      "options": [
+        "卵を産む",
+        "ばかげたことをする",
+        "卵を孵化させる",
+        "おとなしくする"
+      ],
+      "correctAnswer": "ばかげたことをする",
+      "explanation": "「go suck an egg」は、非常に失礼で侮辱的な表現です。「くたばれ」「ふざけるな」といった意味合いで使われ、相手を軽蔑する気持ちを表します。\n\n例：When he told me I was wrong, I told him to go suck an egg. (彼に間違っていると言われた時、私は彼にくたばれと言った。)"
+    },
+    {
+      "id": 86,
+      "value": "fall into place",
+      "options": [
+        "崩壊する",
+        "うまくいく",
+        "失敗する",
+        "迷子になる"
+      ],
+      "correctAnswer": "うまくいく",
+      "explanation": "「fall into place」は、物事が計画通りに進む、または理解できるようになるという意味です。パズルのピースがはまるように、自然に解決に向かう状況を表します。\n\n例：Once I had all the information, everything fell into place. (すべての情報が揃うと、すべてがうまくまとまった。)"
+    },
+    {
+      "id": 87,
+      "value": "malarkey",
+      "options": [
+        "誠実さ",
+        "ばかげたこと",
+        "知恵",
+        "真実"
+      ],
+      "correctAnswer": "ばかげたこと",
+      "explanation": "「malarkey」は、ナンセンス、たわごと、ばかげたことという意味です。特に、人を欺くための方便や嘘を指すことがあります。\n\n例：That's a bunch of malarkey! (それは全くのナンセンスだ！)"
+    },
+    {
+      "id": 88,
+      "value": "struck a nerve",
+      "options": [
+        "感動した",
+        "神経に触れた",
+        "落ち着いた",
+        "無視した"
+      ],
+      "correctAnswer": "神経に触れた",
+      "explanation": "「strike a nerve」は、人の感情や敏感な部分に触れる、怒らせる、または不快にさせるという意味です。\n\n例：His comments about her weight really struck a nerve. (彼の彼女の体重に関するコメントは、本当に彼女の神経に触れた。)"
+    },
+    {
+      "id": 89,
+      "value": "getting myself into",
+      "options": [
+        "自分自身を解放する",
+        "自分自身を巻き込む",
+        "自分自身を隠す",
+        "自分自身を助ける"
+      ],
+      "correctAnswer": "自分自身を巻き込む",
+      "explanation": "「get oneself into something」は、自分自身を何らかの状況や問題に巻き込むという意味です。しばしば、好ましくない状況に陥ることを指します。\n\n例：I don't want to get myself into trouble. (私はトラブルに巻き込まれたくない。)"
+    },
+    {
+      "id": 90,
+      "value": "turn me on",
+      "options": [
+        "私を悲しませる",
+        "私を興奮させる",
+        "私を混乱させる",
+        "私を退屈させる"
+      ],
+      "correctAnswer": "私を興奮させる",
+      "explanation": "「turn someone on」は、人を性的または感情的に興奮させるという意味です。スラング的な表現で、恋愛や性的文脈で使われます。\n\n例：That song really turns me on. (その歌は本当に私を興奮させる。)"
+    },
+    {
+      "id": 91,
+      "value": "make it up to you",
+      "options": [
+        "あなたをがっかりさせる",
+        "あなたに償いをする",
+        "あなたを無視する",
+        "あなたを笑わせる"
+      ],
+      "correctAnswer": "あなたに償いをする",
+      "explanation": "「make it up to someone」は、誰かに迷惑をかけたことや、何か悪いことをしたことに対して、埋め合わせをする、償いをするという意味です。\n\n例：I'm sorry I missed your birthday. Let me make it up to you by taking you out to dinner. (誕生日を逃してごめん。夕食に連れて行くことで償いをさせて。) "
+    },
+    {
+      "id": 92,
+      "value": "persuasive",
+      "options": [
+        "説得力のある",
+        "疑い深い",
+        "内気な",
+        "強引な"
+      ],
+      "correctAnswer": "説得力のある",
+      "explanation": "「persuasive」は、人を説得する力がある、説得力に富むという意味です。効果的に意見や考えを伝え、相手を納得させる能力を指します。\n\n例：She is a very persuasive speaker. (彼女は非常に説得力のある話し手だ。)"
+    },
+    {
+      "id": 93,
+      "value": "confess",
+      "options": [
+        "否定する",
+        "告白する",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "告白する",
+      "explanation": "「confess」は、罪や秘密を告白する、白状するという意味です。特に、良心の呵責を感じていることや、隠しておきたい事実を打ち明ける際に使われます。\n\n例：He confessed to stealing the money. (彼は金銭を盗んだことを告白した。)"
+    },
+    {
+      "id": 94,
+      "value": "get along",
+      "options": [
+        "喧嘩する",
+        "仲良くする",
+        "競争する",
+        "無視する"
+      ],
+      "correctAnswer": "仲良くする",
+      "explanation": "「get along」は、人との関係が良好である、仲良くやっていくという意味です。円滑なコミュニケーションや協力関係がある状態を指します。\n\n例：They get along very well with each other. (彼らは互いにとても仲が良い。)"
+    },
+    {
+      "id": 95,
+      "value": "take out of",
+      "options": [
+        "追加する",
+        "取り出す",
+        "隠す",
+        "与える"
+      ],
+      "correctAnswer": "取り出す",
+      "explanation": "「take out of」は、何かから取り出す、抜き出すという意味です。文字通り物理的なものを取り出す場合も、比喩的に一部を取り除く場合にも使われます。\n\n例：She took some money out of her wallet. (彼女は財布からお金を取り出した。)"
+    },
+    {
+      "id": 96,
+      "value": "livelihood",
+      "options": [
+        "趣味",
+        "生計",
+        "休暇",
+        "贅沢"
+      ],
+      "correctAnswer": "生計",
+      "explanation": "「livelihood」は、生計、暮らしという意味です。生活を維持するために必要な収入や手段を指します。\n\n例：Fishing is their main source of livelihood. (漁業は彼らの主な生計手段です。)"
+    },
+    {
+      "id": 97,
+      "value": "pursuits",
+      "options": [
+        "逃避",
+        "追求",
+        "放棄",
+        "嫌悪"
+      ],
+      "correctAnswer": "追求",
+      "explanation": "「pursuits」は、追求、探求、仕事、趣味などを意味します。目標や興味を追いかける活動を指します。\n\n例：His main pursuits are painting and writing. (彼の主な趣味は絵を描くことと書くことです。)"
+    },
+    {
+      "id": 98,
+      "value": "reserve",
+      "options": [
+        "浪費する",
+        "予約する",
+        "節約する",
+        "与える"
+      ],
+      "correctAnswer": "節約する",
+      "explanation": "「reserve」は、取っておく、保留する、蓄えるという意味です。将来のために何かを確保しておくことを指します。\n\n例：I reserve the right to change my mind. (私は考えを変える権利を留保します。)"
+    },
+    {
+      "id": 99,
+      "value": "judging",
+      "options": [
+        "評価する",
+        "無視する",
+        "手伝う",
+        "理解する"
+      ],
+      "correctAnswer": "評価する",
+      "explanation": "「judging」は、判断する、評価するという意味です。人や物事の価値、質、または能力を評価する行為を指します。\n\n例：It's not fair to keep judging her on her past mistakes. (過去の過ちで彼女を判断し続けるのは不公平だ。)"
+    },
+    {
+      "id": 100,
+      "value": "dressed as",
+      "options": [
+        "～として服を着る",
+        "～を脱ぐ",
+        "～を隠す",
+        "～を掃除する"
+      ],
+      "correctAnswer": "～として服を着る",
+      "explanation": "「dressed as」は、〜の格好をしている、〜の服装をしているという意味です。特定の人物やキャラクターになりきるために衣装を身に着けている状態を表します。\n\n例：She was dressed as a witch for Halloween. (彼女はハロウィンのために魔女の格好をしていた。)"
+    }
+  ]
+}

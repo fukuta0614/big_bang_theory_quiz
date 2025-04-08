@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "embarked on",
+      "options": [
+        "乗り越える",
+        "乗り出す",
+        "降りかかる",
+        "乗り換える"
+      ],
+      "correctAnswer": "乗り出す",
+      "explanation": "「embark on」は、新しい冒険や事業、活動などを始める、という意味です。しばしば、ある程度の時間や労力を要するプロジェクトや旅について使われます。 例：She embarked on a new career as a writer. (彼女は作家として新たなキャリアに乗り出した。)"
+    },
+    {
+      "id": 2,
+      "value": "ploy",
+      "options": [
+        "策略",
+        "幸運",
+        "才能",
+        "偶然"
+      ],
+      "correctAnswer": "策略",
+      "explanation": "「ploy」は、人を欺いたり、出し抜いたりするための策略や計略を意味します。しばしば、秘密裏に行われる、ずる賢いやり方を指します。 例：It was just a ploy to get her to go out with him. (それは彼女をデートに誘うための単なる策略だった。)"
+    },
+    {
+      "id": 3,
+      "value": "deranged",
+      "options": [
+        "正常な",
+        "優秀な",
+        "錯乱した",
+        "勇敢な"
+      ],
+      "correctAnswer": "錯乱した",
+      "explanation": "「deranged」は、精神的に混乱している、錯乱している、または狂っている状態を指します。しばしば、行動や言動が常軌を逸している様子を表します。 例：The man was deranged and started shouting at passersby. (その男は錯乱していて、通行人に怒鳴り始めた。)"
+    },
+    {
+      "id": 4,
+      "value": "world-renowned",
+      "options": [
+        "地元で有名な",
+        "世界的に有名な",
+        "秘密裏に有名な",
+        "一時的に有名な"
+      ],
+      "correctAnswer": "世界的に有名な",
+      "explanation": "「world-renowned」は、世界中で広く知られている、非常に有名なという意味です。特に、その分野で卓越した業績を上げた人物や、非常に人気のある事物に対して使われます。 例：He is a world-renowned expert in his field. (彼はその分野で世界的に有名な専門家だ。)"
+    },
+    {
+      "id": 5,
+      "value": "integer",
+      "options": [
+        "分数",
+        "整数",
+        "小数",
+        "複素数"
+      ],
+      "correctAnswer": "整数",
+      "explanation": "「integer」は、数学用語で整数を意味します。正の整数、負の整数、およびゼロが含まれます。 例：The number 5 is an integer. (5は整数である。)"
+    },
+    {
+      "id": 6,
+      "value": "rattled",
+      "options": [
+        "落ち着いた",
+        "動揺した",
+        "満足した",
+        "退屈した"
+      ],
+      "correctAnswer": "動揺した",
+      "explanation": "「rattled」は、ショックや驚き、不安などによって動揺している状態を指します。落ち着きを失い、少し混乱しているようなニュアンスがあります。 例：He was rattled by the sudden news. (彼は突然の知らせに動揺した。)"
+    },
+    {
+      "id": 7,
+      "value": "comeback",
+      "options": [
+        "言い訳",
+        "反論",
+        "帰宅",
+        "成功"
+      ],
+      "correctAnswer": "反論",
+      "explanation": "「comeback」は、相手の言葉や行動に対する機知に富んだ、または手痛い反論を意味します。また、以前の状態や人気を取り戻すことも指します。 例：She had a sharp comeback for his rude comment. (彼女は彼の失礼なコメントに辛辣な反論をした。)"
+    },
+    {
+      "id": 8,
+      "value": "stony silence",
+      "options": [
+        "友好的な沈黙",
+        "気まずい沈黙",
+        "同意の沈黙",
+        "無知による沈黙"
+      ],
+      "correctAnswer": "気まずい沈黙",
+      "explanation": "「stony silence」は、冷たく、感情が感じられない沈黙を指します。しばしば、不快感や拒絶、敵意などを示すために意図的に用いられます。 例：Her suggestion was met with stony silence. (彼女の提案は冷たい沈黙で迎えられた。)"
+    },
+    {
+      "id": 9,
+      "value": "lift",
+      "options": [
+        "上昇",
+        "改善",
+        "車に乗せること",
+        "盗むこと"
+      ],
+      "correctAnswer": "車に乗せること",
+      "explanation": "「lift」は、ここでは人に車に乗せてあげること、送ることを意味します。イギリス英語でよく使われる表現です。 例：Can you give me a lift to the station? (駅まで車で送ってくれませんか？)"
+    },
+    {
+      "id": 10,
+      "value": "untinted",
+      "options": [
+        "着色された",
+        "透明な",
+        "汚れた",
+        "修正された"
+      ],
+      "correctAnswer": "透明な",
+      "explanation": "「untinted」は、色や色がついていない、透明な状態を指します。ここでは、車の窓ガラスに着色フィルムが貼られていないことを意味します。 例：He preferred untinted windows for better visibility. (彼は視界を良くするために透明な窓ガラスを好んだ。)"
+    },
+    {
+      "id": 11,
+      "value": "haters",
+      "options": [
+        "ファン",
+        "批判する人",
+        "友人",
+        "恋人"
+      ],
+      "correctAnswer": "批判する人",
+      "explanation": "「haters」は、人を妬んだり、嫌ったりする人たちを指すスラングです。特に、成功している人や人気のある人に対して使われることが多いです。 例：Don't pay attention to the haters; just keep doing your thing. (批判する人たちを気にしないで、自分のやりたいことをやり続けなさい。)"
+    },
+    {
+      "id": 12,
+      "value": "pop in",
+      "options": [
+        "爆発する",
+        "立ち寄る",
+        "人気が出る",
+        "現れる"
+      ],
+      "correctAnswer": "立ち寄る",
+      "explanation": "「pop in」は、短時間、気軽に立ち寄るという意味です。特に、誰かの家やオフィスなどを訪れる際に使われます。 例：I'll pop in to see you later. (後でちょっと立ち寄るよ。)"
+    },
+    {
+      "id": 13,
+      "value": "looking after",
+      "options": [
+        "探す",
+        "世話をする",
+        "見下す",
+        "無視する"
+      ],
+      "correctAnswer": "世話をする",
+      "explanation": "「look after」は、人や物を世話する、面倒を見るという意味です。特に、子供や高齢者、ペットなどに対して使われます。 例：She looks after her elderly mother. (彼女は高齢の母親の世話をしている。)"
+    },
+    {
+      "id": 14,
+      "value": "cast",
+      "options": [
+        "呪文",
+        "配役",
+        "ギプス",
+        "影"
+      ],
+      "correctAnswer": "ギプス",
+      "explanation": "「cast」は、ここでは骨折などをした際に患部を固定するために使用するギプスのことを指します。 例：He had to wear a cast on his arm for six weeks. (彼は6週間腕にギプスをしなければならなかった。)"
+    },
+    {
+      "id": 15,
+      "value": "chummy",
+      "options": [
+        "冷たい",
+        "友好的な",
+        "敵対的な",
+        "形式的な"
+      ],
+      "correctAnswer": "友好的な",
+      "explanation": "「chummy」は、非常に親しい、友好的なという意味です。ただし、時には親密すぎる、馴れ馴れしいというニュアンスを含むこともあります。 例：They are very chummy with each other. (彼らはとても親しい間柄だ。)"
+    },
+    {
+      "id": 16,
+      "value": "creep",
+      "options": [
+        "勇敢",
+        "奇妙な人",
+        "正直",
+        "普通"
+      ],
+      "correctAnswer": "奇妙な人",
+      "explanation": "「creep」は、不快感や嫌悪感を与えるような、気味の悪い人を指すスラングです。しばしば、行動や態度が奇妙で、人を不安にさせるような人物に対して使われます。 例：He gives me the creeps. (彼は私に不快感を与える。)"
+    },
+    {
+      "id": 17,
+      "value": "no doubt",
+      "options": [
+        "疑いなく",
+        "たぶん",
+        "ありえない",
+        "関係ない"
+      ],
+      "correctAnswer": "疑いなく",
+      "explanation": "「no doubt」は、疑いの余地なく、確かに、という意味です。確信を持って何かを述べるときに使われます。 例：There is no doubt that he will succeed. (彼が成功することは疑いない。)"
+    },
+    {
+      "id": 18,
+      "value": "sleeper car",
+      "options": [
+        "スポーツカー",
+        "寝台車",
+        "小型車",
+        "自家用車"
+      ],
+      "correctAnswer": "寝台車",
+      "explanation": "「sleeper car」は、列車の中の寝台車を意味します。夜間の長距離移動の際に、ベッドが備え付けられた車両で睡眠をとることができます。 例：They booked a sleeper car for their overnight train journey. (彼らは夜行列車での移動のために寝台車を予約した。)"
+    },
+    {
+      "id": 19,
+      "value": "stolen",
+      "options": [
+        "発見された",
+        "盗まれた",
+        "貸し出された",
+        "隠された"
+      ],
+      "correctAnswer": "盗まれた",
+      "explanation": "「stolen」は、stealの過去分詞形で、盗まれた、という意味です。法律に反して、人の物を不正に奪う行為を指します。 例：My car was stolen last night. (私の車は昨夜盗まれた。)"
+    },
+    {
+      "id": 20,
+      "value": "hobo",
+      "options": [
+        "社長",
+        "医者",
+        "浮浪者",
+        "学生"
+      ],
+      "correctAnswer": "浮浪者",
+      "explanation": "「hobo」は、一定の住居を持たず、旅をしながら生活する人を指します。しばしば、仕事を探しながら移動する人を指します。 例：The hobo carried all his belongings in a bindle. (その浮浪者はすべての持ち物を棒に結び付けて運んでいた。)"
+    },
+    {
+      "id": 21,
+      "value": "rallied behind",
+      "options": [
+        "反対した",
+        "支持した",
+        "無視した",
+        "攻撃した"
+      ],
+      "correctAnswer": "支持した",
+      "explanation": "「rally behind」は、人を支持するために団結すること、支援するために集まることを意味します。 例：The community rallied behind the family after the fire. (火災の後、地域社会は家族を支援するために団結した。)"
+    },
+    {
+      "id": 22,
+      "value": "feel like",
+      "options": [
+        "〜のように感じる",
+        "〜したい気がする",
+        "〜する必要がある",
+        "〜に似ている"
+      ],
+      "correctAnswer": "〜したい気がする",
+      "explanation": "「feel like」は、〜したい気がする、〜のような気分だ、という意味です。何かをしたいという欲求や感情を表す際に使われます。 例：I feel like going for a walk. (散歩に行きたい気がする。)"
+    },
+    {
+      "id": 23,
+      "value": "hang tight",
+      "options": [
+        "すぐに諦める",
+        "頑張って待つ",
+        "自由に行動する",
+        "秘密を共有する"
+      ],
+      "correctAnswer": "頑張って待つ",
+      "explanation": "「hang tight」は、辛抱強く待つ、頑張って持ちこたえるという意味です。困難な状況で、もう少しの間だけ我慢してほしいときに使われます。 例：Hang tight, help is on the way. (頑張って待って、助けが向かっている。)"
+    },
+    {
+      "id": 24,
+      "value": "met with",
+      "options": [
+        "出会った",
+        "直面した",
+        "避けた",
+        "探した"
+      ],
+      "correctAnswer": "直面した",
+      "explanation": "「met with」は、何か（反応、結果など）に直面する、出会うという意味です。良い結果にも悪い結果にも使われます。 例：The proposal was met with strong opposition. (その提案は強い反対に直面した。)"
+    },
+    {
+      "id": 25,
+      "value": "Hater-Ade",
+      "options": [
+        "スポーツドリンク",
+        "敵意に満ちた態度",
+        "友情の証",
+        "成功の秘訣"
+      ],
+      "correctAnswer": "敵意に満ちた態度",
+      "explanation": "「Hater-Ade」は、スラングで、人を妬んだり、嫌ったりする人が抱く敵意や批判的な態度を指します。特に、人の成功や幸せを妬む気持ちを表現する際に使われます。ここでは、RajがHowardのネガティブな発言を皮肉って使っています。"
+    },
+    {
+      "id": 26,
+      "value": "matzo ball",
+      "options": [
+        "伝統的なユダヤ料理",
+        "一般的なパンの種類",
+        "子供に対する愛情表現",
+        "冗談を言う人"
+      ],
+      "correctAnswer": "子供に対する愛情表現",
+      "explanation": "「matzo ball」は、ユダヤ教のスープ料理の具ですが、ここでは母親が息子に対する愛情を込めて使う言葉です。愛らしい存在、または特別な存在であることを意味します。比喩的に、母親にとって大切な存在であることを示唆します。"
+    },
+    {
+      "id": 27,
+      "value": "well past it",
+      "options": [
+        "完全に同意",
+        "それを過ぎている",
+        "非常に近い",
+        "問題ない"
+      ],
+      "correctAnswer": "それを過ぎている",
+      "explanation": "ここでは、母親が性的な活動をする年齢を「過ぎている」という意味で使われています。「past it」は、ある年齢や状態を過ぎて、もはやそれを行うことができない、または適切ではないという意味合いを持ちます。"
+    },
+    {
+      "id": 28,
+      "value": "leads",
+      "options": [
+        "鉛",
+        "手がかり",
+        "リードする",
+        "導火線"
+      ],
+      "correctAnswer": "手がかり",
+      "explanation": "ここでは、警察が事件の「手がかり」を追っているという意味です。「lead」は、調査や捜査において、進展につながる情報や手がかりを指します。"
+    },
+    {
+      "id": 29,
+      "value": "whatever remains, however improbable, must be the truth",
+      "options": [
+        "残ったものが真実とは限らない",
+        "不可能を排除すれば、いかにありえなくても残ったものが真実である",
+        "真実はいつも一つとは限らない",
+        "事実は小説より奇なり"
+      ],
+      "correctAnswer": "不可能を排除すれば、いかにありえなくても残ったものが真実である",
+      "explanation": "これはシャーロック・ホームズの有名な推理方法です。すべての可能性を検討し、ありえないものを除外していくことで、最終的に残ったものがどんなに奇妙であっても真実である、という意味です。論理的思考の重要性を強調しています。"
+    },
+    {
+      "id": 30,
+      "value": "gonna",
+      "options": [
+        "過去形",
+        "未来形",
+        "現在形",
+        "仮定法"
+      ],
+      "correctAnswer": "未来形",
+      "explanation": "「gonna」は「going to」の口語的な短縮形であり、未来の予定や意図を表します。日常会話で頻繁に使用され、話し言葉としてよりカジュアルな印象を与えます。"
+    },
+    {
+      "id": 31,
+      "value": "built for",
+      "options": [
+        "建設された",
+        "向いている",
+        "耐性がある",
+        "作られた"
+      ],
+      "correctAnswer": "向いている",
+      "explanation": "「built for」は、特定の目的や役割のために「作られた」「適している」という意味です。人の性格や能力が、特定の職業や状況に非常に適していることを表す際に使われます。"
+    },
+    {
+      "id": 32,
+      "value": "pushing",
+      "options": [
+        "押す",
+        "勧める",
+        "拒否する",
+        "引く"
+      ],
+      "correctAnswer": "勧める",
+      "explanation": "ここでは、商品を積極的に「勧める」という意味で使われています。販売員が特定の商品を顧客に推奨する行為を指し、販売戦略や営業活動の一環として行われます。"
+    },
+    {
+      "id": 33,
+      "value": "talked you up",
+      "options": [
+        "悪口を言う",
+        "自慢する",
+        "推薦する",
+        "無視する"
+      ],
+      "correctAnswer": "推薦する",
+      "explanation": "「talk someone up」は、誰かの能力や資質を高く評価し、他人に推薦するという意味です。人の評判を高めたり、有利な状況を作り出すために行われます。"
+    },
+    {
+      "id": 34,
+      "value": "in over my head",
+      "options": [
+        "理解できない",
+        "溺れている",
+        "荷が重い",
+        "準備万端"
+      ],
+      "correctAnswer": "荷が重い",
+      "explanation": "「in over one's head」は、自分の能力を超える困難な状況に陥っているという意味です。仕事や責任が手に負えないほど大きい場合に用いられます。"
+    },
+    {
+      "id": 35,
+      "value": "put you up for",
+      "options": [
+        "泊める",
+        "推薦する",
+        "我慢する",
+        "諦める"
+      ],
+      "correctAnswer": "推薦する",
+      "explanation": "「put someone up for something」は、誰かを特定の役職や機会のために推薦するという意味です。人の能力を評価し、その人にふさわしい機会を提供するために行われます。"
+    },
+    {
+      "id": 36,
+      "value": "handle it",
+      "options": [
+        "盗む",
+        "扱う",
+        "隠す",
+        "壊す"
+      ],
+      "correctAnswer": "扱う",
+      "explanation": "「handle it」は、問題や状況を「うまく処理する」「対処する」という意味です。困難な状況を乗り越え、責任を果たす能力を示します。"
+    },
+    {
+      "id": 37,
+      "value": "It wouldn’t kill you",
+      "options": [
+        "殺す",
+        "苦しめる",
+        "大したことない",
+        "助ける"
+      ],
+      "correctAnswer": "大したことない",
+      "explanation": "「It wouldn't kill you」は、「〜しても大したことない」「〜するくらいわけない」という意味の婉曲的な表現です。相手に何かをするように促す際に、軽い口調で使われます。"
+    },
+    {
+      "id": 38,
+      "value": "Cool Ranch Doritos",
+      "options": [
+        "健康食品",
+        "高級食材",
+        "一般的なスナック",
+        "伝統的な料理"
+      ],
+      "correctAnswer": "一般的なスナック",
+      "explanation": "「Cool Ranch Doritos」は、アメリカで非常に人気のあるスナック菓子です。ここでは、シャーロック・ホームズが集中力を高めるためにコカインを使用していたこととの対比で、一般的なスナックを挙げることでユーモラスな効果を生み出しています。"
+    },
+    {
+      "id": 39,
+      "value": "shotgun",
+      "options": [
+        "助手席",
+        "銃",
+        "発砲",
+        "スポーツ"
+      ],
+      "correctAnswer": "助手席",
+      "explanation": "「Shotgun」は、車に乗る際に「助手席」を意味する口語表現です。特にアメリカの文化でよく使われ、誰かが「Shotgun!」と言うと、その人が助手席に座る権利を主張したことになります。"
+    },
+    {
+      "id": 40,
+      "value": "vibrant",
+      "options": [
+        "退屈な",
+        "活気のある",
+        "静かな",
+        "孤独な"
+      ],
+      "correctAnswer": "活気のある",
+      "explanation": "「vibrant」は、活気に満ちた、生き生きとしたという意味です。ここでは、高齢の女性が活発でエネルギッシュな生活を送っている様子を表しています。"
+    },
+    {
+      "id": 41,
+      "value": "active",
+      "options": [
+        "不活発な",
+        "活動的な",
+        "受動的な",
+        "消極的な"
+      ],
+      "correctAnswer": "活動的な",
+      "explanation": "「active」は、活動的な、活発なという意味です。ここでは、高齢の女性が積極的に社会活動や趣味を楽しんでいる様子を表しています。"
+    },
+    {
+      "id": 42,
+      "value": "improbable",
+      "options": [
+        "ありえない",
+        "ありうる",
+        "確実な",
+        "明白な"
+      ],
+      "correctAnswer": "ありえない",
+      "explanation": "「improbable」は、ありえない、起こりそうもないという意味です。シャーロック・ホームズの言葉では、不可能を排除した後に残ったものが、たとえありえなくても真実であるという意味で使われています。"
+    },
+    {
+      "id": 43,
+      "value": "fly by",
+      "options": [
+        "ゆっくり進む",
+        "あっという間に過ぎる",
+        "停止する",
+        "逆行する"
+      ],
+      "correctAnswer": "あっという間に過ぎる",
+      "explanation": "「fly by」は、時間が「あっという間に過ぎる」という意味です。楽しいことや夢中になっている時に時間が早く感じる様子を表します。"
+    },
+    {
+      "id": 44,
+      "value": "résumé",
+      "options": [
+        "小説",
+        "履歴書",
+        "レシピ",
+        "回顧録"
+      ],
+      "correctAnswer": "履歴書",
+      "explanation": "「résumé」は、職務経歴や学歴などをまとめた「履歴書」のことです。就職活動の際に企業に提出する書類であり、自己PRの重要な手段となります。"
+    },
+    {
+      "id": 45,
+      "value": "rectal bleeding",
+      "options": [
+        "頭痛",
+        "腹痛",
+        "痔",
+        "直腸出血"
+      ],
+      "correctAnswer": "直腸出血",
+      "explanation": "「rectal bleeding」は、直腸からの出血を意味する医学用語です。ここでは、薬の副作用としてユーモラスに言及されています。"
+    },
+    {
+      "id": 46,
+      "value": "decent",
+      "options": [
+        "下品な",
+        "まともな",
+        "非常識な",
+        "礼儀を知らない"
+      ],
+      "correctAnswer": "まともな",
+      "explanation": "「decent」は、ここでは服装が「まともな」「きちんとした」状態であるという意味です。人に見られても恥ずかしくない身なりをしているかどうかを尋ねています。"
+    },
+    {
+      "id": 47,
+      "value": "precious",
+      "options": [
+        "安価な",
+        "貴重な",
+        "無価値な",
+        "一般的な"
+      ],
+      "correctAnswer": "貴重な",
+      "explanation": "「precious」は、貴重な、大切なという意味ですが、ここでは皮肉を込めて「感動的な」「可愛らしい」という意味で使われています。過剰な感情表現に対するやや嘲笑的なニュアンスが含まれます。"
+    },
+    {
+      "id": 48,
+      "value": "pick up the phone",
+      "options": [
+        "電話を切る",
+        "電話に出る",
+        "電話をかける",
+        "電話を壊す"
+      ],
+      "correctAnswer": "電話をかける",
+      "explanation": "「pick up the phone」は、電話をかけるという意味です。連絡を取ることを促す際に使われます。"
+    },
+    {
+      "id": 49,
+      "value": "doing the trick",
+      "options": [
+        "いたずらをする",
+        "ごまかす",
+        "うまくいく",
+        "失敗する"
+      ],
+      "correctAnswer": "うまくいく",
+      "explanation": "「do the trick」は、目的を達成する、効果があるという意味です。ここでは、シャーロック・ホームズがコカインの代わりにCool Ranch Doritosを食べて集中力を高めている様子を指して使われています。"
+    },
+    {
+      "id": 50,
+      "value": "whisper",
+      "options": [
+        "叫ぶ",
+        "話す",
+        "ささやく",
+        "歌う"
+      ],
+      "correctAnswer": "ささやく",
+      "explanation": "「whisper」は、小声で話す、ささやくという意味です。ここでは、他の人に聞かれたくない秘密の話をするために使われています。"
+    },
+    {
+      "id": 51,
+      "value": "Hang on.",
+      "options": [
+        "中断する",
+        "続ける",
+        "待つ",
+        "手伝う"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「Hang on」は、人に少し待つように頼む時や、電話を切らないで待つように言う時によく使われる口語表現です。また、困難な状況で持ちこたえる、頑張るという意味もあります。"
+    },
+    {
+      "id": 52,
+      "value": "people person",
+      "options": [
+        "人気者",
+        "人嫌い",
+        "社交的な人",
+        "内向的な人"
+      ],
+      "correctAnswer": "社交的な人",
+      "explanation": "「people person」は、他人と接するのが得意で、社交的な人、人付き合いの良い人を指します。人と関わることを楽しみ、円滑なコミュニケーションを取れる人を表す際に使われます。"
+    },
+    {
+      "id": 53,
+      "value": "chubster",
+      "options": [
+        "やせている人",
+        "太っている人",
+        "健康な人",
+        "病気の人"
+      ],
+      "correctAnswer": "太っている人",
+      "explanation": "「chubster」は、やや太っている人を指す口語表現です。軽蔑的な意味合いを含む場合があるので、使用する際には注意が必要です。"
+    },
+    {
+      "id": 54,
+      "value": "odd",
+      "options": [
+        "普通",
+        "奇妙",
+        "簡単",
+        "難しい"
+      ],
+      "correctAnswer": "奇妙",
+      "explanation": "「odd」は、普通ではない、奇妙な、風変わりなという意味を持つ形容詞です。予想外の状況や、標準から外れている事柄を表現する際に使われます。"
+    },
+    {
+      "id": 55,
+      "value": "funny business",
+      "options": [
+        "面白い商売",
+        "不正行為",
+        "真面目な話",
+        "楽しい活動"
+      ],
+      "correctAnswer": "不正行為",
+      "explanation": "「funny business」は、怪しいこと、不正行為、ごまかしといった意味合いを持つイディオムです。何か不審なことが行われている状況や、不正な取引を指す際に用いられます。"
+    },
+    {
+      "id": 56,
+      "value": "give you my blessing",
+      "options": [
+        "祝福を与える",
+        "呪いをかける",
+        "許可を与える",
+        "反対する"
+      ],
+      "correctAnswer": "許可を与える",
+      "explanation": "「give someone your blessing」は、何かを許可する、承認するという意味のイディオムです。特に、親や権威者が何かを許可する際に使われることが多いですが、皮肉な意味合いで使われることもあります。"
+    },
+    {
+      "id": 57,
+      "value": "matzo balls",
+      "options": [
+        "強い人",
+        "弱い人",
+        "賢い人",
+        "愚かな人"
+      ],
+      "correctAnswer": "弱い人",
+      "explanation": "「matzo balls」は、スープなどに入れるユダヤ料理のマッツァボールを指しますが、ここでは弱虫、意気地なしといった意味合いで使われています。相手をからかうニュアンスが含まれます。"
+    },
+    {
+      "id": 58,
+      "value": "stopping by",
+      "options": [
+        "立ち寄る",
+        "出発する",
+        "手伝う",
+        "邪魔する"
+      ],
+      "correctAnswer": "立ち寄る",
+      "explanation": "「stop by」は、短い時間だけ立ち寄る、訪問するという意味の句動詞です。気軽に訪問するニュアンスがあり、フォーマルな訪問には適しません。"
+    },
+    {
+      "id": 59,
+      "value": "blew this interview",
+      "options": [
+        "面接に成功した",
+        "面接に失敗した",
+        "面接をキャンセルした",
+        "面接を楽しんだ"
+      ],
+      "correctAnswer": "面接に失敗した",
+      "explanation": "「blow」は、チャンスや機会を台無しにする、失敗するという意味のスラングです。「blew this interview」は、この面接をめちゃくちゃにしてしまった、という意味になります。"
+    },
+    {
+      "id": 60,
+      "value": "terrified",
+      "options": [
+        "満足している",
+        "退屈している",
+        "非常に恐れている",
+        "興奮している"
+      ],
+      "correctAnswer": "非常に恐れている",
+      "explanation": "「terrified」は、非常に恐ろしい、おびえているという意味の形容詞です。「afraid」よりも強い恐怖を表し、パニックに近い感情を示します。"
+    },
+    {
+      "id": 61,
+      "value": "squeaky",
+      "options": [
+        "静かな",
+        "汚い",
+        "キーキーいう",
+        "滑らかな"
+      ],
+      "correctAnswer": "キーキーいう",
+      "explanation": "「squeaky」は、キーキーいう音、甲高い音を表す形容詞です。声や物音に対して使われ、不快な印象を与えることがあります。"
+    },
+    {
+      "id": 62,
+      "value": "bully",
+      "options": [
+        "いじめられっ子",
+        "いじめる人",
+        "友達",
+        "先生"
+      ],
+      "correctAnswer": "いじめる人",
+      "explanation": "「bully」は、弱い者いじめをする人、ガキ大将という意味の名詞です。また、動詞としても使われ、いじめる、脅すという意味になります。"
+    },
+    {
+      "id": 63,
+      "value": "cutting the research funding",
+      "options": [
+        "研究資金を増やす",
+        "研究資金を削減する",
+        "研究資金を管理する",
+        "研究資金を申請する"
+      ],
+      "correctAnswer": "研究資金を削減する",
+      "explanation": "「cut funding」は、資金援助を削減する、打ち切るという意味の表現です。研究、プロジェクト、プログラムなど、様々な対象に対して使われます。"
+    },
+    {
+      "id": 64,
+      "value": "move on to",
+      "options": [
+        "移動する",
+        "忘れる",
+        "次の段階に進む",
+        "元に戻る"
+      ],
+      "correctAnswer": "次の段階に進む",
+      "explanation": "「move on to」は、ある活動や話題から別の活動や話題に移る、次の段階に進むという意味の句動詞です。新しいことに取り組むニュアンスが含まれます。"
+    },
+    {
+      "id": 65,
+      "value": "stewing",
+      "options": [
+        "喜んでいる",
+        "怒って煮詰まっている",
+        "楽しんでいる",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "怒って煮詰まっている",
+      "explanation": "「stew」は、煮込むという意味の動詞ですが、「stewing」は、怒りや不満を心の中で抱え込み、煮詰まっている状態を表します。表面には出さずに、内面的に感情が高ぶっている様子を示します。"
+    },
+    {
+      "id": 66,
+      "value": "on my own",
+      "options": [
+        "誰かと一緒に",
+        "一人で",
+        "助けられて",
+        "教えられて"
+      ],
+      "correctAnswer": "一人で",
+      "explanation": "「on my own」は、誰の助けも借りずに、自分一人で、という意味の表現です。独立して行動する、自力で問題を解決するニュアンスが含まれます。"
+    },
+    {
+      "id": 67,
+      "value": "big deal",
+      "options": [
+        "簡単なこと",
+        "大きな問題",
+        "素晴らしいこと",
+        "つまらないこと"
+      ],
+      "correctAnswer": "大きな問題",
+      "explanation": "「big deal」は、重要なこと、大したことという意味で使われます。ただし、皮肉なニュアンスで「大したことない」という意味で使われることもあります。"
+    },
+    {
+      "id": 68,
+      "value": "idolize",
+      "options": [
+        "嫌う",
+        "無視する",
+        "崇拝する",
+        "批判する"
+      ],
+      "correctAnswer": "崇拝する",
+      "explanation": "「idolize」は、アイドルとして崇拝する、尊敬するという意味の動詞です。非常に高く評価し、理想化するニュアンスが含まれます。"
+    },
+    {
+      "id": 69,
+      "value": "knock me off",
+      "options": [
+        "持ち上げる",
+        "落とす",
+        "守る",
+        "隠す"
+      ],
+      "correctAnswer": "落とす",
+      "explanation": "「knock someone off」は、ここでは「自分を（高い地位や評価から）引きずり下ろす」という意味で使われています。物理的に落とすだけでなく、比喩的に地位や名声を失わせるという意味合いがあります。"
+    },
+    {
+      "id": 70,
+      "value": "pedestal",
+      "options": [
+        "落とし穴",
+        "台座",
+        "階段",
+        "壁"
+      ],
+      "correctAnswer": "台座",
+      "explanation": "「pedestal」は、像などを置くための台座という意味です。「put someone on a pedestal」は、誰かを非常に高く評価し、理想化することを意味します。"
+    },
+    {
+      "id": 71,
+      "value": "left the train station",
+      "options": [
+        "電車に乗った",
+        "駅に着いた",
+        "駅を出た",
+        "駅を掃除した"
+      ],
+      "correctAnswer": "駅を出た",
+      "explanation": "「leave」は出発するという意味で、「left the train station」は、駅を離れた、出発したという意味です。"
+    },
+    {
+      "id": 72,
+      "value": "across the entire country",
+      "options": [
+        "国の一部を横断して",
+        "国全体を横断して",
+        "国の周りを回って",
+        "国から離れて"
+      ],
+      "correctAnswer": "国全体を横断して",
+      "explanation": "「across the entire country」は、国全体を横断して、という意味です。ここでは、アメリカ全土を横断して移動したことを表しています。"
+    },
+    {
+      "id": 73,
+      "value": "had a single piece of fruit",
+      "options": [
+        "たくさんの果物を食べた",
+        "全く果物を食べなかった",
+        "一つの果物を食べた",
+        "果物を売った"
+      ],
+      "correctAnswer": "全く果物を食べなかった",
+      "explanation": "「not had a single」は、一つもない、全く～ないという意味です。ここでは、果物を全く食べなかったことを強調しています。"
+    },
+    {
+      "id": 74,
+      "value": "prepared you for a career",
+      "options": [
+        "キャリアを準備した",
+        "キャリアを諦めた",
+        "キャリアのためにあなたを準備した",
+        "キャリアのためにあなたを教育した"
+      ],
+      "correctAnswer": "キャリアのためにあなたを準備した",
+      "explanation": "「prepare someone for a career」は、キャリアのために誰かを準備する、という意味です。過去の経験が将来のキャリアにどのように役立つかを尋ねる際によく使われます。"
+    },
+    {
+      "id": 75,
+      "value": "be honest with her",
+      "options": [
+        "彼女に嘘をつく",
+        "彼女に正直になる",
+        "彼女を無視する",
+        "彼女をからかう"
+      ],
+      "correctAnswer": "彼女に正直になる",
+      "explanation": "「be honest with someone」は、誰かに正直になる、という意味です。自分の気持ちや考えを隠さずに伝えることを意味します。"
+    },
+    {
+      "id": 76,
+      "value": "think less of",
+      "options": [
+        "尊敬する",
+        "見下す",
+        "感謝する",
+        "無視する"
+      ],
+      "correctAnswer": "見下す",
+      "explanation": "「think less of someone」は、誰かのことを以前より低い評価で見たり、尊敬しなくなったりすることを意味します。相手の行動や言動によって、その人に対する自分の評価が下がった時に使われます。"
+    },
+    {
+      "id": 77,
+      "value": "kind of",
+      "options": [
+        "全く～ない",
+        "とても",
+        "少し",
+        "重要な"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「kind of」は、口語で「少し」「なんとなく」という意味で使われます。正確な程度や感情をぼかしたい場合や、発言を和らげたい時に便利です。フォーマルな場では避けるべき表現です。"
+    },
+    {
+      "id": 78,
+      "value": "get off his butt",
+      "options": [
+        "怠ける",
+        "急ぐ",
+        "立ち上がる",
+        "働く"
+      ],
+      "correctAnswer": "働く",
+      "explanation": "「get off one's butt」は、怠惰な状態から抜け出して行動を開始するという意味の口語表現です。特に、誰かが何もせずにただ座っている状態を非難する際に使われます。「get off your ass」も同様の意味です。"
+    },
+    {
+      "id": 79,
+      "value": "sarcastic tone",
+      "options": [
+        "優しい口調",
+        "皮肉な口調",
+        "丁寧な口調",
+        "真剣な口調"
+      ],
+      "correctAnswer": "皮肉な口調",
+      "explanation": "「sarcastic tone」とは、皮肉や嫌味を込めた口調のことです。表面上は肯定的な言葉を使っていても、実際には相手を嘲笑したり批判したりする意図が含まれています。相手を不快にさせる可能性があるため、注意が必要です。"
+    },
+    {
+      "id": 80,
+      "value": "getting us anywhere",
+      "options": [
+        "成功する",
+        "解決する",
+        "前進する",
+        "迷う"
+      ],
+      "correctAnswer": "前進する",
+      "explanation": "「(not) get someone anywhere」は、（誰かを）どこにも導かない、つまり、（議論などが）進展しない、役に立たないという意味です。例文のように否定形で使われることが多いです。"
+    },
+    {
+      "id": 81,
+      "value": "sucka",
+      "options": [
+        "友人",
+        "敵",
+        "だまされやすい人",
+        "成功者"
+      ],
+      "correctAnswer": "だまされやすい人",
+      "explanation": "「sucka」は、人を侮辱するスラングで、「騙されやすい人」「カモ」といった意味合いです。相手を軽蔑したり、挑発したりする際に使われます。非常に口語的で、フォーマルな場では不適切です。"
+    },
+    {
+      "id": 82,
+      "value": "go one's way",
+      "options": [
+        "思い通りに進む",
+        "道を譲る",
+        "邪魔をする",
+        "迷子になる"
+      ],
+      "correctAnswer": "思い通りに進む",
+      "explanation": "「go one's way」は、物事が自分の望むように進む、うまくいくという意味です。計画や期待が実現する場合に使われます。否定形（not go one's way）は、うまくいかない、期待外れに終わるという意味になります。"
+    },
+    {
+      "id": 83,
+      "value": "burst forth",
+      "options": [
+        "ゆっくり現れる",
+        "突然現れる",
+        "隠れる",
+        "消える"
+      ],
+      "correctAnswer": "突然現れる",
+      "explanation": "「burst forth」は、内側から強い力で突然現れる、または始まるという意味です。感情、エネルギー、才能などが急に表面化する様子を表すのに使われます。比喩的な表現としても用いられます。"
+    },
+    {
+      "id": 84,
+      "value": "deal with",
+      "options": [
+        "無視する",
+        "処理する",
+        "楽しむ",
+        "避ける"
+      ],
+      "correctAnswer": "処理する",
+      "explanation": "「deal with」は、問題、状況、人など、様々な対象に対して「対処する」「処理する」「対応する」という意味を持つ非常に一般的な表現です。問題解決や困難を乗り越える際に使われます。"
+    },
+    {
+      "id": 85,
+      "value": "I'm out",
+      "options": [
+        "賛成です",
+        "反対です",
+        "疲れた",
+        "帰ります"
+      ],
+      "correctAnswer": "帰ります",
+      "explanation": "「I'm out」は、ある活動や状況から離脱することを表明する際に使われる口語的な表現です。「もう付き合いきれない」「これ以上は関わりたくない」というニュアンスが含まれます。"
+    },
+    {
+      "id": 86,
+      "value": "backed up",
+      "options": [
+        "支持された",
+        "消去された",
+        "バックアップされた",
+        "忘れられた"
+      ],
+      "correctAnswer": "バックアップされた",
+      "explanation": "「back up」は、データを安全な場所にコピーして保存するという意味です。元のデータが失われた場合に備えて、バックアップを作成しておくことが重要です。"
+    },
+    {
+      "id": 87,
+      "value": "silver lining",
+      "options": [
+        "悪い知らせ",
+        "希望の光",
+        "幸運",
+        "落胆"
+      ],
+      "correctAnswer": "希望の光",
+      "explanation": "「silver lining」は、「暗雲に銀の裏地がある」ということわざから来ており、困難や不幸な状況の中に見出せる希望や慰めを意味します。どんな状況にも良い面があるという考え方を示唆します。"
+    },
+    {
+      "id": 88,
+      "value": "stayed put",
+      "options": [
+        "出発した",
+        "じっとしていた",
+        "迷子になった",
+        "手伝った"
+      ],
+      "correctAnswer": "じっとしていた",
+      "explanation": "「stay put」は、同じ場所に留まる、動かないという意味です。危険な状況や指示があった場合に、その場を動かずに待機することを指します。"
+    },
+    {
+      "id": 89,
+      "value": "failed",
+      "options": [
+        "成功した",
+        "失敗した",
+        "試した",
+        "忘れた"
+      ],
+      "correctAnswer": "失敗した",
+      "explanation": "「fail」は、目標を達成できない、失敗するという意味です。試験、プロジェクト、試みなど、様々な状況で使用されます。"
+    },
+    {
+      "id": 90,
+      "value": "break up with",
+      "options": [
+        "仲直りする",
+        "友達になる",
+        "デートする",
+        "別れる"
+      ],
+      "correctAnswer": "別れる",
+      "explanation": "「break up with」は、恋人やパートナーとの関係を終わらせる、別れるという意味です。感情的なつながりが解消されることを指します。"
+    },
+    {
+      "id": 91,
+      "value": "okay with me",
+      "options": [
+        "問題ない",
+        "反対だ",
+        "興味がない",
+        "知らない"
+      ],
+      "correctAnswer": "問題ない",
+      "explanation": "「okay with me」は、自分にとって問題ない、構わない、承諾するという意味です。相手の提案や行動に対して同意する際に使われます。"
+    },
+    {
+      "id": 92,
+      "value": "rent-free",
+      "options": [
+        "無料",
+        "高額",
+        "割引",
+        "分割払い"
+      ],
+      "correctAnswer": "無料",
+      "explanation": "「rent-free」は、家賃を支払わずに住むことができるという意味です。家族や友人の家に無料で滞在する場合などに使われます。"
+    },
+    {
+      "id": 93,
+      "value": "calm down",
+      "options": [
+        "興奮する",
+        "落ち着く",
+        "怒る",
+        "心配する"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「calm down」は、感情が高ぶっている状態から落ち着かせる、冷静になるという意味です。自分自身や他人に対して使われます。"
+    },
+    {
+      "id": 94,
+      "value": "accomplished",
+      "options": [
+        "失敗した",
+        "達成した",
+        "計画した",
+        "諦めた"
+      ],
+      "correctAnswer": "達成した",
+      "explanation": "「accomplish」は、目標や計画を達成する、成し遂げるという意味です。努力やスキルを使って何かを完了させることを指します。"
+    },
+    {
+      "id": 95,
+      "value": "emerged",
+      "options": [
+        "消えた",
+        "現れた",
+        "隠れた",
+        "逃げた"
+      ],
+      "correctAnswer": "現れた",
+      "explanation": "「emerge」は、隠れていたものや見えなかったものが現れる、出現するという意味です。困難な状況から抜け出して成功する場合にも使われます。"
+    },
+    {
+      "id": 96,
+      "value": "direct sunlight",
+      "options": [
+        "日陰",
+        "直射日光",
+        "曇り空",
+        "雨"
+      ],
+      "correctAnswer": "直射日光",
+      "explanation": "「direct sunlight」は、遮るもののない太陽光、直射日光という意味です。肌への影響や植物の成長など、様々な文脈で使用されます。"
+    },
+    {
+      "id": 97,
+      "value": "renewed",
+      "options": [
+        "古い",
+        "新しい",
+        "壊れた",
+        "忘れた"
+      ],
+      "correctAnswer": "新しい",
+      "explanation": "「renewed」は、新しくなった、再開された、元気を取り戻したという意味です。心身の状態や契約、エネルギーなどが回復した場合に使われます。"
+    },
+    {
+      "id": 98,
+      "value": "Imodium",
+      "options": [
+        "下痢止め薬",
+        "痛み止め薬",
+        "風邪薬",
+        "睡眠薬"
+      ],
+      "correctAnswer": "下痢止め薬",
+      "explanation": "「Imodium」は、ロペラミドを主成分とする下痢止め薬の商品名です。旅行中など、特定の状況で下痢を抑えるために使用されます。"
+    },
+    {
+      "id": 99,
+      "value": "FYI",
+      "options": [
+        "おめでとう",
+        "ごめんなさい",
+        "念のため",
+        "どういたしまして"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「FYI」は、For Your Informationの略で、「ご参考までに」「念のため」という意味で使われます。メールやメモなどで情報を伝える際に、追加情報として添えることが多いです。"
+    },
+    {
+      "id": 100,
+      "value": "take that tone",
+      "options": [
+        "その口調をやめる",
+        "その口調を続ける",
+        "歌う",
+        "踊る"
+      ],
+      "correctAnswer": "その口調をやめる",
+      "explanation": "このフレーズは、特定の方法で話すのをやめるように誰かに頼む場合に使われます。通常、相手が失礼な、または不適切な話し方をしていると感じたときに使用されます。"
+    }
+  ]
+}

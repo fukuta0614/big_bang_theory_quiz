@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "stands alongside",
+      "options": [
+        "支持する",
+        "並んで立つ",
+        "反対する",
+        "無視する"
+      ],
+      "correctAnswer": "並んで立つ",
+      "explanation": "「stands alongside」は、何かが別のものと並んで存在し、同等の重要性を持つか、または比較されることを意味します。この文脈では、Pennyの質問が他の無意味な質問と同列に扱われていることを示唆しています。\n\n例：This discovery stands alongside other major breakthroughs in the field. (この発見は、この分野における他の主要な躍進と並び立つ。)"
+    },
+    {
+      "id": 2,
+      "value": "nonsensical queries",
+      "options": [
+        "重要な質問",
+        "ばかげた質問",
+        "複雑な質問",
+        "一般的な質問"
+      ],
+      "correctAnswer": "ばかげた質問",
+      "explanation": "「nonsensical」は「意味をなさない」「ばかげた」という意味で、「queries」は「質問」という意味です。したがって、「nonsensical queries」は「ばかげた質問」や「無意味な質問」を指します。ここでは、SheldonがPennyの質問を非難する際に使われています。\n\n例：His speech was full of nonsensical statements. (彼のスピーチはばかげた発言でいっぱいだった。)"
+    },
+    {
+      "id": 3,
+      "value": "plus-one",
+      "options": [
+        "追加料金",
+        "特別な人",
+        "同伴者",
+        "個人的な意見"
+      ],
+      "correctAnswer": "同伴者",
+      "explanation": "「plus-one」は、イベントなどに招待された人が同伴者として連れて行くことのできる一人を指します。ここでは、AmyがPennyに学会の同伴者として来てほしいと誘っています。\n\n例：Each guest is allowed to bring a plus-one to the wedding. (各ゲストは結婚式に同伴者を一人連れてくることができます。)"
+    },
+    {
+      "id": 4,
+      "value": "bonding opportunity",
+      "options": [
+        "束縛の機会",
+        "友情を深める機会",
+        "仕事の機会",
+        "休息の機会"
+      ],
+      "correctAnswer": "友情を深める機会",
+      "explanation": "「bonding opportunity」は、関係を深めるための機会という意味です。「bonding」は絆を深める、親密な関係を築くという意味合いがあります。ここでは、AmyがPennyとの友情を深めたいと考えていることを示しています。\n\n例：The team-building exercise was a great bonding opportunity for the employees. (チームビルディングの練習は、従業員にとって素晴らしい絆を深める機会となった。)"
+    },
+    {
+      "id": 5,
+      "value": "all-expense-paid",
+      "options": [
+        "一部費用負担",
+        "無料",
+        "後払い",
+        "自腹"
+      ],
+      "correctAnswer": "無料",
+      "explanation": "「all-expense-paid」は、すべての費用が支払われるという意味です。この場合、スパ週末のすべての費用がAmyによって支払われることを意味します。\n\n例：The company offered an all-expense-paid trip to Hawaii for the top performers. (会社は、優秀な社員にハワイへの全額費用負担の旅行を提供した。)"
+    },
+    {
+      "id": 6,
+      "value": "bestie",
+      "options": [
+        "親友",
+        "ビジネスパートナー",
+        "家族",
+        "ただの知り合い"
+      ],
+      "correctAnswer": "親友",
+      "explanation": "「bestie」は「best friend」の略で、親友や親しい友達を指す口語的な表現です。AmyがPennyを親しみを込めて呼んでいます。\n\n例：I'm going out with my bestie tonight. (今夜は親友と出かけるんだ。)"
+    },
+    {
+      "id": 7,
+      "value": "establish boundaries",
+      "options": [
+        "境界線を設定する",
+        "友情を深める",
+        "秘密を共有する",
+        "過去を忘れる"
+      ],
+      "correctAnswer": "境界線を設定する",
+      "explanation": "「establish boundaries」は、人間関係において、許容できる行動と許容できない行動の境界線を明確にすることを意味します。ここでは、AmyがPennyに対して、彼女の体に触れないようにという境界線を設定しようとしています。\n\n例：It's important to establish boundaries in any relationship. (どんな関係においても境界線を設定することは重要です。)"
+    },
+    {
+      "id": 8,
+      "value": "grasping the concept",
+      "options": [
+        "概念を理解する",
+        "秘密にする",
+        "問題を無視する",
+        "計画を立てる"
+      ],
+      "correctAnswer": "概念を理解する",
+      "explanation": "「grasping the concept」は、ある概念やアイデアを理解することを意味します。ここでは、Pennyが休暇を取るためにはまず働く必要があるというSheldonの発言に対する彼女の皮肉な反応を示しています。\n\n例：He had trouble grasping the concept of relativity. (彼は相対性理論の概念を理解するのに苦労した。)"
+    },
+    {
+      "id": 9,
+      "value": "piss off",
+      "options": [
+        "喜ばせる",
+        "怒らせる",
+        "無視する",
+        "助ける"
+      ],
+      "correctAnswer": "怒らせる",
+      "explanation": "「piss off」は、人を怒らせる、立腹させるという意味のスラングです。ここでは、PennyがSheldonに、食べ物を扱う人々を怒らせるべきではないと警告しています。\n\n例：Don't piss me off! (私を怒らせるな！)"
+    },
+    {
+      "id": 10,
+      "value": "adhere to",
+      "options": [
+        "反抗する",
+        "固守する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "固守する",
+      "explanation": "「adhere to」は、規則や法律、契約などに従う、固守するという意味です。ここでは、SheldonがPennyに「Official California Restaurant Workers’ Solemn Oath of Ethics and Cleanliness（カリフォルニア州レストラン従業員の倫理と清潔さに関する厳粛な誓い）」を守るようにと言っています。\n\n例：All members must adhere to the rules of the club. (すべてのメンバーはクラブの規則を遵守しなければならない。)"
+    },
+    {
+      "id": 11,
+      "value": "eager to",
+      "options": [
+        "乗り気でない",
+        "熱心な",
+        "無関心な",
+        "心配な"
+      ],
+      "correctAnswer": "熱心な",
+      "explanation": "「eager to」は、何かをしたい、または何かが起こるのを非常に楽しみにしている状態を表します。ここでは、登場人物たちがビッグサーへの旅行に非常に乗り気であることを示しています。\n\n例：She was eager to start her new job. (彼女は新しい仕事を始めるのを心待ちにしていた。)"
+    },
+    {
+      "id": 12,
+      "value": "get through",
+      "options": [
+        "乗り越える",
+        "始める",
+        "避ける",
+        "遅らせる"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get through」は、何かを終える、または完了するという意味です。この文脈では、Sheldonがオリエンテーションを30分以内に終わらせることを目指していることを示しています。\n\n例：We need to get through this project by the end of the week. (私たちは今週末までにこのプロジェクトを終わらせる必要があります。)"
+    },
+    {
+      "id": 13,
+      "value": "allotted",
+      "options": [
+        "超過した",
+        "割り当てられた",
+        "拒否された",
+        "隠された"
+      ],
+      "correctAnswer": "割り当てられた",
+      "explanation": "「allotted」は、特定の目的や人に割り当てられた、または与えられたという意味です。ここでは、Rajに割り当てられた6オンスの飲み物を指しています。\n\n例：Each student was allotted 15 minutes for their presentation. (各生徒にはプレゼンテーションのために15分が割り当てられた。)"
+    },
+    {
+      "id": 14,
+      "value": "as strong as our weakest bladder",
+      "options": [
+        "最も強い人が重要",
+        "最も弱い人が基準",
+        "団結力が重要",
+        "忍耐力が重要"
+      ],
+      "correctAnswer": "最も弱い人が基準",
+      "explanation": "「as strong as our weakest bladder」は、集団の強さは最も弱い部分によって決まるという比喩的な表現です。ここでは、トイレ休憩のタイミングが最もトイレに行きたい人に合わせられることを意味しています。\n\n例：A chain is only as strong as its weakest link. (鎖の強さは最も弱い輪によって決まる。)"
+    },
+    {
+      "id": 15,
+      "value": "upgraded",
+      "options": [
+        "格下げされた",
+        "アップグレードされた",
+        "無視された",
+        "批判された"
+      ],
+      "correctAnswer": "アップグレードされた",
+      "explanation": "「upgraded」は、より良いものに改善された、または昇格したという意味です。ここでは、AmyがPennyを別の車に乗せるようにSheldonに頼んで、Pennyの待遇を良くしたことを意味します。\n\n例：I upgraded my airline ticket to first class. (私は航空券をファーストクラスにアップグレードした。)"
+    },
+    {
+      "id": 16,
+      "value": "break down",
+      "options": [
+        "故障する",
+        "休憩する",
+        "成功する",
+        "出発する"
+      ],
+      "correctAnswer": "故障する",
+      "explanation": "「break down」は、機械などが故障することを意味します。ここでは、車が故障した場合にPennyのスキルが役立つことをAmyがSheldonに説明しています。\n\n例：The car broke down on the way to the airport. (空港へ行く途中で車が故障した。)"
+    },
+    {
+      "id": 17,
+      "value": "backwoods skills",
+      "options": [
+        "都会のスキル",
+        "田舎のスキル",
+        "料理のスキル",
+        "運転のスキル"
+      ],
+      "correctAnswer": "田舎のスキル",
+      "explanation": "「backwoods skills」は、田舎や未開拓の地で生き残るために必要なスキルを指します。ここでは、Pennyがネブラスカ出身であることから、そのようなスキルを持っているとAmyが想定しています。\n\n例：He learned backwoods skills from his grandfather. (彼は祖父から田舎での生活スキルを学んだ。)"
+    },
+    {
+      "id": 18,
+      "value": "brawny hands",
+      "options": [
+        "繊細な手",
+        "力強い手",
+        "汚れた手",
+        "小さな手"
+      ],
+      "correctAnswer": "力強い手",
+      "explanation": "「brawny hands」は、筋肉質で力強い手を指します。ここでは、Pennyの手が力強く、野生で生き残るために役立つとAmyが言っています。\n\n例：The lumberjack had brawny hands from years of working with wood. (その木こりは、長年の木材作業で力強い手を持っていた。)"
+    },
+    {
+      "id": 19,
+      "value": "come in",
+      "options": [
+        "出て行く",
+        "応答する",
+        "あきらめる",
+        "参加する"
+      ],
+      "correctAnswer": "応答する",
+      "explanation": "「come in」は、無線通信で応答を求める際に使われるフレーズです。ここでは、SheldonがHowardに無線で応答するように求めています。\n\n例：Red Leader to Red Five, come in. (レッドリーダーからレッドファイブ、応答せよ。)"
+    },
+    {
+      "id": 20,
+      "value": "quarter-hourly",
+      "options": [
+        "毎日の",
+        "四半期ごとの",
+        "毎時間の",
+        "15分ごとの"
+      ],
+      "correctAnswer": "15分ごとの",
+      "explanation": "「quarter-hourly」は、15分ごとの、または1時間に4回という意味です。SheldonがHowardに15分ごとに位置情報を報告するように求めていることを意味します。\n\n例：The bus runs on a quarter-hourly schedule. (そのバスは15分ごとのスケジュールで運行している。)"
+    },
+    {
+      "id": 21,
+      "value": "radio contact",
+      "options": [
+        "直接会うこと",
+        "無線連絡",
+        "手紙のやり取り",
+        "ボディーコンタクト"
+      ],
+      "correctAnswer": "無線連絡",
+      "explanation": "「radio contact」は、無線通信による連絡を意味します。ここでは、SheldonがHowardに無線で連絡を取るだけで十分だと伝えています。\n\n例：We need to maintain radio contact with the base camp. (私たちはベースキャンプとの無線連絡を維持する必要がある。)"
+    },
+    {
+      "id": 22,
+      "value": "jeopardize",
+      "options": [
+        "改善する",
+        "危険にさらす",
+        "強化する",
+        "守る"
+      ],
+      "correctAnswer": "危険にさらす",
+      "explanation": "「jeopardize」は、何かを危険にさらす、または損なうという意味です。ここでは、AmyとSheldonが、お互いをよく知りすぎると関係が損なわれる可能性があると考えていることを示しています。\n\n例：Smoking can jeopardize your health. (喫煙はあなたの健康を危険にさらす可能性があります。)"
+    },
+    {
+      "id": 23,
+      "value": "over-familiarity",
+      "options": [
+        "過度の知識",
+        "過度の親密さ",
+        "過度の無関心",
+        "過度の警戒心"
+      ],
+      "correctAnswer": "過度の親密さ",
+      "explanation": "「over-familiarity」は、過度な親密さや馴れ馴れしさを意味します。ここでは、AmyとSheldonが、お互いをよく知りすぎると関係が損なわれる可能性があると考えていることを示しています。\n\n例：Over-familiarity can breed contempt. (馴れ合いは軽蔑を生むことがある。)"
+    },
+    {
+      "id": 24,
+      "value": "vouch for",
+      "options": [
+        "非難する",
+        "保証する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "保証する",
+      "explanation": "「vouch for」は、誰かまたは何かの信頼性や良さを保証する、または断言することを意味します。ここでは、LeonardがSheldonのトイレ習慣について保証できると言っています。\n\n例：I can vouch for his honesty. (彼の正直さは私が保証できます。)"
+    },
+    {
+      "id": 25,
+      "value": "eye-opener",
+      "options": [
+        "秘密",
+        "目隠し",
+        "驚くべきこと",
+        "つまらないこと"
+      ],
+      "correctAnswer": "驚くべきこと",
+      "explanation": "「eye-opener」は、驚きや気づきを与える出来事や経験を指します。ここでは、LeonardがPennyのトイレ習慣について、驚くべき発見があったことを示唆しています。\n\n例：The documentary was a real eye-opener. (そのドキュメンタリーは本当に驚くべきものだった。)"
+    },
+    {
+      "id": 26,
+      "value": "keynote",
+      "options": [
+        "基調講演",
+        "重要な注意点",
+        "秘密のメモ",
+        "主要な音楽"
+      ],
+      "correctAnswer": "基調講演",
+      "explanation": "「keynote」は、会議や大会などの冒頭で行われる、そのイベントのテーマや目的を示す重要な講演のことです。通常、その分野の著名人や専門家が行います。イベントの雰囲気を設定し、参加者の関心を引きつける役割があります。例：The keynote speaker at the conference was a Nobel laureate. (会議の基調講演者はノーベル賞受賞者だった。)"
+    },
+    {
+      "id": 27,
+      "value": "apropos",
+      "options": [
+        "不適切",
+        "適切",
+        "反対",
+        "偶然"
+      ],
+      "correctAnswer": "適切",
+      "explanation": "「apropos」は、ある状況や話題に対して適切である、関連があるという意味です。フォーマルな文脈で使われることが多く、会話や行動がその場にふさわしいかどうかを判断する際に用いられます。例：His comments were not apropos to the discussion. (彼のコメントは議論に適切ではなかった。)"
+    },
+    {
+      "id": 28,
+      "value": "filibuster",
+      "options": [
+        "議事妨害",
+        "議事進行",
+        "秘密投票",
+        "休憩"
+      ],
+      "correctAnswer": "議事妨害",
+      "explanation": "「filibuster」は、議会などで、議事の進行を遅らせるために行う長時間の演説や妨害行為のことです。主に少数派が多数派の決定を阻止するために用いられます。例：The senator threatened to filibuster the bill if his amendments were not considered. (上院議員は、修正案が考慮されなければ法案を議事妨害すると脅した。)"
+    },
+    {
+      "id": 29,
+      "value": "bully",
+      "options": [
+        "励ます",
+        "いじめる",
+        "助ける",
+        "尊敬する"
+      ],
+      "correctAnswer": "いじめる",
+      "explanation": "「bully」は、弱い者に対して、力や権力を使って威圧したり、嫌がらせをしたりする行為、またはそのような行為をする人を指します。学校や職場など、様々な場所で問題となる行為です。例：The older boys used to bully him in the playground. (年上の男の子たちは、遊び場で彼をいじめていた。)"
+    },
+    {
+      "id": 30,
+      "value": "stand up to",
+      "options": [
+        "耐える",
+        "立ち向かう",
+        "見上げる",
+        "尊敬する"
+      ],
+      "correctAnswer": "立ち向かう",
+      "explanation": "「stand up to」は、誰か（通常は権力を持っている人やいじめっ子）に対して、恐れずに自分の意見や権利を主張し、立ち向かうという意味です。不正や不当な扱いに対して抵抗する際に用いられます。例：She decided to stand up to her boss and demand a raise. (彼女は上司に立ち向かい、昇給を要求することに決めた。)"
+    },
+    {
+      "id": 31,
+      "value": "gal",
+      "options": [
+        "男",
+        "女",
+        "子供",
+        "動物"
+      ],
+      "correctAnswer": "女",
+      "explanation": "「gal」は、女性を指すくだけた言葉です。特にアメリカ英語でよく使われます。親しみやすいニュアンスで使われることが多いですが、文脈によってはやや古風に聞こえることもあります。例：She's a great gal. (彼女は素晴らしい女性だ。)"
+    },
+    {
+      "id": 32,
+      "value": "run a panel",
+      "options": [
+        "パネルを運営する",
+        "パネルから逃げる",
+        "パネルを破壊する",
+        "パネルを無視する"
+      ],
+      "correctAnswer": "パネルを運営する",
+      "explanation": "「run a panel」は、会議やイベントなどで、討論会（パネルディスカッション）を運営・進行することを意味します。司会進行役として、議論をまとめたり、質問を受け付けたりする役割を担います。例：He will be running the panel on climate change. (彼は気候変動に関するパネルディスカッションを運営する予定だ。)"
+    },
+    {
+      "id": 33,
+      "value": "catch it",
+      "options": [
+        "それを捕まえる",
+        "それを見る",
+        "それに参加する",
+        "それを理解する"
+      ],
+      "correctAnswer": "それを見る",
+      "explanation": "「catch it」は、文脈によって様々な意味を持ちますが、ここでは「（テレビ番組、映画、講演などを）見る」という意味で使われています。特に、時間や機会が限られている場合に、それを見ようとすることを指します。例：I'll try to catch the game on TV tonight. (今夜テレビでその試合を見るつもりだ。)"
+    },
+    {
+      "id": 34,
+      "value": "proportional",
+      "options": [
+        "不均衡",
+        "比例",
+        "偶然",
+        "不必要"
+      ],
+      "correctAnswer": "比例",
+      "explanation": "「proportional」は、ある量や大きさが、別の量や大きさに比例している、つまり一定の割合で増減することを意味します。数学や科学の分野でよく使われますが、一般的な文脈でも、バランスや公平さを示す際に用いられます。例：The punishment should be proportional to the crime. (罰は犯罪に比例すべきだ。)"
+    },
+    {
+      "id": 35,
+      "value": "go out with",
+      "options": [
+        "外出する",
+        "デートする",
+        "一緒に働く",
+        "友達になる"
+      ],
+      "correctAnswer": "デートする",
+      "explanation": "「go out with」は、誰かとデートをする、交際するという意味です。恋愛関係にある二人が、一緒に時間を過ごしたり、様々な場所に出かけたりする状況を指します。例：They went out with each other for two years. (彼らは2年間交際していた。)"
+    },
+    {
+      "id": 36,
+      "value": "relief",
+      "options": [
+        "苦痛",
+        "安心",
+        "悲しみ",
+        "怒り"
+      ],
+      "correctAnswer": "安心",
+      "explanation": "「relief」は、苦痛、心配、不安などが軽減された状態、つまり安心感を意味します。困難な状況や心配事が解消された時に感じる感情です。例：It was a great relief to hear that she was safe. (彼女が無事だと聞いて、とても安心した。)"
+    },
+    {
+      "id": 37,
+      "value": "built",
+      "options": [
+        "建てられた",
+        "体格",
+        "破壊された",
+        "考えられた"
+      ],
+      "correctAnswer": "体格",
+      "explanation": "builtはここでは体格という意味で使われています。例：powerfully built man (力強い体格の男)"
+    },
+    {
+      "id": 38,
+      "value": "lucky man",
+      "options": [
+        "運の良い男",
+        "不運な男",
+        "平凡な男",
+        "臆病な男"
+      ],
+      "correctAnswer": "運の良い男",
+      "explanation": "lucky manは「幸運な男性」という意味で、特に誰かが素晴らしいパートナーや機会に恵まれていることを指して使われます。相手を羨む気持ちや、祝福する気持ちが込められています。"
+    },
+    {
+      "id": 39,
+      "value": "check in",
+      "options": [
+        "チェックインする",
+        "チェックアウトする",
+        "確認する",
+        "調査する"
+      ],
+      "correctAnswer": "チェックインする",
+      "explanation": "ホテルや空港などで、到着を知らせる手続きを行うことを指します。名前や予約情報を伝え、部屋の鍵や搭乗券を受け取ります。例：We need to check in at the hotel before the conference starts. (会議が始まる前にホテルにチェックインする必要があります。)"
+    },
+    {
+      "id": 40,
+      "value": "nap",
+      "options": [
+        "昼寝",
+        "夜食",
+        "運動",
+        "仕事"
+      ],
+      "correctAnswer": "昼寝",
+      "explanation": "napは短い睡眠のことを指します。日中や疲れた時に、短い時間休息するために取ることが多いです。体力回復やリフレッシュの効果があります。例：I usually take a nap after lunch. (私は普段、昼食後に昼寝をします。)"
+    },
+    {
+      "id": 41,
+      "value": "hang on",
+      "options": [
+        "待つ",
+        "電話を切る",
+        "続ける",
+        "手放す"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「Hang on」は、電話や会話で「ちょっと待って」という意味で使われます。相手に少しの間待つように頼む際に用いられます。例：Hang on a second, I'll check the schedule. (ちょっと待って、スケジュールを確認します。)"
+    },
+    {
+      "id": 42,
+      "value": "miss",
+      "options": [
+        "見逃す",
+        "恋しい",
+        "当てる",
+        "避ける"
+      ],
+      "correctAnswer": "見逃す",
+      "explanation": "ここでは「（機会などを）逃す、見過ごす」という意味で使われています。例：I don't want to miss the keynote. (基調講演を見逃したくない。)"
+    },
+    {
+      "id": 43,
+      "value": "voice",
+      "options": [
+        "声",
+        "意見",
+        "選択",
+        "言語"
+      ],
+      "correctAnswer": "声",
+      "explanation": "ここでは電話越しの声という意味で使われています。例：Leonard (voice): Yeah, hi. (レナード（声）：ああ、やあ。)"
+    },
+    {
+      "id": 44,
+      "value": "element",
+      "options": [
+        "要素",
+        "元素",
+        "環境",
+        "事件"
+      ],
+      "correctAnswer": "元素",
+      "explanation": "ここでは化学の元素という意味で使われています。例：Are you an element in the actinoid series? (あなたはアクチノイド系列の元素ですか？)"
+    },
+    {
+      "id": 45,
+      "value": "elected",
+      "options": [
+        "選出された",
+        "拒否された",
+        "提案された",
+        "無視された"
+      ],
+      "correctAnswer": "選出された",
+      "explanation": "ここでは「選ばれた、任命された」という意味で使われています。例：Who elected you Road Trip God? (誰があなたをロードトリップの神に選んだのですか？)"
+    },
+    {
+      "id": 46,
+      "value": "exhausted",
+      "options": [
+        "疲れた",
+        "興奮した",
+        "満足した",
+        "混乱した"
+      ],
+      "correctAnswer": "疲れた",
+      "explanation": "ここでは「疲れ切った」という意味で使われています。例：We were all exhausted. (私たちは皆疲れ切っていた。)"
+    },
+    {
+      "id": 47,
+      "value": "kick out",
+      "options": [
+        "招待する",
+        "追い出す",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "追い出す",
+      "explanation": "「kick out」は、場所やグループから追い出すという意味です。通常、好ましくない行為や規則違反があった場合に用いられます。例：He was kicked out of the bar for being too drunk. (彼は酔っ払いすぎてバーから追い出された。)"
+    },
+    {
+      "id": 48,
+      "value": "anyway",
+      "options": [
+        "とにかく",
+        "それにもかかわらず",
+        "なぜなら",
+        "したがって"
+      ],
+      "correctAnswer": "とにかく",
+      "explanation": "「anyway」は、話題を変える時や、前の発言を打ち消す時、または追加の情報を提供する時などに使われます。日本語の「とにかく」「いずれにしても」に近い意味合いです。例：It's raining, but I'm going out anyway. (雨が降っているけど、とにかく出かける。)"
+    },
+    {
+      "id": 49,
+      "value": "sure",
+      "options": [
+        "確かに",
+        "不確か",
+        "恐らく",
+        "絶対にない"
+      ],
+      "correctAnswer": "確かに",
+      "explanation": "ここでは「確かに」という意味で使われています。相手の言葉に同意したり、確認したりする際に用いられます。例：Bernie sure is. (バーニーは確かにそうだ。)"
+    },
+    {
+      "id": 50,
+      "value": "necessarily",
+      "options": [
+        "必ずしも",
+        "絶対に",
+        "偶然に",
+        "ほとんど"
+      ],
+      "correctAnswer": "必ずしも",
+      "explanation": "「necessarily」は、「必ずしも〜とは限らない」という意味で使われます。あることが常に真実であるとは限らないことを示す際に用いられます。例：It's not necessarily proportional. (それは必ずしも比例するとは限らない。)"
+    },
+    {
+      "id": 51,
+      "value": "make any kind of impact",
+      "options": [
+        "影響を与える",
+        "利益を生む",
+        "損害を出す",
+        "注目を集める"
+      ],
+      "correctAnswer": "影響を与える",
+      "explanation": "「make an impact」は、文字通りには「衝撃を与える」という意味ですが、影響を及ぼす、効果をもたらすという意味で広く使われます。「any kind of」が加わることで、「どのような種類の」影響、効果、影響力を意味します。"
+    },
+    {
+      "id": 52,
+      "value": "have a chance",
+      "options": [
+        "機会がある",
+        "可能性がある",
+        "運がある",
+        "時間がある"
+      ],
+      "correctAnswer": "可能性がある",
+      "explanation": "「have a chance」は、何かをする機会や可能性があるという意味です。競争や勝負事において、成功する見込みがあることを示す際によく用いられます。"
+    },
+    {
+      "id": 53,
+      "value": "figured that",
+      "options": [
+        "計算した",
+        "理解した",
+        "想像した",
+        "後悔した"
+      ],
+      "correctAnswer": "理解した",
+      "explanation": "「figure」は、ここでは「理解する」「思う」という意味で使われています。「figure that」は、ある状況や事実を理解した、または予想していたという意味合いになります。"
+    },
+    {
+      "id": 54,
+      "value": "go out with",
+      "options": [
+        "外出する",
+        "デートする",
+        "付き合う",
+        "仲良くする"
+      ],
+      "correctAnswer": "デートする",
+      "explanation": "「go out with」は、誰かとデートするという意味です。恋人関係にある、または恋人関係になることを前提とした外出を指します。"
+    },
+    {
+      "id": 55,
+      "value": "let's go with that",
+      "options": [
+        "それで行こう",
+        "それを認めよう",
+        "それを無視しよう",
+        "それを拒否しよう"
+      ],
+      "correctAnswer": "それで行こう",
+      "explanation": "「let's go with that」は、提案や意見に対して、「それで良い」「それに賛成する」という意味を表します。特に、他に良い案がない場合や、とりあえず合意しておきたい場合に用いられます。"
+    },
+    {
+      "id": 56,
+      "value": "subscribe to",
+      "options": [
+        "購読する",
+        "同意する",
+        "参加する",
+        "貢献する"
+      ],
+      "correctAnswer": "同意する",
+      "explanation": "「subscribe to」は、文字通りには「購読する」という意味ですが、ここでは「（理論や考え方などを）支持する」「同意する」という意味で使われています。ある特定の学説や思想を信奉していることを示す際に用いられます。"
+    },
+    {
+      "id": 57,
+      "value": "penis envy",
+      "options": [
+        "陰茎羨望",
+        "性器嫌悪",
+        "性的欲求不満",
+        "性的倒錯"
+      ],
+      "correctAnswer": "陰茎羨望",
+      "explanation": "「penis envy」は、フロイト心理学における概念で、女性が男性の陰茎に対して抱く羨望の感情を指します。この理論は、女性の心理発達における重要な要素として議論されてきました。"
+    },
+    {
+      "id": 58,
+      "value": "by comparison",
+      "options": [
+        "比較すると",
+        "競争すると",
+        "考慮すると",
+        "調査すると"
+      ],
+      "correctAnswer": "比較すると",
+      "explanation": "「by comparison」は、2つ以上の物事を比較する際に用いられる表現で、「比較すると」「比べてみると」という意味を持ちます。類似点や相違点を明確にするために使われます。"
+    },
+    {
+      "id": 59,
+      "value": "high maintenance",
+      "options": [
+        "維持費が高い",
+        "手入れが大変",
+        "高性能",
+        "最新式"
+      ],
+      "correctAnswer": "手入れが大変",
+      "explanation": "「high maintenance」は、人や物事に対して、多くの時間、労力、またはお金を必要とすることを指します。特に、人間関係においては、気難しい、わがまま、または要求が多い人を指すことがあります。"
+    },
+    {
+      "id": 60,
+      "value": "come on in",
+      "options": [
+        "入ってきて",
+        "参加して",
+        "手伝って",
+        "落ち着いて"
+      ],
+      "correctAnswer": "入ってきて",
+      "explanation": "「come on in」は、誰かを部屋や建物の中に招き入れる際に使われる表現で、「どうぞ入ってください」という意味です。親しみやすい、歓迎するニュアンスが含まれています。"
+    },
+    {
+      "id": 61,
+      "value": "prone to",
+      "options": [
+        "傾向がある",
+        "反対する",
+        "準備ができている",
+        "興味がある"
+      ],
+      "correctAnswer": "傾向がある",
+      "explanation": "「prone to」は、ある状態や行動を起こしやすい、または影響を受けやすいという意味です。ネガティブな事柄に対して使われることが多いですが、必ずしも悪い意味だけではありません。"
+    },
+    {
+      "id": 62,
+      "value": "night terrors",
+      "options": [
+        "夜驚症",
+        "悪夢",
+        "不眠症",
+        "金縛り"
+      ],
+      "correctAnswer": "夜驚症",
+      "explanation": "「night terrors」は、睡眠中に突然恐怖を感じて叫んだり、動き回ったりする睡眠障害の一種である夜驚症を指します。悪夢とは異なり、本人はほとんどの場合、内容を覚えていません。"
+    },
+    {
+      "id": 63,
+      "value": "pin me down",
+      "options": [
+        "私を押し倒して",
+        "私を束縛して",
+        "私を特定して",
+        "私を非難して"
+      ],
+      "correctAnswer": "私を押し倒して",
+      "explanation": "「pin down」は、ここでは物理的に誰かを動けないように押さえつけるという意味です。比喩的には、意見や立場を明確にさせる、または約束を取り付けるという意味もあります。"
+    },
+    {
+      "id": 64,
+      "value": "make the best of this",
+      "options": [
+        "最善を尽くす",
+        "最大限に利用する",
+        "諦める",
+        "我慢する"
+      ],
+      "correctAnswer": "最善を尽くす",
+      "explanation": "「make the best of it」は、困難な状況や不快な状況でも、できる限り良い結果になるように努力するという意味です。前向きな姿勢を示す際に用いられます。"
+    },
+    {
+      "id": 65,
+      "value": "neutral zone",
+      "options": [
+        "中立地帯",
+        "危険地帯",
+        "安全地帯",
+        "無法地帯"
+      ],
+      "correctAnswer": "中立地帯",
+      "explanation": "「neutral zone」は、文字通りには「中立地帯」という意味ですが、ここではStar Trekの用語として使われています。ここでは互いに干渉しない境界線の意味として使われています。"
+    },
+    {
+      "id": 66,
+      "value": "temporary truce",
+      "options": [
+        "一時的な休戦",
+        "永遠の平和",
+        "秘密協定",
+        "軍事同盟"
+      ],
+      "correctAnswer": "一時的な休戦",
+      "explanation": "「temporary truce」は、一時的な休戦協定を意味します。「truce」は、戦争や紛争状態にある当事者間の一時的な戦闘停止合意を指します。"
+    },
+    {
+      "id": 67,
+      "value": "put this in a way",
+      "options": [
+        "言い換える",
+        "説明する",
+        "隠喩する",
+        "誇張する"
+      ],
+      "correctAnswer": "言い換える",
+      "explanation": "「put something in a way」は、何かを別の方法で表現する、または説明するという意味です。相手に理解しやすいように、別の言葉や例えを使って説明する際に用いられます。"
+    },
+    {
+      "id": 68,
+      "value": "shields are up",
+      "options": [
+        "防御態勢",
+        "攻撃態勢",
+        "警戒態勢",
+        "準備万端"
+      ],
+      "correctAnswer": "防御態勢",
+      "explanation": "「shields are up」は、Star Trekに由来する表現で、防御態勢を整えている状態を指します。比喩的には、精神的な防御や拒絶の姿勢を示す際に用いられます。"
+    },
+    {
+      "id": 69,
+      "value": "guarantee that",
+      "options": [
+        "保証する",
+        "確認する",
+        "示唆する",
+        "希望する"
+      ],
+      "correctAnswer": "保証する",
+      "explanation": "「guarantee that」は、ある事柄が必ず起こる、または真実であることを保証するという意味です。確信を持って約束する際に用いられます。"
+    },
+    {
+      "id": 70,
+      "value": "Sweetie",
+      "options": [
+        "恋人",
+        "親愛なる人",
+        "軽蔑的な呼び方",
+        "赤ちゃん"
+      ],
+      "correctAnswer": "親愛なる人",
+      "explanation": "「Sweetie」は、親愛の情を込めた呼びかけで、恋人や家族、親しい友人に対して使われます。ただし、状況によっては軽蔑的なニュアンスを含むこともあります。"
+    },
+    {
+      "id": 71,
+      "value": "The Federation",
+      "options": [
+        "銀河連邦",
+        "国際連合",
+        "連邦捜査局",
+        "国家安全保障会議"
+      ],
+      "correctAnswer": "銀河連邦",
+      "explanation": "「The Federation」は、SF作品『Star Trek』に登場する惑星連邦を指します。異なる惑星や種族が協力して平和と探求を目指す組織です。"
+    },
+    {
+      "id": 72,
+      "value": "the Romulan Empire",
+      "options": [
+        "ロミュラン帝国",
+        "ローマ帝国",
+        "大英帝国",
+        "オスマン帝国"
+      ],
+      "correctAnswer": "ロミュラン帝国",
+      "explanation": "「the Romulan Empire」は、SF作品『Star Trek』に登場するロミュラン人の帝国を指します。高度な技術を持ち、侵略的な性格を持つことで知られています。"
+    },
+    {
+      "id": 73,
+      "value": "coitus",
+      "options": [
+        "性交",
+        "会話",
+        "食事",
+        "睡眠"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交を意味するややフォーマルな言葉です。医学的な文脈や、直接的な表現を避けたい場合に用いられます。"
+    },
+    {
+      "id": 74,
+      "value": "What's that mean?",
+      "options": [
+        "どういう意味？",
+        "どういうこと？",
+        "どう思う？",
+        "何が言いたい？"
+      ],
+      "correctAnswer": "どういう意味？",
+      "explanation": "「What's that mean?」は、相手の発言や行動の意味を尋ねる際に使われる一般的な表現です。相手の説明を求めるニュアンスが含まれています。"
+    },
+    {
+      "id": 75,
+      "value": "complete and total ass",
+      "options": [
+        "完全なバカ",
+        "素晴らしい人",
+        "正直な人",
+        "才能のある人"
+      ],
+      "correctAnswer": "完全なバカ",
+      "explanation": "「ass」は、ここでは侮辱的な意味合いで「バカ」「嫌なやつ」という意味で使われています。「complete and total」と強調することで、その程度が甚だしいことを示しています。"
+    },
+    {
+      "id": 76,
+      "value": "kinda",
+      "options": [
+        "全く",
+        "少し",
+        "いつも",
+        "特に"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「kinda」は、「kind of」の略で、口語で「少し」「いくらか」という意味合いで使われます。フォーマルな場では避けるべき表現です。例：It's kinda cold today. (今日は少し寒いね。)"
+    },
+    {
+      "id": 77,
+      "value": "True dat",
+      "options": [
+        "もちろん",
+        "その通り",
+        "たぶんね",
+        "どうかな"
+      ],
+      "correctAnswer": "その通り",
+      "explanation": "「True dat」は、スラングで「That's true」を意味します。相手の発言に同意する際に使われ、よりカジュアルな響きがあります。主に若者の間で使われることが多いです。"
+    },
+    {
+      "id": 78,
+      "value": "street",
+      "options": [
+        "世間",
+        "道路",
+        "ストリート",
+        "都会"
+      ],
+      "correctAnswer": "世間",
+      "explanation": "この文脈での「street」は、「street smarts（世間知）」の一部として使われ、「世慣れている」「ずる賢い」といった意味合いを持ちます。街の裏社会や現実社会の厳しさを知っていることを指します。"
+    },
+    {
+      "id": 79,
+      "value": "back off",
+      "options": [
+        "支える",
+        "後退する",
+        "攻撃する",
+        "同意する"
+      ],
+      "correctAnswer": "後退する",
+      "explanation": "「back off」は、物理的に後退する意味のほかに、「干渉しない」「手を引く」「距離を置く」という意味で使われます。ここでは、恋愛関係において相手にプレッシャーをかけないようにするという意味合いです。例：You need to back off and give her some space. (君は手を引いて、彼女に少し時間を与えるべきだ。)"
+    },
+    {
+      "id": 80,
+      "value": "Good for you",
+      "options": [
+        "おめでとう",
+        "よかったね",
+        "頑張って",
+        "当然だ"
+      ],
+      "correctAnswer": "よかったね",
+      "explanation": "「Good for you」は、相手の成功や良い知らせに対して「よかったね」「それはすごいね」と祝福する際に使われます。ただし、皮肉を込めて使われる場合もあります。例：You got the job? Good for you! (仕事が決まったの？よかったね！)"
+    },
+    {
+      "id": 81,
+      "value": "violate the Neutral Zone",
+      "options": [
+        "中立地帯を侵略する",
+        "秘密を暴露する",
+        "ルールを破る",
+        "関係を修復する"
+      ],
+      "correctAnswer": "ルールを破る",
+      "explanation": "「Neutral Zone」は、ここでは（おそらくスタートレックに由来する）「中立地帯」という比喩で、恋愛関係における一定のルールや境界線を指しています。「violate」は「侵害する」「破る」という意味なので、この場合は「（友達としての）一線を越える」といったニュアンスになります。"
+    },
+    {
+      "id": 82,
+      "value": "gave me your key",
+      "options": [
+        "鍵をくれた",
+        "秘密を打ち明けた",
+        "指示を出した",
+        "責任を負わせた"
+      ],
+      "correctAnswer": "鍵をくれた",
+      "explanation": "この文脈では文字通り「鍵をくれた」という意味ですが、比喩的に「（部屋に）入る許可を与えた」または「（状況に）関与させた」と解釈できます。状況によっては、より深い意味合いを持つこともあります。"
+    },
+    {
+      "id": 83,
+      "value": "hippie-dippy",
+      "options": [
+        "時代遅れ",
+        "気難しい",
+        "型破り",
+        "のんき"
+      ],
+      "correctAnswer": "のんき",
+      "explanation": "「hippie-dippy」は、ヒッピーのような、のんきで自由奔放な、または少し時代遅れなという意味合いを持つ形容詞です。ここでは、ジョークが聴衆に合わなかったことを Sheldon が冗談めかして表現しています。"
+    },
+    {
+      "id": 84,
+      "value": "start us off",
+      "options": [
+        "開始する",
+        "中断する",
+        "手伝う",
+        "妨害する"
+      ],
+      "correctAnswer": "開始する",
+      "explanation": "「start someone off」は、「～に開始してもらう」「～に口火を切ってもらう」という意味です。会議やプレゼンテーションなどで、誰かに最初に発言してもらう際に使われます。例：I'd like to start you off with a brief introduction. (最初に簡単なご紹介から始めさせていただきたいと思います。)"
+    },
+    {
+      "id": 85,
+      "value": "tear you a new one",
+      "options": [
+        "新しい服を買う",
+        "打ち負かす",
+        "励ます",
+        "助ける"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "「tear someone a new one」は、非常に攻撃的で、相手を打ちのめす、打ち負かすという意味のスラング表現です。口語的で下品なニュアンスを含むため、使用する場面には注意が必要です。"
+    },
+    {
+      "id": 86,
+      "value": "fair share",
+      "options": [
+        "公平な分け前",
+        "かなりの量",
+        "わずかな量",
+        "分け与えない"
+      ],
+      "correctAnswer": "かなりの量",
+      "explanation": "「fair share」は、本来「公平な分け前」という意味ですが、「a fair share of」という形で使うと、「かなりの量」「相当な量」という意味になります。しばしば、良い意味でも悪い意味でも使われます。例：He's had his fair share of problems. (彼はかなりの問題を抱えてきた。)"
+    },
+    {
+      "id": 87,
+      "value": "weigh in",
+      "options": [
+        "体重を量る",
+        "意見を述べる",
+        "比較検討する",
+        "圧力をかける"
+      ],
+      "correctAnswer": "意見を述べる",
+      "explanation": "「weigh in」は、文字通りには「体重を量る」という意味ですが、議論や会話の中で「意見を述べる」「発言する」という意味でも使われます。特に、専門的な知識や経験に基づいて意見を述べる際に用いられます。例：I'd like to weigh in on this issue. (この問題について意見を述べたいと思います。)"
+    },
+    {
+      "id": 88,
+      "value": "kicking my little brown ass",
+      "options": [
+        "応援してくれている",
+        "困らせている",
+        "助けてくれている",
+        "無視している"
+      ],
+      "correctAnswer": "困らせている",
+      "explanation": "「kicking my ass」はスラングで、「（状況などが）自分を打ちのめしている」「困らせている」という意味です。この場合は、ミモザ（アルコール飲料）が効きすぎて、自分が酔っ払って困っている状況を表しています。"
+    },
+    {
+      "id": 89,
+      "value": "getting back together",
+      "options": [
+        "復縁する",
+        "仲たがいする",
+        "協力する",
+        "別れる"
+      ],
+      "correctAnswer": "復縁する",
+      "explanation": "「get back together」は、「（恋人同士が）復縁する」「よりを戻す」という意味です。一時的に別れていた関係が再び始まることを指します。例：They decided to get back together after a few months apart. (彼らは数ヶ月の別居の後、復縁することに決めました。)"
+    },
+    {
+      "id": 90,
+      "value": "one-time thing",
+      "options": [
+        "一度だけの出来事",
+        "定期的なイベント",
+        "重要な問題",
+        "過去の出来事"
+      ],
+      "correctAnswer": "一度だけの出来事",
+      "explanation": "「one-time thing」は、「一度きりのこと」「一回限りの出来事」という意味です。ここでは、PennyがLeonardとの関係が単なる一時的なもので、復縁ではないことを強調しています。"
+    },
+    {
+      "id": 91,
+      "value": "shut up",
+      "options": [
+        "黙る",
+        "話す",
+        "歌う",
+        "笑う"
+      ],
+      "correctAnswer": "黙る",
+      "explanation": "「shut up」は、相手に対して「黙れ」と命令する非常に失礼な表現です。親しい間柄やユーモラスな状況で使われることもありますが、基本的には避けるべき言葉です。"
+    },
+    {
+      "id": 92,
+      "value": "bring this back to topic",
+      "options": [
+        "話題を変える",
+        "話題を元に戻す",
+        "議論を始める",
+        "結論を出す"
+      ],
+      "correctAnswer": "話題を元に戻す",
+      "explanation": "「bring something back to topic」は、「話題を本題に戻す」「話を元に戻す」という意味です。議論や会話が逸れた際に、元の話題に戻すために使われます。例：Let's bring this back to the topic at hand. (それでは、現在の話題に戻しましょう。)"
+    },
+    {
+      "id": 93,
+      "value": "come on",
+      "options": [
+        "頑張って",
+        "さあ",
+        "やめて",
+        "手伝って"
+      ],
+      "correctAnswer": "やめて",
+      "explanation": "「come on」は、様々な意味を持つ表現ですが、ここではHowardの発言に対するBernadetteの反応として、「ばかにしないで」「いい加減にして」というニュアンスで使われています。相手の発言に不満や反論があるときに使われます。"
+    },
+    {
+      "id": 94,
+      "value": "open it up to Q&A",
+      "options": [
+        "質問を受け付ける",
+        "議論を始める",
+        "休憩する",
+        "結論を出す"
+      ],
+      "correctAnswer": "質問を受け付ける",
+      "explanation": "「open it up to Q&A」は、「質疑応答の時間にする」「質問を受け付ける」という意味です。プレゼンテーションや会議などで、参加者からの質問を受け付ける際に使われます。例：Now, I'd like to open it up to Q&A. (それでは、質疑応答の時間に移りたいと思います。)"
+    },
+    {
+      "id": 95,
+      "value": "get me the hell out of here",
+      "options": [
+        "ここから助け出す",
+        "ここに来させる",
+        "ここに留まらせる",
+        "ここから追い出す"
+      ],
+      "correctAnswer": "ここから助け出す",
+      "explanation": "「get me the hell out of here」は、非常に口語的で強い表現で、「ここから一刻も早く連れ出してくれ」という意味です。不快な場所や状況から逃れたいときに使われます。"
+    },
+    {
+      "id": 96,
+      "value": "Red Leader to Red Five",
+      "options": [
+        "映画のセリフ",
+        "軍隊の合言葉",
+        "緊急の連絡",
+        "ゲームのルール"
+      ],
+      "correctAnswer": "映画のセリフ",
+      "explanation": "これは映画「スター・ウォーズ」に登場するフレーズで、劇中では戦闘機パイロットたちが交信する際のコールサインとして使われます。Sheldonが遊び心でこのフレーズを使っています。"
+    },
+    {
+      "id": 97,
+      "value": "up for",
+      "options": [
+        "準備ができている",
+        "興味がある",
+        "反対している",
+        "参加できない"
+      ],
+      "correctAnswer": "興味がある",
+      "explanation": "「be up for something」は、「～をする気がある」「～に乗り気である」「～に興味がある」という意味です。ここでは、Sheldonがゲームをする気があるかどうかを尋ねています。例：Are you up for going to the movies tonight? (今夜、映画に行く気ある？)"
+    },
+    {
+      "id": 98,
+      "value": "I spy with my little eye",
+      "options": [
+        "秘密を見つけた",
+        "ゲームをしよう",
+        "何かを隠している",
+        "遠くを見ている"
+      ],
+      "correctAnswer": "ゲームをしよう",
+      "explanation": "「I spy with my little eye」は、子供の遊び「I Spy（スパイゲーム）」の開始時に使われるフレーズです。ある物を見つけて、その物の最初の文字をヒントとして出し、他の人に当てさせるゲームです。"
+    },
+    {
+      "id": 99,
+      "value": "out of range",
+      "options": [
+        "射程距離外",
+        "範囲外",
+        "利用不可能",
+        "通信不能"
+      ],
+      "correctAnswer": "通信不能",
+      "explanation": "「out of range」は、無線通信などが「圏外である」「通信範囲外である」という意味です。ここでは、Sheldonが持っているトランシーバーが届かない範囲にいるため、通信できないことを意味しています。"
+    },
+    {
+      "id": 100,
+      "value": "bothered by",
+      "options": [
+        "心配している",
+        "困っている",
+        "興味がある",
+        "満足している"
+      ],
+      "correctAnswer": "困っている",
+      "explanation": "「be bothered by something」は、「～に悩まされる」「～を気にする」「～に困る」という意味です。ここでは、LeonardがPennyとGlennの関係を気にしているかどうかをAmyが尋ねています。例：Are you bothered by the noise? (騒音に悩まされていますか？)"
+    }
+  ]
+}

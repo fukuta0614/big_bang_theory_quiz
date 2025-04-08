@@ -1,0 +1,1132 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "rack",
+      "options": [
+        "才能",
+        "外見",
+        "知性",
+        "ユーモア"
+      ],
+      "correctAnswer": "外見",
+      "explanation": "この文脈では、女性の胸を指すスラングとして使われています。下品なニュアンスを含むため、フォーマルな場での使用は避けるべきです。例：He's got a nice rack.(彼はいい体格をしているね)"
+    },
+    {
+      "id": 2,
+      "value": "flaunt",
+      "options": [
+        "隠す",
+        "誇示する",
+        "無視する",
+        "非難する"
+      ],
+      "correctAnswer": "誇示する",
+      "explanation": "「flaunt」は、自分の持っているもの（美貌、才能、富など）をこれ見よがしに見せびらかすという意味です。しばしば、不快感や軽蔑のニュアンスを伴います。例：She flaunted her wealth by wearing expensive jewelry.(彼女は高価な宝石を身につけて富を誇示した。)"
+    },
+    {
+      "id": 3,
+      "value": "crank up",
+      "options": [
+        "下げる",
+        "上げる",
+        "止める",
+        "分解する"
+      ],
+      "correctAnswer": "上げる",
+      "explanation": "ここでは、エアコンの温度を上げるという意味で使われています。比喩的には、何かの勢いを増したり、レベルを上げたりする意味で使われます。例：Let's crank up the music!(音楽のボリュームを上げよう！)"
+    },
+    {
+      "id": 4,
+      "value": "take someone seriously",
+      "options": [
+        "無視する",
+        "からかう",
+        "真剣に受け止める",
+        "軽蔑する"
+      ],
+      "correctAnswer": "真剣に受け止める",
+      "explanation": "「take someone seriously」は、相手の言葉や行動を真剣に受け止め、尊重するという意味です。特に、相手が専門家や権威者である場合に重要です。例：You should take his advice seriously.(彼の助言を真剣に受け止めるべきだ。)"
+    },
+    {
+      "id": 5,
+      "value": "smirking",
+      "options": [
+        "微笑む",
+        "しかめっ面をする",
+        "ニヤニヤする",
+        "泣く"
+      ],
+      "correctAnswer": "ニヤニヤする",
+      "explanation": "「smirk」は、得意げまたは軽蔑的な意味合いを含むニヤニヤ笑いを指します。良い意味では使われず、相手を見下したり、嘲笑したりするニュアンスがあります。例：He smirked when he heard the news of his rival's failure.(彼はライバルの失敗の知らせを聞いてニヤニヤした。)"
+    },
+    {
+      "id": 6,
+      "value": "unsung foot soldiers",
+      "options": [
+        "有名な英雄",
+        "影の立役者",
+        "敵の兵士",
+        "怠け者"
+      ],
+      "correctAnswer": "影の立役者",
+      "explanation": "「unsung foot soldiers」は、目立たないけれども重要な役割を果たしている人々を指します。「unsung」は「称賛されない」、「foot soldiers」は「歩兵」という意味で、合わせて「縁の下の力持ち」のようなニュアンスになります。例：Teachers are the unsung foot soldiers of our education system.(教師は教育制度の影の立役者だ。)"
+    },
+    {
+      "id": 7,
+      "value": "cushion the blow",
+      "options": [
+        "打撃を和らげる",
+        "打撃を強める",
+        "打撃を避ける",
+        "打撃を与える"
+      ],
+      "correctAnswer": "打撃を和らげる",
+      "explanation": "「cushion the blow」は、衝撃や悪い知らせの影響を和らげるという意味です。「cushion」は「クッション」という意味で、比喩的に精神的な衝撃を和らげるイメージです。例：The company offered severance pay to cushion the blow of the layoffs.(会社は解雇の打撃を和らげるために退職金を提示した。)"
+    },
+    {
+      "id": 8,
+      "value": "gentleman caller",
+      "options": [
+        "詐欺師",
+        "泥棒",
+        "求婚者",
+        "セールスマン"
+      ],
+      "correctAnswer": "求婚者",
+      "explanation": "「gentleman caller」は、特に古い時代や地域で、女性を訪問する男性、特に求婚者を指す言葉です。ロマンチックな意味合いを含みます。例：Her mother was always happy to see a gentleman caller at the door.(彼女の母親はいつも玄関に求婚者が来るのを見て喜んでいた。)"
+    },
+    {
+      "id": 9,
+      "value": "as we speak",
+      "options": [
+        "話している間に",
+        "過去に",
+        "未来に",
+        "秘密裏に"
+      ],
+      "correctAnswer": "話している間に",
+      "explanation": "「as we speak」は、「私たちが話しているまさにその時に」という意味です。何かが現在進行形であることを強調する際に用いられます。例：The police are searching for the suspect as we speak.(警察は私たちが話しているまさにその時に容疑者を捜索している。)"
+    },
+    {
+      "id": 10,
+      "value": "play this game",
+      "options": [
+        "スポーツをする",
+        "いたずらをする",
+        "駆け引きをする",
+        "勉強をする"
+      ],
+      "correctAnswer": "駆け引きをする",
+      "explanation": "ここでは、相手の言葉尻を捉えて言い返す、または屁理屈をこねるような、子供じみたやり取りを指しています。真剣な議論というよりは、言葉遊びに近いニュアンスです。例：Let's stop playing this game and talk seriously.(この駆け引きはやめて、真剣に話し合おう。)"
+    },
+    {
+      "id": 11,
+      "value": "met her at my office",
+      "options": [
+        "オフィスで喧嘩した",
+        "オフィスで偶然会った",
+        "オフィスで働いているのを見た",
+        "オフィスで知り合った"
+      ],
+      "correctAnswer": "オフィスで知り合った",
+      "explanation": "「meet」は初めて会うという意味で、「at my office」とあるので、オフィスで初めて知り合った、という状況を表します。例：I met her at a conference last year.(私は彼女に去年の会議で会った。)"
+    },
+    {
+      "id": 12,
+      "value": "initiate a romantic relationship",
+      "options": [
+        "恋愛関係を終わらせる",
+        "恋愛関係を始める",
+        "友情を深める",
+        "ビジネス関係を築く"
+      ],
+      "correctAnswer": "恋愛関係を始める",
+      "explanation": "「initiate」は「始める、開始する」という意味で、「romantic relationship」は「恋愛関係」を意味します。合わせて「恋愛関係を始める」という意味になります。例：He tried to initiate a romantic relationship with her.(彼は彼女との恋愛関係を始めようとした。)"
+    },
+    {
+      "id": 13,
+      "value": "two Mississippis",
+      "options": [
+        "2秒",
+        "2分",
+        "2時間",
+        "2日間"
+      ],
+      "correctAnswer": "2秒",
+      "explanation": "「one Mississippi, two Mississippi...」という数え方は、アメリカで秒数を数える際によく使われる方法です。約1秒に相当します。子供がゲームなどで時間を計る際によく使います。例：Wait for five Mississippis before you open your eyes.(目を開ける前に5秒待って。)"
+    },
+    {
+      "id": 14,
+      "value": "there's been a misunderstanding",
+      "options": [
+        "誤解はない",
+        "理解が深まった",
+        "誤解があった",
+        "同意した"
+      ],
+      "correctAnswer": "誤解があった",
+      "explanation": "「misunderstanding」は「誤解」という意味です。「There's been a misunderstanding」は「誤解があった」という意味で、相手に状況を説明する際によく使われます。例：I think there's been a misunderstanding about the meeting time.(会議の時間について誤解があったと思います。)"
+    },
+    {
+      "id": 15,
+      "value": "engagement ring",
+      "options": [
+        "友情の証",
+        "婚約指輪",
+        "卒業祝い",
+        "誕生日のプレゼント"
+      ],
+      "correctAnswer": "婚約指輪",
+      "explanation": "「engagement ring」は、婚約の証として贈られる指輪のことです。通常、ダイヤモンドなどの宝石があしらわれています。例：He proposed to her with a beautiful engagement ring.(彼は美しい婚約指輪で彼女にプロポーズした。)"
+    },
+    {
+      "id": 16,
+      "value": "am I to presume",
+      "options": [
+        "私は確信する",
+        "私は誤解する",
+        "私は推測する",
+        "私は知っている"
+      ],
+      "correctAnswer": "私は推測する",
+      "explanation": "「presume」は「推測する、推定する」という意味です。「Am I to presume...?」は「～と推測してよろしいでしょうか？」という意味で、相手の言葉や状況から判断して何かを推測する際に使われます。例：Am I to presume that you're not coming?(あなたは来ない、と推測してよろしいでしょうか？)"
+    },
+    {
+      "id": 17,
+      "value": "sales technique",
+      "options": [
+        "販売戦略",
+        "秘密の計画",
+        "新しい発明",
+        "教育方法"
+      ],
+      "correctAnswer": "販売戦略",
+      "explanation": "「sales technique」は、商品を販売するために用いられる様々な方法や戦略のことです。顧客の心理をついたり、商品の魅力を最大限に引き出したりする工夫が含まれます。例：She used a clever sales technique to convince the customer.(彼女は巧みな販売テクニックを使って顧客を説得した。)"
+    },
+    {
+      "id": 18,
+      "value": "all over again",
+      "options": [
+        "完全に忘れる",
+        "繰り返す",
+        "新しく始める",
+        "避ける"
+      ],
+      "correctAnswer": "繰り返す",
+      "explanation": "「all over again」は「最初からやり直す、再び繰り返す」という意味です。過去に経験したことが再び起こる状況を表します。例：We have to start the project all over again.(私たちはプロジェクトを最初からやり直さなければならない。)"
+    },
+    {
+      "id": 19,
+      "value": "iguana habitat",
+      "options": [
+        "イグアナの友達",
+        "イグアナの食べ物",
+        "イグアナの生息地",
+        "イグアナの病気"
+      ],
+      "correctAnswer": "イグアナの生息地",
+      "explanation": "「habitat」は「生息地、居住環境」という意味です。「iguana habitat」はイグアナを飼育するための環境、すなわちケージやテラリウムなどを指します。例：The iguana habitat needs to be cleaned regularly.(イグアナの生息地は定期的に掃除する必要があります。)"
+    },
+    {
+      "id": 20,
+      "value": "too busy to come over",
+      "options": [
+        "暇で遊びに来る",
+        "忙しくて来れない",
+        "遠すぎて来れない",
+        "興味がなくて来れない"
+      ],
+      "correctAnswer": "忙しくて来れない",
+      "explanation": "「too busy to ～」は「～するには忙しすぎる」という意味です。「come over」は「立ち寄る、遊びに来る」という意味なので、「too busy to come over」は「忙しくて来れない」という意味になります。例：I'm too busy to go to the party tonight.(今夜は忙しくてパーティーに行けない。)"
+    },
+    {
+      "id": 21,
+      "value": "unnecessarily graphic",
+      "options": [
+        "不必要に美しい",
+        "不必要に詳細な",
+        "不必要に抽象的な",
+        "不必要に短い"
+      ],
+      "correctAnswer": "不必要に詳細な",
+      "explanation": "「graphic」はここでは「生々しい、詳細な」という意味合いで使われています。「unnecessarily graphic」は「不必要に生々しい、不必要に詳細な」という意味で、描写が過剰で不快感を与える可能性があることを示唆します。例：The movie contained unnecessarily graphic violence.(その映画には不必要に生々しい暴力描写が含まれていた。)"
+    },
+    {
+      "id": 22,
+      "value": "check out",
+      "options": [
+        "無視する",
+        "確認する",
+        "非難する",
+        "忘れる"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "ここでは「見てみな」という意味のスラングです。興味を引くものや注目すべきものを指し示す際に使われます。 例：Check out that new car! (あの新しい車を見てみな！)"
+    },
+    {
+      "id": 23,
+      "value": "get ahead",
+      "options": [
+        "遅れる",
+        "成功する",
+        "迷う",
+        "諦める"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「get ahead」は、仕事やキャリアなどで成功を収める、出世するという意味です。競争が激しい状況で、目標を達成するために努力する様子を表します。例：You need to work hard to get ahead in this company. (この会社で成功するためには、一生懸命働く必要があります。)"
+    },
+    {
+      "id": 24,
+      "value": "on the topic of",
+      "options": [
+        "〜とは反対に",
+        "〜について言えば",
+        "〜を無視して",
+        "〜を軽視して"
+      ],
+      "correctAnswer": "〜について言えば",
+      "explanation": "「on the topic of」は、会話の流れを変えずに、ある話題から関連する別の話題に移る際に使われる表現です。 例：On the topic of movies, have you seen the new superhero film? (映画について言えば、新しいスーパーヒーロー映画を見ましたか？)"
+    },
+    {
+      "id": 25,
+      "value": "delivery man",
+      "options": [
+        "配達員",
+        "医者",
+        "弁護士",
+        "教師"
+      ],
+      "correctAnswer": "配達員",
+      "explanation": "「delivery man」は荷物などを配達する人のことを指します。ここでは、花束を届ける人を指しています。例：The delivery man brought a package to my door. (配達員が私の家に荷物を届けました。)"
+    },
+    {
+      "id": 26,
+      "value": "score with",
+      "options": [
+        "得点する",
+        "仲良くする",
+        "デートに誘う",
+        "喧嘩する"
+      ],
+      "correctAnswer": "デートに誘う",
+      "explanation": "「score with someone」は、誰かを誘惑して性的な関係を持つ、またはデートに成功するという意味のスラングです。この文脈では、ペニーを誘惑しようとしたという意味になります。"
+    },
+    {
+      "id": 27,
+      "value": "rethinking",
+      "options": [
+        "再考する",
+        "拒否する",
+        "忘れる",
+        "却下する"
+      ],
+      "correctAnswer": "再考する",
+      "explanation": "「rethink」は、何かについてもう一度考える、再検討するという意味です。ここでは、雑誌側が記事の内容について再考していることを指します。"
+    },
+    {
+      "id": 28,
+      "value": "scathing",
+      "options": [
+        "優しい",
+        "痛烈な",
+        "面白い",
+        "短い"
+      ],
+      "correctAnswer": "痛烈な",
+      "explanation": "「scathing」は、非常に批判的で辛辣な、手厳しいという意味です。エイミーが送ったメールが非常に批判的な内容だったことを表しています。"
+    },
+    {
+      "id": 29,
+      "value": "let alone",
+      "options": [
+        "喜んで",
+        "〜は言うまでもなく",
+        "〜にも関わらず",
+        "〜を置いて"
+      ],
+      "correctAnswer": "〜は言うまでもなく",
+      "explanation": "「let alone」は、「〜は言うまでもなく」「〜はなおさら」という意味で、ある事柄がさらにありえないことを強調する際に使われます。ここでは、男性科学者の性的魅力をランキングする記事など考えられない、という意味合いです。"
+    },
+    {
+      "id": 30,
+      "value": "in bad taste",
+      "options": [
+        "美味しい",
+        "趣味が良い",
+        "趣味が悪い",
+        "健康に良い"
+      ],
+      "correctAnswer": "趣味が悪い",
+      "explanation": "「in bad taste」は、不適切で下品な、または無神経であることを意味します。この文脈では、雑誌の記事が不適切だと判断されたことを示しています。"
+    },
+    {
+      "id": 31,
+      "value": "publicity",
+      "options": [
+        "秘密",
+        "広報",
+        "人気",
+        "幸福"
+      ],
+      "correctAnswer": "広報",
+      "explanation": "「publicity」は、世間の注目や宣伝、広報活動を意味します。バーナデットが記事を通じて得られるはずだった広報の機会を指しています。"
+    },
+    {
+      "id": 32,
+      "value": "over the line",
+      "options": [
+        "成功",
+        "線を越える",
+        "正直",
+        "安全"
+      ],
+      "correctAnswer": "線を越える",
+      "explanation": "「over the line」は、言ってはならないことを言ったり、してはならないことをしたりして、限度を超えているという意味です。ここでは、バーナデットがエイミーに対して言い過ぎたことを謝罪しています。"
+    },
+    {
+      "id": 33,
+      "value": "vicious attack",
+      "options": [
+        "悪意のある攻撃",
+        "友好的な挨拶",
+        "丁寧な質問",
+        "素晴らしいアイデア"
+      ],
+      "correctAnswer": "悪意のある攻撃",
+      "explanation": "「vicious attack」は、悪意に満ちた攻撃、非難を意味します。バーナデットがエイミーに対して行った手厳しい言葉を指しています。"
+    },
+    {
+      "id": 34,
+      "value": "vasectomy",
+      "options": [
+        "整形手術",
+        "輸精管切除",
+        "美容整形",
+        "心臓手術"
+      ],
+      "correctAnswer": "輸精管切除",
+      "explanation": "「vasectomy」は、男性の避妊手術である輸精管切除術を意味します。ここでは、ジーン・ロッデンベリーが輸精管切除を受けたことを示唆しています。"
+    },
+    {
+      "id": 35,
+      "value": "vas deferens",
+      "options": [
+        "血管",
+        "脳",
+        "輸精管",
+        "脊髄"
+      ],
+      "correctAnswer": "輸精管",
+      "explanation": "「vas deferens」は、精巣から精液を運ぶ管である輸精管を意味します。シェルドンが医者の言葉を正確に言い換えています。"
+    },
+    {
+      "id": 36,
+      "value": "went where no man has gone before",
+      "options": [
+        "誰も行ったことのない場所へ行く",
+        "過去に戻る",
+        "宇宙旅行に行く",
+        "夢を見る"
+      ],
+      "correctAnswer": "誰も行ったことのない場所へ行く",
+      "explanation": "「go where no man has gone before」は、スタートレックの有名なフレーズで、「誰も行ったことのない場所へ行く」という意味です。ここでは、医者がジーン・ロッデンベリーの輸精管を切除したことを比喩的に表現しています。"
+    },
+    {
+      "id": 37,
+      "value": "urinary tracts",
+      "options": [
+        "消化器官",
+        "泌尿器",
+        "呼吸器官",
+        "生殖器官"
+      ],
+      "correctAnswer": "泌尿器",
+      "explanation": "「urinary tract」は、腎臓、尿管、膀胱、尿道など、尿を生成し排出する器官系である泌尿器を意味します。医者が有名人の泌尿器系の医者であることを示しています。"
+    },
+    {
+      "id": 38,
+      "value": "passed it",
+      "options": [
+        "合格する",
+        "渡す",
+        "通過する",
+        "排出する"
+      ],
+      "correctAnswer": "排出する",
+      "explanation": "「pass something」は、体内のものを排出するという意味で使われます。ここでは、ジェームズ・キャメロンが腎臓結石を排出したことを指しています。"
+    },
+    {
+      "id": 39,
+      "value": "tribble",
+      "options": [
+        "犬",
+        "スタートレックに出てくる毛玉のような生物",
+        "猫",
+        "鳥"
+      ],
+      "correctAnswer": "スタートレックに出てくる毛玉のような生物",
+      "explanation": "「tribble」は、スタートレックに登場する架空の生物で、毛玉のような形をしています。ここでは、ウィリアム・シャトナーからもらったものがトリブルかもしれないと言っています。"
+    },
+    {
+      "id": 40,
+      "value": "toupee",
+      "options": [
+        "カツラ",
+        "帽子",
+        "靴",
+        "服"
+      ],
+      "correctAnswer": "カツラ",
+      "explanation": "「toupee」は、男性用の部分かつら、つけ毛を意味します。ウィリアム・シャトナーからもらったものがトリブルかカツラかもしれないと言っています。"
+    },
+    {
+      "id": 41,
+      "value": "preach",
+      "options": [
+        "祈る",
+        "説教する",
+        "文句を言う",
+        "命令する"
+      ],
+      "correctAnswer": "説教する",
+      "explanation": "「preach」は、本来は説教するという意味ですが、ここではスラングとして、相手の意見に強く同意し、共感を示す言葉として使われています。"
+    },
+    {
+      "id": 42,
+      "value": "implacable",
+      "options": [
+        "陽気な",
+        "執拗な",
+        "友好的な",
+        "平和な"
+      ],
+      "correctAnswer": "執拗な",
+      "explanation": "「implacable」は、なだめることができない、執拗なという意味です。レナードのペニーに対するアプローチが執拗だったことを表しています。"
+    },
+    {
+      "id": 43,
+      "value": "relentless",
+      "options": [
+        "無慈悲な",
+        "穏やかな",
+        "楽しい",
+        "安全な"
+      ],
+      "correctAnswer": "無慈悲な",
+      "explanation": "「relentless」は、容赦ない、執拗なという意味です。レナードのペニーに対するアプローチが容赦なかったことを表しています。"
+    },
+    {
+      "id": 44,
+      "value": "badgering",
+      "options": [
+        "褒める",
+        "悩ます",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "悩ます",
+      "explanation": "「badger」は、しつこくせがむ、付きまとうという意味です。レナードがペニーをしつこく追いかけたことを表しています。"
+    },
+    {
+      "id": 45,
+      "value": "staph infection",
+      "options": [
+        "風邪",
+        "ブドウ球菌感染症",
+        "インフルエンザ",
+        "アレルギー"
+      ],
+      "correctAnswer": "ブドウ球菌感染症",
+      "explanation": "「staph infection」は、ブドウ球菌による感染症を意味します。レナードをブドウ球菌感染症に例えています。"
+    },
+    {
+      "id": 46,
+      "value": "urethra",
+      "options": [
+        "心臓",
+        "肺",
+        "尿道",
+        "胃"
+      ],
+      "correctAnswer": "尿道",
+      "explanation": "「urethra」は、尿を膀胱から体外へ排出する管である尿道を意味します。ペニーを尿道に例えています。"
+    },
+    {
+      "id": 47,
+      "value": "shake him",
+      "options": [
+        "彼を励ます",
+        "彼を避ける",
+        "彼を助ける",
+        "彼を愛する"
+      ],
+      "correctAnswer": "彼を避ける",
+      "explanation": "「shake someone」は、人をまく、振り切る、避けるという意味です。ペニーがレナードを避けることができなかったことを表しています。"
+    },
+    {
+      "id": 48,
+      "value": "gallant",
+      "options": [
+        "臆病な",
+        "勇敢な",
+        "ずる賢い",
+        "怠惰な"
+      ],
+      "correctAnswer": "勇敢な",
+      "explanation": "「gallant」は、勇敢な、騎士道精神のある、という意味です。ここでは、ハワードがレナードに、ペニーが尿道に例えられたことを擁護すべきだと言っています。"
+    },
+    {
+      "id": 49,
+      "value": "go your way",
+      "options": [
+        "成功する",
+        "失敗する",
+        "旅行する",
+        "迷う"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「go your way」は、うまくいく、成功するという意味です。ここでは、レナードがペニーとの会話に失敗したことを表しています。"
+    },
+    {
+      "id": 50,
+      "value": "awfully flirty",
+      "options": [
+        "とても真面目",
+        "とても魅力的",
+        "とても怠惰",
+        "とても内気"
+      ],
+      "correctAnswer": "とても魅力的",
+      "explanation": "「flirty」は、人に色目を使う、媚びるという意味です。「awfully」は「非常に」という意味なので、ここでは「非常に人に色目を使っていた」という意味になります。"
+    },
+    {
+      "id": 51,
+      "value": "deceitful",
+      "options": [
+        "正直な",
+        "不誠実な",
+        "勇敢な",
+        "賢い"
+      ],
+      "correctAnswer": "不誠実な",
+      "explanation": "「deceitful」は、人を欺く、騙すという意味を持つ形容詞です。意図的に嘘をついたり、誤解を招くような行動をしたりする人を指します。例えば、「a deceitful politician（不誠実な政治家）」のように使われます。"
+    },
+    {
+      "id": 52,
+      "value": "delightful",
+      "options": [
+        "不快な",
+        "楽しい",
+        "悲しい",
+        "退屈な"
+      ],
+      "correctAnswer": "楽しい",
+      "explanation": "「delightful」は、非常に楽しい、愉快な、魅力的なという意味を持つ形容詞です。人や物事、経験などが心地よく、喜びに満ちている様子を表します。例えば、「a delightful surprise（嬉しい驚き）」のように使われます。"
+    },
+    {
+      "id": 53,
+      "value": "lead you on",
+      "options": [
+        "案内する",
+        "裏切る",
+        "期待させる",
+        "無視する"
+      ],
+      "correctAnswer": "期待させる",
+      "explanation": "「lead someone on」は、人をその気にさせる、期待を持たせるという意味のイディオムです。特に恋愛関係において、相手に好意があるかのように振る舞い、実際には真剣な関係を望んでいない場合に使われます。例：I didn't mean to lead you on. (あなたをその気にさせるつもりはなかったのです。)"
+    },
+    {
+      "id": 54,
+      "value": "mumbling",
+      "options": [
+        "叫ぶ",
+        "はっきり話す",
+        "つぶやく",
+        "歌う"
+      ],
+      "correctAnswer": "つぶやく",
+      "explanation": "「mumble」は、口の中でぼそぼそと、不明瞭につぶやくという意味の動詞です。声が小さく、聞き取りにくい話し方を指します。例えば、「He mumbled something under his breath.（彼は何かを小声でつぶやいた。）」のように使われます。"
+    },
+    {
+      "id": 55,
+      "value": "what's the deal?",
+      "options": [
+        "どうしたの？",
+        "何が起きたの？",
+        "どういうこと？",
+        "取引は？"
+      ],
+      "correctAnswer": "どういうこと？",
+      "explanation": "「What's the deal?」は、状況や事柄について説明を求めたり、何が起こっているのかを知りたい時に使う口語的な表現です。「一体どういうこと？」「何が問題なの？」といったニュアンスが含まれます。取引や契約内容を尋ねる意味合いでも使われます。"
+    },
+    {
+      "id": 56,
+      "value": "upset",
+      "options": [
+        "幸せ",
+        "怒っている",
+        "安心している",
+        "退屈している"
+      ],
+      "correctAnswer": "怒っている",
+      "explanation": "「upset」は、動揺している、取り乱している、腹を立てている、という意味を持つ形容詞です。精神的に不安定で、不快な感情を抱いている状態を表します。例えば、「She was upset by the news.（彼女はその知らせに動揺した。）」のように使われます。"
+    },
+    {
+      "id": 57,
+      "value": "socialize",
+      "options": [
+        "孤立する",
+        "仕事をする",
+        "社会化する",
+        "交流する"
+      ],
+      "correctAnswer": "交流する",
+      "explanation": "「socialize」は、人々と交流する、打ち解けて付き合うという意味の動詞です。親睦を深めたり、社交的な活動に参加したりすることを指します。例えば、「We socialized with our neighbors.（私たちは近所の人々と交流した。）」のように使われます。"
+    },
+    {
+      "id": 58,
+      "value": "owe me one",
+      "options": [
+        "借金がある",
+        "感謝している",
+        "貸しがある",
+        "興味がない"
+      ],
+      "correctAnswer": "貸しがある",
+      "explanation": "「owe someone one」は、人に恩義がある、借りがあるという意味のイディオムです。相手に何かしてもらったことに対して、後で何かでお返しをしなければならない状況を表します。例：You owe me one. (これで君は僕に一つ借りができたな。)"
+    },
+    {
+      "id": 59,
+      "value": "Fortress of Solitude",
+      "options": [
+        "孤独の要塞",
+        "喜びの場所",
+        "秘密の庭",
+        "平和な家"
+      ],
+      "correctAnswer": "孤独の要塞",
+      "explanation": "「Fortress of Solitude」は、スーパーマンが人目を避けて過ごすために北極に作った隠れ家の名前です。転じて、誰にも邪魔されずに一人で過ごせる場所、または心を閉ざして孤独を守る場所という意味で使われます。"
+    },
+    {
+      "id": 60,
+      "value": "replica",
+      "options": [
+        "本物",
+        "複製",
+        "オリジナル",
+        "デザイン"
+      ],
+      "correctAnswer": "複製",
+      "explanation": "「replica」は、オリジナルを忠実に再現した複製、模造品という意味の名詞です。美術品や歴史的な建造物、有名な製品などを再現したものに使われます。例：a replica of the Mona Lisa（モナリザのレプリカ）"
+    },
+    {
+      "id": 61,
+      "value": "juicy tidbit",
+      "options": [
+        "重要な情報",
+        "興味深い小話",
+        "退屈なニュース",
+        "秘密の計画"
+      ],
+      "correctAnswer": "興味深い小話",
+      "explanation": "「juicy tidbit」は、面白くて興味をそそるような、他愛もない情報や噂話という意味の表現です。ゴシップや裏話など、刺激的な内容を含むことが多いです。例えば、「I heard a juicy tidbit about their divorce.（彼らの離婚について面白い話を聞いたよ。）」のように使われます。"
+    },
+    {
+      "id": 62,
+      "value": "tirelessly",
+      "options": [
+        "疲れて",
+        "精力的に",
+        "怠惰に",
+        "不注意に"
+      ],
+      "correctAnswer": "精力的に",
+      "explanation": "「tirelessly」は、疲れることなく、根気強く、精力的にという意味の副詞です。困難な状況でも、休むことなく努力し続ける様子を表します。例えば、「She worked tirelessly to support her family.（彼女は家族を支えるために精力的に働いた。）」のように使われます。"
+    },
+    {
+      "id": 63,
+      "value": "premise",
+      "options": [
+        "結論",
+        "前提",
+        "結果",
+        "仮説"
+      ],
+      "correctAnswer": "前提",
+      "explanation": "「premise」は、議論や推論の基礎となる前提、仮定という意味の名詞です。議論を展開するための出発点となる考え方や事実を指します。例えば、「The premise of his argument is flawed.（彼の議論の前提は誤っている。）」のように使われます。"
+    },
+    {
+      "id": 64,
+      "value": "get in on",
+      "options": [
+        "参加する",
+        "反対する",
+        "無視する",
+        "妨害する"
+      ],
+      "correctAnswer": "参加する",
+      "explanation": "「get in on」は、何かに参加する、仲間入りするという意味の口語的な表現です。特に、有利な状況や利益を得られる機会に加わることを指します。例：I want to get in on that deal. (その取引に参加したい。)"
+    },
+    {
+      "id": 65,
+      "value": "implacable",
+      "options": [
+        "満足できる",
+        "容赦ない",
+        "親切な",
+        "寛容な"
+      ],
+      "correctAnswer": "容赦ない",
+      "explanation": "「implacable」は、宥められない、なだめられない、容赦ないという意味の形容詞です。強い意志や感情を持ち、容易に変化しない様子を表します。例えば、「an implacable enemy（容赦ない敵）」のように使われます。"
+    },
+    {
+      "id": 66,
+      "value": "relentless",
+      "options": [
+        "穏やかな",
+        "執拗な",
+        "優しい",
+        "柔軟な"
+      ],
+      "correctAnswer": "執拗な",
+      "explanation": "「relentless」は、絶え間ない、容赦ない、執拗なという意味の形容詞です。困難や障害にもめげず、努力や追求を続ける様子を表します。例えば、「relentless pursuit（執拗な追求）」のように使われます。"
+    },
+    {
+      "id": 67,
+      "value": "mixed signals",
+      "options": [
+        "明確な指示",
+        "矛盾したサイン",
+        "秘密のメッセージ",
+        "偽りの情報"
+      ],
+      "correctAnswer": "矛盾したサイン",
+      "explanation": "「mixed signals」は、矛盾したサイン、曖昧な態度という意味の表現です。相手の意図や感情がはっきりせず、どのように対応すべきか迷う状況を表します。例えば、「She's sending me mixed signals.（彼女は私に曖昧な態度をとっている。）」のように使われます。"
+    },
+    {
+      "id": 68,
+      "value": "unconditional love",
+      "options": [
+        "条件付きの愛",
+        "無条件の愛",
+        "一方的な愛",
+        "偽りの愛"
+      ],
+      "correctAnswer": "無条件の愛",
+      "explanation": "「unconditional love」は、無条件の愛という意味の表現です。相手の欠点や過ちに関わらず、見返りを求めずに愛情を注ぐことを指します。例えば、「Parents should give their children unconditional love.（親は子供たちに無条件の愛を与えるべきだ。）」のように使われます。"
+    },
+    {
+      "id": 69,
+      "value": "handle",
+      "options": [
+        "無視する",
+        "扱う",
+        "避ける",
+        "隠す"
+      ],
+      "correctAnswer": "扱う",
+      "explanation": "「handle」は、（問題・状況など）を扱う、処理するという意味の動詞です。物事を管理したり、対応したりする能力を示す場合にも使われます。例：I can handle this situation. (私はこの状況に対処できます。)"
+    },
+    {
+      "id": 70,
+      "value": "get rid of",
+      "options": [
+        "手に入れる",
+        "維持する",
+        "捨てる",
+        "見つける"
+      ],
+      "correctAnswer": "捨てる",
+      "explanation": "「get rid of」は、不要なものや人を取り除く、処分するという意味のイディオムです。望ましくない状況から脱却する際にも使用されます。例：We need to get rid of this old furniture. (この古い家具を処分する必要があります。)"
+    },
+    {
+      "id": 71,
+      "value": "get away from",
+      "options": [
+        "近づく",
+        "逃れる",
+        "頼る",
+        "我慢する"
+      ],
+      "correctAnswer": "逃れる",
+      "explanation": "「get away from」は、場所や状況から逃れる、離れるという意味のフレーズです。ストレスやプレッシャーから解放されたい時に使われます。例：I need to get away from the city for a while. (しばらくの間、都会から離れる必要があります。)"
+    },
+    {
+      "id": 72,
+      "value": "yikes",
+      "options": [
+        "素晴らしい",
+        "うわっ",
+        "退屈だ",
+        "感動した"
+      ],
+      "correctAnswer": "うわっ",
+      "explanation": "「yikes」は、驚きや軽度の恐怖、不快感を表す感嘆詞です。予期せぬ事態や好ましくない状況に直面した際に使われます。例：Yikes, that spider is huge! (うわっ、あのクモはすごく大きい！)"
+    },
+    {
+      "id": 73,
+      "value": "defensive",
+      "options": [
+        "攻撃的な",
+        "防御的な",
+        "友好的な",
+        "無関心な"
+      ],
+      "correctAnswer": "防御的な",
+      "explanation": "「defensive」は、自己防衛的な、防御的なという意味の形容詞です。批判や非難に対して身を守ろうとする態度を示します。例：He became defensive when I questioned his decisions. (彼の決断に疑問を呈すると、彼は防御的になった。)"
+    },
+    {
+      "id": 74,
+      "value": "take care of",
+      "options": [
+        "無視する",
+        "世話をする",
+        "忘れる",
+        "邪魔する"
+      ],
+      "correctAnswer": "世話をする",
+      "explanation": "「take care of」は、人や物を世話する、管理するという意味のフレーズです。問題に対処したり、責任を持って行動する意味合いも含まれます。例：I have to take care of my younger brother. (私は弟の世話をしなければならない。)"
+    },
+    {
+      "id": 75,
+      "value": "hold the door",
+      "options": [
+        "ドアを開ける",
+        "ドアを閉める",
+        "ドアを支える",
+        "ドアを修理する"
+      ],
+      "correctAnswer": "ドアを開ける",
+      "explanation": "「hold the door」は、ドアを開けて待つ、ドアを開けたままにしておくという意味の表現です。人に親切にする行為を指します。例：Could you hold the door for me, please? (ドアを開けてもらえますか？)"
+    },
+    {
+      "id": 76,
+      "value": "get it",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "開始する"
+      ],
+      "correctAnswer": "手に入れる",
+      "explanation": "「get it」は、ここでは「理解する」という意味ではなく、「（欲しいものを）手に入れる、達成する」という意味で使われています。願望や目標の達成を応援する際に用いられる口語的な表現です。\n例：I hope you get it. (手に入れるといいね。)"
+    },
+    {
+      "id": 77,
+      "value": "switch",
+      "options": [
+        "維持する",
+        "交換する",
+        "隠す",
+        "完了する"
+      ],
+      "correctAnswer": "交換する",
+      "explanation": "「switch」は、ここでは「交換する」という意味で使われています。2つのものを互いに入れ替えることを指します。ヘルメットを交換するという文脈から、ゲーム中での役割交代などを提案していると考えられます。\n例：Let's switch places. (場所を交代しよう。)"
+    },
+    {
+      "id": 78,
+      "value": "take",
+      "options": [
+        "耐える",
+        "理解する",
+        "創造する",
+        "所有する"
+      ],
+      "correctAnswer": "耐える",
+      "explanation": "「take」は、ここでは「我慢する、耐える」という意味で使われています。困難や不快な状況に耐えられないという感情を表す際に用いられます。\n例：I can’t take this anymore. (もうこれ以上我慢できない。)"
+    },
+    {
+      "id": 79,
+      "value": "just be friends",
+      "options": [
+        "友達になる",
+        "恋人になる",
+        "家族になる",
+        "他人になる"
+      ],
+      "correctAnswer": "友達になる",
+      "explanation": "「just be friends」は、恋愛関係ではなく、友人関係にとどまることを意味する婉曲的な表現です。相手に恋愛感情がないことを伝える際に用いられます。\n例：I think we should just be friends. (私たちは友達のままでいるべきだと思う。)"
+    },
+    {
+      "id": 80,
+      "value": "bite",
+      "options": [
+        "噛む",
+        "食べる",
+        "殴る",
+        "蹴る"
+      ],
+      "correctAnswer": "噛む",
+      "explanation": "「bite」は、ここでは文字通り「噛む」という意味で使われています。相手が攻撃的かどうかを尋ねる際に用いられます。\n例：Does your dog bite? (あなたの犬は噛みますか？)"
+    },
+    {
+      "id": 81,
+      "value": "fool",
+      "options": [
+        "騙す",
+        "助ける",
+        "教育する",
+        "守る"
+      ],
+      "correctAnswer": "騙す",
+      "explanation": "「fool」は、「騙す、欺く」という意味で使われています。ここでは過去の経験から、相手に再び騙されることを警戒している様子を表しています。\n例：Don't be fooled by appearances. (外見に騙されるな。)"
+    },
+    {
+      "id": 82,
+      "value": "petting zoo",
+      "options": [
+        "ペットショップ",
+        "動物園",
+        "ふれあい動物園",
+        "水族館"
+      ],
+      "correctAnswer": "ふれあい動物園",
+      "explanation": "「petting zoo」は、動物に触れ合える小規模な動物園のことです。特に子供向けの施設で、動物との触れ合いを通じて癒しや教育効果が得られるとされています。\n例：We took the kids to a petting zoo. (私たちは子供たちをふれあい動物園に連れて行った。)"
+    },
+    {
+      "id": 83,
+      "value": "cut the apron strings",
+      "options": [
+        "自立する",
+        "依存する",
+        "協力する",
+        "反抗する"
+      ],
+      "correctAnswer": "自立する",
+      "explanation": "「cut the apron strings」は、親、特に母親への依存から脱却し、自立することを意味するイディオムです。成人した子供が精神的、経済的に親から独立する際に用いられます。\n例：It's time for him to cut the apron strings. (彼が自立する時だ。)"
+    },
+    {
+      "id": 84,
+      "value": "mess with",
+      "options": [
+        "整理する",
+        "関わる",
+        "混乱させる",
+        "無視する"
+      ],
+      "correctAnswer": "混乱させる",
+      "explanation": "「mess with」は、「からかう、ちょっかいを出す、干渉する」という意味で使われています。相手を不快にさせたり、困らせたりする行為を指します。\n例：Don't mess with me. (私をからかうな。)"
+    },
+    {
+      "id": 85,
+      "value": "creepy",
+      "options": [
+        "奇妙な",
+        "勇敢な",
+        "親切な",
+        "面白い"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "「creepy」は、「不気味な、気味の悪い」という意味で使われています。人の行動や雰囲気が不安や不快感を与えるときに用いられます。\n例：That old house is creepy. (あの古い家は不気味だ。)"
+    },
+    {
+      "id": 86,
+      "value": "chasing after",
+      "options": [
+        "追いかける",
+        "無視する",
+        "避ける",
+        "尊敬する"
+      ],
+      "correctAnswer": "追いかける",
+      "explanation": "「chase after」は、「追いかける、追い求める」という意味で使われています。興味や欲望の対象を追いかける様子を表します。\n例：He's always chasing after fame. (彼はいつも名声を追い求めている。)"
+    },
+    {
+      "id": 87,
+      "value": "know his way around",
+      "options": [
+        "道に迷う",
+        "精通している",
+        "無関心である",
+        "道案内をする"
+      ],
+      "correctAnswer": "精通している",
+      "explanation": "「know one's way around」は、「～に精通している、～に通じている」という意味で使われています。特定の分野や状況について十分な知識や経験を持っていることを指します。\n例：He knows his way around computers. (彼はコンピュータに詳しい。)"
+    },
+    {
+      "id": 88,
+      "value": "sticks",
+      "options": [
+        "くっつく",
+        "離れる",
+        "回転する",
+        "崩れる"
+      ],
+      "correctAnswer": "くっつく",
+      "explanation": "「stick」は、ここでは「くっつく、動かなくなる」という意味で使われています。ドアがスムーズに開閉しない状態を表します。\n例: The drawer sticks sometimes. (その引き出しは時々引っかかる。)"
+    },
+    {
+      "id": 89,
+      "value": "move it",
+      "options": [
+        "動かす",
+        "急ぐ",
+        "止める",
+        "隠す"
+      ],
+      "correctAnswer": "急ぐ",
+      "explanation": "「move it」は、「急げ、早くしろ」という意味の命令形です。相手に素早く行動するように促す際に用いられます。\n例：Move it! We're going to be late. (急げ！遅れるぞ。)"
+    },
+    {
+      "id": 90,
+      "value": "weirdo",
+      "options": [
+        "変人",
+        "英雄",
+        "友人",
+        "医者"
+      ],
+      "correctAnswer": "変人",
+      "explanation": "「weirdo」は、「変人、奇妙な人」という意味です。通常とは異なる言動をする人や、奇妙な趣味を持つ人を指す軽蔑的な言葉です。\n例：He's a bit of a weirdo. (彼は少し変わった人だ。)"
+    },
+    {
+      "id": 91,
+      "value": "uncool",
+      "options": [
+        "かっこ悪い",
+        "かっこいい",
+        "賢い",
+        "優しい"
+      ],
+      "correctAnswer": "かっこ悪い",
+      "explanation": "「uncool」は、「かっこ悪い、ダサい、非常識な」という意味で使われています。特に若者の間で、社会的に容認されない行動や態度を指す際に用いられます。\n例：That was a very uncool thing to do. (それはとても非常識な行為だった。)"
+    },
+    {
+      "id": 92,
+      "value": "hang on",
+      "options": [
+        "待つ",
+        "諦める",
+        "進む",
+        "忘れる"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、「待つ、辛抱する」という意味で使われています。相手に少しの間待つように促す際に用いられる口語的な表現です。\n例：Hang on a second. (ちょっと待って。)"
+    },
+    {
+      "id": 93,
+      "value": "spoiler alert",
+      "options": [
+        "ネタバレ注意",
+        "広告注意",
+        "危険注意",
+        "秘密注意"
+      ],
+      "correctAnswer": "ネタバレ注意",
+      "explanation": "「spoiler alert」は、「ネタバレ注意」という意味で、映画やドラマなどの内容について、事前に知ってしまうと面白さが損なわれる可能性のある情報を伝える前に使われる表現です。\n例：Spoiler alert: He dies in the end. (ネタバレ注意：彼は最後に死ぬ。)"
+    },
+    {
+      "id": 94,
+      "value": "get to know each other",
+      "options": [
+        "お互いを知る",
+        "お互いを忘れる",
+        "お互いを避ける",
+        "お互いを無視する"
+      ],
+      "correctAnswer": "お互いを知る",
+      "explanation": "「get to know each other」は、「お互いを知る、親しくなる」という意味です。関係を深めるために、相手についてより多くの情報を得ようとする過程を指します。\n例：We need to get to know each other better. (私たちはもっとお互いを知る必要がある。)"
+    }
+  ]
+}

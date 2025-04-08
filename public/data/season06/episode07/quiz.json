@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "franchise",
+      "options": [
+        "特権",
+        "義務",
+        "損失",
+        "遺産"
+      ],
+      "correctAnswer": "特権",
+      "explanation": "「franchise」は、ここでは人気のあるエンターテイメント作品シリーズを指します。一般的には、事業を行う権利や、特定のブランド名でビジネスを展開する権利を意味します。比喩的に、ある分野や活動における独占的な地位や影響力を指すこともあります。\n\n例：The Star Wars franchise is one of the most successful in history. (スター・ウォーズのフランチャイズは、歴史上最も成功したものの1つです。)"
+    },
+    {
+      "id": 2,
+      "value": "immortalized",
+      "options": [
+        "不滅にする",
+        "破壊する",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "不滅にする",
+      "explanation": "「immortalize」は、不滅にする、永遠に記憶されるようにするという意味です。ここでは、ウィル・ウィートンが1/16スケールのフィギュアとして永遠にその姿を留めていることを指しています。\n\n例：His achievements were immortalized in a statue. (彼の業績は像に刻まれ、不朽のものとなった。)"
+    },
+    {
+      "id": 3,
+      "value": "wooden",
+      "options": [
+        "熱狂的な",
+        "ぎこちない",
+        "勇敢な",
+        "大胆な"
+      ],
+      "correctAnswer": "ぎこちない",
+      "explanation": "「wooden」は、演技や話し方が硬く、ぎこちない様子を表します。感情や自然さが欠けている状態を指します。\n\n例：His performance was a bit wooden and lacked emotion. (彼の演技は少し硬く、感情に欠けていた。)"
+    },
+    {
+      "id": 4,
+      "value": "upbeat",
+      "options": [
+        "悲観的な",
+        "楽観的な",
+        "無関心な",
+        "批判的な"
+      ],
+      "correctAnswer": "楽観的な",
+      "explanation": "「upbeat」は、陽気で楽観的な、明るいという意味です。ここでは、番組の雰囲気を明るく保つように指示しています。\n\n例：The music was upbeat and made everyone want to dance. (その音楽は陽気で、誰もが踊りたくなるようだった。)"
+    },
+    {
+      "id": 5,
+      "value": "no offence",
+      "options": [
+        "気分を害して",
+        "気を悪くしないで",
+        "喜んで",
+        "全く問題ない"
+      ],
+      "correctAnswer": "気を悪くしないで",
+      "explanation": "「no offense」は、相手に不快な思いをさせたくない時に使う表現で、「気を悪くしないで」という意味です。\n\n例：No offense, but I think you're wrong. (気を悪くしないでほしいんだけど、君は間違っていると思う。)"
+    },
+    {
+      "id": 6,
+      "value": "direction",
+      "options": [
+        "指示",
+        "創造",
+        "非難",
+        "無視"
+      ],
+      "correctAnswer": "指示",
+      "explanation": "ここでは、演技や演出に関する指示、指導という意味です。より広い意味では、方向、指導、管理といった意味を持ちます。\n\n例：The movie lacked clear direction. (その映画は明確な方向性に欠けていた。)"
+    },
+    {
+      "id": 7,
+      "value": "forgive",
+      "options": [
+        "許す",
+        "非難する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "許す",
+      "explanation": "「forgive」は、許すという意味です。ここでは、初めての監督で不慣れな点を許してほしいというニュアンスで使われています。\n\n例：I hope you can forgive me for my mistake. (私の過ちを許してくれると嬉しいです。)"
+    },
+    {
+      "id": 8,
+      "value": "money's worth",
+      "options": [
+        "お金の価値",
+        "無料の価値",
+        "仕事の価値",
+        "時間の価値"
+      ],
+      "correctAnswer": "お金の価値",
+      "explanation": "「money's worth」は、支払った金額に見合う価値、対価という意味です。ここでは、無料でやってもらっているにも関わらず、その価値が十分に得られていないと感じていることを表しています。\n\n例：We didn't get our money's worth at that restaurant. (あのレストランでは、支払った金額に見合う価値が得られなかった。)"
+    },
+    {
+      "id": 9,
+      "value": "overacting",
+      "options": [
+        "控えめな演技",
+        "過剰な演技",
+        "自然な演技",
+        "無感情な演技"
+      ],
+      "correctAnswer": "過剰な演技",
+      "explanation": "「overacting」は、演技が過剰であること、大げさな演技をすることを意味します。不自然でわざとらしい演技を指すことが多いです。\n\n例：His overacting made the scene unbelievable. (彼の過剰な演技が、そのシーンを信じられないものにした。)"
+    },
+    {
+      "id": 10,
+      "value": "on purpose",
+      "options": [
+        "偶然に",
+        "故意に",
+        "無意識に",
+        "自然に"
+      ],
+      "correctAnswer": "故意に",
+      "explanation": "「on purpose」は、意図的に、故意にという意味です。\n\n例：He did it on purpose to make her angry. (彼は彼女を怒らせるために、わざとそうした。)"
+    },
+    {
+      "id": 11,
+      "value": "a pain in the ass",
+      "options": [
+        "素晴らしい人",
+        "厄介な人",
+        "親切な人",
+        "面白い人"
+      ],
+      "correctAnswer": "厄介な人",
+      "explanation": "「a pain in the ass」は、非常に不快な人や物事、厄介なことという意味です。非常に口語的で、親しい間柄で使われます。\n\n例：Dealing with the bureaucracy was a real pain in the ass. (官僚主義に対処するのは本当に厄介だった。)"
+    },
+    {
+      "id": 12,
+      "value": "sticky wicket",
+      "options": [
+        "簡単な問題",
+        "困難な問題",
+        "面白い問題",
+        "つまらない問題"
+      ],
+      "correctAnswer": "困難な問題",
+      "explanation": "「sticky wicket」は、困難な状況、厄介な問題という意味です。元々はクリケットの用語で、雨で湿った不安定なグラウンドの状態を指します。比喩的に、解決が難しい問題を指すようになりました。\n\n例：This situation is a bit of a sticky wicket. (この状況は少し厄介な問題だ。)"
+    },
+    {
+      "id": 13,
+      "value": "recognize",
+      "options": [
+        "無視する",
+        "認識する",
+        "軽蔑する",
+        "見下す"
+      ],
+      "correctAnswer": "認識する",
+      "explanation": "「recognize」は、認識する、見分けるという意味です。ここでは、ウィル・ウィートンが誰であるかを認識できる人が多いという意味で使われています。\n\n例：I didn't recognize you with your new haircut. (新しいヘアスタイルで、あなただとわからなかった。)"
+    },
+    {
+      "id": 14,
+      "value": "Come to think of it",
+      "options": [
+        "考えないようにする",
+        "考えてみれば",
+        "忘れてしまった",
+        "気にしない"
+      ],
+      "correctAnswer": "考えてみれば",
+      "explanation": "「Come to think of it」は、「そういえば」「考えてみれば」という意味で、何かを思い出したときに使う表現です。\n\n例：Come to think of it, I haven't seen him in a while. (そういえば、彼をしばらく見ていないな。)"
+    },
+    {
+      "id": 15,
+      "value": "on fire",
+      "options": [
+        "燃えている",
+        "絶好調",
+        "疲れている",
+        "落ち込んでいる"
+      ],
+      "correctAnswer": "絶好調",
+      "explanation": "「on fire」は、絶好調である、非常にうまくいっているという意味です。ここでは、エイミーの冗談が冴えていることを指しています。\n\n例：The team is on fire this season. (そのチームは今シーズン絶好調だ。)"
+    },
+    {
+      "id": 16,
+      "value": "refuses to",
+      "options": [
+        "喜んで～する",
+        "～することを拒否する",
+        "～することを計画する",
+        "～することを期待する"
+      ],
+      "correctAnswer": "～することを拒否する",
+      "explanation": "「refuse to」は、～することを拒否するという意味です。\n\n例：He refused to answer my question. (彼は私の質問に答えることを拒否した。)"
+    },
+    {
+      "id": 17,
+      "value": "Don't take it personally",
+      "options": [
+        "個人的に受け取って",
+        "個人的に受け取らないで",
+        "秘密にして",
+        "公表して"
+      ],
+      "correctAnswer": "個人的に受け取らないで",
+      "explanation": "「Don't take it personally」は、「個人的に受け取らないで」「気にしないで」という意味です。相手の発言や行動が自分に向けられたものではないと伝えたい時に使います。\n\n例：I'm not mad at you, don't take it personally. (あなたに怒っているわけじゃないから、気にしないで。)"
+    },
+    {
+      "id": 18,
+      "value": "lick the plates",
+      "options": [
+        "お皿を割る",
+        "お皿をなめる",
+        "お皿を洗う",
+        "お皿を飾る"
+      ],
+      "correctAnswer": "お皿をなめる",
+      "explanation": "「lick the plates」は、文字通りには「お皿をなめる」という意味ですが、ここでは、食べ物を無駄にしない、きれいに食べるという行為をユーモラスに表現しています。\n\n例：She licked the plate clean. (彼女は皿をきれいに平らげた。)"
+    },
+    {
+      "id": 19,
+      "value": "plenty of",
+      "options": [
+        "少しの",
+        "たくさんの",
+        "不足している",
+        "平均的な"
+      ],
+      "correctAnswer": "たくさんの",
+      "explanation": "「plenty of」は、たくさんの、十分なという意味です。\n\n例：There's plenty of food for everyone. (みんなのために十分な食べ物がある。)"
+    },
+    {
+      "id": 20,
+      "value": "bank stuff",
+      "options": [
+        "銀行の物",
+        "銀行の書類",
+        "銀行の強盗",
+        "銀行の設立"
+      ],
+      "correctAnswer": "銀行の書類",
+      "explanation": "「bank stuff」は、銀行関連の書類や手続き、個人的な銀行取引に関するものを指す口語的な表現です。\n\n例：I need to sort out my bank stuff this weekend. (週末に銀行の用事を済ませる必要がある。)"
+    },
+    {
+      "id": 21,
+      "value": "collectibles",
+      "options": [
+        "集めること",
+        "収集品",
+        "拒否すること",
+        "無視すること"
+      ],
+      "correctAnswer": "収集品",
+      "explanation": "「collectibles」は、収集品、収集価値のあるものを意味します。趣味で集めているものや、投資目的で集めているものなど、様々なものを含みます。\n\n例：He has a large collection of vintage toys. (彼はビンテージのおもちゃをたくさん収集している。)"
+    },
+    {
+      "id": 22,
+      "value": "electric body groomer",
+      "options": [
+        "電気マッサージ器",
+        "電気除雪機",
+        "電気シェーバー",
+        "電気バリカン"
+      ],
+      "correctAnswer": "電気シェーバー",
+      "explanation": "「electric body groomer」は、体の毛を整えるための電気シェーバーのことです。特に男性が体毛を処理するために使用するものを指します。\n\n例：He uses an electric body groomer to keep his body hair trimmed. (彼は体毛を整えるために電気シェーバーを使っている。)"
+    },
+    {
+      "id": 23,
+      "value": "plaid",
+      "options": [
+        "無地",
+        "縞模様",
+        "水玉模様",
+        "格子柄"
+      ],
+      "correctAnswer": "格子柄",
+      "explanation": "「plaid」は、格子柄、特にスコットランドのタータンチェックのような柄を指します。異なる色の糸を交差させて作る模様です。\n\n例：She wore a plaid skirt. (彼女は格子柄のスカートをはいていた。)"
+    },
+    {
+      "id": 24,
+      "value": "Goodwill store",
+      "options": [
+        "高級デパート",
+        "慈善団体が運営するリサイクルショップ",
+        "食料品店",
+        "おもちゃ屋"
+      ],
+      "correctAnswer": "慈善団体が運営するリサイクルショップ",
+      "explanation": "「Goodwill store」は、グッドウィルという慈善団体が運営するリサイクルショップのことです。寄付された中古品を販売し、その収益を社会福祉活動に充てています。\n\n例：I found a great vintage jacket at the Goodwill store. (グッドウィルで素晴らしいヴィンテージジャケットを見つけた。)"
+    },
+    {
+      "id": 25,
+      "value": "Can you believe it?",
+      "options": [
+        "信じられない？",
+        "本当なの？",
+        "知らなかった？",
+        "どうでもいい"
+      ],
+      "correctAnswer": "信じられない？",
+      "explanation": "「Can you believe it?」は、「信じられる？」「信じられないでしょう？」という意味で、驚きや信じられない気持ちを表現する際に使われます。\n\n例：I got this for only $5. Can you believe it? (これをたったの5ドルで手に入れたんだ。信じられる？)"
+    },
+    {
+      "id": 26,
+      "value": "kinda",
+      "options": [
+        "一種の",
+        "とても",
+        "全く",
+        "少し"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「kinda」は「kind of」の口語的な省略形で、「少し」「やや」といった意味合いを持ちます。フォーマルな場面では避けるべき表現です。例文：It's kinda late.（少し遅いね。）"
+    },
+    {
+      "id": 27,
+      "value": "get back from",
+      "options": [
+        "出発する",
+        "帰る",
+        "到着する",
+        "通過する"
+      ],
+      "correctAnswer": "帰る",
+      "explanation": "「get back from」は、「～から帰る」という意味です。旅行や出張などから戻る際に使われます。例文：When you get back from your trip, let's have dinner.（旅行から帰ってきたら、夕食に行きましょう。）"
+    },
+    {
+      "id": 28,
+      "value": "get at",
+      "options": [
+        "理解する",
+        "非難する",
+        "言いたいことを言う",
+        "到達する"
+      ],
+      "correctAnswer": "言いたいことを言う",
+      "explanation": "「get at」は、人が言おうとしていること、または暗示していることを理解したり、指摘したりする際に使われます。真意や意図を汲み取るニュアンスがあります。例文: I see what you're getting at. (あなたが何を言いたいのかわかります。)"
+    },
+    {
+      "id": 29,
+      "value": "box up",
+      "options": [
+        "修理する",
+        "梱包する",
+        "解放する",
+        "広げる"
+      ],
+      "correctAnswer": "梱包する",
+      "explanation": "「box up」は、「～を箱に詰める」「梱包する」という意味です。引っ越しや整理などの際に物を箱に入れる行為を指します。例文：I need to box up all my books before moving.（引っ越しの前に、すべての本を箱に詰めなければならない。）"
+    },
+    {
+      "id": 30,
+      "value": "raise heck",
+      "options": [
+        "大騒ぎする",
+        "静かにする",
+        "手伝う",
+        "悪魔を呼ぶ"
+      ],
+      "correctAnswer": "大騒ぎする",
+      "explanation": "「raise heck」は、「大騒ぎをする」「騒動を起こす」という意味の口語表現です。いたずらや悪ふざけのようなニュアンスが含まれることもあります。例文: The kids were raising heck in the backyard. (子供たちは裏庭で大騒ぎしていた。)"
+    },
+    {
+      "id": 31,
+      "value": "pain in the A-S-S",
+      "options": [
+        "素晴らしい人",
+        "面白い人",
+        "悩みの種",
+        "才能のある人"
+      ],
+      "correctAnswer": "悩みの種",
+      "explanation": "「pain in the A-S-S」は非常に口語的な表現で、「悩みの種」「厄介者」という意味です。不快感や苛立ちを強く表す際に使われます。類似の表現に「pain in the neck」があります。"
+    },
+    {
+      "id": 32,
+      "value": "huffy",
+      "options": [
+        "幸せな",
+        "怒った",
+        "悲しい",
+        "驚いた"
+      ],
+      "correctAnswer": "怒った",
+      "explanation": "「huffy」は、「むっとしている」「不機嫌な」という意味です。ちょっとしたことで怒ったり、不満を抱いたりする様子を表します。例文: She got huffy and left the room. (彼女はむっとして部屋を出て行った。)"
+    },
+    {
+      "id": 33,
+      "value": "kerfuffle",
+      "options": [
+        "静けさ",
+        "混乱",
+        "平和",
+        "秩序"
+      ],
+      "correctAnswer": "混乱",
+      "explanation": "「kerfuffle」は、「騒動」「混乱」という意味です。小さな口論や騒ぎ、もめ事を指すことが多いです。例文：There was a kerfuffle over the last piece of cake. (最後のケーキを巡って騒動があった。)"
+    },
+    {
+      "id": 34,
+      "value": "walked right out",
+      "options": [
+        "喜んで参加した",
+        "急いで出発した",
+        "ゆっくり歩いた",
+        "立ち止まった"
+      ],
+      "correctAnswer": "急いで出発した",
+      "explanation": "「walked right out」は、「さっさと出て行った」「出て行ってしまった」という意味です。怒りや不満を表して、その場を立ち去る様子を表します。例文: She got angry and walked right out. (彼女は怒ってさっさと出て行った。)"
+    },
+    {
+      "id": 35,
+      "value": "lactose-intolerant",
+      "options": [
+        "寛容な",
+        "不寛容な",
+        "乳糖不耐症の",
+        "辛抱強い"
+      ],
+      "correctAnswer": "乳糖不耐症の",
+      "explanation": "「lactose-intolerant」は、「乳糖不耐症の」という意味です。乳製品に含まれる乳糖を消化できない体質を指します。例文：Many adults are lactose-intolerant. (多くの大人が乳糖不耐症である。)"
+    },
+    {
+      "id": 36,
+      "value": "humble pie",
+      "options": [
+        "謙虚な食事",
+        "後悔",
+        "喜び",
+        "勝利"
+      ],
+      "correctAnswer": "後悔",
+      "explanation": "「eat humble pie」は、「自分の誤りを認める」「屈辱を味わう」という意味のイディオムです。失敗や間違いを認めざるを得ない状況を表します。例文：He had to eat humble pie after his prediction was proven wrong. (彼の予測が間違っていると証明された後、彼は誤りを認めざるを得なかった。)"
+    },
+    {
+      "id": 37,
+      "value": "set someone straight",
+      "options": [
+        "混乱させる",
+        "喜ばせる",
+        "安心させる",
+        "誤解を解く"
+      ],
+      "correctAnswer": "誤解を解く",
+      "explanation": "「set someone straight」は、「（人）の誤解を解く」「（人）に真実を伝える」という意味です。例文: Let me set you straight, that's not what happened. (誤解を解かせてください、それは起こったことではありません。)"
+    },
+    {
+      "id": 38,
+      "value": "emotional math",
+      "options": [
+        "感情的な論理",
+        "複雑な感情",
+        "感情的な誤り",
+        "合理的な判断"
+      ],
+      "correctAnswer": "感情的な論理",
+      "explanation": "「emotional math」は、感情に基づいて物事を判断する、あるいは感情的な側面を考慮に入れた計算や判断を指す、比喩的な表現です。必ずしも論理的でない感情的な思考パターンを意味することがあります。"
+    },
+    {
+      "id": 39,
+      "value": "take one's side",
+      "options": [
+        "無視する",
+        "反対する",
+        "味方をする",
+        "傍観する"
+      ],
+      "correctAnswer": "味方をする",
+      "explanation": "「take someone's side」は、「～の味方をする」「～を支持する」という意味です。議論や対立において、特定の人を支持する立場を明確にする際に使われます。例文：I always take my friend's side in an argument. (私はいつも議論では友達の味方をする。)"
+    },
+    {
+      "id": 40,
+      "value": "end of story",
+      "options": [
+        "物語の始まり",
+        "話が終わった",
+        "物語の途中",
+        "話の続き"
+      ],
+      "correctAnswer": "話が終わった",
+      "explanation": "「end of story」は、「話は終わり」「議論の余地はない」という意味です。自分の意見や決定を強く主張し、それ以上の議論を打ち切りたいときに使われます。例文：I've made up my mind, end of story. (決めたんだ、以上。)"
+    },
+    {
+      "id": 41,
+      "value": "slam",
+      "options": [
+        "静かにする",
+        "騒がしい",
+        "忙しい",
+        "空いている"
+      ],
+      "correctAnswer": "忙しい",
+      "explanation": "「slam」はここでは比喩的に使われており、「（場所が）非常に忙しい」「混雑している」という意味です。特にレストランや飲食店で使われることが多いです。例文：The restaurant was slammed last night. (昨夜、そのレストランは非常に混雑していた。)"
+    },
+    {
+      "id": 42,
+      "value": "on God",
+      "options": [
+        "神に誓って",
+        "神のみぞ知る",
+        "神のおかげで",
+        "神に逆らって"
+      ],
+      "correctAnswer": "神に誓って",
+      "explanation": "「on God」は、「神に誓って」という意味のスラングです。自分の言っていることが真実であることを強調する際に使われます。例文: I'm telling the truth, on God. (神に誓って本当のことを言っている。)"
+    },
+    {
+      "id": 43,
+      "value": "turn up",
+      "options": [
+        "減らす",
+        "現れる",
+        "消える",
+        "隠す"
+      ],
+      "correctAnswer": "現れる",
+      "explanation": "「turn up」は、「現れる」「姿を現す」という意味です。予期していなかったり、探していたものが現れたりする状況で使われます。例文：He turned up late for the meeting. (彼は会議に遅れて現れた。)"
+    },
+    {
+      "id": 44,
+      "value": "go down",
+      "options": [
+        "上がる",
+        "降りる",
+        "起こる",
+        "離れる"
+      ],
+      "correctAnswer": "起こる",
+      "explanation": "「go down」は、「起こる」「発生する」という意味です。特に、イベントや計画が実行される、または何らかの出来事が起こることを表します。例文: What's going down tonight? (今夜は何が起こるの？)"
+    },
+    {
+      "id": 45,
+      "value": "on the fly",
+      "options": [
+        "ゆっくりと",
+        "事前に",
+        "即座に",
+        "慎重に"
+      ],
+      "correctAnswer": "即座に",
+      "explanation": "「on the fly」は、「即座に」「その場で」という意味です。準備なしに、または移動中に何かを行う状況を表します。例文：I had to make a decision on the fly. (その場で決断しなければならなかった。)"
+    },
+    {
+      "id": 46,
+      "value": "out of the blue",
+      "options": [
+        "予想通りに",
+        "青空の下で",
+        "突然に",
+        "計画的に"
+      ],
+      "correctAnswer": "突然に",
+      "explanation": "「out of the blue」は、「突然に」「予期せずに」という意味です。例文：She called me out of the blue. (彼女が突然電話してきた。)"
+    },
+    {
+      "id": 47,
+      "value": "hit the books",
+      "options": [
+        "本を捨てる",
+        "本を整理する",
+        "勉強する",
+        "本を読む"
+      ],
+      "correctAnswer": "勉強する",
+      "explanation": "「hit the books」は、「一生懸命勉強する」という意味の口語表現です。試験やテストに向けて集中して勉強する際に使われます。例文：I have to hit the books tonight, I have a test tomorrow. (今夜は勉強しなければならない、明日テストがある。)"
+    },
+    {
+      "id": 48,
+      "value": "call it a day",
+      "options": [
+        "一日を始める",
+        "一日を終える",
+        "電話する",
+        "予定を立てる"
+      ],
+      "correctAnswer": "一日を終える",
+      "explanation": "「call it a day」は、「（その日の作業や活動を）終える」という意味のイディオムです。仕事や勉強などを切り上げて、休憩または帰宅する際に使われます。例文：It's getting late, let's call it a day. (遅くなってきたから、今日はこれで終わりにしよう。)"
+    },
+    {
+      "id": 49,
+      "value": "lose it",
+      "options": [
+        "見つける",
+        "怒る",
+        "忘れる",
+        "楽しむ"
+      ],
+      "correctAnswer": "怒る",
+      "explanation": "「lose it」は、「我を忘れる」「怒り出す」という意味です。感情をコントロールできなくなる状態を表します。例文：He lost it when he heard the news. (彼はそのニュースを聞いて怒り出した。)"
+    },
+    {
+      "id": 50,
+      "value": "butter someone up",
+      "options": [
+        "批判する",
+        "無視する",
+        "褒めちぎる",
+        "脅迫する"
+      ],
+      "correctAnswer": "褒めちぎる",
+      "explanation": "「butter someone up」は、「（人）におべっかを使う」「（人）を褒めちぎる」という意味のイディオムです。自分の利益のために、人に好かれようとする行為を表します。例文：He was trying to butter me up so I would give him a good grade. (彼は私におべっかを使って、良い成績をあげてもらおうとしていた。)"
+    },
+    {
+      "id": 51,
+      "value": "loosey-goosey",
+      "options": [
+        "厳格な",
+        "おおざっぱな",
+        "伝統的な",
+        "形式的な"
+      ],
+      "correctAnswer": "おおざっぱな",
+      "explanation": "「loosey-goosey」は、リラックスしていて、形式ばらず、柔軟な状態を指す口語表現です。規則や規律に縛られない、のんびりとした態度や状況を表します。ここではハワードの宗教観が形式ばらないことを示しています。"
+    },
+    {
+      "id": 52,
+      "value": "schmekel",
+      "options": [
+        "つま先",
+        "腕",
+        "男性器",
+        "頭"
+      ],
+      "correctAnswer": "男性器",
+      "explanation": "\"Schmekel\" は、主にイディッシュ語に由来する俗語で、男性器を指す言葉です。ここでは、ハワードがユダヤ教徒であることを冗談めかして表現しています。"
+    },
+    {
+      "id": 53,
+      "value": "waiting on",
+      "options": [
+        "待機する",
+        "依存する",
+        "給仕する",
+        "期待する"
+      ],
+      "correctAnswer": "給仕する",
+      "explanation": "「wait on」は、レストランなどで客に給仕するという意味です。ペニーがウェイトレスとして働いている状況で使われています。"
+    },
+    {
+      "id": 54,
+      "value": "badgering",
+      "options": [
+        "励ます",
+        "褒める",
+        "苦しめる",
+        "無視する"
+      ],
+      "correctAnswer": "苦しめる",
+      "explanation": "「badger」は、しつこく問い詰めたり、困らせたりすることを意味します。ハワードが、引っ越しについて Bernadette と Penny にしつこく言われることにうんざりしている状況を表しています。"
+    },
+    {
+      "id": 55,
+      "value": "for her benefit",
+      "options": [
+        "彼女のために",
+        "彼女の利益のために",
+        "彼女の演技のために",
+        "彼女の秘密のために"
+      ],
+      "correctAnswer": "彼女のために",
+      "explanation": "「for someone's benefit」は、誰かのために、あるいは誰かの利益になるようにという意味です。ハワードが、Pennyに聞こえるように言ったことを示唆しています。"
+    },
+    {
+      "id": 56,
+      "value": "body of work",
+      "options": [
+        "仕事仲間",
+        "作品群",
+        "体の構造",
+        "研究対象"
+      ],
+      "correctAnswer": "作品群",
+      "explanation": "「body of work」は、あるアーティストや作家などが生涯にわたって制作した作品の全体を指します。ここでは、ウィル・ウィートンの出演作品全体を指しています。"
+    },
+    {
+      "id": 57,
+      "value": "hooked",
+      "options": [
+        "興味を持った",
+        "疲れた",
+        "混乱した",
+        "怒った"
+      ],
+      "correctAnswer": "興味を持った",
+      "explanation": "「hooked」は、何かに夢中になったり、ハマったりすることを意味します。ここでは、エイミーがスタートレックのDVDに興味を持ったことを示唆しています。"
+    },
+    {
+      "id": 58,
+      "value": "end of an era",
+      "options": [
+        "新しい時代の始まり",
+        "時代の終わり",
+        "平凡な日",
+        "休日"
+      ],
+      "correctAnswer": "時代の終わり",
+      "explanation": "「end of an era」は、ある時代や期間の終わりを意味します。ハワードが実家を出るという状況を、大げさに表現しています。"
+    },
+    {
+      "id": 59,
+      "value": "if these walls could talk",
+      "options": [
+        "秘密を守る",
+        "もし壁が話せたら",
+        "真実を語る",
+        "過去を忘れる"
+      ],
+      "correctAnswer": "もし壁が話せたら",
+      "explanation": "「If these walls could talk」は、文字通りには「もしこれらの壁が話せたら」という意味ですが、比喩的には、その場所で起きた多くの出来事や秘密が明らかになるだろう、という意味合いで使われます。ハワードの部屋で起きた様々な出来事を想像させる表現です。"
+    },
+    {
+      "id": 60,
+      "value": "go on ahead",
+      "options": [
+        "先へ進む",
+        "立ち止まる",
+        "引き返す",
+        "急ぐ"
+      ],
+      "correctAnswer": "先へ進む",
+      "explanation": "「go on ahead」は、他の人よりも先に進む、または先に何かを始めるという意味です。ここでは、レナードに先にトラックに荷物を積み込むように促しています。"
+    },
+    {
+      "id": 61,
+      "value": "fondle",
+      "options": [
+        "修理する",
+        "愛撫する",
+        "掃除する",
+        "無視する"
+      ],
+      "correctAnswer": "愛撫する",
+      "explanation": "「fondle」は、愛情を込めて優しく触る、愛撫するという意味ですが、ここでは性的な意味合いを含んだジョークとして使われています。"
+    },
+    {
+      "id": 62,
+      "value": "what brings you in?",
+      "options": [
+        "何を持ってきたの？",
+        "どうしたの？",
+        "なぜ来たの？",
+        "何かあったの？"
+      ],
+      "correctAnswer": "なぜ来たの？",
+      "explanation": "「What brings you in?」は、誰かが特定の場所に来た理由を尋ねる際に使われる一般的な表現です。ここでは、ペニーがシェルドンにバーに来た理由を尋ねています。"
+    },
+    {
+      "id": 63,
+      "value": "sooner or later",
+      "options": [
+        "今すぐ",
+        "絶対にない",
+        "後で",
+        "いずれ"
+      ],
+      "correctAnswer": "いずれ",
+      "explanation": "「sooner or later」は、遅かれ早かれ、いつかはという意味です。ある出来事が起こるのが時間の問題であることを示唆する際に使われます。"
+    },
+    {
+      "id": 64,
+      "value": "fuzz",
+      "options": [
+        "知識",
+        "産毛",
+        "悩み",
+        "才能"
+      ],
+      "correctAnswer": "産毛",
+      "explanation": "「fuzz」は、柔らかい毛やけば、ここでは特に思春期に生えてくる体毛のことを指しています。シェルドンの成長に関するジョークとして使われています。"
+    },
+    {
+      "id": 65,
+      "value": "on the horns of a dilemma",
+      "options": [
+        "ジレンマに陥っている",
+        "喜んでいる",
+        "リラックスしている",
+        "準備ができている"
+      ],
+      "correctAnswer": "ジレンマに陥っている",
+      "explanation": "「on the horns of a dilemma」は、板挟みの状態、ジレンマに直面している状態を意味するイディオムです。2つの選択肢の間で悩んでいる状況を表します。"
+    },
+    {
+      "id": 66,
+      "value": "for the record",
+      "options": [
+        "念のため",
+        "記録のために",
+        "秘密に",
+        "個人的に"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「for the record」は、念のため、言っておくけど、という意味で、自分の発言を明確にするために使われます。ここでは、シェルドンが自分の体毛について補足するために使っています。"
+    },
+    {
+      "id": 67,
+      "value": "cut it",
+      "options": [
+        "成功する",
+        "失敗する",
+        "理解する",
+        "解決する"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「cut it」は、必要な水準に達する、十分である、という意味です。ここでは、カモミールティーでは神経を落ち着かせるのに十分ではないだろう、という意味で使われています。"
+    },
+    {
+      "id": 68,
+      "value": "calm the pants off me",
+      "options": [
+        "怒らせる",
+        "興奮させる",
+        "落ち着かせる",
+        "退屈させる"
+      ],
+      "correctAnswer": "落ち着かせる",
+      "explanation": "「calm the pants off someone」は、非常に落ち着かせる、リラックスさせるという意味の口語表現です。Long Island Iced Teaの効果を誇張して表現しています。"
+    },
+    {
+      "id": 69,
+      "value": "nonsense",
+      "options": [
+        "常識",
+        "無意味",
+        "秘密",
+        "才能"
+      ],
+      "correctAnswer": "無意味",
+      "explanation": "「nonsense」は、無意味なこと、ばかげたことを意味します。シェルドンが女性の性質を批判的に表現する際に使っています。"
+    },
+    {
+      "id": 70,
+      "value": "twaddle",
+      "options": [
+        "知恵",
+        "才能",
+        "無駄話",
+        "秘密"
+      ],
+      "correctAnswer": "無駄話",
+      "explanation": "「twaddle」は、くだらない話、たわごと、という意味です。シェルドンが女性の性質を批判的に表現する際に使っています。「nonsense」と似た意味合いで使用されています。"
+    },
+    {
+      "id": 71,
+      "value": "warm her twaddle",
+      "options": [
+        "彼女を怒らせる",
+        "彼女を喜ばせる",
+        "彼女を困らせる",
+        "彼女を無視する"
+      ],
+      "correctAnswer": "彼女を喜ばせる",
+      "explanation": "ここでは「twaddle」は比喩的に「心」を指しており、文字通りには「彼女の心を温める」という意味になります。謝罪することでエイミーの気持ちが和らぐことを示唆しています。"
+    },
+    {
+      "id": 72,
+      "value": "Band-Aid",
+      "options": [
+        "根本的な解決策",
+        "一時しのぎの解決策",
+        "複雑な問題",
+        "簡単な問題"
+      ],
+      "correctAnswer": "一時しのぎの解決策",
+      "explanation": "「Band-Aid」は、絆創膏のことですが、比喩的には一時しのぎの解決策、応急処置という意味で使われます。根本的な解決にはならないことを示唆しています。"
+    },
+    {
+      "id": 73,
+      "value": "hard row to hoe",
+      "options": [
+        "簡単な仕事",
+        "困難な仕事",
+        "楽しい経験",
+        "退屈な仕事"
+      ],
+      "correctAnswer": "困難な仕事",
+      "explanation": "「hard row to hoe」は、困難な仕事、骨の折れる仕事という意味のイディオムです。ここでは、レナードがシェルドンにペニーを好きになってもらうのが大変だったことを表しています。"
+    },
+    {
+      "id": 74,
+      "value": "cheers",
+      "options": [
+        "さようなら",
+        "こんにちは",
+        "ありがとう",
+        "乾杯"
+      ],
+      "correctAnswer": "乾杯",
+      "explanation": "「cheers」は、乾杯の際に使われる言葉ですが、ここでは感謝の気持ちを表す言葉としても使われています。"
+    },
+    {
+      "id": 75,
+      "value": "a treat that’s hard to beat",
+      "options": [
+        "簡単に作れるおやつ",
+        "他のおやつより劣るおやつ",
+        "最高のおやつ",
+        "普通のおやつ"
+      ],
+      "correctAnswer": "最高のおやつ",
+      "explanation": "「a treat that's hard to beat」は、非常に素晴らしいもの、他に匹敵するものがないほど良いものを意味します。ここでは、Long Island Iced Tea が非常に美味しいことを表現しています。"
+    },
+    {
+      "id": 76,
+      "value": "Far be it from me",
+      "options": [
+        "私には関係ない",
+        "批判するつもりはない",
+        "同意する",
+        "手伝う"
+      ],
+      "correctAnswer": "批判するつもりはない",
+      "explanation": "「Far be it from me to...」は、「～するつもりは毛頭ない」という意味の婉曲的な表現です。相手に配慮しつつ、自分の意見を述べるときに使われます。ここでは、ペニーが「口出しするつもりはないけど」というニュアンスで使っています。\n\n例：Far be it from me to judge, but I think he's making a mistake.（彼を批判するつもりはないけど、彼は間違っていると思う。）"
+    },
+    {
+      "id": 77,
+      "value": "stood up for",
+      "options": [
+        "支持する",
+        "無視する",
+        "反対する",
+        "隠す"
+      ],
+      "correctAnswer": "支持する",
+      "explanation": "「stand up for」は、「～を擁護する、支持する」という意味です。特に、誰かが攻撃されたり、不当な扱いを受けているときに、その人を守るために行動することを指します。ここでは、テキサス出身の人が女性を守るべきだ、という一般的なイメージから使われています。\n\n例：Sheldon stood up for Amy when Wil insulted her.（ウィルがエイミーを侮辱したとき、シェルドンは彼女を擁護した。）"
+    },
+    {
+      "id": 78,
+      "value": "evolved beyond",
+      "options": [
+        "～を超えて進化した",
+        "～に退化した",
+        "～を無視した",
+        "～に固執した"
+      ],
+      "correctAnswer": "～を超えて進化した",
+      "explanation": "「evolve beyond」は、「～を超えて進化する」という意味です。ここでは、シェルドンが自分の田舎育ちの単純な考え方から脱却した、という意味で使われています。\n\n例：His thinking has evolved beyond simple solutions.（彼の考え方は、単純な解決策を超えて進化している。）"
+    },
+    {
+      "id": 79,
+      "value": "low-down polecat",
+      "options": [
+        "卑劣な人",
+        "正直な人",
+        "勇敢な人",
+        "賢い人"
+      ],
+      "correctAnswer": "卑劣な人",
+      "explanation": "「low-down polecat」は、非常に軽蔑的な表現で、「卑劣な人」「悪党」といった意味合いを持ちます。「polecat」はスカンクの一種で、悪臭を放つことから、嫌われ者を指す言葉として使われます。\n\n例：He's a low-down polecat who would steal from his own mother.（彼は自分の母親からでも盗むような卑劣な奴だ。）"
+    },
+    {
+      "id": 80,
+      "value": "done wronged",
+      "options": [
+        "不正を行った",
+        "正当な行いをした",
+        "誤解された",
+        "助けられた"
+      ],
+      "correctAnswer": "不正を行った",
+      "explanation": "「do wrong」は、「不正を行う、悪いことをする」という意味です。「done wronged」は、その過去分詞形を使った表現で、ここでは「(Wil WheatonがAmyに対して)悪いことをした」という意味になります。\n\n例：He has done wronged to many people in the past.（彼は過去に多くの人々に対して悪いことをした。）"
+    },
+    {
+      "id": 81,
+      "value": "unique blend",
+      "options": [
+        "独特な組み合わせ",
+        "一般的な組み合わせ",
+        "単純な構造",
+        "複雑な構造"
+      ],
+      "correctAnswer": "独特な組み合わせ",
+      "explanation": "「unique blend」は、「独特な組み合わせ」という意味です。ここでは、エイミーが聖人のような側面とリスのような側面を併せ持っていることを表現しています。\n\n例：Her personality is a unique blend of intelligence and humor.（彼女の性格は、知性とユーモアの独特な組み合わせだ。）"
+    },
+    {
+      "id": 82,
+      "value": "callous egomaniac",
+      "options": [
+        "冷淡な自己中心主義者",
+        "親切な利他主義者",
+        "謙虚な努力家",
+        "熱心な協力者"
+      ],
+      "correctAnswer": "冷淡な自己中心主義者",
+      "explanation": "「callous egomaniac」は、「冷淡な自己中心主義者」という意味です。「callous」は無神経、冷淡であることを、「egomaniac」は極端な自己中心主義者を指します。シェルドンが自分自身を皮肉って表現しています。\n\n例：He is a callous egomaniac who only cares about himself.（彼は自分自身のことしか気にしない冷淡な自己中心主義者だ。）"
+    },
+    {
+      "id": 83,
+      "value": "officially moved out",
+      "options": [
+        "正式に引っ越した",
+        "一時的に滞在した",
+        "内緒で引っ越した",
+        "引っ越しを拒否した"
+      ],
+      "correctAnswer": "正式に引っ越した",
+      "explanation": "「officially move out」は、「正式に引っ越す」という意味です。ここでは、ハワードが母親の家から正式に出て、ベルナデットとの生活を始めることを意味しています。\n\n例：I officially moved out of my parents' house last year.（私は昨年、正式に両親の家から引っ越した。）"
+    },
+    {
+      "id": 84,
+      "value": "a lot for a kid to deal with",
+      "options": [
+        "子供が対処するには大変なこと",
+        "子供には簡単なこと",
+        "子供には無関係なこと",
+        "子供にとって楽しいこと"
+      ],
+      "correctAnswer": "子供が対処するには大変なこと",
+      "explanation": "「a lot for a kid to deal with」は、「子供が対処するには大変なこと」という意味です。ここでは、ハワードが子供の頃に父親が家を出て、母親の面倒を見なければならなかった状況を指しています。\n\n例：It was a lot for a kid to deal with when his parents divorced.（彼の両親が離婚したとき、それは子供が対処するには大変なことだった。）"
+    },
+    {
+      "id": 85,
+      "value": "cheer her up",
+      "options": [
+        "彼女を元気づける",
+        "彼女を怒らせる",
+        "彼女を無視する",
+        "彼女を悲しませる"
+      ],
+      "correctAnswer": "彼女を元気づける",
+      "explanation": "「cheer someone up」は、「～を元気づける」という意味です。ここでは、ハワードが母親を元気づけるために、色々なことをしていたことを指しています。\n\n例：I tried to cheer her up by telling her a joke.（私は彼女に冗談を言って元気づけようとした。）"
+    },
+    {
+      "id": 86,
+      "value": "got into magic",
+      "options": [
+        "マジックに夢中になった",
+        "マジックが嫌いになった",
+        "マジックを諦めた",
+        "マジックを始めた"
+      ],
+      "correctAnswer": "マジックに夢中になった",
+      "explanation": "「get into something」は、「～に夢中になる、興味を持つ」という意味です。ここでは、ハワードが母親を喜ばせるためにマジックに夢中になったことを指しています。\n\n例：I got into photography when I was in college.（私は大学生の時に写真に夢中になった。）"
+    },
+    {
+      "id": 87,
+      "value": "part way through",
+      "options": [
+        "途中で",
+        "最初から",
+        "最後まで",
+        "直前に"
+      ],
+      "correctAnswer": "途中で",
+      "explanation": "「part way through」は、「途中で」という意味です。ここでは、ハワードがマジックショーの途中で母親を舞台に招いていたことを指しています。\n\n例：Part way through the movie, I realized I had seen it before.（映画の途中で、前に見たことがあることに気づいた。）"
+    },
+    {
+      "id": 88,
+      "value": "grab a box",
+      "options": [
+        "箱を持ってくる",
+        "箱を捨てる",
+        "箱に隠れる",
+        "箱を壊す"
+      ],
+      "correctAnswer": "箱を持ってくる",
+      "explanation": "「grab a box」は、「箱を持ってくる」という意味です。ここでは、ベルナデットがハワードの母親の家に泊まるために必要なものを入れる箱を持ってくるように言っています。\n\n例：Grab a box, we need to pack up these books.（箱を持ってきて、これらの本を詰めなければならない。）"
+    },
+    {
+      "id": 89,
+      "value": "break his mother’s heart",
+      "options": [
+        "母親の心を傷つける",
+        "母親を喜ばせる",
+        "母親を助ける",
+        "母親を無視する"
+      ],
+      "correctAnswer": "母親の心を傷つける",
+      "explanation": "「break someone's heart」は、「～の心を傷つける」という意味です。ここでは、ハワードが母親の家を出て、一人暮らしをすることが母親の心を傷つけることを意味しています。\n\n例：I didn't want to break her heart by telling her the truth.（彼女に真実を伝えて心を傷つけたくなかった。）"
+    },
+    {
+      "id": 90,
+      "value": "what’s up?",
+      "options": [
+        "どうしたの？",
+        "どこに行くの？",
+        "何をしているの？",
+        "誰なの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、日常会話でよく使われる挨拶で、「どうしたの？」「何かあったの？」「元気？」といった意味合いを持ちます。ここでは、ウィルがシェルドンに何か用があるのか尋ねています。\n\n例：I called her yesterday to ask her \"What's up?\".（昨日彼女に電話して「何かあったの？」と尋ねた。）"
+    },
+    {
+      "id": 91,
+      "value": "Need I say more?",
+      "options": [
+        "言うまでもないだろう",
+        "もっと詳しく言う必要があるか？",
+        "何も言う必要はない",
+        "何か言うべきか？"
+      ],
+      "correctAnswer": "言うまでもないだろう",
+      "explanation": "「Need I say more?」は、「これ以上言う必要があるだろうか？」「言うまでもないだろう」という意味です。ここでは、シェルドンが自分がテキサス出身であることを強調し、それだけでウィルがエイミーを侮辱したことに対する報復に来た理由を理解すべきだと示唆しています。\n\n例：I think the evidence speaks for itself, need I say more?（証拠はそれ自体を物語っていると思う。これ以上言う必要があるだろうか？)"
+    },
+    {
+      "id": 92,
+      "value": "prepare yourself for what may come",
+      "options": [
+        "これから起こることに備えろ",
+        "過去を振り返れ",
+        "未来を予測しろ",
+        "現状維持に努めろ"
+      ],
+      "correctAnswer": "これから起こることに備えろ",
+      "explanation": "「prepare yourself for what may come」は、「これから起こることに備えろ」という意味です。ここでは、シェルドンがウィルに対して、これから起こるかもしれない事態（主に彼の報復）に覚悟するように警告しています。\n\n例：Prepare yourself for what may come; the exam will be difficult.（これから起こることに備えろ。試験は難しいだろう。）"
+    },
+    {
+      "id": 93,
+      "value": "milking a giant invisible cow",
+      "options": [
+        "無意味なことをしている",
+        "努力している",
+        "休憩している",
+        "楽しんでいる"
+      ],
+      "correctAnswer": "無意味なことをしている",
+      "explanation": "「milking a giant invisible cow」は、文字通りには「巨大な見えない牛の乳を搾る」という意味ですが、ここでは「無意味なことをしている」という比喩的な意味で使われています。シェルドンが自分の拳を振り上げているのは、決して遊びではなく、ウィルに謝罪させるためだと主張しています。\n\n例：He's just milking a giant invisible cow if he thinks he can get away with that.（彼があれでうまく逃げ切れると思っているなら、それは無意味なことだ。）"
+    },
+    {
+      "id": 94,
+      "value": "beat an apology out of you",
+      "options": [
+        "無理やり謝罪させる",
+        "心から謝罪する",
+        "謝罪を拒否する",
+        "謝罪を受け入れる"
+      ],
+      "correctAnswer": "無理やり謝罪させる",
+      "explanation": "「beat an apology out of someone」は、「～から無理やり謝罪させる」という意味です。ここでは、シェルドンがウィルを殴ってでも謝らせようとしていることを示唆しています。\n\n例：I'm going to beat an apology out of him for what he said.（彼が言ったことに対して、彼から無理やり謝罪させるつもりだ。）"
+    },
+    {
+      "id": 95,
+      "value": "a long bus ride for not very much",
+      "options": [
+        "大したことのないことのために長距離バスに乗った",
+        "短いバスの旅だった",
+        "バスに乗らなかった",
+        "非常に価値のある旅だった"
+      ],
+      "correctAnswer": "大したことのないことのために長距離バスに乗った",
+      "explanation": "「a long bus ride for not very much」は、「大したことのないことのために長距離バスに乗った」という意味です。ここでは、シェルドンがウィルに謝罪させるためにわざわざバスで来たのに、簡単に謝罪されてしまい、骨折り損だったことを表現しています。\n\n例：It was a long bus ride for not very much; the meeting was canceled at the last minute.（会議は直前にキャンセルされ、大したことのないことのために長距離バスに乗ったことになった。）"
+    },
+    {
+      "id": 96,
+      "value": "As a matter of idle curiosity",
+      "options": [
+        "ただの興味本位で",
+        "非常に重要な質問として",
+        "緊急の質問として",
+        "個人的な質問として"
+      ],
+      "correctAnswer": "ただの興味本位で",
+      "explanation": "「As a matter of idle curiosity」は、「ただの興味本位で」という意味です。ここでは、シェルドンがこれからする質問は特に重要ではなく、単に気になったから聞くだけだということを示しています。フォーマルな場面で使われることが多い表現です。\n\n例：As a matter of idle curiosity, what do you plan to do after graduation?（ただの興味本位ですが、卒業後どうする予定ですか？)"
+    },
+    {
+      "id": 97,
+      "value": "shrubberies",
+      "options": [
+        "庭木",
+        "建物",
+        "車",
+        "食べ物"
+      ],
+      "correctAnswer": "庭木",
+      "explanation": "「shrubbery」は、「庭木、低木」という意味です。ここでは、シェルドンがウィルの家の庭にある庭木のことを指しています。彼はどこに吐くのが良いか尋ねているため、婉曲的に「吐く場所」を指しています。\n\n例：The garden was filled with beautiful shrubberies.（庭は美しい庭木でいっぱいだった。）"
+    },
+    {
+      "id": 98,
+      "value": "thorough vomiting",
+      "options": [
+        "徹底的な嘔吐",
+        "軽い吐き気",
+        "完全な回復",
+        "軽い運動"
+      ],
+      "correctAnswer": "徹底的な嘔吐",
+      "explanation": "「thorough vomiting」は、「徹底的な嘔吐」という意味です。ここでは、シェルドンがどの庭木に徹底的に嘔吐するのが良いか尋ねているため、かなり強い嘔吐を伴うことを示唆しています。皮肉を込めたユーモラスな表現です。\n\n例：After eating the spoiled food, he experienced thorough vomiting.（腐った食べ物を食べた後、彼は徹底的な嘔吐を経験した。）"
+    },
+    {
+      "id": 99,
+      "value": "Get ready for",
+      "options": [
+        "〜に備えろ",
+        "〜を無視しろ",
+        "〜を拒否しろ",
+        "〜を忘れろ"
+      ],
+      "correctAnswer": "〜に備えろ",
+      "explanation": "「Get ready for」は、「～に備えろ」「覚悟しろ」という意味で、これから起こる事柄に対する準備を促す表現です。\n\n例：Get ready for a very special episode. (非常に特別なエピソードに備えろ。)"
+    },
+    {
+      "id": 100,
+      "value": "obligated to",
+      "options": [
+        "〜する義務がある",
+        "〜する必要がない",
+        "〜を希望する",
+        "〜を拒否する"
+      ],
+      "correctAnswer": "〜する義務がある",
+      "explanation": "「obligated to」は、「～する義務がある」「～しなければならない」という意味で、道徳的、法的、または状況的に何かをしなければならない状態を表します。\n\n例：I'm obligated to agree with her. (私は彼女に同意する義務がある。)"
+    }
+  ]
+}

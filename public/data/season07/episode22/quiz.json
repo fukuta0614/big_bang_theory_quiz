@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "rapidly approaching",
+      "options": [
+        "急速に離れていく",
+        "急速に近づいている",
+        "ゆっくりと近づいている",
+        "ゆっくりと離れていく"
+      ],
+      "correctAnswer": "急速に近づいている",
+      "explanation": "「rapidly approaching」は、何かが非常に速いスピードで近づいている、または発生しようとしている状況を表します。差し迫ったイベントや期限などに対して使われます。\n\n例：The deadline is rapidly approaching. (締め切りが急速に迫っている。)"
+    },
+    {
+      "id": 2,
+      "value": "ridiculous",
+      "options": [
+        "真面目な",
+        "ばかげた",
+        "普通の",
+        "重要な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "\"Ridiculous\"とは、非常にばかげていて、不合理、またはナンセンスであることを意味します。真剣に受け止めることができないほど愚かしい状況やアイデアを指す場合に使用されます。\n\n例：That's a ridiculous idea. （それはばかげた考えだ。）"
+    },
+    {
+      "id": 3,
+      "value": "get it?",
+      "options": [
+        "理解しましたか？",
+        "手に入りましたか？",
+        "終わりましたか？",
+        "忘れましたか？"
+      ],
+      "correctAnswer": "理解しましたか？",
+      "explanation": "「Get it?」は、相手に自分の言ったことやジョークなどが理解できたかどうかを確認する際に使われる口語表現です。カジュアルな会話でよく用いられます。\n\n例：I made a pun, get it?（ダジャレを言ったんだけど、分かった？）"
+    },
+    {
+      "id": 4,
+      "value": "passed away",
+      "options": [
+        "通り過ぎた",
+        "亡くなった",
+        "合格した",
+        "プレゼントした"
+      ],
+      "correctAnswer": "亡くなった",
+      "explanation": "「Passed away」は、人が亡くなったことを婉曲的に表現する際に用いられる表現です。直接的な表現を避け、より丁寧で穏やかな印象を与えます。\n\n例：My grandfather passed away last year. (私の祖父は昨年亡くなりました。)"
+    },
+    {
+      "id": 5,
+      "value": "meant a lot to",
+      "options": [
+        "多くの意味があった",
+        "少しの意味しかなかった",
+        "全く意味がなかった",
+        "誤解された"
+      ],
+      "correctAnswer": "多くの意味があった",
+      "explanation": "「Meant a lot to」は、人や物が誰かにとって非常に重要であったり、大きな影響を与えたことを表す際に使われる表現です。感謝や愛情、尊敬の念を込めて使われることが多いです。\n\n例：This award means a lot to me. (この賞は私にとって非常に大きな意味があります。)"
+    },
+    {
+      "id": 6,
+      "value": "struck down",
+      "options": [
+        "元気づけた",
+        "打ち倒した",
+        "見過ごした",
+        "助け起こした"
+      ],
+      "correctAnswer": "打ち倒した",
+      "explanation": "「Struck down」は、病気や災害、攻撃などによって人が倒れたり、命を落としたりすることを意味します。しばしば、不運や悲劇的な状況を伴って使われます。\n\n例：He was struck down by a sudden illness. (彼は突然の病に倒れた。)"
+    },
+    {
+      "id": 7,
+      "value": "in the prime of life",
+      "options": [
+        "人生の絶頂期に",
+        "人生の終わりに",
+        "人生の始まりに",
+        "人生の苦難の時に"
+      ],
+      "correctAnswer": "人生の絶頂期に",
+      "explanation": "「In the prime of life」は、人が最も元気で活動的な時期、つまり人生の絶頂期にある状態を指します。体力、知力、創造性が最高潮に達している時期を意味します。\n\n例：He died in the prime of his life. (彼は人生の絶頂期に亡くなった。)"
+    },
+    {
+      "id": 8,
+      "value": "blowing their noses",
+      "options": [
+        "鼻をかむ",
+        "風船を膨らませる",
+        "口笛を吹く",
+        "文句を言う"
+      ],
+      "correctAnswer": "鼻をかむ",
+      "explanation": "「Blowing their noses」は、鼻をかむという行為を指します。風邪やアレルギーなどで鼻水が出るときに行われる一般的な行為です。\n\n例：Everyone was blowing their noses because of the cold weather. (寒いせいでみんな鼻をかんでいた。)"
+    },
+    {
+      "id": 9,
+      "value": "mourning the inevitable",
+      "options": [
+        "避けられない別れを悲しむ",
+        "避けられない別れを喜ぶ",
+        "避けられない別れを無視する",
+        "避けられない別れを計画する"
+      ],
+      "correctAnswer": "避けられない別れを悲しむ",
+      "explanation": "「Mourning the inevitable」は、避けられないこと、例えば死や終わりなどを悲しむことを意味します。無駄な行為であるというニュアンスを含むことがあります。\n\n例：He argued that mourning the inevitable was a waste of time. (彼は、避けられないことを悲しむのは時間の無駄だと主張した。)"
+    },
+    {
+      "id": 10,
+      "value": "goofy",
+      "options": [
+        "真面目な",
+        "間抜けな",
+        "賢い",
+        "退屈な"
+      ],
+      "correctAnswer": "間抜けな",
+      "explanation": "「Goofy」は、愚かで、滑稽で、少し間抜けな様子を表す形容詞です。愛嬌のある、または面白いという意味合いで使われることもあります。\n\n例：He made a goofy face. (彼は間抜けな顔をした。)"
+    },
+    {
+      "id": 11,
+      "value": "Admiral Ackbar's Snack Bar",
+      "options": [
+        "提督のレストラン",
+        "提督のスナックバー",
+        "提督のホテル",
+        "提督の遊園地"
+      ],
+      "correctAnswer": "提督のスナックバー",
+      "explanation": "これは映画『スター・ウォーズ』に登場するキャラクター、アクバー提督の名前を使ったジョークです。スナックバーの名前としてユーモラスに表現されています。\n\n例：Admiral Ackbar's Snack Bar is now open, serving intergalactic treats! (アクバー提督のスナックバーが開店し、銀河系の軽食を提供しています！)"
+    },
+    {
+      "id": 12,
+      "value": "in the mood",
+      "options": [
+        "機嫌が良い",
+        "～する気分である",
+        "落ち着いている",
+        "疲れている"
+      ],
+      "correctAnswer": "～する気分である",
+      "explanation": "「In the mood」は、特定のことをしたい、または特定の感情を抱いている状態を表します。気分や気持ちを表す際に用いられます。\n\n例：I'm not in the mood for joking. (冗談を言う気分じゃない。)"
+    },
+    {
+      "id": 13,
+      "value": "rebooting",
+      "options": [
+        "再起動する",
+        "休憩する",
+        "充電する",
+        "掃除する"
+      ],
+      "correctAnswer": "再起動する",
+      "explanation": "「Rebooting」は、コンピュータやシステムを再起動することを意味します。人の場合は、リフレッシュして元気を取り戻すという意味で使われることがあります。\n\n例：I need to reboot after a long day at work. (仕事で長い一日を過ごした後、リフレッシュする必要がある。)"
+    },
+    {
+      "id": 14,
+      "value": "appreciate the offer",
+      "options": [
+        "申し出を感謝する",
+        "申し出を拒否する",
+        "申し出を無視する",
+        "申し出を忘れる"
+      ],
+      "correctAnswer": "申し出を感謝する",
+      "explanation": "「Appreciate the offer」は、相手の申し出に対して感謝の気持ちを表す際に使われる表現です。必ずしも申し出を受け入れるとは限りません。\n\n例：I appreciate the offer, but I have other plans. (申し出はありがたいですが、他の予定があります。)"
+    },
+    {
+      "id": 15,
+      "value": "nothing I can do about it",
+      "options": [
+        "できることは何もない",
+        "何かできることがある",
+        "すべてできる",
+        "何もしたくない"
+      ],
+      "correctAnswer": "できることは何もない",
+      "explanation": "「There's nothing I can do about it」は、どうすることもできない状況や事柄に対して使われる表現です。諦めや無力感を伴うことがあります。\n\n例：The flight was canceled, and there was nothing I could do about it. (フライトがキャンセルされ、どうすることもできなかった。)"
+    },
+    {
+      "id": 16,
+      "value": "finalize",
+      "options": [
+        "始める",
+        "終わらせる",
+        "修正する",
+        "決定する"
+      ],
+      "correctAnswer": "決定する",
+      "explanation": "「Finalize」は、計画、プロジェクト、または合意などを最終的な形にすることを意味します。細部を詰め、正式に確定させる行為を指します。\n\n例：We need to finalize the details of the contract. (契約の詳細を最終決定する必要がある。)"
+    },
+    {
+      "id": 17,
+      "value": "built in",
+      "options": [
+        "作り付けの",
+        "取り外しの",
+        "新しい",
+        "古い"
+      ],
+      "correctAnswer": "作り付けの",
+      "explanation": "「Built in」は、何かが最初から組み込まれている、または含まれていることを意味します。物理的なものだけでなく、計画やシステムなどにも使われます。\n\n例：The house has a built-in closet. (その家には作り付けのクローゼットがある。)\n時間や機会が設けられているという意味でも使われます。"
+    },
+    {
+      "id": 18,
+      "value": "Phantom Menace",
+      "options": [
+        "静かな脅威",
+        "見えざる脅威",
+        "幻影の脅威",
+        "直接的な脅威"
+      ],
+      "correctAnswer": "幻影の脅威",
+      "explanation": "「Phantom Menace」は、映画『スター・ウォーズ エピソード1/ファントム・メナス』のタイトルです。潜在的な脅威や危険を意味することがあります。\n\n例：The economic downturn is a phantom menace looming over the country. (景気後退は国全体を覆う幻影の脅威だ。)"
+    },
+    {
+      "id": 19,
+      "value": "comforting",
+      "options": [
+        "慰める",
+        "混乱させる",
+        "無視する",
+        "怒らせる"
+      ],
+      "correctAnswer": "慰める",
+      "explanation": "「Comforting」は、誰かを元気づけたり、安心させたりする行為を指します。同情や共感の気持ちを込めて行われることが多いです。\n\n例：She gave him a comforting hug. (彼女は彼を慰めるように抱きしめた。)"
+    },
+    {
+      "id": 20,
+      "value": "in the right place",
+      "options": [
+        "正しい場所にある",
+        "間違った場所にある",
+        "見当たらない",
+        "遠く離れている"
+      ],
+      "correctAnswer": "正しい場所にある",
+      "explanation": "「In the right place」は、物理的に正しい場所にあるだけでなく、意図や気持ちが正しい方向に向かっていることを意味します。善意や誠実さを示す際に用いられます。\n\n例：His heart is in the right place, even if his actions are misguided. (彼の行動は誤っているかもしれないが、気持ちは正しい方向に向かっている。)"
+    },
+    {
+      "id": 21,
+      "value": "a shame",
+      "options": [
+        "名誉",
+        "恥",
+        "喜び",
+        "秘密"
+      ],
+      "correctAnswer": "恥",
+      "explanation": "\"A shame\"とは、残念なこと、または不運な状況を指します。期待されたことや望ましいことが実現しなかった場合に、失望や後悔の気持ちを表すために使用されます。\n\n例：It's a shame that she couldn't come to the party. （彼女がパーティーに来られなかったのは残念だ。）"
+    },
+    {
+      "id": 22,
+      "value": "a hoot",
+      "options": [
+        "静かな音",
+        "騒々しい騒ぎ",
+        "退屈な出来事",
+        "悲しい知らせ"
+      ],
+      "correctAnswer": "騒々しい騒ぎ",
+      "explanation": "\"A hoot\"は、非常に面白くて楽しい出来事や人を指す口語表現です。ユーモアや興奮を伴う状況を表す際に使用されます。\n\n例：The party was a real hoot! （パーティーは本当に面白かった！）"
+    },
+    {
+      "id": 23,
+      "value": "get it",
+      "options": [
+        "それを手に入れる",
+        "それを理解する",
+        "それを見つける",
+        "それを忘れる"
+      ],
+      "correctAnswer": "それを理解する",
+      "explanation": "\"Get it\"とは、何かを理解すること、または何かジョークや暗示の意味を把握することを意味します。質問形で使用されることが多く、相手が理解したかどうかを確認するために使われます。\n\n例：Did you get it? It was a joke! （理解しましたか？それはジョークでした！）"
+    },
+    {
+      "id": 24,
+      "value": "as planned",
+      "options": [
+        "計画通りに",
+        "計画なしに",
+        "遅れて",
+        "予想以上に"
+      ],
+      "correctAnswer": "計画通りに",
+      "explanation": "\"As planned\"とは、事前に立てた計画通りに物事が進んでいる状態を指します。計画の変更がないことや、予定通りに事が運んでいることを強調する際に使用されます。\n\n例：The meeting will proceed as planned. （会議は計画通りに進められます。）"
+    },
+    {
+      "id": 25,
+      "value": "raisin bran",
+      "options": [
+        "コーンフレーク",
+        "ブランフレーク",
+        "レーズンブラン",
+        "オートミール"
+      ],
+      "correctAnswer": "レーズンブラン",
+      "explanation": "\"Raisin Bran\"は、レーズン入りのブランフレークを指します。朝食のシリアルとして一般的で、食物繊維が豊富です。\n\n例：I like to eat Raisin Bran for breakfast. (私は朝食にレーズンブランを食べるのが好きです。)"
+    },
+    {
+      "id": 26,
+      "value": "blew up",
+      "options": [
+        "爆発させた",
+        "膨らませた",
+        "吹き飛ばした",
+        "台無しにした"
+      ],
+      "correctAnswer": "爆発させた",
+      "explanation": "「blew up」は「blow up」の過去形で、文字通りには「爆発させる」という意味ですが、ここでは比喩的に「破壊する」「打ち砕く」といった意味合いで使われています。また、「詳細に説明する」という意味もあります。"
+    },
+    {
+      "id": 27,
+      "value": "for the road",
+      "options": [
+        "道のために",
+        "旅のために",
+        "お土産として",
+        "道中のために"
+      ],
+      "correctAnswer": "道中のために",
+      "explanation": "「for the road」は、旅行や移動の際に持っていく飲食物を指すイディオムです。「おみやげに」「道中で食べるために」といったニュアンスが含まれます。"
+    },
+    {
+      "id": 28,
+      "value": "thoughtless",
+      "options": [
+        "思慮深い",
+        "考え深い",
+        "軽率な",
+        "優しい"
+      ],
+      "correctAnswer": "軽率な",
+      "explanation": "「thoughtless」は「思慮に欠ける」「軽率な」という意味です。相手への配慮が足りない行動や発言を指す際に使われます。類義語には「inconsiderate」があります。"
+    },
+    {
+      "id": 29,
+      "value": "keep someone fooled",
+      "options": [
+        "誰かを感動させる",
+        "誰かを騙し続ける",
+        "誰かを喜ばせる",
+        "誰かを助ける"
+      ],
+      "correctAnswer": "誰かを騙し続ける",
+      "explanation": "「keep someone fooled」は「（一時的に）誰かを騙し続ける」という意味です。ここでは、BernadetteがHowieを一時的にでも満足させることを期待している状況を表しています。"
+    },
+    {
+      "id": 30,
+      "value": "spherical",
+      "options": [
+        "正方形の",
+        "球形の",
+        "三角形の",
+        "円柱形の"
+      ],
+      "correctAnswer": "球形の",
+      "explanation": "「spherical」は「球形の」「球状の」という意味です。ここでは、Death Star cakeの形状を指して使われています。"
+    },
+    {
+      "id": 31,
+      "value": "confession",
+      "options": [
+        "告白",
+        "秘密",
+        "冗談",
+        "提案"
+      ],
+      "correctAnswer": "告白",
+      "explanation": "「confession」は「告白」という意味です。何かを隠していた人が、真実を打ち明ける際に使われます。宗教的な意味合いもありますが、ここでは日常的な意味で使われています。"
+    },
+    {
+      "id": 32,
+      "value": "dry",
+      "options": [
+        "退屈",
+        "辛口",
+        "乾いている",
+        "涙が出ない"
+      ],
+      "correctAnswer": "涙が出ない",
+      "explanation": "ここでは「dry」は、涙が出ない、泣けないという意味で使われています。感情が高ぶっているものの、涙を流せない状態を表します。"
+    },
+    {
+      "id": 33,
+      "value": "crybaby",
+      "options": [
+        "泣き虫",
+        "赤ちゃん",
+        "臆病者",
+        "いたずらっ子"
+      ],
+      "correctAnswer": "泣き虫",
+      "explanation": "「crybaby」は「泣き虫」という意味です。すぐに泣く人を指す、ややからかいを含んだ表現です。"
+    },
+    {
+      "id": 34,
+      "value": "furnace",
+      "options": [
+        "家具",
+        "暖炉",
+        "かまど",
+        "溶鉱炉"
+      ],
+      "correctAnswer": "溶鉱炉",
+      "explanation": "「furnace」は「炉」「溶鉱炉」という意味です。ここでは、映画「Toy Story 3」の感動的なシーンを指して使われています。"
+    },
+    {
+      "id": 35,
+      "value": "inspired",
+      "options": [
+        "飽きれた",
+        "やる気をなくした",
+        "刺激を受けた",
+        "うんざりした"
+      ],
+      "correctAnswer": "刺激を受けた",
+      "explanation": "「inspired」は「刺激を受けた」「感銘を受けた」という意味です。ここでは、Arthurが多くの人々に影響を与えたことを表しています。"
+    },
+    {
+      "id": 36,
+      "value": "side by side",
+      "options": [
+        "並んで",
+        "協力して",
+        "別々に",
+        "競争して"
+      ],
+      "correctAnswer": "並んで",
+      "explanation": "「side by side」は「並んで」「協力して」という意味です。ここでは、LeonardがArthurと協力して仕事ができたことを表しています。"
+    },
+    {
+      "id": 37,
+      "value": "I got your back",
+      "options": [
+        "あなたを支えます",
+        "あなたの背中を洗います",
+        "あなたを裏切ります",
+        "あなたを忘れません"
+      ],
+      "correctAnswer": "あなたを支えます",
+      "explanation": "「I got your back」は「私があなたを支えます」「私がついています」という意味です。困ったときや困難な状況で相手をサポートする意思を示す際に使われます。"
+    },
+    {
+      "id": 38,
+      "value": "menace",
+      "options": [
+        "脅威",
+        "平和",
+        "安全",
+        "喜び"
+      ],
+      "correctAnswer": "脅威",
+      "explanation": "「menace」は「脅威」「危険」という意味です。ここでは、映画「Star Wars Episode I: The Phantom Menace」のタイトルの一部として使われています。"
+    },
+    {
+      "id": 39,
+      "value": "espousing",
+      "options": [
+        "非難する",
+        "支持する",
+        "無視する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "支持する",
+      "explanation": "「espousing」は「（主義・主張などを）支持する」「擁護する」という意味です。ここでは、Howardが自分の好みに合わないものを排除するという考えを支持することを批判しています。"
+    },
+    {
+      "id": 40,
+      "value": "get rid of",
+      "options": [
+        "手に入れる",
+        "修理する",
+        "捨てる",
+        "隠す"
+      ],
+      "correctAnswer": "捨てる",
+      "explanation": "「get rid of」は「捨てる」「取り除く」という意味です。不要なものや嫌なものを排除する際に使われます。"
+    },
+    {
+      "id": 41,
+      "value": "flashback",
+      "options": [
+        "未来",
+        "回想",
+        "夢",
+        "現実"
+      ],
+      "correctAnswer": "回想",
+      "explanation": "「flashback」は「回想」「過去の場面」という意味です。物語や映画で、過去の出来事を挿入する際に使われます。"
+    },
+    {
+      "id": 42,
+      "value": "senate",
+      "options": [
+        "議会",
+        "上院",
+        "下院",
+        "裁判所"
+      ],
+      "correctAnswer": "上院",
+      "explanation": "「senate」は「上院」「元老院」という意味です。政治的な文脈でよく使われます。アメリカ合衆国議会の上院を指すこともあります。"
+    },
+    {
+      "id": 43,
+      "value": "get through",
+      "options": [
+        "乗り越える",
+        "通過する",
+        "伝える",
+        "理解する"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "ここでは「get through」は「(困難な状況などを)乗り越える」「終える」という意味です。Sheldonがholidayを無事に終えることを願っていることを表しています。"
+    },
+    {
+      "id": 44,
+      "value": "ridiculous",
+      "options": [
+        "ばかげた",
+        "素晴らしい",
+        "普通の",
+        "重要な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「ridiculous」は「ばかげた」「馬鹿らしい」という意味です。ここでは、Rajの提案がSheldonにとって受け入れがたいものであったことを表しています。"
+    },
+    {
+      "id": 45,
+      "value": "console",
+      "options": [
+        "慰める",
+        "非難する",
+        "無視する",
+        "からかう"
+      ],
+      "correctAnswer": "慰める",
+      "explanation": "「console」は「慰める」という意味です。ここでは、SheldonがProfessor Protonの死で悲しんでいるため、慰めるべきかどうかを議論しています。"
+    },
+    {
+      "id": 46,
+      "value": "privacy",
+      "options": [
+        "プライバシー",
+        "友情",
+        "公開",
+        "秘密"
+      ],
+      "correctAnswer": "プライバシー",
+      "explanation": "「privacy」は「プライバシー」「私的な空間」という意味です。ここでは、Sheldonが悲しんでいるため、そっとしておくべきかどうかを議論しています。"
+    },
+    {
+      "id": 47,
+      "value": "cantina",
+      "options": [
+        "食堂",
+        "酒場",
+        "図書館",
+        "学校"
+      ],
+      "correctAnswer": "酒場",
+      "explanation": "「cantina」は「酒場」「居酒屋」という意味です。ここでは、映画「Star Wars」の有名なシーンを指しています。"
+    },
+    {
+      "id": 48,
+      "value": "guilty",
+      "options": [
+        "無罪",
+        "有罪",
+        "満足",
+        "幸せ"
+      ],
+      "correctAnswer": "有罪",
+      "explanation": "「guilty」は「罪悪感を抱いている」「後ろめたい」という意味です。ここでは、Sheldonを置いて映画を観ていることに対して罪悪感を抱いていることを表しています。"
+    },
+    {
+      "id": 49,
+      "value": "at least",
+      "options": [
+        "少なくとも",
+        "せいぜい",
+        "多くとも",
+        "絶対に"
+      ],
+      "correctAnswer": "少なくとも",
+      "explanation": "「at least」は「少なくとも」「せめて」という意味です。不満や不都合な状況の中で、何か良い点を見つけようとする際に使われます。"
+    },
+    {
+      "id": 50,
+      "value": "obviously",
+      "options": [
+        "明らかに",
+        "たぶん",
+        "おそらく",
+        "偶然に"
+      ],
+      "correctAnswer": "明らかに",
+      "explanation": "「obviously」は「明らかに」「当然のことながら」という意味です。誰にとっても明白であると思われることを強調する際に使われます。"
+    },
+    {
+      "id": 51,
+      "value": "cracking up",
+      "options": [
+        "修理する",
+        "秘密にする",
+        "大笑いする",
+        "無視する"
+      ],
+      "correctAnswer": "大笑いする",
+      "explanation": "\"cracking up\"は、非常に面白いことに対して大笑いするという意味の口語表現です。人を主語にすることもでき、その場合は「笑い転げる」といったニュアンスになります。例：The audience was cracking up at his jokes. (観客は彼のジョークに大笑いしていた。)"
+    },
+    {
+      "id": 52,
+      "value": "let that slide",
+      "options": [
+        "秘密にする",
+        "見過ごす",
+        "明らかにする",
+        "無視する"
+      ],
+      "correctAnswer": "見過ごす",
+      "explanation": "\"let something slide\"は、何か良くないことや間違いを、大目に見る、見過ごすという意味です。特に、本来なら注意したり咎めたりするべきことを、あえてしないというニュアンスがあります。例：I'll let it slide this time, but don't do it again. (今回は見逃してやるが、二度とするな。)"
+    },
+    {
+      "id": 53,
+      "value": "demise",
+      "options": [
+        "誕生",
+        "成功",
+        "崩壊",
+        "死"
+      ],
+      "correctAnswer": "死",
+      "explanation": "\"demise\"は、死、消滅、終焉といった意味の言葉で、特に組織、制度、アイデアなどが徐々に衰退して終わる状況を指すことが多いです。フォーマルな文脈で使われます。例：The demise of the Roman Empire. (ローマ帝国の滅亡)"
+    },
+    {
+      "id": 54,
+      "value": "neato",
+      "options": [
+        "普通",
+        "つまらない",
+        "素晴らしい",
+        "不快"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "\"neato\"は、素晴らしい、かっこいい、面白いといった意味のスラングです。古風な表現で、現代ではあまり一般的ではありませんが、映画やドラマなどで使われることがあります。例：That's a neato car! (それは素晴らしい車だ！)"
+    },
+    {
+      "id": 55,
+      "value": "bummer",
+      "options": [
+        "喜び",
+        "幸運",
+        "残念なこと",
+        "驚き"
+      ],
+      "correctAnswer": "残念なこと",
+      "explanation": "\"bummer\"は、がっかりさせる出来事、残念な状況、嫌な経験などを指す口語表現です。軽い失望から深刻な不満まで、幅広い状況で使われます。例：It's a bummer that the concert was canceled. (コンサートが中止になったのは残念だ。)"
+    },
+    {
+      "id": 56,
+      "value": "bounce house",
+      "options": [
+        "普通の家",
+        "トランポリン",
+        "お化け屋敷",
+        "エア遊具"
+      ],
+      "correctAnswer": "エア遊具",
+      "explanation": "\"bounce house\"は、子供たちが中で飛び跳ねて遊ぶことができる、空気で膨らませる遊具のことです。イベントやお祭りなどでよく見られます。例：The kids had a great time in the bounce house at the party. (子供たちはパーティーのエア遊具で楽しんでいた。)"
+    },
+    {
+      "id": 57,
+      "value": "regret",
+      "options": [
+        "喜び",
+        "希望",
+        "後悔",
+        "期待"
+      ],
+      "correctAnswer": "後悔",
+      "explanation": "\"regret\"は、過去の行動や決断について、後になって残念に思う、後悔するという意味です。名詞としても動詞としても使われます。例：I regret not studying harder in school. (学校でもっと勉強しなかったことを後悔している。)"
+    },
+    {
+      "id": 58,
+      "value": "propose",
+      "options": [
+        "提案する",
+        "反対する",
+        "暴露する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "提案する",
+      "explanation": "\"propose\"は、提案する、計画を提示する、という意味の動詞ですが、特に結婚を申し込むという意味でよく使われます。例：He proposed to her on Valentine's Day. (彼はバレンタインデーに彼女にプロポーズした。)"
+    },
+    {
+      "id": 59,
+      "value": "tie things up",
+      "options": [
+        "整理する",
+        "混乱させる",
+        "改善する",
+        "悪化させる"
+      ],
+      "correctAnswer": "整理する",
+      "explanation": "\"tie things up\"は、物事を終わらせる、整理するという意味のイディオムです。未解決の問題やタスクを片付ける際に使われます。例：I need to tie up a few loose ends before I leave on vacation. (休暇に出かける前に、いくつかの未解決の問題を片付ける必要がある。)"
+    },
+    {
+      "id": 60,
+      "value": "reject",
+      "options": [
+        "受け入れる",
+        "拒否する",
+        "提案する",
+        "無視する"
+      ],
+      "correctAnswer": "拒否する",
+      "explanation": "\"reject\"は、拒否する、拒絶するという意味の動詞です。申し出、提案、要求などを断る際に使われます。例：The company rejected his job application. (会社は彼の求人応募を拒否した。)"
+    },
+    {
+      "id": 61,
+      "value": "controlled",
+      "options": [
+        "管理された",
+        "放置された",
+        "無視された",
+        "解放された"
+      ],
+      "correctAnswer": "管理された",
+      "explanation": "\"control\"は、支配する、管理するという意味の動詞です。受動態の\"controlled\"は、何かが支配または管理されている状態を表します。例：The experiment was conducted under controlled conditions. (実験は管理された条件下で行われた。)"
+    },
+    {
+      "id": 62,
+      "value": "get into",
+      "options": [
+        "興味を持つ",
+        "無視する",
+        "嫌いになる",
+        "忘れる"
+      ],
+      "correctAnswer": "興味を持つ",
+      "explanation": "\"get into\"は、何かに興味を持つ、熱中するという意味の口語表現です。新しい趣味や活動を始める際によく使われます。例：I'm really getting into photography lately. (最近、写真にとてもハマっている。)"
+    },
+    {
+      "id": 63,
+      "value": "formula",
+      "options": [
+        "料理",
+        "数式",
+        "物語",
+        "遊び"
+      ],
+      "correctAnswer": "数式",
+      "explanation": "\"formula\"は、数式、公式という意味の名詞です。科学や数学の分野でよく使われます。また、比喩的に、成功するための秘訣や方法という意味でも使われます。例：The formula for success is hard work and dedication. (成功の秘訣は、努力と献身だ。)"
+    },
+    {
+      "id": 64,
+      "value": "working for a while",
+      "options": [
+        "全く効果がない",
+        "一時的に効果がある",
+        "ずっと効果がある",
+        "永遠に効果がある"
+      ],
+      "correctAnswer": "一時的に効果がある",
+      "explanation": "\"working for a while\"は、一時的に効果がある、しばらくの間有効であるという意味の表現です。恒久的な解決策ではないことを示唆します。例：The medicine was working for a while, but then the pain came back. (薬はしばらくの間効いていたが、その後痛みが戻ってきた。)"
+    },
+    {
+      "id": 65,
+      "value": "found out",
+      "options": [
+        "隠蔽する",
+        "発見する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "発見する",
+      "explanation": "\"find out\"は、知らなかったことを知る、発見するという意味の句動詞です。調査や偶然の機会を通じて情報を得る際に使われます。例：I found out that he was lying to me. (彼が私に嘘をついていたことを知った。)"
+    },
+    {
+      "id": 66,
+      "value": "made it up",
+      "options": [
+        "改良する",
+        "でっち上げる",
+        "明らかにする",
+        "台無しにする"
+      ],
+      "correctAnswer": "でっち上げる",
+      "explanation": "\"make something up\"は、何かを捏造する、作り話をするという意味の句動詞です。存在しない話や情報を創作する際に使われます。例：He made up a story about why he was late. (彼は遅刻した理由について作り話をした。)"
+    },
+    {
+      "id": 67,
+      "value": "alternative",
+      "options": [
+        "唯一の選択肢",
+        "主要な選択肢",
+        "代替の選択肢",
+        "無関係な選択肢"
+      ],
+      "correctAnswer": "代替の選択肢",
+      "explanation": "\"alternative\"は、代替の、別の、という意味の形容詞です。通常のものとは異なる選択肢や方法を指します。例：We need to find an alternative solution to this problem. (この問題に対する代替の解決策を見つける必要がある。)"
+    },
+    {
+      "id": 68,
+      "value": "street corner",
+      "options": [
+        "交差点",
+        "近道",
+        "袋小路",
+        "路地"
+      ],
+      "correctAnswer": "交差点",
+      "explanation": "\"street corner\"は、道の角、街角という意味です。露店や待ち合わせ場所など、様々な用途で使われます。例：He was standing on the street corner waiting for the bus. (彼はバスを待って道の角に立っていた。)"
+    },
+    {
+      "id": 69,
+      "value": "whore",
+      "options": [
+        "聖人",
+        "詐欺師",
+        "売春婦",
+        "英雄"
+      ],
+      "correctAnswer": "売春婦",
+      "explanation": "\"whore\"は、売春婦という意味の言葉です。非常に侮蔑的な意味合いを持つため、使用には注意が必要です。例：She was called a whore for her actions. (彼女は彼女の行動のために売春婦と呼ばれた。)"
+    },
+    {
+      "id": 70,
+      "value": "running into",
+      "options": [
+        "計画的に会う",
+        "偶然出会う",
+        "避ける",
+        "忘れる"
+      ],
+      "correctAnswer": "偶然出会う",
+      "explanation": "\"run into\"は、偶然出会う、ばったり出会うという意味の句動詞です。予期せぬ出会いを表します。例：I ran into an old friend at the grocery store. (食料品店で旧友にばったり会った。)"
+    },
+    {
+      "id": 71,
+      "value": "haunt",
+      "options": [
+        "楽しませる",
+        "悩ませる",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "悩ませる",
+      "explanation": "\"haunt\"は、幽霊が出る、つきまとう、悩ませるという意味の動詞です。過去の出来事や記憶が心に残り、苦しめる状況を指すこともあります。例：The memory of the accident still haunts him. (その事故の記憶は今も彼を悩ませている。)"
+    },
+    {
+      "id": 72,
+      "value": "mentor",
+      "options": [
+        "生徒",
+        "同僚",
+        "指導者",
+        "敵"
+      ],
+      "correctAnswer": "指導者",
+      "explanation": "\"mentor\"は、指導者、助言者、相談相手という意味の名詞です。経験や知識を共有し、他者の成長をサポートする人を指します。例：He was a mentor to many young entrepreneurs. (彼は多くの若い起業家にとって指導者だった。)"
+    },
+    {
+      "id": 73,
+      "value": "in spirit form",
+      "options": [
+        "肉体を持った姿で",
+        "物理的な姿で",
+        "精神的な姿で",
+        "仮想現実で"
+      ],
+      "correctAnswer": "精神的な姿で",
+      "explanation": "\"in spirit form\"は、精神的な姿で、魂の状態でという意味です。肉体を持たない存在の状態を表します。例：He appeared in spirit form to guide her. (彼は彼女を導くために精神的な姿で現れた。)"
+    },
+    {
+      "id": 74,
+      "value": "jerk",
+      "options": [
+        "正直者",
+        "賢者",
+        "嫌なやつ",
+        "英雄"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "\"jerk\"は、嫌なやつ、不快な人という意味のスラングです。無神経で自己中心的な人を指します。例：Don't be such a jerk! (そんな嫌なやつになるな！)"
+    },
+    {
+      "id": 75,
+      "value": "loose ends",
+      "options": [
+        "完璧な結末",
+        "未解決の問題",
+        "強固な結束",
+        "秘密の計画"
+      ],
+      "correctAnswer": "未解決の問題",
+      "explanation": "\"loose ends\"は、未解決の問題、やり残したこと、未完了のタスクという意味のイディオムです。完了させるべき事柄を指します。例：We need to tie up a few loose ends before we can finalize the deal. (取引を完了させる前に、いくつかの未解決の問題を片付ける必要がある。)"
+    },
+    {
+      "id": 76,
+      "value": "took out",
+      "options": [
+        "取り出した",
+        "作り出した",
+        "書き出した",
+        "売り出した"
+      ],
+      "correctAnswer": "取り出した",
+      "explanation": "「take out」は、本などを図書館から借り出す、取り出すという意味です。また、レストランで料理をテイクアウトする場合にも使われます。\n\n例：I took out a book from the library. (図書館から本を借りた。)"
+    },
+    {
+      "id": 77,
+      "value": "on the one hand",
+      "options": [
+        "一方で",
+        "頻繁に",
+        "直接的に",
+        "必然的に"
+      ],
+      "correctAnswer": "一方で",
+      "explanation": "「on the one hand」は、「一方では」という意味で、対比する別の視点や意見を述べる際に使われます。通常、「on the other hand」と対になって用いられます。\n\n例：On the one hand, I want to travel. On the other hand, I need to save money. (一方では旅行したい。他方ではお金を貯める必要がある。)"
+    },
+    {
+      "id": 78,
+      "value": "so we're done with this",
+      "options": [
+        "終わらせるために",
+        "始めるために",
+        "続けるために",
+        "理解するために"
+      ],
+      "correctAnswer": "終わらせるために",
+      "explanation": "「be done with something」は、「〜を終わらせる」「〜にけりをつける」という意味です。面倒なことや嫌なことを終わらせたいときに使われます。\n\n例：I'm glad to be done with that project. (あのプロジェクトが終わって嬉しい。)"
+    },
+    {
+      "id": 79,
+      "value": "Sounds like",
+      "options": [
+        "〜のように聞こえる",
+        "〜のように見える",
+        "〜のように感じる",
+        "〜のように考える"
+      ],
+      "correctAnswer": "〜のように聞こえる",
+      "explanation": "「sound like」は、「〜のように聞こえる」「〜のように思える」という意味で、聞いたことや状況から判断した印象を述べるときに使われます。\n\n例：It sounds like a good idea. (それは良いアイデアのように聞こえる。)"
+    },
+    {
+      "id": 80,
+      "value": "get upset",
+      "options": [
+        "怒る",
+        "喜ぶ",
+        "悲しむ",
+        "安心する"
+      ],
+      "correctAnswer": "怒る",
+      "explanation": "「get upset」は、「怒る」「動揺する」「不機嫌になる」という意味です。感情がネガティブな方向に変化する様子を表します。\n\n例：Don't get upset about it. (そのことで怒らないで。)"
+    },
+    {
+      "id": 81,
+      "value": "swampland",
+      "options": [
+        "湿地帯",
+        "砂漠地帯",
+        "森林地帯",
+        "山岳地帯"
+      ],
+      "correctAnswer": "湿地帯",
+      "explanation": "「swampland」は「湿地帯」「沼沢地」という意味で、水没した土地や湿った土地を指します。\n\n例：The area was mostly swampland, making it difficult to build on. (その地域はほとんどが湿地帯で、建設が困難だった。)"
+    },
+    {
+      "id": 82,
+      "value": "prenup",
+      "options": [
+        "婚前契約",
+        "秘密協定",
+        "業務提携",
+        "平和条約"
+      ],
+      "correctAnswer": "婚前契約",
+      "explanation": "「prenup」は「prenuptial agreement」の略で、「婚前契約」を意味します。結婚前に夫婦間で財産分与などを取り決める契約のことです。\n\n例：They signed a prenup before getting married. (彼らは結婚前に婚前契約を結んだ。)"
+    },
+    {
+      "id": 83,
+      "value": "looked up to",
+      "options": [
+        "尊敬していた",
+        "見下していた",
+        "無視していた",
+        "嫉妬していた"
+      ],
+      "correctAnswer": "尊敬していた",
+      "explanation": "「look up to」は、「尊敬する」「敬愛する」という意味です。模範とすべき人や憧れの存在に対して使われます。\n\n例：I've always looked up to my father. (私はいつも父を尊敬してきた。)"
+    },
+    {
+      "id": 84,
+      "value": "rough day",
+      "options": [
+        "辛い一日",
+        "楽しい一日",
+        "退屈な一日",
+        "平和な一日"
+      ],
+      "correctAnswer": "辛い一日",
+      "explanation": "「rough day」は、「辛い一日」「大変な一日」という意味です。困難な出来事や不快な経験が重なった日を表します。\n\n例：I had a rough day at work. (仕事で辛い一日だった。)"
+    },
+    {
+      "id": 85,
+      "value": "showed up",
+      "options": [
+        "現れた",
+        "消えた",
+        "隠れた",
+        "逃げた"
+      ],
+      "correctAnswer": "現れた",
+      "explanation": "「show up」は、「現れる」「出席する」という意味です。予定されていた場所に人が来たことを表します。\n\n例：Many people showed up at the meeting. (多くの人が会議に現れた。)"
+    },
+    {
+      "id": 86,
+      "value": "start over",
+      "options": [
+        "やり直す",
+        "始める",
+        "終わらせる",
+        "続ける"
+      ],
+      "correctAnswer": "やり直す",
+      "explanation": "「start over」は、「最初からやり直す」「再出発する」という意味です。失敗や中断の後、再び最初から始めることを指します。\n\n例：We had to start the project over. (プロジェクトを最初からやり直さなければならなかった。)"
+    },
+    {
+      "id": 87,
+      "value": "son of a bitch",
+      "options": [
+        "ちくしょう",
+        "素晴らしい",
+        "ありがとう",
+        "おめでとう"
+      ],
+      "correctAnswer": "ちくしょう",
+      "explanation": "「son of a bitch」は、「ちくしょう」「くそったれ」といった意味の罵り言葉です。強い不満や怒りを表す際に使われます。フォーマルな場では避けるべき表現です。\n\n例：Son of a bitch, I missed the train! (ちくしょう、電車に乗り遅れた！)"
+    },
+    {
+      "id": 88,
+      "value": "as near as I could tell",
+      "options": [
+        "私が理解する限り",
+        "私が無視する限り",
+        "私が否定する限り",
+        "私が肯定する限り"
+      ],
+      "correctAnswer": "私が理解する限り",
+      "explanation": "「as near as I could tell」は、「私の知る限り」「私が理解する限り」という意味です。自分の限られた知識や情報に基づいて判断したことを示します。\n\n例：As near as I could tell, everyone was having a good time. (私の知る限り、みんな楽しんでいた。)"
+    },
+    {
+      "id": 89,
+      "value": "good luck to you",
+      "options": [
+        "幸運を祈る",
+        "頑張って",
+        "おめでとう",
+        "さようなら"
+      ],
+      "correctAnswer": "幸運を祈る",
+      "explanation": "「good luck to you」は、「幸運を祈る」「頑張って」という意味で、相手の成功や幸福を願う際に使われます。\n\n例：Good luck to you in your new job! (新しい仕事で頑張って！)"
+    },
+    {
+      "id": 90,
+      "value": "toned him down",
+      "options": [
+        "おとなしくさせた",
+        "無視した",
+        "強化した",
+        "削除した"
+      ],
+      "correctAnswer": "おとなしくさせた",
+      "explanation": "「tone down」は、(音、色、態度など)を和らげる、抑制するという意味です。映画やドラマなどで、キャラクターの過剰な部分を抑える際に使われます。\n\n例：The director toned down the violence in the movie. (監督は映画の暴力的シーンを抑制した。)"
+    },
+    {
+      "id": 91,
+      "value": "What whores did",
+      "options": [
+        "売春婦が何をしたか",
+        "泥棒が何をしたか",
+        "詐欺師が何をしたか",
+        "探偵が何をしたか"
+      ],
+      "correctAnswer": "売春婦が何をしたか",
+      "explanation": "ここでは、売春婦が生物学的にどうなっているのか知りたかったという意味になります。\n\n例：She did a lot of research about what lawyers did. (彼女は弁護士が何をするのか多くのリサーチをした)"
+    },
+    {
+      "id": 92,
+      "value": "to be sad about",
+      "options": [
+        "悲しむべき",
+        "喜ぶべき",
+        "怒るべき",
+        "驚くべき"
+      ],
+      "correctAnswer": "悲しむべき",
+      "explanation": "「to be sad about」は、「〜について悲しむべき」「〜を悲しむのは当然だ」という意味です。\n\n例：It's okay to be sad about losing a game. (試合に負けて悲しむのは当然だ。)"
+    },
+    {
+      "id": 93,
+      "value": "high school sci…",
+      "options": [
+        "高校の科学教師",
+        "高校の歴史教師",
+        "高校の数学教師",
+        "高校の英語教師"
+      ],
+      "correctAnswer": "高校の科学教師",
+      "explanation": "ここでは会話が途切れていますが、おそらくscience teacher(科学教師)と言おうとしています。\n\n例：My sister is a high school math teacher.(私の姉は高校の数学教師です)"
+    },
+    {
+      "id": 94,
+      "value": "have gone away",
+      "options": [
+        "いなくなってしまった",
+        "帰ってきてしまった",
+        "出発してしまった",
+        "到着してしまった"
+      ],
+      "correctAnswer": "いなくなってしまった",
+      "explanation": "ここでは、尊敬していた人が亡くなってしまったというニュアンスが含まれています。\n\n例：All my friends have gone away.(私の友達はみんな遠くに行ってしまった)"
+    },
+    {
+      "id": 95,
+      "value": "told some great stories",
+      "options": [
+        "面白い話をした",
+        "悲しい話をした",
+        "退屈な話をした",
+        "つまらない話をした"
+      ],
+      "correctAnswer": "面白い話をした",
+      "explanation": "ここでは、葬儀で故人の思い出話をしたという意味になります。\n\n例：We told some great stories about our vacation.(私たちは休暇について面白い話をした)"
+    },
+    {
+      "id": 96,
+      "value": "be part of the fun",
+      "options": [
+        "楽しみの一部になる",
+        "苦しみの一部になる",
+        "悲しみの一部になる",
+        "怒りの一部になる"
+      ],
+      "correctAnswer": "楽しみの一部になる",
+      "explanation": "「be part of the fun」は、「楽しみの一部になる」「楽しみに参加する」という意味です。\n\n例：I want to be part of the fun at the party. (パーティーで楽しみの一部になりたい。)"
+    },
+    {
+      "id": 97,
+      "value": "whenever you need me",
+      "options": [
+        "必要な時はいつでも",
+        "必要でない時はいつでも",
+        "時間がある時はいつでも",
+        "時間がない時はいつでも"
+      ],
+      "correctAnswer": "必要な時はいつでも",
+      "explanation": "「whenever you need me」は、「必要な時はいつでも」「いつでも力になるよ」という意味です。相手をサポートする意思を伝える際に使われます。\n\n例：Call me whenever you need me. (必要な時はいつでも電話して。)"
+    },
+    {
+      "id": 98,
+      "value": "good thing",
+      "options": [
+        "良いこと",
+        "悪いこと",
+        "どうでも良いこと",
+        "秘密のこと"
+      ],
+      "correctAnswer": "良いこと",
+      "explanation": "「good thing」は、「良いこと」「幸運なこと」という意味です。何か好ましい状況や出来事があったときに使われます。\n\n例：It's a good thing you brought an umbrella. (傘を持ってきて良かったね。)"
+    },
+    {
+      "id": 99,
+      "value": "limited time on Earth",
+      "options": [
+        "限られた地球での時間",
+        "無限の地球での時間",
+        "過去の地球での時間",
+        "未来の地球での時間"
+      ],
+      "correctAnswer": "限られた地球での時間",
+      "explanation": "ここでは、人生は短いから有意義に使いなさいというニュアンスが含まれています。\n\n例：We should make the most of our limited time on Earth.(私たちは限られた地球での時間を最大限に活用すべきだ)"
+    },
+    {
+      "id": 100,
+      "value": "have a nap",
+      "options": [
+        "昼寝をする",
+        "夜更かしをする",
+        "徹夜をする",
+        "早起きをする"
+      ],
+      "correctAnswer": "昼寝をする",
+      "explanation": "「have a nap」は、「昼寝をする」「仮眠をとる」という意味です。\n\n例：I'm going to have a nap before dinner.(夕食前に昼寝をします)"
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "containment field",
+      "options": [
+        "封鎖区域",
+        "保護地域",
+        "収容場",
+        "管理区域"
+      ],
+      "correctAnswer": "収容場",
+      "explanation": "「containment field」とは、何かを封じ込める、閉じ込めておくための場や領域を指します。ここでは、ワームホールを閉じ込める（制御する）ための仮想的なフィールドを意味しています。"
+    },
+    {
+      "id": 2,
+      "value": "doodlebug",
+      "options": [
+        "落書き虫",
+        "いたずらっ子",
+        "間抜け",
+        "お調子者"
+      ],
+      "correctAnswer": "お調子者",
+      "explanation": "「doodlebug」は、親しみを込めて、または少しからかうように使われる言葉で、「お調子者」「変わり者」といったニュアンスがあります。ここでは、シェルドンが奇妙な落書きをしていることに対する、ハワードの愛情を込めたからかいとして使われています。"
+    },
+    {
+      "id": 3,
+      "value": "making contact with",
+      "options": [
+        "連絡を取る",
+        "接触する",
+        "仲間になる",
+        "情報を得る"
+      ],
+      "correctAnswer": "接触する",
+      "explanation": "「make contact with」は、「～と接触する、連絡を取る」という意味です。ここでは、他の生命体との接触について述べています。例文：I tried to make contact with him, but he didn't answer.（彼と連絡を取ろうとしたが、応答がなかった。）"
+    },
+    {
+      "id": 4,
+      "value": "optional follow-ups",
+      "options": [
+        "必須の追加",
+        "任意の追加",
+        "定期的な確認",
+        "特別な追跡"
+      ],
+      "correctAnswer": "任意の追加",
+      "explanation": "「optional follow-ups」は、「任意で行われる追加の行動、追跡」という意味です。ここでは、レナードがシェルドンのトイレの習慣について説明する際に、必ずしも毎日行われるわけではない追加のトイレ休憩を指しています。"
+    },
+    {
+      "id": 5,
+      "value": "tip of the iceberg",
+      "options": [
+        "氷山の一角",
+        "問題の核心",
+        "成功の鍵",
+        "ほんの始まり"
+      ],
+      "correctAnswer": "氷山の一角",
+      "explanation": "「tip of the iceberg」は、「氷山の一角」という意味で、問題や状況のほんの一部しか表面化していないことを指します。ここでは、レナードが知っているシェルドンの奇妙な習慣はほんの一部に過ぎない、という意味で使われています。"
+    },
+    {
+      "id": 6,
+      "value": "unaccounted for",
+      "options": [
+        "説明できない",
+        "考慮されていない",
+        "記録されていない",
+        "行方不明の"
+      ],
+      "correctAnswer": "説明できない",
+      "explanation": "「unaccounted for」は、「説明のつかない、所在不明の」という意味です。ここでは、シェルドンのスケジュールの中で、その時間が何に使われているか説明できない、という意味で使われています。例文：The missing money is still unaccounted for.（紛失したお金はまだ所在不明である。）"
+    },
+    {
+      "id": 7,
+      "value": "murder mystery dinner parties",
+      "options": [
+        "殺人ミステリー小説",
+        "推理ゲーム大会",
+        "殺人ミステリーディナーパーティー",
+        "犯罪捜査ゲーム"
+      ],
+      "correctAnswer": "殺人ミステリーディナーパーティー",
+      "explanation": "「murder mystery dinner party」は、参加者が物語の登場人物になりきり、殺人事件の犯人を推理するゲーム形式のディナーパーティーのことです。"
+    },
+    {
+      "id": 8,
+      "value": "suck",
+      "options": [
+        "最悪",
+        "素晴らしい",
+        "平均的",
+        "普通"
+      ],
+      "correctAnswer": "最悪",
+      "explanation": "「suck」は、俗語で「最悪である、ひどい」という意味です。ここでは、ラージが、自分の企画したパーティーを面白くないと言う友人たちに対して不満を述べています。例文：This movie sucks.（この映画は最悪だ。）"
+    },
+    {
+      "id": 9,
+      "value": "isotopically pure",
+      "options": [
+        "同位体的に純粋な",
+        "化学的に安定な",
+        "放射能的に安全な",
+        "物理的に完全な"
+      ],
+      "correctAnswer": "同位体的に純粋な",
+      "explanation": "「isotopically pure」は、「同位体的に純粋な」という意味で、特定の元素が特定の同位体のみで構成されている状態を指します。科学研究で特定の同位体のみを使用したい場合に重要になります。"
+    },
+    {
+      "id": 10,
+      "value": "stroke",
+      "options": [
+        "脳卒中",
+        "発作",
+        "興奮",
+        "感動"
+      ],
+      "correctAnswer": "脳卒中",
+      "explanation": "ここでは比喩的に使われており、ペニーの発言にショックを受けたレナードが大げさに反応していることを表しています。軽い冗談として用いられることがあります。例文: Hearing that news almost gave me a stroke! (その知らせを聞いて卒倒しそうになった！)"
+    },
+    {
+      "id": 11,
+      "value": "come up",
+      "options": [
+        "話題になる",
+        "やってくる",
+        "発生する",
+        "思いつく"
+      ],
+      "correctAnswer": "話題になる",
+      "explanation": "「come up」には様々な意味がありますが、ここでは「（話題として）持ち上がる、出てくる」という意味です。例文: The topic didn't come up in our conversation. (私たちの会話ではその話題は出なかった。)"
+    },
+    {
+      "id": 12,
+      "value": "hitting on",
+      "options": [
+        "殴る",
+        "からかう",
+        "口説く",
+        "ぶつかる"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「hit on (someone)」は、人に積極的に近づき、恋愛関係を築こうとすることを意味する口語表現です。例文: He was hitting on her at the bar.（彼はバーで彼女を口説いていた。）"
+    },
+    {
+      "id": 13,
+      "value": "due next week",
+      "options": [
+        "来週支払われる",
+        "来週期限",
+        "来週開催",
+        "来週到着"
+      ],
+      "correctAnswer": "来週期限",
+      "explanation": "「due」は「期限が来た」という意味で、「due next week」は「来週が期限」という意味です。例文: The report is due next week. (レポートの締め切りは来週です。)"
+    },
+    {
+      "id": 14,
+      "value": "Right on schedule",
+      "options": [
+        "予定通り",
+        "大幅に遅れて",
+        "急いで",
+        "正確に"
+      ],
+      "correctAnswer": "予定通り",
+      "explanation": "「Right on schedule」は、「予定通り、時間通り」という意味です。例文：The train arrived right on schedule. (列車は予定通りに到着した。)"
+    },
+    {
+      "id": 15,
+      "value": "glow-in-the-dark",
+      "options": [
+        "暗闇で光る",
+        "蛍光色の",
+        "明るい",
+        "ピカピカ光る"
+      ],
+      "correctAnswer": "暗闇で光る",
+      "explanation": "「glow-in-the-dark」は、「暗闇で光る」という意味です。ここでは、遺伝子研究室にいる光るウサギについて言及しています。例文：I bought a glow-in-the-dark sticker. (私は暗闇で光るステッカーを買った。)"
+    },
+    {
+      "id": 16,
+      "value": "Parallel universe",
+      "options": [
+        "並行宇宙",
+        "仮想現実",
+        "異次元空間",
+        "四次元世界"
+      ],
+      "correctAnswer": "並行宇宙",
+      "explanation": "「parallel universe」は、「並行宇宙」という意味です。SFなどでよく使われる概念で、私たちが住む宇宙とは別に存在する可能性のある宇宙のことです。"
+    },
+    {
+      "id": 17,
+      "value": "Calm down",
+      "options": [
+        "落ち着いて",
+        "リラックスして",
+        "元気を出して",
+        "諦めて"
+      ],
+      "correctAnswer": "落ち着いて",
+      "explanation": "「Calm down」は、「落ち着いて」という意味です。興奮している人や心配している人をなだめる際に使います。例文：Calm down! There's no need to panic. (落ち着いて！パニックになる必要はない。)"
+    },
+    {
+      "id": 18,
+      "value": "Booked",
+      "options": [
+        "予約済み",
+        "記録済み",
+        "予定あり",
+        "購入済み"
+      ],
+      "correctAnswer": "予定あり",
+      "explanation": "「booked」は、「予定が詰まっている、予約されている」という意味です。ここでは、シェルドンのカレンダーに何も予定が書き込まれていないことを指しています。例文: I'm fully booked next week. (来週は予定でいっぱいです。)"
+    },
+    {
+      "id": 19,
+      "value": "Tapenade",
+      "options": [
+        "タプナード",
+        "マヨネーズ",
+        "マスタード",
+        "ケチャップ"
+      ],
+      "correctAnswer": "タプナード",
+      "explanation": "「tapenade」は、オリーブ、ケッパー、アンチョビなどをペースト状にしたプロヴァンス地方発祥の調味料です。"
+    },
+    {
+      "id": 20,
+      "value": "Neutrino detection",
+      "options": [
+        "ニュートリノ検出",
+        "中性子検出",
+        "電子検出",
+        "陽子検出"
+      ],
+      "correctAnswer": "ニュートリノ検出",
+      "explanation": "「neutrino detection」は、「ニュートリノ検出」という意味で、素粒子の一種であるニュートリノを観測・検出することを指します。ニュートリノは物質との相互作用が非常に弱いため、検出が難しいことで知られています。"
+    },
+    {
+      "id": 21,
+      "value": "Oral report",
+      "options": [
+        "口頭報告",
+        "書面報告",
+        "秘密報告",
+        "最終報告"
+      ],
+      "correctAnswer": "口頭報告",
+      "explanation": "「oral report」は、「口頭報告」という意味です。プレゼンテーションや口頭試問などの形式で行われます。例文：I have to give an oral report in class tomorrow. (明日、授業で口頭報告をしなければならない。)"
+    },
+    {
+      "id": 22,
+      "value": "switch partners",
+      "options": [
+        "パートナーを変える",
+        "仕事を交代する",
+        "意見を変える",
+        "役割を変える"
+      ],
+      "correctAnswer": "パートナーを変える",
+      "explanation": "「switch partners」は、「パートナーを交代する、変える」という意味です。例文：We decided to switch partners for the dance. (私たちはダンスのパートナーを交代することにしました。)"
+    },
+    {
+      "id": 23,
+      "value": "end up failing",
+      "options": [
+        "失敗する",
+        "成功する",
+        "諦める",
+        "頑張る"
+      ],
+      "correctAnswer": "失敗する",
+      "explanation": "「end up failing」は、「最終的に失敗する、落ちぶれる」という意味です。例文：If you don't study, you'll end up failing the exam. (勉強しないと、最終的に試験に落ちるでしょう。)"
+    },
+    {
+      "id": 24,
+      "value": "genetics lab",
+      "options": [
+        "遺伝子研究所",
+        "化学研究所",
+        "物理研究所",
+        "生物学研究所"
+      ],
+      "correctAnswer": "遺伝子研究所",
+      "explanation": "「genetics lab」は、「遺伝子研究所」という意味です。遺伝子に関する研究や実験を行う施設です。"
+    },
+    {
+      "id": 25,
+      "value": "Want to come with us?",
+      "options": [
+        "一緒に行きませんか？",
+        "私たちと一緒に来たいですか？",
+        "私たちを連れて行きたいですか？",
+        "私たちと一緒にいたくないですか？"
+      ],
+      "correctAnswer": "一緒に行きませんか？",
+      "explanation": "「Want to come with us?」は、「私たちと一緒に行きませんか？」という意味です。誰かを誘う際に使われる一般的な表現です。例文：We're going to the movies. Want to come with us? (映画に行くけど、一緒に行かない？)"
+    },
+    {
+      "id": 26,
+      "value": "poops all over the place",
+      "options": [
+        "場所全体を掃除する",
+        "場所全体を混乱させる",
+        "場所全体を飾り付ける",
+        "場所全体を照らす"
+      ],
+      "correctAnswer": "場所全体を混乱させる",
+      "explanation": "ここでは、レーザーショーが「あちこちめちゃくちゃにする」という意味で使われています。比喩的な表現で、通常は汚いものや不快なものが広範囲に及ぶ様子を指します。ここでは、レーザーショーの光が予想外の場所にまで広がる様子をユーモラスに表現しています。"
+    },
+    {
+      "id": 27,
+      "value": "your word against mine",
+      "options": [
+        "秘密を守る",
+        "お互いの意見が違う",
+        "協力して解決する",
+        "共通の目標に向かう"
+      ],
+      "correctAnswer": "お互いの意見が違う",
+      "explanation": "「your word against mine」は、「あなたの言うことと私の言うことが対立している」という意味です。証拠がない状況で、それぞれの主張が食い違う場合に使われます。裁判などでよく用いられる表現です。"
+    },
+    {
+      "id": 28,
+      "value": "torn",
+      "options": [
+        "満足している",
+        "悩んでいる",
+        "興奮している",
+        "退屈している"
+      ],
+      "correctAnswer": "悩んでいる",
+      "explanation": "「torn」は、「引き裂かれる」という意味から、「心が揺れ動いて決断できない」「どちらを選ぶべきか悩んでいる」状態を表します。ここでは、Sheldonの行動を追いたい気持ちと、ウサギのおもちゃで遊びたい気持ちの間でRajが葛藤していることを示しています。"
+    },
+    {
+      "id": 29,
+      "value": "what I wouldn't give",
+      "options": [
+        "何も与えない",
+        "すべてを与える",
+        "少しだけ与える",
+        "与えるものを探す"
+      ],
+      "correctAnswer": "すべてを与える",
+      "explanation": "「what I wouldn't give」は、「〜のためなら何でも与える」という意味の慣用句です。ここでは、Alexの服装を変えたいというRajの強い願望を表しています。多くの場合、手に入れることが難しいものや、強い願望に対して使われます。"
+    },
+    {
+      "id": 30,
+      "value": "abs",
+      "options": [
+        "腹筋",
+        "腕",
+        "脚",
+        "胸筋"
+      ],
+      "correctAnswer": "腹筋",
+      "explanation": "absはabdominal musclesの略で、腹筋のことです。ここでは、Sheldonが毎日20分腹筋運動をしているはずがない、なぜなら腹筋が発達していないからだ、というHowardのジョークとして使われています。"
+    },
+    {
+      "id": 31,
+      "value": "up to",
+      "options": [
+        "完了した",
+        "計画中",
+        "興味がない",
+        "反対している"
+      ],
+      "correctAnswer": "計画中",
+      "explanation": "「up to」は、「〜を企んでいる」「〜を計画している」という意味です。多くの場合、何か秘密めいたことや、良くないことをしているのではないかという疑念を含みます。ここでは、Sheldonが一体何を企んでいるのか、Rajが疑問に思っている状況を表しています。"
+    },
+    {
+      "id": 32,
+      "value": "peephole",
+      "options": [
+        "望遠鏡",
+        "顕微鏡",
+        "ドアスコープ",
+        "双眼鏡"
+      ],
+      "correctAnswer": "ドアスコープ",
+      "explanation": "peepholeとは、ドアに設置された小さな穴で、外の様子を内側から確認するために使用されるものです。ドアスコープ、のぞき穴とも呼ばれます。ここでは、LeonardがPennyの部屋に来る男性をのぞき見ている状況を描写しています。"
+    },
+    {
+      "id": 33,
+      "value": "right off the bat",
+      "options": [
+        "すぐに",
+        "最後に",
+        "詳細に",
+        "通常は"
+      ],
+      "correctAnswer": "すぐに",
+      "explanation": "「right off the bat」は、「すぐに」「最初から」という意味のイディオムです。野球の打席から由来し、最初の試みや機会にすぐに行動することを指します。ここでは、SheldonがLeonardの外見について、最初から厳しい評価を下していることを強調しています。"
+    },
+    {
+      "id": 34,
+      "value": "rain on your parade",
+      "options": [
+        "成功を祝う",
+        "計画を台無しにする",
+        "困難を乗り越える",
+        "努力を無視する"
+      ],
+      "correctAnswer": "計画を台無しにする",
+      "explanation": "「rain on someone's parade」は、「人の楽しみを邪魔する」「人の計画を台無しにする」という意味です。ここでは、SheldonがLeonardの恋愛に対して悲観的な見通しを語り、彼の気分を害する状況を表しています。"
+    },
+    {
+      "id": 35,
+      "value": "impeccable",
+      "options": [
+        "完璧な",
+        "普通の",
+        "退屈な",
+        "不快な"
+      ],
+      "correctAnswer": "完璧な",
+      "explanation": "「impeccable」は、「非の打ちどころがない」「完璧な」という意味です。ここでは、SheldonがLeonardの友人選びのセンスを褒める際に使用しています。品質、行動、外見などが優れていることを強調する際に用いられる形容詞です。"
+    },
+    {
+      "id": 36,
+      "value": "a real catch",
+      "options": [
+        "貴重な人",
+        "危険な人",
+        "平凡な人",
+        "嘘つきな人"
+      ],
+      "correctAnswer": "貴重な人",
+      "explanation": "「a real catch」は、「理想的な結婚相手」「魅力的な人」という意味です。ここでは、SheldonがLeonardの持つ良い点を挙げて、PennyにとってLeonardがどれほど魅力的な相手であるかを強調しています。ユーモラスな文脈で使われることが多いです。"
+    },
+    {
+      "id": 37,
+      "value": "lousy",
+      "options": [
+        "美味しい",
+        "ひどい",
+        "新鮮な",
+        "甘い"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「lousy」は、「ひどい」「不快な」「質の悪い」という意味です。ここでは、SheldonがLeonardの冷蔵庫に入っているブドウの品質をけなす際に使用しています。口語的な表現で、軽蔑や不満を表す際に用いられます。"
+    },
+    {
+      "id": 38,
+      "value": "statistical possibility",
+      "options": [
+        "統計的な義務",
+        "統計的な可能性",
+        "統計的な事実",
+        "統計的な誤り"
+      ],
+      "correctAnswer": "統計的な可能性",
+      "explanation": "「statistical possibility」は、「統計的な可能性」という意味で、ここでは、ありえないことではないというニュアンスで使われています。どんなに低い確率でも、可能性はゼロではないというSheldonの考えを反映しています。"
+    },
+    {
+      "id": 39,
+      "value": "pecking for corn",
+      "options": [
+        "トウモロコシを探す",
+        "餌を探す",
+        "水を探す",
+        "休憩する"
+      ],
+      "correctAnswer": "餌を探す",
+      "explanation": "「pecking for corn」は、「鶏がトウモロコシをついばむ」という意味ですが、ここでは、催眠術によってPennyが自分の意志とは関係なく行動している様子を、比喩的に表現しています。意識がない状態で何かをしている様子を指します。"
+    },
+    {
+      "id": 40,
+      "value": "cat burglars",
+      "options": [
+        "泥棒",
+        "探偵",
+        "警察官",
+        "スパイ"
+      ],
+      "correctAnswer": "泥棒",
+      "explanation": "「cat burglar」は、「夜間の忍び込み泥棒」「ねこどろぼう」という意味です。ここでは、RajとHowardがSheldonの秘密を探るためにこっそりと行動している様子を、ユーモラスに表現しています。"
+    },
+    {
+      "id": 41,
+      "value": "stand guard",
+      "options": [
+        "攻撃する",
+        "見張る",
+        "逃げる",
+        "隠れる"
+      ],
+      "correctAnswer": "見張る",
+      "explanation": "「stand guard」は、「見張りをする」「警備する」という意味です。ここでは、Howardが鍵を開けている間、Rajに見張りを頼むという状況で使われています。危険な状況や秘密の行動において、周囲を警戒する役割を指します。"
+    },
+    {
+      "id": 42,
+      "value": "Good day",
+      "options": [
+        "こんにちは",
+        "さようなら",
+        "おはよう",
+        "こんばんは"
+      ],
+      "correctAnswer": "さようなら",
+      "explanation": "「Good day」は、「良い一日を」という意味ですが、ここでは皮肉っぽく「さようなら」の意味で使われています。相手との会話を打ち切りたい時や、そっけない態度を示したい時に用いられます。"
+    },
+    {
+      "id": 43,
+      "value": "a big deal",
+      "options": [
+        "重要なこと",
+        "些細なこと",
+        "秘密",
+        "嘘"
+      ],
+      "correctAnswer": "重要なこと",
+      "explanation": "「a big deal」は、「重要なこと」「大したこと」という意味です。ここではLeonardがPennyの件を気にしないと強がって見せるために使われています。"
+    },
+    {
+      "id": 44,
+      "value": "emotional maturity",
+      "options": [
+        "感情的な成熟",
+        "感情的な未熟",
+        "感情的な安定",
+        "感情的な不安定"
+      ],
+      "correctAnswer": "感情的な成熟",
+      "explanation": "「emotional maturity」は、「感情的な成熟」「精神的な成長」という意味です。ここではLeonardが自分にはPennyの相手にふさわしいだけの感情的な成熟度があると主張するために使われています。"
+    },
+    {
+      "id": 45,
+      "value": "sneak around",
+      "options": [
+        "堂々と歩く",
+        "こっそり歩き回る",
+        "大声で話す",
+        "静かに座る"
+      ],
+      "correctAnswer": "こっそり歩き回る",
+      "explanation": "「sneak around」は、「こっそり歩き回る」「隠れて行動する」という意味です。ここではRajとHowardがSheldonの秘密を探るためにこっそり行動している様子を表しています。"
+    },
+    {
+      "id": 46,
+      "value": "What could he be doing in there every day for twenty minutes?",
+      "options": [
+        "彼は毎日何をしているのだろう？",
+        "彼は毎日何を作るのだろう？",
+        "彼は毎日何を食べるのだろう？",
+        "彼は毎日どこへ行くのだろう？"
+      ],
+      "correctAnswer": "彼は毎日何をしているのだろう？",
+      "explanation": "「What could he be doing in there every day for twenty minutes?」は、「彼は毎日そこで20分間何をしているのだろうか？」という意味です。HowardがSheldonの行動に疑問を持っていることを表しています。"
+    },
+    {
+      "id": 47,
+      "value": "treat the man differently",
+      "options": [
+        "その人を特別扱いする",
+        "その人を平等に扱う",
+        "その人を無視する",
+        "その人を批判する"
+      ],
+      "correctAnswer": "その人を特別扱いする",
+      "explanation": "「treat the man differently」は、「その人を違うように扱う」「その人を特別扱いする」という意味です。RajがHowardに、Stephen Hawkingを障害者だからといって特別扱いするなと注意する場面で使われています。"
+    },
+    {
+      "id": 48,
+      "value": "have the time of his life",
+      "options": [
+        "人生最悪の時を過ごす",
+        "人生最高の時を過ごす",
+        "退屈な時を過ごす",
+        "普通の時を過ごす"
+      ],
+      "correctAnswer": "人生最高の時を過ごす",
+      "explanation": "「have the time of his life」は、「人生最高の時を過ごす」「非常に楽しい時を過ごす」という意味です。ここではSheldonが、Pennyが催眠術によって知らないうちに別の男と楽しい時間を過ごしているかもしれない、という突飛な想像をしています。"
+    },
+    {
+      "id": 49,
+      "value": "You were just spying on your girlfriend through a peephole.",
+      "options": [
+        "あなたはガールフレンドを応援していた",
+        "あなたはガールフレンドを無視していた",
+        "あなたはガールフレンドをスパイしていた",
+        "あなたはガールフレンドを助けていた"
+      ],
+      "correctAnswer": "あなたはガールフレンドをスパイしていた",
+      "explanation": "「You were just spying on your girlfriend through a peephole.」は、「あなたは今さっきドアスコープでガールフレンドを覗き見していたじゃないか」という意味です。SheldonがLeonardの行動を指摘し、感情的な成熟度について皮肉を込めて言及する場面で使われています。"
+    },
+    {
+      "id": 50,
+      "value": "next time",
+      "options": [
+        "前回",
+        "今回",
+        "次回",
+        "いつも"
+      ],
+      "correctAnswer": "次回",
+      "explanation": "「next time」は、「次回」「今度」という意味です。ここでは、RajがHowardに、次こそは泥棒の役割をしたいと主張する場面で使われています。"
+    },
+    {
+      "id": 51,
+      "value": "keep an eye out",
+      "options": [
+        "目を閉じていろ",
+        "見張り続ける",
+        "目を覚ませ",
+        "監視カメラを設置しろ"
+      ],
+      "correctAnswer": "見張り続ける",
+      "explanation": "「keep an eye out」は、「注意して見る」「見張る」という意味のイディオムです。危険や何かを探すために周囲に注意を払うことを指します。Example: Keep an eye out for any suspicious activity. (何か怪しい動きがないか見張っていてください。)"
+    },
+    {
+      "id": 52,
+      "value": "work out",
+      "options": [
+        "運動する",
+        "うまくいく",
+        "解決する",
+        "計算する"
+      ],
+      "correctAnswer": "うまくいく",
+      "explanation": "「work out」は、計画や行動が「うまくいく」「成功する」という意味で使われます。または問題が解決するという意味合いでも使われます。ここでは、ハワードが脱出マジックがうまくいったか尋ねられているので、「うまくいく」が正解です。Example: I hope everything works out for you. (すべてがうまくいくといいですね。)"
+    },
+    {
+      "id": 53,
+      "value": "one step ahead",
+      "options": [
+        "一歩前進",
+        "一歩先を行く",
+        "足並みをそろえる",
+        "後退する"
+      ],
+      "correctAnswer": "一歩先を行く",
+      "explanation": "「one step ahead」は、「一歩先を行く」「出し抜く」という意味のイディオムです。競争やゲームなどで、相手よりも有利な状況にあることを示します。Example: We need to stay one step ahead of our competitors. (競合他社の一歩先を行く必要があります。)"
+    },
+    {
+      "id": 54,
+      "value": "booby-trapped",
+      "options": [
+        "罠が仕掛けられた",
+        "応援された",
+        "才能のある",
+        "保護された"
+      ],
+      "correctAnswer": "罠が仕掛けられた",
+      "explanation": "「booby-trapped」は、「ブービートラップが仕掛けられた」という意味です。ブービートラップとは、人を傷つけるために仕掛けられた隠れた罠のことです。Example: The building was booby-trapped with explosives. (その建物には爆発物が仕掛けられていた。)"
+    },
+    {
+      "id": 55,
+      "value": "cagey",
+      "options": [
+        "無頓着な",
+        "用心深い",
+        "おおざっぱな",
+        "攻撃的な"
+      ],
+      "correctAnswer": "用心深い",
+      "explanation": "「cagey」は、「用心深い」「口が堅い」という意味です。自分の考えや情報を隠したがる様子を表します。特に秘密主義な人に対して使われることが多いです。Example: He was very cagey about his plans. (彼は自分の計画について非常に用心深かった。)"
+    },
+    {
+      "id": 56,
+      "value": "off",
+      "options": [
+        "離れて",
+        "仕事",
+        "休憩",
+        "中止"
+      ],
+      "correctAnswer": "離れて",
+      "explanation": "ここでは場所や状態が「離れて」いることを示す副詞として使われています。Penny (off): Thanks, Cole. See you at school. (ペニー（声だけ）：ありがとう、コール。学校でね。)"
+    },
+    {
+      "id": 57,
+      "value": "rushing to catch up with",
+      "options": [
+        "急いで捕まえる",
+        "急いで追いかける",
+        "ゆっくり近づく",
+        "無視する"
+      ],
+      "correctAnswer": "急いで追いかける",
+      "explanation": "「rush to catch up with」は「〜に追いつくために急ぐ」という意味です。ここでは、レナードがコールに追いつくために急いでいる状況を表しています。Example: I had to rush to catch up with the train. (電車に追いつくために急がなければならなかった。)"
+    },
+    {
+      "id": 58,
+      "value": "see around",
+      "options": [
+        "完全に見る",
+        "周りを見る",
+        "時々見かける",
+        "監視する"
+      ],
+      "correctAnswer": "時々見かける",
+      "explanation": "「see around」は「〜を時々見かける」という意味です。ここでは、レナードがペニーのことを時々見かけると言っています。Example: I see him around at the gym. (ジムで彼を時々見かけます。)"
+    },
+    {
+      "id": 59,
+      "value": "gang up",
+      "options": [
+        "仲間になる",
+        "裏切る",
+        "解散する",
+        "団結する"
+      ],
+      "correctAnswer": "仲間になる",
+      "explanation": "「gang up」は「徒党を組む、集団でいじめる」という意味です。ここではレナードがPennyのボーイフレンドが徒党を組んでいると言っています。Example: The bullies ganged up on him. (いじめっ子たちは彼をいじめた。)"
+    },
+    {
+      "id": 60,
+      "value": "tip",
+      "options": [
+        "秘密",
+        "忠告",
+        "報酬",
+        "ヒント"
+      ],
+      "correctAnswer": "忠告",
+      "explanation": "ここでは「忠告」という意味で使われています。LeonardがColeにPennyのボーイフレンドについて忠告しているので、これが正解です。Example: Thanks for the tip. (忠告ありがとう。)"
+    },
+    {
+      "id": 61,
+      "value": "stay frosty",
+      "options": [
+        "冷静でいろ",
+        "暖かくしてろ",
+        "凍りつけ",
+        "落ち着け"
+      ],
+      "correctAnswer": "冷静でいろ",
+      "explanation": "「stay frosty」は「冷静でいろ、油断するな」という意味のスラングです。軍隊でよく使われる表現で、危険な状況でも冷静さを保つように促します。Example: Stay frosty out there. (そちらでは冷静でいてください。)"
+    },
+    {
+      "id": 62,
+      "value": "honorary",
+      "options": [
+        "名誉の",
+        "正直な",
+        "有給の",
+        "無料の"
+      ],
+      "correctAnswer": "名誉の",
+      "explanation": "「honorary」は「名誉の、名誉職の」という意味です。ここでは、レナードが自分の猫の学位が名誉学位だったと言っています。Example: He received an honorary degree from the university. (彼は大学から名誉学位を授与された。)"
+    },
+    {
+      "id": 63,
+      "value": "hit on",
+      "options": [
+        "当たる",
+        "叩く",
+        "口説く",
+        "攻撃する"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「hit on」は「口説く、ナンパする」という意味です。ここでは、レナードがPennyが他の男に口説かれているのではないかと心配しています。Example: He was hitting on me at the bar. (彼はバーで私を口説いていた。)"
+    },
+    {
+      "id": 64,
+      "value": "harmless",
+      "options": [
+        "無害な",
+        "危険な",
+        "役に立つ",
+        "高価な"
+      ],
+      "correctAnswer": "無害な",
+      "explanation": "「harmless」は「無害な、悪意のない」という意味です。ここでは、アレックスがPennyに対する男の行動は無害かもしれないと言っています。Example: It's probably harmless. (それはおそらく無害でしょう。)"
+    },
+    {
+      "id": 65,
+      "value": "rip clothes off",
+      "options": [
+        "服を脱ぐ",
+        "服を破る",
+        "服を洗濯する",
+        "服を褒める"
+      ],
+      "correctAnswer": "服を破る",
+      "explanation": "「rip clothes off」は「服を剥ぎ取る、服を破る」という意味です。ここでは、レナードが冗談で、帰り道で女の子に服を剥ぎ取られることがないように願っています。Example: The fans were so excited that they tried to rip his clothes off. (ファンは興奮しすぎて彼の服を剥ぎ取ろうとした。)"
+    },
+    {
+      "id": 66,
+      "value": "figure out",
+      "options": [
+        "計算する",
+        "理解する",
+        "忘れる",
+        "想像する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」は、「理解する」「解明する」という意味です。問題や謎を解決する際に使われます。Example: I can't figure out how to use this machine. (この機械の使い方を理解できない。)"
+    },
+    {
+      "id": 67,
+      "value": "prime number",
+      "options": [
+        "素数",
+        "偶数",
+        "奇数",
+        "概数"
+      ],
+      "correctAnswer": "素数",
+      "explanation": "「prime number」は「素数」という意味です。1と自分自身以外に約数を持たない数です。ここではRajが43が素数であることに言及しています。Example: 7 is a prime number. (7は素数です。)"
+    },
+    {
+      "id": 68,
+      "value": "encryption systems",
+      "options": [
+        "暗号化システム",
+        "冷却システム",
+        "換気システム",
+        "排水システム"
+      ],
+      "correctAnswer": "暗号化システム",
+      "explanation": "「encryption systems」は「暗号化システム」という意味です。情報を保護するためにデータを暗号化するシステムのことです。Example: Encryption systems are used to protect sensitive data. (暗号化システムは機密データを保護するために使用されます。)"
+    },
+    {
+      "id": 76,
+      "value": "put together",
+      "options": [
+        "分解する",
+        "組み立てる",
+        "無視する",
+        "盗む"
+      ],
+      "correctAnswer": "組み立てる",
+      "explanation": "「put together」は、複数の部品や要素を組み合わせて何かを作り上げるという意味です。物理的な組み立てだけでなく、計画や組織をまとめる際にも使われます。\n\n例：It took him two years to put together that Lego Death Star. (彼があのレゴのデス・スターを組み立てるのに2年かかった。)"
+    },
+    {
+      "id": 77,
+      "value": "dumb-ass",
+      "options": [
+        "天才",
+        "ばか者",
+        "賢者",
+        "友人"
+      ],
+      "correctAnswer": "ばか者",
+      "explanation": "「dumb-ass」は、非常に侮辱的な言葉で、相手を愚か者、馬鹿者と罵る際に使われます。フォーマルな場や、相手との関係性を損ないたくない場合には絶対に使用を避けるべきです。親しい間柄でも、相手が不快に感じる可能性があるため、注意が必要です。"
+    },
+    {
+      "id": 78,
+      "value": "exhausted",
+      "options": [
+        "興奮した",
+        "疲弊した",
+        "満足した",
+        "落ち着いた"
+      ],
+      "correctAnswer": "疲弊した",
+      "explanation": "「exhausted」は、肉体的または精神的に非常に疲れている状態を表します。エネルギーが完全に使い果たされ、休息が必要な状態を指します。\n\n例：We should stop. I’m exhausted. (やめるべきだ。私は疲れている。)"
+    },
+    {
+      "id": 79,
+      "value": "What the balls",
+      "options": [
+        "どうでもいい",
+        "一体何だ",
+        "素晴らしい",
+        "問題ない"
+      ],
+      "correctAnswer": "一体何だ",
+      "explanation": "「What the balls」は、驚き、困惑、または怒りを表す際に使われる口語的な表現です。「What the hell」や「What the heck」と同様の意味合いで、より粗野な表現です。フォーマルな場面や、相手との関係性を考慮して使用を避けるべきです。"
+    },
+    {
+      "id": 80,
+      "value": "spray painting",
+      "options": [
+        "油絵",
+        "水彩画",
+        "スプレー塗装",
+        "版画"
+      ],
+      "correctAnswer": "スプレー塗装",
+      "explanation": "「spray painting」は、スプレー缶を使って塗料を吹き付ける塗装方法を指します。グラフィティアートや、自動車のカスタムペイントなど、様々な用途で使用されます。\n\n例：shouldn’t you be out with your gang, spray painting equations on the side of buildings? (お前は仲間とつるんで、建物の壁に方程式をスプレー塗装してないのか？)"
+    },
+    {
+      "id": 81,
+      "value": "hit on",
+      "options": [
+        "無視する",
+        "攻撃する",
+        "口説く",
+        "避ける"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「hit on」は、人に恋愛的な関心を示し、口説く、ナンパするという意味です。直接的なアプローチだけでなく、遠回しな誘いも含まれます。\n\n例：Everywhere you go, guys hit on you, even if I’m standing right there. (どこへ行っても、男たちは君を口説く、たとえ私がそこに立っていても。)"
+    },
+    {
+      "id": 82,
+      "value": "drive crazy",
+      "options": [
+        "落ち着かせる",
+        "正気に戻す",
+        "怒らせる",
+        "夢中にさせる"
+      ],
+      "correctAnswer": "怒らせる",
+      "explanation": "「drive crazy」は、人を非常にイライラさせたり、怒らせたり、または精神的に不安定にさせるという意味です。文字通りには「狂わせる」となります。\n\n例：Leonard, why do you always do this? Listen to me, you’re the one I’m with. You know I love you, so will you please relax because you’re driving me crazy.(どうしていつもこうなの？　私はあなたと一緒にいるのよ。愛しているわ。落ち着いて。そうしないと気が狂ってしまうわ。)"
+    },
+    {
+      "id": 83,
+      "value": "pretend",
+      "options": [
+        "理解する",
+        "自覚する",
+        "ふりをする",
+        "後悔する"
+      ],
+      "correctAnswer": "ふりをする",
+      "explanation": "「pretend」は、実際とは異なることを装う、ふりをするという意味です。遊びや演技、または現実を隠すために使われます。\n\n例：We’re just supposed to pretend it’s not a big deal? (私たちはただ、それが大したことではないふりをすべきなの？)"
+    },
+    {
+      "id": 84,
+      "value": "available",
+      "options": [
+        "利用可能",
+        "不可能",
+        "退屈",
+        "忙しい"
+      ],
+      "correctAnswer": "利用可能",
+      "explanation": "「available」は、利用できる、手が空いている、都合が良いという意味です。人、物、時間など、様々な対象に対して使われます。\n\n例：If you want to talk more, I’m always available. (もっと話したいなら、いつでも都合がいいよ。)"
+    },
+    {
+      "id": 85,
+      "value": "spare",
+      "options": [
+        "特別な",
+        "予備の",
+        "主要な",
+        "貴重な"
+      ],
+      "correctAnswer": "予備の",
+      "explanation": "「spare」は、予備の、余分のという意味です。通常使用するものとは別に用意されているものを指します。\n\n例：It’s the spare camera for the Mars rover. (それは火星探査機の予備のカメラだ。)"
+    },
+    {
+      "id": 86,
+      "value": "get one's hands on",
+      "options": [
+        "失う",
+        "修理する",
+        "手に入れる",
+        "隠す"
+      ],
+      "correctAnswer": "手に入れる",
+      "explanation": "「get one's hands on」は、何かを入手する、手に入れるという意味です。しばしば、入手困難なものや、通常の方法では手に入らないものを手に入れる際に使われます。\n\n例：How did you get your hands on that? (どうやってそれを手に入れたんだ？)"
+    },
+    {
+      "id": 87,
+      "value": "wormhole",
+      "options": [
+        "ブラックホール",
+        "ワームホール",
+        "ホワイトホール",
+        "タイムマシン"
+      ],
+      "correctAnswer": "ワームホール",
+      "explanation": "「wormhole」は、宇宙空間の離れた2点を繋ぐとされる、理論上のトンネルです。SF作品などでよく登場します。\n\n例：Wormhole generator test? (ワームホール発生装置のテスト？)"
+    },
+    {
+      "id": 88,
+      "value": "parallel universe",
+      "options": [
+        "現実世界",
+        "並行宇宙",
+        "仮想空間",
+        "異次元空間"
+      ],
+      "correctAnswer": "並行宇宙",
+      "explanation": "「parallel universe」は、私たちの宇宙とは別に存在する、別の宇宙のことです。多元宇宙論における概念の一つで、SF作品などでよく登場します。\n\n例：The first forty-three parallel universes I’ve checked proved to be empty. (私が確認した最初の43の並行宇宙は空っぽだった。)"
+    },
+    {
+      "id": 89,
+      "value": "stuck to",
+      "options": [
+        "嫌われる",
+        "好かれる",
+        "くっつく",
+        "離れる"
+      ],
+      "correctAnswer": "くっつく",
+      "explanation": "「stuck to」は、何かが何かにくっついている状態を表します。物理的に接着しているだけでなく、比喩的に何かに固執している状態も指します。\n\n例：It’s eating my face! (顔にくっついて食べている!)"
+    },
+    {
+      "id": 90,
+      "value": "ashamed",
+      "options": [
+        "誇りに思う",
+        "恥ずかしい",
+        "嬉しい",
+        "悲しい"
+      ],
+      "correctAnswer": "恥ずかしい",
+      "explanation": "「ashamed」は、恥ずかしい、後ろめたいという感情を表します。自分の行動や性質に対して、不名誉だと感じる時に使われます。\n\n例：You two should be ashamed of yourselves. (お前たち二人は恥を知るべきだ。)"
+    },
+    {
+      "id": 91,
+      "value": "navigating",
+      "options": [
+        "航海する",
+        "操作する",
+        "回避する",
+        "迷う"
+      ],
+      "correctAnswer": "操作する",
+      "explanation": "「navigate」は、道や場所を移動する、または困難な状況を切り抜けるという意味です。ここでは、人生の困難を乗り越えるという意味合いで使われています。\n\n例：You may not realize it, but I have difficulty navigating certain aspects of daily life. (君たちは気づいていないかもしれないが、私は日常生活のある側面を切り抜けるのが苦手だ。)"
+    },
+    {
+      "id": 92,
+      "value": "sarcasm",
+      "options": [
+        "誠実",
+        "皮肉",
+        "ユーモア",
+        "嘘"
+      ],
+      "correctAnswer": "皮肉",
+      "explanation": "「sarcasm」は、皮肉、嫌味という意味です。相手を嘲笑したり、非難したりする意図を持って、反対の意味の言葉を使うことがあります。\n\n例：You know, understanding sarcasm, feigning interest in others, not talking about trains as much as I want to. (皮肉を理解したり、他人に興味があるふりをしたり、電車の話をしたいのを我慢したりするんだ。)"
+    },
+    {
+      "id": 93,
+      "value": "feigning",
+      "options": [
+        "理解する",
+        "誤解する",
+        "ふりをする",
+        "無視する"
+      ],
+      "correctAnswer": "ふりをする",
+      "explanation": "「feign」は、感情や状態を偽る、ふりをするという意味です。意図的に何かを装うニュアンスがあります。\n\n例：You know, understanding sarcasm, feigning interest in others, not talking about trains as much as I want to. (皮肉を理解したり、他人に興味があるふりをしたり、電車の話をしたいのを我慢したりするんだ。)"
+    },
+    {
+      "id": 94,
+      "value": "recharge",
+      "options": [
+        "消耗する",
+        "充電する",
+        "停止する",
+        "破壊する"
+      ],
+      "correctAnswer": "充電する",
+      "explanation": "「recharge」は、エネルギーや活力を回復させる、充電するという意味です。文字通りバッテリーを充電するだけでなく、精神的なエネルギーを回復させる際にも使われます。\n\n例：Which is why, for twenty minutes a day, I like to go down to that room, turn my mind off and do what I need to do to recharge. (だから、1日に20分間、私はあの部屋に行って、頭を空っぽにして、エネルギーを充電するために必要なことをするのが好きなんだ。)"
+    },
+    {
+      "id": 95,
+      "value": "deserve",
+      "options": [
+        "必要とする",
+        "値する",
+        "拒否する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "値する",
+      "explanation": "「deserve」は、〜に値する、〜する資格があるという意味です。良いことにも悪いことにも使われます。\n\n例：You don’t need to know, you don’t deserve to know, and you will never know. (君たちは知る必要はない、知るに値しない、そして決して知ることはない。)"
+    },
+    {
+      "id": 96,
+      "value": "egg salad",
+      "options": [
+        "ポテトサラダ",
+        "卵サラダ",
+        "グリーンサラダ",
+        "ツナサラダ"
+      ],
+      "correctAnswer": "卵サラダ",
+      "explanation": "「egg salad」は、ゆで卵を潰してマヨネーズや調味料と混ぜたサラダです。サンドイッチの具としてもよく使われます。\n\n例：Yeah, well, I know how to make your egg salad now. (ああ、そう。私はあなたの卵サラダの作り方を知っている。)"
+    },
+    {
+      "id": 97,
+      "value": "keepie-uppie",
+      "options": [
+        "休憩",
+        "サッカーのリフティング",
+        "秘密",
+        "掃除"
+      ],
+      "correctAnswer": "サッカーのリフティング",
+      "explanation": "「keepie-uppie」は、サッカーボールを地面に落とさないように、足や体を使ってリフティングする行為を指します。特にイギリス英語でよく使われる言葉です。\n\n例：Sheldon: One, two, three, four, five, six, seven, eight… Drat. I’m never going to get to forty-three again. One, two, three, four… Rats. (シェルドン：1, 2, 3, 4, 5, 6, 7, 8… ちぇ。また43までいかない。1, 2, 3, 4… くそっ。)"
+    },
+    {
+      "id": 98,
+      "value": "atomic number",
+      "options": [
+        "分子番号",
+        "原子番号",
+        "質量数",
+        "中性子数"
+      ],
+      "correctAnswer": "原子番号",
+      "explanation": "「atomic number」は、原子核内の陽子の数を指します。元素を特定する上で重要な指標です。\n\n例：Raj: It’s the atomic number for technetium. (ラージ：テクネチウムの原子番号だ。)"
+    },
+    {
+      "id": 99,
+      "value": "radioactive",
+      "options": [
+        "伝染性",
+        "放射性",
+        "中毒性",
+        "非活性"
+      ],
+      "correctAnswer": "放射性",
+      "explanation": "「radioactive」は、放射能を持つ、放射性のという意味です。原子核が不安定で、放射線を放出する性質を指します。\n\n例：Howard: That stuff’s radioactive. (ハワード：あれは放射性物質だ。)"
+    },
+    {
+      "id": 100,
+      "value": "gang",
+      "options": [
+        "家族",
+        "友人",
+        "ギャング",
+        "敵"
+      ],
+      "correctAnswer": "ギャング",
+      "explanation": "「gang」は、仲間、集団、グループという意味ですが、ここでは特に共通の目的を持つグループ、あるいは少し反社会的な集団を指すニュアンスで使われています。\n\n例：Hey, shouldn’t you be out with your gang, spray painting equations on the side of buildings? (ねえ、仲間たちとつるんで、建物の壁に方程式をスプレーで描いてるんじゃないの？)"
+    }
+  ]
+}

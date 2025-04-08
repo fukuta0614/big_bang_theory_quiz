@@ -1,0 +1,988 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "trick into",
+      "options": [
+        "手伝う",
+        "騙して～させる",
+        "忘れる",
+        "招待する"
+      ],
+      "correctAnswer": "騙して～させる",
+      "explanation": "「trick into doing」は、「～するように騙す」という意味です。人を巧みに説得したり、策略を用いて何かをさせたりする状況で使われます。意図的に人を誘導するニュアンスが含まれます。\n\n例：She tricked him into cleaning the house. (彼女は彼を騙して家を掃除させた。)"
+    },
+    {
+      "id": 2,
+      "value": "flip out",
+      "options": [
+        "喜ぶ",
+        "怒る、取り乱す",
+        "冷静になる",
+        "悲しむ"
+      ],
+      "correctAnswer": "怒る、取り乱す",
+      "explanation": "「flip out」は、非常に興奮したり、パニックになったり、怒ったりする状態を表します。感情が大きく揺さぶられ、コントロールを失うような状況で使われます。ネガティブな意味合いが強いです。\n\n例：He flipped out when he heard the news. (彼はそのニュースを聞いて取り乱した。)"
+    },
+    {
+      "id": 3,
+      "value": "cut-rate",
+      "options": [
+        "高価な",
+        "低価格の",
+        "平均的な",
+        "最新の"
+      ],
+      "correctAnswer": "低価格の",
+      "explanation": "「cut-rate」は、「低価格の」「割引の」という意味です。品質が低いか、通常よりも安い価格で提供されることを示唆します。しばしば、安価であることによるリスクや妥協を含むニュアンスがあります。\n\n例：They stayed in a cut-rate motel. (彼らは低価格のモーテルに泊まった。)"
+    },
+    {
+      "id": 4,
+      "value": "home made",
+      "options": [
+        "輸入品",
+        "家庭で作った",
+        "店で買った",
+        "高価な"
+      ],
+      "correctAnswer": "家庭で作った",
+      "explanation": "「homemade」は、「家庭で作られた」という意味です。手作りであり、一般的に愛情や個人的な配慮が込められていることを示唆します。大量生産されたものとは対照的なニュアンスがあります。\n\n例：She baked homemade cookies for the party. (彼女はパーティーのために手作りのクッキーを焼いた。)"
+    },
+    {
+      "id": 5,
+      "value": "boysenberry",
+      "options": [
+        "ブルーベリーの一種",
+        "ラズベリーの一種",
+        "ブラックベリーとラズベリーの交配種",
+        "イチゴの一種"
+      ],
+      "correctAnswer": "ブラックベリーとラズベリーの交配種",
+      "explanation": "「boysenberry」は、ブラックベリー、ラズベリー、ローガンベリーの交配種です。甘酸っぱく、独特の風味があり、ジャム、パイ、ジュースなどに使われます。あまり一般的ではない果物であるため、少しユーモラスな文脈で使われることもあります。"
+    },
+    {
+      "id": 6,
+      "value": "there's room for",
+      "options": [
+        "〜する余裕がある",
+        "〜する時間がない",
+        "〜する必要がない",
+        "〜するのは難しい"
+      ],
+      "correctAnswer": "〜する余裕がある",
+      "explanation": "「There's room for」は、「～のための余裕がある」「～を受け入れる余地がある」という意味です。物理的な空間だけでなく、時間、感情、可能性など、抽象的な概念にも使われます。 \n\n例：There's room for improvement. (改善の余地がある。)"
+    },
+    {
+      "id": 7,
+      "value": "call this a draw",
+      "options": [
+        "引き分けとみなす",
+        "勝利とみなす",
+        "敗北とみなす",
+        "再試合を要求する"
+      ],
+      "correctAnswer": "引き分けとみなす",
+      "explanation": "「call it a draw」は、「引き分けとみなす」「勝負なしとする」という意味です。議論や競争において、どちらの側も明確な優位性を示せない場合に、決着をつけずに終わらせることを指します。 \n\n例：Let's call it a draw and go get some lunch. (引き分けにして、昼食に行こう。)"
+    },
+    {
+      "id": 26,
+      "value": "glowing",
+      "options": [
+        "輝く",
+        "成長する",
+        "疲弊する",
+        "悲しむ"
+      ],
+      "correctAnswer": "輝く",
+      "explanation": "「glowing」は、ここでは妊娠によって肌が美しく輝く様子を表しています。内側から輝き出るような美しさを表現する際に使われます。幸福感や健康状態が良いことも示唆します。"
+    },
+    {
+      "id": 27,
+      "value": "baby bump",
+      "options": [
+        "赤ちゃんの湿疹",
+        "おむつの山",
+        "胎動",
+        "お腹の膨らみ"
+      ],
+      "correctAnswer": "お腹の膨らみ",
+      "explanation": "「baby bump」は、妊娠中のお腹の膨らみを指す、親しみやすい表現です。特に妊娠初期から中期にかけて、徐々にお腹が大きくなってくる状態を指します。"
+    },
+    {
+      "id": 28,
+      "value": "make too much out of",
+      "options": [
+        "少なく見積もる",
+        "大げさに考える",
+        "無視する",
+        "理解する"
+      ],
+      "correctAnswer": "大げさに考える",
+      "explanation": "「make too much out of」は、～を大げさに考えすぎる、という意味のイディオムです。些細なことを重大なこととして捉えたり、過剰に反応したりする状況で使われます。Example: Don't make too much out of his silence. He's probably just tired. (彼の沈黙を大げさに考えないで。彼はたぶん疲れているだけだよ。)"
+    },
+    {
+      "id": 29,
+      "value": "overreacting",
+      "options": [
+        "反応しない",
+        "冷静に対応する",
+        "過剰に反応する",
+        "無関心でいる"
+      ],
+      "correctAnswer": "過剰に反応する",
+      "explanation": "「overreacting」は、状況に対して過剰に反応することを意味します。冷静さを欠き、感情的に対応する様子を表します。些細なことに対して怒ったり、心配しすぎたりする場合に使われます。Example: I think you're overreacting to the situation. Just calm down. (あなたは状況に過剰に反応していると思います。落ち着いてください。)"
+    },
+    {
+      "id": 30,
+      "value": "baby-proof",
+      "options": [
+        "赤ちゃんを泣かせる",
+        "赤ちゃんを育てる",
+        "赤ちゃんに安全な状態にする",
+        "赤ちゃんを避ける"
+      ],
+      "correctAnswer": "赤ちゃんに安全な状態にする",
+      "explanation": "「baby-proof」は、赤ちゃんが安全に過ごせるように、家や部屋を安全対策を施すことを意味します。家具の角を保護したり、危険なものを手の届かない場所に移動させたりするなどの対策が含まれます。Example: We need to baby-proof the house before the baby arrives. (赤ちゃんが来る前に家をベビープルーフにする必要があります。)"
+    },
+    {
+      "id": 31,
+      "value": "nuts",
+      "options": [
+        "勇気",
+        "木の実",
+        "正気",
+        "睾丸"
+      ],
+      "correctAnswer": "睾丸",
+      "explanation": "ここでは「nuts」は俗語で「睾丸」を指し、「kicked me in the nuts」で経済的な苦痛や精神的な衝撃を表す比喩表現です。非常に不快な状況や、予期せぬ困難に直面した際の感情を強調するために使われます。"
+    },
+    {
+      "id": 32,
+      "value": "allowance",
+      "options": [
+        "我慢",
+        "手当",
+        "許可",
+        "言い訳"
+      ],
+      "correctAnswer": "手当",
+      "explanation": "ここでは「allowance」は、定期的に与えられるお金、特に親から子供へのお小遣いを指します。ここではBernadetteがHowardに与えているお小遣いをからかう文脈で使用されています。"
+    },
+    {
+      "id": 33,
+      "value": "overwhelmed",
+      "options": [
+        "圧倒される",
+        "無視される",
+        "喜ばれる",
+        "軽視される"
+      ],
+      "correctAnswer": "圧倒される",
+      "explanation": "「overwhelmed」は、感情や情報が多すぎて、どう対処して良いかわからない状態を表します。ここではHowardが子供を持つことに対する責任や経済的な負担に圧倒されている様子を表しています。"
+    },
+    {
+      "id": 34,
+      "value": "vasectomies",
+      "options": [
+        "避妊手術",
+        "ダイエット",
+        "筋力トレーニング",
+        "美容整形"
+      ],
+      "correctAnswer": "避妊手術",
+      "explanation": "「vasectomy」は、男性の避妊手術（精管切除）を意味します。Leonardが「All get vasectomies so this doesn’t happen to us? (全員避妊手術を受けて、こんなことが起こらないようにする？)」と言っているのは、Howardの予期せぬ妊娠に対する一種のジョークです。"
+    },
+    {
+      "id": 35,
+      "value": "get your mind off this",
+      "options": [
+        "これを忘れる",
+        "これを思い出す",
+        "これを整理する",
+        "これを無視する"
+      ],
+      "correctAnswer": "これを忘れる",
+      "explanation": "「get your mind off this」は、あることについて考えるのをやめて気分転換するという意味のイディオムです。悩みや心配事から気を紛らわせたい時に使われます。Example: Let's go for a walk to get your mind off things. (気分転換に散歩に行きましょう。)"
+    },
+    {
+      "id": 36,
+      "value": "hang out",
+      "options": [
+        "出かける",
+        "ぶらぶらする",
+        "手伝う",
+        "邪魔する"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、リラックスして時間を過ごす、特に親しい人たちと気軽に過ごすという意味です。特に目的もなく、一緒に時間を楽しむ状況を表します。Example: We can just stay here and hang out. (ここにいて、ただぶらぶら過ごしましょう。)"
+    },
+    {
+      "id": 37,
+      "value": "propose a toast",
+      "options": [
+        "乾杯の音頭をとる",
+        "提案をする",
+        "抗議をする",
+        "秘密を暴露する"
+      ],
+      "correctAnswer": "乾杯の音頭をとる",
+      "explanation": "「propose a toast」は、乾杯の音頭をとる、祝辞を述べるという意味です。特別な機会やイベントで、感謝や祝福の言葉を述べる際に使われます。Example: I'd like to propose a toast to the happy couple. (新郎新婦に乾杯。) "
+    },
+    {
+      "id": 38,
+      "value": "sterile",
+      "options": [
+        "不妊の",
+        "清潔な",
+        "創造的な",
+        "独創的な"
+      ],
+      "correctAnswer": "不妊の",
+      "explanation": "ここでは「sterile」は、生殖能力がない、不妊の状態を意味します。LeonardがHowardの「tight little pants (きついズボン)」が原因で不妊になることを冗談めかして言っています。"
+    },
+    {
+      "id": 39,
+      "value": "come up with",
+      "options": [
+        "思いつく",
+        "諦める",
+        "探す",
+        "忘れる"
+      ],
+      "correctAnswer": "思いつく",
+      "explanation": "「come up with」は、アイデアや計画を思いつく、提案するという意味の句動詞です。新しい考えや解決策を生み出す際に使われます。Example: I need to come up with a good idea to make some money. (お金を稼ぐための良いアイデアを思いつく必要があります。)"
+    },
+    {
+      "id": 40,
+      "value": "superfluid",
+      "options": [
+        "超能力者",
+        "超流動体",
+        "超自然",
+        "超音波"
+      ],
+      "correctAnswer": "超流動体",
+      "explanation": "「superfluid」は、物理学の用語で超流動体という、特定の条件下で粘性を失い、摩擦なしに流れ続けることができる物質の状態を指します。SheldonとLeonardの研究テーマです。"
+    },
+    {
+      "id": 41,
+      "value": "don't tell mama juice",
+      "options": [
+        "お母さんに内緒のジュース",
+        "秘密のレシピ",
+        "健康的な飲み物",
+        "子供向けの飲み物"
+      ],
+      "correctAnswer": "お母さんに内緒のジュース",
+      "explanation": "「don't tell mama juice」は、子供の頃に父親が母親に内緒で作ってくれた特別な飲み物、または大人向けの飲み物を指す、Sheldon独特の表現です。子供の頃の思い出や秘密めいた楽しさを伴う飲み物というニュアンスがあります。"
+    },
+    {
+      "id": 42,
+      "value": "slow down",
+      "options": [
+        "加速する",
+        "減速する",
+        "手伝う",
+        "無視する"
+      ],
+      "correctAnswer": "減速する",
+      "explanation": "ここでは「slow down」は、ペースを落とす、特に飲酒のペースを落とすという意味です。Sheldonが強いカクテルを飲んでいるのを見て、Leonardが忠告しています。Example: You should slow down, you've had too much to drink. (飲みすぎだよ、ペースを落とすべきだ。)"
+    },
+    {
+      "id": 43,
+      "value": "for an invention",
+      "options": [
+        "発明品として",
+        "復讐として",
+        "投資として",
+        "改善として"
+      ],
+      "correctAnswer": "発明品として",
+      "explanation": "「for an invention」は、発明のアイデアを提案する際に使われる表現です。Howardが新しい発明のアイデアを出し、ビジネスチャンスを探している文脈で使用されています。"
+    },
+    {
+      "id": 44,
+      "value": "keep buying them",
+      "options": [
+        "買い続ける",
+        "売却する",
+        "無視する",
+        "盗む"
+      ],
+      "correctAnswer": "買い続ける",
+      "explanation": "「keep buying them」は、同じような製品を繰り返し購入し続けるという意味です。ここではApple社が製品のサイズを変えるだけで、消費者がそれを買い続ける状況を指しています。"
+    },
+    {
+      "id": 45,
+      "value": "terrific",
+      "options": [
+        "ひどい",
+        "素晴らしい",
+        "退屈な",
+        "普通の"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、非常に素晴らしい、素晴らしいという意味です。ここではSheldonが初めてそのバーに来て、その雰囲気を気に入ったことを表しています。Example: This place is terrific! (この場所は素晴らしい！)"
+    },
+    {
+      "id": 46,
+      "value": "smart talk",
+      "options": [
+        "賢い話",
+        "生意気な口",
+        "秘密の話",
+        "感動的な話"
+      ],
+      "correctAnswer": "生意気な口",
+      "explanation": "「smart talk」は、生意気な口、または賢ぶった話し方を意味します。相手の発言に対して反論したり、皮肉を言ったりする際に使われます。ここではLeonardがSheldonに対して皮肉を込めて言っています。"
+    },
+    {
+      "id": 47,
+      "value": "keep his face in focus",
+      "options": [
+        "集中力を保つ",
+        "顔を隠す",
+        "冷静を保つ",
+        "顔をはっきりさせる"
+      ],
+      "correctAnswer": "集中力を保つ",
+      "explanation": "「keep his face in focus」は、ここでは比喩的に使われており、正気を保つ、または状況を把握しているという意味合いです。酔っ払って焦点が合っていないLeonardの状態をSheldonがからかっています。"
+    },
+    {
+      "id": 48,
+      "value": "cutest",
+      "options": [
+        "残酷な",
+        "かわいい",
+        "奇妙な",
+        "ずる賢い"
+      ],
+      "correctAnswer": "かわいい",
+      "explanation": "cutestは、もっともかわいいという意味です。ここでは、PennyがBernadetteのお腹の赤ちゃんに対して使っています。"
+    },
+    {
+      "id": 49,
+      "value": "initial shock",
+      "options": [
+        "最初の衝撃",
+        "最終的な決断",
+        "隠された秘密",
+        "長期的な計画"
+      ],
+      "correctAnswer": "最初の衝撃",
+      "explanation": "「initial shock」は、何かが起こった直後の最初の驚きや衝撃を意味します。予期せぬ出来事に対する最初の反応を表す際に使われます。ここでは、Howardが妊娠の事実を知ったときの最初の反応を指しています。"
+    },
+    {
+      "id": 50,
+      "value": "calm down",
+      "options": [
+        "興奮する",
+        "落ち着く",
+        "諦める",
+        "挑戦する"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「calm down」は、落ち着く、冷静になるという意味です。興奮や怒り、不安などの感情を鎮める際に使われます。Example: After we talked about it, he started to calm down. (話し合った後、彼は落ち着き始めました。)"
+    },
+    {
+      "id": 51,
+      "value": "headed for",
+      "options": [
+        "に向かっている",
+        "を避けている",
+        "を修理している",
+        "を無視している"
+      ],
+      "correctAnswer": "に向かっている",
+      "explanation": "「head for」は、特定の場所や方向へ向かうという意味です。物理的な移動だけでなく、比喩的に目標や状態に向かう場合にも使われます。\n\n例：We're headed for disaster if we don't change our ways. (もしやり方を変えなければ、私たちは破滅に向かっている。)"
+    },
+    {
+      "id": 52,
+      "value": "come up with something",
+      "options": [
+        "何かを思いつく",
+        "何かを隠す",
+        "何かを壊す",
+        "何かを捨てる"
+      ],
+      "correctAnswer": "何かを思いつく",
+      "explanation": "「come up with something」は、アイデア、計画、解決策などを思いつく、提案するという意味です。創造的な思考や問題解決のプロセスを表す際に使われます。\n\n例：She came up with a brilliant idea for the advertising campaign. (彼女は広告キャンペーンのために素晴らしいアイデアを思いついた。)"
+    },
+    {
+      "id": 53,
+      "value": "on and on",
+      "options": [
+        "延々と",
+        "静かに",
+        "たまに",
+        "少しだけ"
+      ],
+      "correctAnswer": "延々と",
+      "explanation": "「on and on」は、何かが途切れることなく続く、繰り返されるという意味です。話が長引いたり、行動が継続したりする状況を表す際に使われます。\n\n例：He went on and on about his problems. (彼は自分の問題について延々と話し続けた。)"
+    },
+    {
+      "id": 54,
+      "value": "Hang on",
+      "options": [
+        "待って",
+        "諦めて",
+        "急いで",
+        "忘れて"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on」は、文字通りには「捕まる」という意味ですが、会話では「ちょっと待って」という意味で使われます。相手に少し待つように促す場合や、何かを保留する場合に使われます。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+    },
+    {
+      "id": 55,
+      "value": "one thing leads to another",
+      "options": [
+        "あれよあれよと言う間に",
+        "全て計画通りに",
+        "何事もなく",
+        "問題なく"
+      ],
+      "correctAnswer": "あれよあれよと言う間に",
+      "explanation": "「one thing leads to another」は、ある出来事がきっかけとなり、連鎖的に別の出来事が起こる、つまり「あれよあれよと言う間に」という意味です。特に意図していなかった結果につながる場合に用いられます。\n\n例：We started talking, and one thing led to another, and we ended up dating. (話し始めたら、あれよあれよと言う間に、付き合うことになった。)"
+    },
+    {
+      "id": 56,
+      "value": "focus on",
+      "options": [
+        "集中する",
+        "無視する",
+        "避ける",
+        "忘れる"
+      ],
+      "correctAnswer": "集中する",
+      "explanation": "「focus on」は、特定の対象や問題に注意や努力を集中させるという意味です。目標達成や問題解決のために、意識的に焦点を絞ることを表します。\n\n例：You need to focus on your studies if you want to pass the exam. (試験に合格したいなら、勉強に集中する必要がある。)"
+    },
+    {
+      "id": 57,
+      "value": "viable",
+      "options": [
+        "実行可能な",
+        "不可能な",
+        "無意味な",
+        "違法な"
+      ],
+      "correctAnswer": "実行可能な",
+      "explanation": "「viable」は、実現可能である、実行できる、持続可能であるという意味です。計画、アイデア、プロジェクトなどが成功する見込みがあるかどうかを評価する際に使われます。\n\n例：The company has a viable plan to improve profits. (その会社には利益を改善するための実行可能な計画がある。)"
+    },
+    {
+      "id": 58,
+      "value": "step up",
+      "options": [
+        "責任を果たす",
+        "諦める",
+        "逃げる",
+        "隠れる"
+      ],
+      "correctAnswer": "責任を果たす",
+      "explanation": "「step up」は、責任を果たす、積極的に行動する、期待に応えるという意味です。困難な状況や新しい役割に直面した際に、自ら進んで行動することを表します。\n\n例：He stepped up and took charge of the project when the manager left. (マネージャーが辞めたとき、彼は責任を果たし、プロジェクトを引き継いだ。)"
+    },
+    {
+      "id": 59,
+      "value": "You got this",
+      "options": [
+        "あなたならできる",
+        "もうだめだ",
+        "諦めろ",
+        "無理だよ"
+      ],
+      "correctAnswer": "あなたならできる",
+      "explanation": "「You got this」は、相手を励ます際に使うフレーズで、「あなたならできる」「きっとうまくいく」という意味です。困難な状況に立ち向かう人に対して、自信を与えるために使われます。\n\n例：Don't worry about the presentation, you got this! (プレゼンテーションの心配はいらないよ、あなたならできる！)"
+    },
+    {
+      "id": 60,
+      "value": "growing up",
+      "options": [
+        "成長する",
+        "衰退する",
+        "崩壊する",
+        "老化する"
+      ],
+      "correctAnswer": "成長する",
+      "explanation": "「growing up」は、子供から大人になる過程、成長することを意味します。身体的な成長だけでなく、精神的な成熟も含まれます。\n\n例：Growing up without parents can be very difficult. (親なしで成長することは非常に困難なことだ。)"
+    },
+    {
+      "id": 61,
+      "value": "Guidance system",
+      "options": [
+        "誘導システム",
+        "防御システム",
+        "攻撃システム",
+        "監視システム"
+      ],
+      "correctAnswer": "誘導システム",
+      "explanation": "「guidance system」は、特定の目標地点へ向かうために、進路を指示・制御するシステムを指します。航空機、ミサイル、自動車などに搭載され、自動的に目的地まで誘導する役割を果たします。\n\n例文: The missile uses a sophisticated guidance system to hit its target. (そのミサイルは、目標を正確に捉えるために高度な誘導システムを使用している。)"
+    },
+    {
+      "id": 62,
+      "value": "Groundbreaking revelations",
+      "options": [
+        "画期的な発見",
+        "秘密の暴露",
+        "些細な情報",
+        "誤った噂"
+      ],
+      "correctAnswer": "画期的な発見",
+      "explanation": "「groundbreaking revelations」は、これまでの常識を覆すような、非常に重要な新事実や発見を指します。科学、技術、歴史など、さまざまな分野で使われます。\n\n例文: The scientist's groundbreaking revelations about cancer treatment changed the course of medicine. (その科学者の癌治療に関する画期的な発見は、医学の流れを変えた。)"
+    },
+    {
+      "id": 63,
+      "value": "get to do",
+      "options": [
+        "～することができる",
+        "～しなければならない",
+        "～することを禁じられる",
+        "～することを忘れる"
+      ],
+      "correctAnswer": "～することができる",
+      "explanation": "「get to do」は、何かをすることに対して機会や許可を得る、または特別な機会に恵まれるという意味を表します。しばしば、楽しみにしていたことや特権的な状況を指す際に使われます。\n\n例文: I get to travel to Japan next month for work. (来月、仕事で日本へ行くことができる。)"
+    },
+    {
+      "id": 64,
+      "value": "a little reckless",
+      "options": [
+        "少し無謀な",
+        "非常に慎重な",
+        "全く考えない",
+        "完璧な計画的な"
+      ],
+      "correctAnswer": "少し無謀な",
+      "explanation": "「a little reckless」は、危険やリスクを少しばかり顧みない、または軽率な行動をすることを意味します。しばしば、普段はしないような大胆な行動や決断を指す際に使われます。\n\n例文: They were a little reckless with their spending during the holidays. (彼らは休暇中、少し無謀な浪費をした。)"
+    },
+    {
+      "id": 65,
+      "value": "Come on",
+      "options": [
+        "いい加減にして",
+        "落ち着いて",
+        "お元気で",
+        "構わないで"
+      ],
+      "correctAnswer": "いい加減にして",
+      "explanation": "「Come on」は、様々な意味を持つ口語表現ですが、ここでは相手を促したり、励ましたりする意味合いで使われています。相手に何かをするように促す、または信じられないことに対して反論する際に使われます。\n\n例文: Come on, you can do it! (さあ、あなたならできる！)"
+    },
+    {
+      "id": 66,
+      "value": "juicy",
+      "options": [
+        "興味深い",
+        "退屈な",
+        "不快な",
+        "悲しい"
+      ],
+      "correctAnswer": "興味深い",
+      "explanation": "「juicy」は、ここでは、興味をそそる、刺激的な、またはスキャンダラスな情報を指すスラングとして使われています。ゴシップや秘密めいた話など、人々の好奇心を刺激するような内容を指す際に使われます。\n\n例文: I heard some juicy gossip about the new CEO. (新しいCEOについての興味深いゴシップを聞いた。)"
+    },
+    {
+      "id": 67,
+      "value": "Magnus force",
+      "options": [
+        "マグナス力",
+        "重力",
+        "摩擦力",
+        "電磁力"
+      ],
+      "correctAnswer": "マグナス力",
+      "explanation": "「Magnus force」は、流体中で回転する物体に働く力のことです。野球のボールがカーブしたり、サッカーボールが曲がったりする現象はこの力によって説明されます。ここでは、その物理現象が議論されている文脈で使用されています。\n\n例文: The Magnus force caused the ball to curve in an unexpected direction. (マグナス力によってボールが予想外の方向に曲がった。)"
+    },
+    {
+      "id": 68,
+      "value": "negligible",
+      "options": [
+        "無視できる",
+        "非常に重要な",
+        "明らかな",
+        "複雑な"
+      ],
+      "correctAnswer": "無視できる",
+      "explanation": "「negligible」は、非常に小さくて重要でない、または無視できる程度のものを指します。影響がほとんどない、または取るに足らないという意味合いで使われます。\n\n例文: The difference in price is negligible, so I'll buy the better quality product. (価格差は無視できる程度なので、より品質の良い製品を買うつもりだ。)"
+    },
+    {
+      "id": 69,
+      "value": "Do not go in there",
+      "options": [
+        "入らないで",
+        "入ってもいいよ",
+        "急いで入って",
+        "入るのを手伝うよ"
+      ],
+      "correctAnswer": "入らないで",
+      "explanation": "「Do not go in there」は、文字通りには「そこに入らないで」という意味ですが、特定の場所が何らかの理由で好ましくない、または危険であることを示唆する際に使われます。ユーモラスな文脈で、トイレの使用を避けるように言う場合などに用いられます。\n\n例文: (Said jokingly) Do not go in there, I just used the bathroom! （冗談で）そこに入らないで、さっきトイレを使ったばかりだ！"
+    },
+    {
+      "id": 70,
+      "value": "All right",
+      "options": [
+        "わかった",
+        "反対です",
+        "嘘だ",
+        "知らない"
+      ],
+      "correctAnswer": "わかった",
+      "explanation": "「All right」は、同意、承諾、または了解を示す際に使われる一般的な表現です。また、話題を変えたり、行動を開始したりする合図としても使われます。\n\n例文: All right, let's get started with the meeting. （わかった、会議を始めましょう。）"
+    },
+    {
+      "id": 71,
+      "value": "Beat up",
+      "options": [
+        "打ち負かす",
+        "応援する",
+        "尊敬する",
+        "助ける"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "「Beat up」は、物理的に打ち負かす、または言葉で厳しく批判するという意味です。ここでは、冗談めかしてバーテンダーを打ち負かすと言っていますが、実際に行動するわけではありません。\n\n例文: The bully threatened to beat him up after school. （いじめっ子は放課後彼を打ち負かすと脅した。）"
+    },
+    {
+      "id": 72,
+      "value": "quantum vortices",
+      "options": [
+        "量子渦",
+        "古典的渦",
+        "熱力学的渦",
+        "化学的渦"
+      ],
+      "correctAnswer": "量子渦",
+      "explanation": "「quantum vortices」は、超流動状態にあるヘリウムなどの量子流体中に現れる渦のことです。これらの渦は、量子力学的な性質を持ち、特異な振る舞いをします。物理学の高度な研究テーマです。\n\n例文: Quantum vortices are used in the study of superfluidity. （量子渦は超流動の研究に用いられる。）"
+    },
+    {
+      "id": 73,
+      "value": "Infinite persistence",
+      "options": [
+        "無限の持続性",
+        "一時的な存在",
+        "急速な変化",
+        "完全な破壊"
+      ],
+      "correctAnswer": "無限の持続性",
+      "explanation": "「infinite persistence」は、永久に続く、または終わりのない持続性という意味です。ここでは、量子状態にあるため、理論上は永久に維持されることを指しています。 \n\n例文: The artist aimed to capture the infinite persistence of love in his painting. (その芸術家は、絵画の中で愛の無限の持続性を捉えようとした。)"
+    },
+    {
+      "id": 74,
+      "value": "Tropical drinks",
+      "options": [
+        "トロピカルドリンク",
+        "温かい飲み物",
+        "炭酸飲料",
+        "アルコールフリー飲料"
+      ],
+      "correctAnswer": "トロピカルドリンク",
+      "explanation": "「tropical drinks」は、熱帯地方でよく飲まれる、フルーツやラム酒などをベースにしたカラフルな飲み物を指します。リラックスした雰囲気や休暇のイメージを連想させます。\n\n例文: Sipping tropical drinks by the beach is my idea of a perfect vacation. (ビーチでトロピカルドリンクを飲むのが、私の理想の休暇だ。)"
+    },
+    {
+      "id": 75,
+      "value": "Supercooled helium",
+      "options": [
+        "超冷却ヘリウム",
+        "高温ヘリウム",
+        "圧縮ヘリウム",
+        "希釈ヘリウム"
+      ],
+      "correctAnswer": "超冷却ヘリウム",
+      "explanation": "「supercooled helium」は、極低温まで冷却されたヘリウムのことです。このような極低温状態では、ヘリウムは超流動と呼ばれる特異な状態を示し、粘性がゼロになります。物理学の実験でよく用いられます。\n\n例文: Supercooled helium is used in many experiments involving quantum mechanics. (超冷却ヘリウムは、量子力学に関する多くの実験で使用される。)"
+    },
+    {
+      "id": 76,
+      "value": "Christ child",
+      "options": [
+        "キリストの子供",
+        "天使",
+        "聖母マリア",
+        "賢者"
+      ],
+      "correctAnswer": "キリストの子供",
+      "explanation": "「Christ child」は、幼いイエス・キリストを指す言葉です。このフレーズは、特にクリスマスや宗教的な文脈で使用されます。この場面では、バーナデットが妊娠していることを示唆する比喩として使われています。"
+    },
+    {
+      "id": 77,
+      "value": "wasted",
+      "options": [
+        "疲れた",
+        "無駄な",
+        "酔っ払った",
+        "消費された"
+      ],
+      "correctAnswer": "酔っ払った",
+      "explanation": "「wasted」は、スラングとして「ひどく酔っ払った」という意味で使われます。ここでは、シェルドンがいつもよりくだけた文体でテキストメッセージを送っていることから、彼が酔っていることを表現するために使われています。類義語としては「drunk」、「intoxicated」などがあります。"
+    },
+    {
+      "id": 78,
+      "value": "bust a move",
+      "options": [
+        "引っ越す",
+        "踊り出す",
+        "秘密を打ち明ける",
+        "休憩する"
+      ],
+      "correctAnswer": "踊り出す",
+      "explanation": "「bust a move」は、ダンスを踊り出す、または何か行動を起こすという意味のスラング表現です。特に、ヒップホップやラップの文脈でよく使われます。ここでは、音楽に合わせて踊ることを勧める意味合いで使われています。"
+    },
+    {
+      "id": 79,
+      "value": "captive audience",
+      "options": [
+        "捕虜の聴衆",
+        "熱心な聴衆",
+        "強制的な聴衆",
+        "子供の聴衆"
+      ],
+      "correctAnswer": "強制的な聴衆",
+      "explanation": "「captive audience」とは、逃げ出すことができない、または移動が制限されている聴衆のことです。ここでは、カラオケを聞かされることを避けられない状況を指して、皮肉っぽく使われています。"
+    },
+    {
+      "id": 80,
+      "value": "freaked out",
+      "options": [
+        "冷静になった",
+        "怖がった",
+        "興奮した",
+        "笑い出した"
+      ],
+      "correctAnswer": "怖がった",
+      "explanation": "「freak out」は、パニックになる、取り乱す、ひどく怖がるという意味の口語表現です。ここでは、ハワードが朝にパニックになったことを謝罪しています。類義語としては、「panic」、「lose it」などがあります。"
+    },
+    {
+      "id": 81,
+      "value": "soil their pants",
+      "options": [
+        "ズボンを汚す",
+        "服を買い替える",
+        "興奮する",
+        "泣き出す"
+      ],
+      "correctAnswer": "ズボンを汚す",
+      "explanation": "「soil one's pants」は、恐怖や緊張で失禁するという意味の婉曲表現です。ここでは、ハワードが妊娠のことで非常にナーバスになっていることをユーモラスに表現しています。"
+    },
+    {
+      "id": 82,
+      "value": "Are we an item?",
+      "options": [
+        "私たちは恋人？",
+        "何か問題ある？",
+        "私たちは仲間？",
+        "何か手伝うことある？"
+      ],
+      "correctAnswer": "私たちは恋人？",
+      "explanation": "「Are we an item?」は、二人の関係が恋愛関係にあるのかどうかを尋ねる口語的な表現です。ここでは、ペニーがエイミーとの関係について歌の中で問いかけています。"
+    },
+    {
+      "id": 83,
+      "value": "quit playin'",
+      "options": [
+        "演奏をやめる",
+        "遊ぶのをやめる",
+        "ふざけるのをやめる",
+        "演技をやめる"
+      ],
+      "correctAnswer": "ふざけるのをやめる",
+      "explanation": "`quit playin'`は、`quit playing`の口語的な表現で、「ふざけるのをやめろ」「からかうのをやめろ」という意味です。真剣な話をしている時に、相手が冗談めかしてごまかそうとするのを制止する際に使われます。"
+    },
+    {
+      "id": 84,
+      "value": "rockin’ the mic",
+      "options": [
+        "マイクを壊す",
+        "マイクで揺れる",
+        "マイクを独占する",
+        "マイクで盛り上げる"
+      ],
+      "correctAnswer": "マイクで盛り上げる",
+      "explanation": "「rock the mic」は、マイクを使って観客を盛り上げる、素晴らしいパフォーマンスをするという意味のスラング表現です。ここでは、レナードがカラオケで良い歌を歌ったことをペニーが褒めています。"
+    },
+    {
+      "id": 85,
+      "value": "beat-box",
+      "options": [
+        "箱を叩く",
+        "ビートを刻む",
+        "早口で話す",
+        "ボクシングをする"
+      ],
+      "correctAnswer": "ビートを刻む",
+      "explanation": "「beat-box」は、口を使ってドラムやパーカッションの音を出すパフォーマンスのことです。ここでは、レナードが実際には喘息の発作を起こしていたのを、ペニーがビートボックスだと勘違いしています。"
+    },
+    {
+      "id": 86,
+      "value": "in a rush",
+      "options": [
+        "急いで",
+        "興奮して",
+        "順番に",
+        "夢中で"
+      ],
+      "correctAnswer": "急いで",
+      "explanation": "「in a rush」は、急いでいる、急かされているという意味の表現です。ここでは、ペニーが子供を持つことを急いでいないと述べています。"
+    },
+    {
+      "id": 87,
+      "value": "on the other hand",
+      "options": [
+        "他方では",
+        "手の上で",
+        "一方で",
+        "それにも関わらず"
+      ],
+      "correctAnswer": "他方では",
+      "explanation": "`on the other hand`は、「他方では」「別の見方をすれば」という意味で、ある事柄に対して別の側面や対照的な視点を提示する際に使われる表現です。前の文脈で述べられた内容とは異なる可能性や条件を示す時に用いられます。"
+    },
+    {
+      "id": 88,
+      "value": "You guys can go in if you want.",
+      "options": [
+        "もし望むなら、あなた達は中に入ることができます。",
+        "あなた達は行きたくないでしょうね。",
+        "あなた達は中に入るべきではありません。",
+        "あなた達は一緒に行くべきです。"
+      ],
+      "correctAnswer": "もし望むなら、あなた達は中に入ることができます。",
+      "explanation": "このセリフは、相手に選択肢を与える際に使われます。「if you want」は、相手の意思を尊重するニュアンスを含んでいます。ここでは、バーナデットがペニーとエイミーに対して、もし彼女たちが望むなら中に入っても良いと伝えています。"
+    },
+    {
+      "id": 89,
+      "value": "We’re a team.",
+      "options": [
+        "私たちはチームです。",
+        "私たちはライバルです。",
+        "私たちは家族です。",
+        "私たちは友達ではありません。"
+      ],
+      "correctAnswer": "私たちはチームです。",
+      "explanation": "「We’re a team」は、結束や連帯感を強調する際に使われます。困難な状況や目標に向かって協力し合う仲間意識を示す表現です。ここでは、ペニーがバーナデットを励ますために、彼女たちも一緒にいることを伝えています。"
+    },
+    {
+      "id": 90,
+      "value": "That sounds fun.",
+      "options": [
+        "それは楽しそうですね。",
+        "それはつまらなそうですね。",
+        "それは危険そうですね。",
+        "それは難しいそうですね。"
+      ],
+      "correctAnswer": "それは楽しそうですね。",
+      "explanation": "「That sounds fun」は、提案や計画に対して肯定的な反応を示す際に使われます。相手の提案に興味や関心があることを伝える表現です。ここでは、バーナデットがカラオケに行くことに乗り気な様子を表しています。"
+    },
+    {
+      "id": 91,
+      "value": "I appreciate this",
+      "options": [
+        "感謝します",
+        "それは当然です",
+        "それは残念です",
+        "気にしないで"
+      ],
+      "correctAnswer": "感謝します",
+      "explanation": "`I appreciate this` は、相手の行為や言葉に対して感謝の気持ちを伝える表現です。相手が何かをしてくれたことに対して、その好意や努力を認識し、感謝していることを丁寧に伝えます。"
+    },
+    {
+      "id": 92,
+      "value": "I want you to know",
+      "options": [
+        "知ってほしい",
+        "忘れてほしい",
+        "覚えてほしい",
+        "気にしないでほしい"
+      ],
+      "correctAnswer": "知ってほしい",
+      "explanation": "`I want you to know` は、「あなたに知っておいてほしい」という意味で、自分の気持ちや考えを相手に伝えたい時に使われる表現です。特に、重要な情報や心の内を打ち明ける際に用いられます。"
+    },
+    {
+      "id": 93,
+      "value": "Thank God",
+      "options": [
+        "神に感謝します",
+        "神に誓います",
+        "神を信じます",
+        "神を恐れます"
+      ],
+      "correctAnswer": "神に感謝します",
+      "explanation": "`Thank God` は、「ああ、よかった」「助かった」といった安堵の気持ちを表す際に使われる表現です。困難な状況が好転したり、望ましい結果が得られたりした時に、感謝の気持ちを込めて使われます。"
+    },
+    {
+      "id": 94,
+      "value": "You’re kidding.",
+      "options": [
+        "冗談でしょう",
+        "本気でしょう",
+        "怒っているでしょう",
+        "悲しんでいるでしょう"
+      ],
+      "correctAnswer": "冗談でしょう",
+      "explanation": "`You're kidding.` は、相手の発言が信じられないほど驚くべきこと、またはあり得ないことだと感じた時に使われる表現です。軽い驚きから強い否定まで、幅広い感情を込めて使われます。"
+    },
+    {
+      "id": 95,
+      "value": "keep it down",
+      "options": [
+        "静かにして",
+        "続けて",
+        "秘密にして",
+        "ゆっくりして"
+      ],
+      "correctAnswer": "静かにして",
+      "explanation": "「keep it down」は、騒音を抑える、静かにするという意味の表現です。ここでは、シェルドンがペニーとレナードに対して、声がうるさいので静かにするように頼んでいます。"
+    },
+    {
+      "id": 96,
+      "value": "I love you",
+      "options": [
+        "愛しています",
+        "嫌っています",
+        "尊敬しています",
+        "感謝しています"
+      ],
+      "correctAnswer": "愛しています",
+      "explanation": "「I love you」は、愛情を伝える最も直接的な表現です。家族、恋人、親しい友人など、深い愛情を抱く相手に対して使われます。ここでは、ハワードがバーナデットへの愛情を伝えています。"
+    },
+    {
+      "id": 97,
+      "value": "What are you sayin'?",
+      "options": [
+        "何を言っているの？",
+        "何をしているの？",
+        "何を考えているの？",
+        "何が欲しいの？"
+      ],
+      "correctAnswer": "何を言っているの？",
+      "explanation": "`What are you sayin'?` は、`What are you saying?`の口語的な表現で、「何を言っているの？」「どういう意味？」という意味です。相手の発言が理解できない時や、相手の意図を確かめたい時に使われます。"
+    },
+    {
+      "id": 98,
+      "value": "fine fellow",
+      "options": [
+        "罰金",
+        "素晴らしい仲間",
+        "元気な人",
+        "悪いやつ"
+      ],
+      "correctAnswer": "素晴らしい仲間",
+      "explanation": "`fine fellow` は、「立派な男」「感じの良い人」という意味で、相手を褒め称える際に使われるやや古風な表現です。親しみや好意を込めて使われます。"
+    },
+    {
+      "id": 99,
+      "value": "dedicate",
+      "options": [
+        "捧げる",
+        "忘れる",
+        "盗む",
+        "隠す"
+      ],
+      "correctAnswer": "捧げる",
+      "explanation": "`dedicate` は、「捧げる」「献呈する」という意味で、自分の作品や行為を特定の人や目的に対して捧げる際に使われます。感謝や尊敬の気持ちを込めて使われることが多いです。"
+    },
+    {
+      "id": 100,
+      "value": "lack",
+      "options": [
+        "満たす",
+        "探す",
+        "尊敬",
+        "欠如"
+      ],
+      "correctAnswer": "欠如",
+      "explanation": "「lack」は、不足する、欠けるという意味です。ここでは、ペニーが自分たちには成熟さが欠けているかもしれないと述べています。名詞としても動詞としても使用されます。"
+    }
+  ]
+}

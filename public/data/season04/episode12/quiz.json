@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "flogged",
+      "options": [
+        "褒められる",
+        "鞭打たれる",
+        "無視される",
+        "尊敬される"
+      ],
+      "correctAnswer": "鞭打たれる",
+      "explanation": "「flog」は、鞭で打つ、という意味です。ここでは、技術を習得できない高齢者に対する皮肉な罰として使われています。比喩的には、厳しく批判するという意味もあります。"
+    },
+    {
+      "id": 2,
+      "value": "incentive",
+      "options": [
+        "報酬",
+        "妨害",
+        "動機",
+        "罰"
+      ],
+      "correctAnswer": "動機",
+      "explanation": "「incentive」は、行動を促すための刺激や動機という意味です。ここでは、高齢者が技術を習得するように促すための「見せしめ」という形で使われています。"
+    },
+    {
+      "id": 3,
+      "value": "bam!",
+      "options": [
+        "完成",
+        "失敗",
+        "成功",
+        "びっくり"
+      ],
+      "correctAnswer": "成功",
+      "explanation": "「bam!」は、突然何かを強調したり、成功や完了を表現する時に使われる擬音語です。ここでは、アプリが瞬時に結果を出す様子を表現しています。"
+    },
+    {
+      "id": 4,
+      "value": "valid",
+      "options": [
+        "無効",
+        "妥当",
+        "複雑",
+        "簡単"
+      ],
+      "correctAnswer": "妥当",
+      "explanation": "「valid」は、妥当な、正当な、有効なという意味です。ここでは、Leonardのアイデアが実現可能であることをSheldonが認める際に使われています。"
+    },
+    {
+      "id": 5,
+      "value": "admirable",
+      "options": [
+        "軽蔑に値する",
+        "立派な",
+        "残念な",
+        "滑稽な"
+      ],
+      "correctAnswer": "立派な",
+      "explanation": "「admirable」は、賞賛に値する、立派な、という意味です。ここでは、Leonardのアイデアを、猫がトイレを使うことと同等に評価する際に使われています。"
+    },
+    {
+      "id": 6,
+      "value": "give a slight edge to",
+      "options": [
+        "わずかに劣る",
+        "完全に無視する",
+        "わずかに優位を与える",
+        "過大評価する"
+      ],
+      "correctAnswer": "わずかに優位を与える",
+      "explanation": "「give a slight edge to」は、わずかに優位を与える、という意味です。ここでは、猫がトイレを使うことの方を、Leonardのアイデアより少しだけ高く評価するという意味で使われています。"
+    },
+    {
+      "id": 7,
+      "value": "yay for me",
+      "options": [
+        "おめでとう",
+        "かわいそう",
+        "やったー",
+        "残念"
+      ],
+      "correctAnswer": "やったー",
+      "explanation": "「yay for me」は、自分自身を褒め称える時に使われる表現で、日本語の「やったー」に近いです。皮肉を込めて使われることもあります。"
+    },
+    {
+      "id": 8,
+      "value": "bucks",
+      "options": [
+        "後退する",
+        "ドル",
+        "高める",
+        "非難する"
+      ],
+      "correctAnswer": "ドル",
+      "explanation": "「bucks」は、口語的な表現で「ドル」を意味します。ここでは、アプリで稼げる「お金」について言及しています。"
+    },
+    {
+      "id": 9,
+      "value": "take time off",
+      "options": [
+        "急いで",
+        "休憩する",
+        "時間をかける",
+        "時間通り"
+      ],
+      "correctAnswer": "休憩する",
+      "explanation": "「take time off」は、仕事や学業などを休む、という意味です。ここでは、お金があれば仕事から休暇を取って、自分の時間を楽しむことができるという状況を表しています。"
+    },
+    {
+      "id": 10,
+      "value": "dirty",
+      "options": [
+        "汚い",
+        "健全",
+        "複雑",
+        "単純"
+      ],
+      "correctAnswer": "汚い",
+      "explanation": "「dirty」は、ここでは性的な意味合いを含んだ、下品な、という意味で使われています。Rajの純粋な提案に対して、Howardが性的な意味を連想したことに対する反応です。"
+    },
+    {
+      "id": 11,
+      "value": "capture this moment",
+      "options": [
+        "逃避する",
+        "後悔する",
+        "共有する",
+        "記録する"
+      ],
+      "correctAnswer": "記録する",
+      "explanation": "「capture this moment」は、この瞬間を記録する、という意味です。写真やビデオなどで、特別な瞬間を捉えることを指します。"
+    },
+    {
+      "id": 12,
+      "value": "spill the beans",
+      "options": [
+        "秘密にする",
+        "豆をこぼす",
+        "秘密を漏らす",
+        "料理をする"
+      ],
+      "correctAnswer": "秘密を漏らす",
+      "explanation": "「spill the beans」は、秘密をうっかり漏らす、という意味のイディオムです。ここでは、LeonardがPennyにアイデアを話してしまうことをSheldonが危惧しています。"
+    },
+    {
+      "id": 13,
+      "value": "hang on",
+      "options": [
+        "諦める",
+        "続ける",
+        "手放す",
+        "中断する"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「hang on」は、ここでは「待って」「ちょっと待って」という意味で、相手に話を続けさせるために使われています。"
+    },
+    {
+      "id": 14,
+      "value": "lies shattered about her",
+      "options": [
+        "成功に満ち溢れている",
+        "粉々に砕け散っている",
+        "順調に進んでいる",
+        "ゆっくりと成長している"
+      ],
+      "correctAnswer": "粉々に砕け散っている",
+      "explanation": "「lie shattered about」は、夢や希望などが打ち砕かれて、周囲に散らばっている様子を表します。ここでは、女優になるというPennyの夢が叶わなかった状況を描写しています。"
+    },
+    {
+      "id": 15,
+      "value": "marketable skills",
+      "options": [
+        "不要な能力",
+        "売れない能力",
+        "市場価値のある能力",
+        "時代遅れの能力"
+      ],
+      "correctAnswer": "市場価値のある能力",
+      "explanation": "「marketable skills」は、市場で需要があり、仕事に役立つ能力のことを指します。ここでは、Pennyが仕事を得るために必要なスキルがないことを示唆しています。"
+    },
+    {
+      "id": 16,
+      "value": "lies in wait",
+      "options": [
+        "すぐに立ち去る",
+        "急いで行動する",
+        "待ち伏せする",
+        "堂々と現れる"
+      ],
+      "correctAnswer": "待ち伏せする",
+      "explanation": "「lie in wait」は、待ち伏せする、機会をうかがうという意味です。ここでは、Pennyがアイデアを盗む機会を待っているというSheldonの妄想を表しています。"
+    },
+    {
+      "id": 17,
+      "value": "the highest bidder",
+      "options": [
+        "最も低い入札者",
+        "最も高い入札者",
+        "最初に入札した人",
+        "最後に入札した人"
+      ],
+      "correctAnswer": "最も高い入札者",
+      "explanation": "「the highest bidder」は、競売などで最も高い金額を提示した人のことです。ここでは、Pennyがアイデアを最も高く買ってくれる人に売るという想定を表しています。"
+    },
+    {
+      "id": 18,
+      "value": "mooched dinner off you",
+      "options": [
+        "夕食を奢った",
+        "夕食を自炊した",
+        "夕食を盗んだ",
+        "夕食をたかった"
+      ],
+      "correctAnswer": "夕食をたかった",
+      "explanation": "「mooch off」は、人から物を恵んでもらったり、お金をたかったりする、という意味です。ここでは、PennyがいつもLeonardたちに夕食をおごってもらっていることを示しています。"
+    },
+    {
+      "id": 19,
+      "value": "taken the liberty of",
+      "options": [
+        "許可を得て",
+        "遠慮して",
+        "勝手に～した",
+        "依頼されて"
+      ],
+      "correctAnswer": "勝手に～した",
+      "explanation": "「take the liberty of」は、許可を得ずに、または相手に気を遣わずに何かをする、という意味です。ここでは、Sheldonが勝手にプロジェクトの計画を立てたことを表しています。"
+    },
+    {
+      "id": 20,
+      "value": "workflow charts",
+      "options": [
+        "旅行の計画",
+        "仕事の流れ図",
+        "家計簿",
+        "献立表"
+      ],
+      "correctAnswer": "仕事の流れ図",
+      "explanation": "「workflow charts」は、仕事の流れを図式化したものです。プロジェクトの各段階と担当者を明確にするために使われます。"
+    },
+    {
+      "id": 21,
+      "value": "ground-breaking",
+      "options": [
+        "伝統的な",
+        "革新的な",
+        "退屈な",
+        "平凡な"
+      ],
+      "correctAnswer": "革新的な",
+      "explanation": "「ground-breaking」は、革新的な、画期的な、という意味です。ここでは、開発するアプリが非常に新しいアイデアに基づいていることを強調しています。"
+    },
+    {
+      "id": 22,
+      "value": "duly noted",
+      "options": [
+        "完全に無視",
+        "承知しました",
+        "反対します",
+        "賛成します"
+      ],
+      "correctAnswer": "承知しました",
+      "explanation": "「duly noted」は、承知しました、了解しました、という意味です。フォーマルな場面で使われ、相手の意見や指摘を聞き入れたことを伝える際に用います。皮肉として使われることもあります。"
+    },
+    {
+      "id": 23,
+      "value": "fallen into disrepute",
+      "options": [
+        "評判が上がった",
+        "尊敬されるようになった",
+        "評判が落ちた",
+        "重要になった"
+      ],
+      "correctAnswer": "評判が落ちた",
+      "explanation": "「fallen into disrepute」は、評判が落ちた、信用を失った、という意味です。ここでは、「secretary」という言葉のイメージが悪くなったことを指しています。"
+    },
+    {
+      "id": 24,
+      "value": "executive assistant",
+      "options": [
+        "会社の社長",
+        "重役秘書",
+        "ただの友人",
+        "無関係な人"
+      ],
+      "correctAnswer": "重役秘書",
+      "explanation": "「executive assistant」は、重役秘書、エグゼクティブアシスタントという意味です。上級管理職をサポートする役割を指します。"
+    },
+    {
+      "id": 25,
+      "value": "FYI",
+      "options": [
+        "ご参考までに",
+        "承知いたしました",
+        "おめでとうございます",
+        "申し訳ございません"
+      ],
+      "correctAnswer": "ご参考までに",
+      "explanation": "「FYI」は、「For Your Information」の略で、ご参考までに、という意味です。相手に情報を伝える際に、メールや文書などでよく使われます。"
+    },
+    {
+      "id": 26,
+      "value": "in charge",
+      "options": [
+        "責任がある",
+        "自由である",
+        "興味がある",
+        "準備ができている"
+      ],
+      "correctAnswer": "責任がある",
+      "explanation": "「in charge」は、人やプロジェクト、場所などを管理・監督する立場にあることを意味します。責任と権限を伴うニュアンスが含まれます。\n\n例：She is in charge of the marketing department. (彼女はマーケティング部の責任者です。)"
+    },
+    {
+      "id": 27,
+      "value": "alpha nerd",
+      "options": [
+        "内気なオタク",
+        "リーダーシップのあるオタク",
+        "普通のオタク",
+        "知識のないオタク"
+      ],
+      "correctAnswer": "リーダーシップのあるオタク",
+      "explanation": "「alpha nerd」は、オタク気質を持ちながらも、リーダーシップを発揮したり、積極的に行動する人を指します。従来のオタクのイメージとは異なり、社交性や自信を持つ点が特徴です。\n\n例：He's an alpha nerd who leads the robotics club. (彼はロボット工学部のリーダーを務める、リーダーシップのあるオタクだ。)"
+    },
+    {
+      "id": 28,
+      "value": "team player",
+      "options": [
+        "個人主義者",
+        "チームを裏切る人",
+        "協調性のある人",
+        "競争心の強い人"
+      ],
+      "correctAnswer": "協調性のある人",
+      "explanation": "「team player」は、チームの一員として協力し、チームの目標達成のために貢献できる人を指します。協調性、責任感、コミュニケーション能力などが求められます。\n\n例：She's a great team player and always helps her colleagues. (彼女は素晴らしいチームプレーヤーで、いつも同僚を助けている。)"
+    },
+    {
+      "id": 29,
+      "value": "have the conn",
+      "options": [
+        "指揮権を持つ",
+        "混乱している",
+        "同意しない",
+        "議論する"
+      ],
+      "correctAnswer": "指揮権を持つ",
+      "explanation": "「have the conn」は、もともと船の操舵を意味する言葉で、比喩的に、あるプロジェクトや状況において指揮権や管理権を持つことを意味します。\n\n例：Okay, you have the conn; take us home. (よし、君が指揮権を持つんだ。家に帰ろう。)"
+    },
+    {
+      "id": 30,
+      "value": "doomed",
+      "options": [
+        "運命にある",
+        "成功する",
+        "自由になる",
+        "無視される"
+      ],
+      "correctAnswer": "運命にある",
+      "explanation": "「doomed」は、破滅や不幸な運命にあることを意味します。しばしば、避けられない状況や絶望的な状況を表すために使われます。\n\n例：They were doomed to failure from the start. (彼らは最初から失敗する運命にあった。)"
+    },
+    {
+      "id": 31,
+      "value": "buoyed up",
+      "options": [
+        "落胆させた",
+        "元気づけた",
+        "無視した",
+        "批判した"
+      ],
+      "correctAnswer": "元気づけた",
+      "explanation": "「buoy up」は、人や気持ちを高揚させる、元気づけるという意味です。精神的なサポートや励ましによって、気分が向上する状況を表します。\n\n例：His encouragement buoyed up her spirits. (彼の励ましは彼女の気持ちを高揚させた。)"
+    },
+    {
+      "id": 32,
+      "value": "esprit de corps",
+      "options": [
+        "競争心",
+        "連帯感",
+        "不満",
+        "孤独感"
+      ],
+      "correctAnswer": "連帯感",
+      "explanation": "「esprit de corps」は、組織や集団における団結心、仲間意識、連帯感を意味するフランス語由来の言葉です。共通の目標に向かって協力し、互いを尊重し合う雰囲気を指します。\n\n例：The team has a strong esprit de corps. (そのチームは強い連帯感を持っている。)"
+    },
+    {
+      "id": 33,
+      "value": "candid",
+      "options": [
+        "秘密の",
+        "率直な",
+        "嘘の",
+        "曖昧な"
+      ],
+      "correctAnswer": "率直な",
+      "explanation": "「candid」は、率直で正直な、隠し事のないという意味です。良い意味でも悪い意味でも、思ったことをそのまま伝える様子を表します。\n\n例：She gave a candid assessment of the company's performance. (彼女は会社の業績について率直な評価を下した。)"
+    },
+    {
+      "id": 34,
+      "value": "nattering",
+      "options": [
+        "重要な議論",
+        "無駄話",
+        "真実",
+        "賞賛"
+      ],
+      "correctAnswer": "無駄話",
+      "explanation": "「nattering」は、特に重要でないことについて、延々と不満を言ったり、おしゃべりしたりすることを意味します。しばしば、人をイライラさせるようなニュアンスが含まれます。\n\n例：I can't stand his constant nattering. (彼の絶え間ない無駄話には我慢できない。)"
+    },
+    {
+      "id": 35,
+      "value": "complacent",
+      "options": [
+        "不満な",
+        "自己満足な",
+        "謙虚な",
+        "意欲的な"
+      ],
+      "correctAnswer": "自己満足な",
+      "explanation": "「complacent」は、現状に満足して油断している、自己満足しているという意味です。改善や努力を怠る様子を表し、しばしば批判的なニュアンスを伴います。\n\n例：We can't afford to be complacent about our success. (我々は成功に満足して油断している余裕はない。)"
+    },
+    {
+      "id": 36,
+      "value": "yes-men",
+      "options": [
+        "反対する人",
+        "イエスマン",
+        "中立的な人",
+        "質問する人"
+      ],
+      "correctAnswer": "イエスマン",
+      "explanation": "「yes-men」は、上司や権力者の意見に盲従し、何でも肯定する人々のことを指します。批判的な思考や独自の意見を持たず、保身のために迎合する傾向があります。\n\n例：The CEO surrounded himself with yes-men. (CEOはイエスマンで自分の周りを固めた。)"
+    },
+    {
+      "id": 37,
+      "value": "dummy procedure",
+      "options": [
+        "複雑な手続き",
+        "仮の手続き",
+        "正式な手続き",
+        "秘密の手続き"
+      ],
+      "correctAnswer": "仮の手続き",
+      "explanation": "「dummy procedure」は、プログラム開発などで、まだ具体的な処理内容が実装されていない、仮の関数や手続きを指します。動作確認やインターフェースのテストなどに用いられます。\n\n例：We're using a dummy procedure for now, but we'll implement the real logic later. (今は仮の手続きを使っているが、後で実際のロジックを実装する。)"
+    },
+    {
+      "id": 38,
+      "value": "hear me out",
+      "options": [
+        "無視して",
+        "私の話を聞いて",
+        "同意して",
+        "反対して"
+      ],
+      "correctAnswer": "私の話を聞いて",
+      "explanation": "「hear me out」は、自分の意見や提案を最後まで聞いてほしいときに使う表現です。相手に注意を促し、理解を求めるニュアンスがあります。\n\n例：Just hear me out before you make a decision. (決定する前に、とりあえず私の話を聞いてください。)"
+    },
+    {
+      "id": 39,
+      "value": "humbly suggest",
+      "options": [
+        "傲慢に提案する",
+        "控えめに提案する",
+        "強制的に提案する",
+        "提案しない"
+      ],
+      "correctAnswer": "控えめに提案する",
+      "explanation": "「humbly suggest」は、自分の意見や提案を控えめに述べる際に用いる表現です。相手への敬意を示しつつ、自分の考えを伝えたいときに適しています。\n\n例：I would humbly suggest that we reconsider our approach. (アプローチを見直すべきだと控えめに提案します。)"
+    },
+    {
+      "id": 40,
+      "value": "vote of no confidence",
+      "options": [
+        "信任投票",
+        "不信任投票",
+        "秘密投票",
+        "公開投票"
+      ],
+      "correctAnswer": "不信任投票",
+      "explanation": "「vote of no confidence」は、議会などが政府やリーダーに対する信任を取り消すための投票です。不信任案が可決されると、政府は総辞職するか、解散総選挙を行う必要があります。\n\n例：The opposition party called for a vote of no confidence in the prime minister. (野党は首相に対する不信任投票を要求した。)"
+    },
+    {
+      "id": 41,
+      "value": "reign of tyranny",
+      "options": [
+        "自由な統治",
+        "友好的な統治",
+        "圧政",
+        "民主的な統治"
+      ],
+      "correctAnswer": "圧政",
+      "explanation": "「reign of tyranny」は、暴君による圧政、独裁的な支配を意味します。不当な権力行使や抑圧的な政治が行われる状況を表します。\n\n例：The people suffered under the king's reign of tyranny. (人々は王の圧政の下で苦しんだ。)"
+    },
+    {
+      "id": 42,
+      "value": "dissolve the bonds",
+      "options": [
+        "絆を深める",
+        "絆を断つ",
+        "絆を隠す",
+        "絆を無視する"
+      ],
+      "correctAnswer": "絆を断つ",
+      "explanation": "「dissolve the bonds」は、関係や繋がりを解消する、断ち切るという意味です。組織、契約、人間関係など、様々な状況で使用されます。\n\n例：They decided to dissolve the bonds of their partnership. (彼らはパートナーシップの関係を解消することを決めた。)"
+    },
+    {
+      "id": 43,
+      "value": "impossible to work with",
+      "options": [
+        "一緒に働くのが簡単",
+        "一緒に働くのが不可能",
+        "一緒に働くのが普通",
+        "一緒に働きたくない"
+      ],
+      "correctAnswer": "一緒に働くのが不可能",
+      "explanation": "「impossible to work with」は、協調性がない、頑固、またはその他の理由で、他の人と一緒に働くことが非常に難しい、または不可能な状態を指します。\n\n例：He is a brilliant scientist, but he's impossible to work with. (彼は優秀な科学者だが、一緒に働くのは不可能だ。)"
+    },
+    {
+      "id": 44,
+      "value": "independent contractor",
+      "options": [
+        "正社員",
+        "独立請負業者",
+        "ボランティア",
+        "インターン"
+      ],
+      "correctAnswer": "独立請負業者",
+      "explanation": "「independent contractor」は、企業や組織に雇用されず、独立して仕事をする人を指します。自分の裁量で仕事を進めることができ、成果に対して報酬を受け取ります。\n\n例：She works as an independent contractor for several companies. (彼女は複数の企業で独立請負業者として働いている。)"
+    },
+    {
+      "id": 45,
+      "value": "speaks volumes",
+      "options": [
+        "ほとんど意味がない",
+        "多くを物語る",
+        "秘密にする",
+        "混乱させる"
+      ],
+      "correctAnswer": "多くを物語る",
+      "explanation": "「speaks volumes」は、言葉に出さなくても、その状況や行動が多くのことを物語っている、という意味です。非常に示唆的である様子を表します。\n\n例：His silence speaks volumes about how he feels. (彼の沈黙は、彼がどう感じているかを多くを物語っている。)"
+    },
+    {
+      "id": 46,
+      "value": "lofty heights",
+      "options": [
+        "低い地位",
+        "高い地位",
+        "秘密の場所",
+        "危険な場所"
+      ],
+      "correctAnswer": "高い地位",
+      "explanation": "「lofty heights」は、比喩的に、高い地位や名声、成功などを意味します。手が届きにくい、または特別な場所というニュアンスが含まれます。\n\n例：From his lofty heights, he had lost touch with the common people. (彼は高い地位から、庶民との繋がりを失っていた。)"
+    },
+    {
+      "id": 47,
+      "value": "lost touch",
+      "options": [
+        "連絡を取り合う",
+        "連絡を絶つ",
+        "秘密にする",
+        "連絡を再開する"
+      ],
+      "correctAnswer": "連絡を絶つ",
+      "explanation": "「lost touch」は、人との連絡を絶つ、疎遠になるという意味です。また、現実や状況との繋がりを失うという意味でも使われます。\n\n例：We've lost touch since I moved to a new city. (新しい街に引っ越してから、私たちは連絡を絶ってしまった。)"
+    },
+    {
+      "id": 48,
+      "value": "in that regard",
+      "options": [
+        "その点では",
+        "全体的に",
+        "詳細には",
+        "関係なく"
+      ],
+      "correctAnswer": "その点では",
+      "explanation": "「in that regard」は、「その点に関して」や「その点については」という意味で、前に述べた特定の事柄や側面について言及する際に使用されます。\n\n例：The policy has been successful in that regard. (その政策はその点において成功している。)"
+    },
+    {
+      "id": 49,
+      "value": "gangrenous limb",
+      "options": [
+        "健康な手足",
+        "壊疽を起こした手足",
+        "人工の手足",
+        "動かない手足"
+      ],
+      "correctAnswer": "壊疽を起こした手足",
+      "explanation": "「gangrenous limb」は、壊疽を起こした手足、つまり組織が死んで腐敗している状態の手足を指します。比喩的には、組織やシステムの中で有害で切り離すべき部分を意味します。\n\n例：He saw the corrupt officials as a gangrenous limb that needed to be severed from the government. (彼は腐敗した役人たちを、政府から切り離すべき壊疽を起こした手足と見なした。)"
+    },
+    {
+      "id": 50,
+      "value": "Napoleon complex",
+      "options": [
+        "優れた能力",
+        "劣等感",
+        "正直さ",
+        "思いやり"
+      ],
+      "correctAnswer": "劣等感",
+      "explanation": "「Napoleon complex」は、小柄な人が、自分の身体的な欠点を補うために、攻撃的になったり、権力を誇示したりする心理傾向を指します。ナポレオン・ボナパルトが小柄だったことに由来します。\n\n例：His aggressive behavior is often attributed to a Napoleon complex. (彼の攻撃的な態度は、しばしばナポレオンコンプレックスによるものだと言われる。)"
+    },
+    {
+      "id": 51,
+      "value": "matching side-by-side mansions",
+      "options": [
+        "非常に離れた場所にある屋敷",
+        "隣接して建てられた同様の豪邸",
+        "地下道で繋がった秘密の屋敷",
+        "装飾が全く同じの屋敷"
+      ],
+      "correctAnswer": "隣接して建てられた同様の豪邸",
+      "explanation": "「matching side-by-side mansions」は、隣り合って建ち、外観やスタイルが似ている豪邸を指します。成功や富を象徴する表現として使われることがあります。"
+    },
+    {
+      "id": 52,
+      "value": "sufficient",
+      "options": [
+        "十分な",
+        "不十分な",
+        "過剰な",
+        "不要な"
+      ],
+      "correctAnswer": "十分な",
+      "explanation": "「sufficient」は、必要を満たすのに十分な量や質があることを意味します。フォーマルな文脈でよく使用され、ビジネスや学術的な場面で特に適しています。"
+    },
+    {
+      "id": 53,
+      "value": "up the ante",
+      "options": [
+        "賭け金を上げる",
+        "条件を悪くする",
+        "計画を破棄する",
+        "現状維持する"
+      ],
+      "correctAnswer": "賭け金を上げる",
+      "explanation": "「up the ante」は、文字通りにはポーカーで賭け金を上げることを意味しますが、比喩的には競争や交渉で条件や要求をエスカレートさせることを意味します。より魅力的な提案や条件を提示して、相手を引きつけたり、優位に立とうとする際に用いられます。"
+    },
+    {
+      "id": 54,
+      "value": "emblazoned",
+      "options": [
+        "消去された",
+        "隠された",
+        "飾られた",
+        "忘れられた"
+      ],
+      "correctAnswer": "飾られた",
+      "explanation": "「emblazoned」は、何かを鮮やかに、または目立つように装飾する、特に紋章やデザインで飾るという意味です。何かが非常に目立つように表示されている状態を表します。例えば、旗や盾に紋章が描かれている場合などに使われます。"
+    },
+    {
+      "id": 55,
+      "value": "carry on",
+      "options": [
+        "中断する",
+        "継続する",
+        "無視する",
+        "放棄する"
+      ],
+      "correctAnswer": "継続する",
+      "explanation": "「carry on」は、何かを続ける、特に困難な状況や中断があった後でも続けるという意味です。日常会話でもビジネスシーンでも広く使われます。"
+    },
+    {
+      "id": 56,
+      "value": "impede",
+      "options": [
+        "促進する",
+        "妨げる",
+        "無視する",
+        "明らかにする"
+      ],
+      "correctAnswer": "妨げる",
+      "explanation": "「impede」は、何か（プロセス、進歩、行動など）を遅らせる、妨げるという意味です。障害物を置くように、スムーズな進行を妨げるニュアンスがあります。フォーマルな文脈で使われることが多いです。"
+    },
+    {
+      "id": 57,
+      "value": "uncalled for",
+      "options": [
+        "当然の",
+        "不必要な",
+        "予期された",
+        "適切な"
+      ],
+      "correctAnswer": "不必要な",
+      "explanation": "「uncalled for」は、不必要である、余計である、という意味で、特に何か言動が適切でない、または場違いであることを指す場合に使われます。相手を非難するニュアンスを含むことがあります。"
+    },
+    {
+      "id": 58,
+      "value": "sabotage",
+      "options": [
+        "支援する",
+        "妨害する",
+        "改善する",
+        "無視する"
+      ],
+      "correctAnswer": "妨害する",
+      "explanation": "「sabotage」は、意図的に破壊行為を行ったり、計画や活動を妨害したりすることを意味します。戦争や紛争の文脈で使われることが多いですが、ビジネスや人間関係においても使われます。"
+    },
+    {
+      "id": 59,
+      "value": "beat around the bush",
+      "options": [
+        "核心を突く",
+        "遠回しに言う",
+        "正直に話す",
+        "秘密を守る"
+      ],
+      "correctAnswer": "遠回しに言う",
+      "explanation": "「beat around the bush」は、遠回しに話す、核心を避けて話すという意味のイディオムです。直接的な話題を避け、婉曲的に表現する際に用いられます。しばしば、不快な話題や難しい真実を伝えるのを避けるために使われます。"
+    },
+    {
+      "id": 60,
+      "value": "crass",
+      "options": [
+        "洗練された",
+        "下品な",
+        "繊細な",
+        "上品な"
+      ],
+      "correctAnswer": "下品な",
+      "explanation": "「crass」は、無神経で、洗練されておらず、配慮に欠けるという意味です。特に、他人を不快にさせるような行動や発言に対して使われます。文化的な知識や社会的な礼儀作法に欠けている様子を表す言葉です。"
+    },
+    {
+      "id": 61,
+      "value": "banality",
+      "options": [
+        "独創性",
+        "平凡さ",
+        "複雑さ",
+        "重要性"
+      ],
+      "correctAnswer": "平凡さ",
+      "explanation": "「banality」は、ありふれていて、面白みや深みがなく、退屈であることを意味します。目新しさや刺激がない、日常的な事柄やアイデアに対して使われることが多いです。"
+    },
+    {
+      "id": 62,
+      "value": "baffling",
+      "options": [
+        "理解しやすい",
+        "不可解な",
+        "明らかな",
+        "簡単な"
+      ],
+      "correctAnswer": "不可解な",
+      "explanation": "「baffling」は、当惑させる、理解できない、という意味です。何かが非常に奇妙で理解するのが難しい時に使われます。混乱や困惑を引き起こす状況を表す形容詞です。"
+    },
+    {
+      "id": 63,
+      "value": "tunnel",
+      "options": [
+        "建物",
+        "庭",
+        "トンネル",
+        "道路"
+      ],
+      "correctAnswer": "トンネル",
+      "explanation": "ここでは、豪邸をつなぐ秘密の地下トンネルという夢の文脈で使用されています。"
+    },
+    {
+      "id": 64,
+      "value": "beverages",
+      "options": [
+        "食べ物",
+        "飲み物",
+        "デザート",
+        "薬"
+      ],
+      "correctAnswer": "飲み物",
+      "explanation": "ここでは、ラージとハワードが飲んでいる飲み物を指しています。日常会話で広く使われる一般的な単語です。"
+    },
+    {
+      "id": 65,
+      "value": "rival",
+      "options": [
+        "協力的な",
+        "友好的な",
+        "敵対的な",
+        "中立的な"
+      ],
+      "correctAnswer": "敵対的な",
+      "explanation": "ここでは、シェルドンがレオナルドに対抗する会社を設立することを考えているため、「rival company」は競争相手の会社という意味になります。"
+    },
+    {
+      "id": 66,
+      "value": "loyalty",
+      "options": [
+        "不誠実",
+        "忠誠心",
+        "裏切り",
+        "無関心"
+      ],
+      "correctAnswer": "忠誠心",
+      "explanation": "ここでは、ハワードとラージがレオナルドに対して持っている忠誠心を指しています。人間関係における重要な要素です。"
+    },
+    {
+      "id": 67,
+      "value": "admirable",
+      "options": [
+        "軽蔑すべき",
+        "素晴らしい",
+        "退屈な",
+        "不快な"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "ここでは、ハワードとラージのレオナルドに対する忠誠心をシェルドンが評価しているため、「admirable」は賞賛に値するという意味になります。"
+    },
+    {
+      "id": 68,
+      "value": "Eureka",
+      "options": [
+        "失敗",
+        "発見",
+        "混乱",
+        "退屈"
+      ],
+      "correctAnswer": "発見",
+      "explanation": "ここでは、問題解決や発見の瞬間に使われる言葉です。科学的な発見や技術的な進歩の場面でよく使われます。"
+    },
+    {
+      "id": 69,
+      "value": "scanning",
+      "options": [
+        "印刷",
+        "スキャン",
+        "コピー",
+        "削除"
+      ],
+      "correctAnswer": "スキャン",
+      "explanation": "ここでは、レオナルドたちが数式をスキャンしてアプリに取り込んでいることを指しています。技術的な文脈でよく使われる単語です。"
+    },
+    {
+      "id": 70,
+      "value": "libraries",
+      "options": [
+        "本",
+        "図書館",
+        "プログラム",
+        "道具"
+      ],
+      "correctAnswer": "プログラム",
+      "explanation": "ここでは、コンピュータプログラミングにおける「libraries」を指しており、プログラムの実行に必要な機能を提供するコードの集まりを意味します。"
+    },
+    {
+      "id": 71,
+      "value": "gathering dust",
+      "options": [
+        "掃除",
+        "活用",
+        "放置",
+        "修繕"
+      ],
+      "correctAnswer": "放置",
+      "explanation": "ここでは、シェルドンのテルミンがクローゼットの中で使われずに放置されている状態を指しています。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 72,
+      "value": "lobby",
+      "options": [
+        "屋根裏",
+        "玄関",
+        "地下室",
+        "庭"
+      ],
+      "correctAnswer": "玄関",
+      "explanation": "ここでは、アパートのロビーを指しています。建物に入る際の共有スペースを意味します。"
+    },
+    {
+      "id": 73,
+      "value": "sorrow",
+      "options": [
+        "喜び",
+        "悲しみ",
+        "怒り",
+        "興奮"
+      ],
+      "correctAnswer": "悲しみ",
+      "explanation": "ここでは、シェルドンが歌っている歌詞の一部であり、悲しみや苦悩を意味します。感情を表す一般的な単語です。"
+    },
+    {
+      "id": 74,
+      "value": "seriously",
+      "options": [
+        "冗談で",
+        "真剣に",
+        "いい加減に",
+        "適当に"
+      ],
+      "correctAnswer": "真剣に",
+      "explanation": "ここでは、ペニーがシェルドンにアプリのアイデアを提案する際に、「seriously」は本気で、真剣にという意味で使われています。日常会話でよく使われる副詞です。"
+    },
+    {
+      "id": 75,
+      "value": "exceeded",
+      "options": [
+        "減少した",
+        "超えた",
+        "等しい",
+        "劣った"
+      ],
+      "correctAnswer": "超えた",
+      "explanation": "ここでは、ペニーのアイデアの単純さが、その浅はかさによって「exceeded」（超えられている）とシェルドンが批判しています。比較の文脈で使われる動詞です。"
+    },
+    {
+      "id": 76,
+      "value": "appropriate",
+      "options": [
+        "不適切な",
+        "適切な",
+        "間違った",
+        "賢明な"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "ここでは「ふさわしい」「適切」という意味で使われています。ある状況や目的に対して、調和が取れている、または合致していることを表します。例：This movie is not appropriate for children. (この映画は子供にはふさわしくない)"
+    },
+    {
+      "id": 77,
+      "value": "moping",
+      "options": [
+        "喜んで",
+        "活発に",
+        "ふさぎ込んで",
+        "怒って"
+      ],
+      "correctAnswer": "ふさぎ込んで",
+      "explanation": "「moping」は、特に理由もなく、または小さなことで、ふさぎ込んだり、しょんぼりしたりする様子を表します。元気がない、憂鬱な状態を表す言葉です。例：He's been moping around since she left. (彼女が去ってから、彼はふさぎ込んでいる)"
+    },
+    {
+      "id": 78,
+      "value": "regret",
+      "options": [
+        "後悔する",
+        "喜ぶ",
+        "期待する",
+        "信じる"
+      ],
+      "correctAnswer": "後悔する",
+      "explanation": "ここでは「後悔する」という意味で使われています。過去の行動や決断について、今になって残念に思う気持ちを表します。例：I regret not studying harder in college. (大学でもっと勉強しなかったことを後悔している)"
+    },
+    {
+      "id": 79,
+      "value": "aerial tour",
+      "options": [
+        "水中旅行",
+        "空中旅行",
+        "鉄道旅行",
+        "宇宙旅行"
+      ],
+      "correctAnswer": "空中旅行",
+      "explanation": "「aerial tour」は、飛行機やヘリコプターなどを使って、空から景色や地形を見て回る観光旅行のことです。上空からの眺めを楽しむことができます。例：We took an aerial tour of the Grand Canyon. (私たちはグランドキャニオンの空中観光をした)"
+    },
+    {
+      "id": 80,
+      "value": "stew",
+      "options": [
+        "煮込む",
+        "冷ます",
+        "急ぐ",
+        "褒める"
+      ],
+      "correctAnswer": "煮込む",
+      "explanation": "ここでは「煮込む」という意味ではなく、「（心配事などを）あれこれ考える」「やきもきする」という意味で使われています。不安や心配な気持ちが頭の中でくすぶり続けている状態を表します。例：I left him to stew over the problem. (私は彼をその問題についてあれこれ考えさせた)"
+    },
+    {
+      "id": 81,
+      "value": "face-saving",
+      "options": [
+        "恥をかく",
+        "面目を保つ",
+        "顔を隠す",
+        "顔を洗う"
+      ],
+      "correctAnswer": "面目を保つ",
+      "explanation": "「face-saving」は、面目を保つ、体裁を繕うという意味です。人が恥をかいたり、評価を下げたりするのを避けるための行動や方法を指します。例：He offered a face-saving compromise. (彼は面目を保つための妥協案を提示した)"
+    },
+    {
+      "id": 82,
+      "value": "mend fences",
+      "options": [
+        "塀を修理する",
+        "仲直りをする",
+        "庭を掃除する",
+        "新しい家を建てる"
+      ],
+      "correctAnswer": "仲直りをする",
+      "explanation": "「mend fences」は、文字通りには「塀を修理する」という意味ですが、比喩的には「仲たがいした人との関係を修復する」「和解する」という意味で使われます。例：After the argument, they needed to mend fences. (口論の後、彼らは仲直りする必要があった)"
+    },
+    {
+      "id": 83,
+      "value": "withering",
+      "options": [
+        "優しい",
+        "激しい",
+        "穏やかな",
+        "成長する"
+      ],
+      "correctAnswer": "激しい",
+      "explanation": "ここでは「人を萎縮させるような」「手厳しい」という意味で使われています。人を精神的に打ちのめしたり、自信を失わせたりするような強烈な様子を表します。例：She gave him a withering look. (彼女は彼に人を萎縮させるような視線を送った)"
+    },
+    {
+      "id": 84,
+      "value": "condemnation",
+      "options": [
+        "非難",
+        "祝福",
+        "感謝",
+        "推奨"
+      ],
+      "correctAnswer": "非難",
+      "explanation": "「condemnation」は、強い非難や批判、有罪判決を意味します。道徳的に許されない行為や不正に対して、公式にまたは公然と否定的な評価を下すことを指します。例：The international community issued a strong condemnation of the attack. (国際社会はその攻撃を強く非難した)"
+    },
+    {
+      "id": 85,
+      "value": "caught up",
+      "options": [
+        "取り残された",
+        "最新の情報に通じている",
+        "迷子になった",
+        "飽き飽きした"
+      ],
+      "correctAnswer": "最新の情報に通じている",
+      "explanation": "「caught up」は、ここでは「最新の情報に通じている」「追いついている」という意味で使われています。新しい情報や状況について理解し、遅れを取っていない状態を表します。例：I need to get caught up on the news. (私はニュースの最新情報を知る必要がある)"
+    },
+    {
+      "id": 86,
+      "value": "put in",
+      "options": [
+        "取り出す",
+        "投資する",
+        "避ける",
+        "浪費する"
+      ],
+      "correctAnswer": "投資する",
+      "explanation": "ここでは「（時間や労力を）費やす」「投資する」という意味で使われています。ある目的のために時間、労力、お金などをかけることを表します。例：We put in a lot of effort to finish the project on time. (私たちはプロジェクトを時間通りに終わらせるために多くの努力を費やした)"
+    },
+    {
+      "id": 87,
+      "value": "knockoff",
+      "options": [
+        "本物",
+        "模倣品",
+        "改良品",
+        "高級品"
+      ],
+      "correctAnswer": "模倣品",
+      "explanation": "「knockoff」は、ブランド品などの模倣品、偽物を意味します。本物と似せて作られていますが、品質や価格が劣ることが多いです。例：This watch is a knockoff of a famous brand. (この時計は有名ブランドの模倣品だ)"
+    },
+    {
+      "id": 88,
+      "value": "algorithm",
+      "options": [
+        "代数学",
+        "リズム",
+        "アルゴリズム",
+        "アレルギー"
+      ],
+      "correctAnswer": "アルゴリズム",
+      "explanation": "「algorithm」は、特定の問題を解決するための手順や計算方法を定めたものです。コンピューターサイエンスでよく使われます。例：This algorithm sorts data very efficiently. (このアルゴリズムは非常に効率的にデータをソートする)"
+    },
+    {
+      "id": 89,
+      "value": "lite version",
+      "options": [
+        "重いバージョン",
+        "軽いバージョン",
+        "最新バージョン",
+        "古いバージョン"
+      ],
+      "correctAnswer": "軽いバージョン",
+      "explanation": "ここでは「無料版」や「簡易版」という意味で使われています。製品やサービスの一部機能のみを提供し、より多くの人に試してもらうことを目的としています。例：I want to try the lite version before buying the full product. (製品版を買う前に無料版を試してみたい。)"
+    },
+    {
+      "id": 90,
+      "value": "word of mouth",
+      "options": [
+        "口頭での指示",
+        "口コミ",
+        "手紙での通信",
+        "契約書"
+      ],
+      "correctAnswer": "口コミ",
+      "explanation": "「word of mouth」は「口コミ」という意味で、人々が製品やサービスについて互いに話すことによって広まる情報のことを指します。広告よりも信頼性が高いとされることがあります。例：The restaurant's popularity grew through word of mouth. (そのレストランの人気は口コミで広がった。)"
+    },
+    {
+      "id": 91,
+      "value": "behave",
+      "options": [
+        "悪態をつく",
+        "行儀よくする",
+        "大騒ぎする",
+        "無視する"
+      ],
+      "correctAnswer": "行儀よくする",
+      "explanation": "「behave」は「行儀よくする」「礼儀正しく振る舞う」という意味です。特に子供に対して使われることが多いですが、大人にも使えます。例：Please behave yourselves. (行儀よくしてください。)"
+    },
+    {
+      "id": 92,
+      "value": "hit",
+      "options": [
+        "失敗",
+        "成功",
+        "攻撃",
+        "防御"
+      ],
+      "correctAnswer": "成功",
+      "explanation": "ここでは、「大成功」「大当たり」という意味で使われます。ビジネスやエンターテイメントの分野で、製品やアイデアが大きな成功を収めることを指します。例：The new product was a big hit. (その新製品は大成功だった。)"
+    },
+    {
+      "id": 93,
+      "value": "on the road to success",
+      "options": [
+        "成功への道",
+        "失敗への道",
+        "遠回り",
+        "近道"
+      ],
+      "correctAnswer": "成功への道",
+      "explanation": "「on the road to success」は、「成功への道を歩んでいる」「成功に向かっている」という意味です。目標を達成するために順調に進んでいる状態を表します。例：With hard work, you're on the road to success. (努力すれば、あなたは成功への道を歩んでいる。)"
+    },
+    {
+      "id": 94,
+      "value": "submarine",
+      "options": [
+        "飛行機",
+        "潜水艦",
+        "宇宙船",
+        "気球"
+      ],
+      "correctAnswer": "潜水艦",
+      "explanation": "「submarine」は「潜水艦」という意味です。水中を航行できる軍事用または研究用の船を指します。ここでは、Howardの願望として使われています。例：The submarine explored the depths of the ocean. (潜水艦は海洋の深部を探査した。)"
+    },
+    {
+      "id": 95,
+      "value": "a pop",
+      "options": [
+        "一度に",
+        "無料で",
+        "少しずつ",
+        "割引で"
+      ],
+      "correctAnswer": "一度に",
+      "explanation": "ここでは「1つあたり」「1回あたり」という意味で使われています。価格や数量を示す際に使われます。例：It costs five dollars a pop. (それは1つあたり5ドルかかる。)"
+    },
+    {
+      "id": 96,
+      "value": "by the way",
+      "options": [
+        "遠回りして",
+        "ちなみに",
+        "道に迷って",
+        "歩きながら"
+      ],
+      "correctAnswer": "ちなみに",
+      "explanation": "「by the way」は「ちなみに」「ところで」という意味で、会話の流れを変えずに別の話題を導入する際に使われます。例：By the way, did you see that movie? (ちなみに、あの映画見た？)"
+    },
+    {
+      "id": 97,
+      "value": "that time",
+      "options": [
+        "前回",
+        "今回",
+        "いつでも",
+        "特定の時間"
+      ],
+      "correctAnswer": "今回",
+      "explanation": "特定の状況や瞬間を指し示す表現。文脈によって意味合いが異なり、ここではRajが以前の発言を強調する際に使われています。例文：That time I really meant it.（その時は本当にそう思っていた。）"
+    },
+    {
+      "id": 98,
+      "value": "hundred-aires",
+      "options": [
+        "貧乏人",
+        "百万人長者",
+        "億万長者",
+        "ホームレス"
+      ],
+      "correctAnswer": "百万人長者",
+      "explanation": "「hundred-aires」は「百万人長者」という意味です。少なくとも100ドルを持っている人を指す冗談めかした言い方です。ここでは、Howardがお金持ちになることを夢見ている状況で使われています。例：We're going to be hundred-aires! (俺たちは大金持ちになるぞ！)"
+    },
+    {
+      "id": 99,
+      "value": "beta",
+      "options": [
+        "アルファ版",
+        "ベータ版",
+        "製品版",
+        "試作品"
+      ],
+      "correctAnswer": "ベータ版",
+      "explanation": "ソフトウェア開発におけるテスト段階の一つで、一般公開前に限られたユーザーに試用してもらうバージョン。バグや改善点を見つける目的があります。例文：We are releasing a private beta version of our app. (アプリのプライベートベータ版をリリースします。)"
+    },
+    {
+      "id": 100,
+      "value": "differential equation",
+      "options": [
+        "代数方程式",
+        "微分方程式",
+        "幾何学",
+        "積分方程式"
+      ],
+      "correctAnswer": "微分方程式",
+      "explanation": "数学における方程式の一種で、関数とその導関数を含む方程式。物理学や工学などの分野で現象のモデル化に用いられます。例文：Differential equations are used to model various physical phenomena. (微分方程式は様々な物理現象のモデル化に用いられる。)"
+    }
+  ]
+}

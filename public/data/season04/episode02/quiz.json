@@ -1,0 +1,1120 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "Whatcha doin’",
+      "options": [
+        "何をしているの",
+        "どうしたの",
+        "何を考えているの",
+        "どこに行くの"
+      ],
+      "correctAnswer": "何をしているの",
+      "explanation": "「Whatcha doin’」は「What are you doing?」のくだけた言い方です。日常会話でよく使われ、相手が何をしているのかを尋ねる際に用いられます。"
+    },
+    {
+      "id": 2,
+      "value": "humorous implication",
+      "options": [
+        "面白い意味合い",
+        "深刻な影響",
+        "間接的な指示",
+        "明白な理由"
+      ],
+      "correctAnswer": "面白い意味合い",
+      "explanation": "「humorous implication」は「ユーモラスな含み」という意味です。言葉や行動が直接的ではなく、面白い意味を含んでいることを指します。この場合、レナードがシェルドンをアニメのキャラクターになぞらえて冗談を言っていることに対するシェルドンの反応です。"
+    },
+    {
+      "id": 3,
+      "value": "schematic",
+      "options": [
+        "概略図",
+        "設計図",
+        "想像図",
+        "完成図"
+      ],
+      "correctAnswer": "設計図",
+      "explanation": "「schematic」は「図式的な、概略的な」という意味で、ここでは装置の設計図を指します。技術的な内容を説明する際によく用いられます。"
+    },
+    {
+      "id": 4,
+      "value": "backfire",
+      "options": [
+        "成功する",
+        "裏目に出る",
+        "爆発する",
+        "前進する"
+      ],
+      "correctAnswer": "裏目に出る",
+      "explanation": "「backfire」は「（計画などが）裏目に出る、失敗する」という意味です。意図した結果とは逆の結果になることを表します。例：His plan backfired spectacularly. (彼の計画は見事に裏目に出た。)"
+    },
+    {
+      "id": 5,
+      "value": "et cetera",
+      "options": [
+        "その他",
+        "例えば",
+        "要するに",
+        "つまり"
+      ],
+      "correctAnswer": "その他",
+      "explanation": "「et cetera」は「～など」という意味のラテン語です。リストを省略する際に用いられます。例：I bought apples, bananas, et cetera. (リンゴやバナナなどを買いました。)"
+    },
+    {
+      "id": 6,
+      "value": "longevity",
+      "options": [
+        "寿命",
+        "美貌",
+        "財産",
+        "知能"
+      ],
+      "correctAnswer": "寿命",
+      "explanation": "「longevity」は「長寿、寿命」という意味です。人の寿命や物の耐久性などを指す際に用いられます。"
+    },
+    {
+      "id": 7,
+      "value": "propensity",
+      "options": [
+        "傾向",
+        "嫌悪",
+        "才能",
+        "無関心"
+      ],
+      "correctAnswer": "傾向",
+      "explanation": "「propensity」は「（ある行動をする）傾向、性質」という意味です。例：He has a propensity for violence. (彼は暴力的な傾向がある。)"
+    },
+    {
+      "id": 8,
+      "value": "hereditary",
+      "options": [
+        "遺伝的な",
+        "伝染性の",
+        "文化的な",
+        "個人的な"
+      ],
+      "correctAnswer": "遺伝的な",
+      "explanation": "「hereditary」は「遺伝性の」という意味です。親から子へ受け継がれる性質や病気などを指します。"
+    },
+    {
+      "id": 9,
+      "value": "fight or flight instinct",
+      "options": [
+        "闘争または逃走本能",
+        "生存本能",
+        "食欲",
+        "睡眠欲"
+      ],
+      "correctAnswer": "闘争または逃走本能",
+      "explanation": "「fight or flight instinct」は「闘争か逃走か本能」という意味です。危険な状況に直面した際に、戦うか逃げるかを決める本能的な反応を指します。"
+    },
+    {
+      "id": 10,
+      "value": "coded genetically",
+      "options": [
+        "遺伝子的に暗号化されている",
+        "遺伝子的に決定されている",
+        "遺伝子的に操作されている",
+        "遺伝子的に隠されている"
+      ],
+      "correctAnswer": "遺伝子的に決定されている",
+      "explanation": "「coded genetically」は「遺伝子的にコード化されている」という意味です。ある特性や行動が遺伝子によって決定されていることを指します。"
+    },
+    {
+      "id": 11,
+      "value": "brawny",
+      "options": [
+        "筋肉隆々の",
+        "頭の良い",
+        "優しい",
+        "臆病な"
+      ],
+      "correctAnswer": "筋肉隆々の",
+      "explanation": "「brawny」は「筋肉隆々の、たくましい」という意味です。体力があり、力強い様子を表します。"
+    },
+    {
+      "id": 12,
+      "value": "disregard",
+      "options": [
+        "無視する",
+        "尊重する",
+        "考慮する",
+        "理解する"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「disregard」は「無視する、軽視する」という意味です。重要でないものとして扱ったり、注意を払わなかったりすることを指します。"
+    },
+    {
+      "id": 13,
+      "value": "singularity",
+      "options": [
+        "特異点",
+        "普遍性",
+        "単純さ",
+        "独自性"
+      ],
+      "correctAnswer": "特異点",
+      "explanation": "「singularity」は「特異点」という意味で、技術的特異点を指す場合は、人工知能が人間の知能を超える時点を意味します。"
+    },
+    {
+      "id": 14,
+      "value": "missing out on",
+      "options": [
+        "見逃す",
+        "参加する",
+        "経験する",
+        "楽しむ"
+      ],
+      "correctAnswer": "見逃す",
+      "explanation": "「miss out on」は「～を見逃す、～に参加できない」という意味です。機会を逃すことや、経験できないことを残念に思う気持ちを表します。例：I don't want to miss out on the fun. (その楽しみを見逃したくない。)"
+    },
+    {
+      "id": 15,
+      "value": "freakish",
+      "options": [
+        "異常な",
+        "普通の",
+        "魅力的な",
+        "自然な"
+      ],
+      "correctAnswer": "異常な",
+      "explanation": "「freakish」は「異様な、奇妙な」という意味です。通常とは異なる、異常な状態や外見を指します。"
+    },
+    {
+      "id": 16,
+      "value": "unified field theory",
+      "options": [
+        "統一場理論",
+        "相対性理論",
+        "量子力学",
+        "超ひも理論"
+      ],
+      "correctAnswer": "統一場理論",
+      "explanation": "「unified field theory」は「統一場理論」という意味で、物理学の未解決問題の一つです。自然界の全ての力と素粒子を一つの理論で説明しようとする試みを指します。"
+    },
+    {
+      "id": 17,
+      "value": "cold fusion",
+      "options": [
+        "常温核融合",
+        "太陽光発電",
+        "地熱発電",
+        "風力発電"
+      ],
+      "correctAnswer": "常温核融合",
+      "explanation": "「cold fusion」は「常温核融合」という意味で、常温に近い環境で核融合反応を起こす技術です。実現すればエネルギー問題の解決に繋がると期待されていますが、まだ実証されていません。"
+    },
+    {
+      "id": 18,
+      "value": "hybrid",
+      "options": [
+        "混成の",
+        "純粋な",
+        "人工的な",
+        "自然な"
+      ],
+      "correctAnswer": "混成の",
+      "explanation": "「hybrid」は「混成の、雑種の」という意味です。異なる種類のもの同士を組み合わせたものを指します。例：a hybrid car (ハイブリッド車)"
+    },
+    {
+      "id": 19,
+      "value": "owe",
+      "options": [
+        "借りがある",
+        "与える",
+        "所有する",
+        "要求する"
+      ],
+      "correctAnswer": "借りがある",
+      "explanation": "「owe」は「～を借りている、～に恩がある」という意味です。金銭や感謝の気持ちなどを相手に返す必要がある状態を表します。例：I owe you one. (あなたに借りがある。)"
+    },
+    {
+      "id": 20,
+      "value": "apiece",
+      "options": [
+        "一人あたり",
+        "全体で",
+        "無料で",
+        "割引で"
+      ],
+      "correctAnswer": "一人あたり",
+      "explanation": "「apiece」は「それぞれ、一人あたり」という意味です。複数人に分配する場合によく使われます。例：They cost $10 apiece. (それらは一つ10ドルです。)"
+    },
+    {
+      "id": 21,
+      "value": "get by",
+      "options": [
+        "何とかやっていく",
+        "成功する",
+        "失敗する",
+        "あきらめる"
+      ],
+      "correctAnswer": "何とかやっていく",
+      "explanation": "「get by」は「何とかやっていく、切り抜ける」という意味です。十分ではない状況でも、なんとか生活できることを表します。例：I don't have much money, but I get by. (お金はあまりないけど、何とかやっていけてる。)"
+    },
+    {
+      "id": 22,
+      "value": "Cruciferous Vegetable",
+      "options": [
+        "アブラナ科の野菜",
+        "根菜",
+        "果物",
+        "豆類"
+      ],
+      "correctAnswer": "アブラナ科の野菜",
+      "explanation": "「cruciferous vegetable」は「アブラナ科の野菜」という意味です。ブロッコリー、キャベツ、カリフラワーなどが含まれます。"
+    },
+    {
+      "id": 23,
+      "value": "Sheldonian calendar",
+      "options": [
+        "シェルドン暦",
+        "グレゴリオ暦",
+        "太陰暦",
+        "太陽暦"
+      ],
+      "correctAnswer": "シェルドン暦",
+      "explanation": "「Sheldonian calendar」は「シェルドン暦」という意味で、シェルドンが独自に定めたスケジュールや習慣を指します。"
+    },
+    {
+      "id": 24,
+      "value": "small price to pay",
+      "options": [
+        "安い代償",
+        "高い代償",
+        "無駄な出費",
+        "予期せぬ収入"
+      ],
+      "correctAnswer": "安い代償",
+      "explanation": "「small price to pay」は「安い代償」という意味です。何かを得るために払う代償が小さいと感じる時に使います。例：It's a small price to pay for happiness. (幸せのためには安い代償だ。)"
+    },
+    {
+      "id": 25,
+      "value": "fuse my consciousness with cybernetics",
+      "options": [
+        "意識とサイバネティックスを融合させる",
+        "過去を振り返る",
+        "未来を予測する",
+        "現実を生きる"
+      ],
+      "correctAnswer": "意識とサイバネティックスを融合させる",
+      "explanation": "「fuse my consciousness with cybernetics」は「自分の意識をサイバネティックスと融合させる」という意味です。自分の意識を機械に転送し、永遠の命を得ようとする考えを表します。"
+    },
+    {
+      "id": 26,
+      "value": "essentially",
+      "options": [
+        "本質的に",
+        "表面上は",
+        "部分的に",
+        "偶然に"
+      ],
+      "correctAnswer": "本質的に",
+      "explanation": "「essentially」は「本質的に」「基本的に」という意味で、ある物事の最も重要な側面や性質を指す際に用いられます。付随的な要素を除いて、中心となる部分を強調するニュアンスがあります。\n\n例：Essentially, the plan is to reduce costs. (本質的に、その計画はコスト削減を目指しています。)"
+    },
+    {
+      "id": 27,
+      "value": "regimen",
+      "options": [
+        "食事",
+        "運動療法",
+        "休憩",
+        "睡眠"
+      ],
+      "correctAnswer": "運動療法",
+      "explanation": "「regimen」は「養生法」「鍛錬法」という意味で、特に健康や美容のために規則正しく行う運動や食事の計画を指します。自己管理を伴う、体系的な取り組みを表します。\n\n例：a strict fitness regimen (厳しい運動療法)"
+    },
+    {
+      "id": 28,
+      "value": "AKA",
+      "options": [
+        "〜として知られている",
+        "〜の理由",
+        "〜の結果",
+        "〜の代わりに"
+      ],
+      "correctAnswer": "〜として知られている",
+      "explanation": "「AKA」は \"also known as\" の略で、「〜としても知られている」という意味です。ある人や物が別の名前でも呼ばれていることを示す際に使用されます。口語的な表現です。\n\n例：He is known as Jim AKA 'The Hammer'. (彼はジム、別名「ハンマー」として知られている。)"
+    },
+    {
+      "id": 29,
+      "value": "persistent",
+      "options": [
+        "一時的な",
+        "頑固な",
+        "控えめな",
+        "友好的な"
+      ],
+      "correctAnswer": "頑固な",
+      "explanation": "「persistent」は「しつこい」「粘り強い」という意味で、困難や反対に直面しても諦めずに努力し続ける様子を表します。良い意味でも悪い意味でも使われます。\n\n例：a persistent cough (しつこい咳)"
+    },
+    {
+      "id": 30,
+      "value": "determined",
+      "options": [
+        "不確かな",
+        "決意した",
+        "無関心な",
+        "失望した"
+      ],
+      "correctAnswer": "決意した",
+      "explanation": "「determined」は「決意した」「断固とした」という意味で、目標を達成するために強い意志を持っている状態を表します。しばしば、困難を乗り越える覚悟を示します。\n\n例：She is determined to succeed. (彼女は成功すると決意している。)"
+    },
+    {
+      "id": 31,
+      "value": "bend me over",
+      "options": [
+        "私を助ける",
+        "私を屈服させる",
+        "私を無視する",
+        "私を笑わせる"
+      ],
+      "correctAnswer": "私を屈服させる",
+      "explanation": "「bend someone over」は、文字通りには「誰かをかがませる」という意味ですが、ここでは「誰かを屈服させる」「支配する」という比喩的な意味合いで使われています。権力関係において、一方的な服従を強いる状況を示唆します。\n\n例：The company tried to bend the workers over during negotiations. (会社は交渉中に労働者を屈服させようとした。)"
+    },
+    {
+      "id": 32,
+      "value": "shrink",
+      "options": [
+        "医者",
+        "弁護士",
+        "精神科医",
+        "教師"
+      ],
+      "correctAnswer": "精神科医",
+      "explanation": "「shrink」は、精神科医や心理療法士を指す俗語です。特に、精神的な問題や感情的な苦悩を抱える人が相談する専門家を指します。軽蔑的なニュアンスを含むこともあります。\n\n例：I need to see a shrink. (精神科医に診てもらう必要がある。)"
+    },
+    {
+      "id": 33,
+      "value": "radiating",
+      "options": [
+        "集中している",
+        "広がっている",
+        "減少している",
+        "静止している"
+      ],
+      "correctAnswer": "広がっている",
+      "explanation": "「radiating」は「放射する」「広がる」という意味で、熱、光、痛みなどが中心から外に向かって広がる様子を表します。ここでは、痛みが特定の場所から広がっていることを示しています。\n\n例：The heat was radiating from the fire. (熱が火から放射されていた。)"
+    },
+    {
+      "id": 34,
+      "value": "nauseated",
+      "options": [
+        "興奮した",
+        "吐き気がする",
+        "疲れた",
+        "安心した"
+      ],
+      "correctAnswer": "吐き気がする",
+      "explanation": "「nauseated」は「吐き気がする」という意味で、嘔吐したいような不快な感覚を表します。乗り物酔いや病気の症状としてよく使われます。\n\n例：I felt nauseated after the roller coaster ride. (ジェットコースターに乗った後、吐き気がした。)"
+    },
+    {
+      "id": 35,
+      "value": "likelihood",
+      "options": [
+        "可能性",
+        "必要性",
+        "不確実性",
+        "結果"
+      ],
+      "correctAnswer": "可能性",
+      "explanation": "「likelihood」は「可能性」「見込み」という意味で、ある事象が起こる確率や可能性の度合いを表します。客観的な評価や主観的な判断に基づいて使われます。\n\n例：There is a high likelihood of rain tomorrow. (明日は雨の可能性が高い。)"
+    },
+    {
+      "id": 36,
+      "value": "ingestion",
+      "options": [
+        "注射",
+        "吸入",
+        "摂取",
+        "排出"
+      ],
+      "correctAnswer": "摂取",
+      "explanation": "「ingestion」は「摂取」「嚥下」という意味で、食物や薬などを口から体内に取り込む行為を指します。医学的な文脈や、毒物などの摂取について言及する際によく用いられます。\n\n例：Accidental ingestion of poison can be fatal. (誤って毒物を摂取すると、致命的となることがある。)"
+    },
+    {
+      "id": 37,
+      "value": "vigilant",
+      "options": [
+        "注意深い",
+        "怠惰な",
+        "無知な",
+        "興奮した"
+      ],
+      "correctAnswer": "注意深い",
+      "explanation": "「vigilant」は「警戒している」「用心深い」という意味で、危険や問題が発生しないように、常に注意を払っている状態を表します。特に、責任ある立場にある人が警戒を怠らないことを指します。\n\n例：Security guards must be vigilant at all times. (警備員は常に警戒していなければならない。)"
+    },
+    {
+      "id": 38,
+      "value": "proprietor",
+      "options": [
+        "顧客",
+        "従業員",
+        "所有者",
+        "配達人"
+      ],
+      "correctAnswer": "所有者",
+      "explanation": "「proprietor」は「所有者」「経営者」という意味で、特に商店や事業の所有者を指します。個人事業主や小規模企業の経営者を指すことが多いです。\n\n例：The proprietor of the restaurant is very friendly. (そのレストランのオーナーはとても親切だ。)"
+    },
+    {
+      "id": 39,
+      "value": "meaning to",
+      "options": [
+        "〜するつもりである",
+        "〜する必要がある",
+        "〜しないつもりである",
+        "〜するのを忘れる"
+      ],
+      "correctAnswer": "〜するつもりである",
+      "explanation": "「mean to」は「〜するつもりである」「〜しようと思っている」という意味で、近い将来に行動を起こす意図や計画があることを示します。しばしば、実際にはまだ行動に移せていない状況を表します。\n\n例：I've been meaning to call you. (あなたに電話しようと思っていたんだ。)"
+    },
+    {
+      "id": 40,
+      "value": "cruel irony",
+      "options": [
+        "悲しい現実",
+        "皮肉な運命",
+        "予想外の幸運",
+        "無意味な努力"
+      ],
+      "correctAnswer": "皮肉な運命",
+      "explanation": "「cruel irony」は「残酷な皮肉」という意味で、意図とは正反対の結果が生じる状況を表します。特に、期待や努力が裏切られ、不条理な結末を迎える場合に用いられます。\n\n例：The cruel irony was that he died saving the man who killed his brother. (残酷な皮肉は、彼が弟を殺した男を救って死んだことだった。)"
+    },
+    {
+      "id": 41,
+      "value": "vestigial",
+      "options": [
+        "重要な",
+        "退化した",
+        "発達した",
+        "人工的な"
+      ],
+      "correctAnswer": "退化した",
+      "explanation": "「vestigial」は「痕跡的な」「退化した」という意味で、かつては機能していたが、進化の過程でその機能を失った器官や構造を指します。生物学的な文脈でよく用いられます。\n\n例：The appendix is a vestigial organ in humans. (虫垂は人間の痕跡器官である。)"
+    },
+    {
+      "id": 42,
+      "value": "doomed",
+      "options": [
+        "救われた",
+        "運命づけられた",
+        "自由な",
+        "成功した"
+      ],
+      "correctAnswer": "運命づけられた",
+      "explanation": "「doomed」は「運命づけられた」「破滅的な」という意味で、避けられない悪い運命や不幸が待ち受けている状態を表します。絶望感や悲観的なニュアンスを含みます。\n\n例：The ship was doomed to sink. (その船は沈む運命にあった。)"
+    },
+    {
+      "id": 43,
+      "value": "nervous Nelly",
+      "options": [
+        "勇敢な人",
+        "臆病な人",
+        "賢い人",
+        "正直な人"
+      ],
+      "correctAnswer": "臆病な人",
+      "explanation": "「nervous Nelly」は「心配性の人」「臆病な人」という意味で、些細なことにも過剰に心配したり、不安になったりする人を指す口語的な表現です。しばしば、軽蔑的なニュアンスを含みます。\n\n例：Don't be such a nervous Nelly! (そんなに心配しないで！)"
+    },
+    {
+      "id": 44,
+      "value": "work out",
+      "options": [
+        "運動する",
+        "解決する",
+        "うまくいく",
+        "計画する"
+      ],
+      "correctAnswer": "うまくいく",
+      "explanation": "「work out」は様々な意味がありますが、ここでは「うまくいく」「成功する」という意味で使われています。計画や行動が期待通りに進展することを表します。\n\n例：I hope everything works out for you. (すべてがうまくいくといいですね。)"
+    },
+    {
+      "id": 45,
+      "value": "gambol",
+      "options": [
+        "静かに歩く",
+        "楽しそうに跳ね回る",
+        "真剣に勉強する",
+        "大声で叫ぶ"
+      ],
+      "correctAnswer": "楽しそうに跳ね回る",
+      "explanation": "「gambol」は「跳ね回る」「駆け回る」という意味で、喜びや興奮を表して軽快に動き回る様子を描写します。特に、子供や動物が遊び戯れる様子を指すことが多いです。\n\n例：Lambs gambolled in the meadow. (子羊たちが牧草地で跳ね回っていた。)"
+    },
+    {
+      "id": 46,
+      "value": "bear claw",
+      "options": [
+        "熊の手",
+        "甘い菓子パン",
+        "動物の足跡",
+        "鋭い爪"
+      ],
+      "correctAnswer": "甘い菓子パン",
+      "explanation": "「bear claw」は、熊の爪の形に似た甘い菓子パンの一種です。アメリカ合衆国で人気のあるペストリーで、アーモンドやシナモン風味のものがあります。\n\n例：I'll have a bear claw and a coffee, please. (ベアクロウとコーヒーをお願いします。)"
+    },
+    {
+      "id": 47,
+      "value": "toe touch",
+      "options": [
+        "つま先立ち",
+        "つま先で触れる",
+        "つま先を見る",
+        "つま先を動かす"
+      ],
+      "correctAnswer": "つま先で触れる",
+      "explanation": "「toe touch」は、体を前に倒してつま先に触れるストレッチ運動のことです。柔軟性を高めるための準備運動としてよく行われます。\n\n例：Do some toe touches to warm up your hamstrings. (ハムストリングを温めるために、つま先タッチをしましょう。)"
+    },
+    {
+      "id": 48,
+      "value": "biomechanics",
+      "options": [
+        "生化学",
+        "生物物理学",
+        "生体工学",
+        "生物力学"
+      ],
+      "correctAnswer": "生物力学",
+      "explanation": "「biomechanics」は「生体力学」という意味で、生物の構造や機能、特に運動に関する力学的な側面を研究する学問分野です。スポーツ科学やリハビリテーションなどで応用されています。\n\n例：Biomechanics is used to improve athletic performance. (生体力学は運動能力の向上に利用されている。)"
+    },
+    {
+      "id": 49,
+      "value": "Cruciferous",
+      "options": [
+        "柑橘系の",
+        "アブラナ科の",
+        "ナス科の",
+        "マメ科の"
+      ],
+      "correctAnswer": "アブラナ科の",
+      "explanation": "「Cruciferous」は「アブラナ科の」という意味で、ブロッコリー、キャベツ、カリフラワー、ケールなどの野菜を含む植物の科を指します。これらの野菜は栄養価が高いことで知られています。\n\n例：Cruciferous vegetables are good for your health. (アブラナ科の野菜は健康に良い。)"
+    },
+    {
+      "id": 50,
+      "value": "read up on",
+      "options": [
+        "読み飛ばす",
+        "詳しく調べる",
+        "簡単に読む",
+        "間違って読む"
+      ],
+      "correctAnswer": "詳しく調べる",
+      "explanation": "「read up on」は「～について調べる」「～について勉強する」という意味の句動詞です。ある特定のトピックや主題について、情報を得るために読書や調査を行うことを指します。\n\n例：I need to read up on the latest research. (最新の研究について調べる必要がある。)"
+    },
+    {
+      "id": 51,
+      "value": "originate",
+      "options": [
+        "始まる",
+        "終わる",
+        "隠れる",
+        "急ぐ"
+      ],
+      "correctAnswer": "始まる",
+      "explanation": "「originate」は、（物事が）始まる、発生する、～に由来するという意味です。ここでは、料理がインドに由来することを指しています。よりフォーマルな文脈で使われることが多い単語です。\n例：The rumor originated from an anonymous source. (その噂は匿名の情報源から始まった。)"
+    },
+    {
+      "id": 52,
+      "value": "What am I up to now?",
+      "options": [
+        "今、私は何を計画していますか？",
+        "今、私はいくら払う必要がありますか？",
+        "今、私はどこにいますか？",
+        "今、私は何をしていますか？"
+      ],
+      "correctAnswer": "今、私はいくら払う必要がありますか？",
+      "explanation": "このフレーズは、特に金銭的な文脈で、現在の借金や義務の合計を尋ねる際に使用されます。文字通りの意味ではなく、「今、合計でいくらになっているのか？」というニュアンスを含みます。\n例：What am I up to now with the credit card bill? (クレジットカードの請求は今いくらになっている？)"
+    },
+    {
+      "id": 53,
+      "value": "put out",
+      "options": [
+        "努力する",
+        "我慢する",
+        "性的な関係を持つ",
+        "外出する"
+      ],
+      "correctAnswer": "性的な関係を持つ",
+      "explanation": "このイディオムは、婉曲的に性的な関係を持つことを意味します。軽蔑的なニュアンスを含む場合があるので、使用には注意が必要です。\n例：She doesn't have to put out to get what she wants. (彼女は欲しいものを得るために体を売る必要はない。)"
+    },
+    {
+      "id": 54,
+      "value": "vicissitudes",
+      "options": [
+        "美徳",
+        "悪徳",
+        "人生の浮き沈み",
+        "秘密"
+      ],
+      "correctAnswer": "人生の浮き沈み",
+      "explanation": "「vicissitudes」は、人生や運命の絶え間ない変化、浮き沈みを意味するフォーマルな言葉です。良いことも悪いことも含む、予測不能な変化を表します。\n例：We must learn to accept the vicissitudes of life. (私たちは人生の浮き沈みを受け入れることを学ばなければならない。)"
+    },
+    {
+      "id": 55,
+      "value": "ensconced",
+      "options": [
+        "危険にさらされた",
+        "安全に隠された",
+        "公にされた",
+        "忘れられた"
+      ],
+      "correctAnswer": "安全に隠された",
+      "explanation": "「ensconce」は、安全な場所や快適な場所に落ち着いて隠れる、または保護するという意味です。しばしば、外部からの影響を受けないように隔離された状態を表します。\n例：She ensconced herself in her room to read. (彼女は読書をするために自分の部屋にこもった。)"
+    },
+    {
+      "id": 56,
+      "value": "undisclosed",
+      "options": [
+        "公開された",
+        "未公開の",
+        "議論された",
+        "無視された"
+      ],
+      "correctAnswer": "未公開の",
+      "explanation": "「undisclosed」は、明らかにされていない、秘密にされているという意味です。情報が意図的に隠されている状態を表します。\n例：The company has an undisclosed location for its research facility. (その会社は研究施設の場所を公表していない。)"
+    },
+    {
+      "id": 57,
+      "value": "I'll be damned",
+      "options": [
+        "呪われる",
+        "驚いた",
+        "退屈だ",
+        "幸せだ"
+      ],
+      "correctAnswer": "驚いた",
+      "explanation": "「I'll be damned」は、驚き、不信、または怒りを表す表現です。文字通りには「呪われてもいい」という意味ですが、実際には「まさか」「信じられない」といったニュアンスで使われます。\n例：Well, I'll be damned! I never thought I'd see you here. (おお、まさか！ここであなたに会うなんて思わなかった。)"
+    },
+    {
+      "id": 58,
+      "value": "picturesque",
+      "options": [
+        "退屈な",
+        "美しい",
+        "危険な",
+        "不快な"
+      ],
+      "correctAnswer": "美しい",
+      "explanation": "「picturesque」は、絵のように美しい、風光明媚なという意味です。特に自然の風景が美しく、絵になるような様子を表します。\n例：The village is very picturesque. (その村はとても絵のように美しい。)"
+    },
+    {
+      "id": 59,
+      "value": "spectre",
+      "options": [
+        "希望",
+        "恐怖",
+        "幽霊",
+        "現実"
+      ],
+      "correctAnswer": "恐怖",
+      "explanation": "「spectre」は、幽霊や亡霊という意味の他に、不安や恐怖を引き起こすもの、または近い将来に起こりそうな不吉な事柄を指す比喩的な意味もあります。\n例：The spectre of unemployment hangs over the town. (失業の恐怖が町に漂っている。)"
+    },
+    {
+      "id": 60,
+      "value": "vehicular",
+      "options": [
+        "歩行者の",
+        "乗り物の",
+        "航空機の",
+        "動物の"
+      ],
+      "correctAnswer": "乗り物の",
+      "explanation": "「vehicular」は、乗り物に関する、または乗り物によって行われるという意味です。特に自動車やトラックなどの車両を指すことが多いです。\n例：Vehicular traffic was heavy this morning. (今朝は車の交通量が多かった。)"
+    },
+    {
+      "id": 61,
+      "value": "called shotgun",
+      "options": [
+        "運転を交代する",
+        "助手席を主張する",
+        "警察に通報する",
+        "発砲する"
+      ],
+      "correctAnswer": "助手席を主張する",
+      "explanation": "「call shotgun」は、車の助手席を最初に主張する時に使う口語表現です。アメリカの西部開拓時代に、駅馬車の護衛が助手席に座ってショットガンを構えていたことに由来します。\n例：I called shotgun! (助手席は僕のものだ！)"
+    },
+    {
+      "id": 62,
+      "value": "tense",
+      "options": [
+        "リラックスした",
+        "緊張した",
+        "幸せな",
+        "悲しい"
+      ],
+      "correctAnswer": "緊張した",
+      "explanation": "「tense」は、緊張した、張り詰めた、神経質なという意味です。精神的または肉体的な緊張状態を表します。\n例：She was very tense before the interview. (彼女は面接の前にとても緊張していた。)"
+    },
+    {
+      "id": 63,
+      "value": "yammering",
+      "options": [
+        "ささやく",
+        "おしゃべりする",
+        "叫ぶ",
+        "歌う"
+      ],
+      "correctAnswer": "おしゃべりする",
+      "explanation": "「yammer」は、騒々しく、しつこくおしゃべりする、または不平を言うという意味です。特に不快なほどに喋り続ける様子を表します。\n例：He was yammering on about his problems. (彼は自分の問題について延々と愚痴をこぼしていた。)"
+    },
+    {
+      "id": 64,
+      "value": "sphincter",
+      "options": [
+        "骨",
+        "筋肉",
+        "臓器",
+        "神経"
+      ],
+      "correctAnswer": "筋肉",
+      "explanation": "「sphincter」は、括約筋という意味です。体の開口部を締めたり緩めたりする筋肉のことを指します。医学的な文脈で使われることが多い単語です。\n例：The anal sphincter controls bowel movements. (肛門括約筋は排便を制御する。)"
+    },
+    {
+      "id": 65,
+      "value": "anachronisms",
+      "options": [
+        "同時代性",
+        "時代錯誤",
+        "新しさ",
+        "正確さ"
+      ],
+      "correctAnswer": "時代錯誤",
+      "explanation": "「anachronism」は、時代錯誤、時代遅れなものを意味します。ある時代に存在しないものが存在するかのように描かれている状態を指します。\n例：The movie contains several anachronisms. (その映画にはいくつかの時代錯誤が含まれている。)"
+    },
+    {
+      "id": 66,
+      "value": "halt",
+      "options": [
+        "始める",
+        "止まる",
+        "進む",
+        "急ぐ"
+      ],
+      "correctAnswer": "止まる",
+      "explanation": "「halt」は、停止する、止めるという意味です。命令形で使われることが多く、フォーマルな文脈で使われます。\n例：Halt! Who goes there? (止まれ！誰だ？)"
+    },
+    {
+      "id": 67,
+      "value": "mobile virtual presence device",
+      "options": [
+        "固定電話",
+        "携帯型仮想現実装置",
+        "テレビゲーム",
+        "ラジオ"
+      ],
+      "correctAnswer": "携帯型仮想現実装置",
+      "explanation": "「mobile virtual presence device」は、遠隔地にいる人が、あたかもそこにいるかのようにコミュニケーションできる装置を指します。ここでは、Sheldonが自分の分身として使用している装置のことです。一般的に、遠隔操作できるロボットや、ビデオ会議システムなどが含まれます。"
+    },
+    {
+      "id": 68,
+      "value": "fragile",
+      "options": [
+        "強い",
+        "壊れやすい",
+        "柔軟な",
+        "硬い"
+      ],
+      "correctAnswer": "壊れやすい",
+      "explanation": "「fragile」は、壊れやすい、もろいという意味です。物理的に壊れやすいものだけでなく、精神的に傷つきやすい状態も表します。\n例：Be careful with that vase; it's very fragile. (その花瓶はとても壊れやすいので、注意してください。)"
+    },
+    {
+      "id": 69,
+      "value": "interact",
+      "options": [
+        "無視する",
+        "交流する",
+        "妨害する",
+        "観察する"
+      ],
+      "correctAnswer": "交流する",
+      "explanation": "「interact」は、相互に作用する、交流するという意味です。人とのコミュニケーションや、システム同士の連携など、様々な状況で使われます。\n例：The students interact well with each other. (生徒たちは互いにうまく交流している。)"
+    },
+    {
+      "id": 70,
+      "value": "configuration",
+      "options": [
+        "混乱",
+        "構成",
+        "破壊",
+        "無秩序"
+      ],
+      "correctAnswer": "構成",
+      "explanation": "「configuration」は、構成、配置、設定という意味です。特に、コンピュータシステムやソフトウェアの設定、または物事の物理的な配置を指すことが多いです。\n例：The computer's configuration needs to be updated. (コンピュータの構成を更新する必要があります。)"
+    },
+    {
+      "id": 71,
+      "value": "disassemble",
+      "options": [
+        "組み立てる",
+        "分解する",
+        "修理する",
+        "保管する"
+      ],
+      "correctAnswer": "分解する",
+      "explanation": "「disassemble」は、分解する、解体するという意味です。機械や装置を部品に分解する際に使われます。\n例：The mechanic disassembled the engine to find the problem. (整備士は問題を特定するためにエンジンを分解した。)"
+    },
+    {
+      "id": 72,
+      "value": "authorized personnel only",
+      "options": [
+        "関係者以外立ち入り禁止",
+        "誰でも歓迎",
+        "従業員のみ",
+        "許可された車両のみ"
+      ],
+      "correctAnswer": "関係者以外立ち入り禁止",
+      "explanation": "「authorized personnel only」は、許可された人だけが入れるという意味の標識でよく使われる表現です。セキュリティが重要な場所で、無許可の侵入を防ぐために表示されます。\n例：The sign read, \"Authorized personnel only.\" (標識には「関係者以外立ち入り禁止」と書かれていた。)"
+    },
+    {
+      "id": 73,
+      "value": "statistically",
+      "options": [
+        "感情的に",
+        "統計的に",
+        "直感的に",
+        "個人的に"
+      ],
+      "correctAnswer": "統計的に",
+      "explanation": "「statistically」は、統計的に、統計学的に見てという意味です。データに基づいて確率や傾向を説明する際に使われます。\n例：Statistically, men live shorter lives than women. (統計的に見て、男性は女性よりも寿命が短い。)"
+    },
+    {
+      "id": 74,
+      "value": "durable",
+      "options": [
+        "壊れやすい",
+        "耐久性のある",
+        "美しい",
+        "高価な"
+      ],
+      "correctAnswer": "耐久性のある",
+      "explanation": "「durable」は、耐久性のある、丈夫なという意味です。長期間使用できる品質を表します。\n例：These shoes are very durable. (これらの靴はとても丈夫だ。)"
+    },
+    {
+      "id": 75,
+      "value": "obligations",
+      "options": [
+        "自由",
+        "義務",
+        "選択",
+        "権利"
+      ],
+      "correctAnswer": "義務",
+      "explanation": "「obligations」は、義務、責任という意味です。法律や契約、道徳などによって課せられた行為や責任を指します。\n例：We all have obligations to our community. (私たちには皆、地域社会に対する義務がある。)"
+    },
+    {
+      "id": 76,
+      "value": "override",
+      "options": [
+        "優先する",
+        "無視する",
+        "元に戻す",
+        "隠蔽する"
+      ],
+      "correctAnswer": "優先する",
+      "explanation": "「override」は、他のものよりも優先される、または覆すという意味です。ここでは、Sheldon-botが持っている「優先スイッチ」のことを指しています。通常、権限や制御を上書きする状況で使われます。例：The system has an override function to allow manual control. (そのシステムには、手動制御を可能にするオーバーライド機能があります。)"
+    },
+    {
+      "id": 77,
+      "value": "safe and sound",
+      "options": [
+        "安全で安心",
+        "静かで穏やか",
+        "健全で健康",
+        "迅速かつ正確"
+      ],
+      "correctAnswer": "安全で安心",
+      "explanation": "「safe and sound」は、危険な状況や困難な状況から無事に帰還した、または問題なく存在しているという意味を表すイディオムです。ここでは、Sheldon-botがベッドで無事であることを強調するために使われています。例：After the storm, we were relieved to find our family safe and sound. (嵐の後、家族が無事だったことを知って安心しました。)"
+    },
+    {
+      "id": 78,
+      "value": "go with",
+      "options": [
+        "賛成する",
+        "反対する",
+        "妥協する",
+        "無視する"
+      ],
+      "correctAnswer": "賛成する",
+      "explanation": "「go with」は、提案や意見に賛成する、または選択肢を選ぶという意味です。ここでは、LeonardがSheldonの意見にまだ賛成することを意味しています。例：I think we should go with the blue design. (青いデザインを選ぶべきだと思います。)"
+    },
+    {
+      "id": 79,
+      "value": "stymied",
+      "options": [
+        "促進された",
+        "妨げられた",
+        "無視された",
+        "評価された"
+      ],
+      "correctAnswer": "妨げられた",
+      "explanation": "「stymie」は、計画や行動を妨げる、阻止するという意味です。特に、障害物によって進展が止まる状況を表します。例：The budget cuts stymied their research efforts. (予算削減が彼らの研究努力を妨げました。)"
+    },
+    {
+      "id": 80,
+      "value": "be a lamb",
+      "options": [
+        "親切にする",
+        "わがままにする",
+        "頑固にする",
+        "勇敢にする"
+      ],
+      "correctAnswer": "親切にする",
+      "explanation": "「be a lamb」は、人に親切にする、または頼みを聞いてあげるという意味です。ここでは、相手に何かを頼む際に、丁寧な言い方として使われています。例：Be a lamb and pass me the salt. (親切に塩を取ってくれませんか？)"
+    },
+    {
+      "id": 81,
+      "value": "camaraderie",
+      "options": [
+        "敵意",
+        "友情",
+        "孤独",
+        "無関心"
+      ],
+      "correctAnswer": "友情",
+      "explanation": "「camaraderie」は、仲間意識、友情、連帯感という意味です。特に、共通の目標や経験を持つ人々の間で生まれる親密な関係を指します。例：The camaraderie among the team members was evident. (チームメンバー間の仲間意識は明らかでした。)"
+    },
+    {
+      "id": 82,
+      "value": "tolerate",
+      "options": [
+        "許容する",
+        "拒否する",
+        "促進する",
+        "無視する"
+      ],
+      "correctAnswer": "許容する",
+      "explanation": "「tolerate」は、不快なことや好ましくないことを我慢する、許容するという意味です。ここでは、Sheldonが他人の呼吸を我慢する必要がないことを述べています。例：I can't tolerate his rudeness any longer. (彼の無礼さにはもう我慢できません。)"
+    },
+    {
+      "id": 83,
+      "value": "whatsoever",
+      "options": [
+        "全く～ない",
+        "一部の",
+        "いくつかの",
+        "全ての"
+      ],
+      "correctAnswer": "全く～ない",
+      "explanation": "「whatsoever」は、強調のために使われ、「全く～ない」という意味を表します。ここでは、Pennyが自分とLeonardたちの間に以前の関係がないことを強調しています。例：I have no idea whatsoever what you're talking about. (あなたが何を言っているのか全く分かりません。)"
+    },
+    {
+      "id": 84,
+      "value": "discrimination",
+      "options": [
+        "差別",
+        "平等",
+        "公平",
+        "区別"
+      ],
+      "correctAnswer": "差別",
+      "explanation": "「discrimination」は、特定のグループや個人を不当に扱うこと、差別という意味です。ここでは、Sheldon-botが「otherwise located（他の場所にいる）」ことに対する差別を主張しています。例：Racial discrimination is illegal. (人種差別は違法です。)"
+    },
+    {
+      "id": 85,
+      "value": "go over one's head",
+      "options": [
+        "頭上を通過する",
+        "責任者に訴える",
+        "理解できない",
+        "無視する"
+      ],
+      "correctAnswer": "責任者に訴える",
+      "explanation": "「go over someone's head」は、権限のある人に直接訴える、または上司に相談するという意味です。ここでは、Sheldon-botがPennyの上司に訴えようとしています。例：I'm going to have to go over your head and talk to your manager. (私はあなたの上司に相談しなければなりません。)"
+    },
+    {
+      "id": 86,
+      "value": "showmanship",
+      "options": [
+        "職人技",
+        "演出力",
+        "誠実さ",
+        "勤勉さ"
+      ],
+      "correctAnswer": "演出力",
+      "explanation": "「showmanship」は、聴衆を魅了する才能、演出力、または人目を引く方法という意味です。SheldonはSteve Jobsの演出力を良く思っていないと述べています。例：The singer's showmanship made the concert unforgettable. (その歌手の演出力はコンサートを忘れられないものにしました。)"
+    },
+    {
+      "id": 87,
+      "value": "nifty",
+      "options": [
+        "退屈な",
+        "素晴らしい",
+        "平凡な",
+        "粗末な"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「nifty」は、素晴らしい、巧妙な、または便利なという意味です。ここでは、Steve WozniakがApple IIを「nifty little achievement（素晴らしい小さな業績）」と表現しています。例：That's a nifty gadget you've got there. (それは素晴らしい道具ですね。)"
+    },
+    {
+      "id": 88,
+      "value": "autograph",
+      "options": [
+        "コピーする",
+        "署名する",
+        "印刷する",
+        "修正する"
+      ],
+      "correctAnswer": "署名する",
+      "explanation": "「autograph」は、有名人などがサインすること、またはサインそのものを意味します。Steve WozniakがApple IIにサインすると申し出ています。例：Can I have your autograph? (サインをいただけますか？)"
+    },
+    {
+      "id": 89,
+      "value": "depending on",
+      "options": [
+        "～に依存して",
+        "～に関係なく",
+        "～を除いて",
+        "～を含めて"
+      ],
+      "correctAnswer": "～に依存して",
+      "explanation": "「depending on」は、何かに依存して、または何かに左右されてという意味です。ここでは、バスの運行状況によって時間が変わることを示しています。例：The trip will take two days, depending on the weather. (旅行は天候によって2日かかるでしょう。)"
+    },
+    {
+      "id": 90,
+      "value": "bash into",
+      "options": [
+        "修理する",
+        "衝突する",
+        "避ける",
+        "無視する"
+      ],
+      "correctAnswer": "衝突する",
+      "explanation": "「bash into」は、激しくぶつかる、衝突するという意味です。ここでは、Sheldon-botがPennyのドアにぶつかっている様子を表しています。例：He accidentally bashed into the wall. (彼は誤って壁にぶつかりました。)"
+    },
+    {
+      "id": 91,
+      "value": "What up?",
+      "options": [
+        "どうしたの？",
+        "何もないよ",
+        "元気ですか？",
+        "さようなら"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What up?」は、スラングで「どうしたの？」または「元気ですか？」という意味の挨拶です。ここでは、PennyがSheldon-botにカジュアルに話しかけています。例：A: What up, man? B: Not much, just chillin'. (A: よお、調子どう？ B: まあ、のんびりしてるよ。)"
+    },
+    {
+      "id": 92,
+      "value": "in person",
+      "options": [
+        "個人的に",
+        "電話で",
+        "手紙で",
+        "インターネットで"
+      ],
+      "correctAnswer": "個人的に",
+      "explanation": "「in person」は、直接会って、または自分自身でという意味です。ここでは、Pennyが直接会って歌うよりもモニター越しに歌う方が良いかSheldon-botに尋ねています。例：I would prefer to discuss this in person. (この件については直接話したいです。)"
+    },
+    {
+      "id": 93,
+      "value": "germy",
+      "options": [
+        "清潔な",
+        "病的な",
+        "不潔な",
+        "健康的な"
+      ],
+      "correctAnswer": "不潔な",
+      "explanation": "「germy」は、細菌が多い、不潔なという意味です。Sheldonが他人の呼吸を「germy breath」と表現することで、潔癖症な性格を表しています。 例：Wash your hands, they're germy. (手を洗いなさい、汚いですよ。)"
+    }
+  ]
+}

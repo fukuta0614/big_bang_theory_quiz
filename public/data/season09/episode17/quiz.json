@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "touchy subject",
+      "options": [
+        "簡単な話題",
+        "微妙な話題",
+        "面白い話題",
+        "退屈な話題"
+      ],
+      "correctAnswer": "微妙な話題",
+      "explanation": "「touchy subject」は、議論したり触れたりすると不快感や怒りを引き起こす可能性のある、デリケートな話題を指します。議論を避けるべき事柄について言及する際に使用されます。例：Politics can be a touchy subject at family gatherings. (家族の集まりでは、政治は触れにくい話題になりがちだ。)"
+    },
+    {
+      "id": 2,
+      "value": "narrow it down",
+      "options": [
+        "広げる",
+        "具体的にする",
+        "無視する",
+        "繰り返す"
+      ],
+      "correctAnswer": "具体的にする",
+      "explanation": "「narrow down」は、範囲や選択肢を狭める、絞り込むという意味です。多くの可能性の中から、より具体的なものを選び出す際に使われます。例：Let's narrow down our choices to these three options. (選択肢をこの3つに絞りましょう。)"
+    },
+    {
+      "id": 3,
+      "value": "vanishes",
+      "options": [
+        "現れる",
+        "消える",
+        "成長する",
+        "変わる"
+      ],
+      "correctAnswer": "消える",
+      "explanation": "「vanish」は、突然、または不可解な方法で姿を消す、見えなくなるという意味です。物理的な消失だけでなく、比喩的に消滅する場合にも使われます。例：The magician made the rabbit vanish into thin air. (マジシャンはウサギを跡形もなく消した。)"
+    },
+    {
+      "id": 4,
+      "value": "drop this subject",
+      "options": [
+        "続ける",
+        "始める",
+        "終わらせる",
+        "変える"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「drop this subject」は、話題を変える、その話題について話すのをやめるという意味です。不快な話題や、進展のない議論を終わらせたい時に使われます。例：I think we should drop this subject before it turns into an argument. (議論になる前に、この話題はやめるべきだと思います。)"
+    },
+    {
+      "id": 5,
+      "value": "porcelain skin",
+      "options": [
+        "汚れた肌",
+        "日焼けした肌",
+        "陶器のような肌",
+        "荒れた肌"
+      ],
+      "correctAnswer": "陶器のような肌",
+      "explanation": "「porcelain skin」は、非常にきめ細かく、滑らかで、透明感のある肌を指す表現です。陶器のような完璧な肌を褒める際に使われます。例：She was admired for her flawless porcelain skin. (彼女はその完璧な陶器のような肌で賞賛された。)"
+    },
+    {
+      "id": 6,
+      "value": "return the favour",
+      "options": [
+        "無視する",
+        "仕返しをする",
+        "恩返しをする",
+        "要求する"
+      ],
+      "correctAnswer": "恩返しをする",
+      "explanation": "「return the favor」は、受けた親切や好意に対して、同様の行為で報いるという意味です。借りを作った場合に、それを返すというニュアンスが含まれます。例：She helped me move last month, so I wanted to return the favor. (彼女は先月私の引っ越しを手伝ってくれたので、恩返しをしたかった。)"
+    },
+    {
+      "id": 7,
+      "value": "owe me big-time",
+      "options": [
+        "感謝する",
+        "大いに借りがある",
+        "尊敬する",
+        "忘れる"
+      ],
+      "correctAnswer": "大いに借りがある",
+      "explanation": "「owe me big-time」は、相手に大きな借りがある、多大な恩義を受けているという意味です。文字通りのお金の貸し借りに限らず、行為や親切に対しても使われます。例：After helping me with this project, you owe me big-time! (このプロジェクトを手伝ってくれた後、君は大いに私に借りがあるぞ！)"
+    },
+    {
+      "id": 8,
+      "value": "fascinated with",
+      "options": [
+        "嫌悪感を抱く",
+        "興味がない",
+        "魅了されている",
+        "無視している"
+      ],
+      "correctAnswer": "魅了されている",
+      "explanation": "「fascinated with」は、何かに強い興味を持ち、魅了されている状態を表します。その対象に心を奪われ、深く探求したいという気持ちが含まれます。例：She has always been fascinated with ancient history. (彼女はいつも古代史に魅了されている。)"
+    },
+    {
+      "id": 9,
+      "value": "chunk of time",
+      "options": [
+        "短い時間",
+        "永遠の時間",
+        "まとまった時間",
+        "無駄な時間"
+      ],
+      "correctAnswer": "まとまった時間",
+      "explanation": "「chunk of time」は、まとまった時間、期間を意味します。必ずしも長い時間である必要はなく、ある程度のまとまりがある時間を指します。例：I need a chunk of time to finish this project. (このプロジェクトを終えるには、まとまった時間が必要です。)"
+    },
+    {
+      "id": 10,
+      "value": "show up",
+      "options": [
+        "現れる",
+        "隠れる",
+        "逃げる",
+        "失敗する"
+      ],
+      "correctAnswer": "現れる",
+      "explanation": "「show up」は、現れる、出席するという意味です。予定されていた場所やイベントに人が来ることを指します。例：I hope he will show up at the party. (彼がパーティーに現れることを願っています。)"
+    },
+    {
+      "id": 11,
+      "value": "lame suit",
+      "options": [
+        "派手なスーツ",
+        "普通のスーツ",
+        "時代遅れのスーツ",
+        "ださいスーツ"
+      ],
+      "correctAnswer": "ださいスーツ",
+      "explanation": "「lame suit」は、時代遅れで、かっこ悪い、またはつまらないスーツを指します。魅力的でない、または印象的でないものを表す際に使われます。例：The actor wore a lame suit to the audition, which didn't impress the casting director. (俳優はオーディションにださいスーツを着ていったが、キャスティングディレクターの印象には残らなかった。)"
+    },
+    {
+      "id": 12,
+      "value": "scheduling conflict",
+      "options": [
+        "予定の変更",
+        "予定の追加",
+        "予定の重複",
+        "予定の確認"
+      ],
+      "correctAnswer": "予定の重複",
+      "explanation": "「scheduling conflict」は、予定が重複している、または矛盾している状態を指します。二つのイベントや約束が同じ時間に重なってしまい、どちらかを選択する必要がある状況を表します。例：I have a scheduling conflict and can't attend both meetings. (予定が重複しているため、両方の会議に出席できません。)"
+    },
+    {
+      "id": 13,
+      "value": "diva",
+      "options": [
+        "謙虚な人",
+        "要求の多い人",
+        "親切な人",
+        "才能のない人"
+      ],
+      "correctAnswer": "要求の多い人",
+      "explanation": "「diva」は、特にオペラ歌手に対して使われる言葉ですが、一般的には、非常に才能があるが、同時に非常にわがままで気難しい人を指します。過剰な要求や注目を求める傾向がある人を指すことがあります。例：He's a brilliant actor, but also a bit of a diva. (彼は素晴らしい俳優だが、少しばかり気難しいところがある。)"
+    },
+    {
+      "id": 14,
+      "value": "pack his own lunch",
+      "options": [
+        "昼食を食べる",
+        "昼食を準備する",
+        "昼食を忘れる",
+        "昼食を共有する"
+      ],
+      "correctAnswer": "昼食を準備する",
+      "explanation": "「pack his own lunch」は、自分で昼食を準備して持参するという意味です。誰かに依存せず、自立して行動することの例として使われます。例：Even though he's wealthy, he still packs his own lunch every day. (彼は裕福だが、毎日自分で昼食を準備している。)"
+    },
+    {
+      "id": 15,
+      "value": "spend the night on his couch",
+      "options": [
+        "ソファで昼寝をする",
+        "ソファで夜を明かす",
+        "ソファを売る",
+        "ソファを修理する"
+      ],
+      "correctAnswer": "ソファで夜を明かす",
+      "explanation": "「spend the night on his couch」は、誰かの家のソファで一晩寝る、または泊まるという意味です。一時的な宿泊場所としてソファを利用する状況を表します。例：I missed the last train, so I had to spend the night on my friend's couch. (終電を逃したので、友達の家のソファで一晩過ごさなければならなかった。)"
+    },
+    {
+      "id": 16,
+      "value": "bring it up",
+      "options": [
+        "忘れる",
+        "思い出す",
+        "話題に出す",
+        "隠す"
+      ],
+      "correctAnswer": "話題に出す",
+      "explanation": "「bring it up」は、話題を持ち出す、言及するという意味です。会話の中で何か新しい話題を導入する際に使われます。例：I didn't want to bring it up, but I think we need to discuss the budget. (話題にしたくなかったのですが、予算について話し合う必要があると思います。)"
+    },
+    {
+      "id": 17,
+      "value": "inevitably",
+      "options": [
+        "予想外に",
+        "偶然に",
+        "必然的に",
+        "幸運にも"
+      ],
+      "correctAnswer": "必然的に",
+      "explanation": "「inevitably」は、避けられない、必ず起こるという意味です。結果が確定している、または予測できる状況を表します。例：If you don't study, you will inevitably fail the exam. (勉強しなければ、必然的に試験に落ちます。)"
+    },
+    {
+      "id": 18,
+      "value": "plenty of friends",
+      "options": [
+        "友達がいない",
+        "数少ない友達",
+        "たくさんの友達",
+        "想像上の友達"
+      ],
+      "correctAnswer": "たくさんの友達",
+      "explanation": "「plenty of friends」は、たくさんの友達がいる、多くの友人を持っているという意味です。十分な数以上の友達がいることを強調する際に使われます。例：Now that you're more outgoing, you have plenty of friends. (もっと社交的になったので、たくさんの友達がいますね。)"
+    },
+    {
+      "id": 19,
+      "value": "Jurassic",
+      "options": [
+        "現代の",
+        "中世の",
+        "ジュラ紀の",
+        "白亜紀の"
+      ],
+      "correctAnswer": "ジュラ紀の",
+      "explanation": "「Jurassic」は、ジュラ紀の、またはジュラ紀に関するという意味です。地質時代の一つであり、恐竜が繁栄した時代として知られています。例：The Jurassic period is famous for its large dinosaurs. (ジュラ紀はその巨大な恐竜で有名です。)"
+    },
+    {
+      "id": 20,
+      "value": "Closest thing",
+      "options": [
+        "最も遠いもの",
+        "最も近いもの",
+        "同じもの",
+        "全く違うもの"
+      ],
+      "correctAnswer": "最も近いもの",
+      "explanation": "「Closest thing」は、最も近いもの、または最も似ているものを意味します。完全に同じではないものの、最も類似しているものを指す際に使用されます。例：This is the closest thing to real Italian pizza I've found in this town. (これがこの町で見つけた最も本場のイタリアンピザに近いものです。)"
+    },
+    {
+      "id": 21,
+      "value": "You realize",
+      "options": [
+        "実現する",
+        "忘れる",
+        "後悔する",
+        "理解する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「You realize」は、理解している、気づいているという意味です。相手が何かに気づいているか確認する際に使われます。例：You realize that this is a very important decision, right? (これが非常に重要な決定だと理解していますよね？)"
+    },
+    {
+      "id": 22,
+      "value": "throwing a party",
+      "options": [
+        "パーティーを計画する",
+        "パーティーに参加する",
+        "パーティーを中止する",
+        "パーティーを開く"
+      ],
+      "correctAnswer": "パーティーを開く",
+      "explanation": "「throwing a party」は、パーティーを開く、主催するという意味です。イベントを企画し、開催することを指します。例：She is throwing a party for her birthday. (彼女は自分の誕生日のためにパーティーを開きます。)"
+    },
+    {
+      "id": 23,
+      "value": "go Hollywood",
+      "options": [
+        "ハリウッドに行く",
+        "地味になる",
+        "大げさになる",
+        "真実を語る"
+      ],
+      "correctAnswer": "大げさになる",
+      "explanation": "「go Hollywood」は、誇張される、または過剰にドラマチックになるという意味です。特に映画やエンターテイメント業界に関連して、現実よりも大げさに表現される状況を指します。例：The movie went Hollywood with its unrealistic special effects. (その映画は非現実的な特殊効果で大げさになった。)"
+    },
+    {
+      "id": 24,
+      "value": "Adam West",
+      "options": [
+        "有名な科学者",
+        "架空の人物",
+        "政治家",
+        "俳優"
+      ],
+      "correctAnswer": "俳優",
+      "explanation": "「Adam West」は、アメリカ合衆国の俳優で、1960年代のテレビシリーズ『バットマン』でバットマン役を演じたことで最もよく知られています。例：Adam West is best known for his role as Batman in the 1960s TV series. (アダム・ウェストは、1960年代のテレビシリーズ『バットマン』でのバットマン役で最もよく知られています。)"
+    },
+    {
+      "id": 25,
+      "value": "kind of",
+      "options": [
+        "完全に",
+        "全くない",
+        "少し",
+        "非常に"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「kind of」は、「少し」や「いくぶん」という意味で使われます。正確な表現を避けたいときや、自信がないときに使われる口語的な表現です。例：I'm kind of tired. (少し疲れています。)"
+    },
+    {
+      "id": 26,
+      "value": "jump off the roof",
+      "options": [
+        "屋根から飛び降りる",
+        "屋根を修理する",
+        "屋根裏に隠れる",
+        "屋根の上で運動する"
+      ],
+      "correctAnswer": "屋根から飛び降りる",
+      "explanation": "文字通りには「屋根から飛び降りる」という意味ですが、ここでは「〜するくらいなら〜する」という比喩的な表現として使われています。何かを極端に嫌がる気持ちを表します。"
+    },
+    {
+      "id": 27,
+      "value": "marching bands",
+      "options": [
+        "行進バンド",
+        "結婚式バンド",
+        "ロックバンド",
+        "ジャズバンド"
+      ],
+      "correctAnswer": "行進バンド",
+      "explanation": "「marching band」は、行進しながら演奏する楽隊のことです。スポーツイベントやパレードなどで演奏することが多いです。"
+    },
+    {
+      "id": 28,
+      "value": "Tibetan throat singing",
+      "options": [
+        "チベットの喉歌",
+        "インドの民族音楽",
+        "モンゴルのホーミー",
+        "日本の民謡"
+      ],
+      "correctAnswer": "チベットの喉歌",
+      "explanation": "「Tibetan throat singing」は、チベット仏教の僧侶が行う特殊な歌唱法で、複数の音を同時に出すことができます。神秘的で独特な響きが特徴です。"
+    },
+    {
+      "id": 29,
+      "value": "beat out",
+      "options": [
+        "打ち負かす",
+        "応援する",
+        "見つける",
+        "隠す"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "「beat out」は、競争相手を打ち負かす、競争に勝つという意味です。スポーツやビジネスなど、様々な場面で使われます。"
+    },
+    {
+      "id": 30,
+      "value": "some",
+      "options": [
+        "いくつか",
+        "たくさん",
+        "少し",
+        "全くない"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「some」はここでは「(特定のものが)少しは好き」という意味合いになります。完全に肯定するよりは控えめなニュアンスです。"
+    },
+    {
+      "id": 31,
+      "value": "on the clock",
+      "options": [
+        "勤務時間中",
+        "休憩時間中",
+        "時間通りに",
+        "残業中"
+      ],
+      "correctAnswer": "勤務時間中",
+      "explanation": "「on the clock」は、仕事中、勤務時間中という意味です。時間が限られている状況で、効率的に行動する必要があることを示唆します。"
+    },
+    {
+      "id": 32,
+      "value": "pity party",
+      "options": [
+        "同情の集い",
+        "誕生日パーティー",
+        "サプライズパーティー",
+        "送別会"
+      ],
+      "correctAnswer": "同情の集い",
+      "explanation": "「pity party」は、自分の不幸を嘆き、同情を求めることを意味します。ネガティブな感情に浸る状況を指します。"
+    },
+    {
+      "id": 33,
+      "value": "overrated",
+      "options": [
+        "過大評価されている",
+        "過小評価されている",
+        "無視されている",
+        "尊敬されている"
+      ],
+      "correctAnswer": "過大評価されている",
+      "explanation": "「overrated」は、実際よりも高く評価されているという意味です。人気や評判が実力に見合わない場合に用いられます。"
+    },
+    {
+      "id": 34,
+      "value": "factor in",
+      "options": [
+        "考慮に入れる",
+        "無視する",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "考慮に入れる",
+      "explanation": "「factor in」は、何かを判断する際に考慮に入れる、考慮するという意味です。計算や計画を立てる際に用いられることが多いです。"
+    },
+    {
+      "id": 35,
+      "value": "pretty boy",
+      "options": [
+        "美男子",
+        "ハンサムな少年",
+        "普通の男の子",
+        "怖い男"
+      ],
+      "correctAnswer": "美男子",
+      "explanation": "「pretty boy」は、容姿が整った男性、美男子を指す言葉ですが、軽蔑的なニュアンスを含むことがあります。外見ばかりを気にする男性に対して使われることがあります。"
+    },
+    {
+      "id": 36,
+      "value": "personified",
+      "options": [
+        "体現した",
+        "無視した",
+        "批判した",
+        "軽蔑した"
+      ],
+      "correctAnswer": "体現した",
+      "explanation": "「personify」は、抽象的な概念や性質を具体的な形で表す、体現するという意味です。ここでは、バットマンというキャラクターを完璧に演じたことを意味します。"
+    },
+    {
+      "id": 37,
+      "value": "I'm Batman",
+      "options": [
+        "私がバットマンだ",
+        "私はロビンだ",
+        "私はジョーカーだ",
+        "私はペンギンだ"
+      ],
+      "correctAnswer": "私がバットマンだ",
+      "explanation": "バットマンの決め台詞です。自分がバットマンであることを宣言する際に使われます。"
+    },
+    {
+      "id": 38,
+      "value": "I'm sold",
+      "options": [
+        "納得した",
+        "反対だ",
+        "興味がない",
+        "理解できない"
+      ],
+      "correctAnswer": "納得した",
+      "explanation": "「I'm sold」は、提案や意見に納得した、同意するという意味です。説得力のある説明を聞いた後に使われることが多いです。"
+    },
+    {
+      "id": 39,
+      "value": "grade-A",
+      "options": [
+        "最高品質の",
+        "最低品質の",
+        "平均的な",
+        "品質不明の"
+      ],
+      "correctAnswer": "最高品質の",
+      "explanation": "「grade-A」は、最高品質の、一流のという意味です。食品や製品の品質を表す際に用いられます。"
+    },
+    {
+      "id": 40,
+      "value": "tear 'em a new one",
+      "options": [
+        "厳しく批判する",
+        "褒めちぎる",
+        "無視する",
+        "慰める"
+      ],
+      "correctAnswer": "厳しく批判する",
+      "explanation": "「tear someone a new one」は、人を厳しく叱責する、批判するという意味です。口語的な表現で、強い非難の意を表します。"
+    },
+    {
+      "id": 41,
+      "value": "birthday suit",
+      "options": [
+        "生まれたままの姿",
+        "正装",
+        "普段着",
+        "寝間着"
+      ],
+      "correctAnswer": "生まれたままの姿",
+      "explanation": "「birthday suit」は、生まれたままの姿、裸という意味の婉曲表現です。ユーモラスな文脈で使われることが多いです。"
+    },
+    {
+      "id": 42,
+      "value": "stroke",
+      "options": [
+        "脳卒中",
+        "運動",
+        "幸運",
+        "冗談"
+      ],
+      "correctAnswer": "脳卒中",
+      "explanation": "「stroke」は、医学用語で脳卒中を意味します。ここでは、冗談めかして「おかしくなったのか？」というニュアンスで使われています。"
+    },
+    {
+      "id": 43,
+      "value": "to be fair",
+      "options": [
+        "公平に言って",
+        "不公平に言って",
+        "正直に言って",
+        "嘘をついて"
+      ],
+      "correctAnswer": "公平に言って",
+      "explanation": "「to be fair」は、公平に言って、公平に考えるとという意味です。異なる意見や状況を考慮する際に用いられます。"
+    },
+    {
+      "id": 44,
+      "value": "go crazy",
+      "options": [
+        "狂う",
+        "喜ぶ",
+        "悲しむ",
+        "眠る"
+      ],
+      "correctAnswer": "狂う",
+      "explanation": "「go crazy」は、狂う、興奮するという意味です。ここでは、犬が吠えまくることを指しています。"
+    },
+    {
+      "id": 45,
+      "value": "hate yourself",
+      "options": [
+        "自己嫌悪",
+        "自己愛",
+        "自己犠牲",
+        "自己中心的"
+      ],
+      "correctAnswer": "自己嫌悪",
+      "explanation": "「hate yourself」は、自分自身を嫌う、自己嫌悪に陥るという意味です。ここでは、自虐的なユーモアとして使われています。"
+    },
+    {
+      "id": 46,
+      "value": "mommy-to-be",
+      "options": [
+        "未来のママ",
+        "未来のパパ",
+        "子供",
+        "おばあちゃん"
+      ],
+      "correctAnswer": "未来のママ",
+      "explanation": "「mommy-to-be」は、妊娠中の女性、未来のママという意味です。親しみを込めた表現です。"
+    },
+    {
+      "id": 47,
+      "value": "ahead of",
+      "options": [
+        "～より先に",
+        "～より後ろに",
+        "～の隣に",
+        "～の真下に"
+      ],
+      "correctAnswer": "～より先に",
+      "explanation": "「ahead of」は、～より先に、～より上位にという意味です。ランキングや順位について話す際に使われます。"
+    },
+    {
+      "id": 48,
+      "value": "all this way",
+      "options": [
+        "はるばる",
+        "近道を",
+        "回り道をして",
+        "迷いながら"
+      ],
+      "correctAnswer": "はるばる",
+      "explanation": "「all this way」は、はるばる、遠い道のりを経てという意味です。遠方から来た人を歓迎する際に使われます。"
+    },
+    {
+      "id": 49,
+      "value": "close friends",
+      "options": [
+        "親しい友人",
+        "ただの知り合い",
+        "敵",
+        "家族"
+      ],
+      "correctAnswer": "親しい友人",
+      "explanation": "「close friends」は、親しい友人、親友という意味です。信頼できる大切な友人関係を指します。"
+    },
+    {
+      "id": 50,
+      "value": "to be invited",
+      "options": [
+        "招待されること",
+        "招待すること",
+        "拒否すること",
+        "無視すること"
+      ],
+      "correctAnswer": "招待されること",
+      "explanation": "「to be invited」は、招待されること、招待される立場であることという意味です。ここでは、グループの一員として認められたいという願望を表しています。"
+    },
+    {
+      "id": 51,
+      "value": "light-headed",
+      "options": [
+        "頭が良い",
+        "頭が痛い",
+        "頭がぼーっとする",
+        "頭が重い"
+      ],
+      "correctAnswer": "頭がぼーっとする",
+      "explanation": "「light-headed」は、めまいがする、頭がぼーっとする、ふらふらするといった意味合いで使用されます。一時的な体調不良や、興奮状態などを表す際に使われます。\n\n例：She felt light-headed after donating blood. (彼女は献血後、少しふらふらした。)"
+    },
+    {
+      "id": 52,
+      "value": "put this together",
+      "options": [
+        "片付ける",
+        "組み立てる",
+        "壊す",
+        "計画する"
+      ],
+      "correctAnswer": "計画する",
+      "explanation": "「put together」は、何かを組み立てる、まとめる、組織するという意味です。計画やイベントなどを準備する際にも使われます。\n\n例：She put together a fantastic presentation. (彼女は素晴らしいプレゼンテーションを準備した。)"
+    },
+    {
+      "id": 53,
+      "value": "ruining it",
+      "options": [
+        "直す",
+        "楽しむ",
+        "台無しにする",
+        "始める"
+      ],
+      "correctAnswer": "台無しにする",
+      "explanation": "「ruin」は、何かをダメにする、台無しにするという意味です。計画やイベント、関係などを破壊する際に使われます。\n\n例：The rain ruined our picnic. (雨でピクニックが台無しになった。)"
+    },
+    {
+      "id": 54,
+      "value": "pep talk",
+      "options": [
+        "内緒の話",
+        "激励の言葉",
+        "悪口",
+        "自慢話"
+      ],
+      "correctAnswer": "激励の言葉",
+      "explanation": "「pep talk」は、人を励ますための短いスピーチや言葉のことです。勇気づけたり、自信を持たせたりする目的で使用されます。\n\n例：The coach gave the team a pep talk before the game. (監督は試合前にチームを励ますためのスピーチをした。)"
+    },
+    {
+      "id": 55,
+      "value": "a shot with",
+      "options": [
+        "一緒に遊ぶこと",
+        "成功する見込み",
+        "写真を撮ること",
+        "食事をすること"
+      ],
+      "correctAnswer": "成功する見込み",
+      "explanation": "「have a shot with someone」は、誰かと恋愛関係になる可能性がある、または試みるという意味です。成功の見込みがあるかどうかを指す際に使われます。\n\n例：He thought he had a shot with her, but she wasn't interested. (彼は彼女と上手くいく可能性があると思ったが、彼女は興味がなかった。)"
+    },
+    {
+      "id": 56,
+      "value": "Don't be a stranger",
+      "options": [
+        "他人にならないで",
+        "知らない人だ",
+        "遠慮しないで",
+        "また連絡して"
+      ],
+      "correctAnswer": "また連絡して",
+      "explanation": "「Don't be a stranger」は、別れ際に「また連絡してね」「いつでも遊びに来てね」という意味で使われる挨拶の言葉です。親しい間柄の人に対して使われます。\n\n例：It was great seeing you! Don't be a stranger! (会えてよかったね！また連絡してね！)"
+    },
+    {
+      "id": 57,
+      "value": "put a damper on",
+      "options": [
+        "促進する",
+        "強化する",
+        "水をかける",
+        "勢いをそぐ"
+      ],
+      "correctAnswer": "勢いをそぐ",
+      "explanation": "「put a damper on something」は、何かの勢いをそぐ、興ざめさせるという意味です。イベントや雰囲気などを悪くする際に使われます。\n\n例：The bad news put a damper on the party. (悪い知らせでパーティーが興ざめした。)"
+    },
+    {
+      "id": 58,
+      "value": "get out of hand",
+      "options": [
+        "解決する",
+        "手の届くところにある",
+        "制御不能になる",
+        "助けを借りる"
+      ],
+      "correctAnswer": "制御不能になる",
+      "explanation": "「get out of hand」は、手に負えなくなる、制御不能になるという意味です。状況や行動がエスカレートし、管理できなくなる状態を指します。\n\n例：The party got out of hand and the police were called. (パーティーが手に負えなくなり、警察が呼ばれた。)"
+    },
+    {
+      "id": 59,
+      "value": "for some reason",
+      "options": [
+        "どのような理由でも",
+        "いくつかの理由で",
+        "理由はない",
+        "理由はわからないが"
+      ],
+      "correctAnswer": "理由はわからないが",
+      "explanation": "「for some reason」は、「理由はわからないけど」「なぜか」という意味を表すフレーズです。具体的な理由が不明な場合に使われます。\n\n例：For some reason, I'm not feeling well today. (なぜか今日は体調が良くない。)"
+    },
+    {
+      "id": 60,
+      "value": "thoughtful",
+      "options": [
+        "無頓着な",
+        "軽率な",
+        "思慮深い",
+        "失礼な"
+      ],
+      "correctAnswer": "思慮深い",
+      "explanation": "「thoughtful」は、「思慮深い」「親切な」「配慮のある」という意味を持つ形容詞です。他人のことをよく考え、気遣う態度を表します。\n\n例：It was very thoughtful of you to bring me flowers. (花を持ってきてくれて、本当にありがとう。)"
+    },
+    {
+      "id": 61,
+      "value": "no offense",
+      "options": [
+        "もちろん",
+        "喜んで",
+        "気を悪くしないで",
+        "本当ですか"
+      ],
+      "correctAnswer": "気を悪くしないで",
+      "explanation": "「no offense」は、「気を悪くしないで」という意味で、相手に不快な思いをさせるかもしれないことを言う前に使われる表現です。\n\n例：No offense, but I think you're wrong. (気を悪くしないでほしいんだけど、君は間違っていると思う。)"
+    },
+    {
+      "id": 62,
+      "value": "unsubscribe",
+      "options": [
+        "登録する",
+        "購読する",
+        "解除する",
+        "更新する"
+      ],
+      "correctAnswer": "解除する",
+      "explanation": "「unsubscribe」は、メールマガジンやサービスなどの登録を解除するという意味です。\n\n例：I want to unsubscribe from this newsletter. (このニュースレターの登録を解除したい。)"
+    },
+    {
+      "id": 63,
+      "value": "work hard",
+      "options": [
+        "簡単にこなす",
+        "遊んで暮らす",
+        "頑張る",
+        "あきらめる"
+      ],
+      "correctAnswer": "頑張る",
+      "explanation": "「work hard」は、一生懸命働く、努力するという意味です。目標達成のために積極的に行動することを指します。\n\n例：He worked hard to achieve his goals. (彼は目標を達成するために一生懸命働いた。)"
+    },
+    {
+      "id": 64,
+      "value": "care about",
+      "options": [
+        "無視する",
+        "嫌う",
+        "心配する",
+        "好む"
+      ],
+      "correctAnswer": "心配する",
+      "explanation": "「care about」は、～を気にかける、心配する、大切に思うという意味です。人や物事に対して関心を持つことを表します。\n\n例：She cares about her family very much. (彼女は家族のことをとても大切に思っている。)"
+    },
+    {
+      "id": 65,
+      "value": "It's been a while",
+      "options": [
+        "すぐに終わる",
+        "少しの間だ",
+        "しばらくぶりだ",
+        "いつもそうだ"
+      ],
+      "correctAnswer": "しばらくぶりだ",
+      "explanation": "「It's been a while」は、「しばらくぶりだね」「久しぶりだね」という意味で、しばらく会っていなかった人に再会した時に使う表現です。\n\n例：It's been a while since we last met. (最後に会ってからしばらく経つね。)"
+    },
+    {
+      "id": 66,
+      "value": "saint",
+      "options": [
+        "罪人",
+        "悪魔",
+        "天使",
+        "聖人"
+      ],
+      "correctAnswer": "聖人",
+      "explanation": "「saint」は、聖人という意味です。非常に善良で、道徳的に優れている人を指します。皮肉として使われることもあります。\n\n例：He acts like a saint, but he's not. (彼は聖人のように振る舞うけど、そうじゃない。)"
+    },
+    {
+      "id": 67,
+      "value": "sinner",
+      "options": [
+        "医者",
+        "聖人",
+        "罪人",
+        "初心者"
+      ],
+      "correctAnswer": "罪人",
+      "explanation": "「sinner」は、罪人という意味です。道徳的、宗教的な規範に反する行為をした人を指します。\n\n例：We are all sinners in the eyes of God. (私たちは皆、神の目には罪人だ。)"
+    },
+    {
+      "id": 68,
+      "value": "customary",
+      "options": [
+        "特別な",
+        "珍しい",
+        "習慣的な",
+        "まれな"
+      ],
+      "correctAnswer": "習慣的な",
+      "explanation": "「customary」は、習慣的な、慣習的なという意味です。社会や特定のグループで一般的に行われていることを指します。\n\n例：It is customary to give gifts on birthdays. (誕生日にはプレゼントを贈るのが習慣だ。)"
+    },
+    {
+      "id": 69,
+      "value": "behavior",
+      "options": [
+        "家具",
+        "食べ物",
+        "行動",
+        "考え"
+      ],
+      "correctAnswer": "行動",
+      "explanation": "「behavior」は、行動、態度、振る舞いという意味です。人や動物の特定の状況下での行動様式を指します。\n\n例：His behavior was unacceptable. (彼の行動は容認できなかった。)"
+    },
+    {
+      "id": 70,
+      "value": "propose a toast",
+      "options": [
+        "乾杯の音頭をとる",
+        "秘密を提案する",
+        "冒険に出かける",
+        "冗談を言う"
+      ],
+      "correctAnswer": "乾杯の音頭をとる",
+      "explanation": "「propose a toast」は、乾杯の音頭をとるという意味です。祝辞や感謝の意を述べるために、グラスを上げて乾杯を提案する行為を指します。\n\n例：I'd like to propose a toast to the bride and groom. (新郎新婦に乾杯したいと思います。)"
+    },
+    {
+      "id": 71,
+      "value": "everybody's there",
+      "options": [
+        "誰もいない",
+        "ほとんどいない",
+        "数人いる",
+        "みんないる"
+      ],
+      "correctAnswer": "みんないる",
+      "explanation": "「everybody's there」は、「みんなそこにいる」という意味です。特定の場所に全員が集まっている状況を表します。\n\n例：Everybody's there, let's start the meeting. (みんな揃ったので、会議を始めましょう。)"
+    },
+    {
+      "id": 72,
+      "value": "to torture you",
+      "options": [
+        "あなたを祝福する",
+        "あなたを助ける",
+        "あなたを喜ばせる",
+        "あなたを苦しめる"
+      ],
+      "correctAnswer": "あなたを苦しめる",
+      "explanation": "「torture」は肉体的または精神的に苦痛を与えることを意味します。ここでは、「to torture you」は「あなたを苦しめる」という意味です。\n\n例：My little sister used to torture me with her pranks. (私の妹はいたずらで私を苦しめていた。)"
+    },
+    {
+      "id": 73,
+      "value": "again, no...",
+      "options": [
+        "もう一度",
+        "もう一度言ってください",
+        "またですか",
+        "賛成です"
+      ],
+      "correctAnswer": "またですか",
+      "explanation": "「again, no...」は、すでに不快な状況または不合理な状況が繰り返されることに対する不満または当惑を表しています。ここでは「またですか」という意味です。\n\n例：Again, no, I'm not going to lend you money. (またですか、あなたにお金を貸すつもりはありません。)"
+    },
+    {
+      "id": 74,
+      "value": "I get that",
+      "options": [
+        "私はそれをあげる",
+        "私はそれを手に入れる",
+        "私はそれを理解する",
+        "私はそれを忘れる"
+      ],
+      "correctAnswer": "私はそれを理解する",
+      "explanation": "「I get that」は、誰かが言ったこと、感じたこと、または経験したことを理解していることを意味します。ここでは「私はそれを理解する」という意味です。\n\n例：I get that you're busy, but this is important. (あなたが忙しいのは理解していますが、これは重要なことです。)"
+    },
+    {
+      "id": 75,
+      "value": "Batman",
+      "options": [
+        "普通の男",
+        "有名な歌手",
+        "伝説的なヒーロー",
+        "有能な医者"
+      ],
+      "correctAnswer": "伝説的なヒーロー",
+      "explanation": "「Batman」は、DCコミックスの伝説的なヒーローの名前です。この名前の登場は、パーティーの特別なゲストの存在を示唆しています。この文脈では、シェルダンが非常に喜んでいることを示唆する一種のユーモアを付け加えています。\n\n例：I saw a man dressed up as Batman at the party. (パーティーでバットマンの格好をした男を見ました。)"
+    },
+    {
+      "id": 76,
+      "value": "circle back",
+      "options": [
+        "最初からやり直す",
+        "後戻りする",
+        "再検討する",
+        "完全に無視する"
+      ],
+      "correctAnswer": "再検討する",
+      "explanation": "「circle back」は、議論や作業を一旦中断した後、再びその話題やタスクに戻って検討、議論、または実行することを意味します。ビジネスシーンでよく使われ、後で改めて話し合う、検討し直すというニュアンスを含みます。\n\n例：Let's circle back to this topic after the meeting. (会議の後でこの話題に戻りましょう。)"
+    },
+    {
+      "id": 77,
+      "value": "ups and downs",
+      "options": [
+        "上昇と下降",
+        "良い時と悪い時",
+        "始まりと終わり",
+        "裏と表"
+      ],
+      "correctAnswer": "良い時と悪い時",
+      "explanation": "「ups and downs」は、人生や出来事における良い時期と悪い時期、成功と失敗、浮き沈みを指すイディオムです。喜びと悲しみ、幸運と不運が交互に訪れる状況を表します。\n\n例：Every relationship has its ups and downs. (どんな関係にも良い時も悪い時もあります。)"
+    },
+    {
+      "id": 78,
+      "value": "cougar",
+      "options": [
+        "ピューマ",
+        "若い男性",
+        "年上の女性",
+        "子猫"
+      ],
+      "correctAnswer": "年上の女性",
+      "explanation": "「cougar」は、一般的にはピューマを指しますが、スラングとしては、若い男性を追い求める年上の女性を指します。性的なニュアンスを含み、しばしば否定的な意味合いで使われます。\n\n例：She is known as a cougar because she dates much younger men. (彼女は若い男性とばかり付き合っているので、クーガーとして知られています。)"
+    },
+    {
+      "id": 79,
+      "value": "on the loose",
+      "options": [
+        "解放されて",
+        "制御不能で",
+        "迷子になって",
+        "秘密裏に"
+      ],
+      "correctAnswer": "制御不能で",
+      "explanation": "「on the loose」は、人や動物が拘束を逃れて自由に動き回っている状態を指します。危険な人物や動物が逃走している状況でよく使われます。\n\n例：There is a dangerous dog on the loose in the neighborhood. (近所に危険な犬が逃げ出しています。)"
+    },
+    {
+      "id": 80,
+      "value": "obnoxious",
+      "options": [
+        "不快な",
+        "従順な",
+        "魅力的な",
+        "無害な"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「obnoxious」は、非常に不快で、不愉快な、または嫌な態度や行動を指します。他人に迷惑をかけるような、鼻につく振る舞いを意味します。\n\n例：He was being loud and obnoxious at the party. (彼はパーティーで大声で騒ぎ、不快な態度をとっていました。)"
+    },
+    {
+      "id": 81,
+      "value": "dumbass",
+      "options": [
+        "賢者",
+        "ばか者",
+        "勇敢な人",
+        "優しい人"
+      ],
+      "correctAnswer": "ばか者",
+      "explanation": "「dumbass」は、非常に侮辱的な言葉で、知能が低い人、ばか者を意味します。親しい間柄で冗談めかして使われることもありますが、基本的には相手を貶める強い言葉です。\n\n例：Don't be such a dumbass! (そんなバカなことするな！)"
+    },
+    {
+      "id": 82,
+      "value": "here's to you",
+      "options": [
+        "あなたのために",
+        "あなたに乾杯",
+        "あなたを忘れない",
+        "あなたを応援する"
+      ],
+      "correctAnswer": "あなたに乾杯",
+      "explanation": "「Here's to you」は、誰かの成功や幸福を祝う際に使われる乾杯の言葉です。相手への敬意や祝福の気持ちを表します。\n\n例：Here's to you, on your graduation! (卒業おめでとう！乾杯！)"
+    },
+    {
+      "id": 83,
+      "value": "get to speak",
+      "options": [
+        "話すことを許される",
+        "話す機会を得る",
+        "話すことを強制される",
+        "話すことを避ける"
+      ],
+      "correctAnswer": "話す機会を得る",
+      "explanation": "「get to speak」は、話す機会を得る、発言する機会を与えられるという意味です。会議やイベントなどで、自分の意見を述べることができる状況を指します。\n\n例：I didn't get to speak at the meeting because it ended early. (会議が早く終わってしまったので、私は発言する機会がありませんでした。)"
+    },
+    {
+      "id": 84,
+      "value": "listen up",
+      "options": [
+        "静かに聞く",
+        "よく聞く",
+        "聞き流す",
+        "無視する"
+      ],
+      "correctAnswer": "よく聞く",
+      "explanation": "「listen up」は、注意を引くために使われるフレーズで、これから話すことを注意深く聞いてほしいという意味です。特に、何か重要なことや指示を伝える際に使われます。\n\n例：Listen up, everyone! I have an important announcement. (皆さん、よく聞いてください！重要な発表があります。)"
+    },
+    {
+      "id": 85,
+      "value": "nail it",
+      "options": [
+        "失敗する",
+        "成功する",
+        "釘を打つ",
+        "忘れる"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「nail it」は、何かを完璧にやり遂げる、成功させるという意味のスラングです。特に、難しい課題や試験などをうまくこなした場合に使われます。\n\n例：She nailed the presentation. (彼女はプレゼンテーションを見事に成功させました。)"
+    },
+    {
+      "id": 86,
+      "value": "crushing it",
+      "options": [
+        "打ち砕く",
+        "圧倒する",
+        "台無しにする",
+        "隠す"
+      ],
+      "correctAnswer": "圧倒する",
+      "explanation": "「crushing it」は、非常にうまくやっている、成功を収めているという意味のスラングです。特に、競争やパフォーマンスにおいて、他を圧倒するような成果を出している状況を指します。\n\n例：He's crushing it at his new job. (彼は新しい仕事で大活躍しています。)"
+    },
+    {
+      "id": 87,
+      "value": "get through",
+      "options": [
+        "通り抜ける",
+        "乗り越える",
+        "諦める",
+        "無視する"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get through」は、困難な状況や試練を乗り越える、または何かを終える、やり遂げるという意味です。また、人に連絡がつく、または理解してもらうという意味もあります。\n\n例：We'll get through this together. (私たちは一緒にこれを乗り越えるでしょう。)"
+    },
+    {
+      "id": 88,
+      "value": "irritating",
+      "options": [
+        "喜ばしい",
+        "イライラさせる",
+        "落ち着かせる",
+        "楽しい"
+      ],
+      "correctAnswer": "イライラさせる",
+      "explanation": "「irritating」は、人をイライラさせる、不快にさせるという意味です。わずらわしい、迷惑なというニュアンスも含まれます。\n\n例：His constant complaining is very irritating. (彼の絶え間ない不満はとてもイライラさせます。)"
+    },
+    {
+      "id": 89,
+      "value": "call you my friend",
+      "options": [
+        "友達と呼ぶ",
+        "友達だと思わない",
+        "友達になりたい",
+        "友達をやめる"
+      ],
+      "correctAnswer": "友達と呼ぶ",
+      "explanation": "「call you my friend」は、相手を友達と呼ぶ、または友達として認めるという意味です。親しい関係であることを示す表現です。\n\n例：I am happy to call you my friend. (私はあなたを友達と呼べることを嬉しく思います。)"
+    },
+    {
+      "id": 90,
+      "value": "generic",
+      "options": [
+        "一般的な",
+        "独特な",
+        "詳細な",
+        "曖昧な"
+      ],
+      "correctAnswer": "一般的な",
+      "explanation": "「generic」は、特定の商品名やブランド名を持たない、一般的な性質を持つものを指します。特徴がなく、ありふれたという意味合いも含まれます。\n\n例：This is a generic brand of cereal. (これは一般的なブランドのシリアルです。)"
+    },
+    {
+      "id": 91,
+      "value": "Live long and prosper",
+      "options": [
+        "短命であれ",
+        "長生きと繁栄を",
+        "貧困に苦しめ",
+        "孤独であれ"
+      ],
+      "correctAnswer": "長生きと繁栄を",
+      "explanation": "「Live long and prosper」は、映画『スター・トレック』シリーズに登場するバルカン人の挨拶の言葉で、「長生きと繁栄を」という意味です。相手の幸福を願う際に使われます。\n\n例：He greeted everyone with \"Live long and prosper.\" (彼は皆に「長生きと繁栄を」と挨拶しました。)"
+    },
+    {
+      "id": 92,
+      "value": "can't wait",
+      "options": [
+        "待てない",
+        "待ちたくない",
+        "待つことができる",
+        "待つべきではない"
+      ],
+      "correctAnswer": "待てない",
+      "explanation": "「can't wait」は、何かを非常に楽しみにしている、待ちきれないという意味です。期待感や興奮を表す際に使われます。\n\n例：I can't wait to see you again. (また会えるのが待ちきれません。)"
+    },
+    {
+      "id": 93,
+      "value": "a lot",
+      "options": [
+        "少し",
+        "たくさん",
+        "全くない",
+        "重要でない"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "「a lot」は、数量や程度が大きいことを示す表現で、「たくさん」「非常に」という意味です。可算名詞にも不可算名詞にも使えます。\n\n例：I have a lot of work to do. (私はたくさんの仕事をしなければなりません。)"
+    },
+    {
+      "id": 94,
+      "value": "change",
+      "options": [
+        "変化",
+        "安定",
+        "停滞",
+        "現状維持"
+      ],
+      "correctAnswer": "変化",
+      "explanation": "「change」は、物事が以前の状態から異なる状態になること、変化、変更を意味します。新しい状況や環境への移行を指す場合もあります。\n\n例：I don't like change. (私は変化が好きではありません。)"
+    },
+    {
+      "id": 95,
+      "value": "available",
+      "options": [
+        "利用可能",
+        "利用不可能",
+        "秘密の",
+        "不要な"
+      ],
+      "correctAnswer": "利用可能",
+      "explanation": "「available」は、利用可能である、入手可能である、または手が空いているという意味です。人や物、サービスなどが使える状態にあることを示します。\n\n例：I am available for a meeting next week. (私は来週、会議に出席可能です。)"
+    },
+    {
+      "id": 96,
+      "value": "to say that hasn't already been said",
+      "options": [
+        "すでに言われたことを繰り返す",
+        "まだ誰も言っていないことを言う",
+        "何も言わない",
+        "秘密を打ち明ける"
+      ],
+      "correctAnswer": "すでに言われたことを繰り返す",
+      "explanation": "「to say that hasn't already been said」は、すでに他の人が言ったことと同じことを言うという意味です。目新しいことが何もない状況を表します。\n\n例：I can't think of anything to say that hasn't already been said. (すでに言われたこと以外、何も思いつきません。)"
+    },
+    {
+      "id": 97,
+      "value": "kidding",
+      "options": [
+        "真剣な",
+        "冗談を言っている",
+        "怒っている",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「kidding」は、冗談を言っている、からかっているという意味です。「You gotta be kidding me?」は、「冗談でしょう？」という驚きや不信を表す表現です。\n\n例：Are you kidding me? You won the lottery? (冗談でしょう？宝くじに当たったの？)"
+    },
+    {
+      "id": 98,
+      "value": "more than just",
+      "options": [
+        "単なる〜以上",
+        "単なる〜以下",
+        "〜と似ている",
+        "〜と全く違う"
+      ],
+      "correctAnswer": "単なる〜以上",
+      "explanation": "「more than just」は、単なる〜以上、〜以上の存在であるという意味です。表面的な関係や役割を超えた深い繋がりや価値を示す際に使われます。\n\n例：He is more than just a friend to me. (彼は私にとって単なる友達以上の存在です。)"
+    },
+    {
+      "id": 99,
+      "value": "invisible",
+      "options": [
+        "目に見える",
+        "目に見えない",
+        "重要な",
+        "不要な"
+      ],
+      "correctAnswer": "目に見えない",
+      "explanation": "「invisible」は、目に見えない、姿が見えないという意味です。物理的に見えないだけでなく、無視されている、注目されていないという比喩的な意味合いも持ちます。\n\n例：I felt invisible at the party. (パーティーで私は誰にも気づかれず、透明人間のように感じました。)"
+    },
+    {
+      "id": 100,
+      "value": "get the cake",
+      "options": [
+        "ケーキを手に入れる",
+        "ケーキを食べる",
+        "ケーキを焼く",
+        "ケーキを捨てる"
+      ],
+      "correctAnswer": "ケーキを手に入れる",
+      "explanation": "「get the cake」は、ケーキを手に入れる、用意するという意味です。誕生日などの祝い事で、ケーキを用意する状況を指します。\n\n例：Let's get the cake ready for the party. (パーティーのためにケーキを用意しましょう。)"
+    }
+  ]
+}

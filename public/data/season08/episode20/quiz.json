@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "settle this",
+      "options": [
+        "解決する",
+        "議論する",
+        "無視する",
+        "提案する"
+      ],
+      "correctAnswer": "解決する",
+      "explanation": "「Settle this」は、紛争や議論を解決するという意味です。第三者に仲裁を頼むニュアンスを含みます。日常会話でよく使われます。\n例：Let's settle this argument once and for all. (この議論に決着をつけよう。)"
+    },
+    {
+      "id": 2,
+      "value": "irritated",
+      "options": [
+        "満足した",
+        "落ち着いた",
+        "いらいらした",
+        "楽しんだ"
+      ],
+      "correctAnswer": "いらいらした",
+      "explanation": "「Irritated」は、軽い怒りや不快感を意味します。我慢できないほどではないものの、不満を感じている状態を表します。\n例：I was irritated by the constant noise. (絶え間ない騒音にいらいらした。)"
+    },
+    {
+      "id": 3,
+      "value": "elite",
+      "options": [
+        "平均的な",
+        "劣った",
+        "優秀な",
+        "一般的な"
+      ],
+      "correctAnswer": "優秀な",
+      "explanation": "「Elite」は、社会の中で最も優れた、選ばれた人々やグループを指します。高い能力や特権を持つことを意味します。\n例：An elite group of scientists. (エリート科学者グループ。)"
+    },
+    {
+      "id": 4,
+      "value": "a pain in the ass",
+      "options": [
+        "親切な人",
+        "助けになる人",
+        "迷惑な人",
+        "面白い人"
+      ],
+      "correctAnswer": "迷惑な人",
+      "explanation": "「A pain in the ass」は、非常に不快で迷惑な人や物を指す非常に口語的な表現です。フォーマルな場では避けるべき表現です。\n例：Dealing with the bureaucracy was a real pain in the ass. (官僚主義に対処するのは本当に面倒だった。)"
+    },
+    {
+      "id": 5,
+      "value": "bitter",
+      "options": [
+        "甘い",
+        "楽しい",
+        "苦い",
+        "嬉しい"
+      ],
+      "correctAnswer": "苦い",
+      "explanation": "「Bitter」は、不満や恨みを抱いている状態を表します。過去の出来事や状況に対する強い不快感や怒りが含まれます。\n例：He felt bitter about losing the competition. (彼は競争に負けたことを苦々しく思っていた。)"
+    },
+    {
+      "id": 6,
+      "value": "why bother?",
+      "options": [
+        "なぜ頑張るのか？",
+        "どうすればいいのか？",
+        "なぜ喜ぶのか？",
+        "なぜ悲しむのか？"
+      ],
+      "correctAnswer": "なぜ頑張るのか？",
+      "explanation": "「Why bother?」は、何かをする価値がない、または努力しても無駄であるという諦めの気持ちを表す表現です。\n例：The traffic is terrible, so why bother going out? (交通渋滞がひどいから、外出する意味がない。)"
+    },
+    {
+      "id": 7,
+      "value": "tracked down",
+      "options": [
+        "無視した",
+        "見つけた",
+        "忘れた",
+        "避けた"
+      ],
+      "correctAnswer": "見つけた",
+      "explanation": "「Track down」は、探し出す、追跡して見つけるという意味です。困難な状況で何かや誰かを見つけ出す際に使われます。\n例：The detective tracked down the missing witness. (刑事は行方不明の証人を見つけ出した。)"
+    },
+    {
+      "id": 8,
+      "value": "cover band",
+      "options": [
+        "オリジナルのバンド",
+        "コピーバンド",
+        "有名なバンド",
+        "解散したバンド"
+      ],
+      "correctAnswer": "コピーバンド",
+      "explanation": "「Cover band」は、他のアーティストの楽曲を演奏するバンドのことです。オリジナル曲ではなく、既存の曲をカバーします。\n例：They are a Beatles cover band. (彼らはビートルズのコピーバンドです。)"
+    },
+    {
+      "id": 9,
+      "value": "agreeing to do this",
+      "options": [
+        "これを拒否する",
+        "これを提案する",
+        "これに同意する",
+        "これを理解する"
+      ],
+      "correctAnswer": "これに同意する",
+      "explanation": "「Agreeing to do this」は、何かを行うことに同意することを意味します。依頼や提案を受け入れる際に使われます。\n例：Thank you for agreeing to help us. (手伝ってくれてありがとう。)"
+    },
+    {
+      "id": 10,
+      "value": "nerd stuff",
+      "options": [
+        "一般的な話題",
+        "専門的な話題",
+        "オタクな話題",
+        "興味のない話題"
+      ],
+      "correctAnswer": "オタクな話題",
+      "explanation": "「Nerd stuff」は、特定の分野に非常に熱心な人々（nerd）が興味を持つような話題や物を指します。科学、技術、ファンタジーなどが含まれます。\n例：They were talking about nerd stuff like comic books and video games. (彼らは漫画やビデオゲームのようなオタクな話題について話していた。)"
+    },
+    {
+      "id": 11,
+      "value": "straight to the feelings",
+      "options": [
+        "感情を無視して",
+        "直接感情に",
+        "間接的に感情に",
+        "感情を避けて"
+      ],
+      "correctAnswer": "直接感情に",
+      "explanation": "「Straight to the feelings」は、感情に直接訴えかける、または感情を傷つけるという意味です。婉曲的な表現ではなく、直接的な影響を与えることを強調します。\n例：Your words went straight to my feelings. (あなたの言葉は私の感情に直接響いた。)"
+    },
+    {
+      "id": 12,
+      "value": "pass the salt",
+      "options": [
+        "塩を隠す",
+        "塩を渡す",
+        "塩をこぼす",
+        "塩を拒否する"
+      ],
+      "correctAnswer": "塩を渡す",
+      "explanation": "「Pass the salt」は、食事中に塩を近くの人に渡すように頼む一般的な表現です。日常会話でよく使われます。\n例：Could you please pass the salt? (塩を渡してもらえますか？)"
+    },
+    {
+      "id": 13,
+      "value": "buckle up",
+      "options": [
+        "諦める",
+        "準備する",
+        "逃げる",
+        "忘れる"
+      ],
+      "correctAnswer": "準備する",
+      "explanation": "「Buckle up」は、困難な状況や予想外の事態に備えるように促す表現です。文字通りにはシートベルトを締めるという意味ですが、比喩的に使われます。\n例：Buckle up, it's going to be a bumpy ride. (覚悟して、これから大変なことになるぞ。)"
+    },
+    {
+      "id": 14,
+      "value": "pout",
+      "options": [
+        "笑顔",
+        "怒り",
+        "ふくれっ面",
+        "泣き顔"
+      ],
+      "correctAnswer": "ふくれっ面",
+      "explanation": "「Pout」は、不満や不機嫌を表すために唇を突き出す表情を指します。子供や不満げな人がよくする表情です。\n例：She pouted when she didn't get what she wanted. (彼女は欲しいものが手に入らなかったとき、ふくれっ面をした。)"
+    },
+    {
+      "id": 15,
+      "value": "moody",
+      "options": [
+        "陽気な",
+        "安定した",
+        "気まぐれな",
+        "冷静な"
+      ],
+      "correctAnswer": "気まぐれな",
+      "explanation": "「Moody」は、気分が変わりやすく、不機嫌になったり、怒りっぽくなったりする状態を表します。感情の起伏が激しいことを意味します。\n例：He's been very moody lately. (彼は最近とても気難しい。)"
+    },
+    {
+      "id": 16,
+      "value": "work-around",
+      "options": [
+        "標準的な方法",
+        "回避策",
+        "直接的な解決策",
+        "問題点"
+      ],
+      "correctAnswer": "回避策",
+      "explanation": "「Work-around」は、問題や障害を回避するための代替手段や一時的な解決策を指します。完全な解決にはならないものの、当面の困難を乗り越えるために用いられます。\n例：We need to find a work-around until the system is fixed. (システムが修正されるまで、回避策を見つける必要がある。)"
+    },
+    {
+      "id": 17,
+      "value": "loophole",
+      "options": [
+        "欠点",
+        "抜け穴",
+        "利点",
+        "改善点"
+      ],
+      "correctAnswer": "抜け穴",
+      "explanation": "「Loophole」は、法律や規則の不備を利用して、本来回避できないはずの義務や制約を逃れる手段を指します。しばしば倫理的な問題を含みます。\n例：The company found a loophole in the tax law. (その会社は税法の抜け穴を見つけた。)"
+    },
+    {
+      "id": 18,
+      "value": "ripping up",
+      "options": [
+        "修理する",
+        "作り直す",
+        "取り除く",
+        "保護する"
+      ],
+      "correctAnswer": "取り除く",
+      "explanation": "「Ripping up」は、何かを力ずくで引き裂いたり、取り除いたりすることを意味します。特に、カーペットや壁紙など、固定されたものを剥がす際に使われます。\n例：They are ripping up the old carpet. (彼らは古いカーペットを剥がしている。)"
+    },
+    {
+      "id": 19,
+      "value": "knocked out",
+      "options": [
+        "修理した",
+        "建て直した",
+        "取り壊した",
+        "装飾した"
+      ],
+      "correctAnswer": "取り壊した",
+      "explanation": "「Knock out」は、壁などを打ち壊して取り除くことを意味します。比喩的には、相手を打ち負かす、または無効にするといった意味もあります。\n例：They knocked out the wall to create an open space. (彼らは広い空間を作るために壁を取り壊した。)"
+    },
+    {
+      "id": 20,
+      "value": "open floor plan",
+      "options": [
+        "閉鎖的な間取り",
+        "伝統的な間取り",
+        "オープンスペースの間取り",
+        "秘密の間取り"
+      ],
+      "correctAnswer": "オープンスペースの間取り",
+      "explanation": "「Open floor plan」は、壁や仕切りが少なく、広々とした空間が特徴の間取りのことです。リビング、ダイニング、キッチンなどが一体化していることが多いです。\n例：The house has an open floor plan. (その家はオープンスペースの間取りです。)"
+    },
+    {
+      "id": 21,
+      "value": "wrecking ball",
+      "options": [
+        "装飾品",
+        "建設機械",
+        "破壊槌",
+        "清掃用具"
+      ],
+      "correctAnswer": "破壊槌",
+      "explanation": "「Wrecking ball」は、建物を破壊するために使用される大きな鉄球です。比喩的には、何かを徹底的に破壊する力や手段を指します。\n例: They used a wrecking ball to demolish the old building. (彼らは古い建物を取り壊すために破壊槌を使った。)"
+    },
+    {
+      "id": 22,
+      "value": "comic-con",
+      "options": [
+        "お笑いイベント",
+        "漫画の祭典",
+        "スポーツ大会",
+        "音楽フェス"
+      ],
+      "correctAnswer": "漫画の祭典",
+      "explanation": "「Comic-Con」は、漫画、アニメ、ゲーム、映画などのポップカルチャーに関する大規模なイベントです。ファンが集まり、コスプレや展示、サイン会などを楽しみます。\n例：I'm going to Comic-Con next week. (来週コミコンに行く予定だ。)"
+    },
+    {
+      "id": 23,
+      "value": "what if",
+      "options": [
+        "なぜ",
+        "どのように",
+        "もし〜なら",
+        "いつ"
+      ],
+      "correctAnswer": "もし〜なら",
+      "explanation": "「What if」は、仮定の状況や可能性について尋ねる際に使用されます。未来に対する疑問や懸念、または単なる好奇心を表すことができます。\n例：What if it rains tomorrow? (明日雨が降ったらどうなる？)"
+    },
+    {
+      "id": 24,
+      "value": "resist",
+      "options": [
+        "受け入れる",
+        "抵抗する",
+        "促進する",
+        "無視する"
+      ],
+      "correctAnswer": "抵抗する",
+      "explanation": "「Resist」は、何かに対して抵抗する、反抗する、または拒否することを意味します。誘惑や圧力、または変化に対して使われます。\n例：I can't resist chocolate. (チョコレートには抵抗できない。)"
+    },
+    {
+      "id": 25,
+      "value": "begging",
+      "options": [
+        "命令する",
+        "懇願する",
+        "提供する",
+        "拒否する"
+      ],
+      "correctAnswer": "懇願する",
+      "explanation": "「Begging」は、何かを切実に求める、懇願する行為を指します。特に、金銭や援助を求める際に使われます。\n例：They were begging for food. (彼らは食べ物を求めて懇願していた。)"
+    },
+    {
+      "id": 26,
+      "value": "on the title",
+      "options": [
+        "表題の上に",
+        "称号として",
+        "所有権において",
+        "題名に関して"
+      ],
+      "correctAnswer": "所有権において",
+      "explanation": "不動産や資産の権利証書に名前が記載されている状態を指します。これは、その人が法的に所有者であることを意味します。 例：His name is on the title of the house. (彼の名前はその家の所有権に記載されている。)"
+    },
+    {
+      "id": 27,
+      "value": "half-brother",
+      "options": [
+        "異母兄弟",
+        "義兄弟",
+        "双子の兄弟",
+        "幼馴染"
+      ],
+      "correctAnswer": "異母兄弟",
+      "explanation": "half-brotherは、片方の親のみを共有する兄弟を指します。つまり、父親が同じで母親が異なる、またはその逆の場合を指します。 例：He discovered he had a half-brother he never knew about. (彼は自分が知らなかった異母兄弟がいることを知った。)"
+    },
+    {
+      "id": 28,
+      "value": "suspect",
+      "options": [
+        "疑う",
+        "確信する",
+        "期待する",
+        "無視する"
+      ],
+      "correctAnswer": "疑う",
+      "explanation": "何か良くないことや真実でないことが起こっているのではないかと感じること。根拠がある程度の不信感を抱く場合に用います。例文：I suspect he's lying.（彼が嘘をついているのではないかと疑っている。）"
+    },
+    {
+      "id": 29,
+      "value": "spoiler alert",
+      "options": [
+        "ネタバレ注意",
+        "秘密厳守",
+        "緊急警報",
+        "情報公開"
+      ],
+      "correctAnswer": "ネタバレ注意",
+      "explanation": "映画や本の重要な内容を事前に知らせる際に使われる表現です。視聴者や読者に、内容を知りたくない場合は注意するように促します。 例：Spoiler alert: The main character dies at the end. (ネタバレ注意：主人公は最後に死ぬ。)"
+    },
+    {
+      "id": 30,
+      "value": "interrupt",
+      "options": [
+        "中断する",
+        "参加する",
+        "無視する",
+        "促進する"
+      ],
+      "correctAnswer": "中断する",
+      "explanation": "人が話している時や何かの活動中に、突然割り込んで、その進行を妨げること。 例：Please don't interrupt me when I'm working. (私が仕事をしている時は邪魔しないでください。)"
+    },
+    {
+      "id": 31,
+      "value": "get set up",
+      "options": [
+        "準備する",
+        "出発する",
+        "解散する",
+        "設立する"
+      ],
+      "correctAnswer": "準備する",
+      "explanation": "必要なものを揃えて、ある活動を始める準備をすること。機器の設置や環境の整備など、様々な準備段階を含む場合があります。 例：I need to get set up before the meeting starts. (会議が始まる前に準備をしなければならない。)"
+    },
+    {
+      "id": 32,
+      "value": "cult following",
+      "options": [
+        "熱狂的なファン",
+        "一時的な流行",
+        "一般的な支持",
+        "組織的な批判"
+      ],
+      "correctAnswer": "熱狂的なファン",
+      "explanation": "少数の人々から非常に熱心に支持されること。一般的な人気はないものの、特定の層から強い支持を受けている状態を指します。 例：The movie has gained a cult following over the years. (その映画は長年にわたり熱狂的なファンを獲得してきた。)"
+    },
+    {
+      "id": 33,
+      "value": "pre-production",
+      "options": [
+        "本番",
+        "撮影後",
+        "準備段階",
+        "公開直前"
+      ],
+      "correctAnswer": "準備段階",
+      "explanation": "映画や演劇などの制作における、撮影や公演が始まる前の準備段階のこと。キャスティング、ロケーションハンティング、脚本の最終確認など、制作に必要な要素を準備する期間です。 例：We are currently in pre-production for our next film. (私たちは現在、次の映画のプリプロダクション中です。)"
+    },
+    {
+      "id": 34,
+      "value": "read for a part",
+      "options": [
+        "役を演じる",
+        "脚本を読む",
+        "役のオーディションを受ける",
+        "役を分析する"
+      ],
+      "correctAnswer": "役のオーディションを受ける",
+      "explanation": "映画や演劇の役を得るために、脚本の一部を読んで演技をすること。オーディションの一環として行われ、演技力や役柄への適性を見られます。 例：She was invited to read for a part in the new play. (彼女は新しい劇の役のオーディションに呼ばれた。)"
+    },
+    {
+      "id": 35,
+      "value": "left out",
+      "options": [
+        "取り残される",
+        "解放される",
+        "出発する",
+        "忘れられる"
+      ],
+      "correctAnswer": "取り残される",
+      "explanation": "グループや活動から除外されること。仲間はずれにされたり、参加を拒否されたりする状況を指します。 例：He felt left out when his friends went to the party without him. (彼は友達が彼を置いてパーティーに行ったとき、取り残されたと感じた。)"
+    },
+    {
+      "id": 36,
+      "value": "evolutionary advantage",
+      "options": [
+        "進化上の利点",
+        "革命的な進歩",
+        "歴史的な出来事",
+        "文化的な優位性"
+      ],
+      "correctAnswer": "進化上の利点",
+      "explanation": "生物が生存や繁殖において有利になる形質や行動のこと。自然選択を通じて、より適応的な特徴が次世代に受け継がれることで進化が起こります。 例：Large brains provide an evolutionary advantage for humans. (大きな脳は人類にとって進化上の利点を提供する。)"
+    },
+    {
+      "id": 37,
+      "value": "symposium",
+      "options": [
+        "討論会",
+        "体育館",
+        "博物館",
+        "遊園地"
+      ],
+      "correctAnswer": "討論会",
+      "explanation": "特定のテーマについて専門家が集まり、意見交換や発表を行う会議。学術的な内容や専門的な知識を共有する場として開催されます。 例：She was invited to present her research at the international symposium. (彼女は国際シンポジウムで研究発表に招待された。)"
+    },
+    {
+      "id": 38,
+      "value": "juvenile",
+      "options": [
+        "未成年",
+        "高齢者",
+        "大人",
+        "青年"
+      ],
+      "correctAnswer": "未成年",
+      "explanation": "若々しい、子供っぽいという意味。また、未成年者や少年犯罪に関連する意味合いも持ちます。ここでは子供っぽいという意味で使われています。 例：His behavior was very juvenile. (彼の行動は非常に子供っぽかった。)"
+    },
+    {
+      "id": 39,
+      "value": "be a bad host",
+      "options": [
+        "悪い主催者である",
+        "無愛想な客である",
+        "歓迎されない訪問者である",
+        "不適切な行動をとる"
+      ],
+      "correctAnswer": "悪い主催者である",
+      "explanation": "客をもてなす際に、不適切な対応をすること。飲み物や食事の提供を怠ったり、ゲストを楽しませる努力をしない場合に用いられます。 例：I don't want to be a bad host, so let me get you another drink. (私は悪いホストになりたくないので、もう一杯飲み物を持ってきましょう。)"
+    },
+    {
+      "id": 40,
+      "value": "bring up",
+      "options": [
+        "育てる",
+        "吐き出す",
+        "話題に出す",
+        "持ち上げる"
+      ],
+      "correctAnswer": "話題に出す",
+      "explanation": "bring up には色々な意味がありますが、ここでは、会話の中で特定の話題や問題を提起するという意味です。例文：Don't bring up politics at the dinner table. (夕食の席で政治の話を持ち出さないで。)"
+    },
+    {
+      "id": 41,
+      "value": "Cruise for a beatin'",
+      "options": [
+        "殴られに行く",
+        "クルーズ旅行に行く",
+        "勝利を確信する",
+        "道に迷う"
+      ],
+      "correctAnswer": "殴られに行く",
+      "explanation": "これは比喩的な表現で、「自らトラブルを招く」「人にからかわれたり、批判されたりするようなことをする」という意味合いです。直訳すると「殴られるためにクルーズする」となり、自ら危険な状況に近づく様子を表しています。例文：If you keep talking to your mother like that, you're cruisin' for a beatin'. (もし君がそんな風にお母さんに話し続けたら、痛い目に遭うぞ。)"
+    },
+    {
+      "id": 42,
+      "value": "cast",
+      "options": [
+        "配役する",
+        "呪いをかける",
+        "投票する",
+        "石膏"
+      ],
+      "correctAnswer": "配役する",
+      "explanation": "映画や演劇などの役を俳優に割り当てること。キャスティングディレクターや監督が、役柄に合った俳優を選びます。例文：The director decided to cast her in the lead role. (監督は彼女を主役に配役することに決めた。)"
+    },
+    {
+      "id": 43,
+      "value": "tell him",
+      "options": [
+        "彼に伝える",
+        "彼を無視する",
+        "彼をからかう",
+        "彼を応援する"
+      ],
+      "correctAnswer": "彼に伝える",
+      "explanation": "ここでは「言い返す」「反論する」という意味合いで使われています。相手の意見や行動に対して、自分の意見をはっきりと伝えることを促す表現です。例文：Yeah, you tell him! He needs to hear that. (そうだ、言い返してやれ！彼はそれを聞く必要がある。)"
+    },
+    {
+      "id": 44,
+      "value": "sprinkling",
+      "options": [
+        "散布",
+        "収集",
+        "圧縮",
+        "分析"
+      ],
+      "correctAnswer": "散布",
+      "explanation": "細かいものをばらまくこと。粉末や液体などを少量ずつ広範囲にまき散らす行為を指します。ここでは、砂糖を髪の毛にまぶす行為を指しています。例文：She sprinkled sugar on her cereal. (彼女はシリアルに砂糖を振りかけた。)"
+    },
+    {
+      "id": 45,
+      "value": "at the same time",
+      "options": [
+        "同時に",
+        "反対に",
+        "結局",
+        "その結果"
+      ],
+      "correctAnswer": "同時に",
+      "explanation": "二つ以上のことが同じタイミングで起こること。時間の経過が同じであることを示す表現です。例文：He was talking on the phone and writing an email at the same time. (彼は電話で話しながら同時にメールを書いていた。)"
+    },
+    {
+      "id": 46,
+      "value": "missing out on",
+      "options": [
+        "見逃す",
+        "参加する",
+        "集中する",
+        "貢献する"
+      ],
+      "correctAnswer": "見逃す",
+      "explanation": "何か良い機会や経験を逃してしまうこと。参加できなかったり、利用できなかったりする状況を指します。例文：You're missing out on all the fun! (あなたはすべての楽しみを見逃しているよ！)"
+    },
+    {
+      "id": 47,
+      "value": "build forts",
+      "options": [
+        "砦を築く",
+        "橋を架ける",
+        "家を建てる",
+        "ダムを作る"
+      ],
+      "correctAnswer": "砦を築く",
+      "explanation": "毛布や枕などを使って、子供たちが秘密基地のような空間を作ること。遊びの一環として行われ、創造性や協調性を養うことができます。例文：When we were kids, we used to build forts in the living room. (子供の頃、私たちはリビングで砦を築いたものだった。)"
+    },
+    {
+      "id": 48,
+      "value": "Google",
+      "options": [
+        "検索する",
+        "印刷する",
+        "保存する",
+        "削除する"
+      ],
+      "correctAnswer": "検索する",
+      "explanation": "インターネット検索エンジンを使って情報を探すこと。ここでは、子供のような楽しみ方についてインターネットで調べることを指しています。例文：I'll Google the recipe for chocolate cake. (チョコレートケーキのレシピをグーグルで検索します。)"
+    },
+    {
+      "id": 49,
+      "value": "I wish it was better",
+      "options": [
+        "良ければいいのに",
+        "最高だった",
+        "忘れたい",
+        "どうでもいい"
+      ],
+      "correctAnswer": "良ければいいのに",
+      "explanation": "何かに対して不満や後悔の気持ちを表す表現です。実際には良くない状態であることに対して、改善を望む気持ちを示します。例文：I wish the weather was better. (天気が良ければいいのに。)"
+    },
+    {
+      "id": 50,
+      "value": "Stay out of it",
+      "options": [
+        "関わらないで",
+        "ここにいて",
+        "手伝って",
+        "気にしないで"
+      ],
+      "correctAnswer": "関わらないで",
+      "explanation": "他人の問題や議論に介入しないように求める表現です。口出しや干渉を避けたいときに使われます。例文：This is a private matter, please stay out of it. (これは個人的な問題なので、関わらないでください。)"
+    },
+    {
+      "id": 51,
+      "value": "chitchat",
+      "options": [
+        "重要な会話",
+        "無駄話",
+        "秘密の相談",
+        "ビジネス交渉"
+      ],
+      "correctAnswer": "無駄話",
+      "explanation": "「chitchat」は、気軽で他愛のないおしゃべりを指します。深刻な話題ではなく、社交辞令的な内容や、時間つぶしのための会話に使われます。例えば、パーティーでの挨拶や、エレベーターでの短い会話などが該当します。"
+    },
+    {
+      "id": 52,
+      "value": "smells fishy",
+      "options": [
+        "魚の匂いがする",
+        "状況が怪しい",
+        "美味しい匂いがする",
+        "新鮮な感じがする"
+      ],
+      "correctAnswer": "状況が怪しい",
+      "explanation": "「smells fishy」は、文字通りには「魚臭い」という意味ですが、慣用句としては「何かおかしい」「怪しい」という意味で使われます。状況や行動に疑念を感じるときに使われ、不正や隠された意図があるかもしれないというニュアンスを含みます。"
+    },
+    {
+      "id": 53,
+      "value": "out of the blue",
+      "options": [
+        "突然に",
+        "青空の下で",
+        "計画的に",
+        "秘密裏に"
+      ],
+      "correctAnswer": "突然に",
+      "explanation": "「out of the blue」は、「青天の霹靂」のように、予期せぬ出来事が突然起こる様子を表します。何の兆候もなく、唐突に何かが起こったという状況を強調する際に用いられます。"
+    },
+    {
+      "id": 54,
+      "value": "I've got your back",
+      "options": [
+        "私はあなたを支えます",
+        "私はあなたの後ろにいます",
+        "私はあなたの背中がかゆいです",
+        "私はあなたに反対です"
+      ],
+      "correctAnswer": "私はあなたを支えます",
+      "explanation": "「I've got your back」は、相手をサポートし、守ることを約束する表現です。困難な状況や問題に直面している人に、安心感を与えるために使われます。「私がついてるから大丈夫」というニュアンスが含まれます。"
+    },
+    {
+      "id": 55,
+      "value": "hit the road",
+      "options": [
+        "旅に出る",
+        "道にぶつかる",
+        "立ち去る",
+        "休憩する"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "「hit the road」は、「出発する」「立ち去る」という意味の口語表現です。特に旅行や移動の際に使われ、文字通り「道に出る」ことから、旅立ちや移動の開始を表します。しばしば、誰かに別れを告げて出発する際に使われます。"
+    },
+    {
+      "id": 56,
+      "value": "tuning in",
+      "options": [
+        "調律する",
+        "チャンネルを合わせる",
+        "聞き始める",
+        "無視する"
+      ],
+      "correctAnswer": "聞き始める",
+      "explanation": "「tuning in」は、ラジオやテレビ番組を「視聴し始める」「聴き始める」という意味です。文字通りには「チャンネルを合わせる」という意味合いですが、比喩的に「話を聞き始める」「注意を向ける」という意味でも使われます。"
+    },
+    {
+      "id": 57,
+      "value": "make it as",
+      "options": [
+        "成功する",
+        "作る",
+        "間に合わせる",
+        "諦める"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「make it as」は、「～として成功する」という意味です。特定の職業や分野で成功を収めることを指し、努力や才能によって目標を達成するニュアンスを含みます。例えば、「make it as an actress」は「女優として成功する」という意味になります。"
+    },
+    {
+      "id": 58,
+      "value": "hang up",
+      "options": [
+        "電話を切る",
+        "中断する",
+        "続ける",
+        "保留する"
+      ],
+      "correctAnswer": "電話を切る",
+      "explanation": "「hang up」は、電話を切るという意味の一般的な表現です。会話を終える際に使われ、文字通りには「（受話器を）掛ける」という動作を指します。比喩的に、議論や関係を終わらせるという意味でも使われることがあります。"
+    },
+    {
+      "id": 59,
+      "value": "protect you",
+      "options": [
+        "あなたを守る",
+        "あなたを攻撃する",
+        "あなたを無視する",
+        "あなたを助ける"
+      ],
+      "correctAnswer": "あなたを守る",
+      "explanation": "「protect you」は、「あなたを守る」という意味の基本的な表現です。物理的な危険から守るだけでなく、精神的な苦痛や損害から保護するという意味合いも含まれます。愛情や責任感を示す言葉として使われます。"
+    },
+    {
+      "id": 60,
+      "value": "decent money",
+      "options": [
+        "十分な収入",
+        "少額のお金",
+        "不正なお金",
+        "無駄遣い"
+      ],
+      "correctAnswer": "十分な収入",
+      "explanation": "「decent money」は、「まともな収入」「十分な収入」という意味です。生活を支えるのに十分な金額であり、満足できるレベルの収入であることを示します。必ずしも高額である必要はなく、必要を満たすのに適した金額を指します。"
+    },
+    {
+      "id": 61,
+      "value": "help you out",
+      "options": [
+        "あなたを助ける",
+        "あなたを無視する",
+        "あなたを困らせる",
+        "あなたを批判する"
+      ],
+      "correctAnswer": "あなたを助ける",
+      "explanation": "「help you out」は、「あなたを助ける」「手を貸す」という意味の一般的な表現です。困難な状況にある人に対して、支援や援助を申し出る際に使われます。親切心や協力の意思を示す言葉です。"
+    },
+    {
+      "id": 62,
+      "value": "shake my head",
+      "options": [
+        "首を振る",
+        "頷く",
+        "笑う",
+        "泣く"
+      ],
+      "correctAnswer": "首を振る",
+      "explanation": "「shake my head」は、「首を横に振る」という意味で、否定、不同意、または失望などを表す非言語的な表現です。言葉を使わずに自分の感情や意見を示す際に用いられます。例えば、信じられないことや残念なことが起きたときなどに使われます。"
+    },
+    {
+      "id": 63,
+      "value": "load-bearing",
+      "options": [
+        "耐荷重",
+        "積載",
+        "軽量",
+        "装飾"
+      ],
+      "correctAnswer": "耐荷重",
+      "explanation": "「load-bearing」は、「荷重を支える」「耐荷重性のある」という意味です。建築や構造工学の分野でよく使われ、構造物の重量を支える能力があることを指します。比喩的に、重要な役割や責任を担うという意味でも使われることがあります。"
+    },
+    {
+      "id": 64,
+      "value": "roughing it",
+      "options": [
+        "質素な生活をする",
+        "贅沢な生活をする",
+        "快適な生活をする",
+        "退屈な生活をする"
+      ],
+      "correctAnswer": "質素な生活をする",
+      "explanation": "「roughing it」は、「不便な生活をする」「質素な生活をする」という意味です。キャンプや旅行などで、普段の快適な環境を離れて、必要最低限の設備で生活することを指します。自然を楽しむためにあえて不便な状況を選ぶニュアンスがあります。"
+    },
+    {
+      "id": 65,
+      "value": "get going",
+      "options": [
+        "出発する",
+        "始める",
+        "続ける",
+        "終わる"
+      ],
+      "correctAnswer": "出発する",
+      "explanation": "「get going」は、「出発する」「行動を開始する」という意味の口語表現です。特に、何かを始めるか、ある場所から移動する際に使われます。時間がない状況や、何かを始めるように促す際に用いられることが多いです。"
+    },
+    {
+      "id": 66,
+      "value": "play catch",
+      "options": [
+        "キャッチボールをする",
+        "鬼ごっこをする",
+        "かくれんぼをする",
+        "トランプをする"
+      ],
+      "correctAnswer": "キャッチボールをする",
+      "explanation": "「play catch」は、「キャッチボールをする」という意味です。野球やソフトボールで、ボールを投げたり受けたりする遊びを指します。親しい間柄の人と交流を深める手段として、または単純な運動として行われます。"
+    },
+    {
+      "id": 67,
+      "value": "What do you do?",
+      "options": [
+        "どんな仕事をしていますか？",
+        "何をしているんですか？",
+        "何をしたいですか？",
+        "どう思いますか？"
+      ],
+      "correctAnswer": "どんな仕事をしていますか？",
+      "explanation": "「What do you do?」は、初対面の人に対して職業や仕事の内容を尋ねる際に使われる一般的な表現です。社交的な状況で、相手のバックグラウンドや興味を知るためのきっかけとして用いられます。ただし、文脈によっては単に「何をしているの？」という意味にもなります。"
+    },
+    {
+      "id": 68,
+      "value": "got me there",
+      "options": [
+        "参った",
+        "そこに着いた",
+        "私を捕まえた",
+        "理解した"
+      ],
+      "correctAnswer": "参った",
+      "explanation": "「You got me there」は、相手の指摘や反論が的を射ていて、言い返す言葉がないときに使う表現です。「参った」「一本取られた」といったニュアンスで、相手の賢さや正当性を認める意味合いがあります。"
+    },
+    {
+      "id": 69,
+      "value": "cover band",
+      "options": [
+        "コピーバンド",
+        "オリジナルバンド",
+        "覆面バンド",
+        "軍楽隊"
+      ],
+      "correctAnswer": "コピーバンド",
+      "explanation": "「cover band」は、他のアーティストの楽曲を演奏するバンドのことです。オリジナル曲ではなく、既存の曲を忠実に再現したり、アレンジを加えたりして演奏します。主にライブハウスやイベントなどで活動します。"
+    },
+    {
+      "id": 70,
+      "value": "get to see",
+      "options": [
+        "会える",
+        "見られる",
+        "理解できる",
+        "経験できる"
+      ],
+      "correctAnswer": "会える",
+      "explanation": "「get to see」は、「～に会える」「～を見ることができる」という意味で、機会や許可を得て何かを見たり、誰かに会ったりする状況を表します。待ち望んでいたことや、特別な機会であることを強調するニュアンスがあります。"
+    },
+    {
+      "id": 71,
+      "value": "dreamed of",
+      "options": [
+        "夢見た",
+        "忘れた",
+        "恐れた",
+        "想像した"
+      ],
+      "correctAnswer": "夢見た",
+      "explanation": "「dreamed of」は、「～を夢見ていた」という意味で、強い願望や憧れを抱いていたことを表します。過去のある時点から現在まで、その夢を持ち続けていたというニュアンスが含まれます。例えば、「I've always dreamed of becoming a doctor. (私はずっと医者になることを夢見ていた。)」のように使います。"
+    },
+    {
+      "id": 72,
+      "value": "What is the harm?",
+      "options": [
+        "何が悪いのか？",
+        "何が良いのか？",
+        "どうすればいいのか？",
+        "何が楽しいのか？"
+      ],
+      "correctAnswer": "何が悪いのか？",
+      "explanation": "「What is the harm?」は、「何が問題なのか？」「何が悪いのか？」という意味で、ある行動や提案に対して、否定的な結果や問題がないことを主張する際に使われます。相手の懸念や反対意見に対して、根拠がないことを指摘するニュアンスがあります。"
+    },
+    {
+      "id": 73,
+      "value": "times two twice",
+      "options": [
+        "2倍の2倍",
+        "2回かける",
+        "2つの時間",
+        "2倍に減らす"
+      ],
+      "correctAnswer": "2倍の2倍",
+      "explanation": "「times two twice」は、2倍のさらに2倍、つまり4倍という意味です。数量や金額が元の4倍になることを強調する際に使われます。例えば、「The price is times two twice what it was last year.(価格は昨年と比べて4倍になっている。)」のように使います。"
+    },
+    {
+      "id": 74,
+      "value": "paying off",
+      "options": [
+        "完済する",
+        "支払い続ける",
+        "支払いを拒否する",
+        "支払いを遅らせる"
+      ],
+      "correctAnswer": "完済する",
+      "explanation": "「paying off」は、「～を完済する」という意味です。借金やローンなどをすべて支払い終えることを指します。また、努力や苦労が報われるという意味でも使われます。例えば、「All her hard work is finally paying off.(彼女の努力がついに報われている。)」のように使います。"
+    },
+    {
+      "id": 75,
+      "value": "a lot of privacy",
+      "options": [
+        "多くのプライバシー",
+        "少しのプライバシー",
+        "全くプライバシーがない",
+        "公共の場"
+      ],
+      "correctAnswer": "多くのプライバシー",
+      "explanation": "「a lot of privacy」は、「多くのプライバシー」という意味です。個人的な情報や活動が他人から干渉されずに守られている状態を指します。静かで落ち着いた環境で、他人を気にせずに過ごせる状況を表します。"
+    },
+    {
+      "id": 76,
+      "value": "Keep dreaming",
+      "options": [
+        "夢を諦めるな",
+        "夢を持ち続けろ",
+        "現実を見ろ",
+        "夢を語り続けろ"
+      ],
+      "correctAnswer": "現実を見ろ",
+      "explanation": "「Keep dreaming」は、皮肉を込めて「夢を見続けるな、現実を見ろ」という意味合いで使われます。相手の考えが非現実的であると感じたときに使われることが多いです。似たような表現に、「In your dreams.」があります。"
+    },
+    {
+      "id": 77,
+      "value": "threw out the first pitch",
+      "options": [
+        "最初の計画を立てた",
+        "最初の投球をした",
+        "最初のチャンスを逃した",
+        "最初の試合を見た"
+      ],
+      "correctAnswer": "最初の投球をした",
+      "explanation": "「throw out the first pitch」は、野球の試合で始球式を行うという意味です。名誉な行為であり、著名人や地域社会に貢献した人が選ばれることが多いです。"
+    },
+    {
+      "id": 78,
+      "value": "Hang on",
+      "options": [
+        "電話を切る",
+        "待って",
+        "諦める",
+        "頑張って"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on」は、文字通りには「つかまる」という意味ですが、会話の中では「待って」という意味で使われます。相手に少し待ってほしい時や、話を聞いてほしい時に使います。"
+    },
+    {
+      "id": 79,
+      "value": "diversified portfolio",
+      "options": [
+        "多様な才能",
+        "多様な人間関係",
+        "多様な投資",
+        "多様な趣味"
+      ],
+      "correctAnswer": "多様な投資",
+      "explanation": "「diversified portfolio」は、投資において、リスクを分散するために様々な種類の資産を組み合わせたポートフォリオを指します。株式、債券、不動産など、異なる値動きをする資産を保有することで、全体のリスクを低減します。"
+    },
+    {
+      "id": 80,
+      "value": "overly conservative",
+      "options": [
+        "非常に革新的",
+        "非常に保守的",
+        "非常に攻撃的",
+        "非常に友好的"
+      ],
+      "correctAnswer": "非常に保守的",
+      "explanation": "「overly conservative」は、度が過ぎるほど保守的であることを意味します。投資においては、リスクを極端に避け、安全な資産にばかり投資するような状況を指します。"
+    },
+    {
+      "id": 81,
+      "value": "take some risks",
+      "options": [
+        "危険を冒す",
+        "休憩を取る",
+        "チャンスを掴む",
+        "安全策を取る"
+      ],
+      "correctAnswer": "危険を冒す",
+      "explanation": "「take some risks」は、ある程度の危険を冒すという意味です。投資においては、高いリターンを期待して、リスクのある資産に投資することを指します。若い世代は、時間的な余裕があるため、リスクを取れるとされます。"
+    },
+    {
+      "id": 82,
+      "value": "Wait a minute",
+      "options": [
+        "少し待って",
+        "ちょっと待って",
+        "すぐに戻る",
+        "しばらく待つ"
+      ],
+      "correctAnswer": "ちょっと待って",
+      "explanation": "「Wait a minute」は、驚きや疑問を表す時に使われる表現で、「ちょっと待って」という意味です。相手の発言に異議を唱えたり、考え直してほしい時に使います。"
+    },
+    {
+      "id": 83,
+      "value": "make a big deal out of",
+      "options": [
+        "大成功を収める",
+        "大騒ぎする",
+        "大きな取引をする",
+        "重要な決定をする"
+      ],
+      "correctAnswer": "大騒ぎする",
+      "explanation": "「make a big deal out of」は、大したことではないことを大げさに騒ぎ立てるという意味です。些細なことを重要視したり、問題視したりする様子を表します。"
+    },
+    {
+      "id": 84,
+      "value": "roles have changed a bit",
+      "options": [
+        "役割が少し変わった",
+        "劇的に変化した",
+        "全く変わっていない",
+        "元に戻った"
+      ],
+      "correctAnswer": "役割が少し変わった",
+      "explanation": "「roles have changed a bit」は、以前と比べて役割や立場が少し変化したことを意味します。人間関係や社会的な状況の変化に伴い、それぞれの役割が変化することがあります。"
+    },
+    {
+      "id": 85,
+      "value": "sneak out of",
+      "options": [
+        "こっそり抜け出す",
+        "堂々と出ていく",
+        "招待されて参加する",
+        "強制的に連れ出される"
+      ],
+      "correctAnswer": "こっそり抜け出す",
+      "explanation": "「sneak out of」は、誰にも気づかれないように、こっそりと場所を抜け出すという意味です。許可を得ずに、あるいは隠れて行動するニュアンスがあります。"
+    },
+    {
+      "id": 86,
+      "value": "dead set against",
+      "options": [
+        "非常に賛成している",
+        "強く反対している",
+        "どちらでもない",
+        "条件付きで賛成している"
+      ],
+      "correctAnswer": "強く反対している",
+      "explanation": "「dead set against」は、断固として反対している、絶対に同意しないという意味です。強い拒否の意思を表す際に用いられます。"
+    },
+    {
+      "id": 87,
+      "value": "played you like a violin",
+      "options": [
+        "バイオリンのように演奏した",
+        "完全に騙した",
+        "良い影響を与えた",
+        "協力関係を築いた"
+      ],
+      "correctAnswer": "完全に騙した",
+      "explanation": "「play someone like a violin」は、人を操り、自分の意のままに動かすという意味のイディオムです。バイオリンを演奏するように、相手を巧みにコントロールする様子を表します。"
+    },
+    {
+      "id": 88,
+      "value": "Cause that’s all you need, right?",
+      "options": [
+        "他に何も必要ないよね？",
+        "他に何か必要なものある？",
+        "それで全部足りるの？",
+        "それだけで十分だよね？"
+      ],
+      "correctAnswer": "他に何も必要ないよね？",
+      "explanation": "この表現は、相手の発言や状況を受けて、皮肉やからかいのニュアンスを込めて「それだけで十分だよね？」と確認する際に使われます。相手の言葉を強調し、その滑稽さや不十分さを指摘する意図があります。"
+    },
+    {
+      "id": 89,
+      "value": "thread count",
+      "options": [
+        "話題の数",
+        "縫い目の数",
+        "糸の密度",
+        "参加者の数"
+      ],
+      "correctAnswer": "糸の密度",
+      "explanation": "「thread count」は、生地の密度を示す単位で、通常は1インチ四方あたりの縦糸と横糸の合計本数を指します。一般的に、thread countが高いほど、生地は柔らかく、高品質であるとされます。"
+    },
+    {
+      "id": 90,
+      "value": "date night's over",
+      "options": [
+        "デートの夜が始まった",
+        "デートの夜が終わった",
+        "デートの予定はない",
+        "デートはキャンセルされた"
+      ],
+      "correctAnswer": "デートの夜が終わった",
+      "explanation": "「date night's over」は、デートの時間が終了したことを意味します。カップルが定期的にデートをする習慣がある場合、その時間が終わったことを知らせる際に使われます。"
+    },
+    {
+      "id": 91,
+      "value": "suspend the parameters",
+      "options": [
+        "パラメーターを強化する",
+        "パラメーターを一時停止する",
+        "パラメーターを無視する",
+        "パラメーターを再開する"
+      ],
+      "correctAnswer": "パラメーターを一時停止する",
+      "explanation": "「suspend the parameters」は、設定された規則や制限を一時的に停止することを意味します。通常とは異なる状況や、例外的な対応が必要な場合に用いられます。"
+    },
+    {
+      "id": 92,
+      "value": "big step",
+      "options": [
+        "小さな一歩",
+        "大きな一歩",
+        "後退",
+        "現状維持"
+      ],
+      "correctAnswer": "大きな一歩",
+      "explanation": "「big step」は、重要な進展や変化を意味します。恋愛関係においては、関係が次の段階に進むことを指すことがあります。例えば、同棲を始めたり、結婚を考えたりするなどが該当します。"
+    },
+    {
+      "id": 93,
+      "value": "family-friendly",
+      "options": [
+        "家族向けでない",
+        "家族向けの",
+        "友人向けの",
+        "大人向けの"
+      ],
+      "correctAnswer": "家族向けの",
+      "explanation": "「family-friendly」は、子供を含む家族全員が楽しめる、または安心して利用できることを意味します。映画、レストラン、イベントなどでよく使われる表現です。"
+    },
+    {
+      "id": 94,
+      "value": "G-rated",
+      "options": [
+        "大人向け",
+        "子供向け",
+        "誰でも楽しめる",
+        "年齢制限あり"
+      ],
+      "correctAnswer": "誰でも楽しめる",
+      "explanation": "「G-rated」は、映画のレイティングシステムで、General Audiencesの略です。年齢に関係なく、誰でも鑑賞できる内容であることを意味します。"
+    },
+    {
+      "id": 95,
+      "value": "came up",
+      "options": [
+        "現れた",
+        "解決した",
+        "提案された",
+        "終わった"
+      ],
+      "correctAnswer": "提案された",
+      "explanation": "「come up」は様々な意味がありますが、ここでは「（問題、話題などが）持ち上がる、提案される」という意味で使われています。計画やアイデアが具体的に示される状況を表します。"
+    },
+    {
+      "id": 96,
+      "value": "just in case",
+      "options": [
+        "念のため",
+        "絶対にない",
+        "偶然に",
+        "いつも"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「just in case」は、「念のため」「万が一に備えて」という意味です。予期せぬ事態に備えて準備をしておく状況を表します。"
+    },
+    {
+      "id": 97,
+      "value": "admire preparedness",
+      "options": [
+        "準備を軽視する",
+        "準備を賞賛する",
+        "準備に反対する",
+        "準備を無視する"
+      ],
+      "correctAnswer": "準備を賞賛する",
+      "explanation": "「admire preparedness」は、準備周到さを褒め称えるという意味です。将来起こりうる事態を予測し、事前に備えておくことの重要性を認める際に使われます。"
+    },
+    {
+      "id": 98,
+      "value": "I'm good.",
+      "options": [
+        "私は元気です",
+        "大丈夫です",
+        "私は良い人です",
+        "私は満足です"
+      ],
+      "correctAnswer": "大丈夫です",
+      "explanation": "「I'm good.」は、様々な意味を持ちますが、ここでは「結構です」「大丈夫です」という意味で使われています。申し出を断る際に、丁寧に答える表現です。"
+    },
+    {
+      "id": 99,
+      "value": "want to say no",
+      "options": [
+        "ノーと言いたい",
+        "イエスと言いたい",
+        "どちらでもない",
+        "何も言いたくない"
+      ],
+      "correctAnswer": "ノーと言いたい",
+      "explanation": "「want to say no」は、断りたい気持ちがあるけれど、何らかの理由で断れない状況を表します。葛藤やためらいの感情が込められています。"
+    },
+    {
+      "id": 100,
+      "value": "glorious",
+      "options": [
+        "退屈な",
+        "素晴らしい",
+        "普通の",
+        "ひどい"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「glorious」は、非常に美しく、素晴らしいという意味です。光輝く、栄光に満ちた様子を表す形容詞で、感動や喜びを表す際に使われます。"
+    }
+  ]
+}

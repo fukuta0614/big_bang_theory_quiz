@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "T-minus",
+      "options": [
+        "プラスの時間",
+        "残り時間",
+        "目標時間",
+        "経過時間"
+      ],
+      "correctAnswer": "残り時間",
+      "explanation": "「T-minus」は、特定のイベント（この場合はチケット販売開始）までの残り時間を指す言葉で、カウントダウン形式で使われます。元々はロケット打ち上げなどで使用されていました。"
+    },
+    {
+      "id": 2,
+      "value": "come down to",
+      "options": [
+        "落ち着く",
+        "結局〜になる",
+        "立ち寄る",
+        "降りてくる"
+      ],
+      "correctAnswer": "結局〜になる",
+      "explanation": "「come down to」は、最終的に〜になる、〜に帰着するという意味です。複雑な状況やプロセスを経て、最終的な結論や結果を指し示す際に使用されます。例：It all comes down to money. (結局は金の問題だ。)"
+    },
+    {
+      "id": 3,
+      "value": "get soft on",
+      "options": [
+        "優しくなる",
+        "弱気になる",
+        "甘く見る",
+        "油断する"
+      ],
+      "correctAnswer": "弱気になる",
+      "explanation": "「get soft on」は、人に情けをかけたり、弱気になるという意味です。ここでは、チケット購入という目標に対して弱気になるな、という意味合いで使われています。"
+    },
+    {
+      "id": 4,
+      "value": "slap ... right off",
+      "options": [
+        "〜を叩き落とす",
+        "〜を素早く取り外す",
+        "〜を磨き上げる",
+        "〜を無視する"
+      ],
+      "correctAnswer": "〜を叩き落とす",
+      "explanation": "「slap ... right off」は、何かを叩いて吹き飛ばす、文字通り叩き落とすという意味です。ここでは、SheldonがLeonardのメガネを叩き落とすと脅しています。"
+    },
+    {
+      "id": 5,
+      "value": "a whole lot of",
+      "options": [
+        "少しの",
+        "たくさんの",
+        "まったく〜ない",
+        "〜という概念"
+      ],
+      "correctAnswer": "たくさんの",
+      "explanation": "「a whole lot of」は、「たくさんの〜」という意味で、数量や程度が大きいことを強調する際に用いられます。ここでは、コーヒーを飲む前に「たくさんの変なこと」が起きている、という状況を表しています。"
+    },
+    {
+      "id": 6,
+      "value": "go to the bathroom so bad",
+      "options": [
+        "トイレに行くのが嫌だ",
+        "トイレに行きたい",
+        "お風呂に行きたい",
+        "トイレを掃除したい"
+      ],
+      "correctAnswer": "トイレに行きたい",
+      "explanation": "「have to go to the bathroom so bad」は、「トイレにすごく行きたい」という意味です。「bad」はここでは程度が甚だしいことを強調しています。"
+    },
+    {
+      "id": 7,
+      "value": "diaper rash",
+      "options": [
+        "おむつかぶれ",
+        "発疹",
+        "日焼け",
+        "あせも"
+      ],
+      "correctAnswer": "おむつかぶれ",
+      "explanation": "「diaper rash」は、おむつかぶれのことです。子供がおむつを着用している際に発生する皮膚の炎症を指します。"
+    },
+    {
+      "id": 8,
+      "value": "it's live",
+      "options": [
+        "生放送だ",
+        "始まった",
+        "生きている",
+        "最新情報だ"
+      ],
+      "correctAnswer": "始まった",
+      "explanation": "「It's live」は、ここでは（チケット販売が）始まった、開始されたという意味です。文字通りには「生放送」という意味もありますが、ここでは比喩的に使われています。"
+    },
+    {
+      "id": 9,
+      "value": "run out of time",
+      "options": [
+        "時間通りに着く",
+        "時間が余る",
+        "時間がなくなる",
+        "時間を確認する"
+      ],
+      "correctAnswer": "時間がなくなる",
+      "explanation": "「run out of time」は、「時間がなくなる」という意味です。制限時間内に何かを終わらせる必要がある状況でよく使われます。"
+    },
+    {
+      "id": 10,
+      "value": "in the queue",
+      "options": [
+        "混乱して",
+        "優先的に",
+        "列に並んで",
+        "準備中で"
+      ],
+      "correctAnswer": "列に並んで",
+      "explanation": "「in the queue」は、順番待ちの列に並んでいる状態を指します。オンラインでのチケット購入やサービスの利用などでよく使われる表現です。"
+    },
+    {
+      "id": 11,
+      "value": "Damn",
+      "options": [
+        "素晴らしい",
+        "くそ",
+        "祝福",
+        "感謝"
+      ],
+      "correctAnswer": "くそ",
+      "explanation": "「Damn」は、不満、怒り、失望などを表す感嘆詞です。ここでは、チケットの順番が非常に後ろであることに対する落胆を表しています。"
+    },
+    {
+      "id": 12,
+      "value": "panels",
+      "options": [
+        "苦痛",
+        "パネルディスカッション",
+        "窓ガラス",
+        "制御盤"
+      ],
+      "correctAnswer": "パネルディスカッション",
+      "explanation": "ここでは、イベントや会議で行われるパネルディスカッションのことです。特定のテーマについて専門家が議論する場を指します。"
+    },
+    {
+      "id": 13,
+      "value": "there's always",
+      "options": [
+        "いつもそこにいる",
+        "いつも〜がある",
+        "いつも〜が存在する",
+        "いつも〜を求める"
+      ],
+      "correctAnswer": "いつも〜がある",
+      "explanation": "「there's always」は、「いつも〜がある」という意味で、代替案や希望があることを示す際に用いられます。ここでは、コミコンに行けなくても他のイベントがあるという慰めとして使われています。"
+    },
+    {
+      "id": 14,
+      "value": "in a different way",
+      "options": [
+        "同様に",
+        "異なって",
+        "同じように",
+        "類似して"
+      ],
+      "correctAnswer": "異なって",
+      "explanation": "「in a different way」は、「異なって」「違う形で」という意味です。ここでは、以前とは違った種類の悲しみを感じていることを表しています。"
+    },
+    {
+      "id": 15,
+      "value": "wasted all that time",
+      "options": [
+        "時間を節約した",
+        "時間を有効活用した",
+        "時間を無駄にした",
+        "時間を持て余した"
+      ],
+      "correctAnswer": "時間を無駄にした",
+      "explanation": "「waste time」は、「時間を無駄にする」という意味です。何かをするために費やした時間が無駄だったと感じる時に使われます。"
+    },
+    {
+      "id": 16,
+      "value": "masquerade ball",
+      "options": [
+        "仮面舞踏会",
+        "野球の試合",
+        "音楽祭",
+        "ハロウィンパーティー"
+      ],
+      "correctAnswer": "仮面舞踏会",
+      "explanation": "「masquerade ball」は、仮面舞踏会のことです。参加者が仮面をつけて参加するダンスパーティーを指します。"
+    },
+    {
+      "id": 17,
+      "value": "be back to",
+      "options": [
+        "〜に戻る",
+        "〜から離れる",
+        "〜に近づく",
+        "〜を始める"
+      ],
+      "correctAnswer": "〜に戻る",
+      "explanation": "「be back to」は、「〜に戻る」という意味です。以前の状態や感情に戻ることを表します。"
+    },
+    {
+      "id": 18,
+      "value": "keep it in your pants",
+      "options": [
+        "落ち着いて",
+        "秘密にして",
+        "真面目に考えて",
+        "自制して"
+      ],
+      "correctAnswer": "自制して",
+      "explanation": "「Keep it in your pants」は、特に性的な意味合いで、自分の衝動や欲望を抑える、自制するという意味で使われます。ここでは、チケット購入に集中するために、Pennyとの軽薄なやり取りを控えるように言っています。"
+    },
+    {
+      "id": 19,
+      "value": "refreshing your screens",
+      "options": [
+        "画面を暗くする",
+        "画面を修理する",
+        "画面を更新する",
+        "画面を消す"
+      ],
+      "correctAnswer": "画面を更新する",
+      "explanation": "「refreshing your screens」は、ウェブページの情報を更新するために画面を再読み込みすることを指します。ここでは、チケット販売サイトの情報を更新して、最新の状況を確認するために使われています。"
+    },
+    {
+      "id": 20,
+      "value": "sell out",
+      "options": [
+        "販売促進",
+        "在庫処分",
+        "売り切れる",
+        "値下げする"
+      ],
+      "correctAnswer": "売り切れる",
+      "explanation": "「sell out」は、商品やチケットなどがすべて売り切れることを意味します。特に人気のあるイベントや商品の場合、すぐに売り切れてしまうことがあります。"
+    },
+    {
+      "id": 21,
+      "value": "belles of the ball",
+      "options": [
+        "舞踏会の人気者",
+        "運動会の花形",
+        "映画のヒロイン",
+        "クラスの優等生"
+      ],
+      "correctAnswer": "舞踏会の人気者",
+      "explanation": "\"belles of the ball\" は、「舞踏会の花」または「舞踏会の人気者」を意味する表現です。ここでは、ハルクのコスチュームを着てコミコンに参加すれば、注目の的になるだろうというユーモラスな状況を表しています。"
+    },
+    {
+      "id": 22,
+      "value": "as long as",
+      "options": [
+        "〜する限り",
+        "〜にも関わらず",
+        "〜だけでなく",
+        "〜の場合には"
+      ],
+      "correctAnswer": "〜する限り",
+      "explanation": "「as long as」は、「〜する限り」という意味で、条件や前提を表す際に使用されます。ここでは、誰か一人がチケットを入手できれば、他のメンバーのチケットも購入できるという条件を示しています。"
+    },
+    {
+      "id": 23,
+      "value": "go, go, go",
+      "options": [
+        "行って、行って、行って",
+        "準備、準備、準備",
+        "急げ、急げ、急げ",
+        "頑張って、頑張って、頑張って"
+      ],
+      "correctAnswer": "急げ、急げ、急げ",
+      "explanation": "「Go, go, go」は、急いで行動するように促す表現で、強い緊急性や興奮を伴います。ここでは、チケット販売が開始された瞬間に、急いでアクセスするように促しています。"
+    },
+    {
+      "id": 24,
+      "value": "Good Lord",
+      "options": [
+        "ああ、神様",
+        "良い主人",
+        "良い教訓",
+        "良い知らせ"
+      ],
+      "correctAnswer": "ああ、神様",
+      "explanation": "「Good Lord」は、驚き、不信、または軽い感情を表す感嘆詞です。ここでは、チケット購入の競争の激しさに対するSheldonの感情を表しています。"
+    },
+    {
+      "id": 25,
+      "value": "the worst",
+      "options": [
+        "最高",
+        "最悪",
+        "普通",
+        "最高級"
+      ],
+      "correctAnswer": "最悪",
+      "explanation": "「the worst」は、「最悪の」という意味で、ここではコミコンの最終日である日曜日の状況が好ましくないことを強調しています。"
+    },
+    {
+      "id": 26,
+      "value": "scalped tickets",
+      "options": [
+        "無料のチケット",
+        "割引されたチケット",
+        "転売されたチケット",
+        "偽造されたチケット"
+      ],
+      "correctAnswer": "転売されたチケット",
+      "explanation": "「scalped tickets」は、人気のあるイベントや公演のチケットを、元の価格よりも高く転売されたものを指します。しばしば、正規の販売ルートでは入手困難なチケットを高額で手に入れる手段となります。"
+    },
+    {
+      "id": 27,
+      "value": "sting operation",
+      "options": [
+        "秘密作戦",
+        "慈善活動",
+        "広報活動",
+        "捜索活動"
+      ],
+      "correctAnswer": "秘密作戦",
+      "explanation": "「sting operation」は、警察などが犯罪者を罠にかけるために行う秘密作戦のことです。おとり捜査とも呼ばれます。ここでは、コミコンの規則違反者を捕まえるための罠ではないかという疑念が示されています。"
+    },
+    {
+      "id": 28,
+      "value": "rip that guy off",
+      "options": [
+        "尊敬する",
+        "真似をする",
+        "けなす",
+        "無視する"
+      ],
+      "correctAnswer": "真似をする",
+      "explanation": "「rip off」は、ここではアイデアを盗用する、模倣するという意味で使われています。元々は「ぼったくる」「だます」という意味ですが、文脈によっては「真似る」という意味合いになります。"
+    },
+    {
+      "id": 29,
+      "value": "sat through",
+      "options": [
+        "参加した",
+        "我慢して見た",
+        "途中で抜けた",
+        "批評した"
+      ],
+      "correctAnswer": "我慢して見た",
+      "explanation": "「sit through」は、退屈だったり不快だったりする何かを、最後まで我慢して見る、経験するという意味です。ここでは、アイアンマン2を我慢して見たという状況を表しています。"
+    },
+    {
+      "id": 30,
+      "value": "headline",
+      "options": [
+        "主催する",
+        "宣伝する",
+        "目玉になる",
+        "参加する"
+      ],
+      "correctAnswer": "目玉になる",
+      "explanation": "「headline」は、イベントやニュースの主要な出演者や話題となることを意味します。ここでは、コミックコンベンションの目玉ゲストになることを指しています。"
+    },
+    {
+      "id": 31,
+      "value": "come together",
+      "options": [
+        "崩壊する",
+        "実現する",
+        "議論する",
+        "秘密にする"
+      ],
+      "correctAnswer": "実現する",
+      "explanation": "「come together」は、計画やアイデアがまとまって実現するという意味です。ここでは、シェルドンのコミックコンベンションが実現するかどうかを Leonard が疑っています。"
+    },
+    {
+      "id": 32,
+      "value": "solid leads",
+      "options": [
+        "確かな情報源",
+        "弱い情報源",
+        "古い情報源",
+        "秘密の情報源"
+      ],
+      "correctAnswer": "確かな情報源",
+      "explanation": "「lead」は、ここでは手がかり、情報源という意味です。「solid leads」は、確かな、有望な情報源を指します。シェルドンはまだコンベンション開催に向けて有望な情報を持っていると主張しています。"
+    },
+    {
+      "id": 33,
+      "value": "pretty nuts",
+      "options": [
+        "とても賢い",
+        "とても優しい",
+        "とてもおかしい",
+        "とても怒りっぽい"
+      ],
+      "correctAnswer": "とてもおかしい",
+      "explanation": "「nuts」は、ここでは「クレイジー」「おかしい」という意味のスラングです。「pretty nuts」で「かなりおかしい」という意味になります。ここでは、キャリー・フィッシャーの奇妙な性格について言及しています。"
+    },
+    {
+      "id": 34,
+      "value": "grown-up",
+      "options": [
+        "子供っぽい",
+        "大人らしい",
+        "退屈な",
+        "秘密の"
+      ],
+      "correctAnswer": "大人らしい",
+      "explanation": "「grown-up」は、大人らしい、成熟したという意味です。ここでは、Penny、Amy、Bernadette が、Leonard たちの子供っぽい行動とは対照的に、大人らしいことをしようと提案しています。"
+    },
+    {
+      "id": 35,
+      "value": "La-dee-da",
+      "options": [
+        "悲しい",
+        "興奮した",
+        "上品ぶった",
+        "驚いた"
+      ],
+      "correctAnswer": "上品ぶった",
+      "explanation": "「La-dee-da」は、上品ぶった態度や気取った様子をからかうときに使われる表現です。ここでは、Penny がきれいな下着を持っていることを Bernadette がからかっています。"
+    },
+    {
+      "id": 36,
+      "value": "one step away from",
+      "options": [
+        "達成",
+        "失敗",
+        "保留",
+        "迷子"
+      ],
+      "correctAnswer": "達成",
+      "explanation": "「be one step away from」は、〜まであと一歩、〜まであと少しという意味です。ここでは、シェルドンがコンベンションのゲストを確保するまであと一歩だと主張しています。"
+    },
+    {
+      "id": 37,
+      "value": "duct tape",
+      "options": [
+        "医療テープ",
+        "絶縁テープ",
+        "ガムテープ",
+        "防水テープ"
+      ],
+      "correctAnswer": "ガムテープ",
+      "explanation": "「duct tape」は、強力な粘着力を持つ万能なテープです。ここでは、James Earl Jones を誘拐するのではないかという Leonard の冗談で使われています。"
+    },
+    {
+      "id": 38,
+      "value": "petty theft",
+      "options": [
+        "重罪",
+        "窃盗罪",
+        "横領罪",
+        "贈収賄罪"
+      ],
+      "correctAnswer": "窃盗罪",
+      "explanation": "「petty theft」は、軽微な窃盗罪を指します。ここでは、コミコンのチケットを不正に入手した場合に問われる可能性がある罪として言及されています。"
+    },
+    {
+      "id": 39,
+      "value": "no less",
+      "options": [
+        "以下でも以上でもない",
+        "より少なく",
+        "ましてや",
+        "少なくとも"
+      ],
+      "correctAnswer": "ましてや",
+      "explanation": "「no less」は、「〜に劣らず」「〜も同然」「ましてや」という意味合いで、強調のために使われます。ここでは、他人からチケットを買うことの危険性を強調するために使われています。"
+    },
+    {
+      "id": 40,
+      "value": "weirdoes",
+      "options": [
+        "賢者",
+        "変人",
+        "英雄",
+        "聖人"
+      ],
+      "correctAnswer": "変人",
+      "explanation": "「weirdo」は、風変わりな人、変人を指す軽蔑的な言葉です。ここでは、Twitter に自分の居場所を投稿することの危険性を警告する文脈で使われています。"
+    },
+    {
+      "id": 41,
+      "value": "running late",
+      "options": [
+        "急いでいる",
+        "遅れている",
+        "逃げている",
+        "隠れている"
+      ],
+      "correctAnswer": "遅れている",
+      "explanation": "「run late」は、予定より遅れているという意味です。ここでは、チケットの転売人が遅れている状況を表しています。"
+    },
+    {
+      "id": 42,
+      "value": "neutral location",
+      "options": [
+        "安全な場所",
+        "危険な場所",
+        "中立的な場所",
+        "秘密の場所"
+      ],
+      "correctAnswer": "中立的な場所",
+      "explanation": "「neutral location」は、誰の支配下にもない、公平な場所を指します。ここでは、チケットの転売人と会う際に、安全のために中立的な場所を選ぶべきかどうかを議論しています。"
+    },
+    {
+      "id": 43,
+      "value": "get banned from",
+      "options": [
+        "招待される",
+        "歓迎される",
+        "宣伝される",
+        "禁止される"
+      ],
+      "correctAnswer": "禁止される",
+      "explanation": "「get banned from」は、〜から禁止される、締め出されるという意味です。ここでは、コミコンから永久追放される可能性について言及されています。"
+    },
+    {
+      "id": 44,
+      "value": "on phone",
+      "options": [
+        "電話中",
+        "電話を切った",
+        "電話を待っている",
+        "電話を発明した"
+      ],
+      "correctAnswer": "電話中",
+      "explanation": "「on the phone」は、電話で話している状態を表します。このシーンでは、シェルドンが電話でコミックコンベンションのゲストを交渉している状況です。"
+    },
+    {
+      "id": 45,
+      "value": "throw me out that window",
+      "options": [
+        "窓から私を助けて",
+        "窓から私を解放して",
+        "窓から私を捨てて",
+        "窓から私を投げ出して"
+      ],
+      "correctAnswer": "窓から私を投げ出して",
+      "explanation": "「throw me out that window」は、文字通り窓から誰かを投げ捨てるという意味ですが、ここではAmyの言動が周囲をイライラさせていることを誇張して表現しています。"
+    },
+    {
+      "id": 46,
+      "value": "on the way",
+      "options": [
+        "道の途中で",
+        "出発点で",
+        "目的地で",
+        "帰宅途中で"
+      ],
+      "correctAnswer": "道の途中で",
+      "explanation": "「on the way」は、〜に向かう途中で、〜の途中でという意味です。ここでは、Targetに立ち寄って下着を買うことをPennyが提案しています。"
+    },
+    {
+      "id": 47,
+      "value": "roll of",
+      "options": [
+        "束の",
+        "一杯の",
+        "缶の",
+        "巻いた"
+      ],
+      "correctAnswer": "巻いた",
+      "explanation": "「roll of」は、巻いた状態のものを指します。ここでは、ダクトテープが巻かれた状態で言及されています。"
+    },
+    {
+      "id": 48,
+      "value": "conducted in",
+      "options": [
+        "建設された",
+        "中止された",
+        "行われた",
+        "破壊された"
+      ],
+      "correctAnswer": "行われた",
+      "explanation": "「conducted in」は、〜で行われた、〜で実施されたという意味です。ここでは、過去のインタビューが特定のレストランで行われたことを指しています。"
+    },
+    {
+      "id": 49,
+      "value": "make a suit out of",
+      "options": [
+        "スーツを改良する",
+        "スーツを捨てる",
+        "スーツを創造する",
+        "〜からスーツを作る"
+      ],
+      "correctAnswer": "〜からスーツを作る",
+      "explanation": "「make a suit out of」は、〜からスーツを作るという意味です。Rajは、チケットの転売人が自分たちの皮からスーツを作るのではないかと冗談めかして言っています。"
+    },
+    {
+      "id": 50,
+      "value": "friendly neighbourhood",
+      "options": [
+        "近所の有名な",
+        "近所の不親切な",
+        "近所の友好的な",
+        "近所の見知らぬ"
+      ],
+      "correctAnswer": "近所の友好的な",
+      "explanation": "「friendly neighborhood」は、近所の友好的な、親切なという意味です。ここでは、チケットの転売人を皮肉って表現しています。"
+    },
+    {
+      "id": 51,
+      "value": "go for a drink",
+      "options": [
+        "飲み物を買いに行く",
+        "飲みに行く",
+        "飲み物を勧める",
+        "飲み物をこぼす"
+      ],
+      "correctAnswer": "飲みに行く",
+      "explanation": "「go for a drink」は、お酒を飲みに行く、一杯飲むという意味の口語的な表現です。友人や同僚と気軽に飲みに行く際に使われます。例: After work, let's go for a drink. (仕事の後、一杯飲みに行きましょう。)"
+    },
+    {
+      "id": 52,
+      "value": "creepy stalker",
+      "options": [
+        "不気味なストーカー",
+        "奇妙な友人",
+        "熱心なファン",
+        "無害な訪問者"
+      ],
+      "correctAnswer": "不気味なストーカー",
+      "explanation": "「creepy stalker」は、気味が悪く、つきまとう人のことを指します。「creepy」は「薄気味悪い」、「stalker」は「ストーカー」という意味です。例: She felt like she was being followed by a creepy stalker. (彼女は不気味なストーカーにつけられているように感じた。)"
+    },
+    {
+      "id": 53,
+      "value": "weenie",
+      "options": [
+        "臆病者",
+        "賢者",
+        "英雄",
+        "いたずらっ子"
+      ],
+      "correctAnswer": "臆病者",
+      "explanation": "「weenie」は、臆病者、弱虫という意味のスラングです。軽蔑的な意味合いで使われることが多いです。例: Don't be such a weenie, just ask her out! (そんな弱虫になるな、彼女をデートに誘えよ！)"
+    },
+    {
+      "id": 54,
+      "value": "petty theft",
+      "options": [
+        "重罪",
+        "軽微な窃盗",
+        "詐欺",
+        "横領"
+      ],
+      "correctAnswer": "軽微な窃盗",
+      "explanation": "「petty theft」は、少額の窃盗、軽微な窃盗という意味です。一般的に、盗んだ物の価値が低い場合に適用されます。例: He was arrested for petty theft after stealing a candy bar. (彼はキャンディーバーを盗んだ後、軽微な窃盗で逮捕された。)"
+    },
+    {
+      "id": 55,
+      "value": "chicken out",
+      "options": [
+        "勇敢になる",
+        "途中で怖気づく",
+        "成功する",
+        "冷静になる"
+      ],
+      "correctAnswer": "途中で怖気づく",
+      "explanation": "「chicken out」は、土壇場で怖気づく、尻込みするという意味の口語表現です。何かをする予定だったが、怖くなってやめてしまう状況を表します。例: He was going to bungee jump, but he chickened out at the last minute. (彼はバンジージャンプをする予定だったが、土壇場で怖気づいた。)"
+    },
+    {
+      "id": 56,
+      "value": "wimping out",
+      "options": [
+        "勇敢に行動する",
+        "弱気になる",
+        "成功する",
+        "冷静になる"
+      ],
+      "correctAnswer": "弱気になる",
+      "explanation": "「wimp out」は「wimping out」のように進行形でも使われ、弱気になる、怖気づくという意味のスラングです。自信がなく、行動をためらう様子を表します。 例: Don't wimp out on me now! (今更弱気になるな！)"
+    },
+    {
+      "id": 57,
+      "value": "badass",
+      "options": [
+        "臆病者",
+        "悪党",
+        "英雄",
+        "間抜け"
+      ],
+      "correctAnswer": "悪党",
+      "explanation": "「badass」は、かっこいい悪党、凄腕、勇敢な人という意味のスラングです。危険な状況でも動じず、自分の信念を貫く人を指します。例: He's a real badass; he doesn't care what people think. (彼は本物の悪党だ。彼は人がどう思おうと気にしない。)"
+    },
+    {
+      "id": 58,
+      "value": "pinky-swear",
+      "options": [
+        "口約束",
+        "誓約",
+        "契約",
+        "嘘"
+      ],
+      "correctAnswer": "誓約",
+      "explanation": "「pinky swear」は、小指を絡ませてする約束、固い誓いという意味です。子供の間でよく使われますが、大人でも親しい間柄で使うことがあります。例: I pinky-swear I'll keep your secret. (あなたの秘密を守ると約束するよ。)"
+    },
+    {
+      "id": 59,
+      "value": "straight out of the bottle",
+      "options": [
+        "瓶から直接",
+        "コップに入れて",
+        "薄めて",
+        "温めて"
+      ],
+      "correctAnswer": "瓶から直接",
+      "explanation": "「straight out of the bottle」は、瓶から直接、容器から直接という意味です。通常は、何かを別の容器に移さずに直接飲む、食べる場合に使われます。例: He drank the soda straight out of the bottle. (彼はソーダを瓶から直接飲んだ。)"
+    },
+    {
+      "id": 60,
+      "value": "messed up",
+      "options": [
+        "整理整頓された",
+        "混乱した",
+        "幸せな",
+        "冷静な"
+      ],
+      "correctAnswer": "混乱した",
+      "explanation": "「messed up」は、混乱した、めちゃくちゃになった、精神的に不安定な状態などを意味する口語表現です。状況や感情が正常でない状態を表します。例：My life is so messed up right now. (私の人生は今、とても混乱している。)"
+    },
+    {
+      "id": 61,
+      "value": "residual cheque",
+      "options": [
+        "給料",
+        "残余報酬の小切手",
+        "税金",
+        "借金"
+      ],
+      "correctAnswer": "残余報酬の小切手",
+      "explanation": "「residual check」とは、映画やテレビ番組などが再放送されたり、DVDやストリーミングで販売されたりした際に、出演者や製作者に支払われる残余報酬の小切手のことです。"
+    },
+    {
+      "id": 62,
+      "value": "burning a hole in my pocket",
+      "options": [
+        "お金がない",
+        "お金を使いたくてたまらない",
+        "ポケットが破れている",
+        "お金を隠している"
+      ],
+      "correctAnswer": "お金を使いたくてたまらない",
+      "explanation": "「burning a hole in my pocket」は、お金が手元にあるとすぐに使いたくなる、お金を持て余しているという意味のイディオムです。例：I just got my paycheck, and it's burning a hole in my pocket. (給料をもらったばかりで、お金を使いたくてたまらない。)"
+    },
+    {
+      "id": 63,
+      "value": "on the bright side",
+      "options": [
+        "明るい場所で",
+        "幸運なことに",
+        "否定的な面では",
+        "秘密に"
+      ],
+      "correctAnswer": "幸運なことに",
+      "explanation": "「on the bright side」は、良い面を見れば、前向きに考えるとという意味のイディオムです。困難な状況でも、希望を見出そうとする際に使われます。例：On the bright side, we didn't get lost. (良い面を見れば、私たちは迷子にならなかった。)"
+    },
+    {
+      "id": 64,
+      "value": "Not gonna lie",
+      "options": [
+        "嘘をつくつもりはない",
+        "本当のことを言う",
+        "秘密を守る",
+        "冗談を言うつもりはない"
+      ],
+      "correctAnswer": "嘘をつくつもりはない",
+      "explanation": "「Not gonna lie」は、正直に言うと、隠さずに言うとという意味の口語表現です。自分の気持ちや意見を率直に伝えたい時に使われます。 例：Not gonna lie, I'm a little nervous about the presentation. (正直に言うと、プレゼンテーションについて少し緊張している。)"
+    },
+    {
+      "id": 65,
+      "value": "have you beat",
+      "options": [
+        "打ち負かす",
+        "助ける",
+        "尊敬する",
+        "無視する"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "「have you beat」は、相手を打ち負かす、相手よりも優位に立つという意味です。競争や比較の文脈で使われます。例: I think I have you beat in this game. (このゲームでは私が勝っていると思う。)"
+    },
+    {
+      "id": 66,
+      "value": "on his way up",
+      "options": [
+        "落ち込んでいる",
+        "昇進している",
+        "向かっている",
+        "逃げている"
+      ],
+      "correctAnswer": "向かっている",
+      "explanation": "「on his way up」は、上に向かっている、こちらに向かっているという意味です。物理的な移動だけでなく、キャリアアップなどの比喩的な意味でも使われます。例: He's on his way up the corporate ladder. (彼は会社で昇進している。)"
+    },
+    {
+      "id": 67,
+      "value": "dressed up",
+      "options": [
+        "着飾って",
+        "着崩して",
+        "汚れて",
+        "濡れて"
+      ],
+      "correctAnswer": "着飾って",
+      "explanation": "「dressed up」は、着飾る、おしゃれをするという意味です。普段よりも特別な服装をする場合に使われます。例：She dressed up for the party. (彼女はパーティーのために着飾った。)"
+    },
+    {
+      "id": 68,
+      "value": "Care to join me?",
+      "options": [
+        "参加しませんか？",
+        "手伝ってもらえますか？",
+        "邪魔してもいいですか？",
+        "気にしますか？"
+      ],
+      "correctAnswer": "参加しませんか？",
+      "explanation": "「Care to join me?」は、一緒にどうですか？、参加しませんか？という意味の丁寧な誘いの表現です。食事やアクティビティなどを誰かに勧める際に使われます。例：I'm going to get some coffee. Care to join me? (コーヒーを買いに行きます。一緒にどうですか？)"
+    },
+    {
+      "id": 69,
+      "value": "message board",
+      "options": [
+        "伝言板",
+        "掲示板",
+        "会議室",
+        "広告"
+      ],
+      "correctAnswer": "掲示板",
+      "explanation": "「message board」は、オンライン掲示板、フォーラムという意味です。特定のテーマについて意見交換や情報共有を行う場所を指します。例：I found the answer on a message board. (掲示板で答えを見つけた。)"
+    },
+    {
+      "id": 70,
+      "value": "changed our minds",
+      "options": [
+        "意見を変えた",
+        "約束を守った",
+        "忘れ物を取りに行った",
+        "道に迷った"
+      ],
+      "correctAnswer": "意見を変えた",
+      "explanation": "「changed our minds」は、考えを変えた、気が変わったという意味です。以前の決定や計画を覆す場合に使われます。例：We changed our minds about going to the beach. (私たちはビーチに行くのをやめることにした。)"
+    },
+    {
+      "id": 71,
+      "value": "struggle with",
+      "options": [
+        "成功する",
+        "苦労する",
+        "楽しむ",
+        "無視する"
+      ],
+      "correctAnswer": "苦労する",
+      "explanation": "「struggle with」は、～に苦労する、～と格闘するという意味です。困難な問題や課題に直面し、努力している状態を表します。例：I struggle with math. (私は数学に苦労している。)"
+    },
+    {
+      "id": 72,
+      "value": "slip and fall",
+      "options": [
+        "成功する",
+        "滑って転ぶ",
+        "休憩する",
+        "秘密にする"
+      ],
+      "correctAnswer": "滑って転ぶ",
+      "explanation": "「slip and fall」は、滑って転ぶという意味です。事故や怪我の状況を説明する際に使われます。例：He slipped and fell on the ice. (彼は氷の上で滑って転んだ。)"
+    },
+    {
+      "id": 73,
+      "value": "wet myself",
+      "options": [
+        "服を濡らす",
+        "泣く",
+        "笑い転げる",
+        "おもらしする"
+      ],
+      "correctAnswer": "おもらしする",
+      "explanation": "「wet myself」は、おもらしをする、失禁するという意味です。通常、非常に驚いたり、怖がったり、または非常に笑ったりした結果として起こる生理現象を指します。例：The joke was so funny I almost wet myself. (その冗談はとても面白くて、おもらししそうになった。)"
+    },
+    {
+      "id": 74,
+      "value": "pretending",
+      "options": [
+        "正直に話す",
+        "ふりをしている",
+        "本気で考えている",
+        "忘れている"
+      ],
+      "correctAnswer": "ふりをしている",
+      "explanation": "「pretending」は、ふりをしている、装っているという意味です。本当の自分とは違う姿を見せようとする場合に使われます。例：She was just pretending to be interested. (彼女は興味があるふりをしていただけだ。)"
+    },
+    {
+      "id": 75,
+      "value": "bust",
+      "options": [
+        "成功",
+        "失敗",
+        "秘密",
+        "幸運"
+      ],
+      "correctAnswer": "失敗",
+      "explanation": "「bust」は、「a bust」の形で、失敗、不発、うまくいかないこと、という意味です。計画や試みがうまくいかなかった時に使われます。例：The party was a bust because no one showed up. (誰も来なかったので、パーティーは失敗だった。)"
+    },
+    {
+      "id": 76,
+      "value": "slapped with a fine",
+      "options": [
+        "罰金を科せられる",
+        "褒められる",
+        "昇進する",
+        "無視される"
+      ],
+      "correctAnswer": "罰金を科せられる",
+      "explanation": "「slap (someone) with (something)」は、人に何かを押し付ける、科すという意味です。この場合は、罰金を科せられるという意味になります。軽い犯罪や違反に対して使われることが多いです。\n\n例：The company was slapped with a hefty fine for polluting the river. (その会社は川を汚染したため、多額の罰金を科せられた。)"
+    },
+    {
+      "id": 77,
+      "value": "bad boy",
+      "options": [
+        "悪い少年",
+        "反逆者",
+        "英雄",
+        "模範的な人"
+      ],
+      "correctAnswer": "反逆者",
+      "explanation": "「bad boy」は、伝統やルールを破る、反抗的な性格の男性を指します。必ずしも悪い意味ではなく、魅力的な反逆者という意味合いで使われることもあります。\n\n例：He is known as the bad boy of the art world. (彼は美術界の反逆者として知られている。)"
+    },
+    {
+      "id": 78,
+      "value": "come up",
+      "options": [
+        "発生する",
+        "解決する",
+        "隠蔽する",
+        "なくなる"
+      ],
+      "correctAnswer": "発生する",
+      "explanation": "「come up」は、話題や問題が持ち上がる、発生するという意味です。予期していなかった事柄や、議論の場で取り上げられる場合に用いられます。\n\n例：The issue came up during the meeting. (その問題は会議中に持ち上がった。)"
+    },
+    {
+      "id": 79,
+      "value": "disclose",
+      "options": [
+        "開示する",
+        "秘密にする",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "開示する",
+      "explanation": "「disclose」は、秘密にしていた情報や事実を公にする、開示するという意味です。法的な義務や倫理的な観点から、情報公開が求められる状況で使われることが多いです。\n\n例：Companies are required to disclose their financial information. (企業は財務情報を開示することが義務付けられている。)"
+    },
+    {
+      "id": 80,
+      "value": "handle this",
+      "options": [
+        "これに対処する",
+        "これを無視する",
+        "これを隠す",
+        "これを複雑にする"
+      ],
+      "correctAnswer": "これに対処する",
+      "explanation": "「handle」は、問題や状況に対処する、処理するという意味です。困難な状況や複雑な問題に対して、解決策を見つけたり、適切な行動を取ることを指します。\n\n例：I can handle this situation. (この状況は私に対処できます。)"
+    },
+    {
+      "id": 81,
+      "value": "badass",
+      "options": [
+        "臆病者",
+        "勇敢な人",
+        "ずる賢い人",
+        "お人好し"
+      ],
+      "correctAnswer": "勇敢な人",
+      "explanation": "「badass」は、非常に勇敢で、タフな人、あるいは反抗的な態度を持つ人を指します。尊敬や羨望の念を込めて使われることもありますが、文脈によってはネガティブな意味合いも持ちます。\n\n例：He's a true badass. (彼は真の勇敢者だ。)"
+    },
+    {
+      "id": 82,
+      "value": "functionally mute",
+      "options": [
+        "完全に沈黙している",
+        "機能的に口がきけない",
+        "非常に饒舌である",
+        "コミュニケーション能力が高い"
+      ],
+      "correctAnswer": "機能的に口がきけない",
+      "explanation": "「functionally mute」は、身体的な障害ではなく、心理的な理由で話すことができない状態を指します。選択性緘黙などが該当します。\n\n例：The child was functionally mute at school. (その子は学校で機能的に口がきけなかった。)"
+    },
+    {
+      "id": 83,
+      "value": "pre-med",
+      "options": [
+        "医学部準備課程",
+        "法学部準備課程",
+        "工学部準備課程",
+        "経済学部準備課程"
+      ],
+      "correctAnswer": "医学部準備課程",
+      "explanation": "「pre-med」は、医学部進学を目指す大学生が履修する準備課程を指します。医学部入学に必要な科目を重点的に学びます。\n\n例：She was pre-med in college. (彼女は大学で医学部準備課程だった。)"
+    },
+    {
+      "id": 84,
+      "value": "for starters",
+      "options": [
+        "まず第一に",
+        "最後に",
+        "途中で",
+        "詳細には"
+      ],
+      "correctAnswer": "まず第一に",
+      "explanation": "「for starters」は、議論やリストの最初に提示する理由や例を導入する際に使われる表現です。「まず第一に」という意味合いを持ちます。\n\n例：For starters, it's too expensive. (まず第一に、それは高すぎる。)"
+    },
+    {
+      "id": 85,
+      "value": "splitting this check",
+      "options": [
+        "小切手を分割する",
+        "勘定を割り勘にする",
+        "小切手を隠す",
+        "小切手を燃やす"
+      ],
+      "correctAnswer": "勘定を割り勘にする",
+      "explanation": "「split the check」は、レストランなどで勘定を割り勘にするという意味です。複数人で食事をした際に、費用を均等に分担することを指します。\n\n例：Let's split the check evenly. (勘定を均等に割り勘にしましょう。)"
+    },
+    {
+      "id": 86,
+      "value": "knocked your mirror off",
+      "options": [
+        "鏡を磨いた",
+        "鏡を盗んだ",
+        "鏡を壊した",
+        "鏡を落とした"
+      ],
+      "correctAnswer": "鏡を壊した",
+      "explanation": "「knock off」は、何かにぶつかって物を落とす、または壊すという意味です。この場合は、車のミラーが何かにぶつかって外れたことを指しています。\n\n例：He accidentally knocked the vase off the table. (彼は誤ってテーブルから花瓶を落とした。)"
+    },
+    {
+      "id": 87,
+      "value": "use",
+      "options": [
+        "使う",
+        "拒否する",
+        "破壊する",
+        "隠す"
+      ],
+      "correctAnswer": "使う",
+      "explanation": "「use」は、何かを利用する、使うという意味です。一般的な動詞ですが、文脈によって様々な意味合いを持ちます。\n\n例：I always use the little cup. (私はいつも小さいカップを使います。)"
+    },
+    {
+      "id": 88,
+      "value": "nicer than you think",
+      "options": [
+        "思っているより優しい",
+        "思っているより厳しい",
+        "思っているより賢い",
+        "思っているより愚か"
+      ],
+      "correctAnswer": "思っているより優しい",
+      "explanation": "「nicer than you think」は、人が予想以上に親切で友好的であることを表す表現です。先入観や偏見を覆すニュアンスがあります。\n\n例：He is nicer than you think. (彼は思っているより優しいよ。)"
+    },
+    {
+      "id": 89,
+      "value": "bring it home",
+      "options": [
+        "持ち帰る",
+        "最高潮に持っていく",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "最高潮に持っていく",
+      "explanation": "「bring it home」は、パフォーマンスや活動を最高潮に持っていく、成功させるという意味です。特に音楽やスポーツの分野でよく使われます。\n\n例：He really brought it home at the end of the song. (彼は曲の最後で本当に最高潮に持っていった。)"
+    },
+    {
+      "id": 90,
+      "value": "get ready to run",
+      "options": [
+        "走る準備をする",
+        "逃げる準備をする",
+        "戦う準備をする",
+        "隠れる準備をする"
+      ],
+      "correctAnswer": "逃げる準備をする",
+      "explanation": "「get ready to run」は、危険な状況や予期せぬ事態に遭遇した際に、逃げる準備をするという意味です。文字通り走って逃げる場合もあれば、比喩的に状況から逃れる場合もあります。\n\n例：We need to get ready to run if the police come. (警察が来たら逃げる準備をしなければならない。)"
+    },
+    {
+      "id": 91,
+      "value": "perfect end",
+      "options": [
+        "完璧な終わり",
+        "最悪の終わり",
+        "中途半端な終わり",
+        "意外な終わり"
+      ],
+      "correctAnswer": "完璧な終わり",
+      "explanation": "「perfect end」は、何かが理想的な形で終わることを意味します。満足感や達成感を表す際に用いられます。\n\n例：This is the perfect end to a wonderful day. (これは素晴らしい一日の完璧な終わりだ。)"
+    },
+    {
+      "id": 92,
+      "value": "panelist",
+      "options": [
+        "パネリスト",
+        "観客",
+        "司会者",
+        "主催者"
+      ],
+      "correctAnswer": "パネリスト",
+      "explanation": "「panelist」は、パネルディスカッションに参加する専門家や著名人を指します。特定のテーマについて意見を述べたり、質問に答えたりする役割を担います。\n\n例：She was a panelist at the conference. (彼女は会議のパネリストだった。)"
+    },
+    {
+      "id": 93,
+      "value": "right across the border",
+      "options": [
+        "国境のすぐそば",
+        "国境から遠く離れて",
+        "国境を越えて",
+        "国境の内側"
+      ],
+      "correctAnswer": "国境のすぐそば",
+      "explanation": "「right across the border」は、国境のすぐ近くにある場所や地域を指します。地理的な近さを強調する際に用いられます。\n\n例：The town is right across the border. (その町は国境のすぐそばにある。)"
+    },
+    {
+      "id": 94,
+      "value": "wake up",
+      "options": [
+        "起きる",
+        "寝る",
+        "集中する",
+        "忘れる"
+      ],
+      "correctAnswer": "起きる",
+      "explanation": "「wake up」は、眠りから覚める、目を覚ますという意味です。比喩的に、注意を喚起したり、現実を認識させる意味合いで使われることもあります。\n\n例：Wake up, Sheldon. (起きて、シェルドン。)"
+    },
+    {
+      "id": 95,
+      "value": "sic the dogs on us",
+      "options": [
+        "犬をけしかける",
+        "犬を可愛がる",
+        "犬を訓練する",
+        "犬を避ける"
+      ],
+      "correctAnswer": "犬をけしかける",
+      "explanation": "「sic (someone or something) on (someone or something)」は、犬などの動物をけしかけて攻撃させるという意味です。比喩的に、人を攻撃させる場合にも用いられます。\n\n例：He sicced his dog on the burglar. (彼は泥棒に犬をけしかけた。)"
+    },
+    {
+      "id": 96,
+      "value": "freak out",
+      "options": [
+        "落ち着く",
+        "取り乱す",
+        "喜ぶ",
+        "悲しむ"
+      ],
+      "correctAnswer": "取り乱す",
+      "explanation": "「freak out」は、非常に興奮する、取り乱す、パニックになるという意味です。良い意味でも悪い意味でも使われますが、多くの場合、ネガティブな感情を表します。\n\n例：Don't freak out. (取り乱さないで。)"
+    },
+    {
+      "id": 97,
+      "value": "run like hell",
+      "options": [
+        "地獄のように走る",
+        "猛スピードで逃げる",
+        "ゆっくり歩く",
+        "立ち止まる"
+      ],
+      "correctAnswer": "猛スピードで逃げる",
+      "explanation": "「run like hell」は、非常に速く走る、猛スピードで逃げるという意味です。危険な状況や緊急事態から逃れる際に使われることが多いです。\n\n例：We ran like hell when we saw the bear. (クマを見た時、私たちは猛スピードで逃げた。)"
+    },
+    {
+      "id": 98,
+      "value": "a lot of fun",
+      "options": [
+        "とても楽しい",
+        "とても退屈",
+        "少しだけ楽しい",
+        "楽しくない"
+      ],
+      "correctAnswer": "とても楽しい",
+      "explanation": "「a lot of fun」は、非常に楽しい、面白いという意味です。ポジティブな感情や経験を表現する際に用いられます。\n\n例：That was a lot of fun. (それはとても楽しかった。)"
+    },
+    {
+      "id": 99,
+      "value": "go under the water",
+      "options": [
+        "水に潜る",
+        "水面を歩く",
+        "水面で浮く",
+        "水を飲む"
+      ],
+      "correctAnswer": "水に潜る",
+      "explanation": "「go under the water」は、水中に潜る、水面下に入るという意味です。水泳やダイビングなどの文脈でよく使われます。\n\n例：I went under the water to cool off. (私は涼むために水に潜った。)"
+    },
+    {
+      "id": 100,
+      "value": "sloshes all over",
+      "options": [
+        "こぼれる",
+        "吸収される",
+        "蒸発する",
+        "凍る"
+      ],
+      "correctAnswer": "こぼれる",
+      "explanation": "「slosh」は、液体が容器からこぼれたり、揺れ動いたりする様子を表す動詞です。「sloshes all over」は、液体が広範囲にこぼれる様子を強調しています。\n\n例：The water sloshed all over the floor. (水が床一面にこぼれた。)"
+    }
+  ]
+}

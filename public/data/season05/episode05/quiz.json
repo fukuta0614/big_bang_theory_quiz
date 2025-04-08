@@ -1,0 +1,1120 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "off the top of my head",
+      "options": [
+        "秘密裏に",
+        "すぐに思いつく",
+        "詳細に調べて",
+        "過去の経験から"
+      ],
+      "correctAnswer": "すぐに思いつく",
+      "explanation": "「off the top of my head」は、特に準備や調査をせずに、すぐに思いつくという意味です。考え込む時間がない時に、即座にアイデアや意見を述べる際に使われます。\n\n例：Off the top of my head, I'd say we need about ten more people. (すぐに思いつくのは、あと10人くらい必要だということです。)"
+    },
+    {
+      "id": 2,
+      "value": "fair enough",
+      "options": [
+        "不公平だ",
+        "まあ、いいだろう",
+        "とても良い",
+        "間違っている"
+      ],
+      "correctAnswer": "まあ、いいだろう",
+      "explanation": "「fair enough」は、相手の言い分や提案に対して、納得はしていないものの、一応理解を示し、受け入れる際に使われる表現です。必ずしも同意しているわけではなく、議論を終わらせるためや、譲歩する意思を示すためにも使われます。\n\n例：I don't agree, but fair enough. (同意はしないが、まあ、いいだろう。)"
+    },
+    {
+      "id": 3,
+      "value": "sweatshop",
+      "options": [
+        "庭",
+        "遊園地",
+        "搾取工場",
+        "食料品店"
+      ],
+      "correctAnswer": "搾取工場",
+      "explanation": "「sweatshop」は、劣悪な労働条件で労働者を搾取する工場を指します。低賃金、長時間労働、不衛生な環境などが特徴です。社会問題として取り上げられることが多い言葉です。\n\n例：The clothes were made in a sweatshop. (その服は搾取工場で作られた。)"
+    },
+    {
+      "id": 4,
+      "value": "go for it",
+      "options": [
+        "諦める",
+        "挑戦する",
+        "反対する",
+        "無視する"
+      ],
+      "correctAnswer": "挑戦する",
+      "explanation": "「go for it」は、何かをやってみる、挑戦するという意味で使われます。誰かを励ます時や、自分自身を奮い立たせる時にも使えます。\n\n例：You should go for it! (挑戦してみるべきだよ！)"
+    },
+    {
+      "id": 5,
+      "value": "put a price on",
+      "options": [
+        "無料にする",
+        "価格をつける",
+        "価値を下げる",
+        "宣伝する"
+      ],
+      "correctAnswer": "価格をつける",
+      "explanation": "「put a price on」は、文字通りには価格をつけるという意味ですが、比喩的には価値を評価するという意味合いでも使われます。金銭的な価値だけでなく、重要性や評価を表す際にも用いられます。\n\n例：It's hard to put a price on happiness. (幸せに値段をつけるのは難しい。)"
+    },
+    {
+      "id": 6,
+      "value": "steep",
+      "options": [
+        "緩やかな",
+        "急な",
+        "安い",
+        "平らな"
+      ],
+      "correctAnswer": "急な",
+      "explanation": "「steep」は、ここでは価格が「法外な、高い」という意味で使われています。元々は「傾斜が急な」という意味ですが、価格や要求などが過剰な場合にも用いられます。\n\n例：The prices are very steep. (値段がとても高い。)"
+    },
+    {
+      "id": 7,
+      "value": "hang on",
+      "options": [
+        "続ける",
+        "待つ",
+        "手放す",
+        "出発する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、ここでは「ちょっと待って」という意味で使われています。相手の発言を遮ったり、注意を引いたりする際に用いられます。また、電話を切らずに待つ場合にも使われます。\n\n例：Hang on a second, I'll check. (ちょっと待って、確認します。)"
+    },
+    {
+      "id": 8,
+      "value": "kidding",
+      "options": [
+        "真剣な",
+        "冗談を言っている",
+        "怒っている",
+        "悲しい"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「kidding」は、「冗談を言っている」という意味です。相手の発言や提案に対して、信じられない気持ちや驚きを表す際に使われます。Are you kidding me? (冗談でしょ？)という形でよく使われます。\n\n例：Are you kidding? That's amazing! (冗談でしょ？すごいね！)"
+    },
+    {
+      "id": 9,
+      "value": "discount",
+      "options": [
+        "割引",
+        "追加料金",
+        "税金",
+        "手数料"
+      ],
+      "correctAnswer": "割引",
+      "explanation": "「discount」は、価格を下げる、割引するという意味です。ここでは、友人や家族に対する特別な割引を指しています。小売店などでよく使われる言葉です。\n\n例：I got a discount on this shirt. (このシャツは割引で買いました。)"
+    },
+    {
+      "id": 10,
+      "value": "honoured",
+      "options": [
+        "軽蔑された",
+        "光栄に思う",
+        "無視された",
+        "退屈した"
+      ],
+      "correctAnswer": "光栄に思う",
+      "explanation": "「honored」は、「光栄に思う、名誉に感じる」という意味です。特別な機会や称号を与えられた際に、感謝の気持ちを表すために使われます。スペルはアメリカ英語では\"honored\", イギリス英語では\"honoured\"となります。\n\n例：I am honored to be here. (ここにいられることを光栄に思います。)"
+    },
+    {
+      "id": 11,
+      "value": "shut up",
+      "options": [
+        "立ち上がる",
+        "黙る",
+        "座る",
+        "歌う"
+      ],
+      "correctAnswer": "黙る",
+      "explanation": "「shut up」は、相手に「黙れ」と命令する非常に直接的な表現です。親しい間柄で冗談交じりに使われることもありますが、基本的には失礼な言い方なので、使用には注意が必要です。\n\n例：Will you shut up? I'm trying to concentrate. (黙ってくれる？集中しようとしているんだ。)"
+    },
+    {
+      "id": 12,
+      "value": "final offer",
+      "options": [
+        "最初の提案",
+        "最終提案",
+        "秘密の取引",
+        "偽りの約束"
+      ],
+      "correctAnswer": "最終提案",
+      "explanation": "「final offer」は、交渉の際に、これ以上条件を譲歩しないという最終的な提案を意味します。これを受け入れなければ交渉は決裂するという強い意志表示です。\n\n例：This is my final offer, take it or leave it. (これが私の最終提案です。受け入れるか、さもなくば結構です。)"
+    },
+    {
+      "id": 13,
+      "value": "killing me",
+      "options": [
+        "喜ばせている",
+        "困らせている",
+        "助けている",
+        "無視している"
+      ],
+      "correctAnswer": "困らせている",
+      "explanation": "「killing me」は、ここでは「困らせる、苦しめる」という意味で使われています。比喩的な表現で、相手の行動や言動によって自分が非常に困っている状況を表します。\n\n例：This weather is killing me. (この天気には参るよ。)"
+    },
+    {
+      "id": 14,
+      "value": "throw in",
+      "options": [
+        "捨てる",
+        "追加する",
+        "取り除く",
+        "隠す"
+      ],
+      "correctAnswer": "追加する",
+      "explanation": "「throw in」は、交渉や取引の際に、おまけとして何かを追加するという意味です。相手を喜ばせたり、取引を成立させたりするために使われます。\n\n例：I'll throw in a free case. (無料のケースをお付けします。)"
+    },
+    {
+      "id": 15,
+      "value": "question the importance",
+      "options": [
+        "重要性を認める",
+        "重要性を疑う",
+        "重要性を無視する",
+        "重要性を強調する"
+      ],
+      "correctAnswer": "重要性を疑う",
+      "explanation": "「question the importance」は、文字通りには「重要性を疑う」という意味ですが、ここでは、価値や意義を疑問視するというニュアンスで使われています。相手の価値観や考え方に対して異議を唱える際に用いられます。\n\n例：I question the importance of this meeting. (この会議の重要性を疑問視します。)"
+    },
+    {
+      "id": 16,
+      "value": "make up for",
+      "options": [
+        "埋め合わせる",
+        "無視する",
+        "批判する",
+        "隠す"
+      ],
+      "correctAnswer": "埋め合わせる",
+      "explanation": "「make up for」は、不足や欠点を補う、埋め合わせるという意味です。過去の過ちや失敗を償う際にも使われます。\n\n例：I'll make up for it. (埋め合わせます。)"
+    },
+    {
+      "id": 17,
+      "value": "street smarts",
+      "options": [
+        "通りの名前",
+        "法律知識",
+        "世渡り上手",
+        "学術知識"
+      ],
+      "correctAnswer": "世渡り上手",
+      "explanation": "「street smarts」は、学校で学ぶ知識ではなく、実社会で生きていくための知恵や能力を指します。機転がきく、状況判断に優れるといった意味合いが含まれます。\n\n例：He's got a lot of street smarts. (彼は世渡り上手だ。)"
+    },
+    {
+      "id": 18,
+      "value": "stop by",
+      "options": [
+        "立ち寄る",
+        "出発する",
+        "通り過ぎる",
+        "帰宅する"
+      ],
+      "correctAnswer": "立ち寄る",
+      "explanation": "「stop by」は、どこかに立ち寄る、ちょっと訪問するという意味です。気軽に訪問するニュアンスが含まれています。\n\n例：I might stop by later. (後で立ち寄るかもしれません。)"
+    },
+    {
+      "id": 19,
+      "value": "alternate cover",
+      "options": [
+        "代替カバー",
+        "公式カバー",
+        "標準カバー",
+        "オリジナルカバー"
+      ],
+      "correctAnswer": "代替カバー",
+      "explanation": "「alternate cover」は、書籍やコミックなどで、通常版とは異なるデザインのカバーのことです。限定版や特別版として販売されることが多いです。\n\n例：I have the alternate cover of this comic book. (このコミックの代替カバーを持っています。)"
+    },
+    {
+      "id": 20,
+      "value": "good deal",
+      "options": [
+        "悪い取引",
+        "良い取引",
+        "秘密の取引",
+        "違法な取引"
+      ],
+      "correctAnswer": "良い取引",
+      "explanation": "「good deal」は、良い取引、お買い得という意味です。価格や条件などが自分にとって有利な場合に用いられます。\n\n例：That's a good deal! (それはお買い得だ！)"
+    },
+    {
+      "id": 21,
+      "value": "sucker",
+      "options": [
+        "賢い人",
+        "騙されやすい人",
+        "正直な人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "騙されやすい人",
+      "explanation": "「sucker」は、騙されやすい人、カモという意味です。相手が不当に高い価格で物を買ったり、不利な条件で契約したりした場合に使われます。\n\n例：He's a sucker for a good deal. (彼はお得な取引に弱い。)"
+    },
+    {
+      "id": 22,
+      "value": "What do I owe you?",
+      "options": [
+        "何が欲しいですか？",
+        "いくらですか？",
+        "何をするべきですか？",
+        "どう思いますか？"
+      ],
+      "correctAnswer": "いくらですか？",
+      "explanation": "「What do I owe you?」は、相手に支払うべき金額を尋ねる際に使われる表現です。会計時や、サービスを受けた後などに用いられます。\n\n例：What do I owe you for the coffee? (コーヒー代はいくらですか？)"
+    },
+    {
+      "id": 23,
+      "value": "hoping",
+      "options": [
+        "あきらめている",
+        "期待している",
+        "後悔している",
+        "疑っている"
+      ],
+      "correctAnswer": "期待している",
+      "explanation": "「hoping」は、何か良いことや期待する出来事が起こることを願う気持ちを表します。未来に対するポジティブな期待感を示唆する言葉です。\n\n例：I am hoping to see you again soon. (近いうちにまた会えることを願っています。)"
+    },
+    {
+      "id": 24,
+      "value": "of course",
+      "options": [
+        "たぶん",
+        "もちろん",
+        "絶対にない",
+        "どうでもいい"
+      ],
+      "correctAnswer": "もちろん",
+      "explanation": "「of course」は、「当然だ、もちろん」という意味で、相手の質問や提案に対して強く同意する際に使われます。確信や同意の度合いが高いことを示します。\n\n例：\"Can you help me?\" \"Of course!\" (「手伝ってくれますか？」「もちろん！」)"
+    },
+    {
+      "id": 25,
+      "value": "invited",
+      "options": [
+        "拒否された",
+        "招待された",
+        "無視された",
+        "非難された"
+      ],
+      "correctAnswer": "招待された",
+      "explanation": "「invited」は、招待された、という意味です。誰かのイベントや集まりに参加するように頼まれた状態を表します。受動的な立場を表す言葉です。\n\n例：I was invited to a party. (パーティーに招待されました。)"
+    },
+    {
+      "id": 26,
+      "value": "sworn enemy",
+      "options": [
+        "親友",
+        "誓いを立てた仲間",
+        "宿敵",
+        "尊敬する人"
+      ],
+      "correctAnswer": "宿敵",
+      "explanation": "「sworn enemy」は、憎しみや敵意を公にしている、または深く根ざした敵という意味です。単なる敵ではなく、敵意が明確で、しばしば長期間にわたる関係で使われます。\n\n例：He is my sworn enemy and I will never forgive him."
+    },
+    {
+      "id": 27,
+      "value": "fiasco",
+      "options": [
+        "成功",
+        "祭典",
+        "完全な失敗",
+        "陰謀"
+      ],
+      "correctAnswer": "完全な失敗",
+      "explanation": "「fiasco」は、完全に失敗した状況、特に計画やイベントが大失敗に終わることを指します。予想外の問題や不手際が原因で、期待とは全く異なる結果になる場合に使われます。\n\n例：The party was a complete fiasco because nobody showed up."
+    },
+    {
+      "id": 28,
+      "value": "storming out",
+      "options": [
+        "静かに去る",
+        "嵐の中を歩く",
+        "激怒して出ていく",
+        "冷静に議論する"
+      ],
+      "correctAnswer": "激怒して出ていく",
+      "explanation": "「storm out」は、怒りや不満を表に出して、激しい勢いで場所を去ることを意味します。感情が高ぶっている状況で、しばしばドアを強く閉めるなどの行為を伴います。\n\n例：He stormed out of the meeting after they rejected his proposal."
+    },
+    {
+      "id": 29,
+      "value": "sausage-fest",
+      "options": [
+        "ソーセージ祭り",
+        "男性ばかりの集まり",
+        "豪華なパーティー",
+        "美食の祭典"
+      ],
+      "correctAnswer": "男性ばかりの集まり",
+      "explanation": "「sausage-fest」は、俗語で、男性ばかりが集まっている状況を指します。しばしば、女性がいない、または非常に少ない集まりを軽蔑的に表現する際に用いられます。\n\n例：That conference was a real sausage-fest; I was the only woman there."
+    },
+    {
+      "id": 30,
+      "value": "mutually contradictory",
+      "options": [
+        "相互に補完的な",
+        "相互に矛盾する",
+        "相互に協力的な",
+        "相互に独立した"
+      ],
+      "correctAnswer": "相互に矛盾する",
+      "explanation": "「mutually contradictory」は、二つの事柄が互いに相容れない、両立しないという意味です。一方の存在が他方の存在を否定するような関係を表します。\n\n例：His actions are mutually contradictory to his words."
+    },
+    {
+      "id": 31,
+      "value": "thought experiment",
+      "options": [
+        "秘密の実験",
+        "思考実験",
+        "物理実験",
+        "化学実験"
+      ],
+      "correctAnswer": "思考実験",
+      "explanation": "「thought experiment」は、現実の実験環境を設定する代わりに、理論的な思考を用いて行う実験のことです。物理学や哲学などの分野で、仮説や理論の検証に用いられます。\n\n例：Schrödinger's cat is a famous thought experiment in quantum mechanics."
+    },
+    {
+      "id": 32,
+      "value": "homespun",
+      "options": [
+        "家庭的な",
+        "手作りの",
+        "粗末な",
+        "洗練された"
+      ],
+      "correctAnswer": "家庭的な",
+      "explanation": "「homespun」は、家庭で作られた、または家庭的な、素朴なという意味です。特に、飾り気がなく、シンプルで温かみのあるものを指します。また、比喩的に、素朴な知恵やユーモアを指すこともあります。\n\n例：He told us some homespun stories about his childhood."
+    },
+    {
+      "id": 33,
+      "value": "defies",
+      "options": [
+        "定義する",
+        "挑戦する",
+        "従う",
+        "無視する"
+      ],
+      "correctAnswer": "挑戦する",
+      "explanation": "「defy」は、権威、規則、または一般的な期待に逆らう、抵抗するという意味です。物理的な抵抗だけでなく、理解や説明が難しい状況にも使われます。\n\n例：His actions defy explanation."
+    },
+    {
+      "id": 34,
+      "value": "payload specialist",
+      "options": [
+        "貨物専門家",
+        "ペイロードスペシャリスト",
+        "宇宙飛行士",
+        "技術者"
+      ],
+      "correctAnswer": "ペイロードスペシャリスト",
+      "explanation": "「payload specialist」は、宇宙船に搭載される特定のペイロード（貨物、実験装置など）の操作や管理を専門とする人のことです。科学実験や技術的な任務を遂行するために宇宙へ派遣されます。\n\n例：As a payload specialist, she was responsible for conducting experiments in microgravity."
+    },
+    {
+      "id": 35,
+      "value": "mathematical edge",
+      "options": [
+        "数学的な優位性",
+        "数式のエッジ",
+        "数学的な問題点",
+        "計算ミス"
+      ],
+      "correctAnswer": "数学的な優位性",
+      "explanation": "「mathematical edge」は、数学的な知識や能力によって得られる有利な立場や優位性を意味します。確率や統計などを利用して、他の人よりも有利な判断や予測ができる状況を指します。\n\n例：He believed his understanding of statistics gave him a mathematical edge in poker."
+    },
+    {
+      "id": 36,
+      "value": "black market",
+      "options": [
+        "公式市場",
+        "闇市場",
+        "自由市場",
+        "株式市場"
+      ],
+      "correctAnswer": "闇市場",
+      "explanation": "「black market」は、違法な商品やサービスが取引される市場のことです。法律で禁止されている商品や、税金を逃れるために非合法に取引される商品などが扱われます。\n\n例：The black market for weapons is a serious problem."
+    },
+    {
+      "id": 37,
+      "value": "good folks",
+      "options": [
+        "善良な人々",
+        "良い冗談",
+        "幸運な人々",
+        "昔の人々"
+      ],
+      "correctAnswer": "善良な人々",
+      "explanation": "「good folks」は、親しみや好意を込めて人々を指す表現です。「folks」は「people」のくだけた言い方で、「good folks」は「良い人々」「親切な人々」といった意味合いで使われます。\n\n例：The good folks in this town are always willing to help each other out."
+    },
+    {
+      "id": 38,
+      "value": "kudos",
+      "options": [
+        "非難",
+        "賞賛",
+        "忠告",
+        "嘲笑"
+      ],
+      "correctAnswer": "賞賛",
+      "explanation": "「kudos」は、賞賛や栄誉、称賛を表す言葉です。特に、優れた業績や成果に対して贈られる賛辞として使われます。\n\n例：Kudos to you for organizing such a successful event."
+    },
+    {
+      "id": 39,
+      "value": "cloying",
+      "options": [
+        "爽やかな",
+        "不快な",
+        "甘すぎる",
+        "感動的な"
+      ],
+      "correctAnswer": "甘すぎる",
+      "explanation": "「cloying」は、甘ったるくて不快な、または過度に感傷的なという意味です。特に、味や感情が過剰で、うんざりするような状態を指します。\n\n例：The movie was cloying with its sentimental scenes."
+    },
+    {
+      "id": 40,
+      "value": "catch my drift",
+      "options": [
+        "私の考えを理解する",
+        "私の車を運転する",
+        "私の夢を見る",
+        "私の冗談を聞く"
+      ],
+      "correctAnswer": "私の考えを理解する",
+      "explanation": "「catch my drift」は、私の言いたいこと、暗示、意図などを理解するという意味です。直接的な表現を避け、間接的に何かを伝えたい時に使われます。\n\n例：I'm not saying it's going to be easy, but do you catch my drift?"
+    },
+    {
+      "id": 41,
+      "value": "bugging you",
+      "options": [
+        "応援している",
+        "困らせている",
+        "喜ばせている",
+        "無視している"
+      ],
+      "correctAnswer": "困らせている",
+      "explanation": "「bugging you」は、あなたを悩ませている、困らせている、または気にさせているという意味です。小さな問題や心配事が心に残っている状態を指します。\n\n例：What's been bugging you all day?"
+    },
+    {
+      "id": 42,
+      "value": "the right stuff",
+      "options": [
+        "正しいもの",
+        "必要なもの",
+        "適切な資質",
+        "古いもの"
+      ],
+      "correctAnswer": "適切な資質",
+      "explanation": "「the right stuff」は、成功するために必要な資質、能力、または特性を指します。特に、困難な状況や挑戦的な仕事において、求められる特別な才能や勇気を意味します。\n\n例：He has the right stuff to be a great leader."
+    },
+    {
+      "id": 43,
+      "value": "decision-making process",
+      "options": [
+        "決定回避",
+        "意思決定プロセス",
+        "情報収集",
+        "問題解決"
+      ],
+      "correctAnswer": "意思決定プロセス",
+      "explanation": "「decision-making process」は、意思決定を行うための一連の手順や段階を指します。問題の特定、情報の収集、選択肢の評価、最終的な決定、そしてその実行と評価が含まれます。\n\n例：We need to improve our decision-making process to be more efficient."
+    },
+    {
+      "id": 51,
+      "value": "from one night to the next",
+      "options": [
+        "毎晩",
+        "ある夜から次の夜へ",
+        "一夜にして",
+        "毎晩のように"
+      ],
+      "correctAnswer": "ある夜から次の夜へ",
+      "explanation": "「from one night to the next」は、「毎晩のように、いつ何が起こるかわからない」という意味合いで、不確実性や不安定さを表す際に使われます。例文：We never knew from one night to the next if he was going to come home alive.（彼が生きて帰ってくるかどうか、毎晩のようにわからなかった。）"
+    },
+    {
+      "id": 52,
+      "value": "boo-hoo",
+      "options": [
+        "わーい",
+        "しくしく",
+        "おやおや",
+        "ばいばい"
+      ],
+      "correctAnswer": "しくしく",
+      "explanation": "「boo-hoo」は、泣き真似をしたり、大げさに悲しんだりする様子を表現する際に使われる口語的な表現です。相手の悲しみや不満を軽くあしらうニュアンスが含まれることもあります。例文：Oh, boo-hoo, you’re not going to space!（あらあら、宇宙に行けないのね！）"
+    },
+    {
+      "id": 53,
+      "value": "for God’s sake",
+      "options": [
+        "神に感謝して",
+        "どうか",
+        "まさか",
+        "勘弁してくれ"
+      ],
+      "correctAnswer": "勘弁してくれ",
+      "explanation": "「for God’s sake」は、「どうか～してくれ」「お願いだから」という意味合いで、苛立ちや不満、懇願などの感情を込めて使われます。例文：For God’s sake, will you stop with the Schrodinger stuff.（いい加減、シュレディンガーの話はやめてくれ。）"
+    },
+    {
+      "id": 54,
+      "value": "left-handed monkey wrench",
+      "options": [
+        "左利きのモンキーレンチ",
+        "厄介者",
+        "役に立つ人",
+        "器用な人"
+      ],
+      "correctAnswer": "厄介者",
+      "explanation": "「left-handed monkey wrench」は、文字通りの意味ではなく、通常とは異なる、または扱いにくい状況や人を指す比喩的な表現です。特に、計画やプロセスを邪魔するものを指すことが多いです。例文：Sheldon, I know you’re a bit of a left-handed monkey wrench, but, you really have a mortal enemy?（シェルドン、君は少し厄介者だってわかってるけど、本当に宿敵がいるのか？）"
+    },
+    {
+      "id": 55,
+      "value": "get off the list",
+      "options": [
+        "リストから降りる",
+        "リストから外れる",
+        "リストに載る",
+        "リストを作る"
+      ],
+      "correctAnswer": "リストから外れる",
+      "explanation": "「get off the list」は、文字通りには「リストから外れる」という意味ですが、ここでは「（敵の）リストから外れる」という意味で使われています。例文：You just got off the list.（君は今、リストから外れた。）"
+    },
+    {
+      "id": 56,
+      "value": "quality control",
+      "options": [
+        "品質管理",
+        "量産管理",
+        "顧客管理",
+        "在庫管理"
+      ],
+      "correctAnswer": "品質管理",
+      "explanation": "「quality control」は、製品やサービスの品質を維持・向上させるための活動全般を指します。検査、試験、統計的プロセス管理などが含まれます。例文：Well, whoever was in charge of quality control at the Verbatim Corporation in 1989, congratulations, you just made the list.（1989年のVerbatim社の品質管理担当者、おめでとう、あなたはリスト入りだ。）"
+    },
+    {
+      "id": 57,
+      "value": "change your mind about",
+      "options": [
+        "～について考え直す",
+        "～について意見を変える",
+        "～について決意する",
+        "～について忘れる"
+      ],
+      "correctAnswer": "～について意見を変える",
+      "explanation": "「change your mind about」は、「～について考えを変える、気が変わる」という意味です。例文：Change your mind about sex?（セックスについて考え直した？）"
+    },
+    {
+      "id": 58,
+      "value": "stand between",
+      "options": [
+        "～の間に立つ",
+        "～を支持する",
+        "～を無視する",
+        "～を理解する"
+      ],
+      "correctAnswer": "～の間に立つ",
+      "explanation": "「stand between」は、「～の邪魔をする」「～を妨げる」という意味で使われます。例文：I don’t want to be the person who stands between you and your dreams.（私はあなたの夢を邪魔する人にはなりたくない。）"
+    },
+    {
+      "id": 59,
+      "value": "Over my dead body",
+      "options": [
+        "死んでも嫌だ",
+        "私の死体を越えて行け",
+        "私の目の黒いうちは",
+        "どうぞご自由に"
+      ],
+      "correctAnswer": "死んでも嫌だ",
+      "explanation": "「Over my dead body」は、「絶対に許さない」「死んでも～させない」という強い反対の意思を示すイディオムです。例文：Over my dead body my son goes into outer space!（私の目の黒いうちは息子を宇宙に行かせない！）"
+    },
+    {
+      "id": 60,
+      "value": "go behind someone's back",
+      "options": [
+        "誰かの背中を見る",
+        "誰かの陰口を言う",
+        "誰かに内緒で行動する",
+        "誰かを裏切る"
+      ],
+      "correctAnswer": "誰かに内緒で行動する",
+      "explanation": "「go behind someone's back」は、「人に内緒で、または裏切るように行動する」という意味です。例文：She went behind my back and turned my own mother against me.（彼女は私に内緒で私の母親を私に敵対させた。）"
+    },
+    {
+      "id": 61,
+      "value": "kick a girl out of bed",
+      "options": [
+        "女の子をベッドから追い出す",
+        "女の子と寝る",
+        "女の子をベッドに誘う",
+        "女の子にフラれる"
+      ],
+      "correctAnswer": "女の子をベッドから追い出す",
+      "explanation": "文字通りの意味ですが、比喩的に「女性をぞんざいに扱う」という意味合いも含まれます。例文：You’re also the first one of us to kick a girl out of bed.（お前は俺たちの中で初めて女の子をベッドから追い出した男だ。）"
+    },
+    {
+      "id": 62,
+      "value": "a little bit",
+      "options": [
+        "少しだけ",
+        "たくさん",
+        "全くない",
+        "いつも"
+      ],
+      "correctAnswer": "少しだけ",
+      "explanation": "「a little bit」は、「少し」という意味ですが、ここでは「（そうかも）しれない」というニュアンスで使われています。例文：Little bit.（少しはね。）"
+    },
+    {
+      "id": 63,
+      "value": "betray",
+      "options": [
+        "裏切る",
+        "助ける",
+        "信じる",
+        "愛する"
+      ],
+      "correctAnswer": "裏切る",
+      "explanation": "「betray」は、「裏切る」という意味です。信頼を損なう行為を指します。例文：I hate to say it, but she did kind of betray you.（言いたくはないけど、彼女は君を裏切ったようなものだ。）"
+    },
+    {
+      "id": 64,
+      "value": "Excuse me",
+      "options": [
+        "すみません",
+        "ありがとう",
+        "こんにちは",
+        "さようなら"
+      ],
+      "correctAnswer": "すみません",
+      "explanation": "「Excuse me」は、「すみません」という意味ですが、ここでは皮肉を込めて相手の発言を遮る際に使われています。例文：Excuse me, Stormtrooper. These are the droids you’re looking for.（失礼、ストームトルーパー。お探しのアンドロイドはこれです。）"
+    },
+    {
+      "id": 65,
+      "value": "turn over",
+      "options": [
+        "ひっくり返す",
+        "譲り渡す",
+        "引き継ぐ",
+        "見捨てる"
+      ],
+      "correctAnswer": "譲り渡す",
+      "explanation": "「turn over」は、「引き渡す、譲り渡す」という意味です。例文：I’m not turning R2-D2 and C-3PO over to the empire!（R2-D2とC-3POを帝国に引き渡すわけじゃない！）"
+    },
+    {
+      "id": 66,
+      "value": "break up",
+      "options": [
+        "仲直りする",
+        "別れる",
+        "結婚する",
+        "出会う"
+      ],
+      "correctAnswer": "別れる",
+      "explanation": "「break up」は、「別れる、関係を解消する」という意味です。例文：Are you and Bernadette going to break up?（君とバーナデットは別れるのか？）"
+    },
+    {
+      "id": 67,
+      "value": "asthma attack",
+      "options": [
+        "心臓発作",
+        "ぜんそくの発作",
+        "脳卒中",
+        "貧血"
+      ],
+      "correctAnswer": "ぜんそくの発作",
+      "explanation": "「asthma attack」は、「ぜんそくの発作」という意味です。例文：Do you know he once got an asthma attack from reading an old library book?（彼が古い図書館の本を読んでぜんそくの発作を起こしたことがあるのを知ってる？）"
+    },
+    {
+      "id": 68,
+      "value": "throw one's back out",
+      "options": [
+        "背中を丸める",
+        "背中を痛める",
+        "背中を向ける",
+        "背中を押す"
+      ],
+      "correctAnswer": "背中を痛める",
+      "explanation": "「throw one's back out」は、「ぎっくり腰になる、背中を痛める」という意味です。例文：Sheldon threw his back out handing him that book.（シェルドンはその本を彼に渡してぎっくり腰になった。）"
+    },
+    {
+      "id": 69,
+      "value": "come to grips with",
+      "options": [
+        "～を理解する",
+        "～に立ち向かう",
+        "～を掴む",
+        "～に同意する"
+      ],
+      "correctAnswer": "～を理解する",
+      "explanation": "「come to grips with」は、「～を理解する、～を受け入れる」という意味です。困難な状況や問題に対して使われます。例文：We’re just here to provide comfort and support while you come to grips with what a despicable thing you’ve done.（私たちはただ、あなたが自分のしたひどいことを理解するまで慰めとサポートを提供するだけだ。）"
+    },
+    {
+      "id": 70,
+      "value": "despicable",
+      "options": [
+        "尊敬に値する",
+        "卑劣な",
+        "勇敢な",
+        "賢明な"
+      ],
+      "correctAnswer": "卑劣な",
+      "explanation": "「despicable」は、「卑劣な、軽蔑すべき」という意味です。道徳的に非難されるべき行為や人を指します。例文：We’re just here to provide comfort and support while you come to grips with what a despicable thing you’ve done.（私たちはただ、あなたが自分のしたひどいことを理解するまで慰めとサポートを提供するだけだ。）"
+    },
+    {
+      "id": 71,
+      "value": "throw it under the bus",
+      "options": [
+        "バスに乗せる",
+        "バスを運転する",
+        "～を見捨てる",
+        "～を助ける"
+      ],
+      "correctAnswer": "～を見捨てる",
+      "explanation": "「throw someone/something under the bus」は、「～を見捨てる、～を犠牲にする」という意味です。自己保身のために他人を犠牲にする行為を指します。例文：I took our love and threw it under his bus-sized mother.（私は私たちの愛を彼のバスのような母親に投げ捨てた。）"
+    },
+    {
+      "id": 72,
+      "value": "big picture",
+      "options": [
+        "大きな絵",
+        "全体像",
+        "詳細",
+        "一部分"
+      ],
+      "correctAnswer": "全体像",
+      "explanation": "「big picture」は、「全体像、大局」という意味です。細部にこだわるのではなく、物事全体を捉えることを指します。例文：But before you do, let me just ask you a big picture question.（でも、その前に、全体像について質問させて。）"
+    },
+    {
+      "id": 73,
+      "value": "a hundred percent positive",
+      "options": [
+        "完全に否定的な",
+        "100%確信している",
+        "50%の確率",
+        "少し自信がない"
+      ],
+      "correctAnswer": "100%確信している",
+      "explanation": "「a hundred percent positive」は、「100%確信している、絶対に間違いない」という意味です。例文：Are you a hundred percent positive you love and want to marry Howard Wolowitz?（あなたはハワード・ウォロウィッツを愛していて、結婚したいと100%確信している？）"
+    },
+    {
+      "id": 74,
+      "value": "with all my heart",
+      "options": [
+        "心を込めて",
+        "心の一部で",
+        "全く思っていない",
+        "嘘をついて"
+      ],
+      "correctAnswer": "心を込めて",
+      "explanation": "「with all my heart」は、「心を込めて、心から」という意味です。例文：I do, with all my heart.（ええ、心からそう思っています。）"
+    },
+    {
+      "id": 75,
+      "value": "Got it",
+      "options": [
+        "了解",
+        "忘れた",
+        "知らない",
+        "必要ない"
+      ],
+      "correctAnswer": "了解",
+      "explanation": "「Got it」は、「了解、わかった」という意味です。例文：Got it. Just had to check.（了解。確認したかっただけ。）"
+    },
+    {
+      "id": 76,
+      "value": "choke back",
+      "options": [
+        "抑える",
+        "促進する",
+        "無視する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "抑える",
+      "explanation": "感情（特にネガティブな感情）を押し殺す、こらえるという意味です。涙や怒りなどを無理に抑える状況で使われます。\n\n例：She choked back tears when she heard the news.（彼女はそのニュースを聞いて涙をこらえた。）"
+    },
+    {
+      "id": 77,
+      "value": "mumble",
+      "options": [
+        "はっきりと言う",
+        "ささやく",
+        "叫ぶ",
+        "歌う"
+      ],
+      "correctAnswer": "ささやく",
+      "explanation": "ぼそぼそと不明瞭に話すことを意味します。自信がない、または何かを隠したい時に使われることが多いです。\n\n例：He mumbled something under his breath. (彼は何かを小声でつぶやいた。)"
+    },
+    {
+      "id": 78,
+      "value": "ludicrous",
+      "options": [
+        "賢明な",
+        "ばかげた",
+        "真実の",
+        "深刻な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "非常に馬鹿げていて、笑いを誘うような状況を指します。非現実的で不合理なアイデアや状況に対して使われます。\n\n例：That's a ludicrous idea! (それは馬鹿げた考えだ！)"
+    },
+    {
+      "id": 79,
+      "value": "beam me up",
+      "options": [
+        "私を元気づけて",
+        "私を転送して",
+        "私を降ろして",
+        "私を信じて"
+      ],
+      "correctAnswer": "私を転送して",
+      "explanation": "『スター・トレック』に由来するフレーズで、文字通りには「私を（宇宙船に）転送してくれ」という意味です。うんざりする状況から逃れたい時に使われる比喩表現です。\n\n例：This meeting is so boring, beam me up.（この会議は退屈すぎる、どこかに連れて行ってくれ。）"
+    },
+    {
+      "id": 80,
+      "value": "hooey",
+      "options": [
+        "真実",
+        "たわごと",
+        "賞賛",
+        "感謝"
+      ],
+      "correctAnswer": "たわごと",
+      "explanation": "くだらないこと、ナンセンスを意味するスラングです。軽蔑的な意味合いで使用されます。\n\n例：That's a bunch of hooey! (それは全くのナンセンスだ！)"
+    },
+    {
+      "id": 81,
+      "value": "live long and prosper",
+      "options": [
+        "長生きして成功しろ",
+        "短命で貧しくなれ",
+        "普通に生きろ",
+        "現状維持しろ"
+      ],
+      "correctAnswer": "長生きして成功しろ",
+      "explanation": "『スター・トレック』に登場するバルカン人の挨拶で、「長寿と繁栄を」という意味です。相手の幸福を願う際に使われます。\n\n例：Live long and prosper! (長寿と繁栄を！)"
+    },
+    {
+      "id": 82,
+      "value": "dork",
+      "options": [
+        "天才",
+        "まぬけ",
+        "英雄",
+        "悪党"
+      ],
+      "correctAnswer": "まぬけ",
+      "explanation": "間抜け、愚か者を意味する軽蔑的なスラングです。社会的に不器用な人や、変な人に対して使われます。\n\n例：He's such a dork. (彼は本当にまぬけだ。)"
+    },
+    {
+      "id": 83,
+      "value": "schmuck",
+      "options": [
+        "賢者",
+        "ばか",
+        "友人",
+        "敵"
+      ],
+      "correctAnswer": "ばか",
+      "explanation": "侮辱的な意味で、愚か者、嫌な奴を指す言葉です。特に自己中心的で無神経な行動をする人に対して使われます。\n\n例：Don't be such a schmuck! (そんな馬鹿なことをするな！)"
+    },
+    {
+      "id": 84,
+      "value": "went behind my back",
+      "options": [
+        "私を応援した",
+        "私の陰口を言った",
+        "私を無視した",
+        "私を助けた"
+      ],
+      "correctAnswer": "私の陰口を言った",
+      "explanation": "人に内緒で何かをする、裏切るという意味です。秘密裡に行動し、信頼を損なう行為を指します。\n\n例：He went behind my back and told my boss about my plans to quit. (彼は私に内緒で、上司に私が辞める計画を話した。)"
+    },
+    {
+      "id": 85,
+      "value": "tenderhearted",
+      "options": [
+        "冷酷な",
+        "優しい",
+        "勇敢な",
+        "ずる賢い"
+      ],
+      "correctAnswer": "優しい",
+      "explanation": "心が優しく、感情豊かなことを意味します。他人の気持ちに敏感で、思いやりのある人に対して使われます。\n\n例：She's a very tenderhearted person. (彼女はとても優しい人だ。)"
+    },
+    {
+      "id": 86,
+      "value": "daredevil",
+      "options": [
+        "臆病者",
+        "向こう見ずな人",
+        "怠け者",
+        "学者"
+      ],
+      "correctAnswer": "向こう見ずな人",
+      "explanation": "危険を顧みず、無謀な行動をする人を指します。危険なスタントや冒険を好む人に対して使われます。\n\n例：He's a real daredevil. (彼は本当に向こう見ずだ。)"
+    },
+    {
+      "id": 87,
+      "value": "seasick",
+      "options": [
+        "船酔い",
+        "ホームシック",
+        "食あたり",
+        "二日酔い"
+      ],
+      "correctAnswer": "船酔い",
+      "explanation": "船や乗り物に乗ることで引き起こされる吐き気やめまいのことです。乗り物酔い全般を指す場合もあります。\n\n例：I get seasick easily. (私はすぐに船酔いする。)"
+    },
+    {
+      "id": 88,
+      "value": "rocking it",
+      "options": [
+        "失敗する",
+        "成功する",
+        "破壊する",
+        "無視する"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "あることを非常にうまくやる、成功させるという意味のスラングです。特にパフォーマンスやスキルが優れている場合に用いられます。\n\n例：The band is really rocking it tonight! (そのバンドは今夜本当に最高の演奏をしている！)"
+    },
+    {
+      "id": 89,
+      "value": "soul mate",
+      "options": [
+        "親友",
+        "恋人",
+        "ソウルメイト",
+        "家族"
+      ],
+      "correctAnswer": "ソウルメイト",
+      "explanation": "魂の伴侶、運命の人を意味します。深い精神的な繋がりを感じる相手を指します。\n\n例：I think he's my soul mate. (彼こそが私のソウルメイトだと思う。)"
+    },
+    {
+      "id": 90,
+      "value": "tuchus",
+      "options": [
+        "頭",
+        "お尻",
+        "心",
+        "手"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "イディッシュ語由来の言葉で、お尻を意味するスラングです。親しみを込めた表現として使われることがあります。\n\n例：Get your tuchus over here! (お尻をこっちに向けなさい！)"
+    },
+    {
+      "id": 91,
+      "value": "mint-in-package",
+      "options": [
+        "新品未開封",
+        "中古品",
+        "カスタム品",
+        "限定品"
+      ],
+      "correctAnswer": "新品未開封",
+      "explanation": "商品が元のパッケージに入ったままの新品未開封の状態を指します。コレクターアイテムの価値を評価する際に重要な要素となります。\n\n例：The action figure is mint-in-package. (そのアクションフィギュアは新品未開封だ。)"
+    },
+    {
+      "id": 92,
+      "value": "made it",
+      "options": [
+        "間に合わなかった",
+        "成功した",
+        "失敗した",
+        "諦めた"
+      ],
+      "correctAnswer": "成功した",
+      "explanation": "「到着した」「成功した」という意味で使われます。困難を乗り越えて目標を達成した状況で使われることが多いです。\n\n例：He finally made it to the top of the mountain. (彼はついに山の頂上にたどり着いた。)"
+    },
+    {
+      "id": 93,
+      "value": "close personal friend",
+      "options": [
+        "ただの知り合い",
+        "親友",
+        "敵",
+        "家族"
+      ],
+      "correctAnswer": "親友",
+      "explanation": "親しい個人的な友人、つまり親友を意味します。強い絆で結ばれた関係を表します。\n\n例：He is a close personal friend of mine. (彼は私の親友です。)"
+    },
+    {
+      "id": 94,
+      "value": "mortal enemy",
+      "options": [
+        "親友",
+        "宿敵",
+        "ビジネスパートナー",
+        "隣人"
+      ],
+      "correctAnswer": "宿敵",
+      "explanation": "死ぬまで憎み合う敵、宿敵を意味します。深刻な対立関係にある相手を指します。\n\n例：He is my mortal enemy. (彼は私の宿敵だ。)"
+    },
+    {
+      "id": 95,
+      "value": "waste another second",
+      "options": [
+        "時間を有効活用する",
+        "時間を無駄にする",
+        "時間を稼ぐ",
+        "時間を楽しむ"
+      ],
+      "correctAnswer": "時間を無駄にする",
+      "explanation": "これ以上時間を無駄にしない、という意味です。無益なことや、価値のないことに時間を使うのを避けたい時に使われます。\n\n例：Let's not waste another second arguing. (議論にこれ以上時間を無駄にするのはやめよう。)"
+    },
+    {
+      "id": 96,
+      "value": "stock character",
+      "options": [
+        "個性的なキャラクター",
+        "典型的なキャラクター",
+        "複雑なキャラクター",
+        "革新的なキャラクター"
+      ],
+      "correctAnswer": "典型的なキャラクター",
+      "explanation": "物語やドラマで繰り返し登場する、ステレオタイプなキャラクターのことです。例えば、悪役、ヒーロー、道化役などがあります。\n\n例：The movie was full of stock characters. (その映画は典型的なキャラクターばかりだった。)"
+    },
+    {
+      "id": 97,
+      "value": "put down that drink",
+      "options": [
+        "飲み物を飲む",
+        "飲み物を置く",
+        "飲み物を買う",
+        "飲み物を混ぜる"
+      ],
+      "correctAnswer": "飲み物を置く",
+      "explanation": "文字通りには「飲み物を置く」という意味ですが、「やめる」「中断する」という意味合いで使われることもあります。\n\n例：Put down that drink and let's talk. (飲み物を置いて話そう。)"
+    },
+    {
+      "id": 98,
+      "value": "make up",
+      "options": [
+        "化粧する",
+        "仲直りする",
+        "嘘をつく",
+        "作り上げる"
+      ],
+      "correctAnswer": "仲直りする",
+      "explanation": "喧嘩や不和の後で、関係を修復し、仲直りすることを意味します。\n\n例：They had a fight, but they made up quickly. (彼らは喧嘩したが、すぐに仲直りした。)"
+    },
+    {
+      "id": 99,
+      "value": "trunk of my car",
+      "options": [
+        "車のボンネット",
+        "車のトランク",
+        "車の座席",
+        "車のハンドル"
+      ],
+      "correctAnswer": "車のトランク",
+      "explanation": "自動車の荷物室のことです。通常、車の後部に位置しています。\n\n例：I keep a spare tire in the trunk of my car. (車のトランクにスペアタイヤを入れています。)"
+    },
+    {
+      "id": 100,
+      "value": "on my list",
+      "options": [
+        "好きな人リスト",
+        "嫌いな人リスト",
+        "欲しいものリスト",
+        "友達リスト"
+      ],
+      "correctAnswer": "嫌いな人リスト",
+      "explanation": "「恨みリスト」や「要注意人物リスト」のように、自分が不快に思ったり、敵対視したりする人々のリストを指す隠喩的な表現です。深刻な敵意を示すユーモラスな言い方として使われます。\n\n例：After what he did, he's definitely on my list. (彼のしたことの後では、彼は間違いなく私のリストに載っている。)"
+    }
+  ]
+}

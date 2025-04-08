@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "jurisdiction",
+      "options": [
+        "法律",
+        "管轄",
+        "境界",
+        "伝統"
+      ],
+      "correctAnswer": "管轄",
+      "explanation": "「jurisdiction」は、裁判権、管轄権という意味です。特定の地域や人々に対して、法律を適用し、司法判断を下す権限を指します。国際法、国内法など、さまざまな文脈で使用されます。\n\n例：The court has no jurisdiction over cases of this kind. (その裁判所はこの種の事件に対する管轄権を持たない。)"
+    },
+    {
+      "id": 2,
+      "value": "bashed in",
+      "options": [
+        "磨く",
+        "構築する",
+        "打ち砕く",
+        "隠す"
+      ],
+      "correctAnswer": "打ち砕く",
+      "explanation": "「bash in」は、何かを強く殴って壊す、打ち砕くという意味です。暴力的なニュアンスを含むことが多く、物理的な破壊行為を表現する際に用いられます。\n\n例：He bashed the door in with an axe. (彼は斧でドアを打ち破った。)"
+    },
+    {
+      "id": 3,
+      "value": "embrace technology",
+      "options": [
+        "技術を拒否する",
+        "技術を受け入れる",
+        "技術を無視する",
+        "技術を批判する"
+      ],
+      "correctAnswer": "技術を受け入れる",
+      "explanation": "「embrace technology」は、技術を積極的に受け入れ、活用することを意味します。新しい技術を歓迎し、その利点を享受しようとする姿勢を表します。\n\n例：The company is eager to embrace new technologies to improve efficiency. (その会社は効率を改善するために新しい技術を積極的に受け入れたがっている。)"
+    },
+    {
+      "id": 4,
+      "value": "slip it in",
+      "options": [
+        "こっそり入れる",
+        "公然と宣言する",
+        "大声で知らせる",
+        "注意深く避ける"
+      ],
+      "correctAnswer": "こっそり入れる",
+      "explanation": "「slip something in」は、何かをこっそりと、気づかれないように入れる、差し込むという意味です。隠密性や意図的な秘密裏の行動を示唆します。\n\n例：She slipped a note into his pocket without him noticing. (彼女は彼に気づかれないように彼のポケットにメモを滑り込ませた。)"
+    },
+    {
+      "id": 5,
+      "value": "kettle corn",
+      "options": [
+        "辛いソース",
+        "甘いポップコーン",
+        "酸っぱいキャンディ",
+        "塩辛いプレッツェル"
+      ],
+      "correctAnswer": "甘いポップコーン",
+      "explanation": "「kettle corn」は、甘くて少し塩味のついたポップコーンの一種です。特にアメリカで人気があり、お祭りやイベントでよく見られます。\n\n例：We bought a big bag of kettle corn at the fair. (私たちは祭りで大きな袋のケトルコーンを買った。)"
+    },
+    {
+      "id": 6,
+      "value": "divider",
+      "options": [
+        "分離帯",
+        "交通整理",
+        "料金所",
+        "駐車場"
+      ],
+      "correctAnswer": "分離帯",
+      "explanation": "「divider」は、何かを分割するもの、区切るものを意味します。道路の中央分離帯、部屋の仕切り、書類の仕切りなど、様々な文脈で使用されます。\n\n例：The median divider prevents cars from crossing into oncoming traffic. (中央分離帯は、車が対向車線に進入するのを防ぐ。)"
+    },
+    {
+      "id": 7,
+      "value": "suppress",
+      "options": [
+        "公開する",
+        "抑圧する",
+        "促進する",
+        "無視する"
+      ],
+      "correctAnswer": "抑圧する",
+      "explanation": "「suppress」は、感情、情報、活動などを抑制する、抑圧するという意味です。何かを表面に出させないように、または活動を停止させるようにする行為を指します。\n\n例：The government tried to suppress the news about the scandal. (政府はスキャンダルに関するニュースを抑圧しようとした。)"
+    },
+    {
+      "id": 8,
+      "value": "isolation",
+      "options": [
+        "交流",
+        "孤立",
+        "協力",
+        "団結"
+      ],
+      "correctAnswer": "孤立",
+      "explanation": "「isolation」は、孤立、隔離という意味です。他の人々や社会から隔絶された状態を指します。物理的な孤立だけでなく、感情的な孤立も含まれます。\n\n例：The prisoner was kept in isolation for several days. (囚人は数日間隔離された。)"
+    },
+    {
+      "id": 9,
+      "value": "retooled",
+      "options": [
+        "販売中止",
+        "再編成",
+        "輸入",
+        "輸出"
+      ],
+      "correctAnswer": "再編成",
+      "explanation": "「retool」は、工場や組織などを再編成する、改造するという意味です。特に、新しい製品や技術に対応するために、設備やプロセスを改善することを指します。\n\n例：The company retooled its factory to produce electric vehicles. (その会社は電気自動車を生産するために工場を再編成した。)"
+    },
+    {
+      "id": 10,
+      "value": "get burned",
+      "options": [
+        "成功する",
+        "打ちのめされる",
+        "尊敬される",
+        "無視される"
+      ],
+      "correctAnswer": "打ちのめされる",
+      "explanation": "「get burned」は、比喩的に、他人から批判されたり、打ちのめされたり、恥をかかされたりする状況を指します。文字通りに火傷を負う意味ではありません。\n\n例：He got burned in the debate when he couldn't answer the simple question. (彼は簡単な質問に答えられず、討論で打ちのめされた。)"
+    },
+    {
+      "id": 11,
+      "value": "credit than it deserves",
+      "options": [
+        "当然の評価",
+        "過大評価",
+        "不当な評価",
+        "適正評価"
+      ],
+      "correctAnswer": "過大評価",
+      "explanation": "「more credit than it deserves」は、何かが実際よりも過大に評価されている、または評価されすぎているという意味です。その価値や貢献が実際よりも高く評価されていると感じる時に使われます。\n\n例：I think that movie gets more credit than it deserves; it's not that great. (その映画は過大評価されていると思います。それほど素晴らしいものではありません。)"
+    },
+    {
+      "id": 12,
+      "value": "huffin' and puffin'",
+      "options": [
+        "静かに微笑む",
+        "息を切らしている",
+        "楽しそうに歌う",
+        "冷静に議論する"
+      ],
+      "correctAnswer": "息を切らしている",
+      "explanation": "「huffin' and puffin'」は、息を切らしている様子を表す口語的な表現です。運動後や階段を上った後など、呼吸が荒くなっている状態を指します。\n\n例：After running up the stairs, he was huffin' and puffin'. (階段を駆け上がった後、彼は息を切らしていた。)"
+    },
+    {
+      "id": 13,
+      "value": "hit it off",
+      "options": [
+        "仲が悪くなる",
+        "意気投合する",
+        "衝突する",
+        "無視する"
+      ],
+      "correctAnswer": "意気投合する",
+      "explanation": "「hit it off」は、初めて会った人や新しい環境で、すぐに打ち解けて仲良くなることを意味します。共通の興味や話題が見つかり、スムーズなコミュニケーションが取れる場合に用いられます。\n\n例：I met her at a party, and we hit it off immediately. (私はパーティーで彼女に会い、すぐに意気投合した。)"
+    },
+    {
+      "id": 14,
+      "value": "fashion sense",
+      "options": [
+        "ファッションセンス",
+        "料理の腕前",
+        "音楽の趣味",
+        "運動能力"
+      ],
+      "correctAnswer": "ファッションセンス",
+      "explanation": "「fashion sense」は、ファッションセンス、服装のセンスという意味です。個人の服装の好みや、服の組み合わせ方、着こなしのセンスを指します。\n\n例：She has a great fashion sense and always looks stylish. (彼女は素晴らしいファッションセンスを持っていて、いつもおしゃれに見える。)"
+    },
+    {
+      "id": 15,
+      "value": "Postal fact",
+      "options": [
+        "宇宙の事実",
+        "郵便の事実",
+        "料理の事実",
+        "歴史の事実"
+      ],
+      "correctAnswer": "郵便の事実",
+      "explanation": "「Postal fact」は、郵便に関する事実や興味深い情報のことです。郵便制度、歴史、または珍しい郵便事情などを含みます。\n\n例：Here’s a fun Postal fact. The inner side of our mailbox is under federal jurisdiction. (ここに面白い郵便の事実があります。郵便ポストの内側は連邦政府の管轄下にあります。)"
+    },
+    {
+      "id": 16,
+      "value": "church teeth",
+      "options": [
+        "普段使いの歯",
+        "特別な時に使う歯",
+        "失われた歯",
+        "子供用の歯"
+      ],
+      "correctAnswer": "特別な時に使う歯",
+      "explanation": "「church teeth」は、特別な機会、特に教会に行く時に使う入れ歯を指すユーモラスな表現です。普段使いの入れ歯とは別に、より良い状態の入れ歯を特別な時に使うという意味合いがあります。\n\n例：Oh, so now the new ones are just gonna be her church teeth. (それで、新しい入れ歯は彼女の教会用の歯になる予定です。)"
+    },
+    {
+      "id": 17,
+      "value": "gopher",
+      "options": [
+        "庭師",
+        "モグラ",
+        "リス",
+        "ネズミ"
+      ],
+      "correctAnswer": "モグラ",
+      "explanation": "「gopher」は、ホリネズミという動物のことです。庭や畑を掘り返すことから、迷惑な存在として扱われることがあります。\n\n例：Unless you’re a gopher digging up her vegetable garden. (彼女の菜園を掘り返すホリネズミでない限り。)"
+    },
+    {
+      "id": 18,
+      "value": "arrivals area",
+      "options": [
+        "出発エリア",
+        "到着エリア",
+        "免税店エリア",
+        "待合エリア"
+      ],
+      "correctAnswer": "到着エリア",
+      "explanation": "「arrivals area」は、空港や駅などの到着エリアを指します。旅行者が到着し、荷物を受け取ったり、出迎えの人々と合流する場所です。\n\n例：Scene: The airport arrivals area. (シーン：空港の到着エリア。)"
+    },
+    {
+      "id": 19,
+      "value": "embrace technology",
+      "options": [
+        "技術を拒否する",
+        "技術を受け入れる",
+        "技術を無視する",
+        "技術を批判する"
+      ],
+      "correctAnswer": "技術を受け入れる",
+      "explanation": "「embrace technology」は、技術を積極的に受け入れ、活用することを意味します。新しい技術を歓迎し、その利点を享受しようとする姿勢を表します。\n\n例：Most people her age don’t embrace technology. (彼女くらいの年齢のほとんどの人は、技術を受け入れません。)"
+    },
+    {
+      "id": 20,
+      "value": "sea turtle",
+      "options": [
+        "淡水魚",
+        "ウミガメ",
+        "陸ガメ",
+        "イグアナ"
+      ],
+      "correctAnswer": "ウミガメ",
+      "explanation": "「sea turtle」は、ウミガメのことです。海洋に生息するカメの総称で、様々な種類が存在します。\n\n例：So that I can track her like a sea turtle. (私が彼女をウミガメのように追跡できるように。)"
+    },
+    {
+      "id": 21,
+      "value": "foil",
+      "options": [
+        "プラスチック",
+        "ホイル",
+        "ガラス",
+        "木材"
+      ],
+      "correctAnswer": "ホイル",
+      "explanation": "「foil」は、薄い金属の箔（はく）、特にアルミホイルを指します。食品を包んだり、調理に使用したりします。\n\n例：Eat a block of cream cheese straight from the foil. (ホイルから直接クリームチーズの塊を食べる。)"
+    },
+    {
+      "id": 22,
+      "value": "eavesdropping",
+      "options": [
+        "演説",
+        "立ち聞き",
+        "討論",
+        "相談"
+      ],
+      "correctAnswer": "立ち聞き",
+      "explanation": "「eavesdropping」は、立ち聞き、盗み聞きという意味です。他人の会話を許可なく聞く行為を指します。\n\n例：Sorry for eavesdropping, but did you know they actually had the song Let It Go in place before they finalized the story? (立ち聞きしてすみません、でも彼らは実際にストーリーを完成させる前に「Let It Go」の歌を用意していたのを知っていましたか？)"
+    },
+    {
+      "id": 23,
+      "value": "classic western",
+      "options": [
+        "現代劇",
+        "西部劇",
+        "SF映画",
+        "ホラー映画"
+      ],
+      "correctAnswer": "西部劇",
+      "explanation": "「classic western」は、古典的な西部劇のことです。19世紀のアメリカ西部を舞台にした映画やドラマを指し、カウボーイ、無法者、保安官などが登場します。\n\n例：It was a classic western set in the post-Jurassic period, and it changed my life. (それはジュラ紀後の時代を舞台にした古典的な西部劇で、私の人生を変えました。)"
+    },
+    {
+      "id": 24,
+      "value": "rest",
+      "options": [
+        "運動",
+        "休憩",
+        "仕事",
+        "勉強"
+      ],
+      "correctAnswer": "休憩",
+      "explanation": "「rest」は、休憩、休息という意味です。疲労を回復するために、活動を停止したり、リラックスしたりすることを指します。\n\n例：It’s nice to rest after 800 flights of stairs. (800段の階段の後で休憩するのはいいですね。)"
+    },
+    {
+      "id": 25,
+      "value": "tissue",
+      "options": [
+        "雑誌",
+        "ティッシュ",
+        "新聞",
+        "手紙"
+      ],
+      "correctAnswer": "ティッシュ",
+      "explanation": "「tissue」は、ティッシュペーパーのことです。鼻をかんだり、物を拭いたりするために使用される薄い紙です。\n\n例：Can I have a tissue? (ティッシュをいただけますか？)"
+    },
+    {
+      "id": 26,
+      "value": "get to know each other",
+      "options": [
+        "お互いを避ける",
+        "お互いを知る",
+        "お互いに嘘をつく",
+        "お互いを無視する"
+      ],
+      "correctAnswer": "お互いを知る",
+      "explanation": "「get to know each other」は、お互いのことを知り始める、親しくなるという意味です。初めて会った人や、もっと親密になりたい人に対して使われます。時間をかけて相手のことを理解しようとするニュアンスが含まれます。\n\n例：We should get to know each other better.（私たちはもっとお互いを知るべきだ。）"
+    },
+    {
+      "id": 27,
+      "value": "size you up",
+      "options": [
+        "あなたを大きくする",
+        "あなたを評価する",
+        "あなたを無視する",
+        "あなたを小さくする"
+      ],
+      "correctAnswer": "あなたを評価する",
+      "explanation": "「size someone up」は、人を値踏みする、評価するという意味です。相手の性格、能力、価値観などを判断しようとする際に使われます。特に、初対面の人に対して、警戒心を持って評価するニュアンスが含まれることがあります。\n\n例：She sized him up as a potential business partner. (彼女は彼を潜在的なビジネスパートナーとして評価した。)"
+    },
+    {
+      "id": 28,
+      "value": "authentic",
+      "options": [
+        "本物の",
+        "偽物の",
+        "高価な",
+        "安価な"
+      ],
+      "correctAnswer": "本物の",
+      "explanation": "「authentic」は、本物の、真正のという意味です。オリジナルであり、偽物や模倣品ではないことを強調する際に使われます。品質や信頼性を表す言葉として用いられます。\n\n例：This is an authentic Italian pizza.（これは本物のイタリアンピザだ。）"
+    },
+    {
+      "id": 29,
+      "value": "take your word for it",
+      "options": [
+        "あなたの言葉を疑う",
+        "あなたの言葉を信じる",
+        "あなたの言葉を無視する",
+        "あなたの言葉を拒否する"
+      ],
+      "correctAnswer": "あなたの言葉を信じる",
+      "explanation": "「take someone's word for it」は、相手の言葉を鵜呑みにする、信じるという意味です。特に、自分自身で確認せずに相手の言うことを信用する場合に使われます。\n\n例：I haven't seen the movie, but I'll take your word for it that it's good. (私はその映画を見ていないけど、あなたが良いと言うなら信じるよ。)"
+    },
+    {
+      "id": 30,
+      "value": "slash",
+      "options": [
+        "のみ",
+        "または",
+        "に加えて",
+        "の代わりに"
+      ],
+      "correctAnswer": "または",
+      "explanation": "この場合の「slash」は、複数の役割や職業を持っていることを示すために使われています。「A slash B」は「AまたはB」という意味合いで、ここでは「脚本家、またはバーテンダー」のように、両方の肩書きを持っていることを示します。\n\n例：He is a singer / songwriter. (彼はシンガー兼ソングライターです。)"
+    },
+    {
+      "id": 31,
+      "value": "pick your brain",
+      "options": [
+        "脳を食べる",
+        "知恵を借りる",
+        "脳を空にする",
+        "脳を傷つける"
+      ],
+      "correctAnswer": "知恵を借りる",
+      "explanation": "「pick someone's brain」は、人の知識やアイデアを借りる、知恵を拝借するという意味です。特定の分野に詳しい人に話を聞き、情報を得る際に使われます。\n\n例：Can I pick your brain about this project? (このプロジェクトについてあなたの知恵を借りてもいいですか？)"
+    },
+    {
+      "id": 32,
+      "value": "get together",
+      "options": [
+        "仲たがいする",
+        "集まる",
+        "解散する",
+        "迷子になる"
+      ],
+      "correctAnswer": "集まる",
+      "explanation": "「get together」は、集まる、会うという意味です。友人や知人と会って時間を過ごす、または会議や打ち合わせなどで集まる場合に使われます。\n\n例：Let's get together for coffee next week. (来週コーヒーでも飲みに行きましょう。)"
+    },
+    {
+      "id": 33,
+      "value": "what are you doing?",
+      "options": [
+        "何をしているの？",
+        "何をすべきか？",
+        "何が起こったの？",
+        "何が必要なの？"
+      ],
+      "correctAnswer": "何をしているの？",
+      "explanation": "「What are you doing?」は、相手の行動や意図を尋ねる際に使われます。直接的な質問として、または相手の行動を非難するニュアンスで使われることもあります。\n\n例：What are you doing with my phone? (私の携帯で何をしているの？)"
+    },
+    {
+      "id": 34,
+      "value": "how do you think she’d feel?",
+      "options": [
+        "彼女は喜ぶと思う？",
+        "彼女はどう思うと思う？",
+        "彼女は怒ると思う？",
+        "彼女は悲しむと思う？"
+      ],
+      "correctAnswer": "彼女はどう思うと思う？",
+      "explanation": "「How do you think she'd feel?」は、相手の気持ちを推測させる質問です。特定の行動が相手にどのような感情を引き起こすかを考慮するように促す際に使われます。\n\n例：How do you think she'd feel if she found out you lied to her? (もしあなたが彼女に嘘をついたと知ったら、彼女はどう思うと思う？)"
+    },
+    {
+      "id": 35,
+      "value": "attractive",
+      "options": [
+        "魅力的な",
+        "不快な",
+        "平凡な",
+        "退屈な"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「attractive」は、魅力的な、人の心を惹きつけるという意味です。外見だけでなく、性格や才能など、さまざまな魅力に対して使われます。\n\n例：She is a very attractive woman. (彼女はとても魅力的な女性だ。)"
+    },
+    {
+      "id": 36,
+      "value": "pour you some wine",
+      "options": [
+        "ワインを注ぐ",
+        "ワインを隠す",
+        "ワインを盗む",
+        "ワインを捨てる"
+      ],
+      "correctAnswer": "ワインを注ぐ",
+      "explanation": "「pour someone some wine」は、人にワインを注ぐという意味です。もてなしや親切心を示す行為として使われます。\n\n例：Can I pour you some wine? (ワインを注ぎましょうか？)"
+    },
+    {
+      "id": 37,
+      "value": "how you like",
+      "options": [
+        "どのように嫌いか",
+        "どのように好きか",
+        "どのように作るか",
+        "どのように壊すか"
+      ],
+      "correctAnswer": "どのように好きか",
+      "explanation": "「how you like」は、相手が好む方法や程度を意味します。ここでは「just how you like」という形で、「あなたの好きなように」という意味合いで使用されています。\n\n例：I made the coffee just how you like it. (あなたの好きなようにコーヒーを作りました。)"
+    },
+    {
+      "id": 38,
+      "value": "curious",
+      "options": [
+        "退屈な",
+        "好奇心旺盛な",
+        "満足した",
+        "無関心な"
+      ],
+      "correctAnswer": "好奇心旺盛な",
+      "explanation": "「curious」は、好奇心旺盛な、知りたがるという意味です。何か新しいことや未知のことに対して興味を持つ様子を表します。\n\n例：I'm curious about your new job. (あなたの新しい仕事に興味があります。)"
+    },
+    {
+      "id": 39,
+      "value": "just eat him up",
+      "options": [
+        "彼を食べる",
+        "彼を可愛がる",
+        "彼を無視する",
+        "彼を嫌う"
+      ],
+      "correctAnswer": "彼を可愛がる",
+      "explanation": "「eat someone up」は、人を可愛がる、溺愛するという意味です。強い愛情表現として使われます。文字通りに食べるという意味ではありません。\n\n例：She just wants to eat him up because he's so cute. (彼があまりにも可愛いので、彼女は彼を可愛がりたいだけだ。)"
+    },
+    {
+      "id": 40,
+      "value": "bothered to ask",
+      "options": [
+        "尋ねるのを邪魔された",
+        "尋ねるのが面倒だった",
+        "尋ねるのを許された",
+        "尋ねるのを強制された"
+      ],
+      "correctAnswer": "尋ねるのが面倒だった",
+      "explanation": "「bother to do」は、〜するのを面倒がる、わざわざ〜しないという意味です。ここでは「never bothered to ask」で、「尋ねることをしなかった」というニュアンスになります。\n\n例：He never bothered to call me. (彼は私に電話することを面倒がった。)"
+    },
+    {
+      "id": 41,
+      "value": "I understand",
+      "options": [
+        "理解できない",
+        "理解している",
+        "誤解している",
+        "信じられない"
+      ],
+      "correctAnswer": "理解している",
+      "explanation": "「I understand」は、理解している、承知しているという意味です。相手の言っていることや状況を理解したことを伝える際に使われます。\n\n例：I understand your concerns. (あなたの懸念は理解しています。)"
+    },
+    {
+      "id": 42,
+      "value": "sales rep",
+      "options": [
+        "販売員",
+        "清掃員",
+        "警備員",
+        "配達員"
+      ],
+      "correctAnswer": "販売員",
+      "explanation": "「sales rep」は、sales representative の略で、販売代理人、販売員という意味です。企業の商品やサービスを販売する役割を担います。\n\n例：He is a sales rep for a pharmaceutical company. (彼は製薬会社の販売員です。)"
+    },
+    {
+      "id": 43,
+      "value": "have it all",
+      "options": [
+        "すべてを失う",
+        "すべてを手に入れる",
+        "すべてを諦める",
+        "すべてを忘れる"
+      ],
+      "correctAnswer": "すべてを手に入れる",
+      "explanation": "「have it all」は、全てを手に入れる、成功を収めるという意味です。仕事、家庭、趣味など、人生のあらゆる面で充実している状態を表します。\n\n例：She seems to have it all: a successful career, a loving family, and a beautiful home. (彼女は成功したキャリア、愛情深い家族、美しい家など、全てを手に入れているようだ。)"
+    },
+    {
+      "id": 44,
+      "value": "modern gals",
+      "options": [
+        "現代の男性",
+        "現代の女性",
+        "昔の男性",
+        "昔の女性"
+      ],
+      "correctAnswer": "現代の女性",
+      "explanation": "「gal」は女性を指すスラングで、ここでは「modern gals」で現代の女性たち、という意味になります。伝統的な女性の役割にとらわれず、キャリアを持つ女性を指すニュアンスが含まれています。\n\n例：Modern gals are changing the world. (現代の女性たちは世界を変えている。)"
+    },
+    {
+      "id": 45,
+      "value": "get something straight",
+      "options": [
+        "何かを歪める",
+        "何かを明確にする",
+        "何かを隠す",
+        "何かを忘れる"
+      ],
+      "correctAnswer": "何かを明確にする",
+      "explanation": "「get something straight」は、誤解がないように、何かをはっきりさせる、明確に理解するという意味です。特に、相手に何かを伝えたい時に使われます。\n\n例：Let's get something straight: I'm in charge here. (はっきりさせておこう。ここでは私が責任者だ。)"
+    },
+    {
+      "id": 46,
+      "value": "enthusiast",
+      "options": [
+        "嫌悪者",
+        "愛好家",
+        "無関心な人",
+        "批判家"
+      ],
+      "correctAnswer": "愛好家",
+      "explanation": "「enthusiast」は、何かに熱中している人、愛好家という意味です。特定の趣味や分野に情熱を持っている人を指します。\n\n例：He's a small-dog enthusiast. (彼は小型犬の愛好家です。)"
+    },
+    {
+      "id": 47,
+      "value": "to prove it",
+      "options": [
+        "それを否定するために",
+        "それを証明するために",
+        "それを隠すために",
+        "それを忘れるために"
+      ],
+      "correctAnswer": "それを証明するために",
+      "explanation": "「to prove it」は、それを証明するために、という意味です。自分の言っていることや行動を裏付ける証拠があることを示す際に使われます。\n\n例：He has the Lilo & Stitch collector plates to prove it. (彼はそれを証明するためにリロ・アンド・スティッチのコレクタープレートを持っている。)"
+    },
+    {
+      "id": 48,
+      "value": "Excuse me for",
+      "options": [
+        "〜してくれてありがとう",
+        "〜してごめんなさい",
+        "〜してもいいですか",
+        "〜しないでください"
+      ],
+      "correctAnswer": "〜してごめんなさい",
+      "explanation": "「Excuse me for」は、〜してごめんなさい、〜することを許してください、という意味です。自分の行動に対して謝罪したり、許可を求めたりする際に使われます。\n\n例：Excuse me for interrupting. (邪魔してごめんなさい。)"
+    },
+    {
+      "id": 49,
+      "value": "See ya",
+      "options": [
+        "またね",
+        "はじめまして",
+        "さようなら",
+        "おやすみ"
+      ],
+      "correctAnswer": "またね",
+      "explanation": "「See ya」は、「See you」のくだけた言い方で、またね、という意味です。親しい友人や知り合いとの別れ際に使われます。\n\n例：See ya later! (また後でね！)"
+    },
+    {
+      "id": 50,
+      "value": "bringing me my whiskey",
+      "options": [
+        "ウイスキーを持ってくる",
+        "ウイスキーを隠す",
+        "ウイスキーを捨てる",
+        "ウイスキーを盗む"
+      ],
+      "correctAnswer": "ウイスキーを持ってくる",
+      "explanation": "「bring someone something」は、人に何かを持ってくる、という意味です。ここでは「bringing me my whiskey」で、「私にウイスキーを持ってくる」という意味になります。\n\n例：She is bringing me my whiskey. (彼女は私にウイスキーを持ってくる。)"
+    },
+    {
+      "id": 51,
+      "value": "bode well",
+      "options": [
+        "良い兆候である",
+        "悪い兆候である",
+        "どちらでもない",
+        "全く関係ない"
+      ],
+      "correctAnswer": "良い兆候である",
+      "explanation": "「bode well」は、何かが将来的にうまくいく兆候であることを意味します。良い結果や成功が期待できる状況で使用されます。\n例：The company's strong sales figures bode well for its future profitability.（その会社の好調な売上高は、将来の収益性にとって良い兆候である。）"
+    },
+    {
+      "id": 52,
+      "value": "tending to",
+      "options": [
+        "無視すること",
+        "世話をすること",
+        "嫌うこと",
+        "命令すること"
+      ],
+      "correctAnswer": "世話をすること",
+      "explanation": "「tend to」は、世話をする、面倒を見るという意味です。特に人や動物の世話をする際に使われます。\n例：Nurses tend to the patients in the hospital. (看護師は病院で患者の世話をする。)"
+    },
+    {
+      "id": 53,
+      "value": "protective of",
+      "options": [
+        "無関心",
+        "嫉妬深い",
+        "保護的",
+        "批判的"
+      ],
+      "correctAnswer": "保護的",
+      "explanation": "「protective of」は、～を保護しようとする、かばおうとするという意味です。大切な人や物を守りたい気持ちを表します。\n例：She was very protective of her younger brother. (彼女は弟をとても大切にしていた。)"
+    },
+    {
+      "id": 54,
+      "value": "have a hard time",
+      "options": [
+        "楽しい時間を過ごす",
+        "困難な状況に直面する",
+        "休憩を取る",
+        "簡単にできる"
+      ],
+      "correctAnswer": "困難な状況に直面する",
+      "explanation": "「have a hard time」は、困難な状況に直面する、苦労するという意味です。何かをするのが難しい、または不快な経験をすることを表します。\n例：I'm having a hard time understanding this concept. (この概念を理解するのに苦労している。)"
+    },
+    {
+      "id": 55,
+      "value": "under no circumstance",
+      "options": [
+        "どんな状況でも",
+        "特定の状況下で",
+        "想像できる状況で",
+        "ありえない状況で"
+      ],
+      "correctAnswer": "どんな状況でも",
+      "explanation": "「under no circumstance」は、どんな状況でも～しない、決して～しないという意味です。強い否定を表す表現で、フォーマルな場面でよく使われます。\n例：Under no circumstance should you open this package without authorization. (許可なしにこの荷物を開けてはいけない。)"
+    },
+    {
+      "id": 56,
+      "value": "opt out of",
+      "options": [
+        "参加する",
+        "避ける、参加しない",
+        "賛成する",
+        "提案する"
+      ],
+      "correctAnswer": "避ける、参加しない",
+      "explanation": "「opt out of」は、何かから脱退する、参加しないことを選択するという意味です。選択肢がある中で、あえてそれを選ばないというニュアンスがあります。\n例：Employees can opt out of the company's health insurance plan. (従業員は会社の健康保険プランから脱退することができる。)"
+    },
+    {
+      "id": 57,
+      "value": "hand-me-downs",
+      "options": [
+        "新しいもの",
+        "おさがり",
+        "高級品",
+        "カスタムメイド"
+      ],
+      "correctAnswer": "おさがり",
+      "explanation": "「hand-me-downs」は、おさがり、使い古されたものを意味します。特に衣類や物を譲り受けた際に使われます。\n例：The children often wore hand-me-downs from their older cousins. (子供たちは年上のいとこからのおさがりをよく着ていた。)"
+    },
+    {
+      "id": 58,
+      "value": "remain calm",
+      "options": [
+        "怒る",
+        "落ち着く",
+        "興奮する",
+        "泣く"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「remain calm」は、冷静を保つ、落ち着いているという意味です。感情的にならずに、落ち着いた状態を維持することを指します。\n例：It's important to remain calm in an emergency situation. (緊急事態では冷静を保つことが重要です。)"
+    },
+    {
+      "id": 59,
+      "value": "crankiness",
+      "options": [
+        "機嫌が良いこと",
+        "不機嫌",
+        "幸せ",
+        "元気"
+      ],
+      "correctAnswer": "不機嫌",
+      "explanation": "「crankiness」は、不機嫌、気難しいという意味です。特に体調が悪い時や疲れている時に見られる状態を指します。\n例：The baby's crankiness was a sign that she needed a nap. (赤ちゃんの不機嫌は、昼寝が必要なサインだった。)"
+    },
+    {
+      "id": 60,
+      "value": "met up with",
+      "options": [
+        "無視した",
+        "会った",
+        "ケンカした",
+        "電話した"
+      ],
+      "correctAnswer": "会った",
+      "explanation": "「meet up with」は、誰かと会う、合流するという意味です。計画的に会う場合に用いられます。\n例：I'm going to meet up with my friends after work. (仕事の後で友達と会う予定です。)"
+    },
+    {
+      "id": 61,
+      "value": "screenplay",
+      "options": [
+        "小説",
+        "映画脚本",
+        "詩",
+        "料理レシピ"
+      ],
+      "correctAnswer": "映画脚本",
+      "explanation": "「screenplay」は、映画やテレビドラマの脚本を意味します。物語の展開や登場人物のセリフ、シーンの指示などが書かれています。\n例：She is working on a screenplay for a new movie. (彼女は新しい映画の脚本を執筆している。)"
+    },
+    {
+      "id": 62,
+      "value": "project their fantasies on",
+      "options": [
+        "空想を押し付ける",
+        "現実を直視する",
+        "夢を共有する",
+        "秘密を守る"
+      ],
+      "correctAnswer": "空想を押し付ける",
+      "explanation": "「project their fantasies on」は、自分の空想や願望を他人に投影するという意味です。現実とは異なる理想像を相手に抱くことを指します。\n例：Some fans project their fantasies onto celebrities. (一部のファンは、有名人に自分の空想を投影する。)"
+    },
+    {
+      "id": 63,
+      "value": "No big deal",
+      "options": [
+        "大したことだ",
+        "大変なことだ",
+        "問題ない",
+        "秘密だ"
+      ],
+      "correctAnswer": "問題ない",
+      "explanation": "「No big deal」は、大したことではない、問題ないという意味です。物事を軽く見るときや、気にしないことを表現する際に使われます。\n例：It's okay, no big deal, we can fix it later. (大丈夫、大したことじゃない、後で直せるよ。)"
+    },
+    {
+      "id": 64,
+      "value": "I own your ass",
+      "options": [
+        "あなたを所有している",
+        "あなたを尊敬している",
+        "あなたを信じている",
+        "あなたを軽蔑している"
+      ],
+      "correctAnswer": "あなたを所有している",
+      "explanation": "「I own your ass」は、相手に対して強い支配力を持っていることを意味するスラング表現です。親しい間柄で冗談交じりに使われることもありますが、基本的には攻撃的なニュアンスを含みます。\n例：After losing the bet, he jokingly said, \"Okay, you own my ass now.\" (賭けに負けた後、彼は冗談交じりに「分かった、もう君の奴隷だ」と言った。)"
+    },
+    {
+      "id": 65,
+      "value": "have doubts about",
+      "options": [
+        "確信がある",
+        "疑念を抱く",
+        "期待する",
+        "感謝する"
+      ],
+      "correctAnswer": "疑念を抱く",
+      "explanation": "「have doubts about」は、～について疑念を抱く、確信がないという意味です。何かが本当に正しいのか、うまくいくのか不安に思う気持ちを表します。\n例：I have doubts about whether this plan will succeed. (この計画が成功するかどうか疑念がある。)"
+    },
+    {
+      "id": 66,
+      "value": "reservations about",
+      "options": [
+        "予約",
+        "確信",
+        "疑念",
+        "期待"
+      ],
+      "correctAnswer": "疑念",
+      "explanation": "「reservations about」は、～について疑念、ためらいがあるという意味です。完全に納得していない、または不安を感じている状態を表します。\n例：I have some reservations about accepting this job offer. (この仕事のオファーを受けることに少し不安がある。)"
+    },
+    {
+      "id": 67,
+      "value": "worked out",
+      "options": [
+        "運動した",
+        "うまくいった",
+        "失敗した",
+        "解決した"
+      ],
+      "correctAnswer": "うまくいった",
+      "explanation": "「work out」は、計画や物事がうまくいく、成功するという意味です。特に努力や時間がかかった結果、良い結果が得られた場合に用いられます。\n例：Everything worked out in the end. (最終的にはすべてうまくいった。)"
+    },
+    {
+      "id": 68,
+      "value": "ash of her cigarette",
+      "options": [
+        "タバコの煙",
+        "タバコの灰",
+        "タバコの火",
+        "タバコの葉"
+      ],
+      "correctAnswer": "タバコの灰",
+      "explanation": "「ash of her cigarette」は、タバコの灰を意味します。タバコが燃えた後に残る燃えかすのことです。\n例：She flicked the ash of her cigarette into the ashtray. (彼女はタバコの灰を灰皿に落とした。)"
+    },
+    {
+      "id": 69,
+      "value": "pop over",
+      "options": [
+        "爆発する",
+        "立ち寄る",
+        "逃げる",
+        "飛び降りる"
+      ],
+      "correctAnswer": "立ち寄る",
+      "explanation": "「pop over」は、ちょっと立ち寄る、顔を出すという意味です。気軽に短い時間訪問する際に使われます。\n例：I'll pop over to your place after work. (仕事の後であなたの家に立ち寄るよ。)"
+    },
+    {
+      "id": 70,
+      "value": "tense",
+      "options": [
+        "リラックスした",
+        "緊張した",
+        "楽しい",
+        "退屈な"
+      ],
+      "correctAnswer": "緊張した",
+      "explanation": "「tense」は、緊張した、張り詰めたという意味です。精神的または肉体的にストレスを感じている状態を表します。\n例：The atmosphere in the room was tense. (部屋の雰囲気は張り詰めていた。)"
+    },
+    {
+      "id": 71,
+      "value": "go ahead",
+      "options": [
+        "やめる",
+        "続ける、どうぞ",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "続ける、どうぞ",
+      "explanation": "「go ahead」は、どうぞ、進んでください、続けてくださいという意味です。許可を与えたり、行動を促したりする際に使われます。\n例：\"Can I ask a question?\" \"Yes, go ahead.\" (「質問してもいいですか？」「はい、どうぞ。」)"
+    },
+    {
+      "id": 72,
+      "value": "Thank goodness",
+      "options": [
+        "残念",
+        "ありがとう",
+        "よかった",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "よかった",
+      "explanation": "「Thank goodness」は、よかった、助かった、という意味です。安堵や感謝の気持ちを表す際に使われます。\n例：Thank goodness you're safe! (あなたが無事でよかった！)"
+    },
+    {
+      "id": 73,
+      "value": "analyze this situation",
+      "options": [
+        "この状況を無視する",
+        "この状況を分析する",
+        "この状況を楽しむ",
+        "この状況を忘れる"
+      ],
+      "correctAnswer": "この状況を分析する",
+      "explanation": "「analyze this situation」は、この状況を分析する、詳細に検討するという意味です。問題や状況を理解するために、その要素や原因を調べるときに使われます。\n例：Let's analyze this situation before making a decision. (決定を下す前に、この状況を分析しましょう。)"
+    },
+    {
+      "id": 74,
+      "value": "stay out of this",
+      "options": [
+        "これに参加する",
+        "これから手を引く",
+        "これを楽しむ",
+        "これを忘れる"
+      ],
+      "correctAnswer": "これから手を引く",
+      "explanation": "「stay out of this」は、これに関わらないで、手を引いてという意味です。他人に干渉しないように警告したり、自分自身が関与しないように決意したりする際に使われます。\n例：This is a private matter, please stay out of this. (これは個人的な問題なので、関わらないでください。)"
+    },
+    {
+      "id": 75,
+      "value": "the right person for me",
+      "options": [
+        "私に合わない人",
+        "私に合う人",
+        "私を嫌う人",
+        "私を無視する人"
+      ],
+      "correctAnswer": "私に合う人",
+      "explanation": "「the right person for me」は、私にとって適切な人、合う人という意味です。恋愛関係やパートナーシップにおいて、相性が良い相手を指します。\n例：I'm not sure if she is the right person for me. (彼女が私に合う人かどうか確信が持てない。)"
+    },
+    {
+      "id": 76,
+      "value": "made up my mind",
+      "options": [
+        "決心した",
+        "混乱した",
+        "後悔した",
+        "忘れてしまった"
+      ],
+      "correctAnswer": "決心した",
+      "explanation": "「make up one's mind」は、あることについて決意を固める、決心するという意味です。しばしば何かを選択する状況や、迷っていた末に結論を出す際に使われます。例文：I've made up my mind to quit my job.（私は仕事を辞める決心をした。）"
+    },
+    {
+      "id": 77,
+      "value": "play it off",
+      "options": [
+        "真剣に受け止める",
+        "ごまかす",
+        "暴露する",
+        "無視する"
+      ],
+      "correctAnswer": "ごまかす",
+      "explanation": "「play something off」は、何かを軽く扱ったり、重要でないように見せかけたり、ごまかしたりするという意味です。特に、恥ずかしい状況や失敗を隠すために使われます。例文：He tried to play off his mistake as a joke.（彼は自分の間違いを冗談としてごまかそうとした。）"
+    },
+    {
+      "id": 78,
+      "value": "belly laugh",
+      "options": [
+        "静かな笑い",
+        "腹を抱えて笑う",
+        "作り笑い",
+        "皮肉な笑い"
+      ],
+      "correctAnswer": "腹を抱えて笑う",
+      "explanation": "「belly laugh」は、心からの、腹の底から湧き上がるような大笑いを指します。非常に楽しくて面白い状況で自然に起こる笑いを表現する際に用いられます。例文：The comedian's joke earned a big belly laugh from the audience.（そのコメディアンのジョークは観客から大爆笑を巻き起こした。）"
+    },
+    {
+      "id": 79,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "元気ですか？",
+        "何をしているの？",
+        "どちら様ですか？"
+      ],
+      "correctAnswer": "元気ですか？",
+      "explanation": "「What's up?」は、親しい間柄で使われる挨拶で、「元気？」「調子はどう？」といった意味合いを持ちます。また、状況によっては「何かあったの？」と尋ねる意味にもなります。例文：A: Hey, what's up? B: Not much, just relaxing.（A：やあ、元気？ B：別に、ただくつろいでるよ。）"
+    },
+    {
+      "id": 80,
+      "value": "mislead",
+      "options": [
+        "案内する",
+        "誤解させる",
+        "励ます",
+        "教育する"
+      ],
+      "correctAnswer": "誤解させる",
+      "explanation": "「mislead」は、誰かを誤った方向に導く、誤解させるという意味です。意図的である場合も、そうでない場合もあります。例文：The advertisement was misleading, and many people were deceived.（その広告は誤解を招くもので、多くの人が騙された。）"
+    },
+    {
+      "id": 81,
+      "value": "vibe",
+      "options": [
+        "雰囲気",
+        "才能",
+        "秘密",
+        "場所"
+      ],
+      "correctAnswer": "雰囲気",
+      "explanation": "「vibe」は、雰囲気、フィーリング、波動といった意味を持つスラングです。人や場所、状況から感じる感情的な印象を表します。例文：I got a good vibe from her.（彼女から良い雰囲気を感じた。）"
+    },
+    {
+      "id": 82,
+      "value": "Good catch",
+      "options": [
+        "お見事",
+        "良い発見",
+        "良いアドバイス",
+        "良い冗談"
+      ],
+      "correctAnswer": "お見事",
+      "explanation": "「Good catch」は、誰かが間違いや見落としを指摘したり、危険を回避したりした際に、「よく気づいたね」「お見事」と褒める意味で使われる表現です。例文：You noticed the error in the report? Good catch!（レポートの間違いに気づいたの？ お見事！）"
+    },
+    {
+      "id": 83,
+      "value": "Hang on",
+      "options": [
+        "待って",
+        "頑張って",
+        "諦めて",
+        "出発して"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on」は、電話を切らずに待つ、または人に少し待つように頼むときに使われる一般的な表現です。また、困難な状況で「頑張って」という意味でも使われます。例文：Hang on a second, I'll be right back.（ちょっと待って、すぐに戻るよ。）"
+    },
+    {
+      "id": 84,
+      "value": "get together",
+      "options": [
+        "解散する",
+        "集まる",
+        "反対する",
+        "忘れる"
+      ],
+      "correctAnswer": "集まる",
+      "explanation": "「get together」は、人が集まる、会うという意味です。友人や家族との集まり、会議、デートなど、さまざまな状況で使われます。例文：Let's get together for coffee next week.（来週コーヒーでも飲みに行きましょう。）"
+    },
+    {
+      "id": 85,
+      "value": "easy peasy",
+      "options": [
+        "難しい",
+        "簡単",
+        "危険",
+        "不可能"
+      ],
+      "correctAnswer": "簡単",
+      "explanation": "「easy peasy」は、「とても簡単だ」という意味の口語表現です。特に子供や親しい間柄で使われることが多いです。例文：The test was easy peasy.（そのテストはとても簡単だった。）"
+    },
+    {
+      "id": 86,
+      "value": "stand in one's way",
+      "options": [
+        "邪魔をする",
+        "応援する",
+        "手伝う",
+        "見守る"
+      ],
+      "correctAnswer": "邪魔をする",
+      "explanation": "「stand in someone's way」は、誰かの邪魔をする、妨げるという意味です。目標達成や行動の自由を妨げる際に使われます。例文：I won't stand in your way if you want to pursue your dreams.（もしあなたが夢を追いかけたいなら、私は邪魔をしない。）"
+    },
+    {
+      "id": 87,
+      "value": "Cool your jets",
+      "options": [
+        "落ち着いて",
+        "急いで",
+        "出発して",
+        "爆発して"
+      ],
+      "correctAnswer": "落ち着いて",
+      "explanation": "「Cool your jets」は、「落ち着いて」「興奮しないで」という意味の口語表現です。誰かが感情的になっている時や、急いで何かをしようとしている時に使われます。例文：Hey, cool your jets! There's no need to rush.（おい、落ち着けよ！ 急ぐ必要はないんだ。）"
+    },
+    {
+      "id": 88,
+      "value": "put up with",
+      "options": [
+        "我慢する",
+        "楽しむ",
+        "無視する",
+        "挑戦する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「put up with」は、嫌なことや不快な状況を我慢する、耐えるという意味です。例文：I don't know how you put up with his constant complaining.（彼の絶え間ない不満にどうして耐えられるのかわからない。）"
+    },
+    {
+      "id": 89,
+      "value": "hard time",
+      "options": [
+        "楽しい時間",
+        "困難な時間",
+        "短い時間",
+        "退屈な時間"
+      ],
+      "correctAnswer": "困難な時間",
+      "explanation": "「hard time」は、困難な時期、苦労している状況を指します。経済的な困難や人間関係のトラブルなど、様々な状況で使用されます。例文：He's been having a hard time since he lost his job. (彼は失業してからというもの、苦労している。)"
+    },
+    {
+      "id": 90,
+      "value": "stand by",
+      "options": [
+        "傍観する",
+        "支持する",
+        "反抗する",
+        "忘れる"
+      ],
+      "correctAnswer": "支持する",
+      "explanation": "「stand by」は、誰かを支持する、支援するという意味です。困難な状況にある人を支える場合や、自分の意見や信念を貫く場合に使われます。例文：I will always stand by you, no matter what. (何があっても、私はいつもあなたを支持します。)"
+    },
+    {
+      "id": 91,
+      "value": "work in progress",
+      "options": [
+        "完成品",
+        "制作途中",
+        "過去の遺物",
+        "未来の計画"
+      ],
+      "correctAnswer": "制作途中",
+      "explanation": "「work in progress」は、まだ完成していない、制作途中のものを指します。人やプロジェクト、アイデアなど、様々なものに対して使われます。例文：This website is still a work in progress. (このウェブサイトはまだ制作途中です。)"
+    },
+    {
+      "id": 92,
+      "value": "figure out",
+      "options": [
+        "無視する",
+        "理解する",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」は、何かを理解する、解決する、見つけ出すという意味です。問題や謎を解く場合や、人の気持ちを理解する場合に使われます。例文：I need to figure out how to fix this problem. (この問題をどう解決するか考え出す必要がある。)"
+    },
+    {
+      "id": 93,
+      "value": "Waste your time",
+      "options": [
+        "時間をつぶす",
+        "時間を無駄にする",
+        "時間を作る",
+        "時間を節約する"
+      ],
+      "correctAnswer": "時間を無駄にする",
+      "explanation": "「waste your time」は、時間を無駄にする、浪費するという意味です。価値のないことや無駄なことに時間を使う場合に用いられます。例文：I don't want to waste your time with unnecessary details.（不要な詳細であなたの時間を無駄にしたくない。）"
+    },
+    {
+      "id": 94,
+      "value": "Ask you out",
+      "options": [
+        "デートに誘う",
+        "質問をする",
+        "助けを求める",
+        "文句を言う"
+      ],
+      "correctAnswer": "デートに誘う",
+      "explanation": "「ask someone out」は、誰かをデートに誘うという意味です。恋愛関係を意識して、相手に食事や映画などに一緒に行くことを提案する際に使われます。例文：He finally asked her out after months of flirting.（彼は数ヶ月のあいだのやり取りの後、ついに彼女をデートに誘った。）"
+    },
+    {
+      "id": 95,
+      "value": "The least you can do",
+      "options": [
+        "せめてもの礼儀",
+        "最大限の努力",
+        "最低限の義務",
+        "最悪の結果"
+      ],
+      "correctAnswer": "せめてもの礼儀",
+      "explanation": "「the least you can do」は、少なくともこれくらいはできるはずだ、せめてもの礼儀としてという意味です。相手に何かを期待する際に、最低限の行動を促すニュアンスで使われます。例文：After all I've done for you, the least you can do is say thank you.（私があなたのためにあれこれとしてきたのだから、せめてお礼くらい言ってもいいでしょう。）"
+    },
+    {
+      "id": 96,
+      "value": "It hurts a little",
+      "options": [
+        "少しも痛くない",
+        "少し悲しい",
+        "少し楽しい",
+        "とても嬉しい"
+      ],
+      "correctAnswer": "少し悲しい",
+      "explanation": "「it hurts a little」は、少し心が痛む、少し悲しいという意味です。相手の言葉や行動によって、感情的に少し傷ついた時に使われます。深刻な痛みではなく、軽い悲しみを表現する際に用いられます。例文：When she said she didn't like my cooking, it hurt a little.（彼女が私の料理が好きじゃないと言った時、少し悲しかった。）"
+    },
+    {
+      "id": 97,
+      "value": "Have no secrets",
+      "options": [
+        "秘密がたくさんある",
+        "秘密がない",
+        "秘密を守る",
+        "秘密を暴露する"
+      ],
+      "correctAnswer": "秘密がない",
+      "explanation": "「have no secrets」は、秘密を持っていない、隠し事がないという意味です。信頼関係のある間柄で、お互いにすべてを打ち明けている状態を表します。例文：We have no secrets from each other, we tell each other everything. (私たちはお互いに秘密がなく、何でも打ち明け合っています。)"
+    },
+    {
+      "id": 98,
+      "value": "Shot",
+      "options": [
+        "機会",
+        "射撃",
+        "注射",
+        "写真"
+      ],
+      "correctAnswer": "機会",
+      "explanation": "「shot」は、ここでは「機会」という意味で使用されています。例文：This is your best shot at winning the competition. (これはあなたが競争に勝つための最良の機会です。)"
+    },
+    {
+      "id": 99,
+      "value": "toss him in",
+      "options": [
+        "彼を招待する",
+        "彼を批判する",
+        "彼を投げ入れる",
+        "彼を無視する"
+      ],
+      "correctAnswer": "彼を投げ入れる",
+      "explanation": "「toss him in」は、「彼を〜に投げ入れる」という意味です。ここでは、配偶者を苦しめるほどの感情を表す比喩表現として使われています。例文：I was so angry I wanted to toss him in the river. (私はとても怒っていて、彼を川に投げ入れたかった。)"
+    },
+    {
+      "id": 100,
+      "value": "Virginity",
+      "options": [
+        "純粋さ",
+        "貞操",
+        "無知",
+        "恥じらい"
+      ],
+      "correctAnswer": "貞操",
+      "explanation": "「virginity」は、ここでは「処女性」という意味で使用されています。例：「He lost his virginity. (彼は童貞を失った。）」"
+    }
+  ]
+}

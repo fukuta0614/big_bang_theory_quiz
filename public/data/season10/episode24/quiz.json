@@ -1,0 +1,1109 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "settling in",
+      "options": [
+        "定住する",
+        "解決する",
+        "落ち着く",
+        "出発する"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「settle in」は、新しい場所や状況に慣れて落ち着くという意味です。 新しい環境に順応し、快適に過ごせるようになる過程を指します。\n\n例：After a few weeks, she finally settled in at her new job. (数週間後、彼女はついに新しい仕事に慣れて落ち着いた。)"
+    },
+    {
+      "id": 2,
+      "value": "small talk",
+      "options": [
+        "内緒話",
+        "重要な会話",
+        "世間話",
+        "議論"
+      ],
+      "correctAnswer": "世間話",
+      "explanation": "「small talk」は、気軽に交わされる世間話や雑談のことです。 初対面の人との間や、会話のきっかけとして用いられることが多いです。\n\n例：I hate making small talk at parties. (パーティーでの世間話は苦手だ。)"
+    },
+    {
+      "id": 3,
+      "value": "murder rate",
+      "options": [
+        "出生率",
+        "離婚率",
+        "失業率",
+        "殺人発生率"
+      ],
+      "correctAnswer": "殺人発生率",
+      "explanation": "「murder rate」は、特定の地域や期間における殺人事件の発生率を指します。 社会の治安状況を示す指標の一つとして用いられます。\n\n例：The city's murder rate has decreased significantly in recent years. (その都市の殺人発生率は近年大幅に減少している。)"
+    },
+    {
+      "id": 4,
+      "value": "go through",
+      "options": [
+        "経験する",
+        "通過する",
+        "無視する",
+        "拒否する"
+      ],
+      "correctAnswer": "経験する",
+      "explanation": "「go through」は、困難や苦痛などを経験するという意味です。 また、何かを調べたり、探したりする際にも使われます。\n\n例：She had to go through a lot of hardship to achieve her goals. (彼女は目標を達成するために多くの苦難を経験しなければならなかった。)"
+    },
+    {
+      "id": 5,
+      "value": "split an infinitive",
+      "options": [
+        "無限に分割する",
+        "不定詞を分裂させる",
+        "文法を無視する",
+        "秘密を共有する"
+      ],
+      "correctAnswer": "不定詞を分裂させる",
+      "explanation": "「split an infinitive」は、to不定詞（to + 動詞の原形）のtoと動詞の間に副詞などを挿入することです。 文法的に問題ないとされることもありますが、伝統的には避けるべきとされています。\n\n例：To boldly go where no one has gone before (大胆に誰も行ったことのない場所へ行く)の'boldly'がtoとgoの間にある。"
+    },
+    {
+      "id": 6,
+      "value": "naughty",
+      "options": [
+        "利口な",
+        "いたずらな",
+        "清潔な",
+        "勇敢な"
+      ],
+      "correctAnswer": "いたずらな",
+      "explanation": "「naughty」は、子供のいたずらや、大人の軽はずみな行動などを指す言葉です。 やんちゃで可愛らしいニュアンスも含まれることがあります。\n\n例：The naughty puppy chewed on my shoes. (いたずらな子犬が私の靴を噛んだ。)"
+    },
+    {
+      "id": 7,
+      "value": "admonish",
+      "options": [
+        "褒める",
+        "警告する",
+        "許す",
+        "無視する"
+      ],
+      "correctAnswer": "警告する",
+      "explanation": "「admonish」は、過ちや誤りに対して忠告や警告を与えるという意味です。 フォーマルな状況で、真剣な注意を促す際に用いられます。\n\n例：The teacher admonished the students for not paying attention in class. (先生は授業中に注意を払わない生徒たちを叱責した。)"
+    },
+    {
+      "id": 8,
+      "value": "vigorously",
+      "options": [
+        "穏やかに",
+        "活発に",
+        "静かに",
+        "ゆっくりと"
+      ],
+      "correctAnswer": "活発に",
+      "explanation": "「vigorously」は、力強く、精力的に、活発に行う様子を表す副詞です。 行動や活動がエネルギッシュであることを強調します。\n\n例：He vigorously defended his position in the debate. (彼は討論で自分の立場を力強く擁護した。)"
+    },
+    {
+      "id": 9,
+      "value": "postdoc",
+      "options": [
+        "郵便配達員",
+        "大学院生",
+        "博士研究員",
+        "教授"
+      ],
+      "correctAnswer": "博士研究員",
+      "explanation": "「postdoc」は、博士号取得後の研究者のことで、通常、大学や研究機関で一定期間、研究活動に従事します。\n\n例：She is working as a postdoc at Harvard University. (彼女はハーバード大学で博士研究員として働いている。)"
+    },
+    {
+      "id": 10,
+      "value": "duty-free",
+      "options": [
+        "義務免除",
+        "関税免除",
+        "労働免除",
+        "税金対策"
+      ],
+      "correctAnswer": "関税免除",
+      "explanation": "「duty-free」は、関税が免除されているという意味です。 空港の免税店などでよく見られます。\n\n例：I bought some duty-free perfume at the airport. (空港で免税の香水を買った。)"
+    },
+    {
+      "id": 11,
+      "value": "lured away",
+      "options": [
+        "追い払う",
+        "誘い出す",
+        "見送る",
+        "無視する"
+      ],
+      "correctAnswer": "誘い出す",
+      "explanation": "「lure away」は、魅力的なものを使って人を誘い出すという意味です。 誘惑に弱い人を引き寄せるニュアンスがあります。\n\n例：The company lured away talented employees from its competitors with high salaries. (その会社は高給で競合他社から優秀な社員を誘い出した。)"
+    },
+    {
+      "id": 12,
+      "value": "hit puberty",
+      "options": [
+        "思春期を迎える",
+        "成功する",
+        "怪我をする",
+        "落ち込む"
+      ],
+      "correctAnswer": "思春期を迎える",
+      "explanation": "「hit puberty」は、思春期を迎えるという意味です。 体の変化や精神的な成長が始まる時期を指します。\n\n例：He hit puberty later than most of his friends. (彼は友達のほとんどよりも遅れて思春期を迎えた。)"
+    },
+    {
+      "id": 13,
+      "value": "man parts",
+      "options": [
+        "男性的な趣味",
+        "男性器",
+        "男性の仕事",
+        "男性の集団"
+      ],
+      "correctAnswer": "男性器",
+      "explanation": "「man parts」は、男性器を指す婉曲的な表現です。 直接的な表現を避けるために用いられます。\n\n例：(スラングなので使用は推奨しません)"
+    },
+    {
+      "id": 14,
+      "value": "scalar dark energy",
+      "options": [
+        "スカラー暗黒エネルギー",
+        "ベクトル光エネルギー",
+        "量子エネルギー",
+        "電磁波エネルギー"
+      ],
+      "correctAnswer": "スカラー暗黒エネルギー",
+      "explanation": "「scalar dark energy」は、物理学の用語で、宇宙の加速膨張を引き起こすとされる暗黒エネルギーの一種です。 スカラー場として記述されることがあります。\n\n例：研究者たちは、スカラー暗黒エネルギーの性質を解明しようと試みている。(Researchers are trying to unravel the properties of scalar dark energy.)"
+    },
+    {
+      "id": 15,
+      "value": "quantum loop theory",
+      "options": [
+        "量子ループ理論",
+        "相対性理論",
+        "超弦理論",
+        "宇宙論"
+      ],
+      "correctAnswer": "量子ループ理論",
+      "explanation": "「quantum loop theory」は、量子重力理論の一つで、時空を量子化してループ状の構造で記述しようとする理論です。 一般相対性理論と量子力学の統合を目指しています。\n\n例：量子ループ理論は、ブラックホールの特異点を解消する可能性を示唆している。(Quantum loop theory suggests the possibility of resolving the singularity of black holes.)"
+    },
+    {
+      "id": 16,
+      "value": "one of those",
+      "options": [
+        "そのうちの一つ",
+        "そのような人",
+        "特別な人",
+        "唯一の人"
+      ],
+      "correctAnswer": "そのような人",
+      "explanation": "「one of those」は、特定の種類や傾向を持つ人々を指す表現です。 あるカテゴリーに属する人、という意味合いで使用されます。\n\n例：He's one of those people who always complain. (彼はいつも文句を言っているような人だ。)"
+    },
+    {
+      "id": 17,
+      "value": "swat it away",
+      "options": [
+        "褒め称える",
+        "叩き落とす",
+        "大切にする",
+        "無視する"
+      ],
+      "correctAnswer": "叩き落とす",
+      "explanation": "「swat away」は、手などで素早く払いのけるという意味です。 邪魔なものや不快なものを避ける際に使われます。\n\n例：She swatted away the mosquito. (彼女は蚊を叩き落とした。)"
+    },
+    {
+      "id": 18,
+      "value": "explanation",
+      "options": [
+        "言い訳",
+        "説明",
+        "批判",
+        "提案"
+      ],
+      "correctAnswer": "説明",
+      "explanation": "「explanation」は、物事の理由や原因を説明すること、またはその説明自体を指します。 理解を深めるために用いられます。\n\n例：The teacher gave a clear explanation of the theorem. (先生はその定理について明確な説明をした。)"
+    },
+    {
+      "id": 19,
+      "value": "the simplest explanation is usually the right one",
+      "options": [
+        "複雑な説明が常に正しい",
+        "説明は長ければ長いほど良い",
+        "最も簡単な説明が通常は正しい",
+        "説明は不要"
+      ],
+      "correctAnswer": "最も簡単な説明が通常は正しい",
+      "explanation": "「the simplest explanation is usually the right one」は、オッカムの剃刀（Occam's razor）と呼ばれる原則を表す言葉です。 これは、複数の説明が可能な場合、最も少ない仮定で済むものが最も可能性が高いという考え方です。\n\n例：When you hear hoofbeats, think horses, not zebras.（蹄の音が聞こえたら、シマウマではなく馬を考えろ。）"
+    },
+    {
+      "id": 20,
+      "value": "ain't",
+      "options": [
+        "存在しない",
+        "同意しない",
+        "〜ではない",
+        "〜である"
+      ],
+      "correctAnswer": "〜ではない",
+      "explanation": "「ain't」は、主にアメリカ英語のスラングで、「am not」、「is not」、「are not」、「has not」、「have not」の短縮形として使われます。非標準的な表現であり、フォーマルな場面では避けるべきです。\n\n例：I ain't going to the party. (私はパーティーに行かない。)"
+    },
+    {
+      "id": 21,
+      "value": "dissonance",
+      "options": [
+        "不協和音",
+        "協調",
+        "共鳴",
+        "沈黙"
+      ],
+      "correctAnswer": "不協和音",
+      "explanation": "「dissonance」は、音楽用語としては不協和音を意味しますが、比喩的には意見や感情の不一致、不調和を表します。心の葛藤や矛盾なども指します。\n\n例：There is a dissonance between what he says and what he does. (彼の言うこととすることには矛盾がある。)"
+    },
+    {
+      "id": 22,
+      "value": "Eastern Goldfinch",
+      "options": [
+        "アメリカムシクイ",
+        "ヨーロッパコマドリ",
+        "シジュウカラ",
+        "アメリカキンメ",
+        "correctAnswer: 「アメリカキンメ」"
+      ],
+      "correctAnswer": "アメリカキンメ",
+      "explanation": "「Eastern Goldfinch」は、アメリカキンメ（またはアメリカナキリス）という北米に生息する鳥の名前です。鮮やかな黄色い羽毛が特徴的です。\n\n例：The Eastern Goldfinch is the state bird of New Jersey. (アメリカキンメはニュージャージー州の州鳥です。)"
+    },
+    {
+      "id": 23,
+      "value": "preposition",
+      "options": [
+        "前置詞",
+        "動詞",
+        "名詞",
+        "形容詞"
+      ],
+      "correctAnswer": "前置詞",
+      "explanation": "「preposition」は、英語の文法用語で前置詞を意味します。名詞や代名詞の前に置かれ、場所、時間、方向などを示す役割を持ちます。\n\n例：'In', 'on', 'at' are common prepositions. ('in', 'on', 'at'は一般的な前置詞です。)"
+    },
+    {
+      "id": 24,
+      "value": "verb stem",
+      "options": [
+        "動詞の語幹",
+        "名詞の語幹",
+        "形容詞の語幹",
+        "副詞の語幹"
+      ],
+      "correctAnswer": "動詞の語幹",
+      "explanation": "「verb stem」は、動詞の活用形を除いた基本形を指します。動詞の語幹に接尾辞などを加えて様々な形を作ります。\n\n例：In the verb 'walking', 'walk' is the verb stem. (動詞'walking'において、'walk'が動詞の語幹です。)"
+    },
+    {
+      "id": 25,
+      "value": "scalar dark energy experiment",
+      "options": [
+        "スカラー暗黒エネルギー実験",
+        "反重力実験",
+        "タイムトラベル実験",
+        "プラズマ実験"
+      ],
+      "correctAnswer": "スカラー暗黒エネルギー実験",
+      "explanation": "「scalar dark energy experiment」は、物理学の実験で、宇宙の加速膨張を引き起こすとされるスカラー暗黒エネルギーの性質を調べるための実験です。暗黒エネルギーの解明を目指します。\n\n例：The scalar dark energy experiment aims to understand the nature of dark energy. (スカラー暗黒エネルギー実験は、暗黒エネルギーの性質を理解することを目的としています。)"
+    },
+    {
+      "id": 26,
+      "value": "stirred up",
+      "options": [
+        "鎮静化させた",
+        "混乱させた",
+        "かき立てた",
+        "解決した"
+      ],
+      "correctAnswer": "かき立てた",
+      "explanation": "「stir up」は、感情や議論などをかき立てる、喚起するという意味です。ここでは、シェルドンの性的欲求を刺激したかどうかを尋ねています。比喩的に、潜在的なものを表面化させるニュアンスがあります。\n\n例：The article stirred up a lot of controversy. (その記事は多くの論争を巻き起こした。)"
+    },
+    {
+      "id": 27,
+      "value": "chick",
+      "options": [
+        "男性",
+        "友人",
+        "女性",
+        "子供"
+      ],
+      "correctAnswer": "女性",
+      "explanation": "「chick」は、口語的な表現で「若い女性」を指します。やや軽蔑的なニュアンスを含む場合もあるため、使用する場面には注意が必要です。\n\n例：She's a cool chick. (彼女はクールな女性だ。)"
+    },
+    {
+      "id": 28,
+      "value": "get this",
+      "options": [
+        "理解する",
+        "これを聞いて",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "これを聞いて",
+      "explanation": "「get this」は、相手に驚きや興味を持って聞いてほしいときに使う表現です。「ちょっと聞いてよ」「信じられないかもしれないけど」のようなニュアンスを含みます。\n\n例：Get this, he actually apologized! (聞いてよ、彼が謝ったんだ！)"
+    },
+    {
+      "id": 29,
+      "value": "articulating",
+      "options": [
+        "固定された",
+        "装飾された",
+        "関節でつながった",
+        "単純な"
+      ],
+      "correctAnswer": "関節でつながった",
+      "explanation": "「articulating」は、「関節でつながった」「（考えなどを）はっきり述べる」という意味を持つ形容詞です。ここでは、はしごの構造を説明するために使われています。\n\n例：an articulating lorry (連結トラック)"
+    },
+    {
+      "id": 30,
+      "value": "leveling",
+      "options": [
+        "平らにすること",
+        "隠蔽すること",
+        "加速すること",
+        "複雑にすること"
+      ],
+      "correctAnswer": "平らにすること",
+      "explanation": "「leveling」は、「平らにすること」「水平にすること」という意味です。ここでは、はしごの脚の調整機能について述べています。\n\n例：the leveling of inequality (不平等の解消)"
+    },
+    {
+      "id": 31,
+      "value": "outing",
+      "options": [
+        "外出",
+        "内緒の話",
+        "秘密",
+        "会議"
+      ],
+      "correctAnswer": "外出",
+      "explanation": "「outing」は、通常短い旅行や娯楽目的の外出を指します。気晴らしやレクリエーションのためにどこかへ行くことを意味します。\n\n例：We went on an outing to the zoo. (私たちは動物園へ遠足に行きました。)"
+    },
+    {
+      "id": 32,
+      "value": "fan",
+      "options": [
+        "送風機",
+        "ファン",
+        "友人",
+        "敵"
+      ],
+      "correctAnswer": "ファン",
+      "explanation": "「fan」は、「ファン」「愛好家」という意味です。ここでは、Dr. NowitzkiがSheldonの業績のファンであることを述べています。\n\n例：I'm a big fan of her work. (私は彼女の作品の大ファンです。)"
+    },
+    {
+      "id": 33,
+      "value": "Keep an eye on",
+      "options": [
+        "監視する",
+        "無視する",
+        "手伝う",
+        "隠す"
+      ],
+      "correctAnswer": "監視する",
+      "explanation": "「keep an eye on」は、「～から目を離さない」「～を監視する」という意味のイディオムです。ここでは、AmyがPennyにSheldonを監視するように頼んでいます。\n\n例：Could you keep an eye on my bag while I go to the restroom? (トイレに行っている間、私のバッグを見ていてもらえますか？)"
+    },
+    {
+      "id": 34,
+      "value": "bingo bango",
+      "options": [
+        "徐々に",
+        "突然に",
+        "確実に",
+        "全くない"
+      ],
+      "correctAnswer": "突然に",
+      "explanation": "「bingo bango」は、口語的な表現で「突然に」「あっという間に」という意味です。ここでは、AmyとSheldonの関係が急に進展したことを表しています。類似の表現として、'just like that' があります。\n\n例：And then, bingo bango, she was pregnant. (そして、突然、彼女は妊娠した。)"
+    },
+    {
+      "id": 35,
+      "value": "smacking",
+      "options": [
+        "なだめる",
+        "たたく",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "たたく",
+      "explanation": "「smack」は「～を叩く」という意味で、ここではケチャップボトルを叩いて中身を出そうとする様子を表しています。比喩的に、Sheldonとの関係を築くために努力してきたことを示唆しています。\n\n例：He smacked the table in anger. (彼は怒ってテーブルを叩いた。)"
+    },
+    {
+      "id": 36,
+      "value": "tip it over",
+      "options": [
+        "隠す",
+        "覆す",
+        "支える",
+        "遅らせる"
+      ],
+      "correctAnswer": "覆す",
+      "explanation": "「tip over」は、「ひっくり返す」「倒す」という意味です。ここでは、ケチャップボトルを倒すことで、Amyが築き上げてきた関係を壊してしまうことを比喩的に表現しています。\n\n例：Be careful not to tip over the glass. (グラスを倒さないように気をつけて。)"
+    },
+    {
+      "id": 37,
+      "value": "broad",
+      "options": [
+        "友人",
+        "女性",
+        "男性",
+        "子供"
+      ],
+      "correctAnswer": "女性",
+      "explanation": "「broad」は、口語的でやや軽蔑的なニュアンスを含む「女性」を指す言葉です。特にアメリカ英語で使われることがあります。\n\n例：She's a tough broad. (彼女は手ごわい女性だ。)"
+    },
+    {
+      "id": 38,
+      "value": "scrambling",
+      "options": [
+        "準備する",
+        "急いで行動する",
+        "リラックスする",
+        "忘れる"
+      ],
+      "correctAnswer": "急いで行動する",
+      "explanation": "「scramble」は、「慌てて行動する」「よじ登る」という意味です。ここでは、PennyがAmyをなだめるために言葉を探して、必死になっている様子を表しています。\n\n例：I was scrambling to find my keys. (鍵を必死で探していた。)"
+    },
+    {
+      "id": 39,
+      "value": "laid into",
+      "options": [
+        "褒めた",
+        "非難した",
+        "無視した",
+        "助けた"
+      ],
+      "correctAnswer": "非難した",
+      "explanation": "「lay into」は、「～を激しく非難する」「～に食ってかかる」という意味の口語的な表現です。ここでは、PennyがLeonardを非難したことを表しています。\n\n例：My boss laid into me for being late. (上司は私が遅刻したことで私を厳しく叱った。)"
+    },
+    {
+      "id": 40,
+      "value": "fixated on",
+      "options": [
+        "興味がない",
+        "熱中している",
+        "嫌悪している",
+        "無関心である"
+      ],
+      "correctAnswer": "熱中している",
+      "explanation": "「fixated on」は、「～に心を奪われている」「～に執着している」という意味です。ここでは、Leonardが高級スイスチョコレートに夢中になっていることを表しています。\n\n例：He's fixated on winning the competition. (彼はその競技で勝つことに執着している。)"
+    },
+    {
+      "id": 41,
+      "value": "premium",
+      "options": [
+        "無料の",
+        "最高の",
+        "最低の",
+        "普通の"
+      ],
+      "correctAnswer": "最高の",
+      "explanation": "「premium」は、「高級な」「最高の」という意味です。ここでは、チョコレートの品質について述べています。\n\n例：This is a premium brand. (これは高級ブランドです。)"
+    },
+    {
+      "id": 42,
+      "value": "Lactaid",
+      "options": [
+        "薬の名前",
+        "お菓子",
+        "飲み物",
+        "運動"
+      ],
+      "correctAnswer": "薬の名前",
+      "explanation": "「Lactaid」は、乳糖不耐症の人が乳製品を摂取する際に飲む薬の名前です。乳糖を分解する酵素を含んでいます。\n\n例：I need to take Lactaid before I eat ice cream. (アイスクリームを食べる前にラクターゼを飲む必要があります。)"
+    },
+    {
+      "id": 43,
+      "value": "Pepto",
+      "options": [
+        "洗剤",
+        "薬の名前",
+        "お菓子",
+        "飲み物"
+      ],
+      "correctAnswer": "薬の名前",
+      "explanation": "「Pepto」は、Pepto-Bismolの略で、胃の不調を和らげる薬の商品名です。下痢や胸焼けなどに効果があります。\n\n例：I took some Pepto for my upset stomach. (胃のむかつきのためにペプトを飲みました。)"
+    },
+    {
+      "id": 44,
+      "value": "Eh",
+      "options": [
+        "はい",
+        "いいえ",
+        "まあね",
+        "ありがとう"
+      ],
+      "correctAnswer": "まあね",
+      "explanation": "「eh」は、ためらいや無関心、または質問に対するあいまいな返事を表すときに使われる間投詞です。ここでは、「まあ、それだけの価値はある」というニュアンスで使われています。\n\n例：Eh, it's not that important. (ええ、それほど重要ではありません。)"
+    },
+    {
+      "id": 45,
+      "value": "into",
+      "options": [
+        "興味がない",
+        "興味がある",
+        "嫌い",
+        "無関心"
+      ],
+      "correctAnswer": "興味がある",
+      "explanation": "「be into」は、「～に興味がある」「～が好きである」という意味です。ここでは、Dr. NowitzkiがSheldonに恋愛感情を持っていないことを確認するために使われています。\n\n例：She's really into music. (彼女は音楽にとても興味がある。)"
+    },
+    {
+      "id": 46,
+      "value": "No offence",
+      "options": [
+        "気にしないで",
+        "気を悪くしないで",
+        "同意します",
+        "おめでとう"
+      ],
+      "correctAnswer": "気を悪くしないで",
+      "explanation": "「No offence」は、「気を悪くしないで」「悪気はないよ」という意味で、相手に不快なことを言うかもしれないときに使われる表現です。\n\n例：No offence, but I think you're wrong. (気を悪くしないでほしいんだけど、君は間違っていると思うよ。)"
+    },
+    {
+      "id": 47,
+      "value": "have a look",
+      "options": [
+        "試食する",
+        "少し見る",
+        "無視する",
+        "拒否する"
+      ],
+      "correctAnswer": "少し見る",
+      "explanation": "「have a look」は、「少し見る」「ちょっと調べる」という意味です。ここでは、Stuartの医者が他の医者を呼んで彼を見るという状況を表しています。\n\n例：Can you have a look at my car? (私の車をちょっと見てもらえますか？)"
+    },
+    {
+      "id": 48,
+      "value": "medical oddity",
+      "options": [
+        "医療の専門家",
+        "医学の奇妙な事例",
+        "一般的な病気",
+        "健康な人"
+      ],
+      "correctAnswer": "医学の奇妙な事例",
+      "explanation": "「medical oddity」は、「医学的な奇妙な事例」「珍しい病気」という意味です。ここでは、Stuartが医者にそう呼ばれていることを述べています。\n\n例：The patient was a medical oddity. (その患者は医学的に珍しい事例だった。)"
+    },
+    {
+      "id": 49,
+      "value": "Actually",
+      "options": [
+        "実際には",
+        "いつも",
+        "絶対に",
+        "多分"
+      ],
+      "correctAnswer": "実際には",
+      "explanation": "「actually」は、「実際には」「実は」という意味で、相手の発言を修正したり、新しい情報を加えたりするときに使います。\n\n例：Actually, I'm not busy tonight. (実は、今夜は忙しくないんだ。)"
+    },
+    {
+      "id": 50,
+      "value": "suggest",
+      "options": [
+        "提案する",
+        "拒否する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "提案する",
+      "explanation": "「suggest」は、「提案する」「示唆する」という意味です。ここでは、RajがDr. Nowitzkiをデートに誘うことを提案しています。\n\n例：I suggest we go out for dinner. (夕食に出かけることを提案します。)"
+    },
+    {
+      "id": 51,
+      "value": "spleen",
+      "options": [
+        "脳",
+        "脾臓",
+        "肝臓",
+        "心臓"
+      ],
+      "correctAnswer": "脾臓",
+      "explanation": "「spleen」は脾臓を意味します。脾臓は、血液のろ過や免疫機能に関わる臓器です。医学的な文脈でよく使用されます。"
+    },
+    {
+      "id": 52,
+      "value": "gallbladder",
+      "options": [
+        "腎臓",
+        "膀胱",
+        "胆嚢",
+        "胃"
+      ],
+      "correctAnswer": "胆嚢",
+      "explanation": "「gallbladder」は胆嚢を意味します。胆嚢は、肝臓で生成された胆汁を貯めて濃縮する役割を持つ臓器です。"
+    },
+    {
+      "id": 53,
+      "value": "make a play for",
+      "options": [
+        "無視する",
+        "攻撃する",
+        "口論する",
+        "口説く"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「make a play for」は、誰かに対して恋愛的な興味を示し、アプローチを試みるという意味のイディオムです。恋愛対象に対して積極的に行動する様子を表します。"
+    },
+    {
+      "id": 54,
+      "value": "shot me down",
+      "options": [
+        "助けてくれた",
+        "褒めてくれた",
+        "拒絶した",
+        "励ましてくれた"
+      ],
+      "correctAnswer": "拒絶した",
+      "explanation": "「shot someone down」は、誰かの申し出や提案、特に恋愛的なアプローチを拒絶するという意味のイディオムです。相手を否定的に打ち砕くニュアンスを含みます。"
+    },
+    {
+      "id": 55,
+      "value": "overreacting",
+      "options": [
+        "無視する",
+        "冷静になる",
+        "過剰反応する",
+        "理解する"
+      ],
+      "correctAnswer": "過剰反応する",
+      "explanation": "「overreact」は、状況に対して必要以上に感情的になったり、大げさな反応をしたりすることを意味します。些細なことに対して騒ぎ立てるような状況で使われます。"
+    },
+    {
+      "id": 56,
+      "value": "squeeze in",
+      "options": [
+        "急いで逃げる",
+        "割り込む",
+        "ゆっくり歩く",
+        "立ち止まる"
+      ],
+      "correctAnswer": "割り込む",
+      "explanation": "「squeeze in」は、物理的な空間や時間的な余裕がない場所に無理やり入り込む、または詰め込むという意味です。会話に割り込む場合にも使われます。"
+    },
+    {
+      "id": 57,
+      "value": "skyped",
+      "options": [
+        "手紙を書いた",
+        "電話した",
+        "スカイプで話した",
+        "会った"
+      ],
+      "correctAnswer": "スカイプで話した",
+      "explanation": "「Skype」は、インターネットを通じて音声通話やビデオ通話を行うためのソフトウェアの名前であり、動詞として使用される場合は、Skypeで会話することを意味します。"
+    },
+    {
+      "id": 58,
+      "value": "check in with",
+      "options": [
+        "無視する",
+        "確認する",
+        "けんかする",
+        "相談する"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check in with」は、誰かに連絡を取って状況を報告したり、安否を確認したりすることを意味します。定期的な連絡や状況報告の際に使われることが多いです。"
+    },
+    {
+      "id": 59,
+      "value": "front row seat",
+      "options": [
+        "重要な役割",
+        "最前列の席",
+        "裏方の仕事",
+        "傍観者"
+      ],
+      "correctAnswer": "最前列の席",
+      "explanation": "「front row seat」は、文字通りには最前列の席を意味しますが、比喩的には、重要な出来事や活動を間近で見ることができる機会や立場を指します。特権的な状況を指すことが多いです。"
+    },
+    {
+      "id": 60,
+      "value": "correspond",
+      "options": [
+        "手紙を交換する",
+        "無視する",
+        "討論する",
+        "協力する"
+      ],
+      "correctAnswer": "手紙を交換する",
+      "explanation": "「correspond」は、手紙やメールなどを通じて連絡を取り合うという意味です。ビジネスやフォーマルな文脈で使われることが多いです。"
+    },
+    {
+      "id": 61,
+      "value": "hang on",
+      "options": [
+        "去る",
+        "待つ",
+        "攻撃する",
+        "無視する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、少しの間待つように誰かに伝える際に使われる口語表現です。電話を切らずに待つ場合などにも使われます。"
+    },
+    {
+      "id": 62,
+      "value": "play date",
+      "options": [
+        "デート",
+        "遊び友達との約束",
+        "仕事の会議",
+        "スポーツの試合"
+      ],
+      "correctAnswer": "遊び友達との約束",
+      "explanation": "「play date」は、主に子供たちが遊ぶために計画された約束を指します。親が子供のために設定することが多いです。大人の場合は異なる意味になる場合があります。"
+    },
+    {
+      "id": 63,
+      "value": "throw my body at them",
+      "options": [
+        "無視する",
+        "身を挺して止める",
+        "応援する",
+        "手伝う"
+      ],
+      "correctAnswer": "身を挺して止める",
+      "explanation": "「throw my body at them」は、文字通りには自分の体を投げ出すという意味ですが、ここでは比喩的に、文字通り体を張って阻止しようとしたという意味合いになります。"
+    },
+    {
+      "id": 64,
+      "value": "timing",
+      "options": [
+        "時間",
+        "タイミング",
+        "場所",
+        "理由"
+      ],
+      "correctAnswer": "タイミング",
+      "explanation": "「timing」は、物事が起こる時間や時期、またはその選択を意味します。良いタイミング、悪いタイミングのように使われます。"
+    },
+    {
+      "id": 65,
+      "value": "better than",
+      "options": [
+        "同等",
+        "劣る",
+        "優れている",
+        "関係ない"
+      ],
+      "correctAnswer": "優れている",
+      "explanation": "「better than」は〜より優れている、ましであるという意味です。比較級としてよく使われます。"
+    },
+    {
+      "id": 66,
+      "value": "clearly",
+      "options": [
+        "曖昧に",
+        "明らかに",
+        "たぶん",
+        "おそらく"
+      ],
+      "correctAnswer": "明らかに",
+      "explanation": "「clearly」は、疑いの余地なく、明らかにという意味です。意見や状況が明白であることを強調する際に使われます。"
+    },
+    {
+      "id": 67,
+      "value": "preferred",
+      "options": [
+        "嫌い",
+        "好んだ",
+        "無視した",
+        "反対した"
+      ],
+      "correctAnswer": "好んだ",
+      "explanation": "「preferred」は、他の選択肢よりも〜を好んだ、という意味です。好みや選択を表す際に使われます。"
+    },
+    {
+      "id": 68,
+      "value": "prove",
+      "options": [
+        "否定する",
+        "証明する",
+        "隠す",
+        "無視する"
+      ],
+      "correctAnswer": "証明する",
+      "explanation": "「prove」は、事実や証拠によって〜を証明する、明らかにするという意味です。議論や主張を裏付ける際に使われます。"
+    },
+    {
+      "id": 69,
+      "value": "nothing",
+      "options": [
+        "すべて",
+        "何か",
+        "無",
+        "重要"
+      ],
+      "correctAnswer": "無",
+      "explanation": "「nothing」は、何もない、取るに足らないこと、重要でないことを意味します。状況や事柄の無価値さを示す際に使われます。"
+    },
+    {
+      "id": 70,
+      "value": "strangers",
+      "options": [
+        "友達",
+        "家族",
+        "見知らぬ人",
+        "有名人"
+      ],
+      "correctAnswer": "見知らぬ人",
+      "explanation": "「strangers」は、知らない人、見慣れない人を意味します。不特定多数の人々を指す際に使われます。"
+    },
+    {
+      "id": 71,
+      "value": "counts",
+      "options": [
+        "数えない",
+        "重要である",
+        "無視する",
+        "数える"
+      ],
+      "correctAnswer": "重要である",
+      "explanation": "「counts」は、重要である、価値があるという意味です。何かが考慮されるべきであることを示す際に使われます。"
+    },
+    {
+      "id": 72,
+      "value": "relationships",
+      "options": [
+        "仕事",
+        "関係",
+        "趣味",
+        "食事"
+      ],
+      "correctAnswer": "関係",
+      "explanation": "「relationships」は、人間関係、特に親密な関係を意味します。家族、友人、恋人など、様々な関係を含みます。"
+    },
+    {
+      "id": 73,
+      "value": "detected",
+      "options": [
+        "隠した",
+        "発見した",
+        "無視した",
+        "創造した"
+      ],
+      "correctAnswer": "発見した",
+      "explanation": "「detected」は、感知した、発見したという意味です。科学的な発見や調査など、何かを特定する際に使われます。"
+    },
+    {
+      "id": 74,
+      "value": "excuse me",
+      "options": [
+        "ありがとう",
+        "ごめんなさい",
+        "こんにちは",
+        "さようなら"
+      ],
+      "correctAnswer": "ごめんなさい",
+      "explanation": "「excuse me」は、人に話しかけるときや、何かを頼むとき、または相手の言葉を遮るときなどに使われる丁寧な表現です。"
+    },
+    {
+      "id": 75,
+      "value": "missing you",
+      "options": [
+        "忘れていた",
+        "恋しい",
+        "怒っていた",
+        "満足していた"
+      ],
+      "correctAnswer": "恋しい",
+      "explanation": "「missing you」は、相手がいなくて寂しい、恋しいという気持ちを表す表現です。親しい人に対して使われることが多いです。"
+    },
+    {
+      "id": 76,
+      "value": "Hang on",
+      "options": [
+        "手放す",
+        "待つ",
+        "諦める",
+        "続ける"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「Hang on」は、電話を切らずに待つ、または少しの間待つという意味で使われます。日常会話でよく用いられ、相手に少し待ってほしい時に気軽に使える表現です。 例：Hang on a second, I'll check. (ちょっと待って、確認します。)"
+    },
+    {
+      "id": 77,
+      "value": "inappropriate",
+      "options": [
+        "適切な",
+        "不適切な",
+        "重要な",
+        "緊急の"
+      ],
+      "correctAnswer": "不適切な",
+      "explanation": "「inappropriate」は、状況や文脈にそぐわない、不適切なという意味です。社会的な規範やマナーに反する場合に使われることが多いです。 例：His comments were inappropriate for the occasion. (彼のコメントはその場にふさわしくなかった。)"
+    },
+    {
+      "id": 78,
+      "value": "Shake a can of nickels at them",
+      "options": [
+        "騒ぎ立てる",
+        "慰める",
+        "応援する",
+        "無視する"
+      ],
+      "correctAnswer": "騒ぎ立てる",
+      "explanation": "「Shake a can of nickels at them」は、文字通りには「ニッケル（硬貨）の缶を彼らに向かって振る」ですが、ここでは騒ぎ立てる、抗議するという意味合いで使われています。比喩的な表現で、騒々しく不満を示す様子を表します。"
+    },
+    {
+      "id": 79,
+      "value": "seduce",
+      "options": [
+        "守る",
+        "誘惑する",
+        "避ける",
+        "理解する"
+      ],
+      "correctAnswer": "誘惑する",
+      "explanation": "「seduce」は、人を魅了して（特に性的な意味で）誘惑するという意味です。強い魅力で相手を引き込むニュアンスがあります。 例：She seduced him with her charm. (彼女は魅力で彼を誘惑した。)"
+    },
+    {
+      "id": 80,
+      "value": "race card",
+      "options": [
+        "人種差別を利用する",
+        "競争意識を持つ",
+        "切り札を使う",
+        "人種問題を無視する"
+      ],
+      "correctAnswer": "人種差別を利用する",
+      "explanation": "「play the race card」は、人種的な問題を自分の有利になるように利用するという意味です。しばしば批判的な意味合いで使用されます。 例：He accused them of playing the race card. (彼は彼らが人種差別を利用していると非難した。)"
+    },
+    {
+      "id": 81,
+      "value": "break up the party",
+      "options": [
+        "パーティーを始める",
+        "パーティーを終わらせる",
+        "パーティーに参加する",
+        "パーティーを計画する"
+      ],
+      "correctAnswer": "パーティーを終わらせる",
+      "explanation": "「break up the party」は、パーティーや集まりを終わらせる、解散させるという意味です。邪魔をするという意味合いが含まれることもあります。 例：I hate to break up the party, but I have to go. (パーティーを終わらせたくないけど、行かないといけない。)"
+    },
+    {
+      "id": 82,
+      "value": "romantic interest",
+      "options": [
+        "友情",
+        "恋愛感情",
+        "尊敬",
+        "嫌悪感"
+      ],
+      "correctAnswer": "恋愛感情",
+      "explanation": "「romantic interest」は、恋愛対象、恋愛感情という意味です。異性に対する興味や好意を表します。 例：He has a romantic interest in her. (彼は彼女に恋愛感情を抱いている。)"
+    },
+    {
+      "id": 83,
+      "value": "highlighted",
+      "options": [
+        "隠した",
+        "強調した",
+        "無視した",
+        "覆った"
+      ],
+      "correctAnswer": "強調した",
+      "explanation": "「highlight」は、目立たせる、強調するという意味です。特定の要素や特徴を際立たせる際に使われます。 例：The report highlighted the need for more funding. (その報告書は、より多くの資金が必要であることを強調した。)"
+    },
+    {
+      "id": 84,
+      "value": "limited edition",
+      "options": [
+        "通常版",
+        "限定版",
+        "普及版",
+        "最新版"
+      ],
+      "correctAnswer": "限定版",
+      "explanation": "「limited edition」は、数量限定で販売される製品やアイテムを指します。希少価値があり、コレクターズアイテムとして人気があります。 例：This is a limited edition print. (これは限定版の印刷物です。)"
+    },
+    {
+      "id": 85,
+      "value": "get it",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "拒否する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get it」は、理解する、わかるという意味です。相手の言っていることや状況を把握した時に使います。 例：I don't get it. (わかりません。)"
+    },
+    {
+      "id": 86,
+      "value": "concern",
+      "options": [
+        "安心",
+        "懸念",
+        "喜び",
+        "無関心"
+      ],
+      "correctAnswer": "懸念",
+      "explanation": "「concern」は、心配、懸念、関心という意味です。何かについて不安や気がかりな気持ちを表します。 例：I appreciate your concern. (ご心配ありがとうございます。)"
+    },
+    {
+      "id": 87,
+      "value": "marriage counsellor",
+      "options": [
+        "結婚詐欺師",
+        "結婚相談員",
+        "離婚弁護士",
+        "結婚プランナー"
+      ],
+      "correctAnswer": "結婚相談員",
+      "explanation": "「marriage counsellor」は、夫婦関係のカウンセリングを行う専門家です。夫婦間の問題を解決するためのサポートをします。 例：They decided to see a marriage counsellor. (彼らは結婚相談員に相談することに決めた。)"
+    },
+    {
+      "id": 88,
+      "value": "rides the line",
+      "options": [
+        "曖昧な状態",
+        "明確な状態",
+        "安全な状態",
+        "危険な状態"
+      ],
+      "correctAnswer": "曖昧な状態",
+      "explanation": "「ride the line」は、境界線上にある、曖昧な状態であるという意味です。どちらとも言えない微妙な状況を表します。 例：That joke rides the line between funny and offensive. (そのジョークは面白いと不快の中間にある。)"
+    },
+    {
+      "id": 89,
+      "value": "thoughtful",
+      "options": [
+        "無頓着な",
+        "思いやりのある",
+        "自己中心的な",
+        "無愛想な"
+      ],
+      "correctAnswer": "思いやりのある",
+      "explanation": "「thoughtful」は、思いやりのある、配慮が行き届いているという意味です。相手のことを考えて行動する様子を表します。 例：It was very thoughtful of you to bring flowers. (花を持ってきてくれて、とても思いやりがあるね。)"
+    },
+    {
+      "id": 90,
+      "value": "No big deal",
+      "options": [
+        "大変だ",
+        "大したことない",
+        "重要なことだ",
+        "秘密だ"
+      ],
+      "correctAnswer": "大したことない",
+      "explanation": "「No big deal」は、大したことない、どういたしましてという意味です。相手に感謝された時に、謙遜して使う表現です。 例：Thanks for helping me. - No big deal. (手伝ってくれてありがとう。- 大したことないよ。)"
+    },
+    {
+      "id": 91,
+      "value": "seeking",
+      "options": [
+        "避ける",
+        "探している",
+        "隠している",
+        "無視している"
+      ],
+      "correctAnswer": "探している",
+      "explanation": "「seek」は、探す、求めるという意味です。「seeking」はその現在進行形です。 例：He is seeking a new job. (彼は新しい仕事を探している。)"
+    },
+    {
+      "id": 92,
+      "value": "raise a number of problems",
+      "options": [
+        "問題を解決する",
+        "多くの問題を引き起こす",
+        "問題を無視する",
+        "問題から逃げる"
+      ],
+      "correctAnswer": "多くの問題を引き起こす",
+      "explanation": "「raise a number of problems」は、多くの問題を引き起こすという意味です。新たな課題や困難が生じることを示します。 例：This decision will raise a number of problems. (この決定は多くの問題を引き起こすだろう。)"
+    }
+  ]
+}

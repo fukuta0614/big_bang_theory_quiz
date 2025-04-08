@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "hast thou forsaken me",
+      "options": [
+        "私を助けてくれませんか",
+        "私を忘れてしまったのか",
+        "私を見捨てたのか",
+        "私を許してください"
+      ],
+      "correctAnswer": "私を見捨てたのか",
+      "explanation": "\"hast thou forsaken me\"は古英語で「あなたは私を見捨てたのか」という意味です。深い絶望や苦悩を表す際に使われます。元々は聖書の言葉で、非常に強い感情を伴う表現です。"
+    },
+    {
+      "id": 2,
+      "value": "picked clean",
+      "options": [
+        "掃除された",
+        "完全に奪われた",
+        "選ばれた",
+        "磨かれた"
+      ],
+      "correctAnswer": "完全に奪われた",
+      "explanation": "\"picked clean\"は「完全に奪われた」「すっかり空にされた」という意味です。比喩的に、財産や価値のあるものをすべて失った状態を表します。例文：The vultures picked the carcass clean.（ハゲタカが死骸をきれいに食べ尽くした。）"
+    },
+    {
+      "id": 3,
+      "value": "carcass",
+      "options": [
+        "宝物",
+        "死骸",
+        "武器",
+        "食料"
+      ],
+      "correctAnswer": "死骸",
+      "explanation": "\"carcass\"は動物の死骸を意味します。比喩的に、価値を失ったものや、破壊されたものを指すこともあります。例文：The bombed-out building was a carcass of its former self.（爆撃された建物は、かつての面影を残さない残骸だった。）"
+    },
+    {
+      "id": 4,
+      "value": "Goodness gracious",
+      "options": [
+        "素晴らしい",
+        "ありえない",
+        "お気の毒に",
+        "なんてことだ"
+      ],
+      "correctAnswer": "なんてことだ",
+      "explanation": "\"Goodness gracious\"は驚き、落胆、または軽いショックを表す感嘆詞です。「なんてことだ」「まあ」といった意味合いで使われます。フォーマルな場面でも使用できます。"
+    },
+    {
+      "id": 5,
+      "value": "rogue",
+      "options": [
+        "普通の",
+        "善良な",
+        "不正な",
+        "勇敢な"
+      ],
+      "correctAnswer": "不正な",
+      "explanation": "\"rogue\"は「不正な」「一匹狼の」という意味です。規則や規範に従わない、型破りな人物を指します。例文：a rogue cop（悪徳警官）、a rogue state（ならず者国家）"
+    },
+    {
+      "id": 6,
+      "value": "drummed off the force",
+      "options": [
+        "昇進した",
+        "尊敬された",
+        "強制的に辞めさせられた",
+        "自発的に辞めた"
+      ],
+      "correctAnswer": "強制的に辞めさせられた",
+      "explanation": "\"drummed off the force\"は「警察組織から強制的に追放された」という意味です。不正行為や規則違反によって解雇された状況を表します。"
+    },
+    {
+      "id": 7,
+      "value": "cry havoc, and let slip the dogs of war",
+      "options": [
+        "平和を祈り、戦争を終わらせる",
+        "混乱を招き、戦争を始める",
+        "静かに待ち、機会をうかがう",
+        "状況を分析し、解決策を探す"
+      ],
+      "correctAnswer": "混乱を招き、戦争を始める",
+      "explanation": "\"Cry havoc, and let slip the dogs of war\"はシェイクスピアの劇『ジュリアス・シーザー』に由来する言葉で、「戦争を始める」「混乱を引き起こす」という意味です。元々は軍隊に攻撃開始の合図を送る際の言葉でした。非常に強い決意や怒りを込めて使われます。"
+    },
+    {
+      "id": 8,
+      "value": "quell",
+      "options": [
+        "煽る",
+        "抑える",
+        "無視する",
+        "喜ぶ"
+      ],
+      "correctAnswer": "抑える",
+      "explanation": "\"quell\"は（感情、騒ぎなどを）「抑える」「鎮める」という意味です。例文：quell a riot（暴動を鎮圧する）、quell anxiety（不安を鎮める）"
+    },
+    {
+      "id": 9,
+      "value": "track down",
+      "options": [
+        "無視する",
+        "見つける",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "見つける",
+      "explanation": "\"track down\"は「追跡して見つける」「捜し出す」という意味です。困難な状況で何かを見つけ出すニュアンスがあります。例文：track down a criminal（犯人を捜し出す）、track down a rare book（珍しい本を探し出す）"
+    },
+    {
+      "id": 10,
+      "value": "fraud",
+      "options": [
+        "才能",
+        "正直者",
+        "詐欺師",
+        "英雄"
+      ],
+      "correctAnswer": "詐欺師",
+      "explanation": "\"fraud\"は「詐欺」「不正行為」、または「詐欺師」「ぺてん師」という意味です。例文：commit fraud（詐欺を働く）、a credit card fraud（クレジットカード詐欺）"
+    },
+    {
+      "id": 11,
+      "value": "bereft of",
+      "options": [
+        "満足している",
+        "不足している",
+        "興味がある",
+        "満たされている"
+      ],
+      "correctAnswer": "不足している",
+      "explanation": "\"bereft of\"は「～を奪われた」「～を失った」という意味です。例文：bereft of hope（希望を失った）、bereft of reason（理性がない）"
+    },
+    {
+      "id": 12,
+      "value": "succour",
+      "options": [
+        "苦しみ",
+        "喜び",
+        "救済",
+        "絶望"
+      ],
+      "correctAnswer": "救済",
+      "explanation": "\"succour\"は「救済」「援助」という意味です。困難な状況にある人を助けることを指します。例文：give succour to the needy（困窮者に救いの手を差し伸べる）"
+    },
+    {
+      "id": 13,
+      "value": "dropping off",
+      "options": [
+        "拾う",
+        "届ける",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "届ける",
+      "explanation": "\"drop off\"は「（人を）降ろす」「（物を）届ける」という意味です。例文：drop off a package（荷物を届ける）、drop off a friend at the station（友人を駅で降ろす）"
+    },
+    {
+      "id": 14,
+      "value": "make-believe",
+      "options": [
+        "現実的な",
+        "架空の",
+        "重要な",
+        "必要な"
+      ],
+      "correctAnswer": "架空の",
+      "explanation": "\"make-believe\"は「ごっこ遊び」「ふり」「見せかけ」という意味です。また、「架空の」「想像上の」という意味の形容詞としても使われます。例文：a make-believe world（架空の世界）"
+    },
+    {
+      "id": 15,
+      "value": "stepping on medical waste",
+      "options": [
+        "医療廃棄物を踏むこと",
+        "医療技術の進歩",
+        "医療費の削減",
+        "医療従事者の不足"
+      ],
+      "correctAnswer": "医療廃棄物を踏むこと",
+      "explanation": "医療廃棄物を踏むことに対する恐怖症を指します。感染症のリスクや衛生的な懸念から、特に公共の場での医療廃棄物に対する嫌悪感や恐怖心を抱く状態です。"
+    },
+    {
+      "id": 16,
+      "value": "level 85 blood elf",
+      "options": [
+        "レベル85の天使",
+        "レベル85の吸血鬼",
+        "レベル85の血のエルフ",
+        "レベル85の人間"
+      ],
+      "correctAnswer": "レベル85の血のエルフ",
+      "explanation": "World of Warcraftというゲームに出てくるキャラクターのレベルと種族を表しています。ゲーム内の熟練度やキャラクター設定を示す言葉です。"
+    },
+    {
+      "id": 17,
+      "value": "Eastern kingdoms",
+      "options": [
+        "東の王国",
+        "西の王国",
+        "南の王国",
+        "北の王国"
+      ],
+      "correctAnswer": "東の王国",
+      "explanation": "World of Warcraftというゲームに登場する地域名です。ゲーム内の地理的な場所を示します。"
+    },
+    {
+      "id": 18,
+      "value": "wand of untainted power",
+      "options": [
+        "汚染された力の杖",
+        "染み付いた力の杖",
+        "純粋な力の杖",
+        "制御された力の杖"
+      ],
+      "correctAnswer": "純粋な力の杖",
+      "explanation": "ファンタジーゲームで使われるアイテム名で、「穢れのない力を持つ杖」という意味です。ゲーム内での強力な魔法力を持つアイテムを示唆します。"
+    },
+    {
+      "id": 19,
+      "value": "vicious gladiator armour",
+      "options": [
+        "平和なグラディエーターの鎧",
+        "残酷なグラディエーターの鎧",
+        "友好的なグラディエーターの鎧",
+        "親切なグラディエーターの鎧"
+      ],
+      "correctAnswer": "残酷なグラディエーターの鎧",
+      "explanation": "ゲームやファンタジー世界に登場する、戦闘に特化した鎧を指します。「vicious」は「残酷な」「どう猛な」という意味で、鎧の攻撃的な性質を強調しています。"
+    },
+    {
+      "id": 20,
+      "value": "enchanted weapons",
+      "options": [
+        "錆びた武器",
+        "魔法がかけられた武器",
+        "普通の武器",
+        "壊れた武器"
+      ],
+      "correctAnswer": "魔法がかけられた武器",
+      "explanation": "魔法の力が付与された武器を指します。ゲームやファンタジー作品で、通常よりも強力な効果や特殊能力を持つ武器として登場します。"
+    },
+    {
+      "id": 21,
+      "value": "digital fingerprint",
+      "options": [
+        "デジタル署名",
+        "デジタル指紋",
+        "デジタルの足跡",
+        "デジタル認証"
+      ],
+      "correctAnswer": "デジタルの足跡",
+      "explanation": "オンライン上での行動やアクセス記録を指し、個人を特定できる情報となることがあります。痕跡を残さずにオンラインで行動することが非常に難しいことを意味します。"
+    },
+    {
+      "id": 22,
+      "value": "auctioning off",
+      "options": [
+        "購入",
+        "オークションに出品",
+        "販売",
+        "隠蔽"
+      ],
+      "correctAnswer": "オークションに出品",
+      "explanation": "\"auction off\"は「オークションに出品する」という意味です。何かを競売にかける行為を指します。例文: They are auctioning off the old furniture. (彼らは古い家具をオークションに出品している。)"
+    },
+    {
+      "id": 23,
+      "value": "jewelled ostrich bridle",
+      "options": [
+        "宝石で飾られたダチョウの手綱",
+        "革製のダチョウの手綱",
+        "普通のダチョウの手綱",
+        "壊れたダチョウの手綱"
+      ],
+      "correctAnswer": "宝石で飾られたダチョウの手綱",
+      "explanation": "宝石で装飾されたダチョウ用の手綱を指します。非常に豪華で高価な装飾品であることを示唆しています。"
+    },
+    {
+      "id": 24,
+      "value": "massively multi-player online role-playing",
+      "options": [
+        "小規模なオフラインゲーム",
+        "大規模多人数参加型オンラインRPG",
+        "シングルプレイ用ゲーム",
+        "教育用シミュレーションゲーム"
+      ],
+      "correctAnswer": "大規模多人数参加型オンラインRPG",
+      "explanation": "MMORPG（Massively Multiplayer Online Role-Playing Game）のことで、多数のプレイヤーがインターネットを通じて同じ仮想世界で役割を演じるゲームのジャンルを指します。"
+    },
+    {
+      "id": 25,
+      "value": "that bitch",
+      "options": [
+        "あの優しい人",
+        "あのずる賢い人",
+        "あの賢い人",
+        "あの面白い人"
+      ],
+      "correctAnswer": "あのずる賢い人",
+      "explanation": "\"That bitch\"は、女性に対して非常に侮辱的な意味合いで使用される言葉です。嫉妬、敵意、不快感などを表現する際に使われ、相手を見下すニュアンスが含まれます。"
+    },
+    {
+      "id": 26,
+      "value": "burst into flames",
+      "options": [
+        "急に燃え上がる",
+        "急に泣き出す",
+        "急に笑い出す",
+        "急に走り出す"
+      ],
+      "correctAnswer": "急に燃え上がる",
+      "explanation": "「burst into flames」は、文字通りには「炎を上げて爆発する」という意味ですが、ここでは比喩的に、日焼けでひどく赤くなる様子を誇張して表現しています。vampire(吸血鬼)のように日に当たれない体質を皮肉っています。"
+    },
+    {
+      "id": 27,
+      "value": "tiptoe around",
+      "options": [
+        "積極的に関わる",
+        "慎重に扱う",
+        "無視する",
+        "議論する"
+      ],
+      "correctAnswer": "慎重に扱う",
+      "explanation": "「tiptoe around」は、文字通りには「つま先立ちで歩く」という意味ですが、ここでは比喩的に、人に不快な思いをさせないように、あるいは問題を刺激しないように、慎重に行動することを意味します。例えば、デリケートな話題を避ける、相手の機嫌を損ねないように気を使う、などの状況で使われます。"
+    },
+    {
+      "id": 28,
+      "value": "on",
+      "options": [
+        "勘違いしている",
+        "理解している",
+        "興味がない",
+        "反対している"
+      ],
+      "correctAnswer": "理解している",
+      "explanation": "この文脈での「on」は、「何かを理解している」「気づいている」という意味のスラングです。「I'm on」のように使うと、「わかった」「気づいた」というニュアンスになります。類義語には「aware」があります。"
+    },
+    {
+      "id": 29,
+      "value": "liqueur",
+      "options": [
+        "コーヒー",
+        "リキュール",
+        "砂糖",
+        "ミルク"
+      ],
+      "correctAnswer": "リキュール",
+      "explanation": "「liqueur」は、蒸留酒に果物、ハーブ、スパイス、花、ナッツなどを加えて風味をつけた甘いアルコール飲料のことです。食後酒としてよく飲まれます。カクテルの材料としても使用されます。"
+    },
+    {
+      "id": 30,
+      "value": "peer pressure",
+      "options": [
+        "仲間からのプレッシャー",
+        "自己暗示",
+        "親からのプレッシャー",
+        "社会からのプレッシャー"
+      ],
+      "correctAnswer": "仲間からのプレッシャー",
+      "explanation": "「peer pressure」は、仲間からの影響力、特に同年代の友人やグループからの影響を受けて、自分の意思とは異なる行動を取ってしまうことを指します。多くの場合、ネガティブな意味合いで使われます。"
+    },
+    {
+      "id": 31,
+      "value": "take off",
+      "options": [
+        "脱ぐ",
+        "離陸する",
+        "始める",
+        "急いで立ち去る"
+      ],
+      "correctAnswer": "脱ぐ",
+      "explanation": "この文脈では「take off」は服を脱ぐという意味です。他にも、飛行機が離陸する、急に立ち去る、人気が出るといった意味があります。"
+    },
+    {
+      "id": 32,
+      "value": "mean to",
+      "options": [
+        "意味する",
+        "意地悪をする",
+        "親切にする",
+        "理解する"
+      ],
+      "correctAnswer": "意地悪をする",
+      "explanation": "「mean to」は、意図的に意地悪なことをする、という意味です。「No reason to be mean to her.」は、「彼女に意地悪をする理由はない」となります。"
+    },
+    {
+      "id": 33,
+      "value": "ostracize",
+      "options": [
+        "仲間に入れる",
+        "励ます",
+        "虐待する",
+        "排斥する"
+      ],
+      "correctAnswer": "排斥する",
+      "explanation": "「ostracize」は、集団から排斥する、仲間はずれにするという意味です。古代ギリシャのオストラキスモス（陶片追放）が語源です。社会的な制裁として用いられることがあります。"
+    },
+    {
+      "id": 34,
+      "value": "ill-mannered",
+      "options": [
+        "礼儀正しい",
+        "無作法な",
+        "頭の良い",
+        "正直な"
+      ],
+      "correctAnswer": "無作法な",
+      "explanation": "「ill-mannered」は、礼儀作法がなっていない、無作法な、という意味です。対義語は「well-mannered」で、礼儀正しい、作法をわきまえている、という意味になります。"
+    },
+    {
+      "id": 35,
+      "value": "shun",
+      "options": [
+        "避ける",
+        "求める",
+        "受け入れる",
+        "無視する"
+      ],
+      "correctAnswer": "避ける",
+      "explanation": "「shun」は、人や物を避ける、遠ざけるという意味です。特に、嫌悪感や軽蔑の念から避ける場合に使われます。類義語には「avoid」があります。"
+    },
+    {
+      "id": 36,
+      "value": "scowl",
+      "options": [
+        "笑顔",
+        "しかめ面",
+        "ささやき",
+        "叫び"
+      ],
+      "correctAnswer": "しかめ面",
+      "explanation": "「scowl」は、不満や怒りのために顔をしかめることです。眉をひそめて不機嫌そうな表情をすることを指します。動詞としても名詞としても使われます。"
+    },
+    {
+      "id": 37,
+      "value": "hard-wired",
+      "options": [
+        "簡単に変更可能",
+        "生まれつき備わっている",
+        "後天的に学習する",
+        "時代遅れの"
+      ],
+      "correctAnswer": "生まれつき備わっている",
+      "explanation": "「hard-wired」は、コンピューターの配線が固定されているように、人の行動や感情などが生まれつき備わっている、という意味です。遺伝的に決定されている、本能的な、といったニュアンスがあります。"
+    },
+    {
+      "id": 38,
+      "value": "tavern",
+      "options": [
+        "学校",
+        "居酒屋",
+        "病院",
+        "図書館"
+      ],
+      "correctAnswer": "居酒屋",
+      "explanation": "「tavern」は、酒場、居酒屋、という意味です。特に、昔ながらの雰囲気を持つ、地域の人々が集まるような場所を指すことが多いです。現代では「pub」や「bar」がより一般的です。"
+    },
+    {
+      "id": 39,
+      "value": "go down",
+      "options": [
+        "成功する",
+        "失敗する",
+        "起こる",
+        "終わる"
+      ],
+      "correctAnswer": "起こる",
+      "explanation": "この文脈での「go down」は、「（事が）起こる」「行われる」という意味です。特に、計画や取引などが進行する様子を表します。類義語には「happen」や「occur」があります。"
+    },
+    {
+      "id": 40,
+      "value": "in the meantime",
+      "options": [
+        "永遠に",
+        "すぐに",
+        "同時に",
+        "その間に"
+      ],
+      "correctAnswer": "その間に",
+      "explanation": "「in the meantime」は、「その間に」「それまでの間」という意味です。ある事柄が起こるまでの時間を利用して別のことを行う場合に使われます。類義語には「meanwhile」があります。"
+    },
+    {
+      "id": 41,
+      "value": "whip up",
+      "options": [
+        "ゆっくり調理する",
+        "素早く作る",
+        "破壊する",
+        "隠す"
+      ],
+      "correctAnswer": "素早く作る",
+      "explanation": "「whip up」は、料理などを手早く作る、あっという間に仕上げる、という意味です。準備や手順が簡単なものを短時間で作る際に使われます。類義語には「quickly prepare」があります。"
+    },
+    {
+      "id": 42,
+      "value": "ruthless",
+      "options": [
+        "思いやりがある",
+        "無慈悲な",
+        "勇敢な",
+        "正直な"
+      ],
+      "correctAnswer": "無慈悲な",
+      "explanation": "「ruthless」は、無慈悲な、容赦のない、という意味です。目標達成のためには手段を選ばない、冷酷な態度を指します。類義語には「merciless」があります。"
+    },
+    {
+      "id": 43,
+      "value": "lose it",
+      "options": [
+        "道に迷う",
+        "冷静さを失う",
+        "お金を失う",
+        "鍵をなくす"
+      ],
+      "correctAnswer": "冷静さを失う",
+      "explanation": "「lose it」は、感情を抑えきれなくなる、冷静さを失う、という意味です。怒りや興奮、悲しみなどが極限に達した状態を表します。類義語には「freak out」があります。"
+    },
+    {
+      "id": 44,
+      "value": "go-between",
+      "options": [
+        "仲介者",
+        "傍観者",
+        "参加者",
+        "敵"
+      ],
+      "correctAnswer": "仲介者",
+      "explanation": "「go-between」は、二者間または複数の関係者の間で仲介する人、取り持つ人、という意味です。交渉や連絡などを円滑に進める役割を担います。類義語には「mediator」があります。"
+    },
+    {
+      "id": 45,
+      "value": "relief",
+      "options": [
+        "悲しみ",
+        "安心",
+        "怒り",
+        "恐怖"
+      ],
+      "correctAnswer": "安心",
+      "explanation": "「relief」は、苦痛や心配事が軽減されることによる安心感、安堵感、という意味です。困難な状況から解放された時に感じる感情を表します。類義語には「reassurance」があります。"
+    },
+    {
+      "id": 46,
+      "value": "skyping",
+      "options": [
+        "ハイキング",
+        "スカイダイビング",
+        "手紙を書く",
+        "スカイプで話す"
+      ],
+      "correctAnswer": "スカイプで話す",
+      "explanation": "「Skyping」は、Skype（スカイプ）というインターネット電話サービスを使って通話したり、ビデオ通話したりすることです。人とのコミュニケーション手段として広く利用されています。現代ではzoomなどの他のビデオ通話サービスを使うこともあります。"
+    },
+    {
+      "id": 47,
+      "value": "hackers",
+      "options": [
+        "木こり",
+        "ハッカー",
+        "料理人",
+        "芸術家"
+      ],
+      "correctAnswer": "ハッカー",
+      "explanation": "「hacker」は、コンピューターシステムのセキュリティを突破する技術を持つ人のことです。本来は技術的な知識が豊富な人を指しますが、不正アクセスを行う人を指すことが多いです。"
+    },
+    {
+      "id": 48,
+      "value": "Good job",
+      "options": [
+        "お疲れ様",
+        "頑張って",
+        "良い仕事",
+        "どういたしまして"
+      ],
+      "correctAnswer": "良い仕事",
+      "explanation": "「Good job」は、相手の仕事や成果を褒める際に使う表現です。「よくやった」「素晴らしい」といった意味合いがあります。上司から部下、先生から生徒など、様々な場面で使われます。"
+    },
+    {
+      "id": 49,
+      "value": "hang on",
+      "options": [
+        "諦める",
+        "続ける",
+        "待つ",
+        "手放す"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、電話を切らずに待つ、または少し待つという意味です。会話を中断させないように、または相手に少し待ってほしいときに使います。"
+    },
+    {
+      "id": 50,
+      "value": "in the middle of",
+      "options": [
+        "〜の中心に",
+        "〜の終わりに",
+        "〜の始まりに",
+        "〜の途中に"
+      ],
+      "correctAnswer": "〜の途中に",
+      "explanation": "「in the middle of」は、「〜の途中に」「〜の真ん中に」という意味です。時間、場所、状況など、様々な文脈で使用できます。類義語には「amidst」があります。"
+    },
+    {
+      "id": 51,
+      "value": "culprit",
+      "options": [
+        "被害者",
+        "共犯者",
+        "容疑者",
+        "証人"
+      ],
+      "correctAnswer": "容疑者",
+      "explanation": "「culprit」は、犯罪や不正行為の犯人、原因となるものを指します。フォーマルな文脈で使われることが多く、しばしば捜査や問題解決の状況で用いられます。\n\n例：The main culprit of the company's financial problems was poor management. (その会社の財政問題の主な原因は、経営不振でした。)"
+    },
+    {
+      "id": 52,
+      "value": "drip with",
+      "options": [
+        "隠されている",
+        "豊富にある",
+        "不足している",
+        "軽蔑されている"
+      ],
+      "correctAnswer": "豊富にある",
+      "explanation": "「drip with」は、比喩的に何かが豊富にある、または特定の特徴や感情が強く表れているという意味です。多くの場合、皮肉や反感を含んだニュアンスで使用されます。\n\n例：His voice dripped with sarcasm. (彼の声は皮肉たっぷりに聞こえた。)"
+    },
+    {
+      "id": 53,
+      "value": "box him in",
+      "options": [
+        "仲間に入れる",
+        "追い詰める",
+        "解放する",
+        "無視する"
+      ],
+      "correctAnswer": "追い詰める",
+      "explanation": "「box in」は、文字通りには「箱の中に閉じ込める」という意味ですが、比喩的には人や動物を逃げられない状況に追い込む、または計画などを実行できないように妨害するという意味です。\n\n例：The police boxed in the suspect's car. (警察は容疑者の車を追い詰めた。)"
+    },
+    {
+      "id": 54,
+      "value": "abide by",
+      "options": [
+        "違反する",
+        "支持する",
+        "遵守する",
+        "反対する"
+      ],
+      "correctAnswer": "遵守する",
+      "explanation": "「abide by」は、規則、法律、協定などを守る、従うという意味です。フォーマルな状況でよく用いられ、義務や責任を伴う場合に適しています。\n\n例：We must abide by the rules of the competition. (私たちは競技会のルールを遵守しなければならない。)"
+    },
+    {
+      "id": 55,
+      "value": "birthright",
+      "options": [
+        "個人的な意見",
+        "生得権",
+        "義務",
+        "才能"
+      ],
+      "correctAnswer": "生得権",
+      "explanation": "「birthright」は、生まれたときから当然に持っている権利や特権を意味します。伝統や家系、国民としての権利などを指すことが多いです。\n\n例：Freedom of speech is a birthright in many countries. (言論の自由は多くの国で生得権である。)"
+    },
+    {
+      "id": 56,
+      "value": "ditch",
+      "options": [
+        "手に入れる",
+        "捨てる、サボる",
+        "改善する",
+        "隠す"
+      ],
+      "correctAnswer": "捨てる、サボる",
+      "explanation": "「ditch」は、俗語として、人や物を捨てる、見捨てる、または約束や予定を無断で破るという意味です。また、学校や仕事をサボるという意味もあります。\n\n例：He ditched his girlfriend for another woman. (彼はガールフレンドを捨てて別の女性を選んだ。)\nI ditched class to go to the beach.（授業をサボってビーチに行った。）"
+    },
+    {
+      "id": 57,
+      "value": "hell-bent on",
+      "options": [
+        "乗り気でない",
+        "熱中している",
+        "反対している",
+        "無関心である"
+      ],
+      "correctAnswer": "熱中している",
+      "explanation": "「hell-bent on」は、何かを達成するために非常に決意が固く、手段を選ばないほど熱中している状態を意味します。しばしば、危険や困難を顧みないニュアンスを含みます。\n\n例：He was hell-bent on winning the race, no matter what it took. (彼は何があってもレースに勝つことに熱中していた。)"
+    },
+    {
+      "id": 58,
+      "value": "savant",
+      "options": [
+        "専門家",
+        "詐欺師",
+        "素人",
+        "批評家"
+      ],
+      "correctAnswer": "専門家",
+      "explanation": "「savant」は、特定の分野において非常に優れた知識や才能を持つ人を指します。特に、自閉症などの発達障害を持つ人が、特定の分野で驚異的な能力を発揮する場合に使われることが多いです。\n\n例：He is a mathematical savant. (彼は数学の専門家だ。)"
+    },
+    {
+      "id": 59,
+      "value": "cover for",
+      "options": [
+        "批判する",
+        "弁護する、かばう",
+        "攻撃する",
+        "無視する"
+      ],
+      "correctAnswer": "弁護する、かばう",
+      "explanation": "「cover for」は、他人の過ちや不在を隠したり、責任を代わりに引き受けたりすることで、その人を守るという意味です。嘘をついてごまかす場合にも使われます。\n\n例：Can you cover for me at the meeting? I have another appointment. (会議で私の代わりをしていただけますか？別の予定があるんです。)"
+    },
+    {
+      "id": 60,
+      "value": "uncanny",
+      "options": [
+        "普通の",
+        "不可解な",
+        "明白な",
+        "退屈な"
+      ],
+      "correctAnswer": "不可解な",
+      "explanation": "「uncanny」は、奇妙で説明がつかない、または非常に正確で信じられないほどであるという意味です。しばしば、超自然的なものや偶然の一致に対して使われます。\n\n例：She has an uncanny ability to predict the future. (彼女には未来を予知する不思議な能力がある。)"
+    },
+    {
+      "id": 61,
+      "value": "bad-asses",
+      "options": [
+        "臆病者",
+        "悪党",
+        "英雄",
+        "間抜け"
+      ],
+      "correctAnswer": "悪党",
+      "explanation": "「bad-ass」は、危険で恐れを知らない、または反抗的な態度を持つ人を指す俗語です。肯定的な意味合いで「かっこいい」「すごい」という意味で使われることもあります。\n\n例：He's a real bad-ass. (彼は本当にすごい奴だ。)"
+    },
+    {
+      "id": 62,
+      "value": "tons of fun",
+      "options": [
+        "少しも楽しくない",
+        "とても楽しい",
+        "退屈である",
+        "わずらわしい"
+      ],
+      "correctAnswer": "とても楽しい",
+      "explanation": "「tons of fun」は、非常に楽しい、わくわくするような経験や活動を指す口語的な表現です。「ton」は「たくさんの」という意味で、楽しさの程度を強調します。\n\n例：The party was tons of fun. (パーティーはとても楽しかった。)"
+    },
+    {
+      "id": 63,
+      "value": "vengeful",
+      "options": [
+        "寛大な",
+        "友好的な",
+        "復讐心に燃える",
+        "平和的な"
+      ],
+      "correctAnswer": "復讐心に燃える",
+      "explanation": "「vengeful」は、復讐を強く望んでいる、または復讐心に満ちているという意味です。過去の不正や危害に対する怒りや恨みを抱いている状態を表します。\n\n例：He was vengeful after being betrayed by his friends. (彼は友人に裏切られた後、復讐心に燃えていた。)"
+    },
+    {
+      "id": 64,
+      "value": "barrelling down",
+      "options": [
+        "ゆっくり進む",
+        "急速に近づく",
+        "立ち止まる",
+        "後退する"
+      ],
+      "correctAnswer": "急速に近づく",
+      "explanation": "「barrel down」は、非常に速いスピードで進む、または突進するという意味です。しばしば、制御が難しいほどの勢いを伴う状況を表現します。\n\n例：The car came barreling down the street. (車が猛スピードで通りを突進してきた。)"
+    },
+    {
+      "id": 65,
+      "value": "ease up",
+      "options": [
+        "加速する",
+        "リラックスする",
+        "集中する",
+        "急ぐ"
+      ],
+      "correctAnswer": "リラックスする",
+      "explanation": "「ease up」は、圧力を減らす、緩める、またはリラックスするという意味です。物理的な行動だけでなく、精神的な状態や努力の度合いにも使われます。\n\n例：Ease up on the gas pedal. (アクセルを緩めて。)\nEase up, you're working too hard. (リラックスして、働きすぎだよ。)"
+    },
+    {
+      "id": 66,
+      "value": "lead foot",
+      "options": [
+        "運転が下手な人",
+        "スピード狂",
+        "安全運転の人",
+        "初心者ドライバー"
+      ],
+      "correctAnswer": "スピード狂",
+      "explanation": "「lead foot」は、運転中にスピードを出しすぎる人を指す口語的な表現です。アクセルを踏み込む足が重い（lead）ことから来ています。\n\n例：He has a lead foot and always gets speeding tickets. (彼はスピード狂で、いつもスピード違反の切符を切られる。)"
+    },
+    {
+      "id": 67,
+      "value": "take the liberty of",
+      "options": [
+        "許可を得る",
+        "遠慮する",
+        "勝手にする",
+        "手伝う"
+      ],
+      "correctAnswer": "勝手にする",
+      "explanation": "「take the liberty of」は、相手に許可を得ずに何かをすることを意味しますが、通常は軽い行為や親切な行為に対して使われます。ややフォーマルな表現です。\n\n例：I took the liberty of making some coffee. (勝手にコーヒーを入れておきました。)"
+    },
+    {
+      "id": 68,
+      "value": "own it",
+      "options": [
+        "所有権を主張する",
+        "受け入れる",
+        "放棄する",
+        "否定する"
+      ],
+      "correctAnswer": "受け入れる",
+      "explanation": "「own it」は、自分の行動や性質、または状況を認め、受け入れるという意味です。特に、欠点や過ちを認めて責任を取る場合に使われます。\n\n例：She made a mistake, but she owned it and apologized. (彼女は間違いを犯したが、それを認めて謝罪した。)"
+    },
+    {
+      "id": 69,
+      "value": "winged fury",
+      "options": [
+        "穏やかな喜び",
+        "抑制された怒り",
+        "解放された怒り",
+        "静かな悲しみ"
+      ],
+      "correctAnswer": "解放された怒り",
+      "explanation": "「winged fury」は、翼を持つ怒り、または激しい怒りが解き放たれた状態を指す詩的な表現です。ギリシャ神話の復讐の女神エリュニュエス（フューリーズ）を連想させます。\n\n例：The protesters were a winged fury, demanding justice. (抗議者たちは正義を求めて激怒していた。)"
+    },
+    {
+      "id": 70,
+      "value": "posted speed limit",
+      "options": [
+        "推奨速度",
+        "法定速度",
+        "最低速度",
+        "平均速度"
+      ],
+      "correctAnswer": "法定速度",
+      "explanation": "「posted speed limit」は、道路に標識で示されている法定速度を指します。この速度を超えて運転することは法律違反となります。\n\n例：The posted speed limit on this highway is 65 miles per hour. (この高速道路の法定速度は時速65マイルです。)"
+    },
+    {
+      "id": 71,
+      "value": "kick someone’s ass",
+      "options": [
+        "助ける",
+        "負かす",
+        "無視する",
+        "尊敬する"
+      ],
+      "correctAnswer": "負かす",
+      "explanation": "「kick someone's ass」は、誰かを打ち負かす、または懲らしめるという意味のスラングです。文字通りには「誰かの尻を蹴る」という意味ですが、比喩的に使われます。非常に口語的で、フォーマルな場面では避けるべき表現です。\n\n例：We're going to kick their ass in the game tonight. (今夜の試合で彼らを打ち負かすぞ。)"
+    },
+    {
+      "id": 72,
+      "value": "get clear on something",
+      "options": [
+        "何かを誤解する",
+        "何かを明確にする",
+        "何かを忘れる",
+        "何かを無視する"
+      ],
+      "correctAnswer": "何かを明確にする",
+      "explanation": "「get clear on something」は、何かについて誤解がないように、または理解を深めるために、明確な情報を得る、または確認するという意味です。\n\n例：Let's get clear on the project's objectives before we start. (始める前に、プロジェクトの目標を明確にしておきましょう。)"
+    },
+    {
+      "id": 73,
+      "value": "Sabbath",
+      "options": [
+        "平日",
+        "安息日",
+        "祝日",
+        "祭日"
+      ],
+      "correctAnswer": "安息日",
+      "explanation": "「Sabbath」は、ユダヤ教やキリスト教において、週の特定の日に設けられた休息日を指します。ユダヤ教では土曜日、多くのキリスト教宗派では日曜日が安息日とされています。\n\n例：Observing the Sabbath is an important religious practice for many Jews. (安息日を守ることは、多くのユダヤ教徒にとって重要な宗教的慣習です。)"
+    },
+    {
+      "id": 74,
+      "value": "cockamamie",
+      "options": [
+        "合理的な",
+        "複雑な",
+        "ばかげた",
+        "興味深い"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「cockamamie」は、ばかげた、ナンセンスな、または信じられないようなという意味のスラングです。主にアメリカ英語で使われ、軽蔑的なニュアンスを含みます。\n\n例：He came up with some cockamamie scheme to get rich quick. (彼は一攫千金を狙うばかげた計画を思いついた。)"
+    },
+    {
+      "id": 75,
+      "value": "the nerve to",
+      "options": [
+        "勇気がある",
+        "無神経にも〜する",
+        "失敗する",
+        "後悔する"
+      ],
+      "correctAnswer": "無神経にも〜する",
+      "explanation": "「the nerve to」は、「〜する大胆さ、厚かましさ、無神経さ」を意味する表現です。しばしば、非難や驚き、不快感を伴って使われます。\n\n例：He had the nerve to ask me for money after he stole my car. (彼は私の車を盗んだ後で、私にお金をせびる神経があった。)"
+    },
+    {
+      "id": 76,
+      "value": "taste blood",
+      "options": [
+        "血の味がする",
+        "血を流させる",
+        "流血を避ける",
+        "血を味わう"
+      ],
+      "correctAnswer": "血を流させる",
+      "explanation": "「taste blood」はここでは比喩的に使われており、武器が使われる、戦闘が行われるという意味合いです。直訳すると「血の味がする」ですが、ここでは「（武器が）血を流させる」と解釈するのが適切です。戦争や紛争など、暴力的な状況を連想させる表現です。"
+    },
+    {
+      "id": 77,
+      "value": "kick down",
+      "options": [
+        "蹴り倒す",
+        "修理する",
+        "飾り付ける",
+        "無視する"
+      ],
+      "correctAnswer": "蹴り倒す",
+      "explanation": "「kick down」は文字通り「蹴り倒す」という意味ですが、ここではドアを力ずくで開ける、突破するという意味合いで使われています。物理的な力を伴う行動を表し、緊急時や強行突破のような状況で用いられます。"
+    },
+    {
+      "id": 78,
+      "value": "cunning",
+      "options": [
+        "正直",
+        "賢い",
+        "無邪気",
+        "勇敢"
+      ],
+      "correctAnswer": "賢い",
+      "explanation": "「cunning」は「ずる賢い」「狡猾な」という意味ですが、文脈によっては「抜け目ない」「賢い」といったニュアンスも持ちます。単に知能が高いだけでなく、人を欺いたり、策略を巡らせたりするような賢さを指します。ビジネスや政治など、競争の激しい状況でよく用いられます。"
+    },
+    {
+      "id": 79,
+      "value": "the joke's on him",
+      "options": [
+        "彼が笑い者だ",
+        "彼が冗談を言った",
+        "彼に有利な状況だ",
+        "彼が騙された"
+      ],
+      "correctAnswer": "彼が笑い者だ",
+      "explanation": "「the joke's on him」は「しっぺ返しを食らう」「ざまあみろ」といった意味合いのイディオムです。相手を出し抜こうとしたり、不利な状況に陥れようとしたりした結果、逆に自分が不利な立場になる状況を表します。自業自得なニュアンスを含みます。"
+    },
+    {
+      "id": 80,
+      "value": "walked right into our trap",
+      "options": [
+        "罠にはまった",
+        "罠を仕掛けた",
+        "罠を避けた",
+        "罠を見つけた"
+      ],
+      "correctAnswer": "罠にはまった",
+      "explanation": "「walk into a trap」は「罠にはまる」という意味のイディオムです。文字通り罠の中に歩いて入る様子から、策略や計略に気づかずに引っかかる状況を表します。ビジネスや恋愛など、様々な場面で使用されます。"
+    },
+    {
+      "id": 81,
+      "value": "hollow dream",
+      "options": [
+        "叶わぬ夢",
+        "素晴らしい夢",
+        "現実的な夢",
+        "秘密の夢"
+      ],
+      "correctAnswer": "叶わぬ夢",
+      "explanation": "「hollow dream」は「むなしい夢」「叶わぬ夢」という意味合いです。「hollow」は「空虚な」「中身のない」という意味で、夢が実現する可能性が低い、あるいは実現しても満足感が得られないといったニュアンスを含みます。"
+    },
+    {
+      "id": 82,
+      "value": "internal combustion engine",
+      "options": [
+        "電気モーター",
+        "内燃機関",
+        "外部燃焼機関",
+        "ロケットエンジン"
+      ],
+      "correctAnswer": "内燃機関",
+      "explanation": "「internal combustion engine」は「内燃機関」という意味です。ガソリンエンジンやディーゼルエンジンなど、燃料を燃焼させてエネルギーを取り出すエンジンを指します。工学や自動車関連の分野でよく用いられる専門用語です。"
+    },
+    {
+      "id": 83,
+      "value": "swell",
+      "options": [
+        "最悪",
+        "素晴らしい",
+        "普通",
+        "退屈"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「swell」は「素晴らしい」「かっこいい」といった意味のスラングです。古風な表現で、現代ではあまり一般的ではありませんが、映画やドラマなどで使われることがあります。ここでは、列車が来てくれることを願う気持ちを表しています。"
+    },
+    {
+      "id": 84,
+      "value": "get it",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "嫌う"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get it」は文脈によって様々な意味を持ちますが、ここでは「理解する」という意味で使われています。相手の言っていることや、物事の仕組みなどを理解することを指します。日常会話で頻繁に使われる表現です。"
+    },
+    {
+      "id": 85,
+      "value": "make it work",
+      "options": [
+        "成功させる",
+        "失敗する",
+        "諦める",
+        "無視する"
+      ],
+      "correctAnswer": "成功させる",
+      "explanation": "「make it work」は「うまくいくようにする」「成功させる」という意味のイディオムです。困難な状況でも努力して問題を解決し、目標を達成することを指します。恋愛関係や仕事など、様々な場面で使用されます。"
+    },
+    {
+      "id": 86,
+      "value": "noble quest",
+      "options": [
+        "高貴な探求",
+        "無意味な探求",
+        "秘密の探求",
+        "危険な探求"
+      ],
+      "correctAnswer": "高貴な探求",
+      "explanation": "「noble quest」は「高貴な探求」「崇高な目的」という意味です。「noble」は「高潔な」「高貴な」という意味で、道徳的に優れた目的や行動を指します。ここでは、シェルドンが自分の物を取り戻すことを大げさに表現しています。"
+    },
+    {
+      "id": 87,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "待つ",
+        "諦める",
+        "参加する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は「待つ」「頑張る」という意味のイディオムです。ここでは、ペニーが行動を起こす前に、レナードに少し待つように促しています。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 88,
+      "value": "ain't",
+      "options": [
+        "is not",
+        "are not",
+        "am not",
+        "上記のすべて"
+      ],
+      "correctAnswer": "上記のすべて",
+      "explanation": "「ain't」は「am not」「is not」「are not」「have not」「has not」の省略形として使われる口語表現です。非標準的な英語であり、フォーマルな場面では避けるべきですが、日常会話や歌の歌詞などでよく使われます。"
+    },
+    {
+      "id": 89,
+      "value": "groin",
+      "options": [
+        "手",
+        "足",
+        "股間",
+        "頭"
+      ],
+      "correctAnswer": "股間",
+      "explanation": "「groin」は「股間」という意味です。体の部位を表す医学用語でもあります。ここでは、ペニーがトッドを蹴る場所を指しています。"
+    },
+    {
+      "id": 90,
+      "value": "ascend",
+      "options": [
+        "降りる",
+        "登る",
+        "走る",
+        "飛ぶ"
+      ],
+      "correctAnswer": "登る",
+      "explanation": "「ascend」は「登る」「上昇する」という意味の動詞です。物理的に高い場所に移動するだけでなく、地位や名声が向上するといった比喩的な意味でも使われます。フォーマルな場面や文学的な表現で用いられることが多いです。"
+    },
+    {
+      "id": 91,
+      "value": "fling",
+      "options": [
+        "投げる",
+        "拾う",
+        "隠す",
+        "集める"
+      ],
+      "correctAnswer": "投げる",
+      "explanation": "「fling」は「投げつける」「放り投げる」という意味の動詞です。勢いよく何かを投げる様子を表し、怒りや不満などの感情を伴うことが多いです。ここでは、ペニーがプライヤに対して抱いている敵意を表現しています。"
+    },
+    {
+      "id": 92,
+      "value": "at least",
+      "options": [
+        "少なくとも",
+        "せいぜい",
+        "全く",
+        "絶対に"
+      ],
+      "correctAnswer": "少なくとも",
+      "explanation": "「at least」は「少なくとも」という意味で、ある条件や状況が満たされていることを強調する際に使われます。ここでは、シェルドンの物を少なくとも取り返したかどうかを尋ねています。"
+    },
+    {
+      "id": 93,
+      "value": "collectible",
+      "options": [
+        "収集可能な",
+        "価値のない",
+        "使い捨ての",
+        "一般的な"
+      ],
+      "correctAnswer": "収集可能な",
+      "explanation": "「collectible」は「収集可能な」「収集価値のある」という意味です。趣味で集めることができる物品、特に希少価値や歴史的価値のあるものを指します。"
+    },
+    {
+      "id": 94,
+      "value": "certificate of authenticity",
+      "options": [
+        "品質保証書",
+        "鑑定書",
+        "取扱説明書",
+        "領収書"
+      ],
+      "correctAnswer": "鑑定書",
+      "explanation": "「certificate of authenticity」は「鑑定書」「真正証明書」という意味です。美術品や骨董品などの価値を保証する書類で、専門家や鑑定機関が発行します。"
+    },
+    {
+      "id": 95,
+      "value": "worthless",
+      "options": [
+        "価値のある",
+        "無価値の",
+        "高価な",
+        "安価な"
+      ],
+      "correctAnswer": "無価値の",
+      "explanation": "「worthless」は「価値のない」「役に立たない」という意味です。物質的な価値だけでなく、精神的な価値や重要性がないことも表します。"
+    },
+    {
+      "id": 96,
+      "value": "be welcome to",
+      "options": [
+        "歓迎される",
+        "喜んで～する",
+        "～してもよい",
+        "～しなければならない"
+      ],
+      "correctAnswer": "～してもよい",
+      "explanation": "「be welcome to」は「～してもよい」「自由に～できる」という意味です。許可や許可を与えるニュアンスが含まれています。"
+    },
+    {
+      "id": 97,
+      "value": "the other day",
+      "options": [
+        "昨日",
+        "今日",
+        "数日前",
+        "明日"
+      ],
+      "correctAnswer": "数日前",
+      "explanation": "「the other day」は「数日前」「先日」という意味です。正確な日付を特定せずに、少し前に起こった出来事を指す際に使われます。"
+    },
+    {
+      "id": 98,
+      "value": "Good point",
+      "options": [
+        "良い点",
+        "悪い点",
+        "関係ない",
+        "どうでもいい"
+      ],
+      "correctAnswer": "良い点",
+      "explanation": "「Good point」は「良い指摘だ」「その通りだ」という意味です。相手の意見や発言が適切で、納得できる場合に肯定的な返答として使われます。"
+    },
+    {
+      "id": 99,
+      "value": "pick up",
+      "options": [
+        "拾う",
+        "迎えに行く",
+        "購入する",
+        "学ぶ"
+      ],
+      "correctAnswer": "迎えに行く",
+      "explanation": "「pick up」は様々な意味がありますが、ここでは「（車で）迎えに行く」という意味です。人を車に乗せて運ぶ行為を指します。"
+    },
+    {
+      "id": 100,
+      "value": "matter",
+      "options": [
+        "問題",
+        "重要である",
+        "物質",
+        "状況"
+      ],
+      "correctAnswer": "重要である",
+      "explanation": "「matter」は名詞として「問題」「事柄」という意味がありますが、動詞としては「重要である」「問題となる」という意味です。ここでは、彼女が理解するかどうかは重要ではない、という意味で使われています。"
+    }
+  ]
+}

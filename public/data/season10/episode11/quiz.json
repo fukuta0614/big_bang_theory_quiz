@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "syphilitic",
+      "options": [
+        "熱狂的な",
+        "梅毒の",
+        "友好的な",
+        "幸運な"
+      ],
+      "correctAnswer": "梅毒の",
+      "explanation": "「syphilitic」は梅毒の、または梅毒に感染しているという意味です。ここではRajが運転の邪魔をする人に対して、侮蔑的な意味合いで使用しています。医学的な意味合いの他に、比喩的に不快なものや嫌悪感を抱く対象を指すことがあります。"
+    },
+    {
+      "id": 2,
+      "value": "heebie-jeebies",
+      "options": [
+        "幸福感",
+        "嫌悪感",
+        "高揚感",
+        "安心感"
+      ],
+      "correctAnswer": "嫌悪感",
+      "explanation": "「heebie-jeebies」は、漠然とした不安感、不快感、または神経過敏な状態を表す口語的な表現です。特に理由もなく、ぞっとするような感覚や、落ち着かない気持ちを指します。Sheldonはスコッチテープに触れることでそのような感覚になることを表現しています。"
+    },
+    {
+      "id": 3,
+      "value": "ripped",
+      "options": [
+        "酔っ払った",
+        "怒った",
+        "筋肉隆々の",
+        "疲れた"
+      ],
+      "correctAnswer": "筋肉隆々の",
+      "explanation": "「ripped」は、ここでは俗語として、筋肉が発達していて引き締まっている状態を表します。通常は男性の体格について言及する際に使われます。 MRIの撮影前にSudokuをしたことで、脳が活発になっている様子を比喩的に表現しています。"
+    },
+    {
+      "id": 4,
+      "value": "orbitofrontal cortex",
+      "options": [
+        "視覚野",
+        "前頭前皮質",
+        "海馬",
+        "小脳"
+      ],
+      "correctAnswer": "前頭前皮質",
+      "explanation": "「orbitofrontal cortex」は、脳の前頭前皮質の一部で、意思決定、感情の処理、社会的行動に関与しています。ここでは、SheldonがAmyのことを考えていたために、この部分が活性化していると説明しています。学術的な用語ですが、一般的な会話で使われることは稀です。"
+    },
+    {
+      "id": 5,
+      "value": "lit up",
+      "options": [
+        "照らされた",
+        "酔っぱらった",
+        "活性化された",
+        "消灯した"
+      ],
+      "correctAnswer": "活性化された",
+      "explanation": "「lit up」は、ここでは比喩的に、脳の特定部位が活性化している状態を表します。文字通りには「照らされた」という意味ですが、ここではMRI画像でその部位の活動が確認できることを示唆しています。科学的な文脈でよく用いられます。"
+    },
+    {
+      "id": 6,
+      "value": "come-hither",
+      "options": [
+        "お帰り",
+        "また来て",
+        "さあ、どうぞ",
+        "誘惑的な"
+      ],
+      "correctAnswer": "誘惑的な",
+      "explanation": "「come-hither」は、人を誘惑するような、魅力的な様子を表す形容詞です。特に服装や表情について使われ、相手を引きつけようとする意図が込められています。SheldonはAmyを誘惑するために用意したパジャマを指してこの言葉を使っています。"
+    },
+    {
+      "id": 7,
+      "value": "looming",
+      "options": [
+        "迫り来る",
+        "過ぎ去った",
+        "隠された",
+        "重要でない"
+      ],
+      "correctAnswer": "迫り来る",
+      "explanation": "「looming」は、何かが大きく、脅威的に迫ってくる様子を表す形容詞です。ここでは、出産が間近に迫っている状況を指しています。物理的な大きさだけでなく、心理的な圧迫感を伴う状況にも使われます。"
+    },
+    {
+      "id": 8,
+      "value": "banner",
+      "options": [
+        "最悪な",
+        "平均的な",
+        "記念の",
+        "素晴らしい"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「banner」は、ここでは「banner night」という形で、特に素晴らしい、記念すべき夜を意味します。お祝い事や特別な出来事があった際に使われることがあります。元々は旗を意味する単語ですが、比喩的に使われています。"
+    },
+    {
+      "id": 9,
+      "value": "nonsense",
+      "options": [
+        "常識",
+        "重要",
+        "無意味",
+        "秘密"
+      ],
+      "correctAnswer": "無意味",
+      "explanation": "「nonsense」は、無意味なこと、ばかげたこと、くだらないことを意味します。ここでは、父親が誰であるか不明瞭な状況をMidwifeがMamma Miaという映画に例えて言及しており、そのような状況を「nonsense」と表現しています。"
+    },
+    {
+      "id": 10,
+      "value": "old school",
+      "options": [
+        "最新の",
+        "伝統的な",
+        "学校の",
+        "未来的な"
+      ],
+      "correctAnswer": "伝統的な",
+      "explanation": "「old school」は、古風なやり方、伝統的な方法、または昔ながらの価値観を指す口語表現です。ここでは、赤ちゃんの性別を事前に知らないことを指して、Midwifeが「old school」と表現しています。肯定的な意味合いで使われることが多いです。"
+    },
+    {
+      "id": 11,
+      "value": "a peek",
+      "options": [
+        "叫び声",
+        "ちらっと見ること",
+        "長い間見ること",
+        "無視すること"
+      ],
+      "correctAnswer": "ちらっと見ること",
+      "explanation": "「a peek」は、ちらっと見ること、こっそり見ることという意味です。ここでは、Rajが医者のオフィスで赤ちゃんの性別が書かれたフォルダをこっそり見たことを指しています。許可なく何かを見るニュアンスが含まれます。"
+    },
+    {
+      "id": 12,
+      "value": "ambiguous",
+      "options": [
+        "明確な",
+        "曖昧な",
+        "重要な",
+        "不要な"
+      ],
+      "correctAnswer": "曖昧な",
+      "explanation": "「ambiguous」は、曖昧で、解釈が一つに定まらないことを意味します。ここでは、陣痛の間隔の数え方について、RajがMidwifeの説明が曖昧だと指摘しています。明確な指示や定義が求められる状況で使われます。"
+    },
+    {
+      "id": 13,
+      "value": "throwing this out there",
+      "options": [
+        "提案する",
+        "秘密にする",
+        "無視する",
+        "強制する"
+      ],
+      "correctAnswer": "提案する",
+      "explanation": "「throw this out there」は、提案や意見を述べる際に、控えめに、または試しに提案する意味合いで使われる表現です。ここでは、Midwifeがホーム出産を提案する際に、押し付けがましくならないように使っています。カジュアルな会話でよく用いられます。"
+    },
+    {
+      "id": 14,
+      "value": "bubble gum cigar",
+      "options": [
+        "本物の葉巻",
+        "電子タバコ",
+        "ガムでできた葉巻",
+        "タバコ味のガム"
+      ],
+      "correctAnswer": "ガムでできた葉巻",
+      "explanation": "「bubble gum cigar」は、葉巻の形をしたチューインガムのことです。子供が葉巻を吸う真似をするためのおもちゃとして使われます。ここではSheldonが、Howardが出産祝いに葉巻を配るかもしれないと考え、仲間外れにならないように用意しました。ユーモラスな状況を表しています。"
+    },
+    {
+      "id": 15,
+      "value": "looking foolish",
+      "options": [
+        "賢く見える",
+        "愚かに見える",
+        "疲れて見える",
+        "幸せそうに見える"
+      ],
+      "correctAnswer": "愚かに見える",
+      "explanation": "「look foolish」は、ばかげた、または滑稽に見えるという意味です。ここでは、Sheldonが葉巻を吸うふりをすることで、仲間外れにならず、場に溶け込もうとする意図を表しています。社会的な状況での自己表現に関する表現です。"
+    },
+    {
+      "id": 16,
+      "value": "sneeze the baby out",
+      "options": [
+        "赤ちゃんを育てる",
+        "赤ちゃんを簡単に出産する",
+        "赤ちゃんを諦める",
+        "赤ちゃんを隠す"
+      ],
+      "correctAnswer": "赤ちゃんを簡単に出産する",
+      "explanation": "「sneeze the baby out」は、赤ちゃんをくしゃみをするように簡単に出産するという、ユーモラスな表現です。出産が非常に早く終わることを誇張して表現する際に使われます。PennyがBernadetteの出産が早かったかどうかを尋ねる際に使用しています。"
+    },
+    {
+      "id": 17,
+      "value": "keep you posted",
+      "options": [
+        "秘密にする",
+        "連絡を取り続ける",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "連絡を取り続ける",
+      "explanation": "「keep you posted」は、最新情報や進捗状況を知らせ続けるという意味の口語表現です。ここでは、BernadetteがPennyに対して、出産に関する情報を随時知らせると伝えています。ビジネスシーンや日常会話で広く使われます。"
+    },
+    {
+      "id": 18,
+      "value": "a while",
+      "options": [
+        "すぐに",
+        "少しの間",
+        "永遠に",
+        "決して"
+      ],
+      "correctAnswer": "少しの間",
+      "explanation": "「a while」は、しばらくの間、少しの間という意味です。ここでは、PennyがBernadetteの出産までにはまだ時間がかかると言っています。時間の長さを漠然と表現する際に使われます。"
+    },
+    {
+      "id": 19,
+      "value": "first deliveries",
+      "options": [
+        "最初の配達",
+        "初めての食事",
+        "最初の分娩",
+        "最新のニュース"
+      ],
+      "correctAnswer": "最初の分娩",
+      "explanation": "「first deliveries」は、ここでは最初の出産、初産を意味します。「delivery」は配達という意味の他に、出産という意味もあります。初産は時間がかかることが多いという一般的な認識に基づいた表現です。"
+    },
+    {
+      "id": 20,
+      "value": "pick it up",
+      "options": [
+        "それを拾う",
+        "速度を上げる",
+        "それを理解する",
+        "それを楽しむ"
+      ],
+      "correctAnswer": "速度を上げる",
+      "explanation": "「pick it up」はここでは「速度を上げる」という意味です。Stuartが運転手に対して、病院へ急ぐように促しています。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 21,
+      "value": "get out of my way",
+      "options": [
+        "私の邪魔をしないで",
+        "私のことを理解して",
+        "私を助けて",
+        "私を許して"
+      ],
+      "correctAnswer": "私の邪魔をしないで",
+      "explanation": "「get out of my way」は「邪魔をしないで」「道をあけろ」という意味で、相手に対して強い口調で要求する時に使います。ここではRajが運転中に、他の車に対して威圧的に使っています。"
+    },
+    {
+      "id": 22,
+      "value": "I'm gonna",
+      "options": [
+        "私は〜でしょう",
+        "私は〜したい",
+        "私は〜するつもりだ",
+        "私は〜だった"
+      ],
+      "correctAnswer": "私は〜するつもりだ",
+      "explanation": "「I'm gonna」は、「I am going to」の口語的な短縮形で、「私は〜するつもりだ」という意味です。ここではRajが「I'm gonna drive like we do in India（インドでするように運転するつもりだ）」と言っています。日常会話で非常によく使われます。"
+    },
+    {
+      "id": 23,
+      "value": "We're good",
+      "options": [
+        "私たちは良い",
+        "私たちは元気だ",
+        "私たちは大丈夫だ",
+        "私たちは準備ができている"
+      ],
+      "correctAnswer": "私たちは大丈夫だ",
+      "explanation": "「We're good」はここでは「私たちは大丈夫だ」「問題ない」という意味です。RajがHowardに謝った後、関係が修復されたことを伝えるために使っています。日常会話で広く使われる表現です。"
+    },
+    {
+      "id": 24,
+      "value": "have this back",
+      "options": [
+        "これを取り戻す",
+        "これを返す",
+        "これをあげる",
+        "これを隠す"
+      ],
+      "correctAnswer": "これを返す",
+      "explanation": "「have this back」は「これを返す」「戻す」という意味です。AmyがSheldonに誕生日プレゼントを返すことを提案する場面で使われています。一時的に借りたものを返す場合や、贈り物を受け取れない場合などに使われます。"
+    },
+    {
+      "id": 25,
+      "value": "far apart",
+      "options": [
+        "近い",
+        "遠い",
+        "離れている",
+        "同じ"
+      ],
+      "correctAnswer": "離れている",
+      "explanation": "「far apart」は「離れている」という意味です。ここではMidwifeがHowardに対して、陣痛の間隔がどれくらい離れているかを尋ねています。物理的な距離だけでなく、時間的な間隔を表す際にも使われます。"
+    },
+    {
+      "id": 26,
+      "value": "rethink",
+      "options": [
+        "作り直す",
+        "考え直す",
+        "元に戻す",
+        "思い出す"
+      ],
+      "correctAnswer": "考え直す",
+      "explanation": "「rethink」は、何かについてもう一度、または異なる方法で考えるという意味です。以前の考えや計画を修正または改善するために使われます。例：I'm starting to rethink my decision to take this job. (この仕事を受けるという決断を考え直している。)"
+    },
+    {
+      "id": 27,
+      "value": "matter",
+      "options": [
+        "重要である",
+        "広がる",
+        "改善する",
+        "発展する"
+      ],
+      "correctAnswer": "重要である",
+      "explanation": "「matter」は、重要である、問題であるという意味です。しばしば否定形や疑問形で使われ、重要でないことを強調します。例：It doesn't matter what he says. (彼が何を言おうと重要ではない。)"
+    },
+    {
+      "id": 28,
+      "value": "head back up",
+      "options": [
+        "逆走する",
+        "引き返す",
+        "分解する",
+        "先導する"
+      ],
+      "correctAnswer": "引き返す",
+      "explanation": "「head back」は、元の場所や出発点に戻るという意味です。「head up」は、（組織などを）率いる、または（事業などを）立ち上げるという意味ですが、ここでは「head back up」で、元の場所に戻ることを指します。例：Let's head back up to the hotel. (ホテルに戻りましょう。)"
+    },
+    {
+      "id": 29,
+      "value": "diner",
+      "options": [
+        "食堂車",
+        "安食堂",
+        "食料品店",
+        "高級レストラン"
+      ],
+      "correctAnswer": "安食堂",
+      "explanation": "「diner」は、アメリカンスタイルの安食堂を指します。一般的に、手頃な価格でシンプルな料理を提供するカジュアルな飲食店です。例：Let's grab a bite at the diner. (ダイナーで軽く食事をしましょう。)"
+    },
+    {
+      "id": 30,
+      "value": "booty",
+      "options": [
+        "戦利品",
+        "略奪品",
+        "お宝",
+        "報酬"
+      ],
+      "correctAnswer": "戦利品",
+      "explanation": "「booty」は、戦利品、略奪品という意味ですが、ここでは性的な意味合いで使われています。スラングとして、性的な報酬や行為を指すことがあります。例：The pirates divided the booty among themselves. (海賊たちは戦利品を分け合った。)"
+    },
+    {
+      "id": 31,
+      "value": "spectacular",
+      "options": [
+        "壮観な",
+        "素晴らしい",
+        "目覚ましい",
+        "奇妙な"
+      ],
+      "correctAnswer": "壮観な",
+      "explanation": "「spectacular」は、壮観な、素晴らしい、目覚ましいという意味です。印象的で視覚的に魅力的なものを指します。例：The fireworks display was spectacular. (花火のショーは壮観だった。)"
+    },
+    {
+      "id": 32,
+      "value": "mild",
+      "options": [
+        "穏やかな",
+        "軽い",
+        "中程度の",
+        "甘い"
+      ],
+      "correctAnswer": "穏やかな",
+      "explanation": "「mild」は、穏やかな、軽い、中程度のという意味です。味、気候、性格など、刺激が少ないものを指します。例：This cheese has a mild flavor. (このチーズは穏やかな味がする。)"
+    },
+    {
+      "id": 33,
+      "value": "frisky",
+      "options": [
+        "元気な",
+        "ふざけた",
+        "性的に興奮した",
+        "いたずら好きな"
+      ],
+      "correctAnswer": "性的に興奮した",
+      "explanation": "「frisky」は、元気な、ふざけた、性的に興奮したという意味です。活発で遊び心があり、性的なニュアンスを含むことがあります。例：The puppies were frisky and playful. (子犬たちは元気で遊び好きだった。)"
+    },
+    {
+      "id": 34,
+      "value": "make an entrance",
+      "options": [
+        "入場する",
+        "目立つように登場する",
+        "退場する",
+        "紹介する"
+      ],
+      "correctAnswer": "目立つように登場する",
+      "explanation": "「make an entrance」は、目立つように登場する、印象的な登場をするという意味です。人々の注目を集めるような形で現れることを指します。例：The actress made a grand entrance at the party. (女優はパーティーで華々しい登場をした。)"
+    },
+    {
+      "id": 35,
+      "value": "enough with",
+      "options": [
+        "たくさん",
+        "十分",
+        "もうたくさん",
+        "我慢できない"
+      ],
+      "correctAnswer": "もうたくさん",
+      "explanation": "「enough with」は、もうたくさんだ、いい加減にしてくれという意味です。うんざりしている気持ちを表す際に使われます。例：Enough with the excuses! (言い訳はもうたくさんだ！)"
+    },
+    {
+      "id": 36,
+      "value": "thar she blows",
+      "options": [
+        "彼女は輝いている",
+        "それ見たことか",
+        "あれはなんだ",
+        "見つけたぞ"
+      ],
+      "correctAnswer": "見つけたぞ",
+      "explanation": "「Thar she blows!」は、捕鯨船が鯨を発見した際に使われた叫び声です。ここでは比喩的に、探していたものを見つけたという意味で使われています。例：Thar she blows! I found my keys! (見つけたぞ！鍵を見つけた！)"
+    },
+    {
+      "id": 37,
+      "value": "sign off",
+      "options": [
+        "署名する",
+        "放送を終える",
+        "承諾する",
+        "別れを告げる"
+      ],
+      "correctAnswer": "放送を終える",
+      "explanation": "「sign off」は、放送を終える、仕事を終える、または議論などを終えるという意味です。ここでは、ビデオメッセージを終えるという意味で使われています。例：I'm signing off for the night. (今夜はこれで終わりにします。)"
+    },
+    {
+      "id": 38,
+      "value": "ruined",
+      "options": [
+        "修理された",
+        "台無しにされた",
+        "改善された",
+        "再建された"
+      ],
+      "correctAnswer": "台無しにされた",
+      "explanation": "「ruined」は、台無しにされた、破壊されたという意味です。計画や状況がうまくいかなくなった状態を指します。例：The rain ruined our picnic. (雨でピクニックが台無しになった。)"
+    },
+    {
+      "id": 39,
+      "value": "supposed to",
+      "options": [
+        "～することになっている",
+        "～する必要がある",
+        "～できるはずだ",
+        "～しても良い"
+      ],
+      "correctAnswer": "～することになっている",
+      "explanation": "「supposed to」は、～することになっている、～するはずだという意味です。義務や期待、計画などを表します。例：You were supposed to be here an hour ago. (あなたは1時間前にここにいるはずだった。)"
+    },
+    {
+      "id": 40,
+      "value": "organically",
+      "options": [
+        "有機的に",
+        "自然に",
+        "計画的に",
+        "人工的に"
+      ],
+      "correctAnswer": "自然に",
+      "explanation": "「organically」は、有機的に、自然にという意味です。計画や努力なしに、自然発生的に起こることを指します。例：The business grew organically over time. (そのビジネスは時が経つにつれて自然に成長した。)"
+    },
+    {
+      "id": 41,
+      "value": "forced",
+      "options": [
+        "強制的な",
+        "自然な",
+        "自由な",
+        "穏やかな"
+      ],
+      "correctAnswer": "強制的な",
+      "explanation": "「forced」は、強制的な、無理強いされたという意味です。自然ではなく、意図的に行われたことを指します。例：He gave a forced smile. (彼は作り笑いをした。)"
+    },
+    {
+      "id": 42,
+      "value": "soldier through",
+      "options": [
+        "最後までやり抜く",
+        "途中で諦める",
+        "楽観視する",
+        "冷静に判断する"
+      ],
+      "correctAnswer": "最後までやり抜く",
+      "explanation": "「soldier through」は、困難な状況や苦しい状況を最後までやり抜く、耐え抜くという意味です。困難に立ち向かい、努力を続けることを指します。例：I'll soldier through this project, even if it's difficult. (たとえ困難でも、このプロジェクトを最後までやり抜きます。)"
+    },
+    {
+      "id": 43,
+      "value": "intriguing",
+      "options": [
+        "興味深い",
+        "退屈な",
+        "不快な",
+        "難しい"
+      ],
+      "correctAnswer": "興味深い",
+      "explanation": "「intriguing」は、興味深い、好奇心をそそるという意味です。魅力的で、もっと知りたくなるようなものを指します。例：That's an intriguing idea. (それは興味深いアイデアだ。)"
+    },
+    {
+      "id": 44,
+      "value": "cozy",
+      "options": [
+        "居心地の良い",
+        "不快な",
+        "寒い",
+        "危険な"
+      ],
+      "correctAnswer": "居心地の良い",
+      "explanation": "「cozy」は、居心地の良い、暖かい、快適なという意味です。リラックスできる、心地よい空間や雰囲気を指します。例：This is a cozy little cafe. (ここは居心地の良い小さなカフェだ。)"
+    },
+    {
+      "id": 45,
+      "value": "sleeper car",
+      "options": [
+        "寝台車",
+        "食堂車",
+        "貨物車",
+        "展望車"
+      ],
+      "correctAnswer": "寝台車",
+      "explanation": "「sleeper car」は、寝台車のことです。長距離列車などで、乗客が寝ることができるようにベッドが備え付けられた車両を指します。例：We booked a sleeper car for our overnight train journey. (私たちは夜行列車での旅行のために寝台車を予約しました。)"
+    },
+    {
+      "id": 46,
+      "value": "killing the mood",
+      "options": [
+        "雰囲気を盛り上げる",
+        "雰囲気を壊す",
+        "気分転換をする",
+        "落ち着いて考える"
+      ],
+      "correctAnswer": "雰囲気を壊す",
+      "explanation": "「killing the mood」は、雰囲気を壊す、興ざめさせるという意味です。楽しい雰囲気やロマンチックな雰囲気を台無しにすることを指します。例：Stop talking about work, you're killing the mood. (仕事の話はやめて、雰囲気を壊さないで。)"
+    },
+    {
+      "id": 47,
+      "value": "hang on",
+      "options": [
+        "待つ",
+        "つかまる",
+        "電話を切る",
+        "続ける"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、待つ、ちょっと待ってという意味です。相手に少しの間待つように伝える際に使われます。例：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るから。)"
+    },
+    {
+      "id": 48,
+      "value": "kicked me out",
+      "options": [
+        "招待した",
+        "追い出した",
+        "手伝った",
+        "励ました"
+      ],
+      "correctAnswer": "追い出した",
+      "explanation": "「kick someone out」は、誰かを追い出す、追い払うという意味です。場所やグループから強制的に追い出すことを指します。例：They kicked him out of the club for bad behavior. (彼らは悪い行いのために彼をクラブから追い出した。)"
+    },
+    {
+      "id": 49,
+      "value": "oopsy",
+      "options": [
+        "おっと",
+        "成功",
+        "残念",
+        "完璧"
+      ],
+      "correctAnswer": "おっと",
+      "explanation": "「oopsy」は、「oops」の変形で、おっと、しまったという意味です。軽い失敗やうっかりミスをした際に使われます。例：Oopsy, I spilled my coffee. (おっと、コーヒーをこぼしちゃった。)"
+    },
+    {
+      "id": 50,
+      "value": "did it again",
+      "options": [
+        "もう一度やった",
+        "成功した",
+        "後悔した",
+        "失敗した"
+      ],
+      "correctAnswer": "もう一度やった",
+      "explanation": "「do it again」は、もう一度やる、繰り返すという意味ですが、ここでは「oopsy」と組み合わさることで、うっかりまたやってしまった、という意味合いになります。例: He did it again!(彼はもう一度やった！)"
+    },
+    {
+      "id": 51,
+      "value": "go away",
+      "options": [
+        "出発する",
+        "消える、立ち去る",
+        "成長する",
+        "戻ってくる"
+      ],
+      "correctAnswer": "消える、立ち去る",
+      "explanation": "「go away」は、人が立ち去る、または問題や状況が消滅するという意味です。ここでは、静かにしていればラージが立ち去るだろうというニュアンスで使われています。"
+    },
+    {
+      "id": 52,
+      "value": "Wowza",
+      "options": [
+        "素晴らしい",
+        "どうしたの",
+        "つまらない",
+        "疲れた"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「Wowza」は、驚きや感嘆を表す口語的な表現です。「Wow」を強調したようなニュアンスで、特にアメリカ英語で使われます。ここでは、ハリーポッターのローブを見て驚いたシェルドンが使っています。"
+    },
+    {
+      "id": 53,
+      "value": "scandalous",
+      "options": [
+        "秘密の",
+        "スキャンダラスな、不道徳な",
+        "平凡な",
+        "伝統的な"
+      ],
+      "correctAnswer": "スキャンダラスな、不道徳な",
+      "explanation": "「scandalous」は、スキャンダルを引き起こすような、不道徳な、または世間を騒がせるという意味です。ここでは、グリフィンドールとハッフルパフが一緒に寝るという状況を面白おかしく表現するために使われています。"
+    },
+    {
+      "id": 54,
+      "value": "in trouble",
+      "options": [
+        "困っている",
+        "休憩中",
+        "準備中",
+        "順調"
+      ],
+      "correctAnswer": "困っている",
+      "explanation": "「in trouble」は、問題がある、困っている、または叱られる可能性があるという意味です。ここでは、エイミーがシェルドンに内緒でテーマパークに行ったことが問題になるかどうかを尋ねています。"
+    },
+    {
+      "id": 55,
+      "value": "kidding me",
+      "options": [
+        "冗談でしょ",
+        "手伝って",
+        "本気なの",
+        "応援して"
+      ],
+      "correctAnswer": "冗談でしょ",
+      "explanation": "「kidding me?」は、「冗談でしょ？」や「からかってるの？」という意味で、驚きや信じられない気持ちを表す時に使われます。ここでは、バーナデットの出産で自分の誕生日が台無しになるかもしれないという状況に対してエイミーが使っています。"
+    },
+    {
+      "id": 56,
+      "value": "any minute",
+      "options": [
+        "いつでも",
+        "すぐに",
+        "毎分",
+        "時間通りに"
+      ],
+      "correctAnswer": "すぐに",
+      "explanation": "「any minute」は、「すぐに」や「間もなく」という意味で、何かが起こるのが非常に近いことを表します。ここでは、病院にすぐに着くだろうという状況で使われています。"
+    },
+    {
+      "id": 57,
+      "value": "speed it up",
+      "options": [
+        "加速する",
+        "ゆっくりにする",
+        "停止する",
+        "元に戻す"
+      ],
+      "correctAnswer": "加速する",
+      "explanation": "「speed up」は、速度を上げる、加速するという意味です。ここでは、スチュアートの運転が遅いので、ハワードが運転を速めるように言っています。"
+    },
+    {
+      "id": 58,
+      "value": "hang on",
+      "options": [
+        "頑張って",
+        "あきらめて",
+        "忘れて",
+        "リラックスして"
+      ],
+      "correctAnswer": "頑張って",
+      "explanation": "「hang on」は、困難な状況で耐える、頑張るという意味です。ここでは、運転中に揺れるので、皆に掴まっていてくれというニュアンスで使われています。"
+    },
+    {
+      "id": 59,
+      "value": "call 'em out",
+      "options": [
+        "応援する",
+        "大声で呼ぶ",
+        "指摘する",
+        "無視する"
+      ],
+      "correctAnswer": "指摘する",
+      "explanation": "「call out」は、大声で呼ぶ、または間違いや不正を指摘するという意味です。ここでは、歩行者を見つけたら教えてくれというニュアンスで使われています。ここでは、相手に気づき次第、大声でその存在を知らせるように頼む意味合いです。"
+    },
+    {
+      "id": 60,
+      "value": "ruin",
+      "options": [
+        "改善する",
+        "台無しにする",
+        "修理する",
+        "計画する"
+      ],
+      "correctAnswer": "台無しにする",
+      "explanation": "「ruin」は、台無しにする、破壊するという意味です。ここでは、バーナデットの出産がエイミーの誕生日を台無しにするかもしれないという状況で使われています。"
+    },
+    {
+      "id": 61,
+      "value": "to be fair",
+      "options": [
+        "公平に言って",
+        "不公平に言って",
+        "正直に言って",
+        "嘘をついて"
+      ],
+      "correctAnswer": "公平に言って",
+      "explanation": "「to be fair」は、公平に言うと、または正当に評価するとという意味で、自分の意見を述べる際に公平さを強調するために使われます。ここでは、ラージが自分がバーナデットの出産準備に貢献したことを強調するために使っています。"
+    },
+    {
+      "id": 62,
+      "value": "generous",
+      "options": [
+        "寛大な",
+        "ケチな",
+        "正確な",
+        "曖昧な"
+      ],
+      "correctAnswer": "寛大な",
+      "explanation": "「generous」は、寛大な、または惜しみないという意味です。ここでは、ハワードが子供を授かるまでの時間を5分と見積もったことに対して、ラージが寛大だと述べています。"
+    },
+    {
+      "id": 63,
+      "value": "sprinkled throughout",
+      "options": [
+        "均等に分配する",
+        "集中させる",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "均等に分配する",
+      "explanation": "「sprinkle」は、ばらまく、散りばめるという意味です。「sprinkled throughout」で、一年を通して均等にばらまくという意味合いになります。ここでは、エイミーの誕生日を台無しにするのを我慢して、一年を通して少しずつ嫌がらせをするというシェルドンの計画を表現しています。"
+    },
+    {
+      "id": 64,
+      "value": "deep breaths",
+      "options": [
+        "深呼吸",
+        "浅い呼吸",
+        "息切れ",
+        "ため息"
+      ],
+      "correctAnswer": "深呼吸",
+      "explanation": "「deep breaths」は、深呼吸という意味で、リラックスするために使われます。ここでは、出産中のバーナデットにハワードが深呼吸を促しています。"
+    },
+    {
+      "id": 65,
+      "value": "ice chips",
+      "options": [
+        "氷のかけら",
+        "ポテトチップス",
+        "チョコレート",
+        "果物"
+      ],
+      "correctAnswer": "氷のかけら",
+      "explanation": "「ice chips」は、氷のかけらという意味で、出産中の女性が喉を潤すためによく与えられます。ここでは、バーナデットが喉が渇いたのでアイスチップを求めています。"
+    },
+    {
+      "id": 66,
+      "value": "sucks",
+      "options": [
+        "最高だ",
+        "最悪だ",
+        "普通だ",
+        "面白い"
+      ],
+      "correctAnswer": "最悪だ",
+      "explanation": "「suck」は、俗語で「最悪だ」「ひどい」という意味です。ここでは、ハワードの母親がいないことを残念に思う気持ちを表しています。"
+    },
+    {
+      "id": 67,
+      "value": "figured out",
+      "options": [
+        "理解した",
+        "忘れた",
+        "無視した",
+        "混乱した"
+      ],
+      "correctAnswer": "理解した",
+      "explanation": "「figure out」は、理解する、解明するという意味です。ここでは、トッツィーロールが自然に温かいわけではないことに気づいたという意味で使われています。"
+    },
+    {
+      "id": 68,
+      "value": "to say I'm sorry",
+      "options": [
+        "謝罪する",
+        "感謝する",
+        "怒る",
+        "無視する"
+      ],
+      "correctAnswer": "謝罪する",
+      "explanation": "「say I'm sorry」は、「ごめんなさいと言う」という意味で、謝罪の意思を表します。ここでは、ペニーがハワードとバーナデットを引き合わせたことについて、何度も謝っている状況を表しています。"
+    },
+    {
+      "id": 69,
+      "value": "come",
+      "options": [
+        "来る",
+        "去る",
+        "変わる",
+        "留まる"
+      ],
+      "correctAnswer": "変わる",
+      "explanation": "「come」は、ここでは「come a long way」というイディオムの一部で、「長い道のりを経て成長する、進歩する」という意味です。ここでは、レナードが自分たちがどれだけ成長したかを振り返っています。"
+    },
+    {
+      "id": 70,
+      "value": "kick me out",
+      "options": [
+        "私を蹴り出す",
+        "私を招待する",
+        "私を助ける",
+        "私を無視する"
+      ],
+      "correctAnswer": "私を蹴り出す",
+      "explanation": "「kick someone out」は、文字通りには「誰かを蹴り出す」という意味ですが、ここでは比喩的に「誰かを追い出す、除外する」という意味で使われています。ラージがどこに行っても追い出される状況を表しています。"
+    },
+    {
+      "id": 71,
+      "value": "water broke",
+      "options": [
+        "水が漏れた",
+        "洪水が起きた",
+        "水道管が破裂した",
+        "お湯を沸かした"
+      ],
+      "correctAnswer": "水が漏れた",
+      "explanation": "「water broke」は、出産が近づいた際に羊水が破れることを意味する婉曲的な表現です。ここでは、バーナデットの出産が始まったことを知らせるために使われています。"
+    },
+    {
+      "id": 72,
+      "value": "let it go",
+      "options": [
+        "手放す",
+        "握りしめる",
+        "始める",
+        "隠す"
+      ],
+      "correctAnswer": "手放す",
+      "explanation": "「let it go」は、何かを諦める、忘れる、または気にしないという意味です。ここでは、ラージが自分の不満を忘れて、バーナデットのためにこの日を特別にするように促しています。"
+    },
+    {
+      "id": 73,
+      "value": "call 'em out",
+      "options": [
+        "応援する",
+        "指摘する",
+        "大声で呼ぶ",
+        "非難する"
+      ],
+      "correctAnswer": "指摘する",
+      "explanation": "「call out」は、大声で呼ぶ、または間違いや不正を指摘するという意味です。ここでは、歩行者を見つけたら教えてくれというニュアンスで使われています。ここでは、相手に気づき次第、大声でその存在を知らせるように頼む意味合いです。"
+    },
+    {
+      "id": 74,
+      "value": "to be fair",
+      "options": [
+        "公平に言って",
+        "不公平に言って",
+        "正直に言って",
+        "嘘をついて"
+      ],
+      "correctAnswer": "公平に言って",
+      "explanation": "「to be fair」は、公平に言うと、または正当に評価するとという意味で、自分の意見を述べる際に公平さを強調するために使われます。ここでは、ラージが自分がバーナデットの出産準備に貢献したことを強調するために使っています。"
+    },
+    {
+      "id": 75,
+      "value": "figure out",
+      "options": [
+        "理解する",
+        "忘れる",
+        "無視する",
+        "混乱する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」は、理解する、解明するという意味です。ここでは、トッツィーロールが自然に温かいわけではないことに気づいたという意味で使われています。"
+    },
+    {
+      "id": 76,
+      "value": "struggling",
+      "options": [
+        "苦労している",
+        "成功している",
+        "怠惰な",
+        "満足している"
+      ],
+      "correctAnswer": "苦労している",
+      "explanation": "「struggling」は、困難な状況で努力している、苦労しているという意味です。経済的な困難や、目標達成のために苦戦している状態を表すのに使われます。\n例：a struggling artist (苦労している芸術家)"
+    },
+    {
+      "id": 77,
+      "value": "worthwhile",
+      "options": [
+        "価値のある",
+        "無価値な",
+        "困難な",
+        "簡単な"
+      ],
+      "correctAnswer": "価値のある",
+      "explanation": "「worthwhile」は、時間、お金、労力を費やす価値があるという意味です。何かを行うことによって得られる利益や満足感が大きいことを示します。\n例：a worthwhile investment (価値のある投資)"
+    },
+    {
+      "id": 78,
+      "value": "consolation",
+      "options": [
+        "慰め",
+        "非難",
+        "無視",
+        "喜び"
+      ],
+      "correctAnswer": "慰め",
+      "explanation": "「consolation」は、悲しみや失望を和らげるための慰め、同情、またはそれによって得られる安心感という意味です。\n例：find consolation in music (音楽に慰めを見出す)"
+    },
+    {
+      "id": 79,
+      "value": "compassion",
+      "options": [
+        "思いやり",
+        "無関心",
+        "嫌悪感",
+        "怒り"
+      ],
+      "correctAnswer": "思いやり",
+      "explanation": "「compassion」は、他者の苦しみに対する深い理解と共感、そしてそれを軽減したいという気持ちを意味します。特に、相手の立場になって考えることができる場合に用いられます。\n例：show compassion for the poor (貧しい人々への思いやりを示す)"
+    },
+    {
+      "id": 80,
+      "value": "uterus",
+      "options": [
+        "子宮",
+        "心臓",
+        "肺",
+        "胃"
+      ],
+      "correctAnswer": "子宮",
+      "explanation": "「uterus」は、医学用語で「子宮」を意味します。妊娠中に胎児が成長する場所です。"
+    },
+    {
+      "id": 81,
+      "value": "milestone",
+      "options": [
+        "節目",
+        "障害",
+        "休憩",
+        "後退"
+      ],
+      "correctAnswer": "節目",
+      "explanation": "「milestone」は、人生やプロジェクトにおける重要な出来事や達成点、節目を意味します。進捗状況を測る上での重要なポイントとなります。\n例：a major milestone in one's career (キャリアにおける重要な節目)"
+    },
+    {
+      "id": 82,
+      "value": "turn things around",
+      "options": [
+        "状況を改善する",
+        "状況を悪化させる",
+        "現状維持する",
+        "無視する"
+      ],
+      "correctAnswer": "状況を改善する",
+      "explanation": "「turn things around」は、悪い状況や不振な状態を好転させる、改善するという意味のイディオムです。\n例：The new manager turned the company around. (新しいマネージャーが会社を立て直した。)"
+    },
+    {
+      "id": 83,
+      "value": "vending machine",
+      "options": [
+        "自動販売機",
+        "洗濯機",
+        "冷蔵庫",
+        "掃除機"
+      ],
+      "correctAnswer": "自動販売機",
+      "explanation": "「vending machine」は、コインや紙幣を投入して商品を購入できる自動販売機のことです。スナック、飲み物、切符など様々な商品が販売されています。"
+    },
+    {
+      "id": 84,
+      "value": "staying up",
+      "options": [
+        "起きている",
+        "寝ている",
+        "出かける",
+        "帰宅する"
+      ],
+      "correctAnswer": "起きている",
+      "explanation": "「stay up」は、寝ないで起きているという意味です。特に、通常寝る時間になっても起きている状態を指します。\n例：stay up late (夜更かしする)"
+    },
+    {
+      "id": 85,
+      "value": "godfather",
+      "options": [
+        "名付け親",
+        "父親",
+        "叔父",
+        "友人"
+      ],
+      "correctAnswer": "名付け親",
+      "explanation": "「godfather」は、キリスト教の洗礼式で、子供の霊的な成長を支援する役割を担う男性を指します。また、比喩的に、保護者や指導者を意味することもあります。"
+    },
+    {
+      "id": 86,
+      "value": "nursery",
+      "options": [
+        "保育室",
+        "応接室",
+        "手術室",
+        "食堂"
+      ],
+      "correctAnswer": "保育室",
+      "explanation": "「nursery」は、病院や施設内にある新生児や乳幼児のための部屋、または植物を育てる温室を意味します。ここでは病院の新生児室を指します。"
+    },
+    {
+      "id": 87,
+      "value": "foreplay",
+      "options": [
+        "前戯",
+        "本番",
+        "休憩",
+        "終盤"
+      ],
+      "correctAnswer": "前戯",
+      "explanation": "「foreplay」は、性行為の前の性的興奮を高めるための行為を指します。比喩的に、何か重要なことの前に行われる準備段階や予備的な行為を指すこともあります。"
+    },
+    {
+      "id": 88,
+      "value": "quantum",
+      "options": [
+        "量子",
+        "古典",
+        "相対性",
+        "ニュートン"
+      ],
+      "correctAnswer": "量子",
+      "explanation": "「quantum」は、物理学における「量子」を意味し、エネルギーや物質の最小単位を表します。量子力学などの文脈でよく用いられます。"
+    },
+    {
+      "id": 89,
+      "value": "gyroscope",
+      "options": [
+        "ジャイロスコープ",
+        "トランジスタ",
+        "ダイオード",
+        "コンデンサ"
+      ],
+      "correctAnswer": "ジャイロスコープ",
+      "explanation": "「gyroscope」は、回転体の角運動量を利用して姿勢を安定させる装置です。航空機や船舶の航行、精密機器などに使用されます。"
+    },
+    {
+      "id": 90,
+      "value": "undeniable",
+      "options": [
+        "否定できない",
+        "疑わしい",
+        "不明確な",
+        "誤解を招く"
+      ],
+      "correctAnswer": "否定できない",
+      "explanation": "「undeniable」は、明白で反論の余地がない、否定できないという意味です。証拠が十分で議論の余地がない状況を表します。\n例：undeniable evidence (否定できない証拠)"
+    },
+    {
+      "id": 91,
+      "value": "pasty-faced",
+      "options": [
+        "青白い顔の",
+        "健康的な顔の",
+        "日焼けした顔の",
+        "化粧をした顔の"
+      ],
+      "correctAnswer": "青白い顔の",
+      "explanation": "「pasty-faced」は、不健康そうに見える青白い顔色を表す形容詞です。主に、日光を浴びない生活や病気などが原因で顔色が悪い状態を指します。"
+    },
+    {
+      "id": 92,
+      "value": "birthing class",
+      "options": [
+        "出産準備教室",
+        "料理教室",
+        "ダンス教室",
+        "語学教室"
+      ],
+      "correctAnswer": "出産準備教室",
+      "explanation": "「birthing class」は、出産や育児に関する知識や技術を学ぶための教室です。呼吸法、陣痛の対処法、新生児の世話などを教えます。"
+    },
+    {
+      "id": 93,
+      "value": "snap 'em off",
+      "options": [
+        "へし折る",
+        "修理する",
+        "磨く",
+        "隠す"
+      ],
+      "correctAnswer": "へし折る",
+      "explanation": "「snap off」は、何かを急に折る、へし折るという意味です。この文脈では、怒って脚を折るという比喩的な表現です。"
+    },
+    {
+      "id": 94,
+      "value": "Swiss chard",
+      "options": [
+        "スイスチャード",
+        "レタス",
+        "ほうれん草",
+        "キャベツ"
+      ],
+      "correctAnswer": "スイスチャード",
+      "explanation": "「Swiss chard」は、葉野菜の一種で、ほうれん草に似た風味があります。栄養価が高く、サラダや炒め物などに使われます。"
+    },
+    {
+      "id": 95,
+      "value": "dog owner",
+      "options": [
+        "犬の飼い主",
+        "猫の飼い主",
+        "魚の飼い主",
+        "鳥の飼い主"
+      ],
+      "correctAnswer": "犬の飼い主",
+      "explanation": "「dog owner」は、犬を飼っている人のことを指します。ペットとして犬を飼育し、世話をする人を意味します。"
+    },
+    {
+      "id": 96,
+      "value": "Halley's comet",
+      "options": [
+        "ハレー彗星",
+        "流れ星",
+        "ブラックホール",
+        "銀河"
+      ],
+      "correctAnswer": "ハレー彗星",
+      "explanation": "「Halley's comet」は、約76年周期で地球に接近する有名な彗星です。天文学的な現象として広く知られています。"
+    },
+    {
+      "id": 97,
+      "value": "aunts and uncles",
+      "options": [
+        "叔父叔母",
+        "両親",
+        "祖父母",
+        "兄弟姉妹"
+      ],
+      "correctAnswer": "叔父叔母",
+      "explanation": "「aunts and uncles」は、親の兄弟姉妹、つまり叔父と叔母を意味します。親戚関係を表す一般的な表現です。"
+    },
+    {
+      "id": 98,
+      "value": "Wizarding World",
+      "options": [
+        "ウィザーディング・ワールド",
+        "ディズニーランド",
+        "ユニバーサルスタジオ",
+        "映画館"
+      ],
+      "correctAnswer": "ウィザーディング・ワールド",
+      "explanation": "「Wizarding World」は、ハリーポッターのテーマパークです。"
+    },
+    {
+      "id": 99,
+      "value": "Hankius pankius",
+      "options": [
+        "ハンキウス・パンキウス",
+        "アブラカダブラ",
+        "リディクラス",
+        "エクスペクトパトローナム"
+      ],
+      "correctAnswer": "ハンキウス・パンキウス",
+      "explanation": "「Hankius pankius」は、ハリーポッターシリーズで使われる魔法の呪文に似せた、架空の呪文です。"
+    },
+    {
+      "id": 100,
+      "value": "cutting the line",
+      "options": [
+        "列に割り込む",
+        "列を整備する",
+        "列を整理する",
+        "列を無視する"
+      ],
+      "correctAnswer": "列に割り込む",
+      "explanation": "「cutting the line」は、列に割り込むという意味です。順番を守らず、他人の迷惑になる行為を指します。"
+    }
+  ]
+}

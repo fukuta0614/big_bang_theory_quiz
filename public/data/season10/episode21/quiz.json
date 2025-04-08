@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "A-game",
+      "options": [
+        "最高の状態",
+        "ゲームの才能",
+        "平均的な状態",
+        "遊び心"
+      ],
+      "correctAnswer": "最高の状態",
+      "explanation": "「A-game」とは、人が最高のパフォーマンスを発揮できる状態を指します。スポーツ、仕事、学業など、様々な分野で使用されます。例文：He needs to bring his A-game to the presentation if he wants to impress the boss. (上司を感心させたいなら、彼はプレゼンテーションで最高の状態を発揮する必要がある。)"
+    },
+    {
+      "id": 2,
+      "value": "retrospective",
+      "options": [
+        "回顧展",
+        "未来予測",
+        "新しい発見",
+        "簡単な要約"
+      ],
+      "correctAnswer": "回顧展",
+      "explanation": "「retrospective」は、過去を振り返り、その出来事や作品を再評価する意味です。美術展やイベントなどでよく使用されます。例文：The museum is holding a retrospective of the artist's early work. (美術館では、そのアーティストの初期作品の回顧展が開催されている。)"
+    },
+    {
+      "id": 3,
+      "value": "attention span",
+      "options": [
+        "注意の持続時間",
+        "集中力",
+        "記憶力",
+        "理解力"
+      ],
+      "correctAnswer": "注意の持続時間",
+      "explanation": "「attention span」は、注意や関心を特定の対象に集中させることができる時間の長さを指します。特に、子供の教育や学習能力に関連してよく使われます。例文：Children today seem to have a shorter attention span than previous generations. (現代の子供たちは、以前の世代よりも注意の持続時間が短いようだ。)"
+    },
+    {
+      "id": 4,
+      "value": "equally effective",
+      "options": [
+        "同じくらい効果的",
+        "非常に非効果的",
+        "予想以上に効果的",
+        "効果がない"
+      ],
+      "correctAnswer": "同じくらい効果的",
+      "explanation": "「equally effective」とは、二つ以上のものが同じ程度に効果や効能があることを意味します。比較対象があることが前提となります。例文：Both methods are equally effective in treating the disease. (どちらの方法も、その病気の治療において同じくらい効果的です。)"
+    },
+    {
+      "id": 5,
+      "value": "mind you",
+      "options": [
+        "念のため",
+        "気にしないで",
+        "忘れないで",
+        "もちろん"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「mind you」は、相手に何かを付け加えて説明したり、注意を促したりする際に使われる挿入句です。「ただし」「念のために」といった意味合いを持ちます。例文：It's a great restaurant, mind you, it's a bit expensive. (素晴らしいレストランだよ、念のため言っておくと、少し高いけどね。)"
+    },
+    {
+      "id": 6,
+      "value": "roll the clip",
+      "options": [
+        "映像を流して",
+        "テープを巻き戻して",
+        "話を続けて",
+        "ビデオを止めて"
+      ],
+      "correctAnswer": "映像を流して",
+      "explanation": "「roll the clip」は、映画やテレビ業界で、録画された映像を再生する指示として使われます。例文：Roll the clip to show the audience the highlights of the game. (観客に試合のハイライトを見せるために、映像を流してください。)"
+    },
+    {
+      "id": 7,
+      "value": "plucky",
+      "options": [
+        "勇敢な",
+        "臆病な",
+        "幸運な",
+        "怠惰な"
+      ],
+      "correctAnswer": "勇敢な",
+      "explanation": "「plucky」は、困難な状況でも勇気と決意を持って立ち向かうという意味です。しばしば、小柄で弱そうな者が困難に立ち向かう様子を表現する際に用いられます。例文：The plucky little girl fought against the odds to win the race. (その勇敢な少女は、逆境に立ち向かい、レースで勝利した。)"
+    },
+    {
+      "id": 8,
+      "value": "on purpose",
+      "options": [
+        "わざと",
+        "偶然に",
+        "急いで",
+        "秘密に"
+      ],
+      "correctAnswer": "わざと",
+      "explanation": "「on purpose」は、「意図的に」「故意に」という意味です。何かを計画的に行うことを指します。例文：He broke the vase on purpose to get her attention. (彼は彼女の気を引くために、わざと花瓶を割った。)"
+    },
+    {
+      "id": 9,
+      "value": "turn it over to",
+      "options": [
+        "担当を交代する",
+        "無視する",
+        "反対する",
+        "元に戻す"
+      ],
+      "correctAnswer": "担当を交代する",
+      "explanation": "「turn it over to」は、ある人から別の人へ、責任や役割、発言権などを引き継ぐことを意味します。プレゼンテーションや会議などでよく使われます。例文：Now, I'd like to turn it over to my colleague, Sarah, who will talk about the next steps. (それでは、次のステップについて話すために、同僚のサラに担当を交代したいと思います。)"
+    },
+    {
+      "id": 10,
+      "value": "get discouraged",
+      "options": [
+        "落胆する",
+        "元気づけられる",
+        "興奮する",
+        "満足する"
+      ],
+      "correctAnswer": "落胆する",
+      "explanation": "「get discouraged」は、困難や失敗に直面して意気消沈したり、やる気を失ったりすることを意味します。例文：Don't get discouraged if you don't see results immediately. (すぐに結果が出なくても、落胆しないでください。)"
+    },
+    {
+      "id": 11,
+      "value": "tie up the line",
+      "options": [
+        "電話回線をふさぐ",
+        "関係を深める",
+        "線を結ぶ",
+        "自由にする"
+      ],
+      "correctAnswer": "電話回線をふさぐ",
+      "explanation": "「tie up the line」は、電話回線を占有し、他の人が電話をかけたり受けたりできない状態にすることを意味します。例文：Please don't tie up the line with personal calls during work hours. (勤務時間中に私用電話で回線をふさがないでください。)"
+    },
+    {
+      "id": 12,
+      "value": "legitimate",
+      "options": [
+        "正当な",
+        "違法の",
+        "曖昧な",
+        "不適切な"
+      ],
+      "correctAnswer": "正当な",
+      "explanation": "「legitimate」は、法律や規則、基準に合致していて、正当であるという意味です。例文：He has a legitimate reason for being absent from work. (彼には仕事を休む正当な理由がある。)"
+    },
+    {
+      "id": 13,
+      "value": "in confidence",
+      "options": [
+        "内密に",
+        "公然と",
+        "詳細に",
+        "無関心に"
+      ],
+      "correctAnswer": "内密に",
+      "explanation": "「in confidence」は、「秘密に」「内密に」という意味で、人に話した内容を他人に漏らさないでほしいときに使います。例文：I'm telling you this in confidence, so please don't tell anyone else. (これは内密に話していることなので、他の誰にも言わないでください。)"
+    },
+    {
+      "id": 14,
+      "value": "background checks",
+      "options": [
+        "身元調査",
+        "簡単な確認",
+        "書類の確認",
+        "秘密の会合"
+      ],
+      "correctAnswer": "身元調査",
+      "explanation": "「background checks」は、個人が過去に犯罪歴や問題行動がないかなどを確認するために行われる調査です。採用やボランティア活動などでよく行われます。例文：The company requires all new employees to undergo background checks. (その会社では、すべての新入社員に身元調査を受けることが義務付けられています。)"
+    },
+    {
+      "id": 15,
+      "value": "current on",
+      "options": [
+        "最新の状態である",
+        "過去の状態である",
+        "無関心である",
+        "忘れ去られている"
+      ],
+      "correctAnswer": "最新の状態である",
+      "explanation": "「current on」は、情報や知識、スキルなどが最新の状態に保たれていることを意味します。特に、技術や法律など、変化の速い分野でよく使われます。例文：It's important to stay current on the latest developments in your field. (自分の分野の最新の動向に常に精通していることが重要です。)"
+    },
+    {
+      "id": 16,
+      "value": "take advantage of",
+      "options": [
+        "利用する",
+        "無視する",
+        "避ける",
+        "反対する"
+      ],
+      "correctAnswer": "利用する",
+      "explanation": "「take advantage of」は、機会や状況、人などを有利に利用することを意味します。必ずしも悪い意味だけでなく、良い意味でも使われます。例文：We should take advantage of the good weather and go for a walk. (良い天気を活用して、散歩に出かけましょう。)"
+    },
+    {
+      "id": 17,
+      "value": "absence",
+      "options": [
+        "不在",
+        "存在",
+        "沈黙",
+        "喜び"
+      ],
+      "correctAnswer": "不在",
+      "explanation": "「absence」は、人がいない状態、欠席、不足などを意味します。例文：Her absence was noticed immediately. (彼女の不在はすぐに気づかれた。)"
+    },
+    {
+      "id": 18,
+      "value": "darn it",
+      "options": [
+        "しまった",
+        "ありがとう",
+        "こんにちは",
+        "さようなら"
+      ],
+      "correctAnswer": "しまった",
+      "explanation": "「darn it」は、「しまった」「ちくしょう」といった軽い不満や失望を表す時に使われる表現です。より強い言葉を避けるための婉曲表現として用いられます。例文：Darn it! I forgot my keys. (しまった！鍵を忘れた。)"
+    },
+    {
+      "id": 19,
+      "value": "quick",
+      "options": [
+        "急いで",
+        "ゆっくり",
+        "安全に",
+        "秘密に"
+      ],
+      "correctAnswer": "急いで",
+      "explanation": "「quick」は、素早い、迅速な、という意味です。例文：He made a quick decision. (彼は素早い決断をした。)"
+    },
+    {
+      "id": 20,
+      "value": "have to do with",
+      "options": [
+        "関係がある",
+        "関係がない",
+        "重要である",
+        "理解できない"
+      ],
+      "correctAnswer": "関係がある",
+      "explanation": "「have to do with」は、「～と関係がある」という意味で、何かが他の何かに関連していることを示す際に使われます。例文：Her success has a lot to do with her hard work. (彼女の成功は、彼女の努力と大いに関係がある。)"
+    },
+    {
+      "id": 21,
+      "value": "take a look back",
+      "options": [
+        "振り返る",
+        "無視する",
+        "予測する",
+        "隠す"
+      ],
+      "correctAnswer": "振り返る",
+      "explanation": "「take a look back」は、過去の出来事や状況を振り返って考察することを意味します。歴史、個人的な経験、プロジェクトなど、様々な文脈で使用されます。例文：Let's take a look back at what we accomplished last year. (昨年達成したことを振り返ってみましょう。)"
+    },
+    {
+      "id": 22,
+      "value": "on voiceover",
+      "options": [
+        "ナレーションで",
+        "直接話す",
+        "字幕で",
+        "無言で"
+      ],
+      "correctAnswer": "ナレーションで",
+      "explanation": "「on voiceover」は、映像や舞台などで、画面には映っていない人が声だけで解説や物語を語ることを指します。映画やドキュメンタリーでよく使用されます。例文：The story was told on voiceover by the main character. (物語は主人公のナレーションで語られた。)"
+    },
+    {
+      "id": 23,
+      "value": "against the odds",
+      "options": [
+        "不利な状況で",
+        "有利な状況で",
+        "安全な状況で",
+        "普通の状況で"
+      ],
+      "correctAnswer": "不利な状況で",
+      "explanation": "「against the odds」は、成功の可能性が低い、不利な状況下で何かを成し遂げることを意味します。例文：She won the competition against all odds. (彼女はあらゆる困難を乗り越えて競争に勝利した。)"
+    },
+    {
+      "id": 24,
+      "value": "undergo",
+      "options": [
+        "経験する",
+        "避ける",
+        "隠す",
+        "調査する"
+      ],
+      "correctAnswer": "経験する",
+      "explanation": "「undergo」は、変化や困難、検査などを経験することを意味します。しばしば、医学的な処置や厳しい訓練など、ある種のプロセスを経る際に用いられます。例文：He had to undergo surgery after the accident. (彼は事故の後、手術を受けなければならなかった。)"
+    },
+    {
+      "id": 25,
+      "value": "婉曲",
+      "options": [
+        "euphemism",
+        "exaggeration",
+        "hyperbole",
+        "onomatopoeia"
+      ],
+      "correctAnswer": "euphemism",
+      "explanation": "「euphemism」は、不快な事柄をより穏やかな表現で言い換えることを意味します。例えば、「亡くなる」を「逝去する」と言うなどです。例文：\"Passed away\" is a euphemism for \"died.\"(「逝去する」は「亡くなる」の婉曲表現です。)"
+    },
+    {
+      "id": 26,
+      "value": "rudely announced",
+      "options": [
+        "丁寧に発表した",
+        "邪魔されずに発表した",
+        "無作法に発表した",
+        "秘密裏に発表した"
+      ],
+      "correctAnswer": "無作法に発表した",
+      "explanation": "「rudely」は「無作法に、失礼に」という意味で、「announce」は「発表する」という意味です。このフレーズは、相手の気持ちを考えずに、不快な情報を発表した状況を表します。例：He rudely announced her age at the party.（彼はパーティーで彼女の年齢を無作法に発表した。）"
+    },
+    {
+      "id": 27,
+      "value": "couldn't help myself",
+      "options": [
+        "自分を助けることができなかった",
+        "我慢できなかった",
+        "手伝うことができなかった",
+        "自分自身を理解できなかった"
+      ],
+      "correctAnswer": "我慢できなかった",
+      "explanation": "「couldn't help myself」は「我慢できなかった、自制できなかった」という意味のイディオムです。何かを強くしたい気持ちがあり、それを抑えられなかった状況を表します。例：I couldn't help myself from laughing. (笑わずにはいられなかった。)"
+    },
+    {
+      "id": 28,
+      "value": "hold on",
+      "options": [
+        "捕まる",
+        "待つ",
+        "続ける",
+        "解放する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hold on」は「ちょっと待って」という意味の口語表現です。相手に一時停止や注意を促す際に使われます。例：Hold on a second, I need to grab my keys. (ちょっと待って、鍵を取ってくる必要があるんだ。)"
+    },
+    {
+      "id": 29,
+      "value": "coveted",
+      "options": [
+        "嫌われた",
+        "隠された",
+        "切望された",
+        "忘れられた"
+      ],
+      "correctAnswer": "切望された",
+      "explanation": "「coveted」は「切望された、羨望の的の」という意味です。何か非常に望まれているもの、手に入れたいと思われているものを指します。例：The award is highly coveted by many artists. (その賞は多くのアーティストに非常に切望されています。)"
+    },
+    {
+      "id": 30,
+      "value": "cling to",
+      "options": [
+        "しがみつく",
+        "嫌う",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "しがみつく",
+      "explanation": "「cling to」は「しがみつく、固執する」という意味です。物理的にしがみつく場合と、考えや感情に固執する場合の両方に使われます。例：She clung to her beliefs despite the criticism. (彼女は批判にもかかわらず自分の信念にしがみついた。)"
+    },
+    {
+      "id": 31,
+      "value": "figure something out",
+      "options": [
+        "何かを理解する",
+        "何かを無視する",
+        "何かを隠す",
+        "何かを忘れる"
+      ],
+      "correctAnswer": "何かを理解する",
+      "explanation": "「figure something out」は「何かを理解する、解決策を見つける」という意味の句動詞です。問題や状況を解決するために考えるプロセスを指します。例：We need to figure out how to solve this problem. (この問題をどう解決するかを考え出す必要がある。)"
+    },
+    {
+      "id": 32,
+      "value": "mama's boy",
+      "options": [
+        "人気者",
+        "お調子者",
+        "マザコン",
+        "怠け者"
+      ],
+      "correctAnswer": "マザコン",
+      "explanation": "「mama's boy」は「マザコン」という意味です。母親に過度に依存している男性を指す、やや否定的な意味合いを含む言葉です。例：Everyone thinks he is a mama's boy."
+    },
+    {
+      "id": 33,
+      "value": "have a tantrum",
+      "options": [
+        "瞑想する",
+        "反論する",
+        "かんしゃくを起こす",
+        "休憩する"
+      ],
+      "correctAnswer": "かんしゃくを起こす",
+      "explanation": "「have a tantrum」は「かんしゃくを起こす」という意味です。特に子供が激しく怒ったり泣いたりする様子を指しますが、大人が感情を爆発させる場合にも使われます。例：The child had a tantrum because he didn't get the toy he wanted. (その子供は欲しいおもちゃを買ってもらえなかったので、かんしゃくを起こした。)"
+    },
+    {
+      "id": 34,
+      "value": "on that note",
+      "options": [
+        "その知らせで",
+        "その音楽で",
+        "その話題で",
+        "その手紙で"
+      ],
+      "correctAnswer": "その話題で",
+      "explanation": "「on that note」は「そのような状況で、その話題を受けて」という意味です。会話の流れを変える際や、話題を締めくくる際に使われます。例：On that note, let's move on to the next topic. (それでは、次の話題に移りましょう。)"
+    },
+    {
+      "id": 35,
+      "value": "support group",
+      "options": [
+        "応援団",
+        "支援団体",
+        "相談グループ",
+        "秘密結社"
+      ],
+      "correctAnswer": "相談グループ",
+      "explanation": "「support group」は「支援グループ、相談グループ」という意味です。共通の悩みや問題を抱える人々が集まり、互いに助け合うためのグループを指します。例：She joined a support group for cancer survivors. (彼女は癌生存者のための支援グループに参加した。)"
+    },
+    {
+      "id": 36,
+      "value": "time-out",
+      "options": [
+        "休憩時間",
+        "作戦タイム",
+        "反省時間",
+        "外出禁止"
+      ],
+      "correctAnswer": "反省時間",
+      "explanation": "「time-out」は「反省時間、一時的な隔離」という意味です。子供の悪い行動に対する罰として、一定時間、他の人から離れて反省させることを指します。例：The child was sent to time-out for hitting his brother. (その子供は弟を叩いたので、反省時間を与えられた。)"
+    },
+    {
+      "id": 37,
+      "value": "revamped",
+      "options": [
+        "修理した",
+        "再構築した",
+        "盗んだ",
+        "無視した"
+      ],
+      "correctAnswer": "再構築した",
+      "explanation": "「revamped」は「改良された、刷新された」という意味です。「revamp」は、何かを改善するために改造または再構築することを意味します。例：They revamped the old website to make it more user-friendly. (彼らは古いウェブサイトを改良して、よりユーザーフレンドリーにした。)"
+    },
+    {
+      "id": 38,
+      "value": "on my flag show",
+      "options": [
+        "国旗の展示会で",
+        "国旗に関する番組で",
+        "国旗のデザインコンテストで",
+        "国旗を作るワークショップで"
+      ],
+      "correctAnswer": "国旗に関する番組で",
+      "explanation": "この文脈では、「flag show」は国旗に関する何らかの形式の発表や展示を指します。ここでは、特にテレビやインターネットなどのメディアを通じて行われる番組を示唆しています。例えば、国旗の歴史や意味を紹介する番組などが考えられます。"
+    },
+    {
+      "id": 39,
+      "value": "exotic bird show",
+      "options": [
+        "絶滅危惧種の鳥の展示",
+        "珍しい鳥のショー",
+        "鳥の曲芸ショー",
+        "鳥の保護に関する展示"
+      ],
+      "correctAnswer": "珍しい鳥のショー",
+      "explanation": "「exotic bird show」は珍しい鳥を集めて行うショーのことです。「exotic」は「異国風の、珍しい」という意味で、ここでは普段見慣れない種類の鳥を指します。このショーでは、これらの鳥の美しさや珍しい生態を鑑賞することができます。"
+    },
+    {
+      "id": 40,
+      "value": "not ready to go back to work",
+      "options": [
+        "仕事に戻る準備ができていない",
+        "仕事に戻るのが待ち遠しい",
+        "仕事を辞める準備ができている",
+        "仕事を休む準備ができていない"
+      ],
+      "correctAnswer": "仕事に戻る準備ができていない",
+      "explanation": "「not ready to go back to work」は仕事に復帰する心の準備や状況が整っていない状態を指します。特に育児休暇後などに、仕事と家庭の両立に不安を感じる状況で使われます。例：After having a baby, she was not ready to go back to work."
+    },
+    {
+      "id": 41,
+      "value": "chicken, birds mess with my hair, I come back hard",
+      "options": [
+        "チキン、鳥が私の髪をめちゃくちゃにする、私は強く戻ってくる",
+        "チキン、鳥が私の髪で遊ぶ、私は激しく反撃する",
+        "チキン、鳥は私の髪を汚す、私は優しく戻ってくる",
+        "チキン、鳥は私の髪を食べる、私はそっと戻ってくる"
+      ],
+      "correctAnswer": "チキン、鳥が私の髪で遊ぶ、私は激しく反撃する",
+      "explanation": "これは一種のユーモラスな表現で、Stuartが鳥に何かされたことに対する彼の復讐心を示しています。「mess with」は「～をいじる、～にちょっかいを出す」という意味で、「come back hard」は「激しく反撃する」という意味です。全体として、彼は鳥に対する嫌悪感と、それに対する彼の行動を示唆しています。"
+    },
+    {
+      "id": 42,
+      "value": "grow up",
+      "options": [
+        "成長する",
+        "大人になる",
+        "発展する",
+        "年をとる"
+      ],
+      "correctAnswer": "大人になる",
+      "explanation": "「grow up」は「大人になる、分別を持つ」という意味です。幼稚な言動をする人に対して、「いい加減にしろ」というニュアンスで使われることがあります。例：Stop acting like a child and grow up! (子供みたいなことを言うのはやめて、大人になりなさい！)"
+    },
+    {
+      "id": 43,
+      "value": "turn to ruin some poor girl’s life",
+      "options": [
+        "番だ、かわいそうな女の子の人生を台無しにする",
+        "番だ、かわいそうな女の子の人生を楽しくする",
+        "チャンスだ、かわいそうな女の子の人生を救う",
+        "チャンスだ、かわいそうな女の子の人生を邪魔する"
+      ],
+      "correctAnswer": "番だ、かわいそうな女の子の人生を台無しにする",
+      "explanation": "「turn to ruin some poor girl’s life」は、誰かが次に誰かの恋愛関係をだめにする番だ、という意味です。皮肉やユーモアを込めて、恋愛がうまくいかないことを表現しています。例：It’s your turn to ruin some poor guy’s life. (次は君が誰かの人生を台無しにする番だね。)"
+    },
+    {
+      "id": 44,
+      "value": "come back hard",
+      "options": [
+        "冷静に対応する",
+        "優しく接する",
+        "強硬な手段に出る",
+        "無視する"
+      ],
+      "correctAnswer": "強硬な手段に出る",
+      "explanation": "「come back hard」は「強く反撃する、強硬な手段に出る」という意味です。誰かに何かされたことに対する報復として、より強い態度で対応することを指します。例：If they attack us, we will come back hard. (もし彼らが私たちを攻撃するなら、私たちは強硬な手段で反撃するだろう。)"
+    },
+    {
+      "id": 45,
+      "value": "on a charming note",
+      "options": [
+        "魅力的な音楽で",
+        "魅力的な手紙で",
+        "魅力的な話題で",
+        "魅力的なメモで"
+      ],
+      "correctAnswer": "魅力的な話題で",
+      "explanation": "「on a charming note」は「魅力的な話題で、好ましい雰囲気で」という意味です。会話や状況を締めくくる際に、良い印象を与えるために使われます。例：On a charming note, let's conclude this meeting. (魅力的な話題で、この会議を終えましょう。)"
+    },
+    {
+      "id": 46,
+      "value": "new to this",
+      "options": [
+        "これが初めてだ",
+        "これには慣れていない",
+        "これが得意だ",
+        "これには飽きた"
+      ],
+      "correctAnswer": "これには慣れていない",
+      "explanation": "「new to this」は「これには不慣れだ、初めてだ」という意味です。ある活動や状況に初めて参加する場合や、経験が浅い場合に使われます。例：I'm new to this game, so please be patient with me. (このゲームは初めてなので、辛抱強く接してください。)"
+    },
+    {
+      "id": 47,
+      "value": "go",
+      "options": [
+        "行く",
+        "進む",
+        "やれ",
+        "耐えろ"
+      ],
+      "correctAnswer": "やれ",
+      "explanation": "ここでは、「Go.」は命令形で使われており、「あっちへ行け」「失せろ」といった意味合いを持ちます。不快に感じている相手に対して、直接的な表現を避けて遠ざけようとする際に用いられます。この文脈では、Sheldonが余計な発言をしたため、Amyが彼をたしなめるために使っています。"
+    },
+    {
+      "id": 48,
+      "value": "slam that door",
+      "options": [
+        "ドアに寄りかかる",
+        "ドアをそっと閉める",
+        "ドアにペンキを塗る",
+        "ドアを強く閉める"
+      ],
+      "correctAnswer": "ドアを強く閉める",
+      "explanation": "「slam that door」は「ドアをバンと閉める」という意味です。怒りや不満を込めてドアを閉める行為を指します。例：Don't slam the door! (ドアをバンと閉めるな！)"
+    },
+    {
+      "id": 49,
+      "value": "take a break from",
+      "options": [
+        "休憩する",
+        "集中する",
+        "専念する",
+        "逃避する"
+      ],
+      "correctAnswer": "休憩する",
+      "explanation": "「take a break from」は「～から休憩する、一時的に離れる」という意味です。特定の活動や関係から一時的に距離を置くことを指します。例：I need to take a break from studying. (勉強から休憩する必要がある。)"
+    },
+    {
+      "id": 50,
+      "value": "set up",
+      "options": [
+        "設定する",
+        "騙す",
+        "紹介する",
+        "準備する"
+      ],
+      "correctAnswer": "紹介する",
+      "explanation": "「set up」は様々な意味がありますが、この文脈では「（人）を紹介する、お膳立てする」という意味です。誰かと誰かをデートさせるために、紹介したり、計画を立てたりすることを指します。例：She set me up with her friend. (彼女は私と彼女の友達をデートさせた。)"
+    },
+    {
+      "id": 51,
+      "value": "work out",
+      "options": [
+        "運動する",
+        "解決する",
+        "うまくいく",
+        "仕事をする"
+      ],
+      "correctAnswer": "うまくいく",
+      "explanation": "「work out」は、物事が計画通りに進む、成功するという意味のイディオムです。特に、努力や計画の結果が良い方向に進むことを表します。例：Things didn't work out as planned. (物事は計画通りには進まなかった。)"
+    },
+    {
+      "id": 52,
+      "value": "Shake Shack",
+      "options": [
+        "小屋を揺らす",
+        "ハンバーガーショップ",
+        "秘密の場所",
+        "飲み物を混ぜる"
+      ],
+      "correctAnswer": "ハンバーガーショップ",
+      "explanation": "「Shake Shack」は、アメリカ発祥の有名なハンバーガーチェーン店です。この文脈では、ラージがShake Shackに頻繁に立ち寄るせいで腹筋が見えなくなった、というジョークとして使われています。"
+    },
+    {
+      "id": 53,
+      "value": "Nice try.",
+      "options": [
+        "良い試みだ",
+        "ナイス",
+        "残念",
+        "もう一度"
+      ],
+      "correctAnswer": "残念",
+      "explanation": "「Nice try」は、試みが失敗に終わった時に、相手を励ます意味合いで使われることが多い表現です。しかし、皮肉を込めて「そうはいくか」のようなニュアンスで使われることもあります。この文脈では、ペニーがパーソナルトレーナーの無料セッションに便乗しようとしたのに対し、レナードがそれを阻止する意図で使用されています。"
+    },
+    {
+      "id": 54,
+      "value": "flat-screen",
+      "options": [
+        "薄型テレビ",
+        "平らなスクリーン",
+        "固定画面",
+        "フラットなフィルター"
+      ],
+      "correctAnswer": "薄型テレビ",
+      "explanation": "「flat-screen」は、薄型テレビを意味します。主に液晶やプラズマなどの薄いディスプレイを用いたテレビを指します。この文脈では、バートがお金で女性を惹きつけようとしていることを示す例として使われています。"
+    },
+    {
+      "id": 55,
+      "value": "lived happily ever after",
+      "options": [
+        "その後ずっと幸せに暮らした",
+        "永遠に生きた",
+        "幸せな生活を送った",
+        "平和に暮らした"
+      ],
+      "correctAnswer": "その後ずっと幸せに暮らした",
+      "explanation": "「lived happily ever after」はおとぎ話の結びでよく使われる表現で、「その後ずっと幸せに暮らしました」という意味です。ここでは、レナードがペニーとの関係を冗談めかして語る際に使われています。"
+    },
+    {
+      "id": 56,
+      "value": "day care",
+      "options": [
+        "一日",
+        "デイケア",
+        "託児所",
+        "日帰り旅行"
+      ],
+      "correctAnswer": "託児所",
+      "explanation": "「day care」は、主に就学前の子どもを預かる施設、託児所や保育園を意味します。ここでは、バーナデットが職場復帰するにあたり、娘のハリーを託児所に預ける準備をしている場面で使われています。"
+    },
+    {
+      "id": 57,
+      "value": "knock him out",
+      "options": [
+        "彼をノックアウトする",
+        "彼を避ける",
+        "彼を無視する",
+        "彼を笑わせる"
+      ],
+      "correctAnswer": "彼をノックアウトする",
+      "explanation": "「knock someone out」は、人を殴って意識を失わせる、ノックアウトするという意味です。ここでは、ハワードが娘に託児所で一番強い子になるように冗談交じりに言っています。"
+    },
+    {
+      "id": 58,
+      "value": "cutie",
+      "options": [
+        "かわいい人",
+        "賢い人",
+        "ずる賢い人",
+        "いたずらっ子"
+      ],
+      "correctAnswer": "かわいい人",
+      "explanation": "「cutie」は、可愛らしい人やものを指す言葉です。ここでは、スチュアートがハリーを可愛がって呼んでいます。"
+    },
+    {
+      "id": 59,
+      "value": "gonna",
+      "options": [
+        "行く",
+        "～するつもり",
+        "～したい",
+        "～すべき"
+      ],
+      "correctAnswer": "～するつもり",
+      "explanation": "「gonna」は、「going to」の口語的な短縮形であり、「～するつもり」という意味を表します。未来の予定や意図を表す際によく使われます。"
+    },
+    {
+      "id": 60,
+      "value": "break up with",
+      "options": [
+        "仲直りする",
+        "別れる",
+        "仲良くする",
+        "結婚する"
+      ],
+      "correctAnswer": "別れる",
+      "explanation": "「break up with」は、恋人や配偶者と別れるという意味です。ここでは、バートがレベッカと別れるかもしれないと考えていることを表しています。"
+    },
+    {
+      "id": 61,
+      "value": "hold out",
+      "options": [
+        "耐える",
+        "持ちこたえる",
+        "主張する",
+        "我慢する"
+      ],
+      "correctAnswer": "持ちこたえる",
+      "explanation": "「hold out」は、ここでは「（より良いものが現れるのを）待つ、期待する」という意味で使われています。バートが、お金目当てではない女性が現れるのを待つ、というニュアンスです。他に、「持ちこたえる」「耐える」という意味もあります。"
+    },
+    {
+      "id": 62,
+      "value": "get some work done",
+      "options": [
+        "仕事をする",
+        "仕事を終わらせる",
+        "休憩する",
+        "運動をする"
+      ],
+      "correctAnswer": "仕事をする",
+      "explanation": "「get some work done」は、「仕事をする」「仕事を進める」という意味です。ここでは、バーナデットが仕事に戻ることを伝えています。"
+    },
+    {
+      "id": 63,
+      "value": "soul mate",
+      "options": [
+        "親友",
+        "ソウルメイト",
+        "ルームメイト",
+        "仕事仲間"
+      ],
+      "correctAnswer": "ソウルメイト",
+      "explanation": "「soul mate」は、魂の伴侶、つまり、考え方や価値観が非常に近く、深い精神的なつながりを感じる相手を意味します。バートは、マッカーサー助成金のおかげでソウルメイトに出会えたと述べています。"
+    },
+    {
+      "id": 64,
+      "value": "copying",
+      "options": [
+        "コピー",
+        "模倣",
+        "暗記",
+        "練習"
+      ],
+      "correctAnswer": "模倣",
+      "explanation": "「copying」は、誰かの行動やスタイルを真似ることを意味します。ここでは、レベッカがエイミーの行動を真似ているのではないかとシェルドンが指摘しています。"
+    },
+    {
+      "id": 65,
+      "value": "awkward",
+      "options": [
+        "気まずい",
+        "難しい",
+        "ぎこちない",
+        "不器用"
+      ],
+      "correctAnswer": "気まずい",
+      "explanation": "「awkward」は、気まずい、居心地が悪い、やりにくいという意味です。ここでは、前の晩の出来事が気まずかったのではないかとラージが心配しています。"
+    },
+    {
+      "id": 66,
+      "value": "flaunt",
+      "options": [
+        "誇示する",
+        "隠す",
+        "見つける",
+        "否定する"
+      ],
+      "correctAnswer": "誇示する",
+      "explanation": "「flaunt」は、自分の持っているもの（お金、才能、美しさなど）を自慢げに見せびらかすという意味です。バートが、お金を誇示して恋人を探すべきではないと考えるようになったことを表しています。"
+    },
+    {
+      "id": 67,
+      "value": "That's a good one.",
+      "options": [
+        "それは良いものだ",
+        "それは面白い",
+        "それは素晴らしい",
+        "それは価値がある"
+      ],
+      "correctAnswer": "それは面白い",
+      "explanation": "「That's a good one.」は、相手の発言やジョークが面白いときに使われる表現です。ここでは、バートが冗談を言った後、シェルドンがそれに対して言っています。"
+    },
+    {
+      "id": 68,
+      "value": "on phone",
+      "options": [
+        "電話で",
+        "電話中",
+        "電話の上",
+        "電話のそば"
+      ],
+      "correctAnswer": "電話で",
+      "explanation": "「on phone」は、「電話で話している」状態を表します。ここでは、バーナデットが電話でハリーの様子を尋ねていることを示しています。"
+    },
+    {
+      "id": 69,
+      "value": "There she is",
+      "options": [
+        "そこに彼女がいる",
+        "彼女は元気だ",
+        "彼女はそこにいた",
+        "彼女はここにいる"
+      ],
+      "correctAnswer": "そこに彼女がいる",
+      "explanation": "「There she is」は、「そこに彼女がいる」という意味で、特定の人を見つけた時に使われる表現です。ここでは、バーナデットがハリーを託児所のビデオで見つけた時に言っています。"
+    },
+    {
+      "id": 70,
+      "value": "nothing to worry about",
+      "options": [
+        "心配することはない",
+        "何も問題ない",
+        "心配しないで",
+        "落ち着いて"
+      ],
+      "correctAnswer": "心配することはない",
+      "explanation": "「nothing to worry about」は、「心配することはない」という意味です。ここでは、ハワードがバーナデットにハリーの様子を伝えて、安心させようとしています。"
+    },
+    {
+      "id": 71,
+      "value": "I'd say",
+      "options": [
+        "私は言うだろう",
+        "私は言いたい",
+        "私は提案する",
+        "私は考える"
+      ],
+      "correctAnswer": "私は考える",
+      "explanation": "「I'd say」は、「私は～だと思う」「～と言えるだろう」という意味で、自分の意見や推測を述べる際に使われる表現です。ここでは、シェルドンがレベッカの行動について自分の考えを述べています。"
+    },
+    {
+      "id": 72,
+      "value": "drive home",
+      "options": [
+        "家に帰る",
+        "運転して帰る",
+        "自宅",
+        "運転"
+      ],
+      "correctAnswer": "運転して帰る",
+      "explanation": "「drive home」は、車で家に帰ることを意味します。ここでは、ラージが運転して帰る途中にShake Shackに寄ってしまうことを表しています。"
+    },
+    {
+      "id": 73,
+      "value": "free sessions",
+      "options": [
+        "自由な時間",
+        "無料レッスン",
+        "自由なセッション",
+        "追加セッション"
+      ],
+      "correctAnswer": "無料レッスン",
+      "explanation": "「free sessions」は、無料で提供されるレッスンやセッションを意味します。ここでは、レベッカがパーソナルトレーナーとして、無料のセッションを提供することを申し出ています。"
+    },
+    {
+      "id": 74,
+      "value": "better be",
+      "options": [
+        "そうであるはずだ",
+        "より良くなる",
+        "もっと良くなる",
+        "改善する"
+      ],
+      "correctAnswer": "そうであるはずだ",
+      "explanation": "「better be」は、「～であるべきだ」「～であるはずだ」という意味で、当然そうであってほしいという期待や願望を表します。ここでは、バートがお金目当てでレベッカが自分と一緒にいることを期待していることを表しています。"
+    },
+    {
+      "id": 75,
+      "value": "the end",
+      "options": [
+        "終わり",
+        "最後",
+        "終点",
+        "結末"
+      ],
+      "correctAnswer": "終わり",
+      "explanation": "「the end」はお話や物語の終わりに使われ、文字通り「終わり」という意味です。ここでは、ペニーがレナードとの出会いを短い物語として語り、その結びとして使っています。"
+    },
+    {
+      "id": 76,
+      "value": "hang out",
+      "options": [
+        "手伝う",
+        "出かける",
+        "ぶらぶらする",
+        "帰る"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、特定の目的もなく、ただ時間を過ごす、ぶらぶらするという意味です。友達と気軽に過ごしたり、特定の場所でリラックスしたりする状況でよく使われます。例：I like to hang out at the coffee shop on weekends. （週末はカフェでぶらぶらするのが好きです。）"
+    },
+    {
+      "id": 77,
+      "value": "get it",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "失う"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get it」は、相手の発言や状況を理解するという意味です。日常会話で非常によく使われ、共感や納得を示す際にも用いられます。例：I finally get it! （やっとわかった！）"
+    },
+    {
+      "id": 78,
+      "value": "make it to",
+      "options": [
+        "到着する",
+        "作る",
+        "壊す",
+        "避ける"
+      ],
+      "correctAnswer": "到着する",
+      "explanation": "「make it to」は、ある場所やイベントに到着する、間に合うという意味です。時間的な制約がある状況や、困難を乗り越えて到達したニュアンスが含まれることがあります。例：I barely made it to the meeting on time. （会議にぎりぎり間に合った。）"
+    },
+    {
+      "id": 79,
+      "value": "bust someone out",
+      "options": [
+        "逮捕する",
+        "脱出させる",
+        "無視する",
+        "批判する"
+      ],
+      "correctAnswer": "脱出させる",
+      "explanation": "「bust someone out」は、誰かを（通常は刑務所などから）脱出させる、救い出すという意味です。映画やドラマでよく使われる表現で、大胆な行動を伴うことが多いです。例：They planned to bust him out of jail. （彼らは彼を刑務所から脱出させる計画を立てた。）"
+    },
+    {
+      "id": 80,
+      "value": "retrospective",
+      "options": [
+        "回顧展",
+        "未来予測",
+        "暴露記事",
+        "批評"
+      ],
+      "correctAnswer": "回顧展",
+      "explanation": "「retrospective」は、過去の出来事や作品を振り返る、回顧的なという意味です。美術展や映画祭などで、過去の作品をまとめて展示・上映する際にも使われます。例：The museum is holding a retrospective of Picasso's early works. （美術館ではピカソの初期作品の回顧展が開催されている。）"
+    },
+    {
+      "id": 81,
+      "value": "crackpot idea",
+      "options": [
+        "素晴らしいアイデア",
+        "現実的なアイデア",
+        "ばかげたアイデア",
+        "秘密のアイデア"
+      ],
+      "correctAnswer": "ばかげたアイデア",
+      "explanation": "「crackpot idea」は、非常識でばかげた、または非現実的な考えやアイデアを指します。この表現は、提案が実現不可能または非常に奇妙であると軽蔑的に示すために使用されます。例：His crackpot idea involved building a giant robot to solve world hunger. （彼のばかげたアイデアは、世界の飢餓を解決するために巨大なロボットを建設することを含んでいました。）"
+    },
+    {
+      "id": 82,
+      "value": "raising your hand",
+      "options": [
+        "手を挙げる",
+        "戦う",
+        "諦める",
+        "賛成する"
+      ],
+      "correctAnswer": "手を挙げる",
+      "explanation": "「raise your hand」は、文字通り手を挙げるという意味ですが、比喩的には発言の機会を求める、許可を得るという意味合いで使われます。特に会議や授業など、秩序を保つ必要がある場面で用いられます。例：Please raise your hand if you have a question. （質問がある方は手を挙げてください。）"
+    },
+    {
+      "id": 83,
+      "value": "have things in common",
+      "options": [
+        "共通点を持つ",
+        "秘密を持つ",
+        "問題を抱える",
+        "競争する"
+      ],
+      "correctAnswer": "共通点を持つ",
+      "explanation": "「have things in common」は、共通の趣味、興味、価値観などを持つという意味です。人間関係、特に恋愛関係において、相性の良さを表す際に用いられます。例：They have a lot of things in common, so they get along very well. （彼らは共通点が多いので、とても仲が良い。）"
+    },
+    {
+      "id": 84,
+      "value": "barging in",
+      "options": [
+        "押し入る",
+        "招待する",
+        "手伝う",
+        "感謝する"
+      ],
+      "correctAnswer": "押し入る",
+      "explanation": "「barge in」は、許可なく、または無作法に部屋や場所に入るという意味です。人のプライバシーを尊重しない行動を非難する際に使われます。例：I'm sorry for barging in, I didn't know you had company.（押し入ってごめんなさい、お客さんがいるとは知りませんでした。）"
+    },
+    {
+      "id": 85,
+      "value": "at capacity",
+      "options": [
+        "空いている",
+        "準備中",
+        "満員",
+        "故障中"
+      ],
+      "correctAnswer": "満員",
+      "explanation": "「at capacity」は、最大収容人数に達している、満員であるという意味です。物理的な場所だけでなく、能力や資源が限界に達している状況にも使われます。例：The restaurant is at capacity tonight. （今夜、そのレストランは満員です。）"
+    },
+    {
+      "id": 86,
+      "value": "drops out",
+      "options": [
+        "参加する",
+        "脱落する",
+        "成功する",
+        "目立つ"
+      ],
+      "correctAnswer": "脱落する",
+      "explanation": "「drop out」は、グループや活動から脱退する、中退するという意味です。学校やプログラムを途中でやめる場合や、競争から降りる場合などに使われます。例：He dropped out of college to pursue his music career. （彼は音楽のキャリアを追求するために大学を中退した。）"
+    },
+    {
+      "id": 87,
+      "value": "person of color",
+      "options": [
+        "病人",
+        "有色人種",
+        "正直な人",
+        "人気者"
+      ],
+      "correctAnswer": "有色人種",
+      "explanation": "「person of color」は、白人以外の全ての人々を指す言葉です。社会的な文脈で、人種的少数派を包括的に表現する際に用いられます。ただし、この表現自体に批判的な意見もあります。例：The organization aims to support people of color in the tech industry. （その組織は、テクノロジー業界における有色人種を支援することを目指している。）"
+    },
+    {
+      "id": 88,
+      "value": "attract a mate",
+      "options": [
+        "友達を作る",
+        "配偶者を引き寄せる",
+        "敵を倒す",
+        "お金を稼ぐ"
+      ],
+      "correctAnswer": "配偶者を引き寄せる",
+      "explanation": "「attract a mate」は、配偶者、つまり結婚や長期的な関係を求める相手を引き寄せるという意味です。動物の求愛行動から派生した表現で、人間の場合、魅力的な要素や行動を通じて相手の関心を引くことを指します。例：He tried to attract a mate by showing off his wealth. （彼は自分の富を見せびらかすことで配偶者を引き寄せようとした。）"
+    },
+    {
+      "id": 89,
+      "value": "power of grovelling",
+      "options": [
+        "謝罪の力",
+        "支配力",
+        "交渉力",
+        "説得力"
+      ],
+      "correctAnswer": "謝罪の力",
+      "explanation": "「grovelling」は、へりくだった態度で謝罪したり、お願いしたりする様子を指します。「power of grovelling」は、そのような謙虚な態度が、相手を許させたり、有利な状況を作り出したりする力を持つという意味合いで使われます。例：He used his power of grovelling to get out of trouble. （彼はへりくだった態度で謝罪し、窮地を脱した。）"
+    },
+    {
+      "id": 90,
+      "value": "run out",
+      "options": [
+        "始まる",
+        "使い果たす",
+        "逃げる",
+        "続ける"
+      ],
+      "correctAnswer": "使い果たす",
+      "explanation": "「run out」は、物資や時間などが尽きる、使い果たすという意味です。資源が有限であることを示す際によく使われます。例：We're running out of time. （時間がなくなってきている。）"
+    },
+    {
+      "id": 91,
+      "value": "all that and",
+      "options": [
+        "それにも関わらず",
+        "それだけでなく",
+        "それ以外に",
+        "それと同時に"
+      ],
+      "correctAnswer": "それだけでなく",
+      "explanation": "「all that and」は、すでに述べたことに追加して、さらに別の要素があることを強調する際に使われる口語的な表現です。追加情報が重要であることを示唆します。例：He's smart, funny, all that and he's kind too. （彼は頭が良く、面白いだけでなく、親切でもある。）"
+    },
+    {
+      "id": 92,
+      "value": "harvest an organ",
+      "options": [
+        "臓器を収穫する",
+        "臓器を移植する",
+        "臓器を研究する",
+        "臓器を売買する"
+      ],
+      "correctAnswer": "臓器を収穫する",
+      "explanation": "「harvest an organ」は、医学的な文脈で、臓器を摘出するという意味です。移植手術のために臓器を取り出す行為を指します。例：Doctors harvested the organ for a life-saving transplant. （医師たちは、命を救うための移植のために臓器を摘出した。）"
+    },
+    {
+      "id": 93,
+      "value": "the right thing",
+      "options": [
+        "簡単なこと",
+        "当然のこと",
+        "正しいこと",
+        "秘密のこと"
+      ],
+      "correctAnswer": "正しいこと",
+      "explanation": "「the right thing」は、道徳的に正しい行動、適切な行動という意味です。状況に応じて判断されることが多く、倫理的な観点から見て正しい選択をすることを指します。例：She knew it was the right thing to do, even if it was difficult. （たとえ困難でも、それが正しいことだと彼女は知っていた。）"
+    },
+    {
+      "id": 94,
+      "value": "good-bye",
+      "options": [
+        "こんにちは",
+        "さようなら",
+        "ありがとう",
+        "おめでとう"
+      ],
+      "correctAnswer": "さようなら",
+      "explanation": "「good-bye」は、別れの挨拶として使われる一般的な表現です。フォーマルな場面でもインフォーマルな場面でも使用できます。例：We said good-bye and went our separate ways. （私たちはさようならを言って、それぞれの道へ進んだ。）"
+    },
+    {
+      "id": 95,
+      "value": "based on",
+      "options": [
+        "〜に基づいて",
+        "〜に反対して",
+        "〜に関係なく",
+        "〜を無視して"
+      ],
+      "correctAnswer": "〜に基づいて",
+      "explanation": "「based on」は、何かの根拠や基準を示す際に用いられます。情報、事実、意見などに基づいて判断や行動が行われることを表します。例：The movie is based on a true story.（その映画は実話に基づいている。）"
+    },
+    {
+      "id": 96,
+      "value": "reception",
+      "options": [
+        "反応",
+        "拒否",
+        "招待",
+        "無視"
+      ],
+      "correctAnswer": "反応",
+      "explanation": "「reception」は、人々の反応や受け止め方を意味します。特に、新しいアイデアや作品に対する世間の評価を示す際に使われます。例：The book received a positive reception from critics.（その本は批評家から好意的な評価を受けた。）"
+    },
+    {
+      "id": 97,
+      "value": "came together",
+      "options": [
+        "崩壊した",
+        "協力した",
+        "迷子になった",
+        "競争した"
+      ],
+      "correctAnswer": "協力した",
+      "explanation": "「came together」は、人々が集まって協力し、何かを成し遂げるという意味です。また、物事がうまくまとまる、実現するという意味合いも持ちます。例：The team came together to win the championship.（チームは団結して選手権で優勝した。）"
+    },
+    {
+      "id": 98,
+      "value": "you’re on",
+      "options": [
+        "あなたは正しい",
+        "電話に出ています",
+        "あなたは間違っている",
+        "休憩中です"
+      ],
+      "correctAnswer": "電話に出ています",
+      "explanation": "「You're on」は、電話や放送などの会話で、相手が回線に繋がっている、または放送中であることを伝える際に使われます。例：Hello, you're on the air.（こんにちは、放送中です。）"
+    },
+    {
+      "id": 99,
+      "value": "worked",
+      "options": [
+        "失敗した",
+        "成功した",
+        "盗まれた",
+        "壊れた"
+      ],
+      "correctAnswer": "成功した",
+      "explanation": "「worked」は、期待された結果が出た、成功したという意味です。計画や行動が意図した通りに機能したことを示します。例：The plan worked perfectly.（計画は完璧に成功した。）"
+    },
+    {
+      "id": 100,
+      "value": "get someone back",
+      "options": [
+        "誰かを忘れる",
+        "誰かと復縁する",
+        "誰かを失う",
+        "誰かを無視する"
+      ],
+      "correctAnswer": "誰かと復縁する",
+      "explanation": "「get someone back」は、関係が終わった相手と復縁する、または以前の関係を取り戻すという意味です。恋愛関係だけでなく、友情などにも使われます。例：He tried everything to get her back.（彼は彼女と復縁するためにあらゆることを試した。）"
+    }
+  ]
+}

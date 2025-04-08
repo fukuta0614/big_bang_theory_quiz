@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "on fire",
+      "options": [
+        "非常に疲れている",
+        "非常に興奮している",
+        "非常に混乱している",
+        "非常に怒っている"
+      ],
+      "correctAnswer": "非常に興奮している",
+      "explanation": "「on fire」は、文字通りには「燃えている」という意味ですが、比喩的には「絶好調である」「非常に興奮している」という意味で使われます。特に、スポーツや仕事などで素晴らしい成果を出している状態を指すことが多いです。\n\n例：The team was on fire during the playoffs. (チームはプレーオフ中、絶好調だった。)"
+    },
+    {
+      "id": 2,
+      "value": "turned on",
+      "options": [
+        "悲しんでいる",
+        "興味を持っている",
+        "怒っている",
+        "性的興奮している"
+      ],
+      "correctAnswer": "性的興奮している",
+      "explanation": "「turned on」は、文字通りには「スイッチが入った」という意味ですが、性的興奮を意味する口語表現としても使われます。異性に対して性的な魅力を感じたり、性的な刺激を受けて興奮したりする状態を表します。\n\n例：She said she was turned on by his muscles.(彼女は彼の筋肉に興奮したと言った。)"
+    },
+    {
+      "id": 3,
+      "value": "keep champagne on ice",
+      "options": [
+        "シャンパンを冷やしておく",
+        "何か特別なことのために準備しておく",
+        "秘密にしておく",
+        "祝うのをやめる"
+      ],
+      "correctAnswer": "何か特別なことのために準備しておく",
+      "explanation": "「keep something on ice」は、文字通りには「何かを氷の上に置いておく」という意味ですが、比喩的には「何か特別なことのために準備しておく」「待機させる」という意味で使われます。良いことが起こるのを期待して準備万端でいる状態を表します。\n\n例：Let's keep the champagne on ice until we know for sure.(確実になるまでシャンパンはとっておこう)"
+    },
+    {
+      "id": 4,
+      "value": "tricky",
+      "options": [
+        "簡単な",
+        "難しい",
+        "退屈な",
+        "面白い"
+      ],
+      "correctAnswer": "難しい",
+      "explanation": "「tricky」は、「扱いにくい」「巧妙な」「油断のならない」といった意味を持つ形容詞です。問題や状況が複雑で解決が難しい場合や、人がずる賢く策略を弄する場合に使われます。\n\n例：This math problem is very tricky. (この数学の問題は非常に難しい。)"
+    },
+    {
+      "id": 5,
+      "value": "means business",
+      "options": [
+        "冗談を言っている",
+        "本気である",
+        "仕事を探している",
+        "休憩している"
+      ],
+      "correctAnswer": "本気である",
+      "explanation": "「mean business」は、「本気である」「真剣である」という意味のイディオムです。人が何かを真剣に考えていたり、行動を起こそうとしていたりする状況を表します。\n\n例：When she says she's going to quit, she means business. (彼女が辞めると言ったら、それは本気だ。)"
+    },
+    {
+      "id": 6,
+      "value": "left over",
+      "options": [
+        "盗まれた",
+        "残された",
+        "隠された",
+        "忘れられた"
+      ],
+      "correctAnswer": "残された",
+      "explanation": "「left over」は、「残った」「余った」という意味の句動詞です。食事や資源など、何かを使った後に残ったものを指します。\n\n例：We had a lot of food left over from the party. (パーティーでたくさんの食べ物が残った。)"
+    },
+    {
+      "id": 7,
+      "value": "deliberation",
+      "options": [
+        "議論",
+        "食事",
+        "運動",
+        "睡眠"
+      ],
+      "correctAnswer": "議論",
+      "explanation": "「deliberation」は、「熟考」「審議」「協議」という意味の名詞です。重要な決定を下す前に、様々な角度から注意深く検討する行為を指します。\n\n例：After much deliberation, the jury reached a verdict. (熟考の末、陪審は評決に達した。)"
+    },
+    {
+      "id": 8,
+      "value": "go berserk",
+      "options": [
+        "眠りに落ちる",
+        "正気を失う",
+        "成功する",
+        "旅行に行く"
+      ],
+      "correctAnswer": "正気を失う",
+      "explanation": "「go berserk」は、「逆上する」「狂暴化する」「冷静さを失う」という意味のイディオムです。人が感情をコントロールできなくなり、激しい怒りや興奮状態に陥ることを表します。\n\n例：He went berserk when he found out his car had been stolen. (彼は車が盗まれたことを知って逆上した。)"
+    },
+    {
+      "id": 9,
+      "value": "coincidentally",
+      "options": [
+        "故意に",
+        "偶然に",
+        "頻繁に",
+        "まれに"
+      ],
+      "correctAnswer": "偶然に",
+      "explanation": "「coincidentally」は、「偶然に」「たまたま」という意味の副詞です。予期せず、または計画なしに何かが起こることを表します。\n\n例：Coincidentally, I ran into an old friend at the airport. (偶然にも、空港で旧友に会った。)"
+    },
+    {
+      "id": 10,
+      "value": "stay over",
+      "options": [
+        "訪問する",
+        "外泊する",
+        "帰宅する",
+        "手伝う"
+      ],
+      "correctAnswer": "外泊する",
+      "explanation": "「stay over」は、「泊まる」「外泊する」という意味の句動詞です。特に、人の家やホテルなどに一晩泊まることを指します。\n\n例：You can stay over at my place if you miss the last train. (終電を逃したら、うちに泊まってもいいよ。)"
+    },
+    {
+      "id": 11,
+      "value": "just kidding",
+      "options": [
+        "真剣です",
+        "冗談です",
+        "怒っています",
+        "悲しいです"
+      ],
+      "correctAnswer": "冗談です",
+      "explanation": "「just kidding」は、「冗談だよ」「からかってるだけだよ」という意味の口語表現です。言ったことが本気ではないことを伝えるために使われます。\n\n例：I was just kidding when I said I didn't like your cooking. (あなたの料理が好きじゃないって言ったのは冗談だよ。)"
+    },
+    {
+      "id": 12,
+      "value": "wood chipper",
+      "options": [
+        "木製の椅子",
+        "木を削る機械",
+        "木の家",
+        "木製のボート"
+      ],
+      "correctAnswer": "木を削る機械",
+      "explanation": "「wood chipper」は、「木材チッパー」のことです。木材を細かく砕いてチップ状にする機械を指します。映画やドラマでは、犯罪に使われる道具として登場することもあります。\n\n例：The suspect allegedly used a wood chipper to dispose of the body. (容疑者は遺体を処理するために木材チッパーを使った疑いがある。)"
+    },
+    {
+      "id": 13,
+      "value": "dear Lord",
+      "options": [
+        "素晴らしい",
+        "なんてことだ",
+        "ありがとう",
+        "おめでとう"
+      ],
+      "correctAnswer": "なんてことだ",
+      "explanation": "「dear Lord」は、「ああ、なんてことだ」「神様」という意味の間投詞です。驚き、落胆、恐れなどの感情を表す際に使われます。宗教的な意味合いよりも、口語的な表現として用いられることが多いです。\n\n例：Oh, dear Lord, what have I done? (ああ、なんてことをしてしまったんだ？)"
+    },
+    {
+      "id": 14,
+      "value": "pick ourselves out",
+      "options": [
+        "自分たちを隠す",
+        "自分たちを選ぶ",
+        "自分たちを責める",
+        "自分たちを助ける"
+      ],
+      "correctAnswer": "自分たちを選ぶ",
+      "explanation": "「pick out」は、「選ぶ」「選び出す」という意味の句動詞です。「pick ourselves out」は、自分たちにとって最適なものや、気に入ったものを注意深く選ぶ行為を指します。\n\n例：We need to pick out a new car. (私たちは新しい車を選ばなければならない。)"
+    },
+    {
+      "id": 15,
+      "value": "jerk",
+      "options": [
+        "優しい人",
+        "嫌な人",
+        "賢い人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "嫌な人",
+      "explanation": "「jerk」は、「嫌な奴」「馬鹿野郎」という意味のスラングです。無神経で自己中心的、または不快な行動をする人を指します。\n\n例：He's such a jerk for treating her that way. (彼は彼女にあんなひどい扱いをするなんて、本当に嫌な奴だ。)"
+    },
+    {
+      "id": 16,
+      "value": "half dead",
+      "options": [
+        "非常に元気",
+        "ほとんど死んでいる",
+        "非常に疲れている",
+        "半分嘘をついている"
+      ],
+      "correctAnswer": "ほとんど死んでいる",
+      "explanation": "「half dead」は、「死にかけている」「瀕死の」「ぐったりしている」という意味の口語表現です。病気や疲労などで非常に弱っている状態を表します。\n\n例：I felt half dead after running the marathon. (マラソンを走った後、死んだように感じた。)"
+    },
+    {
+      "id": 17,
+      "value": "ridiculously",
+      "options": [
+        "真剣に",
+        "ばかばかしいほど",
+        "普通に",
+        "秘密に"
+      ],
+      "correctAnswer": "ばかばかしいほど",
+      "explanation": "「ridiculously」は、「ばかばかしいほど」「とんでもなく」という意味の副詞です。程度が極端であることを強調する際に使われます。\n\n例：The price of that car is ridiculously high. (あの車の値段はばかばかしいほど高い。)"
+    },
+    {
+      "id": 18,
+      "value": "torso",
+      "options": [
+        "頭",
+        "胴体",
+        "腕",
+        "足"
+      ],
+      "correctAnswer": "胴体",
+      "explanation": "「torso」は、「胴体」という意味の名詞です。頭部、腕、脚を除いた体の中心部分を指します。彫刻や人体模型などでよく使われる言葉です。\n\n例：The museum has a collection of ancient Greek torsos. (博物館には古代ギリシャの胴体像のコレクションがある。)"
+    },
+    {
+      "id": 19,
+      "value": "evaluation",
+      "options": [
+        "評価",
+        "計算",
+        "旅行",
+        "運動"
+      ],
+      "correctAnswer": "評価",
+      "explanation": "「evaluation」は、「評価」「査定」「判断」という意味の名詞です。価値、品質、重要性などを客観的に判断する行為を指します。ビジネス、教育、医療など様々な分野で使用されます。\n\n例：The company conducted an evaluation of its employees' performance. (会社は従業員の業績評価を実施した。)"
+    },
+    {
+      "id": 20,
+      "value": "Acquiring",
+      "options": [
+        "失うこと",
+        "取得すること",
+        "破壊すること",
+        "無視すること"
+      ],
+      "correctAnswer": "取得すること",
+      "explanation": "「Acquiring」は、「獲得する」「取得する」「手に入れる」という意味の動詞「acquire」の現在分詞形です。何かを所有したり、スキルや知識を身につけたりする行為を指します。\n\n例：The company is planning to acquire a smaller competitor. (その会社はより小規模な競合他社を買収する計画を立てている。)"
+    },
+    {
+      "id": 21,
+      "value": "application",
+      "options": [
+        "応用",
+        "申し込み",
+        "供給",
+        "謝罪"
+      ],
+      "correctAnswer": "申し込み",
+      "explanation": "「application」は、「申し込み」「出願」「適用」という意味の名詞です。特定の目的のために何かを要求したり、利用したりする行為を指します。就職、入学、特許など様々な分野で使用されます。\n\n例：I sent in my application for the job last week. (先週、その仕事の応募書類を送った。)"
+    },
+    {
+      "id": 22,
+      "value": "sarcasm",
+      "options": [
+        "皮肉",
+        "ユーモア",
+        "喜び",
+        "悲しみ"
+      ],
+      "correctAnswer": "皮肉",
+      "explanation": "「sarcasm」は、「皮肉」「当てこすり」という意味の名詞です。相手を嘲笑したり、批判したりする意図を含んだ言葉や表現を指します。しばしば、言っていることとは反対の意味を込めて使われます。\n\n例：His voice dripped with sarcasm when he said, \"That's a great idea.\" (彼が「それは素晴らしいアイデアだ」と言ったとき、彼の声は皮肉に満ちていた。)"
+    },
+    {
+      "id": 23,
+      "value": "roommate",
+      "options": [
+        "同僚",
+        "ルームメイト",
+        "親友",
+        "家族"
+      ],
+      "correctAnswer": "ルームメイト",
+      "explanation": "「roommate」は、「ルームメイト」「同居人」という意味の名詞です。同じ部屋や家を共有して生活する人を指します。大学の寮などでよく見られる関係です。\n\n例：My roommate and I get along really well. (ルームメイトとはとても仲が良い。)"
+    },
+    {
+      "id": 24,
+      "value": "episode",
+      "options": [
+        "映画",
+        "エピソード",
+        "音楽",
+        "本"
+      ],
+      "correctAnswer": "エピソード",
+      "explanation": "「episode」は、「エピソード」「挿話」「一話」という意味の名詞です。テレビドラマやラジオ番組など、連続して放送される番組の個々の回を指します。また、人生における出来事や経験を指すこともあります。\n\n例：I missed the last episode of my favorite TV show. (お気に入りのテレビ番組の最新エピソードを見逃した。)"
+    },
+    {
+      "id": 25,
+      "value": "credits sequence",
+      "options": [
+        "オープニング",
+        "クレジット",
+        "宣伝",
+        "コマーシャル"
+      ],
+      "correctAnswer": "クレジット",
+      "explanation": "「credits sequence」は、映画やテレビ番組の最後に表示される「クレジット」のことです。作品に関わった人々の名前や役割などが記載されます。オープニングで表示される場合は「opening credits」と呼ばれます。\n\n例：I always watch the credits sequence to see who was involved in making the film. (私はいつも映画のクレジットを見て、誰が映画制作に関わっていたかを確認します。)"
+    },
+    {
+      "id": 26,
+      "value": "couldn't be bothered",
+      "options": [
+        "気にしなかった",
+        "邪魔されたくなかった",
+        "理解できなかった",
+        "同意できなかった"
+      ],
+      "correctAnswer": "気にしなかった",
+      "explanation": "「couldn't be bothered」は、何かをするのが面倒くさい、気が進まないという意味を表す口語的な表現です。努力や時間を費やす価値がないと感じているニュアンスが含まれます。\n\n例：I couldn't be bothered to cook tonight, so I ordered pizza. (今夜は料理するのが面倒くさかったから、ピザを注文した。)"
+    },
+    {
+      "id": 27,
+      "value": "confession",
+      "options": [
+        "告白",
+        "非難",
+        "確認",
+        "暴露"
+      ],
+      "correctAnswer": "告白",
+      "explanation": "「confession」は、秘密や罪などを打ち明けること、告白を意味します。通常、何かを隠していた人が、真実を明らかにする際に用いられます。\n\n例：He made a confession to the police about the crime. (彼は犯罪について警察に自白した。)"
+    },
+    {
+      "id": 28,
+      "value": "embarrassed",
+      "options": [
+        "恥ずかしい",
+        "怒っている",
+        "悲しい",
+        "興奮している"
+      ],
+      "correctAnswer": "恥ずかしい",
+      "explanation": "「embarrassed」は、恥ずかしい、きまりが悪いという意味です。自分の行動や状況が不適切であると感じ、自信を失っている状態を表します。\n\n例：She felt embarrassed when she tripped and fell in front of everyone. (彼女はみんなの前でつまずいて転んだとき、恥ずかしいと感じた。)"
+    },
+    {
+      "id": 29,
+      "value": "dirty store",
+      "options": [
+        "雑貨屋",
+        "アダルトショップ",
+        "食料品店",
+        "おもちゃ屋"
+      ],
+      "correctAnswer": "アダルトショップ",
+      "explanation": "「dirty store」は、婉曲的な表現で、アダルトグッズや性的な商品を取り扱う店を指します。直接的な表現を避けるために用いられることがあります。"
+    },
+    {
+      "id": 30,
+      "value": "two blocks away",
+      "options": [
+        "2軒隣",
+        "2区画先",
+        "2歩先",
+        "2階"
+      ],
+      "correctAnswer": "2区画先",
+      "explanation": "「two blocks away」は、2区画離れた場所という意味です。block は都市における区画を表し、建物や道路で囲まれたエリアを指します。\n\n例：The park is just two blocks away from my house. (公園は私の家からほんの2区画先です。)"
+    },
+    {
+      "id": 31,
+      "value": "get on",
+      "options": [
+        "着る",
+        "乗る",
+        "続ける",
+        "始める"
+      ],
+      "correctAnswer": "始める",
+      "explanation": "この文脈では「get on」は（ここではget on this big canvas）「（キャンバスに）取り組む」「（キャンバスで何かを）始める」という意味で使われています。通常は乗り物に乗るという意味で使われますが、文脈によって意味が変わります。\n\n例：Let's get on with the meeting. (会議を始めましょう。)"
+    },
+    {
+      "id": 32,
+      "value": "a big step",
+      "options": [
+        "大きな一歩",
+        "小さな一歩",
+        "無駄な努力",
+        "後退"
+      ],
+      "correctAnswer": "大きな一歩",
+      "explanation": "「a big step」は、大きな進歩や変化、重要な決断を意味します。特に、これまでとは異なる新しい段階に進む際に用いられます。\n\n例：Moving to a new city was a big step for her career. (新しい都市への引っ越しは、彼女のキャリアにとって大きな一歩だった。)"
+    },
+    {
+      "id": 33,
+      "value": "make fun of",
+      "options": [
+        "応援する",
+        "からかう",
+        "尊敬する",
+        "無視する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「make fun of」は、誰かをからかう、嘲笑するという意味です。相手の欠点や失敗などを面白おかしく言うことで、相手を不快にさせることがあります。\n\n例：The other children made fun of him because of his stutter. (他の子供たちは彼が吃音だからからかった。)"
+    },
+    {
+      "id": 34,
+      "value": "a drive",
+      "options": [
+        "運転",
+        "ドライブ",
+        "散歩",
+        "旅行"
+      ],
+      "correctAnswer": "ドライブ",
+      "explanation": "ここでは「a drive」は、車での移動、特に少し遠出のドライブを意味します。距離が遠いことを示唆する際に使われます。\n\n例：It's a long drive to get there. (そこに着くまでには長いドライブになる。)"
+    },
+    {
+      "id": 35,
+      "value": "write off",
+      "options": [
+        "書き留める",
+        "償却する",
+        "無視する",
+        "捨てる"
+      ],
+      "correctAnswer": "償却する",
+      "explanation": "「write off」は、税務上の経費として計上し、課税対象となる所得を減らすことを意味します。ビジネス関連の支出を税金申告で控除する際に使われます。\n\n例：You can write off the cost of your home office. (自宅のオフィス費用を償却できます。)"
+    },
+    {
+      "id": 36,
+      "value": "audited",
+      "options": [
+        "調査される",
+        "褒められる",
+        "訴えられる",
+        "助けられる"
+      ],
+      "correctAnswer": "調査される",
+      "explanation": "「audit」は、会計検査、監査を意味します。税務署などが企業の財務記録を調査し、正確かどうかを確認する際に用いられます。ここでは受身形で使われています。\n\n例：The company was audited by an independent accounting firm. (その会社は独立した会計事務所によって監査された。)"
+    },
+    {
+      "id": 37,
+      "value": "hanging out",
+      "options": [
+        "ぶらぶらする",
+        "手伝う",
+        "調べる",
+        "隠れる"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、特に目的もなく、リラックスして時間を過ごすことを意味します。友達と遊んだり、家でくつろいだりする状況でよく使われます。\n\n例：We're just hanging out at my place tonight. (今夜は私の家でただぶらぶらしているだけだよ。)"
+    },
+    {
+      "id": 38,
+      "value": "filled up on",
+      "options": [
+        "満腹になった",
+        "探した",
+        "こぼした",
+        "我慢した"
+      ],
+      "correctAnswer": "満腹になった",
+      "explanation": "「fill up on」は、（特定の食べ物や飲み物で）お腹いっぱいになる、満腹になるという意味です。特定のものをたくさん食べたことを強調する際に用いられます。\n\n例：I filled up on popcorn at the movies. (映画館でポップコーンでお腹いっぱいになった。)"
+    },
+    {
+      "id": 39,
+      "value": "snooping",
+      "options": [
+        "昼寝",
+        "詮索",
+        "料理",
+        "掃除"
+      ],
+      "correctAnswer": "詮索",
+      "explanation": "「snoop」は、こっそり詮索する、覗き見するという意味です。他人の私的な情報や物を、許可なく探る行為を指します。snooping through drawersで「引き出しを詮索する」となります。\n\n例：She caught him snooping through her emails. (彼女は彼が自分のメールを詮索しているのを見つけた。)"
+    },
+    {
+      "id": 40,
+      "value": "calm down",
+      "options": [
+        "落ち着く",
+        "興奮する",
+        "泣く",
+        "怒る"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「calm down」は、落ち着く、冷静になるという意味です。感情が高ぶっている人に対して、落ち着くように促す際に用いられます。\n\n例：Just calm down and tell me what happened. (落ち着いて、何が起こったのか教えて。)"
+    },
+    {
+      "id": 41,
+      "value": "gonna",
+      "options": [
+        "行った",
+        "～するつもり",
+        "～だった",
+        "～すべき"
+      ],
+      "correctAnswer": "～するつもり",
+      "explanation": "「gonna」は、「going to」の口語的な短縮形で、未来の予定や意図を表します。日常会話で非常によく使われる表現です。\n\n例：I'm gonna go to the store later. (後で店に行くつもりだ。)"
+    },
+    {
+      "id": 42,
+      "value": "out of breath",
+      "options": [
+        "息切れして",
+        "落ち着いて",
+        "準備万端で",
+        "退屈して"
+      ],
+      "correctAnswer": "息切れして",
+      "explanation": "「out of breath」は、息切れしている、息が上がっている状態を表します。運動後や急いで走った後などに使われます。\n\n例：I was out of breath after climbing the stairs. (階段を上った後、息切れしていた。)"
+    },
+    {
+      "id": 43,
+      "value": "sad",
+      "options": [
+        "悲しい",
+        "嬉しい",
+        "怒っている",
+        "楽しい"
+      ],
+      "correctAnswer": "悲しい",
+      "explanation": "ここでは「sad」は、元気がない、活気がない状態を表しています。期待していた結果が得られず、落胆している様子を表現する際に用いられます。\n\n例：The party was a sad affair. (そのパーティーは盛り上がりに欠けていた。)"
+    },
+    {
+      "id": 44,
+      "value": "do better",
+      "options": [
+        "もっと頑張る",
+        "諦める",
+        "忘れる",
+        "休む"
+      ],
+      "correctAnswer": "もっと頑張る",
+      "explanation": "「do better」は、もっと良い結果を出す、もっと上手にやるという意味です。現状に満足せず、改善を目指す際に使われます。\n\n例：I know I can do better on the next exam. (次の試験ではもっと良い点を取れると信じている。)"
+    },
+    {
+      "id": 45,
+      "value": "stay up late",
+      "options": [
+        "夜更かしする",
+        "早起きする",
+        "昼寝する",
+        "徹夜する"
+      ],
+      "correctAnswer": "夜更かしする",
+      "explanation": "「stay up late」は、遅くまで起きている、夜更かしするという意味です。通常の就寝時間よりも遅くまで起きている状態を指します。\n\n例：We stayed up late watching a movie. (私たちは映画を見て夜更かしした。)"
+    },
+    {
+      "id": 46,
+      "value": "to establish",
+      "options": [
+        "設立する",
+        "破壊する",
+        "遅らせる",
+        "忘れる"
+      ],
+      "correctAnswer": "設立する",
+      "explanation": "「establish」は、設立する、確立するという意味です。組織やシステム、関係などを新たに作り上げる際に用いられます。\n\n例：The company was established in 1990. (その会社は1990年に設立された。)"
+    },
+    {
+      "id": 47,
+      "value": "among",
+      "options": [
+        "～の中に",
+        "～の上に",
+        "～の下に",
+        "～の隣に"
+      ],
+      "correctAnswer": "～の中に",
+      "explanation": "「among」は、3つ以上のものの中に位置することを示します。集団やグループの一員であることを表す際に用いられます。\n\n例：She was among the first to arrive. (彼女は最初に到着した人たちの中にいた。)"
+    },
+    {
+      "id": 48,
+      "value": "reaction",
+      "options": [
+        "反応",
+        "行動",
+        "思考",
+        "感情"
+      ],
+      "correctAnswer": "反応",
+      "explanation": "「reaction」は、何らかの刺激に対する反応、反作用という意味です。出来事や言動に対する感情的な反応や行動を指します。\n\n例：What was her reaction when you told her the news? (そのニュースを彼女に伝えたとき、彼女の反応はどうでしたか？)"
+    },
+    {
+      "id": 49,
+      "value": "receipts",
+      "options": [
+        "レシピ",
+        "領収書",
+        "レセプト",
+        "秘密"
+      ],
+      "correctAnswer": "領収書",
+      "explanation": "「receipt」は、領収書、受領書という意味です。商品やサービスの購入を証明する書類を指します。会計処理や経費精算に必要となります。\n\n例：Please keep your receipts for tax purposes. (税務上の目的で領収書を保管してください。)"
+    },
+    {
+      "id": 50,
+      "value": "confident",
+      "options": [
+        "自信がある",
+        "不安がある",
+        "怒っている",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "自信がある",
+      "explanation": "「confident」は、自信がある、確信しているという意味です。自分の能力や判断を信じている状態を表します。\n\n例：She is confident that she will pass the exam. (彼女は試験に合格すると確信している。)"
+    },
+    {
+      "id": 51,
+      "value": "damn straight",
+      "options": [
+        "もちろん",
+        "たぶんね",
+        "まさかね",
+        "ありえない"
+      ],
+      "correctAnswer": "もちろん",
+      "explanation": "「damn straight」は、同意や肯定を強調する非常に強い口語表現です。「その通りだ」「もちろん」といった意味合いで、強い確信や同意を表します。フォーマルな場では不適切です。"
+    },
+    {
+      "id": 52,
+      "value": "poke",
+      "options": [
+        "突く",
+        "なでる",
+        "持ち上げる",
+        "抱きしめる"
+      ],
+      "correctAnswer": "突く",
+      "explanation": "「poke」は、指や尖ったもので軽く突く、つつくという意味です。ここでは、亀の顔を指でつつく行為を指しています。軽いいたずらや注意を引くために使われることが多いです。"
+    },
+    {
+      "id": 53,
+      "value": "tear a hole",
+      "options": [
+        "穴を埋める",
+        "穴を掘る",
+        "穴を開ける",
+        "穴をふさぐ"
+      ],
+      "correctAnswer": "穴を開ける",
+      "explanation": "「tear a hole」は、文字通りには「穴を裂く」という意味ですが、ここでは比喩的に「（精神的に）傷つける」という意味で使われています。相手の感情を害する、心を痛める、という意味合いを含みます。"
+    },
+    {
+      "id": 54,
+      "value": "odds",
+      "options": [
+        "奇数",
+        "確率",
+        "運命",
+        "機会"
+      ],
+      "correctAnswer": "確率",
+      "explanation": "「odds」は、何かが起こる確率や可能性を意味します。特に、成功の可能性が低い場合に使われることが多いです。例えば、「the odds are against us」は「我々に不利な状況だ」という意味になります。"
+    },
+    {
+      "id": 55,
+      "value": "volunteer for",
+      "options": [
+        "ボランティアを募集する",
+        "ボランティアを辞退する",
+        "ボランティアに参加する",
+        "ボランティアを組織する"
+      ],
+      "correctAnswer": "ボランティアに参加する",
+      "explanation": "「volunteer for」は、自発的に～に参加する、～を買って出るという意味です。ここでは、火星へのミッションに自ら志願することを指しています。"
+    },
+    {
+      "id": 56,
+      "value": "mention",
+      "options": [
+        "言及する",
+        "無視する",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "言及する",
+      "explanation": "「mention」は、軽く言及する、話に出すという意味です。ここでは、火星に行く前にそのことを話すべきだった、というニュアンスで使われています。"
+    },
+    {
+      "id": 57,
+      "value": "interplanetary",
+      "options": [
+        "惑星間の",
+        "銀河系の",
+        "地球の",
+        "月面の"
+      ],
+      "correctAnswer": "惑星間の",
+      "explanation": "「interplanetary」は、惑星間の、惑星と惑星の間のという意味です。inter-は「～間の」という意味の接頭辞です。"
+    },
+    {
+      "id": 58,
+      "value": "cheer up",
+      "options": [
+        "元気づける",
+        "落胆させる",
+        "無視する",
+        "怒らせる"
+      ],
+      "correctAnswer": "元気づける",
+      "explanation": "「cheer up」は、元気付ける、励ますという意味です。相手の気分を良くするために使われる表現です。"
+    },
+    {
+      "id": 59,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "電話に出る",
+        "保留する",
+        "頑張る"
+      ],
+      "correctAnswer": "保留する",
+      "explanation": "「hang on」は、電話で「ちょっと待って」という意味で使われます。また、「頑張って」という意味もあります。ここでは、状況を確認するために「ちょっと待って」と言っています。"
+    },
+    {
+      "id": 60,
+      "value": "glue it back on",
+      "options": [
+        "元に戻す",
+        "破壊する",
+        "無視する",
+        "新しく作る"
+      ],
+      "correctAnswer": "元に戻す",
+      "explanation": "「glue it back on」は、壊れたものを接着剤で元に戻すという意味です。ここでは、家具が壊れたので、それを修理する必要がある状況を指しています。"
+    },
+    {
+      "id": 61,
+      "value": "snooping",
+      "options": [
+        "昼寝",
+        "詮索",
+        "食事",
+        "散歩"
+      ],
+      "correctAnswer": "詮索",
+      "explanation": "「snooping」は、こっそり詮索する、嗅ぎ回るという意味です。他人のプライベートな情報を探るような行為を指します。"
+    },
+    {
+      "id": 62,
+      "value": "red zinger",
+      "options": [
+        "赤い歌手",
+        "赤い紅茶",
+        "赤い閃光",
+        "赤い惑星"
+      ],
+      "correctAnswer": "赤い紅茶",
+      "explanation": "「Red Zinger」はCelestial Seasonings社が販売しているハイビスカスティーの商品名です。赤色のハーブティーなので、Mars is the red planetとかけています。"
+    },
+    {
+      "id": 63,
+      "value": "exceedingly",
+      "options": [
+        "非常に",
+        "普通に",
+        "全く",
+        "少し"
+      ],
+      "correctAnswer": "非常に",
+      "explanation": "「exceedingly」は、非常に、極めてという意味です。ここでは、シェルドンが自分が非常に賢いことを強調するために使っています。"
+    },
+    {
+      "id": 64,
+      "value": "STD",
+      "options": [
+        "標準的なテスト",
+        "性感染症",
+        "科学技術",
+        "特別な日"
+      ],
+      "correctAnswer": "性感染症",
+      "explanation": "「STD」は、Sexually Transmitted Diseaseの略で、性感染症のことです。シェルドンは、兄がSTDにかかっていた頃、自分はPhD（博士号）を取っていたと述べて、自分の知性を際立たせています。"
+    },
+    {
+      "id": 65,
+      "value": "impeccable",
+      "options": [
+        "完璧な",
+        "不完全な",
+        "普通の",
+        "汚い"
+      ],
+      "correctAnswer": "完璧な",
+      "explanation": "「impeccable」は、非の打ちどころがない、完璧なという意味です。ここでは、シェルドンが自分の衛生観念が完璧であることをアピールしています。"
+    },
+    {
+      "id": 66,
+      "value": "keep up morale",
+      "options": [
+        "士気を維持する",
+        "士気を低下させる",
+        "士気を無視する",
+        "士気を隠す"
+      ],
+      "correctAnswer": "士気を維持する",
+      "explanation": "「keep up morale」は、士気を維持する、意気込みを高めるという意味です。ここでは、シェルドンが宇宙旅行中に自分のユーモアで乗組員の士気を保てると主張しています。"
+    },
+    {
+      "id": 67,
+      "value": "peanut brittle",
+      "options": [
+        "ピーナッツバター",
+        "ピーナッツ菓子",
+        "ピーナッツオイル",
+        "ピーナッツスープ"
+      ],
+      "correctAnswer": "ピーナッツ菓子",
+      "explanation": "「peanut brittle」は、ピーナッツを砕いて砂糖やバターで固めたお菓子です。アメリカでは一般的なお菓子です。"
+    },
+    {
+      "id": 68,
+      "value": "boundaries of human knowledge",
+      "options": [
+        "人間の知識の限界",
+        "人間の知識の始まり",
+        "人間の知識の深さ",
+        "人間の知識の広さ"
+      ],
+      "correctAnswer": "人間の知識の限界",
+      "explanation": "「boundaries of human knowledge」は、人間の知識の限界、最先端という意味です。シェルドンは、科学者として知識の限界を押し広げることが自分の義務だと考えています。"
+    },
+    {
+      "id": 69,
+      "value": "no picnic",
+      "options": [
+        "簡単なこと",
+        "難しいこと",
+        "楽しいピクニック",
+        "退屈なピクニック"
+      ],
+      "correctAnswer": "簡単なこと",
+      "explanation": "「no picnic」は、決して楽なことではない、苦労を伴うという意味のイディオムです。ここでは、地球での生活も楽ではないと述べて、火星に行くことの困難さを和らげています。"
+    },
+    {
+      "id": 70,
+      "value": "journey of a lifetime",
+      "options": [
+        "一生に一度の旅",
+        "短い旅",
+        "退屈な旅",
+        "危険な旅"
+      ],
+      "correctAnswer": "一生に一度の旅",
+      "explanation": "「journey of a lifetime」は、一生に一度の旅、またとない機会という意味です。ここでは、火星への旅がそれほど特別なものであることを強調しています。"
+    },
+    {
+      "id": 71,
+      "value": "goggles",
+      "options": [
+        "メガネ",
+        "ゴーグル",
+        "コンタクト",
+        "サングラス"
+      ],
+      "correctAnswer": "ゴーグル",
+      "explanation": "「goggles」は、目を保護するためのゴーグルのことです。ここでは、ペンキが目に入るのを防ぐためにゴーグルを着用したかったレナードの状況を表しています。"
+    },
+    {
+      "id": 72,
+      "value": "dowels",
+      "options": [
+        "ダボ",
+        "釘",
+        "ハンマー",
+        "ネジ"
+      ],
+      "correctAnswer": "ダボ",
+      "explanation": "「dowels」は、木材などを接合するときに使う、円筒形の木製の棒のことです。家具の組み立てによく使われます。"
+    },
+    {
+      "id": 73,
+      "value": "get for",
+      "options": [
+        "もらう",
+        "得る",
+        "与える",
+        "罰する"
+      ],
+      "correctAnswer": "罰する",
+      "explanation": "「get for」は、この文脈では「～に対する当然の報いを受ける」という意味です。Raj が何かをこっそり見ていたことに対する非難として使われています。"
+    },
+    {
+      "id": 74,
+      "value": "keep up",
+      "options": [
+        "維持する",
+        "落とす",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "維持する",
+      "explanation": "「keep up」は、ここでは「（冗談やからかいに）ついていく、同じレベルを保つ」という意味合いで使われています。シェルドンのユーモアについていける、という意味です。"
+    },
+    {
+      "id": 75,
+      "value": "filling out",
+      "options": [
+        "記入する",
+        "破棄する",
+        "提出する",
+        "忘れる"
+      ],
+      "correctAnswer": "記入する",
+      "explanation": "「filling out」は、書類や申請書などに必要事項を記入するという意味です。ここでは、火星移住の申請書に記入するという意味で使用されています。"
+    },
+    {
+      "id": 76,
+      "value": "snoop on",
+      "options": [
+        "秘密を探る",
+        "無視する",
+        "手伝う",
+        "感謝する"
+      ],
+      "correctAnswer": "秘密を探る",
+      "explanation": "「snoop on」は、許可なく他人の私的な事柄を詮索したり、覗き見たりすることを意味します。通常、非難や否定的な意味合いで使用されます。プライバシーの侵害を伴う行為を指すことが多いです。\n\n例：I caught him snooping on my emails. (彼が私のメールを覗き見ているのを見つけた。)"
+    },
+    {
+      "id": 77,
+      "value": "hang up",
+      "options": [
+        "電話を切る",
+        "電話に出る",
+        "電話を保留にする",
+        "電話をかける"
+      ],
+      "correctAnswer": "電話を切る",
+      "explanation": "「hang up」は電話を切るという意味の句動詞です。文字通りには「（受話器を）掛ける」という意味ですが、会話を終える行為を指します。転じて、議論や活動を中断するという意味でも使われます。\n\n例：She got angry and hung up on me. (彼女は怒って私に電話を切った。)"
+    },
+    {
+      "id": 78,
+      "value": "not a chance",
+      "options": [
+        "機会がない",
+        "ありえない",
+        "偶然ではない",
+        "良い機会だ"
+      ],
+      "correctAnswer": "ありえない",
+      "explanation": "「Not a chance」は「絶対にない」「ありえない」という意味の口語表現です。強い否定を表し、可能性が全くないことを強調します。しばしば反語的な意味合いで使用され、ユーモラスな状況で用いられることもあります。\n\n例：'Can you lend me some money?' 'Not a chance!' (「お金を貸してくれない？」「絶対に嫌だ！」)"
+    },
+    {
+      "id": 79,
+      "value": "fraud",
+      "options": [
+        "詐欺",
+        "正直",
+        "才能",
+        "幸運"
+      ],
+      "correctAnswer": "詐欺",
+      "explanation": "「fraud」は、不正行為、詐欺、欺瞞という意味の名詞です。特に金銭や利益を得るために意図的に他人を騙す行為を指します。法律用語としてもよく用いられます。\n\n例：He was arrested for tax fraud. (彼は税金詐欺で逮捕された。)"
+    },
+    {
+      "id": 80,
+      "value": "on fire",
+      "options": [
+        "燃えている",
+        "絶好調",
+        "消火中",
+        "炎上中"
+      ],
+      "correctAnswer": "絶好調",
+      "explanation": "「on fire」は、文字通りには「燃えている」という意味ですが、比喩的には「絶好調である」「非常にうまくいっている」という意味で使われます。特にスポーツやパフォーマンスの分野で、最高の状態を発揮している様子を指します。\n\n例：The team was really on fire last night and won the game easily. (昨夜、チームは本当に絶好調で、簡単に試合に勝った。)"
+    },
+    {
+      "id": 81,
+      "value": "in the zone",
+      "options": [
+        "集中している",
+        "迷子になっている",
+        "休憩中",
+        "混乱している"
+      ],
+      "correctAnswer": "集中している",
+      "explanation": "「in the zone」は、非常に集中した状態、特にスポーツや芸術などのパフォーマンスにおいて最高の状態を発揮している状態を指します。「フロー状態」とも呼ばれ、周囲の状況を忘れ、完全にその活動に没頭している状態を表します。\n\n例：When she's playing the piano, she's really in the zone. (彼女はピアノを弾いているとき、本当に集中している。)"
+    },
+    {
+      "id": 82,
+      "value": "a shame",
+      "options": [
+        "残念",
+        "名誉",
+        "冗談",
+        "喜び"
+      ],
+      "correctAnswer": "残念",
+      "explanation": "「a shame」は「残念なこと」「惜しいこと」という意味を表します。期待されたり望ましかったりする結果が得られなかったときに使われます。軽い後悔や失望の感情を伴うことが多いです。\n\n例：It's a shame that you can't come to the party. (あなたがパーティーに来られないのは残念だ。)"
+    },
+    {
+      "id": 83,
+      "value": "slow news day",
+      "options": [
+        "ニュースがない日",
+        "退屈な日",
+        "忙しい日",
+        "お祝いの日"
+      ],
+      "correctAnswer": "退屈な日",
+      "explanation": "「slow news day」は、重要なニュースがほとんどない、または何も起こらない退屈な日を指します。報道機関が注目を集めるために些細なニュースを報道することがあります。\n\n例：It was such a slow news day that they ran a story about a cat stuck in a tree. (とてもニュースがない日だったので、彼らは木に引っかかった猫の話を報道した。)"
+    },
+    {
+      "id": 84,
+      "value": "a great deal",
+      "options": [
+        "少し",
+        "たくさん",
+        "重要ではない",
+        "全くない"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "「a great deal」は「非常にたくさん」「多量」という意味を表します。数えられない名詞を修飾する際に用いられ、数量の多さを強調します。\n\n例：This project took a great deal of time and effort. (このプロジェクトは非常に多くの時間と労力を要した。)"
+    },
+    {
+      "id": 85,
+      "value": "long-distance thing",
+      "options": [
+        "長距離恋愛",
+        "短い旅行",
+        "過去の出来事",
+        "将来の計画"
+      ],
+      "correctAnswer": "長距離恋愛",
+      "explanation": "「long-distance thing」は、物理的に離れた場所にいる二人の間の関係、特に恋愛関係を指します。長距離恋愛は、会う頻度が少ないため、維持が難しいとされることが多いです。\n\n例：They're trying to make the long-distance thing work, even though it's hard. (彼らは長距離恋愛をうまく行かせようと努力しているが、それは難しい。)"
+    },
+    {
+      "id": 86,
+      "value": "barren",
+      "options": [
+        "不毛な",
+        "肥沃な",
+        "賑やかな",
+        "美しい"
+      ],
+      "correctAnswer": "不毛な",
+      "explanation": "「barren」は、土地が不毛で植物が育たない状態を指します。比喩的には、創造性や生産性がない状態、または感情が乏しい状態を表すこともあります。\n\n例：The landscape was barren and desolate. (その風景は不毛で荒涼としていた。)"
+    },
+    {
+      "id": 87,
+      "value": "slim to none",
+      "options": [
+        "ほとんどない",
+        "たくさんある",
+        "普通",
+        "不明"
+      ],
+      "correctAnswer": "ほとんどない",
+      "explanation": "「slim to none」は、「ほとんどない」「皆無に近い」という意味のイディオムです。可能性や見込みが非常に低い状況を強調する際に用いられます。\n\n例：The chances of winning the lottery are slim to none. (宝くじに当たる確率はほとんどない。)"
+    },
+    {
+      "id": 88,
+      "value": "procreate",
+      "options": [
+        "子孫を残す",
+        "破壊する",
+        "創造する",
+        "食べる"
+      ],
+      "correctAnswer": "子孫を残す",
+      "explanation": "「procreate」は、子孫を残す、繁殖するという意味の動詞です。生物学的な文脈でよく使用され、子供を産む行為を指します。\n\n例：Animals procreate to ensure the survival of their species. (動物は種を存続させるために繁殖する。)"
+    },
+    {
+      "id": 89,
+      "value": "space pants",
+      "options": [
+        "宇宙服",
+        "非常に興奮している状態",
+        "特別なズボン",
+        "未来の服"
+      ],
+      "correctAnswer": "非常に興奮している状態",
+      "explanation": "「space pants」は、ここでは婉曲表現として使われており、性的な興奮や欲求をユーモラスに表現しています。相手の感情をからかうニュアンスが含まれています。\n\n例：You just can’t keep it in your space pants, can you?（あなたは興奮を抑えられないんだね。）"
+    },
+    {
+      "id": 90,
+      "value": "bound to",
+      "options": [
+        "必ず〜する",
+        "〜しない",
+        "〜できない",
+        "〜する必要がない"
+      ],
+      "correctAnswer": "必ず〜する",
+      "explanation": "「be bound to」は、「必ず～する」「～するはずである」という意味の表現です。何かが必然的に起こる、または確実な未来の出来事を指す際に用いられます。\n\n例：It's bound to rain later. (後で必ず雨が降るだろう。)"
+    },
+    {
+      "id": 91,
+      "value": "doughy",
+      "options": [
+        "ふっくらとした",
+        "ぱりっとした",
+        "焦げた",
+        "硬い"
+      ],
+      "correctAnswer": "ふっくらとした",
+      "explanation": "「doughy」は、パンや生地が十分に焼けていない、または生のままである状態を指します。食感としては、柔らかく、弾力がないことを意味します。比喩的には、弱々しい、または体力がない人を指すこともあります。\n\n例文：The bread was still doughy in the middle. (パンはまだ真ん中が生焼けだった。)"
+    },
+    {
+      "id": 92,
+      "value": "crust",
+      "options": [
+        "皮",
+        "中身",
+        "ソース",
+        "トッピング"
+      ],
+      "correctAnswer": "皮",
+      "explanation": "「crust」は、パン、パイ、ピザなどの外側の硬い部分を指します。料理の構造を支え、風味や食感に重要な役割を果たします。また、地球の地殻を指す場合もあります。\n\n例文：She always eats the filling and leaves the crust. (彼女はいつも中身を食べて、皮を残す。)"
+    },
+    {
+      "id": 93,
+      "value": "At some point",
+      "options": [
+        "いつか",
+        "いつも",
+        "決してない",
+        "絶対にない"
+      ],
+      "correctAnswer": "いつか",
+      "explanation": "「At some point」は、特定の時期は不明だが、将来のある時点で何かが起こることを意味します。あいまいな将来の時点を指すため、不確実性や可能性を含んでいます。\n\n例文：At some point, I'd like to travel to Japan. (いつか日本へ旅行に行きたい。)"
+    },
+    {
+      "id": 94,
+      "value": "curious",
+      "options": [
+        "好奇心旺盛な",
+        "退屈な",
+        "悲しい",
+        "怒っている"
+      ],
+      "correctAnswer": "好奇心旺盛な",
+      "explanation": "「curious」は、知識や情報を得たいという強い欲求を持っている状態を指します。新しいことや未知のことに対して興味を持ち、探求しようとする性質を表します。\n\n例文：The child was curious about everything around him. (その子供は身の回りのあらゆることに好奇心旺盛だった。)"
+    },
+    {
+      "id": 95,
+      "value": "night stand",
+      "options": [
+        "ナイトテーブル",
+        "舞台",
+        "星空",
+        "海岸"
+      ],
+      "correctAnswer": "ナイトテーブル",
+      "explanation": "「night stand」は、ベッドの横に置かれる小さなテーブルのことです。ランプ、本、目覚まし時計など、寝る前に必要なものを置くために使用されます。ベッドサイドテーブルとも呼ばれます。\n\n例文：She placed her glasses on the night stand before going to sleep. (彼女は寝る前に眼鏡をナイトテーブルに置いた。)"
+    },
+    {
+      "id": 96,
+      "value": "drawer",
+      "options": [
+        "引き出し",
+        "ドア",
+        "窓",
+        "壁"
+      ],
+      "correctAnswer": "引き出し",
+      "explanation": "「drawer」は、家具の一部で、物を収納するために引き出したり押し込んだりできる箱状の構造です。衣類、書類、道具など、様々な物を整理して保管するために使用されます。\n\n例文：He kept his socks in the top drawer. (彼は靴下を一番上の引き出しに入れていた。)"
+    },
+    {
+      "id": 97,
+      "value": "trust",
+      "options": [
+        "信頼",
+        "疑い",
+        "嘘",
+        "秘密"
+      ],
+      "correctAnswer": "信頼",
+      "explanation": "「trust」は、人や物の誠実さ、能力、強さなどに対する確信や信用を意味します。人間関係において、相互の信頼は非常に重要な要素です。\n\n例文：It's important to have trust in your friends and family. (友人や家族を信頼することは重要だ。)"
+    },
+    {
+      "id": 98,
+      "value": "application",
+      "options": [
+        "応募書類",
+        "取り消し",
+        "質問",
+        "答え"
+      ],
+      "correctAnswer": "応募書類",
+      "explanation": "「application」は、仕事、学校、クラブなど、特定の目的のために公式に申し込む際に使用する書類やプロセスのことです。通常、個人情報、資格、経験などが記載されます。\n\n例文：She submitted her application for the job yesterday. (彼女は昨日、その仕事の応募書類を提出した。)"
+    },
+    {
+      "id": 99,
+      "value": "good lord",
+      "options": [
+        "なんてことだ",
+        "素晴らしい",
+        "退屈だ",
+        "興味がない"
+      ],
+      "correctAnswer": "なんてことだ",
+      "explanation": "「Good lord」は、驚き、不信感、または困惑を表す感嘆詞です。宗教的な意味合いを持つ場合もありますが、一般的には口語的な表現として使用されます。\n\n例文：Good lord, what was that noise? (なんてことだ、何の音だ？)"
+    },
+    {
+      "id": 100,
+      "value": "forgive",
+      "options": [
+        "許す",
+        "責める",
+        "忘れる",
+        "感謝する"
+      ],
+      "correctAnswer": "許す",
+      "explanation": "「forgive」は、他人の過ちや行為に対する怒りや恨みを捨てることを意味します。許すことは、関係の修復や心の平和につながることがあります。\n\n例文：I hope you can forgive me for what I said. (私が言ったことを許してくれると嬉しい。)"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "convert your footsteps into electromagnetic energy",
+      "options": [
+        "足音を運動エネルギーに変換する",
+        "足音を電磁エネルギーに変換する",
+        "足音を熱エネルギーに変換する",
+        "足音を光エネルギーに変換する"
+      ],
+      "correctAnswer": "足音を電磁エネルギーに変換する",
+      "explanation": "このフレーズは、足音（運動エネルギー）を電気エネルギーに変換するというアイデアを表しています。電磁エネルギーは、電場と磁場の相互作用によって生じるエネルギーの一形態で、様々な電子機器の動力源として利用できます。"
+    },
+    {
+      "id": 2,
+      "value": "ghost town",
+      "options": [
+        "賑やかな場所",
+        "活気のある場所",
+        "寂れた場所",
+        "美しい場所"
+      ],
+      "correctAnswer": "寂れた場所",
+      "explanation": "「ghost town」は、比喩的に「人がいなくなった場所」「機能しなくなった場所」を意味します。ここでは、レナードの脳がペニーに気を取られて機能不全に陥った状態を指しています。"
+    },
+    {
+      "id": 3,
+      "value": "commemorating the anniversary",
+      "options": [
+        "お祝いをする",
+        "記念日を祝う",
+        "非難する",
+        "忘れる"
+      ],
+      "correctAnswer": "記念日を祝う",
+      "explanation": "「commemorate」は、出来事や人物を記念し、敬意を表することを意味します。anniversaryと合わせて「記念日を祝う」という意味になります。ここでは、Dr. Seussの命日を記念する詩を作ったことを指しています。"
+    },
+    {
+      "id": 4,
+      "value": "owe me an apology",
+      "options": [
+        "謝罪を要求する",
+        "感謝する",
+        "許す",
+        "見逃す"
+      ],
+      "correctAnswer": "謝罪を要求する",
+      "explanation": "「owe someone an apology」は、「誰かに謝罪する義務がある」という意味です。ここでは、レナードが自分の業績について誤解されたと感じ、謝罪を求めている場面です。"
+    },
+    {
+      "id": 5,
+      "value": "distracted",
+      "options": [
+        "集中している",
+        "邪魔されている",
+        "喜んでいる",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "邪魔されている",
+      "explanation": "「distracted」は、何かに気を取られて集中できない状態を指します。ここでは、女性たちが現れてから集中力が散漫になっていることを認める発言です。"
+    },
+    {
+      "id": 6,
+      "value": "sexting",
+      "options": [
+        "手紙を書くこと",
+        "電話をすること",
+        "性的なメッセージを送ること",
+        "ゲームをすること"
+      ],
+      "correctAnswer": "性的なメッセージを送ること",
+      "explanation": "「sexting」は、性的な内容のメッセージや画像を電子的に送信することを指します。ここでは、エイミーとの頻繁なメッセージのやり取りを指して使われています。"
+    },
+    {
+      "id": 7,
+      "value": "brainstorm ideas",
+      "options": [
+        "アイデアを批判する",
+        "アイデアを出し合う",
+        "アイデアを無視する",
+        "アイデアを秘密にする"
+      ],
+      "correctAnswer": "アイデアを出し合う",
+      "explanation": "「brainstorm」は、集団で自由に意見やアイデアを出し合うことを意味します。ここでは、科学的なアイデアを出し合うことを提案しています。"
+    },
+    {
+      "id": 8,
+      "value": "retreat",
+      "options": [
+        "前進",
+        "後退、引きこもり",
+        "攻撃",
+        "会議"
+      ],
+      "correctAnswer": "後退、引きこもり",
+      "explanation": "retreatは、ここでは日常から離れて研究や活動に集中するための合宿、またはそのような場所を指します。科学的なアイデアを出し合うための合宿を提案しています。"
+    },
+    {
+      "id": 9,
+      "value": "Time traveling mailbox",
+      "options": [
+        "過去を変えることができる",
+        "手紙がすぐに届く",
+        "現実にはありえないこと",
+        "未来への手紙を送る"
+      ],
+      "correctAnswer": "現実にはありえないこと",
+      "explanation": "映画『The Lake House』に登場する設定で、時間差で手紙が届くという非現実的な設定を指しています。シェルドンはそれを嫌っていることを示唆しています。"
+    },
+    {
+      "id": 10,
+      "value": "down the toilet",
+      "options": [
+        "成功する",
+        "無駄になる",
+        "改善する",
+        "保存する"
+      ],
+      "correctAnswer": "無駄になる",
+      "explanation": "「down the toilet」は、時間や労力が無駄になる、台無しになるという意味の口語表現です。ここでは、映画を見た時間が無駄になったと感じていることを表しています。"
+    },
+    {
+      "id": 11,
+      "value": "brunch",
+      "options": [
+        "朝食",
+        "昼食",
+        "朝昼兼用",
+        "夕食"
+      ],
+      "correctAnswer": "朝昼兼用",
+      "explanation": "「brunch」は、朝食と昼食を兼ねた食事のことです。週末の遅い時間にゆっくりと食事をする習慣を指します。"
+    },
+    {
+      "id": 12,
+      "value": "You in?",
+      "options": [
+        "参加しますか？",
+        "反対ですか？",
+        "賛成ですか？",
+        "興味がありますか？"
+      ],
+      "correctAnswer": "参加しますか？",
+      "explanation": "「Are you in?」を短縮した口語表現で、「参加しますか？」「仲間に入りますか？」という意味です。カジュアルな誘いの際に使われます。"
+    },
+    {
+      "id": 13,
+      "value": "make it",
+      "options": [
+        "成功する",
+        "間に合う",
+        "理解する",
+        "解決する"
+      ],
+      "correctAnswer": "間に合う",
+      "explanation": "ここでは「間に合う」という意味で使用されています。特定の場所やイベントに時間通りに到着できるかどうかを尋ねる際に使われます。"
+    },
+    {
+      "id": 14,
+      "value": "lower the food down to her in the pit",
+      "options": [
+        "食べ物を隠す",
+        "食べ物を調理する",
+        "食べ物をあげる",
+        "食べ物を盗む"
+      ],
+      "correctAnswer": "食べ物をあげる",
+      "explanation": "比喩表現で、ラージの彼女であるエミリーが家に閉じこもっているかのように、食べ物を届けなければならない状況を面白おかしく表現しています。「the pit」は、閉じ込められている場所を指す比喩です。"
+    },
+    {
+      "id": 15,
+      "value": "one would assume",
+      "options": [
+        "誰もが知っている",
+        "当然そう思うだろう",
+        "誰も思わない",
+        "絶対にない"
+      ],
+      "correctAnswer": "当然そう思うだろう",
+      "explanation": "「one would assume」は、「誰もがそう思うだろう」「当然そう考えるだろう」という意味の表現です。一般的な推測や予想を示す際に使われます。"
+    },
+    {
+      "id": 16,
+      "value": "Thinking caps on",
+      "options": [
+        "帽子を被る",
+        "考える準備",
+        "休憩する",
+        "諦める"
+      ],
+      "correctAnswer": "考える準備",
+      "explanation": "「thinking cap」は、真剣に考えるときに被る架空の帽子のことです。「Thinking caps on」は、皆で真剣に考え始めるぞ、という合図として使われます。"
+    },
+    {
+      "id": 17,
+      "value": "Steady",
+      "options": [
+        "安定した",
+        "不安定な",
+        "激しい",
+        "冷たい"
+      ],
+      "correctAnswer": "安定した",
+      "explanation": "ここでは「交際が安定している」という意味合いです。ラージにガールフレンドがいる状態を指して使われています。"
+    },
+    {
+      "id": 18,
+      "value": "Focus",
+      "options": [
+        "集中",
+        "分散",
+        "混乱",
+        "退屈"
+      ],
+      "correctAnswer": "集中",
+      "explanation": "ここでは「集中する」という意味合いです。女の子たちがいないので集中して研究に励もうと呼びかけています。"
+    },
+    {
+      "id": 19,
+      "value": "innovating",
+      "options": [
+        "革新する",
+        "伝統を守る",
+        "破壊する",
+        "停滞する"
+      ],
+      "correctAnswer": "革新する",
+      "explanation": "「innovate」は、新しい方法やアイデアを取り入れて革新を起こすことを意味します。ここでは、科学的な革新を起こすことへの期待感を表現しています。"
+    },
+    {
+      "id": 20,
+      "value": "pursue",
+      "options": [
+        "追求する",
+        "避ける",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "追求する",
+      "explanation": "「pursue」は、目標や計画などを追い求める、実行することを意味します。ここでは、Pennyに会う前に考えていたアイデアを実行に移すことを指しています。"
+    },
+    {
+      "id": 21,
+      "value": "accomplishments",
+      "options": [
+        "失敗",
+        "成果",
+        "努力",
+        "計画"
+      ],
+      "correctAnswer": "成果",
+      "explanation": "「accomplishment」は、成し遂げたこと、業績、手柄という意味です。ここでは、Pennyと出会ってからのLeonardの業績について尋ねています。"
+    },
+    {
+      "id": 22,
+      "value": "dumped him",
+      "options": [
+        "彼を助けた",
+        "彼を捨てた",
+        "彼を愛した",
+        "彼を尊敬した"
+      ],
+      "correctAnswer": "彼を捨てた",
+      "explanation": "「dump」は、恋人を振る、関係を終わらせるという意味のスラングです。ここでは、PennyがLeonardを振った過去の出来事を指しています。"
+    },
+    {
+      "id": 23,
+      "value": "get together",
+      "options": [
+        "別れる",
+        "集まる",
+        "喧嘩する",
+        "無視する"
+      ],
+      "correctAnswer": "集まる",
+      "explanation": "「get together」は、親しい人たちが集まって何かをすることを意味します。ここでは、科学的なアイデアを出し合うために集まることを提案しています。"
+    },
+    {
+      "id": 24,
+      "value": "Hell, yeah.",
+      "options": [
+        "絶対に嫌だ",
+        "わからない",
+        "どうでもいい",
+        "もちろん、喜んで"
+      ],
+      "correctAnswer": "もちろん、喜んで",
+      "explanation": "「Hell, yeah.」は、非常に強い肯定や同意を表す口語表現です。ここでは、ベガスへの旅行に喜んで参加する気持ちを表しています。"
+    },
+    {
+      "id": 25,
+      "value": "We're innovating",
+      "options": [
+        "伝統を守っている",
+        "過去を振り返っている",
+        "新しいものを創造している",
+        "現状維持をしている"
+      ],
+      "correctAnswer": "新しいものを創造している",
+      "explanation": "「innovate」は革新するという意味で、ここでは科学的な分野で新しいアイデアや技術を生み出そうとしている状況を表しています。"
+    },
+    {
+      "id": 26,
+      "value": "I swear",
+      "options": [
+        "私は誓う",
+        "私は確信する",
+        "私は反対する",
+        "私は提案する"
+      ],
+      "correctAnswer": "私は誓う",
+      "explanation": "「I swear」は、自分の発言が真実であることを強調するために使われる表現です。法廷での証言のように、非常に真剣な状況で使われることもありますし、日常会話で少し大げさに言う場合にも使われます。類似の表現としては、\"I assure you\"や\"I guarantee\"があります。"
+    },
+    {
+      "id": 27,
+      "value": "focus",
+      "options": [
+        "集中する",
+        "忘れる",
+        "共有する",
+        "無視する"
+      ],
+      "correctAnswer": "集中する",
+      "explanation": "「focus」は、注意や努力を特定の対象に向けることを意味します。動詞としても名詞としても使われます。ビジネスシーンや学術的な文脈で頻繁に用いられ、目標達成のために重要な概念です。類義語にはconcentrateやcenterなどがあります。"
+    },
+    {
+      "id": 28,
+      "value": "ergonomic",
+      "options": [
+        "人間工学に基づいた",
+        "経済的な",
+        "効率的な",
+        "魅力的な"
+      ],
+      "correctAnswer": "人間工学に基づいた",
+      "explanation": "「ergonomic」は、人間工学に基づいた、つまり、人が最も効率的かつ快適に作業できるように設計されたという意味です。製品設計や職場環境の改善において重要な概念であり、健康と生産性の向上に貢献します。例えば、ergonomic keyboard（人間工学に基づいたキーボード）のように使われます。"
+    },
+    {
+      "id": 29,
+      "value": "significant",
+      "options": [
+        "重要な",
+        "無意味な",
+        "些細な",
+        "類似した"
+      ],
+      "correctAnswer": "重要な",
+      "explanation": "「significant」は、重要、重大、有意なという意味を持つ形容詞です。統計的な有意差を表す際や、影響力が大きい事柄を指す場合など、様々な文脈で使用されます。例えば、\"a significant increase in sales\"（売上の大幅な増加）のように使われます。"
+    },
+    {
+      "id": 30,
+      "value": "inspired by",
+      "options": [
+        "刺激された",
+        "無視された",
+        "軽蔑された",
+        "制限された"
+      ],
+      "correctAnswer": "刺激された",
+      "explanation": "「inspired by」は、～に触発された、～からインスピレーションを得たという意味です。芸術作品や発明などが、特定の人物や出来事から影響を受けて生まれたことを表す際に用いられます。類義語には、\"influenced by\"があります。"
+    },
+    {
+      "id": 31,
+      "value": "geosynchronous",
+      "options": [
+        "静止軌道の",
+        "非同期の",
+        "地球中心の",
+        "地理的な"
+      ],
+      "correctAnswer": "静止軌道の",
+      "explanation": "「geosynchronous」は、静止軌道の、つまり、地球の自転に合わせて同じ場所にとどまるように見える軌道を指します。通信衛星などで利用される軌道であり、地球上の特定地域への継続的なサービス提供を可能にします。"
+    },
+    {
+      "id": 32,
+      "value": "application",
+      "options": [
+        "応用",
+        "申請",
+        "適用",
+        "放置"
+      ],
+      "correctAnswer": "応用",
+      "explanation": "「application」は、応用、適用、利用などの意味を持つ名詞です。ある理論や技術が、具体的な問題解決や目的達成のために用いられることを指します。例えば、\"the application of AI in healthcare\"（医療におけるAIの応用）のように使われます。"
+    },
+    {
+      "id": 33,
+      "value": "absolute zero",
+      "options": [
+        "絶対零度",
+        "常温",
+        "臨界点",
+        "沸点"
+      ],
+      "correctAnswer": "絶対零度",
+      "explanation": "「absolute zero」は、絶対零度、つまり、熱力学的な温度の最低点で、約-273.15℃（0ケルビン）です。理論上の概念であり、これ以下の温度は存在しません。物理学や化学の分野で重要な基準点となります。"
+    },
+    {
+      "id": 34,
+      "value": "restrictions",
+      "options": [
+        "制限",
+        "自由",
+        "拡大",
+        "許可"
+      ],
+      "correctAnswer": "制限",
+      "explanation": "「restrictions」は、制限、制約、規制などの意味を持つ名詞です。行動や活動を制限するルールや条件を指します。ビジネスや法律、科学など、様々な分野で使用されます。例えば、\"travel restrictions\"（渡航制限）のように使われます。"
+    },
+    {
+      "id": 35,
+      "value": "lounge",
+      "options": [
+        "休憩室",
+        "食堂",
+        "ジム",
+        "会議室"
+      ],
+      "correctAnswer": "休憩室",
+      "explanation": "「lounge」は、休憩室、待合室、くつろぐ場所といった意味を持つ名詞です。ホテルや空港、オフィスなどにある、リラックスするためのスペースを指します。また、バーやナイトクラブの一種を指すこともあります。"
+    },
+    {
+      "id": 36,
+      "value": "vomit",
+      "options": [
+        "嘔吐する",
+        "微笑む",
+        "踊る",
+        "歌う"
+      ],
+      "correctAnswer": "嘔吐する",
+      "explanation": "「vomit」は、嘔吐する、吐くという意味の動詞です。医学的な文脈だけでなく、日常会話でも使われます。類義語には、throw upやpukeなどがあります。少し汚い言葉なので使用する際は注意が必要です。"
+    },
+    {
+      "id": 37,
+      "value": "bucket",
+      "options": [
+        "バケツ",
+        "コップ",
+        "お皿",
+        "袋"
+      ],
+      "correctAnswer": "バケツ",
+      "explanation": "「bucket」は、バケツ、手桶という意味の名詞です。液体や物を運ぶための容器を指します。また、「a bucket of 〜」で、バケツ一杯の〜という意味になります。比喩的に、大量のものを指すこともあります。"
+    },
+    {
+      "id": 38,
+      "value": "field ride",
+      "options": [
+        "実地研修",
+        "遠足",
+        "運動会",
+        "出張"
+      ],
+      "correctAnswer": "実地研修",
+      "explanation": "「field ride」は、特定の業界や職種において、実地研修や現場での実務経験を指す言葉です。 Pennyのセリフの文脈から、営業などの職種における、顧客先への訪問や実際の業務を伴う研修を意味すると考えられます。"
+    },
+    {
+      "id": 39,
+      "value": "catch up with",
+      "options": [
+        "追いつく",
+        "見つける",
+        "捕まえる",
+        "競争する"
+      ],
+      "correctAnswer": "追いつく",
+      "explanation": "「catch up with」は、人に追いつく、または、遅れを取り戻すという意味の句動詞です。人だけでなく、仕事や勉強など、様々な対象に対して使われます。類義語には、\"get up to speed with\"があります。"
+    },
+    {
+      "id": 40,
+      "value": "make sense",
+      "options": [
+        "意味をなす",
+        "理解できない",
+        "忘れる",
+        "混乱する"
+      ],
+      "correctAnswer": "意味をなす",
+      "explanation": "「make sense」は、理にかなう、意味をなす、理解できるという意味の句動詞です。何かが合理的であるか、または理解可能であることを示します。例えば、\"This doesn't make sense.\"（これは意味がわからない）のように使われます。"
+    },
+    {
+      "id": 41,
+      "value": "almanac",
+      "options": [
+        "年鑑",
+        "地図",
+        "辞書",
+        "教科書"
+      ],
+      "correctAnswer": "年鑑",
+      "explanation": "「almanac」は、年鑑、暦という意味の名詞です。特に、天候や天文現象、統計データなどをまとめた書籍を指します。映画「Back to the Future II」では、スポーツの結果が記載された年鑑が登場します。"
+    },
+    {
+      "id": 42,
+      "value": "all over again",
+      "options": [
+        "再び",
+        "最初から",
+        "永遠に",
+        "以前に"
+      ],
+      "correctAnswer": "再び",
+      "explanation": "「all over again」は、再び、もう一度、最初からやり直すという意味の副詞句です。同じ状況やプロセスが繰り返されることを強調します。例えば、\"We have to start all over again.\"（最初からやり直さなければならない）のように使われます。"
+    },
+    {
+      "id": 43,
+      "value": "place a bet",
+      "options": [
+        "賭けをする",
+        "休憩する",
+        "食事をする",
+        "調査する"
+      ],
+      "correctAnswer": "賭けをする",
+      "explanation": "「place a bet」は、賭けをするという意味の表現です。ギャンブルや競争において、結果を予測してお金を賭ける行為を指します。競馬やスポーツくじなどで使われます。"
+    },
+    {
+      "id": 44,
+      "value": "cool",
+      "options": [
+        "かっこいい",
+        "熱い",
+        "退屈",
+        "寒い"
+      ],
+      "correctAnswer": "かっこいい",
+      "explanation": "「cool」は、かっこいい、素晴らしい、冷静な、などの意味を持つ形容詞です。ここでは「いいね」に近い意味合いで使われています。相手に同意するときや、提案に乗るときなどに使われます。"
+    },
+    {
+      "id": 45,
+      "value": "change the world",
+      "options": [
+        "世界を変える",
+        "世界を救う",
+        "世界を忘れる",
+        "世界を広げる"
+      ],
+      "correctAnswer": "世界を変える",
+      "explanation": "「change the world」は、世界を変えるという意味の表現です。社会に大きな影響を与えたり、革新的なアイデアや行動で人々の生活を改善したりすることを指します。大きな目標や理想を語る際に用いられることが多いです。"
+    },
+    {
+      "id": 46,
+      "value": "take a hit",
+      "options": [
+        "打撃を受ける",
+        "利益を得る",
+        "成功する",
+        "昇進する"
+      ],
+      "correctAnswer": "打撃を受ける",
+      "explanation": "「take a hit」は、打撃を受ける、損害を被るという意味の表現です。経済的な損失や精神的なダメージなど、様々な状況で使用されます。例えば、株価が下落した場合や、災害で被害を受けた場合などに用いられます。"
+    },
+    {
+      "id": 47,
+      "value": "come up with",
+      "options": [
+        "思いつく",
+        "忘れる",
+        "反対する",
+        "無視する"
+      ],
+      "correctAnswer": "思いつく",
+      "explanation": "「come up with」は、思いつく、考え出すという意味の句動詞です。新しいアイデアや解決策を創造的に生み出すことを指します。ブレインストーミングや問題解決の場面でよく使われます。"
+    },
+    {
+      "id": 48,
+      "value": "universal application",
+      "options": [
+        "普遍的な応用",
+        "特殊な応用",
+        "限定的な応用",
+        "個人的な応用"
+      ],
+      "correctAnswer": "普遍的な応用",
+      "explanation": "「universal application」は、普遍的な応用、つまり、あらゆる状況や分野に適用できることを意味します。特定の技術や理論が、その有用性の広さから広く利用されることを指します。例えば、\"This technology has universal application in various industries.\"（この技術は様々な産業において普遍的な応用がある）のように使われます。"
+    },
+    {
+      "id": 49,
+      "value": "go ahead",
+      "options": [
+        "どうぞ",
+        "停止",
+        "遅れる",
+        "後退"
+      ],
+      "correctAnswer": "どうぞ",
+      "explanation": "「go ahead」は、どうぞ、進んでください、始めてくださいという意味の表現です。相手に許可を与えたり、行動を促したりする際に使われます。例えば、\"Go ahead, ask your question.\"（どうぞ、質問してください）のように使われます。"
+    },
+    {
+      "id": 50,
+      "value": "pause",
+      "options": [
+        "一時停止",
+        "再生",
+        "早送り",
+        "巻き戻し"
+      ],
+      "correctAnswer": "一時停止",
+      "explanation": "「pause」は、一時停止、中断という意味の名詞または動詞です。映画や音楽の再生を一時的に止める際に使われることが多いですが、会話や活動の中断にも使われます。例えば、\"Let's pause for a moment.\"（少しの間、一時停止しましょう）のように使われます。"
+    },
+    {
+      "id": 51,
+      "value": "tense",
+      "options": [
+        "緊張",
+        "時制",
+        "方向",
+        "値段"
+      ],
+      "correctAnswer": "時制",
+      "explanation": "「tense」は文法用語で「時制」を意味します。ここでは、SheldonがBack to the Futureに出てくる時制について言及しています。"
+    },
+    {
+      "id": 52,
+      "value": "alter the timeline",
+      "options": [
+        "時間割を変更する",
+        "献立を変える",
+        "予定を修正する",
+        "歴史の流れを変える"
+      ],
+      "correctAnswer": "歴史の流れを変える",
+      "explanation": "「alter」は「変更する」という意味で、「timeline」は「年代記、歴史の流れ」を指します。合わせて「歴史の流れを変える」という意味になります。"
+    },
+    {
+      "id": 53,
+      "value": "go with it",
+      "options": [
+        "それと一緒に行く",
+        "それに賛成する",
+        "それを無視する",
+        "それを捨てる"
+      ],
+      "correctAnswer": "それに賛成する",
+      "explanation": "「go with it」は、提案やアイデアに同意する、または成り行きに任せるという意味です。ここでは、Leonardの発言に対してSheldonが同意している様子を表しています。"
+    },
+    {
+      "id": 54,
+      "value": "pop open",
+      "options": [
+        "中身を取り出す",
+        "急に現れる",
+        "栓を開ける",
+        "壊れる"
+      ],
+      "correctAnswer": "栓を開ける",
+      "explanation": "「pop open」は、ポンという音を立てて開けるという意味です。ここでは、Pillsburyの生地の缶を開ける音を例えとして使っています。"
+    },
+    {
+      "id": 55,
+      "value": "wrapped around",
+      "options": [
+        "包まれて",
+        "無視されて",
+        "議論されて",
+        "隠されて"
+      ],
+      "correctAnswer": "包まれて",
+      "explanation": "「wrap around」は「〜を包む、巻き付ける」という意味です。ここでは、生地がソーセージ（cocktail weenies）に巻き付けられている様子を表しています。"
+    },
+    {
+      "id": 56,
+      "value": "focus",
+      "options": [
+        "焦点",
+        "ぼかす",
+        "集中する",
+        "忘れる"
+      ],
+      "correctAnswer": "集中する",
+      "explanation": "「focus」は「集中する」という意味です。ここでは、研究に集中するために女性陣を部屋から出したという文脈で使われています。"
+    },
+    {
+      "id": 57,
+      "value": "be in the mood for",
+      "options": [
+        "〜する気分である",
+        "〜を忘れる",
+        "〜を探す",
+        "〜に反対する"
+      ],
+      "correctAnswer": "〜する気分である",
+      "explanation": "「be in the mood for」は、「～の気分である、～したい」という意味のイディオムです。ここでは、AmyがBernadetteにManilowを聞く気分かどうか尋ねています。"
+    },
+    {
+      "id": 58,
+      "value": "opportunity",
+      "options": [
+        "機会",
+        "休憩",
+        "才能",
+        "問題"
+      ],
+      "correctAnswer": "機会",
+      "explanation": "「opportunity」は「機会、好機」という意味です。Pennyが勉強する機会を得たことを指しています。"
+    },
+    {
+      "id": 59,
+      "value": "banging'",
+      "options": [
+        "うるさい",
+        "素晴らしい",
+        "普通",
+        "退屈"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "スラングとして「非常に魅力的、素晴らしい」という意味で使われます。Bernadetteの体型を褒める際にAmyが使用しています。"
+    },
+    {
+      "id": 60,
+      "value": "embarrassing",
+      "options": [
+        "恥ずかしい",
+        "面白い",
+        "怒っている",
+        "悲しい"
+      ],
+      "correctAnswer": "恥ずかしい",
+      "explanation": "「embarrassing」は「恥ずかしい」という意味です。ここでは、Amyが際どい質問をしてBernadetteを困らせている状況を表しています。"
+    },
+    {
+      "id": 61,
+      "value": "divot",
+      "options": [
+        "窪み",
+        "隆起",
+        "傷",
+        "模様"
+      ],
+      "correctAnswer": "窪み",
+      "explanation": "「divot」は「窪み、へこみ」という意味です。Amyが自分の背骨の窪みについて話しています。"
+    },
+    {
+      "id": 62,
+      "value": "distraction",
+      "options": [
+        "集中",
+        "気晴らし",
+        "仕事",
+        "友人"
+      ],
+      "correctAnswer": "気晴らし",
+      "explanation": "「distraction」は「気を散らすもの、気晴らし」という意味です。ここでは、研究の妨げになるものを指しています。"
+    },
+    {
+      "id": 63,
+      "value": "conditioned",
+      "options": [
+        "調整された",
+        "条件付けられた",
+        "壊れた",
+        "無視された"
+      ],
+      "correctAnswer": "条件付けられた",
+      "explanation": "「conditioned」は「条件付けられた」という意味です。ここでは、研究室が仕事に集中するように条件付けられている場所であることを表しています。"
+    },
+    {
+      "id": 64,
+      "value": "utilize",
+      "options": [
+        "利用する",
+        "隠す",
+        "拒否する",
+        "無視する"
+      ],
+      "correctAnswer": "利用する",
+      "explanation": "「utilize」は「利用する」という意味です。ここでは、量子結合を利用することを検討している状況を表しています。"
+    },
+    {
+      "id": 65,
+      "value": "coupling",
+      "options": [
+        "結合",
+        "分離",
+        "破壊",
+        "腐敗"
+      ],
+      "correctAnswer": "結合",
+      "explanation": "「coupling」は「結合」という意味です。ここでは、量子結合という物理学の概念について議論しています。"
+    },
+    {
+      "id": 66,
+      "value": "argue with",
+      "options": [
+        "〜と議論する",
+        "〜を無視する",
+        "〜を助ける",
+        "〜を愛する"
+      ],
+      "correctAnswer": "〜と議論する",
+      "explanation": "「argue with」は「～と議論する、言い争う」という意味です。ここでは、インターネット上の情報が正しいことを認めている状況を表しています。"
+    },
+    {
+      "id": 67,
+      "value": "get back to work",
+      "options": [
+        "仕事に戻る",
+        "休憩する",
+        "遊ぶ",
+        "寝る"
+      ],
+      "correctAnswer": "仕事に戻る",
+      "explanation": "「get back to work」は「仕事に戻る」という意味です。脱線した議論を終わらせ、仕事に戻ることを促す際に使われています。"
+    },
+    {
+      "id": 68,
+      "value": "operant conditioning",
+      "options": [
+        "オペラ鑑賞",
+        "オペラ歌手",
+        "オペラ",
+        "オペラント条件付け"
+      ],
+      "correctAnswer": "オペラント条件付け",
+      "explanation": "「operant conditioning」は「オペラント条件付け」という意味です。行動心理学の用語で、報酬や罰を用いて行動を修正する学習方法です。"
+    },
+    {
+      "id": 69,
+      "value": "behavior modification",
+      "options": [
+        "行動修正",
+        "環境破壊",
+        "生活改善",
+        "遺伝子組み換え"
+      ],
+      "correctAnswer": "行動修正",
+      "explanation": "「behavior modification」は「行動修正」という意味です。オペラント条件付けなどの心理学的な手法を用いて、行動を変化させることを指します。"
+    },
+    {
+      "id": 70,
+      "value": "match point",
+      "options": [
+        "試合開始",
+        "マッチポイント",
+        "試合終了",
+        "休憩時間"
+      ],
+      "correctAnswer": "マッチポイント",
+      "explanation": "「match point」は「マッチポイント」という意味です。スポーツの試合で、あと1点で勝利が決まる状況を指します。"
+    },
+    {
+      "id": 71,
+      "value": "straying off topic",
+      "options": [
+        "話題からそれる",
+        "話題を独占する",
+        "話題を変える",
+        "話題を無視する"
+      ],
+      "correctAnswer": "話題からそれる",
+      "explanation": "「stray off topic」は「話題からそれる、脱線する」という意味です。議論が本題から外れることを指します。"
+    },
+    {
+      "id": 72,
+      "value": "comes to mind",
+      "options": [
+        "思い浮かぶ",
+        "忘れる",
+        "理解する",
+        "無視する"
+      ],
+      "correctAnswer": "思い浮かぶ",
+      "explanation": "「come to mind」は「思い浮かぶ、心に浮かぶ」という意味です。Rajが罰の例として、ハトのピンポンを見られないことを提案しています。"
+    },
+    {
+      "id": 73,
+      "value": "sidetracked",
+      "options": [
+        "本線に戻る",
+        "脇道にそれる",
+        "集中する",
+        "理解する"
+      ],
+      "correctAnswer": "脇道にそれる",
+      "explanation": "「sidetracked」は「脇道にそれる、脱線する」という意味です。議論が本題から外れることを指します。 \"We could snap a rubber band on our wrists every time we get sidetracked.\""
+    },
+    {
+      "id": 74,
+      "value": "idle chatter",
+      "options": [
+        "無駄話",
+        "重要な話",
+        "秘密の話",
+        "楽しい話"
+      ],
+      "correctAnswer": "無駄話",
+      "explanation": "「idle chatter」は「無駄話、他愛のないおしゃべり」という意味です。中世の時代には、このような無駄話が罰せられていたという文脈で使われています。"
+    },
+    {
+      "id": 75,
+      "value": "pooping on a party",
+      "options": [
+        "パーティーを楽しむ",
+        "パーティーを台無しにする",
+        "パーティーを計画する",
+        "パーティーに参加する"
+      ],
+      "correctAnswer": "パーティーを台無しにする",
+      "explanation": "「poop on (something)」は「(何か) を台無しにする」という意味のスラングです。BernadetteはAmyとホテルの部屋にいるので、誰かがうるさくてパーティーを台無しにしているという苦情を言っている体で、ルームサービスに応対しています。"
+    },
+    {
+      "id": 76,
+      "value": "twirl their junk",
+      "options": [
+        "秘密を共有する",
+        "物を回転させる",
+        "冗談を言う",
+        "重要な情報を隠す"
+      ],
+      "correctAnswer": "物を回転させる",
+      "explanation": "「twirl」は、何かをくるくると回転させるという意味です。「junk」はここでは下品な表現ですが、男性器を指します。したがって、「twirl their junk」は、男性ストリッパーが自身の男性器を回転させることを意味します。ストリップクラブでのパフォーマンスに関する口語的な表現です。"
+    },
+    {
+      "id": 77,
+      "value": "get in trouble",
+      "options": [
+        "成功する",
+        "問題に巻き込まれる",
+        "休憩する",
+        "連絡を取る"
+      ],
+      "correctAnswer": "問題に巻き込まれる",
+      "explanation": "「get in trouble」は、問題や困難に巻き込まれる、困った状況に陥るという意味です。警察官を探すという文脈から、何らかのトラブルが発生した場合を想定していることがわかります。\n\n例：If you get in trouble, call me. (もし何か問題が起きたら、私に電話して。)"
+    },
+    {
+      "id": 78,
+      "value": "walk-in closet",
+      "options": [
+        "散歩コース",
+        "大型収納室",
+        "近所の店",
+        "病院の受付"
+      ],
+      "correctAnswer": "大型収納室",
+      "explanation": "「walk-in closet」は、人が中に入って歩けるほどの広さがあるクローゼットのことです。衣類や物を収納するための比較的大型のスペースを指します。"
+    },
+    {
+      "id": 79,
+      "value": "take someone off topic",
+      "options": [
+        "話題を変える",
+        "休憩を取る",
+        "誰かを支持する",
+        "話を秘密にする"
+      ],
+      "correctAnswer": "話題を変える",
+      "explanation": "「take someone off topic」は、議論や会話の流れから逸脱させる、話題をそらすという意味です。会議や議論などで、本題から外れた話をする際に使われます。\n\n例：Let's not take each other off topic. (話題を逸らさないようにしましょう。)"
+    },
+    {
+      "id": 80,
+      "value": "yank off",
+      "options": [
+        "ゆっくりと引く",
+        "急に引き抜く",
+        "優しく持ち上げる",
+        "丁寧に扱う"
+      ],
+      "correctAnswer": "急に引き抜く",
+      "explanation": "「yank off」は、何かを強く、急に引き抜くという意味です。ここでは「arm hair yanked off」とあるので、腕の毛を無理やり引き抜くことを指します。"
+    },
+    {
+      "id": 81,
+      "value": "owe you one",
+      "options": [
+        "あなたに感謝する",
+        "あなたに借りができた",
+        "あなたに反対する",
+        "あなたを無視する"
+      ],
+      "correctAnswer": "あなたに借りができた",
+      "explanation": "「owe you one」は、誰かに助けられたり、恩を受けた場合に、「あなたに一つ借りがある」「今度何かお返しをする」という意味で使われる口語的な表現です。\n\n例：Thanks for helping me out. I owe you one. (助けてくれてありがとう。恩に着るよ。)"
+    },
+    {
+      "id": 82,
+      "value": "hear it from",
+      "options": [
+        "誰かから話を聞く",
+        "誰かに怒られる",
+        "誰かと仲良くなる",
+        "誰かを無視する"
+      ],
+      "correctAnswer": "誰かに怒られる",
+      "explanation": "「hear it from someone」は、誰かから叱責や不満を聞かされるという意味です。特に、自分の行動が原因で、誰かから苦情や文句を言われる状況を指します。\n\n例：I'm going to hear it from my boss if I'm late again. (もしまた遅刻したら、上司に怒られるだろう。)"
+    },
+    {
+      "id": 83,
+      "value": "negative reinforcement",
+      "options": [
+        "否定的な強化",
+        "罰を与えること",
+        "嫌なものを取り除くことによる強化",
+        "無視すること"
+      ],
+      "correctAnswer": "嫌なものを取り除くことによる強化",
+      "explanation": "「negative reinforcement」は、心理学における行動療法で、不快な刺激を取り除くことで、特定の行動を強化する手法です。例えば、宿題を終わらせることで嫌な音を止める、といった状況が該当します。罰を与えることとは異なります。"
+    },
+    {
+      "id": 84,
+      "value": "positive punishment",
+      "options": [
+        "肯定的な罰",
+        "ご褒美を与えること",
+        "嫌なものを与えることによる罰",
+        "良いものを取り上げること"
+      ],
+      "correctAnswer": "嫌なものを与えることによる罰",
+      "explanation": "「positive punishment」は、心理学における行動療法で、好ましくない行動を減らすために、嫌悪的な刺激を与えることです。例えば、騒いだ子供に雷を落とすような場合が該当します。体罰や叱責などが該当します。"
+    },
+    {
+      "id": 85,
+      "value": "all the time",
+      "options": [
+        "常に",
+        "たまに",
+        "一度も～ない",
+        "時々"
+      ],
+      "correctAnswer": "常に",
+      "explanation": "「all the time」は、「いつも」「常に」という意味で、何かが頻繁に起こることを表します。\n\n例：He's late all the time.（彼はいつも遅刻する。）"
+    },
+    {
+      "id": 86,
+      "value": "jump ahead",
+      "options": [
+        "前に進む",
+        "後退する",
+        "停止する",
+        "横に移動する"
+      ],
+      "correctAnswer": "前に進む",
+      "explanation": "「jump ahead」は、時間や順序を飛ばして先に進むという意味です。映画を早送りしたり、話の要点だけを伝えたりする際に使われます。\n\n例：Let's jump ahead to the next scene. (次のシーンに飛ばしましょう。)"
+    },
+    {
+      "id": 87,
+      "value": "procrastinating",
+      "options": [
+        "整理整頓する",
+        "先延ばしにする",
+        "集中する",
+        "楽しむ"
+      ],
+      "correctAnswer": "先延ばしにする",
+      "explanation": "「procrastinating」は、やるべきことを後回しにする、先延ばしにするという意味です。特に、面倒なことや難しいことを避けて、他のことをしてしまう場合に用いられます。\n\n例：I'm procrastinating on writing my essay. (エッセイを書くのを先延ばしにしている。)"
+    },
+    {
+      "id": 88,
+      "value": "bust one ghost",
+      "options": [
+        "幽霊を捕まえる",
+        "幽霊を信じる",
+        "幽霊を無視する",
+        "幽霊を怖がる"
+      ],
+      "correctAnswer": "幽霊を捕まえる",
+      "explanation": "「bust」はここでは「逮捕する」「捕まえる」という意味のスラングです。映画「Ghostbusters」の内容から、幽霊を捕まえるという意味になります。"
+    },
+    {
+      "id": 89,
+      "value": "hold up",
+      "options": [
+        "持ちこたえる",
+        "崩壊する",
+        "停止する",
+        "加速する"
+      ],
+      "correctAnswer": "持ちこたえる",
+      "explanation": "「hold up」は様々な意味がありますが、ここでは「（時間が経っても）質が保たれる」「古くならない」という意味です。映画などが昔のものでも今でも楽しめる、という意味合いで使われます。\n\n例: This movie really holds up after all these years.(この映画は長年経った今でも本当に面白い)"
+    },
+    {
+      "id": 90,
+      "value": "Shake that thing",
+      "options": [
+        "それを隠せ",
+        "それを振れ",
+        "それを壊せ",
+        "それを無視しろ"
+      ],
+      "correctAnswer": "それを振れ",
+      "explanation": "「Shake that thing」は、主にダンスやパフォーマンスの場面で使われる口語的な表現で、「それを振れ」「体を揺らせ」という意味です。ストリップクラブで、ダンサーに向けて使われることから、そのような意味合いを持ちます。"
+    },
+    {
+      "id": 91,
+      "value": "close the drapes",
+      "options": [
+        "カーテンを開ける",
+        "カーテンを閉める",
+        "ドアを開ける",
+        "ドアを閉める"
+      ],
+      "correctAnswer": "カーテンを閉める",
+      "explanation": "「drapes」は厚手のカーテンのことです。「close the drapes」はカーテンを閉めるという意味になります。部屋を暗くしたいときなどに使われる表現です。"
+    },
+    {
+      "id": 92,
+      "value": "have fun",
+      "options": [
+        "楽しむ",
+        "仕事をする",
+        "勉強する",
+        "休憩する"
+      ],
+      "correctAnswer": "楽しむ",
+      "explanation": "「have fun」は、「楽しむ」という意味の基本的な表現です。誰かに楽しい時間を過ごしてほしいときや、自分自身が楽しんでいる状況を表現するときに使われます。"
+    },
+    {
+      "id": 93,
+      "value": "strip club",
+      "options": [
+        "図書館",
+        "ストリップクラブ",
+        "映画館",
+        "美術館"
+      ],
+      "correctAnswer": "ストリップクラブ",
+      "explanation": "「strip club」は、ストリッパー（主に女性）がダンスなどのパフォーマンスを行うナイトクラブの一種です。性的な魅力を売りにする場所であり、成人向けの娯楽施設とされています。"
+    },
+    {
+      "id": 94,
+      "value": "nerd",
+      "options": [
+        "人気者",
+        "オタク",
+        "スポーツ選手",
+        "芸術家"
+      ],
+      "correctAnswer": "オタク",
+      "explanation": "「nerd」は、特定の分野に非常に熱心で、社交性が低い傾向にある人を指す言葉です。学術的な分野やテクノロジーに詳しい人を指すことが多く、しばしば否定的な意味合いを含みますが、近年では肯定的な意味合いも含まれることがあります。"
+    },
+    {
+      "id": 95,
+      "value": "loser",
+      "options": [
+        "成功者",
+        "敗者",
+        "指導者",
+        "協力者"
+      ],
+      "correctAnswer": "敗者",
+      "explanation": "「loser」は、一般的に「敗者」「負け犬」という意味で、目標を達成できなかったり、社会的に成功していないと見なされる人を指します。自己肯定感の低い人や、社会から疎外されていると感じている人を指す場合もあります。"
+    },
+    {
+      "id": 96,
+      "value": "quiz",
+      "options": [
+        "質問する",
+        "テストする",
+        "教える",
+        "無視する"
+      ],
+      "correctAnswer": "テストする",
+      "explanation": "「quiz」は、知識や理解度を試すための短いテストや質問を指します。学校の授業やゲーム、娯楽などで使われ、気軽に知識を確認する手段として用いられます。"
+    },
+    {
+      "id": 97,
+      "value": "tangent",
+      "options": [
+        "本題",
+        "脱線",
+        "結論",
+        "要約"
+      ],
+      "correctAnswer": "脱線",
+      "explanation": "「tangent」は、会話や議論が本題から逸れて、関係のない話題に移行することを指します。会議やプレゼンテーションなどで、話がそれてしまった場合に用いられることがあります。"
+    },
+    {
+      "id": 98,
+      "value": "find it in ourselves",
+      "options": [
+        "自分自身を見つける",
+        "勇気を出す",
+        "他人を頼る",
+        "諦める"
+      ],
+      "correctAnswer": "勇気を出す",
+      "explanation": "「find it in ourselves」は、「自分の中に（必要な資質や能力）を見出す」「勇気を出す」「気力を振り絞る」という意味で使われる表現です。困難な状況や課題に立ち向かう際に、自分自身の内なる力や決意を奮い立たせることを意味します。\n\n例文：We need to find it in ourselves to forgive each other. (私たちはお互いを許す勇気を出さなければならない。)"
+    },
+    {
+      "id": 99,
+      "value": "crappy",
+      "options": [
+        "素晴らしい",
+        "粗末な",
+        "美しい",
+        "高価な"
+      ],
+      "correctAnswer": "粗末な",
+      "explanation": "「crappy」は、「粗末な」「ひどい」「くだらない」という意味のスラングです。品質が悪いものや、不快な状況などを表現する際に用いられます。\n\n例文：This is such a crappy hotel. (これは本当にひどいホテルだ。)"
+    },
+    {
+      "id": 100,
+      "value": "anatomy class",
+      "options": [
+        "料理教室",
+        "解剖学の授業",
+        "美術教室",
+        "音楽教室"
+      ],
+      "correctAnswer": "解剖学の授業",
+      "explanation": "「anatomy class」は、「解剖学の授業」を意味します。医学部や生物学系の学生が、人体の構造を学ぶために、実際に人体を解剖する授業を指します。"
+    }
+  ]
+}

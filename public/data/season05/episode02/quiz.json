@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "call in",
+      "options": [
+        "電話をかける",
+        "訪問する",
+        "キャンセルする",
+        "手伝う"
+      ],
+      "correctAnswer": "電話をかける",
+      "explanation": "「call in」は、電話をかける、連絡するという意味です。特に、遠隔地から電話会議に参加する場合や、職場に電話で連絡する場合に使われます。\n\n例：She called in sick to work today. (彼女は今日、病気で会社に電話連絡した。)"
+    },
+    {
+      "id": 2,
+      "value": "technically",
+      "options": [
+        "技術的には",
+        "理論的には",
+        "実際には",
+        "具体的には"
+      ],
+      "correctAnswer": "理論的には",
+      "explanation": "「technically」は、厳密に言えば、理論上は、という意味で使用されます。細かい点や形式的な側面を強調する際に用いられます。\n\n例：Technically, tomatoes are fruits, not vegetables. (厳密に言えば、トマトは野菜ではなく果物です。)"
+    },
+    {
+      "id": 3,
+      "value": "open yourself to",
+      "options": [
+        "自分自身を開放する",
+        "〜に身を晒す",
+        "〜に貢献する",
+        "〜を無視する"
+      ],
+      "correctAnswer": "〜に身を晒す",
+      "explanation": "「open yourself to」は、危険や批判など、好ましくない状況に身を晒すという意味です。脆弱な状態になることを示唆します。\n\n例：By investing in that company, you're opening yourself to a great deal of risk. (その会社に投資することで、あなたは大きなリスクに身を晒すことになります。)"
+    },
+    {
+      "id": 4,
+      "value": "peer-based mocking",
+      "options": [
+        "仲間からの称賛",
+        "仲間からの批判",
+        "仲間からの相談",
+        "仲間からの無視"
+      ],
+      "correctAnswer": "仲間からの批判",
+      "explanation": "「peer-based mocking」は、同僚や友人など、同じ立場の者からの嘲笑やからかいを意味します。仲間内でのいじりやからかいのニュアンスを含みます。\n\n例：He was subjected to peer-based mocking after he made a mistake during the presentation. (彼はプレゼンテーション中にミスをした後、仲間からの嘲笑にさらされた。)"
+    },
+    {
+      "id": 5,
+      "value": "carcinogens",
+      "options": [
+        "栄養素",
+        "発がん性物質",
+        "抗生物質",
+        "ホルモン"
+      ],
+      "correctAnswer": "発がん性物質",
+      "explanation": "「carcinogens」は、発がん性物質を意味します。がんを引き起こす可能性のある物質を指します。\n\n例：Cigarette smoke contains many carcinogens. (タバコの煙には多くの発がん性物質が含まれている。)"
+    },
+    {
+      "id": 6,
+      "value": "ambiance",
+      "options": [
+        "雰囲気",
+        "騒音",
+        "温度",
+        "香り"
+      ],
+      "correctAnswer": "雰囲気",
+      "explanation": "「ambiance」は、雰囲気、ムード、環境という意味です。場所や状況が持つ独特な雰囲気や感じを指します。\n\n例：The restaurant has a romantic ambiance. (そのレストランはロマンチックな雰囲気を持っている。)"
+    },
+    {
+      "id": 7,
+      "value": "make a point of",
+      "options": [
+        "〜を指摘する",
+        "〜を重要視する",
+        "〜を避ける",
+        "〜を無視する"
+      ],
+      "correctAnswer": "〜を重要視する",
+      "explanation": "「make a point of」は、〜を心がける、〜を重視するという意味です。意識的に特定の行動を取ることを示します。\n\n例：I make a point of exercising every day. (私は毎日運動することを心がけている。)"
+    },
+    {
+      "id": 8,
+      "value": "interfering",
+      "options": [
+        "干渉する",
+        "協力する",
+        "無視する",
+        "支援する"
+      ],
+      "correctAnswer": "干渉する",
+      "explanation": "「interfering」は、干渉する、邪魔するという意味です。他人の事柄に介入して、良くない影響を与えることを指します。\n\n例：I don't want to interfere in your relationship. (私はあなたの関係に干渉したくない。)"
+    },
+    {
+      "id": 9,
+      "value": "pursue",
+      "options": [
+        "追求する",
+        "放棄する",
+        "隠蔽する",
+        "無視する"
+      ],
+      "correctAnswer": "追求する",
+      "explanation": "「pursue」は、追求する、追い求めるという意味です。目標や夢に向かって努力することを指します。\n\n例：She decided to pursue a career in medicine. (彼女は医学の道を追求することを決めた。)"
+    },
+    {
+      "id": 10,
+      "value": "take up a hobby",
+      "options": [
+        "趣味を始める",
+        "趣味を辞める",
+        "仕事に就く",
+        "休憩する"
+      ],
+      "correctAnswer": "趣味を始める",
+      "explanation": "「take up a hobby」は、趣味を始めるという意味です。新しい趣味や活動を始めることを指します。\n\n例：I decided to take up painting as a hobby. (私は趣味として絵を描き始めることにした。)"
+    },
+    {
+      "id": 11,
+      "value": "give someone a run for their money",
+      "options": [
+        "相手にお金をあげる",
+        "相手に勝つ",
+        "相手に苦戦させる",
+        "相手にチャンスを与える"
+      ],
+      "correctAnswer": "相手に苦戦させる",
+      "explanation": "「give someone a run for their money」は、相手に苦戦させる、手強い相手になるという意味です。競争相手に容易に勝たせない状況を指します。\n\n例：Our team gave the champions a run for their money in the final game. (私たちのチームは決勝戦でチャンピオンたちに苦戦を強いた。)"
+    },
+    {
+      "id": 12,
+      "value": "sterilized",
+      "options": [
+        "殺菌された",
+        "不妊化された",
+        "清潔にされた",
+        "保存された"
+      ],
+      "correctAnswer": "不妊化された",
+      "explanation": "「sterilized」は、不妊化された、殺菌されたという意味です。ここでは比喩的に、繁殖能力を奪うという意味で使われています。\n\n例：The equipment was sterilized before the surgery. (手術前に器具は殺菌された。)"
+    },
+    {
+      "id": 13,
+      "value": "video-chat",
+      "options": [
+        "ビデオチャット",
+        "手紙",
+        "電話",
+        "会議"
+      ],
+      "correctAnswer": "ビデオチャット",
+      "explanation": "「video-chat」は、ビデオチャットをするという意味です。ビデオ通話を使って会話することを指します。\n\n例：We video-chat with our family overseas every week. (私たちは毎週、海外にいる家族とビデオチャットをする。)"
+    },
+    {
+      "id": 14,
+      "value": "get over",
+      "options": [
+        "乗り越える",
+        "忘れる",
+        "理解する",
+        "訪問する"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get over」は、乗り越える、克服するという意味です。困難や障害を乗り越えて回復することを指します。\n\n例：It took her a long time to get over the loss of her job. (彼女が失業を乗り越えるには長い時間がかかった。)"
+    },
+    {
+      "id": 15,
+      "value": "aligns",
+      "options": [
+        "整列させる",
+        "無視する",
+        "破壊する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "整列させる",
+      "explanation": "「aligns」は、整列させる、調整するという意味です。ここでは、体の部位を正しい位置に整えるという意味で使われています。\n\n例：Proper posture aligns the spine. (正しい姿勢は背骨を整列させる。)"
+    },
+    {
+      "id": 16,
+      "value": "cradles",
+      "options": [
+        "抱きしめる",
+        "無視する",
+        "批判する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "抱きしめる",
+      "explanation": "「cradles」は、優しく包み込む、抱きしめるという意味です。ここでは、椅子が体を優しく支える様子を表しています。\n\n例：The mother cradled her baby in her arms. (母親は腕の中で赤ちゃんを優しく抱きしめた。)"
+    },
+    {
+      "id": 17,
+      "value": "buttocks",
+      "options": [
+        "お尻",
+        "背中",
+        "胸",
+        "腕"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "「buttocks」は、お尻を意味します。体の部位を指す直接的な表現です。\n\n例：The chair is designed to support the buttocks. (その椅子はお尻を支えるように設計されている。)"
+    },
+    {
+      "id": 18,
+      "value": "worthy of",
+      "options": [
+        "〜に値する",
+        "〜に興味がない",
+        "〜を無視する",
+        "〜を破壊する"
+      ],
+      "correctAnswer": "〜に値する",
+      "explanation": "「worthy of」は、〜に値する、〜にふさわしいという意味です。価値や資格があることを示します。\n\n例：This accomplishment is worthy of praise. (この業績は称賛に値する。)"
+    },
+    {
+      "id": 19,
+      "value": "get over the fact",
+      "options": [
+        "事実を乗り越える",
+        "事実を忘れる",
+        "事実を受け入れる",
+        "事実を否定する"
+      ],
+      "correctAnswer": "事実を受け入れる",
+      "explanation": "「get over the fact」は、事実を受け入れる、事実を乗り越えるという意味です。何かを受け入れるのに苦労している状況を示します。\n\n例：I can't get over the fact that he lied to me. (彼が私に嘘をついたという事実を受け入れられない。)"
+    },
+    {
+      "id": 20,
+      "value": "threw it away",
+      "options": [
+        "それを捨てる",
+        "それを買う",
+        "それを隠す",
+        "それを修理する"
+      ],
+      "correctAnswer": "それを捨てる",
+      "explanation": "「throw it away」は、それを捨てるという意味です。不要になったものを処分することを指します。\n\n例：I threw away the old newspapers. (私は古い新聞を捨てた。)"
+    },
+    {
+      "id": 21,
+      "value": "stripping off",
+      "options": [
+        "服を脱ぐ",
+        "服を着る",
+        "掃除する",
+        "料理する"
+      ],
+      "correctAnswer": "服を脱ぐ",
+      "explanation": "「stripping off」は、服を脱ぐという意味です。急いで服を脱ぐ様子を表します。\n\n例：He was stripping off his wet clothes. (彼は濡れた服を脱いでいた。)"
+    },
+    {
+      "id": 22,
+      "value": "take it easy",
+      "options": [
+        "落ち着いて",
+        "頑張って",
+        "急いで",
+        "諦めて"
+      ],
+      "correctAnswer": "落ち着いて",
+      "explanation": "「take it easy」は、落ち着いて、気楽に構えてという意味です。リラックスするように促す表現です。\n\n例：Just take it easy and everything will be fine. (落ち着いて、すべてうまくいくよ。)"
+    },
+    {
+      "id": 23,
+      "value": "went into",
+      "options": [
+        "〜に入る",
+        "〜から出る",
+        "〜を避ける",
+        "〜を忘れる"
+      ],
+      "correctAnswer": "〜に入る",
+      "explanation": "「went into」は、〜に入る、〜を始めるという意味です。ここでは、結婚生活を始めるという意味で使われています。\n\n例：She went into the project with a lot of enthusiasm. (彼女は多くの熱意を持ってプロジェクトに参加した。)"
+    },
+    {
+      "id": 24,
+      "value": "Band-Aid",
+      "options": [
+        "絆創膏",
+        "包帯",
+        "薬",
+        "石鹸"
+      ],
+      "correctAnswer": "絆創膏",
+      "explanation": "「Band-Aid」は、絆創膏を意味します。小さな傷を保護するために使用される医療用品です。\n\n例：I put a Band-Aid on my finger. (私は指に絆創膏を貼った。)"
+    },
+    {
+      "id": 25,
+      "value": "workshop",
+      "options": [
+        "作業場",
+        "オフィス",
+        "家",
+        "学校"
+      ],
+      "correctAnswer": "作業場",
+      "explanation": "「workshop」は、作業場、工房を意味します。何かを作るための場所です。\n\n例：He spends most of his time in his workshop. (彼はほとんどの時間を作業場で過ごす。)"
+    },
+    {
+      "id": 26,
+      "value": "set back",
+      "options": [
+        "前進させる",
+        "遅らせる",
+        "立て直す",
+        "費用がかかる"
+      ],
+      "correctAnswer": "費用がかかる",
+      "explanation": "「set back」は、ここでは「（大学に）～の費用をかけさせる」という意味です。金銭的なコストを指す場合に使われます。類似表現としてcostがありますが、set backはより口語的なニュアンスを持ちます。Example: The new equipment set the company back a lot of money."
+    },
+    {
+      "id": 27,
+      "value": "make it work",
+      "options": [
+        "機能させる",
+        "成功させる",
+        "修理する",
+        "だめにする"
+      ],
+      "correctAnswer": "成功させる",
+      "explanation": "「make it work」は、困難な状況でも何とか成功させる、うまくやっていくという意味です。恋愛関係、仕事、プロジェクトなど、様々な状況で使われます。Example: They live in different countries, but they are trying to make their relationship work."
+    },
+    {
+      "id": 28,
+      "value": "cyber nasty",
+      "options": [
+        "サイバー攻撃",
+        "オンラインゲーム",
+        "オンラインでの性的な行為",
+        "仮想現実"
+      ],
+      "correctAnswer": "オンラインでの性的な行為",
+      "explanation": "「cyber nasty」は、オンライン上での性的な行為を指す口語的な表現です。ここでは、長距離恋愛中のLeonardとPriyaがオンラインで性的なやり取りをしているかをHowardが尋ねる際に使われています。類義語としては、cybersex, virtual sexなどがあります。"
+    },
+    {
+      "id": 29,
+      "value": "virtual pickle tickle",
+      "options": [
+        "仮想のピクルス",
+        "オンラインゲーム",
+        "性的なジョーク",
+        "オンラインでの性的な行為"
+      ],
+      "correctAnswer": "オンラインでの性的な行為",
+      "explanation": "「virtual pickle tickle」は、「cyber nasty」と同様に、オンライン上での性的な行為を指す非常に口語的でユーモラスな表現です。「pickle」は男性器のスラングとして使われ、「tickle」はくすぐるという意味ですが、ここでは性的な意味合いを持ちます。"
+    },
+    {
+      "id": 30,
+      "value": "bow-chicka-bow-bow",
+      "options": [
+        "効果音",
+        "歌のタイトル",
+        "ダンスのステップ",
+        "性的な含みのある音楽"
+      ],
+      "correctAnswer": "性的な含みのある音楽",
+      "explanation": "「bow-chicka-bow-bow」は、性的な含みのある音楽や効果音を模倣した表現です。特にポルノ映画などでよく使われる音楽を指し、ユーモラスな文脈で性的な行為を暗示する際に使われます。"
+    },
+    {
+      "id": 31,
+      "value": "deal with",
+      "options": [
+        "取引する",
+        "対処する",
+        "合意する",
+        "無視する"
+      ],
+      "correctAnswer": "対処する",
+      "explanation": "「deal with」は、問題や困難な状況に対処する、処理するという意味です。ここでは、RajがLeonardと妹Priyaの関係について、Howardのコメントに対処する状況で使われています。Example: How do you deal with stress?"
+    },
+    {
+      "id": 32,
+      "value": "jiggling his junk",
+      "options": [
+        "騒ぐ",
+        "隠す",
+        "揺らす",
+        "修理する"
+      ],
+      "correctAnswer": "揺らす",
+      "explanation": "「jiggle」は、軽く揺らす、震わせるという意味です。「junk」は男性器のスラングです。ここでは、HowardがLeonardがウェブカメラを通して妹Priyaに男性器を揺らしているのではないかと冗談めかして言っています。"
+    },
+    {
+      "id": 33,
+      "value": "at your fingertips",
+      "options": [
+        "手の届かないところに",
+        "あなたの指で",
+        "すぐに利用できる",
+        "秘密に"
+      ],
+      "correctAnswer": "すぐに利用できる",
+      "explanation": "「at your fingertips」は、必要な情報や手段がすぐに利用できる状態を指します。ここでは、高速インターネットによって性的な楽しみが簡単に得られることを強調するために使われています。Example: With the internet, information is at your fingertips."
+    },
+    {
+      "id": 34,
+      "value": "advancement in the field",
+      "options": [
+        "分野の進歩",
+        "フィールドワーク",
+        "分野の衰退",
+        "専門分野"
+      ],
+      "correctAnswer": "分野の進歩",
+      "explanation": "「advancement in the field」は、ある分野における進歩や発展を意味します。ここでは、高速インターネットが性的な分野における最大の進歩であるとHowardが主張しています。Example: This new technology is a major advancement in the field of medicine."
+    },
+    {
+      "id": 35,
+      "value": "lose (someone) to",
+      "options": [
+        "失う",
+        "譲る",
+        "勝つ",
+        "見つける"
+      ],
+      "correctAnswer": "失う",
+      "explanation": "「lose (someone) to」は、（誰か）を（他の人）に奪われる、という意味です。ここでは、LeonardがPriyaを他の男性に奪われるのではないかとHowardが警告しています。Example: She lost her husband to cancer."
+    },
+    {
+      "id": 36,
+      "value": "fancy guy",
+      "options": [
+        "空想的な男",
+        "派手な男",
+        "ハンサムな男",
+        "魅力的な男"
+      ],
+      "correctAnswer": "魅力的な男",
+      "explanation": "「fancy guy」は、魅力的で洗練された男性を指す口語的な表現です。ここでは、Priyaが他の魅力的な男性に惹かれる可能性をHowardが示唆しています。類似表現としては、charming guy, attractive manなどがあります。"
+    },
+    {
+      "id": 37,
+      "value": "grow up with",
+      "options": [
+        "成長する",
+        "一緒に育つ",
+        "克服する",
+        "忘れる"
+      ],
+      "correctAnswer": "一緒に育つ",
+      "explanation": "「grow up with」は、～と共に育つ、～に親しんで育つという意味です。ここでは、PriyaがKama Sutra coloring booksに親しんで育った男性に惹かれるかもしれないとHowardが言っています。Example: I grew up with a dog."
+    },
+    {
+      "id": 38,
+      "value": "chair lice",
+      "options": [
+        "椅子の染み",
+        "椅子のダニ",
+        "椅子のノミ",
+        "椅子のシラミ"
+      ],
+      "correctAnswer": "椅子のシラミ",
+      "explanation": "「chair lice」は、椅子に付着しているかもしれないシラミを指します。SheldonがPennyの椅子からシラミがうつったと思い込んでいる状況で使われています。"
+    },
+    {
+      "id": 39,
+      "value": "cavorting",
+      "options": [
+        "隠れる",
+        "騒ぐ",
+        "移動する",
+        "眠る"
+      ],
+      "correctAnswer": "騒ぐ",
+      "explanation": "「cavorting」は、陽気に飛び跳ねたり、ふざけたりする様子を表す動詞です。ここでは、シラミがSheldonの頭皮で騒いでいる様子を比喩的に表現しています。Example: The children were cavorting on the beach."
+    },
+    {
+      "id": 40,
+      "value": "fixate on",
+      "options": [
+        "修理する",
+        "固定する",
+        "夢中になる",
+        "忘れる"
+      ],
+      "correctAnswer": "夢中になる",
+      "explanation": "「fixate on」は、特定の考えや対象に異常なほど執着する、夢中になるという意味です。Sheldonが奇妙な考えに執着する傾向があることをLeonardが指摘しています。Example: He tends to fixate on details."
+    },
+    {
+      "id": 41,
+      "value": "blow it way out of proportion",
+      "options": [
+        "大きくする",
+        "小さくする",
+        "冷静になる",
+        "大げさに考える"
+      ],
+      "correctAnswer": "大げさに考える",
+      "explanation": "「blow it way out of proportion」は、物事を非常に大げさに捉える、誇張するという意味です。Sheldonが問題を誇張する傾向があることをLeonardが指摘しています。Example: Don't blow things out of proportion."
+    },
+    {
+      "id": 42,
+      "value": "doodles",
+      "options": [
+        "落書き",
+        "暗号",
+        "秘密",
+        "冗談"
+      ],
+      "correctAnswer": "落書き",
+      "explanation": "「doodles」は、何気なく描いた落書きやいたずら書きを意味します。ここでは、Sheldonの落書きが北朝鮮のスパイに盗まれていると思い込んでいるという状況で使われています。Example: He filled the notebook with doodles."
+    },
+    {
+      "id": 43,
+      "value": "Yello",
+      "options": [
+        "黄色",
+        "こんにちは",
+        "さようなら",
+        "返事がない"
+      ],
+      "correctAnswer": "こんにちは",
+      "explanation": "「Yello」は、「Hello」をくだけた口語的な発音で表現したものです。Pennyがドアを開けてSheldonに応対する際に使っています。"
+    },
+    {
+      "id": 44,
+      "value": "health hazard",
+      "options": [
+        "健康保険",
+        "健康診断",
+        "健康リスク",
+        "健康被害"
+      ],
+      "correctAnswer": "健康リスク",
+      "explanation": "「health hazard」は、健康に悪影響を及ぼす可能性のあるもの、健康リスクを意味します。ここでは、SheldonがPennyの椅子を健康リスクだと主張しています。Example: Smoking is a serious health hazard."
+    },
+    {
+      "id": 45,
+      "value": "fumigated",
+      "options": [
+        "掃除する",
+        "燻蒸消毒する",
+        "修理する",
+        "飾る"
+      ],
+      "correctAnswer": "燻蒸消毒する",
+      "explanation": "「fumigated」は、fumigateの過去形で、ガスや煙を使って殺虫・消毒することを意味します。Pennyが椅子のクッションを燻蒸消毒したと述べています。Example: The house was fumigated to get rid of termites."
+    },
+    {
+      "id": 46,
+      "value": "reassuring",
+      "options": [
+        "不快な",
+        "退屈な",
+        "安心させる",
+        "危険な"
+      ],
+      "correctAnswer": "安心させる",
+      "explanation": "「reassuring」は、安心感を与える、心強くさせるという意味です。ここでは、椅子の強い化学物質の匂いがSheldonに安心感を与えているという皮肉な状況を表しています。Example: It's reassuring to know that help is available."
+    },
+    {
+      "id": 47,
+      "value": "overreacted",
+      "options": [
+        "反応しない",
+        "過剰に反応する",
+        "冷静に対応する",
+        "予測する"
+      ],
+      "correctAnswer": "過剰に反応する",
+      "explanation": "「overreacted」は、overreactの過去形で、過剰に反応する、取り乱すという意味です。PennyがSheldonに、椅子の問題について過剰反応したのではないかと問いかけています。Example: I think you overreacted to the situation."
+    },
+    {
+      "id": 48,
+      "value": "What's up, buttercup?",
+      "options": [
+        "どうしたの？",
+        "何が起きたの？",
+        "元気ですか？",
+        "何か問題でも？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up, buttercup?」は、親しい間柄で使われる「どうしたの？」という意味の口語的な挨拶です。「buttercup」は、親愛の情を込めた呼びかけで、相手をかわいらしく思う気持ちを表します。"
+    },
+    {
+      "id": 49,
+      "value": "What's the word, hummingbird?",
+      "options": [
+        "何かニュースある？",
+        "元気にしてる？",
+        "何か問題でも？",
+        "何か言いたいことある？"
+      ],
+      "correctAnswer": "何かニュースある？",
+      "explanation": "「What's the word, hummingbird?」は、「何かニュースある？」「何か変わったことあった？」という意味の口語的な挨拶です。「hummingbird」は、ここでも親愛の情を込めた呼びかけとして使われています。"
+    },
+    {
+      "id": 50,
+      "value": "What's the gist, physicist?",
+      "options": [
+        "要するに何？",
+        "物理学的にどうなの？",
+        "何か問題でも？",
+        "何を研究してるの？"
+      ],
+      "correctAnswer": "要するに何？",
+      "explanation": "「What's the gist, physicist?」は、「要するに何が言いたいんだ？」「何が問題なんだ？」という意味の口語的な表現です。「gist」は要点、要旨という意味で、「physicist」はSheldonが物理学者であることから使われています。"
+    },
+    {
+      "id": 51,
+      "value": "jump right in",
+      "options": [
+        "遠回りをする",
+        "ためらう",
+        "すぐに始める",
+        "急いで立ち去る"
+      ],
+      "correctAnswer": "すぐに始める",
+      "explanation": "「jump right in」は、ためらわずにすぐに始める、積極的に参加するという意味です。会話や活動にすぐに加わる状況で使われます。例：Let's jump right in and start the meeting. (すぐに始めて会議を始めましょう。)"
+    },
+    {
+      "id": 52,
+      "value": "naughty",
+      "options": [
+        "行儀が良い",
+        "いたずら好きの",
+        "退屈な",
+        "正直な"
+      ],
+      "correctAnswer": "いたずら好きの",
+      "explanation": "「naughty」は、いたずら好き、わんぱく、または性的な意味合いで「いたずらっぽい」という意味も持ちます。ここでは性的なニュアンスを含んでいます。例：The naughty children were always playing pranks. (いたずら好きな子供たちはいつも悪ふざけをしていた。)"
+    },
+    {
+      "id": 53,
+      "value": "revolting",
+      "options": [
+        "魅力的な",
+        "反抗的な",
+        "嫌悪感を抱かせる",
+        "解決する"
+      ],
+      "correctAnswer": "嫌悪感を抱かせる",
+      "explanation": "「revolting」は、非常に不快で嫌悪感を抱かせるという意味です。強い嫌悪感や吐き気を催すような状況を表します。例：The smell was absolutely revolting. (その匂いは全くもって吐き気を催すものだった。)"
+    },
+    {
+      "id": 54,
+      "value": "give me five minutes",
+      "options": [
+        "5分あげる",
+        "5分待つ",
+        "5分時間をください",
+        "5分で終わらせる"
+      ],
+      "correctAnswer": "5分時間をください",
+      "explanation": "「give me five minutes」は、文字通りには「私に5分を与える」ですが、実際には「5分時間をください」という意味で使われます。何かをするために少し時間が必要な時に使います。例：Give me five minutes to finish this email. (このメールを終わらせるのに5分ください。)"
+    },
+    {
+      "id": 55,
+      "value": "All rightie",
+      "options": [
+        "承知しました",
+        "元気ですか",
+        "右",
+        "全部正しい"
+      ],
+      "correctAnswer": "承知しました",
+      "explanation": "「All rightie」は、「All right」をよりくだけた、またはふざけた言い方です。承知した、了解したという意味合いで使われます。例：All rightie, let's get started! (よし、始めよう！)"
+    },
+    {
+      "id": 56,
+      "value": "Ta-da",
+      "options": [
+        "さようなら",
+        "おやすみ",
+        "ジャーン",
+        "ありがとう"
+      ],
+      "correctAnswer": "ジャーン",
+      "explanation": "「Ta-da」は、何かを披露する時や、サプライズを見せる時に使われる感嘆詞です。「ジャーン！」というニュアンスで、注目を集めるために使われます。例：Ta-da! I finished the project! (ジャーン！プロジェクトが終わった！)"
+    },
+    {
+      "id": 57,
+      "value": "bugs out",
+      "options": [
+        "虫が出てくる",
+        "うまくいく",
+        "故障する",
+        "落ち着く"
+      ],
+      "correctAnswer": "故障する",
+      "explanation": "「bug out」は、機械やシステムが故障する、または人が取り乱すという意味です。ここでは、コンピュータ画面が故障する様子を表しています。例：The computer bugged out right before my presentation. (プレゼンテーションの直前にコンピュータが故障した。)"
+    },
+    {
+      "id": 58,
+      "value": "damn it",
+      "options": [
+        "頑張って",
+        "やった",
+        "くそ",
+        "おめでとう"
+      ],
+      "correctAnswer": "くそ",
+      "explanation": "「damn it」は、苛立ちや不満を表す時に使われる言葉です。「くそ」「ちくしょう」といったニュアンスで、軽い怒りや失望を表します。例：Damn it, I missed the train! (くそ、電車に乗り遅れた！)"
+    },
+    {
+      "id": 59,
+      "value": "buffering",
+      "options": [
+        "磨く",
+        "一時停止",
+        "データを一時的に保存する",
+        "急ぐ"
+      ],
+      "correctAnswer": "データを一時的に保存する",
+      "explanation": "「buffering」は、動画や音声データを再生する際に、データを一時的に保存してスムーズな再生を可能にする処理のことです。インターネット回線が遅い時によく発生します。例：The video is buffering because the internet connection is slow. (インターネット回線が遅いので、動画がバッファリングしている。)"
+    },
+    {
+      "id": 60,
+      "value": "hogging the bandwidth",
+      "options": [
+        "帯域を節約する",
+        "帯域を独占する",
+        "帯域を共有する",
+        "帯域を増やす"
+      ],
+      "correctAnswer": "帯域を独占する",
+      "explanation": "「hogging the bandwidth」は、ネットワークの帯域を独占する、つまり他の人が利用できる帯域を過剰に使用しているという意味です。例：Please stop hogging the bandwidth, I need to send an email. (帯域を独占するのはやめてください。メールを送る必要があります。)"
+    },
+    {
+      "id": 61,
+      "value": "self-abuse",
+      "options": [
+        "自己啓発",
+        "自己虐待",
+        "自己満足",
+        "自己防衛"
+      ],
+      "correctAnswer": "自己虐待",
+      "explanation": "「self-abuse」は、通常、自慰行為を指す婉曲表現です。ここでは、シェルドンがレオナルドの行為を批判的に表現するために使用しています。例：His self-abuse was getting out of hand.（彼の自慰行為は手に負えなくなっていた。）"
+    },
+    {
+      "id": 62,
+      "value": "symptomatic of",
+      "options": [
+        "原因となる",
+        "解決策となる",
+        "兆候である",
+        "関係がない"
+      ],
+      "correctAnswer": "兆候である",
+      "explanation": "「symptomatic of」は、～の兆候である、～を示すという意味です。ある症状や行動が、特定の状態や問題を指し示していることを表します。例：His behavior is symptomatic of a deeper problem. (彼の行動は、より深い問題の兆候である。)"
+    },
+    {
+      "id": 63,
+      "value": "obsessive compulsive disorder",
+      "options": [
+        "強迫性障害",
+        "注意欠陥多動性障害",
+        "自閉症スペクトラム障害",
+        "統合失調症"
+      ],
+      "correctAnswer": "強迫性障害",
+      "explanation": "「obsessive compulsive disorder (OCD)」は、強迫観念と強迫行為を特徴とする精神疾患です。強迫観念は繰り返し起こる不快な思考やイメージであり、強迫行為はそれらの不安を軽減するために行う行為です。例：She was diagnosed with obsessive compulsive disorder. (彼女は強迫性障害と診断された。)"
+    },
+    {
+      "id": 64,
+      "value": "besties",
+      "options": [
+        "最高の敵",
+        "昔の友人",
+        "最高の友人",
+        "ビジネスパートナー"
+      ],
+      "correctAnswer": "最高の友人",
+      "explanation": "「besties」は、「best friends」の略で、親しい友人、特に女性同士の親友を指すくだけた言葉です。例：They are besties and do everything together. (彼女たちは親友で、いつも一緒にいる。)"
+    },
+    {
+      "id": 65,
+      "value": "peas in a pod",
+      "options": [
+        "エンドウ豆が嫌い",
+        "非常に似ている",
+        "争っている",
+        "数が少ない"
+      ],
+      "correctAnswer": "非常に似ている",
+      "explanation": "「peas in a pod」は、非常に似ている、仲が良いという意味のイディオムです。外見や性格が似ている人々を指します。例：They are like two peas in a pod. (彼らはまるで二つのエンドウ豆のようにそっくりだ。)"
+    },
+    {
+      "id": 66,
+      "value": "jeopardizes the health and welfare",
+      "options": [
+        "健康と福祉を促進する",
+        "健康と福祉を危険にさらす",
+        "健康と福祉を無視する",
+        "健康と福祉を改善する"
+      ],
+      "correctAnswer": "健康と福祉を危険にさらす",
+      "explanation": "「jeopardize」は、危険にさらす、脅かすという意味です。「jeopardizes the health and welfare」は、健康と福祉を危険にさらすという意味になります。例：Smoking jeopardizes your health. (喫煙はあなたの健康を危険にさらす。)"
+    },
+    {
+      "id": 67,
+      "value": "provenance",
+      "options": [
+        "起源、出所",
+        "結果",
+        "目的",
+        "類似点"
+      ],
+      "correctAnswer": "起源、出所",
+      "explanation": "「provenance」は、起源、出所、由来という意味です。特に美術品や骨董品などの来歴を指すことが多いです。例：The museum is trying to determine the provenance of the artifact. (博物館はその工芸品の来歴を特定しようとしている。)"
+    },
+    {
+      "id": 68,
+      "value": "bordering on the psychotic",
+      "options": [
+        "精神病を克服する",
+        "精神病に近い",
+        "精神病を研究する",
+        "精神病を治療する"
+      ],
+      "correctAnswer": "精神病に近い",
+      "explanation": "「bordering on the psychotic」は、精神病に近い、ほとんど狂っているという意味です。極端な状態や行動を指す時に使われます。例：His obsession with cleanliness was bordering on the psychotic. (彼の潔癖症はほとんど狂気の沙汰だった。)"
+    },
+    {
+      "id": 69,
+      "value": "name your price",
+      "options": [
+        "値段を下げてください",
+        "言い値を言ってください",
+        "無料です",
+        "値段は決まっています"
+      ],
+      "correctAnswer": "言い値を言ってください",
+      "explanation": "「name your price」は、言い値を言ってください、希望の金額を提示してくださいという意味です。交渉の場面で使われることが多いです。例：I really want this, name your price. (どうしてもこれが欲しい、言い値を言ってくれ。)"
+    },
+    {
+      "id": 70,
+      "value": "Never mind",
+      "options": [
+        "気にしないで",
+        "いつもありがとう",
+        "どういたしまして",
+        "お元気で"
+      ],
+      "correctAnswer": "気にしないで",
+      "explanation": "「Never mind」は、気にしないで、忘れてくださいという意味です。相手に何かを伝えるのをやめる時や、提案を取り下げる時に使います。例：Never mind, I'll do it myself. (気にしないで、自分でやるよ。)"
+    },
+    {
+      "id": 71,
+      "value": "jump right in",
+      "options": [
+        "遠回りをする",
+        "ためらう",
+        "すぐに始める",
+        "急いで立ち去る"
+      ],
+      "correctAnswer": "すぐに始める",
+      "explanation": "「jump right in」は、ためらわずにすぐに始める、積極的に参加するという意味です。会話や活動にすぐに加わる状況で使われます。例：Let's jump right in and start the meeting. (すぐに始めて会議を始めましょう。)"
+    },
+    {
+      "id": 72,
+      "value": "naughty",
+      "options": [
+        "行儀が良い",
+        "いたずら好きの",
+        "退屈な",
+        "正直な"
+      ],
+      "correctAnswer": "いたずら好きの",
+      "explanation": "「naughty」は、いたずら好き、わんぱく、または性的な意味合いで「いたずらっぽい」という意味も持ちます。ここでは性的なニュアンスを含んでいます。例：The naughty children were always playing pranks. (いたずら好きな子供たちはいつも悪ふざけをしていた。)"
+    },
+    {
+      "id": 73,
+      "value": "revolting",
+      "options": [
+        "魅力的な",
+        "反抗的な",
+        "嫌悪感を抱かせる",
+        "解決する"
+      ],
+      "correctAnswer": "嫌悪感を抱かせる",
+      "explanation": "「revolting」は、非常に不快で嫌悪感を抱かせるという意味です。強い嫌悪感や吐き気を催すような状況を表します。例：The smell was absolutely revolting. (その匂いは全くもって吐き気を催すものだった。)"
+    },
+    {
+      "id": 74,
+      "value": "give me five minutes",
+      "options": [
+        "5分あげる",
+        "5分待つ",
+        "5分時間をください",
+        "5分で終わらせる"
+      ],
+      "correctAnswer": "5分時間をください",
+      "explanation": "「give me five minutes」は、文字通りには「私に5分を与える」ですが、実際には「5分時間をください」という意味で使われます。何かをするために少し時間が必要な時に使います。例：Give me five minutes to finish this email. (このメールを終わらせるのに5分ください。)"
+    },
+    {
+      "id": 75,
+      "value": "All rightie",
+      "options": [
+        "承知しました",
+        "元気ですか",
+        "右",
+        "全部正しい"
+      ],
+      "correctAnswer": "承知しました",
+      "explanation": "「All rightie」は、「All right」をよりくだけた、またはふざけた言い方です。承知した、了解したという意味合いで使われます。例：All rightie, let's get started! (よし、始めよう！)"
+    },
+    {
+      "id": 76,
+      "value": "glissando",
+      "options": [
+        "ゆっくりと",
+        "滑らかに",
+        "激しく",
+        "正確に"
+      ],
+      "correctAnswer": "滑らかに",
+      "explanation": "「glissando」は、ある音から別の音へ滑るように連続的に音を出す演奏技法を指します。主に弦楽器や鍵盤楽器で使用されます。音楽的な文脈で使用される専門用語です。"
+    },
+    {
+      "id": 77,
+      "value": "simulate",
+      "options": [
+        "単純化する",
+        "模倣する",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "模倣する",
+      "explanation": "「simulate」は、何かの動作や状況を模倣・再現することを意味します。科学技術の分野で、実験や研究のために現実のシステムを模倣する際に使われることが多いです。ここでは、人間の口の動きを模倣するデバイスについて述べています。"
+    },
+    {
+      "id": 78,
+      "value": "lifelike",
+      "options": [
+        "人生のような",
+        "不気味な",
+        "本物そっくりな",
+        "退屈な"
+      ],
+      "correctAnswer": "本物そっくりな",
+      "explanation": "「lifelike」は、生きているかのようにリアルで、本物そっくりであることを意味します。美術、ロボット工学、その他、現実感を追求する分野でよく使用されます。ここでは、キスをシミュレートするデバイスの感触が本物そっくりであることを表現しています。"
+    },
+    {
+      "id": 79,
+      "value": "nibbled",
+      "options": [
+        "貪り食う",
+        "かじる",
+        "吐き出す",
+        "飲み込む"
+      ],
+      "correctAnswer": "かじる",
+      "explanation": "「nibble」は、少しずつかじる、軽く噛むという意味です。食べ物に対して使われることが多いですが、ここでは冗談めかして「軽く噛んだ」と表現しています。親愛の情や遊び心を示すニュアンスが含まれます。"
+    },
+    {
+      "id": 80,
+      "value": "ensemble",
+      "options": [
+        "集団",
+        "不調和",
+        "アンサンブル",
+        "全体的なまとまり"
+      ],
+      "correctAnswer": "全体的なまとまり",
+      "explanation": "「ensemble」は、ここでは服装一式、特にコーディネートされた衣服のセットを指します。ファッション業界でよく使われる言葉で、個々のアイテムが組み合わさって一つのスタイルを形成していることを意味します。"
+    },
+    {
+      "id": 81,
+      "value": "crappy",
+      "options": [
+        "最高の",
+        "価値のある",
+        "ひどい",
+        "面白い"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「crappy」は、くだけた言い方で、品質が悪い、不快な、または価値がないという意味です。ここでは、相手の行動を非難する際に使われています。よりフォーマルな言葉としては「terrible」や「awful」があります。"
+    },
+    {
+      "id": 82,
+      "value": "manipulate",
+      "options": [
+        "操作する",
+        "尊敬する",
+        "無視する",
+        "信頼する"
+      ],
+      "correctAnswer": "操作する",
+      "explanation": "「manipulate」は、人を操る、または状況を都合の良いように操作することを意味します。しばしば否定的な意味合いで使用され、ずる賢さや不正直さを示唆します。ここでは、SheldonがAmyを操ってPennyに影響を与えようとしたことを非難しています。"
+    },
+    {
+      "id": 83,
+      "value": "take it all back",
+      "options": [
+        "全てを受け入れる",
+        "全てを取り消す",
+        "全てを忘れる",
+        "全てを改善する"
+      ],
+      "correctAnswer": "全てを取り消す",
+      "explanation": "「take it all back」は、以前に言ったことや行ったことを全て撤回するという意味です。謝罪や後悔の気持ちを示す際に使われます。ここでは、AmyがPennyの気を引くために、先ほどの発言を取り消すことを示しています。"
+    },
+    {
+      "id": 84,
+      "value": "tushy",
+      "options": [
+        "頭",
+        "足",
+        "お尻",
+        "手"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "「tushy」は、幼児語または軽い口語で「お尻」を意味します。フォーマルな場面では使用されませんが、親しい間柄やユーモラスな状況で使われることがあります。ここでは、椅子に何かいることを婉曲的に表現しています。"
+    },
+    {
+      "id": 85,
+      "value": "figured this thing out",
+      "options": [
+        "理解した",
+        "無視した",
+        "複雑にした",
+        "隠した"
+      ],
+      "correctAnswer": "理解した",
+      "explanation": "「figure something out」は、何かを理解する、解決策を見つけるという意味です。問題や謎を解明する際に使われます。ここでは、Leonardが長距離恋愛の問題を解決する手段を見つけたと述べています。"
+    },
+    {
+      "id": 86,
+      "value": "wind up",
+      "options": [
+        "終わらせる",
+        "出発する",
+        "到着する",
+        "結局～になる"
+      ],
+      "correctAnswer": "結局～になる",
+      "explanation": "「wind up」は「最終的に〜になる」という意味で、意図したわけではない結果になることを表します。ここでは、もしその椅子がシェルドンとレナードのアパートにあれば、自分がいつも床に座る羽目にならずに済むのに、という状況を表しています。"
+    },
+    {
+      "id": 87,
+      "value": "overuse",
+      "options": [
+        "過小評価",
+        "過剰使用",
+        "不適切使用",
+        "誤用"
+      ],
+      "correctAnswer": "過剰使用",
+      "explanation": "「overuse」は、過度に使用すること、使いすぎを意味します。資源、技術、またはここでは楽器の音など、何かが頻繁に使われすぎている状況を指します。Sheldonは、クラシックなテレビ番組でハープが多用されることに不満を感じています。"
+    },
+    {
+      "id": 88,
+      "value": "transmit",
+      "options": [
+        "遮断する",
+        "送信する",
+        "受信する",
+        "翻訳する"
+      ],
+      "correctAnswer": "送信する",
+      "explanation": "「transmit」は、情報をある場所から別の場所へ送る、伝達することを意味します。科学技術の分野でよく使用され、信号、データ、またはメッセージを送る際に使われます。ここでは、キスをする際の動きがインドにいるPriyaに伝送されることを説明しています。"
+    },
+    {
+      "id": 89,
+      "value": "activate",
+      "options": [
+        "非活性化する",
+        "活性化する",
+        "無視する",
+        "遅延させる"
+      ],
+      "correctAnswer": "活性化する",
+      "explanation": "「activate」は、何かを作動させる、機能を有効にすることを意味します。機械やシステムが特定の動作を開始するために必要な操作を指します。ここでは、モーションセンサーを作動させるために舌を使う必要があると説明しています。"
+    },
+    {
+      "id": 90,
+      "value": "get your tongue in there",
+      "options": [
+        "舌を隠す",
+        "舌を出す",
+        "舌を引っ込める",
+        "舌を動かす"
+      ],
+      "correctAnswer": "舌を出す",
+      "explanation": "「get your tongue in there」は、より積極的に舌を使うことを促す口語的な表現です。ここでは、キスをシミュレートするデバイスをより効果的に使うために、舌を深く入れるように指示しています。性的なニュアンスを含みます。"
+    },
+    {
+      "id": 91,
+      "value": "French it",
+      "options": [
+        "英語で話す",
+        "隠す",
+        "フランス風にする",
+        "忘れる"
+      ],
+      "correctAnswer": "フランス風にする",
+      "explanation": "「French kiss」は、舌を使ったキスを意味する一般的な表現です。「French it」は、そのようにキスをするように促す口語的な言い方です。ロマンチックな状況や親密な関係で使われます。"
+    },
+    {
+      "id": 92,
+      "value": "I'm impressed",
+      "options": [
+        "がっかりした",
+        "感動した",
+        "混乱した",
+        "退屈した"
+      ],
+      "correctAnswer": "感動した",
+      "explanation": "「I'm impressed」は、何かに感銘を受けた、素晴らしいと感じた時に使われる表現です。相手の技術や能力、または物事の品質を評価する際に用いられます。ここでは、Rajがデバイスのリアルさに感心していることを表しています。"
+    },
+    {
+      "id": 93,
+      "value": "playful",
+      "options": [
+        "まじめな",
+        "遊び心のある",
+        "怒っている",
+        "悲しい"
+      ],
+      "correctAnswer": "遊び心のある",
+      "explanation": "「playful」は、遊び好きな、ふざけた、または楽しいことを好む様子を表します。ここでは、RajがHowardの舌を軽く噛んだ行為を、遊び心からだと弁解しています。親愛の情や軽いいたずらを意味することがあります。"
+    },
+    {
+      "id": 94,
+      "value": "bargain",
+      "options": [
+        "贈り物",
+        "高価なもの",
+        "掘り出し物",
+        "不要品"
+      ],
+      "correctAnswer": "掘り出し物",
+      "explanation": "「bargain」は、お得な買い物、掘り出し物を意味します。通常よりも安い価格で手に入れたものや、価値が高いものを指します。AmyがPennyの椅子を「bargain」と表現することで、その価値を認めています。"
+    },
+    {
+      "id": 95,
+      "value": "leopard-spotted",
+      "options": [
+        "水玉模様",
+        "ストライプ模様",
+        "ヒョウ柄",
+        "無地"
+      ],
+      "correctAnswer": "ヒョウ柄",
+      "explanation": "「leopard-spotted」は、ヒョウの斑点模様があることを意味します。ファッションやデザインの分野でよく使われ、大胆でエキゾチックなイメージを表現します。ここでは、Amyが自分の下着の柄について言及しています。"
+    },
+    {
+      "id": 96,
+      "value": "unhygienic",
+      "options": [
+        "清潔な",
+        "不潔な",
+        "安全な",
+        "快適な"
+      ],
+      "correctAnswer": "不潔な",
+      "explanation": "「unhygienic」は、非衛生的である、不潔であることを意味します。健康に悪影響を及ぼす可能性のある状態を指します。AmyがPennyの椅子について心配しているのは、それが清潔でない可能性があるからです。"
+    },
+    {
+      "id": 97,
+      "value": "put you up to this",
+      "options": [
+        "あなたを支持する",
+        "あなたをけしかける",
+        "あなたを無視する",
+        "あなたを助ける"
+      ],
+      "correctAnswer": "あなたをけしかける",
+      "explanation": "「put someone up to something」は、人に何かをするようにけしかける、そそのかすという意味です。しばしば、人が通常はしないようなこと、または悪いことをするように仕向ける場合に使われます。PennyはSheldonがAmyを操って自分を試していると考えています。"
+    },
+    {
+      "id": 98,
+      "value": "swear",
+      "options": [
+        "提案する",
+        "誓う",
+        "疑う",
+        "拒否する"
+      ],
+      "correctAnswer": "誓う",
+      "explanation": "「swear」は、誓う、約束するという意味です。真実を述べること、または何かを必ず行うことを約束する際に使われます。ここでは、PennyがAmyにSheldonに何があったかを話さないように誓わせています。"
+    },
+    {
+      "id": 99,
+      "value": "say my name",
+      "options": [
+        "名前を忘れる",
+        "名前を呼ぶ",
+        "名前を隠す",
+        "名前を軽蔑する"
+      ],
+      "correctAnswer": "名前を呼ぶ",
+      "explanation": "「say my name」は、相手に自分の名前を呼んでほしいという要求です。しばしば親密な状況や感情的な瞬間に使われ、相手への欲求や愛情を表現します。ここでは、LeonardがPriyaに自分の名前を呼んでほしいと求めています。"
+    },
+    {
+      "id": 100,
+      "value": "terrific",
+      "options": [
+        "ひどい",
+        "素晴らしい",
+        "普通の",
+        "つまらない"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、素晴らしい、非常に良いという意味です。肯定的な感情や賞賛を表す際に使われます。Rajは捨てられている椅子を「terrific chair」と表現し、その価値を高く評価しています。"
+    }
+  ]
+}

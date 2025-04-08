@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "on topic",
+      "options": [
+        "話題からずれている",
+        "話題に沿っている",
+        "問題が発生している",
+        "準備ができている"
+      ],
+      "correctAnswer": "話題に沿っている",
+      "explanation": "「on topic」は、話題やテーマに沿っている、関連しているという意味です。会話や議論が特定の主題から逸脱していないことを示します。例：His comments were right on topic. (彼のコメントはまさに話題に沿っていた。)"
+    },
+    {
+      "id": 2,
+      "value": "affirmative action hire",
+      "options": [
+        "成果主義の人事",
+        "縁故採用",
+        "逆差別採用",
+        "通常の採用"
+      ],
+      "correctAnswer": "逆差別採用",
+      "explanation": "「affirmative action hire」は、少数派グループ（人種、民族、性別など）の雇用を促進するための積極的差別是正措置（アファーマティブ・アクション）に基づいて採用された人を指します。この文脈では、SheldonがShe-Hulkを皮肉って、能力ではなくアファーマティブ・アクションによって採用されたのではないかと疑っていることを示唆しています。"
+    },
+    {
+      "id": 3,
+      "value": "up to",
+      "options": [
+        "乗り気でない",
+        "準備ができている",
+        "反対している",
+        "興味がない"
+      ],
+      "correctAnswer": "乗り気でない",
+      "explanation": "「up to」は、ここでは「～する気がある」「～するのに適している」という意味で使用されています。否定形「not up to」で、「～する気がない」「～するのに適していない」という意味になります。例：I'm not up to going out tonight. (今夜は出かける気分じゃない。)"
+    },
+    {
+      "id": 4,
+      "value": "parlour games",
+      "options": [
+        "スポーツ",
+        "伝統的な室内遊戯",
+        "カードゲーム",
+        "テレビゲーム"
+      ],
+      "correctAnswer": "伝統的な室内遊戯",
+      "explanation": "「parlour games」は、昔ながらの室内遊戯、特に社交の場で楽しまれるゲームを指します。例：Charades is a classic parlour game. (ジェスチャーゲームは古典的な室内遊戯です。)"
+    },
+    {
+      "id": 5,
+      "value": "figgy pudding",
+      "options": [
+        "チョコレートケーキ",
+        "イチジク入りプリン",
+        "アップルパイ",
+        "チーズケーキ"
+      ],
+      "correctAnswer": "イチジク入りプリン",
+      "explanation": "「figgy pudding」は、クリスマスに食べられる伝統的なイギリスのプディングで、ドライフルーツ（特にイチジク）やスパイスが含まれています。通常、ブランデーバターやカスタードソースをかけて食べます。"
+    },
+    {
+      "id": 6,
+      "value": "Tom Hanks-giving",
+      "options": [
+        "クリスマスのイベント",
+        "感謝祭のイベント",
+        "映画鑑賞会",
+        "誕生日パーティー"
+      ],
+      "correctAnswer": "感謝祭のイベント",
+      "explanation": "「Tom Hanks-giving」は、Rajが企画した、トム・ハンクスの映画をテーマにした感謝祭のイベント。Tom HanksとThanksgivingをかけたジョークです。"
+    },
+    {
+      "id": 7,
+      "value": "check it out",
+      "options": [
+        "確認してください",
+        "調べてください",
+        "見てください",
+        "修理してください"
+      ],
+      "correctAnswer": "見てください",
+      "explanation": "「check it out」は、何かを見たり、注意を払ったりするように促す口語的な表現です。例：Check out my new car! (僕の新しい車を見て！)"
+    },
+    {
+      "id": 8,
+      "value": "array of",
+      "options": [
+        "不足",
+        "種類",
+        "配列",
+        "大量"
+      ],
+      "correctAnswer": "大量",
+      "explanation": "「array of」は、たくさんの～、ずらりと並んだ～という意味です。例：There was an array of desserts at the buffet. (ビュッフェにはたくさんのデザートがあった。)"
+    },
+    {
+      "id": 9,
+      "value": "trip over",
+      "options": [
+        "つまづく",
+        "無視する",
+        "楽しむ",
+        "避ける"
+      ],
+      "correctAnswer": "つまづく",
+      "explanation": "「trip over」は、文字通りには「～につまづく」という意味ですが、ここでは「殺到する」という意味で使われています。女性が彼らに殺到するという比喩的な表現です。例：He tripped over a rock and fell. (彼は岩につまづいて転んだ。)"
+    },
+    {
+      "id": 10,
+      "value": "booty",
+      "options": [
+        "財産",
+        "略奪品",
+        "お尻",
+        "報酬"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "スラングで「booty」は、魅力的な女性や性的な魅力を指すことがあります。この文脈では、女性たちが彼らに群がるという比喩的な表現として使われています。"
+    },
+    {
+      "id": 11,
+      "value": "flying crap machine",
+      "options": [
+        "高性能な機械",
+        "役に立たない機械",
+        "汚いものの比喩",
+        "最新の航空機"
+      ],
+      "correctAnswer": "汚いものの比喩",
+      "explanation": "「flying crap machine」は、ここではハトを指すユーモラスな表現で、ハトが汚いものであることを強調しています。「crap」はくだけた言葉で、価値のないもの、質の悪いもの、または排泄物を意味します。"
+    },
+    {
+      "id": 12,
+      "value": "compromised",
+      "options": [
+        "改善した",
+        "侵害した",
+        "修理した",
+        "保護した"
+      ],
+      "correctAnswer": "侵害した",
+      "explanation": "「compromise」は、ここでは「～を危険にさらす」「～の質を低下させる」という意味で使用されています。清浄な環境が求められるクリーンルームにハトが入ったことで、機器が汚染され、実験結果に影響が出る可能性があることを指しています。例：The security of the system was compromised. (システムのセキュリティが侵害された。)"
+    },
+    {
+      "id": 13,
+      "value": "get any good ideas out of me",
+      "options": [
+        "私から良いアイデアを得る",
+        "私から悪いアイデアを得る",
+        "私から何も得られない",
+        "私にアイデアを与える"
+      ],
+      "correctAnswer": "私から良いアイデアを得る",
+      "explanation": "「get something out of someone」は、人から何かを引き出す、得るという意味のイディオムです。ここでは、怒鳴らないで落ち着いていれば、良いアイデアが出てくるかもしれないということをHowardが言っています。例：You won't get any information out of him if you shout. (怒鳴っても彼から何も情報を引き出せないよ。)"
+    },
+    {
+      "id": 14,
+      "value": "turning on each other",
+      "options": [
+        "お互いに協力する",
+        "お互いに非難し合う",
+        "お互いに助け合う",
+        "お互いに興味を持つ"
+      ],
+      "correctAnswer": "お互いに非難し合う",
+      "explanation": "「turn on each other」は、お互いに対立する、非難し合うという意味です。ここでは、ハトのせいでLeonardとHowardが言い争いになっている状況を指しています。例：When the project failed, the team members started turning on each other. (プロジェクトが失敗すると、チームメンバーはお互いを非難し始めた。)"
+    },
+    {
+      "id": 15,
+      "value": "rough",
+      "options": [
+        "簡単",
+        "快適",
+        "厳しい",
+        "短い"
+      ],
+      "correctAnswer": "厳しい",
+      "explanation": "「rough」は、ここでは「つらい」「大変」という意味で使用されています。長いフライトが肉体的、精神的にきつかったことを示唆しています。例：He's going through a rough time right now. (彼は今、つらい時期を過ごしている。)"
+    },
+    {
+      "id": 16,
+      "value": "transcontinental",
+      "options": [
+        "国内の",
+        "大陸横断の",
+        "海外の",
+        "近距離の"
+      ],
+      "correctAnswer": "大陸横断の",
+      "explanation": "「transcontinental」は、大陸を横断する、大陸間のという意味です。例：a transcontinental railroad (大陸横断鉄道)"
+    },
+    {
+      "id": 17,
+      "value": "grow to",
+      "options": [
+        "成長する",
+        "～になる",
+        "～を嫌いになる",
+        "～を好きになる"
+      ],
+      "correctAnswer": "～になる",
+      "explanation": "「grow to」は、徐々に～になる、～するようになるという意味です。時間とともに感情や状態が変化していくことを表します。例：I grew to like him over time. (私は時間とともに彼のことを好きになった。)"
+    },
+    {
+      "id": 18,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "元気ですか？",
+        "どこに行くの？",
+        "何をしているの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、相手に何かあったのか、何か問題が起きたのかを尋ねる時に使われる一般的な表現です。例：I got a call from the university, What's up?"
+    },
+    {
+      "id": 19,
+      "value": "give up",
+      "options": [
+        "あきらめる",
+        "続ける",
+        "始める",
+        "挑戦する"
+      ],
+      "correctAnswer": "あきらめる",
+      "explanation": "「give up」は、何かを断念する、あきらめるという意味です。努力をやめたり、希望を捨てる時に使われます。例：He gave up smoking. (彼はタバコをやめた。)"
+    },
+    {
+      "id": 20,
+      "value": "good luck",
+      "options": [
+        "幸運を祈る",
+        "頑張って",
+        "おめでとう",
+        "さようなら"
+      ],
+      "correctAnswer": "幸運を祈る",
+      "explanation": "「good luck」は、相手の成功を願う時に使われる一般的な表現です。困難な状況や挑戦に立ち向かう人に向けられます。例：Good luck on your exam! (試験頑張って！)"
+    },
+    {
+      "id": 21,
+      "value": "multi-wire detector",
+      "options": [
+        "金属探知機",
+        "宇宙粒子の検出器",
+        "盗聴器",
+        "監視カメラ"
+      ],
+      "correctAnswer": "宇宙粒子の検出器",
+      "explanation": "「multi-wire detector」は、複数のワイヤーを使用して宇宙からの粒子を検出する装置です。科学研究で使用されます。"
+    },
+    {
+      "id": 22,
+      "value": "allergies",
+      "options": [
+        "アレルギー",
+        "中毒",
+        "病気",
+        "怪我"
+      ],
+      "correctAnswer": "アレルギー",
+      "explanation": "「allergies」は、特定のものに対して体が過剰に反応する状態を指します。花粉症や食物アレルギーなどが一般的です。"
+    },
+    {
+      "id": 23,
+      "value": "shut the loading doors",
+      "options": [
+        "ドアを開ける",
+        "ドアを閉める",
+        "ドアを修理する",
+        "ドアを交換する"
+      ],
+      "correctAnswer": "ドアを閉める",
+      "explanation": "「shut」は「閉める」という意味です。ここでは、クリーンルームへの出入り口であるloading doorsを閉めることを指しています。"
+    },
+    {
+      "id": 24,
+      "value": "remain calm",
+      "options": [
+        "冷静を保つ",
+        "興奮する",
+        "怒る",
+        "泣く"
+      ],
+      "correctAnswer": "冷静を保つ",
+      "explanation": "「remain calm」は、落ち着いて冷静な状態を維持することを意味します。非常時や困難な状況で感情的にならないようにすることを指します。"
+    },
+    {
+      "id": 25,
+      "value": "Forgive me.",
+      "options": [
+        "許してください",
+        "ありがとう",
+        "こんにちは",
+        "さようなら"
+      ],
+      "correctAnswer": "許してください",
+      "explanation": "「Forgive me.」は、自分の過ちや失礼な言動を謝罪する際に使われる表現です。相手に許しを請う意味合いがあります。"
+    },
+    {
+      "id": 26,
+      "value": "clean out",
+      "options": [
+        "掃除する",
+        "使い果たす",
+        "片付ける",
+        "整理する"
+      ],
+      "correctAnswer": "使い果たす",
+      "explanation": "「clean out」は、文字通りには「掃除する」という意味ですが、ここでは銀行口座を「使い果たす」という意味で使われています。お金を全部使ってしまう、空にするというニュアンスです。例文：I cleaned out my savings account to buy a car. (車を買うために貯金を使い果たした。)"
+    },
+    {
+      "id": 27,
+      "value": "hang your stockings",
+      "options": [
+        "靴下を乾かす",
+        "靴下を隠す",
+        "靴下を飾る",
+        "靴下をつるす"
+      ],
+      "correctAnswer": "靴下をつるす",
+      "explanation": "クリスマスの時期に、サンタクロースがプレゼントを入れてくれるように、暖炉などにつるす靴下のことを指します。クリスマスの伝統的な習慣です。例文：The children hung their stockings by the fireplace with care. (子供たちは注意深く暖炉のそばに靴下をつるした。)"
+    },
+    {
+      "id": 28,
+      "value": "run Grandma over",
+      "options": [
+        "祖母を追い越す",
+        "祖母を轢く",
+        "祖母を避ける",
+        "祖母を助ける"
+      ],
+      "correctAnswer": "祖母を轢く",
+      "explanation": "文字通りの意味ですが、ここではサンタクロースが乱暴で破壊的なイメージで語られているため、比喩的な表現として使われています。例文：The drunk driver ran over a stop sign. (酔っ払い運転手が一時停止標識を轢いた。)"
+    },
+    {
+      "id": 29,
+      "value": "turn out to be",
+      "options": [
+        "判明する",
+        "参加する",
+        "断る",
+        "隠れる"
+      ],
+      "correctAnswer": "判明する",
+      "explanation": "「turn out to be」は、最終的に〜であることが判明するという意味です。予想外の結果や事実が明らかになる際に使われます。例文：The party turned out to be a lot of fun. (パーティーはとても楽しいものだと判明した。)"
+    },
+    {
+      "id": 30,
+      "value": "take into account",
+      "options": [
+        "考慮に入れる",
+        "無視する",
+        "隠す",
+        "非難する"
+      ],
+      "correctAnswer": "考慮に入れる",
+      "explanation": "「take into account」は、何かを決定する際に、特定の要素や事情を考慮に入れるという意味です。例文：We need to take the weather into account when planning the trip. (旅行の計画を立てる際には、天候を考慮に入れる必要がある。)"
+    },
+    {
+      "id": 31,
+      "value": "heinous",
+      "options": [
+        "素晴らしい",
+        "普通",
+        "ひどい",
+        "面白い"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「heinous」は、非常に悪質な、極悪非道なという意味です。犯罪や行為が道徳的に許されないほど酷い場合に用いられます。例文：A heinous crime was committed last night. (昨夜、凶悪な犯罪が発生した。)"
+    },
+    {
+      "id": 32,
+      "value": "walk me through",
+      "options": [
+        "散歩に連れて行く",
+        "説明してほしい",
+        "案内してほしい",
+        "無視してほしい"
+      ],
+      "correctAnswer": "説明してほしい",
+      "explanation": "「walk someone through」は、人に何かを段階的に説明する、手取り足取り教えるという意味です。複雑なプロセスや手順を理解させる際に使われます。例文：Can you walk me through the steps to install this software? (このソフトウェアのインストール手順を説明してもらえますか？)"
+    },
+    {
+      "id": 33,
+      "value": "implied",
+      "options": [
+        "明白な",
+        "暗黙の",
+        "複雑な",
+        "単純な"
+      ],
+      "correctAnswer": "暗黙の",
+      "explanation": "「implied」は、明示的には述べられていないが、当然のこととして理解されている、または暗示されているという意味です。例文：There was an implied agreement between them. (彼らの間には暗黙の合意があった。)"
+    },
+    {
+      "id": 34,
+      "value": "evil plot",
+      "options": [
+        "良い計画",
+        "普通の計画",
+        "悪い計画",
+        "秘密の計画"
+      ],
+      "correctAnswer": "悪い計画",
+      "explanation": "「evil plot」は、邪悪な計画、悪だくみという意味です。人を陥れたり、悪い結果をもたらすことを目的とした計画を指します。例文：The villain revealed his evil plot to take over the world. (悪役は世界征服の邪悪な計画を明らかにした。)"
+    },
+    {
+      "id": 35,
+      "value": "stay on my good side",
+      "options": [
+        "味方でいる",
+        "悪口を言う",
+        "無視する",
+        "邪魔をする"
+      ],
+      "correctAnswer": "味方でいる",
+      "explanation": "「stay on someone's good side」は、誰かの機嫌を損ねないようにする、良い関係を保つという意味です。例文：If you want to get a promotion, you need to stay on your boss's good side. (昇進したいなら、上司の機嫌を損ねないようにする必要がある。)"
+    },
+    {
+      "id": 36,
+      "value": "contaminated",
+      "options": [
+        "きれいになった",
+        "汚染された",
+        "修理された",
+        "改善された"
+      ],
+      "correctAnswer": "汚染された",
+      "explanation": "「contaminate」は汚染するという意味です。clean roomを汚染したという文脈で使われています。例文：The river was contaminated by industrial waste. (その川は産業廃棄物で汚染された。)"
+    },
+    {
+      "id": 37,
+      "value": "cover it up",
+      "options": [
+        "隠蔽する",
+        "明らかにする",
+        "修理する",
+        "無視する"
+      ],
+      "correctAnswer": "隠蔽する",
+      "explanation": "「cover up」は、過ちや不正などを隠蔽するという意味です。例文：The company tried to cover up the scandal. (その会社はスキャンダルを隠蔽しようとした。)"
+    },
+    {
+      "id": 38,
+      "value": "drove off with",
+      "options": [
+        "運転して逃げる",
+        "運転して近づく",
+        "運転を見送る",
+        "運転を教える"
+      ],
+      "correctAnswer": "運転して逃げる",
+      "explanation": "「drive off with」は、車で何かを持って逃げるという意味です。例文：He drove off with the stolen goods. (彼は盗品を持って車で逃げた。)"
+    },
+    {
+      "id": 39,
+      "value": "sound condescending",
+      "options": [
+        "謙遜に聞こえる",
+        "自慢げに聞こえる",
+        "馬鹿にするように聞こえる",
+        "丁寧に聞こえる"
+      ],
+      "correctAnswer": "馬鹿にするように聞こえる",
+      "explanation": "「condescending」は、見下すような、人を馬鹿にするような態度を表す形容詞です。例文：He spoke in a condescending tone. (彼は見下すような口調で話した。)"
+    },
+    {
+      "id": 40,
+      "value": "parlour games",
+      "options": [
+        "スポーツ",
+        "ボードゲーム",
+        "居間でするゲーム",
+        "テレビゲーム"
+      ],
+      "correctAnswer": "居間でするゲーム",
+      "explanation": "「parlour games」は、昔の家庭の居間などで楽しまれたゲームのことです。例文：They played parlour games to pass the time. (彼らは時間をつぶすために居間でするゲームをした。)"
+    },
+    {
+      "id": 41,
+      "value": "against my will",
+      "options": [
+        "喜んで",
+        "同意して",
+        "意思に反して",
+        "積極的に"
+      ],
+      "correctAnswer": "意思に反して",
+      "explanation": "「against one's will」は、本人の意思に反して、嫌々ながらという意味です。例文：He was forced to do it against his will. (彼は嫌々ながらそれをさせられた。)"
+    },
+    {
+      "id": 42,
+      "value": "mistletoe",
+      "options": [
+        "ツタ",
+        "ヤドリギ",
+        "ヒイラギ",
+        "モミの木"
+      ],
+      "correctAnswer": "ヤドリギ",
+      "explanation": "「mistletoe」は、クリスマスの飾りとして使われるヤドリギのことです。ヤドリギの下でキスをする習慣があります。例文：They kissed under the mistletoe. (彼らはヤドリギの下でキスをした。)"
+    },
+    {
+      "id": 43,
+      "value": "get this started",
+      "options": [
+        "これを終わらせる",
+        "これを始める",
+        "これを隠す",
+        "これを忘れる"
+      ],
+      "correctAnswer": "これを始める",
+      "explanation": "「get something started」は、何かを始める、始動させるという意味です。例文：Let's get the party started. (パーティーを始めよう。)"
+    },
+    {
+      "id": 44,
+      "value": "give you a call",
+      "options": [
+        "電話をかける",
+        "手紙を送る",
+        "会いに行く",
+        "メールを送る"
+      ],
+      "correctAnswer": "電話をかける",
+      "explanation": "「give someone a call」は、誰かに電話をかけるという意味です。例文：I'll give you a call tomorrow. (明日電話するね。)"
+    },
+    {
+      "id": 45,
+      "value": "Easy for you to say",
+      "options": [
+        "言うのは簡単だ",
+        "言うのが難しい",
+        "言うべきではない",
+        "言う必要はない"
+      ],
+      "correctAnswer": "言うのは簡単だ",
+      "explanation": "「Easy for you to say」は、あなたには簡単かもしれないけど、私には難しいという意味です。他人の状況を理解していない発言に対して反論する際に使われます。例文：Easy for you to say, you don't have to do the work. (あなたには簡単かもしれないけど、あなたは仕事をする必要がない。)"
+    },
+    {
+      "id": 46,
+      "value": "right down Santa Claus Lane",
+      "options": [
+        "サンタクロースレーンの真上",
+        "サンタクロースレーンの真下",
+        "サンタクロースレーンに沿って",
+        "サンタクロースレーンを外れて"
+      ],
+      "correctAnswer": "サンタクロースレーンに沿って",
+      "explanation": "「right down Santa Claus Lane」は、サンタクロースレーンに沿って、まっすぐにという意味です。クリスマスの歌の歌詞で、サンタクロースがやってくる様子を表しています。例文：We drove right down Main Street. (私たちはメインストリートをまっすぐ運転した。)"
+    },
+    {
+      "id": 47,
+      "value": "all his reindeer pulling on the reins",
+      "options": [
+        "トナカイが手綱を引く",
+        "トナカイが手綱を緩める",
+        "トナカイが手綱を噛む",
+        "トナカイが手綱を無視する"
+      ],
+      "correctAnswer": "トナカイが手綱を引く",
+      "explanation": "「reindeer pulling on the reins」は、トナカイが手綱を引いて、そりを引く様子を表しています。reinsは手綱のことです。例文：The horses were pulling on the reins, eager to start the race. (馬たちは手綱を引いて、レースの開始を待ち望んでいた。)"
+    },
+    {
+      "id": 48,
+      "value": "all is merry and bright",
+      "options": [
+        "全てが暗くて悲しい",
+        "全てが平和で静か",
+        "全てが陽気で明るい",
+        "全てが退屈でつまらない"
+      ],
+      "correctAnswer": "全てが陽気で明るい",
+      "explanation": "「all is merry and bright」は、全てが陽気で明るい、楽しいクリスマスの雰囲気を表す表現です。merryは陽気な、brightは明るいという意味です。例文：The Christmas decorations made the house merry and bright. (クリスマスの飾り付けが家を陽気で明るくした。)"
+    },
+    {
+      "id": 49,
+      "value": "Slim Jim",
+      "options": [
+        "高級チョコレート",
+        "スナック菓子",
+        "健康食品",
+        "オーガニック食品"
+      ],
+      "correctAnswer": "スナック菓子",
+      "explanation": "「Slim Jim」は、アメリカで人気のあるスナック菓子の名前です。乾燥ソーセージのようなものです。ここでは、ハワードが鳥を捕まえるための餌として使おうとしています。例文：He bought a Slim Jim at the gas station. (彼はガソリンスタンドでスリムジムを買った。)"
+    },
+    {
+      "id": 50,
+      "value": "stoned",
+      "options": [
+        "酔っ払った",
+        "賢い",
+        "麻薬でハイになった",
+        "疲れた"
+      ],
+      "correctAnswer": "麻薬でハイになった",
+      "explanation": "「stoned」は、麻薬やアルコールで酩酊している状態を表す俗語です。ここでは、もしハトが麻薬でハイになっていたら、スリムジムで捕まえられるかもしれないという冗談として使われています。例文：He was too stoned to drive. (彼はハイすぎて運転できなかった。)"
+    },
+    {
+      "id": 51,
+      "value": "push around",
+      "options": [
+        "尊敬する",
+        "言いなりにする",
+        "助け合う",
+        "無視する"
+      ],
+      "correctAnswer": "言いなりにする",
+      "explanation": "「push around」は、人を支配したり、いじめたり、自分の思い通りに動かそうとするという意味です。相手が弱い立場にある場合に、高圧的な態度で接することを指します。例：He doesn't like being pushed around by his boss. (彼は上司に言いなりにされるのが嫌いだ。)"
+    },
+    {
+      "id": 52,
+      "value": "stay out of it",
+      "options": [
+        "参加する",
+        "気にしない",
+        "干渉しない",
+        "手伝う"
+      ],
+      "correctAnswer": "干渉しない",
+      "explanation": "「stay out of it」は、ある事柄や問題に立ち入らないようにという意味です。口論や揉め事に対して「関わらないで」と伝える際によく使われます。例：This is a family matter, please stay out of it. (これは家族の問題なので、干渉しないでください。)"
+    },
+    {
+      "id": 53,
+      "value": "bad enough",
+      "options": [
+        "十分ではない",
+        "最悪だ",
+        "普通だ",
+        "改善の余地がある"
+      ],
+      "correctAnswer": "最悪だ",
+      "explanation": "「bad enough」は、すでに悪い状況がさらに悪化していることを強調する際に使われます。「～だけでも十分悪いのに」というニュアンスを含みます。例：It's bad enough that I lost my job, but now my car broke down too. (仕事を失っただけでも最悪なのに、今度は車まで壊れた。)"
+    },
+    {
+      "id": 54,
+      "value": "get the bird out",
+      "options": [
+        "鳥を捕まえる",
+        "鳥を逃がす",
+        "鳥を調理する",
+        "鳥を飼う"
+      ],
+      "correctAnswer": "鳥を逃がす",
+      "explanation": "この文脈では、文字通り「鳥を外に出す」という意味です。比喩的な意味合いは特にありませんが、状況を打開するために具体的な行動を取ることを促すニュアンスがあります。"
+    },
+    {
+      "id": 55,
+      "value": "come on",
+      "options": [
+        "頑張って",
+        "まさか",
+        "落ち着いて",
+        "おいで"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "「come on」は様々な意味を持ちますが、ここでは相手の発言に対する不信感や反論を表す「まさか」「冗談でしょう」という意味で使われています。例：Come on, you can't be serious! (まさか、本気じゃないでしょう！)"
+    },
+    {
+      "id": 56,
+      "value": "good enough",
+      "options": [
+        "十分良い",
+        "悪すぎる",
+        "普通だ",
+        "完璧だ"
+      ],
+      "correctAnswer": "十分良い",
+      "explanation": "「good enough」は、必要最低限の基準を満たしている、合格点であるという意味です。必ずしも最高ではないが、許容範囲内であることを示します。例：The presentation was good enough to get us the deal. (プレゼンテーションは取引を獲得するのに十分な出来だった。)"
+    },
+    {
+      "id": 57,
+      "value": "sparkle",
+      "options": [
+        "輝く",
+        "怒る",
+        "悲しむ",
+        "眠る"
+      ],
+      "correctAnswer": "輝く",
+      "explanation": "「sparkle」は、光を放つ、きらめくという意味ですが、比喩的に人の目や表情が活き活きとしている様子を表すこともできます。例：Her eyes sparkled with joy when she saw the gift. (彼女はプレゼントを見て、目を輝かせた。)"
+    },
+    {
+      "id": 58,
+      "value": "playing along",
+      "options": [
+        "演奏する",
+        "協力する",
+        "ふざける",
+        "邪魔する"
+      ],
+      "correctAnswer": "演奏する",
+      "explanation": "この文脈では、文字通り「一緒に演奏する」という意味ですが、比喩的に誰かの行動や考えに同調して、一緒に行動するという意味合いも持ちます。例：She was just playing along with his plan to see if it would work. (彼女は彼の計画がうまくいくかどうか確かめるために、協力していただけだ。)"
+    },
+    {
+      "id": 59,
+      "value": "worthless",
+      "options": [
+        "価値がない",
+        "価値がある",
+        "美しい",
+        "面白い"
+      ],
+      "correctAnswer": "価値がない",
+      "explanation": "「worthless」は、価値のない、役に立たないという意味です。物質的な価値だけでなく、精神的な価値や人の存在意義に対しても使われます。例：He felt worthless after losing his job. (彼は仕事を失って、自分が無価値だと感じた。)"
+    },
+    {
+      "id": 60,
+      "value": "throw theme parties",
+      "options": [
+        "テーマパーティーを企画する",
+        "テーマパーティーを嫌う",
+        "テーマパーティーを批判する",
+        "テーマパーティーを忘れる"
+      ],
+      "correctAnswer": "テーマパーティーを企画する",
+      "explanation": "「throw a party」は、パーティーを主催する、開催するという意味です。「theme party」と組み合わせることで、特定のテーマを設定したパーティーを企画・開催することを指します。例：She loves to throw theme parties for her friends. (彼女は友達のためにテーマパーティーを開くのが大好きだ。)"
+    },
+    {
+      "id": 61,
+      "value": "got to laugh at that",
+      "options": [
+        "笑うべきだ",
+        "悲しむべきだ",
+        "怒るべきだ",
+        "無視すべきだ"
+      ],
+      "correctAnswer": "笑うべきだ",
+      "explanation": "「got to」は「have got to」の省略形で、「～しなければならない」という意味の他に、「～すべきだ」という軽い義務や提案を表すこともあります。ここでは、「それについて笑うべきだ」という提案として使われています。例：It's a ridiculous situation, you've got to laugh at it. (それは馬鹿げた状況だ、笑うしかない。)"
+    },
+    {
+      "id": 62,
+      "value": "lap",
+      "options": [
+        "膝",
+        "腕",
+        "肩",
+        "頭"
+      ],
+      "correctAnswer": "膝",
+      "explanation": "「lap」は、座った時にできる太ももの上の部分、つまり「膝」を意味します。ここでは、サンタクロースの膝の上に座って写真を撮るという状況を表しています。例：The child sat on Santa's lap and told him what he wanted for Christmas. (子供はサンタの膝の上に座って、クリスマスに欲しいものを伝えた。)"
+    },
+    {
+      "id": 63,
+      "value": "punishment enough",
+      "options": [
+        "十分な報酬",
+        "十分な罰",
+        "十分な努力",
+        "十分な才能"
+      ],
+      "correctAnswer": "十分な罰",
+      "explanation": "「punishment enough」は、「～だけで十分な罰である」という意味です。ここでは、恋人と付き合っていること自体が既に罰のようなものだ、という冗談めかしたニュアンスで使われています。例：Living in this small town is punishment enough for my mistakes. (この小さな町に住むことは、私の過ちに対する十分な罰だ。)"
+    },
+    {
+      "id": 64,
+      "value": "count of three",
+      "options": [
+        "3数えたら",
+        "3人",
+        "3回",
+        "3数えること"
+      ],
+      "correctAnswer": "3数えたら",
+      "explanation": "「on the count of three」は、「3つ数えたら」「3数えたら同時に」という意味です。合図として、何かを始めるタイミングを合わせる際に使われます。例：On the count of three, everyone shout 'Happy New Year!' (3つ数えたら、みんなで「新年おめでとう！」と叫びましょう。)"
+    },
+    {
+      "id": 65,
+      "value": "airborne",
+      "options": [
+        "空中に",
+        "水中に",
+        "地上に",
+        "地下に"
+      ],
+      "correctAnswer": "空中に",
+      "explanation": "「airborne」は、空中に浮いている、飛行しているという意味です。ここでは、鳥を空中に飛ばすことを指しています。例：The plane was airborne within minutes. (飛行機は数分以内に離陸した。)"
+    },
+    {
+      "id": 66,
+      "value": "dummy",
+      "options": [
+        "賢い人",
+        "愚かな人",
+        "優しい人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "愚かな人",
+      "explanation": "「dummy」は、愚か者、まぬけという意味です。自分を謙遜して言う場合や、相手を侮辱する場合に使われます。例：Don't be a dummy, think before you act. (馬鹿なことをするな、行動する前に考えろ。)"
+    },
+    {
+      "id": 67,
+      "value": "handle something",
+      "options": [
+        "何かを扱う",
+        "何かを無視する",
+        "何かを隠す",
+        "何かを壊す"
+      ],
+      "correctAnswer": "何かを扱う",
+      "explanation": "「handle something」は、何かを扱う、処理する、管理するという意味です。ここでは、ブランケットを使って鳥を誘導するという作業をこなせるかどうかを問うています。例：Can you handle this project on your own? (このプロジェクトを一人で処理できますか？)"
+    },
+    {
+      "id": 68,
+      "value": "miss the blanket",
+      "options": [
+        "毛布が恋しい",
+        "毛布を避ける",
+        "毛布を忘れる",
+        "毛布を破る"
+      ],
+      "correctAnswer": "毛布が恋しい",
+      "explanation": "ここでは皮肉として使われています。以前は「自分は頭が悪いからブランケットの役割はできない」と言っていたハワードに対して、「今はブランケットの役割をやりたかったと思っているだろう」というニュアンスが含まれています。"
+    },
+    {
+      "id": 69,
+      "value": "accident",
+      "options": [
+        "事故",
+        "計画",
+        "成功",
+        "幸運"
+      ],
+      "correctAnswer": "事故",
+      "explanation": "「accident」は、意図せず起こってしまった出来事、事故という意味です。ここでは、誤って消火器を作動させてしまったことを指しています。例：It was an accident, I didn't mean to spill the coffee. (事故だった、コーヒーをこぼすつもりはなかった。)"
+    },
+    {
+      "id": 70,
+      "value": "stunned",
+      "options": [
+        "気絶した",
+        "喜んだ",
+        "怒った",
+        "悲しんだ"
+      ],
+      "correctAnswer": "気絶した",
+      "explanation": "「stunned」は、一時的に意識を失った、茫然自失としたという意味です。ここでは、鳥が消火器の噴射で一時的に意識を失った状態を指しています。例：He was stunned by the news of his friend's death. (彼は友人の死の知らせに茫然自失とした。)"
+    },
+    {
+      "id": 71,
+      "value": "not again",
+      "options": [
+        "まただ",
+        "初めてだ",
+        "もう一度",
+        "決してない"
+      ],
+      "correctAnswer": "まただ",
+      "explanation": "「not again」は、「またか」「二度とごめんだ」という意味です。過去に嫌な経験をしたことがあり、それが再び起こったことに対する不快感や落胆を表します。例：I failed the test again. Oh no, not again! (またテストに落ちた。ああ、まただ！)"
+    },
+    {
+      "id": 72,
+      "value": "bring it back to life",
+      "options": [
+        "生き返らせる",
+        "殺す",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "生き返らせる",
+      "explanation": "「bring someone/something back to life」は、人や動物、または物事を生き返らせる、復活させるという意味です。物理的に生き返らせるだけでなく、比喩的に以前の状態に戻すという意味でも使われます。例：The doctor tried to bring the patient back to life. (医者は患者を生き返らせようとした。)"
+    },
+    {
+      "id": 73,
+      "value": "caught on fire",
+      "options": [
+        "火がついた",
+        "消火した",
+        "濡れた",
+        "冷えた"
+      ],
+      "correctAnswer": "火がついた",
+      "explanation": "「catch on fire」は、火がつく、燃え始めるという意味です。予期せぬ事故や、燃えやすいものに火がつく状況を表します。例：The curtains caught on fire from the candle. (カーテンがろうそくの火で燃え始めた。)"
+    },
+    {
+      "id": 74,
+      "value": "do CPR",
+      "options": [
+        "心肺蘇生をする",
+        "料理をする",
+        "掃除をする",
+        "運動をする"
+      ],
+      "correctAnswer": "心肺蘇生をする",
+      "explanation": "「CPR」は、Cardiopulmonary Resuscitationの略で、心肺蘇生を意味します。「do CPR」は、心肺蘇生を行うという意味です。例：You need to know how to do CPR in case of an emergency. (緊急時に備えて、心肺蘇生の方法を知っておく必要があります。)"
+    },
+    {
+      "id": 75,
+      "value": "this is on me",
+      "options": [
+        "私のおごりだ",
+        "私の責任だ",
+        "私のものだ",
+        "私の秘密だ"
+      ],
+      "correctAnswer": "私の責任だ",
+      "explanation": "「This is on me」は、「これは私の責任だ」「私が負担する」という意味です。ここでは、鳥を死なせてしまったことに対する責任をHowardが表明しています。また、食事の場面などでは「私のおごりだ」という意味でも使われます。例：I broke the vase, this is on me. (私が花瓶を壊した、私の責任だ。)"
+    },
+    {
+      "id": 76,
+      "value": "mouth over beak",
+      "options": [
+        "口を閉じて",
+        "くちばしを覆って",
+        "くちばしに口を当てて",
+        "口を大きく開けて"
+      ],
+      "correctAnswer": "くちばしに口を当てて",
+      "explanation": "直訳すると「くちばしに口を当てる」。ここでは鳥に対して人工呼吸をする際の指示として使われています。通常は、人工呼吸の比喩的な表現や、ユーモラスな状況で使われることがあります。"
+    },
+    {
+      "id": 77,
+      "value": "pop him",
+      "options": [
+        "彼を助ける",
+        "彼を膨らませる",
+        "彼を破裂させる",
+        "彼を怒らせる"
+      ],
+      "correctAnswer": "彼を破裂させる",
+      "explanation": "ここでは鳥を指しており、人工呼吸で息を吹き込みすぎると破裂してしまう、という比喩的な表現です。口語的な表現で、深刻な状況よりも、軽い冗談やユーモラスな文脈で使われます。"
+    },
+    {
+      "id": 78,
+      "value": "take it",
+      "options": [
+        "それを受け取る",
+        "それを理解する",
+        "それを我慢する",
+        "それを認める"
+      ],
+      "correctAnswer": "それを認める",
+      "explanation": "ここでは、クリスマス・ミラクルという発言に対して、別の宗教的なイベント（ハヌカー）に例えつつも、奇跡として認める、という意味合いで使われています。「受け入れる」「認める」といった意味で広く使われるイディオムです。"
+    },
+    {
+      "id": 79,
+      "value": "compromised",
+      "options": [
+        "改善された",
+        "危険にさらされた",
+        "修理された",
+        "無視された"
+      ],
+      "correctAnswer": "危険にさらされた",
+      "explanation": "ここでは、鳥が部屋に入ったことで、部屋の無菌状態などが損なわれた、という意味合いで使われています。安全やセキュリティが損なわれる状況で使われることが多いです。"
+    },
+    {
+      "id": 80,
+      "value": "take the heat",
+      "options": [
+        "暖を取る",
+        "責任を負う",
+        "プレッシャーに耐える",
+        "注目を浴びる"
+      ],
+      "correctAnswer": "責任を負う",
+      "explanation": "「take the heat」は、非難や責任を一身に引き受けるという意味です。自分が矢面に立つ、という意味合いが含まれます。特に、間違いや問題が起きた際に、誰かが責任を取る状況で使われます。"
+    },
+    {
+      "id": 81,
+      "value": "leave me out of it",
+      "options": [
+        "私を仲間に入れる",
+        "私を無視する",
+        "私を許す",
+        "私を巻き込まないで"
+      ],
+      "correctAnswer": "私を巻き込まないで",
+      "explanation": "「leave me out of it」は、ある状況や問題から自分を除外してほしい、関わりたくないという意味を表します。面倒なことや責任を避けたい時に使われます。"
+    },
+    {
+      "id": 82,
+      "value": "erase",
+      "options": [
+        "強調する",
+        "追加する",
+        "消去する",
+        "交換する"
+      ],
+      "correctAnswer": "消去する",
+      "explanation": "ここでは、サインインシートから名前を消すという意味で使われています。物理的に消すだけでなく、記録や記憶から消すという意味でも使われます。"
+    },
+    {
+      "id": 83,
+      "value": "get exciting",
+      "options": [
+        "興奮する",
+        "退屈になる",
+        "落ち着く",
+        "面白くなる"
+      ],
+      "correctAnswer": "面白くなる",
+      "explanation": "ここでは、退屈な状況から一転して、何かが起こって面白くなった、という意味合いで使われています。「exciting」は、感情が高ぶるような、刺激的な状況を表します。"
+    },
+    {
+      "id": 84,
+      "value": "get in trouble",
+      "options": [
+        "困る",
+        "成功する",
+        "怒られる",
+        "助かる"
+      ],
+      "correctAnswer": "怒られる",
+      "explanation": "ここでは、規則を破ったことによって、後で叱られたり、問題になる可能性があることを示唆しています。「trouble」は、問題、困難、迷惑などを意味します。"
+    },
+    {
+      "id": 85,
+      "value": "touched",
+      "options": [
+        "触った",
+        "感動した",
+        "少しだけ食べた",
+        "壊した"
+      ],
+      "correctAnswer": "少しだけ食べた",
+      "explanation": "ここでは、料理をほとんど食べなかった、という意味で使われています。否定的な意味合いで、食事が進まなかったことを婉曲的に表現する際に用いられます。"
+    },
+    {
+      "id": 86,
+      "value": "Heimliched",
+      "options": [
+        "掃除した",
+        "料理した",
+        "ハイムリック法を行った",
+        "治療した"
+      ],
+      "correctAnswer": "ハイムリック法を行った",
+      "explanation": "「Heimlich」はハイムリック法（異物除去法）のことです。ここでは、ボールを飲み込んだAmyに対して、ハイムリック法でボールを取り除いた、という意味で使われています。"
+    },
+    {
+      "id": 87,
+      "value": "treasure",
+      "options": [
+        "無視する",
+        "隠す",
+        "大切にする",
+        "盗む"
+      ],
+      "correctAnswer": "大切にする",
+      "explanation": "ここでは、贈り物（録音）を大切にしてほしい、という意味で使われています。「treasure」は、貴重なもの、大切なものとして認識し、慈しむ気持ちを表します。"
+    },
+    {
+      "id": 88,
+      "value": "speak of",
+      "options": [
+        "話を聞く",
+        "話す",
+        "忘れる",
+        "理解する"
+      ],
+      "correctAnswer": "話す",
+      "explanation": "ここでは、「Let’s never speak of it again.」という文脈で、「二度とそのことについて話さないようにしよう」という意味合いで使われています。「言及する」「話題にする」という意味で使われます。"
+    },
+    {
+      "id": 89,
+      "value": "out of that box",
+      "options": [
+        "箱の外に",
+        "その箱から手を出す",
+        "箱を捨てる",
+        "箱を閉じる"
+      ],
+      "correctAnswer": "その箱から手を出す",
+      "explanation": "ここでは、クッキーが入った箱から手を出すな、という意味で使われています。所有物や領域に不用意に触れることに対する警告として使われます。"
+    },
+    {
+      "id": 90,
+      "value": "get cold",
+      "options": [
+        "冷たくなる",
+        "風邪をひく",
+        "忘れる",
+        "古くなる"
+      ],
+      "correctAnswer": "冷たくなる",
+      "explanation": "ここでは、料理が冷めてしまう前に早く戻ってきてほしい、という意味合いで使われています。比喩的に、機会や興味が失われる前に、という意味でも使われます。"
+    },
+    {
+      "id": 91,
+      "value": "argue",
+      "options": [
+        "同意する",
+        "議論する",
+        "無視する",
+        "提案する"
+      ],
+      "correctAnswer": "議論する",
+      "explanation": "ここでは、クリスマス・ミラクルという発言に対して、別の解釈（ハヌカー・ミラクル）を提示することで、議論の余地があることを示唆しています。「反対する」「異議を唱える」という意味合いも含まれます。"
+    },
+    {
+      "id": 92,
+      "value": "sign-in sheet",
+      "options": [
+        "楽譜",
+        "連絡網",
+        "サインインシート",
+        "秘密のメモ"
+      ],
+      "correctAnswer": "サインインシート",
+      "explanation": "入館や会議への参加を記録するための用紙のことです。名前、日付、時間などを記入することで、誰がいつどこにいたかを把握するために使用されます。"
+    },
+    {
+      "id": 93,
+      "value": "on Santa's lap",
+      "options": [
+        "サンタの帽子の上",
+        "サンタの隣",
+        "サンタの膝の上",
+        "サンタの家"
+      ],
+      "correctAnswer": "サンタの膝の上",
+      "explanation": "サンタクロースが子供を膝に乗せて写真を撮る、というクリスマスの伝統的な光景を指します。子供の頃の思い出や、クリスマスの象徴として用いられます。"
+    },
+    {
+      "id": 94,
+      "value": "good",
+      "options": [
+        "良い",
+        "十分",
+        "優しい",
+        "おいしい"
+      ],
+      "correctAnswer": "十分",
+      "explanation": "ここでは、ハイムリック法で助けてもらったことに対する感謝の気持ちと、もう十分手伝ってもらったから大丈夫、という意味合いで使われています。「充分」「結構」という意味で使われる口語的な表現です。"
+    },
+    {
+      "id": 95,
+      "value": "from the heart",
+      "options": [
+        "心臓から",
+        "心からの",
+        "感情的な",
+        "秘密の"
+      ],
+      "correctAnswer": "心からの",
+      "explanation": "ここでは、贈り物（写真）が心からの気持ちを込めて贈られたものであることを強調しています。「心から」「誠実に」という意味で、気持ちや行動が偽りなく、本心から出ていることを表します。"
+    },
+    {
+      "id": 96,
+      "value": "shut it down",
+      "options": [
+        "それを始める",
+        "それを閉じる",
+        "それを修理する",
+        "それを無視する"
+      ],
+      "correctAnswer": "それを閉じる",
+      "explanation": "ここでは、部屋を閉鎖し、機能を停止させるという意味で使われています。一時的または恒久的に停止させることを意味し、比喩的にも使われます。"
+    },
+    {
+      "id": 97,
+      "value": "to blame",
+      "options": [
+        "賞賛される",
+        "非難されるべき",
+        "感謝される",
+        "無視されるべき"
+      ],
+      "correctAnswer": "非難されるべき",
+      "explanation": "ここでは、鳥が部屋に入ったことに対する責任がある、という意味で使われています。「責任がある」「原因である」という意味で、否定的な結果や出来事の原因となった人や物を指します。"
+    },
+    {
+      "id": 98,
+      "value": "how about now?",
+      "options": [
+        "今すぐどう?",
+        "今はどう思う?",
+        "どうすればいい?",
+        "どうなってるの?"
+      ],
+      "correctAnswer": "今はどう思う?",
+      "explanation": "相手の感情や考えが、状況の変化によってどう変わったか尋ねる際に使われる表現です。ここでは、贈り物（自分の録音）を渡した後に、エイミーの感情がどう変化したかを確認するために使われています。"
+    },
+    {
+      "id": 99,
+      "value": "that's that",
+      "options": [
+        "それはそれ",
+        "それは素晴らしい",
+        "それは簡単だ",
+        "それは終わった"
+      ],
+      "correctAnswer": "それは終わった",
+      "explanation": "何かが完了または終了したことを示す表現です。ここでは、鳥を逃がしたことで部屋が汚染された状況に対して、もうどうしようもない、という諦めの気持ちを表しています。"
+    },
+    {
+      "id": 100,
+      "value": "rule out",
+      "options": [
+        "支配する",
+        "支配される",
+        "除外する",
+        "仲間に入れる"
+      ],
+      "correctAnswer": "除外する",
+      "explanation": "可能性や選択肢から何かを除外することを意味します。ある選択肢が適切でない、または不可能であると判断した場合に使われます。"
+    }
+  ]
+}

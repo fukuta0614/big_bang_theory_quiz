@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "lying around",
+      "options": [
+        "片付けて",
+        "積み重ねて",
+        "散らかして",
+        "隠して"
+      ],
+      "correctAnswer": "散らかして",
+      "explanation": "「lie around」は、物が整理されずに散らかっている状態を表します。人がゴロゴロしている状態にも使えます。例文: Please don't leave your clothes lying around on the floor.（床に服を散らかさないでください。）"
+    },
+    {
+      "id": 2,
+      "value": "threw a tantrum",
+      "options": [
+        "冗談を言った",
+        "かんしゃくを起こした",
+        "秘密を打ち明けた",
+        "パーティーを開いた"
+      ],
+      "correctAnswer": "かんしゃくを起こした",
+      "explanation": "「throw a tantrum」は、子どもが駄々をこねる、かんしゃくを起こすという意味です。大人が感情を爆発させる場合にも使われます。例文: The child threw a tantrum in the store because he wanted a candy bar.（その子はキャンディーが欲しくて店でかんしゃくを起こした。）"
+    },
+    {
+      "id": 3,
+      "value": "running late",
+      "options": [
+        "急いでいる",
+        "遅れている",
+        "逃げている",
+        "休憩している"
+      ],
+      "correctAnswer": "遅れている",
+      "explanation": "「run late」は、予定より遅れている状態を表します。会議や約束など、様々な状況で使えます。例文: I'm running late for my appointment.（予約に遅れています。）"
+    },
+    {
+      "id": 4,
+      "value": "the lone star state",
+      "options": [
+        "カリフォルニア州",
+        "ニューヨーク州",
+        "テキサス州",
+        "フロリダ州"
+      ],
+      "correctAnswer": "テキサス州",
+      "explanation": "「Lone Star State」は、テキサス州の愛称です。テキサス州旗に一つ星が描かれていることに由来します。例文: I'm planning a trip to the Lone Star State next month.（来月、テキサス州へ旅行に行く予定です。）"
+    },
+    {
+      "id": 5,
+      "value": "maniacs",
+      "options": [
+        "冷静な人",
+        "熱狂的な人",
+        "退屈な人",
+        "悲観的な人"
+      ],
+      "correctAnswer": "熱狂的な人",
+      "explanation": "「maniac」は、何かに熱狂している人、狂信的な人を指します。ここでは、クリスマスが終わっても飾りを片付けない人たちを指して使われています。例文: He's a fitness maniac.（彼はフィットネス狂だ。）"
+    },
+    {
+      "id": 6,
+      "value": "inertia",
+      "options": [
+        "加速",
+        "慣性",
+        "摩擦",
+        "重力"
+      ],
+      "correctAnswer": "慣性",
+      "explanation": "「inertia」は、物理学では慣性を意味しますが、ここでは「勢い」や「推進力」といった意味合いで使われています。例文: The organization was stifled by inertia.（組織は惰性によって停滞していた。）"
+    },
+    {
+      "id": 7,
+      "value": "living together",
+      "options": [
+        "別々に暮らす",
+        "同棲する",
+        "旅行する",
+        "仕事をする"
+      ],
+      "correctAnswer": "同棲する",
+      "explanation": "「live together」は、恋人や夫婦が一緒に住む、同棲するという意味です。例文: They have been living together for five years.（彼らは5年間同棲しています。）"
+    },
+    {
+      "id": 8,
+      "value": "lecture",
+      "options": [
+        "講義",
+        "冗談",
+        "相談",
+        "手紙"
+      ],
+      "correctAnswer": "講義",
+      "explanation": "「lecture」は、講義、説教という意味ですが、ここでは特に「宗教的な説教」を指しています。例文: My parents gave me a lecture about the dangers of drugs.（両親は私に薬物の危険性について説教した。）"
+    },
+    {
+      "id": 9,
+      "value": "precious",
+      "options": [
+        "貴重な",
+        "ありふれた",
+        "不要な",
+        "粗末な"
+      ],
+      "correctAnswer": "貴重な",
+      "explanation": "「precious」は、非常に価値がある、大切なという意味です。例文: This necklace is very precious to me.（このネックレスは私にとって非常に大切です。）"
+    },
+    {
+      "id": 10,
+      "value": "self-serving",
+      "options": [
+        "無私無欲な",
+        "自己中心的",
+        "謙虚な",
+        "親切な"
+      ],
+      "correctAnswer": "自己中心的",
+      "explanation": "「self-serving」は、自分の利益だけを考えて行動する、自己中心的という意味です。例文: His comments were seen as self-serving.（彼のコメントは自己中心的だと見られた。）"
+    },
+    {
+      "id": 11,
+      "value": "next thing you know",
+      "options": [
+        "次に知ることは",
+        "結局",
+        "最初に知ることは",
+        "いつも"
+      ],
+      "correctAnswer": "結局",
+      "explanation": "「next thing you know」は、「気がついたら」「いつの間にか」「結局」という意味で、何かが予期せず起こる状況を表します。例文: I started reading the book and, next thing you know, it was 3 AM. （その本を読み始めたら、気がついたら午前3時だった。）"
+    },
+    {
+      "id": 12,
+      "value": "living in sin",
+      "options": [
+        "罪深い生活",
+        "質素な生活",
+        "快適な生活",
+        "孤独な生活"
+      ],
+      "correctAnswer": "罪深い生活",
+      "explanation": "「living in sin」は、結婚せずに同棲することを指す、宗教的な意味合いが強い表現です。例文: In some religions, living together before marriage is considered living in sin.（いくつかの宗教では、結婚前の同棲は罪深い生活だと考えられている。）"
+    },
+    {
+      "id": 13,
+      "value": "fire and brimstone",
+      "options": [
+        "雷と雨",
+        "火と硫黄",
+        "光と影",
+        "愛と憎しみ"
+      ],
+      "correctAnswer": "火と硫黄",
+      "explanation": "「fire and brimstone」は、聖書に由来する表現で、神の怒りや地獄の苦しみを象徴します。例文: The preacher delivered a sermon full of fire and brimstone.（牧師は神の怒りに満ちた説教をした。）"
+    },
+    {
+      "id": 14,
+      "value": "out of wedlock",
+      "options": [
+        "結婚後",
+        "結婚前",
+        "離婚後",
+        "死別後"
+      ],
+      "correctAnswer": "結婚前",
+      "explanation": "「out of wedlock」は、結婚していない状態、つまり「婚外」であることを意味します。例文: The child was born out of wedlock.（その子は婚外子として生まれた。）"
+    },
+    {
+      "id": 15,
+      "value": "special circumstances",
+      "options": [
+        "特別な場所",
+        "特別な状況",
+        "特別な才能",
+        "特別な食べ物"
+      ],
+      "correctAnswer": "特別な状況",
+      "explanation": "「special circumstances」は、通常とは異なる、特別な事情や状況を指します。例文: The judge made an exception due to the special circumstances of the case.（裁判官は事件の特別な事情により例外を認めた。）"
+    },
+    {
+      "id": 16,
+      "value": "aboard",
+      "options": [
+        "上に",
+        "中に",
+        "近くに",
+        "下に"
+      ],
+      "correctAnswer": "中に",
+      "explanation": "「aboard」は、乗り物（船、飛行機、電車など）の中にいる状態を表します。例文: Welcome aboard! （ご乗船ありがとうございます！）"
+    },
+    {
+      "id": 17,
+      "value": "overreact",
+      "options": [
+        "反応しない",
+        "過剰に反応する",
+        "冷静に反応する",
+        "ゆっくりと反応する"
+      ],
+      "correctAnswer": "過剰に反応する",
+      "explanation": "「overreact」は、必要以上に感情的に反応する、大げさに騒ぎ立てるという意味です。例文: Don't overreact to the situation.（その状況に過剰に反応しないでください。）"
+    },
+    {
+      "id": 18,
+      "value": "packing this stuff up",
+      "options": [
+        "食べる",
+        "捨てる",
+        "梱包する",
+        "修理する"
+      ],
+      "correctAnswer": "梱包する",
+      "explanation": "「pack up」は物を詰める、梱包するという意味です。ここではChristmasの飾りを片付ける意味で使われています。例文：Let's pack up the gifts. (贈り物を梱包しましょう。)"
+    },
+    {
+      "id": 19,
+      "value": "weird-tasting",
+      "options": [
+        "美味しい",
+        "奇妙な味がする",
+        "味がしない",
+        "一般的な味がする"
+      ],
+      "correctAnswer": "奇妙な味がする",
+      "explanation": "「weird-tasting」は味が奇妙であることを意味します。例文：This soup has a weird-tasting. (このスープは奇妙な味がする。)"
+    },
+    {
+      "id": 20,
+      "value": "take care of the rest",
+      "options": [
+        "休憩する",
+        "残りを処理する",
+        "手伝う",
+        "無視する"
+      ],
+      "correctAnswer": "残りを処理する",
+      "explanation": "「take care of the rest」は残りの部分、あるいは他の事を処理することを意味します。例文：I'll take care of the rest. (残りは私が処理します。)"
+    },
+    {
+      "id": 21,
+      "value": "There's always one.",
+      "options": [
+        "いつもそうだ",
+        "一つもない",
+        "珍しい",
+        "ときどきだ"
+      ],
+      "correctAnswer": "いつもそうだ",
+      "explanation": "「There's always one」は、期待される通りのことが常に起こるという意味です。例文：There's always one person who complains. (いつも文句を言う人がいる。)"
+    },
+    {
+      "id": 22,
+      "value": "Given that",
+      "options": [
+        "忘れて",
+        "考慮すると",
+        "無視して",
+        "信じて"
+      ],
+      "correctAnswer": "考慮すると",
+      "explanation": "「Given that」は、何かの事実を考慮に入れるという意味です。例文：Given that it's raining, we should stay inside. (雨が降っているので、中にいるべきだ。)"
+    },
+    {
+      "id": 23,
+      "value": "next thing you know",
+      "options": [
+        "次に知ることは",
+        "結局",
+        "知らない",
+        "信じてる"
+      ],
+      "correctAnswer": "結局",
+      "explanation": "「next thing you know」は、何かが突然起こるという意味です。例文：Next thing you know, she's famous. (結局、彼女は有名になった。)"
+    },
+    {
+      "id": 24,
+      "value": "for one",
+      "options": [
+        "例えば",
+        "反対に",
+        "賛成に",
+        "最後に"
+      ],
+      "correctAnswer": "例えば",
+      "explanation": "「for one」は、個人的な意見や感情を強調するために使われます。例文：I, for one, am glad to be here. (私個人としては、ここにいられて嬉しい。)"
+    },
+    {
+      "id": 25,
+      "value": "get bad",
+      "options": [
+        "良くなる",
+        "悪くなる",
+        "普通になる",
+        "変わらない"
+      ],
+      "correctAnswer": "悪くなる",
+      "explanation": "「get bad」は、状況が悪化するという意味です。例文：The weather is going to get bad. (天気は悪くなるだろう。)"
+    },
+    {
+      "id": 26,
+      "value": "intellectual wattage",
+      "options": [
+        "知的なエネルギー",
+        "肉体的なエネルギー",
+        "精神的なエネルギー",
+        "感情的なエネルギー"
+      ],
+      "correctAnswer": "知的なエネルギー",
+      "explanation": "「intellectual wattage」は、知的能力の程度を表現する際に用いられる比喩的な表現です。「wattage」は電力を示す単位ですが、ここでは知性の度合いを指します。特に、ある人物や集団の知的能力を評価する文脈で使用されます。兄弟姉妹の知的能力を皮肉っぽく表現するために使われています。"
+    },
+    {
+      "id": 27,
+      "value": "spot someone something",
+      "options": [
+        "何かを隠す",
+        "何かを見つける",
+        "何かを与える",
+        "何かを盗む"
+      ],
+      "correctAnswer": "何かを与える",
+      "explanation": "「spot someone something」は、人に何かを恵んでやる、与えるという意味です。この文脈では、もし兄弟姉妹にジャガイモを恵んでやったとしても、彼らの知的能力ではジャガイモ時計を動かすことはできないだろう、という皮肉を込めています。"
+    },
+    {
+      "id": 28,
+      "value": "eccentric",
+      "options": [
+        "内向的な",
+        "平均的な",
+        "風変わりな",
+        "社交的な"
+      ],
+      "correctAnswer": "風変わりな",
+      "explanation": "「eccentric」は、常軌を逸した、風変わりな、という意味を持つ形容詞です。社会の規範や慣習から外れた行動や性格を指すことが多いです。Sheldonが自分自身を「unsocialised eccentric」と表現することで、社会に馴染めない風変わりな人物であることを強調しています。"
+    },
+    {
+      "id": 29,
+      "value": "tighty-whities",
+      "options": [
+        "派手な服",
+        "高級な服",
+        "白いブリーフ",
+        "黒いソックス"
+      ],
+      "correctAnswer": "白いブリーフ",
+      "explanation": "「tighty-whities」は、男性用の白いブリーフを指す俗語です。Sheldonが白いブリーフを頭にかぶるという行為は、彼の風変わりさや反抗的な態度を強調するために用いられています。母親がそれを指摘することで、彼の行動がいかに奇妙であるかを表現しています。"
+    },
+    {
+      "id": 30,
+      "value": "get out of the house",
+      "options": [
+        "家を建てる",
+        "家を売る",
+        "外出する",
+        "引っ越す"
+      ],
+      "correctAnswer": "外出する",
+      "explanation": "「get out of the house」は、家から出る、外出するという意味の一般的な表現です。気分転換や状況を変えるために家を出ることを指します。ここでは、SheldonとAmyが母親との気まずい状況から逃れるために外出することを意味しています。"
+    },
+    {
+      "id": 31,
+      "value": "butter someone's feet",
+      "options": [
+        "足を温める",
+        "足をマッサージする",
+        "足を滑りやすくする",
+        "足にキスをする"
+      ],
+      "correctAnswer": "足を滑りやすくする",
+      "explanation": "この文脈では、文字通りに足をバターで滑りやすくすることを意味しています。これは、Sheldonが水泳用のフィンを脱ぐために行った奇妙な行動です。比喩的な意味合いは特にありません。"
+    },
+    {
+      "id": 32,
+      "value": "at the end of the day",
+      "options": [
+        "一日の終わりに",
+        "結局は",
+        "毎日の終わりに",
+        "最終的には"
+      ],
+      "correctAnswer": "結局は",
+      "explanation": "「at the end of the day」は、最終的には、結局は、という意味を持つイディオムです。様々な要素を考慮した結果、最終的に何が重要であるかを強調する際に用いられます。ここでは、母親の言葉に傷ついたSheldonを慰めるために、Amyが「結局は彼女が間違っている」と述べています。"
+    },
+    {
+      "id": 33,
+      "value": "chronologically",
+      "options": [
+        "無作為に",
+        "アルファベット順に",
+        "年代順に",
+        "重要度順に"
+      ],
+      "correctAnswer": "年代順に",
+      "explanation": "「chronologically」は、年代順に、時間的な順序に従って、という意味を持つ副詞です。Sheldonが自分の人生における重要な人物を年代順に挙げていることを説明するために用いられています。"
+    },
+    {
+      "id": 34,
+      "value": "ruin the rest of the trip",
+      "options": [
+        "旅行を計画する",
+        "旅行を延長する",
+        "旅行を台無しにする",
+        "旅行を楽しむ"
+      ],
+      "correctAnswer": "旅行を台無しにする",
+      "explanation": "「ruin the rest of the trip」は、旅行の残りの部分を台無しにする、という意味です。Sheldonの母親との一件が、旅行全体の雰囲気を悪くする可能性があることを懸念して、Amyが述べています。"
+    },
+    {
+      "id": 35,
+      "value": "in the first place",
+      "options": [
+        "最後に",
+        "途中で",
+        "最初に",
+        "詳細に"
+      ],
+      "correctAnswer": "最初に",
+      "explanation": "「in the first place」は、そもそも、初めから、という意味を持つイディオムです。ある行動や状況が起こるべきではなかったことを示唆する際に用いられます。ここでは、Sheldonが母親に同棲の事実を伝えるべきではなかったと考えていることを表しています。"
+    },
+    {
+      "id": 36,
+      "value": "find out eventually",
+      "options": [
+        "すぐに見つける",
+        "偶然に見つける",
+        "最終的に知る",
+        "秘密にする"
+      ],
+      "correctAnswer": "最終的に知る",
+      "explanation": "「find out eventually」は、最終的には知ることになる、という意味です。隠し事がいつかは明らかになるという状況を表します。ここでは、SheldonとAmyの同棲の事実は、遅かれ早かれ母親に知られるだろうということを示唆しています。"
+    },
+    {
+      "id": 37,
+      "value": "get out ahead of",
+      "options": [
+        "遅れる",
+        "並ぶ",
+        "先んじる",
+        "忘れる"
+      ],
+      "correctAnswer": "先んじる",
+      "explanation": "「get out ahead of」は、問題や困難が大きくなる前に先手を打つ、という意味です。AmyがSheldonの母親に同棲の事実を先に伝えたのは、問題が大きくなるのを防ぐためだったという状況を表しています。"
+    },
+    {
+      "id": 38,
+      "value": "manage the situation",
+      "options": [
+        "状況を無視する",
+        "状況を悪化させる",
+        "状況を管理する",
+        "状況を避ける"
+      ],
+      "correctAnswer": "状況を管理する",
+      "explanation": "「manage the situation」は、状況を管理する、うまく対処するという意味です。AmyがSheldonの母親との関係を円滑にするために、積極的に状況をコントロールしたことを表しています。"
+    },
+    {
+      "id": 39,
+      "value": "incapable of",
+      "options": [
+        "得意な",
+        "嫌いな",
+        "できる",
+        "できない"
+      ],
+      "correctAnswer": "できない",
+      "explanation": "「incapable of」は、〜する能力がない、〜できない、という意味です。Sheldonが、母親から結婚できないと思われ、Amyからは自分の人生を管理できないと思われている、という状況を表しています。"
+    },
+    {
+      "id": 40,
+      "value": "weak spot",
+      "options": [
+        "強み",
+        "平均的なところ",
+        "弱点",
+        "秘密"
+      ],
+      "correctAnswer": "弱点",
+      "explanation": "「weak spot」は、弱点、苦手なところ、という意味です。AmyがSheldonの弱点として、他人の感情を理解することが苦手であることを指摘しています。"
+    },
+    {
+      "id": 41,
+      "value": "shortcomings",
+      "options": [
+        "長所",
+        "平均的なところ",
+        "短所",
+        "秘密"
+      ],
+      "correctAnswer": "短所",
+      "explanation": "「shortcomings」は、欠点、短所という意味です。Amyが、お互いの短所を補い合う関係であることを説明しています。"
+    },
+    {
+      "id": 42,
+      "value": "behind someone's back",
+      "options": [
+        "誰かの前で",
+        "誰かの後ろで",
+        "誰かの許可を得て",
+        "誰にも知られずに"
+      ],
+      "correctAnswer": "誰にも知られずに",
+      "explanation": "「behind someone's back」は、誰にも知られずに、内緒で、という意味です。SheldonがAmyの母親に内緒で連絡を取ることを想像して、Amyがどう感じるかを尋ねています。"
+    },
+    {
+      "id": 43,
+      "value": "not if I guessed for a hundred years",
+      "options": [
+        "すぐにわかる",
+        "決してわからない",
+        "簡単にわかる",
+        "時間をかければわかる"
+      ],
+      "correctAnswer": "決してわからない",
+      "explanation": "「not if I guessed for a hundred years」は、100年かけても決してわからない、という意味の誇張表現です。Sheldonが、Amyが自分の家族に関心を示すことを全く予想していなかったことを強調しています。"
+    },
+    {
+      "id": 44,
+      "value": "Sherpas",
+      "options": [
+        "リーダー",
+        "お客様",
+        "案内人",
+        "家族"
+      ],
+      "correctAnswer": "案内人",
+      "explanation": "シェルパは、ヒマラヤ山脈の登山家を案内する人々を指します。ここでは、レナードと他の友人たちが、ハワードとベルナデットの子育てをサポートする役割を比喩的に表現しています。"
+    },
+    {
+      "id": 45,
+      "value": "go ahead",
+      "options": [
+        "立ち止まる",
+        "戻る",
+        "進む",
+        "忘れる"
+      ],
+      "correctAnswer": "進む",
+      "explanation": "「go ahead」は、どうぞ、進んで、という意味です。許可を与える際や、何かを始めるように促す際に用いられます。PennyがHowardに赤ちゃんを部屋に運ぶことを許可する際に使用しています。"
+    },
+    {
+      "id": 46,
+      "value": "Doubtfire, Poppins",
+      "options": [
+        "有名人",
+        "映画のタイトル",
+        "ベビーシッター",
+        "家族の名前"
+      ],
+      "correctAnswer": "ベビーシッター",
+      "explanation": "DoubtfireとPoppinsは、どちらも有名な映画に登場するベビーシッターの名前です。Mrs. Doubtfireは「ミセス・ダウト」、Mary Poppinsは「メリー・ポピンズ」という映画のキャラクターです。ハワードが自分とベルナデットをベビーシッターに見立てて、ユーモラスに表現しています。"
+    },
+    {
+      "id": 47,
+      "value": "catch you up",
+      "options": [
+        "捕まえる",
+        "最新情報を提供する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "最新情報を提供する",
+      "explanation": "「catch you up」は、最新情報を提供する、近況を伝える、という意味です。遅れてきた人に、何が起こったかを説明する際に用いられます。SheldonがPennyたちにテキサス旅行の話をすることを申し出ています。"
+    },
+    {
+      "id": 48,
+      "value": "fine with",
+      "options": [
+        "反対",
+        "賛成",
+        "無関心",
+        "知らない"
+      ],
+      "correctAnswer": "賛成",
+      "explanation": "「fine with」は、〜に賛成する、〜を快く思う、という意味です。Amyが、Sheldonの母親が自分たちの同棲に反対していないことを伝えています。"
+    },
+    {
+      "id": 49,
+      "value": "amazing zoo boat",
+      "options": [
+        "一般的な船",
+        "動物園",
+        "ノアの箱舟",
+        "おもちゃの船"
+      ],
+      "correctAnswer": "ノアの箱舟",
+      "explanation": "「amazing zoo boat」は、旧約聖書に登場するノアの箱舟を指しています。Sheldonが皮肉を込めて「amazing」と表現することで、母親が進化論を信じないことを批判しています。"
+    },
+    {
+      "id": 50,
+      "value": "potential issue",
+      "options": [
+        "些細な問題",
+        "潜在的な問題",
+        "現在の問題",
+        "解決済みの問題"
+      ],
+      "correctAnswer": "潜在的な問題",
+      "explanation": "「potential issue」は、潜在的な問題、起こりうる問題、という意味です。Amyが、Sheldonの母親との関係が悪化する可能性を考慮して、先手を打ったことを説明しています。"
+    },
+    {
+      "id": 51,
+      "value": "on purpose",
+      "options": [
+        "偶然に",
+        "積極的に",
+        "不注意に",
+        "秘密裏に"
+      ],
+      "correctAnswer": "積極的に",
+      "explanation": "「on purpose」は、「意図的に」「わざと」という意味です。計画性を持って何かを行う場合に使われます。\n\n例：He broke the vase on purpose. (彼はわざと花瓶を割った。)"
+    },
+    {
+      "id": 52,
+      "value": "rebellious phase",
+      "options": [
+        "反抗期",
+        "成長期",
+        "思春期",
+        "安定期"
+      ],
+      "correctAnswer": "反抗期",
+      "explanation": "「rebellious phase」は、特に子供や若者が親や社会のルールに反抗する時期を指します。自我の確立やアイデンティティの探求と関連することが多いです。\n\n例：Many teenagers go through a rebellious phase. (多くのティーンエイジャーは反抗期を経験する。)"
+    },
+    {
+      "id": 53,
+      "value": "nasty fight",
+      "options": [
+        "友好的な議論",
+        "激しい喧嘩",
+        "静かな対立",
+        "楽しい競争"
+      ],
+      "correctAnswer": "激しい喧嘩",
+      "explanation": "「nasty fight」は、「ひどい喧嘩」「激しい口論」という意味です。感情的で不快な状況を伴う争いを指します。\n\n例：They had a nasty fight about money. (彼らは金銭について激しい喧嘩をした。)"
+    },
+    {
+      "id": 54,
+      "value": "binge-watching",
+      "options": [
+        "早送りで見る",
+        "ながら見",
+        "一気見",
+        "録画して見る"
+      ],
+      "correctAnswer": "一気見",
+      "explanation": "「binge-watching」は、テレビ番組や映画のシリーズを立て続けに、一気に見ることを意味します。\n\n例：We spent the weekend binge-watching our favorite show. (私たちは週末にお気に入りの番組を一気見して過ごした。)"
+    },
+    {
+      "id": 55,
+      "value": "on edge",
+      "options": [
+        "落ち着いて",
+        "リラックスして",
+        "神経質になって",
+        "喜んで"
+      ],
+      "correctAnswer": "神経質になって",
+      "explanation": "「on edge」は、「神経質になっている」「イライラしている」という意味です。ストレスや不安を感じている状態を表します。\n\n例：She was on edge waiting for the test results. (彼女はテストの結果を待つ間、神経質になっていた。)"
+    },
+    {
+      "id": 56,
+      "value": "chop down",
+      "options": [
+        "植える",
+        "切る",
+        "育てる",
+        "飾る"
+      ],
+      "correctAnswer": "切る",
+      "explanation": "「chop down」は、木などを切り倒すという意味です。特に斧やチェーンソーなどを使って切る場合に使われます。\n\n例：They chopped down the old tree in the backyard. (彼らは裏庭の古い木を切り倒した。)"
+    },
+    {
+      "id": 57,
+      "value": "time lapse",
+      "options": [
+        "タイムスリップ",
+        "時間停止",
+        "時間経過",
+        "同時刻"
+      ],
+      "correctAnswer": "時間経過",
+      "explanation": "「time lapse」は、一定の間隔で撮影された写真や映像を繋ぎ合わせ、時間の流れを圧縮して見せる技法、またはそのようにして作られた映像作品を指します。この文脈では、時間の経過を表しています。\n\n例：The movie used a time-lapse to show the flower blooming. (その映画では、タイムラプスを使って花が開花する様子を見せた。)"
+    },
+    {
+      "id": 58,
+      "value": "let go",
+      "options": [
+        "手放す",
+        "掴む",
+        "隠す",
+        "許す"
+      ],
+      "correctAnswer": "手放す",
+      "explanation": "「let go」は、「手放す」「解放する」という意味です。物理的に何かを離すだけでなく、感情的な執着を手放す場合にも使われます。\n\n例：She had to let go of her dream. (彼女は夢を手放さなければならなかった。)"
+    },
+    {
+      "id": 59,
+      "value": "blister",
+      "options": [
+        "かさぶた",
+        "あざ",
+        "水膨れ",
+        "傷"
+      ],
+      "correctAnswer": "水膨れ",
+      "explanation": "「blister」は、「水ぶくれ」という意味です。皮膚が摩擦や熱によってダメージを受け、液体がたまってできる膨らみを指します。\n\n例：I got a blister on my foot from the new shoes. (新しい靴で足に水ぶくれができた。)"
+    },
+    {
+      "id": 60,
+      "value": "peel",
+      "options": [
+        "癒える",
+        "剥ける",
+        "成長する",
+        "乾燥する"
+      ],
+      "correctAnswer": "剥ける",
+      "explanation": "「peel」は、「（皮などが）剥ける」という意味です。日焼け後や乾燥によって皮膚が剥がれる様子を表します。\n\n例：My skin started to peel after I got sunburned. (日焼けした後、私の皮膚が剥け始めた。)"
+    },
+    {
+      "id": 61,
+      "value": "salvage",
+      "options": [
+        "改善する",
+        "放棄する",
+        "悪化させる",
+        "無視する"
+      ],
+      "correctAnswer": "改善する",
+      "explanation": "「salvage」は、「（損失などから）救い出す」「再利用する」という意味です。困難な状況から何かを回復させようとする努力を表します。\n\n例：We tried to salvage the relationship, but it was too late. (私たちは関係を修復しようとしたが、手遅れだった。)"
+    },
+    {
+      "id": 62,
+      "value": "windshield",
+      "options": [
+        "バックミラー",
+        "フロントガラス",
+        "サイドミラー",
+        "サンルーフ"
+      ],
+      "correctAnswer": "フロントガラス",
+      "explanation": "「windshield」は、自動車の「フロントガラス」を意味します。\n\n例：I cleaned the windshield before driving. (運転する前にフロントガラスを掃除した。)"
+    },
+    {
+      "id": 63,
+      "value": "stairwell",
+      "options": [
+        "地下道",
+        "階段の吹き抜け",
+        "エレベーター",
+        "屋上"
+      ],
+      "correctAnswer": "階段の吹き抜け",
+      "explanation": "「stairwell」は、「階段の吹き抜け」または「階段室」を意味します。建物の階段がある縦方向の空間を指します。\n\n例：The fire escape is located in the stairwell. (非常階段は階段室にある。)"
+    },
+    {
+      "id": 64,
+      "value": "there's no shame in",
+      "options": [
+        "誇り",
+        "恥",
+        "満足",
+        "名誉"
+      ],
+      "correctAnswer": "恥",
+      "explanation": "「there's no shame in」は、「～するのは恥ずかしいことではない」という意味の表現です。何かをすることに対する遠慮やためらいを和らげるために使われます。\n\n例：There's no shame in asking for help when you need it. (必要な時に助けを求めるのは恥ずかしいことではない。)"
+    },
+    {
+      "id": 65,
+      "value": "to this day",
+      "options": [
+        "毎日",
+        "今日まで",
+        "昨日",
+        "明日"
+      ],
+      "correctAnswer": "今日まで",
+      "explanation": "「to this day」は、「今日に至るまで」「今でも」という意味です。過去のある時点から現在まで継続している状況を強調する際に使われます。\n\n例：To this day, I still remember that day. (今日に至るまで、私はまだその日を覚えている。)"
+    },
+    {
+      "id": 66,
+      "value": "begging",
+      "options": [
+        "命令",
+        "懇願",
+        "要求",
+        "期待"
+      ],
+      "correctAnswer": "懇願",
+      "explanation": "「begging」は、「懇願する」「哀願する」という意味です。相手に何かをしてほしいと強く願う様子を表します。\n\n例：I'm begging you to reconsider your decision. (あなたの決定を再考してくれるよう懇願します。)"
+    },
+    {
+      "id": 67,
+      "value": "wipe",
+      "options": [
+        "拭く",
+        "洗う",
+        "乾かす",
+        "磨く"
+      ],
+      "correctAnswer": "拭く",
+      "explanation": "「wipe」は、「拭く」という意味です。表面の汚れや液体を取り除く行為を指します。\n\n例：Please wipe the table after you finish eating. (食べ終わったらテーブルを拭いてください。)"
+    },
+    {
+      "id": 68,
+      "value": "tushies",
+      "options": [
+        "鼻",
+        "足",
+        "お尻",
+        "手"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "「tushies」は、「お尻」を意味する幼児語、またはくだけた言い方です。特に子供のお尻を指すことが多いです。\n\n例：The baby needs his tushie wiped. (赤ちゃんはお尻を拭いてもらう必要がある。)"
+    },
+    {
+      "id": 69,
+      "value": "back to",
+      "options": [
+        "～から離れて",
+        "～に戻って",
+        "～を通り過ぎて",
+        "～に加えて"
+      ],
+      "correctAnswer": "～に戻って",
+      "explanation": "「back to」は、「～に戻って」という意味です。以前の状態や場所に戻ることを示します。\n\n例：Let's get back to work. (仕事に戻りましょう。)"
+    },
+    {
+      "id": 70,
+      "value": "views me as",
+      "options": [
+        "～として見る",
+        "～を無視する",
+        "～を理解する",
+        "～を批判する"
+      ],
+      "correctAnswer": "～として見る",
+      "explanation": "「views me as」は、「私を～として見る」という意味です。誰かが自分をどのように認識しているかを表します。\n\n例：My boss views me as a valuable asset to the company. (私の上司は私を会社にとって貴重な財産として見ている。)"
+    },
+    {
+      "id": 71,
+      "value": "connect to",
+      "options": [
+        "～から切断する",
+        "～に接続する",
+        "～を拒否する",
+        "～を避ける"
+      ],
+      "correctAnswer": "～に接続する",
+      "explanation": "「connect to」は、「～に接続する」という意味です。物理的または仮想的に何かを繋げることを指します。\n\n例：I need to connect to the internet to send this email. (このメールを送るにはインターネットに接続する必要がある。)"
+    },
+    {
+      "id": 72,
+      "value": "be fair",
+      "options": [
+        "不公平である",
+        "公平である",
+        "重要である",
+        "無意味である"
+      ],
+      "correctAnswer": "公平である",
+      "explanation": "「be fair」は、「公平である」「公正である」という意味です。偏りなく、客観的に判断することを表します。\n\n例：To be fair, both sides have valid points. (公平に言って、両方の側に正当な点がある。)"
+    },
+    {
+      "id": 73,
+      "value": "ruin our night",
+      "options": [
+        "楽しい夜を過ごす",
+        "夜を台無しにする",
+        "夜を計画する",
+        "夜を忘れる"
+      ],
+      "correctAnswer": "夜を台無しにする",
+      "explanation": "「ruin our night」は、「私たちの夜を台無しにする」という意味です。何か悪いことが起こり、楽しいはずの夜が不快なものになることを指します。\n\n例：Let's not argue and ruin our night. (喧嘩して夜を台無しにしないようにしよう。)"
+    },
+    {
+      "id": 74,
+      "value": "express interest in",
+      "options": [
+        "興味を失う",
+        "興味を示す",
+        "興味を隠す",
+        "興味を否定する"
+      ],
+      "correctAnswer": "興味を示す",
+      "explanation": "「express interest in」は、「～に興味を示す」「～に関心を表す」という意味です。ある対象に対して関心や好奇心を持っていることを表現します。\n\n例：He expressed interest in learning to play the guitar. (彼はギターを習うことに興味を示した。)"
+    },
+    {
+      "id": 75,
+      "value": "to this day",
+      "options": [
+        "毎日",
+        "今日まで",
+        "昨日",
+        "明日"
+      ],
+      "correctAnswer": "今日まで",
+      "explanation": "「to this day」は、「今日に至るまで」「今でも」という意味です。過去のある時点から現在まで継続している状況を強調する際に使われます。\n\n例：To this day, I still remember that day. (今日に至るまで、私はまだその日を覚えている。)"
+    },
+    {
+      "id": 76,
+      "value": "playing possum",
+      "options": [
+        "死んだふりをする",
+        "正直に話す",
+        "積極的に参加する",
+        "冗談を言う"
+      ],
+      "correctAnswer": "死んだふりをする",
+      "explanation": "「playing possum」とは、「死んだふりをする」「（本当の気持ちや考えを）隠す」という意味のイディオムです。相手を欺くために、実際とは異なる様子を見せることを指します。例文：She was just playing possum to see what he would do.（彼女は彼がどうするか見るために死んだふりをしていた。）"
+    },
+    {
+      "id": 77,
+      "value": "take it personally",
+      "options": [
+        "個人的に受け止める",
+        "冷静に判断する",
+        "楽観的に考える",
+        "客観的に評価する"
+      ],
+      "correctAnswer": "個人的に受け止める",
+      "explanation": "「take it personally」とは、「個人的に受け止める」「気に病む」という意味です。他人の言動を、自分自身に対する批判や攻撃だと感じてしまう状況を表します。例文：Don't take it so personally; he says that to everyone.（そんなに個人的に受け止めないで。彼は誰にでもそう言うんだから。）"
+    },
+    {
+      "id": 78,
+      "value": "jerk",
+      "options": [
+        "優しい人",
+        "ばか者、嫌なやつ",
+        "賢い人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "ばか者、嫌なやつ",
+      "explanation": "「jerk」とは、「嫌なやつ」「ばか者」「軽蔑すべき人」といった意味を持つ名詞です。人を侮辱する際に使われる強い言葉であり、特に無神経で自己中心的な人を指します。例文：He's such a jerk; he never thinks about anyone but himself.（彼は本当に嫌なやつだ。自分のことしか考えていない。）"
+    },
+    {
+      "id": 79,
+      "value": "twist",
+      "options": [
+        "展開",
+        "伝統",
+        "簡略化",
+        "幸運"
+      ],
+      "correctAnswer": "展開",
+      "explanation": "「twist」は、ここでは「予想外の展開」「意外な事実」という意味で使われています。物語や状況が予期せぬ方向に進むことを指します。例文：The story had a surprising twist at the end.（その物語は最後に驚くべき展開があった。）"
+    },
+    {
+      "id": 80,
+      "value": "exhausted",
+      "options": [
+        "疲弊した",
+        "満足した",
+        "興奮した",
+        "リラックスした"
+      ],
+      "correctAnswer": "疲弊した",
+      "explanation": "「exhausted」とは、「疲弊した」「疲れ果てた」という意味です。体力や精神力が限界に達し、何もする気力がない状態を表します。例文：I was so exhausted after the marathon that I could barely walk.（マラソンの後、疲れ果ててほとんど歩けなかった。）"
+    },
+    {
+      "id": 81,
+      "value": "turn around",
+      "options": [
+        "好転する",
+        "悪化する",
+        "元に戻る",
+        "停止する"
+      ],
+      "correctAnswer": "好転する",
+      "explanation": "「turn around」とは、「好転する」「回復する」という意味です。状況や状態が改善し、良い方向へ向かうことを指します。ビジネスの文脈では、業績の回復を意味することもあります。例文：The company managed to turn around its losses and become profitable.（その会社は損失を好転させ、利益を上げることができた。）"
+    },
+    {
+      "id": 82,
+      "value": "thinking outside the box",
+      "options": [
+        "型にはまらない発想",
+        "常識的な考え方",
+        "現実的な思考",
+        "過去の経験に基づく判断"
+      ],
+      "correctAnswer": "型にはまらない発想",
+      "explanation": "「thinking outside the box」とは、「型にはまらない発想」「既成概念にとらわれない考え方」という意味です。創造的な問題解決や革新的なアイデアを生み出す際に重要となる考え方です。例文：To solve this problem, we need to start thinking outside the box.（この問題を解決するためには、型にはまらない発想をする必要がある。）"
+    },
+    {
+      "id": 83,
+      "value": "go ahead",
+      "options": [
+        "どうぞ",
+        "急いで",
+        "待ってください",
+        "反対します"
+      ],
+      "correctAnswer": "どうぞ",
+      "explanation": "「go ahead」とは、「どうぞ」「進んでください」「始めてください」という意味です。許可や同意を与える際に使われる表現です。例文：'Can I ask you a question?' 'Yes, go ahead.'（「質問してもいいですか？」「はい、どうぞ。」）"
+    },
+    {
+      "id": 84,
+      "value": "wreaks havoc on",
+      "options": [
+        "大混乱を引き起こす",
+        "平和を維持する",
+        "改善する",
+        "注目を集める"
+      ],
+      "correctAnswer": "大混乱を引き起こす",
+      "explanation": "「wreak havoc on」とは、「〜に大混乱を引き起こす」「〜をめちゃくちゃにする」という意味です。破壊的な影響を与える状況を表します。例文：The storm wreaked havoc on the coastal towns.（その嵐は沿岸の町に大混乱を引き起こした。）"
+    },
+    {
+      "id": 85,
+      "value": "sucka",
+      "options": [
+        "まぬけ、だまされやすい人",
+        "賢い人",
+        "勇敢な人",
+        "親切な人"
+      ],
+      "correctAnswer": "まぬけ、だまされやすい人",
+      "explanation": "「sucka」とは、「まぬけ」「だまされやすい人」といった意味のスラングです。人を侮辱する際に使われる言葉であり、軽蔑や嘲りのニュアンスを含みます。例文：Don't be a sucka; stand up for yourself.（まぬけになるな。自分のために立ち上がれ。）"
+    },
+    {
+      "id": 86,
+      "value": "bozo",
+      "options": [
+        "賢者",
+        "道化、まぬけ",
+        "英雄",
+        "友人"
+      ],
+      "correctAnswer": "道化、まぬけ",
+      "explanation": "「bozo」とは、「道化」「まぬけ」「愚か者」といった意味で、人を軽蔑的に呼ぶスラングです。相手をからかう際や、その人の行動を非難する際に用いられます。例文：Some bozo dented my car in the parking lot.（駐車場で誰かのまぬけが私の車をへこませた。）"
+    },
+    {
+      "id": 87,
+      "value": "paternity leave",
+      "options": [
+        "育児休暇",
+        "有給休暇",
+        "病気休暇",
+        "無給休暇"
+      ],
+      "correctAnswer": "育児休暇",
+      "explanation": "「paternity leave」とは、「育児休暇」のことです。父親が子供の出生後に取得できる休暇を指します。例文：He's on paternity leave to help take care of the new baby.（彼は新しい赤ちゃんの世話をするために育児休暇中です。）"
+    },
+    {
+      "id": 88,
+      "value": "bright and early",
+      "options": [
+        "朝早く",
+        "夜遅く",
+        "昼頃",
+        "夕暮れ時"
+      ],
+      "correctAnswer": "朝早く",
+      "explanation": "「bright and early」とは、「朝早く」「早朝に」という意味のイディオムです。元気よく、または予定通りに朝早く行動することを強調する際に使われます。例文：We have to leave bright and early to catch the first train.（始発電車に乗るために、朝早く出発しなければならない。）"
+    },
+    {
+      "id": 89,
+      "value": "the baby blues",
+      "options": [
+        "産後うつ",
+        "育児ノイローゼ",
+        "子供の病気",
+        "幸せな感情"
+      ],
+      "correctAnswer": "産後うつ",
+      "explanation": "「the baby blues」とは、「産後うつ」のことです。出産後に多くの女性が経験する、一時的な気分の落ち込みや不安感を指します。ホルモンバランスの変化や睡眠不足などが原因とされています。例文：She's been feeling a little down since the baby was born, but it's probably just the baby blues.（赤ちゃんが生まれてから少し気分が落ち込んでいるようだけど、おそらく産後うつでしょう。）"
+    },
+    {
+      "id": 90,
+      "value": "get her down",
+      "options": [
+        "彼女を落ち着かせる",
+        "彼女を元気づける",
+        "彼女を怒らせる",
+        "彼女を困らせる"
+      ],
+      "correctAnswer": "彼女を落ち着かせる",
+      "explanation": "「get her down」とは、ここでは「（赤ん坊を）落ち着かせる」という意味です。騒いでいる人や泣いている人を静める、または落ち着かせることを指します。類似の表現に「calm down」があります。例文：It took a while to get the crying baby down.（泣いている赤ちゃんを落ち着かせるのに時間がかかった。）"
+    },
+    {
+      "id": 91,
+      "value": "a gift",
+      "options": [
+        "才能",
+        "贈り物",
+        "義務",
+        "問題"
+      ],
+      "correctAnswer": "才能",
+      "explanation": "「a gift」は、ここでは「才能」「特別な能力」という意味で使われています。生まれつき持っている、または努力によって得られた優れた能力を指します。例文：She has a gift for music.（彼女は音楽の才能を持っている。）"
+    },
+    {
+      "id": 92,
+      "value": "How come",
+      "options": [
+        "どうして",
+        "いつ",
+        "どこで",
+        "誰が"
+      ],
+      "correctAnswer": "どうして",
+      "explanation": "「How come」とは、「どうして」「なぜ」という意味の口語的な表現です。疑問詞として使われ、理由や原因を尋ねる際に用いられます。例文：How come you're not coming to the party?（どうしてパーティーに来ないの？）"
+    },
+    {
+      "id": 93,
+      "value": "hate",
+      "options": [
+        "憎む",
+        "愛する",
+        "尊敬する",
+        "感謝する"
+      ],
+      "correctAnswer": "憎む",
+      "explanation": "「hate」とは、「憎む」「嫌う」という意味です。強い嫌悪感や敵意を表す動詞です。例文：I hate being late for appointments.（私は約束に遅れるのが嫌いだ。）"
+    },
+    {
+      "id": 94,
+      "value": "eventually",
+      "options": [
+        "最終的に",
+        "すぐに",
+        " कभी-कभी",
+        "絶対に"
+      ],
+      "correctAnswer": "最終的に",
+      "explanation": "「eventually」とは、「最終的に」「結局は」という意味です。時間が経過した後、ある結果や状態に達することを表します。例文：Eventually, she found a job she really enjoyed.（最終的に、彼女は本当に楽しめる仕事を見つけた。）"
+    },
+    {
+      "id": 95,
+      "value": "go ahead",
+      "options": [
+        "どうぞ",
+        "急いで",
+        "待ってください",
+        "反対します"
+      ],
+      "correctAnswer": "どうぞ",
+      "explanation": "「go ahead」とは、「どうぞ」「進んでください」「始めてください」という意味です。許可や同意を与える際に使われる表現です。例文：'Can I ask you a question?' 'Yes, go ahead.'（「質問してもいいですか？」「はい、どうぞ。」）"
+    },
+    {
+      "id": 96,
+      "value": "proud",
+      "options": [
+        "誇りに思う",
+        "恥ずかしい",
+        "悲しい",
+        "怒っている"
+      ],
+      "correctAnswer": "誇りに思う",
+      "explanation": "「proud」とは、「誇りに思う」「自慢に思う」という意味です。自分自身や他者の成果、能力、資質などを高く評価し、満足している感情を表します。例文：I'm so proud of you for graduating.（卒業おめでとう。とても誇りに思うよ。）"
+    },
+    {
+      "id": 97,
+      "value": "come on",
+      "options": [
+        "やめて",
+        "頑張って",
+        "おめでとう",
+        "さようなら"
+      ],
+      "correctAnswer": "やめて",
+      "explanation": "「come on」とは、文脈によって様々な意味を持つ表現ですが、ここでは「やめて」「いい加減にして」という意味合いで使われています。相手の発言や行動に対して不満や非難の気持ちを表す際に用いられます。例文：Come on, that's not fair!（やめてよ、それは不公平だ！）"
+    },
+    {
+      "id": 98,
+      "value": "pleasure",
+      "options": [
+        "喜び",
+        "悲しみ",
+        "苦痛",
+        "退屈"
+      ],
+      "correctAnswer": "喜び",
+      "explanation": "「pleasure」とは、「喜び」「楽しみ」「快楽」という意味です。満足感や幸福感をもたらす感情や経験を指します。例文：It was a pleasure meeting you.（お会いできて嬉しかったです。）"
+    },
+    {
+      "id": 99,
+      "value": "new to this",
+      "options": [
+        "不慣れである",
+        "経験豊富である",
+        "興味がない",
+        "得意である"
+      ],
+      "correctAnswer": "不慣れである",
+      "explanation": "「new to this」とは、「これに不慣れである」「初心者である」という意味です。特定の活動や状況に対する経験が浅いことを表します。例文：I'm new to this job, so please be patient with me.（この仕事は初めてなので、辛抱強く接してください。）"
+    },
+    {
+      "id": 100,
+      "value": "so fast",
+      "options": [
+        "とても速い",
+        "とても遅い",
+        "とても簡単",
+        "とても難しい"
+      ],
+      "correctAnswer": "とても速い",
+      "explanation": "「so fast」とは、「とても速い」「非常に迅速な」という意味です。動作や出来事が非常に短い時間で完了することを強調する際に使われます。例文：The runner was so fast that he broke the world record.（その走者はとても速く、世界記録を破った。）"
+    }
+  ]
+}

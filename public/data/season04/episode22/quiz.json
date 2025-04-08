@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "off-put",
+      "options": [
+        "喜んで",
+        "不快にさせて",
+        "安心させて",
+        "退屈させて"
+      ],
+      "correctAnswer": "不快にさせて",
+      "explanation": "「off-put」は、人を不快にさせたり、嫌な気持ちにさせたりすることを意味します。相手を困惑させたり、不快感を与えるような状況で使われます。例：His rude comments really off-put me.（彼の失礼なコメントは本当に私を不快にさせた。）"
+    },
+    {
+      "id": 2,
+      "value": "chummy",
+      "options": [
+        "敵意のある",
+        "よそよそしい",
+        "友好的な",
+        "内気な"
+      ],
+      "correctAnswer": "友好的な",
+      "explanation": "「chummy」は、非常に友好的で親密な関係を表します。親しい友人や仲間内でのくだけた会話や状況で使われることが多いです。例：They were very chummy after working together for years.（彼らは長年一緒に働いた後、とても親密になった。）"
+    },
+    {
+      "id": 3,
+      "value": "bladder shyness",
+      "options": [
+        "膀胱の病気",
+        "トイレの習慣",
+        "排尿障害",
+        "尿意の我慢"
+      ],
+      "correctAnswer": "排尿障害",
+      "explanation": "「bladder shyness」は、社交不安症の一種で、他人が近くにいると排尿が困難になる状態を指します。医学的には「排尿困難症」とも呼ばれます。公共のトイレなどで特に症状が出やすいです。"
+    },
+    {
+      "id": 4,
+      "value": "strategic manoeuvre",
+      "options": [
+        "偶然の出来事",
+        "戦略的な行動",
+        "無意味な行為",
+        "感情的な反応"
+      ],
+      "correctAnswer": "戦略的な行動",
+      "explanation": "「strategic manoeuvre」は、特定の目標を達成するために計画された戦略的な行動や策略を意味します。ビジネス、政治、軍事など、様々な分野で使用されます。例：The company's strategic manoeuvre allowed them to gain a larger market share.（その会社の戦略的な行動によって、彼らはより大きな市場シェアを獲得することができた。）"
+    },
+    {
+      "id": 5,
+      "value": "crafty",
+      "options": [
+        "正直な",
+        "不器用な",
+        "ずる賢い",
+        "創造的な"
+      ],
+      "correctAnswer": "ずる賢い",
+      "explanation": "「crafty」は、ずる賢く、策略に長けていることを意味します。人を欺いたり、自分の利益のために巧妙な手段を使うようなニュアンスがあります。例：He is a crafty politician who knows how to win votes.（彼は票を獲得する方法を知っているずる賢い政治家だ。）"
+    },
+    {
+      "id": 6,
+      "value": "go after",
+      "options": [
+        "無視する",
+        "守る",
+        "攻撃する",
+        "避ける"
+      ],
+      "correctAnswer": "攻撃する",
+      "explanation": "「go after」は、誰かまたは何かを追いかける、攻撃する、または獲得しようと努力することを意味します。物理的な追跡だけでなく、目標達成のための努力も含まれます。例：The company decided to go after a new market segment.（その会社は新しい市場セグメントを攻略することにした。）"
+    },
+    {
+      "id": 7,
+      "value": "coupled with",
+      "options": [
+        "～から分離されて",
+        "～にもかかわらず",
+        "～と組み合わさって",
+        "～を無視して"
+      ],
+      "correctAnswer": "～と組み合わさって",
+      "explanation": "「coupled with」は、ある要素が別の要素と組み合わさって、相乗効果や結果を生み出すことを意味します。原因と結果、または特性の組み合わせを説明する際に使用されます。例：Her intelligence, coupled with her hard work, made her successful.（彼女の知性と努力が組み合わさって、彼女を成功させた。）"
+    },
+    {
+      "id": 8,
+      "value": "Serengeti",
+      "options": [
+        "砂漠の名前",
+        "都市の名前",
+        "国立公園の名前",
+        "山脈の名前"
+      ],
+      "correctAnswer": "国立公園の名前",
+      "explanation": "「Serengeti」は、タンザニア北部に位置する広大な国立公園の名前です。多様な野生動物が生息しており、特に大規模な動物の移動で知られています。アフリカを象徴する場所の一つです。"
+    },
+    {
+      "id": 9,
+      "value": "rent my womb out",
+      "options": [
+        "子宮を大切にする",
+        "妊娠を避ける",
+        "代理母になる",
+        "病院に行く"
+      ],
+      "correctAnswer": "代理母になる",
+      "explanation": "「rent my womb out」は、自分の子宮を貸し出す、つまり代理母になることを意味する口語的な表現です。倫理的な議論を伴うテーマであり、使用には注意が必要です。"
+    },
+    {
+      "id": 10,
+      "value": "double agent",
+      "options": [
+        "正直な人",
+        "二重スパイ",
+        "無関係な人",
+        "信頼できる友人"
+      ],
+      "correctAnswer": "二重スパイ",
+      "explanation": "「double agent」は、二つの異なる勢力のために働くスパイを指します。通常、一方の勢力に忠誠を誓っているように見せかけながら、実際には別の勢力のために情報を収集・提供します。諜報活動やスリラー作品でよく登場する概念です。"
+    },
+    {
+      "id": 11,
+      "value": "ferret out",
+      "options": [
+        "隠す",
+        "保護する",
+        "探し出す",
+        "無視する"
+      ],
+      "correctAnswer": "探し出す",
+      "explanation": "「ferret out」は、隠された情報や秘密などを苦労して探し出す、という意味です。探偵やジャーナリストなどが調査をして真実を明らかにする際に使われます。例：The journalist managed to ferret out the truth about the scandal.（そのジャーナリストはスキャンダルに関する真実を苦労して探し出した。）"
+    },
+    {
+      "id": 12,
+      "value": "no stranger to",
+      "options": [
+        "～に慣れていない",
+        "～を避けている",
+        "～に精通している",
+        "～に興味がない"
+      ],
+      "correctAnswer": "～に精通している",
+      "explanation": "「no stranger to」は、～に精通している、～をよく知っている、という意味です。ある経験や活動に慣れていることを表します。例：He is no stranger to hard work.（彼はハードワークには慣れている。）"
+    },
+    {
+      "id": 13,
+      "value": "whup that out of you",
+      "options": [
+        "才能を伸ばす",
+        "自信を与える",
+        "才能を奪う",
+        "正直さを引き出す"
+      ],
+      "correctAnswer": "才能を奪う",
+      "explanation": "この文脈では、「whup that out of you」は、カトリックの学校で嘘をつく才能や傾向をなくす、という意味合いで使われています。厳しい教育や訓練によって、悪い習慣や性質を取り除くというニュアンスがあります。"
+    },
+    {
+      "id": 14,
+      "value": "ample bosom",
+      "options": [
+        "小さな胸",
+        "広い心",
+        "豊かな胸",
+        "強い意志"
+      ],
+      "correctAnswer": "豊かな胸",
+      "explanation": "「ample bosom」は、豊かでたっぷりとした胸を意味する婉曲的な表現です。しばしばユーモラスな文脈で使用されます。"
+    },
+    {
+      "id": 15,
+      "value": "take one for the team",
+      "options": [
+        "チームを裏切る",
+        "チームを助けるために犠牲になる",
+        "チームを批判する",
+        "チームを無視する"
+      ],
+      "correctAnswer": "チームを助けるために犠牲になる",
+      "explanation": "「take one for the team」は、チームのために個人的な不利益や困難を甘んじて受け入れる、という意味です。スポーツやビジネスなど、チームワークが重要な状況で使われます。例：I had to work late to finish the project, but I took one for the team.（プロジェクトを終わらせるために遅くまで働かなければならなかったが、チームのために犠牲になった。）"
+    },
+    {
+      "id": 16,
+      "value": "have a handle on",
+      "options": [
+        "～を失う",
+        "～を理解している",
+        "～を無視する",
+        "～を避ける"
+      ],
+      "correctAnswer": "～を理解している",
+      "explanation": "「have a handle on」は、～を理解している、～を把握している、という意味です。複雑な問題や状況を理解し、コントロールできる状態を表します。例：I finally have a handle on this project.（私はついにこのプロジェクトを理解した。）"
+    },
+    {
+      "id": 17,
+      "value": "transitional quadrilateral to triangular tessellation",
+      "options": [
+        "幾何学模様",
+        "簡単な計算",
+        "複雑な数式",
+        "音楽理論"
+      ],
+      "correctAnswer": "幾何学模様",
+      "explanation": "「transitional quadrilateral to triangular tessellation」は、四角形から三角形への移行によるテセレーション（敷き詰め）を意味する専門用語です。数学、特に幾何学の分野で使用されます。図形を隙間なく敷き詰める方法を説明する際に使われます。"
+    },
+    {
+      "id": 18,
+      "value": "serpent",
+      "options": [
+        "騎士",
+        "女王",
+        "蛇",
+        "王"
+      ],
+      "correctAnswer": "蛇",
+      "explanation": "「serpent」は蛇を意味する古風な言葉です。ここでは、新しいチェスの駒の名前として使われています。比喩的に、ずる賢さや危険を表すこともあります。"
+    },
+    {
+      "id": 19,
+      "value": "slithers",
+      "options": [
+        "ジャンプする",
+        "滑るように動く",
+        "飛ぶ",
+        "歩く"
+      ],
+      "correctAnswer": "滑るように動く",
+      "explanation": "「slithers」は、蛇などが滑るように動く様子を表す動詞「slither」の三人称単数現在形です。ここでは、チェスの駒である蛇の動きを表現するために使われています。"
+    },
+    {
+      "id": 20,
+      "value": "hound dog",
+      "options": [
+        "怠け者",
+        "犬好き",
+        "好色家",
+        "冒険家"
+      ],
+      "correctAnswer": "好色家",
+      "explanation": "「hound dog」は、特に女性を追いかける男性、つまり好色家を指す軽蔑的な表現です。エルビス・プレスリーの有名な曲のタイトルとしても知られています。"
+    },
+    {
+      "id": 21,
+      "value": "keen edge",
+      "options": [
+        "鈍感な感覚",
+        "鋭い感覚",
+        "古い習慣",
+        "不確かな情報"
+      ],
+      "correctAnswer": "鋭い感覚",
+      "explanation": "「keen edge」は、鋭い感覚や知性、または能力が最大限に発揮されている状態を指します。頭の回転が速い、理解力が高い、などの意味合いが含まれます。例：Age hasn't blunted his keen edge. (年齢は彼の鋭い感覚を鈍らせてはいない)"
+    },
+    {
+      "id": 22,
+      "value": "regular intercourse",
+      "options": [
+        "定期的な運動",
+        "不規則な生活",
+        "普通の会話",
+        "規則的な性交渉"
+      ],
+      "correctAnswer": "規則的な性交渉",
+      "explanation": "「regular intercourse」は、定期的な性交渉を意味します。ここでは、性生活が知性に影響を与えるという文脈で使用されています。"
+    },
+    {
+      "id": 23,
+      "value": "unified gravity with the other forces",
+      "options": [
+        "重力を無視する",
+        "他の人に頼る",
+        "重力と他の力を統一する",
+        "他の人を助ける"
+      ],
+      "correctAnswer": "重力と他の力を統一する",
+      "explanation": "物理学における「unified gravity with the other forces」は、重力と他の基本的な力（電磁力、強い力、弱い力）を一つの理論で説明することを目指す、非常に重要な目標です。アインシュタインもこの課題に挑戦しましたが、未だに完全な統一理論は完成していません。"
+    },
+    {
+      "id": 24,
+      "value": "metatarsal",
+      "options": [
+        "ひざ",
+        "手首",
+        "足の甲",
+        "肩"
+      ],
+      "correctAnswer": "足の甲",
+      "explanation": "「metatarsal」は、足の甲を構成する骨（中足骨）を意味する医学用語です。複数形は「metatarsals」です。ここでは、新しい靴を履いて足が痛いという状況で使われています。"
+    },
+    {
+      "id": 25,
+      "value": "barking",
+      "options": [
+        "歌う",
+        "吠える",
+        "震える",
+        "痛む"
+      ],
+      "correctAnswer": "痛む",
+      "explanation": "「barking」は、足が痛む、特に疲れや不快感で痛むことを意味する口語的な表現です。犬が吠える様子から連想されるイメージです。例：My feet are barking after walking all day.（一日中歩いたので足が痛い。）"
+    },
+    {
+      "id": 26,
+      "value": "prominent",
+      "options": [
+        "目立たない",
+        "重要",
+        "著名",
+        "顕著"
+      ],
+      "correctAnswer": "顕著",
+      "explanation": "「prominent」は、物理的に突き出ている、または重要で目立つという意味です。ここでは、女性の体のラインがより強調されている状態を指しています。例文：The church tower is a prominent feature of the city's skyline.（その教会の塔は、都市のスカイラインの顕著な特徴である。）"
+    },
+    {
+      "id": 27,
+      "value": "leer",
+      "options": [
+        "軽蔑する",
+        "褒める",
+        "じろじろ見る",
+        "無視する"
+      ],
+      "correctAnswer": "じろじろ見る",
+      "explanation": "「leer」は、下品な、または性的な意味合いを含んだ目でじろじろ見ることを意味します。相手に不快感を与える可能性があります。例文：He was leering at her in a way that made her uncomfortable. (彼は彼女を不快にさせるような目つきでじろじろ見ていた。)"
+    },
+    {
+      "id": 28,
+      "value": "ogle",
+      "options": [
+        "避ける",
+        "軽蔑する",
+        "見つめる",
+        "無視する"
+      ],
+      "correctAnswer": "見つめる",
+      "explanation": "「ogle」は、欲望や興味を持ってしげしげと見つめることを意味します。特に性的な意味合いで使われることが多いです。例文：The men were ogling the beautiful woman as she walked by. (男たちは美しい女性が通り過ぎるのを目を皿のようにして見ていた。)"
+    },
+    {
+      "id": 29,
+      "value": "caboose",
+      "options": [
+        "お尻",
+        "頭",
+        "腕",
+        "足"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "「caboose」は、もともと鉄道車両の最後尾にある車両を指しますが、ここではスラングとして「お尻」を意味します。特に女性のお尻を指すことが多いです。"
+    },
+    {
+      "id": 30,
+      "value": "prostate exam",
+      "options": [
+        "脳の検査",
+        "前立腺検査",
+        "心臓検査",
+        "目の検査"
+      ],
+      "correctAnswer": "前立腺検査",
+      "explanation": "「prostate exam」は、前立腺の検査のことです。男性特有の検査であり、ここでは不快な状況のたとえとして使われています。"
+    },
+    {
+      "id": 31,
+      "value": "leper",
+      "options": [
+        "医者",
+        "弁護士",
+        "レプラ患者",
+        "教師"
+      ],
+      "correctAnswer": "レプラ患者",
+      "explanation": "「leper」は、らい病患者のことです。ここでは、非常に不快な状況のたとえとして使われています。現在は差別的な意味合いを含む可能性があるため、使用には注意が必要です。"
+    },
+    {
+      "id": 32,
+      "value": "windbreaker",
+      "options": [
+        "レインコート",
+        "サングラス",
+        "日焼け止め",
+        "ウインドブレーカー"
+      ],
+      "correctAnswer": "ウインドブレーカー",
+      "explanation": "「windbreaker」は、風を防ぐための軽量なジャケットのことです。防風ジャケット。"
+    },
+    {
+      "id": 33,
+      "value": "break in new shoes",
+      "options": [
+        "靴を修理する",
+        "靴を捨てる",
+        "新しい靴を履き慣らす",
+        "靴を売る"
+      ],
+      "correctAnswer": "新しい靴を履き慣らす",
+      "explanation": "「break in new shoes」は、新しい靴を履き慣らして、足にフィットさせることを意味します。新品の靴は硬くて履き心地が悪いことが多いため、履き慣らす必要があります。"
+    },
+    {
+      "id": 34,
+      "value": "puppies",
+      "options": [
+        "子供達",
+        "靴",
+        "犬",
+        "猫"
+      ],
+      "correctAnswer": "靴",
+      "explanation": "ここでは、スラングとして「puppies」が「靴」を意味しています。特に可愛らしい靴を指すことが多いです。"
+    },
+    {
+      "id": 35,
+      "value": "pay them off",
+      "options": [
+        "靴を盗む",
+        "靴を売る",
+        "靴をプレゼントする",
+        "靴の代金を払い終える"
+      ],
+      "correctAnswer": "靴の代金を払い終える",
+      "explanation": "ここでは、「pay off」は「（借金などを）完済する」という意味です。靴の代金を払い終える必要があるという状況を表しています。"
+    },
+    {
+      "id": 36,
+      "value": "wildebeest",
+      "options": [
+        "ゴリラ",
+        "サイ",
+        "ゾウ",
+        "ヌー"
+      ],
+      "correctAnswer": "ヌー",
+      "explanation": "ここでは、「wildebeest」は Bernadette（バーナデット）のコードネームとして使われています。ヌー。"
+    },
+    {
+      "id": 37,
+      "value": "commence",
+      "options": [
+        "中断する",
+        "始める",
+        "忘れる",
+        "変更する"
+      ],
+      "correctAnswer": "始める",
+      "explanation": "「commence」は、「始める、開始する」という意味のフォーマルな言葉です。例文：The ceremony will commence at 10 a.m.（式典は午前10時に開始されます。）"
+    },
+    {
+      "id": 38,
+      "value": "cliquey",
+      "options": [
+        "友好的",
+        "人気",
+        "派閥的",
+        "平和的"
+      ],
+      "correctAnswer": "派閥的",
+      "explanation": "「cliquey」は、排他的なグループや派閥を作りたがる、またはそのようなグループに属しているという意味です。例文：The school was known for its cliquey atmosphere. (その学校は派閥的な雰囲気で知られていた。)"
+    },
+    {
+      "id": 39,
+      "value": "crap",
+      "options": [
+        "素晴らしいもの",
+        "重要なもの",
+        "くだらないこと",
+        "面白いこと"
+      ],
+      "correctAnswer": "くだらないこと",
+      "explanation": "「crap」は、くだらないこと、つまらないこと、または質の悪いものを意味するスラングです。例文：That movie was complete crap. (あの映画は全くのクソだった。)"
+    },
+    {
+      "id": 40,
+      "value": "puta",
+      "options": [
+        "友人",
+        "母親",
+        "売春婦",
+        "先生"
+      ],
+      "correctAnswer": "売春婦",
+      "explanation": "「puta」は、スペイン語で売春婦を意味する非常に侮辱的な言葉です。英語でも同様の意味で使用されます。"
+    },
+    {
+      "id": 41,
+      "value": "snide",
+      "options": [
+        "優しい",
+        "親切",
+        "皮肉な",
+        "正直な"
+      ],
+      "correctAnswer": "皮肉な",
+      "explanation": "「snide」は、皮肉で意地悪な、または見下したような態度を意味します。例文：She made a snide remark about his weight. (彼女は彼の体重について皮肉な発言をした。)"
+    },
+    {
+      "id": 42,
+      "value": "have faith in",
+      "options": [
+        "信じる",
+        "疑う",
+        "軽蔑する",
+        "無視する"
+      ],
+      "correctAnswer": "信じる",
+      "explanation": "「have faith in」は、～を信頼する、～を信じるという意味です。例文：I have faith in your ability to succeed. (私はあなたの成功する能力を信じています。)"
+    },
+    {
+      "id": 43,
+      "value": "befuddled",
+      "options": [
+        "混乱した",
+        "明確な",
+        "冷静な",
+        "落ち着いた"
+      ],
+      "correctAnswer": "混乱した",
+      "explanation": "「befuddled」は、当惑した、混乱したという意味です。例文：He was befuddled by the complex instructions. (彼は複雑な指示に当惑した。)"
+    },
+    {
+      "id": 44,
+      "value": "old woman six-and-a-third",
+      "options": [
+        "チェスの戦法",
+        "有名な女優",
+        "特定の場所",
+        "意味不明"
+      ],
+      "correctAnswer": "意味不明",
+      "explanation": "「old woman six-and-a-third」は、会話の流れから、Sheldonが3人チェスで使っている独特の表現であり、特に意味のある言葉ではありません。"
+    },
+    {
+      "id": 45,
+      "value": "feeling blue",
+      "options": [
+        "幸せ",
+        "怒り",
+        "悲しい",
+        "興奮"
+      ],
+      "correctAnswer": "悲しい",
+      "explanation": "「feeling blue」は、悲しい、憂鬱な気分であることを意味するイディオムです。例文：She's been feeling blue since her cat died. (彼女は猫が死んでからずっと憂鬱だ。)"
+    },
+    {
+      "id": 46,
+      "value": "not so much A as B",
+      "options": [
+        "Aと同様にB",
+        "AではなくB",
+        "AまたはB",
+        "AとBの両方"
+      ],
+      "correctAnswer": "AではなくB",
+      "explanation": "「not so much A as B」は、「AというよりはむしろB」という意味の表現です。AよりもBの方がより適切であることを示します。例文：He's not so much a leader as a follower. (彼はリーダーというよりはむしろフォロワーだ。)"
+    },
+    {
+      "id": 47,
+      "value": "assign",
+      "options": [
+        "割り当てる",
+        "忘れる",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "割り当てる",
+      "explanation": "「assign」は、割り当てる、任命するという意味です。ここでは、色を感情に割り当てることを意味しています。例文：The teacher assigned homework for the weekend. (先生は週末の宿題を割り当てた。)"
+    },
+    {
+      "id": 48,
+      "value": "mall",
+      "options": [
+        "学校",
+        "ショッピングモール",
+        "公園",
+        "病院"
+      ],
+      "correctAnswer": "ショッピングモール",
+      "explanation": "「mall」は、ショッピングモールを指します。多くの店舗が集まっている場所です。"
+    },
+    {
+      "id": 49,
+      "value": "pathetic",
+      "options": [
+        "同情的な",
+        "感動的な",
+        "哀れな",
+        "勇敢な"
+      ],
+      "correctAnswer": "哀れな",
+      "explanation": "「pathetic」は、哀れな、悲惨なという意味です。同情を誘うような状態を表します。例文：He looked pathetic standing in the rain. (彼は雨の中に立っていて哀れに見えた。)"
+    },
+    {
+      "id": 50,
+      "value": "shadow",
+      "options": [
+        "光",
+        "影",
+        "希望",
+        "現実"
+      ],
+      "correctAnswer": "影",
+      "explanation": "「shadow」は、影という意味ですが、ここでは比喩的に「存在感のない人」を指しています。例文：He lived in the shadow of his successful brother. (彼は成功した兄の影に隠れて生きていた。)"
+    },
+    {
+      "id": 51,
+      "value": "catching on",
+      "options": [
+        "流行する",
+        "捕まえる",
+        "理解する",
+        "燃え上がる"
+      ],
+      "correctAnswer": "流行する",
+      "explanation": "「catch on」は、人気が出始める、流行するという意味です。アイデアや習慣、製品などが広まる状況を表します。また、人が何かを理解するという意味もあります。"
+    },
+    {
+      "id": 52,
+      "value": "protocol",
+      "options": [
+        "手順",
+        "予言",
+        "賛成",
+        "本質"
+      ],
+      "correctAnswer": "手順",
+      "explanation": "「protocol」は、儀礼、手順、外交儀礼といった意味合いを持つ単語です。社会的な場面や国際的な取り決めにおいて、合意された行動規範やルールを指します。"
+    },
+    {
+      "id": 53,
+      "value": "bouillon",
+      "options": [
+        "お茶",
+        "ブイヨン",
+        "お酒",
+        "サプリメント"
+      ],
+      "correctAnswer": "ブイヨン",
+      "explanation": "「bouillon」は、肉や野菜などを煮込んで作ったスープ、ブイヨンのことです。フランス語由来の言葉で、料理のベースとして使われます。"
+    },
+    {
+      "id": 54,
+      "value": "feeble-minded",
+      "options": [
+        "心が広い",
+        "頭が弱い",
+        "心が狭い",
+        "頭が良い"
+      ],
+      "correctAnswer": "頭が弱い",
+      "explanation": "「feeble-minded」は、知恵が足りない、知能が低いという意味です。軽蔑的なニュアンスを含むことがあります。"
+    },
+    {
+      "id": 55,
+      "value": "basket case",
+      "options": [
+        "贈り物",
+        "絶望的な状態",
+        "お買い得品",
+        "幸運な人"
+      ],
+      "correctAnswer": "絶望的な状態",
+      "explanation": "「basket case」は、精神的または感情的に非常に不安定な状態、または役に立たない状態を指す口語的な表現です。元々は戦争で手足を失った兵士を指す言葉でしたが、現在ではより広範な意味で使われます。"
+    },
+    {
+      "id": 56,
+      "value": "beta-blocker",
+      "options": [
+        "ベータ遮断薬",
+        "抗菌薬",
+        "鎮痛剤",
+        "精神安定剤"
+      ],
+      "correctAnswer": "ベータ遮断薬",
+      "explanation": "「beta-blocker」は、ベータ遮断薬のことです。主に高血圧や心臓病の治療に使用されますが、不安や緊張を和らげる効果もあるため、社会不安障害の治療にも用いられることがあります。"
+    },
+    {
+      "id": 57,
+      "value": "bread and butter",
+      "options": [
+        "主な収入源",
+        "趣味",
+        "贅沢品",
+        "隠し事"
+      ],
+      "correctAnswer": "主な収入源",
+      "explanation": "「bread and butter」は、生活の糧、主な収入源という意味のイディオムです。文字通りには「パンとバター」ですが、生活を支えるものを指します。"
+    },
+    {
+      "id": 58,
+      "value": "gobble up",
+      "options": [
+        "ゆっくり食べる",
+        "急いで食べる",
+        "調理する",
+        "腐らせる"
+      ],
+      "correctAnswer": "急いで食べる",
+      "explanation": "「gobble up」は、がつがつ食べる、むさぼり食うという意味です。比喩的には、何かを熱心に消費したり、利用したりする意味合いも持ちます。"
+    },
+    {
+      "id": 59,
+      "value": "work this out",
+      "options": [
+        "運動する",
+        "解決する",
+        "無視する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "解決する",
+      "explanation": "「work out」は、問題を解決する、理解するという意味の句動詞です。また、計画を立てる、運動するという意味もあります。"
+    },
+    {
+      "id": 60,
+      "value": "grill",
+      "options": [
+        "焼く",
+        "質問攻めにする",
+        "冷やす",
+        "無視する"
+      ],
+      "correctAnswer": "質問攻めにする",
+      "explanation": "「grill」は、尋問する、質問攻めにするという意味です。比喩的に、厳しい質問を浴びせる様子を表します。元々は「焼く」という意味の動詞です。"
+    },
+    {
+      "id": 61,
+      "value": "get over",
+      "options": [
+        "乗り越える",
+        "忘れる",
+        "手に入れる",
+        "諦める"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get over」は、（困難や障害などを）乗り越える、（悲しみやショックから）立ち直るという意味です。"
+    },
+    {
+      "id": 62,
+      "value": "up to",
+      "options": [
+        "〜次第",
+        "〜まで",
+        "〜の近くに",
+        "〜を信じて"
+      ],
+      "correctAnswer": "〜次第",
+      "explanation": "「up to」は、〜次第、〜の責任である、という意味です。また、〜に従事している、〜を企んでいる、という意味もあります。"
+    },
+    {
+      "id": 63,
+      "value": "implausible",
+      "options": [
+        "信じられない",
+        "不注意な",
+        "丁寧な",
+        "重要な"
+      ],
+      "correctAnswer": "信じられない",
+      "explanation": "「implausible」は、ありそうもない、信じがたいという意味です。尤もらしさや信憑性に欠ける状況を表します。"
+    },
+    {
+      "id": 64,
+      "value": "hang with",
+      "options": [
+        "電話する",
+        "友達と遊ぶ",
+        "喧嘩する",
+        "無視する"
+      ],
+      "correctAnswer": "友達と遊ぶ",
+      "explanation": "「hang with」は、友達と時間を過ごす、一緒に遊ぶという意味です。親しい間柄でリラックスした状況で使われます。"
+    },
+    {
+      "id": 65,
+      "value": "whimsy",
+      "options": [
+        "気まぐれ",
+        "悲しみ",
+        "誠実さ",
+        "現実"
+      ],
+      "correctAnswer": "気まぐれ",
+      "explanation": "「whimsy」は、気まぐれ、奇抜さ、風変わりという意味です。ユーモラスで楽しい、予想外の行動やアイデアを指します。"
+    },
+    {
+      "id": 66,
+      "value": "boundless",
+      "options": [
+        "無限の",
+        "少ない",
+        "制限された",
+        "危険な"
+      ],
+      "correctAnswer": "無限の",
+      "explanation": "「boundless」は、無限の、広大な、限界がないという意味です。可能性や範囲に制限がないことを表します。"
+    },
+    {
+      "id": 67,
+      "value": "on to me",
+      "options": [
+        "私に夢中",
+        "私に気づいている",
+        "私に依存",
+        "私に反対"
+      ],
+      "correctAnswer": "私に気づいている",
+      "explanation": "「be on to someone」は、人の企みや秘密に気づいている、感づいているという意味です。疑念を抱いている状況を表します。"
+    },
+    {
+      "id": 68,
+      "value": "fall apart",
+      "options": [
+        "団結する",
+        "崩壊する",
+        "成長する",
+        "輝く"
+      ],
+      "correctAnswer": "崩壊する",
+      "explanation": "「fall apart」は、崩壊する、破綻するという意味です。物理的なものだけでなく、計画や関係などがうまくいかなくなる状況を表します。"
+    },
+    {
+      "id": 69,
+      "value": "gabfest",
+      "options": [
+        "お祝い",
+        "おしゃべり",
+        "沈黙",
+        "口論"
+      ],
+      "correctAnswer": "おしゃべり",
+      "explanation": "「gabfest」は、くだらないおしゃべり、無駄話という意味です。特に長い時間、気軽に行われる会話を指します。"
+    },
+    {
+      "id": 70,
+      "value": "covering my heinie",
+      "options": [
+        "現実逃避する",
+        "危機を回避する",
+        "新しい趣味を始める",
+        "宝くじを買う"
+      ],
+      "correctAnswer": "危機を回避する",
+      "explanation": "「cover one's heinie」は、自分の身を守る、責任を回避するという意味のスラングです。困難な状況や危険から逃れるために行動することを指します。"
+    },
+    {
+      "id": 71,
+      "value": "what's up with",
+      "options": [
+        "〜と仲直りする",
+        "〜を修理する",
+        "〜と競争する",
+        "〜はどうなっているのか"
+      ],
+      "correctAnswer": "〜はどうなっているのか",
+      "explanation": "「what's up with」は、〜はどうなっているのか、〜の具合はどうなのかという意味です。特定の状況や人について情報を求めるときに使われます。"
+    },
+    {
+      "id": 72,
+      "value": "quit on",
+      "options": [
+        "頼る",
+        "裏切る",
+        "信頼する",
+        "依存する"
+      ],
+      "correctAnswer": "裏切る",
+      "explanation": "「quit on」は、（人やプロジェクトを）見捨てる、途中でやめるという意味です。期待を裏切るようなニュアンスを含みます。"
+    },
+    {
+      "id": 73,
+      "value": "positively",
+      "options": [
+        "否定的に",
+        "確実に",
+        "曖昧に",
+        "偶然に"
+      ],
+      "correctAnswer": "確実に",
+      "explanation": "「positively」は、「確実に」「疑いなく」という意味の副詞です。また、「非常に」「全く」という意味で、形容詞を強調する際にも使用されます。"
+    },
+    {
+      "id": 74,
+      "value": "in one's time of need",
+      "options": [
+        "暇なとき",
+        "必要なとき",
+        "休憩時間",
+        "就寝時間"
+      ],
+      "correctAnswer": "必要なとき",
+      "explanation": "「in one's time of need」は、「必要なときに」「困っているときに」という意味です。人が困難な状況に直面している時に、助けや支援を提供する場面で使われます。"
+    },
+    {
+      "id": 75,
+      "value": "the regular way",
+      "options": [
+        "特別な方法",
+        "普通の方法",
+        "緊急の方法",
+        "秘密の方法"
+      ],
+      "correctAnswer": "普通の方法",
+      "explanation": "「the regular way」は、「普通の方法で」「通常の方法で」という意味です。特別な手順や例外ではなく、一般的な方法や手段を用いて何かを行うことを指します。"
+    },
+    {
+      "id": 76,
+      "value": "strive to emulate",
+      "options": [
+        "真似るように努力する",
+        "無視するように努力する",
+        "忘れるように努力する",
+        "理解するように努力する"
+      ],
+      "correctAnswer": "真似るように努力する",
+      "explanation": "「strive to emulate」は、～をエミュレート（模倣）するように努力するという意味です。良い手本や目標となる人物の行動や性質を積極的に真似ようと努力する際に使われます。ビジネスシーンや自己啓発の文脈でよく用いられます。\n\n例：He strives to emulate his mentor's leadership style. (彼は指導者のリーダーシップスタイルを真似ようと努力している。)"
+    },
+    {
+      "id": 77,
+      "value": "forgive me for staring",
+      "options": [
+        "見つめてごめんなさい",
+        "許してください",
+        "挨拶させてください",
+        "一緒に踊りませんか"
+      ],
+      "correctAnswer": "見つめてごめんなさい",
+      "explanation": "「Forgive me for staring」は、見つめてしまって申し訳ない、という意味です。相手の美しさや珍しさに目を奪われ、無礼にあたるかもしれないという意識がある時に使われます。相手への配慮を示す丁寧な表現です。\n\n例：Forgive me for staring, but your dress is absolutely stunning. (見つめてしまって申し訳ないのですが、あなたのドレスは本当に素晴らしいです。)"
+    },
+    {
+      "id": 78,
+      "value": "derived from",
+      "options": [
+        "由来する",
+        "必要とする",
+        "隠蔽する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "由来する",
+      "explanation": "「derived from」は、～に由来する、～から派生するという意味です。語源、起源、出所などを説明する際に使われます。学術的な文脈や、物事のルーツを説明する際によく用いられます。\n\n例：The word 'algorithm' is derived from the name of the Persian mathematician Al-Khwarizmi. (「アルゴリズム」という言葉は、ペルシャの数学者アル＝フワーリズミーの名前に由来する。)"
+    },
+    {
+      "id": 79,
+      "value": "earmarked for",
+      "options": [
+        "～のために取っておく",
+        "～のために販売する",
+        "～のために隠す",
+        "～のために使う"
+      ],
+      "correctAnswer": "～のために取っておく",
+      "explanation": "「earmarked for」は、特定の目的のために取っておく、指定された用途のために割り当てるという意味です。資金や資源の用途を明確にする際に用いられます。\n\n例：This money is earmarked for the new school building. (このお金は新しい校舎の建設のために取ってあります。)"
+    },
+    {
+      "id": 80,
+      "value": "get comfortable",
+      "options": [
+        "くつろぐ",
+        "運動する",
+        "準備する",
+        "出発する"
+      ],
+      "correctAnswer": "くつろぐ",
+      "explanation": "「get comfortable」は、くつろぐ、楽にするという意味です。物理的に楽な姿勢をとるだけでなく、精神的にリラックスするニュアンスも含まれます。\n\n例：Please, get comfortable and make yourself at home. (どうぞくつろいで、自分の家のように過ごしてください。)"
+    },
+    {
+      "id": 81,
+      "value": "rude",
+      "options": [
+        "失礼な",
+        "礼儀正しい",
+        "普通の",
+        "賢い"
+      ],
+      "correctAnswer": "失礼な",
+      "explanation": "「rude」は、失礼な、無礼なという意味です。相手の感情や立場を考慮しない言動を指します。フォーマルな場面だけでなく、日常会話でも広く使われます。\n\n例：It's rude to interrupt someone when they are talking. (人が話している時に邪魔をするのは失礼です。)"
+    },
+    {
+      "id": 82,
+      "value": "expressive face",
+      "options": [
+        "表情豊かな顔",
+        "無表情な顔",
+        "ハンサムな顔",
+        "疲れた顔"
+      ],
+      "correctAnswer": "表情豊かな顔",
+      "explanation": "「expressive face」は、表情豊かな顔という意味です。感情が顔に出やすく、気持ちを伝えやすい顔立ちを指します。役者やパフォーマーを褒める際にも使われます。\n\n例：She has a very expressive face, which makes her a great actress. (彼女はとても表情豊かな顔をしており、それが彼女を素晴らしい女優にしている。)"
+    },
+    {
+      "id": 83,
+      "value": "Ta-da!",
+      "options": [
+        "ジャーン!",
+        "おやすみ!",
+        "こんにちは!",
+        "ありがとう!"
+      ],
+      "correctAnswer": "ジャーン!",
+      "explanation": "「Ta-da!」は、ジャーン！という、何かを披露する時や発表する時に使われる感嘆詞です。マジックショーやサプライズなど、注目を集めたい時に使われます。\n\n例：Ta-da! I finished the project! (ジャーン！プロジェクトが終わったぞ！)"
+    },
+    {
+      "id": 84,
+      "value": "get along",
+      "options": [
+        "仲良くする",
+        "喧嘩する",
+        "迷子になる",
+        "急いで行く"
+      ],
+      "correctAnswer": "仲良くする",
+      "explanation": "「get along」は、仲良くする、うまくやっていくという意味です。人との関係性だけでなく、仕事やプロジェクトが順調に進んでいる状況を表すこともあります。\n\n例：They get along very well despite their different personalities. (彼らは性格が違うにもかかわらず、とても仲良くやっている。)"
+    },
+    {
+      "id": 85,
+      "value": "old-fashioned",
+      "options": [
+        "古風な",
+        "最新の",
+        "伝統的な",
+        "革新的な"
+      ],
+      "correctAnswer": "古風な",
+      "explanation": "「old-fashioned」は、古風な、時代遅れのという意味です。考え方、服装、習慣などが古い時代のものであることを指します。必ずしも否定的な意味ではなく、懐かしさや趣を表すこともあります。\n\n例：My grandparents have very old-fashioned ideas about marriage. (私の祖父母は結婚について非常に古風な考え方を持っている。)"
+    },
+    {
+      "id": 86,
+      "value": "not there yet",
+      "options": [
+        "まだそこまでいっていない",
+        "すぐそこだ",
+        "迷子になった",
+        "準備ができた"
+      ],
+      "correctAnswer": "まだそこまでいっていない",
+      "explanation": "「not there yet」は、まだそこまでいっていない、まだその段階ではないという意味です。目標や関係性などがまだ成熟していない状態を表します。時間や努力が必要であることを示唆します。\n\n例：We're not there yet in terms of developing a fully sustainable energy source. (完全に持続可能なエネルギー源を開発するという点では、まだそこまでいっていない。)"
+    },
+    {
+      "id": 87,
+      "value": "tinkle",
+      "options": [
+        "おしっこをする",
+        "歌う",
+        "笑う",
+        "泣く"
+      ],
+      "correctAnswer": "おしっこをする",
+      "explanation": "「tinkle」は、婉曲的に「おしっこをする」という意味で使われます。子供や親しい間柄での会話で用いられることが多いです。直接的な表現を避けたい場合に用います。\n\n例：I need to tinkle before we leave. (出かける前にトイレに行きたい。)"
+    },
+    {
+      "id": 88,
+      "value": "What's up with you?",
+      "options": [
+        "どうかしたの？",
+        "元気ですか？",
+        "どこに行くの？",
+        "何してるの？"
+      ],
+      "correctAnswer": "どうかしたの？",
+      "explanation": "「What's up with you?」は、どうかしたの？何かあったの？という意味です。相手の様子が普段と違う時に、心配や関心を示すために使われます。\n\n例：You seem quiet today. What's up with you? (今日は静かに見えるね。どうかしたの？)"
+    },
+    {
+      "id": 89,
+      "value": "storm out",
+      "options": [
+        "怒って出ていく",
+        "喜んで入ってくる",
+        "静かに座る",
+        "笑い転げる"
+      ],
+      "correctAnswer": "怒って出ていく",
+      "explanation": "「storm out」は、怒って出ていく、激しく立ち去るという意味です。感情が高ぶった状態で、強い不満や怒りを表すために使われます。\n\n例：He stormed out of the meeting after the argument. (彼は議論の後、怒って会議から出て行った。)"
+    },
+    {
+      "id": 90,
+      "value": "terrific",
+      "options": [
+        "素晴らしい",
+        "ひどい",
+        "普通",
+        "つまらない"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、素晴らしい、最高のという意味です。非常に良い状態や、感動的な出来事を表現する際に使われます。日常会話で広く使われる表現です。\n\n例：We had a terrific time at the party. (パーティーで素晴らしい時間を過ごした。)"
+    },
+    {
+      "id": 91,
+      "value": "befuddled",
+      "options": [
+        "当惑した",
+        "満足した",
+        "興奮した",
+        "退屈した"
+      ],
+      "correctAnswer": "当惑した",
+      "explanation": "「befuddled」は、当惑した、混乱したという意味です。理解できない状況や、複雑な問題に直面した時に使われます。\n\n例：I'm completely befuddled by these instructions. (これらの指示には完全に当惑している。)"
+    },
+    {
+      "id": 92,
+      "value": "catapult",
+      "options": [
+        "投石機",
+        "自動車",
+        "飛行機",
+        "自転車"
+      ],
+      "correctAnswer": "投石機",
+      "explanation": "「catapult」は、投石機という意味です。比喩的に、何かを勢いよく送り出す、推進するという意味でも使われます。ゲームやファンタジー小説などでよく見られる単語です。\n\n例：The company used the new product as a catapult to increase its market share. (その会社は新製品を、市場シェアを拡大するための投石機として利用した。)"
+    },
+    {
+      "id": 93,
+      "value": "transporter pad",
+      "options": [
+        "転送パッド",
+        "着陸パッド",
+        "充電パッド",
+        "発射台"
+      ],
+      "correctAnswer": "転送パッド",
+      "explanation": "「transporter pad」は、SF作品でよく登場する転送装置のパッドのことです。ある場所から別の場所へ瞬時に移動するために使われます。主にSFファンが使う言葉です。\n\n例：He stepped onto the transporter pad and disappeared in a flash of light. (彼は転送パッドに乗り、閃光の中で姿を消した。)"
+    },
+    {
+      "id": 94,
+      "value": "hang on",
+      "options": [
+        "待って",
+        "諦めて",
+        "出発して",
+        "忘れて"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on」は、待って、ちょっと待ってという意味です。相手に少しの間待つように頼む時に使います。カジュアルな会話でよく使われる表現です。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+    },
+    {
+      "id": 95,
+      "value": "obviously",
+      "options": [
+        "明らかに",
+        "秘密に",
+        "多分",
+        "絶対に"
+      ],
+      "correctAnswer": "明らかに",
+      "explanation": "「obviously」は、明らかに、当然ながらという意味です。誰にとっても明白であることや、議論の余地がないことを強調する際に使われます。\n\n例：Obviously, we need to find a solution to this problem. (明らかに、この問題の解決策を見つける必要がある。)"
+    },
+    {
+      "id": 96,
+      "value": "capture",
+      "options": [
+        "捕獲する",
+        "解放する",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "捕獲する",
+      "explanation": "「capture」は、捕獲する、捉えるという意味です。物理的に捕まえるだけでなく、情報やデータを取り込むという意味でも使われます。ゲームやビジネスの文脈でもよく用いられます。\n\n例：The police captured the suspect after a long chase. (警察は長い追跡の末、容疑者を捕獲した。)"
+    },
+    {
+      "id": 97,
+      "value": "release",
+      "options": [
+        "解放する",
+        "捕獲する",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "解放する",
+      "explanation": "「release」は、解放する、公開するという意味です。物理的な束縛から解放するだけでなく、情報や製品などを一般に公開する際にも使われます。\n\n例：The company will release its new product next month. (その会社は来月新製品を発売する。)"
+    },
+    {
+      "id": 98,
+      "value": "swarm",
+      "options": [
+        "群れ",
+        "孤独",
+        "静けさ",
+        "平和"
+      ],
+      "correctAnswer": "群れ",
+      "explanation": "「swarm」は、群れ、大群という意味です。昆虫などが集団で移動する様子や、人が大勢集まっている様子を表します。比喩的に、何かが大量に発生する状況を表すこともあります。\n\n例：A swarm of bees flew over the garden. (ハチの群れが庭の上を飛んで行った。)"
+    },
+    {
+      "id": 99,
+      "value": "checkmate",
+      "options": [
+        "チェックメイト",
+        "引き分け",
+        "降参",
+        "勝利"
+      ],
+      "correctAnswer": "チェックメイト",
+      "explanation": "「checkmate」は、チェスでチェックメイト、詰みという意味です。比喩的に、どうすることもできない状況、完全な敗北を意味することもあります。\n\n例：The negotiations ended in checkmate, with neither side willing to compromise. (交渉はチェックメイトに終わり、どちらの側も妥協する意思がなかった。)"
+    },
+    {
+      "id": 100,
+      "value": "jet pack",
+      "options": [
+        "ジェットパック",
+        "リュックサック",
+        "パラシュート",
+        "ヘルメット"
+      ],
+      "correctAnswer": "ジェットパック",
+      "explanation": "「jet pack」は、ジェットパックという意味です。背中に装着して空を飛ぶことができる装置を指します。SF作品や未来的な技術の象徴としてよく登場します。\n\n例：He dreamed of flying with a jet pack. (彼はジェットパックで空を飛ぶことを夢見ていた。)"
+    }
+  ]
+}

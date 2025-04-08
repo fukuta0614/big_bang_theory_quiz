@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "run into a snafu",
+      "options": [
+        "素晴らしい成果を上げる",
+        "深刻な問題に直面する",
+        "計画が順調に進む",
+        "予期せぬ幸運に恵まれる"
+      ],
+      "correctAnswer": "深刻な問題に直面する",
+      "explanation": "「snafu」は、特に計画やプロジェクトにおいて、予期せぬ問題や混乱が発生した状況を指します。軍事用語が起源で、「Situation Normal: All Fucked Up」の頭字語とされています。日常会話やビジネスシーンでも、深刻な問題や手違いを表現する際に使われます。\n\n例：We ran into a snafu with the delivery, so it will be delayed."
+    },
+    {
+      "id": 2,
+      "value": "bottom line",
+      "options": [
+        "最終的な結論",
+        "楽観的な見通し",
+        "追加の説明",
+        "表面的な情報"
+      ],
+      "correctAnswer": "最終的な結論",
+      "explanation": "「bottom line」は、議論や報告の「要点」「結論」を意味します。会計用語で損益計算書の最終行（純利益）を指すことから、最も重要な情報を表すようになりました。ビジネスシーンで頻繁に使われ、簡潔に結論を伝えたい場合に適しています。\n\n例：The bottom line is, we can't afford it.（結論として、私たちにはそれは買えません。）"
+    },
+    {
+      "id": 3,
+      "value": "scrubbed",
+      "options": [
+        "修正された",
+        "中止された",
+        "承認された",
+        "宣伝された"
+      ],
+      "correctAnswer": "中止された",
+      "explanation": "「scrub」は、計画やイベントなどを中止することを意味します。特に宇宙開発や軍事作戦など、綿密な準備が必要な状況で使われます。技術的な問題や安全上の懸念が原因で中止される場合に用いられることが多いです。\n\n例：The mission was scrubbed due to bad weather.（悪天候のため、ミッションは中止されました。）"
+    },
+    {
+      "id": 4,
+      "value": "noose",
+      "options": [
+        "装飾品",
+        "輪縄",
+        "食事",
+        "成功"
+      ],
+      "correctAnswer": "輪縄",
+      "explanation": "「noose」は、絞首刑などに使われる輪縄のことです。比喩的には、逃れられない状況や危険な状態を表すことがあります。この文脈では、タキシードを「noose」に例えることで、Sheldonが強い抵抗感を示していることが強調されています。\n\n例：The company's debt was a noose around its neck. (会社の負債は首を絞める輪縄だった。)"
+    },
+    {
+      "id": 5,
+      "value": "rescinded",
+      "options": [
+        "更新された",
+        "覆された",
+        "確認された",
+        "提案された"
+      ],
+      "correctAnswer": "覆された",
+      "explanation": "「rescind」は、公式な決定や命令などを取り消す、撤回するという意味です。法的な文脈や、権威のある人物が以前の決定を覆す際に用いられます。日常会話ではあまり使われません。\n\n例：The policy was rescinded after public outcry. (世論の反発の後、その政策は撤回された。)"
+    },
+    {
+      "id": 6,
+      "value": "no go",
+      "options": [
+        "進行可能",
+        "中止",
+        "検討中",
+        "保留"
+      ],
+      "correctAnswer": "中止",
+      "explanation": "「no go」は、計画やプロジェクトが中止される、または許可されないことを意味します。宇宙開発の分野でよく使われ、技術的な問題や安全上の理由で実行不可能と判断された場合に用いられます。口語的な表現で、日常会話でも使われることがあります。\n\n例：The project is a no-go due to budget constraints.（予算の制約のため、そのプロジェクトは中止です。）"
+    },
+    {
+      "id": 7,
+      "value": "free-fall",
+      "options": [
+        "自由落下",
+        "急上昇",
+        "安定飛行",
+        "緩やかな降下"
+      ],
+      "correctAnswer": "自由落下",
+      "explanation": "「free-fall」は、重力以外の力がほとんど働かない状態で落下することを意味します。スカイダイビングや宇宙からの帰還など、特定の状況を指すことが多いです。比喩的には、制御不能な状態や急激な崩壊を表すこともあります。\n\n例：The company went into free-fall after the scandal. (その会社はスキャンダルの後、制御不能な状態に陥った。)"
+    },
+    {
+      "id": 8,
+      "value": "brags about",
+      "options": [
+        "後悔する",
+        "自慢する",
+        "心配する",
+        "謙遜する"
+      ],
+      "correctAnswer": "自慢する",
+      "explanation": "「brag about」は、自分の業績や所有物などを大げさに自慢することを意味します。しばしば、相手に不快感を与えるような、自己中心的で傲慢な態度を伴います。謙虚さとは対照的な行為です。\n\n例：He always brags about his expensive car. (彼はいつも自分の高価な車を自慢する。)"
+    },
+    {
+      "id": 9,
+      "value": "burning up",
+      "options": [
+        "凍えている",
+        "非常に暑い",
+        "疲れている",
+        "興奮している"
+      ],
+      "correctAnswer": "非常に暑い",
+      "explanation": "「burning up」は、非常に暑い、または熱を持っている状態を表します。文字通りには燃えている状態を指しますが、比喩的には感情が高ぶっている状態を表すこともあります。この文脈では、Sheldonが長袖の下着を着ているため、暑いと感じていることを表しています。\n\n例：I'm burning up; can we turn on the air conditioning? (すごく暑いんだけど、エアコンをつけてもらえる？)"
+    },
+    {
+      "id": 10,
+      "value": "dashing",
+      "options": [
+        "不器用な",
+        "魅力的な",
+        "退屈な",
+        "控えめな"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「dashing」は、男性の外見や雰囲気が魅力的で、自信に満ち溢れている様子を表します。特に、服装や身のこなしが洗練されている場合に用いられます。古風な表現ですが、文学作品や映画などでよく見られます。\n\n例：He looked dashing in his tuxedo. (彼はタキシードを着てとても魅力的だった。)"
+    },
+    {
+      "id": 11,
+      "value": "gas canister",
+      "options": [
+        "ゴミ箱",
+        "ガスボンベ",
+        "救急箱",
+        "工具箱"
+      ],
+      "correctAnswer": "ガスボンベ",
+      "explanation": "「gas canister」は、ガスを貯蔵・運搬するための容器のことです。キャンプ用品や工業用途など、様々な場面で使用されます。ここでは、Leonardが実験で使用するガスをPennyに見せるために持ってきたことを意味します。\n\n例：We need to refill the gas canister for the camping stove. (キャンプ用コンロのために、ガスボンベを補充する必要があります。)"
+    },
+    {
+      "id": 12,
+      "value": "opening line",
+      "options": [
+        "終わりの言葉",
+        "最初の言葉",
+        "要約",
+        "謝罪"
+      ],
+      "correctAnswer": "最初の言葉",
+      "explanation": "「opening line」は、会話やスピーチなどの最初の言葉、または冒頭部分を指します。特に、人を惹きつけるような魅力的な最初の言葉を指すことが多いです。異性を口説く際の第一声としても使われます。\n\n例：He had a great opening line, but the conversation went downhill from there. (彼は素晴らしい第一声だったが、会話はそこから悪化した。)"
+    },
+    {
+      "id": 13,
+      "value": "take things slow",
+      "options": [
+        "急いで行動する",
+        "慎重に進める",
+        "無視する",
+        "諦める"
+      ],
+      "correctAnswer": "慎重に進める",
+      "explanation": "「take things slow」は、物事をゆっくりと、慎重に進めることを意味します。特に、恋愛関係において、関係の進展を急がずに、時間をかけてお互いを理解し合うことを指します。焦らず、着実に進みたい場合に用いられます。\n\n例：We decided to take things slow and see where it goes. (私たちはゆっくりと進めて、どうなるか見守ることにしました。)"
+    },
+    {
+      "id": 14,
+      "value": "run into",
+      "options": [
+        "避ける",
+        "直面する",
+        "解決する",
+        "無視する"
+      ],
+      "correctAnswer": "直面する",
+      "explanation": "「run into」は、予期せず人や問題に出会うことを意味します。人に出会う場合は「偶然出会う」、問題に出会う場合は「問題に直面する」という意味合いで使われます。この文脈では、NASAがHowardのミッションに関する問題に直面したことを意味します。\n\n例：I ran into an old friend at the store yesterday. (昨日、店で旧友に偶然出会った。)\nWe ran into some unexpected problems during the project. (プロジェクト中に予期せぬ問題に直面した。)"
+    },
+    {
+      "id": 15,
+      "value": "stuck at",
+      "options": [
+        "熟達している",
+        "停滞している",
+        "熱中している",
+        "改善している"
+      ],
+      "correctAnswer": "停滞している",
+      "explanation": "「stuck at」は、あるレベルや地点で進歩がなく、停滞している状態を表します。具体的な数値やスキル、状況など、様々なものに対して使われます。この文脈では、Howardが腕立て伏せの回数が9回から増えないことを意味します。\n\n例：I'm stuck at this level in the game. (ゲームのこのレベルで停滞している。)\nThe project is stuck at the planning stage. (プロジェクトは計画段階で停滞している。)"
+    },
+    {
+      "id": 16,
+      "value": "all the way down",
+      "options": [
+        "完全に上まで",
+        "完全に下まで",
+        "途中で止まる",
+        "少しだけ下がる"
+      ],
+      "correctAnswer": "完全に下まで",
+      "explanation": "「all the way down」は、完全に下まで、または最後までという意味です。この文脈では、Howardが誰にも支えられずに腕立て伏せを最後までできることを強調しています。\n\n例：He swam all the way down to the bottom of the pool. (彼はプールの底まで完全に泳ぎ切った。)"
+    },
+    {
+      "id": 17,
+      "value": "kidding",
+      "options": [
+        "真剣な",
+        "冗談を言っている",
+        "怒っている",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「kidding」は、冗談を言っている、またはからかっているという意味です。相手の発言が信じられない場合や、疑わしい場合に用いられます。この文脈では、HowardがNASAの担当者の発言を信じられない気持ちを表しています。\n\n例：Are you kidding me? That's unbelievable! (冗談でしょ？信じられない！)"
+    },
+    {
+      "id": 18,
+      "value": "relieved",
+      "options": [
+        "落胆した",
+        "安心した",
+        "興奮した",
+        "混乱した"
+      ],
+      "correctAnswer": "安心した",
+      "explanation": "「relieved」は、心配や不安が解消されて、安心した気持ちを表します。困難な状況や危険な状態から解放されたときに用いられます。この文脈では、LeonardがHowardが宇宙に行かなくなったことを安心していることを意味します。\n\n例：I was so relieved to hear that you were safe. (あなたが無事だと聞いてとても安心した。)"
+    },
+    {
+      "id": 19,
+      "value": "check out",
+      "options": [
+        "無視する",
+        "確認する",
+        "非難する",
+        "避ける"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check out」は、確認する、調べる、または見てみるという意味です。この文脈では、Best Buyで人々が新しいBlu-rayプレーヤーを確認する場面を想定しています。\n\n例：Check out this new movie; it's supposed to be great. (この新しい映画を見てみて。とても素晴らしいらしいよ。)"
+    },
+    {
+      "id": 20,
+      "value": "pops out",
+      "options": [
+        "爆発する",
+        "飛び出す",
+        "消える",
+        "崩壊する"
+      ],
+      "correctAnswer": "飛び出す",
+      "explanation": "「pop out」は、突然飛び出す、または現れるという意味です。物理的なものだけでなく、アイデアや感情などが突然現れる場合にも使われます。この文脈では、宇宙船のパラシュートが突然開く様子を表しています。\n\n例：The toast popped out of the toaster. (トーストがトースターから飛び出した。)\nThe idea just popped into my head. (そのアイデアが突然頭に浮かんだ。)"
+    },
+    {
+      "id": 21,
+      "value": "tissue",
+      "options": [
+        "おもちゃ",
+        "ティッシュ",
+        "本",
+        "鍵"
+      ],
+      "correctAnswer": "ティッシュ",
+      "explanation": "「tissue」は、ティッシュペーパーのことです。鼻をかんだり、物を拭いたりするために使われます。ここでは、Sheldonが緊急時に備えてティッシュを求めている様子を表しています。\n\n例：Can I have a tissue, please? (ティッシュをいただけますか？)"
+    },
+    {
+      "id": 22,
+      "value": "for the record",
+      "options": [
+        "秘密に",
+        "念のために",
+        "明らかに",
+        "偶然に"
+      ],
+      "correctAnswer": "念のために",
+      "explanation": "「for the record」は、念のために、または記録のためにという意味です。自分の意見や情報を明確に伝えたい場合や、後で参照できるようにするために用いられます。\n\n例：For the record, I disagree with your decision. (念のために言っておきますが、私はあなたの決定に反対です。)"
+    },
+    {
+      "id": 23,
+      "value": "secondary use",
+      "options": [
+        "主な用途",
+        "二次的な用途",
+        "間違った用途",
+        "隠された用途"
+      ],
+      "correctAnswer": "二次的な用途",
+      "explanation": "「secondary use」は、主な用途とは別の、二次的な用途を意味します。ある製品や物質が、本来の目的とは異なる方法で使用される場合に使われます。ここでは、Leonardが持ってきたガスに、本来の目的とは異なる効果があることを示唆しています。\n\n例：The building's secondary use is as a community center. (その建物の二次的な用途はコミュニティセンターです。)"
+    },
+    {
+      "id": 24,
+      "value": "freaky",
+      "options": [
+        "普通の",
+        "奇妙な",
+        "退屈な",
+        "快適な"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "「freaky」は、奇妙な、異常な、または不気味なという意味です。通常とは異なる、または予測できない状況や物事に対して使われます。ここでは、PennyがLeonardのガスを吸って声が変わったことを表現しています。\n\n例：That movie was really freaky; I couldn't sleep afterwards. (あの映画は本当に奇妙で、その後眠れなかった。)"
+    },
+    {
+      "id": 25,
+      "value": "go downhill",
+      "options": [
+        "改善する",
+        "悪化する",
+        "停止する",
+        "加速する"
+      ],
+      "correctAnswer": "悪化する",
+      "explanation": "「go downhill」は、状況や品質などが悪化する、または衰退していくという意味です。物理的な坂道を下る様子から派生した表現で、比喩的に使われます。\n\n例：After the new management took over, the company started to go downhill. (新しい経営陣が引き継いだ後、会社は悪化し始めた。)"
+    },
+    {
+      "id": 26,
+      "value": "heads-up",
+      "options": [
+        "警告",
+        "励まし",
+        "提案",
+        "招待"
+      ],
+      "correctAnswer": "警告",
+      "explanation": "「heads-up」は、注意や警告を与えるという意味です。何か問題や変化が起こる前に、人に知らせる際に使われます。ビジネスシーンでもカジュアルな場面でも使用可能です。\n\n例：Just a heads-up, the meeting has been moved to 3 PM. (念のためお知らせしますが、会議は午後3時に変更されました。)"
+    },
+    {
+      "id": 27,
+      "value": "right on time",
+      "options": [
+        "時間通り",
+        "準備完了",
+        "ほぼ完了",
+        "予想通り"
+      ],
+      "correctAnswer": "時間通り",
+      "explanation": "「right on time」は、予定された時間ぴったりに、遅れることなくという意味です。正確さやタイミングの良さを強調する際に使われます。\n\n例：The train arrived right on time. (電車は時間通りに到着しました。)"
+    },
+    {
+      "id": 28,
+      "value": "tempting",
+      "options": [
+        "魅力的な",
+        "簡単な",
+        "退屈な",
+        "複雑な"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「tempting」は、人を引きつけたり、誘惑したりするほど魅力的であるという意味です。何かをしたいという欲求を刺激するような状況を表す際に使われます。\n\n例：The dessert menu was very tempting. (デザートメニューは非常に魅力的でした。)"
+    },
+    {
+      "id": 29,
+      "value": "reluctant",
+      "options": [
+        "乗り気でない",
+        "準備万端の",
+        "熱心な",
+        "強制的な"
+      ],
+      "correctAnswer": "乗り気でない",
+      "explanation": "「reluctant」は、気が進まない、ためらうという意味です。何かをすることに対して抵抗感がある状態を表します。\n\n例：He was reluctant to admit he was wrong. (彼は自分が間違っていることを認めたがらなかった。)"
+    },
+    {
+      "id": 30,
+      "value": "dip into",
+      "options": [
+        "活用する",
+        "無視する",
+        "隠す",
+        "遠ざける"
+      ],
+      "correctAnswer": "活用する",
+      "explanation": "「dip into」は、(資金、知識、スキルなど)を少し使う、活用するという意味です。特に、蓄えてあったものを少し取り出すニュアンスがあります。\n\n例：I had to dip into my savings to pay for the repairs. (修理代を払うために貯金を切り崩さなければならなかった。)"
+    },
+    {
+      "id": 31,
+      "value": "devised",
+      "options": [
+        "考案した",
+        "拒否した",
+        "盗んだ",
+        "隠した"
+      ],
+      "correctAnswer": "考案した",
+      "explanation": "「devise」は、工夫して何かを考え出す、考案するという意味です。計画や方法などを具体的に作り上げる際に使われます。\n\n例：They devised a plan to escape. (彼らは脱出計画を考案した。)"
+    },
+    {
+      "id": 32,
+      "value": "accelerated",
+      "options": [
+        "加速された",
+        "減速された",
+        "無視された",
+        "中断された"
+      ],
+      "correctAnswer": "加速された",
+      "explanation": "「accelerated」は、速度や進行が速められた、加速されたという意味です。通常よりも速いペースで進むことを表します。\n\n例：The company is on an accelerated growth path. (その会社は急速な成長を遂げている。)"
+    },
+    {
+      "id": 33,
+      "value": "malarkey",
+      "options": [
+        "ばかげた話",
+        "真実",
+        "重要な情報",
+        "賢い戦略"
+      ],
+      "correctAnswer": "ばかげた話",
+      "explanation": "「malarkey」は、ナンセンス、ばかげた話、たわごとという意味です。特に、人を欺くような嘘や誇張された話を指す際に使われます。\n\n例：Don't give me that malarkey! (そんなでたらめを言うな！)"
+    },
+    {
+      "id": 34,
+      "value": "poppycock",
+      "options": [
+        "ナンセンス",
+        "重要な事実",
+        "素晴らしいアイデア",
+        "一般的な意見"
+      ],
+      "correctAnswer": "ナンセンス",
+      "explanation": "「poppycock」は、ナンセンス、ばかげたこと、たわごとという意味です。malarkeyと似た意味ですが、より古風で、ややユーモラスな響きがあります。\n\n例：That's a load of poppycock! (それは全くのナンセンスだ！)"
+    },
+    {
+      "id": 35,
+      "value": "triggering",
+      "options": [
+        "引き起こす",
+        "隠す",
+        "避ける",
+        "抑える"
+      ],
+      "correctAnswer": "引き起こす",
+      "explanation": "「trigger」は、(反応や出来事を)引き起こす、誘発するという意味です。ある行動や状況が、特定の反応やプロセスを開始させることを指します。\n\n例：The alarm was triggered by the smoke. (煙によって警報が作動した。)"
+    },
+    {
+      "id": 36,
+      "value": "involuntary",
+      "options": [
+        "無意識の",
+        "自発的な",
+        "強制的な",
+        "計画的な"
+      ],
+      "correctAnswer": "無意識の",
+      "explanation": "「involuntary」は、無意識の、不随意のという意味です。自分の意志とは関係なく起こる行動や反応を指します。\n\n例：Breathing is an involuntary action. (呼吸は無意識的な行動です。)"
+    },
+    {
+      "id": 37,
+      "value": "admittedly",
+      "options": [
+        "認めるところによれば",
+        "明らかに",
+        "絶対に",
+        "否定的に"
+      ],
+      "correctAnswer": "認めるところによれば",
+      "explanation": "「admittedly」は、認めるところによれば、確かにという意味です。自分の発言や意見に対して、一部を認めたり譲歩したりする際に使われます。\n\n例：Admittedly, it was my fault. (認めるところによれば、それは私のせいでした。)"
+    },
+    {
+      "id": 38,
+      "value": "narrowly beating out",
+      "options": [
+        "僅差で勝つ",
+        "大差で負ける",
+        "完全に無視する",
+        "互角である"
+      ],
+      "correctAnswer": "僅差で勝つ",
+      "explanation": "「narrowly beat out」は、僅差で勝つ、かろうじて上回るという意味です。競争や比較において、わずかな差で勝利することを表します。\n\n例：Our team narrowly beat out the competition. (私たちのチームは僅差で競争に勝ちました。)"
+    },
+    {
+      "id": 39,
+      "value": "crossed a line",
+      "options": [
+        "一線を越える",
+        "成功する",
+        "目標を達成する",
+        "ルールを守る"
+      ],
+      "correctAnswer": "一線を越える",
+      "explanation": "「cross a line」は、一線を越える、してはならないことをするという意味です。許容範囲を超える行動や言動を指します。\n\n例：You crossed a line when you insulted my family. (あなたが私の家族を侮辱したとき、一線を越えました。)"
+    },
+    {
+      "id": 40,
+      "value": "the heat of the moment",
+      "options": [
+        "興奮状態",
+        "冷静な判断",
+        "計画的な行動",
+        "退屈な時間"
+      ],
+      "correctAnswer": "興奮状態",
+      "explanation": "「the heat of the moment」は、興奮状態、かっとなった勢いという意味です。感情が高ぶっているために、後先考えずに何かをしてしまう状況を指します。\n\n例：I said things in the heat of the moment that I regret now. (私はかっとなった勢いで、今では後悔していることを言ってしまった。)"
+    },
+    {
+      "id": 41,
+      "value": "caught up in",
+      "options": [
+        "夢中になる",
+        "無関心になる",
+        "逃げる",
+        "批判する"
+      ],
+      "correctAnswer": "夢中になる",
+      "explanation": "「get caught up in」は、～に夢中になる、巻き込まれるという意味です。何かに強く引き込まれ、他のことが考えられなくなる状態を表します。\n\n例：I got caught up in the excitement of the game. (私は試合の興奮に夢中になった。)"
+    },
+    {
+      "id": 42,
+      "value": "wedding fever",
+      "options": [
+        "結婚熱",
+        "風邪",
+        "興奮",
+        "ストレス"
+      ],
+      "correctAnswer": "結婚熱",
+      "explanation": "「wedding fever」は、結婚熱、結婚に対する強い憧れや興奮という意味です。特に、周囲の人が結婚し始めたときに、自分も結婚したくなる気持ちを表します。\n\n例：She has wedding fever since her best friend got engaged. (親友が婚約して以来、彼女は結婚熱に浮かされている。)"
+    },
+    {
+      "id": 43,
+      "value": "look back",
+      "options": [
+        "振り返る",
+        "無視する",
+        "予測する",
+        "忘れる"
+      ],
+      "correctAnswer": "振り返る",
+      "explanation": "「look back」は、振り返る、回想するという意味です。過去の出来事や経験を思い出すことを指します。\n\n例：When I look back on my childhood, I have many fond memories. (子供時代を振り返ると、楽しい思い出がたくさんあります。)"
+    },
+    {
+      "id": 44,
+      "value": "fond memories",
+      "options": [
+        "楽しい思い出",
+        "悲しい記憶",
+        "曖昧な記憶",
+        "忘れられない出来事"
+      ],
+      "correctAnswer": "楽しい思い出",
+      "explanation": "「fond memories」は、楽しい思い出、懐かしい記憶という意味です。愛情や喜びを伴う過去の経験を指します。\n\n例：I have fond memories of our trip to Europe. (私たちのヨーロッパ旅行には楽しい思い出があります。)"
+    },
+    {
+      "id": 45,
+      "value": "what if",
+      "options": [
+        "～だったらどうだろう",
+        "～すべきだ",
+        "～ではない",
+        "～は重要ではない"
+      ],
+      "correctAnswer": "～だったらどうだろう",
+      "explanation": "「what if」は、～だったらどうだろう、もし～ならという意味です。仮定の話や可能性について考える際に使われます。\n\n例：What if it rains tomorrow? (もし明日雨が降ったらどうしよう？)"
+    },
+    {
+      "id": 46,
+      "value": "final number",
+      "options": [
+        "最後の曲",
+        "最終的な数",
+        "最後の問題",
+        "究極の選択肢"
+      ],
+      "correctAnswer": "最後の曲",
+      "explanation": "「final number」は、(ショーやコンサートなどの)最後の曲、最後の演目という意味です。\n\n例：The band ended the concert with a high-energy final number. (バンドはコンサートを高エネルギーな最後の曲で締めくくった。)"
+    },
+    {
+      "id": 47,
+      "value": "adequate",
+      "options": [
+        "十分な",
+        "不十分な",
+        "過剰な",
+        "不要な"
+      ],
+      "correctAnswer": "十分な",
+      "explanation": "「adequate」は、十分な、適切なという意味です。必要とされる量や質を満たしている状態を表します。\n\n例：We need adequate funding for the project. (私たちはプロジェクトのために十分な資金が必要です。)"
+    },
+    {
+      "id": 48,
+      "value": "progress",
+      "options": [
+        "進歩",
+        "後退",
+        "停滞",
+        "混乱"
+      ],
+      "correctAnswer": "進歩",
+      "explanation": "「progress」は、進歩、発展という意味です。改善や進展が見られる状態を指します。\n\n例：We are making progress on the project. (私たちはプロジェクトで進歩しています。)"
+    },
+    {
+      "id": 49,
+      "value": "get weird",
+      "options": [
+        "おかしくなる",
+        "良くなる",
+        "普通になる",
+        "面白くなる"
+      ],
+      "correctAnswer": "おかしくなる",
+      "explanation": "「get weird」は、おかしくなる、変になるという意味です。状況や関係が通常とは異なる、奇妙な状態になることを指します。\n\n例：I don't want things to get weird between us. (私たちの関係がおかしくなってほしくない。)"
+    },
+    {
+      "id": 50,
+      "value": "acceptable responses",
+      "options": [
+        "許容できる反応",
+        "否定的な反応",
+        "無視される反応",
+        "間違った反応"
+      ],
+      "correctAnswer": "許容できる反応",
+      "explanation": "「acceptable responses」は、許容できる反応、受け入れられる返答という意味です。特定の状況や発言に対して、適切とされる反応や返答を指します。\n\n例：The acceptable responses to my joke are laughter or polite silence. (私のジョークに対する許容できる反応は笑うか、礼儀正しく黙っていることだ。)"
+    },
+    {
+      "id": 51,
+      "value": "come on",
+      "options": [
+        "やめて",
+        "頑張って",
+        "さあ、いいか",
+        "落ち着いて"
+      ],
+      "correctAnswer": "さあ、いいか",
+      "explanation": "「come on」は様々な意味を持つ口語表現ですが、ここでは「さあ、いいだろう」という相手を促す意味合いで使用されています。他にも、「急いで」「しっかりして」「からかわないで」などの意味があります。"
+    },
+    {
+      "id": 52,
+      "value": "run into (one's) arms",
+      "options": [
+        "腕を組んで走る",
+        "抱擁を求める",
+        "偶然出会う",
+        "喧嘩を売る"
+      ],
+      "correctAnswer": "抱擁を求める",
+      "explanation": "「run into someone's arms」は、誰かの腕の中に飛び込む、つまり抱擁を求めるという意味です。喜びや愛情を表現する際に使われます。"
+    },
+    {
+      "id": 53,
+      "value": "lift (someone) up into the air",
+      "options": [
+        "空中に持ち上げる",
+        "元気づける",
+        "秘密にする",
+        "無視する"
+      ],
+      "correctAnswer": "空中に持ち上げる",
+      "explanation": "「lift someone up into the air」は、誰かを空中に持ち上げるという意味です。力強さや愛情を示す行為として用いられます。"
+    },
+    {
+      "id": 54,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "ちょっと待って",
+        "諦める",
+        "秘密にする"
+      ],
+      "correctAnswer": "ちょっと待って",
+      "explanation": "「hang on」は、電話で「待って」と言う時によく使われる表現です。ここでは、相手に少し待ってほしいという意味で使用されています。"
+    },
+    {
+      "id": 55,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "何が下にあるの？",
+        "元気ですか？",
+        "上を見て！"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、親しい間柄で使われる挨拶で、「元気？」「何かあった？」という意味です。よりフォーマルな場面では「How are you?」が適しています。"
+    },
+    {
+      "id": 56,
+      "value": "No kidding",
+      "options": [
+        "冗談でしょ",
+        "嘘はなしだ",
+        "まさか",
+        "子供扱いしないで"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "「No kidding」は、「冗談でしょ？」「まさか！」という驚きや信じられない気持ちを表す表現です。相手の発言に対する強いリアクションとして使われます。"
+    },
+    {
+      "id": 57,
+      "value": "after all",
+      "options": [
+        "結局",
+        "その後で",
+        "全ての後に",
+        "食後に"
+      ],
+      "correctAnswer": "結局",
+      "explanation": "「after all」は、「結局」「やはり」という意味で、予想や期待に反してそうなったというニュアンスを含みます。例：I went to the party after all. (結局、パーティーに行った)"
+    },
+    {
+      "id": 58,
+      "value": "stand in (one's) way",
+      "options": [
+        "邪魔をする",
+        "道を譲る",
+        "立ち止まる",
+        "応援する"
+      ],
+      "correctAnswer": "邪魔をする",
+      "explanation": "「stand in someone's way」は、誰かの邪魔をする、妨げるという意味です。目標達成を阻害する状況で使われます。例：I don't want to stand in your way. (あなたの邪魔をしたくない)"
+    },
+    {
+      "id": 59,
+      "value": "done deal",
+      "options": [
+        "取引完了",
+        "未完の取引",
+        "お得な情報",
+        "秘密の取引"
+      ],
+      "correctAnswer": "取引完了",
+      "explanation": "「done deal」は、「決定事項」「決まったこと」という意味で、覆すことができないほど確定した状況を表します。交渉や計画が最終段階に達したことを示します。"
+    },
+    {
+      "id": 60,
+      "value": "go a little nutso",
+      "options": [
+        "少しだけ怒る",
+        "少しだけ悲しむ",
+        "少しおかしくなる",
+        "少しだけ眠る"
+      ],
+      "correctAnswer": "少しおかしくなる",
+      "explanation": "「go nutso」は、「おかしくなる」「怒り出す」という意味のスラングです。「nutty」という言葉が「おかしい」という意味を持つことから派生しています。"
+    },
+    {
+      "id": 61,
+      "value": "There's no way",
+      "options": [
+        "方法がない",
+        "道がある",
+        "問題ない",
+        "嘘だ"
+      ],
+      "correctAnswer": "方法がない",
+      "explanation": "「There's no way」は、「ありえない」「絶対に～ない」という意味で、強い否定を表します。可能性が全くないことを強調する際に使われます。"
+    },
+    {
+      "id": 62,
+      "value": "man to man",
+      "options": [
+        "男同士で",
+        "人間として",
+        "一対一で",
+        "正直に"
+      ],
+      "correctAnswer": "男同士で",
+      "explanation": "「man to man」は、「男同士で」「腹を割って」という意味で、男性同士が率直に話し合う状況を表します。対等な立場で真剣な話をする際に用いられます。"
+    },
+    {
+      "id": 63,
+      "value": "bully",
+      "options": [
+        "いじめっ子",
+        "優しい人",
+        "勇敢な人",
+        "賢い人"
+      ],
+      "correctAnswer": "いじめっ子",
+      "explanation": "「bully」は、「いじめっ子」「弱い者いじめをする人」という意味です。力や権力を使って他人を苦しめる人を指します。"
+    },
+    {
+      "id": 64,
+      "value": "We can only hope",
+      "options": [
+        "願うしかない",
+        "希望がない",
+        "諦めるしかない",
+        "信じるしかない"
+      ],
+      "correctAnswer": "願うしかない",
+      "explanation": "「We can only hope」は、「願うしかない」「そうなることを祈るしかない」という意味で、状況をコントロールできない時に使われます。良い結果になることを期待する気持ちを表します。"
+    },
+    {
+      "id": 65,
+      "value": "check",
+      "options": [
+        "チェック",
+        "王手",
+        "確認",
+        "小切手"
+      ],
+      "correctAnswer": "王手",
+      "explanation": "ここではチェスで「王手」という意味です。相手のキングが取られる危険な状態になったことを知らせる言葉です。"
+    },
+    {
+      "id": 66,
+      "value": "You all right?",
+      "options": [
+        "大丈夫？",
+        "元気？",
+        "何かあった？",
+        "具合悪いの？"
+      ],
+      "correctAnswer": "大丈夫？",
+      "explanation": "「You all right?」は、「大丈夫？」「元気？」という意味で、相手の体調や精神状態を気遣う際に使われます。心配している気持ちを伝える表現です。"
+    },
+    {
+      "id": 67,
+      "value": "left (one's) queen exposed",
+      "options": [
+        "女王をさらけ出した",
+        "女王を隠した",
+        "女王を忘れた",
+        "女王を無視した"
+      ],
+      "correctAnswer": "女王をさらけ出した",
+      "explanation": "チェスの用語で、クイーン（女王）を守らずに危険な状態に晒した、という意味です。比喩的に、弱点や危険を晒け出すことを指すこともあります。"
+    },
+    {
+      "id": 68,
+      "value": "trapped (one's) knight in the corner",
+      "options": [
+        "ナイトを隅に閉じ込めた",
+        "ナイトを解放した",
+        "ナイトを隠した",
+        "ナイトを忘れた"
+      ],
+      "correctAnswer": "ナイトを隅に閉じ込めた",
+      "explanation": "チェスの用語で、ナイト（騎士）を動けない隅に追い詰めた、という意味です。比喩的に、身動きが取れない状況に追い込まれることを指すこともあります。"
+    },
+    {
+      "id": 69,
+      "value": "bellyaching",
+      "options": [
+        "不平を言う",
+        "腹痛",
+        "大笑い",
+        "秘密"
+      ],
+      "correctAnswer": "不平を言う",
+      "explanation": "「bellyaching」は、「不平を言う」「愚痴をこぼす」という意味のスラングです。特に、取るに足らないことについて文句を言うニュアンスがあります。"
+    },
+    {
+      "id": 70,
+      "value": "embark on",
+      "options": [
+        "乗り出す",
+        "出発する",
+        "始める",
+        "終わらせる"
+      ],
+      "correctAnswer": "始める",
+      "explanation": "「embark on」は、「（新しいことを）始める」「着手する」という意味です。新たな冒険や事業を始める際に使われます。例：embark on a new project (新しいプロジェクトに着手する)"
+    },
+    {
+      "id": 71,
+      "value": "Shame on her",
+      "options": [
+        "彼女は恥を知るべきだ",
+        "彼女は素晴らしい",
+        "彼女を責めないで",
+        "彼女を応援する"
+      ],
+      "correctAnswer": "彼女は恥を知るべきだ",
+      "explanation": "「Shame on (someone)」は、「～は恥を知るべきだ」「～はけしからん」という意味で、非難や軽蔑を表す表現です。相手の行動に対する強い否定的な感情を示します。"
+    },
+    {
+      "id": 72,
+      "value": "morph",
+      "options": [
+        "変形する",
+        "静止する",
+        "拡大する",
+        "縮小する"
+      ],
+      "correctAnswer": "変形する",
+      "explanation": "「morph」は、「変形する」「変わる」という意味で、徐々に形や性質が変わる様子を表します。コンピューターグラフィックスや比喩表現でよく用いられます。例：The image morphed into a monster. (その画像はモンスターに変形した)"
+    },
+    {
+      "id": 73,
+      "value": "vixen",
+      "options": [
+        "妖婦",
+        "純粋な女性",
+        "年老いた女性",
+        "若い女性"
+      ],
+      "correctAnswer": "妖婦",
+      "explanation": "「vixen」は、「妖婦」「ずる賢い女性」という意味で、男性を魅了し翻弄する女性を指します。キツネの雌を意味することもあります。"
+    },
+    {
+      "id": 74,
+      "value": "mood killer",
+      "options": [
+        "雰囲気を壊す人",
+        "楽しい人",
+        "静かな人",
+        "リーダー"
+      ],
+      "correctAnswer": "雰囲気を壊す人",
+      "explanation": "「mood killer」は、「雰囲気を壊すもの」「興ざめさせるもの」という意味です。楽しい気分やロマンチックな雰囲気を台無しにする言動や状況を指します。"
+    },
+    {
+      "id": 75,
+      "value": "trick question",
+      "options": [
+        "ひっかけ問題",
+        "簡単な問題",
+        "難しい問題",
+        "重要な質問"
+      ],
+      "correctAnswer": "ひっかけ問題",
+      "explanation": "「trick question」は、「ひっかけ問題」「意地悪な質問」という意味で、見かけとは異なる答えを誘導するような質問です。注意深く考えないと間違えやすい問題です。"
+    },
+    {
+      "id": 76,
+      "value": "a hell of a lot of nerve",
+      "options": [
+        "多くの勇気",
+        "非常に多くの神経",
+        "ずうずうしさ",
+        "優れた才能"
+      ],
+      "correctAnswer": "ずうずうしさ",
+      "explanation": "「a hell of a lot of nerve」は、信じられないほどの厚かましさ、ずうずうしさを意味する口語的な表現です。相手の行動や言動に対して強い非難や驚きを表す際に使われます。\n例：He has a hell of a lot of nerve asking for a raise after being late every day. (彼は毎日遅刻するのに、昇給を求めるなんてずうずうしい。)"
+    },
+    {
+      "id": 77,
+      "value": "message heard and understood",
+      "options": [
+        "メッセージは無視された",
+        "メッセージは届いた",
+        "メッセージは理解された",
+        "承知しました"
+      ],
+      "correctAnswer": "承知しました",
+      "explanation": "「Message heard and understood」は、相手の言ったことや要求を理解し、それを受け入れたことを伝えるフォーマルな表現です。軍隊やビジネスの場面でよく使われます。\n例：When the manager told him to redo the report, he replied, \"Message heard and understood.\"(マネージャーが彼にレポートをやり直すように言ったとき、彼は「承知いたしました」と答えました。)"
+    },
+    {
+      "id": 78,
+      "value": "May I be excused?",
+      "options": [
+        "許されますか？",
+        "弁解してもよろしいですか？",
+        "退席してもよろしいですか？",
+        "手伝ってもいいですか？"
+      ],
+      "correctAnswer": "退席してもよろしいですか？",
+      "explanation": "「May I be excused?」は、会議や食事などの場から一時的に、または完全に退席する許可を求める際に使用される丁寧な表現です。\n例：May I be excused to use the restroom?（お手洗いに行ってもよろしいですか？)"
+    },
+    {
+      "id": 79,
+      "value": "I'm aware of that",
+      "options": [
+        "私はそれを意識している",
+        "私はそれを知っている",
+        "私はそれを気にしている",
+        "私はそれが心配だ"
+      ],
+      "correctAnswer": "私はそれを知っている",
+      "explanation": "「I'm aware of that」は、相手が言ったことや指摘したことについて、すでに知っている、承知しているということを伝える表現です。相手の言葉を遮らず、理解を示しつつ、会話を円滑に進める効果があります。\n例： \"The deadline is tomorrow.\" \"I'm aware of that. I'm working on it.\" （締め切りは明日です」「承知しています。今取り組んでいます。)"
+    },
+    {
+      "id": 80,
+      "value": "judge someone too fast",
+      "options": [
+        "人を早く裁く",
+        "人を急いで判断する",
+        "人を甘く評価する",
+        "人を厳しく評価する"
+      ],
+      "correctAnswer": "人を急いで判断する",
+      "explanation": "「judge someone too fast」は、人を十分に理解する前に、表面的な情報や先入観だけで判断してしまうことを意味します。後で誤解に気づき、後悔するニュアンスが含まれます。\n例：I judged him too fast based on his appearance, but he turned out to be a really nice guy. (彼の外見だけで判断してしまったけど、彼は本当にいい人だった。)"
+    },
+    {
+      "id": 81,
+      "value": "turn down an opportunity",
+      "options": [
+        "機会を最大限に活用する",
+        "機会を断る",
+        "機会を改善する",
+        "機会を探す"
+      ],
+      "correctAnswer": "機会を断る",
+      "explanation": "「turn down an opportunity」は、与えられた機会や提案を拒否することを意味します。個人的な理由や、より良い選択肢があるなどの理由で断る場合があります。\n例：She turned down the job offer because the salary was too low. (彼女は給料が低すぎるという理由で、その仕事のオファーを断った。)"
+    },
+    {
+      "id": 82,
+      "value": "put down (money)",
+      "options": [
+        "お金を預ける",
+        "お金を投資する",
+        "お金を支払う",
+        "お金を無駄にする"
+      ],
+      "correctAnswer": "お金を支払う",
+      "explanation": "「put down (money)」は、手付金や頭金としてお金を支払うことを意味します。大きな買い物や契約をする際に、一部を事前に支払う場合に用いられます。\n例：We put down a deposit on the new house. (私たちは新しい家の手付金を支払った。)"
+    },
+    {
+      "id": 83,
+      "value": "level with you",
+      "options": [
+        "あなたと競争する",
+        "あなたと正直に話す",
+        "あなたと協力する",
+        "あなたを批判する"
+      ],
+      "correctAnswer": "あなたと正直に話す",
+      "explanation": "「level with you」は、相手に対して率直に、正直に話すことを意味します。隠し事をせず、ありのままを伝えるというニュアンスが含まれます。\n例：Let me level with you, I don't think this project is going to succeed. (正直に言うと、このプロジェクトは成功しないと思います。)"
+    },
+    {
+      "id": 84,
+      "value": "make it back",
+      "options": [
+        "成功する",
+        "戻ってくる",
+        "理解する",
+        "達成する"
+      ],
+      "correctAnswer": "戻ってくる",
+      "explanation": "「make it back」は、ある場所から出発して、無事に元の場所に戻ってくることを意味します。旅行や冒険など、危険が伴う状況でよく使われます。\n例：I hope the astronauts make it back safely from their mission. (宇宙飛行士たちがミッションから無事に帰還することを願っています。)"
+    },
+    {
+      "id": 85,
+      "value": "Off to work?",
+      "options": [
+        "仕事を辞めるのですか？",
+        "仕事は終わりましたか？",
+        "仕事に行きますか？",
+        "仕事を探していますか？"
+      ],
+      "correctAnswer": "仕事に行きますか？",
+      "explanation": "「Off to work?」は、相手が仕事に出かける様子を見て、「仕事に行くのですか？」と尋ねる時に使うカジュアルな表現です。\n例：相手が仕事に行く準備をしているのを見て \"Off to work? Have a good day!\" （仕事に行くの？良い一日を！)"
+    },
+    {
+      "id": 86,
+      "value": "follow-up",
+      "options": [
+        "追跡",
+        "フォローアップ",
+        "先導",
+        "結論"
+      ],
+      "correctAnswer": "フォローアップ",
+      "explanation": "「follow-up」は、前の行動や出来事に関連して、追加で行う行動や質問を指します。状況の確認や進捗の把握、またはさらなる詳細を求める際に使用されます。\n例：I'll send a follow-up email to confirm the meeting time. (会議の時間を確認するために、フォローアップのメールを送ります。)"
+    },
+    {
+      "id": 87,
+      "value": "quick questions",
+      "options": [
+        "難しい質問",
+        "重要な質問",
+        "素早い質問",
+        "簡単な質問"
+      ],
+      "correctAnswer": "簡単な質問",
+      "explanation": "「quick questions」は、短時間で答えられるような、簡単な質問を意味します。相手に負担をかけずに情報を得たい場合に用いられます。\n例：I just have a few quick questions about the project. (プロジェクトについて、いくつか簡単な質問があります。)"
+    },
+    {
+      "id": 88,
+      "value": "conflict with",
+      "options": [
+        "一致する",
+        "調和する",
+        "対立する",
+        "協力する"
+      ],
+      "correctAnswer": "対立する",
+      "explanation": "「conflict with」は、予定や意見、価値観などが衝突し、両立できない状況を表します。スケジュールや利害関係がぶつかる場合などに使われます。\n例：The meeting time conflicts with my doctor's appointment.（会議の時間は私の医者の予約と重なってしまいます。)"
+    },
+    {
+      "id": 89,
+      "value": "nerve",
+      "options": [
+        "勇気",
+        "神経",
+        "無神経",
+        "才能"
+      ],
+      "correctAnswer": "無神経",
+      "explanation": "「nerve」は、ここでは「大胆さ」「ずうずうしさ」といった意味合いで使われます。特に、相手を不快にさせるような大胆な行動や発言を指す場合に用いられます。\n例：He had the nerve to ask me for money after he stole my car. (彼は私の車を盗んだ後で、私にお金をせびるなんてずうずうしい。)"
+    },
+    {
+      "id": 90,
+      "value": "postpone this thing",
+      "options": [
+        "この事を提案する",
+        "この事を後援する",
+        "この事を延期する",
+        "この事を中止する"
+      ],
+      "correctAnswer": "この事を延期する",
+      "explanation": "「postpone this thing」は、特定の予定やイベントを後日に延期することを意味します。「thing」は、具体的なイベントや計画を指す汎用的な言葉です。\n例：We had to postpone the meeting due to unforeseen circumstances. (予期せぬ事態により、会議を延期しなければなりませんでした。)"
+    },
+    {
+      "id": 91,
+      "value": "may not",
+      "options": [
+        "〜しても良い",
+        "〜してはいけない",
+        "〜するかもしれない",
+        "〜する必要がある"
+      ],
+      "correctAnswer": "〜してはいけない",
+      "explanation": "「may not」は、許可されていないこと、禁止されていることを表します。フォーマルな場面や、規則を伝える際に用いられることが多いです。\n例：You may not use your phone during the exam. (試験中は携帯電話の使用を禁止します。)"
+    },
+    {
+      "id": 92,
+      "value": "living at home",
+      "options": [
+        "家で生活する",
+        "外出する",
+        "一人暮らしをする",
+        "旅行する"
+      ],
+      "correctAnswer": "家で生活する",
+      "explanation": "「living at home」は、実家で親と同居している状態を指します。経済的な理由や、文化的な背景など、様々な理由で実家暮らしを選ぶ人がいます。\n例：Many young adults are living at home to save money. (多く若者がお金を貯めるために実家暮らしをしています。)"
+    },
+    {
+      "id": 93,
+      "value": "worry about that",
+      "options": [
+        "それについて心配する",
+        "それについて喜ぶ",
+        "それについて話す",
+        "それについて忘れる"
+      ],
+      "correctAnswer": "それについて心配する",
+      "explanation": "「worry about that」は、特定の事柄について心配することを意味します。相手を安心させるために、「それは私が対処するから心配しないで」というニュアンスで使われることもあります。\n例：Don't worry about the mess, I'll clean it up later. (散らかっていることは気にしないで、後で私が掃除します。)"
+    },
+    {
+      "id": 94,
+      "value": "terrified about",
+      "options": [
+        "楽しみにしている",
+        "混乱している",
+        "恐れている",
+        "興味がある"
+      ],
+      "correctAnswer": "恐れている",
+      "explanation": "「terrified about」は、非常に強い恐怖を感じている状態を表します。特定の対象や状況に対して、強い不安や恐れを抱いている時に用いられます。\n例：I'm terrified about flying, so I always take the train. (私は飛行機に乗るのがとても怖いので、いつも電車を使います。)"
+    },
+    {
+      "id": 95,
+      "value": "gonna be okay",
+      "options": [
+        "良くなるだろう",
+        "終わるだろう",
+        "始まるだろう",
+        "悪くなるだろう"
+      ],
+      "correctAnswer": "良くなるだろう",
+      "explanation": "「gonna be okay」は、「大丈夫だよ」という意味で、相手を安心させたり、励ましたりする際に使われる口語的な表現です。\n例： \"I'm really nervous about the presentation.\" \"Don't worry, you're gonna be okay.\" （プレゼンテーションがとても不安です」「心配しないで、大丈夫だよ。)"
+    },
+    {
+      "id": 96,
+      "value": "have a nice night",
+      "options": [
+        "良い夜を",
+        "良い一日を",
+        "良い週末を",
+        "良い旅を"
+      ],
+      "correctAnswer": "良い夜を",
+      "explanation": "「Have a nice night」は、別れ際に相手に「良い夜を」と伝える一般的な挨拶です。夕方以降の時間帯に使われます。\n例：相手と夕方に別れる際に \"Have a nice night!\" (良い夜を！)"
+    },
+    {
+      "id": 97,
+      "value": "thinking about",
+      "options": [
+        "忘れている",
+        "考えている",
+        "無視している",
+        "夢見ている"
+      ],
+      "correctAnswer": "考えている",
+      "explanation": "「thinking about」は、特定の事柄について考えている状態を表します。過去の出来事、現在の状況、将来の計画など、様々な対象について考える際に用いられます。\n例：I've been thinking about what you said yesterday. (昨日あなたが言ったことについて考えていました。)"
+    },
+    {
+      "id": 98,
+      "value": "played that pretty well",
+      "options": [
+        "それをうまく演じた",
+        "それを理解した",
+        "それを忘れた",
+        "それを無視した"
+      ],
+      "correctAnswer": "それをうまく演じた",
+      "explanation": "「played that pretty well」は、特定の状況や役割をうまく演じた、または切り抜けたという意味です。自分の行動や言動が成功したと感じた時に、自画自賛するニュアンスで使われることがあります。\n例：I think I played that pretty well when I negotiated the salary. (給料交渉の時、うまくやったと思う。)"
+    },
+    {
+      "id": 99,
+      "value": "in hell",
+      "options": [
+        "天国にいる",
+        "地獄にいる",
+        "夢の中にいる",
+        "幸せの中にいる"
+      ],
+      "correctAnswer": "地獄にいる",
+      "explanation": "「in hell」は、非常に苦痛な状況や不快な状態にいることを意味します。文字通り地獄にいるという意味の他に、比喩的に使われることもあります。\n例：This traffic is hell! (この交通渋滞は地獄だ！)"
+    },
+    {
+      "id": 100,
+      "value": "Star Trek style",
+      "options": [
+        "普通のやり方で",
+        "現代的なやり方で",
+        "スター・トレック風に",
+        "伝統的なやり方で"
+      ],
+      "correctAnswer": "スター・トレック風に",
+      "explanation": "「Star Trek style」は、人気SFドラマ「スター・トレック」の独特な世界観やスタイルを模倣した方法や様式を指します。特に、科学技術や宇宙探査に関連する事柄を表現する際に用いられます。\n例：Let's solve this problem Star Trek style, using logic and reason. (論理と理性を使って、スター・トレック風にこの問題を解決しましょう。)"
+    }
+  ]
+}

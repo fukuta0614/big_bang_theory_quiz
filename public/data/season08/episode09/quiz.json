@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "under-appreciated",
+      "options": [
+        "過小評価されている",
+        "十分に評価されている",
+        "誤解されている",
+        "無視されている"
+      ],
+      "correctAnswer": "過小評価されている",
+      "explanation": "「under-appreciated」は、その価値や才能が十分に認識されていない、評価されていないという意味です。隠れた才能や努力が認められない状況で使われます。\n\n例：He's an under-appreciated genius in his field. (彼はその分野では過小評価されている天才だ。)"
+    },
+    {
+      "id": 2,
+      "value": "deviated septum",
+      "options": [
+        "正常な鼻中隔",
+        "鼻炎",
+        "鼻中隔弯曲症",
+        "副鼻腔炎"
+      ],
+      "correctAnswer": "鼻中隔弯曲症",
+      "explanation": "「deviated septum」は、鼻中隔弯曲症という意味です。鼻の左右を分ける壁が曲がっている状態を指し、呼吸困難やいびきの原因となることがあります。\n\n例：He has a deviated septum, which makes it hard for him to breathe. (彼は鼻中隔弯曲症で、呼吸が困難だ。)"
+    },
+    {
+      "id": 3,
+      "value": "routine procedure",
+      "options": [
+        "複雑な手術",
+        "日常的な手順",
+        "緊急手術",
+        "実験的な治療"
+      ],
+      "correctAnswer": "日常的な手順",
+      "explanation": "「routine procedure」は、日常的に行われる手術や処置という意味です。リスクが低く、一般的な医療行為を指します。\n\n例：The surgery is a routine procedure with a high success rate. (その手術は成功率の高い日常的な処置だ。)"
+    },
+    {
+      "id": 4,
+      "value": "white noise",
+      "options": [
+        "騒音",
+        "静寂",
+        "ホワイトノイズ",
+        "環境音"
+      ],
+      "correctAnswer": "ホワイトノイズ",
+      "explanation": "「white noise」は、様々な周波数の音が均等に混ざった音で、他の音を打ち消し、集中力を高めたり、睡眠を助けたりする効果があります。\n\n例：I use a white noise machine to help me sleep. (私は睡眠を助けるためにホワイトノイズマシンを使っている。)"
+    },
+    {
+      "id": 5,
+      "value": "end of story",
+      "options": [
+        "物語の始まり",
+        "話は続く",
+        "話は終わり",
+        "問題解決"
+      ],
+      "correctAnswer": "話は終わり",
+      "explanation": "「end of story」は、議論や会話を終わらせるために使われる表現です。「それ以上議論しない」「決定事項だ」という強い意志を示します。\n\n例：I'm going, end of story. (私は行く、もう終わりだ。)"
+    },
+    {
+      "id": 6,
+      "value": "mutilated",
+      "options": [
+        "修復された",
+        "切断された",
+        "美化された",
+        "強化された"
+      ],
+      "correctAnswer": "切断された",
+      "explanation": "「mutilated」は、身体の一部が切断されたり、ひどく損傷したりすることを意味します。暴力的な行為や事故によって生じた状態を表すことが多いです。\n\n例：His body was found mutilated beyond recognition. (彼の遺体は、原型をとどめないほど損傷していた。)"
+    },
+    {
+      "id": 7,
+      "value": "disfigured",
+      "options": [
+        "元気になった",
+        "有名な",
+        "美しくなった",
+        "外見を損なわれた"
+      ],
+      "correctAnswer": "外見を損なわれた",
+      "explanation": "「disfigured」は、事故や病気などで外見が損なわれた状態を指します。顔や体に大きな傷跡が残っている場合などに使われます。\n\n例：The fire left him disfigured. (その火事で彼は外見を損なった。)"
+    },
+    {
+      "id": 8,
+      "value": "boogeyman",
+      "options": [
+        "英雄",
+        "人気者",
+        "安全な人",
+        "人を怖がらせる存在"
+      ],
+      "correctAnswer": "人を怖がらせる存在",
+      "explanation": "「boogeyman」は、子供を怖がらせるために使われる架空の怪物や人物を指します。比喩的に、人々が恐れる対象や脅威を表すこともあります。\n\n例：The economic crisis became the boogeyman of the election. (経済危機は選挙の脅威となった。)"
+    },
+    {
+      "id": 9,
+      "value": "general anaesthesia",
+      "options": [
+        "局所麻酔",
+        "全身麻酔",
+        "無麻酔",
+        "催眠術"
+      ],
+      "correctAnswer": "全身麻酔",
+      "explanation": "「general anesthesia」は、全身麻酔のことです。手術中に意識をなくし、痛みを感じなくさせるために用いられます。\n\n例：The patient was put under general anesthesia before the operation. (患者は手術前に全身麻酔をかけられた。)"
+    },
+    {
+      "id": 10,
+      "value": "glass half-full",
+      "options": [
+        "悲観的な人",
+        "現実主義者",
+        "楽観的な人",
+        "批判的な人"
+      ],
+      "correctAnswer": "楽観的な人",
+      "explanation": "「glass half-full」は、物事を楽観的に見る人のことを指します。常に良い面を探し、希望を持つ性格を表します。\n\n例：He's always been a glass half-full kind of guy. (彼はいつも楽観的な人だった。)"
+    },
+    {
+      "id": 11,
+      "value": "phone it in",
+      "options": [
+        "真剣に取り組む",
+        "手抜きをする",
+        "電話をする",
+        "直接会う"
+      ],
+      "correctAnswer": "手抜きをする",
+      "explanation": "「phone it in」は、仕事やパフォーマンスを手抜きで行うという意味です。本来の力を発揮せずに、形式的に済ませることを指します。\n\n例：The actor was just phoning it in during the performance. (その俳優は公演中、ただ手抜きをしていただけだった。)"
+    },
+    {
+      "id": 12,
+      "value": "go through with",
+      "options": [
+        "諦める",
+        "中止する",
+        "実行する",
+        "反対する"
+      ],
+      "correctAnswer": "実行する",
+      "explanation": "「go through with」は、計画や約束を実行するという意味です。困難や障害があっても、最後までやり遂げる意志を示します。\n\n例：Are you really going to go through with the surgery? (本当に手術を実行するつもりですか？)"
+    },
+    {
+      "id": 13,
+      "value": "back off",
+      "options": [
+        "支持する",
+        "近づく",
+        "批判する",
+        "手を引く"
+      ],
+      "correctAnswer": "手を引く",
+      "explanation": "「back off」は、ある状況や行動から手を引く、または誰かに干渉しないように言うときに使われます。圧力を弱める、距離を置くといった意味合いがあります。\n\n例：Back off, he's all mine.(手を引いて、彼は私のだから。)"
+    },
+    {
+      "id": 14,
+      "value": "elective surgery",
+      "options": [
+        "救急手術",
+        "必須手術",
+        "選択的手術",
+        "試験的な手術"
+      ],
+      "correctAnswer": "選択的手術",
+      "explanation": "「elective surgery」は、医学的に緊急ではないが、患者の希望や生活の質を向上させるために行われる手術のことです。\n\n例：Cosmetic surgery is usually considered elective surgery. (美容整形は通常、選択的手術と見なされる。)"
+    },
+    {
+      "id": 15,
+      "value": "under-appreciated genius",
+      "options": [
+        "凡人",
+        "誤解されている凡人",
+        "過小評価されている天才",
+        "有名な天才"
+      ],
+      "correctAnswer": "過小評価されている天才",
+      "explanation": "「under-appreciated genius」は、才能があるにもかかわらず、その能力や貢献が十分に評価されていない人を指します。その人の真価が世間に認識されていない状況を表します。\n\n例：He was an under-appreciated genius in his field. (彼はその分野では過小評価されている天才だった。)"
+    },
+    {
+      "id": 16,
+      "value": "life-threatening condition",
+      "options": [
+        "命に別状のない状態",
+        "健康的な状態",
+        "生命を脅かす状態",
+        "改善可能な状態"
+      ],
+      "correctAnswer": "生命を脅かす状態",
+      "explanation": "「life-threatening condition」は、放置すると生命を危険にさらす可能性のある状態を指します。重篤な病気や怪我などが該当します。\n\n例：He was rushed to the hospital with a life-threatening condition. (彼は生命を脅かす状態で病院に搬送された。)"
+    },
+    {
+      "id": 17,
+      "value": "mucus-powered",
+      "options": [
+        "オイル動力",
+        "電力駆動",
+        "粘液動力",
+        "水力発電"
+      ],
+      "correctAnswer": "粘液動力",
+      "explanation": "「mucus-powered」は、ここでは比喩的に使われており、粘液（鼻水など）によって作られる音がいびきを連想させることから、そのいびきを動力源とするという意味合いで使われています。SheldonがLeonardのいびきを冗談めかして表現しています。\n\n例：Sheldon said Leonard was like my mucus-powered white noise machine. (シェルドンは、レナードはいびきで動くホワイトノイズマシンのようだと言った。)"
+    },
+    {
+      "id": 18,
+      "value": "in the shadows",
+      "options": [
+        "秘密裏に",
+        "明るい場所で",
+        "注目されて",
+        "公然と"
+      ],
+      "correctAnswer": "秘密裏に",
+      "explanation": "「in the shadows」は、文字通りには「影の中」という意味ですが、比喩的には「目立たない場所で」「秘密裏に」「日陰の身で」といった意味合いで使われます。\n\n例：He lived in the shadows, never seeking recognition. (彼は日陰の身で、決して認められようとはしなかった。)"
+    },
+    {
+      "id": 19,
+      "value": "freak",
+      "options": [
+        "普通の人",
+        "才能のある人",
+        "異常な人",
+        "人気者"
+      ],
+      "correctAnswer": "異常な人",
+      "explanation": "「freak」は、普通とは異なる、奇妙な人や物を指す言葉です。ネガティブな意味合いで使われることが多く、見世物小屋などで見られるような特異な存在を指すこともあります。\n\n例：He was treated like a freak because of his appearance. (彼は外見のせいで異常者のように扱われた。)"
+    },
+    {
+      "id": 20,
+      "value": "beyond recognition",
+      "options": [
+        "すぐに認識できる",
+        "認識できる範囲で",
+        "認識できないほど",
+        "部分的に認識できる"
+      ],
+      "correctAnswer": "認識できないほど",
+      "explanation": "「beyond recognition」は、変化や損傷が激しく、もはや元の状態を認識できないほどであることを意味します。事故や災害などでひどく損傷した場合などに使われます。\n\n例：The car was damaged beyond recognition after the accident. (事故後、車は原型をとどめないほど損傷した。)"
+    },
+    {
+      "id": 21,
+      "value": "albino",
+      "options": [
+        "色の濃い",
+        "肌が黒い",
+        "色素欠乏症の",
+        "日焼けした"
+      ],
+      "correctAnswer": "色素欠乏症の",
+      "explanation": "「albino」は、アルビノ、つまり色素欠乏症の人や動物を指します。遺伝的な要因により、メラニン色素が欠乏しているため、肌や髪、目が非常に白い特徴があります。\n\n例：An albino lion is a rare sight. (アルビノのライオンは珍しい光景だ。)"
+    },
+    {
+      "id": 22,
+      "value": "one in 700,000",
+      "options": [
+        "非常に高い確率",
+        "平均的な確率",
+        "非常に低い確率",
+        "不確実な確率"
+      ],
+      "correctAnswer": "非常に低い確率",
+      "explanation": "「one in 700,000」は、70万分の1の確率という意味です。これは非常に低い確率であり、滅多に起こらないことを示唆します。\n\n例：The chance of winning the lottery is one in several million. (宝くじに当たる確率は数百万分の1だ。)"
+    },
+    {
+      "id": 23,
+      "value": "speaking at the time",
+      "options": [
+        "話している",
+        "沈黙している",
+        "議論している",
+        "叫んでいる"
+      ],
+      "correctAnswer": "話している",
+      "explanation": "「speaking at the time」は、その時話している、会話をしているという意味です。このコンテキストでは、夫婦が口論中で、直接話さずに使用人に伝言を頼んでいる状況を表しています。\n\n例：They weren't speaking at the time, so he wrote her a letter. (当時彼らは口をきいていなかったので、彼は彼女に手紙を書いた。)"
+    },
+    {
+      "id": 24,
+      "value": "be honest with you",
+      "options": [
+        "嘘をつく",
+        "隠し事をする",
+        "正直に話す",
+        "誤解させる"
+      ],
+      "correctAnswer": "正直に話す",
+      "explanation": "「be honest with you」は、相手に正直な気持ちや考えを伝える際に使われるフレーズです。「正直に言うと」「率直に言うと」といったニュアンスがあります。\n\n例：To be honest with you, I don't like that color. (正直に言うと、その色が好きではない。)"
+    },
+    {
+      "id": 25,
+      "value": "coming up",
+      "options": [
+        "終わった",
+        "近づいている",
+        "遅れている",
+        "キャンセルされた"
+      ],
+      "correctAnswer": "近づいている",
+      "explanation": "「coming up」は、イベントや日付が近づいていることを意味します。\n\n例：The exam is coming up next week. (試験は来週に迫っている。)"
+    },
+    {
+      "id": 26,
+      "value": "crunching the numbers",
+      "options": [
+        "数字を無視する",
+        "数字を速く計算する",
+        "数字を分析する",
+        "数字を暗記する"
+      ],
+      "correctAnswer": "数字を分析する",
+      "explanation": "「crunch the numbers」とは、複雑なデータや数字を詳細に分析し、意味のある結論や結果を導き出すことを意味します。ビジネスや科学の分野でよく使われます。\n\n例：The analysts are crunching the numbers to determine the profitability of the new product. (アナリストたちは、新製品の収益性を判断するために数字を分析している。)"
+    },
+    {
+      "id": 27,
+      "value": "sphincter-tightening",
+      "options": [
+        "リラックスできる",
+        "非常に恐ろしい",
+        "非常に面白い",
+        "少し悲しい"
+      ],
+      "correctAnswer": "非常に恐ろしい",
+      "explanation": "「sphincter-tightening」とは、文字通りには括約筋が締まることを意味しますが、比喩的には非常に恐ろしい、緊張する、不安になる状況を指します。口語的な表現です。\n\n例：The thought of giving a presentation to hundreds of people was sphincter-tightening. (何百人もの人にプレゼンテーションをすると思うと、とても緊張した。)"
+    },
+    {
+      "id": 28,
+      "value": "check sphincter light",
+      "options": [
+        "健康状態が良い",
+        "体調が悪い",
+        "非常に恐ろしい",
+        "空腹である"
+      ],
+      "correctAnswer": "非常に恐ろしい",
+      "explanation": "これは、車の警告灯（check engine lightなど）をもじったジョークです。ここでは、Leonardが手術に対する恐怖や不安を感じていることをユーモラスに表現しています。　sphincter-tighteningと同様に、緊張や恐怖を表します。"
+    },
+    {
+      "id": 29,
+      "value": "one shaky scalpel away from",
+      "options": [
+        "安全な状態",
+        "危険な状態",
+        "退屈な状態",
+        "楽しい状態"
+      ],
+      "correctAnswer": "危険な状態",
+      "explanation": "「one ... away from」とは、「〜まであと一歩」という意味ですが、「one shaky scalpel away from becoming the dancing fountain at Disneyland」は、不安定なメスが少しでも動けば、命に関わる事態になる、という非常に危険な状態を誇張して表現しています。Disneylandの噴水を例に出すことで、事態の深刻さを際立たせています。"
+    },
+    {
+      "id": 30,
+      "value": "cocky",
+      "options": [
+        "謙虚な",
+        "傲慢な",
+        "賢い",
+        "臆病な"
+      ],
+      "correctAnswer": "傲慢な",
+      "explanation": "「cocky」とは、自信過剰で傲慢な態度を表す形容詞です。しばしば、根拠のない自信や過信を伴う場合に用いられます。\n\n例：He was a cocky young player who thought he was better than everyone else. (彼は自分が誰よりも優れていると思っている傲慢な若い選手だった。)"
+    },
+    {
+      "id": 31,
+      "value": "scrappy",
+      "options": [
+        "怠惰な",
+        "勇敢な",
+        "不潔な",
+        "臆病な"
+      ],
+      "correctAnswer": "勇敢な",
+      "explanation": "「scrappy」とは、困難な状況にもかかわらず、勇敢に立ち向かう、または粘り強く努力する様子を表す形容詞です。しばしば、小柄で弱い者が強い者に立ち向かうような状況で使われます。\n\n例：Despite being the underdog, the team played a scrappy game and almost won. (劣勢にもかかわらず、そのチームは勇敢に戦い、もう少しで勝利するところだった。)"
+    },
+    {
+      "id": 32,
+      "value": "split up",
+      "options": [
+        "団結する",
+        "分裂する",
+        "旅行する",
+        "再会する"
+      ],
+      "correctAnswer": "分裂する",
+      "explanation": "「split up」とは、関係（特に夫婦や恋人）が解消される、別れるという意味です。\n\n例：My parents split up last year. (私の両親は昨年別れた。)"
+    },
+    {
+      "id": 33,
+      "value": "not up to it",
+      "options": [
+        "賛成する",
+        "反対する",
+        "気が進まない",
+        "準備ができている"
+      ],
+      "correctAnswer": "気が進まない",
+      "explanation": "「not up to it」とは、何かに取り組むだけの精神的または肉体的な余裕がない、気が進まないという意味です。\n\n例：I'm not really up to going out tonight. (今夜はあまり出かける気分じゃないんだ。)"
+    },
+    {
+      "id": 34,
+      "value": "hang here",
+      "options": [
+        "出かける",
+        "手伝う",
+        "ここに残る",
+        "引っ越す"
+      ],
+      "correctAnswer": "ここに残る",
+      "explanation": "「hang here」とは、特定の場所に留まる、特にリラックスして過ごすという意味です。\n\n例：Let's just hang here and watch a movie. (ここでゆっくり映画でも見よう。)"
+    },
+    {
+      "id": 35,
+      "value": "big deal",
+      "options": [
+        "重要なこと",
+        "些細なこと",
+        "秘密",
+        "問題"
+      ],
+      "correctAnswer": "重要なこと",
+      "explanation": "「big deal」とは、重要なこと、大したことという意味です。しばしば否定形で「not a big deal」として使われ、大した問題ではない、気にすることはないという意味になります。\n\n例：It's not a big deal if we're a few minutes late. (数分遅れても大したことじゃない。)"
+    },
+    {
+      "id": 36,
+      "value": "broken home",
+      "options": [
+        "裕福な家庭",
+        "貧しい家庭",
+        "崩壊した家庭",
+        "幸せな家庭"
+      ],
+      "correctAnswer": "崩壊した家庭",
+      "explanation": "「broken home」とは、離婚や親の死別などによって、家族関係が崩壊した家庭を指します。ネガティブな意味合いが強い言葉です。\n\n例：He comes from a broken home, so he had a difficult childhood. (彼は崩壊した家庭で育ったので、つらい子供時代を過ごした。)"
+    },
+    {
+      "id": 37,
+      "value": "parts per million",
+      "options": [
+        "100万あたりの個数",
+        "1000あたりの個数",
+        "100あたりの個数",
+        "10億あたりの個数"
+      ],
+      "correctAnswer": "100万あたりの個数",
+      "explanation": "「parts per million (ppm)」とは、100万分のいくらであるかを示す単位です。微量の物質の濃度を表す際に用いられます。\n\n例：The water sample contained 2 ppm of lead. (その水サンプルには、鉛が2 ppm含まれていた。)"
+    },
+    {
+      "id": 38,
+      "value": "backstroke",
+      "options": [
+        "平泳ぎ",
+        "背泳ぎ",
+        "バタフライ",
+        "クロール"
+      ],
+      "correctAnswer": "背泳ぎ",
+      "explanation": "「backstroke」とは、水泳の泳ぎ方の一つで、仰向けになって泳ぐ背泳ぎのことです。ここでは、公衆トイレで泳いでいるかのように汚い、という比喩として使われています。"
+    },
+    {
+      "id": 39,
+      "value": "cut him out of it",
+      "options": [
+        "彼を仲間に入れる",
+        "彼を助ける",
+        "彼を切り捨てる",
+        "彼を解放する"
+      ],
+      "correctAnswer": "彼を解放する",
+      "explanation": "「cut someone out of something」とは、物理的に何かから切り離すという意味ですが、ここでは日焼けで皮膚に張り付いてしまった服を切り開いて脱がせた、という意味で使われています。\n\n例：We had to cut him out of his wet suit after the triathlon. (トライアスロンの後、私たちは彼のウェットスーツを切り開いて脱がさなければならなかった。)"
+    },
+    {
+      "id": 40,
+      "value": "acting odd",
+      "options": [
+        "普通にふるまう",
+        "奇妙にふるまう",
+        "悲しそうにふるまう",
+        "怒ってふるまう"
+      ],
+      "correctAnswer": "奇妙にふるまう",
+      "explanation": "「acting odd」とは、普段と違う、奇妙な行動をとるという意味です。\n\n例：He's been acting odd ever since he lost his job. (彼は仕事を失ってから、ずっと奇妙な行動をとっている。)"
+    },
+    {
+      "id": 41,
+      "value": "fava beans",
+      "options": [
+        "そら豆",
+        "ひよこ豆",
+        "レンズ豆",
+        "大豆"
+      ],
+      "correctAnswer": "そら豆",
+      "explanation": "「fava beans」とは、そら豆のことです。ここでは、Amyが自分の奇妙さをアピールするために、そら豆を口に詰め込むという例を挙げています。"
+    },
+    {
+      "id": 42,
+      "value": "opened up",
+      "options": [
+        "閉鎖された",
+        "開店した",
+        "利用可能になった",
+        "キャンセルされた"
+      ],
+      "correctAnswer": "利用可能になった",
+      "explanation": "「open up」とは、ここでは「（予約などが）空く、利用可能になる」という意味です。別の意味としては、心を開く、打ち明ける、という意味もあります。\n\n例：A new opportunity opened up for him. (彼に新たな機会が開かれた。)"
+    },
+    {
+      "id": 43,
+      "value": "I told you so",
+      "options": [
+        "おめでとう",
+        "ごめんなさい",
+        "だから言ったでしょ",
+        "ありがとう"
+      ],
+      "correctAnswer": "だから言ったでしょ",
+      "explanation": "「I told you so」とは、「だから言ったでしょ」という意味で、自分の予言や忠告が的中したときに、相手に対して言う言葉です。相手を非難するニュアンスが含まれるため、状況によっては不快感を与えることがあります。"
+    },
+    {
+      "id": 44,
+      "value": "fencing school",
+      "options": [
+        "漁業学校",
+        "料理学校",
+        "フェンシングスクール",
+        "デザイン学校"
+      ],
+      "correctAnswer": "フェンシングスクール",
+      "explanation": "「fencing school」とは、フェンシングを教える学校のことです。"
+    },
+    {
+      "id": 45,
+      "value": "Diwali",
+      "options": [
+        "日本の祭り",
+        "インドの祭り",
+        "中国の祭り",
+        "メキシコの祭り"
+      ],
+      "correctAnswer": "インドの祭り",
+      "explanation": "「Diwali」とは、ヒンドゥー教の光の祭典で、インドをはじめとする国々で祝われます。新しい始まりや善が勝利することを祝う祭りです。"
+    },
+    {
+      "id": 46,
+      "value": "asteroid strike",
+      "options": [
+        "ストライキ",
+        "小惑星の衝突",
+        "宇宙遊泳",
+        "宇宙旅行"
+      ],
+      "correctAnswer": "小惑星の衝突",
+      "explanation": "「asteroid strike」とは、小惑星が地球に衝突することです。甚大な被害をもたらす可能性があります。"
+    },
+    {
+      "id": 47,
+      "value": "monsoon season",
+      "options": [
+        "乾季",
+        "雨季",
+        "夏",
+        "冬"
+      ],
+      "correctAnswer": "雨季",
+      "explanation": "「monsoon season」とは、雨季のことです。特にアジア地域で、季節風の影響で雨が多く降る時期を指します。"
+    },
+    {
+      "id": 48,
+      "value": "carotid artery",
+      "options": [
+        "大腿動脈",
+        "頸動脈",
+        "冠状動脈",
+        "肺動脈"
+      ],
+      "correctAnswer": "頸動脈",
+      "explanation": "「carotid artery」とは、脳に血液を送る主要な血管である頸動脈のことです。手術のリスクを説明する際に使われています。"
+    },
+    {
+      "id": 49,
+      "value": "latex gloves",
+      "options": [
+        "革手袋",
+        "綿手袋",
+        "ラテックス手袋",
+        "毛糸の手袋"
+      ],
+      "correctAnswer": "ラテックス手袋",
+      "explanation": "「latex gloves」とは、天然ゴムで作られた手袋のことです。医療現場などでよく使用されますが、ラテックスアレルギーを持つ人もいます。"
+    },
+    {
+      "id": 50,
+      "value": "hair net",
+      "options": [
+        "ヘアピン",
+        "ヘアバンド",
+        "ヘアネット",
+        "かつら"
+      ],
+      "correctAnswer": "ヘアネット",
+      "explanation": "「hair net」とは、髪の毛が落ちるのを防ぐためにかぶるネット状の帽子です。食品工場や医療現場などで使用されます。"
+    },
+    {
+      "id": 51,
+      "value": "pants fire",
+      "options": [
+        "ズボンが燃えている",
+        "嘘をついている",
+        "怒っている",
+        "混乱している"
+      ],
+      "correctAnswer": "嘘をついている",
+      "explanation": "「pants on fire」は、子供が嘘をついたときに使われる表現で、「嘘つき」という意味です。文字通りには「ズボンが燃えている」となりますが、嘘をつくと罰としてズボンが燃えるという迷信に基づいています。ややユーモラスで、子供っぽいニュアンスがあります。"
+    },
+    {
+      "id": 52,
+      "value": "wore me down",
+      "options": [
+        "私を感動させた",
+        "私を疲れさせた",
+        "私を興奮させた",
+        "私を幸せにした"
+      ],
+      "correctAnswer": "私を疲れさせた",
+      "explanation": "「wear someone down」は、「人を疲れさせる」「人を弱らせる」という意味です。抵抗していた人が、最終的に相手の要求に応じるまで、精神的または肉体的に消耗させる状況を表します。粘り強い説得やプレッシャーによって、人が根負けする様子を表す際に使われます。"
+    },
+    {
+      "id": 53,
+      "value": "muffin much",
+      "options": [
+        "たくさんのマフィン",
+        "感謝の気持ち",
+        "挨拶の言葉",
+        "特に意味はない"
+      ],
+      "correctAnswer": "感謝の気持ち",
+      "explanation": "\"muffin much\"は\"Thank you very much\"をもじったジョークです。\"Thank you\"を\"muffin\"に置き換えることで、ユーモラスな効果を生み出しています。類似の言葉遊びとして、\"I loaf you\" (I love you) などがあります。"
+    },
+    {
+      "id": 54,
+      "value": "tough crowd",
+      "options": [
+        "厳しい聴衆",
+        "友好的な聴衆",
+        "静かな聴衆",
+        "騒がしい聴衆"
+      ],
+      "correctAnswer": "厳しい聴衆",
+      "explanation": "「tough crowd」は、「手ごわい観客」「反応の悪い聴衆」という意味です。ジョークやパフォーマンスに対して、笑ったり喜んだりしない、反応の鈍い観客を指します。コメディアンなどが自虐的に使うこともあります。"
+    },
+    {
+      "id": 55,
+      "value": "split up",
+      "options": [
+        "団結する",
+        "分裂する",
+        "協力する",
+        "無視する"
+      ],
+      "correctAnswer": "分裂する",
+      "explanation": "「split up」は、夫婦や恋人などが「別れる」「離婚する」という意味です。物理的に分かれるだけでなく、関係が解消されることを指します。類似の表現には、「break up」があります。"
+    },
+    {
+      "id": 56,
+      "value": "stuck around",
+      "options": [
+        "逃げ出した",
+        "そばにいた",
+        "迷子になった",
+        "引っ越した"
+      ],
+      "correctAnswer": "そばにいた",
+      "explanation": "「stick around」は、「（ある場所や人の）そばにいる」「（ある状況に）留まる」という意味です。人が去らずに、ある場所に留まることや、困難な状況から逃げ出さないことを指します。例：He stuck around to help me clean up. (彼は私が片付けるのを手伝うために残ってくれた。)"
+    },
+    {
+      "id": 57,
+      "value": "took off",
+      "options": [
+        "飛び立った",
+        "離陸した",
+        "急に立ち去った",
+        "着陸した"
+      ],
+      "correctAnswer": "急に立ち去った",
+      "explanation": "「take off」は様々な意味がありますが、ここでは「急に立ち去る」「逃げる」という意味です。特に、許可を得ずに、または予期せずに急に去る状況を指します。例：He just took off without saying goodbye. (彼はさよならも言わずに急に立ち去った。)"
+    },
+    {
+      "id": 58,
+      "value": "resent",
+      "options": [
+        "喜ぶ",
+        "感謝する",
+        "憤慨する",
+        "許す"
+      ],
+      "correctAnswer": "憤慨する",
+      "explanation": "「resent」は、「～に憤慨する」「～を恨む」という意味です。不当だと感じる状況や行為に対して、怒りや不満を抱くことを表します。例：He resented being treated like a child. (彼は子供扱いされることに腹を立てた。)"
+    },
+    {
+      "id": 59,
+      "value": "bottled up",
+      "options": [
+        "解放された",
+        "抑圧された",
+        "表現された",
+        "無視された"
+      ],
+      "correctAnswer": "抑圧された",
+      "explanation": "「bottle up」は、「（感情などを）抑え込む」「内に秘める」という意味です。感情を表に出さずに、心の中に閉じ込めておく様子を表します。例：She bottled up her anger for years. (彼女は何年も怒りを抑え込んでいた。)"
+    },
+    {
+      "id": 60,
+      "value": "sense of",
+      "options": [
+        "感覚",
+        "意識",
+        "理解",
+        "無感覚"
+      ],
+      "correctAnswer": "理解",
+      "explanation": "「sense of」は、「～の感覚」「～の理解」という意味です。ここでは、何が起こったのかについて、何らかの手がかりや感じがあるかという意味合いで使われています。例：I have a sense of foreboding. (私は悪い予感がする。)"
+    },
+    {
+      "id": 61,
+      "value": "confounded",
+      "options": [
+        "簡単な",
+        "複雑な",
+        "幸運な",
+        "安全な"
+      ],
+      "correctAnswer": "複雑な",
+      "explanation": "「confounded」は、「困惑させる」「混乱させる」という意味の形容詞です。ここでは、回転ドアがSheldonを混乱させていることを表しています。類似の表現には、「confusing」があります。"
+    },
+    {
+      "id": 62,
+      "value": "give him a hard time",
+      "options": [
+        "彼を助ける",
+        "彼を励ます",
+        "彼を困らせる",
+        "彼を無視する"
+      ],
+      "correctAnswer": "彼を困らせる",
+      "explanation": "「give someone a hard time」は、「（人）を困らせる」「（人）に苦労させる」という意味です。意地悪なことを言ったり、からかったり、批判したりして、相手を不快にさせる状況を表します。例：Don't give him a hard time about his mistake. (彼のミスについて彼を責めないで。)"
+    },
+    {
+      "id": 63,
+      "value": "goiter",
+      "options": [
+        "腫瘍",
+        "甲状腺腫",
+        "発疹",
+        "傷跡"
+      ],
+      "correctAnswer": "甲状腺腫",
+      "explanation": "「goiter」は、「甲状腺腫」という意味です。甲状腺が異常に大きくなった状態を指します。この文脈では、Leonardの状態について、Sheldonが不適切なコメントをすることを避けるようにPennyが注意しています。"
+    },
+    {
+      "id": 64,
+      "value": "pain in the ass",
+      "options": [
+        "楽しい人",
+        "親切な人",
+        "迷惑な人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "迷惑な人",
+      "explanation": "「pain in the ass」は、「非常に迷惑な人」「厄介者」という意味です。非常に不快で、扱いにくい人や状況を指す、下品な表現です。ここでは、Sheldon自身がLeonardにとって迷惑な存在だったことを示唆しています。"
+    },
+    {
+      "id": 65,
+      "value": "you bet your sweet",
+      "options": [
+        "もちろん",
+        "たぶん",
+        "ありえない",
+        "知らない"
+      ],
+      "correctAnswer": "もちろん",
+      "explanation": "「You bet your sweet [名詞]」は、「絶対に～だ」「その通りだ」という意味の強調表現です。ここでは、「You bet your sweet bippy I won't.」という形で、絶対にAとは言わないという強い意志を表しています。スラング的な表現で、ややユーモラスなニュアンスがあります。"
+    },
+    {
+      "id": 66,
+      "value": "earthquake",
+      "options": [
+        "地震",
+        "雷",
+        "嵐",
+        "洪水"
+      ],
+      "correctAnswer": "地震",
+      "explanation": "「earthquake」は、「地震」という意味ですが、ここでは比喩的に使われています。PennyがSheldonの言葉を遮ったことに対するSheldonの過剰な反応を表しています。Sheldonは日常の些細な変化にも敏感で、それを大げさに捉える傾向があります。"
+    },
+    {
+      "id": 67,
+      "value": "tremor",
+      "options": [
+        "静けさ",
+        "混乱",
+        "地震",
+        "沈黙"
+      ],
+      "correctAnswer": "地震",
+      "explanation": "「tremor」は、「（軽い）地震」「微震」という意味です。ここでは、PennyがSheldonの発言を訂正したことを、Sheldonが大げさに「地震」と捉えているのに対し、Pennyが「ただの小さな地震（微震）」だと表現することで、事態を矮小化しようとしています。"
+    },
+    {
+      "id": 68,
+      "value": "frontal lobotomy",
+      "options": [
+        "心臓手術",
+        "脳葉切除",
+        "美容整形",
+        "胃の切除"
+      ],
+      "correctAnswer": "脳葉切除",
+      "explanation": "「frontal lobotomy」は、「前頭葉切除（ぜんとうようせつじょ）」という意味です。精神疾患の治療としてかつて行われていた手術で、人格や感情に重大な影響を与える可能性があります。Sheldonは、Leonardの軽い手術を大げさに捉え、最悪の事態を想定していることを表しています。"
+    },
+    {
+      "id": 69,
+      "value": "try and stop me",
+      "options": [
+        "止めてみて",
+        "賛成する",
+        "反対する",
+        "応援する"
+      ],
+      "correctAnswer": "止めてみて",
+      "explanation": "「try and stop me」は、「止めてみろ」「できるものなら止めてみろ」という意味です。相手の制止をものともせず、自分の意志を貫こうとする強い決意を示す表現です。挑発的なニュアンスが含まれることもあります。"
+    },
+    {
+      "id": 70,
+      "value": "Can I tell you something?",
+      "options": [
+        "相談に乗ってくれませんか",
+        "何か話しても良いですか",
+        "何か手伝いましょうか",
+        "何か質問はありますか"
+      ],
+      "correctAnswer": "何か話しても良いですか",
+      "explanation": "「Can I tell you something?」は、「ちょっといい？」「ねえ、聞いて」という意味です。相手に何か重要なことや個人的な話を打ち明けたい時に使う表現です。話を聞いてもらう許可を求めるニュアンスが含まれます。"
+    },
+    {
+      "id": 71,
+      "value": "What are you talking about?",
+      "options": [
+        "何について話しているのですか",
+        "同意します",
+        "反対です",
+        "理解できません"
+      ],
+      "correctAnswer": "何について話しているのですか",
+      "explanation": "「What are you talking about?」は、「何を言っているんだ？」「何の話をしているんだ？」という意味です。相手の発言が理解できない、または信じられないときに使う表現です。驚きや困惑、場合によっては反論のニュアンスが含まれます。"
+    },
+    {
+      "id": 72,
+      "value": "come on",
+      "options": [
+        "頑張って",
+        "まさか",
+        "急いで",
+        "ゆっくり"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "「come on」は様々な意味がありますが、ここでは「まさか」「冗談でしょう」という意味で、相手の発言を信じられない気持ちを表しています。驚きや反論のニュアンスが含まれることがあります。例：Come on, you can't be serious! (まさか、本気じゃないだろう！)"
+    },
+    {
+      "id": 73,
+      "value": "to blame",
+      "options": [
+        "責任がある",
+        "賞賛に値する",
+        "助けになる",
+        "無関係である"
+      ],
+      "correctAnswer": "責任がある",
+      "explanation": "「to blame」は、「～の責任がある」「～が悪い」という意味です。ここでは、「The children aren’t to blame」という形で、「子供たちは悪くない」という意味になります。誰かが非難されるべき状況で、特定の人物や集団の責任を否定する際に使われます。"
+    },
+    {
+      "id": 74,
+      "value": "the little things",
+      "options": [
+        "重要なこと",
+        "小さなこと",
+        "秘密のこと",
+        "過去のこと"
+      ],
+      "correctAnswer": "小さなこと",
+      "explanation": "「the little things」は、「ささいなこと」「些細なこと」という意味です。ここでは、夫婦関係において、小さな不満や問題が積み重なって大きな問題になることを示唆しています。日常の些細な出来事や感情が、長期的な関係に影響を与えることを強調する際に使われます。"
+    },
+    {
+      "id": 75,
+      "value": "happen to us",
+      "options": [
+        "私たちに起こる",
+        "私たちを避ける",
+        "私たちを助ける",
+        "私たちを忘れる"
+      ],
+      "correctAnswer": "私たちに起こる",
+      "explanation": "「happen to us」は、「私たちに起こる」「私たちに降りかかる」という意味です。ここでは、Rajの両親に起こったような離婚や不仲が、自分たち夫婦にも起こるのではないかというBernadetteの不安を表しています。望ましくない事態が自分たちにも起こりうるという懸念を示す際に使われます。"
+    },
+    {
+      "id": 76,
+      "value": "chew my leg off",
+      "options": [
+        "逃げる",
+        "自暴自棄になる",
+        "苦痛を訴える",
+        "我慢する"
+      ],
+      "correctAnswer": "逃げる",
+      "explanation": "「chew my leg off」は、文字通りには「自分の脚を噛み切る」という意味ですが、比喩的には「何としても逃げ出したい、脱出したい」という強い願望を表します。罠にかかった動物が自らの脚を噛み切って逃げる様子から来ています。ここでは、ハワードがバーナデットの質問攻めから逃れたい気持ちを誇張して表現しています。"
+    },
+    {
+      "id": 77,
+      "value": "go out of our way",
+      "options": [
+        "特別な配慮をする",
+        "邪魔をする",
+        "遠回りをする",
+        "普段通りにする"
+      ],
+      "correctAnswer": "特別な配慮をする",
+      "explanation": "「go out of one's way」は、「わざわざ～する」「特別な努力をする」という意味です。通常の行動範囲を超えて、何かを達成するために積極的に行動するニュアンスがあります。ここでは、ハワードが「お互いを批判するためにわざわざ努力する必要はない」と言っています。"
+    },
+    {
+      "id": 78,
+      "value": "slob",
+      "options": [
+        "几帳面な人",
+        "だらしない人",
+        "きれい好きな人",
+        "働き者"
+      ],
+      "correctAnswer": "だらしない人",
+      "explanation": "「slob」は、「だらしない人」「ずぼらな人」という意味です。身なりや身の回りに気を遣わず、散らかっている状態を指すことが多いです。ハワードは自分が家でだらしないことを認めています。"
+    },
+    {
+      "id": 79,
+      "value": "out of the woods",
+      "options": [
+        "森の中にいる",
+        "困難を脱した",
+        "森から出られない",
+        "迷っている"
+      ],
+      "correctAnswer": "困難を脱した",
+      "explanation": "「out of the woods」は、「危機を脱した」「困難な状況を乗り越えた」という意味のイディオムです。文字通りには「森から出た」という意味で、危険な場所から安全な場所へ移動したことを表します。ここでは、レナードの手術後の状態について、シェルドンがまだ安心できないと言っています。"
+    },
+    {
+      "id": 80,
+      "value": "blood clot",
+      "options": [
+        "血栓",
+        "貧血",
+        "出血",
+        "血圧"
+      ],
+      "correctAnswer": "血栓",
+      "explanation": "「blood clot」は「血栓」という意味です。血液が血管内で凝固してできる塊のことで、手術後の合併症として注意が必要です。シェルドンはレナードの手術後のリスクを心配してこの言葉を使っています。"
+    },
+    {
+      "id": 81,
+      "value": "inattentive",
+      "options": [
+        "注意深い",
+        "不注意な",
+        "親切な",
+        "優秀な"
+      ],
+      "correctAnswer": "不注意な",
+      "explanation": "「inattentive」は「不注意な」「注意散漫な」という意味です。医療関係者がinattentiveであることは、患者にとって大きなリスクとなります。シェルドンはレナードの手術を担当した医師が不注意である可能性を心配しています。"
+    },
+    {
+      "id": 82,
+      "value": "barn spider",
+      "options": [
+        "ドクグモ",
+        "コモリグモ",
+        "アシダカグモ",
+        "イエグモ"
+      ],
+      "correctAnswer": "イエグモ",
+      "explanation": "「barn spider」は、一般的に「イエグモ」を指します。納屋や人家に生息することが多いため、この名前がついています。シェルドンはレナードの鼻の中にイエグモが卵を産み付けるというありえない状況を想像しています。"
+    },
+    {
+      "id": 83,
+      "value": "sneeze web",
+      "options": [
+        "花粉症",
+        "くしゃみで巣を張る",
+        "風邪の症状",
+        "アレルギー反応"
+      ],
+      "correctAnswer": "くしゃみで巣を張る",
+      "explanation": "「sneeze web」は、文字通りには「くしゃみで巣を張る」という意味ですが、ここではシェルドンが想像するレナードの鼻の中でクモが巣を作って、レナードがくしゃみをすると巣が出てくるという架空の状況を指しています。"
+    },
+    {
+      "id": 84,
+      "value": "crack his skull open",
+      "options": [
+        "頭蓋骨にヒビを入れる",
+        "頭蓋骨を開ける",
+        "頭を冷やす",
+        "冷静になる"
+      ],
+      "correctAnswer": "頭蓋骨を開ける",
+      "explanation": "「crack his skull open」は、「彼の頭蓋骨を開ける」という意味です。非常に暴力的で非現実的な表現であり、ここではシェルドンがレナードの脳を調べるために、文字通り頭蓋骨を開けることを提案しています。"
+    },
+    {
+      "id": 85,
+      "value": "Raid",
+      "options": [
+        "殺虫剤",
+        "絆創膏",
+        "消毒液",
+        "鎮痛剤"
+      ],
+      "correctAnswer": "殺虫剤",
+      "explanation": "「Raid」は、アメリカで有名な殺虫剤のブランド名です。ここでは、シェルドンがレナードの脳内のクモを駆除するために、殺虫剤をスプレーすることを提案しています。"
+    },
+    {
+      "id": 86,
+      "value": "take pride in",
+      "options": [
+        "軽蔑する",
+        "誇りに思う",
+        "無関心である",
+        "嫉妬する"
+      ],
+      "correctAnswer": "誇りに思う",
+      "explanation": "「take pride in」は、「～を誇りに思う」「～を自慢に思う」という意味です。自分が得意とすることや、良い結果を出せたことに対して使われます。ハワードは自分の外見に気を遣うことを誇りに思っています。"
+    },
+    {
+      "id": 87,
+      "value": "ounce",
+      "options": [
+        "ポンド",
+        "グラム",
+        "ミリグラム",
+        "オンス"
+      ],
+      "correctAnswer": "オンス",
+      "explanation": "「ounce」は、重さの単位である「オンス」です。ここでは比喩的に、「少しの」「わずかな」という意味で使われています。ハワードはバーナデットが考えなしに話すことを愛情を込めて表現しています。"
+    },
+    {
+      "id": 88,
+      "value": "Eat, Pray, Love",
+      "options": [
+        "映画のタイトル",
+        "料理本",
+        "旅行ガイド",
+        "自己啓発本"
+      ],
+      "correctAnswer": "自己啓発本",
+      "explanation": "「Eat, Pray, Love」は、エリザベス・ギルバートのベストセラー回顧録であり、映画化もされました。自己発見の旅を描いた作品で、多くの人に影響を与えました。ラージの母親がこの本を使ったというジョークは、彼女の突飛な行動を強調しています。"
+    },
+    {
+      "id": 89,
+      "value": "morbid",
+      "options": [
+        "健康的な",
+        "病的な",
+        "楽観的な",
+        "現実的な"
+      ],
+      "correctAnswer": "病的な",
+      "explanation": "「morbid」は、「病的な」「陰惨な」「不気味な」という意味です。死や病気など、不快な事柄にばかり関心を持つ様子を表します。ペニーはシェルドンがレナードのために用意した骨壷を見て、morbidだと感じています。"
+    },
+    {
+      "id": 90,
+      "value": "Here lie the ashes of...",
+      "options": [
+        "～の灰はここに眠る",
+        "～の思い出",
+        "～の遺産",
+        "～の人生"
+      ],
+      "correctAnswer": "～の灰はここに眠る",
+      "explanation": "「Here lie the ashes of...」は、墓石に刻まれる典型的な文言で、「～の灰はここに眠る」という意味です。シェルドンは骨壷に刻む言葉として、これを引用しています。"
+    },
+    {
+      "id": 91,
+      "value": "painkillers",
+      "options": [
+        "サプリメント",
+        "鎮痛剤",
+        "栄養剤",
+        "睡眠薬"
+      ],
+      "correctAnswer": "鎮痛剤",
+      "explanation": "「painkillers」は「鎮痛剤」という意味です。手術後の痛みなどを和らげるために使用されます。レナードは鎮痛剤によるぼんやりとした感覚を気に入っています。"
+    },
+    {
+      "id": 92,
+      "value": "I'm with stupid.",
+      "options": [
+        "私ってバカ",
+        "バカと一緒",
+        "私は賢い",
+        "私は関係ない"
+      ],
+      "correctAnswer": "バカと一緒",
+      "explanation": "「I'm with stupid.」は、「私はバカと一緒」という意味のスラングです。誰かをからかうためや、自分自身を卑下する際に使われます。ここでは、シェルドンがレナードをからかうために使っています。"
+    },
+    {
+      "id": 93,
+      "value": "trap",
+      "options": [
+        "わな",
+        "宝物",
+        "自由",
+        "ゲーム"
+      ],
+      "correctAnswer": "わな",
+      "explanation": "ここでは、「trap」は比喩的に使われ、バーナデットがハワードから秘密や不満を聞き出そうとする状況を指しています。ハワードは、バーナデットの質問に答えると、後で不利な状況に陥る可能性があると考え、それを「trap（わな）」と表現しています。"
+    },
+    {
+      "id": 94,
+      "value": "bother",
+      "options": [
+        "喜ばせる",
+        "悩ませる",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "悩ませる",
+      "explanation": "ここでは、「bother」は「悩ませる」「気にかかる」という意味で使われています。ハワードは、バーナデットに何か不満な点を言うように促され、正直に答えることをためらっています。"
+    },
+    {
+      "id": 95,
+      "value": "couples therapy",
+      "options": [
+        "個人セラピー",
+        "集団セラピー",
+        "カップルセラピー",
+        "家族セラピー"
+      ],
+      "correctAnswer": "カップルセラピー",
+      "explanation": "「couples therapy」は、カップルが関係を改善するために受けるセラピーのことです。ハワードは、過去にカップルセラピーを受けた経験があることを明かしていますが、誰と受けたかは秘密にしています。"
+    },
+    {
+      "id": 96,
+      "value": "attached to",
+      "options": [
+        "嫌っている",
+        "執着している",
+        "無関心な",
+        "恐れている"
+      ],
+      "correctAnswer": "執着している",
+      "explanation": "「attached to」は、「～に執着している」「～に愛着がある」という意味です。ここでは、シェルドンがレナードに過度に執着しているわけではないと主張していますが、実際には非常に心配している様子が描かれています。"
+    },
+    {
+      "id": 97,
+      "value": "crack his skull open",
+      "options": [
+        "頭を冷やす",
+        "頭蓋骨を開ける",
+        "頭をぶつける",
+        "頭痛がする"
+      ],
+      "correctAnswer": "頭蓋骨を開ける",
+      "explanation": "「crack his skull open」は、文字通りには「彼の頭蓋骨を開ける」という意味ですが、ここでは比喩的に使われ、レナードの脳の状態を詳しく調べるために、過激な手段を提案していることを表しています。シェルドンのユーモアのある表現です。"
+    },
+    {
+      "id": 98,
+      "value": "pee in the kitchen sink",
+      "options": [
+        "台所のシンクで料理する",
+        "台所のシンクで小便をする",
+        "台所を掃除する",
+        "食事を作る"
+      ],
+      "correctAnswer": "台所のシンクで小便をする",
+      "explanation": "「pee in the kitchen sink」は、「台所のシンクで小便をする」という意味です。一般的ではない、または不潔な行為を指します。ハワードは、バーナデットがそのような行為をしない上品さを褒めています。"
+    },
+    {
+      "id": 99,
+      "value": "urn",
+      "options": [
+        "花瓶",
+        "骨壷",
+        "植木鉢",
+        "水筒"
+      ],
+      "correctAnswer": "骨壷",
+      "explanation": "「urn」は「骨壷」という意味です。遺灰を納める容器を指します。シェルドンは、レナードが手術で亡くなった場合に備えて、骨壷を用意していました。"
+    },
+    {
+      "id": 100,
+      "value": "engraved",
+      "options": [
+        "印刷された",
+        "彫刻された",
+        "塗装された",
+        "装飾された"
+      ],
+      "correctAnswer": "彫刻された",
+      "explanation": "「engraved」は「彫刻された」という意味です。文字や模様などを表面に刻み込むことを指します。シェルドンは、骨壷にレナードへのメッセージを彫刻していました。"
+    }
+  ]
+}

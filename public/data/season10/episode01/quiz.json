@@ -1,0 +1,1072 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "unspeakable",
+      "options": [
+        "言葉にできない",
+        "理解できない",
+        "予期できない",
+        "経験できない"
+      ],
+      "correctAnswer": "言葉にできない",
+      "explanation": "「unspeakable」は、言葉では表現できないほどひどい、または不快な状況や感情を指します。道徳的に許されない行為や、非常に衝撃的な出来事に対して使われることが多いです。例えば、「unspeakable crimes（言語道断な犯罪）」のように使われます。"
+    },
+    {
+      "id": 2,
+      "value": "fresh out of",
+      "options": [
+        "〜から出てきたばかり",
+        "〜にうんざりしている",
+        "〜に興味がある",
+        "〜を終えたばかり"
+      ],
+      "correctAnswer": "〜から出てきたばかり",
+      "explanation": "「fresh out of」は、ある場所や状態から出てきたばかり、または何かを終えたばかりという意味です。刑務所から出所したばかりの人や、学校を卒業したばかりの人など、新しい状態になったばかりの人を指すのに使われます。例：He is fresh out of college. (彼は大学を出たばかりです。)"
+    },
+    {
+      "id": 3,
+      "value": "go through the trouble of",
+      "options": [
+        "〜の手間をかける",
+        "〜を経験する",
+        "〜を乗り越える",
+        "〜を無視する"
+      ],
+      "correctAnswer": "〜の手間をかける",
+      "explanation": "「go through the trouble of」は、何かをするためにわざわざ手間をかける、苦労するという意味です。特に、それが面倒なことや困難なことである場合に用いられます。例：I went through the trouble of baking a cake for you.（あなたのためにわざわざケーキを焼いたんだ。）"
+    },
+    {
+      "id": 4,
+      "value": "go out of one's way",
+      "options": [
+        "わざわざ〜する",
+        "〜を避ける",
+        "〜を無視する",
+        "〜を批判する"
+      ],
+      "correctAnswer": "わざわざ〜する",
+      "explanation": "「go out of one's way」は、わざわざ何かをする、特別な努力をするという意味です。通常の行動範囲を超えて、親切な行為や特別な配慮をする際に使われます。例：He went out of his way to help me with the project. (彼はそのプロジェクトを手伝うために、わざわざ骨を折ってくれた。)"
+    },
+    {
+      "id": 5,
+      "value": "bible-thumping",
+      "options": [
+        "聖書を強く信じる",
+        "科学を強く信じる",
+        "迷信を強く信じる",
+        "運命を強く信じる"
+      ],
+      "correctAnswer": "聖書を強く信じる",
+      "explanation": "「bible-thumping」は、聖書を文字通りに解釈し、それを声高に主張する人を指す軽蔑的な言葉です。宗教的な信念を押し付けるようなニュアンスが含まれます。例：He is a bible-thumping preacher. (彼は聖書を声高に主張する説教者だ。)"
+    },
+    {
+      "id": 6,
+      "value": "bumpkin",
+      "options": [
+        "田舎者",
+        "都会人",
+        "学者",
+        "芸術家"
+      ],
+      "correctAnswer": "田舎者",
+      "explanation": "「bumpkin」は、洗練されていない、田舎臭い人を指す言葉です。無骨で世間知らずな人を揶揄する際に使われます。例：He felt like a bumpkin in the big city. (彼は大都会で田舎者のように感じた。)"
+    },
+    {
+      "id": 7,
+      "value": "overreacting",
+      "options": [
+        "過剰に反応する",
+        "冷静に対応する",
+        "無関心である",
+        "楽観的に考える"
+      ],
+      "correctAnswer": "過剰に反応する",
+      "explanation": "「overreacting」は、状況に対して過剰に反応すること、必要以上に感情的に対応することを意味します。些細なことに対して大げさに騒ぎ立てるような状況で使われます。例：You're overreacting. It's not that serious. (あなたは過剰に反応している。そんなに深刻なことではない。)"
+    },
+    {
+      "id": 8,
+      "value": "get under one's skin",
+      "options": [
+        "〜をイライラさせる",
+        "〜を安心させる",
+        "〜を感動させる",
+        "〜を無視する"
+      ],
+      "correctAnswer": "〜をイライラさせる",
+      "explanation": "「get under one's skin」は、人をイライラさせる、神経に障るという意味です。些細なことや行動が、徐々に相手を不快にさせる状況を指します。例：His constant complaining is starting to get under my skin. (彼の絶え間ない不満が私の神経に障り始めている。)"
+    },
+    {
+      "id": 9,
+      "value": "nightcap",
+      "options": [
+        "寝酒",
+        "夕食",
+        "夜の帽子",
+        "夜の散歩"
+      ],
+      "correctAnswer": "寝酒",
+      "explanation": "「nightcap」は、寝る前に飲むお酒のことです。リラックス効果や睡眠導入のために飲まれることが多いです。例：He had a nightcap before going to bed. (彼は寝る前に寝酒を飲んだ。)"
+    },
+    {
+      "id": 10,
+      "value": "coitus",
+      "options": [
+        "性交",
+        "友情",
+        "食事",
+        "会議"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交を意味するフォーマルな言葉です。医学的な文脈や、やや古風な表現として使われることがあります。例：The doctor asked about the frequency of coitus. (医者は性交の頻度について尋ねた。)"
+    },
+    {
+      "id": 11,
+      "value": "walk a straight line",
+      "options": [
+        "まっすぐ歩く",
+        "正直に生きる",
+        "困難を乗り越える",
+        "目標を達成する"
+      ],
+      "correctAnswer": "まっすぐ歩く",
+      "explanation": "「walk a straight line」は、まっすぐ歩くという意味ですが、比喩的には、正直に生きる、規則を守るという意味も持ちます。警察が飲酒検査をする際に、平衡感覚を確かめるために使われることがあります。例：The police asked him to walk a straight line. (警察は彼にまっすぐ歩くように言った。)"
+    },
+    {
+      "id": 12,
+      "value": "performance anxiety",
+      "options": [
+        "舞台恐怖症",
+        "運動不足",
+        "過食症",
+        "睡眠不足"
+      ],
+      "correctAnswer": "舞台恐怖症",
+      "explanation": "「performance anxiety」は、人前で何かをすることに対する不安や緊張を指します。舞台に立つ俳優や、スポーツ選手、プレゼンテーションをする人などが経験することがあります。例：He suffers from performance anxiety. (彼は舞台恐怖症に苦しんでいる。)"
+    },
+    {
+      "id": 13,
+      "value": "right address",
+      "options": [
+        "正しい住所",
+        "間違った住所",
+        "秘密の住所",
+        "存在しない住所"
+      ],
+      "correctAnswer": "正しい住所",
+      "explanation": "「right address」は、正しい住所という意味ですが、比喩的には、適切な場所や相手を指すこともあります。例：You've come to the right address if you need help with your car. (車のことで助けが必要なら、あなたは正しい場所に来ました。)"
+    },
+    {
+      "id": 14,
+      "value": "the jail and drugs part",
+      "options": [
+        "刑務所と薬物の話",
+        "学校と勉強の話",
+        "仕事と給料の話",
+        "家族と旅行の話"
+      ],
+      "correctAnswer": "刑務所と薬物の話",
+      "explanation": "「the jail and drugs part」は、刑務所に入っていたことや薬物に関わっていたことなど、隠したい過去や問題のある部分を指します。家族や親しい人に打ち明けるか迷うような、ネガティブな情報です。例：I didn't want to tell them the jail and drugs part of my life. (私は自分の人生の刑務所と薬物の話を彼らに話したくなかった。)"
+    },
+    {
+      "id": 15,
+      "value": "bring up",
+      "options": [
+        "話題に出す",
+        "片付ける",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "話題に出す",
+      "explanation": "「bring up」は、話題を出す、話を持ち出すという意味です。会話の中で新しい話題を始める際に使われます。例：Don't bring up politics at the dinner table. (夕食の席で政治の話を持ち出さないで。)"
+    },
+    {
+      "id": 16,
+      "value": "as far as you're concerned",
+      "options": [
+        "あなたが知る限り",
+        "あなたが知らない限り",
+        "あなたが信じる限り",
+        "あなたが疑う限り"
+      ],
+      "correctAnswer": "あなたが知る限り",
+      "explanation": "「as far as you're concerned」は、あなたに関係する限り、あなたの考えでは、という意味です。個人的な意見や視点を述べる際に使われます。例：As far as I'm concerned, the movie was a masterpiece. (私の考えでは、その映画は傑作だった。)"
+    },
+    {
+      "id": 17,
+      "value": "play dumb",
+      "options": [
+        "馬鹿なふりをする",
+        "賢いふりをする",
+        "正直に話す",
+        "何も言わない"
+      ],
+      "correctAnswer": "馬鹿なふりをする",
+      "explanation": "「play dumb」は、知らないふりをする、馬鹿なふりをするという意味です。特に、何かを知っていることを隠したい場合に用いられます。例：I decided to play dumb when they asked me about the missing money. (彼らが私に紛失したお金について尋ねたとき、私は知らないふりをすることにした。)"
+    },
+    {
+      "id": 18,
+      "value": "throw in the towel",
+      "options": [
+        "諦める",
+        "挑戦する",
+        "休憩する",
+        "準備する"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「throw in the towel」は、タオルを投げ入れるという意味から、諦める、降参するという意味になりました。特に、困難な状況や競争から撤退する際に使われます。例：After years of struggling, he finally threw in the towel and closed his business. (長年の苦労の末、彼はついに諦めて事業を閉じた。)"
+    },
+    {
+      "id": 19,
+      "value": "accurate",
+      "options": [
+        "正確な",
+        "不正確な",
+        "曖昧な",
+        "秘密の"
+      ],
+      "correctAnswer": "正確な",
+      "explanation": "「accurate」は、正確な、正しいという意味です。事実や情報が真実に近いことを表します。例：The news report was accurate. (そのニュース報道は正確だった。)"
+    },
+    {
+      "id": 20,
+      "value": "have traffic ticket",
+      "options": [
+        "交通違反切符をもらう",
+        "交通違反を見逃す",
+        "交通整理をする",
+        "交通規則を作る"
+      ],
+      "correctAnswer": "交通違反切符をもらう",
+      "explanation": "「traffic ticket」は交通違反切符、反則切符のことです。スピード違反や駐車違反などで警察から発行されることが多いです。例： I got a traffic ticket for speeding.（スピード違反で交通違反切符をもらいました。）"
+    },
+    {
+      "id": 21,
+      "value": "like a lunatic",
+      "options": [
+        "狂ったように",
+        "静かに",
+        "慎重に",
+        "安全に"
+      ],
+      "correctAnswer": "狂ったように",
+      "explanation": "「like a lunatic」は、狂人のように、正気でない様子でという意味です。非常に激しい行動や、常軌を逸した振る舞いを指します。例：He was driving like a lunatic. (彼は狂ったように運転していた。)"
+    },
+    {
+      "id": 22,
+      "value": "pull over",
+      "options": [
+        "路肩に寄せる",
+        "追い越す",
+        "加速する",
+        "停車する"
+      ],
+      "correctAnswer": "路肩に寄せる",
+      "explanation": "「pull over」は、車を路肩に寄せる、停車させるという意味です。警察官が車を停止させる際によく使われる表現です。例：The police officer signaled me to pull over. (警察官は私に車を路肩に寄せるように合図した。)"
+    },
+    {
+      "id": 23,
+      "value": "all about you",
+      "options": [
+        "あなたについての全て",
+        "あなた以外の全て",
+        "あなたに関係のないこと",
+        "あなただけに秘密のこと"
+      ],
+      "correctAnswer": "あなたについての全て",
+      "explanation": "「all about you」は、あなたのことばかり、あなたに関する全てという意味です。良い意味でも悪い意味でも使われます。例：This party is all about you. (このパーティーはあなたのためのお祝いです。)"
+    },
+    {
+      "id": 24,
+      "value": "the world doesn't need to know",
+      "options": [
+        "世間は知る必要がない",
+        "世間は知るべきだ",
+        "世間は興味がない",
+        "世間は既に知っている"
+      ],
+      "correctAnswer": "世間は知る必要がない",
+      "explanation": "「the world doesn't need to know」は、世間は知る必要がない、公にする必要はないという意味です。個人的な問題や秘密を隠したい場合に用いられます。例：The world doesn't need to know about our family problems. (世間は私たちの家族の問題を知る必要はない。)"
+    },
+    {
+      "id": 25,
+      "value": "depending on traffic",
+      "options": [
+        "交通状況による",
+        "天気による",
+        "時間による",
+        "気分による"
+      ],
+      "correctAnswer": "交通状況による",
+      "explanation": "「depending on traffic」は、交通状況次第で、交通量によってという意味です。移動時間や到着予定などを伝える際に使われます。例：I'll be there in an hour, depending on traffic. (交通状況次第で、1時間後には着きます。)"
+    },
+    {
+      "id": 26,
+      "value": "non-violent offender",
+      "options": [
+        "暴力的な犯罪者",
+        "非暴力的な犯罪者",
+        "常習的な犯罪者",
+        "未成年犯罪者"
+      ],
+      "correctAnswer": "非暴力的な犯罪者",
+      "explanation": "「non-violent offender」とは、暴力的な犯罪を犯していない犯罪者を指します。窃盗、詐欺、薬物所持などの犯罪が該当します。このフレーズは、犯罪の種類を区別する際や、刑罰、社会復帰プログラムなどを議論する際に用いられます。"
+    },
+    {
+      "id": 27,
+      "value": "let something slide",
+      "options": [
+        "秘密にする",
+        "見逃す",
+        "明らかにする",
+        "非難する"
+      ],
+      "correctAnswer": "見逃す",
+      "explanation": "「let something slide」とは、何か問題や過ちがあっても、それを見過ごしたり、許したりすることを意味します。深刻な問題ではない場合や、状況を穏便に済ませたい場合に使われます。類似の表現として、'give someone a pass'があります。\n例：I decided to let his mistake slide this time. (今回は彼のミスを見逃すことにした。)"
+    },
+    {
+      "id": 28,
+      "value": "go off the grid",
+      "options": [
+        "自給自足の生活をする",
+        "社会から孤立する",
+        "都会に出る",
+        "海外旅行に行く"
+      ],
+      "correctAnswer": "社会から孤立する",
+      "explanation": "「go off the grid」とは、電気、水道、ガスなどの公共サービスから完全に独立した生活を送ることを意味します。また、比喩的に、社会や組織から離れて、誰にも連絡を取らず、自分の居場所を隠して生活することを指す場合もあります。デジタルデバイスを一切使わない生活なども含まれます。"
+    },
+    {
+      "id": 29,
+      "value": "step through the door",
+      "options": [
+        "ドアを修理する",
+        "ドアを通り抜ける",
+        "ドアをノックする",
+        "ドアに鍵をかける"
+      ],
+      "correctAnswer": "ドアを通り抜ける",
+      "explanation": "「step through the door」は文字通りには「ドアを通り抜ける」という意味ですが、ここでは「帰宅する」または「到着する」という状況を指しています。特定の場所、特に家やアパートなどの入り口を通過する行為を強調しています。\n例：The moment I stepped through the door, I could smell dinner cooking. (ドアをくぐった瞬間、夕食の匂いがした。)"
+    },
+    {
+      "id": 30,
+      "value": "take it back",
+      "options": [
+        "それを取り戻す",
+        "それを償う",
+        "それを撤回する",
+        "それを繰り返す"
+      ],
+      "correctAnswer": "それを撤回する",
+      "explanation": "「take it back」とは、以前に言ったことや述べたことを撤回することを意味します。発言が不適切であったり、誤解を招く可能性があったりする場合に使われます。\n例：I take it back, you are right. (撤回します、あなたが正しいです。)"
+    },
+    {
+      "id": 31,
+      "value": "on hold",
+      "options": [
+        "保留中",
+        "開催中",
+        "公開中",
+        "販売中"
+      ],
+      "correctAnswer": "保留中",
+      "explanation": "「on hold」とは、電話で相手を待たせている状態を指します。ビジネスシーンでよく使われ、相手に少し待ってもらいたいときに使います。\n例：I'm sorry to keep you on hold. (お待たせして申し訳ありません。)"
+    },
+    {
+      "id": 32,
+      "value": "awkward",
+      "options": [
+        "快適な",
+        "ぎこちない",
+        "楽しい",
+        "簡単な"
+      ],
+      "correctAnswer": "ぎこちない",
+      "explanation": "「awkward」とは、気まずい、ぎこちない、やりにくいといった意味を持つ形容詞です。状況、人、行動などが、不快感や落ち着きのなさを引き起こすときに使われます。\n例：There was an awkward silence. (気まずい沈黙があった。)"
+    },
+    {
+      "id": 33,
+      "value": "defile",
+      "options": [
+        "清潔にする",
+        "汚す",
+        "修理する",
+        "尊重する"
+      ],
+      "correctAnswer": "汚す",
+      "explanation": "「defile」とは、神聖なものや尊敬されるべきものを汚す、冒涜するという意味を持つ動詞です。比喩的に、名誉や純潔を汚すという意味でも使われます。\n例：They defiled the temple. (彼らは神殿を汚した。)"
+    },
+    {
+      "id": 34,
+      "value": "a joy to behold",
+      "options": [
+        "見るに堪えない",
+        "見ていて楽しい",
+        "無視できない",
+        "理解できない"
+      ],
+      "correctAnswer": "見ていて楽しい",
+      "explanation": "「a joy to behold」とは、見ていて非常に楽しい、素晴らしい、感動的であるという意味を持つ表現です。美しい景色や素晴らしいパフォーマンスなど、視覚的に魅力的なものに対して使われます。\n例：The sunset was a joy to behold. (その夕日は見ていて本当に素晴らしかった。)"
+    },
+    {
+      "id": 35,
+      "value": "get settled in",
+      "options": [
+        "出発する",
+        "落ち着く",
+        "迷子になる",
+        "急ぐ"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「get settled in」とは、新しい場所や環境に慣れて落ち着くことを意味します。引っ越しや旅行などで、荷物を整理したり、生活に必要なものを揃えたりする状況で使われます。\n例：Let's get settled in before we go out. (出かける前に、まず落ち着こう。)"
+    },
+    {
+      "id": 36,
+      "value": "vendor",
+      "options": [
+        "購入者",
+        "販売者",
+        "管理者",
+        "旅行者"
+      ],
+      "correctAnswer": "販売者",
+      "explanation": "「vendor」とは、商品やサービスを販売する人のことを指します。露店商、小売業者、卸売業者など、様々な種類の販売者が含まれます。\n例：We buy our supplies from a local vendor. (私たちは地元の業者から物資を購入しています。)"
+    },
+    {
+      "id": 37,
+      "value": "white trash",
+      "options": [
+        "清潔な人",
+        "貧しい白人",
+        "成功者",
+        "都会の人"
+      ],
+      "correctAnswer": "貧しい白人",
+      "explanation": "「white trash」とは、貧しい白人を蔑んで呼ぶ言葉です。しばしば無教養で粗野な生活を送っていると見なされる人々を指し、侮蔑的な意味合いが強い表現です。使用には注意が必要です。"
+    },
+    {
+      "id": 38,
+      "value": "sucker",
+      "options": [
+        "賢い人",
+        "騙されやすい人",
+        "勇敢な人",
+        "正直な人"
+      ],
+      "correctAnswer": "騙されやすい人",
+      "explanation": "「sucker」とは、騙されやすい人、カモという意味を持つ言葉です。人を軽蔑するニュアンスが含まれます。\n例：He's a sucker for a sob story. (彼は同情話に弱い。)"
+    },
+    {
+      "id": 39,
+      "value": "sob story",
+      "options": [
+        "成功談",
+        "悲しい話",
+        "冒険談",
+        "作り話"
+      ],
+      "correctAnswer": "悲しい話",
+      "explanation": "「sob story」とは、同情を引くための悲しい話、身の上話のことです。しばしば誇張されていたり、作り話である場合があります。\n例：He gave me a sob story about losing his job. (彼は失業したという悲しい身の上話を私にした。)"
+    },
+    {
+      "id": 51,
+      "value": "antagonize",
+      "options": [
+        "支持する",
+        "中和する",
+        "敵対する",
+        "無視する"
+      ],
+      "correctAnswer": "敵対する",
+      "explanation": "「antagonize」は、誰かを怒らせたり、不快にさせたり、敵意を抱かせるような行動をすることを意味します。意図的に誰かを刺激したり、挑発したりするニュアンスが含まれます。\n\n例：He didn't want to antagonize his boss.（彼は上司を怒らせたくなかった。）"
+    },
+    {
+      "id": 52,
+      "value": "mediocre",
+      "options": [
+        "並以下の",
+        "非常に優秀な",
+        "平均的な",
+        "革新的な"
+      ],
+      "correctAnswer": "並以下の",
+      "explanation": "「mediocre」は、平均以下、平凡、可もなく不可もなく、という意味を表します。特に能力、質、成果などが期待された水準に達していない場合に使われます。\n\n例：The movie was mediocre, nothing special.（その映画は平凡で、特に見るべきところはなかった。）"
+    },
+    {
+      "id": 53,
+      "value": "prowess",
+      "options": [
+        "不器用さ",
+        "優柔不断",
+        "腕前",
+        "無知"
+      ],
+      "correctAnswer": "腕前",
+      "explanation": "「prowess」は、特定の分野における優れた能力や技術、腕前を意味します。体力的な強さや勇気を指すこともあります。\n\n例：He is known for his prowess in negotiation. (彼は交渉における腕前で知られている。)"
+    },
+    {
+      "id": 54,
+      "value": "sub-par",
+      "options": [
+        "平均以上の",
+        "異常な",
+        "標準以下の",
+        "完璧な"
+      ],
+      "correctAnswer": "標準以下の",
+      "explanation": "「sub-par」は、標準以下、期待外れという意味です。期待される基準やレベルに達していない状態を表します。\n\n例：The service at the restaurant was sub-par.（そのレストランのサービスは標準以下だった。）"
+    },
+    {
+      "id": 55,
+      "value": "solid dig",
+      "options": [
+        "深い穴",
+        "痛烈な一言",
+        "堅実な仕事",
+        "広大な土地"
+      ],
+      "correctAnswer": "痛烈な一言",
+      "explanation": "「dig」は、ここでは比喩的に使われており、皮肉や嫌味、当てこすりの言葉を意味します。「solid dig」は、特に手厳しく、効果的な嫌味や当てこすりを指します。\n\n例：He made a solid dig at his opponent's policies. (彼は相手の政策に対して痛烈な一言を放った。)"
+    },
+    {
+      "id": 56,
+      "value": "bickering",
+      "options": [
+        "友情",
+        "協力",
+        "口論",
+        "沈黙"
+      ],
+      "correctAnswer": "口論",
+      "explanation": "「bickering」は、つまらないことや些細なことで言い争う、口論するという意味です。子供同士や親しい間柄の人々の間でよく見られる状況を指します。\n\n例：They were bickering over what to watch on TV.（彼らはテレビで何を見るかで言い争っていた。）"
+    },
+    {
+      "id": 57,
+      "value": "pharmaceuticals",
+      "options": [
+        "農業",
+        "電気通信",
+        "医薬品",
+        "建設"
+      ],
+      "correctAnswer": "医薬品",
+      "explanation": "「pharmaceuticals」は、医薬品、製薬、薬品業界を指す言葉です。病気の治療や予防に使われる薬に関連する事業や製品を意味します。\n\n例：She works in the pharmaceuticals industry. (彼女は医薬品業界で働いている。)"
+    },
+    {
+      "id": 58,
+      "value": "territory",
+      "options": [
+        "専門分野",
+        "縄張り",
+        "旅行",
+        "法律"
+      ],
+      "correctAnswer": "縄張り",
+      "explanation": "ここでは、営業担当者が担当する特定の地域や顧客層を指します。販売やサービスの提供を行う範囲を意味します。\n\n例：He is responsible for the western territory. (彼は西部の地域を担当している。)"
+    },
+    {
+      "id": 59,
+      "value": "I'll drink to that",
+      "options": [
+        "反対する",
+        "賛成する",
+        "無視する",
+        "後悔する"
+      ],
+      "correctAnswer": "賛成する",
+      "explanation": "「I'll drink to that」は、提案や意見に賛成するときに使う表現です。文字通りには「それに乾杯する」という意味で、強く同意や賛同を示す際に用いられます。\n\n例：'Let's go out for dinner tonight.' 'I'll drink to that!' （「今夜、夕食に出かけよう」「賛成！」）"
+    },
+    {
+      "id": 60,
+      "value": "white trash",
+      "options": [
+        "上品な人",
+        "教養のある人",
+        "貧しい白人",
+        "成功した人"
+      ],
+      "correctAnswer": "貧しい白人",
+      "explanation": "「white trash」は、貧困層の白人を指す軽蔑的な表現です。社会的な地位が低く、教育や文化水準が低いと見なされる人々を指す侮辱的な言葉です。\n\n例：The term 'white trash' is considered offensive. （「white trash」という言葉は侮辱的であると考えられている。）"
+    },
+    {
+      "id": 61,
+      "value": "walk down the aisle",
+      "options": [
+        "卒業する",
+        "結婚する",
+        "退職する",
+        "逃げる"
+      ],
+      "correctAnswer": "結婚する",
+      "explanation": "「walk down the aisle」は、結婚式の際に花嫁または新郎が通路を歩くことを指し、結婚するという意味の婉曲表現として使われます。\n\n例：They are planning to walk down the aisle next spring.（彼らは来年の春に結婚する予定だ。）"
+    },
+    {
+      "id": 62,
+      "value": "hitting it off",
+      "options": [
+        "喧嘩する",
+        "仲良くなる",
+        "失敗する",
+        "忘れる"
+      ],
+      "correctAnswer": "仲良くなる",
+      "explanation": "「hit it off」は、初めて会った人や知り合ったばかりの人とすぐに意気投合し、良好な関係を築くことを意味します。相性が良く、すぐに打ち解ける様子を表します。\n\n例：We hit it off immediately and became good friends. (私たちはすぐに意気投合し、良い友達になった。)"
+    },
+    {
+      "id": 63,
+      "value": "remarkably",
+      "options": [
+        "普通に",
+        "ゆっくりと",
+        "著しく",
+        "完全に"
+      ],
+      "correctAnswer": "著しく",
+      "explanation": "「remarkably」は、注目に値するほど、著しく、非常に、という意味を表します。予想以上に優れている、または異なっている状態を強調する際に使用されます。\n\n例：She is remarkably talented for her age.（彼女は年齢の割に著しく才能がある。）"
+    },
+    {
+      "id": 64,
+      "value": "take a cold shower",
+      "options": [
+        "落ち着く",
+        "熱狂する",
+        "風邪をひく",
+        "リラックスする"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「take a cold shower」は、文字通りには冷たいシャワーを浴びるという意味ですが、比喩的には興奮や情熱を冷ます、落ち着かせるという意味で使われます。特に性的な欲求や興奮を抑制する際に用いられることが多いです。\n\n例：He told himself to take a cold shower and calm down. (彼は自分に言い聞かせて、落ち着くように努めた。)"
+    },
+    {
+      "id": 65,
+      "value": "bother",
+      "options": [
+        "楽しむ",
+        "我慢する",
+        "悩む",
+        "改善する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「bother」は、ここでは「～する価値があるか」という意味合いで使われています。つまり、「なぜあなたと話す価値があるのか」というニュアンスになります。わずらわしいと思う、気にする、という意味合いもあります。\n\n例：Why bother arguing with him? He never listens.（彼と議論する意味があるのか？彼は決して聞かない。）"
+    },
+    {
+      "id": 66,
+      "value": "show off",
+      "options": [
+        "隠す",
+        "謙遜する",
+        "自慢する",
+        "忘れる"
+      ],
+      "correctAnswer": "自慢する",
+      "explanation": "「show off」は、自分の能力や持ち物を誇示する、見せびらかすという意味です。他人に対して優位に立ちたい、注目を浴びたいという気持ちから行われる行為を指します。\n\n例：He likes to show off his new car.（彼は自分の新しい車を自慢したがる。）"
+    },
+    {
+      "id": 67,
+      "value": "Hebraic",
+      "options": [
+        "キリスト教の",
+        "仏教の",
+        "ユダヤの",
+        "イスラムの"
+      ],
+      "correctAnswer": "ユダヤの",
+      "explanation": "「Hebraic」は、ヘブライ語またはヘブライ文化に関連することを意味します。ユダヤ人の文化、宗教、言語などを指す形容詞として用いられます。\n\n例：Hebraic studies include the study of the Hebrew language and Jewish history. (ヘブライ学には、ヘブライ語の研究とユダヤ史が含まれる。)"
+    },
+    {
+      "id": 68,
+      "value": "homeboy",
+      "options": [
+        "よそ者",
+        "ライバル",
+        "地元の仲間",
+        "外国人"
+      ],
+      "correctAnswer": "地元の仲間",
+      "explanation": "「homeboy」は、同じ地域や出身地の人、特に親しい友人や仲間を指すスラングです。親愛の情を込めて使われることが多いです。\n\n例：He's my homeboy from way back. (彼は昔からの地元の仲間だ。)"
+    },
+    {
+      "id": 69,
+      "value": "in between jobs",
+      "options": [
+        "引退",
+        "昇進",
+        "失業中",
+        "多忙"
+      ],
+      "correctAnswer": "失業中",
+      "explanation": "「in between jobs」は、仕事と仕事の合間、つまり失業中であることを婉曲的に表現する際に使われるフレーズです。職探しをしている状態を指します。\n\n例：He's currently in between jobs, but he's actively looking for a new position. (彼は現在失業中だが、積極的に新しい職を探している。)"
+    },
+    {
+      "id": 70,
+      "value": "court appearances",
+      "options": [
+        "法廷",
+        "裁判所への出廷",
+        "宮殿",
+        "スポーツジム"
+      ],
+      "correctAnswer": "裁判所への出廷",
+      "explanation": "「court appearances」は、裁判所に出廷すること、裁判に出ることを意味します。法的な手続きの一環として、裁判所に出向く状況を指します。\n\n例：He has several court appearances scheduled for next month. (彼は来月、いくつかの裁判所への出廷が予定されている。)"
+    },
+    {
+      "id": 71,
+      "value": "fine young man",
+      "options": [
+        "立派な青年",
+        "哀れな男",
+        "ずる賢い男",
+        "悪党"
+      ],
+      "correctAnswer": "立派な青年",
+      "explanation": "皮肉を込めて使われています。「立派な青年」という意味ですが、実際には皮肉を込めて、相手を揶揄したり、批判したりする際に用いられます。ここでは、Randallの過去の行いを考えると、皮肉として解釈できます。\n\n例：After causing so much trouble, he's hardly a 'fine young man'. (あれほどトラブルを起こした後では、彼はとても「立派な青年」とは言えない。)"
+    },
+    {
+      "id": 72,
+      "value": "Prepare to be disappointed",
+      "options": [
+        "期待して",
+        "感動して",
+        "失望する覚悟をして",
+        "喜んで"
+      ],
+      "correctAnswer": "失望する覚悟をして",
+      "explanation": "文字通りには「失望する覚悟をしておいてください」という意味ですが、ここでは皮肉やユーモアを込めて、相手に対する期待値を下げるために使われています。何かに対する期待が裏切られる可能性を示唆する際に用いられます。\n\n例：If you're expecting a five-star experience, prepare to be disappointed. (もし五つ星の体験を期待しているなら、失望する覚悟をしておいてください。)"
+    },
+    {
+      "id": 73,
+      "value": "Can I get anyone a drink?",
+      "options": [
+        "飲みに行こうか？",
+        "誰か飲み物はいかがですか？",
+        "運転してくれませんか？",
+        "手伝ってくれませんか？"
+      ],
+      "correctAnswer": "誰か飲み物はいかがですか？",
+      "explanation": "「Can I get anyone a drink?」は、誰かに飲み物を勧める、提供する意思を示す際に使われる一般的な表現です。親切心やもてなしの気持ちを表します。\n\n例：As the host, he asked, 'Can I get anyone a drink?' （ホストとして、彼は「誰か飲み物はいかがですか？」と尋ねた。）"
+    },
+    {
+      "id": 74,
+      "value": "done",
+      "options": [
+        "終わった",
+        "始めた",
+        "許可された",
+        "準備された"
+      ],
+      "correctAnswer": "終わった",
+      "explanation": "「You're done. He's done.」は、ここでは「もう十分だ」「もう終わりだ」という意味合いで使われています。誰かの行動や発言に対して、もうやめるように強く促す際に用いられます。アルコールを飲みすぎているWyattに対してSusanが言っていることから、「もう十分」と解釈できます。\n\n例：'That's enough. You're done!' (「もう十分だ。もう終わり！」)"
+    },
+    {
+      "id": 75,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "諦める",
+        "待つ",
+        "参加する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、ここでは「ちょっと待って」という意味合いで使われています。相手に少し待つように頼んだり、考えを整理するために時間稼ぎをする際に用いられます。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐに戻るよ。)"
+    },
+    {
+      "id": 76,
+      "value": "get to know each other",
+      "options": [
+        "互いに知り合いになる",
+        "互いに別れを告げる",
+        "互いに競争する",
+        "互いに秘密を共有する"
+      ],
+      "correctAnswer": "互いに知り合いになる",
+      "explanation": "「get to know each other」は、初対面の人たちが親しくなるために、互いのことを少しずつ理解していく過程を指します。共通の趣味や価値観を見つけたり、個人的な話を共有したりすることで、関係を深めることを意味します。このイディオムは、新しい友人を作る際や、チームビルディングの活動など、様々な場面で使用されます。"
+    },
+    {
+      "id": 77,
+      "value": "available",
+      "options": [
+        "利用可能",
+        "不可能",
+        "退屈",
+        "高価"
+      ],
+      "correctAnswer": "利用可能",
+      "explanation": "「available」は、何かが利用できる状態、または人が時間的に余裕がある状態を表します。物理的な物が手に入る、サービスが提供されている、人が対応可能であるなど、幅広い状況で使用されます。また、「available」は、機会や可能性が存在することも意味します。"
+    },
+    {
+      "id": 78,
+      "value": "skyrocketing",
+      "options": [
+        "急上昇する",
+        "安定する",
+        "ゆっくり下降する",
+        "停滞する"
+      ],
+      "correctAnswer": "急上昇する",
+      "explanation": "「skyrocketing」は、価格、数、人気などが急激に上昇することを指します。ロケットが空に打ち上げられる様子から来ており、急騰するイメージを表します。特に、予想外の速さで上昇する場合に使われることが多いです。ビジネスや経済のニュースでよく見られる表現です。"
+    },
+    {
+      "id": 79,
+      "value": "put up with",
+      "options": [
+        "我慢する",
+        "楽しむ",
+        "無視する",
+        "改善する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「put up with」は、不快なことや嫌な状況、または人の行動などを我慢する、耐えるという意味です。必ずしも完全に受け入れているわけではなく、不満を抱えながらも許容しているニュアンスが含まれます。日常会話で非常によく使われる表現です。"
+    },
+    {
+      "id": 80,
+      "value": "tense",
+      "options": [
+        "緊張した",
+        "リラックスした",
+        "興奮した",
+        "退屈な"
+      ],
+      "correctAnswer": "緊張した",
+      "explanation": "「tense」は、精神的または肉体的に緊張している状態を表します。不安、ストレス、興奮などが原因で筋肉がこわばったり、気持ちが張り詰めている状態を指します。人間関係や社会的な状況でよく使われる言葉です。"
+    },
+    {
+      "id": 81,
+      "value": "elope",
+      "options": [
+        "駆け落ちする",
+        "結婚式を挙げる",
+        "離婚する",
+        "再婚する"
+      ],
+      "correctAnswer": "駆け落ちする",
+      "explanation": "「elope」は、親や周囲の反対を押し切って、内緒で結婚することを意味します。多くの場合、若いカップルが使う言葉で、ロマンチックなニュアンスを含むこともあります。しかし、法的または社会的な制約がある場合にも使われることがあります。"
+    },
+    {
+      "id": 82,
+      "value": "grateful",
+      "options": [
+        "感謝している",
+        "不満に思っている",
+        "無関心な",
+        "失望している"
+      ],
+      "correctAnswer": "感謝している",
+      "explanation": "「grateful」は、受けた親切や恩恵に対して感謝の気持ちを持っている状態を表します。単に「thankful」と言うよりも、より深い感謝の念や、相手の行為に対する認識が含まれます。フォーマルな場面や、改まった感謝の気持ちを伝えたい時に適しています。"
+    },
+    {
+      "id": 83,
+      "value": "snarky",
+      "options": [
+        "皮肉な",
+        "正直な",
+        "優しい",
+        "真面目な"
+      ],
+      "correctAnswer": "皮肉な",
+      "explanation": "「snarky」は、辛辣で皮肉っぽい、または意地悪なコメントや態度を指します。ユーモアを交えながらも、相手を少し傷つけるようなニュアンスが含まれます。友達同士の軽いやり取りから、フォーマルな議論まで、様々な場面で使用されますが、相手との関係性を考慮する必要があります。"
+    },
+    {
+      "id": 84,
+      "value": "bring out the best in each other",
+      "options": [
+        "お互いの最高の面を引き出す",
+        "お互いの最悪の面を引き出す",
+        "お互いを無視する",
+        "お互いを批判する"
+      ],
+      "correctAnswer": "お互いの最高の面を引き出す",
+      "explanation": "「bring out the best in each other」は、二人の関係がお互いの長所や才能を引き出し、より良い人間へと成長させることを意味します。協力し合い、互いを励まし、刺激し合うことで、個々の能力を最大限に発揮できるような関係性を指します。ビジネスパートナーシップ、友情、恋愛関係など、様々な関係性で使用されます。"
+    },
+    {
+      "id": 85,
+      "value": "fornicating",
+      "options": [
+        "性行為をする",
+        "議論する",
+        "食事をする",
+        "運動する"
+      ],
+      "correctAnswer": "性行為をする",
+      "explanation": "「fornicate」は、結婚していない者同士が性行為をすることを意味するやや古風でフォーマルな言葉です。道徳的、宗教的な文脈で使われることが多く、現代ではより直接的な言葉や婉曲表現が用いられることが一般的です。"
+    },
+    {
+      "id": 86,
+      "value": "wrinkly",
+      "options": [
+        "しわくちゃの",
+        "滑らかな",
+        "光沢のある",
+        "硬い"
+      ],
+      "correctAnswer": "しわくちゃの",
+      "explanation": "「wrinkly」は、皮膚や布などがしわくちゃになっている状態を指します。年齢を重ねた人の顔や、長く使われた物の表面に見られることが多いです。ネガティブな意味合いで使われることもありますが、親しみや愛情を込めて使われることもあります。"
+    },
+    {
+      "id": 87,
+      "value": "thrilled",
+      "options": [
+        "非常に喜んでいる",
+        "悲しんでいる",
+        "怒っている",
+        "退屈している"
+      ],
+      "correctAnswer": "非常に喜んでいる",
+      "explanation": "「thrilled」は、非常に興奮し、喜びを感じている状態を表します。予想外の良い出来事が起こったり、待ち望んでいたことが実現したりした時に使われることが多いです。強い感情を表現する言葉で、日常会話やフォーマルな場面でも使用できます。"
+    },
+    {
+      "id": 88,
+      "value": "upset",
+      "options": [
+        "動揺させる",
+        "落ち着かせる",
+        "満足させる",
+        "励ます"
+      ],
+      "correctAnswer": "動揺させる",
+      "explanation": "「upset」は、精神的に動揺している、または不快に感じている状態を表します。悲しみ、怒り、不安など、様々なネガティブな感情が含まれます。また、物理的に何かがひっくり返ったり、乱れたりすることも意味します。"
+    },
+    {
+      "id": 89,
+      "value": "Water under the bridge",
+      "options": [
+        "過去のこと",
+        "未来のこと",
+        "現在の状況",
+        "秘密"
+      ],
+      "correctAnswer": "過去のこと",
+      "explanation": "「Water under the bridge」は、過去に起こったことで、もはや重要ではなく、気にする必要のないことを意味するイディオムです。水が橋の下を流れ去るように、時間が解決し、忘れ去られるべき出来事を指します。特に、過去の誤解や不和を乗り越え、前向きな関係を築きたい時に使われます。"
+    },
+    {
+      "id": 90,
+      "value": "solid line",
+      "options": [
+        "実線",
+        "点線",
+        "架空線",
+        "二重線"
+      ],
+      "correctAnswer": "実線",
+      "explanation": "「solid line」は、途切れずに引かれた線のことで、物理的な線だけでなく、比喩的に越えてはならない境界線や制限を意味することもあります。ここでは、道路の車線変更が禁止されている実線を指し、規則やルールを遵守すべき状況を表しています。"
+    },
+    {
+      "id": 91,
+      "value": "plod along",
+      "options": [
+        "のろのろ進む",
+        "全速力で進む",
+        "停止する",
+        "逆走する"
+      ],
+      "correctAnswer": "のろのろ進む",
+      "explanation": "「plod along」は、困難な状況の中で、ゆっくりと、しかし着実に進むことを意味します。特に、退屈な作業や進展が遅いプロジェクトなど、忍耐が必要な状況で使用されます。諦めずに努力を続ける姿勢を表す言葉です。"
+    },
+    {
+      "id": 92,
+      "value": "sour face",
+      "options": [
+        "不機嫌な顔",
+        "笑顔",
+        "真顔",
+        "泣き顔"
+      ],
+      "correctAnswer": "不機嫌な顔",
+      "explanation": "「sour face」は、不機嫌で不満そうな顔つきを指します。嫌なことや不快な状況に対する感情が表情に表れている状態を表し、周囲に不快感を与えることもあります。人間関係において、相手の感情を読み取る上で重要な要素となります。"
+    },
+    {
+      "id": 93,
+      "value": "geriatric",
+      "options": [
+        "高齢者の",
+        "小児の",
+        "若者の",
+        "中年の"
+      ],
+      "correctAnswer": "高齢者の",
+      "explanation": "「geriatric」は、高齢者、特に医療や介護を必要とする高齢者に関連することを意味します。医学用語として使われることが多く、高齢者の健康問題や介護に関する話題で用いられます。近年、高齢化社会が進む中で、ますます重要な概念となっています。"
+    },
+    {
+      "id": 94,
+      "value": "boy toy",
+      "options": [
+        "若い恋人",
+        "古いおもちゃ",
+        "男の子のおもちゃ",
+        "ペット"
+      ],
+      "correctAnswer": "若い恋人",
+      "explanation": "「boy toy」は、年上の女性の恋人である若い男性を指す、やや軽蔑的な表現です。しばしば、その関係が性的魅力や経済的な理由に基づいているというニュアンスを含みます。社会的なタブーやジェンダーの固定観念を反映した言葉です。"
+    },
+    {
+      "id": 95,
+      "value": "disrespectful",
+      "options": [
+        "無礼な",
+        "礼儀正しい",
+        "尊敬する",
+        "従順な"
+      ],
+      "correctAnswer": "無礼な",
+      "explanation": "「disrespectful」は、相手に対する敬意を欠いた言動や態度を指します。社会的なルールやマナーを守らない、相手の感情を考慮しないなど、様々な形で現れます。人間関係を損なう原因となるため、注意が必要です。"
+    },
+    {
+      "id": 96,
+      "value": "zing",
+      "options": [
+        "活気",
+        "静けさ",
+        "混乱",
+        "退屈"
+      ],
+      "correctAnswer": "活気",
+      "explanation": "「zing」は、活気、刺激、または特別な魅力を意味します。何かを面白くしたり、エキサイティングにしたりする要素を指し、人の個性を表現する際や、イベントなどを盛り上げるために使われます。ポジティブな感情やエネルギーを伝える言葉です。"
+    },
+    {
+      "id": 97,
+      "value": "peculiar",
+      "options": [
+        "奇妙な",
+        "普通の",
+        "魅力的な",
+        "退屈な"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "「peculiar」は、普通とは異なり、少し奇妙または独特であることを意味します。必ずしもネガティブな意味合いではなく、個性的な特徴や面白い癖を指すこともあります。人、物、場所など、様々な対象に使用できます。"
+    },
+    {
+      "id": 98,
+      "value": "reminds me of",
+      "options": [
+        "〜を思い出させる",
+        "〜を忘れる",
+        "〜を嫌う",
+        "〜を無視する"
+      ],
+      "correctAnswer": "〜を思い出させる",
+      "explanation": "「remind me of」は、ある人や物事が、別の何かを連想させる、思い出させるという意味です。過去の経験や記憶と関連付けられることが多く、感情や評価を伴うこともあります。人間関係や芸術作品の鑑賞など、様々な場面で使用されます。"
+    },
+    {
+      "id": 99,
+      "value": "be cool",
+      "options": [
+        "落ち着け",
+        "興奮しろ",
+        "怒れ",
+        "泣け"
+      ],
+      "correctAnswer": "落ち着け",
+      "explanation": "「be cool」は、落ち着いて、冷静に行動することを促す表現です。特に、緊張した状況や興奮している相手に対して、落ち着きを取り戻すように促す際に使われます。友人同士のカジュアルな会話でよく用いられます。"
+    },
+    {
+      "id": 100,
+      "value": "lend",
+      "options": [
+        "貸す",
+        "借りる",
+        "盗む",
+        "返す"
+      ],
+      "correctAnswer": "貸す",
+      "explanation": "「lend」はお金を貸す、物を貸すという意味の単語です。ここでは、新しく家族になる人に貸すな、と釘を刺すような意味合いで使われています。"
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "gagh",
+      "options": [
+        "美味しい",
+        "素晴らしい",
+        "まずい",
+        "ひどい"
+      ],
+      "correctAnswer": "まずい",
+      "explanation": "Gaghは、スタートレックに登場するクリンゴン人が食べる料理の名前で、一般的には「まずい」というニュアンスで使用されます。ここでは、ハワードがまずいコブラーを食べて「Gagh!」と叫んでいます。"
+    },
+    {
+      "id": 2,
+      "value": "cobbler",
+      "options": [
+        "靴職人",
+        "料理人",
+        "庭師",
+        "パン職人"
+      ],
+      "correctAnswer": "靴職人",
+      "explanation": "コブラーは、ここでは2つの意味があります。1つは「靴職人」、もう1つは「コブラー」（果物を使った焼き菓子）です。このジョークは、その言葉遊びに基づいています。"
+    },
+    {
+      "id": 3,
+      "value": "a play on",
+      "options": [
+        "真剣な議論",
+        "簡単な説明",
+        "言葉遊び",
+        "詳細な分析"
+      ],
+      "correctAnswer": "言葉遊び",
+      "explanation": "「a play on」は、言葉やアイデアを面白く、または創造的に使うことを意味します。ここでは、cobblerという単語の二重の意味を利用した言葉遊びを指しています。"
+    },
+    {
+      "id": 4,
+      "value": "LAX",
+      "options": [
+        "ニューヨーク",
+        "シカゴ",
+        "ロサンゼルス",
+        "サンフランシスコ"
+      ],
+      "correctAnswer": "ロサンゼルス",
+      "explanation": "LAXは、ロサンゼルス国際空港（Los Angeles International Airport）の空港コードです。"
+    },
+    {
+      "id": 5,
+      "value": "layover",
+      "options": [
+        "出発",
+        "到着",
+        "乗り換え",
+        "旅行"
+      ],
+      "correctAnswer": "乗り換え",
+      "explanation": "layoverとは、乗り継ぎのために一時的に滞在することを意味します。ここでは、プリヤがトロントへ向かう途中でLAに一時滞在していることを指します。"
+    },
+    {
+      "id": 6,
+      "value": "plausible",
+      "options": [
+        "不可能",
+        "非現実的",
+        "信じがたい",
+        "もっともらしい"
+      ],
+      "correctAnswer": "もっともらしい",
+      "explanation": "plausibleは、一見すると真実らしく、信じられる可能性があるという意味です。ここでは、プリヤのキャリアパスが以前の彼女の計画と一致しているため、十分にもっともらしいと述べています。"
+    },
+    {
+      "id": 7,
+      "value": "catch up with",
+      "options": [
+        "競争する",
+        "捕まえる",
+        "連絡を取る",
+        "手伝う"
+      ],
+      "correctAnswer": "連絡を取る",
+      "explanation": "「catch up with」は、しばらく会っていない人と再会して近況を話し合うという意味です。ここでは、プリヤが久しぶりにみんなと会って近況を知りたいと言っています。"
+    },
+    {
+      "id": 8,
+      "value": "goes without saying",
+      "options": [
+        "当然のこと",
+        "秘密",
+        "問題外",
+        "誤解"
+      ],
+      "correctAnswer": "当然のこと",
+      "explanation": "「goes without saying」は、言うまでもない、当然のことという意味です。ここでは、ラージが妹に手を出さないようにレナードとハワードに念を押す際に使っています。"
+    },
+    {
+      "id": 9,
+      "value": "hands off",
+      "options": [
+        "拍手",
+        "手伝う",
+        "干渉しない",
+        "手放す"
+      ],
+      "correctAnswer": "干渉しない",
+      "explanation": "「hands off」は、文字通りには「手を離す」という意味ですが、ここでは「干渉しない」「手を出さない」という意味で使われています。ラージがレナードとハワードに、妹に手を出さないように警告しています。"
+    },
+    {
+      "id": 10,
+      "value": "hit on",
+      "options": [
+        "殴る",
+        "偶然見つける",
+        "口論する",
+        "ナンパする"
+      ],
+      "correctAnswer": "ナンパする",
+      "explanation": "「hit on」は、人に興味を持ち、恋愛関係を築こうと試みる、つまりナンパするという意味です。ここでは、レナードとハワードがプリヤをナンパしないという約束をしたことを指しています。"
+    },
+    {
+      "id": 11,
+      "value": "pact",
+      "options": [
+        "戦い",
+        "契約",
+        "議論",
+        "贈り物"
+      ],
+      "correctAnswer": "契約",
+      "explanation": "pactとは、公式な協定や契約を意味します。ここでは、レナードとハワードがプリヤに手を出さないという紳士協定を結んだことを指します。"
+    },
+    {
+      "id": 12,
+      "value": "pinky swear",
+      "options": [
+        "秘密の誓い",
+        "嘘の誓い",
+        "子供の誓い",
+        "正式な誓い"
+      ],
+      "correctAnswer": "子供の誓い",
+      "explanation": "「pinky swear」は、指切りげんまんのことです。子供たちが約束をする際に、小指を絡ませて誓いを立てる習慣を指します。"
+    },
+    {
+      "id": 13,
+      "value": "rolling stock",
+      "options": [
+        "株",
+        "車両",
+        "道具",
+        "部品"
+      ],
+      "correctAnswer": "車両",
+      "explanation": "rolling stockは、鉄道車両、すなわち機関車や客車などを指す専門用語です。ここでは、トラベル・タウンにある鉄道博物館の展示物を説明する際に使われています。"
+    },
+    {
+      "id": 14,
+      "value": "glitz and glamour",
+      "options": [
+        "陰と陽",
+        "善と悪",
+        "興奮と退屈",
+        "華やかさと魅力"
+      ],
+      "correctAnswer": "華やかさと魅力",
+      "explanation": "「glitz and glamour」は、きらびやかで華やかな魅力、特にエンターテイメント業界や富裕層に関連するものを指します。ここでは、ハリウッドの華やかさを表現するために使われています。"
+    },
+    {
+      "id": 15,
+      "value": "Abundantly",
+      "options": [
+        "少しだけ",
+        "不足して",
+        "完全に",
+        "あいまい"
+      ],
+      "correctAnswer": "完全に",
+      "explanation": "abundantlyは「豊富に」「十分に」という意味で、ここでは「完全に」というニュアンスで使われています。シェルドンがラージに、ホットドッグスタンドが二つの異なる鉄道車両であることを十分に説明したことを強調しています。"
+    },
+    {
+      "id": 16,
+      "value": "inadvertently",
+      "options": [
+        "意図的に",
+        "慎重に",
+        "不注意に",
+        "秘密裡に"
+      ],
+      "correctAnswer": "不注意に",
+      "explanation": "inadvertentlyは「うっかり」「不注意に」という意味です。ハワードが、プリヤに対してうっかりフェロモンを放出しないように念を押している場面で使われています。"
+    },
+    {
+      "id": 17,
+      "value": "squirt",
+      "options": [
+        "隠す",
+        "放出する",
+        "浴びせる",
+        "感じる"
+      ],
+      "correctAnswer": "放出する",
+      "explanation": "squirtは「噴出させる」「放出する」という意味です。ここでは、ハワードがプリヤに対してうっかりフェロモンを放出しないように気をつけていると述べています。"
+    },
+    {
+      "id": 18,
+      "value": "pheromones",
+      "options": [
+        "毒素",
+        "ホルモン",
+        "抗生物質",
+        "麻薬"
+      ],
+      "correctAnswer": "ホルモン",
+      "explanation": "pheromonesは「フェロモン」のことで、動物が同種の他個体に対して分泌する化学物質です。ここでは、ハワードが異性を引きつけるために放出するフェロモンを冗談めかして言っています。"
+    },
+    {
+      "id": 19,
+      "value": "emulator",
+      "options": [
+        "模倣者",
+        "翻訳機",
+        "競争者",
+        "エミュレーター"
+      ],
+      "correctAnswer": "エミュレーター",
+      "explanation": "emulatorは、あるシステム（ハードウェアまたはソフトウェア）を別のシステム上で模倣するプログラムのことです。ここでは、シェルドンが1980年代の古いコンピュータゲームをプレイするために使用するソフトウェアを指します。"
+    },
+    {
+      "id": 20,
+      "value": "text based",
+      "options": [
+        "画像ベース",
+        "音声ベース",
+        "テキストベース",
+        "動画ベース"
+      ],
+      "correctAnswer": "テキストベース",
+      "explanation": "text basedは「テキストベースの」という意味で、コンピュータゲームなどが主に文字で構成されていることを指します。ここでは、シェルドンがプレイしているゲームがテキストベースのゲームであることを説明しています。"
+    },
+    {
+      "id": 21,
+      "value": "Corporate merger",
+      "options": [
+        "企業の解散",
+        "企業の買収",
+        "企業の合併",
+        "企業の倒産"
+      ],
+      "correctAnswer": "企業の合併",
+      "explanation": "corporate mergerは「企業の合併」という意味です。プリヤがトロントへ行く理由として、企業の合併の仕事があることを述べています。"
+    },
+    {
+      "id": 22,
+      "value": "hands off my sister",
+      "options": [
+        "妹を紹介する",
+        "妹と仲良くする",
+        "妹に近づかないで",
+        "妹を助けて"
+      ],
+      "correctAnswer": "妹に近づかないで",
+      "explanation": "「hands off my sister」は、妹に手を出さないで、近づかないでという意味です。ラージがレナードとハワードに、妹に手を出さないように警告する際に使っています。"
+    },
+    {
+      "id": 23,
+      "value": "bend to public opinion",
+      "options": [
+        "世論を無視する",
+        "世論に反発する",
+        "世論を操作する",
+        "世論に従う"
+      ],
+      "correctAnswer": "世論に従う",
+      "explanation": "「bend to public opinion」は、世論や一般の意見に従う、迎合するという意味です。ここでは、レナードがシェルドンに、世間の意見に合わせて変わってほしいという希望を込めて言っています。"
+    },
+    {
+      "id": 24,
+      "value": "one day in Los Angeles, make it a train day",
+      "options": [
+        "一日中買い物をする",
+        "一日中観光地を回る",
+        "一日中鉄道を楽しむ",
+        "一日中ビーチで過ごす"
+      ],
+      "correctAnswer": "一日中鉄道を楽しむ",
+      "explanation": "ロサンゼルスに一日しかいられないなら、鉄道をテーマにした一日を過ごすべきだというシェルドンの提案です。カーニーズという鉄道車両を改造したホットドッグ店を巡るプランが含まれています。"
+    },
+    {
+      "id": 25,
+      "value": "have only one day in Los Angeles",
+      "options": [
+        "何度もロサンゼルスに来ている",
+        "ロサンゼルスが嫌い",
+        "ロサンゼルスに長く滞在する",
+        "ロサンゼルスに一日しかいられない"
+      ],
+      "correctAnswer": "ロサンゼルスに一日しかいられない",
+      "explanation": "もしロサンゼルスに一日しかいられないなら、という状況設定です。シェルドンが、その短い滞在を最大限に活用する方法として鉄道旅行を提案しています。"
+    },
+    {
+      "id": 26,
+      "value": "fasten your seatbelts",
+      "options": [
+        "シートベルトを締める",
+        "旅行の準備をする",
+        "エンジンをかける",
+        "安全な場所を探す"
+      ],
+      "correctAnswer": "シートベルトを締める",
+      "explanation": "文字通りには「シートベルトを締める」という意味ですが、比喩的には「準備をしろ」「気を引き締めろ」という意味合いで使われます。これから何かが起こる、あるいは困難な状況に直面する可能性がある時に、注意を喚起するために使われます。"
+    },
+    {
+      "id": 27,
+      "value": "Good golly",
+      "options": [
+        "良いゴーリー",
+        "なんてこった",
+        "素晴らしい",
+        "幸運を祈る"
+      ],
+      "correctAnswer": "なんてこった",
+      "explanation": "「Good golly」は驚きや軽いショック、または感嘆を表す時に使われる表現です。直接的な意味はありませんが、「Oh my goodness!」と似たようなニュアンスで、やや古風な言い方です。子供や年配の人が使うことがあります。"
+    },
+    {
+      "id": 28,
+      "value": "get rid of",
+      "options": [
+        "手に入れる",
+        "取り除く",
+        "我慢する",
+        "修理する"
+      ],
+      "correctAnswer": "取り除く",
+      "explanation": "「get rid of」は、不要なものや好ましくないものを処分する、取り除くという意味です。人に対しても使われ、その人との関係を終わらせたい場合などにも用いられます。例：I need to get rid of all this junk in the garage. (ガレージのガラクタを全部処分する必要がある。)"
+    },
+    {
+      "id": 29,
+      "value": "If the past is any indication",
+      "options": [
+        "過去が重要でないなら",
+        "過去に例がないなら",
+        "過去を振り返れば",
+        "過去がどうであれ"
+      ],
+      "correctAnswer": "過去を振り返れば",
+      "explanation": "「If the past is any indication」は、「過去の状況から判断すると」「過去の事例から推測すると」という意味合いで使われるイディオムです。過去の経験や事例が、将来の出来事を予測する手がかりになることを示唆しています。 例：If the past is any indication, the project will be over budget and behind schedule.（過去の例からすると、このプロジェクトは予算超過でスケジュールも遅れるだろう。）"
+    },
+    {
+      "id": 30,
+      "value": "Hold on.",
+      "options": [
+        "捕まって",
+        "待って",
+        "諦めないで",
+        "秘密にして"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hold on.」は、文字通りには「掴まって」という意味ですが、会話では「ちょっと待って」という意味で使われる一般的な表現です。相手に少しの間待つように頼む時や、電話を切らないで欲しい時などに使われます。 例：Hold on a second, I'll check the schedule. (ちょっと待って、スケジュールを確認します。)"
+    },
+    {
+      "id": 31,
+      "value": "work in the morning",
+      "options": [
+        "朝に運動する",
+        "朝に仕事をする",
+        "朝に勉強する",
+        "朝に休憩する"
+      ],
+      "correctAnswer": "朝に仕事をする",
+      "explanation": "「work in the morning」は、文字通り「朝に仕事をする」という意味ですが、この文脈では、朝早くから仕事があるため、早く寝る必要があるということを婉曲的に伝えています。睡眠不足を避けるべきだという含みがあります。"
+    },
+    {
+      "id": 32,
+      "value": "thermodynamic fluctuations",
+      "options": [
+        "熱力学的変動",
+        "経済的変動",
+        "気象変動",
+        "政治的変動"
+      ],
+      "correctAnswer": "熱力学的変動",
+      "explanation": "「thermodynamic fluctuations」は、物理学における熱力学的な系のエネルギーや温度などの微小な変動を指します。この文脈では、シェルドンが専門とする物理学の講義を指しており、講義中に眠くなることを避けるようにという皮肉が込められています。"
+    },
+    {
+      "id": 33,
+      "value": "oddly shaped uvula",
+      "options": [
+        "珍しい形の歯",
+        "珍しい形の舌",
+        "珍しい形の声帯",
+        "珍しい形の口蓋垂"
+      ],
+      "correctAnswer": "珍しい形の口蓋垂",
+      "explanation": "「uvula」は口蓋垂（こうがいすい）のことで、のどにある小さな突起のことです。「oddly shaped」は「奇妙な形をした」という意味で、ここでは、レナードがシェルドンが人前で口を開けてあくびをすることをからかうために使われています。"
+    },
+    {
+      "id": 34,
+      "value": "a shame",
+      "options": [
+        "名誉",
+        "恥",
+        "残念",
+        "秘密"
+      ],
+      "correctAnswer": "残念",
+      "explanation": "「a shame」は、「残念なこと」「もったいないこと」という意味で使われます。何か良い機会や状況が失われたり、期待外れの結果になったりした時に、その気持ちを表すために使われます。 例：It's a shame that the event was cancelled. (イベントが中止になったのは残念だ。)"
+    },
+    {
+      "id": 35,
+      "value": "mocks",
+      "options": [
+        "尊敬する",
+        "真似る",
+        "嘲笑する",
+        "無視する"
+      ],
+      "correctAnswer": "嘲笑する",
+      "explanation": "「mock」は「嘲笑する」「馬鹿にする」という意味の動詞です。相手を軽蔑したり、からかったりするニュアンスがあります。ここでは、社会が異なる形状の口蓋垂を持つ人を嘲笑することをシェルドンが嘆いています。 例：They mocked him for his accent. (彼らは彼のアクセントをからかった。)"
+    },
+    {
+      "id": 36,
+      "value": "bifurcated uvula",
+      "options": [
+        "二股に分かれた歯",
+        "二股に分かれた舌",
+        "二股に分かれた声帯",
+        "二股に分かれた口蓋垂"
+      ],
+      "correctAnswer": "二股に分かれた口蓋垂",
+      "explanation": "「bifurcated」は「二股に分かれた」という意味で、「uvula」は口蓋垂（こうがいすい）のことです。ここでは、レナードがシェルドンが人前であくびをして、珍しい形の口蓋垂を見られることをからかうために使われています。シェルドンが気にしていることを逆手に取っています。"
+    },
+    {
+      "id": 37,
+      "value": "fresh start",
+      "options": [
+        "新しい仕事",
+        "新しい友達",
+        "新しいスタート",
+        "新しい趣味"
+      ],
+      "correctAnswer": "新しいスタート",
+      "explanation": "「fresh start」は「新たな始まり」「再出発」という意味です。過去の失敗や困難を乗り越えて、心機一転、新しい気持ちで始めることを指します。ゲームで行き詰った状況をリセットして、最初からやり直すという文脈で使われています。 例：After losing his job, he decided to make a fresh start in a new city. (仕事を失った後、彼は新しい街で再出発することを決めた。)"
+    },
+    {
+      "id": 38,
+      "value": "go to response",
+      "options": [
+        "出発の合図",
+        "得意な料理",
+        "いつもの反応",
+        "避けるべき行動"
+      ],
+      "correctAnswer": "いつもの反応",
+      "explanation": "「go-to response」は、特定の状況で人が無意識的または習慣的に示す反応や行動を指します。ここでは、レナードが女性とベッドにいる状況で、自分がどのように反応すべきかわからないため、つい謝ってしまうことを説明しています。 他の例文：Apologizing is my go-to response when I'm in an awkward situation. (気まずい状況では、謝ることが私のいつもの反応です。)"
+    },
+    {
+      "id": 39,
+      "value": "ties",
+      "options": [
+        "ネクタイ",
+        "絆",
+        "靴紐",
+        "義務"
+      ],
+      "correctAnswer": "絆",
+      "explanation": "「ties」は、人や場所とのつながり、関係、絆を意味します。ここでは、レナードがインドに移住することを示唆する際に、ロサンゼルスに留まるべき強い理由や義務がないことを示しています。家族、仕事、友情など、生活を特定の場所に結びつけるものを指すことが多いです。"
+    },
+    {
+      "id": 40,
+      "value": "have a cow",
+      "options": [
+        "牛乳を飲む",
+        "怒り出す",
+        "牛を飼う",
+        "酪農をする"
+      ],
+      "correctAnswer": "怒り出す",
+      "explanation": "「have a cow」は、非常に怒る、取り乱すという意味の口語表現です。特に些細なことで感情的に動揺する様子を表します。 例：My parents will have a cow if I don't come home by midnight. (もし私が真夜中までに帰らなかったら、両親はカンカンに怒るだろう。)"
+    },
+    {
+      "id": 41,
+      "value": "no stranger to",
+      "options": [
+        "全く知らない",
+        "友達がいない",
+        "よく知っている",
+        "興味がない"
+      ],
+      "correctAnswer": "よく知っている",
+      "explanation": "「no stranger to」は、「～をよく知っている」「～に慣れている」という意味の表現です。特定の経験や状況を何度も経験しており、それについてよく知っていることを示します。 例：I am no stranger to hard work. (私は苦労をよく知っている。)"
+    },
+    {
+      "id": 42,
+      "value": "crimson scourge",
+      "options": [
+        "真紅の宝石",
+        "深紅の悲劇",
+        "真紅の災い",
+        "深紅の勝利"
+      ],
+      "correctAnswer": "真紅の災い",
+      "explanation": "「crimson scourge」は、「真紅の災い」という意味で、ここでは皮膚炎による赤みを強調した表現です。「scourge」は災いや苦しみをもたらすものを指し、ここでは皮膚の炎症を大げさに表現しています。シェルドンらしい、やや古風で誇張された言い回しです。"
+    },
+    {
+      "id": 43,
+      "value": "dermatitis",
+      "options": [
+        "皮膚炎",
+        "関節炎",
+        "心臓病",
+        "糖尿病"
+      ],
+      "correctAnswer": "皮膚炎",
+      "explanation": "「dermatitis」は皮膚炎のことです。炎症、かゆみ、発疹などを伴う皮膚の病気を指します。シェルドンはレナードの首の赤い発疹を皮膚炎だと勘違いし、自分のローションコレクションから薬を勧めようとしています。"
+    },
+    {
+      "id": 44,
+      "value": "topical steroid",
+      "options": [
+        "局所麻酔薬",
+        "経口ステロイド",
+        "局所ステロイド",
+        "吸入ステロイド"
+      ],
+      "correctAnswer": "局所ステロイド",
+      "explanation": "「topical steroid」は、皮膚に直接塗るタイプのステロイド薬のことです。皮膚炎や湿疹などの炎症を抑えるために使用されます。シェルドンはレナードの発疹を気遣い、自分のコレクションから局所ステロイドを提供しようとしています。"
+    },
+    {
+      "id": 45,
+      "value": "unguent",
+      "options": [
+        "軟膏",
+        "香水",
+        "化粧水",
+        "日焼け止め"
+      ],
+      "correctAnswer": "軟膏",
+      "explanation": "「unguent」は軟膏という意味で、薬効成分を含む油性の塗り薬のことです。皮膚に塗布して、炎症を鎮めたり、保護したりする目的で使用されます。シェルドンは自分の豊富なローションと軟膏のコレクションを自慢げに語っています。"
+    },
+    {
+      "id": 46,
+      "value": "ditch that itch",
+      "options": [
+        "その考えを捨てる",
+        "その計画を立てる",
+        "その痛みを和らげる",
+        "そのかゆみをなくす"
+      ],
+      "correctAnswer": "そのかゆみをなくす",
+      "explanation": "「ditch that itch」は、「そのかゆみをなくす」という意味で、ここでは皮膚炎によるかゆみを和らげることを指しています。「ditch」は「捨てる」「取り除く」という意味のスラングで、ここではかゆみを解消することをユーモラスに表現しています。"
+    },
+    {
+      "id": 47,
+      "value": "ointment",
+      "options": [
+        "化粧水",
+        "軟膏",
+        "香水",
+        "クリーム"
+      ],
+      "correctAnswer": "軟膏",
+      "explanation": "「ointment」は軟膏という意味で、薬効成分を含む油性の塗り薬のことです。皮膚に塗布して、炎症を鎮めたり、保護したりする目的で使用されます。クリームと似ていますが、より油分が多く、保湿効果が高いのが特徴です。"
+    },
+    {
+      "id": 48,
+      "value": "numbing agent",
+      "options": [
+        "冷却剤",
+        "麻酔薬",
+        "鎮痛剤",
+        "消毒薬"
+      ],
+      "correctAnswer": "麻酔薬",
+      "explanation": "「numbing agent」は麻酔薬のことです。感覚を麻痺させ、痛みを感じさせなくする薬剤を指します。皮膚に塗ることで、かゆみや痛みを和らげる効果があります。シェルドンはレナードに、麻酔薬入りのクリームが良いかどうか尋ねています。"
+    },
+    {
+      "id": 49,
+      "value": "no heroes when it comes to",
+      "options": [
+        "〜に関してはヒーローはいない",
+        "〜に関しては勇敢になれない",
+        "〜に関しては嘘をつけない",
+        "〜に関しては秘密がない"
+      ],
+      "correctAnswer": "〜に関しては勇敢になれない",
+      "explanation": "「There are no heroes when it comes to」は、「〜に関しては、無理に我慢したり、勇敢ぶる必要はない」という意味合いで使われる表現です。ここでは、皮膚炎のかゆみを我慢する必要はない、という意味で使われています。辛い時は素直に頼るべきだというニュアンスが含まれています。"
+    },
+    {
+      "id": 50,
+      "value": "lotion",
+      "options": [
+        "化粧水",
+        "乳液",
+        "香水",
+        "日焼け止め"
+      ],
+      "correctAnswer": "乳液",
+      "explanation": "「lotion」は乳液のことです。皮膚に潤いを与えたり、保護したりする目的で使用されます。シェルドンは自分の豊富なローションと軟膏のコレクションを自慢げに語っています。この文脈では、皮膚炎の治療に使用できるものも含んでいることを示唆しています。"
+    },
+    {
+      "id": 51,
+      "value": "judgement",
+      "options": [
+        "判断",
+        "非難",
+        "支払い",
+        "記録"
+      ],
+      "correctAnswer": "判断",
+      "explanation": "「judgement」は、評価や判断力という意味です。ここでは、薬の選択に関する判断を指しています。日常会話でもビジネスシーンでも、状況を考慮して最適な結論を出す能力を意味する言葉として広く使われます。\n\n例：In my judgement, this is the best course of action. (私の判断では、これが最善の行動方針です。)"
+    },
+    {
+      "id": 52,
+      "value": "indicated for",
+      "options": [
+        "適応",
+        "不要",
+        "禁忌",
+        "原因"
+      ],
+      "correctAnswer": "適応",
+      "explanation": "「indicated for」は、特定の薬や治療法が、ある症状や疾患に対して有効である、または推奨されるという意味です。医学的な文脈でよく用いられます。\n\n例：This medication is indicated for the treatment of high blood pressure. (この薬は高血圧の治療に適応されます。)"
+    },
+    {
+      "id": 53,
+      "value": "haemorrhoids",
+      "options": [
+        "痔",
+        "高血圧",
+        "糖尿病",
+        "喘息"
+      ],
+      "correctAnswer": "痔",
+      "explanation": "「haemorrhoids」は、痔という意味です。肛門や直腸の静脈が腫れて炎症を起こした状態を指します。医学用語ですが、一般的な会話でも使われることがあります。"
+    },
+    {
+      "id": 54,
+      "value": "for shame",
+      "options": [
+        "残念",
+        "勇敢",
+        "幸運",
+        "正直"
+      ],
+      "correctAnswer": "残念",
+      "explanation": "「for shame」は、恥を知れ、または残念だという意味合いで使われます。相手の行動を非難したり、失望を表したりする際に用いられる表現です。道徳的な非難や軽い非難のニュアンスを含みます。\n\n例：For shame, you should know better. (恥を知れ、もっと分別があるはずだ。)"
+    },
+    {
+      "id": 55,
+      "value": "make good time",
+      "options": [
+        "時間通り",
+        "時間を稼ぐ",
+        "遅れる",
+        "急ぐ"
+      ],
+      "correctAnswer": "時間通り",
+      "explanation": "「make good time」は、予定よりも早く、または順調に進むという意味です。旅行や移動の際に、思ったよりも早く目的地に到着する場合などに使われます。\n\n例：We made good time on the highway and arrived early. (高速道路を順調に進み、早く到着した。)"
+    },
+    {
+      "id": 56,
+      "value": "betray",
+      "options": [
+        "裏切る",
+        "信頼する",
+        "助ける",
+        "尊敬する"
+      ],
+      "correctAnswer": "裏切る",
+      "explanation": "「betray」は、信頼を裏切る、欺くという意味です。友人関係や恋愛関係、国家など、様々な文脈で使用されます。相手を傷つけたり、期待を裏切る行為を指します。\n\n例：He betrayed his country by selling secrets to the enemy. (彼は敵に秘密を売って国を裏切った。)"
+    },
+    {
+      "id": 57,
+      "value": "rebellion",
+      "options": [
+        "反乱",
+        "服従",
+        "協力",
+        "平和"
+      ],
+      "correctAnswer": "反乱",
+      "explanation": "「rebellion」は、反乱、反抗という意味です。権威や既存の秩序に対する抵抗や反発を指します。政治的な文脈や、個人的な行動など、様々な状況で使われます。\n\n例：The students staged a rebellion against the school's strict rules. (学生たちは学校の厳しい規則に対して反乱を起こした。)"
+    },
+    {
+      "id": 58,
+      "value": "pinky swear",
+      "options": [
+        "指切り",
+        "誓わない",
+        "秘密",
+        "嘘"
+      ],
+      "correctAnswer": "指切り",
+      "explanation": "「pinky swear」は、指切りげんまん、指切りという意味です。約束を強調するために、お互いの小指を絡ませて誓う行為を指します。子供の遊びや、親しい間柄での約束に使われることが多いです。"
+    },
+    {
+      "id": 59,
+      "value": "woo",
+      "options": [
+        "口説く",
+        "無視する",
+        "避ける",
+        "嫌う"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「woo」は、口説く、求愛するという意味です。特に恋愛関係において、相手の気を引こうとする行為を指します。古風な表現ですが、文学作品やロマンチックな文脈で使われることがあります。\n\n例：He tried to woo her with flowers and chocolates. (彼は花やチョコレートで彼女を口説こうとした。)"
+    },
+    {
+      "id": 60,
+      "value": "turncoat",
+      "options": [
+        "裏切り者",
+        "英雄",
+        "リーダー",
+        "友人"
+      ],
+      "correctAnswer": "裏切り者",
+      "explanation": "「turncoat」は、裏切り者、変節漢という意味です。所属していたグループや組織、支持していた思想などを裏切って、敵側に寝返る人を指します。政治的な文脈でよく使われます。\n\n例：He was branded as a turncoat for switching parties. (彼は党を乗り換えたことで裏切り者として非難された。)"
+    },
+    {
+      "id": 61,
+      "value": "clause",
+      "options": [
+        "条項",
+        "理由",
+        "結果",
+        "問題"
+      ],
+      "correctAnswer": "条項",
+      "explanation": "「clause」は、契約書や法律などの条項、条項という意味です。特定の条件や義務を定める文章の一部を指します。ビジネスや法律の文脈でよく使われます。\n\n例：There is a clause in the contract that allows us to terminate it early. (契約書には、早期に解除できる条項がある。)"
+    },
+    {
+      "id": 62,
+      "value": "zip your lip",
+      "options": [
+        "黙る",
+        "話す",
+        "歌う",
+        "叫ぶ"
+      ],
+      "correctAnswer": "黙る",
+      "explanation": "「zip your lip」は、口を閉じる、黙るという意味です。誰かに静かにするように、または秘密を守るように言う際に使われる口語的な表現です。\n\n例：Just zip your lip and don't say anything to anyone. (黙って誰にも何も言わないで。)"
+    },
+    {
+      "id": 63,
+      "value": "on behalf of",
+      "options": [
+        "代わりに",
+        "個人的に",
+        "反対に",
+        "直接"
+      ],
+      "correctAnswer": "代わりに",
+      "explanation": "「on behalf of」は、～の代わりに、～を代表してという意味です。他の人の代理として行動したり、発言したりする際に使われます。フォーマルな場面でよく使われます。\n\n例：I am writing this letter on behalf of my client. (私はクライアントの代理としてこの手紙を書いています。)"
+    },
+    {
+      "id": 64,
+      "value": "impromptu",
+      "options": [
+        "即興",
+        "計画的",
+        "秘密",
+        "公式"
+      ],
+      "correctAnswer": "即興",
+      "explanation": "「impromptu」は、即興の、準備なしのという意味です。事前の計画や準備なしに行われる行動やスピーチなどを指します。日常会話やビジネスシーンで使われます。\n\n例：He gave an impromptu speech that was surprisingly good. (彼は驚くほど良い即興のスピーチをした。)"
+    },
+    {
+      "id": 65,
+      "value": "iron clad",
+      "options": [
+        "鉄壁",
+        "脆弱",
+        "不確か",
+        "曖昧"
+      ],
+      "correctAnswer": "鉄壁",
+      "explanation": "「iron clad」は、鉄壁の、絶対確実なという意味です。非常に強固で、反論の余地がないほど確実な証拠や合意などを指します。\n\n例：The contract had an iron clad guarantee. (その契約には鉄壁の保証が付いていた。)"
+    },
+    {
+      "id": 66,
+      "value": "watering hole",
+      "options": [
+        "飲み屋",
+        "砂漠",
+        "オアシス",
+        "湖"
+      ],
+      "correctAnswer": "飲み屋",
+      "explanation": "「watering hole」は、飲み屋、酒場という意味です。特に人が集まって社交的な時間を過ごす場所を指します。アフリカの動物が水を飲む場所を指すことから派生した比喩的な表現です。\n\n例：The local pub is a popular watering hole for the townspeople. (地元のパブは町の人々にとって人気の飲み屋だ。)"
+    },
+    {
+      "id": 67,
+      "value": "tending bar",
+      "options": [
+        "バーテンダー",
+        "客",
+        "掃除",
+        "警備員"
+      ],
+      "correctAnswer": "バーテンダー",
+      "explanation": "「tending bar」は、バーテンダーとして働く、バーで働くという意味です。飲み物を作ったり、客の注文を取ったりするバーテンダーの仕事を指します。\n\n例：She worked as a bartender, tending bar at a local pub. (彼女は地元のパブでバーテンダーとして働いていた。)"
+    },
+    {
+      "id": 68,
+      "value": "clincher",
+      "options": [
+        "決め手",
+        "失敗",
+        "秘密",
+        "問題"
+      ],
+      "correctAnswer": "決め手",
+      "explanation": "「clincher」は、決め手、決定的な証拠という意味です。議論や交渉などを決着させるための最も重要な要素や証拠を指します。\n\n例：The clincher in the argument was the witness testimony. (議論の決め手は証人の証言だった。)"
+    },
+    {
+      "id": 69,
+      "value": "auburn",
+      "options": [
+        "赤褐色",
+        "金色",
+        "黒色",
+        "白色"
+      ],
+      "correctAnswer": "赤褐色",
+      "explanation": "「auburn」は、赤褐色の、赤茶色のという意味です。髪の毛の色を表現する際に使われることが多いです。\n\n例：She had long auburn hair that fell to her waist. (彼女は腰まで届く長い赤褐色の髪をしていた。)"
+    },
+    {
+      "id": 70,
+      "value": "primate",
+      "options": [
+        "霊長類",
+        "爬虫類",
+        "両生類",
+        "魚類"
+      ],
+      "correctAnswer": "霊長類",
+      "explanation": "「primate」は、霊長類という意味です。人間、サル、チンパンジーなどを含む哺乳類のグループを指します。生物学の文脈でよく使われます。\n\n例：Humans are the most intelligent primates. (人間は最も知能の高い霊長類である。)"
+    },
+    {
+      "id": 71,
+      "value": "DNA test",
+      "options": [
+        "DNA検査",
+        "体力テスト",
+        "知能テスト",
+        "視力検査"
+      ],
+      "correctAnswer": "DNA検査",
+      "explanation": "「DNA test」は、DNA検査という意味です。遺伝子を調べて、個人を特定したり、親子関係を調べたりする検査を指します。犯罪捜査や医学、生物学などの分野で利用されます。\n\n例：The DNA test proved that he was the father of the child. (DNA検査で彼が子供の父親であることが証明された。)"
+    },
+    {
+      "id": 72,
+      "value": "over-think",
+      "options": [
+        "考えすぎる",
+        "無視する",
+        "分析する",
+        "忘れる"
+      ],
+      "correctAnswer": "考えすぎる",
+      "explanation": "「over-think」は、考えすぎる、考え込みすぎるという意味です。必要以上に深く考えすぎて、行動をためらったり、問題を複雑にしてしまうことを指します。\n\n例：Don't over-think it, just go with your gut feeling. (考えすぎずに、自分の直感に従って。)"
+    },
+    {
+      "id": 73,
+      "value": "doubt it",
+      "options": [
+        "疑う",
+        "信じる",
+        "知る",
+        "望む"
+      ],
+      "correctAnswer": "疑う",
+      "explanation": "「doubt it」は、それを疑う、そうは思わないという意味です。相手の言っていることや提案に対して、確信が持てない場合に使われる口語的な表現です。\n\n例：He said he could fix the car, but I doubt it. (彼は車を修理できると言ったが、私はそうは思わない。)"
+    },
+    {
+      "id": 74,
+      "value": "prescription",
+      "options": [
+        "処方箋",
+        "診断",
+        "治療",
+        "薬"
+      ],
+      "correctAnswer": "処方箋",
+      "explanation": "「prescription」は、処方箋、処方箋薬という意味です。医師が発行する薬の指示書や、その薬自体を指します。薬局で薬を受け取る際に必要となります。\n\n例：You need a prescription from a doctor to get this medication. (この薬を入手するには医師からの処方箋が必要です。)"
+    },
+    {
+      "id": 75,
+      "value": "mucosal",
+      "options": [
+        "粘膜",
+        "筋肉",
+        "骨",
+        "神経"
+      ],
+      "correctAnswer": "粘膜",
+      "explanation": "「mucosal」は、粘膜の、粘膜性のという意味です。体の内側の表面を覆う粘膜に関する医学用語です。消化管や呼吸器系などに見られます。\n\n例：Mucosal inflammation can cause a variety of symptoms. (粘膜の炎症はさまざまな症状を引き起こす可能性があります。)"
+    },
+    {
+      "id": 76,
+      "value": "be attracted to",
+      "options": [
+        "興味を持つ",
+        "引き寄せられる",
+        "反対する",
+        "無視する"
+      ],
+      "correctAnswer": "引き寄せられる",
+      "explanation": "「be attracted to」は、人や物事に魅力を感じ、惹きつけられるという意味です。恋愛感情だけでなく、興味や関心を抱く場合にも使われます。\n\n例：She is attracted to intelligent men. (彼女は知的な男性に惹かれる。)"
+    },
+    {
+      "id": 77,
+      "value": "re-zip my lip",
+      "options": [
+        "秘密を守る",
+        "口を閉じる",
+        "話し始める",
+        "歌い出す"
+      ],
+      "correctAnswer": "口を閉じる",
+      "explanation": "「re-zip my lip」は、文字通りには「唇を再び閉じる」という意味ですが、比喩的には「黙る」「口をつぐむ」という意味で使われます。特に、何かを言うのをやめる、発言を控えるというニュアンスが含まれます。\n\n例：I was about to say something I might regret, so I decided to re-zip my lip. (後悔するかもしれないことを言いそうになったので、黙ることにした。)"
+    },
+    {
+      "id": 78,
+      "value": "watering hole",
+      "options": [
+        "休憩所",
+        "飲み屋",
+        "水飲み場",
+        "遊び場"
+      ],
+      "correctAnswer": "飲み屋",
+      "explanation": "「watering hole」は、もともとは動物が水を飲みに集まる場所を指しますが、比喩的に人が集まって飲食する場所、特にバーやパブを指すことがあります。社交の場としてのニュアンスが含まれます。\n\n例：The local pub is the town's favourite watering hole. (その地元のパブは、町で一番人気の飲み屋だ。)"
+    },
+    {
+      "id": 79,
+      "value": "light headed",
+      "options": [
+        "頭が痛い",
+        "ふらふらする",
+        "気分が良い",
+        "冷静な"
+      ],
+      "correctAnswer": "ふらふらする",
+      "explanation": "「light-headed」は、めまいがする、ふらふらするという意味です。通常、体調不良やアルコール摂取などが原因で起こります。\n\n例：He felt light-headed after standing up too quickly. (彼は急に立ち上がった後、ふらふらした。)"
+    },
+    {
+      "id": 80,
+      "value": "coitus",
+      "options": [
+        "食事",
+        "会議",
+        "性交",
+        "睡眠"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交を意味するややフォーマルな言葉です。医学的な文脈や、より直接的な表現を避けたい場合に使われることがあります。\n\n例：The doctor asked about the frequency of coitus. (医者は性交の頻度について尋ねた。)"
+    },
+    {
+      "id": 81,
+      "value": "take precedence over",
+      "options": [
+        "優先する",
+        "無視する",
+        "反対する",
+        "影響を与える"
+      ],
+      "correctAnswer": "優先する",
+      "explanation": "「take precedence over」は、〜よりも優先される、〜に優先するという意味です。重要度や順位がより高いことを示す際に用いられます。\n\n例：Safety takes precedence over cost. (安全はコストよりも優先される。)"
+    },
+    {
+      "id": 82,
+      "value": "pinky swear",
+      "options": [
+        "秘密の誓い",
+        "指切りげんまん",
+        "友情の証",
+        "嘘の約束"
+      ],
+      "correctAnswer": "指切りげんまん",
+      "explanation": "「pinky swear」は、指切りげんまんを意味します。約束を守ることを誓う子供の儀式としてよく知られています。\n\n例: They made a pinky swear to always be friends. (彼らはいつも友達でいると指切りげんまんした。)"
+    },
+    {
+      "id": 83,
+      "value": "cross a line",
+      "options": [
+        "一線を越える",
+        "行列を横切る",
+        "線を引く",
+        "国境を超える"
+      ],
+      "correctAnswer": "一線を越える",
+      "explanation": "「cross a line」は、一線を越える、許容範囲を超えるという意味です。道徳的、倫理的な境界線を越える行為を指すことが多いです。\n\n例：He knew he had crossed a line when he insulted her family. (彼は彼女の家族を侮辱したとき、一線を越えたと悟った。)"
+    },
+    {
+      "id": 84,
+      "value": "stomp on",
+      "options": [
+        "応援する",
+        "踏みつける",
+        "無視する",
+        "保護する"
+      ],
+      "correctAnswer": "踏みつける",
+      "explanation": "「stomp on」は、物理的に踏みつけるという意味の他に、比喩的に人の感情や希望を打ち砕く、踏みにじるという意味で使われます。\n\n例：She stomped on his dreams by telling him he wasn't good enough. (彼女は彼に才能がないと言って、彼の夢を踏みにじった。)"
+    },
+    {
+      "id": 85,
+      "value": "betray",
+      "options": [
+        "信頼する",
+        "裏切る",
+        "尊敬する",
+        "助ける"
+      ],
+      "correctAnswer": "裏切る",
+      "explanation": "「betray」は、信頼を裏切る、欺くという意味です。友人、家族、国家など、信頼関係にある相手に対して不誠実な行為をすることを指します。\n\n例：He betrayed his country by selling secrets to the enemy. (彼は敵に情報を売って国を裏切った。)"
+    },
+    {
+      "id": 86,
+      "value": "violation",
+      "options": [
+        "違反",
+        "尊重",
+        "保護",
+        "許可"
+      ],
+      "correctAnswer": "違反",
+      "explanation": "「violation」は、規則、法律、権利などを侵害すること、違反することを意味します。また、プライバシーの侵害など、道徳的な意味合いで使われることもあります。\n\n例：This is a clear violation of the treaty. (これは条約の明らかな違反だ。)"
+    },
+    {
+      "id": 87,
+      "value": "grinding up",
+      "options": [
+        "磨く",
+        "粉砕する",
+        "修復する",
+        "創造する"
+      ],
+      "correctAnswer": "粉砕する",
+      "explanation": "「grinding up」は、物を粉々に砕く、粉末状にするという意味です。食べ物や薬品などを細かくする際に使われます。\n\n例：She was grinding up coffee beans for the morning brew. (彼女は朝のコーヒーのためにコーヒー豆を挽いていた。)"
+    },
+    {
+      "id": 88,
+      "value": "concentration",
+      "options": [
+        "集中",
+        "濃度",
+        "分散",
+        "希釈"
+      ],
+      "correctAnswer": "濃度",
+      "explanation": "「concentration」は、濃度、集中度という意味です。ある物質が一定の量の中にどれだけ含まれているかを示す場合に用いられます。\n\n例：The concentration of alcohol in his blood was above the legal limit. (彼の血中のアルコール濃度は法定基準を超えていた。)"
+    },
+    {
+      "id": 89,
+      "value": "lapse",
+      "options": [
+        "維持",
+        "過ち",
+        "改善",
+        "成功"
+      ],
+      "correctAnswer": "過ち",
+      "explanation": "「lapse」は、一時的な過ち、うっかりした間違いという意味です。注意不足や判断ミスによって起こる小さな失敗を指すことが多いです。\n\n例：It was just a minor lapse in judgment. (それはほんのわずかな判断ミスだった。)"
+    },
+    {
+      "id": 90,
+      "value": "beyond the pale",
+      "options": [
+        "許容範囲を超えて",
+        "青白い顔",
+        "境界線の内側",
+        "標準以下"
+      ],
+      "correctAnswer": "許容範囲を超えて",
+      "explanation": "「beyond the pale」は、許容範囲を超えて、常識外れという意味です。行動や言動が社会的な規範や道徳から逸脱していることを指します。\n\n例：His behaviour was beyond the pale. (彼の行動は許容範囲を超えていた。)"
+    },
+    {
+      "id": 91,
+      "value": "tolerate",
+      "options": [
+        "容認する",
+        "拒否する",
+        "非難する",
+        "促進する"
+      ],
+      "correctAnswer": "容認する",
+      "explanation": "「tolerate」は、嫌なことや不快なことを我慢する、許容するという意味です。必ずしも好意的に受け入れるわけではなく、耐え忍ぶニュアンスが含まれます。\n\n例：I cannot tolerate his rudeness any longer. (彼の無礼さにはもう我慢できない。)"
+    },
+    {
+      "id": 92,
+      "value": "puffing smoke",
+      "options": [
+        "煙を吐く",
+        "秘密裏の合図",
+        "雲を操る",
+        "蒸気を浴びる"
+      ],
+      "correctAnswer": "煙を吐く",
+      "explanation": "「puffing smoke」は煙を吐き出すこと、特に蒸気機関車などが蒸気を勢いよく出す様子を指します。ここでは、おもちゃの機関車が実際に煙を出す機能を指しています。\n\n例：The old train was puffing smoke as it climbed the hill. (その古い列車は丘を登る際に煙を吐き出していた。)"
+    },
+    {
+      "id": 93,
+      "value": "give up",
+      "options": [
+        "諦める",
+        "続ける",
+        "挑戦する",
+        "成功する"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「give up」は、諦める、断念するという意味です。努力を放棄したり、何かを諦めたりする際に使われます。\n\n例：I give up, what's the answer? (諦めた、答えは何？)"
+    }
+  ]
+}

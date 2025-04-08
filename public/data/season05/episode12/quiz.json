@@ -1,0 +1,1132 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "snarky",
+      "options": [
+        "賢い",
+        "皮肉な",
+        "礼儀正しい",
+        "感動的な"
+      ],
+      "correctAnswer": "皮肉な",
+      "explanation": "「snarky」は、皮肉っぽく、意地悪な態度や発言を指します。相手を少し見下したり、軽蔑するようなニュアンスが含まれます。フォーマルな場では不適切ですが、親しい間柄での軽い冗談としては使われることがあります。\n\n例：His snarky comments always get under my skin. (彼の皮肉っぽいコメントはいつも私をイライラさせる。)"
+    },
+    {
+      "id": 2,
+      "value": "dripping with",
+      "options": [
+        "不足している",
+        "大量にある",
+        "隠されている",
+        "わずかに含まれている"
+      ],
+      "correctAnswer": "大量にある",
+      "explanation": "「dripping with」は、何かが大量にある、または過剰なほどに持っているという意味です。比喩的に、ある性質や感情が非常に強く表れている場合にも使われます。\n\n例：The movie was dripping with suspense. (その映画はサスペンスに満ち溢れていた。)"
+    },
+    {
+      "id": 3,
+      "value": "evacuate his bowels",
+      "options": [
+        "休憩する",
+        "食事をする",
+        "瞑想する",
+        "排便する"
+      ],
+      "correctAnswer": "排便する",
+      "explanation": "「evacuate bowels」は、排便するという意味の婉曲表現です。直接的な表現を避けたい場合に使われます。医学的な文脈や、子供に対して使うこともあります。\n\n例文：He had to evacuate his bowels urgently. (彼は急いで排便しなければならなかった。)"
+    },
+    {
+      "id": 4,
+      "value": "cabaret",
+      "options": [
+        "研究室",
+        "劇場",
+        "レストラン",
+        "薬局"
+      ],
+      "correctAnswer": "劇場",
+      "explanation": "「cabaret」は、歌や踊り、演劇などのショーを提供する飲食店や劇場を指します。多くの場合、観客は食事やお酒を楽しみながらショーを鑑賞します。フランス語起源の言葉で、都会的で洗練されたイメージがあります。\n\n例文：We went to a cabaret in Paris. (私たちはパリのキャバレーに行った。)"
+    },
+    {
+      "id": 5,
+      "value": "inherently",
+      "options": [
+        "偶然に",
+        "本質的に",
+        "表面上は",
+        "一時的に"
+      ],
+      "correctAnswer": "本質的に",
+      "explanation": "「inherently」は、本質的に、生まれつき、という意味です。ある物事や性質が、そのものの内部に元々備わっていることを表します。\n\n例文：The job is inherently dangerous. (その仕事は本質的に危険である。)"
+    },
+    {
+      "id": 6,
+      "value": "lodged in",
+      "options": [
+        "隠されて",
+        "紛失して",
+        "固定されて",
+        "忘れられて"
+      ],
+      "correctAnswer": "固定されて",
+      "explanation": "「lodged in」は、何かがしっかりと固定されている、または詰まっている状態を表します。物理的な意味だけでなく、抽象的な意味でも使われ、考えや感情が心に深く根付いている場合にも用いられます。\n\n例文：The bullet was lodged in his arm. (銃弾は彼の腕に食い込んでいた。)"
+    },
+    {
+      "id": 7,
+      "value": "keister",
+      "options": [
+        "頭",
+        "お腹",
+        "背中",
+        "お尻"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "「keister」は、お尻や腰を指す俗語です。ややユーモラスなニュアンスがあり、フォーマルな場面では避けられます。\n\n例文: He fell on his keister. (彼はお尻もちをついた。)"
+    },
+    {
+      "id": 8,
+      "value": "peek behind the curtain",
+      "options": [
+        "秘密を探る",
+        "現実逃避する",
+        "注目を集める",
+        "過去を振り返る"
+      ],
+      "correctAnswer": "秘密を探る",
+      "explanation": "「peek behind the curtain」は、秘密や裏側を探る、真相を知ろうとするという意味のイディオムです。表面的なことだけでなく、隠された真実を見ようとする行為を指します。\n\n例文：Don't peek behind the curtain if you don't want to know the truth. (真実を知りたくないなら、裏側を探るな。)"
+    },
+    {
+      "id": 9,
+      "value": "poison",
+      "options": [
+        "改善する",
+        "弱める",
+        "強化する",
+        "中和する"
+      ],
+      "correctAnswer": "弱める",
+      "explanation": "「poison」は、毒するという意味の他に、比喩的に、何か良いものを害する、堕落させる、弱めるという意味で使われます。\n\n例文：His negative attitude poisoned the atmosphere of the meeting. (彼の否定的な態度は会議の雰囲気を害した。)"
+    },
+    {
+      "id": 10,
+      "value": "lovable rogue",
+      "options": [
+        "信頼できる味方",
+        "愛すべき悪党",
+        "冷酷な支配者",
+        "無力な犠牲者"
+      ],
+      "correctAnswer": "愛すべき悪党",
+      "explanation": "「lovable rogue」は、愛嬌があり、どこか憎めない悪党やいたずら者を指します。道徳的には問題がある行動をとるものの、その人柄や魅力によって許容されるような人物を指します。\n\n例文：He's a lovable rogue, but you can't always trust him. (彼は愛すべき悪党だが、いつも信用できるとは限らない。)"
+    },
+    {
+      "id": 11,
+      "value": "cranky",
+      "options": [
+        "冷静な",
+        "機嫌が悪い",
+        "楽観的な",
+        "興奮した"
+      ],
+      "correctAnswer": "機嫌が悪い",
+      "explanation": "「cranky」は、気難しい、イライラしている、不機嫌な状態を表します。特に体調が悪い時や疲れている時に見られる状態を指すことが多いです。\n\n例文：He gets cranky when he doesn't get enough sleep. (彼は睡眠不足になると機嫌が悪くなる。)"
+    },
+    {
+      "id": 12,
+      "value": "Ta-da",
+      "options": [
+        "頑張って",
+        "おやすみ",
+        "じゃーん",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "じゃーん",
+      "explanation": "「Ta-da」は、何かを披露する時や、マジックショーなどで使われる感嘆詞です。「じゃーん」や「どうだ！」というニュアンスで、注目を集めるために使われます。\n\n例文：Ta-da! I finished the project. (じゃーん！プロジェクトが終わったよ。)"
+    },
+    {
+      "id": 13,
+      "value": "power couple",
+      "options": [
+        "内気な夫婦",
+        "貧しい夫婦",
+        "影響力のある夫婦",
+        "普通の夫婦"
+      ],
+      "correctAnswer": "影響力のある夫婦",
+      "explanation": "「power couple」は、社会的に大きな影響力を持つカップルを指します。ビジネス、政治、エンターテイメントなど、様々な分野で活躍しているカップルに使われます。\n\n例文：They are considered a power couple in the tech industry. (彼らはテクノロジー業界のパワーカップルと考えられている。)"
+    },
+    {
+      "id": 14,
+      "value": "without objection",
+      "options": [
+        "異議あり",
+        "反対意見",
+        "満場一致で",
+        "秘密裏に"
+      ],
+      "correctAnswer": "満場一致で",
+      "explanation": "「without objection」は、異議がない場合、満場一致で、という意味です。会議などで、提案や決定に対する反対意見がないことを確認する際に使われます。\n\n例文：The motion passed without objection. (その動議は満場一致で可決された。)"
+    },
+    {
+      "id": 15,
+      "value": "hit the ground running",
+      "options": [
+        "準備不足である",
+        "最初から全力を出す",
+        "ゆっくりと始める",
+        "計画を立てる"
+      ],
+      "correctAnswer": "最初から全力を出す",
+      "explanation": "「hit the ground running」は、新しい仕事やプロジェクトなどを始めるときに、最初から全力で取り組む、という意味のイディオムです。準備万端で、すぐに成果を出すことを期待されている状況で使われます。\n\n例文：She hit the ground running in her new job. (彼女は新しい仕事で最初から全力を出した。)"
+    },
+    {
+      "id": 16,
+      "value": "sole author",
+      "options": [
+        "共同執筆者",
+        "編集者",
+        "唯一の著者",
+        "ゴーストライター"
+      ],
+      "correctAnswer": "唯一の著者",
+      "explanation": "「sole author」は、論文や書籍などを単独で執筆した著者、つまり唯一の著者を指します。他の著者がいないことを強調する際に使われます。\n\n例文：She is the sole author of the book. (彼女はその本の唯一の著者だ。)"
+    },
+    {
+      "id": 17,
+      "value": "distinguished",
+      "options": [
+        "平凡な",
+        "匿名の",
+        "著名な",
+        "時代遅れの"
+      ],
+      "correctAnswer": "著名な",
+      "explanation": "「distinguished」は、著名な、卓越した、という意味です。特に学術的な分野や、長いキャリアを持つ人に対して使われます。\n\n例文：He is a distinguished professor. (彼は著名な教授だ。)"
+    },
+    {
+      "id": 18,
+      "value": "air's getting a bit thin up here",
+      "options": [
+        "息苦しい",
+        "気分が良い",
+        "退屈だ",
+        "刺激的だ"
+      ],
+      "correctAnswer": "息苦しい",
+      "explanation": "「air's getting a bit thin up here」は、ここでは、自分の自慢話や成果を鼻にかけるような発言に対して、皮肉っぽく「すごいですね」と返すようなニュアンスで使われています。文字通りには「高みに上りすぎて空気が薄くなってきた」という意味で、相手の自慢げな態度を揶揄する表現です。\n\n例文: (相手が昇進したことを自慢げに話しているのに対して) Well, the air's getting a bit thin up here. (まあ、すごいですね。) "
+    },
+    {
+      "id": 19,
+      "value": "euphemism",
+      "options": [
+        "直接的な表現",
+        "婉曲表現",
+        "比喩表現",
+        "誇張表現"
+      ],
+      "correctAnswer": "婉曲表現",
+      "explanation": "「euphemism」は、婉曲表現、遠回しな言い方という意味です。不快なことや直接的な表現を避けたい場合に、より穏やかで間接的な言葉を使うことを指します。\n\n例文：'Passed away' is a euphemism for 'died'. ('亡くなった'は'死んだ'の婉曲表現です。)"
+    },
+    {
+      "id": 20,
+      "value": "faulted for",
+      "options": [
+        "評価されて",
+        "非難されて",
+        "無視されて",
+        "尊敬されて"
+      ],
+      "correctAnswer": "非難されて",
+      "explanation": "「faulted for」は、～のことで非難される、～の点で欠点があるとされる、という意味です。何か過ちや欠点があり、それについて責任を問われる状況で使われます。\n\n例文：He can be faulted for being too ambitious. (彼は野心的すぎると非難されることがある。)"
+    },
+    {
+      "id": 21,
+      "value": "melt inside",
+      "options": [
+        "怒りを感じる",
+        "悲しみに暮れる",
+        "幸せを感じる",
+        "無関心になる"
+      ],
+      "correctAnswer": "幸せを感じる",
+      "explanation": "「melt inside」は、感情が高ぶり、心が温かくなる、または非常に幸せな気持ちになる様子を表します。特に、感動的な場面や愛らしいものを見た時に使われます。\n\n例文：The puppy was so cute, it made me melt inside. (その子犬はとても可愛くて、心がとろけた。)"
+    },
+    {
+      "id": 22,
+      "value": "no big deal",
+      "options": [
+        "重要な問題",
+        "秘密",
+        "大したことない",
+        "緊急事態"
+      ],
+      "correctAnswer": "大したことない",
+      "explanation": "「no big deal」は、大したことない、気にしないで、という意味の口語表現です。相手を安心させたり、謙遜したりする際に使われます。\n\n例文：It's no big deal, I can fix it. (大したことないよ、私が直せるから。)"
+    },
+    {
+      "id": 23,
+      "value": "see right through",
+      "options": [
+        "理解できない",
+        "見過ごす",
+        "見抜く",
+        "感心する"
+      ],
+      "correctAnswer": "見抜く",
+      "explanation": "「see right through」は、見抜く、真実を見破るという意味です。相手の嘘やごまかしを見抜いて、本当の意図や気持ちを理解することを指します。\n\n例文：She saw right through his lies. (彼女は彼の嘘を見抜いた。)"
+    },
+    {
+      "id": 24,
+      "value": "for future reference",
+      "options": [
+        "過去の事例として",
+        "参考のために",
+        "現在の場合には",
+        "秘密厳守で"
+      ],
+      "correctAnswer": "参考のために",
+      "explanation": "「for future reference」は、今後の参考のために、という意味です。将来のために覚えておいてほしい情報や指示を伝える際に使われます。\n\n例文：For future reference, the meeting will be held every Tuesday. (今後のために、会議は毎週火曜日に開催されます。)"
+    },
+    {
+      "id": 25,
+      "value": "end up",
+      "options": [
+        "開始する",
+        "中断する",
+        "結局～になる",
+        "計画する"
+      ],
+      "correctAnswer": "結局～になる",
+      "explanation": "「end up」は、最終的に～になる、結局～になるという意味です。意図していなかった結果や、予期せぬ結果になる場合に使われます。\n\n例文：We ended up staying at home because of the rain. (雨のせいで、結局家にいることになった。)"
+    },
+    {
+      "id": 26,
+      "value": "wand",
+      "options": [
+        "魔法の杖",
+        "迷路",
+        "小道",
+        "池"
+      ],
+      "correctAnswer": "魔法の杖",
+      "explanation": "「wand」は、魔法使いが使う杖のことです。ここでは、Howardが自分の性的魅力を比喩的に表現するために使っています。マジックの小道具としての意味合いと、性的な意味合いが重ねられています。"
+    },
+    {
+      "id": 27,
+      "value": "stacked",
+      "options": [
+        "整理整頓された",
+        "積み重ねられた",
+        "胸が大きい",
+        "疲れた"
+      ],
+      "correctAnswer": "胸が大きい",
+      "explanation": "「stacked」は、スラングで「胸が大きい」という意味です。Mrs. WolowitzがBernadetteの体型について言及する際に使われています。直接的な表現を避けて、婉曲的に表現しています。"
+    },
+    {
+      "id": 28,
+      "value": "nailed it",
+      "options": [
+        "失敗した",
+        "釘を打った",
+        "成功した",
+        "修理した"
+      ],
+      "correctAnswer": "成功した",
+      "explanation": "「nailed it」は、何かを完璧にやり遂げた、成功したという意味です。ここでは、HowardがBernadetteにマジックの練習がうまくいった時に使っています。口語的な表現です。"
+    },
+    {
+      "id": 29,
+      "value": "dove pan",
+      "options": [
+        "ハトの鍋",
+        "隠し場所",
+        "マジックの道具",
+        "料理の名前"
+      ],
+      "correctAnswer": "マジックの道具",
+      "explanation": "「dove pan」は、マジックで使われる道具の一つで、中にハトなどの生き物を隠しておき、観客を驚かせるために使います。Howardがマジックのトリックを説明する際に登場します。"
+    },
+    {
+      "id": 30,
+      "value": "teeming with",
+      "options": [
+        "不足している",
+        "溢れかえっている",
+        "恐れている",
+        "掃除されている"
+      ],
+      "correctAnswer": "溢れかえっている",
+      "explanation": "「teeming with」は、何かが豊富に存在する、溢れかえっているという意味です。SheldonがPasadenaの夜の街の状態を誇張して表現する際に使われています。"
+    },
+    {
+      "id": 31,
+      "value": "drink my troubles away",
+      "options": [
+        "問題を解決する",
+        "悲しみを忘れる",
+        "酒を飲む",
+        "旅行に行く"
+      ],
+      "correctAnswer": "悲しみを忘れる",
+      "explanation": "「drink one's troubles away」は、酒を飲んで悩みや問題を忘れようとすることを意味するイディオムです。SheldonがRed Dead Redemptionのゲーム内で自分の悩みを紛らわせようとする場面で使われています。"
+    },
+    {
+      "id": 32,
+      "value": "boyfriend material",
+      "options": [
+        "ボーイフレンドの生地",
+        "理想的な恋人",
+        "恋愛小説",
+        "友情の証"
+      ],
+      "correctAnswer": "理想的な恋人",
+      "explanation": "「boyfriend material」は、恋人としてふさわしい資質を持っているという意味です。Sheldonが自分自身を客観的に評価する際に使用しています。恋愛関係を築く上で必要な特性を持っているかどうかを問う表現です。"
+    },
+    {
+      "id": 33,
+      "value": "nuts to that",
+      "options": [
+        "賛成する",
+        "反対する",
+        "ナッツを食べる",
+        "無視する"
+      ],
+      "correctAnswer": "反対する",
+      "explanation": "「nuts to that」は、提案や意見に対して強く反対する、または拒否するスラング表現です。SheldonがLeonardのアドバイスに対して反発する際に使われています。非常に口語的で、親しい間柄で使われます。"
+    },
+    {
+      "id": 34,
+      "value": "skip over",
+      "options": [
+        "スキップする",
+        "強調する",
+        "最初からやり直す",
+        "詳細に説明する"
+      ],
+      "correctAnswer": "スキップする",
+      "explanation": "「skip over」は、何かを飛ばす、省略するという意味です。LeonardがSheldonに、感情的な繋がりを修復する努力をせずに、金銭的なジェスチャーでごまかすという方法を提案する際に使われています。"
+    },
+    {
+      "id": 35,
+      "value": "written all over it",
+      "options": [
+        "書いてある",
+        "似合わない",
+        "明白である",
+        "隠されている"
+      ],
+      "correctAnswer": "明白である",
+      "explanation": "「have something written all over it」は、何かの特徴が明白である、一目でそれとわかるといった意味のイディオムです。ここでは、Leonardの提案がSheldonの性格に非常に合っていることを示しています。"
+    },
+    {
+      "id": 36,
+      "value": "return the favour",
+      "options": [
+        "恩を返す",
+        "プレゼントを贈る",
+        "手伝いを断る",
+        "秘密を守る"
+      ],
+      "correctAnswer": "恩を返す",
+      "explanation": "「return the favor」は、受けた恩や親切に対して、同じように恩を返す、お返しをするという意味です。SheldonがLeonardに、いつか恩返しをすると約束する際に使われています。"
+    },
+    {
+      "id": 37,
+      "value": "fiancee",
+      "options": [
+        "友人",
+        "婚約者",
+        "上司",
+        "先生"
+      ],
+      "correctAnswer": "婚約者",
+      "explanation": "「fiancée」は、婚約者の女性を指す言葉です。Howardが自分の婚約者であるBernadetteについて話す際に使われています。男性の場合は「fiancé」となります。"
+    },
+    {
+      "id": 38,
+      "value": "miraculous",
+      "options": [
+        "日常的な",
+        "奇跡的な",
+        "退屈な",
+        "簡単な"
+      ],
+      "correctAnswer": "奇跡的な",
+      "explanation": "「miraculous」は、奇跡的な、驚くべきという意味です。Howardが自分のマジックのショーを宣伝するために使っています。観客の期待を高めるための表現です。"
+    },
+    {
+      "id": 39,
+      "value": "thoroughly",
+      "options": [
+        "部分的に",
+        "完全に",
+        "一時的に",
+        "表面的な"
+      ],
+      "correctAnswer": "完全に",
+      "explanation": "「thoroughly」は、完全に、徹底的にという意味です。Bernadetteが子供たちに、完全に驚かされるまでケーキは食べられないと言う場面で使われています。"
+    },
+    {
+      "id": 40,
+      "value": "capisce",
+      "options": [
+        "おはよう",
+        "ありがとう",
+        "わかった",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "わかった",
+      "explanation": "「capisce」は、イタリア語で「わかるか？」という意味です。Bernadetteが子供たちに対して、ケーキはまだ食べられないことを理解させるために使っています。やや強い口調で使われることが多いです。"
+    },
+    {
+      "id": 41,
+      "value": "a few tricks",
+      "options": [
+        "いくつかの問題",
+        "少しの策略",
+        "いくつかの手品",
+        "数個の道具"
+      ],
+      "correctAnswer": "いくつかの手品",
+      "explanation": "「a few tricks」は、いくつかの手品、または策略という意味です。Howardが女の子を誘うために手品を使っていたことを示唆しています。"
+    },
+    {
+      "id": 42,
+      "value": "see the rest of the act",
+      "options": [
+        "残りの演技を見る",
+        "残りの法案を見る",
+        "休憩する",
+        "真実を知る"
+      ],
+      "correctAnswer": "残りの演技を見る",
+      "explanation": "「see the rest of the act」は、ここでは手品の続きを見るという意味ですが、婉曲的に性的な関係を持つことを暗示しています。Howardが自室に女の子を誘う目的をぼかして表現しています。"
+    },
+    {
+      "id": 43,
+      "value": "steps on hers",
+      "options": [
+        "足を踏む",
+        "邪魔をする",
+        "隠す",
+        "無視する"
+      ],
+      "correctAnswer": "隠す",
+      "explanation": "ここではMrs. WolowitzとBernadetteの胸の大きさを比較する際に、Mrs. Wolowitzが自分の胸は垂れていないという意味で使っています。比喩的な表現です。"
+    },
+    {
+      "id": 44,
+      "value": "go for a walk",
+      "options": [
+        "散歩に行く",
+        "運転する",
+        "旅行する",
+        "買い物に行く"
+      ],
+      "correctAnswer": "散歩に行く",
+      "explanation": "「go for a walk」は、散歩に行くという意味です。SheldonがRed Dead Redemptionのゲーム内で散歩をして気分転換をしようとしている場面で使われています。"
+    },
+    {
+      "id": 45,
+      "value": "clear my head",
+      "options": [
+        "頭を冷やす",
+        "秘密を守る",
+        "問題を解く",
+        "忘れる"
+      ],
+      "correctAnswer": "頭を冷やす",
+      "explanation": "「clear one's head」は、頭をすっきりさせる、気分転換するという意味です。SheldonがRed Dead Redemptionのゲーム内で散歩をして気分転換をしようとしている場面で使われています。"
+    },
+    {
+      "id": 46,
+      "value": "alley cats",
+      "options": [
+        "野良猫",
+        "裕福な猫",
+        "ペット",
+        "猫カフェ"
+      ],
+      "correctAnswer": "野良猫",
+      "explanation": "「alley cats」は、路地裏に住む野良猫のことです。Sheldonが夜のパサデナの街を比喩的に表現する際に使っています。"
+    },
+    {
+      "id": 47,
+      "value": "perfectly reasonable",
+      "options": [
+        "完璧に正しい",
+        "非常に不合理",
+        "まあまあ",
+        "感情的"
+      ],
+      "correctAnswer": "完璧に正しい",
+      "explanation": "「perfectly reasonable」は、完全に理にかなっている、非常に合理的であるという意味です。Sheldonが自分は正しく、Amyが間違っていると主張する際に使っています。"
+    },
+    {
+      "id": 48,
+      "value": "emotional connection",
+      "options": [
+        "感情的な繋がり",
+        "物理的な接触",
+        "ビジネス上の関係",
+        "偶然の出会い"
+      ],
+      "correctAnswer": "感情的な繋がり",
+      "explanation": "「emotional connection」は、感情的な繋がり、心の繋がりという意味です。LeonardがSheldonに、Amyとの感情的な繋がりを修復する努力をすべきだとアドバイスする際に使われています。"
+    },
+    {
+      "id": 49,
+      "value": "empty financial gesture",
+      "options": [
+        "無意味な出費",
+        "心のこもった贈り物",
+        "投資",
+        "節約"
+      ],
+      "correctAnswer": "無意味な出費",
+      "explanation": "「empty financial gesture」は、中身のない、心のこもっていない金銭的なジェスチャーという意味です。LeonardがSheldonに、金銭で愛情を取り戻そうとする行為を批判する際に使っています。"
+    },
+    {
+      "id": 50,
+      "value": "magic ring",
+      "options": [
+        "魔法の指輪",
+        "普通の指輪",
+        "婚約指輪",
+        "友情の証"
+      ],
+      "correctAnswer": "魔法の指輪",
+      "explanation": "「magic ring」は、ここでは結婚指輪のことを指し、HowardがBernadetteとの結婚生活でお金が消えていくことを冗談めかして表現する際に使っています。比喩的な表現です。"
+    },
+    {
+      "id": 51,
+      "value": "pipe down",
+      "options": [
+        "パイプを修理する",
+        "静かにする",
+        "タバコを吸う",
+        "音楽を演奏する"
+      ],
+      "correctAnswer": "静かにする",
+      "explanation": "「Pipe down」は、人に静かにするように言う時に使う口語的な表現です。騒がしい人に対して、黙ってくれ、静かにしてくれ、という意味で使われます。命令口調で、ややぞんざいなニュアンスを含むことがあります。\n\n例：Pipe down, you guys! I'm trying to concentrate. (おい、静かにしろよ！集中しようとしてるんだ。)"
+    },
+    {
+      "id": 52,
+      "value": "wax in your ears?",
+      "options": [
+        "耳掃除をしたか",
+        "耳にワックスを塗ったか",
+        "耳が聞こえないのか",
+        "耳に何か詰まっているのか"
+      ],
+      "correctAnswer": "耳が聞こえないのか",
+      "explanation": "「Do you have wax in your ears?」は、相手の言うことを理解していない、または聞く耳を持っていない時に使われる表現です。文字通りには「耳垢が詰まっているのか」という意味ですが、比喩的に「人の言うことを聞かないのか」「理解力がないのか」というニュアンスで使われます。"
+    },
+    {
+      "id": 53,
+      "value": "crotch is starting to curdle",
+      "options": [
+        "股間が温まってきた",
+        "股間が冷えてきた",
+        "股間がムズムズする",
+        "股間が腐りそうだ"
+      ],
+      "correctAnswer": "股間が腐りそうだ",
+      "explanation": "ここでは、おむつに入れたミルクが漏れて、股間が不快な状態になっていることを誇張して表現しています。「curdle」は、牛乳などが凝固する、腐るという意味で、ここでは不快感を強調するために使われています。比喩的な表現です。"
+    },
+    {
+      "id": 54,
+      "value": "snotty noses",
+      "options": [
+        "整った鼻",
+        "鼻の高い鼻",
+        "鼻炎の鼻",
+        "鼻水が出ている鼻"
+      ],
+      "correctAnswer": "鼻水が出ている鼻",
+      "explanation": "「snotty」は、鼻水が出ている、という意味の形容詞です。特に子供の鼻水が出ている状態を指すことが多いです。軽蔑的なニュアンスを含むこともあります。\n\n例：The child had a snotty nose and kept wiping it with his sleeve. (その子は鼻水が出ていて、袖で何度も拭いていた。)"
+    },
+    {
+      "id": 55,
+      "value": "poopy diapers",
+      "options": [
+        "高価なオムツ",
+        "濡れたオムツ",
+        "清潔なオムツ",
+        "うんちのついたオムツ"
+      ],
+      "correctAnswer": "うんちのついたオムツ",
+      "explanation": "「poopy」は、「poop（うんち）」という幼児語から派生した形容詞で、うんちがついている、うんちまみれの、という意味です。主に子供のおむつについて使われます。\n\n例：The baby had a poopy diaper, so I had to change it immediately. (赤ちゃんがうんちのおむつをしていたので、すぐに交換しなければならなかった。)"
+    },
+    {
+      "id": 56,
+      "value": "shrieky voices",
+      "options": [
+        "落ち着いた声",
+        "優しい声",
+        "高い声",
+        "金切り声"
+      ],
+      "correctAnswer": "金切り声",
+      "explanation": "「shrieky」は、「shriek（金切り声、悲鳴）」という単語から派生した形容詞で、金切り声のような、かん高い、という意味です。不快感や不快な音を強調する際に使われます。\n\n例：The children's shrieky voices made it difficult to concentrate. (子供たちの金切り声で集中するのが難しかった。)"
+    },
+    {
+      "id": 57,
+      "value": "kept me up all night",
+      "options": [
+        "一晩中起きていた",
+        "一晩中運動していた",
+        "一晩中眠っていた",
+        "一晩中応援していた"
+      ],
+      "correctAnswer": "一晩中起きていた",
+      "explanation": "「keep someone up」は、誰かを寝かせない、起こしておくという意味です。ここでは、子供が夜泣きなどで親を寝かせない状況を指しています。\n\n例：The baby kept me up all night with its crying. (赤ちゃんの泣き声で一晩中眠れなかった。)"
+    },
+    {
+      "id": 58,
+      "value": "I know what I sound like to you",
+      "options": [
+        "あなたの言うことが理解できる",
+        "あなたの言いたいことがわかる",
+        "あなたにとって自分がどう聞こえるかわかる",
+        "あなたの声が好きだ"
+      ],
+      "correctAnswer": "あなたにとって自分がどう聞こえるかわかる",
+      "explanation": "「I know what I sound like to you」は、相手に自分がどのように思われているか、自分の言葉や行動が相手にどのように感じられているかを理解している、という意味です。自己認識があることを示す表現です。"
+    },
+    {
+      "id": 59,
+      "value": "dressier version",
+      "options": [
+        "より新しいバージョン",
+        "より安いバージョン",
+        "よりカジュアルなバージョン",
+        "よりフォーマルなバージョン"
+      ],
+      "correctAnswer": "よりフォーマルなバージョン",
+      "explanation": "「dressier」は、「dressy」の比較級で、よりフォーマルな、よりおしゃれな、という意味です。普段使いではなく、特別な機会に適した服装やアクセサリーなどを指すことが多いです。\n\n例：She wore a dressier outfit to the party than she usually wore to work. (彼女は普段仕事に着ていくよりも、パーティーにはよりフォーマルな服装で参加した。)"
+    },
+    {
+      "id": 60,
+      "value": "snort derisively",
+      "options": [
+        "肯定的に鼻を鳴らす",
+        "嬉しそうに鼻を鳴らす",
+        "疑わしそうに鼻を鳴らす",
+        "馬鹿にするように鼻を鳴らす"
+      ],
+      "correctAnswer": "馬鹿にするように鼻を鳴らす",
+      "explanation": "「snort derisively」は、軽蔑や嘲笑の気持ちを表して鼻を鳴らす、という意味です。「derisively」は、軽蔑的に、嘲るように、という意味の副詞です。\n\n例：He snorted derisively at the suggestion. (彼はその提案を馬鹿にするように鼻で笑った。)"
+    },
+    {
+      "id": 61,
+      "value": "land a fella",
+      "options": [
+        "男性を殴る",
+        "男性を避ける",
+        "男性を理解する",
+        "男性を捕まえる、射止める"
+      ],
+      "correctAnswer": "男性を捕まえる、射止める",
+      "explanation": "「land a fella」は、口語的な表現で、男性を捕まえる、恋人にする、結婚するなど、恋愛関係を成功させるという意味です。「fella」は「fellow」のくだけた言い方で、男性、男の人を指します。\n\n例：She finally landed a fella who treats her right. (彼女はついに、彼女を大切にしてくれる男性を射止めた。)"
+    },
+    {
+      "id": 62,
+      "value": "in trouble with",
+      "options": [
+        "〜と仲が良い",
+        "〜と協力している",
+        "〜に詳しい",
+        "〜と揉めている"
+      ],
+      "correctAnswer": "〜と揉めている",
+      "explanation": "「in trouble with someone」は、誰かと問題やトラブルを抱えている、という意味です。主に人間関係における問題に使われます。\n\n例：He's in trouble with his boss for being late to work. (彼は仕事に遅刻したことで上司と揉めている。)"
+    },
+    {
+      "id": 63,
+      "value": "put someone through USC",
+      "options": [
+        "人をUSCから追い出す",
+        "人にUSCを紹介する",
+        "人のUSCでの生活を助ける",
+        "人のUSCの学費を出す"
+      ],
+      "correctAnswer": "人のUSCの学費を出す",
+      "explanation": "「put someone through college/university」は、誰かの大学の学費を出す、経済的に支援して卒業させる、という意味です。ここでは、娘のUSC（南カリフォルニア大学）の学費を稼ぐ、という意味で使われています。\n\n例：My parents worked hard to put me through college. (両親は私が大学を卒業できるよう一生懸命働いてくれた。)"
+    },
+    {
+      "id": 64,
+      "value": "channel set baguettes",
+      "options": [
+        "特別なパン",
+        "運河に設置された標識",
+        "宝石の配置方法",
+        "特定のテレビチャンネル"
+      ],
+      "correctAnswer": "宝石の配置方法",
+      "explanation": "「channel set baguettes」は、宝石のセッティング方法の一つで、細長い長方形の宝石（バゲットカット）を、金属の溝（チャネル）に沿って並べて固定する技法です。これにより、宝石が連なって見える美しいデザインになります。"
+    },
+    {
+      "id": 65,
+      "value": "plunk down",
+      "options": [
+        "計画する",
+        "急いで立ち去る",
+        "何かを拾う",
+        "お金を払う"
+      ],
+      "correctAnswer": "お金を払う",
+      "explanation": "「plunk down」は、お金をポンと出す、支払うという意味の口語的な表現です。特に、ためらいながら、または仕方なくお金を支払うニュアンスが含まれることがあります。\n\n例：I had to plunk down a lot of money for the car repair. (車の修理にたくさんのお金を払わなければならなかった。)"
+    },
+    {
+      "id": 66,
+      "value": "wrap my mind around it",
+      "options": [
+        "プレゼントを包む",
+        "理解する",
+        "忘れる",
+        "混乱する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「wrap my mind around something」は、何かを理解しようと努める、理解するのに苦労する、という意味のイディオムです。複雑なことや新しい概念を理解しようとする時に使われます。\n\n例：I'm having trouble wrapping my mind around this new concept. (この新しい概念を理解するのに苦労している。)"
+    },
+    {
+      "id": 67,
+      "value": "guiding a young boy into manhood",
+      "options": [
+        "少年を避ける",
+        "少年を困らせる",
+        "少年を無視する",
+        "少年を導き、大人にする"
+      ],
+      "correctAnswer": "少年を導き、大人にする",
+      "explanation": "「guide someone into manhood」は、少年を導いて大人にする、という意味です。人生経験や知識を教え、成長をサポートするニュアンスが含まれます。\n\n例：His father guided him into manhood, teaching him about responsibility and respect. (彼の父親は彼を導き、責任と尊敬について教え、大人にした。)"
+    },
+    {
+      "id": 68,
+      "value": "the love that dare not speak its name",
+      "options": [
+        "秘密の恋",
+        "禁じられた愛",
+        "友情",
+        "家族愛"
+      ],
+      "correctAnswer": "禁じられた愛",
+      "explanation": "「the love that dare not speak its name」は、かつて同性愛を婉曲的に表現するために使われた言葉です。現在では、タブー視される、公然と語ることがはばかられるような愛全般を指すことがあります。\n\n例：In those days, homosexuality was considered the love that dare not speak its name. (当時、同性愛は公然とは語れない愛だと考えられていた。)"
+    },
+    {
+      "id": 69,
+      "value": "feeling was mutual",
+      "options": [
+        "気持ちが一方通行だった",
+        "気持ちが伝わらなかった",
+        "気持ちが理解できなかった",
+        "気持ちが同じだった"
+      ],
+      "correctAnswer": "気持ちが同じだった",
+      "explanation": "「the feeling was mutual」は、気持ちが相互的である、双方が同じように感じている、という意味です。恋愛感情だけでなく、嫌悪感や不信感など、あらゆる感情について使われます。\n\n例：I didn't like him, and the feeling was mutual. (私は彼のことが好きではなかったし、それは彼も同じだった。)"
+    },
+    {
+      "id": 76,
+      "value": "deal breaker",
+      "options": [
+        "取引の成立",
+        "重要な問題",
+        "解決策",
+        "新しい趣味"
+      ],
+      "correctAnswer": "重要な問題",
+      "explanation": "「deal breaker」は、取引や関係において、それ以上交渉や関係を続けることが不可能になるほどの重大な問題点や条件を指します。譲歩できない点、または受け入れられない条件を意味します。\n\n例：His constant lying was a deal breaker for her. (彼の絶え間ない嘘は彼女にとって譲れない問題だった。)"
+    },
+    {
+      "id": 77,
+      "value": "on the other hand",
+      "options": [
+        "一方で",
+        "直接的に",
+        "最初から",
+        "最終的に"
+      ],
+      "correctAnswer": "一方で",
+      "explanation": "「on the other hand」は、ある事柄に対して別の視点や対照的な意見を提示する際に使われる表現です。前の意見や状況とは異なる側面を紹介する役割を果たします。\n\n例：I love summer, but on the other hand, the heat can be unbearable. (夏は大好きだが、一方で、暑さが耐え難いこともある。)"
+    },
+    {
+      "id": 78,
+      "value": "golden",
+      "options": [
+        "危険な状態",
+        "有利な状態",
+        "不明確な状態",
+        "絶望的な状態"
+      ],
+      "correctAnswer": "有利な状態",
+      "explanation": "この文脈での「golden」は、「有利な状況にある」「安全である」という意味で使われています。問題がない、心配する必要がないというニュアンスを含みます。\n\n例：With that investment, we're golden for the next few years. (その投資のおかげで、今後数年間は安泰だ。)"
+    },
+    {
+      "id": 79,
+      "value": "under what pretext",
+      "options": [
+        "どのような状況で",
+        "どのような理由で",
+        "どのような場所で",
+        "どのような目的で"
+      ],
+      "correctAnswer": "どのような理由で",
+      "explanation": "「under what pretext」は、「どのような口実で」「どのような名目で」という意味です。相手を欺く、または隠された意図を持って何かをする際に、表面的な理由を尋ねる時に使われます。\n\n例：Under what pretext did he invite her to the party? (彼はどんな口実で彼女をパーティーに誘ったの？)"
+    },
+    {
+      "id": 80,
+      "value": "hang out",
+      "options": [
+        "手伝う",
+        "出かける",
+        "ぶらぶらする",
+        "我慢する"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、特に目的もなく、リラックスして時間を過ごすことを意味する口語表現です。友人や知人と一緒に過ごす際によく使われます。\n\n例：We often hang out at the coffee shop after school. (私たちは放課後によくカフェでぶらぶらする。)"
+    },
+    {
+      "id": 81,
+      "value": "disappointed in",
+      "options": [
+        "満足している",
+        "興味がある",
+        "失望している",
+        "興奮している"
+      ],
+      "correctAnswer": "失望している",
+      "explanation": "「disappointed in」は、人やその人の行動、または何かの結果に対して失望を感じている状態を表します。期待外れだったり、期待に応えられなかったりした場合に使われます。\n\n例：I was disappointed in his behavior at the meeting. (彼の会議での振る舞いに失望した。)"
+    },
+    {
+      "id": 82,
+      "value": "shallow",
+      "options": [
+        "深い",
+        "浅い",
+        "広い",
+        "狭い"
+      ],
+      "correctAnswer": "浅い",
+      "explanation": "「shallow」は、人柄や思考が表面的で、深みや真剣さがないことを意味します。知識や理解が不足している場合にも使われます。\n\n例：He is a shallow person who only cares about appearances. (彼は外見ばかり気にする浅はかな人だ。)"
+    },
+    {
+      "id": 83,
+      "value": "self-centred",
+      "options": [
+        "自己中心的",
+        "思いやりがある",
+        "社交的",
+        "謙虚"
+      ],
+      "correctAnswer": "自己中心的",
+      "explanation": "「self-centred」は、自分のことばかり考えて他人のことを気にかけない、自己中心的な人を指します。自分の欲求や利益を最優先にする傾向があります。\n\n例：He is so self-centred that he never listens to anyone else. (彼はとても自己中心的で、他の人の言うことを全く聞かない。)"
+    },
+    {
+      "id": 84,
+      "value": "transparently",
+      "options": [
+        "不明瞭に",
+        "透明に",
+        "慎重に",
+        "秘密裏に"
+      ],
+      "correctAnswer": "透明に",
+      "explanation": "「transparently」は、行動や意図が明らかで、隠し事がない様子を表します。ここでは「見え透いた」という意味合いで、操作しようとする意図が明白であることを強調しています。\n\n例：He transparently tried to flatter his boss to get a promotion. (彼は昇進のために見え透いたお世辞を上司に言おうとした。)"
+    },
+    {
+      "id": 85,
+      "value": "slipped right by me",
+      "options": [
+        "私を避けた",
+        "私を通り過ぎた",
+        "私に気づかれずに通り過ぎた",
+        "私を無視した"
+      ],
+      "correctAnswer": "私に気づかれずに通り過ぎた",
+      "explanation": "「slip by」は、気づかれずに通り過ぎる、見過ごされるという意味です。「slip right by me」は、完全に気づかれずに通り過ぎたことを強調しています。\n\n例：The deadline slipped by me because I was so busy. (忙しすぎて締め切りがいつの間にか過ぎてしまった。)"
+    },
+    {
+      "id": 86,
+      "value": "hunting",
+      "options": [
+        "料理",
+        "旅行",
+        "仕事",
+        "狩り"
+      ],
+      "correctAnswer": "狩り",
+      "explanation": "この文脈では、比喩的に「hunting」が使われており、普段着ないような服装を着る機会、つまり特別な機会やイベントを指しています。\n\n例：We're going hunting for vintage clothes at the flea market this weekend. (週末はフリーマーケットに古着を探しに行く予定だ。)"
+    },
+    {
+      "id": 87,
+      "value": "mishegas",
+      "options": [
+        "伝統",
+        "幸運",
+        "狂気",
+        "平和"
+      ],
+      "correctAnswer": "狂気",
+      "explanation": "「mishegas」は、イディッシュ語由来の言葉で、狂気、愚かさ、ばかげた行為を意味します。ここでは、子供を産まないという考えに対する母親の過剰な反応を指して使われています。\n\n例：His latest business venture is complete mishegas. (彼の最新の事業は全くの狂気の沙汰だ。)"
+    },
+    {
+      "id": 88,
+      "value": "bring up",
+      "options": [
+        "育てる",
+        "持ち上げる",
+        "話題に出す",
+        "捨てる"
+      ],
+      "correctAnswer": "話題に出す",
+      "explanation": "「bring up」は、会話の中で特定の話題を持ち出す、言及するという意味です。特に、デリケートな話題や難しい問題を提起する際に使われます。\n\n例：I didn't want to bring up the subject of his divorce. (彼の離婚の話は持ち出したくなかった。)"
+    },
+    {
+      "id": 89,
+      "value": "shoulder to cry on",
+      "options": [
+        "頼れる人",
+        "秘密の場所",
+        "相談に乗る",
+        "悲しみを共有する人"
+      ],
+      "correctAnswer": "頼れる人",
+      "explanation": "「shoulder to cry on」は、悲しみや苦しみを抱える人が頼ることができる人、慰めてくれる人を指します。精神的な支えとなる存在です。\n\n例：She was always a shoulder to cry on when I was going through a tough time. (つらい時期を過ごしていたとき、彼女はいつも頼れる存在だった。)"
+    },
+    {
+      "id": 90,
+      "value": "way more money",
+      "options": [
+        "同額のお金",
+        "少しだけ多いお金",
+        "非常に多いお金",
+        "少ないお金"
+      ],
+      "correctAnswer": "非常に多いお金",
+      "explanation": "「way more」は「ずっと多い」「はるかに多い」という意味の口語表現です。ここでは、BernadetteがHowardよりもはるかに多くの収入を得ていることを強調しています。\n\n例：This car is way more expensive than I thought. (この車は思っていたよりずっと高い。)"
+    },
+    {
+      "id": 91,
+      "value": "stay home with the kids",
+      "options": [
+        "子供と外出する",
+        "子供を学校に送る",
+        "子供と家にいる",
+        "子供と遊ぶ"
+      ],
+      "correctAnswer": "子供と家にいる",
+      "explanation": "「stay home with the kids」は、子供たちの世話をするために家にいることを意味します。特に、専業主婦（夫）として育児に専念する状況を指します。\n\n例：She decided to stay home with the kids until they started school. (彼女は子供たちが学校に通い始めるまで家にいることに決めた。)"
+    },
+    {
+      "id": 92,
+      "value": "play dates",
+      "options": [
+        "スポーツの試合",
+        "ダンスパーティー",
+        "子供同士の遊び",
+        "デート"
+      ],
+      "correctAnswer": "子供同士の遊び",
+      "explanation": "「play date」は、親が計画して、子供たちが一緒に遊ぶために集まることを指します。社会性を育む目的で行われることが多いです。\n\n例：We're arranging a play date for our kids next week. (来週、子供たちのためにプレイデートを計画している。)"
+    },
+    {
+      "id": 93,
+      "value": "make-up sex",
+      "options": [
+        "仮装",
+        "化粧",
+        "仲直りのセックス",
+        "別れの言葉"
+      ],
+      "correctAnswer": "仲直りのセックス",
+      "explanation": "「make-up sex」は、口論や喧嘩の後に関係を修復するために行われるセックスを指します。感情的な緊張を解消し、親密さを取り戻す手段として用いられます。\n\n例：They had a big fight last night, but they made up with make-up sex. (彼らは昨夜大喧嘩したが、仲直りのセックスで仲直りした。)"
+    },
+    {
+      "id": 94,
+      "value": "dangle your hook",
+      "options": [
+        "フックを曲げる",
+        "フックを修理する",
+        "フックを投げる",
+        "フックをぶら下げる"
+      ],
+      "correctAnswer": "フックをぶら下げる",
+      "explanation": "「dangle your hook」は「hook(釣り針)」をぶら下げることを意味します。この文脈では、比喩的に「Bernadette」を釣り上げるために長年努力したHowardの姿を指しています。\n\n例：He dangled his hook for years before she finally agreed to go out with him. (彼女が最終的にデートに同意するまで、彼は何年も誘い続けた。)"
+    },
+    {
+      "id": 95,
+      "value": "call off",
+      "options": [
+        "電話する",
+        "訪問する",
+        "中止する",
+        "招待する"
+      ],
+      "correctAnswer": "中止する",
+      "explanation": "「call off」は、予定されていたイベントや計画を中止することを意味します。結婚式、会議、試合など、様々な状況で使われます。\n\n例：They had to call off the wedding due to unforeseen circumstances. (予期せぬ事態により、彼らは結婚式を中止せざるを得なかった。)"
+    },
+    {
+      "id": 96,
+      "value": "it'll kill her",
+      "options": [
+        "彼女を癒す",
+        "彼女を助ける",
+        "彼女を喜ばせる",
+        "彼女をひどく悲しませる"
+      ],
+      "correctAnswer": "彼女をひどく悲しませる",
+      "explanation": "「It'll kill her」は、文字通りには「それは彼女を殺すだろう」という意味ですが、ここでは比喩的に使われており、「彼女を非常に悲しませるだろう」「彼女を大きなショックを与えるだろう」という意味合いを持ちます。\n\n例：If he leaves her, it'll kill her. (もし彼が彼女を捨てたら、彼女はひどく悲しむだろう。)"
+    },
+    {
+      "id": 97,
+      "value": "don't want to",
+      "options": [
+        "したい",
+        "持っている",
+        "行きたい",
+        "したくない"
+      ],
+      "correctAnswer": "したくない",
+      "explanation": "「don't want to」は、何かをすることを望まない、したくないという気持ちを表します。シンプルな表現ですが、日常会話で頻繁に使われます。\n\n例：I don't want to go to the party. (私はパーティーに行きたくない。)"
+    },
+    {
+      "id": 98,
+      "value": "there's no guarantee",
+      "options": [
+        "保証がある",
+        "簡単な作業だ",
+        "保証がない",
+        "問題ない"
+      ],
+      "correctAnswer": "保証がない",
+      "explanation": "「there's no guarantee」は、何かが必ず起こるという保証はない、確実ではないという意味です。不確実性やリスクがあることを示唆する際に使われます。\n\n例：There's no guarantee that you will get the job. (あなたがその仕事を得られる保証はない。)"
+    },
+    {
+      "id": 99,
+      "value": "proud of",
+      "options": [
+        "怒っている",
+        "満足している",
+        "誇りに思っている",
+        "失望している"
+      ],
+      "correctAnswer": "誇りに思っている",
+      "explanation": "「proud of」は、人やその人の行動、成果を誇りに思っている状態を表します。尊敬や賞賛の気持ちを伝える際に使われます。\n\n例：I'm so proud of you for graduating. (卒業おめでとう、本当に誇りに思う。)"
+    },
+    {
+      "id": 100,
+      "value": "too much",
+      "options": [
+        "少なすぎる",
+        "完璧だ",
+        "多すぎる",
+        "普通だ"
+      ],
+      "correctAnswer": "多すぎる",
+      "explanation": "「too much」は、必要以上に多い、過剰であるという意味です。感情、量、行動など、様々な状況で使用できます。\n\n例：The price is too much for me. (その値段は私には高すぎる。)"
+    }
+  ]
+}

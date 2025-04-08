@@ -1,0 +1,988 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "flagtacular",
+      "options": [
+        "旗の祭典のような",
+        "旗の重要性",
+        "旗の歴史",
+        "旗のデザイン"
+      ],
+      "correctAnswer": "旗の祭典のような",
+      "explanation": "「flagtacular」は、'flag'（旗）と'spectacular'（壮観な、素晴らしい）を組み合わせた造語です。この文脈では、旗に関する番組の最終回を飾る、華やかで特別なエピソードであることを強調するために使われています。何かを強調する軽いジョークとして使われることがあります。"
+    },
+    {
+      "id": 2,
+      "value": "stand between",
+      "options": [
+        "邪魔をする",
+        "支持する",
+        "理解する",
+        "代表する"
+      ],
+      "correctAnswer": "邪魔をする",
+      "explanation": "「stand between」は、文字通りには「～の間に立つ」という意味ですが、ここでは「～を阻止する」「～の邪魔をする」という意味で使われています。Sheldonが、自身が番組を終わらせることで、視聴者が旗の知識を得るのを妨げることになるのではないかと心配しているニュアンスが含まれています。類似の表現としては、「get in the way of」があります。"
+    },
+    {
+      "id": 3,
+      "value": "jerks",
+      "options": [
+        "賢者たち",
+        "ばか者たち",
+        "友人たち",
+        "協力者たち"
+      ],
+      "correctAnswer": "ばか者たち",
+      "explanation": "「jerk」は、嫌なやつ、ばか、という意味を持つ軽蔑的な言葉です。ここでは、AmyがSheldonのインターネット番組のコメント欄に悪口を書く人たちを指して使っています。相手を侮辱する際に使われる口語的な表現です。よりフォーマルな場面では、「fool」や「idiot」などが使われます。"
+    },
+    {
+      "id": 4,
+      "value": "take our final lap",
+      "options": [
+        "最後の休憩を取る",
+        "最後の食事をする",
+        "最後の訪問をする",
+        "最後の仕上げをする"
+      ],
+      "correctAnswer": "最後の仕上げをする",
+      "explanation": "「take our final lap」は、レースの最後の周回を意味する表現で、ここでは番組の最終回を比喩的に表しています。「lap」は、競技場などの一周を意味し、それが「final」であることから、終わりに向かっている状況を示唆しています。同様の表現として、「final stretch」が挙げられます。"
+    },
+    {
+      "id": 5,
+      "value": "Stewards of Gondor",
+      "options": [
+        "ゴンドールの指導者たち",
+        "ゴンドールの案内人",
+        "ゴンドールの管理者",
+        "ゴンドールの英雄"
+      ],
+      "correctAnswer": "ゴンドールの管理者",
+      "explanation": "「Stewards of Gondor」は、J.R.R.トールキンのファンタジー小説『指輪物語』に登場するゴンドールの摂政のことです。王が不在の間、ゴンドールを統治する役割を担っていました。ここでは、白旗が歴史的、文化的な文脈で多様な意味を持つことの例として挙げられています。ファンタジー作品に精通していることが前提となる、やや高度な知識を要する表現です。"
+    },
+    {
+      "id": 6,
+      "value": "Minamoto clan",
+      "options": [
+        "源氏",
+        "平氏",
+        "藤原氏",
+        "織田氏"
+      ],
+      "correctAnswer": "源氏",
+      "explanation": "「Minamoto clan」は、日本の歴史における武家氏族の一つである源氏のことです。白旗が源氏の象徴であったことから、この文脈で言及されています。日本の歴史や文化に関する知識が求められる表現です。"
+    },
+    {
+      "id": 7,
+      "value": "outdated",
+      "options": [
+        "最新の",
+        "時代遅れの",
+        "重要な",
+        "興味深い"
+      ],
+      "correctAnswer": "時代遅れの",
+      "explanation": "「outdated」は、「時代遅れの」「旧式の」という意味です。ここでは、亡くなった教授の研究資料が古く、現在の学術的な価値がないことを指しています。科学や技術の分野では、新しい発見や理論によって古い情報がすぐに時代遅れになることがあります。"
+    },
+    {
+      "id": 8,
+      "value": "disproved",
+      "options": [
+        "証明された",
+        "反証された",
+        "議論された",
+        "無視された"
+      ],
+      "correctAnswer": "反証された",
+      "explanation": "「disproved」は、「反証された」「誤りが証明された」という意味です。教授の研究が、後の研究によって誤りであることが示されたことを意味します。科学的な議論や研究においては、理論や仮説が反証されることは珍しくありません。"
+    },
+    {
+      "id": 9,
+      "value": "bathing suit falls right off",
+      "options": [
+        "水着が新しく見える",
+        "水着がすぐに乾く",
+        "水着が脱げる",
+        "水着が色あせる"
+      ],
+      "correctAnswer": "水着が脱げる",
+      "explanation": "これは、古いジョークグッズである「pen kind」についての説明です。傾けると女性の水着が消えるようになっているペンのことを指しています。ここでは、Rajが子供っぽいユーモアで場を和ませようとしています。婉曲表現、比喩表現。"
+    },
+    {
+      "id": 10,
+      "value": "intense",
+      "options": [
+        "穏やかな",
+        "強烈な",
+        "退屈な",
+        "心地よい"
+      ],
+      "correctAnswer": "強烈な",
+      "explanation": "「intense」は、「強烈な」「激しい」「深刻な」という意味です。ここでは、教授が50年間も手紙を開けずにいたという事実に、Howardが強い感情を抱いていることを表しています。人の感情や状況が非常に強い場合に用いられます。"
+    },
+    {
+      "id": 11,
+      "value": "rookie of the year",
+      "options": [
+        "今年の新人",
+        "最優秀選手",
+        "最高のベテラン",
+        "注目のルーキー"
+      ],
+      "correctAnswer": "今年の新人",
+      "explanation": "「rookie of the year」は、特にスポーツやビジネスの世界で、その年に入ってきた新人の中で最も優れた成績を収めた人に贈られる称号です。ここでは、Pennyが製薬会社の営業担当者として成功を収めていることをDanが褒め称えています。"
+    },
+    {
+      "id": 12,
+      "value": "vicious",
+      "options": [
+        "優しい",
+        "意地悪な",
+        "勇敢な",
+        "賢い"
+      ],
+      "correctAnswer": "意地悪な",
+      "explanation": "「vicious」は、「意地悪な」「残酷な」「どう猛な」という意味です。ここでは、DanがBernadetteを冗談めかして評しており、彼女の競争心や強気な性格を強調しています。必ずしも深刻な意味ではなく、親しみを込めた表現として使われることもあります。"
+    },
+    {
+      "id": 13,
+      "value": "get past",
+      "options": [
+        "乗り越える",
+        "理解する",
+        "避ける",
+        "無視する"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get past」は、「～を乗り越える」「～を克服する」という意味です。ここでは、Bernadetteの少しきつい性格を乗り越えれば、彼女の良さが分かるとPennyが言っています。困難や障害を乗り越える際に使われる一般的な表現です。"
+    },
+    {
+      "id": 14,
+      "value": "shed a tear",
+      "options": [
+        "汗をかく",
+        "涙を流す",
+        "血を流す",
+        "笑顔を見せる"
+      ],
+      "correctAnswer": "涙を流す",
+      "explanation": "「shed a tear」は、「涙を流す」「感動する」という意味です。ここでは、番組の中で感動的な瞬間もあったことを述べています。感情が高ぶった時に使われる表現です。"
+    },
+    {
+      "id": 15,
+      "value": "spectacular",
+      "options": [
+        "地味な",
+        "壮大な",
+        "退屈な",
+        "平凡な"
+      ],
+      "correctAnswer": "壮大な",
+      "explanation": "「spectacular」は、「壮大な」「素晴らしい」「目覚ましい」という意味です。ここでは、7月4日を祝う特別な番組を指しています。イベントやショーなどが非常に印象的で素晴らしい場合に用いられます。"
+    },
+    {
+      "id": 16,
+      "value": "Crikey",
+      "options": [
+        "こんにちは",
+        "やあ",
+        "びっくり",
+        "さようなら"
+      ],
+      "correctAnswer": "びっくり",
+      "explanation": "「Crikey」は、オーストラリア英語で驚きや興奮を表す感嘆詞です。ここでは、Sheldonがオーストラリアの旗を紹介する際に、その文化に触れる意味で使用しています。オーストラリア英語に特有の表現です。"
+    },
+    {
+      "id": 17,
+      "value": "mate",
+      "options": [
+        "敵",
+        "友人",
+        "先生",
+        "家族"
+      ],
+      "correctAnswer": "友人",
+      "explanation": "「mate」は、オーストラリア英語やイギリス英語で「友人」「仲間」を意味する親しみを込めた言葉です。ここでは、Amyがオーストラリアの旗を紹介する際に、その文化に触れる意味で使用しています。特に男性同士で使われることが多いです。"
+    },
+    {
+      "id": 18,
+      "value": "speed round",
+      "options": [
+        "休憩時間",
+        "速度制限",
+        "準備運動",
+        "早押しクイズ"
+      ],
+      "correctAnswer": "早押しクイズ",
+      "explanation": "「speed round」は、ゲームやクイズ番組などで、短い時間で多くの問題に答える形式のことです。ここでは、旗に関するクイズをテンポよく行うコーナーを指しています。競争的な状況でよく使われる表現です。"
+    },
+    {
+      "id": 19,
+      "value": "balance a full-time career",
+      "options": [
+        "パートタイムの仕事に集中する",
+        "趣味に没頭する",
+        "休暇を楽しむ",
+        "フルタイムの仕事を両立する"
+      ],
+      "correctAnswer": "フルタイムの仕事を両立する",
+      "explanation": "「balance a full-time career」は、フルタイムの仕事と、他の活動や責任とのバランスを取ることを意味します。ここでは、Sheldonが仕事、趣味の番組、そしてガールフレンドとの関係のバランスを取るのが難しいと言っています。現代社会における仕事と私生活のバランスの重要性を示唆する表現です。"
+    },
+    {
+      "id": 20,
+      "value": "forgot to press record on",
+      "options": [
+        "録画ボタンを押すのを忘れた",
+        "再生ボタンを押すのを忘れた",
+        "一時停止ボタンを押すのを忘れた",
+        "電源ボタンを押すのを忘れた"
+      ],
+      "correctAnswer": "録画ボタンを押すのを忘れた",
+      "explanation": "「forgot to press record on」は、録画ボタンを押すのを忘れたという意味です。ここでは、AmyがSheldonの番組を録画する際に、録画ボタンを押し忘れてしまったことを指しています。うっかりミスを表現する際に使われる一般的な表現です。"
+    },
+    {
+      "id": 21,
+      "value": "all good things must come to an end",
+      "options": [
+        "すべての良いことは永遠に続く",
+        "すべての悪いことはすぐに終わる",
+        "すべての良いことには終わりがある",
+        "すべての悪いことには始まりがある"
+      ],
+      "correctAnswer": "すべての良いことには終わりがある",
+      "explanation": "「all good things must come to an end」は、良いことや楽しいことにはいつか終わりが来るという、一般的な格言です。ここでは、Sheldonが自身の番組が終わることを受け入れるために使っています。人生の儚さや変化を受け入れる姿勢を示す表現です。"
+    },
+    {
+      "id": 22,
+      "value": "cleaning out a dead professor’s office",
+      "options": [
+        "亡くなった教授の研究室を建設する",
+        "亡くなった教授の研究室を掃除する",
+        "亡くなった教授の研究室を訪問する",
+        "亡くなった教授の研究室を改装する"
+      ],
+      "correctAnswer": "亡くなった教授の研究室を掃除する",
+      "explanation": "「cleaning out a dead professor’s office」は、亡くなった教授の研究室を整理・清掃することを意味します。ここでは、Raj、Howard、Leonardが、亡くなった教授の遺品を整理している場面を描写しています。死後の整理という、少し感傷的な状況を表す表現です。"
+    },
+    {
+      "id": 23,
+      "value": "That’s rough",
+      "options": [
+        "それは簡単だ",
+        "それは大変だ",
+        "それは面白い",
+        "それは素晴らしい"
+      ],
+      "correctAnswer": "それは大変だ",
+      "explanation": "「That’s rough」は、同情や共感を表す表現で、「それはつらいね」「それは大変だね」という意味です。ここでは、家族がいない教授の状況に対して、Leonardが同情の気持ちを表しています。相手の苦境を理解し、寄り添う気持ちを示す際に使われます。"
+    },
+    {
+      "id": 24,
+      "value": "Makes you think",
+      "options": [
+        "考えさせられる",
+        "忘れさせる",
+        "笑わせる",
+        "泣かせる"
+      ],
+      "correctAnswer": "考えさせられる",
+      "explanation": "「Makes you think」は、「考えさせられる」「考え込む」という意味です。ここでは、Leonardが、人の一生や人生の意味について考えさせられていることを表しています。何かを見て、聞いて、または経験して、深く考えるきっかけになった時に使われます。"
+    },
+    {
+      "id": 25,
+      "value": "Dear Roger, to be opened upon your first great discovery",
+      "options": [
+        "ロジャーへ、最初の大きな発見の前に開封してください",
+        "ロジャーへ、最初の大きな発見の時に開封してください",
+        "ロジャーへ、最初の大きな発見の後に開封してください",
+        "ロジャーへ、最初の大きな発見を夢見て開封してください"
+      ],
+      "correctAnswer": "ロジャーへ、最初の大きな発見の時に開封してください",
+      "explanation": "これは、亡くなった教授に宛てられた手紙の一文で、「ロジャーへ、最初の大きな発見の時に開封してください」という意味です。母親からの愛情が込められた手紙ですが、教授がそれを開ける機会がなかったという悲しい事実を示しています。人の人生や夢、そして叶わなかった希望を象徴する表現です。"
+    },
+    {
+      "id": 26,
+      "value": "poppycock",
+      "options": [
+        "根拠のある事実",
+        "ばかげた話",
+        "重要な発見",
+        "歴史的な出来事"
+      ],
+      "correctAnswer": "ばかげた話",
+      "explanation": "「poppycock」は、ナンセンス、ばかげたこと、たわごとという意味で、軽蔑的なニュアンスで使用されます。信憑性がない、または重要でないと思われるアイデアや情報を指すのに使われます。\n\n例：His explanation for being late was pure poppycock. (彼が遅れた理由の説明は全くのたわごとだった。)"
+    },
+    {
+      "id": 27,
+      "value": "seamstress",
+      "options": [
+        "船乗り",
+        "漁師",
+        "洋裁師",
+        "医者"
+      ],
+      "correctAnswer": "洋裁師",
+      "explanation": "「seamstress」は、特に女性の洋裁師、縫い子を指す言葉です。衣服を縫ったり、修理したりする人を意味します。男性の場合は「seamster」と言うこともありますが、一般的ではありません。\n\n例：The seamstress altered the dress to fit perfectly. (洋裁師はドレスを完璧に合うように直した。)"
+    },
+    {
+      "id": 28,
+      "value": "fancy a dip",
+      "options": [
+        "昼寝をする",
+        "ひと泳ぎする",
+        "お茶を飲む",
+        "散歩に出かける"
+      ],
+      "correctAnswer": "ひと泳ぎする",
+      "explanation": "「fancy a dip」は、「swim」または「go for a swim」を意味する、やや古風で上品な言い方です。「dip」は、水に浸かる、ちょっと泳ぐというニュアンスがあります。\n\n例：After a long day, I fancy a dip in the pool. (長い一日の後、プールでひと泳ぎしたい。)"
+    },
+    {
+      "id": 29,
+      "value": "lifesaver",
+      "options": [
+        "救命胴衣",
+        "命の恩人",
+        "監視員",
+        "救急箱"
+      ],
+      "correctAnswer": "命の恩人",
+      "explanation": "「lifesaver」は、文字通りには人命救助者、救命具を意味しますが、比喩的には困難な状況から救ってくれる人や物を指します。非常に役立つもの、頼りになる存在というニュアンスがあります。\n\n例：This information was a real lifesaver for the project. (この情報はプロジェクトにとって本当に助けになった。)"
+    },
+    {
+      "id": 30,
+      "value": "get someone down",
+      "options": [
+        "元気づける",
+        "落ち込ませる",
+        "興奮させる",
+        "安心させる"
+      ],
+      "correctAnswer": "落ち込ませる",
+      "explanation": "「get someone down」は、人を落ち込ませる、気が滅入らせるという意味の句動詞です。ある出来事や状況が人の気分や精神状態に悪影響を与えることを指します。\n\n例：The bad news really got him down. (その悪い知らせは本当に彼を落ち込ませた。)"
+    },
+    {
+      "id": 31,
+      "value": "smarty-pants",
+      "options": [
+        "賢い人",
+        "お調子者",
+        "学者",
+        "知識をひけらかす人"
+      ],
+      "correctAnswer": "知識をひけらかす人",
+      "explanation": "「smarty-pants」は、賢ぶる人、知ったかぶりをする人を指す、やや軽蔑的な表現です。特に、相手をからかったり、冗談交じりに非難したりする際に使われます。\n\n例：Okay, smarty-pants, if you know so much, you do it. (わかった、知ったかぶり、そんなに知ってるなら、あなたがやってみなさい。)"
+    },
+    {
+      "id": 32,
+      "value": "breakthrough",
+      "options": [
+        "休憩時間",
+        "前進、躍進",
+        "崩壊",
+        "秘密"
+      ],
+      "correctAnswer": "前進、躍進",
+      "explanation": "「breakthrough」は、科学、医学、技術などの分野で、重要な進展や発見があったときに使われる言葉です。問題を解決したり、新たな可能性を開いたりするような、画期的な出来事を指します。\n\n例：Scientists have made a major breakthrough in cancer research. (科学者たちは、癌研究において大きな躍進を遂げた。)"
+    },
+    {
+      "id": 33,
+      "value": "pair with",
+      "options": [
+        "比較する",
+        "組み合わせる",
+        "分ける",
+        "無視する"
+      ],
+      "correctAnswer": "組み合わせる",
+      "explanation": "「pair with」は、食べ物や飲み物を互いに合うように組み合わせる、または関連付けるという意味です。特にワインや料理のマッチングについて話す際によく使われます。\n\n例：This wine pairs well with seafood. (このワインはシーフードとよく合う。)"
+    },
+    {
+      "id": 34,
+      "value": "discernible",
+      "options": [
+        "識別可能な",
+        "隠された",
+        "架空の",
+        "無関係の"
+      ],
+      "correctAnswer": "識別可能な",
+      "explanation": "「discernible」は、認識できる、識別できるという意味です。感覚や知性によって明確に区別できる、または理解できることを指します。\n\n例：There was no discernible difference between the two products. (その二つの製品には識別できる違いはなかった。)"
+    },
+    {
+      "id": 35,
+      "value": "regression",
+      "options": [
+        "進行",
+        "後退",
+        "抑圧",
+        "転換"
+      ],
+      "correctAnswer": "後退",
+      "explanation": "「regression」は、統計学や数学の分野で、変数間の関係を分析する際に用いられる手法を指します。特に、「回帰分析」として知られています。\n\n例：We used multiple regression to analyze the relationship between income and education. (所得と教育の関係を分析するために重回帰分析を用いた。)"
+    },
+    {
+      "id": 36,
+      "value": "cryptanalysis",
+      "options": [
+        "暗号作成",
+        "暗号解読",
+        "データ分析",
+        "情報収集"
+      ],
+      "correctAnswer": "暗号解読",
+      "explanation": "「cryptanalysis」は、暗号解読、つまり暗号化された情報を解読する方法や技術の研究を指します。セキュリティ分野で重要な役割を果たします。\n\n例：Cryptanalysis is essential for breaking encrypted messages. (暗号解読は暗号化されたメッセージを解読するために不可欠だ。)"
+    },
+    {
+      "id": 37,
+      "value": "wuss",
+      "options": [
+        "勇敢な人",
+        "臆病者",
+        "賢者",
+        "怠け者"
+      ],
+      "correctAnswer": "臆病者",
+      "explanation": "「wuss」は、臆病者、弱虫という意味のスラングです。軽蔑的なニュアンスで使用され、勇気がない人を指します。\n\n例：Don't be such a wuss; just try it. (そんなに弱虫にならないで、とにかくやってみて。)"
+    },
+    {
+      "id": 38,
+      "value": "come off",
+      "options": [
+        "成功する",
+        "出発する",
+        "～のような印象を与える",
+        "終わる"
+      ],
+      "correctAnswer": "～のような印象を与える",
+      "explanation": "「come off」は、特定の方法で他人から認識される、または印象を与えるという意味の句動詞です。\n\n例：He came off as arrogant. (彼は傲慢な印象を与えた。)"
+    },
+    {
+      "id": 39,
+      "value": "in honor of",
+      "options": [
+        "～の代わりに",
+        "～を記念して",
+        "～の責任で",
+        "～に反対して"
+      ],
+      "correctAnswer": "～を記念して",
+      "explanation": "「in honor of」は、～を記念して、～に敬意を表してという意味の句です。特別なイベントや人物を称える際に使用されます。\n\n例：We held a dinner in honor of the retiring professor. (退職する教授を記念して夕食会を開いた。)"
+    },
+    {
+      "id": 40,
+      "value": "loving tribute",
+      "options": [
+        "批判的な評価",
+        "愛情のこもった賛辞",
+        "公式な声明",
+        "個人的な意見"
+      ],
+      "correctAnswer": "愛情のこもった賛辞",
+      "explanation": "「loving tribute」は、愛情のこもった賛辞、敬意を表する行為という意味です。尊敬や感謝の気持ちを込めて何かを表現する際に用いられます。\n\n例：The film is a loving tribute to the director's father. (その映画は監督の父への愛情のこもった賛辞である。)"
+    },
+    {
+      "id": 51,
+      "value": "pulling up your pants",
+      "options": [
+        "ズボンを脱いでいる",
+        "ズボンを上げている",
+        "ズボンを忘れている",
+        "ズボンを売っている"
+      ],
+      "correctAnswer": "ズボンを上げている",
+      "explanation": "このフレーズは、ここでは「（本物の）ドアマンではない」ということを強調するために使われています。ドアマンはきちんとした制服を着ているべきで、だらしない格好でズボンを上げているような人物はドアマンらしくない、というニュアンスです。"
+    },
+    {
+      "id": 52,
+      "value": "Any chance",
+      "options": [
+        "機会がない",
+        "絶対にない",
+        "可能性があるか",
+        "問題ない"
+      ],
+      "correctAnswer": "可能性があるか",
+      "explanation": "「Any chance...?」は、「～する可能性はありますか？」という意味で、相手に何かを尋ねる際に使われる丁寧な表現です。ここでは、教授が数字の羅列について何か知っている可能性があるかを尋ねています。"
+    },
+    {
+      "id": 53,
+      "value": "perturbation",
+      "options": [
+        "平穏",
+        "混乱",
+        "安定",
+        "調和"
+      ],
+      "correctAnswer": "混乱",
+      "explanation": "「perturbation」は、天文学では「摂動」という意味で、天体の軌道に影響を与える小さな変化や乱れを指します。ここでは、遠い銀河の角度の乱れを意味しています。"
+    },
+    {
+      "id": 54,
+      "value": "On the bright side",
+      "options": [
+        "明るい場所で",
+        "良い面を見れば",
+        "太陽の下で",
+        "輝かしい未来"
+      ],
+      "correctAnswer": "良い面を見れば",
+      "explanation": "「On the bright side」は、「良い面を見れば」「都合の良いことに」という意味のイディオムです。悪い状況や残念な出来事があったときに、慰めや希望を与えるために使われます。"
+    },
+    {
+      "id": 55,
+      "value": "amounted to anything",
+      "options": [
+        "何かに等しい",
+        "莫大な金額になる",
+        "意味をなす",
+        "重要である"
+      ],
+      "correctAnswer": "意味をなす",
+      "explanation": "「amount to something」は、「（最終的に）意味をなす」「価値があるものになる」という意味です。否定形で使われる場合は、「無駄に終わる」「何の意味もなさない」という意味になります。"
+    },
+    {
+      "id": 56,
+      "value": "frugal",
+      "options": [
+        "倹約家",
+        "浪費家",
+        "正直者",
+        "嘘つき"
+      ],
+      "correctAnswer": "倹約家",
+      "explanation": "「frugal」は、「質素な」「倹約的な」という意味です。お金や資源を無駄にせず、慎ましく使うことを指します。"
+    },
+    {
+      "id": 57,
+      "value": "come off",
+      "options": [
+        "出発する",
+        "印象を与える",
+        "成功する",
+        "失敗する"
+      ],
+      "correctAnswer": "印象を与える",
+      "explanation": "「come off」は、ここでは「（人に）～という印象を与える」という意味です。行動や言動がどのように他人から見られるかを表します。"
+    },
+    {
+      "id": 58,
+      "value": "take crap from",
+      "options": [
+        "ゴミを拾う",
+        "耐える",
+        "我慢しない",
+        "無視する"
+      ],
+      "correctAnswer": "我慢しない",
+      "explanation": "「take crap from someone」は、「～から不当な扱いを受ける」「～にこけにされる」という意味のスラングです。ここでは、人に馬鹿にされたり、不当な扱いを受けたりするのを許さない、という意味合いで使われています。"
+    },
+    {
+      "id": 59,
+      "value": "saggy",
+      "options": [
+        "たるんだ",
+        "ぴったりの",
+        "新品の",
+        "高価な"
+      ],
+      "correctAnswer": "たるんだ",
+      "explanation": "「saggy」は、「たるんだ」「ぶら下がった」という意味です。ここでは、パンツの見た目を形容するために使われています。"
+    },
+    {
+      "id": 60,
+      "value": "self-conscious",
+      "options": [
+        "自信満々",
+        "自意識過剰",
+        "無頓着",
+        "楽天家"
+      ],
+      "correctAnswer": "自意識過剰",
+      "explanation": "「self-conscious」は、「自意識過剰な」「人目を気にする」という意味です。自分の外見や行動が他人からどう見られているかを過剰に気にする状態を表します。"
+    },
+    {
+      "id": 61,
+      "value": "intimidated",
+      "options": [
+        "興奮している",
+        "脅えている",
+        "安心している",
+        "満足している"
+      ],
+      "correctAnswer": "脅えている",
+      "explanation": "「intimidated」は、「脅かされた」「怖気づいた」という意味です。ここでは、バーナデットの強気な性格に周りの人が圧力を感じている状態を表しています。"
+    },
+    {
+      "id": 62,
+      "value": "flag-keteers",
+      "options": [
+        "旗を作る人",
+        "旗を愛する人",
+        "旗を売る人",
+        "旗を盗む人"
+      ],
+      "correctAnswer": "旗を愛する人",
+      "explanation": "この単語は、「flag（旗）」と「musketeers（銃士）」を組み合わせたSheldonの造語です。旗を愛する人、旗の番組の視聴者を指す、ユーモラスな表現です。"
+    },
+    {
+      "id": 63,
+      "value": "run up a flagpole",
+      "options": [
+        "旗を高く掲げる",
+        "旗を燃やす",
+        "旗を隠す",
+        "旗を修理する"
+      ],
+      "correctAnswer": "旗を高く掲げる",
+      "explanation": "「run up a flagpole」は、文字通りには「旗竿に旗を掲げる」という意味ですが、ここでは、視聴者への感謝の気持ちをユーモラスに表現するために使われています。"
+    },
+    {
+      "id": 64,
+      "value": "info-tainment",
+      "options": [
+        "情報隠蔽",
+        "情報操作",
+        "情報娯楽",
+        "情報漏洩"
+      ],
+      "correctAnswer": "情報娯楽",
+      "explanation": "「infotainment」は、「information（情報）」と「entertainment（娯楽）」を組み合わせた言葉で、教育的または情報的な内容を娯楽の形で提供する番組やコンテンツを指します。"
+    },
+    {
+      "id": 65,
+      "value": "glass ceiling",
+      "options": [
+        "ガラスの天井",
+        "ガラスの壁",
+        "ガラスの床",
+        "ガラスの家"
+      ],
+      "correctAnswer": "ガラスの天井",
+      "explanation": "「glass ceiling」は、「ガラスの天井」という意味で、組織内で女性やマイノリティが出世するのを阻む、目に見えない障壁を指します。"
+    },
+    {
+      "id": 66,
+      "value": "one crazy ride",
+      "options": [
+        "簡単な道のり",
+        "楽しい旅",
+        "苦難の道のり",
+        "退屈な日々"
+      ],
+      "correctAnswer": "苦難の道のり",
+      "explanation": "「one crazy ride」は、「クレイジーな道のり」という意味で、ここでは、番組制作の経験が予測不可能で、刺激的なものであったことを表しています。"
+    },
+    {
+      "id": 67,
+      "value": "sign off",
+      "options": [
+        "サインを求める",
+        "別れを告げる",
+        "署名する",
+        "契約する"
+      ],
+      "correctAnswer": "別れを告げる",
+      "explanation": "「sign off」は、「（放送などが）終わる」「（手紙などを）締めくくる」という意味です。ここでは、番組の最後に視聴者に向けて別れを告げることを意味します。"
+    },
+    {
+      "id": 68,
+      "value": "framed",
+      "options": [
+        "飾られた",
+        "陥れられた",
+        "組み立てられた",
+        "設計された"
+      ],
+      "correctAnswer": "陥れられた",
+      "explanation": "「frame」は、ここでは「（人に罪を）着せる」「陥れる」という意味です。誰かが無実の人を犯罪者に見せかけるために証拠を捏造する行為を指します。"
+    },
+    {
+      "id": 69,
+      "value": "amount to nothing",
+      "options": [
+        "何かに等しい",
+        "莫大な金額になる",
+        "無意味",
+        "有意義"
+      ],
+      "correctAnswer": "無意味",
+      "explanation": "「amount to nothing」は、「結局何も意味しない」「無駄に終わる」という意味です。ここでは、ロジャー・アボットの人生が、成果を上げられずに終わったことを表しています。"
+    },
+    {
+      "id": 70,
+      "value": "make up life",
+      "options": [
+        "人生を台無しにする",
+        "人生を豊かにする",
+        "人生を構成する",
+        "人生を終わらせる"
+      ],
+      "correctAnswer": "人生を構成する",
+      "explanation": "「make up」は、「構成する」「作り上げる」という意味です。ここでは、人生を構成する小さな瞬間や出来事を指しています。"
+    },
+    {
+      "id": 71,
+      "value": "I'm covered",
+      "options": [
+        "私は大丈夫",
+        "私は隠れている",
+        "私は覆われている",
+        "私は保険に入っている"
+      ],
+      "correctAnswer": "私は大丈夫",
+      "explanation": "「I'm covered」は、「私は大丈夫」「私はもう十分な実績がある」という意味合いで使われています。ハワードは宇宙に行ったという実績があるので、これ以上大きな成果を上げる必要はない、というニュアンスです。"
+    },
+    {
+      "id": 72,
+      "value": "pact",
+      "options": [
+        "契約",
+        "喧嘩",
+        "法律",
+        "嘘"
+      ],
+      "correctAnswer": "契約",
+      "explanation": "「pact」は、「協定」「契約」という意味です。ここでは、レナード、ハワード、ラージが、将来の成功を祝うための約束をすることを指します。"
+    },
+    {
+      "id": 73,
+      "value": "breakthrough",
+      "options": [
+        "休憩",
+        "崩壊",
+        "躍進",
+        "後退"
+      ],
+      "correctAnswer": "躍進",
+      "explanation": "「breakthrough」は、「画期的な進展」「躍進」という意味です。ここでは、科学研究における大きな発見や成果を指します。"
+    },
+    {
+      "id": 74,
+      "value": "toasting",
+      "options": [
+        "トーストを焼く",
+        "祝杯をあげる",
+        "乾杯する",
+        "批判する"
+      ],
+      "correctAnswer": "祝杯をあげる",
+      "explanation": "「toasting」は、「乾杯する」「祝杯をあげる」という意味です。成功や良い出来事を祝って、飲み物を掲げて祝福する行為を指します。"
+    },
+    {
+      "id": 75,
+      "value": "rubbing our success in Sheldon’s face",
+      "options": [
+        "成功を隠す",
+        "成功を分かち合う",
+        "成功を自慢する",
+        "成功を忘れる"
+      ],
+      "correctAnswer": "成功を自慢する",
+      "explanation": "「rub something in someone's face」は、「～を（人の）鼻にかけて自慢する」「～で（人を）困らせる」という意味のイディオムです。ここでは、シェルドンに自分たちの成功をわざと見せつけて、からかうことを意味します。"
+    },
+    {
+      "id": 76,
+      "value": "go ahead",
+      "options": [
+        "急いで",
+        "進んで",
+        "立ち去って",
+        "忘れて"
+      ],
+      "correctAnswer": "進んで",
+      "explanation": "「go ahead」は、「どうぞ」「続けてください」という意味で、許可や承諾を表す際に使われます。相手に何かをすることを許可したり、促したりする場面でよく用いられます。\n\n例：Go ahead, start the meeting. (どうぞ、会議を始めてください。)"
+    },
+    {
+      "id": 77,
+      "value": "mean to",
+      "options": [
+        "意味する",
+        "つもりである",
+        "反対する",
+        "提案する"
+      ],
+      "correctAnswer": "つもりである",
+      "explanation": "「mean to」は、「～するつもりである」という意味で、意図や計画を表す際に使われます。しばしば「didn't mean to」のように否定形で使われ、意図せずにある行動をしてしまったことを表します。\n\n例：I didn't mean to hurt your feelings. (あなたの気持ちを傷つけるつもりはありませんでした。)"
+    },
+    {
+      "id": 78,
+      "value": "scared of",
+      "options": [
+        "得意な",
+        "興味がある",
+        "恐れている",
+        "満足している"
+      ],
+      "correctAnswer": "恐れている",
+      "explanation": "「scared of」は、「～を恐れている」という意味で、恐怖や不安を表す際に使われます。特定の物事や状況に対して恐怖を感じる状態を表します。\n\n例：She's scared of spiders. (彼女はクモを恐れています。)"
+    },
+    {
+      "id": 79,
+      "value": "walking on eggshells",
+      "options": [
+        "リラックスしている",
+        "非常に慎重に行動する",
+        "急いでいる",
+        "怠けている"
+      ],
+      "correctAnswer": "非常に慎重に行動する",
+      "explanation": "「walking on eggshells」は、「非常に慎重に行動する」という意味のイディオムです。誰かを怒らせたり、不快にさせたりしないように、非常に注意深く行動することを指します。繊細な状況や、相手の機嫌を損ねやすい場合に用いられます。\n\n例：I feel like I'm always walking on eggshells around my boss. (私はいつも上司の周りで非常に慎重に行動しているように感じます。)"
+    },
+    {
+      "id": 80,
+      "value": "meaning to",
+      "options": [
+        "～する予定である",
+        "～しないつもりだ",
+        "～するのを避ける",
+        "～するのを後悔する"
+      ],
+      "correctAnswer": "～する予定である",
+      "explanation": "「be meaning to」は、「～するつもりでいる」という意味で、近い将来に何かをする計画や意図があることを示します。\n\n例: I've been meaning to call you all week. (一週間ずっとあなたに電話しようと思っていました。)"
+    },
+    {
+      "id": 81,
+      "value": "worked out",
+      "options": [
+        "解決した",
+        "失敗した",
+        "計画された",
+        "無視された"
+      ],
+      "correctAnswer": "解決した",
+      "explanation": "「work out」は、「うまくいく」「解決する」という意味で、問題や困難な状況が最終的に良い結果になることを表します。また、計画や計算がうまくいく場合にも使われます。\n\n例：Everything will work out in the end. (最終的にはすべてうまくいくでしょう。)"
+    },
+    {
+      "id": 82,
+      "value": "kidding",
+      "options": [
+        "冗談を言っている",
+        "怒っている",
+        "悲しんでいる",
+        "真剣に考えている"
+      ],
+      "correctAnswer": "冗談を言っている",
+      "explanation": "「kidding」は、「冗談を言っている」という意味で、相手の発言や状況に対して驚きや疑いを表す際に使われます。相手が本気ではないことを示唆するニュアンスがあります。\n\n例：You're kidding, right? (冗談でしょ？)"
+    },
+    {
+      "id": 83,
+      "value": "monster",
+      "options": [
+        "英雄",
+        "怪物",
+        "天使",
+        "友人"
+      ],
+      "correctAnswer": "怪物",
+      "explanation": "この文脈での「monster」は、自分が他人にとってひどい存在、つまり「怪物」のような存在だと感じていることを表します。自己嫌悪や罪悪感を伴う感情を強調する言葉として使われます。\n\n例：I feel like a monster for what I did. (自分がしたことで、まるで怪物のように感じる。)"
+    },
+    {
+      "id": 84,
+      "value": "land on",
+      "options": [
+        "出発する",
+        "到着する",
+        "決定する",
+        "迷う"
+      ],
+      "correctAnswer": "決定する",
+      "explanation": "「land on」は、「最終的に～に落ち着く」「～に決定する」という意味で、議論や検討の結果、最終的な結論や合意に達することを表します。\n\n例：Where did we land on the budget? (予算についてはどこで決定しましたか？)"
+    },
+    {
+      "id": 85,
+      "value": "How come",
+      "options": [
+        "どうやって",
+        "なぜ",
+        "いつ",
+        "どこで"
+      ],
+      "correctAnswer": "なぜ",
+      "explanation": "「How come」は、「なぜ」という意味で、理由や原因を尋ねる際に使われます。口語的な表現で、カジュアルな会話でよく用いられます。\n\n例：How come you're so late? (なぜそんなに遅れたのですか？)"
+    },
+    {
+      "id": 86,
+      "value": "care enough",
+      "options": [
+        "十分に気にかける",
+        "全く気にしない",
+        "少しだけ気にする",
+        "気にしすぎる"
+      ],
+      "correctAnswer": "十分に気にかける",
+      "explanation": "「care enough」は、「十分に気にかける」「関心を持つ」という意味で、ある物事に対して十分な関心や注意を払うことを表します。否定形「not care enough」は、十分な関心がないことを意味します。\n\n例：I don't care enough to argue about it. (それについて議論するほど関心がない。)"
+    },
+    {
+      "id": 87,
+      "value": "throwing out",
+      "options": [
+        "片付ける",
+        "捨てる",
+        "隠す",
+        "修理する"
+      ],
+      "correctAnswer": "捨てる",
+      "explanation": "「throw out」は、「捨てる」という意味で、不要な物や価値のない物を処分することを表します。また、比喩的に、計画やアイデアなどを放棄する場合にも使われます。\n\n例：I had to throw out the spoiled food. (腐った食べ物を捨てなければならなかった。)"
+    },
+    {
+      "id": 88,
+      "value": "get me",
+      "options": [
+        "理解する",
+        "捕まえる",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get me」は、「私を理解する」という意味で、相手が自分の気持ちや考えを理解していることを表します。共感や理解を求める際に使われます。\n\n例：You really get me. (あなたは本当に私を理解してくれる。)"
+    },
+    {
+      "id": 89,
+      "value": "take away from",
+      "options": [
+        "追加する",
+        "取り除く",
+        "与える",
+        "隠す"
+      ],
+      "correctAnswer": "取り除く",
+      "explanation": "「take away from」は、「～から奪う」「～から取り除く」という意味で、価値や重要性などを減少させることを表します。また、楽しみや喜びなどを奪う場合にも使われます。\n\n例：Don't take away from my happiness. (私の幸せを奪わないで。)"
+    },
+    {
+      "id": 90,
+      "value": "coming",
+      "options": [
+        "来ている",
+        "去る",
+        "隠れる",
+        "終わる"
+      ],
+      "correctAnswer": "来ている",
+      "explanation": "この文脈では、「coming」は「起こるのがわかっていた」という意味で使われています。予想されていたことが実際に起こることを表します。\n\n例：I knew it was coming. (それが起こるのがわかっていた。)"
+    },
+    {
+      "id": 91,
+      "value": "premise",
+      "options": [
+        "結論",
+        "前提",
+        "証拠",
+        "影響"
+      ],
+      "correctAnswer": "前提",
+      "explanation": "「premise」は、「前提」「根拠」という意味で、議論や理論の基礎となる仮定や前提条件を表します。論理的な思考や議論において重要な要素です。\n\n例：The premise of his argument is flawed. (彼の議論の前提は欠陥がある。)"
+    },
+    {
+      "id": 92,
+      "value": "at least",
+      "options": [
+        "少なくとも",
+        "せいぜい",
+        "絶対に",
+        "最大で"
+      ],
+      "correctAnswer": "少なくとも",
+      "explanation": "「at least」は、「少なくとも」という意味で、最低限の条件や譲歩を表す際に使われます。他の選択肢や可能性と比較して、最低限これだけはというニュアンスがあります。\n\n例：At least I tried. (少なくとも私は試した。)"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "superfluid",
+      "options": [
+        "非常に速い流れ",
+        "非常に粘性の高い液体",
+        "摩擦ゼロで流れる液体",
+        "非常に冷たい固体"
+      ],
+      "correctAnswer": "摩擦ゼロで流れる液体",
+      "explanation": "「superfluid」は、超流動体のこと。特定の物質が非常に低い温度で示す、粘性（摩擦）がゼロになる状態を指します。この状態では、液体は抵抗なく流れ、特異な現象を示します。"
+    },
+    {
+      "id": 2,
+      "value": "creep up",
+      "options": [
+        "急速に成長する",
+        "ゆっくりと忍び寄る",
+        "突然崩れる",
+        "隠れてしまう"
+      ],
+      "correctAnswer": "ゆっくりと忍び寄る",
+      "explanation": "「creep up」は、ゆっくりと、気づかれないように近づく、または増加するという意味です。この文脈では、超流動体が容器の側面をゆっくりと這い上がる様子を表しています。比喩的にも、何かが徐々に進行する様子に使われます。"
+    },
+    {
+      "id": 3,
+      "value": "lunatic",
+      "options": [
+        "賢者",
+        "狂人",
+        "科学者",
+        "芸術家"
+      ],
+      "correctAnswer": "狂人",
+      "explanation": "「lunatic」は、狂人、正気でない人を指す言葉です。ここでは、Sheldonの奇行を強調するために使われています。元々は月の影響で精神状態が変化すると信じられていたことに由来します。"
+    },
+    {
+      "id": 4,
+      "value": "for nothing",
+      "options": [
+        "無料で",
+        "無駄に",
+        "当然のこととして",
+        "特別に"
+      ],
+      "correctAnswer": "無駄に",
+      "explanation": "「for nothing」は、無駄に、何の意味もなくという意味です。この文脈では、Pennyが超流動ヘリウムについてメモを取ったのは無駄ではなかった、つまり関心を持って聞いているということを強調しています。"
+    },
+    {
+      "id": 5,
+      "value": "surface tension",
+      "options": [
+        "表面張力",
+        "重力",
+        "空気抵抗",
+        "摩擦力"
+      ],
+      "correctAnswer": "表面張力",
+      "explanation": "「surface tension」は、表面張力のこと。液体の表面が収縮しようとする性質を指します。水滴が丸くなるのは表面張力によるものです。物理学の専門用語ですが、日常会話でも比喩的に使われることがあります。"
+    },
+    {
+      "id": 6,
+      "value": "dramatic effect",
+      "options": [
+        "劇的な効果",
+        "視覚効果",
+        "聴覚効果",
+        "特別な才能"
+      ],
+      "correctAnswer": "劇的な効果",
+      "explanation": "「dramatic effect」は、劇的な効果、聴衆や読者の感情を強く揺さぶるような効果のことです。ここでは、LeonardがPennyに説明する際に、その効果を狙って一時停止していることをPennyが指摘しています。"
+    },
+    {
+      "id": 7,
+      "value": "negative-energy density",
+      "options": [
+        "負のエネルギー密度",
+        "正のエネルギー密度",
+        "ゼロエネルギー密度",
+        "無限エネルギー密度"
+      ],
+      "correctAnswer": "負のエネルギー密度",
+      "explanation": "「negative-energy density」は、負のエネルギー密度。物理学の概念で、通常のエネルギー密度が正の値であるのに対し、負の値を持つ状態を指します。宇宙論や量子力学で議論されることがあります。"
+    },
+    {
+      "id": 8,
+      "value": "reek of",
+      "options": [
+        "～の匂いがする",
+        "～を掃除する",
+        "～を修理する",
+        "～を食べる"
+      ],
+      "correctAnswer": "～の匂いがする",
+      "explanation": "「reek of」は、～の匂いがするという意味ですが、不快な臭いに対して使われることが多いです。比喩的には、何か不快な感じや疑わしい雰囲気があることを表すこともあります。"
+    },
+    {
+      "id": 9,
+      "value": "on to something",
+      "options": [
+        "何かを終える",
+        "何かを知らない",
+        "何かに取り組む",
+        "何かを発見する兆しがある"
+      ],
+      "correctAnswer": "何かを発見する兆しがある",
+      "explanation": "「on to something」は、何か重要なことや価値のあることを発見する兆しがある、という意味です。ここでは、Leonardのアイデアが有望であることをSheldonが認めています。"
+    },
+    {
+      "id": 10,
+      "value": "messing with",
+      "options": [
+        "～を修理する",
+        "～をからかう",
+        "～を助ける",
+        "～を無視する"
+      ],
+      "correctAnswer": "～をからかう",
+      "explanation": "「messing with」は、～をからかう、いたずらをするという意味です。ここでは、SheldonがLeonardをからかっているのではないかとLeonardが疑っています。"
+    },
+    {
+      "id": 11,
+      "value": "back off",
+      "options": [
+        "前に進む",
+        "後退する",
+        "あきらめる",
+        "参加する"
+      ],
+      "correctAnswer": "後退する",
+      "explanation": "「back off」は、後退する、手を引く、干渉しないという意味です。ここでは、LeonardがステッカーをSheldonから守ろうとして言っています。"
+    },
+    {
+      "id": 12,
+      "value": "sophomore slump",
+      "options": [
+        "大学2年生の不振",
+        "大学1年生の成功",
+        "大学3年生の成長",
+        "大学4年生の卒業"
+      ],
+      "correctAnswer": "大学2年生の不振",
+      "explanation": "「sophomore slump」は、大学2年生の不振。最初の成功の後、一時的に成績やパフォーマンスが低下する現象を指します。ここでは、Leonardの興奮が冷めていることをSheldonがからかっています。"
+    },
+    {
+      "id": 13,
+      "value": "work out",
+      "options": [
+        "運動する",
+        "解決する",
+        "計算する",
+        "成功する"
+      ],
+      "correctAnswer": "計算する",
+      "explanation": "「work out」は、ここでは計算するという意味ですが、他にも運動する、解決する、うまくいくなど、様々な意味があります。文脈によって意味を判断する必要があります。"
+    },
+    {
+      "id": 14,
+      "value": "Easy-Bake oven",
+      "options": [
+        "電子レンジ",
+        "オーブントースター",
+        "子供用のおもちゃのオーブン",
+        "業務用オーブン"
+      ],
+      "correctAnswer": "子供用のおもちゃのオーブン",
+      "explanation": "「Easy-Bake oven」は、子供用のおもちゃのオーブン。おもちゃですが、実際に小さなケーキなどを焼くことができます。ここでは、Sheldonが自分の頭の中を比喩的に表現しています。"
+    },
+    {
+      "id": 15,
+      "value": "big deal",
+      "options": [
+        "大きな取引",
+        "重要なこと",
+        "些細なこと",
+        "秘密"
+      ],
+      "correctAnswer": "重要なこと",
+      "explanation": "「big deal」は、重要なこと、大したことという意味です。ここでは、LeonardとSheldonの発見が科学の世界で大きな影響を与える可能性があることを示唆しています。"
+    },
+    {
+      "id": 16,
+      "value": "sleep on it",
+      "options": [
+        "眠りにつく",
+        "一晩考える",
+        "徹夜する",
+        "昼寝をする"
+      ],
+      "correctAnswer": "一晩考える",
+      "explanation": "「sleep on it」は、一晩考える、時間を置いて検討するという意味です。重要な決断をする前に、冷静になるために使われる表現です。"
+    },
+    {
+      "id": 17,
+      "value": "beat someone to the punch",
+      "options": [
+        "誰かを殴る",
+        "誰かに先を越される",
+        "誰かを助ける",
+        "誰かと競争する"
+      ],
+      "correctAnswer": "誰かに先を越される",
+      "explanation": "「beat someone to the punch」は、誰かに先を越される、出し抜かれるという意味です。ここでは、他の研究者に先に論文を発表されることをSheldonが恐れています。"
+    },
+    {
+      "id": 18,
+      "value": "surefire",
+      "options": [
+        "確実な",
+        "危険な",
+        "不確かな",
+        "高価な"
+      ],
+      "correctAnswer": "確実な",
+      "explanation": "「surefire」は、確実な、間違いのないという意味です。ここでは、Sheldonの名前が論文に載っていることが、品質の保証になると言っています。"
+    },
+    {
+      "id": 19,
+      "value": "partner",
+      "options": [
+        "敵",
+        "友人",
+        "恋人",
+        "同僚"
+      ],
+      "correctAnswer": "同僚",
+      "explanation": "「partner」は、ここでは共同研究者、協力者という意味です。ビジネスやプロジェクトなどで一緒に仕事をする人を指します。"
+    },
+    {
+      "id": 20,
+      "value": "particle detector",
+      "options": [
+        "金属探知機",
+        "放射線測定器",
+        "粒子検出器",
+        "騒音測定器"
+      ],
+      "correctAnswer": "粒子検出器",
+      "explanation": "「particle detector」は、粒子検出器。素粒子物理学の実験などで、素粒子を検出するための装置です。PennyはLeonardの研究内容を把握していることを示しています。"
+    },
+    {
+      "id": 21,
+      "value": "viscosity",
+      "options": [
+        "可視性",
+        "粘性",
+        "揮発性",
+        "毒性"
+      ],
+      "correctAnswer": "粘性",
+      "explanation": "「viscosity」は、粘性のこと。液体の流れにくさを示す物理量です。水よりも蜂蜜の方が粘性が高いです。超流動体は粘性がゼロになります。"
+    },
+    {
+      "id": 22,
+      "value": "N-dimensional",
+      "options": [
+        "一次元的",
+        "二次元的",
+        "N次元的",
+        "三次元的"
+      ],
+      "correctAnswer": "N次元的",
+      "explanation": "「N-dimensional」は、N次元的。通常の三次元空間に加えて、数学的に定義される高次元空間を指します。物理学の理論で用いられることがあります。"
+    },
+    {
+      "id": 23,
+      "value": "space-time",
+      "options": [
+        "宇宙旅行",
+        "宇宙時間",
+        "時空間",
+        "宇宙開発"
+      ],
+      "correctAnswer": "時空間",
+      "explanation": "「space-time」は、時空間。時間と空間を一体として扱う物理学の概念です。アインシュタインの相対性理論で重要な役割を果たします。"
+    },
+    {
+      "id": 24,
+      "value": "gravitational constant",
+      "options": [
+        "重力加速度",
+        "万有引力定数",
+        "光速",
+        "プランク定数"
+      ],
+      "correctAnswer": "万有引力定数",
+      "explanation": "「gravitational constant」は、万有引力定数。ニュートンの万有引力の法則に現れる定数で、質量を持つ物体間に働く引力の強さを表します。"
+    },
+    {
+      "id": 25,
+      "value": "pre-print server",
+      "options": [
+        "印刷サーバー",
+        "プレプリントサーバー",
+        "オンラインゲームサーバー",
+        "メールサーバー"
+      ],
+      "correctAnswer": "プレプリントサーバー",
+      "explanation": "「pre-print server」は、プレプリントサーバー。査読前の論文を公開するオンラインサーバーです。研究成果を迅速に共有するために利用されます。"
+    },
+    {
+      "id": 26,
+      "value": "twirling a sign",
+      "options": [
+        "看板を回す",
+        "秘密にする",
+        "踊る",
+        "無視する"
+      ],
+      "correctAnswer": "看板を回す",
+      "explanation": "「twirl」は、何かをくるくると回すという意味です。この文脈では、監督が仕事がなく、看板を回して客引きをしている状況を表しています。落魄れた状況を暗示しています。"
+    },
+    {
+      "id": 27,
+      "value": "humiliating",
+      "options": [
+        "屈辱的な",
+        "楽しい",
+        "面白い",
+        "感動的な"
+      ],
+      "correctAnswer": "屈辱的な",
+      "explanation": "「humiliating」は、恥ずかしい思いをさせる、屈辱的なという意味です。自分の過去の作品を他人に見られることに対して使われています。自己肯定感が低い場合や、失敗体験を思い起こさせる状況で使われます。"
+    },
+    {
+      "id": 28,
+      "value": "superfluid",
+      "options": [
+        "超流動体",
+        "超伝導体",
+        "半導体",
+        "絶縁体"
+      ],
+      "correctAnswer": "超流動体",
+      "explanation": "「superfluid」は、超流動体という意味です。特定の条件下で粘性を失い、摩擦なしに流れ続けることができる物質の状態を指します。物理学の専門用語で、日常会話ではほとんど使用されません。"
+    },
+    {
+      "id": 29,
+      "value": "get mentioned on",
+      "options": [
+        "言及される",
+        "無視される",
+        "批判される",
+        "隠される"
+      ],
+      "correctAnswer": "言及される",
+      "explanation": "「get mentioned on」は、～で言及されるという意味です。ここでは、学術論文が物理学ブログで取り上げられることを指しています。ニュースや記事などで名前や業績が取り上げられる際に使われます。"
+    },
+    {
+      "id": 30,
+      "value": "insightful",
+      "options": [
+        "洞察力のある",
+        "退屈な",
+        "独創的な",
+        "誤解を招く"
+      ],
+      "correctAnswer": "洞察力のある",
+      "explanation": "「insightful」は、物事の本質を見抜く洞察力があるという意味です。深い理解や鋭い観察眼を持っていることを褒める際に使われます。知的で尊敬に値する人物を形容する言葉です。"
+    },
+    {
+      "id": 31,
+      "value": "innovative",
+      "options": [
+        "革新的な",
+        "伝統的な",
+        "保守的な",
+        "平凡な"
+      ],
+      "correctAnswer": "革新的な",
+      "explanation": "「innovative」は、革新的な、斬新なという意味です。新しいアイデアや方法を取り入れ、従来のものとは異なる価値を生み出すことを指します。ビジネスや科学技術の分野でよく使われます。"
+    },
+    {
+      "id": 32,
+      "value": "out-of-the-box thinking",
+      "options": [
+        "型破りな発想",
+        "常識的な発想",
+        "現実的な発想",
+        "悲観的な発想"
+      ],
+      "correctAnswer": "型破りな発想",
+      "explanation": "「out-of-the-box thinking」は、既存の枠にとらわれない、型破りな発想という意味です。創造性や独創性が求められる場面で重要視されます。問題解決や新しいアイデアを生み出す際に必要となる考え方です。"
+    },
+    {
+      "id": 33,
+      "value": "analogy",
+      "options": [
+        "類似点",
+        "相違点",
+        "矛盾点",
+        "具体例"
+      ],
+      "correctAnswer": "類似点",
+      "explanation": "「analogy」は、類似点、類似性という意味です。異なる事物間の類似性に基づいて説明や議論を行う際に用いられます。複雑な概念を理解しやすくするために使われることが多いです。"
+    },
+    {
+      "id": 34,
+      "value": "supercooled",
+      "options": [
+        "過冷却された",
+        "過熱された",
+        "冷却されていない",
+        "凍結された"
+      ],
+      "correctAnswer": "過冷却された",
+      "explanation": "「supercooled」は、過冷却されたという意味です。液体が凝固点以下に冷却されても、まだ固体になっていない状態を指します。物理学や化学の分野で使用される専門用語です。"
+    },
+    {
+      "id": 35,
+      "value": "crackpot",
+      "options": [
+        "変人",
+        "天才",
+        "専門家",
+        "初心者"
+      ],
+      "correctAnswer": "変人",
+      "explanation": "「crackpot」は、風変わりな人、変人という意味です。非現実的なアイデアや理論を提唱する人を指すことが多いです。軽蔑的なニュアンスを含む言葉です。"
+    },
+    {
+      "id": 36,
+      "value": "wannabe",
+      "options": [
+        "～になりたい人",
+        "～をやめた人",
+        "～を教える人",
+        "～を助ける人"
+      ],
+      "correctAnswer": "～になりたい人",
+      "explanation": "「wannabe」は、「want to be」の略で、～になりたい人という意味です。特定の分野で成功したい、有名になりたいという願望を持つ人を指します。やや軽蔑的なニュアンスを含むことがあります。"
+    },
+    {
+      "id": 37,
+      "value": "theoretician",
+      "options": [
+        "理論家",
+        "実践家",
+        "研究者",
+        "批評家"
+      ],
+      "correctAnswer": "理論家",
+      "explanation": "「theoretician」は、理論家という意味です。特定の分野で理論を構築・研究する人を指します。特に科学や哲学の分野で用いられることが多いです。"
+    },
+    {
+      "id": 38,
+      "value": "in a rush to",
+      "options": [
+        "急いで～する",
+        "～をためらう",
+        "～を拒否する",
+        "～を計画する"
+      ],
+      "correctAnswer": "急いで～する",
+      "explanation": "「in a rush to」は、～するのを急いでいるという意味です。時間的な制約がある状況や、何かを急いで終わらせたい時に使われます。焦りやプレッシャーを感じているニュアンスを含みます。"
+    },
+    {
+      "id": 39,
+      "value": "lower yourself to their level",
+      "options": [
+        "相手と同じレベルに落ちる",
+        "相手より高いレベルを維持する",
+        "相手を尊敬する",
+        "相手を無視する"
+      ],
+      "correctAnswer": "相手と同じレベルに落ちる",
+      "explanation": "「lower yourself to their level」は、相手と同じレベルに身を落とす、という意味です。相手の低い言動や振る舞いに同調することで、自分の品位や立場を下げてしまうことを指します。争いを避けるために使われることが多い表現です。"
+    },
+    {
+      "id": 40,
+      "value": "upside",
+      "options": [
+        "良い点",
+        "悪い点",
+        "問題点",
+        "解決策"
+      ],
+      "correctAnswer": "良い点",
+      "explanation": "「upside」は、良い面、利点という意味です。リスクやデメリットと比較して、得られる利益やメリットを指します。ビジネスシーンでよく使われる言葉です。"
+    },
+    {
+      "id": 41,
+      "value": "mess with",
+      "options": [
+        "ちょっかいを出す",
+        "協力する",
+        "感謝する",
+        "無視する"
+      ],
+      "correctAnswer": "ちょっかいを出す",
+      "explanation": "「mess with」は、～にちょっかいを出す、からかうという意味です。相手を困らせたり、怒らせたりするような行為を指します。軽いいたずらから深刻な妨害行為まで、幅広い状況で使われます。"
+    },
+    {
+      "id": 42,
+      "value": "you get the horns",
+      "options": [
+        "しっぺ返しをくらう",
+        "褒められる",
+        "助けられる",
+        "無視される"
+      ],
+      "correctAnswer": "しっぺ返しをくらう",
+      "explanation": "「You mess with the bull, you get the horns.」は、危険な相手にちょっかいを出すと、しっぺ返しをくらうという意味の諺です。無謀な行動を戒める際に使われます。"
+    },
+    {
+      "id": 43,
+      "value": "poking around",
+      "options": [
+        "探す",
+        "隠す",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "探す",
+      "explanation": "「poke around」は、～を探し回る、詮索するという意味です。特定の目的を持って情報を探すのではなく、色々なものを気ままに見ている状況を表します。詮索好き、おせっかいな人に対して使われることもあります。"
+    },
+    {
+      "id": 44,
+      "value": "beauty pageant",
+      "options": [
+        "美人コンテスト",
+        "ファッションショー",
+        "演劇",
+        "スポーツ大会"
+      ],
+      "correctAnswer": "美人コンテスト",
+      "explanation": "「beauty pageant」は、美人コンテストという意味です。容姿や才能、知性などを競い合うイベントを指します。外見だけでなく、内面も評価されることが多いです。"
+    },
+    {
+      "id": 45,
+      "value": "talking cupcake",
+      "options": [
+        "話すカップケーキ",
+        "動かないケーキ",
+        "美味しいケーキ",
+        "まずいケーキ"
+      ],
+      "correctAnswer": "話すカップケーキ",
+      "explanation": "「talking cupcake」は、お菓子のように可愛らしい人が話している様子を形容するジョーク表現です。見た目が可愛らしい人に対して、親しみを込めて使われます。"
+    },
+    {
+      "id": 46,
+      "value": "dandy",
+      "options": [
+        "上機嫌",
+        "不機嫌",
+        "退屈",
+        "怒り"
+      ],
+      "correctAnswer": "上機嫌",
+      "explanation": "「dandy」は、上機嫌、素晴らしいという意味です。古風な言い方で、今はあまり使われません。洒落者、伊達男という意味もあります。"
+    },
+    {
+      "id": 47,
+      "value": "improv",
+      "options": [
+        "即興",
+        "台本",
+        "練習",
+        "演技"
+      ],
+      "correctAnswer": "即興",
+      "explanation": "「improv」は、即興という意味です。台本や準備なしに、その場で演じることを指します。創造性や対応力が求められるスキルです。"
+    },
+    {
+      "id": 48,
+      "value": "devote itself to",
+      "options": [
+        "専念する",
+        "無視する",
+        "批判する",
+        "妨害する"
+      ],
+      "correctAnswer": "専念する",
+      "explanation": "「devote itself to」は、～に専念するという意味です。時間や労力を特定の目的や活動に集中させることを指します。献身的な姿勢を示す言葉です。"
+    },
+    {
+      "id": 49,
+      "value": "upon review",
+      "options": [
+        "再検討の結果",
+        "無視した結果",
+        "急いで見た結果",
+        "初めて見た結果"
+      ],
+      "correctAnswer": "再検討の結果",
+      "explanation": "「upon review」は、再検討の結果、という意味です。何かを再度確認したり評価したりした後に、意見や判断が変わったことを示す際に使われます。"
+    },
+    {
+      "id": 50,
+      "value": "inspired me to",
+      "options": [
+        "～する気にさせた",
+        "～する気を失わせた",
+        "～するのを邪魔した",
+        "～するのを忘れさせた"
+      ],
+      "correctAnswer": "～する気にさせた",
+      "explanation": "「inspired me to」は、～する気にさせた、という意味です。感動や刺激を受けて、何か新しいことを始めたり、行動を起こしたりするきっかけになったことを表します。"
+    },
+    {
+      "id": 51,
+      "value": "crackpots",
+      "options": [
+        "専門家",
+        "詐欺師",
+        "変人",
+        "研究者"
+      ],
+      "correctAnswer": "変人",
+      "explanation": "「crackpot」は、風変わりな考えや非現実的な計画を持つ人を指す軽蔑的な言葉です。科学や技術分野で、非主流な理論や実験を提唱する人に対して使われることがあります。 例：He's got some crackpot theory about cold fusion.（彼は常温核融合に関する突飛な理論を持っている。）"
+    },
+    {
+      "id": 52,
+      "value": "wannabes",
+      "options": [
+        "成功者",
+        "初心者",
+        "偽物",
+        "協力者"
+      ],
+      "correctAnswer": "偽物",
+      "explanation": "「wannabe」は、「～になりたい人」という意味で、有名人や成功者のように振る舞おうとする人を指す軽蔑的な言葉です。特に、外見や行動を真似るだけで、本質的な能力や才能がない人に対して使われます。例：There were a lot of wannabes hanging around backstage, hoping to meet the band.（バンドに会うことを期待して、多くの自称ファンが舞台裏をうろついていた。）"
+    },
+    {
+      "id": 53,
+      "value": "hide behind anonymity",
+      "options": [
+        "匿名を隠れ蓑にする",
+        "目立つようにする",
+        "責任を取る",
+        "協力を申し出る"
+      ],
+      "correctAnswer": "匿名を隠れ蓑にする",
+      "explanation": "「hide behind anonymity」は、匿名性を利用して、自分の意見や行動に対する責任を回避することを意味します。インターネット上でのコメントや批判など、顔が見えない状況でよく見られる行為です。例：People often say things online that they would never say in person, hiding behind anonymity.（人々は匿名性を隠れ蓑にして、直接会っては決して言わないようなことをオンラインで言うことが多い。）"
+    },
+    {
+      "id": 54,
+      "value": "get the spotlight off me",
+      "options": [
+        "注目を浴びる",
+        "注目をそらす",
+        "プレッシャーを感じる",
+        "自信を持つ"
+      ],
+      "correctAnswer": "注目をそらす",
+      "explanation": "「get the spotlight off me」は、自分自身への注目や関心をそらす、または避けたいときに使われる表現です。恥ずかしい状況や、責任を回避したい場合などに用いられます。例：He tried to get the spotlight off himself by making a joke.（彼は冗談を言って、自分への注目をそらそうとした。）"
+    },
+    {
+      "id": 55,
+      "value": "tearing down other women",
+      "options": [
+        "女性を応援する",
+        "女性を批判する",
+        "女性を無視する",
+        "女性を助ける"
+      ],
+      "correctAnswer": "女性を批判する",
+      "explanation": "「tearing down other women」は、他の女性を貶める、批判する、または自信を奪う行為を指します。競争心を煽ったり、優位に立とうとする意図がある場合に用いられることが多いです。例：She felt like she was constantly being torn down by her colleagues.（彼女は同僚たちによって常に貶められているように感じていた。）"
+    },
+    {
+      "id": 56,
+      "value": "either way",
+      "options": [
+        "どちらにしても",
+        "片方だけ",
+        "全く違う",
+        "偶然に"
+      ],
+      "correctAnswer": "どちらにしても",
+      "explanation": "「either way」は、「どちらにしても」「いずれにせよ」という意味で、結果や方法に関わらず、同じ結論になることを示す際に使われます。例：Either way, I'm going to be there for you.（どちらにしても、私はあなたのそばにいるよ。）"
+    },
+    {
+      "id": 57,
+      "value": "whisper of winter",
+      "options": [
+        "冬の終わり",
+        "冬の始まり",
+        "冬の嵐",
+        "冬の静けさ"
+      ],
+      "correctAnswer": "冬の始まり",
+      "explanation": "「whisper of winter」は、冬の気配や兆しを意味する表現です。秋の終わり頃に、かすかに感じる寒さや、冬の訪れを予感させる空気感を指します。文学的な表現としても用いられます。例：There was a whisper of winter in the air, and the leaves were starting to change color.（空気中には冬の気配があり、木の葉は色を変え始めていた。）"
+    },
+    {
+      "id": 58,
+      "value": "open her mind to new possibilities",
+      "options": [
+        "新しい可能性を閉ざす",
+        "新しい可能性に心を開く",
+        "過去に囚われる",
+        "現実を無視する"
+      ],
+      "correctAnswer": "新しい可能性に心を開く",
+      "explanation": "「open her mind to new possibilities」は、新しい考え方や機会に対して心を開き、受け入れることを意味します。固定観念にとらわれず、柔軟な思考を持つことの重要性を示唆する表現です。例：Travel can open your mind to new possibilities and broaden your horizons.（旅行は新しい可能性に心を開かせ、視野を広げることができます。）"
+    },
+    {
+      "id": 59,
+      "value": "starting to miss that",
+      "options": [
+        "それが恋しくなる",
+        "それが嫌いになる",
+        "それがどうでもよくなる",
+        "それが忘れられなくなる"
+      ],
+      "correctAnswer": "それが恋しくなる",
+      "explanation": "「starting to miss that」は、過去の状態や状況が恋しくなり始めていることを意味します。以前は不快に感じていたことや、当たり前だと思っていたことに対して、懐かしさや価値を感じるようになった時に使われます。例：After moving to the city, I started to miss the peace and quiet of the countryside.（都会に引っ越した後、田舎の静けさが恋しくなり始めた。）"
+    },
+    {
+      "id": 60,
+      "value": "destroy him",
+      "options": [
+        "彼を助ける",
+        "彼を打ち負かす",
+        "彼を無視する",
+        "彼を尊敬する"
+      ],
+      "correctAnswer": "彼を打ち負かす",
+      "explanation": "「destroy him」は、相手を徹底的に打ち負かす、または相手の評判や地位を失墜させるという意味です。競争や対立の状況で、相手に大きなダメージを与えることを強調する際に用いられます。例：He was determined to destroy his opponent in the debate.（彼は討論で相手を打ち負かす決意をしていた。）"
+    },
+    {
+      "id": 61,
+      "value": "get a rise out of you",
+      "options": [
+        "あなたを喜ばせる",
+        "あなたを怒らせる",
+        "あなたを退屈させる",
+        "あなたを感動させる"
+      ],
+      "correctAnswer": "あなたを怒らせる",
+      "explanation": "「get a rise out of you」は、誰かを挑発したり、からかったりして、怒らせたり感情的な反応を引き出すことを意味します。意図的に相手を不快にさせる行為を指します。例：He was just trying to get a rise out of you, don't take it so seriously.（彼はただあなたをからかおうとしていただけだから、そんなに真剣に受け止めないで。）"
+    },
+    {
+      "id": 62,
+      "value": "taking this into the real world",
+      "options": [
+        "現実逃避する",
+        "現実と向き合う",
+        "夢を追いかける",
+        "過去を振り返る"
+      ],
+      "correctAnswer": "現実と向き合う",
+      "explanation": "「taking this into the real world」は、抽象的な議論やオンライン上のやり取りを、現実の具体的な行動や対面での議論に移すことを意味します。より直接的な対決や解決を求める際に用いられます。例：Let's stop arguing online and take this into the real world, face-to-face.（オンラインでの議論はやめて、直接会って話し合おう。）"
+    },
+    {
+      "id": 63,
+      "value": "calm down",
+      "options": [
+        "興奮する",
+        "落ち着く",
+        "騒ぐ",
+        "泣く"
+      ],
+      "correctAnswer": "落ち着く",
+      "explanation": "「calm down」は、興奮や怒りなどの感情を静める、または落ち着かせるという意味です。感情的な状態にある人に対して、冷静になるように促す際に使われます。例：Take a deep breath and calm down. There's no need to panic.（深呼吸をして落ち着いて。慌てる必要はないよ。）"
+    },
+    {
+      "id": 64,
+      "value": "sunk to his level",
+      "options": [
+        "彼のレベルに達した",
+        "彼を助けた",
+        "彼と同じレベルまで落ちた",
+        "彼を見下した"
+      ],
+      "correctAnswer": "彼と同じレベルまで落ちた",
+      "explanation": "「sunk to his level」は、相手と同じような低いレベルの行動や言動をしてしまった、という意味です。本来なら取るべきでない行動をしてしまったことを後悔する際に使われます。例：I shouldn't have argued with him; I just sunk to his level.（彼と口論するべきではなかった。私も彼のレベルまで落ちてしまった。）"
+    },
+    {
+      "id": 65,
+      "value": "one more time",
+      "options": [
+        "今回限り",
+        "二度としない",
+        "もう一度",
+        "いつも通り"
+      ],
+      "correctAnswer": "もう一度",
+      "explanation": "「one more time」は、「もう一度」という意味で、何かを繰り返すことを求める際に使われます。例：Can you say that one more time? （もう一度言ってもらえますか？）"
+    },
+    {
+      "id": 66,
+      "value": "good sir",
+      "options": [
+        "親愛なる友人",
+        "失礼な人",
+        "親愛なるあなた様",
+        "迷惑な人"
+      ],
+      "correctAnswer": "親愛なるあなた様",
+      "explanation": "「good sir」は、丁寧な言葉遣いで相手に呼びかける際に使われる表現です。やや古風な言い方で、皮肉を込めて使われることもあります。例：Good sir, I must protest your accusation. （あなた様、あなたの告発に抗議しなければなりません。）"
+    },
+    {
+      "id": 67,
+      "value": "stand behind our paper",
+      "options": [
+        "論文を批判する",
+        "論文を支持する",
+        "論文を無視する",
+        "論文を隠す"
+      ],
+      "correctAnswer": "論文を支持する",
+      "explanation": "「stand behind our paper」は、自分たちの論文の内容や主張に自信を持ち、支持することを意味します。学術的な議論や批判に対して、自分の研究を擁護する姿勢を示します。例：We stand behind our paper and are confident that our findings are accurate.（私たちは自分たちの論文を支持しており、その発見が正確であると確信しています。）"
+    },
+    {
+      "id": 68,
+      "value": "boo",
+      "options": [
+        "応援",
+        "驚かす声",
+        "悲鳴",
+        "笑い声"
+      ],
+      "correctAnswer": "驚かす声",
+      "explanation": "「boo」は、人を驚かせる時に発する言葉、または不満や反対を示す時に発する声です。ハロウィーンの仮装や、スポーツの試合などで使われます。例：The audience booed the referee's decision. （観客は審判の決定にブーイングをした。）"
+    },
+    {
+      "id": 69,
+      "value": "beauty pageants",
+      "options": [
+        "読書会",
+        "運動会",
+        "美人コンテスト",
+        "料理教室"
+      ],
+      "correctAnswer": "美人コンテスト",
+      "explanation": "「beauty pageants」は、容姿、才能、知性などを競う美人コンテストのことです。参加者は審査員の前で自己PRや特技を披露し、優勝を目指します。例：She has participated in several beauty pageants.（彼女はいくつかの美人コンテストに参加したことがあります。）"
+    },
+    {
+      "id": 70,
+      "value": "fan fiction",
+      "options": [
+        "科学小説",
+        "ファンが書く二次創作",
+        "自叙伝",
+        "歴史小説"
+      ],
+      "correctAnswer": "ファンが書く二次創作",
+      "explanation": "「fan fiction」は、既存の小説、映画、アニメなどの作品のファンが、その世界観やキャラクターを使って書く二次創作のことです。オリジナル作品に対する愛情や解釈が込められています。例：She enjoys writing fan fiction based on her favorite TV show.（彼女は好きなテレビ番組をもとにファンフィクションを書くのを楽しんでいます。）"
+    },
+    {
+      "id": 71,
+      "value": "wee li’l bairn",
+      "options": [
+        "大きな子供",
+        "いたずら好きな子供",
+        "小さな子供",
+        "賢い子供"
+      ],
+      "correctAnswer": "小さな子供",
+      "explanation": "「wee li’l bairn」は、スコットランド英語で「小さな子供」を意味する愛らしい表現です。「wee」と「li’l」は「little」の縮小形で、「bairn」は子供を意味します。親愛の情を込めて使われます。例：Look at that wee li’l bairn, isn't she adorable? （あの小さな子供を見て、とても可愛らしいね。）"
+    },
+    {
+      "id": 72,
+      "value": "blew my kilt off",
+      "options": [
+        "感動した",
+        "退屈した",
+        "怒った",
+        "混乱した"
+      ],
+      "correctAnswer": "感動した",
+      "explanation": "「blew my kilt off」は、非常に感動した、圧倒されたという意味のユーモラスな表現です。文字通りには「キルトが吹き飛んだ」となりますが、比喩的に強い感情を表します。例：That performance just blew my kilt off, it was amazing! （あのパフォーマンスには本当に感動した、素晴らしかった！）"
+    },
+    {
+      "id": 73,
+      "value": "going out of their way",
+      "options": [
+        "近道をする",
+        "邪魔をする",
+        "わざわざ〜する",
+        "道を譲る"
+      ],
+      "correctAnswer": "わざわざ〜する",
+      "explanation": "「going out of their way」は、「わざわざ〜する」という意味で、特別な努力や行動をすることを表します。相手のために時間や労力を惜しまない姿勢を示します。例：He is always going out of his way to help others. （彼はいつも人のためにわざわざ尽力しています。）"
+    },
+    {
+      "id": 74,
+      "value": "resorting to",
+      "options": [
+        "頼る",
+        "避ける",
+        "計画する",
+        "忘れる"
+      ],
+      "correctAnswer": "頼る",
+      "explanation": "「resorting to」は、他の手段がない場合に、仕方なく〜に頼る、という意味です。あまり好ましくない手段や方法を使うニュアンスが含まれます。例：They had to resort to desperate measures.（彼らは必死の手段に頼らざるを得なかった。）"
+    },
+    {
+      "id": 75,
+      "value": "juvenile attempts",
+      "options": [
+        "大人の試み",
+        "幼稚な試み",
+        "成功した試み",
+        "真剣な試み"
+      ],
+      "correctAnswer": "幼稚な試み",
+      "explanation": "「juvenile attempts」は、未熟で幼稚な試みや行動を意味します。大人が行うにはふさわしくない、子供っぽい行動を指す際に使われます。例：Their juvenile attempts at humor fell flat.（彼らの幼稚なユーモアの試みは失敗に終わった。）"
+    },
+    {
+      "id": 76,
+      "value": "exhausting",
+      "options": [
+        "楽しい",
+        "疲れる",
+        "面白い",
+        "感動的"
+      ],
+      "correctAnswer": "疲れる",
+      "explanation": "「exhausting」は、非常に疲れる、消耗させるという意味です。体力的な疲労だけでなく、精神的な疲労にも使われます。ここでは、シェルドンの性格が周りを疲れさせるという意味で使われています。"
+    },
+    {
+      "id": 77,
+      "value": "wishful thinking",
+      "options": [
+        "現実的な思考",
+        "希望的観測",
+        "論理的な思考",
+        "悲観的な考え"
+      ],
+      "correctAnswer": "希望的観測",
+      "explanation": "「wishful thinking」は、実現を望むあまり、非現実的なことや不可能なことを信じたり、そうなるだろうと楽観的に考えたりすることを指します。ここでは、エイミーがペニーの書く物語に都合の良い展開を期待していることを指しています。"
+    },
+    {
+      "id": 78,
+      "value": "besting",
+      "options": [
+        "助ける",
+        "負かす",
+        "無視する",
+        "理解する"
+      ],
+      "correctAnswer": "負かす",
+      "explanation": "「best」は動詞として「～に勝つ、～を負かす」という意味を持ちます。ここでは、アメリアが学校で男の子たちを成績で負かしていたことを表しています。"
+    },
+    {
+      "id": 79,
+      "value": "longed to",
+      "options": [
+        "嫌う",
+        "～したいと切望する",
+        "忘れる",
+        "後悔する"
+      ],
+      "correctAnswer": "～したいと切望する",
+      "explanation": "「long to」は「～したいと切望する、強く望む」という意味です。ここでは、アメリアがクーパーに聞きたいことがあったけれど、怖くて聞けなかったという状況を表しています。"
+    },
+    {
+      "id": 80,
+      "value": "sick of",
+      "options": [
+        "～が好き",
+        "～に飽き飽きしている",
+        "～に興味がある",
+        "～を心配している"
+      ],
+      "correctAnswer": "～に飽き飽きしている",
+      "explanation": "「sick of」は「～にうんざりしている、～に飽き飽きしている」という意味です。ここでは、ラージがインターネット上の人々の意地悪な態度にうんざりしていることを表しています。"
+    },
+    {
+      "id": 81,
+      "value": "anonymity",
+      "options": [
+        "匿名性",
+        "正直さ",
+        "勇敢さ",
+        "優しさ"
+      ],
+      "correctAnswer": "匿名性",
+      "explanation": "「anonymity」は「匿名性」という意味です。インターネット上では匿名で発言できるため、普段言えないようなことを言ってしまう人がいる、という文脈で使われています。"
+    },
+    {
+      "id": 82,
+      "value": "contribution",
+      "options": [
+        "貢献",
+        "妨害",
+        "無視",
+        "批判"
+      ],
+      "correctAnswer": "貢献",
+      "explanation": "「contribution」は「貢献、寄与」という意味です。ここでは、ラージが、自分たちは理論を構築し論文を書き、実際に貢献しているのに、インターネット上で批判ばかりする人は他人の業績の上に立っているだけだと主張しています。"
+    },
+    {
+      "id": 83,
+      "value": "premise",
+      "options": [
+        "結論",
+        "前提",
+        "方法",
+        "詳細"
+      ],
+      "correctAnswer": "前提",
+      "explanation": "「premise」は「前提、根拠」という意味です。ここでは、ホーキング博士がレナードとシェルドンの論文の前提が面白いと言っています。"
+    },
+    {
+      "id": 84,
+      "value": "intriguing",
+      "options": [
+        "退屈な",
+        "興味深い",
+        "難しい",
+        "簡単な"
+      ],
+      "correctAnswer": "興味深い",
+      "explanation": "「intriguing」は「興味をそそる、魅力的な」という意味です。ここでは、ホーキング博士がレナードとシェルドンの論文の前提が面白いと言っています。"
+    },
+    {
+      "id": 85,
+      "value": "Ciao",
+      "options": [
+        "こんにちは",
+        "さようなら",
+        "ありがとう",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "さようなら",
+      "explanation": "「Ciao」はイタリア語で「こんにちは」または「さようなら」という意味ですが、ここでは別れの挨拶として使われています。"
+    },
+    {
+      "id": 86,
+      "value": "setting me up for failure",
+      "options": [
+        "成功させてくれる",
+        "失敗させようとしている",
+        "助けてくれる",
+        "邪魔をしてくる"
+      ],
+      "correctAnswer": "失敗させようとしている",
+      "explanation": "「set someone up for failure」は「～を失敗させようとする、～が失敗するように仕向ける」という意味です。ここでは、ハワードがラージにいつも失敗するように仕向けているとラージが言っています。"
+    },
+    {
+      "id": 87,
+      "value": "depart",
+      "options": [
+        "到着する",
+        "出発する",
+        "滞在する",
+        "訪問する"
+      ],
+      "correctAnswer": "出発する",
+      "explanation": "「depart」は「出発する」という意味です。ここでは、クーパーがタイムマシンで出発しようとしている場面で使われています。"
+    },
+    {
+      "id": 88,
+      "value": "bear to watch",
+      "options": [
+        "見るに耐える",
+        "見るに耐えない",
+        "見たい",
+        "見るのを手伝う"
+      ],
+      "correctAnswer": "見るに耐えない",
+      "explanation": "「bear to」は「～するのに耐える」という意味で、「can't bear to」は「～するのに耐えられない」という意味になります。ここでは、アメリアが自分の愛が消えていくのを見るに耐えられない、という意味で使われています。"
+    },
+    {
+      "id": 89,
+      "value": "tremble all over",
+      "options": [
+        "全く震えない",
+        "全身震える",
+        "少しだけ震える",
+        "落ち着いている"
+      ],
+      "correctAnswer": "全身震える",
+      "explanation": "「tremble all over」は「全身震える」という意味です。ここでは、アメリアがクーパーに抱きしめられて全身が震えている様子を表しています。"
+    },
+    {
+      "id": 90,
+      "value": "nippy",
+      "options": [
+        "熱い",
+        "肌寒い",
+        "冷たい",
+        "暖かい"
+      ],
+      "correctAnswer": "肌寒い",
+      "explanation": "「nippy」は「肌寒い、ピリッとする」という意味です。ここでは、アメリアが沸かしてくれたお湯が少し肌寒いことをクーパーが言っています。"
+    },
+    {
+      "id": 91,
+      "value": "unusual",
+      "options": [
+        "普通の",
+        "珍しい",
+        "美しい",
+        "汚い"
+      ],
+      "correctAnswer": "珍しい",
+      "explanation": "「unusual」は「珍しい、普通でない」という意味です。ここでは、アメリアがクーパーの下着（Underoos）が珍しいと言っています。"
+    },
+    {
+      "id": 92,
+      "value": "undergarments",
+      "options": [
+        "アウター",
+        "下着",
+        "靴",
+        "帽子"
+      ],
+      "correctAnswer": "下着",
+      "explanation": "「undergarments」は「下着」という意味です。ここでは、アメリアがクーパーの下着（Underoos）について言及しています。"
+    },
+    {
+      "id": 93,
+      "value": "significance",
+      "options": [
+        "重要性",
+        "無意味さ",
+        "大きさ",
+        "色"
+      ],
+      "correctAnswer": "重要性",
+      "explanation": "「significance」は「重要性、意義」という意味です。ここでは、アメリアがクーパーの下着に描かれているスパイダーマンの絵柄の意味を尋ねています。"
+    },
+    {
+      "id": 94,
+      "value": "whatever a spider can",
+      "options": [
+        "何もしない",
+        "蜘蛛ができることは何でもする",
+        "空を飛ぶ",
+        "糸を出す"
+      ],
+      "correctAnswer": "蜘蛛ができることは何でもする",
+      "explanation": "「whatever a spider can」は、スパイダーマンの有名なテーマソングの一節で、「蜘蛛ができることは何でもする」という意味です。ここでは、Underoosに描かれたスパイダーマンについてクーパーが説明しています。"
+    },
+    {
+      "id": 95,
+      "value": "rhyming",
+      "options": [
+        "料理",
+        "韻を踏むこと",
+        "運動",
+        "勉強"
+      ],
+      "correctAnswer": "韻を踏むこと",
+      "explanation": "「rhyming」は「韻を踏むこと」という意味です。ここでは、アメリアが未来の世界には韻を踏む言葉が多いのかとクーパーに尋ねています。"
+    },
+    {
+      "id": 96,
+      "value": "Are you kidding?",
+      "options": [
+        "冗談を言っているの？",
+        "本気なの？",
+        "怒っているの？",
+        "悲しんでいるの？"
+      ],
+      "correctAnswer": "冗談を言っているの？",
+      "explanation": "「Are you kidding?」は「冗談でしょ？」「まさか！」という意味で、驚きや信じられない気持ちを表す時に使われます。ここでは、ペニーが物語を読み上げるのを止めるかとレナードに尋ねたのに対し、レナードが「まさか！」と答える場面で使われています。"
+    },
+    {
+      "id": 97,
+      "value": "ways of physical love",
+      "options": [
+        "物理的な愛の方法",
+        "身体的な愛の営み",
+        "精神的な愛の方法",
+        "友情の示し方"
+      ],
+      "correctAnswer": "身体的な愛の営み",
+      "explanation": "「ways of physical love」は「身体的な愛の営み、性的な関係」を婉曲的に表現した言い方です。ここでは、アメリアが未来における性的な関係についてクーパーに尋ねようとしています。"
+    },
+    {
+      "id": 98,
+      "value": "help but notice",
+      "options": [
+        "気づかないわけにはいかない",
+        "気づくのを手伝う",
+        "気づかないようにする",
+        "気づくのをためらう"
+      ],
+      "correctAnswer": "気づかないわけにはいかない",
+      "explanation": "「can't help but notice」は「～に気づかないわけにはいかない、～に気づかざるを得ない」という意味です。ここでは、アメリアがクーパーの奇妙な下着に気づかざるを得なかったことを述べています。"
+    },
+    {
+      "id": 99,
+      "value": "wood fire",
+      "options": [
+        "木製の暖炉",
+        "焚き火",
+        "木の燃え残り",
+        "木製の家具"
+      ],
+      "correctAnswer": "焚き火",
+      "explanation": "「wood fire」は「焚き火、薪を使った火」という意味です。ここでは、アメリアがお風呂のお湯を沸かすために焚き火をしたことを指しています。"
+    },
+    {
+      "id": 100,
+      "value": "rude to complain",
+      "options": [
+        "文句を言うのは失礼",
+        "文句を言うのは当然",
+        "文句を言うのは簡単",
+        "文句を言うのは難しい"
+      ],
+      "correctAnswer": "文句を言うのは失礼",
+      "explanation": "「rude to complain」は「文句を言うのは失礼だ、文句を言うべきではない」という意味です。ここでは、クーパーがアメリアが苦労して沸かしてくれたお湯に対して、少しぬるいと文句を言うのは失礼だと述べています。"
+    }
+  ]
+}

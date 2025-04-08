@@ -1,0 +1,1048 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "payday",
+      "options": [
+        "給料日",
+        "幸運な日",
+        "退職日",
+        "休日"
+      ],
+      "correctAnswer": "給料日",
+      "explanation": "「payday」とは、給料が支払われる日のことを指します。文字通りには「支払いの日」という意味で、給与所得者にとってはお金が入る嬉しい日です。比喩的に「良いこと、幸運な出来事」を指すこともあります。"
+    },
+    {
+      "id": 2,
+      "value": "count on",
+      "options": [
+        "数える",
+        "期待する",
+        "無視する",
+        "非難する"
+      ],
+      "correctAnswer": "期待する",
+      "explanation": "「count on」は、人や物を信頼して頼りにすることを意味します。確実なものとして期待しているニュアンスが含まれます。\n\n例：You can count on me. (私を頼って良いよ。)"
+    },
+    {
+      "id": 3,
+      "value": "lose sight of",
+      "options": [
+        "忘れる",
+        "見失う",
+        "理解する",
+        "注目する"
+      ],
+      "correctAnswer": "見失う",
+      "explanation": "「lose sight of」は、文字通りには「視界から失う」という意味ですが、比喩的には「重要なことを見失う」「忘れてしまう」という意味で使われます。注意や意識がそれて、本来注目すべき点を見過ごしてしまう状況を表します。\n\n例：We shouldn't lose sight of our original goal. (私たちは本来の目標を見失うべきではありません。)"
+    },
+    {
+      "id": 4,
+      "value": "precipice",
+      "options": [
+        "危機",
+        "頂点",
+        "始まり",
+        "安定"
+      ],
+      "correctAnswer": "危機",
+      "explanation": "「precipice」は、崖っぷちや危機的状況を意味します。危険が迫っている瀬戸際に立たされている状態を表す際に用いられます。\n\n例：The company is on the precipice of bankruptcy. (その会社は倒産の危機に瀕しています。)"
+    },
+    {
+      "id": 5,
+      "value": "faceless cog",
+      "options": [
+        "重要な人物",
+        "無名の歯車",
+        "リーダー",
+        "革新者"
+      ],
+      "correctAnswer": "無名の歯車",
+      "explanation": "「faceless cog」は、大きな組織やシステムの中で、個性がなく、目立たない役割しか果たせない人を指します。「cog」は歯車を意味し、組織の中で個人の重要性が低いことを示唆します。全体の一部として埋没し、顔が見えない存在として扱われるニュアンスがあります。"
+    },
+    {
+      "id": 6,
+      "value": "on board",
+      "options": [
+        "賛成して",
+        "反対して",
+        "困惑して",
+        "無視して"
+      ],
+      "correctAnswer": "賛成して",
+      "explanation": "「on board」は、計画や提案に賛成し、協力する意思があることを意味します。文字通りには「船に乗っている」ことから、同じ目標に向かって進む仲間になったというニュアンスがあります。\n\n例：Are you on board with this project? (あなたはこのプロジェクトに賛成ですか？)"
+    },
+    {
+      "id": 7,
+      "value": "nervous wreck",
+      "options": [
+        "落ち着いた人",
+        "神経質な人",
+        "勇敢な人",
+        "怠惰な人"
+      ],
+      "correctAnswer": "神経質な人",
+      "explanation": "「nervous wreck」は、非常に神経質で、精神的に不安定な状態の人を指します。大きなストレスや不安によって、心身ともに疲弊している状態を表します。\n\n例：He was a nervous wreck before the exam. (彼は試験の前は神経質になっていた。)"
+    },
+    {
+      "id": 8,
+      "value": "anti-anxiety meds",
+      "options": [
+        "抗生物質",
+        "抗不安薬",
+        "鎮痛剤",
+        "睡眠薬"
+      ],
+      "correctAnswer": "抗不安薬",
+      "explanation": "「anti-anxiety meds」は、不安や緊張を和らげるために使用される薬、つまり抗不安薬のことです。精神的な落ち着きを取り戻すために処方されます。"
+    },
+    {
+      "id": 9,
+      "value": "up for",
+      "options": [
+        "興味がある",
+        "反対している",
+        "準備ができていない",
+        "完了した"
+      ],
+      "correctAnswer": "興味がある",
+      "explanation": "「up for」は、何か新しいことや挑戦に対して興味がある、または乗り気であることを意味します。意欲的な姿勢を示す際に用いられます。\n\n例：I'm up for a challenge. (私は挑戦する気がある。)"
+    },
+    {
+      "id": 10,
+      "value": "caveman",
+      "options": [
+        "原始人",
+        "宇宙飛行士",
+        "科学者",
+        "芸術家"
+      ],
+      "correctAnswer": "原始人",
+      "explanation": "ここでは、原始人＝時代遅れの人、という意味で使われています。現代の技術や文化に疎い人、またはそれらを理解しようとしない人を指す侮蔑的な表現です。"
+    },
+    {
+      "id": 11,
+      "value": "know-it-all",
+      "options": [
+        "謙虚な人",
+        "物知り顔",
+        "無知な人",
+        "正直な人"
+      ],
+      "correctAnswer": "物知り顔",
+      "explanation": "「know-it-all」は、何でも知っているかのように振る舞う人、つまり「物知り顔」や「おせっかい」な人を指す軽蔑的な表現です。しばしば、実際にはそれほど知識がないのに、他人を見下すような態度を取る人を指します。"
+    },
+    {
+      "id": 12,
+      "value": "Besserwisser",
+      "options": [
+        "賢者",
+        "おせっかい",
+        "正直者",
+        "怠け者"
+      ],
+      "correctAnswer": "おせっかい",
+      "explanation": "「Besserwisser」はドイツ語で、「何でも知っている人」「おせっかいな人」という意味です。英語の「know-it-all」とほぼ同じ意味で使われます。他人の間違いを指摘することに喜びを感じるような人を指す、やや否定的なニュアンスがあります。"
+    },
+    {
+      "id": 26,
+      "value": "keep up",
+      "options": [
+        "最新の状態を維持する",
+        "諦める",
+        "我慢する",
+        "落ち着く"
+      ],
+      "correctAnswer": "最新の状態を維持する",
+      "explanation": "「Keep up」は、ここでは（妊娠という）新しい状況についていく、理解するという意味です。相手の状況や変化についていく、遅れないようにするというニュアンスが含まれます。例：It's hard to keep up with all the new technology. (新しい技術についていくのは難しいです。)"
+    },
+    {
+      "id": 27,
+      "value": "blabbed",
+      "options": [
+        "秘密を漏らす",
+        "叫ぶ",
+        "ささやく",
+        "同意する"
+      ],
+      "correctAnswer": "秘密を漏らす",
+      "explanation": "「Blab」は、秘密や内緒の話をうっかり、または軽率に話してしまうという意味です。ゴシップや噂話など、ネガティブな文脈で使われることが多いです。例：She blabbed about my surprise party. (彼女は私のサプライズパーティーについてうっかり話してしまった。)"
+    },
+    {
+      "id": 28,
+      "value": "slipped out",
+      "options": [
+        "滑り落ちた",
+        "うっかり口に出た",
+        "逃げ出した",
+        "姿を消した"
+      ],
+      "correctAnswer": "うっかり口に出た",
+      "explanation": "「Slip out」は、意図せずに言葉が口から出てしまう、うっかり口を滑らせるという意味です。秘密や隠しておきたいことを話してしまう際に使われます。例：The secret slipped out during the conversation. (会話中に秘密がうっかり漏れてしまった。)"
+    },
+    {
+      "id": 29,
+      "value": "get back at",
+      "options": [
+        "～に仕返しをする",
+        "～を取り戻す",
+        "～に近づく",
+        "～に連絡する"
+      ],
+      "correctAnswer": "～に仕返しをする",
+      "explanation": "「Get back at」は、誰かから受けた不当な扱いや嫌な出来事に対して、報復する、仕返しをするという意味です。感情的なニュアンスが強く、個人的な恨みが込められていることが多いです。例：I'm going to get back at him for embarrassing me. (私に恥をかかせた彼に仕返しをするつもりだ。)"
+    },
+    {
+      "id": 30,
+      "value": "over the line",
+      "options": [
+        "一線を越える",
+        "準備万端である",
+        "順調に進んでいる",
+        "問題ない"
+      ],
+      "correctAnswer": "一線を越える",
+      "explanation": "「Over the line」は、許容範囲や道徳的な境界線を越えている、やりすぎているという意味です。不適切、不道徳、または法律に触れる可能性のある行為を指す場合に用いられます。例：That joke was a little over the line. (あの冗談は少し度が過ぎていた。)"
+    },
+    {
+      "id": 31,
+      "value": "behind my back",
+      "options": [
+        "陰で",
+        "私の背後で",
+        "直接",
+        "公然と"
+      ],
+      "correctAnswer": "陰で",
+      "explanation": "「Behind someone's back」は、その人がいないところで、または知らないところで何かをすることを意味します。秘密裏に、または不当な方法で行われることが多いです。例：They were talking about me behind my back. (彼らは私の陰口を言っていた。)"
+    },
+    {
+      "id": 32,
+      "value": "screwed with",
+      "options": [
+        "台無しにした",
+        "修理した",
+        "同意した",
+        "手伝った"
+      ],
+      "correctAnswer": "台無しにした",
+      "explanation": "「Screw with」は、誰かの計画、仕事、または人生を邪魔する、台無しにするという意味です。故意に、または悪意を持って行われることが多いです。例：Someone screwed with my computer settings. (誰かが私のコンピューターの設定をめちゃくちゃにした。)"
+    },
+    {
+      "id": 33,
+      "value": "balls-out",
+      "options": [
+        "全力で",
+        "慎重に",
+        "秘密裏に",
+        "のんびりと"
+      ],
+      "correctAnswer": "全力で",
+      "explanation": "「Balls-out」は、ここでは「全力で、思い切って」という意味のスラングです。危険を顧みず、大胆に行動する様子を表します。 例：I'm going to go balls-out on this project. (このプロジェクトに全力で取り組むつもりだ。)"
+    },
+    {
+      "id": 34,
+      "value": "retainer",
+      "options": [
+        "保定装置",
+        "弁護士",
+        "顧問",
+        "容器"
+      ],
+      "correctAnswer": "保定装置",
+      "explanation": "「Retainer」は、ここでは歯列矯正後に歯並びを保つための保定装置を指します。また、弁護士などへの「顧問料」の意味もあります。例：I have to wear my retainer every night. (毎晩リテーナーを装着しなければならない。)"
+    },
+    {
+      "id": 35,
+      "value": "tax lawyer",
+      "options": [
+        "税務弁護士",
+        "刑事弁護士",
+        "特許弁護士",
+        "離婚弁護士"
+      ],
+      "correctAnswer": "税務弁護士",
+      "explanation": "「Tax lawyer」は税法を専門とする弁護士のことです。税務に関する訴訟や税務計画、税務コンサルティングなどを行います。例：I need to consult a tax lawyer about my business. (事業について税務弁護士に相談する必要があります。)"
+    },
+    {
+      "id": 36,
+      "value": "intellectual property",
+      "options": [
+        "知的財産",
+        "不動産",
+        "動産",
+        "金融資産"
+      ],
+      "correctAnswer": "知的財産",
+      "explanation": "「Intellectual property」は、特許、商標、著作権など、人間の知的活動によって生み出された財産的価値のあるものを指します。例：We need to protect our intellectual property. (知的財産を保護する必要があります。)"
+    },
+    {
+      "id": 37,
+      "value": "outer space",
+      "options": [
+        "宇宙空間",
+        "異次元空間",
+        "屋内空間",
+        "仮想空間"
+      ],
+      "correctAnswer": "宇宙空間",
+      "explanation": "「Outer space」は、地球の大気圏外の空間を指します。天体や宇宙船が存在する場所です。例：He dreamed of traveling to outer space. (彼は宇宙空間への旅行を夢見ていた。)"
+    },
+    {
+      "id": 38,
+      "value": "patent",
+      "options": [
+        "特許",
+        "著作権",
+        "商標",
+        "意匠"
+      ],
+      "correctAnswer": "特許",
+      "explanation": "「Patent」は、発明を保護するための法的権利です。特許を取得することで、一定期間、その発明を独占的に利用することができます。例：We filed a patent for our new invention. (新しい発明の特許を申請しました。)"
+    },
+    {
+      "id": 39,
+      "value": "hear them out",
+      "options": [
+        "彼らの言うことを最後まで聞く",
+        "彼らを無視する",
+        "彼らを批判する",
+        "彼らを応援する"
+      ],
+      "correctAnswer": "彼らの言うことを最後まで聞く",
+      "explanation": "「Hear someone out」は、相手の意見や話を最後まで辛抱強く聞くという意味です。例：Just hear me out before you make a decision. (決定する前に、私の話を最後まで聞いてください。)"
+    },
+    {
+      "id": 40,
+      "value": "waste of our time",
+      "options": [
+        "時間の無駄",
+        "有意義な時間",
+        "楽しい時間",
+        "貴重な経験"
+      ],
+      "correctAnswer": "時間の無駄",
+      "explanation": "「Waste of time」は、時間や労力を費やしても何の成果も得られない、無駄な行為や状況を指します。例：That meeting was a complete waste of time. (あの会議は全く時間の無駄だった。)"
+    },
+    {
+      "id": 41,
+      "value": "murder charges",
+      "options": [
+        "殺人罪",
+        "窃盗罪",
+        "詐欺罪",
+        "暴行罪"
+      ],
+      "correctAnswer": "殺人罪",
+      "explanation": "「Murder charges」は、殺人を犯したとして告発されることを指します。非常に重い犯罪であり、厳しい刑罰が科せられる可能性があります。例：He is facing murder charges. (彼は殺人罪で起訴されている。)"
+    },
+    {
+      "id": 42,
+      "value": "sales seminar",
+      "options": [
+        "販売セミナー",
+        "料理教室",
+        "語学教室",
+        "スポーツジム"
+      ],
+      "correctAnswer": "販売セミナー",
+      "explanation": "「Sales seminar」は、販売技術やマーケティング戦略などを学ぶためのセミナーです。営業担当者や販売に関わる人が参加することが多いです。例：I attended a sales seminar to improve my skills. (スキルを向上させるために販売セミナーに参加しました。)"
+    },
+    {
+      "id": 43,
+      "value": "figure out",
+      "options": [
+        "理解する",
+        "忘れる",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「Figure out」は、問題や謎を解き明かす、理解するという意味です。努力や思考を伴って何かを理解する際に使われます。例：I'm trying to figure out how to solve this problem. (この問題をどう解決するか考えているところです。)"
+    },
+    {
+      "id": 44,
+      "value": "dimmed the lights",
+      "options": [
+        "明かりを暗くした",
+        "明かりを消した",
+        "明かりをつけた",
+        "明かりを修理した"
+      ],
+      "correctAnswer": "明かりを暗くした",
+      "explanation": "「Dim the lights」は、照明の明るさを下げるという意味です。雰囲気作りやリラックス効果を目的として行われることがあります。例：They dimmed the lights to create a romantic atmosphere. (彼らはロマンチックな雰囲気を作るために明かりを暗くした。)"
+    },
+    {
+      "id": 45,
+      "value": "exchange pleasantries",
+      "options": [
+        "挨拶を交わす",
+        "口論する",
+        "秘密を共有する",
+        "悪口を言う"
+      ],
+      "correctAnswer": "挨拶を交わす",
+      "explanation": "「Exchange pleasantries」は、初対面の人や久しぶりに会う人と、形式的な挨拶や世間話を交わすことを意味します。例：They exchanged pleasantries before getting down to business. (彼らは仕事の話に入る前に挨拶を交わした。)"
+    },
+    {
+      "id": 46,
+      "value": "Lights up",
+      "options": [
+        "活性化する",
+        "鎮静化する",
+        "混乱する",
+        "停止する"
+      ],
+      "correctAnswer": "活性化する",
+      "explanation": "（脳の活動などが）活性化する、活発になるという意味で使われています。比喩的に、感情や思考が高まる様子を表すこともあります。例：Certain areas of the brain light up when we are creative.(創造的な活動をしているとき、脳のある領域が活性化する。)"
+    },
+    {
+      "id": 47,
+      "value": "clump",
+      "options": [
+        "塊",
+        "透明",
+        "液体",
+        "光"
+      ],
+      "correctAnswer": "塊",
+      "explanation": "ここでは比喩的に、特定の性質や特徴を持つ細胞や感情などが集まっている様子を表しています。 例：a clump of trees（木の茂み）"
+    },
+    {
+      "id": 48,
+      "value": "regarding",
+      "options": [
+        "〜に関して",
+        "〜を無視して",
+        "〜に反して",
+        "〜を求めて"
+      ],
+      "correctAnswer": "〜に関して",
+      "explanation": "「regarding」は「〜に関して」「〜について」という意味のフォーマルな表現です。特定の話題や事柄に焦点を当てたいときに使います。例：I am writing to you regarding your application.（応募の件でご連絡しています。）"
+    },
+    {
+      "id": 49,
+      "value": "be disappointed in",
+      "options": [
+        "〜に失望する",
+        "〜に満足する",
+        "〜に興奮する",
+        "〜を尊敬する"
+      ],
+      "correctAnswer": "〜に失望する",
+      "explanation": "「be disappointed in」は「〜に失望する」「〜に期待外れである」という意味です。誰かの行動や結果が期待に沿わなかったときに使います。例：I am disappointed in your behavior.（あなたの行動に失望しています。）"
+    },
+    {
+      "id": 50,
+      "value": "get down to business",
+      "options": [
+        "本題に入る",
+        "休憩する",
+        "帰宅する",
+        "遊びに行く"
+      ],
+      "correctAnswer": "本題に入る",
+      "explanation": "「get down to business」は「本題に入る」「仕事に取り掛かる」という意味のイディオムです。余計な話をやめて、重要な話題や仕事に集中するときに使います。例：Let's get down to business and discuss the project.（本題に入って、プロジェクトについて話し合いましょう。）"
+    },
+    {
+      "id": 51,
+      "value": "enraged",
+      "options": [
+        "満足した",
+        "怒った",
+        "悲しんだ",
+        "興奮した"
+      ],
+      "correctAnswer": "怒った",
+      "explanation": "「enraged」は、激怒した、憤慨したという意味です。非常に強い怒りの感情を表し、しばしば制御を失うほどの状態を指します。日常会話よりも、ややフォーマルな文脈や文学的な表現で用いられることがあります。\n\n例：The unfair decision enraged the employees. (その不公平な決定は従業員たちを激怒させた。)"
+    },
+    {
+      "id": 52,
+      "value": "brains behind",
+      "options": [
+        "裏の立役者",
+        "資金提供者",
+        "最初の計画者",
+        "広報担当者"
+      ],
+      "correctAnswer": "裏の立役者",
+      "explanation": "「brains behind」は、計画やプロジェクトの背後にある知恵、つまり立案者や中心人物を指すイディオムです。特に、表には出ないものの、重要な役割を果たしている人物を指します。\n\n例：She is the brains behind the company's success. (彼女は会社の成功の裏の立役者だ。)"
+    },
+    {
+      "id": 53,
+      "value": "perpetually",
+      "options": [
+        "一時的に",
+        "永久に",
+        "迅速に",
+        "秘密裏に"
+      ],
+      "correctAnswer": "永久に",
+      "explanation": "「perpetually」は、絶え間なく、永久に、という意味の副詞です。何かが永遠に続く、または繰り返し起こる様子を表します。時間的な永続性を強調する際に用いられます。\n\n例：The fountain ran perpetually in the town square. (その噴水は町の広場で絶え間なく水を出し続けた。)"
+    },
+    {
+      "id": 54,
+      "value": "grasp of",
+      "options": [
+        "理解",
+        "軽視",
+        "無視",
+        "拒絶"
+      ],
+      "correctAnswer": "理解",
+      "explanation": "「grasp of」は、何かを理解していること、把握していることを意味します。特に、抽象的な概念や複雑な事柄に対する理解度を示す際に用いられます。\n\n例：He has a good grasp of the English language. (彼は英語をよく理解している。)"
+    },
+    {
+      "id": 55,
+      "value": "cut to the chase",
+      "options": [
+        "遠回りする",
+        "本題に入る",
+        "言い訳をする",
+        "詳細を語る"
+      ],
+      "correctAnswer": "本題に入る",
+      "explanation": "「cut to the chase」は、回りくどい話をやめて、すぐに本題に入るという意味のイディオムです。ビジネスシーンや議論の場で、時間を節約したい時によく使われます。\n\n例：Let's cut to the chase; we need to discuss the budget. (本題に入りましょう。予算について話し合う必要があります。)"
+    },
+    {
+      "id": 56,
+      "value": "put your mind at ease",
+      "options": [
+        "混乱させる",
+        "安心させる",
+        "無視する",
+        "疑念を抱かせる"
+      ],
+      "correctAnswer": "安心させる",
+      "explanation": "「put your mind at ease」は、人を安心させる、心配を取り除くという意味のイディオムです。不安や心配を抱えている相手に対して、安心感を与えるために使われます。\n\n例：I wanted to put your mind at ease about the rumors. (噂についてあなたを安心させたかったのです。)"
+    },
+    {
+      "id": 57,
+      "value": "guidance system",
+      "options": [
+        "誘導装置",
+        "防御システム",
+        "通信システム",
+        "エネルギー供給システム"
+      ],
+      "correctAnswer": "誘導装置",
+      "explanation": "「guidance system」は、乗り物やミサイルなどが目標地点まで正確に進むように誘導する装置のことです。進むべき方向や速度を制御する役割を果たします。\n\n例：The missile uses a sophisticated guidance system. (そのミサイルは高度な誘導装置を使用している。)"
+    },
+    {
+      "id": 58,
+      "value": "ran it by",
+      "options": [
+        "隠した",
+        "相談した",
+        "無視した",
+        "反対した"
+      ],
+      "correctAnswer": "相談した",
+      "explanation": "「run it by」は、アイデアや計画を人に相談する、意見を求めるという意味の口語的な表現です。提案や考えを共有し、フィードバックを得るために使われます。\n\n例：I want to run my proposal by you before the meeting. (会議の前に、私の提案をあなたに相談したい。)"
+    },
+    {
+      "id": 59,
+      "value": "trade school",
+      "options": [
+        "進学校",
+        "専門学校",
+        "予備校",
+        "神学校"
+      ],
+      "correctAnswer": "専門学校",
+      "explanation": "「trade school」は、特定の職業に必要な技能や知識を教える専門学校のことです。大学とは異なり、実践的なスキルを習得することを目的としています。\n\n例：He went to a trade school to become a mechanic. (彼は整備士になるために専門学校へ行った。)"
+    },
+    {
+      "id": 60,
+      "value": "get some work done",
+      "options": [
+        "休憩を取る",
+        "仕事をする",
+        "遊びに行く",
+        "昼寝をする"
+      ],
+      "correctAnswer": "仕事をする",
+      "explanation": "「get some work done」は、仕事をする、作業を進めるという意味の表現です。特に、集中して仕事に取り組むことを強調する際に用いられます。\n\n例：I need to get some work done before the deadline. (締め切り前に、いくつか仕事を終わらせる必要がある。)"
+    },
+    {
+      "id": 61,
+      "value": "gloat",
+      "options": [
+        "同情する",
+        "自慢する",
+        "後悔する",
+        "感謝する"
+      ],
+      "correctAnswer": "自慢する",
+      "explanation": "「gloat」は、他人の不幸や失敗を喜んで見下す、または自分の成功を誇示するという意味です。ネガティブなニュアンスが強く、相手を不快にさせる可能性があります。\n\n例：Don't gloat over his mistake. (彼の失敗を喜んで見下すな。)"
+    },
+    {
+      "id": 62,
+      "value": "stressing",
+      "options": [
+        "リラックスしている",
+        "ストレスを感じている",
+        "楽しんでいる",
+        "集中している"
+      ],
+      "correctAnswer": "ストレスを感じている",
+      "explanation": "「stressing」は、ストレスを感じている、悩んでいるという意味です。プレッシャーや不安によって精神的に負担がかかっている状態を表します。\n\n例：I'm really stressing about the upcoming exam. (もうすぐある試験のことで本当に悩んでいます。)"
+    },
+    {
+      "id": 63,
+      "value": "get sent back to square one",
+      "options": [
+        "成功する",
+        "振り出しに戻る",
+        "昇進する",
+        "休暇を取る"
+      ],
+      "correctAnswer": "振り出しに戻る",
+      "explanation": "「get sent back to square one」は、振り出しに戻る、最初からやり直すという意味のイディオムです。努力や進展が無駄になり、最初の状態に戻ってしまう状況を表します。\n\n例：If we fail this test, we'll get sent back to square one. (もしこのテストに失敗したら、振り出しに戻ってしまう。)"
+    },
+    {
+      "id": 64,
+      "value": "lunatic",
+      "options": [
+        "常識人",
+        "狂人",
+        "天才",
+        "臆病者"
+      ],
+      "correctAnswer": "狂人",
+      "explanation": "「lunatic」は、狂人、正気でない人を指す言葉です。非常に強く、侮蔑的な意味合いを含むため、使用には注意が必要です。現在では、精神疾患を持つ人に対する差別的な表現として避けられる傾向にあります。\n\n例：Only a lunatic would drive that fast. (そんなに速く運転するのは狂人だけだ。)"
+    },
+    {
+      "id": 65,
+      "value": "committed to",
+      "options": [
+        "反対している",
+        "熱心に取り組んでいる",
+        "無関心である",
+        "不満を持っている"
+      ],
+      "correctAnswer": "熱心に取り組んでいる",
+      "explanation": "「committed to」は、〜に献身的である、熱心に取り組んでいるという意味です。目標や義務に対して真剣に取り組み、全力を尽くす姿勢を表します。\n\n例：They are committed to providing quality education. (彼らは質の高い教育を提供することに尽力している。)"
+    },
+    {
+      "id": 66,
+      "value": "inform",
+      "options": [
+        "尋問する",
+        "知らせる",
+        "誤解させる",
+        "無視する"
+      ],
+      "correctAnswer": "知らせる",
+      "explanation": "「inform」は、人に情報や事実を伝える、知らせるという意味です。公式な文脈やフォーマルな状況でよく用いられます。\n\n例：Please inform me of any changes. (変更があればお知らせください。)"
+    },
+    {
+      "id": 67,
+      "value": "text-to-speech",
+      "options": [
+        "音声認識",
+        "テキスト読み上げ",
+        "自動翻訳",
+        "音声録音"
+      ],
+      "correctAnswer": "テキスト読み上げ",
+      "explanation": "「text-to-speech」は、テキストを音声に変換する技術、またはソフトウェアのことです。視覚障碍者や、読書が困難な人々にとって有用なツールとなります。\n\n例：My phone has a text-to-speech function. (私の電話にはテキスト読み上げ機能があります。)"
+    },
+    {
+      "id": 68,
+      "value": "quantum vortices",
+      "options": [
+        "量子的渦",
+        "古典的調和",
+        "相対性理論",
+        "超弦理論"
+      ],
+      "correctAnswer": "量子的渦",
+      "explanation": "「quantum vortices」は、量子力学における渦のことで、超流動や超伝導などの現象に関連しています。物理学の専門用語であり、日常会話ではほとんど使われません。\n\n例：The behavior of quantum vortices is complex. (量子的渦の振る舞いは複雑だ。)"
+    },
+    {
+      "id": 69,
+      "value": "application for",
+      "options": [
+        "応用",
+        "反対",
+        "軽視",
+        "拒否"
+      ],
+      "correctAnswer": "応用",
+      "explanation": "「application for」は、〜への応用、適用という意味です。特定の技術や理論が、別の分野や目的に利用できる可能性を示唆する際に用いられます。\n\n例：There is an application for this technology in medicine. (この技術には医学への応用がある。)"
+    },
+    {
+      "id": 70,
+      "value": "short time frame",
+      "options": [
+        "長い期間",
+        "短い期間",
+        "不明確な期間",
+        "永遠の期間"
+      ],
+      "correctAnswer": "短い期間",
+      "explanation": "「short time frame」は、短い期間、短い時間枠という意味です。プロジェクトやタスクを完了するために与えられた時間が限られている状況を表します。\n\n例：We have to finish this project within a short time frame. (私たちはこのプロジェクトを短い期間内に終わらせなければならない。)"
+    },
+    {
+      "id": 71,
+      "value": "otherwise",
+      "options": [
+        "同様に",
+        "そうでなければ",
+        "特に",
+        "それにもかかわらず"
+      ],
+      "correctAnswer": "そうでなければ",
+      "explanation": "「otherwise」は、「そうでなければ」「別の方法で」「他の点では」といった意味を持つ副詞です。条件や仮定に基づいて、結果が異なることを示す際に用いられます。\n\n例：We must hurry, otherwise we'll be late. (急がなければ、遅れてしまう。)"
+    },
+    {
+      "id": 72,
+      "value": "gloating",
+      "options": [
+        "後悔",
+        "自慢",
+        "謙遜",
+        "感謝"
+      ],
+      "correctAnswer": "自慢",
+      "explanation": "「gloating」は、他人の不幸や失敗を喜んで見下す、または自分の成功を誇示するという意味です。ネガティブなニュアンスが強く、相手を不快にさせる可能性があります。\n\n例：Don't gloat over his mistake. (彼の失敗を喜んで見下すな。)"
+    },
+    {
+      "id": 73,
+      "value": "differently",
+      "options": [
+        "同じように",
+        "異なって",
+        "正確に",
+        "迅速に"
+      ],
+      "correctAnswer": "異なって",
+      "explanation": "「differently」は、異なる方法で、違って、という意味の副詞です。比較や対比を示す際に用いられます。\n\n例：They treated her differently after she won the award. (彼女が賞を受賞した後、彼らは彼女に対する態度を変えた。)"
+    },
+    {
+      "id": 74,
+      "value": "apple slices",
+      "options": [
+        "オレンジジュース",
+        "アップルパイ",
+        "リンゴのスライス",
+        "チョコレートケーキ"
+      ],
+      "correctAnswer": "リンゴのスライス",
+      "explanation": "「apple slices」は、リンゴを薄く切ったものです。健康的なスナックとしてよく食べられます。\n\n例：She packed apple slices for her lunch. (彼女は昼食にリンゴのスライスを詰めた。)"
+    },
+    {
+      "id": 75,
+      "value": "lemon bars",
+      "options": [
+        "レモンジュース",
+        "レモンケーキ",
+        "レモンバー",
+        "レモンスカッシュ"
+      ],
+      "correctAnswer": "レモンバー",
+      "explanation": "「lemon bars」は、レモンの風味豊かなデザートバーです。通常、ショートブレッドのようなベースの上に、甘酸っぱいレモンカードが乗っています。\n\n例：She baked lemon bars for the party. (彼女はパーティーのためにレモンバーを焼いた。)"
+    },
+    {
+      "id": 76,
+      "value": "presumed extinction",
+      "options": [
+        "一時的な休止",
+        "完全な創造",
+        "推定上の絶滅",
+        "緩やかな進化"
+      ],
+      "correctAnswer": "推定上の絶滅",
+      "explanation": "「presumed extinction」とは、「推定上の絶滅」という意味です。生物学の分野で、ある生物種が長期間確認されておらず、絶滅したと推測される状況を指します。ただし、確実な証拠がないため「推定上の」という言葉が使われます。"
+    },
+    {
+      "id": 77,
+      "value": "slipped out",
+      "options": [
+        "滑り込んだ",
+        "秘密にした",
+        "うっかり口に出た",
+        "詳細に説明した"
+      ],
+      "correctAnswer": "うっかり口に出た",
+      "explanation": "「slip out」は、「うっかり口を滑らせる、つい口に出してしまう」という意味のイディオムです。意図せずに秘密や言うべきでないことを言ってしまう状況を表します。"
+    },
+    {
+      "id": 78,
+      "value": "substantial",
+      "options": [
+        "実質的な",
+        "架空の",
+        "わずかな",
+        "間接的な"
+      ],
+      "correctAnswer": "実質的な",
+      "explanation": "「substantial」は、「かなりの、相当な、実質的な」という意味を持つ形容詞です。量、価値、重要性などが大きいことを表します。例文：The funding is substantial.(資金はかなりの額だ。)"
+    },
+    {
+      "id": 79,
+      "value": "awkward pause",
+      "options": [
+        "短い休憩",
+        "気まずい沈黙",
+        "自然な流れ",
+        "激しい議論"
+      ],
+      "correctAnswer": "気まずい沈黙",
+      "explanation": "「awkward pause」は、「気まずい沈黙、ぎこちない間」という意味です。会話や状況がぎこちなく、不快な沈黙が流れる様子を表します。"
+    },
+    {
+      "id": 80,
+      "value": "leaving me behind",
+      "options": [
+        "私を置いていく",
+        "私を助ける",
+        "私を招待する",
+        "私を理解する"
+      ],
+      "correctAnswer": "私を置いていく",
+      "explanation": "「leave someone behind」は、「（人）を置き去りにする、見捨てる」という意味の句動詞です。文字通りに場所的な意味で使うことも、比喩的に精神的な意味で使うこともできます。"
+    },
+    {
+      "id": 81,
+      "value": "silly",
+      "options": [
+        "賢い",
+        "真面目な",
+        "ばかげた",
+        "勇敢な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「silly」は、「ばかげた、くだらない、おろかな」という意味の形容詞です。深刻さや重要性が欠けている、軽はずみな行動や発言に対して使われます。"
+    },
+    {
+      "id": 82,
+      "value": "for what it's worth",
+      "options": [
+        "価値があるかどうか",
+        "価値がないので",
+        "要するに",
+        "もし良ければ"
+      ],
+      "correctAnswer": "価値があるかどうか",
+      "explanation": "「for what it's worth」は、「それがどれだけの価値があるか分からないけど、参考までに」という意味合いで使われる表現です。自分の意見や情報が相手にとって役に立つかどうか確信がない場合に、謙遜して付け加える言葉です。"
+    },
+    {
+      "id": 83,
+      "value": "sweet little",
+      "options": [
+        "意地悪な",
+        "かわいらしい",
+        "恐ろしい",
+        "ずる賢い"
+      ],
+      "correctAnswer": "かわいらしい",
+      "explanation": "この場合の「sweet little」は、一見すると「かわいらしい」という意味合いですが、Bernadetteが自分のことを皮肉っぽく表現するために使われています。ここでは、「無力そうに見える」といったニュアンスが含まれています。"
+    },
+    {
+      "id": 84,
+      "value": "not afraid to",
+      "options": [
+        "恐れている",
+        "ためらっている",
+        "喜んで～する",
+        "～することを恐れない"
+      ],
+      "correctAnswer": "～することを恐れない",
+      "explanation": "「not afraid to」は、「～することを恐れない、ためらわない」という意味です。積極的な行動や意思を示す際に使われます。"
+    },
+    {
+      "id": 85,
+      "value": "sue",
+      "options": [
+        "感謝する",
+        "訴える",
+        "支援する",
+        "無視する"
+      ],
+      "correctAnswer": "訴える",
+      "explanation": "「sue」は、「訴える」という意味の動詞です。法的な措置を取ることを意味します。"
+    },
+    {
+      "id": 86,
+      "value": "eye level with",
+      "options": [
+        "見下ろす",
+        "見上げる",
+        "目の高さが同じ",
+        "視界に入らない"
+      ],
+      "correctAnswer": "目の高さが同じ",
+      "explanation": "「eye level with」は、「～と目の高さが同じ」という意味です。物理的な高さの関係を表します。"
+    },
+    {
+      "id": 87,
+      "value": "eating out of my hand",
+      "options": [
+        "完全に支配する",
+        "仲良く食事をする",
+        "手料理を振る舞う",
+        "正直に打ち明ける"
+      ],
+      "correctAnswer": "完全に支配する",
+      "explanation": "「have someone eating out of your hand」は、「（人）を完全に手玉に取る、意のままに操る」という意味のイディオムです。人があなたを信用し、何でも言うことを聞く状態を表します。"
+    },
+    {
+      "id": 88,
+      "value": "classified",
+      "options": [
+        "分類された",
+        "機密の",
+        "公共の",
+        "未定義の"
+      ],
+      "correctAnswer": "機密の",
+      "explanation": "「classified」は、「機密扱いの、秘密の」という意味の形容詞です。政府や組織などが、特定の情報を一般公開しないように指定している状態を表します。"
+    },
+    {
+      "id": 89,
+      "value": "put away",
+      "options": [
+        "片付ける",
+        "隠す",
+        "食べる",
+        "無視する"
+      ],
+      "correctAnswer": "食べる",
+      "explanation": "この文脈での「put away」は、「（食べ物）を平らげる、たくさん食べる」という意味で使われています。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 90,
+      "value": "reinstate",
+      "options": [
+        "修正する",
+        "復活させる",
+        "開始する",
+        "延期する"
+      ],
+      "correctAnswer": "復活させる",
+      "explanation": "「reinstate」は、「元に戻す、復活させる、復帰させる」という意味の動詞です。以前に存在していた規則、制度、状態などを再び有効にすることを指します。"
+    },
+    {
+      "id": 91,
+      "value": "access granted",
+      "options": [
+        "アクセス拒否",
+        "アクセス許可",
+        "エラー発生",
+        "認証失敗"
+      ],
+      "correctAnswer": "アクセス許可",
+      "explanation": "「access granted」は、「アクセス許可」という意味です。セキュリティシステムなどで、特定の人物やプログラムにアクセスが許可されたことを示すメッセージとして使われます。"
+    },
+    {
+      "id": 92,
+      "value": "no way",
+      "options": [
+        "もちろん",
+        "まさか",
+        "問題ない",
+        "その通り"
+      ],
+      "correctAnswer": "まさか",
+      "explanation": "「no way」は、「まさか、ありえない、とんでもない」という意味の口語表現です。驚き、不信、不同意などの感情を表します。"
+    },
+    {
+      "id": 93,
+      "value": "access denied",
+      "options": [
+        "アクセス許可",
+        "アクセス拒否",
+        "認証成功",
+        "接続完了"
+      ],
+      "correctAnswer": "アクセス拒否",
+      "explanation": "「access denied」は、「アクセス拒否」という意味です。セキュリティシステムなどで、特定の人物やプログラムにアクセスが許可されなかったことを示すメッセージとして使われます。"
+    },
+    {
+      "id": 94,
+      "value": "presumed",
+      "options": [
+        "証明された",
+        "推定された",
+        "無視された",
+        "隠された"
+      ],
+      "correctAnswer": "推定された",
+      "explanation": "「presumed」は、「推定された、想定された」という意味の形容詞です。確かな証拠はないものの、ある事柄が真実であると仮定する場合に使われます。"
+    },
+    {
+      "id": 95,
+      "value": "regrets",
+      "options": [
+        "後悔",
+        "喜び",
+        "期待",
+        "安心"
+      ],
+      "correctAnswer": "後悔",
+      "explanation": "「regret」は、「後悔、残念」という意味の名詞または動詞です。過去の行動や決定について、今の時点で良くなかったと感じる気持ちを表します。"
+    },
+    {
+      "id": 96,
+      "value": "deadline",
+      "options": [
+        "開始日",
+        "締切日",
+        "休日",
+        "会議日"
+      ],
+      "correctAnswer": "締切日",
+      "explanation": "「deadline」は、「締切日、期限」という意味の名詞です。タスクやプロジェクトなどを完了させなければならない最終日を指します。"
+    },
+    {
+      "id": 97,
+      "value": "campus",
+      "options": [
+        "都市",
+        "キャンパス",
+        "オフィス",
+        "自宅"
+      ],
+      "correctAnswer": "キャンパス",
+      "explanation": "「campus」は、「キャンパス、大学構内」という意味の名詞です。大学や専門学校などの敷地全体を指します。"
+    },
+    {
+      "id": 98,
+      "value": "apologize",
+      "options": [
+        "感謝する",
+        "謝罪する",
+        "許す",
+        "祝福する"
+      ],
+      "correctAnswer": "謝罪する",
+      "explanation": "「apologize」は、「謝罪する、わびる」という意味の動詞です。自分の過ちや失礼な行為を認めて、相手に謝ることを意味します。"
+    },
+    {
+      "id": 99,
+      "value": "gently",
+      "options": [
+        "激しく",
+        "優しく",
+        "大声で",
+        "無視して"
+      ],
+      "correctAnswer": "優しく",
+      "explanation": "「gently」は、「優しく、穏やかに、静かに」という意味の副詞です。乱暴な方法ではなく、丁寧に行動する様子を表します。"
+    },
+    {
+      "id": 100,
+      "value": "corridor",
+      "options": [
+        "部屋",
+        "廊下",
+        "庭",
+        "屋上"
+      ],
+      "correctAnswer": "廊下",
+      "explanation": "「corridor」は、「廊下、回廊」という意味の名詞です。建物内の部屋や区画をつなぐ通路を指します。"
+    }
+  ]
+}

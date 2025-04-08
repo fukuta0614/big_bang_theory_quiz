@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "stinks",
+      "options": [
+        "改善する",
+        "素晴らしい",
+        "最悪だ",
+        "普通だ"
+      ],
+      "correctAnswer": "最悪だ",
+      "explanation": "「stinks」は、文字通りには「臭い」という意味ですが、口語的には「ひどい」「最悪だ」という意味で使われます。不快な状況や出来事に対して使われることが多いです。類似表現として 'that sucks' があります。\n\n例：This whole situation stinks. (この状況全体が最悪だ。)"
+    },
+    {
+      "id": 2,
+      "value": "susceptible to",
+      "options": [
+        "影響を受けやすい",
+        "免疫がある",
+        "抵抗がある",
+        "関係がない"
+      ],
+      "correctAnswer": "影響を受けやすい",
+      "explanation": "「susceptible to」は、「～の影響を受けやすい」「～にかかりやすい」という意味です。病気、感情、または物理的な影響など、良くないものに対して使われることが多いです。\n\n例：He is susceptible to colds. (彼は風邪をひきやすい。)"
+    },
+    {
+      "id": 3,
+      "value": "pick up a few things",
+      "options": [
+        "いくつか拾う",
+        "何かを学ぶ",
+        "何かを落とす",
+        "何かを無視する"
+      ],
+      "correctAnswer": "何かを学ぶ",
+      "explanation": "「pick up a few things」は、「（自然に）何かを学ぶ」「知識やスキルを習得する」という意味です。特に意識せずに、経験を通して何かを身につけるニュアンスがあります。\n\n例：I picked up a few things about cooking from my mother. (母から料理についていくつか学んだ。)"
+    },
+    {
+      "id": 4,
+      "value": "a place to crash",
+      "options": [
+        "衝突場所",
+        "休憩場所",
+        "隠れ場所",
+        "滞在場所"
+      ],
+      "correctAnswer": "滞在場所",
+      "explanation": "\"a place to crash\" は口語的な表現で、「一時的に泊まる場所」「寝泊まりできる場所」という意味です。友人宅などに短期間滞在するような状況で使われます。\n\n例：I need a place to crash for the night. (今夜、泊まれる場所が必要だ。)"
+    },
+    {
+      "id": 5,
+      "value": "inconvenience",
+      "options": [
+        "便利",
+        "迷惑",
+        "快適",
+        "利益"
+      ],
+      "correctAnswer": "迷惑",
+      "explanation": "「inconvenience」は、「不便」「迷惑」「面倒」という意味です。人に対してだけでなく、物事や状況に対しても使われます。\n\n例：I don't want to be an inconvenience. (ご迷惑をおかけしたくない。)"
+    },
+    {
+      "id": 6,
+      "value": "a big step",
+      "options": [
+        "大きな段差",
+        "重要な一歩",
+        "小さな努力",
+        "無意味な行動"
+      ],
+      "correctAnswer": "重要な一歩",
+      "explanation": "「a big step」は、「大きな一歩」「重要な段階」という意味です。人生における重要な決断や進展を表す際に使われます。\n\n例：Moving in together is a big step in a relationship. (一緒に住むことは、関係における大きな一歩だ。)"
+    },
+    {
+      "id": 7,
+      "value": "process",
+      "options": [
+        "処理する",
+        "無視する",
+        "拒否する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "処理する",
+      "explanation": "「process」は、ここでは「（情報や感情を）処理する」「理解する」という意味です。新しい情報や複雑な状況を受け入れ、理解しようとする行為を指します。\n\n例：I need time to process what happened. (何が起こったのかを理解する時間が必要だ。)"
+    },
+    {
+      "id": 8,
+      "value": "put out a fire",
+      "options": [
+        "火を消す",
+        "情熱を冷ます",
+        "火をつける",
+        "注目を集める"
+      ],
+      "correctAnswer": "情熱を冷ます",
+      "explanation": "「put out a fire」は、文字通りには「火を消す」という意味ですが、比喩的には「（情熱、興奮などを）冷ます」「鎮める」という意味で使われます。\n\n例：The bad news put out a fire under their enthusiasm. (その悪い知らせは彼らの熱意を冷ました。)"
+    },
+    {
+      "id": 9,
+      "value": "a peek behind the curtain",
+      "options": [
+        "カーテンの後ろを覗く",
+        "秘密を知る",
+        "舞台を見る",
+        "休憩を取る"
+      ],
+      "correctAnswer": "秘密を知る",
+      "explanation": "「a peek behind the curtain」は、「内幕を覗く」「秘密を知る」という意味です。通常隠されているもの、公にはされないものを垣間見ることを指します。\n\n例：The documentary gave us a peek behind the curtain of the company's operations. (そのドキュメンタリーは、会社の運営の内幕を私たちに見せてくれた。)"
+    },
+    {
+      "id": 10,
+      "value": "apprehension",
+      "options": [
+        "理解",
+        "不安",
+        "喜び",
+        "自信"
+      ],
+      "correctAnswer": "不安",
+      "explanation": "「apprehension」は、「不安」「懸念」「心配」という意味です。将来起こるかもしれない良くないことに対する気持ちを表します。\n\n例：She felt a sense of apprehension before the exam. (彼女は試験の前に不安を感じた。)"
+    },
+    {
+      "id": 11,
+      "value": "luring me in",
+      "options": [
+        "私を誘い込む",
+        "私を無視する",
+        "私を避ける",
+        "私を解放する"
+      ],
+      "correctAnswer": "私を誘い込む",
+      "explanation": "「lure in」は、「誘い込む」「おびき寄せる」という意味です。魅力的なものを使って人を引き寄せるニュアンスがあります。\n\n例：They tried to lure me in with promises of high salary. (彼らは高給の約束で私を誘い込もうとした。)"
+    },
+    {
+      "id": 12,
+      "value": "valid",
+      "options": [
+        "無効な",
+        "有効な",
+        "不確かな",
+        "偽りの"
+      ],
+      "correctAnswer": "有効な",
+      "explanation": "「valid」は、「有効な」「妥当な」「正当な」という意味です。論理的、法的、または科学的な根拠があることを示します。\n\n例：This experiment is not valid. (この実験は有効ではない。)"
+    },
+    {
+      "id": 13,
+      "value": "self-sustaining",
+      "options": [
+        "自己破壊的な",
+        "自立した",
+        "他者に依存した",
+        "持続不可能な"
+      ],
+      "correctAnswer": "自立した",
+      "explanation": "「self-sustaining」は、「自立した」「持続可能な」という意味です。外部からの援助なしに、自身で維持できる状態を指します。\n\n例：The community is self-sustaining. (そのコミュニティは自立している。)"
+    },
+    {
+      "id": 14,
+      "value": "on board",
+      "options": [
+        "乗船して",
+        "参加して",
+        "拒否して",
+        "傍観して"
+      ],
+      "correctAnswer": "参加して",
+      "explanation": "「on board」は、「賛成して」「協力して」「参加して」という意味です。プロジェクトや計画に同意し、参加する意思を示す際に使われます。\n\n例：I'm on board with your plan. (あなたの計画に賛成です。)"
+    },
+    {
+      "id": 15,
+      "value": "weird",
+      "options": [
+        "普通の",
+        "奇妙な",
+        "素晴らしい",
+        "退屈な"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "「weird」は、「奇妙な」「変な」「風変わりな」という意味です。普通とは異なる、または理解しにくいものを指します。\n\n例：He is a weird person. (彼は奇妙な人だ。)"
+    },
+    {
+      "id": 16,
+      "value": "textbook",
+      "options": [
+        "教科書的な",
+        "非現実的な",
+        "複雑な",
+        "独創的な"
+      ],
+      "correctAnswer": "教科書的な",
+      "explanation": "「textbook」は、「教科書的な」「典型的な」という意味です。教科書に載っているような、標準的で理想的な状態を指します。必ずしも良い意味とは限りません。\n\n例：The surgery was a textbook case. (その手術は教科書的な症例だった。)"
+    },
+    {
+      "id": 17,
+      "value": "the polite response",
+      "options": [
+        "失礼な返事",
+        "丁寧な返事",
+        "無言の反応",
+        "直接的な反応"
+      ],
+      "correctAnswer": "丁寧な返事",
+      "explanation": "「the polite response」は、「丁寧な返事」「礼儀正しい反応」という意味です。相手を尊重し、適切な言葉遣いや態度で応じることを指します。\n\n例：The polite response is to say thank you. (丁寧な返事はありがとうと言うことだ。)"
+    },
+    {
+      "id": 18,
+      "value": "mobility",
+      "options": [
+        "安定性",
+        "可動性",
+        "不変性",
+        "静止"
+      ],
+      "correctAnswer": "可動性",
+      "explanation": "「mobility」は、「可動性」「移動性」「流動性」という意味です。物が動いたり、人が移動したりする能力を指します。この文脈では、イオンが水中で移動する性質を指しています。\n\n例：The mobility of ions is important in chemical reactions. (イオンの可動性は化学反応において重要である。)"
+    },
+    {
+      "id": 19,
+      "value": "corrosion",
+      "options": [
+        "保護",
+        "腐食",
+        "修復",
+        "強化"
+      ],
+      "correctAnswer": "腐食",
+      "explanation": "「corrosion」は、「腐食」「浸食」という意味です。金属などが化学反応によって徐々に劣化する現象を指します。錆（さび）も一種の腐食です。\n\n例：The bridge is suffering from corrosion. (その橋は腐食に苦しんでいる。)"
+    },
+    {
+      "id": 20,
+      "value": "neutral environment",
+      "options": [
+        "敵対的な環境",
+        "中立的な環境",
+        "友好的な環境",
+        "不快な環境"
+      ],
+      "correctAnswer": "中立的な環境",
+      "explanation": "「neutral environment」は、「中立的な環境」「公平な環境」という意味です。特定の感情や影響を受けにくい、客観的な状態を指します。実験においては、偏りを避けるために重要です。\n\n例：It is important to do experiment in neutral environment. (中立的な環境で実験を行うことが重要です。)"
+    },
+    {
+      "id": 21,
+      "value": "Historically",
+      "options": [
+        "歴史的に",
+        "一時的に",
+        "個人的に",
+        "未来的に"
+      ],
+      "correctAnswer": "歴史的に",
+      "explanation": "\"Historically\" は「歴史的に見て」「過去を振り返ると」という意味です。過去の経験や事例に基づいて何かを述べる際に使われます。\n\n例: Historically, this region has been prone to earthquakes. (歴史的に見て、この地域は地震が起こりやすい。)"
+    },
+    {
+      "id": 22,
+      "value": "sovereign soil",
+      "options": [
+        "肥沃な土地",
+        "主権的な土地",
+        "荒れた土地",
+        "共有の土地"
+      ],
+      "correctAnswer": "主権的な土地",
+      "explanation": "\"sovereign soil\" は「主権的な土地」「自国領土」という意味です。国家が完全な支配権を持つ土地を指します。シェルドンの座席を比喩的に表現しています。\n\n例: Every nation protects its sovereign soil. (すべての国は自国の領土を守る。)"
+    },
+    {
+      "id": 23,
+      "value": "fertilized",
+      "options": [
+        "消毒された",
+        "肥沃にされた",
+        "汚染された",
+        "乾燥された"
+      ],
+      "correctAnswer": "肥沃にされた",
+      "explanation": "「fertilized」は、「肥沃にされた」「受精した」という意味です。土地や植物を豊かにするために、肥料を与えられた状態を指します。\n\n例：The field was fertilized with manure. (その畑は肥料で肥沃にされた。)"
+    },
+    {
+      "id": 24,
+      "value": "prone to",
+      "options": [
+        "耐性がある",
+        "傾向がある",
+        "免疫がある",
+        "無関係な"
+      ],
+      "correctAnswer": "傾向がある",
+      "explanation": "「prone to」は、「～しがちである」「～する傾向がある」という意味です。好ましくない事柄について使われることが多いです。\n\n例：I am prone to get colds in the winter. (私は冬に風邪をひきやすい。)"
+    },
+    {
+      "id": 25,
+      "value": "a good-looking baby",
+      "options": [
+        "魅力的な赤ん坊",
+        "一般的な赤ん坊",
+        "問題のある赤ん坊",
+        "想像上の赤ん坊"
+      ],
+      "correctAnswer": "魅力的な赤ん坊",
+      "explanation": "「a good-looking baby」は、「見栄えの良い赤ちゃん」「かわいらしい赤ちゃん」という意味です。主観的な表現であり、容姿が良い赤ちゃんを指します。\n\n例：Everyone said she had a good-looking baby. (誰もが彼女の赤ちゃんは見栄えが良いと言った。)"
+    },
+    {
+      "id": 26,
+      "value": "flip a coin",
+      "options": [
+        "コインを投げる",
+        "状況を好転させる",
+        "秘密を打ち明ける",
+        "賭けをする"
+      ],
+      "correctAnswer": "コインを投げる",
+      "explanation": "「flip a coin」は、コイントスをして物事を決定するという意味です。五分五分の確率で決める際に用いられます。例えば、どちらが先に始めるかを決めるときなどに使われます。"
+    },
+    {
+      "id": 27,
+      "value": "fifty-fifty shot",
+      "options": [
+        "秘密裏の計画",
+        "五分五分の確率",
+        "幸運な出来事",
+        "不可能な試み"
+      ],
+      "correctAnswer": "五分五分の確率",
+      "explanation": "「fifty-fifty shot」は、成功する確率が50%であることを意味します。何かをする際に、成功の見込みが半々である状況を表す時に使われます。例えば、「It's a fifty-fifty shot whether he'll come or not.（彼が来るかどうかは五分五分だ。）」のように使います。"
+    },
+    {
+      "id": 28,
+      "value": "significant other",
+      "options": [
+        "重要な他者",
+        "意味のある目標",
+        "重要な仕事",
+        "恋人や配偶者"
+      ],
+      "correctAnswer": "恋人や配偶者",
+      "explanation": "「significant other」は、恋人、配偶者、パートナーなど、人生において重要な人物を指す婉曲的な表現です。性別を特定せずに使えるため、多様な関係性に対応できます。フォーマルな場面でも使用可能です。"
+    },
+    {
+      "id": 29,
+      "value": "insane",
+      "options": [
+        "正気の",
+        "非常識な",
+        "安全な",
+        "退屈な"
+      ],
+      "correctAnswer": "非常識な",
+      "explanation": "「insane」は、精神的に病んでいる、正気でないという意味の他に、度が過ぎている、ばかげている、非常識だという意味合いでも使われます。ここでは「insane roommate」で「どうかしているルームメイト」という意味です。"
+    },
+    {
+      "id": 30,
+      "value": "cliché",
+      "options": [
+        "革新",
+        "流行",
+        "決まり文句",
+        "証拠"
+      ],
+      "correctAnswer": "決まり文句",
+      "explanation": "「cliché」は、使い古された表現や考え方を指します。本来は新鮮であったものが、頻繁に使われることで陳腐化し、退屈になったものを指すことが多いです。「It sounds like a cliché, but...（決まり文句のように聞こえるかもしれないけど）」のように、逆説的に使うこともあります。"
+    },
+    {
+      "id": 31,
+      "value": "compromise",
+      "options": [
+        "競争",
+        "決意",
+        "妥協",
+        "拒否"
+      ],
+      "correctAnswer": "妥協",
+      "explanation": "「compromise」は、意見の異なる者が互いに譲歩して合意に達することを意味します。ビジネス、政治、人間関係など、様々な場面で重要な概念です。動詞としても名詞としても使われます。ここでは名詞で使用されています。"
+    },
+    {
+      "id": 32,
+      "value": "startle",
+      "options": [
+        "安心させる",
+        "落ち着かせる",
+        "驚かせる",
+        "無視する"
+      ],
+      "correctAnswer": "驚かせる",
+      "explanation": "「startle」は、突然驚かせるという意味です。大きな音や予期せぬ動きによって人がびっくりする様子を表します。受け身で使われることが多く、「He was startled by the loud noise.（彼は大きな音にびっくりした。）」のように使われます。"
+    },
+    {
+      "id": 33,
+      "value": "uncharted territory",
+      "options": [
+        "未開の地",
+        "安全な場所",
+        "よく知られた場所",
+        "秘密の場所"
+      ],
+      "correctAnswer": "未開の地",
+      "explanation": "「uncharted territory」は、文字通りには「地図にない領域」という意味ですが、比喩的には「未経験の分野」「未知の領域」を指します。新しい試みや、誰も足を踏み入れたことのない状況を表す際に用いられます。"
+    },
+    {
+      "id": 34,
+      "value": "coital",
+      "options": [
+        "友好的な",
+        "性交の",
+        "協力的な",
+        "一般的な"
+      ],
+      "correctAnswer": "性交の",
+      "explanation": "「coital」は、性交に関する、性交のという意味を持つ形容詞です。医学的な文脈や、フォーマルな場面で使われることが多い言葉です。日常会話ではあまり使われません。"
+    },
+    {
+      "id": 35,
+      "value": "foreplay",
+      "options": [
+        "本題",
+        "前戯",
+        "休憩",
+        "解決策"
+      ],
+      "correctAnswer": "前戯",
+      "explanation": "「foreplay」は、性行為における前戯を意味します。肉体的な親密さを深めるための行為全般を指し、キスや愛撫などが含まれます。ここでは比喩的に、性的な関係を持つことに対する準備段階という意味合いで使われています。"
+    },
+    {
+      "id": 36,
+      "value": "settled in",
+      "options": [
+        "解決した",
+        "落ち着いた",
+        "出発した",
+        "中断した"
+      ],
+      "correctAnswer": "落ち着いた",
+      "explanation": "「settle in」は、新しい場所や環境に慣れて、快適に過ごせるようになるという意味です。引越し後や新しい職場などで、生活が落ち着く様子を表す際に使われます。「Once we're more settled in, we can revisit it.（もっと落ち着いたら、また考え直しましょう。）」のように使います。"
+    },
+    {
+      "id": 37,
+      "value": "worked up",
+      "options": [
+        "冷静な",
+        "興奮した",
+        "疲れた",
+        "満足した"
+      ],
+      "correctAnswer": "興奮した",
+      "explanation": "「worked up」は、興奮している、動揺している、感情が高ぶっている状態を表します。良い意味でも悪い意味でも使われますが、ここでは、性的な意味で興奮するという意味合いで使用されています。「get someone all worked up」で、「人を興奮させる」という意味になります。"
+    },
+    {
+      "id": 38,
+      "value": "got my motor running",
+      "options": [
+        "車を修理する",
+        "やる気になる",
+        "眠りにつく",
+        "混乱する"
+      ],
+      "correctAnswer": "やる気になる",
+      "explanation": "「get my motor running」は、文字通りには「モーターが回り始める」という意味ですが、比喩的には「やる気になる」「興奮する」という意味で使われます。ここでは特に、性的な意味合いで興奮するという意味で使われています。"
+    },
+    {
+      "id": 39,
+      "value": "boldly go where no man has gone before",
+      "options": [
+        "過去を振り返る",
+        "前人未到の地へ行く",
+        "安全な道を選ぶ",
+        "現状維持に甘んじる"
+      ],
+      "correctAnswer": "前人未到の地へ行く",
+      "explanation": "「boldly go where no man has gone before」は、スタートレックの有名なフレーズで、「誰も行ったことのない場所へ大胆に進む」という意味です。新しい挑戦や未知の領域への探求を奨励する際に用いられます。ここでは、シェルドンとエイミーの関係が新たな段階に進むことを示唆しています。"
+    },
+    {
+      "id": 40,
+      "value": "avocado pit",
+      "options": [
+        "アボカドの皮",
+        "アボカドの種",
+        "アボカドの葉",
+        "アボカドの肥料"
+      ],
+      "correctAnswer": "アボカドの種",
+      "explanation": "「avocado pit」は、アボカドの種のことです。アボカドの種を水につけて育てることがありますが、ここではレナードがアボカドの世話をすることを、少し皮肉っぽく表現しています。"
+    },
+    {
+      "id": 41,
+      "value": "goofus",
+      "options": [
+        "完璧な人",
+        "おっちょこちょいな人",
+        "勇敢な人",
+        "怠惰な人"
+      ],
+      "correctAnswer": "おっちょこちょいな人",
+      "explanation": "「Goofus and Gallant」は、子供向けの雑誌によく登場するキャラクターで、「Goofus」は礼儀を知らない、わがままな子供を指します。一方、「Gallant」は礼儀正しく、親切な子供を指します。ここでは、エイミーが自分を「Goofus」に例え、シェルドンとの違いを表現しています。"
+    },
+    {
+      "id": 42,
+      "value": "gallant",
+      "options": [
+        "粗野な人",
+        "勇敢な人",
+        "臆病な人",
+        "不器用な人"
+      ],
+      "correctAnswer": "勇敢な人",
+      "explanation": "「Goofus and Gallant」は、子供向けの雑誌によく登場するキャラクターで、「Gallant」は礼儀正しく、親切な子供を指します。ここでは、シェルドンがエイミーの言葉を受けて、自分自身を「Gallant」に例え、エイミーとの違いを表現しています。"
+    },
+    {
+      "id": 43,
+      "value": "air filters",
+      "options": [
+        "空気清浄機",
+        "エアコン",
+        "空気清浄機のフィルター",
+        "換気扇"
+      ],
+      "correctAnswer": "空気清浄機のフィルター",
+      "explanation": "「air filters」は、空気清浄機やエアコンなどのフィルターのことです。定期的に交換することで、室内の空気を清潔に保つことができます。シェルドンがペニーにフィルターの交換を指示することで、彼の几帳面な性格を表しています。"
+    },
+    {
+      "id": 44,
+      "value": "on it",
+      "options": [
+        "反対する",
+        "承知しました",
+        "忘れた",
+        "関係ない"
+      ],
+      "correctAnswer": "承知しました",
+      "explanation": "「on it」は、「承知しました」「任せてください」という意味です。頼まれたことや、これからやるべきことに対して、自分が責任を持って対応することを伝える際に使われます。ここでは、レナードがアボカドの世話をすることをシェルドンに伝える際に使用しています。"
+    },
+    {
+      "id": 45,
+      "value": "the same thing",
+      "options": [
+        "別のもの",
+        "同じこと",
+        "新しいもの",
+        "古いもの"
+      ],
+      "correctAnswer": "同じこと",
+      "explanation": "「the same thing」は、「同じこと」という意味です。ここでは、ハワードとバーナデットが、赤ちゃんの性別を知りたいと、同じことを考えていたことを表しています。"
+    },
+    {
+      "id": 46,
+      "value": "matter",
+      "options": [
+        "重要である",
+        "物質",
+        "問題",
+        "解決策"
+      ],
+      "correctAnswer": "重要である",
+      "explanation": "「matter」は、「重要である」「問題である」という意味です。ここでは、医者がいないので性別を知っても問題ない、という意味で使用されています。"
+    },
+    {
+      "id": 47,
+      "value": "fault",
+      "options": [
+        "長所",
+        "短所",
+        "責任",
+        "才能"
+      ],
+      "correctAnswer": "責任",
+      "explanation": "「fault」は、「責任」「過失」という意味です。ここでは、ラージがフォルダを開けてしまったのは自分のせいではない、と主張しています。"
+    },
+    {
+      "id": 48,
+      "value": "unbelievable",
+      "options": [
+        "信じられない",
+        "信じられる",
+        "重要な",
+        "些細な"
+      ],
+      "correctAnswer": "信じられない",
+      "explanation": "「unbelievable」は、「信じられない」「ありえない」という意味です。ここでは、ラージが自分たちの赤ちゃんの性別を知っていることが信じられない、という気持ちを表しています。"
+    },
+    {
+      "id": 49,
+      "value": "proud of",
+      "options": [
+        "恥じている",
+        "誇りに思っている",
+        "嫉妬している",
+        "軽蔑している"
+      ],
+      "correctAnswer": "誇りに思っている",
+      "explanation": "「proud of」は、「～を誇りに思っている」という意味です。ここでは、ペニーがシェルドンがエイミーと一緒に住むことを試みていることを誇りに思っている、と述べています。"
+    },
+    {
+      "id": 50,
+      "value": "ideal",
+      "options": [
+        "現実的な",
+        "理想的な",
+        "不可能な",
+        "困難な"
+      ],
+      "correctAnswer": "理想的な",
+      "explanation": "「ideal」は、「理想的な」「申し分のない」という意味です。ここでは、シェルドンがルームシェアの実験を行うにあたって、理想的な状況を述べています。"
+    },
+    {
+      "id": 51,
+      "value": "tendency",
+      "options": [
+        "才能",
+        "傾向",
+        "義務",
+        "責任"
+      ],
+      "correctAnswer": "傾向",
+      "explanation": "「tendency」は、ある特定の行動や状態になりやすい傾向、性質を指します。日常的な行動パターンや、物事の自然な流れに対して使われることが多いです。\n\n例：He has a tendency to interrupt people. (彼は人の話を遮る傾向がある。)"
+    },
+    {
+      "id": 52,
+      "value": "considerate",
+      "options": [
+        "思いやりがある",
+        "自己中心的",
+        "無関心",
+        "横柄"
+      ],
+      "correctAnswer": "思いやりがある",
+      "explanation": "「considerate」は、他者の感情やニーズを理解し、配慮する様子を表します。行動や発言が他人を不快にさせないように注意深く、親切であることを意味します。\n\n例：He is always considerate of others' feelings. (彼はいつも他人の気持ちに配慮している。)"
+    },
+    {
+      "id": 53,
+      "value": "proximity",
+      "options": [
+        "類似性",
+        "近接",
+        "遠隔",
+        "相違"
+      ],
+      "correctAnswer": "近接",
+      "explanation": "「proximity」は、物理的な近さ、空間的な近接を意味します。ある場所や物が別の場所や物にどれだけ近いかを示す際に用いられます。\n\n例：The house's proximity to the school is a major advantage. (その家が学校に近いことは大きな利点だ。)"
+    },
+    {
+      "id": 54,
+      "value": "odds",
+      "options": [
+        "確率",
+        "合計",
+        "類似点",
+        "相違点"
+      ],
+      "correctAnswer": "確率",
+      "explanation": "「odds」は、何かが起こる確率、可能性を意味します。特に、成功や勝利の可能性を示す際に使われることが多いです。\n\n例：What are the odds of winning the lottery? (宝くじに当たる確率はどれくらいですか？)"
+    },
+    {
+      "id": 55,
+      "value": "ridiculous",
+      "options": [
+        "ばかげた",
+        "現実的な",
+        "合理的な",
+        "重要な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「ridiculous」は、非常に馬鹿げていて、不合理であることを意味します。笑いを誘うほど非常識な状況や考えに対して使われます。\n\n例：That's a ridiculous idea! (それはばかげた考えだ！)"
+    },
+    {
+      "id": 56,
+      "value": "disappointed",
+      "options": [
+        "失望した",
+        "満足した",
+        "興奮した",
+        "安心した"
+      ],
+      "correctAnswer": "失望した",
+      "explanation": "「disappointed」は、期待していたことが実現しなかったときに感じる落胆や不満の感情を表します。希望が満たされなかった状態を指します。\n\n例：I was disappointed with the movie. (私はその映画に失望した。)"
+    },
+    {
+      "id": 57,
+      "value": "delightful",
+      "options": [
+        "楽しい",
+        "不快な",
+        "退屈な",
+        "悲しい"
+      ],
+      "correctAnswer": "楽しい",
+      "explanation": "「delightful」は、非常に楽しく、喜びや満足感を与える様子を表します。人や物事が心地よく、好ましい感情を引き起こす時に使われます。\n\n例：We had a delightful evening at the restaurant. (私たちはレストランで楽しい夜を過ごした。)"
+    },
+    {
+      "id": 58,
+      "value": "presto change-o",
+      "options": [
+        "元のまま",
+        "急速な変化",
+        "少しずつの変化",
+        "停止"
+      ],
+      "correctAnswer": "急速な変化",
+      "explanation": "「presto change-o」は、マジックで使われる言葉で、素早く変化することを意味します。驚きや変化を強調するために用いられます。\n\n例：And presto change-o, the frog turned into a prince! (そして、プレストチェンジオー、カエルが王子に変わった！)"
+    },
+    {
+      "id": 59,
+      "value": "grateful",
+      "options": [
+        "感謝している",
+        "不満な",
+        "無関心な",
+        "怒っている"
+      ],
+      "correctAnswer": "感謝している",
+      "explanation": "「grateful」は、感謝の気持ちを持っていることを意味します。親切や助けを受けた際に、その恩恵を認識し、感謝する感情を表します。\n\n例：I am grateful for your help. (あなたの助けに感謝しています。)"
+    },
+    {
+      "id": 60,
+      "value": "coitus",
+      "options": [
+        "性交",
+        "会話",
+        "食事",
+        "睡眠"
+      ],
+      "correctAnswer": "性交",
+      "explanation": "「coitus」は、性交を意味するフォーマルな言葉です。医学や生物学の文脈でよく使用されます。\n\n例：They discussed the risks associated with unprotected coitus. (彼らは無防備な性交に関連するリスクについて話し合った。)"
+    },
+    {
+      "id": 61,
+      "value": "accommodations",
+      "options": [
+        "宿泊施設",
+        "譲歩",
+        "料金",
+        "設備"
+      ],
+      "correctAnswer": "譲歩",
+      "explanation": "「accommodations」は、要求やニーズに応じるための調整や譲歩を意味します。特に、快適さや便宜を図るために行われる変更を指します。\n\n例：The hotel offers special accommodations for disabled guests. (そのホテルは、身体障害者の方のために特別な設備を提供している。)\n例文：I've made more than enough accommodations for you. (私はあなたの為に十分すぎるほどの譲歩をしてきた。)"
+    },
+    {
+      "id": 62,
+      "value": "radiates",
+      "options": [
+        "放射する",
+        "吸収する",
+        "反射する",
+        "遮断する"
+      ],
+      "correctAnswer": "放射する",
+      "explanation": "「radiates」は、熱、光、エネルギーなどを放射することを意味します。感情や性質が周囲に広がる様子も表します。\n\n例：The sun radiates heat and light. (太陽は熱と光を放射する。)"
+    },
+    {
+      "id": 63,
+      "value": "offence",
+      "options": [
+        "違反",
+        "防御",
+        "攻撃",
+        "支持"
+      ],
+      "correctAnswer": "違反",
+      "explanation": "「offense」は、不快感や怒りを引き起こす行為や言動を意味します。また、規則や法律の違反も指します。\n\n例：No offense, but I don't agree with you. (気を悪くしないでほしいけど、私はあなたに同意しません。)"
+    },
+    {
+      "id": 64,
+      "value": "inevitable",
+      "options": [
+        "避けられない",
+        "偶然の",
+        "不確かな",
+        "望ましい"
+      ],
+      "correctAnswer": "避けられない",
+      "explanation": "「inevitable」は、避けることができない、必ず起こることを意味します。必然的な結果や運命を表す際に使われます。\n\n例：Death is inevitable. (死は避けられない。)"
+    },
+    {
+      "id": 65,
+      "value": "weird",
+      "options": [
+        "奇妙な",
+        "普通な",
+        "退屈な",
+        "素晴らしい"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "「weird」は、普通ではない、奇妙で不可解なことを意味します。一般的ではない、変わった状況や行動に対して使われます。\n\n例：That's so weird! (それってすごく奇妙だ！)"
+    },
+    {
+      "id": 66,
+      "value": "to be controlling",
+      "options": [
+        "支配的である",
+        "従順である",
+        "自由奔放である",
+        "協力的である"
+      ],
+      "correctAnswer": "支配的である",
+      "explanation": "「to be controlling」は、他人や状況を自分の意のままに操ろうとする性質を指します。過度に管理しようとする態度や行動を意味します。\n\n例：He has a tendency to be controlling in relationships. (彼は恋愛関係において支配的になる傾向がある。)"
+    },
+    {
+      "id": 67,
+      "value": "drapes",
+      "options": [
+        "カーテン",
+        "壁",
+        "床",
+        "天井"
+      ],
+      "correctAnswer": "カーテン",
+      "explanation": "「drapes」は、厚手のカーテン、特に装飾的なものを指します。部屋の装飾や遮光のために使用されます。\n\n例：The drapes were drawn to keep the sunlight out. (日光を遮るためにカーテンが引かれた。)"
+    },
+    {
+      "id": 68,
+      "value": "ultrasound tech",
+      "options": [
+        "超音波技師",
+        "外科医",
+        "看護師",
+        "理学療法士"
+      ],
+      "correctAnswer": "超音波技師",
+      "explanation": "「ultrasound tech」は、超音波検査を行う技術者を指します。医療現場で画像診断をサポートする役割を担います。\n\n例：The ultrasound tech showed us the baby's heartbeat. (超音波技師は私たちに赤ちゃんの心音を聞かせてくれた。)"
+    },
+    {
+      "id": 69,
+      "value": "hanky",
+      "options": [
+        "ハンカチ",
+        "帽子",
+        "靴",
+        "手袋"
+      ],
+      "correctAnswer": "ハンカチ",
+      "explanation": "「hanky」は、ハンカチの略称で、主に鼻を拭いたり、手を拭いたりするために使用される小さな布です。\n\n例：He always carries a hanky in his pocket. (彼はいつもポケットにハンカチを持ち歩いている。)"
+    },
+    {
+      "id": 70,
+      "value": "engaged to",
+      "options": [
+        "婚約している",
+        "結婚している",
+        "離婚している",
+        "独身である"
+      ],
+      "correctAnswer": "婚約している",
+      "explanation": "「engaged to」は、誰かと婚約している状態を表します。結婚の約束を交わした関係を指します。\n\n例：They are engaged to be married next year. (彼らは来年結婚する予定だ。)"
+    },
+    {
+      "id": 71,
+      "value": "switch sides",
+      "options": [
+        "味方を変える",
+        "立場を変える",
+        "場所を交換する",
+        "意見を変える"
+      ],
+      "correctAnswer": "場所を交換する",
+      "explanation": "「switch sides」は、文字通りには場所を交換することを意味しますが、比喩的には意見や立場を変えることも指します。\n\n例：Let's switch sides so you can see the screen better. (画面が見やすいように場所を交換しましょう。)"
+    },
+    {
+      "id": 72,
+      "value": "memory foam",
+      "options": [
+        "形状記憶フォーム",
+        "低反発フォーム",
+        "高反発フォーム",
+        "硬質フォーム"
+      ],
+      "correctAnswer": "形状記憶フォーム",
+      "explanation": "「memory foam」は、形状記憶フォーム、または低反発フォームと呼ばれる素材です。圧力や熱に応じて形が変わり、元の形に戻る特性があります。\n\n例：The mattress is made of memory foam for extra comfort. (そのマットレスは、快適さを増すために形状記憶フォームで作られている。)"
+    },
+    {
+      "id": 73,
+      "value": "snuggling",
+      "options": [
+        "抱きしめる",
+        "殴る",
+        "叫ぶ",
+        "無視する"
+      ],
+      "correctAnswer": "抱きしめる",
+      "explanation": "「snuggling」は、愛情を込めて寄り添い、抱きしめることを意味します。心地よい温かさや親密さを共有する行為です。\n\n例：They were snuggling on the couch watching a movie. (彼らはソファで映画を見ながら抱きしめ合っていた。)"
+    },
+    {
+      "id": 74,
+      "value": "rough night",
+      "options": [
+        "荒れた夜",
+        "楽しい夜",
+        "静かな夜",
+        "退屈な夜"
+      ],
+      "correctAnswer": "荒れた夜",
+      "explanation": "「rough night」は、困難や不快な出来事が続く夜を指します。睡眠不足やストレスが多い状況を意味することがあります。\n\n例：I had a rough night because the baby wouldn't stop crying. (赤ちゃんが泣き止まなかったので、私はつらい夜を過ごした。)"
+    },
+    {
+      "id": 75,
+      "value": "sweet moves",
+      "options": [
+        "甘い言葉",
+        "素敵なダンス",
+        "親切な行為",
+        "優しい嘘"
+      ],
+      "correctAnswer": "素敵なダンス",
+      "explanation": "「sweet moves」は、魅力的な、または印象的な動きやダンスのスキルを指します。特に、人を惹きつけるようなダンスの才能を意味することがあります。\n\n例：He showed off his sweet moves on the dance floor. (彼はダンスフロアで彼の素敵なダンスを披露した。)"
+    },
+    {
+      "id": 76,
+      "value": "smooth criminal",
+      "options": [
+        "洗練された犯罪者",
+        "手際の良い犯罪者",
+        "魅力的な人物",
+        "腕利きの弁護士"
+      ],
+      "correctAnswer": "魅力的な人物",
+      "explanation": "元々はマイケル・ジャクソンの曲名ですが、ここではレナードがダンスの腕前を自画自賛する際に、自分が「魅力的で人を惹きつける人物」であることを示す比喩として使われています。必ずしも犯罪者という意味ではありません。"
+    },
+    {
+      "id": 77,
+      "value": "hang up",
+      "options": [
+        "電話を切る",
+        "電話に出る",
+        "電話をかける",
+        "電話を保留にする"
+      ],
+      "correctAnswer": "電話を切る",
+      "explanation": "電話を切るという意味の句動詞です。日常会話で頻繁に使われます。例：She hung up on me! (彼女は私に電話を切った！)"
+    },
+    {
+      "id": 78,
+      "value": "sore",
+      "options": [
+        "痛い",
+        "悲しい",
+        "怒っている",
+        "退屈な"
+      ],
+      "correctAnswer": "痛い",
+      "explanation": "筋肉痛や炎症などによる体の痛み、特に運動後などに感じる痛みを指します。比喩的に、感情的な痛みや悲しみを表すこともあります。例：My muscles are sore after the workout.（運動の後で筋肉が痛い。）"
+    },
+    {
+      "id": 79,
+      "value": "get it, girl",
+      "options": [
+        "頑張って！",
+        "分かった、女の子",
+        "手に入れろ！",
+        "やめておきなさい"
+      ],
+      "correctAnswer": "頑張って！",
+      "explanation": "主に女性に対して、応援や励ましの気持ちを伝える際に使われる口語表現です。「その調子！」「よくやった！」といったニュアンスが含まれます。"
+    },
+    {
+      "id": 80,
+      "value": "pull something",
+      "options": [
+        "何かを引っ張る",
+        "何かを企む",
+        "体を痛める",
+        "何かを成し遂げる"
+      ],
+      "correctAnswer": "体を痛める",
+      "explanation": "筋肉や靭帯などを痛めるという意味です。特に運動や無理な動きをした際に使われます。例：I think I pulled something in my back. (背中を痛めたかもしれない。)"
+    },
+    {
+      "id": 81,
+      "value": "make it through",
+      "options": [
+        "間に合わせる",
+        "切り抜ける",
+        "作り上げる",
+        "通り抜ける"
+      ],
+      "correctAnswer": "切り抜ける",
+      "explanation": "困難な状況や期間を乗り越える、という意味です。精神的、肉体的な苦境を克服する際に使われます。例：I don't know if I can make it through this week. (今週を乗り越えられるか分からない。)"
+    },
+    {
+      "id": 82,
+      "value": "drawing a conclusion",
+      "options": [
+        "結論を出す",
+        "絵を描く",
+        "線を引く",
+        "注目を集める"
+      ],
+      "correctAnswer": "結論を出す",
+      "explanation": "観察や分析に基づいて結論を導き出すという意味です。科学的な文脈や議論などでよく使われます。例：We need more data before drawing a conclusion. (結論を出す前に、もっとデータが必要です。)"
+    },
+    {
+      "id": 83,
+      "value": "scientific rigour",
+      "options": [
+        "科学的な厳密さ",
+        "科学的なユーモア",
+        "科学的な儀式",
+        "科学的な装備"
+      ],
+      "correctAnswer": "科学的な厳密さ",
+      "explanation": "科学的な研究や実験において、正確さ、客観性、徹底性を重視する姿勢や方法を指します。信頼できる結果を得るために不可欠な要素です。"
+    },
+    {
+      "id": 84,
+      "value": "integrity",
+      "options": [
+        "誠実さ",
+        "知性",
+        "体力",
+        "人気"
+      ],
+      "correctAnswer": "誠実さ",
+      "explanation": "道徳的な原則や倫理観に基づいて行動する、という意味です。正直さ、高潔さ、一貫性などが含まれます。例：He is a man of great integrity. (彼は非常に誠実な人です。)"
+    },
+    {
+      "id": 85,
+      "value": "disposable",
+      "options": [
+        "使い捨ての",
+        "処分できる",
+        "利用可能な",
+        "自由になる"
+      ],
+      "correctAnswer": "使い捨ての",
+      "explanation": "一度使ったら捨てることを目的とした、という意味です。衛生用品や消耗品などによく使われます。例：disposable gloves (使い捨て手袋)"
+    },
+    {
+      "id": 86,
+      "value": "shoe cover",
+      "options": [
+        "靴カバー",
+        "靴墨",
+        "靴下",
+        "靴紐"
+      ],
+      "correctAnswer": "靴カバー",
+      "explanation": "靴を覆うためのカバーであり、清潔を保つためや特定の環境での汚染を防ぐために使用されます。研究室や病院などでよく見られます。"
+    },
+    {
+      "id": 87,
+      "value": "if the shoe fits",
+      "options": [
+        "もし靴が合えば",
+        "もし状況が当てはまるなら",
+        "もしお金があれば",
+        "もし時間があれば"
+      ],
+      "correctAnswer": "もし状況が当てはまるなら",
+      "explanation": "「もし当てはまるなら」という意味の英語の慣用句です。相手の言動が自分のことを指していると感じたときに使われます。元々は「If the shoe fits, wear it.（もし靴が合えば、履けばいい）」という形で使われ、非難や批判が自分に当てはまるなら、それを受け入れるべきだという意味合いがあります。"
+    },
+    {
+      "id": 88,
+      "value": "science diss",
+      "options": [
+        "科学的な侮辱",
+        "科学的な議論",
+        "科学的な発見",
+        "科学的な論文"
+      ],
+      "correctAnswer": "科学的な侮辱",
+      "explanation": "「diss」は「disrespect」の略で、軽蔑や侮辱を意味します。したがって、「science diss」は科学的な知識や業績を軽視したり、侮辱したりする発言や行為を指します。"
+    },
+    {
+      "id": 89,
+      "value": "theoretical physicist",
+      "options": [
+        "理論物理学者",
+        "実験物理学者",
+        "天文学者",
+        "化学者"
+      ],
+      "correctAnswer": "理論物理学者",
+      "explanation": "実験を行わず、数学的なモデルや理論を用いて物理現象を研究する物理学者です。アインシュタインなどが代表的な例です。"
+    },
+    {
+      "id": 90,
+      "value": "confounding variable",
+      "options": [
+        "交絡変数",
+        "独立変数",
+        "従属変数",
+        "制御変数"
+      ],
+      "correctAnswer": "交絡変数",
+      "explanation": "実験結果に影響を与える可能性のある、調査対象以外の変数のことです。実験の妥当性を脅かす要因となります。統計学や研究デザインにおいて重要な概念です。"
+    },
+    {
+      "id": 91,
+      "value": "experimental bona fides",
+      "options": [
+        "実験的な正当性",
+        "実験的な失敗",
+        "実験的な興味",
+        "実験的な設備"
+      ],
+      "correctAnswer": "実験的な正当性",
+      "explanation": "「bona fides」はラテン語由来で、誠実さ、正当性、信頼性などを意味します。したがって、「experimental bona fides」は、実験を行う上での資格、能力、実績、信頼性などを指します。"
+    },
+    {
+      "id": 92,
+      "value": "laughable",
+      "options": [
+        "笑える",
+        "悲しい",
+        "恐ろしい",
+        "素晴らしい"
+      ],
+      "correctAnswer": "笑える",
+      "explanation": "ばかげている、滑稽である、という意味です。程度がひどくて笑ってしまうような状況を表します。例：His excuse was laughable. (彼の言い訳は笑えるほどひどかった。)"
+    },
+    {
+      "id": 93,
+      "value": "null set",
+      "options": [
+        "空集合",
+        "無限集合",
+        "部分集合",
+        "全体集合"
+      ],
+      "correctAnswer": "空集合",
+      "explanation": "要素を一つも含まない集合のことです。数学の集合論における基本的な概念です。ここでは、シェルドンの実験的な正当性が全くないことを皮肉っています。"
+    },
+    {
+      "id": 94,
+      "value": "protective",
+      "options": [
+        "保護的な",
+        "批判的な",
+        "攻撃的な",
+        "無視する"
+      ],
+      "correctAnswer": "保護的な",
+      "explanation": "保護しようとする、守ろうとする、という意味です。大切なものを危険から守る様子を表します。例：He is very protective of his family. (彼は家族をとても大切にしている。)"
+    },
+    {
+      "id": 95,
+      "value": "scientific method",
+      "options": [
+        "科学的方法",
+        "科学的な秘密",
+        "科学的な倫理",
+        "科学的な迷信"
+      ],
+      "correctAnswer": "科学的方法",
+      "explanation": "観察、仮説、実験、分析、結論という一連の手順を経て、科学的な知識を獲得する方法です。客観性と再現性が重視されます。"
+    },
+    {
+      "id": 96,
+      "value": "make out",
+      "options": [
+        "キスをする",
+        "仲直りする",
+        "理解する",
+        "言い訳をする"
+      ],
+      "correctAnswer": "キスをする",
+      "explanation": "恋人同士がキスや愛撫をすることを指す口語表現です。より親密な関係に進むことを示唆します。例：They were making out in the back of the car. (彼らは車の後部座席でキスをしていた。)"
+    },
+    {
+      "id": 97,
+      "value": "roll through",
+      "options": [
+        "転がり込む",
+        "通過する",
+        "体験する",
+        "無視する"
+      ],
+      "correctAnswer": "通過する",
+      "explanation": "ここではスティーブン・ホーキングが車椅子でQuadを通ることを指しています。「Quad」とは、大学や学校の中庭のことを指します。シェルドンは、「当然だ」ということを強調するために使用しています。"
+    },
+    {
+      "id": 98,
+      "value": "quad",
+      "options": [
+        "中庭",
+        "正方形",
+        "四つ子",
+        "四肢"
+      ],
+      "correctAnswer": "中庭",
+      "explanation": "大学や学校などにある四角い中庭のことです。学生たちの憩いの場やイベントスペースとして使われます。正式にはquadrangleと言います。"
+    },
+    {
+      "id": 99,
+      "value": "weird",
+      "options": [
+        "奇妙な",
+        "賢い",
+        "面白い",
+        "優しい"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "普通ではない、奇妙な、という意味です。人や物事の様子を表す際に使われます。類義語としてstrange、oddなどがあります。例：He's a bit weird. (彼は少し変わっている。)"
+    },
+    {
+      "id": 100,
+      "value": "data",
+      "options": [
+        "データ",
+        "意見",
+        "感情",
+        "噂"
+      ],
+      "correctAnswer": "データ",
+      "explanation": "調査や実験によって得られた事実や数値の情報のことです。科学的な分析や研究において重要な要素です。単数形はdatumですが、現代英語ではdataを複数として扱うことが一般的です。"
+    }
+  ]
+}

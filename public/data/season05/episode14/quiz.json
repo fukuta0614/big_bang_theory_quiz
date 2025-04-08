@@ -1,0 +1,1132 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "premiere",
+      "options": [
+        "最終の",
+        "最初の",
+        "中間の",
+        "追加の"
+      ],
+      "correctAnswer": "最初の",
+      "explanation": "「premiere」は、映画や演劇などが初めて公開されること、またはその最初の公演を指します。転じて、何かのシリーズや新しい企画の最初のエピソードやイベントを指すこともあります。ここでは、「Fun with Flags」というビデオポッドキャストの最初のエピソードを意味しています。"
+    },
+    {
+      "id": 2,
+      "value": "dynamic",
+      "options": [
+        "静的な",
+        "変化に富む",
+        "単純な",
+        "退屈な"
+      ],
+      "correctAnswer": "変化に富む",
+      "explanation": "「dynamic」は、変化や活動に満ち溢れている様子を表します。ここでは、旗の世界が多様で面白いことを強調するために使われています。ビジネスや科学技術の分野でも、急速な変化や進歩を伴う状況を指すのに用いられます。"
+    },
+    {
+      "id": 3,
+      "value": "vexillology",
+      "options": [
+        "動物学",
+        "植物学",
+        "旗章学",
+        "考古学"
+      ],
+      "correctAnswer": "旗章学",
+      "explanation": "「vexillology」は、旗とその歴史、象徴、使用法などを研究する学問分野です。旗に関する深い知識や興味を持つ人々にとって重要な用語です。学術的な文脈や、旗に関する専門的な議論で用いられることがあります。"
+    },
+    {
+      "id": 4,
+      "value": "burning questions",
+      "options": [
+        "簡単な質問",
+        "緊急性の高い質問",
+        "どうでもいい質問",
+        "難しい質問"
+      ],
+      "correctAnswer": "緊急性の高い質問",
+      "explanation": "「burning questions」は、非常に重要で緊急性の高い質問や、多くの人が関心を持っている疑問を指します。ここでは、旗に関する興味深い疑問を強調するために使われています。ニュース記事や討論番組などでよく用いられる表現です。"
+    },
+    {
+      "id": 5,
+      "value": "surrendering to",
+      "options": [
+        "抵抗する",
+        "参加する",
+        "屈する",
+        "無視する"
+      ],
+      "correctAnswer": "屈する",
+      "explanation": "「surrender to」は、抵抗をやめて相手に降伏する、または何かの感情や衝動に身を任せるという意味です。ここでは、楽しさに身を委ねるという比喩的な意味で使われています。困難な状況や誘惑に打ち勝てず、受け入れるニュアンスが含まれます。"
+    },
+    {
+      "id": 6,
+      "value": "gotta",
+      "options": [
+        "持っている",
+        "行く",
+        "～しなければならない",
+        "～することができた"
+      ],
+      "correctAnswer": "～しなければならない",
+      "explanation": "「gotta」は、「got to」の口語的な短縮形で、「～しなければならない」という意味です。日常会話でよく使われ、義務や必要性を表します。フォーマルな場面では「have to」や「must」を使う方が適切です。"
+    },
+    {
+      "id": 7,
+      "value": "hoist",
+      "options": [
+        "下げる",
+        "掲げる",
+        "隠す",
+        "切る"
+      ],
+      "correctAnswer": "掲げる",
+      "explanation": "「hoist」は、旗や荷物などを持ち上げる、掲げるという意味です。ここでは、旗の特定の部分を指す専門用語として使われています。建設現場や船上などで、重いものを持ち上げる際にも用いられます。"
+    },
+    {
+      "id": 8,
+      "value": "rattled",
+      "options": [
+        "落ち着いた",
+        "動揺した",
+        "満足した",
+        "退屈した"
+      ],
+      "correctAnswer": "動揺した",
+      "explanation": "「rattled」は、何かに驚いたり、不安になったりして動揺している状態を表します。予期せぬ出来事やプレッシャーによって心が乱れる状況で使われます。比較的口語的な表現です。"
+    },
+    {
+      "id": 9,
+      "value": "confound it",
+      "options": [
+        "お祝いだ",
+        "残念だ",
+        "ありがとう",
+        "おめでとう"
+      ],
+      "correctAnswer": "残念だ",
+      "explanation": "「confound it」は、いらだちや不満を表す表現で、「くそっ」「ちくしょう」といったニュアンスです。予期せぬ問題や邪魔が入った時に使われます。やや古風な言い回しで、現代では控えめに使われることがあります。"
+    },
+    {
+      "id": 10,
+      "value": "take it from the top",
+      "options": [
+        "最初からやり直す",
+        "最後に進む",
+        "途中で止める",
+        "無視する"
+      ],
+      "correctAnswer": "最初からやり直す",
+      "explanation": "「take it from the top」は、最初からやり直すという意味の口語表現です。特に音楽や演劇の練習でよく使われます。ビジネスシーンでも、プロジェクトや作業を最初から見直す際に用いられることがあります。"
+    },
+    {
+      "id": 11,
+      "value": "get credit for",
+      "options": [
+        "責められる",
+        "評価される",
+        "無視される",
+        "罰せられる"
+      ],
+      "correctAnswer": "評価される",
+      "explanation": "「get credit for」は、何かを達成したり貢献したりしたことで評価や称賛を受けるという意味です。ここでは、ペニーが「beta test」という言葉を知っていたことに対する評価を求めています。職場や学校などで、自分の努力や成果を認めてもらいたい時に使われます。"
+    },
+    {
+      "id": 12,
+      "value": "pedantic",
+      "options": [
+        "おおざっぱな",
+        "厳格な",
+        "洗練された",
+        "退屈な"
+      ],
+      "correctAnswer": "厳格な",
+      "explanation": "「pedantic」は、細かすぎる、または知識をひけらかすような態度を指します。些細なことにこだわり、他人に対して知識を誇示するような人を批判的に表現する際に使われます。学術的な議論や、正確性を重視する場面で問題となることがあります。"
+    },
+    {
+      "id": 13,
+      "value": "give it a shot",
+      "options": [
+        "諦める",
+        "試してみる",
+        "無視する",
+        "非難する"
+      ],
+      "correctAnswer": "試してみる",
+      "explanation": "「give it a shot」は、何かを試してみる、挑戦してみるという意味の口語表現です。成功するかどうかはわからないが、とりあえずやってみるというニュアンスが含まれます。ビジネスやスポーツなど、様々な場面で使われます。"
+    },
+    {
+      "id": 14,
+      "value": "attaboy",
+      "options": [
+        "頑張れ",
+        "やめろ",
+        "ありがとう",
+        "ごめんなさい"
+      ],
+      "correctAnswer": "頑張れ",
+      "explanation": "「attaboy」は、男性に対して良い行いを褒める時に使われる口語表現で、「よくやった」「えらいぞ」といった意味合いです。親しい間柄や、目下の人に対して使われることが多いです。女性に対しては「attagirl」が使われることもあります。"
+    },
+    {
+      "id": 15,
+      "value": "analogies",
+      "options": [
+        "類似点",
+        "相違点",
+        "関連性",
+        "独自性"
+      ],
+      "correctAnswer": "類似点",
+      "explanation": "「analogy」は、類似点や類似性に基づいて、ある事物や概念を別の事物や概念で説明することです。複雑な事柄を理解しやすくするために、比喩や例えを用いる際に使われます。科学、哲学、文学など、様々な分野で用いられます。"
+    },
+    {
+      "id": 16,
+      "value": "trial run",
+      "options": [
+        "最終段階",
+        "試運転",
+        "中断",
+        "再開"
+      ],
+      "correctAnswer": "試運転",
+      "explanation": "「trial run」は、本番の前にテストとして行う試運転や試用を意味します。新しい製品、システム、計画などを本格的に導入する前に、問題点や改善点を見つけるために行われます。スポーツやビジネスなど、様々な分野で用いられます。"
+    },
+    {
+      "id": 17,
+      "value": "hit a rough spot",
+      "options": [
+        "成功する",
+        "困難に直面する",
+        "忘れる",
+        "再開する"
+      ],
+      "correctAnswer": "困難に直面する",
+      "explanation": "「hit a rough spot」は、困難や問題に直面するという意味の口語表現です。人間関係、プロジェクト、キャリアなど、様々な状況で使われます。一時的な困難や障害を乗り越える必要性を示唆します。"
+    },
+    {
+      "id": 18,
+      "value": "alpha test",
+      "options": [
+        "初期段階のテスト",
+        "最終段階のテスト",
+        "ユーザーによるテスト",
+        "内部関係者によるテスト"
+      ],
+      "correctAnswer": "初期段階のテスト",
+      "explanation": "「alpha test」は、ソフトウェア開発における初期段階のテストで、開発チーム内部の人間が行います。バグや問題点を見つけて修正し、製品の品質を高めることを目的としています。その後、一般ユーザーによるベータテストが行われるのが一般的です。"
+    },
+    {
+      "id": 19,
+      "value": "beta test",
+      "options": [
+        "開発者のみのテスト",
+        "一般公開前のテスト",
+        "最終的なテスト",
+        "非公開のテスト"
+      ],
+      "correctAnswer": "一般公開前のテスト",
+      "explanation": "「beta test」は、ソフトウェアや製品を一般公開する前に行われるテストで、一般のユーザーが参加します。実際の使用環境でテストを行い、バグや改善点を見つけることを目的としています。アルファテストの次の段階として行われます。"
+    },
+    {
+      "id": 26,
+      "value": "overshadowed",
+      "options": [
+        "改善された",
+        "重要視された",
+        "影を落とした",
+        "明確にされた"
+      ],
+      "correctAnswer": "影を落とした",
+      "explanation": "「overshadow」は、文字通りには「影で覆う」という意味ですが、比喩的には「重要性や注目度を薄れさせる」「見劣りさせる」という意味で使われます。ある出来事や事実が、別のより大きな出来事によって注目されなくなる状況を表します。例：The scandal overshadowed the company's achievements. (そのスキャンダルは会社の業績を霞ませた。)"
+    },
+    {
+      "id": 27,
+      "value": "savour",
+      "options": [
+        "無視する",
+        "急ぐ",
+        "味わう",
+        "避ける"
+      ],
+      "correctAnswer": "味わう",
+      "explanation": "「savour」は、食べ物や経験をじっくりと味わう、楽しむという意味です。喜びや幸福感を伴って、何かを大切に享受するニュアンスがあります。例：Savour the moment because it won't last forever. (その瞬間を味わいなさい、永遠には続かないから。)"
+    },
+    {
+      "id": 28,
+      "value": "landlocked",
+      "options": [
+        "内陸の",
+        "孤立した",
+        "海岸沿いの",
+        "発展した"
+      ],
+      "correctAnswer": "内陸の",
+      "explanation": "「landlocked」は、完全に陸地に囲まれていて、海に面していない国のことを指します。地理的な特徴を表す言葉です。例：Switzerland is a landlocked country in Europe. (スイスはヨーロッパの内陸国です。)"
+    },
+    {
+      "id": 29,
+      "value": "marital status",
+      "options": [
+        "経済状況",
+        "婚姻状況",
+        "健康状態",
+        "仕事の状況"
+      ],
+      "correctAnswer": "婚姻状況",
+      "explanation": "「marital status」は、婚姻状態、つまり結婚しているか、未婚か、離婚しているかなどの状態を指します。公式な書類やアンケートなどでよく用いられる表現です。例：Please indicate your marital status on the form. (フォームにあなたの婚姻状況を記入してください。)"
+    },
+    {
+      "id": 30,
+      "value": "a thing for",
+      "options": [
+        "嫌悪感",
+        "好み",
+        "無関心",
+        "恐怖心"
+      ],
+      "correctAnswer": "好み",
+      "explanation": "「have a thing for」は、～に特別な好みや愛情を持っているという意味の口語的な表現です。恋愛感情だけでなく、趣味や興味に対しても使えます。例：She has a thing for Italian food. (彼女はイタリア料理が大好きだ。)"
+    },
+    {
+      "id": 31,
+      "value": "sass",
+      "options": [
+        "謙虚さ",
+        "無礼な態度",
+        "優しさ",
+        "誠実さ"
+      ],
+      "correctAnswer": "無礼な態度",
+      "explanation": "「sass」は、生意気な口答え、反抗的な態度という意味です。特に年長者や権威のある人に対して、軽率な発言や行動をすることを指します。例：Don't give me any sass. (生意気な口答えをするな。)"
+    },
+    {
+      "id": 32,
+      "value": "uninvited",
+      "options": [
+        "招待された",
+        "歓迎された",
+        "招待されなかった",
+        "許可された"
+      ],
+      "correctAnswer": "招待されなかった",
+      "explanation": "「uninvited」は、招待されていない、歓迎されていないという意味です。イベントや集まりなどに、許可なく参加することを指す場合もあります。例：He showed up uninvited to the party. (彼は招待されていないのにパーティーに現れた。)"
+    },
+    {
+      "id": 33,
+      "value": "bug report",
+      "options": [
+        "改善提案",
+        "不具合報告",
+        "感謝の言葉",
+        "賞賛"
+      ],
+      "correctAnswer": "不具合報告",
+      "explanation": "「bug report」は、ソフトウェアやシステムにおける不具合や問題点を報告する文書のことです。IT業界でよく使われる言葉ですが、比喩的に、人間関係や日常生活における問題点を指摘する際にも用いられます。例：I filed a bug report about the website's slow loading time. (ウェブサイトの読み込みが遅いことについて、不具合報告を提出した。)"
+    },
+    {
+      "id": 34,
+      "value": "colour coded",
+      "options": [
+        "暗号化された",
+        "色分けされた",
+        "白黒の",
+        "手書きの"
+      ],
+      "correctAnswer": "色分けされた",
+      "explanation": "「colour coded」は、情報を整理したり、重要度を区別したりするために、色を使って分類・整理された状態を指します。視覚的に分かりやすくするために用いられます。例：The files are colour coded for easy retrieval. (ファイルは検索しやすいように色分けされている。)"
+    },
+    {
+      "id": 35,
+      "value": "live with it",
+      "options": [
+        "無視する",
+        "受け入れる",
+        "反論する",
+        "改善する"
+      ],
+      "correctAnswer": "受け入れる",
+      "explanation": "「live with it」は、受け入れる、我慢するという意味です。不快な状況や欠点などを、仕方なく受け入れることを表します。例：I don't like it, but I can live with it. (気に入らないけど、我慢できる。)"
+    },
+    {
+      "id": 36,
+      "value": "baffling",
+      "options": [
+        "簡単な",
+        "混乱させる",
+        "明確な",
+        "退屈な"
+      ],
+      "correctAnswer": "混乱させる",
+      "explanation": "「baffling」は、当惑させる、理解できないという意味です。何かが非常に奇妙で、説明がつかない時に使われます。例：It's baffling to me. (それは私には不可解だ。)"
+    },
+    {
+      "id": 37,
+      "value": "mere",
+      "options": [
+        "単なる",
+        "貴重な",
+        "複雑な",
+        "重要な"
+      ],
+      "correctAnswer": "単なる",
+      "explanation": "「mere」は、単なる、ほんの～にすぎないという意味で、名詞を強調するために使われます。量や重要性が少ないことを表します。例：It's a mere detail. (それはほんの些細なことだ。)"
+    },
+    {
+      "id": 38,
+      "value": "what's happening?",
+      "options": [
+        "どうしたの？",
+        "どこに行くの？",
+        "何をしているの？",
+        "元気ですか？"
+      ],
+      "correctAnswer": "元気ですか？",
+      "explanation": "「What's happening?」は、相手に挨拶をする際のカジュアルな表現で、「元気ですか？」「調子はどう？」といった意味合いです。友人や親しい間柄で使われます。例：Hey John, what's happening? (よお、ジョン、元気？)"
+    },
+    {
+      "id": 39,
+      "value": "on the way",
+      "options": [
+        "途中で",
+        "最後に",
+        "最初から",
+        "直ちに"
+      ],
+      "correctAnswer": "途中で",
+      "explanation": "「on the way」は「途中で」という意味です。場所や目的地に向かう途中であることを示します。 例：I stopped on the way to work. (仕事に行く途中で立ち寄った。)"
+    },
+    {
+      "id": 40,
+      "value": "peel the plastic off",
+      "options": [
+        "プラスチックを剥がす",
+        "プラスチックを磨く",
+        "プラスチックを修理する",
+        "プラスチックを交換する"
+      ],
+      "correctAnswer": "プラスチックを剥がす",
+      "explanation": "「peel the plastic off」は「プラスチックを剥がす」という意味です。新しい電化製品などについている保護フィルムを剥がす行為を指します。 例：Do you want to peel the plastic off with me? (一緒にプラスチックを剥がさない？)"
+    },
+    {
+      "id": 41,
+      "value": "get greedy",
+      "options": [
+        "欲張りになる",
+        "寛大になる",
+        "謙虚になる",
+        "満足する"
+      ],
+      "correctAnswer": "欲張りになる",
+      "explanation": "「get greedy」は「欲張りになる」という意味です。通常以上のものを求めたり、他人を出し抜こうとする態度を指します。 例：Don’t get greedy. (欲張りになるな。)"
+    },
+    {
+      "id": 42,
+      "value": "break his heart",
+      "options": [
+        "彼を励ます",
+        "彼を傷つける",
+        "彼を助ける",
+        "彼を喜ばせる"
+      ],
+      "correctAnswer": "彼を傷つける",
+      "explanation": "「break his heart」は「彼の心を傷つける」という意味です。恋愛関係において、相手を失恋させたり、深く悲しませることを指します。 例：She is gonna break his heart. (彼女は彼の心を傷つけるだろう。)"
+    },
+    {
+      "id": 43,
+      "value": "hang out",
+      "options": [
+        "急いで出発する",
+        "のんびり過ごす",
+        "真剣に議論する",
+        "秘密裏に行動する"
+      ],
+      "correctAnswer": "のんびり過ごす",
+      "explanation": "「hang out」は「のんびり過ごす」という意味です。特に目的もなく、リラックスして時間を過ごすことを指します。 例：Hanging out at home, watching TV. (家でテレビを見ながらのんびり過ごす。)"
+    },
+    {
+      "id": 44,
+      "value": "fix right away",
+      "options": [
+        "すぐに直す",
+        "後で直す",
+        "直すのを避ける",
+        "直すのを忘れる"
+      ],
+      "correctAnswer": "すぐに直す",
+      "explanation": "「fix right away」は「すぐに直す」という意味です。問題や不具合を即座に解決する必要があることを示します。 例：Red means fix right away. (赤色はすぐに直すという意味です。)"
+    },
+    {
+      "id": 45,
+      "value": "get a chance",
+      "options": [
+        "チャンスを得る",
+        "チャンスを逃す",
+        "チャンスを与える",
+        "チャンスを邪魔する"
+      ],
+      "correctAnswer": "チャンスを得る",
+      "explanation": "「get a chance」は「チャンスを得る」という意味です。何かをする機会や好機に恵まれることを指します。 例：Yellow is eh, whenever you get a chance. (黄色は、機会があればいつでも、という意味です。)"
+    },
+    {
+      "id": 46,
+      "value": "tell future generations",
+      "options": [
+        "未来の世代に伝える",
+        "過去の世代に伝える",
+        "現在の世代に伝える",
+        "どの世代にも伝えない"
+      ],
+      "correctAnswer": "未来の世代に伝える",
+      "explanation": "「tell future generations」は「未来の世代に伝える」という意味です。後世の人々に歴史や教訓を伝えることを指します。 例：Some day, we will tell future generations that dating used to be hard. (いつか、僕たちは未来の世代に、昔はデートが大変だったと伝えるだろう。)"
+    },
+    {
+      "id": 47,
+      "value": "no one cares",
+      "options": [
+        "誰も気にしない",
+        "みんなが気にする",
+        "一部の人が気にする",
+        "誰も知らない"
+      ],
+      "correctAnswer": "誰も気にしない",
+      "explanation": "「no one cares」は「誰も気にしない」という意味です。重要でないことや、関心を持たれていないことを強調します。 例：Her heart’s full of love, no one cares what’s in her mouth. (彼女の心は愛で満ちているから、誰も彼女の口の中のことは気にしない。)"
+    },
+    {
+      "id": 48,
+      "value": "writing itself",
+      "options": [
+        "自動的に書かれる",
+        "手で書かれる",
+        "書くのが難しい",
+        "書くのを忘れる"
+      ],
+      "correctAnswer": "自動的に書かれる",
+      "explanation": "「writing itself」は「自動的に書かれる」という意味です。通常は、アイデアや状況が非常に自然で、簡単にまとまることを指します。 例：Oh, the next classic episode of Sheldon Cooper Presents Fun with Flags is writing itself. (ああ、次のシェルドン・クーパープレゼンツ「旗と遊ぼう」の古典的なエピソードは自動的に書かれる。) [最高のアイデアが浮かんだ、という意味合い]"
+    },
+    {
+      "id": 49,
+      "value": "thankfully",
+      "options": [
+        "残念なことに",
+        "ありがたいことに",
+        "当然のことながら",
+        "皮肉なことに"
+      ],
+      "correctAnswer": "ありがたいことに",
+      "explanation": "「thankfully」は「ありがたいことに」という意味です。良い結果や幸運な出来事が起こった際に、感謝の気持ちを表すために使われます。 例：And thankfully, their embarrassment was overshadowed by the rise of Fascism. (そしてありがたいことに、彼らの当惑はファシズムの台頭によって影が薄れた。)"
+    },
+    {
+      "id": 50,
+      "value": "have a good night",
+      "options": [
+        "良い一日を",
+        "良い夜を",
+        "良い週末を",
+        "良い旅を"
+      ],
+      "correctAnswer": "良い夜を",
+      "explanation": "「have a good night」は「良い夜を」という意味です。夜に別れ際に使われる一般的な挨拶で、相手が快適で楽しい夜を過ごすことを願う言葉です。 例：So, have a good night. (それでは、良い夜を。)"
+    },
+    {
+      "id": 51,
+      "value": "appreciate",
+      "options": [
+        "軽蔑する",
+        "感謝する",
+        "無視する",
+        "嫌う"
+      ],
+      "correctAnswer": "感謝する",
+      "explanation": "「appreciate」は、物事や人の価値を認め、感謝する意味です。相手の行為や存在に対して感謝の気持ちを表す際に広く使われます。例：I appreciate your help. (あなたの助けに感謝します。)"
+    },
+    {
+      "id": 52,
+      "value": "rock",
+      "options": [
+        "落ち着かせる",
+        "悩ませる",
+        "感動させる",
+        "批判する"
+      ],
+      "correctAnswer": "感動させる",
+      "explanation": "ここでは、「rock」はスラングとして使われており、「最高だ」「素晴らしい」という意味合いを持ちます。特に音楽やパフォーマンスに対して使われることが多いですが、人に対しても使えます。例：That concert really rocked! (あのコンサートは本当に最高だった！)"
+    },
+    {
+      "id": 53,
+      "value": "in the mood for",
+      "options": [
+        "に反対する",
+        "を無視する",
+        "の気分である",
+        "を我慢する"
+      ],
+      "correctAnswer": "の気分である",
+      "explanation": "「in the mood for」は、「～の気分である」「～したい」という意味のイディオムです。特定の食べ物や活動に対して、欲求がある状態を表します。例：I'm in the mood for pizza. (ピザが食べたい気分だ。)"
+    },
+    {
+      "id": 54,
+      "value": "darling",
+      "options": [
+        "無愛想な人",
+        "親愛な人",
+        "意地悪な人",
+        "退屈な人"
+      ],
+      "correctAnswer": "親愛な人",
+      "explanation": "「darling」は、親愛の情を込めて使われる言葉で、「愛しい人」「大切な人」という意味です。恋人や親しい友人、家族に対して使われます。例：Good morning, darling! (おはよう、ダーリン！)"
+    },
+    {
+      "id": 55,
+      "value": "well done",
+      "options": [
+        "手伝って",
+        "よくやった",
+        "お気の毒に",
+        "頑張って"
+      ],
+      "correctAnswer": "よくやった",
+      "explanation": "「Well done」は、相手の成功や良い行いを褒める際に使われる表現で、「よくやった」「素晴らしい」という意味です。仕事やスポーツ、学習など、様々な場面で使えます。例：Well done on your exam! (試験よくやったね！)"
+    },
+    {
+      "id": 56,
+      "value": "kudos",
+      "options": [
+        "忠告",
+        "非難",
+        "称賛",
+        "侮辱"
+      ],
+      "correctAnswer": "称賛",
+      "explanation": "「kudos」は、称賛や名声、栄誉を意味する言葉です。特に、目覚ましい成果や功績を上げた人に対して使われます。例：Kudos to you for organizing the event! (イベントを企画してくれてありがとう！)"
+    },
+    {
+      "id": 57,
+      "value": "taboo",
+      "options": [
+        "普通",
+        "自由",
+        "禁忌",
+        "義務"
+      ],
+      "correctAnswer": "禁忌",
+      "explanation": "「taboo」は、社会や文化において、禁止されたり、触れることが憚られたりする事柄を指します。宗教的な理由や道徳的な理由など、様々な背景があります。例：Incest is a taboo in many cultures. (近親相姦は多くの文化でタブーとされています。)"
+    },
+    {
+      "id": 58,
+      "value": "heads up",
+      "options": [
+        "応援",
+        "警告",
+        "褒美",
+        "秘密"
+      ],
+      "correctAnswer": "警告",
+      "explanation": "「heads up」は、人に注意を促したり、警告したりする際に使われる表現です。「気をつけて」「注意して」という意味合いを持ちます。例：Heads up! There's a car coming! (危ない！車が来るぞ！)"
+    },
+    {
+      "id": 59,
+      "value": "pot luck",
+      "options": [
+        "持ち寄り",
+        "高級料理",
+        "伝統料理",
+        "お仕着せ"
+      ],
+      "correctAnswer": "持ち寄り",
+      "explanation": "「pot luck」は、参加者がそれぞれ料理を持ち寄る形式の食事会を指します。気軽な集まりでよく用いられます。例：Let's have a pot luck dinner next week. (来週、持ち寄りディナーをしましょう。)"
+    },
+    {
+      "id": 60,
+      "value": "remind",
+      "options": [
+        "思い出す",
+        "忘れる",
+        "思い出させる",
+        "隠す"
+      ],
+      "correctAnswer": "思い出させる",
+      "explanation": "「remind」は、人に何かを思い出させたり、注意を喚起したりする意味です。忘れないようにするために使われます。例：Remind me to buy milk. (牛乳を買うのを思い出させてね。)"
+    },
+    {
+      "id": 61,
+      "value": "recognition",
+      "options": [
+        "認識",
+        "拒否",
+        "無視",
+        "否定"
+      ],
+      "correctAnswer": "認識",
+      "explanation": "「recognition」は、何かを認識すること、または認識されることを意味します。ここでは、音声認識技術を指しています。例：Facial recognition is becoming more common. (顔認識技術はますます一般的になってきています。)"
+    },
+    {
+      "id": 62,
+      "value": "terrible",
+      "options": [
+        "最高",
+        "ひどい",
+        "普通",
+        "素晴らしい"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「terrible」は、「ひどい」「恐ろしい」「最悪な」という意味で、非常に悪い状態を表します。例：The weather is terrible today. (今日の天気はひどい。)"
+    },
+    {
+      "id": 63,
+      "value": "suck",
+      "options": [
+        "褒める",
+        "嫌う",
+        "吸う",
+        "好む"
+      ],
+      "correctAnswer": "嫌う",
+      "explanation": "「suck」は、俗語で「最悪だ」「ひどい」という意味を表します。不快感や不満を表現する際に使われます。例：This movie sucks! (この映画は最悪だ！)"
+    },
+    {
+      "id": 64,
+      "value": "junk",
+      "options": [
+        "貴重品",
+        "ゴミ",
+        "秘密",
+        "才能"
+      ],
+      "correctAnswer": "ゴミ",
+      "explanation": "ここでは下品な表現として使われています。本来の意味は「がらくた」「役に立たないもの」です。人の体の一部を指すスラングとしても使われることがあります。例：I need to clean out all this junk. (このがらくたを全部片付けないと。)"
+    },
+    {
+      "id": 65,
+      "value": "hang on",
+      "options": [
+        "手放す",
+        "続ける",
+        "待つ",
+        "諦める"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、「ちょっと待って」「頑張って」という意味で使われるイディオムです。状況によってニュアンスが異なります。例：Hang on a second, I'll be right there. (ちょっと待って、すぐに行くよ。)"
+    },
+    {
+      "id": 66,
+      "value": "spoil the ending",
+      "options": [
+        "隠す",
+        "知らせる",
+        "台無しにする",
+        "短縮する"
+      ],
+      "correctAnswer": "台無しにする",
+      "explanation": "「spoil the ending」は、物語や映画などの結末をネタバレすることを意味します。楽しみを奪ってしまう行為として嫌われます。例：Don't spoil the ending for me! (結末をネタバレしないで！)"
+    },
+    {
+      "id": 67,
+      "value": "address",
+      "options": [
+        "無視する",
+        "対処する",
+        "隠す",
+        "避ける"
+      ],
+      "correctAnswer": "対処する",
+      "explanation": "「address」は、問題や課題に対して「対処する」「取り組む」という意味です。ビジネスやフォーマルな場面でよく使われます。例：We need to address this issue immediately. (この問題にすぐに対処する必要があります。)"
+    },
+    {
+      "id": 68,
+      "value": "bug report",
+      "options": [
+        "改善提案",
+        "抗議",
+        "苦情",
+        "賞賛"
+      ],
+      "correctAnswer": "苦情",
+      "explanation": "「bug report」とは、ソフトウェアやシステムの欠陥や不具合を報告する文書のことです。開発者にとって、問題解決の重要な情報源となります。ここではデートプランへの不満をバグに見立てて使っています。"
+    },
+    {
+      "id": 69,
+      "value": "terrific",
+      "options": [
+        "最悪",
+        "素晴らしい",
+        "普通",
+        "退屈"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「terrific」は、「素晴らしい」「すごい」「最高の」という意味で、良い意味で驚きや感動を表す際に使われます。例：You look terrific! (あなたはとても素晴らしい！)"
+    },
+    {
+      "id": 70,
+      "value": "out for a walk",
+      "options": [
+        "散歩に出かける",
+        "仕事に出かける",
+        "家で休む",
+        "旅行に出かける"
+      ],
+      "correctAnswer": "散歩に出かける",
+      "explanation": "「out for a walk」は、「散歩に出かける」「散歩に行く」という意味の表現です。気軽に外出する際に使われます。例：I'm going out for a walk. (散歩に行ってきます。)"
+    },
+    {
+      "id": 71,
+      "value": "evolutionary leap",
+      "options": [
+        "退化",
+        "緩やかな変化",
+        "進化",
+        "停滞"
+      ],
+      "correctAnswer": "進化",
+      "explanation": "ここでは皮肉として使われています。人間関係を放棄して機械と親密になることを、進化の飛躍（evolutionary leap）と表現しています。"
+    },
+    {
+      "id": 72,
+      "value": "abandoning",
+      "options": [
+        "手に入れる",
+        "維持する",
+        "捨てる",
+        "改善する"
+      ],
+      "correctAnswer": "捨てる",
+      "explanation": "「abandoning」は、「見捨てる」「放棄する」という意味です。何かを完全に手放すことを意味します。ここでは、人間関係を放棄することを指しています。"
+    },
+    {
+      "id": 73,
+      "value": "bond",
+      "options": [
+        "嫌悪",
+        "競争",
+        "絆",
+        "無関心"
+      ],
+      "correctAnswer": "絆",
+      "explanation": "「bond」は、「絆」「結びつき」という意味で、人々の間の強い繋がりを表します。家族、友人、恋人など、様々な関係において使われます。例：The bond between mother and child is very strong. (母と子の絆は非常に強い。)"
+    },
+    {
+      "id": 74,
+      "value": "soulless",
+      "options": [
+        "熱心な",
+        "冷酷な",
+        "正直な",
+        "思いやりのある"
+      ],
+      "correctAnswer": "冷酷な",
+      "explanation": "「soulless」は、「魂のない」「感情のない」という意味で、人間味がないもの、または冷酷なものを指します。ここでは、機械を指して使われています。例：It's a soulless corporation. (それは魂のない企業だ。)"
+    },
+    {
+      "id": 75,
+      "value": "safe with me",
+      "options": [
+        "理解できない",
+        "危険である",
+        "秘密にする",
+        "興味がない"
+      ],
+      "correctAnswer": "秘密にする",
+      "explanation": "「safe with me」は、「私には秘密にするよ」「私が守るよ」という意味で、秘密を守ることを約束する際に使われます。相手を安心させるために使われます。例：Your secret is safe with me. (あなたの秘密は私が守るよ。)"
+    },
+    {
+      "id": 76,
+      "value": "fair enough",
+      "options": [
+        "不公平だ",
+        "まあ、いいだろう",
+        "とても難しい",
+        "問題ない"
+      ],
+      "correctAnswer": "まあ、いいだろう",
+      "explanation": "「fair enough」は、相手の言ったことや提案に対して、必ずしも完全に同意しているわけではないものの、それを受け入れる、あるいは納得できる範囲内であるというニュアンスで使われます。日本語の「まあ、いいだろう」「それもそうだな」といった表現に近いです。"
+    },
+    {
+      "id": 77,
+      "value": "coming across as",
+      "options": [
+        "隠されている",
+        "誤解されている",
+        "伝わってくる",
+        "忘れられている"
+      ],
+      "correctAnswer": "伝わってくる",
+      "explanation": "「come across as」は、ある印象や感情が人に伝わる、または人にそう思われるという意味です。意図せずにそう見える場合にも使われます。例：He comes across as arrogant, but he's actually very shy. (彼は傲慢に見えるが、実際にはとても内気だ。)"
+    },
+    {
+      "id": 78,
+      "value": "spontaneity",
+      "options": [
+        "計画性",
+        "自発性",
+        "秘密",
+        "重要性"
+      ],
+      "correctAnswer": "自発性",
+      "explanation": "「spontaneity」は、自発性、自然発生的な行動や性質を指します。計画や準備なしに、衝動的に何かをすることに関連します。例：Her spontaneity made her fun to be around.(彼女の自発性は、彼女を一緒にいて楽しい人にした。)"
+    },
+    {
+      "id": 79,
+      "value": "contagious",
+      "options": [
+        "伝染性の",
+        "危険な",
+        "一般的な",
+        "まれな"
+      ],
+      "correctAnswer": "伝染性の",
+      "explanation": "「contagious」は、文字通りには病気が伝染するという意味ですが、比喩的に感情や行動などが人に伝わりやすい、影響を与えやすいという意味でも使われます。例：Laughter is contagious. (笑いは伝染する。)"
+    },
+    {
+      "id": 80,
+      "value": "off-dry",
+      "options": [
+        "非常に辛口",
+        "やや甘口",
+        "アルコール度数が高い",
+        "発泡性"
+      ],
+      "correctAnswer": "やや甘口",
+      "explanation": "「off-dry」は、ワインの用語で、わずかに甘みがあることを意味します。「semi-sweet」とほぼ同義です。辛口（dry）と甘口（sweet）の中間を指します。"
+    },
+    {
+      "id": 81,
+      "value": "to paraphrase",
+      "options": [
+        "要約すると",
+        "詳しく説明すると",
+        "反論すると",
+        "提案すると"
+      ],
+      "correctAnswer": "要約すると",
+      "explanation": "「paraphrase」は、文章や発言を別の言葉で言い換える、要約するという意味です。「to paraphrase」は、「言い換えると」「要するに」といった意味合いで使われます。"
+    },
+    {
+      "id": 82,
+      "value": "read me like a book",
+      "options": [
+        "理解できない",
+        "簡単に理解できる",
+        "誤解している",
+        "興味がない"
+      ],
+      "correctAnswer": "簡単に理解できる",
+      "explanation": "「read someone like a book」は、人の気持ちや考えを容易に理解できるという意味のイディオムです。相手の表情や態度から、何を考えているか、何を感じているかをすぐに察することができる状況を表します。"
+    },
+    {
+      "id": 83,
+      "value": "tip it",
+      "options": [
+        "秘密にする",
+        "覆す",
+        "明らかにする",
+        "支持する"
+      ],
+      "correctAnswer": "覆す",
+      "explanation": "ここでは「cow tipping」という遊びに言及しており、牛を倒すことを意味します。文字通りには「傾ける」という意味ですが、ここでは牛を倒すという行為を指しています。"
+    },
+    {
+      "id": 84,
+      "value": "bug report",
+      "options": [
+        "苦情",
+        "改善提案",
+        "賞賛",
+        "質問"
+      ],
+      "correctAnswer": "苦情",
+      "explanation": "「bug report」は、ソフトウェアやシステムにおける問題点や欠陥を報告することを指します。ここでは比喩的に、相手の行動に対する不満や指摘を意味しています。"
+    },
+    {
+      "id": 85,
+      "value": "gat",
+      "options": [
+        "帽子",
+        "銃",
+        "車",
+        "ゲーム"
+      ],
+      "correctAnswer": "銃",
+      "explanation": "「gat」は、俗語で銃を意味します。特にギャング映画やヒップホップ文化などで用いられることがあります。"
+    },
+    {
+      "id": 86,
+      "value": "gangsta",
+      "options": [
+        "正直者",
+        "成功者",
+        "ギャング",
+        "臆病者"
+      ],
+      "correctAnswer": "ギャング",
+      "explanation": "「gangsta」は、ギャングスターの略で、ギャングの一員、またはギャングのような振る舞いをする人を指します。ここでは、Leonardが強がっている様子をからかうために使われています。"
+    },
+    {
+      "id": 87,
+      "value": "badass",
+      "options": [
+        "勇敢",
+        "臆病",
+        "退屈",
+        "不幸"
+      ],
+      "correctAnswer": "勇敢",
+      "explanation": "「badass」は、勇敢で反抗的な人物、または非常に印象的でクールなものを指すスラングです。ここでは、銃で怪我をしたことを自慢げに言うLeonardを表現しています。"
+    },
+    {
+      "id": 88,
+      "value": "ouchie",
+      "options": [
+        "重傷",
+        "かすり傷",
+        "手術",
+        "病気"
+      ],
+      "correctAnswer": "かすり傷",
+      "explanation": "「ouchie」は、子供が使う言葉で、軽い痛みや小さな傷を指します。ここでは、PennyがLeonardの怪我を大げさではないと表現するために使っています。"
+    },
+    {
+      "id": 89,
+      "value": "beta test",
+      "options": [
+        "最終テスト",
+        "初期テスト",
+        "秘密のテスト",
+        "公式テスト"
+      ],
+      "correctAnswer": "初期テスト",
+      "explanation": "「beta test」は、新製品やソフトウェアの初期段階でのテストを指します。ここでは、二人の関係をテスト段階と捉え、評価しようとしていることを示唆しています。"
+    },
+    {
+      "id": 90,
+      "value": "where we stand",
+      "options": [
+        "どこに立つか",
+        "何が重要か",
+        "現在の状況",
+        "過去の過ち"
+      ],
+      "correctAnswer": "現在の状況",
+      "explanation": "「where we stand」は、現在の状況や立場を意味する表現です。特に、関係性やプロジェクトの進捗状況について話す際に用いられます。"
+    },
+    {
+      "id": 91,
+      "value": "smooth jazz",
+      "options": [
+        "激しいジャズ",
+        "静かなジャズ",
+        "伝統的なジャズ",
+        "現代的なジャズ"
+      ],
+      "correctAnswer": "静かなジャズ",
+      "explanation": "「smooth jazz」は、1980年代に発展した、より洗練された、聴きやすいジャズのサブジャンルです。メロディアスでリラックスできる音楽性が特徴です。"
+    },
+    {
+      "id": 92,
+      "value": "soul mate",
+      "options": [
+        "親友",
+        "ソウルメイト",
+        "ビジネスパートナー",
+        "敵"
+      ],
+      "correctAnswer": "ソウルメイト",
+      "explanation": "「soul mate」は、魂の伴侶、非常に深いレベルで理解し合える特別な相手を指します。ロマンチックな関係だけでなく、友情にも使われます。"
+    },
+    {
+      "id": 93,
+      "value": "evaluate",
+      "options": [
+        "無視する",
+        "評価する",
+        "隠す",
+        "批判する"
+      ],
+      "correctAnswer": "評価する",
+      "explanation": "「evaluate」は、価値、重要性、質などを評価・判断するという意味です。ここでは、関係の進展具合を評価するという意味で使われています。"
+    },
+    {
+      "id": 94,
+      "value": "sake of",
+      "options": [
+        "理由",
+        "目的",
+        "利益",
+        "結果"
+      ],
+      "correctAnswer": "目的",
+      "explanation": "「For the sake of」は、「～のために」「～の目的で」という意味のフレーズです。特定の目的や利益のために何かをする際に使われます。"
+    },
+    {
+      "id": 95,
+      "value": "guten Tag",
+      "options": [
+        "こんにちは (ドイツ語)",
+        "こんばんは (ドイツ語)",
+        "さようなら (ドイツ語)",
+        "ありがとう (ドイツ語)"
+      ],
+      "correctAnswer": "こんにちは (ドイツ語)",
+      "explanation": "「Guten Tag」はドイツ語で「こんにちは」という意味の挨拶です。昼間の挨拶として使われます。"
+    },
+    {
+      "id": 96,
+      "value": "first door on the left",
+      "options": [
+        "左側の奥のドア",
+        "左側の最初のドア",
+        "右側の最初のドア",
+        "右側の奥のドア"
+      ],
+      "correctAnswer": "左側の最初のドア",
+      "explanation": "「First door on the left」は、「左側の最初のドア」という意味で、場所を案内する際によく使われます。"
+    },
+    {
+      "id": 97,
+      "value": "vacuum cleaner",
+      "options": [
+        "冷蔵庫",
+        "掃除機",
+        "洗濯機",
+        "テレビ"
+      ],
+      "correctAnswer": "掃除機",
+      "explanation": "「vacuum cleaner」は「掃除機」という意味です。家庭やオフィスなどで床やカーペットの清掃に使用されます。"
+    },
+    {
+      "id": 98,
+      "value": "fairly close",
+      "options": [
+        "非常に近い",
+        "かなり近い",
+        "非常に遠い",
+        "遠くも近くもない"
+      ],
+      "correctAnswer": "かなり近い",
+      "explanation": "「fairly close」は「かなり近い」という意味で、距離がそれほど遠くないことを表します。程度を表す「fairly」が使われています。"
+    },
+    {
+      "id": 99,
+      "value": "make love",
+      "options": [
+        "愛を育む",
+        "恋をする",
+        "食事を作る",
+        "電話をする"
+      ],
+      "correctAnswer": "愛を育む",
+      "explanation": "「make love」は、性的な関係を持つことを婉曲的に表現する言い方です。愛情や親密さを伴うニュアンスが含まれます。"
+    },
+    {
+      "id": 100,
+      "value": "wake from a dream",
+      "options": [
+        "夢を見る",
+        "夢から覚める",
+        "悪夢を見る",
+        "夢を語る"
+      ],
+      "correctAnswer": "夢から覚める",
+      "explanation": "「wake from a dream」は「夢から覚める」という意味です。文字通り夢から目を覚ます場合にも、比喩的に現実を認識する場合にも使われます。"
+    }
+  ]
+}

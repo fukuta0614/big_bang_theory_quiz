@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "chase you out of there",
+      "options": [
+        "追いかける",
+        "見送る",
+        "歓迎する",
+        "追い払う"
+      ],
+      "correctAnswer": "追い払う",
+      "explanation": "「chase someone out of somewhere」は、人をある場所から追い出す、追い払うという意味です。ここでは、シェルドンのジョークがつまらないので、バークレーから追い出されるだろうという文脈で使用されています。"
+    },
+    {
+      "id": 2,
+      "value": "all set",
+      "options": [
+        "準備完了",
+        "全て台無し",
+        "疲れた",
+        "迷った"
+      ],
+      "correctAnswer": "準備完了",
+      "explanation": "「all set」は、準備が完全に整った、準備万端であるという意味の口語表現です。旅行やイベントなど、特定の目的のための準備が完了した際に使われます。\n\n例：Are you all set for the presentation? (プレゼンテーションの準備は万端ですか？)"
+    },
+    {
+      "id": 3,
+      "value": "restocked",
+      "options": [
+        "空にした",
+        "返品した",
+        "補充した",
+        "修理した"
+      ],
+      "correctAnswer": "補充した",
+      "explanation": "「restock」は、在庫や備品を補充するという意味です。ここでは、公共トイレキット(PRK)の中身を補充したという意味で使用されています。"
+    },
+    {
+      "id": 4,
+      "value": "pee pee",
+      "options": [
+        "おしっこ",
+        "うんち",
+        "睡眠",
+        "食事"
+      ],
+      "correctAnswer": "おしっこ",
+      "explanation": "「pee pee」は、子供が使う幼児語で「おしっこ」という意味です。ここでは、公共トイレキットが「おしっこ」をするためのものであることをユーモラスに表現するために使われています。"
+    },
+    {
+      "id": 5,
+      "value": "noise-cancelling",
+      "options": [
+        "騒音を増幅する",
+        "騒音を遮断する",
+        "騒音を測定する",
+        "騒音を記録する"
+      ],
+      "correctAnswer": "騒音を遮断する",
+      "explanation": "「noise-cancelling」は、騒音を打ち消す、騒音を低減するという意味です。通常、ヘッドホンやイヤホンなどの電子機器の機能として用いられます。"
+    },
+    {
+      "id": 6,
+      "value": "on a stick",
+      "options": [
+        "棒につけた",
+        "特別な",
+        "秘密の",
+        "無料の"
+      ],
+      "correctAnswer": "棒につけた",
+      "explanation": "「on a stick」は、棒に取り付けられた、串に刺されたという意味です。ここでは、鏡が棒に取り付けられていることを表しています。"
+    },
+    {
+      "id": 7,
+      "value": "steal him away",
+      "options": [
+        "彼を誘拐する",
+        "彼を盗む",
+        "彼を誘惑する",
+        "彼を無視する"
+      ],
+      "correctAnswer": "彼を誘惑する",
+      "explanation": "「steal someone away」は、誰かを（特に恋愛関係で）奪う、誘惑するという意味です。ここでは、バークレーの女性がシェルドンを誘惑するのではないかと心配していることを表しています。"
+    },
+    {
+      "id": 8,
+      "value": "nail-biting",
+      "options": [
+        "爪を噛むほど",
+        "リラックスした",
+        "楽しい",
+        "退屈な"
+      ],
+      "correctAnswer": "爪を噛むほど",
+      "explanation": "「nail-biting」は、非常に緊張する、ハラハラドキドキするという意味です。ここでは、「I Spy」というゲームの緊張感を強調するために使われています。"
+    },
+    {
+      "id": 9,
+      "value": "visible spectrum",
+      "options": [
+        "可視スペクトル",
+        "不可視スペクトル",
+        "電磁波",
+        "音波"
+      ],
+      "correctAnswer": "可視スペクトル",
+      "explanation": "「visible spectrum」は、可視光線、つまり人間の目で見ることができる光の波長範囲を指します。物理学の専門用語です。"
+    },
+    {
+      "id": 10,
+      "value": "I'm in",
+      "options": [
+        "賛成",
+        "反対",
+        "わからない",
+        "興味がない"
+      ],
+      "correctAnswer": "賛成",
+      "explanation": "「I'm in」は、ある提案や計画に対して「参加する」「賛成する」という意味の口語表現です。気軽な同意を表します。\n\n例：\"Do you want to go to the movies tonight?\" \"Yeah, I'm in!\" （「今夜映画に行かない？」「うん、賛成！」）"
+    },
+    {
+      "id": 11,
+      "value": "passing right through us",
+      "options": [
+        "私たちを通り過ぎる",
+        "私たちを無視する",
+        "私たちを攻撃する",
+        "私たちを助ける"
+      ],
+      "correctAnswer": "私たちを通り過ぎる",
+      "explanation": "「pass through」は、通り過ぎる、通過するという意味です。ここでは、ニュートリノが車を通り抜ける様子を表しています。"
+    },
+    {
+      "id": 12,
+      "value": "solar neutrinos",
+      "options": [
+        "太陽ニュートリノ",
+        "大気ニュートリノ",
+        "人工ニュートリノ",
+        "宇宙線"
+      ],
+      "correctAnswer": "太陽ニュートリノ",
+      "explanation": "「solar neutrinos」は、太陽で生成されるニュートリノのことです。ニュートリノは素粒子の一種で、ほとんど物質と相互作用しないため、透過性が非常に高いです。"
+    },
+    {
+      "id": 13,
+      "value": "bragging",
+      "options": [
+        "自慢する",
+        "謝る",
+        "感謝する",
+        "批判する"
+      ],
+      "correctAnswer": "自慢する",
+      "explanation": "「brag」は、自慢する、誇るという意味です。ここでは、レナードがゲームに勝ったことを自慢しているとシェルドンが感じていることを表しています。"
+    },
+    {
+      "id": 14,
+      "value": "be okay with that",
+      "options": [
+        "大丈夫",
+        "反対",
+        "無関心",
+        "わからない"
+      ],
+      "correctAnswer": "大丈夫",
+      "explanation": "「be okay with that」は、それに対して問題ない、構わないという意味です。ここでは、音楽を聴くことに同意することを表しています。"
+    },
+    {
+      "id": 15,
+      "value": "got crazy",
+      "options": [
+        "おかしくなった",
+        "静かになった",
+        "退屈になった",
+        "終わった"
+      ],
+      "correctAnswer": "おかしくなった",
+      "explanation": "「get crazy」は、興奮する、盛り上がる、またはクレイジーになるという意味です。ここでは、ロードトリップが楽しくなってきたことを表しています。"
+    },
+    {
+      "id": 16,
+      "value": "reference",
+      "options": [
+        "参照",
+        "拒否",
+        "無視",
+        "偶然"
+      ],
+      "correctAnswer": "参照",
+      "explanation": "「reference」は、言及、引用、または参照という意味です。ここでは、シェルドンが音楽の引用について知っていることに驚いていることを表しています。"
+    },
+    {
+      "id": 17,
+      "value": "give me a hand",
+      "options": [
+        "手伝って",
+        "邪魔して",
+        "無視して",
+        "攻撃して"
+      ],
+      "correctAnswer": "手伝って",
+      "explanation": "「give someone a hand」は、誰かを手伝うという意味の口語表現です。軽い手伝いを頼む際に使われます。\n\n例：Can you give me a hand with these boxes? (これらの箱を運ぶのを手伝ってくれますか？)"
+    },
+    {
+      "id": 18,
+      "value": "growing up",
+      "options": [
+        "成長する",
+        "年を取る",
+        "大人になる",
+        "幼少期"
+      ],
+      "correctAnswer": "幼少期",
+      "explanation": "「growing up」は、成長する過程、特に子供時代を指します。ここでは、子供の頃に持っていたものを回想する際に使われています。"
+    },
+    {
+      "id": 19,
+      "value": "leave one side up",
+      "options": [
+        "片側を上げる",
+        "全て下げる",
+        "無視する",
+        "取り外す"
+      ],
+      "correctAnswer": "片側を上げる",
+      "explanation": "卓球台などの片側を上げて、一人で練習することを指します。卓球用語というわけではありません。"
+    },
+    {
+      "id": 20,
+      "value": "keeping an open mind",
+      "options": [
+        "心を開いている",
+        "心を閉ざしている",
+        "怒っている",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "心を開いている",
+      "explanation": "「keep an open mind」は、先入観を持たずに、新しい考えや意見を受け入れる心構えを持つという意味です。柔軟な思考を促す際に用いられます。\n\n例：We should keep an open mind about new approaches. (新しいアプローチに対して心を開いておくべきです。)"
+    },
+    {
+      "id": 21,
+      "value": "double in value",
+      "options": [
+        "価値が倍になる",
+        "価値が半減する",
+        "価値がなくなる",
+        "価値が変わらない"
+      ],
+      "correctAnswer": "価値が倍になる",
+      "explanation": "「double in value」は、価値が2倍になるという意味です。投資やコレクターアイテムの価値上昇について話す際に使われます。"
+    },
+    {
+      "id": 22,
+      "value": "as long as",
+      "options": [
+        "〜する限り",
+        "〜にもかかわらず",
+        "〜なので",
+        "〜の場合"
+      ],
+      "correctAnswer": "〜する限り",
+      "explanation": "「as long as」は、〜する限り、〜の間という意味の接続詞です。条件や期間を表します。\n\n例：You can borrow my car as long as you drive carefully. (注意して運転する限り、私の車を借りてもいいですよ。)"
+    },
+    {
+      "id": 23,
+      "value": "garage sales",
+      "options": [
+        "ガレージセール",
+        "バーゲンセール",
+        "オークション",
+        "フリーマーケット"
+      ],
+      "correctAnswer": "ガレージセール",
+      "explanation": "「garage sale」は、自宅のガレージや庭先で行われる中古品販売のことです。不要になったものを手軽に売買する目的で行われます。"
+    },
+    {
+      "id": 24,
+      "value": "in charge of",
+      "options": [
+        "担当",
+        "興味",
+        "責任",
+        "反対"
+      ],
+      "correctAnswer": "担当",
+      "explanation": "「in charge of」は、〜を担当している、〜の責任者であるという意味です。特定の仕事やプロジェクトを任されている状態を表します。\n\n例：She is in charge of marketing. (彼女はマーケティングを担当しています。)"
+    },
+    {
+      "id": 25,
+      "value": "pantyhose",
+      "options": [
+        "ストッキング",
+        "靴下",
+        "手袋",
+        "帽子"
+      ],
+      "correctAnswer": "ストッキング",
+      "explanation": "「pantyhose」は、パンティストッキングのことです。女性用の下着の一種で、脚全体を覆うものです。"
+    },
+    {
+      "id": 26,
+      "value": "musical equivalent of Russell’s Paradox",
+      "options": [
+        "音楽における調和の象徴",
+        "音楽におけるラッセルのパラドックスに相当するもの",
+        "音楽における普遍的な美の表現",
+        "音楽における感情の複雑さ"
+      ],
+      "correctAnswer": "音楽におけるラッセルのパラドックスに相当するもの",
+      "explanation": "ラッセルのパラドックスは、集合論における自己言及の矛盾を指します。ここでは、ある曲が自己言及的な矛盾を抱えているかのように、複雑で解決困難な音楽的な問題を指す比喩として使われています。つまり、シンプルに見えて実は非常に複雑な問題を指す際に用いられます。"
+    },
+    {
+      "id": 27,
+      "value": "make great time",
+      "options": [
+        "素晴らしい時間を過ごす",
+        "順調に進む",
+        "時間を作る",
+        "時間を無駄にする"
+      ],
+      "correctAnswer": "順調に進む",
+      "explanation": "「make great time」とは、旅行や作業などが予想以上に速く、順調に進んでいる状態を指すイディオムです。物理的な移動だけでなく、プロジェクトの進行などにも使えます。例：We're making great time on this project.（このプロジェクトは順調に進んでいます。）"
+    },
+    {
+      "id": 28,
+      "value": "hit the bricks",
+      "options": [
+        "レンガを投げる",
+        "立ち去る",
+        "建設を始める",
+        "レンガを磨く"
+      ],
+      "correctAnswer": "立ち去る",
+      "explanation": "「hit the bricks」は、立ち去る、出て行くという意味のスラングです。特に、解雇されたり、追い払われたりする状況で使われます。命令形として「Hit the bricks!」のように使われることもあります。例：The manager told him to hit the bricks after he was caught stealing. (マネージャーは彼が盗みを働いているのを見つけた後、彼に出て行くように言った。)"
+    },
+    {
+      "id": 29,
+      "value": "dropping in",
+      "options": [
+        "落とす",
+        "立ち寄る",
+        "急降下する",
+        "脱落する"
+      ],
+      "correctAnswer": "立ち寄る",
+      "explanation": "「drop in」は、予告なしに、または気軽に立ち寄るという意味です。計画された訪問ではなく、偶然または軽い気持ちで訪問する際に使われます。例：Feel free to drop in anytime you're in the neighborhood. (近所にいるときはいつでも気軽に立ち寄ってください。)"
+    },
+    {
+      "id": 30,
+      "value": "I’m so excited. And I just can’t hide it.",
+      "options": [
+        "とても興奮していて隠せない",
+        "少しも隠す必要がない",
+        "興奮を抑えている",
+        "全く興奮していない"
+      ],
+      "correctAnswer": "とても興奮していて隠せない",
+      "explanation": "このフレーズは、非常に興奮している感情をストレートに表現しています。隠そうとしても隠しきれないほどの強い喜びや期待感を伝える際に使われます。元々はポインターシスターズの歌の歌詞です。"
+    },
+    {
+      "id": 31,
+      "value": "I’m about to lose control, and I think I like it.",
+      "options": [
+        "制御不能になりそうで、それが好きだ",
+        "完全に冷静でいられる",
+        "制御を失うのが怖い",
+        "何も感じない"
+      ],
+      "correctAnswer": "制御不能になりそうで、それが好きだ",
+      "explanation": "このフレーズは、何かに夢中になり、自制心を失いそうになる感覚を表しています。良い意味で、感情が高ぶり、抑制が効かなくなる状態を楽しむニュアンスが含まれています。元々はジョーンジェットの歌の歌詞です。"
+    },
+    {
+      "id": 32,
+      "value": "tchotchke crapfest",
+      "options": [
+        "洗練された装飾",
+        "趣味の良いコレクション",
+        "ガラクタの山",
+        "シンプルなデザイン"
+      ],
+      "correctAnswer": "ガラクタの山",
+      "explanation": "「tchotchke」は、装飾品や小物を意味するイディッシュ語由来の言葉で、しばしば不要または安価なものを指します。「crapfest」は、くだらないものが集まった状態を意味するスラングです。この二つが組み合わさることで、趣味の悪い、または過剰な装飾で溢れた状態を表現します。"
+    },
+    {
+      "id": 33,
+      "value": "porta-potty",
+      "options": [
+        "携帯トイレ",
+        "秘密基地",
+        "タイムマシン",
+        "異次元空間"
+      ],
+      "correctAnswer": "携帯トイレ",
+      "explanation": "「porta-potty」は、移動式トイレ、簡易トイレを意味する一般的なアメリカ英語です。ここでは、TARDIS（タイムマシン）を皮肉って、その外見や機能を貶めるために使われています。"
+    },
+    {
+      "id": 34,
+      "value": "arm-wrestle",
+      "options": [
+        "腕相撲",
+        "議論する",
+        "交渉する",
+        "ダンスをする"
+      ],
+      "correctAnswer": "腕相撲",
+      "explanation": "「arm-wrestle」は腕相撲をするという意味です。比喩的には、何かを決定するために力や腕力を競うことを指すこともあります。ここでは、TARDISの所有権を決定する方法として提案されています。"
+    },
+    {
+      "id": 35,
+      "value": "ongoing war",
+      "options": [
+        "終わりのない戦争",
+        "平和な時代",
+        "過去の出来事",
+        "一時的な紛争"
+      ],
+      "correctAnswer": "終わりのない戦争",
+      "explanation": "「ongoing war」は、現在進行中の戦争、終わりの見えない争いを指します。比喩的に、解決困難な問題や対立が続いている状況を表すのにも使われます。ここでは、おもちゃ同士の戦いを誇張して表現しています。"
+    },
+    {
+      "id": 36,
+      "value": "sit through",
+      "options": [
+        "座って見る",
+        "耐えて最後まで見る",
+        "途中で立ち去る",
+        "積極的に参加する"
+      ],
+      "correctAnswer": "耐えて最後まで見る",
+      "explanation": "「sit through」は、退屈であったり不快であったりする何かを、我慢して最後まで見たり聞いたりすることを意味します。ここでは、LeonardがPennyにDoctor Whoを無理やり見せている状況を表しています。"
+    },
+    {
+      "id": 37,
+      "value": "on your behalf",
+      "options": [
+        "あなたのために",
+        "あなたの代わりに",
+        "あなたに反対して",
+        "あなたと一緒に"
+      ],
+      "correctAnswer": "あなたの代わりに",
+      "explanation": "「on one's behalf」は、誰かのために、または誰かの代理として行動することを意味します。ここでは、PennyがBernadetteの代わりに卓球の試合に出ることを指しています。フォーマルな場面でも使用されます。"
+    },
+    {
+      "id": 38,
+      "value": "trial by combat",
+      "options": [
+        "裁判による決定",
+        "戦闘裁判",
+        "平和的解決",
+        "話し合いによる解決"
+      ],
+      "correctAnswer": "戦闘裁判",
+      "explanation": "「trial by combat」は、中世ヨーロッパで行われた、紛争の解決方法の一つで、当事者同士が戦い、勝った方が正義とされる裁判方法です。ここでは、卓球の試合を誇張して表現するために使われています。"
+    },
+    {
+      "id": 39,
+      "value": "death-match",
+      "options": [
+        "友好的な試合",
+        "生死をかけた試合",
+        "練習試合",
+        "社交的な集まり"
+      ],
+      "correctAnswer": "生死をかけた試合",
+      "explanation": "「death-match」は、生死をかけた試合、または非常に激しい競争を意味します。ここでは、卓球の試合を大げさに表現し、その重要性を強調するために使われています。"
+    },
+    {
+      "id": 40,
+      "value": "get a picture",
+      "options": [
+        "写真を撮る",
+        "理解する",
+        "絵を描く",
+        "映画を見る"
+      ],
+      "correctAnswer": "写真を撮る",
+      "explanation": "「get a picture」は写真を撮るという意味の一般的な表現です。ここでは、Skywalker Ranchの写真を撮ることを提案しています。日常会話でよく使われます。"
+    },
+    {
+      "id": 41,
+      "value": "feel sorry for",
+      "options": [
+        "同情する",
+        "羨む",
+        "軽蔑する",
+        "無視する"
+      ],
+      "correctAnswer": "同情する",
+      "explanation": "「feel sorry for」は、誰かや何かに同情する、かわいそうに思うという意味です。ここでは、Pennyを手に入れるために3年もかけたLeonardが、Skywalker Ranchのゲートに同情してもらう時間はないと言っています。"
+    },
+    {
+      "id": 42,
+      "value": "get over it",
+      "options": [
+        "乗り越える",
+        "忘れる",
+        "理解する",
+        "楽しむ"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get over it」は、何か困難なことや嫌なことを乗り越える、気にしないようにするという意味です。ここでは、Leonardの緊張に対して、Sheldonが自信を持つように促すために使われています。口語的な表現です。"
+    },
+    {
+      "id": 43,
+      "value": "confidence is key",
+      "options": [
+        "自信が鍵だ",
+        "秘密が重要だ",
+        "協力が不可欠だ",
+        "運が全てだ"
+      ],
+      "correctAnswer": "自信が鍵だ",
+      "explanation": "「confidence is key」は、自信を持つことが成功への鍵であるという意味の一般的なフレーズです。自己肯定感を持って行動することが重要であることを強調する際に使われます。様々な場面で応用できます。"
+    },
+    {
+      "id": 44,
+      "value": "attract the attention",
+      "options": [
+        "注意を引く",
+        "関心を失う",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "注意を引く",
+      "explanation": "「attract the attention」は、誰かの注意や関心を引くという意味です。ここでは、ホテルのロビーで長時間待つことがホテルの探偵の注意を引くかもしれないという懸念を表しています。フォーマルな場面でも使用されます。"
+    },
+    {
+      "id": 45,
+      "value": "drive by",
+      "options": [
+        "通り過ぎる",
+        "運転する",
+        "立ち寄る",
+        "駐車する"
+      ],
+      "correctAnswer": "通り過ぎる",
+      "explanation": "「drive by」は、車で通り過ぎる、または車で立ち寄るという意味です。ここでは、Skywalker Ranchを車で通り過ぎて見ることを提案しています。日常会話でよく使われます。"
+    },
+    {
+      "id": 46,
+      "value": "figure out",
+      "options": [
+        "計算する",
+        "理解する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」とは、何かを理解する、解決策を見つける、または計画を立てるという意味です。ここでは、引っ越しの際にどの程度リフォームするかを決定するために使われています。日常会話でよく使われます。"
+    },
+    {
+      "id": 47,
+      "value": "on behalf of",
+      "options": [
+        "〜の代わりに",
+        "〜のために",
+        "〜に反対して",
+        "〜と一緒に"
+      ],
+      "correctAnswer": "〜の代わりに",
+      "explanation": "「on behalf of」は、誰かの代理として、または誰かのために行動することを意味します。フォーマルな場面でよく使用され、公式な代理や代表を意味することが多いです。ここでは、PennyがBernadetteの代わりに卓球をすることを表しています。"
+    },
+    {
+      "id": 48,
+      "value": "settled",
+      "options": [
+        "解決した",
+        "落ち着いた",
+        "未解決の",
+        "混乱した"
+      ],
+      "correctAnswer": "解決した",
+      "explanation": "「settled」は、合意に達した、解決したという意味です。ここでは、TARDISの運命を決定する方法について合意に達したことを示しています。契約や議論がまとまった際に使われることが多いです。"
+    },
+    {
+      "id": 49,
+      "value": "have to lose",
+      "options": [
+        "失うものがある",
+        "失うものがない",
+        "得るものがある",
+        "得るものがない"
+      ],
+      "correctAnswer": "失うものがない",
+      "explanation": "「have nothing to lose」は、失うものがない、つまり、試してみる価値があるという意味です。ここでは、Skywalker Ranchに連絡してみることにデメリットがないというニュアンスが含まれています。リスクがない状況で使われます。"
+    },
+    {
+      "id": 50,
+      "value": "just a gate",
+      "options": [
+        "ただの門",
+        "重要な入り口",
+        "秘密の通路",
+        "象徴的な場所"
+      ],
+      "correctAnswer": "ただの門",
+      "explanation": "「just a gate」は、単なる門、期待していたものとは違って特別なものではないという意味です。ここでは、Skywalker Ranchの入り口が意外と普通であったことを示しています。期待外れだったというニュアンスを含みます。"
+    },
+    {
+      "id": 51,
+      "value": "out of your mind?",
+      "options": [
+        "正気ですか？",
+        "疲れていますか？",
+        "準備ができていますか？",
+        "満足していますか？"
+      ],
+      "correctAnswer": "正気ですか？",
+      "explanation": "「Are you out of your mind?」は、相手の行動や発言があまりにも突飛であったり、非常識であったりする場合に使われる表現です。相手を非難したり、驚きや困惑を表したりする際に用いられます。文字通りには「あなたは正気ではないのですか？」という意味になります。"
+    },
+    {
+      "id": 52,
+      "value": "duct tape",
+      "options": [
+        "ガムテープ",
+        "絶縁テープ",
+        "布テープ",
+        "ビニールテープ"
+      ],
+      "correctAnswer": "布テープ",
+      "explanation": "Duct tapeは、強力な粘着力と防水性を持つ布製のテープのことです。もともとは空調ダクトの修理に使われていたことからこの名がつきました。DIYや応急処置など、幅広い用途で使われます。"
+    },
+    {
+      "id": 53,
+      "value": "You're blowing it.",
+      "options": [
+        "あなたは成功している",
+        "あなたはそれを台無しにしている",
+        "あなたは楽しんでいる",
+        "あなたはそれを理解している"
+      ],
+      "correctAnswer": "あなたはそれを台無しにしている",
+      "explanation": "「You're blowing it.」は、誰かが何かを失敗させたり、チャンスを逃したりする状況を指して使われます。文字通りには「あなたはそれを吹き飛ばしている」という意味で、非難や警告のニュアンスが含まれます。"
+    },
+    {
+      "id": 54,
+      "value": "steel ourselves",
+      "options": [
+        "強化する",
+        "リラックスする",
+        "隠蔽する",
+        "諦める"
+      ],
+      "correctAnswer": "強化する",
+      "explanation": "「steel oneself」は、困難や不快な状況に備えて、気持ちを引き締めたり、覚悟を決めたりすることを意味します。困難に立ち向かうために精神的な準備をすることを強調する表現です。例：We must steel ourselves for the challenges ahead.（私たちはこれから先の困難に備えなければならない。）"
+    },
+    {
+      "id": 55,
+      "value": "sense of whimsy",
+      "options": [
+        "目的意識",
+        "奇抜さ",
+        "責任感",
+        "恐怖心"
+      ],
+      "correctAnswer": "奇抜さ",
+      "explanation": "「whimsy」は、気まぐれ、風変わりさ、奇抜さなどを意味します。「sense of whimsy」は、そうした風変わりなものを楽しむ感覚や、ユーモアのセンスを指します。日常にちょっとした遊び心や楽しさを見出す能力を表します。"
+    },
+    {
+      "id": 56,
+      "value": "predicated on",
+      "options": [
+        "基づいている",
+        "反対している",
+        "関連している",
+        "無視している"
+      ],
+      "correctAnswer": "基づいている",
+      "explanation": "「predicated on」は、「～に基づいている」「～を前提としている」という意味です。何かの理論や計画、主張などが、特定の事実や条件の上に成り立っていることを示す場合に使われます。例：Our plan is predicated on the assumption that the weather will be good.（私たちの計画は、天気が良いという前提に基づいています。）"
+    },
+    {
+      "id": 57,
+      "value": "take a shot",
+      "options": [
+        "休憩する",
+        "挑戦する",
+        "批判する",
+        "逃避する"
+      ],
+      "correctAnswer": "挑戦する",
+      "explanation": "「take a shot」は、「試してみる」「挑戦する」という意味の口語表現です。成功するかどうかはわからないが、何かを達成するために行動を起こすことを指します。例：I decided to take a shot at starting my own business. (私は自分のビジネスを始めることに挑戦することに決めました。)"
+    },
+    {
+      "id": 58,
+      "value": "time to kill",
+      "options": [
+        "忙しい時間",
+        "暇な時間",
+        "残業時間",
+        "休憩時間"
+      ],
+      "correctAnswer": "暇な時間",
+      "explanation": "「time to kill」は、「暇な時間」「時間つぶし」という意味です。特に予定がなく、時間を持て余している状況を表します。 例：We had some time to kill before our flight.（フライトまで時間があったので、時間をつぶしました。）"
+    },
+    {
+      "id": 59,
+      "value": "shedding the yoke",
+      "options": [
+        "重荷から解放される",
+        "責任を負う",
+        "束縛を受け入れる",
+        "困難に立ち向かう"
+      ],
+      "correctAnswer": "重荷から解放される",
+      "explanation": "「yoke」は「くびき」を意味し、「shedding the yoke」は比喩的に、抑圧や束縛から解放されることを指します。自由になる、解放されるという強いニュアンスがあります。例：The country finally shed the yoke of colonialism.（その国はついに植民地支配のくびきから解放された。）"
+    },
+    {
+      "id": 60,
+      "value": "blind, sad little man",
+      "options": [
+        "無知で哀れな人",
+        "賢明で幸せな人",
+        "勇敢で強い人",
+        "正直で優しい人"
+      ],
+      "correctAnswer": "無知で哀れな人",
+      "explanation": "このフレーズは、文字通りには「盲目で、悲しい、小さな人」という意味ですが、比喩的に、状況を理解せず、哀れな状態にある人を指して使われます。軽蔑や嘲りのニュアンスが含まれることがあります。"
+    },
+    {
+      "id": 61,
+      "value": "King Kong of Ping-Pong",
+      "options": [
+        "卓球の初心者",
+        "卓球の王者",
+        "卓球の審判",
+        "卓球の観客"
+      ],
+      "correctAnswer": "卓球の王者",
+      "explanation": "これは比喩表現で、「～のキングコング」は、ある分野で非常に優れている人、または圧倒的な力を持つ人を指します。ここでは、Rajが卓球で非常に強いことを強調するために使われています。"
+    },
+    {
+      "id": 62,
+      "value": "menace of table tennis",
+      "options": [
+        "卓球の脅威",
+        "卓球の才能",
+        "卓球のルール",
+        "卓球の練習"
+      ],
+      "correctAnswer": "卓球の脅威",
+      "explanation": "「menace」は「脅威」という意味で、「menace of table tennis」は、卓球の世界で非常に手強く、相手にとって脅威となる存在であることを意味します。Rajの卓球の腕前を誇張して表現しています。"
+    },
+    {
+      "id": 63,
+      "value": "Put her away",
+      "options": [
+        "彼女をデートに誘う",
+        "彼女を片付ける",
+        "彼女を打ち負かす",
+        "彼女を助ける"
+      ],
+      "correctAnswer": "彼女を打ち負かす",
+      "explanation": "この文脈では、「put her away」は、対戦相手を打ち負かす、圧倒するという意味のスラング表現です。特にゲームやスポーツなどで使われ、競争相手を打ち負かすことを指します。"
+    },
+    {
+      "id": 64,
+      "value": "go way back",
+      "options": [
+        "過去に戻る",
+        "遠くまで行く",
+        "長い付き合いがある",
+        "道を譲る"
+      ],
+      "correctAnswer": "長い付き合いがある",
+      "explanation": "「go way back」は、長い間知り合いである、長い付き合いがあるという意味のイディオムです。過去からの深い関係を示唆する際に用いられます。例：We go way back, we've known each other since kindergarten.（私たちは幼稚園からの知り合いで、長い付き合いです。）"
+    },
+    {
+      "id": 65,
+      "value": "terrible serve",
+      "options": [
+        "素晴らしいサーブ",
+        "普通のサーブ",
+        "ひどいサーブ",
+        "珍しいサーブ"
+      ],
+      "correctAnswer": "ひどいサーブ",
+      "explanation": "文字通り「ひどいサーブ」という意味ですが、試合の流れを悪くするような、ミスにつながるサーブを指します。自らのミスを謙遜して表現する際にも使われます。"
+    },
+    {
+      "id": 66,
+      "value": "rusty",
+      "options": [
+        "新しい",
+        "錆びた",
+        "古い",
+        "汚れた"
+      ],
+      "correctAnswer": "錆びた",
+      "explanation": "「rusty」は、技術や知識がしばらく使われていないために、以前ほど上手くできなくなっている状態を指します。ここでは、Amyが卓球をしばらくしていなかったため、腕が鈍っているかもしれないという意味で使われています。"
+    },
+    {
+      "id": 67,
+      "value": "pay grade",
+      "options": [
+        "給与水準",
+        "成績",
+        "学年",
+        "勤務態度"
+      ],
+      "correctAnswer": "給与水準",
+      "explanation": "「pay grade」は、役職や職務の等級によって定められた給与水準を指します。この文脈では、ある役職の人が担当する仕事の重要度や責任の度合いを示唆しています。例えば、「That's below the pay grade of an Imperial Officer.」は、その仕事は帝国軍の士官がやるような仕事ではない、という意味になります。"
+    },
+    {
+      "id": 68,
+      "value": "holding cell",
+      "options": [
+        "保管室",
+        "独房",
+        "休憩室",
+        "会議室"
+      ],
+      "correctAnswer": "独房",
+      "explanation": "「holding cell」は、一時的に人を拘束しておくための独房、留置場のことです。逮捕された人が裁判や移送を待つ間、一時的に収容される場所を指します。"
+    },
+    {
+      "id": 69,
+      "value": "to kill",
+      "options": [
+        "殺すため",
+        "費やすため",
+        "保存するため",
+        "創造するため"
+      ],
+      "correctAnswer": "費やすため",
+      "explanation": "この場合のto killは、kill time (時間をつぶす)というイディオムの一部です。時間を持て余している状態を表し、その時間を何かをして過ごすという意味合いです。"
+    },
+    {
+      "id": 70,
+      "value": "take a shot",
+      "options": [
+        "写真を撮る",
+        "挑戦する",
+        "休憩する",
+        "逃げる"
+      ],
+      "correctAnswer": "挑戦する",
+      "explanation": "take a shotは、何かを試みる、挑戦するという意味のイディオムです。成功するかどうかはわからないが、とりあえずやってみるというニュアンスが含まれます。"
+    },
+    {
+      "id": 71,
+      "value": "rust",
+      "options": [
+        "輝き",
+        "錆",
+        "埃",
+        "傷"
+      ],
+      "correctAnswer": "錆",
+      "explanation": "rustは、本来「錆」という意味ですが、ここでは比喩的に、技術や知識が衰えることを指しています。久しぶりに何かをする際に、腕が鈍っている状態を表す際に使われます。"
+    },
+    {
+      "id": 72,
+      "value": "go way back",
+      "options": [
+        "振り返る",
+        "遠くまで行く",
+        "長い付き合いがある",
+        "引き返す"
+      ],
+      "correctAnswer": "長い付き合いがある",
+      "explanation": "go way backは、長い間知り合いである、長い付き合いがあるという意味のイディオムです。過去からの深い関係を示唆する際に用いられます。"
+    },
+    {
+      "id": 73,
+      "value": "blow it",
+      "options": [
+        "成功させる",
+        "失敗させる",
+        "忘れる",
+        "改善する"
+      ],
+      "correctAnswer": "失敗させる",
+      "explanation": "blow itは、機会やチャンスを台無しにする、失敗するという意味のスラングです。重要な場面でミスを犯したり、しくじったりする状況を表します。"
+    },
+    {
+      "id": 74,
+      "value": "steel oneself",
+      "options": [
+        "リラックスする",
+        "強化する",
+        "隠れる",
+        "諦める"
+      ],
+      "correctAnswer": "強化する",
+      "explanation": "steel oneselfは、困難や不快な状況に備えて、気持ちを引き締めたり、覚悟を決めたりすることを意味します。困難に立ち向かうために精神的な準備をすることを強調する表現です。"
+    },
+    {
+      "id": 75,
+      "value": "pay grade",
+      "options": [
+        "給与水準",
+        "学年",
+        "成績",
+        "勤務態度"
+      ],
+      "correctAnswer": "給与水準",
+      "explanation": "pay gradeは、役職や職務の等級によって定められた給与水準を指します。この文脈では、ある役職の人が担当する仕事の重要度や責任の度合いを示唆しています。"
+    },
+    {
+      "id": 76,
+      "value": "fit in",
+      "options": [
+        "運動する",
+        "似合う",
+        "適合する",
+        "我慢する"
+      ],
+      "correctAnswer": "適合する",
+      "explanation": "「fit in」は、あるグループや環境に自然に馴染む、受け入れられるという意味です。周囲の期待や規範に合致し、孤立感を感じることなく、その一員として受け入れられている状態を表します。\n\n例：It's not always easy to fit in when you move to a new school. (新しい学校に転校すると、馴染むのは必ずしも簡単ではありません。)"
+    },
+    {
+      "id": 77,
+      "value": "make out with",
+      "options": [
+        "言い訳をする",
+        "理解する",
+        "キスをする",
+        "仲直りする"
+      ],
+      "correctAnswer": "キスをする",
+      "explanation": "「make out with」は、恋人と親密なキスをしたり、愛撫したりすることを指す口語表現です。よりフォーマルな言葉で表現するならば、'engage in heavy petting' が近い意味合いを持ちます。\n\n例：They were making out in the back of the movie theater. (彼らは映画館の後ろで熱いキスをしていた。)"
+    },
+    {
+      "id": 78,
+      "value": "go with",
+      "options": [
+        "我慢する",
+        "似合う",
+        "賛成する",
+        "出発する"
+      ],
+      "correctAnswer": "賛成する",
+      "explanation": "「go with」は、提案や意見に賛成する、または何かを選ぶという意味です。ここでは「警告だけで済ませる」という意味合いで使われています。\n\n例：I think we should go with the blue one. (青い方を選ぶべきだと思います。)"
+    },
+    {
+      "id": 79,
+      "value": "suck it",
+      "options": [
+        "耐えろ",
+        "吸い込む",
+        "あきらめろ",
+        "無視しろ"
+      ],
+      "correctAnswer": "耐えろ",
+      "explanation": "「suck it」は、相手を挑発したり、打ち負かした時に使われる非常に口語的な表現です。相手に不快な状況を受け入れるように促すニュアンスがあり、相手を見下すような意味合いが含まれます。相手が不快に思うことを承知の上で、あえてそれを受け入れさせるような状況で使われます。\n\n例：You lost? Suck it! (負けたのか？ざまあみろ！)"
+    },
+    {
+      "id": 80,
+      "value": "get in her head",
+      "options": [
+        "理解する",
+        "悩ませる",
+        "同意する",
+        "忘れる"
+      ],
+      "correctAnswer": "悩ませる",
+      "explanation": "「get in someone's head」は、相手の心理に影響を与え、動揺させたり、考え込ませたりすることを意味します。スポーツやゲームなどで、相手の集中力を乱したり、精神的に揺さぶるような状況でよく使われます。\n\n例：He's trying to get in my head before the match. (彼は試合前に私を動揺させようとしている。)"
+    },
+    {
+      "id": 81,
+      "value": "own",
+      "options": [
+        "所有する",
+        "認める",
+        "打ち負かす",
+        "操作する"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "「own」は、ここでは俗語として使われており、相手を完全に打ち負かす、圧倒するという意味になります。ゲームやスポーツなどの競争的な状況で、相手を打ち負かす際に使われることが多いです。\n\n例：Our team totally owned them in the basketball game. (私たちのチームはバスケットボールの試合で彼らを完全に打ち負かした。)"
+    },
+    {
+      "id": 82,
+      "value": "put her away",
+      "options": [
+        "片付ける",
+        "しまう",
+        "終わらせる",
+        "隠す"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「put someone away」は、相手を打ち負かす、または相手を終わらせるという意味のスラングです。競争やゲームなどの状況で、相手を打ち負かして勝利を確定させる際に使われます。\n\n例：He put his opponent away with a powerful serve. (彼は強力なサーブで相手を打ち負かした。)"
+    },
+    {
+      "id": 83,
+      "value": "Where's the line?",
+      "options": [
+        "どこから来たの？",
+        "どこに行くの？",
+        "限界はどこ？",
+        "何が言いたい？"
+      ],
+      "correctAnswer": "限界はどこ？",
+      "explanation": "「Where's the line?」は、どこまでが許容範囲なのか、何が問題ないのかという限界や境界線を尋ねる際に使われる表現です。不快に感じる発言や行動があった際に、その許容範囲を問う意味合いで使用されます。\n\n例：I'm not sure where the line is with her; she gets offended easily. (彼女のどこまでが許容範囲なのかわからない。彼女はすぐに気分を害する。)"
+    },
+    {
+      "id": 84,
+      "value": "can't help but wonder",
+      "options": [
+        "疑問に思わざるを得ない",
+        "手伝うことができない",
+        "迷ってしまう",
+        "仕方なく考える"
+      ],
+      "correctAnswer": "疑問に思わざるを得ない",
+      "explanation": "「can't help but wonder」は、どうしても〜と思ってしまう、〜せずにはいられないという意味です。あることについて考えずにはいられない、というニュアンスを表します。\n\n例：I can't help but wonder what would have happened if I had taken a different path. (もし違う道を選んでいたらどうなっていただろうかと、どうしても思ってしまう。)"
+    },
+    {
+      "id": 85,
+      "value": "glass-half-empty",
+      "options": [
+        "楽観的",
+        "悲観的",
+        "現実的",
+        "理想主義的"
+      ],
+      "correctAnswer": "悲観的",
+      "explanation": "「glass-half-empty」は、物事を悪い面から見る、悲観的な考え方をするという意味です。文字通りには「グラスが半分空である」という状況を指し、残りの半分に注目するのではなく、空の部分に注目する態度を表します。\n\n例：He always sees the glass as half-empty. (彼はいつも物事を悲観的に見ている。)"
+    },
+    {
+      "id": 86,
+      "value": "dying of thirst",
+      "options": [
+        "喉が渇いている",
+        "羨ましい",
+        "飢えている",
+        "退屈している"
+      ],
+      "correctAnswer": "喉が渇いている",
+      "explanation": "「dying of thirst」は、非常に喉が渇いている状態を強調する表現です。文字通りには「渇きで死にかけている」という意味で、極度の渇きを表現する比喩的な言い方です。\n\n例：After running the marathon, I was dying of thirst. (マラソンを走った後、私は喉がカラカラだった。)"
+    },
+    {
+      "id": 87,
+      "value": "look at it all wrong",
+      "options": [
+        "完全に理解する",
+        "勘違いしている",
+        "無視している",
+        "同意している"
+      ],
+      "correctAnswer": "勘違いしている",
+      "explanation": "「look at it all wrong」は、物事の見方や考え方が根本的に間違っている、誤解しているという意味です。相手の視点や解釈が誤っていることを指摘する際に使われます。\n\n例：You're looking at it all wrong; it's not about the money. (あなたは完全に勘違いしている。お金の問題ではない。)"
+    },
+    {
+      "id": 88,
+      "value": "flop around",
+      "options": [
+        "飛び跳ねる",
+        "暴れまわる",
+        "落ち込む",
+        "静止する"
+      ],
+      "correctAnswer": "暴れまわる",
+      "explanation": "「flop around」は、不器用にもがいたり、体をばたつかせたりする様子を表します。特に制御を失った状態や、苦痛を感じている状況で使われることが多いです。\n\n例：The fish was flopping around on the deck of the boat. (その魚はボートの甲板でもがいていた。)"
+    },
+    {
+      "id": 89,
+      "value": "take your word for it",
+      "options": [
+        "言葉を受け入れる",
+        "約束する",
+        "提案する",
+        "無視する"
+      ],
+      "correctAnswer": "言葉を受け入れる",
+      "explanation": "「take your word for it」は、相手の言葉を信用する、または相手の言うことをそのまま受け入れるという意味です。自分自身で確認せずに、相手の言葉を信じるというニュアンスが含まれます。\n\n例：I didn't see the accident, but I'll take your word for it. (私はその事故を見ていないけど、あなたの言葉を信じます。)"
+    },
+    {
+      "id": 90,
+      "value": "detaining room",
+      "options": [
+        "休憩室",
+        "待合室",
+        "拘留室",
+        "応接室"
+      ],
+      "correctAnswer": "拘留室",
+      "explanation": "「detaining room」は、一時的に人を拘束または留置するための部屋を指します。警察署や空港などで、容疑者や疑わしい人物を一時的に拘束するために使用される部屋を指します。\n\n例：The suspect was taken to the detaining room for questioning. (容疑者は尋問のために拘留室に連れて行かれた。)"
+    },
+    {
+      "id": 91,
+      "value": "count as",
+      "options": [
+        "数える",
+        "みなす",
+        "計算する",
+        "重要視する"
+      ],
+      "correctAnswer": "みなす",
+      "explanation": "「count as」は、〜とみなす、〜として数えるという意味です。あるものが特定のカテゴリーや条件に当てはまるかどうかを判断する際に使われます。\n\n例：This experience can count as valuable work experience. (この経験は貴重な職務経験とみなすことができます。)"
+    },
+    {
+      "id": 92,
+      "value": "take away",
+      "options": [
+        "与える",
+        "奪う",
+        "追加する",
+        "保存する"
+      ],
+      "correctAnswer": "奪う",
+      "explanation": "「take away」は、何かを奪う、取り除く、無効にするという意味です。ここでは、過去の経験や思い出を奪うという意味合いで使われています。\n\n例：No one can take away the memories we shared. (誰も私たちが共有した思い出を奪うことはできない。)"
+    },
+    {
+      "id": 93,
+      "value": "right on my tail",
+      "options": [
+        "すぐ後ろに",
+        "足元に",
+        "真上に",
+        "向かい側に"
+      ],
+      "correctAnswer": "すぐ後ろに",
+      "explanation": "「right on my tail」は、すぐ後ろに迫っている、追跡されているという意味です。文字通りには「私の尻尾のすぐ後ろ」という意味で、危険や脅威が迫っている状況を表します。\n\n例：The police were right on his tail after the robbery. (強盗の後、警察は彼のすぐ後ろに迫っていた。)"
+    },
+    {
+      "id": 94,
+      "value": "shut up",
+      "options": [
+        "黙る",
+        "立ち去る",
+        "元気出す",
+        "諦める"
+      ],
+      "correctAnswer": "黙る",
+      "explanation": "「Shut up」は、人に黙るように強く命令する、非常に直接的で失礼な表現です。親しい間柄や、非常にカジュアルな状況でのみ使用されます。\n\n例文：I'm trying to concentrate, can you please shut up?"
+    },
+    {
+      "id": 95,
+      "value": "have an impact on",
+      "options": [
+        "無視する",
+        "影響を与える",
+        "比較する",
+        "依存する"
+      ],
+      "correctAnswer": "影響を与える",
+      "explanation": "「Have an impact on」は、「〜に影響を与える」という意味の表現です。ある事柄が別の事柄に及ぼす影響や効果を指します。\n\n例文：His speech had a great impact on the audience."
+    },
+    {
+      "id": 96,
+      "value": "post at",
+      "options": [
+        "投稿する",
+        "配置する",
+        "削除する",
+        "修正する"
+      ],
+      "correctAnswer": "配置する",
+      "explanation": "「Post at」は、特定の場所に掲示または配置するという意味です。この文脈では、警備ゲートに写真を掲示することを指しています。\n\n例文: The notice was posted at the entrance of the building."
+    },
+    {
+      "id": 97,
+      "value": "discreet corner",
+      "options": [
+        "目立たない場所",
+        "騒がしい場所",
+        "明るい場所",
+        "危険な場所"
+      ],
+      "correctAnswer": "目立たない場所",
+      "explanation": "「Discreet corner」は、人目につかない、慎重に隠された場所という意味です。騒がしくなく、静かな場所を指します。\n\n例文: They met in a discreet corner of the library."
+    },
+    {
+      "id": 98,
+      "value": "rotating platform",
+      "options": [
+        "固定された場所",
+        "回転する台",
+        "高い場所",
+        "低い場所"
+      ],
+      "correctAnswer": "回転する台",
+      "explanation": "「Rotating platform」は、回転する台のことです。展示物などを様々な角度から見せるために使われます。\n\n例文: The sculpture was displayed on a rotating platform."
+    },
+    {
+      "id": 99,
+      "value": "sonic screwdriver",
+      "options": [
+        "音響ドライバー",
+        "小型ドライバー",
+        "多機能ツール",
+        "おもちゃ"
+      ],
+      "correctAnswer": "多機能ツール",
+      "explanation": "「Sonic screwdriver」は、イギリスのSFドラマ『ドクター・フー』に登場する架空の多機能ツールです。鍵を開けたり、機械を修理したり、スキャンしたりなど、様々な用途に使用されます。\n\n例文: He used his sonic screwdriver to open the door."
+    },
+    {
+      "id": 100,
+      "value": "think this through",
+      "options": [
+        "終わらせる",
+        "整理する",
+        "考える",
+        "計画する"
+      ],
+      "correctAnswer": "計画する",
+      "explanation": "「Think this through」は、「〜についてよく考える」「〜を十分に検討する」という意味です。計画を立てる前に、考えられる結果や問題点を考慮することを指します。\n\n例文: We need to think this through before making a decision."
+    }
+  ]
+}

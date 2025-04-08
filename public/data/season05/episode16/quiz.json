@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "come up with",
+      "options": [
+        "思いつく",
+        "見捨てる",
+        "解決する",
+        "理解する"
+      ],
+      "correctAnswer": "思いつく",
+      "explanation": "「come up with」は、新しいアイデアや計画を考え出す、提案するという意味です。創造的な行為や問題解決の文脈でよく使われます。例：She came up with a brilliant idea for the marketing campaign. (彼女はマーケティングキャンペーンのために素晴らしいアイデアを思いついた。)"
+    },
+    {
+      "id": 2,
+      "value": "irrational constant",
+      "options": [
+        "無理数",
+        "有理数",
+        "整数",
+        "自然数"
+      ],
+      "correctAnswer": "無理数",
+      "explanation": "「irrational constant」は、数学における無理数を指します。円周率πやネイピア数eなどが代表例です。これらの数は、分数で正確に表すことができない実数です。数学や物理学の計算で頻繁に使用されます。"
+    },
+    {
+      "id": 3,
+      "value": "symposium",
+      "options": [
+        "会議",
+        "遊園地",
+        "映画館",
+        "レストラン"
+      ],
+      "correctAnswer": "会議",
+      "explanation": "「symposium」は、特定のテーマについて専門家が集まり、意見交換や発表を行う会議、討論会を意味します。学術的な分野や専門的な業界でよく用いられる言葉です。例：He presented his research at the international symposium on climate change. (彼は気候変動に関する国際シンポジウムで研究発表を行った。)"
+    },
+    {
+      "id": 4,
+      "value": "carried the one",
+      "options": [
+        "繰り上がりを計算する",
+        "重いものを運ぶ",
+        "重要な役割を担う",
+        "成功を収める"
+      ],
+      "correctAnswer": "繰り上がりを計算する",
+      "explanation": "「carry the one」とは、算数で繰り上がりの計算を行うことを指します。このフレーズは、特に基本的な計算ミスを指摘する際に用いられ、ユーモラスなニュアンスを含むことがあります。例：He thought he carried the one, but he forgot to add it. (彼は繰り上がりを計算したと思ったが、足し忘れていた。)"
+    },
+    {
+      "id": 5,
+      "value": "I'm going to wet myself!",
+      "options": [
+        "笑いが止まらない",
+        "泣きそうだ",
+        "怒っている",
+        "疲れている"
+      ],
+      "correctAnswer": "笑いが止まらない",
+      "explanation": "「I'm going to wet myself!」は、非常に面白いことや可笑しいことがあって、笑いが止まらない状態を表す口語的な表現です。文字通りには「おもらししそう」という意味ですが、実際にはそれほどまでに笑いがこみ上げていることを強調しています。例：That joke was so funny, I almost wet myself! (あのジョークはとても面白くて、おもらししそうになった!)"
+    },
+    {
+      "id": 6,
+      "value": "headed this way",
+      "options": [
+        "こちらに向かっている",
+        "迷子になっている",
+        "立ち止まっている",
+        "出発した"
+      ],
+      "correctAnswer": "こちらに向かっている",
+      "explanation": "「head this way」は、特定の人物や物が話者のいる方向へ向かっていることを意味します。物理的な移動だけでなく、比喩的に状況や話題が特定の方向へ進んでいることを示す場合にも使われます。例：The storm is headed this way, so we should prepare for heavy rain. (嵐がこちらに向かっているので、大雨に備えるべきだ。)"
+    },
+    {
+      "id": 7,
+      "value": "suggestion box",
+      "options": [
+        "意見箱",
+        "宝箱",
+        "救急箱",
+        "道具箱"
+      ],
+      "correctAnswer": "意見箱",
+      "explanation": "「suggestion box」は、組織や団体が従業員や顧客から意見や提案を収集するために設置する箱のことです。改善点や新しいアイデアを匿名で提出できるため、建設的なフィードバックを得る手段として利用されます。例：The company implemented several ideas that were submitted through the suggestion box. (会社は意見箱を通じて提出されたいくつかのアイデアを実行に移した。)"
+    },
+    {
+      "id": 8,
+      "value": "obligated",
+      "options": [
+        "義務付けられた",
+        "許可された",
+        "推奨された",
+        "禁止された"
+      ],
+      "correctAnswer": "義務付けられた",
+      "explanation": "「obligated」は、法的、道徳的、または契約上の義務を負っている状態を指します。何かをする責任や義務があることを意味し、しばしばフォーマルな文脈で使用されます。例：Employees are obligated to report any safety concerns to their supervisor. (従業員は安全上の懸念事項を上司に報告する義務がある。)"
+    },
+    {
+      "id": 9,
+      "value": "settled",
+      "options": [
+        "決定した",
+        "未解決の",
+        "混乱した",
+        "議論中の"
+      ],
+      "correctAnswer": "決定した",
+      "explanation": "「settled」は、議論や紛争などが解決し、合意に達した状態を表します。また、計画や状況が確定し、変更の余地がないことを示す場合にも使われます。例：The terms of the agreement were settled after a long negotiation. (長い交渉の末、合意の条件が決定した。)"
+    },
+    {
+      "id": 10,
+      "value": "sarcasm",
+      "options": [
+        "皮肉",
+        "誠実",
+        "ユーモア",
+        "同情"
+      ],
+      "correctAnswer": "皮肉",
+      "explanation": "「sarcasm」は、相手を嘲るような意図を含んだ皮肉を意味します。言葉の表面的な意味とは反対のことを言うことで、非難や軽蔑の感情を表現する際に用いられます。例：His voice was full of sarcasm when he said, \"That was a brilliant idea.\" (彼が「それは素晴らしいアイデアだ」と言ったとき、彼の声は皮肉に満ちていた。)"
+    },
+    {
+      "id": 11,
+      "value": "caterwauling",
+      "options": [
+        "騒々しい叫び声",
+        "美しい歌声",
+        "静かなささやき",
+        "楽しいおしゃべり"
+      ],
+      "correctAnswer": "騒々しい叫び声",
+      "explanation": "「caterwauling」は、猫のけんかのような騒々しい叫び声や不快な音を指します。特に下手な歌や耳障りな音楽を表現する際に使われることがあります。例：The caterwauling from the karaoke bar kept me awake all night. (カラオケバーからの騒々しい叫び声で一晩中眠れなかった。)"
+    },
+    {
+      "id": 12,
+      "value": "smuggled",
+      "options": [
+        "密輸した",
+        "寄付した",
+        "販売した",
+        "生産した"
+      ],
+      "correctAnswer": "密輸した",
+      "explanation": "「smuggle」は、違法に人や物を隠して運び込むことを意味します。関税を逃れたり、法律で禁止されている物品を運び込む際に用いられることが多いです。例：He was arrested for trying to smuggle drugs across the border. (彼は国境を越えて麻薬を密輸しようとして逮捕された。)"
+    },
+    {
+      "id": 13,
+      "value": "talked out of",
+      "options": [
+        "説得してやめさせる",
+        "説得して賛成させる",
+        "無視する",
+        "応援する"
+      ],
+      "correctAnswer": "説得してやめさせる",
+      "explanation": "「talk someone out of (something)」は、説得して誰かに何かをしないようにさせるという意味です。相手の考えや行動を変えさせるために、議論やアドバイスを用いることを含みます。例：I talked her out of quitting her job. (私は彼女を説得して仕事を辞めさせないようにした。)"
+    },
+    {
+      "id": 14,
+      "value": "maid of honor",
+      "options": [
+        "ブライズメイド",
+        "花婿",
+        "牧師",
+        "参列者"
+      ],
+      "correctAnswer": "ブライズメイド",
+      "explanation": "「maid of honor」は、結婚式で花嫁の最も親しい友人や姉妹が務める役割です。花嫁のサポートをし、結婚式の準備や当日の進行を手伝います。未婚女性が務める場合はmaid of honor, 既婚女性が務める場合はmatron of honorといいます。"
+    },
+    {
+      "id": 15,
+      "value": "aisle",
+      "options": [
+        "通路",
+        "祭壇",
+        "庭",
+        "控え室"
+      ],
+      "correctAnswer": "通路",
+      "explanation": "「aisle」は、教会や劇場、スーパーマーケットなどの建物の中にある通路を指します。特に、結婚式で花嫁が歩く通路としてよく知られています。例：The bride walked down the aisle with her father. (花嫁は父親とバージンロードを歩いた。)"
+    },
+    {
+      "id": 16,
+      "value": "limit",
+      "options": [
+        "極限",
+        "無限",
+        "定数",
+        "変数"
+      ],
+      "correctAnswer": "極限",
+      "explanation": "数学における「limit」は、ある関数や数列が特定の値に限りなく近づくときの、その値のことを指します。微積分学の基礎概念であり、連続性や微分可能性を定義する上で重要です。例：The limit of the function as x approaches infinity is zero. (xが無限大に近づくときの関数の極限はゼロである。)"
+    },
+    {
+      "id": 17,
+      "value": "electrical charge",
+      "options": [
+        "電荷",
+        "電流",
+        "電圧",
+        "抵抗"
+      ],
+      "correctAnswer": "電荷",
+      "explanation": "「electrical charge」は、物質が持つ電気的な性質の源となる物理量です。正電荷と負電荷があり、同符号の電荷は反発し、異符号の電荷は引き合います。電気現象を理解する上で基本的な概念です。例：Electrons carry a negative electrical charge. (電子は負の電荷を帯びている。)"
+    },
+    {
+      "id": 18,
+      "value": "physics department",
+      "options": [
+        "物理学科",
+        "化学科",
+        "生物学科",
+        "数学科"
+      ],
+      "correctAnswer": "物理学科",
+      "explanation": "「physics department」は、大学などの教育機関における物理学の研究と教育を行う部門です。物理学の様々な分野（理論物理学、実験物理学、応用物理学など）をカバーし、学生への教育や研究活動を推進します。例：She is a professor in the physics department at the university. (彼女は大学の物理学科の教授である。)"
+    },
+    {
+      "id": 19,
+      "value": "sarcasm?",
+      "options": [
+        "皮肉？",
+        "本気？",
+        "冗談？",
+        "質問？"
+      ],
+      "correctAnswer": "皮肉？",
+      "explanation": "相手の発言が皮肉かどうかを確認する際に用いられる表現です。文脈や相手の口調から真意を測りかねる場合に、確認のために使われます。例：Are you being serious or is that sarcasm? (あなたは本気ですか、それとも皮肉ですか？)"
+    },
+    {
+      "id": 20,
+      "value": "GPS",
+      "options": [
+        "全地球測位システム",
+        "地理情報システム",
+        "全球気象システム",
+        "地球物理学システム"
+      ],
+      "correctAnswer": "全地球測位システム",
+      "explanation": "「GPS」は、Global Positioning Systemの略で、人工衛星からの信号を受信して、地球上の位置を特定するシステムです。ナビゲーション、測量、地図作成など、様々な分野で利用されています。例：I used my GPS to find the restaurant. (レストランを見つけるためにGPSを使った。)"
+    },
+    {
+      "id": 21,
+      "value": "Turn it over.",
+      "options": [
+        "裏返して。",
+        "あきらめて。",
+        "手放して。",
+        "忘れて。"
+      ],
+      "correctAnswer": "裏返して。",
+      "explanation": "物理的に何かを裏返すことを指示する表現です。比喩的には、状況や視点を変えることを促す意味合いで使われることもあります。例：Turn the page over and read the next chapter. (ページを裏返して次の章を読んでください。)"
+    },
+    {
+      "id": 22,
+      "value": "relatives",
+      "options": [
+        "親戚",
+        "友人",
+        "同僚",
+        "隣人"
+      ],
+      "correctAnswer": "親戚",
+      "explanation": "「relatives」は、血縁関係または婚姻関係にある人々、つまり親戚を指します。家族よりも広い範囲の人々を指す言葉です。例：We invited all our relatives to the wedding. (私たちは結婚式にすべての親戚を招待した。)"
+    },
+    {
+      "id": 23,
+      "value": "veil",
+      "options": [
+        "ベール",
+        "王冠",
+        "ブーケ",
+        "指輪"
+      ],
+      "correctAnswer": "ベール",
+      "explanation": "「veil」は、女性が顔や頭を覆うために用いる薄い布のことです。特に結婚式で花嫁が着用することが一般的で、純潔や神秘さを象徴する意味合いを持ちます。例：The bride wore a long, white veil. (花嫁は長い白いベールを身に着けていた。)"
+    },
+    {
+      "id": 24,
+      "value": "men's room",
+      "options": [
+        "男子トイレ",
+        "女子トイレ",
+        "会議室",
+        "休憩室"
+      ],
+      "correctAnswer": "男子トイレ",
+      "explanation": "「men's room」は、男性用のトイレを指す一般的な表現です。公共の場所や施設でよく使われます。例：The men's room is located down the hall. (男子トイレは廊下の先にあります。)"
+    },
+    {
+      "id": 25,
+      "value": "sarcasm?",
+      "options": [
+        "皮肉？",
+        "本気？",
+        "冗談？",
+        "質問？"
+      ],
+      "correctAnswer": "皮肉？",
+      "explanation": "相手の発言が皮肉かどうかを確認する際に用いられる表現です。文脈や相手の口調から真意を測りかねる場合に、確認のために使われます。例：Are you being serious or is that sarcasm? (あなたは本気ですか、それとも皮肉ですか？)"
+    },
+    {
+      "id": 26,
+      "value": "pre-nup",
+      "options": [
+        "結婚前の合意書",
+        "離婚後の財産分与",
+        "子供の養育費",
+        "慰謝料"
+      ],
+      "correctAnswer": "結婚前の合意書",
+      "explanation": "「pre-nup」は「prenuptial agreement」の略で、結婚前に夫婦間で取り決める財産分与などに関する合意書のことです。万が一離婚した場合に備えて、財産の取り扱いや配分方法などを事前に定めておきます。"
+    },
+    {
+      "id": 27,
+      "value": "daunting",
+      "options": [
+        "簡単な",
+        "困難な",
+        "楽しい",
+        "退屈な"
+      ],
+      "correctAnswer": "困難な",
+      "explanation": "「daunting」は、困難で、気後れさせるような、という意味を持つ形容詞です。勇気をくじくような、圧倒されるような状況を表す際に使われます。例：The task seemed daunting at first, but we eventually completed it. (その仕事は最初、気が遠くなるように思えたが、最終的にはやり遂げた。)"
+    },
+    {
+      "id": 28,
+      "value": "gave in",
+      "options": [
+        "主張した",
+        "抵抗した",
+        "降参した",
+        "無視した"
+      ],
+      "correctAnswer": "降参した",
+      "explanation": "「give in」は、抵抗をやめて相手の要求を受け入れる、降参するという意味の句動詞です。例文：She finally gave in to his demands. (彼女はついに彼の要求に屈した。)"
+    },
+    {
+      "id": 29,
+      "value": "break it to him",
+      "options": [
+        "秘密にする",
+        "伝える",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "伝える",
+      "explanation": "「break it to someone」は、人に対して悪い知らせや難しいことを伝えるという意味のイディオムです。相手がショックを受けたり、不快に思ったりする可能性がある内容を伝える際に使われます。例文：I have to break it to him that he didn't get the job. (彼に仕事に採用されなかったことを伝えなければならない。)"
+    },
+    {
+      "id": 30,
+      "value": "big believer",
+      "options": [
+        "懐疑的な人",
+        "信じる人",
+        "無関心な人",
+        "反対する人"
+      ],
+      "correctAnswer": "信じる人",
+      "explanation": "\"Big believer\"とは、何かを強く信じている人、または特定の考え方や方法を支持する人を指します。ここでは、Pennyが「ベッドの中で悪い知らせを伝える」という方法を強く信じていることを表しています。"
+    },
+    {
+      "id": 31,
+      "value": "manipulate",
+      "options": [
+        "操作する",
+        "感謝する",
+        "無視する",
+        "信頼する"
+      ],
+      "correctAnswer": "操作する",
+      "explanation": "「manipulate」は、人を巧みに操る、または状況を自分の有利になるように操作するという意味の動詞です。しばしば否定的な意味合いで使用され、相手を欺いたり、不当な影響を与えたりすることを示唆します。例：He manipulated his friends into helping him. (彼は友人たちを操って、彼を助けさせた。)"
+    },
+    {
+      "id": 32,
+      "value": "wed",
+      "options": [
+        "離婚",
+        "結婚",
+        "相続",
+        "養子"
+      ],
+      "correctAnswer": "結婚",
+      "explanation": "「wed」は古語で「結婚する」という意味です。ここでは結婚という言葉の語源に関する話題で使われています。過去には、花婿が花嫁の父親に金銭や家畜を支払う習慣があり、その支払い行為が「wed」と呼ばれていました。"
+    },
+    {
+      "id": 33,
+      "value": "fetch",
+      "options": [
+        "売る",
+        "買う",
+        "稼ぐ",
+        "盗む"
+      ],
+      "correctAnswer": "稼ぐ",
+      "explanation": "「fetch」は、ここでは「（価値を）生み出す」という意味で使われています。特に、商品やサービスなどが特定の価格で売れる、または価値があることを指します。例：That painting could fetch millions at auction. (その絵画はオークションで数百万ドルの値を付ける可能性がある。)"
+    },
+    {
+      "id": 34,
+      "value": "leper colony",
+      "options": [
+        "刑務所",
+        "観光地",
+        "ハンセン病療養所",
+        "避暑地"
+      ],
+      "correctAnswer": "ハンセン病療養所",
+      "explanation": "「leper colony」は、ハンセン病患者を隔離するための施設、療養所のことです。歴史的には、ハンセン病は感染力が強いと誤解されていたため、患者は社会から隔離されることがありました。現代では、ハンセン病は治療可能であり、隔離の必要はありません。"
+    },
+    {
+      "id": 35,
+      "value": "Mahalo",
+      "options": [
+        "こんにちは",
+        "ありがとう",
+        "さようなら",
+        "愛してる"
+      ],
+      "correctAnswer": "ありがとう",
+      "explanation": "「Mahalo」はハワイ語で「ありがとう」という意味です。感謝の気持ちを表す際に使われます。ここでは、皮肉を込めて使われています。"
+    },
+    {
+      "id": 36,
+      "value": "flume ride",
+      "options": [
+        "ジェットコースター",
+        "観覧車",
+        "急流下り",
+        "メリーゴーランド"
+      ],
+      "correctAnswer": "急流下り",
+      "explanation": "「flume ride」は、水路（flume）を利用したアトラクションで、急な傾斜を下るウォーターライドのことです。ここでは、ハワードのおばの家の家具がビニールで覆われているため、汗をかくと滑りやすくなる様子を比喩的に表現しています。"
+    },
+    {
+      "id": 37,
+      "value": "have a good handle on",
+      "options": [
+        "理解している",
+        "反対している",
+        "興味がない",
+        "混乱している"
+      ],
+      "correctAnswer": "理解している",
+      "explanation": "「have a good handle on」は、何かをしっかりと理解している、把握しているという意味のイディオムです。物事の仕組みや状況を理解し、適切に対応できる状態を表します。例文：He has a good handle on the project. (彼はプロジェクトをしっかりと把握している。)"
+    },
+    {
+      "id": 38,
+      "value": "expand his mind",
+      "options": [
+        "心を閉ざす",
+        "知識を広げる",
+        "ストレスを溜める",
+        "現実逃避する"
+      ],
+      "correctAnswer": "知識を広げる",
+      "explanation": "「expand one's mind」は、知識や理解を広げる、視野を広げるという意味の表現です。新しい経験や学習を通じて、思考や認識の範囲を広げることを指します。ここでは、休暇を取る代わりに、新しい分野（生物学）を学ぶことで、リチャード・ファインマンが自身の知識を広げようとしたことを表しています。"
+    },
+    {
+      "id": 39,
+      "value": "sneaking stuff into",
+      "options": [
+        "追加する",
+        "隠す",
+        "無視する",
+        "盗む"
+      ],
+      "correctAnswer": "追加する",
+      "explanation": "「sneak stuff into」は、こっそり何かを紛れ込ませる、という意味です。ここでは、ペニーがコインランドリーのお金がないため、他の人の洗濯物にこっそり自分の洗濯物を混ぜていることを表しています。"
+    },
+    {
+      "id": 40,
+      "value": "That's rough",
+      "options": [
+        "簡単だ",
+        "大変だ",
+        "素晴らしい",
+        "どうでもいい"
+      ],
+      "correctAnswer": "大変だ",
+      "explanation": "「That's rough」は、相手の状況に対して同情や共感を示す表現で、「それは大変だね」「それはきついね」という意味です。相手が困難な状況に置かれていることを理解し、慰める際に使われます。"
+    },
+    {
+      "id": 41,
+      "value": "gots to get paid",
+      "options": [
+        "支払う必要がある",
+        "支払われる必要がある",
+        "支払いを拒否する",
+        "支払いを延期する"
+      ],
+      "correctAnswer": "支払われる必要がある",
+      "explanation": "「gots to get paid」は、口語的な表現で、「get to」が変化した「gotta」をさらに強調した言い方です。「お金をもらわなければならない」「報酬を得る必要がある」という意味合いで、ここでは、もしペニーが有名な映画スターになってレナードが留守番をするなら、その分の報酬が必要だと主張しています。"
+    },
+    {
+      "id": 42,
+      "value": "dinged",
+      "options": [
+        "修理した",
+        "洗った",
+        "へこませた",
+        "塗装した"
+      ],
+      "correctAnswer": "へこませた",
+      "explanation": "「ding」は、軽い衝突やへこみを意味する動詞です。ここでは、ペニーが駐車場でメルセデスにぶつけてへこませてしまったことを表しています。例文：I dinged my car in the parking lot. (駐車場で車をへこませてしまった。)"
+    },
+    {
+      "id": 43,
+      "value": "joke all you want",
+      "options": [
+        "好きなだけ冗談を言って",
+        "真剣に考えて",
+        "冗談を言わないで",
+        "怒らないで"
+      ],
+      "correctAnswer": "好きなだけ冗談を言って",
+      "explanation": "「joke all you want」は、「好きなだけ冗談を言ってもいいよ」という意味です。相手が冗談を言っていることに対して、特に気にしない、または真剣に受け止めていないことを伝える際に使われます。例文：Joke all you want, but I'm serious. (好きなだけ冗談を言ってもいいけど、私は本気だよ。)"
+    },
+    {
+      "id": 44,
+      "value": "off to a wonderful start",
+      "options": [
+        "最悪の始まり",
+        "素晴らしい始まり",
+        "普通の始まり",
+        "遅い始まり"
+      ],
+      "correctAnswer": "素晴らしい始まり",
+      "explanation": "「off to a wonderful start」は、何かが素晴らしい始まりを迎えている、順調な滑り出しであるという意味の表現です。ここでは、皮肉を込めて使われており、シェルドンが普段と違う環境を楽しんでいる様子を表しています。"
+    },
+    {
+      "id": 45,
+      "value": "Way to kill the mood",
+      "options": [
+        "良い雰囲気だ",
+        "雰囲気を壊すな",
+        "盛り上がっている",
+        "静かにして"
+      ],
+      "correctAnswer": "雰囲気を壊すな",
+      "explanation": "「Way to kill the mood」は、せっかくの雰囲気を台無しにする、興ざめさせる、という意味の皮肉めいた表現です。相手の発言や行動が場の雰囲気を悪くした場合に使われます。例文：I was really enjoying the party until he showed up. Way to kill the mood. (彼が現れるまでパーティーを本当に楽しんでいたのに。せっかくの雰囲気を壊してくれたよ。)"
+    },
+    {
+      "id": 46,
+      "value": "Screw",
+      "options": [
+        "無視する",
+        "強化する",
+        "修正する",
+        "調べる"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「screw」は、ここでは「無視する」「どうでもいい」という意味のスラングとして使われています。より口語的な場面で、何かを軽視したり、重要でないと考えたりする際に用いられます。"
+    },
+    {
+      "id": 47,
+      "value": "splicing some genes",
+      "options": [
+        "遺伝子を結合する",
+        "遺伝子を破壊する",
+        "遺伝子をコピーする",
+        "遺伝子を隠す"
+      ],
+      "correctAnswer": "遺伝子を結合する",
+      "explanation": "「gene splicing」とは、遺伝子工学において、異なるDNA分子から遺伝子を切り出し、別のDNA分子に組み込む操作のことです。遺伝子組み換え技術の基本的な手法の一つで、新たな機能を持つ生物を作り出すために用いられます。"
+    },
+    {
+      "id": 48,
+      "value": "hazing",
+      "options": [
+        "歓迎",
+        "いじめ",
+        "教育",
+        "訓練"
+      ],
+      "correctAnswer": "いじめ",
+      "explanation": "「hazing」は、新入生や新加入者に対して行われる、嫌がらせや屈辱的な行為のことです。ここでは、シェルドンがエイミーのラボで雑用をさせられることを、新参者へのいじめだと冗談めかして言っています。"
+    },
+    {
+      "id": 49,
+      "value": "keep an eye out for",
+      "options": [
+        "探す",
+        "避ける",
+        "無視する",
+        "見守る"
+      ],
+      "correctAnswer": "探す",
+      "explanation": "「keep an eye out for」は、何か特定のものを注意して探す、警戒するという意味のイディオムです。例文：Keep an eye out for any changes in his behavior. (彼の行動に何か変化がないか注意して見ていてください。)"
+    },
+    {
+      "id": 50,
+      "value": "Hippity-hop",
+      "options": [
+        "ゆっくり歩く",
+        "スキップする",
+        "走る",
+        "立ち止まる"
+      ],
+      "correctAnswer": "スキップする",
+      "explanation": "「Hippity-hop」は、子供がスキップしたり、飛び跳ねたりする様子を表す言葉です。ここでは、エイミーがシェルドンに急いでビーカーを洗うように促す際に、冗談めかして使っています。急かすニュアンスが含まれます。"
+    },
+    {
+      "id": 51,
+      "value": "keep it between us",
+      "options": [
+        "秘密にしておく",
+        "私たちに任せて",
+        "二人の間に挟む",
+        "私たちを邪魔しないで"
+      ],
+      "correctAnswer": "秘密にしておく",
+      "explanation": "「keep it between us」は、秘密を守ってほしいときに使う表現です。「この話はここだけの話にしてね」という意味合いで、打ち明けた内容を他言しないように頼む際に使われます。親しい間柄での会話でよく用いられます。\n\n例: \"I'm going to quit my job, but keep it between us until I tell my boss.\"(会社を辞めるつもりだけど、上司に言うまで秘密にしておいてね。)"
+    },
+    {
+      "id": 52,
+      "value": "gossip around the water cooler",
+      "options": [
+        "ウォータークーラーの周りを掃除する",
+        "井戸端会議をする",
+        "水を飲む",
+        "冷却装置を修理する"
+      ],
+      "correctAnswer": "井戸端会議をする",
+      "explanation": "「gossip around the water cooler」は、職場の給水機の周りで噂話や内緒話をするという意味です。職場における非公式なコミュニケーションの典型的な場面を表しています。\n\n例：There's always someone gossiping around the water cooler about office politics.(会社の派閥争いについて、いつも誰かが給水機の周りで噂話をしています。)"
+    },
+    {
+      "id": 53,
+      "value": "creepy",
+      "options": [
+        "創造的な",
+        "不気味な",
+        "陽気な",
+        "清潔な"
+      ],
+      "correctAnswer": "不気味な",
+      "explanation": "「creepy」は、不気味な、ぞっとする、気味が悪いという意味を持つ形容詞です。人や場所、雰囲気など、何かが不快感や不安感を与えるときに使われます。\n\n例：That old house on the hill gives me a creepy feeling.(丘の上の古い家は、私に不気味な感じを与える。)"
+    },
+    {
+      "id": 54,
+      "value": "devastated",
+      "options": [
+        "喜んで",
+        "絶望して",
+        "混乱して",
+        "期待して"
+      ],
+      "correctAnswer": "絶望して",
+      "explanation": "「devastated」は、大きな悲しみや衝撃を受け、打ちのめされた状態を表す形容詞です。災害や悲報など、精神的に大きなダメージを受けたときに使われます。\n\n例：She was devastated when she heard about the accident.(彼女は事故について聞いて、打ちのめされた。)"
+    },
+    {
+      "id": 55,
+      "value": "give someone a heads-up",
+      "options": [
+        "頭をなでる",
+        "注意を促す",
+        "帽子をあげる",
+        "頭痛薬をあげる"
+      ],
+      "correctAnswer": "注意を促す",
+      "explanation": "「give someone a heads-up」は、人に事前に警告や注意を与えるという意味のイディオムです。何か良くないことや重要なことが起こる前に、その情報を知らせて準備を促す際に使われます。\n\n例：I wanted to give you a heads-up that the boss is in a bad mood today.(今日、上司の機嫌が悪いことを知らせておきたかった。)"
+    },
+    {
+      "id": 56,
+      "value": "follow your heart",
+      "options": [
+        "心臓に従う",
+        "直感に従う",
+        "心臓を鍛える",
+        "心臓病を予防する"
+      ],
+      "correctAnswer": "直感に従う",
+      "explanation": "「follow your heart」は、自分の感情や直感に従って行動するという意味のイディオムです。理性や他人の意見ではなく、自分の心の声に従うことの重要性を示唆します。\n\n例：Even though it's risky, you should follow your heart and pursue your dreams.(たとえ危険でも、あなたは自分の心に従って夢を追いかけるべきだ。)"
+    },
+    {
+      "id": 57,
+      "value": "check it out",
+      "options": [
+        "小切手を確認する",
+        "見てごらん",
+        "それを調べる",
+        "チェックインする"
+      ],
+      "correctAnswer": "見てごらん",
+      "explanation": "「Check it out」は、「見てごらん」「確認してごらん」という意味のスラング表現です。相手に何かを見せたり、注意を引いたりする際に使われます。\n\n例：Hey, check it out! I got a new car.(ねえ、見てごらん！新しい車を買ったんだ。)"
+    },
+    {
+      "id": 58,
+      "value": "big deal",
+      "options": [
+        "大きな取引",
+        "重要なこと",
+        "大きな問題",
+        "素晴らしい出来事"
+      ],
+      "correctAnswer": "重要なこと",
+      "explanation": "「big deal」は、重要なこと、大したことという意味です。皮肉を込めて「大したことない」という意味でも使われます。\n\n例：It's not a big deal. I can fix it.(大したことじゃないよ。私が直せるから。)"
+    },
+    {
+      "id": 59,
+      "value": "healthy attitude",
+      "options": [
+        "健康的な姿勢",
+        "不健康な態度",
+        "肯定的な態度",
+        "消極的な態度"
+      ],
+      "correctAnswer": "肯定的な態度",
+      "explanation": "「healthy attitude」は、健全な態度、前向きな姿勢という意味です。精神的、感情的にバランスが取れていて、建設的な考え方や行動ができる状態を指します。\n\n例：It's important to maintain a healthy attitude in stressful situations.(ストレスの多い状況では、健全な態度を維持することが重要です。)"
+    },
+    {
+      "id": 60,
+      "value": "assets to protect",
+      "options": [
+        "保護する資産",
+        "攻撃する資産",
+        "隠蔽する資産",
+        "無視する資産"
+      ],
+      "correctAnswer": "保護する資産",
+      "explanation": "「assets to protect」は、保護すべき資産という意味です。経済的な価値があるものや、個人的に大切にしているものを指します。不動産、株式、貴重品などが含まれます。\n\n例：It's important to have insurance to protect your assets.(資産を保護するために保険に加入することが重要です。)"
+    },
+    {
+      "id": 61,
+      "value": "primo",
+      "options": [
+        "最悪の",
+        "最初の",
+        "最高の",
+        "普通の"
+      ],
+      "correctAnswer": "最高の",
+      "explanation": "「primo」は、最高の、一流の、優れたという意味のスラングです。特に質や状態が良いものを指して使われます。\n\n例：This is primo stuff!(これは最高のものだ！)"
+    },
+    {
+      "id": 62,
+      "value": "spring that on a guy",
+      "options": [
+        "男性にばねを渡す",
+        "男性に突然告げる",
+        "男性をばねで飛ばす",
+        "男性にばねについて説明する"
+      ],
+      "correctAnswer": "男性に突然告げる",
+      "explanation": "「spring that on a guy」は、人に予期せぬニュースや情報を突然伝えるという意味のイディオムです。相手が準備できていない状態で、驚くようなことを伝える際に使われます。\n\n例：You can't just spring that on me! I need time to process it.(そんなこと突然言わないでよ！考える時間が必要だよ。)"
+    },
+    {
+      "id": 63,
+      "value": "restraining order",
+      "options": [
+        "抑制命令",
+        "支援命令",
+        "再建命令",
+        "逮捕命令"
+      ],
+      "correctAnswer": "抑制命令",
+      "explanation": "「restraining order」は、接近禁止命令、抑制命令という意味です。特定の人物が他の人物に接近したり、接触したりすることを法的に禁止する命令を指します。\n\n例：She got a restraining order against her abusive ex-boyfriend.(彼女は虐待的な元彼に対して接近禁止命令を得た。)"
+    },
+    {
+      "id": 64,
+      "value": "soap spots",
+      "options": [
+        "石鹸の染み",
+        "石鹸の泡",
+        "石鹸の香り",
+        "石鹸の広告"
+      ],
+      "correctAnswer": "石鹸の染み",
+      "explanation": "「soap spots」は、石鹸の染み、石鹸カスという意味です。洗った後に残った石鹸の跡を指します。\n\n例：There are soap spots on the dishes.(お皿に石鹸の染みがついている。)"
+    },
+    {
+      "id": 65,
+      "value": "ridiculous",
+      "options": [
+        "素晴らしい",
+        "ばかげた",
+        "真面目な",
+        "現実的な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「ridiculous」は、ばかげた、非常識な、滑稽なという意味の形容詞です。常識からかけ離れていて、笑いを誘うような状況や行動を指します。\n\n例：That's a ridiculous idea!(それはばかげた考えだ！)"
+    },
+    {
+      "id": 66,
+      "value": "cerebral spinal fluid",
+      "options": [
+        "脳脊髄液",
+        "脳梗塞",
+        "脊髄損傷",
+        "脳波"
+      ],
+      "correctAnswer": "脳脊髄液",
+      "explanation": "「cerebral spinal fluid」は、脳脊髄液という意味です。脳と脊髄の周囲を循環し、保護や栄養供給の役割を果たす液体です。\n\n例：Cerebral spinal fluid is essential for the proper functioning of the nervous system.(脳脊髄液は神経系の正常な機能に不可欠です。)"
+    },
+    {
+      "id": 67,
+      "value": "up your alley",
+      "options": [
+        "あなたの得意分野",
+        "あなたの裏通り",
+        "あなたに似合う帽子",
+        "あなたの上り坂"
+      ],
+      "correctAnswer": "あなたの得意分野",
+      "explanation": "「up your alley」は、得意分野、適性がある、興味があるという意味のイディオムです。ある人にとって得意なことや、興味を持って取り組めることを指します。\n\n例：This project is right up my alley. (このプロジェクトは私の得意分野です。)"
+    },
+    {
+      "id": 68,
+      "value": "strongly worded letter",
+      "options": [
+        "強く書かれた手紙",
+        "丁寧に書かれた手紙",
+        "弱く書かれた手紙",
+        "面白い手紙"
+      ],
+      "correctAnswer": "強く書かれた手紙",
+      "explanation": "「strongly worded letter」は、強い言葉で書かれた手紙という意味です。不満や抗議を表明するために、厳しい言葉遣いや強い表現を用いた手紙を指します。\n\n例：I'm going to write a strongly worded letter to the company about their poor service.(その会社のひどいサービスについて、強い言葉で手紙を書くつもりだ。)"
+    },
+    {
+      "id": 69,
+      "value": "preposterous",
+      "options": [
+        "素晴らしい",
+        "ばかげた",
+        "感動的な",
+        "魅力的な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「preposterous」は、ばかげた、とんでもない、荒唐無稽なという意味の形容詞です。全く理にかなっておらず、信じられないほど愚かな状況や考えを指します。\n\n例：That's a preposterous idea! (それはばかげた考えだ！)"
+    },
+    {
+      "id": 70,
+      "value": "show someone up",
+      "options": [
+        "誰かを見せる",
+        "誰かを負かす",
+        "誰かを尊敬する",
+        "誰かをサポートする"
+      ],
+      "correctAnswer": "誰かを負かす",
+      "explanation": "「show someone up」は、誰かを打ち負かす、誰かより優れたところを見せるという意味のイディオムです。競争や比較の場面で、相手を凌駕する能力や才能を示す際に使われます。\n\n例：He always tries to show me up in front of the boss. (彼はいつも上司の前で私を打ち負かそうとする。)"
+    },
+    {
+      "id": 71,
+      "value": "get things going",
+      "options": [
+        "物事を始める",
+        "物事を終わらせる",
+        "物事を整理する",
+        "物事を隠す"
+      ],
+      "correctAnswer": "物事を始める",
+      "explanation": "「get things going」は、物事を始める、始動させるという意味のイディオムです。特に、何かをスムーズに進めるために、最初の一歩を踏み出す際に使われます。\n\n例：Let's get things going with the meeting. (会議を始めましょう。)"
+    },
+    {
+      "id": 72,
+      "value": "have at it",
+      "options": [
+        "それを持っておく",
+        "頑張ってやってみる",
+        "それを避ける",
+        "それを無視する"
+      ],
+      "correctAnswer": "頑張ってやってみる",
+      "explanation": "「have at it」は、頑張ってやってみる、挑戦してみるという意味のイディオムです。相手に何かを試すように勧めたり、許可したりする際に使われます。\n\n例：You want to try fixing the computer? Have at it!(コンピューターを直してみる？やってみなよ！)"
+    },
+    {
+      "id": 73,
+      "value": "no stranger to",
+      "options": [
+        "〜を知らない",
+        "〜に慣れていない",
+        "〜に詳しい",
+        "〜に反対する"
+      ],
+      "correctAnswer": "〜に詳しい",
+      "explanation": "「no stranger to」は、～に慣れている、～をよく知っているという意味のイディオムです。ある分野や経験について、十分な知識や経験を持っていることを表します。\n\n例：I'm no stranger to hard work. (私はハードワークには慣れています。)"
+    },
+    {
+      "id": 74,
+      "value": "gray matter",
+      "options": [
+        "灰色の物質",
+        "脳の組織",
+        "重要な情報",
+        "つまらないこと"
+      ],
+      "correctAnswer": "脳の組織",
+      "explanation": "「gray matter」は、脳の灰白質、知性、知力という意味です。脳の神経細胞が集まっている部分を指し、転じて知性や思考能力を表す言葉としても使われます。\n\n例：He's got a lot of gray matter. (彼は頭が良い。)"
+    },
+    {
+      "id": 75,
+      "value": "i.e.",
+      "options": [
+        "すなわち",
+        "例えば",
+        "したがって",
+        "しかしながら"
+      ],
+      "correctAnswer": "すなわち",
+      "explanation": "「i.e.」は、ラテン語の \"id est\" の略で、「すなわち」「言い換えれば」という意味です。既に述べたことを別の言葉で言い換えて説明する際に使われます。\n\n例：The price is inclusive, i.e., all taxes are included. (価格は包括的です、すなわち、すべての税金が含まれています。)"
+    },
+    {
+      "id": 76,
+      "value": "locus coeruleus",
+      "options": [
+        "脳の特定部位",
+        "目の特定部位",
+        "足の特定部位",
+        "手の特定部位"
+      ],
+      "correctAnswer": "脳の特定部位",
+      "explanation": "「locus coeruleus」は、脳幹に位置する青斑核のことです。ノルアドレナリン作動性の神経細胞が集中しており、覚醒、注意、ストレス反応などに関与しています。医学や生物学の分野で用いられる専門用語です。"
+    },
+    {
+      "id": 77,
+      "value": "dictates",
+      "options": [
+        "提案する",
+        "要求する",
+        "許可する",
+        "議論する"
+      ],
+      "correctAnswer": "要求する",
+      "explanation": "「dictate」は、命令する、規定する、要求するという意味です。ここでは、社会的な慣習が何らかの行動を「dictate（要求）」しているというニュアンスで使われています。例文: Social convention dictates that you send a thank-you note. (社会的な慣習では、お礼状を送るべきだ。)"
+    },
+    {
+      "id": 78,
+      "value": "let my hair down",
+      "options": [
+        "リラックスする",
+        "悲しむ",
+        "髪を切る",
+        "帰宅する"
+      ],
+      "correctAnswer": "リラックスする",
+      "explanation": "「let one's hair down」は、リラックスする、くつろぐ、羽目を外すという意味のイディオムです。普段の緊張感から解放されて、自由に楽しむ様子を表します。例文: After a long week of work, it's time to let my hair down. (一週間の仕事の後、リラックスする時間だ。)"
+    },
+    {
+      "id": 79,
+      "value": "watering hole",
+      "options": [
+        "水飲み場",
+        "人気の場所",
+        "危険な場所",
+        "静かな場所"
+      ],
+      "correctAnswer": "人気の場所",
+      "explanation": "「watering hole」は、動物が水を飲みに集まる場所から転じて、人が集まる場所、特にバーやパブなどを指すスラングです。例文: This bar is a popular watering hole for locals. (このバーは地元の人々に人気の場所です。)"
+    },
+    {
+      "id": 80,
+      "value": "move on",
+      "options": [
+        "続ける",
+        "移動する",
+        "忘れる",
+        "戻る"
+      ],
+      "correctAnswer": "忘れる",
+      "explanation": "「move on」は、先に進む、次の話題に移る、忘れるという意味です。ここでは、過去の出来事や不快な話題から離れて、別のことに焦点を当てたいというニュアンスで使われています。例文: Let's move on and talk about something more pleasant. (話題を変えて、もっと楽しいことを話しましょう。)"
+    },
+    {
+      "id": 81,
+      "value": "seeing as",
+      "options": [
+        "見る限り",
+        "理解しているので",
+        "考慮すると",
+        "後で"
+      ],
+      "correctAnswer": "考慮すると",
+      "explanation": "「seeing as」は、「～なので」「～だから」という意味の接続詞句です。理由や根拠を示す際に使われます。as や since と同様の意味合いで使用できます。例文: Seeing as it's raining, we should stay inside. (雨が降っているので、中にいるべきだ。)"
+    },
+    {
+      "id": 82,
+      "value": "hold the rum",
+      "options": [
+        "ラムをください",
+        "ラムは半分で",
+        "ラムは入れないで",
+        "ラムは後で"
+      ],
+      "correctAnswer": "ラムは入れないで",
+      "explanation": "「hold the rum」は、特定の材料を「入れないで」と注文するときに使う表現です。ここでは、ピニャコラーダからラム酒を抜いてほしいという意味になります。例文: I'll have a burger, hold the onions. (ハンバーガーをください。玉ねぎは入れないで。)"
+    },
+    {
+      "id": 83,
+      "value": "speaking on behalf of",
+      "options": [
+        "代表して話す",
+        "個人的に話す",
+        "秘密で話す",
+        "無視して話す"
+      ],
+      "correctAnswer": "代表して話す",
+      "explanation": "「speaking on behalf of」は、「～を代表して」という意味のフレーズです。あるグループや組織の意見や意向を伝える際に使われます。例文: I am speaking on behalf of the entire team. (私はチーム全体を代表して話しています。)"
+    },
+    {
+      "id": 84,
+      "value": "substantial",
+      "options": [
+        "わずかな",
+        "実質的な",
+        "架空の",
+        "不確かな"
+      ],
+      "correctAnswer": "実質的な",
+      "explanation": "「substantial」は、かなりの、相当な、実質的なという意味です。ここでは、傷が「かなり大きい」ということを強調しています。例文: The company made a substantial profit this year. (その会社は今年、かなりの利益を上げました。)"
+    },
+    {
+      "id": 85,
+      "value": "waltz back in",
+      "options": [
+        "踊りながら戻る",
+        "簡単に戻る",
+        "許可を得て戻る",
+        "急いで戻る"
+      ],
+      "correctAnswer": "簡単に戻る",
+      "explanation": "「waltz in/back in」は、気軽に、または無遠慮に立ち入る、戻るという意味の口語表現です。ここでは、Amyの許可を得ずにSheldonがラボに戻ろうとしていることを表しています。例文: He can't just waltz in here and start giving orders. (彼は簡単にここに入ってきて、命令し始めることはできない。)"
+    },
+    {
+      "id": 86,
+      "value": "nerd-vine",
+      "options": [
+        "オタクの情報網",
+        "植物のツタ",
+        "秘密の通路",
+        "図書館"
+      ],
+      "correctAnswer": "オタクの情報網",
+      "explanation": "「nerd-vine」は、nerd（オタク）たちの間の情報網、つまり、口コミや噂が広まる経路を指す造語です。ここでは、HowardがBernadetteとの間の問題を直接聞くのではなく、共通の友人を通じて知ってしまったことを表しています。"
+    },
+    {
+      "id": 87,
+      "value": "insistent",
+      "options": [
+        "不安な",
+        "主張する",
+        "無関心な",
+        "秘密の"
+      ],
+      "correctAnswer": "主張する",
+      "explanation": "「insistent」は、強く主張する、言い張るという意味です。Bernadetteの父親が婚前契約書（pre-nup）の締結を強く求めている状況を表しています。例文: She was insistent that we go to the party. (彼女は私たちがパーティーに行くことを強く主張した。)"
+    },
+    {
+      "id": 88,
+      "value": "man-to-man",
+      "options": [
+        "男同士で",
+        "秘密裏に",
+        "正直に",
+        "公然と"
+      ],
+      "correctAnswer": "男同士で",
+      "explanation": "「man-to-man」は、男同士で、率直に話し合うという意味です。ここでは、HowardがBernadetteの父親と直接会って、婚前契約について話し合いたいと考えていることを表しています。例文: We need to have a man-to-man talk. (男同士で話し合う必要がある。)"
+    },
+    {
+      "id": 89,
+      "value": "heads-up",
+      "options": [
+        "秘密",
+        "警告",
+        "提案",
+        "招待"
+      ],
+      "correctAnswer": "警告",
+      "explanation": "「heads-up」は、注意喚起、警告、事前情報という意味です。ここでは、BernadetteがHowardに、父親との会話で注意すべき点について事前に伝えておくことを指します。例文: I wanted to give you a heads-up about the meeting tomorrow. (明日の会議について、事前に知らせておきたかった。)"
+    },
+    {
+      "id": 90,
+      "value": "fashion statement",
+      "options": [
+        "流行の服装",
+        "見せかけ",
+        "個人的な意見",
+        "伝統的な服装"
+      ],
+      "correctAnswer": "見せかけ",
+      "explanation": "「fashion statement」は、ファッションを通して自己表現や主張をすること、またはそのための服装やアクセサリーを指します。ここでは、Bernadetteの父親が銃を携帯しているのは、実用性よりもむしろ自己主張のためであることを示唆しています。例文: Her bright pink hair was a fashion statement. (彼女の明るいピンクの髪はファッションステートメントだった。)"
+    },
+    {
+      "id": 91,
+      "value": "designated hitter rule",
+      "options": [
+        "野球のルール",
+        "サッカーのルール",
+        "テニスのルール",
+        "バスケットボールのルール"
+      ],
+      "correctAnswer": "野球のルール",
+      "explanation": "「designated hitter rule」は、野球の指名打者制度のことです。投手の代わりに打撃専門の選手が出場できるルールで、アメリカンリーグで採用されています。野球に詳しくない人には理解しづらい可能性があります。"
+    },
+    {
+      "id": 92,
+      "value": "watch for",
+      "options": [
+        "探す",
+        "気をつける",
+        "無視する",
+        "分析する"
+      ],
+      "correctAnswer": "気をつける",
+      "explanation": "「watch for」は、注意して見る、警戒するという意味です。ここでは、BernadetteがHowardに、父親の言動で注意すべき兆候を教える際に使われています。例文: Watch out for ice on the road. (道路の氷に気をつけて。)"
+    },
+    {
+      "id": 93,
+      "value": "throw some zigs and zags in there",
+      "options": [
+        "ジグザグに歩く",
+        "真っ直ぐ歩く",
+        "走り回る",
+        "踊りながら歩く"
+      ],
+      "correctAnswer": "ジグザグに歩く",
+      "explanation": "「throw some zigs and zags」は、ジグザグに進む、予測できない動きをするという意味です。ここでは、Bernadetteの父親が危険な状態になった場合に、逃げる際に直線的に逃げずに、ジグザグに動いて追跡をかわすように指示しています。例文: The rabbit threw some zigs and zags to escape the fox. (ウサギはキツネから逃れるためにジグザグに動いた。)"
+    },
+    {
+      "id": 94,
+      "value": "pressing",
+      "options": [
+        "重要な",
+        "緊急の",
+        "興味深い",
+        "簡単な"
+      ],
+      "correctAnswer": "緊急の",
+      "explanation": "「pressing」は、緊急の、差し迫ったという意味です。ここでは、婚前契約について話し合うことが、それほど「緊急」ではない、つまり、先延ばしにしても良いと考えていることを表しています。例文: There is a pressing need for more affordable housing. (手頃な価格の住宅の必要性が差し迫っている。)"
+    },
+    {
+      "id": 95,
+      "value": "They’ve got a phone",
+      "options": [
+        "電話がある",
+        "電話がない",
+        "電話を盗まれた",
+        "電話を修理した"
+      ],
+      "correctAnswer": "電話がある",
+      "explanation": "ここでは国際宇宙ステーションに電話があるという意味で、「電話で話せるから大丈夫」というニュアンスが含まれています。"
+    },
+    {
+      "id": 96,
+      "value": "pre-nup",
+      "options": [
+        "結婚式の準備",
+        "結婚前の契約",
+        "新婚旅行",
+        "結婚記念日"
+      ],
+      "correctAnswer": "結婚前の契約",
+      "explanation": "「pre-nup」はpre-nuptial agreementの略で、婚前契約のことです。離婚時の財産分与などを事前に取り決めておく契約で、特に資産家や経営者の間で一般的です。"
+    },
+    {
+      "id": 97,
+      "value": "organic food",
+      "options": [
+        "自然食品",
+        "加工食品",
+        "高級食品",
+        "保存食"
+      ],
+      "correctAnswer": "自然食品",
+      "explanation": "「organic food」は有機食品、自然食品のことです。農薬や化学肥料を使わずに栽培された食品を指します。健康志向の人々に人気がありますが、価格が高い傾向にあります。"
+    },
+    {
+      "id": 98,
+      "value": "Vatican II",
+      "options": [
+        "バチカン美術館",
+        "バチカン市国",
+        "第二バチカン公会議",
+        "バチカンの秘密"
+      ],
+      "correctAnswer": "第二バチカン公会議",
+      "explanation": "「Vatican II」は、第2バチカン公会議のことです。1962年から1965年にかけて行われたカトリック教会の重要な会議で、教会の刷新や他宗教との対話などが議論されました。"
+    },
+    {
+      "id": 99,
+      "value": "gun control",
+      "options": [
+        "武器の管理",
+        "軍隊の統制",
+        "ギャングの抗争",
+        "麻薬の取引"
+      ],
+      "correctAnswer": "武器の管理",
+      "explanation": "「gun control」は銃規制のことです。銃の所有や使用を制限する法律や政策を指します。アメリカでは、銃規制を巡る議論が活発に行われています。"
+    },
+    {
+      "id": 100,
+      "value": "recycling",
+      "options": [
+        "リサイクル",
+        "リサイタル",
+        "リサーチ",
+        "リフレッシュ"
+      ],
+      "correctAnswer": "リサイクル",
+      "explanation": "「recycling」はリサイクルのことです。資源を再利用する活動を指します。環境保護のために重要な取り組みであり、多くの国や地域で推進されています。"
+    }
+  ]
+}

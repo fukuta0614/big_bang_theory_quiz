@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "get a handle on",
+      "options": [
+        "解決策を見つける",
+        "状況を把握する",
+        "問題から逃げる",
+        "整理整頓する"
+      ],
+      "correctAnswer": "状況を把握する",
+      "explanation": "「get a handle on」は、困難な状況や問題を理解し、制御できるようになるという意味です。事態を把握し、対処するための方法を見つけるニュアンスが含まれます。\n\n例：I need to get a handle on my finances. (私は自分の財政状況を把握する必要がある。)"
+    },
+    {
+      "id": 2,
+      "value": "savant",
+      "options": [
+        "専門家",
+        "天才",
+        "学者",
+        "素人"
+      ],
+      "correctAnswer": "天才",
+      "explanation": "「savant」は、特定の分野において並外れた才能を持つ人を指します。特に、知的障害や発達障害を持ちながら、特定の分野で驚異的な能力を発揮する人を指すことが多いです。\n\n例：He's a musical savant; he can play any tune after hearing it once. (彼は音楽の天才だ。一度聞いただけでどんな曲でも演奏できる。)"
+    },
+    {
+      "id": 3,
+      "value": "take it from there",
+      "options": [
+        "そこから奪う",
+        "そこから始める",
+        "そこから続ける",
+        "そこから終わらせる"
+      ],
+      "correctAnswer": "そこから続ける",
+      "explanation": "「take it from there」は、ある時点から物事を引き継ぎ、継続して進めるという意味です。誰かが始めたことや、ある状況から、自分が責任を持って आगेに進めていくことを示します。\n\n例：I'll set up the equipment, and you can take it from there. (私が機材を設置するので、あなたはそこから始めてください。)"
+    },
+    {
+      "id": 4,
+      "value": "from scratch",
+      "options": [
+        "最初から",
+        "途中から",
+        "完全に",
+        "簡単に"
+      ],
+      "correctAnswer": "最初から",
+      "explanation": "「from scratch」は、何もない状態、つまり最初から何かを作り上げるという意味です。既存のものに頼らず、材料や部品を準備するところから始めるニュアンスがあります。\n\n例：She built the house from scratch. (彼女は家をゼロから建てた。)"
+    },
+    {
+      "id": 5,
+      "value": "takeout",
+      "options": [
+        "持ち帰り",
+        "配達",
+        "食事",
+        "休憩"
+      ],
+      "correctAnswer": "持ち帰り",
+      "explanation": "「takeout」は、レストランなどで調理された料理を持ち帰ることを指します。主にアメリカ英語で使われる表現で、イギリス英語では「takeaway」と言います。\n\n例：Let's get some takeout for dinner tonight. (今夜は何か持ち帰って夕食にしよう。)"
+    },
+    {
+      "id": 6,
+      "value": "quirks",
+      "options": [
+        "才能",
+        "癖",
+        "習慣",
+        "個性"
+      ],
+      "correctAnswer": "癖",
+      "explanation": "「quirks」は、人や物事の奇妙な点や特徴的な癖を指します。少し変わっていて面白い、または興味深いと感じられるニュアンスがあります。\n\n例：His quirks make him unique. (彼の癖が彼をユニークにしている。)"
+    },
+    {
+      "id": 7,
+      "value": "artisanal",
+      "options": [
+        "職人技の",
+        "芸術的な",
+        "高品質の",
+        "手作りの"
+      ],
+      "correctAnswer": "職人技の",
+      "explanation": "「artisanal」は、職人の手によって作られた、または伝統的な方法で作られた製品を指します。大量生産ではなく、品質や独自性が重視されるニュアンスがあります。\n\n例：Artisanal cheese is often more flavorful than mass-produced cheese. (職人技のチーズは、大量生産されたチーズよりも風味が豊かなことが多い。)"
+    },
+    {
+      "id": 8,
+      "value": "Let's move it.",
+      "options": [
+        "移動しましょう",
+        "急ぎましょう",
+        "片付けましょう",
+        "頑張りましょう"
+      ],
+      "correctAnswer": "急ぎましょう",
+      "explanation": "「Let's move it.」は、急いで行動するように促す表現です。誰かを急がせたい時や、自分自身を奮い立たせたい時に使われます。よりくだけた言い方です。\n\n例：We're going to be late, so let's move it! (遅れるぞ、急げ！)"
+    },
+    {
+      "id": 9,
+      "value": "health nuts",
+      "options": [
+        "健康オタク",
+        "運動好き",
+        "栄養士",
+        "医者"
+      ],
+      "correctAnswer": "健康オタク",
+      "explanation": "「health nut」は、健康に非常に熱心な人、特に食事や運動に過剰なほど気を使う人を指します。時に、その熱心さが周囲から見て極端だと感じられることがあります。\n\n例：She's such a health nut, she only eats organic food. (彼女は健康オタクで、オーガニック食品しか食べない。)"
+    },
+    {
+      "id": 10,
+      "value": "personal correspondence",
+      "options": [
+        "個人的な通信",
+        "業務連絡",
+        "公式文書",
+        "手紙のやり取り"
+      ],
+      "correctAnswer": "個人的な通信",
+      "explanation": "「personal correspondence」は、個人的な手紙やメールなどのやり取りを指します。ビジネス関連ではなく、家族や友人との私的な通信を意味します。\n\n例：I found a box of old personal correspondence in the attic. (屋根裏で古い個人的な手紙の箱を見つけた。)"
+    },
+    {
+      "id": 11,
+      "value": "memorabilia",
+      "options": [
+        "記念品",
+        "思い出の品",
+        "コレクション",
+        "骨董品"
+      ],
+      "correctAnswer": "思い出の品",
+      "explanation": "「memorabilia」は、特定のイベントや人物に関連する記念品や収集品を指します。個人的な思い出や歴史的な価値を持つことが多いです。\n\n例：The museum has a large collection of sports memorabilia. (その博物館には、スポーツ関連の記念品の大きなコレクションがある。)"
+    },
+    {
+      "id": 12,
+      "value": "Asian market",
+      "options": [
+        "アジア市場",
+        "アジアの食材店",
+        "アジアのレストラン",
+        "アジアの雑貨店"
+      ],
+      "correctAnswer": "アジアの食材店",
+      "explanation": "「Asian market」は、アジアの食品や食材を専門に扱うお店のことです。タイ料理を作るために必要な食材が手に入る場所、という文脈で使われています。"
+    },
+    {
+      "id": 13,
+      "value": "take it from there",
+      "options": [
+        "そこから始める",
+        "そこから奪う",
+        "そこから続ける",
+        "そこから終わらせる"
+      ],
+      "correctAnswer": "そこから続ける",
+      "explanation": "「take it from there」は、ある時点から物事を引き継ぎ、継続して進めるという意味です。誰かが始めたことや、ある状況から、自分が責任を持って आगेに進めていくことを示します。\n\n例：I'll set up the equipment, and you can take it from there. (私が機材を設置するので、あなたはそこから始めてください。)"
+    },
+    {
+      "id": 14,
+      "value": "optimizing",
+      "options": [
+        "最適化する",
+        "分析する",
+        "改善する",
+        "調整する"
+      ],
+      "correctAnswer": "最適化する",
+      "explanation": "「optimizing」は、何かの性能や効率を最大限に引き出すために調整・改善することを意味します。ここでは、チーズの陳列を最も効率の良い状態にする、という意味合いで使われています。\n\n例：We are optimizing the website for mobile users. (モバイルユーザー向けにウェブサイトを最適化しています。)"
+    },
+    {
+      "id": 15,
+      "value": "artisanal salami",
+      "options": [
+        "職人技のサラミ",
+        "高級サラミ",
+        "自家製サラミ",
+        "特別なサラミ"
+      ],
+      "correctAnswer": "職人技のサラミ",
+      "explanation": "「artisanal salami」は、職人の手によって伝統的な製法で作られたサラミを指します。大量生産ではなく、品質や独自性が重視されるニュアンスがあります。\n\n例：He got chased out by the assistant manager with an artisanal salami. (彼は職人技のサラミを持ったアシスタントマネージャーに追い払われた。)"
+    },
+    {
+      "id": 16,
+      "value": "content",
+      "options": [
+        "内容",
+        "満足",
+        "目次",
+        "容器"
+      ],
+      "correctAnswer": "内容",
+      "explanation": "「content」は、手紙、本、映画などの内容を指します。ここでは、手紙の内容に基づいて分類するという意味で使われています。\n\n例：The content of the letter was very personal. (その手紙の内容は非常に個人的なものだった。)"
+    },
+    {
+      "id": 17,
+      "value": "kick the back of my seat",
+      "options": [
+        "シートの後ろを蹴る",
+        "シートを倒す",
+        "シートを汚す",
+        "シートを交換する"
+      ],
+      "correctAnswer": "シートの後ろを蹴る",
+      "explanation": "「kick the back of my seat」は、文字通りには「シートの後ろを蹴る」という意味ですが、ここでは前の席に座っている人の迷惑になる行為、わがままを言うニュアンスで使われています。\n\n例：He kept kicking the back of my seat. (彼は私のシートの後ろを蹴り続けた。)"
+    },
+    {
+      "id": 18,
+      "value": "missing seven",
+      "options": [
+        "7つ足りない",
+        "7つ見つからない",
+        "7つ余っている",
+        "7つ壊れている"
+      ],
+      "correctAnswer": "7つ足りない",
+      "explanation": "「missing seven」は、全体で必要な数から7つ足りない、という意味です。ここでは、ボウリングのピンが全部で10本あるはずなのに、3本しかないため、7本足りない、という状況を表しています。\n\n例：Are you missing seven pins? (ピンは7つ足りない？)"
+    },
+    {
+      "id": 19,
+      "value": "Asian market",
+      "options": [
+        "アジア市場",
+        "アジアの食材店",
+        "アジアのレストラン",
+        "アジアの雑貨店"
+      ],
+      "correctAnswer": "アジアの食材店",
+      "explanation": "「Asian market」は、アジアの食品や食材を専門に扱うお店のことです。タイ料理を作るために必要な食材が手に入る場所、という文脈で使われています。"
+    },
+    {
+      "id": 20,
+      "value": "take it from there",
+      "options": [
+        "そこから始める",
+        "そこから奪う",
+        "そこから続ける",
+        "そこから終わらせる"
+      ],
+      "correctAnswer": "そこから続ける",
+      "explanation": "「take it from there」は、ある時点から物事を引き継ぎ、継続して進めるという意味です。誰かが始めたことや、ある状況から、自分が責任を持って आगेに進めていくことを示します。\n\n例：I'll set up the equipment, and you can take it from there. (私が機材を設置するので、あなたはそこから始めてください。)"
+    },
+    {
+      "id": 21,
+      "value": "takeout",
+      "options": [
+        "持ち帰り",
+        "配達",
+        "食事",
+        "休憩"
+      ],
+      "correctAnswer": "持ち帰り",
+      "explanation": "「takeout」は、レストランなどで調理された料理を持ち帰ることを指します。主にアメリカ英語で使われる表現で、イギリス英語では「takeaway」と言います。\n\n例：Let's get some takeout for dinner tonight. (今夜は何か持ち帰って夕食にしよう。)"
+    },
+    {
+      "id": 22,
+      "value": "get a handle on",
+      "options": [
+        "解決策を見つける",
+        "状況を把握する",
+        "問題から逃げる",
+        "整理整頓する"
+      ],
+      "correctAnswer": "状況を把握する",
+      "explanation": "「get a handle on」は、困難な状況や問題を理解し、制御できるようになるという意味です。事態を把握し、対処するための方法を見つけるニュアンスが含まれます。\n\n例：I need to get a handle on my finances. (私は自分の財政状況を把握する必要がある。)"
+    },
+    {
+      "id": 23,
+      "value": "savant",
+      "options": [
+        "専門家",
+        "天才",
+        "学者",
+        "素人"
+      ],
+      "correctAnswer": "天才",
+      "explanation": "「savant」は、特定の分野において並外れた才能を持つ人を指します。特に、知的障害や発達障害を持ちながら、特定の分野で驚異的な能力を発揮する人を指すことが多いです。\n\n例：He's a musical savant; he can play any tune after hearing it once. (彼は音楽の天才だ。一度聞いただけでどんな曲でも演奏できる。)"
+    },
+    {
+      "id": 24,
+      "value": "quirks",
+      "options": [
+        "才能",
+        "癖",
+        "習慣",
+        "個性"
+      ],
+      "correctAnswer": "癖",
+      "explanation": "「quirks」は、人や物事の奇妙な点や特徴的な癖を指します。少し変わっていて面白い、または興味深いと感じられるニュアンスがあります。\n\n例：His quirks make him unique. (彼の癖が彼をユニークにしている。)"
+    },
+    {
+      "id": 25,
+      "value": "Let's move it.",
+      "options": [
+        "移動しましょう",
+        "急ぎましょう",
+        "片付けましょう",
+        "頑張りましょう"
+      ],
+      "correctAnswer": "急ぎましょう",
+      "explanation": "「Let's move it.」は、急いで行動するように促す表現です。誰かを急がせたい時や、自分自身を奮い立たせたい時に使われます。よりくだけた言い方です。\n\n例：We're going to be late, so let's move it! (遅れるぞ、急げ！)"
+    },
+    {
+      "id": 26,
+      "value": "sort on the ride",
+      "options": [
+        "乗車中に整理する",
+        "乗車をやめる",
+        "乗車を急ぐ",
+        "乗車場所を探す"
+      ],
+      "correctAnswer": "乗車中に整理する",
+      "explanation": "「sort」は分類、整理するという意味です。「on the ride」は乗車中に、という意味なので、全体として「乗車中に整理する」となります。例えば、旅行の際に「I'll sort my photos on the ride home.」（帰りの車の中で写真を整理するよ）のように使えます。"
+    },
+    {
+      "id": 27,
+      "value": "pull his scrotum out of his shorts",
+      "options": [
+        "短所を隠す",
+        "秘密を打ち明ける",
+        "恥ずかしいことをする",
+        "危険を冒す"
+      ],
+      "correctAnswer": "恥ずかしいことをする",
+      "explanation": "この表現は非常に口語的で下品な表現です。文字通りの意味は「陰嚢をズボンから出す」となりますが、ここではHowardの若気の至りを誇張して表現するために用いられています。一般的には使用を避けるべき表現です。"
+    },
+    {
+      "id": 28,
+      "value": "a nice change of pace",
+      "options": [
+        "良い休憩",
+        "気晴らしになる",
+        "急な変化",
+        "一定の速度"
+      ],
+      "correctAnswer": "気晴らしになる",
+      "explanation": "「change of pace」は、普段と違うことをして気分転換になる、という意味です。「nice」がつくことで、「良い気分転換」というニュアンスが加わります。例えば、「A vacation is a nice change of pace from the daily grind.」（休暇は日々の単調な生活から良い気晴らしになる）のように使います。"
+    },
+    {
+      "id": 29,
+      "value": "get dressed up",
+      "options": [
+        "着飾る",
+        "疲れて眠る",
+        "準備運動をする",
+        "片付ける"
+      ],
+      "correctAnswer": "着飾る",
+      "explanation": "「dress up」は、普段着ではなく、よりフォーマルな服装をすることを意味します。「get dressed up」で「着飾る」となります。パーティーや特別なイベントでよく使われる表現です。例：「We should get dressed up for the party.」（パーティーのために着飾るべきだ）"
+    },
+    {
+      "id": 30,
+      "value": "it’s not worth it",
+      "options": [
+        "価値がない",
+        "無駄ではない",
+        "当然だ",
+        "簡単なことだ"
+      ],
+      "correctAnswer": "価値がない",
+      "explanation": "「worth it」は「価値がある」という意味で、「not worth it」はその否定なので「価値がない」「割に合わない」という意味になります。ある行為の結果が期待される利益や価値に見合わない時に使います。例：「Staying up all night to study is not worth it if you're too tired to think during the exam.」（試験中に考えるのが疲れてしまうなら、徹夜して勉強するのは割に合わない）"
+    },
+    {
+      "id": 31,
+      "value": "shows up",
+      "options": [
+        "現れる",
+        "明らかにする",
+        "提出する",
+        "成長する"
+      ],
+      "correctAnswer": "現れる",
+      "explanation": "「show up」は「現れる」「姿を現す」という意味の句動詞です。予期していなかったものが現れたり、人がどこかに到着したりする状況で使われます。例：「He didn't show up for the meeting.」（彼は会議に現れなかった）"
+    },
+    {
+      "id": 32,
+      "value": "abandoned",
+      "options": [
+        "支援した",
+        "見捨てた",
+        "保護した",
+        "教育した"
+      ],
+      "correctAnswer": "見捨てた",
+      "explanation": "「abandon」は「見捨てる」「放棄する」という意味の動詞です。人や場所、物を意図的に残して去る状況で使われます。例：「He abandoned his family.」（彼は家族を見捨てた）"
+    },
+    {
+      "id": 33,
+      "value": "get that",
+      "options": [
+        "理解する",
+        "手に入れる",
+        "忘れる",
+        "許す"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「get that」は「それを理解する」という意味です。相手の言っていることや気持ちを理解した時に使います。例：「I get that you're angry.」（あなたが怒っているのは理解できる）"
+    },
+    {
+      "id": 34,
+      "value": "freaked him out",
+      "options": [
+        "彼を落ち着かせた",
+        "彼を怒らせた",
+        "彼を混乱させた",
+        "彼を怖がらせた"
+      ],
+      "correctAnswer": "彼を怖がらせた",
+      "explanation": "「freak out」は「ひどく興奮する」「取り乱す」「パニックになる」という意味です。何かに驚いたり、恐れたり、ストレスを感じたりした時に使います。例：「The loud noise freaked me out.」（その大きな音に私はびっくりした）"
+    },
+    {
+      "id": 35,
+      "value": "tough day",
+      "options": [
+        "良い日",
+        "退屈な日",
+        "忙しい日",
+        "辛い日"
+      ],
+      "correctAnswer": "辛い日",
+      "explanation": "「tough」は「困難な」「辛い」という意味なので、「tough day」は「辛い一日」という意味になります。困難な状況や問題に直面した一日を表します。例：「I had a tough day at work.」（今日は仕事で辛い一日だった）"
+    },
+    {
+      "id": 36,
+      "value": "happen to be",
+      "options": [
+        "偶然～である",
+        "必ず～である",
+        "～であることを避ける",
+        "～であるように見える"
+      ],
+      "correctAnswer": "偶然～である",
+      "explanation": "「happen to be」は「偶然～である」「たまたま～である」という意味です。意図せず、偶然にそうなった状況を表します。例：「I happened to be in the neighborhood.」（私はたまたま近所にいた）"
+    },
+    {
+      "id": 37,
+      "value": "cleaning out",
+      "options": [
+        "掃除する",
+        "片付ける",
+        "空にする",
+        "取り除く"
+      ],
+      "correctAnswer": "掃除する",
+      "explanation": "「clean out」は「掃除する」「整理する」「空にする」という意味です。不要なものを取り除いてきれいにするイメージです。例：「I need to clean out my closet.」（私はクローゼットを掃除する必要がある）"
+    },
+    {
+      "id": 38,
+      "value": "belly button",
+      "options": [
+        "背骨",
+        "へそ",
+        "胃袋",
+        "肺"
+      ],
+      "correctAnswer": "へそ",
+      "explanation": "「belly button」は「へそ」という意味です。ここでは、洗濯室の排水溝に溜まったゴミを比喩的に表現しています。子供にも使える一般的な表現です。"
+    },
+    {
+      "id": 39,
+      "value": "warned me",
+      "options": [
+        "私を無視した",
+        "私を助けた",
+        "私を誘った",
+        "私に警告した"
+      ],
+      "correctAnswer": "私に警告した",
+      "explanation": "「warn」は「警告する」「注意する」という意味なので、「warned me」は「私に警告した」となります。危険や良くないことが起こる可能性を知らせる時に使います。例：「My doctor warned me about the risks of smoking.」（医者は喫煙の危険性について私に警告した）"
+    },
+    {
+      "id": 40,
+      "value": "in spades",
+      "options": [
+        "たくさん",
+        "少しだけ",
+        "全くない",
+        "偶然に"
+      ],
+      "correctAnswer": "たくさん",
+      "explanation": "「in spades」は「豊富に」「有り余るほどに」という意味です。特に良いものや望ましいものがたくさんある状況で使われます。元々はトランプゲームのスペードから来ています。例：「He has talent in spades.」（彼は才能に溢れている）"
+    },
+    {
+      "id": 41,
+      "value": "ravage me",
+      "options": [
+        "私を無視して",
+        "私を助けて",
+        "私を痛めつけて",
+        "私を愛して"
+      ],
+      "correctAnswer": "私を痛めつけて",
+      "explanation": "「ravage」は「荒らす」「破壊する」「略奪する」という意味の動詞です。ここでは、Sheldonが冗談めかして、情報を求めて自分を徹底的に尋問してくれ、というニュアンスで使っています。かなり誇張された表現です。"
+    },
+    {
+      "id": 42,
+      "value": "bound by",
+      "options": [
+        "～に束縛される",
+        "～から解放される",
+        "～に興味がある",
+        "～に反対する"
+      ],
+      "correctAnswer": "～に束縛される",
+      "explanation": "「bound by」は「～に拘束される」「～に縛られる」という意味です。義務や契約などによって行動が制限される状況で使われます。例：「I am bound by the terms of the contract.」（私は契約条項に拘束されている）"
+    },
+    {
+      "id": 43,
+      "value": "confidentiality",
+      "options": [
+        "秘密保持",
+        "公開",
+        "信頼",
+        "友情"
+      ],
+      "correctAnswer": "秘密保持",
+      "explanation": "「confidentiality」は「秘密保持」「機密性」という意味です。情報を秘密にしておく義務や状態を表します。例：「We guarantee the confidentiality of your personal information.」（お客様の個人情報の秘密保持を保証します）"
+    },
+    {
+      "id": 44,
+      "value": "neither is",
+      "options": [
+        "～もまた～でない",
+        "～もまた～である",
+        "～だけが～でない",
+        "～だけが～である"
+      ],
+      "correctAnswer": "～もまた～でない",
+      "explanation": "「neither is」は「～もまた～でない」という意味です。前に述べられたことが否定的な内容である場合に、それに続くものも同様に否定されることを示します。例：「I don't like coffee, and neither is my sister.」（私はコーヒーが好きではないし、妹も同様だ）"
+    },
+    {
+      "id": 45,
+      "value": "pawing at me",
+      "options": [
+        "私を無視して",
+        "私をからかって",
+        "私に優しく触って",
+        "私を乱暴に触って"
+      ],
+      "correctAnswer": "私を乱暴に触って",
+      "explanation": "「paw at」は「（動物が）手で引っ掻く」「（人が）乱暴に触る」という意味です。ここでは、AmyがSheldonにベタベタ触る様子を、Sheldonが誇張して表現しています。少し不快感を伴うニュアンスがあります。"
+    },
+    {
+      "id": 46,
+      "value": "trash can full of sweets",
+      "options": [
+        "ガラクタ",
+        "魅力的なもの",
+        "危険なもの",
+        "役に立たないもの"
+      ],
+      "correctAnswer": "魅力的なもの",
+      "explanation": "ここでは、Sheldonが自分自身を「ゴミ箱に入ったお菓子」に例え、Amyが自分に群がってくる様子を表現しています。ゴミ箱は本来価値のないものを入れる場所ですが、その中に「sweets（甘いもの）」、つまり魅力的なものが入っていることで、Amyが自分に興味を持つことを示唆しています。"
+    },
+    {
+      "id": 47,
+      "value": "by happenstance",
+      "options": [
+        "偶然に",
+        "計画的に",
+        "必然的に",
+        "確実に"
+      ],
+      "correctAnswer": "偶然に",
+      "explanation": "「by happenstance」は「偶然に」「たまたま」という意味です。意図せずに、偶然に起こったことを表します。例：「I met her by happenstance at the conference.」（私は会議で偶然彼女に会った）"
+    },
+    {
+      "id": 48,
+      "value": "disseminate it freely",
+      "options": [
+        "無料で配布する",
+        "秘密にする",
+        "慎重に扱う",
+        "一部に公開する"
+      ],
+      "correctAnswer": "無料で配布する",
+      "explanation": "「disseminate」は「広める」「普及させる」という意味で、「freely」は「自由に」「気兼ねなく」という意味です。したがって、「disseminate it freely」は「それを自由に広める」「気兼ねなく配布する」という意味になります。ここでは、手に入れた情報を無許可で公開することを指しています。"
+    },
+    {
+      "id": 49,
+      "value": "count for something",
+      "options": [
+        "重要である",
+        "無意味である",
+        "数えることができる",
+        "評価される"
+      ],
+      "correctAnswer": "重要である",
+      "explanation": "「count for something」は「重要である」「価値がある」という意味です。何かが影響力を持つか、考慮に値するかを表現する時に使います。例：「Your experience counts for something in this job.」（この仕事ではあなたの経験が重要です）"
+    },
+    {
+      "id": 50,
+      "value": "community property state",
+      "options": [
+        "共同資産州",
+        "社会主義国家",
+        "連邦国家",
+        "独立国家"
+      ],
+      "correctAnswer": "共同資産州",
+      "explanation": "「community property state」は「共同財産制の州」という意味です。夫婦が結婚期間中に得た財産は、離婚時に平等に分配されるという制度を持つ州を指します。アメリカの一部の州で採用されています。"
+    },
+    {
+      "id": 51,
+      "value": "well played",
+      "options": [
+        "よく演奏された",
+        "うまくやった",
+        "面白いゲーム",
+        "良い戦略"
+      ],
+      "correctAnswer": "うまくやった",
+      "explanation": "「Well played」は、相手の行動や戦略を認め、称賛する際に使われる表現です。文字通りには「うまくやった」という意味ですが、状況によっては「参った」「お手上げだ」というニュアンスを含むこともあります。ゲームやスポーツの場面だけでなく、ビジネスや日常会話でも使われます。"
+    },
+    {
+      "id": 52,
+      "value": "give someone credit",
+      "options": [
+        "信用を与える",
+        "評価する",
+        "お金を貸す",
+        "責任を負わせる"
+      ],
+      "correctAnswer": "評価する",
+      "explanation": "「Give someone credit」は、誰かの功績や能力を認め、評価するという意味です。しばしば「I don't give you enough credit」のように、十分な評価をしていなかったことを認める形で使われます。このイディオムは、相手の能力や努力を認識し、それを言葉で表現する際に役立ちます。"
+    },
+    {
+      "id": 53,
+      "value": "put your mind at ease",
+      "options": [
+        "心を落ち着かせる",
+        "考えるのをやめる",
+        "心配事を打ち明ける",
+        "頭を使いすぎないようにする"
+      ],
+      "correctAnswer": "心を落ち着かせる",
+      "explanation": "「Put your mind at ease」は、心配や不安を取り除き、安心させるという意味です。誰かを励ましたり、状況を説明して安心させたりする際に使われます。このフレーズは、相手の心理的な負担を軽減し、リラックスさせる効果があります。"
+    },
+    {
+      "id": 54,
+      "value": "kick someone's ass",
+      "options": [
+        "誰かを助ける",
+        "誰かを負かす",
+        "誰かを尊敬する",
+        "誰かを励ます"
+      ],
+      "correctAnswer": "誰かを負かす",
+      "explanation": "「Kick someone's ass」は、スラングで「誰かを打ち負かす」「圧倒する」という意味です。競争や争いの場面で使われ、相手を打ち負かす強い意志や自信を示す表現です。ただし、非常に口語的で下品な表現なので、使う場面には注意が必要です。"
+    },
+    {
+      "id": 55,
+      "value": "low-key",
+      "options": [
+        "騒がしい",
+        "目立つ",
+        "控えめな",
+        "派手な"
+      ],
+      "correctAnswer": "控えめな",
+      "explanation": "「Low-key」は、控えめな、地味な、目立たないという意味です。イベントや活動、スタイルなどを表現する際に使われ、落ち着いた雰囲気や控えめな様子を表します。対義語は「high-key」で、派手で目立つ様子を表します。"
+    },
+    {
+      "id": 56,
+      "value": "rerun",
+      "options": [
+        "再放送",
+        "新しい始まり",
+        "高速道路",
+        "長距離走"
+      ],
+      "correctAnswer": "再放送",
+      "explanation": "「Rerun」は、テレビ番組や映画の再放送という意味です。一度放送されたものが再び放送されることを指します。日常会話でもよく使われる表現で、特にテレビ好きの人にとっては馴染み深い言葉です。"
+    },
+    {
+      "id": 57,
+      "value": "prone to",
+      "options": [
+        "〜しがちである",
+        "〜に反対する",
+        "〜に似ている",
+        "〜に興味がある"
+      ],
+      "correctAnswer": "〜しがちである",
+      "explanation": "「Prone to」は、ある状態や行動をしやすい、〜しがちであるという意味です。好ましくない事柄について使われることが多いです。例えば、「I am prone to headaches」は「私は頭痛になりやすい」という意味になります。"
+    },
+    {
+      "id": 58,
+      "value": "pull off",
+      "options": [
+        "引き抜く",
+        "成功させる",
+        "遅らせる",
+        "出発する"
+      ],
+      "correctAnswer": "成功させる",
+      "explanation": "「Pull off」は、困難なことを成し遂げる、成功させるという意味です。計画やプロジェクト、あるいは予想外の状況で何かを成功させる際に使われます。このフレーズは、努力と才能によって目標を達成する様子を表します。"
+    },
+    {
+      "id": 59,
+      "value": "heist",
+      "options": [
+        "強盗",
+        "英雄",
+        "高さ",
+        "健康"
+      ],
+      "correctAnswer": "強盗",
+      "explanation": "「Heist」は、大胆な強盗や略奪行為を意味する言葉です。特に映画や小説などで、計画的で巧妙な犯罪行為を指す際に使われます。この言葉は、犯罪の規模や大胆さを強調するニュアンスがあります。"
+    },
+    {
+      "id": 60,
+      "value": "golly",
+      "options": [
+        "静かに",
+        "本当に",
+        "なんてこった",
+        "急いで"
+      ],
+      "correctAnswer": "なんてこった",
+      "explanation": "「Golly」は、驚きや感嘆を表す感嘆詞です。「Oh my gosh」や「Wow」と同様に使われますが、やや古風で、より丁寧な印象を与えます。特に子供や年配の人が使うことが多い表現です。"
+    },
+    {
+      "id": 61,
+      "value": "waylaid",
+      "options": [
+        "道を尋ねる",
+        "邪魔される",
+        "道に迷う",
+        "道を見つける"
+      ],
+      "correctAnswer": "邪魔される",
+      "explanation": "「Waylaid」は、途中で邪魔される、立ち往生させられるという意味です。予定していた行動が何らかの理由で妨げられた状況を表します。例えば、道で人に話しかけられて予定が遅れた場合などに使われます。"
+    },
+    {
+      "id": 62,
+      "value": "confidential information",
+      "options": [
+        "秘密情報",
+        "個人的な意見",
+        "一般的な知識",
+        "公的な記録"
+      ],
+      "correctAnswer": "秘密情報",
+      "explanation": "「Confidential information」は、秘密にされるべき情報、機密情報という意味です。ビジネスや法律、個人的な事柄など、様々な分野で使用されます。この言葉は、情報の重要性と保護の必要性を示唆します。"
+    },
+    {
+      "id": 63,
+      "value": "bound by",
+      "options": [
+        "〜に縛られている",
+        "〜に興味がある",
+        "〜に反対している",
+        "〜によって解放される"
+      ],
+      "correctAnswer": "〜に縛られている",
+      "explanation": "「Bound by」は、契約や義務、道徳などによって拘束されている、縛られているという意味です。法的、倫理的な制約を受けている状況を表します。例えば、「I am bound by my promise」は「私は約束に縛られている」という意味になります。"
+    },
+    {
+      "id": 64,
+      "value": "badgering",
+      "options": [
+        "褒めること",
+        "苦しめること",
+        "助けること",
+        "無視すること"
+      ],
+      "correctAnswer": "苦しめること",
+      "explanation": "「Badgering」は、しつこく問い詰める、せがむ、困らせるという意味です。相手が嫌がっているのに、何度も同じ質問をしたり、要求を繰り返したりする行為を指します。この言葉は、相手に不快感を与える行為を強調するニュアンスがあります。"
+    },
+    {
+      "id": 65,
+      "value": "on their game",
+      "options": [
+        "調子が良い",
+        "ゲームをしている",
+        "スポーツが好き",
+        "遊んでいる"
+      ],
+      "correctAnswer": "調子が良い",
+      "explanation": "「On their game」は、最高の状態である、調子が良いという意味です。能力を最大限に発揮している状態や、期待以上の成果を出している状況を表します。スポーツやビジネスなど、様々な場面で使用されます。"
+    },
+    {
+      "id": 66,
+      "value": "once in a while",
+      "options": [
+        "いつも",
+        "時々",
+        "決してない",
+        "毎日"
+      ],
+      "correctAnswer": "時々",
+      "explanation": "「Once in a while」は、時々、たまにという意味です。頻度が少ないことを表し、日常会話でよく使われます。「Occasionally」や「Sometimes」とほぼ同じ意味で使えます。"
+    },
+    {
+      "id": 67,
+      "value": "as is",
+      "options": [
+        "〜の通り",
+        "〜ではない",
+        "〜と同様に",
+        "〜にも関わらず"
+      ],
+      "correctAnswer": "〜と同様に",
+      "explanation": "「As is」は、〜と同様に、〜と同じようにという意味です。比較や類似点を示す際に使用されます。また、契約書などでは「現状のまま」という意味で使用されることもあります。"
+    },
+    {
+      "id": 68,
+      "value": "bring up",
+      "options": [
+        "育てる",
+        "話題に出す",
+        "持ってくる",
+        "吐き出す"
+      ],
+      "correctAnswer": "話題に出す",
+      "explanation": "「Bring up」は、話題を出す、言及するという意味です。会話の中で新しい話題を導入したり、過去の出来事に触れたりする際に使われます。このフレーズは、会話の流れを変える効果があります。"
+    },
+    {
+      "id": 69,
+      "value": "shame on someone",
+      "options": [
+        "誰かを褒める",
+        "誰かを恥じさせる",
+        "誰かを助ける",
+        "誰かを羨む"
+      ],
+      "correctAnswer": "誰かを恥じさせる",
+      "explanation": "「Shame on someone」は、誰かを非難する、恥を知れという意味です。道徳的に間違った行動や不適切な言動を批判する際に使われます。このフレーズは、強い非難の感情を込めて使われることが多いです。"
+    },
+    {
+      "id": 70,
+      "value": "stand down",
+      "options": [
+        "立ち上がる",
+        "撤退する",
+        "支持する",
+        "攻撃する"
+      ],
+      "correctAnswer": "撤退する",
+      "explanation": "「Stand down」は、退却する、撤退する、または中止するという意味です。軍事用語として使われることが多いですが、比喩的に、議論や対立から身を引く際にも使われます。このフレーズは、状況の悪化を避けるために用いられます。"
+    },
+    {
+      "id": 71,
+      "value": "ran off",
+      "options": [
+        "走り去る",
+        "継続する",
+        "偶然出会う",
+        "電源を切る"
+      ],
+      "correctAnswer": "走り去る",
+      "explanation": "「Run off」は、急いで逃げる、走り去るという意味です。恐怖や不安、あるいは何かから逃れたい気持ちを表す際に使われます。このフレーズは、予期せぬ事態や緊急事態で使われることが多いです。"
+    },
+    {
+      "id": 72,
+      "value": "leave it alone",
+      "options": [
+        "一人にする",
+        "そのままにする",
+        "手伝う",
+        "探す"
+      ],
+      "correctAnswer": "そのままにする",
+      "explanation": "「Leave it alone」は、干渉しない、そのままにしておくという意味です。問題や状況に介入せず、現状維持を促す際に使われます。このフレーズは、事態の悪化を防ぐために用いられます。"
+    },
+    {
+      "id": 73,
+      "value": "in here",
+      "options": [
+        "ここに",
+        "あそこに",
+        "どこかに",
+        "そこに"
+      ],
+      "correctAnswer": "ここに",
+      "explanation": "「In here」は、この中に、ここにいるという意味です。特定の場所や空間の中にいることを示す際に使われます。例えば、部屋の中にいる人が自分の居場所を伝える場合などに使われます。"
+    },
+    {
+      "id": 74,
+      "value": "testosterone patch",
+      "options": [
+        "絆創膏",
+        "鎮痛剤",
+        "テストステロンパッチ",
+        "日焼け止め"
+      ],
+      "correctAnswer": "テストステロンパッチ",
+      "explanation": "「Testosterone patch」は、テストステロンを経皮吸収させるためのパッチ剤です。テストステロンは男性ホルモンの一種で、筋肉の発達や性機能に関与します。このパッチは、テストステロンの分泌が低下している場合に用いられます。"
+    },
+    {
+      "id": 75,
+      "value": "hors d’oeuvres",
+      "options": [
+        "メインディッシュ",
+        "デザート",
+        "前菜",
+        "飲み物"
+      ],
+      "correctAnswer": "前菜",
+      "explanation": "「Hors d’oeuvres」は、フランス語由来の言葉で、前菜、軽食という意味です。食事の前に提供される小さな料理やスナックを指します。パーティーや宴会などでよく提供され、食欲を刺激する役割があります。"
+    },
+    {
+      "id": 76,
+      "value": "blabbing",
+      "options": [
+        "秘密を守ること",
+        "おしゃべりすること",
+        "計画すること",
+        "手伝うこと"
+      ],
+      "correctAnswer": "おしゃべりすること",
+      "explanation": "「blab」は、秘密や内緒の話をうっかり話してしまう、またはペラペラとしゃべるという意味です。特に、話すべきでないことを話してしまうニュアンスがあります。類似の単語に「gossip」がありますが、「blab」はより無意識的な、またはうっかり口を滑らせるニュアンスを含みます。\n\n例：He blabbed about the surprise party. (彼はサプライズパーティーのことをうっかり話してしまった。)"
+    },
+    {
+      "id": 77,
+      "value": "check out",
+      "options": [
+        "確認する",
+        "無視する",
+        "避ける",
+        "想像する"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "「check out」は、確認する、調べる、または注目するという意味の句動詞です。ここでは「見て」という軽いニュアンスで使用されています。他にも、ホテルなどをチェックアウトする際にも使われます。\n\n例：Check out this new song! (この新しい曲を聴いてみて！)"
+    },
+    {
+      "id": 78,
+      "value": "cornrows",
+      "options": [
+        "三つ編み",
+        "ストレートヘア",
+        "アフロヘア",
+        "コーンロウ"
+      ],
+      "correctAnswer": "コーンロウ",
+      "explanation": "「cornrows」は、髪を頭皮に沿って編み込むヘアスタイルのことです。アフリカ系の文化にルーツを持ち、特定のパターンで細い列状に編み込むのが特徴です。\n\n例：She wore her hair in cornrows for the summer. (彼女は夏の間、髪をコーンロウにしていた。)"
+    },
+    {
+      "id": 79,
+      "value": "in no mood",
+      "options": [
+        "とても乗り気",
+        "全く乗り気でない",
+        "準備万端",
+        "少しだけ乗り気"
+      ],
+      "correctAnswer": "全く乗り気でない",
+      "explanation": "「in no mood」は、〜する気分ではない、〜する余裕がないという意味です。特定の行動や活動に対する意欲がないことを表します。\n\n例：I'm in no mood for arguing tonight. (今夜は議論する気分じゃない。)"
+    },
+    {
+      "id": 80,
+      "value": "macroscopic",
+      "options": [
+        "微視的な",
+        "巨視的な",
+        "架空の",
+        "数学的な"
+      ],
+      "correctAnswer": "巨視的な",
+      "explanation": "「macroscopic」は、肉眼で見える、または大規模なという意味です。物理学や科学の分野で、微視的な（microscopic）現象と対比して用いられます。\n\n例：Macroscopic properties of materials can be observed easily. (材料の巨視的な性質は容易に観察できる。)"
+    },
+    {
+      "id": 81,
+      "value": "quantum superposition",
+      "options": [
+        "古典的重ね合わせ",
+        "量的重ね合わせ",
+        "古典力学",
+        "量子的重ね合わせ"
+      ],
+      "correctAnswer": "量子的重ね合わせ",
+      "explanation": "「quantum superposition」は、量子力学における重ね合わせの原理を指します。ある量子系が複数の状態を同時に持つことができるという概念です。これは、日常的な感覚とは異なる、量子特有の現象です。\n\n例：Quantum superposition is a key concept in quantum computing. (量子的重ね合わせは、量子コンピューティングにおける重要な概念である。)"
+    },
+    {
+      "id": 82,
+      "value": "epistemic ambivalence",
+      "options": [
+        "認識的両義性",
+        "倫理的曖昧さ",
+        "感情的矛盾",
+        "美的感覚"
+      ],
+      "correctAnswer": "認識的両義性",
+      "explanation": "「epistemic ambivalence」は、知識や認識に関する両価性、つまり矛盾する感情や考えを同時に抱く状態を指します。ここでは、父親の手紙の内容を知りたい気持ちと知りたくない気持ちが混在している状態を表しています。「epistemic」は「認識的な」という意味です。\n\n例：He felt epistemic ambivalence about the truth. (彼は真実について認識的な両義性を感じていた。)"
+    },
+    {
+      "id": 83,
+      "value": "silly",
+      "options": [
+        "賢い",
+        "真面目な",
+        "ばかげた",
+        "重要な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「silly」は、ばかげた、くだらない、滑稽なという意味です。軽蔑的なニュアンスを含むこともあります。\n\n例：That's a silly question. (それはばかげた質問だ。)"
+    },
+    {
+      "id": 84,
+      "value": "plot",
+      "options": [
+        "陰謀",
+        "筋",
+        "場所",
+        "値段"
+      ],
+      "correctAnswer": "筋",
+      "explanation": "「plot」は、物語や劇などの筋、プロットを意味します。物語の展開や出来事の順序を指します。\n\n例：The plot of the movie was very complicated. (その映画の筋は非常に複雑だった。)"
+    },
+    {
+      "id": 85,
+      "value": "poppycock",
+      "options": [
+        "重要な情報",
+        "真実",
+        "ナンセンス",
+        "貴重な物"
+      ],
+      "correctAnswer": "ナンセンス",
+      "explanation": "「poppycock」は、ナンセンス、たわごと、ばかげた話という意味です。軽蔑的なニュアンスを含みます。\n\n例：That's a load of poppycock! (それは全くのナンセンスだ！)"
+    },
+    {
+      "id": 86,
+      "value": "caught up to",
+      "options": [
+        "捕まった",
+        "追いついた",
+        "逃げ出した",
+        "理解した"
+      ],
+      "correctAnswer": "追いついた",
+      "explanation": "「catch up to」は、追いつく、追い越すという意味です。ここでは、過去の秘密や問題が表面化し、現在の状況に影響を与えるという意味合いで使われています。\n\n例：His past eventually caught up to him. (彼の過去は最終的に彼に追いついた。)"
+    },
+    {
+      "id": 87,
+      "value": "matey",
+      "options": [
+        "友人",
+        "敵",
+        "恋人",
+        "見知らぬ人"
+      ],
+      "correctAnswer": "友人",
+      "explanation": "「matey」は、仲間、友達、特に船乗りなどが使う親しみを込めた呼びかけです。ここでは、友人に対する軽い呼びかけとして使われています。\n\n例：Alright, matey? (元気か、相棒？)"
+    },
+    {
+      "id": 88,
+      "value": "saucy",
+      "options": [
+        "上品な",
+        "生意気な",
+        "退屈な",
+        "悲しい"
+      ],
+      "correctAnswer": "生意気な",
+      "explanation": "「saucy」は、生意気な、大胆な、少しわいせつなという意味です。ここでは、Bernadetteの日記の内容が少し大胆であることを示唆しています。\n\n例：She had a saucy smile on her face. (彼女はいたずらっぽい笑みを浮かべていた。)"
+    },
+    {
+      "id": 89,
+      "value": "snippets",
+      "options": [
+        "完全な記事",
+        "短い抜粋",
+        "長い小説",
+        "重要な論文"
+      ],
+      "correctAnswer": "短い抜粋",
+      "explanation": "「snippet」は、短い断片、抜粋という意味です。ここでは、著作権法に基づいてレビューのために日記から短い部分を引用できると言っています。\n\n例：I only heard snippets of their conversation. (彼らの会話の断片しか聞こえなかった。)"
+    },
+    {
+      "id": 90,
+      "value": "copyright law",
+      "options": [
+        "商標法",
+        "著作権法",
+        "特許法",
+        "契約法"
+      ],
+      "correctAnswer": "著作権法",
+      "explanation": "「copyright law」は、著作権法のことです。著作物の権利を保護するための法律で、著作者の権利や利用に関する規定を定めています。\n\n例：Copyright law protects the rights of creators. (著作権法はクリエイターの権利を保護する。)"
+    },
+    {
+      "id": 91,
+      "value": "turn out",
+      "options": [
+        "終わる",
+        "現れる",
+        "判明する",
+        "悪化する"
+      ],
+      "correctAnswer": "判明する",
+      "explanation": "「turn out」は、（結果的に）〜になる、判明するという意味の句動詞です。ここでは、パーティーがうまくいったという意味で使われています。\n\n例：The weather turned out to be beautiful. (天気は結果的に晴れになった。)"
+    },
+    {
+      "id": 92,
+      "value": "Pierce",
+      "options": [
+        "刺す",
+        "隠す",
+        "治療する",
+        "守る"
+      ],
+      "correctAnswer": "刺す",
+      "explanation": "「Pierce」は、突き刺す、貫通するという意味の動詞です。ここでは、脳に針を刺すという比喩的な表現で使われています。\n\n例：The needle pierced through the skin. (針は皮膚を突き刺した。)"
+    },
+    {
+      "id": 93,
+      "value": "battery-operated",
+      "options": [
+        "電気で動く",
+        "電池で動く",
+        "手動で動く",
+        "太陽光で動く"
+      ],
+      "correctAnswer": "電池で動く",
+      "explanation": "「battery-operated」は、電池で作動する、という意味です。電気製品などでよく使われる表現です。\n\n例：This toy is battery-operated. (このおもちゃは電池式です。)"
+    },
+    {
+      "id": 94,
+      "value": "chew toy",
+      "options": [
+        "おしゃぶり",
+        "噛むおもちゃ",
+        "ぬいぐるみ",
+        "知育玩具"
+      ],
+      "correctAnswer": "噛むおもちゃ",
+      "explanation": "「chew toy」は、犬などが噛んで遊ぶおもちゃのことです。歯の健康を保つためや、ストレス解消のために与えられます。\n\n例：The dog loves his chew toy. (その犬は噛むおもちゃが大好きだ。)"
+    },
+    {
+      "id": 95,
+      "value": "throw away",
+      "options": [
+        "大切にする",
+        "捨てる",
+        "隠す",
+        "修理する"
+      ],
+      "correctAnswer": "捨てる",
+      "explanation": "「throw away」は、捨てる、無駄にするという意味の句動詞です。ここでは、家族を捨てるという行為を指しています。\n\n例：Don't throw away your opportunities. (チャンスを無駄にするな。)"
+    },
+    {
+      "id": 96,
+      "value": "have it",
+      "options": [
+        "持っている",
+        "理解している",
+        "手に入れる",
+        "経験する"
+      ],
+      "correctAnswer": "経験する",
+      "explanation": "「have it」は、ここでは性行為を婉曲的に表現しています。直接的な表現を避けるために使われることがあります。\n\n例：They decided to have it out. (彼らは腹を割って話すことにした。別の意味になります。)"
+    },
+    {
+      "id": 97,
+      "value": "early",
+      "options": [
+        "早い",
+        "遅い",
+        "短い",
+        "長い"
+      ],
+      "correctAnswer": "早い",
+      "explanation": "「early」は、早い、初期のという意味です。ここでは、時間がまだ早いのでパーティーに戻ろうと提案しています。\n\n例：It's still early in the day. (まだ日は浅い。)"
+    },
+    {
+      "id": 98,
+      "value": "safe with me",
+      "options": [
+        "私と一緒だと安全",
+        "私が守る",
+        "私には秘密が守れない",
+        "秘密は守られる"
+      ],
+      "correctAnswer": "秘密は守られる",
+      "explanation": "「safe with me」は、私に任せておけば安全だ、私が秘密を守るという意味です。ここでは、SheldonがBernadetteの秘密を守ると約束しています。\n\n例：Your secret is safe with me. (あなたの秘密は私が守る。)"
+    },
+    {
+      "id": 99,
+      "value": "glad",
+      "options": [
+        "悲しい",
+        "嬉しい",
+        "怒っている",
+        "驚いている"
+      ],
+      "correctAnswer": "嬉しい",
+      "explanation": "「glad」は、嬉しい、喜んでいるという意味です。ここでは、Howardが気分が良くなったことを表しています。\n\n例：I'm glad to see you. (あなたに会えて嬉しい。)"
+    },
+    {
+      "id": 100,
+      "value": "flats",
+      "options": [
+        "ハイヒール",
+        "スニーカー",
+        "フラットシューズ",
+        "ブーツ"
+      ],
+      "correctAnswer": "フラットシューズ",
+      "explanation": "「flats」は、フラットシューズ、底の平らな靴のことです。踊るために履きやすい靴を指しています。\n\n例：She wore flats to the party. (彼女はパーティーにフラットシューズを履いて行った。)"
+    }
+  ]
+}

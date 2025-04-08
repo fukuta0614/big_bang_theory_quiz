@@ -1,0 +1,1060 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "sluggishly",
+      "options": [
+        "活発に",
+        "緩慢に",
+        "正確に",
+        "冷静に"
+      ],
+      "correctAnswer": "緩慢に",
+      "explanation": "「sluggishly」は、動作や反応が遅い、活気がないという意味です。物理的な動きだけでなく、思考や活動のペースが遅い状態も指します。例文：The economy is growing sluggishly. (経済は緩慢に成長している。)"
+    },
+    {
+      "id": 2,
+      "value": "goodie",
+      "options": [
+        "おやつ",
+        "やったー",
+        "贈り物",
+        "秘密"
+      ],
+      "correctAnswer": "やったー",
+      "explanation": "「goodie」は、良いもの、嬉しいもの、おやつ、景品などを指す言葉ですが、この文脈では喜びや興奮を表す感嘆詞として使われています。子供が喜ぶようなニュアンスが含まれます。例文：Oh goodie, it's Christmas! (やったー、クリスマスだ！)"
+    },
+    {
+      "id": 3,
+      "value": "fling",
+      "options": [
+        "投げる",
+        "保持する",
+        "隠す",
+        "集める"
+      ],
+      "correctAnswer": "投げる",
+      "explanation": "「fling」は、勢いよく投げる、投げつけるという意味です。ここでは、猿が糞を投げつける行為を指しています。例文：He flung the door open. (彼はドアを勢いよく開けた。)"
+    },
+    {
+      "id": 4,
+      "value": "raw sexuality",
+      "options": [
+        "洗練された魅力",
+        "抑制された色気",
+        "むき出しの性欲",
+        "知的な魅力"
+      ],
+      "correctAnswer": "むき出しの性欲",
+      "explanation": "「raw sexuality」は、むき出しの、あるいは洗練されていない性的な魅力やエネルギーを指します。ここでは、ペニーの強い性的魅力を強調するために使われています。例文：Her raw sexuality was undeniable. (彼女のむき出しの性的魅力は否定できなかった。)"
+    },
+    {
+      "id": 5,
+      "value": "flatlines",
+      "options": [
+        "心停止する",
+        "上昇する",
+        "安定する",
+        "衰退する"
+      ],
+      "correctAnswer": "心停止する",
+      "explanation": "「flatline」は、心電図が平坦になる、つまり心停止することを意味します。ここでは、 умирающий до самой смерти という意味合いで使用されています。例文：The patient flatlined during the surgery. (手術中、患者は心停止した。)"
+    },
+    {
+      "id": 6,
+      "value": "arrhythmia",
+      "options": [
+        "不整脈",
+        "高血圧",
+        "低血圧",
+        "心肥大"
+      ],
+      "correctAnswer": "不整脈",
+      "explanation": "「arrhythmia」は、心臓のリズムが不規則になる状態、つまり不整脈を指します。医学用語として使われます。例文：He was diagnosed with arrhythmia. (彼は不整脈と診断された。)"
+    },
+    {
+      "id": 7,
+      "value": "HMO network",
+      "options": [
+        "医療保険ネットワーク",
+        "ソーシャルネットワーク",
+        "交通網",
+        "ケーブルテレビ網"
+      ],
+      "correctAnswer": "医療保険ネットワーク",
+      "explanation": "「HMO network」は、Health Maintenance Organization（医療維持機構）のネットワーク、つまり特定の医療保険が適用される医療機関のネットワークを指します。例文：You need to choose a doctor within the HMO network. (HMOネットワーク内の医者を選ぶ必要があります。)"
+    },
+    {
+      "id": 8,
+      "value": "screw it",
+      "options": [
+        "気にしない",
+        "頑張って",
+        "ネジを締める",
+        "分析する"
+      ],
+      "correctAnswer": "気にしない",
+      "explanation": "「screw it」は、諦めや投げやりな気持ちを表す表現で、「もうどうでもいい」という意味合いで使われます。例文：I'm so tired, screw it, I'm going to bed. (もう疲れた、どうでもいい、寝る。)"
+    },
+    {
+      "id": 9,
+      "value": "a lot riding on this",
+      "options": [
+        "多くの人が乗っている",
+        "大きな期待がかかっている",
+        "賭け金が高い",
+        "道が険しい"
+      ],
+      "correctAnswer": "大きな期待がかかっている",
+      "explanation": "「a lot riding on this」は、大きな期待や責任がかかっている状態を指します。何かの結果が重要で、それに多くのものが依存しているという意味合いです。例文：We have a lot riding on this project. (このプロジェクトには大きな期待がかかっている。)"
+    },
+    {
+      "id": 10,
+      "value": "fellows",
+      "options": [
+        "仲間たち",
+        "敵",
+        "上司",
+        "子供たち"
+      ],
+      "correctAnswer": "仲間たち",
+      "explanation": "「fellows」は、仲間、同僚、男性たちを指す言葉ですが、ここでは親しみを込めた呼びかけとして使われています。例文：Good morning, fellows! (おはよう、みんな！)"
+    },
+    {
+      "id": 11,
+      "value": "to the point",
+      "options": [
+        "要点を得た",
+        "的を射ない",
+        "話が長い",
+        "抽象的な"
+      ],
+      "correctAnswer": "要点を得た",
+      "explanation": "「to the point」は、要点を得た、的確なという意味です。話や行動が直接的で、無駄がないことを指します。例文：His comments were very much to the point. (彼のコメントは非常に的を射ていた。)"
+    },
+    {
+      "id": 12,
+      "value": "defiling",
+      "options": [
+        "汚す",
+        "きれいにする",
+        "守る",
+        "無視する"
+      ],
+      "correctAnswer": "汚す",
+      "explanation": "「defile」は、神聖なものや価値あるものを汚す、冒涜するという意味です。ここでは、ラージの妹との関係を軽蔑的に表現するために使われています。例文：The vandals defiled the monument. (破壊者たちは記念碑を汚した。)"
+    },
+    {
+      "id": 13,
+      "value": "turn that frown upside down",
+      "options": [
+        "笑顔にする",
+        "怒らせる",
+        "悲しませる",
+        "無視する"
+      ],
+      "correctAnswer": "笑顔にする",
+      "explanation": "「turn that frown upside down」は、不機嫌な顔を笑顔に変える、つまり元気付けるという意味です。落ち込んでいる人を励ます際に使われます。例文：Come on, turn that frown upside down! Things will get better. (元気を出して！きっと良くなるよ。)"
+    },
+    {
+      "id": 26,
+      "value": "fixated on",
+      "options": [
+        "嫌悪感を抱く",
+        "執着する",
+        "無関心である",
+        "軽蔑する"
+      ],
+      "correctAnswer": "執着する",
+      "explanation": "「fixated on」は、何かに心を奪われ、強く執着している状態を表します。特定の対象や考えに異常なほど集中し、他のことが目に入らないような状況を指します。心理学的な文脈でもよく使われます。\n\n例：He was fixated on the idea of winning the lottery. (彼は宝くじに当たるという考えに執着していた。)"
+    },
+    {
+      "id": 27,
+      "value": "good-natured",
+      "options": [
+        "意地悪な",
+        "短気な",
+        "温厚な",
+        "冷淡な"
+      ],
+      "correctAnswer": "温厚な",
+      "explanation": "「good-natured」は、性格が穏やかで、親切で、他人に対して寛容であることを意味します。怒ったり不機嫌になったりすることが少なく、人当たりが良い人物を指す際に用いられます。\n\n例：She is a good-natured woman who always tries to help others. (彼女はいつも他人を助けようとする温厚な女性です。)"
+    },
+    {
+      "id": 28,
+      "value": "simpleton",
+      "options": [
+        "天才",
+        "賢者",
+        "愚か者",
+        "学者"
+      ],
+      "correctAnswer": "愚か者",
+      "explanation": "「simpleton」は、知恵が足りない人、単純で愚かな人を指す言葉です。軽蔑的なニュアンスを含み、相手を侮辱する際に使われることがあります。\n\n例：He's such a simpleton that he believes everything he reads online. (彼はとても愚か者なので、ネットで読むことを何でも信じてしまう。)"
+    },
+    {
+      "id": 29,
+      "value": "intimidating",
+      "options": [
+        "親しみやすい",
+        "落ち着ける",
+        "威圧的な",
+        "友好的な"
+      ],
+      "correctAnswer": "威圧的な",
+      "explanation": "「intimidating」は、人を怖がらせたり、自信を失わせたりするような、威圧感を与える様子を表します。相手に心理的な圧力をかけ、行動を抑制するような状況で使われます。\n\n例：The boss has an intimidating presence that makes everyone nervous. (その上司は威圧的な雰囲気を持っており、誰もが緊張する。)"
+    },
+    {
+      "id": 30,
+      "value": "non-fiction",
+      "options": [
+        "小説",
+        "ノンフィクション",
+        "詩",
+        "戯曲"
+      ],
+      "correctAnswer": "ノンフィクション",
+      "explanation": "「non-fiction」は、事実に基づいて書かれた作品を指します。小説や作り話とは異なり、歴史、伝記、ルポルタージュなどが含まれます。真実性、客観性が重視されます。\n\n例：She enjoys reading non-fiction books about historical events. (彼女は歴史的な出来事に関するノンフィクションの本を読むのが好きです。)"
+    },
+    {
+      "id": 31,
+      "value": "go out with",
+      "options": [
+        "デートする",
+        "喧嘩する",
+        "無視する",
+        "尊敬する"
+      ],
+      "correctAnswer": "デートする",
+      "explanation": "「go out with」は、誰かと恋人としてデートをすることを意味します。一時的な関係ではなく、ある程度継続的な関係を前提とすることが多いです。\n\n例：They have been going out with each other for six months. (彼らは6ヶ月間デートしている。)"
+    },
+    {
+      "id": 32,
+      "value": "haemorrhoid",
+      "options": [
+        "虫歯",
+        "痔",
+        "ニキビ",
+        "水虫"
+      ],
+      "correctAnswer": "痔",
+      "explanation": "「haemorrhoid」は、肛門周辺の血管が炎症を起こして腫れた状態、つまり痔を指します。医学的な用語であり、日常会話ではあまり使われません。\n\n例文：He had to undergo surgery to remove a painful haemorrhoid. (彼は痛みを伴う痔を取り除く手術を受けなければならなかった。)"
+    },
+    {
+      "id": 33,
+      "value": "knock out",
+      "options": [
+        "強化する",
+        "破壊する",
+        "修理する",
+        "無視する"
+      ],
+      "correctAnswer": "破壊する",
+      "explanation": "「knock out」は、物理的に何かを破壊したり、機能を停止させたりすることを意味します。比喩的には、競争相手を打ち負かす、計画を頓挫させるなどの意味でも使われます。\n\n例：The boxer knocked out his opponent in the first round. (そのボクサーは1ラウンドで相手をノックアウトした。)"
+    },
+    {
+      "id": 34,
+      "value": "get back together",
+      "options": [
+        "仲直りする",
+        "別れる",
+        "仲たがいする",
+        "連絡を取る"
+      ],
+      "correctAnswer": "仲直りする",
+      "explanation": "「get back together」は、一度別れた恋人同士が再び関係を再開することを意味します。過去の関係を修復し、再び一緒に過ごすことを指します。\n\n例：After a few months apart, they decided to get back together. (数ヶ月離れていた後、彼らは仲直りすることに決めた。)"
+    },
+    {
+      "id": 35,
+      "value": "overthinking",
+      "options": [
+        "深く考えること",
+        "考えすぎること",
+        "楽観的に考えること",
+        "全く考えないこと"
+      ],
+      "correctAnswer": "考えすぎること",
+      "explanation": "「overthinking」は、物事を必要以上に深く考え、心配しすぎることを意味します。決断を遅らせたり、不安を増大させたりする原因となることがあります。\n\n例：She tends to overthink every little detail. (彼女は細かなことまで考えすぎる傾向がある。)"
+    },
+    {
+      "id": 36,
+      "value": "to this day",
+      "options": [
+        "昨日",
+        "今日に至るまで",
+        "明日",
+        "数日前"
+      ],
+      "correctAnswer": "今日に至るまで",
+      "explanation": "「to this day」は、「今日に至るまで」「今でも」という意味です。ある過去の出来事や状態が現在まで続いていることを強調する際に使われます。\n\n例：To this day, I still don't know what happened that night. (今でも、あの夜に何が起こったのかわからない。)"
+    },
+    {
+      "id": 37,
+      "value": "erection",
+      "options": [
+        "建設",
+        "勃起",
+        "崩壊",
+        "破壊"
+      ],
+      "correctAnswer": "建設",
+      "explanation": "「erection」は、文脈によって意味が異なります。この場合、ゲームの文脈で「建設」という意味で使われています。しかし、性的な意味で「勃起」という意味も持ちます。注意が必要です。\n\n例：The erection of the new building will take several months. (新しい建物の建設には数ヶ月かかるだろう。)"
+    },
+    {
+      "id": 38,
+      "value": "paint the town (beige)",
+      "options": [
+        "町を活気づける",
+        "町を静かにする",
+        "町を破壊する",
+        "町を掃除する"
+      ],
+      "correctAnswer": "町を活気づける",
+      "explanation": "「paint the town (red)」は、町で楽しく騒ぎ、遊び回ることを意味するイディオムです。「beige」が使われていることから、皮肉を込めて、楽しくなかったデートを表現しています。\n\n例：Let's go out and paint the town tonight! (今夜は町に出て騒ごう！)"
+    },
+    {
+      "id": 39,
+      "value": "to a certainty",
+      "options": [
+        "不確実",
+        "完全に確信して",
+        "部分的に",
+        "偶然に"
+      ],
+      "correctAnswer": "完全に確信して",
+      "explanation": "「to a certainty」は、「確実に」「疑いなく」という意味を表します。何かが起こることを非常に強く確信している状態を示します。\n\n例：We know to a certainty that he is the right person for the job. (彼がその仕事に最適な人物だと確信している。)"
+    },
+    {
+      "id": 40,
+      "value": "For all we know",
+      "options": [
+        "私たちが知っている限り",
+        "私たちが知らない限り",
+        "私たちが忘れている限り",
+        "私たちが理解している限り"
+      ],
+      "correctAnswer": "私たちが知っている限り",
+      "explanation": "「For all we know」は、「私たちが知る限り」「もしかしたら」という意味で、不確実な状況や推測を述べる際に使われます。実際にはそうではないかもしれないという含みがあります。\n\n例：For all we know, he might be telling the truth. (私たちが知る限り、彼は真実を言っているのかもしれない。)"
+    },
+    {
+      "id": 41,
+      "value": "attachment",
+      "options": [
+        "無関心",
+        "嫌悪感",
+        "愛着",
+        "軽蔑"
+      ],
+      "correctAnswer": "愛着",
+      "explanation": "「attachment」は、人や物事に対する愛情や結びつきを表します。心理学的な文脈では、特に重要な他者との間の情緒的なつながりを指すことが多いです。\n\n例：She has a strong attachment to her family. (彼女は家族に対して強い愛着を持っている。)"
+    },
+    {
+      "id": 42,
+      "value": "ballistic missiles",
+      "options": [
+        "巡航ミサイル",
+        "弾道ミサイル",
+        "魚雷",
+        "ロケット"
+      ],
+      "correctAnswer": "弾道ミサイル",
+      "explanation": "「ballistic missiles」は、放物線を描いて飛ぶミサイルを指します。大気圏外に一旦出てから目標地点に向かうため、射程が長く、迎撃が難しいとされています。\n\n例：The country is developing ballistic missiles that can reach any part of the world. (その国は世界のどこにでも到達できる弾道ミサイルを開発している。)"
+    },
+    {
+      "id": 43,
+      "value": "displeases",
+      "options": [
+        "喜ばせる",
+        "満足させる",
+        "不快にさせる",
+        "感動させる"
+      ],
+      "correctAnswer": "不快にさせる",
+      "explanation": "「displeases」は、人を不快にさせたり、気分を害させたりすることを意味します。相手の期待に反する行為や、好ましくない状況を引き起こす際に用いられます。\n\n例：His rude behavior displeases everyone. (彼の無礼な態度は皆を不快にさせる。)"
+    },
+    {
+      "id": 44,
+      "value": "Sarcasm",
+      "options": [
+        "皮肉",
+        "ユーモア",
+        "同情",
+        "感謝"
+      ],
+      "correctAnswer": "皮肉",
+      "explanation": "「Sarcasm」は、皮肉を意味します。相手を嘲るような意図を含んだ表現を指し、しばしば言葉とは裏腹の意味を込めて用いられます。\n\n例：His voice was full of sarcasm. (彼の声は皮肉に満ちていた。)"
+    },
+    {
+      "id": 45,
+      "value": "Yet",
+      "options": [
+        "しかし",
+        "それにもかかわらず",
+        "それゆえに",
+        "したがって"
+      ],
+      "correctAnswer": "しかし",
+      "explanation": "「Yet」は、接続詞として「しかし」「それにもかかわらず」という意味で使用されます。前の文との対比や矛盾を示す際に用いられます。\n\n例：He is young, yet very wise. (彼は若いけれど、とても賢い。)"
+    },
+    {
+      "id": 46,
+      "value": "Needy",
+      "options": [
+        "自立した",
+        "必要な",
+        "頼りない",
+        "満足した"
+      ],
+      "correctAnswer": "必要な",
+      "explanation": "「Needy」は、形容詞として「必要としている」「困窮している」という意味で使用されます。人に対して使う場合は、精神的に依存的で、常に他者の注意や愛情を求めている状態を指すことがあります。\n\n例：The charity helps needy families. (その慈善団体は困窮している家族を支援している。)"
+    },
+    {
+      "id": 47,
+      "value": "Awkward",
+      "options": [
+        "快適な",
+        "ぎこちない",
+        "自然な",
+        "楽しい"
+      ],
+      "correctAnswer": "ぎこちない",
+      "explanation": "「Awkward」は、形容詞として「ぎこちない」「気まずい」という意味で使用されます。状況や行動が不自然で、場が白けるようなニュアンスを持ちます。\n\n例：There was an awkward silence after his comment. (彼のコメントの後、気まずい沈黙が流れた。)"
+    },
+    {
+      "id": 48,
+      "value": "Waiting tables",
+      "options": [
+        "絵を描く",
+        "脚本を書く",
+        "ウェイターをする",
+        "歌を歌う"
+      ],
+      "correctAnswer": "ウェイターをする",
+      "explanation": "「Waiting tables」は、レストランなどでウェイターとして働くことを意味する口語的な表現です。テーブルについて客の注文を取り、料理や飲み物を運ぶ仕事です。\n\n例：She was waiting tables while trying to get her acting career started. (彼女は俳優としてのキャリアをスタートさせようとしながら、ウェイターとして働いていた。)"
+    },
+    {
+      "id": 49,
+      "value": "There you go",
+      "options": [
+        "そこに行く",
+        "その通り",
+        "そこに着く",
+        "そこにいる"
+      ],
+      "correctAnswer": "その通り",
+      "explanation": "「There you go」は、相手が正しいことを言ったり、何かを達成したりしたときに、「その通り」「よくやった」という意味で使われるフレーズです。肯定的なニュアンスを持ち、励ましや同意を示す際に用いられます。\n\n例：'See, it's easy.' 'Oh, I get it now.' 'There you go!'(「ほら、簡単でしょう？」「ああ、今わかった」「その通り！」)"
+    },
+    {
+      "id": 50,
+      "value": "On purpose",
+      "options": [
+        "偶然に",
+        "間違いで",
+        "故意に",
+        "無意識に"
+      ],
+      "correctAnswer": "故意に",
+      "explanation": "「On purpose」は、「故意に」「意図的に」という意味で、何かを計画的に行うことを指します。偶然や無意識ではなく、明確な意図を持って行動する際に用いられます。\n\n例：He broke the vase on purpose. (彼はわざと花瓶を割った。)"
+    },
+    {
+      "id": 51,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "何が起きたの？",
+        "元気ですか？",
+        "何か用ですか？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、親しい間柄で使われる挨拶や、相手に何かあったのか尋ねる際に使われる口語的な表現です。状況によってニュアンスが異なり、軽い挨拶から心配する気持ちを表すこともできます。"
+    },
+    {
+      "id": 52,
+      "value": "overthink",
+      "options": [
+        "考えすぎる",
+        "見過ごす",
+        "気にしない",
+        "楽観視する"
+      ],
+      "correctAnswer": "考えすぎる",
+      "explanation": "「overthink」は、物事を過度に深く考え、心配しすぎるという意味です。特に、決断を先延ばしにしたり、不要な不安を生み出したりする場合に使われます。日常会話でよく使われる表現です。"
+    },
+    {
+      "id": 53,
+      "value": "hung in there",
+      "options": [
+        "諦めた",
+        "耐え抜いた",
+        "楽しんだ",
+        "逃げ出した"
+      ],
+      "correctAnswer": "耐え抜いた",
+      "explanation": "「hang in there」は、困難な状況や苦しい状況で諦めずに頑張る、耐え抜くという意味のイディオムです。励ましの言葉としてよく使われます。類義語にはpersist, endureなどがあります。"
+    },
+    {
+      "id": 54,
+      "value": "at stake",
+      "options": [
+        "危険にさらされて",
+        "準備万端で",
+        "順調に進んで",
+        "安全な状態で"
+      ],
+      "correctAnswer": "危険にさらされて",
+      "explanation": "「at stake」は、危険にさらされている、失う可能性があるという意味です。重要なものが危機に瀕している状況で使われます。「The company's reputation is at stake.（会社の評判が危機に瀕している）」のように使われます。"
+    },
+    {
+      "id": 55,
+      "value": "help me out",
+      "options": [
+        "助けてください",
+        "邪魔しないで",
+        "放っておいて",
+        "手伝わないで"
+      ],
+      "correctAnswer": "助けてください",
+      "explanation": "「help out」は、困っている人を手伝う、助けるという意味の句動詞です。日常会話でよく使われます。類義語にはassist, supportなどがあります。依頼するときに「help me out」の形でよく使います。"
+    },
+    {
+      "id": 56,
+      "value": "dibs on",
+      "options": [
+        "優先権",
+        "義務",
+        "責任",
+        "権利放棄"
+      ],
+      "correctAnswer": "優先権",
+      "explanation": "「dibs on」は、何かに対する優先権、所有権を主張する際に使われる口語的な表現です。通常、最初にそれを言った人が優先権を得るというルールがあります。「I have dibs on the front seat.（前の席は僕の優先席だ）」のように使います。"
+    },
+    {
+      "id": 57,
+      "value": "give it a go",
+      "options": [
+        "諦める",
+        "試してみる",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "試してみる",
+      "explanation": "「give it a go」は、何かを試してみる、やってみるという意味のイディオムです。特に、困難なことや新しいことに挑戦する際に使われます。「Let's give it a go.（やってみよう）」のように使います。"
+    },
+    {
+      "id": 58,
+      "value": "panicked",
+      "options": [
+        "冷静になった",
+        "パニックになった",
+        "喜んだ",
+        "安心した"
+      ],
+      "correctAnswer": "パニックになった",
+      "explanation": "「panic」は、突然の恐怖や不安によって混乱する、パニックになるという意味です。予期せぬ事態や危機的な状況で使われます。「She panicked when she couldn't find her keys.（彼女は鍵が見つからなくてパニックになった）」のように使います。"
+    },
+    {
+      "id": 59,
+      "value": "shake out the bugs",
+      "options": [
+        "虫を捕まえる",
+        "問題を解決する",
+        "秘密にする",
+        "隠蔽する"
+      ],
+      "correctAnswer": "問題を解決する",
+      "explanation": "「shake out the bugs」は、ソフトウェアやシステムなどの問題を解決する、不具合を取り除くという意味のイディオムです。テストや試行錯誤を通じて改善することを指します。類義語にはtroubleshootがあります。"
+    },
+    {
+      "id": 60,
+      "value": "roll it out",
+      "options": [
+        "隠す",
+        "公開する",
+        "中断する",
+        "拒否する"
+      ],
+      "correctAnswer": "公開する",
+      "explanation": "「roll out」は、新しい製品やサービス、プログラムなどを公開する、展開するという意味の句動詞です。段階的に導入する場合にも使われます。「The company is planning to roll out the new software next month.（会社は来月、新しいソフトウェアを公開する予定だ）」のように使います。"
+    },
+    {
+      "id": 61,
+      "value": "out of deference to",
+      "options": [
+        "軽蔑して",
+        "敬意を払って",
+        "無視して",
+        "反抗して"
+      ],
+      "correctAnswer": "敬意を払って",
+      "explanation": "「out of deference to」は、〜に敬意を払って、〜を尊重してという意味の表現です。相手の感情や立場を考慮して行動する際に使われます。「Out of deference to her age, we offered her a seat.（彼女の年齢を考慮して、席を譲った）」のように使います。"
+    },
+    {
+      "id": 62,
+      "value": "flaunt",
+      "options": [
+        "隠す",
+        "見せびらかす",
+        "軽視する",
+        "避ける"
+      ],
+      "correctAnswer": "見せびらかす",
+      "explanation": "「flaunt」は、自慢する、見せびらかすという意味の動詞です。しばしば、不快感や軽蔑のニュアンスを伴います。「He flaunted his wealth at every opportunity.（彼はあらゆる機会に自分の富を見せびらかした）」のように使われます。"
+    },
+    {
+      "id": 63,
+      "value": "can't complain",
+      "options": [
+        "不満だらけだ",
+        "文句はない",
+        "満足できない",
+        "最悪だ"
+      ],
+      "correctAnswer": "文句はない",
+      "explanation": "「can't complain」は、まあまあ良い、悪くないという意味の婉曲的な表現です。特に大きな不満はないという気持ちを表します。「How are you? - Can't complain.（元気ですか？ - まあまあです）」のように使われます。"
+    },
+    {
+      "id": 64,
+      "value": "plausible",
+      "options": [
+        "ありえない",
+        "もっともらしい",
+        "不可能な",
+        "誤解を招く"
+      ],
+      "correctAnswer": "もっともらしい",
+      "explanation": "「plausible」は、もっともらしい、信憑性があるという意味の形容詞です。必ずしも真実であるとは限らないが、可能性が高いことを示します。「His explanation sounded plausible.（彼の説明はもっともらしく聞こえた）」のように使われます。"
+    },
+    {
+      "id": 65,
+      "value": "customary",
+      "options": [
+        "珍しい",
+        "慣習的な",
+        "非常識な",
+        "不適切な"
+      ],
+      "correctAnswer": "慣習的な",
+      "explanation": "「customary」は、慣習的な、習慣になっているという意味の形容詞です。ある文化や社会で一般的に行われていることを指します。「It is customary to tip waiters in the US.（アメリカではウェイターにチップを渡すのが慣習だ）」のように使われます。"
+    },
+    {
+      "id": 66,
+      "value": "retail establishment",
+      "options": [
+        "小売店",
+        "政府機関",
+        "教育機関",
+        "医療機関"
+      ],
+      "correctAnswer": "小売店",
+      "explanation": "「retail establishment」は、小売店、販売店という意味です。商品やサービスを消費者に直接販売する事業所を指します。store, shopとほぼ同じ意味ですが、よりフォーマルな表現です。"
+    },
+    {
+      "id": 67,
+      "value": "make one's way",
+      "options": [
+        "邪魔をする",
+        "成功する",
+        "迷子になる",
+        "失敗する"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「make one's way」は、苦労して成功する、道を切り開くという意味のイディオムです。困難を乗り越えて目標を達成するニュアンスが含まれます。「He made his way to the top of the company.（彼は会社でトップの地位まで上り詰めた）」のように使われます。"
+    },
+    {
+      "id": 68,
+      "value": "graveyard shift",
+      "options": [
+        "昼間のシフト",
+        "深夜勤務",
+        "早朝勤務",
+        "夕方のシフト"
+      ],
+      "correctAnswer": "深夜勤務",
+      "explanation": "「graveyard shift」は、深夜勤務、夜勤という意味です。通常、午前0時から午前8時までの時間帯の勤務を指します。深夜の時間帯に働くことから、こう呼ばれます。"
+    },
+    {
+      "id": 69,
+      "value": "Needy Baby, Greedy Baby",
+      "options": [
+        "満足している",
+        "欲張りな子供",
+        "寛大な大人",
+        "謙虚な人"
+      ],
+      "correctAnswer": "欲張りな子供",
+      "explanation": "「Needy Baby, Greedy Baby」は、ここでは、人が必要以上に何かを欲しがる様子を批判的に表現する言葉として使われています。本来は子供が欲張る様子を指す表現です。少し皮肉っぽいニュアンスが含まれています。"
+    },
+    {
+      "id": 70,
+      "value": "run into",
+      "options": [
+        "出会う",
+        "避ける",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "出会う",
+      "explanation": "「run into」は、偶然出会うという意味の句動詞です。予期せずに人に会う場合に使われます。「I ran into an old friend at the grocery store.（スーパーで旧友に偶然出会った）」のように使われます。"
+    },
+    {
+      "id": 71,
+      "value": "obligated",
+      "options": [
+        "自由な",
+        "義務付けられた",
+        "許可された",
+        "奨励された"
+      ],
+      "correctAnswer": "義務付けられた",
+      "explanation": "「obligated」は、義務付けられた、〜しなければならないという意味です。道徳的または法的な義務がある状態を指します。be obligated to do somethingの形でよく使われます。「I felt obligated to help her.（彼女を助けなければならないと感じた）」のように使われます。"
+    },
+    {
+      "id": 72,
+      "value": "disappointed",
+      "options": [
+        "喜んでいる",
+        "がっかりしている",
+        "興奮している",
+        "満足している"
+      ],
+      "correctAnswer": "がっかりしている",
+      "explanation": "「disappointed」は、がっかりしている、失望しているという意味の形容詞です。期待していたことが実現しなかったときに感じる感情を表します。「I was disappointed that the movie was so bad.（その映画があまりにもひどかったのでがっかりした）」のように使われます。"
+    },
+    {
+      "id": 73,
+      "value": "work with",
+      "options": [
+        "反抗する",
+        "うまくいく",
+        "競争する",
+        "失敗する"
+      ],
+      "correctAnswer": "うまくいく",
+      "explanation": "「work with」は、〜とうまくいく、協力するという意味です。人間関係や物事が順調に進む状況を表します。「I hope things will work out with him.（彼とうまくいくといいな）」のように使われます。"
+    },
+    {
+      "id": 74,
+      "value": "sneaking",
+      "options": [
+        "堂々と",
+        "こっそりと",
+        "大声で",
+        "公然と"
+      ],
+      "correctAnswer": "こっそりと",
+      "explanation": "「sneak」は、こっそり動く、忍び寄るという意味の動詞です。隠れて行動する様子を表します。「He snuck into the house late at night. (彼は夜遅くにこっそりと家に入った)」のように使われます。"
+    },
+    {
+      "id": 75,
+      "value": "using the facilities",
+      "options": [
+        "運動する",
+        "トイレに行く",
+        "食事をする",
+        "休憩する"
+      ],
+      "correctAnswer": "トイレに行く",
+      "explanation": "「use the facilities」は、トイレに行くという意味の婉曲的な表現です。公共の場などで直接的な表現を避けるために使われます。the facilities は、ここではトイレを指します。"
+    },
+    {
+      "id": 76,
+      "value": "keen insight",
+      "options": [
+        "鋭い洞察力",
+        "奇妙な考え",
+        "漠然とした知識",
+        "誤った判断"
+      ],
+      "correctAnswer": "鋭い洞察力",
+      "explanation": "「keen insight」は、物事の本質や真相を鋭く見抜く能力を指します。深い理解と観察眼が必要とされ、人の心を理解する際にも使われます。ビジネスや人間関係など、様々な場面で役立つ資質です。\n\n例：She has a keen insight into market trends. (彼女は市場の動向に対する鋭い洞察力を持っている。)"
+    },
+    {
+      "id": 77,
+      "value": "bumper sticker",
+      "options": [
+        "携帯電話",
+        "バンパーステッカー",
+        "車のハンドル",
+        "交通標識"
+      ],
+      "correctAnswer": "バンパーステッカー",
+      "explanation": "「bumper sticker」は、自動車のバンパーに貼るステッカーのことです。政治的なメッセージやユーモラスな言葉が書かれていることが多く、所有者の意見や趣味を表現する手段として用いられます。\n\n例：The car had a bumper sticker that read 'Save the Whales'. (その車には「クジラを救え」と書かれたバンパーステッカーが貼られていた。)"
+    },
+    {
+      "id": 78,
+      "value": "doubt",
+      "options": [
+        "信じる",
+        "疑う",
+        "知っている",
+        "希望する"
+      ],
+      "correctAnswer": "疑う",
+      "explanation": "「doubt」は、何かが真実であるかどうか、または起こるかどうかを疑うという意味です。確信が持てない状態を表し、不確かさや不信感を含みます。\n\n例：I doubt that he will come. (彼が来るとは思えない。)"
+    },
+    {
+      "id": 79,
+      "value": "went so badly",
+      "options": [
+        "非常に良く行った",
+        "とても悪く行った",
+        "普通に終わった",
+        "全く行かなかった"
+      ],
+      "correctAnswer": "とても悪く行った",
+      "explanation": "「went so badly」は、物事が非常に悪い結果になった、うまくいかなかったという意味です。関係、イベント、または試みが失敗に終わった状況を表します。\n\n例：The meeting went so badly that everyone left angry. (会議は非常に悪い結果に終わり、皆が怒って帰った。)"
+    },
+    {
+      "id": 80,
+      "value": "grown-ups",
+      "options": [
+        "子供達",
+        "大人たち",
+        "ペットたち",
+        "植物たち"
+      ],
+      "correctAnswer": "大人たち",
+      "explanation": "「grown-ups」は、子供ではなく、成熟した大人を指す言葉です。責任を持ち、理性的な判断ができる人を意味することが多いです。\n\n例：The grown-ups were discussing serious matters. (大人たちは深刻な問題を議論していた。)"
+    },
+    {
+      "id": 81,
+      "value": "vengeful",
+      "options": [
+        "親切な",
+        "復讐心の強い",
+        "寛容な",
+        "友好的な"
+      ],
+      "correctAnswer": "復讐心の強い",
+      "explanation": "「vengeful」は、復讐を強く望む、または復讐心に燃えているという意味です。過去の恨みを忘れず、相手に報復しようとする気持ちを表します。\n\n例：She was a vengeful woman after being betrayed. (彼女は裏切られた後、復讐心の強い女性になった。)"
+    },
+    {
+      "id": 82,
+      "value": "weaponised",
+      "options": [
+        "武器化された",
+        "平和的な",
+        "装飾された",
+        "安全な"
+      ],
+      "correctAnswer": "武器化された",
+      "explanation": "「weaponized」は、何かを武器として使用できるように改造または利用することを意味します。通常、軍事的な文脈で使用されますが、比喩的に、議論や戦略など、他の分野でも使用されることがあります。\n\n例：The virus was weaponized for biological warfare. (そのウイルスは生物兵器として武器化された。)"
+    },
+    {
+      "id": 83,
+      "value": "get you going",
+      "options": [
+        "あなたを止める",
+        "あなたを始める",
+        "あなたを混乱させる",
+        "あなたを無視する"
+      ],
+      "correctAnswer": "あなたを始める",
+      "explanation": "「get you going」は、物事を始める、または始動させるという意味です。ここでは、飲み物を提供して会話を始める、という意味合いで使われています。\n\n例：Let me get you going with a cup of coffee. (コーヒーを一杯お持ちして、始めましょう。)"
+    },
+    {
+      "id": 84,
+      "value": "work out",
+      "options": [
+        "運動する",
+        "解決する",
+        "うまくいかない",
+        "計算する"
+      ],
+      "correctAnswer": "うまくいかない",
+      "explanation": "「work out」は、計画通りに進む、成功するという意味の他に、ここでは「（関係が）うまくいかない」という意味で使われています。問題が解決しない、または期待通りにならない状況を表します。\n\n例：Things didn't work out as planned. (物事は計画通りにはうまくいかなかった。)"
+    },
+    {
+      "id": 85,
+      "value": "have feelings for",
+      "options": [
+        "嫌悪感を抱く",
+        "好意を抱く",
+        "無関心である",
+        "軽蔑する"
+      ],
+      "correctAnswer": "好意を抱く",
+      "explanation": "「have feelings for」は、誰かに対して恋愛感情や好意を持っていることを意味します。単なる友情以上の感情を抱いている状態を表します。\n\n例：I still have feelings for her. (私はまだ彼女に好意を抱いている。)"
+    },
+    {
+      "id": 86,
+      "value": "dog with a bone",
+      "options": [
+        "骨をくわえた犬",
+        "諦めない人",
+        "臆病な人",
+        "幸せな人"
+      ],
+      "correctAnswer": "諦めない人",
+      "explanation": "「dog with a bone」は、一度何かを掴むと決して諦めない人、という意味のイディオムです。粘り強く、根気強い性格を表します。\n\n例：He's like a dog with a bone when he's working on a project. (彼はプロジェクトに取り組んでいる時は、骨をくわえた犬のように諦めない。)"
+    },
+    {
+      "id": 87,
+      "value": "let something go",
+      "options": [
+        "何かを始める",
+        "何かを手放す",
+        "何かを隠す",
+        "何かを掴む"
+      ],
+      "correctAnswer": "何かを手放す",
+      "explanation": "「let something go」は、何かを諦める、または過去の出来事や感情から解放されるという意味です。執着を手放し、前に進むことを示唆します。\n\n例：You need to let go of the past. (過去を手放す必要がある。)"
+    },
+    {
+      "id": 88,
+      "value": "hang on",
+      "options": [
+        "諦める",
+        "待つ",
+        "出発する",
+        "座る"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、少し待つ、という意味で使われる口語表現です。電話を切らないで待つ場合や、相手に少しの間待ってほしい時に使います。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐに戻る。)"
+    },
+    {
+      "id": 89,
+      "value": "on-again, off-again",
+      "options": [
+        "始まったばかりの",
+        "再開と中断を繰り返す",
+        "終わったばかりの",
+        "安定した"
+      ],
+      "correctAnswer": "再開と中断を繰り返す",
+      "explanation": "「on-again, off-again」は、関係が再開と中断を繰り返す、不安定な状態を指します。特に恋愛関係でよく使われます。\n\n例：They have an on-again, off-again relationship. (彼らは再開と中断を繰り返す関係にある。)"
+    },
+    {
+      "id": 90,
+      "value": "tool bag",
+      "options": [
+        "道具箱",
+        "愚か者",
+        "賢者",
+        "リーダー"
+      ],
+      "correctAnswer": "愚か者",
+      "explanation": "「tool bag」は、人を侮辱する言葉で、愚か者や嫌な奴という意味です。非常に非公式で、攻撃的なニュアンスがあります。\n\n例：Don't be such a tool bag. (そんな馬鹿なことをするな。)"
+    },
+    {
+      "id": 91,
+      "value": "stand here and take this crap",
+      "options": [
+        "ここで休憩する",
+        "こんなくだらないことを我慢する",
+        "ここで称賛を受ける",
+        "ここで踊る"
+      ],
+      "correctAnswer": "こんなくだらないことを我慢する",
+      "explanation": "「stand here and take this crap」は、不当な扱いを受け入れることを拒否するという意味です。侮辱や不快な状況に対して、これ以上我慢しないという強い意志を示します。\n\n例：I don't have to stand here and take this crap from you. (私はあなたからこんなひどい扱いを受ける必要はない。)"
+    },
+    {
+      "id": 92,
+      "value": "The hell do you think you're going?",
+      "options": [
+        "どこに行くか気にしない",
+        "どこに行くつもりだ?",
+        "どこに行ったか知っている",
+        "どこに行くべきか教える"
+      ],
+      "correctAnswer": "どこに行くつもりだ?",
+      "explanation": "「The hell do you think you're going?」は、相手の行動に強い不快感や怒りを示し、どこへ行こうとしているのかを詰問する表現です。相手の行動を強く非難するニュアンスが含まれます。\n\n例：Hey! The hell do you think you're going with my car?! (おい！私の車でどこへ行こうとしてるんだ？！)"
+    },
+    {
+      "id": 93,
+      "value": "play out",
+      "options": [
+        "演奏する",
+        "実現する",
+        "隠す",
+        "無視する"
+      ],
+      "correctAnswer": "実現する",
+      "explanation": "「play out」は、出来事が起こる、展開するという意味です。ここでは、様々な状況が最終的にどのように終わるかを想像していることを指します。\n\n例：Let's see how things play out. (事態がどのように展開するか見てみましょう。)"
+    },
+    {
+      "id": 94,
+      "value": "overthink",
+      "options": [
+        "考えすぎ",
+        "考えない",
+        "正しく考える",
+        "深く考える"
+      ],
+      "correctAnswer": "考えすぎ",
+      "explanation": "「overthink」は、物事を必要以上に深く考えすぎるという意味です。心配や不安から、考えすぎて身動きが取れなくなる状態を表します。\n\n例：Don't overthink it, just do it. (考えすぎないで、とにかくやってみて。)"
+    },
+    {
+      "id": 95,
+      "value": "badass",
+      "options": [
+        "臆病者",
+        "タフな人",
+        "優しい人",
+        "退屈な人"
+      ],
+      "correctAnswer": "タフな人",
+      "explanation": "「badass」は、非常にタフで、反抗的で、魅力的な人を指すスラングです。勇敢で恐れを知らない性格を表します。\n\n例：He's a total badass. (彼は完全にタフなやつだ。)"
+    },
+    {
+      "id": 96,
+      "value": "give him a shot",
+      "options": [
+        "彼を無視する",
+        "彼にチャンスを与える",
+        "彼を批判する",
+        "彼を避ける"
+      ],
+      "correctAnswer": "彼にチャンスを与える",
+      "explanation": "「give him a shot」は、彼に試す機会を与える、という意味です。新しいことや人に挑戦する際に使われます。\n\n例：I'll give it a shot. (試しにやってみます。)"
+    },
+    {
+      "id": 97,
+      "value": "thought this through",
+      "options": [
+        "深く考えた",
+        "全く考えなかった",
+        "間違って考えた",
+        "少しだけ考えた"
+      ],
+      "correctAnswer": "深く考えた",
+      "explanation": "「think something through」は、何かを徹底的に、詳細に検討することを意味します。計画や決定をする前に、すべての側面を考慮することを指します。\n\n例：Have you thought this through carefully? (これを注意深く考えましたか？)"
+    },
+    {
+      "id": 98,
+      "value": "insecure",
+      "options": [
+        "安全な",
+        "不安な",
+        "自信のある",
+        "幸せな"
+      ],
+      "correctAnswer": "不安な",
+      "explanation": "「insecure」は、自信がない、不安を感じるという意味です。自分の能力や価値に疑念を抱いている状態を表します。\n\n例：She felt insecure about her appearance. (彼女は自分の外見に不安を感じていた。)"
+    },
+    {
+      "id": 99,
+      "value": "stop by",
+      "options": [
+        "立ち寄る",
+        "出発する",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "立ち寄る",
+      "explanation": "「stop by」は、どこかに短時間立ち寄るという意味です。気軽に訪問するニュアンスがあります。\n\n例：I'll stop by your office tomorrow. (明日あなたのオフィスに立ち寄ります。)"
+    },
+    {
+      "id": 100,
+      "value": "lawful wedded husband",
+      "options": [
+        "不法な夫",
+        "法律上の夫",
+        "仮の夫",
+        "未来の夫"
+      ],
+      "correctAnswer": "法律上の夫",
+      "explanation": "「lawful wedded husband」は、法律にのっとって結婚した正式な夫という意味です。結婚の誓いの言葉でよく使われます。\n\n例：I now pronounce you husband and wife. (ここに、お二人が夫婦であることを宣言します。)"
+    }
+  ]
+}

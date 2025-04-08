@@ -1,0 +1,1108 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "post-mortem",
+      "options": [
+        "死後の",
+        "誕生前の",
+        "人生の",
+        "病気の"
+      ],
+      "correctAnswer": "死後の",
+      "explanation": "「post-mortem」は「死後の」という意味です。医学や法律の分野で、死因究明のための検死などを指す際によく用いられます。ここでは、死後の世界に関する比喩表現として使われています。\n\n例：a post-mortem examination (死後検査)"
+    },
+    {
+      "id": 2,
+      "value": "neuron-induced",
+      "options": [
+        "筋肉によって誘発された",
+        "神経細胞によって誘発された",
+        "感情によって誘発された",
+        "環境によって誘発された"
+      ],
+      "correctAnswer": "神経細胞によって誘発された",
+      "explanation": "「neuron-induced」は「神経細胞によって誘発された」という意味です。ここでは、脳内の神経活動によって引き起こされる幻覚を指しています。\n\n例：neuron-induced pain (神経因性疼痛)"
+    },
+    {
+      "id": 3,
+      "value": "mistaken as",
+      "options": [
+        "改善される",
+        "同一視される",
+        "隠される",
+        "無視される"
+      ],
+      "correctAnswer": "同一視される",
+      "explanation": "「mistaken as」は「～と間違われる、～と誤解される」という意味です。あるものが別のものと誤って認識される状況を表します。\n\n例：His kindness was mistaken as weakness. (彼の優しさは弱さと誤解された。)"
+    },
+    {
+      "id": 4,
+      "value": "pill caddie",
+      "options": [
+        "薬箱",
+        "ピルケース",
+        "薬瓶",
+        "サプリメント"
+      ],
+      "correctAnswer": "ピルケース",
+      "explanation": "「pill caddie」は「ピルケース、薬入れ」という意味です。薬を整理・保管するための容器を指します。"
+    },
+    {
+      "id": 5,
+      "value": "state of mind",
+      "options": [
+        "心の状態",
+        "体の状態",
+        "経済状況",
+        "社会情勢"
+      ],
+      "correctAnswer": "心の状態",
+      "explanation": "「state of mind」は「心の状態、精神状態」という意味です。人の感情、気分、考え方などを指します。\n\n例：He's not in the right state of mind to make that decision. (彼はその決断をするのにふさわしい精神状態ではない。)"
+    },
+    {
+      "id": 6,
+      "value": "butter me up",
+      "options": [
+        "私を太らせる",
+        "私を喜ばせる",
+        "私を油で揚げる",
+        "私を甘やかす"
+      ],
+      "correctAnswer": "私を喜ばせる",
+      "explanation": "「butter someone up」は「（人）におべっかを使う、ご機嫌を取る」という意味のイディオムです。何かを頼む前に、相手を褒めたり、親切にしたりして、良い気分にさせることを指します。\n\n例：He tried to butter me up, but I knew he just wanted a favor. (彼は私におべっかを使おうとしたが、私には彼が何か頼みごとをしたいだけだとわかっていた。)"
+    },
+    {
+      "id": 7,
+      "value": "strained",
+      "options": [
+        "途絶えた",
+        "緊張した",
+        "緩和された",
+        "安定した"
+      ],
+      "correctAnswer": "緊張した",
+      "explanation": "「strained」は「緊張した、ぎこちない」という意味です。人間関係や状況が、ストレスや困難によって悪化している状態を表します。\n\n例：strained relations (ぎくしゃくした関係)"
+    },
+    {
+      "id": 8,
+      "value": "reaching out",
+      "options": [
+        "手を伸ばす",
+        "連絡を取る",
+        "逃げる",
+        "隠れる"
+      ],
+      "correctAnswer": "連絡を取る",
+      "explanation": "「reach out」は「連絡を取る、働きかける」という意味です。助けを求めたり、関係を築こうとしたりする際に使われます。\n\n例：I'm reaching out to you for help with this project. (このプロジェクトであなたの助けを求めて連絡しています。)"
+    },
+    {
+      "id": 9,
+      "value": "top ten",
+      "options": [
+        "最下位",
+        "上位10位",
+        "平均",
+        "圏外"
+      ],
+      "correctAnswer": "上位10位",
+      "explanation": "「top ten」は「上位10位」という意味です。ランキングなどで上位を示す際に使われます。ここでは、皮肉を込めて、7番目の選択肢であることを強調しています。"
+    },
+    {
+      "id": 10,
+      "value": "abandoned",
+      "options": [
+        "保護された",
+        "見捨てられた",
+        "招待された",
+        "尊敬された"
+      ],
+      "correctAnswer": "見捨てられた",
+      "explanation": "「abandoned」は「見捨てられた、放棄された」という意味です。人や場所、物を置き去りにする、または支援や保護を打ち切る状態を表します。\n\n例：an abandoned building (廃墟)"
+    },
+    {
+      "id": 11,
+      "value": "rub in his face",
+      "options": [
+        "彼の顔を洗う",
+        "彼を困らせる",
+        "彼に自慢する",
+        "彼を励ます"
+      ],
+      "correctAnswer": "彼に自慢する",
+      "explanation": "「rub it in (someone's) face」は「（人）に自慢する、嫌味を言う」という意味のイディオムです。相手の失敗や不幸を強調して、優越感を示す行為を指します。\n\n例：I know I made a mistake, there's no need to rub it in. (間違えたのは分かってるから、そんなに嫌味を言わなくてもいい。)"
+    },
+    {
+      "id": 12,
+      "value": "all the rage",
+      "options": [
+        "とても人気がある",
+        "全く人気がない",
+        "怒っている",
+        "冷静である"
+      ],
+      "correctAnswer": "とても人気がある",
+      "explanation": "「all the rage」は「大流行している、非常に人気がある」という意味のイディオムです。一時的な流行や人気を表す際に使われます。\n\n例：Selfies are all the rage these days. (最近は自撮りが大流行している。)"
+    },
+    {
+      "id": 13,
+      "value": "roomie",
+      "options": [
+        "ルームメイト",
+        "旅行者",
+        "掃除人",
+        "訪問者"
+      ],
+      "correctAnswer": "ルームメイト",
+      "explanation": "「roomie」は「ルームメイト」の略式表現です。親しい間柄で使われることが多いです。"
+    },
+    {
+      "id": 14,
+      "value": "get us out of his hair",
+      "options": [
+        "私たちを彼の髪から取り除く",
+        "私たちを彼から遠ざける",
+        "私たちを彼から解放する",
+        "私たちを彼の悩みから解放する"
+      ],
+      "correctAnswer": "私たちを彼から解放する",
+      "explanation": "「get someone out of one's hair」は「（人）を煩わしく思わないようにする、手を焼かせないようにする」という意味のイディオムです。誰かが邪魔にならないようにすることを表します。\n\n例：I need to get this project done so I can get my boss out of my hair. (このプロジェクトを終わらせて、上司に煩わされないようにしたい。)"
+    },
+    {
+      "id": 15,
+      "value": "versus",
+      "options": [
+        "賛成",
+        "反対",
+        "類似",
+        "協力"
+      ],
+      "correctAnswer": "反対",
+      "explanation": "「versus」は「～対～」という意味です。対立する関係や競争を表す際に使われます。略して「vs.」と表記されることもあります。\n\n例：Archie versus Predator (アーチー対プレデター)"
+    },
+    {
+      "id": 16,
+      "value": "staying in business vibe",
+      "options": [
+        "閉店の雰囲気",
+        "開店の雰囲気",
+        "事業継続の雰囲気",
+        "倒産の雰囲気"
+      ],
+      "correctAnswer": "事業継続の雰囲気",
+      "explanation": "「staying in business vibe」は「事業を継続している雰囲気」という意味です。店が活気があり、繁盛している様子を指します。"
+    },
+    {
+      "id": 17,
+      "value": "genre",
+      "options": [
+        "種類",
+        "場所",
+        "時間",
+        "人"
+      ],
+      "correctAnswer": "種類",
+      "explanation": "「genre」は「ジャンル、種類」という意味です。音楽、映画、文学などの芸術作品の分類に使われます。\n\n例：What genre of music do you like? (どんなジャンルの音楽が好きですか？)"
+    },
+    {
+      "id": 18,
+      "value": "acoustic",
+      "options": [
+        "電気の",
+        "騒音の",
+        "アコースティックの",
+        "電子の"
+      ],
+      "correctAnswer": "アコースティックの",
+      "explanation": "「acoustic」は「アコースティックの、電気を使わない」という意味です。楽器や音楽の演奏方法を指すことが多いです。\n\n例：acoustic guitar (アコースティックギター)"
+    },
+    {
+      "id": 19,
+      "value": "approximation",
+      "options": [
+        "近似",
+        "正確",
+        "相違",
+        "詳細"
+      ],
+      "correctAnswer": "近似",
+      "explanation": "「approximation」は「近似、概算」という意味です。正確な値や結果に近いものを指します。\n\n例：an approximation of the cost (費用の概算)"
+    },
+    {
+      "id": 20,
+      "value": "hallucination",
+      "options": [
+        "現実",
+        "幻覚",
+        "記憶",
+        "夢"
+      ],
+      "correctAnswer": "幻覚",
+      "explanation": "「hallucination」は「幻覚」という意味です。実際には存在しないものを知覚する状態を指します。\n\n例：He suffered from hallucinations due to the drug. (彼は薬のせいで幻覚に苦しんだ。)"
+    },
+    {
+      "id": 21,
+      "value": "closet space",
+      "options": [
+        "クローゼットの広さ",
+        "庭の広さ",
+        "部屋の広さ",
+        "収納スペース"
+      ],
+      "correctAnswer": "クローゼットの広さ",
+      "explanation": "「closet space」は「クローゼットのスペース、収納スペース」という意味です。衣類や物を収納するための場所を指します。"
+    },
+    {
+      "id": 22,
+      "value": "delivering bad news",
+      "options": [
+        "良い知らせを届ける",
+        "悪い知らせを届ける",
+        "手紙を配達する",
+        "プレゼントを贈る"
+      ],
+      "correctAnswer": "悪い知らせを届ける",
+      "explanation": "「deliver bad news」は「悪い知らせを伝える」という意味です。人に不快な情報や悲しい出来事を伝えることを指します。\n\n例：It's never easy to deliver bad news. (悪い知らせを伝えるのは決して簡単ではない。)"
+    },
+    {
+      "id": 23,
+      "value": "bible study",
+      "options": [
+        "聖書研究",
+        "科学研究",
+        "歴史研究",
+        "経済研究"
+      ],
+      "correctAnswer": "聖書研究",
+      "explanation": "「bible study」は「聖書研究会」という意味です。聖書の内容を深く理解するために集まって議論する会を指します。"
+    },
+    {
+      "id": 24,
+      "value": "book tour",
+      "options": [
+        "読書旅行",
+        "書店巡り",
+        "本の宣伝ツアー",
+        "図書館訪問"
+      ],
+      "correctAnswer": "本の宣伝ツアー",
+      "explanation": "「book tour」は「本の宣伝ツアー」という意味です。著者が新刊の宣伝のために各地を訪問し、サイン会や講演会を行うことを指します。"
+    },
+    {
+      "id": 25,
+      "value": "vibe",
+      "options": [
+        "雰囲気",
+        "騒音",
+        "振動",
+        "色"
+      ],
+      "correctAnswer": "雰囲気",
+      "explanation": "「vibe」は「雰囲気、感じ」という意味です。特定の場所や状況から感じる気分や感情を表します。\n\n例：This place has a good vibe. (ここは雰囲気が良い。)"
+    },
+    {
+      "id": 26,
+      "value": "sitting on",
+      "options": [
+        "提案する",
+        "保留にする",
+        "秘密にする",
+        "実行する"
+      ],
+      "correctAnswer": "保留にする",
+      "explanation": "「sitting on」は、何かを保留にする、特にアイデアや情報などをしばらくの間、発表せずに持っているという意味です。例文：He's been sitting on this idea for years, waiting for the right moment to launch it. (彼はこのアイデアを何年も保留にしていて、発表するのに最適な瞬間を待っている。)"
+    },
+    {
+      "id": 27,
+      "value": "put together",
+      "options": [
+        "分解する",
+        "組み立てる",
+        "無視する",
+        "盗む"
+      ],
+      "correctAnswer": "組み立てる",
+      "explanation": "「put together」は、何かを組み立てる、組織する、またはグループを結成するという意味です。例文：She put together a team of experts to tackle the problem.(彼女はその問題に取り組むために専門家チームを編成した。)"
+    },
+    {
+      "id": 28,
+      "value": "get stuck with",
+      "options": [
+        "交換する",
+        "嫌がる",
+        "押し付けられる",
+        "手放す"
+      ],
+      "correctAnswer": "押し付けられる",
+      "explanation": "「get stuck with」は、望まないものや状況に陥る、または押し付けられるという意味です。例文：If you don't choose quickly, you might get stuck with the worst option. (早く選ばないと、最悪の選択肢を押し付けられるかもしれない。)"
+    },
+    {
+      "id": 29,
+      "value": "in perpetuity",
+      "options": [
+        "一時的に",
+        "永遠に",
+        "部分的に",
+        "秘密裏に"
+      ],
+      "correctAnswer": "永遠に",
+      "explanation": "「in perpetuity」は、永遠に、永久にという意味です。法的な文脈や、権利などが永続的に続くことを示す際に用いられます。例文：The land was donated to the park in perpetuity. (その土地は公園に永久に寄贈された。)"
+    },
+    {
+      "id": 30,
+      "value": "the matter",
+      "options": [
+        "どうした",
+        "問題点",
+        "関係ない",
+        "解決策"
+      ],
+      "correctAnswer": "どうした",
+      "explanation": "「What's the matter?」は、相手に何か問題があるか、心配事があるかを尋ねる際の一般的な表現です。「どうしたの？」という意味になります。例文：You look upset. What's the matter? (悲しそうに見えるね。どうしたの？)"
+    },
+    {
+      "id": 31,
+      "value": "epic proportions",
+      "options": [
+        "標準的な大きさ",
+        "壮大な規模",
+        "小さな割合",
+        "予測可能な結果"
+      ],
+      "correctAnswer": "壮大な規模",
+      "explanation": "「epic proportions」は、非常に大規模で、歴史に残るような規模や重要性を持つことを意味します。例文：The storm reached epic proportions, causing widespread damage. (その嵐は壮大な規模に達し、広範囲にわたる被害をもたらした。)"
+    },
+    {
+      "id": 32,
+      "value": "blew my mind",
+      "options": [
+        "安心した",
+        "混乱した",
+        "感銘を受けた",
+        "退屈した"
+      ],
+      "correctAnswer": "感銘を受けた",
+      "explanation": "「blow someone's mind」は、人に非常に強い衝撃や感動を与えるという意味です。信じられないほど素晴らしい、または驚くべき何かに遭遇したときに使われます。例文：The special effects in that movie blew my mind. (あの映画の特殊効果には本当に感動した。)"
+    },
+    {
+      "id": 33,
+      "value": "Hang on.",
+      "options": [
+        "諦める",
+        "頑張る",
+        "ちょっと待って",
+        "手放す"
+      ],
+      "correctAnswer": "ちょっと待って",
+      "explanation": "「Hang on」は、相手に少し待つように伝える一般的な表現です。電話で「お待ちください」という意味でも使われます。例文：Hang on a second, I'll be right back. (ちょっと待ってて、すぐ戻るよ。)"
+    },
+    {
+      "id": 34,
+      "value": "melt people’s faces off",
+      "options": [
+        "人を怒らせる",
+        "人を魅了する",
+        "人を混乱させる",
+        "人を怖がらせる"
+      ],
+      "correctAnswer": "人を魅了する",
+      "explanation": "「melt people's faces off」は、スラングで、非常に刺激的でエキサイティングなパフォーマンスや音楽を指します。文字通りに解釈せず、比喩的な表現として理解する必要があります。例文：Their guitar solo was so intense, it would melt your face off. (彼らのギターソロは非常に強烈で、聴衆を圧倒するだろう。)"
+    },
+    {
+      "id": 35,
+      "value": "periodic table",
+      "options": [
+        "九九",
+        "元素周期表",
+        "ピタゴラスの定理",
+        "憲法"
+      ],
+      "correctAnswer": "元素周期表",
+      "explanation": "The periodic table is a tabular display of the chemical elements, which are arranged by atomic number, electron configuration, and recurring chemical properties. (元素周期表は、化学元素を原子番号、電子配置、および再発する化学的特性によって配列した表です。)"
+    },
+    {
+      "id": 36,
+      "value": "too big for its britches",
+      "options": [
+        "服が大きすぎる",
+        "自信過剰である",
+        "謙虚である",
+        "服を着ていない"
+      ],
+      "correctAnswer": "自信過剰である",
+      "explanation": "\"Too big for one's britches\" is an idiom that describes someone who is arrogant or has an inflated sense of their own importance. (「Too big for one's britches」とは、傲慢であったり、自分の重要性を過大評価したりする人を表すイディオムです。)"
+    },
+    {
+      "id": 37,
+      "value": "attitude problem",
+      "options": [
+        "性格が良い",
+        "態度の問題",
+        "体調不良",
+        "コミュニケーション能力が高い"
+      ],
+      "correctAnswer": "態度の問題",
+      "explanation": "\"Attitude problem\" refers to a negative or uncooperative disposition that someone displays. (「態度の問題」とは、誰かが示す否定的または非協力的な気質を指します。)"
+    },
+    {
+      "id": 38,
+      "value": "frontrunner",
+      "options": [
+        "失格者",
+        "最有力候補",
+        "傍観者",
+        "初心者"
+      ],
+      "correctAnswer": "最有力候補",
+      "explanation": "The frontrunner is the person or thing that is most likely to win a competition or election. (フロントランナーとは、競争や選挙で最も勝ちそうな人または物です。)"
+    },
+    {
+      "id": 39,
+      "value": "acknowledge",
+      "options": [
+        "無視する",
+        "認める",
+        "隠す",
+        "否定する"
+      ],
+      "correctAnswer": "認める",
+      "explanation": "\"Acknowledge\" means to accept or admit the truth or existence of something. (「認める」とは、何かの真実または存在を受け入れるまたは認めることを意味します。)"
+    },
+    {
+      "id": 40,
+      "value": "subsection",
+      "options": [
+        "前書き",
+        "小見出し",
+        "結論",
+        "参考文献"
+      ],
+      "correctAnswer": "小見出し",
+      "explanation": "\"Subsection\" is a part of a section, especially in a formal document. (「小見出し」とは、セクションの一部であり、特に正式な文書で使われます。)"
+    },
+    {
+      "id": 41,
+      "value": "confirm",
+      "options": [
+        "反対する",
+        "確認する",
+        "疑う",
+        "否定する"
+      ],
+      "correctAnswer": "確認する",
+      "explanation": "\"Confirm\" means to state with assurance that something is true. (「確認する」とは、何かが真実であることを保証して述べることを意味します。)"
+    },
+    {
+      "id": 42,
+      "value": "transfer",
+      "options": [
+        "破壊する",
+        "移転する",
+        "維持する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "移転する",
+      "explanation": "\"Transfer\" means to move something from one place to another. (「移転する」とは、何かをある場所から別の場所へ移動させることを意味します。)"
+    },
+    {
+      "id": 43,
+      "value": "in general",
+      "options": [
+        "具体的に",
+        "一般的に",
+        "詳細に",
+        "部分的に"
+      ],
+      "correctAnswer": "一般的に",
+      "explanation": "\"In general\" means usually or in most cases. (「一般的に」とは、通常またはほとんどの場合にという意味です。)"
+    },
+    {
+      "id": 44,
+      "value": "standard questions",
+      "options": [
+        "個人的な質問",
+        "標準的な質問",
+        "高度な質問",
+        "無関係な質問"
+      ],
+      "correctAnswer": "標準的な質問",
+      "explanation": "\"Standard questions\" are questions that are commonly asked in a particular context. (「標準的な質問」とは、特定の状況でよく尋ねられる質問です。)"
+    },
+    {
+      "id": 45,
+      "value": "get chills",
+      "options": [
+        "感動する",
+        "寒気を感じる",
+        "興奮する",
+        "退屈する"
+      ],
+      "correctAnswer": "感動する",
+      "explanation": "\"Get chills\" means to have a sudden feeling of cold, often accompanied by shivering, usually due to illness or fear. However, in this context, it means to be thrilled or excited. (通常は病気や恐怖のために、震えを伴う突然の寒気を感じることを意味します。しかし、この文脈では、感動または興奮するという意味です。)"
+    },
+    {
+      "id": 46,
+      "value": "crossover",
+      "options": [
+        "交差点",
+        "融合",
+        "分離",
+        "対立"
+      ],
+      "correctAnswer": "融合",
+      "explanation": "\"Crossover\" means a combination of different styles, genres, or elements. (「クロスオーバー」とは、異なるスタイル、ジャンル、または要素の組み合わせを意味します。)"
+    },
+    {
+      "id": 47,
+      "value": "untold story",
+      "options": [
+        "真実の物語",
+        "語られていない物語",
+        "作り話",
+        "有名な物語"
+      ],
+      "correctAnswer": "語られていない物語",
+      "explanation": "\"Untold story\" refers to a story that has not been narrated or revealed before. (「語られていない物語」とは、以前に語られたり明らかにされたりしていない物語を指します。)"
+    },
+    {
+      "id": 48,
+      "value": "raise",
+      "options": [
+        "下げる",
+        "上げる",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "上げる",
+      "explanation": "\"Raise\" means to lift or move to a higher position or level. (「上げる」とは、より高い位置またはレベルに持ち上げるまたは移動させることを意味します。)"
+    },
+    {
+      "id": 49,
+      "value": "mighty",
+      "options": [
+        "弱い",
+        "強力な",
+        "小さな",
+        "静かな"
+      ],
+      "correctAnswer": "強力な",
+      "explanation": "\"Mighty\" means possessing great power or strength. (「強力な」とは、大きな力または強さを持っていることを意味します。)"
+    },
+    {
+      "id": 50,
+      "value": "get away with",
+      "options": [
+        "捕まる",
+        "逃れる",
+        "失敗する",
+        "後悔する"
+      ],
+      "correctAnswer": "逃れる",
+      "explanation": "\"Get away with\" means to do something wrong or illegal and not be punished for it. (「逃れる」とは、何か間違ったことや違法なことを行い、それに対して罰せられないことを意味します。)"
+    },
+    {
+      "id": 51,
+      "value": "phoney",
+      "options": [
+        "本物の",
+        "偽の",
+        "賢い",
+        "面白い"
+      ],
+      "correctAnswer": "偽の",
+      "explanation": "「phoney」は「偽の」「見せかけの」という意味で、人に対して使う場合は、誠実さや信頼性に欠ける人を指します。ハリウッドスターに対して使うことで、その軽薄さを強調しています。\n\n例：He's a phoney character. (彼は偽りの人物だ。)"
+    },
+    {
+      "id": 52,
+      "value": "disengaged from",
+      "options": [
+        "熱中している",
+        "関係がある",
+        "無関心である",
+        "興奮している"
+      ],
+      "correctAnswer": "無関心である",
+      "explanation": "「disengaged from」は、「～から離れている」「～に関与していない」という意味です。感情から切り離されている状態を表します。\n\n例：He felt disengaged from the conversation. (彼は会話に無関心だった。)"
+    },
+    {
+      "id": 53,
+      "value": "content",
+      "options": [
+        "不満",
+        "幸福",
+        "悲しみ",
+        "怒り"
+      ],
+      "correctAnswer": "幸福",
+      "explanation": "「content」は「満足している」「満ち足りている」という意味です。現状に満足している状態を表します。\n\n例：She was content with her life. (彼女は自分の人生に満足していた。)"
+    },
+    {
+      "id": 54,
+      "value": "jerk",
+      "options": [
+        "賢者",
+        "英雄",
+        "嫌なやつ",
+        "友人"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「jerk」は「嫌なやつ」「つまらないやつ」という意味です。人を侮辱する言葉として使われます。\n\n例：Don't be such a jerk! (そんな嫌なやつになるな！)"
+    },
+    {
+      "id": 55,
+      "value": "vulnerable",
+      "options": [
+        "安全な",
+        "強い",
+        "傷つきやすい",
+        "独立した"
+      ],
+      "correctAnswer": "傷つきやすい",
+      "explanation": "「vulnerable」は「傷つきやすい」「脆弱な」という意味です。精神的、感情的に弱い状態を表します。\n\n例：Children are more vulnerable to diseases. (子供たちは病気にかかりやすい。)"
+    },
+    {
+      "id": 56,
+      "value": "delusional",
+      "options": [
+        "現実的な",
+        "賢明な",
+        "妄想的な",
+        "冷静な"
+      ],
+      "correctAnswer": "妄想的な",
+      "explanation": "「delusional」は「妄想的な」「錯覚している」という意味です。現実を正しく認識できていない状態を表します。\n\n例：He's delusional if he thinks he can win. (彼が勝てると思っているなら妄想だ。)"
+    },
+    {
+      "id": 57,
+      "value": "premises",
+      "options": [
+        "家",
+        "建物",
+        "理論",
+        "約束"
+      ],
+      "correctAnswer": "建物",
+      "explanation": "「premises」は「建物」「構内」という意味です。特定の場所や領域を指します。\n\n例：The security guard patrols the premises. (警備員が構内を巡回する。)"
+    },
+    {
+      "id": 58,
+      "value": "grown man",
+      "options": [
+        "子供",
+        "若い男性",
+        "大人",
+        "老人"
+      ],
+      "correctAnswer": "大人",
+      "explanation": "「grown man」は「大人」「成人男性」という意味です。精神的にも肉体的にも成熟した男性を指します。\n\n例：He's a grown man, he can make his own decisions. (彼は大人だ、自分で決断できる。)"
+    },
+    {
+      "id": 59,
+      "value": "thermostat",
+      "options": [
+        "温度計",
+        "エアコン",
+        "暖炉",
+        "温度調節器"
+      ],
+      "correctAnswer": "温度調節器",
+      "explanation": "「thermostat」は「温度調節器」という意味です。部屋や機器の温度を一定に保つために使用されます。\n\n例：Turn down the thermostat to save energy. (エネルギーを節約するために温度調節器を下げてください。)"
+    },
+    {
+      "id": 60,
+      "value": "abandoning",
+      "options": [
+        "支援する",
+        "無視する",
+        "強化する",
+        "理解する"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「abandoning」は「見捨てる」「放棄する」という意味です。人や場所、物を置き去りにすることを指します。\n\n例：They abandoned the old house. (彼らは古い家を見捨てた。)"
+    },
+    {
+      "id": 61,
+      "value": "quirky",
+      "options": [
+        "普通の",
+        "退屈な",
+        "奇妙な",
+        "冷静な"
+      ],
+      "correctAnswer": "奇妙な",
+      "explanation": "「quirky」は「奇妙な」「風変わりな」という意味です。普通とは少し違う、面白い特徴を持つことを指します。\n\n例：He has a quirky sense of humor. (彼は奇妙なユーモアのセンスを持っている。)"
+    },
+    {
+      "id": 62,
+      "value": "insightful",
+      "options": [
+        "無知な",
+        "愚かな",
+        "洞察力のある",
+        "表面的"
+      ],
+      "correctAnswer": "洞察力のある",
+      "explanation": "「insightful」は「洞察力のある」「鋭い」という意味です。物事を深く理解し、本質を見抜く能力があることを指します。\n\n例：She offered an insightful analysis of the situation. (彼女はその状況について洞察力のある分析を提供した。)"
+    },
+    {
+      "id": 63,
+      "value": "enterprising",
+      "options": [
+        "怠惰な",
+        "消極的な",
+        "進取的な",
+        "臆病な"
+      ],
+      "correctAnswer": "進取的な",
+      "explanation": "「enterprising」は「進取的な」「積極的な」という意味です。新しいことや困難なことに積極的に取り組むことを指します。\n\n例：He is an enterprising young businessman. (彼は進取的な若い実業家だ。)"
+    },
+    {
+      "id": 64,
+      "value": "knock it off",
+      "options": [
+        "続ける",
+        "始める",
+        "やめる",
+        "手伝う"
+      ],
+      "correctAnswer": "やめる",
+      "explanation": "「knock it off」は「やめろ」「いい加減にしろ」という意味です。不快な行動や発言を止めるように強く言う時に使います。\n\n例：Knock it off, you're being annoying. (やめろよ、うざいぞ。)"
+    },
+    {
+      "id": 65,
+      "value": "talk to the hand",
+      "options": [
+        "握手する",
+        "助けを求める",
+        "無視する",
+        "相談する"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「talk to the hand」は「話しかけるな」「無視する」という意味です。相手の発言を聞きたくない時に、相手に手のひらを向けて遮るジェスチャーと共に使います。1990年代に流行したスラングです。\n\n例：I don't want to hear it, talk to the hand. (聞きたくない、話しかけるな。)"
+    },
+    {
+      "id": 66,
+      "value": "walked out",
+      "options": [
+        "参加した",
+        "同意した",
+        "出て行った",
+        "手伝った"
+      ],
+      "correctAnswer": "出て行った",
+      "explanation": "「walked out」は「出て行った」「立ち去った」という意味です。会議や話し合いの場から、不満や反対の意思表示として退出する状況を表します。\n\n例：The workers walked out on strike. (労働者たちはストライキで職場を放棄した。)"
+    },
+    {
+      "id": 67,
+      "value": "met with",
+      "options": [
+        "戦った",
+        "出会った",
+        "無視した",
+        "避けた"
+      ],
+      "correctAnswer": "出会った",
+      "explanation": "「met with」は「会った」「面会した」という意味です。誰かと会って話し合いや打ち合わせを行う状況を表します。\n\n例：I met with the client yesterday. (昨日、クライアントと会った。)"
+    },
+    {
+      "id": 68,
+      "value": "tweeted me back",
+      "options": [
+        "電話をかけた",
+        "手紙を送った",
+        "返信した",
+        "無視した"
+      ],
+      "correctAnswer": "返信した",
+      "explanation": "「tweeted me back」は「私にツイートで返信した」という意味です。ソーシャルメディアでのやり取りを表します。\n\n例：He tweeted me back immediately. (彼はすぐにツイートで返信してくれた。)"
+    },
+    {
+      "id": 69,
+      "value": "poisoned me with emotions",
+      "options": [
+        "感情を理解させた",
+        "感情を奪った",
+        "感情に苦しめた",
+        "感情を無視した"
+      ],
+      "correctAnswer": "感情に苦しめた",
+      "explanation": "「poisoned me with emotions」は「感情で私を苦しめた」「感情に毒された」という意味です。感情的な影響がネガティブな結果をもたらした状況を表します。\n\n例：His words poisoned me with doubt. (彼の言葉は私を疑念で苦しめた。)"
+    },
+    {
+      "id": 70,
+      "value": "went and made him",
+      "options": [
+        "無視した",
+        "破壊した",
+        "変えた",
+        "忘れた"
+      ],
+      "correctAnswer": "変えた",
+      "explanation": "「went and made him」は「行って彼を変えた」という意味です。誰かが行動して、別の誰かの状態や性質を変えたことを表します。ここでは、Geppettoがピノキオを人形から人間に変えたことを指しています。\n\n例：She went and made him a cup of tea. (彼女は行って彼にお茶を入れてあげた。)"
+    },
+    {
+      "id": 71,
+      "value": "hang on",
+      "options": [
+        "諦める",
+        "続ける",
+        "待つ",
+        "出発する"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は「待つ」「ちょっと待って」という意味です。相手に少しの間待つように頼む時に使います。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐに戻るよ。)"
+    },
+    {
+      "id": 72,
+      "value": "open to",
+      "options": [
+        "反対している",
+        "準備ができていない",
+        "受け入れる",
+        "拒否する"
+      ],
+      "correctAnswer": "受け入れる",
+      "explanation": "「open to」は「～に対して開かれている」「～を受け入れる用意がある」という意味です。新しいアイデアや提案に対して前向きな姿勢を表します。\n\n例：I'm open to suggestions. (提案を受け付けます。)"
+    },
+    {
+      "id": 73,
+      "value": "pasty",
+      "options": [
+        "日焼けした",
+        "健康的な",
+        "青白い",
+        "色鮮やかな"
+      ],
+      "correctAnswer": "青白い",
+      "explanation": "「pasty」は「青白い」「血色の悪い」という意味です。健康状態が良くないことを示唆する場合があります。\n\n例：He looked pasty and tired. (彼は青白くて疲れているように見えた。)"
+    },
+    {
+      "id": 74,
+      "value": "crammed in",
+      "options": [
+        "きちんと整理された",
+        "広く配置された",
+        "ぎゅうぎゅうに詰め込まれた",
+        "丁寧に保管された"
+      ],
+      "correctAnswer": "ぎゅうぎゅうに詰め込まれた",
+      "explanation": "「crammed in」は「ぎゅうぎゅうに詰め込まれた」という意味です。狭い場所に無理やり押し込まれた状態を表します。\n\n例：The room was crammed in with furniture. (部屋は家具でぎゅうぎゅう詰めだった。)"
+    },
+    {
+      "id": 75,
+      "value": "figure out",
+      "options": [
+        "無視する",
+        "忘れる",
+        "理解する",
+        "隠す"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」は「理解する」「解明する」という意味です。問題を解決したり、状況を把握したりする時に使います。\n\n例：I'm trying to figure out what to do. (何をすべきか考えようとしている。)"
+    },
+    {
+      "id": 76,
+      "value": "rhyme with",
+      "options": [
+        "韻を踏む",
+        "無視する",
+        "理解する",
+        "反対する"
+      ],
+      "correctAnswer": "韻を踏む",
+      "explanation": "「rhyme with」は「〜と韻を踏む」という意味です。詩や歌詞を作る際に、ある単語と音が似ている別の単語を探す時に使われます。例：Orange doesn't rhyme with many words. (オレンジは韻を踏む言葉が少ない。)"
+    },
+    {
+      "id": 77,
+      "value": "cute",
+      "options": [
+        "面白い",
+        "怖い",
+        "かわいい",
+        "難しい"
+      ],
+      "correctAnswer": "かわいい",
+      "explanation": "「cute」は「かわいい」「愛らしい」という意味で、主に外見や行動が魅力的で好感を持てるものに対して使われます。子供や動物、小さくてかわいらしいものによく使われます。例：She has a cute puppy. (彼女はかわいい子犬を飼っている。)"
+    },
+    {
+      "id": 78,
+      "value": "groove",
+      "options": [
+        "溝",
+        "雰囲気、ノリ",
+        "成長",
+        "不満"
+      ],
+      "correctAnswer": "雰囲気、ノリ",
+      "explanation": "「groove」は音楽の「ノリ」「グルーヴ感」という意味で、楽曲のリズムや流れが心地よく、体が自然に動き出すような感覚を指します。また、比喩的に「調子が良い」「うまくいっている」という意味でも使われます。例：This song has a great groove. (この曲はノリが良い。)"
+    },
+    {
+      "id": 79,
+      "value": "the whole point of",
+      "options": [
+        "重要な点",
+        "全体の意味",
+        "主な目的",
+        "最終的な結果"
+      ],
+      "correctAnswer": "主な目的",
+      "explanation": "「the whole point of」は「〜の主な目的」「〜の要点」という意味です。ある行動やアイデア、プロジェクトなどの最も重要な目的や理由を強調する際に使われます。例：The whole point of the meeting was to discuss the budget. (会議の主な目的は予算について話し合うことだった。)"
+    },
+    {
+      "id": 80,
+      "value": "room for improvement",
+      "options": [
+        "改善の余地",
+        "休憩室",
+        "進歩の部屋",
+        "改善の余地なし"
+      ],
+      "correctAnswer": "改善の余地",
+      "explanation": "「room for improvement」は「改善の余地がある」という意味です。何かがまだ完璧ではなく、より良くなる可能性があることを示唆する際に使われます。例：Your essay is good, but there's still room for improvement. (君のエッセイは良いが、まだ改善の余地がある。)"
+    },
+    {
+      "id": 81,
+      "value": "wimp",
+      "options": [
+        "勇敢な人",
+        "臆病者",
+        "賢い人",
+        "運動選手"
+      ],
+      "correctAnswer": "臆病者",
+      "explanation": "「wimp」は「弱虫」「臆病者」という意味で、勇気や決断力がない人を軽蔑的に呼ぶ言葉です。例：Don't be such a wimp! (そんな弱虫になるな！)"
+    },
+    {
+      "id": 82,
+      "value": "evolve as a musician",
+      "options": [
+        "音楽家として進化する",
+        "音楽家を辞める",
+        "音楽家と衝突する",
+        "音楽家を教育する"
+      ],
+      "correctAnswer": "音楽家として進化する",
+      "explanation": "「evolve as a musician」は「音楽家として進化する」という意味です。音楽のスキルや知識、表現力が時間とともに向上し、成長していく様子を表します。例：He is constantly trying to evolve as a musician. (彼は常に音楽家として進化しようとしている。)"
+    },
+    {
+      "id": 83,
+      "value": "stuck in the past",
+      "options": [
+        "過去に囚われている",
+        "過去から学ぶ",
+        "過去を語る",
+        "過去を忘れる"
+      ],
+      "correctAnswer": "過去に囚われている",
+      "explanation": "「stuck in the past」は「過去に囚われている」という意味です。過去の出来事や考え方に固執し、新しいことや変化を受け入れられない状態を指します。例：He's so stuck in the past that he can't move on. (彼は過去に囚われすぎていて、前進できない。)"
+    },
+    {
+      "id": 84,
+      "value": "breaking up our band",
+      "options": [
+        "バンドを始める",
+        "バンドを解散させる",
+        "バンドを応援する",
+        "バンドに参加する"
+      ],
+      "correctAnswer": "バンドを解散させる",
+      "explanation": "「breaking up our band」は「バンドを解散させる」という意味です。バンドのメンバー間の関係が悪化し、バンド活動を続けることができなくなる状況を指します。例：His ego is breaking up our band. (彼の自己中心的な性格がバンドを解散させようとしている。)"
+    },
+    {
+      "id": 85,
+      "value": "my own man",
+      "options": [
+        "私自身",
+        "他人に依存しない人",
+        "私の所有物",
+        "私のボス"
+      ],
+      "correctAnswer": "他人に依存しない人",
+      "explanation": "「my own man」は「誰にも指図されない」「独立した人間」という意味です。自分の考えや行動に責任を持ち、他人の意見に左右されない自立した人を指します。例：I make my own decisions; I'm my own man. (私は自分で決断する。私は誰にも指図されない。)"
+    },
+    {
+      "id": 86,
+      "value": "overreaction",
+      "options": [
+        "過剰反応",
+        "冷静な反応",
+        "無反応",
+        "適切な反応"
+      ],
+      "correctAnswer": "過剰反応",
+      "explanation": "「overreaction」は「過剰反応」という意味です。ある出来事や状況に対して、必要以上に感情的または行動的に反応することを指します。例：His anger was an overreaction to a minor mistake. (彼の怒りは些細なミスに対する過剰反応だった。)"
+    },
+    {
+      "id": 87,
+      "value": "with pleasure",
+      "options": [
+        "喜んで",
+        "嫌々ながら",
+        "無関心に",
+        "悲しみとともに"
+      ],
+      "correctAnswer": "喜んで",
+      "explanation": "「with pleasure」は「喜んで」「快く」という意味です。頼み事や申し出に対して、快く承諾する際に使われます。例：“Can you help me with this?” “With pleasure.” (「これを手伝ってくれませんか？」「喜んで。)"
+    },
+    {
+      "id": 88,
+      "value": "a matter of time",
+      "options": [
+        "時間の問題",
+        "時間の節約",
+        "時間の浪費",
+        "時間管理"
+      ],
+      "correctAnswer": "時間の問題",
+      "explanation": "「a matter of time」は「時間の問題」という意味です。ある出来事が起こるのが確実で、いつ起こるかの問題であることを示します。例：It's only a matter of time before they get married. (彼らが結婚するのは時間の問題だ。)"
+    },
+    {
+      "id": 89,
+      "value": "rush into",
+      "options": [
+        "急いで〜する",
+        "〜に遅れる",
+        "〜を避ける",
+        "〜を計画する"
+      ],
+      "correctAnswer": "急いで〜する",
+      "explanation": "「rush into」は「〜に急いで取りかかる」「〜に飛び込む」という意味です。準備や計画を十分にしないまま、急いで行動することを指します。例：Don't rush into a decision you might regret later. (後で後悔するかもしれない決断を急いではいけない。)"
+    },
+    {
+      "id": 90,
+      "value": "leave things the way they are",
+      "options": [
+        "現状維持",
+        "物事を改善する",
+        "物事を複雑にする",
+        "物事を終わらせる"
+      ],
+      "correctAnswer": "現状維持",
+      "explanation": "「leave things the way they are」は「現状維持する」「今の状態のままにしておく」という意味です。変化を避け、現在の状況を維持することを意味します。例：Let's just leave things the way they are for now. (とりあえず、今は現状維持にしておきましょう。)"
+    },
+    {
+      "id": 91,
+      "value": "straightened his fedora",
+      "options": [
+        "帽子を盗む",
+        "帽子を交換する",
+        "帽子を直す",
+        "帽子を隠す"
+      ],
+      "correctAnswer": "帽子を直す",
+      "explanation": "「straighten」は「まっすぐにする」「整える」という意味で、ここでは帽子（fedora）の形を整える動作を表しています。映画などで主人公が冷静さを保つために帽子を直すシーンなどに使われます。例：He straightened his tie before the meeting.（彼は会議の前にネクタイを整えた。）"
+    },
+    {
+      "id": 92,
+      "value": "held his ground",
+      "options": [
+        "陣地を失う",
+        "主張を曲げる",
+        "反撃する",
+        "陣地を守る"
+      ],
+      "correctAnswer": "陣地を守る",
+      "explanation": "「hold one's ground」は「自分の立場を守る」「屈しない」という意味です。困難な状況や反対意見に直面しても、自分の意見や立場を譲らないことを表します。例：Despite the criticism, she held her ground. (批判にもかかわらず、彼女は自分の立場を守った。)"
+    }
+  ]
+}

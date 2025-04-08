@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "rumpled chicken's come home to roost",
+      "options": [
+        "問題が解決した",
+        "良い結果になった",
+        "過去の悪事が表面化する",
+        "チャンスが訪れた"
+      ],
+      "correctAnswer": "過去の悪事が表面化する",
+      "explanation": "「chickens come home to roost」ということわざで、「過去の行いの報いを受ける」「悪い行いが後になって自分に返ってくる」という意味です。特に、隠されていた問題や不正が明るみに出て、責任を問われる状況を指します。例文：His lies all came home to roost when the truth was revealed.（彼の嘘は真実が明らかになった時、全て明るみに出た。）"
+    },
+    {
+      "id": 2,
+      "value": "pinkeye",
+      "options": [
+        "白内障",
+        "ものもらい",
+        "結膜炎",
+        "緑内障"
+      ],
+      "correctAnswer": "結膜炎",
+      "explanation": "「pinkeye」は、結膜炎（けつまくえん）のことです。結膜とは、まぶたの裏側と眼球の表面を覆っている薄い膜のことで、細菌やウイルス感染、アレルギーなどが原因で炎症を起こします。目が赤くなるのが特徴です。例文：He got pinkeye from swimming in the pool.（彼はプールで泳いで結膜炎になった。）"
+    },
+    {
+      "id": 3,
+      "value": "stinky",
+      "options": [
+        "高価な",
+        "人気のある",
+        "粗末な",
+        "面白い"
+      ],
+      "correctAnswer": "粗末な",
+      "explanation": "「stinky」は、文字通りには「臭い」という意味ですが、ここでは比喩的に「質が悪い」「良くない」といった意味合いで使われています。例文：Even a stinky cup of coffee is better than no coffee at all. (どんなにまずいコーヒーでも、ないよりはマシだ。)"
+    },
+    {
+      "id": 4,
+      "value": "halfsies",
+      "options": [
+        "半分ずつ",
+        "全部",
+        "少しだけ",
+        "無料で"
+      ],
+      "correctAnswer": "半分ずつ",
+      "explanation": "「halfsies」は、物を半分に分け合う、費用を半分ずつ負担するという意味のスラングです。主に子供や親しい間柄で使われます。例文：Let's go halfsies on this pizza.（このピザを半分ずつにしよう。）"
+    },
+    {
+      "id": 5,
+      "value": "warp speed",
+      "options": [
+        "最高速度",
+        "通常速度",
+        "低速",
+        "停止"
+      ],
+      "correctAnswer": "最高速度",
+      "explanation": "「warp speed」は、SF作品、特にスタートレックシリーズで使われる言葉で、光速を超える速度を意味します。比喩的には、非常に速いスピードや勢いを表す際に使われます。例文：The project is moving at warp speed.（プロジェクトは非常に速いスピードで進んでいる。）"
+    },
+    {
+      "id": 6,
+      "value": "be into something",
+      "options": [
+        "何かに興味がある",
+        "何かを嫌う",
+        "何かを失う",
+        "何かに反対する"
+      ],
+      "correctAnswer": "何かに興味がある",
+      "explanation": "「be into something」は、「何かに夢中になっている」「何かに興味がある」という意味の口語表現です。趣味や興味関心を表現する際によく使われます。例文：I'm really into music these days.（最近、音楽にとてもハマっている。）"
+    },
+    {
+      "id": 7,
+      "value": "in touch with one's inner child",
+      "options": [
+        "内なる子供と連絡を取る",
+        "子供の頃の気持ちを忘れない",
+        "子供のような無邪気さを持っている",
+        "子供の頃のトラウマを抱えている"
+      ],
+      "correctAnswer": "子供のような無邪気さを持っている",
+      "explanation": "「in touch with one's inner child」は、「子供の頃の純粋な気持ちや無邪気さを失わずに持っている」という意味です。大人になっても子供の頃の好奇心や遊び心を大切にしている状態を表します。例文：He's still in touch with his inner child, always playing games and having fun.（彼はまだ子供の頃の心を持っていて、いつもゲームをして楽しんでいます。）"
+    },
+    {
+      "id": 8,
+      "value": "wish-fulfillment",
+      "options": [
+        "願いを叶えること",
+        "現実逃避",
+        "運命",
+        "自己実現"
+      ],
+      "correctAnswer": "願いを叶えること",
+      "explanation": "「wish-fulfillment」は、願望充足という意味です。特に、抑圧された願望が夢やファンタジー、行動などを通して間接的に満たされることを指します。心理学の用語としても使われます。例文：Superhero stories provide wish-fulfillment for many people.（スーパーヒーローの物語は、多くの人々に願望充足を提供する。）"
+    },
+    {
+      "id": 9,
+      "value": "pick on",
+      "options": [
+        "選ぶ",
+        "からかう",
+        "助ける",
+        "無視する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「pick on」は、「（弱い者）をいじめる」「からかう」という意味の句動詞です。例文：The older boys used to pick on him after school.（年上の少年たちは放課後によく彼をからかっていた。）"
+    },
+    {
+      "id": 10,
+      "value": "mouthful of dirt",
+      "options": [
+        "一口の食事",
+        "汚い言葉",
+        "屈辱的な経験",
+        "些細な問題"
+      ],
+      "correctAnswer": "屈辱的な経験",
+      "explanation": "「mouthful of dirt」は、文字通りには「一口の土」ですが、ここでは比喩的に「屈辱的な経験」「不快な思い」という意味で使われています。例文：Having to apologize to him was like eating a mouthful of dirt.（彼に謝らなければならなかったのは、屈辱的な経験だった。）"
+    },
+    {
+      "id": 11,
+      "value": "turn-by-turn",
+      "options": [
+        "一つ飛ばし",
+        "交代で",
+        "順番に",
+        "逐次"
+      ],
+      "correctAnswer": "逐次",
+      "explanation": "「turn-by-turn」は、ナビゲーションシステムなどで「逐次案内」を意味します。各曲がり角ごとに指示を出す方式を指します。例文：The GPS provides turn-by-turn directions. (GPSは逐次案内を提供します。)"
+    },
+    {
+      "id": 12,
+      "value": "listening ears",
+      "options": [
+        "盗聴器",
+        "良い音響設備",
+        "注意深く聞く態度",
+        "耳栓"
+      ],
+      "correctAnswer": "注意深く聞く態度",
+      "explanation": "「listening ears」は、注意深く聞く態度、熱心に耳を傾ける様子を意味する表現です。子供に対して使われることが多いです。例文：Put on your listening ears, I have something important to tell you. (よく聞いてね、大切な話があるんだ。)"
+    },
+    {
+      "id": 13,
+      "value": "counterpoint",
+      "options": [
+        "要するに",
+        "反論",
+        "結論",
+        "前置き"
+      ],
+      "correctAnswer": "反論",
+      "explanation": "「counterpoint」は、音楽用語で「対位法」を意味しますが、会話の中では「反論」「反対意見」という意味で使われます。例文：As a counterpoint, I'd like to say that this is not the only way. (反論として、これが唯一の方法ではないと言いたい。)"
+    },
+    {
+      "id": 14,
+      "value": "on the road",
+      "options": [
+        "帰宅中",
+        "旅の途中",
+        "仕事中",
+        "休憩中"
+      ],
+      "correctAnswer": "旅の途中",
+      "explanation": "「on the road」は、「旅行中」「移動中」という意味です。特に、長距離の移動やツアーなどで使われることが多いです。例文：The band is on the road for their summer tour.（そのバンドは夏のツアーで移動中です。）"
+    },
+    {
+      "id": 15,
+      "value": "exhausting",
+      "options": [
+        "わくわくする",
+        "面白い",
+        "退屈",
+        "疲れる"
+      ],
+      "correctAnswer": "疲れる",
+      "explanation": "「exhausting」は、「非常に疲れる」「消耗させる」という意味です。人や物事が非常にエネルギーを消費させる、または精神的に疲弊させる状況を指します。例文：Dealing with difficult customers can be very exhausting.（難しい顧客の対応は非常に疲れる。）"
+    },
+    {
+      "id": 16,
+      "value": "hack",
+      "options": [
+        "攻撃",
+        "侵入",
+        "裏技",
+        "解決"
+      ],
+      "correctAnswer": "裏技",
+      "explanation": "「hack」は、コンピューター用語で不正侵入を意味することがありますが、ここでは「裏技」「手軽な解決策」という意味で使われています。例文：I found a cool hack to get free coffee. (無料のコーヒーを手に入れるクールな裏技を見つけた。)"
+    },
+    {
+      "id": 17,
+      "value": "mimosa",
+      "options": [
+        "オレンジジュースとシャンパン",
+        "グレープジュースとジン",
+        "アップルジュースとウォッカ",
+        "パイナップルジュースとラム"
+      ],
+      "correctAnswer": "オレンジジュースとシャンパン",
+      "explanation": "「mimosa」は、オレンジジュースとシャンパンを混ぜたカクテルです。ブランチなどでよく飲まれます。名前は、ミモザの花の色に似ていることに由来します。例文：We had mimosas at brunch yesterday. (昨日ブランチでミモザを飲んだ。)"
+    },
+    {
+      "id": 18,
+      "value": "convention",
+      "options": [
+        "会議",
+        "伝統",
+        "条約",
+        "大会"
+      ],
+      "correctAnswer": "大会",
+      "explanation": "「convention」は、会議、大会、慣習などの意味があります。ここでは、特定の趣味や関心を持つ人々が集まる大会を指します。例文：The comic book convention is held annually.（コミックブックの大会は毎年開催される。）"
+    },
+    {
+      "id": 19,
+      "value": "all Hollywood",
+      "options": [
+        "全く違う",
+        "ハリウッド風",
+        "全て同じ",
+        "とても古い"
+      ],
+      "correctAnswer": "ハリウッド風",
+      "explanation": "ここでは、イベントなどがハリウッド映画のように商業的で大掛かりになったことを指します。純粋なファンが集まるイベントから、ビジネス色が強くなった状態を表します。例文: The festival has gone all Hollywood in recent years. (そのフェスティバルは近年、ハリウッド風になった。)"
+    },
+    {
+      "id": 20,
+      "value": "bypass",
+      "options": [
+        "近道",
+        "迂回路",
+        "高速道路",
+        "幹線道路"
+      ],
+      "correctAnswer": "迂回路",
+      "explanation": "「bypass」は、「バイパス」「迂回路」という意味です。都市部を避けて交通を円滑にするために作られた道路を指します。ここでは、interstate number の説明において使われています。例文：Take the bypass to avoid the city traffic. (都市部の交通を避けるためにバイパスを通ってください。)"
+    },
+    {
+      "id": 21,
+      "value": "spur",
+      "options": [
+        "拍車",
+        "刺激",
+        "支線",
+        "本線"
+      ],
+      "correctAnswer": "支線",
+      "explanation": "「spur」は、ここでは「支線」「分岐線」という意味です。本線から分岐して短い距離で終わる道路を指します。interstate number の説明において使われています。例文：This road is a spur off the main highway. (この道路は主要道路から分岐した支線です。)"
+    },
+    {
+      "id": 22,
+      "value": "hold this",
+      "options": [
+        "これを掴んで",
+        "これを保留して",
+        "これを我慢して",
+        "これを持ってて"
+      ],
+      "correctAnswer": "これを持ってて",
+      "explanation": "「hold this」は、「これを持ってて」「これを持っていてください」という意味です。人に物を一時的に預ける際に使われます。例文: Can you hold this for a second? (ちょっとこれを持っててくれる？)"
+    },
+    {
+      "id": 23,
+      "value": "go to Comic-Con",
+      "options": [
+        "漫画喫茶に行く",
+        "漫画を描く",
+        "コミック本を読む",
+        "コミック大会に行く"
+      ],
+      "correctAnswer": "コミック大会に行く",
+      "explanation": "「go to Comic-Con」は、「コミック大会に行く」という意味です。Comic-Conは、コミック、アニメ、ゲームなどのポップカルチャーに関する大規模なイベントです。例文: I want to go to Comic-Con someday. (いつかコミック大会に行ってみたい。)"
+    },
+    {
+      "id": 24,
+      "value": "policy",
+      "options": [
+        "法律",
+        "規則",
+        "方針",
+        "契約"
+      ],
+      "correctAnswer": "方針",
+      "explanation": "「policy」は、「方針」「政策」「規則」という意味です。組織や個人が行動する際の基本的な考え方やルールを指します。例文: Our company has a strict no-smoking policy. (私たちの会社には厳格な禁煙方針がある。)"
+    },
+    {
+      "id": 25,
+      "value": "I guess",
+      "options": [
+        "当たった",
+        "そう思う",
+        "拒否する",
+        "無視する"
+      ],
+      "correctAnswer": "そう思う",
+      "explanation": "「I guess」は、「～だと思う」「～だろうね」という意味で、推測や不確かな考えを表す際に使われる表現です。例文: I guess it's going to rain today. (今日は雨が降りそうだね。)"
+    },
+    {
+      "id": 26,
+      "value": "cheekbones",
+      "options": [
+        "足の骨",
+        "頬骨",
+        "肩甲骨",
+        "尾てい骨"
+      ],
+      "correctAnswer": "頬骨",
+      "explanation": "「cheekbone」は頬骨のこと。ここでは、ラージが2週間炭水化物を摂取していないため、頬骨が目立っていることを表現しています。モデルなどが「cheekbones」を強調するためにダイエットをすることがあります。"
+    },
+    {
+      "id": 27,
+      "value": "smashing",
+      "options": [
+        "破壊的な",
+        "素晴らしい",
+        "退屈な",
+        "汚い"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「smashing」はイギリス英語のスラングで「素晴らしい」「最高の」という意味です。ここでは、シェルドンが旅行の計画に賛成する際に使っています。アメリカ英語ではあまり使われません。"
+    },
+    {
+      "id": 28,
+      "value": "soak it in",
+      "options": [
+        "浸水させる",
+        "吸収する",
+        "楽しむ",
+        "無視する"
+      ],
+      "correctAnswer": "楽しむ",
+      "explanation": "「soak it in」は「（雰囲気や状況を）楽しむ」「満喫する」という意味のイディオムです。ここでは、エイミーがコミックストアでの注目を楽しもうとバーナデットに言っています。五感を使って何かを感じ取るようなニュアンスがあります。"
+    },
+    {
+      "id": 29,
+      "value": "recommendation",
+      "options": [
+        "推薦",
+        "非難",
+        "抵抗",
+        "許可"
+      ],
+      "correctAnswer": "推薦",
+      "explanation": "「recommendation」は「推薦」「推奨」という意味です。ここでは、バーナデットとエイミーがコミックストアでコミックの推薦を求めています。ビジネスシーンでもよく使われる単語です。"
+    },
+    {
+      "id": 30,
+      "value": "give it a try",
+      "options": [
+        "あきらめる",
+        "試してみる",
+        "プレゼントする",
+        "無視する"
+      ],
+      "correctAnswer": "試してみる",
+      "explanation": "「give it a try」は「試してみる」「やってみる」という意味の一般的なイディオムです。ここでは、ペニーがコミックを読んでみることを提案しています。気軽に何かを試す際に使われます。"
+    },
+    {
+      "id": 31,
+      "value": "be into",
+      "options": [
+        "興味がない",
+        "夢中になっている",
+        "反対している",
+        "忘れている"
+      ],
+      "correctAnswer": "夢中になっている",
+      "explanation": "「be into」は「～に夢中になっている」「～に興味がある」という意味の口語的な表現です。ここでは、スチュアートがバーナデットとペニーにどんなコミックに興味があるか尋ねています。恋愛対象について使うこともあります。"
+    },
+    {
+      "id": 32,
+      "value": "graphic novel",
+      "options": [
+        "自叙伝",
+        "グラフィックノベル",
+        "取扱説明書",
+        "料理本"
+      ],
+      "correctAnswer": "グラフィックノベル",
+      "explanation": "「graphic novel」は「グラフィックノベル」のこと。漫画形式で描かれた長編小説を指します。通常のコミックよりもストーリー性が高く、文学的な要素を含む作品が多いです。"
+    },
+    {
+      "id": 33,
+      "value": "swear",
+      "options": [
+        "誓う",
+        "疑う",
+        "理解する",
+        "忘れる"
+      ],
+      "correctAnswer": "誓う",
+      "explanation": "「swear」はここでは「誓う」という意味ではなく、「断言する」という意味で使われています。スチュアートが「絶対にホースで水をかけるぞ」と冗談交じりに言っています。「I swear」で「マジで」「本当に」という意味のスラングとしても使われます。"
+    },
+    {
+      "id": 34,
+      "value": "a little bit of everything",
+      "options": [
+        "何もない",
+        "少しだけ",
+        "全て少しずつ",
+        "たくさん"
+      ],
+      "correctAnswer": "全て少しずつ",
+      "explanation": "「a little bit of everything」は「色々なものが少しずつ」「何でも少しは」という意味です。ここでは、スチュアートが店の客層について説明しています。幅広い趣味を持つ人がいることを示唆しています。"
+    },
+    {
+      "id": 35,
+      "value": "rumble",
+      "options": [
+        "静寂",
+        "騒動",
+        "平和",
+        "音楽"
+      ],
+      "correctAnswer": "騒動",
+      "explanation": "「rumble」は「騒動」「乱闘」という意味です。ここでは、エイミーがどのスーパーヒーローが一番強いかという質問が、コミックファンにとって非常にデリケートな話題であり、口論や騒動に発展する可能性があることを示唆しています。"
+    },
+    {
+      "id": 36,
+      "value": "clean-cut",
+      "options": [
+        "だらしない",
+        "清潔感のある",
+        "個性的な",
+        "時代遅れの"
+      ],
+      "correctAnswer": "清潔感のある",
+      "explanation": "「clean-cut」は「清潔感のある」「きちんとした」という意味です。ここでは、スチュアートがスーパーマンやスパイダーマンといった正統派ヒーローの特徴を説明しています。外見だけでなく、性格や行動も模範的であることを含みます。"
+    },
+    {
+      "id": 37,
+      "value": "anti-hero",
+      "options": [
+        "悪役",
+        "アンチヒーロー",
+        "普通の市民",
+        "警察官"
+      ],
+      "correctAnswer": "アンチヒーロー",
+      "explanation": "「anti-hero」は「アンチヒーロー」のこと。従来のヒーロー像とは異なり、欠点や葛藤を抱えながらも、目的のためには手段を選ばないキャラクターを指します。バットマンやウルヴァリンなどが代表的です。"
+    },
+    {
+      "id": 38,
+      "value": "as evidenced by",
+      "options": [
+        "という証拠に",
+        "という理由で",
+        "という結果として",
+        "という目的のために"
+      ],
+      "correctAnswer": "という証拠に",
+      "explanation": "「as evidenced by」は「～によって証明されるように」「～が示すように」という意味のフォーマルな表現です。ここでは、ペニーがエイミーのボーイフレンド（シェルドン）がハムスターを怖がることが、彼女がバッドボーイ好きであることの証拠だと冗談めかして言っています。"
+    },
+    {
+      "id": 39,
+      "value": "objectify",
+      "options": [
+        "客観視する",
+        "美化する",
+        "擬人化する",
+        "商品化する"
+      ],
+      "correctAnswer": "商品化する",
+      "explanation": "「objectify」は「（人を）物として扱う」「対象化する」という意味です。ここでは、スチュアートが、Fablesというコミックは女性を性的な対象として扱ったり、ステレオタイプ化したりしないと説明しています。社会問題について議論する際に使われることがあります。"
+    },
+    {
+      "id": 40,
+      "value": "stereotype",
+      "options": [
+        "固定観念",
+        "多様性",
+        "個性",
+        "現実"
+      ],
+      "correctAnswer": "固定観念",
+      "explanation": "「stereotype」は「固定観念」「ステレオタイプ」という意味です。ここでは、スチュアートがFablesというコミックが女性をステレオタイプ化しないと説明しています。社会問題について議論する際に使われることがあります。"
+    },
+    {
+      "id": 41,
+      "value": "blend",
+      "options": [
+        "分離する",
+        "混ぜる",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "混ぜる",
+      "explanation": "「blend」は「混ぜる」「なじませる」という意味です。ここでは、ラージがシェルドンのメイクをするときに、ファンデーションを肌になじませることを指しています。比喩的に、異なる要素を調和させるという意味でも使われます。"
+    },
+    {
+      "id": 42,
+      "value": "bald cap",
+      "options": [
+        "野球帽",
+        "かつら",
+        "ヘルメット",
+        "ニット帽"
+      ],
+      "correctAnswer": "かつら",
+      "explanation": "「bald cap」は「スキンヘッドに見せるためのカツラ」のこと。ここでは、レナードがピカード艦長のコスプレをするためにかぶっているカツラのことです。映画や舞台でよく使用されます。"
+    },
+    {
+      "id": 43,
+      "value": "wield",
+      "options": [
+        "隠す",
+        "使う",
+        "盗む",
+        "無視する"
+      ],
+      "correctAnswer": "使う",
+      "explanation": "「wield」は「（武器や道具を）使う」「操る」という意味です。ここでは、シェルドンがミスター・データとして、武器は彼の知性であると主張しています。通常、権力や影響力など、抽象的なものを操る際にも使われます。"
+    },
+    {
+      "id": 44,
+      "value": "glamour shots",
+      "options": [
+        "風景写真",
+        "記念写真",
+        "魅力的な写真",
+        "白黒写真"
+      ],
+      "correctAnswer": "魅力的な写真",
+      "explanation": "「glamour shots」は「魅力的な写真」「グラマー写真」のこと。モデルや女優などが美しく見えるように撮影された写真のことです。ここでは、ラージがコスプレ写真撮影でセクシーな写真を撮ろうと提案しています。"
+    },
+    {
+      "id": 45,
+      "value": "set the mood",
+      "options": [
+        "気分を害する",
+        "雰囲気を良くする",
+        "邪魔をする",
+        "忘れる"
+      ],
+      "correctAnswer": "雰囲気を良くする",
+      "explanation": "「set the mood」は「雰囲気を作る」「ムードを盛り上げる」という意味のイディオムです。ここでは、ラージが写真撮影のために音楽をかけて雰囲気を盛り上げようとしています。"
+    },
+    {
+      "id": 46,
+      "value": "son of a bitch",
+      "options": [
+        "親切な人",
+        "幸運な人",
+        "嫌なやつ",
+        "正直な人"
+      ],
+      "correctAnswer": "嫌なやつ",
+      "explanation": "「son of a bitch」は「嫌なやつ」「くそったれ」という意味の非常に下品な表現です。ここでは、ハワードが車を盗まれたことに対する怒りを表現しています。親しい間柄では冗談交じりに使われることもあります。"
+    },
+    {
+      "id": 47,
+      "value": "assign blame",
+      "options": [
+        "責任を負う",
+        "責任を転嫁する",
+        "感謝する",
+        "許す"
+      ],
+      "correctAnswer": "責任を転嫁する",
+      "explanation": "「assign blame」は「責任をなすりつける」「責任を追及する」という意味です。ここでは、シェルドンが車を盗まれた責任をラージに押し付けようとしています。責任の所在を明確にしたい場合に使われます。"
+    },
+    {
+      "id": 48,
+      "value": "nice going",
+      "options": [
+        "おめでとう",
+        "残念",
+        "よくやった",
+        "頑張って"
+      ],
+      "correctAnswer": "残念",
+      "explanation": "「nice going」は皮肉を込めて「よくやったね」「それでいい気になっているのか」という意味で使われます。ここでは、シェルドンとレナードがラージに対して、車を盗まれる原因を作ったことを非難しています。"
+    },
+    {
+      "id": 49,
+      "value": "broad daylight",
+      "options": [
+        "真夜中",
+        "早朝",
+        "白昼",
+        "夕暮れ"
+      ],
+      "correctAnswer": "白昼",
+      "explanation": "「broad daylight」は「白昼」「真昼間」という意味です。ここでは、レナードが白昼堂々と車が盗まれたことに驚きと怒りを感じています。犯罪などが起こる時間帯として強調する際に使われます。"
+    },
+    {
+      "id": 50,
+      "value": "What is wrong with people?",
+      "options": [
+        "みんな正しい",
+        "みんな元気",
+        "どうしたの？",
+        "世も末だ"
+      ],
+      "correctAnswer": "世も末だ",
+      "explanation": "「What is wrong with people?」は「世の中どうなっているんだ？」「みんなどうかしている」という意味です。ここでは、ラージが車が盗まれたことに対する失望と怒りを表現しています。他人の行動に対する強い不満を表す際に使われます。"
+    },
+    {
+      "id": 51,
+      "value": "better off",
+      "options": [
+        "より良い状態",
+        "出発する",
+        "取り除く",
+        "迷子になる"
+      ],
+      "correctAnswer": "より良い状態",
+      "explanation": "「better off」は、以前の状態よりも良い状況や立場にいることを意味します。経済的な状況、健康状態、精神的な状態など、様々な状況で使われます。\n\n例：She's better off without him. (彼女は彼なしの方が幸せだ。)"
+    },
+    {
+      "id": 52,
+      "value": "assures",
+      "options": [
+        "安心させる",
+        "疑う",
+        "無視する",
+        "拒否する"
+      ],
+      "correctAnswer": "安心させる",
+      "explanation": "「assure」は、人に安心感を与える、確信させるという意味です。自信を持って断言することで、相手の不安や疑念を取り除くニュアンスがあります。\n\n例：I can assure you that this product is safe. (この製品は安全だと保証できます。)"
+    },
+    {
+      "id": 53,
+      "value": "nearby",
+      "options": [
+        "近くに",
+        "遠くに",
+        "中に",
+        "上に"
+      ],
+      "correctAnswer": "近くに",
+      "explanation": "「nearby」は、物理的に近い場所や距離を表します。具体的な場所だけでなく、時間的に近い未来を指すこともあります。\n\n例：Is there a gas station nearby? (近くにガソリンスタンドはありますか？)"
+    },
+    {
+      "id": 54,
+      "value": "in charge",
+      "options": [
+        "担当で",
+        "自由で",
+        "不在で",
+        "混乱して"
+      ],
+      "correctAnswer": "担当で",
+      "explanation": "「in charge」は、責任を持って何かを管理・指揮する立場にあることを意味します。リーダーシップを発揮する状況でよく使われます。\n\n例：Who is in charge here? (ここの担当者は誰ですか？)"
+    },
+    {
+      "id": 55,
+      "value": "street smarts",
+      "options": [
+        "路上での知恵",
+        "学術的な知識",
+        "技術的な知識",
+        "ビジネスの知識"
+      ],
+      "correctAnswer": "路上での知恵",
+      "explanation": "「street smarts」は、実社会での経験から得た、生き抜くための知恵や能力を指します。特に、危険を回避したり、人を上手く操ったりする能力を意味することが多いです。\n\n例：You need street smarts to survive in this city. (この街で生き残るには、ストリートスマートが必要です。)"
+    },
+    {
+      "id": 56,
+      "value": "brisk pace",
+      "options": [
+        "速いペース",
+        "遅いペース",
+        "一定のペース",
+        "不規則なペース"
+      ],
+      "correctAnswer": "速いペース",
+      "explanation": "「brisk pace」は、活発で速いペースを意味します。活動、仕事、物語の展開など、様々な場面で使用されます。\n\n例：The story moved along at a brisk pace. (物語はテンポよく進んだ。)"
+    },
+    {
+      "id": 57,
+      "value": "caught up in",
+      "options": [
+        "夢中になる",
+        "諦める",
+        "批判する",
+        "忘れる"
+      ],
+      "correctAnswer": "夢中になる",
+      "explanation": "「caught up in」は、何かに夢中になり、他のことが目に入らなくなる状態を表します。感情や活動に没頭している状況で使われます。\n\n例：He got caught up in the game and forgot about dinner. (彼はゲームに夢中になって夕食のことを忘れてしまった。)"
+    },
+    {
+      "id": 58,
+      "value": "make sense",
+      "options": [
+        "理解できる",
+        "意味をなさない",
+        "重要である",
+        "存在しない"
+      ],
+      "correctAnswer": "理解できる",
+      "explanation": "「make sense」は、物事が論理的に理解できる、納得できるという意味です。筋が通っているかどうかを判断する際に使われます。\n\n例：That doesn't make sense. (それは意味がわからない。)"
+    },
+    {
+      "id": 59,
+      "value": "hang on",
+      "options": [
+        "待つ",
+        "手放す",
+        "進む",
+        "諦める"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、人に少しの間待つように頼む時に使います。また、困難な状況で頑張る、持ちこたえるという意味もあります。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+    },
+    {
+      "id": 60,
+      "value": "head start",
+      "options": [
+        "有利なスタート",
+        "遅いスタート",
+        "公平なスタート",
+        "間違ったスタート"
+      ],
+      "correctAnswer": "有利なスタート",
+      "explanation": "「head start」は、競争や活動において、他の人よりも有利なスタートを切ることを意味します。事前に準備したり、特別なスキルを持っている場合に用いられます。\n\n例：She had a head start because she had studied the material beforehand. (彼女は事前に教材を勉強していたので、有利なスタートを切った。)"
+    },
+    {
+      "id": 61,
+      "value": "hang out",
+      "options": [
+        "ぶらぶらする",
+        "急いで去る",
+        "真剣に議論する",
+        "隠れる"
+      ],
+      "correctAnswer": "ぶらぶらする",
+      "explanation": "「hang out」は、リラックスして時間を過ごす、特に友達と気軽に遊ぶことを意味します。特定の目的を持たずに、一緒にいる状況を表します。\n\n例：We could all hang out in her shadow. (みんなで彼女の陰でぶらぶらできるのに。)"
+    },
+    {
+      "id": 62,
+      "value": "poached",
+      "options": [
+        "密猟された",
+        "ゆでられた",
+        "焼かれた",
+        "揚げられた"
+      ],
+      "correctAnswer": "ゆでられた",
+      "explanation": "ここでは比喩的に用いられており、「poached」は「ゆでる」という意味ですが、ここでは「熱でやられた」というニュアンスで使われています。\n\n例：I feel like I’ve got poached testicles. (睾丸が茹でられたように感じる。)"
+    },
+    {
+      "id": 63,
+      "value": "de-funk",
+      "options": [
+        "悪臭を取り除く",
+        "新しくする",
+        "破壊する",
+        "汚染する"
+      ],
+      "correctAnswer": "悪臭を取り除く",
+      "explanation": "「de-funk」は、口語的な表現で、不快な臭いや状態を取り除くことを意味します。ここでは、暑さで不快になった状態を解消するという意味で使われています。\n\n例：Insurance is gonna buy you a new car. It’s not gonna de-funk my junk. (保険で新しい車は買えるけど、俺の局部の不快感は取り除けない。)"
+    },
+    {
+      "id": 64,
+      "value": "bellyaching",
+      "options": [
+        "不平を言う",
+        "笑う",
+        "歌う",
+        "踊る"
+      ],
+      "correctAnswer": "不平を言う",
+      "explanation": "「bellyaching」は、くだけた表現で、不平不満を言う、文句を言うという意味です。特に、些細なことや個人的な不満を言う場合に使われます。\n\n例：Gentlemen, a little less bellyaching. (皆さん、もう少し文句を言うのを控えてください。)"
+    },
+    {
+      "id": 65,
+      "value": "in the mood",
+      "options": [
+        "気分が良い",
+        "気分が悪い",
+        "時間がある",
+        "お金がある"
+      ],
+      "correctAnswer": "気分が良い",
+      "explanation": "「in the mood」は、特定のことをする気分である、または特定の感情を抱いている状態を表します。感情や欲求が伴う状況で使われます。\n\n例：I am so not in the mood. (そんな気分じゃない。)"
+    },
+    {
+      "id": 66,
+      "value": "fortitude",
+      "options": [
+        "不屈の精神",
+        "臆病",
+        "無知",
+        "怠惰"
+      ],
+      "correctAnswer": "不屈の精神",
+      "explanation": "「fortitude」は、困難や苦難に耐える精神的な強さ、勇気、忍耐力を意味します。試練に立ち向かう際に必要な資質を表すフォーマルな言葉です。\n\n例：relying only on our wits, our fortitude and our moxie. (知恵と不屈の精神と度胸だけを頼りに。)"
+    },
+    {
+      "id": 67,
+      "value": "moxie",
+      "options": [
+        "度胸",
+        "弱さ",
+        "退屈",
+        "悲しみ"
+      ],
+      "correctAnswer": "度胸",
+      "explanation": "「moxie」は、勇気、大胆さ、機転、積極性などを意味する言葉です。困難な状況で自信を持って行動する能力を表します。アメリカ英語のスラングに由来します。\n\n例：As long as we have those things, nothing can stop…(それらがあれば、何も私たちを止められない…)"
+    },
+    {
+      "id": 68,
+      "value": "be worthy",
+      "options": [
+        "ふさわしい",
+        "無価値",
+        "危険",
+        "安全"
+      ],
+      "correctAnswer": "ふさわしい",
+      "explanation": "「be worthy」は、特定の資格や価値があると認められることを意味します。道徳的な価値や能力に基づいて判断されることが多いです。\n\n例：whoever holds this hammer, if he be worthy, shall possess the power of Thor. (このハンマーを持つ者は誰でも、もし彼がふさわしければ、ソーの力を持つだろう。)"
+    },
+    {
+      "id": 69,
+      "value": "take you seriously",
+      "options": [
+        "真剣に受け止める",
+        "無視する",
+        "笑う",
+        "怒る"
+      ],
+      "correctAnswer": "真剣に受け止める",
+      "explanation": "「take you seriously」は、相手の言葉や行動を真剣に受け止め、尊重することを意味します。相手を軽視しない姿勢を示します。\n\n例：I can’t even take you seriously. (私はあなたを真剣に受け止めることさえできない。)"
+    },
+    {
+      "id": 70,
+      "value": "beam you up",
+      "options": [
+        "転送する",
+        "攻撃する",
+        "無視する",
+        "捕獲する"
+      ],
+      "correctAnswer": "転送する",
+      "explanation": "「beam up」は、SF作品、特にスタートレックで使われる言葉で、人や物を瞬間的に別の場所に転送することを意味します。ビームを使って宇宙船に人を移動させるイメージです。\n\n例：Why don’t you ask Scotty to beam you up? (スコッティに転送してもらうように頼んだら？)"
+    },
+    {
+      "id": 71,
+      "value": "mental competence",
+      "options": [
+        "精神的な能力",
+        "肉体的な能力",
+        "経済的な能力",
+        "社会的な能力"
+      ],
+      "correctAnswer": "精神的な能力",
+      "explanation": "「mental competence」は、人が正常な精神状態にあり、合理的な判断や意思決定ができる能力を指します。法律や医療の分野で重要な概念です。\n\n例：assures passing motorists of our mental competence. (通り過ぎる運転手に私たちの精神的な能力を保証する。)"
+    },
+    {
+      "id": 72,
+      "value": "passing motorists",
+      "options": [
+        "通り過ぎる運転手",
+        "駐車している運転手",
+        "故障した運転手",
+        "事故を起こした運転手"
+      ],
+      "correctAnswer": "通り過ぎる運転手",
+      "explanation": "「passing motorists」は、道路を通り過ぎる自動車の運転手を指します。特定の場所に立ち寄らず、通過していく人を指す表現です。\n\n例：assures passing motorists of our mental competence. (通り過ぎる運転手に私たちの精神的な能力を保証する。)"
+    },
+    {
+      "id": 73,
+      "value": "alien environment",
+      "options": [
+        "異質な環境",
+        "快適な環境",
+        "安全な環境",
+        "汚染された環境"
+      ],
+      "correctAnswer": "異質な環境",
+      "explanation": "「alien environment」は、馴染みがなく、異質で不快な環境を指します。宇宙や外国など、普段とは異なる場所や状況を表す際に使われます。\n\n例：stranded in an alien and unforgiving environment. (異質で容赦のない環境に取り残された。)"
+    },
+    {
+      "id": 74,
+      "value": "unforgiving environment",
+      "options": [
+        "厳しい環境",
+        "快適な環境",
+        "安全な環境",
+        "汚染された環境"
+      ],
+      "correctAnswer": "厳しい環境",
+      "explanation": "「unforgiving environment」は、困難や失敗に対して寛容でない、厳しい環境を指します。自然環境や競争社会など、試練が多い状況を表します。\n\n例：stranded in an alien and unforgiving environment. (異質で容赦のない環境に取り残された。)"
+    },
+    {
+      "id": 75,
+      "value": "the Borg Collective",
+      "options": [
+        "ボーグ集合体",
+        "スターフリート",
+        "クリンゴン帝国",
+        "ロミュラン星間帝国"
+      ],
+      "correctAnswer": "ボーグ集合体",
+      "explanation": "「the Borg Collective」は、スタートレックに登場するサイボーグの集合体で、個々の個性を失い、共通の意識を持つ存在です。全体主義や画一化の象徴として描かれています。\n\n例：We’re Starfleet officers and a member of the Borg Collective. (私たちはスターフリートの士官とボーグ集合体のメンバーです。)"
+    },
+    {
+      "id": 76,
+      "value": "street smarts",
+      "options": [
+        "高度な科学知識",
+        "優れた運動能力",
+        "世間知や機転",
+        "深い芸術的理解"
+      ],
+      "correctAnswer": "世間知や機転",
+      "explanation": "「street smarts」とは、実生活で培われた知識や経験に基づく、世渡り上手さや機転を指します。特に、困難な状況や複雑な人間関係を乗り切るための能力を意味します。教育や学問とは異なる、現実世界での実践的な知恵を強調する言葉です。類義語としては「common sense（常識）」や「practical wisdom（実践的な知恵）」などがあります。"
+    },
+    {
+      "id": 77,
+      "value": "suck on that",
+      "options": [
+        "それを楽しんで",
+        "それを我慢して",
+        "ざまあみろ",
+        "それをよく考えて"
+      ],
+      "correctAnswer": "ざまあみろ",
+      "explanation": "「Suck on that」は、相手を打ち負かしたり、言い負かしたりしたときに使われる、やや挑発的な表現です。「ざまあみろ」「どうだ」といったニュアンスで、自分の優位性を示したい場合に用いられます。ただし、非常にカジュアルな表現であり、フォーマルな場面や目上の人に対して使うのは不適切です。"
+    },
+    {
+      "id": 78,
+      "value": "get how cool it is",
+      "options": [
+        "それがどれだけ冷たいか理解する",
+        "それがどれだけ素晴らしいか理解する",
+        "それがどれだけ簡単か理解する",
+        "それがどれだけ危険か理解する"
+      ],
+      "correctAnswer": "それがどれだけ素晴らしいか理解する",
+      "explanation": "「get how cool it is」は、「それがどれほど素晴らしいか、かっこいいか理解する」という意味です。「cool」は、単に温度が低いだけでなく、「かっこいい」「素晴らしい」「興味深い」といった意味合いで広く使われます。このフレーズは、ある事物や状況の魅力や価値を相手が理解していることを確認したり、強調したりする際に用いられます。"
+    },
+    {
+      "id": 79,
+      "value": "got it covered",
+      "options": [
+        "それを覆い隠した",
+        "それを手に入れた",
+        "対処できる",
+        "それを忘れた"
+      ],
+      "correctAnswer": "対処できる",
+      "explanation": "「got it covered」は、「（問題や状況を）対処できる」「心配ない」「任せておけ」という意味です。誰かが何かを心配している状況で、自分が責任を持って対応することを伝える際に使われます。例えば、誰かが「これを手伝ってくれる？」と聞いたときに、「I've got it covered.（大丈夫、私がやるよ）」と答えることができます。"
+    },
+    {
+      "id": 80,
+      "value": "be like that",
+      "options": [
+        "そのように振る舞う",
+        "そのように考える",
+        "そのように感じる",
+        "そのように見える"
+      ],
+      "correctAnswer": "そのように振る舞う",
+      "explanation": "「Don't be like that」は、「そんな風にしないで」「そんなこと言うなよ」という意味で、相手の態度や言動を非難したり、たしなめたりする際に使われます。特に、相手が不機嫌だったり、意地を張っていたりする場合に使われることが多いです。より強いニュアンスで「Don't be that way」と言うこともできます。"
+    },
+    {
+      "id": 81,
+      "value": "landing party",
+      "options": [
+        "着陸パーティー",
+        "上陸部隊",
+        "離陸パーティー",
+        "帰還部隊"
+      ],
+      "correctAnswer": "上陸部隊",
+      "explanation": "「landing party」は、宇宙船などが惑星に着陸した際に、調査や偵察のために派遣される小規模なチームを指します。特にSF作品、例えばスタートレックなどでよく用いられる言葉です。比喩的に、新しい場所や状況に足を踏み入れるグループを指すこともあります。"
+    },
+    {
+      "id": 82,
+      "value": "screw you",
+      "options": [
+        "あなたをねじ込む",
+        "あなたを褒める",
+        "くそくらえ",
+        "あなたを助ける"
+      ],
+      "correctAnswer": "くそくらえ",
+      "explanation": "「Screw you」は、非常に失礼で攻撃的な表現で、「くそくらえ」「ふざけるな」といった意味合いを持ちます。相手に対する強い怒りや不満、軽蔑を表す際に用いられます。親しい間柄であっても、使用は避けるべき表現です。類似の表現としては、「Get lost」「Buzz off」などがあります。"
+    },
+    {
+      "id": 83,
+      "value": "transitive property",
+      "options": [
+        "推移律",
+        "反射律",
+        "対称律",
+        "交換律"
+      ],
+      "correctAnswer": "推移律",
+      "explanation": "「transitive property」は、数学や論理学における推移律を指します。もしA = B であり、B = C であるならば、A = C であるという法則です。日常会話では、この概念を比喩的に用いて、ある関係性が連鎖的に伝わることを説明する際に使われることがあります。"
+    },
+    {
+      "id": 84,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "捕まる",
+        "待つ",
+        "続ける"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「Hang on」は、「ちょっと待って」「 Hold on」と同様の意味で、相手に少しの間待つように伝える際に使われます。また、「しっかりつかまって」という意味もあります。会話の中では、相手の発言を遮って自分の意見を言う際の導入としても使われます。"
+    },
+    {
+      "id": 85,
+      "value": "set them to stun",
+      "options": [
+        "気絶させる",
+        "殺す",
+        "逮捕する",
+        "解放する"
+      ],
+      "correctAnswer": "気絶させる",
+      "explanation": "「set them to stun」は、SF作品でよく使われる表現で、相手を殺さずに一時的に意識を失わせる（気絶させる）ことを意味します。特に、宇宙船の武器などの設定を指すことが多いです。比喩的に、穏便な手段で問題を解決しようとする意図を表すこともあります。"
+    },
+    {
+      "id": 86,
+      "value": "vaporize",
+      "options": [
+        "蒸発させる",
+        "冷却する",
+        "凝縮する",
+        "固化する"
+      ],
+      "correctAnswer": "蒸発させる",
+      "explanation": "「vaporize」は、物質を気体（蒸気）に変える、蒸発させるという意味です。SF作品では、武器などで物体を完全に消滅させる意味で使われることもあります。比喩的には、何かを完全に消し去る、破壊するという意味で用いられます。"
+    },
+    {
+      "id": 87,
+      "value": "fun fact",
+      "options": [
+        "悲しい事実",
+        "楽しい事実",
+        "複雑な事実",
+        "重要な事実"
+      ],
+      "correctAnswer": "楽しい事実",
+      "explanation": "「Fun fact」は、「面白い事実」「豆知識」という意味で、会話や文章の中で、興味深い情報や雑学を紹介する際に使われます。特に、話題を盛り上げたり、聴衆の関心を引いたりする目的で使用されることが多いです。"
+    },
+    {
+      "id": 88,
+      "value": "alternate dimension",
+      "options": [
+        "別の次元",
+        "同じ次元",
+        "隠された次元",
+        "想像上の次元"
+      ],
+      "correctAnswer": "別の次元",
+      "explanation": "「alternate dimension」は、「別の次元」「並行世界」という意味で、SFやファンタジー作品でよく用いられる概念です。私たちの住む世界とは異なる物理法則や歴史を持つ世界を指します。比喩的に、現実とは全く異なる状況や可能性を指すこともあります。"
+    },
+    {
+      "id": 89,
+      "value": "to be done",
+      "options": [
+        "終わらせる",
+        "終わった",
+        "始める",
+        "行う"
+      ],
+      "correctAnswer": "終わった",
+      "explanation": "「I'm done.」は、「もううんざりだ」「もうたくさんだ」という意味です。何かをやり終えて疲れたときや、我慢の限界を超えたときに使われます。日本語の「もう勘弁して」に近いニュアンスです。"
+    },
+    {
+      "id": 90,
+      "value": "go through",
+      "options": [
+        "経験する",
+        "無視する",
+        "避ける",
+        "作成する"
+      ],
+      "correctAnswer": "経験する",
+      "explanation": "「go through」は、何か困難な状況や経験を経験することを意味します。ここでは、「私たちが経験したすべてのことの後で」という意味合いで使用されています。"
+    },
+    {
+      "id": 91,
+      "value": "be worthy",
+      "options": [
+        "価値がある",
+        "無価値である",
+        "疑わしい",
+        "偽物である"
+      ],
+      "correctAnswer": "価値がある",
+      "explanation": "「be worthy」は、「価値がある」「ふさわしい」という意味で、特定の行動や資格を持つ人物に適用されます。この文脈では、マーベルコミックのソーのハンマーを持ち上げることができるかどうかを議論しており、持ち上げるに「ふさわしい」人物かどうかを問うています。"
+    },
+    {
+      "id": 92,
+      "value": "look like",
+      "options": [
+        "〜のように見える",
+        "〜のように感じる",
+        "〜のように考える",
+        "〜のように振る舞う"
+      ],
+      "correctAnswer": "〜のように見える",
+      "explanation": "「look like」は、「〜のように見える」という意味で、外見や容姿が似ていることを表します。ここでは、泥棒が変装して誰にでもなりすませる可能性について述べています。"
+    },
+    {
+      "id": 93,
+      "value": "action figures",
+      "options": [
+        "アクションフィギュア",
+        "静止フィギュア",
+        "漫画本",
+        "映画ポスター"
+      ],
+      "correctAnswer": "アクションフィギュア",
+      "explanation": "「action figures」は、関節が動くように作られた人形のことで、特にスーパーヒーローや映画のキャラクターを模したものを指します。コレクターズアイテムとしても人気があります。"
+    },
+    {
+      "id": 94,
+      "value": "arranged for",
+      "options": [
+        "手配した",
+        "キャンセルした",
+        "拒否した",
+        "忘れた"
+      ],
+      "correctAnswer": "手配した",
+      "explanation": "「arranged for」は、「〜を手配した」「〜の準備をした」という意味で、ここでは母親がレンタカーを手配してくれたことを表しています。類似の表現としては、「made arrangements for」があります。"
+    },
+    {
+      "id": 95,
+      "value": "name the four state capitols",
+      "options": [
+        "州都の名前を挙げる",
+        "州の数を数える",
+        "州の場所を特定する",
+        "州の歴史を説明する"
+      ],
+      "correctAnswer": "州都の名前を挙げる",
+      "explanation": "「name the four state capitols」は、「4つの州都の名前を挙げる」という意味です。アメリカの地理に関する知識を問うクイズの形式で使われています。"
+    },
+    {
+      "id": 96,
+      "value": "pretty cool",
+      "options": [
+        "かなり冷たい",
+        "かなり素晴らしい",
+        "かなり難しい",
+        "かなり退屈"
+      ],
+      "correctAnswer": "かなり素晴らしい",
+      "explanation": "「pretty cool」は、「かなりかっこいい」「とても素晴らしい」という意味で、何かが魅力的であることを表現する際に使われます。「pretty」はここでは「かなり」「とても」という意味で、「very」と同様の役割を果たします。"
+    },
+    {
+      "id": 97,
+      "value": "starting to feel like",
+      "options": [
+        "〜のように感じ始めている",
+        "〜のように感じるのをやめた",
+        "〜のように感じるのを恐れている",
+        "〜のように感じるのを期待している"
+      ],
+      "correctAnswer": "〜のように感じ始めている",
+      "explanation": "「starting to feel like」は、「〜のように感じ始めている」という意味で、ここでは自分がばかげた存在であるように感じ始めていることを表しています。徐々に感情や感覚が変化していく様子を表す際に用いられます。"
+    },
+    {
+      "id": 98,
+      "value": "the last time",
+      "options": [
+        "最後",
+        "最初",
+        "いつも",
+        "時々"
+      ],
+      "correctAnswer": "最後",
+      "explanation": "「the last time」は、「最後」という意味で、ここでは「私たちが外に出かけるのは今回が最後だ」という決意を表しています。二度と繰り返したくない経験について述べる際に用いられます。"
+    },
+    {
+      "id": 99,
+      "value": "touching the strap",
+      "options": [
+        "ストラップに触れている",
+        "ストラップを切っている",
+        "ストラップを無視している",
+        "ストラップを交換している"
+      ],
+      "correctAnswer": "ストラップに触れている",
+      "explanation": "「touching the strap」は、「ストラップに触れている」という意味で、ここではソーのハンマーに付いているストラップに触れていることを指しています。漫画や映画の設定に関する議論で用いられる表現です。"
+    },
+    {
+      "id": 100,
+      "value": "You learn something new every day.",
+      "options": [
+        "毎日何か新しいことを学ぶ",
+        "毎日同じことを学ぶ",
+        "毎日何も学ばない",
+        "毎日何かを忘れる"
+      ],
+      "correctAnswer": "毎日何か新しいことを学ぶ",
+      "explanation": "「You learn something new every day.」は、「毎日何か新しいことを学ぶ」という意味で、新しい知識や情報に触れた際に使われる一般的な表現です。意外な事実や発見があったときに、その驚きや喜びを表すために用いられます。"
+    }
+  ]
+}

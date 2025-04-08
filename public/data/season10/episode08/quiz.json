@@ -1,0 +1,1036 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "on a scale of one to ten",
+      "options": [
+        "1から10のスケールで",
+        "10段階評価で",
+        "重要度で",
+        "頻度で"
+      ],
+      "correctAnswer": "10段階評価で",
+      "explanation": "「on a scale of one to ten」は、ある事柄の程度や重要度を1から10の段階で評価する際に用いられる表現です。日常会話で広く使われ、主観的な評価を伝えるのに便利です。 例：On a scale of one to ten, how would you rate your pain?（痛みを1から10で評価するとどれくらいですか？）"
+    },
+    {
+      "id": 2,
+      "value": "biting your face off",
+      "options": [
+        "顔をしかめる",
+        "顔を殴る",
+        "顔を噛み砕く",
+        "顔を洗う"
+      ],
+      "correctAnswer": "顔を噛み砕く",
+      "explanation": "「bite someone's face off」は、文字通りには「顔を噛み砕く」という意味ですが、比喩的には非常に怒って激しく攻撃する、または厳しく叱責することを意味します。 例：My boss bit my face off when I made a mistake.（私がミスをしたとき、上司は私を厳しく叱責した。）"
+    },
+    {
+      "id": 3,
+      "value": "synthesize",
+      "options": [
+        "分析する",
+        "合成する",
+        "分解する",
+        "想像する"
+      ],
+      "correctAnswer": "合成する",
+      "explanation": "「synthesize」は、複数の要素を組み合わせて新しいものを合成する、または作り出すという意味です。科学、化学、音楽、文学など、様々な分野で使用されます。例文：The scientist synthesized a new compound in the lab.（科学者は実験室で新しい化合物を合成した。）"
+    },
+    {
+      "id": 4,
+      "value": "harvest",
+      "options": [
+        "収穫する",
+        "植える",
+        "育てる",
+        "加工する"
+      ],
+      "correctAnswer": "収穫する",
+      "explanation": "「harvest」は、農作物を収穫するという意味の他に、何かを集める、採取するという意味も持ちます。比喩的に、利益や結果を得るという意味でも使われます。例：They harvested data from the survey.（彼らは調査からデータを収集した。）"
+    },
+    {
+      "id": 5,
+      "value": "jiminy",
+      "options": [
+        "本当に",
+        "まさか",
+        "しまった",
+        "すごい"
+      ],
+      "correctAnswer": "しまった",
+      "explanation": "「jiminy」は、驚きや軽いショックを表す感嘆詞です。「Jiminy Cricket」というキャラクターに由来し、主にアメリカ英語で使用されます。より強い表現を避けたい場合に使われます。例：Jiminy, I forgot my keys!（しまった、鍵を忘れた！）"
+    },
+    {
+      "id": 6,
+      "value": "converted into",
+      "options": [
+        "変換された",
+        "変換する",
+        "変換される",
+        "変化しない"
+      ],
+      "correctAnswer": "変換された",
+      "explanation": "「convert into」は、ある状態や形から別の状態や形に変換されることを意味します。物理的な変換だけでなく、抽象的な変化にも使われます。例：The old factory was converted into apartments.（古い工場はアパートに改造された。）"
+    },
+    {
+      "id": 7,
+      "value": "charge",
+      "options": [
+        "突撃",
+        "充電",
+        "請求",
+        "告発"
+      ],
+      "correctAnswer": "突撃",
+      "explanation": "「charge」は、ここでは「突撃」や「攻撃」という意味で使用されています。何かを始める合図としても使われます。スポーツや軍事的な状況でよく使われる言葉です。例：They charged forward into battle. (彼らは戦いに向かって突撃した。)"
+    },
+    {
+      "id": 8,
+      "value": "extrasolar",
+      "options": [
+        "太陽の",
+        "太陽系の",
+        "太陽系外の",
+        "惑星の"
+      ],
+      "correctAnswer": "太陽系外の",
+      "explanation": "「extrasolar」は、「太陽系外の」という意味で、太陽系外にある惑星や天体を指す際に用いられます。天文学や宇宙科学の分野でよく使われる専門用語です。例：Extrasolar planets are a focus of current astronomical research. (太陽系外惑星は現在の天文学研究の焦点である。)"
+    },
+    {
+      "id": 9,
+      "value": "trash",
+      "options": [
+        "宝物",
+        "ゴミ",
+        "秘密",
+        "冗談"
+      ],
+      "correctAnswer": "ゴミ",
+      "explanation": "「trash」は、ここでは「ゴミ」という意味で使用されています。また、「くだらないもの」や「価値のないもの」という意味合いでも使われます。例：Don't talk trash about my favorite band. (私の好きなバンドの悪口を言わないで。)"
+    },
+    {
+      "id": 10,
+      "value": "dip",
+      "options": [
+        "浸す",
+        "揚げる",
+        "焼く",
+        "蒸す"
+      ],
+      "correctAnswer": "浸す",
+      "explanation": "「dip」は、液体や粉末に何かを浸すという意味です。料理の場面でよく使われますが、比喩的に「少しだけ参加する」という意味もあります。例：She dipped her toes in the pool. (彼女はプールにつま先を浸した。)"
+    },
+    {
+      "id": 11,
+      "value": "waste paper basket",
+      "options": [
+        "貴重品入れ",
+        "ゴミ箱",
+        "書類ケース",
+        "裁縫箱"
+      ],
+      "correctAnswer": "ゴミ箱",
+      "explanation": "「waste paper basket」は、「紙くずかご」や「ゴミ箱」という意味です。オフィスや家庭で不要になった紙類を捨てるための容器を指します。アメリカ英語では「trash can」や「garbage can」という表現も一般的です。例：Please throw the used paper into the waste paper basket. (使用済みの紙はゴミ箱に捨ててください。)"
+    },
+    {
+      "id": 12,
+      "value": "empty calories",
+      "options": [
+        "重要なカロリー",
+        "無駄なカロリー",
+        "健康的なカロリー",
+        "必要なカロリー"
+      ],
+      "correctAnswer": "無駄なカロリー",
+      "explanation": "「empty calories」は、栄養価がほとんどなく、カロリーだけが高い食品を指します。お菓子やジャンクフードなどに含まれることが多いです。健康的な食生活を送る上で避けるべき食品とされています。例：Soda and candy are sources of empty calories. (ソーダとキャンディは無駄なカロリーの源である。)"
+    },
+    {
+      "id": 13,
+      "value": "endeavours",
+      "options": [
+        "努力",
+        "休憩",
+        "趣味",
+        "才能"
+      ],
+      "correctAnswer": "努力",
+      "explanation": "「endeavor」は、目標達成のために行う努力や試みを意味します。ビジネスや学術的な文脈でよく使われるフォーマルな言葉です。発音は「エンデヴァー」です。例：His latest endeavour is to climb Mount Everest. (彼の最新の試みはエベレスト登頂である。)"
+    },
+    {
+      "id": 14,
+      "value": "stimulus",
+      "options": [
+        "刺激",
+        "抑制",
+        "麻痺",
+        "鎮静"
+      ],
+      "correctAnswer": "刺激",
+      "explanation": "「stimulus」は、生物やシステムに反応を引き起こす刺激や要因を意味します。医学、心理学、経済学など、幅広い分野で使用されます。複数形は「stimuli」です。例：The bright light was a stimulus for her eyes. (明るい光は彼女の目にとって刺激だった。)"
+    },
+    {
+      "id": 15,
+      "value": "profound",
+      "options": [
+        "表面的な",
+        "深刻な",
+        "些細な",
+        "一時的な"
+      ],
+      "correctAnswer": "深刻な",
+      "explanation": "「profound」は、非常に深く、重要な意味を持つことを表します。感情、知識、理解など、抽象的な概念に対して使われることが多いです。例：She has a profound understanding of the subject. (彼女はその主題について深い理解を持っている。)"
+    },
+    {
+      "id": 16,
+      "value": "rudimentary",
+      "options": [
+        "基本的な",
+        "複雑な",
+        "高度な",
+        "最新の"
+      ],
+      "correctAnswer": "基本的な",
+      "explanation": "「rudimentary」は、ごく基本的な、初歩的なという意味です。未発達な状態や、基礎的な段階にあるものを指します。例：He has only a rudimentary knowledge of French. (彼はフランス語の初歩的な知識しかない。)"
+    },
+    {
+      "id": 17,
+      "value": "neural network",
+      "options": [
+        "神経組織",
+        "神経回路網",
+        "血管網",
+        "呼吸器系"
+      ],
+      "correctAnswer": "神経回路網",
+      "explanation": "「neural network」は、脳の神経細胞のつながりを模倣した数理モデルです。人工知能や機械学習の分野で、画像認識や自然言語処理などのタスクに用いられます。例：Neural networks are used in many AI applications. (ニューラルネットワークは多くのAIアプリケーションで使用されている。)"
+    },
+    {
+      "id": 18,
+      "value": "functional",
+      "options": [
+        "機能的な",
+        "非機能的な",
+        "装飾的な",
+        "時代遅れの"
+      ],
+      "correctAnswer": "機能的な",
+      "explanation": "「functional」は、機能的な、実用的なという意味です。正常に機能することや、特定の目的を果たすことができる状態を指します。例：This app is very functional and easy to use. (このアプリは非常に機能的で使いやすい。)"
+    },
+    {
+      "id": 19,
+      "value": "remarkable",
+      "options": [
+        "注目に値する",
+        "普通の",
+        "退屈な",
+        "ありふれた"
+      ],
+      "correctAnswer": "注目に値する",
+      "explanation": "「remarkable」は、注目に値する、驚くべきという意味です。珍しいことや、印象的なことに対して使われます。例：She has a remarkable talent for music. (彼女は音楽において注目に値する才能を持っている。)"
+    },
+    {
+      "id": 20,
+      "value": "get out of someone's way",
+      "options": [
+        "邪魔をする",
+        "手伝う",
+        "邪魔をしない",
+        "慰める"
+      ],
+      "correctAnswer": "邪魔をしない",
+      "explanation": "「get out of someone's way」は、誰かの邪魔にならないようにする、または退くという意味です。文字通りには「誰かの道から出る」という意味になります。例：Please get out of my way, I'm trying to clean. (掃除しようとしているので、邪魔をしないでください。)"
+    },
+    {
+      "id": 21,
+      "value": "wobble",
+      "options": [
+        "安定",
+        "振動",
+        "静止",
+        "固定"
+      ],
+      "correctAnswer": "振動",
+      "explanation": "「wobble」は、不安定に揺れる、ぐらつくという意味です。物理的な揺れだけでなく、比喩的に不安定な状況を表すこともあります。例：The table has a wobble. (そのテーブルはぐらついている。)"
+    },
+    {
+      "id": 22,
+      "value": "neurons",
+      "options": [
+        "筋肉",
+        "神経細胞",
+        "血管",
+        "骨"
+      ],
+      "correctAnswer": "神経細胞",
+      "explanation": "「neuron」は、神経細胞という意味です。脳や神経系を構成する基本的な単位で、電気信号を伝達する役割を持っています。例：Neurons transmit signals throughout the body. (ニューロンは体全体に信号を伝達する。)"
+    },
+    {
+      "id": 23,
+      "value": "astrocytes",
+      "options": [
+        "星細胞",
+        "血液細胞",
+        "骨細胞",
+        "筋細胞"
+      ],
+      "correctAnswer": "星細胞",
+      "explanation": "「astrocytes」は、星細胞という意味です。脳や脊髄に存在するグリア細胞の一種で、神経細胞のサポートや栄養供給などの役割を担っています。例：Astrocytes play a crucial role in brain function. (星細胞は脳機能において重要な役割を果たす。)"
+    },
+    {
+      "id": 24,
+      "value": "primitive",
+      "options": [
+        "原始的な",
+        "現代的な",
+        "洗練された",
+        "複雑な"
+      ],
+      "correctAnswer": "原始的な",
+      "explanation": "「primitive」は、原始的な、未発達なという意味です。初期の段階や、単純な構造を持つものを指します。例：The tribe lives in primitive conditions. (その部族は原始的な環境で生活している。)"
+    },
+    {
+      "id": 25,
+      "value": "incomplete",
+      "options": [
+        "完全な",
+        "不完全な",
+        "正確な",
+        "詳細な"
+      ],
+      "correctAnswer": "不完全な",
+      "explanation": "「incomplete」は、不完全な、未完成という意味です。全体の一部が欠けている状態や、必要な要素が揃っていない状態を指します。例：The project is still incomplete. (そのプロジェクトはまだ不完全だ。)"
+    },
+    {
+      "id": 26,
+      "value": "screwed up",
+      "options": [
+        "成功した",
+        "混乱した",
+        "台無しにした",
+        "改善した"
+      ],
+      "correctAnswer": "台無しにした",
+      "explanation": "「screw up」は、何かを失敗する、台無しにするという意味の口語表現です。計画や行動がうまくいかなかった状況で使われます。日常会話でよく使われるカジュアルな表現です。\n\n例：I really screwed up that exam. (あの試験、本当にしくじった。)"
+    },
+    {
+      "id": 27,
+      "value": "self-conscious",
+      "options": [
+        "自信過剰な",
+        "自己中心的",
+        "自意識過剰な",
+        "利己的な"
+      ],
+      "correctAnswer": "自意識過剰な",
+      "explanation": "「self-conscious」は、自分の外見や行動、他人からの評価を非常に気にする状態を表します。他人に見られていると感じ、不安や恥ずかしさを感じやすい性格を表す形容詞です。\n\n例：She's very self-conscious about her weight. (彼女は自分の体重をとても気にしている。)"
+    },
+    {
+      "id": 28,
+      "value": "Bam",
+      "options": [
+        "おしまい",
+        "やった",
+        "残念",
+        "なるほど"
+      ],
+      "correctAnswer": "やった",
+      "explanation": "「Bam」は、主にアメリカ英語のスラングで、何かを成し遂げた時や、事がうまく運んだ時に使われる感嘆詞です。「やった！」「ビンゴ！」のようなニュアンスで、驚きや達成感を伴います。\n\n例：Bam! I got it right! (やった！ 正解した！)"
+    },
+    {
+      "id": 29,
+      "value": "have so much in common",
+      "options": [
+        "共通点が少ない",
+        "多くの秘密を共有する",
+        "共通点が多い",
+        "多くの敵がいる"
+      ],
+      "correctAnswer": "共通点が多い",
+      "explanation": "「have something in common」は、「共通点がある」という意味のイディオムです。「so much」を加えることで、共通点が「非常に多い」ことを強調しています。人間関係において、共感や親近感を抱く根拠となる共通の興味、経験、価値観などを指します。\n\n例：They have so much in common, it's no wonder they're friends. (彼らは共通点が非常に多いので、友達であるのも不思議ではない。)"
+    },
+    {
+      "id": 30,
+      "value": "proper",
+      "options": [
+        "不適切な",
+        "独自の",
+        "適切な",
+        "乱暴な"
+      ],
+      "correctAnswer": "適切な",
+      "explanation": "「proper」は、「適切な」「正式な」「きちんとした」という意味を持つ形容詞です。状況や目的に合致していることや、社会的に受け入れられる基準を満たしていることを表します。\n\n例：We haven't even been on a proper date yet. (まだちゃんとしたデートもしていない。)"
+    },
+    {
+      "id": 31,
+      "value": "sky's the limit",
+      "options": [
+        "限界がある",
+        "危険が迫っている",
+        "可能性は無限大",
+        "空が狭い"
+      ],
+      "correctAnswer": "可能性は無限大",
+      "explanation": "「Sky's the limit」は、「可能性は無限大」「限界はない」という意味のイディオムです。努力次第でどこまでも成長できる、目標達成に制限はないという肯定的なメッセージを伝えます。\n\n例：If you work hard, sky's the limit! (一生懸命頑張れば、可能性は無限大だ！)"
+    },
+    {
+      "id": 32,
+      "value": "running out of",
+      "options": [
+        "～を使い始める",
+        "～を使い切る",
+        "～を怖がる",
+        "～を見つける"
+      ],
+      "correctAnswer": "～を使い切る",
+      "explanation": "「run out of」は、「～を使い果たす」「～がなくなる」という意味の句動詞です。資源、時間、忍耐など、様々なものが尽きる状況を表します。\n\n例：I'm running out of ideas. (アイデアが尽きてきた。)"
+    },
+    {
+      "id": 33,
+      "value": "off the charts",
+      "options": [
+        "記録に残らない",
+        "平均以下",
+        "非常に高い",
+        "グラフに表示されない"
+      ],
+      "correctAnswer": "非常に高い",
+      "explanation": "「off the charts」は、「記録を大幅に超えている」「非常に高い」「桁外れ」という意味のイディオムです。通常、グラフやチャートで表現できる範囲を超えている状況を表します。\n\n例：The company's profits are off the charts this year. (今年の会社の利益は非常に高い。)"
+    },
+    {
+      "id": 34,
+      "value": "for the heck of it",
+      "options": [
+        "健康のために",
+        "記録のために",
+        "特に理由もなく",
+        "運を試すために"
+      ],
+      "correctAnswer": "特に理由もなく",
+      "explanation": "「for the heck of it」は、「特に理由もなく」「面白半分に」という意味の口語表現です。明確な目的や理由があるわけではなく、気まぐれや遊び心から何かをする状況を表します。\n\n例：I went for a swim for the heck of it. (特に理由もなく泳ぎに行った。)"
+    },
+    {
+      "id": 35,
+      "value": "state-of-the-art",
+      "options": [
+        "時代遅れの",
+        "標準以下の",
+        "最新式の",
+        "手作りの"
+      ],
+      "correctAnswer": "最新式の",
+      "explanation": "「state-of-the-art」は、「最新式の」「最先端の」という意味の形容詞です。技術やデザインなどが現時点で最も進んでいる状態を表します。\n\n例：The lab is equipped with state-of-the-art equipment. (その研究室は最新式の設備を備えている。)"
+    },
+    {
+      "id": 36,
+      "value": "foolish",
+      "options": [
+        "賢明な",
+        "勇敢な",
+        "愚かな",
+        "正直な"
+      ],
+      "correctAnswer": "愚かな",
+      "explanation": "「foolish」は、「愚かな」「ばかげた」という意味の形容詞です。分別がなく、思慮に欠ける行動や考えを指します。\n\n例：It would be foolish to invest all your money in one company. (全財産を一つの会社に投資するのは愚かだろう。)"
+    },
+    {
+      "id": 51,
+      "value": "unencumbered",
+      "options": [
+        "邪魔されている",
+        "自由な",
+        "責任がある",
+        "疲れている"
+      ],
+      "correctAnswer": "自由な",
+      "explanation": "「unencumbered」は、負担や障害がない、自由な状態を指します。物理的な束縛だけでなく、精神的な制約がない状態も意味します。例：He felt unencumbered by the responsibilities of his previous job.（彼は以前の仕事の責任から解放された気分だった。）"
+    },
+    {
+      "id": 52,
+      "value": "take it personal",
+      "options": [
+        "個人的に受け取る",
+        "公にする",
+        "提案する",
+        "記録する"
+      ],
+      "correctAnswer": "個人的に受け取る",
+      "explanation": "「take it personal」は、個人的な感情や意見として受け止めるという意味です。通常、相手の発言や行動を自分自身への攻撃や批判と解釈する状況で使われます。例：Don't take it personal, it's just business.（個人的に受け取らないで、これはただのビジネスです。）"
+    },
+    {
+      "id": 53,
+      "value": "fumes",
+      "options": [
+        "香り",
+        "煙",
+        "液体",
+        "固体"
+      ],
+      "correctAnswer": "煙",
+      "explanation": "「fumes」は、気体状の刺激臭や有害な蒸気を指します。化学物質や工業プロセスから発生することが多いです。例：The fumes from the factory were making people sick.（工場からの煙で人々が気分が悪くなった。）"
+    },
+    {
+      "id": 54,
+      "value": "white noise",
+      "options": [
+        "騒音",
+        "静寂",
+        "無意味な情報",
+        "有益な情報"
+      ],
+      "correctAnswer": "無意味な情報",
+      "explanation": "「white noise」は、全ての周波数成分を均等に含むノイズのことです。情報伝達においては、意味のない、または邪魔な信号を指すことがあります。例：The image was obscured by white noise.（画像はホワイトノイズによって不明瞭になった。）"
+    },
+    {
+      "id": 55,
+      "value": "replicate",
+      "options": [
+        "再現する",
+        "拒否する",
+        "修正する",
+        "無視する"
+      ],
+      "correctAnswer": "再現する",
+      "explanation": "「replicate」は、実験や研究の結果を再現することを意味します。同じ条件で同じ結果が得られるかを確認するために行われます。例：The scientist tried to replicate the experiment.（科学者は実験を再現しようとした。）"
+    },
+    {
+      "id": 56,
+      "value": "exceptional",
+      "options": [
+        "平均的な",
+        "例外的な",
+        "標準的な",
+        "一般的な"
+      ],
+      "correctAnswer": "例外的な",
+      "explanation": "「exceptional」は、非常に優れている、並外れているという意味です。普通以上の能力や品質を持つことを指します。例：She has exceptional talent in music.（彼女は音楽において並外れた才能を持っている。）"
+    },
+    {
+      "id": 57,
+      "value": "fertile",
+      "options": [
+        "不毛な",
+        "肥沃な",
+        "乾燥した",
+        "汚染された"
+      ],
+      "correctAnswer": "肥沃な",
+      "explanation": "「fertile」は、土地が肥沃である、または生物が繁殖しやすい状態を指します。比喩的に、アイデアや創造性が豊かであることを意味することもあります。例：The land is fertile and produces abundant crops.（その土地は肥沃で、豊富な作物を生産する。）"
+    },
+    {
+      "id": 58,
+      "value": "manure",
+      "options": [
+        "肥料",
+        "水",
+        "農薬",
+        "種"
+      ],
+      "correctAnswer": "肥料",
+      "explanation": "「manure」は、動物の糞尿を肥料として利用するものを指します。土地を肥沃にするために使われます。例：The farmer spread manure on the field.（農家は畑に肥料をまいた。）"
+    },
+    {
+      "id": 59,
+      "value": "thrilled",
+      "options": [
+        "落胆した",
+        "興奮した",
+        "退屈した",
+        "心配した"
+      ],
+      "correctAnswer": "興奮した",
+      "explanation": "「thrilled」は、非常に興奮して喜んでいる状態を表します。強い喜びや感動を表す際に使われます。例：She was thrilled to receive the award.（彼女は賞を受け取って非常に興奮した。）"
+    },
+    {
+      "id": 60,
+      "value": "procreate",
+      "options": [
+        "創造する",
+        "繁殖する",
+        "破壊する",
+        "研究する"
+      ],
+      "correctAnswer": "繁殖する",
+      "explanation": "「procreate」は、子孫を繁殖させる、子供を作るという意味です。生物学的な意味合いが強い言葉です。例：Humans procreate to continue the species.（人類は種を存続させるために繁殖する。）"
+    },
+    {
+      "id": 61,
+      "value": "playing hard to get",
+      "options": [
+        "手に入りやすい",
+        "駆け引きをする",
+        "正直である",
+        "興味がない"
+      ],
+      "correctAnswer": "駆け引きをする",
+      "explanation": "「playing hard to get」は、相手の関心を引くために、わざと気のないふりをする、簡単には手に入らないように振る舞うことを意味します。恋愛関係でよく使われる表現です。例：She's just playing hard to get, she really likes you.（彼女はただ駆け引きをしているだけで、本当はあなたのことが好きだ。）"
+    },
+    {
+      "id": 62,
+      "value": "explicit",
+      "options": [
+        "曖昧な",
+        "明確な",
+        "暗示的な",
+        "秘密の"
+      ],
+      "correctAnswer": "明確な",
+      "explanation": "「explicit」は、明確で直接的な、はっきりとしたという意味です。誤解の余地がないように、詳細に説明されている状態を指します。例：The instructions were very explicit.（指示は非常に明確だった。）"
+    },
+    {
+      "id": 63,
+      "value": "freakishly",
+      "options": [
+        "普通に",
+        "異常に",
+        "定期的に",
+        "偶然に"
+      ],
+      "correctAnswer": "異常に",
+      "explanation": "「freakishly」は、奇妙なほど、異常にという意味です。通常とは大きく異なる様子を表します。例：The weather was freakishly warm for December.（12月にしては異常に暖かかった。）"
+    },
+    {
+      "id": 64,
+      "value": "component",
+      "options": [
+        "全体",
+        "要素",
+        "結果",
+        "過程"
+      ],
+      "correctAnswer": "要素",
+      "explanation": "「component」は、全体を構成する要素や部品を指します。システムや構造の一部として機能するものを意味します。例：The engine is a key component of the car.（エンジンは車の重要な要素である。）"
+    },
+    {
+      "id": 65,
+      "value": "hall",
+      "options": [
+        "庭",
+        "広間",
+        "台所",
+        "寝室"
+      ],
+      "correctAnswer": "広間",
+      "explanation": "hallは、家の玄関から続く廊下や、大きな部屋、集会所などの意味があります。ここでは廊下の意味で使われています。例：The paintings were hung in the hall.（絵画は広間に飾られていた。）"
+    },
+    {
+      "id": 66,
+      "value": "suppose",
+      "options": [
+        "提案する",
+        "仮定する",
+        "拒否する",
+        "証明する"
+      ],
+      "correctAnswer": "仮定する",
+      "explanation": "「suppose」は、～と仮定する、～と思うという意味です。確信はないが、ある程度信じていることを表します。例：I suppose it will rain tomorrow.（明日は雨が降ると思う。）"
+    },
+    {
+      "id": 67,
+      "value": "nosy",
+      "options": [
+        "内気な",
+        "詮索好きな",
+        "友好的な",
+        "静かな"
+      ],
+      "correctAnswer": "詮索好きな",
+      "explanation": "「nosy」は、他人のことに不必要に干渉する、詮索好きなという意味です。ネガティブなニュアンスを持つ言葉です。例：She was a nosy neighbor who always asked too many questions.（彼女はいつも質問ばかりする詮索好きな隣人だった。）"
+    },
+    {
+      "id": 68,
+      "value": "under the stars",
+      "options": [
+        "屋内で",
+        "星空の下で",
+        "日陰で",
+        "雨の中で"
+      ],
+      "correctAnswer": "星空の下で",
+      "explanation": "「under the stars」は、星空の下でという意味です。ロマンチックな雰囲気や自然の中で過ごす状況を表します。例：We had a picnic under the stars.（私たちは星空の下でピクニックをした。）"
+    },
+    {
+      "id": 69,
+      "value": "gives me a little time",
+      "options": [
+        "時間を無駄にする",
+        "少し時間を与える",
+        "時間を節約する",
+        "時間がない"
+      ],
+      "correctAnswer": "少し時間を与える",
+      "explanation": "「gives me a little time」は、少し時間を与えてくれるという意味です。何かの活動や休憩のために、わずかな時間ができることを表します。例：The delay gives me a little time to prepare.（遅延によって、準備のための時間が少しできた。）"
+    },
+    {
+      "id": 70,
+      "value": "as well",
+      "options": [
+        "全くない",
+        "同様に",
+        "代わりに",
+        "それにもかかわらず"
+      ],
+      "correctAnswer": "同様に",
+      "explanation": "「as well」は、～もまた、同様にという意味です。追加の情報や意見を付け加える際に使われます。例：I like to read, and I like to write as well.（私は読書が好きで、書くことも同様に好きだ。）"
+    },
+    {
+      "id": 71,
+      "value": "Good night",
+      "options": [
+        "こんにちは",
+        "こんばんは",
+        "おはよう",
+        "さようなら"
+      ],
+      "correctAnswer": "こんばんは",
+      "explanation": "「Good night」は、こんばんは、おやすみという意味です。夜に別れを告げる際に使われる挨拶です。例：Good night, see you tomorrow.（おやすみ、また明日。）"
+    },
+    {
+      "id": 72,
+      "value": "What is this?",
+      "options": [
+        "これは何ですか？",
+        "どこですか？",
+        "誰ですか？",
+        "なぜですか？"
+      ],
+      "correctAnswer": "これは何ですか？",
+      "explanation": "「What is this?」は、これは何ですか？という意味です。見慣れないものや理解できないものを指して尋ねる際に使われます。例：What is this strange object?（この奇妙な物体は何ですか？）"
+    },
+    {
+      "id": 73,
+      "value": "I think",
+      "options": [
+        "私は知っている",
+        "私は思う",
+        "私は信じている",
+        "私は疑っている"
+      ],
+      "correctAnswer": "私は思う",
+      "explanation": "「I think」は、私は思う、～だと思うという意味です。自分の意見や考えを述べる際に使われます。確信がない場合や、控えめな表現として使われることがあります。例：I think it's going to rain.（雨が降ると思う。）"
+    },
+    {
+      "id": 74,
+      "value": "you know",
+      "options": [
+        "私は知っている",
+        "あなたは知っている",
+        "彼は知っている",
+        "彼女は知っている"
+      ],
+      "correctAnswer": "あなたは知っている",
+      "explanation": "「you know」は、あなたは知っている、～でしょ、～じゃんという意味です。相手に同意を求めたり、共通の認識を確認する際に使われます。会話を円滑に進めるための言葉としても使われます。例：It's a really good movie, you know?（本当に良い映画だよ、知ってるでしょ？）"
+    },
+    {
+      "id": 75,
+      "value": "Look at that",
+      "options": [
+        "あっちを見て",
+        "それを見て",
+        "ここを見て",
+        "こっちを見て"
+      ],
+      "correctAnswer": "それを見て",
+      "explanation": "「Look at that」は、それを見て、見てごらんという意味です。何かを指し示して相手に注意を促す際に使われます。驚きや感嘆の気持ちを込めて使われることもあります。例：Look at that beautiful sunset!（あの美しい夕日を見てごらん！）"
+    },
+    {
+      "id": 76,
+      "value": "picked a fight with",
+      "options": [
+        "仲良くする",
+        "喧嘩を売る",
+        "無視する",
+        "助ける"
+      ],
+      "correctAnswer": "喧嘩を売る",
+      "explanation": "「pick a fight with」は、誰かと喧嘩を始める、争いを仕掛けるという意味です。相手が誰であれ、積極的に対立しようとする状況で使われます。文字通り物理的な喧嘩を指すこともありますが、口論や議論を始める場合にも使われます。\n\n例：He's always picking fights with his brother. (彼はいつも兄弟に喧嘩を売っている。)"
+    },
+    {
+      "id": 77,
+      "value": "gonna get some",
+      "options": [
+        "手に入れる",
+        "叱られる",
+        "成功する",
+        "逃げる"
+      ],
+      "correctAnswer": "手に入れる",
+      "explanation": "「gonna get some」は、性的な意味合いを含むスラングです。「性的な関係を持つことができる」という意味合いで使われます。ここではPennyがSheldonに対してからかうように使っています。非常にカジュアルな表現なので、使用する場面には注意が必要です。"
+    },
+    {
+      "id": 78,
+      "value": "nightmare’s behind door number two",
+      "options": [
+        "幸運",
+        "悪夢",
+        "チャンス",
+        "秘密"
+      ],
+      "correctAnswer": "悪夢",
+      "explanation": "これはテレビのクイズ番組を意識した比喩的な表現で、「door number two」は選択肢の一つを指します。ここでは、Amyとの関係が面倒なことになるだろうというLeonardの予測を表しています。「nightmare」は悪夢、恐ろしい状況を意味し、この場合はSheldonとAmyの関係がこじれることを暗示しています。"
+    },
+    {
+      "id": 79,
+      "value": "seduce",
+      "options": [
+        "教育する",
+        "魅了する",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "魅了する",
+      "explanation": "「seduce」は、人を魅了する、誘惑するという意味です。しばしば性的な意味合いを伴いますが、広義には人の心を惹きつける、引き込むという意味でも使われます。ここでは、SheldonがAmyを誘惑しようとしている、という文脈で使われています。\n\n例：The politician seduced the voters with promises of tax cuts. (その政治家は減税の約束で有権者を魅了した。)"
+    },
+    {
+      "id": 80,
+      "value": "deer musk",
+      "options": [
+        "鹿の香水",
+        "鹿の肉",
+        "鹿の毛皮",
+        "鹿の骨"
+      ],
+      "correctAnswer": "鹿の香水",
+      "explanation": "「deer musk」は、ジャコウジカから採取される香料のことです。独特の強い香りがあり、香水の原料として使われます。Sheldonが自分を誘惑するために使っていると冗談めかして言っています。"
+    },
+    {
+      "id": 81,
+      "value": "petting zoo",
+      "options": [
+        "ペットショップ",
+        "動物園",
+        "ふれあい動物園",
+        "水族館"
+      ],
+      "correctAnswer": "ふれあい動物園",
+      "explanation": "「petting zoo」は、子供たちが動物と触れ合えるように作られた小規模な動物園のことです。ここでは、鹿の香水の匂いを例えて、petting zooの匂いがすると言っています。"
+    },
+    {
+      "id": 82,
+      "value": "goop",
+      "options": [
+        "食べ物",
+        "ゴミ",
+        "液体",
+        "ヘアジェル"
+      ],
+      "correctAnswer": "ヘアジェル",
+      "explanation": "「goop」は、粘着性のある、どろっとした物質を指す口語的な表現です。ここでは、Sheldonが自分の髪につけているヘアジェルを指しています。"
+    },
+    {
+      "id": 83,
+      "value": "time off",
+      "options": [
+        "残業時間",
+        "休憩時間",
+        "休暇",
+        "勤務時間"
+      ],
+      "correctAnswer": "休暇",
+      "explanation": "「time off」は、仕事や学校などから離れて自由な時間を過ごすことを意味します。休暇、休日、休憩などを指す一般的な表現です。\n\n例：I'm taking some time off next week to go on vacation. (来週、休暇を取って旅行に行く予定です。)"
+    },
+    {
+      "id": 84,
+      "value": "interrupting",
+      "options": [
+        "手伝う",
+        "邪魔する",
+        "招待する",
+        "応援する"
+      ],
+      "correctAnswer": "邪魔する",
+      "explanation": "「interrupt」は、人の話や行動を中断させる、邪魔するという意味です。ここでは、HowardがRajとIsabellaの会話を邪魔しているかどうかを尋ねています。\n\n例：Sorry to interrupt, but there's a phone call for you. (邪魔してすみませんが、あなたに電話です。)"
+    },
+    {
+      "id": 85,
+      "value": "grown woman",
+      "options": [
+        "若い女性",
+        "大人の女性",
+        "老女",
+        "未熟な女性"
+      ],
+      "correctAnswer": "大人の女性",
+      "explanation": "「grown woman」は、成人した女性、大人としての分別を持つ女性という意味です。ここでは、IsabellaがRajに対して、自分は自分の判断で行動できる大人だということを伝えています。"
+    },
+    {
+      "id": 86,
+      "value": "mortified",
+      "options": [
+        "満足している",
+        "恥ずかしい",
+        "興奮している",
+        "悲しい"
+      ],
+      "correctAnswer": "恥ずかしい",
+      "explanation": "「mortified」は、非常に恥ずかしい、当惑しているという意味です。Rajが自分の恥ずかしいと思うことをIsabellaに話す前に、Isabellaが驚く準備をするように言っています。\n\n例：I was mortified when I realized I had food on my face. (顔に食べ物がついていることに気づいたとき、とても恥ずかしかった。)"
+    },
+    {
+      "id": 87,
+      "value": "passing through",
+      "options": [
+        "通り過ぎる",
+        "参加する",
+        "滞在する",
+        "手伝う"
+      ],
+      "correctAnswer": "通り過ぎる",
+      "explanation": "「pass through」は、ある場所を通り過ぎる、通過するという意味です。ここでは、HowardがRajとIsabellaの会話を邪魔したことを謝り、単に通り過ぎただけだと説明しています。\n\n例：I'm just passing through on my way to the airport. (空港に行く途中で、ちょっと立ち寄っただけです。)"
+    },
+    {
+      "id": 88,
+      "value": "make it up to you",
+      "options": [
+        "仲直りする",
+        "プレゼントする",
+        "言い訳する",
+        "別れる"
+      ],
+      "correctAnswer": "仲直りする",
+      "explanation": "「make it up to someone」は、誰かに対して何か悪いことをした後に、埋め合わせをする、償いをするという意味です。RajがIsabellaに対して、自分の行動を謝罪し、埋め合わせをしたいと申し出ています。\n\n例：I'm sorry I missed your birthday. Let me make it up to you by taking you out to dinner. (誕生日を忘れてごめん。埋め合わせにディナーに連れて行くよ。)"
+    },
+    {
+      "id": 89,
+      "value": "persistent",
+      "options": [
+        "頑固な",
+        "優しい",
+        "面白い",
+        "正直な"
+      ],
+      "correctAnswer": "頑固な",
+      "explanation": "「persistent」は、粘り強い、根気強いという意味です。IsabellaがRajの粘り強さを指摘しています。\n\n例：She is a persistent salesperson who never gives up. (彼女は決して諦めない粘り強いセールスパーソンだ。)"
+    },
+    {
+      "id": 90,
+      "value": "one move",
+      "options": [
+        "得意技",
+        "引っ越し",
+        "いたずら",
+        "秘密"
+      ],
+      "correctAnswer": "得意技",
+      "explanation": "ここでは、Rajが女性を口説くときの常套手段、唯一の手段という意味で使われています。つまり、彼はいつも同じようにして女性を誘っているということを自虐的に表現しています。"
+    },
+    {
+      "id": 91,
+      "value": "turned on",
+      "options": [
+        "興奮する",
+        "眠くなる",
+        "怒る",
+        "悲しむ"
+      ],
+      "correctAnswer": "興奮する",
+      "explanation": "「turned on」は、性的興奮を感じるという意味のスラングです。ここでは、PennyがAmyに対して、Sheldonの行動に性的魅力を感じたかどうかを尋ねています。\n\n例：I was really turned on by his confident attitude. (彼の自信のある態度にとても惹かれた。)"
+    },
+    {
+      "id": 92,
+      "value": "hit on",
+      "options": [
+        "攻撃する",
+        "魅了する",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "魅了する",
+      "explanation": "「hit on」は、人に興味を持ち、恋愛関係を築こうと近づく、言い寄るという意味です。ここでは、AmyがSheldonから言い寄られたことに対する感想を述べています。\n\n例：He was trying to hit on me at the bar last night. (彼は昨夜、バーで私に言い寄ろうとしていた。)"
+    },
+    {
+      "id": 93,
+      "value": "Rat Pack",
+      "options": [
+        "ネズミの群れ",
+        "人気グループ",
+        "ギャング",
+        "秘密結社"
+      ],
+      "correctAnswer": "人気グループ",
+      "explanation": "「Rat Pack」は、1950年代から1960年代にかけて活躍した、フランク・シナトラ、ディーン・マーティン、サミー・デイヴィスJr.などのエンターテイナーたちのグループを指します。彼らは洗練されたスタイルとユーモアで人気を博しました。AmyはSheldonのことを、洗練されていないRat Packのようだと表現しています。"
+    },
+    {
+      "id": 94,
+      "value": "come to this",
+      "options": [
+        "理解する",
+        "至る",
+        "出発する",
+        "解決する"
+      ],
+      "correctAnswer": "至る",
+      "explanation": "「come to this」は、ある状況に至る、そうなるとは思わなかった、というニュアンスで使われます。ここでは、SheldonがAmyを誘惑するためにフラメンコを踊るという状況になったことを、残念に思っていることを示しています。\n\n例：I never thought our relationship would come to this. (私たちの関係がこうなるとは思わなかった。)"
+    },
+    {
+      "id": 95,
+      "value": "employ",
+      "options": [
+        "雇用する",
+        "使用する",
+        "無視する",
+        "避ける"
+      ],
+      "correctAnswer": "使用する",
+      "explanation": "「employ」は、道具や手段などを使用する、利用するという意味です。ここでは、Sheldonがフラメンコダンスを誘惑の手段として使うと言っています。\n\n例：The company employs the latest technology to improve efficiency. (その会社は効率を改善するために最新の技術を使用している。)"
+    },
+    {
+      "id": 96,
+      "value": "for God’s sake",
+      "options": [
+        "神に感謝する",
+        "お願いだから",
+        "神を信じる",
+        "神を疑う"
+      ],
+      "correctAnswer": "お願いだから",
+      "explanation": "「for God’s sake」は、驚き、怒り、苛立ちなどを表す感嘆詞です。「お願いだから」「いい加減にして」といったニュアンスで使われます。AmyがSheldonの行動に対してうんざりしている気持ちを表しています。\n\n例：For God's sake, be quiet! (お願いだから静かにして！)"
+    },
+    {
+      "id": 97,
+      "value": "aroused",
+      "options": [
+        "眠い",
+        "興奮している",
+        "怒っている",
+        "悲しい"
+      ],
+      "correctAnswer": "興奮している",
+      "explanation": "「aroused」は、性的興奮を感じている状態を指します。Sheldonが自分が踊っているフラメンコを見て、Leonardたちが興奮しているかどうかを尋ねています。\n\n例：The movie scene was very arousing. (その映画のシーンはとても刺激的だった。)"
+    },
+    {
+      "id": 98,
+      "value": "smart enough",
+      "options": [
+        "賢すぎる",
+        "十分に賢い",
+        "賢くない",
+        "ずる賢い"
+      ],
+      "correctAnswer": "十分に賢い",
+      "explanation": "「smart enough」は、あることをするのに十分な知性や能力を持っているという意味です。ここでは、Sheldonの両親が彼を家から出すのに十分な賢さを持っていた、という皮肉を込めた表現です。\n\n例：He is smart enough to understand the instructions. (彼は指示を理解するのに十分な賢さを持っている。)"
+    },
+    {
+      "id": 99,
+      "value": "doubt that",
+      "options": [
+        "確信する",
+        "疑う",
+        "知らない",
+        "信じる"
+      ],
+      "correctAnswer": "疑う",
+      "explanation": "「doubt that」は、相手の発言や主張に対して疑念を抱いていることを表す表現です。相手の言っていることが真実ではない、または起こりそうにないと感じている時に使われます。\n\n例：He said he could finish the project by tomorrow, but I doubt that. (彼は明日までにプロジェクトを終えると言ったが、私はそれを疑っている。)"
+    },
+    {
+      "id": 100,
+      "value": "smooth jazz",
+      "options": [
+        "激しいジャズ",
+        "スムーズジャズ",
+        "ブルース",
+        "ロック"
+      ],
+      "correctAnswer": "スムーズジャズ",
+      "explanation": "「smooth jazz」は、ジャズの一種で、メロディアスで聴きやすい音楽です。しばしばリラックスした雰囲気を作り出すために使われます。ここでは、SheldonがAmyを誘惑するためにsmooth jazzをかけると言っています。\n\n例：I like to listen to smooth jazz when I'm studying. (私は勉強するときにスムーズジャズを聴くのが好きだ。)"
+    }
+  ]
+}

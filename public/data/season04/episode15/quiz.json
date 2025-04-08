@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "groan",
+      "options": [
+        "笑う",
+        "うめき声",
+        "ささやく",
+        "叫ぶ"
+      ],
+      "correctAnswer": "うめき声",
+      "explanation": "「groan」は、苦痛、不快感、または不満を表すために発する低い、うめきのような音を意味します。ここでは、うんざりした感じを表しています。例：He groaned when he heard the news.（彼はそのニュースを聞いてうめいた。）"
+    },
+    {
+      "id": 2,
+      "value": "well-groomed",
+      "options": [
+        "疲れた",
+        "手入れの行き届いた",
+        "汚れた",
+        "準備不足の"
+      ],
+      "correctAnswer": "手入れの行き届いた",
+      "explanation": "「well-groomed」は、身なりがきちんとしていて、清潔感がある様子を表します。外見に気を配っている状態を指します。例：He is always well-groomed for business meetings.（彼はビジネスミーティングのためにいつも身なりを整えている。）"
+    },
+    {
+      "id": 3,
+      "value": "case closed",
+      "options": [
+        "事件発生",
+        "議論継続",
+        "解決済み",
+        "証拠不十分"
+      ],
+      "correctAnswer": "解決済み",
+      "explanation": "「case closed」は、議論や調査などが完了し、結論が出たことを意味する口語的な表現です。問題が解決したことを強調する際に使われます。例：We found the missing file, case closed.（紛失したファイルを見つけた、一件落着。）"
+    },
+    {
+      "id": 4,
+      "value": "bag on",
+      "options": [
+        "応援する",
+        "批判する",
+        "無視する",
+        "支持する"
+      ],
+      "correctAnswer": "批判する",
+      "explanation": "「bag on」は、スラングで誰かや何かを批判する、けなすという意味です。通常、非公式な会話で使われます。例：Don't bag on her just because she made a mistake.（彼女がミスをしたからといって、けなさないで。）"
+    },
+    {
+      "id": 5,
+      "value": "come off as",
+      "options": [
+        "始める",
+        "終わる",
+        "～という印象を与える",
+        "崩壊する"
+      ],
+      "correctAnswer": "～という印象を与える",
+      "explanation": "「come off as」は、特定の方法で人々に印象を与える、または感じさせるという意味です。外見や行動を通じて伝わる印象を表現します。例：He comes off as a very confident person.（彼はとても自信がある人のように見える。）"
+    },
+    {
+      "id": 6,
+      "value": "slumming",
+      "options": [
+        "休憩",
+        "下町見物",
+        "旅行",
+        "仕事"
+      ],
+      "correctAnswer": "下町見物",
+      "explanation": "「slumming」は、通常は富裕層や上流階級の人が、貧しい地域や下層階級の生活を一時的に体験することを意味します。ここでは、大学の学長が普段行かないカフェテリアにいることを指しています。例：They went slumming in the poorer part of town. (彼らは町の下町を見物に行った。)"
+    },
+    {
+      "id": 7,
+      "value": "mingle",
+      "options": [
+        "分離する",
+        "交流する",
+        "無視する",
+        "隠れる"
+      ],
+      "correctAnswer": "交流する",
+      "explanation": "「mingle」は、社交的な場で人々と打ち解けて交流することを意味します。特にパーティーやイベントなどで使われます。例：He likes to mingle at parties and meet new people.（彼はパーティーで交流して新しい人に会うのが好きだ。）"
+    },
+    {
+      "id": 8,
+      "value": "fondling",
+      "options": [
+        "無視",
+        "掴む",
+        "優しく触る",
+        "嫌悪"
+      ],
+      "correctAnswer": "優しく触る",
+      "explanation": "「fondle」は、愛情を込めて優しく触る、愛撫するという意味ですが、ここではDr. SiebertがSheldonの肩を触ることを指しています。例：She fondled the cat.（彼女は猫を愛撫した。）"
+    },
+    {
+      "id": 9,
+      "value": "phobia",
+      "options": [
+        "愛情",
+        "恐怖症",
+        "好み",
+        "知識"
+      ],
+      "correctAnswer": "恐怖症",
+      "explanation": "「phobia」は、特定の対象や状況に対する極度の恐怖や嫌悪感を意味します。医学的な意味合いで使用されることが多いです。例：He has a phobia of spiders.（彼はクモ恐怖症だ。）"
+    },
+    {
+      "id": 10,
+      "value": "up for",
+      "options": [
+        "反対",
+        "興味がある",
+        "知らない",
+        "準備不足"
+      ],
+      "correctAnswer": "興味がある",
+      "explanation": "「up for」は、何かをするのに乗り気である、興味があるという意味です。通常、提案や招待に対する肯定的な反応として使われます。例：Are you up for going to the movies tonight?（今夜映画に行くのはどう？）"
+    },
+    {
+      "id": 11,
+      "value": "windowless van",
+      "options": [
+        "高級車",
+        "窓のないバン",
+        "オープンカー",
+        "バス"
+      ],
+      "correctAnswer": "窓のないバン",
+      "explanation": "ここでは誘拐犯を連想させる表現として用いられています。比喩的な表現です。"
+    },
+    {
+      "id": 12,
+      "value": "reticence",
+      "options": [
+        "積極性",
+        "無関心",
+        "遠慮",
+        "興奮"
+      ],
+      "correctAnswer": "遠慮",
+      "explanation": "「reticence」は、自分の考えや感情をためらったり、隠したりする傾向を意味します。口数が少ない、控えめな態度を指します。例：His reticence made it difficult to know what he was thinking.（彼の遠慮がち態度のせいで、彼が何を考えているのかを知ることが難しかった。）"
+    },
+    {
+      "id": 13,
+      "value": "kiss a few butts",
+      "options": [
+        "お世辞を言う",
+        "殴る",
+        "無視する",
+        "反論する"
+      ],
+      "correctAnswer": "お世辞を言う",
+      "explanation": "「kiss ass」または「kiss butts」は、人に気に入られようとおべっかを使う、お世辞を言うという意味のスラングです。通常、権力者や有利な立場の人に対して使われます。例：He's always kissing the boss's ass to get a promotion.（彼は昇進するためにいつも上司におべっかを使っている。）"
+    },
+    {
+      "id": 14,
+      "value": "demeaning",
+      "options": [
+        "高める",
+        "改善する",
+        "品位を下げる",
+        "維持する"
+      ],
+      "correctAnswer": "品位を下げる",
+      "explanation": "「demeaning」は、人の尊厳や価値を下げる、軽蔑するような行為や状況を指します。自尊心を傷つけるような意味合いがあります。例：It was demeaning to have to beg for money.（お金を乞わなければならないのは屈辱的だった。）"
+    },
+    {
+      "id": 15,
+      "value": "trotted out",
+      "options": [
+        "隠す",
+        "展示する",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "展示する",
+      "explanation": "「trot out」は、何かを自慢げに、または繰り返し提示することを意味します。特に、以前から知られている情報やスキルを披露する際に使われます。例：He trotted out the same old arguments.（彼は同じ古い議論を繰り返した。）"
+    },
+    {
+      "id": 16,
+      "value": "off the hook",
+      "options": [
+        "責任を免れる",
+        "非常に退屈",
+        "非常に面白い",
+        "混乱している"
+      ],
+      "correctAnswer": "非常に面白い",
+      "explanation": "「off the hook」は、「（パーティーなどが）とても面白い、最高だ」という意味のスラングです。もともと電話がフックから外れている状態から、「普通ではない」「騒がしい」といった意味合いで使われます。若者を中心に使われる表現です。"
+    },
+    {
+      "id": 17,
+      "value": "tuck",
+      "options": [
+        "隠す",
+        "広げる",
+        "縫う",
+        "切る"
+      ],
+      "correctAnswer": "隠す",
+      "explanation": "「tuck」は、何かを押し込む、挟み込む、または隠すという意味です。ここでは、シャツの一部をズボンに押し込むことを指しています。例：Tuck your shirt into your pants.（シャツをズボンに入れなさい。）"
+    },
+    {
+      "id": 18,
+      "value": "smooch",
+      "options": [
+        "挨拶",
+        "勉強",
+        "議論",
+        "キス"
+      ],
+      "correctAnswer": "キス",
+      "explanation": "「smooch」は、愛情を込めてキスをする、または軽くキスをするという意味のスラングです。親しい間柄で使われることが多いです。例：They smooched in the back of the theater.（彼らは劇場の後ろでキスをした。）"
+    },
+    {
+      "id": 19,
+      "value": "tuckus",
+      "options": [
+        "足",
+        "頭",
+        "お尻",
+        "腕"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "「tuckus」は、「tuchus」とも書き、イディッシュ語由来のスラングで「尻」「おしり」の意味です。"
+    },
+    {
+      "id": 20,
+      "value": "dickey",
+      "options": [
+        "帽子",
+        "付け襟",
+        "靴",
+        "ベルト"
+      ],
+      "correctAnswer": "付け襟",
+      "explanation": "「dickey」は、シャツの前身頃だけを模した付け襟のことです。本来は男性用でしたが、現在では女性用もあります。襟元のおしゃれとして使われます。"
+    },
+    {
+      "id": 21,
+      "value": "employ",
+      "options": [
+        "拒否する",
+        "使用する",
+        "無視する",
+        "破壊する"
+      ],
+      "correctAnswer": "使用する",
+      "explanation": "「employ」は、能力、資源、または方法などを利用する、活用するという意味です。ここでは、Sheldonが自分の知的能力を最大限に活用すると言っています。例：The company employs a lot of young graduates.（その会社は多くの若い卒業生を雇用している。）"
+    },
+    {
+      "id": 22,
+      "value": "faculties",
+      "options": [
+        "建物",
+        "能力",
+        "機械",
+        "植物"
+      ],
+      "correctAnswer": "能力",
+      "explanation": "「faculties」は、精神的または肉体的な能力、才能を意味します。特に、思考力や判断力などの知的な能力を指すことが多いです。例：He retained all his faculties until his death.（彼は亡くなるまで全ての能力を保持していた。）"
+    },
+    {
+      "id": 23,
+      "value": "tear the mask off",
+      "options": [
+        "隠蔽する",
+        "明らかにする",
+        "無視する",
+        "信じる"
+      ],
+      "correctAnswer": "明らかにする",
+      "explanation": "「tear the mask off」は、隠された真実や本質を明らかにする、暴くという意味の比喩的な表現です。偽りや欺瞞を取り除くことを指します。例：He tore the mask off the corrupt politician.（彼は腐敗した政治家の仮面を剥ぎ取った。）"
+    },
+    {
+      "id": 24,
+      "value": "band of brainiacs",
+      "options": [
+        "愚か者の集団",
+        "天才集団",
+        "犯罪者グループ",
+        "普通のグループ"
+      ],
+      "correctAnswer": "天才集団",
+      "explanation": "「brainiac」は、非常に知的な人、天才という意味のスラングです。「band of brainiacs」は、天才たちの集団という意味になります。例：The company hired a band of brainiacs to develop new technology.（その会社は新しい技術を開発するために天才集団を雇った。）"
+    },
+    {
+      "id": 25,
+      "value": "make the mistake of",
+      "options": [
+        "成功する",
+        "喜んで～する",
+        "～という間違いを犯す",
+        "計画する"
+      ],
+      "correctAnswer": "～という間違いを犯す",
+      "explanation": "「make the mistake of」は、「～という間違いを犯す」という意味です。何かをして後悔したり、悪い結果を招いたりする場合に使われます。例：Don't make the mistake of underestimating your opponent. (対戦相手を過小評価するような間違いを犯してはいけない。)"
+    },
+    {
+      "id": 26,
+      "value": "tearing the mask off nature",
+      "options": [
+        "自然を隠す",
+        "自然を研究する",
+        "自然を破壊する",
+        "自然の本質を暴く"
+      ],
+      "correctAnswer": "自然の本質を暴く",
+      "explanation": "「tear the mask off」は、文字通りには「仮面を剥ぎ取る」という意味で、隠された真実や本質を明らかにする、暴露するという意味合いで使われます。ここでは、自然の隠された本質を解き明かそうとしている、という意味になります。"
+    },
+    {
+      "id": 27,
+      "value": "bananas",
+      "options": [
+        "賢い",
+        "普通",
+        "狂っている",
+        "退屈"
+      ],
+      "correctAnswer": "狂っている",
+      "explanation": "「bananas」は、俗語で「狂っている」「正気ではない」という意味です。フォーマルな場では避けるべき表現ですが、親しい間柄での会話でよく使われます。類似の表現には、crazy, nuts, insaneなどがあります。"
+    },
+    {
+      "id": 28,
+      "value": "misled",
+      "options": [
+        "尊敬した",
+        "誤解した",
+        "信じた",
+        "理解した"
+      ],
+      "correctAnswer": "誤解した",
+      "explanation": "「mislead」は「誤って導く」「誤解させる」という意味です。今回はcute girlsがいると誤解して連れてこられた、という文脈で使用されています。"
+    },
+    {
+      "id": 29,
+      "value": "stick with it",
+      "options": [
+        "我慢する",
+        "続ける",
+        "理解する",
+        "放棄する"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「stick with it」は「諦めずに続ける」「やり抜く」という意味のイディオムです。困難な状況でも根気強く取り組むことを奨励する際に使われます。例：It's a tough project, but if you stick with it, you'll succeed.（大変なプロジェクトですが、諦めずに続ければ成功します。）"
+    },
+    {
+      "id": 30,
+      "value": "bother with",
+      "options": [
+        "興味を持つ",
+        "気にする",
+        "心配する",
+        "投資する"
+      ],
+      "correctAnswer": "気にする",
+      "explanation": "「bother with」は「～を気にする」「～に構う」という意味です。多くの場合、否定的な意味合いで使われ、あることをする価値がない、または面倒だと感じていることを示します。例：I didn't bother with making my bed this morning.（今朝はベッドを整えるのが面倒だった。）"
+    },
+    {
+      "id": 31,
+      "value": "waste-disposal system",
+      "options": [
+        "無駄遣いシステム",
+        "廃棄物処理システム",
+        "エネルギーシステム",
+        "コミュニケーションシステム"
+      ],
+      "correctAnswer": "廃棄物処理システム",
+      "explanation": "「waste-disposal system」は「廃棄物処理システム」という意味です。ここでは宇宙における排泄物処理システムを指しています。"
+    },
+    {
+      "id": 32,
+      "value": "space plumber",
+      "options": [
+        "宇宙飛行士",
+        "宇宙清掃員",
+        "宇宙配管工",
+        "宇宙技術者"
+      ],
+      "correctAnswer": "宇宙配管工",
+      "explanation": "「space plumber」は、文字通りには「宇宙配管工」という意味ですが、ここではNASAで廃棄物処理システムを設計したHowardを揶揄する言葉として使われています。高度な技術を持つエンジニアを、単純な作業をする人に例えることで、皮肉を込めています。"
+    },
+    {
+      "id": 33,
+      "value": "hit the bar",
+      "options": [
+        "バーを攻撃する",
+        "バーに行く",
+        "バーで働く",
+        "バーを経営する"
+      ],
+      "correctAnswer": "バーに行く",
+      "explanation": "「hit the bar」は「バーに行く」という意味の口語表現です。気軽に飲みに行く、という意味合いで使われます。類似の表現には、go to the bar, grab a drinkなどがあります。"
+    },
+    {
+      "id": 34,
+      "value": "tinkle",
+      "options": [
+        "歌う",
+        "食べる",
+        "寝る",
+        "おしっこをする"
+      ],
+      "correctAnswer": "おしっこをする",
+      "explanation": "「tinkle」は、子供っぽいまたは婉曲的な表現で「おしっこをする」という意味です。フォーマルな場では避けるべき表現です。"
+    },
+    {
+      "id": 35,
+      "value": "bowing to pressure",
+      "options": [
+        "圧力をかける",
+        "圧力に屈する",
+        "圧力を無視する",
+        "圧力を利用する"
+      ],
+      "correctAnswer": "圧力に屈する",
+      "explanation": "「bow to pressure」は「圧力に屈する」「圧力を受け入れる」という意味です。自分の意志に反して、外部からの圧力に従う状況を表します。例：The company bowed to public pressure and changed its policy.（その会社は世論の圧力に屈し、方針を変更した。）"
+    },
+    {
+      "id": 36,
+      "value": "pointless soiree",
+      "options": [
+        "重要な会議",
+        "無意味な宴",
+        "楽しいパーティー",
+        "秘密の集会"
+      ],
+      "correctAnswer": "無意味な宴",
+      "explanation": "「pointless」は「無意味な」「無益な」という意味です。「soiree」は「夜会」「宴」という意味で、通常は社交的な目的で開催されるフォーマルな集まりを指します。したがって、「pointless soiree」は「無意味な夜会」となります。"
+    },
+    {
+      "id": 37,
+      "value": "not above",
+      "options": [
+        "～よりも上ではない",
+        "～をしないわけではない",
+        "～に同意しない",
+        "～を軽蔑する"
+      ],
+      "correctAnswer": "～をしないわけではない",
+      "explanation": "「not above (doing something)」は、「～することをためらわない」「～を平気でする」という意味です。通常、あまり褒められた行為ではないことを示唆する際に使われます。例：He's not above lying to get what he wants.（彼は欲しいものを得るために嘘をつくことをためらわない。）"
+    },
+    {
+      "id": 38,
+      "value": "cloaking device",
+      "options": [
+        "掃除道具",
+        "クローゼット",
+        "隠蔽装置",
+        "通信機器"
+      ],
+      "correctAnswer": "隠蔽装置",
+      "explanation": "「cloaking device」は「隠蔽装置」という意味です。SF作品などで、物体や宇宙船を不可視にするために使用される装置を指します。"
+    },
+    {
+      "id": 39,
+      "value": "dilettante",
+      "options": [
+        "専門家",
+        "詐欺師",
+        "道楽者",
+        "研究者"
+      ],
+      "correctAnswer": "道楽者",
+      "explanation": "「dilettante」は「道楽者」「アマチュア愛好家」という意味です。ある分野に興味を持ち、趣味として楽しむものの、専門的な知識や技術を持たない人を指します。しばしば、表面的な知識しかないことを軽蔑するニュアンスを含みます。"
+    },
+    {
+      "id": 40,
+      "value": "state-of-the-art",
+      "options": [
+        "時代遅れの",
+        "標準的な",
+        "最新式の",
+        "手作りの"
+      ],
+      "correctAnswer": "最新式の",
+      "explanation": "「state-of-the-art」は「最新式の」「最先端の」という意味です。技術や設備などが、現時点で利用可能な最高のレベルであることを示します。"
+    },
+    {
+      "id": 41,
+      "value": "puzzling",
+      "options": [
+        "面白い",
+        "簡単な",
+        "困惑させる",
+        "悲しい"
+      ],
+      "correctAnswer": "困惑させる",
+      "explanation": "「puzzling」は「困惑させる」「不可解な」という意味です。理解するのが難しい、または説明がつかない状況や事柄を指します。"
+    },
+    {
+      "id": 42,
+      "value": "make the case",
+      "options": [
+        "訴訟を起こす",
+        "主張する",
+        "弁護する",
+        "解決する"
+      ],
+      "correctAnswer": "主張する",
+      "explanation": "「make the case」は「主張する」「立証する」という意味です。自分の意見や提案を支持するために、理由や証拠を提示することを指します。例：He made a strong case for investing in renewable energy.（彼は再生可能エネルギーへの投資を強く主張した。）"
+    },
+    {
+      "id": 43,
+      "value": "showered on",
+      "options": [
+        "無視された",
+        "降り注がれた",
+        "隠された",
+        "奪われた"
+      ],
+      "correctAnswer": "降り注がれた",
+      "explanation": "「showered on」は「～に降り注がれる」「～に惜しみなく与えられる」という意味です。ここでは、莫大な資金が人文科学の分野に惜しみなく与えられる状況を表しています。"
+    },
+    {
+      "id": 44,
+      "value": "on the bright side",
+      "options": [
+        "明るい場所で",
+        "良い面を見れば",
+        "太陽の下で",
+        "希望を失わずに"
+      ],
+      "correctAnswer": "良い面を見れば",
+      "explanation": "「on the bright side」は「良い面を見れば」「楽観的に考えれば」という意味です。困難な状況でも、ポジティブな側面を探そうとする際に使われます。例：On the bright side, we learned a lot from this experience.（良い面を見れば、この経験から多くを学びました。）"
+    },
+    {
+      "id": 45,
+      "value": "bar mitzvah",
+      "options": [
+        "誕生日",
+        "成人式",
+        "結婚式",
+        "卒業式"
+      ],
+      "correctAnswer": "成人式",
+      "explanation": "「bar mitzvah」はユダヤ教の成人式です。13歳の男子が行います。"
+    },
+    {
+      "id": 46,
+      "value": "gloomy Gusses",
+      "options": [
+        "明るい人々",
+        "悲観的な人々",
+        "面白い人々",
+        "賢い人々"
+      ],
+      "correctAnswer": "悲観的な人々",
+      "explanation": "「gloomy Gusses」は「悲観的な人々」「いつも不満を言う人々」という意味です。特に、根拠もなく悪い方向にばかり考える人を指します。Gusは男性の名前ですが、ここでは特に意味はありません。"
+    },
+    {
+      "id": 47,
+      "value": "crashed and burned",
+      "options": [
+        "成功した",
+        "失敗した",
+        "燃え尽きた",
+        "爆発した"
+      ],
+      "correctAnswer": "失敗した",
+      "explanation": "「crash and burn」は「大失敗する」「完全に失敗する」という意味です。特に、努力が報われず、期待外れの結果に終わった場合に用いられます。元々は航空用語で、飛行機が墜落して炎上する様子を表します。"
+    },
+    {
+      "id": 48,
+      "value": "sweating through",
+      "options": [
+        "涼しい",
+        "汗をかく",
+        "震える",
+        "リラックスする"
+      ],
+      "correctAnswer": "汗をかく",
+      "explanation": "「sweat through」は「～を通して汗をかく」という意味です。緊張や不安、暑さなどのために、服が汗でびっしょりになる様子を表します。ここでは、Leonardが非常に緊張していたことを示しています。"
+    },
+    {
+      "id": 49,
+      "value": "ill at ease",
+      "options": [
+        "安心している",
+        "元気な",
+        "不快な",
+        "冷静な"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「ill at ease」は「落ち着かない」「不安な」「不快な」という意味です。緊張や心配のために、リラックスできない状態を表します。例：He felt ill at ease in the formal setting.（彼はフォーマルな場で落ち着かなかった。）"
+    },
+    {
+      "id": 50,
+      "value": "mixed message",
+      "options": [
+        "秘密のメッセージ",
+        "誤ったメッセージ",
+        "曖昧なメッセージ",
+        "感動的なメッセージ"
+      ],
+      "correctAnswer": "曖昧なメッセージ",
+      "explanation": "「mixed message」は「矛盾したメッセージ」「曖昧なメッセージ」という意味です。異なる意味合いを持つ情報が同時に伝えられることで、相手がどのように解釈すべきか混乱する状況を表します。例：His words were encouraging, but his actions sent a mixed message.（彼の言葉は励みになったが、行動は矛盾していた。）"
+    },
+    {
+      "id": 51,
+      "value": "distinguished",
+      "options": [
+        "区別された",
+        "著名な",
+        "落胆した",
+        "絶滅した"
+      ],
+      "correctAnswer": "著名な",
+      "explanation": "「distinguished」は、名声や実績により、他と区別されるほど優れているという意味を表します。学術的な分野やプロフェッショナルな文脈でよく使用されます。例文: He is a distinguished professor of physics. (彼は著名な物理学の教授です。)"
+    },
+    {
+      "id": 52,
+      "value": "peer-reviewed",
+      "options": [
+        "仲間が見直した",
+        "個人的な",
+        "秘密の",
+        "一方的な"
+      ],
+      "correctAnswer": "仲間が見直した",
+      "explanation": "「peer-reviewed」は、学術論文などが専門分野の同業者（peer）によって審査されたという意味です。論文の信頼性を示す重要な指標となります。例文: The journal publishes peer-reviewed articles. (その雑誌は査読付き論文を掲載しています。)"
+    },
+    {
+      "id": 53,
+      "value": "Dissertation",
+      "options": [
+        "討論",
+        "論文",
+        "口述",
+        "距離"
+      ],
+      "correctAnswer": "論文",
+      "explanation": "「Dissertation」は、博士号取得のために提出する論文のことです。特定のテーマについて深く掘り下げた研究内容が求められます。例文: She is working on her dissertation. (彼女は博士論文に取り組んでいます。)"
+    },
+    {
+      "id": 54,
+      "value": "experimental particle physics",
+      "options": [
+        "実験的素粒子物理学",
+        "理論的素粒子物理学",
+        "応用物理学",
+        "計算物理学"
+      ],
+      "correctAnswer": "実験的素粒子物理学",
+      "explanation": "「experimental particle physics」は、素粒子の実験的研究を行う物理学の分野です。加速器などを用いて素粒子の性質を調べます。例文: He specializes in experimental particle physics. (彼は実験的素粒子物理学を専門としています。)"
+    },
+    {
+      "id": 55,
+      "value": "got your back",
+      "options": [
+        "後ろにいる",
+        "理解できない",
+        "守る",
+        "無視する"
+      ],
+      "correctAnswer": "守る",
+      "explanation": "「got your back」は、誰かをサポートする、守るという意味のイディオムです。困ったときに助ける、味方であるというニュアンスが含まれます。例文: Don't worry, I've got your back. (心配しないで、私がついてるよ。)"
+    },
+    {
+      "id": 56,
+      "value": "remind me of",
+      "options": [
+        "思い出させる",
+        "思い出せない",
+        "警告する",
+        "感謝する"
+      ],
+      "correctAnswer": "思い出させる",
+      "explanation": "「remind me of」は、人や物事が別の何かを思い出させるという意味です。外見や性格、雰囲気などが似ている場合に用いられます。例文: This song reminds me of my childhood. (この歌は子供の頃を思い出させる。)"
+    },
+    {
+      "id": 57,
+      "value": "No kidding",
+      "options": [
+        "冗談でしょ",
+        "本当ですか",
+        "気にしないで",
+        "その通り"
+      ],
+      "correctAnswer": "本当ですか",
+      "explanation": "「No kidding」は、相手の発言に対して驚きや興味を示す表現です。「マジで？」「まさか！」といったニュアンスで使われます。例文: - I won the lottery! - No kidding! (宝くじに当たったよ！ - マジで！？)"
+    },
+    {
+      "id": 58,
+      "value": "persuasive",
+      "options": [
+        "説得力のある",
+        "強引な",
+        "曖昧な",
+        "退屈な"
+      ],
+      "correctAnswer": "説得力のある",
+      "explanation": "「persuasive」は、人を説得する力があるという意味です。論理的な根拠や魅力的な表現によって、相手の考えを変えさせる力を持つことを指します。例文: He gave a persuasive speech. (彼は説得力のあるスピーチをした。)"
+    },
+    {
+      "id": 59,
+      "value": "take it to the next level",
+      "options": [
+        "次の段階に進む",
+        "元の場所に戻る",
+        "最初からやり直す",
+        "忘れてしまう"
+      ],
+      "correctAnswer": "次の段階に進む",
+      "explanation": "「take it to the next level」は、物事を次の段階に進める、レベルアップさせるという意味のイディオムです。関係を深める、事業を拡大するなど、様々な状況で使われます。例文: We need to take our business to the next level. (私たちはビジネスを次の段階に進める必要がある。)"
+    },
+    {
+      "id": 60,
+      "value": "sober",
+      "options": [
+        "酔っ払った",
+        "冷静な",
+        "ばかげた",
+        "哀れな"
+      ],
+      "correctAnswer": "冷静な",
+      "explanation": "「sober」は、酔っていない、冷静な状態を表します。また、深刻な問題に対して真剣に向き合うという意味合いもあります。例文: He has been sober for five years. (彼は5年間、しらふの状態を保っている。)"
+    },
+    {
+      "id": 61,
+      "value": "torn apart",
+      "options": [
+        "元に戻った",
+        "引き裂かれた",
+        "守られた",
+        "無視された"
+      ],
+      "correctAnswer": "引き裂かれた",
+      "explanation": "「torn apart」は、物理的に引き裂かれるだけでなく、精神的に打ちのめされる、悲しみに暮れるという意味も持ちます。例文: The family was torn apart by the tragedy. (その家族は悲劇によって引き裂かれた。)"
+    },
+    {
+      "id": 62,
+      "value": "stuck her tongue down my throat",
+      "options": [
+        "喉を痛めた",
+        "キスをした",
+        "のど飴をあげた",
+        "怒鳴られた"
+      ],
+      "correctAnswer": "キスをした",
+      "explanation": "「stuck her tongue down my throat」は、相手が積極的にキスをしてきた状況を表す口語的な表現です。やや不快感や驚きを表すニュアンスが含まれることがあります。例文: I was shocked when she stuck her tongue down my throat. (彼女が積極的にキスしてきたので、私はショックを受けた。)"
+    },
+    {
+      "id": 63,
+      "value": "hit on me",
+      "options": [
+        "殴られた",
+        "言い当てられた",
+        "口説かれた",
+        "無視された"
+      ],
+      "correctAnswer": "口説かれた",
+      "explanation": "「hit on me」は、誰かが自分を口説いてきた、誘惑してきたという意味の口語表現です。恋愛的なアプローチを受けた状況を表します。例文: That guy at the bar was hitting on me all night. (バーにいたあの男は一晩中私を口説いていた。)"
+    },
+    {
+      "id": 64,
+      "value": "lucky duck",
+      "options": [
+        "幸運な人",
+        "臆病者",
+        "お人好し",
+        "頑張り屋"
+      ],
+      "correctAnswer": "幸運な人",
+      "explanation": "「lucky duck」は、幸運な人、運が良い人を指す、やや皮肉を込めた口語表現です。羨望やからかいのニュアンスが含まれることがあります。例文: You lucky duck, you won a free trip! (お前ってラッキーだな、無料旅行を当てたのか！)"
+    },
+    {
+      "id": 65,
+      "value": "broken toy",
+      "options": [
+        "壊れたおもちゃ",
+        "傷ついた人",
+        "役に立たない物",
+        "貴重な物"
+      ],
+      "correctAnswer": "傷ついた人",
+      "explanation": "「broken toy」は、精神的に傷ついた人、扱いに困る人を指す比喩的な表現です。心が壊れてしまったような状態を表します。例文: After the accident, he was like a broken toy. (事故の後、彼はまるで壊れたおもちゃのようだった。)"
+    },
+    {
+      "id": 66,
+      "value": "get out of there",
+      "options": [
+        "そこから出る",
+        "そこに留まる",
+        "そこに入る",
+        "忘れてしまう"
+      ],
+      "correctAnswer": "そこから出る",
+      "explanation": "「get out of there」は、危険な場所や不快な状況から逃れる、脱出するという意味です。急いでその場を離れるニュアンスが含まれます。例文: I had to get out of there before things got worse. (事態が悪化する前にそこから逃げ出す必要があった。)"
+    },
+    {
+      "id": 67,
+      "value": "trading sexual favours for material gain",
+      "options": [
+        "物質的な利益のための性的サービス",
+        "精神的な満足",
+        "個人的な成長",
+        "社会貢献"
+      ],
+      "correctAnswer": "物質的な利益のための性的サービス",
+      "explanation": "「trading sexual favours for material gain」は、性的サービスと引き換えに物質的な利益を得るという行為を指します。倫理的に問題がある行為として非難されることが多いです。例文: She accused him of trading sexual favors for material gain. (彼女は彼が物質的な利益のために性的サービスを取引していると非難した。)"
+    },
+    {
+      "id": 68,
+      "value": "hold on a second",
+      "options": [
+        "少し待って",
+        "進んで",
+        "急いで",
+        "無視して"
+      ],
+      "correctAnswer": "少し待って",
+      "explanation": "「hold on a second」は、相手の発言を遮って、少し待ってほしい、または自分の意見を述べたいときに使う表現です。軽い中断を意味します。例文: Hold on a second, I have something to say. (ちょっと待って、私にも言いたいことがある。)"
+    },
+    {
+      "id": 69,
+      "value": "giving credit where credit is due",
+      "options": [
+        "当然の評価を与える",
+        "責任を転嫁する",
+        "批判を避ける",
+        "自己中心的になる"
+      ],
+      "correctAnswer": "当然の評価を与える",
+      "explanation": "「giving credit where credit is due」は、正当な評価や称賛を与えるべき人に与えるという意味のイディオムです。公平さを重視する姿勢を表します。例文: I believe in giving credit where credit is due, and she deserves all the praise. (私は当然の評価を与えるべきだと信じており、彼女はすべての賞賛に値する。)"
+    },
+    {
+      "id": 70,
+      "value": "final pitch",
+      "options": [
+        "最後の提案",
+        "最初の試み",
+        "秘密の計画",
+        "公開討論"
+      ],
+      "correctAnswer": "最後の提案",
+      "explanation": "「final pitch」は、最後の提案、最後の売り込みという意味です。ビジネスや交渉の場面で、最終的な説得を試みる際に使われます。例文: He made a final pitch to the investors. (彼は投資家たちに最後の提案を行った。)"
+    },
+    {
+      "id": 71,
+      "value": "procured",
+      "options": [
+        "失った",
+        "手に入れた",
+        "隠した",
+        "拒否した"
+      ],
+      "correctAnswer": "手に入れた",
+      "explanation": "「procured」は、特に努力や手段を用いて何かを手に入れるという意味です。フォーマルな文脈で使われることが多いです。例文: He procured the rare book from a private collector. (彼は個人コレクターからその珍しい本を手に入れた。)"
+    },
+    {
+      "id": 72,
+      "value": "Viagra as Viagra is to a green M&M",
+      "options": [
+        "バイアグラの効果がない",
+        "バイアグラよりも効果的である",
+        "バイアグラと同程度の効果がある",
+        "バイアグラとは全く異なる"
+      ],
+      "correctAnswer": "バイアグラよりも効果的である",
+      "explanation": "これは、SheldonがLeonardに渡した薬がバイアグラよりも非常に強力であることを強調するための比喩表現です。バイアグラの効果をさらに増幅させるような、非常に強い効果を持つことを意味しています。これは非常に口語的でユーモラスな言い回しです。"
+    },
+    {
+      "id": 73,
+      "value": "overcome your reluctance",
+      "options": [
+        "あなたの抵抗を克服する",
+        "あなたの協力を得る",
+        "あなたの秘密を暴露する",
+        "あなたの意見を無視する"
+      ],
+      "correctAnswer": "あなたの抵抗を克服する",
+      "explanation": "「overcome your reluctance」は、あなたの気が進まない気持ちやためらいを乗り越える、という意味です。ここでは、LeonardがMrs. Lathamとの関係に乗り気でないことを指しています。例文: He needs to overcome his reluctance to speak in public. (彼は人前で話すことへのためらいを克服する必要がある。)"
+    },
+    {
+      "id": 74,
+      "value": "libido humming",
+      "options": [
+        "性欲を高める",
+        "食欲をそそる",
+        "睡眠を促進する",
+        "記憶力を高める"
+      ],
+      "correctAnswer": "性欲を高める",
+      "explanation": "「libido humming」は、性欲が高まっている状態を比喩的に表現したものです。hummingは、エンジンなどが低くうなる音を表し、ここでは性的な興奮を示唆しています。例文: The romantic music had her libido humming. (ロマンチックな音楽は彼女の性欲を高めた。)"
+    },
+    {
+      "id": 75,
+      "value": "prostitute myself",
+      "options": [
+        "売春する",
+        "ボランティアをする",
+        "自己啓発する",
+        "隠遁生活を送る"
+      ],
+      "correctAnswer": "売春する",
+      "explanation": "「prostitute myself」は、自分自身を売春婦のように扱う、という意味です。ここでは、お金や利益のために自分の尊厳や価値を犠牲にすることを指しています。例文: I refuse to prostitute myself for fame. (私は名声のために自分を犠牲にするつもりはない。)"
+    },
+    {
+      "id": 76,
+      "value": "engage in",
+      "options": [
+        "参加する",
+        "避ける",
+        "熱中する",
+        "考慮する"
+      ],
+      "correctAnswer": "熱中する",
+      "explanation": "「engage in」は、何かに参加する、没頭する、携わるという意味です。活動や趣味、議論など、幅広い対象に使われます。単に物理的に参加するだけでなく、積極的に関与するニュアンスが含まれます。\n\n例：She engages in volunteer work every weekend. (彼女は毎週末、ボランティア活動に携わっています。)"
+    },
+    {
+      "id": 77,
+      "value": "self-abuse",
+      "options": [
+        "自己啓発",
+        "自己嫌悪",
+        "自慰行為",
+        "自己犠牲"
+      ],
+      "correctAnswer": "自慰行為",
+      "explanation": "「self-abuse」は、婉曲表現として自慰行為を指すことがあります。また、より広義には、自分自身を傷つける行為全般を指すこともあります。文脈によって意味が異なりますが、この場合は性的な意味合いで使用されています。"
+    },
+    {
+      "id": 78,
+      "value": "genitalia",
+      "options": [
+        "才能",
+        "財産",
+        "生殖器",
+        "遺伝子"
+      ],
+      "correctAnswer": "生殖器",
+      "explanation": "「genitalia」は、生殖器を意味する医学用語です。ややフォーマルな表現で、日常会話ではあまり使われません。より一般的な言葉としては、'sexual organs'などがあります。"
+    },
+    {
+      "id": 79,
+      "value": "shag",
+      "options": [
+        "避ける",
+        "踊る",
+        "性行為をする",
+        "共有する"
+      ],
+      "correctAnswer": "性行為をする",
+      "explanation": "「shag」は、イギリス英語のスラングで、性行為をすることを意味します。やや下品なニュアンスを含むため、使用する場面には注意が必要です。アメリカ英語ではあまり一般的ではありません。"
+    },
+    {
+      "id": 80,
+      "value": "regardless of",
+      "options": [
+        "考慮して",
+        "関係なく",
+        "代わりに",
+        "結果として"
+      ],
+      "correctAnswer": "関係なく",
+      "explanation": "「regardless of」は、「～に関係なく」「～を考慮せずに」という意味です。何かの条件や状況に左右されずに行動や決定がなされることを示します。\n\n例：The game will be played regardless of the weather. (試合は天候に関係なく行われる。)"
+    },
+    {
+      "id": 81,
+      "value": "quid pro quo",
+      "options": [
+        "無償の愛",
+        "等価交換",
+        "秘密の関係",
+        "偶然の一致"
+      ],
+      "correctAnswer": "等価交換",
+      "explanation": "「quid pro quo」は、ラテン語由来の表現で、「何かを与える代わりに何かを得る」という意味です。見返りを期待した行為や取引を指し、特に政治やビジネスの文脈で使われることが多いです。"
+    },
+    {
+      "id": 82,
+      "value": "take a shot",
+      "options": [
+        "写真を撮る",
+        "挑戦する",
+        "休憩する",
+        "批判する"
+      ],
+      "correctAnswer": "挑戦する",
+      "explanation": "「take a shot」は、「試みる」「挑戦する」という意味の口語表現です。成功するかどうかは分からないが、とりあえずやってみるというニュアンスが含まれます。\n\n例：I decided to take a shot at starting my own business. (私は自分のビジネスを始めることに挑戦することに決めた。)"
+    },
+    {
+      "id": 83,
+      "value": "sue me",
+      "options": [
+        "私を助けて",
+        "私を訴えて",
+        "私を信じて",
+        "私を許して"
+      ],
+      "correctAnswer": "私を訴えて",
+      "explanation": "「sue me」は、「訴えるなら訴えろ」というニュアンスの皮肉めいた表現です。自分の行動を正当化したり、開き直ったりする際に使われます。"
+    },
+    {
+      "id": 84,
+      "value": "landed",
+      "options": [
+        "着陸した",
+        "手に入れた",
+        "逃げ出した",
+        "忘れてしまった"
+      ],
+      "correctAnswer": "手に入れた",
+      "explanation": "「land」は、ここでは「（幸運などを）手に入れる」という意味で使われています。特に、努力や才能によって何かを達成した、というニュアンスが含まれます。\n\n例：She landed a big contract with a major company. (彼女は大手企業との大きな契約を手に入れた。)"
+    },
+    {
+      "id": 85,
+      "value": "what the hell",
+      "options": [
+        "一体何",
+        "構わない",
+        "どうしたの",
+        "素晴らしい"
+      ],
+      "correctAnswer": "構わない",
+      "explanation": "「what the hell」は、「どうでもいい」「構わない」「まあいいか」といった、諦めや開き直りの気持ちを表す口語表現です。何かをすることを迷った末に、最終的に決断する際に使われることが多いです。"
+    },
+    {
+      "id": 86,
+      "value": "dishevelled",
+      "options": [
+        "興奮した",
+        "混乱した",
+        "だらしない",
+        "満足した"
+      ],
+      "correctAnswer": "だらしない",
+      "explanation": "「dishevelled」は、「（髪や服装などが）乱れた」「だらしない」という意味です。疲れていたり、何かがあった後で身なりを整える余裕がない様子を表します。"
+    },
+    {
+      "id": 87,
+      "value": "walk of shame",
+      "options": [
+        "名誉の行進",
+        "勝利の歩み",
+        "恥ずかしい帰り道",
+        "勇敢な行動"
+      ],
+      "correctAnswer": "恥ずかしい帰り道",
+      "explanation": "「walk of shame」は、前夜に一夜を共にした相手の家から、服装や身なりが乱れた状態で帰ることを指す口語表現です。特に、後悔や恥ずかしさを伴う場合に用いられます。"
+    },
+    {
+      "id": 88,
+      "value": "smeared",
+      "options": [
+        "磨かれた",
+        "塗られた",
+        "隠された",
+        "破られた"
+      ],
+      "correctAnswer": "塗られた",
+      "explanation": "「smeared」は、「～を塗りつける」「～を汚す」という意味です。ここでは、化粧が崩れて汚れている様子を表しています。"
+    },
+    {
+      "id": 89,
+      "value": "wadded up",
+      "options": [
+        "丸められた",
+        "広げられた",
+        "たたまれた",
+        "縫い付けられた"
+      ],
+      "correctAnswer": "丸められた",
+      "explanation": "「wadded up」は、「丸められた」「くしゃくしゃにされた」という意味です。ここでは、使用済みのパンティーが乱雑に丸められている様子を表しています。"
+    },
+    {
+      "id": 90,
+      "value": "sell yourself out",
+      "options": [
+        "自分を安売りする",
+        "自分を向上させる",
+        "自分を大切にする",
+        "自分を隠す"
+      ],
+      "correctAnswer": "自分を安売りする",
+      "explanation": "「sell yourself out」は、「自分の信念や価値観を裏切って、利益のために行動する」という意味です。通常、道徳的に非難されるべき行為を指します。"
+    },
+    {
+      "id": 91,
+      "value": "streetwalker",
+      "options": [
+        "通行人",
+        "浮浪者",
+        "売春婦",
+        "詐欺師"
+      ],
+      "correctAnswer": "売春婦",
+      "explanation": "「streetwalker」は、路上で客引きをする売春婦を指す言葉です。やや軽蔑的なニュアンスを含む場合があります。"
+    },
+    {
+      "id": 92,
+      "value": "stiffed",
+      "options": [
+        "褒められた",
+        "騙された",
+        "守られた",
+        "尊敬された"
+      ],
+      "correctAnswer": "騙された",
+      "explanation": "「stiff」は、ここでは「（人）を騙す、～の支払いを踏み倒す」という意味で使われています。主に口語表現で、特に金銭に関して使われることが多いです。"
+    },
+    {
+      "id": 93,
+      "value": "knack",
+      "options": [
+        "才能",
+        "弱点",
+        "癖",
+        "恐怖"
+      ],
+      "correctAnswer": "才能",
+      "explanation": "「knack」は、「（生まれつきの）才能」「コツ」という意味です。何かを習得するのが早い、または自然に上手くできる能力を指します。\n\n例：She has a knack for learning languages. (彼女は言語を学ぶ才能がある。)"
+    },
+    {
+      "id": 94,
+      "value": "gigolo",
+      "options": [
+        "道化師",
+        "用心棒",
+        "男娼",
+        "詐欺師"
+      ],
+      "correctAnswer": "男娼",
+      "explanation": "「gigolo」は、女性から金銭や贈り物を受け取る代わりに、デートや性的な関係を提供する男性を指します。通常、年上の女性を相手にする場合が多いです。"
+    },
+    {
+      "id": 95,
+      "value": "linear accelerator",
+      "options": [
+        "直線加速器",
+        "リニアモーターカー",
+        "太陽光パネル",
+        "風力発電機"
+      ],
+      "correctAnswer": "直線加速器",
+      "explanation": "「linear accelerator」は、直線状に粒子を加速させる装置のことです。主に物理学の研究や医療分野で使用されます。"
+    },
+    {
+      "id": 96,
+      "value": "take one for the team",
+      "options": [
+        "チームを解散する",
+        "チームのために犠牲になる",
+        "チームを応援する",
+        "チームを代表する"
+      ],
+      "correctAnswer": "チームのために犠牲になる",
+      "explanation": "「take one for the team」は、「チームやグループのために、自分が不利益を被る」という意味です。困難な状況で、他のメンバーを助けるために犠牲になることを指します。"
+    },
+    {
+      "id": 97,
+      "value": "man of the hour",
+      "options": [
+        "時の人",
+        "平凡な人",
+        "勤勉な人",
+        "正直な人"
+      ],
+      "correctAnswer": "時の人",
+      "explanation": "「man of the hour」は、「時の人」「注目の人」という意味です。特定の日や期間に、特別な理由で注目を集めている人を指します。"
+    },
+    {
+      "id": 98,
+      "value": "keep telling yourself that",
+      "options": [
+        "それを人に言い続ける",
+        "それを自分に言い聞かせる",
+        "それを秘密にする",
+        "それを忘れる"
+      ],
+      "correctAnswer": "それを自分に言い聞かせる",
+      "explanation": "「keep telling yourself that」は、「それを自分に言い聞かせ続ける」という意味です。相手の発言が真実ではない、または信じがたい場合に、皮肉を込めて使われることがあります。"
+    },
+    {
+      "id": 99,
+      "value": "trust me, I know",
+      "options": [
+        "私を信じて、知らない",
+        "私を信じて、知っている",
+        "私を疑って、知らない",
+        "私を疑って、知っている"
+      ],
+      "correctAnswer": "私を信じて、知っている",
+      "explanation": "「trust me, I know」は、「私を信じて、私は知っている」という意味です。自分の経験や知識に基づいて、相手に自信を持って助言や意見を伝える際に使われます。しかし、皮肉として使われる場合もあります。"
+    },
+    {
+      "id": 100,
+      "value": "awesome",
+      "options": [
+        "恐ろしい",
+        "素晴らしい",
+        "退屈な",
+        "不快な"
+      ],
+      "correctAnswer": "素晴らしい",
+      "explanation": "「awesome」は、「素晴らしい」「最高の」という意味の口語表現です。非常に感動したり、感銘を受けた時に使われます。"
+    }
+  ]
+}

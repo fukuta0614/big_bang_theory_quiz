@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "sceptical",
+      "options": [
+        "熱狂的な",
+        "懐疑的な",
+        "楽観的な",
+        "無関心な"
+      ],
+      "correctAnswer": "懐疑的な",
+      "explanation": "「sceptical」は、物事に対して疑念を抱き、簡単には信じない態度を表します。証拠や根拠が不足している場合に用いられ、単なる否定ではなく、批判的な思考に基づいた疑念を意味します。例：I was sceptical about his claims. (私は彼の主張に懐疑的だった。)"
+    },
+    {
+      "id": 2,
+      "value": "bust",
+      "options": [
+        "大成功",
+        "完全な失敗",
+        "予定通り",
+        "改善の余地あり"
+      ],
+      "correctAnswer": "完全な失敗",
+      "explanation": "「bust」は、計画や事業などが完全に失敗に終わることを意味する口語的な表現です。特に、期待された成果が得られなかった場合に用いられます。例：The party was a bust. (パーティーは盛り上がらなかった。)"
+    },
+    {
+      "id": 3,
+      "value": "looming threat",
+      "options": [
+        "遠い脅威",
+        "差し迫った脅威",
+        "想像上の脅威",
+        "取るに足らない脅威"
+      ],
+      "correctAnswer": "差し迫った脅威",
+      "explanation": "「looming threat」は、危険や問題が近い将来に発生する可能性が高く、不安や緊張感をもたらす状況を指します。「looming」は、ぼんやりと姿を現し、次第に大きくなるイメージで、脅威が現実味を帯びてくる様子を表します。例：The looming threat of war worried everyone. (戦争の差し迫った脅威は皆を不安にさせた。)"
+    },
+    {
+      "id": 4,
+      "value": "comb through",
+      "options": [
+        "ざっと目を通す",
+        "注意深く調べる",
+        "無視する",
+        "整理する"
+      ],
+      "correctAnswer": "注意深く調べる",
+      "explanation": "「comb through」は、細部に注意を払いながら、何かを探したり、情報を収集したりする行為を指します。徹底的に調査し、必要なものを見つけ出すニュアンスがあります。例：Investigators combed through the wreckage for clues. (捜査官たちは手がかりを求めて残骸を徹底的に調べた。)"
+    },
+    {
+      "id": 5,
+      "value": "quantum foam",
+      "options": [
+        "量子の泡",
+        "量子の安定",
+        "量子の流れ",
+        "量子の壁"
+      ],
+      "correctAnswer": "量子の泡",
+      "explanation": "「quantum foam」は、ジョン・ホイーラーによって提唱された、極小スケールでの時空の構造に関する理論的概念です。プランク長程度の非常に短い距離では、時空が滑らかではなく、泡のように不確定でゆらいでいると考えられています。これは、量子力学と一般相対性理論を統合しようとする試みの一つです。"
+    },
+    {
+      "id": 6,
+      "value": "into that kind of stuff",
+      "options": [
+        "そういうものが好き",
+        "そういうものに興味がない",
+        "そういうものに詳しい",
+        "そういうものを避けている"
+      ],
+      "correctAnswer": "そういうものに興味がない",
+      "explanation": "「into that kind of stuff」は、特定の活動や話題、趣味などに対して興味や関心がないことを意味する口語的な表現です。「stuff」は漠然とした「もの」を指し、具体的な内容を特定せずに、ある種のカテゴリーやジャンルを指す際に用いられます。例：I'm not really into sports. (私はスポーツにはあまり興味がない。)"
+    },
+    {
+      "id": 7,
+      "value": "sausage fest",
+      "options": [
+        "男性ばかりの集まり",
+        "女性ばかりの集まり",
+        "豪華な食事",
+        "お祭り騒ぎ"
+      ],
+      "correctAnswer": "男性ばかりの集まり",
+      "explanation": "「sausage fest」は、男性ばかりの集まりやイベントを指すスラング表現です。通常、女性がほとんどいない状況を指して、ユーモラスあるいは批判的に用いられます。例：The conference was a total sausage fest. (その会議は完全に男性ばかりだった。)"
+    },
+    {
+      "id": 8,
+      "value": "working it",
+      "options": [
+        "うまくいく",
+        "努力する",
+        "解決する",
+        "台無しにする"
+      ],
+      "correctAnswer": "努力する",
+      "explanation": "「working it」は、特定の目標を達成するために努力している、特に異性を魅了しようとしている状況を指す口語的な表現です。自信を持って、魅力的に振る舞うニュアンスが含まれます。例：He's really working it with the new clients. (彼は新しい顧客を魅了しようと頑張っている。)"
+    },
+    {
+      "id": 9,
+      "value": "hitting on",
+      "options": [
+        "殴る",
+        "避ける",
+        "口論する",
+        "口説く"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「hit on」は、誰かに恋愛的な関心を示し、口説こうとすることを意味する口語的な表現です。直接的または間接的に、相手に好意を伝えようとする行為を指します。例：He was hitting on her at the bar. (彼はバーで彼女を口説いていた。)"
+    },
+    {
+      "id": 10,
+      "value": "to my bones",
+      "options": [
+        "表面上は",
+        "心から",
+        "部分的に",
+        "全くない"
+      ],
+      "correctAnswer": "心から",
+      "explanation": "「to my bones」は、「心の底から」「完全に」という意味を表すイディオムです。感情や感覚が非常に強く、体全体に染み渡るように感じられる状態を強調します。例：I'm tired to my bones. (私は骨の髄まで疲れている。)"
+    },
+    {
+      "id": 11,
+      "value": "sniffing around the goods",
+      "options": [
+        "商品を盗む",
+        "商品を詮索する",
+        "商品に興味を持つ",
+        "商品を無視する"
+      ],
+      "correctAnswer": "商品に興味を持つ",
+      "explanation": "「sniffing around the goods」は、誰かの所有物や、特に恋愛対象として魅力的な人に興味を持ち、近づこうとする様子を指す口語的な表現です。所有者の許可なく、探るようなニュアンスが含まれることがあります。例：Other companies are sniffing around our new product. (他の会社が当社の新製品に興味を示している。)"
+    },
+    {
+      "id": 12,
+      "value": "full well",
+      "options": [
+        "完全に知らない",
+        "少し知っている",
+        "よく知っている",
+        "誤解している"
+      ],
+      "correctAnswer": "よく知っている",
+      "explanation": "「full well」は、「十分に承知している」「よく知っている」という意味を強調する表現です。特に、行動の責任や結果を認識していることを示す際に用いられます。例：He knew full well that he was wrong. (彼は自分が間違っていることをよく知っていた。)"
+    },
+    {
+      "id": 13,
+      "value": "make my move",
+      "options": [
+        "引っ越す",
+        "行動を起こす",
+        "撤退する",
+        "静観する"
+      ],
+      "correctAnswer": "行動を起こす",
+      "explanation": "「make my move」は、ある計画や意図を実行に移す、特に恋愛関係において積極的に行動を起こすことを意味するイディオムです。好意を伝える、デートに誘うなど、関係を進展させるための行動を指します。例：I'm planning to make my move this weekend. (今週末にアプローチするつもりだ。)"
+    },
+    {
+      "id": 14,
+      "value": "pasty",
+      "options": [
+        "健康的な",
+        "病的な",
+        "日焼けした",
+        "青白い"
+      ],
+      "correctAnswer": "青白い",
+      "explanation": "「pasty」は、顔色や肌が不健康に青白い、または生気がない状態を指す形容詞です。日光に当たらず、血色の悪い状態を表します。例：She has a pasty complexion. (彼女は青白い顔色をしている。)"
+    },
+    {
+      "id": 15,
+      "value": "androgynous",
+      "options": [
+        "男性的な",
+        "女性的な",
+        "中性的な",
+        "魅力的な"
+      ],
+      "correctAnswer": "中性的な",
+      "explanation": "「androgynous」は、男性と女性の両方の特徴を兼ね備えている、またはどちらにも偏らない中性的な外見や性質を指す形容詞です。性別の区別が曖昧な状態を表します。例：The model has an androgynous look. (そのモデルは中性的な外見をしている。)"
+    },
+    {
+      "id": 16,
+      "value": "bee-stung lips",
+      "options": [
+        "薄い唇",
+        "厚い唇",
+        "乾燥した唇",
+        "荒れた唇"
+      ],
+      "correctAnswer": "厚い唇",
+      "explanation": "「bee-stung lips」は、ミツバチに刺されたようにふっくらとした、厚い唇を指す表現です。美的な魅力として言及されることがあります。例：She has bee-stung lips that everyone envies. (彼女は誰もが羨む厚い唇をしている。)"
+    },
+    {
+      "id": 17,
+      "value": "shoulder to cry on",
+      "options": [
+        "頼れる人",
+        "無視する人",
+        "批判する人",
+        "競争相手"
+      ],
+      "correctAnswer": "頼れる人",
+      "explanation": "「shoulder to cry on」は、悲しみや苦しみを抱える人が頼ることができる、慰めや同情を与えてくれる人を指すイディオムです。精神的な支えとなる存在を意味します。例：I need a shoulder to cry on right now. (今、私は慰めてくれる人が必要だ。)"
+    },
+    {
+      "id": 18,
+      "value": "on short notice",
+      "options": [
+        "事前に通知して",
+        "十分な時間をかけて",
+        "直前に",
+        "定期的に"
+      ],
+      "correctAnswer": "直前に",
+      "explanation": "「on short notice」は、「急な知らせで」「直前に」という意味を表すイディオムです。準備期間がほとんどない状況で何かを行うことを指します。例：I had to leave on short notice. (急な知らせで出発しなければならなかった。)"
+    },
+    {
+      "id": 19,
+      "value": "reached out",
+      "options": [
+        "連絡を取った",
+        "無視した",
+        "遠ざかった",
+        "妨害した"
+      ],
+      "correctAnswer": "連絡を取った",
+      "explanation": "「reach out」は、「連絡を取る」「働きかける」という意味を表すフレーズです。援助、情報、またはつながりを求めて他の人に接触する行為を指します。例：I reached out to him for advice. (彼にアドバイスを求めて連絡を取った。)"
+    },
+    {
+      "id": 20,
+      "value": "dubbed",
+      "options": [
+        "拒否した",
+        "保留した",
+        "名付けた",
+        "変更した"
+      ],
+      "correctAnswer": "名付けた",
+      "explanation": "「dubbed」は、「〜と名付ける」「〜と呼ぶ」という意味を表す動詞です。特に、新しい名前やニックネームを与える際に用いられます。例：They dubbed him 'The Rocket'. (彼らは彼を「ロケット」と名付けた。)"
+    },
+    {
+      "id": 21,
+      "value": "delicate",
+      "options": [
+        "簡単な",
+        "困難な",
+        "一般的な",
+        "明白な"
+      ],
+      "correctAnswer": "困難な",
+      "explanation": "「delicate」は、「微妙な」「慎重な扱いを要する」という意味を表す形容詞です。壊れやすく、注意深く扱わなければならない状況や問題を指します。例：This is a delicate situation. (これは微妙な状況だ。)"
+    },
+    {
+      "id": 22,
+      "value": "in the shadow of",
+      "options": [
+        "〜の陰で",
+        "〜の光の中で",
+        "〜の隣で",
+        "〜の前で"
+      ],
+      "correctAnswer": "〜の陰で",
+      "explanation": "「in the shadow of」は、「〜の陰に隠れて」「〜の影響下で」という意味を表すイディオムです。他の人や物の影響力が強く、目立たない、または重要視されない状態を指します。例：He lived in the shadow of his famous father. (彼は有名な父親の陰で生きていた。)"
+    },
+    {
+      "id": 23,
+      "value": "Shilly-Shally",
+      "options": [
+        "決断力がある",
+        "優柔不断な",
+        "勇敢な",
+        "正直な"
+      ],
+      "correctAnswer": "優柔不断な",
+      "explanation": "「shilly-shally」は、ためらったり、ぐずぐずしたりする様子を表す動詞または名詞です。決断を先延ばしにする、または優柔不断な態度を指します。例：Stop shilly-shallying and make a decision! (ぐずぐずしないで決断しなさい！)"
+    },
+    {
+      "id": 24,
+      "value": "pure gold",
+      "options": [
+        "価値がない",
+        "平均的な",
+        "非常に価値がある",
+        "偽物"
+      ],
+      "correctAnswer": "非常に価値がある",
+      "explanation": "「pure gold」は、「非常に価値がある」「貴重な」という意味を表すイディオムです。特に、アイデア、情報、才能などが非常に優れていることを強調する際に用いられます。例：His advice was pure gold. (彼のアドバイスは非常に貴重だった。)"
+    },
+    {
+      "id": 25,
+      "value": "take on",
+      "options": [
+        "引き受ける",
+        "拒否する",
+        "無視する",
+        "放棄する"
+      ],
+      "correctAnswer": "引き受ける",
+      "explanation": "「take on」は、「引き受ける」「負う」という意味を表す句動詞です。仕事、責任、役割などを引き受けることを指します。また、特定の性質や外見を帯びるという意味もあります。例：I can't take on any more work right now. (今、これ以上仕事を引き受けることはできません。)"
+    },
+    {
+      "id": 26,
+      "value": "Shilly-Shally",
+      "options": [
+        "ためらう",
+        "急いで行動する",
+        "のんびり過ごす",
+        "決断を避ける"
+      ],
+      "correctAnswer": "ためらう",
+      "explanation": "「Shilly-Shally」は、決断をためらったり、ぐずぐずしたりする様子を表す言葉です。特に重要な決断を前にして、煮え切らない態度を取る場合に使われます。この言葉自体が、優柔不断な態度を揶揄するニュアンスを含んでいます。"
+    },
+    {
+      "id": 27,
+      "value": "recipient of",
+      "options": [
+        "供給者",
+        "受益者",
+        "主催者",
+        "目撃者"
+      ],
+      "correctAnswer": "受益者",
+      "explanation": "「recipient of」は、「～の受け手」「～の受益者」という意味です。何かを受け取る人、特に好意、贈り物、賞などを受け取る人を指します。フォーマルな文脈でよく使用されます。"
+    },
+    {
+      "id": 28,
+      "value": "inappropriate",
+      "options": [
+        "適切な",
+        "不適切な",
+        "避けられない",
+        "重要な"
+      ],
+      "correctAnswer": "不適切な",
+      "explanation": "「inappropriate」は、「不適切な」「ふさわしくない」という意味です。状況や文脈にそぐわない行動、言動、服装などを指す場合に使われます。社会的な規範やルールに反する場合にも用いられます。"
+    },
+    {
+      "id": 29,
+      "value": "flirtations",
+      "options": [
+        "議論",
+        "口論",
+        "誘惑",
+        "絶望"
+      ],
+      "correctAnswer": "誘惑",
+      "explanation": "「flirtation」は、「浮気」「戯れ」「軽い恋愛関係」という意味です。異性に対して、恋愛感情があるかのように振る舞うことを指します。真剣な交際ではなく、遊びや興味本位で行われることが多いです。"
+    },
+    {
+      "id": 30,
+      "value": "handle this situation",
+      "options": [
+        "状況を無視する",
+        "状況を悪化させる",
+        "状況に対処する",
+        "状況から逃げる"
+      ],
+      "correctAnswer": "状況に対処する",
+      "explanation": "「handle this situation」は、「この状況を処理する」「この状況に対処する」という意味です。問題や困難な状況に対して、適切に対処し、解決しようとすることを指します。"
+    },
+    {
+      "id": 31,
+      "value": "the word",
+      "options": [
+        "秘密",
+        "合図",
+        "手紙",
+        "電報"
+      ],
+      "correctAnswer": "合図",
+      "explanation": "「say the word」は、「合図をする」「指示を出す」という意味です。誰かに何かをするように促す際に使われる表現です。特に、秘密の合図や、ある行動を開始するための許可を意味することがあります。"
+    },
+    {
+      "id": 32,
+      "value": "nothing to lose",
+      "options": [
+        "失うものがない",
+        "得るものがない",
+        "後悔",
+        "隠蔽"
+      ],
+      "correctAnswer": "失うものがない",
+      "explanation": "「nothing to lose」は、「失うものがない」という意味です。行動することによるリスクやデメリットがない状態を指します。しばしば、大胆な行動に出る動機として用いられます。"
+    },
+    {
+      "id": 33,
+      "value": "the cat's out of the bag",
+      "options": [
+        "秘密が漏れた",
+        "猫が好きだ",
+        "袋がない",
+        "猫を探している"
+      ],
+      "correctAnswer": "秘密が漏れた",
+      "explanation": "「the cat's out of the bag」は、「秘密が漏れた」「ばれてしまった」という意味のイディオムです。隠されていた情報が公になってしまった状況を表します。"
+    },
+    {
+      "id": 34,
+      "value": "uncomfortable",
+      "options": [
+        "快適な",
+        "不快な",
+        "安全な",
+        "危険な"
+      ],
+      "correctAnswer": "不快な",
+      "explanation": "「uncomfortable」は、「不快な」「居心地が悪い」という意味です。身体的、精神的な不快感を伴う状況を表します。人間関係や状況がぎこちない場合にも使用されます。"
+    },
+    {
+      "id": 35,
+      "value": "strutting around",
+      "options": [
+        "うろつく",
+        "悩む",
+        "闊歩する",
+        "無視する"
+      ],
+      "correctAnswer": "闊歩する",
+      "explanation": "「strut around」は、「得意げに歩き回る」「胸を張って歩く」という意味です。自信満々に、または見せびらかすように歩く様子を表します。しばしば、少し傲慢なニュアンスを含みます。"
+    },
+    {
+      "id": 36,
+      "value": "wide open",
+      "options": [
+        "混んでいる",
+        "予定がない",
+        "満席",
+        "退屈だ"
+      ],
+      "correctAnswer": "予定がない",
+      "explanation": "「wide open」は、「(予定などが)空いている」「制限がない」という意味です。スケジュールや機会などが制限なく利用できる状態を表します。"
+    },
+    {
+      "id": 37,
+      "value": "snuck up on",
+      "options": [
+        "近づいてきた",
+        "理解できた",
+        "予定通り",
+        "改善した"
+      ],
+      "correctAnswer": "近づいてきた",
+      "explanation": "「sneak up on」は、「（人や物事に）こっそり近づく」「いつの間にか（人に）起こる」という意味です。予期せずに何かが起こる様子を表します。"
+    },
+    {
+      "id": 38,
+      "value": "an opportunity",
+      "options": [
+        "機会",
+        "問題",
+        "言い訳",
+        "事件"
+      ],
+      "correctAnswer": "機会",
+      "explanation": "「opportunity」は、「機会」「好機」という意味です。何かを成し遂げるための有利な状況やチャンスを指します。"
+    },
+    {
+      "id": 39,
+      "value": "sexual advance",
+      "options": [
+        "性的進歩",
+        "性的嫌悪",
+        "性的魅力",
+        "性的アプローチ"
+      ],
+      "correctAnswer": "性的アプローチ",
+      "explanation": "「sexual advance」は、「性的アプローチ」「性的関係を迫る行為」という意味です。相手の意に反して、性的な接触を試みる、または性的な関係を求める言動を指します。"
+    },
+    {
+      "id": 40,
+      "value": "unsympathetic",
+      "options": [
+        "同情的な",
+        "非情な",
+        "同感しない",
+        "熱狂的な"
+      ],
+      "correctAnswer": "同感しない",
+      "explanation": "「unsympathetic」は、「同情心がない」「思いやりがない」という意味です。他者の苦しみや困難に対して理解を示さない、または共感しない態度を指します。"
+    },
+    {
+      "id": 41,
+      "value": "plight",
+      "options": [
+        "喜び",
+        "誓い",
+        "苦境",
+        "幸運"
+      ],
+      "correctAnswer": "苦境",
+      "explanation": "「plight」は、「苦境」「窮状」という意味です。困難な状況や、悲惨な状態にあることを指します。しばしば、助けを必要とする深刻な状況を表します。"
+    },
+    {
+      "id": 42,
+      "value": "a slave to",
+      "options": [
+        "～の主人",
+        "～の奴隷",
+        "～の友達",
+        "～の敵"
+      ],
+      "correctAnswer": "～の奴隷",
+      "explanation": "「a slave to」は、「～の奴隷」「～に支配されている」という意味です。強い欲求や習慣に支配され、自由に行動できない状態を表します。"
+    },
+    {
+      "id": 43,
+      "value": "amorous intent",
+      "options": [
+        "愛情表現",
+        "怒りの感情",
+        "ビジネスの意思",
+        "芸術的意図"
+      ],
+      "correctAnswer": "愛情表現",
+      "explanation": "「amorous intent」は、「愛情表現」「恋愛感情」という意味です。恋愛感情や性的な関心を表す意図を指します。"
+    },
+    {
+      "id": 44,
+      "value": "suppress",
+      "options": [
+        "抑圧する",
+        "表現する",
+        "促進する",
+        "無視する"
+      ],
+      "correctAnswer": "抑圧する",
+      "explanation": "「suppress」は、「抑圧する」「抑制する」という意味です。感情、衝動、情報などを抑え込む、または隠すことを指します。"
+    },
+    {
+      "id": 45,
+      "value": "leafing through",
+      "options": [
+        "読み終える",
+        "ざっと目を通す",
+        "書き写す",
+        "暗唱する"
+      ],
+      "correctAnswer": "ざっと目を通す",
+      "explanation": "「leaf through」は、「(本などを)パラパラめくる」「ざっと目を通す」という意味です。詳しく読むのではなく、軽く内容を確認する際に使います。"
+    },
+    {
+      "id": 46,
+      "value": "oozy doozy",
+      "options": [
+        "きれいな花",
+        "粘着性のもの",
+        "恐ろしいもの",
+        "すばらしいもの"
+      ],
+      "correctAnswer": "恐ろしいもの",
+      "explanation": "「oozy doozy」は、ここでは性感染症のひどい状態を指すスラング的な表現です。 「oozy」は「滲み出る」、「doody」は「素晴らしい」といった意味ですが、組み合わさることで、不快感や嫌悪感を強調する言葉として使われています。"
+    },
+    {
+      "id": 47,
+      "value": "pretty lady",
+      "options": [
+        "美しい女性",
+        "面白い女性",
+        "強い女性",
+        "賢い女性"
+      ],
+      "correctAnswer": "美しい女性",
+      "explanation": "「pretty lady」は、「きれいな女性」「かわいらしい女性」という意味です。親しみを込めて、または軽い冗談として女性に呼びかける際に使われることがあります。"
+    },
+    {
+      "id": 48,
+      "value": "play dumb",
+      "options": [
+        "賢く振る舞う",
+        "ばかを演じる",
+        "正直に話す",
+        "真面目に考える"
+      ],
+      "correctAnswer": "ばかを演じる",
+      "explanation": "「play dumb」は、「知らないふりをする」「ばかを演じる」という意味です。知っていることを隠し、無知なふりをする態度を指します。"
+    },
+    {
+      "id": 49,
+      "value": "hit on",
+      "options": [
+        "殴る",
+        "衝突する",
+        "言い当てる",
+        "口説く"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「hit on」は、「(異性を)口説く」「言い寄る」という意味です。恋愛感情を持って、積極的にアプローチする行為を指します。"
+    },
+    {
+      "id": 50,
+      "value": "missing something",
+      "options": [
+        "何かを見つけた",
+        "何かを失った",
+        "何かを理解できない",
+        "何かを期待している"
+      ],
+      "correctAnswer": "何かを理解できない",
+      "explanation": "「missing something」は、「何かを理解していない」「何かを見落としている」という意味です。状況や話の内容を完全に把握できていない状態を表します。"
+    },
+    {
+      "id": 51,
+      "value": "a fat lot of good",
+      "options": [
+        "多くの良いこと",
+        "少しの良いこと",
+        "全く役に立たないこと",
+        "非常に重要なこと"
+      ],
+      "correctAnswer": "全く役に立たないこと",
+      "explanation": "「a fat lot of good」は、皮肉を込めて「全く役に立たない」「何の効果もない」という意味で使用されます。期待した効果が全くなかったり、むしろ逆効果だったりする場合に使われます。\n\n例：That diet did a fat lot of good. I gained weight!（そのダイエットは全く役に立たなかった。体重が増えた！）"
+    },
+    {
+      "id": 52,
+      "value": "uterus",
+      "options": [
+        "子宮",
+        "脳",
+        "心臓",
+        "胃"
+      ],
+      "correctAnswer": "子宮",
+      "explanation": "「uterus」は、医学用語で「子宮」を意味します。生物学や医学の文脈で使われることが多い単語です。\n\n例：The uterus is a vital organ for reproduction in female mammals.（子宮は、哺乳類のメスの生殖にとって不可欠な器官です。）"
+    },
+    {
+      "id": 53,
+      "value": "unicycle",
+      "options": [
+        "自転車",
+        "三輪車",
+        "一輪車",
+        "バイク"
+      ],
+      "correctAnswer": "一輪車",
+      "explanation": "「unicycle」は「一輪車」を意味します。主に趣味やパフォーマンスで使用される乗り物です。\n\n例：He rode his unicycle around the park. (彼は公園で一輪車に乗った。)"
+    },
+    {
+      "id": 54,
+      "value": "blab",
+      "options": [
+        "秘密にする",
+        "打ち明ける",
+        "暴露する",
+        "忘れる"
+      ],
+      "correctAnswer": "暴露する",
+      "explanation": "「blab」は、秘密や内緒の話をうっかり話してしまう、口を滑らせるという意味です。軽率な印象を与える動詞です。\n\n例：He blabbed about the surprise party and ruined it.（彼はサプライズパーティーのことをうっかり話して、台無しにしてしまった。）"
+    },
+    {
+      "id": 55,
+      "value": "Council of Ladies",
+      "options": [
+        "女性評議会",
+        "婦人会",
+        "女性の集まり",
+        "女性に関する有益な情報の源"
+      ],
+      "correctAnswer": "女性に関する有益な情報の源",
+      "explanation": "ここでは皮肉を込めて、女性の心理や行動について非常に詳しい人物、またはそういった情報源を指しています。実際には存在しない、架空の組織名です。"
+    },
+    {
+      "id": 56,
+      "value": "filed a complaint",
+      "options": [
+        "褒めちぎった",
+        "訴えを起こした",
+        "感謝状を送った",
+        "推薦状を書いた"
+      ],
+      "correctAnswer": "訴えを起こした",
+      "explanation": "「file a complaint」は、「苦情を申し立てる」「訴えを起こす」という意味です。正式な手続きを経て、問題や不満を報告する際に使われます。\n\n例：She filed a complaint about the discrimination she faced at work.（彼女は職場で受けた差別の苦情を申し立てた。）"
+    },
+    {
+      "id": 57,
+      "value": "inappropriate behavior",
+      "options": [
+        "適切な行動",
+        "不適切な行動",
+        "模範的な行動",
+        "勇敢な行動"
+      ],
+      "correctAnswer": "不適切な行動",
+      "explanation": "「inappropriate behavior」は、「不適切な行動」「ふさわしくない行為」という意味です。社会的な規範やルールに反する行動を指します。\n\n例：His inappropriate behavior at the party caused a lot of trouble.（彼のパーティーでの不適切な行動は、多くの問題を引き起こした。）"
+    },
+    {
+      "id": 58,
+      "value": "a delight",
+      "options": [
+        "喜び",
+        "迷惑",
+        "苦痛",
+        "心配"
+      ],
+      "correctAnswer": "喜び",
+      "explanation": "「a delight」は「喜び」「楽しみ」という意味ですが、ここでは「素晴らしい人」というニュアンスで使われています。皮肉を込めて、自分は周りの人に喜びを与えていると言っています。\n\n例：She is a delight to work with.（彼女と一緒に働くのは楽しい。）"
+    },
+    {
+      "id": 59,
+      "value": "front-row seat",
+      "options": [
+        "最前列の席",
+        "後方の席",
+        "特別な場所",
+        "目立たない場所"
+      ],
+      "correctAnswer": "特別な場所",
+      "explanation": "「front-row seat」は文字通りには「最前列の席」という意味ですが、ここでは比喩的に「特別な機会」「有利な立場」を意味します。重要な出来事を間近で見られる、または参加できる状況を指します。\n\n例：He had a front-row seat to history as the Berlin Wall came down.（彼はベルリンの壁崩壊という歴史的な出来事を間近で見ることができた。）"
+    },
+    {
+      "id": 60,
+      "value": "disease-ridden",
+      "options": [
+        "病気のない",
+        "病気に苦しむ",
+        "病気が蔓延している",
+        "病気を予防する"
+      ],
+      "correctAnswer": "病気が蔓延している",
+      "explanation": "「disease-ridden」は、「病気が蔓延している」「病気に蝕まれている」という意味です。不快感や嫌悪感を伴う状況を表す際に使われます。\n\n例：The slums were disease-ridden and dangerous.（そのスラム街は病気が蔓延し、危険だった。）"
+    },
+    {
+      "id": 61,
+      "value": "gonna take a while",
+      "options": [
+        "すぐ終わる",
+        "時間がかかる",
+        "中断する",
+        "延期する"
+      ],
+      "correctAnswer": "時間がかかる",
+      "explanation": "「gonna take a while」は、「時間がかかるだろう」という意味です。問題解決や作業完了に時間がかかることを予想する際に使われます。 \"gonna\"は\"going to\"の口語的な省略形です。\n\n例：This project is gonna take a while to complete.（このプロジェクトを完了するには時間がかかるだろう。）"
+    },
+    {
+      "id": 62,
+      "value": "slave to",
+      "options": [
+        "自由な",
+        "依存している",
+        "抵抗する",
+        "独立している"
+      ],
+      "correctAnswer": "依存している",
+      "explanation": "「slave to」は、「～の奴隷」「～に支配されている」という意味です。何かに強く影響を受け、自由を奪われている状態を表します。\n\n例：He is a slave to his work.（彼は仕事の奴隷だ。）"
+    },
+    {
+      "id": 63,
+      "value": "biological urges",
+      "options": [
+        "生物学的な知識",
+        "生物学的な欲求",
+        "生物学的な研究",
+        "生物学的な本能"
+      ],
+      "correctAnswer": "生物学的な欲求",
+      "explanation": "「biological urges」は、「生物学的な欲求」「本能的な衝動」という意味です。食欲、睡眠欲、性欲など、生物として自然に湧き上がる欲求を指します。\n\n例：Humans have strong biological urges to survive and reproduce.（人間には生存し、繁殖するための強い生物学的な欲求がある。）"
+    },
+    {
+      "id": 64,
+      "value": "singling her out",
+      "options": [
+        "仲間に入れる",
+        "区別する",
+        "無視する",
+        "助ける"
+      ],
+      "correctAnswer": "区別する",
+      "explanation": "「single someone out」は、「～を特別扱いする」「～を選び出す」「～を特定する」という意味です。他の人とは異なる扱いをすることを指します。\n\n例：The teacher singled him out for praise.（先生は彼を褒めるために特別扱いした。）"
+    },
+    {
+      "id": 65,
+      "value": "menstrual cycle",
+      "options": [
+        "ライフサイクル",
+        "社会情勢",
+        "月経周期",
+        "ビジネスサイクル"
+      ],
+      "correctAnswer": "月経周期",
+      "explanation": "「menstrual cycle」は、「月経周期」を意味します。女性の生理現象に関連する医学用語です。\n\n例：The menstrual cycle typically lasts about 28 days.（月経周期は通常約28日間続く。）"
+    },
+    {
+      "id": 66,
+      "value": "persecuted",
+      "options": [
+        "迫害された",
+        "愛された",
+        "尊敬された",
+        "無視された"
+      ],
+      "correctAnswer": "迫害された",
+      "explanation": "「persecute」は「迫害する」という意味です。不当な扱いを受けたり、苦しめられたりする状況を指します。\n\n例：Religious minorities were persecuted during the war.（戦時中、宗教的少数派は迫害された。）"
+    },
+    {
+      "id": 67,
+      "value": "bragging about",
+      "options": [
+        "心配している",
+        "謙遜している",
+        "自慢している",
+        "後悔している"
+      ],
+      "correctAnswer": "自慢している",
+      "explanation": "「brag about」は、「～について自慢する」「～を誇る」という意味です。自分の能力や成果を大げさに話すことを指します。\n\n例：He was bragging about his new car.（彼は自分の新しい車について自慢していた。）"
+    },
+    {
+      "id": 68,
+      "value": "in one's defense",
+      "options": [
+        "攻撃的に",
+        "弁護すると",
+        "非難すると",
+        "無視すると"
+      ],
+      "correctAnswer": "弁護すると",
+      "explanation": "「in someone's defense」は、「～を弁護して」「～を擁護して」という意味です。誰かを弁護する際に使われます。\n\n例：In his defense, he was not aware of the rules.（彼を弁護すると、彼は規則を知らなかった。）"
+    },
+    {
+      "id": 69,
+      "value": "hit on",
+      "options": [
+        "攻撃する",
+        "偶然会う",
+        "口説く",
+        "避ける"
+      ],
+      "correctAnswer": "口説く",
+      "explanation": "「hit on」は、「～を口説く」「～に言い寄る」という意味です。恋愛関係を築こうとしてアプローチすることを指します。\n\n例：He was hitting on her at the bar.（彼はバーで彼女を口説いていた。）"
+    },
+    {
+      "id": 70,
+      "value": "hate that bitch",
+      "options": [
+        "その犬が好き",
+        "その女性が好き",
+        "その女性が嫌い",
+        "その犬が嫌い"
+      ],
+      "correctAnswer": "その女性が嫌い",
+      "explanation": "bitchは侮蔑的な表現です。ここでは強い嫌悪感を示しています。「あの女、マジでむかつく」のようなニュアンスです。"
+    },
+    {
+      "id": 71,
+      "value": "have feelings",
+      "options": [
+        "感情がない",
+        "感情がある",
+        "冷静である",
+        "無関心である"
+      ],
+      "correctAnswer": "感情がある",
+      "explanation": "「have feelings」は、「感情がある」「気持ちがある」という意味です。喜び、悲しみ、怒りなどの感情を抱くことを指します。\n\n例：It's important to be aware of your own feelings.（自分の感情に気づくことは重要だ。）"
+    },
+    {
+      "id": 72,
+      "value": "kind of",
+      "options": [
+        "完全に",
+        "全く",
+        "少し",
+        "非常に"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「kind of」は、「少し」「なんとなく」という意味です。程度を弱める際に使われます。\n\n例：I'm kind of tired.（少し疲れている。）"
+    },
+    {
+      "id": 73,
+      "value": "message received",
+      "options": [
+        "メッセージを送信",
+        "メッセージを受信",
+        "メッセージを無視",
+        "メッセージを削除"
+      ],
+      "correctAnswer": "メッセージを受信",
+      "explanation": "「message received」は、「メッセージを受け取りました」「了解しました」という意味です。相手の意図や指示を理解したことを伝える際に使われます。\n\n例：Okay, message received. I'll do it right away.（わかりました、了解しました。すぐにやります。）"
+    },
+    {
+      "id": 74,
+      "value": "weird",
+      "options": [
+        "普通",
+        "奇妙",
+        "簡単",
+        "重要"
+      ],
+      "correctAnswer": "奇妙",
+      "explanation": "「weird」は、「奇妙な」「変な」という意味です。通常とは異なる、理解しがたい状況や物を指します。\n\n例：That's weird. I don't remember locking the door.（変だな。ドアをロックした覚えがない。）"
+    },
+    {
+      "id": 75,
+      "value": "called in",
+      "options": [
+        "電話した",
+        "呼び出された",
+        "訪問した",
+        "招待された"
+      ],
+      "correctAnswer": "呼び出された",
+      "explanation": "「call in」は、「呼び出す」「呼びつける」という意味です。誰かを特定の場所に来るように要請する際に使われます。\n\n例：He was called in to the principal's office.（彼は校長室に呼び出された。）"
+    },
+    {
+      "id": 76,
+      "value": "Human Resources",
+      "options": [
+        "人的資本",
+        "人的資源",
+        "人間関係",
+        "人道支援"
+      ],
+      "correctAnswer": "人的資源",
+      "explanation": "Human Resources (HR) は、企業や組織における従業員の採用、育成、評価、労務管理などを担当する部門を指します。日本語では「人的資源」と訳されます。組織における人材の活用と管理を最適化することを目的としています。"
+    },
+    {
+      "id": 77,
+      "value": "screwing around with",
+      "options": [
+        "真剣に取り組む",
+        "ふざけて時間を浪費する",
+        "協力して解決する",
+        "詳細に調査する"
+      ],
+      "correctAnswer": "ふざけて時間を浪費する",
+      "explanation": "「screw around with」は、何かを真剣に扱わず、ふざけたり、時間を無駄にしたりする行為を指します。いたずらをする、邪魔をする、いい加減な態度をとるなどの意味合いを含みます。例文: Stop screwing around with my computer!（私のパソコンをいじらないで！）"
+    },
+    {
+      "id": 78,
+      "value": "sniffing around",
+      "options": [
+        "公然と批判する",
+        "注意深く避ける",
+        "探し回る",
+        "正直に伝える"
+      ],
+      "correctAnswer": "探し回る",
+      "explanation": "\"sniff around\" は、何かを探し回る、特に秘密や情報を探ろうとする意味合いで使われます。詮索好きな態度や、何かを探し求める様子を表します。例：She was sniffing around for gossip. (彼女はゴシップを探し回っていた。)"
+    },
+    {
+      "id": 79,
+      "value": "goods",
+      "options": [
+        "商品",
+        "持ち物",
+        "長所",
+        "不動産"
+      ],
+      "correctAnswer": "持ち物",
+      "explanation": "\"goods\" はここでは所有物や魅力的なものという意味合いで使われています。特に性的な魅力や興味の対象となるものを指す場合があります。文脈によって意味が異なりますが、ここではそのようなニュアンスが含まれています。"
+    },
+    {
+      "id": 80,
+      "value": "a while",
+      "options": [
+        "永遠に",
+        "短い時間",
+        "少しの間",
+        "長い間"
+      ],
+      "correctAnswer": "長い間",
+      "explanation": "\"a while\" は「しばらくの間」という意味ですが、文脈によっては「長い間」という意味合いを持つことがあります。特に過去の出来事や久しぶりの再会などを表現する際に使われます。例：It's been a while since we last met. (最後に会ってからずいぶんと時間が経ちましたね。)"
+    },
+    {
+      "id": 81,
+      "value": "misunderstanding",
+      "options": [
+        "相互理解",
+        "誤解",
+        "共通認識",
+        "秘密の関係"
+      ],
+      "correctAnswer": "誤解",
+      "explanation": "\"misunderstanding\" は「誤解」という意味で、何かを正しく理解していない状態を指します。コミュニケーションの不足や情報の誤りなどが原因で生じることが多いです。例：There seems to be a misunderstanding. (何か誤解があるようです。)"
+    },
+    {
+      "id": 82,
+      "value": "on your breath",
+      "options": [
+        "近くに",
+        "あなたの代わりに",
+        "息に",
+        "あなたの責任で"
+      ],
+      "correctAnswer": "息に",
+      "explanation": "\"on your breath\" は「息に（〜の匂いがする）」という意味です。アルコールやタバコなど、特定のもの匂いが息から感じられる状態を指します。例：I could smell the alcohol on his breath. (彼の息からアルコールの匂いがした。)"
+    },
+    {
+      "id": 83,
+      "value": "dirty birdie",
+      "options": [
+        "綺麗な鳥",
+        "汚い鳥",
+        "ずる賢い人",
+        "正直な人"
+      ],
+      "correctAnswer": "ずる賢い人",
+      "explanation": "\"dirty birdie\" は、性的な意味合いを含む軽蔑的な表現で、特に女性に対して使われることがあります。ずる賢い、または不道徳な行為をする人を指すスラングです。この表現は非常に侮辱的なため、使用は避けるべきです。"
+    },
+    {
+      "id": 84,
+      "value": "be a dear",
+      "options": [
+        "親愛なる人になる",
+        "正直者になる",
+        "親切にして",
+        "夢を見る"
+      ],
+      "correctAnswer": "親切にして",
+      "explanation": "\"be a dear\" は、人に何かを頼む際に使う表現で、「お願いだから〜してくれませんか」という意味合いです。親愛の情を込めて、相手に優しく頼む時に使います。例：Be a dear and pass me the salt. (お願いだから塩を取ってくれませんか。)"
+    },
+    {
+      "id": 85,
+      "value": "menstruating",
+      "options": [
+        "瞑想する",
+        "月経である",
+        "記憶する",
+        "男性化する"
+      ],
+      "correctAnswer": "月経である",
+      "explanation": "\"menstruating\" は「月経である」という意味で、女性の生理期間中であることを指します。医学用語としても一般的に使われます。例：She is menstruating. (彼女は生理中です。)"
+    },
+    {
+      "id": 86,
+      "value": "be construed as",
+      "options": [
+        "建設的に解釈される",
+        "誤解される",
+        "〜と解釈される",
+        "無視される"
+      ],
+      "correctAnswer": "〜と解釈される",
+      "explanation": "\"be construed as\" は「〜と解釈される」という意味で、ある言動や行動が特定の方法で理解または解釈される可能性があることを示します。多くの場合、意図しない解釈や誤解が生じる可能性がある場合に使われます。例：His silence could be construed as agreement. (彼の沈黙は同意と解釈される可能性がある。)"
+    },
+    {
+      "id": 87,
+      "value": "mandated",
+      "options": [
+        "要求された",
+        "推奨された",
+        "無視された",
+        "提案された"
+      ],
+      "correctAnswer": "要求された",
+      "explanation": "\"mandated\" は「義務付けられた」「要求された」という意味で、法律や規則、命令などによって強制されることを指します。権威のある機関や組織からの正式な指示や要請が含まれます。例：The company mandated that all employees attend the training. (会社は全従業員に研修への参加を義務付けた。)"
+    },
+    {
+      "id": 88,
+      "value": "ace it",
+      "options": [
+        "失敗する",
+        "完璧にやり遂げる",
+        "平均的にこなす",
+        "途中で諦める"
+      ],
+      "correctAnswer": "完璧にやり遂げる",
+      "explanation": "\"ace it\" は「それを完璧にやり遂げる」「最高の結果を出す」という意味のスラングです。試験や課題などで非常に良い成績を収めることを指します。例：I need to ace this exam to get a good grade. (良い成績を取るために、この試験で満点を取る必要がある。)"
+    },
+    {
+      "id": 89,
+      "value": "sit around",
+      "options": [
+        "座って待つ",
+        "積極的に行動する",
+        "努力する",
+        "批判する"
+      ],
+      "correctAnswer": "座って待つ",
+      "explanation": "\"sit around\" は「座って何もしないでいる」「ぶらぶらする」という意味で、特に目的もなく時間を過ごす様子を表します。退屈している、または何もすることがない状況で使われることが多いです。例：We just sat around all day because it was raining. (雨だったので、一日中ぶらぶらしていた。)"
+    },
+    {
+      "id": 90,
+      "value": "insecure",
+      "options": [
+        "安全な",
+        "自信がある",
+        "不安な",
+        "安定した"
+      ],
+      "correctAnswer": "不安な",
+      "explanation": "\"insecure\" は「不安な」「自信がない」という意味で、自分の能力や価値、人間関係などに対して不安を感じる状態を指します。自己肯定感が低い場合や、過去の経験から不安を抱えている場合に使われます。例：She felt insecure about her appearance. (彼女は自分の外見に不安を感じていた。)"
+    },
+    {
+      "id": 91,
+      "value": "do something about it",
+      "options": [
+        "何もしない",
+        "状況を悪化させる",
+        "それについて何か対策を講じる",
+        "忘れる"
+      ],
+      "correctAnswer": "それについて何か対策を講じる",
+      "explanation": "\"do something about it\" は「それについて何か対策を講じる」「問題を解決するために行動する」という意味です。放置せずに積極的に問題に取り組む姿勢を示します。例：If you don't like your job, do something about it. (もし今の仕事が好きでないなら、何か対策を講じなさい。)"
+    },
+    {
+      "id": 92,
+      "value": "course catalogue",
+      "options": [
+        "料理のレシピ",
+        "オンライン辞書",
+        "授業の講座一覧",
+        "洋服のカタログ"
+      ],
+      "correctAnswer": "授業の講座一覧",
+      "explanation": "\"course catalogue\" は「講座一覧」「授業科目一覧」という意味で、大学や教育機関で提供される授業やコースの情報をまとめた冊子やウェブサイトを指します。授業内容、時間割、単位数などが記載されています。例：I looked through the course catalogue to find interesting classes. (面白い授業を見つけるために講座一覧に目を通した。)"
+    },
+    {
+      "id": 93,
+      "value": "kill yourself",
+      "options": [
+        "自分を甘やかす",
+        "成功する",
+        "自殺する",
+        "運動する"
+      ],
+      "correctAnswer": "自殺する",
+      "explanation": "\"kill yourself\" は「自殺する」という意味ですが、この文脈では「退屈で死んでしまいそう」という比喩的な表現として使われています。非常に退屈で、我慢できないほどつまらない状況を強調するために用いられます。例：This movie is so boring, I could kill myself. (この映画はとてもつまらないので、死んでしまいそうだ。)"
+    },
+    {
+      "id": 94,
+      "value": "look like one",
+      "options": [
+        "同じように考える",
+        "同じように感じる",
+        "同じように見える",
+        "同じように行動する"
+      ],
+      "correctAnswer": "同じように見える",
+      "explanation": "\"look like one\" は「〜のように見える」という意味で、外見や印象が特定の職業や特徴を持つ人に似ていることを指します。この文脈では、科学者のように見えることを意味しています。例：If you want to look like a scientist, wear glasses. (科学者のように見せたいなら、眼鏡をかけなさい。)"
+    },
+    {
+      "id": 95,
+      "value": "right?",
+      "options": [
+        "左？",
+        "そうでしょう？",
+        "間違っている？",
+        "権利？"
+      ],
+      "correctAnswer": "そうでしょう？",
+      "explanation": "\"right?\" は文末につけて「〜でしょう？」「〜だよね？」という意味で、相手に同意や確認を求める際に使われます。カジュアルな会話でよく用いられます。例：It's a beautiful day, right? (今日は良い天気ですよね？)"
+    },
+    {
+      "id": 96,
+      "value": "take everything off",
+      "options": [
+        "すべてを元に戻す",
+        "すべてを明らかにする",
+        "すべて脱ぐ",
+        "すべてを奪う"
+      ],
+      "correctAnswer": "すべて脱ぐ",
+      "explanation": "\"take everything off\" は「すべて脱ぐ」という意味で、服をすべて脱ぎ去る行為を指します。性的な文脈や、着替えなどの状況で使われます。例：It's hot in here, I'm going to take everything off. (ここは暑いから、全部脱ぐよ。)"
+    },
+    {
+      "id": 97,
+      "value": "threw us all under the bus",
+      "options": [
+        "バスに乗せてくれた",
+        "助けてくれた",
+        "裏切った",
+        "守ってくれた"
+      ],
+      "correctAnswer": "裏切った",
+      "explanation": "\"throw someone under the bus\" は「誰かを犠牲にする」「誰かを裏切る」という意味のイディオムです。自分の利益のために他人を陥れたり、責任を転嫁したりする行為を指します。例：He threw me under the bus to save his own job. (彼は自分の仕事を守るために私を裏切った。)"
+    },
+    {
+      "id": 98,
+      "value": "called down to",
+      "options": [
+        "呼び出す",
+        "昇進させる",
+        "招待する",
+        "指示する"
+      ],
+      "correctAnswer": "呼び出す",
+      "explanation": "\"called down to\" は、通常、権威のある場所や人物の元に呼び出されることを意味します。この文脈では、Rajが校長室に呼び出されるような感覚を表現しています。例：He was called down to the principal's office for his behavior.（彼はその行動のために校長室に呼び出された。）"
+    },
+    {
+      "id": 99,
+      "value": "tip",
+      "options": [
+        "助言",
+        "秘密",
+        "贈り物",
+        "才能"
+      ],
+      "correctAnswer": "助言",
+      "explanation": "\"tip\" は、「助言」「ヒント」という意味です。有益な情報やアドバイスを提供する際に使われます。例：Here's a tip for you: arrive early.（あなたにアドバイスです：早めに到着してください。）"
+    },
+    {
+      "id": 100,
+      "value": "fault",
+      "options": [
+        "才能",
+        "長所",
+        "欠点",
+        "美点"
+      ],
+      "correctAnswer": "欠点",
+      "explanation": "\"fault\" は、「欠点」「過失」「責任」という意味です。問題や失敗の原因となるものを指します。例：It was my fault that we lost the game.（私たちが試合に負けたのは私の責任です。）"
+    }
+  ]
+}

@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "responsible for",
+      "options": [
+        "～に責任がある",
+        "～に興味がある",
+        "～を軽視する",
+        "～を恐れる"
+      ],
+      "correctAnswer": "～に責任がある",
+      "explanation": "「responsible for」は、何かの原因である、または責任を負うという意味です。良い結果にも悪い結果にも使われます。\n\n例：He is responsible for the accident. (彼がその事故の責任者だ。)"
+    },
+    {
+      "id": 2,
+      "value": "by mistake",
+      "options": [
+        "偶然に",
+        "計画的に",
+        "慎重に",
+        "正確に"
+      ],
+      "correctAnswer": "偶然に",
+      "explanation": "「by mistake」は、意図せず、誤ってという意味です。何かを間違って行ったり、予期せぬ結果が生じた場合に使われます。\n\n例：I took your umbrella by mistake. (間違ってあなたの傘を持ってきてしまった。)"
+    },
+    {
+      "id": 3,
+      "value": "way off",
+      "options": [
+        "非常に近い",
+        "かなり離れて",
+        "正確に",
+        "一部合っている"
+      ],
+      "correctAnswer": "かなり離れて",
+      "explanation": "「way off」は、大きく間違っている、見当違いであるという意味です。距離、時間、数値など、様々なものに対して使えます。\n\n例：Your estimate is way off. (あなたの見積もりは大きく間違っている。)"
+    },
+    {
+      "id": 4,
+      "value": "no less",
+      "options": [
+        "それ以下",
+        "それ以上",
+        "同様に",
+        "全く～ない"
+      ],
+      "correctAnswer": "同様に",
+      "explanation": "「no less」は、～に劣らず、同様にという意味です。驚きや強調を表すために使われます。\n\n例：He is a doctor, no less. (彼は医者なのだ、それも驚くべきことに。)"
+    },
+    {
+      "id": 5,
+      "value": "make the switch to",
+      "options": [
+        "～に切り替える",
+        "～を避ける",
+        "～を続ける",
+        "～を改善する"
+      ],
+      "correctAnswer": "～に切り替える",
+      "explanation": "「make the switch to」は、何かを別のものに切り替えるという意味です。変化や移行を表す際に用いられます。\n\n例：Many people are making the switch to electric cars. (多くの人々が電気自動車に乗り換えている。)"
+    },
+    {
+      "id": 6,
+      "value": "swear jar",
+      "options": [
+        "貯金箱",
+        "罰金箱",
+        "募金箱",
+        "宝箱"
+      ],
+      "correctAnswer": "罰金箱",
+      "explanation": "「swear jar」は、誰かが特定の言葉（通常は汚い言葉）を使うたびに罰金を入れさせるための瓶のことです。一種のユーモラスな罰として使われます。"
+    },
+    {
+      "id": 7,
+      "value": "translate to",
+      "options": [
+        "～に翻訳される",
+        "～に影響する",
+        "～に変わる",
+        "～を要約する"
+      ],
+      "correctAnswer": "～に変わる",
+      "explanation": "「translate to」は、何かが別のものに変わる、または別の結果をもたらすという意味です。比喩的な意味合いで使われることが多いです。\n\n例：Her hard work translated to success. (彼女の努力は成功につながった。)"
+    },
+    {
+      "id": 8,
+      "value": "trained monkey",
+      "options": [
+        "訓練されたサル",
+        "優秀な助手",
+        "指示通りに動く人",
+        "自由な精神"
+      ],
+      "correctAnswer": "指示通りに動く人",
+      "explanation": "「trained monkey」は、他人の指示に盲目的に従う人を指す、やや軽蔑的な表現です。創造性や自発性の欠如を示唆します。"
+    },
+    {
+      "id": 9,
+      "value": "get used to",
+      "options": [
+        "～に慣れる",
+        "～を忘れる",
+        "～を嫌う",
+        "～に反対する"
+      ],
+      "correctAnswer": "～に慣れる",
+      "explanation": "「get used to」は、何かに慣れる、順応するという意味です。新しい環境や状況に適応する際に使われます。\n\n例：I need to get used to waking up early. (早起きに慣れる必要がある。)"
+    },
+    {
+      "id": 10,
+      "value": "pause",
+      "options": [
+        "一時停止する",
+        "再生する",
+        "早送りする",
+        "巻き戻す"
+      ],
+      "correctAnswer": "一時停止する",
+      "explanation": "「pause」は、一時的に停止するという意味です。ビデオや音楽などを一時停止する際によく使われます。"
+    },
+    {
+      "id": 11,
+      "value": "help out",
+      "options": [
+        "手伝う",
+        "邪魔する",
+        "見捨てる",
+        "無視する"
+      ],
+      "correctAnswer": "手伝う",
+      "explanation": "「help out」は、手伝う、協力するという意味です。困っている人を助ける際や、仕事を手伝う際に使われます。\n\n例：Can you help me out with this project? (このプロジェクトを手伝ってくれますか？)"
+    },
+    {
+      "id": 12,
+      "value": "left me no choice",
+      "options": [
+        "選択肢がなかった",
+        "自由に選べた",
+        "強制された",
+        "無視された"
+      ],
+      "correctAnswer": "選択肢がなかった",
+      "explanation": "「left me no choice」は、他に選択肢がなかった、やむを得なかったという意味です。状況によって、仕方なく何かをしなければならなかった場合に使われます。\n\n例：You left me no choice but to fire you. (君を解雇するしかなかった。)"
+    },
+    {
+      "id": 13,
+      "value": "the nerve of some people",
+      "options": [
+        "大胆不敵な人々",
+        "神経質な人々",
+        "無神経な人々",
+        "勇敢な人々"
+      ],
+      "correctAnswer": "無神経な人々",
+      "explanation": "「the nerve of some people」は、人の厚かましさや無神経さに対する不満や驚きを表す表現です。直訳すると「一部の人々の神経」となり、彼らの行動に対する強い非難のニュアンスを含みます。\n\n例：The nerve of some people to park in a handicapped spot without a permit! (許可なく障害者用スペースに駐車するなんて、なんて神経の持ち主だ！)"
+    },
+    {
+      "id": 14,
+      "value": "Embarrassment Express",
+      "options": [
+        "恥ずかしい急行列車",
+        "成功への道",
+        "希望の光",
+        "夢の実現"
+      ],
+      "correctAnswer": "恥ずかしい急行列車",
+      "explanation": "比喩的な表現で、恥ずかしい出来事が次々と起こる状況を列車に例えています。ここでは、Sheldonが自身の発見に対する世間の反応を自虐的に表現しています。"
+    },
+    {
+      "id": 15,
+      "value": "have a rough time",
+      "options": [
+        "苦労する",
+        "楽しむ",
+        "成功する",
+        "リラックスする"
+      ],
+      "correctAnswer": "苦労する",
+      "explanation": "「have a rough time」は、困難な時期を過ごす、苦労するという意味です。精神的、肉体的な苦痛を伴う状況を表します。\n\n例：I'm having a rough time at work. (仕事で苦労している。)"
+    },
+    {
+      "id": 16,
+      "value": "discotheque",
+      "options": [
+        "静かな場所",
+        "騒がしい場所",
+        "快適な場所",
+        "孤独な場所"
+      ],
+      "correctAnswer": "騒がしい場所",
+      "explanation": "「discotheque」は、ディスコ、ダンスホールという意味ですが、ここでは人が多すぎて落ち着かない状況を比喩的に表しています。Sheldonの皮肉が込められています。"
+    },
+    {
+      "id": 17,
+      "value": "moved on to",
+      "options": [
+        "～に移行した",
+        "～に固執した",
+        "～を無視した",
+        "～を避けた"
+      ],
+      "correctAnswer": "～に移行した",
+      "explanation": "「move on to」は、何かから別のものへ移行する、新しい段階に進むという意味です。過去の出来事や状況から脱却し、前進する際に使われます。\n\n例：After the project, she moved on to a new challenge. (プロジェクト後、彼女は新たな挑戦に移行した。)"
+    },
+    {
+      "id": 18,
+      "value": "stuck for",
+      "options": [
+        "困っている",
+        "満足している",
+        "準備ができている",
+        "得意としている"
+      ],
+      "correctAnswer": "困っている",
+      "explanation": "「stuck for」は、何か（アイデア、言葉など）が見つからなくて困っている状態を表します。特に会話や執筆などで、表現に詰まっている状況を指します。\n\n例：I'm stuck for words to express my gratitude. (感謝の気持ちを表す言葉が見つからない。)"
+    },
+    {
+      "id": 19,
+      "value": "jerk",
+      "options": [
+        "素晴らしい人",
+        "嫌な人",
+        "賢い人",
+        "優しい人"
+      ],
+      "correctAnswer": "嫌な人",
+      "explanation": "「jerk」は、嫌なやつ、感じの悪い人を意味する軽蔑的な言葉です。不快な行動や態度をとる人に対して使われます。"
+    },
+    {
+      "id": 20,
+      "value": "nonsense",
+      "options": [
+        "意味不明なこと",
+        "賢明なこと",
+        "重要なこと",
+        "真実"
+      ],
+      "correctAnswer": "意味不明なこと",
+      "explanation": "「nonsense」は、無意味なこと、ばかげたことという意味です。相手の言っていることが理解できない、または全く信じられない場合に用いられます。\n\n例：That's nonsense! (そんなの馬鹿げている！)"
+    },
+    {
+      "id": 21,
+      "value": "bullying",
+      "options": [
+        "いじめること",
+        "助けること",
+        "教えること",
+        "励ますこと"
+      ],
+      "correctAnswer": "いじめること",
+      "explanation": "「bullying」は、いじめ、嫌がらせという意味です。弱い者に対して、力や言葉で精神的、肉体的な苦痛を与える行為を指します。\n\n例：Bullying is a serious problem in schools. (いじめは学校における深刻な問題だ。)"
+    },
+    {
+      "id": 22,
+      "value": "misreading",
+      "options": [
+        "誤読",
+        "熟読",
+        "朗読",
+        "速読"
+      ],
+      "correctAnswer": "誤読",
+      "explanation": "「misreading」は、読み間違えること、誤解するという意味です。文字通りに読み間違える場合と、状況や意図を誤解する場合の両方に使われます。\n\n例：I think you're misreading the situation. (あなたは状況を誤解していると思います。)"
+    },
+    {
+      "id": 23,
+      "value": "shock jock",
+      "options": [
+        "人気ラジオDJ",
+        "辛口ラジオDJ",
+        "科学番組ホスト",
+        "音楽評論家"
+      ],
+      "correctAnswer": "辛口ラジオDJ",
+      "explanation": "「shock jock」は、物議を醸すような発言や行動で聴取者（または視聴者）を挑発し、注目を集めるラジオDJのことを指します。過激な発言やタブーに触れることで、人気を得ることを目的とします。"
+    },
+    {
+      "id": 24,
+      "value": "profile",
+      "options": [
+        "横顔",
+        "自己紹介",
+        "知名度",
+        "専門分野"
+      ],
+      "correctAnswer": "知名度",
+      "explanation": "ここでは「profile」は、人や組織の世間における認知度や評判を意味します。インタビューが大学の知名度を上げると述べています。"
+    },
+    {
+      "id": 25,
+      "value": "a hub",
+      "options": [
+        "中心地",
+        "郊外",
+        "僻地",
+        "通過点"
+      ],
+      "correctAnswer": "中心地",
+      "explanation": "「hub」は、中心となる場所、拠点という意味です。交通、経済、情報など、様々なものが集中する場所を指します。\n\n例：Tokyo is a major transportation hub. (東京は主要な交通拠点だ。)"
+    },
+    {
+      "id": 26,
+      "value": "get out of someone's shadow",
+      "options": [
+        "誰かの監視下から逃れる",
+        "誰かの影響から抜け出す",
+        "誰かを裏切る",
+        "誰かを励ます"
+      ],
+      "correctAnswer": "誰かの影響から抜け出す",
+      "explanation": "「get out of someone's shadow」は、誰かの影響力や業績が大きすぎて、自分の能力や個性が認められない状況から抜け出すという意味です。特に、尊敬する親や才能のある同僚など、比較対象となる人物がいる場合に用いられます。\n\n例：He finally got out of his father's shadow and made a name for himself. (彼はついに父親の影から抜け出し、自分の名前を売った。)"
+    },
+    {
+      "id": 27,
+      "value": "all aboard",
+      "options": [
+        "出発進行",
+        "全員集合",
+        "食事の時間",
+        "休憩時間"
+      ],
+      "correctAnswer": "出発進行",
+      "explanation": "「All aboard」は、主に列車や船などの乗客に対して、出発の準備ができたことを知らせる際に使われる表現です。「乗船（乗車）してください」という意味合いが含まれています。\n\n例：The conductor shouted, \"All aboard!\" before the train departed. (車掌は列車が出発する前に「出発進行！」と叫んだ。)"
+    },
+    {
+      "id": 28,
+      "value": "Why bother?",
+      "options": [
+        "なぜ気にするの？",
+        "どうして邪魔するの？",
+        "なぜ面倒なの？",
+        "なぜそうするの？"
+      ],
+      "correctAnswer": "なぜ面倒なの？",
+      "explanation": "「Why bother?」は、「なぜそんなことをする価値があるのか？」「意味がないのではないか？」というニュアンスを含む表現です。ある行動や努力が無駄である、または効果がないと感じられる時に使われます。\n\n例：Why bother studying for the test? I'm going to fail anyway. (テスト勉強なんてしても無駄だよ。どうせ落ちるんだから。)"
+    },
+    {
+      "id": 29,
+      "value": "the poor thing",
+      "options": [
+        "かわいそうなもの",
+        "貧しいもの",
+        "価値のないもの",
+        "愚かなもの"
+      ],
+      "correctAnswer": "かわいそうなもの",
+      "explanation": "「the poor thing」は、同情や憐れみの気持ちを表す際に使われる表現です。人や動物、状況など、様々な対象に対して使用できます。相手を優しく気遣うニュアンスが含まれています。\n\n例：The poor thing lost her job and now she doesn't know how to pay her rent. (かわいそうな彼女は仕事を失い、家賃の払い方が分からなくなっている。)"
+    },
+    {
+      "id": 30,
+      "value": "stuck in traffic",
+      "options": [
+        "交通違反",
+        "交通渋滞",
+        "交通事故",
+        "交通規制"
+      ],
+      "correctAnswer": "交通渋滞",
+      "explanation": "「stuck in traffic」は、交通渋滞に巻き込まれて動けなくなっている状態を表す表現です。文字通り「交通の中に閉じ込められている」という意味合いがあります。\n\n例：I was stuck in traffic for two hours and missed my flight. (2時間も渋滞に巻き込まれて、飛行機に乗り遅れた。)"
+    },
+    {
+      "id": 31,
+      "value": "That must hurt",
+      "options": [
+        "それは痛いに違いない",
+        "それは嬉しいに違いない",
+        "それは大変に違いない",
+        "それは難しいに違いない"
+      ],
+      "correctAnswer": "それは痛いに違いない",
+      "explanation": "「That must hurt」は、相手の身体的または精神的な苦痛や困難に対して、同情や共感を示す表現です。相手の気持ちを理解し、寄り添うニュアンスが含まれています。\n\n例：You lost your job? Oh, that must hurt. (仕事を失ったの？それは辛いね。)"
+    },
+    {
+      "id": 32,
+      "value": "enthusiastic participation",
+      "options": [
+        "熱心な参加",
+        "消極的な参加",
+        "強制的な参加",
+        "秘密の参加"
+      ],
+      "correctAnswer": "熱心な参加",
+      "explanation": "「enthusiastic participation」は、非常に意欲的で熱心な態度で物事に参加することを意味します。積極性や関心の高さが強調される表現です。\n\n例：We encourage enthusiastic participation from all members of the team. (チームメンバー全員からの熱心な参加を奨励します。)"
+    },
+    {
+      "id": 33,
+      "value": "for your information",
+      "options": [
+        "参考までに",
+        "秘密ですが",
+        "念のために",
+        "個人的に"
+      ],
+      "correctAnswer": "参考までに",
+      "explanation": "「For your information」は、相手に何か情報を伝える際に、前置きとして使われる表現です。「参考までに」「念のため」といったニュアンスで、相手に知っておいてほしい情報を伝える際に用いられます。\n\n例：For your information, the meeting has been postponed. (参考までに、会議は延期されました。)"
+    },
+    {
+      "id": 34,
+      "value": "in a good mood",
+      "options": [
+        "良い気分で",
+        "悪い気分で",
+        "普通の気分で",
+        "憂鬱な気分で"
+      ],
+      "correctAnswer": "良い気分で",
+      "explanation": "「in a good mood」は、気分が良い、機嫌が良い状態を表す表現です。幸福感や満足感、楽観的な気持ちなどが含まれます。\n\n例：She's always in a good mood in the morning after her coffee. (彼女はいつもコーヒーを飲んだ後の朝は機嫌が良い。)"
+    },
+    {
+      "id": 35,
+      "value": "re-running the tests",
+      "options": [
+        "テストを中断する",
+        "テストを再実行する",
+        "テストを無視する",
+        "テストを隠蔽する"
+      ],
+      "correctAnswer": "テストを再実行する",
+      "explanation": "「re-running the tests」は、以前に実施したテストを再び行うことを意味します。データの確認や検証、条件の変更など、さまざまな理由でテストを再度行う場合があります。\n\n例：We are re-running the tests to ensure the accuracy of the results. (結果の精度を確保するために、テストを再実行しています。)"
+    },
+    {
+      "id": 36,
+      "value": "it turns out",
+      "options": [
+        "結局",
+        "始まる",
+        "終わる",
+        "混乱する"
+      ],
+      "correctAnswer": "結局",
+      "explanation": "「it turns out」は、後になって判明した事実や、予想外の結果を伝える際に使われる表現です。「結局～だ」「～ということがわかった」といった意味合いを持ちます。\n\n例：It turns out that he was the one who stole the money. (結局、彼がお金を盗んだ犯人だったことがわかった。)"
+    },
+    {
+      "id": 37,
+      "value": "simulated signals",
+      "options": [
+        "実際の信号",
+        "偽の信号",
+        "弱い信号",
+        "強い信号"
+      ],
+      "correctAnswer": "偽の信号",
+      "explanation": "「simulated signals」は、実際には存在しない、または人工的に作り出された信号を指します。実験やテストなどで、現実の状況を模倣するために使用されることがあります。\n\n例：The researchers used simulated signals to test the performance of the new radar system. (研究者たちは、新しいレーダーシステムの性能をテストするために、シミュレートされた信号を使用した。)"
+    },
+    {
+      "id": 38,
+      "value": "claim to fame",
+      "options": [
+        "悪評",
+        "名声",
+        "秘密",
+        "財産"
+      ],
+      "correctAnswer": "名声",
+      "explanation": "「claim to fame」は、人が有名になる、または注目を集める主な理由や功績を指します。特に、その人が誇りに思っていることや、他人から評価されていることを表す場合に用いられます。\n\n例：His claim to fame is that he invented the internet. (彼が有名になったのは、インターネットを発明したことだ。)"
+    },
+    {
+      "id": 39,
+      "value": "unlikely friends",
+      "options": [
+        "ありえない友達",
+        "親友",
+        "幼馴染",
+        "ただの知り合い"
+      ],
+      "correctAnswer": "ありえない友達",
+      "explanation": "「unlikely friends」は、通常では友達関係になりにくい、または友達になることが予想されないような組み合わせの友達を指します。性格、背景、環境などが大きく異なる場合に使われます。\n\n例：A cat and a dog becoming unlikely friends is a common theme in children's stories. (猫と犬がありえない友達になることは、子供向けのお話によくあるテーマだ。)"
+    },
+    {
+      "id": 40,
+      "value": "what's with all the yelling?",
+      "options": [
+        "なぜそんなに怒っているの？",
+        "なぜそんなに騒いでいるの？",
+        "なぜそんなに喜んでいるの？",
+        "なぜそんなに悲しんでいるの？"
+      ],
+      "correctAnswer": "なぜそんなに騒いでいるの？",
+      "explanation": "「What's with all the yelling?」は、騒音や怒鳴り声が聞こえる状況で、その理由や原因を尋ねる際に使われる表現です。「一体どうしたの？」「何があったの？」といったニュアンスが含まれます。\n\n例：I heard yelling from next door. What's with all the yelling? (隣から怒鳴り声が聞こえた。一体どうしたの？)"
+    },
+    {
+      "id": 41,
+      "value": "blow the whistle",
+      "options": [
+        "秘密を暴露する",
+        "口笛を吹く",
+        "試合を開始する",
+        "緊急事態を知らせる"
+      ],
+      "correctAnswer": "口笛を吹く",
+      "explanation": "「blow the whistle」は、ここでは文字通りに「笛を吹く」の意味ですが、比喩的には不正行為や違法行為を告発するという意味もあります。内部告発者を指す場合もあります。\n\n例：He blew the whistle on the company's illegal activities. (彼は会社の違法行為を告発した。)"
+    },
+    {
+      "id": 42,
+      "value": "way of thanking you",
+      "options": [
+        "感謝の方法",
+        "嫌がらせの方法",
+        "無視する方法",
+        "祝福の方法"
+      ],
+      "correctAnswer": "感謝の方法",
+      "explanation": "「way of thanking you」は、感謝の気持ちを表す手段や方法を意味します。贈り物、手伝い、言葉など、感謝の気持ちを伝える様々な行動が含まれます。\n\n例：Let me cook dinner for you. It's my way of thanking you for your help. (夕食を作らせてください。それはあなたの助けへの感謝の気持ちです。)"
+    },
+    {
+      "id": 43,
+      "value": "put that traffic app on your phone",
+      "options": [
+        "交通アプリを削除する",
+        "交通アプリをインストールする",
+        "電話をかける",
+        "メールを送る"
+      ],
+      "correctAnswer": "交通アプリをインストールする",
+      "explanation": "「put that traffic app on your phone」は、交通状況を確認できるアプリケーションをスマートフォンにインストールすることを勧める表現です。渋滞を避けるための提案として使われます。\n\n例：You should put that traffic app on your phone to avoid getting stuck in traffic. (渋滞に巻き込まれないように、交通アプリをスマホにインストールするべきだ。)"
+    },
+    {
+      "id": 44,
+      "value": "rubbed your belly",
+      "options": [
+        "お腹を殴った",
+        "お腹をさすった",
+        "お腹を蹴った",
+        "お腹を冷やした"
+      ],
+      "correctAnswer": "お腹をさすった",
+      "explanation": "「rubbed your belly」は、相手のお腹を優しくさする行為を指します。特に、お腹の不調や痛みを和らげるために行われることが多いです。愛情や気遣いの表現としても用いられます。\n\n例：She rubbed my belly to help me feel better after I ate too much. (食べ過ぎた後、彼女は私のお腹をさすって気分を良くしてくれた。)"
+    },
+    {
+      "id": 45,
+      "value": "back down to nine friends",
+      "options": [
+        "友達が9人に増えた",
+        "友達が9人に減った",
+        "友達と9日間旅行に行った",
+        "友達と9回食事に行った"
+      ],
+      "correctAnswer": "友達が9人に減った",
+      "explanation": "「back down to nine friends」は、友達の数が以前よりも減って9人になったことを意味します。人間関係の変化や疎遠になった状況を表す際に使われます。\n\n例：After the argument, he was back down to nine friends. (その口論の後、彼の友達は9人に減った。)"
+    },
+    {
+      "id": 46,
+      "value": "sick of Wolowitz",
+      "options": [
+        "ウォロウィッツが恋しい",
+        "ウォロウィッツにうんざり",
+        "ウォロウィッツを尊敬している",
+        "ウォロウィッツを祝福している"
+      ],
+      "correctAnswer": "ウォロウィッツにうんざり",
+      "explanation": "「sick of Wolowitz」は、ウォロウィッツという人物に飽き飽きしている、またはうんざりしているという感情を表します。彼の行動や性格に対する不満が含まれることがあります。\n\n例：I'm sick of Wolowitz always talking about himself. (いつも自分の話ばかりするウォロウィッツにはうんざりだ。)"
+    },
+    {
+      "id": 47,
+      "value": "there is no winning with you",
+      "options": [
+        "あなたとは勝負にならない",
+        "あなたを喜ばせることは不可能だ",
+        "あなたとなら勝てる",
+        "あなたと協力すれば成功する"
+      ],
+      "correctAnswer": "あなたを喜ばせることは不可能だ",
+      "explanation": "「there is no winning with you」は、相手を喜ばせたり、満足させたりすることが非常に難しい、または不可能であることを意味する表現です。相手の要求や期待に応えることができない状況で使われます。\n\n例：I try to help, but there is no winning with you. (助けようとするけど、君を喜ばせることは不可能だ。)"
+    },
+    {
+      "id": 48,
+      "value": "live near each other",
+      "options": [
+        "お互いに尊敬しあう",
+        "お互いに近くに住む",
+        "お互いに協力しあう",
+        "お互いに助け合う"
+      ],
+      "correctAnswer": "お互いに近くに住む",
+      "explanation": "「live near each other」は、お互いに近い場所に住んでいる状態を指します。地理的な近さを表す表現で、親近感や交流の機会の多さを示唆することがあります。\n\n例：They are lucky that they live near each other. (彼らは互いに近くに住んでいるので幸運だ。)"
+    },
+    {
+      "id": 49,
+      "value": "must be thrilled",
+      "options": [
+        "がっかりしているに違いない",
+        "興奮しているに違いない",
+        "怒っているに違いない",
+        "悲しんでいるに違いない"
+      ],
+      "correctAnswer": "興奮しているに違いない",
+      "explanation": "「must be thrilled」は、相手が非常に喜んでいる、または興奮しているに違いないという推測を表す表現です。良い知らせや喜ばしい出来事があった際に使われます。\n\n例：You won the lottery? You must be thrilled! (宝くじに当たったの？それはすごいね！)"
+    },
+    {
+      "id": 50,
+      "value": "counting hobbits and superheroes",
+      "options": [
+        "ホビットとスーパーヒーローを数える",
+        "現実の友達を数える",
+        "動物の数を数える",
+        "お金の数を数える"
+      ],
+      "correctAnswer": "ホビットとスーパーヒーローを数える",
+      "explanation": "「counting hobbits and superheroes」は、空想上の存在を友達として数えていることを意味します。現実の友達が少ない状況を冗談めかして表現する際に使われます。\n\n例：He's lonely, so he's counting hobbits and superheroes as his friends. (彼は寂しいので、ホビットやスーパーヒーローを友達として数えている。)"
+    },
+    {
+      "id": 51,
+      "value": "gang up on",
+      "options": [
+        "仲間になる",
+        "立ち去る",
+        "集中攻撃する",
+        "手伝う"
+      ],
+      "correctAnswer": "集中攻撃する",
+      "explanation": "「gang up on」は、集団で誰かを攻撃する、非難する、または不利な状況に追い込むという意味です。物理的な攻撃だけでなく、言葉や行動による精神的な攻撃にも使われます。\n例：The other kids ganged up on him in the playground. (他の子供たちは遊び場で彼をいじめた。)"
+    },
+    {
+      "id": 52,
+      "value": "a matter of time",
+      "options": [
+        "時間の問題",
+        "機密事項",
+        "簡単なこと",
+        "緊急の課題"
+      ],
+      "correctAnswer": "時間の問題",
+      "explanation": "「a matter of time」は、何かが起こるのが時間の問題である、つまり、必ず起こるだろうという意味を表します。不確実性はあるものの、最終的な結果は避けられないというニュアンスを含みます。\n例：It's only a matter of time before they find out the truth. (彼らが真実を知るのも時間の問題だ。)"
+    },
+    {
+      "id": 53,
+      "value": "doing otherwise",
+      "options": [
+        "他にするべきこと",
+        "別の方法でする",
+        "何もしないこと",
+        "以前の行動"
+      ],
+      "correctAnswer": "別の方法でする",
+      "explanation": "「doing otherwise」は、示されたこととは異なる行動をすることを指します。前の文脈で述べられた行動や状況とは違うことをする場合に使われます。\n例：He was told to stay, but doing otherwise, he left. (彼は留まるように言われたが、そうせずに去った。)"
+    },
+    {
+      "id": 54,
+      "value": "knock it out of the park",
+      "options": [
+        "大成功を収める",
+        "競技場から追い出す",
+        "失敗する",
+        "休憩する"
+      ],
+      "correctAnswer": "大成功を収める",
+      "explanation": "「knock it out of the park」は、特にプレゼンテーション、パフォーマンス、または仕事において、非常に成功することを意味する口語的な表現です。野球でホームランを打つイメージから来ています。\n例：I'm sure you'll knock it out of the park with your presentation. (君のプレゼンテーションは大成功するだろう。)"
+    },
+    {
+      "id": 55,
+      "value": "show someone up",
+      "options": [
+        "誰かを見つける",
+        "誰かを負かす",
+        "誰かを尊敬する",
+        "誰かに同意する"
+      ],
+      "correctAnswer": "誰かを負かす",
+      "explanation": "「show someone up」は、他の人の前で、誰かをより劣って見せる、または恥をかかせるという意味です。意図的である場合も、そうでない場合もあります。\n例：He didn't mean to show her up, but his superior knowledge made her look foolish. (彼は彼女を負かすつもりはなかったが、彼の優れた知識が彼女を愚かに見させた。)"
+    },
+    {
+      "id": 56,
+      "value": "listening skills",
+      "options": [
+        "音楽の才能",
+        "聴解力",
+        "会話術",
+        "語学力"
+      ],
+      "correctAnswer": "聴解力",
+      "explanation": "「listening skills」は、相手の話を注意深く聞き、理解する能力を指します。効果的なコミュニケーションにおいて非常に重要なスキルです。\n例：Improving your listening skills can help you build stronger relationships. (聴解力を向上させることは、より強い人間関係を築くのに役立ちます。)"
+    },
+    {
+      "id": 57,
+      "value": "could use some work",
+      "options": [
+        "仕事を探せる",
+        "改善の余地がある",
+        "仕事が減る",
+        "仕事を見つけられない"
+      ],
+      "correctAnswer": "改善の余地がある",
+      "explanation": "「could use some work」は、何かが改善の余地がある、つまり、もっと良くすることができるという意味を表します。直接的な批判を避けるために使われることがあります。\n例：My cooking skills could use some work. (私の料理の腕はもっと上達する必要がある。)"
+    },
+    {
+      "id": 58,
+      "value": "over-protective",
+      "options": [
+        "保護しすぎ",
+        "過小評価",
+        "保護政策",
+        "自己防衛"
+      ],
+      "correctAnswer": "保護しすぎ",
+      "explanation": "「over-protective」は、過剰に保護する、特に子供に対して過度に心配し、危険から守ろうとするという意味です。\n例：His mother was very over-protective of him. (彼の母親は彼をとても過保護にしていた。)"
+    },
+    {
+      "id": 59,
+      "value": "hang on",
+      "options": [
+        "電話を切る",
+        "頑張る",
+        "待つ",
+        "捕まる"
+      ],
+      "correctAnswer": "待つ",
+      "explanation": "「hang on」は、少し待つようにという意味で使われる一般的な表現です。電話を切らないで待つ場合や、一時的に停止する場合など、様々な状況で使われます。\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+    },
+    {
+      "id": 60,
+      "value": "retraction",
+      "options": [
+        "牽引",
+        "撤回",
+        "反射",
+        "収縮"
+      ],
+      "correctAnswer": "撤回",
+      "explanation": "「retraction」は、以前に発表した声明や記事などを公式に取り下げること、またはその取り下げを意味します。科学論文や報道記事など、誤りや不正確さがあった場合に用いられます。\n例：The journal issued a retraction of the article. (その雑誌は記事の撤回を発表した。)"
+    },
+    {
+      "id": 61,
+      "value": "conceded",
+      "options": [
+        "隠蔽した",
+        "譲歩した",
+        "非難した",
+        "凝縮した"
+      ],
+      "correctAnswer": "譲歩した",
+      "explanation": "「concede」は、議論や競争において、相手の主張や勝利を認める、または受け入れるという意味です。必ずしも同意するわけではなく、事実を認めるというニュアンスが含まれます。\n例：He conceded that he had lost the argument. (彼は議論に負けたことを認めた。)"
+    },
+    {
+      "id": 62,
+      "value": "ploy",
+      "options": [
+        "正直",
+        "策略",
+        "偶然",
+        "正直さ"
+      ],
+      "correctAnswer": "策略",
+      "explanation": "「ploy」は、人を欺いたり、何かを達成するために使われる策略や計略を意味します。しばしば隠された目的や意図が含まれています。\n例：It was just a ploy to get her to come to the party. (それは彼女をパーティーに誘うための策略にすぎなかった。)"
+    },
+    {
+      "id": 63,
+      "value": "speech impediment",
+      "options": [
+        "演説の才能",
+        "発語障害",
+        "言語学習",
+        "スピーチライター"
+      ],
+      "correctAnswer": "発語障害",
+      "explanation": "「speech impediment」は、発音や流暢さにおける障害を指します。吃音や構音障害などが含まれます。\n例：He has a speech impediment that makes it difficult for him to pronounce certain words. (彼は特定の発音をすることが難しい発語障害を持っている。)"
+    },
+    {
+      "id": 64,
+      "value": "uncalled for",
+      "options": [
+        "要求された",
+        "不必要",
+        "電話された",
+        "予測された"
+      ],
+      "correctAnswer": "不必要",
+      "explanation": "「uncalled for」は、不必要で、不適切、または無礼な言動を指します。状況や文脈において、すべきでない、言うべきでないことを意味します。\n例：Your comment was completely uncalled for. (あなたのコメントは全く不必要だった。)"
+    },
+    {
+      "id": 65,
+      "value": "fattening up",
+      "options": [
+        "太らせる",
+        "痩せさせる",
+        "運動する",
+        "健康診断"
+      ],
+      "correctAnswer": "太らせる",
+      "explanation": "「fattening up」は、人や動物を太らせることを意味します。しばしば愛情や親しみを込めて使われますが、文脈によっては不快感を与えることもあります。\n例：She was fattening up the stray cats in her neighborhood. (彼女は近所の野良猫たちを太らせていた。)"
+    },
+    {
+      "id": 66,
+      "value": "thoughtful",
+      "options": [
+        "無思慮",
+        "思慮深い",
+        "無頓着",
+        "忘れっぽい"
+      ],
+      "correctAnswer": "思慮深い",
+      "explanation": "「thoughtful」は、他人への配慮や思いやりがあることを意味します。行動や言葉が、他人の感情やニーズを考慮していることを示します。\n例：It was very thoughtful of you to bring me flowers. (花を持ってきてくれてとても気が利くね。)"
+    },
+    {
+      "id": 67,
+      "value": "dare",
+      "options": [
+        "勇敢",
+        "挑戦",
+        "あえてする",
+        "注意"
+      ],
+      "correctAnswer": "あえてする",
+      "explanation": "「dare」は、勇気を出して何かをすることを意味します。否定的な文脈では、相手の行動に対する不快感や怒りを表すことがあります。\n例：Don't you dare speak to me like that! (二度と私にそんな口の利き方をするな！)"
+    },
+    {
+      "id": 68,
+      "value": "out of one's mind",
+      "options": [
+        "正気",
+        "夢中",
+        "気が狂う",
+        "無関心"
+      ],
+      "correctAnswer": "気が狂う",
+      "explanation": "「out of one's mind」は、正気でない、気が狂っている、または非常に興奮している状態を指します。しばしば強い感情や異常な行動を伴います。\n例：You must be out of your mind to do something so dangerous. (そんな危険なことをするなんて気が狂っているに違いない。)"
+    },
+    {
+      "id": 69,
+      "value": "back up to",
+      "options": [
+        "支持する",
+        "後退する",
+        "元の状態に戻る",
+        "バックアップする"
+      ],
+      "correctAnswer": "元の状態に戻る",
+      "explanation": "「back up to」は、以前の状態やレベルに戻ることを意味します。数値や量に関して使用されることが多いです。\n例：My computer is backing up to the cloud. (私のコンピューターはクラウドにバックアップしています。)\nMy score went back up to what it used to be.(私のスコアは以前の状態に戻りました。)"
+    },
+    {
+      "id": 70,
+      "value": "be into",
+      "options": [
+        "興味がある",
+        "外出する",
+        "内緒にする",
+        "反対する"
+      ],
+      "correctAnswer": "興味がある",
+      "explanation": "「be into」は、何かに興味がある、熱中している、または好きであることを意味します。趣味や活動、人物など、様々な対象に対して使用できます。\n例：She's really into yoga these days. (彼女は最近ヨガに夢中だ。)"
+    },
+    {
+      "id": 71,
+      "value": "take something away",
+      "options": [
+        "何かを奪う",
+        "何かを与える",
+        "何かを隠す",
+        "何かを共有する"
+      ],
+      "correctAnswer": "何かを奪う",
+      "explanation": "「take something away」は、物理的に何かを取り去るだけでなく、感情的な影響や抽象的な概念を失わせるという意味も持ちます。\n例：The bad news took all the joy away from the day. (その悪い知らせは、その日のすべての喜びを奪った。)"
+    },
+    {
+      "id": 72,
+      "value": "my pleasure",
+      "options": [
+        "私の喜び",
+        "私の悲しみ",
+        "私の仕事",
+        "私の秘密"
+      ],
+      "correctAnswer": "私の喜び",
+      "explanation": "「my pleasure」は、相手への感謝や依頼に対する返答として、「どういたしまして」や「喜んで」という意味で使用されます。丁寧で友好的なニュアンスが含まれます。\n例：'Thank you for your help.' 'My pleasure.' ('助けてくれてありがとう。' 'どういたしまして。')"
+    },
+    {
+      "id": 73,
+      "value": "nice job",
+      "options": [
+        "良い仕事",
+        "悪い仕事",
+        "仕事がない",
+        "仕事を探す"
+      ],
+      "correctAnswer": "良い仕事",
+      "explanation": "「nice job」は、相手の仕事や成果を褒める際に使用される表現で、「よくやった」「素晴らしい仕事だ」という意味を持ちます。親しみやすいニュアンスが含まれます。\n例：'I finished the project.' 'Nice job!' ('プロジェクトが終わったよ。' 'よくやった！')"
+    },
+    {
+      "id": 74,
+      "value": "have to",
+      "options": [
+        "持っている",
+        "必要がない",
+        "しなければならない",
+        "したい"
+      ],
+      "correctAnswer": "しなければならない",
+      "explanation": "「have to」は、「～しなければならない」という意味で、義務や必要性を表す際に使用されます。話し手の主観的な判断だけでなく、外部からの要因による必要性も含まれます。\n例：I have to go to work tomorrow. (明日、仕事に行かなければならない。)"
+    },
+    {
+      "id": 75,
+      "value": "little",
+      "options": [
+        "たくさん",
+        "大きい",
+        "少し",
+        "同じ"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「little」は、「少し」という意味で、量や程度が少ないことを表す際に使用されます。可算名詞、不可算名詞どちらにも使用できます。\n例：I need a little help. (少し手伝ってほしい。)"
+    },
+    {
+      "id": 76,
+      "value": "go get 'em",
+      "options": [
+        "成功を収める",
+        "捕まえに行く",
+        "手に入れる",
+        "探しに行く"
+      ],
+      "correctAnswer": "成功を収める",
+      "explanation": "「Go get 'em」は、人に頑張って成功するように励ます時に使われる表現です。直訳すると「彼らを捕まえに行け」ですが、比喩的に「成功を掴みに行け」「頑張ってこい」という意味合いになります。スポーツの試合前や、プレゼンテーションの前などによく使われます。"
+    },
+    {
+      "id": 77,
+      "value": "lousy",
+      "options": [
+        "最高の",
+        "普通の",
+        "ひどい",
+        "可もなく不可もない"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「lousy」は「ひどい」「不快な」「下手な」という意味を持つ形容詞です。品質や状態が非常に悪いことを表す際に使われます。フォーマルな場ではあまり使われず、口語的な表現です。例：I had a lousy day at work.（今日は仕事でひどい一日だった。）"
+    },
+    {
+      "id": 78,
+      "value": "half-assing",
+      "options": [
+        "一生懸命やる",
+        "適当にやる",
+        "完璧にやる",
+        "協力してやる"
+      ],
+      "correctAnswer": "適当にやる",
+      "explanation": "「half-assing」は「いい加減にやる」「中途半端にやる」という意味のスラング表現です。努力を惜しみ、手を抜いて物事を済ませる様子を表します。結婚生活や仕事など、様々な状況で使われます。例：He's just half-assing his job. (彼は仕事をいい加減にやっている。)"
+    },
+    {
+      "id": 79,
+      "value": "on the same page",
+      "options": [
+        "同じ本を読んでいる",
+        "意見が一致している",
+        "同じ場所にいる",
+        "同じ目標を持っている"
+      ],
+      "correctAnswer": "意見が一致している",
+      "explanation": "「on the same page」は「意見が一致している」「共通認識を持っている」という意味のイディオムです。複数人が同じ理解を持ち、協力して物事を進めることができる状態を表します。ビジネスシーンでもよく使われます。例：We need to get everyone on the same page before we start the project. (プロジェクトを始める前に、全員の意見を一致させる必要がある。)"
+    },
+    {
+      "id": 80,
+      "value": "backing me up",
+      "options": [
+        "私を裏切る",
+        "私を支援する",
+        "私を無視する",
+        "私を妨害する"
+      ],
+      "correctAnswer": "私を支援する",
+      "explanation": "「back someone up」は「～を支援する」「～を支持する」という意味の句動詞です。困難な状況にある人や、意見を表明している人をサポートする際に使われます。例：My friends backed me up when I was being bullied. (いじめられていたとき、友達が私を支援してくれた。)"
+    },
+    {
+      "id": 81,
+      "value": "for once",
+      "options": [
+        "今回だけ",
+        "いつも",
+        "二度とない",
+        "たまには"
+      ],
+      "correctAnswer": "たまには",
+      "explanation": "「for once」は「一度くらいは」「たまには」という意味の副詞句です。普段とは違う状況や、珍しい出来事を強調する際に使われます。期待外れな状況で、その状況が改善されることを願うニュアンスが含まれることもあります。例：For once, I'd like to be the one who's right.（たまには、私が正しい人になりたい。）"
+    },
+    {
+      "id": 82,
+      "value": "kicked you out",
+      "options": [
+        "あなたを招待した",
+        "あなたを追い出した",
+        "あなたを助けた",
+        "あなたを無視した"
+      ],
+      "correctAnswer": "あなたを追い出した",
+      "explanation": "「kick someone out」は「～を追い出す」「～を解雇する」という意味の句動詞です。文字通りに場所から追い出す場合もあれば、組織やグループから排除する場合にも使われます。例：He was kicked out of the team for bad behavior. (彼は悪質な行為のためにチームから追い出された。)"
+    },
+    {
+      "id": 83,
+      "value": "PETA",
+      "options": [
+        "動物愛護団体",
+        "政府機関",
+        "企業",
+        "病院"
+      ],
+      "correctAnswer": "動物愛護団体",
+      "explanation": "PETAは「People for the Ethical Treatment of Animals（動物の倫理的扱いを求める人々）」の略称で、世界最大の動物愛護団体の一つです。動物の権利を擁護し、動物虐待の防止を訴える活動を行っています。"
+    },
+    {
+      "id": 84,
+      "value": "Jurassic Park",
+      "options": [
+        "安全な場所",
+        "楽しい場所",
+        "危険な場所",
+        "静かな場所"
+      ],
+      "correctAnswer": "危険な場所",
+      "explanation": "ジュラシックパークは、恐竜が現代に蘇ったテーマパークを舞台にした映画のタイトルです。安全であるはずのパーク内で恐竜が暴れ出し、人々が危険にさらされるというストーリーから、「制御不能な危険な状況」の比喩として使われることがあります。"
+    },
+    {
+      "id": 85,
+      "value": "give and take",
+      "options": [
+        "与える一方",
+        "奪う一方",
+        "駆け引き",
+        "持ちつ持たれつ"
+      ],
+      "correctAnswer": "持ちつ持たれつ",
+      "explanation": "「give and take」は「持ちつ持たれつ」「譲り合い」という意味のイディオムです。人間関係において、お互いが協力し、譲歩し合うことで良好な関係を築くことを指します。特に、ビジネスや恋愛関係において重要な考え方とされています。例：A good relationship requires give and take. (良い関係には持ちつ持たれつが必要だ。)"
+    },
+    {
+      "id": 86,
+      "value": "on your terms",
+      "options": [
+        "あなたの都合で",
+        "相手の都合で",
+        "契約条件で",
+        "通常の状態"
+      ],
+      "correctAnswer": "あなたの都合で",
+      "explanation": "「on your terms」は「あなたの条件で」「あなたの都合で」という意味の表現です。自分の希望や条件を優先して物事を進めることを指します。例：I'll do it on my terms. (私の条件でやるよ。)"
+    },
+    {
+      "id": 87,
+      "value": "walk us through",
+      "options": [
+        "私たちを無視する",
+        "私たちを案内する",
+        "私たちを混乱させる",
+        "私たちを騙す"
+      ],
+      "correctAnswer": "私たちを案内する",
+      "explanation": "「walk someone through」は「～に順を追って説明する」「～に手ほどきする」という意味の句動詞です。複雑なプロセスや手順を分かりやすく説明する際に使われます。例：Can you walk me through the application process? (申込手順を説明していただけますか？)"
+    },
+    {
+      "id": 88,
+      "value": "disprove",
+      "options": [
+        "証明する",
+        "反証する",
+        "提案する",
+        "無視する"
+      ],
+      "correctAnswer": "反証する",
+      "explanation": "「disprove」は「～を反証する」「～の誤りを証明する」という意味の動詞です。ある理論や主張が誤っていることを証拠に基づいて示すことを指します。例：Scientists have disproven the theory. (科学者たちはその理論を反証した。)"
+    },
+    {
+      "id": 89,
+      "value": "snooze",
+      "options": [
+        "目覚まし",
+        "退屈なもの",
+        "眠り",
+        "活発なもの"
+      ],
+      "correctAnswer": "退屈なもの",
+      "explanation": "「snooze」は名詞として「うたた寝」「仮眠」という意味ですが、この文脈では比喩的に「退屈なもの」「つまらないこと」という意味で使われています。特にアメリカ英語のスラングとして使われることがあります。例：The movie was a complete snooze. (その映画は全くつまらなかった。)"
+    },
+    {
+      "id": 90,
+      "value": "public radio",
+      "options": [
+        "民放",
+        "公共放送",
+        "海賊ラジオ",
+        "短波ラジオ"
+      ],
+      "correctAnswer": "公共放送",
+      "explanation": "「public radio」は「公共ラジオ放送」のことです。広告収入に頼らず、寄付金や政府からの補助金によって運営されるラジオ局を指します。教育番組やニュース、文化番組などを放送することが多いです。アメリカのNPR（National Public Radio）などが有名です。"
+    },
+    {
+      "id": 91,
+      "value": "one hell of",
+      "options": [
+        "地獄のような",
+        "並外れた",
+        "天国のような",
+        "普通の"
+      ],
+      "correctAnswer": "並外れた",
+      "explanation": "「one hell of a」は「ものすごい」「並外れた」「とんでもない」という意味の口語表現です。良い意味でも悪い意味でも、程度が非常に高いことを強調する際に使われます。例：That was one hell of a party! (あれはとんでもないパーティーだった！)"
+    },
+    {
+      "id": 92,
+      "value": "embarrassing",
+      "options": [
+        "楽しい",
+        "誇らしい",
+        "恥ずかしい",
+        "感動的な"
+      ],
+      "correctAnswer": "恥ずかしい",
+      "explanation": "「embarrassing」は「恥ずかしい」「きまりが悪い」という意味の形容詞です。人前で恥をかいたり、不快な思いをしたりする状況を表します。例：It was so embarrassing when I fell in front of everyone. (みんなの前で転んだときは本当に恥ずかしかった。)"
+    },
+    {
+      "id": 93,
+      "value": "emotional support",
+      "options": [
+        "経済的支援",
+        "精神的支援",
+        "物理的支援",
+        "法的支援"
+      ],
+      "correctAnswer": "精神的支援",
+      "explanation": "「emotional support」は「精神的支援」「心の支え」という意味です。困難な状況にある人に対して、励ましたり、共感したり、安心させたりすることで、精神的な負担を軽減することを指します。家族や友人、パートナーなどから得られることが多いです。"
+    },
+    {
+      "id": 94,
+      "value": "take a step back",
+      "options": [
+        "一歩前進する",
+        "後退する",
+        "休憩する",
+        "立ち止まる"
+      ],
+      "correctAnswer": "休憩する",
+      "explanation": "「take a step back」は「一歩引く」「距離を置く」「冷静になる」という意味のイディオムです。感情的になっている時や、状況が複雑になっている時に、一旦落ち着いて状況を客観的に見つめ直すことを促す際に使われます。例：Let's take a step back and think about this rationally. (一歩引いて、この件について理性的に考えましょう。)"
+    },
+    {
+      "id": 95,
+      "value": "upset with me",
+      "options": [
+        "私に満足している",
+        "私に怒っている",
+        "私を心配している",
+        "私を尊敬している"
+      ],
+      "correctAnswer": "私に怒っている",
+      "explanation": "「upset with someone」は「～に腹を立てている」「～に不満を持っている」という意味の表現です。誰かの言動や行動に対して不快感や怒りを覚えている状態を表します。例：She was upset with him for being late. (彼女は彼が遅刻したことに腹を立てていた。)"
+    },
+    {
+      "id": 96,
+      "value": "all the time",
+      "options": [
+        "たまに",
+        "いつも",
+        "一度もない",
+        "ほとんどない"
+      ],
+      "correctAnswer": "いつも",
+      "explanation": "「all the time」は「いつも」「常に」という意味の副詞句です。頻繁に、または継続的に起こることを表します。例：He's late all the time. (彼はいつも遅刻する。)"
+    },
+    {
+      "id": 97,
+      "value": "crate",
+      "options": [
+        "おもちゃ",
+        "毛布",
+        "おり",
+        "えさ"
+      ],
+      "correctAnswer": "おり",
+      "explanation": "「crate」は「（動物などを入れる）おり」「木箱」という意味の名詞です。ペットを運んだり、保護したりするために使われることが多いです。犬や猫用のクレートは、移動時や旅行時に安全を確保するために利用されます。"
+    },
+    {
+      "id": 98,
+      "value": "on your terms",
+      "options": [
+        "あなたの都合で",
+        "相手の都合で",
+        "契約条件で",
+        "通常の状態"
+      ],
+      "correctAnswer": "あなたの都合で",
+      "explanation": "「on your terms」は「あなたの条件で」「あなたの都合で」という意味の表現です。自分の希望や条件を優先して物事を進めることを指します。例：I'll do it on my terms. (私の条件でやるよ。)"
+    },
+    {
+      "id": 99,
+      "value": "walk us through",
+      "options": [
+        "私たちを無視する",
+        "私たちを案内する",
+        "私たちを混乱させる",
+        "私たちを騙す"
+      ],
+      "correctAnswer": "私たちを案内する",
+      "explanation": "「walk someone through」は「～に順を追って説明する」「～に手ほどきする」という意味の句動詞です。複雑なプロセスや手順を分かりやすく説明する際に使われます。例：Can you walk me through the application process? (申込手順を説明していただけますか？)"
+    },
+    {
+      "id": 100,
+      "value": "confrontation",
+      "options": [
+        "協力",
+        "対立",
+        "友情",
+        "愛情"
+      ],
+      "correctAnswer": "対立",
+      "explanation": "「confrontation」は「対立」「対決」「衝突」という意味の名詞です。意見や利害が対立し、争いが生じる状況を表します。暴力的な衝突だけでなく、言葉による議論や意見の衝突も含まれます。例：He tried to avoid confrontation. (彼は対立を避けようとした。)"
+    }
+  ]
+}

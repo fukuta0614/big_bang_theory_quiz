@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "mean",
+      "options": [
+        "意地悪な",
+        "平均",
+        "親切な",
+        "普通"
+      ],
+      "correctAnswer": "意地悪な",
+      "explanation": "ここでは、SheldonがAmyに「神経生物学の会議にいてほしいなんてひどいことを言うな」と言っているように、 'mean'は「意地悪な」という意味で使われています。相手を不快にさせるような発言や行動を指す際に用いられます。"
+    },
+    {
+      "id": 2,
+      "value": "get their Sheld-on",
+      "options": [
+        "シェルダンを手に入れる",
+        "シェルダンと遊ぶ",
+        "シェルダンを理解する",
+        "シェルダンを無視する"
+      ],
+      "correctAnswer": "シェルダンと遊ぶ",
+      "explanation": "これはSheldon特有の言い回しで、彼と時間を過ごして楽しむ（あるいは彼の奇行に付き合う）ことを意味します。子供っぽく、少し自惚れたユーモアを含んでいます。"
+    },
+    {
+      "id": 3,
+      "value": "rogue planets",
+      "options": [
+        "友好的な惑星",
+        "盗まれた惑星",
+        "異常な惑星",
+        "未知の惑星"
+      ],
+      "correctAnswer": "異常な惑星",
+      "explanation": "'rogue planets'は、特定の星を周回せず、銀河を自由に動き回る惑星のことを指します。天文学の分野で使用される専門用語です。"
+    },
+    {
+      "id": 4,
+      "value": "the one to beat",
+      "options": [
+        "打ち負かすべき相手",
+        "最高の選択肢",
+        "避けるべき相手",
+        "無視すべきこと"
+      ],
+      "correctAnswer": "最高の選択肢",
+      "explanation": "ここでは、Rajが提案した「望遠鏡室でデータを眺める」という過ごし方が、Sheldonにとって最も魅力的な選択肢であることを示しています。競争や選択の中で「一番良い」という意味合いで使用されます。"
+    },
+    {
+      "id": 5,
+      "value": "get my Sheld-off",
+      "options": [
+        "シェルダンから離れる",
+        "シェルダンを手に入れる",
+        "シェルダンになる",
+        "シェルダンを助ける"
+      ],
+      "correctAnswer": "シェルダンから離れる",
+      "explanation": "これは 'get their Sheld-on' の反対で、Sheldonとの時間を避けたい、距離を置きたいという気持ちを表すユーモラスな表現です。"
+    },
+    {
+      "id": 6,
+      "value": "stop selling it",
+      "options": [
+        "売るのをやめて",
+        "宣伝しないで",
+        "買うのをやめて",
+        "話を聞いて"
+      ],
+      "correctAnswer": "宣伝しないで",
+      "explanation": "Rajが自分の計画の魅力を語りすぎているのに対し、Sheldonが「もう十分だ、それ以上アピールしないで」と冗談めかして言っています。ここでは、相手の提案やアイデアをそれ以上強調する必要がないときに使われます。"
+    },
+    {
+      "id": 7,
+      "value": "contagious",
+      "options": [
+        "伝染性の",
+        "危険な",
+        "健康な",
+        "疲れた"
+      ],
+      "correctAnswer": "伝染性の",
+      "explanation": "病気が人から人へ感染しやすい性質を指します。感染症の文脈でよく用いられる単語です。"
+    },
+    {
+      "id": 8,
+      "value": "sales rep",
+      "options": [
+        "セールス代表",
+        "営業担当者",
+        "販売員",
+        "顧客"
+      ],
+      "correctAnswer": "営業担当者",
+      "explanation": "'sales representative' の略で、企業の商品やサービスを販売する役割の人のことです。顧客との関係を築き、販売目標を達成することが求められます。"
+    },
+    {
+      "id": 9,
+      "value": "lay some groundwork",
+      "options": [
+        "基礎を作る",
+        "邪魔をする",
+        "休憩する",
+        "計画を立てる"
+      ],
+      "correctAnswer": "基礎を作る",
+      "explanation": "将来の活動や交渉のために、事前の準備や下準備をすることを意味します。後の成功のために土台を築くというニュアンスがあります。"
+    },
+    {
+      "id": 10,
+      "value": "self-esteem",
+      "options": [
+        "自尊心",
+        "自己中心的",
+        "自己嫌悪",
+        "自己満足"
+      ],
+      "correctAnswer": "自尊心",
+      "explanation": "自分自身を尊重し、価値があると感じる気持ちのことです。心理学の分野でよく用いられ、精神的な健康に重要な要素とされます。"
+    },
+    {
+      "id": 11,
+      "value": "social anxiety",
+      "options": [
+        "社会不安",
+        "社交性",
+        "社会貢献",
+        "社会正義"
+      ],
+      "correctAnswer": "社会不安",
+      "explanation": "他人からの評価を極度に恐れ、社交的な状況で強い不安を感じる状態を指します。社会不安障害（SAD）という精神疾患の症状の一つでもあります。"
+    },
+    {
+      "id": 12,
+      "value": "sexual insecurity",
+      "options": [
+        "性的不安",
+        "性的魅力",
+        "性的満足",
+        "性的興奮"
+      ],
+      "correctAnswer": "性的不安",
+      "explanation": "自身の性的魅力や能力に対する自信のなさ、不安感を意味します。恋愛関係や性的な関係において、自己肯定感の低さから生じることがあります。"
+    },
+    {
+      "id": 13,
+      "value": "denial",
+      "options": [
+        "否定",
+        "肯定",
+        "拒否",
+        "同意"
+      ],
+      "correctAnswer": "否定",
+      "explanation": "受け入れがたい事実や感情を認めない心理的な防御機制です。ここでは、Leonardが自分の欠点を認めないことをPennyが指摘しています。"
+    },
+    {
+      "id": 14,
+      "value": "the list goes on and on",
+      "options": [
+        "リストは続く",
+        "リストは無限",
+        "リストは終わる",
+        "リストは短い"
+      ],
+      "correctAnswer": "リストは無限",
+      "explanation": "欠点や問題点がたくさんあり、列挙しきれないことを意味する表現です。ここでは、Leonardの欠点がたくさんあることを示唆しています。"
+    },
+    {
+      "id": 15,
+      "value": "comes up",
+      "options": [
+        "発生する",
+        "沈む",
+        "終わる",
+        "隠れる"
+      ],
+      "correctAnswer": "発生する",
+      "explanation": "話題や問題が偶然に、または予期せず現れることを意味します。ここでは、Pennyが医者に薬の話を持ち出す機会があるかどうかをLeonardに尋ねています。"
+    },
+    {
+      "id": 16,
+      "value": "Fear of failure",
+      "options": [
+        "失敗の恐怖",
+        "成功の恐怖",
+        "挑戦",
+        "変化"
+      ],
+      "correctAnswer": "失敗の恐怖",
+      "explanation": "失敗することを極度に恐れる心理状態です。新しいことに挑戦することをためらわせたり、自己肯定感を低下させたりすることがあります。"
+    },
+    {
+      "id": 17,
+      "value": "Lack of confidence",
+      "options": [
+        "自信の欠如",
+        "自信過剰",
+        "信頼",
+        "勇気"
+      ],
+      "correctAnswer": "自信の欠如",
+      "explanation": "自分自身の能力や価値を信じることができない状態です。新しいことに挑戦するのをためらったり、チャンスを逃したりすることがあります。"
+    },
+    {
+      "id": 18,
+      "value": "wuss",
+      "options": [
+        "弱虫",
+        "勇敢な人",
+        "賢い人",
+        "優しい人"
+      ],
+      "correctAnswer": "弱虫",
+      "explanation": "臆病者や弱虫を指す軽蔑的な言葉です。勇気がない、決断力がないといったニュアンスが含まれます。"
+    },
+    {
+      "id": 19,
+      "value": "pushover",
+      "options": [
+        "言いなりになる人",
+        "強い人",
+        "賢い人",
+        "優しい人"
+      ],
+      "correctAnswer": "言いなりになる人",
+      "explanation": "他人の言いなりになりやすく、自分の意見を主張しない人を指します。ここでは、LeonardがPennyに言われるがままに精神科医の予約を取ることをからかっています。"
+    },
+    {
+      "id": 20,
+      "value": "spineless",
+      "options": [
+        "意気地なし",
+        "勇敢な人",
+        "賢い人",
+        "優しい人"
+      ],
+      "correctAnswer": "意気地なし",
+      "explanation": "勇気や決断力がない人を指す言葉です。自分の意見を主張せず、他人に流されやすい人を軽蔑するニュアンスが含まれます。"
+    },
+    {
+      "id": 21,
+      "value": "returns the favour",
+      "options": [
+        "お返しをする",
+        "無視する",
+        "感謝する",
+        "手伝う"
+      ],
+      "correctAnswer": "お返しをする",
+      "explanation": "受けた恩や行為に対して、同様の行為を返すことを意味します。ここでは、Stuartが静かにしている代わりに、HowardもStuartに対して静かにするべきだというニュアンスが含まれています。"
+    },
+    {
+      "id": 22,
+      "value": "to beat",
+      "options": [
+        "打ち負かす",
+        "勝つ",
+        "負ける",
+        "競争する"
+      ],
+      "correctAnswer": "打ち負かす",
+      "explanation": "他の選択肢よりも優れていること、または競争相手に勝つ必要があることを示す。"
+    },
+    {
+      "id": 23,
+      "value": "inappropriate",
+      "options": [
+        "不適切な",
+        "適切な",
+        "魅力的な",
+        "面白い"
+      ],
+      "correctAnswer": "不適切な",
+      "explanation": "特定の状況や場所で適切でない、または受け入れられない。"
+    },
+    {
+      "id": 24,
+      "value": "get caught",
+      "options": [
+        "捕まる",
+        "成功する",
+        "逃げる",
+        "隠れる"
+      ],
+      "correctAnswer": "捕まる",
+      "explanation": "不正行為や秘密が発覚すること。"
+    },
+    {
+      "id": 25,
+      "value": "incredible",
+      "options": [
+        "信じられない",
+        "退屈な",
+        "普通の",
+        "疑わしい"
+      ],
+      "correctAnswer": "信じられない",
+      "explanation": "非常に素晴らしい、または信じがたいほど良い。"
+    },
+    {
+      "id": 26,
+      "value": "hang on",
+      "options": [
+        "急いで",
+        "待って",
+        "手伝って",
+        "諦めて"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「hang on」は、電話を切らずに待つ、または人に少しの間待つように頼むときに使われる口語表現です。物理的に何かに掴まるという意味もあります。"
+    },
+    {
+      "id": 27,
+      "value": "What's up?",
+      "options": [
+        "どうしたの？",
+        "何が起きたの？",
+        "元気ですか？",
+        "どこに行くの？"
+      ],
+      "correctAnswer": "どうしたの？",
+      "explanation": "「What's up?」は、相手に何かあったのか、または単に挨拶として「元気ですか？」という意味で使われるカジュアルな表現です。"
+    },
+    {
+      "id": 28,
+      "value": "make it easy on",
+      "options": [
+        "簡単にする",
+        "難しくする",
+        "複雑にする",
+        "手伝う"
+      ],
+      "correctAnswer": "簡単にする",
+      "explanation": "「make it easy on someone」は、誰かの負担や苦労を軽減するという意味です。このフレーズは、親切心や配慮を示す文脈でよく用いられます。"
+    },
+    {
+      "id": 29,
+      "value": "done getting lucky",
+      "options": [
+        "運が良かった",
+        "運が悪かった",
+        "幸運が終わった",
+        "幸運が始まった"
+      ],
+      "correctAnswer": "幸運が終わった",
+      "explanation": "この文脈では、「getting lucky」は皮肉を込めて、厄介な状況や不快な出来事が終わることを指しています。したがって、「done getting lucky」は、そのような状況から解放された、という意味合いになります。"
+    },
+    {
+      "id": 30,
+      "value": "Sorry to see you go?",
+      "options": [
+        "行ってほしくない？",
+        "残念ですか？",
+        "嬉しいですか？",
+        "寂しいですか？"
+      ],
+      "correctAnswer": "残念ですか？",
+      "explanation": "「Sorry to see you go?」は、相手が去ることを残念に思う気持ちを尋ねる表現です。皮肉や嫌味を込めて使われることもあります。"
+    },
+    {
+      "id": 31,
+      "value": "appreciate it",
+      "options": [
+        "感謝する",
+        "理解する",
+        "評価する",
+        "批判する"
+      ],
+      "correctAnswer": "感謝する",
+      "explanation": "「appreciate it」は、相手の行為や提供に対して感謝の意を示す一般的な表現です。フォーマルな場面でもカジュアルな場面でも使用できます。"
+    },
+    {
+      "id": 32,
+      "value": "white-field balanced",
+      "options": [
+        "色温度が調整された",
+        "明度が高い",
+        "コントラストが強い",
+        "焦点が合っている"
+      ],
+      "correctAnswer": "色温度が調整された",
+      "explanation": "「white-field balanced」は、画像や映像の色温度が適切に調整され、自然な白色を再現できる状態を指します。写真や天文学の分野でよく用いられる専門用語です。"
+    },
+    {
+      "id": 33,
+      "value": "anomalies",
+      "options": [
+        "異常",
+        "正常",
+        "規則",
+        "標準"
+      ],
+      "correctAnswer": "異常",
+      "explanation": "「anomaly」は、一般的に予想されるものや標準から逸脱したものを指します。科学、統計、データ分析などの分野で、異常値や例外的な事象を意味する用語として用いられます。"
+    },
+    {
+      "id": 34,
+      "value": "I'm on it",
+      "options": [
+        "承知しました",
+        "検討中です",
+        "反対です",
+        "興味ありません"
+      ],
+      "correctAnswer": "承知しました",
+      "explanation": "「I'm on it」は、頼まれたことや指示されたことに対して「承知しました」「すぐに取り掛かります」という意味で使われる口語表現です。"
+    },
+    {
+      "id": 35,
+      "value": "outsourcing",
+      "options": [
+        "外注",
+        "内製",
+        "輸入",
+        "輸出"
+      ],
+      "correctAnswer": "外注",
+      "explanation": "「outsourcing」は、企業が業務の一部または全部を外部の専門業者に委託することを指します。コスト削減や効率化を目的として行われることが多いです。"
+    },
+    {
+      "id": 36,
+      "value": "whatever it takes",
+      "options": [
+        "何があっても",
+        "どうでもいい",
+        "簡単ではない",
+        "絶対に嫌だ"
+      ],
+      "correctAnswer": "何があっても",
+      "explanation": "「whatever it takes」は、目標を達成するためにはどんな手段や努力も惜しまない、という意味合いを持つ強い決意を表すフレーズです。"
+    },
+    {
+      "id": 37,
+      "value": "optical transient",
+      "options": [
+        "一時的な光学現象",
+        "永続的な光学現象",
+        "光学定数",
+        "光学迷彩"
+      ],
+      "correctAnswer": "一時的な光学現象",
+      "explanation": "「optical transient」は、天文学において、短期間だけ明るさが増加する天体現象を指します。超新星爆発などがその例です。"
+    },
+    {
+      "id": 38,
+      "value": "short notice",
+      "options": [
+        "急な知らせ",
+        "長い予告",
+        "事前通知",
+        "秘密の合図"
+      ],
+      "correctAnswer": "急な知らせ",
+      "explanation": "「short notice」は、短い期間で、または突然の通知で行われることを意味します。「on short notice」という形で使われることが多いです。"
+    },
+    {
+      "id": 39,
+      "value": "child rearing",
+      "options": [
+        "子育て",
+        "児童虐待",
+        "育児放棄",
+        "養子縁組"
+      ],
+      "correctAnswer": "子育て",
+      "explanation": "「child rearing」は、子供を育て、教育すること全般を指します。子育ての方法や哲学など、幅広い意味合いを含みます。"
+    },
+    {
+      "id": 40,
+      "value": "holding on to",
+      "options": [
+        "持ち続ける",
+        "手放す",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "持ち続ける",
+      "explanation": "「hold on to」は、物理的に何かを掴んで離さない、という意味の他に、感情や考えを抱き続ける、という意味も持ちます。特に、過去の出来事に対する感情（怒り、悲しみなど）を抱え続けている状況を表す際に使われます。"
+    },
+    {
+      "id": 41,
+      "value": "worked through",
+      "options": [
+        "乗り越えた",
+        "無視した",
+        "悪化した",
+        "隠蔽した"
+      ],
+      "correctAnswer": "乗り越えた",
+      "explanation": "「work through」は、困難や問題を解決するために努力し、それを克服するという意味です。心理的な問題を扱う際によく用いられます。"
+    },
+    {
+      "id": 42,
+      "value": "heartbreaking",
+      "options": [
+        "胸が張り裂ける",
+        "楽しい",
+        "面白い",
+        "感動的"
+      ],
+      "correctAnswer": "胸が張り裂ける",
+      "explanation": "「heartbreaking」は、非常に悲しい、または心を痛めるような出来事や状況を表す形容詞です。深い悲しみや同情の気持ちを伴います。"
+    },
+    {
+      "id": 43,
+      "value": "who would’ve thought",
+      "options": [
+        "誰が思っただろうか",
+        "誰も思わなかった",
+        "誰もが知っていた",
+        "考えるまでもない"
+      ],
+      "correctAnswer": "誰が思っただろうか",
+      "explanation": "「who would've thought」は、予想外の出来事や状況に対する驚きや感慨を表す際に使われる表現です。過去の仮定の話なので、実際には起こらなかったことを表します。"
+    },
+    {
+      "id": 44,
+      "value": "settled in",
+      "options": [
+        "落ち着いた",
+        "出発した",
+        "引っ越した",
+        "旅行した"
+      ],
+      "correctAnswer": "落ち着いた",
+      "explanation": "「settled in」は、新しい場所や環境に慣れて、快適に過ごせるようになった状態を指します。引っ越しの後などに使われることが多いです。"
+    },
+    {
+      "id": 45,
+      "value": "grown man",
+      "options": [
+        "大人",
+        "子供",
+        "老人",
+        "青年"
+      ],
+      "correctAnswer": "大人",
+      "explanation": "「grown man」は成長した男性を指す言葉ですが、ここでは、自立した大人が自分のアパートに引っ越すという当然のことを、皮肉を込めて述べています。"
+    },
+    {
+      "id": 46,
+      "value": "crazy times",
+      "options": [
+        "クレイジーな時代",
+        "普通の時代",
+        "退屈な時代",
+        "静かな時代"
+      ],
+      "correctAnswer": "クレイジーな時代",
+      "explanation": "「crazy times」は、異常な、または予測できない状況を表す口語表現です。必ずしも悪い意味ではなく、驚きや面白さを伴う状況にも使われます。"
+    },
+    {
+      "id": 47,
+      "value": "using humour",
+      "options": [
+        "ユーモアを使う",
+        "怒りを使う",
+        "悲しみを使う",
+        "恐怖を使う"
+      ],
+      "correctAnswer": "ユーモアを使う",
+      "explanation": "「using humor」は、ユーモアを用いて感情や状況を表現または処理することを意味します。皮肉やジョークなどの形で現れることがあります。"
+    },
+    {
+      "id": 48,
+      "value": "express",
+      "options": [
+        "表現する",
+        "抑圧する",
+        "隠蔽する",
+        "否定する"
+      ],
+      "correctAnswer": "表現する",
+      "explanation": "「express」は感情、考え、または事実を言葉や行動で示すことを意味します。ここでは、隠された感情をユーモアで表す状況を指しています。"
+    },
+    {
+      "id": 49,
+      "value": "thank you guys",
+      "options": [
+        "皆さんありがとう",
+        "皆さんごめんなさい",
+        "皆さんさようなら",
+        "皆さんこんにちは"
+      ],
+      "correctAnswer": "皆さんありがとう",
+      "explanation": "「thank you guys」は、複数人に対して感謝の気持ちを伝えるカジュアルな表現です。「guys」は男性だけでなく、グループ全体を指すことがあります。"
+    },
+    {
+      "id": 50,
+      "value": "our pleasure",
+      "options": [
+        "こちらこそ",
+        "残念です",
+        "どういたしまして",
+        "迷惑です"
+      ],
+      "correctAnswer": "こちらこそ",
+      "explanation": "「our pleasure」は、相手からの感謝に対して「どういたしまして」という意味で使われる丁寧な表現です。相手を助けることができて光栄だった、というニュアンスを含みます。"
+    },
+    {
+      "id": 51,
+      "value": "scintillation",
+      "options": [
+        "輝き、きらめき",
+        "安定",
+        "沈黙",
+        "暗闇"
+      ],
+      "correctAnswer": "輝き、きらめき",
+      "explanation": "「scintillation」は、光のきらめきや、星などの明るさの変動を指す言葉です。科学的な文脈では、大気や他の媒体を通る光の経路における変動によって生じる現象を指します。天文学や物理学でよく使われます。"
+    },
+    {
+      "id": 52,
+      "value": "trans-Neptunian object",
+      "options": [
+        "海王星を周回する人工衛星",
+        "海王星以遠天体",
+        "太陽",
+        "彗星"
+      ],
+      "correctAnswer": "海王星以遠天体",
+      "explanation": "「trans-Neptunian object (TNO)」は、海王星の軌道よりも外側を公転する天体の総称です。冥王星やエリスなどが含まれます。太陽系の外縁部に位置するこれらの天体は、太陽系の形成初期の情報を保持していると考えられています。"
+    },
+    {
+      "id": 53,
+      "value": "dwarf planet",
+      "options": [
+        "小惑星",
+        "準惑星",
+        "恒星",
+        "ブラックホール"
+      ],
+      "correctAnswer": "準惑星",
+      "explanation": "「dwarf planet」は、太陽の周りを公転し、十分な質量を持っていてほぼ球形を保っているものの、その軌道周辺の他の天体を掃き清めていない天体を指します。冥王星が代表的な例です。国際天文学連合（IAU）によって定義されています。"
+    },
+    {
+      "id": 54,
+      "value": "livable",
+      "options": [
+        "耐えられない",
+        "住みやすい",
+        "通過可能な",
+        "不快な"
+      ],
+      "correctAnswer": "住みやすい",
+      "explanation": "「livable」は、「住むのに適した」「生活できる」という意味を持つ形容詞です。気候、環境、経済状況などが良好で、人々が快適に生活できる場所や状態を指します。"
+    },
+    {
+      "id": 55,
+      "value": "rule with an iron fist",
+      "options": [
+        "厳格に支配する",
+        "自由な統治を行う",
+        "話し合いで解決する",
+        "民主的な統治を行う"
+      ],
+      "correctAnswer": "厳格に支配する",
+      "explanation": "「rule with an iron fist」は、「鉄の拳で支配する」という意味のイディオムで、厳格で容赦のない方法で権力を行使することを指します。独裁的な支配や、非常に厳しい規律を敷く状況を表す際に用いられます。"
+    },
+    {
+      "id": 56,
+      "value": "asteroid",
+      "options": [
+        "彗星",
+        "小惑星",
+        "流星",
+        "ブラックホール"
+      ],
+      "correctAnswer": "小惑星",
+      "explanation": "「asteroid」は、太陽系内の惑星よりも小さく、主に岩石や金属で構成された天体です。多くは火星と木星の間の小惑星帯に存在しますが、他の場所にも存在します。"
+    },
+    {
+      "id": 57,
+      "value": "stuck for",
+      "options": [
+        "探して見つからない",
+        "困っている",
+        "準備ができている",
+        "興味がある"
+      ],
+      "correctAnswer": "困っている",
+      "explanation": "「stuck for」は、「～に困っている」「～に詰まっている」という意味の口語的な表現です。特に、言葉やアイデアが見つからずに困っている状況を表す際に使われます。例えば、「I'm stuck for words」は「言葉が見つからない」という意味になります。"
+    },
+    {
+      "id": 58,
+      "value": "collision course",
+      "options": [
+        "協力体制",
+        "衝突コース",
+        "友好的な関係",
+        "平和的な解決"
+      ],
+      "correctAnswer": "衝突コース",
+      "explanation": "「collision course」は、文字通りには「衝突コース」という意味ですが、比喩的には「対立に向かっている」「破滅に向かっている」という意味で使われます。二つの物事が避けられない対立や衝突に向かっている状況を表します。"
+    },
+    {
+      "id": 59,
+      "value": "do someone any favors",
+      "options": [
+        "誰かを助ける",
+        "誰かの役に立たない",
+        "誰かを怒らせる",
+        "誰かを無視する"
+      ],
+      "correctAnswer": "誰かの役に立たない",
+      "explanation": "「do someone any favors」は、「誰かの役に立たない」「誰のためにもならない」という意味のイディオムです。特に、名前や行為が不適切であったり、不運を招いたりする場合に使われます。否定的な含みを持つ表現です。"
+    },
+    {
+      "id": 60,
+      "value": "succinct",
+      "options": [
+        "簡潔な",
+        "曖昧な",
+        "詳細な",
+        "複雑な"
+      ],
+      "correctAnswer": "簡潔な",
+      "explanation": "「succinct」は、「簡潔な」「簡明な」という意味を持つ形容詞です。無駄がなく、要点を的確に伝える表現や説明を指します。ビジネスシーンや学術的な文脈でよく用いられます。"
+    },
+    {
+      "id": 61,
+      "value": "roll one's eyes",
+      "options": [
+        "同意する",
+        "目を回す",
+        "退屈または軽蔑を示す",
+        "感動する"
+      ],
+      "correctAnswer": "退屈または軽蔑を示す",
+      "explanation": "「roll one's eyes」は、「目を回す」という意味ですが、退屈、不信、軽蔑などの感情を示す非言語的な表現です。相手の発言や行動に対する不快感やうんざり感を伝える際に用いられます。"
+    },
+    {
+      "id": 62,
+      "value": "suck something up",
+      "options": [
+        "何かを吐き出す",
+        "何かを吸い込む",
+        "何かを無視する",
+        "何かを拒否する"
+      ],
+      "correctAnswer": "何かを吸い込む",
+      "explanation": "「suck something up」は、文字通りには「何かを吸い上げる」という意味ですが、掃除機などでゴミやほこりを吸い込む際に使われます。また、比喩的には、不快な状況や感情を受け入れる、または我慢するという意味合いも持ちます。"
+    },
+    {
+      "id": 63,
+      "value": "man cave",
+      "options": [
+        "洞窟",
+        "男性だけの空間",
+        "女性だけの空間",
+        "公共の広場"
+      ],
+      "correctAnswer": "男性だけの空間",
+      "explanation": "「man cave」は、男性が趣味やリラックスのために使う、家の中の特定の部屋やスペースを指します。ゲーム、スポーツ観戦、DIYなどが楽しめるように設計されていることが多いです。"
+    },
+    {
+      "id": 64,
+      "value": "binge-watch",
+      "options": [
+        "少しだけ見る",
+        "一気見する",
+        "全く見ない",
+        "批評する"
+      ],
+      "correctAnswer": "一気見する",
+      "explanation": "「binge-watch」は、テレビ番組や映画などを立て続けに、一気に見ることを意味します。ストリーミングサービスが普及したことで一般的になった言葉で、数時間、あるいは数日かけてシリーズ全体を視聴する行為を指します。"
+    },
+    {
+      "id": 65,
+      "value": "settled in",
+      "options": [
+        "解決した",
+        "落ち着いた",
+        "興奮した",
+        "旅行した"
+      ],
+      "correctAnswer": "落ち着いた",
+      "explanation": "「settled in」は、「（新しい場所や状況に）落ち着いた」「慣れた」という意味を持つ句動詞です。引っ越し後や新しい仕事に就いた後など、環境に順応して快適に過ごせるようになった状態を表します。"
+    },
+    {
+      "id": 66,
+      "value": "drove us crazy",
+      "options": [
+        "私たちを狂わせた",
+        "私たちを助けた",
+        "私たちを笑わせた",
+        "私たちを感動させた"
+      ],
+      "correctAnswer": "私たちを狂わせた",
+      "explanation": "「drove us crazy」は、「私たちを狂わせた」「私たちをイライラさせた」という意味の口語的な表現です。誰かの行動や言動が非常に迷惑で、精神的に疲弊させられた状況を表します。"
+    },
+    {
+      "id": 67,
+      "value": "deny",
+      "options": [
+        "認める",
+        "否定する",
+        "許可する",
+        "無視する"
+      ],
+      "correctAnswer": "否定する",
+      "explanation": "「deny」は、「否定する」「拒否する」という意味を持つ動詞です。事実や主張が真実ではないと主張する、または要求や許可を拒む際に使われます。法的な文脈でもよく用いられます。"
+    },
+    {
+      "id": 68,
+      "value": "come up with",
+      "options": [
+        "思いつく",
+        "忘れる",
+        "隠す",
+        "探す"
+      ],
+      "correctAnswer": "思いつく",
+      "explanation": "「come up with」は、「～を思いつく」「～を提案する」という意味の句動詞です。新しいアイデアや解決策を生み出す際に使われます。創造的なプロセスや問題解決の文脈でよく用いられます。"
+    },
+    {
+      "id": 69,
+      "value": "medium-sized",
+      "options": [
+        "小さい",
+        "中くらいの",
+        "大きい",
+        "非常に大きい"
+      ],
+      "correctAnswer": "中くらいの",
+      "explanation": "「medium-sized」は、「中くらいの大きさの」「中型の」という意味を持つ形容詞です。サイズや量が平均的な範囲にあることを示します。比較対象がある場合に、その中間的な大きさを示す際に用いられます。"
+    },
+    {
+      "id": 70,
+      "value": "as long as",
+      "options": [
+        "～である限り",
+        "～にもかかわらず",
+        "～の結果として",
+        "～の代わりに"
+      ],
+      "correctAnswer": "～である限り",
+      "explanation": "「as long as」は、「～である限り」「～する条件で」という意味を持つ接続詞です。特定の条件が満たされている場合に、ある事柄が成り立つことを示します。条件付きの許可や保証を表す際に用いられます。"
+    },
+    {
+      "id": 71,
+      "value": "healthy gravity",
+      "options": [
+        "強い重力",
+        "適度な重力",
+        "弱い重力",
+        "重力がない"
+      ],
+      "correctAnswer": "適度な重力",
+      "explanation": "「healthy gravity」はここでは比喩表現で、「生命を維持できるのに適度な重力」という意味合いです。物理学的な正確さよりも、生命にとって好ましい環境を願う気持ちが込められています。"
+    },
+    {
+      "id": 72,
+      "value": "kind of",
+      "options": [
+        "完全に",
+        "少し",
+        "全く",
+        "非常に"
+      ],
+      "correctAnswer": "少し",
+      "explanation": "「kind of」は、「いくらか」「少し」という意味の口語的な表現です。程度や確信度を弱める際に用いられます。フォーマルな場面では避けるべき表現ですが、日常会話では頻繁に使われます。"
+    },
+    {
+      "id": 73,
+      "value": "cute",
+      "options": [
+        "醜い",
+        "かわいい",
+        "恐ろしい",
+        "退屈な"
+      ],
+      "correctAnswer": "かわいい",
+      "explanation": "「cute」は、「かわいい」「愛らしい」という意味を持つ形容詞です。外見や行動が魅力的で、好感を持てる対象に使われます。子供や動物、小さくてかわいらしいものによく用いられます。"
+    },
+    {
+      "id": 74,
+      "value": "end up",
+      "options": [
+        "始める",
+        "終わる",
+        "避ける",
+        "計画する"
+      ],
+      "correctAnswer": "終わる",
+      "explanation": "「end up」は、「最終的に～になる」「～という結果になる」という意味の句動詞です。意図したわけではない結果や、予期せぬ状況に至った場合に用いられます。 often used to describe an unexpected outcome."
+    },
+    {
+      "id": 75,
+      "value": "mood",
+      "options": [
+        "天気",
+        "気分",
+        "場所",
+        "時間"
+      ],
+      "correctAnswer": "気分",
+      "explanation": "「mood」は、「気分」「機嫌」という意味の名詞です。一時的な感情の状態や、心の持ちようを表します。良い気分や悪い気分、または特定のものに対する感情的な態度を指すことがあります。"
+    },
+    {
+      "id": 76,
+      "value": "worthwhile",
+      "options": [
+        "価値のある",
+        "無価値な",
+        "退屈な",
+        "簡単な"
+      ],
+      "correctAnswer": "価値のある",
+      "explanation": "「worthwhile」は、時間、お金、努力を費やす価値がある、という意味です。何かを行うことによって得られる利益や満足感が、費やした労力に見合う場合に用いられます。例：It's a worthwhile investment. (それは価値のある投資だ。)"
+    },
+    {
+      "id": 77,
+      "value": "settled on",
+      "options": [
+        "解決した",
+        "決定した",
+        "出発した",
+        "反対した"
+      ],
+      "correctAnswer": "決定した",
+      "explanation": "「settle on」は、いくつかの選択肢の中から一つを選んで決定する、という意味です。最終的な決定に至るプロセスを含意します。例：They settled on a date for the wedding. (彼らは結婚式の日取りを決定した。)"
+    },
+    {
+      "id": 78,
+      "value": "hang in there",
+      "options": [
+        "諦める",
+        "頑張る",
+        "休憩する",
+        "手伝う"
+      ],
+      "correctAnswer": "頑張る",
+      "explanation": "「Hang in there」は、困難な状況や苦しい状況にあっても、諦めずに頑張って耐え忍ぶように励ます際に使われる表現です。例：Hang in there, help is on the way. (頑張って、助けはもうすぐそこだ。)"
+    },
+    {
+      "id": 79,
+      "value": "get out of",
+      "options": [
+        "参加する",
+        "逃れる",
+        "楽しむ",
+        "開始する"
+      ],
+      "correctAnswer": "逃れる",
+      "explanation": "「get out of」は、義務や責任、または不快な状況から逃れる、回避するという意味です。例：He tried to get out of doing the dishes. (彼はお皿洗いを逃れようとした。)"
+    },
+    {
+      "id": 80,
+      "value": "double-blind studies",
+      "options": [
+        "二重盲検法",
+        "公開研究",
+        "単一盲検法",
+        "観察研究"
+      ],
+      "correctAnswer": "二重盲検法",
+      "explanation": "「double-blind studies」は、臨床試験などで用いられる方法で、被験者と試験者（評価者）の双方に、誰がプラセボ（偽薬）を投与されているか、または有効成分を投与されているかを知らせないで行う試験のことです。これにより、先入観や期待による影響を排除し、客観的な評価を可能にします。"
+    },
+    {
+      "id": 81,
+      "value": "FDA approval",
+      "options": [
+        "医師の承認",
+        "FDAの承認",
+        "患者の同意",
+        "社内承認"
+      ],
+      "correctAnswer": "FDAの承認",
+      "explanation": "「FDA approval」は、アメリカ食品医薬品局（Food and Drug Administration）による承認のことです。新しい医薬品や医療機器などが、安全性と有効性の基準を満たしていることをFDAが認めることを指します。この承認を得ることで、製品はアメリカ国内で販売・使用が可能になります。"
+    },
+    {
+      "id": 82,
+      "value": "put that aside",
+      "options": [
+        "優先する",
+        "無視する",
+        "考慮する",
+        "支持する"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「put that aside」は、ある話題や問題を一時的に脇に置いて、別のことに集中する、という意味です。議論や注意をそらすために使われることがあります。例：Let's put that aside for now and focus on the main issue. (それは今は置いておいて、主要な問題に集中しましょう。)"
+    },
+    {
+      "id": 83,
+      "value": "overbearing",
+      "options": [
+        "思いやりのある",
+        "横柄な",
+        "控えめな",
+        "友好的な"
+      ],
+      "correctAnswer": "横柄な",
+      "explanation": "「overbearing」は、人に対して威圧的で、自分の意見ややり方を押し付けるような態度を指します。他人の自由や権利を尊重しないニュアンスがあります。例：He has an overbearing personality. (彼は横柄な性格だ。)"
+    },
+    {
+      "id": 84,
+      "value": "formative years",
+      "options": [
+        "老年期",
+        "形成期",
+        "青年期",
+        "安定期"
+      ],
+      "correctAnswer": "形成期",
+      "explanation": "「formative years」は、人格や価値観が形成される重要な時期、特に子供時代や青年期を指します。この時期の経験が、その後の人生に大きな影響を与えると考えられています。例：His formative years were spent in a small village. (彼の形成期は小さな村で過ごされた。)"
+    },
+    {
+      "id": 85,
+      "value": "perpetuating",
+      "options": [
+        "終わらせる",
+        "永続させる",
+        "隠蔽する",
+        "理解する"
+      ],
+      "correctAnswer": "永続させる",
+      "explanation": "「perpetuating」は、何かを持続させたり、継続させたり、または悪化させたりする、という意味です。特に、負の連鎖や悪習を断ち切らずに続ける場合に用いられます。例：By not addressing the issue, you are perpetuating the problem. (その問題に対処しないことで、問題を永続させている。)"
+    },
+    {
+      "id": 86,
+      "value": "selling point",
+      "options": [
+        "弱点",
+        "セールスポイント",
+        "購入条件",
+        "交渉材料"
+      ],
+      "correctAnswer": "セールスポイント",
+      "explanation": "「selling point」は、製品やサービスなどの魅力を高め、購入意欲を刺激する特徴や利点のことを指します。例：The low price is the main selling point. (低価格が主なセールスポイントだ。)"
+    },
+    {
+      "id": 87,
+      "value": "wore him down",
+      "options": [
+        "彼を励ました",
+        "彼を疲れさせた",
+        "彼を尊敬した",
+        "彼を無視した"
+      ],
+      "correctAnswer": "彼を疲れさせた",
+      "explanation": "「wear someone down」は、粘り強い説得や圧力によって、相手を疲弊させ、最終的に同意させる、という意味です。例：She wore him down until he agreed to go to the party. (彼女は彼をパーティーに行くことに同意するまで、疲れさせた。)"
+    },
+    {
+      "id": 88,
+      "value": "girl-next-door type",
+      "options": [
+        "都会的な女性",
+        "親しみやすい女性",
+        "神秘的な女性",
+        "高飛車な女性"
+      ],
+      "correctAnswer": "親しみやすい女性",
+      "explanation": "「girl-next-door type」は、親しみやすく、飾り気のない、近所に住んでいそうな普通の女の子、という意味です。美しさよりも、親しみやすさや自然さを強調する際に用いられます。"
+    },
+    {
+      "id": 89,
+      "value": "doable",
+      "options": [
+        "不可能な",
+        "実行可能な",
+        "退屈な",
+        "高価な"
+      ],
+      "correctAnswer": "実行可能な",
+      "explanation": "「doable」は、実行可能である、実現可能である、という意味です。困難さはあるかもしれないが、努力すれば達成できるというニュアンスを含みます。例：The project seems difficult, but it's doable. (そのプロジェクトは難しそうだが、実行可能だ。)"
+    },
+    {
+      "id": 90,
+      "value": "man-child",
+      "options": [
+        "大人びた子供",
+        "子供っぽい大人",
+        "理想的な男性",
+        "普通の男性"
+      ],
+      "correctAnswer": "子供っぽい大人",
+      "explanation": "「man-child」は、外見は大人だが、行動や考え方が子供っぽい男性を指す言葉です。責任感が欠如していたり、幼稚な振る舞いをしたりする人を揶揄する際に使われます。"
+    },
+    {
+      "id": 91,
+      "value": "have a lot on one's plate",
+      "options": [
+        "食欲がある",
+        "たくさんの課題がある",
+        "幸運である",
+        "才能がある"
+      ],
+      "correctAnswer": "たくさんの課題がある",
+      "explanation": "「have a lot on one's plate」は、多くの仕事や責任、問題などを抱えている状態を指します。忙しくて手が回らない状況を表す際に用いられます。例：She has a lot on her plate right now, so she can't take on any new projects. (彼女は今、たくさんの課題を抱えているので、新しいプロジェクトを引き受けることができない。)"
+    },
+    {
+      "id": 92,
+      "value": "benefit from",
+      "options": [
+        "苦しむ",
+        "恩恵を受ける",
+        "無視する",
+        "妨げる"
+      ],
+      "correctAnswer": "恩恵を受ける",
+      "explanation": "「benefit from」は、～から利益を得る、恩恵を受ける、という意味です。ある行動や状況から良い結果や利点を得ることを指します。例：He benefited from the training program. (彼はその研修プログラムから恩恵を受けた。)"
+    },
+    {
+      "id": 93,
+      "value": "fits of rage",
+      "options": [
+        "喜び",
+        "怒り",
+        "悲しみ",
+        "恐怖"
+      ],
+      "correctAnswer": "怒り",
+      "explanation": "「fits of rage」は、激しい怒りの発作、または怒りがこみ上げてくる状態を指します。通常、制御不能な感情の爆発を伴います。例：He's prone to fits of rage when he's under stress. (彼はストレスがたまると、怒りの発作を起こしやすい。)"
+    },
+    {
+      "id": 94,
+      "value": "emotionally withholding",
+      "options": [
+        "感情的な",
+        "感情を抑える",
+        "感情的な爆発",
+        "感情的なサポート"
+      ],
+      "correctAnswer": "感情を抑える",
+      "explanation": "「emotionally withholding」は、感情を表現したり、他人と感情的なつながりを築いたりすることを意図的に避ける態度や行動を指します。親密さや共感を拒むような印象を与えることがあります。例：His father was emotionally withholding and never told him he loved him. (彼の父親は感情を表に出さず、一度も彼に愛していると言わなかった。)"
+    },
+    {
+      "id": 95,
+      "value": "asteroid",
+      "options": [
+        "彗星",
+        "小惑星",
+        "惑星",
+        "衛星"
+      ],
+      "correctAnswer": "小惑星",
+      "explanation": "「asteroid」は、太陽系の惑星よりも小さい岩石質の天体のことです。主に火星と木星の間に存在する小惑星帯に多く存在します。"
+    },
+    {
+      "id": 96,
+      "value": "romantic",
+      "options": [
+        "現実的な",
+        "ロマンチックな",
+        "悲劇的な",
+        "喜劇的な"
+      ],
+      "correctAnswer": "ロマンチックな",
+      "explanation": "「romantic」は、愛情や情熱に満ちた、またはそれらを喚起するような性質を持つことを意味します。恋愛感情や美しい風景、感動的な出来事などを表現する際に用いられます。"
+    },
+    {
+      "id": 97,
+      "value": "prescription",
+      "options": [
+        "禁止",
+        "処方箋",
+        "レシピ",
+        "予言"
+      ],
+      "correctAnswer": "処方箋",
+      "explanation": "「prescription」は、医師が発行する、薬や治療法に関する指示書のことです。薬剤師は、この処方箋に基づいて薬を調剤します。"
+    },
+    {
+      "id": 98,
+      "value": "miss",
+      "options": [
+        "当てる",
+        "見逃す",
+        "恋しく思う",
+        "避ける"
+      ],
+      "correctAnswer": "恋しく思う",
+      "explanation": "「miss」は、人がいないことや、あるものが手元にないことを寂しく思う、恋しく思うという意味です。例：I miss my family. (家族が恋しい。)"
+    },
+    {
+      "id": 99,
+      "value": "simpler",
+      "options": [
+        "複雑な",
+        "簡単な",
+        "難しい",
+        "重要な"
+      ],
+      "correctAnswer": "簡単な",
+      "explanation": "「simpler」は、「simple」の比較級で、より簡単である、より単純であるという意味です。複雑さや困難さが少ない状態を表します。例：Life was simpler back then. (当時は生活がもっとシンプルだった。)"
+    },
+    {
+      "id": 100,
+      "value": "decide",
+      "options": [
+        "忘れる",
+        "決定する",
+        "無視する",
+        "保留する"
+      ],
+      "correctAnswer": "決定する",
+      "explanation": "「decide」は、いくつかの選択肢の中から一つを選んで決定する、という意味です。熟考の末に結論を出す行為を指します。例：I decided to study abroad. (私は留学することを決めた。)"
+    }
+  ]
+}

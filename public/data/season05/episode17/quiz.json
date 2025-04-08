@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "step down",
+      "options": [
+        "昇進する",
+        "辞任する",
+        "参加する",
+        "改善する"
+      ],
+      "correctAnswer": "辞任する",
+      "explanation": "「step down」は、役職や地位から退く、辞任するという意味です。自発的な場合も、そうでない場合も使われます。\n例：The CEO stepped down after the scandal. (そのCEOはスキャンダルの後、辞任した。)"
+    },
+    {
+      "id": 2,
+      "value": "snap",
+      "options": [
+        "壊れる",
+        "成功する",
+        "正気でなくなる",
+        "急に動く"
+      ],
+      "correctAnswer": "正気でなくなる",
+      "explanation": "「snap」は、ここでは精神的に限界を超えて、正気を失うという意味です。物理的に「折れる」という意味もあります。\n例：After months of stress, she finally snapped. (数ヶ月のストレスの後、彼女はついに正気を失った。)"
+    },
+    {
+      "id": 3,
+      "value": "dibs",
+      "options": [
+        "権利",
+        "義務",
+        "申し立て",
+        "提案"
+      ],
+      "correctAnswer": "権利",
+      "explanation": "「dibs」は、何かを最初に手に入れる権利、または何かを使う権利を主張する際に使われる口語的な表現です。子供の遊びなどでよく使われます。\n例：I call dibs on the front seat! (前の席は僕の場所だ！)"
+    },
+    {
+      "id": 4,
+      "value": "proverbial",
+      "options": [
+        "ことわざの",
+        "重要な",
+        "まれな",
+        "秘密の"
+      ],
+      "correctAnswer": "ことわざの",
+      "explanation": "「proverbial」は、よく知られたことわざや格言に出てくるような、という意味です。\n例：He is the proverbial early bird. (彼はことわざにある早起きの鳥だ。)"
+    },
+    {
+      "id": 5,
+      "value": "for tots",
+      "options": [
+        "大人のための",
+        "子供のための",
+        "動物のための",
+        "植物のための"
+      ],
+      "correctAnswer": "子供のための",
+      "explanation": "「tots」は幼児、子供という意味のスラングです。「toys for tots」は、恵まれない子供たちのためのおもちゃという意味になります。"
+    },
+    {
+      "id": 6,
+      "value": "distinguished",
+      "options": [
+        "区別された",
+        "有名な",
+        "異なる",
+        "一般的な"
+      ],
+      "correctAnswer": "有名な",
+      "explanation": "「distinguished」は、卓越した、著名な、という意味です。特に才能や業績によって高く評価されている人を指します。\n例：a distinguished scientist (著名な科学者)"
+    },
+    {
+      "id": 7,
+      "value": "wallflower",
+      "options": [
+        "人気者",
+        "目立たない人",
+        "指導者",
+        "勇敢な人"
+      ],
+      "correctAnswer": "目立たない人",
+      "explanation": "「wallflower」は、社交的な場で控えめで目立たない人のことを指します。特にパーティーなどで、ダンスの相手が見つからない女性を指すことが多いです。\n例：She felt like a wallflower at the party. (彼女はパーティーでまるで壁の花のように感じた。)"
+    },
+    {
+      "id": 8,
+      "value": "posse",
+      "options": [
+        "敵",
+        "友人グループ",
+        "家族",
+        "仕事仲間"
+      ],
+      "correctAnswer": "友人グループ",
+      "explanation": "「posse」は、特に共通の目的や関心を持つ人々の集団、仲間という意味です。もともとは、保安官などを助けるために組織された集団を指しました。\n例：He arrived with his posse of friends. (彼は友人たちの一団を連れて到着した。)"
+    },
+    {
+      "id": 9,
+      "value": "flattering",
+      "options": [
+        "お世辞の",
+        "魅力的な",
+        "批判的な",
+        "偽りの"
+      ],
+      "correctAnswer": "魅力的な",
+      "explanation": "「flattering」は、人に良く見られるようにする、という意味です。外見を良く見せる服や、お世辞を言うという意味で使われます。\n例：That dress is very flattering on you. (そのドレスはあなたによく似合う。)"
+    },
+    {
+      "id": 10,
+      "value": "have a word",
+      "options": [
+        "議論する",
+        "話をする",
+        "手紙を書く",
+        "電話をする"
+      ],
+      "correctAnswer": "話をする",
+      "explanation": "「have a word」は、誰かと短く話をする、という意味です。特に個人的な、または重要な事柄について話す際に使われます。\n例：Can I have a word with you in private? (個人的に少しお話できますか？)"
+    },
+    {
+      "id": 11,
+      "value": "on sabbatical",
+      "options": [
+        "休暇中",
+        "出張中",
+        "入院中",
+        "会議中"
+      ],
+      "correctAnswer": "休暇中",
+      "explanation": "「on sabbatical」は、大学教授などが研究や執筆のために取得する長期休暇中です。給与が支払われる場合もあります。\n例：She is on sabbatical to write a book. (彼女は本を書くためにサバティカル中です。)"
+    },
+    {
+      "id": 12,
+      "value": "alarmist",
+      "options": [
+        "楽観主義者",
+        "扇動者",
+        "現実主義者",
+        "悲観論者"
+      ],
+      "correctAnswer": "扇動者",
+      "explanation": "「alarmist」は、不必要に人々に不安や恐怖を与える人のことです。大げさな警告を発する人を指します。\n例：Don't be such an alarmist. (そんなに騒ぎ立てるな。)"
+    },
+    {
+      "id": 13,
+      "value": "benign prostatic hyperplasia",
+      "options": [
+        "良性前立腺肥大症",
+        "悪性腫瘍",
+        "感染症",
+        "アレルギー"
+      ],
+      "correctAnswer": "良性前立腺肥大症",
+      "explanation": "「benign prostatic hyperplasia」は、医学用語で「良性前立腺肥大症」のことです。前立腺が肥大することで、排尿困難などの症状を引き起こします。"
+    },
+    {
+      "id": 14,
+      "value": "rectal exam",
+      "options": [
+        "血液検査",
+        "直腸検査",
+        "心電図検査",
+        "尿検査"
+      ],
+      "correctAnswer": "直腸検査",
+      "explanation": "「rectal exam」は、直腸を指で触診する検査のことです。前立腺の状態などを確認するために行われます。"
+    },
+    {
+      "id": 15,
+      "value": "butter someone up",
+      "options": [
+        "励ます",
+        "おだてる",
+        "批判する",
+        "無視する"
+      ],
+      "correctAnswer": "おだてる",
+      "explanation": "「butter someone up」は、お世辞を言って人に気に入られようとする、という意味です。相手を甘やかして自分の利益を得ようとするニュアンスがあります。\n例：He tried to butter me up, but I knew what he wanted. (彼はおだてようとしたが、彼が何を望んでいるのか知っていた。)"
+    },
+    {
+      "id": 16,
+      "value": "for the record",
+      "options": [
+        "秘密に",
+        "念のために",
+        "記録として",
+        "個人的に"
+      ],
+      "correctAnswer": "記録として",
+      "explanation": "「for the record」は、誤解がないように、または後で参照できるように、はっきりと述べておくという意味です。\n例：For the record, I disagree with you. (念のために言っておくが、私はあなたに反対だ。)"
+    },
+    {
+      "id": 17,
+      "value": "lubricant",
+      "options": [
+        "燃料",
+        "潤滑油",
+        "接着剤",
+        "洗剤"
+      ],
+      "correctAnswer": "潤滑油",
+      "explanation": "「lubricant」は、摩擦を減らすために使われる物質、潤滑油のことです。比喩的に、物事を円滑に進めるための手段としても使われます。\n例：Use a lubricant to prevent damage. (損傷を防ぐために潤滑油を使ってください。)"
+    },
+    {
+      "id": 18,
+      "value": "couldn't give the furry crack of a rat's behind",
+      "options": [
+        "非常に興味がある",
+        "全く興味がない",
+        "少し興味がある",
+        "非常に怒っている"
+      ],
+      "correctAnswer": "全く興味がない",
+      "explanation": "「couldn't give the furry crack of a rat's behind」は、非常に強い表現で、全く興味がない、どうでもいいという意味です。非常に下品な言い方なので、使う場面には注意が必要です。"
+    },
+    {
+      "id": 19,
+      "value": "as well",
+      "options": [
+        "同じように",
+        "さらに",
+        "代わりに",
+        "結局"
+      ],
+      "correctAnswer": "さらに",
+      "explanation": "「as well」は、「～もまた」「～も同様に」という意味で、追加の情報を付け加える際に使われます。\n例：He speaks English and French as well. (彼は英語とフランス語も話します。)"
+    },
+    {
+      "id": 20,
+      "value": "give the man some pwivacy",
+      "options": [
+        "男に助けを求める",
+        "男に仕事をあげる",
+        "男にプライバシーを与える",
+        "男に食事を与える"
+      ],
+      "correctAnswer": "男にプライバシーを与える",
+      "explanation": "「give the man some privacy」は、「彼にプライバシーを与えてあげて」という意味です。人が個人的な空間や時間が必要としている状況で使われます。\n例：Please, give her some privacy while she's on the phone. (彼女が電話中なので、プライバシーを与えてあげてください。)"
+    },
+    {
+      "id": 21,
+      "value": "no respect for boundawies",
+      "options": [
+        "境界線を引く",
+        "ルールを守る",
+        "限界がない",
+        "境界線を尊重しない"
+      ],
+      "correctAnswer": "境界線を尊重しない",
+      "explanation": "「no respect for boundaries」は、「境界線を尊重しない」「人の領域を侵す」という意味です。人のプライバシーや個人的な空間、ルールなどを無視する行動を指します。\n例：He has no respect for personal boundaries. (彼は個人の領域を尊重しない。)"
+    },
+    {
+      "id": 22,
+      "value": "difficulty initiating a urine stream",
+      "options": [
+        "排尿困難",
+        "消化不良",
+        "呼吸困難",
+        "発熱"
+      ],
+      "correctAnswer": "排尿困難",
+      "explanation": "「difficulty initiating a urine stream」は、「排尿困難」という意味です。尿を出し始めるのが難しい状態を指します。医学的な文脈で使われることが多い表現です。"
+    },
+    {
+      "id": 23,
+      "value": "helpful hint",
+      "options": [
+        "役立つヒント",
+        "無意味な情報",
+        "秘密の計画",
+        "複雑な理論"
+      ],
+      "correctAnswer": "役立つヒント",
+      "explanation": "「helpful hint」は、「役立つヒント」という意味です。問題を解決したり、タスクを効率的に行うための実用的なアドバイスを指します。\n例：Here's a helpful hint: Always back up your data. (役立つヒント：常にデータをバックアップしてください。)"
+    },
+    {
+      "id": 24,
+      "value": "perfectwy healthy pwostate",
+      "options": [
+        "完全に健康な前立腺",
+        "深刻な病気",
+        "精神的な問題",
+        "経済的な困難"
+      ],
+      "correctAnswer": "完全に健康な前立腺",
+      "explanation": "「perfectly healthy prostate」は、「完全に健康な前立腺」という意味です。前立腺に問題がなく、正常に機能している状態を指します。医学的な文脈でよく使われます。"
+    },
+    {
+      "id": 25,
+      "value": "tried to have intercourse",
+      "options": [
+        "関係を改善しようとした",
+        "性交を試みた",
+        "食事を楽しんだ",
+        "会議を主催した"
+      ],
+      "correctAnswer": "性交を試みた",
+      "explanation": "「tried to have intercourse」は、「性交を試みた」という意味です。性的な行為を行おうとしたことを指す、ややフォーマルな表現です。"
+    },
+    {
+      "id": 26,
+      "value": "unsettling",
+      "options": [
+        "落ち着かない",
+        "安定した",
+        "満足のいく",
+        "期待できる"
+      ],
+      "correctAnswer": "落ち着かない",
+      "explanation": "「unsettling」は、不安や心配を引き起こす、落ち着かない気持ちにさせるという意味です。何か心地悪さや不安定さを感じさせる状況や物事に対して使われます。\n\n例：The news of the accident was very unsettling. (その事故のニュースは非常に落ち着かない気持ちにさせた。)"
+    },
+    {
+      "id": 27,
+      "value": "cornrowed",
+      "options": [
+        "三つ編みされた",
+        "ストレートにされた",
+        "カールされた",
+        "コーンロウにされた"
+      ],
+      "correctAnswer": "コーンロウにされた",
+      "explanation": "「cornrow」は、髪を細い帯状に編み込むヘアスタイルで、地肌に沿って編み込むのが特徴です。「cornrowed」はその過去分詞形で、髪がコーンロウにされている状態を表します。\n\n例：She had her hair cornrowed for the summer vacation. (彼女は夏休みのために髪をコーンロウにした。)"
+    },
+    {
+      "id": 28,
+      "value": "handcrafted",
+      "options": [
+        "機械で作られた",
+        "手作りの",
+        "大量生産された",
+        "組み立てられた"
+      ],
+      "correctAnswer": "手作りの",
+      "explanation": "「handcrafted」は、手作りされた、手作業で作られたという意味です。機械ではなく、人の手によって丁寧に作られた製品や工芸品に対して使われます。\n\n例：This handcrafted leather bag is very durable. (この手作りの革のバッグは非常に丈夫だ。)"
+    },
+    {
+      "id": 29,
+      "value": "get down to brass tacks",
+      "options": [
+        "本題に入る",
+        "遠回りをする",
+        "抽象的に話す",
+        "詳細を避ける"
+      ],
+      "correctAnswer": "本題に入る",
+      "explanation": "「get down to brass tacks」は、本題に入る、核心に触れるという意味のイディオムです。具体的な詳細や重要な点について話し始める際に使われます。\n\n例：Let's get down to brass tacks and discuss the budget. (本題に入って、予算について話し合いましょう。)"
+    },
+    {
+      "id": 30,
+      "value": "essence of",
+      "options": [
+        "本質",
+        "重要性",
+        "具体例",
+        "結果"
+      ],
+      "correctAnswer": "本質",
+      "explanation": "「essence of」は、～の本質、真髄という意味です。物事の最も重要な部分や特徴を指します。\n\n例：The essence of diplomacy is negotiation. (外交の本質は交渉である。)"
+    },
+    {
+      "id": 31,
+      "value": "compromise",
+      "options": [
+        "対立",
+        "譲歩",
+        "競争",
+        "主張"
+      ],
+      "correctAnswer": "譲歩",
+      "explanation": "「compromise」は、妥協、譲歩という意味です。異なる意見や要求を持つ者が、互いに譲り合って合意に達することを指します。\n\n例：They reached a compromise after a long negotiation. (彼らは長い交渉の末に妥協に達した。)"
+    },
+    {
+      "id": 32,
+      "value": "suck a lemon",
+      "options": [
+        "喜びに浸る",
+        "不快な思いをする",
+        "満足する",
+        "リラックスする"
+      ],
+      "correctAnswer": "不快な思いをする",
+      "explanation": "「suck a lemon」は、不快な思いをする、嫌なことをするという意味の口語的な表現です。文字通りレモンを吸うと酸っぱくて嫌な顔をする様子から来ています。\n\n例：Why don't you go suck a lemon? (嫌な思いでもしてれば？)"
+    },
+    {
+      "id": 33,
+      "value": "pioneer",
+      "options": [
+        "追随者",
+        "先駆者",
+        "傍観者",
+        "批評家"
+      ],
+      "correctAnswer": "先駆者",
+      "explanation": "「pioneer」は、先駆者、開拓者という意味です。新しい分野や方法を切り開く人を指します。\n\n例：He is a pioneer in the field of artificial intelligence. (彼は人工知能の分野の先駆者だ。)"
+    },
+    {
+      "id": 34,
+      "value": "all hail",
+      "options": [
+        "軽蔑する",
+        "非難する",
+        "称賛する",
+        "無視する"
+      ],
+      "correctAnswer": "称賛する",
+      "explanation": "「all hail」は、皆で称賛する、敬意を表するという意味です。主にフォーマルな場面や、特別な人物や業績を称える際に使われます。\n\n例：All hail the champion! (チャンピオンを称えよ！)"
+    },
+    {
+      "id": 35,
+      "value": "decapitates",
+      "options": [
+        "活性化する",
+        "切断する",
+        "装飾する",
+        "分類する"
+      ],
+      "correctAnswer": "切断する",
+      "explanation": "「decapitate」は、斬首する、首を切るという意味です。主に比喩的な表現として、組織やシステムの一部を切り離すという意味でも使われます。\n\n例：The new law decapitated the power of the corporation. (新しい法律は企業の権力を弱めた。)"
+    },
+    {
+      "id": 36,
+      "value": "vaporizes",
+      "options": [
+        "液体化する",
+        "気化する",
+        "固体化する",
+        "冷却する"
+      ],
+      "correctAnswer": "気化する",
+      "explanation": "「vaporize」は、気化する、蒸発させるという意味です。物理的な意味だけでなく、比喩的に消滅させるという意味でも使われます。\n\n例：The heat vaporized the water. (熱が水を気化させた。)"
+    },
+    {
+      "id": 37,
+      "value": "screwing with",
+      "options": [
+        "協力する",
+        "からかう",
+        "尊敬する",
+        "無視する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「screw with」は、人をからかう、邪魔をする、混乱させるという意味の口語的な表現です。相手を困らせたり、意図的に誤解させたりするニュアンスがあります。\n\n例：He's just screwing with you, don't take him seriously. (彼はただからかっているだけだよ、真剣に受け止めないで。)"
+    },
+    {
+      "id": 38,
+      "value": "impasse",
+      "options": [
+        "進展",
+        "合意",
+        "行き詰まり",
+        "解決"
+      ],
+      "correctAnswer": "行き詰まり",
+      "explanation": "「impasse」は、行き詰まり、膠着状態という意味です。交渉や議論などが進展せず、解決策が見つからない状態を指します。\n\n例：The negotiations reached an impasse. (交渉は行き詰まりに達した。)"
+    },
+    {
+      "id": 39,
+      "value": "duel",
+      "options": [
+        "協力",
+        "競争",
+        "調和",
+        "連帯"
+      ],
+      "correctAnswer": "競争",
+      "explanation": "「duel」は、決闘、対戦という意味です。主に二者間で行われる、名誉や権利をかけた戦いを指します。比喩的に、意見や能力を競い合う場面でも使われます。\n\n例：They engaged in a fierce duel of wits. (彼らは激しい知恵比べを繰り広げた。)"
+    },
+    {
+      "id": 40,
+      "value": "trivia",
+      "options": [
+        "重要な情報",
+        "詳細な分析",
+        "些細な知識",
+        "専門的な技術"
+      ],
+      "correctAnswer": "些細な知識",
+      "explanation": "「trivia」は、些細な知識、雑学という意味です。重要ではない、面白おかしい情報や知識を指します。\n\n例：He is a master of movie trivia. (彼は映画の雑学に精通している。)"
+    },
+    {
+      "id": 41,
+      "value": "eidetic memory",
+      "options": [
+        "短期記憶",
+        "長期記憶",
+        "完璧な記憶力",
+        "選択的記憶"
+      ],
+      "correctAnswer": "完璧な記憶力",
+      "explanation": "「eidetic memory」は、映像記憶、完璧な記憶力という意味です。一度見たものを正確に記憶し、詳細を思い出すことができる能力を指します。\n\n例：He has an eidetic memory, so he never forgets anything. (彼は映像記憶を持っており、何も忘れない。)"
+    },
+    {
+      "id": 42,
+      "value": "advantage",
+      "options": [
+        "不利",
+        "優位",
+        "平等",
+        "制約"
+      ],
+      "correctAnswer": "優位",
+      "explanation": "「advantage」は、有利、優位という意味です。競争や比較において、他よりも有利な条件や立場にあることを指します。\n\n例：His height gave him an advantage in basketball. (彼の身長はバスケットボールにおいて有利だった。)"
+    },
+    {
+      "id": 43,
+      "value": "strip club",
+      "options": [
+        "読書クラブ",
+        "社交クラブ",
+        "ストリップクラブ",
+        "スポーツクラブ"
+      ],
+      "correctAnswer": "ストリップクラブ",
+      "explanation": "「strip club」は、ストリップクラブのことです。ダンサーが服を脱ぐパフォーマンスを見せるナイトクラブを指します。\n\n例：He goes to the strip club every Friday. (彼は毎週金曜日にストリップクラブに行く。)"
+    },
+    {
+      "id": 44,
+      "value": "one-on-one",
+      "options": [
+        "集団行動",
+        "個人面談",
+        "共同作業",
+        "全体会議"
+      ],
+      "correctAnswer": "個人面談",
+      "explanation": "「one-on-one」は、一対一、個人間のという意味です。二人だけで行う活動や議論を指します。\n\n例：I have a one-on-one meeting with my boss tomorrow. (明日、上司と個人面談がある。)"
+    },
+    {
+      "id": 45,
+      "value": "dodging",
+      "options": [
+        "捕らえる",
+        "避ける",
+        "受け止める",
+        "無視する"
+      ],
+      "correctAnswer": "避ける",
+      "explanation": "「dodge」は、避ける、かわすという意味です。物理的に何かを避けるだけでなく、責任や質問などを巧みに避ける場合にも使われます。\n\n例：He dodged the question by changing the subject. (彼は話題を変えることで質問を避けた。)"
+    },
+    {
+      "id": 46,
+      "value": "dribbling",
+      "options": [
+        "パスする",
+        "ドリブルする",
+        "シュートする",
+        "ブロックする"
+      ],
+      "correctAnswer": "ドリブルする",
+      "explanation": "「dribble」は、ドリブルするという意味です。ボールを少しずつ弾ませながら進むことを指します。\n\n例：He is good at dribbling the ball. (彼はボールのドリブルが上手い。)"
+    },
+    {
+      "id": 47,
+      "value": "all the way",
+      "options": [
+        "途中で",
+        "完全に",
+        "部分的に",
+        "まれに"
+      ],
+      "correctAnswer": "完全に",
+      "explanation": "「all the way」は、完全に、最後までという意味です。目標を達成するまで、または完全に何かが完了するまで、という意味合いが含まれます。\n\n例：He supported her all the way. (彼は最後まで彼女を支えた。)"
+    },
+    {
+      "id": 48,
+      "value": "bullies",
+      "options": [
+        "協力者",
+        "いじめっ子",
+        "支援者",
+        "指導者"
+      ],
+      "correctAnswer": "いじめっ子",
+      "explanation": "「bully」は、いじめっ子、弱い者いじめをする人という意味です。力や権力を使って他人を苦しめる人を指します。\n\n例：He was bullied in high school. (彼は高校時代にいじめられた。)"
+    },
+    {
+      "id": 49,
+      "value": "hang on",
+      "options": [
+        "諦める",
+        "続ける",
+        "急ぐ",
+        "遅れる"
+      ],
+      "correctAnswer": "続ける",
+      "explanation": "「hang on」は、待つ、頑張る、持ちこたえるという意味です。困難な状況でも諦めずに続けることを励ます際に使われます。\n\n例：Hang on, we're almost there. (頑張って、もうすぐ着くよ。)"
+    },
+    {
+      "id": 50,
+      "value": "field of battle",
+      "options": [
+        "競争の舞台",
+        "安全地帯",
+        "協力の場",
+        "休憩場所"
+      ],
+      "correctAnswer": "競争の舞台",
+      "explanation": "「field of battle」は、戦場、競争の舞台という意味です。文字通りの戦場だけでなく、意見や能力を競い合う場を比喩的に表す場合にも使われます。\n\n例：The courtroom became a field of battle for the two lawyers. (法廷は二人の弁護士にとって競争の舞台となった。)"
+    },
+    {
+      "id": 51,
+      "value": "on purpose",
+      "options": [
+        "偶然に",
+        "手遅れで",
+        "意図的に",
+        "結果的に"
+      ],
+      "correctAnswer": "意図的に",
+      "explanation": "「on purpose」は「意図的に」「故意に」という意味です。ある行動が計画的、意図的に行われたことを強調する際に使用されます。 例：He broke the vase on purpose. (彼はわざと花瓶を割った。)"
+    },
+    {
+      "id": 52,
+      "value": "trash talk",
+      "options": [
+        "秘密の話",
+        "無駄話、口げんか",
+        "過去の栄光",
+        "感謝の言葉"
+      ],
+      "correctAnswer": "無駄話、口げんか",
+      "explanation": "「trash talk」は、スポーツや競争の文脈で、相手を挑発したり、自分の優位性を誇示するために行われる軽口や挑発的な言葉のことを指します。相手を心理的に揺さぶる目的で使用されます。 例：Before the boxing match, there was a lot of trash talk between the two fighters. (ボクシングの試合前、二人のファイターの間には多くの挑発的な言葉が飛び交った。)"
+    },
+    {
+      "id": 53,
+      "value": "get my motor running",
+      "options": [
+        "やる気になる",
+        "混乱する",
+        "疲れて動けない",
+        "車を修理する"
+      ],
+      "correctAnswer": "やる気になる",
+      "explanation": "「get someone's motor running」は、人を興奮させたり、やる気にさせたりするという意味のイディオムです。何かが非常に刺激的で、人にエネルギーを与え、活動的にさせる状況を表します。文字通りには、エンジンの回転を始めるという意味から派生しています。 例：That new song really gets my motor running. (あの新しい歌は本当に私をやる気にさせる。)"
+    },
+    {
+      "id": 54,
+      "value": "out of sight, out of mind",
+      "options": [
+        "一目惚れ",
+        "去る者は日々に疎し",
+        "二兎を追う者は一兎をも得ず",
+        "石の上にも三年"
+      ],
+      "correctAnswer": "去る者は日々に疎し",
+      "explanation": "「out of sight, out of mind」とは、「見えなくなると忘れ去られる」という意味のことわざです。物理的に近くにいないと、人の心から薄れていくことを指します。人間関係や物事に対する関心の薄れを表す際に使われます。 例：I moved to a new city, and it's been out of sight, out of mind with my old friends. (新しい街に引っ越して、昔の友達とは疎遠になってしまった。)"
+    },
+    {
+      "id": 55,
+      "value": "spoils",
+      "options": [
+        "戦利品",
+        "秘密",
+        "才能",
+        "失敗"
+      ],
+      "correctAnswer": "戦利品",
+      "explanation": "「spoils」は、戦いや競争で得られた戦利品や報酬、利益という意味です。勝利の結果として得られるものを指し、しばしば物質的なものや特権を含みます。 例：The spoils of war included gold, jewels, and land. (戦争の戦利品には、金、宝石、土地が含まれていた。)"
+    },
+    {
+      "id": 56,
+      "value": "drop by",
+      "options": [
+        "立ち寄る",
+        "手放す",
+        "落下する",
+        "忘れる"
+      ],
+      "correctAnswer": "立ち寄る",
+      "explanation": "「drop by」は、誰かの家や場所に予告なしに、または短い時間だけ立ち寄るという意味です。訪問が形式ばらない、または短い時間であることを示唆します。 例：Feel free to drop by my office anytime you have a question. (質問があればいつでも気軽に私のオフィスに立ち寄ってください。)"
+    },
+    {
+      "id": 57,
+      "value": "invisible",
+      "options": [
+        "ばかげた",
+        "内気な",
+        "目に見えない",
+        "引退した"
+      ],
+      "correctAnswer": "引退した",
+      "explanation": "ここでは、引退して社会から見えなくなったという意味で使われています。文字通りの意味ではなく、比喩的な表現です。"
+    },
+    {
+      "id": 58,
+      "value": "Don't bother",
+      "options": [
+        "気にしないで",
+        "頑張って",
+        "邪魔しないで",
+        "落ち着いて"
+      ],
+      "correctAnswer": "気にしないで",
+      "explanation": "「Don't bother」は、相手に何かをすること、特に自分を助けることを遠慮してもらうときに使います。「気にしないで」「構わないで」という意味合いです。 例：Don't bother cooking dinner, I already ate. (夕食を作るのはいいよ、もう食べたから。)"
+    },
+    {
+      "id": 59,
+      "value": "humiliated",
+      "options": [
+        "満足した",
+        "屈辱を受けた",
+        "興奮した",
+        "安心した"
+      ],
+      "correctAnswer": "屈辱を受けた",
+      "explanation": "「humiliated」は、非常に恥ずかしい思いをさせられた、面目を潰されたという意味です。自尊心を傷つけられ、恥ずかしさや不快感を強く感じている状態を表します。 例：She felt humiliated when she realized she had lipstick on her teeth. (彼女は歯に口紅がついていることに気づき、恥ずかしい思いをした。)"
+    },
+    {
+      "id": 60,
+      "value": "a fool from Summer Lovin’ to the very last rama lama lama ke ding a de dinga a dong",
+      "options": [
+        "最初から最後まで馬鹿だった",
+        "夏の間だけ馬鹿だった",
+        "最後まで賢かった",
+        "最初は賢かったが、最後は馬鹿だった"
+      ],
+      "correctAnswer": "最初から最後まで馬鹿だった",
+      "explanation": "これは映画『グリース』の歌の歌詞を引用したもので、「最初から最後までずっと馬鹿だった」という意味合いです。映画全体を通して自分が愚かだったと感じていることを強調する表現です。"
+    },
+    {
+      "id": 61,
+      "value": "free throw",
+      "options": [
+        "自由奔放",
+        "自由投",
+        "無料入場",
+        "自由時間"
+      ],
+      "correctAnswer": "自由投",
+      "explanation": "バスケットボール用語で、ファウルを受けた際に与えられるフリースローのこと。相手からの妨害を受けずにシュートを打てる機会。"
+    },
+    {
+      "id": 62,
+      "value": "prepare to",
+      "options": [
+        "準備運動",
+        "覚悟する",
+        "作成する",
+        "修理する"
+      ],
+      "correctAnswer": "覚悟する",
+      "explanation": "「prepare to」は、「～する覚悟をする」「～する準備をする」という意味です。これから起こることに対して心構えをする、または行動の準備をすることを表します。 例：Prepare to be amazed! (驚く覚悟をしてください！)"
+    },
+    {
+      "id": 63,
+      "value": "trampoline",
+      "options": [
+        "トランペット",
+        "トランポリン",
+        "トロフィー",
+        "トラクター"
+      ],
+      "correctAnswer": "トランポリン",
+      "explanation": "「trampoline」は、跳躍運動に使用する器具で、弾力性のある布をフレームに張ったものです。運動や遊びに用いられます。"
+    },
+    {
+      "id": 64,
+      "value": "bounce",
+      "options": [
+        "バウンドする",
+        "秘密にする",
+        "盗む",
+        "信じる"
+      ],
+      "correctAnswer": "バウンドする",
+      "explanation": "「bounce」は、ボールなどが跳ねる、反射するという意味です。物理的な跳ね返りの動作を表します。 例：The ball bounced high in the air. (ボールは空高く跳ね上がった。)"
+    },
+    {
+      "id": 65,
+      "value": "steroid",
+      "options": [
+        "殺虫剤",
+        "ステロイド",
+        "肥料",
+        "麻酔薬"
+      ],
+      "correctAnswer": "ステロイド",
+      "explanation": "「steroid」は、体内で自然に生成されるホルモンに似た合成化合物です。医学的な用途のほか、筋肉増強剤として使用されることもあります。副作用を伴う場合があります。"
+    },
+    {
+      "id": 66,
+      "value": "transvestite",
+      "options": [
+        "旅行者",
+        "変質者",
+        "両性具有",
+        "異性装者"
+      ],
+      "correctAnswer": "異性装者",
+      "explanation": "「transvestite」は、異性の服装をすることが好きな人を指す言葉です。性同一性障害とは異なります。文化的な意味合いで使用されることもあります。"
+    },
+    {
+      "id": 67,
+      "value": "sculpture",
+      "options": [
+        "処方箋",
+        "彫刻",
+        "聖書",
+        "脚本"
+      ],
+      "correctAnswer": "彫刻",
+      "explanation": "「sculpture」は、石、木、金属などの素材を削ったり、組み合わせたりして作られた立体的な美術作品のことです。芸術表現の一形態として、様々な文化で制作されています。"
+    },
+    {
+      "id": 68,
+      "value": "P.E.",
+      "options": [
+        "私立探偵",
+        "小学校",
+        "石油会社",
+        "体育"
+      ],
+      "correctAnswer": "体育",
+      "explanation": "Physical Educationの略で、学校の体育の授業を指します。"
+    },
+    {
+      "id": 69,
+      "value": "backboard",
+      "options": [
+        "裏口",
+        "黒板",
+        "バックボード",
+        "背表紙"
+      ],
+      "correctAnswer": "バックボード",
+      "explanation": "バスケットボールのゴールの後ろについている板のことです。"
+    },
+    {
+      "id": 70,
+      "value": "run up",
+      "options": [
+        "走り書き",
+        "駆け込み",
+        "上昇",
+        "増加"
+      ],
+      "correctAnswer": "駆け込み",
+      "explanation": "「run up」は、勢いをつけるために助走することを意味します。スポーツなどでよく使われます。"
+    },
+    {
+      "id": 71,
+      "value": "count of three",
+      "options": [
+        "3数える",
+        "3つの伯爵",
+        "3人組",
+        "3つの物語"
+      ],
+      "correctAnswer": "3数える",
+      "explanation": "「on the count of three」は、「3つ数えたら」という意味で、合図として使われます。"
+    },
+    {
+      "id": 72,
+      "value": "unsatisfactory",
+      "options": [
+        "不満",
+        "不満足",
+        "不適切",
+        "不幸"
+      ],
+      "correctAnswer": "不満足",
+      "explanation": "「unsatisfactory」は、期待や要求を満たしていない、不十分なという意味です。"
+    },
+    {
+      "id": 73,
+      "value": "force",
+      "options": [
+        "フォーラム",
+        "武力",
+        "フォース",
+        "運命"
+      ],
+      "correctAnswer": "フォース",
+      "explanation": "ここでは映画『スターウォーズ』に登場する超能力のことです。"
+    },
+    {
+      "id": 74,
+      "value": "collision",
+      "options": [
+        "連合",
+        "衝突",
+        "陰謀",
+        "創造"
+      ],
+      "correctAnswer": "衝突",
+      "explanation": "「collision」は、物体同士がぶつかること、衝突を意味します。事故や物理的な接触を表す際に用いられます。 例：There was a collision between two cars at the intersection. (交差点で2台の車が衝突した。)"
+    },
+    {
+      "id": 75,
+      "value": "wight",
+      "options": [
+        "軽い",
+        "人間",
+        "白い",
+        "右"
+      ],
+      "correctAnswer": "人間",
+      "explanation": "古語で「人間」という意味ですが、ここではKripkeがSheldonをからかうために、わざと発音を間違えて使っています。"
+    },
+    {
+      "id": 76,
+      "value": "asymmetrical",
+      "options": [
+        "対称的な",
+        "非対称的な",
+        "幾何学的な",
+        "抽象的な"
+      ],
+      "correctAnswer": "非対称的な",
+      "explanation": "「asymmetrical」は、左右または上下で対称でない、不均衡な状態を指します。人間関係においては、力のバランスや感情の深さが異なる状況を表すことがあります。\n\n例：Their relationship was asymmetrical, with one partner being more invested than the other. (彼らの関係は非対称的で、一方がもう一方よりも深く関わっていました。)"
+    },
+    {
+      "id": 77,
+      "value": "put a number on",
+      "options": [
+        "数で表す",
+        "秘密にする",
+        "重要視する",
+        "無視する"
+      ],
+      "correctAnswer": "数で表す",
+      "explanation": "「put a number on」は、数量や価値を数値で表現することを意味します。感情や抽象的な概念など、通常は数値化できないものに対して使われることが多いです。\n\n例：It's hard to put a number on the value of friendship. (友情の価値を数値で表すのは難しい。)"
+    },
+    {
+      "id": 78,
+      "value": "set someone back",
+      "options": [
+        "人を支援する",
+        "人を失望させる",
+        "費用がかかる",
+        "人を前進させる"
+      ],
+      "correctAnswer": "費用がかかる",
+      "explanation": "「set someone back」は、誰かに（通常はお金が）かかる、または損害を与えるという意味です。特に、予期せぬ出費や損失について使われます。\n\n例：The repairs to the car set me back a lot of money. (車の修理でかなりの費用がかかった。)"
+    },
+    {
+      "id": 79,
+      "value": "out of someone's life",
+      "options": [
+        "人生から",
+        "人生のために",
+        "人生について",
+        "人生の中で"
+      ],
+      "correctAnswer": "人生から",
+      "explanation": "「out of someone's life」は、誰かの人生から去る、または存在しなくなるという意味です。関係の終わりや距離を置く状況で使われます。\n\n例：I don't want you out of my life. (あなたに私の人生からいなくなってほしくない。)"
+    },
+    {
+      "id": 80,
+      "value": "damage is done",
+      "options": [
+        "損害は修復された",
+        "損害は大きい",
+        "もう手遅れだ",
+        "損害は小さい"
+      ],
+      "correctAnswer": "もう手遅れだ",
+      "explanation": "「damage is done」は、損害がすでに発生しており、それを元に戻すことができない、または手遅れであることを意味します。後悔や諦めの気持ちを込めて使われることが多いです。\n\n例：The damage is done, there's no point in crying over spilled milk. (もう手遅れだ、覆水盆に返らず。)"
+    },
+    {
+      "id": 81,
+      "value": "constant reminder",
+      "options": [
+        "時々の思い出",
+        "忘れられない思い出",
+        "絶え間ない注意",
+        "常に思い出させるもの"
+      ],
+      "correctAnswer": "常に思い出させるもの",
+      "explanation": "「constant reminder」は、常に何かを思い出させるもの、または注意を喚起するものを指します。良い意味でも悪い意味でも使われます。\n\n例：The old photograph was a constant reminder of her childhood. (その古い写真は、彼女の子供時代を常に思い出させるものだった。)"
+    },
+    {
+      "id": 82,
+      "value": "screw her",
+      "options": [
+        "彼女を助ける",
+        "彼女を無視する",
+        "彼女を責める",
+        "彼女を称賛する"
+      ],
+      "correctAnswer": "彼女を無視する",
+      "explanation": "「screw her」は、人を軽蔑し、無視する、または気にしないという意味の非常に口語的な表現です。強い感情的なニュアンスを含み、通常は親しい間柄でのみ使われます。\n\n例：Oh, screw him, he doesn't deserve your attention. (彼なんか無視しなよ、あなたの注意を引く価値なんてない。)"
+    },
+    {
+      "id": 83,
+      "value": "affix",
+      "options": [
+        "取り外す",
+        "固定する",
+        "無視する",
+        "拒否する"
+      ],
+      "correctAnswer": "固定する",
+      "explanation": "「affix」は、何かをしっかりと固定する、貼り付けるという意味です。物理的なものだけでなく、名前や署名などを加える場合にも使われます。\n\n例：Affix the label to the package. (パッケージにラベルを貼り付けてください。)"
+    },
+    {
+      "id": 84,
+      "value": "tear through",
+      "options": [
+        "縫い合わせる",
+        "ゆっくりと通る",
+        "突き破る",
+        "避けて通る"
+      ],
+      "correctAnswer": "突き破る",
+      "explanation": "「tear through」は、何かを勢いよく突き破る、または非常に速く通過するという意味です。物理的な破壊だけでなく、困難や障害を乗り越える様子を表すこともあります。\n\n例：The bullet tore through the window. (銃弾が窓を突き破った。)"
+    },
+    {
+      "id": 85,
+      "value": "hot flashes",
+      "options": [
+        "涼しい閃光",
+        "強い光",
+        "急な熱感",
+        "冷たい空気"
+      ],
+      "correctAnswer": "急な熱感",
+      "explanation": "「hot flashes」は、更年期障害の女性が経験する急な熱感を指します。体温が急上昇し、発汗や顔の赤みなどを伴うことがあります。\n\n例：She's been having hot flashes lately. (彼女は最近、急な熱感がある。)"
+    },
+    {
+      "id": 86,
+      "value": "narrowed it down",
+      "options": [
+        "広げた",
+        "特定した",
+        "減らした",
+        "複雑にした"
+      ],
+      "correctAnswer": "減らした",
+      "explanation": "「narrowed it down」は、選択肢や可能性を絞り込む、減らすという意味です。問題解決や意思決定のプロセスでよく使われます。\n\n例：I've narrowed it down to two possible candidates. (私は候補者を2人に絞り込みました。)"
+    },
+    {
+      "id": 87,
+      "value": "out of tune",
+      "options": [
+        "調和している",
+        "素晴らしい",
+        "調子が悪い",
+        "新しい"
+      ],
+      "correctAnswer": "調子が悪い",
+      "explanation": "「out of tune」は、音程がずれている、または調和が取れていないという意味です。音楽だけでなく、意見や感情が一致しない状況を表すこともあります。\n\n例：The piano was out of tune. (ピアノの調律が狂っていた。)"
+    },
+    {
+      "id": 88,
+      "value": "on purpose",
+      "options": [
+        "偶然に",
+        "無意識に",
+        "意図的に",
+        "仕方なく"
+      ],
+      "correctAnswer": "意図的に",
+      "explanation": "「on purpose」は、意図的に、わざとという意味です。計画や意図を持って行動することを表します。\n\n例：He did it on purpose to annoy me. (彼は私をイライラさせるためにわざとそうした。)"
+    },
+    {
+      "id": 89,
+      "value": "wacky bastard",
+      "options": [
+        "賢い人",
+        "普通の仲間",
+        "風変わりな人",
+        "信頼できる友人"
+      ],
+      "correctAnswer": "風変わりな人",
+      "explanation": "「wacky bastard」は、風変わりで奇妙な人を指す、やや侮辱的な表現です。「bastard」はここでは「やつ」「野郎」のような意味合いで使われています。\n\n例：He's a wacky bastard, but I like him. (彼は風変わりなやつだが、私は彼のことが好きだ。)"
+    },
+    {
+      "id": 90,
+      "value": "stretch out",
+      "options": [
+        "縮める",
+        "短くする",
+        "伸ばす",
+        "丸める"
+      ],
+      "correctAnswer": "伸ばす",
+      "explanation": "「stretch out」は、何かを伸ばす、広げるという意味です。物理的なものだけでなく、時間や空間を拡張する場合にも使われます。\n\n例：I stretched out my legs. (私は足を伸ばした。)"
+    },
+    {
+      "id": 91,
+      "value": "pluck",
+      "options": [
+        "演奏する",
+        "隠す",
+        "守る",
+        "固定する"
+      ],
+      "correctAnswer": "演奏する",
+      "explanation": "「pluck」は、弦楽器などをはじいて音を出すという意味です。また、花や果実をもぎ取るという意味もあります。\n\n例：She plucked the strings of the guitar. (彼女はギターの弦をはじいた。)"
+    },
+    {
+      "id": 92,
+      "value": "evict",
+      "options": [
+        "招待する",
+        "追い出す",
+        "保護する",
+        "歓迎する"
+      ],
+      "correctAnswer": "追い出す",
+      "explanation": "「evict」は、法的手段を用いて人や動物を住居や土地から追い出すという意味です。通常、家賃の滞納や契約違反などが理由となります。\n\n例：The landlord evicted the tenant for not paying rent. (家主は家賃を払わないテナントを追い出した。)"
+    },
+    {
+      "id": 93,
+      "value": "geode",
+      "options": [
+        "天文学者",
+        "地図製作者",
+        "晶洞石",
+        "生物学者"
+      ],
+      "correctAnswer": "晶洞石",
+      "explanation": "「geode」は、内部に結晶が形成された球状の岩石、晶洞石を指します。地質学や鉱物学の分野で使われる言葉です。\n\n例：She collected geodes as a hobby. (彼女は趣味で晶洞石を集めていた。)"
+    },
+    {
+      "id": 94,
+      "value": "feldspar",
+      "options": [
+        "砂漠",
+        "長石",
+        "溶岩",
+        "石灰岩"
+      ],
+      "correctAnswer": "長石",
+      "explanation": "「feldspar」は、地球の地殻に最も多く存在する造岩鉱物の一つ、長石を指します。陶磁器やガラスの原料としても使われます。\n\n例：Feldspar is an important component of granite. (長石は花崗岩の重要な構成要素である。)"
+    },
+    {
+      "id": 95,
+      "value": "let someone in on a secret",
+      "options": [
+        "秘密を隠す",
+        "秘密を共有する",
+        "秘密を忘れる",
+        "秘密を暴く"
+      ],
+      "correctAnswer": "秘密を共有する",
+      "explanation": "「let someone in on a secret」は、誰かに秘密を打ち明ける、共有するという意味です。信頼関係がある相手に対して使われます。\n\n例：I'll let you in on a little secret. (ちょっとした秘密を教えよう。)"
+    },
+    {
+      "id": 96,
+      "value": "good call",
+      "options": [
+        "良い知らせ",
+        "正しい判断",
+        "悪い知らせ",
+        "間違った判断"
+      ],
+      "correctAnswer": "正しい判断",
+      "explanation": "「good call」は、良い判断、正しい選択という意味です。相手の決断や行動を褒める際に使われます。\n\n例：That was a good call. (それは良い判断だったね。)"
+    },
+    {
+      "id": 97,
+      "value": "hang in there",
+      "options": [
+        "手伝う",
+        "諦める",
+        "頑張る",
+        "忘れる"
+      ],
+      "correctAnswer": "頑張る",
+      "explanation": "「hang in there」は、困難な状況でも諦めずに頑張る、持ちこたえるという意味です。励ましの言葉としてよく使われます。\n\n例：Hang in there, everything will be alright. (頑張って、きっとうまくいくよ。)"
+    },
+    {
+      "id": 98,
+      "value": "scientific curiosity",
+      "options": [
+        "科学的な好奇心",
+        "個人的な興味",
+        "日常的な疑問",
+        "技術的な知識"
+      ],
+      "correctAnswer": "科学的な好奇心",
+      "explanation": "「scientific curiosity」は、科学的な事柄に対する好奇心や探求心を指します。新しい発見や知識を求める原動力となります。\n\n例：His scientific curiosity led him to a great discovery. (彼の科学的な好奇心が、彼を偉大な発見へと導いた。)"
+    },
+    {
+      "id": 99,
+      "value": "warm, soapy water",
+      "options": [
+        "冷たい水",
+        "お湯",
+        "温かい石鹸水",
+        "氷水"
+      ],
+      "correctAnswer": "温かい石鹸水",
+      "explanation": "「warm, soapy water」は、温かい石鹸水を指します。掃除や洗浄によく使われます。\n\n例：Use warm, soapy water to clean the surface. (表面をきれいにするには、温かい石鹸水を使用してください。)"
+    },
+    {
+      "id": 100,
+      "value": "take",
+      "options": [
+        "与える",
+        "取る",
+        "描く",
+        "破壊する"
+      ],
+      "correctAnswer": "取る",
+      "explanation": "写真を取るという意味で使われています。\n\n例：Takes out phone and takes a photo (携帯電話を取り出して、写真を撮る)"
+    }
+  ]
+}

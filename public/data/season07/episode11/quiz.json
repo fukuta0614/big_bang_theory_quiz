@@ -1,0 +1,1084 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "centre of gravity",
+      "options": [
+        "重力の中心",
+        "注意の中心",
+        "活動の中心",
+        "問題の中心"
+      ],
+      "correctAnswer": "重力の中心",
+      "explanation": "「centre of gravity」は、文字通りには「重力の中心」という意味ですが、比喩的には「活動の中心」「重要な場所」という意味でも使われます。物理的な意味合いだけでなく、物事の中心となる要素を指す場合にも用いられます。"
+    },
+    {
+      "id": 2,
+      "value": "sprain",
+      "options": [
+        "捻挫",
+        "骨折",
+        "打撲",
+        "切り傷"
+      ],
+      "correctAnswer": "捻挫",
+      "explanation": "「sprain」は、関節の靭帯などを痛める「捻挫」という意味です。スポーツなどでよく起こる怪我を指す際に用いられます。"
+    },
+    {
+      "id": 3,
+      "value": "on my way out",
+      "options": [
+        "出発するところ",
+        "準備しているところ",
+        "休憩しているところ",
+        "帰宅するところ"
+      ],
+      "correctAnswer": "出発するところ",
+      "explanation": "「on my way out」は、「出かけるところ」「出発するところ」という意味です。文字通り、今まさにどこかへ向かおうとしている状況を表します。"
+    },
+    {
+      "id": 4,
+      "value": "came down with",
+      "options": [
+        "思いついた",
+        "同意した",
+        "病気になった",
+        "手に入れた"
+      ],
+      "correctAnswer": "病気になった",
+      "explanation": "「come down with」は、病気にかかる、罹患するという意味のイディオムです。軽い病気から重い病気まで幅広く使えます。"
+    },
+    {
+      "id": 5,
+      "value": "lucky duck",
+      "options": [
+        "幸運な人",
+        "臆病な人",
+        "お人好し",
+        "嘘つき"
+      ],
+      "correctAnswer": "幸運な人",
+      "explanation": "「lucky duck」は、幸運な人、運の良い人を指す表現です。少しユーモラスなニュアンスを含みます。"
+    },
+    {
+      "id": 6,
+      "value": "due",
+      "options": [
+        "予定されている",
+        "終わった",
+        "延期された",
+        "中止になった"
+      ],
+      "correctAnswer": "予定されている",
+      "explanation": "「due」は、ここでは出産予定日など、何かが起こる予定の期日を表します。また、「be due to」で「～することになっている」という意味にもなります。"
+    },
+    {
+      "id": 7,
+      "value": "chop-chop",
+      "options": [
+        "急いで",
+        "ゆっくりと",
+        "秘密に",
+        "正直に"
+      ],
+      "correctAnswer": "急いで",
+      "explanation": "「chop-chop」は、急げ、早くしろ、という意味の口語表現です。特に、せかしたい時に使われます。植民地時代に中国人が使っていた英語が起源とされています。"
+    },
+    {
+      "id": 8,
+      "value": "out the window",
+      "options": [
+        "無視される",
+        "改善される",
+        "明確にされる",
+        "支持される"
+      ],
+      "correctAnswer": "無視される",
+      "explanation": "「out the window」は、「ご破算になる」「無視される」という意味のイディオムです。計画やルールが実行されなくなる状況を表します。"
+    },
+    {
+      "id": 9,
+      "value": "ridiculous",
+      "options": [
+        "ばかげた",
+        "素晴らしい",
+        "重要な",
+        "現実的な"
+      ],
+      "correctAnswer": "ばかげた",
+      "explanation": "「ridiculous」は、「ばかげた」「馬鹿らしい」という意味です。非合理的で、笑いを誘うような状況を表します。"
+    },
+    {
+      "id": 10,
+      "value": "kickstarter campaign",
+      "options": [
+        "クラウドファンディング",
+        "ボイコット運動",
+        "選挙活動",
+        "抗議デモ"
+      ],
+      "correctAnswer": "クラウドファンディング",
+      "explanation": "「Kickstarter campaign」は、クラウドファンディングのキャンペーンのことです。Kickstarterは、クリエイターがプロジェクトへの資金を一般から集めるためのプラットフォームです。"
+    },
+    {
+      "id": 11,
+      "value": "holding strong",
+      "options": [
+        "安定している",
+        "崩れかけている",
+        "加速している",
+        "停止している"
+      ],
+      "correctAnswer": "安定している",
+      "explanation": "「holding strong」は、「持ちこたえている」「健在である」という意味です。困難な状況でも、現状を維持している状態を表します。"
+    },
+    {
+      "id": 12,
+      "value": "Welcome to the Thunderdome",
+      "options": [
+        "弱肉強食の世界へようこそ",
+        "安全な場所へようこそ",
+        "平和な世界へようこそ",
+        "退屈な場所へようこそ"
+      ],
+      "correctAnswer": "弱肉強食の世界へようこそ",
+      "explanation": "「Welcome to the Thunderdome」は、映画『マッドマックス』シリーズに登場するフレーズで、「弱肉強食の世界へようこそ」という意味合いで使われます。ここでは、ルールが無くなり、何でもありのカオスな状況を面白おかしく表現するために使われています。"
+    },
+    {
+      "id": 13,
+      "value": "Bar Mitzvah",
+      "options": [
+        "ユダヤ教の成人式",
+        "キリスト教の洗礼式",
+        "イスラム教の断食",
+        "仏教の葬式"
+      ],
+      "correctAnswer": "ユダヤ教の成人式",
+      "explanation": "「Bar Mitzvah」は、ユダヤ教の成人式のことを指します。13歳の男子が行う儀式で、宗教的な責任を負う年齢に達したことを祝います。"
+    },
+    {
+      "id": 14,
+      "value": "strapped for cash",
+      "options": [
+        "金欠である",
+        "時間に余裕がある",
+        "人手が足りない",
+        "食料が豊富である"
+      ],
+      "correctAnswer": "金欠である",
+      "explanation": "「strapped for cash」は、「お金に困っている」「金欠である」という意味の口語的な表現です。一時的な金銭的な困難を表します。"
+    },
+    {
+      "id": 15,
+      "value": "throw a party",
+      "options": [
+        "パーティーを開く",
+        "パーティーに招待する",
+        "パーティーを邪魔する",
+        "パーティーを計画する"
+      ],
+      "correctAnswer": "パーティーを開く",
+      "explanation": "「throw a party」は、「パーティーを開く」「催す」という意味の一般的な表現です。"
+    },
+    {
+      "id": 16,
+      "value": "thoughtful",
+      "options": [
+        "思いやりのある",
+        "無神経な",
+        "忘れっぽい",
+        "頑固な"
+      ],
+      "correctAnswer": "思いやりのある",
+      "explanation": "「thoughtful」は、「思いやりのある」「配慮のある」という意味です。人の気持ちを理解し、行動できることを表します。"
+    },
+    {
+      "id": 17,
+      "value": "go into labor",
+      "options": [
+        "陣痛が始まる",
+        "仕事に取り掛かる",
+        "休暇に入る",
+        "破産する"
+      ],
+      "correctAnswer": "陣痛が始まる",
+      "explanation": "「go into labor」は、「陣痛が始まる」「出産が始まる」という意味です。"
+    },
+    {
+      "id": 18,
+      "value": "home birth",
+      "options": [
+        "自宅出産",
+        "代理出産",
+        "無痛分娩",
+        "水中出産"
+      ],
+      "correctAnswer": "自宅出産",
+      "explanation": "「home birth」は、「自宅出産」という意味です。病院ではなく、自宅で出産することを指します。"
+    },
+    {
+      "id": 19,
+      "value": "Stone Age",
+      "options": [
+        "石器時代",
+        "青銅器時代",
+        "鉄器時代",
+        "現代"
+      ],
+      "correctAnswer": "石器時代",
+      "explanation": "「Stone Age」は、「石器時代」という意味です。ここでは、原始的な生活様式を指す比喩として使われています。"
+    },
+    {
+      "id": 20,
+      "value": "nurtured",
+      "options": [
+        "育まれる",
+        "無視される",
+        "攻撃される",
+        "隔離される"
+      ],
+      "correctAnswer": "育まれる",
+      "explanation": "「nurture」は、「育む」「養育する」という意味です。ここでは、愛情やケアを受けて成長することを指します。"
+    },
+    {
+      "id": 21,
+      "value": "amniotic",
+      "options": [
+        "羊水の",
+        "血液の",
+        "骨の",
+        "筋肉の"
+      ],
+      "correctAnswer": "羊水の",
+      "explanation": "「amniotic」は、「羊水の」という意味です。妊娠中に胎児を包む羊水に関連する言葉です。"
+    },
+    {
+      "id": 22,
+      "value": "Slip 'n Slide",
+      "options": [
+        "ウォータースライダー",
+        "滑り台",
+        "シーソー",
+        "ブランコ"
+      ],
+      "correctAnswer": "ウォータースライダー",
+      "explanation": "「Slip 'n Slide」は、水を使って滑るおもちゃ、簡易ウォータースライダーのことです。ここでは、羊水で滑る様子をユーモラスに表現しています。"
+    },
+    {
+      "id": 23,
+      "value": "fully dilated",
+      "options": [
+        "全開",
+        "閉鎖",
+        "収縮",
+        "拡張"
+      ],
+      "correctAnswer": "全開",
+      "explanation": "「fully dilated」は、分娩時に子宮口が全開になっている状態を指します。出産が間近であることを意味します。"
+    },
+    {
+      "id": 24,
+      "value": "pick the wrong day",
+      "options": [
+        "日を間違える",
+        "良い日を選ぶ",
+        "悪い日を選ぶ",
+        "日を忘れる"
+      ],
+      "correctAnswer": "悪い日を選ぶ",
+      "explanation": "「pick the wrong day」は、「日を間違える」「都合の悪い日を選んでしまう」という意味です。ここでは、Tシャツを着る日として不適切だったことを後悔する様子を表しています。"
+    },
+    {
+      "id": 25,
+      "value": "It's a Wonderful Life",
+      "options": [
+        "素晴らしき哉、人生！",
+        "嵐が丘",
+        "罪と罰",
+        "レ・ミゼラブル"
+      ],
+      "correctAnswer": "素晴らしき哉、人生！",
+      "explanation": "「It's a Wonderful Life」は、フランク・キャプラ監督の有名なクリスマス映画のタイトルです。人生の価値や意味を問いかける感動的な物語です。"
+    },
+    {
+      "id": 26,
+      "value": "depressed",
+      "options": [
+        "喜んで",
+        "退屈して",
+        "憂鬱で",
+        "興奮して"
+      ],
+      "correctAnswer": "憂鬱で",
+      "explanation": "「depressed」は、気分が落ち込んでいる、憂鬱な状態を表します。一時的な悲しみや落ち込みよりも深刻で、持続的な感情の状態を指すことが多いです。臨床的には、うつ病の症状としても現れます。\n\n例文：She felt depressed after losing her job. (彼女は仕事を失って憂鬱になった。)"
+    },
+    {
+      "id": 27,
+      "value": "living it",
+      "options": [
+        "それを生きている",
+        "それを想像している",
+        "それを否定している",
+        "それを無視している"
+      ],
+      "correctAnswer": "それを生きている",
+      "explanation": "「Living it」は、文字通りには「それを生きている」という意味ですが、この文脈では、Stuartが映画の中のdepressedな状態を、まるで自分の現実であるかのように感じていることを強調しています。つまり、「映画の中の憂鬱な状況を、まさに今、自分が経験している」というニュアンスが含まれています。\n\n例：You think this is bad? I'm living it! （これでも悪いと思ってる？俺はそれを生きているんだ！）"
+    },
+    {
+      "id": 28,
+      "value": "pick up",
+      "options": [
+        "拾う",
+        "車で迎えに行く",
+        "ナンパする",
+        "購入する"
+      ],
+      "correctAnswer": "ナンパする",
+      "explanation": "「pick up」は、ここでは「ナンパする」という意味で使われています。誰かを誘ったり、恋愛関係を始めるために話しかけたりする行為を指します。口語的な表現です。\n\n例：He tried to pick her up at the bar. (彼はバーで彼女をナンパしようとした。)"
+    },
+    {
+      "id": 29,
+      "value": "gonna",
+      "options": [
+        "行った",
+        "だろう",
+        "～するつもり",
+        "～しなければならない"
+      ],
+      "correctAnswer": "～するつもり",
+      "explanation": "「gonna」は、「going to」の口語的な短縮形です。「～するつもり」「～だろう」という意味で、未来の予定や意図を表します。日常会話で非常によく使われます。\n\n例：I'm gonna go to the store later. (後で店に行くつもりです。)"
+    },
+    {
+      "id": 30,
+      "value": "squirt",
+      "options": [
+        "食べる",
+        "飲む",
+        "噴出させる",
+        "こぼす"
+      ],
+      "correctAnswer": "噴出させる",
+      "explanation": "「squirt」は、液体などを勢いよく噴出させるという意味です。ここでは、ありえないこと、ばかげたことを強調するために使われています。\n\n例文：The ketchup squirted out of the bottle.（ケチャップがボトルから噴出した。）"
+    },
+    {
+      "id": 31,
+      "value": "nipples",
+      "options": [
+        "肘",
+        "膝",
+        "乳首",
+        "指"
+      ],
+      "correctAnswer": "乳首",
+      "explanation": "「nipples」は、乳首という意味です。この文脈では、ありえないこと、ばかげたことを強調するために使われています。\n\n例文：The baby suckled at her nipple.（赤ちゃんは彼女の乳首を吸った。）"
+    },
+    {
+      "id": 32,
+      "value": "on your own",
+      "options": [
+        "あなた自身で",
+        "彼らと一緒に",
+        "急いで",
+        "手伝って"
+      ],
+      "correctAnswer": "あなた自身で",
+      "explanation": "「on your own」は、「一人で」「自分自身で」という意味です。誰の助けも借りずに、自分だけで何かを行うことを指します。\n\n例：He decided to start his own business and work on his own. (彼は自分でビジネスを始めて、一人で働くことに決めた。)"
+    },
+    {
+      "id": 33,
+      "value": "too late",
+      "options": [
+        "早すぎる",
+        "時間通り",
+        "遅すぎる",
+        "準備万端"
+      ],
+      "correctAnswer": "遅すぎる",
+      "explanation": "「too late」は、「遅すぎる」という意味です。機会を逃したり、手遅れになった状況を表します。\n\n例：I'm afraid it's too late to change your mind. (残念ながら、今更考えを変えるのは遅すぎます。)"
+    },
+    {
+      "id": 34,
+      "value": "nail it",
+      "options": [
+        "失敗する",
+        "成功する",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「nail it」は、「うまくやる」「成功させる」という意味の口語表現です。特に、何か難しいことや挑戦的なことをやり遂げたときに使われます。\n\n例：She was nervous about the presentation, but she nailed it. (彼女はプレゼンテーションについて緊張していたが、うまくやり遂げた。)"
+    },
+    {
+      "id": 35,
+      "value": "set up",
+      "options": [
+        "解体する",
+        "設定する",
+        "だます",
+        "紹介する"
+      ],
+      "correctAnswer": "紹介する",
+      "explanation": "「set up」は、ここでは「（デートなどを）セッティングする」「紹介する」という意味で使われています。二人の人が恋愛関係になるように取り持つことを指します。\n\n例：She set me up with her friend. (彼女は私を彼女の友達と紹介してくれた。)"
+    },
+    {
+      "id": 36,
+      "value": "beefcake factory",
+      "options": [
+        "ケーキ工場",
+        "肉体労働の場所",
+        "化粧品工場",
+        "お菓子工場"
+      ],
+      "correctAnswer": "肉体労働の場所",
+      "explanation": "「beefcake factory」は、体が鍛えられた男性が多い場所、またはそのような男性が集まる状況を指す、比喩的な表現です。Howardが自分自身を指して言っていることから、彼がそのような男性に囲まれて働いている、または自分がそのような男性の一人であるという意味合いが含まれます。どちらの意味にしても、ややユーモラスで自虐的なニュアンスがあります。\n\n例文：I work at the gym, it's a total beefcake factory."
+    },
+    {
+      "id": 37,
+      "value": "all over me",
+      "options": [
+        "私を避けて",
+        "私の周りに",
+        "私に夢中で",
+        "私を批判して"
+      ],
+      "correctAnswer": "私に夢中で",
+      "explanation": "「all over me」は、「私に夢中になる」「私に群がる」という意味です。ここでは、BernadetteがHowardに夢中になるだろうという状況を指しています。性的な意味合いを含むこともあります。\n\n例：The fans were all over the band after the concert. (コンサートの後、ファンはバンドに群がっていた。)"
+    },
+    {
+      "id": 38,
+      "value": "open wide",
+      "options": [
+        "広く開けて",
+        "閉じて",
+        "小さく開けて",
+        "無視して"
+      ],
+      "correctAnswer": "広く開けて",
+      "explanation": "「open wide」は、「口を大きく開けて」という意味です。ここでは、食べ物や愛情を受け入れることを示唆するユーモラスな表現として使われています。\n\n例：The doctor told the child to open wide. (医者は子供に口を大きく開けるように言った。)"
+    },
+    {
+      "id": 39,
+      "value": "happy train",
+      "options": [
+        "悲しい列車",
+        "退屈な列車",
+        "楽しい列車",
+        "普通の列車"
+      ],
+      "correctAnswer": "楽しい列車",
+      "explanation": "「happy train」は、食べ物を口に運ぶことを比喩的に表現した、ユーモラスな表現です。特に、子供に食べさせるときによく使われます。この文脈では、HowardがBernadetteに夢中になっている状況を面白おかしく表現しています。\n\n例：Here comes the happy train! Open your mouth! (楽しい列車が来るよ！口を開けて！)"
+    },
+    {
+      "id": 40,
+      "value": "chug-a-chug-a",
+      "options": [
+        "静かに",
+        "急いで",
+        "ゆっくりと",
+        "蒸気機関車の音"
+      ],
+      "correctAnswer": "蒸気機関車の音",
+      "explanation": "「chug-a-chug-a」は、蒸気機関車の音を模した擬音語です。ここでは、食べ物を口に運ぶ様子を面白おかしく表現するために使われています。\n\n例：The train went chug-a-chug-a up the hill. (列車は丘を登るときに、シュッシュッポッポと音を立てた。)"
+    },
+    {
+      "id": 41,
+      "value": "yum, yum",
+      "options": [
+        "まずい",
+        "とてもおいしい",
+        "普通",
+        "食べられない"
+      ],
+      "correctAnswer": "とてもおいしい",
+      "explanation": "「yum, yum」は、食べ物がおいしいときに発する言葉です。特に子供が使うことが多いですが、大人もユーモラスに表現する際に使います。\n\n例：This cake is so yum, yum! (このケーキはとてもおいしい！)"
+    },
+    {
+      "id": 42,
+      "value": "Hang on",
+      "options": [
+        "諦めて",
+        "頑張って",
+        "待って",
+        "進んで"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on」は、「ちょっと待って」「 Hold on」という意味です。相手に少しの間待つように頼むときに使います。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+    },
+    {
+      "id": 43,
+      "value": "Never mind",
+      "options": [
+        "気にしないで",
+        "おめでとう",
+        "頑張って",
+        "手伝って"
+      ],
+      "correctAnswer": "気にしないで",
+      "explanation": "「Never mind」は、「気にしないで」「どうでもいい」という意味です。何かを訂正したり、重要でないことを伝えたりするときに使います。\n\n例：Never mind, I'll do it myself. (気にしないで、私が自分でやるよ。)"
+    },
+    {
+      "id": 44,
+      "value": "end up with",
+      "options": [
+        "～を捨てる",
+        "～と仲良くする",
+        "～と結婚する",
+        "最終的に～になる"
+      ],
+      "correctAnswer": "最終的に～になる",
+      "explanation": "「end up with」は、「最終的に～になる」「～で終わる」という意味です。意図したわけではない結果や状況に陥ることを表します。\n\n例：If you don't study, you'll end up with bad grades. (勉強しないと、最終的に悪い成績になるよ。)"
+    },
+    {
+      "id": 45,
+      "value": "babe",
+      "options": [
+        "友人",
+        "先生",
+        "恋人",
+        "同僚"
+      ],
+      "correctAnswer": "恋人",
+      "explanation": "「babe」は、恋人や親しい間柄の人を呼ぶときに使う言葉です。愛情を込めたニュアンスがあります。\n\n例：Hey babe, how was your day? (ねえ、恋人、今日はどうだった？)"
+    },
+    {
+      "id": 46,
+      "value": "magic beans",
+      "options": [
+        "魔法の豆",
+        "コーヒー豆",
+        "普通の豆",
+        "毒豆"
+      ],
+      "correctAnswer": "魔法の豆",
+      "explanation": "「magic beans」は、「ジャックと豆の木」に出てくる魔法の豆を指します。ここでは、非現実的で役に立たないものを買ったことを示すために使われています。愚かさや無計画さを表現する際に用いられます。\n\n例文：He sold his car and bought magic beans. (彼は車を売って魔法の豆を買った。)"
+    },
+    {
+      "id": 47,
+      "value": "hold on",
+      "options": [
+        "離して",
+        "つかまって",
+        "待って",
+        "諦めて"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「hold on」は、「待って」「ちょっと待って」という意味です。相手に少しの間待つように頼むときに使います。\n\n例：Hold on a minute, I need to grab my keys. (ちょっと待って、鍵を取ってくる必要がある。)"
+    },
+    {
+      "id": 48,
+      "value": "see things",
+      "options": [
+        "物を見る",
+        "理解する",
+        "幻覚を見る",
+        "隠す"
+      ],
+      "correctAnswer": "幻覚を見る",
+      "explanation": "「see things」は、「幻覚を見る」「ありえないものを見る」という意味です。現実とは異なるものを見ている状態を表します。\n\n例文：After the accident, he started to see things that weren't there. (事故の後、彼はそこにないものを見るようになった。)"
+    },
+    {
+      "id": 49,
+      "value": "Lady things",
+      "options": [
+        "女性のもの",
+        "日常のもの",
+        "大切なもの",
+        "秘密のもの"
+      ],
+      "correctAnswer": "女性のもの",
+      "explanation": "「lady things」は婉曲的な表現で、ここでは女性特有の身体的なこと、例えば生理用品などを指していると考えられます。ここでは、Sheldonが普段見慣れないものを見て混乱している状況をユーモラスに表現しています。\n\n例文：I had to buy some lady things at the store. (店で女性のものをいくつか買わなければならなかった。)"
+    },
+    {
+      "id": 50,
+      "value": "the way they look",
+      "options": [
+        "見える方法",
+        "あるべき姿",
+        "実際の様子",
+        "想像上の姿"
+      ],
+      "correctAnswer": "実際の様子",
+      "explanation": "「the way they look」は、「それらがどのように見えるか」「実際の様子」という意味です。ここでは、女性特有のものが普段とは違う状態になっていることを示唆しています。\n\n例文：That's not the way they usually look. (それは普段の様子とは違う。)"
+    },
+    {
+      "id": 51,
+      "value": "birth canal",
+      "options": [
+        "誕生の通路",
+        "産道",
+        "生殖器",
+        "子宮"
+      ],
+      "correctAnswer": "産道",
+      "explanation": "「birth canal」は、医学用語で「産道」を意味します。赤ちゃんが生まれる際に通る道を指します。口語的な表現ではありません。"
+    },
+    {
+      "id": 52,
+      "value": "sawed a cow in half",
+      "options": [
+        "牛を半分に切る",
+        "簡単なこと",
+        "困難なこと",
+        "ありえないこと"
+      ],
+      "correctAnswer": "牛を半分に切る",
+      "explanation": "「sawed a cow in half」は、出産時の苦痛を例えるために使われた比喩表現です。非常に苦痛で大変な状況を強調するために用いられています。"
+    },
+    {
+      "id": 53,
+      "value": "handle it",
+      "options": [
+        "対応できる",
+        "無視する",
+        "拒否する",
+        "混乱する"
+      ],
+      "correctAnswer": "対応できる",
+      "explanation": "「handle it」は、問題や状況に対処・対応できるという意味です。自信や能力を示す際に使われます。例：I can handle it myself. (私自身で対応できます。)"
+    },
+    {
+      "id": 54,
+      "value": "inference",
+      "options": [
+        "推論",
+        "事実",
+        "質問",
+        "意見"
+      ],
+      "correctAnswer": "推論",
+      "explanation": "「inference」は、観察や情報に基づいて結論を導き出す「推論」という意味です。直接的な証拠がない場合に、間接的な情報から判断する際に用いられます。学術的な文脈でもよく使われます。"
+    },
+    {
+      "id": 55,
+      "value": "justified",
+      "options": [
+        "正当化された",
+        "非難された",
+        "無視された",
+        "隠蔽された"
+      ],
+      "correctAnswer": "正当化された",
+      "explanation": "「justified」は、「正当化された」「妥当である」という意味です。行動や意見、判断などが正しい理由や根拠があることを示します。例：His actions were justified by the circumstances.(彼の行動は状況によって正当化された。)"
+    },
+    {
+      "id": 56,
+      "value": "asymmetrical",
+      "options": [
+        "非対称の",
+        "対称の",
+        "美しい",
+        "魅力的な"
+      ],
+      "correctAnswer": "非対称の",
+      "explanation": "「asymmetrical」は、「非対称の」という意味です。左右または上下で形や大きさが異なり、均整が取れていない状態を表します。美術、建築、数学など、さまざまな分野で使用されます。The garden had an asymmetrical design. (その庭は非対称なデザインだった。)"
+    },
+    {
+      "id": 57,
+      "value": "saving myself for someone special",
+      "options": [
+        "特別な人のために純潔を守る",
+        "誰かを救う",
+        "自分自身を大切にする",
+        "特別な場所を確保する"
+      ],
+      "correctAnswer": "特別な人のために純潔を守る",
+      "explanation": "「saving myself for someone special」は、恋愛や性的な関係を特定の人まで待つ、つまり純潔を守るという意味です。価値観や信念に関連する表現で、現代では多様な解釈があります。"
+    },
+    {
+      "id": 58,
+      "value": "take advantage of",
+      "options": [
+        "利用する",
+        "無視する",
+        "避ける",
+        "感謝する"
+      ],
+      "correctAnswer": "利用する",
+      "explanation": "「take advantage of」は、「～を利用する」という意味です。機会や状況を有効に活用するという良い意味でも、人や弱みを不当に利用するという悪い意味でも使われます。文脈によってニュアンスが異なります。例：We should take advantage of the good weather and go to the beach. (良い天気を活用してビーチに行くべきだ。)"
+    },
+    {
+      "id": 59,
+      "value": "vague request",
+      "options": [
+        "曖昧な要求",
+        "明確な要求",
+        "緊急の要求",
+        "秘密の要求"
+      ],
+      "correctAnswer": "曖昧な要求",
+      "explanation": "「vague request」は、「曖昧な要求」という意味です。具体的に何をしてほしいのかがはっきりしない要求を指します。指示や依頼が不明確で、解釈の余地がある場合に用いられます。The instructions were too vague, so I didn't know what to do. (指示があまりにも曖昧だったので、どうすればいいのかわからなかった。)"
+    },
+    {
+      "id": 60,
+      "value": "legend",
+      "options": [
+        "伝説",
+        "現実",
+        "噂",
+        "物語"
+      ],
+      "correctAnswer": "伝説",
+      "explanation": "「legend」は、「伝説」または「（特定の分野で）非常に有名な人」という意味です。人々の記憶に長く残る偉業や物語を指します。例：She is a legend in the world of classical music.(彼女はクラシック音楽界の伝説だ。)"
+    },
+    {
+      "id": 61,
+      "value": "breast-feeding",
+      "options": [
+        "授乳",
+        "食事",
+        "睡眠",
+        "運動"
+      ],
+      "correctAnswer": "授乳",
+      "explanation": "「breast-feeding」は、「授乳」という意味です。母親が自分の母乳で赤ちゃんを育てる行為を指します。医学や育児の分野で一般的に使われる言葉です。"
+    },
+    {
+      "id": 62,
+      "value": "starving",
+      "options": [
+        "飢えている",
+        "満足している",
+        "怒っている",
+        "疲れている"
+      ],
+      "correctAnswer": "飢えている",
+      "explanation": "「starving」は、「飢えている」という意味です。食べ物がなくて非常に空腹な状態を指します。比喩的に、何かを強く求めている状態を表すこともあります。例：I'm starving for some good news.（何か良い知らせをすごく求めている）"
+    },
+    {
+      "id": 63,
+      "value": "cleaned out",
+      "options": [
+        "空にした",
+        "掃除した",
+        "満たした",
+        "修理した"
+      ],
+      "correctAnswer": "空にした",
+      "explanation": "「clean out」は、「空にする」「きれいにする」という意味です。物を整理して不要なものを取り除くという意味合いがあります。例文：I need to clean out my closet.（クローゼットを整理する必要がある）"
+    },
+    {
+      "id": 64,
+      "value": "tomato, tomahto",
+      "options": [
+        "どちらでも同じ",
+        "全く違う",
+        "非常に重要",
+        "どうでもいい"
+      ],
+      "correctAnswer": "どちらでも同じ",
+      "explanation": "「tomato, tomahto」は、「発音や表現は違うけれど、意味はほとんど同じ」ということを表すイディオムです。些細な違いにこだわる必要がないというニュアンスで使われます。これはアメリカ英語での発音の違いに基づいています。"
+    },
+    {
+      "id": 65,
+      "value": "ladies' man",
+      "options": [
+        "女好き",
+        "紳士",
+        "臆病者",
+        "引きこもり"
+      ],
+      "correctAnswer": "女好き",
+      "explanation": "「ladies' man」は、女性に非常に人気があり、女性を惹きつける魅力的な男性を指します。必ずしも否定的な意味ではなく、むしろ羨望のまなざしで見られることもあります。"
+    },
+    {
+      "id": 76,
+      "value": "enabler",
+      "options": [
+        "邪魔するもの",
+        "促進するもの",
+        "無効にするもの",
+        "反対するもの"
+      ],
+      "correctAnswer": "促進するもの",
+      "explanation": "「enabler」は、人が悪い習慣や依存症を続けるのを手助けする人、または状況を指します。ここでは、ラージがレナードの過食を助長する存在であることを意味しています。ビジネスの文脈では、何かを可能にする要因という意味にもなります。"
+    },
+    {
+      "id": 77,
+      "value": "deep-fried",
+      "options": [
+        "焼く",
+        "蒸す",
+        "揚げる",
+        "煮る"
+      ],
+      "correctAnswer": "揚げる",
+      "explanation": "「deep-fried」は、食品を油で完全に浸して揚げる調理法を指します。ジャンクフードやスナック菓子によく用いられる表現です。例：deep-fried chicken (フライドチキン)"
+    },
+    {
+      "id": 78,
+      "value": "fantasy sequence",
+      "options": [
+        "料理の順番",
+        "夢想場面",
+        "最終段階",
+        "重要な秘密"
+      ],
+      "correctAnswer": "夢想場面",
+      "explanation": "「fantasy sequence」とは、映画やドラマなどで、登場人物の想像や願望が映像化された場面を指します。現実とは異なる、非現実的な状況が描かれることが多いです。"
+    },
+    {
+      "id": 79,
+      "value": "honks",
+      "options": [
+        "ささやく",
+        "鳴らす",
+        "歌う",
+        "踊る"
+      ],
+      "correctAnswer": "鳴らす",
+      "explanation": "「honk」は、クラクションやガチョウなどの鳥が音を鳴らすことを意味します。ここでは、パーティー用のクラッカーを鳴らす様子を表しています。騒がしい音を出すイメージです。"
+    },
+    {
+      "id": 80,
+      "value": "irritating",
+      "options": [
+        "喜ばしい",
+        "落ち着いた",
+        "苛立たしい",
+        "満足な"
+      ],
+      "correctAnswer": "苛立たしい",
+      "explanation": "「irritating」は、人をイライラさせる、不快にさせるという意味です。ここでは、シェルドンが生まれたばかりの甥に対して感じている感情を表しています。類義語としてはannoying, bothersomeなどがあります。"
+    },
+    {
+      "id": 81,
+      "value": "take after",
+      "options": [
+        "追いかける",
+        "似ている",
+        "連れて行く",
+        "取り返す"
+      ],
+      "correctAnswer": "似ている",
+      "explanation": "「take after」は、家族（特に親）の性格や外見が似ているという意味の句動詞です。例：He takes after his father in character. (彼は性格が父親に似ている。)"
+    },
+    {
+      "id": 82,
+      "value": "role model",
+      "options": [
+        "反面教師",
+        "役割分担",
+        "良い手本",
+        "劇の配役"
+      ],
+      "correctAnswer": "良い手本",
+      "explanation": "「role model」は、行動や業績が模範となる人物、手本となる人を指します。子供や若い世代が良い影響を受ける対象として使われます。尊敬できる人物という意味合いが含まれます。"
+    },
+    {
+      "id": 83,
+      "value": "attention span",
+      "options": [
+        "注意散漫",
+        "集中力",
+        "生活費",
+        "価値観"
+      ],
+      "correctAnswer": "集中力",
+      "explanation": "「attention span」は、注意を持続できる時間、集中力を意味します。短い集中力は「short attention span」と表現されます。例：Children generally have a shorter attention span than adults. (一般的に子供は大​​人よりも集中力が短い。)"
+    },
+    {
+      "id": 84,
+      "value": "bladder control",
+      "options": [
+        "膀胱炎",
+        "利尿作用",
+        "排尿抑制",
+        "膀胱の制御"
+      ],
+      "correctAnswer": "膀胱の制御",
+      "explanation": "「bladder control」は、排尿をコントロールする能力を意味します。特に幼児や高齢者において、この能力が未発達または低下することがあります。ここでは、生まれたばかりの甥の排尿コントロールが未熟であることを指しています。"
+    },
+    {
+      "id": 85,
+      "value": "impact on",
+      "options": [
+        "影響を与える",
+        "衝突する",
+        "影響を受ける",
+        "反対する"
+      ],
+      "correctAnswer": "影響を与える",
+      "explanation": "「impact on」は、「〜に影響を与える」という意味の句動詞です。良い影響にも悪い影響にも使われます。ここでは、エイミーがシェルドンに与えた影響について述べています。名詞のimpactは衝撃という意味です。"
+    },
+    {
+      "id": 86,
+      "value": "sack of rice",
+      "options": [
+        "米の袋",
+        "給料袋",
+        "スポーツバッグ",
+        "お土産"
+      ],
+      "correctAnswer": "米の袋",
+      "explanation": "「sack of rice」は、文字通り米が入った袋のことですが、ここではエイミーがシェルドンのTシャツを着せた米袋を抱いて寝ているという比喩的な表現です。寂しさを紛らわせるための代用品として使われています。"
+    },
+    {
+      "id": 87,
+      "value": "early Christmas present",
+      "options": [
+        "内緒のプレゼント",
+        "サプライズプレゼント",
+        "早めのクリスマスプレゼント",
+        "最後のチャンス"
+      ],
+      "correctAnswer": "早めのクリスマスプレゼント",
+      "explanation": "「early Christmas present」は、クリスマス前に贈られるプレゼントのことです。ここでは、レナードがシェルドンの秘密をエイミーに教えることを指しています。期待感やサプライズのニュアンスが含まれます。"
+    },
+    {
+      "id": 88,
+      "value": "screensaver",
+      "options": [
+        "日焼け止め",
+        "目隠し",
+        "画面保護",
+        "スクリーンセーバー"
+      ],
+      "correctAnswer": "スクリーンセーバー",
+      "explanation": "「screensaver」は、コンピューターの画面が一定時間操作されないときに表示される画像やアニメーションのことです。ここでは、シェルドンがエイミーをスクリーンセーバーに設定していることが、彼がエイミーを大切に思っている証拠として示されています。"
+    },
+    {
+      "id": 89,
+      "value": "into me",
+      "options": [
+        "夢中",
+        "嫌い",
+        "無関心",
+        "敵意"
+      ],
+      "correctAnswer": "夢中",
+      "explanation": "「into me」は、「私に夢中」という意味のスラングです。恋愛感情や興味を持っていることを表現します。ここでは、シェルドンがエイミーに好意を寄せていることを意味します。Be into で〜に夢中という意味になります。"
+    },
+    {
+      "id": 90,
+      "value": "in the mix",
+      "options": [
+        "混乱している",
+        "仲間入り",
+        "邪魔",
+        "準備中"
+      ],
+      "correctAnswer": "仲間入り",
+      "explanation": "「in the mix」は、「仲間に入っている」「混ざっている」という意味です。ここでは、シェルドンのスクリーンセーバーの中にエイミーが含まれていることを指しています。重要な要素の一部として認識されていることを示唆します。"
+    },
+    {
+      "id": 91,
+      "value": "catch up on",
+      "options": [
+        "見失う",
+        "最新の状態にする",
+        "捕まえる",
+        "置き去りにする"
+      ],
+      "correctAnswer": "最新の状態にする",
+      "explanation": "「catch up on」は、「遅れを取り戻す」「最新の状態にする」という意味の句動詞です。ここでは、シェルドンが甥の世話で遅れたテレビ番組をまとめて見ようとしていることを指しています。catch up with ~ で〜に追いつくという意味でも使われます。"
+    },
+    {
+      "id": 92,
+      "value": "to quote",
+      "options": [
+        "引用すると",
+        "要約すると",
+        "解釈すると",
+        "提案すると"
+      ],
+      "correctAnswer": "引用すると",
+      "explanation": "「to quote」は、「引用すると」という意味の表現です。ここでは、シェルドンが映画「スター・ウォーズ」のハン・ソロのセリフを引用して、エイミーに自分の気持ちを伝えようとしています。フォーマルな場面でも使用されます。"
+    },
+    {
+      "id": 93,
+      "value": "blank, innocent eyes",
+      "options": [
+        "鋭い目つき",
+        "無邪気な目",
+        "疲れた目",
+        "怒りの目"
+      ],
+      "correctAnswer": "無邪気な目",
+      "explanation": "「blank, innocent eyes」は、「何も知らない、無垢な目」という意味です。ここでは、生まれたばかりの赤ちゃんの純粋さを強調しています。しかし、シェルドンにとっては理解不能な存在であることを示唆する皮肉な表現でもあります。"
+    },
+    {
+      "id": 94,
+      "value": "basically",
+      "options": [
+        "表面上は",
+        "基本的に",
+        "詳細には",
+        "偶然に"
+      ],
+      "correctAnswer": "基本的に",
+      "explanation": "「basically」は、「基本的には」「要するに」という意味の副詞です。ここでは、シェルドンが赤ちゃんを見ることと普段の仕事との類似点を強調するために使っています。本質を語る際に用いられます。"
+    },
+    {
+      "id": 95,
+      "value": "ask her out",
+      "options": [
+        "仲間に入れる",
+        "デートに誘う",
+        "追いかける",
+        "見送る"
+      ],
+      "correctAnswer": "デートに誘う",
+      "explanation": "「ask out」は、「（異性を）デートに誘う」という意味の句動詞です。ここでは、レナードがペニーをデートに誘おうとしている場面です。類義語としては、invite on a date があります。"
+    },
+    {
+      "id": 96,
+      "value": "squirt out",
+      "options": [
+        "こぼれる",
+        "流れ出る",
+        "噴出する",
+        "沸騰する"
+      ],
+      "correctAnswer": "噴出する",
+      "explanation": "「squirt out」は、液体が勢いよく噴き出す様子を表す句動詞です。ここでは、ありえないことの比喩として使われており、ハワードの言葉の信憑性の低さを強調しています。類義語はspurt, gushなどがあります。"
+    },
+    {
+      "id": 97,
+      "value": "put up or shut up",
+      "options": [
+        "諦める",
+        "証明するか黙るか",
+        "我慢する",
+        "謝る"
+      ],
+      "correctAnswer": "証明するか黙るか",
+      "explanation": "「put up or shut up」は、「口先だけでなく行動で示せ」「有言実行せよ」という意味の強い表現です。ここでは、ラージがレナードに本当にペニーを誘うつもりがあるのかどうかを問い詰めています。言ったことを実行しない人に対する非難として使われます。"
+    },
+    {
+      "id": 98,
+      "value": "sweetheart",
+      "options": [
+        "恋人",
+        "親愛なる人",
+        "友人",
+        "家族"
+      ],
+      "correctAnswer": "親愛なる人",
+      "explanation": "「sweetheart」は、恋人や親しい人に対する愛情を込めた呼びかけです。ここでは、ペニーがスチュアートに対して愛情を込めて使っています。恋人だけでなく、子供や親しい友人にも使えます。"
+    },
+    {
+      "id": 99,
+      "value": "Hang on.",
+      "options": [
+        "電話を切る",
+        "待って",
+        "頑張って",
+        "諦める"
+      ],
+      "correctAnswer": "待って",
+      "explanation": "「Hang on.」は、相手に少し待ってほしいときに使う口語表現です。電話で使うこともできますが、ここでは会話を中断して注意を引くために使われています。より丁寧な言い方としては、Please wait. があります。"
+    },
+    {
+      "id": 100,
+      "value": "void",
+      "options": [
+        "空間",
+        "欲求",
+        "個性",
+        "成功"
+      ],
+      "correctAnswer": "欲求",
+      "explanation": "「void」は、空虚感や喪失感を表す名詞です。ここでは、レナードが恋人がいない寂しさを食べ物で埋めようとする状況を表しています。形容詞としては「無効な」という意味になります。例：fill the void (心の隙間を埋める)"
+    }
+  ]
+}

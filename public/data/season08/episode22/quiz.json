@@ -1,0 +1,1060 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "figure it out",
+      "options": [
+        "あきらめる",
+        "理解する/解決する",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "理解する/解決する",
+      "explanation": "「figure out」は、問題や状況を理解する、解決策を見つけ出すという意味です。困難な状況や複雑な問題に対して使われることが多いです。\n\n例：I need to figure out how to fix this computer. (このコンピューターの直し方を理解する必要がある。)"
+    },
+    {
+      "id": 2,
+      "value": "last minute",
+      "options": [
+        "最初",
+        "最終段階",
+        "重要な",
+        "不要な"
+      ],
+      "correctAnswer": "最終段階",
+      "explanation": "「last minute」は、文字通り「最後の瞬間」という意味で、何かをする時間や機会がほとんど残っていない状態を指します。急いで何かを済ませる必要がある状況でよく使われます。\n\n例：I always do my homework at the last minute. (私はいつも宿題を最後の最後にする。)"
+    },
+    {
+      "id": 3,
+      "value": "pomp and circumstance",
+      "options": [
+        "質素倹約",
+        "華美な儀式",
+        "冷静沈着",
+        "自由奔放"
+      ],
+      "correctAnswer": "華美な儀式",
+      "explanation": "「pomp and circumstance」は、華やかで形式ばった儀式やイベントを指すイディオムです。卒業式、結婚式、戴冠式など、伝統的で荘厳な雰囲気を伴う行事で用いられます。\n\n例：The graduation ceremony was full of pomp and circumstance. (卒業式は華美な儀式で満ち溢れていた。)"
+    },
+    {
+      "id": 4,
+      "value": "stomping grounds",
+      "options": [
+        "静養地",
+        "馴染みの場所",
+        "遊び場",
+        "職場"
+      ],
+      "correctAnswer": "馴染みの場所",
+      "explanation": "「stomping grounds」は、人がよく訪れる場所、馴染みのある場所、活動拠点という意味です。過去に頻繁に訪れていた場所を指すことが多いです。\n\n例：This used to be my stomping grounds when I was a student. (ここは学生の頃、私の馴染みの場所だった。)"
+    },
+    {
+      "id": 5,
+      "value": "pack light",
+      "options": [
+        "荷物を少なくする",
+        "急いで荷造りする",
+        "重い荷物を持つ",
+        "明るく荷造りする"
+      ],
+      "correctAnswer": "荷物を少なくする",
+      "explanation": "「pack light」は、旅行などの際に荷物を少なくまとめるという意味です。身軽に行動できるように、必要最小限のものだけを持っていくことを指します。\n\n例：I always try to pack light when I travel. (私は旅行するときはいつも荷物を少なくするようにしている。)"
+    },
+    {
+      "id": 6,
+      "value": "get a bad rap",
+      "options": [
+        "良い評判を得る",
+        "悪い評判を受ける",
+        "注目を集める",
+        "忘れられる"
+      ],
+      "correctAnswer": "悪い評判を受ける",
+      "explanation": "「get a bad rap」は、不当に悪い評判を受ける、悪く言われるという意味です。実際よりも悪いイメージを持たれている状況を指します。\n\n例：This neighborhood gets a bad rap, but it's actually very safe. (この地域は悪い評判を受けているが、実際にはとても安全だ。)"
+    },
+    {
+      "id": 7,
+      "value": "suck",
+      "options": [
+        "素晴らしい",
+        "最悪だ",
+        "普通だ",
+        "面白い"
+      ],
+      "correctAnswer": "最悪だ",
+      "explanation": "「suck」は、俗語で「最悪だ」「ひどい」という意味です。不快な状況や失望した気持ちを表す際に使われます。\n\n例：This movie sucks! (この映画は最悪だ！)"
+    },
+    {
+      "id": 8,
+      "value": "esteemed",
+      "options": [
+        "軽蔑された",
+        "尊敬された",
+        "無視された",
+        "忘れられた"
+      ],
+      "correctAnswer": "尊敬された",
+      "explanation": "「esteemed」は、尊敬されている、高く評価されているという意味です。特に、その人の業績や人格が優れている場合に用いられます。\n\n例：He is an esteemed colleague. (彼は尊敬される同僚だ。)"
+    },
+    {
+      "id": 9,
+      "value": "recalibrate",
+      "options": [
+        "再調整する",
+        "破壊する",
+        "無視する",
+        "新しくする"
+      ],
+      "correctAnswer": "再調整する",
+      "explanation": "「recalibrate」は、再調整する、再調整を行うという意味です。機械やシステムを元の状態に戻したり、精度を高めるために調整し直すことを指します。\n\n例：We need to recalibrate the machine. (その機械を再調整する必要がある。)"
+    },
+    {
+      "id": 10,
+      "value": "throw in",
+      "options": [
+        "投げる",
+        "追加する",
+        "削除する",
+        "隠す"
+      ],
+      "correctAnswer": "追加する",
+      "explanation": "「throw in」は、何かを追加する、付け加えるという意味です。特に、手軽に追加できるものや、ついでに行うような場合に用いられます。\n\n例：I'll throw in a free dessert. (無料のデザートをおまけにつけます。)"
+    },
+    {
+      "id": 11,
+      "value": "take my chances",
+      "options": [
+        "機会を逃す",
+        "危険を冒す",
+        "安全策を取る",
+        "計画を立てる"
+      ],
+      "correctAnswer": "危険を冒す",
+      "explanation": "「take my chances」は、危険を冒す、運を天に任せるという意味です。不確実な状況やリスクがあることを承知の上で、あえて行動することを指します。\n\n例：I know it's risky, but I'll take my chances. (危険だとわかっているが、私は危険を冒す。)"
+    },
+    {
+      "id": 12,
+      "value": "sharing this experience",
+      "options": [
+        "秘密にする",
+        "経験を共有する",
+        "経験を無視する",
+        "経験を忘れる"
+      ],
+      "correctAnswer": "経験を共有する",
+      "explanation": "「sharing this experience」は、この経験を共有するという意味です。他の人と共に同じ経験を分かち合うことを指します。\n\n例：We are sharing this experience with our friends. (私たちはこの経験を友達と共有している。)"
+    },
+    {
+      "id": 13,
+      "value": "put my junk in a garlic press",
+      "options": [
+        "嬉しい",
+        "絶対に嫌だ",
+        "検討する",
+        "わからない"
+      ],
+      "correctAnswer": "絶対に嫌だ",
+      "explanation": "これは非常にユーモラスで誇張された表現で、「絶対に～したくない」という強い拒否感を意味します。比喩的に、耐え難いほど不快なことを避けるために使うことができます。\n\n例：'Would you ever go bungee jumping?' 'No way, I'd rather put my junk in a garlic press!'（「バンジージャンプをすることはありますか？」「絶対に嫌だ、それならニンニク絞り器に自分を入れた方がましだ！」）"
+    },
+    {
+      "id": 26,
+      "value": "at least",
+      "options": [
+        "せいぜい",
+        "少なくとも",
+        "多くとも",
+        "およそ"
+      ],
+      "correctAnswer": "少なくとも",
+      "explanation": "「at least」は、「少なくとも」「最低でも」という意味で、ある数値や量の下限を示す際に使用されます。予想される最小限の程度や数を示すニュアンスがあります。\n例：It will take at least two hours to finish this task. (このタスクを終えるには、少なくとも2時間はかかるだろう。)"
+    },
+    {
+      "id": 27,
+      "value": "going with",
+      "options": [
+        "賛成する",
+        "反対する",
+        "理解する",
+        "拒否する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「go with」は、ここでは「(考え方や意見に)賛成する、同意する」「(状況や流れを)理解する」という意味合いで使用されています。相手が言いたいことや提案を理解していることを示す表現です。\n例：I'm going with your idea. (あなたのアイデアに賛成です。)"
+    },
+    {
+      "id": 28,
+      "value": "simple enough",
+      "options": [
+        "十分に複雑",
+        "非常に簡単",
+        "かなり難しい",
+        "ほどほどに良い"
+      ],
+      "correctAnswer": "非常に簡単",
+      "explanation": "「simple enough」は、「十分に簡単」「容易である」という意味で、あるタスクやプロセスが実行可能であることを表します。ここでは、ドローンの校正作業が難しくないことを示唆しています。\n例：The instructions were simple enough for anyone to understand. (その説明は誰でも理解できるほど簡単だった。)"
+    },
+    {
+      "id": 29,
+      "value": "start over",
+      "options": [
+        "継続する",
+        "最初からやり直す",
+        "中断する",
+        "無視する"
+      ],
+      "correctAnswer": "最初からやり直す",
+      "explanation": "「start over」は、「最初からやり直す」「再開する」という意味です。失敗や間違いがあった際に、最初から再度試みることを示します。\n例：If you make a mistake, just start over. (もし間違えたら、最初からやり直せばいい。)"
+    },
+    {
+      "id": 30,
+      "value": "on your own",
+      "options": [
+        "自力で",
+        "誰かと一緒に",
+        "指示に従って",
+        "援助を受けて"
+      ],
+      "correctAnswer": "自力で",
+      "explanation": "「on your own」は、「自力で」「独力で」という意味で、誰の助けも借りずに自分自身で何かを行うことを指します。ここでは、経済的に自立することを意味します。\n例：Now that you're an adult, you're on your own. (もう大人なんだから、自立しなさい。)"
+    },
+    {
+      "id": 31,
+      "value": "every now and then",
+      "options": [
+        "いつも",
+        "ごくたまに",
+        "毎日",
+        "毎週"
+      ],
+      "correctAnswer": "ごくたまに",
+      "explanation": "「every now and then」は、「時々」「たまに」という意味で、不定期に起こることを示します。頻度はそれほど高くありません。\n例：I go to the cinema every now and then. (私は時々映画館に行きます。)"
+    },
+    {
+      "id": 32,
+      "value": "cutting you off",
+      "options": [
+        "援助する",
+        "連絡を絶つ",
+        "見捨てる",
+        "中断する"
+      ],
+      "correctAnswer": "中断する",
+      "explanation": "「cut someone off」は、ここでは「（経済的援助などを）打ち切る、中断する」という意味です。親が子供への経済的支援を停止する状況などで使われます。\n例：The company decided to cut off funding for the project. (会社はそのプロジェクトへの資金提供を打ち切ることに決めた。)"
+    },
+    {
+      "id": 33,
+      "value": "playtime's over",
+      "options": [
+        "休憩時間",
+        "遊びの時間はおしまい",
+        "仕事の時間",
+        "楽しい時間"
+      ],
+      "correctAnswer": "遊びの時間はおしまい",
+      "explanation": "「playtime's over」は、「遊びの時間はおしまい」「ふざけている場合ではない」という意味で、真剣に取り組むべき時が来たことを示します。ここでは、ドローンの分解作業に本腰を入れる状況を表しています。\n例：Alright, playtime's over, let's get to work. (よし、遊びは終わりだ。仕事に取り掛かろう。)"
+    },
+    {
+      "id": 34,
+      "value": "void the warranty",
+      "options": [
+        "保証を有効にする",
+        "保証を無効にする",
+        "保証を延長する",
+        "保証を確認する"
+      ],
+      "correctAnswer": "保証を無効にする",
+      "explanation": "「void the warranty」は、「保証を無効にする」という意味で、製品の改造や不適切な使用によってメーカーの保証が受けられなくなることを指します。\n例：Opening the device will void the warranty. (その装置を開けると保証が無効になります。)"
+    },
+    {
+      "id": 35,
+      "value": "pays for itself",
+      "options": [
+        "高価である",
+        "割に合わない",
+        "元が取れる",
+        "無駄になる"
+      ],
+      "correctAnswer": "元が取れる",
+      "explanation": "「pay for itself」は、「元が取れる」「費用対効果が高い」という意味で、投資や購入したものが、その後の利益や節約によって初期費用を回収できることを指します。\n例：Investing in solar panels pays for itself in the long run. (ソーラーパネルへの投資は長期的には元が取れる。)"
+    },
+    {
+      "id": 36,
+      "value": "cheer you up",
+      "options": [
+        "悲しませる",
+        "励ます",
+        "混乱させる",
+        "無視する"
+      ],
+      "correctAnswer": "励ます",
+      "explanation": "「cheer someone up」は、「（人）を元気づける、励ます」という意味です。相手の気分を明るくするために何かをすることを指します。\n例：I bought you some flowers to cheer you up. (あなたを元気づけるために花を買ってきたよ。)"
+    },
+    {
+      "id": 37,
+      "value": "cap and gown",
+      "options": [
+        "帽子と手袋",
+        "制服",
+        "卒業式の帽子とガウン",
+        "カジュアルな服装"
+      ],
+      "correctAnswer": "卒業式の帽子とガウン",
+      "explanation": "「cap and gown」は、「卒業式の帽子とガウン」を指します。卒業式などの式典で着用される伝統的な衣装です。\n例: He wore a cap and gown at his graduation ceremony. (彼は卒業式で帽子とガウンを着用した。)"
+    },
+    {
+      "id": 38,
+      "value": "wheelhouse",
+      "options": [
+        "得意分野",
+        "苦手分野",
+        "興味のないこと",
+        "嫌いなこと"
+      ],
+      "correctAnswer": "得意分野",
+      "explanation": "「wheelhouse」は、「得意分野」「専門分野」という意味で、人が最も能力を発揮できる分野や領域を指します。野球のバッターが最も打ちやすいコースを表す言葉としても使われます。\n例：This project is right in my wheelhouse. (このプロジェクトはまさに私の得意分野です。)"
+    },
+    {
+      "id": 39,
+      "value": "Boy, oh, boy",
+      "options": [
+        "特に何もない",
+        "うんざり",
+        "驚きや感嘆",
+        "悲しみ"
+      ],
+      "correctAnswer": "驚きや感嘆",
+      "explanation": "「Boy, oh, boy」は、驚き、感嘆、または失望を表す感嘆詞です。文脈によって意味合いが異なりますが、ここでは驚きを表しています。\n例：Boy, oh, boy, that's a lot of work to do. (ああ、これはたくさんの仕事があるなあ。)"
+    },
+    {
+      "id": 40,
+      "value": "familiar with",
+      "options": [
+        "無関心",
+        "精通している",
+        "嫌悪感がある",
+        "恐れている"
+      ],
+      "correctAnswer": "精通している",
+      "explanation": "「familiar with」は、「～に精通している」「～についてよく知っている」という意味で、ある事柄について知識や経験があることを示します。\n例：Are you familiar with this software? (このソフトウェアについてよく知っていますか？)"
+    },
+    {
+      "id": 41,
+      "value": "technically",
+      "options": [
+        "技術的に",
+        "厳密に言えば",
+        "一般的に",
+        "非公式に"
+      ],
+      "correctAnswer": "厳密に言えば",
+      "explanation": "「technically」は、「厳密に言えば」「形式上は」という意味で、正確な定義や規則に基づいて述べる際に使用されます。必ずしも実質的な意味合いを伴わない場合があります。\n例：Technically, he is still the boss, even though he doesn't come to the office anymore. (厳密に言えば、彼はもうオフィスに来ないけど、まだ上司だ。)"
+    },
+    {
+      "id": 42,
+      "value": "indulging",
+      "options": [
+        "制限する",
+        "甘やかす",
+        "無視する",
+        "非難する"
+      ],
+      "correctAnswer": "甘やかす",
+      "explanation": "「indulge」は、「甘やかす」「ほしいままにする」という意味で、人の欲求や願望を満足させることを指します。過度に甘やかすニュアンスが含まれることがあります。\n例：I indulged in a chocolate cake after a long day. (長い一日の後、チョコレートケーキを思う存分食べた。)"
+    },
+    {
+      "id": 43,
+      "value": "made up",
+      "options": [
+        "未定",
+        "決心した",
+        "曖昧な",
+        "不明確な"
+      ],
+      "correctAnswer": "決心した",
+      "explanation": "「(one's) mind is made up」は、「決心した」「心に決めた」という意味で、考えが変わらないことを示します。強い意志を表す表現です。\n例：My mind is made up, I'm going to travel the world. (決心したんだ、世界を旅するつもりだ。)"
+    },
+    {
+      "id": 44,
+      "value": "void",
+      "options": [
+        "満たすもの",
+        "空虚",
+        "喜び",
+        "充実"
+      ],
+      "correctAnswer": "空虚",
+      "explanation": "「void」は、「空虚」「空っぽ」という意味で、喪失感や欠如感を伴う心の状態を指します。ここでは、家族との離別による心の空虚さを表しています。\n例：The death of his wife left a great void in his life. (彼の妻の死は、彼の人生に大きな空虚を残した。)"
+    },
+    {
+      "id": 45,
+      "value": "in the long run",
+      "options": [
+        "短期的には",
+        "長期的には",
+        "今すぐ",
+        " कभी नहीं"
+      ],
+      "correctAnswer": "長期的には",
+      "explanation": "「in the long run」は、「長期的には」「結局は」という意味で、長い目で見ると有利になることや、最終的な結果を示す際に使用されます。\n例：Investing in education pays off in the long run. (教育への投資は長期的には報われる。)"
+    },
+    {
+      "id": 46,
+      "value": "commencement speech",
+      "options": [
+        "スピーチの練習",
+        "卒業式典でのスピーチ",
+        "入学式典でのスピーチ",
+        "演説"
+      ],
+      "correctAnswer": "卒業式典でのスピーチ",
+      "explanation": "「commencement speech」は、「卒業式典でのスピーチ」「卒業生を送るスピーチ」を指します。卒業生に向けて、激励や人生の教訓などを語るスピーチです。\n例：The commencement speech was very inspiring. (卒業式のスピーチは非常に感動的だった。)"
+    },
+    {
+      "id": 47,
+      "value": "miniaturized",
+      "options": [
+        "巨大化された",
+        "標準化された",
+        "小型化された",
+        "複雑化された"
+      ],
+      "correctAnswer": "小型化された",
+      "explanation": "「miniaturized」は、「小型化された」「ミニチュア化された」という意味で、通常よりも小さく作られたものを指します。技術的な文脈でよく使われます。\n例：The company is developing miniaturized sensors for medical use. (その会社は医療用に小型化されたセンサーを開発している。)"
+    },
+    {
+      "id": 48,
+      "value": "integrated",
+      "options": [
+        "分離された",
+        "統合された",
+        "単純化された",
+        "複雑化された"
+      ],
+      "correctAnswer": "統合された",
+      "explanation": "「integrated」は、「統合された」「一体化された」という意味で、複数の要素が組み合わさって一つのシステムや機能として動作することを指します。\n例：The new software is fully integrated with our existing systems. (新しいソフトウェアは既存のシステムと完全に統合されています。)"
+    },
+    {
+      "id": 49,
+      "value": "logic circuits",
+      "options": [
+        "アナログ回路",
+        "論理回路",
+        "電力回路",
+        "デジタル回路"
+      ],
+      "correctAnswer": "論理回路",
+      "explanation": "「logic circuits」は、「論理回路」を指します。デジタル信号に基づいて論理演算を行う電子回路であり、コンピュータや電子機器の基本要素です。\n例：Logic circuits are the building blocks of modern computers. (論理回路は現代のコンピュータの構成要素です。)"
+    },
+    {
+      "id": 50,
+      "value": "solid",
+      "options": [
+        "点滅",
+        "点灯",
+        "消灯",
+        "発光"
+      ],
+      "correctAnswer": "点灯",
+      "explanation": "「solid」は、ここでは（光が）「点灯している」「点滅していない」という意味です。ドローンのライトが安定して点灯している状態を指します。\n例：The light turned solid green. (ライトが緑色に点灯した。)"
+    },
+    {
+      "id": 51,
+      "value": "miniaturized",
+      "options": [
+        "最小化された",
+        "巨大化された",
+        "近代化された",
+        "単純化された"
+      ],
+      "correctAnswer": "最小化された",
+      "explanation": "「miniaturized」は、「miniaturize」の過去分詞形で、小型化、縮小化されたという意味です。工学や技術の分野で、装置や部品が小型化されたことを表す際によく用いられます。例文：They miniaturized the device to fit inside a wristwatch.（彼らはその装置を腕時計の中に収まるように小型化した。）"
+    },
+    {
+      "id": 52,
+      "value": "integrated",
+      "options": [
+        "分離された",
+        "統合された",
+        "修正された",
+        "複雑化された"
+      ],
+      "correctAnswer": "統合された",
+      "explanation": "「integrated」は、「integrate」の過去分詞形で、統合された、一体化されたという意味です。複数の要素や機能が組み合わさって一つのシステムや構造を形成している状態を表します。例文：The software is fully integrated with the operating system.（そのソフトウェアはオペレーティングシステムと完全に統合されている。）"
+    },
+    {
+      "id": 53,
+      "value": "originate in",
+      "options": [
+        "～に由来する",
+        "～を無視する",
+        "～を改善する",
+        "～を隠蔽する"
+      ],
+      "correctAnswer": "～に由来する",
+      "explanation": "「originate in」は、～に起源を持つ、～から生じるという意味の句動詞です。特定の場所、原因、または源から発生したことを示します。例文：The rumor originated in a small village.（その噂は小さな村から始まった。）"
+    },
+    {
+      "id": 54,
+      "value": "freaking",
+      "options": [
+        "素晴らしい",
+        "普通の",
+        "ひどい",
+        "幸運な"
+      ],
+      "correctAnswer": "ひどい",
+      "explanation": "「freaking」は、不快感、怒り、驚きなどを表す強調語として使われる口語表現です。「very」や「really」と同様に使えますが、より感情的なニュアンスが含まれます。しばしば不快な状況や出来事に対して用いられます。例文：This is freaking unbelievable!（これは本当に信じられない！）"
+    },
+    {
+      "id": 55,
+      "value": "cut me off",
+      "options": [
+        "私を助けた",
+        "私を無視した",
+        "私を遮った",
+        "私に資金援助を打ち切った"
+      ],
+      "correctAnswer": "私に資金援助を打ち切った",
+      "explanation": "「cut off」は、ここでは資金援助、供給、関係などを断ち切るという意味で使用されています。日常会話では、会話を遮るという意味でも使われます。例文：My father cut me off after I dropped out of college.（大学を中退した後、父は私への仕送りを止めた。）"
+    },
+    {
+      "id": 56,
+      "value": "step up",
+      "options": [
+        "後退する",
+        "立ち去る",
+        "前進する",
+        "責任を果たす"
+      ],
+      "correctAnswer": "責任を果たす",
+      "explanation": "「step up」は、困難な状況で積極的に行動し、責任を引き受けるという意味の句動詞です。自己啓発やリーダーシップの文脈でよく使われます。例文：It's time for me to step up and take charge of my life.（私が立ち上がって自分の人生の責任を取る時だ。）"
+    },
+    {
+      "id": 57,
+      "value": "shenanigans",
+      "options": [
+        "真実",
+        "陰謀",
+        "いたずら",
+        "平和"
+      ],
+      "correctAnswer": "いたずら",
+      "explanation": "「shenanigans」は、ふざけた行為、いたずら、ごまかしといった意味合いを持つ名詞です。深刻な不正行為というよりは、軽はずみな行動や悪ふざけを指します。例文：The kids were up to some shenanigans while their parents were away.（両親がいない間、子供たちは何か悪ふざけをしていた。）"
+    },
+    {
+      "id": 58,
+      "value": "take after",
+      "options": [
+        "嫌う",
+        "似ている",
+        "尊敬する",
+        "軽蔑する"
+      ],
+      "correctAnswer": "似ている",
+      "explanation": "「take after」は、家族（特に親）の性格や外見が似ているという意味の句動詞です。遺伝的な類似性を表す際によく使われます。例文：She takes after her mother in looks.（彼女は容姿が母親に似ている。）"
+    },
+    {
+      "id": 59,
+      "value": "sweet boy",
+      "options": [
+        "甘い少年",
+        "親切な少年",
+        "いたずらな少年",
+        "哀れな少年"
+      ],
+      "correctAnswer": "親切な少年",
+      "explanation": "「sweet boy」は、親切で思いやりがあり、優しい性格の少年を指す言葉です。愛情を込めて使われることが多いですが、皮肉を込めて使われることもあります。例文：He's such a sweet boy, always helping others.（彼は本当に親切な少年で、いつも他人を助けている。）"
+    },
+    {
+      "id": 60,
+      "value": "poison seed",
+      "options": [
+        "毒の種",
+        "愛情の種",
+        "希望の種",
+        "勇気の種"
+      ],
+      "correctAnswer": "毒の種",
+      "explanation": "「poison seed」は、文字通りには「毒の種」という意味ですが、比喩的には悪い影響や原因となる人を指します。ここでは、父親の悪い性格や行いが子供に受け継がれていることを示唆しています。例文：Some people thought he was a poison seed because of his father's reputation.（彼の父親の評判のせいで、彼を毒の種だと思う人もいた。）"
+    },
+    {
+      "id": 61,
+      "value": "on Skype",
+      "options": [
+        "Skypeで",
+        "テレビで",
+        "手紙で",
+        "直接"
+      ],
+      "correctAnswer": "Skypeで",
+      "explanation": "「on Skype」は、Skypeというビデオ通話サービスを利用して、という意味です。遠隔地にいる人とコミュニケーションを取る際に使われます。例文：We had a meeting on Skype because she was traveling.（彼女は出張中だったので、Skypeで会議をした。）"
+    },
+    {
+      "id": 62,
+      "value": "freeing",
+      "options": [
+        "束縛する",
+        "解放する",
+        "悩ませる",
+        "混乱させる"
+      ],
+      "correctAnswer": "解放する",
+      "explanation": "「freeing」は、「free」の現在分詞で、解放感を与える、自由にするという意味です。制約や束縛から解放される感覚を表します。例文：It's a very freeing experience to travel alone.（一人で旅行するのはとても解放的な経験だ。）"
+    },
+    {
+      "id": 63,
+      "value": "narrowed it down",
+      "options": [
+        "広げた",
+        "特定した",
+        "無視した",
+        "追加した"
+      ],
+      "correctAnswer": "特定した",
+      "explanation": "「narrow down」は、範囲や選択肢を絞り込む、特定するという意味の句動詞です。問題解決や調査の過程で、可能性のある原因や選択肢を減らす際に使われます。例文：We narrowed down the list of suspects to three.（容疑者のリストを3人に絞り込んだ。）"
+    },
+    {
+      "id": 64,
+      "value": "faulty",
+      "options": [
+        "完璧な",
+        "欠陥のある",
+        "最新の",
+        "希少な"
+      ],
+      "correctAnswer": "欠陥のある",
+      "explanation": "「faulty」は、欠陥のある、不具合のあるという意味の形容詞です。機械、製品、システムなどに欠陥がある状態を表します。例文：The car had a faulty brake system.（その車はブレーキシステムに欠陥があった。）"
+    },
+    {
+      "id": 65,
+      "value": "onboard",
+      "options": [
+        "外部の",
+        "搭載された",
+        "不要な",
+        "旧式の"
+      ],
+      "correctAnswer": "搭載された",
+      "explanation": "「onboard」は、乗り物や装置に搭載された、組み込まれたという意味の形容詞です。特に電子機器やシステムが内部に組み込まれていることを指します。例文：The plane has an onboard Wi-Fi system.（その飛行機には機内Wi-Fiシステムが搭載されている。）"
+    },
+    {
+      "id": 66,
+      "value": "at a time",
+      "options": [
+        "いつも",
+        "一度に",
+        "同時に",
+        "永遠に"
+      ],
+      "correctAnswer": "一度に",
+      "explanation": "「at a time」は、一度に、一度につきという意味の副詞句です。複数のものを順番に処理したり、制限したりする際に使われます。例文：You can only check out three books at a time.（一度に3冊までしか本を借りられない。）"
+    },
+    {
+      "id": 67,
+      "value": "aficionado",
+      "options": [
+        "初心者",
+        "専門家",
+        "愛好家",
+        "批評家"
+      ],
+      "correctAnswer": "愛好家",
+      "explanation": "「aficionado」は、特定の趣味や分野に対する熱心な愛好家、ファンという意味の名詞です。特にスペイン語やスペイン文化に関連する事柄によく用いられます。例文：He is a true aficionado of classical music.（彼はクラシック音楽の真の愛好家だ。）"
+    },
+    {
+      "id": 68,
+      "value": "go to the trouble",
+      "options": [
+        "苦労を避ける",
+        "苦労する",
+        "心配する",
+        "後悔する"
+      ],
+      "correctAnswer": "苦労する",
+      "explanation": "「go to the trouble」は、手間をかける、苦労して～するという意味の表現です。何かをするために特別な努力や時間を使うことを示します。例文：You don't have to go to the trouble of cooking for me.（私のために料理を作る手間をかける必要はないよ。）"
+    },
+    {
+      "id": 69,
+      "value": "it's about",
+      "options": [
+        "それについて",
+        "それは重要ではない",
+        "それは～が目的だ",
+        "それは不可能だ"
+      ],
+      "correctAnswer": "それは～が目的だ",
+      "explanation": "「it's about」は、「～が重要である」「～が目的である」という意味を表す表現です。ある行動や状況の核心的な要素や目的を説明する際に使われます。例文：It's not about the money, it's about the principle.（お金の問題ではなく、原則の問題だ。）"
+    },
+    {
+      "id": 70,
+      "value": "the little engineer that could",
+      "options": [
+        "才能のないエンジニア",
+        "有能なエンジニア",
+        "普通のエンジニア",
+        "自惚れ屋のエンジニア"
+      ],
+      "correctAnswer": "有能なエンジニア",
+      "explanation": "「The Little Engine That Could」という子供向けの物語を引用した表現で、困難を乗り越える能力がある小さなエンジニアを指します。ここでは、Howardを励ます意味合いで使われています。例文：He is like the little engineer that could, always finding solutions to problems.（彼はまるで「できると信じた小さな機関車」のように、いつも問題の解決策を見つけている。）"
+    },
+    {
+      "id": 71,
+      "value": "graduation gown",
+      "options": [
+        "ウェディングドレス",
+        "卒業ガウン",
+        "バスローブ",
+        "手術着"
+      ],
+      "correctAnswer": "卒業ガウン",
+      "explanation": "「graduation gown」は卒業式で着用するガウンのことです。アカデミックドレスの一部で、大学や高校などの卒業式で着用されます。色やデザインは学校によって異なります。例文: He wore a black graduation gown at the ceremony.（彼は式典で黒い卒業ガウンを着ていた。）"
+    },
+    {
+      "id": 72,
+      "value": "just in case",
+      "options": [
+        "念のため",
+        "いつも",
+        "絶対に",
+        "偶然に"
+      ],
+      "correctAnswer": "念のため",
+      "explanation": "「just in case」は「念のため」「万が一に備えて」という意味で、何か起こるかもしれない場合に備えて行動することを表します。例文: Take an umbrella just in case it rains. (雨が降るかもしれないから念のため傘を持って行きなさい。)"
+    },
+    {
+      "id": 73,
+      "value": "done and done",
+      "options": [
+        "未完了",
+        "ほぼ完了",
+        "完了",
+        "取り消し"
+      ],
+      "correctAnswer": "完了",
+      "explanation": "「done and done」は「完了」「承知した」という意味のスラング表現で、依頼や提案に対して同意し、それが完了したことを強調する際に使われます。例文: \"Can you finish this by tomorrow?\" \"Done and done!\" (「明日までにこれを終わらせられますか？」「承知しました！」)"
+    },
+    {
+      "id": 74,
+      "value": "tech support",
+      "options": [
+        "技術開発",
+        "技術支援",
+        "研究開発",
+        "製品設計"
+      ],
+      "correctAnswer": "技術支援",
+      "explanation": "「tech support」は「技術支援」「テクニカルサポート」という意味で、製品やサービスに関する技術的な問題や質問に対して、電話、メール、オンラインなどで支援を提供する部門やサービスを指します。例文: I called tech support to fix my computer issue. (コンピューターの問題を解決するために、技術サポートに電話した。)"
+    },
+    {
+      "id": 75,
+      "value": "work fine",
+      "options": [
+        "故障している",
+        "正常に動作する",
+        "不安定",
+        "時代遅れ"
+      ],
+      "correctAnswer": "正常に動作する",
+      "explanation": "「work fine」は「正常に動作する」「問題なく機能する」という意味で、機械、システム、ソフトウェアなどが期待通りに動作することを表します。例文: The new software works fine on my computer. (新しいソフトウェアは私のコンピューターで正常に動作する。)"
+    },
+    {
+      "id": 76,
+      "value": "make fun of",
+      "options": [
+        "尊敬する",
+        "からかう",
+        "手伝う",
+        "無視する"
+      ],
+      "correctAnswer": "からかう",
+      "explanation": "「make fun of」は、人や物を笑いものにする、からかうという意味です。相手を傷つける意図を含むことが多いです。友達同士の軽い冗談から、悪意のある嘲笑まで、様々な状況で使われます。\n\n例：The kids were making fun of his accent. (子供たちは彼の方言をからかっていた。)"
+    },
+    {
+      "id": 77,
+      "value": "distinguished",
+      "options": [
+        "普通の",
+        "区別された",
+        "不明瞭な",
+        "劣った"
+      ],
+      "correctAnswer": "区別された",
+      "explanation": "「distinguished」は、際立って優れた、著名な、一流のという意味です。人に対して使う場合は、その人の業績や才能が非常に高く評価されていることを表します。組織や場所などに対しても、その品質や重要性が高いことを示す際に使用されます。\n\n例：a distinguished career (輝かしい経歴)"
+    },
+    {
+      "id": 78,
+      "value": "keep-away",
+      "options": [
+        "隠れて",
+        "近づいて",
+        "奪い合い",
+        "無視して"
+      ],
+      "correctAnswer": "奪い合い",
+      "explanation": "「keep-away」は、ボールなどを複数人でパスし、他の人に奪われないようにする遊び、またはその状態を指します。子供の遊びでよく見られますが、比喩的に、何かを独占しようとする行為を表すこともあります。\n\n例：They played keep-away with my keys. (彼らは私の鍵を奪い合って遊んだ。)"
+    },
+    {
+      "id": 79,
+      "value": "commencement address",
+      "options": [
+        "卒業式での祝辞",
+        "入学式での宣誓",
+        "授業の終わり",
+        "始業式での挨拶"
+      ],
+      "correctAnswer": "卒業式での祝辞",
+      "explanation": "「commencement address」は、卒業式で行われる祝辞のことです。著名な卒業生や専門家が、卒業生に向けて激励やアドバイスを送るスピーチを指します。\n\n例：The commencement address was very inspiring. (卒業式の祝辞は非常に感動的だった。)"
+    },
+    {
+      "id": 80,
+      "value": "reconnected",
+      "options": [
+        "切断された",
+        "再接続された",
+        "無視された",
+        "隠された"
+      ],
+      "correctAnswer": "再接続された",
+      "explanation": "「reconnected」は、「再接続された」という意味です。物理的な接続だけでなく、関係性の再構築など、比喩的な意味でも使用されます。\n\n例：They reconnected after many years. (彼らは長年ぶりに再会した。)"
+    },
+    {
+      "id": 81,
+      "value": "back in business",
+      "options": [
+        "閉店中",
+        "事業再開",
+        "倒産",
+        "休暇中"
+      ],
+      "correctAnswer": "事業再開",
+      "explanation": "「back in business」は、活動や事業が再開された、または元の状態に戻ったという意味です。一時的な中断や問題があった後に、通常の状態に戻ったことを表します。\n\n例：After the repairs, the restaurant was back in business. (修理後、レストランは営業を再開した。)"
+    },
+    {
+      "id": 82,
+      "value": "All systems go",
+      "options": [
+        "すべて順調",
+        "システム停止",
+        "準備中",
+        "緊急事態"
+      ],
+      "correctAnswer": "すべて順調",
+      "explanation": "「All systems go」は、準備が完了し、すべてが順調に進む状態を指します。特に、宇宙開発や航空業界でよく使われる表現で、ロケットの発射準備が整った際などに用いられます。比喩的に、プロジェクトや計画が順調に進んでいる状況を表すこともあります。\n\n例：All systems go for the launch. (打ち上げの準備はすべて整った。)"
+    },
+    {
+      "id": 83,
+      "value": "wind up",
+      "options": [
+        "開始する",
+        "終わらせる",
+        "巻き上げる",
+        "拡大する"
+      ],
+      "correctAnswer": "終わらせる",
+      "explanation": "「wind up」は、最終的に～になる、～という結果になるという意味です。意図しない結果や、予想外の状況を表すことが多いです。また、wind up doing something の形で、「結局～することになる」という意味でも使われます。\n\n例：If you keep driving like that, you'll wind up in jail. (そんな運転をしていたら、結局刑務所行きになるぞ。)"
+    },
+    {
+      "id": 84,
+      "value": "take after",
+      "options": [
+        "似ている",
+        "嫌う",
+        "尊敬する",
+        "無視する"
+      ],
+      "correctAnswer": "似ている",
+      "explanation": "「take after」は、(親や祖父母など)に似ているという意味です。外見だけでなく、性格や才能が似ている場合にも使われます。\n\n例：She takes after her mother in looks and personality. (彼女は容姿も性格も母親に似ている。)"
+    },
+    {
+      "id": 85,
+      "value": "role model",
+      "options": [
+        "反面教師",
+        "役割分担",
+        "目標",
+        "模範"
+      ],
+      "correctAnswer": "模範",
+      "explanation": "「role model」は、行動や生き方が他人にとって模範となる人物を指します。尊敬され、手本とされる存在です。\n\n例：He is a role model for young athletes. (彼は若いアスリートたちの模範だ。)"
+    },
+    {
+      "id": 86,
+      "value": "thief",
+      "options": [
+        "探偵",
+        "泥棒",
+        "弁護士",
+        "医者"
+      ],
+      "correctAnswer": "泥棒",
+      "explanation": "「thief」は、泥棒、盗人という意味です。物を盗む人を指します。\n\n例：The thief stole her purse. (泥棒は彼女の財布を盗んだ。)"
+    },
+    {
+      "id": 87,
+      "value": "remainder",
+      "options": [
+        "残り",
+        "最初",
+        "すべて",
+        "要約"
+      ],
+      "correctAnswer": "残り",
+      "explanation": "「remainder」は、残り、残りのもの、余りという意味です。数学的な文脈では、割り算の余りを指すこともあります。\n\n例：The remainder of the money will be donated to charity. (残りの金は慈善団体に寄付される。)"
+    },
+    {
+      "id": 88,
+      "value": "fit in",
+      "options": [
+        "適合する",
+        "目立つ",
+        "反発する",
+        "孤立する"
+      ],
+      "correctAnswer": "適合する",
+      "explanation": "「fit in」は、集団や環境にうまく適合する、溶け込むという意味です。周囲との調和を保ち、受け入れられる状態を表します。\n\n例：She tried hard to fit in at her new school. (彼女は新しい学校に溶け込もうと一生懸命努力した。)"
+    },
+    {
+      "id": 89,
+      "value": "baffled",
+      "options": [
+        "満足した",
+        "当惑した",
+        "興奮した",
+        "安心した"
+      ],
+      "correctAnswer": "当惑した",
+      "explanation": "「baffled」は、途方に暮れた、困惑したという意味です。理解できないことや、説明のつかないことに直面した時に使われます。\n\n例：I was baffled by his strange behavior. (彼の奇妙な行動に私は困惑した。)"
+    },
+    {
+      "id": 90,
+      "value": "hitching",
+      "options": [
+        "下げる",
+        "持ち上げる",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "持ち上げる",
+      "explanation": "「hitch」は、ここではズボンなどをぐいっと引き上げるという意味です。特に、ベルトをせずにズボンがずり落ちてくるのを防ぐために、手で持ち上げる動作を指します。\n\n例：He was always hitching up his pants. (彼はいつもズボンを持ち上げていた。)"
+    },
+    {
+      "id": 91,
+      "value": "uprising",
+      "options": [
+        "鎮圧",
+        "反乱",
+        "平和",
+        "服従"
+      ],
+      "correctAnswer": "反乱",
+      "explanation": "「uprising」は、反乱、暴動、蜂起という意味です。政府や権力に対して、人々が立ち上がって抵抗する行為を指します。\n\n例：The uprising was quickly suppressed by the army. (反乱は軍によってすぐに鎮圧された。)"
+    },
+    {
+      "id": 92,
+      "value": "noted",
+      "options": [
+        "悪名高い",
+        "有名な",
+        "忘れられた",
+        "匿名の"
+      ],
+      "correctAnswer": "有名な",
+      "explanation": "「noted」は、著名な、有名な、注目されているという意味です。人や業績、品質などが広く知られていることを表します。\n\n例：a noted scholar (著名な学者)"
+    },
+    {
+      "id": 93,
+      "value": "nearly",
+      "options": [
+        "完全に",
+        "ほとんど",
+        "絶対に",
+        "まれに"
+      ],
+      "correctAnswer": "ほとんど",
+      "explanation": "「nearly」は、「ほとんど」という意味の副詞です。完全にそうではないものの、非常に近い状態を表します。\n\n例：I nearly missed the train. (もう少しで電車に乗り遅れるところだった。)"
+    },
+    {
+      "id": 94,
+      "value": "point it at",
+      "options": [
+        "隠す",
+        "向ける",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "向ける",
+      "explanation": "「point it at」は、何かを特定のものに向けるという意味です。物理的な方向だけでなく、注意や非難を向ける場合にも使われます。\n\n例：Don't point that gun at me! (その銃を私に向けないで！)"
+    },
+    {
+      "id": 95,
+      "value": "GPS",
+      "options": [
+        "地理的予測システム",
+        "全地球測位システム",
+        "一般的な電力供給",
+        "大規模な印刷サービス"
+      ],
+      "correctAnswer": "全地球測位システム",
+      "explanation": "「GPS」は、Global Positioning Systemの略で、全地球測位システムのことです。人工衛星からの信号を受信して、地球上の正確な位置情報を特定するシステムです。カーナビゲーションやスマートフォンの地図アプリなどで広く利用されています。\n\n例：The GPS helped us find our way. (GPSのおかげで道を見つけることができた。)"
+    },
+    {
+      "id": 96,
+      "value": "jerks",
+      "options": [
+        "賢者たち",
+        "嫌なやつら",
+        "英雄たち",
+        "善良な人々"
+      ],
+      "correctAnswer": "嫌なやつら",
+      "explanation": "「jerk」は、嫌なやつ、ばか、間抜けという意味です。侮辱的なニュアンスを含む言葉です。\n\n例：Don't be such a jerk. (そんな嫌なやつになるな。)"
+    },
+    {
+      "id": 97,
+      "value": "imagination",
+      "options": [
+        "現実",
+        "想像力",
+        "記憶",
+        "知識"
+      ],
+      "correctAnswer": "想像力",
+      "explanation": "「imagination」は、想像力、創造力という意味です。存在しないものや、現実にはないことを心に思い描く能力を指します。\n\n例：She has a vivid imagination. (彼女は豊かな想像力を持っている。)"
+    },
+    {
+      "id": 98,
+      "value": "treasure",
+      "options": [
+        "ゴミ",
+        "宝物",
+        "借金",
+        "秘密"
+      ],
+      "correctAnswer": "宝物",
+      "explanation": "「treasure」は、宝物、貴重品という意味です。価値のあるものや、大切なものを指します。比喩的に、かけがえのないものや、心の支えとなるものを表すこともあります。\n\n例：Knowledge is the best treasure. (知識は最高の宝物である。)"
+    },
+    {
+      "id": 99,
+      "value": "initiate",
+      "options": [
+        "終了する",
+        "開始する",
+        "無視する",
+        "遅らせる"
+      ],
+      "correctAnswer": "開始する",
+      "explanation": "「initiate」は、開始する、始めるという意味です。行動やプロセス、プロジェクトなどを開始する際に使われます。フォーマルな響きを持つ言葉です。\n\n例：We will initiate the project next week. (来週、プロジェクトを開始します。)"
+    },
+    {
+      "id": 100,
+      "value": "landing sequence",
+      "options": [
+        "離陸手順",
+        "着陸手順",
+        "緊急脱出",
+        "飛行計画"
+      ],
+      "correctAnswer": "着陸手順",
+      "explanation": "「landing sequence」は、着陸手順、着陸シーケンスという意味です。航空機などが安全に着陸するために行う一連の手順を指します。自動操縦システムなどにも組み込まれています。\n\n例：The pilot followed the landing sequence carefully. (パイロットは着陸手順を注意深く実行した。)"
+    }
+  ]
+}

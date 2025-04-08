@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "calls into question",
+      "options": [
+        "支持する",
+        "疑わしくする",
+        "明確にする",
+        "改善する"
+      ],
+      "correctAnswer": "疑わしくする",
+      "explanation": "「calls into question」は、何かの信憑性、正確性、または妥当性に対して疑問を投げかけるという意味です。ある事実や主張に対して、それに対する疑念や不確実性を示す際に使用されます。\n\n例：The recent scandal calls into question the company's ethics. (最近のスキャンダルは、その会社の倫理観を疑わしくしている。)"
+    },
+    {
+      "id": 2,
+      "value": "a reasonable facsimile",
+      "options": [
+        "正確な複製",
+        "不可能な代替",
+        "合理的な模倣品",
+        "完全なオリジナル"
+      ],
+      "correctAnswer": "合理的な模倣品",
+      "explanation": "「facsimile」は、原本を忠実に再現したもの、つまり複製や模写を意味します。「a reasonable facsimile」は、完全ではないものの、それなりにオリジナルに近いもの、代替品として許容できるものを指します。\n\n例：This cake is a reasonable facsimile of the real thing. (このケーキは本物のケーキのまあまあの模倣品だ。)"
+    },
+    {
+      "id": 3,
+      "value": "one-time exception",
+      "options": [
+        "継続的な規則",
+        "一度限りの例外",
+        "全面的な禁止",
+        "詳細な説明"
+      ],
+      "correctAnswer": "一度限りの例外",
+      "explanation": "「one-time exception」とは、通常守られるべき規則や習慣に対して、今回に限り特別に認められる例外的な措置を指します。これは、特定の状況下でのみ適用され、将来の同様のケースには適用されないことが前提となります。\n\n例：We can make a one-time exception for you, but please don't be late again. (今回に限り例外を認めますが、二度と遅刻しないでください。)"
+    },
+    {
+      "id": 4,
+      "value": "misguided",
+      "options": [
+        "正しい方向に導かれた",
+        "誤った判断の",
+        "完全に無視された",
+        "綿密に計画された"
+      ],
+      "correctAnswer": "誤った判断の",
+      "explanation": "「misguided」は、判断や行動が誤っている、または不適切であるという意味です。良い意図を持っていても、その方法や考え方が間違っている場合に用いられます。\n\n例：His efforts to help were misguided and only made the situation worse. (彼の助けようとした努力は的外れで、状況を悪化させただけだった。)"
+    },
+    {
+      "id": 5,
+      "value": "ironic",
+      "options": [
+        "皮肉な",
+        "直接的な",
+        "友好的な",
+        "一般的な"
+      ],
+      "correctAnswer": "皮肉な",
+      "explanation": "「ironic」は、皮肉な、または予想と異なる結果になるという意味です。状況や発言が、文字通りの意味とは反対の含みを持つ場合や、意図とは異なる結果になる場合に用いられます。\n\n例：It's ironic that the fire station burned down. (消防署が燃えてしまったのは皮肉だ。)"
+    },
+    {
+      "id": 6,
+      "value": "break bread",
+      "options": [
+        "パンを焼く",
+        "食事を共にする",
+        "パンを隠す",
+        "パンを売る"
+      ],
+      "correctAnswer": "食事を共にする",
+      "explanation": "「break bread」は、食事を共にすることを意味するイディオムです。特に、親しい人々が集まって食事をする、友情や親睦を深めるというニュアンスが含まれます。\n\n例：Let's break bread together and talk about our future plans. (一緒に食事をして、将来の計画について話し合いましょう。)"
+    },
+    {
+      "id": 7,
+      "value": "rich heritage",
+      "options": [
+        "貧しい遺産",
+        "豊かな伝統",
+        "短い歴史",
+        "個人的な財産"
+      ],
+      "correctAnswer": "豊かな伝統",
+      "explanation": "「rich heritage」は、物質的な豊かさだけでなく、文化、歴史、伝統などが豊かで価値があることを意味します。先祖から受け継がれてきた有形・無形の財産を指すことが多いです。\n\n例：The city has a rich heritage of art and architecture. (その都市は、芸術と建築の豊かな遺産を持っている。)"
+    },
+    {
+      "id": 8,
+      "value": "be obliged to",
+      "options": [
+        "する必要がある",
+        "することを許可される",
+        "することを拒否される",
+        "することを忘れる"
+      ],
+      "correctAnswer": "する必要がある",
+      "explanation": "「be obliged to」は、法的、道徳的、または状況的に何かをする義務がある、またはそうせざるを得ないという意味です。フォーマルな表現で、感謝の気持ちを表す際にも使われます。\n\n例：I am obliged to help them because they helped me in the past. (彼らは過去に私を助けてくれたので、私は彼らを助ける義務がある。)"
+    },
+    {
+      "id": 9,
+      "value": "utter and complete madness",
+      "options": [
+        "完全な静けさ",
+        "部分的な狂気",
+        "完全なる狂気",
+        "日常的な出来事"
+      ],
+      "correctAnswer": "完全なる狂気",
+      "explanation": "「utter and complete madness」は、完全なる狂気、全くの非常識という意味で、事態が非常に異常で理解しがたい状況を強調する表現です。「utter」と「complete」を重ねることで、その程度を強めています。\n\n例：The whole situation was utter and complete madness. (その状況全体が全くの狂気だった。)"
+    },
+    {
+      "id": 10,
+      "value": "cluster",
+      "options": [
+        "広がり",
+        "束",
+        "欠如",
+        "均等"
+      ],
+      "correctAnswer": "束",
+      "explanation": "「cluster」は、同種のものが集まってできた塊や集団を意味します。ここでは、テレビ画面上の複数のドットが密集している様子を表しています。\n\n例：A cluster of stars (星団). / A cluster of dead pixels (ドットの集まり)"
+    },
+    {
+      "id": 11,
+      "value": "social pariah",
+      "options": [
+        "社交的な模範",
+        "社会の指導者",
+        "社会ののけ者",
+        "社会的な支援者"
+      ],
+      "correctAnswer": "社会ののけ者",
+      "explanation": "「social pariah」は、社会的に受け入れられず、仲間外れにされる人を指します。コミュニティやグループから避けられ、孤立した状態を意味します。\n\n例：After the scandal, he became a social pariah. (そのスキャンダルの後、彼は社会ののけ者になった。)"
+    },
+    {
+      "id": 12,
+      "value": "exasperation",
+      "options": [
+        "満足",
+        "平静",
+        "いらだち",
+        "幸福"
+      ],
+      "correctAnswer": "いらだち",
+      "explanation": "「exasperation」は、非常にいらいらしている、または我慢できない状態を表す名詞です。何かに対する強い不満や怒りが蓄積された状態を指します。\n\n例：She sighed in exasperation. (彼女はいらだってため息をついた。)"
+    },
+    {
+      "id": 13,
+      "value": "with all the fixins",
+      "options": [
+        "すべての材料",
+        "すべての問題",
+        "すべての間違い",
+        "すべての嘘"
+      ],
+      "correctAnswer": "すべての材料",
+      "explanation": "「with all the fixins」は、必要なもの、追加の材料、または付属品がすべて揃っているという意味です。料理の場合、メインの料理と一緒に提供される様々な付け合わせやトッピングを指します。\n\n例：They served the turkey with all the fixins. (彼らは七面鳥料理に必要な付け合わせをすべて添えて出した。)"
+    },
+    {
+      "id": 14,
+      "value": "some assembly required",
+      "options": [
+        "組み立て不要",
+        "一部組み立てが必要",
+        "完全な分解",
+        "詳細な設計"
+      ],
+      "correctAnswer": "一部組み立てが必要",
+      "explanation": "「some assembly required」は、製品を購入した後に、使用する前に自分で組み立てる必要があることを意味します。ここでは、料理を自分で作る必要がある状況を指しています。\n\n例：The furniture comes with some assembly required. (その家具は一部組み立てが必要です。)"
+    },
+    {
+      "id": 15,
+      "value": "neat",
+      "options": [
+        "乱雑に",
+        "整理して",
+        "水割りで",
+        "ストレートで"
+      ],
+      "correctAnswer": "ストレートで",
+      "explanation": "「neat」は、飲み物（特にアルコール）を何も加えず、ストレートで提供することを意味します。ここでは、水を何も加えていない状態を指しています。\n\n例：I'll have a whiskey neat, please. (ウイスキーをストレートでお願いします。)"
+    },
+    {
+      "id": 16,
+      "value": "Dark Knight",
+      "options": [
+        "明るい騎士",
+        "闇の騎士",
+        "無名の英雄",
+        "普通の市民"
+      ],
+      "correctAnswer": "闇の騎士",
+      "explanation": "「Dark Knight」は、通常、バットマンを指す言葉ですが、ここでは孤独で困難な状況に立ち向かうヒーローを比喩的に表現しています。独りで行動し、世間からは理解されない存在であることを示唆します。\n\n例：He is a Dark Knight, fighting crime in the shadows. (彼は闇の騎士であり、影の中で犯罪と戦っている。)"
+    },
+    {
+      "id": 17,
+      "value": "mean streets",
+      "options": [
+        "安全な道",
+        "平均的な道",
+        "危険な街",
+        "整備された道路"
+      ],
+      "correctAnswer": "危険な街",
+      "explanation": "「mean streets」は、犯罪が多く、危険な雰囲気の漂う街並みを指す表現です。ハードボイルドな小説や映画でよく使われ、主人公が孤独に戦う舞台として描かれることが多いです。\n\n例：He grew up on the mean streets of New York. (彼はニューヨークの危険な街で育った。)"
+    },
+    {
+      "id": 18,
+      "value": "world-weary",
+      "options": [
+        "世界に興味津々な",
+        "世界に疲れた",
+        "世界を旅する",
+        "世界を創造する"
+      ],
+      "correctAnswer": "世界に疲れた",
+      "explanation": "「world-weary」は、世の中の出来事にうんざりしている、または人生に疲れているという意味です。経験豊富で、世の中の辛さや虚しさを知っている様子を表します。\n\n例：He had a world-weary expression on his face. (彼は世の中のことにうんざりした表情をしていた。)"
+    },
+    {
+      "id": 19,
+      "value": "barkeep",
+      "options": [
+        "犬",
+        "木の皮",
+        "船",
+        "バーテンダー"
+      ],
+      "correctAnswer": "バーテンダー",
+      "explanation": "「barkeep」は、「bartender」の略で、バーテンダー、つまりバーで飲み物を作る人のことを指します。昔ながらの言い方で、特にアメリカの西部劇などでよく使われます。\n\n例：The barkeep wiped down the counter. (バーテンダーはカウンターを拭いた。)"
+    },
+    {
+      "id": 20,
+      "value": "absentmindedly",
+      "options": [
+        "注意深く",
+        "無意識に",
+        "完全に",
+        "意図的に"
+      ],
+      "correctAnswer": "無意識に",
+      "explanation": "「absentmindedly」は、ぼんやりと、または上の空で何かをする様子を表す副詞です。注意が散漫で、考え事をしながら行動する状態を指します。\n\n例：He absentmindedly stirred his coffee. (彼はぼんやりとコーヒーをかき混ぜた。)"
+    },
+    {
+      "id": 21,
+      "value": "coaxes the woes out of",
+      "options": [
+        "苦痛を隠す",
+        "苦痛を無視する",
+        "苦痛を引き出す",
+        "苦痛を増幅させる"
+      ],
+      "correctAnswer": "苦痛を引き出す",
+      "explanation": "「coax」は、優しく説得して何かを引き出すという意味です。「coaxes the woes out of」は、悩みや苦痛をうまく聞き出す、または打ち明けさせるという意味になります。\n\n例：The therapist coaxed the truth out of the patient. (セラピストは患者から真実を聞き出した。)"
+    },
+    {
+      "id": 22,
+      "value": "troubled patron",
+      "options": [
+        "幸せな顧客",
+        "裕福な後援者",
+        "悩みを抱えた客",
+        "有名な聖人"
+      ],
+      "correctAnswer": "悩みを抱えた客",
+      "explanation": "「troubled」は、問題を抱えている、悩んでいるという意味です。「patron」は、常連客、または支援者を意味します。「troubled patron」は、悩みや問題を抱えた常連客のことを指します。\n\n例：The barkeep listened to the troubled patron's story. (バーテンダーは悩みを抱えた客の話を聞いた。)"
+    },
+    {
+      "id": 23,
+      "value": "the horror",
+      "options": [
+        "楽しい",
+        "興味深い",
+        "恐ろしい",
+        "素晴らしい"
+      ],
+      "correctAnswer": "恐ろしい",
+      "explanation": "「the horror」は、恐ろしいこと、または非常に不快な状況を指す表現です。皮肉やユーモアを込めて使われることもあります。\n\n例：The traffic jam was the horror. (その交通渋滞はひどかった。)"
+    },
+    {
+      "id": 24,
+      "value": "last days of Caligula",
+      "options": [
+        "カリグラの最初の日",
+        "カリグラの最後の日々",
+        "カリグラの平日",
+        "カリグラの休日"
+      ],
+      "correctAnswer": "カリグラの最後の日々",
+      "explanation": "「last days of Caligula」は、古代ローマ皇帝カリグラの晩年、彼の支配が退廃的で狂気に満ちていた時代を指します。放蕩、無秩序、道徳の崩壊を象徴する表現として使われます。\n\n例：The party was like the last days of Caligula. (そのパーティーはカリグラの晩年のようだった。)"
+    },
+    {
+      "id": 25,
+      "value": "windbreaker",
+      "options": [
+        "日傘",
+        "レインコート",
+        "防寒着",
+        "ウィンドブレーカー"
+      ],
+      "correctAnswer": "ウィンドブレーカー",
+      "explanation": "「windbreaker」は、風を防ぐための軽量のジャケットです。ここでは、バットマンのケープの代わりとして、孤独な状況を強調するために使用されています。\n\n例：I put on my windbreaker and went for a walk. (ウィンドブレーカーを着て散歩に出かけた。)"
+    },
+    {
+      "id": 26,
+      "value": "exasperated",
+      "options": [
+        "満足している",
+        "当惑している",
+        "興奮している",
+        "退屈している"
+      ],
+      "correctAnswer": "当惑している",
+      "explanation": "「exasperated」は、いらいらさせる、立腹させるという意味です。人が非常に不満を感じている状態を表します。例えば、子供のいたずらに親が「I'm exasperated with you!」と言うことがあります。"
+    },
+    {
+      "id": 27,
+      "value": "leapt out",
+      "options": [
+        "飛び乗った",
+        "飛び出した",
+        "乗り越えた",
+        "立ち止まった"
+      ],
+      "correctAnswer": "飛び出した",
+      "explanation": "「leap out」は、急に、勢いよく飛び出すという意味です。危険を感じて車から飛び出すなど、緊急性の高い状況で使われることが多いです。例：He leapt out of the burning building. (彼は燃えている建物から飛び出した。)"
+    },
+    {
+      "id": 28,
+      "value": "bestie",
+      "options": [
+        "親友",
+        "敵",
+        "同僚",
+        "家族"
+      ],
+      "correctAnswer": "親友",
+      "explanation": "「bestie」は「best friend」の略で、親友や仲の良い友達を指すくだけた表現です。主に若者の間で使われるスラングです。"
+    },
+    {
+      "id": 29,
+      "value": "dragged into",
+      "options": [
+        "巻き込まれた",
+        "招待された",
+        "無視された",
+        "楽しんだ"
+      ],
+      "correctAnswer": "巻き込まれた",
+      "explanation": "「dragged into」は、望まない状況や問題に巻き込まれるという意味です。自分の意志とは関係なく、事件や争いに引きずり込まれるようなニュアンスがあります。例：I got dragged into their argument. (彼らの議論に巻き込まれた。)"
+    },
+    {
+      "id": 30,
+      "value": "devastated",
+      "options": [
+        "喜んでいる",
+        "悲しんでいる",
+        "怒っている",
+        "驚いている"
+      ],
+      "correctAnswer": "悲しんでいる",
+      "explanation": "「devastated」は、打ちのめされた、非常に悲しいという意味です。大きな喪失や失望を経験した時に使われます。例：She was devastated by the news of his death. (彼女は彼の死の知らせに打ちのめされた。)"
+    },
+    {
+      "id": 31,
+      "value": "flaring nostrils",
+      "options": [
+        "広がる鼻の穴",
+        "閉じる鼻の穴",
+        "笑う口",
+        "震える唇"
+      ],
+      "correctAnswer": "広がる鼻の穴",
+      "explanation": "「flaring nostrils」は、鼻の穴が広がることで、怒りや興奮、あるいは強い感情を表します。感情が高ぶっている状態を示す身体的なサインです。"
+    },
+    {
+      "id": 32,
+      "value": "nucleus",
+      "options": [
+        "中心",
+        "周辺",
+        "端",
+        "空白"
+      ],
+      "correctAnswer": "中心",
+      "explanation": "「nucleus」は、核、中心という意味です。ここでは、グループの中心人物という意味で使われています。例：The nucleus of the cell is the control center. (細胞の核は制御中枢です。)"
+    },
+    {
+      "id": 33,
+      "value": "whimsical",
+      "options": [
+        "現実的な",
+        "風変わりな",
+        "退屈な",
+        "深刻な"
+      ],
+      "correctAnswer": "風変わりな",
+      "explanation": "「whimsical」は、気まぐれな、風変わりなという意味です。ユーモラスで予測できない行動や性格を指します。例：He has a whimsical sense of humor. (彼は風変わりなユーモアのセンスを持っている。)"
+    },
+    {
+      "id": 34,
+      "value": "needy",
+      "options": [
+        "自立している",
+        "依存心が強い",
+        "満足している",
+        "寛大である"
+      ],
+      "correctAnswer": "依存心が強い",
+      "explanation": "「needy」は、必要としている、不足しているという意味の他に、人に対して過度に依存する、かまってほしいという意味があります。相手に過剰な要求をしたり、気を引こうとする行動を指します。例：He's so needy, he always wants my attention. (彼はとてもかまってちゃんで、いつも私の気を引きたがる。)"
+    },
+    {
+      "id": 35,
+      "value": "Leonard-centric",
+      "options": [
+        "レナード中心の",
+        "自己中心的な",
+        "平等な",
+        "無関心な"
+      ],
+      "correctAnswer": "レナード中心の",
+      "explanation": "「-centric」は、〜中心のという意味の接尾辞です。「Leonard-centric」は、レナードが中心になっているという意味合いになります。例：The company is customer-centric. (その会社は顧客中心です。)"
+    },
+    {
+      "id": 36,
+      "value": "Nosy Rosie",
+      "options": [
+        "おとなしい人",
+        "詮索好きな人",
+        "正直な人",
+        "勇敢な人"
+      ],
+      "correctAnswer": "詮索好きな人",
+      "explanation": "「Nosy」は詮索好きな、おせっかいなという意味です。「Nosy Rosie」は、人のことをあれこれ詮索する人を指す、やや侮蔑的な表現です。特に子供に対して使われることがあります。"
+    },
+    {
+      "id": 37,
+      "value": "horn in on",
+      "options": [
+        "邪魔する",
+        "参加する",
+        "無視する",
+        "手伝う"
+      ],
+      "correctAnswer": "邪魔する",
+      "explanation": "「horn in on」は、他人の会話や活動に割り込む、邪魔するという意味のイディオムです。特に招待されていないのに、強引に参加するようなニュアンスがあります。例：He tried to horn in on our conversation. (彼は私たちの会話に割り込もうとした。)"
+    },
+    {
+      "id": 38,
+      "value": "good run",
+      "options": [
+        "良い競争",
+        "良い逃走",
+        "良い関係",
+        "良い冗談"
+      ],
+      "correctAnswer": "良い関係",
+      "explanation": "「good run」は、良い期間、良い関係が続いたという意味です。何かが終わりを迎える時に、過去を振り返って使われることが多いです。例：We had a good run as a team. (私たちはチームとして良い期間を過ごした。)"
+    },
+    {
+      "id": 39,
+      "value": "grand finale",
+      "options": [
+        "最初の場面",
+        "最大の危機",
+        "最後の場面",
+        "中間の休憩"
+      ],
+      "correctAnswer": "最後の場面",
+      "explanation": "「grand finale」は、壮大なフィナーレ、最後の見せ場という意味です。イベントやショーのクライマックスを指します。例：The fireworks were the grand finale of the festival. (花火は祭りのグランドフィナーレだった。)"
+    },
+    {
+      "id": 40,
+      "value": "festival of fun and folly",
+      "options": [
+        "楽しさと愚行の祭典",
+        "真面目さと悲しみの祭典",
+        "静けさと平和の祭典",
+        "仕事と勉強の祭典"
+      ],
+      "correctAnswer": "楽しさと愚行の祭典",
+      "explanation": "「folly」は愚行、ばかげた行為という意味です。「festival of fun and folly」は、楽しさとばか騒ぎが入り混じったお祭り騒ぎのような状況を表します。"
+    },
+    {
+      "id": 41,
+      "value": "checked in",
+      "options": [
+        "到着を報告した",
+        "出発を報告した",
+        "キャンセルした",
+        "迷子になった"
+      ],
+      "correctAnswer": "到着を報告した",
+      "explanation": "「check in」は、ホテルや空港などで到着手続きを行うという意味の他に、SNSなどで場所を記録・共有する意味もあります。ここではFacebookで位置情報を共有したことを指しています。"
+    },
+    {
+      "id": 42,
+      "value": "go around the room",
+      "options": [
+        "部屋を一周する",
+        "部屋から逃げる",
+        "自己紹介をする",
+        "部屋を掃除する"
+      ],
+      "correctAnswer": "自己紹介をする",
+      "explanation": "「go around the room」は、部屋にいる人たちが順番に自己紹介をするという意味です。会議やイベントの始まりによく用いられます。"
+    },
+    {
+      "id": 43,
+      "value": "goody bag",
+      "options": [
+        "ゴミ袋",
+        "お土産袋",
+        "宝袋",
+        "秘密の袋"
+      ],
+      "correctAnswer": "お土産袋",
+      "explanation": "「goody bag」は、お土産やプレゼントが入った袋のことです。イベントやパーティーなどで参加者に配られることが多いです。"
+    },
+    {
+      "id": 44,
+      "value": "What I'm hoping for most out of tonight",
+      "options": [
+        "今夜一番期待していること",
+        "今夜一番恐れていること",
+        "今夜一番後悔していること",
+        "今夜一番忘れたいこと"
+      ],
+      "correctAnswer": "今夜一番期待していること",
+      "explanation": "「What I'm hoping for most out of tonight」は、今夜最も期待していること、今夜何が起こることを一番望んでいるかという意味です。願望や期待を表現する際に使われます。"
+    },
+    {
+      "id": 45,
+      "value": "Patience, patience",
+      "options": [
+        "忍耐、忍耐",
+        "急ぎ、急ぎ",
+        "喜び、喜び",
+        "悲しみ、悲しみ"
+      ],
+      "correctAnswer": "忍耐、忍耐",
+      "explanation": "「Patience, patience」は、落ち着いて待つように促す表現です。相手をなだめたり、気長に待つように諭したりする際に使われます。"
+    },
+    {
+      "id": 46,
+      "value": "must be present to win",
+      "options": [
+        "勝つためには出席する必要がある",
+        "負けるためには出席する必要がある",
+        "勝つためには欠席する必要がある",
+        "負けるためには欠席する必要がある"
+      ],
+      "correctAnswer": "勝つためには出席する必要がある",
+      "explanation": "「must be present to win」は、抽選やゲームなどで、賞品を獲得するためにはその場にいる必要があるという意味です。イベントなどでよく使われるフレーズです。"
+    },
+    {
+      "id": 47,
+      "value": "Yo, P-dog",
+      "options": [
+        "こんにちは、Pドッグ",
+        "さようなら、Pドッグ",
+        "元気ですか、Pドッグ",
+        "おやすみ、Pドッグ"
+      ],
+      "correctAnswer": "こんにちは、Pドッグ",
+      "explanation": "「Yo」は、親しい間柄の人に対する挨拶のスラングです。「P-dog」はPennyの愛称で、親しみを込めて呼んでいます。全体として、親しい友人に対するカジュアルな挨拶です。"
+    },
+    {
+      "id": 48,
+      "value": "It's a great time to be alive, isn't it?",
+      "options": [
+        "生きているのは素晴らしいことですね",
+        "生きているのは最悪なことですね",
+        "死ぬのは素晴らしいことですね",
+        "死ぬのは最悪なことですね"
+      ],
+      "correctAnswer": "生きているのは素晴らしいことですね",
+      "explanation": "皮肉を込めた表現です。実際には嫌なことがあったり、不快な状況に置かれている時に、それを逆説的に表現するために使われます。例：\"It's a great time to be alive, isn't it?\" he said, as he looked at the overflowing inbox."
+    },
+    {
+      "id": 49,
+      "value": "clucking",
+      "options": [
+        "笑う",
+        "議論する",
+        "ささやく",
+        "泣く"
+      ],
+      "correctAnswer": "議論する",
+      "explanation": "「clucking」は、鶏がコケコッコーと鳴く声を指しますが、ここでは女性たちが集まっておしゃべりしたり、噂話をしている様子を軽蔑的に表現しています。SheldonがPennyとAmyの会話を揶揄する際に使っています。"
+    },
+    {
+      "id": 50,
+      "value": "face the fact",
+      "options": [
+        "事実を無視する",
+        "事実を受け入れる",
+        "事実を隠す",
+        "事実を歪める"
+      ],
+      "correctAnswer": "事実を受け入れる",
+      "explanation": "「face the fact」は、現実を受け入れる、事実と向き合うという意味です。困難な状況や認めがたい事実を直視する際に使われます。例：You need to face the fact that you're not going to get the job. (君はその仕事を得られないという現実を受け入れる必要がある。)"
+    },
+    {
+      "id": 51,
+      "value": "parenthetical",
+      "options": [
+        "重要な",
+        "偶然の",
+        "付帯的な",
+        "明白な"
+      ],
+      "correctAnswer": "付帯的な",
+      "explanation": "「parenthetical」は、文法用語で「挿入句の」という意味ですが、ここでは「補足的に」「念のため」といったニュアンスで使われています。会話の流れを中断して、追加情報を付け加える際に用いられます。"
+    },
+    {
+      "id": 52,
+      "value": "pestering",
+      "options": [
+        "手伝う",
+        "悩ませる",
+        "無視する",
+        "励ます"
+      ],
+      "correctAnswer": "悩ませる",
+      "explanation": "「pester」は、しつこく付きまとい、困らせるという意味です。特に、小さなことで何度も繰り返し相手を煩わせる状況で使われます。例えば、子供が親に何かをねだったり、セールスマンが顧客に電話をかけ続けたりするような状況が該当します。"
+    },
+    {
+      "id": 53,
+      "value": "put up with",
+      "options": [
+        "我慢する",
+        "楽しむ",
+        "避ける",
+        "提案する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「put up with」は、不快な状況や嫌な人物などを我慢するという意味のイディオムです。耐え忍ぶ、甘受するといったニュアンスを含みます。類似の表現として「tolerate」がありますが、「put up with」の方がより口語的です。"
+    },
+    {
+      "id": 54,
+      "value": "free-balling",
+      "options": [
+        "自由気ままに",
+        "束縛されずに",
+        "下着をつけない",
+        "高額な賭けをする"
+      ],
+      "correctAnswer": "下着をつけない",
+      "explanation": "「free-balling」は、俗語で下着をつけない状態を指します。特に男性がズボンや水着などを直接身につけることを意味します。インフォーマルな会話で使われる表現です。"
+    },
+    {
+      "id": 55,
+      "value": "generic term",
+      "options": [
+        "一般的な言葉",
+        "専門用語",
+        "新語",
+        "業界用語"
+      ],
+      "correctAnswer": "一般的な言葉",
+      "explanation": "「generic term」は、特定のブランド名ではなく、一般的な名称を指します。例えば、「ホッチキス」は商品名で、「ステープラー」が一般的な名称です。学術的な文脈や、正確さを求められる状況でよく用いられます。"
+    },
+    {
+      "id": 56,
+      "value": "i.e.",
+      "options": [
+        "例えば",
+        "すなわち",
+        "結果として",
+        "要するに"
+      ],
+      "correctAnswer": "すなわち",
+      "explanation": "「i.e.」は、ラテン語の「id est」の略で、「すなわち」「言い換えると」という意味です。前に述べたことを別の言葉で説明したり、具体例を挙げたりする際に使われます。文章を補足する役割があります。"
+    },
+    {
+      "id": 57,
+      "value": "aficionado",
+      "options": [
+        "専門家",
+        "愛好家",
+        "初心者",
+        "批評家"
+      ],
+      "correctAnswer": "愛好家",
+      "explanation": "「aficionado」は、ある特定の趣味や分野に対する熱心な愛好家を指します。特に、スペイン語圏の文化、例えば闘牛やフラメンコなどに熱中している人を指すことが多いです。英語でも広く使われるようになっています。"
+    },
+    {
+      "id": 58,
+      "value": "sucks the big hairy meatball",
+      "options": [
+        "素晴らしい",
+        "最悪だ",
+        "普通だ",
+        "面白い"
+      ],
+      "correctAnswer": "最悪だ",
+      "explanation": "「sucks the big hairy meatball」は、非常にくだけた表現で、「最悪だ」「つまらない」という意味です。不快感や不満を強調する際に用いられます。かなり口語的な表現なので、フォーマルな場では避けるべきです。"
+    },
+    {
+      "id": 59,
+      "value": "plastered",
+      "options": [
+        "酔っ払った",
+        "疲れた",
+        "元気な",
+        "冷静な"
+      ],
+      "correctAnswer": "酔っ払った",
+      "explanation": "「plastered」は、俗語で「ひどく酔っ払った」という意味です。非常にインフォーマルな表現で、強い酩酊状態を表します。フォーマルな場面での使用は避けるべきです。"
+    },
+    {
+      "id": 60,
+      "value": "blow the roof off",
+      "options": [
+        "屋根を修理する",
+        "大騒ぎする",
+        "静かにする",
+        "秘密にする"
+      ],
+      "correctAnswer": "大騒ぎする",
+      "explanation": "「blow the roof off」は、文字通りには「屋根を吹き飛ばす」という意味ですが、比喩的に「大騒ぎする」「盛り上げる」という意味で使われます。パーティーやイベントなどを非常にエネルギッシュにすることを表します。"
+    },
+    {
+      "id": 61,
+      "value": "flatmate",
+      "options": [
+        "親友",
+        "ルームメイト",
+        "家族",
+        "恋人"
+      ],
+      "correctAnswer": "ルームメイト",
+      "explanation": "「flatmate」は、主にイギリス英語で「ルームメイト」を意味します。同じアパートや家を共有する人を指します。アメリカ英語では「roommate」が一般的です。"
+    },
+    {
+      "id": 62,
+      "value": "quirky",
+      "options": [
+        "普通",
+        "風変わり",
+        "退屈",
+        "礼儀正しい"
+      ],
+      "correctAnswer": "風変わり",
+      "explanation": "「quirky」は、少し変わった、ユニークな、風変わりなという意味です。個性的で面白いニュアンスを含みます。人の性格や行動、物事のデザインなど、様々なものに対して使われます。"
+    },
+    {
+      "id": 63,
+      "value": "crazy bastard",
+      "options": [
+        "素晴らしい人",
+        "ばかげたやつ",
+        "普通の友達",
+        "信頼できる仲間"
+      ],
+      "correctAnswer": "ばかげたやつ",
+      "explanation": "「crazy bastard」は、非常にくだけた表現で、「ばかげたやつ」「クレイジーな奴」という意味です。親しい間柄で使われることが多く、愛情やユーモアを含んだニュアンスもありますが、フォーマルな場では避けるべきです。"
+    },
+    {
+      "id": 64,
+      "value": "in the rearview mirror",
+      "options": [
+        "すぐ近くに",
+        "過去のもの",
+        "未来に向かって",
+        "現在の状況"
+      ],
+      "correctAnswer": "過去のもの",
+      "explanation": "「in the rearview mirror」は、「バックミラーの中」という意味から転じて、「過去のもの」「もう過ぎ去ったこと」という意味で使われます。現在の状況と比較して、過去の状態が遠く及ばないことを表現します。"
+    },
+    {
+      "id": 65,
+      "value": "kidding",
+      "options": [
+        "冗談を言う",
+        "真剣に話す",
+        "秘密を守る",
+        "嘘をつく"
+      ],
+      "correctAnswer": "冗談を言う",
+      "explanation": "「kidding」は、「冗談を言っている」「からかっている」という意味です。相手の発言に対して、信じられない気持ちや驚きを表す際に使われます。口語的な表現です。"
+    },
+    {
+      "id": 66,
+      "value": "Bam",
+      "options": [
+        "静かに",
+        "突然",
+        "ゆっくり",
+        "丁寧に"
+      ],
+      "correctAnswer": "突然",
+      "explanation": "「Bam」は、何かが勢いよくぶつかる音を表す擬音語ですが、ここでは「まさにその通り」「一発」といった意味合いで使われています。出来事が突然起こったことや、行動が即座に実行されたことを強調します。"
+    },
+    {
+      "id": 67,
+      "value": "propose a toast",
+      "options": [
+        "乾杯の音頭をとる",
+        "反対する",
+        "議論する",
+        "提案を取り下げる"
+      ],
+      "correctAnswer": "乾杯の音頭をとる",
+      "explanation": "「propose a toast」は、「乾杯の音頭をとる」という意味です。お祝いの場などで、誰かの成功や幸福を祈って、グラスを掲げて言葉を述べることを指します。フォーマルな場面でよく用いられます。"
+    },
+    {
+      "id": 68,
+      "value": "Hear, hear",
+      "options": [
+        "反対",
+        "賛成",
+        "無視",
+        "質問"
+      ],
+      "correctAnswer": "賛成",
+      "explanation": "「Hear, hear」は、主にイギリス英語で「賛成」「その通り」という意味です。演説や発言に対して、同意や支持を示す際に使われます。議会やフォーマルな集まりでよく用いられます。"
+    },
+    {
+      "id": 69,
+      "value": "Cheers",
+      "options": [
+        "こんにちは",
+        "さようなら",
+        "ありがとう",
+        "乾杯"
+      ],
+      "correctAnswer": "乾杯",
+      "explanation": "「Cheers」は、主にイギリス英語で「乾杯」という意味で使われます。また、「ありがとう」「さようなら」といった意味でも使われます。カジュアルな場面でよく用いられる表現です。"
+    },
+    {
+      "id": 70,
+      "value": "spiced",
+      "options": [
+        "辛い",
+        "甘い",
+        "香辛料の入った",
+        "苦い"
+      ],
+      "correctAnswer": "香辛料の入った",
+      "explanation": "「spiced」は、「香辛料を加えた」「風味をつけた」という意味です。料理や飲み物に使われることが多く、風味を豊かにする目的で香辛料が加えられていることを示します。"
+    },
+    {
+      "id": 71,
+      "value": "punch bowl",
+      "options": [
+        "ボクシングの試合",
+        "パンチの練習",
+        "パンチを入れる",
+        "パンチボウル"
+      ],
+      "correctAnswer": "パンチボウル",
+      "explanation": "「punch bowl」は、パーティーなどで供されるパンチを入れるための大きなボウルです。様々なフルーツやジュース、アルコールなどを混ぜて作られた飲み物を、このボウルに入れて提供します。"
+    },
+    {
+      "id": 72,
+      "value": "all this jibber-jabber",
+      "options": [
+        "重要な議論",
+        "無意味なおしゃべり",
+        "秘密の計画",
+        "深刻な問題"
+      ],
+      "correctAnswer": "無意味なおしゃべり",
+      "explanation": "「jibber-jabber」は、無意味で理解しにくいおしゃべり、たわごとを意味します。軽蔑的なニュアンスを含み、話の内容がつまらない、または重要でないことを示します。"
+    },
+    {
+      "id": 73,
+      "value": "get back to",
+      "options": [
+        "戻る",
+        "始める",
+        "忘れる",
+        "中断する"
+      ],
+      "correctAnswer": "戻る",
+      "explanation": "「get back to」は、中断していた話題や活動に戻ることを意味します。会話の流れを元に戻したり、以前取り組んでいた作業を再開したりする際に使用されます。"
+    },
+    {
+      "id": 74,
+      "value": "next thing I know",
+      "options": [
+        "次に知っていること",
+        "次に気づいたこと",
+        "次に忘れたこと",
+        "次に確認すること"
+      ],
+      "correctAnswer": "次に気づいたこと",
+      "explanation": "「next thing I know」は、何かが突然起こったことを示すフレーズです。一連の出来事が予期せず、または迅速に展開したことを強調します。"
+    },
+    {
+      "id": 75,
+      "value": "long story short",
+      "options": [
+        "長い話",
+        "短い話",
+        "隠された話",
+        "嘘の話"
+      ],
+      "correctAnswer": "短い話",
+      "explanation": "「long story short」は、長い話を短くまとめるときに使われるフレーズです。詳細を省略し、要点だけを伝えたい場合に用いられます。"
+    },
+    {
+      "id": 76,
+      "value": "writhing",
+      "options": [
+        "静止する",
+        "苦悶する",
+        "踊る",
+        "リラックスする"
+      ],
+      "correctAnswer": "苦悶する",
+      "explanation": "「writhe」は、苦痛、恥ずかしさ、または不快感のために体をねじったり、もがいたりする様子を表します。肉体的、精神的な苦痛の両方に使われます。例：The snake writhed in pain after being injured. (そのヘビは怪我をして苦痛にもがいた。)"
+    },
+    {
+      "id": 77,
+      "value": "orgy",
+      "options": [
+        "静かな集まり",
+        "禁欲的な生活",
+        "乱痴気騒ぎ",
+        "瞑想会"
+      ],
+      "correctAnswer": "乱痴気騒ぎ",
+      "explanation": "「orgy」は、抑制を欠いた、過度な性的または享楽的な活動を指します。本来は古代ギリシャのディオニュソス祭に由来し、宗教的な意味合いもありましたが、現代では快楽主義的な集まりや、過剰な状態を指す比喩としても使われます。例：The party turned into an orgy of food and drink. (パーティーは飲み食いの乱痴気騒ぎと化した。)"
+    },
+    {
+      "id": 78,
+      "value": "bosom",
+      "options": [
+        "足",
+        "胸",
+        "腕",
+        "背中"
+      ],
+      "correctAnswer": "胸",
+      "explanation": "「bosom」は、女性の胸、特に衣服で覆われた胸部を指す古風で詩的な言葉です。比喩的には、愛情や保護の場所、または心の奥底を意味することもあります。例：She held the child to her bosom. (彼女は子供を胸に抱きしめた。)"
+    },
+    {
+      "id": 79,
+      "value": "hook up with",
+      "options": [
+        "喧嘩する",
+        "仲直りする",
+        "性的関係を持つ",
+        "無視する"
+      ],
+      "correctAnswer": "性的関係を持つ",
+      "explanation": "「hook up with」は、カジュアルな性的関係を持つ、または一時的な恋愛関係になるという意味のスラングです。真剣な交際を伴わない、軽い関係を指すことが多いです。例：They hooked up at the party. (彼らはパーティーで知り合って性的関係を持った。)"
+    },
+    {
+      "id": 80,
+      "value": "unspeakable",
+      "options": [
+        "言葉にできる",
+        "言い表せない",
+        "理解できる",
+        "簡単な"
+      ],
+      "correctAnswer": "言い表せない",
+      "explanation": "「unspeakable」は、非常に悪い、不快、または衝撃的であるため、言葉で表現できない、または語るに値しないという意味です。例：The suffering of the victims was unspeakable. (犠牲者たちの苦しみは言葉では言い表せないほどだった。)"
+    },
+    {
+      "id": 81,
+      "value": "kick him to the curb",
+      "options": [
+        "彼を助ける",
+        "彼を無視する",
+        "彼を捨てる",
+        "彼を尊敬する"
+      ],
+      "correctAnswer": "彼を捨てる",
+      "explanation": "「kick someone to the curb」は、誰かを冷酷に捨てる、または関係を終わらせるという意味の口語表現です。特に、利用価値がなくなった後に見捨てるようなニュアンスがあります。例：After she got the promotion, she kicked her old friends to the curb. (彼女は昇進した後、古い友人たちを見捨てた。)"
+    },
+    {
+      "id": 82,
+      "value": "heinie",
+      "options": [
+        "頭",
+        "手",
+        "お尻",
+        "足"
+      ],
+      "correctAnswer": "お尻",
+      "explanation": "「heinie」は、お尻を指すスラングです。子供っぽい、または軽蔑的なニュアンスがあります。フォーマルな場では避けるべき言葉です。例：Get your heinie over here! (お尻をこっちに向けろ！)"
+    },
+    {
+      "id": 83,
+      "value": "self-loathing",
+      "options": [
+        "自己愛",
+        "自己嫌悪",
+        "自己満足",
+        "自己犠牲"
+      ],
+      "correctAnswer": "自己嫌悪",
+      "explanation": "「self-loathing」は、自分自身を強く嫌う感情、自己嫌悪を意味します。深い絶望感や自己否定感と結びついていることが多いです。例：His self-loathing stemmed from his past mistakes. (彼の自己嫌悪は過去の過ちから生じていた。)"
+    },
+    {
+      "id": 84,
+      "value": "tension-relieving",
+      "options": [
+        "緊張を高める",
+        "緊張を緩和する",
+        "緊張を無視する",
+        "緊張を楽しむ"
+      ],
+      "correctAnswer": "緊張を緩和する",
+      "explanation": "「tension-relieving」は、緊張やストレスを軽減する、または緩和するという意味です。リラックスできる活動や方法を指すことが多いです。例：Yoga is a great tension-relieving activity. (ヨガは素晴らしい緊張緩和活動です。)"
+    },
+    {
+      "id": 85,
+      "value": "heavy-handed",
+      "options": [
+        "繊細な",
+        "不器用な",
+        "巧妙な",
+        "直接的な"
+      ],
+      "correctAnswer": "不器用な",
+      "explanation": "「heavy-handed」は、やり方が不器用で、繊細さに欠けるという意味です。特に、表現や行動が露骨で、押しつけがましい場合に用いられます。例：His attempt at humor was heavy-handed. (彼のユーモアの試みは不器用だった。)"
+    },
+    {
+      "id": 86,
+      "value": "screw it",
+      "options": [
+        "修理する",
+        "気にする",
+        "無視する",
+        "改善する"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「screw it」は、何かを諦める、または気にしないという意味の口語表現です。しばしば、衝動的な決断や、後で後悔するかもしれない行動を起こす際に使われます。例：I was going to save money, but screw it, I'm going on vacation. (お金を貯めるつもりだったけど、もういいや、旅行に行く。)"
+    },
+    {
+      "id": 87,
+      "value": "dibs",
+      "options": [
+        "拒否権",
+        "優先権",
+        "義務",
+        "責任"
+      ],
+      "correctAnswer": "優先権",
+      "explanation": "「dibs」は、何かに対する優先権を主張する際に使われる口語表現です。通常、最初に「dibs」と言った人がその権利を得ます。子供の間でよく使われる言葉です。例：I call dibs on the front seat! (前の席は僕がもらった！)"
+    },
+    {
+      "id": 88,
+      "value": "loom",
+      "options": [
+        "ほうき",
+        "織機",
+        "部屋",
+        "ランプ"
+      ],
+      "correctAnswer": "織機",
+      "explanation": "「loom」は、糸を織って布を作るための機械、織機を意味します。手織り機から自動織機まで、様々な種類があります。例：She learned to weave on a traditional loom. (彼女は伝統的な織機で織物をすることを学んだ。)"
+    },
+    {
+      "id": 89,
+      "value": "serape",
+      "options": [
+        "帽子",
+        "靴",
+        "ポンチョ",
+        "ベルト"
+      ],
+      "correctAnswer": "ポンチョ",
+      "explanation": "「serape」は、メキシコやラテンアメリカで着用される、明るい色のストライプや模様が入った長方形のショールまたはポンチョです。防寒具として、または装飾品として使われます。例：He wore a colorful serape to the festival. (彼は祭りにカラフルなセラペを羽織って行った。)"
+    },
+    {
+      "id": 90,
+      "value": "nip in the air",
+      "options": [
+        "暖かさ",
+        "湿気",
+        "肌寒さ",
+        "嵐"
+      ],
+      "correctAnswer": "肌寒さ",
+      "explanation": "「nip in the air」は、空気中に感じるわずかな肌寒さ、特に秋の初めや冬の終わりに感じる寒さを指します。例：There's a nip in the air today, so wear a jacket. (今日は少し肌寒いので、ジャケットを着ていきなさい。)"
+    },
+    {
+      "id": 91,
+      "value": "sovereign nation",
+      "options": [
+        "植民地",
+        "独立国家",
+        "自治区",
+        "保護国"
+      ],
+      "correctAnswer": "独立国家",
+      "explanation": "「sovereign nation」は、他国の干渉を受けずに独立して統治を行う国家を意味します。独自の政府、領土、国民を持ち、国際法の下で認められています。例：Switzerland is a sovereign nation. (スイスは独立国家である。)"
+    },
+    {
+      "id": 92,
+      "value": "quirky",
+      "options": [
+        "普通",
+        "退屈",
+        "風変わり",
+        "真面目"
+      ],
+      "correctAnswer": "風変わり",
+      "explanation": "「quirky」は、風変わりで、普通とは少し違う、またはユニークなという意味です。必ずしもネガティブな意味ではなく、魅力的な個性を表すこともあります。例：She has a quirky sense of humor. (彼女は風変わりなユーモアのセンスを持っている。)"
+    },
+    {
+      "id": 93,
+      "value": "know-it-all",
+      "options": [
+        "知識人",
+        "無知な人",
+        "何でも屋",
+        "知りたがり屋"
+      ],
+      "correctAnswer": "何でも屋",
+      "explanation": "「know-it-all」は、何でも知っているかのように振る舞う人、または自分の知識をひけらかす人を指す軽蔑的な言葉です。しばしば、他人を見下すような態度を伴います。例：Nobody likes a know-it-all. (誰もが何でも知っているような人は嫌いだ。)"
+    },
+    {
+      "id": 94,
+      "value": "backing vocals",
+      "options": [
+        "主旋律",
+        "伴奏",
+        "裏声",
+        "ハモリ"
+      ],
+      "correctAnswer": "ハモリ",
+      "explanation": "「backing vocals」は、メインボーカルをサポートする、ハーモニーやコーラスなどの歌唱パートを意味します。楽曲に厚みや奥行きを加える役割を果たします。例：The song features beautiful backing vocals. (その歌は美しいバックボーカルが特徴です。)"
+    },
+    {
+      "id": 95,
+      "value": "I am so done with",
+      "options": [
+        "賛成する",
+        "興味がある",
+        "うんざりだ",
+        "熱中している"
+      ],
+      "correctAnswer": "うんざりだ",
+      "explanation": "「I am so done with」は、もううんざりだ、もうたくさんだ、という意味の口語表現です。耐えられないほど嫌気が差している状態を表します。例：I am so done with this job. (この仕事にはもううんざりだ。)"
+    },
+    {
+      "id": 96,
+      "value": "packed tightly",
+      "options": [
+        "ゆったりとしている",
+        "空いている",
+        "ぎゅうぎゅう詰め",
+        "整然と並んでいる"
+      ],
+      "correctAnswer": "ぎゅうぎゅう詰め",
+      "explanation": "「packed tightly」は、何かが非常に密集している、またはぎゅうぎゅう詰めの状態を表します。物理的な空間や状況に用いられます。例：The train was packed tightly with commuters. (電車は通勤客でぎゅうぎゅう詰めだった。)"
+    },
+    {
+      "id": 97,
+      "value": "go through this one more time",
+      "options": [
+        "一度もやらない",
+        "繰り返す",
+        "スキップする",
+        "終わらせる"
+      ],
+      "correctAnswer": "繰り返す",
+      "explanation": "「go through this one more time」は、もう一度繰り返す、または確認するという意味です。理解を深めるため、または間違いがないか確認するために使われます。例：Let's go through the instructions one more time. (もう一度指示を確認しましょう。)"
+    },
+    {
+      "id": 98,
+      "value": "more or less",
+      "options": [
+        "完全に違う",
+        "ほとんど同じ",
+        "全く関係ない",
+        "詳細に説明する"
+      ],
+      "correctAnswer": "ほとんど同じ",
+      "explanation": "「more or less」は、ほぼ同じ、だいたい合っている、という意味です。細部には違いがあるかもしれないが、全体的には一致していることを示唆します。例：The project is more or less finished. (プロジェクトはほぼ完了している。)"
+    },
+    {
+      "id": 99,
+      "value": "for the first time in my life",
+      "options": [
+        "いつも",
+        "たまに",
+        "人生で初めて",
+        "過去に何度も"
+      ],
+      "correctAnswer": "人生で初めて",
+      "explanation": "「for the first time in my life」は、人生で初めて経験すること、または初めての状態であることを強調する表現です。特別な感情や変化を伴うことが多いです。例：For the first time in my life, I feel truly happy. (人生で初めて、本当に幸せだと感じる。)"
+    },
+    {
+      "id": 100,
+      "value": "to propose a toast",
+      "options": [
+        "乾杯の音頭をとる",
+        "反対意見を述べる",
+        "沈黙を守る",
+        "無視する"
+      ],
+      "correctAnswer": "乾杯の音頭をとる",
+      "explanation": "「to propose a toast」は、乾杯の音頭をとる、または乾杯の挨拶をするという意味です。お祝いの言葉や願いを述べて、参加者全員でグラスを掲げて祝う行為を指します。例：He proposed a toast to the happy couple. (彼は幸せなカップルに乾杯の音頭をとった。)"
+    }
+  ]
+}

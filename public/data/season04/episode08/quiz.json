@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "rock a hat",
+      "options": [
+        "帽子を投げる",
+        "帽子をかぶって上手く着こなす",
+        "帽子を盗む",
+        "帽子を修理する"
+      ],
+      "correctAnswer": "帽子をかぶって上手く着こなす",
+      "explanation": "「rock」はスラングで、「（服などを）かっこよく着こなす」「うまく乗りこなす」という意味です。ここでは、インディ・ジョーンズのような帽子をかっこよくかぶれるという意味になります。"
+    },
+    {
+      "id": 2,
+      "value": "iconic",
+      "options": [
+        "象徴的な",
+        "皮肉な",
+        "批判的な",
+        "無名の"
+      ],
+      "correctAnswer": "象徴的な",
+      "explanation": "「iconic」は、「象徴的な」「偶像的な」という意味です。広く知られ、特定の文化や時代を代表するようなものを指します。ここでは、マイケル・ジャクソンのスリラーの赤いジャケットが非常に有名であることを強調しています。"
+    },
+    {
+      "id": 3,
+      "value": "in its entirety",
+      "options": [
+        "部分的に",
+        "完全に",
+        "大雑把に",
+        "批判的に"
+      ],
+      "correctAnswer": "完全に",
+      "explanation": "「in its entirety」は、「全体として」「完全に」という意味です。ここでは、映画やビデオなどを最初から最後まで全部見るという意味で使われています。"
+    },
+    {
+      "id": 4,
+      "value": "choreographed synchronicity",
+      "options": [
+        "振り付けられた同調",
+        "自然発生的な共鳴",
+        "即興的な不協和音",
+        "無秩序な混乱"
+      ],
+      "correctAnswer": "振り付けられた同調",
+      "explanation": "「choreographed synchronicity」は、「振り付けられた同調」という意味です。ここでは、ゾンビたちが踊る様子が、事前に計画されたかのようにぴったりと合っていることを指しています。"
+    },
+    {
+      "id": 5,
+      "value": "commentary track",
+      "options": [
+        "解説",
+        "音楽",
+        "効果音",
+        "字幕"
+      ],
+      "correctAnswer": "解説",
+      "explanation": "「commentary track」は、映画やテレビ番組などで、制作者や出演者が作品について解説する音声トラックのことです。ここでは、シェルドンの止まらないおしゃべりを、映画の解説音声になぞらえています。"
+    },
+    {
+      "id": 6,
+      "value": "implausible",
+      "options": [
+        "信じられない",
+        "もっともらしい",
+        "興味深い",
+        "退屈な"
+      ],
+      "correctAnswer": "信じられない",
+      "explanation": "「implausible」は、「信じがたい」「ありそうもない」という意味です。ここでは、ゾンビが振り付けに合わせて踊ることが現実にはありえない、と言っています。"
+    },
+    {
+      "id": 7,
+      "value": "sarcasm",
+      "options": [
+        "皮肉",
+        "ユーモア",
+        "喜び",
+        "怒り"
+      ],
+      "correctAnswer": "皮肉",
+      "explanation": "「sarcasm」は、「皮肉」という意味です。相手を揶揄したり、反語的な表現を使って批判したりする際に用いられます。ここでは、ペニーが21秒の追加映像に興味がないことを皮肉っぽく表現しています。"
+    },
+    {
+      "id": 8,
+      "value": "first come, first served",
+      "options": [
+        "早い者勝ち",
+        "後回し",
+        "予約優先",
+        "抽選制"
+      ],
+      "correctAnswer": "早い者勝ち",
+      "explanation": "「first come, first served」は、「先着順」「早い者勝ち」という意味です。ここでは、映画の上映が良い席から埋まっていくことを意味しています。"
+    },
+    {
+      "id": 9,
+      "value": "whine",
+      "options": [
+        "不満を言う",
+        "喜ぶ",
+        "歌う",
+        "踊る"
+      ],
+      "correctAnswer": "不満を言う",
+      "explanation": "「whine」は、「（甲高い声で）不平を言う」「ぐちぐち言う」という意味です。ここでは、シェルドンが映画を見逃した場合に、ずっと不満を言い続けるだろうとからかっています。"
+    },
+    {
+      "id": 10,
+      "value": "drat",
+      "options": [
+        "やった!",
+        "しまった!",
+        "ありがとう!",
+        "ごめんなさい!"
+      ],
+      "correctAnswer": "しまった!",
+      "explanation": "「drat」は、「ちくしょう」「しまった」という意味の間投詞です。軽い不満や失望を表す際に用いられます。ここでは、シェルドンが皮肉を理解できなかったことに対する落胆を表しています。"
+    },
+    {
+      "id": 11,
+      "value": "step out of line",
+      "options": [
+        "列から抜け出す",
+        "規則を守る",
+        "列に割り込む",
+        "新しいことを始める"
+      ],
+      "correctAnswer": "列から抜け出す",
+      "explanation": "「step out of line」は、「列を離れる」「規則を破る」という意味があります。ここでは、トイレに行くために列を離れたことを指しています。"
+    },
+    {
+      "id": 12,
+      "value": "vouch for",
+      "options": [
+        "保証する",
+        "非難する",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "保証する",
+      "explanation": "「vouch for」は、「（人の）身元を保証する」「（物の）品質を保証する」という意味です。ここでは、レナードのためにシェルドンが彼の身元を保証することを期待していた、という意味になります。"
+    },
+    {
+      "id": 13,
+      "value": "I rest my case",
+      "options": [
+        "これで弁論を終わります",
+        "私は休憩します",
+        "私は反対します",
+        "私は諦めます"
+      ],
+      "correctAnswer": "これで弁論を終わります",
+      "explanation": "「I rest my case」は、「これで私の主張は終わりです」「私の言い分は以上です」という意味です。自分の主張が十分に証明されたと考え、議論を終える際に使われます。"
+    },
+    {
+      "id": 14,
+      "value": "arbitrarily siding",
+      "options": [
+        "恣意的に味方する",
+        "常に反対する",
+        "論理的に議論する",
+        "感情的に同意する"
+      ],
+      "correctAnswer": "恣意的に味方する",
+      "explanation": "「arbitrarily」は、「恣意的に」「独断的に」という意味です。「siding」は「味方する」という意味なので、「arbitrarily siding」は「特に理由もなく、その場の気分や都合でどちらかの味方をする」という意味になります。"
+    },
+    {
+      "id": 15,
+      "value": "shrewd",
+      "options": [
+        "賢い",
+        "愚かな",
+        "優しい",
+        "残酷な"
+      ],
+      "correctAnswer": "賢い",
+      "explanation": "「shrewd」は、「抜け目のない」「賢い」「鋭い」という意味です。特に、状況を理解し、自分の利益のためにうまく立ち回るような賢さを指します。"
+    },
+    {
+      "id": 16,
+      "value": "wind up with",
+      "options": [
+        "最終的に～になる",
+        "～を始める",
+        "～を避ける",
+        "～を計画する"
+      ],
+      "correctAnswer": "最終的に～になる",
+      "explanation": "「wind up with」は、「最終的に～になる」「～という結果になる」という意味です。ここでは、映画館でひどい席になってしまうかもしれない、という意味で使われています。"
+    },
+    {
+      "id": 17,
+      "value": "entail",
+      "options": [
+        "伴う",
+        "避ける",
+        "無視する",
+        "隠す"
+      ],
+      "correctAnswer": "伴う",
+      "explanation": "「entail」は、「（必然的に）伴う」「必要とする」という意味です。ここでは、ガールズ・ナイトがどのような内容になるのかを尋ねています。"
+    },
+    {
+      "id": 18,
+      "value": "hysterical",
+      "options": [
+        "とても面白い",
+        "悲劇的な",
+        "退屈な",
+        "恐ろしい"
+      ],
+      "correctAnswer": "とても面白い",
+      "explanation": "「hysterical」は、ここでは「とても面白い」「笑いを誘う」という意味で使われています。普段の意味は「ヒステリックな」となります。"
+    },
+    {
+      "id": 19,
+      "value": "melting faces",
+      "options": [
+        "溶ける顔",
+        "笑顔",
+        "しかめっ面",
+        "泣き顔"
+      ],
+      "correctAnswer": "溶ける顔",
+      "explanation": "インディ・ジョーンズに登場する、恐ろしいシーンのこと。"
+    },
+    {
+      "id": 20,
+      "value": "to mock you",
+      "options": [
+        "あなたを応援する",
+        "あなたをからかう",
+        "あなたを無視する",
+        "あなたを助ける"
+      ],
+      "correctAnswer": "あなたをからかう",
+      "explanation": "「mock」は、「あざける」「ばかにする」という意味です。ここでは、ハワードがシェルドンをからかうために皮肉を使っていることを表しています。"
+    },
+    {
+      "id": 21,
+      "value": "Previously unseen footage",
+      "options": [
+        "未公開映像",
+        "過去の映像",
+        "編集された映像",
+        "アニメーション映像"
+      ],
+      "correctAnswer": "未公開映像",
+      "explanation": "「previously unseen footage」は、「以前には見られなかった映像」「未公開映像」という意味です。"
+    },
+    {
+      "id": 22,
+      "value": "submarine controversy",
+      "options": [
+        "潜水艦に関する論争",
+        "宇宙に関する論争",
+        "映画のキャスティングに関する論争",
+        "脚本に関する論争"
+      ],
+      "correctAnswer": "潜水艦に関する論争",
+      "explanation": "インディージョーンズに登場する潜水艦に関する矛盾や不自然な点についての論争"
+    },
+    {
+      "id": 23,
+      "value": "get old",
+      "options": [
+        "古くなる",
+        "面白くなる",
+        "新しくなる",
+        "改善される"
+      ],
+      "correctAnswer": "古くなる",
+      "explanation": "ここでは、「飽きる」「うんざりする」という意味で使われています。"
+    },
+    {
+      "id": 24,
+      "value": "girls' night",
+      "options": [
+        "女性だけの夜",
+        "男性だけの夜",
+        "家族の夜",
+        "仕事の夜"
+      ],
+      "correctAnswer": "女性だけの夜",
+      "explanation": "「girls' night」は、女性だけで過ごす夜のことです。映画を見たり、おしゃべりしたり、一緒に楽しむ時間を指します。"
+    },
+    {
+      "id": 25,
+      "value": "adult bookstore",
+      "options": [
+        "大人の本屋",
+        "子供向けの本屋",
+        "専門書の本屋",
+        "古本屋"
+      ],
+      "correctAnswer": "大人の本屋",
+      "explanation": "「adult bookstore」は、成人向けの書籍やビデオなどを販売する店のことです。"
+    },
+    {
+      "id": 26,
+      "value": "hang out",
+      "options": [
+        "手伝う",
+        "中断する",
+        "たむろする",
+        "無視する"
+      ],
+      "correctAnswer": "たむろする",
+      "explanation": "「hang out」は、友達と気軽に過ごす、一緒に時間を過ごすという意味です。特に目的もなく、リラックスした状況で使われることが多いです。\n\n例：We used to hang out at the park after school. (私たちは放課後によく公園でたむろした。)"
+    },
+    {
+      "id": 27,
+      "value": "girl talk",
+      "options": [
+        "秘密の会話",
+        "少女趣味",
+        "ガールズトーク",
+        "内緒話"
+      ],
+      "correctAnswer": "ガールズトーク",
+      "explanation": "「girl talk」は、女性同士が恋愛、ファッション、人間関係など、女性特有の話題について話すことを指します。親密な雰囲気で共有されることが多いです。\n\n例：They were having some girl talk about their boyfriends. (彼女たちは彼氏についてガールズトークをしていた。)"
+    },
+    {
+      "id": 28,
+      "value": "menses",
+      "options": [
+        "発作",
+        "月経",
+        "病気",
+        "習慣"
+      ],
+      "correctAnswer": "月経",
+      "explanation": "「menses」は、月経を意味する医学用語です。日常会話ではあまり使われませんが、フォーマルな文脈や医学的な状況で用いられます。\n\n例：The onset of menses usually occurs between the ages of 12 and 14. (月経の開始は通常12歳から14歳の間に起こる。)"
+    },
+    {
+      "id": 29,
+      "value": "synchronized",
+      "options": [
+        "分離した",
+        "同期した",
+        "非同期の",
+        "複雑な"
+      ],
+      "correctAnswer": "同期した",
+      "explanation": "「synchronized」は、複数の事象が同時に、または同じタイミングで起こることを意味します。ここでは、月経周期が一致していることを指します。\n\n例：The dancers' movements were perfectly synchronized. (ダンサーたちの動きは完全にシンクロしていた。)"
+    },
+    {
+      "id": 30,
+      "value": "dress code",
+      "options": [
+        "服装規定",
+        "住所",
+        "暗号",
+        "新しい服"
+      ],
+      "correctAnswer": "服装規定",
+      "explanation": "「dress code」は、特定の場所やイベントで求められる服装のルールや基準を指します。フォーマルな場からカジュアルな場まで、様々な状況で設定されます。\n\n例：The restaurant has a strict dress code; no jeans or sneakers allowed. (そのレストランには厳格な服装規定があり、ジーンズやスニーカーは許可されていません。)"
+    },
+    {
+      "id": 31,
+      "value": "get in line",
+      "options": [
+        "列に並ぶ",
+        "整理する",
+        "電話を切る",
+        "忘れてしまう"
+      ],
+      "correctAnswer": "列に並ぶ",
+      "explanation": "「get in line」は、順番待ちのために列に並ぶという意味です。物理的な列だけでなく、比喩的に順番を待つ状況にも使われます。\n\n例：If you want to buy tickets, you need to get in line early. (チケットを買いたいなら、早く列に並ぶ必要があります。)"
+    },
+    {
+      "id": 32,
+      "value": "knock-knock joke",
+      "options": [
+        "悪ふざけ",
+        "内緒の話",
+        "秘密の計画",
+        "とんとんジョーク"
+      ],
+      "correctAnswer": "とんとんジョーク",
+      "explanation": "「knock-knock joke」は、英語圏で一般的なジョークの形式で、「Knock, knock.」という問いかけから始まります。ユーモラスな応答を期待するものです。\n\n例：He started telling a knock-knock joke to lighten the mood. (彼は雰囲気を和らげるために、とんとんジョークを始めた。)"
+    },
+    {
+      "id": 33,
+      "value": "under normal circumstances",
+      "options": [
+        "異常気象",
+        "特別な状況下で",
+        "通常の状況下で",
+        "緊急事態"
+      ],
+      "correctAnswer": "通常の状況下で",
+      "explanation": "「under normal circumstances」は、通常の状態であれば、という意味です。特定の状況が通常と異なる場合に、その影響を考慮する際に使われます。\n\n例：Under normal circumstances, the flight would have arrived on time. (通常の状況であれば、その便は時間通りに到着していただろう。)"
+    },
+    {
+      "id": 34,
+      "value": "I told you so",
+      "options": [
+        "その通り",
+        "だから言ったのに",
+        "気にしないで",
+        "仕方ない"
+      ],
+      "correctAnswer": "だから言ったのに",
+      "explanation": "「I told you so」は、相手が自分の忠告を聞かずに失敗した時に、「だから言ったのに」という意味で使われるフレーズです。やや皮肉なニュアンスを含みます。\n\n例：I told you so, you should have brought an umbrella. (だから言ったのに、傘を持ってくるべきだったんだ。)"
+    },
+    {
+      "id": 35,
+      "value": "vehemence",
+      "options": [
+        "穏やかさ",
+        "激しさ",
+        "沈黙",
+        "幸福"
+      ],
+      "correctAnswer": "激しさ",
+      "explanation": "「vehemence」は、感情や意見の激しさ、熱烈さを意味します。強い確信や感情を伴う場合に用いられます。\n\n例：He spoke with vehemence about the need for reform. (彼は改革の必要性について激しく語った。)"
+    },
+    {
+      "id": 36,
+      "value": "thusly",
+      "options": [
+        "突然に",
+        "このように",
+        "静かに",
+        "優しく"
+      ],
+      "correctAnswer": "このように",
+      "explanation": "「thusly」は、「thus」を強調した表現で、「このように」という意味です。やや古風な言い方で、日常会話ではあまり使われません。\n\n例：He explained thusly the reasons for his decision. (彼はこのように彼の決定の理由を説明した。)"
+    },
+    {
+      "id": 37,
+      "value": "runts",
+      "options": [
+        "才能",
+        "末っ子",
+        "巨人",
+        "知恵"
+      ],
+      "correctAnswer": "末っ子",
+      "explanation": "「runt」は、動物の群れや家族の中で最も小さい個体、または人間に対しては小柄な人を指します。ここでは、列の後ろの方に並んでいて、良い席にありつけない自分たちを比喩的に表現しています。\n\n例：The runt of the litter was always getting picked on by his brothers. (その兄弟の中で一番小さかった彼は、いつも兄弟にいじめられていました。)"
+    },
+    {
+      "id": 38,
+      "value": "litter",
+      "options": [
+        "ゴミ",
+        "寝床",
+        "集団",
+        "光"
+      ],
+      "correctAnswer": "集団",
+      "explanation": "「litter」は、動物が一度に出産する子供たちの集まりを指します。比喩的に、似たような特性を持つ人々の集まりを指すこともあります。\n\n例：The cat had a litter of five kittens. (その猫は5匹の子猫を産んだ。)"
+    },
+    {
+      "id": 39,
+      "value": "teats",
+      "options": [
+        "爪",
+        "乳首",
+        "指",
+        "足"
+      ],
+      "correctAnswer": "乳首",
+      "explanation": "「teat」は、哺乳類の乳首を指す言葉です。ここでは、映画館の良い席を、母乳を与える乳首に例えています。\n\n例：The baby was suckling at its mother's teat. (赤ちゃんは母親の乳首を吸っていた。)"
+    },
+    {
+      "id": 40,
+      "value": "Eat, Pray, Love",
+      "options": [
+        "映画のタイトル",
+        "レストランの名前",
+        "本と映画のタイトル",
+        "旅行の計画"
+      ],
+      "correctAnswer": "本と映画のタイトル",
+      "explanation": "「Eat, Pray, Love」は、エリザベス・ギルバートの回顧録であり、後に映画化もされました。自己発見と癒しをテーマにした作品です。\n\n例：She was inspired by the book Eat, Pray, Love to travel the world. (彼女は『Eat, Pray, Love』という本に触発され、世界を旅することにした。)"
+    },
+    {
+      "id": 41,
+      "value": "lady parts",
+      "options": [
+        "女性の秘密",
+        "女性器",
+        "美しい場所",
+        "女性の持ち物"
+      ],
+      "correctAnswer": "女性器",
+      "explanation": "「lady parts」は、女性器を婉曲的に表現する際に使われる口語的な表現です。直接的な表現を避けるために用いられます。\n\n例：The doctor asked her about her lady parts during the examination. (診察中、医者は彼女に女性器について尋ねた。)"
+    },
+    {
+      "id": 42,
+      "value": "zinger",
+      "options": [
+        "秘密",
+        "衝撃的な話",
+        "ジョーク",
+        "新しい服"
+      ],
+      "correctAnswer": "ジョーク",
+      "explanation": "「zinger」は、人を驚かせたり、笑わせたりするような、機知に富んだ発言やジョークを指します。特に、ユーモアのセンスが光る場合に用いられます。\n\n例：He ended his speech with a real zinger, which got everyone laughing. (彼はスピーチを、皆を笑わせるような最高のジョークで締めくくった。)"
+    },
+    {
+      "id": 43,
+      "value": "front",
+      "options": [
+        "裏",
+        "隠れ蓑",
+        "正面",
+        "始まり"
+      ],
+      "correctAnswer": "隠れ蓑",
+      "explanation": "「front」は、表向きの顔、隠れ蓑という意味で使われます。ここでは、人身売買を隠すための名目上のビジネスであることを示唆しています。\n\n例：The shop was just a front for illegal activities. (その店は違法行為の隠れ蓑に過ぎなかった。)"
+    },
+    {
+      "id": 44,
+      "value": "implements",
+      "options": [
+        "機械",
+        "道具",
+        "発明",
+        "装飾"
+      ],
+      "correctAnswer": "道具",
+      "explanation": "「implements」は、特定の作業や目的のために使用される道具や器具を指します。ここでは、マニキュアに使用される器具を意味します。\n\n例：The farmer used various implements to plow the field. (農夫は畑を耕すために様々な道具を使った。)"
+    },
+    {
+      "id": 45,
+      "value": "bond",
+      "options": [
+        "束縛",
+        "絆",
+        "離婚",
+        "借金"
+      ],
+      "correctAnswer": "絆",
+      "explanation": "「bond」は、人々の間に存在する繋がりや結びつきを意味します。友情、愛情、信頼など、様々な感情的な繋がりを指します。\n\n例：The shared experience helped to strengthen their bond. (共通の経験は彼らの絆を強めるのに役立った。)"
+    },
+    {
+      "id": 46,
+      "value": "BFF",
+      "options": [
+        "大親友",
+        "古い友達",
+        "ビジネスパートナー",
+        "ボーイフレンド"
+      ],
+      "correctAnswer": "大親友",
+      "explanation": "「BFF」は、「Best Friends Forever」の略で、永遠の親友、大親友という意味のスラングです。特に若い世代の間でよく使われます。\n\n例：They've been BFFs since kindergarten. (彼らは幼稚園の頃からずっと大親友だ。)"
+    },
+    {
+      "id": 47,
+      "value": "slumber party",
+      "options": [
+        "誕生日会",
+        "お泊り会",
+        "送別会",
+        "クリスマス会"
+      ],
+      "correctAnswer": "お泊り会",
+      "explanation": "「slumber party」は、子供たちが友達の家に泊まり、夜通し遊んだり、おしゃべりしたりするパーティーのことです。\n\n例：We're having a slumber party at my house this weekend. (今週末、私の家でお泊り会をする予定です。)"
+    },
+    {
+      "id": 48,
+      "value": "makeovers",
+      "options": [
+        "化粧",
+        "変身",
+        "仮装",
+        "お祝い"
+      ],
+      "correctAnswer": "変身",
+      "explanation": "「makeover」は、外見を大きく変えることを意味します。化粧、ヘアスタイル、服装などを変えることで、印象を大きく変えることを指します。\n\n例：She got a complete makeover and looked like a different person. (彼女は完全な変身を遂げ、まるで別人のように見えた。)"
+    },
+    {
+      "id": 49,
+      "value": "spirited",
+      "options": [
+        "元気な",
+        "静かな",
+        "陰気な",
+        "疲れた"
+      ],
+      "correctAnswer": "元気な",
+      "explanation": "「spirited」は、元気があり、活発で、熱意に満ちている様子を表します。ここでは、活発な枕投げを意味します。\n\n例：The team played a spirited game despite the rain. (チームは雨にもかかわらず、元気いっぱいの試合を繰り広げた。)"
+    },
+    {
+      "id": 50,
+      "value": "vicious circle",
+      "options": [
+        "友情",
+        "悪循環",
+        "秘密",
+        "良い行い"
+      ],
+      "correctAnswer": "悪循環",
+      "explanation": "「vicious circle」は、悪い状況が原因でさらに悪い状況を引き起こし、それが繰り返される悪循環を指します。抜け出すのが難しい状況を表します。\n\n例：He was caught in a vicious circle of debt. (彼は借金の悪循環に陥っていた。)"
+    },
+    {
+      "id": 51,
+      "value": "Nice going",
+      "options": [
+        "順調に進んでいる",
+        "よくやった",
+        "元気を出して",
+        "おやすみ"
+      ],
+      "correctAnswer": "よくやった",
+      "explanation": "「Nice going」は、相手の行動を褒める時に使われる表現です。皮肉として使われることもあります。今回の場合は、皮肉の意味合いは薄く、RajがSheldonを寝かしつけたことに対して言っています。"
+    },
+    {
+      "id": 52,
+      "value": "thusly",
+      "options": [
+        "このように",
+        "突然に",
+        "正直に",
+        "一般的に"
+      ],
+      "correctAnswer": "このように",
+      "explanation": "「thusly」は、「thus」を強調した表現で、「このように」「従って」という意味を持ちます。やや古風で、冗談めかして使われることもあります。Sheldonが自分の行動を大げさに表現するために使っています。"
+    },
+    {
+      "id": 53,
+      "value": "Jar Jar Binks",
+      "options": [
+        "スターウォーズの人気キャラ",
+        "スターウォーズの不人気キャラ",
+        "スタートレックの人気キャラ",
+        "スタートレックの不人気キャラ"
+      ],
+      "correctAnswer": "スターウォーズの不人気キャラ",
+      "explanation": "「Jar Jar Binks」は、映画『スター・ウォーズ エピソード1/ファントム・メナス』に登場するキャラクターで、そのコミカルなキャラクター性から賛否両論があります。ここでは、Wil Wheatonを揶揄する際に、不人気なキャラクターの代表として使われています。"
+    },
+    {
+      "id": 54,
+      "value": "no cuts, no buts, no coconuts",
+      "options": [
+        "割り込み禁止",
+        "ココナッツ禁止",
+        "文句なし",
+        "秘密厳守"
+      ],
+      "correctAnswer": "割り込み禁止",
+      "explanation": "韻を踏んだ表現で、ルールを強調するために使われます。「cuts」は割り込み、「buts」は言い訳を意味し、これらを禁止することで、列の秩序を守ろうとしています。「coconuts」は韻を踏むための言葉遊びです。"
+    },
+    {
+      "id": 55,
+      "value": "hook you up",
+      "options": [
+        "紹介する",
+        "助ける",
+        "取り上げる",
+        "騙す"
+      ],
+      "correctAnswer": "助ける",
+      "explanation": "「hook someone up」は、誰かを助ける、便宜を図るという意味のスラングです。ここでは、劇場スタッフがWil Wheatonに良い席を用意してあげることを意味しています。"
+    },
+    {
+      "id": 56,
+      "value": "affront to justice and decency",
+      "options": [
+        "正義と礼儀に対する侮辱",
+        "法律違反",
+        "常識",
+        "不正競争"
+      ],
+      "correctAnswer": "正義と礼儀に対する侮辱",
+      "explanation": "「affront」は侮辱、軽蔑を意味し、「decency」は礼儀正しさ、良識を意味します。ここでは、Wil Wheatonが特別扱いされることに対するSheldonの強い不満を表しています。"
+    },
+    {
+      "id": 57,
+      "value": "The line must be drawn here!",
+      "options": [
+        "ここで線を引かなければならない",
+        "線を引くのは簡単だ",
+        "線はどこにでも引ける",
+        "線は引かない方が良い"
+      ],
+      "correctAnswer": "ここで線を引かなければならない",
+      "explanation": "これは映画『スター・トレック』からの引用で、譲れない一線を示す際に使われます。ここでは、Wil Wheatonの不正な行為を許さないというSheldonの強い決意を表しています。"
+    },
+    {
+      "id": 58,
+      "value": "sultry",
+      "options": [
+        "退屈な",
+        "不快な",
+        "情熱的な",
+        "落ち着いた"
+      ],
+      "correctAnswer": "情熱的な",
+      "explanation": "「sultry」は、特に女性に対して、性的魅力がある、官能的という意味で使われます。ここでは、Pennyがネイルの色を表現する際に、その色の持つ雰囲気を伝えるために使っています。"
+    },
+    {
+      "id": 59,
+      "value": "suck on that",
+      "options": [
+        "それを舐める",
+        "ざまあみろ",
+        "それを吸う",
+        "それを試す"
+      ],
+      "correctAnswer": "ざまあみろ",
+      "explanation": "「Suck on that」は、相手を挑発したり、優位性を示す際に使われる口語的な表現です。ここでは、Wil WheatonがSheldonを挑発するために使っています。"
+    },
+    {
+      "id": 60,
+      "value": "knowing my enemy",
+      "options": [
+        "敵を知ること",
+        "敵を愛すること",
+        "敵を無視すること",
+        "敵を避けること"
+      ],
+      "correctAnswer": "敵を知ること",
+      "explanation": "これは孫子の兵法にも通じる考え方で、敵の情報を把握することで、より効果的な対策を立てることができるという意味です。SheldonはWil WheatonのTwitterをチェックすることで、彼を「敵」として分析しようとしています。"
+    },
+    {
+      "id": 61,
+      "value": "buttwad",
+      "options": [
+        "お人好し",
+        "ばか者",
+        "正直者",
+        "頑張り屋"
+      ],
+      "correctAnswer": "ばか者",
+      "explanation": "「buttwad」は非常に下品な言葉で、侮辱的な意味合いを持ちます。電話のテストフレーズで使われており、相手をからかう意図があります。"
+    },
+    {
+      "id": 62,
+      "value": "grasp the full entertainment value",
+      "options": [
+        "娯楽の価値を理解する",
+        "娯楽を無視する",
+        "娯楽に飽きる",
+        "娯楽を否定する"
+      ],
+      "correctAnswer": "娯楽の価値を理解する",
+      "explanation": "「grasp」は理解するという意味で、ここではジョークや遊びの面白さを理解することを指します。AmyはPennyのジョークの面白さを完全に理解できていないことを示唆しています。"
+    },
+    {
+      "id": 63,
+      "value": "slumber party",
+      "options": [
+        "睡眠パーティー",
+        "お茶会",
+        "誕生日会",
+        "歓迎会"
+      ],
+      "correctAnswer": "睡眠パーティー",
+      "explanation": "「slumber party」は、特に子供や若い女性が友達の家に集まって、夜を明かすパーティーのことです。映画鑑賞、おしゃべり、ゲームなどをして楽しみます。"
+    },
+    {
+      "id": 64,
+      "value": "straightforward",
+      "options": [
+        "簡単",
+        "複雑",
+        "曖昧",
+        "不確か"
+      ],
+      "correctAnswer": "簡単",
+      "explanation": "「straightforward」は、簡単、単純、率直という意味です。AmyはTruth or Dareのルールが簡単だと述べています。"
+    },
+    {
+      "id": 65,
+      "value": "bovine spongiform encephalopathy",
+      "options": [
+        "狂牛病",
+        "インフルエンザ",
+        "水疱瘡",
+        "麻疹"
+      ],
+      "correctAnswer": "狂牛病",
+      "explanation": "「bovine spongiform encephalopathy」は、牛海綿状脳症、いわゆる狂牛病のことです。AmyはBernadetteに、非常に専門的で難しい質問をしています。"
+    },
+    {
+      "id": 66,
+      "value": "circumference of your areolas",
+      "options": [
+        "乳輪の円周",
+        "胸の大きさ",
+        "身長",
+        "体重"
+      ],
+      "correctAnswer": "乳輪の円周",
+      "explanation": "「circumference」は円周、「areolas」は乳輪を意味します。AmyはBernadetteに、非常に個人的で恥ずかしい質問をしています。"
+    },
+    {
+      "id": 67,
+      "value": "woot, woot",
+      "options": [
+        "喜びの叫び",
+        "悲しみの叫び",
+        "怒りの叫び",
+        "驚きの叫び"
+      ],
+      "correctAnswer": "喜びの叫び",
+      "explanation": "「woot」は、喜びや興奮を表すスラングです。オンラインゲームやチャットなどでよく使われます。SheldonはWil Wheatonを皮肉るために使っています。"
+    },
+    {
+      "id": 68,
+      "value": "gall",
+      "options": [
+        "大胆不敵",
+        "優しさ",
+        "謙虚さ",
+        "誠実さ"
+      ],
+      "correctAnswer": "大胆不敵",
+      "explanation": "「gall」は、厚かましさ、大胆不敵、無遠慮という意味です。ここでは、Wil WheatonがSheldonを挑発する行為に対するSheldonの怒りを表しています。"
+    },
+    {
+      "id": 69,
+      "value": "lodged in trachea",
+      "options": [
+        "気管に詰まる",
+        "胃に詰まる",
+        "鼻に詰まる",
+        "喉に詰まる"
+      ],
+      "correctAnswer": "気管に詰まる",
+      "explanation": "「lodged」は詰まる、引っかかるという意味で、「trachea」は気管を意味します。ここでは、SheldonがWil Wheatonに災いが起こることを願っている様子を表しています。"
+    },
+    {
+      "id": 70,
+      "value": "full up",
+      "options": [
+        "満員",
+        "空席あり",
+        "準備中",
+        "休憩中"
+      ],
+      "correctAnswer": "満員",
+      "explanation": "「full up」は、満員、いっぱいという意味です。ここでは、劇場が満員で、Sheldonたちが映画を観られないことを意味します。"
+    },
+    {
+      "id": 71,
+      "value": "blatant abuse of power",
+      "options": [
+        "明白な権力乱用",
+        "正当な権力行使",
+        "権力放棄",
+        "権力分立"
+      ],
+      "correctAnswer": "明白な権力乱用",
+      "explanation": "「blatant」は明白な、露骨なという意味で、「abuse of power」は権力乱用を意味します。ここでは、劇場スタッフがWil Wheatonを特別扱いする行為に対するSheldonの怒りを表しています。"
+    },
+    {
+      "id": 72,
+      "value": "petty functionary",
+      "options": [
+        "小心者の役人",
+        "有能な役人",
+        "正直な役人",
+        "親切な役人"
+      ],
+      "correctAnswer": "小心者の役人",
+      "explanation": "「petty」は、ささいな、取るに足らないという意味で、「functionary」は役人を意味します。ここでは、劇場スタッフを軽蔑する意味合いで使われています。"
+    },
+    {
+      "id": 73,
+      "value": "I told you so",
+      "options": [
+        "だから言ったでしょ",
+        "ごめんなさい",
+        "ありがとう",
+        "おめでとう"
+      ],
+      "correctAnswer": "だから言ったでしょ",
+      "explanation": "「I told you so」は、自分の予測が当たったことを相手に伝える際に使われる表現です。通常、相手を非難するニュアンスが含まれます。Sheldonは、Leonardたちが自分の忠告を聞かなかったことを責めています。"
+    },
+    {
+      "id": 74,
+      "value": "Sandy B",
+      "options": [
+        "サンドラ・ブロック",
+        "サンドラ・ベル",
+        "サンドラ・ブラウン",
+        "サンドラ・ベイカー"
+      ],
+      "correctAnswer": "サンドラ・ブロック",
+      "explanation": "Sandy Bは、女優サンドラ・ブロックの愛称です。Rajは彼女の映画を観ることを提案しています。"
+    },
+    {
+      "id": 75,
+      "value": "brings it",
+      "options": [
+        "全力を尽くす",
+        "諦める",
+        "失敗する",
+        "休憩する"
+      ],
+      "correctAnswer": "全力を尽くす",
+      "explanation": "「bring it」は、全力を尽くす、最高のパフォーマンスを見せるという意味のスラングです。Rajはサンドラ・ブロックが常に素晴らしい演技を見せてくれることを期待しています。"
+    },
+    {
+      "id": 76,
+      "value": "sidekick",
+      "options": [
+        "相棒",
+        "敵",
+        "リーダー",
+        "友人"
+      ],
+      "correctAnswer": "相棒",
+      "explanation": "sidekickは、主にヒーローや主人公の仲間として活躍する人物を指します。助手、相棒、または補佐役といった意味合いで使われ、しばしば主人公をサポートする役割を担います。"
+    },
+    {
+      "id": 77,
+      "value": "nether yea",
+      "options": [
+        "下の目",
+        "足の裏",
+        "膝",
+        "肘"
+      ],
+      "correctAnswer": "下の目",
+      "explanation": "古英語で「nether」は「下の」、「yea」は「eye（目）」を意味します。このフレーズは婉曲的に「肛門」を指します。Chaucerの作品に登場し、不潔さを連想させる表現です。"
+    },
+    {
+      "id": 78,
+      "value": "spicy",
+      "options": [
+        "辛い",
+        "退屈な",
+        "刺激的な",
+        "甘い"
+      ],
+      "correctAnswer": "刺激的な",
+      "explanation": "spicyは比喩的に、内容が刺激的、際どい、または興味深いという意味で使用されます。この文脈では、Chaucerの物語が性的に暗示的で面白いと感じられたことを表しています。"
+    },
+    {
+      "id": 79,
+      "value": "pair-bonded",
+      "options": [
+        "結合した",
+        "分裂した",
+        "競争した",
+        "無視した"
+      ],
+      "correctAnswer": "結合した",
+      "explanation": "pair-bondedは、特に動物行動学において、つがい関係を築いている状態を指します。人間関係においては、深い愛情や絆で結ばれたカップルやパートナーを意味します。"
+    },
+    {
+      "id": 80,
+      "value": "inordinate",
+      "options": [
+        "通常の",
+        "過度の",
+        "不足の",
+        "適切な"
+      ],
+      "correctAnswer": "過度の",
+      "explanation": "inordinateは、度を超えている、過剰な、法外なという意味です。通常期待される量や程度を大きく超える場合に使われます。例えば、「inordinate amount of time（過度の時間）」のように使われます。"
+    },
+    {
+      "id": 81,
+      "value": "ex post facto",
+      "options": [
+        "事後法の",
+        "事前法の",
+        "正当な",
+        "不当な"
+      ],
+      "correctAnswer": "事後法の",
+      "explanation": "ex post factoはラテン語由来で、「事後的に」という意味です。法律や規則が遡って適用されることを指す法律用語としてよく使われますが、一般的には「後から変更する」という意味で使われます。"
+    },
+    {
+      "id": 82,
+      "value": "terminate",
+      "options": [
+        "開始する",
+        "継続する",
+        "終了する",
+        "改善する"
+      ],
+      "correctAnswer": "終了する",
+      "explanation": "terminateは、関係、契約、プロセスなどを正式に終了させるという意味です。フォーマルな状況で使われることが多く、単に「終わる」よりも強いニュアンスを持ちます。"
+    },
+    {
+      "id": 83,
+      "value": "unavailable",
+      "options": [
+        "利用可能な",
+        "利用不可能な",
+        "必要な",
+        "不要な"
+      ],
+      "correctAnswer": "利用不可能な",
+      "explanation": "unavailableは、人や物が利用できない、手に入らないという意味です。特に、人が時間的に余裕がない、または他の予定でいっぱいであることを指す場合に使われます。"
+    },
+    {
+      "id": 84,
+      "value": "unattended",
+      "options": [
+        "世話された",
+        "放置された",
+        "修理された",
+        "隠された"
+      ],
+      "correctAnswer": "放置された",
+      "explanation": "unattendedは、人が付き添っていない、監視されていない状態を指します。セキュリティ上のリスクや危険を伴う状況でよく使われます。"
+    },
+    {
+      "id": 85,
+      "value": "get into trouble",
+      "options": [
+        "成功する",
+        "問題に巻き込まれる",
+        "助けになる",
+        "逃げる"
+      ],
+      "correctAnswer": "問題に巻き込まれる",
+      "explanation": "get into troubleは、問題や困難な状況に陥るという意味の一般的なイディオムです。規則を破ったり、誤った行動を取ったりした結果として使われることが多いです。"
+    },
+    {
+      "id": 86,
+      "value": "pontoon plane",
+      "options": [
+        "水上飛行機",
+        "戦闘機",
+        "ヘリコプター",
+        "旅客機"
+      ],
+      "correctAnswer": "水上飛行機",
+      "explanation": "pontoon planeは、水上離着陸が可能な飛行機のことです。フロート（浮き）が付いているのが特徴で、水面から離着陸できます。孤立した地域や水域へのアクセス手段として利用されます。"
+    },
+    {
+      "id": 87,
+      "value": "slumber party",
+      "options": [
+        "昼寝",
+        "お泊り会",
+        "歓迎会",
+        "送別会"
+      ],
+      "correctAnswer": "お泊り会",
+      "explanation": "slumber partyは、子供やティーンエイジャーが友人宅に泊まり、夜通し遊んだりおしゃべりしたりするパーティーのことです。パジャマパーティーとも呼ばれます。"
+    },
+    {
+      "id": 88,
+      "value": "engage in",
+      "options": [
+        "参加する",
+        "避ける",
+        "観察する",
+        "批判する"
+      ],
+      "correctAnswer": "参加する",
+      "explanation": "engage inは、活動、行為、または議論などに参加する、関与するという意味です。積極的に関わるニュアンスを含みます。例えば、「engage in conversation（会話に参加する）」のように使われます。"
+    },
+    {
+      "id": 89,
+      "value": "harmless",
+      "options": [
+        "危険な",
+        "無害な",
+        "有用な",
+        "有害な"
+      ],
+      "correctAnswer": "無害な",
+      "explanation": "harmlessは、害がない、危険がないという意味です。人や物を傷つけたり、損害を与えたりする可能性がないことを指します。例えば、「harmless fun（無害な楽しみ）」のように使われます。"
+    },
+    {
+      "id": 90,
+      "value": "whistle",
+      "options": [
+        "歌う",
+        "口笛を吹く",
+        "叫ぶ",
+        "踊る"
+      ],
+      "correctAnswer": "口笛を吹く",
+      "explanation": "口笛を吹く。ここでは、登場人物を探すサインとして使われている。"
+    },
+    {
+      "id": 91,
+      "value": "cuddly",
+      "options": [
+        "抱きしめたくなる",
+        "ずる賢い",
+        "意地悪",
+        "残酷"
+      ],
+      "correctAnswer": "抱きしめたくなる",
+      "explanation": "抱きしめたくなる。ここでは、登場人物の体格を表すのに使われている。"
+    },
+    {
+      "id": 92,
+      "value": "dare",
+      "options": [
+        "挑戦",
+        "真実",
+        "嘘",
+        "冗談"
+      ],
+      "correctAnswer": "挑戦",
+      "explanation": "挑戦。ここでは、ゲームの選択肢として使われている。"
+    },
+    {
+      "id": 93,
+      "value": "truth",
+      "options": [
+        "真実",
+        "挑戦",
+        "嘘",
+        "冗談"
+      ],
+      "correctAnswer": "真実",
+      "explanation": "真実。ここでは、ゲームの選択肢として使われている。"
+    },
+    {
+      "id": 94,
+      "value": "upset",
+      "options": [
+        "幸せ",
+        "動揺",
+        "安心",
+        "満足"
+      ],
+      "correctAnswer": "動揺",
+      "explanation": "動揺。ここでは、精神的な状態を表す。"
+    },
+    {
+      "id": 95,
+      "value": "scored",
+      "options": [
+        "得点",
+        "失点",
+        "無視",
+        "不正"
+      ],
+      "correctAnswer": "得点",
+      "explanation": "得点。ここでは、ゲームの評価を表す。"
+    },
+    {
+      "id": 96,
+      "value": "projection booth",
+      "options": [
+        "上映室",
+        "休憩室",
+        "トイレ",
+        "倉庫"
+      ],
+      "correctAnswer": "上映室",
+      "explanation": "上映室。映画館の機材がある部屋。"
+    },
+    {
+      "id": 97,
+      "value": "strapped",
+      "options": [
+        "固定",
+        "解放",
+        "無視",
+        "盗む"
+      ],
+      "correctAnswer": "固定",
+      "explanation": "固定。ここでは、体に何かを固定している状態を表す。"
+    },
+    {
+      "id": 98,
+      "value": "experimentation",
+      "options": [
+        "実験",
+        "拒否",
+        "破壊",
+        "軽視"
+      ],
+      "correctAnswer": "実験",
+      "explanation": "実験。ここでは、未知の体験をすることを指す。"
+    },
+    {
+      "id": 99,
+      "value": "popular",
+      "options": [
+        "人気",
+        "不人気",
+        "普通",
+        "希少"
+      ],
+      "correctAnswer": "人気",
+      "explanation": "人気。ここでは、一般的な娯楽を表す。"
+    },
+    {
+      "id": 100,
+      "value": "raw",
+      "options": [
+        "生",
+        "調理",
+        "冷凍",
+        "腐敗"
+      ],
+      "correctAnswer": "生",
+      "explanation": "生。ここでは、未調理の状態を表す。"
+    }
+  ]
+}

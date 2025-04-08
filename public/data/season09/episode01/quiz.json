@@ -1,0 +1,1120 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "land",
+      "options": [
+        "着陸する",
+        "獲得する",
+        "去る",
+        "提供する"
+      ],
+      "correctAnswer": "獲得する",
+      "explanation": "この文脈では、「land」は、何か良いもの、有利な状況、または望ましい相手を「獲得する」「手に入れる」という意味で使われています。特に、恋愛関係や仕事など、競争がある状況で成功を収めるニュアンスが含まれます。\n\n例：She landed a major role in the new movie. (彼女は新しい映画で重要な役を獲得した。)"
+    },
+    {
+      "id": 2,
+      "value": "spur-of-the-moment",
+      "options": [
+        "計画的な",
+        "予期せぬ",
+        "重要な",
+        "日常的な"
+      ],
+      "correctAnswer": "予期せぬ",
+      "explanation": "「spur-of-the-moment」は、「衝動的な」「その場限りの」「突然の思いつきで」という意味を表すイディオムです。計画や準備なしに、瞬間の感情や impulse に基づいて行動することを指します。\n\n例：We made a spur-of-the-moment decision to go to the beach. (私たちは衝動的にビーチに行くことに決めた。)"
+    },
+    {
+      "id": 3,
+      "value": "thrive on",
+      "options": [
+        "嫌う",
+        "苦しむ",
+        "依存する",
+        "喜ぶ"
+      ],
+      "correctAnswer": "喜ぶ",
+      "explanation": "「thrive on」は、「～を糧にする」「～で生き生きとする」「～を好む」という意味です。困難や挑戦、または他の人が嫌がるようなことを楽しんだり、それによって成長したりする様子を表します。\n\n例：Some plants thrive on neglect. (植物の中には、放置されることを好むものもある。)"
+    },
+    {
+      "id": 4,
+      "value": "take it back",
+      "options": [
+        "取り返す",
+        "撤回する",
+        "続ける",
+        "信じる"
+      ],
+      "correctAnswer": "撤回する",
+      "explanation": "「take it back」は、「（発言や約束などを）撤回する」「取り消す」という意味です。以前に言ったことや提案したことを、後になって後悔したり、考えが変わったりして、それを無効にすることを意味します。\n\n例：I take it back. You were right all along. (撤回します。結局あなたが正しかった。)"
+    },
+    {
+      "id": 5,
+      "value": "eternity",
+      "options": [
+        "永遠",
+        "一瞬",
+        "数日",
+        "数年"
+      ],
+      "correctAnswer": "永遠",
+      "explanation": "「eternity」は、「永遠」「永久」「非常に長い時間」という意味です。時間が終わりのない状態、または非常に長く感じられる時間を指します。比喩的に、退屈な時間や苦痛な時間を強調する際にも用いられます。\n\n例：Waiting for the bus felt like an eternity. (バスを待つ時間は永遠のように感じられた。)"
+    },
+    {
+      "id": 6,
+      "value": "notch on your bedpost",
+      "options": [
+        "財産",
+        "勲章",
+        "性交渉の経験",
+        "秘密"
+      ],
+      "correctAnswer": "性交渉の経験",
+      "explanation": "「notch on one's bedpost」は、性的な征服や経験を数えることを指す古い、やや下品な表現です。ベッドの柱に刻み目を入れて、性交渉の回数を記録するというイメージから来ています。現代ではあまり一般的ではありませんが、性的な自慢や競争の文脈で使われることがあります。\n\n例：He's the kind of guy who sees every date as another notch on his bedpost. (彼はデートを性的な征服の一つとして数えるような男だ。)"
+    },
+    {
+      "id": 7,
+      "value": "run a little behind",
+      "options": [
+        "少し進んでいる",
+        "少し遅れている",
+        "予定通りである",
+        "大きく変化している"
+      ],
+      "correctAnswer": "少し遅れている",
+      "explanation": "「run a little behind」は、「予定より少し遅れている」という意味です。スケジュールや計画がわずかに遅延している状況を表します。\n\n例：The meeting is running a little behind schedule. (会議は予定より少し遅れています。)"
+    },
+    {
+      "id": 8,
+      "value": "put off",
+      "options": [
+        "始める",
+        "延期する",
+        "楽しむ",
+        "拒否する"
+      ],
+      "correctAnswer": "延期する",
+      "explanation": "「put off」は、「延期する」「先送りする」という意味の句動詞です。何かを後回しにする、または遅らせることを意味します。\n\n例：We had to put off the meeting until next week. (私たちは会議を来週まで延期しなければなりませんでした。)"
+    },
+    {
+      "id": 9,
+      "value": "come to light",
+      "options": [
+        "明らかになる",
+        "隠蔽される",
+        "忘れられる",
+        "無視される"
+      ],
+      "correctAnswer": "明らかになる",
+      "explanation": "「come to light」は、「明るみに出る」「明らかになる」という意味のイディオムです。これまで知られていなかった情報や事実が公になる状況を表します。\n\n例：New evidence has come to light in the case. (その事件で新たな証拠が明らかになった。)"
+    },
+    {
+      "id": 10,
+      "value": "roll your eyes",
+      "options": [
+        "涙を流す",
+        "目を閉じる",
+        "白目をむく",
+        "まばたきをする"
+      ],
+      "correctAnswer": "白目をむく",
+      "explanation": "「roll your eyes」は、「白目をむく」という意味です。不信感、軽蔑、退屈、または苛立ちなどを表現するために使われます。相手の発言や行動に対する否定的な感情を示す非言語的なサインです。\n\n例：She rolled her eyes when he started talking about politics again. (彼がまた政治の話を始めたとき、彼女は白目をむいた。)"
+    },
+    {
+      "id": 11,
+      "value": "go through",
+      "options": [
+        "経験する",
+        "無視する",
+        "避ける",
+        "隠す"
+      ],
+      "correctAnswer": "経験する",
+      "explanation": "「go through」は、「経験する」「苦しむ」という意味です。困難な状況や試練を乗り越える過程を指します。感情的な苦痛や困難を伴うことが多いです。\n\n例：She is going through a difficult time after losing her job. (彼女は失業後、困難な時期を経験している。)"
+    },
+    {
+      "id": 12,
+      "value": "hold on",
+      "options": [
+        "続ける",
+        "中断する",
+        "頑張る",
+        "諦める"
+      ],
+      "correctAnswer": "中断する",
+      "explanation": "「hold on」は、文脈によっていくつかの意味がありますが、ここでは「ちょっと待って」という意味で使われています。電話で相手に少し待つように頼む際によく使われます。\n\n例：Hold on a moment, I'll check if he's available. (ちょっと待ってください、彼が手が空いているか確認します。)"
+    },
+    {
+      "id": 13,
+      "value": "be like that",
+      "options": [
+        "優しい",
+        "意地悪",
+        "面白い",
+        "悲しい"
+      ],
+      "correctAnswer": "意地悪",
+      "explanation": "「be like that」は、特定の状況や行動に対して、「そのような態度を取る」「そのようなことを言う」という意味で使われます。多くの場合、非難や不快感を表すニュアンスが含まれます。ここでは、AmyがPennyに対して皮肉っぽい態度を取ることを指しています。\n\n例：Don't be like that. I didn't mean to hurt your feelings. (そんな意地悪な態度を取らないで。君の気持ちを傷つけるつもりはなかったんだ。)"
+    },
+    {
+      "id": 14,
+      "value": "take it back",
+      "options": [
+        "返す",
+        "取り消す",
+        "続ける",
+        "受け入れる"
+      ],
+      "correctAnswer": "取り消す",
+      "explanation": "「take it back」は、「（発言や約束などを）撤回する」「取り消す」という意味です。以前に言ったことや提案したことを、後になって後悔したり、考えが変わったりして、それを無効にすることを意味します。\n\n例：I take it back. You were right all along. (撤回します。結局あなたが正しかった。)"
+    },
+    {
+      "id": 15,
+      "value": "head to",
+      "options": [
+        "出発する",
+        "隠れる",
+        "迷う",
+        "立ち止まる"
+      ],
+      "correctAnswer": "出発する",
+      "explanation": "「head to」は、「～へ向かう」「～へ出発する」という意味です。特定の場所へ移動する行動を表します。\n\n例：We're heading to the airport now. (私たちは今から空港へ向かいます。)"
+    },
+    {
+      "id": 16,
+      "value": "awkward",
+      "options": [
+        "快適な",
+        "気まずい",
+        "楽しい",
+        "簡単な"
+      ],
+      "correctAnswer": "気まずい",
+      "explanation": "「awkward」は、「気まずい」「ぎこちない」「不格好な」という意味です。状況や人間関係が円滑でない、または居心地が悪い状態を表します。\n\n例：There was an awkward silence after his comment. (彼のコメントの後、気まずい沈黙があった。)"
+    },
+    {
+      "id": 17,
+      "value": "on the Internet",
+      "options": [
+        "テレビで",
+        "ラジオで",
+        "インターネットで",
+        "新聞で"
+      ],
+      "correctAnswer": "インターネットで",
+      "explanation": "「on the Internet」は、「インターネット上で」「インターネットを使って」という意味です。ウェブサイト、ソーシャルメディア、オンラインサービスなどを利用することを指します。\n\n例：I found the recipe on the Internet. (そのレシピをインターネットで見つけた。)"
+    },
+    {
+      "id": 18,
+      "value": "comment section",
+      "options": [
+        "ニュース",
+        "コメント欄",
+        "広告",
+        "音楽"
+      ],
+      "correctAnswer": "コメント欄",
+      "explanation": "「comment section」は、「コメント欄」「意見欄」という意味です。ウェブサイトやブログ、ソーシャルメディアなどで、記事や投稿に対するユーザーのコメントが表示される部分を指します。\n\n例：I always read the comment section to see what people think. (私はいつもコメント欄を読んで、みんながどう思っているかを確認します。)"
+    },
+    {
+      "id": 19,
+      "value": "broke up with",
+      "options": [
+        "仲直りした",
+        "別れた",
+        "結婚した",
+        "友達になった"
+      ],
+      "correctAnswer": "別れた",
+      "explanation": "「break up with」は、「～と別れる」「～と関係を解消する」という意味です。恋愛関係や交際を終わらせることを指します。\n\n例：She broke up with her boyfriend last week. (彼女は先週、彼氏と別れた。)"
+    },
+    {
+      "id": 20,
+      "value": "missing anything special",
+      "options": [
+        "特別なものを持っている",
+        "特別なものを見逃している",
+        "何かを要求している",
+        "何かを期待している"
+      ],
+      "correctAnswer": "特別なものを見逃している",
+      "explanation": "「missing anything special」は、「何か特別なものを見逃している」という意味です。重要なことや楽しいこと、価値のあることを経験していない、または参加していない状況を表します。\n\n例：You're not missing anything special by not going to that party. (そのパーティーに行かなくても、特に何かを見逃すわけではないよ。)"
+    },
+    {
+      "id": 21,
+      "value": "last we spoke",
+      "options": [
+        "最後に話したとき",
+        "いつも話している",
+        "話したことがない",
+        "話すのが嫌い"
+      ],
+      "correctAnswer": "最後に話したとき",
+      "explanation": "「last we spoke」は、「最後に話したとき」という意味です。過去に会話をした時点を指し、その時点から時間が経過していることを示唆します。\n\n例：Last we spoke, you were planning to move to New York. (最後に話したとき、あなたはニューヨークに引っ越す予定だった。)"
+    },
+    {
+      "id": 22,
+      "value": "very well",
+      "options": [
+        "とても良い",
+        "仕方ない",
+        "問題ない",
+        "とても悪い"
+      ],
+      "correctAnswer": "仕方ない",
+      "explanation": "「very well」は、文脈によって意味が異なりますが、ここでは「承知しました」「わかりました」「仕方ない」という意味で使われています。相手の要求や提案を受け入れる際に、やや形式ばった、または控えめな同意を示すニュアンスがあります。\n\n例：If you insist, very well. (あなたがそう主張するなら、仕方ない。)"
+    },
+    {
+      "id": 23,
+      "value": "take it back",
+      "options": [
+        "返品する",
+        "撤回する",
+        "継続する",
+        "再開する"
+      ],
+      "correctAnswer": "撤回する",
+      "explanation": "「take it back」は、「（発言や約束などを）撤回する」「取り消す」という意味です。以前に言ったことや提案したことを、後になって後悔したり、考えが変わったりして、それを無効にすることを意味します。\n\n例：I take it back. You were right all along. (撤回します。結局あなたが正しかった。)"
+    },
+    {
+      "id": 24,
+      "value": "get married",
+      "options": [
+        "離婚する",
+        "結婚する",
+        "喧嘩する",
+        "旅行する"
+      ],
+      "correctAnswer": "結婚する",
+      "explanation": "「get married」は、「結婚する」という意味です。結婚式を挙げる、または法的に夫婦になることを指します。\n\n例：They are getting married next month. (彼らは来月結婚する。)"
+    },
+    {
+      "id": 25,
+      "value": "sort of",
+      "options": [
+        "完全に",
+        "なんとなく",
+        "絶対に",
+        "決して"
+      ],
+      "correctAnswer": "なんとなく",
+      "explanation": "「sort of」は、「なんとなく」「どちらかというと」「まあまあ」という意味です。完全には同意しない、または正確に表現できない場合に、あいまいな程度や不確かさを表すために使われます。\n\n例：I'm sort of tired. (なんとなく疲れている。)"
+    },
+    {
+      "id": 26,
+      "value": "strip club",
+      "options": [
+        "高級レストラン",
+        "ナイトクラブ",
+        "ストリップ劇場",
+        "映画館"
+      ],
+      "correctAnswer": "ストリップ劇場",
+      "explanation": "「strip club」は、ストリッパーが出演するナイトクラブの一種です。ダンスやパフォーマンスを鑑賞する場所で、一般的には成人向けの娯楽施設とされています。"
+    },
+    {
+      "id": 27,
+      "value": "picture",
+      "options": [
+        "想像する",
+        "写真に撮る",
+        "描く",
+        "説明する"
+      ],
+      "correctAnswer": "想像する",
+      "explanation": "この文脈では、「picture」は何かを想像する、思い描くという意味で使用されています。ある状況や出来事を頭の中で描くことを指します。"
+    },
+    {
+      "id": 28,
+      "value": "dredge up",
+      "options": [
+        "隠す",
+        "忘れる",
+        "掘り起こす",
+        "整理する"
+      ],
+      "correctAnswer": "掘り起こす",
+      "explanation": "「dredge up」は、過去の出来事や情報を（特に不快なものを）掘り起こして持ち出すという意味です。過去の失敗や秘密などを蒸し返すニュアンスがあります。"
+    },
+    {
+      "id": 29,
+      "value": "grab a bite",
+      "options": [
+        "一口食べる",
+        "急いで食べる",
+        "食事をする",
+        "料理を作る"
+      ],
+      "correctAnswer": "食事をする",
+      "explanation": "「grab a bite」は、手軽に食事をする、軽く何かを食べるという意味の口語表現です。フォーマルな食事ではなく、カジュアルな状況で使われます。"
+    },
+    {
+      "id": 30,
+      "value": "fairy tale",
+      "options": [
+        "作り話",
+        "おとぎ話",
+        "現実",
+        "悪夢"
+      ],
+      "correctAnswer": "おとぎ話",
+      "explanation": "ここでは理想的な状況を表す比喩として使われています。非現実的で美しい物語のような状況を指し、皮肉を込めて使われることもあります。"
+    },
+    {
+      "id": 31,
+      "value": "captor",
+      "options": [
+        "解放者",
+        "捕虜",
+        "誘拐犯",
+        "支援者"
+      ],
+      "correctAnswer": "誘拐犯",
+      "explanation": "「captor」は、人を捕らえて監禁する人のことです。映画や小説などでは、しばしば敵役として登場します。ここでは恋愛関係における支配的なパートナーを比喩的に表現しています。"
+    },
+    {
+      "id": 32,
+      "value": "dungeon",
+      "options": [
+        "庭",
+        "牢獄",
+        "遊び場",
+        "宮殿"
+      ],
+      "correctAnswer": "牢獄",
+      "explanation": "「dungeon」は、主に城や要塞の地下にある牢獄のことです。暗く閉ざされた場所を指し、比喩的には抑圧的な状況を表すことがあります。"
+    },
+    {
+      "id": 33,
+      "value": "third degree",
+      "options": [
+        "専門知識",
+        "拷問",
+        "大学の学位",
+        "幸運"
+      ],
+      "correctAnswer": "拷問",
+      "explanation": "「third degree」は、特に警察などが厳しい尋問を行うことを指します。質問攻めにする、または精神的に圧力をかけるような状況を意味します。"
+    },
+    {
+      "id": 34,
+      "value": "For God's sake",
+      "options": [
+        "神に感謝して",
+        "神の名において",
+        "お願いだから",
+        "神の思し召し"
+      ],
+      "correctAnswer": "お願いだから",
+      "explanation": "「For God's sake」は、苛立ちや驚き、懇願などを表す際に使われる感嘆表現です。「お願いだから」「一体全体」といった意味合いで使われます。"
+    },
+    {
+      "id": 35,
+      "value": "be on it",
+      "options": [
+        "それについて",
+        "準備ができている",
+        "賛成する",
+        "取り組む"
+      ],
+      "correctAnswer": "取り組む",
+      "explanation": "「be on it」は、頼まれたことや課題にすぐ取り組む、または対応することを意味します。「任せておけ」というニュアンスが含まれます。"
+    },
+    {
+      "id": 36,
+      "value": "strewn with",
+      "options": [
+        "覆われた",
+        "掃除された",
+        "飾られた",
+        "隠された"
+      ],
+      "correctAnswer": "覆われた",
+      "explanation": "「strewn with」は、何かが広範囲に散らばっている状態を表します。花びら、葉、ゴミなどが散乱している様子を指すことが多いです。"
+    },
+    {
+      "id": 37,
+      "value": "potpourri",
+      "options": [
+        "香水",
+        "花束",
+        "乾燥させた花の香り",
+        "石鹸"
+      ],
+      "correctAnswer": "乾燥させた花の香り",
+      "explanation": "「potpourri」は、乾燥させた花やスパイスなどを混ぜて香りを楽しむものです。室内香として使われることが多いです。"
+    },
+    {
+      "id": 38,
+      "value": "crack the top ten",
+      "options": [
+        "トップ10に入る",
+        "上位を争う",
+        "重要なこと",
+        "ランキング外"
+      ],
+      "correctAnswer": "重要なこと",
+      "explanation": "「crack the top ten」は、直訳するとトップ10に入るという意味ですが、ここでは「重要なこと」というニュアンスで使われています。つまり、気にも留めていない、という意味合いになります。"
+    },
+    {
+      "id": 39,
+      "value": "figure something out",
+      "options": [
+        "何かを理解する",
+        "何かを計算する",
+        "何かを解決する",
+        "何かを忘れる"
+      ],
+      "correctAnswer": "何かを解決する",
+      "explanation": "「figure something out」は、問題や困難な状況を解決する、理解するという意味です。計画を立てたり、方法を見つけたりする際にも使われます。"
+    },
+    {
+      "id": 40,
+      "value": "stuck with",
+      "options": [
+        "満足している",
+        "困っている",
+        "仲良くしている",
+        "我慢する"
+      ],
+      "correctAnswer": "我慢する",
+      "explanation": "「stuck with」は、不本意ながら何か（人や物事）と一緒にいなければならない、またはそれに対処しなければならない状況を指します。"
+    },
+    {
+      "id": 41,
+      "value": "go any further",
+      "options": [
+        "先に進む",
+        "立ち止まる",
+        "戻る",
+        "遠ざかる"
+      ],
+      "correctAnswer": "先に進む",
+      "explanation": "「go any further」は、文字通りには「さらに進む」という意味ですが、文脈によっては「（話を）続ける」「（行動を）続ける」といった意味合いで使われます。多くの場合、何かを始める前や、何かを中断する際に使われる表現です。"
+    },
+    {
+      "id": 42,
+      "value": "vows",
+      "options": [
+        "誓い",
+        "疑い",
+        "嘘",
+        "秘密"
+      ],
+      "correctAnswer": "誓い",
+      "explanation": "「vows」は、結婚式などの神聖な儀式で交わされる誓いの言葉です。約束や決意を表明する際に用いられます。"
+    },
+    {
+      "id": 43,
+      "value": "bringing it up",
+      "options": [
+        "持ち上げる",
+        "話題に出す",
+        "忘れる",
+        "隠す"
+      ],
+      "correctAnswer": "話題に出す",
+      "explanation": "「bring up」は、話題を持ち出す、言及するという意味です。特に過去の出来事や、デリケートな話題に触れる際に使われます。"
+    },
+    {
+      "id": 44,
+      "value": "on the strip",
+      "options": [
+        "道端で",
+        "中心街で",
+        "海岸沿いで",
+        "ストリップ通りで"
+      ],
+      "correctAnswer": "中心街で",
+      "explanation": "「the Strip」は、一般的にラスベガスの中心部にある有名な大通りを指します。この通りには多くのホテル、カジノ、エンターテイメント施設が集まっています。"
+    },
+    {
+      "id": 45,
+      "value": "you're good",
+      "options": [
+        "あなたは良い",
+        "大丈夫です",
+        "あなたは正しい",
+        "おめでとう"
+      ],
+      "correctAnswer": "大丈夫です",
+      "explanation": "「You're good.」は、様々な意味を持つフレーズですが、ここでは「大丈夫です」「結構です」という意味合いで使われています。相手の申し出を丁寧に断る際に使われることがあります。"
+    },
+    {
+      "id": 46,
+      "value": "honest to God",
+      "options": [
+        "神に誓って",
+        "正直に言って",
+        "神は正直だ",
+        "真実を語る"
+      ],
+      "correctAnswer": "正直に言って",
+      "explanation": "「honest to God」は、真実を強調するために使われる表現です。「本当に」「マジで」といったニュアンスで、話している内容が嘘偽りないことを強調します。"
+    },
+    {
+      "id": 47,
+      "value": "the rest of our lives",
+      "options": [
+        "残りの人生",
+        "永遠に",
+        "短い間",
+        "過去の出来事"
+      ],
+      "correctAnswer": "残りの人生",
+      "explanation": "「the rest of our lives」は、文字通りには「私たちの人生の残り」という意味ですが、ここでは「これから先ずっと」というニュアンスで使われています。未来に対する長い期間を示唆する表現です。"
+    },
+    {
+      "id": 48,
+      "value": "making things better",
+      "options": [
+        "状況を悪化させる",
+        "状況を改善する",
+        "状況を無視する",
+        "状況を維持する"
+      ],
+      "correctAnswer": "状況を改善する",
+      "explanation": "「making things better」は、「状況を良くする」「事態を好転させる」という意味です。問題や困難を解決したり、改善したりする際に使われる表現です。"
+    },
+    {
+      "id": 49,
+      "value": "didn't even crack the top ten",
+      "options": [
+        "上位10位に入った",
+        "重要ではなかった",
+        "最下位だった",
+        "ランキング外だった"
+      ],
+      "correctAnswer": "重要ではなかった",
+      "explanation": "「didn't even crack the top ten」は、重要度や関心の度合いが非常に低いことを表す表現です。ここでは、RajがSheldonとAmyの関係に関心を全く示していないことを強調しています。"
+    },
+    {
+      "id": 50,
+      "value": "taking sides",
+      "options": [
+        "傍観する",
+        "味方につく",
+        "中立を保つ",
+        "敵対する"
+      ],
+      "correctAnswer": "味方につく",
+      "explanation": "「taking sides」は、争いや議論において、特定の人やグループの味方をする、支持するという意味です。公平な立場を保たずに、どちらかの側につくことを指します。"
+    },
+    {
+      "id": 51,
+      "value": "mushy",
+      "options": [
+        "感動的な",
+        "退屈な",
+        "難しい",
+        "短い"
+      ],
+      "correctAnswer": "感動的な",
+      "explanation": "「mushy」は、感情的に過剰で感傷的な、という意味合いを持ちます。恋愛や友情など、強い感情を表現する際に使われます。しばしば、過度な感情表現を指して、少し軽蔑的なニュアンスを含むこともあります。\n\n例：That movie was so mushy, I couldn't stop crying. (あの映画はとても感動的で、涙が止まらなかった。)"
+    },
+    {
+      "id": 52,
+      "value": "made of",
+      "options": [
+        "作られた",
+        "壊れた",
+        "恐れた",
+        "無視された"
+      ],
+      "correctAnswer": "作られた",
+      "explanation": "「made of」は「～でできている」という意味です。物理的な構成要素を指すだけでなく、比喩的に「～で構成されている」という意味でも使われます。\n\n例：The house is made of bricks. (その家はレンガでできている。)\n例：He is made of sterner stuff. (彼はより強い精神力を持っている。)"
+    },
+    {
+      "id": 53,
+      "value": "whole",
+      "options": [
+        "全体",
+        "一部",
+        "無",
+        "古い"
+      ],
+      "correctAnswer": "全体",
+      "explanation": "「whole」は、「全体」、「完全な」という意味です。何かが欠けていない、完全な状態を表します。比喩的には、精神的な充足感や、完全な状態を指すこともあります。\n\n例：I ate the whole pizza. (ピザを全部食べた。)\n例：He makes me feel whole. (彼は私を完全な気持ちにさせてくれる。)"
+    },
+    {
+      "id": 54,
+      "value": "stick together",
+      "options": [
+        "くっつく",
+        "反発する",
+        "忘れる",
+        "諦める"
+      ],
+      "correctAnswer": "くっつく",
+      "explanation": "「stick together」は、「団結する」、「協力する」、「一緒にいる」という意味です。困難な状況でも互いに支え合い、協力して乗り越えることを強調する際に用いられます。\n\n例：We need to stick together to get through this crisis. (この危機を乗り越えるためには、団結する必要がある。)"
+    },
+    {
+      "id": 55,
+      "value": "see it through",
+      "options": [
+        "やり遂げる",
+        "諦める",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "やり遂げる",
+      "explanation": "「see it through」は、「最後までやり遂げる」、「困難を乗り越える」という意味です。困難な状況や課題に直面しても、最後まで諦めずにやり遂げることを強調する際に用いられます。\n\n例：It's a tough project, but we'll see it through. (それは難しいプロジェクトだが、最後までやり遂げるつもりだ。)"
+    },
+    {
+      "id": 56,
+      "value": "make up your mind",
+      "options": [
+        "決心する",
+        "後悔する",
+        "忘れる",
+        "無視する"
+      ],
+      "correctAnswer": "決心する",
+      "explanation": "「make up your mind」は、「決心する」、「決める」という意味です。何かについて考え、最終的な結論を出すことを指します。\n\n例：I can't make up my mind about which car to buy. (どの車を買うか決められない。)"
+    },
+    {
+      "id": 57,
+      "value": "sire",
+      "options": [
+        "産む",
+        "育てる",
+        "殺す",
+        "忘れる"
+      ],
+      "correctAnswer": "産む",
+      "explanation": "「sire」は、主に動物に対して使われ、「(子を)産ませる」という意味です。人間に対して使う場合は、やや古風で、生物学的な父親であることを強調するニュアンスがあります。\n\n例：The stallion sired many foals. (その種牡馬はたくさんの子馬を産ませた。)"
+    },
+    {
+      "id": 58,
+      "value": "offspring",
+      "options": [
+        "子孫",
+        "先祖",
+        "友人",
+        "敵"
+      ],
+      "correctAnswer": "子孫",
+      "explanation": "「offspring」は、「子孫」、「子供」という意味です。生物学的な子を指す言葉で、人間にも動物にも使われます。\n\n例：The birds protect their offspring. (鳥は自分の子供たちを守る。)"
+    },
+    {
+      "id": 59,
+      "value": "toting around",
+      "options": [
+        "持ち歩く",
+        "隠す",
+        "捨てる",
+        "忘れる"
+      ],
+      "correctAnswer": "持ち歩く",
+      "explanation": "「tote around」は、「持ち歩く」、「携帯する」という意味です。特に、少し重いものや、かさばるものを持ち歩く際に使われることが多いです。\n\n例：She's always toting around a large bag. (彼女はいつも大きなバッグを持ち歩いている。)"
+    },
+    {
+      "id": 60,
+      "value": "sell-by date",
+      "options": [
+        "賞味期限",
+        "発売日",
+        "契約日",
+        "誕生日"
+      ],
+      "correctAnswer": "賞味期限",
+      "explanation": "「sell-by date」は、「販売期限」という意味です。食品などが店で販売できる期限を指し、この日を過ぎると品質が保証されなくなることを示します。比喩的に、何かを利用できる期限や、価値が失われる時期を指すこともあります。\n\n例：The milk's sell-by date is today. (この牛乳の販売期限は今日だ。)"
+    },
+    {
+      "id": 61,
+      "value": "hasty",
+      "options": [
+        "軽率な",
+        "慎重な",
+        "遅い",
+        "早い"
+      ],
+      "correctAnswer": "軽率な",
+      "explanation": "「hasty」は、「軽率な」、「早まった」という意味です。十分な考慮をせずに、急いで行動することを指します。\n\n例：Don't make a hasty decision you might regret later. (後で後悔するような軽率な決断はしないでください。)"
+    },
+    {
+      "id": 62,
+      "value": "swore off",
+      "options": [
+        "やめると誓った",
+        "始めた",
+        "忘れた",
+        "無視した"
+      ],
+      "correctAnswer": "やめると誓った",
+      "explanation": "「swear off」は、「きっぱりとやめる」、「断つ」という意味です。特に、悪い習慣や、嫌な経験をしたものを二度としないと誓う際に使われます。\n\n例：I've sworn off junk food. (ジャンクフードはきっぱりやめた。)"
+    },
+    {
+      "id": 63,
+      "value": "on purpose",
+      "options": [
+        "故意に",
+        "偶然に",
+        "無意識に",
+        "反射的に"
+      ],
+      "correctAnswer": "故意に",
+      "explanation": "「on purpose」は、「故意に」、「わざと」という意味です。意図的に何かを行うことを指します。\n\n例：He did it on purpose to annoy me. (彼は私を困らせるためにわざとやった。)"
+    },
+    {
+      "id": 64,
+      "value": "of ill repute",
+      "options": [
+        "悪評高い",
+        "評判の良い",
+        "無名の",
+        "有名な"
+      ],
+      "correctAnswer": "悪評高い",
+      "explanation": "「of ill repute」は、「悪評高い」、「評判の悪い」という意味です。道徳的に問題がある、あるいは社会的に非難されるような行動をする人物を指します。\n\n例：The bar was known as a place of ill repute. (そのバーは悪評高い場所として知られていた。)"
+    },
+    {
+      "id": 65,
+      "value": "redeems",
+      "options": [
+        "償う",
+        "非難する",
+        "無視する",
+        "忘れる"
+      ],
+      "correctAnswer": "償う",
+      "explanation": "「redeem」は、「償う」、「挽回する」、「取り戻す」という意味です。過ちや欠点を補い、良い状態に戻すことを指します。宗教的な意味合いで「救う」という意味も持ちます。\n\n例：He redeemed himself by working hard. (彼は一生懸命働くことで自分を償った。)"
+    },
+    {
+      "id": 66,
+      "value": "threshold",
+      "options": [
+        "敷居",
+        "天井",
+        "壁",
+        "床"
+      ],
+      "correctAnswer": "敷居",
+      "explanation": "「threshold」は、「敷居」という意味ですが、比喩的に「始まり」、「出発点」、「境界線」という意味でも使われます。特に、新しい段階や経験の始まりを指すことが多いです。\n\n例：She was on the threshold of a new career. (彼女は新しいキャリアの始まりにいた。)"
+    },
+    {
+      "id": 67,
+      "value": "make it",
+      "options": [
+        "成功する",
+        "失敗する",
+        "試す",
+        "忘れる"
+      ],
+      "correctAnswer": "成功する",
+      "explanation": "「make it」は、文脈によって様々な意味を持ちますが、ここでは「(困難な状況を)乗り越える」、「間に合う」、「成功する」という意味で使われています。\n\n例：I don't know if I can make it to the meeting on time. (会議に時間通りに間に合うかどうか分からない。)"
+    },
+    {
+      "id": 68,
+      "value": "chipped",
+      "options": [
+        "欠けた",
+        "磨いた",
+        "塗った",
+        "折れた"
+      ],
+      "correctAnswer": "欠けた",
+      "explanation": "「chip」は、「欠ける」、「（小片を）削る」という意味です。ここでは過去形で「chipped」となっており、「（歯が）欠けた」という意味になります。\n\n例：I chipped a tooth while eating. (食事中に歯が欠けた。)"
+    },
+    {
+      "id": 69,
+      "value": "toughie",
+      "options": [
+        "難問",
+        "易問",
+        "質問",
+        "問題"
+      ],
+      "correctAnswer": "難問",
+      "explanation": "「toughie」は、「難しい問題」、「難問」という意味です。困難で解決が難しい状況や問題を指します。口語的な表現です。\n\n例：That's a real toughie. (それは本当に難しい問題だ。)"
+    },
+    {
+      "id": 70,
+      "value": "dim the lights",
+      "options": [
+        "明かりを暗くする",
+        "明かりを明るくする",
+        "明かりを消す",
+        "明かりをつける"
+      ],
+      "correctAnswer": "明かりを暗くする",
+      "explanation": "「dim the lights」は、「明かりを暗くする」という意味です。リラックスした雰囲気やロマンチックな雰囲気を作り出すために使われます。\n\n例：Let's dim the lights and put on some music. (明かりを暗くして音楽をかけよう。)"
+    },
+    {
+      "id": 71,
+      "value": "beehive",
+      "options": [
+        "蜂の巣",
+        "鳥の巣",
+        "犬小屋",
+        "家"
+      ],
+      "correctAnswer": "蜂の巣",
+      "explanation": "「beehive」は、「蜂の巣」という意味です。比喩的に、混乱や騒動の場所を指すこともあります。ここでは、皮肉を込めて「蜂の巣が頭に落ちる」という災難を祈る表現として使われています。\n\n例：The office was like a beehive of activity. (オフィスは蜂の巣のように活気に満ちていた。)"
+    },
+    {
+      "id": 72,
+      "value": "for good",
+      "options": [
+        "永久に",
+        "一時的に",
+        "短期間",
+        "無期限に"
+      ],
+      "correctAnswer": "永久に",
+      "explanation": "「for good」は、「永久に」、「永遠に」という意味です。何かが終わったり、変化したりして、二度と元に戻らないことを指します。\n\n例：He left the country for good. (彼は永遠に国を離れた。)"
+    },
+    {
+      "id": 73,
+      "value": "woman of ill repute",
+      "options": [
+        "悪評高い女性",
+        "評判の良い女性",
+        "無名の女性",
+        "有名な女性"
+      ],
+      "correctAnswer": "悪評高い女性",
+      "explanation": "「woman of ill repute」は、「悪評高い女性」、「評判の悪い女性」という意味です。道徳的に問題がある、あるいは社会的に非難されるような行動をする女性を指します。歴史的には、売春婦などを指すこともありました。\n\n例：In the past, she was considered a woman of ill repute. (昔、彼女は悪評高い女性と見なされていた。)"
+    },
+    {
+      "id": 74,
+      "value": "idiot",
+      "options": [
+        "馬鹿",
+        "賢い人",
+        "普通のひと",
+        "先生"
+      ],
+      "correctAnswer": "馬鹿",
+      "explanation": "「idiot」は、「馬鹿」、「愚か者」という意味です。非常に無能な人や、ばかげた行動をする人を指す、侮辱的な言葉です。\n\n例：Don't be an idiot. (馬鹿なことをするな。)"
+    },
+    {
+      "id": 75,
+      "value": "corridor",
+      "options": [
+        "廊下",
+        "部屋",
+        "階段",
+        "ドア"
+      ],
+      "correctAnswer": "廊下",
+      "explanation": "「corridor」は、「廊下」という意味です。建物内で部屋と部屋をつなぐ通路を指します。ホテルや病院などでよく使われる言葉です。\n\n例：Her room is at the end of the corridor. (彼女の部屋は廊下の突き当たりにある。)"
+    },
+    {
+      "id": 76,
+      "value": "have so much to offer",
+      "options": [
+        "提供できるものがたくさんある",
+        "多くを要求する",
+        "提供するものがない",
+        "多くを失う"
+      ],
+      "correctAnswer": "提供できるものがたくさんある",
+      "explanation": "「have so much to offer」は、人に対して、その人が多くの才能や魅力、価値を持っていることを伝える際に使われる表現です。相手を励ましたり、慰めたりする文脈でよく用いられます。例：You have so much to offer this company. (あなたは会社に貢献できることがたくさんあります。)"
+    },
+    {
+      "id": 77,
+      "value": "go through with",
+      "options": [
+        "実行する",
+        "反対する",
+        "無視する",
+        "中止する"
+      ],
+      "correctAnswer": "実行する",
+      "explanation": "「go through with」は、何か困難なことや合意されたことを最後までやり遂げるという意味です。特に、途中で気が変わるかもしれないような状況で、決意を持って実行するニュアンスがあります。例：Despite the difficulties, they decided to go through with the plan. (困難にもかかわらず、彼らは計画を実行することに決めた。)"
+    },
+    {
+      "id": 78,
+      "value": "entirely faithful",
+      "options": [
+        "完全に忠実な",
+        "全く不誠実な",
+        "部分的に忠実な",
+        "信頼できない"
+      ],
+      "correctAnswer": "完全に忠実な",
+      "explanation": "「entirely faithful」は、完全に忠実であることを意味します。恋愛関係においては、浮気や裏切り行為がない状態を指します。ここでは否定形で使われているため、「完全に忠実ではなかった」という意味になります。例：He has been entirely faithful to his wife throughout their marriage. (彼は結婚生活を通して妻に完全に忠実だった。)"
+    },
+    {
+      "id": 79,
+      "value": "agree with you",
+      "options": [
+        "似合っている",
+        "反対している",
+        "同意している",
+        "理解できない"
+      ],
+      "correctAnswer": "似合っている",
+      "explanation": "「agree with you」は、ここでは「（何かが）あなたに似合っている」「あなたの体質に合っている」という意味で使われています。外見や健康状態が良くなったことを指摘する際に用いられます。例：This new hairstyle really agrees with you. (この新しいヘアスタイルは本当にあなたに似合っている。)"
+    },
+    {
+      "id": 80,
+      "value": "took it upon myself",
+      "options": [
+        "自分で引き受けた",
+        "人に頼まれた",
+        "強制された",
+        "拒否した"
+      ],
+      "correctAnswer": "自分で引き受けた",
+      "explanation": "「take it upon oneself」は、誰かに頼まれたわけでもないのに、自発的に何かを引き受けるという意味です。責任感や親切心から行動するニュアンスがあります。例：I took it upon myself to organize the meeting. (私は会議を企画することを自分で引き受けた。)"
+    },
+    {
+      "id": 81,
+      "value": "blame",
+      "options": [
+        "非難する",
+        "褒める",
+        "感謝する",
+        "無視する"
+      ],
+      "correctAnswer": "非難する",
+      "explanation": "「blame」は、人や物事に対して責任を問う、非難するという意味です。ここでは「Madonnaを非難する」という形で、皮肉交じりに使われています。例：Don't blame me for your mistakes. (あなたの間違いを私のせいにしないで。)"
+    },
+    {
+      "id": 82,
+      "value": "raised him better than that",
+      "options": [
+        "もっと良い育て方をした",
+        "もっと悪い育て方をした",
+        "全く育てていない",
+        "育て方に無関心だった"
+      ],
+      "correctAnswer": "もっと良い育て方をした",
+      "explanation": "「raise someone better than that」は、誰かの行為が期待外れだったときに、その人を育てた親（または養育者）の責任をほのめかす表現です。皮肉や不満のニュアンスが含まれます。例：I thought I raised you better than that – you shouldn't be stealing.（まさかお前をそんな風に育てた覚えはないぞ。盗みなんてするんじゃない。)"
+    },
+    {
+      "id": 83,
+      "value": "far fetched",
+      "options": [
+        "あり得ない",
+        "非常に近い",
+        "現実的な",
+        "簡単な"
+      ],
+      "correctAnswer": "あり得ない",
+      "explanation": "「far-fetched」は、信じがたい、あり得ない、突飛なという意味です。現実離れしたアイデアや計画に対して使われます。例：The idea of traveling to Mars is not as far-fetched as it used to be. (火星へ旅行するというアイデアは、以前ほど突飛なものではなくなった。)"
+    },
+    {
+      "id": 84,
+      "value": "self-esteem",
+      "options": [
+        "自尊心",
+        "自己中心的",
+        "他者への尊敬",
+        "自己嫌悪"
+      ],
+      "correctAnswer": "自尊心",
+      "explanation": "「self-esteem」は、自己肯定感や自尊心という意味です。自分自身を価値のある存在として認識し、尊重する感情を指します。例：She has a high self-esteem. (彼女は自尊心が高い。)"
+    },
+    {
+      "id": 85,
+      "value": "went through with it",
+      "options": [
+        "やり遂げた",
+        "途中でやめた",
+        "反対した",
+        "保留にした"
+      ],
+      "correctAnswer": "やり遂げた",
+      "explanation": "「go through with it」は、困難や障害があるにもかかわらず、何かを最後までやり遂げるという意味です。決意や覚悟を持って行動するニュアンスがあります。　例：Despite the difficulties, they went through with the project. （困難にもかかわらず、彼らはプロジェクトをやり遂げた。）"
+    },
+    {
+      "id": 86,
+      "value": "be true to herself",
+      "options": [
+        "自分に正直である",
+        "他人を欺く",
+        "偽りの自分を演じる",
+        "過去に縛られる"
+      ],
+      "correctAnswer": "自分に正直である",
+      "explanation": "「be true to oneself」は、自分の信念や感情に正直に行動する、自分を偽らないという意味です。自己啓発や人間関係において重要な概念です。例：She decided to be true to herself and pursue her dream. (彼女は自分に正直に生き、夢を追いかけることに決めた。)"
+    },
+    {
+      "id": 87,
+      "value": "paid for",
+      "options": [
+        "支払い済み",
+        "未払い",
+        "無料",
+        "割引価格"
+      ],
+      "correctAnswer": "支払い済み",
+      "explanation": "「paid for」は、「（物やサービスが）支払い済みである」という意味です。経済的な安定や余裕があることを示す際に使われます。例：The car is completely paid for. (その車は完全に支払い済みだ。)"
+    },
+    {
+      "id": 88,
+      "value": "steamed",
+      "options": [
+        "怒っている",
+        "落ち着いている",
+        "喜んでいる",
+        "悲しんでいる"
+      ],
+      "correctAnswer": "怒っている",
+      "explanation": "「steamed」は、非常に怒っている、腹を立てているという意味です。口語的な表現で、感情が高ぶっている状態を表します。例：He was really steamed when he found out about the mistake. (彼はその間違いを知って本当に腹を立てていた。)"
+    },
+    {
+      "id": 89,
+      "value": "hang in there",
+      "options": [
+        "頑張って",
+        "諦めて",
+        "楽しんで",
+        "忘れて"
+      ],
+      "correctAnswer": "頑張って",
+      "explanation": "「hang in there」は、「頑張って」「くじけずに頑張れ」という意味の励ましの言葉です。困難な状況にある人に対して使われます。例：I know things are tough right now, but just hang in there. (今が辛い時期だということは分かっているけど、とにかく頑張って。)"
+    },
+    {
+      "id": 90,
+      "value": "break up",
+      "options": [
+        "別れる",
+        "仲直りする",
+        "結婚する",
+        "出会う"
+      ],
+      "correctAnswer": "別れる",
+      "explanation": "「break up」は、恋愛関係や人間関係が終わる、別れるという意味です。例：They decided to break up after five years together. (彼らは5年間の交際の末、別れることに決めた。)"
+    },
+    {
+      "id": 91,
+      "value": "screwed up",
+      "options": [
+        "しくじった",
+        "成功した",
+        "計画した",
+        "改善した"
+      ],
+      "correctAnswer": "しくじった",
+      "explanation": "「screw up」は、何かをしくじる、失敗するという意味の口語的な表現です。自分の過ちを認める際に使われます。例：I really screwed up that presentation. (私はあのプレゼンテーションで本当にしくじった。)"
+    },
+    {
+      "id": 92,
+      "value": "honorary man",
+      "options": [
+        "名誉男性",
+        "名誉女性",
+        "普通の男性",
+        "男性嫌い"
+      ],
+      "correctAnswer": "名誉男性",
+      "explanation": "「honorary」は「名誉の」「名誉職の」という意味で、「honorary man」はここでは比喩的に「男性に匹敵するほど優れた人物」というニュアンスで使用されています。学術的な業績や能力を高く評価する意味合いが含まれています。例：She was made an honorary member of the society. （彼女はその学会の名誉会員にされた。)"
+    },
+    {
+      "id": 93,
+      "value": "figured that out",
+      "options": [
+        "理解した",
+        "忘れてしまった",
+        "勘違いした",
+        "無視した"
+      ],
+      "correctAnswer": "理解した",
+      "explanation": "「figure out」は、理解する、解明するという意味です。ここでは「figured that out」という過去形で、すでに理解したことを表しています。例：I finally figured out how to use this software. (私はついにこのソフトウェアの使い方を理解した。)"
+    }
+  ]
+}

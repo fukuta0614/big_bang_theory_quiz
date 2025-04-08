@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "RSVP'd",
+      "options": [
+        "招待を拒否した",
+        "招待を承諾した",
+        "招待を無視した",
+        "招待状を送った"
+      ],
+      "correctAnswer": "招待を承諾した",
+      "explanation": "「RSVP」はフランス語の「Répondez s'il vous plaît」の略で、「ご返信ください」という意味です。招待状などで使われ、出席の可否を知らせるように求めます。「RSVP'd」は、その過去形または過去分詞形で、招待に返信したことを意味します。"
+    },
+    {
+      "id": 2,
+      "value": "meaning to",
+      "options": [
+        "～するつもりだった",
+        "～するのをためらっていた",
+        "～するのを後悔していた",
+        "～するのを避けていた"
+      ],
+      "correctAnswer": "～するつもりだった",
+      "explanation": "「mean to」は「～するつもりである」という意味です。過去形で使う場合は、「～するつもりだった」となります。実際には行動に移せなかったニュアンスが含まれることがあります。\n\n例：I meant to call you, but I got busy. (電話するつもりだったんだけど、忙しくなってしまった。)"
+    },
+    {
+      "id": 3,
+      "value": "stabbed in the back",
+      "options": [
+        "裏切られた",
+        "励まされた",
+        "助けられた",
+        "無視された"
+      ],
+      "correctAnswer": "裏切られた",
+      "explanation": "「stab someone in the back」は「～を裏切る」という意味のイディオムです。信頼していた人に裏切られる状況を表します。文字通り「背中を刺す」イメージから、陰でこっそり裏切るニュアンスがあります。"
+    },
+    {
+      "id": 4,
+      "value": "qualifies as",
+      "options": [
+        "～の資格がある",
+        "～の条件を満たす",
+        "～の結果になる",
+        "～を必要とする"
+      ],
+      "correctAnswer": "～の条件を満たす",
+      "explanation": "「qualify as」は「～として認められる」「～の資格がある」という意味です。あるものが特定のカテゴリーや基準に合致することを表します。\n\n例：This experience qualifies him as a leader. (この経験は彼をリーダーとして認めさせる。)"
+    },
+    {
+      "id": 5,
+      "value": "take a hint",
+      "options": [
+        "ヒントを受け取る",
+        "皮肉を理解する",
+        "忠告を聞き入れる",
+        "提案を拒否する"
+      ],
+      "correctAnswer": "皮肉を理解する",
+      "explanation": "「take a hint」は「（遠回しな）忠告や皮肉を理解する」という意味です。相手が直接的に言わなくても、状況や言動から意図を察することを指します。\n\n例：He didn't take the hint, so I had to tell him directly. (彼はヒントを理解しなかったので、直接言わなければならなかった。)"
+    },
+    {
+      "id": 6,
+      "value": "hear me out",
+      "options": [
+        "私の話を聞いて",
+        "私を許して",
+        "私に賛成して",
+        "私を信じて"
+      ],
+      "correctAnswer": "私の話を聞いて",
+      "explanation": "「hear someone out」は「～の話を最後まで聞く」という意味です。自分の意見や提案を述べる前に、相手に最後まで話を聞いてほしいときに使います。\n\n例：Just hear me out before you make a decision. (決定する前に、とりあえず私の話を最後まで聞いてください。)"
+    },
+    {
+      "id": 7,
+      "value": "obscure",
+      "options": [
+        "明白な",
+        "曖昧な",
+        "重要な",
+        "最新の"
+      ],
+      "correctAnswer": "曖昧な",
+      "explanation": "「obscure」は「曖昧な」「不明瞭な」「知られていない」という意味です。知識や情報がはっきりしない、または一般的でないことを表します。\n\n例：The origins of the tradition are obscure. (その伝統の起源は不明瞭だ。)"
+    },
+    {
+      "id": 8,
+      "value": "who's in?",
+      "options": [
+        "誰が賛成？",
+        "誰が反対？",
+        "誰が責任者？",
+        "誰が手伝う？"
+      ],
+      "correctAnswer": "誰が賛成？",
+      "explanation": "「Who's in?」は「誰が参加する？」「誰が賛成？」という意味です。グループで何かを始める際に、参加者を募る時に使います。\n\n例：I'm going to the movies. Who's in? (映画に行くけど、誰か来る？)"
+    },
+    {
+      "id": 9,
+      "value": "as well stand on the corner",
+      "options": [
+        "角に立つのも同然",
+        "角に立つことを勧める",
+        "角に立つのは難しい",
+        "角に立つのは危険だ"
+      ],
+      "correctAnswer": "角に立つのも同然",
+      "explanation": "「might as well」は「～した方がましだ」「～するのも同然だ」という意味です。他に良い選択肢がない場合に、消極的な意味合いで使われることがあります。\n\n例：We might as well start walking; the bus isn't coming. (バスが来ないから、歩き始めた方がましだ。)"
+    },
+    {
+      "id": 10,
+      "value": "born showman",
+      "options": [
+        "生まれながらの才能",
+        "生まれつきの詐欺師",
+        "生まれながらのショーマン",
+        "生まれつきの幸運"
+      ],
+      "correctAnswer": "生まれながらのショーマン",
+      "explanation": "「showman」は「演出家」「興行師」「人を惹きつけるのが上手な人」という意味です。「born showman」は「生まれながらのショーマン」で、人を惹きつけ、楽しませる才能を生まれつき持っている人を指します。"
+    },
+    {
+      "id": 11,
+      "value": "premise",
+      "options": [
+        "前提",
+        "結論",
+        "要約",
+        "詳細"
+      ],
+      "correctAnswer": "前提",
+      "explanation": "「premise」は「前提」「根拠」という意味です。議論や推論の出発点となる仮定や事実を指します。\n\n例：The premise of his argument is flawed. (彼の議論の前提は間違っている。)"
+    },
+    {
+      "id": 12,
+      "value": "mix things up",
+      "options": [
+        "状況を整理する",
+        "状況を悪化させる",
+        "状況を変える",
+        "状況を保存する"
+      ],
+      "correctAnswer": "状況を変える",
+      "explanation": "「mix things up」は「変化をつける」「気分転換をする」「状況を変える」という意味です。単調な状態から抜け出すために、何か新しいことを試す時に使います。\n\n例：Let's mix things up and try a new restaurant tonight. (気分転換に、今夜は新しいレストランに行ってみよう。)"
+    },
+    {
+      "id": 13,
+      "value": "liability",
+      "options": [
+        "資産",
+        "負債",
+        "責任",
+        "才能"
+      ],
+      "correctAnswer": "負債",
+      "explanation": "「liability」は「負債」「不利な点」「邪魔になるもの」という意味です。ここでは、チームにとって不利になる存在、足手まといになる人を指します。\n\n例：His lack of experience is a liability to the team. (彼の経験不足はチームにとって不利な点だ。)"
+    },
+    {
+      "id": 14,
+      "value": "kick your ass",
+      "options": [
+        "あなたを助ける",
+        "あなたを打ち負かす",
+        "あなたを尊敬する",
+        "あなたを無視する"
+      ],
+      "correctAnswer": "あなたを打ち負かす",
+      "explanation": "「kick someone's ass」は「～を打ち負かす」「～をやり込める」という意味の口語表現です。相手を打ち負かすことへの強い決意や自信を表します。"
+    },
+    {
+      "id": 15,
+      "value": "stuck with",
+      "options": [
+        "～に満足している",
+        "～にうんざりしている",
+        "～と協力している",
+        "～から逃げている"
+      ],
+      "correctAnswer": "～にうんざりしている",
+      "explanation": "「be stuck with」は「～から逃れられない」「～を押し付けられる」「～に困っている」という意味です。不本意ながら何かを受け入れざるを得ない状況を表します。\n\n例：I'm stuck with this old car because I can't afford a new one. (新しい車を買う余裕がないので、この古い車に乗り続けるしかない。)"
+    },
+    {
+      "id": 16,
+      "value": "get over it",
+      "options": [
+        "乗り越える",
+        "忘れる",
+        "楽しむ",
+        "始める"
+      ],
+      "correctAnswer": "乗り越える",
+      "explanation": "「get over it」は「乗り越える」「立ち直る」「諦める」という意味です。嫌なことや困難な状況から気持ちを切り替えるように促す時に使います。\n\n例：He's still upset about losing the game, but he needs to get over it. (彼はまだ試合に負けたことを気にしているが、もう立ち直る必要がある。)"
+    },
+    {
+      "id": 17,
+      "value": "odds",
+      "options": [
+        "確率",
+        "奇跡",
+        "運命",
+        "偶然"
+      ],
+      "correctAnswer": "確率",
+      "explanation": "「odds」は「確率」「可能性」という意味です。ここでは、特定の出来事が起こる確率を指します。\n\n例：The odds of winning the lottery are very low. (宝くじに当たる確率は非常に低い。)"
+    },
+    {
+      "id": 18,
+      "value": "adorable",
+      "options": [
+        "恐ろしい",
+        "愛らしい",
+        "退屈な",
+        "不快な"
+      ],
+      "correctAnswer": "愛らしい",
+      "explanation": "「adorable」は「愛らしい」「かわいらしい」「魅力的な」という意味です。特に子供や動物など、見ていて心が温まるようなものに対して使われます。\n\n例：The puppy is so adorable! (その子犬はとても愛らしい！)"
+    },
+    {
+      "id": 19,
+      "value": "help but notice",
+      "options": [
+        "気づかざるを得ない",
+        "気づかないようにする",
+        "気づくのを手伝う",
+        "気づかないふりをする"
+      ],
+      "correctAnswer": "気づかざるを得ない",
+      "explanation": "「can't help but notice」は「～に気づかざるを得ない」という意味です。文字通り「気づくのを避けることができない」という意味で、強く印象に残っていることを表します。\n\n例：I can't help but notice how well you're doing.（あなたがどれだけ頑張っているかに気づかざるを得ません。）"
+    },
+    {
+      "id": 20,
+      "value": "weapon of indifference",
+      "options": [
+        "無関心の武器",
+        "優しさの武器",
+        "怒りの武器",
+        "沈黙の武器"
+      ],
+      "correctAnswer": "無関心の武器",
+      "explanation": "「weapon of indifference」は「無関心の武器」という意味です。文字通りには「無関心」ですが、ここでは相手を傷つけるような、意図的な無視や冷たい態度を指す比喩表現として使われています。直接的な攻撃ではないものの、相手に精神的な苦痛を与える行為を指します。"
+    },
+    {
+      "id": 21,
+      "value": "elite universities",
+      "options": [
+        "エリート大学",
+        "地方大学",
+        "コミュニティカレッジ",
+        "オンライン大学"
+      ],
+      "correctAnswer": "エリート大学",
+      "explanation": "「elite universities」は「エリート大学」という意味です。一般的に、入学が非常に難しく、高い教育水準を誇る名門大学を指します。これらの大学は、伝統的に社会のリーダーを輩出する役割を担っています。"
+    },
+    {
+      "id": 22,
+      "value": "pumping disco music",
+      "options": [
+        "静かなクラシック音楽",
+        "激しいディスコ音楽",
+        "穏やかなジャズ音楽",
+        "騒々しいロック音楽"
+      ],
+      "correctAnswer": "激しいディスコ音楽",
+      "explanation": "「pumping disco music」は「激しいディスコ音楽」という意味です。「pumping」は、音楽のボリュームが大きく、ビートが強い状態を表します。ディスコ音楽特有の、踊りたくなるような高揚感を強調する表現です。"
+    },
+    {
+      "id": 23,
+      "value": "to be fair",
+      "options": [
+        "公平を期すために",
+        "不公平を承知で",
+        "厳密に言うと",
+        "大雑把に言うと"
+      ],
+      "correctAnswer": "公平を期すために",
+      "explanation": "「to be fair」は「公平を期すために」「念のために言っておくと」という意味です。自分の意見や発言が偏っていないことを示すため、または相手に誤解を与えないように補足する際に使われます。客観的な視点を提供しようとする意図が含まれています。"
+    },
+    {
+      "id": 24,
+      "value": "pouting",
+      "options": [
+        "笑う",
+        "怒る",
+        "ふくれる",
+        "泣く"
+      ],
+      "correctAnswer": "ふくれる",
+      "explanation": "「pouting」は「ふくれる」「むくれる」という意味です。不満や不機嫌な気持ちを、口を突き出すことで表す様子を指します。特に子供が不満を表現する際によく見られる行動です。"
+    },
+    {
+      "id": 25,
+      "value": "get ready",
+      "options": [
+        "準備する",
+        "出発する",
+        "片付ける",
+        "休憩する"
+      ],
+      "correctAnswer": "準備する",
+      "explanation": "「get ready」は「準備する」「用意する」という意味です。何かを始める前や、特定の行動を起こすために必要な準備をすることを指します。\n\n例：Get ready to go! (出発の準備をして！)"
+    },
+    {
+      "id": 26,
+      "value": "fit",
+      "options": [
+        "似合う",
+        "適合する",
+        "戦う",
+        "修理する"
+      ],
+      "correctAnswer": "適合する",
+      "explanation": "「fit」は、ここではパズルのピースがうまく合う、適合するという意味で使用されています。物理的な適合だけでなく、状況や目的に合致するという意味でも使われます。例：This key doesn't fit the lock.（この鍵は鍵穴に合わない。）"
+    },
+    {
+      "id": 27,
+      "value": "take apart",
+      "options": [
+        "組み立てる",
+        "分解する",
+        "修正する",
+        "無視する"
+      ],
+      "correctAnswer": "分解する",
+      "explanation": "「take apart」は、何かを分解する、ばらばらにするという意味です。物理的な物だけでなく、計画や議論などを分析・検討する際にも使われます。例：Let's take the machine apart to see what's wrong. (何が悪いのか見るために、機械を分解してみよう。)"
+    },
+    {
+      "id": 28,
+      "value": "full of",
+      "options": [
+        "空っぽの",
+        "満たされた",
+        "不足している",
+        "興味がない"
+      ],
+      "correctAnswer": "満たされた",
+      "explanation": "「full of」は、何かがいっぱいである、満ちているという意味です。物理的なものだけでなく、感情や情報など抽象的なものにも使われます。例：The room was full of people.（部屋は人でいっぱいだった。）"
+    },
+    {
+      "id": 29,
+      "value": "stuck with",
+      "options": [
+        "解放された",
+        "選ばれた",
+        "取り残された",
+        "満足した"
+      ],
+      "correctAnswer": "取り残された",
+      "explanation": "「stuck with」は、望まない人や物事から逃れられず、付き合わざるを得ない状況を表します。不満や諦めのニュアンスが含まれることが多いです。例：I'm stuck with this old car.（この古い車から抜け出せない。）"
+    },
+    {
+      "id": 30,
+      "value": "steel cage",
+      "options": [
+        "楽園",
+        "安全な場所",
+        "危険な場所",
+        "退屈な場所"
+      ],
+      "correctAnswer": "危険な場所",
+      "explanation": "「steel cage」は、金網で囲まれた檻、特にプロレスなどで使われるリングを指します。危険で閉鎖的な状況の比喩としても用いられます。"
+    },
+    {
+      "id": 31,
+      "value": "wolverine",
+      "options": [
+        "穏やかな動物",
+        "臆病な動物",
+        "獰猛な動物",
+        "愛らしい動物"
+      ],
+      "correctAnswer": "獰猛な動物",
+      "explanation": "「wolverine」は、クズリという動物のこと。非常にどう猛で攻撃的な性格で知られています。比喩的に、手ごわい相手や状況を指すことがあります。"
+    },
+    {
+      "id": 32,
+      "value": "numb nuts",
+      "options": [
+        "賢い人",
+        "勇敢な人",
+        "ばか者",
+        "正直者"
+      ],
+      "correctAnswer": "ばか者",
+      "explanation": "「numb nuts」は、人をののしる言葉で、ばか、間抜けという意味です。親しい間柄で冗談交じりに使われることもありますが、基本的には失礼な表現です。"
+    },
+    {
+      "id": 33,
+      "value": "dodged a bullet",
+      "options": [
+        "弾丸を避けた",
+        "危険を回避した",
+        "攻撃を始めた",
+        "幸運をつかんだ"
+      ],
+      "correctAnswer": "危険を回避した",
+      "explanation": "「dodge a bullet」は、危機一髪で危険な状況を回避できた、という意味のイディオムです。間一髪で災難を逃れた状況を表します。例：I dodged a bullet when I missed that flight, because it crashed.（その飛行機に乗り遅れて助かった。墜落したんだ。）"
+    },
+    {
+      "id": 34,
+      "value": "off the top of my head",
+      "options": [
+        "秘密裏に",
+        "注意深く",
+        "即座に",
+        "計画的に"
+      ],
+      "correctAnswer": "即座に",
+      "explanation": "「off the top of my head」は、特に考えずに、すぐに思いつくことを述べる際に使われる表現です。正確性よりも迅速さを重視する状況で用いられます。例：Off the top of my head, I can't think of any reason why we shouldn't go.（すぐに思いつく限り、行かない理由はない。）"
+    },
+    {
+      "id": 35,
+      "value": "be mistaken for",
+      "options": [
+        "理解される",
+        "尊敬される",
+        "誤解される",
+        "無視される"
+      ],
+      "correctAnswer": "誤解される",
+      "explanation": "「be mistaken for」は、〜と間違われるという意味です。外見や行動が似ているために誤認される状況を表します。例：I'm often mistaken for my sister.（私はよく妹と間違われる。）"
+    },
+    {
+      "id": 36,
+      "value": "scavenger hunt",
+      "options": [
+        "宝探しゲーム",
+        "競争",
+        "冒険旅行",
+        "隠された財宝"
+      ],
+      "correctAnswer": "宝探しゲーム",
+      "explanation": "「scavenger hunt」は、参加者がリストにある特定のアイテムを見つけたり、特定のタスクを完了したりするゲームです。宝探しのような要素が含まれます。"
+    },
+    {
+      "id": 37,
+      "value": "ruse",
+      "options": [
+        "正直な行為",
+        "策略",
+        "偶然",
+        "幸運"
+      ],
+      "correctAnswer": "策略",
+      "explanation": "「ruse」は、人を欺くための策略、計略という意味です。特に、注意深く計画された、巧妙な策略を指すことが多いです。例：It was just a ruse to get her out of the house.（それは彼女を家から連れ出すための策略にすぎなかった。）"
+    },
+    {
+      "id": 38,
+      "value": "riddle me this",
+      "options": [
+        "教えてください",
+        "考えてみてください",
+        "答えてください",
+        "質問があります"
+      ],
+      "correctAnswer": "考えてみてください",
+      "explanation": "「riddle me this」は、「この謎を解いてみて」という意味で、リドラー（謎かけをする人）がよく使う表現です。相手に挑戦するようなニュアンスが含まれます。"
+    },
+    {
+      "id": 39,
+      "value": "legion-bound",
+      "options": [
+        "自由な",
+        "制限された",
+        "忘れられた",
+        "有名な"
+      ],
+      "correctAnswer": "制限された",
+      "explanation": "「legion-bound」は、ここでは「legion」（多数）によって「bound」（制限された）という意味合いで使われています。英雄の業績が多数に及ぶことを示唆する表現です。"
+    },
+    {
+      "id": 40,
+      "value": "gather round",
+      "options": [
+        "散らばる",
+        "集まる",
+        "逃げる",
+        "隠れる"
+      ],
+      "correctAnswer": "集まる",
+      "explanation": "「gather round」は、「（人々に）集まってください」という意味の表現です。物語を聞かせたり、何かを見せたりする際に、注意を引くために使われます。例：Gather round, everyone, I have an announcement to make.（皆さん、集まってください。発表があります。）"
+    },
+    {
+      "id": 41,
+      "value": "marathon",
+      "options": [
+        "短距離走",
+        "長距離走",
+        "障害物競走",
+        "休憩時間"
+      ],
+      "correctAnswer": "長距離走",
+      "explanation": "「marathon」は、長距離走のことで、忍耐力と持久力が求められます。比喩的に、時間や労力がかかる、長く困難な活動を指すこともあります。"
+    },
+    {
+      "id": 42,
+      "value": "sprint",
+      "options": [
+        "全力疾走",
+        "ゆっくり歩く",
+        "停止する",
+        "後退する"
+      ],
+      "correctAnswer": "全力疾走",
+      "explanation": "「sprint」は、短距離を全速力で走ることです。比喩的に、短期間で集中的に努力することを指すこともあります。"
+    },
+    {
+      "id": 43,
+      "value": "hard feelings",
+      "options": [
+        "喜び",
+        "怒りや不満",
+        "悲しみ",
+        "興奮"
+      ],
+      "correctAnswer": "怒りや不満",
+      "explanation": "「hard feelings」は、わだかまり、遺恨、不快感といった意味合いを持ちます。人間関係において、意見の不一致や誤解が原因で生じるネガティブな感情を表します。例文：I hope there are no hard feelings after our disagreement.（私たちの意見の不一致の後、わだかまりがないといいのですが。）"
+    },
+    {
+      "id": 44,
+      "value": "repair your relationship",
+      "options": [
+        "関係を悪化させる",
+        "関係を修復する",
+        "関係を無視する",
+        "関係を始める"
+      ],
+      "correctAnswer": "関係を修復する",
+      "explanation": "「repair your relationship」は、関係を修復する、関係を改善するという意味です。壊れてしまった人間関係を元に戻すために努力することを指します。例：They are trying to repair their relationship after the argument.（彼らは喧嘩の後、関係を修復しようとしている。）"
+    },
+    {
+      "id": 45,
+      "value": "on your own time",
+      "options": [
+        "急いで",
+        "自由に",
+        "仕事中に",
+        "他人の時間で"
+      ],
+      "correctAnswer": "自由に",
+      "explanation": "「on your own time」は、自分の都合の良い時に、自分のペースでという意味です。仕事や義務ではなく、自由時間に行うことを示唆します。例：You can do it on your own time.（自分の都合の良い時にやればいい。）"
+    },
+    {
+      "id": 46,
+      "value": "Right lane",
+      "options": [
+        "一番右側の車線",
+        "中央の車線",
+        "一番左側の車線",
+        "追い越し車線"
+      ],
+      "correctAnswer": "一番右側の車線",
+      "explanation": "「Right lane」は、道路の一番右側の車線を指します。一般的に、走行速度が遅い車や、目的地に向かうために走行する車が利用することが多いです。"
+    },
+    {
+      "id": 47,
+      "value": "go around",
+      "options": [
+        "無視する",
+        "避ける",
+        "同意する",
+        "直進する"
+      ],
+      "correctAnswer": "避ける",
+      "explanation": "「go around」は、ここではバスを追い越すという意味で使われています。障害物を避けて進む、迂回するという意味もあります。例：We had to go around the fallen tree.（倒れた木を避けて進まなければならなかった。）"
+    },
+    {
+      "id": 48,
+      "value": "slow down",
+      "options": [
+        "加速する",
+        "減速する",
+        "停止する",
+        "維持する"
+      ],
+      "correctAnswer": "減速する",
+      "explanation": "「slow down」は、速度を落とす、減速するという意味です。文字通り速度を落とすだけでなく、活動のペースを落とすという意味でも使われます。例：You need to slow down and relax.（あなたはペースを落としてリラックスする必要がある。）"
+    },
+    {
+      "id": 49,
+      "value": "first time",
+      "options": [
+        "いつも",
+        "初めて",
+        "最後に",
+        "二度とない"
+      ],
+      "correctAnswer": "初めて",
+      "explanation": "「first time」は、初めて、初めての経験という意味です。何かを初めて行う状況を表します。例：This is my first time visiting Japan.（これは私が初めて日本を訪れる。）"
+    },
+    {
+      "id": 50,
+      "value": "murder mystery party",
+      "options": [
+        "ホラーパーティー",
+        "誕生日パーティー",
+        "殺人事件をテーマにしたパーティー",
+        "サプライズパーティー"
+      ],
+      "correctAnswer": "殺人事件をテーマにしたパーティー",
+      "explanation": "「murder mystery party」は、参加者が殺人事件の登場人物になりきり、犯人を推理するゲーム形式のパーティーです。参加者は役割を与えられ、情報を交換しながら事件の真相を解き明かします。"
+    },
+    {
+      "id": 51,
+      "value": "in the lead",
+      "options": [
+        "支配下にある",
+        "最先端を行く",
+        "混乱している",
+        "準備ができている"
+      ],
+      "correctAnswer": "最先端を行く",
+      "explanation": "「in the lead」は、競争やレースなどで「先頭に立っている」「リードしている」という意味です。優位な立場にあることを示します。例：Our team is in the lead by ten points. (私たちのチームは10点リードしている。)"
+    },
+    {
+      "id": 52,
+      "value": "leave no stone unturned",
+      "options": [
+        "石を置いたままにする",
+        "あらゆる手を尽くす",
+        "秘密にする",
+        "問題を避ける"
+      ],
+      "correctAnswer": "あらゆる手を尽くす",
+      "explanation": "「leave no stone unturned」は、「あらゆる手段を講じる」「徹底的に調査する」という意味のイディオムです。何かを達成するために、考えられるすべての方法を試すことを意味します。例：We will leave no stone unturned in our search for the missing child. (行方不明の子供を探すために、あらゆる手を尽くします。)"
+    },
+    {
+      "id": 53,
+      "value": "figure out",
+      "options": [
+        "理解する",
+        "無視する",
+        "忘れる",
+        "後悔する"
+      ],
+      "correctAnswer": "理解する",
+      "explanation": "「figure out」は、「理解する」「解決する」「解明する」という意味の句動詞です。何かを考えたり、調査したりして、その意味や理由を理解することを指します。例：I'm trying to figure out how to solve this problem. (この問題をどう解決するか考えているところです。)"
+    },
+    {
+      "id": 54,
+      "value": "Nice try",
+      "options": [
+        "良い試み",
+        "悪い冗談",
+        "簡単な仕事",
+        "難しい問題"
+      ],
+      "correctAnswer": "良い試み",
+      "explanation": "「Nice try」は、相手の試みが成功しなかった場合に、相手を励ます意味合いで使われる表現です。「惜しかったね」「頑張ったね」といったニュアンスを含みます。皮肉として使われる場合もあります。例：A: I tried to fix the TV, but it's still broken. B: Nice try, but maybe we should call a professional. (A: テレビを直そうとしたけど、まだ壊れてる。B: 惜しかったね、でも専門家を呼ぶべきかも。)"
+    },
+    {
+      "id": 55,
+      "value": "funnin'",
+      "options": [
+        "楽しんでいる",
+        "からかっている",
+        "困惑している",
+        "集中している"
+      ],
+      "correctAnswer": "からかっている",
+      "explanation": "「funnin'」は、「funning」の口語的な表現で、「からかう」「冗談を言う」「ふざける」という意味です。人を面白がらせたり、軽くいたずらをしたりするニュアンスがあります。例：I was just funnin' with you when I said that. (そう言ったときは、ただからかっていただけだよ。)"
+    },
+    {
+      "id": 56,
+      "value": "know-it-all",
+      "options": [
+        "何でも屋",
+        "知ったかぶり",
+        "正直者",
+        "怠け者"
+      ],
+      "correctAnswer": "知ったかぶり",
+      "explanation": "「know-it-all」は、「知ったかぶり屋」「物知り顔」という意味の名詞です。実際にはそれほど知識がないのに、何でも知っているかのように振る舞う人を指します。しばしば否定的な意味合いで使われます。例：Nobody likes a know-it-all who always interrupts and corrects them. (いつも人の話を遮って訂正する知ったかぶり屋は誰も好きじゃない。)"
+    },
+    {
+      "id": 57,
+      "value": "I'm okay with",
+      "options": [
+        "大丈夫です",
+        "反対です",
+        "興味がない",
+        "準備中です"
+      ],
+      "correctAnswer": "大丈夫です",
+      "explanation": "「I'm okay with」は、「～に同意する」「～を承知する」「～は構わない」という意味です。ある事柄に対して、不満はなく受け入れることができるという意思表示です。例：I'm okay with you borrowing my car, as long as you fill up the gas tank. (ガソリンを満タンにしてくれるなら、君が僕の車を借りても構わない。)"
+    },
+    {
+      "id": 58,
+      "value": "Don't sweat it",
+      "options": [
+        "心配しないで",
+        "汗をかかないで",
+        "運動しないで",
+        "急いで"
+      ],
+      "correctAnswer": "心配しないで",
+      "explanation": "「Don't sweat it」は、「心配しないで」「気にするな」「大丈夫だよ」という意味の口語的な表現です。相手を安心させたり、問題を軽く見せたりする際に使われます。例：A: I'm so sorry I spilled coffee on your shirt. B: Don't sweat it, it'll wash out. (A: シャツにコーヒーをこぼして本当にごめん。B: 気にしないで、洗えば落ちるよ。)"
+    },
+    {
+      "id": 59,
+      "value": "honor student",
+      "options": [
+        "名誉学生",
+        "優等生",
+        "奨学生",
+        "留学生"
+      ],
+      "correctAnswer": "優等生",
+      "explanation": "「honor student」は、「優等生」「成績優秀な学生」という意味です。学校で特に優秀な成績を収めている生徒を指します。例：She was an honor student throughout high school and received a scholarship to a top university. (彼女は高校時代ずっと優等生で、一流大学の奨学金を得ました。)"
+    },
+    {
+      "id": 60,
+      "value": "in the first place",
+      "options": [
+        "そもそも",
+        "最後に",
+        "最初から",
+        "途中で"
+      ],
+      "correctAnswer": "そもそも",
+      "explanation": "「in the first place」は、「そもそも」「最初に」「初めから」という意味のイディオムです。事の始まりや根本的な原因を指摘する際に使われます。例：I didn't want to go to the party in the first place. (そもそも私はパーティーに行きたくなかったんだ。)"
+    },
+    {
+      "id": 61,
+      "value": "put this",
+      "options": [
+        "片付ける",
+        "表現する",
+        "我慢する",
+        "投資する"
+      ],
+      "correctAnswer": "表現する",
+      "explanation": "「put this」は、通常、後に続く言葉と組み合わせて、「(言葉で)表現する」「言い表す」という意味で使用されます。特に、言い方が難しいことや、婉曲的な表現をしたい場合に用いられます。例：How do I put this delicately? (これをどう婉曲的に表現すればいいだろうか？)"
+    },
+    {
+      "id": 62,
+      "value": "lady part",
+      "options": [
+        "女性",
+        "女性器",
+        "淑女",
+        "女王"
+      ],
+      "correctAnswer": "女性器",
+      "explanation": "「lady part」は、女性器を婉曲的に表現する言葉です。直接的な表現を避けるために、ユーモラスに、または隠喩的に用いられます。フォーマルな場での使用は避けるべきです。例：She was embarrassed to talk about her lady parts with the doctor. (彼女は医者に自分の女性器について話すのが恥ずかしかった。)"
+    },
+    {
+      "id": 63,
+      "value": "gonna",
+      "options": [
+        "行く",
+        "～するつもり",
+        "～すべき",
+        "～できる"
+      ],
+      "correctAnswer": "～するつもり",
+      "explanation": "「gonna」は、「going to」の口語的な短縮形であり、「～するつもり」「～だろう」という意味です。未来の予定や意図を表す際に使用されます。例：I'm gonna go to the store later. (後で店に行くつもりです。)"
+    },
+    {
+      "id": 64,
+      "value": "on the rocks",
+      "options": [
+        "岩の上で",
+        "氷入りで",
+        "困難な状況で",
+        "順調で"
+      ],
+      "correctAnswer": "困難な状況で",
+      "explanation": "「on the rocks」は、関係や事業などが「困難な状況にある」「危機に瀕している」という意味のイディオムです。もともとは船が座礁している状態を表す言葉でした。例：Their marriage is on the rocks after years of fighting. (長年の争いの末、彼らの結婚は危機に瀕している。)"
+    },
+    {
+      "id": 65,
+      "value": "big surprise",
+      "options": [
+        "大きな驚き",
+        "当然の結果",
+        "良い知らせ",
+        "悪い知らせ"
+      ],
+      "correctAnswer": "当然の結果",
+      "explanation": "文脈によって意味が変わります。基本的には「大きな驚き」ですが、皮肉を込めて「当然の結果だ」という意味で使われることもあります。この文脈では、皮肉的な意味合いが強いと考えられます。例：It's no big surprise that he failed the exam, he didn't study at all. (彼が試験に落ちたのは当然の結果だ、彼は全く勉強しなかった。)"
+    },
+    {
+      "id": 66,
+      "value": "pour me a drink",
+      "options": [
+        "飲みに誘う",
+        "一杯注いで",
+        "おごってあげる",
+        "乾杯する"
+      ],
+      "correctAnswer": "一杯注いで",
+      "explanation": "「pour me a drink」は、「私に飲み物を一杯注いで」という意味です。文字通りに飲み物を注いでもらうことを頼む場合と、比喩的に心の慰めや気晴らしを求める場合に使われます。例：I've had a long day, pour me a drink. (今日は長い一日だった、一杯注いでくれ。)"
+    },
+    {
+      "id": 67,
+      "value": "tell you some lies",
+      "options": [
+        "嘘を教える",
+        "本当のことを話す",
+        "秘密を教える",
+        "面白い話をする"
+      ],
+      "correctAnswer": "嘘を教える",
+      "explanation": "文字通りの意味は「あなたにいくつかの嘘を言う」ですが、歌の歌詞の一部であり、悲しい状況を紛らわすために嘘を語り合うという状況を表しています。 現実逃避や慰めを求めるニュアンスが含まれています。例：After a heartbreak, sometimes people just want to sit around and tell each other some lies to feel better. (失恋の後、時には人々はただ座って、気分が良くなるためにお互いに嘘を言い合うことを望む。)"
+    },
+    {
+      "id": 68,
+      "value": "Call me",
+      "options": [
+        "電話して",
+        "呼んで",
+        "私を～とみなす",
+        "相談して"
+      ],
+      "correctAnswer": "私を～とみなす",
+      "explanation": "「Call me」は、直訳すると「私を呼んで」ですが、文脈によっては「私を～と呼んで」「私を～とみなして」という意味になります。この場合は、「Call me a lady part」で、「私のことを女性器と呼んでみろ」という挑発的な意味合いになります。例：If I'm wrong, you can call me a liar. (もし私が間違っていたら、嘘つきと呼んでくれてもいい。)"
+    },
+    {
+      "id": 69,
+      "value": "We'll see about that",
+      "options": [
+        "後で考えよう",
+        "様子を見よう",
+        "それはどうかな",
+        "すぐに解決する"
+      ],
+      "correctAnswer": "それはどうかな",
+      "explanation": "「We'll see about that」は、「それはどうかな」「そうはさせない」「本当かどうか確かめてやる」という意味の表現です。相手の言ったことや状況に対して疑念や反発を示し、自分で確かめてみようというニュアンスを含みます。例：A: You'll never be able to finish this project on time. B: We'll see about that! (A: 君には時間内にこのプロジェクトを終わらせることは絶対にできないだろう。 B: それはどうかな！)"
+    },
+    {
+      "id": 70,
+      "value": "Right behind",
+      "options": [
+        "すぐ後ろに",
+        "正しい裏に",
+        "右側に",
+        "真実の陰に"
+      ],
+      "correctAnswer": "すぐ後ろに",
+      "explanation": "文字通りの意味は「すぐ後ろに」ですが、比喩的に「追いかけている」「迫っている」という意味でも使われます。競争や追跡の状況で、相手に遅れを取っていないことを示すニュアンスが含まれます。例：The police are right behind the suspect. (警察は容疑者のすぐ後ろにいる。)"
+    },
+    {
+      "id": 71,
+      "value": "onto something",
+      "options": [
+        "何かの上に乗っている",
+        "何かを知っている",
+        "何かに夢中になっている",
+        "何かを計画している"
+      ],
+      "correctAnswer": "何かを知っている",
+      "explanation": "「onto something」は、「何か重要なことを知っている」「核心に近づいている」「何かを発見しつつある」という意味のイディオムです。隠された真実や解決策に気づき始めている状態を表します。例：I think she's onto something with her new theory. (彼女は新しい理論で何か重要なことを知っていると思う。)"
+    },
+    {
+      "id": 72,
+      "value": "in the lead",
+      "options": [
+        "指導者",
+        "最前線",
+        "裏側",
+        "追従者"
+      ],
+      "correctAnswer": "最前線",
+      "explanation": "「in the lead」は、競争やレースなどで「先頭に立っている」「リードしている」という意味です。優位な立場にあることを示します。ここでは同じフレーズが再度登場しましたが、重要な表現なので再度含めました。例：Our team is in the lead by ten points. (私たちのチームは10点リードしている。)"
+    },
+    {
+      "id": 73,
+      "value": "let's see",
+      "options": [
+        "見てみましょう",
+        "考えてみましょう",
+        "見せてください",
+        "放っておきましょう"
+      ],
+      "correctAnswer": "考えてみましょう",
+      "explanation": "「let's see」は、「ええと」「さて」「ちょっと待って」という意味で、考えたり、確認したり、思い出したりする際に使われる間投詞です。時間稼ぎや思考の整理をするための言葉として用いられます。例：Let's see, where did I put my keys? (ええと、鍵をどこに置いたっけ？)"
+    },
+    {
+      "id": 74,
+      "value": "Coming to America",
+      "options": [
+        "アメリカに来ている",
+        "アメリカへ向かっている",
+        "アメリカから来ている",
+        "アメリカに住んでいる"
+      ],
+      "correctAnswer": "アメリカへ向かっている",
+      "explanation": "「Coming to America」は、直訳すると「アメリカに来ている」ですが、この文脈ではニール・ダイアモンドの同名の歌の歌詞であり、「アメリカへ向かっている」という意味合いで使われています。希望や新しい始まりを象徴するフレーズです。例：The song 'Coming to America' is about the hope and dreams of immigrants coming to the United States. (歌「カミング・トゥ・アメリカ」は、アメリカへやってくる移民たちの希望と夢について歌っている。)"
+    },
+    {
+      "id": 75,
+      "value": "Shut up",
+      "options": [
+        "黙って",
+        "起きて",
+        "閉じて",
+        "静かに"
+      ],
+      "correctAnswer": "黙って",
+      "explanation": "「Shut up」は、「黙れ」という意味の非常に直接的で失礼な表現です。親しい間柄や、非常にくだけた状況で使われることがありますが、基本的には使うべきではありません。強い不快感や怒りを表す際に用いられます。例：He told me to shut up when I interrupted him. (私が彼の邪魔をしたとき、彼は私に黙れと言った。)"
+    },
+    {
+      "id": 76,
+      "value": "tar pits",
+      "options": [
+        "アスファルトの池",
+        "油田",
+        "泥沼",
+        "温泉"
+      ],
+      "correctAnswer": "アスファルトの池",
+      "explanation": "「tar pits」は、天然のアスファルトが地表に染み出してできた場所を指します。古代の動物の化石がよく発見されることで知られています。"
+    },
+    {
+      "id": 77,
+      "value": "You're up",
+      "options": [
+        "あなたの番です",
+        "元気を出して",
+        "起きてください",
+        "準備OK"
+      ],
+      "correctAnswer": "あなたの番です",
+      "explanation": "「You're up」は、順番が回ってきたことを知らせる際に使われる表現です。スポーツやゲーム、プレゼンテーションなど、様々な状況で使用できます。Example: 'Okay, you're up next to give your presentation.'"
+    },
+    {
+      "id": 78,
+      "value": "training for this your whole life",
+      "options": [
+        "人生をかけてトレーニングする",
+        "人生で初めての経験",
+        "準備万端である",
+        "過去の経験が役立つ"
+      ],
+      "correctAnswer": "人生をかけてトレーニングする",
+      "explanation": "皮肉を込めて、ある人が特定の状況やタスクに非常に適している、または慣れていることを強調する表現です。 例：He's been complaining about this for years, he's been training for this his whole life."
+    },
+    {
+      "id": 79,
+      "value": "made me slow down",
+      "options": [
+        "私を遅くさせた",
+        "スピードを上げた",
+        "休憩させた",
+        "立ち止まらせた"
+      ],
+      "correctAnswer": "私を遅くさせた",
+      "explanation": "文字通りには速度を落とすことを意味しますが、比喩的には、何かによって進行や行動が遅延させられたり、妨げられたりすることを指します。例：The heavy traffic made me slow down."
+    },
+    {
+      "id": 80,
+      "value": "bunch of",
+      "options": [
+        "たくさんの",
+        "少しの",
+        "一つの",
+        "特定されない"
+      ],
+      "correctAnswer": "たくさんの",
+      "explanation": "「bunch of」は、あるものがたくさん集まっている状態を表す口語的な表現です。数えられる名詞に対して使われます。例：I have a bunch of things to do today. (今日やるべきことがたくさんある。)"
+    },
+    {
+      "id": 81,
+      "value": "smart enough to be on your team",
+      "options": [
+        "チームに所属するほど賢い",
+        "チームに所属するには不十分",
+        "チームを率いるほど賢い",
+        "チームに必要とされない"
+      ],
+      "correctAnswer": "チームに所属するほど賢い",
+      "explanation": "ある人が特定のチームやグループに貢献できるだけの能力や知性を持っているかどうかを評価する際に使われる表現です。しばしば皮肉や謙遜の意味合いを込めて使われます。例：I'm not smart enough to be on the debate team."
+    },
+    {
+      "id": 82,
+      "value": "What are you talking about?",
+      "options": [
+        "何を言っているのですか？",
+        "どうしたのですか？",
+        "何が起きたのですか？",
+        "何を知りたいのですか？"
+      ],
+      "correctAnswer": "何を言っているのですか？",
+      "explanation": "相手の発言が理解できない、または同意できない場合に用いられる表現です。疑問や不快感を表すニュアンスが含まれます。Example: 'I don't understand. What are you talking about?'"
+    },
+    {
+      "id": 83,
+      "value": "made that up",
+      "options": [
+        "それを発明した",
+        "それを修正した",
+        "それを理解した",
+        "それをでっち上げた"
+      ],
+      "correctAnswer": "それをでっち上げた",
+      "explanation": "「make up」は「作り上げる」「でっち上げる」という意味で、事実ではないことを言う場合に使われます。例：She made up a story about why she was late."
+    },
+    {
+      "id": 84,
+      "value": "cover your ears",
+      "options": [
+        "耳を覆って",
+        "目を閉じて",
+        "口を閉じて",
+        "静かにして"
+      ],
+      "correctAnswer": "耳を覆って",
+      "explanation": "「cover your ears」は、不快な音や言葉を聞かせたくないときに、人に耳をふさぐように促す表現です。例：Cover your ears, I'm about to yell!"
+    },
+    {
+      "id": 85,
+      "value": "beat your ass",
+      "options": [
+        "あなたを打ち負かす",
+        "あなたを助ける",
+        "あなたを称賛する",
+        "あなたを無視する"
+      ],
+      "correctAnswer": "あなたを打ち負かす",
+      "explanation": "「beat your ass」は非常に口語的で、相手を打ち負かす、打ちのめすという意味の強い表現です。スポーツや競争で使われることが多いですが、非常に攻撃的なニュアンスを含むため、使用には注意が必要です。Example: \"I'm going to beat your ass in this game!\""
+    },
+    {
+      "id": 86,
+      "value": "every bit as much of a man",
+      "options": [
+        "全く男らしくない",
+        "少しだけ男らしい",
+        "非常に男らしい",
+        "同じくらい男らしい"
+      ],
+      "correctAnswer": "同じくらい男らしい",
+      "explanation": "ある人が別の誰かと同じくらい、または完全に特定の性質や特徴を持っていることを強調する表現です。しばしば自己主張や競争心を示す文脈で使われます。Example: \"I'm every bit as capable as him.\""
+    },
+    {
+      "id": 87,
+      "value": "pre-soak",
+      "options": [
+        "予洗いする",
+        "乾燥させる",
+        "漂白する",
+        "アイロンをかける"
+      ],
+      "correctAnswer": "予洗いする",
+      "explanation": "「pre-soak」は、洗濯する前にあらかじめ水に浸しておくことを意味します。汚れを落としやすくするために行います。例：I need to pre-soak this shirt before washing it."
+    },
+    {
+      "id": 88,
+      "value": "slipped them in there",
+      "options": [
+        "そこに滑り込ませた",
+        "そこに隠した",
+        "そこに置いた",
+        "そこから取り出した"
+      ],
+      "correctAnswer": "そこに滑り込ませた",
+      "explanation": "気づかれないように、こっそりと何かをどこかに入れる、という意味です。例：I slipped a note into her pocket."
+    },
+    {
+      "id": 89,
+      "value": "Are you kidding me?",
+      "options": [
+        "冗談ですか？",
+        "本気ですか？",
+        "怒っていますか？",
+        "悲しいですか？"
+      ],
+      "correctAnswer": "冗談ですか？",
+      "explanation": "「Are you kidding me?」は、相手の発言に対して驚き、不信感、または軽蔑を表す際に使われる表現です。しばしば、相手の発言が信じられないほど馬鹿げていると感じる場合に使われます。Example: 'You want me to work overtime again? Are you kidding me?'"
+    },
+    {
+      "id": 90,
+      "value": "suck so hard",
+      "options": [
+        "とても頑張る",
+        "とても下手",
+        "とても幸運",
+        "とても疲れている"
+      ],
+      "correctAnswer": "とても下手",
+      "explanation": "「suck」は、俗語で「ひどい」「最低」という意味です。「suck so hard」は、それが強調された表現で、非常に下手である、または非常に悪い状況であることを意味します。Example: 'This game sucks so hard!'"
+    },
+    {
+      "id": 91,
+      "value": "came out wrong",
+      "options": [
+        "間違って出てきた",
+        "正しく伝わった",
+        "偶然に起こった",
+        "意図的に言った"
+      ],
+      "correctAnswer": "間違って出てきた",
+      "explanation": "意図したこととは違う意味で伝わってしまった、または不適切な発言をしてしまったときに使われる表現です。例：I'm sorry, that came out wrong."
+    },
+    {
+      "id": 92,
+      "value": "have to admit",
+      "options": [
+        "認めざるを得ない",
+        "否定しなければならない",
+        "忘れてはならない",
+        "信じてはならない"
+      ],
+      "correctAnswer": "認めざるを得ない",
+      "explanation": "ある事実や真実を、たとえ気が進まなくても認めざるを得ない状況で使われる表現です。例：I have to admit, he's a talented player."
+    },
+    {
+      "id": 93,
+      "value": "get the way to move me",
+      "options": [
+        "私を感動させる方法",
+        "私を止める方法",
+        "私を無視する方法",
+        "私を混乱させる方法"
+      ],
+      "correctAnswer": "私を感動させる方法",
+      "explanation": "「get the way to move me」は、感情を揺さぶられる、感動させられるという意味です。この文脈では、音楽やパフォーマンスが人に与える影響について述べています。文字通りの意味ではなく、比喩的な表現として理解する必要があります。"
+    },
+    {
+      "id": 94,
+      "value": "get the way to groove me",
+      "options": [
+        "私を踊らせる方法",
+        "私を悲しませる方法",
+        "私を眠らせる方法",
+        "私を困らせる方法"
+      ],
+      "correctAnswer": "私を踊らせる方法",
+      "explanation": "「groove」は音楽に合わせて体を動かす、ノリが良いという意味です。「get the way to groove me」は、音楽が人を踊らせる、または楽しい気分にさせるという意味になります。"
+    },
+    {
+      "id": 95,
+      "value": "Wish I had",
+      "options": [
+        "持っていればよかった",
+        "持っているはずだ",
+        "持っているに違いない",
+        "持っているかもしれない"
+      ],
+      "correctAnswer": "持っていればよかった",
+      "explanation": "「Wish I had」は、過去に持っていなかったもの、または過去に起こらなかったことに対する後悔や願望を表す表現です。仮定法過去完了の構文を用いて、実現しなかったことを想像しています。例：Wish I had studied harder for the exam."
+    },
+    {
+      "id": 96,
+      "value": "Let's go",
+      "options": [
+        "行きましょう",
+        "帰りましょう",
+        "休みましょう",
+        "やめましょう"
+      ],
+      "correctAnswer": "行きましょう",
+      "explanation": "「Let's go」は、提案や誘いを表す際に使われる一般的な表現です。何かを始める、またはどこかへ行くことを促す意味合いがあります。 例：'Let's go to the beach this weekend.'"
+    },
+    {
+      "id": 97,
+      "value": "dirty laundry",
+      "options": [
+        "汚れた洗濯物",
+        "隠された秘密",
+        "個人的な問題",
+        "公共の議論"
+      ],
+      "correctAnswer": "汚れた洗濯物",
+      "explanation": "「dirty laundry」は、文字通りには汚れた洗濯物を意味しますが、比喩的には、公にしたくない個人的な問題や秘密を指します。Example: 'They aired their dirty laundry in public.'"
+    },
+    {
+      "id": 98,
+      "value": "quit",
+      "options": [
+        "辞める",
+        "続ける",
+        "始める",
+        "頑張る"
+      ],
+      "correctAnswer": "辞める",
+      "explanation": "「quit」は、仕事や活動、習慣などをやめるという意味です。特に、何かを途中で放棄するニュアンスが含まれます。Example: 'He quit his job to travel the world.'"
+    },
+    {
+      "id": 99,
+      "value": "clever",
+      "options": [
+        "賢い",
+        "愚か",
+        "優しい",
+        "残酷"
+      ],
+      "correctAnswer": "賢い",
+      "explanation": "「clever」は、機敏で賢い、または巧妙なという意味です。状況を素早く理解し、創造的な解決策を見つけ出す能力を指します。Example: 'She came up with a clever idea to solve the problem.'"
+    },
+    {
+      "id": 100,
+      "value": "stupidest thing I've ever heard",
+      "options": [
+        "今まで聞いた中で一番馬鹿げたこと",
+        "今まで聞いた中で一番賢いこと",
+        "今まで聞いた中で一番悲しいこと",
+        "今まで聞いた中で一番面白いこと"
+      ],
+      "correctAnswer": "今まで聞いた中で一番馬鹿げたこと",
+      "explanation": "「stupidest thing I've ever heard」は、相手の発言が非常に愚かで信じられないほどばかげていると感じたときに使われる強い表現です。Example: 'That's the stupidest thing I've ever heard!'"
+    }
+  ]
+}

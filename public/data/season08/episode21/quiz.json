@@ -1,0 +1,1204 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "value": "hit it",
+      "options": [
+        "攻撃する",
+        "演奏する",
+        "当てる",
+        "避ける"
+      ],
+      "correctAnswer": "演奏する",
+      "explanation": "「hit it」は、音楽の演奏を始める際に使われる口語表現です。演奏者に対して「始めてくれ」というニュアンスで使われます。他にも、「頑張れ」や「やってみろ」といった意味合いで使われることもあります。"
+    },
+    {
+      "id": 2,
+      "value": "get behind it",
+      "options": [
+        "それを隠す",
+        "それを支持する",
+        "それを忘れる",
+        "それを無視する"
+      ],
+      "correctAnswer": "それを支持する",
+      "explanation": "「get behind something」は、何かを支持する、支援するという意味のイディオムです。特にプロジェクトやアイデア、運動などを支持する際に使われます。Beyoncéに歌を支持してもらうという文脈で使用されています。"
+    },
+    {
+      "id": 3,
+      "value": "in case",
+      "options": [
+        "なぜなら",
+        "もしもの場合に備えて",
+        "～にもかかわらず",
+        "～に関して"
+      ],
+      "correctAnswer": "もしもの場合に備えて",
+      "explanation": "「in case」は、「～の場合に備えて」「～するといけないから」という意味を表す接続詞または句です。予期される事態や可能性に対する準備や予防措置を講じる状況で使われます。例文：Take an umbrella in case it rains.（雨が降る場合に備えて傘を持って行きなさい。）"
+    },
+    {
+      "id": 4,
+      "value": "encountered by",
+      "options": [
+        "無視される",
+        "遭遇する",
+        "作られる",
+        "避けられる"
+      ],
+      "correctAnswer": "遭遇する",
+      "explanation": "「encounter」は「偶然出会う、遭遇する」という意味の動詞です。「encountered by」という形で受動態にすることで、「～によって遭遇される」という意味になります。ここでは、宇宙人がメッセージに遭遇するという文脈で使用されています。"
+    },
+    {
+      "id": 5,
+      "value": "a handful of",
+      "options": [
+        "たくさん",
+        "少しの",
+        "一つの",
+        "全て"
+      ],
+      "correctAnswer": "少しの",
+      "explanation": "「a handful of」は、「ひと握りの～」という意味で、少数を表す際に用いられる表現です。数えられる名詞に対して使われます。例文：I only have a handful of coins in my pocket.（ポケットにはほんの少しのコインしかない。）"
+    },
+    {
+      "id": 6,
+      "value": "submit a design proposal",
+      "options": [
+        "デザインの提案を拒否する",
+        "デザインの提案を提出する",
+        "デザインの提案を分析する",
+        "デザインの提案を修正する"
+      ],
+      "correctAnswer": "デザインの提案を提出する",
+      "explanation": "「submit」は「提出する、提出する」という意味の動詞です。「design proposal」は「デザイン提案」という意味なので、「submit a design proposal」で「デザイン提案を提出する」という意味になります。NASAにメッセージのデザイン提案を提出するという文脈で使用されています。"
+    },
+    {
+      "id": 7,
+      "value": "presumption",
+      "options": [
+        "謙虚さ",
+        "仮定",
+        "証拠",
+        "真実"
+      ],
+      "correctAnswer": "仮定",
+      "explanation": "「presumption」は、「推定、仮定、憶測」という意味の名詞です。ここでは、地球人の感覚入力のパラダイムを当然のこととして仮定することを避けるべきという文脈で使用されています。"
+    },
+    {
+      "id": 8,
+      "value": "Terran",
+      "options": [
+        "火星の",
+        "地球の",
+        "宇宙の",
+        "未知の"
+      ],
+      "correctAnswer": "地球の",
+      "explanation": "「Terran」は、「地球の、地球人」という意味の形容詞です。ラテン語の「Terra」（地球）に由来します。ここでは、地球人の感覚入力のパラダイムという文脈で使用されています。"
+    },
+    {
+      "id": 9,
+      "value": "input paradigm",
+      "options": [
+        "出力形式",
+        "入力形式",
+        "通信方法",
+        "思考方法"
+      ],
+      "correctAnswer": "入力形式",
+      "explanation": "「input paradigm」は、「入力の枠組み、入力の形式」という意味です。「paradigm」は「典型的な例、模範」という意味なので、ここでは感覚的な情報の受け入れ方や処理の仕方の典型的なパターンを指します。"
+    },
+    {
+      "id": 10,
+      "value": "modality",
+      "options": [
+        "方法",
+        "様式",
+        "感覚",
+        "時代"
+      ],
+      "correctAnswer": "感覚",
+      "explanation": "「modality」は、「様式、方式、感覚」という意味の名詞です。ここでは、視覚、聴覚、触覚などの様々な感覚の様式を指します。メッセージを伝えるためには、幅広い感覚に対応できるデバイスが必要であるという文脈で使用されています。"
+    },
+    {
+      "id": 11,
+      "value": "lingua franca",
+      "options": [
+        "死語",
+        "共通語",
+        "専門用語",
+        "方言"
+      ],
+      "correctAnswer": "共通語",
+      "explanation": "「lingua franca」は、「共通語、国際共通語」という意味のイディオムです。異なる言語を話す人々が意思疎通をするために用いる言語を指します。ここでは、宇宙におけるコミュニケーションのための共通語という文脈で使用されています。"
+    },
+    {
+      "id": 12,
+      "value": "haptic",
+      "options": [
+        "視覚的な",
+        "触覚的な",
+        "聴覚的な",
+        "味覚的な"
+      ],
+      "correctAnswer": "触覚的な",
+      "explanation": "「haptic」は、「触覚の、触覚的な」という意味の形容詞です。触覚を通じて情報を伝達するデバイスやシステムを指す際に用いられます。宇宙でのコミュニケーションには触覚が有効であるという文脈で使用されています。"
+    },
+    {
+      "id": 13,
+      "value": "rigged for",
+      "options": [
+        "～のために不正操作された",
+        "～のために準備された",
+        "～のために修理された",
+        "～のために禁止された"
+      ],
+      "correctAnswer": "～のために準備された",
+      "explanation": "「rig」は、「（目的のために）準備する、装備する」という意味の動詞です。「rigged for」という形で、「～のために準備された、～のために装備された」という意味になります。ここでは、異種感覚転置のために準備された触覚コミュニケーターという文脈で使用されています。"
+    },
+    {
+      "id": 14,
+      "value": "transposition",
+      "options": [
+        "輸送",
+        "転置",
+        "変換",
+        "翻訳"
+      ],
+      "correctAnswer": "転置",
+      "explanation": "「transposition」は、「転置、置き換え、変換」という意味の名詞です。ここでは、ある感覚から別の感覚への情報の変換を指します。触覚コミュニケーターが異種感覚転置のために準備されているという文脈で使用されています。"
+    },
+    {
+      "id": 15,
+      "value": "could be bothered to",
+      "options": [
+        "喜んで～する",
+        "～するのを嫌がる",
+        "～する価値がある",
+        "～するのをためらう"
+      ],
+      "correctAnswer": "～するのを嫌がる",
+      "explanation": "「can't/couldn't be bothered to」は、「～するのが面倒だ、～する気になれない」という意味のイディオムです。ここでは、ラージが自分の考えを聞くことを面倒がらないのはレナードだけだったという文脈で使用されています。"
+    },
+    {
+      "id": 16,
+      "value": "taken over",
+      "options": [
+        "引き継ぐ",
+        "無視する",
+        "放棄する",
+        "隠蔽する"
+      ],
+      "correctAnswer": "引き継ぐ",
+      "explanation": "「take over」は、「引き継ぐ、乗っ取る、支配する」という意味の句動詞です。ここでは、シェルドンとハワードがプロジェクトを乗っ取ってしまうだろうという文脈で使用されています。"
+    },
+    {
+      "id": 17,
+      "value": "mind his own business",
+      "options": [
+        "自分のビジネスを始める",
+        "自分のビジネスを終わらせる",
+        "自分のことに集中する",
+        "他人のビジネスを助ける"
+      ],
+      "correctAnswer": "自分のことに集中する",
+      "explanation": "「mind one's own business」は、「自分のことに集中する、余計なことに口出ししない」という意味のイディオムです。他人のことに干渉しないように忠告する際に使われます。例文：Just mind your own business and stay out of my personal life. (自分のことに集中して、私の個人的なことに立ち入らないで。)"
+    },
+    {
+      "id": 18,
+      "value": "alpha males",
+      "options": [
+        "最弱の男性",
+        "リーダー格の男性",
+        "平均的な男性",
+        "臆病な男性"
+      ],
+      "correctAnswer": "リーダー格の男性",
+      "explanation": "「alpha male」は、「群れの中で最も優位なオス、リーダー格の男性」という意味です。行動力があり、自信に満ち溢れ、周囲を支配しようとする傾向がある男性を指します。ここでは、シェルドンとハワードが常に主導権を握ろうとするため、アルファメールだと表現されています。"
+    },
+    {
+      "id": 19,
+      "value": "pushed around",
+      "options": [
+        "尊敬される",
+        "押し付けられる",
+        "無視される",
+        "励まされる"
+      ],
+      "correctAnswer": "押し付けられる",
+      "explanation": "「push around」は、「～をこき使う、いじめる、圧力をかける」という意味の句動詞です。ここでは、アルファやベータにこき使われるオメガという立場で使われています。"
+    },
+    {
+      "id": 20,
+      "value": "started off as",
+      "options": [
+        "～として終わる",
+        "～として始まる",
+        "～として継続する",
+        "～として変化する"
+      ],
+      "correctAnswer": "～として始まる",
+      "explanation": "「start off as」は、「～として始まる、～としてスタートする」という意味の句動詞です。何かが特定の状態や状況から始まったことを表します。ここでは、ペニーのノックが最初は冗談として始まったという文脈で使用されています。"
+    },
+    {
+      "id": 21,
+      "value": "recommend",
+      "options": [
+        "禁止する",
+        "推薦する",
+        "無視する",
+        "理解する"
+      ],
+      "correctAnswer": "推薦する",
+      "explanation": "「recommend」は、「推薦する、勧める」という意味の動詞です。ここでは、シェルドンがペニーにノックを繰り返すことを勧めないという文脈で使用されています。"
+    },
+    {
+      "id": 22,
+      "value": "quantum mechanics",
+      "options": [
+        "量子力学",
+        "古典力学",
+        "流体力学",
+        "熱力学"
+      ],
+      "correctAnswer": "量子力学",
+      "explanation": "「quantum mechanics」は、「量子力学」という意味です。原子や素粒子の世界を記述する物理学の分野で、粒子の波動性や不確定性原理などを扱います。シェルドンが興味のあるトピックの一つとして挙げています。"
+    },
+    {
+      "id": 23,
+      "value": "allergic to",
+      "options": [
+        "～に興味がある",
+        "～にアレルギーがある",
+        "～に慣れている",
+        "～に反対している"
+      ],
+      "correctAnswer": "～にアレルギーがある",
+      "explanation": "「allergic to」は、「～にアレルギーがある」という意味です。特定の物質に対して免疫系が過剰に反応する状態を指します。この文脈では、レナードが地球のナッツにアレルギーを持っていることが述べられています。"
+    },
+    {
+      "id": 24,
+      "value": "theoretical nut conflict",
+      "options": [
+        "理論的なナッツの紛争",
+        "実践的なナッツの紛争",
+        "現実的なナッツの紛争",
+        "抽象的なナッツの紛争"
+      ],
+      "correctAnswer": "理論的なナッツの紛争",
+      "explanation": "この表現は、シェルドンの独特な論理に基づいたもので、アーモンドミルクとグレープナッツという異なる種類のナッツを一緒に食べることで、理論上の対立が生じるという考えを示しています。これは、シェルドンの几帳面で論理的な性格をユーモラスに表現したものです。"
+    },
+    {
+      "id": 25,
+      "value": "bothered to ask",
+      "options": [
+        "尋ねるのが嬉しかった",
+        "尋ねるのが不安だった",
+        "尋ねるのが嫌だった",
+        "尋ねるのが当然だった"
+      ],
+      "correctAnswer": "尋ねるのが嫌だった",
+      "explanation": "このフレーズは、誰かが何かをするのを面倒だと感じている、または気乗りがしないという意味を表します。「couldn't be bothered to」という形で使われることが多く、ここではラージの考えを尋ねることを他の二人が面倒がっている状況を表しています。"
+    },
+    {
+      "id": 26,
+      "value": "on the list",
+      "options": [
+        "予定されている",
+        "リストの一番上",
+        "検討中である",
+        "リストから外された"
+      ],
+      "correctAnswer": "予定されている",
+      "explanation": "「on the list」は、何かがリストに載っている、つまり、予定されている、考慮されているという意味です。日常会話で広く使われます。\n\n例：Is that task on the list for today? (そのタスクは今日の予定に入っていますか？)"
+    },
+    {
+      "id": 27,
+      "value": "split the difference",
+      "options": [
+        "差額を分ける",
+        "完全に同意する",
+        "互いに譲歩する",
+        "秘密を共有する"
+      ],
+      "correctAnswer": "互いに譲歩する",
+      "explanation": "「split the difference」は、意見の相違がある場合に、お互いが少しずつ譲歩して合意点を見つけるという意味です。交渉や議論の場でよく使われます。\n\n例：They couldn't agree on the price, so they split the difference. (彼らは価格で合意できなかったので、互いに譲歩した。)"
+    },
+    {
+      "id": 28,
+      "value": "screw everything up",
+      "options": [
+        "全てを台無しにする",
+        "全てを改善する",
+        "全てを秘密にする",
+        "全てを明らかにする"
+      ],
+      "correctAnswer": "全てを台無しにする",
+      "explanation": "「screw up」は、何かを失敗する、台無しにするという意味の口語表現です。「screw everything up」は、文字通り全てを台無しにするという意味合いになります。フォーマルな場では避けるべき表現です。\n\n例：I screwed up the presentation. (私はプレゼンテーションを台無しにしてしまった。)"
+    },
+    {
+      "id": 29,
+      "value": "turn over a new leaf",
+      "options": [
+        "新しいページをめくる",
+        "過去を振り返る",
+        "心機一転する",
+        "秘密を打ち明ける"
+      ],
+      "correctAnswer": "心機一転する",
+      "explanation": "「turn over a new leaf」は、心機一転して新しい生活を始める、または悪い習慣を改めるという意味です。自己改善や変化を表す際に使われます。\n\n例：He decided to turn over a new leaf and quit smoking. (彼は心機一転して禁煙することにした。)"
+    },
+    {
+      "id": 30,
+      "value": "force my ideas on people",
+      "options": [
+        "自分の考えを人に押し付ける",
+        "人の考えを尊重する",
+        "自分の考えを秘密にする",
+        "人の考えを理解する"
+      ],
+      "correctAnswer": "自分の考えを人に押し付ける",
+      "explanation": "「force something on someone」は、自分の意見や考えを人に無理やり受け入れさせようとするという意味です。相手の意向を無視するニュアンスが含まれます。\n\n例：Don't force your opinions on others. (自分の意見を人に押し付けないでください。)"
+    },
+    {
+      "id": 31,
+      "value": "that train has left the station",
+      "options": [
+        "準備ができた",
+        "出発した",
+        "機会を逃した",
+        "到着した"
+      ],
+      "correctAnswer": "機会を逃した",
+      "explanation": "「that train has left the station」は、機会を逃した、もう手遅れだという意味のイディオムです。一度過ぎ去ったチャンスは二度と戻らないというニュアンスを含みます。\n\n例：I wanted to apply for that job, but the train has already left the station. (あの仕事に応募したかったけど、もう手遅れだ。)"
+    },
+    {
+      "id": 32,
+      "value": "pop it like a zit",
+      "options": [
+        "ニキビのように潰す",
+        "優しく扱う",
+        "ゆっくり味わう",
+        "すぐに飲み込む"
+      ],
+      "correctAnswer": "ニキビのように潰す",
+      "explanation": "「pop it like a zit」は、ニキビを潰すように、何かを破裂させる、または一気に処理するという意味の比喩表現です。ここでは、カクテルを口の中で破裂させて飲む様子を表しています。\n\n例：He popped the balloon like a zit. (彼は風船をニキビのように潰した。)"
+    },
+    {
+      "id": 33,
+      "value": "feel like a turd",
+      "options": [
+        "気分が良い",
+        "誇らしい",
+        "惨めな気分",
+        "怒っている"
+      ],
+      "correctAnswer": "惨めな気分",
+      "explanation": "「feel like a turd」は、非常に不快な気分、惨めな気分、価値がないと感じるという意味の俗語表現です。非常にネガティブな感情を表します。\n\n例：After failing the exam, I felt like a turd. (試験に落ちた後、惨めな気分だった。)"
+    },
+    {
+      "id": 34,
+      "value": "you betcha",
+      "options": [
+        "絶対に",
+        "たぶんね",
+        "どうだろう",
+        "まさか"
+      ],
+      "correctAnswer": "絶対に",
+      "explanation": "「you betcha」は、「you bet」の変形で、絶対に、その通り、もちろんという意味の肯定的な返事です。特にアメリカ中西部でよく使われます。\n\n例：Are you coming to the party? - You betcha! (パーティーに来る？ - もちろん！)"
+    },
+    {
+      "id": 35,
+      "value": "honeybunch",
+      "options": [
+        "大切な人",
+        "意地悪な人",
+        "見知らぬ人",
+        "競争相手"
+      ],
+      "correctAnswer": "大切な人",
+      "explanation": "「honeybunch」は、恋人や配偶者など、親愛の情を込めて呼ぶ言葉です。親しい間柄で使われます。\n\n例：Good night, honeybunch. (おやすみ、愛しい人。)"
+    },
+    {
+      "id": 36,
+      "value": "wind up in charge",
+      "options": [
+        "最終的に責任者になる",
+        "責任を放棄する",
+        "指示に従う",
+        "孤立する"
+      ],
+      "correctAnswer": "最終的に責任者になる",
+      "explanation": "「wind up in charge」は、最終的に責任者またはリーダーの立場になるという意味です。意図せずにそうなったというニュアンスを含むことがあります。\n\n例：He didn't want to be the leader, but he wound up in charge. (彼はリーダーになりたかったわけではないが、最終的に責任者になった。)"
+    },
+    {
+      "id": 37,
+      "value": "Don’t take this the wrong way",
+      "options": [
+        "気にしないで",
+        "誤解しないでほしい",
+        "同意してください",
+        "信じてください"
+      ],
+      "correctAnswer": "誤解しないでほしい",
+      "explanation": "「Don't take this the wrong way」は、相手に不快感を与えないように前置きする表現で、「気を悪くしないで聞いてほしい」という意味です。率直な意見や批判を伝える際に使われます。\n\n例：Don't take this the wrong way, but I think you should reconsider your decision. (気を悪くしないでほしいけど、あなたの決断を再考すべきだと思います。)"
+    },
+    {
+      "id": 38,
+      "value": "big boss man",
+      "options": [
+        "有能なリーダー",
+        "怠惰な従業員",
+        "横暴な上司",
+        "無能なマネージャー"
+      ],
+      "correctAnswer": "有能なリーダー",
+      "explanation": "「big boss man」は、ここでは相手を褒め称える意味合いで使われており、頼りになるリーダーや責任者といったニュアンスが含まれます。ただし、皮肉を込めて使われることもあります。\n\n例：He's the big boss man around here. (彼はこの辺りの大物だ。)"
+    },
+    {
+      "id": 39,
+      "value": "hold off on",
+      "options": [
+        "延期する",
+        "開始する",
+        "集中する",
+        "無視する"
+      ],
+      "correctAnswer": "延期する",
+      "explanation": "「hold off on」は、何かを延期する、または保留するという意味です。決定や行動を一時的に遅らせる際に使われます。\n\n例：Let's hold off on making a decision until we have more information. (もっと情報が得られるまで、決定を保留しましょう。)"
+    },
+    {
+      "id": 40,
+      "value": "haven't even happened yet",
+      "options": [
+        "すでに起こった",
+        "まだ起こっていない",
+        "起こりそうもない",
+        "絶対に起こる"
+      ],
+      "correctAnswer": "まだ起こっていない",
+      "explanation": "「haven't even happened yet」は、「まだ起こっていない」という意味で、まだ現実になっていない未来の事柄について言及する際に使われます。\n\n例：Why are you worrying about something that hasn't even happened yet? (まだ起こってもいないことをなぜ心配しているのですか？)"
+    },
+    {
+      "id": 41,
+      "value": "just like he's here",
+      "options": [
+        "まるで彼がここにいるようだ",
+        "彼はどこにもいない",
+        "彼はいつもそうだ",
+        "彼は変わった"
+      ],
+      "correctAnswer": "まるで彼がここにいるようだ",
+      "explanation": "「just like he's here」は、まるでその人が実際にそこにいるかのように感じられる、またはその人の特徴や行動が目に浮かぶという意味です。誰かの口癖や行動パターンを真似て言う場合にも使われます。\n\n例：He's always complaining, just like he's here. (彼はいつも文句を言っている、まるで彼がここにいるかのように。)"
+    },
+    {
+      "id": 42,
+      "value": "to be fair",
+      "options": [
+        "公平に言えば",
+        "不公平に言えば",
+        "正直に言って",
+        "秘密に言えば"
+      ],
+      "correctAnswer": "公平に言えば",
+      "explanation": "「to be fair」は、公平に言えば、正当に評価すればという意味で、相手の意見や状況を考慮して発言する際に使われます。譲歩や理解を示すニュアンスがあります。\n\n例：To be fair, he did warn us about the risks. (公平に言えば、彼はリスクについて警告してくれていた。)"
+    },
+    {
+      "id": 43,
+      "value": "MacGyver",
+      "options": [
+        "発明家",
+        "探偵",
+        "料理人",
+        "医者"
+      ],
+      "correctAnswer": "発明家",
+      "explanation": "「MacGyver」は、1980年代の人気テレビドラマ「冒険野郎マクガイバー」の主人公の名前で、身の回りにあるものを使って様々な危機を脱する才能を持つ人物です。転じて、創意工夫に富んだ人、またはあり合わせの物で問題を解決する人を指す言葉として使われます。\n\n例：He's a real MacGyver; he can fix anything with duct tape and a paperclip. (彼はまさにマクガイバーだ。ダクトテープとクリップがあれば何でも直せる。)"
+    },
+    {
+      "id": 44,
+      "value": "to be fair",
+      "options": [
+        "公平に言えば",
+        "不公平に言えば",
+        "正直に言って",
+        "秘密に言えば"
+      ],
+      "correctAnswer": "公平に言えば",
+      "explanation": "「to be fair」は、公平に言えば、正当に評価すればという意味で、相手の意見や状況を考慮して発言する際に使われます。譲歩や理解を示すニュアンスがあります。\n\n例：To be fair, he did warn us about the risks. (公平に言えば、彼はリスクについて警告してくれていた。)"
+    },
+    {
+      "id": 45,
+      "value": "My feelings were real",
+      "options": [
+        "私の気持ちは本物だった",
+        "私の気持ちは嘘だった",
+        "私は何も感じなかった",
+        "私は混乱していた"
+      ],
+      "correctAnswer": "私の気持ちは本物だった",
+      "explanation": "「My feelings were real」は、自分の感情が本物であり、偽りや演技ではないことを強調する表現です。感動や悲しみなど、強い感情を伴う状況で使われることがあります。\n\n例：Even though it was just a movie, my feelings were real when the dog died. (ただの映画だったけど、犬が死んだとき、私の気持ちは本物だった。)"
+    },
+    {
+      "id": 46,
+      "value": "zip him up",
+      "options": [
+        "彼を励ます",
+        "彼を批判する",
+        "彼の口を閉ざす",
+        "彼を袋に入れる"
+      ],
+      "correctAnswer": "彼を袋に入れる",
+      "explanation": "「zip him up」は、ここでは死体を収容袋に入れるという意味で使われています。「zip up」は、ジッパーを閉めるという意味の他に、口を閉ざす、秘密にするという意味もあります。\n\n例：They zipped him up in a body bag. (彼らは彼を遺体袋に収容した。)"
+    },
+    {
+      "id": 47,
+      "value": "archduchy",
+      "options": [
+        "共和国",
+        "公国",
+        "大公国",
+        "王国"
+      ],
+      "correctAnswer": "大公国",
+      "explanation": "「archduchy」は大公国を意味し、歴史的なヨーロッパの国家形態の一つです。大公によって統治される領土を指します。オーストリアが該当します。"
+    },
+    {
+      "id": 48,
+      "value": "duchy",
+      "options": [
+        "共和国",
+        "公国",
+        "大公国",
+        "王国"
+      ],
+      "correctAnswer": "公国",
+      "explanation": "「duchy」は公国を意味し、公爵によって統治される領土を指します。中世ヨーロッパにおいてよく見られた国家形態です。"
+    },
+    {
+      "id": 49,
+      "value": "molecular cocktails",
+      "options": [
+        "伝統的なカクテル",
+        "分子調理法を用いたカクテル",
+        "ノンアルコールカクテル",
+        "非常にシンプルなカクテル"
+      ],
+      "correctAnswer": "分子調理法を用いたカクテル",
+      "explanation": "「molecular cocktails」は、分子調理法（molecular gastronomy）を用いて作られたカクテルを指します。液体の球体化、泡、ゲルなど、斬新な技法が用いられます。"
+    },
+    {
+      "id": 50,
+      "value": "social groupings",
+      "options": [
+        "個人的な集まり",
+        "公式な会議",
+        "社会的な集団",
+        "家族の集まり"
+      ],
+      "correctAnswer": "社会的な集団",
+      "explanation": "「social groupings」は社会的な集団、つまり、共通の関心事や目的を持つ人々の集まりを指します。職場、クラブ、コミュニティなどが含まれます。"
+    },
+    {
+      "id": 51,
+      "value": "space-faring",
+      "options": [
+        "宇宙旅行の",
+        "冒険好きな",
+        "未来志向の",
+        "伝統的な"
+      ],
+      "correctAnswer": "宇宙旅行の",
+      "explanation": "「space-faring」は宇宙を航行するという意味で、宇宙旅行をする能力を持つことや、宇宙探査に関連することを指します。宇宙開発が進んだ未来を想像させる言葉です。例：A space-faring civilization.（宇宙に進出した文明）"
+    },
+    {
+      "id": 52,
+      "value": "rig up",
+      "options": [
+        "修理する",
+        "設置する",
+        "誤解する",
+        "解体する"
+      ],
+      "correctAnswer": "設置する",
+      "explanation": "「rig up」は、一時的に、または即席で何かを設置したり、準備したりすることを意味します。間に合わせの装置を組み立てる際などに使われます。例：We need to rig up a temporary shelter.（仮の避難場所を設営する必要がある）"
+    },
+    {
+      "id": 53,
+      "value": "pee in my slippers",
+      "options": [
+        "嫌がらせをする",
+        "秘密を打ち明ける",
+        "応援する",
+        "感謝する"
+      ],
+      "correctAnswer": "嫌がらせをする",
+      "explanation": "「pee in one's slippers」は、文字通りには「スリッパにおしっこをする」という意味ですが、比喩的には「誰かの努力や計画を台無しにする」または「不快な方法で不満を示す」という意味で使われます。相手を不快にさせる、意地悪な行為を指す表現です。"
+    },
+    {
+      "id": 54,
+      "value": "whiskers",
+      "options": [
+        "ひげ",
+        "羽",
+        "鱗",
+        "爪"
+      ],
+      "correctAnswer": "ひげ",
+      "explanation": "「whiskers」は、動物の口の周りにある触覚毛、特に猫やネズミなどの動物のひげを指します。比喩的に、人の顔のひげを指すこともあります。触覚や感覚を補助する役割があります。"
+    },
+    {
+      "id": 55,
+      "value": "aardvark",
+      "options": [
+        "アリクイ",
+        "アルマジロ",
+        "カメレオン",
+        "イグアナ"
+      ],
+      "correctAnswer": "アリクイ",
+      "explanation": "「aardvark」は、アフリカに生息する哺乳類で、主にアリやシロアリを食べる夜行性の動物です。特徴的な長い鼻と強い爪を持っています。珍しい動物として、会話の例えやジョークに使われることがあります。"
+    },
+    {
+      "id": 56,
+      "value": "on the same page",
+      "options": [
+        "同じ本を読んでいる",
+        "意見が一致している",
+        "秘密を共有している",
+        "誤解している"
+      ],
+      "correctAnswer": "意見が一致している",
+      "explanation": "「on the same page」は、複数の人が同じ情報を共有し、共通の理解を持っている状態を指します。会議やプロジェクトなどで、全員が同じ目標に向かっていることを確認する際に使われます。例：We need to make sure everyone is on the same page before we proceed.（先に進む前に、全員が共通認識を持っていることを確認する必要があります。）"
+    },
+    {
+      "id": 57,
+      "value": "voiceover",
+      "options": [
+        "ナレーション",
+        "独り言",
+        "歌",
+        "手話"
+      ],
+      "correctAnswer": "ナレーション",
+      "explanation": "「voiceover」は、映像や映画、コマーシャルなどで、画面に映っている人以外の声による解説や語りを指します。状況の説明や背景情報の提供に使われます。例：The documentary used a voiceover to explain the historical context.（そのドキュメンタリーは、歴史的背景を説明するためにナレーションを使用した。）"
+    },
+    {
+      "id": 58,
+      "value": "steamrolled",
+      "options": [
+        "圧倒される",
+        "尊敬される",
+        "無視される",
+        "支援される"
+      ],
+      "correctAnswer": "圧倒される",
+      "explanation": "「steamroll」は、文字通りには「蒸気ローラーで押しつぶす」という意味ですが、比喩的には「力ずくで押し通す」「強引に進める」という意味で使われます。会議などで、強い影響力を持つ人が他の人の意見を無視して自分の意見を通す状況を指します。例：He steamrolled the committee into accepting his proposal.（彼は委員会を力ずくで押し切って自分の提案を受け入れさせた。）"
+    },
+    {
+      "id": 59,
+      "value": "building on",
+      "options": [
+        "基礎を作る",
+        "積み重ねる",
+        "破壊する",
+        "無視する"
+      ],
+      "correctAnswer": "積み重ねる",
+      "explanation": "「building on」は、既存のアイデアや成果を基にして、さらに発展させる、または付け加えるという意味です。議論やプロジェクトなどで、前の意見を尊重しつつ、新しい視点や情報を加える際に使われます。例：Building on your suggestion, we could also consider...（あなたの提案に基づいて、～も検討できます。）"
+    },
+    {
+      "id": 60,
+      "value": "lactose intolerant",
+      "options": [
+        "乳糖不耐症",
+        "グルテン不耐症",
+        "食物アレルギー",
+        "偏食"
+      ],
+      "correctAnswer": "乳糖不耐症",
+      "explanation": "「lactose intolerant」は、乳糖不耐症、つまり牛乳や乳製品に含まれる乳糖を消化できない体質を指します。乳製品を摂取すると、腹痛や下痢などの症状が出ることがあります。食事の際に考慮する必要があります。"
+    },
+    {
+      "id": 61,
+      "value": "Simon Says",
+      "options": [
+        "指示ゲーム",
+        "かくれんぼ",
+        "鬼ごっこ",
+        "縄跳び"
+      ],
+      "correctAnswer": "指示ゲーム",
+      "explanation": "「Simon Says」は、子供向けの指示ゲームで、リーダー役の人が「Simon says...」と言って指示を出し、他の参加者はその指示に従います。「Simon says」がない場合は、指示に従ってはいけません。このゲームは、指示を聞き分ける能力や注意力を養うのに役立ちます。"
+    },
+    {
+      "id": 62,
+      "value": "give up",
+      "options": [
+        "諦める",
+        "挑戦する",
+        "継続する",
+        "改善する"
+      ],
+      "correctAnswer": "諦める",
+      "explanation": "「give up」は、何かを諦める、断念するという意味です。目標や習慣、活動などを途中でやめる際に使われます。例：I decided to give up smoking.（私は喫煙を諦めることにしました。）"
+    },
+    {
+      "id": 63,
+      "value": "valid example",
+      "options": [
+        "妥当な例",
+        "無効な例",
+        "一般的な例",
+        "特殊な例"
+      ],
+      "correctAnswer": "妥当な例",
+      "explanation": "「valid example」は、議論や説明において適切で、根拠のある例を指します。論理的または実証的に正しいことを示し、主張や理論を裏付けるために使用されます。例：His explanation included several valid examples to support his argument.（彼の説明には、彼の主張を裏付けるいくつかの妥当な例が含まれていた。）"
+    },
+    {
+      "id": 64,
+      "value": "access it",
+      "options": [
+        "それにアクセスする",
+        "それを拒否する",
+        "それを隠す",
+        "それを無視する"
+      ],
+      "correctAnswer": "それにアクセスする",
+      "explanation": "「access it」は、何かにアクセスするという意味で、情報や場所、システムなどに接近し、利用したり、情報を得たりすることを指します。技術的な文脈でよく使用されます。例：You need a password to access it.（それにアクセスするにはパスワードが必要です。）"
+    },
+    {
+      "id": 65,
+      "value": "totally different",
+      "options": [
+        "全く違う",
+        "非常に似ている",
+        "少し違う",
+        "同じ"
+      ],
+      "correctAnswer": "全く違う",
+      "explanation": "「totally different」は、完全に異なる、全く違うという意味で、比較するもの同士に共通点がほとんど、または全くない状態を指します。 例：Their cultures are totally different.（彼らの文化は全く違います。）"
+    },
+    {
+      "id": 66,
+      "value": "deliver messages",
+      "options": [
+        "メッセージを伝える",
+        "メッセージを隠す",
+        "メッセージを無視する",
+        "メッセージを誤解する"
+      ],
+      "correctAnswer": "メッセージを伝える",
+      "explanation": "「deliver messages」は、メッセージや情報を伝える、届けるという意味です。コミュニケーションの基本であり、意図や感情、情報などを相手に伝える行為を指します。 例：The birds deliver messages through their songs.（鳥は歌を通してメッセージを伝えます。）"
+    },
+    {
+      "id": 67,
+      "value": "at me",
+      "options": [
+        "私に",
+        "あなたに",
+        "彼に",
+        "彼女に"
+      ],
+      "correctAnswer": "私に",
+      "explanation": "「at me」は、誰かが自分自身に対して何かを向けていることを示す表現です。感情、行動、または視線などが自分に向けられている状況を指します。 例：She was angry at me.（彼女は私に怒っていた。）"
+    },
+    {
+      "id": 68,
+      "value": "basic sense",
+      "options": [
+        "基本的な感覚",
+        "高度な感覚",
+        "第六感",
+        "無感覚"
+      ],
+      "correctAnswer": "基本的な感覚",
+      "explanation": "「basic sense」は、生物が生存する上で不可欠な基本的な感覚を指します。視覚、聴覚、触覚、味覚、嗅覚などが含まれます。生存や環境認識に不可欠な感覚です。 例：Touch is a basic sense for many animals.（触覚は多くの動物にとって基本的な感覚です。）"
+    },
+    {
+      "id": 69,
+      "value": "totally do that",
+      "options": [
+        "絶対にできる",
+        "たぶんできない",
+        "少しできる",
+        "全くできない"
+      ],
+      "correctAnswer": "絶対にできる",
+      "explanation": "「totally do that」は、何かを完全に、または絶対にできるという強い自信や同意を示す表現です。提案や計画に対して非常に前向きな態度を表します。 例：Can you fix this? - Yeah, I can totally do that!（これを修理できる？ - うん、絶対にできるよ！）"
+    },
+    {
+      "id": 70,
+      "value": "upset",
+      "options": [
+        "動揺している",
+        "喜んでいる",
+        "落ち着いている",
+        "退屈している"
+      ],
+      "correctAnswer": "動揺している",
+      "explanation": "「upset」は、感情的に動揺している、不機嫌である、または悲しい状態を指します。何かが原因で気分が優れない状況を表します。 例：She was upset by the news.（彼女はその知らせに動揺していた。）"
+    },
+    {
+      "id": 71,
+      "value": "beneficial",
+      "options": [
+        "有益な",
+        "有害な",
+        "不要な",
+        "中立的な"
+      ],
+      "correctAnswer": "有益な",
+      "explanation": "「beneficial」は、利益をもたらす、有益であるという意味です。健康、経済、または精神的な幸福など、さまざまな側面で良い影響を与えることを指します。 例：Exercise is beneficial to your health.（運動はあなたの健康に有益です。）"
+    },
+    {
+      "id": 72,
+      "value": "rhymes with",
+      "options": [
+        "韻を踏む",
+        "意味が似ている",
+        "反対の意味",
+        "関連がない"
+      ],
+      "correctAnswer": "韻を踏む",
+      "explanation": "「rhymes with」は、ある単語と韻を踏む別の単語を探していることを示す表現です。詩や歌の作詞でよく使用されます。 例：What rhymes with 'cat'? - 'Hat' rhymes with 'cat'.（「cat」と韻を踏む単語は何？ - 「Hat」が「cat」と韻を踏む。）"
+    },
+    {
+      "id": 73,
+      "value": "admit it",
+      "options": [
+        "認める",
+        "否定する",
+        "隠す",
+        "忘れる"
+      ],
+      "correctAnswer": "認める",
+      "explanation": "「admit it」は、何かを認める、特に自分が間違っていたり、何かを成し遂げられなかったりしたことを認めるという意味です。しばしばためらいや抵抗を伴います。 例：Okay, I admit it, you were right.（わかった、認めるよ、君が正しかった。）"
+    },
+    {
+      "id": 74,
+      "value": "give poor Raj a chance",
+      "options": [
+        "ラージに機会を与える",
+        "ラージを無視する",
+        "ラージを責める",
+        "ラージを助けない"
+      ],
+      "correctAnswer": "ラージに機会を与える",
+      "explanation": "「give poor Raj a chance」は、かわいそうなラージに機会を与えるという意味で、ラージが自分の意見や能力を発揮できるように、機会や可能性を与えることを促す表現です。ラージに対する同情や支援の気持ちが含まれています。 例：Give poor Raj a chance to speak.（かわいそうなラージに話す機会を与えてあげて。）"
+    },
+    {
+      "id": 75,
+      "value": "nervous",
+      "options": [
+        "緊張している",
+        "落ち着いている",
+        "自信がある",
+        "退屈している"
+      ],
+      "correctAnswer": "緊張している",
+      "explanation": "「nervous」は、緊張している、不安である、または心配している状態を指します。重要なイベントや未知の状況に直面する際に感じることが多い感情です。 例：I'm nervous about the presentation.（プレゼンテーションについて緊張している。）"
+    },
+    {
+      "id": 76,
+      "value": "pharmaceutical sales rep",
+      "options": [
+        "薬剤卸売業者",
+        "医薬品販売担当者",
+        "製薬研究者",
+        "医療機器営業"
+      ],
+      "correctAnswer": "医薬品販売担当者",
+      "explanation": "「pharmaceutical sales rep」は、製薬会社の医薬品を病院や薬局に販売する営業担当者のことです。医師や薬剤師に医薬品の情報提供を行い、自社製品の採用を促進します。"
+    },
+    {
+      "id": 77,
+      "value": "inflamed",
+      "options": [
+        "収縮した",
+        "肥大した",
+        "炎症を起こした",
+        "麻痺した"
+      ],
+      "correctAnswer": "炎症を起こした",
+      "explanation": "「inflamed」は、炎症を起こした、腫れたという意味です。医学的な文脈だけでなく、感情的な意味でも使われ、激昂した、興奮した状態を表すこともあります。例：The wound became inflamed. (傷が炎症を起こした。)"
+    },
+    {
+      "id": 78,
+      "value": "side effect",
+      "options": [
+        "副作用",
+        "主要効果",
+        "治療法",
+        "予防策"
+      ],
+      "correctAnswer": "副作用",
+      "explanation": "「side effect」は、薬などの主な効果とは別に現れる、予期しない影響のことです。通常、好ましくない影響を指しますが、まれに有益な副作用もあります。例：A common side effect of this medication is drowsiness. (この薬の一般的な副作用は眠気です。)"
+    },
+    {
+      "id": 79,
+      "value": "pushing 40",
+      "options": [
+        "40歳を過ぎた",
+        "40歳に近づいている",
+        "40歳になったばかり",
+        "40歳を目指している"
+      ],
+      "correctAnswer": "40歳に近づいている",
+      "explanation": "「pushing 40」は、40歳に近づいている、もうすぐ40歳になるという意味です。年齢を婉曲的に表現する際に使われます。例：She's pushing 40, but she looks much younger. (彼女はもうすぐ40歳だが、ずっと若く見える。)"
+    },
+    {
+      "id": 80,
+      "value": "delivery system",
+      "options": [
+        "配達システム",
+        "伝達システム",
+        "製造システム",
+        "管理システム"
+      ],
+      "correctAnswer": "伝達システム",
+      "explanation": "「delivery system」は、ここではメッセージを伝える方法、伝達手段という意味で使われています。一般的な意味としては、物や情報を届けるための仕組みや方法を指します。例：The company needs a more efficient delivery system. (会社はもっと効率的な配送システムが必要だ。)"
+    },
+    {
+      "id": 81,
+      "value": "earthlings",
+      "options": [
+        "地球外生命体",
+        "地球人",
+        "宇宙飛行士",
+        "地質学者"
+      ],
+      "correctAnswer": "地球人",
+      "explanation": "「earthling」は、地球に住む人、つまり地球人を指す言葉です。特にSF作品などで、地球外生命体との対比で使われることがあります。例：Greetings, earthlings! (地球人の皆さん、こんにちは！)"
+    },
+    {
+      "id": 82,
+      "value": "plaque",
+      "options": [
+        "盾",
+        "飾り額",
+        "歯垢",
+        "銘板"
+      ],
+      "correctAnswer": "銘板",
+      "explanation": "「plaque」は、記念や説明のために壁などに取り付けられる金属や石の板、つまり銘板のことです。ここでは、パイオニア探査機に搭載された地球に関する情報を伝えるための板を指しています。"
+    },
+    {
+      "id": 83,
+      "value": "predator races",
+      "options": [
+        "競争種族",
+        "捕食者種族",
+        "先進種族",
+        "友好的種族"
+      ],
+      "correctAnswer": "捕食者種族",
+      "explanation": "「predator races」は、他の種族を捕食する種族、つまり攻撃的な宇宙人を指す言葉です。SF作品などでよく使われる表現です。"
+    },
+    {
+      "id": 84,
+      "value": "soft and squishy",
+      "options": [
+        "硬くて丈夫",
+        "弱くて潰れやすい",
+        "大きくて重い",
+        "強くて速い"
+      ],
+      "correctAnswer": "弱くて潰れやすい",
+      "explanation": "「soft and squishy」は、柔らかくて潰れやすい、つまり防御力のない状態を表す形容です。ここでは、地球人が宇宙の脅威に対して脆弱であることを強調するために使われています。"
+    },
+    {
+      "id": 85,
+      "value": "veal-like consistency",
+      "options": [
+        "牛肉のような硬さ",
+        "豚肉のような柔らかさ",
+        "鶏肉のような弾力",
+        "子牛肉のような質感"
+      ],
+      "correctAnswer": "子牛肉のような質感",
+      "explanation": "「veal-like consistency」は、子牛肉のように柔らかく、傷つきやすい性質を指します。ここでは、レオナルドが他のメンバーよりも繊細であることを冗談めかして表現しています。"
+    },
+    {
+      "id": 86,
+      "value": "passive-aggressive",
+      "options": [
+        "受動的攻撃",
+        "積極的防御",
+        "友好的協力",
+        "直接的批判"
+      ],
+      "correctAnswer": "受動的攻撃",
+      "explanation": "「passive-aggressive」は、直接的な攻撃を避け、遠回しな方法で不満や敵意を示す態度のことです。皮肉を言ったり、頼まれたことをわざと遅らせたりするなどの行動が該当します。例：His passive-aggressive comments were really annoying. (彼の受動的な攻撃的なコメントは本当にイライラした。)"
+    },
+    {
+      "id": 87,
+      "value": "cosmopolitan balls",
+      "options": [
+        "国際的な舞踏会",
+        "洗練された料理",
+        "宇宙的なエネルギー",
+        "都会的な社交界"
+      ],
+      "correctAnswer": "洗練された料理",
+      "explanation": "この文脈では、おそらく高級な料理やデザートを指していると思われます。「cosmopolitan」は洗練された、国際的なという意味合いを持ちます。"
+    },
+    {
+      "id": 88,
+      "value": "taking over",
+      "options": [
+        "引き継ぐ",
+        "乗っ取る",
+        "手伝う",
+        "見守る"
+      ],
+      "correctAnswer": "乗っ取る",
+      "explanation": "「take over」は、主導権を握る、支配するという意味です。ここでは、強い個性を持つハワードたちがプロジェクトを主導してしまうことを指しています。例：The company was taken over by a foreign investor. (その会社は海外投資家に買収された。)"
+    },
+    {
+      "id": 89,
+      "value": "pushed aside",
+      "options": [
+        "応援する",
+        "無視する",
+        "昇進させる",
+        "励ます"
+      ],
+      "correctAnswer": "無視する",
+      "explanation": "「push aside」は、脇に追いやる、無視するという意味です。ここでは、レオナルドとラージが、シェルドンとハワードに軽視されていると感じていることを表しています。例：She felt pushed aside at the meeting. (彼女は会議で無視されていると感じた。)"
+    },
+    {
+      "id": 90,
+      "value": "left out of things",
+      "options": [
+        "物事を始める",
+        "物事を終える",
+        "仲間外れにされる",
+        "手伝いを頼まれる"
+      ],
+      "correctAnswer": "仲間外れにされる",
+      "explanation": "「left out of things」は、仲間はずれにされる、仲間に入れてもらえないという意味です。ここでは、ハワードとラージが、シェルドンとレオナルドの行動に疎外感を感じていることを表しています。例：I felt left out of the conversation. (会話に仲間はずれにされたように感じた。)"
+    },
+    {
+      "id": 91,
+      "value": "magical experience",
+      "options": [
+        "悲惨な体験",
+        "平凡な体験",
+        "魔法のような体験",
+        "退屈な体験"
+      ],
+      "correctAnswer": "魔法のような体験",
+      "explanation": "「magical experience」は、非常に素晴らしく、忘れられない体験のことです。ここでは、スカイウォーカー・ランチでの体験が非常に感動的だったことを表しています。例：Visiting Disneyland was a magical experience for the children. (ディズニーランドを訪れることは子供たちにとって魔法のような体験だった。)"
+    },
+    {
+      "id": 92,
+      "value": "heck of a ride",
+      "options": [
+        "退屈な旅",
+        "簡単な仕事",
+        "困難な状況",
+        "素晴らしい経験"
+      ],
+      "correctAnswer": "素晴らしい経験",
+      "explanation": "「heck of a ride」は、非常に刺激的で面白い経験、または困難な状況を乗り越えることを意味します。ここでは、シェルドンが自身の人生を振り返り、良い経験をしていることを強調しています。例：That roller coaster was a heck of a ride! (あのジェットコースターは本当にすごい体験だった！)"
+    },
+    {
+      "id": 93,
+      "value": "step aside",
+      "options": [
+        "参加する",
+        "邪魔する",
+        "協力する",
+        "退く"
+      ],
+      "correctAnswer": "退く",
+      "explanation": "「step aside」は、脇に退く、譲るという意味です。ここでは、シェルドンが他のメンバーにプロジェクトから手を引くように促しています。例：He stepped aside to let her pass. (彼は彼女が通れるように脇に退いた。)"
+    },
+    {
+      "id": 94,
+      "value": "stunk up the place",
+      "options": [
+        "場所を掃除した",
+        "場所を改善した",
+        "場所をめちゃくちゃにした",
+        "場所を明るくした"
+      ],
+      "correctAnswer": "場所をめちゃくちゃにした",
+      "explanation": "「stink up the place」は、場所の雰囲気を悪くする、失敗するという意味です。ここでは、ペニーがオーディションでひどい演技をしたことを表しています。類義語として「screw up」があります。"
+    },
+    {
+      "id": 95,
+      "value": "thanked you properly",
+      "options": [
+        "感謝の気持ちを伝えた",
+        "適切な方法で感謝した",
+        "感謝の言葉を述べた",
+        "感謝の行動を示した"
+      ],
+      "correctAnswer": "適切な方法で感謝した",
+      "explanation": "「thank someone properly」は、相手にふさわしい方法で感謝の気持ちを伝えるという意味です。単に「thank you」と言うだけでなく、贈り物や行動で感謝を示すことを含みます。"
+    },
+    {
+      "id": 96,
+      "value": "at all",
+      "options": [
+        "全く～ない",
+        "少しは",
+        "いつも",
+        "たまに"
+      ],
+      "correctAnswer": "全く～ない",
+      "explanation": "「at all」は、否定文で「全く～ない」という意味を強調する副詞です。肯定文や疑問文では意味が異なります。例：I don't like it at all. (私はそれが全く好きではない。)"
+    },
+    {
+      "id": 97,
+      "value": "overheard",
+      "options": [
+        "大声で話した",
+        "立ち聞きした",
+        "噂した",
+        "内緒話をした"
+      ],
+      "correctAnswer": "立ち聞きした",
+      "explanation": "「overhear」は、偶然に聞こえてくる、立ち聞きするという意味です。意図的に聞こうとしたわけではないニュアンスが含まれます。例：I overheard them talking about the surprise party. (彼らがサプライズパーティーについて話しているのを偶然耳にした。)"
+    },
+    {
+      "id": 98,
+      "value": "awkward",
+      "options": [
+        "快適な",
+        "自然な",
+        "気まずい",
+        "楽しい"
+      ],
+      "correctAnswer": "気まずい",
+      "explanation": "「awkward」は、気まずい、ぎこちない、やりにくいという意味です。人間関係や状況がスムーズに進まない時に使われます。例：There was an awkward silence after his comment. (彼のコメントの後、気まずい沈黙が訪れた。)"
+    },
+    {
+      "id": 99,
+      "value": "You can't miss it.",
+      "options": [
+        "見逃せない",
+        "必ず成功する",
+        "簡単に見つかる",
+        "絶対に必要だ"
+      ],
+      "correctAnswer": "簡単に見つかる",
+      "explanation": "「You can't miss it.」は、簡単に見つけられる、見落とすことはないという意味です。場所や目印などを説明する際に使われます。例：The restaurant is right next to the bank. You can't miss it. (レストランは銀行のすぐ隣にあります。簡単に見つかりますよ。)"
+    },
+    {
+      "id": 100,
+      "value": "delicious",
+      "options": [
+        "恐ろしい",
+        "不味い",
+        "美味しい",
+        "危険な"
+      ],
+      "correctAnswer": "美味しい",
+      "explanation": "「delicious」は、とても美味しい、風味豊かなという意味です。食べ物や飲み物に対して使われることが多いですが、比喩的に素晴らしいものに対しても使われます。例：This cake is absolutely delicious! (このケーキは本当に美味しい！)"
+    }
+  ]
+}
