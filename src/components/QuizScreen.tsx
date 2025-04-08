@@ -19,7 +19,7 @@ interface QuestionData {
   pronounciation: string;
   scriptContext: string;
   scriptContextTranslation: string;
-  season: string; // Add season
+  season: string; // Add seasonfsc
   episode: string; // Add episode
 }
 

@@ -7,7 +7,8 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 
 function App() {
-  const [season, setSeason] = useState('');
+  // Initialize season state, perhaps with '01' or load from storage if needed later
+  const [season, setSeason] = useState('01');
   const [episode, setEpisode] = useState('');
   const [showQuiz, setShowQuiz] = useState(false);
   const [isReviewMode, setIsReviewMode] = useState(false); // Add state for review mode
@@ -34,14 +35,23 @@ function App() {
   const handleGoHome = () => {
     setShowQuiz(false);
     setIsReviewMode(false); // Reset review mode state
+    // If returning from review mode, reset season to a default value
+    if (season === "Review") {
+      setSeason('01'); // Reset to season 1 or potentially the last selected valid season
+    }
   };
 
   return (
     <BrowserRouter>
       <div>
         {!showQuiz ? (
-          // Pass handleStartReview to Home component
-          <><Header /><Home onStartQuiz={handleStartQuizFromHome} onStartReview={handleStartReview} /></>
+          // Pass season state and setter to Home component
+          <><Header /><Home
+            season={season} // Pass current season
+            setSeason={setSeason} // Pass function to update season
+            onStartQuiz={handleStartQuizFromHome}
+            onStartReview={handleStartReview}
+          /></>
         ) : (
           // Pass review prop and updated onGoHome handler
           <QuizScreen
