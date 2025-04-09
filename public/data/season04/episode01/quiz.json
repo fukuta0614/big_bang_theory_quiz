@@ -10,7 +10,11 @@
         "お土産"
       ],
       "correctAnswer": "持ち帰り料理",
-      "explanation": "「takeaway」は、レストランなどで注文して持ち帰る料理のことです。イギリス英語でよく使われ、アメリカ英語では「takeout」が一般的です。例文：Let's get some takeaway tonight. (今夜は何か持ち帰り料理にしよう。)"
+      "explanation": "「takeaway」は、レストランなどで注文して持ち帰る料理のことです。イギリス英語でよく使われ、アメリカ英語では「takeout」が一般的です。例文：Let's get some takeaway tonight. (今夜は何か持ち帰り料理にしよう。)",
+      "etymology": "「take away (持ち去る)」から来ており、レストランから料理を持ち去る行為を指します。",
+      "pronounciation": "ˈteɪkəˌweɪ",
+      "scriptContext": "Scene: The apartment. A robotic arm is extracting some Chinese takeaway from a bag controlled by Howard.",
+      "scriptContextTranslation": "Scene: アパート。ロボットアームがハワードに操作され、中華料理のテイクアウトの袋から料理を取り出している。"
     },
     {
       "id": 2,
@@ -22,7 +26,11 @@
         "不安定"
       ],
       "correctAnswer": "滑らか",
-      "explanation": "この文脈での「smooth」は、ロボットアームの動きが滑らかで、スムーズであることを褒める際に使われています。日常会話でも、物事が順調に進んでいる様子を表現する際に用いられます。例文：The presentation went very smooth. (プレゼンテーションは非常にスムーズに進んだ。)"
+      "explanation": "この文脈での「smooth」は、ロボットアームの動きが滑らかで、スムーズであることを褒める際に使われています。日常会話でも、物事が順調に進んでいる様子を表現する際に用いられます。例文：The presentation went very smooth. (プレゼンテーションは非常にスムーズに進んだ。)",
+      "etymology": "ゲルマン祖語の「smeuthaz(滑らかな)」に由来し、古英語の「smēþ(滑らかな)」を経て現代英語に至ります。",
+      "pronounciation": "/smuːθ/",
+      "scriptContext": "Raj: Smooth.",
+      "scriptContextTranslation": "Raj: スムーズ。"
     },
     {
       "id": 3,
@@ -34,7 +42,11 @@
         "怠惰な"
       ],
       "correctAnswer": "用心深い",
-      "explanation": "「cautious」は、危険を避けるために注意深く行動することを意味します。Sheldonがロボット技術の進化に対して警戒を促す際に使われています。例文：We need to be cautious about investing in such a risky venture. (そのような危険な事業への投資には用心深くなる必要がある。)"
+      "explanation": "「cautious」は、危険を避けるために注意深く行動することを意味します。Sheldonがロボット技術の進化に対して警戒を促す際に使われています。例文：We need to be cautious about investing in such a risky venture. (そのような危険な事業への投資には用心深くなる必要がある。)",
+      "etymology": "ラテン語の「cavere(用心する)」に由来し、中期フランス語の「cautelous」を経て英語に入りました。",
+      "pronounciation": "/ˈkɔːʃəs/",
+      "scriptContext": "Sheldon: Impressive, but we must be cautious.",
+      "scriptContextTranslation": "Sheldon: 素晴らしいが、用心せねば。"
     },
     {
       "id": 4,
@@ -46,7 +58,11 @@
         "製造"
       ],
       "correctAnswer": "検索",
-      "explanation": "「retrieval」は、何かを取り戻す、検索するという意味です。ここでは、ロボットが食べ物を取り出す能力を指しています。情報検索やデータ復旧など、広範な文脈で使用されます。例文：Data retrieval from the damaged hard drive was successful. (損傷したハードディスクからのデータ検索は成功した。)"
+      "explanation": "「retrieval」は、何かを取り戻す、検索するという意味です。ここでは、ロボットが食べ物を取り出す能力を指しています。情報検索やデータ復旧など、広範な文脈で使用されます。例文：Data retrieval from the damaged hard drive was successful. (損傷したハードディスクからのデータ検索は成功した。)",
+      "etymology": "古フランス語の「retrouver(再び見つける)」に由来し、「re-(再び)」+「trouver(見つける)」から成り立ちます。",
+      "pronounciation": "/rɪˈtriːvəl/",
+      "scriptContext": "Sheldon: Today, it’s a Chinese food retrieval robot. Tomorrow, it travels back in time and tries to kill Sarah Connor.",
+      "scriptContextTranslation": "Sheldon: 今日は中華料理を回収するロボットだ。明日はタイムトラベルしてサラ・コナーを殺そうとする。"
     },
     {
       "id": 5,
@@ -58,7 +74,11 @@
         "地中"
       ],
       "correctAnswer": "宇宙空間の",
-      "explanation": "「extravehicular」は、宇宙船の外で行われる活動を指します。宇宙遊泳などが該当します。例文：Extravehicular activity is essential for maintaining the space station. (宇宙ステーションの維持には、宇宙空間での活動が不可欠です。)"
+      "explanation": "「extravehicular」は、宇宙船の外で行われる活動を指します。宇宙遊泳などが該当します。例文：Extravehicular activity is essential for maintaining the space station. (宇宙ステーションの維持には、宇宙空間での活動が不可欠です。)",
+      "etymology": "「extra-(外の)」+「vehicular(乗り物の)」で、宇宙船外での活動を意味します。",
+      "pronounciation": "/ˌekstrəvɪˈhɪkjələr/",
+      "scriptContext": "Howard: That, dear lady, is the Wolowitz Programmable Hand, designed for extravehicular repairs on the International Space Station.",
+      "scriptContextTranslation": "Howard: 麗しのペニー。これはウォロウィッツ・プログラマブル・ハンド、国際宇宙ステーションの船外活動用に設計されたものだ。"
     },
     {
       "id": 6,
@@ -70,7 +90,11 @@
         "一般的な"
       ],
       "correctAnswer": "時代遅れの",
-      "explanation": "「obsolete」は、もはや使われなくなった、時代遅れになったという意味です。技術革新によって不要になることが多いです。例文：The old software became obsolete after the new version was released. (新しいバージョンがリリースされた後、古いソフトウェアは時代遅れになった。)"
+      "explanation": "「obsolete」は、もはや使われなくなった、時代遅れになったという意味です。技術革新によって不要になることが多いです。例文：The old software became obsolete after the new version was released. (新しいバージョンがリリースされた後、古いソフトウェアは時代遅れになった。)",
+      "etymology": "ラテン語の「obsolescere(時代遅れになる)」に由来し、「ob-(〜に向かって)」+「solere(慣れている)」から成り立ちます。",
+      "pronounciation": "/ˌɒbsəˈliːt/",
+      "scriptContext": "Sheldon: You realize, Penny, that the technology that went into this arm will one day make unskilled food servers such as yourself obsolete.",
+      "scriptContextTranslation": "Sheldon: ペニー、このアームに使われている技術は、いつか君のような未熟なフードサーバーを時代遅れにするということを理解しているか？"
     },
     {
       "id": 7,
@@ -82,7 +106,11 @@
         "常に"
       ],
       "correctAnswer": "せいぜい",
-      "explanation": "「at best」は、最も良い場合でも、せいぜい〜に過ぎないという意味を表します。Sheldonがロボットアームの性能を過大評価しないように述べています。例文：At best, the project will be completed by next year. (せいぜい、プロジェクトは来年までに完了するだろう。)"
+      "explanation": "「at best」は、最も良い場合でも、せいぜい〜に過ぎないという意味を表します。Sheldonがロボットアームの性能を過大評価しないように述べています。例文：At best, the project will be completed by next year. (せいぜい、プロジェクトは来年までに完了するだろう。)",
+      "etymology": "文字通り「最良の状態で」という意味から、最も良い場合でも、せいぜい〜に過ぎないという意味合いで使われます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I wouldn’t say amazing. At best, it’s a modest leap forward from the basic technology that gave us Country Bear Jamboree.",
+      "scriptContextTranslation": "Sheldon: 素晴らしいとは言わない。せいぜい、カントリーベア・ジャンボリーを生み出した基本技術から少し進歩した程度だな。"
     },
     {
       "id": 8,
@@ -94,7 +122,11 @@
         "どうぞ"
       ],
       "correctAnswer": "待って",
-      "explanation": "「Hang on」は、少し待ってという意味で使われます。電話で「ちょっと待って」と言う場合や、人に何かを待たせるときに使います。例文：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+      "explanation": "「Hang on」は、少し待ってという意味で使われます。電話で「ちょっと待って」と言う場合や、人に何かを待たせるときに使います。例文：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)",
+      "etymology": "電話や会話で、相手に「少しの間待って」と伝える際に使われる口語表現です。文字通りには「しがみつく」という意味です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: No, not peace. Hang on.",
+      "scriptContextTranslation": "Howard: いや、平和じゃない。待ってろ。"
     },
     {
       "id": 9,
@@ -106,7 +138,11 @@
         "共有スペース"
       ],
       "correctAnswer": "安全なロッカー",
-      "explanation": "「secure locker」は、安全なロッカー、保管庫という意味です。貴重品や機密物を保管するために使用されます。例文：Please store your valuables in a secure locker. (貴重品は安全なロッカーに保管してください。)"
+      "explanation": "「secure locker」は、安全なロッカー、保管庫という意味です。貴重品や機密物を保管するために使用されます。例文：Please store your valuables in a secure locker. (貴重品は安全なロッカーに保管してください。)",
+      "etymology": "「secure(安全な)」+「locker(ロッカー)」で、貴重品などを安全に保管できるロッカーを指します。",
+      "pronounciation": "",
+      "scriptContext": "Howard: You kidding? They still think it’s in a secure locker at JPL.",
+      "scriptContextTranslation": "Howard: 冗談だろ？ 彼らはまだJPLの安全なロッカーにあると思ってるよ。"
     },
     {
       "id": 10,
@@ -118,7 +154,11 @@
         "エネルギー省"
       ],
       "correctAnswer": "ジェット推進研究所",
-      "explanation": "JPLは、アメリカ航空宇宙局（NASA）のジェット推進研究所のことです。宇宙探査機の開発・運用を行っています。"
+      "explanation": "JPLは、アメリカ航空宇宙局（NASA）のジェット推進研究所のことです。宇宙探査機の開発・運用を行っています。",
+      "etymology": "Jet Propulsion Laboratory の略で、NASAのジェット推進研究所を指します。",
+      "pronounciation": "",
+      "scriptContext": "Howard: You kidding? They still think it’s in a secure locker at JPL.",
+      "scriptContextTranslation": "Howard: 冗談だろ？ 彼らはまだJPLの安全なロッカーにあると思ってるよ。"
     },
     {
       "id": 11,
@@ -130,7 +170,11 @@
         "嘘をついた"
       ],
       "correctAnswer": "面白い駄洒落を言った",
-      "explanation": "「pun」は駄洒落、語呂合わせという意味です。ここでは、エイミーが化学物質名を使った面白い駄洒落を言ったことを指しています。例文：His speech was full of puns and jokes. (彼のスピーチは駄洒落とジョークでいっぱいだった。)"
+      "explanation": "「pun」は駄洒落、語呂合わせという意味です。ここでは、エイミーが化学物質名を使った面白い駄洒落を言ったことを指しています。例文：His speech was full of puns and jokes. (彼のスピーチは駄洒落とジョークでいっぱいだった。)",
+      "etymology": "「pun」は、ある単語やフレーズの複数の意味や類似の音を利用したジョークやユーモアの形式です。言葉遊びの一種。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon (phone gives text alert): Excuse me. Oh. Amy’s at the dry cleaners, and she’s made a very amusing pun. “I don’t care for perchloroethylene, and I don’t like glycol ether.” Get it? She doesn’t like glycol ether. Sounds like either. (Taps in reply) L-O-L.",
+      "scriptContextTranslation": "Sheldon (携帯電話がテキストアラートを発する): 失礼。おや。エイミーがクリーニング店にいて、とても面白い駄洒落を言った。「私はパークロロエチレンなんて気にしないし、グリコールエーテルも好きじゃないわ。」わかるか？ 彼女はグリコールエーテルが好きじゃない。either(どちらか)のように聞こえる。（返信する）L-O-L。"
     },
     {
       "id": 12,
@@ -142,7 +186,11 @@
         "〜を軽蔑する"
       ],
       "correctAnswer": "〜を選ぶ",
-      "explanation": "「go with」は、ここでは「（話題として）～を選ぶ」という意味で使われています。Pennyが、シェルドンに新しい話題として「ガールフレンドができた」という話を選ばなかったことを非難しています。例文: I think I'll go with the steak. (ステーキにしようかな。)"
+      "explanation": "「go with」は、ここでは「（話題として）～を選ぶ」という意味で使われています。Pennyが、シェルドンに新しい話題として「ガールフレンドができた」という話を選ばなかったことを非難しています。例文: I think I'll go with the steak. (ステーキにしようかな。)",
+      "etymology": "「～を選ぶ」という意味合いから、話題を選ぶ、提案を選ぶなどの文脈で使用されます。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Are you telling me, for the past four months I have been asking you what’s new and you never thought to go with Sheldon has a girlfriend?",
+      "scriptContextTranslation": "Penny: つまり、この4ヶ月間、私はあなたに何か新しいことはないかと尋ねていたのに、シェルドンにガールフレンドができたことを言おうと思わなかったってこと？"
     },
     {
       "id": 13,
@@ -154,7 +202,11 @@
         "無視する"
       ],
       "correctAnswer": "吐き出す",
-      "explanation": "ここでは、デートサイトがシェルドンの情報に基づいてエイミー・ファラ・ファウラーを「吐き出した」という意味で使われています。アルゴリズムによって特定の結果が出力される様子を表しています。例文：The computer spit out a list of potential candidates. (コンピュータは候補者リストを出力した。)"
+      "explanation": "ここでは、デートサイトがシェルドンの情報に基づいてエイミー・ファラ・ファウラーを「吐き出した」という意味で使われています。アルゴリズムによって特定の結果が出力される様子を表しています。例文：The computer spit out a list of potential candidates. (コンピュータは候補者リストを出力した。)",
+      "etymology": "文字通りには「吐き出す」という意味ですが、ここではデータや結果を「出力する」という意味合いで使われています。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Raj and I entered Sheldon’s information on a dating site, and it spit out Amy Farrah Fowler.",
+      "scriptContextTranslation": "Howard: ラージと僕がシェルドンの情報を出会い系サイトに入力したら、エイミー・ファラ・ファウラーが出てきたんだ。"
     },
     {
       "id": 14,
@@ -166,7 +218,11 @@
         "軽蔑する"
       ],
       "correctAnswer": "気に入る",
-      "explanation": "「digging」は、スラングで「気に入る」「好む」という意味です。PennyがShamy（シェルドンとエイミー）の関係を気に入っていることを表現しています。例文：I'm really digging this new song. (この新しい歌、本当に気に入ってる。)"
+      "explanation": "「digging」は、スラングで「気に入る」「好む」という意味です。PennyがShamy（シェルドンとエイミー）の関係を気に入っていることを表現しています。例文：I'm really digging this new song. (この新しい歌、本当に気に入ってる。)",
+      "etymology": "元々は「掘る」という意味ですが、スラングとして「気に入る」「好む」という意味で使われるようになりました。",
+      "pronounciation": "",
+      "scriptContext": "Penny (squeals): Shamy. I am so digging the Shamy.",
+      "scriptContextTranslation": "Penny (甲高い声を上げる): シャミー。シャミー、最高に気に入ったわ。"
     },
     {
       "id": 15,
@@ -178,7 +234,11 @@
         "毎年"
       ],
       "correctAnswer": "毎日",
-      "explanation": "「on a daily basis」は「毎日」という意味です。例文：I check my email on a daily basis. (私は毎日メールをチェックします。)"
+      "explanation": "「on a daily basis」は「毎日」という意味です。例文：I check my email on a daily basis. (私は毎日メールをチェックします。)",
+      "etymology": "「basis(基礎)」の上に「daily(毎日)」という頻度を置くことで、「毎日」という意味を表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: All right, everyone pay attention. Yes, I have a friend named Amy Farrah Fowler. Yes, she is female. Yes, we communicate on a daily basis, but no, she is not my girlfriend.",
+      "scriptContextTranslation": "Sheldon: よし、みんな聞いてくれ。確かに、私にはエイミー・ファラ・ファウラーという友人がいる。確かに、彼女は女性だ。確かに、私たちは毎日連絡を取り合っている。だが、彼女は私のガールフレンドではない。"
     },
     {
       "id": 16,
@@ -190,7 +250,11 @@
         "存在しない支配者"
       ],
       "correctAnswer": "友好的な支配者",
-      "explanation": "「benign」は「良性の、穏やかな」という意味で、「overlord」は「支配者」を意味します。ここでは、シェルドンとエイミーの子供が人類を導く優れた支配者になる可能性を指しています。例文：We hope for a benign outcome to the negotiations. (交渉が友好的な結果に終わることを願っています。)"
+      "explanation": "「benign」は「良性の、穏やかな」という意味で、「overlord」は「支配者」を意味します。ここでは、シェルドンとエイミーの子供が人類を導く優れた支配者になる可能性を指しています。例文：We hope for a benign outcome to the negotiations. (交渉が友好的な結果に終わることを願っています。)",
+      "etymology": "「benign(良性の)」と「overlord(支配者)」を組み合わせることで、「友好的な支配者」という意味合いになります。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Amy pointed out that between the two of us, our genetic material has the potential of producing the first in a line of intellectually superior, benign overlords to guide humanity to a brighter tomorrow.",
+      "scriptContextTranslation": "Sheldon: エイミーは、私たち2人の遺伝物質には、人類をより明るい未来に導く、知的にも優れた、善良な支配者の最初の世代を生み出す可能性があると指摘した。"
     },
     {
       "id": 17,
@@ -202,7 +266,11 @@
         "許容する"
       ],
       "correctAnswer": "非難する",
-      "explanation": "「condemn」は「非難する、糾弾する」という意味です。ハワードが、将来の歴史家がシェルドンを殺さなかったことを非難するだろうと言っています。例文：The world condemned the terrorist attacks. (世界はテロ攻撃を非難した。)"
+      "explanation": "「condemn」は「非難する、糾弾する」という意味です。ハワードが、将来の歴史家がシェルドンを殺さなかったことを非難するだろうと言っています。例文：The world condemned the terrorist attacks. (世界はテロ攻撃を非難した。)",
+      "etymology": "ラテン語の「condemnare(非難する)」に由来し、「com-(共に)」+「damnare(罰する)」から成り立ちます。",
+      "pronounciation": "/kənˈdem/",
+      "scriptContext": "Howard: I’m guessing that future historians will condemn us for not taking this opportunity to kill Sheldon.",
+      "scriptContextTranslation": "Howard: 未来の歴史家は、シェルドンを殺すこの機会を逃したことで僕らを非難するだろうな。"
     },
     {
       "id": 18,
@@ -214,7 +282,11 @@
         "結果は"
       ],
       "correctAnswer": "秘訣は",
-      "explanation": "「the trick is」は「秘訣は〜だ」という意味です。何かを上手くやるためのコツや秘訣を説明する際に使われます。例文：The trick is to practice regularly. (秘訣は定期的に練習することだ。)"
+      "explanation": "「the trick is」は「秘訣は〜だ」という意味です。何かを上手くやるためのコツや秘訣を説明する際に使われます。例文：The trick is to practice regularly. (秘訣は定期的に練習することだ。)",
+      "etymology": "「trick(秘訣)」が「is」である、つまり「秘訣は〜だ」という意味で、コツや秘訣を説明する際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Borrowed. The trick is to carry it out to your car like you own it.",
+      "scriptContextTranslation": "Howard: 借りたんだ。コツは、自分のもののように車まで運ぶことだ。"
     },
     {
       "id": 19,
@@ -226,7 +298,11 @@
         "美容院"
       ],
       "correctAnswer": "クリーニング店",
-      "explanation": "「dry cleaners」は「クリーニング店」という意味です。例文：I need to drop off my suit at the dry cleaners. (スーツをクリーニング店に持って行かないといけない。)"
+      "explanation": "「dry cleaners」は「クリーニング店」という意味です。例文：I need to drop off my suit at the dry cleaners. (スーツをクリーニング店に持って行かないといけない。)",
+      "etymology": "「dry(ドライ)」な方法で「cleaners(クリーニングする人/店)」を意味し、水を使わないクリーニングを行う店を指します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon (phone gives text alert): Excuse me. Oh. Amy’s at the dry cleaners, and she’s made a very amusing pun. “I don’t care for perchloroethylene, and I don’t like glycol ether.” Get it? She doesn’t like glycol ether. Sounds like either. (Taps in reply) L-O-L.",
+      "scriptContextTranslation": "Sheldon (携帯電話がテキストアラートを発する): 失礼。おや。エイミーがクリーニング店にいて、とても面白い駄洒落を言った。「私はパークロロエチレンなんて気にしないし、グリコールエーテルも好きじゃないわ。」わかるか？ 彼女はグリコールエーテルが好きじゃない。either(どちらか)のように聞こえる。（返信する）L-O-L。"
     },
     {
       "id": 20,
@@ -238,7 +314,11 @@
         "エタノール"
       ],
       "correctAnswer": "パークロロエチレン",
-      "explanation": "「chloroethylene」は、「パークロロエチレン」という化学物質の名前です。主にドライクリーニングの溶剤として使用されます。ここではエイミーが、この化学物質の名前を使って駄洒落を言っています。"
+      "explanation": "「chloroethylene」は、「パークロロエチレン」という化学物質の名前です。主にドライクリーニングの溶剤として使用されます。ここではエイミーが、この化学物質の名前を使って駄洒落を言っています。",
+      "etymology": "有機塩素化合物の一種で、化学構造に由来する名称です。",
+      "pronounciation": "/ˌklɔːroʊˈetɪliːn/",
+      "scriptContext": "Sheldon (phone gives text alert): Excuse me. Oh. Amy’s at the dry cleaners, and she’s made a very amusing pun. “I don’t care for perchloroethylene, and I don’t like glycol ether.” Get it? She doesn’t like glycol ether. Sounds like either. (Taps in reply) L-O-L.",
+      "scriptContextTranslation": "Sheldon (携帯電話がテキストアラートを発する): 失礼。おや。エイミーがクリーニング店にいて、とても面白い駄洒落を言った。「私はパークロロエチレンなんて気にしないし、グリコールエーテルも好きじゃないわ。」わかるか？ 彼女はグリコールエーテルが好きじゃない。either(どちらか)のように聞こえる。（返信する）L-O-L。"
     },
     {
       "id": 21,
@@ -250,7 +330,11 @@
         "エタノール"
       ],
       "correctAnswer": "グリコールエーテル",
-      "explanation": "「glycol ether」は、「グリコールエーテル」という化学物質の名前です。溶剤や洗浄剤として使用されます。エイミーが、この化学物質の名前を使って駄洒落を言っています。"
+      "explanation": "「glycol ether」は、「グリコールエーテル」という化学物質の名前です。溶剤や洗浄剤として使用されます。エイミーが、この化学物質の名前を使って駄洒落を言っています。",
+      "etymology": "グリコールとエーテルの両方の構造的特徴を持つ有機溶媒のグループです。",
+      "pronounciation": "/ˈɡlaɪkɒl ˈiːθər/",
+      "scriptContext": "Sheldon (phone gives text alert): Excuse me. Oh. Amy’s at the dry cleaners, and she’s made a very amusing pun. “I don’t care for perchloroethylene, and I don’t like glycol ether.” Get it? She doesn’t like glycol ether. Sounds like either. (Taps in reply) L-O-L.",
+      "scriptContextTranslation": "Sheldon (携帯電話がテキストアラートを発する): 失礼。おや。エイミーがクリーニング店にいて、とても面白い駄洒落を言った。「私はパークロロエチレンなんて気にしないし、グリコールエーテルも好きじゃないわ。」わかるか？ 彼女はグリコールエーテルが好きじゃない。either(どちらか)のように聞こえる。（返信する）L-O-L。"
     },
     {
       "id": 22,
@@ -262,7 +346,11 @@
         "こぼさずに飲む"
       ],
       "correctAnswer": "飲み物を激しく吹き出す",
-      "explanation": "「spit out drink explosively」は「飲み物を激しく吹き出す」という意味です。驚きやショックを表す表現です。例文：He spit out his coffee when he heard the news. (彼はそのニュースを聞いてコーヒーを吹き出した。)"
+      "explanation": "「spit out drink explosively」は「飲み物を激しく吹き出す」という意味です。驚きやショックを表す表現です。例文：He spit out his coffee when he heard the news. (彼はそのニュースを聞いてコーヒーを吹き出した。)",
+      "etymology": "驚きやショックのあまり、飲み物を「explosively(爆発的に)」吐き出す様子を表しています。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 23,
@@ -274,7 +362,11 @@
         "放射性物質"
       ],
       "correctAnswer": "遺伝物質",
-      "explanation": "「genetic material」は「遺伝物質」という意味です。DNAやRNAなどの遺伝情報を含む物質を指します。例文：The scientists studied the genetic material of the virus. (科学者たちはウイルスの遺伝物質を研究した。)"
+      "explanation": "「genetic material」は「遺伝物質」という意味です。DNAやRNAなどの遺伝情報を含む物質を指します。例文：The scientists studied the genetic material of the virus. (科学者たちはウイルスの遺伝物質を研究した。)",
+      "etymology": "生物の遺伝情報を担う物質の総称で、「genetic(遺伝の)」+「material(物質)」から成り立ちます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Amy pointed out that between the two of us, our genetic material has the potential of producing the first in a line of intellectually superior, benign overlords to guide humanity to a brighter tomorrow.",
+      "scriptContextTranslation": "Sheldon: エイミーは、私たち2人の遺伝物質には、人類をより明るい未来に導く、知的にも優れた、善良な支配者の最初の世代を生み出す可能性があると指摘した。"
     },
     {
       "id": 24,
@@ -286,7 +378,11 @@
         "平均的な"
       ],
       "correctAnswer": "優れた",
-      "explanation": "「superior」は「優れた、上位の」という意味です。例文：This product is superior to the others on the market. (この製品は市場に出回っている他の製品よりも優れている。)"
+      "explanation": "「superior」は「優れた、上位の」という意味です。例文：This product is superior to the others on the market. (この製品は市場に出回っている他の製品よりも優れている。)",
+      "etymology": "ラテン語の「superior(より高い)」に由来し、上位の、優れたという意味を持ちます。",
+      "pronounciation": "/sʊˈpɪəriər/",
+      "scriptContext": "Sheldon: Amy pointed out that between the two of us, our genetic material has the potential of producing the first in a line of intellectually superior, benign overlords to guide humanity to a brighter tomorrow.",
+      "scriptContextTranslation": "Sheldon: エイミーは、私たち2人の遺伝物質には、人類をより明るい未来に導く、知的にも優れた、善良な支配者の最初の世代を生み出す可能性があると指摘した。"
     },
     {
       "id": 25,
@@ -298,7 +394,11 @@
         "責任"
       ],
       "correctAnswer": "可能性",
-      "explanation": "「potential」は「可能性、潜在能力」という意味です。例文：This project has the potential to be very successful. (このプロジェクトは非常に成功する可能性がある。)"
+      "explanation": "「potential」は「可能性、潜在能力」という意味です。例文：This project has the potential to be very successful. (このプロジェクトは非常に成功する可能性がある。)",
+      "etymology": "ラテン語の「potentia(力)」に由来し、潜在的な能力や可能性を意味します。",
+      "pronounciation": "/pəˈtenʃəl/",
+      "scriptContext": "Sheldon: Amy pointed out that between the two of us, our genetic material has the potential of producing the first in a line of intellectually superior, benign overlords to guide humanity to a brighter tomorrow.",
+      "scriptContextTranslation": "Sheldon: エイミーは、私たち2人の遺伝物質には、人類をより明るい未来に導く、知的にも優れた、善良な支配者の最初の世代を生み出す可能性があると指摘した。"
     },
     {
       "id": 26,
@@ -310,7 +410,11 @@
         "宇宙で"
       ],
       "correctAnswer": "一体全体",
-      "explanation": "「on Earth」は、疑問文で驚きや強調を表す際に用いられ、「一体全体」「いったいぜんたい」という意味合いになります。Why on Earth...?で「一体全体なぜ…？」というように使われます。Example: Why on Earth would he do that? (彼は一体全体なぜそんなことをするのだろう？)"
+      "explanation": "「on Earth」は、疑問文で驚きや強調を表す際に用いられ、「一体全体」「いったいぜんたい」という意味合いになります。Why on Earth...?で「一体全体なぜ…？」というように使われます。Example: Why on Earth would he do that? (彼は一体全体なぜそんなことをするのだろう？)",
+      "etymology": "疑問文で強調を表す場合、文字通りの意味ではなく、「一体全体」という意味合いで用いられます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Why on Earth would we have sex?",
+      "scriptContextTranslation": "Sheldon: なんで僕らがセックスしなきゃいけないんだ？"
     },
     {
       "id": 27,
@@ -322,7 +426,11 @@
         "親への感謝"
       ],
       "correctAnswer": "神への訴え",
-      "explanation": "「appeal to a deity」は、「神に訴える」「神に祈る」という意味です。ここでは皮肉的に、性交渉における不必要な叫び声を指しています。Example: In times of trouble, people often appeal to a deity for help. (困難な時、人々はしばしば神に助けを求めます。)"
+      "explanation": "「appeal to a deity」は、「神に訴える」「神に祈る」という意味です。ここでは皮肉的に、性交渉における不必要な叫び声を指しています。Example: In times of trouble, people often appeal to a deity for help. (困難な時、人々はしばしば神に助けを求めます。)",
+      "etymology": "文字通りには「神に訴える」という意味ですが、ここでは性的な文脈で、不必要な叫び声をユーモラスに表現しています。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I’m quite aware of the way humans usually reproduce, which is messy, unsanitary, and based on living next to you for three years, involves loud and unnecessary appeals to a deity.",
+      "scriptContextTranslation": "Sheldon: 人間が普通どうやって繁殖するかは知ってるよ。乱雑で、不潔で、それに3年間君の隣に住んだ経験から言うと、神に大声で不必要に訴える必要があるんだ。"
     },
     {
       "id": 28,
@@ -334,7 +442,11 @@
         "知的な才能"
       ],
       "correctAnswer": "田舎育ちの元気",
-      "explanation": "「corn-fed vigor」は、アメリカの田舎で育った人の健康的な元気や活力を指す表現です。ここでは、ペニーの体格の良さを Sheldom が皮肉っぽく表現しています。Example: She has a corn-fed vigor that makes her stand out. (彼女は、彼女を目立たせる田舎育ちの元気を持っている。)"
+      "explanation": "「corn-fed vigor」は、アメリカの田舎で育った人の健康的な元気や活力を指す表現です。ここでは、ペニーの体格の良さを Sheldom が皮肉っぽく表現しています。Example: She has a corn-fed vigor that makes her stand out. (彼女は、彼女を目立たせる田舎育ちの元気を持っている。)",
+      "etymology": "アメリカ中西部のトウモロコシをたくさん食べて育った人の、健康的な体力や活力を指す表現です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 29,
@@ -346,7 +458,11 @@
         "寄り道をする"
       ],
       "correctAnswer": "急いで行く",
-      "explanation": "「race off to」は、「～へ急いで行く」「～へ駆けつける」という意味です。ここでは、Sheldon が不妊治療クリニックへ急いで行くことを指しています。Example: He raced off to the airport to catch his flight. (彼は飛行機に間に合うように空港へ急いで行った。)"
+      "explanation": "「race off to」は、「～へ急いで行く」「～へ駆けつける」という意味です。ここでは、Sheldon が不妊治療クリニックへ急いで行くことを指しています。Example: He raced off to the airport to catch his flight. (彼は飛行機に間に合うように空港へ急いで行った。)",
+      "etymology": "「race(競争する、急ぐ)」+「off(離れて)」で、「～へ急いで行く」という意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Look, Sheldon, before you race off to the fertility clinic, you might want to think about, uh gee, I don’t know, maybe actually spending some time with her.",
+      "scriptContextTranslation": "Penny: あのね、シェルドン、不妊治療クリニックに駆け込む前に、ええと、そうね、彼女ともう少し時間を過ごすことを考えてみたら？"
     },
     {
       "id": 30,
@@ -358,7 +474,11 @@
         "趣味"
       ],
       "correctAnswer": "子孫",
-      "explanation": "「progeny」は、「子孫」「後裔」という意味のフォーマルな単語です。ここでは、Sheldon と Amy の子供を指しています。Example: The king was worried about the future of his progeny. (王は自分の子孫の将来を心配していた。)"
+      "explanation": "「progeny」は、「子孫」「後裔」という意味のフォーマルな単語です。ここでは、Sheldon と Amy の子供を指しています。Example: The king was worried about the future of his progeny. (王は自分の子孫の将来を心配していた。)",
+      "etymology": "ラテン語の「progenies(子孫)」に由来し、子孫や後裔を意味するフォーマルな言葉です。",
+      "pronounciation": "/ˈprɒdʒəni/",
+      "scriptContext": "Sheldon: Oh. I hadn’t considered that. I suppose she will have to have access to our progeny. And you don’t think I can achieve the required intimacy via text messaging?",
+      "scriptContextTranslation": "Sheldon: ああ。それは考えてなかった。彼女は僕らの子孫にアクセスする必要があるのか。必要な親密さをテキストメッセージで達成できるとは思わない？"
     },
     {
       "id": 31,
@@ -370,7 +490,11 @@
         "協力する"
       ],
       "correctAnswer": "反対側に立つ",
-      "explanation": "文字通りの意味ですが、ここではペニーがドアの向こう側で待っていることを指しています。比喩的には「対立する立場を取る」という意味にもなります。Example: They stand on the other side of the political spectrum. (彼らは政治スペクトルの反対側に立っている。)"
+      "explanation": "文字通りの意味ですが、ここではペニーがドアの向こう側で待っていることを指しています。比喩的には「対立する立場を取る」という意味にもなります。Example: They stand on the other side of the political spectrum. (彼らは政治スペクトルの反対側に立っている。)",
+      "etymology": "文字通りの意味ですが、ここでは物理的な位置関係だけでなく、比喩的に「対立する立場を取る」という意味合いも含まれます。",
+      "pronounciation": "",
+      "scriptContext": "Penny: You do realize I stand on the other side of the door waiting for you to finish knocking three times.",
+      "scriptContextTranslation": "Penny: ドアの向こうで、あなたが3回ノックするのを待ってるってわかってる？"
     },
     {
       "id": 32,
@@ -382,7 +506,11 @@
         "あなたを無視する"
       ],
       "correctAnswer": "あなたに言及する",
-      "explanation": "「refer you to」は、「～を紹介する」「～に言及する」という意味です。ここでは、Sheldon がペニーに時間の無駄の例として、現在の会話を挙げていることを指しています。Example: I would like to refer you to our website for more information. (詳細については、当社のウェブサイトをご覧ください。)"
+      "explanation": "「refer you to」は、「～を紹介する」「～に言及する」という意味です。ここでは、Sheldon がペニーに時間の無駄の例として、現在の会話を挙げていることを指しています。Example: I would like to refer you to our website for more information. (詳細については、当社のウェブサイトをご覧ください。)",
+      "etymology": "「refer(言及する、参照させる)」+「to(〜へ)」で、「〜を紹介する」「〜に言及する」という意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: If you’re looking for an example of a waste of time, I would refer you to the conversation we’re having right now.",
+      "scriptContextTranslation": "Sheldon: もし時間の無駄の例を探しているなら、今僕らがしている会話を参考にするだろうね。"
     },
     {
       "id": 33,
@@ -394,7 +522,11 @@
         "重要な"
       ],
       "correctAnswer": "ばかげた",
-      "explanation": "「cockamamie」は、「ばかげた」「くだらない」という意味のスラングです。ここでは、Leonard がペニーの提案をばかげていると言ったことを、Sheldon が婉曲的に表現しています。Example: That's a cockamamie idea! (それは馬鹿げた考えだ！)"
+      "explanation": "「cockamamie」は、「ばかげた」「くだらない」という意味のスラングです。ここでは、Leonard がペニーの提案をばかげていると言ったことを、Sheldon が婉曲的に表現しています。Example: That's a cockamamie idea! (それは馬鹿げた考えだ！)",
+      "etymology": "語源ははっきりしていませんが、19世紀後半のアメリカで生まれたスラングで、「ばかげた」「くだらない」という意味で使われます。",
+      "pronounciation": "/ˌkɒkəˈmeɪmi/",
+      "scriptContext": "Sheldon: I did. He said, and I quote, ask Penny, it was her cockamamie idea.",
+      "scriptContextTranslation": "Sheldon: 頼んだよ。彼はこう言った。「ペニーに頼んでくれ。彼女の突拍子もないアイデアだ」と。"
     },
     {
       "id": 34,
@@ -406,7 +538,11 @@
         "分析する"
       ],
       "correctAnswer": "要約する",
-      "explanation": "「paraphrasing」は、「言い換える」「要約する」という意味です。ここでは、Sheldon が Leonard の言葉をそのままではなく、自分の言葉で言い換えていることを指しています。Example: He was paraphrasing the author's argument. (彼は著者の議論を言い換えていた。)"
+      "explanation": "「paraphrasing」は、「言い換える」「要約する」という意味です。ここでは、Sheldon が Leonard の言葉をそのままではなく、自分の言葉で言い換えていることを指しています。Example: He was paraphrasing the author's argument. (彼は著者の議論を言い換えていた。)",
+      "etymology": "ギリシャ語の「paraphrasis(言い換え)」に由来し、「para-(〜のそばに)」+「phrasis(表現)」から成り立ちます。",
+      "pronounciation": "/ˈpærəfreɪzɪŋ/",
+      "scriptContext": "Sheldon: Actually, I’m paraphrasing. Having been raised in a Christian household, I’m uncomfortable with the language he used. And to be honest, I’m not entirely comfortable with cockamamie.",
+      "scriptContextTranslation": "Sheldon: 実は言い換えたんだ。僕はクリスチャンの家庭で育ったから、彼が使った言葉に抵抗があるんだ。正直に言うと、「突拍子もない」という言葉もあまり好きじゃない。"
     },
     {
       "id": 35,
@@ -418,7 +554,11 @@
         "部分的に"
       ],
       "correctAnswer": "それ自体は",
-      "explanation": "「per se」は、「それ自体は」「本質的に」という意味のラテン語由来の表現です。ここでは、ペニーが具体的な予定があるわけではないことを示しています。Example: The color is not important per se, but the design is. (色自体は重要ではなく、デザインが重要だ。)"
+      "explanation": "「per se」は、「それ自体は」「本質的に」という意味のラテン語由来の表現です。ここでは、ペニーが具体的な予定があるわけではないことを示しています。Example: The color is not important per se, but the design is. (色自体は重要ではなく、デザインが重要だ。)",
+      "etymology": "ラテン語で「それ自体は」「本質的に」という意味です。英語では、他の要素とは切り離して考える場合に用いられます。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Well, no, not per se, but…",
+      "scriptContextTranslation": "Penny: ええと、特にないけど…"
     },
     {
       "id": 36,
@@ -430,7 +570,11 @@
         "創造的な"
       ],
       "correctAnswer": "無意味な",
-      "explanation": "「pointless as」は、「～と同じくらい無意味な」という意味です。ここでは、Sheldon が現在の会話をペニーのドアをノックする行為と同じくらい無意味だと考えていることを示しています。Example: Arguing with him is pointless as talking to a wall. (彼と議論することは、壁に話しかけるのと同じくらい無意味だ。)"
+      "explanation": "「pointless as」は、「～と同じくらい無意味な」という意味です。ここでは、Sheldon が現在の会話をペニーのドアをノックする行為と同じくらい無意味だと考えていることを示しています。Example: Arguing with him is pointless as talking to a wall. (彼と議論することは、壁に話しかけるのと同じくらい無意味だ。)",
+      "etymology": "「pointless(無意味な)」+「as(〜のように)」で、「〜と同じくらい無意味な」という意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: So this conversation is as pointless as your door-knocking soliloquy?",
+      "scriptContextTranslation": "Sheldon: じゃあ、この会話は君のドアノック独り言と同じくらい無意味なのか？"
     },
     {
       "id": 37,
@@ -442,7 +586,11 @@
         "手紙"
       ],
       "correctAnswer": "独白",
-      "explanation": "「soliloquy」は、「独白」という意味です。ここでは、Sheldon がペニーのドアをノックする行為を、まるで一人芝居のようだと言っています。Example: The actor delivered a powerful soliloquy. (俳優は力強い独白を演じた。)"
+      "explanation": "「soliloquy」は、「独白」という意味です。ここでは、Sheldon がペニーのドアをノックする行為を、まるで一人芝居のようだと言っています。Example: The actor delivered a powerful soliloquy. (俳優は力強い独白を演じた。)",
+      "etymology": "ラテン語の「solus(単独の)」+「loqui(話す)」から派生し、劇中で登場人物が一人で心情を語る場面を指します。",
+      "pronounciation": "/səˈlɪləkwi/",
+      "scriptContext": "Sheldon: So this conversation is as pointless as your door-knocking soliloquy?",
+      "scriptContextTranslation": "Sheldon: じゃあ、この会話は君のドアノック独り言と同じくらい無意味なのか？"
     },
     {
       "id": 38,
@@ -454,7 +602,11 @@
         "目の前の"
       ],
       "correctAnswer": "不在の",
-      "explanation": "ここでは「(声が)～から聞こえる」という意味で使われています。 Mrs. Wolowitz の声が部屋の外から聞こえることを表しています。 Example: The alarm went off, startling everyone. (アラームが鳴り、みんなを驚かせた。)"
+      "explanation": "ここでは「(声が)～から聞こえる」という意味で使われています。 Mrs. Wolowitz の声が部屋の外から聞こえることを表しています。 Example: The alarm went off, startling everyone. (アラームが鳴り、みんなを驚かせた。)",
+      "etymology": "ここでは「(場所)から離れて」という意味で、声が聞こえる場所が部屋の外であることを示しています。",
+      "pronounciation": "/ɒf/",
+      "scriptContext": "Penny: Look, Sheldon, before you race off to the fertility clinic, you might want to think about, uh gee, I don’t know, maybe actually spending some time with her.",
+      "scriptContextTranslation": "Penny: あのね、シェルドン、不妊治療クリニックに駆け込む前に、ええと、そうね、彼女ともう少し時間を過ごすことを考えてみたら？"
     },
     {
       "id": 39,
@@ -466,7 +618,11 @@
         "英雄"
       ],
       "correctAnswer": "死亡者",
-      "explanation": "「fatality」は、「死亡者」「死傷者」という意味です。ここでは、flip-flopを履いて運転することによって起こる事故の死亡者を指しています。Example: There were no fatalities in the car accident. (その自動車事故で死亡者はいなかった。)"
+      "explanation": "「fatality」は、「死亡者」「死傷者」という意味です。ここでは、flip-flopを履いて運転することによって起こる事故の死亡者を指しています。Example: There were no fatalities in the car accident. (その自動車事故で死亡者はいなかった。)",
+      "etymology": "ラテン語の「fatalis(運命の)」に由来し、運命によって引き起こされた死、つまり死亡者を意味します。",
+      "pronounciation": "/feɪˈtæləti/",
+      "scriptContext": "Sheldon: Sorry. I just don’t want to be yet another flip-flop fatality.",
+      "scriptContextTranslation": "Sheldon: 悪い。ビーチサンダル死亡事故の犠牲者になりたくないだけだ。"
     },
     {
       "id": 40,
@@ -478,7 +634,11 @@
         "予備校"
       ],
       "correctAnswer": "短期大学",
-      "explanation": "「community college」は、アメリカの2年制大学（短期大学）を指します。ここでは、Sheldon がペニーの学歴をからかっています。Example: She attended a community college before transferring to a four-year university. (彼女は四年制大学に編入する前に短期大学に通っていた。)"
+      "explanation": "「community college」は、アメリカの2年制大学（短期大学）を指します。ここでは、Sheldon がペニーの学歴をからかっています。Example: She attended a community college before transferring to a four-year university. (彼女は四年制大学に編入する前に短期大学に通っていた。)",
+      "etymology": "地域社会(community)に根ざした2年制の高等教育機関を指します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Given your community college education, I encourage you to ask me as many as possible.",
+      "scriptContextTranslation": "Sheldon: 君のコミュニティカレッジの教育を考えると、できるだけ多くの質問をすることを勧めるよ。"
     },
     {
       "id": 41,
@@ -490,7 +650,11 @@
         "フォーマルな晩餐会"
       ],
       "correctAnswer": "騒がしいダンスパーティー",
-      "explanation": "「Hoedown」は、アメリカの伝統的なダンスパーティーで、特にカントリーミュージックに合わせて踊るものを指します。ここでは、Sheldon の家族が参加したイベントを指しています。Example: They had a hoedown in the barn. (彼らは納屋でダンスパーティーを開いた。)"
+      "explanation": "「Hoedown」は、アメリカの伝統的なダンスパーティーで、特にカントリーミュージックに合わせて踊るものを指します。ここでは、Sheldon の家族が参加したイベントを指しています。Example: They had a hoedown in the barn. (彼らは納屋でダンスパーティーを開いた。)",
+      "etymology": "アメリカの伝統的なダンスパーティーで、特にカントリーミュージックに合わせて踊るものを指します。起源は定かではありませんが、19世紀初頭には使われていたようです。",
+      "pronounciation": "/ˈhoʊdaʊn/",
+      "scriptContext": "Sheldon: That depends. Does square-dancing with my sister at a Teens for Jesus Fourth of July Hoedown count as a date?",
+      "scriptContextTranslation": "Sheldon: それによるな。僕の妹と「ジーザスのためのティーンエイジャー」の独立記念日のホーダウンでスクエアダンスをしたことはデートに入るか？"
     },
     {
       "id": 42,
@@ -502,7 +666,11 @@
         "個人的な意見"
       ],
       "correctAnswer": "良い指摘",
-      "explanation": "「Fair point」は、「もっともな意見」「その通り」という意味です。相手の意見が正当だと認める際に使います。Example: I guess that's a fair point. (それはもっともな意見だと思います。)"
+      "explanation": "「Fair point」は、「もっともな意見」「その通り」という意味です。相手の意見が正当だと認める際に使います。Example: I guess that's a fair point. (それはもっともな意見だと思います。)",
+      "etymology": "「fair(公平な、妥当な)」+「point(指摘、意見)」で、「もっともな意見」「その通り」という意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Fair point.",
+      "scriptContextTranslation": "Penny: そうね。"
     },
     {
       "id": 43,
@@ -514,7 +682,11 @@
         "無関心"
       ],
       "correctAnswer": "親密さ",
-      "explanation": "「intimacy」は、「親密さ」「親交」という意味です。ここでは、子供を授かるために必要な親密さを指しています。Example: They had a deep sense of intimacy. (彼らは深い親密さを感じていた。)"
+      "explanation": "「intimacy」は、「親密さ」「親交」という意味です。ここでは、子供を授かるために必要な親密さを指しています。Example: They had a deep sense of intimacy. (彼らは深い親密さを感じていた。)",
+      "etymology": "ラテン語の「intimus(最も内側の)」に由来し、親密さ、親交、親密な関係を意味します。",
+      "pronounciation": "/ˈɪntɪməsi/",
+      "scriptContext": "Sheldon: Oh. I hadn’t considered that. I suppose she will have to have access to our progeny. And you don’t think I can achieve the required intimacy via text messaging?",
+      "scriptContextTranslation": "Sheldon: ああ。それは考えてなかった。彼女は僕らの子孫にアクセスする必要があるのか。必要な親密さをテキストメッセージで達成できるとは思わない？"
     },
     {
       "id": 44,
@@ -526,7 +698,11 @@
         "最初から"
       ],
       "correctAnswer": "結果として",
-      "explanation": "「consequently」は、「その結果」「したがって」という意味の接続副詞です。前述の事柄が原因で起こる結果を導く際に用います。Example: He failed the exam; consequently, he had to repeat the course. (彼は試験に落ちた。その結果、彼はそのコースを再履修しなければならなかった。)"
+      "explanation": "「consequently」は、「その結果」「したがって」という意味の接続副詞です。前述の事柄が原因で起こる結果を導く際に用います。Example: He failed the exam; consequently, he had to repeat the course. (彼は試験に落ちた。その結果、彼はそのコースを再履修しなければならなかった。)",
+      "etymology": "ラテン語の「consequens(結果として起こる)」に由来し、ある事柄の結果として起こることを示す接続副詞です。",
+      "pronounciation": "/ˈkɒnsɪkwəntli/",
+      "scriptContext": "Sheldon: Yes, exactly. Consequently, if Amy and I choose to bring new life into this world, it will be accomplished clinically, with fertility experts in a lab with petri dishes. Which reminds me, you have broad hips and a certain corn-fed vigour. Is your womb available for rental?",
+      "scriptContextTranslation": "Sheldon: そうだ。だから、もしエイミーと僕が新しい命をこの世にもたらすことを選ぶなら、それは臨床的に、不妊治療の専門家がシャーレを使って実験室で行う。それで思い出したけど、君はお尻が大きいし、田舎育ちの元気がある。君の子宮はレンタル可能かな？"
     },
     {
       "id": 45,
@@ -538,7 +714,11 @@
         "自然に"
       ],
       "correctAnswer": "臨床的に",
-      "explanation": "「clinically」は、「臨床的に」「医学的に」という意味です。ここでは、子供を授かる方法が医学的な手段で行われることを指しています。Example: The study was conducted clinically. (その研究は臨床的に実施された。)"
+      "explanation": "「clinically」は、「臨床的に」「医学的に」という意味です。ここでは、子供を授かる方法が医学的な手段で行われることを指しています。Example: The study was conducted clinically. (その研究は臨床的に実施された。)",
+      "etymology": "ギリシャ語の「kline(ベッド)」に由来し、臨床的な、医学的な方法で行われることを意味します。",
+      "pronounciation": "/ˈklɪnɪkli/",
+      "scriptContext": "Sheldon: Yes, exactly. Consequently, if Amy and I choose to bring new life into this world, it will be accomplished clinically, with fertility experts in a lab with petri dishes. Which reminds me, you have broad hips and a certain corn-fed vigour. Is your womb available for rental?",
+      "scriptContextTranslation": "Sheldon: そうだ。だから、もしエイミーと僕が新しい命をこの世にもたらすことを選ぶなら、それは臨床的に、不妊治療の専門家がシャーレを使って実験室で行う。それで思い出したけど、君はお尻が大きいし、田舎育ちの元気がある。君の子宮はレンタル可能かな？"
     },
     {
       "id": 46,
@@ -550,7 +730,11 @@
         "経済の専門家"
       ],
       "correctAnswer": "不妊治療の専門家",
-      "explanation": "「fertility experts」は、「不妊治療の専門家」という意味です。ここでは、Sheldon が子供を授かる際に専門家の助けを借りることを示唆しています。Example: They consulted with fertility experts to explore their options. (彼らは選択肢を検討するために不妊治療の専門家に相談した。)"
+      "explanation": "「fertility experts」は、「不妊治療の専門家」という意味です。ここでは、Sheldon が子供を授かる際に専門家の助けを借りることを示唆しています。Example: They consulted with fertility experts to explore their options. (彼らは選択肢を検討するために不妊治療の専門家に相談した。)",
+      "etymology": "「fertility(生殖能力)」+「experts(専門家)」で、不妊治療の専門家を意味します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yes, exactly. Consequently, if Amy and I choose to bring new life into this world, it will be accomplished clinically, with fertility experts in a lab with petri dishes. Which reminds me, you have broad hips and a certain corn-fed vigour. Is your womb available for rental?",
+      "scriptContextTranslation": "Sheldon: そうだ。だから、もしエイミーと僕が新しい命をこの世にもたらすことを選ぶなら、それは臨床的に、不妊治療の専門家がシャーレを使って実験室で行う。それで思い出したけど、君はお尻が大きいし、田舎育ちの元気がある。君の子宮はレンタル可能かな？"
     },
     {
       "id": 47,
@@ -562,7 +746,11 @@
         "調理器具"
       ],
       "correctAnswer": "ペトリ皿",
-      "explanation": "「petri dishes」は、「ペトリ皿」という意味です。微生物などを培養するための実験器具です。ここでは、体外受精などの医学的な手段を暗示しています。Example: The bacteria were grown in petri dishes. (バクテリアはペトリ皿で培養された。)"
+      "explanation": "「petri dishes」は、「ペトリ皿」という意味です。微生物などを培養するための実験器具です。ここでは、体外受精などの医学的な手段を暗示しています。Example: The bacteria were grown in petri dishes. (バクテリアはペトリ皿で培養された。)",
+      "etymology": "ドイツの細菌学者ユリウス・ペトリにちなんで名付けられた、微生物などを培養するための実験器具です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yes, exactly. Consequently, if Amy and I choose to bring new life into this world, it will be accomplished clinically, with fertility experts in a lab with petri dishes. Which reminds me, you have broad hips and a certain corn-fed vigour. Is your womb available for rental?",
+      "scriptContextTranslation": "Sheldon: そうだ。だから、もしエイミーと僕が新しい命をこの世にもたらすことを選ぶなら、それは臨床的に、不妊治療の専門家がシャーレを使って実験室で行う。それで思い出したけど、君はお尻が大きいし、田舎育ちの元気がある。君の子宮はレンタル可能かな？"
     },
     {
       "id": 48,
@@ -574,7 +762,11 @@
         "熱中している"
       ],
       "correctAnswer": "不快に感じる",
-      "explanation": "「uncomfortable with」は、「～に不快感を覚える」「～に抵抗がある」という意味です。ここでは、Sheldon が Leonard の使った言葉に抵抗を感じていることを示しています。Example: I am uncomfortable with the way he spoke to her. (私は彼が彼女に話しかけたやり方に不快感を覚える。)"
+      "explanation": "「uncomfortable with」は、「～に不快感を覚える」「～に抵抗がある」という意味です。ここでは、Sheldon が Leonard の使った言葉に抵抗を感じていることを示しています。Example: I am uncomfortable with the way he spoke to her. (私は彼が彼女に話しかけたやり方に不快感を覚える。)",
+      "etymology": "「un-(否定)」+「comfortable(快適な)」で、「〜に不快感を覚える」「〜に抵抗がある」という意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Actually, I’m paraphrasing. Having been raised in a Christian household, I’m uncomfortable with the language he used. And to be honest, I’m not entirely comfortable with cockamamie.",
+      "scriptContextTranslation": "Sheldon: 実は言い換えたんだ。僕はクリスチャンの家庭で育ったから、彼が使った言葉に抵抗があるんだ。正直に言うと、「突拍子もない」という言葉もあまり好きじゃない。"
     },
     {
       "id": 49,
@@ -586,7 +778,11 @@
         "不適切な"
       ],
       "correctAnswer": "必要な",
-      "explanation": "「required」は、「必要な」「必須の」という意味です。ここでは、子供を授かるために必要な親密さを指しています。Example: This course is required for all students. (このコースはすべての学生に必須です。)"
+      "explanation": "「required」は、「必要な」「必須の」という意味です。ここでは、子供を授かるために必要な親密さを指しています。Example: This course is required for all students. (このコースはすべての学生に必須です。)",
+      "etymology": "ラテン語の「requirere(要求する)」に由来し、必要な、必須のという意味を持ちます。",
+      "pronounciation": "/rɪˈkwaɪərd/",
+      "scriptContext": "Sheldon: Oh. I hadn’t considered that. I suppose she will have to have access to our progeny. And you don’t think I can achieve the required intimacy via text messaging?",
+      "scriptContextTranslation": "Sheldon: ああ。それは考えてなかった。彼女は僕らの子孫にアクセスする必要があるのか。必要な親密さをテキストメッセージで達成できるとは思わない？"
     },
     {
       "id": 50,
@@ -598,7 +794,11 @@
         "妨げる"
       ],
       "correctAnswer": "達成する",
-      "explanation": "「achieve」は、「達成する」「成し遂げる」という意味です。ここでは、テキストメッセージで親密さを達成できるかどうかを疑問に思っています。Example: They achieved great success in their business. (彼らはビジネスで大きな成功を収めた。)"
+      "explanation": "「achieve」は、「達成する」「成し遂げる」という意味です。ここでは、テキストメッセージで親密さを達成できるかどうかを疑問に思っています。Example: They achieved great success in their business. (彼らはビジネスで大きな成功を収めた。)",
+      "etymology": "古フランス語の「achever(終える)」に由来し、目標などを達成する、成し遂げるという意味を持ちます。",
+      "pronounciation": "/əˈtʃiːv/",
+      "scriptContext": "Sheldon: Oh. I hadn’t considered that. I suppose she will have to have access to our progeny. And you don’t think I can achieve the required intimacy via text messaging?",
+      "scriptContextTranslation": "Sheldon: ああ。それは考えてなかった。彼女は僕らの子孫にアクセスする必要があるのか。必要な親密さをテキストメッセージで達成できるとは思わない？"
     },
     {
       "id": 51,
@@ -610,7 +810,11 @@
         "その考えを共有する"
       ],
       "correctAnswer": "その考えを保留する",
-      "explanation": "「Hold that thought」は、話の流れを一時的に中断し、後でその話題に戻ることを示唆する際に使われる表現です。電話に出たり、別のことに気を取られたりしたときに、相手に「ちょっと待ってて、後でまたその話をしよう」というニュアンスを伝えることができます。"
+      "explanation": "「Hold that thought」は、話の流れを一時的に中断し、後でその話題に戻ることを示唆する際に使われる表現です。電話に出たり、別のことに気を取られたりしたときに、相手に「ちょっと待ってて、後でまたその話をしよう」というニュアンスを伝えることができます。",
+      "etymology": "直訳すると「その考えを保留する」となり、会話を中断して後でその話題に戻ることを示唆する際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Leonard (phone rings): Hold that thought. Hey, Howard, what’s going on? What? Hold on, Howard, Howard, slow down. The robot hand is stuck on your what? (To Raj) You’re not going to believe this.",
+      "scriptContextTranslation": "Leonard(電話が鳴る): ちょっと待って。もしもし、ハワード、どうしたんだ？何？落ち着け、ハワード、ゆっくり話せ。ロボットハンドがどこに挟まってるって？(ラージに)信じられないだろ。"
     },
     {
       "id": 52,
@@ -622,7 +826,11 @@
         "取るに足らないこと"
       ],
       "correctAnswer": "漠然とした何か",
-      "explanation": "「something-or-other」は、正確な名前や詳細が思い出せない、または重要でないときに使われる表現です。「何とかいうもの」「あれやこれや」といった意味合いで、あいまいさを表します。"
+      "explanation": "「something-or-other」は、正確な名前や詳細が思い出せない、または重要でないときに使われる表現です。「何とかいうもの」「あれやこれや」といった意味合いで、あいまいさを表します。",
+      "etymology": "正確な名前や詳細が思い出せない、または重要でないときに使われる表現で、「何とかいうもの」「あれやこれや」といった意味合いを持ちます。",
+      "pronounciation": "",
+      "scriptContext": "Penny: So, um, Amy, Sheldon tells me you’re a neuro something-or-other.",
+      "scriptContextTranslation": "Penny: ええと、エイミー、シェルドンからあなたはニューロなんとかだって聞いたんだけど。"
     },
     {
       "id": 53,
@@ -634,7 +842,11 @@
         "革新的なアイデアを追求する"
       ],
       "correctAnswer": "無意味な戦いをする",
-      "explanation": "「Tilting at windmills」は、無意味で非現実的な戦いをする、または不可能な目標に挑戦することを意味するイディオムです。ミゲル・デ・セルバンテスの小説『ドン・キホーテ』で、主人公が風車を怪物と勘違いして戦いを挑んだことに由来します。無駄な努力や見当違いな行動を批判的に表現する際に用いられます。"
+      "explanation": "「Tilting at windmills」は、無意味で非現実的な戦いをする、または不可能な目標に挑戦することを意味するイディオムです。ミゲル・デ・セルバンテスの小説『ドン・キホーテ』で、主人公が風車を怪物と勘違いして戦いを挑んだことに由来します。無駄な努力や見当違いな行動を批判的に表現する際に用いられます。",
+      "etymology": "ミゲル・デ・セルバンテスの小説『ドン・キホーテ』で、主人公が風車を怪物と勘違いして戦いを挑んだことに由来するイディオムで、無意味で非現実的な戦いをする、または不可能な目標に挑戦することを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 54,
@@ -646,7 +858,11 @@
         "〜はどうですか"
       ],
       "correctAnswer": "〜はどうですか",
-      "explanation": "「How about」は提案や勧誘をする際に使われる口語的な表現です。「〜はどうですか」「〜しませんか」という意味で、相手に何かを提案したり、一緒に何かをすることを促したりする際に用いられます。例えば、「How about some coffee?（コーヒーでもどうですか？）」のように使います。"
+      "explanation": "「How about」は提案や勧誘をする際に使われる口語的な表現です。「〜はどうですか」「〜しませんか」という意味で、相手に何かを提案したり、一緒に何かをすることを促したりする際に用いられます。例えば、「How about some coffee?（コーヒーでもどうですか？）」のように使います。",
+      "etymology": "「How about」の口語的な短縮形で、提案や勧誘をする際に使われます。「〜はどうですか」「〜しませんか」という意味で、相手に何かを提案したり、一緒に何かをすることを促したりする際に用いられます。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 55,
@@ -658,7 +874,11 @@
         "結論を出す"
       ],
       "correctAnswer": "詳細を尋ねる",
-      "explanation": "「Follow up」は、元の発言や行動に追加の質問やコメントをすることを意味します。会話の流れを深めたり、より詳しい情報を得るために使われます。「追跡調査」「追加の行動」といった意味合いも持ちます。"
+      "explanation": "「Follow up」は、元の発言や行動に追加の質問やコメントをすることを意味します。会話の流れを深めたり、より詳しい情報を得るために使われます。「追跡調査」「追加の行動」といった意味合いも持ちます。",
+      "etymology": "元の発言や行動に追加の質問やコメントをすることを意味します。会話の流れを深めたり、より詳しい情報を得るために使われます。「追跡調査」「追加の行動」といった意味合いも持ちます。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Any follow up, Amy?",
+      "scriptContextTranslation": "Penny: 何か付け加えることある？、エイミー。"
     },
     {
       "id": 56,
@@ -670,7 +890,11 @@
         "違法薬物製造所"
       ],
       "correctAnswer": "違法薬物製造所",
-      "explanation": "「Meth labs」は、メタンフェタミン（覚せい剤）を違法に製造する場所を指します。アメリカの地方や田舎で問題となることが多く、危険な化学物質や爆発のリスクを伴います。"
+      "explanation": "「Meth labs」は、メタンフェタミン（覚せい剤）を違法に製造する場所を指します。アメリカの地方や田舎で問題となることが多く、危険な化学物質や爆発のリスクを伴います。",
+      "etymology": "methamphetamine labsの略で、メタンフェタミン（覚せい剤）を違法に製造する場所を指します。",
+      "pronounciation": "",
+      "scriptContext": "Penny: I myself grew up in Nebraska. Small town outside of Omaha. You know, nice place, mostly family farms, a few meth labs.",
+      "scriptContextTranslation": "Penny: 私はネブラスカで育ったの。オマハ郊外の小さな町。素敵な場所よ。ほとんどが家族経営の農場で、いくつか覚せい剤製造所があるの。"
     },
     {
       "id": 57,
@@ -682,7 +906,11 @@
         "穏やかな抱擁"
       ],
       "correctAnswer": "非常に強い握力",
-      "explanation": "「Death grip」は、非常に強く、逃れられない握り方を指します。比喩的に、何かから逃れることが不可能な状況や、非常に強力な影響力を持つ状態を表すためにも使用されます。"
+      "explanation": "「Death grip」は、非常に強く、逃れられない握り方を指します。比喩的に、何かから逃れることが不可能な状況や、非常に強力な影響力を持つ状態を表すためにも使用されます。",
+      "etymology": "非常に強く、逃れられない握り方を指します。比喩的に、何かから逃れることが不可能な状況や、非常に強力な影響力を持つ状態を表すためにも使用されます。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Really? A robot hand’s got a death grip on your junk, dude. That’s funny, ask anyone.",
+      "scriptContextTranslation": "Raj: マジで？ロボットハンドが股間を死ぬほど掴んでるんだぞ。めっちゃ面白いだろ、誰に聞いてもそう言うって。"
     },
     {
       "id": 58,
@@ -694,7 +922,11 @@
         "男性器"
       ],
       "correctAnswer": "男性器",
-      "explanation": "俗語として男性器を指します。ここではロボットハンドがHowardの男性器を掴んでいる状況なのでこの意味になります。"
+      "explanation": "俗語として男性器を指します。ここではロボットハンドがHowardの男性器を掴んでいる状況なのでこの意味になります。",
+      "etymology": "元々は「がらくた」という意味ですが、ここでは俗語として男性器を指します。",
+      "pronounciation": "/dʒʌŋk/",
+      "scriptContext": "Raj: Really? A robot hand’s got a death grip on your junk, dude. That’s funny, ask anyone.",
+      "scriptContextTranslation": "Raj: マジで？ロボットハンドが股間を死ぬほど掴んでるんだぞ。めっちゃ面白いだろ、誰に聞いてもそう言うって。"
     },
     {
       "id": 59,
@@ -706,7 +938,11 @@
         "アップロードされた"
       ],
       "correctAnswer": "アップロードされた",
-      "explanation": "ここでは、プログラムがロボットハンドに読み込まれた（アップロードされた）状態を指します。Loadedの基本的な意味は「積まれた」ですが、文脈によって意味が変わります。"
+      "explanation": "ここでは、プログラムがロボットハンドに読み込まれた（アップロードされた）状態を指します。Loadedの基本的な意味は「積まれた」ですが、文脈によって意味が変わります。",
+      "etymology": "「load（積む、読み込む）」の過去分詞形で、ここではプログラムがロボットハンドに読み込まれた（アップロードされた）状態を指します。",
+      "pronounciation": "/ˈloʊdɪd/",
+      "scriptContext": "Howard: No, no! I loaded the wrong program. The hand thinks it’s holding a screwdriver in outer space. If you continue the program, it’s gonna start twisting.",
+      "scriptContextTranslation": "Howard: ダメだ、ダメだ！間違ったプログラムをロードしたんだ。ハンドは宇宙でドライバーを持っていると思ってる。プログラムを再開したら、ねじり始めるぞ。"
     },
     {
       "id": 60,
@@ -718,7 +954,11 @@
         "これは関係ない"
       ],
       "correctAnswer": "これはどうですか",
-      "explanation": "「How about this」は、新しい提案やアイデアを提示する際に使われる表現です。代替案や別の解決策を示唆する際に用いられます。類似の表現に「What about this」があります。"
+      "explanation": "「How about this」は、新しい提案やアイデアを提示する際に使われる表現です。代替案や別の解決策を示唆する際に用いられます。類似の表現に「What about this」があります。",
+      "etymology": "新しい提案やアイデアを提示する際に使われる表現です。代替案や別の解決策を示唆する際に用いられます。",
+      "pronounciation": "",
+      "scriptContext": "Raj: A-All right, um, how about this. When, when Winnie the Pooh got his head stuck in the honey tree, his friends all grabbed onto him and pulled and pulled.",
+      "scriptContextTranslation": "Raj: あ、わかった。えーと、こうしたらどうだろう。くまのプーさんがハチミツの木に頭が挟まった時、友達がみんな彼につかまって引っ張ったんだ。"
     },
     {
       "id": 61,
@@ -730,7 +970,11 @@
         "解放した"
       ],
       "correctAnswer": "掴んだ",
-      "explanation": "「Grab onto」は、何かにしっかりと掴まる、またはしがみつくという意味です。物理的に何かを掴むだけでなく、比喩的に機会や考え方を積極的に受け入れるという意味でも使われます。"
+      "explanation": "「Grab onto」は、何かにしっかりと掴まる、またはしがみつくという意味です。物理的に何かを掴むだけでなく、比喩的に機会や考え方を積極的に受け入れるという意味でも使われます。",
+      "etymology": "何かにしっかりと掴まる、またはしがみつくという意味です。物理的に何かを掴むだけでなく、比喩的に機会や考え方を積極的に受け入れるという意味でも使われます。",
+      "pronounciation": "",
+      "scriptContext": "Raj: A-All right, um, how about this. When, when Winnie the Pooh got his head stuck in the honey tree, his friends all grabbed onto him and pulled and pulled.",
+      "scriptContextTranslation": "Raj: あ、わかった。えーと、こうしたらどうだろう。くまのプーさんがハチミツの木に頭が挟まった時、友達がみんな彼につかまって引っ張ったんだ。"
     },
     {
       "id": 62,
@@ -742,7 +986,11 @@
         "貴重な資源"
       ],
       "correctAnswer": "危険な場所",
-      "explanation": "この文脈では、Winnie the Poohが頭を挟まれた木のことを指していますが、比喩的に「問題のある状況」「抜け出せない状況」を意味することがあります。ここでは、Howardのデリケートな部分がロボットハンドに挟まっている状況を指しています。"
+      "explanation": "この文脈では、Winnie the Poohが頭を挟まれた木のことを指していますが、比喩的に「問題のある状況」「抜け出せない状況」を意味することがあります。ここでは、Howardのデリケートな部分がロボットハンドに挟まっている状況を指しています。",
+      "etymology": "この文脈では、クマのプーさんが蜂蜜を取ろうとして頭を挟まれた木のことを指しています。比喩的に「危険な場所」「問題のある状況」を意味することがあります。",
+      "pronounciation": "",
+      "scriptContext": "Raj: A-All right, um, how about this. When, when Winnie the Pooh got his head stuck in the honey tree, his friends all grabbed onto him and pulled and pulled.",
+      "scriptContextTranslation": "Raj: あ、わかった。えーと、こうしたらどうだろう。くまのプーさんがハチミツの木に頭が挟まった時、友達がみんな彼につかまって引っ張ったんだ。"
     },
     {
       "id": 63,
@@ -754,7 +1002,11 @@
         "治療"
       ],
       "correctAnswer": "割礼",
-      "explanation": "「Circumcision」は、男性の包皮を切除する手術を指します。宗教的、文化的、または医学的な理由で行われます。ここでは、Howardが過去に割礼を受けた経験から、切断されることへの恐怖を表現しています。"
+      "explanation": "「Circumcision」は、男性の包皮を切除する手術を指します。宗教的、文化的、または医学的な理由で行われます。ここでは、Howardが過去に割礼を受けた経験から、切断されることへの恐怖を表現しています。",
+      "etymology": "ラテン語の「circumcidere（周囲を切り取る）」に由来し、男性の包皮を切除する手術を指します。",
+      "pronounciation": "/ˌsɜːrkəmˈsɪʒən/",
+      "scriptContext": "Howard: What? No saws! One circumcision was enough.",
+      "scriptContextTranslation": "Howard: 何？ノコギリはダメだ！包茎手術は一度で十分だ。"
     },
     {
       "id": 64,
@@ -766,7 +1018,11 @@
         "アセチレンろうそく"
       ],
       "correctAnswer": "アセチレンバーナー",
-      "explanation": "「Acetylene torch」は、アセチレンガスと酸素を混合して高温の炎を発生させる溶接や切断に使用するバーナーです。非常に高温であるため、取り扱いには注意が必要です。ここでは、Howardの状況を脱するために、極端な手段として提案されています。"
+      "explanation": "「Acetylene torch」は、アセチレンガスと酸素を混合して高温の炎を発生させる溶接や切断に使用するバーナーです。非常に高温であるため、取り扱いには注意が必要です。ここでは、Howardの状況を脱するために、極端な手段として提案されています。",
+      "etymology": "アセチレンガスと酸素を混合して高温の炎を発生させる溶接や切断に使用するバーナーです。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: How about an acetylene torch?",
+      "scriptContextTranslation": "Leonard: アセチレントーチはどうだ？"
     },
     {
       "id": 65,
@@ -778,7 +1034,11 @@
         "興味がない"
       ],
       "correctAnswer": "恥ずかしいと思う",
-      "explanation": "「Ashamed of」は、自分の行動や状況、または他人との関係について恥ずかしいと感じることを意味します。ここでは、Howardが母親の行動を恥ずかしいと思っていることを表しています。"
+      "explanation": "「Ashamed of」は、自分の行動や状況、または他人との関係について恥ずかしいと感じることを意味します。ここでは、Howardが母親の行動を恥ずかしいと思っていることを表しています。",
+      "etymology": "自分の行動や状況、または他人との関係について恥ずかしいと感じることを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Mrs Wolowitz (off): Why not?! Are you ashamed of your mother?!",
+      "scriptContextTranslation": "Mrs Wolowitz (声のみ): どうしてよ？！お母さんが恥ずかしいの？！"
     },
     {
       "id": 66,
@@ -790,7 +1050,11 @@
         "沈黙の時間"
       ],
       "correctAnswer": "会話の話題",
-      "explanation": "「Topic of conversation」は、会話の中で議論される主題やテーマを指します。人々が意見を交換したり、情報を共有したりする際の中心となる事柄です。会話を円滑に進めるために、共通の関心事や興味深い話題を選ぶことが重要です。"
+      "explanation": "「Topic of conversation」は、会話の中で議論される主題やテーマを指します。人々が意見を交換したり、情報を共有したりする際の中心となる事柄です。会話を円滑に進めるために、共通の関心事や興味深い話題を選ぶことが重要です。",
+      "etymology": "会話の中で議論される主題やテーマを指します。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Hey, here’s another possible topic of conversation. This is a big night for Sheldon. Right, Sheldon?",
+      "scriptContextTranslation": "Penny: ねえ、他に話せる話題があるわ。今夜はシェルドンにとって大切な夜なの。そうでしょ、シェルドン？"
     },
     {
       "id": 67,
@@ -802,7 +1066,11 @@
         "冬至"
       ],
       "correctAnswer": "冬至",
-      "explanation": "「Winter solstice」は、北半球で一年中で昼が最も短い日を指します。通常12月21日または22日に起こり、この日を境に日が長くなっていきます。天文学的、文化的に重要な意味を持つ日です。"
+      "explanation": "「Winter solstice」は、北半球で一年中で昼が最も短い日を指します。通常12月21日または22日に起こり、この日を境に日が長くなっていきます。天文学的、文化的に重要な意味を持つ日です。",
+      "etymology": "太陽が一年で最も低い位置に来る日で、北半球では昼が最も短い日です。",
+      "pronounciation": "/ˈwɪntər ˈsɒlstɪs/",
+      "scriptContext": "Sheldon: Big night? The winter solstice is a big night. It’s over 14 hours in Southern California.",
+      "scriptContextTranslation": "Sheldon: 大切な夜？冬至こそ大切な夜だ。南カリフォルニアでは14時間以上ある。"
     },
     {
       "id": 68,
@@ -814,7 +1082,11 @@
         "些細な情報"
       ],
       "correctAnswer": "些細な情報",
-      "explanation": "「Factoid」は、一見事実のように見えるが、実際には不正確または検証されていない短い情報のことを指します。または、面白おかしく、しかし重要ではない事実を指すこともあります。ここでは、Sheldonが冬至について述べた情報が、会話の流れとは関係のない些細な情報であることをPennyが示唆しています。"
+      "explanation": "「Factoid」は、一見事実のように見えるが、実際には不正確または検証されていない短い情報のことを指します。または、面白おかしく、しかし重要ではない事実を指すこともあります。ここでは、Sheldonが冬至について述べた情報が、会話の流れとは関係のない些細な情報であることをPennyが示唆しています。",
+      "etymology": "「fact（事実）」と「-oid（〜のようなもの）」を組み合わせた言葉で、一見事実のように見えるが、実際には不正確または検証されていない短い情報のことを指します。",
+      "pronounciation": "/ˈfæktɔɪd/",
+      "scriptContext": "Amy: That’s an amusing factoid.",
+      "scriptContextTranslation": "Amy: それは面白い豆知識ね。"
     },
     {
       "id": 69,
@@ -826,7 +1098,11 @@
         "精神科医"
       ],
       "correctAnswer": "神経科学者",
-      "explanation": "「Neurobiologist」は神経生物学者を意味します。神経系、脳、および神経細胞の生物学的研究を行う科学者です。"
+      "explanation": "「Neurobiologist」は神経生物学者を意味します。神経系、脳、および神経細胞の生物学的研究を行う科学者です。",
+      "etymology": "神経（neuro-）と生物学（biology）を組み合わせた言葉で、神経系の生物学的研究を行う科学者を指します。",
+      "pronounciation": "/ˌnjʊərəʊbaɪˈɒlədʒɪst/",
+      "scriptContext": "Amy: Neurobiologist. Your check engine light is on.",
+      "scriptContextTranslation": "Amy: 神経生物学者よ。エンジンの警告灯が点いてるわ。"
     },
     {
       "id": 70,
@@ -838,7 +1114,11 @@
         "バックランプ"
       ],
       "correctAnswer": "エンジン警告灯",
-      "explanation": "「Check engine light」は、自動車のエンジン制御システムに異常が発生した場合に点灯する警告灯です。排気ガス問題など、様々な原因が考えられます。"
+      "explanation": "「Check engine light」は、自動車のエンジン制御システムに異常が発生した場合に点灯する警告灯です。排気ガス問題など、様々な原因が考えられます。",
+      "etymology": "自動車のエンジン制御システムに異常が発生した場合に点灯する警告灯です。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Neurobiologist. Your check engine light is on.",
+      "scriptContextTranslation": "Amy: 神経生物学者よ。エンジンの警告灯が点いてるわ。"
     },
     {
       "id": 71,
@@ -850,7 +1130,11 @@
         "手伝って"
       ],
       "correctAnswer": "気にしないで",
-      "explanation": "「Don’t bother」は、相手に何かをする必要がない、または無駄であることを伝える際に使われる表現です。「気にしないで」「構わないで」という意味合いで、相手の労力や時間を無駄にさせたくないときに用いられます。"
+      "explanation": "「Don’t bother」は、相手に何かをする必要がない、または無駄であることを伝える際に使われる表現です。「気にしないで」「構わないで」という意味合いで、相手の労力や時間を無駄にさせたくないときに用いられます。",
+      "etymology": "相手に何かをする必要がない、または無駄であることを伝える際に使われる表現です。「気にしないで」「構わないで」という意味合いで、相手の労力や時間を無駄にさせたくないときに用いられます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Don’t bother. I’ve wasted many an hour tilting at that particular windmill.",
+      "scriptContextTranslation": "Sheldon: 気にするな。俺は何時間もあの風車に無駄な時間を費やした。"
     },
     {
       "id": 72,
@@ -862,7 +1146,11 @@
         "健康な頭皮"
       ],
       "correctAnswer": "乾燥した頭皮",
-      "explanation": "「Dry scalp」は、頭皮が乾燥している状態を指します。かゆみ、フケ、炎症などの症状を引き起こすことがあります。保湿ケアや適切なシャンプーの使用が重要です。"
+      "explanation": "「Dry scalp」は、頭皮が乾燥している状態を指します。かゆみ、フケ、炎症などの症状を引き起こすことがあります。保湿ケアや適切なシャンプーの使用が重要です。",
+      "etymology": "頭皮が乾燥している状態を指します。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Dandruff shampoo. I have dry scalp.",
+      "scriptContextTranslation": "Amy:  dandruffシャンプーよ。フケ症なの。"
     },
     {
       "id": 73,
@@ -874,7 +1162,11 @@
         "喜ばしい"
       ],
       "correctAnswer": "喜ばしい",
-      "explanation": "「Flattered」は、褒められたり、好意的な評価を受けたりして、嬉しく感じている状態を表します。「おだてられた」「喜ばされた」という意味合いで、相手の言葉や行為に感謝している気持ちを示す際に用いられます。"
+      "explanation": "「Flattered」は、褒められたり、好意的な評価を受けたりして、嬉しく感じている状態を表します。「おだてられた」「喜ばされた」という意味合いで、相手の言葉や行為に感謝している気持ちを示す際に用いられます。",
+      "etymology": "褒められたり、好意的な評価を受けたりして、嬉しく感じている状態を表します。「おだてられた」「喜ばされた」という意味合いで、相手の言葉や行為に感謝している気持ちを示す際に用いられます。",
+      "pronounciation": "/ˈflætərd/",
+      "scriptContext": "Amy: Hmm. Would have been more flattered if you were a homosexual.",
+      "scriptContextTranslation": "Amy: ふむ。あなたが同性愛者なら、もっと嬉しかったのに。"
     },
     {
       "id": 74,
@@ -886,7 +1178,11 @@
         "衰退する"
       ],
       "correctAnswer": "成長する",
-      "explanation": "「Growing up」は、子供から大人になる過程、つまり成長することを意味します。身体的な成長だけでなく、精神的な成熟や経験を積むことも含みます。幼少期から青年期にかけての期間を指すことが多いです。"
+      "explanation": "「Growing up」は、子供から大人になる過程、つまり成長することを意味します。身体的な成長だけでなく、精神的な成熟や経験を積むことも含みます。幼少期から青年期にかけての期間を指すことが多いです。",
+      "etymology": "子供から大人になる過程、つまり成長することを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Okay. Uncomfortable silence it is. Hey, Sheldon, have you told Amy what it was like for you growing up in Texas?",
+      "scriptContextTranslation": "Penny: わかった。気まずい沈黙ね。ねえ、シェルドン、エイミーにテキサスで育った時のことを話した？"
     },
     {
       "id": 75,
@@ -898,7 +1194,11 @@
         "至福"
       ],
       "correctAnswer": "地獄",
-      "explanation": "「Hell」は、苦しみや困難に満ちた場所、または状況を指します。比喩的に、非常に不快な経験や状況を表すために使用されます。ここでは、Sheldonがテキサスでの子供時代を非常に辛いものだったと表現しています。"
+      "explanation": "「Hell」は、苦しみや困難に満ちた場所、または状況を指します。比喩的に、非常に不快な経験や状況を表すために使用されます。ここでは、Sheldonがテキサスでの子供時代を非常に辛いものだったと表現しています。",
+      "etymology": "ゲルマン祖語の「helan（隠す）」に由来し、苦しみや困難に満ちた場所、または状況を指します。",
+      "pronounciation": "/hel/",
+      "scriptContext": "Sheldon: All right. It was hell.",
+      "scriptContextTranslation": "Sheldon: わかった。地獄だった。"
     },
     {
       "id": 76,
@@ -910,7 +1210,11 @@
         "半分友好的な"
       ],
       "correctAnswer": "半分近親相姦の",
-      "explanation": "「semi-incestuous」は、完全な近親相姦ではないものの、それに近い関係や状況を指します。ここでは、皮肉を込めて、親密すぎるイベントを表現するために使われています。"
+      "explanation": "「semi-incestuous」は、完全な近親相姦ではないものの、それに近い関係や状況を指します。ここでは、皮肉を込めて、親密すぎるイベントを表現するために使われています。",
+      "etymology": "「semi-（半分）」と「incestuous（近親相姦の）」を組み合わせた言葉で、完全な近親相姦ではないものの、それに近い関係や状況を指します。",
+      "pronounciation": "/ˌsɛmi ɪnˈsɛstʃuəs/",
+      "scriptContext": "Sheldon: Apparently, a semi-incestuous Teens for Jesus Fourth of July Hoedown didn’t count.",
+      "scriptContextTranslation": "Sheldon: どうやら、イエス・キリストを支持するティーンによる、準近親相姦的な独立記念日の騒ぎはカウントされないらしい。"
     },
     {
       "id": 77,
@@ -922,7 +1226,11 @@
         "料理教室"
       ],
       "correctAnswer": "ダンスパーティー",
-      "explanation": "「hoedown」は、特にアメリカの田舎で行われる、活気のあるダンスパーティーや集まりを指します。フォーク音楽やカントリー音楽に合わせて踊ることが多いです。"
+      "explanation": "「hoedown」は、特にアメリカの田舎で行われる、活気のあるダンスパーティーや集まりを指します。フォーク音楽やカントリー音楽に合わせて踊ることが多いです。",
+      "etymology": "特にアメリカの田舎で行われる、活気のあるダンスパーティーや集まりを指します。",
+      "pronounciation": "/ˈhoʊdaʊn/",
+      "scriptContext": "Sheldon: That depends. Does square-dancing with my sister at a Teens for Jesus Fourth of July Hoedown count as a date?",
+      "scriptContextTranslation": "Sheldon: それによるな。僕の妹と「ジーザスのためのティーンエイジャー」の独立記念日のホーダウンでスクエアダンスをしたことはデートに入るか？"
     },
     {
       "id": 78,
@@ -934,7 +1242,11 @@
         "味を混ぜる"
       ],
       "correctAnswer": "味を閉じ込める",
-      "explanation": "「seal in the flavour」は、食品を調理する際に、その食品の風味や旨味を逃がさないようにすることを意味します。通常、高温で表面を焼き固めるなどの方法が用いられます。"
+      "explanation": "「seal in the flavour」は、食品を調理する際に、その食品の風味や旨味を逃がさないようにすることを意味します。通常、高温で表面を焼き固めるなどの方法が用いられます。",
+      "etymology": "食品を調理する際に、その食品の風味や旨味を逃がさないようにすることを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 79,
@@ -946,7 +1258,11 @@
         "脚色"
       ],
       "correctAnswer": "外挿",
-      "explanation": "「extrapolation」は、既知のデータに基づいて、未知のデータや将来の傾向を推定することです。統計学や予測分析でよく用いられます。"
+      "explanation": "「extrapolation」は、既知のデータに基づいて、未知のデータや将来の傾向を推定することです。統計学や予測分析でよく用いられます。",
+      "etymology": "ラテン語の「extra-（外へ）」と「polare（磨く）」を組み合わせた言葉で、既知のデータに基づいて、未知のデータや将来の傾向を推定することを意味します。",
+      "pronounciation": "/ɪkˌstræpəˈleɪʃən/",
+      "scriptContext": "Sheldon: Simple extrapolation. In the three years that I’ve known you, you were single for two. During that time, I saw 17 different suitors. If we work backwards, correcting for observation bias and postulate an initial dating age of 15…",
+      "scriptContextTranslation": "Sheldon: 単純な推測だよ。君と知り合って3年間で、君は2年間独身だった。その間、私は17人の求婚者を見た。それを逆算して、観察バイアスを修正し、最初のデート年齢を15歳と仮定すると…"
     },
     {
       "id": 80,
@@ -958,7 +1274,11 @@
         "正常性バイアス"
       ],
       "correctAnswer": "観察バイアス",
-      "explanation": "「observation bias」は、観察者が特定の事象や対象に注意を向けやすく、それ以外のものを見落としがちな傾向を指します。研究やデータ分析において、結果に偏りが生じる原因となります。"
+      "explanation": "「observation bias」は、観察者が特定の事象や対象に注意を向けやすく、それ以外のものを見落としがちな傾向を指します。研究やデータ分析において、結果に偏りが生じる原因となります。",
+      "etymology": "観察者が特定の事象や対象に注意を向けやすく、それ以外のものを見落としがちな傾向を指します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Simple extrapolation. In the three years that I’ve known you, you were single for two. During that time, I saw 17 different suitors. If we work backwards, correcting for observation bias and postulate an initial dating age of 15…",
+      "scriptContextTranslation": "Sheldon: 単純な推測だよ。君と知り合って3年間で、君は2年間独身だった。その間、私は17人の求婚者を見た。それを逆算して、観察バイアスを修正し、最初のデート年齢を15歳と仮定すると…"
     },
     {
       "id": 81,
@@ -970,7 +1290,11 @@
         "軽視する"
       ],
       "correctAnswer": "仮定する",
-      "explanation": "「postulate」は、議論や理論の基礎として、真実であると仮定する命題や前提を指します。証明なしに受け入れられることが多いです。"
+      "explanation": "「postulate」は、議論や理論の基礎として、真実であると仮定する命題や前提を指します。証明なしに受け入れられることが多いです。",
+      "etymology": "ラテン語の「postulare（要求する）」に由来し、議論や理論の基礎として、真実であると仮定する命題や前提を指します。",
+      "pronounciation": "/ˈpɒstjʊleɪt/",
+      "scriptContext": "Sheldon: Simple extrapolation. In the three years that I’ve known you, you were single for two. During that time, I saw 17 different suitors. If we work backwards, correcting for observation bias and postulate an initial dating age of 15…",
+      "scriptContextTranslation": "Sheldon: 単純な推測だよ。君と知り合って3年間で、君は2年間独身だった。その間、私は17人の求婚者を見た。それを逆算して、観察バイアスを修正し、最初のデート年齢を15歳と仮定すると…"
     },
     {
       "id": 82,
@@ -982,7 +1306,11 @@
         "階段状グラフ"
       ],
       "correctAnswer": "ベルカーブ",
-      "explanation": "「bell curve」は、正規分布を示すグラフの形状を指します。平均値付近にデータが集中し、左右対称の釣鐘型をしています。"
+      "explanation": "「bell curve」は、正規分布を示すグラフの形状を指します。平均値付近にデータが集中し、左右対称の釣鐘型をしています。",
+      "etymology": "正規分布を示すグラフの形状が、鐘（bell）に似ていることから名付けられました。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: My mistake. Now, assuming the left side of a bell curve peaking around the present, that would bring the total up to 193 men. Plus or minus eight men.",
+      "scriptContextTranslation": "Sheldon: 失礼。現在を中心にピークを持つベルカーブの左側を仮定すると、合計は193人になる。プラスマイナス8人。"
     },
     {
       "id": 83,
@@ -994,7 +1322,11 @@
         "停滞して"
       ],
       "correctAnswer": "頂点に達して",
-      "explanation": "「peaking around」は、ある時点または時期に最高点または最大値に達することを意味します。ここでは、ペニーのデートの頻度が現在を中心にピークを迎えていることを示唆しています。"
+      "explanation": "「peaking around」は、ある時点または時期に最高点または最大値に達することを意味します。ここでは、ペニーのデートの頻度が現在を中心にピークを迎えていることを示唆しています。",
+      "etymology": "ある時点または時期に最高点または最大値に達することを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: My mistake. Now, assuming the left side of a bell curve peaking around the present, that would bring the total up to 193 men. Plus or minus eight men.",
+      "scriptContextTranslation": "Sheldon: 失礼。現在を中心にピークを持つベルカーブの左側を仮定すると、合計は193人になる。プラスマイナス8人。"
     },
     {
       "id": 84,
@@ -1006,7 +1338,11 @@
         "些細な出来事"
       ],
       "correctAnswer": "気まずい出会い",
-      "explanation": "「awkward encounters」は、不快またはぎこちない状況での出会いを指します。ここでは、ペニーのアパートから出てくる見知らぬ男性との遭遇を指しています。"
+      "explanation": "「awkward encounters」は、不快またはぎこちない状況での出会いを指します。ここでは、ペニーのアパートから出てくる見知らぬ男性との遭遇を指しています。",
+      "etymology": "不快またはぎこちない状況での出会いを指します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Based on the number of awkward encounters I’ve had with strange men leaving her apartment in the morning, plus the number of times she’s returned home wearing the same clothes she wore the night before…",
+      "scriptContextTranslation": "Sheldon: 朝に彼女のアパートから出てくる見知らぬ男たちと遭遇した気まずい回数と、前夜と同じ服を着て帰ってきた回数に基づいて…"
     },
     {
       "id": 85,
@@ -1018,7 +1354,11 @@
         "文化の盗用"
       ],
       "correctAnswer": "文化的認識",
-      "explanation": "「cultural perceptions」は、ある文化における人々の考え方や感じ方、価値観などを指します。ここでは、性的な事柄に対する文化的な捉え方の違いについて議論されています。"
+      "explanation": "「cultural perceptions」は、ある文化における人々の考え方や感じ方、価値観などを指します。ここでは、性的な事柄に対する文化的な捉え方の違いについて議論されています。",
+      "etymology": "ある文化における人々の考え方や感じ方、価値観などを指します。",
+      "pronounciation": "",
+      "scriptContext": "Amy: This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?",
+      "scriptContextTranslation": "Amy: とても興味深いわ。文化的認識は主観的なものだから。ペニー、あなたは自分が尻軽だと思う？"
     },
     {
       "id": 86,
@@ -1030,7 +1370,11 @@
         "相対的"
       ],
       "correctAnswer": "主観的",
-      "explanation": "「subjective」は、個人の感情や意見に基づいていることを意味します。客観（objective）の反対です。"
+      "explanation": "「subjective」は、個人の感情や意見に基づいていることを意味します。客観（objective）の反対です。",
+      "etymology": "ラテン語の「subiectus（下に置かれた）」に由来し、個人の感情や意見に基づいていることを意味します。",
+      "pronounciation": "/səbˈdʒektɪv/",
+      "scriptContext": "Amy: This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?",
+      "scriptContextTranslation": "Amy: とても興味深いわ。文化的認識は主観的なものだから。ペニー、あなたは自分が尻軽だと思う？"
     },
     {
       "id": 87,
@@ -1042,7 +1386,11 @@
         "正直者"
       ],
       "correctAnswer": "色情魔",
-      "explanation": "「slut」は、性的に奔放な女性を指す侮蔑的な言葉です。非常に不快な言葉であり、使用には注意が必要です。"
+      "explanation": "「slut」は、性的に奔放な女性を指す侮蔑的な言葉です。非常に不快な言葉であり、使用には注意が必要です。",
+      "etymology": "語源ははっきりしていませんが、性的に奔放な女性を指す侮蔑的な言葉です。",
+      "pronounciation": "/slʌt/",
+      "scriptContext": "Amy: This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?",
+      "scriptContextTranslation": "Amy: とても興味深いわ。文化的認識は主観的なものだから。ペニー、あなたは自分が尻軽だと思う？"
     },
     {
       "id": 88,
@@ -1054,7 +1402,11 @@
         "記憶中枢"
       ],
       "correctAnswer": "快楽中枢",
-      "explanation": "「pleasure centres」は、脳内で快感や幸福感を生み出す特定の部位を指します。これらの部位を刺激することで、快楽を得ることができます。"
+      "explanation": "「pleasure centres」は、脳内で快感や幸福感を生み出す特定の部位を指します。これらの部位を刺激することで、快楽を得ることができます。",
+      "etymology": "脳内で快感や幸福感を生み出す特定の部位を指します。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Does volunteering for a scientific experiment in which orgasm was achieved by electronically stimulating the pleasure centres of the brain count?",
+      "scriptContextTranslation": "Amy: 脳の快楽中枢を電子的に刺激してオーガズムに達する科学実験にボランティアで参加した場合はカウントされる？"
     },
     {
       "id": 89,
@@ -1066,7 +1418,11 @@
         "拒否する"
       ],
       "correctAnswer": "掴む",
-      "explanation": "「grasping」は、しっかりと掴む、握るという意味です。ここでは、ロボットアームが男性のペニスを掴んでいる状態を表しています。"
+      "explanation": "「grasping」は、しっかりと掴む、握るという意味です。ここでは、ロボットアームが男性のペニスを掴んでいる状態を表しています。",
+      "etymology": "しっかりと掴む、握るという意味です。",
+      "pronounciation": "/ˈɡræspɪŋ/",
+      "scriptContext": "Nurse: All right, all right. Hang on, stay calm. (Over PA system)  I need an orderly with a wheelchair. I got a robot hand grasping a man’s penis out here.",
+      "scriptContextTranslation": "Nurse: わかった、わかった。落ち着いて待ってて。（館内放送で）車椅子の付き添いをお願いします。男性のペニスを掴んだロボットハンドがこちらにあります。"
     },
     {
       "id": 90,
@@ -1078,7 +1434,11 @@
         "無礼な"
       ],
       "correctAnswer": "慎重な",
-      "explanation": "「discreet」は、言動や行動が控えめで、他人を不快にさせたり、秘密を漏らしたりしないことを意味します。ここでは、看護師に患者のプライバシーに配慮してほしいと頼んでいます。"
+      "explanation": "「discreet」は、言動や行動が控えめで、他人を不快にさせたり、秘密を漏らしたりしないことを意味します。ここでは、看護師に患者のプライバシーに配慮してほしいと頼んでいます。",
+      "etymology": "ラテン語の「discretus（分離された、区別された）」に由来し、言動や行動が控えめで、他人を不快にさせたり、秘密を漏らしたりしないことを意味します。",
+      "pronounciation": "/dɪˈskriːt/",
+      "scriptContext": "Howard: You think you could be a little more discreet?",
+      "scriptContextTranslation": "Howard: もう少し控えめに言ってもらえませんか？"
     },
     {
       "id": 91,
@@ -1090,7 +1450,11 @@
         "コンピュータが故障した"
       ],
       "correctAnswer": "ロボットアームが外れた",
-      "explanation": "これは、ロボットアームが外れたことを示す隠語またはユーモラスな表現です。具体的な意味は文脈によって異なりますが、ここでは危機的な状況が解決したことを示唆しています。"
+      "explanation": "これは、ロボットアームが外れたことを示す隠語またはユーモラスな表現です。具体的な意味は文脈によって異なりますが、ここでは危機的な状況が解決したことを示唆しています。",
+      "etymology": "クマのプーさんが蜂蜜の木から抜け出した、という物語から、困難な状況から脱出したことを意味する比喩表現です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: No, you see, it’s more complicated than that. (Nurse switches off computer) No, wait! (The hand lets go) Winnie the Pooh is out of the honey tree.",
+      "scriptContextTranslation": "Howard: いや、それが、もっと複雑なんです。（看護師がコンピューターの電源を切る）待って！（手が離れる）プーさんがハチミツの木から出たぞ！"
     },
     {
       "id": 92,
@@ -1102,7 +1466,11 @@
         "退屈な時間"
       ],
       "correctAnswer": "大切な時間",
-      "explanation": "「quality time」は、親しい人との関係を深めるために、集中して過ごす特別な時間を意味します。ここでは、シェルドンとエイミーが一緒に過ごす時間について言及しています。"
+      "explanation": "「quality time」は、親しい人との関係を深めるために、集中して過ごす特別な時間を意味します。ここでは、シェルドンとエイミーが一緒に過ごす時間について言及しています。",
+      "etymology": "親しい人との関係を深めるために、集中して過ごす特別な時間を意味します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I’ll be happy to check the math, but numbers don’t lie, Penny. In any event, now that Amy and I have spent quality time together, I feel much more confident proceeding to the next stage of our relationship.",
+      "scriptContextTranslation": "Sheldon: 計算を確認してもいいが、数字は嘘をつかない、ペニー。いずれにせよ、エイミーと私は質の高い時間を過ごしたので、関係の次の段階に進む自信が持てた。"
     },
     {
       "id": 93,
@@ -1114,7 +1482,11 @@
         "遺伝子操作"
       ],
       "correctAnswer": "体外受精",
-      "explanation": "「in vitro fertilization」は、体外受精を意味します。卵子と精子を体の外で受精させ、受精卵を子宮に戻す不妊治療の方法です。"
+      "explanation": "「in vitro fertilization」は、体外受精を意味します。卵子と精子を体の外で受精させ、受精卵を子宮に戻す不妊治療の方法です。",
+      "etymology": "「in vitro（試験管内で）」と「fertilization（受精）」を組み合わせた言葉で、卵子と精子を体の外で受精させる不妊治療の方法です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Using in vitro fertilization and a surrogate uterus to gift humanity with our progeny.",
+      "scriptContextTranslation": "Sheldon: 体外受精と代理母を利用して、人類に私たちの子供を贈ることだ。"
     },
     {
       "id": 94,
@@ -1126,7 +1498,11 @@
         "保育室"
       ],
       "correctAnswer": "代理母",
-      "explanation": "「surrogate uterus」は、代理母を意味します。妊娠・出産を代行する女性のことです。"
+      "explanation": "「surrogate uterus」は、代理母を意味します。妊娠・出産を代行する女性のことです。",
+      "etymology": "「surrogate（代理の）」と「uterus（子宮）」を組み合わせた言葉で、妊娠・出産を代行する女性、つまり代理母を意味します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Using in vitro fertilization and a surrogate uterus to gift humanity with our progeny.",
+      "scriptContextTranslation": "Sheldon: 体外受精と代理母を利用して、人類に私たちの子供を贈ることだ。"
     },
     {
       "id": 95,
@@ -1138,7 +1514,11 @@
         "財産"
       ],
       "correctAnswer": "子孫",
-      "explanation": "「progeny」は、子孫や後継者を意味するフォーマルな言葉です。"
+      "explanation": "「progeny」は、子孫や後継者を意味するフォーマルな言葉です。",
+      "etymology": "ラテン語の「progenies（子孫）」に由来し、子孫や後継者を意味するフォーマルな言葉です。",
+      "pronounciation": "/ˈprɒdʒəni/",
+      "scriptContext": "Sheldon: Oh. I hadn’t considered that. I suppose she will have to have access to our progeny. And you don’t think I can achieve the required intimacy via text messaging?",
+      "scriptContextTranslation": "Sheldon: ああ。それは考えてなかった。彼女は僕らの子孫にアクセスする必要があるのか。必要な親密さをテキストメッセージで達成できるとは思わない？"
     },
     {
       "id": 96,
@@ -1150,7 +1530,11 @@
         "試験管"
       ],
       "correctAnswer": "シャーレ",
-      "explanation": "「petri dish」は、シャーレを意味します。微生物や細胞の培養に用いられる浅い円形のガラスまたはプラスチック製の容器です。"
+      "explanation": "「petri dish」は、シャーレを意味します。微生物や細胞の培養に用いられる浅い円形のガラスまたはプラスチック製の容器です。",
+      "etymology": "ドイツの細菌学者ユリウス・ペトリにちなんで名付けられた、微生物や細胞の培養に用いられる浅い円形のガラスまたはプラスチック製の容器です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yes, exactly. Consequently, if Amy and I choose to bring new life into this world, it will be accomplished clinically, with fertility experts in a lab with petri dishes. Which reminds me, you have broad hips and a certain corn-fed vigour. Is your womb available for rental?",
+      "scriptContextTranslation": "Sheldon: そうだ。だから、もしエイミーと僕が新しい命をこの世にもたらすことを選ぶなら、それは臨床的に、不妊治療の専門家がシャーレを使って実験室で行う。それで思い出したけど、君はお尻が大きいし、田舎育ちの元気がある。君の子宮はレンタル可能かな？"
     },
     {
       "id": 97,
@@ -1162,7 +1546,11 @@
         "文化的なキリスト教徒"
       ],
       "correctAnswer": "生まれ変わったキリスト教徒",
-      "explanation": "「born-again Christian」は、回心体験を通じて信仰を新たにしたキリスト教徒を指します。熱心な信仰を持つことが多いです。"
+      "explanation": "「born-again Christian」は、回心体験を通じて信仰を新たにしたキリスト教徒を指します。熱心な信仰を持つことが多いです。",
+      "etymology": "回心体験を通じて信仰を新たにしたキリスト教徒を指します。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Really? Your deeply religious born-again Christian mother wants a test-tube grandbaby born out of wedlock?",
+      "scriptContextTranslation": "Penny: 本当に？ 敬虔なクリスチャンで生まれ変わったあなたのお母さんが、婚外子である試験管ベビーを欲しがってるの？"
     },
     {
       "id": 98,
@@ -1174,7 +1562,11 @@
         "養子縁組"
       ],
       "correctAnswer": "婚外子",
-      "explanation": "「out of wedlock」は、婚姻関係にない男女から生まれた子供、つまり婚外子を意味します。宗教的な背景によっては、タブー視されることがあります。"
+      "explanation": "「out of wedlock」は、婚姻関係にない男女から生まれた子供、つまり婚外子を意味します。宗教的な背景によっては、タブー視されることがあります。",
+      "etymology": "「wedlock（結婚）」の外で生まれた、つまり婚姻関係にない男女から生まれた子供、婚外子を意味します。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Really? Your deeply religious born-again Christian mother wants a test-tube grandbaby born out of wedlock?",
+      "scriptContextTranslation": "Penny: 本当に？ 敬虔なクリスチャンで生まれ変わったあなたのお母さんが、婚外子である試験管ベビーを欲しがってるの？"
     },
     {
       "id": 99,
@@ -1186,7 +1578,11 @@
         "賞賛"
       ],
       "correctAnswer": "呪い",
-      "explanation": "「curses」は、不運を願う言葉、または軽い苛立ちや不満を表す言葉として使われます。ここでは、ペニーに弱点を突かれたシェルドンの軽い苛立ちを表しています。"
+      "explanation": "「curses」は、不運を願う言葉、または軽い苛立ちや不満を表す言葉として使われます。ここでは、ペニーに弱点を突かれたシェルドンの軽い苛立ちを表しています。",
+      "etymology": "ここでは、不運を願う言葉ではなく、軽い苛立ちや不満を表す言葉として使われています。",
+      "pronounciation": "/ˈkɜːrsɪz/",
+      "scriptContext": "Sheldon: Curses.",
+      "scriptContextTranslation": "Sheldon: ちくしょう。"
     },
     {
       "id": 100,
@@ -1198,7 +1594,11 @@
         "教育する"
       ],
       "correctAnswer": "生殖する",
-      "explanation": "「procreate」は、子供を産む、繁殖するという意味のフォーマルな言葉です。"
+      "explanation": "「procreate」は、子供を産む、繁殖するという意味のフォーマルな言葉です。",
+      "etymology": "ラテン語の「procreare（生み出す）」に由来し、子供を産む、繁殖するという意味のフォーマルな言葉です。",
+      "pronounciation": "/ˈproʊkrieɪt/",
+      "scriptContext": "Sheldon: I’ve decided not to procreate.",
+      "scriptContextTranslation": "Sheldon: 私は子孫を作らないことに決めた。"
     }
   ]
 }

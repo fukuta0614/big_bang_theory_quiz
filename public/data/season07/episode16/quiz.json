@@ -10,7 +10,11 @@
         "頬ひげ"
       ],
       "correctAnswer": "あごひげ",
-      "explanation": "Goateeは、あごだけに生やしたひげのことです。口ひげとつなげないスタイルを指します。Van Dyke（ヴァン・ダイク）は、口ひげとあごひげがあり、それぞれが独立しているスタイルを指します。"
+      "explanation": "Goateeは、あごだけに生やしたひげのことです。口ひげとつなげないスタイルを指します。Van Dyke（ヴァン・ダイク）は、口ひげとあごひげがあり、それぞれが独立しているスタイルを指します。",
+      "etymology": "ヤギ(goat)のような顎ひげの形から。",
+      "pronounciation": "/ɡoʊˈtiː/",
+      "scriptContext": "Howard: I’m thinking about growing a goatee.",
+      "scriptContextTranslation": "Howard: あごヒゲを生やそうと思ってるんだ。"
     },
     {
       "id": 2,
@@ -22,7 +26,11 @@
         "顎全体を覆うひげ"
       ],
       "correctAnswer": "あごひげと口ひげを組み合わせたスタイル",
-      "explanation": "Van Dykeは、口ひげとあごひげがあり、それぞれが独立しているスタイルを指します。17世紀のフランドルの画家、アンソニー・ヴァン・ダイクにちなんで名づけられました。"
+      "explanation": "Van Dykeは、口ひげとあごひげがあり、それぞれが独立しているスタイルを指します。17世紀のフランドルの画家、アンソニー・ヴァン・ダイクにちなんで名づけられました。",
+      "etymology": "17世紀のフランドルの画家、アンソニー・ヴァン・ダイクのスタイルにちなんで名づけられました。",
+      "pronounciation": "/væn ˈdaɪk/",
+      "scriptContext": "Raj: Oh, actually that’s a Van Dyke. A goatee is just hair on the chin.",
+      "scriptContextTranslation": "Raj: ああ、それって正確にはヴァン・ダイクだよ。あごヒゲって言うのは顎だけに生えてるやつを言うんだ。"
     },
     {
       "id": 3,
@@ -34,7 +42,11 @@
         "子供の口ひげ"
       ],
       "correctAnswer": "面白い口ひげの言い方",
-      "explanation": "Moo-stacheは、mustache（口ひげ）を面白おかしく発音した言葉です。Rajがインド訛りでmustacheと言うのをからかうために使われています。"
+      "explanation": "Moo-stacheは、mustache（口ひげ）を面白おかしく発音した言葉です。Rajがインド訛りでmustacheと言うのをからかうために使われています。",
+      "etymology": "口ひげ(mustache)を面白おかしく発音した言葉。",
+      "pronounciation": "",
+      "scriptContext": "Raj: You mean a moo-stache?",
+      "scriptContextTranslation": "Raj: それは「モゥースターシュ（牛の鳴き声のような発音で）」のこと？"
     },
     {
       "id": 4,
@@ -46,7 +58,11 @@
         "助ける"
       ],
       "correctAnswer": "からかう",
-      "explanation": "Make fun ofは、人や物をからかう、嘲笑するという意味のイディオムです。相手を面白おかしく扱う場合もあれば、悪意を持って嘲る場合もあります。"
+      "explanation": "Make fun ofは、人や物をからかう、嘲笑するという意味のイディオムです。相手を面白おかしく扱う場合もあれば、悪意を持って嘲る場合もあります。",
+      "etymology": "誰かを笑いものにする、からかうという意味から。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Ha-ha, very funny. Make fun of the foreign guy. For your information, there are four times as many Indians as there are Americans, so the way we say it is right.",
+      "scriptContextTranslation": "Raj: ハハ、面白いね。外国人をからかって。一応言っておくけど、インド人はアメリカ人の4倍もいるんだから、俺たちの言い方が正しいんだよ。"
     },
     {
       "id": 5,
@@ -58,7 +74,11 @@
         "若いカップル"
       ],
       "correctAnswer": "大人の男性",
-      "explanation": "Grown menは、成人した男性を指します。ここでは、子供っぽい行動をしている男性たちを指して、Bernadetteが使っています。"
+      "explanation": "Grown menは、成人した男性を指します。ここでは、子供っぽい行動をしている男性たちを指して、Bernadetteが使っています。",
+      "etymology": "成長した男性、ここでは子供っぽい行動をしている男性たちを指す。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yeah, she’s right. You’re grown men, the kind who are perfectly capable of growing your own moo-staches.",
+      "scriptContextTranslation": "Sheldon: ああ、彼女の言う通りだ。君たちは立派な大人だ。自分の「モゥースターシュ」を生やすこともできる。"
     },
     {
       "id": 6,
@@ -70,7 +90,11 @@
         "無意識に"
       ],
       "correctAnswer": "意図的に",
-      "explanation": "On purposeは、意図的に、わざとという意味です。ある行動や発言が計画的であったことを強調する際に使われます。"
+      "explanation": "On purposeは、意図的に、わざとという意味です。ある行動や発言が計画的であったことを強調する際に使われます。",
+      "etymology": "意図を持って、計画的に行うという意味から。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Hey, you were funny on purpose, good job.",
+      "scriptContextTranslation": "Amy: ねえ、わざと面白く言ったのね、良くやったわ。"
     },
     {
       "id": 7,
@@ -82,7 +106,11 @@
         "反論する"
       ],
       "correctAnswer": "仮定する",
-      "explanation": "Assumeは、根拠なしに何かを事実だと仮定する、推測するという意味です。ここでは、Pennyがオーディションに落ちたことをLeonardが勝手に決めつけている状況を指しています。"
+      "explanation": "Assumeは、根拠なしに何かを事実だと仮定する、推測するという意味です。ここでは、Pennyがオーディションに落ちたことをLeonardが勝手に決めつけている状況を指しています。",
+      "etymology": "証拠がないのに何かを真実だと考える、推測するという意味から。",
+      "pronounciation": "/əˈsjuːmɪŋ/",
+      "scriptContext": "Penny: How about instead of assuming I failed, you ask me how it went?",
+      "scriptContextTranslation": "Penny: 失敗したと決めつける前に、どうだったか聞いてみたらどう？"
     },
     {
       "id": 8,
@@ -94,7 +122,11 @@
         "〜の代わりに"
       ],
       "correctAnswer": "〜はいかが",
-      "explanation": "How aboutは、提案や勧誘をする際に使われる表現です。「〜はいかがですか」「〜しませんか」といった意味合いを持ちます。ここでは、Pennyがオーディションの結果を尋ねるように提案しています。"
+      "explanation": "How aboutは、提案や勧誘をする際に使われる表現です。「〜はいかがですか」「〜しませんか」といった意味合いを持ちます。ここでは、Pennyがオーディションの結果を尋ねるように提案しています。",
+      "etymology": "提案や申し出をする際に使われる表現。",
+      "pronounciation": "",
+      "scriptContext": "Penny: How about instead of assuming I failed, you ask me how it went?",
+      "scriptContextTranslation": "Penny: 失敗したと決めつける前に、どうだったか聞いてみたらどう？"
     },
     {
       "id": 9,
@@ -106,7 +138,11 @@
         "忘れた"
       ],
       "correctAnswer": "考えた",
-      "explanation": "Think aboutは、〜について考えるという意味です。Have you ever thought about ~?で、〜について考えたことはありますか？という定番の言い方になります。"
+      "explanation": "Think aboutは、〜について考えるという意味です。Have you ever thought about ~?で、〜について考えたことはありますか？という定番の言い方になります。",
+      "etymology": "何かについて考慮したという意味から。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Have you guys ever thought about getting a dining room table?",
+      "scriptContextTranslation": "Bernadette: みんな、ダイニングテーブルを買うこと考えたことある？"
     },
     {
       "id": 10,
@@ -118,7 +154,11 @@
         "急いで〜する"
       ],
       "correctAnswer": "急いで〜する",
-      "explanation": "Run toは、〜へ走るという意味ですが、ここでは比喩的に、〜に賛成する、〜を支持するという意味合いで使われています。Rajが、Pennyが来た途端に皆がIKEAに走り出すかのように言うことで、皮肉を込めています。"
+      "explanation": "Run toは、〜へ走るという意味ですが、ここでは比喩的に、〜に賛成する、〜を支持するという意味合いで使われています。Rajが、Pennyが来た途端に皆がIKEAに走り出すかのように言うことで、皮肉を込めています。",
+      "etymology": "何かに賛成、または支持するという比喩的な意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Oh, sure, I sit on the floor for years, no one cares. The pretty white girl’s there ten seconds, and suddenly we’re all running to IKEA.",
+      "scriptContextTranslation": "Raj: ああ、そうだよ。俺が何年も床に座ってても誰も気にしないのに、可愛い白人の女の子が10秒そこにいるだけで、急にみんなIKEAに駆け出すんだ。"
     },
     {
       "id": 11,
@@ -130,7 +170,11 @@
         "普通な考え"
       ],
       "correctAnswer": "悪い考え",
-      "explanation": "Terrible ideaは、ひどい考え、悪い考えという意味です。ここでは、Leonardがダイニングテーブルを買うことはそれほど悪い考えではないと言っています。"
+      "explanation": "Terrible ideaは、ひどい考え、悪い考えという意味です。ここでは、Leonardがダイニングテーブルを買うことはそれほど悪い考えではないと言っています。",
+      "etymology": "ひどい、または非常に悪い考え。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: I know you don’t like change, but it’s not a terrible idea.",
+      "scriptContextTranslation": "Leonard: 君が変化を嫌うのは分かってるけど、悪い考えじゃないと思うよ。"
     },
     {
       "id": 12,
@@ -142,7 +186,11 @@
         "相対性理論"
       ],
       "correctAnswer": "カオス理論",
-      "explanation": "カオス理論は、複雑なシステムの予測不可能性を扱う理論です。初期条件のわずかな変化が、結果に大きな影響を与えるというバタフライ効果が有名です。Sheldonは、ダイニングテーブルを買うことが予期せぬ事態を引き起こす可能性があると主張するために、この理論を持ち出しています。"
+      "explanation": "カオス理論は、複雑なシステムの予測不可能性を扱う理論です。初期条件のわずかな変化が、結果に大きな影響を与えるというバタフライ効果が有名です。Sheldonは、ダイニングテーブルを買うことが予期せぬ事態を引き起こす可能性があると主張するために、この理論を持ち出しています。",
+      "etymology": "初期条件の小さな変化が、結果に大きな影響を与える可能性に着目した理論。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Chaos theory suggests that even in a deterministic system, if the equations describing its behaviour are non-linear, a tiny change in the initial conditions can lead to a cataclysmic and unpredictable result.",
+      "scriptContextTranslation": "Sheldon: カオス理論では、決定論的なシステムであっても、その挙動を記述する方程式が非線形である場合、初期条件のわずかな変化が、壊滅的で予測不可能な結果につながる可能性があるとされている。"
     },
     {
       "id": 13,
@@ -154,7 +202,11 @@
         "単純なシステム"
       ],
       "correctAnswer": "決定論的システム",
-      "explanation": "決定論的システムとは、初期条件が完全に分かれば、将来の状態を一意に予測できるシステムのことです。カオス理論では、このようなシステムでも、初期条件のわずかな変化が予測不可能な結果をもたらす可能性があるとされます。"
+      "explanation": "決定論的システムとは、初期条件が完全に分かれば、将来の状態を一意に予測できるシステムのことです。カオス理論では、このようなシステムでも、初期条件のわずかな変化が予測不可能な結果をもたらす可能性があるとされます。",
+      "etymology": "初期条件が完全に分かれば、将来の状態を一意に予測できるシステム。",
+      "pronounciation": "/dɪˌtɜːrmɪˈnɪstɪk ˈsɪstəm/",
+      "scriptContext": "Sheldon: Chaos theory suggests that even in a deterministic system, if the equations describing its behaviour are non-linear, a tiny change in the initial conditions can lead to a cataclysmic and unpredictable result.",
+      "scriptContextTranslation": "Sheldon: カオス理論では、決定論的なシステムであっても、その挙動を記述する方程式が非線形である場合、初期条件のわずかな変化が、壊滅的で予測不可能な結果につながる可能性があるとされている。"
     },
     {
       "id": 14,
@@ -166,7 +218,11 @@
         "幸福な"
       ],
       "correctAnswer": "悲惨な",
-      "explanation": "Cataclysmicは、大災害のような、破滅的なという意味です。ここでは、ダイニングテーブルを買うことが、予期せぬ大惨事を引き起こす可能性があるというSheldonの懸念を表しています。"
+      "explanation": "Cataclysmicは、大災害のような、破滅的なという意味です。ここでは、ダイニングテーブルを買うことが、予期せぬ大惨事を引き起こす可能性があるというSheldonの懸念を表しています。",
+      "etymology": "大災害のような、破滅的な出来事。",
+      "pronounciation": "/ˌkætəˈklɪzmɪk/",
+      "scriptContext": "Sheldon: Chaos theory suggests that even in a deterministic system, if the equations describing its behaviour are non-linear, a tiny change in the initial conditions can lead to a cataclysmic and unpredictable result.",
+      "scriptContextTranslation": "Sheldon: カオス理論では、決定論的なシステムであっても、その挙動を記述する方程式が非線形である場合、初期条件のわずかな変化が、壊滅的で予測不可能な結果につながる可能性があるとされている。"
     },
     {
       "id": 15,
@@ -178,7 +234,11 @@
         "説明"
       ],
       "correctAnswer": "解説",
-      "explanation": "Translationは、ここでは比喩的に、難しい言葉や概念を分かりやすく説明してほしいという意味で使われています。PennyがSheldonの複雑な説明を理解できなかったため、Leonardに簡単な解説を求めています。"
+      "explanation": "Translationは、ここでは比喩的に、難しい言葉や概念を分かりやすく説明してほしいという意味で使われています。PennyがSheldonの複雑な説明を理解できなかったため、Leonardに簡単な解説を求めています。",
+      "etymology": "ここでは比喩的に、難しい言葉や概念を分かりやすく説明してほしいという意味。",
+      "pronounciation": "/trænsˈleɪʃən/",
+      "scriptContext": "Penny: Translation?",
+      "scriptContextTranslation": "Penny: 翻訳すると？"
     },
     {
       "id": 16,
@@ -190,7 +250,11 @@
         "〜を無視する"
       ],
       "correctAnswer": "〜を再び愛する",
-      "explanation": "Fall back in love withは、一度は離れたものや忘れていたものを再び愛するようになるという意味です。ここでは、SheldonがWindows 98を再び使い始めたことを表現しています。"
+      "explanation": "Fall back in love withは、一度は離れたものや忘れていたものを再び愛するようになるという意味です。ここでは、SheldonがWindows 98を再び使い始めたことを表現しています。",
+      "etymology": "一度は離れたものや忘れていたものを再び愛するようになるという意味。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You know, I’d love to, but, um, I’m too busy falling back in love with Windows 98.",
+      "scriptContextTranslation": "Sheldon: ああ、行きたいのは山々だが、えーと、Windows 98に再び恋をしていて忙しいんだ。"
     },
     {
       "id": 17,
@@ -202,7 +266,11 @@
         "〜を修理する"
       ],
       "correctAnswer": "〜を処分する",
-      "explanation": "Get rid ofは、不要なものや邪魔なものを処分する、取り除くという意味です。ここでは、Leonardが古いデスクを処分しようとしている状況を表しています。"
+      "explanation": "Get rid ofは、不要なものや邪魔なものを処分する、取り除くという意味です。ここでは、Leonardが古いデスクを処分しようとしている状況を表しています。",
+      "etymology": "不要なものや邪魔なものを処分する、取り除くという意味。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Seriously? You haven’t used this desk in years. The second I want to get rid of it, you’re up here working?",
+      "scriptContextTranslation": "Leonard: マジかよ？お前、この机を何年も使ってなかっただろ。俺が捨てようとした途端に、ここで作業するのか？"
     },
     {
       "id": 18,
@@ -214,7 +282,11 @@
         "私を無視して"
       ],
       "correctAnswer": "私を〜だと思って",
-      "explanation": "Think of me asは、自分のことを〜だと思ってくださいという意味です。ここでは、Sheldonが自分を「銀河ヒッチハイク・ガイド」のアーサー・デントになぞらえています。"
+      "explanation": "Think of me asは、自分のことを〜だと思ってくださいという意味です。ここでは、Sheldonが自分を「銀河ヒッチハイク・ガイド」のアーサー・デントになぞらえています。",
+      "etymology": "自分のことを〜だと思ってくださいという意味。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Think of me as Arthur Dent in Hitchhiker’s Guide to the Galaxy, lying in front of the bulldozers to protect his home.",
+      "scriptContextTranslation": "Sheldon: 銀河ヒッチハイク・ガイドのアーサー・デントだと思ってくれ。ブルドーザーの前に横たわって家を守ってるんだ。"
     },
     {
       "id": 19,
@@ -226,7 +298,11 @@
         "否定する"
       ],
       "correctAnswer": "思い出す",
-      "explanation": "Recallは、思い出す、記憶するという意味です。ここでは、Leonardが「銀河ヒッチハイク・ガイド」の物語の内容をSheldonに思い出させています。"
+      "explanation": "Recallは、思い出す、記憶するという意味です。ここでは、Leonardが「銀河ヒッチハイク・ガイド」の物語の内容をSheldonに思い出させています。",
+      "etymology": "過去の出来事や情報を心に呼び戻す。",
+      "pronounciation": "/rɪˈkɔːl/",
+      "scriptContext": "Leonard: If you’ll recall, the Vogon fleet blew up the Earth anyway.",
+      "scriptContextTranslation": "Leonard: 思い出してもらえれば分かると思うけど、ヴォゴン船団は結局地球を爆破したぞ。"
     },
     {
       "id": 20,
@@ -238,7 +314,11 @@
         "無意味"
       ],
       "correctAnswer": "価値がある",
-      "explanation": "Worth itは、それだけの価値がある、それに見合うという意味です。ここでは、ダイニングテーブルを巡って口論する価値があるかどうかをSheldonがLeonardに問いかけています。"
+      "explanation": "Worth itは、それだけの価値がある、それに見合うという意味です。ここでは、ダイニングテーブルを巡って口論する価値があるかどうかをSheldonがLeonardに問いかけています。",
+      "etymology": "それだけの価値がある、それに見合うという意味。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Wait. Is this really worth it? We’ve lived together for years with nary an argument.",
+      "scriptContextTranslation": "Sheldon: 待て。本当にそこまでする価値があるのか？僕らは何年も一緒に暮らしてきて、ほとんど口論なんてしたことなかったじゃないか。"
     },
     {
       "id": 21,
@@ -250,7 +330,11 @@
         "たくさん"
       ],
       "correctAnswer": "少しも〜ない",
-      "explanation": "Naryは、古風な言い方で、not a（not any）という意味です。ここでは、Sheldonが「nary an argument（少しも議論がなかった）」と言っています。"
+      "explanation": "Naryは、古風な言い方で、not a（not any）という意味です。ここでは、Sheldonが「nary an argument（少しも議論がなかった）」と言っています。",
+      "etymology": "古風な言い方で、not a（not any）という意味。",
+      "pronounciation": "/ˈneri/",
+      "scriptContext": "Leonard: Nary an argument? Nary?",
+      "scriptContextTranslation": "Leonard: ほとんど口論したことない？ほとんど？"
     },
     {
       "id": 22,
@@ -262,7 +346,11 @@
         "無視する"
       ],
       "correctAnswer": "激しく争う",
-      "explanation": "At each other's throatsは、激しく争う、ののしり合うという意味のイディオムです。ここでは、ダイニングテーブルのことでLeonardとSheldonが激しく対立している状況を表しています。"
+      "explanation": "At each other's throatsは、激しく争う、ののしり合うという意味のイディオムです。ここでは、ダイニングテーブルのことでLeonardとSheldonが激しく対立している状況を表しています。",
+      "etymology": "激しく争う、ののしり合うという意味のイディオム。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 23,
@@ -274,7 +362,11 @@
         "無視する"
       ],
       "correctAnswer": "連絡を取り合う",
-      "explanation": "Be in touchは、連絡を取り合うという意味です。ここでは、ハワードが電話で連絡すると言っています。"
+      "explanation": "Be in touchは、連絡を取り合うという意味です。ここでは、ハワードが電話で連絡すると言っています。",
+      "etymology": "連絡を取り合うという意味。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Okay. Thank you. We’ll be in touch. You’re not gonna believe this.",
+      "scriptContextTranslation": "Howard: 分かった。ありがとう。また連絡します。信じられないだろうな。"
     },
     {
       "id": 24,
@@ -286,7 +378,11 @@
         "動物のように"
       ],
       "correctAnswer": "普通の人",
-      "explanation": "Muggleは、ハリー・ポッターシリーズに出てくる、魔法を使えない普通の人のことです。ここでは、ハワードが魔法の杖型リモコンを使ってテレビを見ることを、魔法使いのように表現しています。"
+      "explanation": "Muggleは、ハリー・ポッターシリーズに出てくる、魔法を使えない普通の人のことです。ここでは、ハワードが魔法の杖型リモコンを使ってテレビを見ることを、魔法使いのように表現しています。",
+      "etymology": "魔法を使えない普通の人を表す。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Uh, off. And on. And the Oprah Network. This is so much better than watching TV like a muggle.",
+      "scriptContextTranslation": "Raj: ああ、オフ。そしてオン。そしてオプラネットワーク。まるでマグルみたいにテレビを見るよりも、ずっといい。"
     },
     {
       "id": 25,
@@ -298,7 +394,11 @@
         "造語"
       ],
       "correctAnswer": "造語",
-      "explanation": "Rajが魔法の呪文のように適当に作った言葉です。Channelとchangerの語尾にイタリア語っぽいoniをつけています。"
+      "explanation": "Rajが魔法の呪文のように適当に作った言葉です。Channelとchangerの語尾にイタリア語っぽいoniをつけています。",
+      "etymology": "Rajが魔法の呪文のように適当に作った言葉。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Oh, uh, let me try. Uh, channelis changeroni. This might be my second favorite brown magic wand.",
+      "scriptContextTranslation": "Raj: ああ、ええと、僕にやらせて。「チャンネル・チェンジャローニ」。僕の2番目に好きな茶色の魔法の杖になるかも。"
     },
     {
       "id": 26,
@@ -310,7 +410,11 @@
         "無視する"
       ],
       "correctAnswer": "訪ねる",
-      "explanation": "「look in on」は、短時間訪問する、様子を見に行くという意味です。誰かが元気かどうか、安全かどうかを確認する際によく使われます。\n\n例：I'll look in on my grandmother this evening to make sure she's okay. (今晩、祖母の様子を見に行って、元気かどうか確認します。)"
+      "explanation": "「look in on」は、短時間訪問する、様子を見に行くという意味です。誰かが元気かどうか、安全かどうかを確認する際によく使われます。\n\n例：I'll look in on my grandmother this evening to make sure she's okay. (今晩、祖母の様子を見に行って、元気かどうか確認します。)",
+      "etymology": "短時間訪問する、様子を見に行くという意味。",
+      "pronounciation": "",
+      "scriptContext": "Raj: And I just want you to know, I’m happy to look in on Bernadette while you’re gone.",
+      "scriptContextTranslation": "Raj: あのさ、君がいない間、バーナデットの様子を見ておいてもいいんだよ。"
     },
     {
       "id": 27,
@@ -322,7 +426,11 @@
         "特別な木材"
       ],
       "correctAnswer": "再利用された木材",
-      "explanation": "「reclaimed wood」は、古い建物や家具などから回収され、再利用される木材のことです。環境保護の観点から注目されています。\n\n例：The table is made from reclaimed wood, giving it a unique and rustic look. (そのテーブルは再利用された木材で作られており、独特で素朴な外観を与えています。)"
+      "explanation": "「reclaimed wood」は、古い建物や家具などから回収され、再利用される木材のことです。環境保護の観点から注目されています。\n\n例：The table is made from reclaimed wood, giving it a unique and rustic look. (そのテーブルは再利用された木材で作られており、独特で素朴な外観を与えています。)",
+      "etymology": "古い建物や家具などから回収され、再利用される木材。",
+      "pronounciation": "/rɪˈkleɪmd wʊd/",
+      "scriptContext": "Leonard: No. Sheldon doesn’t like reclaimed wood.",
+      "scriptContextTranslation": "Leonard: ダメだ。シェルドンはリサイクル木材が好きじゃないんだ。"
     },
     {
       "id": 28,
@@ -334,7 +442,11 @@
         "メロンを冷やす道具"
       ],
       "correctAnswer": "メロンをくり抜く道具",
-      "explanation": "「melon baller」は、メロンなどの果実を球状にくり抜くための道具です。料理の盛り付けなどに使われます。\n\n例：She used a melon baller to create small, round balls of watermelon for the fruit salad. (彼女はメロンボーラーを使って、フルーツサラダのために小さくて丸いスイカのボールを作りました。)"
+      "explanation": "「melon baller」は、メロンなどの果実を球状にくり抜くための道具です。料理の盛り付けなどに使われます。\n\n例：She used a melon baller to create small, round balls of watermelon for the fruit salad. (彼女はメロンボーラーを使って、フルーツサラダのために小さくて丸いスイカのボールを作りました。)",
+      "etymology": "メロンなどの果実を球状にくり抜くための道具。",
+      "pronounciation": "/ˈmelən ˈbɔːlər/",
+      "scriptContext": "Leonard: Well, he is here. So unless you want to dig him out with a bone saw and a melon baller, there’s nothing I can do about it.",
+      "scriptContextTranslation": "Leonard: いや、彼はここにいる。骨ノコギリとメロンボーラーで彼を掘り出したいのでもない限り、どうしようもないよ。"
     },
     {
       "id": 29,
@@ -346,7 +458,11 @@
         "無視する"
       ],
       "correctAnswer": "指図する",
-      "explanation": "「boss someone around」は、人に指図したり、命令したり、支配的な態度をとるという意味です。しばしば、相手が不快に感じるようなニュアンスを含みます。\n\n例：He doesn't like it when his manager bosses him around. (彼はマネージャーに指図されるのが好きではありません。)"
+      "explanation": "「boss someone around」は、人に指図したり、命令したり、支配的な態度をとるという意味です。しばしば、相手が不快に感じるようなニュアンスを含みます。\n\n例：He doesn't like it when his manager bosses him around. (彼はマネージャーに指図されるのが好きではありません。)",
+      "etymology": "人に指図したり、命令したり、支配的な態度をとるという意味。",
+      "pronounciation": "",
+      "scriptContext": "Penny: No buts. You got to stop letting him boss you around.",
+      "scriptContextTranslation": "Penny: 言い訳はダメ。彼にいつも指図されるのはもうやめなさい。"
     },
     {
       "id": 30,
@@ -358,7 +474,11 @@
         "選ぶ"
       ],
       "correctAnswer": "我慢する",
-      "explanation": "「be stuck with」は、望まないものや状況から抜け出せず、仕方なくそれを受け入れなければならない状況を表します。\n\n例：I was stuck with cleaning up after the party. (パーティーの後片付けをしなければならなかった。)"
+      "explanation": "「be stuck with」は、望まないものや状況から抜け出せず、仕方なくそれを受け入れなければならない状況を表します。\n\n例：I was stuck with cleaning up after the party. (パーティーの後片付けをしなければならなかった。)",
+      "etymology": "望まないものや状況から抜け出せず、仕方なくそれを受け入れなければならない状況を表す。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: You’re right. I mean, he decides what TV shows we watch, what food we eat, who my favourite hobbit is. I wanted Frodo, but we can’t both have Frodo, so guess who’s stuck with Samwise Gamgee.",
+      "scriptContextTranslation": "Leonard: そうだな。だって、彼が見るテレビ番組とか、食べるものとか、好きなホビットまで決めるんだ。僕はフロドが良かったんだけど、二人ともフロドは無理だから、誰がサムワイズ・ギャムジーになるかって話だよ。"
     },
     {
       "id": 31,
@@ -370,7 +490,11 @@
         "関係ない"
       ],
       "correctAnswer": "その通り",
-      "explanation": "「Damn right」は、非常に強い同意や肯定を表す口語的な表現です。確信や強調のニュアンスが含まれます。\n\n例：Is this the best pizza in town? - Damn right it is! (これが町で一番美味しいピザですか？ - その通りです！)"
+      "explanation": "「Damn right」は、非常に強い同意や肯定を表す口語的な表現です。確信や強調のニュアンスが含まれます。\n\n例：Is this the best pizza in town? - Damn right it is! (これが町で一番美味しいピザですか？ - その通りです！)",
+      "etymology": "非常に強い同意や肯定を表す口語的な表現。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: That one? Damn right I like that one.",
+      "scriptContextTranslation": "Leonard: あれだ？ああ、気に入った。"
     },
     {
       "id": 32,
@@ -382,7 +506,11 @@
         "後悔"
       ],
       "correctAnswer": "取り消し",
-      "explanation": "「take-backs」は、約束や合意などを取り消すこと、または取り消しを許可しないことを意味します。\n\n例：Once you make a decision, there are no take-backs. (一度決定したら、取り消しはできません。)"
+      "explanation": "「take-backs」は、約束や合意などを取り消すこと、または取り消しを許可しないことを意味します。\n\n例：Once you make a decision, there are no take-backs. (一度決定したら、取り消しはできません。)",
+      "etymology": "約束や合意などを取り消すこと、または取り消しを許可しないことを意味する。",
+      "pronounciation": "/ˈteɪkˌbæks/",
+      "scriptContext": "Howard: No, not that. Although you already agreed to it, so no take-backs.",
+      "scriptContextTranslation": "Howard: 違うよ、そっちじゃない。もう承諾したけど、今更なしは無しだ。"
     },
     {
       "id": 33,
@@ -394,7 +522,11 @@
         "共有する"
       ],
       "correctAnswer": "混同する",
-      "explanation": "「confuse A with B」は、AとBを混同するという意味です。誤って認識したり、区別がつかなかったりする状況を表します。\n\n例：I often confuse him with his twin brother. (彼と双子の兄弟をよく混同します。)"
+      "explanation": "「confuse A with B」は、AとBを混同するという意味です。誤って認識したり、区別がつかなかったりする状況を表します。\n\n例：I often confuse him with his twin brother. (彼と双子の兄弟をよく混同します。)",
+      "etymology": "AとBを混同するという意味。",
+      "pronounciation": "",
+      "scriptContext": "Howard: I think you have me confused with what’s gonna happen when you get out of that shower.",
+      "scriptContextTranslation": "Howard: それは君がシャワーから出てきた後に何が起こるかについて僕を混乱させてるんだと思うよ。"
     },
     {
       "id": 34,
@@ -406,7 +538,11 @@
         "評価する"
       ],
       "correctAnswer": "試してみる",
-      "explanation": "「give something a fair shot」は、何かに公平な機会を与える、試してみるという意味です。成功するかどうかは別として、一度は真剣に取り組むことを意味します。\n\n例：I don't think I'll like it, but I'll give it a fair shot. (気に入るかどうか分からないけど、試してみます。)"
+      "explanation": "「give something a fair shot」は、何かに公平な機会を与える、試してみるという意味です。成功するかどうかは別として、一度は真剣に取り組むことを意味します。\n\n例：I don't think I'll like it, but I'll give it a fair shot. (気に入るかどうか分からないけど、試してみます。)",
+      "etymology": "何かに公平な機会を与える、試してみるという意味。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Well, you can’t say he didn’t give it a fair shot.",
+      "scriptContextTranslation": "Penny: まあ、彼がちゃんと試さなかったとは言えないわね。"
     },
     {
       "id": 35,
@@ -418,7 +554,11 @@
         "重要"
       ],
       "correctAnswer": "ばかげた",
-      "explanation": "「ridiculous」は、ばかげている、滑稽である、道理に合わないという意味です。非常に非論理的または不合理な状況を指します。\n\n例：That's a ridiculous idea. (それはばかげたアイデアです。)"
+      "explanation": "「ridiculous」は、ばかげている、滑稽である、道理に合わないという意味です。非常に非論理的または不合理な状況を指します。\n\n例：That's a ridiculous idea. (それはばかげたアイデアです。)",
+      "etymology": "ばかげている、滑稽である、道理に合わないという意味。",
+      "pronounciation": "/rɪˈdɪkjələs/",
+      "scriptContext": "Penny: Come on, that is ridiculous.",
+      "scriptContextTranslation": "Penny: ちょっと、それは馬鹿げてるわ。"
     },
     {
       "id": 36,
@@ -430,7 +570,11 @@
         "チームから離れる"
       ],
       "correctAnswer": "チームのために犠牲になる",
-      "explanation": "「take one for the team」は、チームやグループのために、自分が不利益を被る、または困難な役割を引き受けるという意味です。協調性や献身性を示す表現です。\n\n例：I'll take the blame for the mistake to protect the others; I'll take one for the team. (他の人を守るために、私がそのミスの責任を取ります。チームのために犠牲になります。)"
+      "explanation": "「take one for the team」は、チームやグループのために、自分が不利益を被る、または困難な役割を引き受けるという意味です。協調性や献身性を示す表現です。\n\n例：I'll take the blame for the mistake to protect the others; I'll take one for the team. (他の人を守るために、私がそのミスの責任を取ります。チームのために犠牲になります。)",
+      "etymology": "チームやグループのために、自分が不利益を被る、または困難な役割を引き受けるという意味。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Well, it’s always me, take one for the team.",
+      "scriptContextTranslation": "Leonard: まあ、いつも僕がそうなるけど、チームのために犠牲になるよ。"
     },
     {
       "id": 37,
@@ -442,7 +586,11 @@
         "シンプルな"
       ],
       "correctAnswer": "最新の",
-      "explanation": "「newfangled」は、最新の、新式のという意味です。しばしば、それが新しいものであるために疑念や抵抗感があるというニュアンスを含みます。\n\n例：He doesn't trust these newfangled gadgets. (彼はこれらの最新の機器を信用していません。)"
+      "explanation": "「newfangled」は、最新の、新式のという意味です。しばしば、それが新しいものであるために疑念や抵抗感があるというニュアンスを含みます。\n\n例：He doesn't trust these newfangled gadgets. (彼はこれらの最新の機器を信用していません。)",
+      "etymology": "最新の、新式のという意味。",
+      "pronounciation": "/ˌnjuːˈfæŋɡəld/",
+      "scriptContext": "Sheldon: I have spent years turning this lump of clay into an acceptable conduit for my will, and then you came along and reshaped him, with your newfangled ideas and your fancy genitals.",
+      "scriptContextTranslation": "Sheldon: 私は何年もかけてこの粘土の塊を、私の意志を伝えるのにふさわしい導管に変えてきたのに、君が現れて、君の目新しい考えと君の素敵な性器で彼を再形成したんだ。"
     },
     {
       "id": 38,
@@ -454,7 +602,11 @@
         "魅力的な性器"
       ],
       "correctAnswer": "魅力的な性器",
-      "explanation": "このフレーズは、文字通りには「魅力的な性器」という意味ですが、ここではペニーの女性としての魅力をSheldonが皮肉っぽく表現するために使われています。性的な意味合いよりも、ペニーの影響力を揶揄する意図が強いです。\n\n例：(文脈依存のため、具体的な例は割愛します。)"
+      "explanation": "このフレーズは、文字通りには「魅力的な性器」という意味ですが、ここではペニーの女性としての魅力をSheldonが皮肉っぽく表現するために使われています。性的な意味合いよりも、ペニーの影響力を揶揄する意図が強いです。\n\n例：(文脈依存のため、具体的な例は割愛します。)",
+      "etymology": "ここではペニーの女性としての魅力をSheldonが皮肉っぽく表現するために使われている。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I have spent years turning this lump of clay into an acceptable conduit for my will, and then you came along and reshaped him, with your newfangled ideas and your fancy genitals.",
+      "scriptContextTranslation": "Sheldon: 私は何年もかけてこの粘土の塊を、私の意志を伝えるのにふさわしい導管に変えてきたのに、君が現れて、君の目新しい考えと君の素敵な性器で彼を再形成したんだ。"
     },
     {
       "id": 39,
@@ -466,7 +618,11 @@
         "キスをした"
       ],
       "correctAnswer": "キスをした",
-      "explanation": "「make out」は、キスをする、いちゃつくという意味です。しばしば、情熱的なキスや軽い性的接触を含むニュアンスがあります。\n\n例：They were making out in the back of the movie theater. (彼らは映画館の後ろでキスをしていた。)"
+      "explanation": "「make out」は、キスをする、いちゃつくという意味です。しばしば、情熱的なキスや軽い性的接触を含むニュアンスがあります。\n\n例：They were making out in the back of the movie theater. (彼らは映画館の後ろでキスをしていた。)",
+      "etymology": "キスをする、いちゃつくという意味。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, please. When I first met you, you were incapable of touching another human being. Now you’re holding hands, you’re going on dates, you even made out with her on a train.",
+      "scriptContextTranslation": "Penny: お願いだから。私が初めてあなたに会った時、あなたは他の人間に触れることすらできなかった。今は手をつないで、デートをして、列車の中でキスまでしたじゃない。"
     },
     {
       "id": 40,
@@ -478,7 +634,11 @@
         "反発する"
       ],
       "correctAnswer": "影響を与える",
-      "explanation": "「have an impact on」は、〜に影響を与えるという意味です。良い影響にも悪い影響にも使えます。\n\n例：The new policy will have a significant impact on the environment. (新しい政策は環境に大きな影響を与えるでしょう。)"
+      "explanation": "「have an impact on」は、〜に影響を与えるという意味です。良い影響にも悪い影響にも使えます。\n\n例：The new policy will have a significant impact on the environment. (新しい政策は環境に大きな影響を与えるでしょう。)",
+      "etymology": "〜に影響を与えるという意味。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: You’re too close to it, but Amy has had a huge impact on you.",
+      "scriptContextTranslation": "Leonard: 君は近すぎるからわからないけど、エイミーは君に大きな影響を与えてるよ。"
     },
     {
       "id": 41,
@@ -490,7 +650,11 @@
         "同意して"
       ],
       "correctAnswer": "理解せずに",
-      "explanation": "「without realizing it」は、気づかないうちに、知らないうちにという意味です。意図せずに何かが起こった状況を表します。\n\n例：Without realizing it, I had eaten the whole cake. (気づかないうちに、ケーキを全部食べてしまっていた。)"
+      "explanation": "「without realizing it」は、気づかないうちに、知らないうちにという意味です。意図せずに何かが起こった状況を表します。\n\n例：Without realizing it, I had eaten the whole cake. (気づかないうちに、ケーキを全部食べてしまっていた。)",
+      "etymology": "気づかないうちに、知らないうちにという意味。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You’re right. Without realizing it, I’ve allowed that woman to alter my personality.",
+      "scriptContextTranslation": "Sheldon: 君の言う通りだ。気づかないうちに、私はあの女に私の人格を変えさせてしまっていた。"
     },
     {
       "id": 42,
@@ -502,7 +666,11 @@
         "隠す"
       ],
       "correctAnswer": "変更する",
-      "explanation": "「alter」は、何かを変更する、修正するという意味です。しばしば、わずかな変更や調整を指します。\n\n例：She altered the dress to fit her perfectly. (彼女はドレスを完璧にフィットするように修正しました。)"
+      "explanation": "「alter」は、何かを変更する、修正するという意味です。しばしば、わずかな変更や調整を指します。\n\n例：She altered the dress to fit her perfectly. (彼女はドレスを完璧にフィットするように修正しました。)",
+      "etymology": "何かを変更する、修正するという意味。",
+      "pronounciation": "/ˈɔːltər/",
+      "scriptContext": "Sheldon: What about the roommate agreement? It specifically states that any changes in furnishing have to be approved by the Furnishing Committee. Which only sits on alternate years. Yeah, and by the way, it sits over there.",
+      "scriptContextTranslation": "Sheldon: ルームメイト契約はどうなるんだ？家具の変更は家具委員会に承認される必要があると明記されている。家具委員会は隔年でしか開催されない。ああ、ちなみに、あそこで開催されるんだ。"
     },
     {
       "id": 51,
@@ -514,7 +682,11 @@
         "急速に改善する状況"
       ],
       "correctAnswer": "徐々に悪化する状況",
-      "explanation": "「boiling to death」は、徐々に悪化していく状況に気づかないうちに手遅れになるという意味です。カエルの寓話が由来で、水温が徐々に上がる鍋に入れられたカエルが、熱さに気づかず茹で上がってしまう様子を表しています。変化に気づきにくい状況や、緩やかな悪化に対して警告する際に用いられます。"
+      "explanation": "「boiling to death」は、徐々に悪化していく状況に気づかないうちに手遅れになるという意味です。カエルの寓話が由来で、水温が徐々に上がる鍋に入れられたカエルが、熱さに気づかず茹で上がってしまう様子を表しています。変化に気づきにくい状況や、緩やかな悪化に対して警告する際に用いられます。",
+      "etymology": "徐々に悪化していく状況に気づかないうちに手遅れになるという意味。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: No. No, I’ve changed. Like the frog who’s put in a pot of water that’s heated so gradually he doesn’t realize he’s boiling to death.",
+      "scriptContextTranslation": "Sheldon: いや、違う。変わったんだ。徐々に熱せられて死にかけていることに気づかないカエルのように。"
     },
     {
       "id": 52,
@@ -526,7 +698,11 @@
         "新しいアイデア"
       ],
       "correctAnswer": "事前の警告",
-      "explanation": "「heads-up」は、人に何かを事前に知らせる、警告するという意味です。例えば、プロジェクトの遅延や変更、または予期せぬ問題が発生する可能性がある場合に、関係者に事前に伝えるために使われます。ビジネスシーンや日常会話で広く使われる表現です。"
+      "explanation": "「heads-up」は、人に何かを事前に知らせる、警告するという意味です。例えば、プロジェクトの遅延や変更、または予期せぬ問題が発生する可能性がある場合に、関係者に事前に伝えるために使われます。ビジネスシーンや日常会話で広く使われる表現です。",
+      "etymology": "人に何かを事前に知らせる、警告するという意味。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Yeah, mm-hmm. Amy, it’s Penny. Hey. Just a little heads-up. Leonard bought a dining room table. Yeah. Sheldon’s breaking up with you.",
+      "scriptContextTranslation": "Penny: ええ、そうね。エイミー？ペニーよ。ちょっとしたお知らせ。レナードがダイニングテーブルを買ったわ。ええ。シェルドンがあなたと別れるって。"
     },
     {
       "id": 53,
@@ -538,7 +714,11 @@
         "詳細に説明する"
       ],
       "correctAnswer": "核心に触れる",
-      "explanation": "「get right to the point」は、遠回しな言い方を避け、すぐに本題に入るという意味です。会議や議論などで、時間を節約するために、または相手に直接的に伝えたい場合に用いられます。ビジネスシーンでよく使われる表現です。"
+      "explanation": "「get right to the point」は、遠回しな言い方を避け、すぐに本題に入るという意味です。会議や議論などで、時間を節約するために、または相手に直接的に伝えたい場合に用いられます。ビジネスシーンでよく使われる表現です。",
+      "etymology": "遠回しな言い方を避け、すぐに本題に入るという意味。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: (Knock, knock, knock) Amy? (Knock, knock, knock) Amy? (Knock, knock, knock) Amy? I’ll get right to the point. I think we need to end this relationship, so just sign this with your finger, and, uh, please don’t cry on my iPad, I didn’t get AppleCare.",
+      "scriptContextTranslation": "Sheldon: (ノック、ノック、ノック) エイミー？ (ノック、ノック、ノック) エイミー？ (ノック、ノック、ノック) エイミー？単刀直入に言うよ。僕たちは別れるべきだと思う。だから、ここに指でサインして。あー、僕のiPadで泣かないでくれ。AppleCareに入ってないから。"
     },
     {
       "id": 54,
@@ -550,7 +730,11 @@
         "感動的な場面を作る"
       ],
       "correctAnswer": "騒ぎ立てる",
-      "explanation": "「make a scene」は、公の場で騒ぎを起こしたり、不快な状況を作り出したりすることを意味します。感情的になって大声を出したり、他人を非難したりする行為を指します。「making more of a scene」は、さらに騒ぎを大きくすることを意味します。"
+      "explanation": "「make a scene」は、公の場で騒ぎを起こしたり、不快な状況を作り出したりすることを意味します。感情的になって大声を出したり、他人を非難したりする行為を指します。「making more of a scene」は、さらに騒ぎを大きくすることを意味します。",
+      "etymology": "公の場で騒ぎを起こしたり、不快な状況を作り出したりすることを意味する。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: At the bottom. I must say, I’m relieved you’re not making more of a scene out of this.",
+      "scriptContextTranslation": "Sheldon: 下の方だ。騒ぎ立てなくてホッとしたよ。"
     },
     {
       "id": 55,
@@ -562,7 +746,11 @@
         "グレードアップした"
       ],
       "correctAnswer": "先に進んだ",
-      "explanation": "「move on」は、過去の出来事や関係を乗り越えて、新しい段階に進むという意味です。失恋や失敗、あるいは目標の達成後に、新しい目標に向かって進む状況などで使われます。精神的な成長や変化を伴うことが多いです。"
+      "explanation": "「move on」は、過去の出来事や関係を乗り越えて、新しい段階に進むという意味です。失恋や失敗、あるいは目標の達成後に、新しい目標に向かって進む状況などで使われます。精神的な成長や変化を伴うことが多いです。",
+      "etymology": "過去の出来事や関係を乗り越えて、新しい段階に進むという意味。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Oh, I’ve already moved on. Besides, this breakup has nothing to do with me.",
+      "scriptContextTranslation": "Amy: ああ、私はもう気持ちを切り替えたわ。それに、この別れは私には関係ないの。"
     },
     {
       "id": 56,
@@ -574,7 +762,11 @@
         "団結を促す"
       ],
       "correctAnswer": "不和の種をまく",
-      "explanation": "「sow discord」は、人々の間に不和や対立を引き起こす行為を指します。意図的に誤解を招く情報を流したり、仲間割れを誘ったりする状況で用いられます。しばしば、陰謀や策略と関連して使われる表現です。"
+      "explanation": "「sow discord」は、人々の間に不和や対立を引き起こす行為を指します。意図的に誤解を招く情報を流したり、仲間割れを誘ったりする状況で用いられます。しばしば、陰謀や策略と関連して使われる表現です。",
+      "etymology": "人々の間に不和や対立を引き起こす行為を指す。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Of course not. This is just Leonard trying to take the focus off that dreadful table by sowing discord in our relationship. He’s manipulating you like he always does.",
+      "scriptContextTranslation": "Amy: もちろんよ。レナードが、あのひどいテーブルから注意をそらすために、私たちの関係に不和をもたらそうとしてるだけなのよ。彼はいつもあなたを操っているわ。"
     },
     {
       "id": 57,
@@ -586,7 +778,11 @@
         "無視する"
       ],
       "correctAnswer": "支持する",
-      "explanation": "「stand by」は、誰かを支持したり、助けたり、または特定の立場を維持したりすることを意味します。困難な状況や試練に直面している人を支える意志を示す際に用いられます。また、「stand by me」という形で、支えを求める表現としても使われます。"
+      "explanation": "「stand by」は、誰かを支持したり、助けたり、または特定の立場を維持したりすることを意味します。困難な状況や試練に直面している人を支える意志を示す際に用いられます。また、「stand by me」という形で、支えを求める表現としても使われます。",
+      "etymology": "誰かを支持したり、助けたり、または特定の立場を維持したりすることを意味する。",
+      "pronounciation": "",
+      "scriptContext": "Amy: All the time. And he knew that, as your girlfriend, I wasn’t gonna stand by and let him bring a table into your apartment. I mean, a table? Come on?",
+      "scriptContextTranslation": "Amy: いつもよ。それに、彼は知っていたの。あなたのガールフレンドとして、私が彼がテーブルをあなたのアパートに持ち込むのを黙って見ているはずがないって。だって、テーブルよ？勘弁してよ。"
     },
     {
       "id": 58,
@@ -598,7 +794,11 @@
         "良いアドバイスをした"
       ],
       "correctAnswer": "苦労をかけた",
-      "explanation": "「give someone a hard time」は、人に意地悪をしたり、からかったり、または困難な状況に追い込んだりすることを意味します。軽いいたずらから深刻な嫌がらせまで、幅広い状況で使用されます。謝罪の文脈で使われることが多いです。"
+      "explanation": "「give someone a hard time」は、人に意地悪をしたり、からかったり、または困難な状況に追い込んだりすることを意味します。軽いいたずらから深刻な嫌がらせまで、幅広い状況で使用されます。謝罪の文脈で使われることが多いです。",
+      "etymology": "人に意地悪をしたり、からかったり、または困難な状況に追い込んだりすることを意味する。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Okay. I’m sorry I gave you such a hard time, I just had to be sure.",
+      "scriptContextTranslation": "Sheldon: わかった。きつく当たってごめん。ただ確かめたかっただけだ。"
     },
     {
       "id": 59,
@@ -610,7 +810,11 @@
         "ほとんど～ない"
       ],
       "correctAnswer": "少しも～ない",
-      "explanation": "「at all」は、否定的な文脈で使用され、「まったく～ない」「少しも～ない」という意味を強調します。疑問文で使用される場合は、驚きや疑念を表すことがあります。肯定文では、「どんなことがあっても」「ぜひとも」という意味合いで使われることもあります。"
+      "explanation": "「at all」は、否定的な文脈で使用され、「まったく～ない」「少しも～ない」という意味を強調します。疑問文で使用される場合は、驚きや疑念を表すことがあります。肯定文では、「どんなことがあっても」「ぜひとも」という意味合いで使われることもあります。",
+      "etymology": "否定的な文脈で使用され、「まったく～ない」「少しも～ない」という意味を強調する。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Okay. I think we’ve found the problem here. It’s not the table at all. It’s you.",
+      "scriptContextTranslation": "Sheldon: わかった。問題が見つかったぞ。テーブルが問題なのではない。君が問題だ。"
     },
     {
       "id": 60,
@@ -622,7 +826,11 @@
         "彼のために明らかにする"
       ],
       "correctAnswer": "彼のために台無しにする",
-      "explanation": "「ruin it for someone」は、人の楽しみや計画を台無しにするという意味です。特に、サプライズや楽しみなイベントを事前に明かしてしまう場合や、人の期待を裏切るような行為を指します。親しい間柄で使われることが多い表現です。"
+      "explanation": "「ruin it for someone」は、人の楽しみや計画を台無しにするという意味です。特に、サプライズや楽しみなイベントを事前に明かしてしまう場合や、人の期待を裏切るような行為を指します。親しい間柄で使われることが多い表現です。",
+      "etymology": "人の楽しみや計画を台無しにするという意味。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Well, I’m his wife, I don’t want to ruin it for him.",
+      "scriptContextTranslation": "Bernadette: だって、私は彼の妻だから、彼の気持ちを台無しにしたくないの。"
     },
     {
       "id": 61,
@@ -634,7 +842,11 @@
         "勇敢な人"
       ],
       "correctAnswer": "興ざめな人",
-      "explanation": "「buzzkill」は、楽しい雰囲気や興奮を冷ます人、または状況を指します。パーティーやイベントなどで、ネガティブな発言をしたり、場の雰囲気を壊したりする人を指すことが多いです。軽蔑的なニュアンスを含む言葉です。"
+      "explanation": "「buzzkill」は、楽しい雰囲気や興奮を冷ます人、または状況を指します。パーティーやイベントなどで、ネガティブな発言をしたり、場の雰囲気を壊したりする人を指すことが多いです。軽蔑的なニュアンスを含む言葉です。",
+      "etymology": "楽しい雰囲気や興奮を冷ます人、または状況を指す。",
+      "pronounciation": "/ˈbʌzkɪl/",
+      "scriptContext": "Raj: That’s the dynamic, I’m the fun one, you’re the buzzkill.",
+      "scriptContextTranslation": "Raj: そういう役割分担だ。僕は楽しいやつで、君は興ざめさせるやつ。"
     },
     {
       "id": 62,
@@ -646,7 +858,11 @@
         "秘密にする"
       ],
       "correctAnswer": "指摘する",
-      "explanation": "「point out」は、特定の事実や情報を示す、指摘するという意味です。相手に注意を促したり、誤解を解いたりするために使われます。客観的な視点から、重要な情報を提供する際に用いられることが多いです。"
+      "explanation": "「point out」は、特定の事実や情報を示す、指摘するという意味です。相手に注意を促したり、誤解を解いたりするために使われます。客観的な視点から、重要な情報を提供する際に用いられることが多いです。",
+      "etymology": "特定の事実や情報を示す、指摘するという意味。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 63,
@@ -658,7 +874,11 @@
         "満足している"
       ],
       "correctAnswer": "うんざりしている",
-      "explanation": "「sick of」は、何かに対してうんざりしている、飽き飽きしているという意味です。同じことの繰り返しや、不快な状況が続く場合に用いられます。感情的な不満や嫌悪感を表現する際に使われることが多いです。"
+      "explanation": "「sick of」は、何かに対してうんざりしている、飽き飽きしているという意味です。同じことの繰り返しや、不快な状況が続く場合に用いられます。感情的な不満や嫌悪感を表現する際に使われることが多いです。",
+      "etymology": "何かに対してうんざりしている、飽き飽きしているという意味。",
+      "pronounciation": "",
+      "scriptContext": "Amy: You’re sick of his nonsense and ready to move in with me.",
+      "scriptContextTranslation": "Amy: あなたは彼のくだらないことにうんざりして、私と一緒に住む準備ができているのよ。"
     },
     {
       "id": 64,
@@ -670,7 +890,11 @@
         "おめでとう"
       ],
       "correctAnswer": "くそっ",
-      "explanation": "「Damn it」は、軽い苛立ちや不満、または失敗に対する後悔を表す感嘆詞です。フォーマルな場面では不適切ですが、親しい間柄では比較的よく使われます。同様の表現として「Damn」があります。"
+      "explanation": "「Damn it」は、軽い苛立ちや不満、または失敗に対する後悔を表す感嘆詞です。フォーマルな場面では不適切ですが、親しい間柄では比較的よく使われます。同様の表現として「Damn」があります。",
+      "etymology": "軽い苛立ちや不満、または失敗に対する後悔を表す感嘆詞。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Damn it, I got cocky.",
+      "scriptContextTranslation": "Amy: ちっ、調子に乗ったわ。"
     },
     {
       "id": 65,
@@ -682,7 +906,11 @@
         "席を立つ"
       ],
       "correctAnswer": "座る",
-      "explanation": "「have a seat」は、人に座るように勧める丁寧な表現です。フォーマルな場面や、相手にリラックスしてほしい時に使われます。ビジネスシーンや接客業でよく用いられる表現です。"
+      "explanation": "「have a seat」は、人に座るように勧める丁寧な表現です。フォーマルな場面や、相手にリラックスしてほしい時に使われます。ビジネスシーンや接客業でよく用いられる表現です。",
+      "etymology": "人に座るように勧める丁寧な表現。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Maybe you should have a seat.",
+      "scriptContextTranslation": "Bernadette: 座った方がいいかもしれないわ。"
     },
     {
       "id": 66,
@@ -694,7 +922,11 @@
         "同じままである"
       ],
       "correctAnswer": "変わった",
-      "explanation": "「changed」は動詞changeの過去形で、何かが以前の状態から別の状態になったことを示します。人の性格、状況、物理的な状態など、様々なものに対して使われます。"
+      "explanation": "「changed」は動詞changeの過去形で、何かが以前の状態から別の状態になったことを示します。人の性格、状況、物理的な状態など、様々なものに対して使われます。",
+      "etymology": "動詞changeの過去形で、何かが以前の状態から別の状態になったことを示す。",
+      "pronounciation": "/tʃeɪndʒd/",
+      "scriptContext": "Penny: Okay, I have not tried to change Leonard. That’s just what happens in relationships. Look how much Amy’s changed you.",
+      "scriptContextTranslation": "Penny: わかったわよ、私はレナードを変えようとしたわけじゃないわ。それはただ、恋愛関係ではよくあることなのよ。エイミーがあなたをどれだけ変えたか見てみなさいよ。"
     },
     {
       "id": 67,
@@ -706,7 +938,11 @@
         "控えめな"
       ],
       "correctAnswer": "愛情深い",
-      "explanation": "「affectionate」は、愛情や優しさを示す形容詞です。人や動物に対して温かい感情を持ち、それを表現する様子を表します。"
+      "explanation": "「affectionate」は、愛情や優しさを示す形容詞です。人や動物に対して温かい感情を持ち、それを表現する様子を表します。",
+      "etymology": "愛情や優しさを示す形容詞。",
+      "pronounciation": "/əˈfekʃənət/",
+      "scriptContext": "Sheldon: No. You’ve opened my eyes to the truth. Amy has made me a more affectionate, open-minded person. And that stops now.",
+      "scriptContextTranslation": "Sheldon: だめだ。君たちが真実を教えてくれた。エイミーは僕を愛情深く、寛容な人間にした。でも、もう終わりだ。"
     },
     {
       "id": 68,
@@ -718,7 +954,11 @@
         "批判的な"
       ],
       "correctAnswer": "心の広い",
-      "explanation": "「open-minded」は、新しいアイデアや意見に対して偏見を持たずに受け入れることができる性格を表す形容詞です。異なる視点や文化を尊重する姿勢を示します。"
+      "explanation": "「open-minded」は、新しいアイデアや意見に対して偏見を持たずに受け入れることができる性格を表す形容詞です。異なる視点や文化を尊重する姿勢を示します。",
+      "etymology": "新しいアイデアや意見に対して偏見を持たずに受け入れることができる性格を表す形容詞。",
+      "pronounciation": "/ˌoʊpən ˈmaɪndɪd/",
+      "scriptContext": "Sheldon: No. You’ve opened my eyes to the truth. Amy has made me a more affectionate, open-minded person. And that stops now.",
+      "scriptContextTranslation": "Sheldon: だめだ。君たちが真実を教えてくれた。エイミーは僕を愛情深く、寛容な人間にした。でも、もう終わりだ。"
     },
     {
       "id": 69,
@@ -730,7 +970,11 @@
         "落胆した"
       ],
       "correctAnswer": "安心した",
-      "explanation": "「relieved」は、心配や不安が解消されて安堵した気持ちを表す形容詞です。困難な状況や危険が過ぎ去った後に感じることが多い感情です。"
+      "explanation": "「relieved」は、心配や不安が解消されて安堵した気持ちを表す形容詞です。困難な状況や危険が過ぎ去った後に感じることが多い感情です。",
+      "etymology": "心配や不安が解消されて安堵した気持ちを表す形容詞。",
+      "pronounciation": "/rɪˈliːvd/",
+      "scriptContext": "Sheldon: At the bottom. I must say, I’m relieved you’re not making more of a scene out of this.",
+      "scriptContextTranslation": "Sheldon: 下の方だ。騒ぎ立てなくてホッとしたよ。"
     },
     {
       "id": 70,
@@ -742,7 +986,11 @@
         "楽しい"
       ],
       "correctAnswer": "恐ろしい",
-      "explanation": "「dreadful」は、非常に悪い、不快な、または恐ろしいという意味の形容詞です。品質が低い、または嫌な経験について説明するために使用されます。"
+      "explanation": "「dreadful」は、非常に悪い、不快な、または恐ろしいという意味の形容詞です。品質が低い、または嫌な経験について説明するために使用されます。",
+      "etymology": "非常に悪い、不快な、または恐ろしいという意味の形容詞。",
+      "pronounciation": "/ˈdredfl/",
+      "scriptContext": "Amy: Of course not. This is just Leonard trying to take the focus off that dreadful table by sowing discord in our relationship. He’s manipulating you like he always does.",
+      "scriptContextTranslation": "Amy: もちろんよ。レナードが、あのひどいテーブルから注意をそらすために、私たちの関係に不和をもたらそうとしてるだけなのよ。彼はいつもあなたを操っているわ。"
     },
     {
       "id": 71,
@@ -754,7 +1002,11 @@
         "信頼する"
       ],
       "correctAnswer": "操作する",
-      "explanation": "「manipulating」は、人を巧妙に操り、自分の利益のために行動させることを意味します。しばしば、欺瞞や策略を伴う否定的な行為として捉えられます。"
+      "explanation": "「manipulating」は、人を巧妙に操り、自分の利益のために行動させることを意味します。しばしば、欺瞞や策略を伴う否定的な行為として捉えられます。",
+      "etymology": "人を巧妙に操り、自分の利益のために行動させることを意味する。",
+      "pronounciation": "/məˈnɪpjuleɪtɪŋ/",
+      "scriptContext": "Amy: Of course not. This is just Leonard trying to take the focus off that dreadful table by sowing discord in our relationship. He’s manipulating you like he always does.",
+      "scriptContextTranslation": "Amy: もちろんよ。レナードが、あのひどいテーブルから注意をそらすために、私たちの関係に不和をもたらそうとしてるだけなのよ。彼はいつもあなたを操っているわ。"
     },
     {
       "id": 72,
@@ -766,7 +1018,11 @@
         "慎重な"
       ],
       "correctAnswer": "自信過剰な",
-      "explanation": "「cocky」は、傲慢で自信過剰な態度を表す形容詞です。しばしば、他人を見下すような言動を伴うため、否定的なニュアンスで使用されます。"
+      "explanation": "「cocky」は、傲慢で自信過剰な態度を表す形容詞です。しばしば、他人を見下すような言動を伴うため、否定的なニュアンスで使用されます。",
+      "etymology": "傲慢で自信過剰な態度を表す形容詞。",
+      "pronounciation": "/ˈkɒki/",
+      "scriptContext": "Amy: Damn it, I got cocky.",
+      "scriptContextTranslation": "Amy: ちっ、調子に乗ったわ。"
     },
     {
       "id": 73,
@@ -778,7 +1034,11 @@
         "利用する"
       ],
       "correctAnswer": "大切にする",
-      "explanation": "「cherish」は、人や物を非常に大切に思い、愛情を込めて扱うことを意味する動詞です。感謝や尊重の気持ちを込めて使用されます。"
+      "explanation": "「cherish」は、人や物を非常に大切に思い、愛情を込めて扱うことを意味する動詞です。感謝や尊重の気持ちを込めて使用されます。",
+      "etymology": "人や物を非常に大切に思い、愛情を込めて扱うことを意味する動詞。",
+      "pronounciation": "/ˈtʃerɪʃ/",
+      "scriptContext": "Raj: Um, okay. First off, know that we all love you and cherish you.",
+      "scriptContextTranslation": "Raj: あー、えーと。まず最初に、みんなが君を愛し、大切に思っていることを知ってほしい。"
     },
     {
       "id": 74,
@@ -790,7 +1050,11 @@
         "退屈な"
       ],
       "correctAnswer": "力関係",
-      "explanation": "「dynamic」ここでは、関係性や状況における相互作用や変化の状態を指します。特に人間関係において、個人間の力や影響力の相互作用を示す際に用いられます。"
+      "explanation": "「dynamic」ここでは、関係性や状況における相互作用や変化の状態を指します。特に人間関係において、個人間の力や影響力の相互作用を示す際に用いられます。",
+      "etymology": "関係性や状況における相互作用や変化の状態を指します。",
+      "pronounciation": "/daɪˈnæmɪk/",
+      "scriptContext": "Raj: That’s the dynamic, I’m the fun one, you’re the buzzkill.",
+      "scriptContextTranslation": "Raj: そういう役割分担だ。僕は楽しいやつで、君は興ざめさせるやつ。"
     },
     {
       "id": 75,
@@ -802,7 +1066,11 @@
         "賢いこと"
       ],
       "correctAnswer": "ばかげたこと",
-      "explanation": "「nonsense」は、意味のないこと、ばかげたこと、または理にかなっていないことを指す名詞です。しばしば、不快感や軽蔑の気持ちを込めて使用されます。"
+      "explanation": "「nonsense」は、意味のないこと、ばかげたこと、または理にかなっていないことを指す名詞です。しばしば、不快感や軽蔑の気持ちを込めて使用されます。",
+      "etymology": "意味のないこと、ばかげたこと、または理にかなっていないことを指す名詞。",
+      "pronounciation": "/ˈnɒnsəns/",
+      "scriptContext": "Amy: You’re sick of his nonsense and ready to move in with me.",
+      "scriptContextTranslation": "Amy: あなたは彼のくだらないことにうんざりして、私と一緒に住む準備ができているのよ。"
     },
     {
       "id": 76,
@@ -814,7 +1082,11 @@
         "完璧なタイミング"
       ],
       "correctAnswer": "必要な能力",
-      "explanation": "「the right stuff」とは、困難な状況や危険な任務を遂行するために必要な資質、能力、勇気などを指すイディオムです。特に宇宙飛行士やパイロットなど、高度なスキルと精神力が求められる職業に関連して使われることが多いです。このフレーズは、トム・ウルフのノンフィクション小説『The Right Stuff』とその映画化によって広く知られるようになりました。\n\n例：He doesn't have the right stuff to be a leader. (彼にはリーダーになるための資質がない。)"
+      "explanation": "「the right stuff」とは、困難な状況や危険な任務を遂行するために必要な資質、能力、勇気などを指すイディオムです。特に宇宙飛行士やパイロットなど、高度なスキルと精神力が求められる職業に関連して使われることが多いです。このフレーズは、トム・ウルフのノンフィクション小説『The Right Stuff』とその映画化によって広く知られるようになりました。\n\n例：He doesn't have the right stuff to be a leader. (彼にはリーダーになるための資質がない。)",
+      "etymology": "困難な状況や危険な任務を遂行するために必要な資質、能力、勇気などを指すイディオム",
+      "pronounciation": "",
+      "scriptContext": "Mike M: Well, I heard you were thinking about going back up to the space station, and as someone who’s been there with you, well, you know how astronauts need to have the right stuff?",
+      "scriptContextTranslation": "Mike M: 君が宇宙ステーションに戻ることを考えていると聞いたからな。君と一緒にいたことがある人間として言うけど、宇宙飛行士は適切な資質が必要だってわかるだろ？"
     },
     {
       "id": 77,
@@ -826,7 +1098,11 @@
         "喜劇的な"
       ],
       "correctAnswer": "外傷的な",
-      "explanation": "「traumatic」は、精神的な外傷を引き起こすような、非常にショックで苦痛な経験を指す形容詞です。深刻な事故、暴力、自然災害など、人の心に深い傷跡を残す出来事に対して用いられます。\n\n例：The car accident was a traumatic experience for her. (その自動車事故は彼女にとって外傷的な経験だった。)"
+      "explanation": "「traumatic」は、精神的な外傷を引き起こすような、非常にショックで苦痛な経験を指す形容詞です。深刻な事故、暴力、自然災害など、人の心に深い傷跡を残す出来事に対して用いられます。\n\n例：The car accident was a traumatic experience for her. (その自動車事故は彼女にとって外傷的な経験だった。)",
+      "etymology": "精神的な外傷を引き起こすような、非常にショックで苦痛な経験を指す形容詞",
+      "pronounciation": "/trɔːˈmætɪk/",
+      "scriptContext": "Bernadette: I think what we’re all trying to say is, you don’t seem to be remembering how traumatic the experience was for you.",
+      "scriptContextTranslation": "Bernadette: 私たちが言いたいのは、あなたにとってどれだけトラウマになる経験だったかを忘れているみたいだってことよ。"
     },
     {
       "id": 78,
@@ -838,7 +1114,11 @@
         "総合"
       ],
       "correctAnswer": "類似",
-      "explanation": "「analogy」は、類似性に基づく推論や説明を指します。ある事柄を別の事柄に例えることで、理解を深めたり、複雑な概念を分かりやすく伝えたりする際に用いられます。効果的なアナロジーは、聞き手や読み手の共感を呼び、記憶に残りやすいという特徴があります。\n\n例：He drew an analogy between the human heart and a pump. (彼は人間の心臓とポンプの類似点を指摘した。)"
+      "explanation": "「analogy」は、類似性に基づく推論や説明を指します。ある事柄を別の事柄に例えることで、理解を深めたり、複雑な概念を分かりやすく伝えたりする際に用いられます。効果的なアナロジーは、聞き手や読み手の共感を呼び、記憶に残りやすいという特徴があります。\n\n例：He drew an analogy between the human heart and a pump. (彼は人間の心臓とポンプの類似点を指摘した。)",
+      "etymology": "類似性に基づく推論や説明を指す",
+      "pronounciation": "/əˈnælədʒi/",
+      "scriptContext": "Mike R: Like a woman. Great analogy.",
+      "scriptContextTranslation": "Mike R: まるで女性のようだ。素晴らしい例えだ。"
     },
     {
       "id": 79,
@@ -850,7 +1130,11 @@
         "無視する"
       ],
       "correctAnswer": "冗談を言う",
-      "explanation": "「joking around」とは、冗談を言ったり、ふざけたりする行為を指す口語表現です。深刻な状況を和ませたり、親しい間柄でのコミュニケーションを円滑にしたりする目的で用いられます。ただし、状況によっては不適切とみなされる場合もあります。\n\n例：We were just joking around, don't take it so seriously. (私たちはただ冗談を言っていただけで、そんなに真剣に受け止めないで。)"
+      "explanation": "「joking around」とは、冗談を言ったり、ふざけたりする行為を指す口語表現です。深刻な状況を和ませたり、親しい間柄でのコミュニケーションを円滑にしたりする目的で用いられます。ただし、状況によっては不適切とみなされる場合もあります。\n\n例：We were just joking around, don't take it so seriously. (私たちはただ冗談を言っていただけで、そんなに真剣に受け止めないで。)",
+      "etymology": "冗談を言ったり、ふざけたりする行為を指す口語表現",
+      "pronounciation": "",
+      "scriptContext": "Howard: Hang on. That was just me joking around.",
+      "scriptContextTranslation": "Howard: 待ってくれよ。それはただの冗談だ。"
     },
     {
       "id": 80,
@@ -862,7 +1146,11 @@
         "無視する"
       ],
       "correctAnswer": "からかう",
-      "explanation": "「pick on」は、人を繰り返しからかったり、いじめたりする行為を指す句動詞です。特に、弱い立場の者を標的にして、言葉や態度で不快な思いをさせる場合に使われます。\n\n例：The older boys were always picking on him. (年上の男の子たちはいつも彼をからかっていた。)"
+      "explanation": "「pick on」は、人を繰り返しからかったり、いじめたりする行為を指す句動詞です。特に、弱い立場の者を標的にして、言葉や態度で不快な思いをさせる場合に使われます。\n\n例：The older boys were always picking on him. (年上の男の子たちはいつも彼をからかっていた。)",
+      "etymology": "人を繰り返しからかったり、いじめたりする行為を指す句動詞",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Don’t forget all the other astronauts picking on you.",
+      "scriptContextTranslation": "Bernadette: 他の宇宙飛行士たちがあなたをからかったことも忘れないで。"
     },
     {
       "id": 81,
@@ -874,7 +1162,11 @@
         "変動重力"
       ],
       "correctAnswer": "無重力",
-      "explanation": "「zero gravity」とは、重力がほとんどまたは全く存在しない状態を指します。宇宙空間や、特定の条件下で人工的に作り出された環境で経験されます。無重力状態では、物体は自由に浮遊し、通常の地球上とは異なる物理現象が観察されます。\n\n例：Astronauts train in zero gravity to prepare for space missions. (宇宙飛行士は宇宙ミッションに備えて無重力状態で訓練する。)"
+      "explanation": "「zero gravity」とは、重力がほとんどまたは全く存在しない状態を指します。宇宙空間や、特定の条件下で人工的に作り出された環境で経験されます。無重力状態では、物体は自由に浮遊し、通常の地球上とは異なる物理現象が観察されます。\n\n例：Astronauts train in zero gravity to prepare for space missions. (宇宙飛行士は宇宙ミッションに備えて無重力状態で訓練する。)",
+      "etymology": "重力がほとんどまたは全く存在しない状態を指します",
+      "pronounciation": "/ˈzɪəroʊ ˈɡrævəti/",
+      "scriptContext": "Raj: And how you threw up in zero gravity, and it floated back in your mouth. And you threw up again. And so on and so on.",
+      "scriptContextTranslation": "Raj: それと、無重力で吐いて、それが口の中に浮かび上がってきたこと。それでまた吐いたこと。それが何度も何度も続いたこと。"
     },
     {
       "id": 82,
@@ -886,7 +1178,11 @@
         "安心した"
       ],
       "correctAnswer": "侮辱された",
-      "explanation": "「insulted」は、侮辱された、名誉を傷つけられた、見下されたと感じる状態を表す形容詞です。相手の言葉や態度によって、自尊心や尊厳が傷つけられたときに用いられます。\n\n例：She felt insulted by his rude comments. (彼女は彼の無礼なコメントに侮辱されたと感じた。)"
+      "explanation": "「insulted」は、侮辱された、名誉を傷つけられた、見下されたと感じる状態を表す形容詞です。相手の言葉や態度によって、自尊心や尊厳が傷つけられたときに用いられます。\n\n例：She felt insulted by his rude comments. (彼女は彼の無礼なコメントに侮辱されたと感じた。)",
+      "etymology": "侮辱された、名誉を傷つけられた、見下されたと感じる状態を表す形容詞",
+      "pronounciation": "/ɪnˈsʌltɪd/",
+      "scriptContext": "Howard: Okay, so I wasn’t exactly John Glenn up there, but I’ve changed. I’m a different man now. Yeah, and I’m a little insulted that you guys don’t think I can handle it.",
+      "scriptContextTranslation": "Howard: わかったよ、俺はジョン・グレンじゃなかったかもしれないけど、変わったんだ。今は違う男だ。ああ、それに、俺がそれを乗り越えられないと思っているなんて、少し侮辱的だ。"
     },
     {
       "id": 83,
@@ -898,7 +1194,11 @@
         "避ける"
       ],
       "correctAnswer": "処理する",
-      "explanation": "「handle it」とは、問題や状況に対処する、管理する、乗り越えるという意味の句動詞です。困難な状況やプレッシャーのかかる状況で、適切に対応できる能力があるかどうかを問う文脈でよく使われます。\n\n例：He's under a lot of pressure, but I think he can handle it. (彼は大きなプレッシャーにさらされているが、彼はそれを乗り越えることができると思う。)"
+      "explanation": "「handle it」とは、問題や状況に対処する、管理する、乗り越えるという意味の句動詞です。困難な状況やプレッシャーのかかる状況で、適切に対応できる能力があるかどうかを問う文脈でよく使われます。\n\n例：He's under a lot of pressure, but I think he can handle it. (彼は大きなプレッシャーにさらされているが、彼はそれを乗り越えることができると思う。)",
+      "etymology": "問題や状況に対処する、管理する、乗り越えるという意味の句動詞",
+      "pronounciation": "",
+      "scriptContext": "Howard: Okay, so I wasn’t exactly John Glenn up there, but I’ve changed. I’m a different man now. Yeah, and I’m a little insulted that you guys don’t think I can handle it.",
+      "scriptContextTranslation": "Howard: わかったよ、俺はジョン・グレンじゃなかったかもしれないけど、変わったんだ。今は違う男だ。ああ、それに、俺がそれを乗り越えられないと思っているなんて、少し侮辱的だ。"
     },
     {
       "id": 84,
@@ -910,7 +1210,11 @@
         "運動訓練"
       ],
       "correctAnswer": "サバイバル訓練",
-      "explanation": "「survival training」とは、厳しい環境下で生き残るために必要な知識や技術を習得するための訓練です。食料や水の確保、避難場所の建設、応急処置など、様々なスキルが含まれます。軍隊や冒険家、自然愛好家などが受けることが多いです。\n\n例：The soldiers underwent survival training in the jungle. (兵士たちはジャングルでサバイバル訓練を受けた。)"
+      "explanation": "「survival training」とは、厳しい環境下で生き残るために必要な知識や技術を習得するための訓練です。食料や水の確保、避難場所の建設、応急処置など、様々なスキルが含まれます。軍隊や冒険家、自然愛好家などが受けることが多いです。\n\n例：The soldiers underwent survival training in the jungle. (兵士たちはジャングルでサバイバル訓練を受けた。)",
+      "etymology": "厳しい環境下で生き残るために必要な知識や技術を習得するための訓練",
+      "pronounciation": "/sərˈvaɪvəl ˈtreɪnɪŋ/",
+      "scriptContext": "Mike M: You know you’re gonna have to go through survival training again.",
+      "scriptContextTranslation": "Mike M: サバイバル訓練をまた受けないといけないって知ってるか？"
     },
     {
       "id": 85,
@@ -922,7 +1226,11 @@
         "病弱"
       ],
       "correctAnswer": "完璧に健康",
-      "explanation": "「perfectly healthy」とは、健康状態が完全に良好であることを意味します。病気や不調がなく、身体的にも精神的にも健康な状態を指します。医師の診断などで用いられることが多い表現です。\n\n例：The doctor said I'm perfectly healthy. (医者は私が完全に健康だと言った。)"
+      "explanation": "「perfectly healthy」とは、健康状態が完全に良好であることを意味します。病気や不調がなく、身体的にも精神的にも健康な状態を指します。医師の診断などで用いられることが多い表現です。\n\n例：The doctor said I'm perfectly healthy. (医者は私が完全に健康だと言った。)",
+      "etymology": "健康状態が完全に良好であることを意味します",
+      "pronounciation": "/ˈpɜːrfɪktli ˈhelθi/",
+      "scriptContext": "Doctor: What do you want me to do? You’re perfectly healthy.",
+      "scriptContextTranslation": "Doctor: 何をしろって言うんだ？ 君は完全に健康だよ。"
     },
     {
       "id": 86,
@@ -934,7 +1242,11 @@
         "記録を下回る"
       ],
       "correctAnswer": "記録を大幅に超える",
-      "explanation": "「off the charts」とは、通常考えられる範囲や基準を大幅に超えている状態を指すイディオムです。数値や評価が極端に高い、または低い場合に用いられます。良い意味でも悪い意味でも使われます。\n\n例：Her popularity is off the charts. (彼女の人気は記録を大幅に超えている。)\n例：The stress levels were off the charts during the project. (プロジェクト中のストレスレベルは異常に高かった。)"
+      "explanation": "「off the charts」とは、通常考えられる範囲や基準を大幅に超えている状態を指すイディオムです。数値や評価が極端に高い、または低い場合に用いられます。良い意味でも悪い意味でも使われます。\n\n例：Her popularity is off the charts. (彼女の人気は記録を大幅に超えている。)\n例：The stress levels were off the charts during the project. (プロジェクト中のストレスレベルは異常に高かった。)",
+      "etymology": "通常考えられる範囲や基準を大幅に超えている状態を指すイディオム",
+      "pronounciation": "",
+      "scriptContext": "Raj: Howard, I’m so sorry your blood pressure was off the charts.",
+      "scriptContextTranslation": "Raj: ハワード、血圧が異常に高かったのは気の毒だよ。"
     },
     {
       "id": 87,
@@ -946,7 +1258,11 @@
         "結果を予測する"
       ],
       "correctAnswer": "結果を改ざんする",
-      "explanation": "「fudge the results」とは、結果をごまかしたり、不正に操作したりすることを意味します。データや数値を都合の良いように変更し、真実を隠蔽する行為を指します。倫理的に問題がある行為であり、非難されることがあります。\n\n例：They were accused of fudging the results of the experiment. (彼らは実験の結果を改ざんしたとして告発された。)"
+      "explanation": "「fudge the results」とは、結果をごまかしたり、不正に操作したりすることを意味します。データや数値を都合の良いように変更し、真実を隠蔽する行為を指します。倫理的に問題がある行為であり、非難されることがあります。\n\n例：They were accused of fudging the results of the experiment. (彼らは実験の結果を改ざんしたとして告発された。)",
+      "etymology": "結果をごまかしたり、不正に操作したりすることを意味します",
+      "pronounciation": "",
+      "scriptContext": "Howard: Oh, me, too. I mean, the doctor was willing to fudge the results, but it just seemed so darned dishonest.",
+      "scriptContextTranslation": "Howard: ああ、俺もだよ。医者は結果をごまかす気だったけど、とても不正に思えたんだ。"
     },
     {
       "id": 88,
@@ -958,7 +1274,11 @@
         "普通に"
       ],
       "correctAnswer": "非常に",
-      "explanation": "「darned」は、主にアメリカ英語で使われる婉曲的な表現で、「damned」の代わりに用いられます。強調の意味合いを持ち、「非常に」「とても」といった意味で使われます。しばしば、不快感や驚きを伴う感情を表す際に用いられます。\n\n例：That's a darned good idea. (それは非常に良いアイデアだ。)"
+      "explanation": "「darned」は、主にアメリカ英語で使われる婉曲的な表現で、「damned」の代わりに用いられます。強調の意味合いを持ち、「非常に」「とても」といった意味で使われます。しばしば、不快感や驚きを伴う感情を表す際に用いられます。\n\n例：That's a darned good idea. (それは非常に良いアイデアだ。)",
+      "etymology": "主にアメリカ英語で使われる婉曲的な表現で、強調の意味合いを持ち、「非常に」「とても」といった意味",
+      "pronounciation": "/dɑːrnd/",
+      "scriptContext": "Howard: Oh, me, too. I mean, the doctor was willing to fudge the results, but it just seemed so darned dishonest.",
+      "scriptContextTranslation": "Howard: ああ、俺もだよ。医者は結果をごまかす気だったけど、とても不正に思えたんだ。"
     },
     {
       "id": 89,
@@ -970,7 +1290,11 @@
         "過大評価されている"
       ],
       "correctAnswer": "制御下にある",
-      "explanation": "「under」は、ここでは「under control」の一部として使われており、何かが管理され、制御されている状態を意味します。血圧などの健康状態が正常範囲内にあることを表現する際によく用いられます。\n\n例：We need to get the situation under control. (私たちは状況を制御下に置く必要があります。)"
+      "explanation": "「under」は、ここでは「under control」の一部として使われており、何かが管理され、制御されている状態を意味します。血圧などの健康状態が正常範囲内にあることを表現する際によく用いられます。\n\n例：We need to get the situation under control. (私たちは状況を制御下に置く必要があります。)",
+      "etymology": "ここでは「under control」の一部として使われており、何かが管理され、制御されている状態を意味します",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 90,
@@ -982,7 +1306,11 @@
         "手伝って"
       ],
       "correctAnswer": "忘れて",
-      "explanation": "「Drop it」とは、話題や議論を打ち切る、もうそれ以上言わないでほしいという意味の口語表現です。不快な話題や解決の見込みのない議論を終わらせたいときに使われます。\n\n例：I don't want to talk about it, just drop it. (そのことについて話したくないから、もうやめて。)"
+      "explanation": "「Drop it」とは、話題や議論を打ち切る、もうそれ以上言わないでほしいという意味の口語表現です。不快な話題や解決の見込みのない議論を終わらせたいときに使われます。\n\n例：I don't want to talk about it, just drop it. (そのことについて話したくないから、もうやめて。)",
+      "etymology": "話題や議論を打ち切る、もうそれ以上言わないでほしいという意味の口語表現",
+      "pronounciation": "",
+      "scriptContext": "Howard: Look, my blood pressure’s too high, okay? Drop it.",
+      "scriptContextTranslation": "Howard: いいか、俺の血圧は高すぎるんだ。いいか？ その話はやめろ。"
     },
     {
       "id": 91,
@@ -994,7 +1322,11 @@
         "分類する"
       ],
       "correctAnswer": "擬人化する",
-      "explanation": "「anthropomorphize」とは、人間以外のもの（動物、物、自然現象など）に人間の特性や感情を atribuir する行為を指します。例えば、「太陽が笑っている」や「木が悲しんでいる」といった表現は擬人化の例です。文学やアニメーション、日常生活など、様々な場面で見られます。\n\n例：We shouldn't anthropomorphize our pets too much. (ペットを擬人化しすぎるべきではない。)"
+      "explanation": "「anthropomorphize」とは、人間以外のもの（動物、物、自然現象など）に人間の特性や感情を atribuir する行為を指します。例えば、「太陽が笑っている」や「木が悲しんでいる」といった表現は擬人化の例です。文学やアニメーション、日常生活など、様々な場面で見られます。\n\n例：We shouldn't anthropomorphize our pets too much. (ペットを擬人化しすぎるべきではない。)",
+      "etymology": "人間以外のものに人間の特性や感情を atribui する行為",
+      "pronounciation": "/ˌænθrəpəˈmɔːrfaɪz/",
+      "scriptContext": "Leonard: Oh, don’t anthropomorphize him, he’s got big eyes, but his feelings are not like ours.",
+      "scriptContextTranslation": "Leonard: ああ、擬人化しないでくれ。彼は大きな目を持っているけど、感情は僕たちとは違うんだ。"
     },
     {
       "id": 92,
@@ -1006,7 +1338,11 @@
         "背を向ける"
       ],
       "correctAnswer": "立ち向かう",
-      "explanation": "「stand up to」は、人に立ち向かう、反抗する、勇敢に抵抗するという意味の句動詞です。権力や圧力に屈せず、自分の意見や信念を貫く姿勢を表します。いじめや不正に対して戦う場面などでよく使われます。\n\n例：You have to stand up to bullies. (いじめっ子には立ち向かわなければならない。)"
+      "explanation": "「stand up to」は、人に立ち向かう、反抗する、勇敢に抵抗するという意味の句動詞です。権力や圧力に屈せず、自分の意見や信念を貫く姿勢を表します。いじめや不正に対して戦う場面などでよく使われます。\n\n例：You have to stand up to bullies. (いじめっ子には立ち向かわなければならない。)",
+      "etymology": "人に立ち向かう、反抗する、勇敢に抵抗するという意味の句動詞",
+      "pronounciation": "",
+      "scriptContext": "Leonard: But Penny, this was your idea. You said that I should stand up to him.",
+      "scriptContextTranslation": "Leonard: でもペニー、これは君のアイデアだったじゃないか。君は僕が彼に立ち向かうべきだと言ったんだ。"
     },
     {
       "id": 93,
@@ -1018,7 +1354,11 @@
         "感謝する"
       ],
       "correctAnswer": "反対する",
-      "explanation": "「Screw that!」とは、強い不満や反対、拒絶を表す口語表現です。何かに対して非常に腹立たしい、または受け入れられないと感じたときに使われます。やや下品な表現なので、使用する場面には注意が必要です。\n\n例：I'm not doing that, screw that! (そんなことしない、ふざけるな！)"
+      "explanation": "「Screw that!」とは、強い不満や反対、拒絶を表す口語表現です。何かに対して非常に腹立たしい、または受け入れられないと感じたときに使われます。やや下品な表現なので、使用する場面には注意が必要です。\n\n例：I'm not doing that, screw that! (そんなことしない、ふざけるな！)",
+      "etymology": "強い不満や反対、拒絶を表す口語表現",
+      "pronounciation": "",
+      "scriptContext": "Raj: Screw that! I sat on the floor for seven years. I’m staying right here.",
+      "scriptContextTranslation": "Raj: ふざけるな！ 俺は7年間も床に座ってたんだ。ここにいるよ。"
     }
   ]
 }

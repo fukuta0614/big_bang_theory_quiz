@@ -10,7 +10,11 @@
         "後悔する"
       ],
       "correctAnswer": "排尿する",
-      "explanation": "「urinate」は、尿を排出するという意味の動詞です。日常会話よりもややフォーマルな表現で、医学的な文脈でも使用されます。例文：The doctor asked him to urinate in a cup for the test. (医者は彼に検査のためにカップに排尿するように言った。)"
+      "explanation": "「urinate」は、尿を排出するという意味の動詞です。日常会話よりもややフォーマルな表現で、医学的な文脈でも使用されます。例文：The doctor asked him to urinate in a cup for the test. (医者は彼に検査のためにカップに排尿するように言った。)",
+      "etymology": "「urine」（尿）に動詞を作る接尾辞「-ate」が付いたもので、「尿をする」という意味になります。",
+      "pronounciation": "/ˈjʊərɪneɪt/",
+      "scriptContext": "Sheldon: Boy, do I have to urinate.",
+      "scriptContextTranslation": "Sheldon: あー、小便行きたい。"
     },
     {
       "id": 2,
@@ -22,7 +26,11 @@
         "肺"
       ],
       "correctAnswer": "骨盤",
-      "explanation": "「pelvis」は、骨盤を意味する名詞です。人体解剖学において、下半身を支える重要な骨格部分を指します。例文：She felt pain in her pelvis after the fall. (彼女は転倒後、骨盤に痛みを感じた。)"
+      "explanation": "「pelvis」は、骨盤を意味する名詞です。人体解剖学において、下半身を支える重要な骨格部分を指します。例文：She felt pain in her pelvis after the fall. (彼女は転倒後、骨盤に痛みを感じた。)",
+      "etymology": "ラテン語の「pelvis」（たらい、骨盤）に由来します。骨盤がたらいのような形をしていることから。",
+      "pronounciation": "/ˈpelvɪs/",
+      "scriptContext": "Sheldon: Seriously. I feel like I’ve got a fish tank in my pelvis.",
+      "scriptContextTranslation": "Sheldon: マジで。骨盤の中に金魚鉢がある気分だ。"
     },
     {
       "id": 3,
@@ -34,7 +42,11 @@
         "完全に"
       ],
       "correctAnswer": "その場で",
-      "explanation": "「on the spot」は、「即座に」「その場で」という意味のイディオムです。準備なしに、すぐに何かをすることを指します。例文：She was able to answer the question on the spot. (彼女はその質問にその場で答えることができた。)"
+      "explanation": "「on the spot」は、「即座に」「その場で」という意味のイディオムです。準備なしに、すぐに何かをすることを指します。例文：She was able to answer the question on the spot. (彼女はその質問にその場で答えることができた。)",
+      "etymology": "文字通りには「その場所で」。何かの出来事が起こっているまさにその場所、または即座にという意味から。",
+      "pronounciation": "",
+      "scriptContext": "Penny: I killed it. I was even able to cry real tears right on the spot.",
+      "scriptContextTranslation": "Penny: 最高だったわ。その場で本物の涙を流せたんだから。"
     },
     {
       "id": 4,
@@ -46,7 +58,11 @@
         "庭の水やり"
       ],
       "correctAnswer": "涙もろさ",
-      "explanation": "「waterworks」は、「涙」や「泣き出すこと」を指す口語的な表現です。感情が高ぶり、泣き出す場面で使われます。例文：She turned on the waterworks to get her way. (彼女は自分の思い通りにするために泣き出した。)"
+      "explanation": "「waterworks」は、「涙」や「泣き出すこと」を指す口語的な表現です。感情が高ぶり、泣き出す場面で使われます。例文：She turned on the waterworks to get her way. (彼女は自分の思い通りにするために泣き出した。)",
+      "etymology": "涙が水道から水が流れ出るように、とめどなく溢れ出す様子から。",
+      "pronounciation": "",
+      "scriptContext": "Penny: I know. Next time I get pulled over for a speeding ticket, here come the waterworks.",
+      "scriptContextTranslation": "Penny: でしょ。今度スピード違反で捕まったら、泣き落とし作戦よ。"
     },
     {
       "id": 5,
@@ -58,7 +74,11 @@
         "天才"
       ],
       "correctAnswer": "のろま",
-      "explanation": "「goof」は、まぬけ、間抜け、のろま、うっかり者といった意味を持つ名詞です。また、「goof around」で、ぶらぶらする、ゴロゴロするといった意味になります。例文：He is a lovable goof.(彼は愛すべきおっちょこちょいだ。)"
+      "explanation": "「goof」は、まぬけ、間抜け、のろま、うっかり者といった意味を持つ名詞です。また、「goof around」で、ぶらぶらする、ゴロゴロするといった意味になります。例文：He is a lovable goof.(彼は愛すべきおっちょこちょいだ。)",
+      "etymology": "語源ははっきりしていませんが、「間抜けな人」や「へまをする」といった意味合いから、のろまやうっかり者を指すようになったと考えられます。",
+      "pronounciation": "/ɡuːf/",
+      "scriptContext": "Bernadette: Okay, well, I did something that will either make me look like a lovable goof or a horrible monster damned to spend eternity in hell.",
+      "scriptContextTranslation": "Bernadette: ええとね、私がやったことで、愛すべきおバカに見られるか、永遠に地獄で過ごす運命にある恐ろしい怪物に見られるかのどっちかなの。"
     },
     {
       "id": 6,
@@ -70,7 +90,11 @@
         "招待される"
       ],
       "correctAnswer": "運命にある",
-      "explanation": "「be damned to」は、「～する運命にある」「～という目に遭う」という意味の表現です。多くの場合、不快な状況や結果を強調する際に用いられます。例文：He is damned to repeat the same mistakes. (彼は同じ過ちを繰り返す運命にある。)"
+      "explanation": "「be damned to」は、「～する運命にある」「～という目に遭う」という意味の表現です。多くの場合、不快な状況や結果を強調する際に用いられます。例文：He is damned to repeat the same mistakes. (彼は同じ過ちを繰り返す運命にある。)",
+      "etymology": "「damned」は「地獄に落ちる」という意味で、「be damned to」で、そのような運命にある、という意味合いになります。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 7,
@@ -82,7 +106,11 @@
         "危険を冒す"
       ],
       "correctAnswer": "人生にしがみつく",
-      "explanation": "「clinging to life」は、「死に瀕している」「命にしがみついている」という意味の表現です。重病や事故などで生死の境をさまよっている状態を表します。例文：The injured man was clinging to life after the accident. (その負傷者は事故後、命にしがみついていた。)"
+      "explanation": "「clinging to life」は、「死に瀕している」「命にしがみついている」という意味の表現です。重病や事故などで生死の境をさまよっている状態を表します。例文：The injured man was clinging to life after the accident. (その負傷者は事故後、命にしがみついていた。)",
+      "etymology": "「clinging」はしがみつくという意味で、生命にしがみつく様子から、死に瀕している状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: So on the card, in the hospital, next to the woman who’s clinging to life are the words, “Hey, Vivian. You deserve this. And at least with you gone, no one will steal my yoghurt out of the fridge.”",
+      "scriptContextTranslation": "Bernadette: それで、そのカードに、病院で、命にしがみついている女性の隣に、「やあ、ヴィヴィアン。自業自得ね。少なくともあなたがいなくなれば、誰も私のヨーグルトを冷蔵庫から盗まなくなるわ」って書かれてあるの。"
     },
     {
       "id": 8,
@@ -94,7 +122,11 @@
         "結局～になる"
       ],
       "correctAnswer": "結局～になる",
-      "explanation": "「wind up」は、「結局～になる」「最終的に～になる」という意味の句動詞です。意図しない結果や予想外の結末を指すことが多いです。例文：If you keep driving like that, you'll wind up in jail. (そんな運転をしていたら、結局刑務所行きになるぞ。)"
+      "explanation": "「wind up」は、「結局～になる」「最終的に～になる」という意味の句動詞です。意図しない結果や予想外の結末を指すことが多いです。例文：If you keep driving like that, you'll wind up in jail. (そんな運転をしていたら、結局刑務所行きになるぞ。)",
+      "etymology": "元々は「（ぜんまいなどを）巻く」という意味ですが、比喩的に「最終的に～という状態に巻き込まれる」という意味合いから、「結局～になる」という意味になったと考えられます。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: “P.S. Good luck wherever you wind up.”",
+      "scriptContextTranslation": "Bernadette: 「追伸。どこへ行っても幸運を祈るわ」"
     },
     {
       "id": 9,
@@ -106,7 +138,11 @@
         "混乱する"
       ],
       "correctAnswer": "頭をよぎる",
-      "explanation": "「crossed my mind」は、「（考えなどが）頭をよぎる」「ふと～が思い浮かぶ」という意味の表現です。例文：It crossed my mind that she might be lying. (彼女が嘘をついているかもしれないとふと思った。)"
+      "explanation": "「crossed my mind」は、「（考えなどが）頭をよぎる」「ふと～が思い浮かぶ」という意味の表現です。例文：It crossed my mind that she might be lying. (彼女が嘘をついているかもしれないとふと思った。)",
+      "etymology": "考えが心の中を通り過ぎる様子から、「頭をよぎる」という意味になったと考えられます。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Am I a terrible person that it crossed my mind that she might die and never see the card?",
+      "scriptContextTranslation": "Bernadette: 彼女が死んで、カードを見ないかもしれないって考えが頭をよぎった私は、ひどい人間？"
     },
     {
       "id": 10,
@@ -118,7 +154,11 @@
         "成功する"
       ],
       "correctAnswer": "危険を冒す",
-      "explanation": "「flirting with the line」は、「境界線を越えそうになる」「危険な状態に近づく」という意味のイディオムです。倫理的、道徳的な境界線をわずかに超えようとする様子を表します。例文：He was flirting with the line when he cheated on the test. (彼はテストで不正行為をして、危険な状態に近づいていた。)"
+      "explanation": "「flirting with the line」は、「境界線を越えそうになる」「危険な状態に近づく」という意味のイディオムです。倫理的、道徳的な境界線をわずかに超えようとする様子を表します。例文：He was flirting with the line when he cheated on the test. (彼はテストで不正行為をして、危険な状態に近づいていた。)",
+      "etymology": "境界線と戯れる様子から、危険な状態に近づくことを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Now I think you’re flirting with the line. Good news?",
+      "scriptContextTranslation": "Amy: もうギリギリのラインね。良いニュース？"
     },
     {
       "id": 11,
@@ -130,7 +170,11 @@
         "通過する"
       ],
       "correctAnswer": "拒否する",
-      "explanation": "「pass on」は、申し出や機会を「断る」「見送る」という意味の句動詞です。例文：I decided to pass on the job offer. (その仕事の申し出を断ることにした。)"
+      "explanation": "「pass on」は、申し出や機会を「断る」「見送る」という意味の句動詞です。例文：I decided to pass on the job offer. (その仕事の申し出を断ることにした。)",
+      "etymology": "申し出などを次に渡す、つまり断るという意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Penny: I kind of did. The part in that awful horror movie I passed on came back around. Apparently, it’s mine if I want it.",
+      "scriptContextTranslation": "Penny: まあね、ちょっとだけ。以前断ったあのひどいホラー映画の役がまた回ってきたの。どうやら私がやりたければ、私のものになるみたい。"
     },
     {
       "id": 12,
@@ -142,7 +186,11 @@
         "新しくなる"
       ],
       "correctAnswer": "戻ってくる",
-      "explanation": "「come back around」は、「再び現れる」「戻ってくる」という意味の句動詞です。以前に存在したが、一時的に消えていたものが再び現れる状況を表します。例文：The opportunity came back around after a few months. (数か月後、その機会が再び巡ってきた。)"
+      "explanation": "「come back around」は、「再び現れる」「戻ってくる」という意味の句動詞です。以前に存在したが、一時的に消えていたものが再び現れる状況を表します。例文：The opportunity came back around after a few months. (数か月後、その機会が再び巡ってきた。)",
+      "etymology": "一度去ったものが再び元の場所に戻ってくる様子から、「再び現れる」「戻ってくる」という意味になったと考えられます。",
+      "pronounciation": "",
+      "scriptContext": "Penny: I kind of did. The part in that awful horror movie I passed on came back around. Apparently, it’s mine if I want it.",
+      "scriptContextTranslation": "Penny: まあね、ちょっとだけ。以前断ったあのひどいホラー映画の役がまた回ってきたの。どうやら私がやりたければ、私のものになるみたい。"
     },
     {
       "id": 13,
@@ -154,7 +202,11 @@
         "私を探し出した"
       ],
       "correctAnswer": "私を探し出した",
-      "explanation": "「track (someone) down」は、「（人）を追跡して見つけ出す」という意味です。例文：The police tracked down the suspect in a remote area. (警察は遠隔地で容疑者を追跡して見つけ出した。)"
+      "explanation": "「track (someone) down」は、「（人）を追跡して見つけ出す」という意味です。例文：The police tracked down the suspect in a remote area. (警察は遠隔地で容疑者を追跡して見つけ出した。)",
+      "etymology": "「track」は追跡するという意味で、文字通りに誰かを追跡して見つけ出すという意味から。",
+      "pronounciation": "",
+      "scriptContext": "Emily: From the dating Web site. Your friend e-mailed me because you were afraid to, then you tracked me down and acted like a lunatic?",
+      "scriptContextTranslation": "Emily: デートサイトでしょ。あなたが怖がってメールを送れないから、あなたの友達が代わりにメールしてきた。そのあと、私を追跡してきて、まるで狂人のような振る舞いをした。"
     },
     {
       "id": 14,
@@ -166,7 +218,11 @@
         "隠蔽した"
       ],
       "correctAnswer": "失敗した",
-      "explanation": "「blow it」は、「しくじる」「失敗する」という意味の口語的な表現です。チャンスや機会を逃したときに使われます。例文：I had a great opportunity, but I blew it. (素晴らしい機会があったのに、しくじってしまった。)"
+      "explanation": "「blow it」は、「しくじる」「失敗する」という意味の口語的な表現です。チャンスや機会を逃したときに使われます。例文：I had a great opportunity, but I blew it. (素晴らしい機会があったのに、しくじってしまった。)",
+      "etymology": "チャンスを吹き飛ばしてしまうイメージから、「しくじる」「失敗する」という意味になったと考えられます。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Yes, Rajesh Koothrappali. Look, uh, I just, I wanted to say I’m sorry. Okay? You were, like, the coolest person I ever found online, and I got really nervous and I, I just blew it.",
+      "scriptContextTranslation": "Raj: はい、ラジェッシュ・クースラポリです。あの、その、ただ、謝りたかったんです。いいですか？あなたは、今までオンラインで見つけた中で一番クールな人だったんです。それで、ものすごく緊張して、その、めちゃくちゃにしちゃった。"
     },
     {
       "id": 15,
@@ -178,7 +234,11 @@
         "私にアドバイスをください"
       ],
       "correctAnswer": "私に機会を与えて",
-      "explanation": "「give me a chance」は、「私にチャンスをください」「機会を与えてください」という意味の表現です。自分の能力や可能性を試す機会を求める際に使われます。例文：Just give me a chance to prove myself. (ただ私に自分を証明する機会をください。)"
+      "explanation": "「give me a chance」は、「私にチャンスをください」「機会を与えてください」という意味の表現です。自分の能力や可能性を試す機会を求める際に使われます。例文：Just give me a chance to prove myself. (ただ私に自分を証明する機会をください。)",
+      "etymology": "機会を与える、という文字通りの意味から。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Well, give me a chance, you don’t even know me.",
+      "scriptContextTranslation": "Raj: あの、チャンスをください。あなたは僕のことを何も知らない。"
     },
     {
       "id": 16,
@@ -190,7 +250,11 @@
         "偶然"
       ],
       "correctAnswer": "運命",
-      "explanation": "「fate」は、「運命」という意味の名詞です。人間の力では変えられない、定められた出来事や運命を指します。例文：He believed in fate and accepted his destiny. (彼は運命を信じ、自分の運命を受け入れた。)"
+      "explanation": "「fate」は、「運命」という意味の名詞です。人間の力では変えられない、定められた出来事や運命を指します。例文：He believed in fate and accepted his destiny. (彼は運命を信じ、自分の運命を受け入れた。)",
+      "etymology": "ラテン語の「fatum」（神託、運命）に由来します。神によって定められた人間の運命、という意味合いから。",
+      "pronounciation": "/feɪt/",
+      "scriptContext": "Raj: Ah, really? Thank you. Fate has given me a rare second chance, and I swear to Vishnu I’m not gonna blow it. Or normal words followed by a charming smile.",
+      "scriptContextTranslation": "Raj: あ、本当ですか？ありがとうございます。運命が僕に、滅多にない二度目のチャンスをくれた。ヴィシュヌ神に誓って、今度こそ失敗しない。普通の言葉と魅力的な笑顔で。"
     },
     {
       "id": 17,
@@ -202,7 +266,11 @@
         "簡単"
       ],
       "correctAnswer": "珍しい",
-      "explanation": "「rare」は、「まれな」「珍しい」という意味の形容詞です。頻繁には起こらない、貴重なものを指します。例文：A rare opportunity came his way. (彼に珍しい機会が訪れた。)"
+      "explanation": "「rare」は、「まれな」「珍しい」という意味の形容詞です。頻繁には起こらない、貴重なものを指します。例文：A rare opportunity came his way. (彼に珍しい機会が訪れた。)",
+      "etymology": "ラテン語の「rarus」（まばらな、珍しい）に由来します。普通ではない、珍しいという意味合いから。",
+      "pronounciation": "/rer/",
+      "scriptContext": "Raj: Ah, really? Thank you. Fate has given me a rare second chance, and I swear to Vishnu I’m not gonna blow it. Or normal words followed by a charming smile.",
+      "scriptContextTranslation": "Raj: あ、本当ですか？ありがとうございます。運命が僕に、滅多にない二度目のチャンスをくれた。ヴィシュヌ神に誓って、今度こそ失敗しない。普通の言葉と魅力的な笑顔で。"
     },
     {
       "id": 18,
@@ -214,7 +282,11 @@
         "想像する"
       ],
       "correctAnswer": "誓う",
-      "explanation": "「swear」は、「誓う」という意味の動詞です。約束や証言の真実性を強調するために使われます。例文：I swear I didn't do it. (私はそれをやっていないと誓います。)"
+      "explanation": "「swear」は、「誓う」という意味の動詞です。約束や証言の真実性を強調するために使われます。例文：I swear I didn't do it. (私はそれをやっていないと誓います。)",
+      "etymology": "古英語の「swerian」（誓う）に由来します。神にかけて誓う、という意味合いから。",
+      "pronounciation": "/swer/",
+      "scriptContext": "Raj: Ah, really? Thank you. Fate has given me a rare second chance, and I swear to Vishnu I’m not gonna blow it. Or normal words followed by a charming smile.",
+      "scriptContextTranslation": "Raj: あ、本当ですか？ありがとうございます。運命が僕に、滅多にない二度目のチャンスをくれた。ヴィシュヌ神に誓って、今度こそ失敗しない。普通の言葉と魅力的な笑顔で。"
     },
     {
       "id": 19,
@@ -226,7 +298,11 @@
         "言い訳"
       ],
       "correctAnswer": "解決策",
-      "explanation": "「solution」は、「解決策」という意味の名詞です。問題や困難を解決するための方法や手段を指します。例文：We need to find a solution to this problem. (私たちはこの問題の解決策を見つける必要があります。)"
+      "explanation": "「solution」は、「解決策」という意味の名詞です。問題や困難を解決するための方法や手段を指します。例文：We need to find a solution to this problem. (私たちはこの問題の解決策を見つける必要があります。)",
+      "etymology": "ラテン語の「solvere」（解決する）に由来します。問題を解き放つ、という意味合いから。",
+      "pronounciation": "/səˈluːʃn/",
+      "scriptContext": "Leonard: If only there were a solution to that.",
+      "scriptContextTranslation": "Leonard: 何か解決策があればいいのにね。"
     },
     {
       "id": 20,
@@ -238,7 +314,11 @@
         "私を笑って"
       ],
       "correctAnswer": "私を許して",
-      "explanation": "「forgive me」は、「私を許してください」という意味の表現です。自分の過ちや失礼を詫びる際に使われます。例文：Forgive me for being late. (遅れてごめんなさい。)"
+      "explanation": "「forgive me」は、「私を許してください」という意味の表現です。自分の過ちや失礼を詫びる際に使われます。例文：Forgive me for being late. (遅れてごめんなさい。)",
+      "etymology": "「forgive」は許すという意味で、私を許してください、という文字通りの意味から。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Forgive me for asking a stupid question, but why are you being stupid?",
+      "scriptContextTranslation": "Leonard: バカな質問で悪いけど、なんでそんなバカなことしてるんだ？"
     },
     {
       "id": 21,
@@ -250,7 +330,11 @@
         "無視する"
       ],
       "correctAnswer": "利用する",
-      "explanation": "「employ」は、「（方法・手段などを）用いる」「利用する」という意味の動詞です。例文：The company employs new technologies to improve efficiency. (その会社は効率を改善するために新しい技術を利用している。)"
+      "explanation": "「employ」は、「（方法・手段などを）用いる」「利用する」という意味の動詞です。例文：The company employs new technologies to improve efficiency. (その会社は効率を改善するために新しい技術を利用している。)",
+      "etymology": "フランス語の「employer」（使う、用いる）に由来します。何かを目的のために使う、という意味合いから。",
+      "pronounciation": "/ɪmˈplɔɪɪŋ/",
+      "scriptContext": "Sheldon: I’m not being stupid. I’m employing the work of Dutch researcher, Mirjam Tuk, who found that people with full bladders make better decisions.",
+      "scriptContextTranslation": "Sheldon: バカじゃない。オランダの研究者、ミルヤム・トゥクの研究を活用しているんだ。彼女は膀胱が満タンの人はより良い決断ができると発見した。"
     },
     {
       "id": 22,
@@ -262,7 +346,11 @@
         "休暇"
       ],
       "correctAnswer": "オーディション",
-      "explanation": "「audition」は、「オーディション」という意味の名詞です。俳優や音楽家などが才能を披露し、役や仕事を得るための選考会を指します。例文：She went to an audition for a new play. (彼女は新しい劇のオーディションに行った。)"
+      "explanation": "「audition」は、「オーディション」という意味の名詞です。俳優や音楽家などが才能を披露し、役や仕事を得るための選考会を指します。例文：She went to an audition for a new play. (彼女は新しい劇のオーディションに行った。)",
+      "etymology": "ラテン語の「audire」（聞く）に由来します。才能を聞き分ける、という意味合いから。",
+      "pronounciation": "/ɔːˈdɪʃn/",
+      "scriptContext": "Leonard: Hey. Oh, how’d the audition go?",
+      "scriptContextTranslation": "Leonard: よお。あ、オーディションどうだった？"
     },
     {
       "id": 23,
@@ -274,7 +362,11 @@
         "休憩する"
       ],
       "correctAnswer": "警察に止められる",
-      "explanation": "「get pulled over」は、「（車が）警察に止められる」という意味の句動詞です。交通違反などで警察官に停車を命じられる状況を表します。例文：He got pulled over for speeding. (彼はスピード違反で警察に止められた。)"
+      "explanation": "「get pulled over」は、「（車が）警察に止められる」という意味の句動詞です。交通違反などで警察官に停車を命じられる状況を表します。例文：He got pulled over for speeding. (彼はスピード違反で警察に止められた。)",
+      "etymology": "車を路肩に引っ張って止めるイメージから、警察に止められるという意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Penny: I know. Next time I get pulled over for a speeding ticket, here come the waterworks.",
+      "scriptContextTranslation": "Penny: でしょ。今度スピード違反で捕まったら、泣き落とし作戦よ。"
     },
     {
       "id": 24,
@@ -286,7 +378,11 @@
         "退職祝い"
       ],
       "correctAnswer": "お見舞いカード",
-      "explanation": "「get well card」は、「お見舞いカード」という意味です。病気や怪我をした人へ送るメッセージが書かれたカードです。例文：I sent her a get well card when I heard she was sick. (彼女が病気だと聞いて、お見舞いカードを送った。)"
+      "explanation": "「get well card」は、「お見舞いカード」という意味です。病気や怪我をした人へ送るメッセージが書かれたカードです。例文：I sent her a get well card when I heard she was sick. (彼女が病気だと聞いて、お見舞いカードを送った。)",
+      "etymology": "病気が良くなるようにと送るカード、という意味から。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: But no one told me she was in a horrible car accident over the weekend and what I was signing was not a retirement card but was actually a get well card.",
+      "scriptContextTranslation": "Bernadette: でも誰も教えてくれなかったの。彼女が週末にひどい交通事故にあったこと。私がサインしたのは退職祝いのカードじゃなくて、お見舞いのカードだったの。"
     },
     {
       "id": 25,
@@ -298,7 +394,11 @@
         "結果"
       ],
       "correctAnswer": "確率",
-      "explanation": "「odds」は、「見込み」「可能性」「確率」という意味です。例文：The odds of winning the lottery are very low. (宝くじに当たる確率は非常に低い。)"
+      "explanation": "「odds」は、「見込み」「可能性」「確率」という意味です。例文：The odds of winning the lottery are very low. (宝くじに当たる確率は非常に低い。)",
+      "etymology": "語源は中英語の「oddes」（違い、不均衡）に由来します。元々は二つの事象間の不均衡を指し、そこから「可能性」「確率」という意味に発展しました。",
+      "pronounciation": "/ɑːdz/",
+      "scriptContext": "Penny: I’m liking my odds here.",
+      "scriptContextTranslation": "Penny: ますます怪物の方に賭けたくなるわね。"
     },
     {
       "id": 26,
@@ -310,7 +410,11 @@
         "無視する"
       ],
       "correctAnswer": "意味をなす",
-      "explanation": "「make sense」は、物事が理解できる、理にかなっている、道理に合っているという意味です。日常会話やビジネスシーンで広く使われます。\n\n例：This plan doesn't make sense. (この計画は意味をなさない。)"
+      "explanation": "「make sense」は、物事が理解できる、理にかなっている、道理に合っているという意味です。日常会話やビジネスシーンで広く使われます。\n\n例：This plan doesn't make sense. (この計画は意味をなさない。)",
+      "etymology": "「sense」は感覚、理性という意味で、筋が通っている、理解できるという意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 27,
@@ -322,7 +426,11 @@
         "義務"
       ],
       "correctAnswer": "ジレンマ",
-      "explanation": "「dilemma」は、二つの選択肢の間でどちらを選ぶべきか迷う状況、板挟みの状態を指します。しばしば、どちらの選択肢も好ましくない結果を伴う場合に用いられます。\n\n例：She faced the dilemma of whether to quit her job or continue to be unhappy. (彼女は仕事を辞めるか、不満を抱え続けるかのジレンマに直面した。)"
+      "explanation": "「dilemma」は、二つの選択肢の間でどちらを選ぶべきか迷う状況、板挟みの状態を指します。しばしば、どちらの選択肢も好ましくない結果を伴う場合に用いられます。\n\n例：She faced the dilemma of whether to quit her job or continue to be unhappy. (彼女は仕事を辞めるか、不満を抱え続けるかのジレンマに直面した。)",
+      "etymology": "ギリシャ語の「di-」（二つの）と「lemma」（前提）に由来します。二つの前提の間で板挟みになる、という意味合いから。",
+      "pronounciation": "/dɪˈlemə/",
+      "scriptContext": "Sheldon: Get? Hang on. I don’t feel like you’re taking this dilemma seriously.",
+      "scriptContextTranslation": "Sheldon: 取って？ちょっと待って。君はこのジレンマを真剣に受け止めていない気がする。"
     },
     {
       "id": 28,
@@ -334,7 +442,11 @@
         "カラフルな"
       ],
       "correctAnswer": "角ばった",
-      "explanation": "「angular」は、角がある、角度がはっきりしているという意味です。形状やデザインを説明する際に使われます。\n\n例：The building has an angular design. (その建物は角ばったデザインをしている。)"
+      "explanation": "「angular」は、角がある、角度がはっきりしているという意味です。形状やデザインを説明する際に使われます。\n\n例：The building has an angular design. (その建物は角ばったデザインをしている。)",
+      "etymology": "ラテン語の「angulus」（角）に由来します。角ばっている、角度があるという意味合いから。",
+      "pronounciation": "/ˈæŋɡjələr/",
+      "scriptContext": "Sheldon: Okay, now, the PS4 is more angular and sleek-looking.",
+      "scriptContextTranslation": "Sheldon: オーケー、PS4はより角ばっていて洗練された外観だ。"
     },
     {
       "id": 29,
@@ -346,7 +458,11 @@
         "不格好な"
       ],
       "correctAnswer": "洗練された",
-      "explanation": "「sleek-looking」は、洗練された外観、スタイリッシュな様子を表します。滑らかで美しいデザインを指すことが多いです。\n\n例：The new car is very sleek-looking. (その新しい車はとても洗練された外観をしている。)"
+      "explanation": "「sleek-looking」は、洗練された外観、スタイリッシュな様子を表します。滑らかで美しいデザインを指すことが多いです。\n\n例：The new car is very sleek-looking. (その新しい車はとても洗練された外観をしている。)",
+      "etymology": "「sleek」は滑らかで光沢があるという意味で、洗練された外観を表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Okay, now, the PS4 is more angular and sleek-looking.",
+      "scriptContextTranslation": "Sheldon: オーケー、PS4はより角ばっていて洗練された外観だ。"
     },
     {
       "id": 30,
@@ -358,7 +474,11 @@
         "省エネ"
       ],
       "correctAnswer": "過熱",
-      "explanation": "「overheating」は、過熱、熱くなりすぎる状態を指します。機械や電子機器が正常な温度範囲を超えて熱くなることを意味します。\n\n例：The computer is overheating because the fan is not working. (ファンが動いていないため、コンピューターが過熱している。)"
+      "explanation": "「overheating」は、過熱、熱くなりすぎる状態を指します。機械や電子機器が正常な温度範囲を超えて熱くなることを意味します。\n\n例：The computer is overheating because the fan is not working. (ファンが動いていないため、コンピューターが過熱している。)",
+      "etymology": "「over-」（過剰な）と「heating」（加熱）が組み合わさった言葉で、文字通りに過剰に加熱された状態を指します。",
+      "pronounciation": "/ˌoʊvərˈhiːtɪŋ/",
+      "scriptContext": "Sheldon: Yeah, well, it’s true. But the larger size of the Xbox One may keep it from overheating.",
+      "scriptContextTranslation": "Sheldon: ああ、本当だよ。でもXbox Oneの方がサイズが大きいから、オーバーヒートしにくいかもしれない。"
     },
     {
       "id": 31,
@@ -370,7 +490,11 @@
         "一時的な"
       ],
       "correctAnswer": "従来の",
-      "explanation": "「conventional」は、従来の、慣習的な、ありふれたという意味です。一般的に受け入れられている方法やスタイルを指します。\n\n例：Conventional medicine is still the most reliable option. (従来の医療が依然として最も信頼できる選択肢だ。)"
+      "explanation": "「conventional」は、従来の、慣習的な、ありふれたという意味です。一般的に受け入れられている方法やスタイルを指します。\n\n例：Conventional medicine is still the most reliable option. (従来の医療が依然として最も信頼できる選択肢だ。)",
+      "etymology": "ラテン語の「convenire」（集まる、一致する）に由来します。多くの人が集まって同意する、つまり慣習的なという意味合いから。",
+      "pronounciation": "/kənˈvenʃənl/",
+      "scriptContext": "Sheldon: Yes. Not sold separately. Although the PS4 uses cool new GDDR5 RAM, while the Xbox One is still using the conventional DDR3 memory.",
+      "scriptContextTranslation": "Sheldon: そう。別売りじゃない。PS4はクールなGDDR5 RAMを使っているけど、Xbox Oneはまだ従来のDDR3メモリを使っている。"
     },
     {
       "id": 32,
@@ -382,7 +506,11 @@
         "混乱を招く"
       ],
       "correctAnswer": "ギャップを埋める",
-      "explanation": "「bridge the gap」は、隔たりや差を埋める、問題を解決するという意味です。異なる意見や状況を結びつける際に使われます。\n\n例：Education can help bridge the gap between the rich and the poor. (教育は貧富の差を埋めるのに役立つ。)"
+      "explanation": "「bridge the gap」は、隔たりや差を埋める、問題を解決するという意味です。異なる意見や状況を結びつける際に使われます。\n\n例：Education can help bridge the gap between the rich and the poor. (教育は貧富の差を埋めるのに役立つ。)",
+      "etymology": "文字通りには「溝に橋を架ける」という意味で、隔たりを埋める、問題を解決するという意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 33,
@@ -394,7 +522,11 @@
         "猿の調教師"
       ],
       "correctAnswer": "シリアルエーピスト",
-      "explanation": "「Serial Ape-ist」は、映画のタイトルであり、ここでは「連続猿虐待者」のような意味合いで使われています。架空の言葉遊びです。"
+      "explanation": "「Serial Ape-ist」は、映画のタイトルであり、ここでは「連続猿虐待者」のような意味合いで使われています。架空の言葉遊びです。",
+      "etymology": "「Serial」は連続殺人犯を指し、「Ape-ist」は「Ape」（猿）を虐待する人を指す造語です。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Yeah. I had higher hopes for a movie called Serial Ape-ist 2: Monkey See, Monkey Kill. You know, it’s still possible for you to be good in a bad movie.",
+      "scriptContextTranslation": "Leonard: ああ。「連続類人猿レイプ魔2：猿が見る、猿が殺す」って映画には、もっと期待してたよ。ほら、ひどい映画でも君が良ければまだ可能性はある。"
     },
     {
       "id": 34,
@@ -406,7 +538,11 @@
         "念のため"
       ],
       "correctAnswer": "まず第一に",
-      "explanation": "「for starters」は、まず最初に、手始めにという意味です。提案や議論を始める際に使われます。\n\n例：For starters, we need to find a new location. (まず最初に、新しい場所を見つける必要がある。)"
+      "explanation": "「for starters」は、まず最初に、手始めにという意味です。提案や議論を始める際に使われます。\n\n例：For starters, we need to find a new location. (まず最初に、新しい場所を見つける必要がある。)",
+      "etymology": "料理のコースの最初に提供される料理から、まず最初にという意味合いになったと考えられます。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Well, for starters, I wouldn’t eat the bananas.",
+      "scriptContextTranslation": "Leonard: まず、バナナを食べないことだね。"
     },
     {
       "id": 35,
@@ -418,7 +554,11 @@
         "隠蔽する"
       ],
       "correctAnswer": "原因となる",
-      "explanation": "「lead to」は、～につながる、～の原因となるという意味です。ある行動や状況が結果を引き起こすことを示します。\n\n例：Smoking can lead to lung cancer. (喫煙は肺がんの原因となることがある。)"
+      "explanation": "「lead to」は、～につながる、～の原因となるという意味です。ある行動や状況が結果を引き起こすことを示します。\n\n例：Smoking can lead to lung cancer. (喫煙は肺がんの原因となることがある。)",
+      "etymology": "文字通りには「～に導く」という意味で、ある行動が結果を引き起こすという意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: You know what, why don’t you just do it? You’ll go have fun for a few weeks, make some money, and who knows what it might lead to?",
+      "scriptContextTranslation": "Leonard: いいじゃん、やってみれば？数週間楽しんで、お金も稼げるし、何かに繋がるかもしれないし。"
     },
     {
       "id": 36,
@@ -430,7 +570,11 @@
         "誇張する"
       ],
       "correctAnswer": "明確にする",
-      "explanation": "「clarify」は、明確にする、はっきりさせるという意味です。誤解を避けるために情報を詳しく説明する際に使われます。\n\n例：Let me clarify what I meant. (私が何を言いたかったのか明確にさせてください。)"
+      "explanation": "「clarify」は、明確にする、はっきりさせるという意味です。誤解を避けるために情報を詳しく説明する際に使われます。\n\n例：Let me clarify what I meant. (私が何を言いたかったのか明確にさせてください。)",
+      "etymology": "ラテン語の「clarus」（明確な、明るい）に由来します。不明瞭なものを明るく照らす、つまり明確にするという意味合いから。",
+      "pronounciation": "/ˈklærəfaɪ/",
+      "scriptContext": "Leonard: Just to clarify, which one of you is wearing the bikini?",
+      "scriptContextTranslation": "Leonard: 確認だけど、どっちがビキニを着てるの？"
     },
     {
       "id": 37,
@@ -442,7 +586,11 @@
         "何かを計画している"
       ],
       "correctAnswer": "何かを忘れている",
-      "explanation": "「forgetting something」は、何かを忘れているという意味です。ここでは、デートの夜にキスをすることを忘れていることを指しています。\n\n例：You're forgetting something important. (あなたは何か大切なことを忘れている。)"
+      "explanation": "「forgetting something」は、何かを忘れているという意味です。ここでは、デートの夜にキスをすることを忘れていることを指しています。\n\n例：You're forgetting something important. (あなたは何か大切なことを忘れている。)",
+      "etymology": "何かを忘れている、という文字通りの意味から。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Uh, it’s date night. Aren’t you, uh, forgetting something?",
+      "scriptContextTranslation": "Amy: あの、今日はデートの日よ。何か忘れてない？"
     },
     {
       "id": 38,
@@ -454,7 +602,11 @@
         "退屈な"
       ],
       "correctAnswer": "エキゾチックな",
-      "explanation": "「exotic」は、異国風の、珍しい、エキゾチックなという意味です。見慣れない文化や場所を指すことが多いです。\n\n例：She found his accent exotic. (彼女は彼のアクセントをエキゾチックだと感じた。)"
+      "explanation": "「exotic」は、異国風の、珍しい、エキゾチックなという意味です。見慣れない文化や場所を指すことが多いです。\n\n例：She found his accent exotic. (彼女は彼のアクセントをエキゾチックだと感じた。)",
+      "etymology": "ギリシャ語の「exotikos」（外国の）に由来します。外国から来た珍しいもの、という意味合いから。",
+      "pronounciation": "/ɪɡˈzɑːtɪk/",
+      "scriptContext": "Raj: And then after coffee, we went for a walk and she told me she always thought people from India were exotic and mysterious. So, with my mouth, I said, we’re just like anybody else, but with my eyes, I said, straight up, Red, hop on my flying carpet.",
+      "scriptContextTranslation": "Raj: それでコーヒーの後、散歩に行ったら、彼女がインド人はエキゾチックでミステリアスだと思ってたって言ったんだ。だから口では「僕らは普通の人と変わらないよ」って言ったけど、目で「さあ、お嬢さん、僕の魔法の絨毯に乗って」って言ったんだ。"
     },
     {
       "id": 39,
@@ -466,7 +618,11 @@
         "控えめに"
       ],
       "correctAnswer": "正直に",
-      "explanation": "「straight up」は、正直に、率直にという意味です。はっきりと自分の意見を言う際に使われます。\n\n例：Tell me straight up, what do you think? (正直に言って、どう思う？)"
+      "explanation": "「straight up」は、正直に、率直にという意味です。はっきりと自分の意見を言う際に使われます。\n\n例：Tell me straight up, what do you think? (正直に言って、どう思う？)",
+      "etymology": "まっすぐ上に、つまり率直に、正直にという意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Raj: And then after coffee, we went for a walk and she told me she always thought people from India were exotic and mysterious. So, with my mouth, I said, we’re just like anybody else, but with my eyes, I said, straight up, Red, hop on my flying carpet.",
+      "scriptContextTranslation": "Raj: それでコーヒーの後、散歩に行ったら、彼女がインド人はエキゾチックでミステリアスだと思ってたって言ったんだ。だから口では「僕らは普通の人と変わらないよ」って言ったけど、目で「さあ、お嬢さん、僕の魔法の絨毯に乗って」って言ったんだ。"
     },
     {
       "id": 40,
@@ -478,7 +634,11 @@
         "無視する"
       ],
       "correctAnswer": "押し付ける",
-      "explanation": "「lay something on someone」は、人に何かを押し付ける、無理強いするという意味です。ここでは、Rajがロマンチックな天文学の知識をPennyに披露することを指しています。\n\n例：Don't lay your problems on me. (私にあなたの問題を押し付けないで。)"
+      "explanation": "「lay something on someone」は、人に何かを押し付ける、無理強いするという意味です。ここでは、Rajがロマンチックな天文学の知識をPennyに披露することを指しています。\n\n例：Don't lay your problems on me. (私にあなたの問題を押し付けないで。)",
+      "etymology": "文字通りには「人に何かを置く」という意味で、負担や責任を人に押し付けるという意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 41,
@@ -490,7 +650,11 @@
         "退屈な"
       ],
       "correctAnswer": "心を奪う",
-      "explanation": "「panty-dropping」は、非常に魅力的で、相手を惹きつけるという意味のスラングです。ここでは、Rajのロマンチックな話が女性を魅了することを指しています。"
+      "explanation": "「panty-dropping」は、非常に魅力的で、相手を惹きつけるという意味のスラングです。ここでは、Rajのロマンチックな話が女性を魅了することを指しています。",
+      "etymology": "非常に魅力的で、相手の panty（下着）が落ちてしまうほど、という意味合いのスラング。",
+      "pronounciation": "",
+      "scriptContext": "Raj: I can’t do that to Leonard. This is some powerful panty-dropping stuff.",
+      "scriptContextTranslation": "Raj: レナードには聞かせられないよ。これは強力なパンツを脱がせるテクニックなんだ。"
     },
     {
       "id": 42,
@@ -502,7 +666,11 @@
         "妨害"
       ],
       "correctAnswer": "祝福",
-      "explanation": "「blessing」は、祝福、許可という意味です。ここでは、LeonardがRajにPennyに対してロマンチックな話をする許可を与えていることを指します。\n\n例：You have my blessing to go on the trip. (あなたに旅行に行く許可を与えます。)"
+      "explanation": "「blessing」は、祝福、許可という意味です。ここでは、LeonardがRajにPennyに対してロマンチックな話をする許可を与えていることを指します。\n\n例：You have my blessing to go on the trip. (あなたに旅行に行く許可を与えます。)",
+      "etymology": "神の祝福、許可、という意味合いから。",
+      "pronounciation": "/ˈblesɪŋ/",
+      "scriptContext": "Leonard: You have my blessing. Go for it.",
+      "scriptContextTranslation": "Leonard: いいよ、許可する。やってみろ。"
     },
     {
       "id": 43,
@@ -514,7 +682,11 @@
         "無関心"
       ],
       "correctAnswer": "深い愛情",
-      "explanation": "「deeply in love」は、深い愛情で、深く愛し合っているという意味です。ロマンチックな関係を強調する際に使われます。\n\n例：They are deeply in love with each other. (彼らはお互いを深く愛し合っている。)"
+      "explanation": "「deeply in love」は、深い愛情で、深く愛し合っているという意味です。ロマンチックな関係を強調する際に使われます。\n\n例：They are deeply in love with each other. (彼らはお互いを深く愛し合っている。)",
+      "etymology": "深く愛している、という文字通りの意味から。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Okay. Penny, two of the brightest stars in the night sky are Altair and Vega. And it is said they were deeply in love but forever separated by the celestial river of the Milky Way.",
+      "scriptContextTranslation": "Raj: わかった。ペニー、夜空で最も明るい星の一つが、彦星（アルタイル）と織姫星（ベガ）なんだ。二人は深く愛し合っていたけど、天の川という天上の川によって永遠に隔てられてしまったと言われている。"
     },
     {
       "id": 44,
@@ -526,7 +698,11 @@
         "架空の川"
       ],
       "correctAnswer": "天の川",
-      "explanation": "「celestial river」は、天の川を指します。星々が集まって見える川のような光の帯を意味します。天文学的な文脈で使われることが多いです。"
+      "explanation": "「celestial river」は、天の川を指します。星々が集まって見える川のような光の帯を意味します。天文学的な文脈で使われることが多いです。",
+      "etymology": "天の川は、天球上を流れる川のように見えることから。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Okay. Penny, two of the brightest stars in the night sky are Altair and Vega. And it is said they were deeply in love but forever separated by the celestial river of the Milky Way.",
+      "scriptContextTranslation": "Raj: わかった。ペニー、夜空で最も明るい星の一つが、彦星（アルタイル）と織姫星（ベガ）なんだ。二人は深く愛し合っていたけど、天の川という天上の川によって永遠に隔てられてしまったと言われている。"
     },
     {
       "id": 45,
@@ -538,7 +714,11 @@
         "退屈"
       ],
       "correctAnswer": "情熱",
-      "explanation": "「passion」は、情熱、熱意という意味です。強い感情や興味を指します。ここでは、恋人たちが会える一夜の情熱を意味しています。\n\n例：He has a passion for music. (彼は音楽に情熱を持っている。)"
+      "explanation": "「passion」は、情熱、熱意という意味です。強い感情や興味を指します。ここでは、恋人たちが会える一夜の情熱を意味しています。\n\n例：He has a passion for music. (彼は音楽に情熱を持っている。)",
+      "etymology": "ラテン語の「pati」（苦しむ）に由来します。強い感情、情熱、という意味合いから。",
+      "pronounciation": "/ˈpæʃn/",
+      "scriptContext": "Raj: It is. But once a year, on the seventh day of the seventh month, Vega cries so hard that all the magpies in the world fly up and create a bridge with their wings so the two lovers can be together for a single night of passion.",
+      "scriptContextTranslation": "Raj: そうなんだ。でも年に一度、7月7日の七夕の日には、織姫星があまりにも激しく泣くので、世界中のカササギが飛び立ち、翼で橋を作り、二人の恋人が一夜だけ情熱を交わすことができるんだ。"
     },
     {
       "id": 46,
@@ -550,7 +730,11 @@
         "無関心"
       ],
       "correctAnswer": "完全な注意",
-      "explanation": "「undivided attention」は、他に気を取られず、完全に集中した注意を意味します。相手に真剣に向き合っている姿勢を示す際に使われます。\n\n例：I need your undivided attention for a moment. (少しの間、あなたの完全な注意が必要です。)"
+      "explanation": "「undivided attention」は、他に気を取られず、完全に集中した注意を意味します。相手に真剣に向き合っている姿勢を示す際に使われます。\n\n例：I need your undivided attention for a moment. (少しの間、あなたの完全な注意が必要です。)",
+      "etymology": "分割されていない注意、つまり完全に集中した注意という意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Fine, Sheldon. You have my undivided attention.",
+      "scriptContextTranslation": "Amy: わかったわ、シェルドン。あなたの話に集中するわ。"
     },
     {
       "id": 47,
@@ -562,7 +746,11 @@
         "忘れる"
       ],
       "correctAnswer": "挑戦する",
-      "explanation": "「go for it」は、頑張って、やってみる、挑戦するという意味です。人に励ましや許可を与える際に使われます。\n\n例：You should go for it and apply for the job. (あなたは頑張ってその仕事に応募するべきだ。)"
+      "explanation": "「go for it」は、頑張って、やってみる、挑戦するという意味です。人に励ましや許可を与える際に使われます。\n\n例：You should go for it and apply for the job. (あなたは頑張ってその仕事に応募するべきだ。)",
+      "etymology": "目標に向かって進む、つまり頑張って挑戦するという意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: You have my blessing. Go for it.",
+      "scriptContextTranslation": "Leonard: いいよ、許可する。やってみろ。"
     },
     {
       "id": 48,
@@ -574,7 +762,11 @@
         "正確に"
       ],
       "correctAnswer": "少なくとも",
-      "explanation": "「at least」は、少なくとも、せめてという意味です。最低限の条件や慰めを表す際に使われます。\n\n例：At least it's not raining. (少なくとも雨は降っていない。)"
+      "explanation": "「at least」は、少なくとも、せめてという意味です。最低限の条件や慰めを表す際に使われます。\n\n例：At least it's not raining. (少なくとも雨は降っていない。)",
+      "etymology": "少なくとも、せめて、という意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: So on the card, in the hospital, next to the woman who’s clinging to life are the words, “Hey, Vivian. You deserve this. And at least with you gone, no one will steal my yoghurt out of the fridge.”",
+      "scriptContextTranslation": "Bernadette: それで、そのカードに、病院で、命にしがみついている女性の隣に、「やあ、ヴィヴィアン。自業自得ね。少なくともあなたがいなくなれば、誰も私のヨーグルトを冷蔵庫から盗まなくなるわ」って書かれてあるの。"
     },
     {
       "id": 49,
@@ -586,7 +778,11 @@
         "周知の事実"
       ],
       "correctAnswer": "誰にもわからない",
-      "explanation": "「who knows」は、誰にもわからない、ひょっとすると、という意味です。未来の可能性について不確実性を示す際に使われます。\n\n例：Who knows what will happen tomorrow? (明日何が起こるかは誰にもわからない。)"
+      "explanation": "「who knows」は、誰にもわからない、ひょっとすると、という意味です。未来の可能性について不確実性を示す際に使われます。\n\n例：Who knows what will happen tomorrow? (明日何が起こるかは誰にもわからない。)",
+      "etymology": "誰が知っているだろうか、つまり誰にもわからないという意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: You know what, why don’t you just do it? You’ll go have fun for a few weeks, make some money, and who knows what it might lead to?",
+      "scriptContextTranslation": "Leonard: いいじゃん、やってみれば？数週間楽しんで、お金も稼げるし、何かに繋がるかもしれないし。"
     },
     {
       "id": 50,
@@ -598,7 +794,11 @@
         "賢い"
       ],
       "correctAnswer": "狂っている",
-      "explanation": "「nuts」は、狂っている、正気ではないという意味のスラングです。非常識な行動や考えに対して使われます。\n\n例：You must be nuts to go out in this weather. (こんな天気の中出かけるなんて、あなたは狂っているに違いない。)"
+      "explanation": "「nuts」は、狂っている、正気ではないという意味のスラングです。非常識な行動や考えに対して使われます。\n\n例：You must be nuts to go out in this weather. (こんな天気の中出かけるなんて、あなたは狂っているに違いない。)",
+      "etymology": "語源は定かではありませんが、比喩的に「頭がおかしい」という意味合いで使われるスラングです。",
+      "pronounciation": "/nʌts/",
+      "scriptContext": "Amy: Why would they still be using DDR3? Are they nuts?",
+      "scriptContextTranslation": "Amy: なんでまだDDR3を使ってるの？頭おかしいんじゃないの？"
     },
     {
       "id": 51,
@@ -610,7 +810,11 @@
         "最近どう？"
       ],
       "correctAnswer": "どうしたの？",
-      "explanation": "「What's up?」は、相手に「何かあったのか」「どうかしたのか」と尋ねる、カジュアルな挨拶や問いかけです。直訳すると「何が上にあるの？」ですが、実際には「どうしたの？」「何かあったの？」という意味で使われます。友人や親しい間柄でよく使われる表現です。"
+      "explanation": "「What's up?」は、相手に「何かあったのか」「どうかしたのか」と尋ねる、カジュアルな挨拶や問いかけです。直訳すると「何が上にあるの？」ですが、実際には「どうしたの？」「何かあったの？」という意味で使われます。友人や親しい間柄でよく使われる表現です。",
+      "etymology": "「何が起こっているの？」という文字通りの意味から、挨拶や状況を尋ねる表現として使われるようになりました。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 52,
@@ -622,7 +826,11 @@
         "賢い人"
       ],
       "correctAnswer": "遊び人",
-      "explanation": "「playa」は、スラングで「遊び人」「ナンパ師」といった意味合いで使われます。特に、複数の異性と関係を持つ男性を指すことが多いです。軽蔑的なニュアンスを含むこともあります。"
+      "explanation": "「playa」は、スラングで「遊び人」「ナンパ師」といった意味合いで使われます。特に、複数の異性と関係を持つ男性を指すことが多いです。軽蔑的なニュアンスを含むこともあります。",
+      "etymology": "「player」を変化させたスラングで、ゲームを楽しむ人のように、恋愛をゲームのように楽しむ人を指します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Two women at the same time? Nice job, playa.",
+      "scriptContextTranslation": "Leonard: 二股か？やるじゃん、モテ男。"
     },
     {
       "id": 53,
@@ -634,7 +842,11 @@
         "最高の状態"
       ],
       "correctAnswer": "最高の状態",
-      "explanation": "「sweet spot」は、文字通りには「甘い場所」ですが、比喩的に「最も効果的な場所」「最適な状態」「得意分野」という意味で使われます。ここでは、女性関係が全くない状態が一番落ち着く、という意味合いで使われています。"
+      "explanation": "「sweet spot」は、文字通りには「甘い場所」ですが、比喩的に「最も効果的な場所」「最適な状態」「得意分野」という意味で使われます。ここでは、女性関係が全くない状態が一番落ち着く、という意味合いで使われています。",
+      "etymology": "野球などでバットの最も良い当たる場所を指し、そこから比喩的に「最適な状態」を意味するようになりました。",
+      "pronounciation": "",
+      "scriptContext": "Raj: I can’t date two women at once. Zero women, that’s my sweet spot.",
+      "scriptContextTranslation": "Raj: 二股なんて無理だ。女っ気ゼロが俺の性に合ってる。"
     },
     {
       "id": 54,
@@ -646,7 +858,11 @@
         "取引"
       ],
       "correctAnswer": "大したこと",
-      "explanation": "「a big deal」は、「重要なこと」「大したこと」「問題」という意味です。反対に、「no big deal」は「大したことない」「問題ない」という意味になります。この文脈では、他の人と付き合っていることがそれほど大きな問題ではない、という意味合いで使われています。"
+      "explanation": "「a big deal」は、「重要なこと」「大したこと」「問題」という意味です。反対に、「no big deal」は「大したことない」「問題ない」という意味になります。この文脈では、他の人と付き合っていることがそれほど大きな問題ではない、という意味合いで使われています。",
+      "etymology": "大きな取引や出来事を指すことから、「重要なこと」「大したこと」という意味で使われるようになりました。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Unless you’re sleeping with one of them, seeing other people isn’t a big deal.",
+      "scriptContextTranslation": "Penny: 寝てる相手がいるわけじゃないなら、他の人と会うのは別にいいんじゃない？"
     },
     {
       "id": 55,
@@ -658,7 +874,11 @@
         "悪口を言う"
       ],
       "correctAnswer": "知恵を借りる",
-      "explanation": "「pick someone's brain」は、「（人）の知恵を借りる」「（人）に相談する」という意味のイディオムです。ある分野に詳しい人に、アドバイスや意見を求める際に使われます。"
+      "explanation": "「pick someone's brain」は、「（人）の知恵を借りる」「（人）に相談する」という意味のイディオムです。ある分野に詳しい人に、アドバイスや意見を求める際に使われます。",
+      "etymology": "人の脳から知識やアイデアを取り出すイメージから、「知恵を借りる」という意味で使われるようになりました。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Thank you so much for letting us pick your brain.",
+      "scriptContextTranslation": "Leonard: 色々教えてくれて本当にありがとうございます。"
     },
     {
       "id": 56,
@@ -670,7 +890,11 @@
         "秘密にする"
       ],
       "correctAnswer": "順調に進む",
-      "explanation": "「get off the ground」は、「（事業などが）軌道に乗る」「順調に進む」「始まる」という意味のイディオムです。ここでは、ペニーのキャリアがなかなか軌道に乗らないことを表しています。"
+      "explanation": "「get off the ground」は、「（事業などが）軌道に乗る」「順調に進む」「始まる」という意味のイディオムです。ここでは、ペニーのキャリアがなかなか軌道に乗らないことを表しています。",
+      "etymology": "地面から離れて飛び立つイメージから、事業などが「軌道に乗る」「順調に進む」という意味で使われるようになりました。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Well, I’m having an impossible time getting my career off the ground, and I got offered a role in this crappy horror movie, and I just don’t know if I should take it.",
+      "scriptContextTranslation": "Penny: あの、なかなか芽が出なくて困ってて、それでクソみたいなホラー映画の役のオファーが来たんですけど、受けるべきかどうか悩んでて。"
     },
     {
       "id": 57,
@@ -682,7 +906,11 @@
         "感動的な"
       ],
       "correctAnswer": "粗末な",
-      "explanation": "「crappy」は、俗語で「粗末な」「ひどい」「つまらない」という意味です。ここでは、ペニーがオファーされたホラー映画の質が低いことを表しています。"
+      "explanation": "「crappy」は、俗語で「粗末な」「ひどい」「つまらない」という意味です。ここでは、ペニーがオファーされたホラー映画の質が低いことを表しています。",
+      "etymology": "「crap」（くそ）から派生したスラングで、「粗末な」「ひどい」という意味で使われます。",
+      "pronounciation": "/ˈkræpi/",
+      "scriptContext": "Penny: Well, I’m having an impossible time getting my career off the ground, and I got offered a role in this crappy horror movie, and I just don’t know if I should take it.",
+      "scriptContextTranslation": "Penny: あの、なかなか芽が出なくて困ってて、それでクソみたいなホラー映画の役のオファーが来たんですけど、受けるべきかどうか悩んでて。"
     },
     {
       "id": 58,
@@ -694,7 +922,11 @@
         "成功"
       ],
       "correctAnswer": "悪い面",
-      "explanation": "「downside」は、「マイナス面」「悪い面」「不利な点」という意味です。ここでは、その映画に出演することによる профессионального なマイナス面について話しています。"
+      "explanation": "「downside」は、「マイナス面」「悪い面」「不利な点」という意味です。ここでは、その映画に出演することによる профессионального なマイナス面について話しています。",
+      "etymology": "「down」（下）と「side」（側面）を組み合わせた言葉で、物事の「悪い面」「不利な点」を意味します。",
+      "pronounciation": "/ˈdaʊnsaɪd/",
+      "scriptContext": "Leonard: So, what do you think, is there a professional downside to doing it?",
+      "scriptContextTranslation": "Leonard: それで、それに出演することに профессиональное профессиональное профессиональное профессиональное профессиональное профессиональное профессиональное профессиональное профессиональное профессиональное не профессиональное отрицательно не отрицательно в профессиональном плане профессиональное не не будет ли для нее профессиональное отрицательно не будет ли для нее профессиональное профессиональное профессиональное профессиональное отрицательно в профессиональном плане профессиональное не будет ли для нее профессиональное отрицательно?"
     },
     {
       "id": 59,
@@ -706,7 +938,11 @@
         "感動的な"
       ],
       "correctAnswer": "魂を砕く",
-      "explanation": "「soul-crushing」は、「魂を砕くような」「精神的に非常に辛い」という意味です。ここでは、質の低い仕事が精神的に大きな負担になることを表しています。"
+      "explanation": "「soul-crushing」は、「魂を砕くような」「精神的に非常に辛い」という意味です。ここでは、質の低い仕事が精神的に大きな負担になることを表しています。",
+      "etymology": "「soul」（魂）を「crush」（押しつぶす）というイメージから、「魂を砕くような」「精神的に非常に辛い」という意味で使われます。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 60,
@@ -718,7 +954,11 @@
         "簡単な"
       ],
       "correctAnswer": "辛い",
-      "explanation": "「rough」は、「辛い」「大変な」「苦しい」という意味です。ここでは、ウィル・ウィートンの過去の経験が辛かったことを表しています。"
+      "explanation": "「rough」は、「辛い」「大変な」「苦しい」という意味です。ここでは、ウィル・ウィートンの過去の経験が辛かったことを表しています。",
+      "etymology": "元々は「ざらざらした」という意味ですが、比喩的に「辛い」「大変な」状況を指すようになりました。",
+      "pronounciation": "/rʌf/",
+      "scriptContext": "Sheldon: Yeah, exactly. It’s an MP3 player brought to us by the makers of Xbox.",
+      "scriptContextTranslation": "Sheldon: そう、その通り。Xboxを作った会社が作ったMP3プレーヤーだ。"
     },
     {
       "id": 61,
@@ -730,7 +970,11 @@
         "退屈な"
       ],
       "correctAnswer": "残酷な",
-      "explanation": "「brutal」は、「残酷な」「過酷な」「容赦ない」という意味です。ここでは、芸能界の厳しさを表しています。"
+      "explanation": "「brutal」は、「残酷な」「過酷な」「容赦ない」という意味です。ここでは、芸能界の厳しさを表しています。",
+      "etymology": "ラテン語の「brutus」（鈍重な、残酷な）に由来し、「残酷な」「過酷な」という意味で使われます。",
+      "pronounciation": "/ˈbruːtl/",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 62,
@@ -742,7 +986,11 @@
         "旅行に行く"
       ],
       "correctAnswer": "面接に行く",
-      "explanation": "「go on auditions」は、演劇や映画などのオーディションに参加することを意味します。「audition」は、演技、歌唱、ダンスなどの能力を試すための選考会です。"
+      "explanation": "「go on auditions」は、演劇や映画などのオーディションに参加することを意味します。「audition」は、演技、歌唱、ダンスなどの能力を試すための選考会です。",
+      "etymology": "「audition」は才能を「聞く」という意味のラテン語から派生し、選考のために演技や歌唱を披露する場を指します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 63,
@@ -754,7 +1002,11 @@
         "仕事に行く"
       ],
       "correctAnswer": "起きる",
-      "explanation": "「get out of bed」は、「ベッドから出る」「起きる」という意味の日常的な表現です。ここでは、ウィル・ウィートンがひどく落ち込んで、ベッドから出られない日があることを表しています。"
+      "explanation": "「get out of bed」は、「ベッドから出る」「起きる」という意味の日常的な表現です。ここでは、ウィル・ウィートンがひどく落ち込んで、ベッドから出られない日があることを表しています。",
+      "etymology": "ベッドから文字通り出る行為を表し、日常的な起床を意味します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 64,
@@ -766,7 +1018,11 @@
         "過去の栄光"
       ],
       "correctAnswer": "わずかな希望",
-      "explanation": "「silver lining」は、「（困難な状況における）希望の光」「良い兆し」「不幸中の幸い」という意味のイディオムです。ここでは、同僚が昏睡状態になったことで、カードのメッセージを読まずに済んだことを指しています。"
+      "explanation": "「silver lining」は、「（困難な状況における）希望の光」「良い兆し」「不幸中の幸い」という意味のイディオムです。ここでは、同僚が昏睡状態になったことで、カードのメッセージを読まずに済んだことを指しています。",
+      "etymology": "暗い雲の縁に現れる銀色の光から、困難な状況でもわずかな希望が見えることを指します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 65,
@@ -778,7 +1034,11 @@
         "軽い睡眠"
       ],
       "correctAnswer": "人工的な昏睡",
-      "explanation": "「medically induced coma」は、「医療的に誘発された昏睡状態」という意味です。患者の脳や身体を休ませるために、薬物を使って意識を低下させる治療法です。"
+      "explanation": "「medically induced coma」は、「医療的に誘発された昏睡状態」という意味です。患者の脳や身体を休ませるために、薬物を使って意識を低下させる治療法です。",
+      "etymology": "医療目的で薬物を使用し、患者を一時的に意識のない状態にすることを指します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 66,
@@ -790,7 +1050,11 @@
         "秘密に"
       ],
       "correctAnswer": "明らかに",
-      "explanation": "「Apparently」は、「聞いたところによると」「どうやら〜らしい」「見たところ〜らしい」という意味の副詞です。ここでは、ウィル・ウィートンがTV Guideのクロスワードパズルで12ダウンの答えになっていることを、人から聞いた情報として伝えています。"
+      "explanation": "「Apparently」は、「聞いたところによると」「どうやら〜らしい」「見たところ〜らしい」という意味の副詞です。ここでは、ウィル・ウィートンがTV Guideのクロスワードパズルで12ダウンの答えになっていることを、人から聞いた情報として伝えています。",
+      "etymology": "「apparent」（明白な）から派生し、間接的な情報や推測に基づいて何かが真実であると示唆する際に使われます。",
+      "pronounciation": "/əˈpærəntli/",
+      "scriptContext": "Penny: I kind of did. The part in that awful horror movie I passed on came back around. Apparently, it’s mine if I want it.",
+      "scriptContextTranslation": "Penny: まあね、ちょっとだけ。以前断ったあのひどいホラー映画の役がまた回ってきたの。どうやら私がやりたければ、私のものになるみたい。"
     },
     {
       "id": 67,
@@ -802,7 +1066,11 @@
         "冗談で"
       ],
       "correctAnswer": "事実として",
-      "explanation": "「As a matter of fact」は、「実際のところ」「実は」「それどころか」という意味の表現です。相手の発言を受けて、さらに情報を付け加えたり、反論したりする際に使われます。"
+      "explanation": "「As a matter of fact」は、「実際のところ」「実は」「それどころか」という意味の表現です。相手の発言を受けて、さらに情報を付け加えたり、反論したりする際に使われます。",
+      "etymology": "文字通りには「事実の問題として」という意味で、相手の発言を補強または修正するために、追加の情報を提供する際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 68,
@@ -814,7 +1082,11 @@
         "昔々"
       ],
       "correctAnswer": "未来には",
-      "explanation": "「from now on」は、「今後は」「これからは」という意味の表現です。過去から現在までとは違う行動や態度を、未来に向けて取ることを宣言する際に使われます。"
+      "explanation": "「from now on」は、「今後は」「これからは」という意味の表現です。過去から現在までとは違う行動や態度を、未来に向けて取ることを宣言する際に使われます。",
+      "etymology": "現在から未来に向けて、行動や態度を変えることを示す際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 69,
@@ -826,7 +1098,11 @@
         "愛に満ちて生きる"
       ],
       "correctAnswer": "恐怖に怯えて生きる",
-      "explanation": "「living in fear」は、「恐怖の中に生きる」「恐れて生きる」という意味です。ここでは、ラージが長年、新しい経験を恐れてきたことを表しています。"
+      "explanation": "「living in fear」は、「恐怖の中に生きる」「恐れて生きる」という意味です。ここでは、ラージが長年、新しい経験を恐れてきたことを表しています。",
+      "etymology": "恐怖を感じながら生活することを指し、不安や脅威に常にさらされている状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 70,
@@ -838,7 +1114,11 @@
         "冒険に満ちた人生"
       ],
       "correctAnswer": "冒険に満ちた人生",
-      "explanation": "「adventure」は、「冒険」という意味です。ここでは、これからは新しい体験に積極的に挑戦する、冒険心を持って生きるという意味合いで使われています。"
+      "explanation": "「adventure」は、「冒険」という意味です。ここでは、これからは新しい体験に積極的に挑戦する、冒険心を持って生きるという意味合いで使われています。",
+      "etymology": "新しい体験や刺激を求め、積極的に行動する人生を送ることを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 71,
@@ -850,7 +1130,11 @@
         "健康な状態"
       ],
       "correctAnswer": "重篤な状態",
-      "explanation": "「critical condition」は、「重体」「危険な状態」という意味です。ここでは、手術後の同僚の状態が依然として深刻であることを表しています。"
+      "explanation": "「critical condition」は、「重体」「危険な状態」という意味です。ここでは、手術後の同僚の状態が依然として深刻であることを表しています。",
+      "etymology": "患者の状態が非常に深刻で、生命の危機に瀕していることを示します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 72,
@@ -862,7 +1146,11 @@
         "承諾する"
       ],
       "correctAnswer": "否定する",
-      "explanation": "「saying no」は、「ノーと言う」「拒否する」という意味です。ここでは、新しい経験を避けてきたことを表しています。"
+      "explanation": "「saying no」は、「ノーと言う」「拒否する」という意味です。ここでは、新しい経験を避けてきたことを表しています。",
+      "etymology": "拒否や否定の意思表示をすることを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 73,
@@ -874,7 +1162,11 @@
         "承諾する"
       ],
       "correctAnswer": "肯定する",
-      "explanation": "「saying yes」は、「イエスと言う」「受け入れる」という意味です。ここでは、新しい経験を積極的に受け入れることを表しています。"
+      "explanation": "「saying yes」は、「イエスと言う」「受け入れる」という意味です。ここでは、新しい経験を積極的に受け入れることを表しています。",
+      "etymology": "承諾や肯定の意思表示をすることを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 74,
@@ -886,7 +1178,11 @@
         "週末の夜"
       ],
       "correctAnswer": "昨日の夜",
-      "explanation": "「the night before」は、「前の晩」「昨夜」という意味です。特定の出来事や日時の前の夜を指します。"
+      "explanation": "「the night before」は、「前の晩」「昨夜」という意味です。特定の出来事や日時の前の夜を指します。",
+      "etymology": "特定の出来事やイベントの直前の夜を指します。",
+      "pronounciation": "",
+      "scriptContext": "Raj: But what if one of them asks me what I was up to the night before and I was with the other one? Then, what, do I lie?",
+      "scriptContextTranslation": "Raj: でも、もしどっちかが「昨日の夜、何してたの？」って聞いてきて、もう片方といたとしたら？嘘をつくのか？"
     },
     {
       "id": 75,
@@ -898,7 +1194,11 @@
         "忘れる"
       ],
       "correctAnswer": "会う",
-      "explanation": "「get together」は、「集まる」「会う」「親睦を深める」という意味の句動詞です。ここでは、元カノのルーシーがラージに会いたいと思っていることを表しています。"
+      "explanation": "「get together」は、「集まる」「会う」「親睦を深める」という意味の句動詞です。ここでは、元カノのルーシーがラージに会いたいと思っていることを表しています。",
+      "etymology": "親睦を深めるために集まる、または会うことを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Raj: I just got an e-mail from my ex-girlfriend Lucy. She misses me and wants to get together.",
+      "scriptContextTranslation": "Raj: 元カノのルーシーからメールが来た。俺に会いたいって。"
     },
     {
       "id": 76,
@@ -910,7 +1210,11 @@
         "根拠のない楽観"
       ],
       "correctAnswer": "揺るぎない確信",
-      "explanation": "「rock-solid」は非常に強固で信頼できることを意味し、「certainty」は確信や確実性を指します。合わせて「rock-solid certainty」は、何かが絶対に正しいと信じる、揺るぎない確信を表します。例文：He had a rock-solid certainty that he would win the race. (彼は自分がレースに勝つと揺るぎなく確信していた。)"
+      "explanation": "「rock-solid」は非常に強固で信頼できることを意味し、「certainty」は確信や確実性を指します。合わせて「rock-solid certainty」は、何かが絶対に正しいと信じる、揺るぎない確信を表します。例文：He had a rock-solid certainty that he would win the race. (彼は自分がレースに勝つと揺るぎなく確信していた。)",
+      "etymology": "岩のように固い確信、という意味から、何かが真実であると疑いの余地なく信じる状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You know, I’m proud of me, too. I’ve done all my research, I conducted an informal poll, and I’ve arrived at the rock-solid certainty I’ve made the right choice.",
+      "scriptContextTranslation": "Sheldon: 僕も自分を誇りに思うよ。ちゃんと調べて、非公式な世論調査もしたし、正しい選択をしたと確信している。"
     },
     {
       "id": 77,
@@ -922,7 +1226,11 @@
         "無視する"
       ],
       "correctAnswer": "勝つ",
-      "explanation": "「win out over」は、競争や対立の末に最終的に勝利することを意味します。あるものが別のものより優位に立ち、最終的に成功する状況を表します。例文：In the end, quality will always win out over price. (最終的には、品質は常に価格に勝るだろう。)"
+      "explanation": "「win out over」は、競争や対立の末に最終的に勝利することを意味します。あるものが別のものより優位に立ち、最終的に成功する状況を表します。例文：In the end, quality will always win out over price. (最終的には、品質は常に価格に勝るだろう。)",
+      "etymology": "競争や困難を乗り越えて最終的に勝利するという意味合いから。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yeah, a little kid who picked the wrong format to record The MacNeil/Lehrer Report. Now I also was certain that HD DVD would win out over Blu-ray.",
+      "scriptContextTranslation": "Sheldon: そうだね、マクニール/レーラー・レポートを録画するために間違ったフォーマットを選んだ子供だ。HD DVDがブルーレイに勝つと確信していた時もそうだった。"
     },
     {
       "id": 78,
@@ -934,7 +1242,11 @@
         "盗まれた"
       ],
       "correctAnswer": "提供された",
-      "explanation": "「brought to us by」は、ある製品やサービスが特定の企業や組織によって提供または製造されたことを示す表現です。広告や紹介文でよく使用されます。例文：This program is brought to you by the National Science Foundation. (この番組は、国立科学財団の提供でお送りします。)"
+      "explanation": "「brought to us by」は、ある製品やサービスが特定の企業や組織によって提供または製造されたことを示す表現です。広告や紹介文でよく使用されます。例文：This program is brought to you by the National Science Foundation. (この番組は、国立科学財団の提供でお送りします。)",
+      "etymology": "製品やサービスが特定の企業や組織によって提供されていることを示す表現です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yeah, exactly. It’s an MP3 player brought to us by the makers of Xbox.",
+      "scriptContextTranslation": "Sheldon: そう、その通り。Xboxを作った会社が作ったMP3プレーヤーだ。"
     },
     {
       "id": 79,
@@ -946,7 +1258,11 @@
         "コインを磨く"
       ],
       "correctAnswer": "コインを投げる",
-      "explanation": "「flip a coin」は、コインを空中に投げて、表か裏かで偶然に任せて決定することを意味します。二つの選択肢で迷った際に、公平な方法として用いられます。例文：We couldn't decide where to go for dinner, so we flipped a coin. (夕食にどこに行くか決められなかったので、コインを投げた。)"
+      "explanation": "「flip a coin」は、コインを空中に投げて、表か裏かで偶然に任せて決定することを意味します。二つの選択肢で迷った際に、公平な方法として用いられます。例文：We couldn't decide where to go for dinner, so we flipped a coin. (夕食にどこに行くか決められなかったので、コインを投げた。)",
+      "etymology": "偶然に任せて決定する方法として、コインを投げる行為を指します。",
+      "pronounciation": "",
+      "scriptContext": "Amy: How about this? I’ve heard that if you flip a coin, it will tell you how you actually feel. Because you’ll either be disappointed or excited by the outcome.",
+      "scriptContextTranslation": "Amy: こういうのはどう？コインを投げれば、本当はどうしたいのか分かるって聞いたことがあるわ。結果にがっかりするか、喜ぶかで分かるから。"
     },
     {
       "id": 80,
@@ -958,7 +1274,11 @@
         "影響"
       ],
       "correctAnswer": "結果",
-      "explanation": "「outcome」は、ある出来事、行動、またはプロセスの結果として生じるものを指します。特に、予測や期待に対して使われることが多いです。例文：The outcome of the election was unexpected. (選挙の結果は予想外だった。)"
+      "explanation": "「outcome」は、ある出来事、行動、またはプロセスの結果として生じるものを指します。特に、予測や期待に対して使われることが多いです。例文：The outcome of the election was unexpected. (選挙の結果は予想外だった。)",
+      "etymology": "行動や出来事の結果として生じるものを指します。",
+      "pronounciation": "/ˈaʊtkʌm/",
+      "scriptContext": "Amy: How about this? I’ve heard that if you flip a coin, it will tell you how you actually feel. Because you’ll either be disappointed or excited by the outcome.",
+      "scriptContextTranslation": "Amy: こういうのはどう？コインを投げれば、本当はどうしたいのか分かるって聞いたことがあるわ。結果にがっかりするか、喜ぶかで分かるから。"
     },
     {
       "id": 81,
@@ -970,7 +1290,11 @@
         "賢明な"
       ],
       "correctAnswer": "不誠実な",
-      "explanation": "「deceitful」は、他人を欺く、嘘をつく、または誤解させる意図があることを意味します。道徳的に非難される行為を指すことが多いです。例文：His deceitful behavior damaged their relationship. (彼の不誠実な態度は彼らの関係を損なった。)"
+      "explanation": "「deceitful」は、他人を欺く、嘘をつく、または誤解させる意図があることを意味します。道徳的に非難される行為を指すことが多いです。例文：His deceitful behavior damaged their relationship. (彼の不誠実な態度は彼らの関係を損なった。)",
+      "etymology": "他人を欺く意図があることを意味し、信用を損なう行為を指します。",
+      "pronounciation": "/dɪˈsiːtfʊl/",
+      "scriptContext": "Raj: My friends told me it was okay to see more than one person at a time, but it, it feels like I’m being deceitful.",
+      "scriptContextTranslation": "Raj: 友達は、同時に複数の人と会っても良いって言ってたけど、なんだか騙しているような気がして。"
     },
     {
       "id": 82,
@@ -982,7 +1306,11 @@
         "冗談を言うと"
       ],
       "correctAnswer": "正直に言うと",
-      "explanation": "「to be honest」は、自分の考えや感情を率直に述べるときに使われる表現です。相手に対して誠実であろうとする気持ちを示すイントロダクションとして用いられます。例文：To be honest, I didn't really like the movie. (正直に言うと、私はその映画はあまり好きではなかった。)"
+      "explanation": "「to be honest」は、自分の考えや感情を率直に述べるときに使われる表現です。相手に対して誠実であろうとする気持ちを示すイントロダクションとして用いられます。例文：To be honest, I didn't really like the movie. (正直に言うと、私はその映画はあまり好きではなかった。)",
+      "etymology": "自分の考えや感情を率直に述べるときに使われる表現です。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Well, to be honest, we only went on four dates, hugged twice, kissed once, and there was a handshake loaded with sexual innuendo.",
+      "scriptContextTranslation": "Raj: 正直に言うと、デートは4回、ハグは2回、キスは1回、そして性的ないやらしさが込められた握手をした。"
     },
     {
       "id": 83,
@@ -994,7 +1322,11 @@
         "無視された"
       ],
       "correctAnswer": "満載の",
-      "explanation": "「loaded with」は、何かが大量に、または過剰に詰め込まれている状態を表します。物理的なものだけでなく、抽象的な概念にも使われます。例文：The cake was loaded with chocolate. (そのケーキはチョコレートでいっぱいだった。)"
+      "explanation": "「loaded with」は、何かが大量に、または過剰に詰め込まれている状態を表します。物理的なものだけでなく、抽象的な概念にも使われます。例文：The cake was loaded with chocolate. (そのケーキはチョコレートでいっぱいだった。)",
+      "etymology": "何かが大量に、または過剰に詰め込まれている状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Well, to be honest, we only went on four dates, hugged twice, kissed once, and there was a handshake loaded with sexual innuendo.",
+      "scriptContextTranslation": "Raj: 正直に言うと、デートは4回、ハグは2回、キスは1回、そして性的ないやらしさが込められた握手をした。"
     },
     {
       "id": 84,
@@ -1006,7 +1338,11 @@
         "率直な表現"
       ],
       "correctAnswer": "婉曲な表現",
-      "explanation": "「innuendo」は、間接的でほのめかすような表現、特に性的な意味合いを含むものを指します。直接的な言葉を避け、暗示的に何かを伝えようとする際に用いられます。例文：His comments were full of sexual innuendo. (彼のコメントは性的な意味合いをほのめかすものばかりだった。)"
+      "explanation": "「innuendo」は、間接的でほのめかすような表現、特に性的な意味合いを含むものを指します。直接的な言葉を避け、暗示的に何かを伝えようとする際に用いられます。例文：His comments were full of sexual innuendo. (彼のコメントは性的な意味合いをほのめかすものばかりだった。)",
+      "etymology": "間接的でほのめかすような表現、特に性的な意味合いを含むものを指します。",
+      "pronounciation": "/ˌɪnjuˈendoʊ/",
+      "scriptContext": "Raj: Well, to be honest, we only went on four dates, hugged twice, kissed once, and there was a handshake loaded with sexual innuendo.",
+      "scriptContextTranslation": "Raj: 正直に言うと、デートは4回、ハグは2回、キスは1回、そして性的ないやらしさが込められた握手をした。"
     },
     {
       "id": 85,
@@ -1018,7 +1354,11 @@
         "不快な"
       ],
       "correctAnswer": "愛らしい",
-      "explanation": "「adorable」は、非常に愛らしく、魅力的で、心を奪われるほど可愛いものを指します。人、動物、物など、幅広い対象に使われます。例文：The puppy was absolutely adorable. (その子犬は本当に愛らしかった。)"
+      "explanation": "「adorable」は、非常に愛らしく、魅力的で、心を奪われるほど可愛いものを指します。人、動物、物など、幅広い対象に使われます。例文：The puppy was absolutely adorable. (その子犬は本当に愛らしかった。)",
+      "etymology": "非常に愛らしく、魅力的で、心を奪われるほど可愛いものを指します。",
+      "pronounciation": "/əˈdɔːrəbl/",
+      "scriptContext": "Emily: That’s kind of adorable.",
+      "scriptContextTranslation": "Emily: ちょっと可愛いじゃない。"
     },
     {
       "id": 86,
@@ -1030,7 +1370,11 @@
         "表面上は"
       ],
       "correctAnswer": "基本的に",
-      "explanation": "「basically」は、物事の最も重要な点や本質を強調するときに使われます。詳細を省いて、概要を説明する際に便利です。例文：Basically, we need more money to finish the project. (基本的に、プロジェクトを完了させるためにはもっとお金が必要です。)"
+      "explanation": "「basically」は、物事の最も重要な点や本質を強調するときに使われます。詳細を省いて、概要を説明する際に便利です。例文：Basically, we need more money to finish the project. (基本的に、プロジェクトを完了させるためにはもっとお金が必要です。)",
+      "etymology": "物事の最も重要な点や本質を強調するときに使われます。",
+      "pronounciation": "/ˈbeɪsɪkli/",
+      "scriptContext": "Raj: Really? Because I’m dating two women is basically the only cool thing I can say about myself.",
+      "scriptContextTranslation": "Raj: 本当に？だって、二人の女性とデートしてるって事が、僕が自分について言える唯一のカッコいい事なんだ。"
     },
     {
       "id": 87,
@@ -1042,7 +1386,11 @@
         "壊れた"
       ],
       "correctAnswer": "取り外し可能な",
-      "explanation": "「removable」は、容易に取り外したり、移動させたりできることを意味します。例文：The cover is removable for easy cleaning. (カバーは簡単に掃除できるように取り外し可能です。)"
+      "explanation": "「removable」は、容易に取り外したり、移動させたりできることを意味します。例文：The cover is removable for easy cleaning. (カバーは簡単に掃除できるように取り外し可能です。)",
+      "etymology": "容易に取り外したり、移動させたりできることを意味します。",
+      "pronounciation": "/rɪˈmuːvəbl/",
+      "scriptContext": "Sheldon: On the one hand, the Xbox One has a better camera, but the PS4 has a removable hard drive. Thoughts?",
+      "scriptContextTranslation": "Sheldon: Xbox Oneの方がカメラは優れているが、PS4はハードドライブが取り外せる。どう思う？"
     },
     {
       "id": 88,
@@ -1054,7 +1402,11 @@
         "どう聞こえますか？"
       ],
       "correctAnswer": "どう感じますか？",
-      "explanation": "「How's that feel?」は、相手に物理的または感情的な感覚について尋ねる際に使われる表現です。新しい服を着たときや、何か特別な経験をした後の感想を尋ねる際に用いられます。例文：How's that feel, now that the cast is off? (ギブスが取れて、今はどんな感じ？)"
+      "explanation": "「How's that feel?」は、相手に物理的または感情的な感覚について尋ねる際に使われる表現です。新しい服を着たときや、何か特別な経験をした後の感想を尋ねる際に用いられます。例文：How's that feel, now that the cast is off? (ギブスが取れて、今はどんな感じ？)",
+      "etymology": "相手に物理的または感情的な感覚について尋ねる際に使われる表現です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 89,
@@ -1066,7 +1418,11 @@
         "後悔はまだわからない"
       ],
       "correctAnswer": "後悔は全くない",
-      "explanation": "「Not like regret at all.」は、後悔の気持ちが全くないことを強調する表現です。皮肉やユーモアを込めて、実際には後悔している状況で使われることもあります。例文：Buying that expensive car? Not like regret at all. (あの高い車を買ったこと？ 後悔は全くないよ（皮肉）。)"
+      "explanation": "「Not like regret at all.」は、後悔の気持ちが全くないことを強調する表現です。皮肉やユーモアを込めて、実際には後悔している状況で使われることもあります。例文：Buying that expensive car? Not like regret at all. (あの高い車を買ったこと？ 後悔は全くないよ（皮肉）。)",
+      "etymology": "後悔の気持ちが全くないことを強調する表現です。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Great. Not like regret at all.",
+      "scriptContextTranslation": "Penny: 最高よ。後悔なんて全くないわ。"
     },
     {
       "id": 90,
@@ -1078,7 +1434,11 @@
         "嫉妬している"
       ],
       "correctAnswer": "誇りに思っている",
-      "explanation": "「proud of」は、誰かまたは自分の業績、資質、所有物などを誇りに思っている状態を表します。肯定的な感情を伝える際に用いられます。例文：I'm so proud of you for graduating. (卒業おめでとう。とても誇りに思うよ。)"
+      "explanation": "「proud of」は、誰かまたは自分の業績、資質、所有物などを誇りに思っている状態を表します。肯定的な感情を伝える際に用いられます。例文：I'm so proud of you for graduating. (卒業おめでとう。とても誇りに思うよ。)",
+      "etymology": "誰かまたは自分の業績、資質、所有物などを誇りに思っている状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Amy: I’m proud of you, Sheldon.",
+      "scriptContextTranslation": "Amy: すごいわ、シェルドン。"
     },
     {
       "id": 91,
@@ -1090,7 +1450,11 @@
         "世論を無視した"
       ],
       "correctAnswer": "非公式な意見調査を行った",
-      "explanation": "「conduct an informal poll」は、正式な手続きを踏まずに、人々の意見や意向をざっくばらんに調査することを意味します。友人や同僚に意見を聞いたり、SNSでアンケートを取るなどの方法があります。例文：Before making a decision, I conducted an informal poll among my friends. (決断を下す前に、友人たちの間で非公式な意見調査を行った。)"
+      "explanation": "「conduct an informal poll」は、正式な手続きを踏まずに、人々の意見や意向をざっくばらんに調査することを意味します。友人や同僚に意見を聞いたり、SNSでアンケートを取るなどの方法があります。例文：Before making a decision, I conducted an informal poll among my friends. (決断を下す前に、友人たちの間で非公式な意見調査を行った。)",
+      "etymology": "正式な手続きを踏まずに、人々の意見や意向をざっくばらんに調査することを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You know, I’m proud of me, too. I’ve done all my research, I conducted an informal poll, and I’ve arrived at the rock-solid certainty I’ve made the right choice.",
+      "scriptContextTranslation": "Sheldon: 僕も自分を誇りに思うよ。ちゃんと調べて、非公式な世論調査もしたし、正しい選択をしたと確信している。"
     },
     {
       "id": 92,
@@ -1102,7 +1466,11 @@
         "避けた"
       ],
       "correctAnswer": "到着した",
-      "explanation": "「arrive at」は、物理的な場所に到着するだけでなく、結論、決定、理解などに到達することも意味します。長い検討や調査の末に何かを達成した状況を表します。例文：After much discussion, we arrived at a decision. (多くの議論の末、私たちは決定に達した。)"
+      "explanation": "「arrive at」は、物理的な場所に到着するだけでなく、結論、決定、理解などに到達することも意味します。長い検討や調査の末に何かを達成した状況を表します。例文：After much discussion, we arrived at a decision. (多くの議論の末、私たちは決定に達した。)",
+      "etymology": "結論、決定、理解などに到達することも意味します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You know, I’m proud of me, too. I’ve done all my research, I conducted an informal poll, and I’ve arrived at the rock-solid certainty I’ve made the right choice.",
+      "scriptContextTranslation": "Sheldon: 僕も自分を誇りに思うよ。ちゃんと調べて、非公式な世論調査もしたし、正しい選択をしたと確信している。"
     },
     {
       "id": 93,
@@ -1114,7 +1482,11 @@
         "どこで"
       ],
       "correctAnswer": "どうですか",
-      "explanation": "「How about」は、提案や勧誘を行う際に使われる表現です。相手の意見や希望を尋ねるニュアンスを含みます。例文：How about going to the movies tonight? (今夜映画に行くのはどう？)"
+      "explanation": "「How about」は、提案や勧誘を行う際に使われる表現です。相手の意見や希望を尋ねるニュアンスを含みます。例文：How about going to the movies tonight? (今夜映画に行くのはどう？)",
+      "etymology": "提案や勧誘を行う際に使われる表現です。",
+      "pronounciation": "",
+      "scriptContext": "Amy: You know what? How about I buy it for you? How about I buy you both?",
+      "scriptContextTranslation": "Amy: あのね、私が買ってあげようか？両方買ってあげようか？"
     },
     {
       "id": 94,
@@ -1126,7 +1498,11 @@
         "何をすべきですか？"
       ],
       "correctAnswer": "どうしますか？",
-      "explanation": "「What would you do?」は、特定の状況に対して、相手がどのような行動を取るかを尋ねる表現です。アドバイスを求めたり、相手の意見を聞きたいときに使われます。例文：If you were in my shoes, what would you do? (もしあなたが私の立場なら、どうしますか？)"
+      "explanation": "「What would you do?」は、特定の状況に対して、相手がどのような行動を取るかを尋ねる表現です。アドバイスを求めたり、相手の意見を聞きたいときに使われます。例文：If you were in my shoes, what would you do? (もしあなたが私の立場なら、どうしますか？)",
+      "etymology": "特定の状況に対して、相手がどのような行動を取るかを尋ねる表現です。",
+      "pronounciation": "",
+      "scriptContext": "Raj: No. I, I have no idea. What would you do?",
+      "scriptContextTranslation": "Raj: 分からない。全く分からない。君ならどうする？"
     },
     {
       "id": 95,
@@ -1138,7 +1514,11 @@
         "非常に"
       ],
       "correctAnswer": "少し",
-      "explanation": "「kind of」は、程度や性質をぼかして表現する際に使われる口語的な表現です。正確な表現を避けたいときや、自信がないときに用いられます。例文：I'm kind of tired. (少し疲れています。)"
+      "explanation": "「kind of」は、程度や性質をぼかして表現する際に使われる口語的な表現です。正確な表現を避けたいときや、自信がないときに用いられます。例文：I'm kind of tired. (少し疲れています。)",
+      "etymology": "程度や性質をぼかして表現する際に使われる口語的な表現です。",
+      "pronounciation": "",
+      "scriptContext": "Penny: I kind of did. The part in that awful horror movie I passed on came back around. Apparently, it’s mine if I want it.",
+      "scriptContextTranslation": "Penny: まあね、ちょっとだけ。以前断ったあのひどいホラー映画の役がまた回ってきたの。どうやら私がやりたければ、私のものになるみたい。"
     },
     {
       "id": 96,
@@ -1150,7 +1530,11 @@
         "無視する"
       ],
       "correctAnswer": "疑問に思う",
-      "explanation": "「wonder」は、何かについて疑問に思ったり、知りたがったりする気持ちを表します。不確かなことや、理解できないことに対して使われます。例文：I wonder what she's doing right now. (彼女は今何をしているのだろうか。)"
+      "explanation": "「wonder」は、何かについて疑問に思ったり、知りたがったりする気持ちを表します。不確かなことや、理解できないことに対して使われます。例文：I wonder what she's doing right now. (彼女は今何をしているのだろうか。)",
+      "etymology": "何かについて疑問に思ったり、知りたがったりする気持ちを表します。",
+      "pronounciation": "/ˈwʌndər/",
+      "scriptContext": "Raj: Yeah, but now you make me wonder what’s wrong with you.",
+      "scriptContextTranslation": "Raj: そうか、でも君は何が問題なんだろうと思っちゃうよ。"
     },
     {
       "id": 97,
@@ -1162,7 +1546,11 @@
         "全体的に"
       ],
       "correctAnswer": "一方で",
-      "explanation": "「on the one hand」は、二つの異なる視点や意見を比較検討する際に、一方の視点を提示するために使われます。通常、「on the other hand」と対で使用されます。例文：On the one hand, I want to travel, but on the other hand, I need to save money. (一方では旅行に行きたいが、他方ではお金を貯める必要がある。)"
+      "explanation": "「on the one hand」は、二つの異なる視点や意見を比較検討する際に、一方の視点を提示するために使われます。通常、「on the other hand」と対で使用されます。例文：On the one hand, I want to travel, but on the other hand, I need to save money. (一方では旅行に行きたいが、他方ではお金を貯める必要がある。)",
+      "etymology": "二つの異なる視点や意見を比較検討する際に、一方の視点を提示するために使われます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: On the one hand, the Xbox One has a better camera, but the PS4 has a removable hard drive. Thoughts?",
+      "scriptContextTranslation": "Sheldon: Xbox Oneの方がカメラは優れているが、PS4はハードドライブが取り外せる。どう思う？"
     },
     {
       "id": 98,
@@ -1174,7 +1562,11 @@
         "かもしれない"
       ],
       "correctAnswer": "しなければならない",
-      "explanation": "「have to」は、義務や必要性を表す助動詞的な表現です。外部からの強制や、状況による必要性を示す際に用いられます。例文：I have to go to work tomorrow. (明日仕事に行かなければならない。)"
+      "explanation": "「have to」は、義務や必要性を表す助動詞的な表現です。外部からの強制や、状況による必要性を示す際に用いられます。例文：I have to go to work tomorrow. (明日仕事に行かなければならない。)",
+      "etymology": "義務や必要性を表す助動詞的な表現です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Boy, do I have to urinate.",
+      "scriptContextTranslation": "Sheldon: あー、小便行きたい。"
     },
     {
       "id": 99,
@@ -1186,7 +1578,11 @@
         "悪化する"
       ],
       "correctAnswer": "気分が良くなる",
-      "explanation": "「feel better」は、体調や気分が改善されることを意味します。病気や落ち込んでいる状態から回復する際に使われます。例文：I hope you feel better soon. (早く良くなることを願っています。)"
+      "explanation": "「feel better」は、体調や気分が改善されることを意味します。病気や落ち込んでいる状態から回復する際に使われます。例文：I hope you feel better soon. (早く良くなることを願っています。)",
+      "etymology": "体調や気分が改善されることを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Let’s get you some food. You, You’ll feel better after you eat.",
+      "scriptContextTranslation": "Amy: 何か食べに行きましょう。食べたら気分が良くなるわ。"
     },
     {
       "id": 100,
@@ -1198,7 +1594,11 @@
         "ひどい"
       ],
       "correctAnswer": "素晴らしい",
-      "explanation": "「Awesome」は、非常に素晴らしい、感動的な、または印象的なものを指す口語的な表現です。肯定的な感情を強調する際に用いられます。例文：That concert was awesome! (あのコンサートは最高だった！)"
+      "explanation": "「Awesome」は、非常に素晴らしい、感動的な、または印象的なものを指す口語的な表現です。肯定的な感情を強調する際に用いられます。例文：That concert was awesome! (あのコンサートは最高だった！)",
+      "etymology": "非常に素晴らしい、感動的な、または印象的なものを指す口語的な表現です。",
+      "pronounciation": "/ˈɔːsəm/",
+      "scriptContext": "Wil: Penny? We’re working together. Awesome.",
+      "scriptContextTranslation": "Wil: ペニー？一緒に仕事するんだ。最高だ。"
     }
   ]
 }

@@ -10,7 +10,11 @@
         "どこに行くの"
       ],
       "correctAnswer": "何をしているの",
-      "explanation": "「Whatcha doin’」は「What are you doing?」のくだけた言い方です。日常会話でよく使われ、相手が何をしているのかを尋ねる際に用いられます。"
+      "explanation": "「Whatcha doin’」は「What are you doing?」のくだけた言い方です。日常会話でよく使われ、相手が何をしているのかを尋ねる際に用いられます。",
+      "etymology": "「What are you doing?」の口語的な短縮形です。「What are you」が「Whatcha」に変化しています。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Whatcha doin’ there? Working on a new plan to catch the roadrunner?",
+      "scriptContextTranslation": "Leonard: 何してるんだ？ ロードランナーを捕まえる新しい計画でも立ててるのか？"
     },
     {
       "id": 2,
@@ -22,7 +26,11 @@
         "明白な理由"
       ],
       "correctAnswer": "面白い意味合い",
-      "explanation": "「humorous implication」は「ユーモラスな含み」という意味です。言葉や行動が直接的ではなく、面白い意味を含んでいることを指します。この場合、レナードがシェルドンをアニメのキャラクターになぞらえて冗談を言っていることに対するシェルドンの反応です。"
+      "explanation": "「humorous implication」は「ユーモラスな含み」という意味です。言葉や行動が直接的ではなく、面白い意味を含んでいることを指します。この場合、レナードがシェルドンをアニメのキャラクターになぞらえて冗談を言っていることに対するシェルドンの反応です。",
+      "etymology": "humorousは「ユーモアのある」、implicationは「含み、暗示」という意味です。合わせて「ユーモラスな含み」となります。",
+      "pronounciation": "/ˈhjuːmərəs ˌɪmplɪˈkeɪʃən/",
+      "scriptContext": "Sheldon: The humorous implication being that I am Wile E. Coyote?",
+      "scriptContextTranslation": "Sheldon: それはつまり、僕がワイリー・コヨーテだって言いたいのか？"
     },
     {
       "id": 3,
@@ -34,7 +42,11 @@
         "完成図"
       ],
       "correctAnswer": "設計図",
-      "explanation": "「schematic」は「図式的な、概略的な」という意味で、ここでは装置の設計図を指します。技術的な内容を説明する際によく用いられます。"
+      "explanation": "「schematic」は「図式的な、概略的な」という意味で、ここでは装置の設計図を指します。技術的な内容を説明する際によく用いられます。",
+      "etymology": "ギリシャ語の「skhema（形、図）」に由来し、「図式的な」という意味を持ちます。",
+      "pronounciation": "/skiːˈmætɪk/",
+      "scriptContext": "Sheldon: And this is a schematic for a bird-trapping device that will ultimately backfire and cause me physical injury?",
+      "scriptContextTranslation": "Sheldon: そしてこれは、鳥を捕獲するための仕掛けの設計図で、最終的には裏目に出て僕が怪我をする、と？"
     },
     {
       "id": 4,
@@ -46,7 +58,11 @@
         "前進する"
       ],
       "correctAnswer": "裏目に出る",
-      "explanation": "「backfire」は「（計画などが）裏目に出る、失敗する」という意味です。意図した結果とは逆の結果になることを表します。例：His plan backfired spectacularly. (彼の計画は見事に裏目に出た。)"
+      "explanation": "「backfire」は「（計画などが）裏目に出る、失敗する」という意味です。意図した結果とは逆の結果になることを表します。例：His plan backfired spectacularly. (彼の計画は見事に裏目に出た。)",
+      "etymology": "「back（後ろへ）」と「fire（火）」が組み合わさった言葉で、銃の不発から、計画が逆効果になる意味に転じました。",
+      "pronounciation": "/ˈbækfaɪər/",
+      "scriptContext": "Sheldon: And this is a schematic for a bird-trapping device that will ultimately backfire and cause me physical injury?",
+      "scriptContextTranslation": "Sheldon: そしてこれは、鳥を捕獲するための仕掛けの設計図で、最終的には裏目に出て僕が怪我をする、と？"
     },
     {
       "id": 5,
@@ -58,7 +74,11 @@
         "つまり"
       ],
       "correctAnswer": "その他",
-      "explanation": "「et cetera」は「～など」という意味のラテン語です。リストを省略する際に用いられます。例：I bought apples, bananas, et cetera. (リンゴやバナナなどを買いました。)"
+      "explanation": "「et cetera」は「～など」という意味のラテン語です。リストを省略する際に用いられます。例：I bought apples, bananas, et cetera. (リンゴやバナナなどを買いました。)",
+      "etymology": "ラテン語で「その他」を意味する言葉で、リストなどを省略する際に使われます。",
+      "pronounciation": "/ˌɛtˈsɛtərə/",
+      "scriptContext": "Sheldon: My family history factoring in longevity, propensity for disease, et cetera.",
+      "scriptContextTranslation": "Sheldon: 僕の家族の歴史、長寿や病気の傾向などを考慮に入れている。"
     },
     {
       "id": 6,
@@ -70,7 +90,11 @@
         "知能"
       ],
       "correctAnswer": "寿命",
-      "explanation": "「longevity」は「長寿、寿命」という意味です。人の寿命や物の耐久性などを指す際に用いられます。"
+      "explanation": "「longevity」は「長寿、寿命」という意味です。人の寿命や物の耐久性などを指す際に用いられます。",
+      "etymology": "ラテン語の「longus（長い）」に由来し、「長く生きること」を意味します。",
+      "pronounciation": "/lɒnˈdʒevɪti/",
+      "scriptContext": "Sheldon: My family history factoring in longevity, propensity for disease, et cetera.",
+      "scriptContextTranslation": "Sheldon: 僕の家族の歴史、長寿や病気の傾向などを考慮に入れている。"
     },
     {
       "id": 7,
@@ -82,7 +106,11 @@
         "無関心"
       ],
       "correctAnswer": "傾向",
-      "explanation": "「propensity」は「（ある行動をする）傾向、性質」という意味です。例：He has a propensity for violence. (彼は暴力的な傾向がある。)"
+      "explanation": "「propensity」は「（ある行動をする）傾向、性質」という意味です。例：He has a propensity for violence. (彼は暴力的な傾向がある。)",
+      "etymology": "ラテン語の「propendere（傾く）」に由来し、「ある方向へ心が傾きやすいこと」を意味します。",
+      "pronounciation": "/prəˈpɛnsɪti/",
+      "scriptContext": "Sheldon: My family history factoring in longevity, propensity for disease, et cetera.",
+      "scriptContextTranslation": "Sheldon: 僕の家族の歴史、長寿や病気の傾向などを考慮に入れている。"
     },
     {
       "id": 8,
@@ -94,7 +122,11 @@
         "個人的な"
       ],
       "correctAnswer": "遺伝的な",
-      "explanation": "「hereditary」は「遺伝性の」という意味です。親から子へ受け継がれる性質や病気などを指します。"
+      "explanation": "「hereditary」は「遺伝性の」という意味です。親から子へ受け継がれる性質や病気などを指します。",
+      "etymology": "ラテン語の「heres（相続人）」に由来し、「相続によって受け継がれる」という意味から「遺伝的な」という意味になりました。",
+      "pronounciation": "/hɪˈrɛdɪtəri/",
+      "scriptContext": "Leonard: I don’t think you need to worry about death by badgers being hereditary.",
+      "scriptContextTranslation": "Leonard: アナグマによる死が遺伝する心配はないと思うぞ。"
     },
     {
       "id": 9,
@@ -106,7 +138,11 @@
         "睡眠欲"
       ],
       "correctAnswer": "闘争または逃走本能",
-      "explanation": "「fight or flight instinct」は「闘争か逃走か本能」という意味です。危険な状況に直面した際に、戦うか逃げるかを決める本能的な反応を指します。"
+      "explanation": "「fight or flight instinct」は「闘争か逃走か本能」という意味です。危険な状況に直面した際に、戦うか逃げるかを決める本能的な反応を指します。",
+      "etymology": "危険な状況に直面した際に、闘うか逃げるかのどちらかを選択するという、生物に備わった本能的な反応のことです。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Not true. The fight or flight instinct is coded genetically. Instead of fleeing, he chose to fight barehanded against a brawny member of the weasel family. Who’s to say that I don’t share that flawed DNA?",
+      "scriptContextTranslation": "Sheldon: そんなことはない。闘争か逃走かの本能は遺伝子に組み込まれている。彼は逃げる代わりに、イタチ科の屈強なメンバーと素手で戦うことを選んだ。僕がその欠陥のあるDNAを受け継いでいないと誰が言える？"
     },
     {
       "id": 10,
@@ -118,7 +154,11 @@
         "遺伝子的に隠されている"
       ],
       "correctAnswer": "遺伝子的に決定されている",
-      "explanation": "「coded genetically」は「遺伝子的にコード化されている」という意味です。ある特性や行動が遺伝子によって決定されていることを指します。"
+      "explanation": "「coded genetically」は「遺伝子的にコード化されている」という意味です。ある特性や行動が遺伝子によって決定されていることを指します。",
+      "etymology": "遺伝子（genetically）に情報が暗号化（coded）されていることを意味します。",
+      "pronounciation": "/ˌkoʊdɪd dʒəˈnetɪkli/",
+      "scriptContext": "Sheldon: Not true. The fight or flight instinct is coded genetically. Instead of fleeing, he chose to fight barehanded against a brawny member of the weasel family. Who’s to say that I don’t share that flawed DNA?",
+      "scriptContextTranslation": "Sheldon: そんなことはない。闘争か逃走かの本能は遺伝子に組み込まれている。彼は逃げる代わりに、イタチ科の屈強なメンバーと素手で戦うことを選んだ。僕がその欠陥のあるDNAを受け継いでいないと誰が言える？"
     },
     {
       "id": 11,
@@ -130,7 +170,11 @@
         "臆病な"
       ],
       "correctAnswer": "筋肉隆々の",
-      "explanation": "「brawny」は「筋肉隆々の、たくましい」という意味です。体力があり、力強い様子を表します。"
+      "explanation": "「brawny」は「筋肉隆々の、たくましい」という意味です。体力があり、力強い様子を表します。",
+      "etymology": "古フランス語の「braie（筋肉）」に由来し、「筋肉質の、たくましい」という意味になりました。",
+      "pronounciation": "/ˈbrɔːni/",
+      "scriptContext": "Sheldon: Not true. The fight or flight instinct is coded genetically. Instead of fleeing, he chose to fight barehanded against a brawny member of the weasel family. Who’s to say that I don’t share that flawed DNA?",
+      "scriptContextTranslation": "Sheldon: そんなことはない。闘争か逃走かの本能は遺伝子に組み込まれている。彼は逃げる代わりに、イタチ科の屈強なメンバーと素手で戦うことを選んだ。僕がその欠陥のあるDNAを受け継いでいないと誰が言える？"
     },
     {
       "id": 12,
@@ -142,7 +186,11 @@
         "理解する"
       ],
       "correctAnswer": "無視する",
-      "explanation": "「disregard」は「無視する、軽視する」という意味です。重要でないものとして扱ったり、注意を払わなかったりすることを指します。"
+      "explanation": "「disregard」は「無視する、軽視する」という意味です。重要でないものとして扱ったり、注意を払わなかったりすることを指します。",
+      "etymology": "「dis（否定）」と「regard（注意を払う）」が組み合わさった言葉で、「注意を払わない」という意味になります。",
+      "pronounciation": "/ˌdɪsrɪˈɡɑːrd/",
+      "scriptContext": "Sheldon: But seriously, even if I disregard the Uncle Carl factor, at best I have 60 years left.",
+      "scriptContextTranslation": "Sheldon: まじめな話、カール叔父さんの件を無視しても、せいぜいあと60年しか残されていないんだ。"
     },
     {
       "id": 13,
@@ -154,7 +202,11 @@
         "独自性"
       ],
       "correctAnswer": "特異点",
-      "explanation": "「singularity」は「特異点」という意味で、技術的特異点を指す場合は、人工知能が人間の知能を超える時点を意味します。"
+      "explanation": "「singularity」は「特異点」という意味で、技術的特異点を指す場合は、人工知能が人間の知能を超える時点を意味します。",
+      "etymology": "ラテン語の「singularis（単一の）」に由来し、「他とは異なる特異な点」を意味します。",
+      "pronounciation": "/ˌsɪŋɡjʊˈlærɪti/",
+      "scriptContext": "Sheldon: The earliest estimate of the singularity, when man will be able to transfer his consciousness into machines and achieve immortality.",
+      "scriptContextTranslation": "Sheldon: 人間が意識を機械に転送し、不死を達成できるシンギュラリティの最も早い予測時期だ。"
     },
     {
       "id": 14,
@@ -166,7 +218,11 @@
         "楽しむ"
       ],
       "correctAnswer": "見逃す",
-      "explanation": "「miss out on」は「～を見逃す、～に参加できない」という意味です。機会を逃すことや、経験できないことを残念に思う気持ちを表します。例：I don't want to miss out on the fun. (その楽しみを見逃したくない。)"
+      "explanation": "「miss out on」は「～を見逃す、～に参加できない」という意味です。機会を逃すことや、経験できないことを残念に思う気持ちを表します。例：I don't want to miss out on the fun. (その楽しみを見逃したくない。)",
+      "etymology": "「miss（逃す）」と「out（外へ）」が組み合わさり、「機会を逃して外に出てしまう」というイメージから、「見逃す」という意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: So, you’re upset about missing out on becoming some sort of freakish self-aware robot?",
+      "scriptContextTranslation": "Leonard: つまり、お前は奇妙な自意識を持つロボットになれないのが残念なのか？"
     },
     {
       "id": 15,
@@ -178,7 +234,11 @@
         "自然な"
       ],
       "correctAnswer": "異常な",
-      "explanation": "「freakish」は「異様な、奇妙な」という意味です。通常とは異なる、異常な状態や外見を指します。"
+      "explanation": "「freakish」は「異様な、奇妙な」という意味です。通常とは異なる、異常な状態や外見を指します。",
+      "etymology": "「freak（奇形、異常なもの）」に由来し、「異様な、奇妙な」という意味になりました。",
+      "pronounciation": "/ˈfriːkɪʃ/",
+      "scriptContext": "Leonard: So, you’re upset about missing out on becoming some sort of freakish self-aware robot?",
+      "scriptContextTranslation": "Leonard: つまり、お前は奇妙な自意識を持つロボットになれないのが残念なのか？"
     },
     {
       "id": 16,
@@ -190,7 +250,11 @@
         "超ひも理論"
       ],
       "correctAnswer": "統一場理論",
-      "explanation": "「unified field theory」は「統一場理論」という意味で、物理学の未解決問題の一つです。自然界の全ての力と素粒子を一つの理論で説明しようとする試みを指します。"
+      "explanation": "「unified field theory」は「統一場理論」という意味で、物理学の未解決問題の一つです。自然界の全ての力と素粒子を一つの理論で説明しようとする試みを指します。",
+      "etymology": "unified（統一された）、field（場）、theory（理論）を組み合わせた言葉で、物理学において自然界の力を統一的に説明しようとする理論のことです。",
+      "pronounciation": "/ˌjuːnɪfaɪd ˈfiːld ˌθɪəri/",
+      "scriptContext": "Sheldon: You don’t get it, Leonard. I’m going to miss so much, the unified field theory,  cold fusion, the dogapus.",
+      "scriptContextTranslation": "Sheldon: 分かってないな、レナード。僕はたくさんのことを見逃すんだ、統一場理論とか、常温核融合とか、ドガパスとか。"
     },
     {
       "id": 17,
@@ -202,7 +266,11 @@
         "風力発電"
       ],
       "correctAnswer": "常温核融合",
-      "explanation": "「cold fusion」は「常温核融合」という意味で、常温に近い環境で核融合反応を起こす技術です。実現すればエネルギー問題の解決に繋がると期待されていますが、まだ実証されていません。"
+      "explanation": "「cold fusion」は「常温核融合」という意味で、常温に近い環境で核融合反応を起こす技術です。実現すればエネルギー問題の解決に繋がると期待されていますが、まだ実証されていません。",
+      "etymology": "cold（冷たい）fusion（核融合）を組み合わせた言葉で、常温で起こるとされる核融合反応のことです。",
+      "pronounciation": "/ˌkoʊld ˈfjuːʒən/",
+      "scriptContext": "Sheldon: You don’t get it, Leonard. I’m going to miss so much, the unified field theory,  cold fusion, the dogapus.",
+      "scriptContextTranslation": "Sheldon: 分かってないな、レナード。僕はたくさんのことを見逃すんだ、統一場理論とか、常温核融合とか、ドガパスとか。"
     },
     {
       "id": 18,
@@ -214,7 +282,11 @@
         "自然な"
       ],
       "correctAnswer": "混成の",
-      "explanation": "「hybrid」は「混成の、雑種の」という意味です。異なる種類のもの同士を組み合わせたものを指します。例：a hybrid car (ハイブリッド車)"
+      "explanation": "「hybrid」は「混成の、雑種の」という意味です。異なる種類のもの同士を組み合わせたものを指します。例：a hybrid car (ハイブリッド車)",
+      "etymology": "ラテン語の「hybrida（混血）」に由来し、「異なる種類のものを組み合わせたもの」という意味になりました。",
+      "pronounciation": "/ˈhaɪbrɪd/",
+      "scriptContext": "Sheldon: A hybrid dog and octopus. Man’s underwater best friend.",
+      "scriptContextTranslation": "Sheldon: 犬とタコのハイブリッド。人類の水中での親友だ。"
     },
     {
       "id": 19,
@@ -226,7 +298,11 @@
         "要求する"
       ],
       "correctAnswer": "借りがある",
-      "explanation": "「owe」は「～を借りている、～に恩がある」という意味です。金銭や感謝の気持ちなどを相手に返す必要がある状態を表します。例：I owe you one. (あなたに借りがある。)"
+      "explanation": "「owe」は「～を借りている、～に恩がある」という意味です。金銭や感謝の気持ちなどを相手に返す必要がある状態を表します。例：I owe you one. (あなたに借りがある。)",
+      "etymology": "古英語の「agan（所有する）」に由来し、「借りがある、義務がある」という意味になりました。",
+      "pronounciation": "/oʊ/",
+      "scriptContext": "Howard: What do we owe you?",
+      "scriptContextTranslation": "Howard: いくら払えばいい？"
     },
     {
       "id": 20,
@@ -238,7 +314,11 @@
         "割引で"
       ],
       "correctAnswer": "一人あたり",
-      "explanation": "「apiece」は「それぞれ、一人あたり」という意味です。複数人に分配する場合によく使われます。例：They cost $10 apiece. (それらは一つ10ドルです。)"
+      "explanation": "「apiece」は「それぞれ、一人あたり」という意味です。複数人に分配する場合によく使われます。例：They cost $10 apiece. (それらは一つ10ドルです。)",
+      "etymology": "「a（～につき）」と「piece（個）」が組み合わさり、「それぞれ、一人あたり」という意味になりました。",
+      "pronounciation": "/əˈpiːs/",
+      "scriptContext": "Leonard: It came to $28.17. Let’s say six bucks apiece.",
+      "scriptContextTranslation": "Leonard: 28ドル17セントだ。一人6ドルってことでいいよ。"
     },
     {
       "id": 21,
@@ -250,7 +330,11 @@
         "あきらめる"
       ],
       "correctAnswer": "何とかやっていく",
-      "explanation": "「get by」は「何とかやっていく、切り抜ける」という意味です。十分ではない状況でも、なんとか生活できることを表します。例：I don't have much money, but I get by. (お金はあまりないけど、何とかやっていけてる。)"
+      "explanation": "「get by」は「何とかやっていく、切り抜ける」という意味です。十分ではない状況でも、なんとか生活できることを表します。例：I don't have much money, but I get by. (お金はあまりないけど、何とかやっていけてる。)",
+      "etymology": "「get（得る）」と「by（そばを通る）」が組み合わさり、「何とかやりくりして生活する」という意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Penny: I’m cute. I get by.",
+      "scriptContextTranslation": "Penny: 可愛いは正義よ。なんとかなるの。"
     },
     {
       "id": 22,
@@ -262,7 +346,11 @@
         "豆類"
       ],
       "correctAnswer": "アブラナ科の野菜",
-      "explanation": "「cruciferous vegetable」は「アブラナ科の野菜」という意味です。ブロッコリー、キャベツ、カリフラワーなどが含まれます。"
+      "explanation": "「cruciferous vegetable」は「アブラナ科の野菜」という意味です。ブロッコリー、キャベツ、カリフラワーなどが含まれます。",
+      "etymology": "アブラナ科の植物の学名である「Cruciferae」に由来し、十字架のような花びらの形から名付けられました。",
+      "pronounciation": "/kruːˈsɪfərəs ˈvɛdʒtəbəl/",
+      "scriptContext": "Series 04 Episode 02 – The Cruciferous Vegetable Amplification",
+      "scriptContextTranslation": ""
     },
     {
       "id": 23,
@@ -274,7 +362,11 @@
         "太陽暦"
       ],
       "correctAnswer": "シェルドン暦",
-      "explanation": "「Sheldonian calendar」は「シェルドン暦」という意味で、シェルドンが独自に定めたスケジュールや習慣を指します。"
+      "explanation": "「Sheldonian calendar」は「シェルドン暦」という意味で、シェルドンが独自に定めたスケジュールや習慣を指します。",
+      "etymology": "シェルドンが個人的に作成した、独特なスケジュールや習慣を指す言葉です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Really? You’re changing the Sheldonian calendar?",
+      "scriptContextTranslation": "Howard: マジかよ？ シェルドン暦を変えるのか？"
     },
     {
       "id": 24,
@@ -286,7 +378,11 @@
         "予期せぬ収入"
       ],
       "correctAnswer": "安い代償",
-      "explanation": "「small price to pay」は「安い代償」という意味です。何かを得るために払う代償が小さいと感じる時に使います。例：It's a small price to pay for happiness. (幸せのためには安い代償だ。)"
+      "explanation": "「small price to pay」は「安い代償」という意味です。何かを得るために払う代償が小さいと感じる時に使います。例：It's a small price to pay for happiness. (幸せのためには安い代償だ。)",
+      "etymology": "何かを得るために支払う代償が小さいと感じる時に使われる表現です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: It’s a small price to pay.",
+      "scriptContextTranslation": "Sheldon: 安い代償だ。"
     },
     {
       "id": 25,
@@ -298,7 +394,11 @@
         "現実を生きる"
       ],
       "correctAnswer": "意識とサイバネティックスを融合させる",
-      "explanation": "「fuse my consciousness with cybernetics」は「自分の意識をサイバネティックスと融合させる」という意味です。自分の意識を機械に転送し、永遠の命を得ようとする考えを表します。"
+      "explanation": "「fuse my consciousness with cybernetics」は「自分の意識をサイバネティックスと融合させる」という意味です。自分の意識を機械に転送し、永遠の命を得ようとする考えを表します。",
+      "etymology": "意識（consciousness）とサイバネティックス（cybernetics）を融合させるという、SF的な概念を表しています。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: In order to live long enough to fuse my consciousness with cybernetics, I need to change my diet.",
+      "scriptContextTranslation": "Sheldon: 僕が意識をサイバネティクスと融合させるまで生き延びるためには、食事を変える必要があるんだ。"
     },
     {
       "id": 26,
@@ -310,7 +410,11 @@
         "偶然に"
       ],
       "correctAnswer": "本質的に",
-      "explanation": "「essentially」は「本質的に」「基本的に」という意味で、ある物事の最も重要な側面や性質を指す際に用いられます。付随的な要素を除いて、中心となる部分を強調するニュアンスがあります。\n\n例：Essentially, the plan is to reduce costs. (本質的に、その計画はコスト削減を目指しています。)"
+      "explanation": "「essentially」は「本質的に」「基本的に」という意味で、ある物事の最も重要な側面や性質を指す際に用いられます。付随的な要素を除いて、中心となる部分を強調するニュアンスがあります。\n\n例：Essentially, the plan is to reduce costs. (本質的に、その計画はコスト削減を目指しています。)",
+      "etymology": "ラテン語の essentia（本質）に由来し、物事の中核や最も重要な側面を指す際に用いられます。",
+      "pronounciation": "/ɪˈsɛnʃəli/",
+      "scriptContext": "Sheldon: Essentially, yes.",
+      "scriptContextTranslation": "Sheldon: 基本的にはね。"
     },
     {
       "id": 27,
@@ -322,7 +426,11 @@
         "睡眠"
       ],
       "correctAnswer": "運動療法",
-      "explanation": "「regimen」は「養生法」「鍛錬法」という意味で、特に健康や美容のために規則正しく行う運動や食事の計画を指します。自己管理を伴う、体系的な取り組みを表します。\n\n例：a strict fitness regimen (厳しい運動療法)"
+      "explanation": "「regimen」は「養生法」「鍛錬法」という意味で、特に健康や美容のために規則正しく行う運動や食事の計画を指します。自己管理を伴う、体系的な取り組みを表します。\n\n例：a strict fitness regimen (厳しい運動療法)",
+      "etymology": "ラテン語の regimen（統治、管理）に由来し、健康や美容のために規則正しく行う計画的な取り組みを指します。",
+      "pronounciation": "/ˈrɛdʒɪmən/",
+      "scriptContext": "Sheldon: Flattering, but sadly, no. I’m also planning to begin an exercise regimen designed to strengthen my cardiovascular system. AKA jogging.",
+      "scriptContextTranslation": "Sheldon: 嬉しいけど、残念ながら、まだだ。心臓血管系を強化するための運動計画も立ててる。つまりジョギングだ。"
     },
     {
       "id": 28,
@@ -334,7 +442,11 @@
         "〜の代わりに"
       ],
       "correctAnswer": "〜として知られている",
-      "explanation": "「AKA」は \"also known as\" の略で、「〜としても知られている」という意味です。ある人や物が別の名前でも呼ばれていることを示す際に使用されます。口語的な表現です。\n\n例：He is known as Jim AKA 'The Hammer'. (彼はジム、別名「ハンマー」として知られている。)"
+      "explanation": "「AKA」は \"also known as\" の略で、「〜としても知られている」という意味です。ある人や物が別の名前でも呼ばれていることを示す際に使用されます。口語的な表現です。\n\n例：He is known as Jim AKA 'The Hammer'. (彼はジム、別名「ハンマー」として知られている。)",
+      "etymology": "\"also known as\" の略で、「～としても知られている」という意味の口語的な表現です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Flattering, but sadly, no. I’m also planning to begin an exercise regimen designed to strengthen my cardiovascular system. AKA jogging.",
+      "scriptContextTranslation": "Sheldon: 嬉しいけど、残念ながら、まだだ。心臓血管系を強化するための運動計画も立ててる。つまりジョギングだ。"
     },
     {
       "id": 29,
@@ -346,7 +458,11 @@
         "友好的な"
       ],
       "correctAnswer": "頑固な",
-      "explanation": "「persistent」は「しつこい」「粘り強い」という意味で、困難や反対に直面しても諦めずに努力し続ける様子を表します。良い意味でも悪い意味でも使われます。\n\n例：a persistent cough (しつこい咳)"
+      "explanation": "「persistent」は「しつこい」「粘り強い」という意味で、困難や反対に直面しても諦めずに努力し続ける様子を表します。良い意味でも悪い意味でも使われます。\n\n例：a persistent cough (しつこい咳)",
+      "etymology": "ラテン語の persistere（固執する）に由来し、困難にもめげずに粘り強く努力する様子を表します。",
+      "pronounciation": "/pərˈsɪstənt/",
+      "scriptContext": "Sheldon: Certainly. I’ve run from bullies, dogs, angry chickens, and one particularly persistent P.E. teacher determined to bend me over and give me a scoliosis test.",
+      "scriptContextTranslation": "Sheldon: もちろんだ。いじめっ子、犬、怒った鶏、それに私を無理やり屈ませて脊柱側弯症の検査をしようとしたしつこい体育教師から逃げたことがある。"
     },
     {
       "id": 30,
@@ -358,7 +474,11 @@
         "失望した"
       ],
       "correctAnswer": "決意した",
-      "explanation": "「determined」は「決意した」「断固とした」という意味で、目標を達成するために強い意志を持っている状態を表します。しばしば、困難を乗り越える覚悟を示します。\n\n例：She is determined to succeed. (彼女は成功すると決意している。)"
+      "explanation": "「determined」は「決意した」「断固とした」という意味で、目標を達成するために強い意志を持っている状態を表します。しばしば、困難を乗り越える覚悟を示します。\n\n例：She is determined to succeed. (彼女は成功すると決意している。)",
+      "etymology": "determine（決定する）の過去分詞で、目標達成のために固く決意している状態を表します。",
+      "pronounciation": "/dɪˈtɜːrmɪnd/",
+      "scriptContext": "Sheldon: Certainly. I’ve run from bullies, dogs, angry chickens, and one particularly persistent P.E. teacher determined to bend me over and give me a scoliosis test.",
+      "scriptContextTranslation": "Sheldon: もちろんだ。いじめっ子、犬、怒った鶏、それに私を無理やり屈ませて脊柱側弯症の検査をしようとしたしつこい体育教師から逃げたことがある。"
     },
     {
       "id": 31,
@@ -370,7 +490,11 @@
         "私を笑わせる"
       ],
       "correctAnswer": "私を屈服させる",
-      "explanation": "「bend someone over」は、文字通りには「誰かをかがませる」という意味ですが、ここでは「誰かを屈服させる」「支配する」という比喩的な意味合いで使われています。権力関係において、一方的な服従を強いる状況を示唆します。\n\n例：The company tried to bend the workers over during negotiations. (会社は交渉中に労働者を屈服させようとした。)"
+      "explanation": "「bend someone over」は、文字通りには「誰かをかがませる」という意味ですが、ここでは「誰かを屈服させる」「支配する」という比喩的な意味合いで使われています。権力関係において、一方的な服従を強いる状況を示唆します。\n\n例：The company tried to bend the workers over during negotiations. (会社は交渉中に労働者を屈服させようとした。)",
+      "etymology": "誰かを屈服させる、支配するという比喩的な意味合いで使われるイディオムです。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Certainly. I’ve run from bullies, dogs, angry chickens, and one particularly persistent P.E. teacher determined to bend me over and give me a scoliosis test.",
+      "scriptContextTranslation": "Sheldon: もちろんだ。いじめっ子、犬、怒った鶏、それに私を無理やり屈ませて脊柱側弯症の検査をしようとしたしつこい体育教師から逃げたことがある。"
     },
     {
       "id": 32,
@@ -382,7 +506,11 @@
         "教師"
       ],
       "correctAnswer": "精神科医",
-      "explanation": "「shrink」は、精神科医や心理療法士を指す俗語です。特に、精神的な問題や感情的な苦悩を抱える人が相談する専門家を指します。軽蔑的なニュアンスを含むこともあります。\n\n例：I need to see a shrink. (精神科医に診てもらう必要がある。)"
+      "explanation": "「shrink」は、精神科医や心理療法士を指す俗語です。特に、精神的な問題や感情的な苦悩を抱える人が相談する専門家を指します。軽蔑的なニュアンスを含むこともあります。\n\n例：I need to see a shrink. (精神科医に診てもらう必要がある。)",
+      "etymology": "精神科医が患者の精神を「縮める（shrink）」というイメージから生まれた俗語です。",
+      "pronounciation": "/ʃrɪŋk/",
+      "scriptContext": "Howard: I know! (Raj whispers to him) And he says he’s not gonna stop. (Raj whispers to him urgently) Then see a shrink and figure out how to talk to women.",
+      "scriptContextTranslation": "Howard: そうだろ！（ラージが耳打ちする）そして、彼はやめるつもりはないと言っている。（ラージが緊急に耳打ちする）精神科医に診てもらって、女性との話し方を学ぶんだな。"
     },
     {
       "id": 33,
@@ -394,7 +522,11 @@
         "静止している"
       ],
       "correctAnswer": "広がっている",
-      "explanation": "「radiating」は「放射する」「広がる」という意味で、熱、光、痛みなどが中心から外に向かって広がる様子を表します。ここでは、痛みが特定の場所から広がっていることを示しています。\n\n例：The heat was radiating from the fire. (熱が火から放射されていた。)"
+      "explanation": "「radiating」は「放射する」「広がる」という意味で、熱、光、痛みなどが中心から外に向かって広がる様子を表します。ここでは、痛みが特定の場所から広がっていることを示しています。\n\n例：The heat was radiating from the fire. (熱が火から放射されていた。)",
+      "etymology": "ラテン語の radius（光線）に由来し、中心から外に向かって広がる様子を表します。",
+      "pronounciation": "/ˈreɪdieɪtɪŋ/",
+      "scriptContext": "Sheldon: I have pain radiating from my navel to my lower right abdomen. I’m nauseated and feverish. I believe I may have cholera.",
+      "scriptContextTranslation": "Sheldon: へそから右下腹部にかけて痛みが走る。吐き気と発熱もある。コレラかもしれない。"
     },
     {
       "id": 34,
@@ -406,7 +538,11 @@
         "安心した"
       ],
       "correctAnswer": "吐き気がする",
-      "explanation": "「nauseated」は「吐き気がする」という意味で、嘔吐したいような不快な感覚を表します。乗り物酔いや病気の症状としてよく使われます。\n\n例：I felt nauseated after the roller coaster ride. (ジェットコースターに乗った後、吐き気がした。)"
+      "explanation": "「nauseated」は「吐き気がする」という意味で、嘔吐したいような不快な感覚を表します。乗り物酔いや病気の症状としてよく使われます。\n\n例：I felt nauseated after the roller coaster ride. (ジェットコースターに乗った後、吐き気がした。)",
+      "etymology": "ラテン語の nausea（吐き気）に由来し、吐き気を催すような不快な感覚を表します。",
+      "pronounciation": "/ˈnɔːzieɪtɪd/",
+      "scriptContext": "Sheldon: I have pain radiating from my navel to my lower right abdomen. I’m nauseated and feverish. I believe I may have cholera.",
+      "scriptContextTranslation": "Sheldon: へそから右下腹部にかけて痛みが走る。吐き気と発熱もある。コレラかもしれない。"
     },
     {
       "id": 35,
@@ -418,7 +554,11 @@
         "結果"
       ],
       "correctAnswer": "可能性",
-      "explanation": "「likelihood」は「可能性」「見込み」という意味で、ある事象が起こる確率や可能性の度合いを表します。客観的な評価や主観的な判断に基づいて使われます。\n\n例：There is a high likelihood of rain tomorrow. (明日は雨の可能性が高い。)"
+      "explanation": "「likelihood」は「可能性」「見込み」という意味で、ある事象が起こる確率や可能性の度合いを表します。客観的な評価や主観的な判断に基づいて使われます。\n\n例：There is a high likelihood of rain tomorrow. (明日は雨の可能性が高い。)",
+      "etymology": "likely（ありそうな）に由来し、ある事象が起こる可能性の度合いを表します。",
+      "pronounciation": "/ˈlaɪklihʊd/",
+      "scriptContext": "Sheldon: Well, if it’s not cholera, then based on a quick Internet search, the other explanations in decreasing order of likelihood are Hirschsprung’s Disease, botulism, a 30-foot tapeworm or accidental ingestion of chrysanthemum blossoms.",
+      "scriptContextTranslation": "Sheldon: コレラでないとしたら、インターネットでざっと調べたところ、可能性が高い順に、ヒルシュスプルング病、ボツリヌス症、30フィートのサナダムシ、または誤って菊の花を食べた、となる。"
     },
     {
       "id": 36,
@@ -430,7 +570,11 @@
         "排出"
       ],
       "correctAnswer": "摂取",
-      "explanation": "「ingestion」は「摂取」「嚥下」という意味で、食物や薬などを口から体内に取り込む行為を指します。医学的な文脈や、毒物などの摂取について言及する際によく用いられます。\n\n例：Accidental ingestion of poison can be fatal. (誤って毒物を摂取すると、致命的となることがある。)"
+      "explanation": "「ingestion」は「摂取」「嚥下」という意味で、食物や薬などを口から体内に取り込む行為を指します。医学的な文脈や、毒物などの摂取について言及する際によく用いられます。\n\n例：Accidental ingestion of poison can be fatal. (誤って毒物を摂取すると、致命的となることがある。)",
+      "etymology": "ラテン語の ingerere（中に運ぶ）に由来し、食物や薬などを体内に取り込む行為を指します。",
+      "pronounciation": "/ɪnˈdʒɛstʃən/",
+      "scriptContext": "Sheldon: Well, if it’s not cholera, then based on a quick Internet search, the other explanations in decreasing order of likelihood are Hirschsprung’s Disease, botulism, a 30-foot tapeworm or accidental ingestion of chrysanthemum blossoms.",
+      "scriptContextTranslation": "Sheldon: コレラでないとしたら、インターネットでざっと調べたところ、可能性が高い順に、ヒルシュスプルング病、ボツリヌス症、30フィートのサナダムシ、または誤って菊の花を食べた、となる。"
     },
     {
       "id": 37,
@@ -442,7 +586,11 @@
         "興奮した"
       ],
       "correctAnswer": "注意深い",
-      "explanation": "「vigilant」は「警戒している」「用心深い」という意味で、危険や問題が発生しないように、常に注意を払っている状態を表します。特に、責任ある立場にある人が警戒を怠らないことを指します。\n\n例：Security guards must be vigilant at all times. (警備員は常に警戒していなければならない。)"
+      "explanation": "「vigilant」は「警戒している」「用心深い」という意味で、危険や問題が発生しないように、常に注意を払っている状態を表します。特に、責任ある立場にある人が警戒を怠らないことを指します。\n\n例：Security guards must be vigilant at all times. (警備員は常に警戒していなければならない。)",
+      "etymology": "ラテン語の vigilare（見張る）に由来し、危険や問題がないか常に注意を払っている状態を表します。",
+      "pronounciation": "/ˈvɪdʒɪlənt/",
+      "scriptContext": "Sheldon: It’s part of an unlikely scenario that involves sleepwalking and a 24-hour flower mart with a less-than-vigilant proprietor. Oh, Lord, my belly!",
+      "scriptContextTranslation": "Sheldon: それは、夢遊病と、注意力が低い店主がいる24時間営業の花市場が関わる、ありえないシナリオの一部だ。ああ、なんてこった、お腹が！"
     },
     {
       "id": 38,
@@ -454,7 +602,11 @@
         "配達人"
       ],
       "correctAnswer": "所有者",
-      "explanation": "「proprietor」は「所有者」「経営者」という意味で、特に商店や事業の所有者を指します。個人事業主や小規模企業の経営者を指すことが多いです。\n\n例：The proprietor of the restaurant is very friendly. (そのレストランのオーナーはとても親切だ。)"
+      "explanation": "「proprietor」は「所有者」「経営者」という意味で、特に商店や事業の所有者を指します。個人事業主や小規模企業の経営者を指すことが多いです。\n\n例：The proprietor of the restaurant is very friendly. (そのレストランのオーナーはとても親切だ。)",
+      "etymology": "ラテン語の proprietas（所有権）に由来し、商店や事業の所有者や経営者を指します。",
+      "pronounciation": "/prəˈpraɪətər/",
+      "scriptContext": "Sheldon: It’s part of an unlikely scenario that involves sleepwalking and a 24-hour flower mart with a less-than-vigilant proprietor. Oh, Lord, my belly!",
+      "scriptContextTranslation": "Sheldon: それは、夢遊病と、注意力が低い店主がいる24時間営業の花市場が関わる、ありえないシナリオの一部だ。ああ、なんてこった、お腹が！"
     },
     {
       "id": 39,
@@ -466,7 +618,11 @@
         "〜するのを忘れる"
       ],
       "correctAnswer": "〜するつもりである",
-      "explanation": "「mean to」は「〜するつもりである」「〜しようと思っている」という意味で、近い将来に行動を起こす意図や計画があることを示します。しばしば、実際にはまだ行動に移せていない状況を表します。\n\n例：I've been meaning to call you. (あなたに電話しようと思っていたんだ。)"
+      "explanation": "「mean to」は「〜するつもりである」「〜しようと思っている」という意味で、近い将来に行動を起こす意図や計画があることを示します。しばしば、実際にはまだ行動に移せていない状況を表します。\n\n例：I've been meaning to call you. (あなたに電話しようと思っていたんだ。)",
+      "etymology": "何かをする意図や計画があることを示す表現です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I haven’t. I’ve been meaning to, but who has the time?",
+      "scriptContextTranslation": "Sheldon: まだだ。そのつもりではいたが、誰がそんな時間あるんだ？"
     },
     {
       "id": 40,
@@ -478,7 +634,11 @@
         "無意味な努力"
       ],
       "correctAnswer": "皮肉な運命",
-      "explanation": "「cruel irony」は「残酷な皮肉」という意味で、意図とは正反対の結果が生じる状況を表します。特に、期待や努力が裏切られ、不条理な結末を迎える場合に用いられます。\n\n例：The cruel irony was that he died saving the man who killed his brother. (残酷な皮肉は、彼が弟を殺した男を救って死んだことだった。)"
+      "explanation": "「cruel irony」は「残酷な皮肉」という意味で、意図とは正反対の結果が生じる状況を表します。特に、期待や努力が裏切られ、不条理な結末を迎える場合に用いられます。\n\n例：The cruel irony was that he died saving the man who killed his brother. (残酷な皮肉は、彼が弟を殺した男を救って死んだことだった。)",
+      "etymology": "意図とは正反対の結果が生じる、残酷な皮肉な状況を表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: So this is how it ends, with cruel irony. Just as I make the commitment to preserving my body, I am betrayed by my appendix, a vestigial organ. Do you know the original purpose of the appendix, Leonard?",
+      "scriptContextTranslation": "Sheldon: これが私の終わり方か、残酷な皮肉だ。ちょうど体を保存することにコミットした矢先に、痕跡器官である盲腸に裏切られるとは。盲腸の本来の目的を知っているか、レナード？"
     },
     {
       "id": 41,
@@ -490,7 +650,11 @@
         "人工的な"
       ],
       "correctAnswer": "退化した",
-      "explanation": "「vestigial」は「痕跡的な」「退化した」という意味で、かつては機能していたが、進化の過程でその機能を失った器官や構造を指します。生物学的な文脈でよく用いられます。\n\n例：The appendix is a vestigial organ in humans. (虫垂は人間の痕跡器官である。)"
+      "explanation": "「vestigial」は「痕跡的な」「退化した」という意味で、かつては機能していたが、進化の過程でその機能を失った器官や構造を指します。生物学的な文脈でよく用いられます。\n\n例：The appendix is a vestigial organ in humans. (虫垂は人間の痕跡器官である。)",
+      "etymology": "ラテン語の vestigium（足跡、痕跡）に由来し、かつては機能していたが、進化の過程で機能を失った器官や構造を指します。",
+      "pronounciation": "/vɛˈstɪdʒiəl/",
+      "scriptContext": "Sheldon: So this is how it ends, with cruel irony. Just as I make the commitment to preserving my body, I am betrayed by my appendix, a vestigial organ. Do you know the original purpose of the appendix, Leonard?",
+      "scriptContextTranslation": "Sheldon: これが私の終わり方か、残酷な皮肉だ。ちょうど体を保存することにコミットした矢先に、痕跡器官である盲腸に裏切られるとは。盲腸の本来の目的を知っているか、レナード？"
     },
     {
       "id": 42,
@@ -502,7 +666,11 @@
         "成功した"
       ],
       "correctAnswer": "運命づけられた",
-      "explanation": "「doomed」は「運命づけられた」「破滅的な」という意味で、避けられない悪い運命や不幸が待ち受けている状態を表します。絶望感や悲観的なニュアンスを含みます。\n\n例：The ship was doomed to sink. (その船は沈む運命にあった。)"
+      "explanation": "「doomed」は「運命づけられた」「破滅的な」という意味で、避けられない悪い運命や不幸が待ち受けている状態を表します。絶望感や悲観的なニュアンスを含みます。\n\n例：The ship was doomed to sink. (その船は沈む運命にあった。)",
+      "etymology": "古英語の dom（判決、運命）に由来し、避けられない悪い運命が待ち受けている状態を表します。",
+      "pronounciation": "/duːmd/",
+      "scriptContext": "Sheldon: I do. And yet I’m doomed while you live on.",
+      "scriptContextTranslation": "Sheldon: 私は知っている。それなのに私は破滅し、お前は生き残るのか。"
     },
     {
       "id": 43,
@@ -514,7 +682,11 @@
         "正直な人"
       ],
       "correctAnswer": "臆病な人",
-      "explanation": "「nervous Nelly」は「心配性の人」「臆病な人」という意味で、些細なことにも過剰に心配したり、不安になったりする人を指す口語的な表現です。しばしば、軽蔑的なニュアンスを含みます。\n\n例：Don't be such a nervous Nelly! (そんなに心配しないで！)"
+      "explanation": "「nervous Nelly」は「心配性の人」「臆病な人」という意味で、些細なことにも過剰に心配したり、不安になったりする人を指す口語的な表現です。しばしば、軽蔑的なニュアンスを含みます。\n\n例：Don't be such a nervous Nelly! (そんなに心配しないで！)",
+      "etymology": "心配性な女性を指す、アメリカの口語的な表現です。起源ははっきりしていませんが、Nellyという名前が「弱々しい」というイメージと結びついたと考えられています。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Good night. Appendicitis. What a nervous Nelly.",
+      "scriptContextTranslation": "Sheldon: おやすみ。盲腸炎か。なんて臆病者だ。"
     },
     {
       "id": 44,
@@ -526,7 +698,11 @@
         "計画する"
       ],
       "correctAnswer": "うまくいく",
-      "explanation": "「work out」は様々な意味がありますが、ここでは「うまくいく」「成功する」という意味で使われています。計画や行動が期待通りに進展することを表します。\n\n例：I hope everything works out for you. (すべてがうまくいくといいですね。)"
+      "explanation": "「work out」は様々な意味がありますが、ここでは「うまくいく」「成功する」という意味で使われています。計画や行動が期待通りに進展することを表します。\n\n例：I hope everything works out for you. (すべてがうまくいくといいですね。)",
+      "etymology": "計画や行動が期待通りに進展することを表すイディオムです。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Funny how things work out, isn’t it?",
+      "scriptContextTranslation": "Leonard: うまくいくもんだね、色々。"
     },
     {
       "id": 45,
@@ -538,7 +714,11 @@
         "大声で叫ぶ"
       ],
       "correctAnswer": "楽しそうに跳ね回る",
-      "explanation": "「gambol」は「跳ね回る」「駆け回る」という意味で、喜びや興奮を表して軽快に動き回る様子を描写します。特に、子供や動物が遊び戯れる様子を指すことが多いです。\n\n例：Lambs gambolled in the meadow. (子羊たちが牧草地で跳ね回っていた。)"
+      "explanation": "「gambol」は「跳ね回る」「駆け回る」という意味で、喜びや興奮を表して軽快に動き回る様子を描写します。特に、子供や動物が遊び戯れる様子を指すことが多いです。\n\n例：Lambs gambolled in the meadow. (子羊たちが牧草地で跳ね回っていた。)",
+      "etymology": "古フランス語の gambe（脚）に由来し、喜びや興奮を表して軽快に動き回る様子を描写します。",
+      "pronounciation": "/ˈɡæmbəl/",
+      "scriptContext": "Sheldon: What do you do, you just go out there and gambol about like a bunny?",
+      "scriptContextTranslation": "Sheldon: じゃあ、どうするんだ、ただそこらへんをウサギみたいに跳ね回るのか？"
     },
     {
       "id": 46,
@@ -550,7 +730,11 @@
         "鋭い爪"
       ],
       "correctAnswer": "甘い菓子パン",
-      "explanation": "「bear claw」は、熊の爪の形に似た甘い菓子パンの一種です。アメリカ合衆国で人気のあるペストリーで、アーモンドやシナモン風味のものがあります。\n\n例：I'll have a bear claw and a coffee, please. (ベアクロウとコーヒーをお願いします。)"
+      "explanation": "「bear claw」は、熊の爪の形に似た甘い菓子パンの一種です。アメリカ合衆国で人気のあるペストリーで、アーモンドやシナモン風味のものがあります。\n\n例：I'll have a bear claw and a coffee, please. (ベアクロウとコーヒーをお願いします。)",
+      "etymology": "熊の爪の形に似ていることから名付けられた菓子パンです。",
+      "pronounciation": "/ˈbɛər klɔː/",
+      "scriptContext": "Penny: No. I just run till I’m hungry, then I stop for a bear claw.",
+      "scriptContextTranslation": "Penny: 違うわよ。お腹が空くまで走って、ベアクロウを買って食べるの。"
     },
     {
       "id": 47,
@@ -562,7 +746,11 @@
         "つま先を動かす"
       ],
       "correctAnswer": "つま先で触れる",
-      "explanation": "「toe touch」は、体を前に倒してつま先に触れるストレッチ運動のことです。柔軟性を高めるための準備運動としてよく行われます。\n\n例：Do some toe touches to warm up your hamstrings. (ハムストリングを温めるために、つま先タッチをしましょう。)"
+      "explanation": "「toe touch」は、体を前に倒してつま先に触れるストレッチ運動のことです。柔軟性を高めるための準備運動としてよく行われます。\n\n例：Do some toe touches to warm up your hamstrings. (ハムストリングを温めるために、つま先タッチをしましょう。)",
+      "etymology": "体を前に倒してつま先に触れる運動を表します。",
+      "pronounciation": "/ˈtoʊ tʌtʃ/",
+      "scriptContext": "Penny: All right, let’s start with a toe touch. Okay, you do it.",
+      "scriptContextTranslation": "Penny: よし、つま先タッチから始めましょう。はい、やって。"
     },
     {
       "id": 48,
@@ -574,7 +762,11 @@
         "生物力学"
       ],
       "correctAnswer": "生物力学",
-      "explanation": "「biomechanics」は「生体力学」という意味で、生物の構造や機能、特に運動に関する力学的な側面を研究する学問分野です。スポーツ科学やリハビリテーションなどで応用されています。\n\n例：Biomechanics is used to improve athletic performance. (生体力学は運動能力の向上に利用されている。)"
+      "explanation": "「biomechanics」は「生体力学」という意味で、生物の構造や機能、特に運動に関する力学的な側面を研究する学問分野です。スポーツ科学やリハビリテーションなどで応用されています。\n\n例：Biomechanics is used to improve athletic performance. (生体力学は運動能力の向上に利用されている。)",
+      "etymology": "bio（生物）とmechanics（力学）を組み合わせた言葉で、生物の構造や機能に関する力学的な側面を研究する学問分野です。",
+      "pronounciation": "/ˌbaɪoʊmɪˈkænɪks/",
+      "scriptContext": "Sheldon: Yeah, I’ve been reading up on biomechanics. I think you’ll be surprised at my… Wah! Oh!",
+      "scriptContextTranslation": "Sheldon: ああ、バイオメカニクスについて調べていたんだ。君は私の…ワッ！オッ！と驚くだろう。"
     },
     {
       "id": 49,
@@ -586,7 +778,11 @@
         "マメ科の"
       ],
       "correctAnswer": "アブラナ科の",
-      "explanation": "「Cruciferous」は「アブラナ科の」という意味で、ブロッコリー、キャベツ、カリフラワー、ケールなどの野菜を含む植物の科を指します。これらの野菜は栄養価が高いことで知られています。\n\n例：Cruciferous vegetables are good for your health. (アブラナ科の野菜は健康に良い。)"
+      "explanation": "「Cruciferous」は「アブラナ科の」という意味で、ブロッコリー、キャベツ、カリフラワー、ケールなどの野菜を含む植物の科を指します。これらの野菜は栄養価が高いことで知られています。\n\n例：Cruciferous vegetables are good for your health. (アブラナ科の野菜は健康に良い。)",
+      "etymology": "アブラナ科の植物の学名である「Cruciferae」に由来し、十字架のような花びらの形から名付けられました。",
+      "pronounciation": "/kruːˈsɪfərəs/",
+      "scriptContext": "Series 04 Episode 02 – The Cruciferous Vegetable Amplification",
+      "scriptContextTranslation": ""
     },
     {
       "id": 50,
@@ -598,7 +794,11 @@
         "間違って読む"
       ],
       "correctAnswer": "詳しく調べる",
-      "explanation": "「read up on」は「～について調べる」「～について勉強する」という意味の句動詞です。ある特定のトピックや主題について、情報を得るために読書や調査を行うことを指します。\n\n例：I need to read up on the latest research. (最新の研究について調べる必要がある。)"
+      "explanation": "「read up on」は「～について調べる」「～について勉強する」という意味の句動詞です。ある特定のトピックや主題について、情報を得るために読書や調査を行うことを指します。\n\n例：I need to read up on the latest research. (最新の研究について調べる必要がある。)",
+      "etymology": "ある特定のトピックや主題について、情報を得るために読書や調査を行うことを意味する句動詞です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 51,
@@ -610,7 +810,11 @@
         "急ぐ"
       ],
       "correctAnswer": "始まる",
-      "explanation": "「originate」は、（物事が）始まる、発生する、～に由来するという意味です。ここでは、料理がインドに由来することを指しています。よりフォーマルな文脈で使われることが多い単語です。\n例：The rumor originated from an anonymous source. (その噂は匿名の情報源から始まった。)"
+      "explanation": "「originate」は、（物事が）始まる、発生する、～に由来するという意味です。ここでは、料理がインドに由来することを指しています。よりフォーマルな文脈で使われることが多い単語です。\n例：The rumor originated from an anonymous source. (その噂は匿名の情報源から始まった。)",
+      "etymology": "ラテン語の「originari（始まる）」に由来し、物事が始まる、発生するという意味を持ちます。",
+      "pronounciation": "/əˈrɪdʒɪneɪt/",
+      "scriptContext": "Leonard: And for Rajesh Koothrappali, from whose homeland these tasty dishes originate, one large order of chicken McNuggets.",
+      "scriptContextTranslation": "Leonard: そして、この美味しい料理の故郷から来たラジェッシュ・クースラポリには、チキンマックナゲットのLサイズを。"
     },
     {
       "id": 52,
@@ -622,7 +826,11 @@
         "今、私は何をしていますか？"
       ],
       "correctAnswer": "今、私はいくら払う必要がありますか？",
-      "explanation": "このフレーズは、特に金銭的な文脈で、現在の借金や義務の合計を尋ねる際に使用されます。文字通りの意味ではなく、「今、合計でいくらになっているのか？」というニュアンスを含みます。\n例：What am I up to now with the credit card bill? (クレジットカードの請求は今いくらになっている？)"
+      "explanation": "このフレーズは、特に金銭的な文脈で、現在の借金や義務の合計を尋ねる際に使用されます。文字通りの意味ではなく、「今、合計でいくらになっているのか？」というニュアンスを含みます。\n例：What am I up to now with the credit card bill? (クレジットカードの請求は今いくらになっている？)",
+      "etymology": "特に金銭的な文脈で、現在の借金や義務の合計を尋ねる際に使用される表現です。",
+      "pronounciation": "",
+      "scriptContext": "Penny: What am I up to now?",
+      "scriptContextTranslation": "Penny: 今、いくらになってる？"
     },
     {
       "id": 53,
@@ -634,7 +842,11 @@
         "外出する"
       ],
       "correctAnswer": "性的な関係を持つ",
-      "explanation": "このイディオムは、婉曲的に性的な関係を持つことを意味します。軽蔑的なニュアンスを含む場合があるので、使用には注意が必要です。\n例：She doesn't have to put out to get what she wants. (彼女は欲しいものを得るために体を売る必要はない。)"
+      "explanation": "このイディオムは、婉曲的に性的な関係を持つことを意味します。軽蔑的なニュアンスを含む場合があるので、使用には注意が必要です。\n例：She doesn't have to put out to get what she wants. (彼女は欲しいものを得るために体を売る必要はない。)",
+      "etymology": "婉曲的に性的な関係を持つことを意味するイディオムです。",
+      "pronounciation": "",
+      "scriptContext": "Howard: He’s just expressing his admiration that you don’t even have to put out to get free stuff.",
+      "scriptContextTranslation": "Howard: お前が体を売らなくてもタダで色々もらえるのを感心してるんだよ。"
     },
     {
       "id": 54,
@@ -646,7 +858,11 @@
         "秘密"
       ],
       "correctAnswer": "人生の浮き沈み",
-      "explanation": "「vicissitudes」は、人生や運命の絶え間ない変化、浮き沈みを意味するフォーマルな言葉です。良いことも悪いことも含む、予測不能な変化を表します。\n例：We must learn to accept the vicissitudes of life. (私たちは人生の浮き沈みを受け入れることを学ばなければならない。)"
+      "explanation": "「vicissitudes」は、人生や運命の絶え間ない変化、浮き沈みを意味するフォーマルな言葉です。良いことも悪いことも含む、予測不能な変化を表します。\n例：We must learn to accept the vicissitudes of life. (私たちは人生の浮き沈みを受け入れることを学ばなければならない。)",
+      "etymology": "ラテン語の「vicis（変化）」に由来し、人生や運命の絶え間ない変化、浮き沈みを意味します。",
+      "pronounciation": "/vɪˈsɪsɪtjuːdz/",
+      "scriptContext": "Sheldon-bot: I am a mobile virtual presence device. Recent events have demonstrated to me that my body is too fragile to endure the vicissitudes of the world. Until such time as I am able to transfer my consciousness, I shall remain in a secure location and interact with the world in this manner.",
+      "scriptContextTranslation": "Sheldon-bot: 私はモバイル仮想プレゼンスデバイスです。最近の出来事で、私の体は世界の盛衰に耐えるには脆弱すぎることが証明されました。意識を転送できるようになるまで、安全な場所に留まり、この方法で世界と交流します。"
     },
     {
       "id": 55,
@@ -658,7 +874,11 @@
         "忘れられた"
       ],
       "correctAnswer": "安全に隠された",
-      "explanation": "「ensconce」は、安全な場所や快適な場所に落ち着いて隠れる、または保護するという意味です。しばしば、外部からの影響を受けないように隔離された状態を表します。\n例：She ensconced herself in her room to read. (彼女は読書をするために自分の部屋にこもった。)"
+      "explanation": "「ensconce」は、安全な場所や快適な場所に落ち着いて隠れる、または保護するという意味です。しばしば、外部からの影響を受けないように隔離された状態を表します。\n例：She ensconced herself in her room to read. (彼女は読書をするために自分の部屋にこもった。)",
+      "etymology": "安全な場所や快適な場所に落ち着いて隠れる、または保護するという意味です。",
+      "pronounciation": "/ɛnˈskɒnst/",
+      "scriptContext": "Sheldon-bot: You don’t know where I am. My physical body is safely ensconced in a secure, undisclosed location.",
+      "scriptContextTranslation": "Sheldon-bot: あなたは私がどこにいるか知りません。私の肉体は安全な、非公開の場所に安全に保管されています。"
     },
     {
       "id": 56,
@@ -670,7 +890,11 @@
         "無視された"
       ],
       "correctAnswer": "未公開の",
-      "explanation": "「undisclosed」は、明らかにされていない、秘密にされているという意味です。情報が意図的に隠されている状態を表します。\n例：The company has an undisclosed location for its research facility. (その会社は研究施設の場所を公表していない。)"
+      "explanation": "「undisclosed」は、明らかにされていない、秘密にされているという意味です。情報が意図的に隠されている状態を表します。\n例：The company has an undisclosed location for its research facility. (その会社は研究施設の場所を公表していない。)",
+      "etymology": "明らかにされていない、秘密にされているという意味です。",
+      "pronounciation": "/ˌʌndɪˈskloʊzd/",
+      "scriptContext": "Sheldon-bot: You don’t know where I am. My physical body is safely ensconced in a secure, undisclosed location.",
+      "scriptContextTranslation": "Sheldon-bot: あなたは私がどこにいるか知りません。私の肉体は安全な、非公開の場所に安全に保管されています。"
     },
     {
       "id": 57,
@@ -682,7 +906,11 @@
         "幸せだ"
       ],
       "correctAnswer": "驚いた",
-      "explanation": "「I'll be damned」は、驚き、不信、または怒りを表す表現です。文字通りには「呪われてもいい」という意味ですが、実際には「まさか」「信じられない」といったニュアンスで使われます。\n例：Well, I'll be damned! I never thought I'd see you here. (おお、まさか！ここであなたに会うなんて思わなかった。)"
+      "explanation": "「I'll be damned」は、驚き、不信、または怒りを表す表現です。文字通りには「呪われてもいい」という意味ですが、実際には「まさか」「信じられない」といったニュアンスで使われます。\n例：Well, I'll be damned! I never thought I'd see you here. (おお、まさか！ここであなたに会うなんて思わなかった。)",
+      "etymology": "驚き、不信、または怒りを表す表現です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 58,
@@ -694,7 +922,11 @@
         "不快な"
       ],
       "correctAnswer": "美しい",
-      "explanation": "「picturesque」は、絵のように美しい、風光明媚なという意味です。特に自然の風景が美しく、絵になるような様子を表します。\n例：The village is very picturesque. (その村はとても絵のように美しい。)"
+      "explanation": "「picturesque」は、絵のように美しい、風光明媚なという意味です。特に自然の風景が美しく、絵になるような様子を表します。\n例：The village is very picturesque. (その村はとても絵のように美しい。)",
+      "etymology": "イタリア語の pittoresco（絵のような）に由来し、絵のように美しい、風光明媚なという意味です。",
+      "pronounciation": "/ˌpɪktʃəˈrɛsk/",
+      "scriptContext": "Sheldon-bot: It’s much easier to enjoy the picturesque route we travel to work when you remove the spectre of fiery vehicular death.",
+      "scriptContextTranslation": "Sheldon-bot: 炎に包まれる車の死の恐怖を取り除けば、職場までの美しい道のりをずっと簡単に楽しむことができます。"
     },
     {
       "id": 59,
@@ -706,7 +938,11 @@
         "現実"
       ],
       "correctAnswer": "恐怖",
-      "explanation": "「spectre」は、幽霊や亡霊という意味の他に、不安や恐怖を引き起こすもの、または近い将来に起こりそうな不吉な事柄を指す比喩的な意味もあります。\n例：The spectre of unemployment hangs over the town. (失業の恐怖が町に漂っている。)"
+      "explanation": "「spectre」は、幽霊や亡霊という意味の他に、不安や恐怖を引き起こすもの、または近い将来に起こりそうな不吉な事柄を指す比喩的な意味もあります。\n例：The spectre of unemployment hangs over the town. (失業の恐怖が町に漂っている。)",
+      "etymology": "ラテン語の「spectrum（像、幽霊）」に由来し、幽霊や亡霊という意味の他に、不安や恐怖を引き起こすものを指す比喩的な意味もあります。",
+      "pronounciation": "/ˈspɛktər/",
+      "scriptContext": "Sheldon-bot: It’s much easier to enjoy the picturesque route we travel to work when you remove the spectre of fiery vehicular death.",
+      "scriptContextTranslation": "Sheldon-bot: 炎に包まれる車の死の恐怖を取り除けば、職場までの美しい道のりをずっと簡単に楽しむことができます。"
     },
     {
       "id": 60,
@@ -718,7 +954,11 @@
         "動物の"
       ],
       "correctAnswer": "乗り物の",
-      "explanation": "「vehicular」は、乗り物に関する、または乗り物によって行われるという意味です。特に自動車やトラックなどの車両を指すことが多いです。\n例：Vehicular traffic was heavy this morning. (今朝は車の交通量が多かった。)"
+      "explanation": "「vehicular」は、乗り物に関する、または乗り物によって行われるという意味です。特に自動車やトラックなどの車両を指すことが多いです。\n例：Vehicular traffic was heavy this morning. (今朝は車の交通量が多かった。)",
+      "etymology": "ラテン語の vehiculum（乗り物）に由来し、乗り物に関する、または乗り物によって行われるという意味です。",
+      "pronounciation": "/viˈhɪkjʊlər/",
+      "scriptContext": "Sheldon-bot: It’s much easier to enjoy the picturesque route we travel to work when you remove the spectre of fiery vehicular death.",
+      "scriptContextTranslation": "Sheldon-bot: 炎に包まれる車の死の恐怖を取り除けば、職場までの美しい道のりをずっと簡単に楽しむことができます。"
     },
     {
       "id": 61,
@@ -730,7 +970,11 @@
         "発砲する"
       ],
       "correctAnswer": "助手席を主張する",
-      "explanation": "「call shotgun」は、車の助手席を最初に主張する時に使う口語表現です。アメリカの西部開拓時代に、駅馬車の護衛が助手席に座ってショットガンを構えていたことに由来します。\n例：I called shotgun! (助手席は僕のものだ！)"
+      "explanation": "「call shotgun」は、車の助手席を最初に主張する時に使う口語表現です。アメリカの西部開拓時代に、駅馬車の護衛が助手席に座ってショットガンを構えていたことに由来します。\n例：I called shotgun! (助手席は僕のものだ！)",
+      "etymology": "アメリカの西部開拓時代に、駅馬車の護衛が助手席に座ってショットガンを構えていたことに由来し、車の助手席を最初に主張する時に使う口語表現です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon-bot: Because I called shotgun. Remember?",
+      "scriptContextTranslation": "Sheldon-bot: 私が助手席を宣言したからです。覚えていますか？"
     },
     {
       "id": 62,
@@ -742,7 +986,11 @@
         "悲しい"
       ],
       "correctAnswer": "緊張した",
-      "explanation": "「tense」は、緊張した、張り詰めた、神経質なという意味です。精神的または肉体的な緊張状態を表します。\n例：She was very tense before the interview. (彼女は面接の前にとても緊張していた。)"
+      "explanation": "「tense」は、緊張した、張り詰めた、神経質なという意味です。精神的または肉体的な緊張状態を表します。\n例：She was very tense before the interview. (彼女は面接の前にとても緊張していた。)",
+      "etymology": "ラテン語の「tendere（伸ばす、緊張させる）」に由来し、緊張した、張り詰めた、神経質なという意味を持ちます。",
+      "pronounciation": "/tɛns/",
+      "scriptContext": "Sheldon-bot: You seem tense. Perhaps this will relax you.",
+      "scriptContextTranslation": "Sheldon-bot: 緊張しているようですね。これでリラックスできるかもしれません。"
     },
     {
       "id": 63,
@@ -754,7 +1002,11 @@
         "歌う"
       ],
       "correctAnswer": "おしゃべりする",
-      "explanation": "「yammer」は、騒々しく、しつこくおしゃべりする、または不平を言うという意味です。特に不快なほどに喋り続ける様子を表します。\n例：He was yammering on about his problems. (彼は自分の問題について延々と愚痴をこぼしていた。)"
+      "explanation": "「yammer」は、騒々しく、しつこくおしゃべりする、または不平を言うという意味です。特に不快なほどに喋り続ける様子を表します。\n例：He was yammering on about his problems. (彼は自分の問題について延々と愚痴をこぼしていた。)",
+      "etymology": "擬音語で、騒々しく、しつこくおしゃべりする、または不平を言うという意味を持ちます。",
+      "pronounciation": "/ˈjæmərɪŋ/",
+      "scriptContext": "Leonard: Except in Knight Rider, the car isn’t a yammering sphincter.",
+      "scriptContextTranslation": "Leonard: ナイトライダーと違うのは、車が口うるさい括約筋じゃないってことだ。"
     },
     {
       "id": 64,
@@ -766,7 +1018,11 @@
         "神経"
       ],
       "correctAnswer": "筋肉",
-      "explanation": "「sphincter」は、括約筋という意味です。体の開口部を締めたり緩めたりする筋肉のことを指します。医学的な文脈で使われることが多い単語です。\n例：The anal sphincter controls bowel movements. (肛門括約筋は排便を制御する。)"
+      "explanation": "「sphincter」は、括約筋という意味です。体の開口部を締めたり緩めたりする筋肉のことを指します。医学的な文脈で使われることが多い単語です。\n例：The anal sphincter controls bowel movements. (肛門括約筋は排便を制御する。)",
+      "etymology": "ギリシャ語の「sphingein（締め付ける）」に由来し、体の開口部を締めたり緩めたりする筋肉のことを指します。",
+      "pronounciation": "/ˈsfɪŋktər/",
+      "scriptContext": "Leonard: Except in Knight Rider, the car isn’t a yammering sphincter.",
+      "scriptContextTranslation": "Leonard: ナイトライダーと違うのは、車が口うるさい括約筋じゃないってことだ。"
     },
     {
       "id": 65,
@@ -778,7 +1034,11 @@
         "正確さ"
       ],
       "correctAnswer": "時代錯誤",
-      "explanation": "「anachronism」は、時代錯誤、時代遅れなものを意味します。ある時代に存在しないものが存在するかのように描かれている状態を指します。\n例：The movie contains several anachronisms. (その映画にはいくつかの時代錯誤が含まれている。)"
+      "explanation": "「anachronism」は、時代錯誤、時代遅れなものを意味します。ある時代に存在しないものが存在するかのように描かれている状態を指します。\n例：The movie contains several anachronisms. (その映画にはいくつかの時代錯誤が含まれている。)",
+      "etymology": "ギリシャ語の「ana（反対に）」と「chronos（時間）」を組み合わせた言葉で、時代錯誤、時代遅れなものを意味します。",
+      "pronounciation": "/əˈnækrənɪzəmz/",
+      "scriptContext": "Sheldon-bot: This is a photograph of the 1911 Solvay Conference on the theory of radiation and quanta. Using Photoshop, I’ve introduced a few anachronisms. See if you can spot all 24. I’ll give you the first one. Madame Curie should not be wearing a digital watch. And go.",
+      "scriptContextTranslation": "Sheldon-bot: これは1911年のソルベイ会議の写真で、放射線と量子論に関するものです。Photoshopを使って、いくつか時代錯誤なものを導入しました。全部で24個見つけられるかどうか試してください。最初の1つを教えましょう。マダム・キュリーはデジタル時計を着用するべきではありません。さあ、どうぞ。"
     },
     {
       "id": 66,
@@ -790,7 +1050,11 @@
         "急ぐ"
       ],
       "correctAnswer": "止まる",
-      "explanation": "「halt」は、停止する、止めるという意味です。命令形で使われることが多く、フォーマルな文脈で使われます。\n例：Halt! Who goes there? (止まれ！誰だ？)"
+      "explanation": "「halt」は、停止する、止めるという意味です。命令形で使われることが多く、フォーマルな文脈で使われます。\n例：Halt! Who goes there? (止まれ！誰だ？)",
+      "etymology": "古高ドイツ語の「haltan（握る、保持する）」に由来し、停止する、止めるという意味を持ちます。",
+      "pronounciation": "/hɔːlt/",
+      "scriptContext": "Sheldon-bot: No, you can’t. Wait. Come back. Halt. Authorized personnel only!",
+      "scriptContextTranslation": "Sheldon-bot: 聞こえません。待って。戻って。止まれ。関係者以外立ち入り禁止！"
     },
     {
       "id": 67,
@@ -802,7 +1066,11 @@
         "ラジオ"
       ],
       "correctAnswer": "携帯型仮想現実装置",
-      "explanation": "「mobile virtual presence device」は、遠隔地にいる人が、あたかもそこにいるかのようにコミュニケーションできる装置を指します。ここでは、Sheldonが自分の分身として使用している装置のことです。一般的に、遠隔操作できるロボットや、ビデオ会議システムなどが含まれます。"
+      "explanation": "「mobile virtual presence device」は、遠隔地にいる人が、あたかもそこにいるかのようにコミュニケーションできる装置を指します。ここでは、Sheldonが自分の分身として使用している装置のことです。一般的に、遠隔操作できるロボットや、ビデオ会議システムなどが含まれます。",
+      "etymology": "遠隔地にいる人が、あたかもそこにいるかのようにコミュニケーションできる装置を指します。",
+      "pronounciation": "/ˈmoʊbaɪl ˈvɜːrtʃuəl ˈprɛzəns dɪˈvaɪs/",
+      "scriptContext": "Sheldon-bot: I am a mobile virtual presence device. Recent events have demonstrated to me that my body is too fragile to endure the vicissitudes of the world. Until such time as I am able to transfer my consciousness, I shall remain in a secure location and interact with the world in this manner.",
+      "scriptContextTranslation": "Sheldon-bot: 私はモバイル仮想プレゼンスデバイスです。最近の出来事で、私の体は世界の盛衰に耐えるには脆弱すぎることが証明されました。意識を転送できるようになるまで、安全な場所に留まり、この方法で世界と交流します。"
     },
     {
       "id": 68,
@@ -814,7 +1082,11 @@
         "硬い"
       ],
       "correctAnswer": "壊れやすい",
-      "explanation": "「fragile」は、壊れやすい、もろいという意味です。物理的に壊れやすいものだけでなく、精神的に傷つきやすい状態も表します。\n例：Be careful with that vase; it's very fragile. (その花瓶はとても壊れやすいので、注意してください。)"
+      "explanation": "「fragile」は、壊れやすい、もろいという意味です。物理的に壊れやすいものだけでなく、精神的に傷つきやすい状態も表します。\n例：Be careful with that vase; it's very fragile. (その花瓶はとても壊れやすいので、注意してください。)",
+      "etymology": "ラテン語の「frangere（壊す）」に由来し、壊れやすい、もろいという意味を持ちます。",
+      "pronounciation": "/ˈfrædʒaɪl/",
+      "scriptContext": "Sheldon-bot: I am a mobile virtual presence device. Recent events have demonstrated to me that my body is too fragile to endure the vicissitudes of the world. Until such time as I am able to transfer my consciousness, I shall remain in a secure location and interact with the world in this manner.",
+      "scriptContextTranslation": "Sheldon-bot: 私はモバイル仮想プレゼンスデバイスです。最近の出来事で、私の体は世界の盛衰に耐えるには脆弱すぎることが証明されました。意識を転送できるようになるまで、安全な場所に留まり、この方法で世界と交流します。"
     },
     {
       "id": 69,
@@ -826,7 +1098,11 @@
         "観察する"
       ],
       "correctAnswer": "交流する",
-      "explanation": "「interact」は、相互に作用する、交流するという意味です。人とのコミュニケーションや、システム同士の連携など、様々な状況で使われます。\n例：The students interact well with each other. (生徒たちは互いにうまく交流している。)"
+      "explanation": "「interact」は、相互に作用する、交流するという意味です。人とのコミュニケーションや、システム同士の連携など、様々な状況で使われます。\n例：The students interact well with each other. (生徒たちは互いにうまく交流している。)",
+      "etymology": "inter（相互に）とact（行動する）を組み合わせた言葉で、相互に作用する、交流するという意味を持ちます。",
+      "pronounciation": "/ˌɪntərˈækt/",
+      "scriptContext": "Sheldon-bot: I am a mobile virtual presence device. Recent events have demonstrated to me that my body is too fragile to endure the vicissitudes of the world. Until such time as I am able to transfer my consciousness, I shall remain in a secure location and interact with the world in this manner.",
+      "scriptContextTranslation": "Sheldon-bot: 私はモバイル仮想プレゼンスデバイスです。最近の出来事で、私の体は世界の盛衰に耐えるには脆弱すぎることが証明されました。意識を転送できるようになるまで、安全な場所に留まり、この方法で世界と交流します。"
     },
     {
       "id": 70,
@@ -838,7 +1114,11 @@
         "無秩序"
       ],
       "correctAnswer": "構成",
-      "explanation": "「configuration」は、構成、配置、設定という意味です。特に、コンピュータシステムやソフトウェアの設定、または物事の物理的な配置を指すことが多いです。\n例：The computer's configuration needs to be updated. (コンピュータの構成を更新する必要があります。)"
+      "explanation": "「configuration」は、構成、配置、設定という意味です。特に、コンピュータシステムやソフトウェアの設定、または物事の物理的な配置を指すことが多いです。\n例：The computer's configuration needs to be updated. (コンピュータの構成を更新する必要があります。)",
+      "etymology": "ラテン語の「configurare（形作る）」に由来し、構成、配置、設定という意味を持ちます。",
+      "pronounciation": "/kənˌfɪɡjʊˈreɪʃən/",
+      "scriptContext": "Sheldon-bot: You’re in my spot. This may seem a little odd at first, but over time you’ll grow accustomed to dealing with me in this configuration.",
+      "scriptContextTranslation": "Sheldon-bot: そこは私の場所です。最初は少し奇妙に思えるかもしれませんが、時間が経つにつれて、この構成で私と付き合うことに慣れるでしょう。"
     },
     {
       "id": 71,
@@ -850,7 +1130,11 @@
         "保管する"
       ],
       "correctAnswer": "分解する",
-      "explanation": "「disassemble」は、分解する、解体するという意味です。機械や装置を部品に分解する際に使われます。\n例：The mechanic disassembled the engine to find the problem. (整備士は問題を特定するためにエンジンを分解した。)"
+      "explanation": "「disassemble」は、分解する、解体するという意味です。機械や装置を部品に分解する際に使われます。\n例：The mechanic disassembled the engine to find the problem. (整備士は問題を特定するためにエンジンを分解した。)",
+      "etymology": "dis（分離）とassemble（組み立てる）を組み合わせた言葉で、分解する、解体するという意味を持ちます。",
+      "pronounciation": "/ˌdɪsəˈsɛmbəl/",
+      "scriptContext": "Sheldon-bot: Thank you. That’s what I was going for. Now, Leonard, tomorrow, when we go to work, you’ll need to allow some extra time to get me down the stairs. For your convenience, I disassemble into four pieces.",
+      "scriptContextTranslation": "Sheldon-bot: ありがとう。それが狙いです。さて、レナード、明日、仕事に行くときは、私を階段から降ろすための時間を少し余分に取る必要があります。便宜上、私は4つの部分に分解できます。"
     },
     {
       "id": 72,
@@ -862,7 +1146,11 @@
         "許可された車両のみ"
       ],
       "correctAnswer": "関係者以外立ち入り禁止",
-      "explanation": "「authorized personnel only」は、許可された人だけが入れるという意味の標識でよく使われる表現です。セキュリティが重要な場所で、無許可の侵入を防ぐために表示されます。\n例：The sign read, \"Authorized personnel only.\" (標識には「関係者以外立ち入り禁止」と書かれていた。)"
+      "explanation": "「authorized personnel only」は、許可された人だけが入れるという意味の標識でよく使われる表現です。セキュリティが重要な場所で、無許可の侵入を防ぐために表示されます。\n例：The sign read, \"Authorized personnel only.\" (標識には「関係者以外立ち入り禁止」と書かれていた。)",
+      "etymology": "許可された人だけが入れるという意味の標識でよく使われる表現です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon-bot: No, you can’t. Wait. Come back. Halt. Authorized personnel only!",
+      "scriptContextTranslation": "Sheldon-bot: 聞こえません。待って。戻って。止まれ。関係者以外立ち入り禁止！"
     },
     {
       "id": 73,
@@ -874,7 +1162,11 @@
         "個人的に"
       ],
       "correctAnswer": "統計的に",
-      "explanation": "「statistically」は、統計的に、統計学的に見てという意味です。データに基づいて確率や傾向を説明する際に使われます。\n例：Statistically, men live shorter lives than women. (統計的に見て、男性は女性よりも寿命が短い。)"
+      "explanation": "「statistically」は、統計的に、統計学的に見てという意味です。データに基づいて確率や傾向を説明する際に使われます。\n例：Statistically, men live shorter lives than women. (統計的に見て、男性は女性よりも寿命が短い。)",
+      "etymology": "statistics（統計）に由来し、統計的に、統計学的に見てという意味を持ちます。",
+      "pronounciation": "/stəˈtɪstɪkli/",
+      "scriptContext": "Sheldon: At my age, do you know how I’m statistically most likely to die?",
+      "scriptContextTranslation": "Sheldon: 私の年齢で、統計的に一番可能性の高い死因は何だと思いますか？"
     },
     {
       "id": 74,
@@ -886,7 +1178,11 @@
         "高価な"
       ],
       "correctAnswer": "耐久性のある",
-      "explanation": "「durable」は、耐久性のある、丈夫なという意味です。長期間使用できる品質を表します。\n例：These shoes are very durable. (これらの靴はとても丈夫だ。)"
+      "explanation": "「durable」は、耐久性のある、丈夫なという意味です。長期間使用できる品質を表します。\n例：These shoes are very durable. (これらの靴はとても丈夫だ。)",
+      "etymology": "ラテン語の「durare（持続する）」に由来し、耐久性のある、丈夫なという意味を持ちます。",
+      "pronounciation": "/ˈdjʊərəbəl/",
+      "scriptContext": "Sheldon: Until I can transfer my intellect to a more durable container, my body will remain safely ensconced in my bed.",
+      "scriptContextTranslation": "Sheldon: 私の知性をより耐久性のある容器に移すことができるまで、私の体は安全にベッドに安置されます。"
     },
     {
       "id": 75,
@@ -898,7 +1194,11 @@
         "権利"
       ],
       "correctAnswer": "義務",
-      "explanation": "「obligations」は、義務、責任という意味です。法律や契約、道徳などによって課せられた行為や責任を指します。\n例：We all have obligations to our community. (私たちには皆、地域社会に対する義務がある。)"
+      "explanation": "「obligations」は、義務、責任という意味です。法律や契約、道徳などによって課せられた行為や責任を指します。\n例：We all have obligations to our community. (私たちには皆、地域社会に対する義務がある。)",
+      "etymology": "ラテン語の「obligare（縛る）」に由来し、義務、責任という意味を持ちます。",
+      "pronounciation": "/ˌɒblɪˈɡeɪʃənz/",
+      "scriptContext": "Sheldon: Section 74.C. The various obligations and duties of the parties in the event one of them becomes a robot.",
+      "scriptContextTranslation": "Sheldon: 第74条C項。一方がある日ロボットになった場合の、当事者の様々な義務と責任について。"
     },
     {
       "id": 76,
@@ -910,7 +1210,11 @@
         "隠蔽する"
       ],
       "correctAnswer": "優先する",
-      "explanation": "「override」は、他のものよりも優先される、または覆すという意味です。ここでは、Sheldon-botが持っている「優先スイッチ」のことを指しています。通常、権限や制御を上書きする状況で使われます。例：The system has an override function to allow manual control. (そのシステムには、手動制御を可能にするオーバーライド機能があります。)"
+      "explanation": "「override」は、他のものよりも優先される、または覆すという意味です。ここでは、Sheldon-botが持っている「優先スイッチ」のことを指しています。通常、権限や制御を上書きする状況で使われます。例：The system has an override function to allow manual control. (そのシステムには、手動制御を可能にするオーバーライド機能があります。)",
+      "etymology": "他のものよりも優先される、または覆すという意味です。",
+      "pronounciation": "/ˌoʊvərˈraɪd/",
+      "scriptContext": "Sheldon-bot: I have an override switch.",
+      "scriptContextTranslation": "Sheldon-bot: 私にはオーバーライドスイッチがあります。"
     },
     {
       "id": 77,
@@ -922,7 +1226,11 @@
         "迅速かつ正確"
       ],
       "correctAnswer": "安全で安心",
-      "explanation": "「safe and sound」は、危険な状況や困難な状況から無事に帰還した、または問題なく存在しているという意味を表すイディオムです。ここでは、Sheldon-botがベッドで無事であることを強調するために使われています。例：After the storm, we were relieved to find our family safe and sound. (嵐の後、家族が無事だったことを知って安心しました。)"
+      "explanation": "「safe and sound」は、危険な状況や困難な状況から無事に帰還した、または問題なく存在しているという意味を表すイディオムです。ここでは、Sheldon-botがベッドで無事であることを強調するために使われています。例：After the storm, we were relieved to find our family safe and sound. (嵐の後、家族が無事だったことを知って安心しました。)",
+      "etymology": "危険な状況や困難な状況から無事に帰還した、または問題なく存在しているという意味を表すイディオムです。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon-bot : And I’m safe and sound in bed. Who’s crazy now?",
+      "scriptContextTranslation": "Sheldon-bot: そして、私はベッドで無事です。どっちがクレイジー？"
     },
     {
       "id": 78,
@@ -934,7 +1242,11 @@
         "無視する"
       ],
       "correctAnswer": "賛成する",
-      "explanation": "「go with」は、提案や意見に賛成する、または選択肢を選ぶという意味です。ここでは、LeonardがSheldonの意見にまだ賛成することを意味しています。例：I think we should go with the blue design. (青いデザインを選ぶべきだと思います。)"
+      "explanation": "「go with」は、提案や意見に賛成する、または選択肢を選ぶという意味です。ここでは、LeonardがSheldonの意見にまだ賛成することを意味しています。例：I think we should go with the blue design. (青いデザインを選ぶべきだと思います。)",
+      "etymology": "提案や意見に賛成する、または選択肢を選ぶという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: I’m still going to go with you.",
+      "scriptContextTranslation": "Leonard: まだお前の方がクレイジーだと思う。"
     },
     {
       "id": 79,
@@ -946,7 +1258,11 @@
         "評価された"
       ],
       "correctAnswer": "妨げられた",
-      "explanation": "「stymie」は、計画や行動を妨げる、阻止するという意味です。特に、障害物によって進展が止まる状況を表します。例：The budget cuts stymied their research efforts. (予算削減が彼らの研究努力を妨げました。)"
+      "explanation": "「stymie」は、計画や行動を妨げる、阻止するという意味です。特に、障害物によって進展が止まる状況を表します。例：The budget cuts stymied their research efforts. (予算削減が彼らの研究努力を妨げました。)",
+      "etymology": "計画や行動を妨げる、阻止するという意味です。",
+      "pronounciation": "/ˈstaɪmiːd/",
+      "scriptContext": "Sheldon-bot : You think you have me stymied, don’t you?",
+      "scriptContextTranslation": "Sheldon-bot: 私を困らせていると思っているんでしょう？"
     },
     {
       "id": 80,
@@ -958,7 +1274,11 @@
         "勇敢にする"
       ],
       "correctAnswer": "親切にする",
-      "explanation": "「be a lamb」は、人に親切にする、または頼みを聞いてあげるという意味です。ここでは、相手に何かを頼む際に、丁寧な言い方として使われています。例：Be a lamb and pass me the salt. (親切に塩を取ってくれませんか？)"
+      "explanation": "「be a lamb」は、人に親切にする、または頼みを聞いてあげるという意味です。ここでは、相手に何かを頼む際に、丁寧な言い方として使われています。例：Be a lamb and pass me the salt. (親切に塩を取ってくれませんか？)",
+      "etymology": "人に親切にする、または頼みを聞いてあげるという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon-bot : Raj, be a lamb and open the door for me.",
+      "scriptContextTranslation": "Sheldon-bot: ラージ、大人しくドアを開けてくれ。"
     },
     {
       "id": 81,
@@ -970,7 +1290,11 @@
         "無関心"
       ],
       "correctAnswer": "友情",
-      "explanation": "「camaraderie」は、仲間意識、友情、連帯感という意味です。特に、共通の目標や経験を持つ人々の間で生まれる親密な関係を指します。例：The camaraderie among the team members was evident. (チームメンバー間の仲間意識は明らかでした。)"
+      "explanation": "「camaraderie」は、仲間意識、友情、連帯感という意味です。特に、共通の目標や経験を持つ人々の間で生まれる親密な関係を指します。例：The camaraderie among the team members was evident. (チームメンバー間の仲間意識は明らかでした。)",
+      "etymology": "フランス語の「camarade（仲間）」に由来し、仲間意識、友情、連帯感という意味を持ちます。",
+      "pronounciation": "/ˌkæməˈrɑːdəri/",
+      "scriptContext": "Sheldon-bot : Isn’t this nice? The pleasures of fellowship and camaraderie without having to tolerate your germy breath on my skin.",
+      "scriptContextTranslation": "Sheldon-bot: 素晴らしいでしょう？仲間の親睦を深めながら、あなたのばい菌だらけの息を肌に感じずに済むなんて。"
     },
     {
       "id": 82,
@@ -982,7 +1306,11 @@
         "無視する"
       ],
       "correctAnswer": "許容する",
-      "explanation": "「tolerate」は、不快なことや好ましくないことを我慢する、許容するという意味です。ここでは、Sheldonが他人の呼吸を我慢する必要がないことを述べています。例：I can't tolerate his rudeness any longer. (彼の無礼さにはもう我慢できません。)"
+      "explanation": "「tolerate」は、不快なことや好ましくないことを我慢する、許容するという意味です。ここでは、Sheldonが他人の呼吸を我慢する必要がないことを述べています。例：I can't tolerate his rudeness any longer. (彼の無礼さにはもう我慢できません。)",
+      "etymology": "ラテン語の「tolerare（耐える）」に由来し、不快なことや好ましくないことを我慢する、許容するという意味を持ちます。",
+      "pronounciation": "/ˈtɒləreɪt/",
+      "scriptContext": "Sheldon-bot : Isn’t this nice? The pleasures of fellowship and camaraderie without having to tolerate your germy breath on my skin.",
+      "scriptContextTranslation": "Sheldon-bot: 素晴らしいでしょう？仲間の親睦を深めながら、あなたのばい菌だらけの息を肌に感じずに済むなんて。"
     },
     {
       "id": 83,
@@ -994,7 +1322,11 @@
         "全ての"
       ],
       "correctAnswer": "全く～ない",
-      "explanation": "「whatsoever」は、強調のために使われ、「全く～ない」という意味を表します。ここでは、Pennyが自分とLeonardたちの間に以前の関係がないことを強調しています。例：I have no idea whatsoever what you're talking about. (あなたが何を言っているのか全く分かりません。)"
+      "explanation": "「whatsoever」は、強調のために使われ、「全く～ない」という意味を表します。ここでは、Pennyが自分とLeonardたちの間に以前の関係がないことを強調しています。例：I have no idea whatsoever what you're talking about. (あなたが何を言っているのか全く分かりません。)",
+      "etymology": "強調のために使われ、「全く～ない」という意味を表します。",
+      "pronounciation": "/ˌwɒtsəʊˈɛvər/",
+      "scriptContext": "Penny: I’d rather people not know I have any prior connection to you whatsoever.",
+      "scriptContextTranslation": "Penny: みんなに、あなたたちと以前から知り合いだと思われたくないの。"
     },
     {
       "id": 84,
@@ -1006,7 +1338,11 @@
         "区別"
       ],
       "correctAnswer": "差別",
-      "explanation": "「discrimination」は、特定のグループや個人を不当に扱うこと、差別という意味です。ここでは、Sheldon-botが「otherwise located（他の場所にいる）」ことに対する差別を主張しています。例：Racial discrimination is illegal. (人種差別は違法です。)"
+      "explanation": "「discrimination」は、特定のグループや個人を不当に扱うこと、差別という意味です。ここでは、Sheldon-botが「otherwise located（他の場所にいる）」ことに対する差別を主張しています。例：Racial discrimination is illegal. (人種差別は違法です。)",
+      "etymology": "ラテン語の「discriminare（区別する）」に由来し、特定のグループや個人を不当に扱うこと、差別という意味を持ちます。",
+      "pronounciation": "/dɪˌskrɪmɪˈneɪʃən/",
+      "scriptContext": "Sheldon-bot: That’s discrimination against the otherwise located. I’m going to have to go over your head. Manager, manager. Oh, Lord, look who it is.",
+      "scriptContextTranslation": "Sheldon-bot: これは、場所に左右されることに対する差別です。あなたの頭越しに訴えます。マネージャー、マネージャー。あら、大変だ。"
     },
     {
       "id": 85,
@@ -1018,7 +1354,11 @@
         "無視する"
       ],
       "correctAnswer": "責任者に訴える",
-      "explanation": "「go over someone's head」は、権限のある人に直接訴える、または上司に相談するという意味です。ここでは、Sheldon-botがPennyの上司に訴えようとしています。例：I'm going to have to go over your head and talk to your manager. (私はあなたの上司に相談しなければなりません。)"
+      "explanation": "「go over someone's head」は、権限のある人に直接訴える、または上司に相談するという意味です。ここでは、Sheldon-botがPennyの上司に訴えようとしています。例：I'm going to have to go over your head and talk to your manager. (私はあなたの上司に相談しなければなりません。)",
+      "etymology": "権限のある人に直接訴える、または上司に相談するという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 86,
@@ -1030,7 +1370,11 @@
         "勤勉さ"
       ],
       "correctAnswer": "演出力",
-      "explanation": "「showmanship」は、聴衆を魅了する才能、演出力、または人目を引く方法という意味です。SheldonはSteve Jobsの演出力を良く思っていないと述べています。例：The singer's showmanship made the concert unforgettable. (その歌手の演出力はコンサートを忘れられないものにしました。)"
+      "explanation": "「showmanship」は、聴衆を魅了する才能、演出力、または人目を引く方法という意味です。SheldonはSteve Jobsの演出力を良く思っていないと述べています。例：The singer's showmanship made the concert unforgettable. (その歌手の演出力はコンサートを忘れられないものにしました。)",
+      "etymology": "聴衆を魅了する才能、演出力、または人目を引く方法という意味です。",
+      "pronounciation": "/ˈʃoʊmənʃɪp/",
+      "scriptContext": "Sheldon-bot : It’s still six spots above Steve Jobs. I care neither for turtlenecks nor showmanship.",
+      "scriptContextTranslation": "Sheldon-bot: それでもスティーブ・ジョブズより6つ上位です。私はタートルネックもショーマンシップも好みません。"
     },
     {
       "id": 87,
@@ -1042,7 +1386,11 @@
         "粗末な"
       ],
       "correctAnswer": "素晴らしい",
-      "explanation": "「nifty」は、素晴らしい、巧妙な、または便利なという意味です。ここでは、Steve WozniakがApple IIを「nifty little achievement（素晴らしい小さな業績）」と表現しています。例：That's a nifty gadget you've got there. (それは素晴らしい道具ですね。)"
+      "explanation": "「nifty」は、素晴らしい、巧妙な、または便利なという意味です。ここでは、Steve WozniakがApple IIを「nifty little achievement（素晴らしい小さな業績）」と表現しています。例：That's a nifty gadget you've got there. (それは素晴らしい道具ですね。)",
+      "etymology": "起源は不明ですが、素晴らしい、巧妙な、または便利なという意味を持ちます。",
+      "pronounciation": "/ˈnɪfti/",
+      "scriptContext": "Sheldon-bot : One of my proudest possessions is a vintage 1977 Apple Two. Despite the file system limitations of Apple DOS 3.3, it was a pretty nifty little achievement.",
+      "scriptContextTranslation": "Sheldon-bot: 私の誇るべき所有物の1つは、1977年製のビンテージApple IIです。Apple DOS 3.3のファイルシステムの制限にもかかわらず、それはかなり素晴らしい成果でした。"
     },
     {
       "id": 88,
@@ -1054,7 +1402,11 @@
         "修正する"
       ],
       "correctAnswer": "署名する",
-      "explanation": "「autograph」は、有名人などがサインすること、またはサインそのものを意味します。Steve WozniakがApple IIにサインすると申し出ています。例：Can I have your autograph? (サインをいただけますか？)"
+      "explanation": "「autograph」は、有名人などがサインすること、またはサインそのものを意味します。Steve WozniakがApple IIにサインすると申し出ています。例：Can I have your autograph? (サインをいただけますか？)",
+      "etymology": "ギリシャ語の「autos（自分自身）」と「graphe（書くこと）」を組み合わせた言葉で、有名人などがサインすること、またはサインそのものを意味します。",
+      "pronounciation": "/ˈɔːtəɡræf/",
+      "scriptContext": "Steve Wozniak: Thanks, we were shooting for nifty. You know, if you had it here, I’d autograph it for you.",
+      "scriptContextTranslation": "Steve Wozniak: ありがとう。我々はナイスを狙っていたんだ。もしここに持ってきてくれたら、サインしてあげるよ。"
     },
     {
       "id": 89,
@@ -1066,7 +1418,11 @@
         "～を含めて"
       ],
       "correctAnswer": "～に依存して",
-      "explanation": "「depending on」は、何かに依存して、または何かに左右されてという意味です。ここでは、バスの運行状況によって時間が変わることを示しています。例：The trip will take two days, depending on the weather. (旅行は天候によって2日かかるでしょう。)"
+      "explanation": "「depending on」は、何かに依存して、または何かに左右されてという意味です。ここでは、バスの運行状況によって時間が変わることを示しています。例：The trip will take two days, depending on the weather. (旅行は天候によって2日かかるでしょう。)",
+      "etymology": "何かに依存して、または何かに左右されてという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon-bot: Don’t move for 15 to 30 minutes, depending on how the buses are running.",
+      "scriptContextTranslation": "Sheldon-bot: バスがどれだけスムーズに動いているかによりますが、15分から30分お待ちください。"
     },
     {
       "id": 90,
@@ -1078,7 +1434,11 @@
         "無視する"
       ],
       "correctAnswer": "衝突する",
-      "explanation": "「bash into」は、激しくぶつかる、衝突するという意味です。ここでは、Sheldon-botがPennyのドアにぶつかっている様子を表しています。例：He accidentally bashed into the wall. (彼は誤って壁にぶつかりました。)"
+      "explanation": "「bash into」は、激しくぶつかる、衝突するという意味です。ここでは、Sheldon-botがPennyのドアにぶつかっている様子を表しています。例：He accidentally bashed into the wall. (彼は誤って壁にぶつかりました。)",
+      "etymology": "激しくぶつかる、衝突するという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 91,
@@ -1090,7 +1450,11 @@
         "さようなら"
       ],
       "correctAnswer": "どうしたの？",
-      "explanation": "「What up?」は、スラングで「どうしたの？」または「元気ですか？」という意味の挨拶です。ここでは、PennyがSheldon-botにカジュアルに話しかけています。例：A: What up, man? B: Not much, just chillin'. (A: よお、調子どう？ B: まあ、のんびりしてるよ。)"
+      "explanation": "「What up?」は、スラングで「どうしたの？」または「元気ですか？」という意味の挨拶です。ここでは、PennyがSheldon-botにカジュアルに話しかけています。例：A: What up, man? B: Not much, just chillin'. (A: よお、調子どう？ B: まあ、のんびりしてるよ。)",
+      "etymology": "スラングで「どうしたの？」または「元気ですか？」という意味の挨拶です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 92,
@@ -1102,7 +1466,11 @@
         "インターネットで"
       ],
       "correctAnswer": "個人的に",
-      "explanation": "「in person」は、直接会って、または自分自身でという意味です。ここでは、Pennyが直接会って歌うよりもモニター越しに歌う方が良いかSheldon-botに尋ねています。例：I would prefer to discuss this in person. (この件については直接話したいです。)"
+      "explanation": "「in person」は、直接会って、または自分自身でという意味です。ここでは、Pennyが直接会って歌うよりもモニター越しに歌う方が良いかSheldon-botに尋ねています。例：I would prefer to discuss this in person. (この件については直接話したいです。)",
+      "etymology": "直接会って、または自分自身でという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon-bot: Would you rather come over and sing it to me in person?",
+      "scriptContextTranslation": "Sheldon-bot: 直接来て、私に歌ってくれる方がいいですか？"
     },
     {
       "id": 93,
@@ -1114,7 +1482,11 @@
         "健康的な"
       ],
       "correctAnswer": "不潔な",
-      "explanation": "「germy」は、細菌が多い、不潔なという意味です。Sheldonが他人の呼吸を「germy breath」と表現することで、潔癖症な性格を表しています。 例：Wash your hands, they're germy. (手を洗いなさい、汚いですよ。)"
+      "explanation": "「germy」は、細菌が多い、不潔なという意味です。Sheldonが他人の呼吸を「germy breath」と表現することで、潔癖症な性格を表しています。 例：Wash your hands, they're germy. (手を洗いなさい、汚いですよ。)",
+      "etymology": "細菌が多い、不潔なという意味です。",
+      "pronounciation": "/ˈdʒɜːrmi/",
+      "scriptContext": "Sheldon-bot : Isn’t this nice? The pleasures of fellowship and camaraderie without having to tolerate your germy breath on my skin.",
+      "scriptContextTranslation": "Sheldon-bot: 素晴らしいでしょう？仲間の親睦を深めながら、あなたのばい菌だらけの息を肌に感じずに済むなんて。"
     }
   ]
 }

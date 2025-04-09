@@ -10,7 +10,11 @@
         "計算"
       ],
       "correctAnswer": "模擬実験",
-      "explanation": "「simulation」は、現実世界の状況やプロセスを模倣したモデルを作成し、それを使って実験や分析を行うことを指します。複雑なシステムの挙動を予測したり、新しい設計や戦略を評価したりする際に用いられます。"
+      "explanation": "「simulation」は、現実世界の状況やプロセスを模倣したモデルを作成し、それを使って実験や分析を行うことを指します。複雑なシステムの挙動を予測したり、新しい設計や戦略を評価したりする際に用いられます。",
+      "etymology": "ラテン語の「simulare」（似せる、まねる）に由来し、現実のシステムやプロセスを模倣して実験や分析を行うことを意味します。",
+      "pronounciation": "/ˌsɪmjuˈleɪʃənz/",
+      "scriptContext": "Howard: It’s pretty late. You think I’ve got time to run some more simulations on the cooling system?",
+      "scriptContextTranslation": "Howard: 結構遅い時間だけど、冷却システムのシミュレーションをもうちょっと走らせる時間あると思う？"
     },
     {
       "id": 2,
@@ -22,7 +26,11 @@
         "温度調整器"
       ],
       "correctAnswer": "熱音響膨張器",
-      "explanation": "熱音響膨張器は、熱エネルギーを音響エネルギーに変換する装置です。高温と低温の間の温度差を利用して音波を発生させ、その音波を利用して冷却や発電を行います。環境に優しい技術として注目されています。"
+      "explanation": "熱音響膨張器は、熱エネルギーを音響エネルギーに変換する装置です。高温と低温の間の温度差を利用して音波を発生させ、その音波を利用して冷却や発電を行います。環境に優しい技術として注目されています。",
+      "etymology": "「thermo-acoustic expander」は、熱（thermo）と音響（acoustic）の原理を利用して、エネルギーを変換・増幅する装置であることから名付けられました。",
+      "pronounciation": "/ˌθɜːrmoʊ əˈkuːstɪk ɪkˈspændər/",
+      "scriptContext": "Leonard: Sure, I’m still figuring out the thermo-acoustic expander.",
+      "scriptContextTranslation": "Leonard: ああ、いいよ。僕はまだ熱音響膨張器の解析中だ。"
     },
     {
       "id": 3,
@@ -34,7 +42,11 @@
         "細胞間液"
       ],
       "correctAnswer": "脳脊髄液",
-      "explanation": "脳脊髄液は、脳と脊髄の周りを循環する透明な液体です。脳を保護し、栄養を供給し、老廃物を除去する役割を果たします。医療においては、診断のために採取されることがあります。"
+      "explanation": "脳脊髄液は、脳と脊髄の周りを循環する透明な液体です。脳を保護し、栄養を供給し、老廃物を除去する役割を果たします。医療においては、診断のために採取されることがあります。",
+      "etymology": "「cerebral spinal fluid」は、脳（cerebral）と脊髄（spinal）を保護し、栄養を供給する液体であることから名付けられました。",
+      "pronounciation": "/səˈriːbrəl ˈspaɪnl ˈfluːɪd/",
+      "scriptContext": "Sheldon: Oh, while you do that I am going to pump cerebral spinal fluid through my brain cells to remove the metabolic by-products of the day’s thoughts.",
+      "scriptContextTranslation": "Sheldon: ふむ、君たちがそうしている間、私は脳細胞に脳脊髄液を送り込んで、今日の思考の代謝副産物を除去する。"
     },
     {
       "id": 4,
@@ -46,7 +58,11 @@
         "栄養素"
       ],
       "correctAnswer": "代謝副産物",
-      "explanation": "代謝副産物とは、体内で生化学反応が起こる際に生成される不要な物質のことです。これらは通常、血液によって運ばれ、腎臓や肝臓で処理されて体外に排出されます。例：二酸化炭素、尿素。"
+      "explanation": "代謝副産物とは、体内で生化学反応が起こる際に生成される不要な物質のことです。これらは通常、血液によって運ばれ、腎臓や肝臓で処理されて体外に排出されます。例：二酸化炭素、尿素。",
+      "etymology": "「metabolic by-products」は、代謝（metabolic）の過程で生成される副産物（by-products）を意味します。",
+      "pronounciation": "/ˌmetəˈbɑːlɪk ˈbaɪˌprɑːdʌkts/",
+      "scriptContext": "Sheldon: Oh, while you do that I am going to pump cerebral spinal fluid through my brain cells to remove the metabolic by-products of the day’s thoughts.",
+      "scriptContextTranslation": "Sheldon: ふむ、君たちがそうしている間、私は脳細胞に脳脊髄液を送り込んで、今日の思考の代謝副産物を除去する。"
     },
     {
       "id": 5,
@@ -58,7 +74,11 @@
         "お元気で"
       ],
       "correctAnswer": "おやすみ",
-      "explanation": "「Nighty-night」は、子供や親しい人に使う、可愛らしい「おやすみ」の言い方です。少しユーモラスなニュアンスも含まれます。"
+      "explanation": "「Nighty-night」は、子供や親しい人に使う、可愛らしい「おやすみ」の言い方です。少しユーモラスなニュアンスも含まれます。",
+      "etymology": "「nighty-night」は、「good night」を子供っぽく、かわいらしく言った表現です。就寝時に使われる挨拶で、親愛の情を込めて使われます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: It’s called sleep and it’s my bedtime. Nighty-night, y’all.",
+      "scriptContextTranslation": "Sheldon: それは睡眠と呼ばれ、私の就寝時間だ。おやすみ、みんな。"
     },
     {
       "id": 6,
@@ -70,7 +90,11 @@
         "届ける"
       ],
       "correctAnswer": "引き渡す",
-      "explanation": "この文脈では、「deliver」は成果物や製品を（通常契約に基づいて）相手に引き渡す、納品するという意味で使用されています。単に物を届けるだけでなく、責任を持って完了させるニュアンスが含まれます。"
+      "explanation": "この文脈では、「deliver」は成果物や製品を（通常契約に基づいて）相手に引き渡す、納品するという意味で使用されています。単に物を届けるだけでなく、責任を持って完了させるニュアンスが含まれます。",
+      "etymology": "ラテン語の「liberare」（解放する、自由にする）に由来し、束縛から解放して相手に引き渡すという意味合いがあります。",
+      "pronounciation": "/dɪˈlɪvər/",
+      "scriptContext": "Leonard: We only have two months to deliver this to the Air Force because of you.",
+      "scriptContextTranslation": "Leonard: 君のせいで、空軍に納品するまであと2ヶ月しかないんだぞ。"
     },
     {
       "id": 7,
@@ -82,7 +106,11 @@
         "満足した"
       ],
       "correctAnswer": "怒りっぽい",
-      "explanation": "「irritable」は、些細なことでイライラしたり、怒りやすくなったりする状態を表します。睡眠不足やストレス、カフェインの摂取などが原因となることがあります。"
+      "explanation": "「irritable」は、些細なことでイライラしたり、怒りやすくなったりする状態を表します。睡眠不足やストレス、カフェインの摂取などが原因となることがあります。",
+      "etymology": "ラテン語の「irritare」（刺激する、いらだたせる）に由来し、刺激に対して過敏に反応し、怒りやすい状態を意味します。",
+      "pronounciation": "/ˈɪrɪtəbl/",
+      "scriptContext": "Sheldon: And look how irritable it’s making you!",
+      "scriptContextTranslation": "Sheldon: そして、見てみろ、どれだけ君をイライラさせているか！"
     },
     {
       "id": 8,
@@ -94,7 +122,11 @@
         "無視する"
       ],
       "correctAnswer": "戦い抜く",
-      "explanation": "「soldier through」は、困難な状況や嫌なことを我慢してやり遂げるという意味のイディオムです。辛抱強く、根気強く努力する様子を表します。"
+      "explanation": "「soldier through」は、困難な状況や嫌なことを我慢してやり遂げるという意味のイディオムです。辛抱強く、根気強く努力する様子を表します。",
+      "etymology": "「soldier through」は、兵士が困難な状況でも任務を遂行するように、困難に立ち向かい、乗り越えるという意味から来ています。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Guys, we’re not gonna get anything done if we start fighting. Now, can you please try to soldier through?",
+      "scriptContextTranslation": "Leonard: みんな、喧嘩を始めたら何も終わらないぞ。お願いだから、我慢してくれないか？"
     },
     {
       "id": 9,
@@ -106,7 +138,11 @@
         "指導者"
       ],
       "correctAnswer": "独裁者",
-      "explanation": "「tyrant」は、権力を乱用し、人々を抑圧する独裁者や暴君を指します。否定的な意味合いが強く、不正な支配者を批判する際に用いられます。"
+      "explanation": "「tyrant」は、権力を乱用し、人々を抑圧する独裁者や暴君を指します。否定的な意味合いが強く、不正な支配者を批判する際に用いられます。",
+      "etymology": "古代ギリシャ語の「tyrannos」（非合法な支配者）に由来し、元々は必ずしも悪い意味ではありませんでしたが、次第に圧政を行う支配者を指すようになりました。",
+      "pronounciation": "/ˈtaɪrənt/",
+      "scriptContext": "Sheldon: I had a bad dream that my best friend became a tyrant and forced me to stay up all night to work.",
+      "scriptContextTranslation": "Sheldon: 親友が暴君になって、私に徹夜で仕事を強いるという悪夢を見た。"
     },
     {
       "id": 10,
@@ -118,7 +154,11 @@
         "制裁"
       ],
       "correctAnswer": "分野",
-      "explanation": "学問や研究の「分野」を指します。物理学、生物学、化学などの専門的な領域を意味し、それぞれの分野で異なる知識体系や研究方法が存在します。"
+      "explanation": "学問や研究の「分野」を指します。物理学、生物学、化学などの専門的な領域を意味し、それぞれの分野で異なる知識体系や研究方法が存在します。",
+      "etymology": "ラテン語の「disciplina」（教え、訓練）に由来し、知識や技術を体系的に学ぶための分野という意味合いがあります。",
+      "pronounciation": "/ˈdɪsəplɪnz/",
+      "scriptContext": "Amy: Well, to be honest, it’s not like a party party, it’s more like a gathering where scientists of different disciplines get together to share their work and keep current on what’s going on in other fields. I don’t know why I called it a party, sorry.",
+      "scriptContextTranslation": "Amy: ええと、正直言うと、パーティーみたいなパーティーじゃなくて、様々な分野の科学者が集まって研究を発表したり、他の分野の動向を把握したりする集まりなの。どうしてパーティーって言ったのかしら、ごめんなさい。"
     },
     {
       "id": 11,
@@ -130,7 +170,11 @@
         "記録する"
       ],
       "correctAnswer": "最新情報を得る",
-      "explanation": "「keep current on」は、特定の分野やトピックについて最新の情報を常に把握している状態を指します。変化の速い現代社会において、専門家や研究者にとって重要なスキルです。"
+      "explanation": "「keep current on」は、特定の分野やトピックについて最新の情報を常に把握している状態を指します。変化の速い現代社会において、専門家や研究者にとって重要なスキルです。",
+      "etymology": "「keep current on」は、川の流れ（current）のように、常に最新の状態を保つという意味から来ています。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Well, to be honest, it’s not like a party party, it’s more like a gathering where scientists of different disciplines get together to share their work and keep current on what’s going on in other fields. I don’t know why I called it a party, sorry.",
+      "scriptContextTranslation": "Amy: ええと、正直言うと、パーティーみたいなパーティーじゃなくて、様々な分野の科学者が集まって研究を発表したり、他の分野の動向を把握したりする集まりなの。どうしてパーティーって言ったのかしら、ごめんなさい。"
     },
     {
       "id": 12,
@@ -142,7 +186,11 @@
         "忘れる"
       ],
       "correctAnswer": "熱く語る",
-      "explanation": "「go on about」は、特定の話や話題について、熱心に、またはくどくどと話し続けるという意味です。しばしば退屈な話や、相手があまり興味を持っていない話をする状況で使われます。"
+      "explanation": "「go on about」は、特定の話や話題について、熱心に、またはくどくどと話し続けるという意味です。しばしば退屈な話や、相手があまり興味を持っていない話をする状況で使われます。",
+      "etymology": "「go on about」は、特定の話を延々と続ける様子を表し、「go on」が継続を、「about」が話題の焦点を意味することから来ています。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, I’ll have some wine and listen to people go on about crap I don’t understand. I mean, how is it any different than every single day of my life?",
+      "scriptContextTranslation": "Penny: あら、ワインでも飲んで、私が理解できないことについて人が延々と話すのを聞いているわ。それって、私の毎日と何か違うかしら？"
     },
     {
       "id": 13,
@@ -154,7 +202,11 @@
         "軽蔑する"
       ],
       "correctAnswer": "感謝する",
-      "explanation": "「appreciate」は、誰かの行為や提供に対して感謝の気持ちを表す動詞です。また、物事の価値や良さを理解し、認識するという意味もあります。"
+      "explanation": "「appreciate」は、誰かの行為や提供に対して感謝の気持ちを表す動詞です。また、物事の価値や良さを理解し、認識するという意味もあります。",
+      "etymology": "ラテン語の「appretiare」（価値をつける）に由来し、物事の価値を認め、感謝するという意味合いがあります。",
+      "pronounciation": "/əˈpriːʃieɪt/",
+      "scriptContext": "Bernadette: Oh, I appreciate it, but you don’t have to spend your day off with me.",
+      "scriptContextTranslation": "Bernadette: あら、嬉しいけど、休みの日に私と過ごさなくてもいいのよ。"
     },
     {
       "id": 14,
@@ -166,7 +218,11 @@
         "応援"
       ],
       "correctAnswer": "横目",
-      "explanation": "「sideways glances」は、直接的な視線を避け、横目でちらっと見ることを指します。不快感、疑念、好奇心など、さまざまな感情を伝えるために用いられます。"
+      "explanation": "「sideways glances」は、直接的な視線を避け、横目でちらっと見ることを指します。不快感、疑念、好奇心など、さまざまな感情を伝えるために用いられます。",
+      "etymology": "「sideways glances」は、文字通り横（sideways）に視線（glances）を送ることから、直接的な視線を避けて、何かを観察したり、感情を伝えたりする様子を表します。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Oh, come on, we could share a pretzel and get sideways glances from racist old ladies.",
+      "scriptContextTranslation": "Raj: えー、いいじゃないか。プレッツェルを分け合って、人種差別的なおばあさんたちから横目で睨まれたりしてさ。"
     },
     {
       "id": 15,
@@ -178,7 +234,11 @@
         "寛容な"
       ],
       "correctAnswer": "人種差別的な",
-      "explanation": "「racist」は、特定の人種に対する偏見や差別意識を持つことを指します。人種に基づく不当な扱いを正当化する思想や行動を批判する際に用いられます。"
+      "explanation": "「racist」は、特定の人種に対する偏見や差別意識を持つことを指します。人種に基づく不当な扱いを正当化する思想や行動を批判する際に用いられます。",
+      "etymology": "「race」（人種）に「-ist」（主義者）をつけた言葉で、特定の人種を差別する思想を持つ人を指します。",
+      "pronounciation": "/ˈreɪsɪst/",
+      "scriptContext": "Raj: Oh, come on, we could share a pretzel and get sideways glances from racist old ladies.",
+      "scriptContextTranslation": "Raj: えー、いいじゃないか。プレッツェルを分け合って、人種差別的なおばあさんたちから横目で睨まれたりしてさ。"
     },
     {
       "id": 16,
@@ -190,7 +250,11 @@
         "コレクション"
       ],
       "correctAnswer": "ガラクタ",
-      "explanation": "「junk」は、価値のない、または不要なものを指す一般的な言葉です。ごみ、がらくた、不用品といった意味合いで使われます。"
+      "explanation": "「junk」は、価値のない、または不要なものを指す一般的な言葉です。ごみ、がらくた、不用品といった意味合いで使われます。",
+      "etymology": "語源は不明ですが、古フランス語の「jonc」（イグサ）に由来するという説があり、価値のないものを指すようになったと考えられます。",
+      "pronounciation": "/dʒʌŋk/",
+      "scriptContext": "Bernadette: Oh, there’s so much junk in there, it’s embarrassing.",
+      "scriptContextTranslation": "Bernadette: ああ、そこにはガラクタがたくさんあって、恥ずかしいわ。"
     },
     {
       "id": 17,
@@ -202,7 +266,11 @@
         "興奮した"
       ],
       "correctAnswer": "恥ずかしい",
-      "explanation": "「embarrassed」は、自分の行動や状況が原因で恥ずかしい、またはきまり悪い気持ちになることを表します。人前で失敗したり、不適切なことを言ってしまったりした場合に感じることがあります。"
+      "explanation": "「embarrassed」は、自分の行動や状況が原因で恥ずかしい、またはきまり悪い気持ちになることを表します。人前で失敗したり、不適切なことを言ってしまったりした場合に感じることがあります。",
+      "etymology": "スペイン語の「embarazar」（妨げる、困らせる）に由来し、行動や状況が妨げられ、恥ずかしい気持ちになることを意味します。",
+      "pronounciation": "/ɪmˈbærəst/",
+      "scriptContext": "Raj: How can you be embarrassed around me? I’m gonna be in the room with you when you give birth.",
+      "scriptContextTranslation": "Raj: なんで僕の前で恥ずかしがるんだ？君が出産する時に、僕は君と一緒に部屋にいるんだぞ。"
     },
     {
       "id": 18,
@@ -214,7 +282,11 @@
         "コピー機"
       ],
       "correctAnswer": "自動販売機",
-      "explanation": "「vending machine」は、お金を投入することで商品（飲み物、お菓子、タバコなど）を自動的に販売する機械です。公共の場所やオフィス、学校などに設置されていることが多いです。"
+      "explanation": "「vending machine」は、お金を投入することで商品（飲み物、お菓子、タバコなど）を自動的に販売する機械です。公共の場所やオフィス、学校などに設置されていることが多いです。",
+      "etymology": "「vend」（販売する）に「-ing」（〜する機械）をつけた言葉で、自動で販売する機械を意味します。",
+      "pronounciation": "/ˈvendɪŋ məˈʃiːn/",
+      "scriptContext": "Scene: In the university, Sheldon is asleep against a vending machine.",
+      "scriptContextTranslation": "Scene: 大学で、シェルドンが自動販売機にもたれて眠っている。"
     },
     {
       "id": 19,
@@ -226,7 +298,11 @@
         "スムージー"
       ],
       "correctAnswer": "エナジードリンク",
-      "explanation": "「energy drink」は、カフェインや糖分を多く含み、一時的に疲労感を軽減し、集中力を高める効果があるとされる飲料です。ただし、過剰摂取には注意が必要です。"
+      "explanation": "「energy drink」は、カフェインや糖分を多く含み、一時的に疲労感を軽減し、集中力を高める効果があるとされる飲料です。ただし、過剰摂取には注意が必要です。",
+      "etymology": "「energy drink」は、エネルギーを補給することを目的とした飲み物であることから名付けられました。",
+      "pronounciation": "/ˈenərdʒi drɪŋk/",
+      "scriptContext": "The Flash (the voice): You look tired. Why don’t you have an energy drink? Everyone’s doing it.",
+      "scriptContextTranslation": "フラッシュ(声)：疲れているみたいだね。エナジードリンクでも飲んでみたら？みんな飲んでるよ。"
     },
     {
       "id": 20,
@@ -238,7 +314,11 @@
         "夢のシーン"
       ],
       "correctAnswer": "時間の経過を示すモンタージュ",
-      "explanation": "映画やテレビで、時間の経過を短縮して表現するために使用される一連の短いシーンやイメージの連続です。通常、音楽やナレーションが伴います。"
+      "explanation": "映画やテレビで、時間の経過を短縮して表現するために使用される一連の短いシーンやイメージの連続です。通常、音楽やナレーションが伴います。",
+      "etymology": "「montage」は、フランス語の「monter」（組み立てる）に由来し、時間を経過させるために複数の短い映像を繋ぎ合わせる手法を指します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Fine. (Time passing montage) I don’t think I can go much longer.",
+      "scriptContextTranslation": "Sheldon: わかった。(時間が経過するモンタージュ) もう限界かもしれない。"
     },
     {
       "id": 21,
@@ -250,7 +330,11 @@
         "忘れる"
       ],
       "correctAnswer": "取り組む",
-      "explanation": "「get to it」は、何か（特に仕事や課題）に取りかかる、着手するという意味の口語的な表現です。遅かれ早かれやらなければならないことに対して使われることが多いです。"
+      "explanation": "「get to it」は、何か（特に仕事や課題）に取りかかる、着手するという意味の口語的な表現です。遅かれ早かれやらなければならないことに対して使われることが多いです。",
+      "etymology": "「get to it」は、目標地点に到達するように、何か（仕事や課題）に取りかかるという意味から来ています。",
+      "pronounciation": "",
+      "scriptContext": "Raj: You have to get to it eventually.",
+      "scriptContextTranslation": "Raj: いつかはやらなきゃいけないんだから。"
     },
     {
       "id": 22,
@@ -262,7 +346,11 @@
         "音"
       ],
       "correctAnswer": "声",
-      "explanation": "ここでは、誰かの「声」を指しています。登場人物が誰かと会話している場面で、誰が話しているのかを示すために使われます。"
+      "explanation": "ここでは、誰かの「声」を指しています。登場人物が誰かと会話している場面で、誰が話しているのかを示すために使われます。",
+      "etymology": "ラテン語の「vox」（声）に由来し、人が発する音声を指します。",
+      "pronounciation": "/vɔɪs/",
+      "scriptContext": "The Flash (the voice): You look tired. Why don’t you have an energy drink? Everyone’s doing it.",
+      "scriptContextTranslation": "フラッシュ(声)：疲れているみたいだね。エナジードリンクでも飲んでみたら？みんな飲んでるよ。"
     },
     {
       "id": 23,
@@ -274,7 +362,11 @@
         "出かける"
       ],
       "correctAnswer": "起きる",
-      "explanation": "ここでは、「目を覚ます」という意味で使用されています。比喩的には、「もっと注意を払う」という意味にもなります。"
+      "explanation": "ここでは、「目を覚ます」という意味で使用されています。比喩的には、「もっと注意を払う」という意味にもなります。",
+      "etymology": "「wake up」は、眠りから覚めて意識を取り戻す行為を指します。",
+      "pronounciation": "/weɪk ʌp/",
+      "scriptContext": "Howard: Well, wake up, we’re gonna put in a lot of late nights.",
+      "scriptContextTranslation": "Howard: いいから起きろ、これから徹夜続きになるんだ。"
     },
     {
       "id": 24,
@@ -286,7 +378,11 @@
         "捨てる"
       ],
       "correctAnswer": "費やす",
-      "explanation": "ここでは、「時間や労力を費やす」という意味で使用されています。仕事やプロジェクトに時間やエネルギーを投入することを指します。"
+      "explanation": "ここでは、「時間や労力を費やす」という意味で使用されています。仕事やプロジェクトに時間やエネルギーを投入することを指します。",
+      "etymology": "「put in」は、時間や労力を中に入れるように、費やすという意味合いがあります。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Well, wake up, we’re gonna put in a lot of late nights.",
+      "scriptContextTranslation": "Howard: いいから起きろ、これから徹夜続きになるんだ。"
     },
     {
       "id": 25,
@@ -298,7 +394,11 @@
         "旅行する"
       ],
       "correctAnswer": "熱中する",
-      "explanation": "ここでは、「go on about」という句動詞の一部で、「熱中して話す」という意味で使用されています。特定の話や話題について、熱心に、またはくどくどと話し続ける様子を表します。"
+      "explanation": "ここでは、「go on about」という句動詞の一部で、「熱中して話す」という意味で使用されています。特定の話や話題について、熱心に、またはくどくどと話し続ける様子を表します。",
+      "etymology": "ここでは「go on about」という句動詞の一部であるため、特筆すべき語源はありません。",
+      "pronounciation": "",
+      "scriptContext": "Howard: It’s pretty late. You think I’ve got time to run some more simulations on the cooling system?",
+      "scriptContextTranslation": "Howard: 結構遅い時間だけど、冷却システムのシミュレーションをもうちょっと走らせる時間あると思う？"
     },
     {
       "id": 26,
@@ -310,7 +410,11 @@
         "能力を維持する"
       ],
       "correctAnswer": "能力を改善する",
-      "explanation": "「performance-enhancing」とは、能力向上を目的とした、という意味です。スポーツの世界でよく使われ、薬物やサプリメントなど、パフォーマンスを向上させる可能性のある物質や方法を指します。 例：performance-enhancing drugs（能力向上薬）。"
+      "explanation": "「performance-enhancing」とは、能力向上を目的とした、という意味です。スポーツの世界でよく使われ、薬物やサプリメントなど、パフォーマンスを向上させる可能性のある物質や方法を指します。 例：performance-enhancing drugs（能力向上薬）。",
+      "etymology": "「performance-enhancing」は、能力（performance）を高める（enhancing）という意味で、スポーツなどで能力向上を目的として使用されるものを指します。",
+      "pronounciation": "/pərˈfɔːrməns ɪnˈhænsɪŋ/",
+      "scriptContext": "Sheldon: Superheroes take performance-enhancing chemicals?",
+      "scriptContextTranslation": "Sheldon: スーパーヒーローが、能力向上薬を飲むのか？"
     },
     {
       "id": 27,
@@ -322,7 +426,11 @@
         "秘密に"
       ],
       "correctAnswer": "無料で",
-      "explanation": "「on the house」とは、レストランやバーなどで、店側が客に無料で何かを提供することを意味するイディオムです。サービスや好意として提供される場合に用いられます。 例：The drinks are on the house tonight. (今夜は飲み物は店のおごりです。)"
+      "explanation": "「on the house」とは、レストランやバーなどで、店側が客に無料で何かを提供することを意味するイディオムです。サービスや好意として提供される場合に用いられます。 例：The drinks are on the house tonight. (今夜は飲み物は店のおごりです。)",
+      "etymology": "「on the house」は、店（house）が客をもてなすという意味合いから、無料で提供されることを指すようになりました。",
+      "pronounciation": "",
+      "scriptContext": "The Flash: Here. It’s on the house.",
+      "scriptContextTranslation": "The Flash: はい。サービスだよ。"
     },
     {
       "id": 28,
@@ -334,7 +442,11 @@
         "隠す"
       ],
       "correctAnswer": "取り除く",
-      "explanation": "「get rid of」とは、不要なものや好ましくないものを処分したり、取り除いたりすることを意味するイディオムです。物理的なものだけでなく、抽象的なものにも使えます。 例：I need to get rid of these old clothes. (これらの古い服を処分する必要がある。)"
+      "explanation": "「get rid of」とは、不要なものや好ましくないものを処分したり、取り除いたりすることを意味するイディオムです。物理的なものだけでなく、抽象的なものにも使えます。 例：I need to get rid of these old clothes. (これらの古い服を処分する必要がある。)",
+      "etymology": "「get rid of」は、不要なものを手放して取り除くという意味から来ています。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Well, I think the first thing we should get rid of is that tone.",
+      "scriptContextTranslation": "Raj: あのね、まず最初に直すべきはその口調だと思うよ。"
     },
     {
       "id": 29,
@@ -346,7 +458,11 @@
         "重要な"
       ],
       "correctAnswer": "心配な",
-      "explanation": "「worrisome」とは、心配を引き起こす、不安にさせるという意味の形容詞です。何かが問題や懸念の原因となる可能性があることを示します。 例：The rising crime rate is worrisome. (犯罪率の上昇は心配だ。)"
+      "explanation": "「worrisome」とは、心配を引き起こす、不安にさせるという意味の形容詞です。何かが問題や懸念の原因となる可能性があることを示します。 例：The rising crime rate is worrisome. (犯罪率の上昇は心配だ。)",
+      "etymology": "「worry」（心配する）に「-some」（〜しやすい）をつけた言葉で、心配を引き起こしやすいという意味です。",
+      "pronounciation": "/ˈwɜːrisəm/",
+      "scriptContext": "Raj: Yeah, that’s not worrisome at all.",
+      "scriptContextTranslation": "Raj: うん、全然心配ないね。"
     },
     {
       "id": 30,
@@ -358,7 +474,11 @@
         "飾る"
       ],
       "correctAnswer": "追い払う",
-      "explanation": "「ship off」とは、人や物をある場所から別の場所へ送る、特に望ましくない状況から遠ざけるという意味の句動詞です。しばしば、人が予期せず、または望まない状況で送られることを指します。 例：They shipped him off to boarding school. (彼らは彼を寄宿学校へ送った。)"
+      "explanation": "「ship off」とは、人や物をある場所から別の場所へ送る、特に望ましくない状況から遠ざけるという意味の句動詞です。しばしば、人が予期せず、または望まない状況で送られることを指します。 例：They shipped him off to boarding school. (彼らは彼を寄宿学校へ送った。)",
+      "etymology": "「ship off」は、船（ship）で遠くへ送り出すイメージから、人や物をある場所から別の場所へ送る、特に望ましくない状況から遠ざけるという意味合いがあります。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 31,
@@ -370,7 +490,11 @@
         "退屈な"
       ],
       "correctAnswer": "親密な",
-      "explanation": "「intimate」とは、親密な、個人的な、または深い関係にあるという意味の形容詞です。人との関係、雰囲気、場所など、様々なものに使われます。 例：They had an intimate conversation. (彼らは親密な会話をした。)"
+      "explanation": "「intimate」とは、親密な、個人的な、または深い関係にあるという意味の形容詞です。人との関係、雰囲気、場所など、様々なものに使われます。 例：They had an intimate conversation. (彼らは親密な会話をした。)",
+      "etymology": "ラテン語の「intimus」（最も内側の）に由来し、非常に親密で個人的な関係や空間を意味します。",
+      "pronounciation": "/ˈɪntɪmət/",
+      "scriptContext": "Leonard: Oh, it’s complicated. He finds pushing that little door and reaching up into the machine uncomfortably intimate.",
+      "scriptContextTranslation": "Leonard: ああ、それは複雑なんだ。彼はあの小さなドアを押して、機械の中に手を伸ばすのが、気まずいほど親密だと感じてるんだ。"
     },
     {
       "id": 32,
@@ -382,7 +506,11 @@
         "無視すると"
       ],
       "correctAnswer": "引用すると",
-      "explanation": "「to quote」とは、他の人の言葉をそのまま引用する際に使われる表現です。発言や文章の正確な出所を示すために用いられます。 例：To quote Shakespeare, “To be or not to be, that is the question.” (シェイクスピアを引用すると、「生きるべきか死ぬべきか、それが問題だ。」)"
+      "explanation": "「to quote」とは、他の人の言葉をそのまま引用する際に使われる表現です。発言や文章の正確な出所を示すために用いられます。 例：To quote Shakespeare, “To be or not to be, that is the question.” (シェイクスピアを引用すると、「生きるべきか死ぬべきか、それが問題だ。」)",
+      "etymology": "「quote」は、ラテン語の「citare」（引用する）に由来し、他者の言葉をそのまま引用する行為を指します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Gentlemen, I am ready to work. To quote The Martian, let’s science the faeces out of this. That’s The Martian the book and The Martian the movie, not Marvin the Martian. Although to quote Marvin the Martian, I claim this planet in the name of Mars.",
+      "scriptContextTranslation": "Sheldon: 諸君、私は仕事の準備ができたぞ。「オデッセイ」から引用するなら、「くそったれな科学を叩き込んでやる」だ。「オデッセイ」の原作と映画版のことだ。火星人のマービンではない。だが、火星人のマービンを引用するなら、「火星の名において、この惑星を占領する」だ。"
     },
     {
       "id": 33,
@@ -394,7 +522,11 @@
         "避ける"
       ],
       "correctAnswer": "要求する",
-      "explanation": "「claim」とは、権利や所有権を主張する、または事実であると主張するという意味の動詞です。証拠や根拠を伴う場合も、伴わない場合もあります。 例：He claimed that he was innocent. (彼は自分が無罪だと主張した。)"
+      "explanation": "「claim」とは、権利や所有権を主張する、または事実であると主張するという意味の動詞です。証拠や根拠を伴う場合も、伴わない場合もあります。 例：He claimed that he was innocent. (彼は自分が無罪だと主張した。)",
+      "etymology": "ラテン語の「clamare」（叫ぶ、宣言する）に由来し、権利や事実を主張するという意味合いがあります。",
+      "pronounciation": "/kleɪm/",
+      "scriptContext": "Sheldon: Gentlemen, I am ready to work. To quote The Martian, let’s science the faeces out of this. That’s The Martian the book and The Martian the movie, not Marvin the Martian. Although to quote Marvin the Martian, I claim this planet in the name of Mars.",
+      "scriptContextTranslation": "Sheldon: 諸君、私は仕事の準備ができたぞ。「オデッセイ」から引用するなら、「くそったれな科学を叩き込んでやる」だ。「オデッセイ」の原作と映画版のことだ。火星人のマービンではない。だが、火星人のマービンを引用するなら、「火星の名において、この惑星を占領する」だ。"
     },
     {
       "id": 34,
@@ -406,7 +538,11 @@
         "恐れる"
       ],
       "correctAnswer": "混ぜる",
-      "explanation": "「mingle」とは、社交的な場で人々が互いに交流し、親睦を深めるという意味の動詞です。パーティーやイベントなどで、様々な人と話したり、一緒に時間を過ごしたりする状況を指します。 例：She mingled with the guests at the party. (彼女はパーティーでゲストと交流した。)"
+      "explanation": "「mingle」とは、社交的な場で人々が互いに交流し、親睦を深めるという意味の動詞です。パーティーやイベントなどで、様々な人と話したり、一緒に時間を過ごしたりする状況を指します。 例：She mingled with the guests at the party. (彼女はパーティーでゲストと交流した。)",
+      "etymology": "語源は不明ですが、恐らく古ノルド語の「menga」（混ぜる）に関連し、人々が互いに混ざり合い、交流するという意味合いがあります。",
+      "pronounciation": "/ˈmɪŋɡl/",
+      "scriptContext": "Penny: So should we talk to each other or mingle?",
+      "scriptContextTranslation": "Penny: だから、お互いに話すか、それとも他の人たちと話すべき？"
     },
     {
       "id": 35,
@@ -418,7 +554,11 @@
         "休憩"
       ],
       "correctAnswer": "失敗",
-      "explanation": "「a bust」とは、試みが失敗に終わること、または期待外れの結果になることを意味する口語的な表現です。イベントや計画などがうまくいかなかった場合に用いられます。 例：The party was a bust. (パーティーは失敗だった。)"
+      "explanation": "「a bust」とは、試みが失敗に終わること、または期待外れの結果になることを意味する口語的な表現です。イベントや計画などがうまくいかなかった場合に用いられます。 例：The party was a bust. (パーティーは失敗だった。)",
+      "etymology": "「a bust」は、像の胸像（bust）が完成しないイメージから、試みが失敗に終わることを指すようになったと考えられます。",
+      "pronounciation": "",
+      "scriptContext": "Bert: Well, I guess this is kind of a bust. You don’t have to stay. I’m gonna start cleaning up.",
+      "scriptContextTranslation": "Bert: ああ、どうやら失敗だったみたいだ。君たちはここにいなくてもいいよ。片付けを始めるよ。"
     },
     {
       "id": 36,
@@ -430,7 +570,11 @@
         "農場"
       ],
       "correctAnswer": "大学の敷地",
-      "explanation": "「campus」とは、大学や専門学校などの敷地、または構内を意味する名詞です。建物、グラウンド、図書館などが含まれます。 例：The campus is beautiful in the spring. (春のキャンパスは美しい。)"
+      "explanation": "「campus」とは、大学や専門学校などの敷地、または構内を意味する名詞です。建物、グラウンド、図書館などが含まれます。 例：The campus is beautiful in the spring. (春のキャンパスは美しい。)",
+      "etymology": "ラテン語の「campus」（平原、競技場）に由来し、大学の広大な敷地を意味します。",
+      "pronounciation": "/ˈkæmpəs/",
+      "scriptContext": "Bert: Well, you know how Amy’s the coolest girl on campus, right?",
+      "scriptContextTranslation": "Bert: まあ、エイミーがキャンパスで一番イケてる女の子だって知ってるだろ？"
     },
     {
       "id": 37,
@@ -442,7 +586,11 @@
         "攻撃する"
       ],
       "correctAnswer": "中断する",
-      "explanation": "「break for」とは、休憩のために一時的に活動を中断することを意味する句動詞です。食事や休息のために作業を中断する際に用いられます。 例：Let's break for lunch. (昼食のために休憩しましょう。)"
+      "explanation": "「break for」とは、休憩のために一時的に活動を中断することを意味する句動詞です。食事や休息のために作業を中断する際に用いられます。 例：Let's break for lunch. (昼食のために休憩しましょう。)",
+      "etymology": "「break for」は、何かから離れて休憩するという意味合いから来ています。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Maybe we should break for lunch. What time is it?",
+      "scriptContextTranslation": "Howard: 昼食休憩にしようか。今、何時だ？"
     },
     {
       "id": 38,
@@ -454,7 +602,11 @@
         "料理マシン"
       ],
       "correctAnswer": "自動販売機",
-      "explanation": "「vending machine」とは、コインや紙幣を投入することで商品を購入できる自動販売機のことです。飲料、スナック、切符など、様々な商品が販売されています。 例：There's a vending machine down the hall. (廊下の先に自動販売機があります。)"
+      "explanation": "「vending machine」とは、コインや紙幣を投入することで商品を購入できる自動販売機のことです。飲料、スナック、切符など、様々な商品が販売されています。 例：There's a vending machine down the hall. (廊下の先に自動販売機があります。)",
+      "etymology": "「vend」（販売する）に「-ing」（〜する機械）をつけた言葉で、自動で販売する機械を意味します。",
+      "pronounciation": "/ˈvendɪŋ məˈʃiːn/",
+      "scriptContext": "Scene: In the university, Sheldon is asleep against a vending machine.",
+      "scriptContextTranslation": "Scene: 大学で、シェルドンが自動販売機にもたれて眠っている。"
     },
     {
       "id": 39,
@@ -466,7 +618,11 @@
         "ゲーム部屋"
       ],
       "correctAnswer": "予備の部屋",
-      "explanation": "「spare room」とは、予備の部屋、空き部屋という意味です。来客用や物置として使われることが多いです。 例：We turned the spare room into a home office. (私たちは予備の部屋をホームオフィスに変えました。)"
+      "explanation": "「spare room」とは、予備の部屋、空き部屋という意味です。来客用や物置として使われることが多いです。 例：We turned the spare room into a home office. (私たちは予備の部屋をホームオフィスに変えました。)",
+      "etymology": "「spare room」は、予備（spare）の部屋という意味で、普段使わない空いている部屋を指します。",
+      "pronounciation": "/ˈsper ruːm/",
+      "scriptContext": "Scene: Howard and Bernadette’s spare room.",
+      "scriptContextTranslation": "Scene: ハワードとバーナデットの予備の部屋"
     },
     {
       "id": 40,
@@ -478,7 +634,11 @@
         "料理をする"
       ],
       "correctAnswer": "ダクトテープで固定する",
-      "explanation": "「duct taping」とは、ダクトテープを使って何かを固定したり、修理したりする行為を指します。ダクトテープは非常に強力な粘着力を持つテープで、様々な用途に使われます。 例：He was duct taping the wires together. (彼はワイヤーをダクトテープで固定していた。)"
+      "explanation": "「duct taping」とは、ダクトテープを使って何かを固定したり、修理したりする行為を指します。ダクトテープは非常に強力な粘着力を持つテープで、様々な用途に使われます。 例：He was duct taping the wires together. (彼はワイヤーをダクトテープで固定していた。)",
+      "etymology": "「duct taping」は、ダクト（duct）の修理や固定に使われるテープ（tape）を使用する行為を指します。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: This was the husband and this was the wife. They’d go out on adventures together. Cruises, skiing, horseback riding. That was really me just duct taping them to our dog.",
+      "scriptContextTranslation": "Bernadette: これが夫で、これが妻。彼らは一緒に冒険に出かけるの。クルーズ、スキー、乗馬。実際は、私がガムテープで彼らを犬にくっつけてただけなんだけど。"
     },
     {
       "id": 41,
@@ -490,7 +650,11 @@
         "運動神経が良い"
       ],
       "correctAnswer": "超能力を持つ",
-      "explanation": "「to have superpowers」とは、超能力を持つ、という意味です。映画やコミックによく出てくる表現です。 例：Superman has superpowers. (スーパーマンは超能力を持っている。)"
+      "explanation": "「to have superpowers」とは、超能力を持つ、という意味です。映画やコミックによく出てくる表現です。 例：Superman has superpowers. (スーパーマンは超能力を持っている。)",
+      "etymology": "「superpowers」は、人間を超越した能力（super power）を持つことを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 42,
@@ -502,7 +666,11 @@
         "雰囲気"
       ],
       "correctAnswer": "口調",
-      "explanation": "「tone」とは、話し方や文章における口調や語調を指します。感情や態度を伝える重要な要素です。 例：Her tone was sarcastic. (彼女の口調は皮肉っぽかった。)"
+      "explanation": "「tone」とは、話し方や文章における口調や語調を指します。感情や態度を伝える重要な要素です。 例：Her tone was sarcastic. (彼女の口調は皮肉っぽかった。)",
+      "etymology": "ギリシャ語の「tonos」（張り、調子）に由来し、話し方や文章における感情や態度を表します。",
+      "pronounciation": "/toʊn/",
+      "scriptContext": "Raj: Well, I think the first thing we should get rid of is that tone.",
+      "scriptContextTranslation": "Raj: あのね、まず最初に直すべきはその口調だと思うよ。"
     },
     {
       "id": 43,
@@ -514,7 +682,11 @@
         "したい"
       ],
       "correctAnswer": "する予定",
-      "explanation": "「gonna」とは、「going to」の口語的な短縮形で、「～するつもり」や「～する予定」という意味を表します。日常会話でよく使われます。 例：I'm gonna go to the store. (私は店に行くつもりです。)"
+      "explanation": "「gonna」とは、「going to」の口語的な短縮形で、「～するつもり」や「～する予定」という意味を表します。日常会話でよく使われます。 例：I'm gonna go to the store. (私は店に行くつもりです。)",
+      "etymology": "「going to」の口語的な短縮形であり、未来の予定や意図を表します。",
+      "pronounciation": "/ˈɡɑːnə/",
+      "scriptContext": "Howard: Well, wake up, we’re gonna put in a lot of late nights.",
+      "scriptContextTranslation": "Howard: いいから起きろ、これから徹夜続きになるんだ。"
     },
     {
       "id": 44,
@@ -526,7 +698,11 @@
         "一般的に"
       ],
       "correctAnswer": "実際には",
-      "explanation": "「actually」とは、「実際には」「実は」という意味の副詞です。相手の予想や認識と異なる事実を伝える際に使われます。 例：Actually, I don't like coffee. (実は、私はコーヒーが好きではありません。)"
+      "explanation": "「actually」とは、「実際には」「実は」という意味の副詞です。相手の予想や認識と異なる事実を伝える際に使われます。 例：Actually, I don't like coffee. (実は、私はコーヒーが好きではありません。)",
+      "etymology": "「act」（行動する、実際に行う）に由来し、事実や現実を強調する際に使われます。",
+      "pronounciation": "/ˈæktʃuəli/",
+      "scriptContext": "Amy: Oh, actually, we’re an hour late.",
+      "scriptContextTranslation": "Amy: ああ、実は、1時間遅刻してるの。"
     },
     {
       "id": 45,
@@ -538,7 +714,11 @@
         "普通"
       ],
       "correctAnswer": "良い",
-      "explanation": "「better」とは、「より良い」「より優れている」という意味の形容詞または副詞です。「good」や「well」の比較級です。 例：This is better than that. (これはあれよりも良い。)"
+      "explanation": "「better」とは、「より良い」「より優れている」という意味の形容詞または副詞です。「good」や「well」の比較級です。 例：This is better than that. (これはあれよりも良い。)",
+      "etymology": "古英語の「beterra」（より良い）に由来し、「good」（良い）の比較級です。",
+      "pronounciation": "/ˈbetər/",
+      "scriptContext": "Sheldon: I am facing a great deal of work. And I do like things better when famous people also like them.",
+      "scriptContextTranslation": "Sheldon: 私にはたくさんの仕事がある。それに、有名な人が好きなものを私も好きだと、より気分が良い。"
     },
     {
       "id": 46,
@@ -550,7 +730,11 @@
         "ダンス教室"
       ],
       "correctAnswer": "室内自転車教室",
-      "explanation": "「spin class」とは、音楽に合わせて室内自転車を漕ぐエクササイズのクラスです。運動強度が高く、全身運動になります。 例：I go to spin class three times a week. (私は週に3回、スピンクラスに行きます。)"
+      "explanation": "「spin class」とは、音楽に合わせて室内自転車を漕ぐエクササイズのクラスです。運動強度が高く、全身運動になります。 例：I go to spin class three times a week. (私は週に3回、スピンクラスに行きます。)",
+      "etymology": "「spin class」は、室内自転車を漕ぐ（spin）運動を行うクラスを指します。",
+      "pronounciation": "/ˈspɪn klæs/",
+      "scriptContext": "Raj: I skipped spin class for this.",
+      "scriptContextTranslation": "Raj: これのためにスピニングのクラスをサボったのに。"
     },
     {
       "id": 47,
@@ -562,7 +746,11 @@
         "素晴らしい"
       ],
       "correctAnswer": "素晴らしい",
-      "explanation": "「fantastic」とは、「素晴らしい」「最高の」という意味の形容詞です。非常に良い状態や感情を表します。 例：I had a fantastic time. (私は素晴らしい時間を過ごしました。)"
+      "explanation": "「fantastic」とは、「素晴らしい」「最高の」という意味の形容詞です。非常に良い状態や感情を表します。 例：I had a fantastic time. (私は素晴らしい時間を過ごしました。)",
+      "etymology": "ギリシャ語の「phantastikos」（想像力豊かな）に由来し、想像を超えるほど素晴らしいという意味合いがあります。",
+      "pronounciation": "/fænˈtæstɪk/",
+      "scriptContext": "Sheldon: Oh, I’m fantastic, never been better. I had my first energy drink and I feel great. Hey, you guys want to wrestle? We can do arm, thumb, mud, sumo. Nah, we’re not fat enough, or wearing diapers.",
+      "scriptContextTranslation": "Sheldon: ああ、最高だ、これまでで一番気分が良い。初めてエナジードリンクを飲んだら、気分最高だ。おい、君たちレスリングでもしないか？腕相撲、指相撲、泥相撲、相撲もできるぞ。いや、太ってないし、オムツもしてないな。"
     },
     {
       "id": 48,
@@ -574,7 +762,11 @@
         "親指"
       ],
       "correctAnswer": "親指",
-      "explanation": "「thumb」とは、「親指」という意味の名詞です。指相撲（thumb wrestling）などでよく使われる単語です。 例：He hurt his thumb. (彼は親指を怪我した。)"
+      "explanation": "「thumb」とは、「親指」という意味の名詞です。指相撲（thumb wrestling）などでよく使われる単語です。 例：He hurt his thumb. (彼は親指を怪我した。)",
+      "etymology": "古英語の「þūma」に由来し、手の最も太い指を指します。",
+      "pronounciation": "/θʌm/",
+      "scriptContext": "Sheldon: Oh, I’m fantastic, never been better. I had my first energy drink and I feel great. Hey, you guys want to wrestle? We can do arm, thumb, mud, sumo. Nah, we’re not fat enough, or wearing diapers.",
+      "scriptContextTranslation": "Sheldon: ああ、最高だ、これまでで一番気分が良い。初めてエナジードリンクを飲んだら、気分最高だ。おい、君たちレスリングでもしないか？腕相撲、指相撲、泥相撲、相撲もできるぞ。いや、太ってないし、オムツもしてないな。"
     },
     {
       "id": 49,
@@ -586,7 +778,11 @@
         "良い"
       ],
       "correctAnswer": "最低",
-      "explanation": "「worst」とは、「最も悪い」「最低の」という意味の形容詞または副詞です。「bad」や「badly」の最上級です。 例：This is the worst movie I've ever seen. (これは今まで見た中で最悪の映画だ。)"
+      "explanation": "「worst」とは、「最も悪い」「最低の」という意味の形容詞または副詞です。「bad」や「badly」の最上級です。 例：This is the worst movie I've ever seen. (これは今まで見た中で最悪の映画だ。)",
+      "etymology": "古英語の「wyrresta」（最も悪い）に由来し、「bad」（悪い）の最上級です。",
+      "pronounciation": "/wɜːrst/",
+      "scriptContext": "Leonard: According to the world’s worst cuckoo clock, it’s two.",
+      "scriptContextTranslation": "Leonard: 世界で一番ダメな鳩時計によると、2時だ。"
     },
     {
       "id": 50,
@@ -598,7 +794,11 @@
         "ストップウォッチ"
       ],
       "correctAnswer": "鳩時計",
-      "explanation": "「cuckoo clock」とは、「鳩時計」という意味の名詞です。時間になるとカッコーの鳴き声で時を告げる時計です。 例：The cuckoo clock struck noon. (鳩時計が正午を告げた。)"
+      "explanation": "「cuckoo clock」とは、「鳩時計」という意味の名詞です。時間になるとカッコーの鳴き声で時を告げる時計です。 例：The cuckoo clock struck noon. (鳩時計が正午を告げた。)",
+      "etymology": "「cuckoo clock」は、カッコウ（cuckoo）の鳴き声で時を告げる時計を指します。",
+      "pronounciation": "/ˈkuːkuː klɑːk/",
+      "scriptContext": "Leonard: According to the world’s worst cuckoo clock, it’s two.",
+      "scriptContextTranslation": "Leonard: 世界で一番ダメな鳩時計によると、2時だ。"
     },
     {
       "id": 51,
@@ -610,7 +810,11 @@
         "無関心"
       ],
       "correctAnswer": "欲求",
-      "explanation": "「craving」は、何かを強く欲すること、特に物質的なものや習慣的な行動に対する強い欲求を指します。依存症の文脈でよく使われますが、日常的な欲求にも使えます。例：I have a craving for chocolate. (チョコレートがどうしても食べたい。)"
+      "explanation": "「craving」は、何かを強く欲すること、特に物質的なものや習慣的な行動に対する強い欲求を指します。依存症の文脈でよく使われますが、日常的な欲求にも使えます。例：I have a craving for chocolate. (チョコレートがどうしても食べたい。)",
+      "etymology": "古英語の「crafian」（要求する）に由来し、何かを強く求める気持ちを表します。",
+      "pronounciation": "/ˈkreɪvɪŋ/",
+      "scriptContext": "Sheldon: That’s a craving. That’s a sign of chemical dependency.",
+      "scriptContextTranslation": "Sheldon: それは欲求だ。化学物質依存症の兆候だ。"
     },
     {
       "id": 52,
@@ -622,7 +826,11 @@
         "化学物質過敏症"
       ],
       "correctAnswer": "化学的依存",
-      "explanation": "「chemical dependency」は、特定の化学物質に対する依存状態を指します。薬物やアルコールなど、摂取しないと身体的または精神的な苦痛を感じる状態を意味します。より一般的には「依存症」と呼ばれます。例：He is struggling with chemical dependency. (彼は薬物依存に苦しんでいます。)"
+      "explanation": "「chemical dependency」は、特定の化学物質に対する依存状態を指します。薬物やアルコールなど、摂取しないと身体的または精神的な苦痛を感じる状態を意味します。より一般的には「依存症」と呼ばれます。例：He is struggling with chemical dependency. (彼は薬物依存に苦しんでいます。)",
+      "etymology": "特定の化学物質（chemical）に依存（dependency）している状態を指します。",
+      "pronounciation": "/ˈkemɪkl dɪˈpendənsi/",
+      "scriptContext": "Sheldon: That’s a craving. That’s a sign of chemical dependency.",
+      "scriptContextTranslation": "Sheldon: それは欲求だ。化学物質依存症の兆候だ。"
     },
     {
       "id": 53,
@@ -634,7 +842,11 @@
         "保護"
       ],
       "correctAnswer": "暴露",
-      "explanation": "「exposure」は、何かにさらされること、接触することを意味します。ここでは、ある物質（Pringles）に一度さらされただけで依存症になる可能性があるという文脈で使用されています。例：Repeated exposure to the sun can cause skin damage. (繰り返し日光にさらされると、皮膚に損傷を与える可能性があります。)"
+      "explanation": "「exposure」は、何かにさらされること、接触することを意味します。ここでは、ある物質（Pringles）に一度さらされただけで依存症になる可能性があるという文脈で使用されています。例：Repeated exposure to the sun can cause skin damage. (繰り返し日光にさらされると、皮膚に損傷を与える可能性があります。)",
+      "etymology": "ラテン語の「exponere」（外に出す）に由来し、何かにさらされること、接触することを意味します。",
+      "pronounciation": "/ɪkˈspoʊʒər/",
+      "scriptContext": "Sheldon: No, I know, but plenty of things are addictive after a single exposure. I mean, crack cocaine, nicotine, Pringles. You know once one pops one just can’t stop.",
+      "scriptContextTranslation": "Sheldon: 分かってる。でも、一回で依存症になるものもある。例えば、クラックコカイン、ニコチン、プリングルス。一度食べ始めたら止まらない。"
     },
     {
       "id": 54,
@@ -646,7 +858,11 @@
         "無害な"
       ],
       "correctAnswer": "中毒性がある",
-      "explanation": "「addictive」は、中毒性がある、習慣になりやすいという意味です。ここでは、crack cocaine, nicotine, Pringles が中毒性のあるものの例として挙げられています。例：This game is highly addictive. (このゲームは非常に中毒性があります。)"
+      "explanation": "「addictive」は、中毒性がある、習慣になりやすいという意味です。ここでは、crack cocaine, nicotine, Pringles が中毒性のあるものの例として挙げられています。例：This game is highly addictive. (このゲームは非常に中毒性があります。)",
+      "etymology": "「addict」（中毒者）に「-ive」（〜しやすい）をつけた言葉で、中毒になりやすい性質を表します。",
+      "pronounciation": "/əˈdɪktɪv/",
+      "scriptContext": "Sheldon: No, I know, but plenty of things are addictive after a single exposure. I mean, crack cocaine, nicotine, Pringles. You know once one pops one just can’t stop.",
+      "scriptContextTranslation": "Sheldon: 分かってる。でも、一回で依存症になるものもある。例えば、クラックコカイン、ニコチン、プリングルス。一度食べ始めたら止まらない。"
     },
     {
       "id": 55,
@@ -658,7 +874,11 @@
         "冷静に話し合う"
       ],
       "correctAnswer": "殴り倒す",
-      "explanation": "「whup」は「whack」と同じように、叩く、打ち負かすという意味のスラングです。「haul off and whup the crazy out of him」は、彼の中の狂気を叩き出す、つまり荒療治で正気に戻すという意味合いです。口語的な表現です。例：I'm so angry I could haul off and whup him. (彼を殴り倒してやりたいくらい腹が立っている。)"
+      "explanation": "「whup」は「whack」と同じように、叩く、打ち負かすという意味のスラングです。「haul off and whup the crazy out of him」は、彼の中の狂気を叩き出す、つまり荒療治で正気に戻すという意味合いです。口語的な表現です。例：I'm so angry I could haul off and whup him. (彼を殴り倒してやりたいくらい腹が立っている。)",
+      "etymology": "「haul off and whup」は、相手を打ちのめす、荒療治で正気に戻すという意味合いの口語的な表現です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Well, this probably won’t work, but has anyone ever tried to just haul off and whup the crazy out of him?",
+      "scriptContextTranslation": "Howard: まあ、多分うまくいかないだろうけど、誰かこいつの狂気を叩き出すって試したことあるか？"
     },
     {
       "id": 56,
@@ -670,7 +890,11 @@
         "精神的負担"
       ],
       "correctAnswer": "時間的制約",
-      "explanation": "「time crunch」は、時間的な制約、時間的猶予がない状態を指します。プロジェクトやタスクを完了させるための時間が非常に限られている状況を表します。例：We are under a time crunch to finish this project. (このプロジェクトを終えるために時間的な制約を受けています。)"
+      "explanation": "「time crunch」は、時間的な制約、時間的猶予がない状態を指します。プロジェクトやタスクを完了させるための時間が非常に限られている状況を表します。例：We are under a time crunch to finish this project. (このプロジェクトを終えるために時間的な制約を受けています。)",
+      "etymology": "「time crunch」は、時間が押しつぶされる（crunch）ように、時間的な制約がある状態を指します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: That’s not helpful. It’s fun to think about, but it’s not helpful. Hey, Sheldon, we are on a serious time crunch. We can’t do this without you. Can you please pull it together?",
+      "scriptContextTranslation": "Leonard: それは役に立たない。考えるのは楽しいけど、役に立たない。おい、シェルドン。時間がないんだ。君なしではできない。頼むからしっかりしてくれ。"
     },
     {
       "id": 57,
@@ -682,7 +906,11 @@
         "放棄する"
       ],
       "correctAnswer": "まとめる",
-      "explanation": "「pull oneself together」は、落ち着きを取り戻す、感情をコントロールするという意味のイディオムです。困難な状況や感情的な動揺の後で、自分自身を立て直すことを指します。例：After the bad news, she needed a moment to pull herself together. (悪い知らせの後、彼女は落ち着きを取り戻す必要がありました。)"
+      "explanation": "「pull oneself together」は、落ち着きを取り戻す、感情をコントロールするという意味のイディオムです。困難な状況や感情的な動揺の後で、自分自身を立て直すことを指します。例：After the bad news, she needed a moment to pull herself together. (悪い知らせの後、彼女は落ち着きを取り戻す必要がありました。)",
+      "etymology": "「pull oneself together」は、ばらばらになったものを引き寄せてまとめるように、感情を落ち着かせ、自分自身を立て直すという意味合いから来ています。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: That’s not helpful. It’s fun to think about, but it’s not helpful. Hey, Sheldon, we are on a serious time crunch. We can’t do this without you. Can you please pull it together?",
+      "scriptContextTranslation": "Leonard: それは役に立たない。考えるのは楽しいけど、役に立たない。おい、シェルドン。時間がないんだ。君なしではできない。頼むからしっかりしてくれ。"
     },
     {
       "id": 58,
@@ -694,7 +922,11 @@
         "私を責める"
       ],
       "correctAnswer": "私を支持する",
-      "explanation": "「bear with me」は、しばらくの間我慢してほしい、辛抱してほしいという意味の表現です。相手に迷惑をかけるかもしれない状況で、理解と協力を求める際に使います。例：Please bear with me while I try to fix this problem. (この問題を解決しようとしている間、どうかご辛抱ください。)"
+      "explanation": "「bear with me」は、しばらくの間我慢してほしい、辛抱してほしいという意味の表現です。相手に迷惑をかけるかもしれない状況で、理解と協力を求める際に使います。例：Please bear with me while I try to fix this problem. (この問題を解決しようとしている間、どうかご辛抱ください。)",
+      "etymology": "「bear with me」は、私と一緒に耐えてほしい、辛抱してほしいという意味合いから来ています。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Just, please, bear with me if I display symptoms of caffeine withdrawal.",
+      "scriptContextTranslation": "Sheldon: ただ、カフェインの禁断症状が出ても我慢してくれ。"
     },
     {
       "id": 59,
@@ -706,7 +938,11 @@
         "参加"
       ],
       "correctAnswer": "禁断症状",
-      "explanation": "「withdrawal」は、禁断症状、離脱症状という意味です。ここでは、カフェインの摂取を中断したことによる禁断症状を指しています。薬物やアルコールなどの依存性物質の使用を中止した際に現れる身体的・精神的な症状を指します。例：He experienced severe withdrawal symptoms when he stopped taking the medication. (彼は薬の服用をやめたとき、重度の禁断症状を経験しました。)"
+      "explanation": "「withdrawal」は、禁断症状、離脱症状という意味です。ここでは、カフェインの摂取を中断したことによる禁断症状を指しています。薬物やアルコールなどの依存性物質の使用を中止した際に現れる身体的・精神的な症状を指します。例：He experienced severe withdrawal symptoms when he stopped taking the medication. (彼は薬の服用をやめたとき、重度の禁断症状を経験しました。)",
+      "etymology": "「withdraw」（引き出す、撤退する）に由来し、依存性物質の使用を中止した際に体が元の状態に戻ろうとする反応を表します。",
+      "pronounciation": "/wɪθˈdrɔːəl/",
+      "scriptContext": "Sheldon: Just, please, bear with me if I display symptoms of caffeine withdrawal.",
+      "scriptContextTranslation": "Sheldon: ただ、カフェインの禁断症状が出ても我慢してくれ。"
     },
     {
       "id": 60,
@@ -718,7 +954,11 @@
         "悲しんだ"
       ],
       "correctAnswer": "取り乱した",
-      "explanation": "「flip out」は、激しく怒る、取り乱す、興奮するという意味のスラングです。ここでは、Bernadetteが感情的に取り乱したことを表しています。例：He flipped out when he heard the news. (彼はそのニュースを聞いて取り乱した。)"
+      "explanation": "「flip out」は、激しく怒る、取り乱す、興奮するという意味のスラングです。ここでは、Bernadetteが感情的に取り乱したことを表しています。例：He flipped out when he heard the news. (彼はそのニュースを聞いて取り乱した。)",
+      "etymology": "「flip out」は、ひっくり返るように、激しく感情的に反応することを意味するスラングです。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Sorry I flipped out on you. I think it’s just hormones.",
+      "scriptContextTranslation": "Bernadette: 取り乱してごめんね。ホルモンのせいだと思う。"
     },
     {
       "id": 61,
@@ -730,7 +970,11 @@
         "隠される"
       ],
       "correctAnswer": "二役をこなす",
-      "explanation": "「double as」は、二つの役割を果たす、兼ねるという意味です。ここでは、Bernadetteの子供部屋が父親のオフィスも兼ねていたことを表しています。例：This sofa can double as a bed. (このソファはベッドとしても使えます。)"
+      "explanation": "「double as」は、二つの役割を果たす、兼ねるという意味です。ここでは、Bernadetteの子供部屋が父親のオフィスも兼ねていたことを表しています。例：This sofa can double as a bed. (このソファはベッドとしても使えます。)",
+      "etymology": "「double as」は、二つの役割を果たすという意味から来ています。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 62,
@@ -742,7 +986,11 @@
         "目立たない人"
       ],
       "correctAnswer": "流行の仕掛け人",
-      "explanation": "「trendsetter」は、流行の仕掛け人、流行の先駆けという意味です。新しいスタイルやアイデアを最初に広める人を指します。例：She is a trendsetter in the fashion industry. (彼女はファッション業界の流行の仕掛け人です。)"
+      "explanation": "「trendsetter」は、流行の仕掛け人、流行の先駆けという意味です。新しいスタイルやアイデアを最初に広める人を指します。例：She is a trendsetter in the fashion industry. (彼女はファッション業界の流行の仕掛け人です。)",
+      "etymology": "「trend setter」は、流行（trend）を作る（set）人という意味から来ています。",
+      "pronounciation": "",
+      "scriptContext": "Penny: You trend setter.",
+      "scriptContextTranslation": "Penny: トレンドセッターね。"
     },
     {
       "id": 63,
@@ -754,7 +1002,11 @@
         "私を無視した"
       ],
       "correctAnswer": "私を疲れさせた",
-      "explanation": "「wear someone down」は、人を疲れさせる、うんざりさせる、根負けさせるという意味です。ここでは、LeonardがPennyを根負けさせて結婚に至ったというニュアンスで使われています。例：His constant nagging wore me down. (彼の絶え間ない小言に私は疲れ果てた。)"
+      "explanation": "「wear someone down」は、人を疲れさせる、うんざりさせる、根負けさせるという意味です。ここでは、LeonardがPennyを根負けさせて結婚に至ったというニュアンスで使われています。例：His constant nagging wore me down. (彼の絶え間ない小言に私は疲れ果てた。)",
+      "etymology": "「wear someone down」は、少しずつ相手をすり減らすように、疲れさせる、根負けさせるという意味から来ています。",
+      "pronounciation": "",
+      "scriptContext": "Penny: That’s me, I’m her. You know, he didn’t trick me, he just wore me down.",
+      "scriptContextTranslation": "Penny: それ私よ。私がその女の子。騙されたわけじゃなくて、根負けしたのよ。"
     },
     {
       "id": 64,
@@ -766,7 +1018,11 @@
         "争う"
       ],
       "correctAnswer": "団結する",
-      "explanation": "「stick together」は、団結する、協力するという意味です。ここでは、人気のある女の子たちはいつも一緒にいるというステレオタイプなイメージを表しています。例：We need to stick together to get through this difficult time. (この困難な時期を乗り越えるためには、団結する必要があります。)"
+      "explanation": "「stick together」は、団結する、協力するという意味です。ここでは、人気のある女の子たちはいつも一緒にいるというステレオタイプなイメージを表しています。例：We need to stick together to get through this difficult time. (この困難な時期を乗り越えるためには、団結する必要があります。)",
+      "etymology": "「stick together」は、くっつくように、団結して行動するという意味合いから来ています。",
+      "pronounciation": "",
+      "scriptContext": "Bert: It makes sense you two are friends. I mean, hot girls always stick together.",
+      "scriptContextTranslation": "Bert: 二人が友達なのも納得だ。だって、可愛い女の子はいつも一緒にいるからな。"
     },
     {
       "id": 65,
@@ -778,7 +1034,11 @@
         "人生を諦める"
       ],
       "correctAnswer": "人生を軌道に乗せる",
-      "explanation": "「get one's life back on track」は、人生を軌道に乗せる、元の状態に戻すという意味です。ここでは、カフェイン依存の問題（だとSheldonが思っている）から立ち直り、元の生活に戻ることを指しています。例：After struggling with addiction, he's trying to get his life back on track. (依存症に苦しんだ後、彼は人生を軌道に乗せようとしています。)"
+      "explanation": "「get one's life back on track」は、人生を軌道に乗せる、元の状態に戻すという意味です。ここでは、カフェイン依存の問題（だとSheldonが思っている）から立ち直り、元の生活に戻ることを指しています。例：After struggling with addiction, he's trying to get his life back on track. (依存症に苦しんだ後、彼は人生を軌道に乗せようとしています。)",
+      "etymology": "「get one's life back on track」は、脱線したものを軌道（track）に戻すように、人生を立て直すという意味から来ています。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Uh, you’re really going to have caffeine in front of me when I’m trying to get my life back on track?",
+      "scriptContextTranslation": "Sheldon: 僕が人生を立て直そうとしてる時に、君は僕の前でカフェインを摂取するのか？"
     },
     {
       "id": 66,
@@ -790,7 +1050,11 @@
         "批判する"
       ],
       "correctAnswer": "熱中する",
-      "explanation": "「throw oneself into」は、何かに熱中する、没頭するという意味です。ここでは、仕事に打ち込むことでカフェインの問題から気を紛らわせるという提案がされています。例：She threw herself into her work after the breakup. (彼女は別れの後に仕事に没頭しました。)"
+      "explanation": "「throw oneself into」は、何かに熱中する、没頭するという意味です。ここでは、仕事に打ち込むことでカフェインの問題から気を紛らわせるという提案がされています。例：She threw herself into her work after the breakup. (彼女は別れの後に仕事に没頭しました。)",
+      "etymology": "「throw oneself into」は、身を投げるように、何かに熱中するという意味合いから来ています。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 67,
@@ -802,7 +1066,11 @@
         "見ていて感動する"
       ],
       "correctAnswer": "見ていてつらい",
-      "explanation": "「painful to watch」は、見ていてつらい、見ていられないという意味です。ここでは、SheldonとLeonardのぎこちないやり取りを見て、Howardがつらいと感じていることを表しています。例：It was painful to watch him struggle with the difficult task. (彼が困難なタスクに苦労しているのを見るのはつらかった。)"
+      "explanation": "「painful to watch」は、見ていてつらい、見ていられないという意味です。ここでは、SheldonとLeonardのぎこちないやり取りを見て、Howardがつらいと感じていることを表しています。例：It was painful to watch him struggle with the difficult task. (彼が困難なタスクに苦労しているのを見るのはつらかった。)",
+      "etymology": "「painful to watch」は、見ているのが苦痛である、つらいという意味合いから来ています。",
+      "pronounciation": "",
+      "scriptContext": "Howard: That was painful to watch.",
+      "scriptContextTranslation": "Howard: 見てて辛かった。"
     },
     {
       "id": 68,
@@ -814,7 +1082,11 @@
         "犯罪を繰り返す二人組"
       ],
       "correctAnswer": "冒険好きな二人組",
-      "explanation": "「Thelma and Louise」は、1991年のアメリカ映画のタイトルで、自由を求めて旅に出る女性二人組を描いた作品です。ここでは、RajとBernadetteがどこへ行くかも決めずに車で出かける様子を、映画になぞらえて表現しています。例：They decided to take a road trip, feeling like Thelma and Louise. (彼らはロードトリップに出かけることに決め、まるでテルマ&ルイーズのような気分だった。)"
+      "explanation": "「Thelma and Louise」は、1991年のアメリカ映画のタイトルで、自由を求めて旅に出る女性二人組を描いた作品です。ここでは、RajとBernadetteがどこへ行くかも決めずに車で出かける様子を、映画になぞらえて表現しています。例：They decided to take a road trip, feeling like Thelma and Louise. (彼らはロードトリップに出かけることに決め、まるでテルマ&ルイーズのような気分だった。)",
+      "etymology": "「Thelma and Louise」は、映画のタイトルであり、自由を求めて旅に出る女性二人組の象徴として使われます。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Okay. How Thelma and Louise of us.",
+      "scriptContextTranslation": "Raj: オーケー。まるでテルマ＆ルイーズだね。"
     },
     {
       "id": 69,
@@ -826,7 +1098,11 @@
         "否定される"
       ],
       "correctAnswer": "心に浮かぶ",
-      "explanation": "「spring to mind」は、ふと心に浮かぶ、思い浮かぶという意味です。ここでは、Bernadetteが子供の頃に見ていた犯罪現場の写真が、彼女の育児に対する不安の原因としてRajの頭に浮かんだことを表しています。例：The first thing that springs to mind when I think of summer is the beach. (夏と聞いて最初に思い浮かぶのはビーチです。)"
+      "explanation": "「spring to mind」は、ふと心に浮かぶ、思い浮かぶという意味です。ここでは、Bernadetteが子供の頃に見ていた犯罪現場の写真が、彼女の育児に対する不安の原因としてRajの頭に浮かんだことを表しています。例：The first thing that springs to mind when I think of summer is the beach. (夏と聞いて最初に思い浮かぶのはビーチです。)",
+      "etymology": "「spring to mind」は、泉が湧き出るように、ふと心に浮かぶという意味合いから来ています。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Well, crime-scene photos near your crib spring to mind.",
+      "scriptContextTranslation": "Raj: うーん、あなたのベビーベッドの近くにあった殺人現場写真が頭に浮かぶけど。"
     },
     {
       "id": 70,
@@ -838,7 +1114,11 @@
         "現実的思考"
       ],
       "correctAnswer": "考えすぎ",
-      "explanation": "「overthinking」は、考えすぎること、考えすぎる傾向があることを指します。ここでは、Bernadetteが母親になることについて深く考えすぎていることを表しています。例：I tend to overthink things when I'm stressed. (ストレスを感じると、私は物事を考えすぎる傾向があります。)"
+      "explanation": "「overthinking」は、考えすぎること、考えすぎる傾向があることを指します。ここでは、Bernadetteが母親になることについて深く考えすぎていることを表しています。例：I tend to overthink things when I'm stressed. (ストレスを感じると、私は物事を考えすぎる傾向があります。)",
+      "etymology": "「overthinking」は、考えすぎる（over think）こと、考えすぎる傾向があることを指します。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Bernadette, come on, look, you’re overthinking this, okay? You’re gonna be an amazing mom. Even if you don’t believe it, I know you have maternal instincts.",
+      "scriptContextTranslation": "Raj: バーナデット、頼むから、考えすぎだよ。あなたは素晴らしい母親になるよ。たとえそう信じなくても、あなたには母性本能があるって僕は知ってる。"
     },
     {
       "id": 71,
@@ -850,7 +1130,11 @@
         "利己心"
       ],
       "correctAnswer": "母性本能",
-      "explanation": "「maternal instincts」は、母性本能、母親としての本能的な感情や行動を指します。ここでは、Bernadetteが自分に母性本能があるかどうか不安に思っていることを表しています。例：She has strong maternal instincts and loves taking care of children. (彼女は強い母性本能を持っており、子供の世話をするのが大好きです。)"
+      "explanation": "「maternal instincts」は、母性本能、母親としての本能的な感情や行動を指します。ここでは、Bernadetteが自分に母性本能があるかどうか不安に思っていることを表しています。例：She has strong maternal instincts and loves taking care of children. (彼女は強い母性本能を持っており、子供の世話をするのが大好きです。)",
+      "etymology": "「maternal instincts」は、母親（maternal）としての本能的な感情や行動を指します。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Bernadette, come on, look, you’re overthinking this, okay? You’re gonna be an amazing mom. Even if you don’t believe it, I know you have maternal instincts.",
+      "scriptContextTranslation": "Raj: バーナデット、頼むから、考えすぎだよ。あなたは素晴らしい母親になるよ。たとえそう信じなくても、あなたには母性本能があるって僕は知ってる。"
     },
     {
       "id": 72,
@@ -862,7 +1146,11 @@
         "飢餓"
       ],
       "correctAnswer": "栄養満点",
-      "explanation": "「well-fed」は、栄養満点である、十分に食べさせられているという意味です。ここでは、Bernadetteの兄弟たちがクリケットを食べて幸せそうにしていたことを肯定的に解釈しています。例：The animals at the zoo are well-fed and healthy. (動物園の動物たちは栄養満点で健康です。)"
+      "explanation": "「well-fed」は、栄養満点である、十分に食べさせられているという意味です。ここでは、Bernadetteの兄弟たちがクリケットを食べて幸せそうにしていたことを肯定的に解釈しています。例：The animals at the zoo are well-fed and healthy. (動物園の動物たちは栄養満点で健康です。)",
+      "etymology": "「well-fed」は、十分に（well）食べさせられている、栄養状態が良いという意味です。",
+      "pronounciation": "/ˌwel ˈfed/",
+      "scriptContext": "Raj: Happy and well-fed. You see, that’s what I’m taking from that story.",
+      "scriptContextTranslation": "Raj: 幸せそうで、お腹も満たされてたんだね。つまり、僕はその話からそう受け取ったよ。"
     },
     {
       "id": 73,
@@ -874,7 +1162,11 @@
         "無臭"
       ],
       "correctAnswer": "悪い匂い",
-      "explanation": "「stink」は、臭い、ひどい、嫌だという意味のスラングです。ここでは、カフェインが切れてイライラしているSheldonが、周りの人を罵倒する際に使っています。例：This whole situation stinks! (この状況全体が最悪だ！)"
+      "explanation": "「stink」は、臭い、ひどい、嫌だという意味のスラングです。ここでは、カフェインが切れてイライラしているSheldonが、周りの人を罵倒する際に使っています。例：This whole situation stinks! (この状況全体が最悪だ！)",
+      "etymology": "古英語の「stencan」（臭いを放つ）に由来し、ひどく嫌な臭いや状況を指します。",
+      "pronounciation": "/stɪŋk/",
+      "scriptContext": "Sheldon: You guys stink.",
+      "scriptContextTranslation": "Sheldon: 君たち、臭いな。"
     },
     {
       "id": 74,
@@ -886,7 +1178,11 @@
         "停止"
       ],
       "correctAnswer": "順調",
-      "explanation": "「on track」は、順調に進んでいる、軌道に乗っているという意味です。計画や目標に向かって順調に進んでいる状態を表します。例：The project is on track to be completed by the end of the month. (プロジェクトは月末までに完了する予定で、順調に進んでいます。)"
+      "explanation": "「on track」は、順調に進んでいる、軌道に乗っているという意味です。計画や目標に向かって順調に進んでいる状態を表します。例：The project is on track to be completed by the end of the month. (プロジェクトは月末までに完了する予定で、順調に進んでいます。)",
+      "etymology": "「on track」は、列車が線路（track）の上を順調に進んでいるように、計画や目標が順調に進んでいる状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Uh, you’re really going to have caffeine in front of me when I’m trying to get my life back on track?",
+      "scriptContextTranslation": "Sheldon: 僕が人生を立て直そうとしてる時に、君は僕の前でカフェインを摂取するのか？"
     },
     {
       "id": 75,
@@ -898,7 +1194,11 @@
         "家族写真"
       ],
       "correctAnswer": "犯罪現場写真",
-      "explanation": "「crime-scene photos」は、犯罪現場写真のことです。Bernadetteの子供部屋に飾られていたという設定で、彼女の育児に対する不安の背景にあるものとして言及されています。例：The detective examined the crime-scene photos carefully. (刑事は犯罪現場の写真を注意深く調べた。)"
+      "explanation": "「crime-scene photos」は、犯罪現場写真のことです。Bernadetteの子供部屋に飾られていたという設定で、彼女の育児に対する不安の背景にあるものとして言及されています。例：The detective examined the crime-scene photos carefully. (刑事は犯罪現場の写真を注意深く調べた。)",
+      "etymology": "「crime-scene photos」は、犯罪（crime）が発生した現場（scene）を記録した写真です。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Well, crime-scene photos near your crib spring to mind.",
+      "scriptContextTranslation": "Raj: うーん、あなたのベビーベッドの近くにあった殺人現場写真が頭に浮かぶけど。"
     },
     {
       "id": 76,
@@ -910,7 +1210,11 @@
         "点対称"
       ],
       "correctAnswer": "回転対象",
-      "explanation": "「rotational symmetries」とは、ある図形を回転させたときに、元の図形と完全に一致する性質のことです。物理学や数学でよく用いられ、特に結晶構造や分子構造の解析に使われます。例えば、正三角形は120度回転させると元の形に戻るので、回転対称性を持つと言えます。"
+      "explanation": "「rotational symmetries」とは、ある図形を回転させたときに、元の図形と完全に一致する性質のことです。物理学や数学でよく用いられ、特に結晶構造や分子構造の解析に使われます。例えば、正三角形は120度回転させると元の形に戻るので、回転対称性を持つと言えます。",
+      "etymology": "「rotational symmetries」とは、回転（rotational）させたときに形が変わらない対称性（symmetries）のことです。",
+      "pronounciation": "/roʊˈteɪʃənəl ˈsɪməˌtriz/",
+      "scriptContext": "Leonard: Is it about the rotational symmetries you should be figuring out or your fake caffeine problem?",
+      "scriptContextTranslation": "Leonard: 今解くべき回転対称性の問題か、それとも作り物のカフェイン中毒のことか？"
     },
     {
       "id": 77,
@@ -922,7 +1226,11 @@
         "我慢する"
       ],
       "correctAnswer": "徐々に減らす",
-      "explanation": "「wean off」は、何か（習慣、薬など）を徐々に減らしていく、または止めるという意味です。特に、依存性のあるものを減らす際に使われます。子供の離乳にも使われます。例文：I'm trying to wean myself off coffee. (コーヒーを徐々に減らそうとしています。)"
+      "explanation": "「wean off」は、何か（習慣、薬など）を徐々に減らしていく、または止めるという意味です。特に、依存性のあるものを減らす際に使われます。子供の離乳にも使われます。例文：I'm trying to wean myself off coffee. (コーヒーを徐々に減らそうとしています。)",
+      "etymology": "「wean off」とは、徐々に（wean）何かを止めるという意味です。元々は乳離れの意味で使われていました。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: All right, I’ll just toss this out to the room. Um, I was thinking that the best way to fight my addiction is by weaning myself off in steps. Now, I couldn’t find a caffeine patch, but I did find what claims to be a mind-boosting caffeine suppository. You know, the interesting fact about the rectum…",
+      "scriptContextTranslation": "Sheldon: わかった、じゃあみんなに聞くよ。ええと、中毒と戦うには段階的に量を減らすのが一番だと思ったんだ。カフェインパッチは見つからなかったけど、頭が良くなるというカフェイン坐薬を見つけた。直腸についての興味深い事実は…"
     },
     {
       "id": 78,
@@ -934,7 +1242,11 @@
         "注射"
       ],
       "correctAnswer": "座薬",
-      "explanation": "「suppository」は、体腔（直腸、膣など）に挿入して使用する薬の剤形です。経口投与が難しい場合や、局所的な効果を期待する場合に使用されます。例文：The doctor prescribed a suppository for the fever. (医者は熱のために座薬を処方した。)"
+      "explanation": "「suppository」は、体腔（直腸、膣など）に挿入して使用する薬の剤形です。経口投与が難しい場合や、局所的な効果を期待する場合に使用されます。例文：The doctor prescribed a suppository for the fever. (医者は熱のために座薬を処方した。)",
+      "etymology": "ラテン語の「supponere」（下に置く）に由来し、体内に挿入して使用する薬の剤形を指します。",
+      "pronounciation": "/səˈpɑːzɪtɔːri/",
+      "scriptContext": "Sheldon: All right, I’ll just toss this out to the room. Um, I was thinking that the best way to fight my addiction is by weaning myself off in steps. Now, I couldn’t find a caffeine patch, but I did find what claims to be a mind-boosting caffeine suppository. You know, the interesting fact about the rectum…",
+      "scriptContextTranslation": "Sheldon: わかった、じゃあみんなに聞くよ。ええと、中毒と戦うには段階的に量を減らすのが一番だと思ったんだ。カフェインパッチは見つからなかったけど、頭が良くなるというカフェイン坐薬を見つけた。直腸についての興味深い事実は…"
     },
     {
       "id": 79,
@@ -946,7 +1258,11 @@
         "噴霧器"
       ],
       "correctAnswer": "簡易塗布器",
-      "explanation": "「easy-glide applicator」は、滑らかに挿入できるように設計された塗布器のことです。主に医薬品や化粧品で使用され、スムーズな使用感を目的としています。性交時にも使用されることがあります。"
+      "explanation": "「easy-glide applicator」は、滑らかに挿入できるように設計された塗布器のことです。主に医薬品や化粧品で使用され、スムーズな使用感を目的としています。性交時にも使用されることがあります。",
+      "etymology": "「easy-glide applicator」とは、簡単に（easy）滑る（glide）ように塗布（applicator）できる器具のことです。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: You don’t shove them. They come with an easy-glide applicator.",
+      "scriptContextTranslation": "Sheldon: 突っ込むんじゃない。簡単に挿入できるアプリケーターが付いてるんだ。"
     },
     {
       "id": 80,
@@ -958,7 +1274,11 @@
         "休憩する"
       ],
       "correctAnswer": "頭を悩ませる",
-      "explanation": "「rack one's brain」は、懸命に考える、頭を絞るという意味のイディオムです。難問を解決しようと必死に努力する状況を表します。例文：I've been racking my brain trying to remember his name. (彼の名前を思い出そうとずっと頭を悩ませている。)"
+      "explanation": "「rack one's brain」は、懸命に考える、頭を絞るという意味のイディオムです。難問を解決しようと必死に努力する状況を表します。例文：I've been racking my brain trying to remember his name. (彼の名前を思い出そうとずっと頭を悩ませている。)",
+      "etymology": "「rack one's brain」とは、脳を酷使するイメージから、懸命に考えるという意味になったイディオムです。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: No, I can’t figure out the math. I’ve been racking my brain for days, and I’ve got nothing.",
+      "scriptContextTranslation": "Sheldon: ダメだ、数学が解けない。何日も頭を悩ませてるのに、何も思いつかないんだ。"
     },
     {
       "id": 81,
@@ -970,7 +1290,11 @@
         "利用する"
       ],
       "correctAnswer": "当然のことと思う",
-      "explanation": "「take (someone) for granted」は、人や物を当然のことと思って感謝しない、という意味のイディオムです。「granite」と「granted」をかけたジョークとして使われています。例文：I never take my family for granted.（家族を当然だとは思わない。）"
+      "explanation": "「take (someone) for granted」は、人や物を当然のことと思って感謝しない、という意味のイディオムです。「granite」と「granted」をかけたジョークとして使われています。例文：I never take my family for granted.（家族を当然だとは思わない。）",
+      "etymology": "「take (someone) for granted（当然のことと思う）」と「granite（御影石）」の語呂合わせで、感謝を忘れることを皮肉った表現です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 82,
@@ -982,7 +1306,11 @@
         "助ける"
       ],
       "correctAnswer": "密告する",
-      "explanation": "「rat someone out」は、誰かを告げ口する、密告するという意味のスラングです。特に、秘密や悪事を暴露する際に使われます。例文：He ratted me out to the teacher. (彼は先生に僕のことを密告した。)"
+      "explanation": "「rat someone out」は、誰かを告げ口する、密告するという意味のスラングです。特に、秘密や悪事を暴露する際に使われます。例文：He ratted me out to the teacher. (彼は先生に僕のことを密告した。)",
+      "etymology": "「rat someone out」とは、ネズミ（rat）が巣穴を暴露するように、秘密を暴露するという意味のスラングです。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 83,
@@ -994,7 +1322,11 @@
         "医者"
       ],
       "correctAnswer": "密告者",
-      "explanation": "「snitch」は、密告者、チクリ屋という意味です。人を告げ口する人を指す軽蔑的な言葉です。例文：Nobody likes a snitch. (誰も密告者を好まない。)"
+      "explanation": "「snitch」は、密告者、チクリ屋という意味です。人を告げ口する人を指す軽蔑的な言葉です。例文：Nobody likes a snitch. (誰も密告者を好まない。)",
+      "etymology": "語源は不明ですが、おそらく「snatch」（ひったくる）に関連し、秘密を盗み出すように暴露する人を指すようになったと考えられます。",
+      "pronounciation": "/snɪtʃ/",
+      "scriptContext": "Bernadette: What? Why? Who are you calling? You’re gonna rat me out to Howard, aren’t you? You’re such a snitch, no wonder I don’t like you.",
+      "scriptContextTranslation": "Bernadette: 何？どうして？誰に電話するの？ハワードに告げ口するつもりでしょ？密告者ね。嫌いなわけだわ。"
     },
     {
       "id": 84,
@@ -1006,7 +1338,11 @@
         "嫉妬する"
       ],
       "correctAnswer": "甘やかす",
-      "explanation": "「dote on」は、溺愛する、甘やかすという意味です。特に愛情を込めて世話をする様子を表します。例文：She dotes on her grandchildren. (彼女は孫たちを溺愛している。)"
+      "explanation": "「dote on」は、溺愛する、甘やかすという意味です。特に愛情を込めて世話をする様子を表します。例文：She dotes on her grandchildren. (彼女は孫たちを溺愛している。)",
+      "etymology": "「dote on」とは、愛情を注ぐという意味で、特に子供やペットなどに対して深い愛情をかける様子を表します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 85,
@@ -1018,7 +1354,11 @@
         "退屈した"
       ],
       "correctAnswer": "興奮した",
-      "explanation": "「thrilled」は、非常に興奮した、わくわくしたという意味です。強い喜びや期待感を伴う感情を表します。例文：I was thrilled to hear the news. (そのニュースを聞いてとても興奮した。)"
+      "explanation": "「thrilled」は、非常に興奮した、わくわくしたという意味です。強い喜びや期待感を伴う感情を表します。例文：I was thrilled to hear the news. (そのニュースを聞いてとても興奮した。)",
+      "etymology": "古英語の「þryllan」（穴を開ける、貫く）に由来し、感情が心を貫くように、非常に興奮した状態を表します。",
+      "pronounciation": "/θrɪld/",
+      "scriptContext": "Dr Koothrapalli: Oh, being excited isn’t a guarantee of anything. Rajesh’s mother was thrilled when she was pregnant with him. After he was born, she doted on his every move. And you know what happened? He broke her heart, moved halfway around the world, and dates only poor white women. So you never know.",
+      "scriptContextTranslation": "Dr Koothrapalli: ああ、ワクワクすることが何かを保証するわけではない。ラジェシュの母親は彼を妊娠した時、とても喜んでいた。生まれた後、彼のすべての行動を溺愛した。そしてどうなったか知ってるか？彼は母親の心を傷つけ、地球の裏側へ引っ越し、貧乏な白人女性とばかり付き合っている。だから、わからないものだ。"
     },
     {
       "id": 86,
@@ -1030,7 +1370,11 @@
         "世界のどこでも"
       ],
       "correctAnswer": "世界の半分",
-      "explanation": "「halfway around the world」は、地球の反対側、世界の果てまでという意味です。非常に遠い場所を指す際に用いられます。例文: He moved halfway around the world to start a new life.(彼は新しい生活を始めるために世界の果てへ引っ越した。)"
+      "explanation": "「halfway around the world」は、地球の反対側、世界の果てまでという意味です。非常に遠い場所を指す際に用いられます。例文: He moved halfway around the world to start a new life.(彼は新しい生活を始めるために世界の果てへ引っ越した。)",
+      "etymology": "「halfway around the world」とは、地球を半周するほどの距離を指し、非常に遠い場所を意味します。",
+      "pronounciation": "",
+      "scriptContext": "Dr Koothrapalli: Oh, being excited isn’t a guarantee of anything. Rajesh’s mother was thrilled when she was pregnant with him. After he was born, she doted on his every move. And you know what happened? He broke her heart, moved halfway around the world, and dates only poor white women. So you never know.",
+      "scriptContextTranslation": "Dr Koothrapalli: ああ、ワクワクすることが何かを保証するわけではない。ラジェシュの母親は彼を妊娠した時、とても喜んでいた。生まれた後、彼のすべての行動を溺愛した。そしてどうなったか知ってるか？彼は母親の心を傷つけ、地球の裏側へ引っ越し、貧乏な白人女性とばかり付き合っている。だから、わからないものだ。"
     },
     {
       "id": 87,
@@ -1042,7 +1386,11 @@
         "効率性"
       ],
       "correctAnswer": "配置可能性",
-      "explanation": "「deployability」は、配備可能性、展開可能性という意味です。軍事用語やIT用語として使われ、迅速かつ効果的に配置・展開できる能力を指します。例文：The deployability of the new system is a key factor. (新しいシステムの配備可能性は重要な要素である。)"
+      "explanation": "「deployability」は、配備可能性、展開可能性という意味です。軍事用語やIT用語として使われ、迅速かつ効果的に配置・展開できる能力を指します。例文：The deployability of the new system is a key factor. (新しいシステムの配備可能性は重要な要素である。)",
+      "etymology": "「deployability」とは、配備（deploy）できる能力（-ability）を意味します。",
+      "pronounciation": "/dɪˌplɔɪəˈbɪləti/",
+      "scriptContext": "Sheldon: The computations required to overcome the deployability issues are more significant than we thought.",
+      "scriptContextTranslation": "Sheldon: 配備可能性の問題を克服するために必要な計算が、予想以上に複雑です。"
     },
     {
       "id": 88,
@@ -1054,7 +1402,11 @@
         "契約解除"
       ],
       "correctAnswer": "契約期間中",
-      "explanation": "「under contract」は、契約下にある、契約期間中であるという意味です。法的な義務を伴う契約を結んでいる状態を表します。例文：We are under contract to deliver the goods by Friday. (金曜日までに商品を納品する契約を結んでいる。)"
+      "explanation": "「under contract」は、契約下にある、契約期間中であるという意味です。法的な義務を伴う契約を結んでいる状態を表します。例文：We are under contract to deliver the goods by Friday. (金曜日までに商品を納品する契約を結んでいる。)",
+      "etymology": "「under contract」とは、契約（contract）の下にある、つまり契約期間中であることを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: I understand that we’re under contract, and I don’t know what the consequences of violating that are, but, uh, we’re not gonna be able to deliver in the time we promised.",
+      "scriptContextTranslation": "Leonard: 契約を結んでいることは承知していますし、違反した場合の結果はわかりませんが、約束した期間内に納品することはできません。"
     },
     {
       "id": 89,
@@ -1066,7 +1418,11 @@
         "それを隠す"
       ],
       "correctAnswer": "それを破る",
-      "explanation": "「violate」は、法律、規則、契約などを破る、違反するという意味です。例文：Violating the terms of the contract can result in penalties.(契約条件に違反すると、罰則が科せられる可能性があります。)"
+      "explanation": "「violate」は、法律、規則、契約などを破る、違反するという意味です。例文：Violating the terms of the contract can result in penalties.(契約条件に違反すると、罰則が科せられる可能性があります。)",
+      "etymology": "「violate」とは、法律や規則などを破るという意味で、ラテン語の「violare」（力ずくで扱う）に由来します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: I understand that we’re under contract, and I don’t know what the consequences of violating that are, but, uh, we’re not gonna be able to deliver in the time we promised.",
+      "scriptContextTranslation": "Leonard: 契約を結んでいることは承知していますし、違反した場合の結果はわかりませんが、約束した期間内に納品することはできません。"
     },
     {
       "id": 90,
@@ -1078,7 +1434,11 @@
         "時間を守る"
       ],
       "correctAnswer": "時間通りに完了する",
-      "explanation": "「deliver on time」は、約束の時間通りに何かを達成する、完了するという意味です。ビジネスシーンでよく使われます。例文：We must deliver the project on time. (プロジェクトを時間通りに完了させなければならない。)"
+      "explanation": "「deliver on time」は、約束の時間通りに何かを達成する、完了するという意味です。ビジネスシーンでよく使われます。例文：We must deliver the project on time. (プロジェクトを時間通りに完了させなければならない。)",
+      "etymology": "「deliver on time」とは、約束の時間通りに（on time）何かを達成する、完了するという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Colonel Williams: What, you think you’re the first government contractor who isn’t gonna deliver on time? We’re still waiting for a big space laser Reagan ordered to beat the commies.",
+      "scriptContextTranslation": "Colonel Williams: なんだ、お前たちが納期に間に合わない最初の政府契約業者だと思っているのか？レーガンが共産主義者を倒すために注文した巨大宇宙レーザーをまだ待っているんだぞ。"
     },
     {
       "id": 91,
@@ -1090,7 +1450,11 @@
         "共産主義者を見捨てる"
       ],
       "correctAnswer": "共産主義者に打ち勝つ",
-      "explanation": "「beat the commies」は、共産主義者に打ち勝つという意味のスラングです。冷戦時代によく使われた表現で、特にアメリカで共産主義に対抗する姿勢を示す際に用いられました。「commies」は「communists」の略です。"
+      "explanation": "「beat the commies」は、共産主義者に打ち勝つという意味のスラングです。冷戦時代によく使われた表現で、特にアメリカで共産主義に対抗する姿勢を示す際に用いられました。「commies」は「communists」の略です。",
+      "etymology": "「beat the commies」とは、共産主義者（commies）を打ち負かすという意味で、冷戦時代によく使われた表現です。",
+      "pronounciation": "",
+      "scriptContext": "Colonel Williams: What, you think you’re the first government contractor who isn’t gonna deliver on time? We’re still waiting for a big space laser Reagan ordered to beat the commies.",
+      "scriptContextTranslation": "Colonel Williams: なんだ、お前たちが納期に間に合わない最初の政府契約業者だと思っているのか？レーガンが共産主義者を倒すために注文した巨大宇宙レーザーをまだ待っているんだぞ。"
     },
     {
       "id": 92,
@@ -1102,7 +1466,11 @@
         "プレッシャーに耐える"
       ],
       "correctAnswer": "プレッシャーが軽減された",
-      "explanation": "「pressure's off」は、プレッシャーがなくなった、肩の荷が下りたという意味です。目標達成のプレッシャーから解放された状態を表します。例文：Now that the deadline has been extended, the pressure's off. (締め切りが延長されたので、プレッシャーがなくなった。)"
+      "explanation": "「pressure's off」は、プレッシャーがなくなった、肩の荷が下りたという意味です。目標達成のプレッシャーから解放された状態を表します。例文：Now that the deadline has been extended, the pressure's off. (締め切りが延長されたので、プレッシャーがなくなった。)",
+      "etymology": "「pressure's off」とは、プレッシャー（pressure）がなくなった、解放されたという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 93,
@@ -1114,7 +1482,11 @@
         "集中力強化"
       ],
       "correctAnswer": "知力増強",
-      "explanation": "「mind-boosting」は、知力を高める、頭の働きを良くするという意味です。能力向上を謳う商品などでよく使われる表現です。例文：a mind-boosting supplement (知力増強サプリメント)"
+      "explanation": "「mind-boosting」は、知力を高める、頭の働きを良くするという意味です。能力向上を謳う商品などでよく使われる表現です。例文：a mind-boosting supplement (知力増強サプリメント)",
+      "etymology": "「mind-boosting」とは、精神（mind）を高める（boosting）、知力を増強するという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: All right, I’ll just toss this out to the room. Um, I was thinking that the best way to fight my addiction is by weaning myself off in steps. Now, I couldn’t find a caffeine patch, but I did find what claims to be a mind-boosting caffeine suppository. You know, the interesting fact about the rectum…",
+      "scriptContextTranslation": "Sheldon: わかった、じゃあみんなに聞くよ。ええと、中毒と戦うには段階的に量を減らすのが一番だと思ったんだ。カフェインパッチは見つからなかったけど、頭が良くなるというカフェイン坐薬を見つけた。直腸についての興味深い事実は…"
     },
     {
       "id": 94,
@@ -1126,7 +1498,11 @@
         "急に"
       ],
       "correctAnswer": "段階的に",
-      "explanation": "「in steps」は、段階的に、少しずつという意味です。ある目標に向かって、一歩ずつ進む様子を表します。例文：The process was completed in steps. (そのプロセスは段階的に完了した。)"
+      "explanation": "「in steps」は、段階的に、少しずつという意味です。ある目標に向かって、一歩ずつ進む様子を表します。例文：The process was completed in steps. (そのプロセスは段階的に完了した。)",
+      "etymology": "「in steps」とは、階段（steps）を一段ずつ上るように、段階的に、少しずつという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: All right, I’ll just toss this out to the room. Um, I was thinking that the best way to fight my addiction is by weaning myself off in steps. Now, I couldn’t find a caffeine patch, but I did find what claims to be a mind-boosting caffeine suppository. You know, the interesting fact about the rectum…",
+      "scriptContextTranslation": "Sheldon: わかった、じゃあみんなに聞くよ。ええと、中毒と戦うには段階的に量を減らすのが一番だと思ったんだ。カフェインパッチは見つからなかったけど、頭が良くなるというカフェイン坐薬を見つけた。直腸についての興味深い事実は…"
     },
     {
       "id": 95,
@@ -1138,7 +1514,11 @@
         "拒否する"
       ],
       "correctAnswer": "理解する",
-      "explanation": "「figure out」は、理解する、解明するという意味の句動詞です。問題や状況を分析し、解決策を見つける際に使われます。例文：I can't figure out how to solve this puzzle. (このパズルをどう解けばいいのかわからない。)"
+      "explanation": "「figure out」は、理解する、解明するという意味の句動詞です。問題や状況を分析し、解決策を見つける際に使われます。例文：I can't figure out how to solve this puzzle. (このパズルをどう解けばいいのかわからない。)",
+      "etymology": "「figure out」とは、図形（figure）を描くように、理解する、解明するという意味の句動詞です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: No, I can’t figure out the math. I’ve been racking my brain for days, and I’ve got nothing.",
+      "scriptContextTranslation": "Sheldon: ダメだ、数学が解けない。何日も頭を悩ませてるのに、何も思いつかないんだ。"
     },
     {
       "id": 96,
@@ -1150,7 +1530,11 @@
         "袋"
       ],
       "correctAnswer": "桶",
-      "explanation": "「tub」は、桶、容器という意味です。食品や液体などを入れるための円筒形の容器を指します。例文: a tub of ice cream (アイスクリームの桶)"
+      "explanation": "「tub」は、桶、容器という意味です。食品や液体などを入れるための円筒形の容器を指します。例文: a tub of ice cream (アイスクリームの桶)",
+      "etymology": "語源は不明ですが、古英語の「tubbe」に関連し、液体や食品を入れるための丸い容器を指します。",
+      "pronounciation": "/tʌb/",
+      "scriptContext": "Bert: My pleasure. You girls want to take home a two-gallon tub of potato salad?",
+      "scriptContextTranslation": "Bert: どういたしまして。ポテトサラダの7リットル入り容器を持って帰りたい？"
     },
     {
       "id": 97,
@@ -1162,7 +1546,11 @@
         "要するに"
       ],
       "correctAnswer": "ちなみに",
-      "explanation": "「By the way」は、ちなみに、ところで、という意味の副詞句です。会話の流れを変えたり、話題を転換する際に使われます。例文：By the way, did you hear about...? (ちなみに、～について聞きましたか？)"
+      "explanation": "「By the way」は、ちなみに、ところで、という意味の副詞句です。会話の流れを変えたり、話題を転換する際に使われます。例文：By the way, did you hear about...? (ちなみに、～について聞きましたか？)",
+      "etymology": "「By the way」とは、道の途中（by the way）で話題を変えるように、会話の流れを変えたり、話題を転換する際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 98,
@@ -1174,7 +1562,11 @@
         "小児科医"
       ],
       "correctAnswer": "産婦人科医",
-      "explanation": "「OBGYN」は、産婦人科医（Obstetrician-Gynecologist）の略語です。妊娠、出産、女性の生殖器に関する医療を専門とする医師を指します。例文：She went to see her OBGYN for a checkup. (彼女は検診のために産婦人科医に診てもらった。)"
+      "explanation": "「OBGYN」は、産婦人科医（Obstetrician-Gynecologist）の略語です。妊娠、出産、女性の生殖器に関する医療を専門とする医師を指します。例文：She went to see her OBGYN for a checkup. (彼女は検診のために産婦人科医に診てもらった。)",
+      "etymology": "「OBGYN」とは、産科医（Obstetrician）と婦人科医（Gynecologist）を組み合わせた略語です。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Whoa, I’m calling my dad, okay? He’s got experience dealing with pregnant ladies because he’s an OBGYN. And experience with crazy ladies because of my mom.",
+      "scriptContextTranslation": "Raj: ちょっと待って、父に電話してるんだ、いい？父は産婦人科医だから、妊娠中の女性の扱いに慣れてるんだ。それに、母のおかげでクレイジーな女性の扱いにも慣れてる。"
     },
     {
       "id": 99,
@@ -1186,7 +1578,11 @@
         "何をしているの？"
       ],
       "correctAnswer": "どうしたの？",
-      "explanation": "「What's up?」は、どうしたの？、何かあった？、元気？という意味のカジュアルな挨拶です。親しい間柄で使われます。例文：Hey, what's up? (やあ、どうしたの？)"
+      "explanation": "「What's up?」は、どうしたの？、何かあった？、元気？という意味のカジュアルな挨拶です。親しい間柄で使われます。例文：Hey, what's up? (やあ、どうしたの？)",
+      "etymology": "「What's up?」とは、何が起こっているの？、何かあったの？という意味で、カジュアルな挨拶として使われます。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 100,
@@ -1198,7 +1594,11 @@
         "拒否"
       ],
       "correctAnswer": "保証",
-      "explanation": "「guarantee」は、保証、約束、確約という意味です。何かが起こることを確信する、または保証する際に使われます。例文：There is no guarantee that the plan will work. (その計画がうまくいくという保証はない。)"
+      "explanation": "「guarantee」は、保証、約束、確約という意味です。何かが起こることを確信する、または保証する際に使われます。例文：There is no guarantee that the plan will work. (その計画がうまくいくという保証はない。)",
+      "etymology": "古フランス語の「garantir」（保証する）に由来し、何かが起こることを確信する、または保証するという意味です。",
+      "pronounciation": "/ˌɡærənˈtiː/",
+      "scriptContext": "Dr Koothrapalli: Oh, being excited isn’t a guarantee of anything. Rajesh’s mother was thrilled when she was pregnant with him. After he was born, she doted on his every move. And you know what happened? He broke her heart, moved halfway around the world, and dates only poor white women. So you never know.",
+      "scriptContextTranslation": "Dr Koothrapalli: ああ、ワクワクすることが何かを保証するわけではない。ラジェシュの母親は彼を妊娠した時、とても喜んでいた。生まれた後、彼のすべての行動を溺愛した。そしてどうなったか知ってるか？彼は母親の心を傷つけ、地球の裏側へ引っ越し、貧乏な白人女性とばかり付き合っている。だから、わからないものだ。"
     }
   ]
 }
