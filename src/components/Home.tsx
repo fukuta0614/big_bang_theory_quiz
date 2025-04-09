@@ -8,8 +8,16 @@ interface HomeProps {
   onStartReview: () => void;
 }
 
+// Define the structure for a single episode
+interface EpisodeInfo {
+  episode: string;
+  title: string;
+  outline: string;
+}
+
+// Update EpisodeList interface to match the new JSON structure
 interface EpisodeList {
-  [season: string]: string[];
+  [season: string]: EpisodeInfo[];
 }
 
 // Update component signature to receive new props
@@ -35,12 +43,8 @@ const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onStartRevi
     fetchEpisodeList();
   }, []);
 
-  // Removed handleStartQuiz as it's now per episode
-  // const handleStartQuiz = () => {
-  //   onStartQuiz(season, episode);
-  // };
-
-  const episodeOptions = episodeList[season] || [];
+  // Get the array of episode objects for the selected season, default to empty array if not found
+  const episodeOptions: EpisodeInfo[] = episodeList[season] || [];
 
   // Function to handle starting quiz for a specific episode
   const handleStartEpisodeQuiz = (episodeNumber: string) => {
@@ -58,7 +62,6 @@ const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onStartRevi
           value={season}
           onChange={(e) => {
             setSeason(e.target.value);
-            // setEpisode('01'); // No longer needed
           }}
         >
             {Object.keys(episodeList)
@@ -91,19 +94,20 @@ const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onStartRevi
       <div className="episode-list-container">
         <h2>シーズン {season} のエピソード</h2>
         <ul className="episode-list">
-          {episodeOptions.map((episodeTitleWithNumber, index) => {
-            const episodeNumber = String(index + 1).padStart(2, '0');
-            // Extract title (remove the leading number and space)
-            const titleMatch = episodeTitleWithNumber.match(/^\d+\s+(.*)/);
-            const episodeTitle = titleMatch ? titleMatch[1] : episodeTitleWithNumber;
+          {/* Map over the array of episode objects */}
+          {episodeOptions.map((episode) => {
             return (
-              <li key={episodeNumber} className="episode-item">
+              // Use episode.episode as the key
+              <li key={episode.episode} className="episode-item">
                 <div className="episode-info">
-                  <h3>{episodeNumber}: {episodeTitle}</h3>
-                  <p className="synopsis">あらすじは準備中です。</p> {/* Dummy Synopsis */}
+                  {/* Display episode number and title */}
+                  <h3>{episode.episode}: {episode.title}</h3>
+                  {/* Display the outline */}
+                  <p className="synopsis">{episode.outline}</p>
                 </div>
                 <button
-                  onClick={() => handleStartEpisodeQuiz(episodeNumber)}
+                  // Pass episode.episode to the handler
+                  onClick={() => handleStartEpisodeQuiz(episode.episode)}
                   className="start-quiz-button"
                 >
                   クイズ開始

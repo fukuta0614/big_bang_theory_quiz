@@ -1,253 +1,1177 @@
 {
   "01": [
-    "01 Pilot Episode",
-    "02 The Big Bran Hypothesis",
-    "03 The Fuzzy Boots Corollary",
-    "04 The Luminous Fish Effect",
-    "05 The Hamburger Postulate",
-    "06 The Middle Earth Paradigm",
-    "07 The Dumpling Paradox",
-    "08 The Grasshopper Experiment",
-    "09 The Cooper-Hofstadter Polarization",
-    "10 The Loobenfeld Decay",
-    "11 The Pancake Batter Anomaly",
-    "12 The Jerusalem Duality",
-    "13 The Bat Jar Conjecture",
-    "14 The Nerdvana Annihilation",
-    "15 The Porkchop Indeterminacy",
-    "16 The Peanut Reaction",
-    "17 The Tangerine Factor"
+    {
+      "episode": "01",
+      "title": "Pilot Episode",
+      "outline": "高IQの精子バンクへ行ったオタクな科学者コンビが、隣に引っ越してきた魅力的な女性ペニーと出会い、彼女の元カレからテレビを取り返す騒動に巻き込まれる。"
+    },
+    {
+      "episode": "02",
+      "title": "The Big Bran Hypothesis",
+      "outline": "レナードとシェルドンは、隣人ペニーの家具組み立てを手伝うことになり、騒動を起こしながらも彼女との関係を深める。"
+    },
+    {
+      "episode": "03",
+      "title": "The Fuzzy Boots Corollary",
+      "outline": "レナードはペニーとのデートを試みるも、うまくいかず、代わりにシェルドンに勧められた同僚のレスリーとキスをする実験をするが、感情が動かず、最終的にペニーとの夕食でリバウンドを避けたいという気持ちを知り、デートではないと強調する。"
+    },
+    {
+      "episode": "04",
+      "title": "The Luminous Fish Effect",
+      "outline": "解雇されたシェルドンは、母親の介入で仕事に復帰するまで、奇妙な趣味に没頭する。"
+    },
+    {
+      "episode": "05",
+      "title": "The Hamburger Postulate",
+      "outline": "レナードは同僚のレスリーと一夜を共にするが、関係はセックスのみと割り切られ、ペニーへの未練を感じつつも友情を育む。"
+    },
+    {
+      "episode": "06",
+      "title": "The Middle Earth Paradigm",
+      "outline": "ハロウィーンパーティーで、レナードはペニーの元カレに立ち向かおうとするが、失敗し、最終的にペニーとキスをする一方、ラージは女性と話せるようになる。"
+    },
+    {
+      "episode": "07",
+      "title": "The Dumpling Paradox",
+      "outline": "ペニーの友人クリスティの出現で、ハロナイトのゲーム仲間との結束が乱れ、シェルドンはゲームを維持するために奔走する。"
+    },
+    {
+      "episode": "08",
+      "title": "The Grasshopper Experiment",
+      "outline": "ラージは両親から見合い結婚を勧められるが、お酒の力を借りて出会った女性とのデートはうまくいかず、最終的にはシェルドンがその女性と食事に行くことになる。"
+    },
+    {
+      "episode": "09",
+      "title": "The Cooper-Hofstadter Polarization",
+      "outline": "レナードとシェルドンは超固体に関する共同研究の発表を巡って対立し、最終的に学会で喧嘩になるが、その様子がYouTubeにアップロードされ、世界中で話題になる。"
+    },
+    {
+      "episode": "10",
+      "title": "The Loobenfeld Decay",
+      "outline": "ペニーの舞台を避けるためにレナードが嘘をつき、それを隠そうとシェルドンがさらに複雑な嘘を重ねるが、最終的には偽のいとこまで登場する騒動を描く。"
+    },
+    {
+      "episode": "11",
+      "title": "The Pancake Batter Anomaly",
+      "outline": "シェルドンが風邪をひき、ペニーに看病を頼むが、最終的にはレナードも巻き込まれてしまう。"
+    },
+    {
+      "episode": "12",
+      "title": "The Jerusalem Duality",
+      "outline": "天才少年物理学者が現れ、シェルドンが自分の研究の価値を疑い、他の分野で自分の居場所を見つけようとするが、最終的にはその少年が女の子に夢中になって物理学から離れ、シェルドンは元の自分に戻る。"
+    },
+    {
+      "episode": "13",
+      "title": "The Bat Jar Conjecture",
+      "outline": "シェルドンが物理学のボウル大会でチームプレイを拒否したため、レナードのチームはライバルのレスリー・ウィンクルを加えて勝利する。"
+    },
+    {
+      "episode": "14",
+      "title": "The Nerdvana Annihilation",
+      "outline": "レナードたちが映画の小道具であるタイムマシンを手に入れたものの、そのせいでペニーとの関係に悩み、最終的にはタイムマシンを手放そうとするが、タイムマシンがもたらす仲間との絆と自身のアイデンティティに気づく。"
+    },
+    {
+      "episode": "15",
+      "title": "The Porkchop Indeterminacy",
+      "outline": "シェルドンの双子の妹ミッシーが訪れ、レナード、ハワード、ラージが彼女の気を引こうと競い合い、シェルドンは妹の遺伝子を守ろうと奮闘する。"
+    },
+    {
+      "episode": "16",
+      "title": "The Peanut Reaction",
+      "outline": "ペニーが、レナードに内緒で誕生日パーティーを企画するが、ハワードのピーナッツアレルギー騒動やシェルドンのプレゼント選びでの騒動が起こり、パーティーはめちゃくちゃになるものの、最終的にはレナードはペニーからのキスで満足する。"
+    },
+    {
+      "episode": "17",
+      "title": "The Tangerine Factor",
+      "outline": "失恋したペニーを慰めたレナードは、彼女とデートすることになるが、シェルドンは量子物理学の思考実験を用いて二人の関係の可能性についてアドバイスする。"
+    }
   ],
   "02": [
-    "01 The Bad Fish Paradigm",
-    "02 The Codpiece Topology",
-    "03 The Barbarian Sublimation",
-    "04 The Griffin Equivalency",
-    "05 The Euclid Alternative",
-    "06 The Cooper-Nowitzki Theorem",
-    "07 The Panty Pinata Polarization",
-    "08 The Lizard-Spock Expansion",
-    "09 The White Asparagus Triangulation",
-    "10 The Vartabedian Conundrum",
-    "11 The Bath Item Gift Hypothesis",
-    "12 The Killer Robot Instability",
-    "13 The Friendship Algorithm",
-    "14 The Financial Permeability",
-    "15 The Maternal Capacitance",
-    "16 The Cushion Saturation",
-    "17 The Terminator Decoupling",
-    "18 The Work Song Nanocluster",
-    "19 The Dead Hooker Juxtaposition",
-    "20 The Hofstadter Isotope",
-    "21 The Vegas Renormalization",
-    "22 The Classified Materials Turbulence",
-    "23 The Monopolar Expedition"
+    {
+      "episode": "01",
+      "title": "The Bad Fish Paradigm",
+      "outline": "レナードとペニーの最初のデート後、ペニーが関係をゆっくり進めたいと言い、レナードは自分が魅力に欠けるのではないかと心配し、一方、シェルドンはペニーの秘密を守ることができずに友人たちとの間に混乱を引き起こす。"
+    },
+    {
+      "episode": "02",
+      "title": "The Codpiece Topology",
+      "outline": "レナードがペニーとの破局後、同僚のレスリーとデートを始めるが、シェルドンの邪魔や理論物理学の対立により、関係はうまくいかない。"
+    },
+    {
+      "episode": "03",
+      "title": "The Barbarian Sublimation",
+      "outline": "ペニーがオンラインゲームに夢中になり、シェルドンは彼女をゲームから引き離そうと奇妙な方法を試みる。"
+    },
+    {
+      "episode": "04",
+      "title": "The Griffin Equivalency",
+      "outline": "ラージが雑誌に取り上げられたことで一時的に有名になり、友人関係やペニーとの関係に変化が生じるが、最終的には元の状態に戻る。"
+    },
+    {
+      "episode": "05",
+      "title": "The Euclid Alternative",
+      "outline": "シェルドンが運転免許取得を拒否し、代わりに様々な手段で移動しようとするが失敗し、最終的に大学に住み着く羽目になる。"
+    },
+    {
+      "episode": "06",
+      "title": "The Cooper-Nowitzki Theorem",
+      "outline": "理論物理学者のシェルドンは、自分に夢中になった大学院生ラモナの献身的なサポートを受けるが、彼女が自分の研究成果を共同名義にしようとしたとき、関係を終わらせる。"
+    },
+    {
+      "episode": "07",
+      "title": "The Panty Pinata Polarization",
+      "outline": "シェルドンとペニーが些細なことで争い、エスカレートしていくが、最終的にはシェルドンが謝罪し、仲直りする。"
+    },
+    {
+      "episode": "08",
+      "title": "The Lizard-Spock Expansion",
+      "outline": "シェルドンが提案した変則的な「ロック・ペーパー・シザーズ・リザード・スポック」で映画の選択を争う中、ハワードは女性をナンパするための奇抜な作戦を実行し、火星探査機を巻き込んだ騒動に発展する。"
+    },
+    {
+      "episode": "09",
+      "title": "The White Asparagus Triangulation",
+      "outline": "シェルドンがレナードの恋愛を不器用に手助けしようとするが、最終的にはレナードとステファニーの関係を深めることになる。"
+    },
+    {
+      "episode": "10",
+      "title": "The Vartabedian Conundrum",
+      "outline": "レナードが恋人ステファニーとの同棲生活に戸惑い、解消を試みる一方で、シェルドンは自身の体調不良をステファニーに診てもらおうと騒動を起こす。"
+    },
+    {
+      "episode": "11",
+      "title": "The Bath Item Gift Hypothesis",
+      "outline": "レナードが新しい友人デビッドに嫉妬し、シェルドンはペニーからの予期せぬクリスマスプレゼントに困惑する。"
+    },
+    {
+      "episode": "12",
+      "title": "The Killer Robot Instability",
+      "outline": "工学オタクの仲間たちが作った殺人ロボットが、ペニーを驚かせ、ハワードの感情を傷つけ、ライバルのロボットとの戦いで破壊される。"
+    },
+    {
+      "episode": "13",
+      "title": "The Friendship Algorithm",
+      "outline": "シェルドンが科学計算のために必要なコンピューターの利用許可を得ようと、苦手な社交性を発揮して同僚のクリプキと友達になろうとするが、最終的には失敗に終わる。"
+    },
+    {
+      "episode": "14",
+      "title": "The Financial Permeability",
+      "outline": "シェルドンがペニーにお金を貸したことで、ペニーの経済的な問題が明らかになり、レオナルドはペニーを助けようとするが、最終的にはペニーの元彼が彼女に借金を返済し、レオナルドは屈辱を受ける。"
+    },
+    {
+      "episode": "15",
+      "title": "The Maternal Capacitance",
+      "outline": "レナードの母親が訪問し、レナードとペニーの関係や、シェルドンとの奇妙な親近感が描かれる。"
+    },
+    {
+      "episode": "16",
+      "title": "The Cushion Saturation",
+      "outline": "シェルドンの指定席のクッションがペニーによって汚され、ハワードは研究資金と引き換えにレスリーと関係を持つ一方で、ペイントボールゲームで復讐と混乱が巻き起こる。"
+    },
+    {
+      "episode": "17",
+      "title": "The Terminator Decoupling",
+      "outline": "レナードとシェルドンたちは、学術会議へ行くために列車に乗るが、シェルドンがフラッシュドライブを忘れたことに気づき、ペニーに部屋から探して送ってもらう騒動が起きる一方、ハワードとラージは列車に乗り合わせた女優のサマー・グローを口説こうと奮闘する。"
+    },
+    {
+      "episode": "18",
+      "title": "The Work Song Nanocluster",
+      "outline": "ペニーが手作りのヘアアクセサリービジネスを始め、シェルドンが効率化を手伝ううちに、友人たちも巻き込んで大量の注文をこなすことになるが、無理がたたって最後は疲弊する。"
+    },
+    {
+      "episode": "19",
+      "title": "The Dead Hooker Juxtaposition",
+      "outline": "引っ越してきた美人の隣人にレナードたちが夢中になり、ペニーが嫉妬して対立するが、隣人はすぐに別の男性と関係を持つ。"
+    },
+    {
+      "episode": "20",
+      "title": "The Hofstadter Isotope",
+      "outline": "「何でもありの木曜日」に、レナードたちはコミックストアへ行くが、ペニーはそこで出会ったスチュアートと親しくなり、レナードは嫉妬する。"
+    },
+    {
+      "episode": "21",
+      "title": "The Vegas Renormalization",
+      "outline": "失恋したハワードを慰めるため、レオナルドとラージはラスベガスへ行くが、その間、シェルドンはペニーの家に泊まり、彼女との交流を通して友情を深める。"
+    },
+    {
+      "episode": "22",
+      "title": "The Classified Materials Turbulence",
+      "outline": "ハワードが宇宙ステーションに設置したトイレが故障する危機と、レナードがペニーとのデートを邪魔しようとしたことが交錯するコメディ。"
+    },
+    {
+      "episode": "23",
+      "title": "The Monopolar Expedition",
+      "outline": "シェルドンが北極での磁気単極子探査に参加することになり、レナード、ハワード、ラージも同行するが、レナードはペニーとの関係について悩む。"
+    }
   ],
   "03": [
-    "01 The Electric Can Opener Fluctuation",
-    "02 The Jiminy Conjecture",
-    "03 The Gothowitz Deviation",
-    "04 The Pirate Solution",
-    "05 The Creepy Candy Coating Corollary",
-    "06 The Cornhusker Vortex",
-    "07 The Guitarist Amplification",
-    "08 The Adhesive Duck Deficiency",
-    "09 The Vengeance Formulation",
-    "10 The Gorilla Experiment",
-    "11 The Maternal Congruence",
-    "12 The Psychic Vortex",
-    "13 The Bozeman Reaction",
-    "14 The Einstein Approximation",
-    "15 The Large Hadron Collision",
-    "16 The Excelsior Acquisition",
-    "17 The Precious Fragmentation",
-    "18 The Pants Alternative",
-    "19 The Wheaton Recurrence",
-    "20 The Spaghetti Catalyst",
-    "21 The Plimpton Stimulation",
-    "22 The Staircase Implementation",
-    "23 The Lunar Excitation"
+    {
+      "episode": "01",
+      "title": "The Electric Can Opener Fluctuation",
+      "outline": "北極での実験データを捏造されたシェルドンは、研究を諦めてテキサスに戻るが、友人たちの謝罪を受け入れ、恋人との時間を優先したレナードも駆けつけ、再び絆を深める。"
+    },
+    {
+      "episode": "02",
+      "title": "The Jiminy Conjecture",
+      "outline": "レナードとペニーの初めてのセックスは期待外れに終わり、一方シェルドンは昆虫の種類を巡る賭けで負けて、大切なコミックを失う。"
+    },
+    {
+      "episode": "03",
+      "title": "The Gothowitz Deviation",
+      "outline": "シェルドンがペニーの行動をチョコレートで訓練しようとする一方で、ハワードとラージはゴス文化に挑戦して失敗する。"
+    },
+    {
+      "episode": "04",
+      "title": "The Pirate Solution",
+      "outline": "ラージが研究資金を失い、国外追放の危機に瀕する中、シェルドンと協力することでビザを維持しようとするが、二人の間には摩擦が生じる。"
+    },
+    {
+      "episode": "05",
+      "title": "The Creepy Candy Coating Corollary",
+      "outline": "レナードはハワードのためにペニーに彼女の友人を紹介するように頼み、一方シェルドンはウィル・ウィートンとの過去の恨みを晴らすためにミスティック・ウォーロード・オブ・カ＝アーのトーナメントに参加する。"
+    },
+    {
+      "episode": "06",
+      "title": "The Cornhusker Vortex",
+      "outline": "レナードはペニーの友達に受け入れられようとフットボールを学ぼうとするが、うまくいかず、ハワードはラージとの友情を修復しようとする。"
+    },
+    {
+      "episode": "07",
+      "title": "The Guitarist Amplification",
+      "outline": "ペニーの元彼がロサンゼルスに引っ越してきてペニーのソファーで寝泊まりすることになり、レナードは嫉妬し、ペニーとの間に不和が生じる。"
+    },
+    {
+      "episode": "08",
+      "title": "The Adhesive Duck Deficiency",
+      "outline": "流星群観測に出かけたレナード、ハワード、ラージを置いてけぼりに、シャワーで肩を脱臼したペニーをシェルドンが助ける羽目になる。"
+    },
+    {
+      "episode": "09",
+      "title": "The Vengeance Formulation",
+      "outline": "ハワードはバーナデットとの関係に悩む一方、シェルドンはラジオ番組でクリプキに嫌がらせを受け、復讐を試みるが失敗に終わる。"
+    },
+    {
+      "episode": "10",
+      "title": "The Gorilla Experiment",
+      "outline": "ペニーがレナードの仕事についてもっと知りたいと思い、シェルドンに物理を教えてもらうが、その過程でシェルドンとペニーはお互いの教え方と学び方に苦労し、一方、ハワードは恋人のバーナデットがレナードの実験に興味を持つことに嫉妬する。"
+    },
+    {
+      "episode": "12",
+      "title": "The Psychic Vortex",
+      "outline": "恋人たちができたレナードとハワードはそれぞれの彼女とダブルデートに出かける一方、独り身のラージはシェルドンを誘って大学のパーティーに参加するが、レナードはペニーの占い師への信仰を馬鹿にしたことで喧嘩になってしまう。"
+    },
+    {
+      "episode": "13",
+      "title": "The Bozeman Reaction",
+      "outline": "シェルドンとレナードのアパートが泥棒に入られ、シェルドンは安全を求めてモンタナ州ボーズマンに引っ越すが、すぐにパサデナに戻ってくる。"
+    },
+    {
+      "episode": "14",
+      "title": "The Einstein Approximation",
+      "outline": "理論物理学者のシェルドンが、研究に行き詰まり、アルバイトをすることで問題解決の糸口を見つけようとするが、最終的には別の視点から問題を捉えることで解決策を見出す。"
+    },
+    {
+      "episode": "15",
+      "title": "The Large Hadron Collision",
+      "outline": "レナードが恋人のペニーとスイスのCERNに旅行する予定が、ルームメイトのシェルドンが同行を主張し、友情と旅行の板挟みになる話。"
+    },
+    {
+      "episode": "16",
+      "title": "The Excelsior Acquisition",
+      "outline": "シェルドンが交通違反で逮捕され、スタン・リーとの出会いを逃すも、最終的にスタン・リーの家を訪問するが、警察に通報されるという騒動を描く。"
+    },
+    {
+      "episode": "17",
+      "title": "The Precious Fragmentation",
+      "outline": "友人たちがガレージセールで映画『ロード・オブ・ザ・リング』の小道具の指輪を見つけ、所有権を巡って争いが勃発し、友情が試される。"
+    },
+    {
+      "episode": "18",
+      "title": "The Pants Alternative",
+      "outline": "シェルドンが学長賞を受賞するも、大勢の前でのスピーチに極度の不安を感じ、友人たちの助けを借りて克服しようとするが、最終的にはアルコールで酔っ払い、パンツを脱いで奇妙なスピーチをする。"
+    },
+    {
+      "episode": "19",
+      "title": "The Wheaton Recurrence",
+      "outline": "レナードがペニーに愛を告白するも、ペニーはすぐに同じ気持ちを返せず、ボーリング大会でのウィル・ウィートンの策略も絡み、二人の関係がぎくしゃくするエピソード。"
+    },
+    {
+      "episode": "20",
+      "title": "The Spaghetti Catalyst",
+      "outline": "レナードと別れたペニーが、シェルドンの気を引いてしまい、レナードが嫉妬する騒動を描く。"
+    },
+    {
+      "episode": "21",
+      "title": "The Plimpton Stimulation",
+      "outline": "シェルドンの家に泊まった物理学者のエリザベスが、レナードとラージを誘惑し、混乱を引き起こす。"
+    },
+    {
+      "episode": "22",
+      "title": "The Staircase Implementation",
+      "outline": "レナードがシェルドンとの同居を決めた過去を振り返り、ルームメイト契約や共同生活での騒動、そしてエレベーターが故障した原因が明らかになる。"
+    },
+    {
+      "episode": "23",
+      "title": "The Lunar Excitation",
+      "outline": "レナードはペニーとの関係に悩み、シェルドンはオンラインデーティングでマッチしたエイミーと出会い、奇妙な関係を始める。"
+    },
+    {
+      "episode": "11",
+      "title": "The Maternal Congruence",
+      "outline": "レナードの母が訪ねてきて、レナードとペニーの関係や家族の秘密が明らかになり、ペニーと母が一緒に飲んで打ち解ける。"
+    }
   ],
   "04": [
-    "01 The Robotic Manipulation",
-    "02 The Cruciferous Vegetable Amplification",
-    "03 The Zazzy Substitution",
-    "04 The Hot Troll Deviation",
-    "05 The Desperation Emanation",
-    "06 The Irish Pub Formulation",
-    "07 The Apology Insufficiency",
-    "08 The 21 Second Excitation",
-    "09 The Boyfriend Complexity",
-    "10 The Alien Parasite Hypothesis",
-    "11 The Justice League Recombination",
-    "12 The Bus Pants Utilization",
-    "13 The Love Car Displacement",
-    "14 The Thespian Catalyst",
-    "15 The Benefactor Factor",
-    "16 The Cohabitation Formulation",
-    "17 The Toast Derivation",
-    "18 The Prestidigitation Approximation",
-    "19 The Zarnecki Incursion",
-    "20 The Herb Garden Germination",
-    "21 The Agreement Dissection",
-    "22 The Wildebeest Implementation",
-    "23 The Engagement Reaction",
-    "24 The Roommate Transmogrification"
+    {
+      "episode": "01",
+      "title": "The Robotic Manipulation",
+      "outline": "ハワードの宇宙ステーション用ロボットアームが彼の股間に挟まり、シェルドンはエイミーと初めてのデートに出かけるが、ペニーの過去の恋愛遍歴について議論し、シェルドンはエイミーとの子供作りを計画する。"
+    },
+    {
+      "episode": "02",
+      "title": "The Cruciferous Vegetable Amplification",
+      "outline": "シェルドンは不死を目指して生活習慣を改善しようとするが、失敗続きで、最終的に遠隔操作ロボットで生活しようとするも、うまくいかない。"
+    },
+    {
+      "episode": "03",
+      "title": "The Zazzy Substitution",
+      "outline": "シェルドンがエイミーとの関係を解消した後、猫をたくさん飼い始め、母親の介入でエイミーと仲直りする。"
+    },
+    {
+      "episode": "04",
+      "title": "The Hot Troll Deviation",
+      "outline": "ハワードがオンラインゲームで出会ったトロルとの浮気が原因で別れたバーナデットとの関係を修復しようとする一方、シェルドンとラージはオフィスでのデスクを巡って子供じみた争いを繰り広げる。"
+    },
+    {
+      "episode": "05",
+      "title": "The Desperation Emanation",
+      "outline": "レナードが恋人探しに苦戦する一方、シェルドンはエイミーとの関係の進展に戸惑い、友人たちもそれぞれの恋愛模様を繰り広げる。"
+    },
+    {
+      "episode": "06",
+      "title": "The Irish Pub Formulation",
+      "outline": "レナードはラージの妹プリヤと一夜を過ごし、友人関係に混乱をもたらすが、最終的にはお互いの小さな裏切りを許し合う。"
+    },
+    {
+      "episode": "07",
+      "title": "The Apology Insufficiency",
+      "outline": "ハワードが国防総省の仕事を得るはずだったが、ラージ、レナード、シェルドンのFBIとの面談が原因で失敗に終わり、シェルドンはハワードに謝罪して自分のソファの場所を譲ることで償おうとする。"
+    },
+    {
+      "episode": "08",
+      "title": "The 21 Second Excitation",
+      "outline": "追加の21秒の未公開シーンがある「レイダース/失われたアーク《聖櫃》」の再上映を巡り、シェルドンたちが騒動を起こし、ペニーは女性だけの夜を過ごす。"
+    },
+    {
+      "episode": "09",
+      "title": "The Boyfriend Complexity",
+      "outline": "ペニーが父親に元恋人のレオナルドと復縁したと嘘をついたことから、レオナルドはペニーの父親の前で恋人のふりをすることになり、ラージは望遠鏡を使って惑星を発見しようとするが、孤独を感じてしまう。"
+    },
+    {
+      "episode": "10",
+      "title": "The Alien Parasite Hypothesis",
+      "outline": "シェルドンはエイミーがザックに性的な魅力を感じていることに戸惑い、ラージとハワードはスーパーヒーローごっこでどちらが相棒になるかを決めるためにレスリングをする。"
+    },
+    {
+      "episode": "11",
+      "title": "The Justice League Recombination",
+      "outline": "友人たちとJustice Leagueのコスプレ・グループを作り、コスチューム・コンテストで優勝するために奮闘するが、人間関係や自尊心の問題が絡み合い、最終的には友情と妥協が勝利をもたらす。"
+    },
+    {
+      "episode": "12",
+      "title": "The Bus Pants Utilization",
+      "outline": "レナードが発案した数式認識アプリの開発で、シェルドンが主導権を握ろうとしてチームを混乱させるが、最終的には仲直りし、ペニーも巻き込んでアプリ開発を進める。"
+    },
+    {
+      "episode": "13",
+      "title": "The Love Car Displacement",
+      "outline": "科学会議への旅行で、シェルドンの旅行管理が問題を引き起こし、恋愛関係の不安が表面化する。"
+    },
+    {
+      "episode": "14",
+      "title": "The Thespian Catalyst",
+      "outline": "シェルドンが講義で酷評されたため、ペニーに演技指導を受け、その過程で奇妙な即興劇を繰り広げ、一方、ラージはハワードとバーナデットの関係に妄想を抱く。"
+    },
+    {
+      "episode": "15",
+      "title": "The Benefactor Factor",
+      "outline": "大学への寄付金集めのパーティーで、シェルドンは参加を嫌がるが、レナードは寄付金のために老婦人とデートすることになる。"
+    },
+    {
+      "episode": "16",
+      "title": "The Cohabitation Formulation",
+      "outline": "ハワードが母親との同居に悩む一方、レナードはラージの妹プリヤとの関係を再開し、ペニーは複雑な感情を抱く。"
+    },
+    {
+      "episode": "18",
+      "title": "The Prestidigitation Approximation",
+      "outline": "レナードがコンタクトレンズを着用し、恋人のプリヤとの関係を深めようとする一方で、ハワードはマジックの腕前を披露し、シェルドンはトリックの裏を暴こうとする。"
+    },
+    {
+      "episode": "19",
+      "title": "The Zarnecki Incursion",
+      "outline": "シェルドンがオンラインゲームのアカウントをハッキングされ、仲間たちと犯人に立ち向かうが、最終的にはペニーが解決する。"
+    },
+    {
+      "episode": "20",
+      "title": "The Herb Garden Germination",
+      "outline": "科学者たちがゴシップの拡散を実験的に研究する一方で、ハワードはベルナデットにプロポーズし、彼女はイエスと答える。"
+    },
+    {
+      "episode": "21",
+      "title": "The Agreement Dissection",
+      "outline": "ルームメイト契約を巡り、シェルドンとレナードが恋人のプリヤを巻き込んで争い、最終的にシェルドンがブラックメールで勝利するが、酔ったエイミーとの交流で新たな局面を迎える。"
+    },
+    {
+      "episode": "22",
+      "title": "The Wildebeest Implementation",
+      "outline": "レオナードの元カノであるペニーを巡り、バーナデットを巻き込んだエイミーとペニーの策略が、レオナードとプリヤの関係に波紋を呼ぶ一方、ラージは社会不安を克服するために実験的な薬を試す。"
+    },
+    {
+      "episode": "23",
+      "title": "The Engagement Reaction",
+      "outline": "ハワードが婚約したことを母親に伝えたところ、母親が体調を崩し、病院に運ばれる騒動が起きるが、最終的には食中毒だったと判明し、ハワードとバーナデットの関係は母親に認められる。"
+    },
+    {
+      "episode": "24",
+      "title": "The Roommate Transmogrification",
+      "outline": "バーナデットが博士号を取得し、高収入の仕事を得る一方で、レナードとプリヤの関係はプリヤのインド帰国によって危機に瀕し、ルームメイトの配置が混乱する。"
+    },
+    {
+      "episode": "17",
+      "title": "The Toast Derivation",
+      "outline": "レナードの恋人プリヤの出現でシェルドンが友人グループ内での自分の立場を失い、新しい友人を作ろうとするが失敗し、最終的に元のグループに戻る話。"
+    }
   ],
   "05": [
-    "01 The Skank Reflex Analysis",
-    "02 The Infestation Hypothesis",
-    "03 The Pulled Groin Extrapolation",
-    "04 The Wiggly Finger Catalyst",
-    "05 The Russian Rocket Reaction",
-    "06 The Rhinitis Revelation",
-    "07 The Good Guy Fluctuation",
-    "08 The Isolation Permutation",
-    "09 The Ornithophobia Diffusion",
-    "10 The Flaming Spittoon Acquisition",
-    "11 The Speckerman Recurrence",
-    "12 The Shiny Trinket Maneouvre",
-    "13 The Recombination Hypothesis",
-    "14 The Beta Test Initiation",
-    "15 The Friendship Contraction",
-    "16 The Vacation Solution",
-    "17 The Rothman Disintegration",
-    "18 The Werewolf Transformation",
-    "19 The Weekend Vortex",
-    "20 The Transporter Malfunction",
-    "21 The Hawking Excitation",
-    "22 The Stag Convergence",
-    "23 The Launch Acceleration",
-    "24 The Countdown Reflection"
+    {
+      "episode": "01",
+      "title": "The Skank Reflex Analysis",
+      "outline": "ペニーが酔ってラージと寝てしまい、レナードとの関係や将来について悩む一方で、シェルドンはペイントボールのチーム編成にこだわり、最終的にペニーは痔のコマーシャルに出演が決まる。"
+    },
+    {
+      "episode": "02",
+      "title": "The Infestation Hypothesis",
+      "outline": "ペニーが道端で拾った椅子に虫が湧き、シェルドンがパニックになる一方で、レナードはインドにいる恋人との遠距離恋愛に苦戦する。"
+    },
+    {
+      "episode": "03",
+      "title": "The Pulled Groin Extrapolation",
+      "outline": "ハワードの母親との同居問題が勃発する一方で、レナードはエイミーとの結婚式参加を通じて彼女に好意を抱き始め、シェルドンは模型鉄道の世界に新たな楽しみを見出す。"
+    },
+    {
+      "episode": "04",
+      "title": "The Wiggly Finger Catalyst",
+      "outline": "ラージは、ペニーの紹介で出会った聴覚障害者の女性と恋に落ちるが、彼女に財産目当てで利用されているのではないかと疑念が生じ、最終的に両親から彼女との関係を絶たない限り、経済援助を打ち切ると宣告される。"
+    },
+    {
+      "episode": "05",
+      "title": "The Russian Rocket Reaction",
+      "outline": "レナードがウィル・ウィートンのパーティーに行くか行かないかでシェルドンとの友情が揺らぐ一方で、ハワードは宇宙飛行士になるチャンスを得るが、ベルナデットの反対にあう。"
+    },
+    {
+      "episode": "06",
+      "title": "The Rhinitis Revelation",
+      "outline": "シェルドンの母親が訪れ、シェルドンは母親との関係の変化に戸惑い、風邪をひいて母親に甘える。"
+    },
+    {
+      "episode": "07",
+      "title": "The Good Guy Fluctuation",
+      "outline": "レナードがコミックストアで出会った女性アリスとの関係に悩み、浮気をしかけるも最終的に思いとどまる一方、遠距離恋愛中の恋人プリヤも浮気していたことが発覚し、恋愛関係が複雑化する。"
+    },
+    {
+      "episode": "08",
+      "title": "The Isolation Permutation",
+      "outline": "エイミーがペニーとバーナデットに仲間外れにされたと感じ、シェルドンが彼女を慰める一方、ペニーとバーナデットはエイミーに謝罪し、バーナデットの結婚式のメイド・オブ・ honorを依頼する。"
+    },
+    {
+      "episode": "09",
+      "title": "The Ornithophobia Diffusion",
+      "outline": "シェルドンが鳥恐怖症を克服しようとする一方で、レナードとペニーは友人としての関係を試すが、過去の恋愛感情が邪魔をする。"
+    },
+    {
+      "episode": "10",
+      "title": "The Flaming Spittoon Acquisition",
+      "outline": "コミック店で出会ったエイミーに興味を持ったスチュアートと、彼女を独占したいシェルドンが、恋の争奪戦を繰り広げる。"
+    },
+    {
+      "episode": "11",
+      "title": "The Speckerman Recurrence",
+      "outline": "レナードは、高校時代にいじめっ子だったジミーと再会し、最初は和解するが、結局はジミーの本性に失望し、立ち向かうことを決意する。"
+    },
+    {
+      "episode": "12",
+      "title": "The Shiny Trinket Maneouvre",
+      "outline": "ハワードが誕生日のマジックショーで失敗し、シェルドンはエイミーの科学的業績を軽視するが、最終的には関係を修復しようとする。"
+    },
+    {
+      "episode": "13",
+      "title": "The Recombination Hypothesis",
+      "outline": "レナードとペニーは、気まずい再デートを経て、秘密裏に「ペニーとレナード2.0」として関係を再開しようとするが、周囲に隠し通すことができず、結局は関係を再評価する。"
+    },
+    {
+      "episode": "14",
+      "title": "The Beta Test Initiation",
+      "outline": "シェルドンが旗のビデオポッドキャストを始め、レナードとペニーがベータテストとして交際を再開し、ラージがiPhoneのSiriに恋をする。"
+    },
+    {
+      "episode": "15",
+      "title": "The Friendship Contraction",
+      "outline": "レナードがルームメイト契約に嫌気がさしてシェルドンとの友情を一時停止するが、停電をきっかけに和解し、レナードの日を設けることで合意、一方、ハワードは宇宙飛行士のニックネームを得ようと画策する。"
+    },
+    {
+      "episode": "16",
+      "title": "The Vacation Solution",
+      "outline": "シェルドンが休暇を取るように言われ、エイミーの研究室で働くことになるが、すぐにその仕事が自分に合わないことに気づき、ハワードは結婚前の契約書についてベルナデットの父親と向き合うことになる。"
+    },
+    {
+      "episode": "17",
+      "title": "The Rothman Disintegration",
+      "outline": "教授の退職に伴い、シェルドンとクリプキが研究室の所有権をめぐって争い、ペニーはエイミーから贈られた巨大な自画像に悩まされる。"
+    },
+    {
+      "episode": "18",
+      "title": "The Werewolf Transformation",
+      "outline": "シェルドンが散髪に行けず、宇宙飛行士訓練に苦労するハワードを励ます中、ペニーがシェルドンの髪を切ることでシェルドンは混乱を受け入れ、日常を取り戻す。"
+    },
+    {
+      "episode": "19",
+      "title": "The Weekend Vortex",
+      "outline": "シェルドンがエイミーの誕生日パーティーに行くのを嫌がりゲームをしたい一方で、レナードはペニーとの関係に悩み、ハワードはバーナデットとの関係で板挟みになり、ラージは孤独を感じる、という週末のゲームマラソンを描いた物語。"
+    },
+    {
+      "episode": "20",
+      "title": "The Transporter Malfunction",
+      "outline": "ペニーがレナードとシェルドンにプレゼントしたおもちゃのことで騒動が起こる一方、ラージは両親に結婚相手を見つけてもらうが、相手の女性がレズビアンであることが判明する。"
+    },
+    {
+      "episode": "21",
+      "title": "The Hawking Excitation",
+      "outline": "ハワードがホーキング博士の助手になったことを利用して、シェルドンは博士に会うためにハワードの屈辱的な要求を次々とこなすが、ついに会えたホーキング博士に論文の誤りを指摘される。"
+    },
+    {
+      "episode": "22",
+      "title": "The Stag Convergence",
+      "outline": "ハワードの結婚前のバチェラーパーティーで、過去の行状が暴露され、婚約者のバーナデットとの関係が危機に瀕するが、最終的にはハワードの誠実な謝罪により、結婚式は予定通り行われることになる。"
+    },
+    {
+      "episode": "23",
+      "title": "The Launch Acceleration",
+      "outline": "ハワードの宇宙飛行が中止になったり、再決定したりする一方で、レナードとペニーの関係は結婚の話題でぎくしゃくし、エイミーはシェルドンとの関係を進展させようと実験を試みる。"
+    },
+    {
+      "episode": "24",
+      "title": "The Countdown Reflection",
+      "outline": "ハワードの宇宙飛行出発が迫る中、彼とバーナデットは急遽、友人たちに見守られながら屋上で結婚式を挙げる。"
+    }
   ],
   "06": [
-    "01 The Date Night Variable",
-    "02 The Decoupling Fluctuation",
-    "03 The Higgs Boson Observation",
-    "04 The Re-Entry Minimization",
-    "05 The Holographic Excitation",
-    "06 The Extract Obliteration",
-    "07 The Habitation Configuration",
-    "08 The 43 Peculiarity",
-    "09 The Parking Spot Escalation",
-    "10 The Fish Guts Displacement",
-    "11 The Santa Simulation",
-    "12 The Egg Salad Equivalency",
-    "13 The Bakersfield Expedition",
-    "14 The Cooper/Kripke Inversion",
-    "15 The Spoiler Alert Segmentation",
-    "16 The Tangible Affection Proof",
-    "17 The Monster Isolation",
-    "18 The Contractual Obligation Implementation",
-    "19 The Closet Reconfiguration",
-    "20 The Tenure Turbulence",
-    "21 The Closure Alternative",
-    "22 The Proton Resurgence",
-    "23 The Love Spell Potential",
-    "24 The Bon Voyage Reaction"
+    {
+      "episode": "01",
+      "title": "The Date Night Variable",
+      "outline": "宇宙にいるハワード、デートナイトの約束を守れないシェルドン、関係がぎくしゃくしているレナードとペニーが、それぞれの問題を抱えながらも人間関係を模索する。"
+    },
+    {
+      "episode": "02",
+      "title": "The Decoupling Fluctuation",
+      "outline": "ペニーがレナードとの関係に疑問を抱き、ハワードは宇宙で他の宇宙飛行士にいじめられ、シェルドンは友人関係の安定を保とうとします。"
+    },
+    {
+      "episode": "03",
+      "title": "The Higgs Boson Observation",
+      "outline": "宇宙飛行士のハワードは宇宙での孤独に苦しみ、シェルドンは幼少期の研究からノーベル賞につながる発見を探し、恋人たちはそれぞれの関係に不安を感じる。"
+    },
+    {
+      "episode": "04",
+      "title": "The Re-Entry Minimization",
+      "outline": "宇宙から帰還したハワードは、友人や妻の病気、母親の新たな恋愛など、誰からも歓迎されず、孤独を感じる。"
+    },
+    {
+      "episode": "05",
+      "title": "The Holographic Excitation",
+      "outline": "ハロウィーンパーティーで、ハワードが宇宙に行ったことを自慢しすぎて、周りからうんざりされるが、ベルナデットに励まされ、自分らしさを受け入れる。"
+    },
+    {
+      "episode": "06",
+      "title": "The Extract Obliteration",
+      "outline": "シェルドンがスティーブン・ホーキングとオンラインゲームで友達になるが、ペニーは大学の授業で苦労し、レナードが手助けしようとして関係がこじれる。"
+    },
+    {
+      "episode": "07",
+      "title": "The Habitation Configuration",
+      "outline": "シェルドンがオンライン番組でウィル・ウィートンと共演するが、エイミーの演出に腹を立てたウィルが彼女を侮辱し、シェルドンはエイミーを擁護せずウィルと食事に出かけ、一方ハワードはベルナデットとの同居を先延ばしにするが、最終的に母親を思いやる気持ちからベルナデットと共に母親の家で寝ることを決める。"
+    },
+    {
+      "episode": "08",
+      "title": "The 43 Peculiarity",
+      "outline": "シェルドンの秘密の行動をハワードとラージが調査する一方、レナードはペニーの友好的な同級生に嫉妬し、彼女から愛の言葉を聞くことに成功するが、同僚からの思わぬメッセージを受け取る。"
+    },
+    {
+      "episode": "09",
+      "title": "The Parking Spot Escalation",
+      "outline": "シェルドンは、ハワードが自分の駐車場を使ったことに腹を立て、エスカレートしていく争いを繰り広げる。"
+    },
+    {
+      "episode": "10",
+      "title": "The Fish Guts Displacement",
+      "outline": "ハワードは義父との釣り旅行を避けようとするが、シェルドンはエイミーの嘘の病気に気づき、罰を与えることになる。"
+    },
+    {
+      "episode": "11",
+      "title": "The Santa Simulation",
+      "outline": "レナードが企画したダンジョンズ＆ドラゴンズのクリスマスゲームで、シェルドンが過去のクリスマスのトラウマと向き合うことになる。"
+    },
+    {
+      "episode": "12",
+      "title": "The Egg Salad Equivalency",
+      "outline": "レオナードが同僚のアレックスに言い寄られ、それを利用したシェルドンが人事問題を引き起こす一方、ペニーはレオナードへの不安から科学に興味を持とうとする。"
+    },
+    {
+      "episode": "13",
+      "title": "The Bakersfield Expedition",
+      "outline": "コミック大会へ向かう途中で車を盗まれたレナード、シェルドン、ハワード、ラージと、その間にコミックに興味を持ち始めたペニー、エイミー、バーナデットを描いた物語。"
+    },
+    {
+      "episode": "14",
+      "title": "The Cooper/Kripke Inversion",
+      "outline": "シェルドンはクリプキと共同で研究プロジェクトに取り組むことになり、ハワードはラージと一緒に3Dプリンターを購入してフィギュアを作るが、妻のバーナデットに怒られる。"
+    },
+    {
+      "episode": "15",
+      "title": "The Spoiler Alert Segmentation",
+      "outline": "レナードがシェルドンとの同居に耐えられずペニーの部屋に引っ越そうとするが、様々な事情が絡み合い、最終的にレナードはシェルドンの元に戻り、エイミーはシェルドンとの同居を諦めるというドタバタ劇が繰り広げられる。"
+    },
+    {
+      "episode": "16",
+      "title": "The Tangible Affection Proof",
+      "outline": "バレンタインデーに、恋愛に悩むペニーとレナード、バーナデットとハワード、そしてシェルドンとエイミーのそれぞれの関係模様が描かれる。"
+    },
+    {
+      "episode": "17",
+      "title": "The Monster Isolation",
+      "outline": "ラージは女性との出会いに失敗して引きこもりになるが、同じように人付き合いが苦手な女性と出会い、ペニーはシェルドンの手助けをしたことで、舞台に招待される。"
+    },
+    {
+      "episode": "18",
+      "title": "The Contractual Obligation Implementation",
+      "outline": "レオナード、シェルドン、ハワードは大学の委員会で女性科学者を増やす活動をする一方、ペニー、エイミー、バーナデットは仕事をサボってディズニーランドでプリンセスに変身する。"
+    },
+    {
+      "episode": "19",
+      "title": "The Closet Reconfiguration",
+      "outline": "ハワードは亡き父からの手紙を見つけることを恐れ、友人たちがその内容を知ってしまい、彼は父の思い出と向き合うことを決意する。"
+    },
+    {
+      "episode": "20",
+      "title": "The Tenure Turbulence",
+      "outline": "カルテックの終身在職権を巡り、シェルドン、レナード、ラージが互いに競争し、それぞれのやり方で政治的な駆け引きを繰り広げる。"
+    },
+    {
+      "episode": "21",
+      "title": "The Closure Alternative",
+      "outline": "シェルドンが打ち切りになった番組の結末に囚われる一方、ラージは女性らしさを気にし、ペニーはレナードへの愛情に気づき情熱を見つけようとする。"
+    },
+    {
+      "episode": "22",
+      "title": "The Proton Resurgence",
+      "outline": "シェルドンは子供の頃のヒーローであるプロトン教授を自宅に招待するが、教授は自身のキャリアへの不満を抱えており、最終的にシェルドンが代役を務めることになる。"
+    },
+    {
+      "episode": "23",
+      "title": "The Love Spell Potential",
+      "outline": "女性陣がラスベガス旅行に出かける一方、男性陣は『ダンジョンズ&ドラゴンズ』をプレイするが、女性陣はトラブルで旅行を中断し、ゲームに加わることで友情と愛情を深める。"
+    },
+    {
+      "episode": "24",
+      "title": "The Bon Voyage Reaction",
+      "outline": "レナードがホーキング博士の研究チームに参加するために北海へ出発することになり、ペニーとの関係やシェルドンの寂しさ、ラージの恋愛などが描かれる。"
+    }
   ],
   "07": [
-    "01 The Hofstadter Insufficiency",
-    "02 The Deception Verification",
-    "03 The Scavenger Vortex",
-    "04 The Raiders Minimization",
-    "05 The Workplace Proximity",
-    "06 The Romance Resonance",
-    "07 The Proton Displacement",
-    "08 The Itchy Brain Simulation",
-    "09 The Thanksgiving Decoupling",
-    "10 The Discovery Dissipation",
-    "11 The Cooper Extraction",
-    "12 The Hesitation Ramification",
-    "13 The Occupation Recalibration",
-    "14 The Convention Conundrum",
-    "15 The Locomotive Manipulation",
-    "16 The Table Polarisation",
-    "17 The Friendship Turbulence",
-    "18 The Mommy Observation",
-    "19 The Indecision Amalgamation",
-    "20 The Relationship Diremption",
-    "21 The Anything Can Happen Recurrence",
-    "22 The Proton Transmogrification",
-    "23 The Gorilla Dissolution",
-    "24 The Status Quo Combustion"
+    {
+      "episode": "01",
+      "title": "The Hofstadter Insufficiency",
+      "outline": "レナードが北海で不在の間、シェルドンはペニーとの交流を通じて彼を恋しく思い、一方、エイミーとバーナデットは学会で男性から声をかけられる可能性について議論し、ラージは失恋から立ち直ろうとする。"
+    },
+    {
+      "episode": "02",
+      "title": "The Deception Verification",
+      "outline": "レナードが早く帰宅したことを隠したため、シェルドンは怒り、ハワードはエストロゲンクリームの影響で情緒不安定になる。"
+    },
+    {
+      "episode": "04",
+      "title": "The Raiders Minimization",
+      "outline": "シェルドンがエイミーにインディ・ジョーンズのストーリーの欠陥を指摘し、レナードは母親の本が原因でペニーとの関係に苦労し、ラージとスチュアートはオンラインデートで苦戦する。"
+    },
+    {
+      "episode": "05",
+      "title": "The Workplace Proximity",
+      "outline": "シェルドンがエイミーとの職場での近接を最初は受け入れるものの、ハワードの助言で考えを変え、エイミーとの関係に亀裂が生じるが、最終的には二人は仲直りする。"
+    },
+    {
+      "episode": "06",
+      "title": "The Romance Resonance",
+      "outline": "ハワードがバーナデットとの記念日に歌を贈る計画を立てる一方、シェルドンは科学的発見が誤りだったと知り苦悩し、ペニーはレオナルドをロマンチックに喜ばせようと奮闘する。"
+    },
+    {
+      "episode": "07",
+      "title": "The Proton Displacement",
+      "outline": "シェルドンが憧れの教授と親しくなろうとするが、レナードとの共同研究に嫉妬し、最終的には教授との関係を修復する。"
+    },
+    {
+      "episode": "08",
+      "title": "The Itchy Brain Simulation",
+      "outline": "レナードが延滞したDVDを返却する騒動と、ペニーがラージの元カノに会い、彼を擁護しようとするが裏目に出る様子を描いたコメディ。"
+    },
+    {
+      "episode": "09",
+      "title": "The Thanksgiving Decoupling",
+      "outline": "ハワードの母親の家での感謝祭のディナーで、ペニーが過去にラスベガスで結婚していたことが発覚し、レオナルドとの関係に緊張が走る一方で、シェルドンは意外にもバーナデットの父親と意気投合する。"
+    },
+    {
+      "episode": "10",
+      "title": "The Discovery Dissipation",
+      "outline": "シェルドンが誤って発見した新元素がレナードによって否定され、シェルドンは名声と友情を失い、ハワードとベルナデットの家に居候したラージは夫婦関係に波紋を呼ぶ。"
+    },
+    {
+      "episode": "11",
+      "title": "The Cooper Extraction",
+      "outline": "シェルドンの妹が出産のためテキサスへ行ったシェルドンを欠いた間、仲間たちはクリスマスツリーの飾り付けを楽しみ、もしシェルドンがいなかったらそれぞれの人生がどうなっていたかを想像する。"
+    },
+    {
+      "episode": "12",
+      "title": "The Hesitation Ramification",
+      "outline": "ペニーがテレビ番組に出演するもカットされ落ち込む中、レナードに結婚を申し込むが、彼はペニーの状況を考慮して保留し、ラージは女性との会話の練習に苦労する。"
+    },
+    {
+      "episode": "13",
+      "title": "The Occupation Recalibration",
+      "outline": "ペニーがウェイトレスの仕事を辞めて女優業に専念しようとするが、レナードはそれを全面的に支持できず、一方エイミーは地質学者のバートからデートに誘われ、困惑する。"
+    },
+    {
+      "episode": "14",
+      "title": "The Convention Conundrum",
+      "outline": "コミコンのチケットが手に入らなかったシェルドンは、自分のコンベンションを企画しようとするが、最終的にはジェームズ・アール・ジョーンズと仲良くなり、一緒にコミコンに行くことになる。"
+    },
+    {
+      "episode": "15",
+      "title": "The Locomotive Manipulation",
+      "outline": "シェルドンが鉄道オタクの男性と意気投合し、エイミーとのロマンチックな週末は脱線するが、最終的には二人は関係を深め、一方、レナードとペニーはラージの犬シナモンにチョコレートを食べさせてしまい、動物病院でバレンタインデーを過ごすことになる。"
+    },
+    {
+      "episode": "16",
+      "title": "The Table Polarisation",
+      "outline": "ダイニングテーブルの購入を巡る騒動、ハワードの宇宙旅行再挑戦、そして登場人物たちの人間関係が描かれる。"
+    },
+    {
+      "episode": "17",
+      "title": "The Friendship Turbulence",
+      "outline": "ペニーの仕事の苦境、ラージの恋愛、そしてシェルドンとハワードの友情の危機が描かれる。"
+    },
+    {
+      "episode": "18",
+      "title": "The Mommy Observation",
+      "outline": "シェルドンがテキサスにいる間、仲間たちは殺人ミステリーゲームを楽しむが、シェルドンは母親の恋愛を目撃し、複雑な感情を抱える。"
+    },
+    {
+      "episode": "20",
+      "title": "The Relationship Diremption",
+      "outline": "シェルドンは自身の理論が証明できないことに悩み、新しい分野を探し始める一方、ハワードはラージの新しい彼女が以前に最悪な出会いをした相手だと知り、気まずい状況に陥る。"
+    },
+    {
+      "episode": "21",
+      "title": "The Anything Can Happen Recurrence",
+      "outline": "ビッグバンセオリーの登場人物たちが、それぞれ友人関係における正直さや趣味の相違に悩みつつ、友情を再確認する。"
+    },
+    {
+      "episode": "22",
+      "title": "The Proton Transmogrification",
+      "outline": "シェルドンは恩師であるプロトン教授の死に直面し、喪失感を抱えながらも、仲間たちの支えによって悲しみを乗り越え、教授との思い出を胸に新たな一歩を踏み出す。"
+    },
+    {
+      "episode": "23",
+      "title": "The Gorilla Dissolution",
+      "outline": "ハワードの母が怪我で寝たきりになり、ペニーは出演映画を解雇され、ラージはエミリーとの関係に悩み、レナードとペニーは結婚を決意する。"
+    },
+    {
+      "episode": "24",
+      "title": "The Status Quo Combustion",
+      "outline": "レナードとペニーの婚約、シェルドンの研究分野変更の拒否、そしてウォロウィッツの母親の介護問題が重なり、シェルドンは現状からの打破を求めて旅に出る。"
+    },
+    {
+      "episode": "03",
+      "title": "The Scavenger Vortex",
+      "outline": "ラージが企画した宝探しゲームで、レナードとペニーのチーム分けを巡る騒動や、競争心むき出しのバーナデット、ニール・ダイアモンドを熱唱するハワードとエイミーなど、様々な騒動が巻き起こる。"
+    },
+    {
+      "episode": "19",
+      "title": "The Indecision Amalgamation",
+      "outline": "シェルドンがゲーム機選びに悩み、ペニーが低予算映画の仕事に葛藤し、ラージが二人の女性との関係に戸惑う中で、それぞれが選択に直面する。"
+    }
   ],
   "08": [
-    "01 The Locomotion Interruption",
-    "02 The Junior Professor Solution",
-    "03 The First Pitch Insufficiency",
-    "04 The Hook-Up Reverbration",
-    "05 The Focus Attenuation",
-    "06 The Expedition Approximation",
-    "07 The Misinterpretation Agitation",
-    "08 The Prom Equivalency",
-    "09 The Septum Deviation",
-    "10 The Champagne Reflection",
-    "11 The Clean Room Infiltration",
-    "12 The Space Probe Disintegration",
-    "13 The Anxiety Optimisation",
-    "14 The Troll Manifestation",
-    "15 The Comic Book Store Regeneration",
-    "16 The Intimacy Acceleration",
-    "17 The Colonization Application",
-    "18 The Leftover Thermalization",
-    "19 The Skywalker Incursion",
-    "20 The Fortification Implementation",
-    "21 The Communication Deterioration",
-    "22 The Graduation Transmission",
-    "23 The Maternal Combustion",
-    "24 The Commitment Determination"
+    {
+      "episode": "01",
+      "title": "The Locomotion Interruption",
+      "outline": "シェルドンはルームメイトの婚約と自分の研究のストレスから逃れるために鉄道旅行に出るが、強盗に遭い、レナードとエイミーに助けを求める一方で、ペニーはベルナデットの紹介で製薬会社の面接を受けるが、不器用な面接で苦戦し、ハワードはスチュアートが母親の家に居候していることに嫉妬する。"
+    },
+    {
+      "episode": "02",
+      "title": "The Junior Professor Solution",
+      "outline": "シェルドンが大学で教鞭をとることになり、ハワードとの間で知的な優位性を巡る争いが勃発する一方で、ペニーは製薬会社での新しい仕事に苦労し、バーナデットとエイミーとの間で友情のバランスを取ろうとする。"
+    },
+    {
+      "episode": "03",
+      "title": "The First Pitch Insufficiency",
+      "outline": "ハワードがエンゼルスの始球式で大失敗し、シェルドンとエイミーが人間関係のテストでレナードとペニーの関係を比較し、それぞれのカップルが自分たちの関係について向き合う。"
+    },
+    {
+      "episode": "04",
+      "title": "The Hook-Up Reverbration",
+      "outline": "ラージの元カノとの過去の関係が原因で、ペニーがラージの彼女エミリーに嫌われてしまい、一方、レナード、ハワード、シェルドンはコミックストアへの投資を検討するが、それぞれパートナーに反対される。"
+    },
+    {
+      "episode": "05",
+      "title": "The Focus Attenuation",
+      "outline": "科学者仲間たちが、ガールフレンドたちのいない週末を利用して科学的なブレークスルーを目指すも、結局は気を散らすものばかりで何も達成できない一方、ガールフレンドたちはラスベガスで羽目を外す。"
+    },
+    {
+      "episode": "06",
+      "title": "The Expedition Approximation",
+      "outline": "シェルドンとラージがダークマター研究のために炭鉱での実験をシミュレーションしようとする一方で、ペニーとレナードは結婚後の金銭管理について議論し、ハワードとバーナデットも収入格差による夫婦間の問題に直面する。"
+    },
+    {
+      "episode": "07",
+      "title": "The Misinterpretation Agitation",
+      "outline": "バーナデットがセクシーな科学者として雑誌に掲載される話が持ち上がる一方で、ペニーに好意を抱いた医師がレナードの家に現れ、騒動が起こる。"
+    },
+    {
+      "episode": "08",
+      "title": "The Prom Equivalency",
+      "outline": "ペニー達が屋上でプロムを再現する中、ハワードは母親と従妹との複雑な関係に悩み、シェルドンはエイミーへの愛を自覚して混乱する。"
+    },
+    {
+      "episode": "09",
+      "title": "The Septum Deviation",
+      "outline": "レナードが鼻中隔湾曲症の手術を受けることになり、シェルドンは彼の死を心配する一方、ラージの両親は離婚の危機に瀕する。"
+    },
+    {
+      "episode": "10",
+      "title": "The Champagne Reflection",
+      "outline": "シェルドンが人気ネット番組を終了する一方で、レオナルドたちは亡くなった教授の研究を再評価しようとし、ペニーはバーナデットのきつい性格を職場で改善しようと奮闘する。"
+    },
+    {
+      "episode": "11",
+      "title": "The Clean Room Infiltration",
+      "outline": "ラージの両親の離婚問題、エイミー主催のビクトリア朝クリスマスディナー、そしてレナードとハワードがクリーンルームに迷い込んだハトを捕まえようとするドタバタ劇が描かれる。"
+    },
+    {
+      "episode": "12",
+      "title": "The Space Probe Disintegration",
+      "outline": "シェルドンとレナードがお互いの妥協点について話し合う一方で、ラージは宇宙探査機の成功を祈り、ペニーとエイミーは工芸博物館で楽しい時間を過ごす。"
+    },
+    {
+      "episode": "13",
+      "title": "The Anxiety Optimisation",
+      "outline": "シェルドンはダークマターの研究に行き詰まり、不安を煽ることで研究を促進しようとするが、周囲を巻き込みすぎて恋人エイミーに家を追い出される。"
+    },
+    {
+      "episode": "14",
+      "title": "The Troll Manifestation",
+      "outline": "レナードとシェルドンが発表した理論が、ホーキング博士によってオンライン上で批判され、最終的には博士本人とビデオチャットで和解し、一方ペニーとバーナデットはエイミーの書いた自作の『大草原の小さな家』のファンフィクションを読んで盛り上がる。"
+    },
+    {
+      "episode": "15",
+      "title": "The Comic Book Store Regeneration",
+      "outline": "エイミーがバリー・クリプキと共同研究したことでシェルドンが嫉妬し、一方、ハワードは母親の死に直面し、友人たちは彼を支えようとする。"
+    },
+    {
+      "episode": "16",
+      "title": "The Intimacy Acceleration",
+      "outline": "エイミーが読んだ実験に基づき、ペニーとシェルドンが親密さを深めるための質問と4分間の見つめ合いを試す一方で、ハワードは亡き母の遺灰を空港で紛失する騒動に巻き込まれる。"
+    },
+    {
+      "episode": "17",
+      "title": "The Colonization Application",
+      "outline": "シェルドンが火星植民計画に応募したことでエイミーとの関係が危機に瀕する一方、レナードとペニーは自分たちの関係を活性化させようとし、ラージはエミリーの秘密を探ろうとしてトラブルに巻き込まれる。"
+    },
+    {
+      "episode": "18",
+      "title": "The Leftover Thermalization",
+      "outline": "シェルドンとレナードが共同執筆した論文が雑誌に取り上げられるが、シェルドンばかりが注目され、レナードは母親を亡くしたハワードを慰めるために開かれた夕食会で、その不満が爆発する。"
+    },
+    {
+      "episode": "19",
+      "title": "The Skywalker Incursion",
+      "outline": "シェルドンとレナードがスカイウォーカー・ランチに侵入しようとして騒動を起こす一方で、ハワードとベルナデットはガレージセールで『ドクター・フー』のターディスを巡って友人たちと卓球対決を繰り広げる。"
+    },
+    {
+      "episode": "20",
+      "title": "The Fortification Implementation",
+      "outline": "シェルドンがファインマンのシンポジウムに招待されなかったことでふてくされ、ハワードは腹違いの兄弟が現れ、レナードとペニーはお互いの収入の差とキャリアについて衝突する。"
+    },
+    {
+      "episode": "21",
+      "title": "The Communication Deterioration",
+      "outline": "NASAのメッセージプロジェクトでラージとレナードが協力するも、最終的にシェルドンとハワードを巻き込み、ペニーは女優のオーディションを受けるが、製薬会社の仕事への感謝を新たにする。"
+    },
+    {
+      "episode": "22",
+      "title": "The Graduation Transmission",
+      "outline": "レオナルドは高校の卒業式でスピーチをする予定だったが、悪天候で飛行機がキャンセルになり、ペニーが手配したスカイプでスピーチを行うことになり、一方、ラージは父親から経済的に自立するように言われ、ハワードとシェルドンはラージのドローンを修理しようと奮闘する。"
+    },
+    {
+      "episode": "23",
+      "title": "The Maternal Combustion",
+      "outline": "レナードとシェルドンの母親たちが賞の授賞式のために訪れるが、それぞれの教育方針の違いから衝突が起こり、最終的には和解する。"
+    },
+    {
+      "episode": "24",
+      "title": "The Commitment Determination",
+      "outline": "シェルドンとエイミーの関係に危機が訪れ、ペニーとレナードは衝動的に結婚を決意するが、秘密が明らかになる。"
+    }
   ],
   "09": [
-    "01 The Matrimonial Momentum",
-    "02 The Separation Oscillation",
-    "03 The Batchelor Party Corrosion",
-    "04 The 2003 Approximation",
-    "05 The Perspiration Implementation",
-    "06 The Helium Insufficiency",
-    "07 The Spock Resonance",
-    "08 The Mystery Date Observation",
-    "09 The Platonic Permutation",
-    "10 The Earworm Reverberation",
-    "11 The Opening Night Excitation",
-    "12 The Sales Call Sublimation",
-    "13 The Empathy Optimisation",
-    "14 The Meemaw Materialisation",
-    "15 The Valentino Submergence",
-    "16 The Positive Negative Reaction",
-    "17 The Celebration Experimentation",
-    "18 The Application Deterioration",
-    "19 The Solder Excursion Diversion",
-    "20 The Big Bear Precipitation",
-    "21 The Viewing Party Combustion",
-    "22 The Fermentation Bifurcation",
-    "23 The Line Substitution Solution",
-    "24 The Convergence Convergence"
+    {
+      "episode": "01",
+      "title": "The Matrimonial Momentum",
+      "outline": "レナードとペニーは結婚するが、レナードの過去の過ちが明らかになり、シェルドンはエイミーとの破局に苦しむ。"
+    },
+    {
+      "episode": "02",
+      "title": "The Separation Oscillation",
+      "outline": "結婚初日に妻ペニーとの関係に悩むレナードと、別れたエイミーとの関係を終わらせられないシェルドンの苦悩を描く。"
+    },
+    {
+      "episode": "03",
+      "title": "The Batchelor Party Corrosion",
+      "outline": "結婚したレナードのために、ハワードとラージがファインマンのバンでメキシコへ独身最後の旅行を計画するが、ペニーは両親に結婚を秘密にしていることを悩む。"
+    },
+    {
+      "episode": "04",
+      "title": "The 2003 Approximation",
+      "outline": "シェルドンがレナードとペニーの同居に動揺し、過去に立ち返ろうとする一方で、ハワードとラージはバンドを始め、関係に変化が生じる。"
+    },
+    {
+      "episode": "05",
+      "title": "The Perspiration Implementation",
+      "outline": "レナードとシェルドンたちが運動不足を解消しようとフェンシングを始める一方、スチュアートはコミックストアに女性客を呼び込もうと奮闘し、エイミーは別れたシェルドンとの関係に悩む。"
+    },
+    {
+      "episode": "06",
+      "title": "The Helium Insufficiency",
+      "outline": "レナードとシェルドンは、研究に必要なヘリウムを違法に入手しようとするが、倫理的な問題や盗難の疑いに直面し、最終的にはヘリウムを諦める一方、エイミーは新しい出会いを求めてデートアプリを使い始める。"
+    },
+    {
+      "episode": "07",
+      "title": "The Spock Resonance",
+      "outline": "シェルドンはスポックのドキュメンタリーに出演するが、感情を抑えられない自分に気づき、ハワードとバーナデットは家の模様替えと子供を持つことについて意見が対立する。"
+    },
+    {
+      "episode": "08",
+      "title": "The Mystery Date Observation",
+      "outline": "シェルドンが新しい恋人を探す一方で、エイミーは新しい出会いを経験するが、相手はシェルドンに夢中になり、最終的にエイミーはデートを打ち切る。"
+    },
+    {
+      "episode": "09",
+      "title": "The Platonic Permutation",
+      "outline": "感謝祭の日に、シェルドンとエイミーは友人として水族館に行き、ペニーとレナードはお互いの秘密を暴露しあい、ハワードとラージはスープキッチンで奉仕活動をするも、ハワードは途中でうんざりする。"
+    },
+    {
+      "episode": "10",
+      "title": "The Earworm Reverberation",
+      "outline": "耳に残る歌が頭から離れないシェルドンは、その歌がエイミーへの愛を歌っていることに気づき、彼女に復縁を申し込む。"
+    },
+    {
+      "episode": "11",
+      "title": "The Opening Night Excitation",
+      "outline": "シェルドンは恋人エイミーの誕生日とスターウォーズの初公開日が重なったため、どちらを優先するか悩むが、最終的にエイミーとの時間を過ごすことを選び、初めての身体的な親密さを経験する。"
+    },
+    {
+      "episode": "12",
+      "title": "The Sales Call Sublimation",
+      "outline": "ペニーが精神科医に新薬の売り込みを図るため、レナードが患者を装って医師に接触し、一方、ハワードとバーナデットはスチュアートが家を出たことを寂しく感じ、ラージとシェルドンは一緒に小惑星を発見する。"
+    },
+    {
+      "episode": "13",
+      "title": "The Empathy Optimisation",
+      "outline": "病み上がりのシェルドンが周りの人々に迷惑をかけたため、友達は彼を抜きにしてラスベガスへ旅行しようとするが、最終的にはシェルドンも参加することになる。"
+    },
+    {
+      "episode": "14",
+      "title": "The Meemaw Materialisation",
+      "outline": "シェルドンの祖母ミームが訪ねてきて、エイミーとの関係を厳しく評価し、ラージは脚本家の女性と出会い、恋の予感を抱く。"
+    },
+    {
+      "episode": "15",
+      "title": "The Valentino Submergence",
+      "outline": "バレンタインデーに、ラージがエミリーと別れてクレアにアプローチするも失敗し、シェルドンとエイミーはフラッグショーのライブ配信を行い、ハワードとバーナデットはホットタブで怪我をしたウサギを救い、レナードとペニーはレストランでの待ち時間に不満を抱きながらも、最終的には楽しいバレンタインデーを過ごす。"
+    },
+    {
+      "episode": "16",
+      "title": "The Positive Negative Reaction",
+      "outline": "ハワードとバーナデットが妊娠し、ハワードは父親になることへの不安と経済的負担を感じる一方、友人たちはそれぞれの方法で彼らをサポートしようとする。"
+    },
+    {
+      "episode": "17",
+      "title": "The Celebration Experimentation",
+      "outline": "シェルドンは誕生日を祝うことを嫌がっていたが、友人たちの説得でパーティーを開き、皆からの愛情に感動する。"
+    },
+    {
+      "episode": "18",
+      "title": "The Application Deterioration",
+      "outline": "シェルドンとレナードとハワードは特許の取り分で大学と揉め、ラージは元カノのエミリーと、新たに気になるクレアとの間で板挟みになる。"
+    },
+    {
+      "episode": "19",
+      "title": "The Solder Excursion Diversion",
+      "outline": "シェルドンは古いPCを手放すことに抵抗し、レナードとハワードは女性陣を置いて映画を見に行き、それぞれが秘密を抱えながらも最終的には互いに打ち明けて関係を深める。"
+    },
+    {
+      "episode": "20",
+      "title": "The Big Bear Precipitation",
+      "outline": "週末にビッグベアの山小屋へ行ったシェルドン、エイミー、レナード、ペニーが、秘密の貯金や仕事への不満を告白し合い、ハワードとバーナデットはラージが妊娠に過剰に関与するのを阻止しようとする。"
+    },
+    {
+      "episode": "21",
+      "title": "The Viewing Party Combustion",
+      "outline": "ルームメイト契約会議をめぐるレナードとシェルドンの争いが、友情と人間関係の複雑さを露呈し、最終的には病院での騒動につながる。"
+    },
+    {
+      "episode": "22",
+      "title": "The Fermentation Bifurcation",
+      "outline": "ペニーが当てたワインテイスティングに、シェルドンは妊婦のバーナデットと過ごし、ラージは二股交際相手のクレアを連れてくる一方、レナードとハワードは自分たちの発明が軍事利用される可能性に悩む。"
+    },
+    {
+      "episode": "23",
+      "title": "The Line Substitution Solution",
+      "outline": "レナードの母親が訪問する中、シェルドンはアベンジャーズの試写会のために列に並ぶことを回避するために人を雇い、ペニーはレナードの母親との関係を築こうとする。"
+    },
+    {
+      "episode": "24",
+      "title": "The Convergence Convergence",
+      "outline": "レナードとペニーが両親を招待して結婚式をやり直す計画を立てる一方で、ハワードは軍からの興味を引き、レナードの両親とシェルドンの母親の間には予想外のロマンスが芽生える。"
+    }
   ],
   "10": [
-    "01 The Conjugal Conjecture",
-    "02 The Military Miniturization",
-    "03 The Dependence Transcendence",
-    "04 The Cohabitation Experimentation",
-    "05 The Hot Tub Contamination",
-    "06 The Foetal Kick Catalyst",
-    "07 The Veracity Elasticity",
-    "08 The Brain Bowl Incubation",
-    "09 The Geology Elevation",
-    "10 The Property Division Collision",
-    "11 The Birthday Synchronicity",
-    "12 The Holiday Summation",
-    "13 The Romance Recalibration",
-    "14 The Emotion Detection Automation",
-    "15 The Locomotion Reverberation",
-    "16 The Allowance Evaporation",
-    "17 The Comic-Con Conundrum",
-    "18 The Escape Hatch Identification",
-    "19 The Collaboration Fluctuation",
-    "20 The Recollection Dissipation",
-    "21 The Separation Agitation",
-    "22 The Cognition Regeneration",
-    "23 The Gyroscopic Collapse",
-    "24 The Long Distance Dissonance"
+    {
+      "episode": "01",
+      "title": "The Conjugal Conjecture",
+      "outline": "レナードとペニーの再婚式を中心に、それぞれの家族が集合し、親同士の恋愛騒動やハワードの仕事の秘密、家族間の緊張や愛情が交錯するコメディ。"
+    },
+    {
+      "episode": "02",
+      "title": "The Military Miniturization",
+      "outline": "空軍が量子ジャイロスコープの研究に興味を示し、ハワード、レナード、シェルドンは軍事利用の可能性と成果を急ぐプレッシャーに直面し、一方、バーナデットは妊娠が職場でのキャリアに影響を与えることを心配する。"
+    },
+    {
+      "episode": "03",
+      "title": "The Dependence Transcendence",
+      "outline": "シェルドンがエネルギー飲料に依存しかける中、レナード、ハワード、シェルドンは空軍とのプロジェクトの納期に間に合わない可能性に直面し、一方、バーナデットは妊娠に対する感情の欠如に苦悩する。"
+    },
+    {
+      "episode": "04",
+      "title": "The Cohabitation Experimentation",
+      "outline": "エイミーのアパートが水漏れで使用不能になり、シェルドンとエイミーがペニーとレナードのアパートで5週間同棲実験をすることになり、関係に変化が訪れる。"
+    },
+    {
+      "episode": "05",
+      "title": "The Hot Tub Contamination",
+      "outline": "シェルドンとエイミーは同棲生活での衝突を経験し、ハワードとバーナデットは旅行を計画するも、予期せぬ訪問者たちが現れ、それぞれの関係を見つめ直すことになる。"
+    },
+    {
+      "episode": "06",
+      "title": "The Foetal Kick Catalyst",
+      "outline": "ペニーがサイン会に参加することになり、ハワードとバーナデットは出産準備を始める一方、シェルドンとエイミーは初めてのブランチパーティーを企画する。"
+    },
+    {
+      "episode": "07",
+      "title": "The Veracity Elasticity",
+      "outline": "エイミーが同棲を続けるためにアパートの修理が完了したことを隠し、ペニーはレナードのコレクションを密かに処分し、友情と恋愛関係に混乱を引き起こす。"
+    },
+    {
+      "episode": "08",
+      "title": "The Brain Bowl Incubation",
+      "outline": "シェルドンとエイミーは自分たちのDNAから脳細胞を作り出し、ラージは大学の清掃員イザベラとの関係を築こうとするが、彼女の職業を恥ずかしく思っていることに気づく。"
+    },
+    {
+      "episode": "09",
+      "title": "The Geology Elevation",
+      "outline": "地質学者が天才助成金を受賞したことに嫉妬したシェルドンが、自分の感情と向き合い、スティーブン・ホーキングとのスカイプを通じて慰められる。"
+    },
+    {
+      "episode": "10",
+      "title": "The Property Division Collision",
+      "outline": "シェルドンとレナードは共同所有物の分け方で争い、ハワードとバーナデットはスチュアートとラージの子育て手伝い争いに巻き込まれる。"
+    },
+    {
+      "episode": "11",
+      "title": "The Birthday Synchronicity",
+      "outline": "バーナデットの出産とエイミーの誕生日が重なり、それぞれのカップルが予期せぬ状況に翻弄されながらも、絆を深める一夜を描く。"
+    },
+    {
+      "episode": "12",
+      "title": "The Holiday Summation",
+      "outline": "シェルドンとエイミーがテキサスへ里帰りし、レナードとペニーはクリスマスツリーを巡って大喧嘩、ハワードとバーナデットは育児に奮闘するホリデーシーズンを描く。"
+    },
+    {
+      "episode": "13",
+      "title": "The Romance Recalibration",
+      "outline": "結婚生活に慣れてしまったレナードとペニーは、関係を改善するためにシェルドンの協力を得て関係契約を結び直す。"
+    },
+    {
+      "episode": "14",
+      "title": "The Emotion Detection Automation",
+      "outline": "シェルドンが感情認識デバイスを試したことで人間関係の難しさを再認識し、ラージは元恋人たちに別れの理由を聞くことで自己改善を図るが、レオナルドとペニーはペニーの兄弟の訪問を巡って対立する。"
+    },
+    {
+      "episode": "15",
+      "title": "The Locomotion Reverberation",
+      "outline": "シェルドンが鉄道に夢中になり、レナードとハワードは彼に頼んで空軍のプロジェクトを手伝ってもらう一方、ペニー、エイミー、バーナデットは育児のプレッシャーから逃れようとする。"
+    },
+    {
+      "episode": "16",
+      "title": "The Allowance Evaporation",
+      "outline": "ラージが父親からの経済的自立を決意する一方で、シェルドンはエイミーとの性生活に関する噂が広まっていることに気づき、プライバシーの境界線を引こうとする。"
+    },
+    {
+      "episode": "17",
+      "title": "The Comic-Con Conundrum",
+      "outline": "ペニーとレナードはお互いを喜ばせようとComic-Conに行くことを計画するが、本当はどちらも行きたくなく、最終的に誰も行かないことになる一方、経済的に苦しいラージはComic-Conを諦めるが、ハワードとバーナデットに助けられそうになるも、自立のために申し出を断る。"
+    },
+    {
+      "episode": "18",
+      "title": "The Escape Hatch Identification",
+      "outline": "ラージがアパートを失い、レナードとペニー、ハワードとバーナデットの間でラージの居場所を巡る騒動が起きるが、最終的にレナードとペニーの家に落ち着く。"
+    },
+    {
+      "episode": "19",
+      "title": "The Collaboration Fluctuation",
+      "outline": "シェルドンとエイミーが共同研究を始め、レナードはペニーとラージの親密さに疎外感を感じる。"
+    },
+    {
+      "episode": "20",
+      "title": "The Recollection Dissipation",
+      "outline": "シェルドンが風邪薬の副作用で記憶をなくし、国防関連の機密情報が入ったノートを紛失し、一方、バーナデットは産休明けの仕事復帰に不安を感じる。"
+    },
+    {
+      "episode": "21",
+      "title": "The Separation Agitation",
+      "outline": "シェルドンとエイミーは旗に関するウェブキャストの特別版を制作し、一方、バーナデットは職場復帰に苦悩し、バートは恋人を取り戻すために奔走する。"
+    },
+    {
+      "episode": "22",
+      "title": "The Cognition Regeneration",
+      "outline": "シェルドンは自分の知的能力の衰えを恐れ、ペニーは元彼からの仕事のオファーに悩む。"
+    },
+    {
+      "episode": "23",
+      "title": "The Gyroscopic Collapse",
+      "outline": "レナードとハワードが軍と協力して開発したプロジェクトが没収され、エイミーはプリンストン大学での研究の機会を得て、シェルドンとの関係に変化が訪れる。"
+    },
+    {
+      "episode": "24",
+      "title": "The Long Distance Dissonance",
+      "outline": "シェルドンに好意を寄せる女性研究者が現れ、エイミーが遠隔で心配する中、シェルドンがプロポーズを決意する。"
+    }
   ]
 }
