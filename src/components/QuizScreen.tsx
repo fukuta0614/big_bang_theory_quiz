@@ -243,6 +243,7 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ review }) => {
 
       {/* Removed the original next button and quiz finished message */}
       {/* The logic is now handled by the modal button and the Home button */}
+      <button onClick={() => navigate(`/season/${seasonNumber}/episode/${episodeNumber}/questions`)}>問題一覧に戻る</button>
 
       <button className="home-button" onClick={() => {
         if (review) {
