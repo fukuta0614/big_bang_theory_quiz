@@ -1,68 +1,72 @@
-import { useState } from 'react';
-import { BrowserRouter } from 'react-router-dom'; // Remove Routes, Route
+import { BrowserRouter, Routes, Route } from 'react-router-dom'; // Import Routes and Route
 import './App.css';
 import QuizScreen from './components/QuizScreen';
 import Home from './components/Home';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import QuestionList from './components/QuestionList'; // Import QuestionList
 
 function App() {
-  // Initialize season state, perhaps with '01' or load from storage if needed later
-  const [season, setSeason] = useState('01');
-  const [episode, setEpisode] = useState('');
-  const [showQuiz, setShowQuiz] = useState(false);
-  const [isReviewMode, setIsReviewMode] = useState(false); // Add state for review mode
+  // Remove state related to showing quiz/review mode and season/episode selection
+  // This will now be handled by routing
 
-  // Handler for starting a normal quiz
-  const handleStartQuizFromHome = (selectedSeason: string, selectedEpisode: string) => {
-    setSeason(selectedSeason);
-    setEpisode(selectedEpisode);
-    setIsReviewMode(false); // Ensure review mode is off
-    setShowQuiz(true);
-  };
+  // Remove handlers related to old navigation logic
+  // const handleStartQuizFromHome = ...
+  // const handleStartReview = ...
+  // const handleGoHome = ...
 
-  // Handler for starting review mode (to be called from Home)
-  const handleStartReview = () => {
-    // Set dummy season/episode for review mode as QuizScreen expects them,
-    // even though it uses localStorage data.
-    setSeason("Review");
-    setEpisode("Mode");
-    setIsReviewMode(true); // Turn review mode on
-    setShowQuiz(true);
-  };
+  // Home component might need internal state for season selection now,
+  // or we could lift it again if needed globally (e.g., using Context API later).
+  // For now, let Home manage its season selection internally if needed,
+  // or pass default props if required. The props passed below are simplified.
 
-  // Handler for returning home from quiz/review
-  const handleGoHome = () => {
-    setShowQuiz(false);
-    setIsReviewMode(false); // Reset review mode state
-    // If returning from review mode, reset season to a default value
-    if (season === "Review") {
-      setSeason('01'); // Reset to season 1 or potentially the last selected valid season
-    }
-  };
+  // Note: The review mode functionality needs adjustment with routing.
+  // A possible approach is a dedicated route like '/review' or passing state/params.
+  // This implementation focuses on adding the QuestionList route first.
+  // The existing review button in Home might need to be updated later
+  // to navigate to a review route or use a different mechanism.
 
   return (
     <BrowserRouter>
-      <div>
-        {!showQuiz ? (
-          // Pass season state and setter to Home component
-          <><Header /><Home
-            season={season} // Pass current season
-            setSeason={setSeason} // Pass function to update season
-            onStartQuiz={handleStartQuizFromHome}
-            onStartReview={handleStartReview}
-          /></>
-        ) : (
-          // Pass review prop and updated onGoHome handler
-          <QuizScreen
-            season={season}
-            episode={episode}
-            onGoHome={handleGoHome}
-            review={isReviewMode} // Pass review state
+      <Header />
+      <div className="app-content"> {/* Added a wrapper for content */}
+        <Routes>
+          <Route
+            path="/"
+            element={
+              <Home
+                // Simplified props: Home now handles navigation via Links
+                // It might need internal state for season selection
+                // Pass initial/default season if necessary, or let Home fetch/manage it.
+                // Example: Let Home default to '01' or fetch episode_list.json to determine available seasons.
+                // For simplicity, removing season/setSeason props for now.
+                // Home will need adjustment if it relied on these props for initial state.
+                // onStartQuiz and onStartReview are removed as navigation is handled by Links.
+              />
+            }
           />
-        )}
-        <Footer />
+          <Route
+            path="/quiz/season/:seasonNumber/episode/:episodeNumber"
+            element={
+              <QuizScreen
+                // QuizScreen will get season/episode from useParams
+                // and startIndex from useLocation state.
+                // The review prop needs reconsideration with routing.
+                // For now, assuming non-review mode.
+                review={false} // Defaulting review to false
+                // onGoHome is replaced by useNavigate hook within QuizScreen
+              />
+            }
+          />
+          <Route
+            path="/season/:seasonNumber/episode/:episodeNumber/questions"
+            element={<QuestionList />} // QuestionList uses useParams
+          />
+          {/* Add other routes here if needed, e.g., for review mode */}
+          {/* <Route path="/review" element={<QuizScreen review={true} />} /> */}
+        </Routes>
       </div>
+      <Footer />
     </BrowserRouter>
   );
 }
