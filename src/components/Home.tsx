@@ -109,7 +109,7 @@ const Home: React.FC = () => {
                 </div>
                 {/* Link for viewing question list */}
                 <Link to={`/season/${season}/episode/${episode.episode}/questions`}>
-                  <button>問題一覧</button> {/* Add class if needed */}
+                  <button className="question-list-button">問題一覧</button>
                 </Link>
 
               </li>
