@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from 'react';
+import { useParams, useLocation, useNavigate } from 'react-router-dom'; // Import hooks
 import './QuizScreen.css';
 import Question from './Question';
 
+// Remove props: season, episode, onGoHome
 interface QuizScreenProps {
-  season: string;
-  episode: string;
-  onGoHome: () => void;
-  review?: boolean;
+  review?: boolean; // Keep review prop for now, needs routing adjustment later
 }
 
 interface QuestionData {
@@ -19,17 +18,27 @@ interface QuestionData {
   pronounciation: string;
   scriptContext: string;
   scriptContextTranslation: string;
-  season: string; // Add seasonfsc
-  episode: string; // Add episode
+  season: string; // Remove duplicate season property
+  episode: string;
 }
 
 interface QuizData {
   questions: QuestionData[];
 }
 
-const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, review }) => {
+// Remove props from signature
+const QuizScreen: React.FC<QuizScreenProps> = ({ review }) => {
+  // Get params, location, and navigate function
+  const { seasonNumber, episodeNumber } = useParams<{ seasonNumber: string; episodeNumber: string }>();
+  const location = useLocation();
+  const navigate = useNavigate();
+
+  // Determine start index from location state (only if not in review mode)
+  const startIndex = !review && location.state?.startIndex ? location.state.startIndex : 0;
+
   const [quizData, setQuizData] = useState<QuizData | null>(null);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  // Initialize currentQuestionIndex with startIndex
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(startIndex);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [userAnswers, setUserAnswers] = useState<string[]>([]);
   const [showResultModal, setShowResultModal] = useState(false); // Renamed for clarity
@@ -47,19 +56,32 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
             data = { questions: [] };
           }
         } else {
-          const response = await fetch(`../../data/season${season}/episode${episode}/quiz.json`);
+          // Fetch using params if not in review mode
+          if (!seasonNumber || !episodeNumber) {
+             console.error("Season or episode number missing in URL");
+             setQuizData({ questions: [] });
+             return; // Exit if params are missing
+          }
+          const response = await fetch(`/data/season${seasonNumber}/episode${episodeNumber}/quiz.json`); // Use params and correct path
+          if (!response.ok) { // Check response status
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
           data = await response.json();
         }
         setQuizData(data);
+        // Reset index to startIndex when data loads (important if navigating between episodes/lists)
+        setCurrentQuestionIndex(startIndex);
+        // Reset user answers when data loads
+        setUserAnswers(new Array(data.questions.length).fill(null));
       } catch (error) {
         console.error('Error fetching quiz data:', error);
-        // Optionally set quizData to an empty state or show an error message
         setQuizData({ questions: [] });
       }
     };
 
     fetchQuizData();
-  }, [season, episode, review]);
+    // Update dependencies: use seasonNumber, episodeNumber from params
+  }, [seasonNumber, episodeNumber, review, startIndex]); // Add startIndex dependency
 
   useEffect(() => {
     if (quizData) {
@@ -88,11 +110,12 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
       setScriptContext(context);
     };
 
-    if (quizData && quizData.questions && quizData.questions.length > 0) { // Add check for empty questions
+    // Ensure quizData and questions exist before fetching context
+    if (quizData?.questions && quizData.questions.length > currentQuestionIndex) {
       fetchScriptContext();
     }
-    // Add currentQuestion as a dependency to refetch when it changes
-  }, [quizData, currentQuestionIndex, season, episode]);
+    // Dependencies remain quizData and currentQuestionIndex
+  }, [quizData, currentQuestionIndex]); // Remove season/episode props from dependencies
 
   // Add a check for empty questions after loading
   if (!quizData || !quizData.questions || quizData.questions.length === 0) {
@@ -101,11 +124,13 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
       return (
         <div>
           <p>復習する問題はありません。</p>
-          <button onClick={onGoHome}>Homeに戻る</button>
+          {/* Use navigate instead of onGoHome */}
+          <button onClick={() => navigate('/')}>Homeに戻る</button>
         </div>
       );
     }
-    return <div>Loading...</div>;
+    // Handle loading or error state more explicitly if needed
+    return <div>Loading quiz...</div>;
   }
 
   const currentQuestion = quizData.questions[currentQuestionIndex];
@@ -133,39 +158,52 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
         // Remove correctly answered questions from local storage
         const storedQuestions = localStorage.getItem('incorrectQuestions');
         if (storedQuestions) {
-          let questions: QuestionData[] = JSON.parse(storedQuestions);
+          // Use const as questions is not reassigned here
+          const questions: QuestionData[] = JSON.parse(storedQuestions);
           // Filter out correctly answered questions based on the latest userAnswers
-          questions = questions.filter((question, index) => {
+          const filteredQuestions = questions.filter((question, index) => {
             // Ensure index is within bounds of userAnswers
             return index < userAnswers.length && userAnswers[index] !== question.correctAnswer;
           });
-          localStorage.setItem('incorrectQuestions', JSON.stringify(questions));
+          // Save the filtered list
+          localStorage.setItem('incorrectQuestions', JSON.stringify(filteredQuestions));
         }
       } else {
-        // Save incorrect questions to local storage, including season and episode
-        const incorrectQuestions = quizData ? quizData.questions
-          // Only consider questions that were actually answered AND were incorrect
-          .filter((question, index) => userAnswers[index] !== null && userAnswers[index] !== question.correctAnswer)
-          .map(q => ({ ...q, season, episode })) // Add season/episode
-          : [];
-        const storedQuestions = localStorage.getItem('incorrectQuestions');
-        const questions: QuestionData[] = storedQuestions ? JSON.parse(storedQuestions) : [];
-        // Add new incorrect questions, avoiding duplicates
-        incorrectQuestions.forEach(newQuestion => {
-          if (!questions.find(q => q.season === newQuestion.season && q.episode === newQuestion.episode && q.value === newQuestion.value)) {
-            questions.push(newQuestion);
+          // Save incorrect questions only if seasonNumber and episodeNumber are defined
+          if (quizData && seasonNumber && episodeNumber) {
+            const incorrectQuestions = quizData.questions
+              .filter((question, index) => userAnswers[index] !== null && userAnswers[index] !== question.correctAnswer)
+              // seasonNumber and episodeNumber are confirmed strings here
+              .map(q => ({ ...q, season: seasonNumber, episode: episodeNumber }));
+
+            const storedQuestions = localStorage.getItem('incorrectQuestions');
+            // Use const as questions is not reassigned here
+            const existingQuestions: QuestionData[] = storedQuestions ? JSON.parse(storedQuestions) : [];
+            // Add new incorrect questions, avoiding duplicates
+            const updatedQuestions = [...existingQuestions]; // Create a new array
+            incorrectQuestions.forEach(newQuestion => {
+              // Check against existingQuestions
+              if (!existingQuestions.find(q => q.season === newQuestion.season && q.episode === newQuestion.episode && q.value === newQuestion.value)) {
+                 updatedQuestions.push(newQuestion); // Add to the new array
+              }
+            });
+            localStorage.setItem('incorrectQuestions', JSON.stringify(updatedQuestions));
+          } else {
+            console.warn("Cannot save incorrect questions: seasonNumber or episodeNumber is undefined.");
           }
-        });
-        localStorage.setItem('incorrectQuestions', JSON.stringify(questions));
       }
-      onGoHome(); // Navigate home
+      navigate('/'); // Use navigate instead of onGoHome
     }
   };
 
+  // Display season/episode from params if not in review mode
+  const displaySeason = review ? "Review" : seasonNumber;
+  const displayEpisode = review ? "Mode" : episodeNumber;
 
   return (
     <div className="quiz-container">
-      <p>シーズン: {season} エピソード: {episode}</p>
+      {/* Display season/episode info */}
+      <p>シーズン: {displaySeason} エピソード: {displayEpisode}</p>
       <Question
         question={currentQuestion.value}
         options={currentQuestion.options}
@@ -219,24 +257,32 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
             localStorage.setItem('incorrectQuestions', JSON.stringify(questions));
           }
         } else {
-          // Save incorrect questions to local storage, including season and episode
-          const incorrectQuestions = quizData ? quizData.questions
-            // Only consider questions that were actually answered AND were incorrect
-            .filter((question, index) => userAnswers[index] !== null && userAnswers[index] !== question.correctAnswer)
-            .map(q => ({ ...q, season, episode })) // Add season/episode to each incorrect question
-            : [];
-          const storedQuestions = localStorage.getItem('incorrectQuestions');
-          const questions: QuestionData[] = storedQuestions ? JSON.parse(storedQuestions) : [];
-          // Add new incorrect questions, avoiding duplicates based on season, episode, and value
-          incorrectQuestions.forEach(newQuestion => {
-            if (!questions.find(q => q.season === newQuestion.season && q.episode === newQuestion.episode && q.value === newQuestion.value)) {
-              questions.push(newQuestion);
-            }
-          });
-          localStorage.setItem('incorrectQuestions', JSON.stringify(questions));
-        }
-        onGoHome();
-      }}>Homeに戻る</button>
+          // Save incorrect questions to local storage, only if season/episode defined
+          let incorrectQuestions: QuestionData[] = []; // Initialize empty array
+          if (quizData && seasonNumber && episodeNumber) { // Check if params are defined
+             incorrectQuestions = quizData.questions
+              .filter((question, index) => userAnswers[index] !== null && userAnswers[index] !== question.correctAnswer)
+              // seasonNumber and episodeNumber are confirmed strings here
+              .map(q => ({ ...q, season: seasonNumber, episode: episodeNumber }));
+          }
+
+          if (incorrectQuestions.length > 0) { // Only proceed if there are incorrect questions to save
+            const storedQuestions = localStorage.getItem('incorrectQuestions');
+            const existingQuestions: QuestionData[] = storedQuestions ? JSON.parse(storedQuestions) : [];
+            // Add new incorrect questions, avoiding duplicates
+            const updatedQuestions = [...existingQuestions];
+            incorrectQuestions.forEach(newQuestion => {
+               if (!existingQuestions.find(q => q.season === newQuestion.season && q.episode === newQuestion.episode && q.value === newQuestion.value)) {
+                  updatedQuestions.push(newQuestion);
+               }
+            });
+            localStorage.setItem('incorrectQuestions', JSON.stringify(updatedQuestions));
+          } else if (!seasonNumber || !episodeNumber) {
+             console.warn("Cannot save incorrect questions on Home button click: seasonNumber or episodeNumber is undefined.");
+          }
+      }
+      navigate('/'); // Use navigate instead of onGoHome
+    }}>Homeに戻る</button>
     </div>
   );
 }

@@ -1,12 +1,8 @@
-import React, { useState, useEffect, Dispatch, SetStateAction } from 'react'; // Import Dispatch and SetStateAction
+import React, { useState, useEffect } from 'react'; // Remove Dispatch, SetStateAction
+import { Link, useNavigate } from 'react-router-dom'; // Import Link and useNavigate
 import './Home.css'; // Add CSS import for styling
 
-interface HomeProps {
-  season: string; // Add season prop
-  setSeason: Dispatch<SetStateAction<string>>; // Add setSeason prop
-  onStartQuiz: (season: string, episode: string) => void;
-  onStartReview: () => void;
-}
+// Remove HomeProps interface
 
 // Define the structure for a single episode
 interface EpisodeInfo {
@@ -20,10 +16,10 @@ interface EpisodeList {
   [season: string]: EpisodeInfo[];
 }
 
-// Update component signature to receive new props
-const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onStartReview }) => {
-  // Remove internal season state, use props instead
-  // const [season, setSeason] = useState('01');
+// Update component signature - remove props
+const Home: React.FC = () => {
+  // Add internal state for season
+  const [season, setSeason] = useState('01'); // Default to season '01'
   const [episodeList, setEpisodeList] = useState<EpisodeList>({});
 
   useEffect(() => {
@@ -43,12 +39,17 @@ const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onStartRevi
     fetchEpisodeList();
   }, []);
 
-  // Get the array of episode objects for the selected season, default to empty array if not found
-  const episodeOptions: EpisodeInfo[] = episodeList[season] || [];
+  const navigate = useNavigate(); // Add useNavigate hook
 
-  // Function to handle starting quiz for a specific episode
-  const handleStartEpisodeQuiz = (episodeNumber: string) => {
-    onStartQuiz(season, episodeNumber);
+  // Removed handleStartQuiz as it's now per episode via Link
+
+  const episodeOptions = episodeList[season] || [];
+  // Remove handleStartEpisodeQuiz function
+
+  // TODO: Update review mode button functionality for routing
+  const handleStartReview = () => {
+    // Navigate to the /review route
+    navigate('/review');
   };
 
   return (
@@ -74,7 +75,8 @@ const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onStartRevi
         </select>
         </div>
         <div className="review-controls">
-          <button onClick={onStartReview} className="home-button review-button">
+          {/* Update onClick to use the local handleStartReview */}
+          <button onClick={handleStartReview} className="home-button review-button">
             復習モード
           </button>
           <button
@@ -105,13 +107,15 @@ const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onStartRevi
                   {/* Display the outline */}
                   <p className="synopsis">{episode.outline}</p>
                 </div>
-                <button
-                  // Pass episode.episode to the handler
-                  onClick={() => handleStartEpisodeQuiz(episode.episode)}
-                  className="start-quiz-button"
-                >
-                  クイズ開始
-                </button>
+                {/* Link for starting quiz directly */}
+                <Link to={`/quiz/season/${season}/episode/${episodeNumber}`}>
+                   <button className="start-quiz-button">クイズ開始</button>
+                </Link>
+                {/* Link for viewing question list */}
+                <Link to={`/season/${season}/episode/${episodeNumber}/questions`}>
+                  <button>問題一覧</button> {/* Add class if needed */}
+                </Link>
+
               </li>
             );
           })}
