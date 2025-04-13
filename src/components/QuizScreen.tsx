@@ -6,7 +6,9 @@ interface QuizScreenProps {
   season: string;
   episode: string;
   onGoHome: () => void;
+  onGoToWordList: (season: string, episode: string) => void; // Add prop to go back to word list
   review?: boolean;
+  startIndex?: number; // Add optional prop for starting index
 }
 
 interface QuestionData {
@@ -19,17 +21,18 @@ interface QuestionData {
   pronounciation: string;
   scriptContext: string;
   scriptContextTranslation: string;
-  season: string; // Add seasonfsc
-  episode: string; // Add episode
+  season?: string; // Make optional as it might not be present in review mode from localStorage
+  episode?: string; // Make optional
 }
 
 interface QuizData {
   questions: QuestionData[];
 }
 
-const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, review }) => {
+const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, onGoToWordList, review, startIndex = 0 }) => { // Destructure new props and set default startIndex
   const [quizData, setQuizData] = useState<QuizData | null>(null);
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  // Initialize currentQuestionIndex with startIndex prop
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(startIndex);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [userAnswers, setUserAnswers] = useState<string[]>([]);
   const [showResultModal, setShowResultModal] = useState(false); // Renamed for clarity
@@ -59,13 +62,20 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
     };
 
     fetchQuizData();
-  }, [season, episode, review]);
+    // Reset index if startIndex changes (e.g., navigating directly to a different question)
+    setCurrentQuestionIndex(startIndex);
+    // Reset answers when data/mode changes
+    if (quizData) {
+       setUserAnswers(new Array(quizData.questions.length).fill(null));
+    }
+  }, [season, episode, review, startIndex]); // Add startIndex as dependency
 
+  // This useEffect might be redundant now if answers are reset above, but keep for safety
   useEffect(() => {
     if (quizData) {
       setUserAnswers(new Array(quizData.questions.length).fill(null));
     }
-  }, [quizData]);
+  }, [quizData]); // Keep this dependency
 
   useEffect(() => {
     const fetchScriptContext = async () => {
@@ -206,9 +216,19 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ season, episode, onGoHome, revi
       {/* Removed the original next button and quiz finished message */}
       {/* The logic is now handled by the modal button and the Home button */}
 
+      {/* Add "Back to Word List" button, only if not in review mode */}
+      {!review && (
+        <button
+          className="wordlist-back-button" // Add specific class for styling
+          onClick={() => onGoToWordList(season, episode)}
+        >
+          問題一覧に戻る
+        </button>
+      )}
+
       <button className="home-button" onClick={() => {
+        // Save results logic (unchanged for now, but might need review later)
         if (review) {
-          // Remove correctly answered questions from local storage
           const storedQuestions = localStorage.getItem('incorrectQuestions');
           if (storedQuestions) {
             let questions: QuestionData[] = JSON.parse(storedQuestions);

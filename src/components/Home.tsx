@@ -2,9 +2,10 @@ import React, { useState, useEffect, Dispatch, SetStateAction } from 'react'; //
 import './Home.css'; // Add CSS import for styling
 
 interface HomeProps {
-  season: string; // Add season prop
-  setSeason: Dispatch<SetStateAction<string>>; // Add setSeason prop
+  season: string;
+  setSeason: Dispatch<SetStateAction<string>>;
   onStartQuiz: (season: string, episode: string) => void;
+  onShowWordList: (season: string, episode: string) => void; // Add prop for showing word list
   onStartReview: () => void;
 }
 
@@ -21,9 +22,7 @@ interface EpisodeList {
 }
 
 // Update component signature to receive new props
-const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onStartReview }) => {
-  // Remove internal season state, use props instead
-  // const [season, setSeason] = useState('01');
+const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onShowWordList, onStartReview }) => {
   const [episodeList, setEpisodeList] = useState<EpisodeList>({});
 
   useEffect(() => {
@@ -105,13 +104,21 @@ const Home: React.FC<HomeProps> = ({ season, setSeason, onStartQuiz, onStartRevi
                   {/* Display the outline */}
                   <p className="synopsis">{episode.outline}</p>
                 </div>
-                <button
-                  // Pass episode.episode to the handler
-                  onClick={() => handleStartEpisodeQuiz(episode.episode)}
-                  className="start-quiz-button"
-                >
-                  クイズ開始
-                </button>
+                <div className="episode-buttons"> {/* Container for buttons */}
+                  <button
+                    // Pass episode.episode to the handler
+                    onClick={() => handleStartEpisodeQuiz(episode.episode)}
+                    className="start-quiz-button"
+                  >
+                    クイズ開始
+                  </button>
+                  <button
+                    onClick={() => onShowWordList(season, episode.episode)} // Call the new handler
+                    className="word-list-button" // Add a class for styling if needed
+                  >
+                    問題一覧
+                  </button>
+                </div>
               </li>
             );
           })}

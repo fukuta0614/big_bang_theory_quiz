@@ -1,0 +1,91 @@
+.wordlist-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.wordlist-container h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.loading, .error {
+  padding: 20px;
+  color: #555;
+}
+
+.error {
+  color: #d9534f; /* Red color for errors */
+}
+
+.word-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.word-item {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.word-value {
+  font-size: 1.1em;
+  color: #444;
+}
+
+.start-from-here-button, .home-button {
+  padding: 8px 15px;
+  font-size: 0.9em;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.start-from-here-button {
+  background-color: #5cb85c; /* Green */
+  color: white;
+}
+
+.start-from-here-button:hover {
+  background-color: #4cae4c;
+}
+
+.home-button {
+  background-color: #0275d8; /* Blue */
+  color: white;
+  margin-top: 20px; /* Add some space above the home button */
+}
+
+.home-button:hover {
+  background-color: #025aa5;
+}
+
+/* Add styles for the back button in QuizScreen if needed */
+.wordlist-back-button {
+  padding: 8px 15px;
+  font-size: 0.9em;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  background-color: #f0ad4e; /* Orange */
+  color: white;
+  margin-right: 10px; /* Add some space between buttons */
+}
+
+.wordlist-back-button:hover {
+  background-color: #ec971f;
+}
