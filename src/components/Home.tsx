@@ -107,13 +107,9 @@ const Home: React.FC = () => {
                   {/* Display the outline */}
                   <p className="synopsis">{episode.outline}</p>
                 </div>
-                {/* Link for starting quiz directly */}
-                <Link to={`/quiz/season/${season}/episode/${episodeNumber}`}>
-                   <button className="start-quiz-button">クイズ開始</button>
-                </Link>
                 {/* Link for viewing question list */}
-                <Link to={`/season/${season}/episode/${episodeNumber}/questions`}>
-                  <button>問題一覧</button> {/* Add class if needed */}
+                <Link to={`/season/${season}/episode/${episode.episode}/questions`}>
+                  <button className="question-list-button">問題一覧</button>
                 </Link>
 
               </li>
