@@ -10,7 +10,11 @@
         "問題の中心"
       ],
       "correctAnswer": "重力の中心",
-      "explanation": "「centre of gravity」は、文字通りには「重力の中心」という意味ですが、比喩的には「活動の中心」「重要な場所」という意味でも使われます。物理的な意味合いだけでなく、物事の中心となる要素を指す場合にも用いられます。"
+      "explanation": "「centre of gravity」は、文字通りには「重力の中心」という意味ですが、比喩的には「活動の中心」「重要な場所」という意味でも使われます。物理的な意味合いだけでなく、物事の中心となる要素を指す場合にも用いられます。",
+      "etymology": "「centre」は「中心」、「gravity」は「重力」を意味します。文字通りには「重力の中心」ですが、比喩的には「活動の中心」「重要な場所」という意味でも使われます。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Well, I have an extremely low centre of gravity. I’m like a pyramid.",
+      "scriptContextTranslation": "Amy: まあね、重心がすごく低いから。ピラミッドみたいなものよ。"
     },
     {
       "id": 2,
@@ -22,7 +26,11 @@
         "切り傷"
       ],
       "correctAnswer": "捻挫",
-      "explanation": "「sprain」は、関節の靭帯などを痛める「捻挫」という意味です。スポーツなどでよく起こる怪我を指す際に用いられます。"
+      "explanation": "「sprain」は、関節の靭帯などを痛める「捻挫」という意味です。スポーツなどでよく起こる怪我を指す際に用いられます。",
+      "etymology": "語源は古フランス語の「espraindre」（圧迫する、絞る）から来ており、関節を強く圧迫することで靭帯などを痛める状態を表しています。",
+      "pronounciation": "/spreɪn/",
+      "scriptContext": "Leonard: Oh, I hope it’s just a sprain. I cannot walk into that E.R. with another video game injury.",
+      "scriptContextTranslation": "Leonard: ああ、ただの捻挫だといいんだけど。またゲームで怪我したなんて言って救急治療室には行きたくない。"
     },
     {
       "id": 3,
@@ -34,7 +42,11 @@
         "帰宅するところ"
       ],
       "correctAnswer": "出発するところ",
-      "explanation": "「on my way out」は、「出かけるところ」「出発するところ」という意味です。文字通り、今まさにどこかへ向かおうとしている状況を表します。"
+      "explanation": "「on my way out」は、「出かけるところ」「出発するところ」という意味です。文字通り、今まさにどこかへ向かおうとしている状況を表します。",
+      "etymology": "文字通りには「私の外出の途中」という意味で、今まさに家や場所を出発してどこかへ向かおうとしている状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh, I would, but I’m on my way out.",
+      "scriptContextTranslation": "Sheldon: ああ、やりたいけど、今から出かけるんだ。"
     },
     {
       "id": 4,
@@ -46,7 +58,11 @@
         "手に入れた"
       ],
       "correctAnswer": "病気になった",
-      "explanation": "「come down with」は、病気にかかる、罹患するという意味のイディオムです。軽い病気から重い病気まで幅広く使えます。"
+      "explanation": "「come down with」は、病気にかかる、罹患するという意味のイディオムです。軽い病気から重い病気まで幅広く使えます。",
+      "etymology": "病気が上から降りてくるというイメージで、病気にかかることを表します。突然病気になる状況を表すことが多いです。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yes. My sister’s uterus came down with a baby.",
+      "scriptContextTranslation": "Sheldon: ああ。妹の子宮が赤ちゃんを患った。"
     },
     {
       "id": 5,
@@ -58,7 +74,11 @@
         "嘘つき"
       ],
       "correctAnswer": "幸運な人",
-      "explanation": "「lucky duck」は、幸運な人、運の良い人を指す表現です。少しユーモラスなニュアンスを含みます。"
+      "explanation": "「lucky duck」は、幸運な人、運の良い人を指す表現です。少しユーモラスなニュアンスを含みます。",
+      "etymology": "なぜアヒルが使われているかは定かではありませんが、「duck」という語の響きがユーモラスで、軽い調子で幸運な人を指す際に用いられるようになったと考えられます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yes. I’m filling in for her husband who’s recovering from a horrible motorcycle accident. Lucky duck.",
+      "scriptContextTranslation": "Sheldon: ああ。ひどいバイク事故で療養中の妹の夫の代わりだ。ラッキーなやつ。"
     },
     {
       "id": 6,
@@ -70,7 +90,11 @@
         "中止になった"
       ],
       "correctAnswer": "予定されている",
-      "explanation": "「due」は、ここでは出産予定日など、何かが起こる予定の期日を表します。また、「be due to」で「～することになっている」という意味にもなります。"
+      "explanation": "「due」は、ここでは出産予定日など、何かが起こる予定の期日を表します。また、「be due to」で「～することになっている」という意味にもなります。",
+      "etymology": "元々は「当然支払われるべき」という意味から派生し、「期日を迎える」「予定されている」という意味になりました。",
+      "pronounciation": "/djuː/",
+      "scriptContext": "Sheldon: Well, she’s due tomorrow. Although it did take her six years to finish high school, so who knows?",
+      "scriptContextTranslation": "Sheldon: 出産予定日は明日だ。もっとも、高校を卒業するのに6年もかかったから、どうなることやら。"
     },
     {
       "id": 7,
@@ -82,7 +106,11 @@
         "正直に"
       ],
       "correctAnswer": "急いで",
-      "explanation": "「chop-chop」は、急げ、早くしろ、という意味の口語表現です。特に、せかしたい時に使われます。植民地時代に中国人が使っていた英語が起源とされています。"
+      "explanation": "「chop-chop」は、急げ、早くしろ、という意味の口語表現です。特に、せかしたい時に使われます。植民地時代に中国人が使っていた英語が起源とされています。",
+      "etymology": "植民地時代に中国人が使っていた英語が起源とされ、物を切る音から「急ぐ」という意味になったとされています。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh, no, thank you, I don’t want to be an inconvenience. Chop-chop, Leonard. We leave in ten minutes.",
+      "scriptContextTranslation": "Sheldon: ああ、いや、ありがとう。迷惑をかけたくない。さっさと、レナード。10分後に出発だ。"
     },
     {
       "id": 8,
@@ -94,7 +122,11 @@
         "支持される"
       ],
       "correctAnswer": "無視される",
-      "explanation": "「out the window」は、「ご破算になる」「無視される」という意味のイディオムです。計画やルールが実行されなくなる状況を表します。"
+      "explanation": "「out the window」は、「ご破算になる」「無視される」という意味のイディオムです。計画やルールが実行されなくなる状況を表します。",
+      "etymology": "計画や努力が窓から投げ捨てられるイメージで、「ご破算になる」「無視される」という意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: All right, here’s the deal. Sheldon is gone, so the tree decorating rules are out the window.",
+      "scriptContextTranslation": "Leonard: よし、いいか。シェルドンがいないから、ツリーの飾り付けのルールはなしだ。"
     },
     {
       "id": 9,
@@ -106,7 +138,11 @@
         "現実的な"
       ],
       "correctAnswer": "ばかげた",
-      "explanation": "「ridiculous」は、「ばかげた」「馬鹿らしい」という意味です。非合理的で、笑いを誘うような状況を表します。"
+      "explanation": "「ridiculous」は、「ばかげた」「馬鹿らしい」という意味です。非合理的で、笑いを誘うような状況を表します。",
+      "etymology": "ラテン語の「ridiculus」（笑いを誘う）が語源で、「ばかげた」「馬鹿らしい」という意味を持ちます。",
+      "pronounciation": "/rɪˈdɪkjʊləs/",
+      "scriptContext": "Penny: Yeah, which means we don’t have to use his ridiculous ornament-spacing template.",
+      "scriptContextTranslation": "Penny: ええ、つまり、彼のバカげたオーナメント間隔テンプレートを使わなくてもいいってことね。"
     },
     {
       "id": 10,
@@ -118,7 +154,11 @@
         "抗議デモ"
       ],
       "correctAnswer": "クラウドファンディング",
-      "explanation": "「Kickstarter campaign」は、クラウドファンディングのキャンペーンのことです。Kickstarterは、クリエイターがプロジェクトへの資金を一般から集めるためのプラットフォームです。"
+      "explanation": "「Kickstarter campaign」は、クラウドファンディングのキャンペーンのことです。Kickstarterは、クリエイターがプロジェクトへの資金を一般から集めるためのプラットフォームです。",
+      "etymology": "「Kickstarter」は、プロジェクトを「kickstart」（開始する、勢いをつける）するための資金を集めるキャンペーンという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: And I’m happy to report its kickstarter campaign is holding strong at zero dollars.",
+      "scriptContextTranslation": "Leonard: そして、クラウドファンディングは、しっかり0ドルを維持していることを報告できて嬉しいよ。"
     },
     {
       "id": 11,
@@ -130,7 +170,11 @@
         "停止している"
       ],
       "correctAnswer": "安定している",
-      "explanation": "「holding strong」は、「持ちこたえている」「健在である」という意味です。困難な状況でも、現状を維持している状態を表します。"
+      "explanation": "「holding strong」は、「持ちこたえている」「健在である」という意味です。困難な状況でも、現状を維持している状態を表します。",
+      "etymology": "困難な状況に耐え、強さを維持しているイメージから、「持ちこたえている」「健在である」という意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: And I’m happy to report its kickstarter campaign is holding strong at zero dollars.",
+      "scriptContextTranslation": "Leonard: そして、クラウドファンディングは、しっかり0ドルを維持していることを報告できて嬉しいよ。"
     },
     {
       "id": 12,
@@ -142,7 +186,11 @@
         "退屈な場所へようこそ"
       ],
       "correctAnswer": "弱肉強食の世界へようこそ",
-      "explanation": "「Welcome to the Thunderdome」は、映画『マッドマックス』シリーズに登場するフレーズで、「弱肉強食の世界へようこそ」という意味合いで使われます。ここでは、ルールが無くなり、何でもありのカオスな状況を面白おかしく表現するために使われています。"
+      "explanation": "「Welcome to the Thunderdome」は、映画『マッドマックス』シリーズに登場するフレーズで、「弱肉強食の世界へようこそ」という意味合いで使われます。ここでは、ルールが無くなり、何でもありのカオスな状況を面白おかしく表現するために使われています。",
+      "etymology": "映画『マッドマックス』シリーズに登場するフレーズで、ルールが存在しない過酷な闘技場を指し、「弱肉強食の世界へようこそ」という意味合いで使われます。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: I know, it’s crazy. Welcome to the Thunderdome, people. (All whoop)",
+      "scriptContextTranslation": "Leonard: そうだ、クレイジーだろ。サンダードームへようこそ。（全員が歓声を上げる）"
     },
     {
       "id": 13,
@@ -154,7 +202,11 @@
         "仏教の葬式"
       ],
       "correctAnswer": "ユダヤ教の成人式",
-      "explanation": "「Bar Mitzvah」は、ユダヤ教の成人式のことを指します。13歳の男子が行う儀式で、宗教的な責任を負う年齢に達したことを祝います。"
+      "explanation": "「Bar Mitzvah」は、ユダヤ教の成人式のことを指します。13歳の男子が行う儀式で、宗教的な責任を負う年齢に達したことを祝います。",
+      "etymology": "アラム語で「戒めの息子」という意味で、ユダヤ教の男子が13歳になった際に行われる成人を祝う儀式を指します。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Yeah, if your mom could see her little Bar Mitzvah boy right now, she’d have a heart attack.",
+      "scriptContextTranslation": "Raj: ああ、もし君のお母さんが、今この君の姿を見たら、心臓発作を起こすだろうな。"
     },
     {
       "id": 14,
@@ -166,7 +218,11 @@
         "食料が豊富である"
       ],
       "correctAnswer": "金欠である",
-      "explanation": "「strapped for cash」は、「お金に困っている」「金欠である」という意味の口語的な表現です。一時的な金銭的な困難を表します。"
+      "explanation": "「strapped for cash」は、「お金に困っている」「金欠である」という意味の口語的な表現です。一時的な金銭的な困難を表します。",
+      "etymology": "「strap」は縛るという意味で、お金がなくて身動きが取れない状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Honey, I’m a little strapped for cash this year, so for Christmas I was thinking of giving you this.",
+      "scriptContextTranslation": "Penny: ねえ、今年はちょっとお金が厳しいから、クリスマスにはこれをあげようかと思ってるの。"
     },
     {
       "id": 15,
@@ -178,7 +234,11 @@
         "パーティーを計画する"
       ],
       "correctAnswer": "パーティーを開く",
-      "explanation": "「throw a party」は、「パーティーを開く」「催す」という意味の一般的な表現です。"
+      "explanation": "「throw a party」は、「パーティーを開く」「催す」という意味の一般的な表現です。",
+      "etymology": "パーティーを「投げる」というイメージで、パーティーを主催し、盛大に開催するという意味合いがあります。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: The second I go out of town you throw a Christmas party without me? ",
+      "scriptContextTranslation": "Sheldon: 私が町を出た途端に、私抜きでクリスマスパーティーを開くのか？"
     },
     {
       "id": 16,
@@ -190,7 +250,11 @@
         "頑固な"
       ],
       "correctAnswer": "思いやりのある",
-      "explanation": "「thoughtful」は、「思いやりのある」「配慮のある」という意味です。人の気持ちを理解し、行動できることを表します。"
+      "explanation": "「thoughtful」は、「思いやりのある」「配慮のある」という意味です。人の気持ちを理解し、行動できることを表します。",
+      "etymology": "「thought」（考え）で満ちているという意味から、「思いやりのある」「配慮のある」という意味になりました。",
+      "pronounciation": "/ˈθɔːtfʊl/",
+      "scriptContext": "Sheldon: That’s so thoughtful. You guys are the best.",
+      "scriptContextTranslation": "Sheldon: なんて思いやりがあるんだ。みんな最高だよ。"
     },
     {
       "id": 17,
@@ -202,7 +266,11 @@
         "破産する"
       ],
       "correctAnswer": "陣痛が始まる",
-      "explanation": "「go into labor」は、「陣痛が始まる」「出産が始まる」という意味です。"
+      "explanation": "「go into labor」は、「陣痛が始まる」「出産が始まる」という意味です。",
+      "etymology": "「labor」は労働、陣痛という意味で、出産という大仕事に入ることを表します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 18,
@@ -214,7 +282,11 @@
         "水中出産"
       ],
       "correctAnswer": "自宅出産",
-      "explanation": "「home birth」は、「自宅出産」という意味です。病院ではなく、自宅で出産することを指します。"
+      "explanation": "「home birth」は、「自宅出産」という意味です。病院ではなく、自宅で出産することを指します。",
+      "etymology": "文字通り「自宅での出産」を意味します。",
+      "pronounciation": "/ˈhoʊm bɜːrθ/",
+      "scriptContext": "Sheldon: No, she chose to have a home birth because she wants to live in the Stone Age and a cave wasn’t available.",
+      "scriptContextTranslation": "Sheldon: いや、彼女は石器時代に生きたいんだ。それで洞窟がなかったので、自宅出産を選んだ。"
     },
     {
       "id": 19,
@@ -226,7 +298,11 @@
         "現代"
       ],
       "correctAnswer": "石器時代",
-      "explanation": "「Stone Age」は、「石器時代」という意味です。ここでは、原始的な生活様式を指す比喩として使われています。"
+      "explanation": "「Stone Age」は、「石器時代」という意味です。ここでは、原始的な生活様式を指す比喩として使われています。",
+      "etymology": "人類の歴史において、石器が主な道具として使われた時代を指します。ここでは、原始的な状態を比喩的に表現しています。",
+      "pronounciation": "/ˈstoʊn eɪdʒ/",
+      "scriptContext": "Sheldon: No, she chose to have a home birth because she wants to live in the Stone Age and a cave wasn’t available.",
+      "scriptContextTranslation": "Sheldon: いや、彼女は石器時代に生きたいんだ。それで洞窟がなかったので、自宅出産を選んだ。"
     },
     {
       "id": 20,
@@ -238,7 +314,11 @@
         "隔離される"
       ],
       "correctAnswer": "育まれる",
-      "explanation": "「nurture」は、「育む」「養育する」という意味です。ここでは、愛情やケアを受けて成長することを指します。"
+      "explanation": "「nurture」は、「育む」「養育する」という意味です。ここでは、愛情やケアを受けて成長することを指します。",
+      "etymology": "フランス語の「nourriture」（食物）が語源で、「育む」「養育する」という意味を持ちます。",
+      "pronounciation": "/ˈnɜːrtʃərd/",
+      "scriptContext": "Raj: You know, many people believe that home births are better because the mother is in a warm, comfortable environment where she can be nurtured by loved ones.",
+      "scriptContextTranslation": "Raj: あのね、多くの人は自宅出産の方が良いと思っているんだよ。母親が温かく快適な環境で、愛する人たちに世話をされるからね。"
     },
     {
       "id": 21,
@@ -250,7 +330,11 @@
         "筋肉の"
       ],
       "correctAnswer": "羊水の",
-      "explanation": "「amniotic」は、「羊水の」という意味です。妊娠中に胎児を包む羊水に関連する言葉です。"
+      "explanation": "「amniotic」は、「羊水の」という意味です。妊娠中に胎児を包む羊水に関連する言葉です。",
+      "etymology": "羊膜（amniom）に由来し、「羊水の」という意味を持ちます。",
+      "pronounciation": "/ˌæmniˈɒtɪk/",
+      "scriptContext": "Sheldon: And turn the bedroom floor into an amniotic Slip ‘n Slide.",
+      "scriptContextTranslation": "Sheldon: そして寝室の床を羊水のウォータースライダーに変えるんだ。"
     },
     {
       "id": 22,
@@ -262,7 +346,11 @@
         "ブランコ"
       ],
       "correctAnswer": "ウォータースライダー",
-      "explanation": "「Slip 'n Slide」は、水を使って滑るおもちゃ、簡易ウォータースライダーのことです。ここでは、羊水で滑る様子をユーモラスに表現しています。"
+      "explanation": "「Slip 'n Slide」は、水を使って滑るおもちゃ、簡易ウォータースライダーのことです。ここでは、羊水で滑る様子をユーモラスに表現しています。",
+      "etymology": "商品名であり、水の上を滑るおもちゃを指します。羊水の中を滑る様子をユーモラスに表現しています。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 23,
@@ -274,7 +362,11 @@
         "拡張"
       ],
       "correctAnswer": "全開",
-      "explanation": "「fully dilated」は、分娩時に子宮口が全開になっている状態を指します。出産が間近であることを意味します。"
+      "explanation": "「fully dilated」は、分娩時に子宮口が全開になっている状態を指します。出産が間近であることを意味します。",
+      "etymology": "「dilate」は拡張するという意味で、子宮口が最大限に開いた状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Mrs Cooper (off): Shelly, come on. Your sister’s fully dilated and she wants a nice family picture before there’s blood everywhere.",
+      "scriptContextTranslation": "Mrs クーパー（声のみ）: シェリー、早く来なさい。妹は全開よ。血だらけになる前に家族写真を撮りたいの。"
     },
     {
       "id": 24,
@@ -286,7 +378,11 @@
         "日を忘れる"
       ],
       "correctAnswer": "悪い日を選ぶ",
-      "explanation": "「pick the wrong day」は、「日を間違える」「都合の悪い日を選んでしまう」という意味です。ここでは、Tシャツを着る日として不適切だったことを後悔する様子を表しています。"
+      "explanation": "「pick the wrong day」は、「日を間違える」「都合の悪い日を選んでしまう」という意味です。ここでは、Tシャツを着る日として不適切だったことを後悔する様子を表しています。",
+      "etymology": "文字通り「間違った日を選ぶ」という意味で、不運な日を選んでしまったことを表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh, boy. I picked the wrong day to wear my good robot T-shirt.",
+      "scriptContextTranslation": "Sheldon: ああ、参ったな。ロボット柄のお気に入りのTシャツを着てくる日を間違えた。"
     },
     {
       "id": 25,
@@ -298,7 +394,11 @@
         "レ・ミゼラブル"
       ],
       "correctAnswer": "素晴らしき哉、人生！",
-      "explanation": "「It's a Wonderful Life」は、フランク・キャプラ監督の有名なクリスマス映画のタイトルです。人生の価値や意味を問いかける感動的な物語です。"
+      "explanation": "「It's a Wonderful Life」は、フランク・キャプラ監督の有名なクリスマス映画のタイトルです。人生の価値や意味を問いかける感動的な物語です。",
+      "etymology": "映画のタイトルであり、人生の素晴らしさを描いた物語です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 26,
@@ -310,7 +410,11 @@
         "興奮して"
       ],
       "correctAnswer": "憂鬱で",
-      "explanation": "「depressed」は、気分が落ち込んでいる、憂鬱な状態を表します。一時的な悲しみや落ち込みよりも深刻で、持続的な感情の状態を指すことが多いです。臨床的には、うつ病の症状としても現れます。\n\n例文：She felt depressed after losing her job. (彼女は仕事を失って憂鬱になった。)"
+      "explanation": "「depressed」は、気分が落ち込んでいる、憂鬱な状態を表します。一時的な悲しみや落ち込みよりも深刻で、持続的な感情の状態を指すことが多いです。臨床的には、うつ病の症状としても現れます。\n\n例文：She felt depressed after losing her job. (彼女は仕事を失って憂鬱になった。)",
+      "etymology": "ラテン語の「depressus」（押し下げられた）が語源で、気分が落ち込んでいる状態を表します。",
+      "pronounciation": "/dɪˈprest/",
+      "scriptContext": "Amy: It’s great. It’s Christmastime and Jimmy Stewart’s really depressed and he’s gonna jump off a bridge and kill himself.",
+      "scriptContextTranslation": "Amy: いいわよね。クリスマスなのに、ジミー・スチュワートがひどく落ち込んで橋から飛び降りて自殺しようとするんだから。"
     },
     {
       "id": 27,
@@ -322,7 +426,11 @@
         "それを無視している"
       ],
       "correctAnswer": "それを生きている",
-      "explanation": "「Living it」は、文字通りには「それを生きている」という意味ですが、この文脈では、Stuartが映画の中のdepressedな状態を、まるで自分の現実であるかのように感じていることを強調しています。つまり、「映画の中の憂鬱な状況を、まさに今、自分が経験している」というニュアンスが含まれています。\n\n例：You think this is bad? I'm living it! （これでも悪いと思ってる？俺はそれを生きているんだ！）"
+      "explanation": "「Living it」は、文字通りには「それを生きている」という意味ですが、この文脈では、Stuartが映画の中のdepressedな状態を、まるで自分の現実であるかのように感じていることを強調しています。つまり、「映画の中の憂鬱な状況を、まさに今、自分が経験している」というニュアンスが含まれています。\n\n例：You think this is bad? I'm living it! （これでも悪いと思ってる？俺はそれを生きているんだ！）",
+      "etymology": "映画の中の憂鬱な状況を、まるで自分の現実であるかのように感じていることを強調する表現です。",
+      "pronounciation": "",
+      "scriptContext": "Stuart: Don’t need to see it. Living it.",
+      "scriptContextTranslation": "Stuart: 見る必要ないよ。もう体験済みだ。"
     },
     {
       "id": 28,
@@ -334,7 +442,11 @@
         "購入する"
       ],
       "correctAnswer": "ナンパする",
-      "explanation": "「pick up」は、ここでは「ナンパする」という意味で使われています。誰かを誘ったり、恋愛関係を始めるために話しかけたりする行為を指します。口語的な表現です。\n\n例：He tried to pick her up at the bar. (彼はバーで彼女をナンパしようとした。)"
+      "explanation": "「pick up」は、ここでは「ナンパする」という意味で使われています。誰かを誘ったり、恋愛関係を始めるために話しかけたりする行為を指します。口語的な表現です。\n\n例：He tried to pick her up at the bar. (彼はバーで彼女をナンパしようとした。)",
+      "etymology": "誰かを「拾い上げる」というイメージから、声をかけて誘う、ナンパするという意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: You don’t know that. I’ve been going to the Cheesecake Factory for years. I could have picked her up. (General laughter)",
+      "scriptContextTranslation": "Leonard: それは分からないだろ。俺はチーズケーキ・ファクトリーに何年も通ってるんだ。ナンパしてたかもしれない。(一同爆笑)"
     },
     {
       "id": 29,
@@ -346,7 +458,11 @@
         "～しなければならない"
       ],
       "correctAnswer": "～するつもり",
-      "explanation": "「gonna」は、「going to」の口語的な短縮形です。「～するつもり」「～だろう」という意味で、未来の予定や意図を表します。日常会話で非常によく使われます。\n\n例：I'm gonna go to the store later. (後で店に行くつもりです。)"
+      "explanation": "「gonna」は、「going to」の口語的な短縮形です。「～するつもり」「～だろう」という意味で、未来の予定や意図を表します。日常会話で非常によく使われます。\n\n例：I'm gonna go to the store later. (後で店に行くつもりです。)",
+      "etymology": "「going to」の口語的な短縮形で、未来の予定や意図を表します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Well, congrats, and it’s nice you’re gonna be there for your sister.",
+      "scriptContextTranslation": "Leonard: まあ、おめでとう。妹さんのために行ってあげるのはいいことだ。"
     },
     {
       "id": 30,
@@ -358,7 +474,11 @@
         "こぼす"
       ],
       "correctAnswer": "噴出させる",
-      "explanation": "「squirt」は、液体などを勢いよく噴出させるという意味です。ここでは、ありえないこと、ばかげたことを強調するために使われています。\n\n例文：The ketchup squirted out of the bottle.（ケチャップがボトルから噴出した。）"
+      "explanation": "「squirt」は、液体などを勢いよく噴出させるという意味です。ここでは、ありえないこと、ばかげたことを強調するために使われています。\n\n例文：The ketchup squirted out of the bottle.（ケチャップがボトルから噴出した。）",
+      "etymology": "液体などを勢いよく噴出させるという意味です。この文脈では、ありえないこと、ばかげたことを強調するために使われています。",
+      "pronounciation": "/skwɜːrt/",
+      "scriptContext": "Howard: I’m gonna squirt chocolate milk out of my nipples. Sorry, I thought we’re saying things that are never gonna happen.",
+      "scriptContextTranslation": "Howard: 俺は乳首からチョコレートミルクを噴射するぜ。悪い、ありえないことを言うのかと思った。"
     },
     {
       "id": 31,
@@ -370,7 +490,11 @@
         "指"
       ],
       "correctAnswer": "乳首",
-      "explanation": "「nipples」は、乳首という意味です。この文脈では、ありえないこと、ばかげたことを強調するために使われています。\n\n例文：The baby suckled at her nipple.（赤ちゃんは彼女の乳首を吸った。）"
+      "explanation": "「nipples」は、乳首という意味です。この文脈では、ありえないこと、ばかげたことを強調するために使われています。\n\n例文：The baby suckled at her nipple.（赤ちゃんは彼女の乳首を吸った。）",
+      "etymology": "乳首を意味する言葉です。この文脈では、ありえないこと、ばかげたことを強調するために使われています。",
+      "pronounciation": "/ˈnɪpəlz/",
+      "scriptContext": "Howard: I’m gonna squirt chocolate milk out of my nipples. Sorry, I thought we’re saying things that are never gonna happen.",
+      "scriptContextTranslation": "Howard: 俺は乳首からチョコレートミルクを噴射するぜ。悪い、ありえないことを言うのかと思った。"
     },
     {
       "id": 32,
@@ -382,7 +506,11 @@
         "手伝って"
       ],
       "correctAnswer": "あなた自身で",
-      "explanation": "「on your own」は、「一人で」「自分自身で」という意味です。誰の助けも借りずに、自分だけで何かを行うことを指します。\n\n例：He decided to start his own business and work on his own. (彼は自分でビジネスを始めて、一人で働くことに決めた。)"
+      "explanation": "「on your own」は、「一人で」「自分自身で」という意味です。誰の助けも借りずに、自分だけで何かを行うことを指します。\n\n例：He decided to start his own business and work on his own. (彼は自分でビジネスを始めて、一人で働くことに決めた。)",
+      "etymology": "「あなた自身で」という意味です。誰の助けも借りずに、自分だけで何かを行うことを指します。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Fine, then go talk to her on your own.",
+      "scriptContextTranslation": "Howard: いいよ、じゃあ一人で話しかけてこいよ。"
     },
     {
       "id": 33,
@@ -394,7 +522,11 @@
         "準備万端"
       ],
       "correctAnswer": "遅すぎる",
-      "explanation": "「too late」は、「遅すぎる」という意味です。機会を逃したり、手遅れになった状況を表します。\n\n例：I'm afraid it's too late to change your mind. (残念ながら、今更考えを変えるのは遅すぎます。)"
+      "explanation": "「too late」は、「遅すぎる」という意味です。機会を逃したり、手遅れになった状況を表します。\n\n例：I'm afraid it's too late to change your mind. (残念ながら、今更考えを変えるのは遅すぎます。)",
+      "etymology": "機会を逃したり、手遅れになった状況を表します。",
+      "pronounciation": "",
+      "scriptContext": "Penny: I think you’re too late.",
+      "scriptContextTranslation": "Penny: もう手遅れだと思うわ。"
     },
     {
       "id": 34,
@@ -406,7 +538,11 @@
         "隠す"
       ],
       "correctAnswer": "成功する",
-      "explanation": "「nail it」は、「うまくやる」「成功させる」という意味の口語表現です。特に、何か難しいことや挑戦的なことをやり遂げたときに使われます。\n\n例：She was nervous about the presentation, but she nailed it. (彼女はプレゼンテーションについて緊張していたが、うまくやり遂げた。)"
+      "explanation": "「nail it」は、「うまくやる」「成功させる」という意味の口語表現です。特に、何か難しいことや挑戦的なことをやり遂げたときに使われます。\n\n例：She was nervous about the presentation, but she nailed it. (彼女はプレゼンテーションについて緊張していたが、うまくやり遂げた。)",
+      "etymology": "釘を打ち込むように、何かを確実に成功させるイメージから、「うまくやる」「成功させる」という意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Howard: She nailed it.",
+      "scriptContextTranslation": "Howard: 的確だ。"
     },
     {
       "id": 35,
@@ -418,7 +554,11 @@
         "紹介する"
       ],
       "correctAnswer": "紹介する",
-      "explanation": "「set up」は、ここでは「（デートなどを）セッティングする」「紹介する」という意味で使われています。二人の人が恋愛関係になるように取り持つことを指します。\n\n例：She set me up with her friend. (彼女は私を彼女の友達と紹介してくれた。)"
+      "explanation": "「set up」は、ここでは「（デートなどを）セッティングする」「紹介する」という意味で使われています。二人の人が恋愛関係になるように取り持つことを指します。\n\n例：She set me up with her friend. (彼女は私を彼女の友達と紹介してくれた。)",
+      "etymology": "（デートなどを）セッティングする」「紹介する」という意味で使われています。二人の人が恋愛関係になるように取り持つことを指します。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Which couldn’t have happened if you didn’t live across the hall from her, which couldn’t have happened without Sheldon. Same goes with you guys. If Leonard wasn’t with Penny, she never would have set you up.",
+      "scriptContextTranslation": "Amy: それは、あなたが彼女の向かいの部屋に住んでいなかったら起こり得なかったし、シェルドンがいなければそれも起こり得なかったわ。あなたたちも同じよ。もしレオナルドがペニーと付き合っていなかったら、彼女はあなたたちを引き合わせることはなかったでしょう。"
     },
     {
       "id": 36,
@@ -430,7 +570,11 @@
         "お菓子工場"
       ],
       "correctAnswer": "肉体労働の場所",
-      "explanation": "「beefcake factory」は、体が鍛えられた男性が多い場所、またはそのような男性が集まる状況を指す、比喩的な表現です。Howardが自分自身を指して言っていることから、彼がそのような男性に囲まれて働いている、または自分がそのような男性の一人であるという意味合いが含まれます。どちらの意味にしても、ややユーモラスで自虐的なニュアンスがあります。\n\n例文：I work at the gym, it's a total beefcake factory."
+      "explanation": "「beefcake factory」は、体が鍛えられた男性が多い場所、またはそのような男性が集まる状況を指す、比喩的な表現です。Howardが自分自身を指して言っていることから、彼がそのような男性に囲まれて働いている、または自分がそのような男性の一人であるという意味合いが含まれます。どちらの意味にしても、ややユーモラスで自虐的なニュアンスがあります。\n\n例文：I work at the gym, it's a total beefcake factory.",
+      "etymology": "筋肉隆々の男性（beefcake）が多い場所、またはそのような男性が集まる状況を指す比喩的な表現です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Doesn’t matter. Bernadette still would’ve been working at The Cheesecake Factory, and I still would’ve been working this beefcake factory. You would’ve been all over me.",
+      "scriptContextTranslation": "Howard: 関係ないね。バーナデットは相変わらずチーズケーキ・ファクトリーで働いてて、俺は相変わらずこの筋肉工場で働いてる。お前は俺に夢中になってるだろうな。"
     },
     {
       "id": 37,
@@ -442,7 +586,11 @@
         "私を批判して"
       ],
       "correctAnswer": "私に夢中で",
-      "explanation": "「all over me」は、「私に夢中になる」「私に群がる」という意味です。ここでは、BernadetteがHowardに夢中になるだろうという状況を指しています。性的な意味合いを含むこともあります。\n\n例：The fans were all over the band after the concert. (コンサートの後、ファンはバンドに群がっていた。)"
+      "explanation": "「all over me」は、「私に夢中になる」「私に群がる」という意味です。ここでは、BernadetteがHowardに夢中になるだろうという状況を指しています。性的な意味合いを含むこともあります。\n\n例：The fans were all over the band after the concert. (コンサートの後、ファンはバンドに群がっていた。)",
+      "etymology": "「私に夢中になる」「私に群がる」という意味です。ここでは、BernadetteがHowardに夢中になるだろうという状況を指しています。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Doesn’t matter. Bernadette still would’ve been working at The Cheesecake Factory, and I still would’ve been working this beefcake factory. You would’ve been all over me.",
+      "scriptContextTranslation": "Howard: 関係ないね。バーナデットは相変わらずチーズケーキ・ファクトリーで働いてて、俺は相変わらずこの筋肉工場で働いてる。お前は俺に夢中になってるだろうな。"
     },
     {
       "id": 38,
@@ -454,7 +602,11 @@
         "無視して"
       ],
       "correctAnswer": "広く開けて",
-      "explanation": "「open wide」は、「口を大きく開けて」という意味です。ここでは、食べ物や愛情を受け入れることを示唆するユーモラスな表現として使われています。\n\n例：The doctor told the child to open wide. (医者は子供に口を大きく開けるように言った。)"
+      "explanation": "「open wide」は、「口を大きく開けて」という意味です。ここでは、食べ物や愛情を受け入れることを示唆するユーモラスな表現として使われています。\n\n例：The doctor told the child to open wide. (医者は子供に口を大きく開けるように言った。)",
+      "etymology": "「口を大きく開けて」という意味です。ここでは、食べ物や愛情を受け入れることを示唆するユーモラスな表現として使われています。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Open wide, here comes the happy train.",
+      "scriptContextTranslation": "Raj: 口を開けて。ハッピートレインが来るよ。"
     },
     {
       "id": 39,
@@ -466,7 +618,11 @@
         "普通の列車"
       ],
       "correctAnswer": "楽しい列車",
-      "explanation": "「happy train」は、食べ物を口に運ぶことを比喩的に表現した、ユーモラスな表現です。特に、子供に食べさせるときによく使われます。この文脈では、HowardがBernadetteに夢中になっている状況を面白おかしく表現しています。\n\n例：Here comes the happy train! Open your mouth! (楽しい列車が来るよ！口を開けて！)"
+      "explanation": "「happy train」は、食べ物を口に運ぶことを比喩的に表現した、ユーモラスな表現です。特に、子供に食べさせるときによく使われます。この文脈では、HowardがBernadetteに夢中になっている状況を面白おかしく表現しています。\n\n例：Here comes the happy train! Open your mouth! (楽しい列車が来るよ！口を開けて！)",
+      "etymology": "食べ物を口に運ぶことを比喩的に表現した、ユーモラスな表現です。特に、子供に食べさせるときによく使われます。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Open wide, here comes the happy train.",
+      "scriptContextTranslation": "Raj: 口を開けて。ハッピートレインが来るよ。"
     },
     {
       "id": 40,
@@ -478,7 +634,11 @@
         "蒸気機関車の音"
       ],
       "correctAnswer": "蒸気機関車の音",
-      "explanation": "「chug-a-chug-a」は、蒸気機関車の音を模した擬音語です。ここでは、食べ物を口に運ぶ様子を面白おかしく表現するために使われています。\n\n例：The train went chug-a-chug-a up the hill. (列車は丘を登るときに、シュッシュッポッポと音を立てた。)"
+      "explanation": "「chug-a-chug-a」は、蒸気機関車の音を模した擬音語です。ここでは、食べ物を口に運ぶ様子を面白おかしく表現するために使われています。\n\n例：The train went chug-a-chug-a up the hill. (列車は丘を登るときに、シュッシュッポッポと音を立てた。)",
+      "etymology": "蒸気機関車の音を模した擬音語です。ここでは、食べ物を口に運ぶ様子を面白おかしく表現するために使われています。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Mm-hmm, chug-a-chug-a, yum, yum.",
+      "scriptContextTranslation": "Howard: うんうん、ゴットンゴットン、モグモグ。"
     },
     {
       "id": 41,
@@ -490,7 +650,11 @@
         "食べられない"
       ],
       "correctAnswer": "とてもおいしい",
-      "explanation": "「yum, yum」は、食べ物がおいしいときに発する言葉です。特に子供が使うことが多いですが、大人もユーモラスに表現する際に使います。\n\n例：This cake is so yum, yum! (このケーキはとてもおいしい！)"
+      "explanation": "「yum, yum」は、食べ物がおいしいときに発する言葉です。特に子供が使うことが多いですが、大人もユーモラスに表現する際に使います。\n\n例：This cake is so yum, yum! (このケーキはとてもおいしい！)",
+      "etymology": "食べ物がおいしいときに発する言葉です。特に子供が使うことが多いですが、大人もユーモラスに表現する際に使います。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Mm-hmm, chug-a-chug-a, yum, yum.",
+      "scriptContextTranslation": "Howard: うんうん、ゴットンゴットン、モグモグ。"
     },
     {
       "id": 42,
@@ -502,7 +666,11 @@
         "進んで"
       ],
       "correctAnswer": "待って",
-      "explanation": "「Hang on」は、「ちょっと待って」「 Hold on」という意味です。相手に少しの間待つように頼むときに使います。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+      "explanation": "「Hang on」は、「ちょっと待って」「 Hold on」という意味です。相手に少しの間待つように頼むときに使います。\n\n例：Hang on a second, I'll be right back. (ちょっと待って、すぐ戻るよ。)",
+      "etymology": "「ちょっと待って」「 Hold on」という意味です。相手に少しの間待つように頼むときに使います。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Oh. Hang on. You got a, you got a little something. Ah.",
+      "scriptContextTranslation": "Raj: おっと、ちょっと待って。何かついてるよ。ああ。"
     },
     {
       "id": 43,
@@ -514,7 +682,11 @@
         "手伝って"
       ],
       "correctAnswer": "気にしないで",
-      "explanation": "「Never mind」は、「気にしないで」「どうでもいい」という意味です。何かを訂正したり、重要でないことを伝えたりするときに使います。\n\n例：Never mind, I'll do it myself. (気にしないで、私が自分でやるよ。)"
+      "explanation": "「Never mind」は、「気にしないで」「どうでもいい」という意味です。何かを訂正したり、重要でないことを伝えたりするときに使います。\n\n例：Never mind, I'll do it myself. (気にしないで、私が自分でやるよ。)",
+      "etymology": "「気にしないで」「どうでもいい」という意味です。何かを訂正したり、重要でないことを伝えたりするときに使います。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Never mind.",
+      "scriptContextTranslation": "Bernadette: いいわ、気にしないで。"
     },
     {
       "id": 44,
@@ -526,7 +698,11 @@
         "最終的に～になる"
       ],
       "correctAnswer": "最終的に～になる",
-      "explanation": "「end up with」は、「最終的に～になる」「～で終わる」という意味です。意図したわけではない結果や状況に陥ることを表します。\n\n例：If you don't study, you'll end up with bad grades. (勉強しないと、最終的に悪い成績になるよ。)"
+      "explanation": "「end up with」は、「最終的に～になる」「～で終わる」という意味です。意図したわけではない結果や状況に陥ることを表します。\n\n例：If you don't study, you'll end up with bad grades. (勉強しないと、最終的に悪い成績になるよ。)",
+      "etymology": "「最終的に～になる」「～で終わる」という意味です。意図したわけではない結果や状況に陥ることを表します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Because I know exactly the kind of guy you would’ve ended up with.",
+      "scriptContextTranslation": "Leonard: だってお前が最終的にどんな男と付き合ってるか、正確に分かるからな。"
     },
     {
       "id": 45,
@@ -538,7 +714,11 @@
         "同僚"
       ],
       "correctAnswer": "恋人",
-      "explanation": "「babe」は、恋人や親しい間柄の人を呼ぶときに使う言葉です。愛情を込めたニュアンスがあります。\n\n例：Hey babe, how was your day? (ねえ、恋人、今日はどうだった？)"
+      "explanation": "「babe」は、恋人や親しい間柄の人を呼ぶときに使う言葉です。愛情を込めたニュアンスがあります。\n\n例：Hey babe, how was your day? (ねえ、恋人、今日はどうだった？)",
+      "etymology": "恋人や親しい間柄の人を呼ぶときに使う言葉です。愛情を込めたニュアンスがあります。",
+      "pronounciation": "/beɪb/",
+      "scriptContext": "Zack: Hey, babe.",
+      "scriptContextTranslation": "Zack: よお、ベイビー。"
     },
     {
       "id": 46,
@@ -550,7 +730,11 @@
         "毒豆"
       ],
       "correctAnswer": "魔法の豆",
-      "explanation": "「magic beans」は、「ジャックと豆の木」に出てくる魔法の豆を指します。ここでは、非現実的で役に立たないものを買ったことを示すために使われています。愚かさや無計画さを表現する際に用いられます。\n\n例文：He sold his car and bought magic beans. (彼は車を売って魔法の豆を買った。)"
+      "explanation": "「magic beans」は、「ジャックと豆の木」に出てくる魔法の豆を指します。ここでは、非現実的で役に立たないものを買ったことを示すために使われています。愚かさや無計画さを表現する際に用いられます。\n\n例文：He sold his car and bought magic beans. (彼は車を売って魔法の豆を買った。)",
+      "etymology": "「ジャックと豆の木」に出てくる魔法の豆を指します。ここでは、非現実的で役に立たないものを買ったことを示すために使われています。",
+      "pronounciation": "",
+      "scriptContext": "Zack: Better. I used the money to buy these magic beans.",
+      "scriptContextTranslation": "Zack: もっといいことしたぜ。その金で魔法の豆を買ったんだ。"
     },
     {
       "id": 47,
@@ -562,7 +746,11 @@
         "諦めて"
       ],
       "correctAnswer": "待って",
-      "explanation": "「hold on」は、「待って」「ちょっと待って」という意味です。相手に少しの間待つように頼むときに使います。\n\n例：Hold on a minute, I need to grab my keys. (ちょっと待って、鍵を取ってくる必要がある。)"
+      "explanation": "「hold on」は、「待って」「ちょっと待って」という意味です。相手に少しの間待つように頼むときに使います。\n\n例：Hold on a minute, I need to grab my keys. (ちょっと待って、鍵を取ってくる必要がある。)",
+      "etymology": "「待って」「ちょっと待って」という意味です。相手に少しの間待つように頼むときに使います。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Oh, hold on.",
+      "scriptContextTranslation": "Leonard: ああ、待って。"
     },
     {
       "id": 48,
@@ -574,7 +762,11 @@
         "隠す"
       ],
       "correctAnswer": "幻覚を見る",
-      "explanation": "「see things」は、「幻覚を見る」「ありえないものを見る」という意味です。現実とは異なるものを見ている状態を表します。\n\n例文：After the accident, he started to see things that weren't there. (事故の後、彼はそこにないものを見るようになった。)"
+      "explanation": "「see things」は、「幻覚を見る」「ありえないものを見る」という意味です。現実とは異なるものを見ている状態を表します。\n\n例文：After the accident, he started to see things that weren't there. (事故の後、彼はそこにないものを見るようになった。)",
+      "etymology": "「幻覚を見る」「ありえないものを見る」という意味です。現実とは異なるものを見ている状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: No, it’s not. I’ve seen things. Lady things.",
+      "scriptContextTranslation": "Sheldon: 大丈夫じゃない。見てしまった。女性的なものを。"
     },
     {
       "id": 49,
@@ -586,7 +778,11 @@
         "秘密のもの"
       ],
       "correctAnswer": "女性のもの",
-      "explanation": "「lady things」は婉曲的な表現で、ここでは女性特有の身体的なこと、例えば生理用品などを指していると考えられます。ここでは、Sheldonが普段見慣れないものを見て混乱している状況をユーモラスに表現しています。\n\n例文：I had to buy some lady things at the store. (店で女性のものをいくつか買わなければならなかった。)"
+      "explanation": "「lady things」は婉曲的な表現で、ここでは女性特有の身体的なこと、例えば生理用品などを指していると考えられます。ここでは、Sheldonが普段見慣れないものを見て混乱している状況をユーモラスに表現しています。\n\n例文：I had to buy some lady things at the store. (店で女性のものをいくつか買わなければならなかった。)",
+      "etymology": "婉曲的な表現で、ここでは女性特有の身体的なこと、例えば生理用品などを指していると考えられます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: No, it’s not. I’ve seen things. Lady things.",
+      "scriptContextTranslation": "Sheldon: 大丈夫じゃない。見てしまった。女性的なものを。"
     },
     {
       "id": 50,
@@ -598,7 +794,11 @@
         "想像上の姿"
       ],
       "correctAnswer": "実際の様子",
-      "explanation": "「the way they look」は、「それらがどのように見えるか」「実際の様子」という意味です。ここでは、女性特有のものが普段とは違う状態になっていることを示唆しています。\n\n例文：That's not the way they usually look. (それは普段の様子とは違う。)"
+      "explanation": "「the way they look」は、「それらがどのように見えるか」「実際の様子」という意味です。ここでは、女性特有のものが普段とは違う状態になっていることを示唆しています。\n\n例文：That's not the way they usually look. (それは普段の様子とは違う。)",
+      "etymology": "「それらがどのように見えるか」「実際の様子」という意味です。ここでは、女性特有のものが普段とは違う状態になっていることを示唆しています。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Listen to me. That is not the way they usually look.",
+      "scriptContextTranslation": "Amy: 聞いて。あれは普段の状態じゃないわ。"
     },
     {
       "id": 51,
@@ -610,7 +810,11 @@
         "子宮"
       ],
       "correctAnswer": "産道",
-      "explanation": "「birth canal」は、医学用語で「産道」を意味します。赤ちゃんが生まれる際に通る道を指します。口語的な表現ではありません。"
+      "explanation": "「birth canal」は、医学用語で「産道」を意味します。赤ちゃんが生まれる際に通る道を指します。口語的な表現ではありません。",
+      "etymology": "赤ちゃんが生まれる際に通る産道を意味します。",
+      "pronounciation": "/ˈbɜːrθ kəˌnæl/",
+      "scriptContext": "Sheldon: Did you hear that? A mop. I have two PhDs yet somehow I’m the janitor of my sister’s birth canal.",
+      "scriptContextTranslation": "Sheldon: 聞いたか？ モップだと。博士号を2つも持っているのに、なぜか妹の産道の掃除係だ。"
     },
     {
       "id": 52,
@@ -622,7 +826,11 @@
         "ありえないこと"
       ],
       "correctAnswer": "牛を半分に切る",
-      "explanation": "「sawed a cow in half」は、出産時の苦痛を例えるために使われた比喩表現です。非常に苦痛で大変な状況を強調するために用いられています。"
+      "explanation": "「sawed a cow in half」は、出産時の苦痛を例えるために使われた比喩表現です。非常に苦痛で大変な状況を強調するために用いられています。",
+      "etymology": "出産時の苦痛を例えるために使われた比喩表現です。非常に苦痛で大変な状況を強調するために用いられています。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, come on. Childbirth is a natural, beautiful, uuurgh, it’s like someone sawed a cow in half.",
+      "scriptContextTranslation": "Penny: えー、いいじゃん。出産は自然で美しい、うううう…まるで牛を真っ二つに切断したみたい。"
     },
     {
       "id": 53,
@@ -634,7 +842,11 @@
         "混乱する"
       ],
       "correctAnswer": "対応できる",
-      "explanation": "「handle it」は、問題や状況に対処・対応できるという意味です。自信や能力を示す際に使われます。例：I can handle it myself. (私自身で対応できます。)"
+      "explanation": "「handle it」は、問題や状況に対処・対応できるという意味です。自信や能力を示す際に使われます。例：I can handle it myself. (私自身で対応できます。)",
+      "etymology": "問題や状況に対処・対応できるという意味です。自信や能力を示す際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Raj: My father’s a gynaecologist, I think I can handle it. And, now, I’m gay.",
+      "scriptContextTranslation": "Raj: 俺の父は婦人科医だ。大丈夫だと思うよ。…やっぱり無理だ。"
     },
     {
       "id": 54,
@@ -646,7 +858,11 @@
         "意見"
       ],
       "correctAnswer": "推論",
-      "explanation": "「inference」は、観察や情報に基づいて結論を導き出す「推論」という意味です。直接的な証拠がない場合に、間接的な情報から判断する際に用いられます。学術的な文脈でもよく使われます。"
+      "explanation": "「inference」は、観察や情報に基づいて結論を導き出す「推論」という意味です。直接的な証拠がない場合に、間接的な情報から判断する際に用いられます。学術的な文脈でもよく使われます。",
+      "etymology": "ラテン語の「inferre」（推論する）が語源で、観察や情報に基づいて結論を導き出す「推論」という意味を持ちます。",
+      "pronounciation": "/ˈɪnfərəns/",
+      "scriptContext": "Sheldon: Of course I’m doing laundry. Saturday night is laundry night, and I’m in a laundry room, so, I believe your inference is justified.",
+      "scriptContextTranslation": "Sheldon: 当然洗濯をしています。土曜日の夜は洗濯の夜で、私は洗濯室にいる。つまり、あなたの推論は正しいと言えるでしょう。"
     },
     {
       "id": 55,
@@ -658,7 +874,11 @@
         "隠蔽された"
       ],
       "correctAnswer": "正当化された",
-      "explanation": "「justified」は、「正当化された」「妥当である」という意味です。行動や意見、判断などが正しい理由や根拠があることを示します。例：His actions were justified by the circumstances.(彼の行動は状況によって正当化された。)"
+      "explanation": "「justified」は、「正当化された」「妥当である」という意味です。行動や意見、判断などが正しい理由や根拠があることを示します。例：His actions were justified by the circumstances.(彼の行動は状況によって正当化された。)",
+      "etymology": "ラテン語の「justificare」（正当化する）が語源で、行動や意見、判断などが正しい理由や根拠があることを示します。",
+      "pronounciation": "/ˈdʒʌstɪfaɪd/",
+      "scriptContext": "Sheldon: Of course I’m doing laundry. Saturday night is laundry night, and I’m in a laundry room, so, I believe your inference is justified.",
+      "scriptContextTranslation": "Sheldon: 当然洗濯をしています。土曜日の夜は洗濯の夜で、私は洗濯室にいる。つまり、あなたの推論は正しいと言えるでしょう。"
     },
     {
       "id": 56,
@@ -670,7 +890,11 @@
         "魅力的な"
       ],
       "correctAnswer": "非対称の",
-      "explanation": "「asymmetrical」は、「非対称の」という意味です。左右または上下で形や大きさが異なり、均整が取れていない状態を表します。美術、建築、数学など、さまざまな分野で使用されます。The garden had an asymmetrical design. (その庭は非対称なデザインだった。)"
+      "explanation": "「asymmetrical」は、「非対称の」という意味です。左右または上下で形や大きさが異なり、均整が取れていない状態を表します。美術、建築、数学など、さまざまな分野で使用されます。The garden had an asymmetrical design. (その庭は非対称なデザインだった。)",
+      "etymology": "ギリシャ語の「asymmetria」（不均衡）が語源で、「非対称の」という意味を持ちます。",
+      "pronounciation": "/ˌeɪsɪˈmetrɪkl/",
+      "scriptContext": "Sheldon: A tad asymmetrical, but nothing to be concerned about.",
+      "scriptContextTranslation": "Sheldon: 少し非対称だが、気にするほどではない。"
     },
     {
       "id": 57,
@@ -682,7 +906,11 @@
         "特別な場所を確保する"
       ],
       "correctAnswer": "特別な人のために純潔を守る",
-      "explanation": "「saving myself for someone special」は、恋愛や性的な関係を特定の人まで待つ、つまり純潔を守るという意味です。価値観や信念に関連する表現で、現代では多様な解釈があります。"
+      "explanation": "「saving myself for someone special」は、恋愛や性的な関係を特定の人まで待つ、つまり純潔を守るという意味です。価値観や信念に関連する表現で、現代では多様な解釈があります。",
+      "etymology": "恋愛や性的な関係を特定の人まで待つ、つまり純潔を守るという意味です。価値観や信念に関連する表現です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Penny, for the thousandth time, I’m saving myself for someone special. Perhaps a cute bespectacled neuroscientist with hair the color of mud. ",
+      "scriptContextTranslation": "Sheldon: ペニー、何度言えばわかるんだ。私は特別な人のために自分を捧げているんだ。おそらく、泥色の髪をした、眼鏡をかけた可愛い神経科学者だ。"
     },
     {
       "id": 58,
@@ -694,7 +922,11 @@
         "感謝する"
       ],
       "correctAnswer": "利用する",
-      "explanation": "「take advantage of」は、「～を利用する」という意味です。機会や状況を有効に活用するという良い意味でも、人や弱みを不当に利用するという悪い意味でも使われます。文脈によってニュアンスが異なります。例：We should take advantage of the good weather and go to the beach. (良い天気を活用してビーチに行くべきだ。)"
+      "explanation": "「take advantage of」は、「～を利用する」という意味です。機会や状況を有効に活用するという良い意味でも、人や弱みを不当に利用するという悪い意味でも使われます。文脈によってニュアンスが異なります。例：We should take advantage of the good weather and go to the beach. (良い天気を活用してビーチに行くべきだ。)",
+      "etymology": "機会や状況を「利用する」という意味です。良い意味でも悪い意味でも使われます。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 59,
@@ -706,7 +938,11 @@
         "秘密の要求"
       ],
       "correctAnswer": "曖昧な要求",
-      "explanation": "「vague request」は、「曖昧な要求」という意味です。具体的に何をしてほしいのかがはっきりしない要求を指します。指示や依頼が不明確で、解釈の余地がある場合に用いられます。The instructions were too vague, so I didn't know what to do. (指示があまりにも曖昧だったので、どうすればいいのかわからなかった。)"
+      "explanation": "「vague request」は、「曖昧な要求」という意味です。具体的に何をしてほしいのかがはっきりしない要求を指します。指示や依頼が不明確で、解釈の余地がある場合に用いられます。The instructions were too vague, so I didn't know what to do. (指示があまりにも曖昧だったので、どうすればいいのかわからなかった。)",
+      "etymology": "フランス語の「vague」（漠然とした）が語源で、「曖昧な要求」という意味を持ちます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: My mother asked me to get some towels. I took advantage of the vague request and went to Bed, Bath & Beyond. (Scream from other room) Excuse me, I’m on the phone. So rude.",
+      "scriptContextTranslation": "Sheldon: 母にタオルを買ってきてくれと頼まれたんだ。曖昧な頼みを利用して、Bed, Bath & Beyondに行った。（別の部屋から叫び声）失礼、電話中です。失礼な。"
     },
     {
       "id": 60,
@@ -718,7 +954,11 @@
         "物語"
       ],
       "correctAnswer": "伝説",
-      "explanation": "「legend」は、「伝説」または「（特定の分野で）非常に有名な人」という意味です。人々の記憶に長く残る偉業や物語を指します。例：She is a legend in the world of classical music.(彼女はクラシック音楽界の伝説だ。)"
+      "explanation": "「legend」は、「伝説」または「（特定の分野で）非常に有名な人」という意味です。人々の記憶に長く残る偉業や物語を指します。例：She is a legend in the world of classical music.(彼女はクラシック音楽界の伝説だ。)",
+      "etymology": "ラテン語の「legenda」（読まれるべきもの）が語源で、「伝説」または「（特定の分野で）非常に有名な人」という意味を持ちます。",
+      "pronounciation": "/ˈledʒənd/",
+      "scriptContext": "Amy: Here’s another one. Penny, if it weren’t for Sheldon you never would have met comic book legend Stan Lee.",
+      "scriptContextTranslation": "Amy: ほら、これもよ。ペニー、もしシェルドンがいなかったら、あなたはコミック界のレジェンド、スタン・リーに会うことはなかったわ。"
     },
     {
       "id": 61,
@@ -730,7 +970,11 @@
         "運動"
       ],
       "correctAnswer": "授乳",
-      "explanation": "「breast-feeding」は、「授乳」という意味です。母親が自分の母乳で赤ちゃんを育てる行為を指します。医学や育児の分野で一般的に使われる言葉です。"
+      "explanation": "「breast-feeding」は、「授乳」という意味です。母親が自分の母乳で赤ちゃんを育てる行為を指します。医学や育児の分野で一般的に使われる言葉です。",
+      "etymology": "文字通り「乳房で養う」という意味で、母親が自分の母乳で赤ちゃんを育てる行為を指します。",
+      "pronounciation": "/ˈbrestfiːdɪŋ/",
+      "scriptContext": "Raj: Yeah, you didn’t have to buy groceries ’cause you were breast-feeding.",
+      "scriptContextTranslation": "Raj: そうだな、お前は母乳で育ったから、食料を買う必要がなかったもんな。"
     },
     {
       "id": 62,
@@ -742,7 +986,11 @@
         "疲れている"
       ],
       "correctAnswer": "飢えている",
-      "explanation": "「starving」は、「飢えている」という意味です。食べ物がなくて非常に空腹な状態を指します。比喩的に、何かを強く求めている状態を表すこともあります。例：I'm starving for some good news.（何か良い知らせをすごく求めている）"
+      "explanation": "「starving」は、「飢えている」という意味です。食べ物がなくて非常に空腹な状態を指します。比喩的に、何かを強く求めている状態を表すこともあります。例：I'm starving for some good news.（何か良い知らせをすごく求めている）",
+      "etymology": "古英語の「steorfan」（死ぬ）が語源で、「飢えている」という意味です。",
+      "pronounciation": "/ˈstɑːrvɪŋ/",
+      "scriptContext": "Mrs Wolowitz (off): Howard, where’s my lunch? I’m starving.",
+      "scriptContextTranslation": "Mrs Wolowitz (off): ハワード、私のランチはどこ？ お腹空いたわ。"
     },
     {
       "id": 63,
@@ -754,7 +1002,11 @@
         "修理した"
       ],
       "correctAnswer": "空にした",
-      "explanation": "「clean out」は、「空にする」「きれいにする」という意味です。物を整理して不要なものを取り除くという意味合いがあります。例文：I need to clean out my closet.（クローゼットを整理する必要がある）"
+      "explanation": "「clean out」は、「空にする」「きれいにする」という意味です。物を整理して不要なものを取り除くという意味合いがあります。例文：I need to clean out my closet.（クローゼットを整理する必要がある）",
+      "etymology": "物を整理して不要なものを取り除くという意味合いがあります。",
+      "pronounciation": "",
+      "scriptContext": "Howard:Well, you cleaned out Earth. I don’t know what else to do.",
+      "scriptContextTranslation": "Howard: だって、地球上の食料を全部食べちゃったじゃないか。もうどうすればいいかわからないよ。"
     },
     {
       "id": 64,
@@ -766,7 +1018,11 @@
         "どうでもいい"
       ],
       "correctAnswer": "どちらでも同じ",
-      "explanation": "「tomato, tomahto」は、「発音や表現は違うけれど、意味はほとんど同じ」ということを表すイディオムです。些細な違いにこだわる必要がないというニュアンスで使われます。これはアメリカ英語での発音の違いに基づいています。"
+      "explanation": "「tomato, tomahto」は、「発音や表現は違うけれど、意味はほとんど同じ」ということを表すイディオムです。些細な違いにこだわる必要がないというニュアンスで使われます。これはアメリカ英語での発音の違いに基づいています。",
+      "etymology": "発音は違うが、意味は同じということを示すイディオムです。些細な違いにこだわる必要がないという意味で使われます。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Eh, tomato, tomahto. The important thing is she’s dead.",
+      "scriptContextTranslation": "Howard: まあ、どっちでもいいよ。大事なのは、彼女が死んだってことだ。"
     },
     {
       "id": 65,
@@ -778,7 +1034,11 @@
         "引きこもり"
       ],
       "correctAnswer": "女好き",
-      "explanation": "「ladies' man」は、女性に非常に人気があり、女性を惹きつける魅力的な男性を指します。必ずしも否定的な意味ではなく、むしろ羨望のまなざしで見られることもあります。"
+      "explanation": "「ladies' man」は、女性に非常に人気があり、女性を惹きつける魅力的な男性を指します。必ずしも否定的な意味ではなく、むしろ羨望のまなざしで見られることもあります。",
+      "etymology": "女性に非常に人気があり、女性を惹きつける魅力的な男性を指します。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 76,
@@ -790,7 +1050,11 @@
         "反対するもの"
       ],
       "correctAnswer": "促進するもの",
-      "explanation": "「enabler」は、人が悪い習慣や依存症を続けるのを手助けする人、または状況を指します。ここでは、ラージがレナードの過食を助長する存在であることを意味しています。ビジネスの文脈では、何かを可能にする要因という意味にもなります。"
+      "explanation": "「enabler」は、人が悪い習慣や依存症を続けるのを手助けする人、または状況を指します。ここでは、ラージがレナードの過食を助長する存在であることを意味しています。ビジネスの文脈では、何かを可能にする要因という意味にもなります。",
+      "etymology": "人が悪い習慣や依存症を続けるのを手助けする人、または状況を指します。",
+      "pronounciation": "/ɪˈneɪblər/",
+      "scriptContext": "Raj: You’d have no girlfriend to see you naked, you’d try to fill the void with food, and I’m an enabler who once deep-fried a pancake.",
+      "scriptContextTranslation": "Raj: 裸を見せる彼女もいない、その寂しさを食べ物で埋めようとする。それに、俺は一度パンケーキを揚げたこともある共犯者だ。"
     },
     {
       "id": 77,
@@ -802,7 +1066,11 @@
         "煮る"
       ],
       "correctAnswer": "揚げる",
-      "explanation": "「deep-fried」は、食品を油で完全に浸して揚げる調理法を指します。ジャンクフードやスナック菓子によく用いられる表現です。例：deep-fried chicken (フライドチキン)"
+      "explanation": "「deep-fried」は、食品を油で完全に浸して揚げる調理法を指します。ジャンクフードやスナック菓子によく用いられる表現です。例：deep-fried chicken (フライドチキン)",
+      "etymology": "食品を油で完全に浸して揚げる調理法を指します。",
+      "pronounciation": "/ˌdiːp ˈfraɪd/",
+      "scriptContext": "Raj: You’d have no girlfriend to see you naked, you’d try to fill the void with food, and I’m an enabler who once deep-fried a pancake.",
+      "scriptContextTranslation": "Raj: 裸を見せる彼女もいない、その寂しさを食べ物で埋めようとする。それに、俺は一度パンケーキを揚げたこともある共犯者だ。"
     },
     {
       "id": 78,
@@ -814,7 +1082,11 @@
         "重要な秘密"
       ],
       "correctAnswer": "夢想場面",
-      "explanation": "「fantasy sequence」とは、映画やドラマなどで、登場人物の想像や願望が映像化された場面を指します。現実とは異なる、非現実的な状況が描かれることが多いです。"
+      "explanation": "「fantasy sequence」とは、映画やドラマなどで、登場人物の想像や願望が映像化された場面を指します。現実とは異なる、非現実的な状況が描かれることが多いです。",
+      "etymology": "映画やドラマなどで、登場人物の想像や願望が映像化された場面を指します。",
+      "pronounciation": "",
+      "scriptContext": "End fantasy sequence",
+      "scriptContextTranslation": "End fantasy sequence"
     },
     {
       "id": 79,
@@ -826,7 +1098,11 @@
         "踊る"
       ],
       "correctAnswer": "鳴らす",
-      "explanation": "「honk」は、クラクションやガチョウなどの鳥が音を鳴らすことを意味します。ここでは、パーティー用のクラッカーを鳴らす様子を表しています。騒がしい音を出すイメージです。"
+      "explanation": "「honk」は、クラクションやガチョウなどの鳥が音を鳴らすことを意味します。ここでは、パーティー用のクラッカーを鳴らす様子を表しています。騒がしい音を出すイメージです。",
+      "etymology": "クラクションやガチョウなどの鳥が音を鳴らすことを意味します。",
+      "pronounciation": "/hɑːŋks/",
+      "scriptContext": "Amy: Happy birthday to me, happy birthday to me, there’s tears in the frosting, happy birthday to me. (Stuart honks a party hooter at her.)",
+      "scriptContextTranslation": "エイミー: ハッピーバースデー・トゥー・ミー、ハッピーバースデー・トゥー・ミー、フロスティングには涙が混じってる、ハッピーバースデー・トゥー・ミー。（スチュアートがパーティー用のクラクションを鳴らす）"
     },
     {
       "id": 80,
@@ -838,7 +1114,11 @@
         "満足な"
       ],
       "correctAnswer": "苛立たしい",
-      "explanation": "「irritating」は、人をイライラさせる、不快にさせるという意味です。ここでは、シェルドンが生まれたばかりの甥に対して感じている感情を表しています。類義語としてはannoying, bothersomeなどがあります。"
+      "explanation": "「irritating」は、人をイライラさせる、不快にさせるという意味です。ここでは、シェルドンが生まれたばかりの甥に対して感じている感情を表しています。類義語としてはannoying, bothersomeなどがあります。",
+      "etymology": "人をイライラさせる、不快にさせるという意味です。",
+      "pronounciation": "/ˈɪrɪteɪtɪŋ/",
+      "scriptContext": "Sheldon: Oh no, no, I’m not going back in there. That baby is so irritating. He has literally been crying his entire life.",
+      "scriptContextTranslation": "シェルドン: いやいや、僕はもうあそこには戻らないよ。あの赤ちゃんは本当にイライラする。文字通り、生まれてからずっと泣いているんだ。"
     },
     {
       "id": 81,
@@ -850,7 +1130,11 @@
         "取り返す"
       ],
       "correctAnswer": "似ている",
-      "explanation": "「take after」は、家族（特に親）の性格や外見が似ているという意味の句動詞です。例：He takes after his father in character. (彼は性格が父親に似ている。)"
+      "explanation": "「take after」は、家族（特に親）の性格や外見が似ているという意味の句動詞です。例：He takes after his father in character. (彼は性格が父親に似ている。)",
+      "etymology": "家族（特に親）の性格や外見が似ているという意味の句動詞です。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 82,
@@ -862,7 +1146,11 @@
         "劇の配役"
       ],
       "correctAnswer": "良い手本",
-      "explanation": "「role model」は、行動や業績が模範となる人物、手本となる人を指します。子供や若い世代が良い影響を受ける対象として使われます。尊敬できる人物という意味合いが含まれます。"
+      "explanation": "「role model」は、行動や業績が模範となる人物、手本となる人を指します。子供や若い世代が良い影響を受ける対象として使われます。尊敬できる人物という意味合いが含まれます。",
+      "etymology": "行動や業績が模範となる人物、手本となる人を指します。",
+      "pronounciation": "/ˈroʊl mɑːdl/",
+      "scriptContext": "Amy: Well, you always complain that you never had an intelligent role model growing up, and now you can be one for your nephew.",
+      "scriptContextTranslation": "エイミー: だって、あなたはいつも、成長過程で知的なロールモデルがいなかったって不満を言ってるじゃない。今度はあなたが甥っ子のロールモデルになれるわ。"
     },
     {
       "id": 83,
@@ -874,7 +1162,11 @@
         "価値観"
       ],
       "correctAnswer": "集中力",
-      "explanation": "「attention span」は、注意を持続できる時間、集中力を意味します。短い集中力は「short attention span」と表現されます。例：Children generally have a shorter attention span than adults. (一般的に子供は大​​人よりも集中力が短い。)"
+      "explanation": "「attention span」は、注意を持続できる時間、集中力を意味します。短い集中力は「short attention span」と表現されます。例：Children generally have a shorter attention span than adults. (一般的に子供は大​​人よりも集中力が短い。)",
+      "etymology": "注意を持続できる時間、集中力を意味します。",
+      "pronounciation": "/əˈtenʃn spæn/",
+      "scriptContext": "Sheldon: Ugh, all right, I’ll go. But from what I’ve seen, his attention span is as limited as his bladder control.",
+      "scriptContextTranslation": "シェルドン: うう、わかった、行くよ。 でも、見たところ、彼の集中力は膀胱のコントロールと同じくらい限られているな。"
     },
     {
       "id": 84,
@@ -886,7 +1178,11 @@
         "膀胱の制御"
       ],
       "correctAnswer": "膀胱の制御",
-      "explanation": "「bladder control」は、排尿をコントロールする能力を意味します。特に幼児や高齢者において、この能力が未発達または低下することがあります。ここでは、生まれたばかりの甥の排尿コントロールが未熟であることを指しています。"
+      "explanation": "「bladder control」は、排尿をコントロールする能力を意味します。特に幼児や高齢者において、この能力が未発達または低下することがあります。ここでは、生まれたばかりの甥の排尿コントロールが未熟であることを指しています。",
+      "etymology": "排尿をコントロールする能力を意味します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Ugh, all right, I’ll go. But from what I’ve seen, his attention span is as limited as his bladder control.",
+      "scriptContextTranslation": "シェルドン: うう、わかった、行くよ。 でも、見たところ、彼の集中力は膀胱のコントロールと同じくらい限られているな。"
     },
     {
       "id": 85,
@@ -898,7 +1194,11 @@
         "反対する"
       ],
       "correctAnswer": "影響を与える",
-      "explanation": "「impact on」は、「〜に影響を与える」という意味の句動詞です。良い影響にも悪い影響にも使われます。ここでは、エイミーがシェルドンに与えた影響について述べています。名詞のimpactは衝撃という意味です。"
+      "explanation": "「impact on」は、「〜に影響を与える」という意味の句動詞です。良い影響にも悪い影響にも使われます。ここでは、エイミーがシェルドンに与えた影響について述べています。名詞のimpactは衝撃という意味です。",
+      "etymology": "「〜に影響を与える」という意味の句動詞です。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Yeah, you keep saying how much Sheldon has affected all of us, but you’ve clearly had an impact on him.",
+      "scriptContextTranslation": "ラージ: ああ、いつもシェルドンが僕たちにどれだけ影響を与えているか言ってるけど、あなたは明らかに彼に影響を与えているよ。"
     },
     {
       "id": 86,
@@ -910,7 +1210,11 @@
         "お土産"
       ],
       "correctAnswer": "米の袋",
-      "explanation": "「sack of rice」は、文字通り米が入った袋のことですが、ここではエイミーがシェルドンのTシャツを着せた米袋を抱いて寝ているという比喩的な表現です。寂しさを紛らわせるための代用品として使われています。"
+      "explanation": "「sack of rice」は、文字通り米が入った袋のことですが、ここではエイミーがシェルドンのTシャツを着せた米袋を抱いて寝ているという比喩的な表現です。寂しさを紛らわせるための代用品として使われています。",
+      "etymology": "文字通り米が入った袋のことですが、ここではエイミーがシェルドンのTシャツを着せた米袋を抱いて寝ているという比喩的な表現です。",
+      "pronounciation": "",
+      "scriptContext": "Amy: If that were true, I wouldn’t still be living alone. Well, not exactly alone. I do have a 50 pound sack of rice with one of Sheldon’s T-shirts on it.",
+      "scriptContextTranslation": "エイミー: もしそれが本当なら、私はまだ一人暮らしをしていないわ。まあ、正確には一人じゃないわね。シェルドンのTシャツを着せた50ポンドの米袋があるわ。"
     },
     {
       "id": 87,
@@ -922,7 +1226,11 @@
         "最後のチャンス"
       ],
       "correctAnswer": "早めのクリスマスプレゼント",
-      "explanation": "「early Christmas present」は、クリスマス前に贈られるプレゼントのことです。ここでは、レナードがシェルドンの秘密をエイミーに教えることを指しています。期待感やサプライズのニュアンスが含まれます。"
+      "explanation": "「early Christmas present」は、クリスマス前に贈られるプレゼントのことです。ここでは、レナードがシェルドンの秘密をエイミーに教えることを指しています。期待感やサプライズのニュアンスが含まれます。",
+      "etymology": "クリスマス前に贈られるプレゼントのことです。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Hang on, I’m gonna give you a little early Christmas present. I’m gonna show you something, but if you ever told Sheldon he’d probably never speak to me again. So, if you want to tell him, that’s fine. Look.",
+      "scriptContextTranslation": "レナード: 待って。少し早いクリスマスプレゼントをあげるよ。 あるものを見せてあげるけど、シェルドンに言ったら、二度と口をきいてくれないかもしれない。 だから、彼に言いたければ、それでもいいよ。 見て。"
     },
     {
       "id": 88,
@@ -934,7 +1242,11 @@
         "スクリーンセーバー"
       ],
       "correctAnswer": "スクリーンセーバー",
-      "explanation": "「screensaver」は、コンピューターの画面が一定時間操作されないときに表示される画像やアニメーションのことです。ここでは、シェルドンがエイミーをスクリーンセーバーに設定していることが、彼がエイミーを大切に思っている証拠として示されています。"
+      "explanation": "「screensaver」は、コンピューターの画面が一定時間操作されないときに表示される画像やアニメーションのことです。ここでは、シェルドンがエイミーをスクリーンセーバーに設定していることが、彼がエイミーを大切に思っている証拠として示されています。",
+      "etymology": "コンピューターの画面が一定時間操作されないときに表示される画像やアニメーションのことです。",
+      "pronounciation": "/ˈskriːnseɪvər/",
+      "scriptContext": "Leonard: He made you his screensaver.",
+      "scriptContextTranslation": "レナード: 彼は君をスクリーンセーバーにしたんだ。"
     },
     {
       "id": 89,
@@ -946,7 +1258,11 @@
         "敵意"
       ],
       "correctAnswer": "夢中",
-      "explanation": "「into me」は、「私に夢中」という意味のスラングです。恋愛感情や興味を持っていることを表現します。ここでは、シェルドンがエイミーに好意を寄せていることを意味します。Be into で〜に夢中という意味になります。"
+      "explanation": "「into me」は、「私に夢中」という意味のスラングです。恋愛感情や興味を持っていることを表現します。ここでは、シェルドンがエイミーに好意を寄せていることを意味します。Be into で〜に夢中という意味になります。",
+      "etymology": "「私に夢中」という意味のスラングです。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Oh. Wow. I had no idea. He is so into me. Wait, wait, where’d I go?",
+      "scriptContextTranslation": "エイミー: まあ。 すごい。 知らなかった。 彼は私に夢中なのね。 待って、待って、私はどこに行ったの？"
     },
     {
       "id": 90,
@@ -958,7 +1274,11 @@
         "準備中"
       ],
       "correctAnswer": "仲間入り",
-      "explanation": "「in the mix」は、「仲間に入っている」「混ざっている」という意味です。ここでは、シェルドンのスクリーンセーバーの中にエイミーが含まれていることを指しています。重要な要素の一部として認識されていることを示唆します。"
+      "explanation": "「in the mix」は、「仲間に入っている」「混ざっている」という意味です。ここでは、シェルドンのスクリーンセーバーの中にエイミーが含まれていることを指しています。重要な要素の一部として認識されていることを示唆します。",
+      "etymology": "「仲間に入っている」「混ざっている」という意味です。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Oh, well, it’s you, Swamp Thing, Stephen Hawking, Spider-Man, but, look, you’re in the mix.",
+      "scriptContextTranslation": "レナード: ああ、ええと、君、スワンプシング、スティーブン・ホーキング、スパイダーマン、でも、ほら、君は混ざってる。"
     },
     {
       "id": 91,
@@ -970,7 +1290,11 @@
         "置き去りにする"
       ],
       "correctAnswer": "最新の状態にする",
-      "explanation": "「catch up on」は、「遅れを取り戻す」「最新の状態にする」という意味の句動詞です。ここでは、シェルドンが甥の世話で遅れたテレビ番組をまとめて見ようとしていることを指しています。catch up with ~ で〜に追いつくという意味でも使われます。"
+      "explanation": "「catch up on」は、「遅れを取り戻す」「最新の状態にする」という意味の句動詞です。ここでは、シェルドンが甥の世話で遅れたテレビ番組をまとめて見ようとしていることを指しています。catch up with ~ で〜に追いつくという意味でも使われます。",
+      "etymology": "「遅れを取り戻す」「最新の状態にする」という意味の句動詞です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Me, too. I got a lot of TV to catch up on.",
+      "scriptContextTranslation": "シェルドン: 僕もだ。見逃したテレビ番組がたくさんあるからな。"
     },
     {
       "id": 92,
@@ -982,7 +1306,11 @@
         "提案すると"
       ],
       "correctAnswer": "引用すると",
-      "explanation": "「to quote」は、「引用すると」という意味の表現です。ここでは、シェルドンが映画「スター・ウォーズ」のハン・ソロのセリフを引用して、エイミーに自分の気持ちを伝えようとしています。フォーマルな場面でも使用されます。"
+      "explanation": "「to quote」は、「引用すると」という意味の表現です。ここでは、シェルドンが映画「スター・ウォーズ」のハン・ソロのセリフを引用して、エイミーに自分の気持ちを伝えようとしています。フォーマルな場面でも使用されます。",
+      "etymology": "「引用すると」という意味の表現です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: To quote Han Solo, I know.",
+      "scriptContextTranslation": "シェルドン: ハン・ソロの言葉を借りれば、「承知している」。"
     },
     {
       "id": 93,
@@ -994,7 +1322,11 @@
         "怒りの目"
       ],
       "correctAnswer": "無邪気な目",
-      "explanation": "「blank, innocent eyes」は、「何も知らない、無垢な目」という意味です。ここでは、生まれたばかりの赤ちゃんの純粋さを強調しています。しかし、シェルドンにとっては理解不能な存在であることを示唆する皮肉な表現でもあります。"
+      "explanation": "「blank, innocent eyes」は、「何も知らない、無垢な目」という意味です。ここでは、生まれたばかりの赤ちゃんの純粋さを強調しています。しかし、シェルドンにとっては理解不能な存在であることを示唆する皮肉な表現でもあります。",
+      "etymology": "「何も知らない、無垢な目」という意味です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Looking into the blank, innocent eyes of a creature that couldn’t begin to comprehend anything I was saying? Basically just another day at the office.",
+      "scriptContextTranslation": "シェルドン: 僕が言っていることを何も理解できない生き物の、無表情で無邪気な目を見つめる？ 基本的に職場でのいつもの一日と同じだ。"
     },
     {
       "id": 94,
@@ -1006,7 +1338,11 @@
         "偶然に"
       ],
       "correctAnswer": "基本的に",
-      "explanation": "「basically」は、「基本的には」「要するに」という意味の副詞です。ここでは、シェルドンが赤ちゃんを見ることと普段の仕事との類似点を強調するために使っています。本質を語る際に用いられます。"
+      "explanation": "「basically」は、「基本的には」「要するに」という意味の副詞です。ここでは、シェルドンが赤ちゃんを見ることと普段の仕事との類似点を強調するために使っています。本質を語る際に用いられます。",
+      "etymology": "「基本的には」「要するに」という意味の副詞です。",
+      "pronounciation": "/ˈbeɪsɪkli/",
+      "scriptContext": "Sheldon: Looking into the blank, innocent eyes of a creature that couldn’t begin to comprehend anything I was saying? Basically just another day at the office.",
+      "scriptContextTranslation": "シェルドン: 僕が言っていることを何も理解できない生き物の、無表情で無邪気な目を見つめる？ 基本的に職場でのいつもの一日と同じだ。"
     },
     {
       "id": 95,
@@ -1018,7 +1354,11 @@
         "見送る"
       ],
       "correctAnswer": "デートに誘う",
-      "explanation": "「ask out」は、「（異性を）デートに誘う」という意味の句動詞です。ここでは、レナードがペニーをデートに誘おうとしている場面です。類義語としては、invite on a date があります。"
+      "explanation": "「ask out」は、「（異性を）デートに誘う」という意味の句動詞です。ここでは、レナードがペニーをデートに誘おうとしている場面です。類義語としては、invite on a date があります。",
+      "etymology": "「（異性を）デートに誘う」という意味の句動詞です。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: I’m gonna do it. I’m gonna ask her out.",
+      "scriptContextTranslation": "Leonard: やるぞ！　彼女をデートに誘うんだ。"
     },
     {
       "id": 96,
@@ -1030,7 +1370,11 @@
         "沸騰する"
       ],
       "correctAnswer": "噴出する",
-      "explanation": "「squirt out」は、液体が勢いよく噴き出す様子を表す句動詞です。ここでは、ありえないことの比喩として使われており、ハワードの言葉の信憑性の低さを強調しています。類義語はspurt, gushなどがあります。"
+      "explanation": "「squirt out」は、液体が勢いよく噴き出す様子を表す句動詞です。ここでは、ありえないことの比喩として使われており、ハワードの言葉の信憑性の低さを強調しています。類義語はspurt, gushなどがあります。",
+      "etymology": "液体が勢いよく噴き出す様子を表す句動詞です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: And chocolate milk is gonna squirt out of my nipples.",
+      "scriptContextTranslation": "ハワード: 俺の乳首からチョコレートミルクが噴き出すだろうな。"
     },
     {
       "id": 97,
@@ -1042,7 +1386,11 @@
         "謝る"
       ],
       "correctAnswer": "証明するか黙るか",
-      "explanation": "「put up or shut up」は、「口先だけでなく行動で示せ」「有言実行せよ」という意味の強い表現です。ここでは、ラージがレナードに本当にペニーを誘うつもりがあるのかどうかを問い詰めています。言ったことを実行しない人に対する非難として使われます。"
+      "explanation": "「put up or shut up」は、「口先だけでなく行動で示せ」「有言実行せよ」という意味の強い表現です。ここでは、ラージがレナードに本当にペニーを誘うつもりがあるのかどうかを問い詰めています。言ったことを実行しない人に対する非難として使われます。",
+      "etymology": "「口先だけでなく行動で示せ」「有言実行せよ」という意味の強い表現です。",
+      "pronounciation": "",
+      "scriptContext": "Fat Raj: Put up or shut up. You make it, I’ll drink it.",
+      "scriptContextTranslation": "太ったラージ: やるか、黙るかだ。 お前が誘ったら、俺が飲む。"
     },
     {
       "id": 98,
@@ -1054,7 +1402,11 @@
         "家族"
       ],
       "correctAnswer": "親愛なる人",
-      "explanation": "「sweetheart」は、恋人や親しい人に対する愛情を込めた呼びかけです。ここでは、ペニーがスチュアートに対して愛情を込めて使っています。恋人だけでなく、子供や親しい友人にも使えます。"
+      "explanation": "「sweetheart」は、恋人や親しい人に対する愛情を込めた呼びかけです。ここでは、ペニーがスチュアートに対して愛情を込めて使っています。恋人だけでなく、子供や親しい友人にも使えます。",
+      "etymology": "恋人や親しい人に対する愛情を込めた呼びかけです。",
+      "pronounciation": "/ˈswiːthɑːrt/",
+      "scriptContext": "Penny: I’m sorry, I have a boyfriend. In fact, there he is now. Ready to go, sweetheart?",
+      "scriptContextTranslation": "ペニー: ごめんなさい、私にはボーイフレンドがいるの。 ほら、そこにいるわ。 行く準備はできた？"
     },
     {
       "id": 99,
@@ -1066,7 +1418,11 @@
         "諦める"
       ],
       "correctAnswer": "待って",
-      "explanation": "「Hang on.」は、相手に少し待ってほしいときに使う口語表現です。電話で使うこともできますが、ここでは会話を中断して注意を引くために使われています。より丁寧な言い方としては、Please wait. があります。"
+      "explanation": "「Hang on.」は、相手に少し待ってほしいときに使う口語表現です。電話で使うこともできますが、ここでは会話を中断して注意を引くために使われています。より丁寧な言い方としては、Please wait. があります。",
+      "etymology": "相手に少し待ってほしいときに使う口語表現です。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Oh. Hang on. You got a, you got a little something. Ah.",
+      "scriptContextTranslation": "Raj: おっと、ちょっと待って。何かついてるよ。ああ。"
     },
     {
       "id": 100,
@@ -1078,7 +1434,11 @@
         "成功"
       ],
       "correctAnswer": "欲求",
-      "explanation": "「void」は、空虚感や喪失感を表す名詞です。ここでは、レナードが恋人がいない寂しさを食べ物で埋めようとする状況を表しています。形容詞としては「無効な」という意味になります。例：fill the void (心の隙間を埋める)"
+      "explanation": "「void」は、空虚感や喪失感を表す名詞です。ここでは、レナードが恋人がいない寂しさを食べ物で埋めようとする状況を表しています。形容詞としては「無効な」という意味になります。例：fill the void (心の隙間を埋める)",
+      "etymology": "空虚感や喪失感を表す名詞です。",
+      "pronounciation": "/vɔɪd/",
+      "scriptContext": "Raj: You’d have no girlfriend to see you naked, you’d try to fill the void with food, and I’m an enabler who once deep-fried a pancake.",
+      "scriptContextTranslation": "Raj: 裸を見せる彼女もいない、その寂しさを食べ物で埋めようとする。それに、俺は一度パンケーキを揚げたこともある共犯者だ。"
     }
   ]
 }

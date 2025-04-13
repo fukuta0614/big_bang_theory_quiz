@@ -4,8 +4,16 @@ import './Home.css'; // Add CSS import for styling
 
 // Remove HomeProps interface
 
+// Define the structure for a single episode
+interface EpisodeInfo {
+  episode: string;
+  title: string;
+  outline: string;
+}
+
+// Update EpisodeList interface to match the new JSON structure
 interface EpisodeList {
-  [season: string]: string[];
+  [season: string]: EpisodeInfo[];
 }
 
 // Update component signature - remove props
@@ -36,7 +44,6 @@ const Home: React.FC = () => {
   // Removed handleStartQuiz as it's now per episode via Link
 
   const episodeOptions = episodeList[season] || [];
-
   // Remove handleStartEpisodeQuiz function
 
   // TODO: Update review mode button functionality for routing
@@ -56,7 +63,6 @@ const Home: React.FC = () => {
           value={season}
           onChange={(e) => {
             setSeason(e.target.value);
-            // setEpisode('01'); // No longer needed
           }}
         >
             {Object.keys(episodeList)
@@ -90,16 +96,16 @@ const Home: React.FC = () => {
       <div className="episode-list-container">
         <h2>シーズン {season} のエピソード</h2>
         <ul className="episode-list">
-          {episodeOptions.map((episodeTitleWithNumber, index) => {
-            const episodeNumber = String(index + 1).padStart(2, '0');
-            // Extract title (remove the leading number and space)
-            const titleMatch = episodeTitleWithNumber.match(/^\d+\s+(.*)/);
-            const episodeTitle = titleMatch ? titleMatch[1] : episodeTitleWithNumber;
+          {/* Map over the array of episode objects */}
+          {episodeOptions.map((episode) => {
             return (
-              <li key={episodeNumber} className="episode-item">
+              // Use episode.episode as the key
+              <li key={episode.episode} className="episode-item">
                 <div className="episode-info">
-                  <h3>{episodeNumber}: {episodeTitle}</h3>
-                  <p className="synopsis">あらすじは準備中です。</p> {/* Dummy Synopsis */}
+                  {/* Display episode number and title */}
+                  <h3>{episode.episode}: {episode.title}</h3>
+                  {/* Display the outline */}
+                  <p className="synopsis">{episode.outline}</p>
                 </div>
                 {/* Link for starting quiz directly */}
                 <Link to={`/quiz/season/${season}/episode/${episodeNumber}`}>
@@ -109,6 +115,7 @@ const Home: React.FC = () => {
                 <Link to={`/season/${season}/episode/${episodeNumber}/questions`}>
                   <button>問題一覧</button> {/* Add class if needed */}
                 </Link>
+
               </li>
             );
           })}

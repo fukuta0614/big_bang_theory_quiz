@@ -10,7 +10,11 @@
         "内面"
       ],
       "correctAnswer": "連結面",
-      "explanation": "「interface」は、ここでは（ユーザー）インターフェースという意味で、機械やシステムと人間が情報をやり取りする接点を指します。IT分野では、異なるシステムやプログラム間の接続部分を指すこともあります。例：The software has a user-friendly interface. (そのソフトウェアはユーザーフレンドリーなインターフェースを持っている。)"
+      "explanation": "「interface」は、ここでは（ユーザー）インターフェースという意味で、機械やシステムと人間が情報をやり取りする接点を指します。IT分野では、異なるシステムやプログラム間の接続部分を指すこともあります。例：The software has a user-friendly interface. (そのソフトウェアはユーザーフレンドリーなインターフェースを持っている。)",
+      "etymology": "ラテン語の「inter-（間に）」と「facies（面、外観）」が組み合わさった言葉で、文字通り「面と面の間」を意味します。異なるものが接する面、接点を指します。",
+      "pronounciation": "ˈɪntərfeɪs",
+      "scriptContext": "Leonard: The interface is pretty simple. You put your horizontal X coordinate here, vertical Y coordinate here. When you’re happy with those, you press this button.",
+      "scriptContextTranslation": "Leonard: 操作は簡単だよ。ここに横のX座標、ここに縦のY座標を入力して、良ければこのボタンを押す。"
     },
     {
       "id": 2,
@@ -22,7 +26,11 @@
         "退屈な"
       ],
       "correctAnswer": "成熟した",
-      "explanation": "ここでは「大人げない」というシェルドンの発言に対する皮肉として使われています。一般的に「mature」は、精神的、肉体的に成長し、分別があることを意味します。例：She is very mature for her age. (彼女は年齢の割にとても大人びている。)"
+      "explanation": "ここでは「大人げない」というシェルドンの発言に対する皮肉として使われています。一般的に「mature」は、精神的、肉体的に成長し、分別があることを意味します。例：She is very mature for her age. (彼女は年齢の割にとても大人びている。)",
+      "etymology": "ラテン語の「maturus（熟した、準備ができた）」に由来し、物理的な成熟だけでなく、精神的な成長や発達も意味します。",
+      "pronounciation": "/məˈtʃʊər/",
+      "scriptContext": "Sheldon: Very mature. You’re lucky I’m out of silly string. As I was saying, Leonard, you’ll never guess who I just found online. Professor Proton.",
+      "scriptContextTranslation": "Sheldon: 大人げないな。僕がパーティーグッズのスプレーを持ってなくて良かったね。それでだ、レナード、誰をネットで見つけたか当ててみて。プロトン教授だ。"
     },
     {
       "id": 3,
@@ -34,7 +42,11 @@
         "危険な物"
       ],
       "correctAnswer": "おかしな文字列",
-      "explanation": "「silly string」は、パーティーなどで使用される、噴射すると糸状の泡が出てくるスプレーのおもちゃです。子供っぽいいたずらに使われることが多いです。例：The children were playing with silly string at the birthday party. (子供たちは誕生日パーティーでシリーストリングで遊んでいた。)"
+      "explanation": "「silly string」は、パーティーなどで使用される、噴射すると糸状の泡が出てくるスプレーのおもちゃです。子供っぽいいたずらに使われることが多いです。例：The children were playing with silly string at the birthday party. (子供たちは誕生日パーティーでシリーストリングで遊んでいた。)",
+      "etymology": "「silly」は「ばかげた、おかしな」という意味で、この場合は「ばかばかしいおもちゃ」というニュアンス。「string」は「ひも、糸」を意味し、噴射される糸状の泡を表しています。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Very mature. You’re lucky I’m out of silly string. As I was saying, Leonard, you’ll never guess who I just found online. Professor Proton.",
+      "scriptContextTranslation": "Sheldon: 大人げないな。僕がパーティーグッズのスプレーを持ってなくて良かったね。それでだ、レナード、誰をネットで見つけたか当ててみて。プロトン教授だ。"
     },
     {
       "id": 4,
@@ -46,7 +58,11 @@
         "支店"
       ],
       "correctAnswer": "原理",
-      "explanation": "「principle」は、ここでは科学的原理という意味で、物事の根本的な法則やルールを指します。道徳的な原則や信念という意味でも使われます。例：He is a man of principle. (彼は信念の人だ。)"
+      "explanation": "「principle」は、ここでは科学的原理という意味で、物事の根本的な法則やルールを指します。道徳的な原則や信念という意味でも使われます。例：He is a man of principle. (彼は信念の人だ。)",
+      "etymology": "ラテン語の「principium（始まり、根本）」に由来し、物事の根本となる法則や信念を意味します。",
+      "pronounciation": "ˈprɪnsəpəlz",
+      "scriptContext": "Sheldon: Professor Proton hosted my favourite science show when I was a child. I never missed an episode. He demonstrated scientific principles using everyday objects.",
+      "scriptContextTranslation": "Sheldon: プロトン教授は、僕が子供の頃に大好きだった科学番組の司会者だ。毎回欠かさず見ていたよ。彼は日常的な物を使って科学の原理を説明してくれたんだ。"
     },
     {
       "id": 5,
@@ -58,7 +74,11 @@
         "準備中"
       ],
       "correctAnswer": "利用可能",
-      "explanation": "「available for」は、特定の目的や活動のために時間や能力が空いている、利用できるという意味です。人だけでなく、物やサービスにも使われます。例：This room is available for meetings. (この部屋は会議に利用できます。)"
+      "explanation": "「available for」は、特定の目的や活動のために時間や能力が空いている、利用できるという意味です。人だけでなく、物やサービスにも使われます。例：This room is available for meetings. (この部屋は会議に利用できます。)",
+      "etymology": "「利用可能」という意味は、文字通り「～のために利用できる」という状態を示します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Oh, dear lord, Leonard, look. He’s still available for parties and events. We should hire him.",
+      "scriptContextTranslation": "Sheldon: なんてことだ、レナード、見てくれ。彼はまだパーティーやイベントに呼べるんだ。彼を雇うべきだ。"
     },
     {
       "id": 6,
@@ -70,7 +90,11 @@
         "子守唄"
       ],
       "correctAnswer": "主題歌",
-      "explanation": "「theme song」は、テレビ番組、映画、イベントなどを象徴する楽曲です。番組のオープニングやエンディングで使用され、その作品のイメージを強く印象付けます。例：The theme song of that TV show is very catchy. (あのテレビ番組の主題歌はとても耳に残る。)"
+      "explanation": "「theme song」は、テレビ番組、映画、イベントなどを象徴する楽曲です。番組のオープニングやエンディングで使用され、その作品のイメージを強く印象付けます。例：The theme song of that TV show is very catchy. (あのテレビ番組の主題歌はとても耳に残る。)",
+      "etymology": "ある特定の番組や映画を象徴する曲として、その作品のテーマを表現するために作られたことから、「theme song（主題歌）」と呼ばれるようになりました。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Do you remember his old theme song?",
+      "scriptContextTranslation": "Leonard: 彼の昔のテーマソング覚えてる？"
     },
     {
       "id": 7,
@@ -82,7 +106,11 @@
         "ペットショップ"
       ],
       "correctAnswer": "犬小屋",
-      "explanation": "「kennel」は、犬などを一時的に預ける施設や、犬を飼育するための小屋を指します。旅行などでペットを預ける際に利用されます。例：We left our dog at a kennel while we went on vacation. (私たちは休暇中に犬を犬舎に預けた。)"
+      "explanation": "「kennel」は、犬などを一時的に預ける施設や、犬を飼育するための小屋を指します。旅行などでペットを預ける際に利用されます。例：We left our dog at a kennel while we went on vacation. (私たちは休暇中に犬を犬舎に預けた。)",
+      "etymology": "古フランス語の「chenil（犬小屋）」に由来し、犬を飼育または一時的に預かる場所を指します。",
+      "pronounciation": "ˈkenl",
+      "scriptContext": "Howard: Why don’t you put her in a kennel?",
+      "scriptContextTranslation": "Howard: ペットホテルに預ければいいんじゃない？"
     },
     {
       "id": 8,
@@ -94,7 +122,11 @@
         "機転の利く"
       ],
       "correctAnswer": "機転の利く",
-      "explanation": "「tactful」は、相手の気持ちを傷つけないように、言葉や態度を選ぶのが上手なことを意味します。デリケートな状況で特に重要となる能力です。例：She was very tactful in handling the difficult situation. (彼女は難しい状況をとても巧みに処理した。)"
+      "explanation": "「tactful」は、相手の気持ちを傷つけないように、言葉や態度を選ぶのが上手なことを意味します。デリケートな状況で特に重要となる能力です。例：She was very tactful in handling the difficult situation. (彼女は難しい状況をとても巧みに処理した。)",
+      "etymology": "「tact（機転、如才なさ）」に由来し、相手を傷つけないように配慮する能力を意味します。",
+      "pronounciation": "ˈtæktfl",
+      "scriptContext": "Sheldon: And you just got yourself uninvited. See? I told you I’d find a tactful way to do that.",
+      "scriptContextTranslation": "Sheldon: 君は今、招待を取り消された。ほらね？　さりげなくそうする方法を見つけるって言っただろう。"
     },
     {
       "id": 9,
@@ -106,7 +138,11 @@
         "勇気"
       ],
       "correctAnswer": "脳みそ",
-      "explanation": "「noggin」は、頭、特に脳みそを指すくだけた言い方です。ユーモラスな文脈や親しみを込めた表現で使われます。例：Use your noggin! (頭を使え！)"
+      "explanation": "「noggin」は、頭、特に脳みそを指すくだけた言い方です。ユーモラスな文脈や親しみを込めた表現で使われます。例：Use your noggin! (頭を使え！)",
+      "etymology": "語源は不明ですが、古英語または中英語に由来すると考えられています。頭を指す俗語として使われます。",
+      "pronounciation": "ˈnɒɡɪn",
+      "scriptContext": "Sheldon: As Professor Proton always says, there is no problem you can’t solve if you use your noggin.",
+      "scriptContextTranslation": "Sheldon: プロトン教授がいつも言っているように、頭を使えば解決できない問題はないんだ。"
     },
     {
       "id": 10,
@@ -118,7 +154,11 @@
         "グラタン"
       ],
       "correctAnswer": "フリッタータ",
-      "explanation": "「frittata」は、イタリア風の卵料理で、具材を混ぜてオーブンやフライパンで焼いたものです。オムレツと似ていますが、よりオープンな形状で、具材も豊富です。例：I made a frittata for breakfast with vegetables and cheese. (朝食に野菜とチーズのフリッタータを作った。)"
+      "explanation": "「frittata」は、イタリア風の卵料理で、具材を混ぜてオーブンやフライパンで焼いたものです。オムレツと似ていますが、よりオープンな形状で、具材も豊富です。例：I made a frittata for breakfast with vegetables and cheese. (朝食に野菜とチーズのフリッタータを作った。)",
+      "etymology": "イタリア語の「friggere（焼く、炒める）」に由来し、卵をベースにした料理法を表しています。",
+      "pronounciation": "frɪˈtɑːtə",
+      "scriptContext": "Raj: It’s very simple. For breakfast, she has an egg-white frittata. Feel free to give her a choice of home fries or an English muffin, but not both. We’re watching our weight. Uh, for dinner, something simple, a veal chop, some scampi, whatever you like.",
+      "scriptContextTranslation": "Raj: 簡単だよ。朝食は卵白のフリッタータ。ホームフライかイングリッシュマフィンを選ばせてあげて。両方はダメ。体重を気にしているんだ。夕食は、シンプルに、仔牛肉のチョップとか、スキャンピとか、好きなものでいいよ。"
     },
     {
       "id": 11,
@@ -130,7 +170,11 @@
         "仔牛肉"
       ],
       "correctAnswer": "仔牛肉",
-      "explanation": "「veal chop」は、仔牛肉の骨付き肉を指します。高級な食材として知られ、レストランなどで提供されることが多いです。例：He ordered a veal chop at the fancy restaurant. (彼は高級レストランで仔牛肉のチョップを注文した。)"
+      "explanation": "「veal chop」は、仔牛肉の骨付き肉を指します。高級な食材として知られ、レストランなどで提供されることが多いです。例：He ordered a veal chop at the fancy restaurant. (彼は高級レストランで仔牛肉のチョップを注文した。)",
+      "etymology": "「veal」はフランス語の「veel（仔牛）」に由来し、「chop」は「切り身」を意味します。",
+      "pronounciation": "",
+      "scriptContext": "Raj: It’s very simple. For breakfast, she has an egg-white frittata. Feel free to give her a choice of home fries or an English muffin, but not both. We’re watching our weight. Uh, for dinner, something simple, a veal chop, some scampi, whatever you like.",
+      "scriptContextTranslation": "Raj: 簡単だよ。朝食は卵白のフリッタータ。ホームフライかイングリッシュマフィンを選ばせてあげて。両方はダメ。体重を気にしているんだ。夕食は、シンプルに、仔牛肉のチョップとか、スキャンピとか、好きなものでいいよ。"
     },
     {
       "id": 12,
@@ -142,7 +186,11 @@
         "シャコ"
       ],
       "correctAnswer": "エビ",
-      "explanation": "「scampi」は、手長エビの一種ですが、一般的にはエビを使った料理を指します。ガーリックバターで炒めたものがよく知られています。例：We had scampi for dinner. (夕食にスカンピを食べた。)"
+      "explanation": "「scampi」は、手長エビの一種ですが、一般的にはエビを使った料理を指します。ガーリックバターで炒めたものがよく知られています。例：We had scampi for dinner. (夕食にスカンピを食べた。)",
+      "etymology": "イタリア語の「scampo（手長エビ）」の複数形「scampi」に由来します。",
+      "pronounciation": "ˈskæmpi",
+      "scriptContext": "Raj: It’s very simple. For breakfast, she has an egg-white frittata. Feel free to give her a choice of home fries or an English muffin, but not both. We’re watching our weight. Uh, for dinner, something simple, a veal chop, some scampi, whatever you like.",
+      "scriptContextTranslation": "Raj: 簡単だよ。朝食は卵白のフリッタータ。ホームフライかイングリッシュマフィンを選ばせてあげて。両方はダメ。体重を気にしているんだ。夕食は、シンプルに、仔牛肉のチョップとか、スキャンピとか、好きなものでいいよ。"
     },
     {
       "id": 13,
@@ -154,7 +202,11 @@
         "汚い"
       ],
       "correctAnswer": "上品な",
-      "explanation": "「classy」は、上品で洗練されている、高級感があるという意味です。人、物、場所など、様々なものに使われます。例：She is a classy woman. (彼女は上品な女性だ。)"
+      "explanation": "「classy」は、上品で洗練されている、高級感があるという意味です。人、物、場所など、様々なものに使われます。例：She is a classy woman. (彼女は上品な女性だ。)",
+      "etymology": "「class（階級、等級）」に由来し、最上級のクラスにふさわしい上品さや洗練さを意味します。",
+      "pronounciation": "ˈklæsi",
+      "scriptContext": "Howard: Classy dog.",
+      "scriptContextTranslation": "Howard: 上品な犬だな。"
     },
     {
       "id": 14,
@@ -166,7 +218,11 @@
         "軽蔑する"
       ],
       "correctAnswer": "同情する",
-      "explanation": "「I feel for ya」は、「I feel sorry for you.」のくだけた言い方で、相手の状況に対して同情や共感を示す時に使います。相手の困難や苦労を理解し、気持ちを共有したい時に用います。例：\"I lost my job.\" \"Oh, I feel for ya, that's rough.\"（「仕事を失ったんだ。」「ああ、それは大変だね、お気の毒に。」）"
+      "explanation": "「I feel for ya」は、「I feel sorry for you.」のくだけた言い方で、相手の状況に対して同情や共感を示す時に使います。相手の困難や苦労を理解し、気持ちを共有したい時に用います。例：\"I lost my job.\" \"Oh, I feel for ya, that's rough.\"（「仕事を失ったんだ。」「ああ、それは大変だね、お気の毒に。」）",
+      "etymology": "相手の状況を感じ取る、つまり相手の気持ちを理解し共感するという意味から、同情するという意味になった。",
+      "pronounciation": "",
+      "scriptContext": "Howatd: I feel for ya. I’ve got a psychotic mommy, too.",
+      "scriptContextTranslation": "Howard: 同情するよ。俺にもサイコな母親がいるからな。"
     },
     {
       "id": 15,
@@ -178,7 +234,11 @@
         "冷静な"
       ],
       "correctAnswer": "狂気の",
-      "explanation": "「psychotic」は、精神病的な、精神病質のという意味です。ここでは、ハワードの母親が過干渉で常軌を逸していることをユーモラスに表現するために使われています。例：His behavior seemed psychotic. (彼の行動は精神病的に見えた。)"
+      "explanation": "「psychotic」は、精神病的な、精神病質のという意味です。ここでは、ハワードの母親が過干渉で常軌を逸していることをユーモラスに表現するために使われています。例：His behavior seemed psychotic. (彼の行動は精神病的に見えた。)",
+      "etymology": "ギリシャ語の「psyche（精神、魂）」と「-osis（病気の状態）」が組み合わさった言葉で、精神病の状態を意味します。",
+      "pronounciation": "saɪˈkɒtɪk",
+      "scriptContext": "Howatd: I feel for ya. I’ve got a psychotic mommy, too.",
+      "scriptContextTranslation": "Howard: 同情するよ。俺にもサイコな母親がいるからな。"
     },
     {
       "id": 16,
@@ -190,7 +250,11 @@
         "〜の結果"
       ],
       "correctAnswer": "〜として知られる",
-      "explanation": "「aka」は、also known asの略で、「〜としても知られる」という意味です。ある人物や物が別の名前や肩書きを持っていることを示す際に使用します。例：Clark Kent, aka Superman, is a reporter.（クラーク・ケント、別名スーパーマンは、記者である。）"
+      "explanation": "「aka」は、also known asの略で、「〜としても知られる」という意味です。ある人物や物が別の名前や肩書きを持っていることを示す際に使用します。例：Clark Kent, aka Superman, is a reporter.（クラーク・ケント、別名スーパーマンは、記者である。）",
+      "etymology": "also known asの略。別の名前でも知られていることを示す。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon (off): Do you realize that in less than nine hours, Arthur Jeffries, aka Professor Proton, will be in our apartment?",
+      "scriptContextTranslation": "Sheldon (off): 9時間以内に、アーサー・ジェフリーズ、別名プロトン教授が僕らのアパートに来るってわかってる？"
     },
     {
       "id": 17,
@@ -202,7 +266,11 @@
         "螺旋の"
       ],
       "correctAnswer": "水平の",
-      "explanation": "「horizontal」は「水平の」という意味で、地面や地平線と平行な方向を指します。物理的な方向を表すだけでなく、組織構造や社会階層など、比喩的な意味でも使われます。例：The horizon is a horizontal line. (地平線は水平線である。)"
+      "explanation": "「horizontal」は「水平の」という意味で、地面や地平線と平行な方向を指します。物理的な方向を表すだけでなく、組織構造や社会階層など、比喩的な意味でも使われます。例：The horizon is a horizontal line. (地平線は水平線である。)",
+      "etymology": "ギリシャ語の「horizon（地平線）」に由来。地平線と平行な線、つまり水平線を意味する。",
+      "pronounciation": "/ˌhɒrɪˈzɒntl/",
+      "scriptContext": "Leonard: The interface is pretty simple. You put your horizontal X coordinate here, vertical Y coordinate here. When you’re happy with those, you press this button.",
+      "scriptContextTranslation": "Leonard: 操作は簡単だよ。ここに横のX座標、ここに縦のY座標を入力して、良ければこのボタンを押す。"
     },
     {
       "id": 18,
@@ -214,7 +282,11 @@
         "螺旋の"
       ],
       "correctAnswer": "垂直の",
-      "explanation": "「vertical」は「垂直の」という意味で、地面や地平線に対して直角な方向を指します。物理的な方向を表すだけでなく、組織構造や社会階層など、比喩的な意味でも使われます。例：The skyscrapers in Manhattan are verticall. (マンハッタンの摩天楼は垂直である。)"
+      "explanation": "「vertical」は「垂直の」という意味で、地面や地平線に対して直角な方向を指します。物理的な方向を表すだけでなく、組織構造や社会階層など、比喩的な意味でも使われます。例：The skyscrapers in Manhattan are verticall. (マンハッタンの摩天楼は垂直である。)",
+      "etymology": "ラテン語の「vertex（頂点）」に由来。頂点から真下に伸びる線、つまり垂直線を意味する。",
+      "pronounciation": "/ˈvɜːrtɪkl/",
+      "scriptContext": "Leonard: The interface is pretty simple. You put your horizontal X coordinate here, vertical Y coordinate here. When you’re happy with those, you press this button.",
+      "scriptContextTranslation": "Leonard: 操作は簡単だよ。ここに横のX座標、ここに縦のY座標を入力して、良ければこのボタンを押す。"
     },
     {
       "id": 26,
@@ -226,7 +298,11 @@
         "賢い"
       ],
       "correctAnswer": "不機嫌な",
-      "explanation": "「cranky」は、機嫌が悪い、怒りっぽい、気難しいという意味です。特に、体調が悪いときや疲れているときに使われることが多いです。子供や年配の人に対して使われることが多いですが、大人にも使えます。\n\n例：He gets cranky when he doesn't get enough sleep. (彼は睡眠が足りないと機嫌が悪くなる。)"
+      "explanation": "「cranky」は、機嫌が悪い、怒りっぽい、気難しいという意味です。特に、体調が悪いときや疲れているときに使われることが多いです。子供や年配の人に対して使われることが多いですが、大人にも使えます。\n\n例：He gets cranky when he doesn't get enough sleep. (彼は睡眠が足りないと機嫌が悪くなる。)",
+      "etymology": "語源ははっきりしていませんが、「crank（気難しい人）」という言葉に関連があると考えられています。機嫌が悪く、怒りっぽい様子を表します。",
+      "pronounciation": "ˈkræŋki",
+      "scriptContext": "Leonard: Sheldon, you know that if you stay up all night, you’re gonna be sleepy tomorrow. And a sleepy Sheldon is a cranky Sheldon. And a cranky Sheldon is actually no different than a regular Sheldon. Good night.",
+      "scriptContextTranslation": "Leonard: シェルドン、一晩中起きてたら明日眠くなるぞ。眠いシェルドンは機嫌が悪い。機嫌が悪いシェルドンは、普段のシェルドンと何も変わらないけどな。おやすみ。"
     },
     {
       "id": 27,
@@ -238,7 +314,11 @@
         "全く違う"
       ],
       "correctAnswer": "ちょうど良い",
-      "explanation": "「just as well」は、結果的にそうなって良かった、という意味合いで使われます。ある事柄が起こらなかったことに対して、安堵や肯定的な気持ちを表す際に用いられます。しばしば、起こりうる悪い結果を回避できたというニュアンスを含みます。\n\n例：The meeting was cancelled, which is just as well because I have too much work to do. (会議がキャンセルされたが、仕事が多すぎるので、そうなって良かった。)"
+      "explanation": "「just as well」は、結果的にそうなって良かった、という意味合いで使われます。ある事柄が起こらなかったことに対して、安堵や肯定的な気持ちを表す際に用いられます。しばしば、起こりうる悪い結果を回避できたというニュアンスを含みます。\n\n例：The meeting was cancelled, which is just as well because I have too much work to do. (会議がキャンセルされたが、仕事が多すぎるので、そうなって良かった。)",
+      "etymology": "結果的にそうなって良かった、という意味合いで使われる。ある事柄が起こらなかったことに対して、安堵や肯定的な気持ちを表す際に用いられる。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon (off): Ah, just as well. Where can you rent a tuxedo at three o’clock in the morning?",
+      "scriptContextTranslation": "Sheldon (off): ああ、よかった。午前3時にタキシードをレンタルできるところなんてないよね。"
     },
     {
       "id": 28,
@@ -250,7 +330,11 @@
         "リラックスして"
       ],
       "correctAnswer": "疲れて",
-      "explanation": "「tuckered out」は、「疲れ果てた」「ぐったりした」という意味の口語的な表現です。特に、活動の後や一日の終わりに、非常に疲れている状態を表すのに使われます。\n\n例：After playing in the park all day, the kids were tuckered out. (一日中公園で遊んだ後、子供たちは疲れ果てていた。)"
+      "explanation": "「tuckered out」は、「疲れ果てた」「ぐったりした」という意味の口語的な表現です。特に、活動の後や一日の終わりに、非常に疲れている状態を表すのに使われます。\n\n例：After playing in the park all day, the kids were tuckered out. (一日中公園で遊んだ後、子供たちは疲れ果てていた。)",
+      "etymology": "「tucker」は「疲れさせる」という意味のスラングで、これが過去分詞になった形。完全に疲れ果てた状態を表します。",
+      "pronounciation": "",
+      "scriptContext": "Howard: She really tuckered herself out at the park, huh?",
+      "scriptContextTranslation": "Howard: あいつ、公園で本当に疲れちゃったんだな？"
     },
     {
       "id": 29,
@@ -262,7 +346,11 @@
         "無視する"
       ],
       "correctAnswer": "使い古す、疲れさせる",
-      "explanation": "「wear out」は、物理的に何かを使い古すという意味と、人を疲れさせるという意味があります。ここでは、後者の意味で使われています。特に、継続的な活動によって徐々に疲労が蓄積していく様子を表します。\n\n例：Walking around the city all day will wear you out. (一日中街を歩き回ると疲れるよ。)"
+      "explanation": "「wear out」は、物理的に何かを使い古すという意味と、人を疲れさせるという意味があります。ここでは、後者の意味で使われています。特に、継続的な活動によって徐々に疲労が蓄積していく様子を表します。\n\n例：Walking around the city all day will wear you out. (一日中街を歩き回ると疲れるよ。)",
+      "etymology": "「wear」は「身に着ける、すり減らす」という意味。「out」は「完全に」という意味合いを加え、使い古す、または疲れ果てさせるという意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: And you were sweet not to throw it too far so she didn’t wear out her tiny legs.",
+      "scriptContextTranslation": "Bernadette: それに、小さな足が疲れないように、遠くに投げないようにしてたのも優しかったわ。"
     },
     {
       "id": 30,
@@ -274,7 +362,11 @@
         "数時間"
       ],
       "correctAnswer": "数分",
-      "explanation": "「a few moments」は、短い時間を意味します。「a few」は「いくつか」という意味で、ここでは「数分」程度の短い時間を指します。\n\n例：I'll be back in a few moments. （すぐに戻ってきます。）"
+      "explanation": "「a few moments」は、短い時間を意味します。「a few」は「いくつか」という意味で、ここでは「数分」程度の短い時間を指します。\n\n例：I'll be back in a few moments. （すぐに戻ってきます。）",
+      "etymology": "「moment」は「瞬間」という意味で、「a few」がつくことで、数個の瞬間、つまり数分という意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: You know, there were a few moments today when I almost felt like we were a little family.",
+      "scriptContextTranslation": "Bernadette: 今日、ほんの少しの間だけど、私たち小さな家族みたいだなって感じた瞬間があったのよ。"
     },
     {
       "id": 31,
@@ -286,7 +378,11 @@
         "正直な人"
       ],
       "correctAnswer": "悪党、くそったれ",
-      "explanation": "「son of a bitch」は、非常に侮辱的な言葉で、怒りや不満を表す際に使われます。文字通りの意味ではなく、相手を罵倒する際に用いられます。フォーマルな場では絶対に使うべきではありません。\n\n例：(物が壊れた時などに) Son of a bitch! I can't believe it broke. (くそ！壊れたなんて信じられない。)"
+      "explanation": "「son of a bitch」は、非常に侮辱的な言葉で、怒りや不満を表す際に使われます。文字通りの意味ではなく、相手を罵倒する際に用いられます。フォーマルな場では絶対に使うべきではありません。\n\n例：(物が壊れた時などに) Son of a bitch! I can't believe it broke. (くそ！壊れたなんて信じられない。)",
+      "etymology": "英語圏で非常に侮辱的な言葉として使われ、相手を激しくののしる際に用いられます。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Of course we can. Especially if our baby’s as calm and quiet as little Cinna… Son of a bitch, she’s gone.",
+      "scriptContextTranslation": "Howard: もちろんできるよ。特に俺たちの赤ちゃんがシナみたいに穏やかで静かだったら…くそっ、いなくなってる。"
     },
     {
       "id": 32,
@@ -298,7 +394,11 @@
         "隠す"
       ],
       "correctAnswer": "引き裂く、めちゃくちゃにする",
-      "explanation": "「rip apart」は、物理的に何かを引き裂くという意味と、比喩的に組織や計画などをめちゃくちゃにするという意味があります。ここでは、前者の意味で使われています。\n\n例：The storm ripped apart the roof of the house. (嵐が家の屋根を引き裂いた。)"
+      "explanation": "「rip apart」は、物理的に何かを引き裂くという意味と、比喩的に組織や計画などをめちゃくちゃにするという意味があります。ここでは、前者の意味で使われています。\n\n例：The storm ripped apart the roof of the house. (嵐が家の屋根を引き裂いた。)",
+      "etymology": "「rip」は「引き裂く」という意味。「apart」は「バラバラに」という意味合いを加え、完全に引き裂く、めちゃくちゃにするという意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Professor Proton was never late when he was on TV. You know, every day, four o’clock, he was there. Unless tornadoes were ripping apart East Texas, in which case we’d join him in progress. (Phone rings) It’s him. Hello. Well, I see. Yes. All right, we can come get you. Yeah, well, see you soon. Bye.",
+      "scriptContextTranslation": "Sheldon: プロトン教授はテレビに出てた時、決して遅刻しなかった。毎日4時にはそこにいたんだ。イーストテキサスを竜巻が襲っていない限りはね。その場合は番組の途中から参加した。(電話が鳴る) 彼だ。もしもし。なるほど。はい。わかりました。迎えに行きます。ええ、それでは、また。さようなら。"
     },
     {
       "id": 33,
@@ -310,7 +410,11 @@
         "中止"
       ],
       "correctAnswer": "進行中",
-      "explanation": "「in progress」は、何かが進行中であることを意味します。特に、プロセスや活動がまだ完了していない状態を表す際に用いられます。\n\n例：The meeting is in progress. （会議は進行中です。）"
+      "explanation": "「in progress」は、何かが進行中であることを意味します。特に、プロセスや活動がまだ完了していない状態を表す際に用いられます。\n\n例：The meeting is in progress. （会議は進行中です。）",
+      "etymology": "「progress」は「進行、進捗」という意味。「in」がつくことで、その状態の中にある、つまり進行中であることを示します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Professor Proton was never late when he was on TV. You know, every day, four o’clock, he was there. Unless tornadoes were ripping apart East Texas, in which case we’d join him in progress. (Phone rings) It’s him. Hello. Well, I see. Yes. All right, we can come get you. Yeah, well, see you soon. Bye.",
+      "scriptContextTranslation": "Sheldon: プロトン教授はテレビに出てた時、決して遅刻しなかった。毎日4時にはそこにいたんだ。イーストテキサスを竜巻が襲っていない限りはね。その場合は番組の途中から参加した。(電話が鳴る) 彼だ。もしもし。なるほど。はい。わかりました。迎えに行きます。ええ、それでは、また。さようなら。"
     },
     {
       "id": 34,
@@ -322,7 +426,11 @@
         "到着"
       ],
       "correctAnswer": "踊り場",
-      "explanation": "「landing」は、階段の途中の広いスペース、つまり踊り場を意味します。建物の階と階をつなぐ階段の一部を指します。\n\n例：He was waiting on the third floor landing. (彼は3階の踊り場で待っていた。)"
+      "explanation": "「landing」は、階段の途中の広いスペース、つまり踊り場を意味します。建物の階と階をつなぐ階段の一部を指します。\n\n例：He was waiting on the third floor landing. (彼は3階の踊り場で待っていた。)",
+      "etymology": "「land」は「着地する」という意味で、階段の途中で「着地」できる広いスペース、つまり踊り場を指すようになりました。",
+      "pronounciation": "ˈlændɪŋ",
+      "scriptContext": "Sheldon: The third floor landing. The poor old guy’s been walking up the stairs for half an hour. It’s really you.",
+      "scriptContextTranslation": "Sheldon: 3階の踊り場。かわいそうに、おじいちゃんは30分も階段を上ってる。本当に君だ。"
     },
     {
       "id": 35,
@@ -334,7 +442,11 @@
         "重荷"
       ],
       "correctAnswer": "光栄",
-      "explanation": "「an honour」は、「光栄」という意味です。人や機会に対して、尊敬や感謝の気持ちを表す際に用いられます。特に、特別な機会や重要な人物に会う場合に使うことが多いです。\n\n例：It's an honour to meet you. (お会いできて光栄です。)"
+      "explanation": "「an honour」は、「光栄」という意味です。人や機会に対して、尊敬や感謝の気持ちを表す際に用いられます。特に、特別な機会や重要な人物に会う場合に使うことが多いです。\n\n例：It's an honour to meet you. (お会いできて光栄です。)",
+      "etymology": "ラテン語の「honor（尊敬、名誉）」に由来し、人に敬意を払う、または特別な機会を尊重するという意味合いがあります。",
+      "pronounciation": "ˈɒnər",
+      "scriptContext": "Sheldon: Professor Proton, it’s an honour to meet you.",
+      "scriptContextTranslation": "Sheldon: プロトン教授、お会いできて光栄です。"
     },
     {
       "id": 36,
@@ -346,7 +458,11 @@
         "理解する"
       ],
       "correctAnswer": "近づく",
-      "explanation": "「get close to」は、物理的に近づくという意味と、感情的に親密になるという意味があります。ここでは、前者の意味で使われています。\n\n例：Don't get too close to the fire. (火に近づきすぎないで。)"
+      "explanation": "「get close to」は、物理的に近づくという意味と、感情的に親密になるという意味があります。ここでは、前者の意味で使われています。\n\n例：Don't get too close to the fire. (火に近づきすぎないで。)",
+      "etymology": "「close」は「近い」という意味。「get」は「～になる」という意味合いを加え、何かに近づく、または親密になるという意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Yes. Also, don’t forget to close the toilet or she’ll drink out of it.",
+      "scriptContextTranslation": "Raj: そうなんだ。あと、トイレを閉めるのを忘れないで。水を飲んでしまうから。"
     },
     {
       "id": 37,
@@ -358,7 +474,11 @@
         "勉強する"
       ],
       "correctAnswer": "ぶらぶらする、遊ぶ",
-      "explanation": "「hang out」は、友達と気軽に時間を過ごす、ぶらぶらするという意味の口語的な表現です。特定の目的を持たずに、リラックスして過ごす状況を表します。\n\n例：Let's hang out at my place tonight. (今夜、私の家でぶらぶらしよう。)"
+      "explanation": "「hang out」は、友達と気軽に時間を過ごす、ぶらぶらするという意味の口語的な表現です。特定の目的を持たずに、リラックスして過ごす状況を表します。\n\n例：Let's hang out at my place tonight. (今夜、私の家でぶらぶらしよう。)",
+      "etymology": "特に目的もなく、ただ時間を過ごす、ぶらぶらするという意味合いで、友達と気軽に過ごす様子を表します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: It would be pretty awesome to hang out with him. I just used awesome wrong, didn’t I?",
+      "scriptContextTranslation": "Leonard: 彼と遊ぶなんて最高だろうな。今、最高の使い方間違えたよね？"
     },
     {
       "id": 38,
@@ -370,7 +490,11 @@
         "決して"
       ],
       "correctAnswer": "本当は、実は",
-      "explanation": "「actually」は、「実際には」「実は」という意味で、相手の予想や認識とは異なる事実を伝える際に使われます。また、発言を和らげる効果もあります。\n\n例：I actually like him. (実は彼のことが好きなんです。)"
+      "explanation": "「actually」は、「実際には」「実は」という意味で、相手の予想や認識とは異なる事実を伝える際に使われます。また、発言を和らげる効果もあります。\n\n例：I actually like him. (実は彼のことが好きなんです。)",
+      "etymology": "「act」は「行動する」という意味。「actual」は「実際の」という意味になり、「actually」は「実際には」「実は」という意味合いで、相手の予想と異なる事実を伝える際に使われます。",
+      "pronounciation": "ˈæktʃuəli",
+      "scriptContext": "Leonard: Sheldon, you know that if you stay up all night, you’re gonna be sleepy tomorrow. And a sleepy Sheldon is a cranky Sheldon. And a cranky Sheldon is actually no different than a regular Sheldon. Good night.",
+      "scriptContextTranslation": "Leonard: シェルドン、一晩中起きてたら明日眠くなるぞ。眠いシェルドンは機嫌が悪い。機嫌が悪いシェルドンは、普段のシェルドンと何も変わらないけどな。おやすみ。"
     },
     {
       "id": 39,
@@ -382,7 +506,11 @@
         "それにもかかわらず"
       ],
       "correctAnswer": "同様に、～もまた",
-      "explanation": "「as well」は、「～もまた」「同様に」という意味で、何かを付け加える際に使われます。文末に置かれることが多いです。\n\n例：I'm going to the party. She's going as well. (私はパーティーに行くよ。彼女も行くよ。)"
+      "explanation": "「as well」は、「～もまた」「同様に」という意味で、何かを付け加える際に使われます。文末に置かれることが多いです。\n\n例：I'm going to the party. She's going as well. (私はパーティーに行くよ。彼女も行くよ。)",
+      "etymology": "「well」は「良い」という意味ですが、「as well」で「同様に」「～もまた」という意味になり、何かを付け加える際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon (off): Ah, just as well. Where can you rent a tuxedo at three o’clock in the morning?",
+      "scriptContextTranslation": "Sheldon (off): ああ、よかった。午前3時にタキシードをレンタルできるところなんてないよね。"
     },
     {
       "id": 40,
@@ -394,7 +522,11 @@
         "怒っている"
       ],
       "correctAnswer": "穏やかな",
-      "explanation": "「calm」は、「穏やかな」「落ち着いた」という意味です。人や場所、状況など、様々なものに対して使うことができます。\n\n例：The sea was calm. (海は穏やかだった。)"
+      "explanation": "「calm」は、「穏やかな」「落ち着いた」という意味です。人や場所、状況など、様々なものに対して使うことができます。\n\n例：The sea was calm. (海は穏やかだった。)",
+      "etymology": "ラテン語の「cauma（暑さ、穏やかな状態）」に由来し、騒ぎや興奮がなく、穏やかで落ち着いた状態を表します。",
+      "pronounciation": "kɑːm",
+      "scriptContext": "Howard: Of course we can. Especially if our baby’s as calm and quiet as little Cinna… Son of a bitch, she’s gone.",
+      "scriptContextTranslation": "Howard: もちろんできるよ。特に俺たちの赤ちゃんがシナみたいに穏やかで静かだったら…くそっ、いなくなってる。"
     },
     {
       "id": 41,
@@ -406,7 +538,11 @@
         "過去の"
       ],
       "correctAnswer": "まだ",
-      "explanation": "「still」は、「まだ」という意味で、ある状態が継続していることを表します。\n\n例：I still can’t sleep. (まだ眠れない。)"
+      "explanation": "「still」は、「まだ」という意味で、ある状態が継続していることを表します。\n\n例：I still can’t sleep. (まだ眠れない。)",
+      "etymology": "ゲルマン祖語の「stille（静かな）」に由来し、動きや変化がなく、同じ状態が続いていることを表します。",
+      "pronounciation": "stɪl",
+      "scriptContext": "Leonard: You’re kidding. He’s still alive?",
+      "scriptContextTranslation": "Leonard: 冗談だろ。まだ生きてたのか？"
     },
     {
       "id": 42,
@@ -418,7 +554,11 @@
         "強い"
       ],
       "correctAnswer": "かわいい",
-      "explanation": "「cute」は、「かわいい」という意味で、主に外見や行動が愛らしいものに対して使われます。\n\n例：She is a cute baby. (彼女はかわいい赤ちゃんです。)"
+      "explanation": "「cute」は、「かわいい」という意味で、主に外見や行動が愛らしいものに対して使われます。\n\n例：She is a cute baby. (彼女はかわいい赤ちゃんです。)",
+      "etymology": "「acute（鋭い、賢い）」の短縮形として生まれ、元々は「賢い、抜け目ない」という意味でしたが、時代とともに「愛らしい、かわいい」という意味に変化しました。",
+      "pronounciation": "kjuːt",
+      "scriptContext": "Penny: Aw, so cute when you use the word cool wrong. Like when kids say pasghetti.",
+      "scriptContextTranslation": "Penny: あら、クールって言葉を間違って使うのが可愛いわね。子供がパスタを「パスゲッティ」って言うみたい。"
     },
     {
       "id": 43,
@@ -430,7 +570,11 @@
         "頻繁に"
       ],
       "correctAnswer": "ほとんど",
-      "explanation": "「almost」は、「ほとんど」「もう少しで」という意味で、完全にはそうではないけれど、それに近い状態を表します。\n\n例：I almost felt like we were a little family. (ほとんど家族のように感じた。)"
+      "explanation": "「almost」は、「ほとんど」「もう少しで」という意味で、完全にはそうではないけれど、それに近い状態を表します。\n\n例：I almost felt like we were a little family. (ほとんど家族のように感じた。)",
+      "etymology": "「all」と「most」が組み合わさった言葉で、「ほとんどすべて」という意味から、「ほとんど」「もう少しで」という意味に変化しました。",
+      "pronounciation": "ˈɔːlməʊst",
+      "scriptContext": "Bernadette: You know, there were a few moments today when I almost felt like we were a little family.",
+      "scriptContextTranslation": "Bernadette: 今日、ほんの少しの間だけど、私たち小さな家族みたいだなって感じた瞬間があったのよ。"
     },
     {
       "id": 44,
@@ -442,7 +586,11 @@
         "酸っぱい"
       ],
       "correctAnswer": "甘い、優しい",
-      "explanation": "「sweet」は、「甘い」という意味の他に、「優しい」「親切な」という意味があります。人の性格や行動に対して使われることが多いです。\n\n例：You are so sweet to help me. (手伝ってくれてとても優しいね。)"
+      "explanation": "「sweet」は、「甘い」という意味の他に、「優しい」「親切な」という意味があります。人の性格や行動に対して使われることが多いです。\n\n例：You are so sweet to help me. (手伝ってくれてとても優しいね。)",
+      "etymology": "古英語の「swete（甘い）」に由来し、文字通りの甘さだけでなく、人柄の優しさや親切さも表すようになりました。",
+      "pronounciation": "swiːt",
+      "scriptContext": "Bernadette: And you were sweet not to throw it too far so she didn’t wear out her tiny legs.",
+      "scriptContextTranslation": "Bernadette: それに、小さな足が疲れないように、遠くに投げないようにしてたのも優しかったわ。"
     },
     {
       "id": 45,
@@ -454,7 +602,11 @@
         "～することを強く望んでいる"
       ],
       "correctAnswer": "～することになっている",
-      "explanation": "「be supposed to」は、「～することになっている」「～するはずである」という意味で、義務や予定、期待などを表します。\n\n例：I was supposed to put her back in the stroller. (彼女をベビーカーに戻すことになっていた。)"
+      "explanation": "「be supposed to」は、「～することになっている」「～するはずである」という意味で、義務や予定、期待などを表します。\n\n例：I was supposed to put her back in the stroller. (彼女をベビーカーに戻すことになっていた。)",
+      "etymology": "「suppose」は「仮定する、思う」という意味で、「be supposed to」で「～することになっている」「～するはずである」という意味になります。何らかの義務や予定、期待を表す際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Well, you were the one who was supposed to put her back in the stroller.",
+      "scriptContextTranslation": "Bernadette: あら、ベビーカーに戻すはずだったのはあなたでしょ。"
     },
     {
       "id": 46,
@@ -466,7 +618,11 @@
         "喜ぶ"
       ],
       "correctAnswer": "心配する",
-      "explanation": "「get worried」は、「心配する」「不安になる」という意味です。何かが起こるかもしれないという不安な気持ちを表します。\n\n例：I'm getting worried about him. (彼のことが心配になってきた。)"
+      "explanation": "「get worried」は、「心配する」「不安になる」という意味です。何かが起こるかもしれないという不安な気持ちを表します。\n\n例：I'm getting worried about him. (彼のことが心配になってきた。)",
+      "etymology": "「worry」は「心配する」という意味。「get」は「～になる」という意味合いを加え、心配な状態になることを表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I’m getting worried.",
+      "scriptContextTranslation": "Sheldon: 心配になってきた。"
     },
     {
       "id": 47,
@@ -478,7 +634,11 @@
         "働く"
       ],
       "correctAnswer": "リラックスする",
-      "explanation": "「relax」は、「リラックスする」「くつろぐ」という意味です。心身の緊張を解き、穏やかな状態になることを表します。\n\n例：Relax, everything will be okay. (リラックスして、すべてうまくいくよ。)"
+      "explanation": "「relax」は、「リラックスする」「くつろぐ」という意味です。心身の緊張を解き、穏やかな状態になることを表します。\n\n例：Relax, everything will be okay. (リラックスして、すべてうまくいくよ。)",
+      "etymology": "ラテン語の「laxare（緩める）」に由来し、緊張を解き、心身を穏やかな状態にすることを意味します。",
+      "pronounciation": "rɪˈlæks",
+      "scriptContext": "Penny: Relax, Sheldon, he’s only a few minutes late.",
+      "scriptContextTranslation": "Penny: 落ち着いて、シェルドン。ほんの数分遅れてるだけよ。"
     },
     {
       "id": 48,
@@ -490,7 +650,11 @@
         "健康な"
       ],
       "correctAnswer": "貧しい、かわいそうな",
-      "explanation": "「poor」は、「貧しい」という意味の他に、「かわいそうな」「気の毒な」という意味があります。同情や哀れみの気持ちを表す際に使われます。\n\n例：The poor old guy’s been walking up the stairs for half an hour. (かわいそうな老人は30分も階段を上っている。)"
+      "explanation": "「poor」は、「貧しい」という意味の他に、「かわいそうな」「気の毒な」という意味があります。同情や哀れみの気持ちを表す際に使われます。\n\n例：The poor old guy’s been walking up the stairs for half an hour. (かわいそうな老人は30分も階段を上っている。)",
+      "etymology": "古フランス語の「povre（貧しい）」に由来し、経済的な貧しさだけでなく、同情や哀れみを誘う状況も表します。",
+      "pronounciation": "pʊər",
+      "scriptContext": "Sheldon: The third floor landing. The poor old guy’s been walking up the stairs for half an hour. It’s really you.",
+      "scriptContextTranslation": "Sheldon: 3階の踊り場。かわいそうに、おじいちゃんは30分も階段を上ってる。本当に君だ。"
     },
     {
       "id": 49,
@@ -502,7 +666,11 @@
         "子供"
       ],
       "correctAnswer": "天才",
-      "explanation": "「genius」は、「天才」という意味で、非常に優れた知能や才能を持つ人を指します。\n\n例：He is a genius in mathematics. (彼は数学の天才だ。)"
+      "explanation": "「genius」は、「天才」という意味で、非常に優れた知能や才能を持つ人を指します。\n\n例：He is a genius in mathematics. (彼は数学の天才だ。)",
+      "etymology": "ラテン語の「genius（才能、守護神）」に由来し、生まれつき備わった優れた才能や知性を意味します。",
+      "pronounciation": "ˈdʒiːniəs",
+      "scriptContext": "Leonard: Actually, he’s a genius.",
+      "scriptContextTranslation": "Leonard: 実は、彼は天才なんです。"
     },
     {
       "id": 50,
@@ -514,7 +682,11 @@
         "無視する"
       ],
       "correctAnswer": "理解する、解明する",
-      "explanation": "「figure out」は、「理解する」「解明する」「見つけ出す」という意味で、問題や状況を分析し、解決策を見つけることを表します。\n\n例：I'm still trying to figure out what this is. (これが何なのかまだ理解しようとしているところだ。)"
+      "explanation": "「figure out」は、「理解する」「解明する」「見つけ出す」という意味で、問題や状況を分析し、解決策を見つけることを表します。\n\n例：I'm still trying to figure out what this is. (これが何なのかまだ理解しようとしているところだ。)",
+      "etymology": "「figure」は「図形、数字」という意味ですが、「figure out」で「理解する」「解明する」という意味になります。問題や状況を分析し、解決策を見つけ出すイメージです。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: It, it’s hard to say. I’m, I’m still trying to figure out what, what th, what this is.",
+      "scriptContextTranslation": "Arthur: それ、それは何とも言えないな。私は、これが何なのかをまだ理解しようとしているところだ。"
     },
     {
       "id": 51,
@@ -526,7 +698,11 @@
         "私を混乱させる"
       ],
       "correctAnswer": "私を本気で受け止める",
-      "explanation": "「take someone seriously」とは、誰かを真剣に受け止める、その人の意見や能力を尊重するという意味です。ここでは、科学の世界で誰もアーサーを真剣に受け止めなくなった、という意味で使われています。\n\n例：You should take her seriously; she knows what she's talking about. (彼女を真剣に受け止めるべきです。彼女は何を話しているか分かっています。)"
+      "explanation": "「take someone seriously」とは、誰かを真剣に受け止める、その人の意見や能力を尊重するという意味です。ここでは、科学の世界で誰もアーサーを真剣に受け止めなくなった、という意味で使われています。\n\n例：You should take her seriously; she knows what she's talking about. (彼女を真剣に受け止めるべきです。彼女は何を話しているか分かっています。)",
+      "etymology": "「seriously」は「真剣に」という意味。「take someone seriously」で、誰かの言葉や行動を軽く見ずに、真剣に受け止めるという意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: Well, there, there really isn’t too much to tell. After the TV show was, was cancelled, nobody in the scientific world would, uh, would take me seriously. So I was forced to do these, uh, children’s parties to, to make a living.",
+      "scriptContextTranslation": "Arthur: ええと、そんなに話すことはないんだ。番組が打ち切りになった後、科学界の誰も私を真剣に受け止めてくれなくなった。それで、こうして子供向けのパーティーで生計を立てるしかなかったんだ。"
     },
     {
       "id": 52,
@@ -538,7 +714,11 @@
         "趣味を始める"
       ],
       "correctAnswer": "生活費を稼ぐ",
-      "explanation": "「make a living」とは、生活費を稼ぐ、生計を立てるという意味です。ここでは、アーサーが生活費を稼ぐために子供向けのパーティーを開いていた、という意味で使われています。\n\n例：It's hard to make a living as an artist. (芸術家として生計を立てるのは難しい。)"
+      "explanation": "「make a living」とは、生活費を稼ぐ、生計を立てるという意味です。ここでは、アーサーが生活費を稼ぐために子供向けのパーティーを開いていた、という意味で使われています。\n\n例：It's hard to make a living as an artist. (芸術家として生計を立てるのは難しい。)",
+      "etymology": "「living」は「生活、生計」という意味。「make a living」で、生活に必要なものを作り出す、つまり生計を立てるという意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: Well, there, there really isn’t too much to tell. After the TV show was, was cancelled, nobody in the scientific world would, uh, would take me seriously. So I was forced to do these, uh, children’s parties to, to make a living.",
+      "scriptContextTranslation": "Arthur: ええと、そんなに話すことはないんだ。番組が打ち切りになった後、科学界の誰も私を真剣に受け止めてくれなくなった。それで、こうして子供向けのパーティーで生計を立てるしかなかったんだ。"
     },
     {
       "id": 53,
@@ -550,7 +730,11 @@
         "退屈な"
       ],
       "correctAnswer": "やりがいがある",
-      "explanation": "「rewarding」とは、やりがいがある、満足感を得られるという意味です。ここでは、子供たちと働くことはやりがいがあるはずだ、という意味で使われています。\n\n例：Teaching can be a very rewarding job. (教師はとてもやりがいのある仕事になりえます。)"
+      "explanation": "「rewarding」とは、やりがいがある、満足感を得られるという意味です。ここでは、子供たちと働くことはやりがいがあるはずだ、という意味で使われています。\n\n例：Teaching can be a very rewarding job. (教師はとてもやりがいのある仕事になりえます。)",
+      "etymology": "「reward」は「報酬、報い」という意味。「rewarding」で、報酬を得られるような、やりがいのあるという意味になります。",
+      "pronounciation": "rɪˈwɔːrdɪŋ",
+      "scriptContext": "Leonard: That’s too bad. But still, working with kids, it must be rewarding.",
+      "scriptContextTranslation": "Leonard: それは残念ですね。でも、子供たちと働くのは、やりがいがあるでしょう？"
     },
     {
       "id": 54,
@@ -562,7 +746,11 @@
         "これを壊す"
       ],
       "correctAnswer": "これを理解する",
-      "explanation": "「have something straight」とは、何かを正しく理解する、誤解がないようにするという意味です。ここでは、アーサーがレナードとシェルドンの言っていることを理解しようとしている場面で使われています。\n\n例：Let me get this straight, you're quitting your job? (念のため確認させてください、あなたは仕事を辞めるのですか？)"
+      "explanation": "「have something straight」とは、何かを正しく理解する、誤解がないようにするという意味です。ここでは、アーサーがレナードとシェルドンの言っていることを理解しようとしている場面で使われています。\n\n例：Let me get this straight, you're quitting your job? (念のため確認させてください、あなたは仕事を辞めるのですか？)",
+      "etymology": "「straight」は「まっすぐな、正しい」という意味。「have something straight」で、何かを正しく理解している状態を表します。誤解がないように確認する際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: You, you get bit a lot. Let me see if, if I have this straight. You, you two are, are physicists, and you, and you want me to do a children’s science show?",
+      "scriptContextTranslation": "Arthur: よく噛まれるんだよ。ちょっと確認させてくれ。君たち二人は物理学者で、私に子供向けの科学番組に出てほしいのか？"
     },
     {
       "id": 55,
@@ -574,7 +762,11 @@
         "普段着"
       ],
       "correctAnswer": "季節の服",
-      "explanation": "「seasonal clothing」とは、季節に合わせた服という意味です。ここでは、季節の服を着て一緒に写真を撮ってほしい、という意味で使われています。\n\n例：I need to pack my seasonal clothing away for the winter.（冬に向けて季節の服を片付ける必要があります。)"
+      "explanation": "「seasonal clothing」とは、季節に合わせた服という意味です。ここでは、季節の服を着て一緒に写真を撮ってほしい、という意味で使われています。\n\n例：I need to pack my seasonal clothing away for the winter.（冬に向けて季節の服を片付ける必要があります。)",
+      "etymology": "「seasonal」は「季節の」という意味。「clothing」は「衣服」という意味で、季節に合わせて着る服のことを指します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yes. And if there’s time, take 12 pictures with us in seasonal clothing.",
+      "scriptContextTranslation": "Sheldon: ええ。もし時間があれば、季節の衣装を着て一緒に12枚写真を撮ってください。"
     },
     {
       "id": 56,
@@ -586,7 +778,11 @@
         "冗談"
       ],
       "correctAnswer": "魅力的なもの",
-      "explanation": "「turn-on」とは、性的魅力を感じるもの、興奮させるものという意味です。ここでは、バーナデットがラージのような声で話すのがハワードにとって魅力的だ、という意味で使われています。\n\n例：Intelligence is a big turn-on for me. (知性は私にとって大きな魅力です。)"
+      "explanation": "「turn-on」とは、性的魅力を感じるもの、興奮させるものという意味です。ここでは、バーナデットがラージのような声で話すのがハワードにとって魅力的だ、という意味で使われています。\n\n例：Intelligence is a big turn-on for me. (知性は私にとって大きな魅力です。)",
+      "etymology": "「turn on」は「（電気などを）つける」という意味ですが、スラングとして「（性的）興奮を覚える」という意味があります。そこから派生して、性的魅力を感じるもの、興奮させるものを指すようになりました。",
+      "pronounciation": "",
+      "scriptContext": "Howard: When this all blows over, remember that voice. It’s kind of a turn-on.",
+      "scriptContextTranslation": "Howard: これが全部終わったら、その声を覚えておいて。ちょっと興奮するんだ。"
     },
     {
       "id": 57,
@@ -598,7 +794,11 @@
         "失敗する"
       ],
       "correctAnswer": "過ぎ去る",
-      "explanation": "「blow over」とは、問題や騒ぎなどが鎮静化する、収まるという意味です。ここでは、この騒ぎが収まったら、という意味で使われています。\n\n例：The scandal will eventually blow over. (そのスキャンダルは最終的には収まるでしょう。)"
+      "explanation": "「blow over」とは、問題や騒ぎなどが鎮静化する、収まるという意味です。ここでは、この騒ぎが収まったら、という意味で使われています。\n\n例：The scandal will eventually blow over. (そのスキャンダルは最終的には収まるでしょう。)",
+      "etymology": "「blow」は「吹く」という意味。「over」は「終わる、過ぎ去る」という意味合いを加え、問題や騒ぎが吹き飛んで過ぎ去る、つまり鎮静化するという意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Howard: When this all blows over, remember that voice. It’s kind of a turn-on.",
+      "scriptContextTranslation": "Howard: これが全部終わったら、その声を覚えておいて。ちょっと興奮するんだ。"
     },
     {
       "id": 58,
@@ -610,7 +810,11 @@
         "吹き飛ばされる"
       ],
       "correctAnswer": "吸い込まれる",
-      "explanation": "「suck in」とは、文字通りには何かを吸い込むという意味ですが、ここでは、卵がフラスコの中に吸い込まれる、という意味で使われています。\n\n例：The vacuum cleaner sucked up all the dust. (掃除機がすべての埃を吸い込んだ。)"
+      "explanation": "「suck in」とは、文字通りには何かを吸い込むという意味ですが、ここでは、卵がフラスコの中に吸い込まれる、という意味で使われています。\n\n例：The vacuum cleaner sucked up all the dust. (掃除機がすべての埃を吸い込んだ。)",
+      "etymology": "「suck」は「吸う」という意味。「in」は「中へ」という意味合いを加え、何かが中に吸い込まれる様子を表します。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: It’s gonna get sucked in. It’s going to get sucked in.",
+      "scriptContextTranslation": "Sheldon: 吸い込まれるんだ。吸い込まれる。"
     },
     {
       "id": 59,
@@ -622,7 +826,11 @@
         "無視する"
       ],
       "correctAnswer": "動揺させる",
-      "explanation": "「upsetting」とは、人を動揺させる、不快にさせるという意味です。ここでは、ペニーがアーサーを動揺させているのか、という意味で使われています。\n\n例：The news was very upsetting. (そのニュースはとても動揺させられるものだった。)"
+      "explanation": "「upsetting」とは、人を動揺させる、不快にさせるという意味です。ここでは、ペニーがアーサーを動揺させているのか、という意味で使われています。\n\n例：The news was very upsetting. (そのニュースはとても動揺させられるものだった。)",
+      "etymology": "「upset」は「動揺させる、不快にさせる」という意味。「upsetting」は、人を動揺させるような、不快なという意味になります。",
+      "pronounciation": "ʌpˈsetɪŋ",
+      "scriptContext": "Sheldon: What, well what’s wrong? Is she upsetting you? Because I can make her go away.",
+      "scriptContextTranslation": "Sheldon: え、どうしたんですか？彼女が何か気に障りましたか？彼女を追い払うこともできますよ。"
     },
     {
       "id": 60,
@@ -634,7 +842,11 @@
         "挨拶する"
       ],
       "correctAnswer": "立ち去る",
-      "explanation": "「go away」とは、立ち去る、いなくなるという意味です。ここでは、ペニーを追い払うことができる、という意味で使われています。\n\n例：I wish he would just go away and leave me alone. (彼にはただ立ち去って、私を一人にしてほしい。)"
+      "explanation": "「go away」とは、立ち去る、いなくなるという意味です。ここでは、ペニーを追い払うことができる、という意味で使われています。\n\n例：I wish he would just go away and leave me alone. (彼にはただ立ち去って、私を一人にしてほしい。)",
+      "etymology": "「go」は「行く」という意味。「away」は「離れて、遠くへ」という意味合いを加え、そこから立ち去る、いなくなるという意味になります。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: What, well what’s wrong? Is she upsetting you? Because I can make her go away.",
+      "scriptContextTranslation": "Sheldon: え、どうしたんですか？彼女が何か気に障りましたか？彼女を追い払うこともできますよ。"
     },
     {
       "id": 61,
@@ -646,7 +858,11 @@
         "〜を続ける"
       ],
       "correctAnswer": "〜になる",
-      "explanation": "「wind up as」とは、最終的に〜になる、という意味です。意図せずに、または予期せずに何かの状態になることを表します。\n\n例：If you keep doing that, you'll wind up in jail. (もしあなたがそれをし続けるなら、あなたは最終的に刑務所に入るでしょう。)"
+      "explanation": "「wind up as」とは、最終的に〜になる、という意味です。意図せずに、または予期せずに何かの状態になることを表します。\n\n例：If you keep doing that, you'll wind up in jail. (もしあなたがそれをし続けるなら、あなたは最終的に刑務所に入るでしょう。)",
+      "etymology": "元々は時計などを巻くという意味から、最終的にある状態に「巻き込まれる」というニュアンスで、「〜になる」という意味になった。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 62,
@@ -658,7 +874,11 @@
         "教師"
       ],
       "correctAnswer": "浮浪者",
-      "explanation": "「hobo」とは、住所不定で旅をしながら仕事を探す人、浮浪者という意味です。シェルドンは、もしアーサーに出会わなければ、浮浪者になっていたかもしれないと言っています。\n\n例：During the Great Depression, many people became hobos. (大恐慌時代には、多くの人々が浮浪者になった。)"
+      "explanation": "「hobo」とは、住所不定で旅をしながら仕事を探す人、浮浪者という意味です。シェルドンは、もしアーサーに出会わなければ、浮浪者になっていたかもしれないと言っています。\n\n例：During the Great Depression, many people became hobos. (大恐慌時代には、多くの人々が浮浪者になった。)",
+      "etymology": "語源ははっきりしないが、アメリカの鉄道員が故郷に帰るために「ホーボー」と叫んだのが始まりという説がある。",
+      "pronounciation": "ˈhoʊboʊ",
+      "scriptContext": "Sheldon: But, um, I did have you. And every day at four o’clock, you’d come to my house on Channel 68, and we’d do science together. If it hadn’t been for you, well, who knows what would’ve become of me? You know? Instead of a world-class physicist, I could’ve wound up as a hobo. Or a surgeon.",
+      "scriptContextTranslation": "Sheldon: でも、私にはあなたがいた。毎日4時に、68チャンネルで私の家に来て、一緒に科学をした。あなたがいなかったら、私がどうなっていたか分からない。世界レベルの物理学者ではなく、ホームレスになっていたかもしれない。あるいは外科医に。"
     },
     {
       "id": 63,
@@ -670,7 +890,11 @@
         "背中を押す"
       ],
       "correctAnswer": "過去の功績の上に立つ",
-      "explanation": "「standing on someone's shoulders」とは、先人の努力や功績の上に立って、さらに発展させるという意味のイディオムです。ここでは、若い科学者たちがアーサーの功績の上に立って研究を進めている、という意味で使われています。\n\n例：Modern science is standing on the shoulders of giants like Newton and Einstein. (現代科学は、ニュートンやアインシュタインのような巨人の肩の上に立っている。)"
+      "explanation": "「standing on someone's shoulders」とは、先人の努力や功績の上に立って、さらに発展させるという意味のイディオムです。ここでは、若い科学者たちがアーサーの功績の上に立って研究を進めている、という意味で使われています。\n\n例：Modern science is standing on the shoulders of giants like Newton and Einstein. (現代科学は、ニュートンやアインシュタインのような巨人の肩の上に立っている。)",
+      "etymology": "アイザック・ニュートンが「もし私が遠くまで見ることができたとすれば、それは巨人の肩の上に立っていたからです」と言ったことに由来する。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yeah, it’s true. A generation of young scientists are standing on your shoulders.",
+      "scriptContextTranslation": "Sheldon: ええ、その通りです。若い科学者たちはあなたの肩の上に立っているんです。"
     },
     {
       "id": 64,
@@ -682,7 +906,11 @@
         "理解できない"
       ],
       "correctAnswer": "とても重要である",
-      "explanation": "「mean a lot」とは、非常に重要である、大きな意味を持つという意味です。ここでは、レナードとシェルドンの言葉がアーサーにとって非常に重要である、という意味で使われています。\n\n例：Your support means a lot to me. (あなたの支援は私にとって非常に重要です。)"
+      "explanation": "「mean a lot」とは、非常に重要である、大きな意味を持つという意味です。ここでは、レナードとシェルドンの言葉がアーサーにとって非常に重要である、という意味で使われています。\n\n例：Your support means a lot to me. (あなたの支援は私にとって非常に重要です。)",
+      "etymology": "「mean」は「意味する」。「a lot」は「たくさん」。「mean a lot」で「たくさんの意味がある」→「とても重要である」という意味になる。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: Well, thank, thank you, guys. That, that, that means a lot.",
+      "scriptContextTranslation": "Arthur: ああ、ありがとう、みんな。それは、とても嬉しい。"
     },
     {
       "id": 65,
@@ -694,7 +922,11 @@
         "腎臓"
       ],
       "correctAnswer": "ペースメーカー",
-      "explanation": "「pacemaker」とは、ペースメーカーのことです。心臓の鼓動を調節する医療機器です。ここでは、アーサーがペースメーカーに問題を抱えていることを示しています。\n\n例：He had a pacemaker implanted to regulate his heartbeat. (彼は心臓の鼓動を調節するためにペースメーカーを埋め込まれた。)"
+      "explanation": "「pacemaker」とは、ペースメーカーのことです。心臓の鼓動を調節する医療機器です。ここでは、アーサーがペースメーカーに問題を抱えていることを示しています。\n\n例：He had a pacemaker implanted to regulate his heartbeat. (彼は心臓の鼓動を調節するためにペースメーカーを埋め込まれた。)",
+      "etymology": "心臓のペースを「作る人（maker）」という意味から、心臓の鼓動を調整する医療機器を指す。",
+      "pronounciation": "ˈpeɪsmeɪkər",
+      "scriptContext": "Arthur: I’m having a problem with my pacemaker.",
+      "scriptContextTranslation": "Arthur: ペースメーカーに問題があるようだ。"
     },
     {
       "id": 66,
@@ -706,7 +938,11 @@
         "助けられる"
       ],
       "correctAnswer": "噛まれる",
-      "explanation": "「get bit」とは、噛まれるという意味です。アーサーは子供相手の仕事でよく噛まれると言っています。\n\n例文：I got bit by a dog when I was a child. (子供の頃、犬に噛まれました。)"
+      "explanation": "「get bit」とは、噛まれるという意味です。アーサーは子供相手の仕事でよく噛まれると言っています。\n\n例文：I got bit by a dog when I was a child. (子供の頃、犬に噛まれました。)",
+      "etymology": "「bite」は「噛む」という意味。「get bitten」で「噛まれる」という受動態の表現になる。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: You, you get bit a lot. Let me see if, if I have this straight. You, you two are, are physicists, and you, and you want me to do a children’s science show?",
+      "scriptContextTranslation": "Arthur: よく噛まれるんだよ。ちょっと確認させてくれ。君たち二人は物理学者で、私に子供向けの科学番組に出てほしいのか？"
     },
     {
       "id": 67,
@@ -718,7 +954,11 @@
         "敵"
       ],
       "correctAnswer": "人形",
-      "explanation": "「puppet」とは、人形のことです。アーサーは人形劇で使う人形を嫌っているようです。\n\n例文：The puppeteer controlled the puppet with strings. (人形遣いは糸で人形を操った。)"
+      "explanation": "「puppet」とは、人形のことです。アーサーは人形劇で使う人形を嫌っているようです。\n\n例文：The puppeteer controlled the puppet with strings. (人形遣いは糸で人形を操った。)",
+      "etymology": "中世フランス語の「popet」に由来し、小さな人形や操り人形を意味する。",
+      "pronounciation": "ˈpʌpɪt",
+      "scriptContext": "Sheldon: Yeah, that’s great. Did you bring your puppet?",
+      "scriptContextTranslation": "Sheldon: それはすごい。パペットは持ってきましたか？"
     },
     {
       "id": 68,
@@ -730,7 +970,11 @@
         "買い物"
       ],
       "correctAnswer": "輸送",
-      "explanation": "「shipping」とは、輸送のことです。ここでは、eBayで人形を20ドルで手に入れたが、送料込みだったと言っています。\n\n例文：The shipping costs are included in the price. (送料は価格に含まれています。)"
+      "explanation": "「shipping」とは、輸送のことです。ここでは、eBayで人形を20ドルで手に入れたが、送料込みだったと言っています。\n\n例文：The shipping costs are included in the price. (送料は価格に含まれています。)",
+      "etymology": "「ship」は「船」という意味だが、「shipping」は「船で送る」→「輸送」という意味になる。",
+      "pronounciation": "ˈʃɪpɪŋ",
+      "scriptContext": "Sheldon: Oh, no. How could anybody hate Gino the Neutrino? It’s nice, huh? I got him for 20 bucks on eBay. Including the shipping!",
+      "scriptContextTranslation": "Sheldon: ええ、まさか。誰があのジーノ・ザ・ニュートリノを嫌いになれるんですか？いいですよね？ eBayで20ドルで買いました。送料込みで！"
     },
     {
       "id": 69,
@@ -742,7 +986,11 @@
         "脅し"
       ],
       "correctAnswer": "愛称",
-      "explanation": "「lamb chop」とは、ここでは愛称として使われています。可愛らしいもの、愛おしいものを指す言葉です。\n\n例文：Hey there, my little lamb chop! (やあ、かわいい坊や！)"
+      "explanation": "「lamb chop」とは、ここでは愛称として使われています。可愛らしいもの、愛おしいものを指す言葉です。\n\n例文：Hey there, my little lamb chop! (やあ、かわいい坊や！)",
+      "etymology": "子羊の肉の切り身を指す言葉だが、可愛らしいもの、愛おしいものに対する愛称としても使われる。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette (likewise): Cinnamon. Where are you, my little lamb chop?",
+      "scriptContextTranslation": "Bernadette: （同じように）シナモン。どこにいるの、私の可愛い子羊ちゃん？"
     },
     {
       "id": 70,
@@ -754,7 +1002,11 @@
         "無視する"
       ],
       "correctAnswer": "魅力的にする",
-      "explanation": "「turn on」とは、性的魅力を感じる、興奮させるという意味です。ここでは、バーナデットがラージのような声で話すのがハワードにとって魅力的だ、という意味で使われています。\n\n例文：Intelligence is a big turn-on for me. (知性は私にとって大きな魅力です。)"
+      "explanation": "「turn on」とは、性的魅力を感じる、興奮させるという意味です。ここでは、バーナデットがラージのような声で話すのがハワードにとって魅力的だ、という意味で使われています。\n\n例文：Intelligence is a big turn-on for me. (知性は私にとって大きな魅力です。)",
+      "etymology": "「turn on」は、元々は電気製品のスイッチを入れるという意味だが、人の感情や興味を刺激するという意味にも使われる。特に、性的興奮を覚えるという意味合いが強い。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: It turns you on when I sound like Raj?",
+      "scriptContextTranslation": "Bernadette: 私がラージみたいに聞こえると興奮するの？"
     },
     {
       "id": 71,
@@ -766,7 +1018,11 @@
         "フォーク"
       ],
       "correctAnswer": "フラスコ",
-      "explanation": "「flask」とは、フラスコのことです。実験で使う容器です。\n\n例文：The scientist used a flask to mix the chemicals. (科学者はフラスコを使って化学物質を混ぜた。)"
+      "explanation": "「flask」とは、フラスコのことです。実験で使う容器です。\n\n例文：The scientist used a flask to mix the chemicals. (科学者はフラスコを使って化学物質を混ぜた。)",
+      "etymology": "古フランス語の「flasche」に由来し、液体を入れるための容器を指す。",
+      "pronounciation": "flæsk",
+      "scriptContext": "Arthur: Okay, as, as I put the egg on top, and, and the flame goes out and, and, and the air pressure decreases in, in the flask, what do you think will happen?",
+      "scriptContextTranslation": "Arthur: さて、卵を上に乗せると、炎が消えて、フラスコの中の気圧が下がる。どうなると思う？"
     },
     {
       "id": 72,
@@ -778,7 +1034,11 @@
         "無視する"
       ],
       "correctAnswer": "理解する",
-      "explanation": "「figure out」とは、理解する、解明するという意味です。ここでは、ペニーが科学者ではないことをアーサーが理解した、という意味で使われています。\n\n例文：I couldn't figure out the answer to the puzzle. (私はそのパズルの答えを理解できなかった。)"
+      "explanation": "「figure out」とは、理解する、解明するという意味です。ここでは、ペニーが科学者ではないことをアーサーが理解した、という意味で使われています。\n\n例文：I couldn't figure out the answer to the puzzle. (私はそのパズルの答えを理解できなかった。)",
+      "etymology": "「figure」は「図、形」という意味だが、「figure out」で「図を完成させる」→「理解する、解明する」という意味になる。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: It, it’s hard to say. I’m, I’m still trying to figure out what, what th, what this is.",
+      "scriptContextTranslation": "Arthur: それ、それは何とも言えないな。私は、これが何なのかをまだ理解しようとしているところだ。"
     },
     {
       "id": 73,
@@ -790,7 +1050,11 @@
         "経済危機"
       ],
       "correctAnswer": "エネルギー危機",
-      "explanation": "「energy crisis」とは、エネルギー危機のことです。エネルギー資源が不足する状況を指します。\n\n例文：The world is facing an energy crisis. (世界はエネルギー危機に直面している。)"
+      "explanation": "「energy crisis」とは、エネルギー危機のことです。エネルギー資源が不足する状況を指します。\n\n例文：The world is facing an energy crisis. (世界はエネルギー危機に直面している。)",
+      "etymology": "「energy」は「エネルギー」。「crisis」は「危機」。「energy crisis」で「エネルギー危機」という意味になる。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Shut up. You can do that? I mean, wouldn’t that solve the world’s energy crisis?",
+      "scriptContextTranslation": "Penny: 嘘でしょ。そんなことできるの？それって、世界のエネルギー危機を解決できるんじゃない？"
     },
     {
       "id": 74,
@@ -802,7 +1066,11 @@
         "白黒写真"
       ],
       "correctAnswer": "サイン入りの写真",
-      "explanation": "「autographed picture」とは、サイン入りの写真のことです。有名人などがサインをした写真です。\n\n例文：I got an autographed picture of my favorite actor. (私はお気に入りの俳優のサイン入りの写真を手に入れた。)"
+      "explanation": "「autographed picture」とは、サイン入りの写真のことです。有名人などがサインをした写真です。\n\n例文：I got an autographed picture of my favorite actor. (私はお気に入りの俳優のサイン入りの写真を手に入れた。)",
+      "etymology": "「autograph」は「サイン」。「picture」は「写真」。「autographed picture」で「サイン入りの写真」という意味になる。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I wrote a fan letter to you when I was a child in Texas, and you sent this autographed picture back to me. Do you remember that?",
+      "scriptContextTranslation": "Sheldon: 子供の頃、テキサスにいた時にファンレターを書いたら、サイン入りの写真を送り返してくれたんです。覚えてますか？"
     },
     {
       "id": 75,
@@ -814,7 +1082,11 @@
         "得意である"
       ],
       "correctAnswer": "問題がある",
-      "explanation": "「have a problem with」とは、〜に問題がある、〜が苦手であるという意味です。ここでは、ペースメーカーに問題を抱えている、という意味で使われています。\n\n例文：I have a problem with my car; it won't start. (私の車には問題があり、エンジンがかからない。)"
+      "explanation": "「have a problem with」とは、〜に問題がある、〜が苦手であるという意味です。ここでは、ペースメーカーに問題を抱えている、という意味で使われています。\n\n例文：I have a problem with my car; it won't start. (私の車には問題があり、エンジンがかからない。)",
+      "etymology": "「problem」は「問題」。「have a problem with」で「〜に問題を抱えている」という意味になる。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 76,
@@ -826,7 +1098,11 @@
         "無視する"
       ],
       "correctAnswer": "どうぞ",
-      "explanation": "「go ahead」は、許可や同意を表す際に使われます。「どうぞ」「構いませんよ」という意味合いで、相手の行動を促す際に便利です。\n例：Go ahead and start without me.（私を待たずに始めてください。）"
+      "explanation": "「go ahead」は、許可や同意を表す際に使われます。「どうぞ」「構いませんよ」という意味合いで、相手の行動を促す際に便利です。\n例：Go ahead and start without me.（私を待たずに始めてください。）",
+      "etymology": "相手に許可を与える、または行動を促す際に使う表現。「先に行ってください」「どうぞ」という意味合いで、相手に何かを許可する際に用いられる。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Hello? What do you mean, you found my dog? She’s with my friends. Is she okay? Oh, thank you. Uh, just text me your address, I’m on my way. Oh, and if she’s hungry, go ahead and feed her. But do not give her anything starchy. She’s having risotto for dinner.",
+      "scriptContextTranslation": "Raj: もしもし？犬を見つけたってどういうこと？友達と一緒のはずだけど。大丈夫？ああ、ありがとう。ええと、住所をメールして。すぐ行くよ。ああ、もしお腹が空いてたら、何か食べさせてあげて。でも、デンプン質のものは絶対にダメ。夕食はリゾットだから。"
     },
     {
       "id": 77,
@@ -838,7 +1114,11 @@
         "過ち"
       ],
       "correctAnswer": "バイタル",
-      "explanation": "「vitals」は、生命維持に必要な身体の機能、つまりバイタルサイン（脈拍、呼吸、体温、血圧など）を指します。医学的な文脈でよく使われます。\n例：The patient's vitals were stable.（患者のバイタルは安定していた。）"
+      "explanation": "「vitals」は、生命維持に必要な身体の機能、つまりバイタルサイン（脈拍、呼吸、体温、血圧など）を指します。医学的な文脈でよく使われます。\n例：The patient's vitals were stable.（患者のバイタルは安定していた。）",
+      "etymology": "生命維持に不可欠な要素を意味するラテン語の「vitalis」に由来し、身体の重要な機能や状態を示す医学用語として用いられる。",
+      "pronounciation": "ˈvaɪtəlz",
+      "scriptContext": "Paramedic: Your vitals are stable, but let’s take you in for some tests just to be safe.",
+      "scriptContextTranslation": "Paramedic: バイタルは安定していますが、念のため検査を受けに病院へ行きましょう。"
     },
     {
       "id": 78,
@@ -850,7 +1130,11 @@
         "捕まえ損なう"
       ],
       "correctAnswer": "有利になる",
-      "explanation": "「catch a break」は、幸運が訪れる、良い展開になるという意味です。苦労が報われたり、困難な状況から抜け出せるような状況を表します。\n例：I finally caught a break and got the job.（ついに運が向いて、その仕事を得ることができた。）"
+      "explanation": "「catch a break」は、幸運が訪れる、良い展開になるという意味です。苦労が報われたり、困難な状況から抜け出せるような状況を表します。\n例：I finally caught a break and got the job.（ついに運が向いて、その仕事を得ることができた。）",
+      "etymology": "困難な状況から一時的に「break（休憩）」できる、つまり「幸運が訪れる」という意味合いで使われるようになった。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: I can’t catch a break today.",
+      "scriptContextTranslation": "Arthur: 今日は散々だ。"
     },
     {
       "id": 79,
@@ -862,7 +1146,11 @@
         "方向転換する"
       ],
       "correctAnswer": "このようになった",
-      "explanation": "「turn out」は、最終的に〜になる、〜という結果になるという意味です。「turned out this way」で「このようになってしまった」という結果を表します。\n例：I didn't expect the party to turn out this way. (パーティーがこんな風になるとは思わなかった。)"
+      "explanation": "「turn out」は、最終的に〜になる、〜という結果になるという意味です。「turned out this way」で「このようになってしまった」という結果を表します。\n例：I didn't expect the party to turn out this way. (パーティーがこんな風になるとは思わなかった。)",
+      "etymology": "物事が特定の方向に「turn（向かう）」、そして最終的に「out（〜になる）」という結果に至った、という意味合いから、「このようになった」という意味になった。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: I’m sorry things turned out this way.",
+      "scriptContextTranslation": "Leonard: こんなことになってしまって申し訳ありません。"
     },
     {
       "id": 80,
@@ -874,7 +1162,11 @@
         "秘密"
       ],
       "correctAnswer": "使い捨て",
-      "explanation": "「throwaway」は、使い捨ての、価値のないという意味です。ここでは、最初のパンケーキが失敗しやすいことを比喩的に表しています。\n例：This lighter is throwaway. (このライターは使い捨てです。)"
+      "explanation": "「throwaway」は、使い捨ての、価値のないという意味です。ここでは、最初のパンケーキが失敗しやすいことを比喩的に表しています。\n例：This lighter is throwaway. (このライターは使い捨てです。)",
+      "etymology": "一度使ったら「throw away（投げ捨てる）」、つまり再利用しないという意味から、「使い捨ての」という形容詞になった。",
+      "pronounciation": "ˈθroʊəweɪ",
+      "scriptContext": "Howard: Well, maybe with the first one. But kids are like pancakes. The first one’s always a throwaway. How’s this look?",
+      "scriptContextTranslation": "Howard: まあ、最初の子はそうかもな。でも、子供はパンケーキみたいなもんだ。一枚目はいつも失敗作だ。これどう？"
     },
     {
       "id": 81,
@@ -886,7 +1178,11 @@
         "放棄された"
       ],
       "correctAnswer": "頻繁に訪れる",
-      "explanation": "「frequented」は、頻繁に訪れる、よく行くという意味です。場所や店などが、特定の人々によく利用されることを表します。\n例：This cafe is frequented by students. (このカフェは学生によく利用される。)"
+      "explanation": "「frequented」は、頻繁に訪れる、よく行くという意味です。場所や店などが、特定の人々によく利用されることを表します。\n例：This cafe is frequented by students. (このカフェは学生によく利用される。)",
+      "etymology": "ある場所に頻繁に「frequent（訪れる）」ことから、特定の場所が特定の人々によく利用される、という意味合いで使われる。",
+      "pronounciation": "ˈfriːkwəntɪd",
+      "scriptContext": "Raj: A lane frequented by liars. Like you, you big liar.",
+      "scriptContextTranslation": "Raj: 嘘つきがよく通る道のことさ。お前みたいな、大嘘つきがな。"
     },
     {
       "id": 82,
@@ -898,7 +1194,11 @@
         "手伝ってくれる"
       ],
       "correctAnswer": "失望させる",
-      "explanation": "「let someone down」は、人を失望させる、期待を裏切るという意味です。相手の期待に応えられなかったときに使われます。\n例：I'm sorry to let you down.（あなたを失望させてごめんなさい。）"
+      "explanation": "「let someone down」は、人を失望させる、期待を裏切るという意味です。相手の期待に応えられなかったときに使われます。\n例：I'm sorry to let you down.（あなたを失望させてごめんなさい。）",
+      "etymology": "誰かを文字通りに「down（下へ）」落とすことから、比喩的に相手の期待を「下げる」、つまり「失望させる」という意味合いになった。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Well, I trusted you, and you let me down. The poor thing’s been shaking for hours.",
+      "scriptContextTranslation": "Raj: 君たちを信じていたのに、裏切られたよ。シナモンは震え続けて何時間も怯えてるんだ。"
     },
     {
       "id": 83,
@@ -910,7 +1210,11 @@
         "心配解消"
       ],
       "correctAnswer": "非常に心配",
-      "explanation": "「worried sick」は、非常に心配している、気が気でないという意味です。文字通り「病気になるほど心配」というニュアンスがあります。\n例：We were worried sick when she didn't come home.（彼女が帰ってこなかったので、私たちはとても心配した。）"
+      "explanation": "「worried sick」は、非常に心配している、気が気でないという意味です。文字通り「病気になるほど心配」というニュアンスがあります。\n例：We were worried sick when she didn't come home.（彼女が帰ってこなかったので、私たちはとても心配した。）",
+      "etymology": "心配で文字通り「sick（病気になる）」ほど苦しむ、という誇張表現から、「非常に心配している」という意味合いになった。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Don’t well me, mister. We’ve been worried sick. She could have been dead for all we knew. You should be ashamed of yourself.",
+      "scriptContextTranslation": "Bernadette: 言い訳しないで！心配で気が狂いそうだったのよ。死んでるかもしれないと思ったんだから。恥を知りなさい。"
     },
     {
       "id": 84,
@@ -922,7 +1226,11 @@
         "自分を喜ばせる"
       ],
       "correctAnswer": "自分を恥じる",
-      "explanation": "「ashamed of yourself」は、自分の行動や性質を恥じる、後悔するという意味です。道徳的に非難されるべき行為をした際に使われます。\nYou should be ashamed of yourself for lying.（嘘をついたことを恥じるべきだ。）"
+      "explanation": "「ashamed of yourself」は、自分の行動や性質を恥じる、後悔するという意味です。道徳的に非難されるべき行為をした際に使われます。\nYou should be ashamed of yourself for lying.（嘘をついたことを恥じるべきだ。）",
+      "etymology": "自分の行動や性質に「ashamed（恥じている）」状態、つまり道徳的に非難されるべき行為を後悔しているという意味合いで使われる。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Don’t well me, mister. We’ve been worried sick. She could have been dead for all we knew. You should be ashamed of yourself.",
+      "scriptContextTranslation": "Bernadette: 言い訳しないで！心配で気が狂いそうだったのよ。死んでるかもしれないと思ったんだから。恥を知りなさい。"
     },
     {
       "id": 85,
@@ -934,7 +1242,11 @@
         "罪悪感の軽減"
       ],
       "correctAnswer": "罪悪感を抱かせる",
-      "explanation": "「guilt trip」は、人に罪悪感を抱かせる行為や言動を指します。相手を操ろうとする意図が含まれることが多いです。\n例：Don't try to lay a guilt trip on me.（私に罪悪感を抱かせようとしないで。）"
+      "explanation": "「guilt trip」は、人に罪悪感を抱かせる行為や言動を指します。相手を操ろうとする意図が含まれることが多いです。\n例：Don't try to lay a guilt trip on me.（私に罪悪感を抱かせようとしないで。）",
+      "etymology": "罪悪感という感情を利用して相手を「trip（陥れる）」行為、つまり相手に罪悪感を抱かせる言動を指す。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Nice guilt trip. You are gonna be an amazing mom.",
+      "scriptContextTranslation": "Howard: いい罪悪感の植え付けだ。お前はきっと素晴らしい母親になるぞ。"
     },
     {
       "id": 86,
@@ -946,7 +1258,11 @@
         "幸運"
       ],
       "correctAnswer": "魅力",
-      "explanation": "「the charm」は、人を引きつける魅力、または、何かを成功させるための秘訣やコツを意味します。この文脈では、「４回目が最高だった」というニュアンスで使用されています。\nThe old house had a certain charm.(その古い家には独特の魅力があった。)"
+      "explanation": "「the charm」は、人を引きつける魅力、または、何かを成功させるための秘訣やコツを意味します。この文脈では、「４回目が最高だった」というニュアンスで使用されています。\nThe old house had a certain charm.(その古い家には独特の魅力があった。)",
+      "etymology": "何かが人を魅了する「charm（魅力）」、または何かを成功させるための秘訣やコツを意味する。この文脈では、「４回目が最高だった」というニュアンスで使用されている。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: No. The fourth, the fourth time was, was the charm.",
+      "scriptContextTranslation": "Arthur: いや。４回目で、４回目が最高だった。"
     },
     {
       "id": 87,
@@ -958,7 +1274,11 @@
         "穴を埋める"
       ],
       "correctAnswer": "代わりを務める",
-      "explanation": "「fill in」は、人の代わりを務める、代理をするという意味です。仕事や役割を一時的に代行する際に使われます。\n例：Can you fill in for me at the meeting?（会議で私の代わりを務めてもらえますか？）"
+      "explanation": "「fill in」は、人の代わりを務める、代理をするという意味です。仕事や役割を一時的に代行する際に使われます。\n例：Can you fill in for me at the meeting?（会議で私の代わりを務めてもらえますか？）",
+      "etymology": "空いている場所を「fill（満たす）」ことから、人がいないポジションを「in（埋める）」、つまり人の代わりを務めるという意味合いになった。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: Thank you. Anyway, uh, I mean, you know my act better than anybody. I was, I was hoping that maybe, you know, maybe you’d fill in for me.",
+      "scriptContextTranslation": "Arthur: ありがとう。とにかく、君は誰よりも僕の芸をよく知っている。だから、できれば、僕の代役を務めてくれないかと思って。"
     },
     {
       "id": 88,
@@ -970,7 +1290,11 @@
         "平均する"
       ],
       "correctAnswer": "登る",
-      "explanation": "「ascend」は、高い場所に登る、昇るという意味です。比喩的には、地位や名声が上がることを表します。\n例：He ascended to the throne. (彼は王位に即位した。)"
+      "explanation": "「ascend」は、高い場所に登る、昇るという意味です。比喩的には、地位や名声が上がることを表します。\n例：He ascended to the throne. (彼は王位に即位した。)",
+      "etymology": "ラテン語の「ascendere（登る）」に由来し、物理的に高い場所に登るだけでなく、比喩的に地位や名声が上がることも意味する。",
+      "pronounciation": "əˈsend",
+      "scriptContext": "Sheldon: Oh, my. What an honour. Oh, this is like being asked to ascend Mount Olympus and dine with the gods.",
+      "scriptContextTranslation": "Sheldon: なんてことだ。光栄だな。ああ、これはまるでオリンポス山に登って神々と食事をするように。"
     },
     {
       "id": 89,
@@ -982,7 +1306,11 @@
         "宇宙"
       ],
       "correctAnswer": "全く",
-      "explanation": "「What the hell」は、驚き、怒り、または無関心を表す表現です。ここでは「どうでもいい」というニュアンスで使われています。\n例：What the hell are you doing? (一体何をしているんだ？)"
+      "explanation": "「What the hell」は、驚き、怒り、または無関心を表す表現です。ここでは「どうでもいい」というニュアンスで使われています。\n例：What the hell are you doing? (一体何をしているんだ？)",
+      "etymology": "「hell（地獄）」という言葉を強調のために使うことで、驚き、怒り、または無関心を表す表現となる。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: Sure, what the hell.",
+      "scriptContextTranslation": "Arthur: ああ、好きにしろ。"
     },
     {
       "id": 90,
@@ -994,7 +1322,11 @@
         "帰宅途中で"
       ],
       "correctAnswer": "向かっている途中",
-      "explanation": "「on my way」は、〜に向かっている途中、という意味です。目的地に向かっている状況を表します。\n例：I'm on my way to the office. (会社に向かっているところです。)"
+      "explanation": "「on my way」は、〜に向かっている途中、という意味です。目的地に向かっている状況を表します。\n例：I'm on my way to the office. (会社に向かっているところです。)",
+      "etymology": "目的地に向かう「way（道）」の上にいる、つまり目的地に向かっている途中であるという意味合いで使われる。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Hello? What do you mean, you found my dog? She’s with my friends. Is she okay? Oh, thank you. Uh, just text me your address, I’m on my way. Oh, and if she’s hungry, go ahead and feed her. But do not give her anything starchy. She’s having risotto for dinner.",
+      "scriptContextTranslation": "Raj: もしもし？犬を見つけたってどういうこと？友達と一緒のはずだけど。大丈夫？ああ、ありがとう。ええと、住所をメールして。すぐ行くよ。ああ、もしお腹が空いてたら、何か食べさせてあげて。でも、デンプン質のものは絶対にダメ。夕食はリゾットだから。"
     },
     {
       "id": 91,
@@ -1006,7 +1338,11 @@
         "最終的には"
       ],
       "correctAnswer": "現状では",
-      "explanation": "「at this point」は、現時点では、今のところという意味です。状況や議論の現在の段階を示す際に使われます。\n例：At this point, we don't have enough information. (現時点では、十分な情報がありません。)"
+      "explanation": "「at this point」は、現時点では、今のところという意味です。状況や議論の現在の段階を示す際に使われます。\n例：At this point, we don't have enough information. (現時点では、十分な情報がありません。)",
+      "etymology": "時間や議論の特定の「point（地点）」、つまり現在の段階において、という意味合いで使われる。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: Well, at, at this point, I’m just glad someone’s carrying me down the stairs.",
+      "scriptContextTranslation": "Arthur: まあ、今のところ、誰かが階段を運んでくれるだけでありがたいよ。"
     },
     {
       "id": 92,
@@ -1018,7 +1354,11 @@
         "時間切れ"
       ],
       "correctAnswer": "悪いタイミング",
-      "explanation": "「bad timing」は、タイミングが悪い、都合が悪いという意味です。何かをするのに適していない状況を表します。\n例：Sorry, this is bad timing, I'm in a meeting. (すみません、タイミングが悪いです、会議中です。)"
+      "explanation": "「bad timing」は、タイミングが悪い、都合が悪いという意味です。何かをするのに適していない状況を表します。\n例：Sorry, this is bad timing, I'm in a meeting. (すみません、タイミングが悪いです、会議中です。)",
+      "etymology": "何かをするのに適した「timing（タイミング）」が「bad（悪い）」、つまり都合が悪いという意味合いで使われる。",
+      "pronounciation": "",
+      "scriptContext": "Howard: It’s not her. I just googled foo-foo little dogs. (Skype tone) It’s Raj. Stay quiet. Hey, bad timing. Bernadette just took Cinnamon out for a walk.",
+      "scriptContextTranslation": "Howard: シナモンじゃないよ。ふわふわの小型犬をググっただけさ。（スカイプの着信音）ラージだ。静かにして。おい、タイミング悪いな。バーナデットがちょうどシナモンを散歩に連れて行ったところだ。"
     },
     {
       "id": 93,
@@ -1030,7 +1370,11 @@
         "悪化する"
       ],
       "correctAnswer": "落ち着く",
-      "explanation": "「calm down」は、落ち着く、冷静になるという意味です。興奮や怒りを静める際に使われます。\n例：Calm down and tell me what happened. (落ち着いて何が起こったのか教えて。)"
+      "explanation": "「calm down」は、落ち着く、冷静になるという意味です。興奮や怒りを静める際に使われます。\n例：Calm down and tell me what happened. (落ち着いて何が起こったのか教えて。)",
+      "etymology": "感情や興奮を「down（下げる）」、つまり落ち着かせるという意味合いで使われる。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Yes. I picked her up, and then we both went for massages to try and calm down. And then we got Pinkberry.",
+      "scriptContextTranslation": "Raj: そうだよ。引き取ってから、二人で落ち着くためにマッサージに行ったんだ。それから、ピンクベリーを食べに行った。"
     },
     {
       "id": 94,
@@ -1042,7 +1386,11 @@
         "電話を盗む"
       ],
       "correctAnswer": "電話に出る",
-      "explanation": "「pick up the phone」は、電話に出る、電話を取るという意味です。電話が鳴った際に受話器を取る行為を指します。\n例：Why didn't you pick up the phone? (なぜ電話に出なかったの？)"
+      "explanation": "「pick up the phone」は、電話に出る、電話を取るという意味です。電話が鳴った際に受話器を取る行為を指します。\n例：Why didn't you pick up the phone? (なぜ電話に出なかったの？)",
+      "etymology": "電話機を持ち上げて「pick up」、電話を取ることから、「電話に出る」という意味になった。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: So you knew she was okay, and you couldn’t pick up the phone to tell us?",
+      "scriptContextTranslation": "Bernadette: 無事だって分かってて、電話一本よこせなかったの？"
     },
     {
       "id": 95,
@@ -1054,7 +1402,11 @@
         "不可能だ"
       ],
       "correctAnswer": "十分だ",
-      "explanation": "「good enough」は、十分である、まあまあ良いという意味です。期待される基準を満たしていることを表します。\n例：That's not good enough, you need to try harder. (それでは十分ではありません、もっと努力する必要があります。)"
+      "explanation": "「good enough」は、十分である、まあまあ良いという意味です。期待される基準を満たしていることを表します。\n例：That's not good enough, you need to try harder. (それでは十分ではありません、もっと努力する必要があります。)",
+      "etymology": "期待される基準を満たす「good（良い）」レベルに「enough（十分）」である、という意味合いで使われる。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Sorry’s not good enough. Maybe you need to take some time and think about what you’ve done.",
+      "scriptContextTranslation": "Bernadette: ごめんじゃ済まないわ。少し時間をとって、自分のしたことをよく考えなさい。"
     },
     {
       "id": 96,
@@ -1066,7 +1418,11 @@
         "解決する"
       ],
       "correctAnswer": "考える",
-      "explanation": "「think about」は、〜について考える、検討するという意味です。ある事柄について熟考する際に使われます。\n例：I need to think about it before I make a decision. (決断する前にそれについて考える必要があります。)"
+      "explanation": "「think about」は、〜について考える、検討するという意味です。ある事柄について熟考する際に使われます。\n例：I need to think about it before I make a decision. (決断する前にそれについて考える必要があります。)",
+      "etymology": "何かについて頭を働かせて「think」、それを詳細に検討する「about」ことから、「〜について考える、検討する」という意味になった。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Sorry’s not good enough. Maybe you need to take some time and think about what you’ve done.",
+      "scriptContextTranslation": "Bernadette: ごめんじゃ済まないわ。少し時間をとって、自分のしたことをよく考えなさい。"
     },
     {
       "id": 97,
@@ -1078,7 +1434,11 @@
         "名付ける"
       ],
       "correctAnswer": "何でも言って",
-      "explanation": "「name it」は、必要なものを何でも言ってください、という意味です。相手に何かしてあげたいという気持ちを表します。\n例：If you need anything, just name it. (何か必要なものがあれば、何でも言ってください。)"
+      "explanation": "「name it」は、必要なものを何でも言ってください、という意味です。相手に何かしてあげたいという気持ちを表します。\n例：If you need anything, just name it. (何か必要なものがあれば、何でも言ってください。)",
+      "etymology": "必要なものを「name（言う）」だけで、それが手に入る、つまり「何でも言って」という意味合いで使われる。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Name it.",
+      "scriptContextTranslation": "Sheldon: 何でしょう。"
     },
     {
       "id": 98,
@@ -1090,7 +1450,11 @@
         "道中で"
       ],
       "correctAnswer": "ある意味で",
-      "explanation": "「in a way」は、ある意味で、ある点ではという意味です。完全ではないものの、部分的に当てはまることを表します。\n例：In a way, he is right. (ある意味で、彼は正しい。)"
+      "explanation": "「in a way」は、ある意味で、ある点ではという意味です。完全ではないものの、部分的に当てはまることを表します。\n例：In a way, he is right. (ある意味で、彼は正しい。)",
+      "etymology": "完全にそうではないものの、ある「way（方法、意味）」においては当てはまる、という意味合いで使われる。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: So, in a way it’s like I’m your son.",
+      "scriptContextTranslation": "Sheldon: ということは、ある意味、僕はあなたの息子になるわけですね。"
     },
     {
       "id": 99,
@@ -1102,7 +1466,11 @@
         "残念です"
       ],
       "correctAnswer": "光栄です",
-      "explanation": "「What an honor」は、非常に光栄です、という意味です。何か特別な機会や役割を与えられたときに使われます。\nExample: What an honor to be invited to your wedding.(結婚式に招待していただき、光栄です)"
+      "explanation": "「What an honor」は、非常に光栄です、という意味です。何か特別な機会や役割を与えられたときに使われます。\nExample: What an honor to be invited to your wedding.(結婚式に招待していただき、光栄です)",
+      "etymology": "非常に光栄な機会や役割を与えられたことに対する喜びを表現する際に用いられる。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 100,
@@ -1114,7 +1482,11 @@
         "よく聞こえない"
       ],
       "correctAnswer": "その気分になれない",
-      "explanation": "「I don’t feel up to it」は、それをする気分になれない、体調が優れない、という意味です。何かをするのに十分な体力や気力がないときに使われます。\nExample: I don’t feel up to going out tonight.(今夜は出かける気分になれない)"
+      "explanation": "「I don’t feel up to it」は、それをする気分になれない、体調が優れない、という意味です。何かをするのに十分な体力や気力がないときに使われます。\nExample: I don’t feel up to going out tonight.(今夜は出かける気分になれない)",
+      "etymology": "何かをするのに十分な体力や気力が「up to（伴っていない）」状態、つまりそれをする気分になれないという意味合いで使われる。",
+      "pronounciation": "",
+      "scriptContext": "Arthur: Well, I’m, I’m booked to do a children’s party tomorrow, and, um, frankly I, you know, I, I don’t feel up to it.",
+      "scriptContextTranslation": "Arthur: 明日、子供向けのパーティーの仕事が入っているんだけど、正直、その、気が進まないんだ。"
     }
   ]
 }

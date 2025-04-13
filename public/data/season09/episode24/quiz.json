@@ -10,7 +10,11 @@
         "提案した"
       ],
       "correctAnswer": "発動した",
-      "explanation": "「invoke」は、ここでは比喩的に、ある人物（ローザ・パークス）の名前や行動を持ち出して、特定の感情や反応を引き出すという意味で使用されています。法律、規則、権威などを発動する意味でも使われます。"
+      "explanation": "「invoke」は、ここでは比喩的に、ある人物（ローザ・パークス）の名前や行動を持ち出して、特定の感情や反応を引き出すという意味で使用されています。法律、規則、権威などを発動する意味でも使われます。",
+      "etymology": "「呼ぶ、祈る」という意味のラテン語の「invocare」に由来します。これは、「in-」（中に）と「vocare」（呼ぶ）が組み合わさったものです。",
+      "pronounciation": "/ɪnˈvoʊkt/",
+      "scriptContext": "Leonard: Oh, Sheldon invoked Rosa Parks to make somebody who cut the line feel bad, but only the white people felt bad.",
+      "scriptContextTranslation": "Leonard: ああ、シェルドンが割り込んだ奴に罪悪感を抱かせるためにローザ・パークスの名前を出したんだ。でも罪悪感を感じたのは白人だけだった。"
     },
     {
       "id": 2,
@@ -22,7 +26,11 @@
         "列を案内する"
       ],
       "correctAnswer": "列に割り込む",
-      "explanation": "「cut the line」は、列に割り込むという意味です。順番を待たずに割り込む行為を指します。類似表現として「jump the queue」もあります。"
+      "explanation": "「cut the line」は、列に割り込むという意味です。順番を待たずに割り込む行為を指します。類似表現として「jump the queue」もあります。",
+      "etymology": "「列を横切る」という文字通りの意味から、順番を無視して割り込む行為を指すようになりました。社会的なルールを破るイメージです。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Oh, Sheldon invoked Rosa Parks to make somebody who cut the line feel bad, but only the white people felt bad.",
+      "scriptContextTranslation": "Leonard: ああ、シェルドンが割り込んだ奴に罪悪感を抱かせるためにローザ・パークスの名前を出したんだ。でも罪悪感を感じたのは白人だけだった。"
     },
     {
       "id": 3,
@@ -34,7 +42,11 @@
         "豪華な"
       ],
       "correctAnswer": "困難な",
-      "explanation": "「rocky」は、ここでは関係や状況が不安定で困難であることを意味します。文字通り岩が多い道のイメージから来ています。例：The negotiations got off to a rocky start. (交渉は最初から困難なスタートだった。)"
+      "explanation": "「rocky」は、ここでは関係や状況が不安定で困難であることを意味します。文字通り岩が多い道のイメージから来ています。例：The negotiations got off to a rocky start. (交渉は最初から困難なスタートだった。)",
+      "etymology": "文字通り「岩の多い」状態から、障害が多く、困難な状況を比喩的に表すようになりました。岩場を歩くような不安定さを意味します。",
+      "pronounciation": "/ˈrɒki/",
+      "scriptContext": "Penny: Uh, you know, it started a little rocky, but I think we got to a good place.",
+      "scriptContextTranslation": "Penny: ええと、まあ、最初は少しぎくしゃくしたけど、うまくいったと思うわ。"
     },
     {
       "id": 4,
@@ -46,7 +58,11 @@
         "頑張って"
       ],
       "correctAnswer": "よくやった",
-      "explanation": "「Well done」は、相手の行動や成果を褒める際に使われる表現です。「Good job」とほぼ同じ意味ですが、ややフォーマルな印象を与えます。"
+      "explanation": "「Well done」は、相手の行動や成果を褒める際に使われる表現です。「Good job」とほぼ同じ意味ですが、ややフォーマルな印象を与えます。",
+      "etymology": "中世英語の「wel done」に由来し、文字通り「よくやった」という意味です。良い行いを称賛する際に使われる一般的な表現です。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Wow. Well done.",
+      "scriptContextTranslation": "Leonard: すごい。よくやった。"
     },
     {
       "id": 5,
@@ -58,7 +74,11 @@
         "話している"
       ],
       "correctAnswer": "窒息している",
-      "explanation": "「choking」は、ここでは文字通り窒息しているという意味ではなく、相手が苦しんでいるように見える、あるいは何か問題を抱えているのではないかと冗談めかして言う際に使われています。"
+      "explanation": "「choking」は、ここでは文字通り窒息しているという意味ではなく、相手が苦しんでいるように見える、あるいは何か問題を抱えているのではないかと冗談めかして言う際に使われています。",
+      "etymology": "「窒息する」という意味ですが、ここでは比喩的に、プレッシャーで実力を発揮できない状態を指しています。息が詰まるような緊張感を意味します。",
+      "pronounciation": "/ˈtʃoʊkɪŋ/",
+      "scriptContext": "Leonard: Did she think you were choking or… I’m sorry, that’s great. Thank you for spending time with her.",
+      "scriptContextTranslation": "Leonard: 窒息してると思ったとか… ごめん、それはよかった。一緒に時間を過ごしてくれてありがとう。"
     },
     {
       "id": 6,
@@ -70,7 +90,11 @@
         "伝統的な"
       ],
       "correctAnswer": "衝動的な",
-      "explanation": "「spur of the moment」は、計画や準備なしに、その場の衝動や思いつきで行われることを意味します。例：We decided to go to the beach on the spur of the moment. (私たちは衝動的にビーチに行くことに決めた。)"
+      "explanation": "「spur of the moment」は、計画や準備なしに、その場の衝動や思いつきで行われることを意味します。例：We decided to go to the beach on the spur of the moment. (私たちは衝動的にビーチに行くことに決めた。)",
+      "etymology": "「拍車の勢い」という意味から、馬に拍車をかけた瞬間の衝動的な行動を指すようになりました。計画性のない、即興的な行動を表します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Look, in our defence, it was kind of a spur of the moment thing, and also, we don’t like her.",
+      "scriptContextTranslation": "Leonard: いいかい、弁解するわけじゃないけど、あれは本当に衝動的なことだったんだ。それに、僕らは彼女が好きじゃない。"
     },
     {
       "id": 7,
@@ -82,7 +106,11 @@
         "安全"
       ],
       "correctAnswer": "過密状態",
-      "explanation": "「overcrowding」は、場所が人で混みすぎている状態、過密状態を意味します。ここでは刑務所の過密状態を指しています。"
+      "explanation": "「overcrowding」は、場所が人で混みすぎている状態、過密状態を意味します。ここでは刑務所の過密状態を指しています。",
+      "etymology": "「over-」（過剰な）と「crowd」（群衆）が組み合わさった言葉で、場所が人で溢れかえっている状態を表します。",
+      "pronounciation": "/ˌoʊvərˈkraʊdɪŋ/",
+      "scriptContext": "Penny: Thanks to overcrowding, yeah.",
+      "scriptContextTranslation": "Penny: 刑務所の過密状態のおかげで、ええ。"
     },
     {
       "id": 8,
@@ -94,7 +122,11 @@
         "睡眠"
       ],
       "correctAnswer": "震え",
-      "explanation": "「twitching」は、体の一部が不随意にピクピクと動くことを意味します。神経質な様子や、何らかの身体的な問題を抱えていることを示す場合があります。"
+      "explanation": "「twitching」は、体の一部が不随意にピクピクと動くことを意味します。神経質な様子や、何らかの身体的な問題を抱えていることを示す場合があります。",
+      "etymology": "古英語の「twiccian」（引っ張る、つまむ）に由来し、筋肉が不随意にピクピクと動く様子を表します。",
+      "pronounciation": "/ˈtwɪtʃɪŋ/",
+      "scriptContext": "Leonard: Oh, he’s like a different man. He stopped twitching, and I think he grew an inch and a half.",
+      "scriptContextTranslation": "Leonard: ああ、彼はまるで別人だよ。チックが止まったし、身長も1.5インチ伸びたと思う。"
     },
     {
       "id": 9,
@@ -106,7 +138,11 @@
         "提案する"
       ],
       "correctAnswer": "繰り返す",
-      "explanation": "「redo」は、何かを再び行う、やり直すという意味です。ここでは結婚の誓いを改めて行うことを指しています。"
+      "explanation": "「redo」は、何かを再び行う、やり直すという意味です。ここでは結婚の誓いを改めて行うことを指しています。",
+      "etymology": "「re-」（再び）と「do」（行う）が組み合わさった言葉で、何かをもう一度行う、やり直すという意味です。",
+      "pronounciation": "/ˌriːˈduː/",
+      "scriptContext": "Penny: Okay, so it’s not a legal ceremony, it’s just a chance for us to redo our vows so everyone can be part of it.",
+      "scriptContextTranslation": "Penny: いい、これは法的な式典じゃないわ。みんなが参加できるように、私たちが誓いをやり直す機会なの。"
     },
     {
       "id": 10,
@@ -118,7 +154,11 @@
         "幸運な"
       ],
       "correctAnswer": "平凡な",
-      "explanation": "「lousy」は、非常に悪い、つまらない、質の低いという意味です。ここでは、メイド・オブ・オナーの役割が期待外れであることを表しています。例：I had a lousy day at work. (今日は仕事で最悪な一日だった。)"
+      "explanation": "「lousy」は、非常に悪い、つまらない、質の低いという意味です。ここでは、メイド・オブ・オナーの役割が期待外れであることを表しています。例：I had a lousy day at work. (今日は仕事で最悪な一日だった。)",
+      "etymology": "もともとは「シラミの多い」という意味でしたが、そこから転じて「不快な」「ひどい」という意味になりました。不潔な状態から連想される嫌悪感を表します。",
+      "pronounciation": "/ˈlaʊzi/",
+      "scriptContext": "Amy: Wait, now I’m just some lousy maid of honour?",
+      "scriptContextTranslation": "Amy: ちょっと待って、今度は私がただの冴えないブライズメイドなの？"
     },
     {
       "id": 11,
@@ -130,7 +170,11 @@
         "落胆する"
       ],
       "correctAnswer": "期待する",
-      "explanation": "「get your hopes up」は、期待を持つ、希望を抱くという意味です。ここでは、エルノー・ルービックが結婚式に来るかもしれないという期待を持つことを指しています。"
+      "explanation": "「get your hopes up」は、期待を持つ、希望を抱くという意味です。ここでは、エルノー・ルービックが結婚式に来るかもしれないという期待を持つことを指しています。",
+      "etymology": "「希望を高く持ち上げる」というイメージから、期待感を抱くという意味になりました。しかし、期待しすぎると失望も大きくなるため、注意が必要です。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Yes, I’m inviting people to our wedding. Yeah, I’ve already asked Stephen Hawking and Robert Downey Jr, and, now don’t get your hopes up, ’cause he’s pretty busy, but Erno Rubik.",
+      "scriptContextTranslation": "Sheldon: そうだ、僕たちの結婚式に人を招待している。ああ、もうスティーブン・ホーキングとロバート・ダウニー・Jrに声をかけた。期待しないでほしいが、とても忙しいだろうが、エルノー・ルービックにも。"
     },
     {
       "id": 12,
@@ -142,7 +186,11 @@
         "私を困らせる"
       ],
       "correctAnswer": "私には思える",
-      "explanation": "「strike someone as」は、〜という印象を与える、〜のように思えるという意味です。例：He strikes me as a very honest person. (彼はとても正直な人のように思える。)"
+      "explanation": "「strike someone as」は、〜という印象を与える、〜のように思えるという意味です。例：He strikes me as a very honest person. (彼はとても正直な人のように思える。)",
+      "etymology": "「何かが人に衝撃を与える」というイメージから、ある印象や考えが心に浮かぶという意味になりました。直感的な印象を表す際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: Because, despite his fame and fortune, he strikes me as a lonely man.",
+      "scriptContextTranslation": "Sheldon: なぜなら、彼の名声と富にもかかわらず、孤独な男だと感じるからだ。"
     },
     {
       "id": 13,
@@ -154,7 +202,11 @@
         "全く苦労しない"
       ],
       "correctAnswer": "全ての困難を経験する",
-      "explanation": "「go to all this trouble」は、多くの苦労や努力を払うという意味です。ここでは、レナードの母親のために結婚式を計画することに対するペニーの努力を指しています。"
+      "explanation": "「go to all this trouble」は、多くの苦労や努力を払うという意味です。ここでは、レナードの母親のために結婚式を計画することに対するペニーの努力を指しています。",
+      "etymology": "「多くの苦労を経験する」という意味で、困難な状況を乗り越えるために努力する様子を表します。問題解決のために積極的に行動するイメージです。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Well, it’s very sweet of you to go to all this trouble for Leonard’s mother.",
+      "scriptContextTranslation": "Bernadette: まあ、レナードのお母さんのために、ここまでしてくれるなんて、とても優しいわね。"
     },
     {
       "id": 14,
@@ -166,7 +218,11 @@
         "避ける"
       ],
       "correctAnswer": "相談する",
-      "explanation": "「consulting」は、誰かに意見を求める、相談するという意味です。ここでは、父親を結婚式に招待する前に母親に相談しなかったことを指しています。"
+      "explanation": "「consulting」は、誰かに意見を求める、相談するという意味です。ここでは、父親を結婚式に招待する前に母親に相談しなかったことを指しています。",
+      "etymology": "ラテン語の「consultare」（相談する、協議する）に由来し、専門家や知識のある人に意見を求める行為を指します。",
+      "pronounciation": "/kənˈsʌltɪŋ/",
+      "scriptContext": "Beverly: How dare you invite your father without consulting me.",
+      "scriptContextTranslation": "Beverly: 私に相談もせずに、よくもあなたのお父さんを招待したわね。"
     },
     {
       "id": 15,
@@ -178,7 +234,11 @@
         "自由にする"
       ],
       "correctAnswer": "自信をなくさせる",
-      "explanation": "「emasculating」は、男性の自信や男らしさを奪う、弱体化させるという意味です。ここでは、ビバリーがレナードの父親に対してそうであったと主張されています。"
+      "explanation": "「emasculating」は、男性の自信や男らしさを奪う、弱体化させるという意味です。ここでは、ビバリーがレナードの父親に対してそうであったと主張されています。",
+      "etymology": "もともとは「去勢する」という意味ですが、そこから転じて「男性の自信や力を奪う」という意味になりました。男性的な特徴を弱めるイメージです。",
+      "pronounciation": "/ɪˈmæskjʊleɪtɪŋ/",
+      "scriptContext": "Beverly: He claimed I was cold, emasculating, and hadn’t shown him any physical affection for years.",
+      "scriptContextTranslation": "Beverly: 彼は私が冷たくて、男らしさを奪って、何年も肉体的な愛情を示さなかったと言ったのよ。"
     },
     {
       "id": 16,
@@ -190,7 +250,11 @@
         "精神的な安定"
       ],
       "correctAnswer": "身体的な愛情",
-      "explanation": "「physical affection」は、抱擁、キス、手をつなぐなどの身体的な愛情表現を意味します。夫婦間の親密さを示す重要な要素です。"
+      "explanation": "「physical affection」は、抱擁、キス、手をつなぐなどの身体的な愛情表現を意味します。夫婦間の親密さを示す重要な要素です。",
+      "etymology": "「身体的な愛情」とは、触れることを通じて愛情を表現することを指します。抱擁、キス、手をつなぐなどの行為が含まれます。",
+      "pronounciation": "",
+      "scriptContext": "Beverly: He claimed I was cold, emasculating, and hadn’t shown him any physical affection for years.",
+      "scriptContextTranslation": "Beverly: 彼は私が冷たくて、男らしさを奪って、何年も肉体的な愛情を示さなかったと言ったのよ。"
     },
     {
       "id": 17,
@@ -202,7 +266,11 @@
         "偽りの証明"
       ],
       "correctAnswer": "概念の証明",
-      "explanation": "「proof of concept」は、あるアイデアや技術が実際に実現可能であることを示すための実証実験や試作品を意味します。ここでは、量子誘導システムが実際に機能することを示す証拠となります。"
+      "explanation": "「proof of concept」は、あるアイデアや技術が実際に実現可能であることを示すための実証実験や試作品を意味します。ここでは、量子誘導システムが実際に機能することを示す証拠となります。",
+      "etymology": "新しいアイデアや技術が実現可能であることを示すための初期段階の検証を指します。概念が実際に機能することを証明する目的で行われます。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Yeah. I do. It’s proof of concept. We’ve got a workable guidance system.",
+      "scriptContextTranslation": "Howard: ああ。わかるよ。概念実証だ。実用的な誘導システムを手に入れたんだ。"
     },
     {
       "id": 18,
@@ -214,7 +282,11 @@
         "違法な"
       ],
       "correctAnswer": "機能する",
-      "explanation": "「workable」は、実際に機能する、実行可能なという意味です。ここでは、量子誘導システムが実際に使用できる状態であることを示しています。例：We need a workable solution to this problem. (この問題に対する実行可能な解決策が必要です。)"
+      "explanation": "「workable」は、実際に機能する、実行可能なという意味です。ここでは、量子誘導システムが実際に使用できる状態であることを示しています。例：We need a workable solution to this problem. (この問題に対する実行可能な解決策が必要です。)",
+      "etymology": "「work」（働く、機能する）に「-able」（～できる）が付いた言葉で、実際に機能する、実行可能なという意味です。",
+      "pronounciation": "/ˈwɜːrkəbl/",
+      "scriptContext": "Howard: Yeah. I do. It’s proof of concept. We’ve got a workable guidance system.",
+      "scriptContextTranslation": "Howard: ああ。わかるよ。概念実証だ。実用的な誘導システムを手に入れたんだ。"
     },
     {
       "id": 19,
@@ -226,7 +298,11 @@
         "防御システム"
       ],
       "correctAnswer": "誘導システム",
-      "explanation": "「guidance system」は、航空機、ミサイル、宇宙船などが目標に向かって正確に進むように誘導するシステムです。ここでは、量子力学を利用した新しい誘導システムを指しています。"
+      "explanation": "「guidance system」は、航空機、ミサイル、宇宙船などが目標に向かって正確に進むように誘導するシステムです。ここでは、量子力学を利用した新しい誘導システムを指しています。",
+      "etymology": "「guidance」（誘導）と「system」（システム）が組み合わさった言葉で、目標地点まで正確に誘導するシステムを指します。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Yeah. I do. It’s proof of concept. We’ve got a workable guidance system.",
+      "scriptContextTranslation": "Howard: ああ。わかるよ。概念実証だ。実用的な誘導システムを手に入れたんだ。"
     },
     {
       "id": 20,
@@ -238,7 +314,11 @@
         "国際特許"
       ],
       "correctAnswer": "仮特許",
-      "explanation": "「provisional patent」は、特許出願の準備段階で、発明の詳細な説明を提出する前に、優先権を確保するために提出する仮の特許出願です。本出願よりも要件が緩やかです。"
+      "explanation": "「provisional patent」は、特許出願の準備段階で、発明の詳細な説明を提出する前に、優先権を確保するために提出する仮の特許出願です。本出願よりも要件が緩やかです。",
+      "etymology": "「provisional」（仮の）と「patent」（特許）が組み合わさった言葉で、特許出願を早期に行い、優先権を確保するための制度です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Hmm. We request a meeting at your earliest convenience regarding your quantum guidance system, provisional patent 62/295118. That’s weird.",
+      "scriptContextTranslation": "Howard: ふむ。貴社の量子誘導システム、仮特許62/295118について、早急にお打ち合わせをお願いしたい。変だな。"
     },
     {
       "id": 21,
@@ -250,7 +330,11 @@
         "決して"
       ],
       "correctAnswer": "都合の良い時に",
-      "explanation": "「at your earliest convenience」は、できるだけ早く、都合の良い時にという意味の丁寧な表現です。ビジネスメールなどでよく使われます。例：Please reply at your earliest convenience. (できるだけ早くご返信ください。)"
+      "explanation": "「at your earliest convenience」は、できるだけ早く、都合の良い時にという意味の丁寧な表現です。ビジネスメールなどでよく使われます。例：Please reply at your earliest convenience. (できるだけ早くご返信ください。)",
+      "etymology": "「都合の良い時に」という意味で、相手に負担をかけないように配慮した丁寧な表現です。ビジネスシーンでよく使われます。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Hmm. We request a meeting at your earliest convenience regarding your quantum guidance system, provisional patent 62/295118. That’s weird.",
+      "scriptContextTranslation": "Howard: ふむ。貴社の量子誘導システム、仮特許62/295118について、早急にお打ち合わせをお願いしたい。変だな。"
     },
     {
       "id": 22,
@@ -262,7 +346,11 @@
         "未知"
       ],
       "correctAnswer": "量子",
-      "explanation": "「quantum」は、量子力学に関連する用語で、エネルギーや物質の最小単位を指します。ここでは、量子力学の原理を利用した誘導システムを意味しています。"
+      "explanation": "「quantum」は、量子力学に関連する用語で、エネルギーや物質の最小単位を指します。ここでは、量子力学の原理を利用した誘導システムを意味しています。",
+      "etymology": "ラテン語の「quantus」（どれほど大きいか）に由来し、物理学ではエネルギーや物質の最小単位を指します。",
+      "pronounciation": "/ˈkwɒntəm/",
+      "scriptContext": "Howard: Look. The system is maintaining its own stability, the quantum vortex apparatus is now controlling the orientation.",
+      "scriptContextTranslation": "Howard: 見ろ。システムはそれ自体の安定性を維持している。量子渦装置が方向を制御しているんだ。"
     },
     {
       "id": 23,
@@ -274,7 +362,11 @@
         "陰謀"
       ],
       "correctAnswer": "偶然",
-      "explanation": "「coincidence」は、偶然の一致、同時発生を意味します。ここでは、空軍からの連絡が単なる偶然である可能性を示唆しています。例：It's just a coincidence that we both chose the same restaurant. (私たちが同じレストランを選んだのはただの偶然です。)"
+      "explanation": "「coincidence」は、偶然の一致、同時発生を意味します。ここでは、空軍からの連絡が単なる偶然である可能性を示唆しています。例：It's just a coincidence that we both chose the same restaurant. (私たちが同じレストランを選んだのはただの偶然です。)",
+      "etymology": "「co-」（共に）と「incidence」（発生）が組み合わさった言葉で、偶然に同時に発生する出来事を指します。",
+      "pronounciation": "/koʊˈɪnsɪdəns/",
+      "scriptContext": "Howard: I’m sure it’s just a coincidence.",
+      "scriptContextTranslation": "Howard: きっと偶然だよ。"
     },
     {
       "id": 24,
@@ -286,7 +378,11 @@
         "アメリカを軽蔑する"
       ],
       "correctAnswer": "本当にアメリカが好きだ",
-      "explanation": "「Boy, do I love America.」は、アメリカに対する強い愛情や愛国心を強調する表現です。文法的には倒置が使われており、感情の高ぶりを表しています。ここでは、アメリカ空軍からの連絡を受けて、アメリカという国への愛着を表現しています。"
+      "explanation": "「Boy, do I love America.」は、アメリカに対する強い愛情や愛国心を強調する表現です。文法的には倒置が使われており、感情の高ぶりを表しています。ここでは、アメリカ空軍からの連絡を受けて、アメリカという国への愛着を表現しています。",
+      "etymology": "「本当に～だ」という強調表現で、強い感情を表します。ここではアメリカに対する深い愛情を示しています。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Yeah, of course. What else could it be? Boy, do I love America.",
+      "scriptContextTranslation": "Raj: ああ、そうだ。他に何があるっていうんだ？ああ、アメリカが大好きだ。"
     },
     {
       "id": 25,
@@ -298,7 +394,11 @@
         "私を避ける"
       ],
       "correctAnswer": "私を迎えに来る",
-      "explanation": "「pick someone up」は、人を車で迎えに行くという意味です。ここでは、エイミーがシェルドンの母親を車で迎えに来たことを指しています。例：Can you pick me up from the airport? (空港まで迎えに来てもらえますか？)"
+      "explanation": "「pick someone up」は、人を車で迎えに行くという意味です。ここでは、エイミーがシェルドンの母親を車で迎えに来たことを指しています。例：Can you pick me up from the airport? (空港まで迎えに来てもらえますか？)",
+      "etymology": "「拾い上げる」という意味から、車で人を迎えに行くという意味になりました。人を助ける、援助するというニュアンスも含まれます。",
+      "pronounciation": "",
+      "scriptContext": "Mary Cooper: Thank you for picking me up.",
+      "scriptContextTranslation": "メアリー・クーパー: 迎えに来てくれてありがとう。"
     },
     {
       "id": 26,
@@ -310,7 +410,11 @@
         "短い旅行"
       ],
       "correctAnswer": "盛大なパーティー",
-      "explanation": "「shindig」は、活気があり、騒がしいパーティーやダンスパーティーを指す口語的な表現です。お祝い事や特別な機会によく使われます。"
+      "explanation": "「shindig」は、活気があり、騒がしいパーティーやダンスパーティーを指す口語的な表現です。お祝い事や特別な機会によく使われます。",
+      "etymology": "語源は不明ですが、19世紀のアメリカで生まれた言葉で、騒がしいパーティーやダンスパーティーを指す俗語として使われています。",
+      "pronounciation": "/ˈʃɪndɪɡ/",
+      "scriptContext": "Mary: Sure you do. So who else is coming to this shindig?",
+      "scriptContextTranslation": "Mary: そうね、そうね。それで、他に誰がこのパーティーに来るの？"
     },
     {
       "id": 27,
@@ -322,7 +426,11 @@
         "無視する"
       ],
       "correctAnswer": "仲良くする",
-      "explanation": "「get along」は、人との関係が良好であることを意味します。特に、互いに友好的で、争いがなく、円滑なコミュニケーションをとっている状態を指します。 例：They get along well with each other. (彼らは互いに仲が良い。)"
+      "explanation": "「get along」は、人との関係が良好であることを意味します。特に、互いに友好的で、争いがなく、円滑なコミュニケーションをとっている状態を指します。 例：They get along well with each other. (彼らは互いに仲が良い。)",
+      "etymology": "「共に進む」というイメージから、人との関係が円滑に進む、つまり仲良くするという意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Sheldon: I don’t know what we were worried about, they’re getting along great.",
+      "scriptContextTranslation": "Sheldon: 何を心配していたのか分からないよ。すごく仲良くやっているじゃないか。"
     },
     {
       "id": 28,
@@ -334,7 +442,11 @@
         "勇敢"
       ],
       "correctAnswer": "単純",
-      "explanation": "「naive」は、経験不足や知識不足から、物事を鵜呑みにしたり、世間知らずな様子を表します。批判的な意味合いを含むことが多いです。例：She was naive to trust him. (彼女は彼を信じるのが甘かった。)"
+      "explanation": "「naive」は、経験不足や知識不足から、物事を鵜呑みにしたり、世間知らずな様子を表します。批判的な意味合いを含むことが多いです。例：She was naive to trust him. (彼女は彼を信じるのが甘かった。)",
+      "etymology": "ラテン語の「nativus」（生まれつきの、自然の）に由来し、経験が浅く、世間知らずな様子を表します。",
+      "pronounciation": "/naɪˈiːv/",
+      "scriptContext": "Howard: I can’t believe I was so naive. The military is just gonna take over the whole project. And you know what happens if we object? We disappear. Like off the map. Like every American Idol winner since season four.",
+      "scriptContextTranslation": "Howard: 俺がこんなに甘かったなんて信じられない。軍はプロジェクト全体を乗っ取るつもりだ。もし俺たちが反対したらどうなるか分かるか？消されるんだ。地図から消されるように。アメリカン・アイドル優勝者のシーズン4以降みたいに。"
     },
     {
       "id": 29,
@@ -346,7 +458,11 @@
         "経済政策"
       ],
       "correctAnswer": "秘密作戦",
-      "explanation": "「black ops」は、政府や軍が行う極秘作戦を指します。一般には知られておらず、非公式に行われることが多いです。"
+      "explanation": "「black ops」は、政府や軍が行う極秘作戦を指します。一般には知られておらず、非公式に行われることが多いです。",
+      "etymology": "「black」（秘密の）と「operations」（作戦）が組み合わさった言葉で、政府や軍が極秘裏に行う作戦を指します。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Am I? Am I? What, what do you want to bet some black ops guy is reprinting my high school yearbook and I’m no longer in it? That chess club picture is now just David Zimmerman and Elaine Cho.",
+      "scriptContextTranslation": "Howard: そうか？そうなのか？何だよ、ブラックオプスのやつらが俺の高校の卒業アルバムを再印刷して、俺はもうそこにいないって賭けたいのか？チェス部の写真には、今はデビッド・ジマーマンとエレイン・チョだけが写ってるんだ。"
     },
     {
       "id": 30,
@@ -358,7 +474,11 @@
         "計画的に行動する"
       ],
       "correctAnswer": "過剰に反応する",
-      "explanation": "「overreact」は、何かに対して感情的または行動的に過剰な反応を示すことを意味します。些細なことに対して大げさに騒いだり、必要以上に心配したりする場合に使われます。"
+      "explanation": "「overreact」は、何かに対して感情的または行動的に過剰な反応を示すことを意味します。些細なことに対して大げさに騒いだり、必要以上に心配したりする場合に使われます。",
+      "etymology": "「over-」（過剰に）と「react」（反応する）が組み合わさった言葉で、必要以上に感情的に反応することを指します。",
+      "pronounciation": "/ˌoʊvərriˈæktɪŋ/",
+      "scriptContext": "Bernadette: Come on, Howard, you’re overreacting.",
+      "scriptContextTranslation": "Bernadette: ちょっと、ハワード、考えすぎよ。"
     },
     {
       "id": 31,
@@ -370,7 +490,11 @@
         "研究"
       ],
       "correctAnswer": "買収",
-      "explanation": "「acquisition」は、企業などが他の企業や資産などを取得することを意味します。軍事用語としては、兵器や装備などの調達を指すこともあります。"
+      "explanation": "「acquisition」は、企業などが他の企業や資産などを取得することを意味します。軍事用語としては、兵器や装備などの調達を指すこともあります。",
+      "etymology": "ラテン語の「acquirere」（獲得する）に由来し、企業などが他の企業や資産などを取得することを指します。",
+      "pronounciation": "/ˌækwɪˈzɪʃənz/",
+      "scriptContext": "Raj: Okay, look, I’m on the Air Force Web site, and the department that e-mailed you is in charge of acquisitions. So maybe they just want to give you a lot of money for your invention.",
+      "scriptContextTranslation": "Raj: いいか、空軍のウェブサイトを見てるんだが、君にメールを送ってきた部署は買収担当だ。だから、彼らは君の発明に大金を払いたいだけかもしれない。"
     },
     {
       "id": 32,
@@ -382,7 +506,11 @@
         "胃の切除"
       ],
       "correctAnswer": "心臓形成手術",
-      "explanation": "「angioplasty」は、血管を広げるための医療処置、特に心臓の血管に行われることが多いです。カテーテルを用いて血管を内側から拡張します。"
+      "explanation": "「angioplasty」は、血管を広げるための医療処置、特に心臓の血管に行われることが多いです。カテーテルを用いて血管を内側から拡張します。",
+      "etymology": "「angio-」（血管）と「-plasty」（形成術）が組み合わさった言葉で、血管を広げるための外科手術を指します。",
+      "pronounciation": "/ˈændʒiːoʊˌplæsti/",
+      "scriptContext": "Alfred: Me, too. I should have never had that angioplasty because I feel fine.",
+      "scriptContextTranslation": "Alfred: 俺もだ。血管形成術なんて受けるべきじゃなかった。体調はいいんだから。"
     },
     {
       "id": 33,
@@ -394,7 +522,11 @@
         "親友"
       ],
       "correctAnswer": "元夫",
-      "explanation": "「ex-husband」は、離婚した元夫を指す言葉です。「ex-」は「以前の」という意味で、過去の関係性を示す接頭辞として使われます。"
+      "explanation": "「ex-husband」は、離婚した元夫を指す言葉です。「ex-」は「以前の」という意味で、過去の関係性を示す接頭辞として使われます。",
+      "etymology": "「ex-」（以前の）と「husband」（夫）が組み合わさった言葉で、離婚した元夫を指します。",
+      "pronounciation": "",
+      "scriptContext": "Beverly: My ex-husband.",
+      "scriptContextTranslation": "Beverly: 元夫です。"
     },
     {
       "id": 34,
@@ -406,7 +538,11 @@
         "怠惰な人"
       ],
       "correctAnswer": "優しい人",
-      "explanation": "「sweetie」は、愛情を込めて誰かを呼ぶ時に使う言葉で、特に親しい間柄や親愛の情を示す際に用いられます。恋人や家族、親しい友人に対して使われることが多いです。"
+      "explanation": "「sweetie」は、愛情を込めて誰かを呼ぶ時に使う言葉で、特に親しい間柄や親愛の情を示す際に用いられます。恋人や家族、親しい友人に対して使われることが多いです。",
+      "etymology": "「sweet」（甘い）から派生した言葉で、愛情を込めて誰かを呼ぶ際に使われます。親愛の情を示す表現です。",
+      "pronounciation": "/ˈswiːti/",
+      "scriptContext": "Alfred: Ah, she’s a sweetie. You got a good one there, Leonard.",
+      "scriptContextTranslation": "Alfred: ああ、彼女は可愛い娘だ。いい子を見つけたな、レナード。"
     },
     {
       "id": 35,
@@ -418,7 +554,11 @@
         "道に迷って"
       ],
       "correctAnswer": "どちらにしても",
-      "explanation": "「either way」は、「どちらにしても」「いずれにせよ」という意味で、二つの可能性や選択肢がある場合に、どちらを選んでも結果が変わらない、または同じ結論に至ることを示す際に使われます。"
+      "explanation": "「either way」は、「どちらにしても」「いずれにせよ」という意味で、二つの可能性や選択肢がある場合に、どちらを選んでも結果が変わらない、または同じ結論に至ることを示す際に使われます。",
+      "etymology": "「どちらの道でも」という意味から、どちらを選んでも結果が変わらない、または同じ結論に至ることを示す際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Mary: Either way, let’s stop and get some garlic.",
+      "scriptContextTranslation": "Mary: どっちにしても、ニンニクを買っていきましょう。"
     },
     {
       "id": 36,
@@ -430,7 +570,11 @@
         "放棄する"
       ],
       "correctAnswer": "引き継ぐ",
-      "explanation": "「take over」は、事業や責任、役割などを引き継ぐ、または占拠するという意味です。企業の買収や政権交代など、様々な状況で使用されます。"
+      "explanation": "「take over」は、事業や責任、役割などを引き継ぐ、または占拠するという意味です。企業の買収や政権交代など、様々な状況で使用されます。",
+      "etymology": "「引き継ぐ」という意味で、事業や責任、役割などを引き受けることを指します。支配権を握るという意味合いもあります。",
+      "pronounciation": "",
+      "scriptContext": "Howard: I can’t believe I was so naive. The military is just gonna take over the whole project. And you know what happens if we object? We disappear. Like off the map. Like every American Idol winner since season four.",
+      "scriptContextTranslation": "Howard: 俺がこんなに甘かったなんて信じられない。軍はプロジェクト全体を乗っ取るつもりだ。もし俺たちが反対したらどうなるか分かるか？消されるんだ。地図から消されるように。アメリカン・アイドル優勝者のシーズン4以降みたいに。"
     },
     {
       "id": 37,
@@ -442,7 +586,11 @@
         "警察官"
       ],
       "correctAnswer": "いつもの仲間",
-      "explanation": "「usual gang」は、「いつもの仲間たち」「お決まりのメンバー」といった意味合いで、親しい友人やよく一緒にいるグループを指します。"
+      "explanation": "「usual gang」は、「いつもの仲間たち」「お決まりのメンバー」といった意味合いで、親しい友人やよく一緒にいるグループを指します。",
+      "etymology": "「いつもの仲間」という意味で、親しい友人やよく一緒にいるグループを指します。親しみやすいニュアンスがあります。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Oh, well, the usual gang. Penny’s family is coming tomorrow.",
+      "scriptContextTranslation": "Amy: ああ、いつものメンバーよ。ペニーの家族は明日来るわ。"
     },
     {
       "id": 38,
@@ -454,7 +602,11 @@
         "退屈"
       ],
       "correctAnswer": "喜び",
-      "explanation": "「a pleasure」は、文字通りには「喜び」や「楽しみ」という意味ですが、挨拶や紹介の場面で「はじめまして」や「どういたしまして」といった意味合いで使われます。相手に対する丁寧な応答として、好印象を与えます。"
+      "explanation": "「a pleasure」は、文字通りには「喜び」や「楽しみ」という意味ですが、挨拶や紹介の場面で「はじめまして」や「どういたしまして」といった意味合いで使われます。相手に対する丁寧な応答として、好印象を与えます。",
+      "etymology": "「喜び」という意味ですが、丁寧な挨拶や返答として使われる場合は、「どういたしまして」のような意味合いになります。",
+      "pronounciation": "",
+      "scriptContext": "Alfred: A pleasure.",
+      "scriptContextTranslation": "Alfred: 光栄です。"
     },
     {
       "id": 39,
@@ -466,7 +618,11 @@
         "人気がある"
       ],
       "correctAnswer": "地図から消える",
-      "explanation": "「off the map」は、文字通りには「地図に載っていない」という意味ですが、比喩的には「存在を消される」「忘れ去られる」「影響力がなくなる」といった意味合いで使われます。"
+      "explanation": "「off the map」は、文字通りには「地図に載っていない」という意味ですが、比喩的には「存在を消される」「忘れ去られる」「影響力がなくなる」といった意味合いで使われます。",
+      "etymology": "文字通り「地図に載っていない」という意味から、忘れ去られた、影響力のない状態を指すようになりました。",
+      "pronounciation": "",
+      "scriptContext": "Howard: I can’t believe I was so naive. The military is just gonna take over the whole project. And you know what happens if we object? We disappear. Like off the map. Like every American Idol winner since season four.",
+      "scriptContextTranslation": "Howard: 俺がこんなに甘かったなんて信じられない。軍はプロジェクト全体を乗っ取るつもりだ。もし俺たちが反対したらどうなるか分かるか？消されるんだ。地図から消されるように。アメリカン・アイドル優勝者のシーズン4以降みたいに。"
     },
     {
       "id": 40,
@@ -478,7 +634,11 @@
         "諦める"
       ],
       "correctAnswer": "立ち止まって買う",
-      "explanation": "「stop and get」は、文字通り「立ち止まって何かを手に入れる」という意味ですが、比喩的には「何か必要なものを急いで手に入れる」というニュアンスで使われることがあります。"
+      "explanation": "「stop and get」は、文字通り「立ち止まって何かを手に入れる」という意味ですが、比喩的には「何か必要なものを急いで手に入れる」というニュアンスで使われることがあります。",
+      "etymology": "「立ち止まって手に入れる」という意味から、必要なものを急いで手に入れるというニュアンスで使われます。",
+      "pronounciation": "",
+      "scriptContext": "Mary: Either way, let’s stop and get some garlic.",
+      "scriptContextTranslation": "Mary: どっちにしても、ニンニクを買っていきましょう。"
     },
     {
       "id": 41,
@@ -490,7 +650,11 @@
         "無視する"
       ],
       "correctAnswer": "楽しみに待つ",
-      "explanation": "「look forward to」は、将来起こることを期待して楽しみに待つという意味です。to の後には名詞または動名詞が続きます。 例：I'm looking forward to seeing you. (あなたに会えるのを楽しみにしています。)"
+      "explanation": "「look forward to」は、将来起こることを期待して楽しみに待つという意味です。to の後には名詞または動名詞が続きます。 例：I'm looking forward to seeing you. (あなたに会えるのを楽しみにしています。)",
+      "etymology": "「前を見る」というイメージから、未来に起こることを期待して楽しみに待つという意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Penny’s really looking forward to seeing you.",
+      "scriptContextTranslation": "Leonard: ペニーはお父さんに会えるのをとても楽しみにしているよ。"
     },
     {
       "id": 42,
@@ -502,7 +666,11 @@
         "忘れる"
       ],
       "correctAnswer": "良くなる",
-      "explanation": "betterは、より良い状態や状況を指します。ここでは「got to know you better」で、より親しくなってからという意味合いになります。"
+      "explanation": "betterは、より良い状態や状況を指します。ここでは「got to know you better」で、より親しくなってからという意味合いになります。",
+      "etymology": "古英語の「betera」に由来し、「良い」を意味する「bōt」の比較級です。状態や質が向上することを表します。",
+      "pronounciation": "/ˈbɛtər/",
+      "scriptContext": "Sheldon: Wu-wu, what? That’s what I called you till I got to know you better.",
+      "scriptContextTranslation": "Sheldon: うーうー、何？僕があなたのことをよく知るまでそう呼んでいたじゃないか。"
     },
     {
       "id": 43,
@@ -514,7 +682,11 @@
         "忘れる"
       ],
       "correctAnswer": "世話をする",
-      "explanation": "taking care ofは、誰かまたは何かを保護し、必要なものを提供することを意味します。ここではレナードの世話をするという意味合いです。"
+      "explanation": "taking care ofは、誰かまたは何かを保護し、必要なものを提供することを意味します。ここではレナードの世話をするという意味合いです。",
+      "etymology": "「世話をする」という意味で、誰かまたは何かの安全や健康を守ることを指します。愛情や責任感を示す表現です。",
+      "pronounciation": "",
+      "scriptContext": "Mary: I’ve always had a special place in my heart for Leonard. Taking care of my baby all these years.",
+      "scriptContextTranslation": "Mary: 私はずっとレナードのことを特別に思っているの。長年、私のベイビーの面倒を見てくれて。"
     },
     {
       "id": 44,
@@ -526,7 +698,11 @@
         "正直になる"
       ],
       "correctAnswer": "馬鹿げたことを言うな",
-      "explanation": "Don't be sillyは、相手の発言や行動が理にかなっていない、または場違いであることを優しく指摘する際に使われます。親しい間柄で使われることが多いです。"
+      "explanation": "Don't be sillyは、相手の発言や行動が理にかなっていない、または場違いであることを優しく指摘する際に使われます。親しい間柄で使われることが多いです。",
+      "etymology": "「馬鹿げたことをするな」という意味で、相手の言動を優しくたしなめる際に使われます。親しい間柄で使われることが多いです。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 45,
@@ -538,7 +714,11 @@
         "関係ありません"
       ],
       "correctAnswer": "どういたしまして",
-      "explanation": "My pleasureは、感謝の言葉に対する丁寧な返答として使われます。「どういたしまして」や「お役に立てて嬉しいです」といった意味合いが含まれています。"
+      "explanation": "My pleasureは、感謝の言葉に対する丁寧な返答として使われます。「どういたしまして」や「お役に立てて嬉しいです」といった意味合いが含まれています。",
+      "etymology": "「私の喜び」という意味ですが、感謝の言葉に対する返答として使われる場合は、「どういたしまして」のような意味合いになります。",
+      "pronounciation": "",
+      "scriptContext": "Amy: My pleasure, Mrs. Cooper.",
+      "scriptContextTranslation": "Amy: どういたしまして、クーパー夫人。"
     },
     {
       "id": 46,
@@ -550,7 +730,11 @@
         "参加していない"
       ],
       "correctAnswer": "担当している",
-      "explanation": "in charge ofは、特定の責任や任務を担っている状態を指します。「〜を担当している」「〜の責任者である」という意味で使われます。"
+      "explanation": "in charge ofは、特定の責任や任務を担っている状態を指します。「〜を担当している」「〜の責任者である」という意味で使われます。",
+      "etymology": "「責任を負う」という意味で、特定の任務やプロジェクトを管理・監督する立場にあることを指します。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Okay, look, I’m on the Air Force Web site, and the department that e-mailed you is in charge of acquisitions. So maybe they just want to give you a lot of money for your invention.",
+      "scriptContextTranslation": "Raj: いいか、空軍のウェブサイトを見てるんだが、君にメールを送ってきた部署は買収担当だ。だから、彼らは君の発明に大金を払いたいだけかもしれない。"
     },
     {
       "id": 47,
@@ -562,7 +746,11 @@
         "道に迷って"
       ],
       "correctAnswer": "どちらにしても",
-      "explanation": "「either way」は、「どちらにしても」「いずれにせよ」という意味で、二つの可能性や選択肢がある場合に、どちらを選んでも結果が変わらない、または同じ結論に至ることを示す際に使われます。"
+      "explanation": "「either way」は、「どちらにしても」「いずれにせよ」という意味で、二つの可能性や選択肢がある場合に、どちらを選んでも結果が変わらない、または同じ結論に至ることを示す際に使われます。",
+      "etymology": "「どちらにしても」という意味で、二つの選択肢があっても結果が変わらないことを示す際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Mary: Either way, let’s stop and get some garlic.",
+      "scriptContextTranslation": "Mary: どっちにしても、ニンニクを買っていきましょう。"
     },
     {
       "id": 48,
@@ -574,7 +762,11 @@
         "落ち着く"
       ],
       "correctAnswer": "心臓発作を起こす",
-      "explanation": "「have a heart attack」は、文字通り「心臓発作を起こす」という意味ですが、比喩的には「非常にショックを受ける」「強い感情を抱く」といった意味合いで使われることがあります。"
+      "explanation": "「have a heart attack」は、文字通り「心臓発作を起こす」という意味ですが、比喩的には「非常にショックを受ける」「強い感情を抱く」といった意味合いで使われることがあります。",
+      "etymology": "文字通り「心臓発作を起こす」という意味ですが、比喩的には非常にショックを受ける、驚くという意味で使われることがあります。",
+      "pronounciation": "",
+      "scriptContext": "Alfred: Well, the stairs are fine. Besides, your mother is up there. Maybe I’ll have a heart attack and not have to see her.",
+      "scriptContextTranslation": "Alfred: まあ、階段でもいいか。それに、君の母親が上にいるんだ。心臓発作を起こして、会わなくて済むかもしれない。"
     },
     {
       "id": 49,
@@ -586,7 +778,11 @@
         "曇り"
       ],
       "correctAnswer": "寒い",
-      "explanation": "「chilly」は、「肌寒い」「冷え冷えとした」という意味で、気温が低い状態を表します。不快な寒さを感じるときに使われることが多いです。"
+      "explanation": "「chilly」は、「肌寒い」「冷え冷えとした」という意味で、気温が低い状態を表します。不快な寒さを感じるときに使われることが多いです。",
+      "etymology": "古英語の「ċiele」（寒さ）に由来し、少し寒い、肌寒いという意味を表します。",
+      "pronounciation": "/ˈtʃɪli/",
+      "scriptContext": "Penny: Whew, chilly.",
+      "scriptContextTranslation": "Penny: ふう、寒い。"
     },
     {
       "id": 50,
@@ -598,7 +794,11 @@
         "諦める"
       ],
       "correctAnswer": "立ち止まって買う",
-      "explanation": "「stop and get」は、文字通り「立ち止まって何かを手に入れる」という意味ですが、比喩的には「何か必要なものを急いで手に入れる」というニュアンスで使われることがあります。"
+      "explanation": "「stop and get」は、文字通り「立ち止まって何かを手に入れる」という意味ですが、比喩的には「何か必要なものを急いで手に入れる」というニュアンスで使われることがあります。",
+      "etymology": "「立ち止まって手に入れる」という意味から、必要なものを急いで手に入れるというニュアンスで使われます。",
+      "pronounciation": "",
+      "scriptContext": "Mary: Either way, let’s stop and get some garlic.",
+      "scriptContextTranslation": "Mary: どっちにしても、ニンニクを買っていきましょう。"
     },
     {
       "id": 51,
@@ -610,7 +810,11 @@
         "尊敬する上司"
       ],
       "correctAnswer": "意地悪な女性",
-      "explanation": "「shrew」は、口うるさく、意地悪な女性を指す言葉です。「hateful」と組み合わさることで、さらに強い嫌悪感を込めた表現になります。主に女性に対して使われる侮蔑的な言葉であり、使用には注意が必要です。"
+      "explanation": "「shrew」は、口うるさく、意地悪な女性を指す言葉です。「hateful」と組み合わさることで、さらに強い嫌悪感を込めた表現になります。主に女性に対して使われる侮蔑的な言葉であり、使用には注意が必要です。",
+      "etymology": "「hateful」（憎むべき）と「shrew」（口やかましい女性）が組み合わさった言葉で、非常に意地悪で口うるさい女性を指します。",
+      "pronounciation": "",
+      "scriptContext": "Alfred: Hello, my hateful shrew.",
+      "scriptContextTranslation": "Alfred: やあ、憎らしいじゃじゃ馬。"
     },
     {
       "id": 52,
@@ -622,7 +826,11 @@
         "無邪気な子供"
       ],
       "correctAnswer": "しわくちゃの意地悪なやつ",
-      "explanation": "「wrinkled」は「しわくちゃの」、「old」は「年老いた」という意味で、「bastard」は「嫌なやつ」「ろくでなし」といった意味合いの強い侮辱語です。親しみを込めて使われることもありますが、基本的には相手を侮辱する言葉なので、使う場面には注意が必要です。"
+      "explanation": "「wrinkled」は「しわくちゃの」、「old」は「年老いた」という意味で、「bastard」は「嫌なやつ」「ろくでなし」といった意味合いの強い侮辱語です。親しみを込めて使われることもありますが、基本的には相手を侮辱する言葉なので、使う場面には注意が必要です。",
+      "etymology": "「wrinkled」（しわくちゃの）、「old」（年老いた）、「bastard」（ろくでなし）が組み合わさった言葉で、年老いた嫌なやつという意味合いの強い侮辱語です。",
+      "pronounciation": "",
+      "scriptContext": "Beverly: Hello to you, you wrinkled old bastard.",
+      "scriptContextTranslation": "Beverly: こちらこそ、しわくちゃジジイ。"
     },
     {
       "id": 53,
@@ -634,7 +842,11 @@
         "私たちのため"
       ],
       "correctAnswer": "あなたのため",
-      "explanation": "「for your benefit」は、「あなたのためになるように」「あなたの利益のために」という意味です。相手に何かをすることの理由や目的を説明する際に使われます。例: I did it for your benefit. (あなたのためにそうしました。)"
+      "explanation": "「for your benefit」は、「あなたのためになるように」「あなたの利益のために」という意味です。相手に何かをすることの理由や目的を説明する際に使われます。例: I did it for your benefit. (あなたのためにそうしました。)",
+      "etymology": "「あなたのために」という意味で、相手の利益や幸福を願って行動することを強調する際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: All right, you two, don’t start. Penny and I are throwing this second wedding for your benefit. Can you please not ruin it?",
+      "scriptContextTranslation": "Leonard: いい加減にしてくれ、2人とも。ペニーと僕が2回目の結婚式を挙げるのは、君たちのためなんだ。頼むから台無しにしないでくれ。"
     },
     {
       "id": 54,
@@ -646,7 +858,11 @@
         "家に帰る"
       ],
       "correctAnswer": "歯医者に行く",
-      "explanation": "「go back to the dentist」は、文字通り「歯医者に戻る」という意味ですが、ここでは「（重要でない）定期的な義務」の比喩として使われています。面倒だが避けては通れない事柄を指す際に用いられます。"
+      "explanation": "「go back to the dentist」は、文字通り「歯医者に戻る」という意味ですが、ここでは「（重要でない）定期的な義務」の比喩として使われています。面倒だが避けては通れない事柄を指す際に用いられます。",
+      "etymology": "「歯医者に戻る」という文字通りの意味から、ここでは「（重要でない）定期的な義務」の比喩として使われています。",
+      "pronounciation": "",
+      "scriptContext": "Raj: You can’t ignore it. It’s not that postcard that says it’s time to go back to the dentist.",
+      "scriptContextTranslation": "Raj: 無視はできないよ。歯医者に行けって書いてあるハガキじゃないんだから。"
     },
     {
       "id": 55,
@@ -658,7 +874,11 @@
         "1時間"
       ],
       "correctAnswer": "少々",
-      "explanation": "「one sec」は、「one second」の略で、「ちょっと待って」「少しだけ時間ちょうだい」という意味です。カジュアルな会話でよく使われます。例: One sec, I'll be right back. (ちょっと待って、すぐ戻るよ。)"
+      "explanation": "「one sec」は、「one second」の略で、「ちょっと待って」「少しだけ時間ちょうだい」という意味です。カジュアルな会話でよく使われます。例: One sec, I'll be right back. (ちょっと待って、すぐ戻るよ。)",
+      "etymology": "「one second」の略で、「ちょっと待って」という意味で使われるカジュアルな表現です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: One sec. I’m just afraid if I respond, then they’ll know I got it.",
+      "scriptContextTranslation": "Howard: ちょっと待って。返信したら、僕がメールを受け取ったってバレるのが怖いんだ。"
     },
     {
       "id": 56,
@@ -670,7 +890,11 @@
         "真実"
       ],
       "correctAnswer": "ナンセンス",
-      "explanation": "「nonsense」は、「ばかげたこと」「無意味なこと」「くだらないこと」という意味です。話や行動などが理にかなっていない、または重要でないときに使われます。例: Don't talk nonsense. (くだらないことを言うな。)"
+      "explanation": "「nonsense」は、「ばかげたこと」「無意味なこと」「くだらないこと」という意味です。話や行動などが理にかなっていない、または重要でないときに使われます。例: Don't talk nonsense. (くだらないことを言うな。)",
+      "etymology": "「non-」（否定）と「sense」（意味）が組み合わさった言葉で、意味のないこと、ばかげたことを指します。",
+      "pronounciation": "/ˈnɒnsəns/",
+      "scriptContext": "Bernadette: Are you done with this nonsense?",
+      "scriptContextTranslation": "Bernadette: そのくだらない話はもう終わり？"
     },
     {
       "id": 57,
@@ -682,7 +906,11 @@
         "彼らに指導システムを隠蔽する"
       ],
       "correctAnswer": "彼らに指導システムを提供する",
-      "explanation": "「turn over」は「引き渡す」「譲る」という意味です。「guidance system」は「誘導システム」を指します。全体として、「我々の誘導システムを彼らに引き渡す」という意味になり、ここでは軍事技術の供与を懸念する文脈で使われています。"
+      "explanation": "「turn over」は「引き渡す」「譲る」という意味です。「guidance system」は「誘導システム」を指します。全体として、「我々の誘導システムを彼らに引き渡す」という意味になり、ここでは軍事技術の供与を懸念する文脈で使われています。",
+      "etymology": "「引き渡す」という意味の「turn over」と「誘導システム」という意味の「guidance system」が組み合わさった表現です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: You’re right. We turn our guidance system over to them, next thing we know, they’re using it against us.",
+      "scriptContextTranslation": "Howard: そうだ。誘導システムを連中に渡したら、次に気づいたときには、僕らに対して使ってくるだろう。"
     },
     {
       "id": 58,
@@ -694,7 +922,11 @@
         "私たちを応援"
       ],
       "correctAnswer": "私たちに有利",
-      "explanation": "「going for us」は、「私たちにとって有利な点」「私たちを後押しするもの」という意味合いです。ここでは、結婚生活において、レオナードの両親の方が有利な条件が多かった、という皮肉を込めた表現として使われています。"
+      "explanation": "「going for us」は、「私たちにとって有利な点」「私たちを後押しするもの」という意味合いです。ここでは、結婚生活において、レオナードの両親の方が有利な条件が多かった、という皮肉を込めた表現として使われています。",
+      "etymology": "「私たちに有利に働く」という意味で、状況や条件が自分たちに有利であることを表します。",
+      "pronounciation": "",
+      "scriptContext": "Beverly: Although Alfred and I had a lot more going for us than you two.",
+      "scriptContextTranslation": "Beverly: とはいえ、アルフレッドと私には、あなたたちよりもっと多くのものがあったのよ。"
     },
     {
       "id": 59,
@@ -706,7 +938,11 @@
         "その理由で"
       ],
       "correctAnswer": "その話題で",
-      "explanation": "「on that note」は、「さて」「ところで」「それを踏まえて」といった意味合いで、話題を転換する際に使われる表現です。前の発言を受けて、新しい話題を始める時に便利です。例: On that note, let's move on to the next item on the agenda. (さて、議題の次の項目に移りましょう。)"
+      "explanation": "「on that note」は、「さて」「ところで」「それを踏まえて」といった意味合いで、話題を転換する際に使われる表現です。前の発言を受けて、新しい話題を始める時に便利です。例: On that note, let's move on to the next item on the agenda. (さて、議題の次の項目に移りましょう。)",
+      "etymology": "「その話題を受けて」という意味で、会話の流れを変える際に使われるフレーズです。",
+      "pronounciation": "",
+      "scriptContext": "Alfred: Well, on that note, there are many cultures that have an apocalyptic flood as part of their mythology.",
+      "scriptContextTranslation": "Alfred: そうですね、黙示録的な洪水が神話の一部となっている文化はたくさんあります。"
     },
     {
       "id": 60,
@@ -718,7 +954,11 @@
         "促進する"
       ],
       "correctAnswer": "見下す",
-      "explanation": "「disparage」は、「見下す」「けなす」「軽んじる」という意味です。相手の価値や業績を低く評価する際に使われます。フォーマルな響きを持つ言葉です。例: He disparaged her efforts. (彼は彼女の努力をけなした。)"
+      "explanation": "「disparage」は、「見下す」「けなす」「軽んじる」という意味です。相手の価値や業績を低く評価する際に使われます。フォーマルな響きを持つ言葉です。例: He disparaged her efforts. (彼は彼女の努力をけなした。)",
+      "etymology": "ラテン語の「disparagere」（格を落とす）に由来し、見下す、けなすという意味を表します。",
+      "pronounciation": "/dɪˈspærɪdʒ/",
+      "scriptContext": "Alfred: Oh. I, I didn’t mean to disparage your faith. Actually, I admire it.",
+      "scriptContextTranslation": "Alfred: ああ。私は、あなたの信仰を軽蔑するつもりはありませんでした。実際、私はそれを尊敬しています。"
     },
     {
       "id": 61,
@@ -730,7 +970,11 @@
         "懐疑論者"
       ],
       "correctAnswer": "不可知論者",
-      "explanation": "「agnostic」は、「不可知論者」という意味で、神の存在や宇宙の根源など、人間には知りえない事柄があると考える立場の人を指します。宗教的な文脈でよく使われます。"
+      "explanation": "「agnostic」は、「不可知論者」という意味で、神の存在や宇宙の根源など、人間には知りえない事柄があると考える立場の人を指します。宗教的な文脈でよく使われます。",
+      "etymology": "ギリシャ語の「agnōstos」（知りえない）に由来し、神の存在や宇宙の根源など、人間には知りえない事柄があると考える立場を指します。",
+      "pronounciation": "/æɡˈnɒstɪk/",
+      "scriptContext": "Alfred: Yes. Yes, I’m an agnostic myself, but I have prayed, many times, to God, to turn my wife into a pillar of salt.",
+      "scriptContextTranslation": "Alfred: はい。ええ、私は不可知論者ですが、何度も神に、妻を塩の柱に変えてくれるように祈りました。"
     },
     {
       "id": 62,
@@ -742,7 +986,11 @@
         "水の流れ"
       ],
       "correctAnswer": "塩の柱",
-      "explanation": "「pillar of salt」は、「塩の柱」という意味ですが、聖書の創世記に登場するロトの妻が振り返って塩の柱になったという逸話に由来する表現です。ここでは、皮肉を込めて「身動きが取れない状態」「頑固な状態」を指す比喩として使われています。"
+      "explanation": "「pillar of salt」は、「塩の柱」という意味ですが、聖書の創世記に登場するロトの妻が振り返って塩の柱になったという逸話に由来する表現です。ここでは、皮肉を込めて「身動きが取れない状態」「頑固な状態」を指す比喩として使われています。",
+      "etymology": "旧約聖書に登場するロトの妻の物語に由来し、過去を振り返ることを戒める比喩として使われます。",
+      "pronounciation": "",
+      "scriptContext": "Alfred: Yes. Yes, I’m an agnostic myself, but I have prayed, many times, to God, to turn my wife into a pillar of salt.",
+      "scriptContextTranslation": "Alfred: はい。ええ、私は不可知論者ですが、何度も神に、妻を塩の柱に変えてくれるように祈りました。"
     },
     {
       "id": 63,
@@ -754,7 +1002,11 @@
         "軍を攻撃した"
       ],
       "correctAnswer": "軍にリークした",
-      "explanation": "「leak」は、「漏洩する」「秘密を漏らす」という意味です。ここでは、大学関係者がハワードの情報を軍に漏らしたのではないか、という疑念を表しています。例: The information was leaked to the press. (その情報は報道機関にリークされた。)"
+      "explanation": "「leak」は、「漏洩する」「秘密を漏らす」という意味です。ここでは、大学関係者がハワードの情報を軍に漏らしたのではないか、という疑念を表しています。例: The information was leaked to the press. (その情報は報道機関にリークされた。)",
+      "etymology": "「leak」（漏洩する）は、秘密情報などが意図せず外部に漏れることを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Are you kidding? They’re probably the ones who leaked it to the military in the first place.",
+      "scriptContextTranslation": "Howard: 馬鹿言うなよ。最初に軍にリークしたのは、多分、大学の奴らだ。"
     },
     {
       "id": 64,
@@ -766,7 +1018,11 @@
         "～の表面をなぞる"
       ],
       "correctAnswer": "～の原因を究明する",
-      "explanation": "「get to the bottom of」は、「～の真相を究明する」「～の原因を突き止める」という意味です。問題や事件などの根本的な原因を解明しようとする際に使われます。例: We need to get to the bottom of this mystery. (この謎の真相を究明する必要がある。)"
+      "explanation": "「get to the bottom of」は、「～の真相を究明する」「～の原因を突き止める」という意味です。問題や事件などの根本的な原因を解明しようとする際に使われます。例: We need to get to the bottom of this mystery. (この謎の真相を究明する必要がある。)",
+      "etymology": "「底にたどり着く」というイメージから、問題や事件の真相を究明するという意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Howard: I’m being harassed by the government, not trying to get to the bottom of a dog-walking scam.",
+      "scriptContextTranslation": "Howard: 犬の散歩詐欺の真相を突き止めようとしてるんじゃない。政府に嫌がらせを受けてるんだ。"
     },
     {
       "id": 65,
@@ -778,7 +1034,11 @@
         "投資詐欺"
       ],
       "correctAnswer": "犬の散歩詐欺",
-      "explanation": "「scam」は「詐欺」という意味です。「dog-walking scam」は、犬の散歩サービスに関する詐欺を指します。例えば、料金を支払ったのに犬の散歩をしてくれない、などのケースが考えられます。"
+      "explanation": "「scam」は「詐欺」という意味です。「dog-walking scam」は、犬の散歩サービスに関する詐欺を指します。例えば、料金を支払ったのに犬の散歩をしてくれない、などのケースが考えられます。",
+      "etymology": "「scam」（詐欺）は、他人を騙してお金や利益を得る行為を指します。",
+      "pronounciation": "",
+      "scriptContext": "Howard: I’m being harassed by the government, not trying to get to the bottom of a dog-walking scam.",
+      "scriptContextTranslation": "Howard: 犬の散歩詐欺の真相を突き止めようとしてるんじゃない。政府に嫌がらせを受けてるんだ。"
     },
     {
       "id": 66,
@@ -790,7 +1050,11 @@
         "思考を促進した"
       ],
       "correctAnswer": "思考をねじ曲げた",
-      "explanation": "「twist」は「ねじる」「歪める」という意味です。「twisted your thinking」は「あなたの考えを歪めた」「思考をねじ曲げた」という意味になります。ここでは、映画やTVの影響で考え方がおかしくなっている、というニュアンスで使われています。"
+      "explanation": "「twist」は「ねじる」「歪める」という意味です。「twisted your thinking」は「あなたの考えを歪めた」「思考をねじ曲げた」という意味になります。ここでは、映画やTVの影響で考え方がおかしくなっている、というニュアンスで使われています。",
+      "etymology": "「twist」（ねじる、歪める）は、思考や考え方を歪めてしまうことを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Bernadette: Oh, stop. You know what’s really happening? All the movies you’ve watched, the TV shows, the comic books, they’ve completely twisted your thinking. No one’s after you, no one’s listening to you, no one cares about you.",
+      "scriptContextTranslation": "Bernadette: もうやめて。何が起こってるのか分かる？ あなたが見てきた映画やテレビ番組、漫画が、あなたの考えを完全に捻じ曲げてるのよ。誰もあなたを追いかけてないし、誰もあなたの話を聞いてないし、誰もあなたに興味なんてないのよ。"
     },
     {
       "id": 67,
@@ -802,7 +1066,11 @@
         "隣にいる"
       ],
       "correctAnswer": "すぐ後ろにいる",
-      "explanation": "「on someone's tail」は、「～のすぐ後ろにいる」「～を尾行している」という意味です。車などが非常に近い距離で後ろを走っている状況を表すのに使われます。例: The police were right on his tail. (警察は彼のすぐ後ろに迫っていた。)"
+      "explanation": "「on someone's tail」は、「～のすぐ後ろにいる」「～を尾行している」という意味です。車などが非常に近い距離で後ろを走っている状況を表すのに使われます。例: The police were right on his tail. (警察は彼のすぐ後ろに迫っていた。)",
+      "etymology": "「尻尾にいる」というイメージから、すぐ後ろに迫っている、尾行されているという意味になりました。",
+      "pronounciation": "",
+      "scriptContext": "Howard: I’m not being ridiculous, he’s right on my tail.",
+      "scriptContextTranslation": "Howard: 馬鹿げてるんじゃない、すぐ後ろにいるんだよ。"
     },
     {
       "id": 68,
@@ -814,7 +1082,11 @@
         "一緒に歌う"
       ],
       "correctAnswer": "一緒に曲がる",
-      "explanation": "「turn with us」は、「私たちと一緒に曲がる」という意味です。ここでは、尾行されているかどうかを確認するために、同じ方向に曲がるかどうかを試す状況で使われています。文字通りの意味の他に、「協力する」「同調する」といった意味合いで使われることもあります。"
+      "explanation": "「turn with us」は、「私たちと一緒に曲がる」という意味です。ここでは、尾行されているかどうかを確認するために、同じ方向に曲がるかどうかを試す状況で使われています。文字通りの意味の他に、「協力する」「同調する」といった意味合いで使われることもあります。",
+      "etymology": "「私たちと一緒に曲がる」という意味ですが、ここでは尾行を確認するために同じ方向に曲がるかどうかを試す状況で使われています。",
+      "pronounciation": "",
+      "scriptContext": "Raj: Uh, turn left here and see if he turns with us.",
+      "scriptContextTranslation": "Raj: ああ、ここで左に曲がって、彼も一緒に曲がってくるか見てみよう。"
     },
     {
       "id": 69,
@@ -826,7 +1098,11 @@
         "音楽アプリ"
       ],
       "correctAnswer": "交通アプリ",
-      "explanation": "「traffic app」は、交通情報をリアルタイムで提供するアプリケーションのことです。渋滞情報、事故情報、交通規制などを確認できます。カーナビゲーションアプリや、公共交通機関の運行情報アプリなどが含まれます。"
+      "explanation": "「traffic app」は、交通情報をリアルタイムで提供するアプリケーションのことです。渋滞情報、事故情報、交通規制などを確認できます。カーナビゲーションアプリや、公共交通機関の運行情報アプリなどが含まれます。",
+      "etymology": "「traffic」（交通）と「app」（アプリケーション）が組み合わさった言葉で、交通情報をリアルタイムで提供するアプリを指します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: I don’t know. He uses that traffic app. Maybe there’s an accident.",
+      "scriptContextTranslation": "Leonard: わからない。彼は交通アプリを使ってるんだ。事故でもあったのかも。"
     },
     {
       "id": 70,
@@ -838,7 +1114,11 @@
         "彼を助ける"
       ],
       "correctAnswer": "彼を見失う",
-      "explanation": "「lose」は、「失う」という意味の他に、「見失う」「聞き逃す」という意味もあります。「losing him」は、ここでは「彼を見失いそうだ」という意味で、尾行している車との距離が離れてしまっている状況を表しています。"
+      "explanation": "「lose」は、「失う」という意味の他に、「見失う」「聞き逃す」という意味もあります。「losing him」は、ここでは「彼を見失いそうだ」という意味で、尾行している車との距離が離れてしまっている状況を表しています。",
+      "etymology": "「lose」（失う）には、見失うという意味もあります。ここでは、尾行対象を見失いそうだという意味で使われています。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Well, go faster. You’re losing him.",
+      "scriptContextTranslation": "Penny: さあ、もっと速く。見失うわよ。"
     },
     {
       "id": 71,
@@ -850,7 +1130,11 @@
         "彼は誰を待っているの？"
       ],
       "correctAnswer": "彼は何を急いでいるの？",
-      "explanation": "「What is his hurry?」は、「彼は何をそんなに急いでいるの？」という意味です。相手の行動が急ぎすぎているように感じるときに使われます。少し皮肉めいたニュアンスを含むこともあります。"
+      "explanation": "「What is his hurry?」は、「彼は何をそんなに急いでいるの？」という意味です。相手の行動が急ぎすぎているように感じるときに使われます。少し皮肉めいたニュアンスを含むこともあります。",
+      "etymology": "「彼は何を急いでいるの？」という意味で、相手の行動が急ぎすぎているように感じるときに使われます。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: What is his hurry?",
+      "scriptContextTranslation": "Leonard: あいつ、一体何急いでるんだ？"
     },
     {
       "id": 72,
@@ -862,7 +1146,11 @@
         "もっとゆっくり"
       ],
       "correctAnswer": "もっと近づいて",
-      "explanation": "「get closer」は、「もっと近づく」「距離を縮める」という意味です。物理的な距離だけでなく、心理的な距離を表すこともあります。例: We need to get closer to our customers. (私たちは顧客との距離を縮める必要がある。)"
+      "explanation": "「get closer」は、「もっと近づく」「距離を縮める」という意味です。物理的な距離だけでなく、心理的な距離を表すこともあります。例: We need to get closer to our customers. (私たちは顧客との距離を縮める必要がある。)",
+      "etymology": "「より近づく」という意味で、物理的な距離だけでなく、心理的な距離を表すこともあります。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Oh, maybe. Get closer.",
+      "scriptContextTranslation": "Penny: ああ、そうかも。近づいてみて。"
     },
     {
       "id": 73,
@@ -874,7 +1162,11 @@
         "計画"
       ],
       "correctAnswer": "偶然",
-      "explanation": "「coincidence」は、「偶然の一致」「同時発生」という意味です。予期せぬ出来事が同時に起こる、または似たような出来事が偶然に起こることを指します。例: It's just a coincidence that we met here. (ここで会ったのはただの偶然です。)"
+      "explanation": "「coincidence」は、「偶然の一致」「同時発生」という意味です。予期せぬ出来事が同時に起こる、または似たような出来事が偶然に起こることを指します。例: It's just a coincidence that we met here. (ここで会ったのはただの偶然です。)",
+      "etymology": "「偶然の一致」という意味で、予期せぬ出来事が同時に起こる、または似たような出来事が偶然に起こることを指します。",
+      "pronounciation": "/koʊˈɪnsɪdəns/",
+      "scriptContext": "Howard: I’m sure it’s just a coincidence.",
+      "scriptContextTranslation": "Howard: きっと偶然だよ。"
     },
     {
       "id": 74,
@@ -886,7 +1178,11 @@
         "トーストを食べる"
       ],
       "correctAnswer": "トーストのために何か取っておく",
-      "explanation": "「save something for the toast」は、ここでは「感動的なスピーチの内容を後にとっておく」という意味合いで使われています。結婚式のトースト（祝辞）のために、とっておきの話を温存しておくように、という意味合いです。"
+      "explanation": "「save something for the toast」は、ここでは「感動的なスピーチの内容を後にとっておく」という意味合いで使われています。結婚式のトースト（祝辞）のために、とっておきの話を温存しておくように、という意味合いです。",
+      "etymology": "結婚式のスピーチ（toast）のために、とっておきの話は後にとっておく、という意味で使われています。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Mom, please save something for the toast.",
+      "scriptContextTranslation": "Leonard: ママ、乾杯の時に話すことを残しておいてよ。"
     },
     {
       "id": 75,
@@ -898,7 +1194,11 @@
         "神の怒り"
       ],
       "correctAnswer": "神の言葉",
-      "explanation": "「unerring」は「間違いのない」「確実な」という意味です。「the unerring Word of God」は「神の絶対的な言葉」「神の真実の言葉」という意味で、宗教的な文脈で使われます。ここでは、聖書の記述に対する絶対的な信頼を表しています。"
+      "explanation": "「unerring」は「間違いのない」「確実な」という意味です。「the unerring Word of God」は「神の絶対的な言葉」「神の真実の言葉」という意味で、宗教的な文脈で使われます。ここでは、聖書の記述に対する絶対的な信頼を表しています。",
+      "etymology": "「unerring」（間違いのない）は、「神の言葉」が絶対的な真実であることを強調するために使われています。",
+      "pronounciation": "",
+      "scriptContext": "Mary: I don’t have a mythology. I have the unerring Word of God. But that’s very interesting.",
+      "scriptContextTranslation": "Mary: 私には神話はありません。神の誤りのない言葉があります。でも、それはとても興味深いですね。"
     },
     {
       "id": 76,
@@ -910,7 +1210,11 @@
         "車を止める"
       ],
       "correctAnswer": "ライトを点滅させる",
-      "explanation": "「flash your lights」は、車のヘッドライトを短時間点滅させることを意味します。これは、他のドライバーに注意を促したり、合図を送ったりする際に使われます。例えば、前方の危険を警告したり、道を譲ってくれたことへの感謝を示したりするために使用されます。"
+      "explanation": "「flash your lights」は、車のヘッドライトを短時間点滅させることを意味します。これは、他のドライバーに注意を促したり、合図を送ったりする際に使われます。例えば、前方の危険を警告したり、道を譲ってくれたことへの感謝を示したりするために使用されます。",
+      "etymology": "「flash」（点滅させる）は、ヘッドライトを短時間点滅させることで、他のドライバーに合図を送る行為を指します。",
+      "pronounciation": "",
+      "scriptContext": "Penny: You know what, flash your lights. Let him know it’s you.",
+      "scriptContextTranslation": "Penny: あのね、ライトをパッシングしなさいよ。あなただって知らせるの。"
     },
     {
       "id": 77,
@@ -922,7 +1226,11 @@
         "道を譲る"
       ],
       "correctAnswer": "停車する",
-      "explanation": "「pull over」は、車を道路の脇に寄せて停車することを意味します。警察官が車を停止させる場合や、運転者が休憩を取りたい場合などに使われます。例えば、「The police officer signaled the car to pull over.（警察官は車に停止するよう合図した。）」のように使われます。"
+      "explanation": "「pull over」は、車を道路の脇に寄せて停車することを意味します。警察官が車を停止させる場合や、運転者が休憩を取りたい場合などに使われます。例えば、「The police officer signaled the car to pull over.（警察官は車に停止するよう合図した。）」のように使われます。",
+      "etymology": "車を道路の脇に寄せて停車することを意味します。警察官が車を停止させる場合や、運転者が休憩を取りたい場合などに使われます。",
+      "pronounciation": "",
+      "scriptContext": "Raj: I, I think he wants us to pull over.",
+      "scriptContextTranslation": "Raj: 多分、路肩に停まって欲しいんだ。"
     },
     {
       "id": 78,
@@ -934,7 +1242,11 @@
         "諦める"
       ],
       "correctAnswer": "待つ",
-      "explanation": "「hang on」は、様々な意味を持つイディオムですが、ここでは「ちょっと待って」という意味で使われています。緊急時や、相手に少しの間辛抱してほしい時に使われます。例えば、「Hang on, I'll be right back.（ちょっと待って、すぐに戻るから。）」のように使われます。"
+      "explanation": "「hang on」は、様々な意味を持つイディオムですが、ここでは「ちょっと待って」という意味で使われています。緊急時や、相手に少しの間辛抱してほしい時に使われます。例えば、「Hang on, I'll be right back.（ちょっと待って、すぐに戻るから。）」のように使われます。",
+      "etymology": "「hang」（ぶら下がる）から派生し、ここでは「ちょっと待って」という意味で使われています。",
+      "pronounciation": "",
+      "scriptContext": "Howard: Hang on.",
+      "scriptContextTranslation": "Howard: 落ち着けよ。"
     },
     {
       "id": 79,
@@ -946,7 +1258,11 @@
         "失礼な"
       ],
       "correctAnswer": "魅力的な",
-      "explanation": "「charming」は、人や場所、物などが非常に魅力的で、人を惹きつける性質を持っていることを表します。この単語は、相手に好印象を与え、友好的な雰囲気を作り出す際に使われます。例えば、「He is a charming man.（彼は魅力的な男性だ。）」のように使われます。"
+      "explanation": "「charming」は、人や場所、物などが非常に魅力的で、人を惹きつける性質を持っていることを表します。この単語は、相手に好印象を与え、友好的な雰囲気を作り出す際に使われます。例えば、「He is a charming man.（彼は魅力的な男性だ。）」のように使われます。",
+      "etymology": "古フランス語の「charmant」（魅惑的な）に由来し、人を惹きつける魅力的な性質を表します。",
+      "pronounciation": "/ˈtʃɑːrmɪŋ/",
+      "scriptContext": "Mary: Leonard, your father is just charming.",
+      "scriptContextTranslation": "Mary: レナード、あなたのお父様は本当に魅力的ね。"
     },
     {
       "id": 80,
@@ -958,7 +1274,11 @@
         "修理された"
       ],
       "correctAnswer": "貧乏な",
-      "explanation": "「broke」は、お金が全くない、または非常に少ない状態を表す口語的な表現です。一時的な金欠状態から、深刻な経済的困難まで、幅広い状況で使用されます。例えば、「I'm broke until payday.（給料日までお金がない。）」のように使われます。"
+      "explanation": "「broke」は、お金が全くない、または非常に少ない状態を表す口語的な表現です。一時的な金欠状態から、深刻な経済的困難まで、幅広い状況で使用されます。例えば、「I'm broke until payday.（給料日までお金がない。）」のように使われます。",
+      "etymology": "「break」（壊れる）から派生し、お金が底をついた、破産した状態を表す俗語です。",
+      "pronounciation": "/broʊk/",
+      "scriptContext": "Beverly: He’s also broke. Did he mention that?",
+      "scriptContextTranslation": "Beverly: 彼、無一文なのよ。言ったかしら？"
     },
     {
       "id": 81,
@@ -970,7 +1290,11 @@
         "彼らを何が引き留めているのか"
       ],
       "correctAnswer": "彼らを何が引き留めているのか",
-      "explanation": "「What's keeping them?」は、誰かが遅れている理由や、何が彼らの到着を遅らせているのかを尋ねる際に使われる表現です。文字通りには「何が彼らを引き留めているのか」という意味になります。例えば、待ち合わせに遅れている人たちに対して使われます。"
+      "explanation": "「What's keeping them?」は、誰かが遅れている理由や、何が彼らの到着を遅らせているのかを尋ねる際に使われる表現です。文字通りには「何が彼らを引き留めているのか」という意味になります。例えば、待ち合わせに遅れている人たちに対して使われます。",
+      "etymology": "「彼らを何が引き留めているのか」という意味で、誰かの到着が遅れている理由を尋ねる際に使われます。",
+      "pronounciation": "",
+      "scriptContext": "Not Found",
+      "scriptContextTranslation": "Not Found"
     },
     {
       "id": 82,
@@ -982,7 +1306,11 @@
         "私を無視しようとしている"
       ],
       "correctAnswer": "私を陥れようとしている",
-      "explanation": "「out to get me」は、誰か（または何か）が自分を困らせたり、傷つけたり、不利な状況に陥れようと企んでいる、という被害妄想的なニュアンスを含む表現です。特に、権力を持った存在や組織が個人を標的にしていると感じる際に使われます。例えば、「I feel like the IRS is out to get me.（国税庁が私を陥れようとしている気がする。）」のように使われます。"
+      "explanation": "「out to get me」は、誰か（または何か）が自分を困らせたり、傷つけたり、不利な状況に陥れようと企んでいる、という被害妄想的なニュアンスを含む表現です。特に、権力を持った存在や組織が個人を標的にしていると感じる際に使われます。例えば、「I feel like the IRS is out to get me.（国税庁が私を陥れようとしている気がする。）」のように使われます。",
+      "etymology": "誰かが自分を陥れようとしている、という被害妄想的なニュアンスを含む表現です。",
+      "pronounciation": "",
+      "scriptContext": "Howard: I’m telling you, I’m not on drugs. The government’s out to get me.",
+      "scriptContextTranslation": "Howard: だから言ってるだろ、麻薬なんてやってない！ 政府が俺を陥れようとしてるんだ！"
     },
     {
       "id": 83,
@@ -994,7 +1322,11 @@
         "無視した"
       ],
       "correctAnswer": "交配した",
-      "explanation": "「mate with」は、動物や人間が配偶行動を行う、つまり交尾または結婚することを意味します。学術的な文脈や、生物学的な話題で使われることが多いです。ここではネアンデルタール人とホモサピエンスの異種交配について述べています。"
+      "explanation": "「mate with」は、動物や人間が配偶行動を行う、つまり交尾または結婚することを意味します。学術的な文脈や、生物学的な話題で使われることが多いです。ここではネアンデルタール人とホモサピエンスの異種交配について述べています。",
+      "etymology": "「mate」（つがいになる）は、動物や人間が配偶行動を行うことを意味します。",
+      "pronounciation": "",
+      "scriptContext": "Alfred: Now, one of the more exciting things to be found recently is that Neanderthals and Homo Sapiens frequently mated with each other.",
+      "scriptContextTranslation": "Alfred: 近年発見された興味深いことの一つに、ネアンデルタール人とホモ・サピエンスが頻繁に交配していたということがあります。"
     },
     {
       "id": 84,
@@ -1006,7 +1338,11 @@
         "あなたがいなければ成功できない"
       ],
       "correctAnswer": "あなたがいなければ道に迷う",
-      "explanation": "「I'd be lost without you」は、相手の存在が自分にとって非常に重要であり、その人がいなければどうしていいかわからない、という意味を表す表現です。精神的な支えや、実質的な助けに対する感謝の気持ちを示す際に使われます。例えば、「I'd be lost without your guidance.（あなたの指導がなければ、私はどうしていいかわからないでしょう。）」のように使われます。"
+      "explanation": "「I'd be lost without you」は、相手の存在が自分にとって非常に重要であり、その人がいなければどうしていいかわからない、という意味を表す表現です。精神的な支えや、実質的な助けに対する感謝の気持ちを示す際に使われます。例えば、「I'd be lost without your guidance.（あなたの指導がなければ、私はどうしていいかわからないでしょう。）」のように使われます。",
+      "etymology": "「あなたがいなければ道に迷う」という意味で、相手の存在が自分にとって非常に重要であることを表します。",
+      "pronounciation": "",
+      "scriptContext": "Amy: I’d be lost without you.",
+      "scriptContextTranslation": "Amy: あなたがいなかったら途方に暮れてたわ。"
     },
     {
       "id": 85,
@@ -1018,7 +1354,11 @@
         "恋人"
       ],
       "correctAnswer": "花嫁",
-      "explanation": "「bride-to-be」は、結婚を控えている女性、つまり婚約者のことを指す言葉です。結婚式の準備や話題の中でよく使われます。例えば、「The bride-to-be is very excited about the wedding.（花嫁は結婚式をとても楽しみにしている。）」のように使われます。"
+      "explanation": "「bride-to-be」は、結婚を控えている女性、つまり婚約者のことを指す言葉です。結婚式の準備や話題の中でよく使われます。例えば、「The bride-to-be is very excited about the wedding.（花嫁は結婚式をとても楽しみにしている。）」のように使われます。",
+      "etymology": "「bride」（花嫁）と「to be」（～になる予定の）が組み合わさった言葉で、結婚を控えている女性を指します。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: Uh, I would like to propose a toast to my wife and bride-to-be.",
+      "scriptContextTranslation": "Leonard: ええと、妻と未来の妻に乾杯したいと思います。"
     },
     {
       "id": 86,
@@ -1030,7 +1370,11 @@
         "無視する"
       ],
       "correctAnswer": "賛成",
-      "explanation": "「Hear, hear」は、スピーチや意見に同意や賛成を示す際に使われる英語の感嘆詞です。主にイギリス英語で使用され、フォーマルな場面や公的な場でよく聞かれます。日本語の「その通り」「よく言った」に近いニュアンスです。"
+      "explanation": "「Hear, hear」は、スピーチや意見に同意や賛成を示す際に使われる英語の感嘆詞です。主にイギリス英語で使用され、フォーマルな場面や公的な場でよく聞かれます。日本語の「その通り」「よく言った」に近いニュアンスです。",
+      "etymology": "スピーチや意見に同意や賛成を示す際に使われる英語の感嘆詞です。主にイギリス英語で使用されます。",
+      "pronounciation": "",
+      "scriptContext": "Amy: Hear, hear.",
+      "scriptContextTranslation": "Amy: その通り。"
     },
     {
       "id": 87,
@@ -1042,7 +1386,11 @@
         "無視する"
       ],
       "correctAnswer": "落ち着く",
-      "explanation": "「calm down」は、感情が高ぶっている人や、パニックになっている人に対して、落ち着くように促す際に使われる表現です。状況を鎮静化させるためによく使われます。例えば、「Calm down, there's no need to panic.（落ち着いて、パニックになる必要はありません。）」のように使われます。"
+      "explanation": "「calm down」は、感情が高ぶっている人や、パニックになっている人に対して、落ち着くように促す際に使われる表現です。状況を鎮静化させるためによく使われます。例えば、「Calm down, there's no need to panic.（落ち着いて、パニックになる必要はありません。）」のように使われます。",
+      "etymology": "興奮している人やパニックになっている人に対して、落ち着くように促す際に使われる表現です。",
+      "pronounciation": "",
+      "scriptContext": "Mary: All right, everyone, calm down. Let’s all remember what it says in the Bible: He who is slow to anger is better than the mighty.",
+      "scriptContextTranslation": "Mary: さあ皆さん、落ち着いて。聖書の言葉を思い出しましょう。「怒るのが遅い者は勇者にまさる」とあります。"
     },
     {
       "id": 88,
@@ -1054,7 +1402,11 @@
         "怒りを煽る"
       ],
       "correctAnswer": "怒りを抑える",
-      "explanation": "「slow to anger」は、怒るのが遅い、つまり、すぐに怒らない、冷静さを保つという意味です。聖書の引用にもあるように、忍耐力や自制心の重要性を示す際に用いられます。例えば、「He is slow to anger and quick to forgive.（彼は怒るのが遅く、すぐに許す。）」のように使われます。"
+      "explanation": "「slow to anger」は、怒るのが遅い、つまり、すぐに怒らない、冷静さを保つという意味です。聖書の引用にもあるように、忍耐力や自制心の重要性を示す際に用いられます。例えば、「He is slow to anger and quick to forgive.（彼は怒るのが遅く、すぐに許す。）」のように使われます。",
+      "etymology": "怒るのが遅い、つまり、すぐに怒らない、冷静さを保つという意味です。",
+      "pronounciation": "",
+      "scriptContext": "Mary: All right, everyone, calm down. Let’s all remember what it says in the Bible: He who is slow to anger is better than the mighty.",
+      "scriptContextTranslation": "Mary: さあ皆さん、落ち着いて。聖書の言葉を思い出しましょう。「怒るのが遅い者は勇者にまさる」とあります。"
     },
     {
       "id": 89,
@@ -1066,7 +1418,11 @@
         "それを忘れる"
       ],
       "correctAnswer": "それに取り掛かる",
-      "explanation": "「get on that」は、特定のタスクや仕事に取り掛かる、または始めるという意味を持つ口語的な表現です。提案や指示を受けて、すぐに実行に移すことを示す際に使われます。例えば、「We need to order the supplies, I'll get on that right away.（備品を注文する必要があります。すぐに取り掛かります。）」のように使われます。"
+      "explanation": "「get on that」は、特定のタスクや仕事に取り掛かる、または始めるという意味を持つ口語的な表現です。提案や指示を受けて、すぐに実行に移すことを示す際に使われます。例えば、「We need to order the supplies, I'll get on that right away.（備品を注文する必要があります。すぐに取り掛かります。）」のように使われます。",
+      "etymology": "特定のタスクや仕事に取り掛かる、または始めるという意味を持つ口語的な表現です。",
+      "pronounciation": "",
+      "scriptContext": "Penny: Um, if, if we want to order the soufflé, we might want to get on that.",
+      "scriptContextTranslation": "Penny: あの、もし、もしスフレを注文したいなら、そろそろ頼んだ方がいいかも。"
     },
     {
       "id": 90,
@@ -1078,7 +1434,11 @@
         "パーティーを始める"
       ],
       "correctAnswer": "寝る時間にする",
-      "explanation": "「call it a night」は、その日の活動を終えて、寝る時間にする、または帰ることを意味する一般的な表現です。特に、夜間の集まりやイベントの終わりに使われます。例えば、「It's getting late, let's call it a night.（遅くなってきたので、そろそろ終わりにしましょう。）」のように使われます。"
+      "explanation": "「call it a night」は、その日の活動を終えて、寝る時間にする、または帰ることを意味する一般的な表現です。特に、夜間の集まりやイベントの終わりに使われます。例えば、「It's getting late, let's call it a night.（遅くなってきたので、そろそろ終わりにしましょう。）」のように使われます。",
+      "etymology": "その日の活動を終えて、寝る時間にする、または帰ることを意味する一般的な表現です。",
+      "pronounciation": "",
+      "scriptContext": "Alfred: Leonard, if you don’t mind, I, I think I’m a little tired. I’m gonna call it a night.",
+      "scriptContextTranslation": "Alfred: レナード、もしよかったら、少し疲れたから、今日はこれで終わりにしようと思う。"
     },
     {
       "id": 91,
@@ -1090,7 +1450,11 @@
         "退屈している"
       ],
       "correctAnswer": "疲れている",
-      "explanation": "「tuckered out」は、「tired」よりも少し口語的で、非常に疲れている、くたくたに疲れているという意味を表す表現です。特に、長い一日や激しい活動の後に使われます。例えば、「After hiking all day, I was really tuckered out.（一日中ハイキングをした後、本当にくたくたに疲れました。）」のように使われます。"
+      "explanation": "「tuckered out」は、「tired」よりも少し口語的で、非常に疲れている、くたくたに疲れているという意味を表す表現です。特に、長い一日や激しい活動の後に使われます。例えば、「After hiking all day, I was really tuckered out.（一日中ハイキングをした後、本当にくたくたに疲れました。）」のように使われます。",
+      "etymology": "「tired」よりも少し口語的で、非常に疲れている、くたくたに疲れているという意味を表す表現です。",
+      "pronounciation": "",
+      "scriptContext": "Mary: I’m a little tuckered out myself, so I will see you all in the morning.",
+      "scriptContextTranslation": "Mary: 私も少し疲れましたので、皆さん、また明日。"
     },
     {
       "id": 92,
@@ -1102,7 +1466,11 @@
         "夜食"
       ],
       "correctAnswer": "寝酒",
-      "explanation": "「nightcap」は、寝る前に飲む一杯のお酒、特にリラックス効果を期待して飲む軽いアルコール飲料を指します。しばしば、就寝前の習慣として行われます。例えば、「He always has a nightcap before going to bed.（彼はいつも寝る前に寝酒を飲む。）」のように使われます。"
+      "explanation": "「nightcap」は、寝る前に飲む一杯のお酒、特にリラックス効果を期待して飲む軽いアルコール飲料を指します。しばしば、就寝前の習慣として行われます。例えば、「He always has a nightcap before going to bed.（彼はいつも寝る前に寝酒を飲む。）」のように使われます。",
+      "etymology": "寝る前に飲む一杯のお酒、特にリラックス効果を期待して飲む軽いアルコール飲料を指します。",
+      "pronounciation": "/ˈnaɪtkæp/",
+      "scriptContext": "Alfred: Oh, so am I. Can I interest you in a nightcap?",
+      "scriptContextTranslation": "Alfred: ああ、私もです。おやすみの一杯でもいかがですか？"
     },
     {
       "id": 93,
@@ -1114,7 +1482,11 @@
         "秘密の"
       ],
       "correctAnswer": "明白な",
-      "explanation": "「obvious」は、誰にとっても明らかで、容易に理解できるという意味を持つ形容詞です。議論の余地がないほど明白な事実や状況を指す際に使われます。例えば、「It's obvious that he is in love with her.（彼が彼女に恋をしているのは明らかだ。）」のように使われます。"
+      "explanation": "「obvious」は、誰にとっても明らかで、容易に理解できるという意味を持つ形容詞です。議論の余地がないほど明白な事実や状況を指す際に使われます。例えば、「It's obvious that he is in love with her.（彼が彼女に恋をしているのは明らかだ。）」のように使われます。",
+      "etymology": "ラテン語の「obvius」（道で出会う）に由来し、誰にとっても明らかで、容易に理解できるという意味を表します。",
+      "pronounciation": "/ˈɒbviəs/",
+      "scriptContext": "Sheldon: I think it’s pretty obvious. They don’t want dessert ’cause they filled up on bread.",
+      "scriptContextTranslation": "Sheldon: かなり明白だと思います。彼らはパンでお腹いっぱいなので、デザートを欲しがらないのです。"
     },
     {
       "id": 94,
@@ -1126,7 +1498,11 @@
         "手紙を書いてくる"
       ],
       "correctAnswer": "テキストメッセージを返信する",
-      "explanation": "「text back」は、テキストメッセージ（SMS）に対して返信することを意味します。現代のコミュニケーションにおいて非常に一般的な行為であり、迅速な応答が期待されることが多いです。例えば、「I texted her, but she hasn't texted me back yet.（彼女にテキストメッセージを送ったけど、まだ返信がない。）」のように使われます。"
+      "explanation": "「text back」は、テキストメッセージ（SMS）に対して返信することを意味します。現代のコミュニケーションにおいて非常に一般的な行為であり、迅速な応答が期待されることが多いです。例えば、「I texted her, but she hasn't texted me back yet.（彼女にテキストメッセージを送ったけど、まだ返信がない。）」のように使われます。",
+      "etymology": "テキストメッセージに対して返信することを意味します。現代のコミュニケーションにおいて非常に一般的な行為です。",
+      "pronounciation": "",
+      "scriptContext": "Leonard: My father’s not texting me back.",
+      "scriptContextTranslation": "Leonard: 父もメールを返してくれない。"
     }
   ]
 }
