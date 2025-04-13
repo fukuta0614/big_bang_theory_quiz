@@ -41,11 +41,8 @@ const Home: React.FC = () => {
 
   // TODO: Update review mode button functionality for routing
   const handleStartReview = () => {
-    // Placeholder: Navigate to a review route or implement review logic
-    console.log("Review mode needs implementation with routing.");
-    // Example navigation (if a review route exists):
-    navigate('/review'); // Using navigate to resolve ESLint warning, assuming '/review' route exists or will be added
-    alert('Review mode functionality needs to be updated for the new routing structure. Navigating to placeholder /review');
+    // Navigate to the /review route
+    navigate('/review');
   };
 
   return (

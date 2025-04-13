@@ -62,8 +62,8 @@ function App() {
             path="/season/:seasonNumber/episode/:episodeNumber/questions"
             element={<QuestionList />} // QuestionList uses useParams
           />
-          {/* Add other routes here if needed, e.g., for review mode */}
-          {/* <Route path="/review" element={<QuizScreen review={true} />} /> */}
+          {/* Add a route for review mode */}
+          <Route path="/review" element={<QuizScreen review={true} />} />
         </Routes>
       </div>
       <Footer />
