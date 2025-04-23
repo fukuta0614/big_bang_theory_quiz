@@ -1,0 +1,16 @@
+{
+  "name": "Big Bang Theory Quiz",
+  "short_name": "BBT Quiz",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "The Big Bang Theory Quiz Web Application"
+}
