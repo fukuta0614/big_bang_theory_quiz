@@ -245,3 +245,29 @@
   }
   /* --- End Modal Media Query Adjustments --- */
 }
+
+/* --- Word List Toggle Button Styles (Inside Modal) --- */
+.modal-wordlist-toggle {
+  padding: 8px 15px;
+  font-size: 0.9em; /* Slightly smaller font */
+  background-color: #ffc107; /* Amber color */
+  color: #333; /* Dark text for contrast */
+  border: 1px solid #e0a800; /* Darker amber border */
+  border-radius: 8px;
+  cursor: pointer;
+  width: auto; /* Adjust width as needed, maybe not full width */
+  display: block; /* Ensure it takes its own line */
+  margin: 10px auto 0; /* Center horizontally, add space above */
+}
+
+.modal-wordlist-toggle:hover {
+  background-color: #e0a800; /* Darken on hover */
+}
+
+@media (max-width: 768px) {
+  .modal-wordlist-toggle {
+    padding: 6px 12px;
+    font-size: 0.8em;
+  }
+}
+/* --- End Word List Toggle Button Styles --- */

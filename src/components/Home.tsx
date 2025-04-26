@@ -77,18 +77,18 @@ const Home: React.FC = () => {
         <div className="review-controls">
           {/* Update onClick to use the local handleStartReview */}
           <button onClick={handleStartReview} className="home-button review-button">
-            復習モード
+            単語帳 {/* Changed text */}
           </button>
           <button
             onClick={() => {
-              if (window.confirm('復習データをクリアしますか？')) {
-                localStorage.removeItem('incorrectQuestions');
-                alert('復習データをクリアしました。');
+              if (window.confirm('単語帳データをクリアしますか？')) { // Changed confirmation text
+                localStorage.removeItem('wordListQuestions'); // Changed localStorage key
+                alert('単語帳データをクリアしました。'); // Changed alert text
               }
             }}
             className="home-button clear-button"
           >
-            復習データをクリア
+            単語帳データをクリア {/* Changed button text */}
           </button>
         </div>
       </div>
