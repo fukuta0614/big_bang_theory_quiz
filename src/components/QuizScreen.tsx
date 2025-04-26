@@ -252,6 +252,24 @@ const QuizScreen: React.FC<QuizScreenProps> = ({ review }) => {
         </div>
       )}
 
+      {/* Navigation Buttons */}
+      <div className="navigation-buttons">
+        <button
+          onClick={() => setCurrentQuestionIndex(currentQuestionIndex - 1)}
+          disabled={currentQuestionIndex === 0}
+          className="navigation-button"
+        >
+          前の問題
+        </button>
+        <button
+          onClick={() => setCurrentQuestionIndex(currentQuestionIndex + 1)}
+          disabled={currentQuestionIndex === quizData.questions.length - 1}
+          className="navigation-button"
+        >
+          次の問題
+        </button>
+      </div>
+
   {/* Removed the original next button and quiz finished message */}
   {/* The logic is now handled by the modal button and the Home button */}
   <button onClick={() => navigate(`/season/${seasonNumber}/episode/${episodeNumber}/questions`)}>問題一覧に戻る</button>
