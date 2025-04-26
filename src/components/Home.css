@@ -5,6 +5,10 @@
   margin: 0 auto; /* Center the container */
 }
 
+.home-container h1 {
+  font-size: 1.5em;
+}
+
 .controls-container {
   display: flex;
   justify-content: space-between;

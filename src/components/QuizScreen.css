@@ -8,6 +8,10 @@
   overflow-y: auto;
 }
 
+.quiz-container p {
+  font-size: 1.2em;
+}
+
 .question-container {
   margin-bottom: 10px;
   text-align: center;

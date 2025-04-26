@@ -60,6 +60,7 @@ const QuestionList: React.FC = () => {
   return (
     <div className="question-list-container">
       <h1>シーズン {seasonNumber} エピソード {episodeNumber} 問題一覧</h1>
+      <button onClick={() => navigate('/')} className="back-button">ホームに戻る</button>
       {questions.length > 0 ? (
         <ul className="question-list">
           {questions.map((question, index) => (
@@ -75,7 +76,6 @@ const QuestionList: React.FC = () => {
       ) : (
         <p>このエピソードには問題がありません。</p>
       )}
-      <button onClick={() => navigate('/')} className="back-button">ホームに戻る</button>
     </div>
   );
 };
